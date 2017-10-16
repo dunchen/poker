@@ -1,0 +1,32 @@
+PokerStars Hand #159414519913:  Hold'em Limit ($3/$6 USD) - 2016/10/03 8:07:15 ET
+Table 'Caelium' 6-max Seat #1 is the button
+Seat 1: fsreibnitz ($156.89 in chips)
+Seat 4: Agrotait ($64.10 in chips)
+fsreibnitz: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+fsreibnitz: raises $3 to $6
+Agrotait: raises $3 to $9
+fsreibnitz: calls $3
+*** FLOP *** [5s 5d 6d]
+Agrotait: bets $3
+fsreibnitz: raises $3 to $6
+Agrotait: calls $3
+*** TURN *** [5s 5d 6d] [Qc]
+Agrotait: checks
+fsreibnitz: bets $6
+Agrotait: calls $6
+*** RIVER *** [5s 5d 6d Qc] [2s]
+Agrotait: checks
+fsreibnitz: checks
+*** SHOW DOWN ***
+Agrotait: shows [As Tc] (a pair of Fives)
+fsreibnitz: shows [6h Jh] (two pair, Sixes and Fives)
+fsreibnitz collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [5s 5d 6d Qc 2s]
+Seat 1: fsreibnitz (button) (small blind) showed [6h Jh] and won ($41.50) with two pair, Sixes and Fives
+Seat 4: Agrotait (big blind) showed [As Tc] and lost with a pair of Fives
+
+

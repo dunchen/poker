@@ -1,0 +1,55 @@
+PokerStars Hand #175259009629:  Hold'em Limit ($3/$6 USD) - 2017/09/05 17:55:09 ET
+Table 'Eugenisis' 6-max Seat #4 is the button
+Seat 1: sismos404 ($76.60 in chips)
+Seat 4: Actionni13 ($150 in chips)
+Actionni13: posts small blind $1
+sismos404: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+ToDaFelt joins the table at seat #2
+sismos404: calls $3
+*** FLOP *** [Td 6d Kd]
+sismos404: checks
+Actionni13: bets $3
+sismos404: folds
+Uncalled bet ($3) returned to Actionni13
+Actionni13 collected $11.76 from pot
+Actionni13: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Td 6d Kd]
+Seat 1: sismos404 (big blind) folded on the Flop
+Seat 4: Actionni13 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #175259065291:  Hold'em Limit ($3/$6 USD) - 2017/09/05 17:56:43 ET
+Table 'Eugenisis' 6-max Seat #4 is the button
+Seat 2: ToDaFelt ($165.12 in chips)
+Seat 4: Actionni13 ($150 in chips)
+Actionni13: posts small blind $1
+sismos404: is sitting out
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [Ac 6d 4d]
+sismos404 leaves the table
+ToDaFelt: checks
+Actionni13: checks
+*** TURN *** [Ac 6d 4d] [Jc]
+ToDaFelt: bets $6
+Actionni13: calls $6
+*** RIVER *** [Ac 6d 4d Jc] [9c]
+ToDaFelt: bets $6
+Actionni13: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [Jd 7h] (a pair of Jacks)
+Actionni13: mucks hand
+ToDaFelt collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Ac 6d 4d Jc 9c]
+Seat 2: ToDaFelt (big blind) showed [Jd 7h] and won ($35.50) with a pair of Jacks
+Seat 4: Actionni13 (button) (small blind) mucked
+
+

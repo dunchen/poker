@@ -1,0 +1,59 @@
+PokerStars Hand #152917847564:  Hold'em Limit ($3/$6 USD) - 2016/05/06 1:21:05 ET
+Table 'Keid' 6-max Seat #3 is the button
+Seat 3: Agrotait ($72 in chips)
+Seat 4: Mudager ($120 in chips)
+Agrotait: posts small blind $1
+Mudager: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+Mudager: calls $3
+*** FLOP *** [Kc 2d 6d]
+Mudager: checks
+Agrotait: checks
+*** TURN *** [Kc 2d 6d] [Ac]
+Mudager: checks
+Agrotait: bets $6
+Mudager: folds
+Uncalled bet ($6) returned to Agrotait
+Agrotait collected $11.76 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kc 2d 6d Ac]
+Seat 3: Agrotait (button) (small blind) collected ($11.76)
+Seat 4: Mudager (big blind) folded on the Turn
+
+
+PokerStars Hand #152917858373:  Hold'em Limit ($3/$6 USD) - 2016/05/06 1:21:49 ET
+Table 'Keid' 6-max Seat #4 is the button
+Seat 3: Agrotait ($77.76 in chips)
+Seat 4: Mudager ($120 in chips)
+Mudager: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+Mudager: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [3h Kd 3c]
+Agrotait: checks
+Mudager: bets $3
+Agrotait: calls $3
+*** TURN *** [3h Kd 3c] [Jc]
+Agrotait: checks
+Mudager: bets $6
+Agrotait: calls $6
+*** RIVER *** [3h Kd 3c Jc] [Td]
+Agrotait: checks
+Mudager: bets $6
+Agrotait: raises $6 to $12
+Mudager: calls $6
+*** SHOW DOWN ***
+Agrotait: shows [Qc 9s] (a straight, Nine to King)
+Mudager: mucks hand
+Agrotait collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [3h Kd 3c Jc Td]
+Seat 3: Agrotait (big blind) showed [Qc 9s] and won ($53.50) with a straight, Nine to King
+Seat 4: Mudager (button) (small blind) mucked
+
+

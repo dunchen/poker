@@ -1,0 +1,88 @@
+PokerStars Hand #153815427232:  Hold'em Limit ($3/$6 USD) - 2016/05/25 7:44:26 ET
+Table 'Mashona' 6-max Seat #1 is the button
+Seat 1: Airbag999 ($120 in chips)
+Seat 3: lucky80185 ($30 in chips)
+Airbag999: posts small blind $1
+lucky80185: posts big blind $3
+*** HOLE CARDS ***
+Airbag999: raises $3 to $6
+lucky80185: calls $3
+*** FLOP *** [Th 2c Kh]
+lucky80185: bets $3
+Airbag999: calls $3
+*** TURN *** [Th 2c Kh] [3c]
+lucky80185: checks
+Airbag999: bets $6
+TbIP-TbIP 88 leaves the table
+lucky80185: raises $6 to $12
+Airbag999: calls $6
+*** RIVER *** [Th 2c Kh 3c] [4c]
+lucky80185: checks
+Airbag999: checks
+*** SHOW DOWN ***
+lucky80185: shows [Qd 9h] (high card King)
+Airbag999: shows [6s 6d] (a pair of Sixes)
+Airbag999 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Th 2c Kh 3c 4c]
+Seat 1: Airbag999 (button) (small blind) showed [6s 6d] and won ($41.50) with a pair of Sixes
+Seat 3: lucky80185 (big blind) showed [Qd 9h] and lost with high card King
+
+
+PokerStars Hand #153815448710:  Hold'em Limit ($3/$6 USD) - 2016/05/25 7:45:12 ET
+Table 'Mashona' 6-max Seat #1 is the button
+Seat 1: Airbag999 ($149.14 in chips)
+Seat 2: Big_M ($120 in chips)
+Airbag999: posts small blind $1
+Big_M: posts big blind $3
+*** HOLE CARDS ***
+Airbag999: raises $3 to $6
+lucky80185 leaves the table
+Big_M: calls $3
+*** FLOP *** [7d Ac Jh]
+Big_M: checks
+Airbag999: bets $3
+Big_M: folds
+Uncalled bet ($3) returned to Airbag999
+Airbag999 collected $11.76 from pot
+Airbag999: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7d Ac Jh]
+Seat 1: Airbag999 (button) (small blind) collected ($11.76)
+Seat 2: Big_M (big blind) folded on the Flop
+
+
+PokerStars Hand #153815456613:  Hold'em Limit ($3/$6 USD) - 2016/05/25 7:45:30 ET
+Table 'Mashona' 6-max Seat #2 is the button
+Seat 1: Airbag999 ($154.90 in chips)
+Seat 2: Big_M ($114 in chips)
+Big_M: posts small blind $1
+Airbag999: posts big blind $3
+*** HOLE CARDS ***
+Big_M: raises $3 to $6
+Airbag999: calls $3
+*** FLOP *** [8h Qc Jd]
+Airbag999: checks
+Big_M: bets $3
+Airbag999: raises $3 to $6
+Big_M: calls $3
+*** TURN *** [8h Qc Jd] [9c]
+Airbag999: checks
+Big_M: checks
+*** RIVER *** [8h Qc Jd 9c] [Ac]
+Airbag999: checks
+Big_M: bets $6
+Airbag999: calls $6
+*** SHOW DOWN ***
+Big_M: shows [3s Qh] (a pair of Queens)
+Airbag999: mucks hand
+Big_M collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [8h Qc Jd 9c Ac]
+Seat 1: Airbag999 (big blind) mucked
+Seat 2: Big_M (button) (small blind) showed [3s Qh] and won ($35.50) with a pair of Queens
+
+

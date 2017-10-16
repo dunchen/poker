@@ -1,0 +1,758 @@
+PokerStars Hand #176472517261:  Hold'em Limit ($3/$6 USD) - 2017/10/04 6:17:51 ET
+Table 'Werra' 6-max Seat #4 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 4: breich90 ($137.50 in chips)
+breich90: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+breich90: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Kc 2s 2h]
+VolkovDmitri: checks
+breich90: bets $3
+VolkovDmitri: folds
+Uncalled bet ($3) returned to breich90
+breich90 collected $11.76 from pot
+breich90: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kc 2s 2h]
+Seat 1: VolkovDmitri (big blind) folded on the Flop
+Seat 4: breich90 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #176472522495:  Hold'em Limit ($3/$6 USD) - 2017/10/04 6:18:05 ET
+Table 'Werra' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 4: breich90 ($143.26 in chips)
+VolkovDmitri: posts small blind $1
+breich90: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+breich90: calls $3
+*** FLOP *** [Qc 5c Ah]
+breich90: checks
+VolkovDmitri: bets $3
+breich90: calls $3
+*** TURN *** [Qc 5c Ah] [7s]
+breich90: checks
+VolkovDmitri: checks
+*** RIVER *** [Qc 5c Ah 7s] [Kc]
+breich90: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+breich90: shows [6c Js] (high card Ace)
+VolkovDmitri: shows [Ks 9s] (a pair of Kings)
+VolkovDmitri collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qc 5c Ah 7s Kc]
+Seat 1: VolkovDmitri (button) (small blind) showed [Ks 9s] and won ($29.50) with a pair of Kings
+Seat 4: breich90 (big blind) showed [6c Js] and lost with high card Ace
+
+
+PokerStars Hand #176472504386:  Hold'em Limit ($3/$6 USD) - 2017/10/04 6:17:16 ET
+Table 'Werra' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 4: breich90 ($120 in chips)
+VolkovDmitri: posts small blind $1
+breich90: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+breich90: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [8d 8h 6d]
+breich90: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [8d 8h 6d] [7h]
+breich90: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [8d 8h 6d 7h] [Qd]
+breich90: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+breich90: shows [6s 9s] (two pair, Eights and Sixes)
+VolkovDmitri: mucks hand
+breich90 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [8d 8h 6d 7h Qd]
+Seat 1: VolkovDmitri (button) (small blind) mucked
+Seat 4: breich90 (big blind) showed [6s 9s] and won ($35.50) with two pair, Eights and Sixes
+
+
+PokerStars Hand #176472532129:  Hold'em Limit ($3/$6 USD) - 2017/10/04 6:18:32 ET
+Table 'Werra' 6-max Seat #4 is the button
+Seat 1: VolkovDmitri ($134.50 in chips)
+Seat 4: breich90 ($128.26 in chips)
+breich90: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+breich90: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Jh 2d Th]
+VolkovDmitri: checks
+breich90: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [Jh 2d Th] [Jd]
+VolkovDmitri: checks
+breich90: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to breich90
+breich90 collected $17.64 from pot
+breich90: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Jh 2d Th Jd]
+Seat 1: VolkovDmitri (big blind) folded on the Turn
+Seat 4: breich90 (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #176472553725:  Hold'em Limit ($3/$6 USD) - 2017/10/04 6:19:31 ET
+Table 'Werra' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($125.50 in chips)
+Seat 4: breich90 ($136.90 in chips)
+VolkovDmitri: posts small blind $1
+breich90: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+breich90: calls $3
+*** FLOP *** [5c 2c Js]
+breich90: checks
+VolkovDmitri: bets $3
+breich90: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5c 2c Js]
+Seat 1: VolkovDmitri (button) (small blind) collected ($11.76)
+Seat 4: breich90 (big blind) folded on the Flop
+
+
+PokerStars Hand #176472558843:  Hold'em Limit ($3/$6 USD) - 2017/10/04 6:19:45 ET
+Table 'Werra' 6-max Seat #4 is the button
+Seat 1: VolkovDmitri ($131.26 in chips)
+Seat 4: breich90 ($130.90 in chips)
+breich90: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+breich90: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+breich90: calls $3
+*** FLOP *** [7c 8d 8s]
+VolkovDmitri: bets $3
+breich90: calls $3
+*** TURN *** [7c 8d 8s] [Ah]
+VolkovDmitri: bets $6
+breich90: calls $6
+*** RIVER *** [7c 8d 8s Ah] [Kc]
+VolkovDmitri: bets $6
+breich90: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Ac 7s] (two pair, Aces and Eights)
+breich90: mucks hand
+VolkovDmitri collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7c 8d 8s Ah Kc]
+Seat 1: VolkovDmitri (big blind) showed [Ac 7s] and won ($47.50) with two pair, Aces and Eights
+Seat 4: breich90 (button) (small blind) mucked
+
+
+PokerStars Hand #176472597025:  Hold'em Limit ($3/$6 USD) - 2017/10/04 6:21:29 ET
+Table 'Werra' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($157.40 in chips)
+Seat 4: breich90 ($103.66 in chips)
+VolkovDmitri: posts small blind $1
+breich90: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+breich90: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [Kd As Jc]
+breich90: bets $3
+VolkovDmitri: folds
+Uncalled bet ($3) returned to breich90
+breich90 collected $17.64 from pot
+breich90: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kd As Jc]
+Seat 1: VolkovDmitri (button) (small blind) folded on the Flop
+Seat 4: breich90 (big blind) collected ($17.64)
+
+
+PokerStars Hand #176472573884:  Hold'em Limit ($3/$6 USD) - 2017/10/04 6:20:26 ET
+Table 'Werra' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($154.76 in chips)
+Seat 4: breich90 ($106.90 in chips)
+VolkovDmitri: posts small blind $1
+breich90: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+breich90: calls $3
+*** FLOP *** [Js Jc Tc]
+breich90: checks
+VolkovDmitri: bets $3
+breich90: calls $3
+*** TURN *** [Js Jc Tc] [4s]
+breich90: checks
+VolkovDmitri: checks
+*** RIVER *** [Js Jc Tc 4s] [8c]
+breich90: checks
+VolkovDmitri: bets $6
+breich90: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $17.64 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Js Jc Tc 4s 8c]
+Seat 1: VolkovDmitri (button) (small blind) collected ($17.64)
+Seat 4: breich90 (big blind) folded on the River
+
+
+PokerStars Hand #176472589861:  Hold'em Limit ($3/$6 USD) - 2017/10/04 6:21:10 ET
+Table 'Werra' 6-max Seat #4 is the button
+Seat 1: VolkovDmitri ($163.40 in chips)
+Seat 4: breich90 ($97.90 in chips)
+breich90: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+breich90: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [6c 2s 2h]
+VolkovDmitri: checks
+breich90: bets $3
+VolkovDmitri: folds
+Uncalled bet ($3) returned to breich90
+breich90 collected $11.76 from pot
+breich90: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6c 2s 2h]
+Seat 1: VolkovDmitri (big blind) folded on the Flop
+Seat 4: breich90 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #176472602923:  Hold'em Limit ($3/$6 USD) - 2017/10/04 6:21:45 ET
+Table 'Werra' 6-max Seat #4 is the button
+Seat 1: VolkovDmitri ($148.40 in chips)
+Seat 4: breich90 ($112.30 in chips)
+breich90: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+breich90: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Jd 2d Th]
+VolkovDmitri: checks
+breich90: checks
+*** TURN *** [Jd 2d Th] [Ac]
+VolkovDmitri: bets $6
+breich90: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jd 2d Th Ac]
+Seat 1: VolkovDmitri (big blind) collected ($11.76)
+Seat 4: breich90 (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #176472610028:  Hold'em Limit ($3/$6 USD) - 2017/10/04 6:22:05 ET
+Table 'Werra' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($154.16 in chips)
+Seat 4: breich90 ($106.30 in chips)
+VolkovDmitri: posts small blind $1
+breich90: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+breich90: calls $3
+*** FLOP *** [4h Jc 5c]
+breich90: checks
+VolkovDmitri: bets $3
+breich90: calls $3
+*** TURN *** [4h Jc 5c] [Kd]
+breich90: checks
+VolkovDmitri: checks
+*** RIVER *** [4h Jc 5c Kd] [As]
+breich90: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+breich90: shows [6h 4d] (a pair of Fours)
+VolkovDmitri: mucks hand
+breich90 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4h Jc 5c Kd As]
+Seat 1: VolkovDmitri (button) (small blind) mucked
+Seat 4: breich90 (big blind) showed [6h 4d] and won ($17.64) with a pair of Fours
+
+
+PokerStars Hand #176472620686:  Hold'em Limit ($3/$6 USD) - 2017/10/04 6:22:34 ET
+Table 'Werra' 6-max Seat #4 is the button
+Seat 1: VolkovDmitri ($145.16 in chips)
+Seat 4: breich90 ($114.94 in chips)
+breich90: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+breich90: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [7h Js 5h]
+VolkovDmitri: checks
+breich90: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [7h Js 5h] [8c]
+VolkovDmitri: checks
+breich90: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to breich90
+breich90 collected $17.64 from pot
+breich90: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7h Js 5h 8c]
+Seat 1: VolkovDmitri (big blind) folded on the Turn
+Seat 4: breich90 (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #176472631443:  Hold'em Limit ($3/$6 USD) - 2017/10/04 6:23:03 ET
+Table 'Werra' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($136.16 in chips)
+Seat 4: breich90 ($123.58 in chips)
+VolkovDmitri: posts small blind $1
+breich90: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+breich90: calls $3
+*** FLOP *** [4d 2h 8d]
+breich90: checks
+VolkovDmitri: bets $3
+breich90: calls $3
+*** TURN *** [4d 2h 8d] [Ah]
+breich90: checks
+VolkovDmitri: checks
+*** RIVER *** [4d 2h 8d Ah] [Qs]
+breich90: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+breich90: shows [3s 6s] (high card Ace)
+VolkovDmitri: shows [Td 9d] (high card Ace - Queen+Ten kicker)
+VolkovDmitri collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4d 2h 8d Ah Qs]
+Seat 1: VolkovDmitri (button) (small blind) showed [Td 9d] and won ($17.64) with high card Ace
+Seat 4: breich90 (big blind) showed [3s 6s] and lost with high card Ace
+
+
+PokerStars Hand #176472648388:  Hold'em Limit ($3/$6 USD) - 2017/10/04 6:23:50 ET
+Table 'Werra' 6-max Seat #4 is the button
+Seat 1: VolkovDmitri ($144.80 in chips)
+Seat 4: breich90 ($114.58 in chips)
+breich90: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+breich90: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: VolkovDmitri (big blind) collected ($2)
+Seat 4: breich90 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #176472651270:  Hold'em Limit ($3/$6 USD) - 2017/10/04 6:23:58 ET
+Table 'Werra' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($145.80 in chips)
+Seat 4: breich90 ($113.58 in chips)
+VolkovDmitri: posts small blind $1
+breich90: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+breich90: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [8d 4s 9h]
+breich90: bets $3
+VolkovDmitri: folds
+Uncalled bet ($3) returned to breich90
+breich90 collected $17.64 from pot
+breich90: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8d 4s 9h]
+Seat 1: VolkovDmitri (button) (small blind) folded on the Flop
+Seat 4: breich90 (big blind) collected ($17.64)
+
+
+PokerStars Hand #176472686261:  Hold'em Limit ($3/$6 USD) - 2017/10/04 6:25:32 ET
+Table 'Werra' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($130.80 in chips)
+Seat 4: breich90 ($127.98 in chips)
+VolkovDmitri: posts small blind $1
+breich90: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: folds
+Uncalled bet ($2) returned to breich90
+breich90 collected $2 from pot
+breich90: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: VolkovDmitri (button) (small blind) folded before Flop
+Seat 4: breich90 (big blind) collected ($2)
+
+
+PokerStars Hand #176472670747:  Hold'em Limit ($3/$6 USD) - 2017/10/04 6:24:50 ET
+Table 'Werra' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($133.80 in chips)
+Seat 4: breich90 ($125.22 in chips)
+VolkovDmitri: posts small blind $1
+breich90: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+breich90: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: VolkovDmitri (button) (small blind) collected ($6)
+Seat 4: breich90 (big blind) folded before Flop
+
+
+PokerStars Hand #176472664413:  Hold'em Limit ($3/$6 USD) - 2017/10/04 6:24:33 ET
+Table 'Werra' 6-max Seat #4 is the button
+Seat 1: VolkovDmitri ($136.80 in chips)
+Seat 4: breich90 ($122.22 in chips)
+breich90: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+breich90: raises $3 to $6
+VolkovDmitri: folds
+Uncalled bet ($3) returned to breich90
+breich90 collected $6 from pot
+breich90: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: VolkovDmitri (big blind) folded before Flop
+Seat 4: breich90 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #176472679285:  Hold'em Limit ($3/$6 USD) - 2017/10/04 6:25:13 ET
+Table 'Werra' 6-max Seat #4 is the button
+Seat 1: VolkovDmitri ($136.80 in chips)
+Seat 4: breich90 ($122.22 in chips)
+breich90: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+breich90: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Kd 5s Qd]
+VolkovDmitri: checks
+breich90: bets $3
+VolkovDmitri: folds
+Uncalled bet ($3) returned to breich90
+breich90 collected $11.76 from pot
+breich90: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kd 5s Qd]
+Seat 1: VolkovDmitri (big blind) folded on the Flop
+Seat 4: breich90 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #176472689966:  Hold'em Limit ($3/$6 USD) - 2017/10/04 6:25:42 ET
+Table 'Werra' 6-max Seat #4 is the button
+Seat 1: VolkovDmitri ($129.80 in chips)
+Seat 4: breich90 ($128.98 in chips)
+breich90: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+breich90: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+breich90: calls $3
+*** FLOP *** [2d 8h Qs]
+VolkovDmitri: bets $3
+breich90: calls $3
+*** TURN *** [2d 8h Qs] [2c]
+VolkovDmitri: checks
+breich90: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [2d 8h Qs 2c] [Ks]
+VolkovDmitri: checks
+breich90: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [5s Ac] (a pair of Deuces)
+breich90: mucks hand
+VolkovDmitri collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [2d 8h Qs 2c Ks]
+Seat 1: VolkovDmitri (big blind) showed [5s Ac] and won ($35.50) with a pair of Deuces
+Seat 4: breich90 (button) (small blind) mucked
+
+
+PokerStars Hand #176472704035:  Hold'em Limit ($3/$6 USD) - 2017/10/04 6:26:19 ET
+Table 'Werra' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($147.30 in chips)
+Seat 4: breich90 ($110.98 in chips)
+VolkovDmitri: posts small blind $1
+breich90: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+breich90: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [4c 2d 3c]
+breich90: bets $3
+VolkovDmitri: raises $3 to $6
+breich90: calls $3
+*** TURN *** [4c 2d 3c] [6s]
+breich90: checks
+VolkovDmitri: checks
+*** RIVER *** [4c 2d 3c 6s] [6h]
+breich90: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+breich90: shows [Js Qs] (a pair of Sixes)
+VolkovDmitri: mucks hand
+breich90 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4c 2d 3c 6s 6h]
+Seat 1: VolkovDmitri (button) (small blind) mucked
+Seat 4: breich90 (big blind) showed [Js Qs] and won ($29.50) with a pair of Sixes
+
+
+PokerStars Hand #176472746685:  Hold'em Limit ($3/$6 USD) - 2017/10/04 6:28:13 ET
+Table 'Werra' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 4: breich90 ($142.98 in chips)
+VolkovDmitri: posts small blind $1
+breich90: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+breich90: calls $3
+*** FLOP *** [Jh Ks Ac]
+breich90: checks
+VolkovDmitri: bets $3
+breich90: calls $3
+*** TURN *** [Jh Ks Ac] [Td]
+breich90: checks
+VolkovDmitri: checks
+*** RIVER *** [Jh Ks Ac Td] [5d]
+breich90: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+breich90: shows [3h Th] (a pair of Tens)
+VolkovDmitri: shows [6d Ts] (a pair of Tens)
+breich90 collected $8.82 from pot
+VolkovDmitri collected $8.82 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Jh Ks Ac Td 5d]
+Seat 1: VolkovDmitri (button) (small blind) showed [6d Ts] and won ($8.82) with a pair of Tens
+Seat 4: breich90 (big blind) showed [3h Th] and won ($8.82) with a pair of Tens
+
+
+PokerStars Hand #176472722589:  Hold'em Limit ($3/$6 USD) - 2017/10/04 6:27:08 ET
+Table 'Werra' 6-max Seat #4 is the button
+Seat 1: VolkovDmitri ($132.30 in chips)
+Seat 4: breich90 ($125.48 in chips)
+breich90: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+breich90: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+breich90: calls $3
+*** FLOP *** [5s Td 7d]
+VolkovDmitri: bets $3
+breich90: calls $3
+*** TURN *** [5s Td 7d] [2d]
+VolkovDmitri: checks
+breich90: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [5s Td 7d 2d] [6s]
+VolkovDmitri: checks
+breich90: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to breich90
+breich90 collected $35.50 from pot
+breich90: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5s Td 7d 2d 6s]
+Seat 1: VolkovDmitri (big blind) folded on the River
+Seat 4: breich90 (button) (small blind) collected ($35.50)
+
+
+PokerStars Hand #176472759174:  Hold'em Limit ($3/$6 USD) - 2017/10/04 6:28:47 ET
+Table 'Werra' 6-max Seat #4 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 4: breich90 ($142.80 in chips)
+breich90: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+breich90: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [2c Jh 2d]
+VolkovDmitri: checks
+breich90: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [2c Jh 2d] [5c]
+VolkovDmitri: checks
+breich90: checks
+*** RIVER *** [2c Jh 2d 5c] [8c]
+VolkovDmitri: bets $6
+breich90: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $17.64 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2c Jh 2d 5c 8c]
+Seat 1: VolkovDmitri (big blind) collected ($17.64)
+Seat 4: breich90 (button) (small blind) folded on the River
+
+
+PokerStars Hand #176472769836:  Hold'em Limit ($3/$6 USD) - 2017/10/04 6:29:16 ET
+Table 'Werra' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($128.64 in chips)
+Seat 4: breich90 ($133.80 in chips)
+VolkovDmitri: posts small blind $1
+breich90: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+breich90: calls $3
+*** FLOP *** [7s Qs Tc]
+breich90: checks
+VolkovDmitri: bets $3
+breich90: calls $3
+*** TURN *** [7s Qs Tc] [9d]
+breich90: checks
+VolkovDmitri: checks
+*** RIVER *** [7s Qs Tc 9d] [6s]
+breich90: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+breich90: shows [2h Kd] (high card King)
+VolkovDmitri: mucks hand
+breich90 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7s Qs Tc 9d 6s]
+Seat 1: VolkovDmitri (button) (small blind) mucked
+Seat 4: breich90 (big blind) showed [2h Kd] and won ($17.64) with high card King
+
+
+PokerStars Hand #176472780038:  Hold'em Limit ($3/$6 USD) - 2017/10/04 6:29:44 ET
+Table 'Werra' 6-max Seat #4 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 4: breich90 ($142.44 in chips)
+breich90: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+breich90: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [5d Jd Tc]
+VolkovDmitri: checks
+breich90: bets $3
+VolkovDmitri: raises $3 to $6
+breich90: calls $3
+*** TURN *** [5d Jd Tc] [Qs]
+WillemDuit joins the table at seat #6
+VolkovDmitri: bets $6
+breich90: raises $6 to $12
+VolkovDmitri: calls $6
+*** RIVER *** [5d Jd Tc Qs] [4s]
+VolkovDmitri: checks
+breich90: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+breich90: shows [5c 5h] (three of a kind, Fives)
+VolkovDmitri: mucks hand
+breich90 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [5d Jd Tc Qs 4s]
+Seat 1: VolkovDmitri (big blind) mucked
+Seat 4: breich90 (button) (small blind) showed [5c 5h] and won ($59.50) with three of a kind, Fives
+
+
+PokerStars Hand #176472802214:  Hold'em Limit ($3/$6 USD) - 2017/10/04 6:30:43 ET
+Table 'Werra' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 4: breich90 ($171.94 in chips)
+VolkovDmitri: posts small blind $1
+breich90: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+breich90: calls $3
+*** FLOP *** [Tc 3h Qs]
+breich90: checks
+VolkovDmitri: bets $3
+breich90: calls $3
+*** TURN *** [Tc 3h Qs] [4c]
+breich90: checks
+VolkovDmitri: bets $6
+breich90: calls $6
+*** RIVER *** [Tc 3h Qs 4c] [Th]
+breich90: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+breich90: shows [5h Ks] (a pair of Tens)
+VolkovDmitri: shows [Ac 4s] (two pair, Tens and Fours)
+VolkovDmitri collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Tc 3h Qs 4c Th]
+Seat 1: VolkovDmitri (button) (small blind) showed [Ac 4s] and won ($29.50) with two pair, Tens and Fours
+Seat 4: breich90 (big blind) showed [5h Ks] and lost with a pair of Tens
+
+
+PokerStars Hand #176473384926:  Hold'em Limit ($3/$6 USD) - 2017/10/04 6:56:23 ET
+Table 'Werra' 6-max Seat #2 is the button
+Seat 2: fire852181 ($293.90 in chips)
+Seat 6: WillemDuit ($45.12 in chips)
+fire852181: posts small blind $1
+breich90: is sitting out
+WillemDuit: posts big blind $3
+*** HOLE CARDS ***
+fire852181: folds
+Uncalled bet ($2) returned to WillemDuit
+WillemDuit collected $2 from pot
+WillemDuit: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: fire852181 (button) (small blind) folded before Flop
+Seat 6: WillemDuit (big blind) collected ($2)
+
+
+PokerStars Hand #176473387580:  Hold'em Limit ($3/$6 USD) - 2017/10/04 6:56:31 ET
+Table 'Werra' 6-max Seat #6 is the button
+Seat 2: fire852181 ($292.90 in chips)
+Seat 6: WillemDuit ($46.12 in chips)
+WillemDuit: posts small blind $1
+fire852181: posts big blind $3
+*** HOLE CARDS ***
+WillemDuit: raises $3 to $6
+fire852181: calls $3
+*** FLOP *** [Ac 9s Td]
+fire852181: checks
+WillemDuit: checks
+*** TURN *** [Ac 9s Td] [4d]
+fire852181: bets $6
+WillemDuit: folds
+Uncalled bet ($6) returned to fire852181
+fire852181 collected $11.76 from pot
+fire852181: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ac 9s Td 4d]
+Seat 2: fire852181 (big blind) collected ($11.76)
+Seat 6: WillemDuit (button) (small blind) folded on the Turn
+
+

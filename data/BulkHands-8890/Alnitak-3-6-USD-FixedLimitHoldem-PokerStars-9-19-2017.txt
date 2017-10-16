@@ -1,0 +1,82 @@
+PokerStars Hand #175842672237:  Hold'em Limit ($3/$6 USD) - 2017/09/19 7:29:39 ET
+Table 'Alnitak' 6-max Seat #1 is the button
+Seat 1: Helseløs ($168.45 in chips)
+Seat 4: Agrotait ($66 in chips)
+Helseløs: posts small blind $1
+B_loJkl joins the table at seat #2
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+Helseløs: folds
+Uncalled bet ($2) returned to Agrotait
+Agrotait collected $2 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Helseløs (button) (small blind) folded before Flop
+Seat 4: Agrotait (big blind) collected ($2)
+
+
+PokerStars Hand #175842675348:  Hold'em Limit ($3/$6 USD) - 2017/09/19 7:29:46 ET
+Table 'Alnitak' 6-max Seat #4 is the button
+Seat 1: Helseløs ($167.45 in chips)
+Seat 4: Agrotait ($67 in chips)
+Agrotait: posts small blind $1
+Helseløs: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+Helseløs: calls $3
+*** FLOP *** [7h 8d 8s]
+Helseløs: bets $3
+Agrotait: raises $3 to $6
+Helseløs: calls $3
+*** TURN *** [7h 8d 8s] [Tc]
+Helseløs: checks
+Agrotait: bets $6
+Helseløs: calls $6
+*** RIVER *** [7h 8d 8s Tc] [Qh]
+Helseløs: checks
+Agrotait: bets $6
+Helseløs: calls $6
+*** SHOW DOWN ***
+Agrotait: shows [Jc 8c] (three of a kind, Eights)
+Helseløs: mucks hand
+Agrotait collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7h 8d 8s Tc Qh]
+Seat 1: Helseløs (big blind) mucked
+Seat 4: Agrotait (button) (small blind) showed [Jc 8c] and won ($47.50) with three of a kind, Eights
+
+
+PokerStars Hand #175843082527:  Hold'em Limit ($3/$6 USD) - 2017/09/19 7:45:51 ET
+Table 'Alnitak' 6-max Seat #4 is the button
+Seat 4: B_loJkl ($81.07 in chips)
+Seat 6: Psynto ($219.42 in chips)
+B_loJkl: posts small blind $1
+rascal_319: is sitting out
+Psynto: posts big blind $3
+*** HOLE CARDS ***
+rascal_319 leaves the table
+B_loJkl: raises $3 to $6
+Psynto: calls $3
+*** FLOP *** [Qd 9h Ts]
+Psynto: checks
+SONCKG leaves the table
+B_loJkl: checks
+*** TURN *** [Qd 9h Ts] [9d]
+Psynto: checks
+B_loJkl: checks
+*** RIVER *** [Qd 9h Ts 9d] [6s]
+Psynto: checks
+B_loJkl: bets $6
+Psynto: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qd 9h Ts 9d 6s]
+Seat 4: B_loJkl (button) (small blind) collected ($11.76)
+Seat 6: Psynto (big blind) folded on the River
+
+

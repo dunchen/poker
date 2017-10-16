@@ -1,0 +1,31 @@
+PokerStars Hand #169842012286:  Hold'em Limit ($3/$6 USD) - 2017/05/02 2:39:05 ET
+Table 'Juliana' 6-max Seat #4 is the button
+Seat 4: MTails ($86.04 in chips)
+Seat 5: keni3917 ($151.16 in chips)
+MTails: posts small blind $1
+keni3917: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+keni3917: calls $3
+*** FLOP *** [Qh 5h Ah]
+keni3917: checks
+MTails: bets $3
+keni3917: calls $3
+*** TURN *** [Qh 5h Ah] [Td]
+keni3917: checks
+MTails: checks
+*** RIVER *** [Qh 5h Ah Td] [Ts]
+keni3917: checks
+MTails: bets $6
+keni3917: calls $6
+*** SHOW DOWN ***
+MTails: shows [Tc Jc] (three of a kind, Tens)
+keni3917: mucks hand
+MTails collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qh 5h Ah Td Ts]
+Seat 4: MTails (button) (small blind) showed [Tc Jc] and won ($29.50) with three of a kind, Tens
+Seat 5: keni3917 (big blind) mucked
+
+

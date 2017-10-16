@@ -1,0 +1,61 @@
+PokerStars Hand #171424160713:  Hold'em Limit ($3/$6 USD) - 2017/06/06 12:45:36 ET
+Table 'Blarney II' 6-max Seat #1 is the button
+Seat 1: scorpio04 ($338.68 in chips)
+Seat 5: bAAchi ($98.79 in chips)
+scorpio04: posts small blind $1
+bAAchi: posts big blind $3
+*** HOLE CARDS ***
+scorpio04: raises $3 to $6
+bAAchi: calls $3
+*** FLOP *** [4d 4s Tc]
+bAAchi: checks
+scorpio04: bets $3
+bAAchi: calls $3
+*** TURN *** [4d 4s Tc] [9c]
+bAAchi: checks
+scorpio04: checks
+*** RIVER *** [4d 4s Tc 9c] [8h]
+bAAchi: bets $6
+scorpio04: calls $6
+*** SHOW DOWN ***
+bAAchi: shows [5c 5s] (two pair, Fives and Fours)
+scorpio04: mucks hand
+bAAchi collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4d 4s Tc 9c 8h]
+Seat 1: scorpio04 (button) (small blind) mucked
+Seat 5: bAAchi (big blind) showed [5c 5s] and won ($29.50) with two pair, Fives and Fours
+
+
+PokerStars Hand #171424192792:  Hold'em Limit ($3/$6 USD) - 2017/06/06 12:46:21 ET
+Table 'Blarney II' 6-max Seat #5 is the button
+Seat 1: scorpio04 ($323.68 in chips)
+Seat 5: bAAchi ($113.29 in chips)
+bAAchi: posts small blind $1
+scorpio04: posts big blind $3
+*** HOLE CARDS ***
+bAAchi: raises $3 to $6
+scorpio04: calls $3
+*** FLOP *** [9d Jc 5h]
+scorpio04: checks
+bAAchi: bets $3
+scorpio04: raises $3 to $6
+bAAchi: raises $3 to $9
+scorpio04: calls $3
+*** TURN *** [9d Jc 5h] [Ad]
+scorpio04: checks
+bAAchi: checks
+*** RIVER *** [9d Jc 5h Ad] [3s]
+scorpio04: bets $6
+bAAchi: folds
+Uncalled bet ($6) returned to scorpio04
+scorpio04 collected $29.50 from pot
+scorpio04: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9d Jc 5h Ad 3s]
+Seat 1: scorpio04 (big blind) collected ($29.50)
+Seat 5: bAAchi (button) (small blind) folded on the River
+
+

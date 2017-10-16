@@ -1,0 +1,34 @@
+PokerStars Hand #170023860015:  Hold'em Limit ($3/$6 USD) - 2017/05/06 5:52:28 ET
+Table 'Carme' 6-max Seat #5 is the button
+Seat 4: Rus29APX ($120 in chips)
+Seat 5: Krazy90 ($120 in chips)
+Krazy90: posts small blind $1
+igorkabmw is disconnected
+igorkabmw has timed out while disconnected
+igorkabmw: is sitting out
+Rus29APX: posts big blind $3
+*** HOLE CARDS ***
+Krazy90: raises $3 to $6
+Rus29APX: calls $3
+*** FLOP *** [Ks 5d Qc]
+Rus29APX: checks
+Krazy90: bets $3
+Rus29APX: calls $3
+*** TURN *** [Ks 5d Qc] [4s]
+Rus29APX: checks
+Krazy90: bets $6
+Rus29APX: calls $6
+*** RIVER *** [Ks 5d Qc 4s] [8s]
+Rus29APX: checks
+Krazy90: checks
+*** SHOW DOWN ***
+Rus29APX: shows [6c Qs] (a pair of Queens)
+Krazy90: mucks hand
+Rus29APX collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ks 5d Qc 4s 8s]
+Seat 4: Rus29APX (big blind) showed [6c Qs] and won ($29.50) with a pair of Queens
+Seat 5: Krazy90 (button) (small blind) mucked
+
+

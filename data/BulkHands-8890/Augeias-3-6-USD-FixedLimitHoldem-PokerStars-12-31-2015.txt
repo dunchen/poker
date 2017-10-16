@@ -1,0 +1,69 @@
+PokerStars Hand #146240192042:  Hold'em Limit ($3/$6 USD) - 2015/12/31 14:06:22 ET
+Table 'Augeias' 2-max Seat #1 is the button
+Seat 1: bumlak ($110.28 in chips)
+Seat 2: dosaem ($4.01 in chips)
+bumlak: posts small blind $1
+dosaem: posts big blind $3
+*** HOLE CARDS ***
+bumlak: calls $2
+dosaem: raises $1.01 to $4.01 and is all-in
+bumlak: calls $1.01
+*** FLOP *** [6d Kd Ks]
+*** TURN *** [6d Kd Ks] [Th]
+*** RIVER *** [6d Kd Ks Th] [5h]
+*** SHOW DOWN ***
+dosaem: shows [Jc 9c] (a pair of Kings)
+bumlak: shows [4s 4d] (two pair, Kings and Fours)
+bumlak collected $7.86 from pot
+*** SUMMARY ***
+Total pot $8.02 | Rake $0.16
+Board [6d Kd Ks Th 5h]
+Seat 1: bumlak (button) (small blind) showed [4s 4d] and won ($7.86) with two pair, Kings and Fours
+Seat 2: dosaem (big blind) showed [Jc 9c] and lost with a pair of Kings
+
+
+PokerStars Hand #146240187715:  Hold'em Limit ($3/$6 USD) - 2015/12/31 14:06:15 ET
+Table 'Augeias' 2-max Seat #2 is the button
+Seat 1: bumlak ($104.28 in chips)
+Seat 2: dosaem ($10.01 in chips)
+dosaem: posts small blind $1
+bumlak: posts big blind $3
+*** HOLE CARDS ***
+dosaem: raises $3 to $6
+bumlak: raises $3 to $9
+dosaem: folds
+Uncalled bet ($3) returned to bumlak
+bumlak collected $12 from pot
+bumlak: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0
+Seat 1: bumlak (big blind) collected ($12)
+Seat 2: dosaem (button) (small blind) folded before Flop
+
+
+PokerStars Hand #146240182527:  Hold'em Limit ($3/$6 USD) - 2015/12/31 14:06:08 ET
+Table 'Augeias' 2-max Seat #1 is the button
+Seat 1: bumlak ($89.78 in chips)
+Seat 2: dosaem ($25.01 in chips)
+bumlak: posts small blind $1
+dosaem: posts big blind $3
+*** HOLE CARDS ***
+bumlak: raises $3 to $6
+dosaem: raises $3 to $9
+bumlak: raises $3 to $12
+Betting is capped
+dosaem: calls $3
+*** FLOP *** [2h 4c Jd]
+dosaem: bets $3
+bumlak: raises $3 to $6
+dosaem: folds
+Uncalled bet ($3) returned to bumlak
+bumlak collected $29.50 from pot
+bumlak: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2h 4c Jd]
+Seat 1: bumlak (button) (small blind) collected ($29.50)
+Seat 2: dosaem (big blind) folded on the Flop
+
+

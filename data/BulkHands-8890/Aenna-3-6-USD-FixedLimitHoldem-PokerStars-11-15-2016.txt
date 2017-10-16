@@ -1,0 +1,33 @@
+PokerStars Hand #161455316184:  Hold'em Limit ($3/$6 USD) - 2016/11/15 15:29:32 ET
+Table 'Aenna' 6-max Seat #4 is the button
+Seat 4: Koraseg ($116 in chips)
+Seat 5: MTails ($124 in chips)
+Koraseg: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+Koraseg: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [4c Ah 6d]
+MTails: checks
+Koraseg: bets $3
+MTails: calls $3
+*** TURN *** [4c Ah 6d] [Ad]
+MTails: checks
+Koraseg: bets $6
+MTails: raises $6 to $12
+Koraseg: raises $6 to $18
+MTails: calls $6
+*** RIVER *** [4c Ah 6d Ad] [5h]
+MTails: checks
+Koraseg: checks
+*** SHOW DOWN ***
+MTails: shows [5d Jd] (two pair, Aces and Fives)
+Koraseg: shows [2h As] (three of a kind, Aces)
+Koraseg collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [4c Ah 6d Ad 5h]
+Seat 4: Koraseg (button) (small blind) showed [2h As] and won ($53.50) with three of a kind, Aces
+Seat 5: MTails (big blind) showed [5d Jd] and lost with two pair, Aces and Fives
+
+

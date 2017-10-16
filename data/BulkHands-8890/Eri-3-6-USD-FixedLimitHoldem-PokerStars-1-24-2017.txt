@@ -1,0 +1,50 @@
+PokerStars Hand #165102882728:  Hold'em Limit ($3/$6 USD) - 2017/01/24 13:38:46 ET
+Table 'Eri' 6-max Seat #2 is the button
+Seat 2: sim5sim5 ($73 in chips)
+Seat 3: _fayzulllo_ ($84 in chips)
+sim5sim5: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+_fayzulllo_: calls $3
+*** FLOP *** [5c 2h 9c]
+_fayzulllo_: checks
+sim5sim5: bets $3
+niplot joins the table at seat #4
+_fayzulllo_: calls $3
+*** TURN *** [5c 2h 9c] [Td]
+GoliafUa leaves the table
+_fayzulllo_: checks
+sim5sim5: checks
+*** RIVER *** [5c 2h 9c Td] [Th]
+_fayzulllo_: bets $6
+234599330 joins the table at seat #5
+sim5sim5: folds
+Uncalled bet ($6) returned to _fayzulllo_
+_fayzulllo_ collected $17.64 from pot
+_fayzulllo_: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5c 2h 9c Td Th]
+Seat 2: sim5sim5 (button) (small blind) folded on the River
+Seat 3: _fayzulllo_ (big blind) collected ($17.64)
+
+
+PokerStars Hand #165103068665:  Hold'em Limit ($3/$6 USD) - 2017/01/24 13:42:05 ET
+Table 'Eri' 6-max Seat #4 is the button
+Seat 4: niplot ($60 in chips)
+Seat 6: Apanage ($82.64 in chips)
+niplot: posts small blind $1
+234599330: is sitting out
+Apanage: posts big blind $3
+*** HOLE CARDS ***
+niplot: folds
+Uncalled bet ($2) returned to Apanage
+Apanage collected $2 from pot
+Apanage: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: niplot (button) (small blind) folded before Flop
+Seat 6: Apanage (big blind) collected ($2)
+
+

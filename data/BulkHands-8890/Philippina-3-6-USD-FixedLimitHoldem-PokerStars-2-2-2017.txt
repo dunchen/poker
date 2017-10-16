@@ -1,0 +1,84 @@
+PokerStars Hand #165546858937:  Hold'em Limit ($3/$6 USD) - 2017/02/02 4:07:02 ET
+Table 'Philippina' 6-max Seat #2 is the button
+Seat 2: melyh82 ($78.16 in chips)
+Seat 3: ABATAPP ($81.76 in chips)
+melyh82: posts small blind $1
+ABATAPP: posts big blind $3
+*** HOLE CARDS ***
+melyh82: raises $3 to $6
+ABATAPP: calls $3
+*** FLOP *** [Kh Qc 2c]
+ABATAPP: checks
+melyh82: bets $3
+ABATAPP: calls $3
+*** TURN *** [Kh Qc 2c] [8d]
+ABATAPP: checks
+melyh82: bets $6
+ABATAPP: calls $6
+*** RIVER *** [Kh Qc 2c 8d] [9h]
+ABATAPP: checks
+melyh82: bets $6
+ABATAPP: calls $6
+*** SHOW DOWN ***
+melyh82: shows [6h Kd] (a pair of Kings)
+ABATAPP: shows [Kc 3h] (a pair of Kings)
+ABATAPP collected $20.75 from pot
+melyh82 collected $20.75 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Kh Qc 2c 8d 9h]
+Seat 2: melyh82 (button) (small blind) showed [6h Kd] and won ($20.75) with a pair of Kings
+Seat 3: ABATAPP (big blind) showed [Kc 3h] and won ($20.75) with a pair of Kings
+
+
+PokerStars Hand #165547092235:  Hold'em Limit ($3/$6 USD) - 2017/02/02 4:18:01 ET
+Table 'Philippina' 6-max Seat #1 is the button
+Seat 1: tomas666506 ($186.62 in chips)
+Seat 4: xxPSRxx ($126.80 in chips)
+tomas666506: posts small blind $1
+ABATAPP: is sitting out
+ABATAPP leaves the table
+xxPSRxx: posts big blind $3
+*** HOLE CARDS ***
+ABATAPP joins the table at seat #2
+tomas666506: folds
+Uncalled bet ($2) returned to xxPSRxx
+tomas666506 leaves the table
+xxPSRxx collected $2 from pot
+xxPSRxx: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: tomas666506 (button) (small blind) folded before Flop
+Seat 4: xxPSRxx (big blind) collected ($2)
+
+
+PokerStars Hand #165547096094:  Hold'em Limit ($3/$6 USD) - 2017/02/02 4:18:11 ET
+Table 'Philippina' 6-max Seat #4 is the button
+Seat 2: ABATAPP ($120 in chips)
+Seat 4: xxPSRxx ($127.80 in chips)
+xxPSRxx: posts small blind $1
+ABATAPP: posts big blind $3
+*** HOLE CARDS ***
+xxPSRxx: raises $3 to $6
+ABATAPP: calls $3
+*** FLOP *** [5s Kd Qc]
+ABATAPP: checks
+xxPSRxx: bets $3
+ABATAPP: calls $3
+*** TURN *** [5s Kd Qc] [6c]
+ABATAPP: checks
+xxPSRxx: checks
+*** RIVER *** [5s Kd Qc 6c] [Qd]
+ABATAPP: checks
+xxPSRxx: checks
+*** SHOW DOWN ***
+ABATAPP: shows [Ah 5c] (two pair, Queens and Fives)
+xxPSRxx: mucks hand
+ABATAPP collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5s Kd Qc 6c Qd]
+Seat 2: ABATAPP (big blind) showed [Ah 5c] and won ($17.64) with two pair, Queens and Fives
+Seat 4: xxPSRxx (button) (small blind) mucked
+
+

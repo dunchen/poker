@@ -1,0 +1,32 @@
+PokerStars Hand #144266130893:  Hold'em Limit ($3/$6 USD) - 2015/11/23 11:22:01 ET
+Table 'Antares' 6-max Seat #2 is the button
+Seat 2: lennie1987 ($93.11 in chips)
+Seat 5: 72bestcard ($72 in chips)
+lennie1987: posts small blind $1
+72bestcard: posts big blind $3
+*** HOLE CARDS ***
+lennie1987: raises $3 to $6
+72bestcard: calls $3
+*** FLOP *** [Qs Ac 2s]
+72bestcard: checks
+lennie1987: bets $3
+72bestcard: calls $3
+*** TURN *** [Qs Ac 2s] [2c]
+72bestcard: checks
+lennie1987: bets $6
+72bestcard: calls $6
+*** RIVER *** [Qs Ac 2s 2c] [Jd]
+72bestcard: checks
+lennie1987: bets $6
+72bestcard: calls $6
+*** SHOW DOWN ***
+lennie1987: shows [6d Ah] (two pair, Aces and Deuces)
+72bestcard: mucks hand
+lennie1987 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Qs Ac 2s 2c Jd]
+Seat 2: lennie1987 (button) (small blind) showed [6d Ah] and won ($41.50) with two pair, Aces and Deuces
+Seat 5: 72bestcard (big blind) mucked
+
+

@@ -1,0 +1,29 @@
+PokerStars Hand #160078307883:  Hold'em Limit ($3/$6 USD) - 2016/10/17 17:56:59 ET
+Table 'Spitzer' 6-max Seat #3 is the button
+Seat 1: ToDaFelt ($126.29 in chips)
+Seat 3: RaisemyNut$ ($118.30 in chips)
+RaisemyNut$: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+RaisemyNut$: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [4c 6h 9d]
+ToDaFelt: checks
+RaisemyNut$: checks
+*** TURN *** [4c 6h 9d] [2h]
+ToDaFelt: bets $6
+RaisemyNut$: calls $6
+*** RIVER *** [4c 6h 9d 2h] [Qc]
+ToDaFelt: bets $6
+RaisemyNut$: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [9c 7s] (a pair of Nines)
+RaisemyNut$: mucks hand
+ToDaFelt collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [4c 6h 9d 2h Qc]
+Seat 1: ToDaFelt (big blind) showed [9c 7s] and won ($35.50) with a pair of Nines
+Seat 3: RaisemyNut$ (button) (small blind) mucked
+
+

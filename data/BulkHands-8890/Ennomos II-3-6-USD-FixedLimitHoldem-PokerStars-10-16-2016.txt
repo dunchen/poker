@@ -1,0 +1,88 @@
+PokerStars Hand #160020768260:  Hold'em Limit ($3/$6 USD) - 2016/10/16 14:09:23 ET
+Table 'Ennomos II' 6-max Seat #6 is the button
+Seat 4: FHstyles ($60 in chips)
+Seat 6: sussie118 ($120 in chips)
+sussie118: posts small blind $1
+FHstyles: posts big blind $3
+*** HOLE CARDS ***
+sussie118: calls $2
+FHstyles: checks
+*** FLOP *** [7c 2s 6d]
+FHstyles: bets $3
+sussie118: calls $3
+*** TURN *** [7c 2s 6d] [6c]
+FHstyles: bets $6
+sussie118: calls $6
+*** RIVER *** [7c 2s 6d 6c] [Jh]
+vestimokrec joins the table at seat #1
+FHstyles: checks
+sussie118: checks
+*** SHOW DOWN ***
+FHstyles: shows [Qc 2h] (two pair, Sixes and Deuces)
+sussie118: mucks hand
+FHstyles collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [7c 2s 6d 6c Jh]
+Seat 4: FHstyles (big blind) showed [Qc 2h] and won ($23.52) with two pair, Sixes and Deuces
+Seat 6: sussie118 (button) (small blind) mucked
+
+
+PokerStars Hand #160020793062:  Hold'em Limit ($3/$6 USD) - 2016/10/16 14:09:48 ET
+Table 'Ennomos II' 6-max Seat #4 is the button
+Seat 4: FHstyles ($71.52 in chips)
+Seat 6: sussie118 ($108 in chips)
+FHstyles: posts small blind $1
+sussie118: posts big blind $3
+*** HOLE CARDS ***
+FHstyles: raises $3 to $6
+sussie118: calls $3
+*** FLOP *** [Kd Ad 2h]
+sussie118: checks
+FHstyles: bets $3
+sussie118: calls $3
+*** TURN *** [Kd Ad 2h] [3s]
+sussie118: checks
+FHstyles: checks
+*** RIVER *** [Kd Ad 2h 3s] [4d]
+sussie118: checks
+FHstyles: checks
+*** SHOW DOWN ***
+sussie118: shows [Js Ks] (a pair of Kings)
+FHstyles: mucks hand
+sussie118 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kd Ad 2h 3s 4d]
+Seat 4: FHstyles (button) (small blind) mucked
+Seat 6: sussie118 (big blind) showed [Js Ks] and won ($17.64) with a pair of Kings
+
+
+PokerStars Hand #160024490985:  Hold'em Limit ($3/$6 USD) - 2016/10/16 15:13:31 ET
+Table 'Ennomos II' 6-max Seat #6 is the button
+Seat 5: h83yj ($656.10 in chips)
+Seat 6: jackRizzar ($226.61 in chips)
+jackRizzar: posts small blind $1
+h83yj: posts big blind $3
+*** HOLE CARDS ***
+jackRizzar: raises $3 to $6
+h83yj: calls $3
+*** FLOP *** [2d Jd Td]
+h83yj: bets $3
+jackRizzar: calls $3
+*** TURN *** [2d Jd Td] [5s]
+h83yj: bets $6
+jackRizzar: calls $6
+*** RIVER *** [2d Jd Td 5s] [2c]
+h83yj: bets $6
+jackRizzar: folds
+Uncalled bet ($6) returned to h83yj
+h83yj collected $29.50 from pot
+h83yj: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2d Jd Td 5s 2c]
+Seat 5: h83yj (big blind) collected ($29.50)
+Seat 6: jackRizzar (button) (small blind) folded on the River
+
+

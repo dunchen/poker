@@ -1,0 +1,85 @@
+PokerStars Hand #163501505947:  Hold'em Limit ($3/$6 USD) - 2016/12/25 12:50:39 ET
+Table 'Irene' 6-max Seat #1 is the button
+Seat 1: LifeisagameX ($84 in chips)
+Seat 2: paptec ($40 in chips)
+LifeisagameX: posts small blind $1
+paptec: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+paptec: calls $3
+*** FLOP *** [2d 3c 4s]
+paptec: checks
+LifeisagameX: checks
+*** TURN *** [2d 3c 4s] [Qh]
+paptec: checks
+LifeisagameX: bets $6
+paptec: calls $6
+*** RIVER *** [2d 3c 4s Qh] [Tc]
+paptec: checks
+LifeisagameX: checks
+*** SHOW DOWN ***
+paptec: shows [Qs Jd] (a pair of Queens)
+LifeisagameX: mucks hand
+paptec collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [2d 3c 4s Qh Tc]
+Seat 1: LifeisagameX (button) (small blind) mucked
+Seat 2: paptec (big blind) showed [Qs Jd] and won ($23.52) with a pair of Queens
+
+
+PokerStars Hand #163501549837:  Hold'em Limit ($3/$6 USD) - 2016/12/25 12:51:27 ET
+Table 'Irene' 6-max Seat #2 is the button
+Seat 1: LifeisagameX ($84 in chips)
+Seat 2: paptec ($51.52 in chips)
+paptec: posts small blind $1
+LifeisagameX: posts big blind $3
+*** HOLE CARDS ***
+paptec: raises $3 to $6
+LifeisagameX: calls $3
+*** FLOP *** [7h Th 9c]
+LifeisagameX: checks
+paptec: bets $3
+LifeisagameX: raises $3 to $6
+paptec: calls $3
+*** TURN *** [7h Th 9c] [Ts]
+LifeisagameX: checks
+paptec: bets $6
+LifeisagameX: calls $6
+*** RIVER *** [7h Th 9c Ts] [6h]
+LifeisagameX: checks
+paptec: bets $6
+LifeisagameX: folds
+Uncalled bet ($6) returned to paptec
+paptec collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [7h Th 9c Ts 6h]
+Seat 1: LifeisagameX (big blind) folded on the River
+Seat 2: paptec (button) (small blind) collected ($35.50)
+
+
+PokerStars Hand #163501645894:  Hold'em Limit ($3/$6 USD) - 2016/12/25 12:53:10 ET
+Table 'Irene' 6-max Seat #1 is the button
+Seat 1: LifeisagameX ($84 in chips)
+Seat 2: paptec ($69.02 in chips)
+LifeisagameX: posts small blind $1
+paptec: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+paptec: calls $3
+*** FLOP *** [8c 5c 3s]
+paptec: bets $3
+LifeisagameX: calls $3
+*** TURN *** [8c 5c 3s] [8s]
+paptec: bets $6
+LifeisagameX: folds
+Uncalled bet ($6) returned to paptec
+paptec collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8c 5c 3s 8s]
+Seat 1: LifeisagameX (button) (small blind) folded on the Turn
+Seat 2: paptec (big blind) collected ($17.64)
+
+

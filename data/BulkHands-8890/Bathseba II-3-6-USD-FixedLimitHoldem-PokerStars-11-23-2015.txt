@@ -1,0 +1,67 @@
+PokerStars Hand #144253912576:  Hold'em Limit ($3/$6 USD) - 2015/11/23 5:13:50 ET
+Table 'Bathseba II' 6-max Seat #2 is the button
+Seat 1: hairy1961 ($60 in chips)
+Seat 2: BelSv ($78 in chips)
+BelSv: posts small blind $1
+TbIP-TbIP 88 has timed out
+TbIP-TbIP 88: is sitting out
+benyeiantal: is sitting out
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88 leaves the table
+BelSv: raises $3 to $6
+hairy1961: calls $3
+*** FLOP *** [4c Th 2h]
+hairy1961: checks
+BelSv: bets $3
+hairy1961: calls $3
+*** TURN *** [4c Th 2h] [9c]
+hairy1961: checks
+BelSv: bets $6
+hairy1961: raises $6 to $12
+BelSv: calls $6
+*** RIVER *** [4c Th 2h 9c] [3d]
+hairy1961: bets $6
+benyeiantal leaves the table
+BelSv: calls $6
+*** SHOW DOWN ***
+hairy1961: shows [Ac 8c] (high card Ace)
+BelSv: shows [Qh 4s] (a pair of Fours)
+BelSv collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [4c Th 2h 9c 3d]
+Seat 1: hairy1961 (big blind) showed [Ac 8c] and lost with high card Ace
+Seat 2: BelSv (button) (small blind) showed [Qh 4s] and won ($53.50) with a pair of Fours
+
+
+PokerStars Hand #144253967251:  Hold'em Limit ($3/$6 USD) - 2015/11/23 5:16:06 ET
+Table 'Bathseba II' 6-max Seat #1 is the button
+Seat 1: hairy1961 ($27.50 in chips)
+Seat 2: BelSv ($108.76 in chips)
+hairy1961: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+hairy1961: raises $3 to $6
+BelSv: raises $3 to $9
+hairy1961: calls $3
+*** FLOP *** [As 4s 5d]
+BelSv: bets $3
+hairy1961: calls $3
+*** TURN *** [As 4s 5d] [9c]
+BelSv: checks
+hairy1961: checks
+*** RIVER *** [As 4s 5d 9c] [6d]
+BelSv: checks
+hairy1961: checks
+*** SHOW DOWN ***
+BelSv: shows [Js Th] (high card Ace)
+hairy1961: shows [3s Qs] (high card Ace - Queen kicker)
+hairy1961 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [As 4s 5d 9c 6d]
+Seat 1: hairy1961 (button) (small blind) showed [3s Qs] and won ($23.52) with high card Ace
+Seat 2: BelSv (big blind) showed [Js Th] and lost with high card Ace
+
+

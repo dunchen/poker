@@ -1,0 +1,74 @@
+PokerStars Hand #168127629834:  Hold'em Limit ($3/$6 USD) - 2017/03/26 6:43:41 ET
+Table 'Bateson' 6-max Seat #1 is the button
+Seat 1: majekk ($120 in chips)
+Seat 4: Agrotait ($72 in chips)
+majekk: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+majekk: calls $2
+Agrotait: raises $3 to $6
+majekk: calls $3
+*** FLOP *** [Ks Kd 2d]
+Agrotait: bets $3
+majekk: raises $3 to $6
+Agrotait: calls $3
+*** TURN *** [Ks Kd 2d] [6d]
+Agrotait: checks
+majekk: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to majekk
+majekk collected $23.52 from pot
+majekk: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Ks Kd 2d 6d]
+Seat 1: majekk (button) (small blind) collected ($23.52)
+Seat 4: Agrotait (big blind) folded on the Turn
+
+
+PokerStars Hand #168127666248:  Hold'em Limit ($3/$6 USD) - 2017/03/26 6:44:58 ET
+Table 'Bateson' 6-max Seat #4 is the button
+Seat 1: majekk ($131.52 in chips)
+Seat 4: Agrotait ($60 in chips)
+Agrotait: posts small blind $1
+majekk: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: folds
+Uncalled bet ($2) returned to majekk
+majekk collected $2 from pot
+majekk: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: majekk (big blind) collected ($2)
+Seat 4: Agrotait (button) (small blind) folded before Flop
+
+
+PokerStars Hand #168127669429:  Hold'em Limit ($3/$6 USD) - 2017/03/26 6:45:05 ET
+Table 'Bateson' 6-max Seat #1 is the button
+Seat 1: majekk ($132.52 in chips)
+Seat 4: Agrotait ($72 in chips)
+majekk: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+majekk: calls $2
+Agrotait: checks
+*** FLOP *** [2d Kd 3d]
+Agrotait: bets $3
+majekk: calls $3
+*** TURN *** [2d Kd 3d] [9h]
+Agrotait: bets $6
+majekk: calls $6
+*** RIVER *** [2d Kd 3d 9h] [5s]
+Agrotait: bets $6
+majekk: calls $6
+*** SHOW DOWN ***
+Agrotait: shows [3h 2h] (two pair, Threes and Deuces)
+majekk: mucks hand
+Agrotait collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [2d Kd 3d 9h 5s]
+Seat 1: majekk (button) (small blind) mucked
+Seat 4: Agrotait (big blind) showed [3h 2h] and won ($35.50) with two pair, Threes and Deuces
+
+

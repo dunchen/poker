@@ -1,0 +1,60 @@
+PokerStars Hand #171197127304:  Hold'em Limit ($3/$6 USD) - 2017/06/01 9:00:07 ET
+Table 'Adele' 6-max Seat #5 is the button
+Seat 5: aremom4e ($80.64 in chips)
+Seat 6: B_loJkl ($141 in chips)
+aremom4e: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+aremom4e: raises $3 to $6
+B_loJkl: raises $3 to $9
+aremom4e: calls $3
+*** FLOP *** [8h 5d Kd]
+B_loJkl: bets $3
+aremom4e: calls $3
+*** TURN *** [8h 5d Kd] [6s]
+B_loJkl: bets $6
+aremom4e: calls $6
+*** RIVER *** [8h 5d Kd 6s] [2d]
+B_loJkl: bets $6
+aremom4e: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $35.50 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [8h 5d Kd 6s 2d]
+Seat 5: aremom4e (button) (small blind) folded on the River
+Seat 6: B_loJkl (big blind) collected ($35.50)
+
+
+PokerStars Hand #171197111020:  Hold'em Limit ($3/$6 USD) - 2017/06/01 8:59:29 ET
+Table 'Adele' 6-max Seat #6 is the button
+Seat 5: aremom4e ($72 in chips)
+Seat 6: B_loJkl ($150 in chips)
+B_loJkl: posts small blind $1
+aremom4e: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+aremom4e: calls $3
+*** FLOP *** [Jd 7d Ts]
+sim5sim5 leaves the table
+aremom4e: checks
+B_loJkl: bets $3
+aremom4e: calls $3
+*** TURN *** [Jd 7d Ts] [9d]
+aremom4e: checks
+B_loJkl: checks
+*** RIVER *** [Jd 7d Ts 9d] [Kh]
+aremom4e: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to aremom4e
+Mordnilap joins the table at seat #1
+aremom4e collected $17.64 from pot
+aremom4e: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Jd 7d Ts 9d Kh]
+Seat 5: aremom4e (big blind) collected ($17.64)
+Seat 6: B_loJkl (button) (small blind) folded on the River
+
+

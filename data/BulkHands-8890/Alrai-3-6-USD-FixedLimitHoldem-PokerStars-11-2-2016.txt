@@ -1,0 +1,92 @@
+PokerStars Hand #160791228639:  Hold'em Limit ($3/$6 USD) - 2016/11/02 11:48:50 ET
+Table 'Alrai' 6-max Seat #5 is the button
+Seat 5: JoeBlack1982 ($41.68 in chips)
+Seat 6: kolaz03 ($75 in chips)
+JoeBlack1982: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+JoeBlack1982: raises $3 to $6
+kolaz03: calls $3
+*** FLOP *** [Ad 3s 9s]
+kolaz03: checks
+JoeBlack1982: bets $3
+kolaz03: folds
+Uncalled bet ($3) returned to JoeBlack1982
+JoeBlack1982 collected $11.76 from pot
+JoeBlack1982: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ad 3s 9s]
+Seat 5: JoeBlack1982 (button) (small blind) collected ($11.76)
+Seat 6: kolaz03 (big blind) folded on the Flop
+
+
+PokerStars Hand #160791222971:  Hold'em Limit ($3/$6 USD) - 2016/11/02 11:48:42 ET
+Table 'Alrai' 6-max Seat #6 is the button
+Seat 5: JoeBlack1982 ($44.68 in chips)
+Seat 6: kolaz03 ($72 in chips)
+kolaz03: posts small blind $1
+assitoni: is sitting out
+JoeBlack1982: posts big blind $3
+*** HOLE CARDS ***
+kolaz03: raises $3 to $6
+hooverr joins the table at seat #1
+JoeBlack1982: folds
+Uncalled bet ($3) returned to kolaz03
+kolaz03 collected $6 from pot
+kolaz03: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 5: JoeBlack1982 (big blind) folded before Flop
+Seat 6: kolaz03 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #160791269600:  Hold'em Limit ($3/$6 USD) - 2016/11/02 11:49:48 ET
+Table 'Alrai' 6-max Seat #1 is the button
+Seat 1: hooverr ($74.73 in chips)
+Seat 6: kolaz03 ($84.25 in chips)
+hooverr: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+hooverr: folds
+Uncalled bet ($2) returned to kolaz03
+kolaz03 collected $2 from pot
+kolaz03: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: hooverr (button) (small blind) folded before Flop
+Seat 6: kolaz03 (big blind) collected ($2)
+
+
+PokerStars Hand #160791277188:  Hold'em Limit ($3/$6 USD) - 2016/11/02 11:49:59 ET
+Table 'Alrai' 6-max Seat #6 is the button
+Seat 1: hooverr ($73.73 in chips)
+Seat 6: kolaz03 ($85.25 in chips)
+kolaz03: posts small blind $1
+hooverr: posts big blind $3
+*** HOLE CARDS ***
+kolaz03: raises $3 to $6
+hooverr: calls $3
+*** FLOP *** [9d Tc Kc]
+hooverr: checks
+kolaz03: bets $3
+hooverr: calls $3
+*** TURN *** [9d Tc Kc] [3h]
+hooverr: checks
+kolaz03: bets $6
+hooverr: calls $6
+*** RIVER *** [9d Tc Kc 3h] [3s]
+hooverr: checks
+kolaz03: bets $6
+hooverr: calls $6
+*** SHOW DOWN ***
+kolaz03: shows [Th 9c] (two pair, Tens and Nines)
+hooverr: mucks hand
+kolaz03 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9d Tc Kc 3h 3s]
+Seat 1: hooverr (big blind) mucked
+Seat 6: kolaz03 (button) (small blind) showed [Th 9c] and won ($41.50) with two pair, Tens and Nines
+
+

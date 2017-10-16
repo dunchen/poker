@@ -1,0 +1,60 @@
+PokerStars Hand #160690194247:  Hold'em Limit ($3/$6 USD) - 2016/10/31 9:11:13 ET
+Table 'Kerstin' 6-max Seat #6 is the button
+Seat 4: fire852181 ($99.39 in chips)
+Seat 6: ABATAPP ($102.20 in chips)
+ABATAPP: posts small blind $1
+TinaTurner72: is sitting out
+fire852181: posts big blind $3
+*** HOLE CARDS ***
+ABATAPP: raises $3 to $6
+fire852181: raises $3 to $9
+ABATAPP: calls $3
+*** FLOP *** [Ac 9c Qs]
+fire852181: bets $3
+ABATAPP: calls $3
+*** TURN *** [Ac 9c Qs] [3h]
+fire852181: bets $6
+TinaTurner72 leaves the table
+ABATAPP: calls $6
+*** RIVER *** [Ac 9c Qs 3h] [4h]
+fire852181: bets $6
+ABATAPP: folds
+Uncalled bet ($6) returned to fire852181
+fire852181 collected $35.50 from pot
+fire852181: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Ac 9c Qs 3h 4h]
+Seat 4: fire852181 (big blind) collected ($35.50)
+Seat 6: ABATAPP (button) (small blind) folded on the River
+
+
+PokerStars Hand #160690209412:  Hold'em Limit ($3/$6 USD) - 2016/10/31 9:11:40 ET
+Table 'Kerstin' 6-max Seat #4 is the button
+Seat 4: fire852181 ($116.89 in chips)
+Seat 6: ABATAPP ($84.20 in chips)
+fire852181: posts small blind $1
+ABATAPP: posts big blind $3
+*** HOLE CARDS ***
+fire852181: raises $3 to $6
+ABATAPP: calls $3
+*** FLOP *** [8h Td Qd]
+ABATAPP: checks
+fire852181: checks
+*** TURN *** [8h Td Qd] [Qc]
+ABATAPP: bets $6
+fire852181: calls $6
+*** RIVER *** [8h Td Qd Qc] [Kd]
+ABATAPP: bets $6
+fire852181: calls $6
+*** SHOW DOWN ***
+ABATAPP: shows [6s 2s] (a pair of Queens)
+fire852181: shows [8c Js] (two pair, Queens and Eights)
+fire852181 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [8h Td Qd Qc Kd]
+Seat 4: fire852181 (button) (small blind) showed [8c Js] and won ($35.50) with two pair, Queens and Eights
+Seat 6: ABATAPP (big blind) showed [6s 2s] and lost with a pair of Queens
+
+

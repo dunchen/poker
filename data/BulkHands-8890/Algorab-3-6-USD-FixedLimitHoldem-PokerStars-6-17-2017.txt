@@ -1,0 +1,163 @@
+PokerStars Hand #171869397623:  Hold'em Limit ($3/$6 USD) - 2017/06/16 20:41:05 ET
+Table 'Algorab' 6-max Seat #6 is the button
+Seat 1: yoshi15 ($120 in chips)
+Seat 6: scorpio04 ($150 in chips)
+scorpio04: posts small blind $1
+yoshi15: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper joins the table at seat #2
+scorpio04: raises $3 to $6
+yoshi15: calls $3
+*** FLOP *** [8c 4c Ks]
+yoshi15: bets $3
+scorpio04: calls $3
+*** TURN *** [8c 4c Ks] [Ad]
+yoshi15: bets $6
+scorpio04: calls $6
+*** RIVER *** [8c 4c Ks Ad] [Qs]
+yoshi15: bets $6
+scorpio04: calls $6
+*** SHOW DOWN ***
+yoshi15: shows [2h 2c] (a pair of Deuces)
+scorpio04: shows [6c 6h] (a pair of Sixes)
+scorpio04 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [8c 4c Ks Ad Qs]
+Seat 1: yoshi15 (big blind) showed [2h 2c] and lost with a pair of Deuces
+Seat 6: scorpio04 (button) (small blind) showed [6c 6h] and won ($41.50) with a pair of Sixes
+
+
+PokerStars Hand #171869573661:  Hold'em Limit ($3/$6 USD) - 2017/06/16 20:47:33 ET
+Table 'Algorab' 6-max Seat #6 is the button
+Seat 3: pdsnr ($158.67 in chips)
+Seat 6: scorpio04 ($182.36 in chips)
+scorpio04: posts small blind $1
+yoshi15: is sitting out
+pdsnr: posts big blind $3
+*** HOLE CARDS ***
+scorpio04: raises $3 to $6
+pdsnr: folds
+Uncalled bet ($3) returned to scorpio04
+yoshi15 leaves the table
+scorpio04 collected $6 from pot
+scorpio04: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: pdsnr (big blind) folded before Flop
+Seat 6: scorpio04 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #171869577420:  Hold'em Limit ($3/$6 USD) - 2017/06/16 20:47:42 ET
+Table 'Algorab' 6-max Seat #3 is the button
+Seat 3: pdsnr ($155.67 in chips)
+Seat 6: scorpio04 ($185.36 in chips)
+pdsnr: posts small blind $1
+scorpio04: posts big blind $3
+*** HOLE CARDS ***
+pdsnr: raises $3 to $6
+scorpio04: calls $3
+*** FLOP *** [9h Ah 6d]
+scorpio04: checks
+pdsnr: bets $3
+scorpio04: calls $3
+*** TURN *** [9h Ah 6d] [9d]
+scorpio04: checks
+pdsnr: bets $6
+scorpio04: calls $6
+*** RIVER *** [9h Ah 6d 9d] [7s]
+scorpio04: checks
+pdsnr: bets $6
+scorpio04: folds
+Uncalled bet ($6) returned to pdsnr
+ribban4747 joins the table at seat #2
+pdsnr collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9h Ah 6d 9d 7s]
+Seat 3: pdsnr (button) (small blind) collected ($29.50)
+Seat 6: scorpio04 (big blind) folded on the River
+
+
+PokerStars Hand #171873916246:  Hold'em Limit ($3/$6 USD) - 2017/06/17 0:10:08 ET
+Table 'Algorab' 6-max Seat #4 is the button
+Seat 3: Azrarn ($94.42 in chips)
+Seat 4: Chessnok ($380.13 in chips)
+Chessnok: posts small blind $1
+karambakilla: is sitting out
+Azrarn: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+Azrarn: raises $3 to $9
+Chessnok: calls $3
+*** FLOP *** [5h 8d Qs]
+Azrarn: bets $3
+Chessnok: calls $3
+*** TURN *** [5h 8d Qs] [6h]
+Azrarn: bets $6
+Chessnok: raises $6 to $12
+Azrarn: calls $6
+*** RIVER *** [5h 8d Qs 6h] [5c]
+Azrarn: checks
+Chessnok: bets $6
+Azrarn: calls $6
+*** SHOW DOWN ***
+Chessnok: shows [7s 9d] (a straight, Five to Nine)
+Azrarn: mucks hand
+Chessnok collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [5h 8d Qs 6h 5c]
+Seat 3: Azrarn (big blind) mucked
+Seat 4: Chessnok (button) (small blind) showed [7s 9d] and won ($59.50) with a straight, Five to Nine
+
+
+PokerStars Hand #171873922206:  Hold'em Limit ($3/$6 USD) - 2017/06/17 0:10:29 ET
+Table 'Algorab' 6-max Seat #3 is the button
+Seat 3: Azrarn ($72 in chips)
+Seat 4: Chessnok ($409.63 in chips)
+Azrarn: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+Azrarn: raises $3 to $6
+karambakilla leaves the table
+Chessnok: raises $3 to $9
+Azrarn: calls $3
+*** FLOP *** [Qh 4s 2h]
+Chessnok: bets $3
+Azrarn: calls $3
+*** TURN *** [Qh 4s 2h] [6d]
+Chessnok: checks
+Azrarn: bets $6
+Chessnok: calls $6
+*** RIVER *** [Qh 4s 2h 6d] [7s]
+Chessnok: checks
+Azrarn: bets $6
+Chessnok: calls $6
+*** SHOW DOWN ***
+Azrarn: shows [Ks 2s] (a pair of Deuces)
+Chessnok: mucks hand
+Azrarn collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Qh 4s 2h 6d 7s]
+Seat 3: Azrarn (button) (small blind) showed [Ks 2s] and won ($47.50) with a pair of Deuces
+Seat 4: Chessnok (big blind) mucked
+
+
+PokerStars Hand #171873930958:  Hold'em Limit ($3/$6 USD) - 2017/06/17 0:10:59 ET
+Table 'Algorab' 6-max Seat #4 is the button
+Seat 3: Azrarn ($95.50 in chips)
+Seat 4: Chessnok ($385.63 in chips)
+Chessnok: posts small blind $1
+Azrarn: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: folds
+Uncalled bet ($2) returned to Azrarn
+Azrarn collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: Azrarn (big blind) collected ($2)
+Seat 4: Chessnok (button) (small blind) folded before Flop
+
+

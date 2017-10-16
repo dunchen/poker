@@ -1,0 +1,31 @@
+PokerStars Hand #173861273469:  Hold'em Limit ($3/$6 USD) - 2017/08/03 5:20:12 ET
+Table 'Lynx II' 6-max Seat #4 is the button
+Seat 3: hairy1961 ($22 in chips)
+Seat 4: VolkovDmitri ($147.50 in chips)
+VolkovDmitri: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+hairy1961: calls $3
+*** FLOP *** [6d 8c 2d]
+hairy1961: checks
+VolkovDmitri: bets $3
+hairy1961: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [6d 8c 2d] [Qh]
+hairy1961: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [6d 8c 2d Qh] [5s]
+hairy1961: bets $4 and is all-in
+VolkovDmitri: calls $4
+*** SHOW DOWN ***
+hairy1961: shows [8s Th] (a pair of Eights)
+VolkovDmitri: shows [5c 6c] (two pair, Sixes and Fives)
+VolkovDmitri collected $43.50 from pot
+*** SUMMARY ***
+Total pot $44 | Rake $0.50
+Board [6d 8c 2d Qh 5s]
+Seat 3: hairy1961 (big blind) showed [8s Th] and lost with a pair of Eights
+Seat 4: VolkovDmitri (button) (small blind) showed [5c 6c] and won ($43.50) with two pair, Sixes and Fives
+
+

@@ -1,0 +1,111 @@
+PokerStars Hand #163112322397:  Hold'em Limit ($3/$6 USD) - 2016/12/17 19:28:50 ET
+Table 'Sumida' 6-max Seat #1 is the button
+Seat 1: LifeisagameX ($84 in chips)
+Seat 5: Oleg_Zhidkov ($30 in chips)
+LifeisagameX: posts small blind $1
+Oleg_Zhidkov: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+Oleg_Zhidkov: raises $3 to $9
+LifeisagameX: calls $3
+*** FLOP *** [4d 9h Ad]
+Oleg_Zhidkov: checks
+LifeisagameX: bets $3
+Oleg_Zhidkov: calls $3
+*** TURN *** [4d 9h Ad] [7d]
+Oleg_Zhidkov: checks
+LifeisagameX: bets $6
+Oleg_Zhidkov: raises $6 to $12
+LifeisagameX: raises $6 to $18
+Oleg_Zhidkov: calls $6 and is all-in
+*** RIVER *** [4d 9h Ad 7d] [5c]
+*** SHOW DOWN ***
+Oleg_Zhidkov: shows [Ah 7h] (two pair, Aces and Sevens)
+LifeisagameX: shows [5d Td] (a flush, Ace high)
+LifeisagameX collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [4d 9h Ad 7d 5c]
+Seat 1: LifeisagameX (button) (small blind) showed [5d Td] and won ($59.50) with a flush, Ace high
+Seat 5: Oleg_Zhidkov (big blind) showed [Ah 7h] and lost with two pair, Aces and Sevens
+
+
+PokerStars Hand #163113833680:  Hold'em Limit ($3/$6 USD) - 2016/12/17 20:10:07 ET
+Table 'Sumida' 6-max Seat #1 is the button
+Seat 1: LifeisagameX ($113.50 in chips)
+Seat 4: floplucky88 ($49.91 in chips)
+LifeisagameX: posts small blind $1
+floplucky88: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: folds
+Uncalled bet ($2) returned to floplucky88
+floplucky88 collected $2 from pot
+floplucky88: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: LifeisagameX (button) (small blind) folded before Flop
+Seat 4: floplucky88 (big blind) collected ($2)
+
+
+PokerStars Hand #163113839091:  Hold'em Limit ($3/$6 USD) - 2016/12/17 20:10:16 ET
+Table 'Sumida' 6-max Seat #4 is the button
+Seat 1: LifeisagameX ($112.50 in chips)
+Seat 4: floplucky88 ($50.91 in chips)
+floplucky88: posts small blind $1
+LifeisagameX: posts big blind $3
+*** HOLE CARDS ***
+floplucky88: raises $3 to $6
+LifeisagameX: raises $3 to $9
+floplucky88: calls $3
+*** FLOP *** [Ts Td Jc]
+LifeisagameX: bets $3
+floplucky88: calls $3
+*** TURN *** [Ts Td Jc] [2c]
+LifeisagameX: bets $6
+floplucky88: calls $6
+*** RIVER *** [Ts Td Jc 2c] [3s]
+LifeisagameX: bets $6
+floplucky88: calls $6
+*** SHOW DOWN ***
+LifeisagameX: shows [9h Js] (two pair, Jacks and Tens)
+floplucky88: mucks hand
+LifeisagameX collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Ts Td Jc 2c 3s]
+Seat 1: LifeisagameX (big blind) showed [9h Js] and won ($47.50) with two pair, Jacks and Tens
+Seat 4: floplucky88 (button) (small blind) mucked
+
+
+PokerStars Hand #163113853433:  Hold'em Limit ($3/$6 USD) - 2016/12/17 20:10:41 ET
+Table 'Sumida' 6-max Seat #1 is the button
+Seat 1: LifeisagameX ($136 in chips)
+Seat 4: floplucky88 ($26.91 in chips)
+LifeisagameX: posts small blind $1
+floplucky88: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+ToDaFelt joins the table at seat #5
+floplucky88: calls $3
+*** FLOP *** [4c Qs Tc]
+floplucky88: bets $3
+LifeisagameX: calls $3
+*** TURN *** [4c Qs Tc] [7s]
+floplucky88: bets $6
+LifeisagameX: calls $6
+*** RIVER *** [4c Qs Tc 7s] [Jh]
+floplucky88: bets $6
+LifeisagameX: raises $6 to $12
+floplucky88: calls $5.91 and is all-in
+Uncalled bet ($0.09) returned to LifeisagameX
+*** SHOW DOWN ***
+LifeisagameX: shows [Th Jc] (two pair, Jacks and Tens)
+floplucky88: shows [4d 2c] (a pair of Fours)
+LifeisagameX collected $53.32 from pot
+*** SUMMARY ***
+Total pot $53.82 | Rake $0.50
+Board [4c Qs Tc 7s Jh]
+Seat 1: LifeisagameX (button) (small blind) showed [Th Jc] and won ($53.32) with two pair, Jacks and Tens
+Seat 4: floplucky88 (big blind) showed [4d 2c] and lost with a pair of Fours
+
+

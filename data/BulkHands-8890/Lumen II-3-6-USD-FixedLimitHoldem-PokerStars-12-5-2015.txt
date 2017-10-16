@@ -1,0 +1,90 @@
+PokerStars Hand #144885718704:  Hold'em Limit ($3/$6 USD) - 2015/12/05 18:51:54 ET
+Table 'Lumen II' 2-max Seat #2 is the button
+Seat 1: LifeisagameX ($60 in chips)
+Seat 2: Mu Fc 450 05 ($30 in chips)
+Mu Fc 450 05: posts small blind $1
+LifeisagameX: posts big blind $3
+*** HOLE CARDS ***
+Mu Fc 450 05: calls $2
+LifeisagameX: raises $3 to $6
+Mu Fc 450 05: calls $3
+*** FLOP *** [Td 3d Ac]
+LifeisagameX: bets $3
+Mu Fc 450 05: calls $3
+*** TURN *** [Td 3d Ac] [Th]
+LifeisagameX: checks
+Mu Fc 450 05: checks
+*** RIVER *** [Td 3d Ac Th] [2h]
+LifeisagameX: bets $6
+Mu Fc 450 05: calls $6
+*** SHOW DOWN ***
+LifeisagameX: shows [8s As] (two pair, Aces and Tens)
+Mu Fc 450 05: mucks hand
+LifeisagameX collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Td 3d Ac Th 2h]
+Seat 1: LifeisagameX (big blind) showed [8s As] and won ($29.50) with two pair, Aces and Tens
+Seat 2: Mu Fc 450 05 (button) (small blind) mucked
+
+
+PokerStars Hand #144885755536:  Hold'em Limit ($3/$6 USD) - 2015/12/05 18:52:45 ET
+Table 'Lumen II' 2-max Seat #1 is the button
+Seat 1: LifeisagameX ($74.50 in chips)
+Seat 2: Mu Fc 450 05 ($15 in chips)
+LifeisagameX: posts small blind $1
+Mu Fc 450 05: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+Mu Fc 450 05: raises $3 to $9
+LifeisagameX: calls $3
+*** FLOP *** [4c Td Kd]
+Mu Fc 450 05: checks
+LifeisagameX: bets $3
+Mu Fc 450 05: calls $3
+*** TURN *** [4c Td Kd] [Qc]
+Mu Fc 450 05: checks
+LifeisagameX: bets $6
+Mu Fc 450 05: calls $3 and is all-in
+Uncalled bet ($3) returned to LifeisagameX
+*** RIVER *** [4c Td Kd Qc] [Ad]
+*** SHOW DOWN ***
+Mu Fc 450 05: shows [Ac 3c] (a pair of Aces)
+LifeisagameX: shows [Ts 2c] (a pair of Tens)
+Mu Fc 450 05 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4c Td Kd Qc Ad]
+Seat 1: LifeisagameX (button) (small blind) showed [Ts 2c] and lost with a pair of Tens
+Seat 2: Mu Fc 450 05 (big blind) showed [Ac 3c] and won ($29.50) with a pair of Aces
+
+
+PokerStars Hand #144885781713:  Hold'em Limit ($3/$6 USD) - 2015/12/05 18:53:21 ET
+Table 'Lumen II' 2-max Seat #2 is the button
+Seat 1: LifeisagameX ($59.50 in chips)
+Seat 2: Mu Fc 450 05 ($29.50 in chips)
+Mu Fc 450 05: posts small blind $1
+LifeisagameX: posts big blind $3
+*** HOLE CARDS ***
+Mu Fc 450 05: calls $2
+LifeisagameX: checks
+*** FLOP *** [3h 8c 2c]
+LifeisagameX: checks
+Mu Fc 450 05: checks
+*** TURN *** [3h 8c 2c] [4c]
+LifeisagameX: bets $6
+Mu Fc 450 05: calls $6
+*** RIVER *** [3h 8c 2c 4c] [2d]
+LifeisagameX: bets $6
+Mu Fc 450 05: calls $6
+*** SHOW DOWN ***
+LifeisagameX: shows [5c 7d] (a pair of Deuces)
+Mu Fc 450 05: shows [4s Th] (two pair, Fours and Deuces)
+Mu Fc 450 05 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3h 8c 2c 4c 2d]
+Seat 1: LifeisagameX (big blind) showed [5c 7d] and lost with a pair of Deuces
+Seat 2: Mu Fc 450 05 (button) (small blind) showed [4s Th] and won ($29.50) with two pair, Fours and Deuces
+
+

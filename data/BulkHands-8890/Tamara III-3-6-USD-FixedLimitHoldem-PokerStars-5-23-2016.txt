@@ -1,0 +1,33 @@
+PokerStars Hand #153734014589:  Hold'em Limit ($3/$6 USD) - 2016/05/23 12:50:23 ET
+Table 'Tamara III' 6-max Seat #2 is the button
+Seat 2: tttzzz ($175.84 in chips)
+Seat 4: fsreibnitz ($24.12 in chips)
+tttzzz: posts small blind $1
+crash19867: is sitting out
+fsreibnitz: posts big blind $3
+*** HOLE CARDS ***
+tttzzz: raises $3 to $6
+fsreibnitz: raises $3 to $9
+tttzzz: calls $3
+*** FLOP *** [3d 8h 9c]
+fsreibnitz: bets $3
+tttzzz: calls $3
+*** TURN *** [3d 8h 9c] [4c]
+fsreibnitz: bets $6
+tttzzz: calls $6
+*** RIVER *** [3d 8h 9c 4c] [Tc]
+fsreibnitz: bets $6
+tttzzz: raises $6 to $12
+fsreibnitz: calls $0.12 and is all-in
+Uncalled bet ($5.88) returned to tttzzz
+*** SHOW DOWN ***
+tttzzz: shows [Qc Js] (a straight, Eight to Queen)
+fsreibnitz: shows [Ah Th] (a pair of Tens)
+tttzzz collected $47.74 from pot
+*** SUMMARY ***
+Total pot $48.24 | Rake $0.50
+Board [3d 8h 9c 4c Tc]
+Seat 2: tttzzz (button) (small blind) showed [Qc Js] and won ($47.74) with a straight, Eight to Queen
+Seat 4: fsreibnitz (big blind) showed [Ah Th] and lost with a pair of Tens
+
+

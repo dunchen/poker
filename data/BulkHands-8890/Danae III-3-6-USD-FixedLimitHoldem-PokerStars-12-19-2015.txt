@@ -1,0 +1,31 @@
+PokerStars Hand #145604344116:  Hold'em Limit ($3/$6 USD) - 2015/12/19 17:06:36 ET
+Table 'Danae III' 6-max Seat #1 is the button
+Seat 1: Chessnok ($163.01 in chips)
+Seat 3: Karpik09 ($110.66 in chips)
+Chessnok: posts small blind $1
+ulrich80: is sitting out
+Karpik09: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+Karpik09: calls $3
+*** FLOP *** [9s 7c 6d]
+Karpik09: checks
+Chessnok: bets $3
+Karpik09: calls $3
+*** TURN *** [9s 7c 6d] [9h]
+Karpik09: checks
+Chessnok: checks
+*** RIVER *** [9s 7c 6d 9h] [As]
+Karpik09: bets $6
+Chessnok: calls $6
+*** SHOW DOWN ***
+Karpik09: shows [Jh Ah] (two pair, Aces and Nines)
+Chessnok: mucks hand
+Karpik09 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9s 7c 6d 9h As]
+Seat 1: Chessnok (button) (small blind) mucked
+Seat 3: Karpik09 (big blind) showed [Jh Ah] and won ($29.50) with two pair, Aces and Nines
+
+

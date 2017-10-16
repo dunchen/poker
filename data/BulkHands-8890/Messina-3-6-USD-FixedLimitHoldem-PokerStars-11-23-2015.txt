@@ -1,0 +1,67 @@
+PokerStars Hand #144252787580:  Hold'em Limit ($3/$6 USD) - 2015/11/23 4:21:46 ET
+Table 'Messina' 6-max Seat #1 is the button
+Seat 1: Boogerd21 ($90 in chips)
+Seat 2: schnizm ($149.50 in chips)
+Boogerd21: posts small blind $1
+schnizm: posts big blind $3
+*** HOLE CARDS ***
+Boogerd21: raises $3 to $6
+schnizm: calls $3
+*** FLOP *** [8d 3c Js]
+schnizm: checks
+Boogerd21: bets $3
+schnizm: calls $3
+*** TURN *** [8d 3c Js] [Qh]
+schnizm: checks
+Boogerd21: checks
+*** RIVER *** [8d 3c Js Qh] [6s]
+schnizm: checks
+Boogerd21: checks
+*** SHOW DOWN ***
+schnizm: shows [Ts Kh] (high card King)
+Boogerd21: shows [3h Td] (a pair of Threes)
+Boogerd21 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8d 3c Js Qh 6s]
+Seat 1: Boogerd21 (button) (small blind) showed [3h Td] and won ($17.64) with a pair of Threes
+Seat 2: schnizm (big blind) showed [Ts Kh] and lost with high card King
+
+
+PokerStars Hand #144252768997:  Hold'em Limit ($3/$6 USD) - 2015/11/23 4:20:51 ET
+Table 'Messina' 6-max Seat #2 is the button
+Seat 1: Boogerd21 ($120 in chips)
+Seat 2: schnizm ($120 in chips)
+schnizm: posts small blind $1
+TbIP-TbIP 88 has timed out
+TbIP-TbIP 88: is sitting out
+Boogerd21: posts big blind $3
+*** HOLE CARDS ***
+schnizm: raises $3 to $6
+Boogerd21: raises $3 to $9
+TbIP-TbIP 88 leaves the table
+schnizm: calls $3
+*** FLOP *** [6s 2s 6h]
+Boogerd21: bets $3
+schnizm: calls $3
+*** TURN *** [6s 2s 6h] [3d]
+Boogerd21: bets $6
+BelSv joins the table at seat #4
+schnizm: raises $6 to $12
+Boogerd21: calls $6
+*** RIVER *** [6s 2s 6h 3d] [4d]
+tamnt10549 joins the table at seat #3
+Boogerd21: checks
+schnizm: bets $6
+Boogerd21: calls $6
+*** SHOW DOWN ***
+schnizm: shows [Kh 6c] (three of a kind, Sixes)
+Boogerd21: mucks hand
+schnizm collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [6s 2s 6h 3d 4d]
+Seat 1: Boogerd21 (big blind) mucked
+Seat 2: schnizm (button) (small blind) showed [Kh 6c] and won ($59.50) with three of a kind, Sixes
+
+

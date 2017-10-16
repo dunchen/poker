@@ -1,0 +1,31 @@
+PokerStars Hand #154760031667:  Hold'em Limit ($3/$6 USD) - 2016/06/15 7:08:50 ET
+Table 'Laertes II' 6-max Seat #3 is the button
+Seat 3: Tryptamean ($120 in chips)
+Seat 4: Jojje_G ($128.17 in chips)
+Tryptamean: posts small blind $1
+Jojje_G: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+Jojje_G: raises $3 to $9
+Tryptamean: calls $3
+*** FLOP *** [6c 6d 8h]
+Jojje_G: bets $3
+krossguard joins the table at seat #5
+Tryptamean: calls $3
+*** TURN *** [6c 6d 8h] [9h]
+Jojje_G: bets $6
+Tryptamean: calls $6
+*** RIVER *** [6c 6d 8h 9h] [Ts]
+Jojje_G: bets $6
+Tryptamean: calls $6
+*** SHOW DOWN ***
+Jojje_G: shows [Tc As] (two pair, Tens and Sixes)
+Tryptamean: mucks hand
+Jojje_G collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [6c 6d 8h 9h Ts]
+Seat 3: Tryptamean (button) (small blind) mucked
+Seat 4: Jojje_G (big blind) showed [Tc As] and won ($47.50) with two pair, Tens and Sixes
+
+

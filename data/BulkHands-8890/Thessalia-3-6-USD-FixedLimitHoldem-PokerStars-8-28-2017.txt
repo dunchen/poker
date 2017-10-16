@@ -1,0 +1,88 @@
+PokerStars Hand #174895605157:  Hold'em Limit ($3/$6 USD) - 2017/08/28 8:48:25 ET
+Table 'Thessalia' 6-max Seat #5 is the button
+Seat 4: Novartis80 ($170.49 in chips)
+Seat 5: VolkovDmitri ($188.11 in chips)
+VolkovDmitri: posts small blind $1
+Sirocko: is sitting out
+Novartis80: posts big blind $3
+*** HOLE CARDS ***
+Sirocko leaves the table
+VolkovDmitri: raises $3 to $6
+Novartis80: calls $3
+*** FLOP *** [8c 7h Qs]
+Novartis80: bets $3
+VolkovDmitri: raises $3 to $6
+Novartis80: calls $3
+*** TURN *** [8c 7h Qs] [Td]
+Novartis80: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [8c 7h Qs Td] [4h]
+Novartis80: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+Novartis80: shows [Ts Qh] (two pair, Queens and Tens)
+VolkovDmitri: mucks hand
+Novartis80 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8c 7h Qs Td 4h]
+Seat 4: Novartis80 (big blind) showed [Ts Qh] and won ($47.50) with two pair, Queens and Tens
+Seat 5: VolkovDmitri (button) (small blind) mucked
+
+
+PokerStars Hand #174895753201:  Hold'em Limit ($3/$6 USD) - 2017/08/28 8:53:38 ET
+Table 'Thessalia' 6-max Seat #6 is the button
+Seat 4: Anchig ($131.27 in chips)
+Seat 6: YamilSochi ($17.75 in chips)
+YamilSochi: posts small blind $1
+Anchig: posts big blind $3
+*** HOLE CARDS ***
+YamilSochi: raises $3 to $6
+Anchig: calls $3
+*** FLOP *** [2c Jd Th]
+Anchig: checks
+YamilSochi: checks
+*** TURN *** [2c Jd Th] [Ad]
+Anchig: checks
+fleabaggs joins the table at seat #5
+YamilSochi: bets $6
+Anchig: folds
+Uncalled bet ($6) returned to YamilSochi
+YamilSochi collected $11.76 from pot
+YamilSochi: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2c Jd Th Ad]
+Seat 4: Anchig (big blind) folded on the Turn
+Seat 6: YamilSochi (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #174895744950:  Hold'em Limit ($3/$6 USD) - 2017/08/28 8:53:21 ET
+Table 'Thessalia' 6-max Seat #4 is the button
+Seat 4: Anchig ($131.52 in chips)
+Seat 6: YamilSochi ($18 in chips)
+Anchig: posts small blind $1
+YamilSochi: posts big blind $3
+*** HOLE CARDS ***
+Anchig: raises $3 to $6
+YamilSochi: raises $3 to $9
+Anchig: calls $3
+*** FLOP *** [Qc Kh 4s]
+YamilSochi: bets $3
+Anchig: calls $3
+*** TURN *** [Qc Kh 4s] [8c]
+YamilSochi: bets $6 and is all-in
+Anchig: calls $6
+*** RIVER *** [Qc Kh 4s 8c] [Tc]
+*** SHOW DOWN ***
+YamilSochi: shows [3h Qd] (a pair of Queens)
+Anchig: shows [Qh 7s] (a pair of Queens)
+YamilSochi collected $17.75 from pot
+Anchig collected $17.75 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Qc Kh 4s 8c Tc]
+Seat 4: Anchig (button) (small blind) showed [Qh 7s] and won ($17.75) with a pair of Queens
+Seat 6: YamilSochi (big blind) showed [3h Qd] and won ($17.75) with a pair of Queens
+
+

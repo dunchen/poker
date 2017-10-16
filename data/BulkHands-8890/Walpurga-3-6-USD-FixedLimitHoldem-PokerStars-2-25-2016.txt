@@ -1,0 +1,735 @@
+PokerStars Hand #149413011555:  Hold'em Limit ($3/$6 USD) - 2016/02/25 17:06:29 ET
+Table 'Walpurga' 6-max Seat #5 is the button
+Seat 5: AA_ILI ($29.05 in chips)
+Seat 6: anetkaapro ($102.26 in chips)
+AA_ILI: posts small blind $1
+anetkaapro: posts big blind $3
+*** HOLE CARDS ***
+AA_ILI: calls $2
+anetkaapro: raises $3 to $6
+AA_ILI: calls $3
+*** FLOP *** [3s 9h 6s]
+anetkaapro: bets $3
+AA_ILI: calls $3
+*** TURN *** [3s 9h 6s] [6c]
+anetkaapro: bets $6
+AA_ILI: calls $6
+*** RIVER *** [3s 9h 6s 6c] [Ac]
+anetkaapro: bets $6
+AA_ILI: folds
+Uncalled bet ($6) returned to anetkaapro
+anetkaapro collected $29.50 from pot
+anetkaapro: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3s 9h 6s 6c Ac]
+Seat 5: AA_ILI (button) (small blind) folded on the River
+Seat 6: anetkaapro (big blind) collected ($29.50)
+
+
+PokerStars Hand #149412983383:  Hold'em Limit ($3/$6 USD) - 2016/02/25 17:06:00 ET
+Table 'Walpurga' 6-max Seat #6 is the button
+Seat 5: AA_ILI ($53.05 in chips)
+Seat 6: anetkaapro ($78.76 in chips)
+anetkaapro: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+anetkaapro: raises $3 to $6
+AA_ILI: calls $3
+*** FLOP *** [7d 6h 2s]
+AA_ILI: checks
+anetkaapro: bets $3
+AA_ILI: raises $3 to $6
+anetkaapro: calls $3
+*** TURN *** [7d 6h 2s] [4h]
+AA_ILI: bets $6
+anetkaapro: raises $6 to $12
+AA_ILI: calls $6
+*** RIVER *** [7d 6h 2s 4h] [7h]
+AA_ILI: checks
+anetkaapro: bets $6
+AA_ILI: folds
+Uncalled bet ($6) returned to anetkaapro
+anetkaapro collected $47.50 from pot
+anetkaapro: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7d 6h 2s 4h 7h]
+Seat 5: AA_ILI (big blind) folded on the River
+Seat 6: anetkaapro (button) (small blind) collected ($47.50)
+
+
+PokerStars Hand #149413075945:  Hold'em Limit ($3/$6 USD) - 2016/02/25 17:07:36 ET
+Table 'Walpurga' 6-max Seat #6 is the button
+Seat 5: AA_ILI ($8.60 in chips)
+Seat 6: anetkaapro ($121.09 in chips)
+anetkaapro: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+anetkaapro: raises $3 to $6
+AA_ILI: raises $2.60 to $8.60 and is all-in
+anetkaapro: calls $2.60
+*** FLOP *** [7h Js 8d]
+*** TURN *** [7h Js 8d] [3c]
+*** RIVER *** [7h Js 8d 3c] [Ad]
+*** SHOW DOWN ***
+AA_ILI: shows [5d 7d] (a pair of Sevens)
+anetkaapro: shows [As Ac] (three of a kind, Aces)
+anetkaapro collected $16.86 from pot
+*** SUMMARY ***
+Total pot $17.20 | Rake $0.34
+Board [7h Js 8d 3c Ad]
+Seat 5: AA_ILI (big blind) showed [5d 7d] and lost with a pair of Sevens
+Seat 6: anetkaapro (button) (small blind) showed [As Ac] and won ($16.86) with three of a kind, Aces
+
+
+PokerStars Hand #149413068196:  Hold'em Limit ($3/$6 USD) - 2016/02/25 17:07:28 ET
+Table 'Walpurga' 6-max Seat #5 is the button
+Seat 5: AA_ILI ($11.60 in chips)
+Seat 6: anetkaapro ($118.21 in chips)
+AA_ILI: posts small blind $1
+anetkaapro: posts big blind $3
+*** HOLE CARDS ***
+AA_ILI: calls $2
+anetkaapro: checks
+*** FLOP *** [Jh Ks 3h]
+anetkaapro: bets $3
+AA_ILI: folds
+Uncalled bet ($3) returned to anetkaapro
+anetkaapro collected $5.88 from pot
+anetkaapro: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Jh Ks 3h]
+Seat 5: AA_ILI (button) (small blind) folded on the Flop
+Seat 6: anetkaapro (big blind) collected ($5.88)
+
+
+PokerStars Hand #149413055171:  Hold'em Limit ($3/$6 USD) - 2016/02/25 17:07:14 ET
+Table 'Walpurga' 6-max Seat #6 is the button
+Seat 5: AA_ILI ($26.60 in chips)
+Seat 6: anetkaapro ($103.71 in chips)
+anetkaapro: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+anetkaapro: raises $3 to $6
+AA_ILI: calls $3
+*** FLOP *** [As 5c 2s]
+AA_ILI: bets $3
+anetkaapro: calls $3
+*** TURN *** [As 5c 2s] [4s]
+AA_ILI: bets $6
+anetkaapro: calls $6
+*** RIVER *** [As 5c 2s 4s] [7c]
+AA_ILI: checks
+anetkaapro: checks
+*** SHOW DOWN ***
+AA_ILI: shows [Qh Jh] (high card Ace)
+anetkaapro: shows [Ts Kc] (high card Ace - King kicker)
+anetkaapro collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [As 5c 2s 4s 7c]
+Seat 5: AA_ILI (big blind) showed [Qh Jh] and lost with high card Ace
+Seat 6: anetkaapro (button) (small blind) showed [Ts Kc] and won ($29.50) with high card Ace
+
+
+PokerStars Hand #149413050536:  Hold'em Limit ($3/$6 USD) - 2016/02/25 17:07:09 ET
+Table 'Walpurga' 6-max Seat #5 is the button
+Seat 5: AA_ILI ($27.60 in chips)
+Seat 6: anetkaapro ($102.71 in chips)
+AA_ILI: posts small blind $1
+anetkaapro: posts big blind $3
+*** HOLE CARDS ***
+AA_ILI: folds
+Uncalled bet ($2) returned to anetkaapro
+anetkaapro collected $2 from pot
+anetkaapro: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: AA_ILI (button) (small blind) folded before Flop
+Seat 6: anetkaapro (big blind) collected ($2)
+
+
+PokerStars Hand #149413045251:  Hold'em Limit ($3/$6 USD) - 2016/02/25 17:07:04 ET
+Table 'Walpurga' 6-max Seat #6 is the button
+Seat 5: AA_ILI ($26.60 in chips)
+Seat 6: anetkaapro ($103.71 in chips)
+anetkaapro: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+anetkaapro: folds
+Uncalled bet ($2) returned to AA_ILI
+AA_ILI collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: AA_ILI (big blind) collected ($2)
+Seat 6: anetkaapro (button) (small blind) folded before Flop
+
+
+PokerStars Hand #149413040513:  Hold'em Limit ($3/$6 USD) - 2016/02/25 17:06:59 ET
+Table 'Walpurga' 6-max Seat #5 is the button
+Seat 5: AA_ILI ($27.60 in chips)
+Seat 6: anetkaapro ($102.71 in chips)
+AA_ILI: posts small blind $1
+anetkaapro: posts big blind $3
+*** HOLE CARDS ***
+AA_ILI: folds
+Uncalled bet ($2) returned to anetkaapro
+anetkaapro collected $2 from pot
+anetkaapro: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: AA_ILI (button) (small blind) folded before Flop
+Seat 6: anetkaapro (big blind) collected ($2)
+
+
+PokerStars Hand #149413026237:  Hold'em Limit ($3/$6 USD) - 2016/02/25 17:06:44 ET
+Table 'Walpurga' 6-max Seat #6 is the button
+Seat 5: AA_ILI ($14.05 in chips)
+Seat 6: anetkaapro ($116.76 in chips)
+anetkaapro: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+anetkaapro: raises $3 to $6
+AA_ILI: raises $3 to $9
+anetkaapro: calls $3
+*** FLOP *** [8h 9h Tc]
+AA_ILI: bets $3
+anetkaapro: raises $3 to $6
+AA_ILI: calls $2.05 and is all-in
+Uncalled bet ($0.95) returned to anetkaapro
+*** TURN *** [8h 9h Tc] [Ks]
+*** RIVER *** [8h 9h Tc Ks] [Kh]
+*** SHOW DOWN ***
+AA_ILI: shows [Js Kc] (three of a kind, Kings)
+anetkaapro: shows [4s 7s] (a pair of Kings)
+AA_ILI collected $27.60 from pot
+*** SUMMARY ***
+Total pot $28.10 | Rake $0.50
+Board [8h 9h Tc Ks Kh]
+Seat 5: AA_ILI (big blind) showed [Js Kc] and won ($27.60) with three of a kind, Kings
+Seat 6: anetkaapro (button) (small blind) showed [4s 7s] and lost with a pair of Kings
+
+
+PokerStars Hand #149413756753:  Hold'em Limit ($3/$6 USD) - 2016/02/25 17:19:44 ET
+Table 'Walpurga' 6-max Seat #4 is the button
+Seat 3: Jatha09 ($219.37 in chips)
+Seat 4: vestimokrec ($125.64 in chips)
+vestimokrec: posts small blind $1
+Jatha09: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+Jatha09: calls $3
+*** FLOP *** [Ah 9s 7s]
+Jatha09: checks
+vestimokrec: bets $3
+Jatha09: folds
+Uncalled bet ($3) returned to vestimokrec
+vestimokrec collected $11.76 from pot
+vestimokrec: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ah 9s 7s]
+Seat 3: Jatha09 (big blind) folded on the Flop
+Seat 4: vestimokrec (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #149413749514:  Hold'em Limit ($3/$6 USD) - 2016/02/25 17:19:36 ET
+Table 'Walpurga' 6-max Seat #3 is the button
+Seat 3: Jatha09 ($216.37 in chips)
+Seat 4: vestimokrec ($128.64 in chips)
+Jatha09: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+Jatha09: raises $3 to $6
+vestimokrec: folds
+Uncalled bet ($3) returned to Jatha09
+Jatha09 collected $6 from pot
+Jatha09: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: Jatha09 (button) (small blind) collected ($6)
+Seat 4: vestimokrec (big blind) folded before Flop
+
+
+PokerStars Hand #149413743390:  Hold'em Limit ($3/$6 USD) - 2016/02/25 17:19:30 ET
+Table 'Walpurga' 6-max Seat #4 is the button
+Seat 3: Jatha09 ($219.37 in chips)
+Seat 4: vestimokrec ($125.64 in chips)
+vestimokrec: posts small blind $1
+Jatha09: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+Jatha09: folds
+Uncalled bet ($3) returned to vestimokrec
+vestimokrec collected $6 from pot
+vestimokrec: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: Jatha09 (big blind) folded before Flop
+Seat 4: vestimokrec (button) (small blind) collected ($6)
+
+
+PokerStars Hand #149413731603:  Hold'em Limit ($3/$6 USD) - 2016/02/25 17:19:17 ET
+Table 'Walpurga' 6-max Seat #3 is the button
+Seat 3: Jatha09 ($216.37 in chips)
+Seat 4: vestimokrec ($128.64 in chips)
+Jatha09: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+Jatha09: raises $3 to $6
+vestimokrec: folds
+Uncalled bet ($3) returned to Jatha09
+Jatha09 collected $6 from pot
+Jatha09: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: Jatha09 (button) (small blind) collected ($6)
+Seat 4: vestimokrec (big blind) folded before Flop
+
+
+PokerStars Hand #149413695996:  Hold'em Limit ($3/$6 USD) - 2016/02/25 17:18:38 ET
+Table 'Walpurga' 6-max Seat #4 is the button
+Seat 3: Jatha09 ($225.37 in chips)
+Seat 4: vestimokrec ($120 in chips)
+vestimokrec: posts small blind $1
+anetkaapro: is sitting out
+Jatha09: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+Jatha09: raises $3 to $9
+vestimokrec: calls $3
+*** FLOP *** [8c 6s 7h]
+Jatha09: checks
+vestimokrec: bets $3
+Jatha09: folds [Ac Qc]
+Uncalled bet ($3) returned to vestimokrec
+vestimokrec collected $17.64 from pot
+vestimokrec: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8c 6s 7h]
+Seat 3: Jatha09 (big blind) folded on the Flop
+Seat 4: vestimokrec (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #149413817498:  Hold'em Limit ($3/$6 USD) - 2016/02/25 17:20:50 ET
+Table 'Walpurga' 6-max Seat #4 is the button
+Seat 3: Jatha09 ($201.13 in chips)
+Seat 4: vestimokrec ($142.68 in chips)
+vestimokrec: posts small blind $1
+Jatha09: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+Jatha09: calls $3
+*** FLOP *** [6s Ah 5h]
+Jatha09: folds
+vestimokrec collected $11.76 from pot
+vestimokrec: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6s Ah 5h]
+Seat 3: Jatha09 (big blind) folded on the Flop
+Seat 4: vestimokrec (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #149413792537:  Hold'em Limit ($3/$6 USD) - 2016/02/25 17:20:23 ET
+Table 'Walpurga' 6-max Seat #3 is the button
+Seat 3: Jatha09 ($213.13 in chips)
+Seat 4: vestimokrec ($131.16 in chips)
+Jatha09: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+Jatha09: raises $3 to $6
+vestimokrec: calls $3
+*** FLOP *** [Jh 4s 7s]
+vestimokrec: checks
+Jatha09: checks
+*** TURN *** [Jh 4s 7s] [7d]
+vestimokrec: checks
+Jatha09: checks
+*** RIVER *** [Jh 4s 7s 7d] [3h]
+vestimokrec: bets $6
+Jatha09: calls $6
+*** SHOW DOWN ***
+vestimokrec: shows [3d Kc] (two pair, Sevens and Threes)
+Jatha09: mucks hand
+vestimokrec collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Jh 4s 7s 7d 3h]
+Seat 3: Jatha09 (button) (small blind) mucked
+Seat 4: vestimokrec (big blind) showed [3d Kc] and won ($23.52) with two pair, Sevens and Threes
+
+
+PokerStars Hand #149413779607:  Hold'em Limit ($3/$6 USD) - 2016/02/25 17:20:09 ET
+Table 'Walpurga' 6-max Seat #4 is the button
+Seat 3: Jatha09 ($219.13 in chips)
+Seat 4: vestimokrec ($125.40 in chips)
+vestimokrec: posts small blind $1
+Jatha09: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+Jatha09: calls $3
+*** FLOP *** [6s 8s Kd]
+Jatha09: checks
+vestimokrec: checks
+*** TURN *** [6s 8s Kd] [Ah]
+Jatha09: checks
+vestimokrec: bets $6
+Jatha09: folds
+Uncalled bet ($6) returned to vestimokrec
+vestimokrec collected $11.76 from pot
+vestimokrec: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6s 8s Kd Ah]
+Seat 3: Jatha09 (big blind) folded on the Turn
+Seat 4: vestimokrec (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #149413768607:  Hold'em Limit ($3/$6 USD) - 2016/02/25 17:19:57 ET
+Table 'Walpurga' 6-max Seat #3 is the button
+Seat 3: Jatha09 ($213.37 in chips)
+Seat 4: vestimokrec ($131.40 in chips)
+Jatha09: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+Jatha09: raises $3 to $6
+vestimokrec: calls $3
+*** FLOP *** [6h Qs Ad]
+vestimokrec: checks
+Jatha09: bets $3
+vestimokrec: folds
+Uncalled bet ($3) returned to Jatha09
+Jatha09 collected $11.76 from pot
+Jatha09: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6h Qs Ad]
+Seat 3: Jatha09 (button) (small blind) collected ($11.76)
+Seat 4: vestimokrec (big blind) folded on the Flop
+
+
+PokerStars Hand #149413844320:  Hold'em Limit ($3/$6 USD) - 2016/02/25 17:21:19 ET
+Table 'Walpurga' 6-max Seat #4 is the button
+Seat 3: Jatha09 ($200.89 in chips)
+Seat 4: vestimokrec ($142.44 in chips)
+vestimokrec: posts small blind $1
+Jatha09: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+Jatha09: calls $3
+*** FLOP *** [3s 8s 7d]
+Jatha09: checks
+vestimokrec: checks
+*** TURN *** [3s 8s 7d] [Kh]
+Jatha09: checks
+vestimokrec: bets $6
+Jatha09: folds
+Uncalled bet ($6) returned to vestimokrec
+vestimokrec collected $11.76 from pot
+vestimokrec: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3s 8s 7d Kh]
+Seat 3: Jatha09 (big blind) folded on the Turn
+Seat 4: vestimokrec (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #149413825902:  Hold'em Limit ($3/$6 USD) - 2016/02/25 17:20:59 ET
+Table 'Walpurga' 6-max Seat #3 is the button
+Seat 3: Jatha09 ($195.13 in chips)
+Seat 4: vestimokrec ($148.44 in chips)
+Jatha09: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+Jatha09: raises $3 to $6
+vestimokrec: calls $3
+*** FLOP *** [6c Ts 9d]
+vestimokrec: checks
+Jatha09: bets $3
+vestimokrec: folds
+Uncalled bet ($3) returned to Jatha09
+Jatha09 collected $11.76 from pot
+Jatha09: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6c Ts 9d]
+Seat 3: Jatha09 (button) (small blind) collected ($11.76)
+Seat 4: vestimokrec (big blind) folded on the Flop
+
+
+PokerStars Hand #149413876800:  Hold'em Limit ($3/$6 USD) - 2016/02/25 17:21:55 ET
+Table 'Walpurga' 6-max Seat #3 is the button
+Seat 3: Jatha09 ($194.89 in chips)
+Seat 4: vestimokrec ($148.20 in chips)
+Jatha09: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+Jatha09: raises $3 to $6
+vestimokrec: calls $3
+*** FLOP *** [5s 5c 9h]
+vestimokrec: checks
+Jatha09: bets $3
+vestimokrec: calls $3
+*** TURN *** [5s 5c 9h] [Tc]
+vestimokrec: checks
+Jatha09: bets $6
+vestimokrec: calls $6
+*** RIVER *** [5s 5c 9h Tc] [Qs]
+vestimokrec: checks
+Jatha09: bets $6
+vestimokrec: folds
+Uncalled bet ($6) returned to Jatha09
+Jatha09 collected $29.50 from pot
+Jatha09: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5s 5c 9h Tc Qs]
+Seat 3: Jatha09 (button) (small blind) collected ($29.50)
+Seat 4: vestimokrec (big blind) folded on the River
+
+
+PokerStars Hand #149413978531:  Hold'em Limit ($3/$6 USD) - 2016/02/25 17:23:46 ET
+Table 'Walpurga' 6-max Seat #3 is the button
+Seat 3: Jatha09 ($223.89 in chips)
+Seat 4: vestimokrec ($120 in chips)
+Jatha09: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+Jatha09: folds
+Uncalled bet ($2) returned to vestimokrec
+vestimokrec collected $2 from pot
+vestimokrec: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: Jatha09 (button) (small blind) folded before Flop
+Seat 4: vestimokrec (big blind) collected ($2)
+
+
+PokerStars Hand #149413965332:  Hold'em Limit ($3/$6 USD) - 2016/02/25 17:23:32 ET
+Table 'Walpurga' 6-max Seat #4 is the button
+Seat 3: Jatha09 ($222.89 in chips)
+Seat 4: vestimokrec ($121 in chips)
+vestimokrec: posts small blind $1
+Jatha09: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: folds
+Uncalled bet ($2) returned to Jatha09
+Jatha09 collected $2 from pot
+Jatha09: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: Jatha09 (big blind) collected ($2)
+Seat 4: vestimokrec (button) (small blind) folded before Flop
+
+
+PokerStars Hand #149413957124:  Hold'em Limit ($3/$6 USD) - 2016/02/25 17:23:22 ET
+Table 'Walpurga' 6-max Seat #3 is the button
+Seat 3: Jatha09 ($223.89 in chips)
+Seat 4: vestimokrec ($120 in chips)
+Jatha09: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+Jatha09: folds
+Uncalled bet ($2) returned to vestimokrec
+vestimokrec collected $2 from pot
+vestimokrec: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: Jatha09 (button) (small blind) folded before Flop
+Seat 4: vestimokrec (big blind) collected ($2)
+
+
+PokerStars Hand #149413924170:  Hold'em Limit ($3/$6 USD) - 2016/02/25 17:22:46 ET
+Table 'Walpurga' 6-max Seat #4 is the button
+Seat 3: Jatha09 ($209.39 in chips)
+Seat 4: vestimokrec ($133.20 in chips)
+vestimokrec: posts small blind $1
+Jatha09: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+Jatha09: calls $3
+*** FLOP *** [Qc Qd 4s]
+Jatha09: checks
+vestimokrec: bets $3
+Jatha09: calls $3
+*** TURN *** [Qc Qd 4s] [2d]
+Jatha09: checks
+vestimokrec: bets $6
+Jatha09: calls $6
+*** RIVER *** [Qc Qd 4s 2d] [5s]
+Jatha09: checks
+vestimokrec: checks
+*** SHOW DOWN ***
+Jatha09: shows [2s Ah] (two pair, Queens and Deuces)
+vestimokrec: mucks hand
+Jatha09 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qc Qd 4s 2d 5s]
+Seat 3: Jatha09 (big blind) showed [2s Ah] and won ($29.50) with two pair, Queens and Deuces
+Seat 4: vestimokrec (button) (small blind) mucked
+
+
+PokerStars Hand #149413982776:  Hold'em Limit ($3/$6 USD) - 2016/02/25 17:23:50 ET
+Table 'Walpurga' 6-max Seat #4 is the button
+Seat 3: Jatha09 ($222.89 in chips)
+Seat 4: vestimokrec ($121 in chips)
+vestimokrec: posts small blind $1
+Jatha09: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+Jatha09: calls $3
+*** FLOP *** [6d Th 4c]
+Jatha09: checks
+vestimokrec: bets $3
+Jatha09: calls $3
+*** TURN *** [6d Th 4c] [6c]
+Jatha09: checks
+vestimokrec: checks
+*** RIVER *** [6d Th 4c 6c] [4h]
+Jatha09: bets $6
+vestimokrec: folds
+Uncalled bet ($6) returned to Jatha09
+Jatha09 collected $17.64 from pot
+Jatha09: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6d Th 4c 6c 4h]
+Seat 3: Jatha09 (big blind) collected ($17.64)
+Seat 4: vestimokrec (button) (small blind) folded on the River
+
+
+PokerStars Hand #149414075934:  Hold'em Limit ($3/$6 USD) - 2016/02/25 17:25:33 ET
+Table 'Walpurga' 6-max Seat #4 is the button
+Seat 3: Jatha09 ($224.53 in chips)
+Seat 4: vestimokrec ($126.88 in chips)
+vestimokrec: posts small blind $1
+Jatha09: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: folds
+Uncalled bet ($2) returned to Jatha09
+Jatha09 collected $2 from pot
+Jatha09: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: Jatha09 (big blind) collected ($2)
+Seat 4: vestimokrec (button) (small blind) folded before Flop
+
+
+PokerStars Hand #149414069097:  Hold'em Limit ($3/$6 USD) - 2016/02/25 17:25:25 ET
+Table 'Walpurga' 6-max Seat #3 is the button
+Seat 3: Jatha09 ($225.53 in chips)
+Seat 4: vestimokrec ($125.88 in chips)
+Jatha09: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+Jatha09: folds
+Uncalled bet ($2) returned to vestimokrec
+vestimokrec collected $2 from pot
+vestimokrec: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: Jatha09 (button) (small blind) folded before Flop
+Seat 4: vestimokrec (big blind) collected ($2)
+
+
+PokerStars Hand #149414063964:  Hold'em Limit ($3/$6 USD) - 2016/02/25 17:25:20 ET
+Table 'Walpurga' 6-max Seat #4 is the button
+Seat 3: Jatha09 ($228.53 in chips)
+Seat 4: vestimokrec ($122.88 in chips)
+vestimokrec: posts small blind $1
+Jatha09: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+Jatha09: folds
+Uncalled bet ($3) returned to vestimokrec
+vestimokrec collected $6 from pot
+vestimokrec: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: Jatha09 (big blind) folded before Flop
+Seat 4: vestimokrec (button) (small blind) collected ($6)
+
+
+PokerStars Hand #149414027441:  Hold'em Limit ($3/$6 USD) - 2016/02/25 17:24:40 ET
+Table 'Walpurga' 6-max Seat #3 is the button
+Seat 3: Jatha09 ($231.53 in chips)
+Seat 4: vestimokrec ($120 in chips)
+Jatha09: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+Jatha09: calls $2
+vestimokrec: checks
+*** FLOP *** [Th Jd 4c]
+vestimokrec: checks
+Jatha09: checks
+*** TURN *** [Th Jd 4c] [6h]
+vestimokrec: checks
+Jatha09: checks
+*** RIVER *** [Th Jd 4c 6h] [9h]
+vestimokrec: checks
+Jatha09: checks
+*** SHOW DOWN ***
+vestimokrec: shows [2h Ac] (high card Ace)
+Jatha09: mucks hand
+vestimokrec collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Th Jd 4c 6h 9h]
+Seat 3: Jatha09 (button) (small blind) mucked
+Seat 4: vestimokrec (big blind) showed [2h Ac] and won ($5.88) with high card Ace
+
+
+PokerStars Hand #149414079703:  Hold'em Limit ($3/$6 USD) - 2016/02/25 17:25:37 ET
+Table 'Walpurga' 6-max Seat #3 is the button
+Seat 3: Jatha09 ($225.53 in chips)
+Seat 4: vestimokrec ($125.88 in chips)
+Jatha09: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+Jatha09: raises $3 to $6
+vestimokrec: calls $3
+*** FLOP *** [Js Kc 4h]
+vestimokrec: checks
+Jatha09: bets $3
+vestimokrec: calls $3
+*** TURN *** [Js Kc 4h] [Ad]
+vestimokrec: checks
+AA_ILI joins the table at seat #5
+Jatha09: bets $6
+vestimokrec: folds
+Uncalled bet ($6) returned to Jatha09
+Jatha09 collected $17.64 from pot
+Jatha09: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Js Kc 4h Ad]
+Seat 3: Jatha09 (button) (small blind) collected ($17.64)
+Seat 4: vestimokrec (big blind) folded on the Turn
+
+
+PokerStars Hand #149416123760:  Hold'em Limit ($3/$6 USD) - 2016/02/25 18:05:05 ET
+Table 'Walpurga' 6-max Seat #6 is the button
+Seat 2: Jefrey-AA ($122.68 in chips)
+Seat 6: nmpro32 ($81 in chips)
+nmpro32: posts small blind $1
+Jefrey-AA: posts big blind $3
+*** HOLE CARDS ***
+nmpro32: raises $3 to $6
+BuzovaPro leaves the table
+Meifod leaves the table
+Jefrey-AA: folds
+Uncalled bet ($3) returned to nmpro32
+Jefrey-AA leaves the table
+nmpro32 collected $6 from pot
+nmpro32: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: Jefrey-AA (big blind) folded before Flop
+Seat 6: nmpro32 (button) (small blind) collected ($6)
+
+

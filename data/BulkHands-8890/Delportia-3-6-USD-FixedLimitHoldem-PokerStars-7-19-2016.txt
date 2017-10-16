@@ -1,0 +1,115 @@
+PokerStars Hand #156188466349:  Hold'em Limit ($3/$6 USD) - 2016/07/19 17:10:52 ET
+Table 'Delportia' 6-max Seat #1 is the button
+Seat 1: _fayzulllo_ ($72 in chips)
+Seat 4: Actionni13 ($150 in chips)
+_fayzulllo_: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: calls $2
+Actionni13: raises $3 to $6
+_fayzulllo_: calls $3
+*** FLOP *** [5h Ad Tc]
+Actionni13: bets $3
+_fayzulllo_: folds
+Uncalled bet ($3) returned to Actionni13
+Actionni13 collected $11.76 from pot
+Actionni13: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5h Ad Tc]
+Seat 1: _fayzulllo_ (button) (small blind) folded on the Flop
+Seat 4: Actionni13 (big blind) collected ($11.76)
+
+
+PokerStars Hand #156188485460:  Hold'em Limit ($3/$6 USD) - 2016/07/19 17:11:16 ET
+Table 'Delportia' 6-max Seat #4 is the button
+Seat 1: _fayzulllo_ ($66 in chips)
+Seat 4: Actionni13 ($155.76 in chips)
+Actionni13: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+_fayzulllo_: calls $3
+*** FLOP *** [Td 3s 5c]
+_fayzulllo_: checks
+Actionni13: bets $3
+_fayzulllo_: calls $3
+*** TURN *** [Td 3s 5c] [5s]
+_fayzulllo_: checks
+Actionni13: checks
+*** RIVER *** [Td 3s 5c 5s] [Th]
+_fayzulllo_: bets $6
+Actionni13: calls $6
+*** SHOW DOWN ***
+_fayzulllo_: shows [7d Js] (two pair, Tens and Fives)
+Actionni13: shows [2d Ac] (two pair, Tens and Fives - Ace kicker)
+Actionni13 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Td 3s 5c 5s Th]
+Seat 1: _fayzulllo_ (big blind) showed [7d Js] and lost with two pair, Tens and Fives
+Seat 4: Actionni13 (button) (small blind) showed [2d Ac] and won ($29.50) with two pair, Tens and Fives
+
+
+PokerStars Hand #156188508738:  Hold'em Limit ($3/$6 USD) - 2016/07/19 17:11:46 ET
+Table 'Delportia' 6-max Seat #1 is the button
+Seat 1: _fayzulllo_ ($51 in chips)
+Seat 4: Actionni13 ($170.26 in chips)
+_fayzulllo_: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: raises $3 to $6
+GRAILKO joins the table at seat #2
+Actionni13: raises $3 to $9
+Korish9506 joins the table at seat #3
+_fayzulllo_: calls $3
+*** FLOP *** [3s Qc 2d]
+Actionni13: bets $3
+_fayzulllo_: calls $3
+*** TURN *** [3s Qc 2d] [5d]
+Actionni13: bets $6
+_fayzulllo_: calls $6
+*** RIVER *** [3s Qc 2d 5d] [Ts]
+Actionni13: bets $6
+_fayzulllo_: calls $6
+*** SHOW DOWN ***
+Actionni13: shows [Ks Qs] (a pair of Queens)
+_fayzulllo_: mucks hand
+Actionni13 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3s Qc 2d 5d Ts]
+Seat 1: _fayzulllo_ (button) (small blind) mucked
+Seat 4: Actionni13 (big blind) showed [Ks Qs] and won ($47.50) with a pair of Queens
+
+
+PokerStars Hand #156188539514:  Hold'em Limit ($3/$6 USD) - 2016/07/19 17:12:12 ET
+Table 'Delportia' 6-max Seat #4 is the button
+Seat 1: _fayzulllo_ ($27 in chips)
+Seat 4: Actionni13 ($193.76 in chips)
+Actionni13: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+_fayzulllo_: calls $3
+*** FLOP *** [3c Jh 2c]
+_fayzulllo_: checks
+Actionni13: bets $3
+_fayzulllo_: calls $3
+*** TURN *** [3c Jh 2c] [5d]
+_fayzulllo_: checks
+Actionni13: checks
+*** RIVER *** [3c Jh 2c 5d] [6h]
+_fayzulllo_: checks
+Actionni13: checks
+*** SHOW DOWN ***
+_fayzulllo_: shows [8h Ts] (high card Jack)
+Actionni13: shows [Ah Qc] (high card Ace)
+Actionni13 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3c Jh 2c 5d 6h]
+Seat 1: _fayzulllo_ (big blind) showed [8h Ts] and lost with high card Jack
+Seat 4: Actionni13 (button) (small blind) showed [Ah Qc] and won ($17.64) with high card Ace
+
+

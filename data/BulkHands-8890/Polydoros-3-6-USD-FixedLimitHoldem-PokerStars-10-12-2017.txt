@@ -1,0 +1,364 @@
+PokerStars Hand #176814034810:  Hold'em Limit ($3/$6 USD) - 2017/10/12 8:41:58 ET
+Table 'Polydoros' 6-max Seat #1 is the button
+Seat 1: andyrr ($65.90 in chips)
+Seat 3: gabiruboy ($33 in chips)
+andyrr: posts small blind $1
+gabiruboy: posts big blind $3
+*** HOLE CARDS ***
+andyrr: raises $3 to $6
+gabiruboy: calls $3
+*** FLOP *** [4c 7s 6c]
+gabiruboy: checks
+andyrr: checks
+*** TURN *** [4c 7s 6c] [3d]
+gabiruboy: checks
+andyrr: checks
+*** RIVER *** [4c 7s 6c 3d] [4s]
+gabiruboy: bets $6
+andyrr: calls $6
+*** SHOW DOWN ***
+gabiruboy: shows [3h Js] (two pair, Fours and Threes)
+andyrr: mucks hand
+gabiruboy collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [4c 7s 6c 3d 4s]
+Seat 1: andyrr (button) (small blind) mucked
+Seat 3: gabiruboy (big blind) showed [3h Js] and won ($23.52) with two pair, Fours and Threes
+
+
+PokerStars Hand #176814041627:  Hold'em Limit ($3/$6 USD) - 2017/10/12 8:42:13 ET
+Table 'Polydoros' 6-max Seat #3 is the button
+Seat 1: andyrr ($53.90 in chips)
+Seat 3: gabiruboy ($44.52 in chips)
+gabiruboy: posts small blind $1
+andyrr: posts big blind $3
+*** HOLE CARDS ***
+gabiruboy: calls $2
+andyrr: raises $3 to $6
+gabiruboy: calls $3
+*** FLOP *** [7s 4s Th]
+andyrr: bets $3
+gabiruboy: calls $3
+*** TURN *** [7s 4s Th] [2s]
+andyrr: bets $6
+gabiruboy: calls $6
+*** RIVER *** [7s 4s Th 2s] [4c]
+andyrr: bets $6
+gabiruboy: calls $6
+*** SHOW DOWN ***
+andyrr: shows [8s Qh] (a pair of Fours)
+gabiruboy: shows [Ts 5d] (two pair, Tens and Fours)
+gabiruboy collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [7s 4s Th 2s 4c]
+Seat 1: andyrr (big blind) showed [8s Qh] and lost with a pair of Fours
+Seat 3: gabiruboy (button) (small blind) showed [Ts 5d] and won ($41.50) with two pair, Tens and Fours
+
+
+PokerStars Hand #176814050936:  Hold'em Limit ($3/$6 USD) - 2017/10/12 8:42:32 ET
+Table 'Polydoros' 6-max Seat #1 is the button
+Seat 1: andyrr ($32.90 in chips)
+Seat 3: gabiruboy ($65.02 in chips)
+andyrr: posts small blind $1
+gabiruboy: posts big blind $3
+*** HOLE CARDS ***
+andyrr: raises $3 to $6
+gabiruboy: calls $3
+*** FLOP *** [Jh 3h 9d]
+gabiruboy: checks
+andyrr: bets $3
+gabiruboy: calls $3
+*** TURN *** [Jh 3h 9d] [6d]
+gabiruboy: checks
+andyrr: checks
+*** RIVER *** [Jh 3h 9d 6d] [4h]
+gabiruboy: checks
+andyrr: checks
+*** SHOW DOWN ***
+gabiruboy: shows [6c Ks] (a pair of Sixes)
+andyrr: mucks hand
+gabiruboy collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Jh 3h 9d 6d 4h]
+Seat 1: andyrr (button) (small blind) mucked
+Seat 3: gabiruboy (big blind) showed [6c Ks] and won ($17.64) with a pair of Sixes
+
+
+PokerStars Hand #176814058918:  Hold'em Limit ($3/$6 USD) - 2017/10/12 8:42:49 ET
+Table 'Polydoros' 6-max Seat #3 is the button
+Seat 1: andyrr ($23.90 in chips)
+Seat 3: gabiruboy ($73.66 in chips)
+gabiruboy: posts small blind $1
+andyrr: posts big blind $3
+*** HOLE CARDS ***
+gabiruboy: calls $2
+andyrr: checks
+*** FLOP *** [2c Ac 5d]
+andyrr: checks
+gabiruboy: checks
+*** TURN *** [2c Ac 5d] [Kc]
+andyrr: checks
+gabiruboy: bets $6
+andyrr: folds
+Uncalled bet ($6) returned to gabiruboy
+gabiruboy collected $5.88 from pot
+gabiruboy: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [2c Ac 5d Kc]
+Seat 1: andyrr (big blind) folded on the Turn
+Seat 3: gabiruboy (button) (small blind) collected ($5.88)
+
+
+PokerStars Hand #176814065119:  Hold'em Limit ($3/$6 USD) - 2017/10/12 8:43:03 ET
+Table 'Polydoros' 6-max Seat #1 is the button
+Seat 1: andyrr ($20.90 in chips)
+Seat 3: gabiruboy ($76.54 in chips)
+andyrr: posts small blind $1
+gabiruboy: posts big blind $3
+*** HOLE CARDS ***
+andyrr: raises $3 to $6
+gabiruboy: calls $3
+*** FLOP *** [6d Jh 5c]
+gabiruboy: checks
+andyrr: bets $3
+uglyghost101 joins the table at seat #6
+gabiruboy: calls $3
+*** TURN *** [6d Jh 5c] [6c]
+gabiruboy: checks
+andyrr: checks
+*** RIVER *** [6d Jh 5c 6c] [6h]
+gabiruboy: bets $6
+andyrr: folds
+Uncalled bet ($6) returned to gabiruboy
+gabiruboy collected $17.64 from pot
+gabiruboy: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6d Jh 5c 6c 6h]
+Seat 1: andyrr (button) (small blind) folded on the River
+Seat 3: gabiruboy (big blind) collected ($17.64)
+
+
+PokerStars Hand #176814073016:  Hold'em Limit ($3/$6 USD) - 2017/10/12 8:43:20 ET
+Table 'Polydoros' 6-max Seat #3 is the button
+Seat 3: gabiruboy ($85.18 in chips)
+Seat 6: uglyghost101 ($100 in chips)
+andyrr leaves the table
+gabiruboy: posts small blind $1
+uglyghost101: posts big blind $3
+*** HOLE CARDS ***
+gabiruboy: calls $2
+uglyghost101: checks
+*** FLOP *** [8d Qh 7c]
+uglyghost101: checks
+gabiruboy: bets $3
+uglyghost101: calls $3
+*** TURN *** [8d Qh 7c] [Ad]
+uglyghost101: checks
+gabiruboy: checks
+*** RIVER *** [8d Qh 7c Ad] [Kc]
+uglyghost101: bets $6
+gabiruboy: calls $6
+*** SHOW DOWN ***
+uglyghost101: shows [Qd 2s] (a pair of Queens)
+gabiruboy: mucks hand
+uglyghost101 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [8d Qh 7c Ad Kc]
+Seat 3: gabiruboy (button) (small blind) mucked
+Seat 6: uglyghost101 (big blind) showed [Qd 2s] and won ($23.52) with a pair of Queens
+
+
+PokerStars Hand #176814084454:  Hold'em Limit ($3/$6 USD) - 2017/10/12 8:43:44 ET
+Table 'Polydoros' 6-max Seat #6 is the button
+Seat 3: gabiruboy ($73.18 in chips)
+Seat 6: uglyghost101 ($111.52 in chips)
+uglyghost101: posts small blind $1
+gabiruboy: posts big blind $3
+*** HOLE CARDS ***
+uglyghost101: raises $3 to $6
+gabiruboy: raises $3 to $9
+uglyghost101: calls $3
+*** FLOP *** [7s 5s 3d]
+gabiruboy: bets $3
+uglyghost101: calls $3
+*** TURN *** [7s 5s 3d] [5d]
+gabiruboy: bets $6
+uglyghost101: calls $6
+*** RIVER *** [7s 5s 3d 5d] [Jd]
+gabiruboy: checks
+uglyghost101: bets $6
+gabiruboy: calls $6
+*** SHOW DOWN ***
+uglyghost101: shows [Jc 4h] (two pair, Jacks and Fives)
+gabiruboy: mucks hand
+uglyghost101 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7s 5s 3d 5d Jd]
+Seat 3: gabiruboy (big blind) mucked
+Seat 6: uglyghost101 (button) (small blind) showed [Jc 4h] and won ($47.50) with two pair, Jacks and Fives
+
+
+PokerStars Hand #176814101062:  Hold'em Limit ($3/$6 USD) - 2017/10/12 8:44:19 ET
+Table 'Polydoros' 6-max Seat #3 is the button
+Seat 3: gabiruboy ($49.18 in chips)
+Seat 6: uglyghost101 ($135.02 in chips)
+gabiruboy: posts small blind $1
+uglyghost101: posts big blind $3
+*** HOLE CARDS ***
+gabiruboy: folds
+Uncalled bet ($2) returned to uglyghost101
+uglyghost101 collected $2 from pot
+uglyghost101: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: gabiruboy (button) (small blind) folded before Flop
+Seat 6: uglyghost101 (big blind) collected ($2)
+
+
+PokerStars Hand #176814104422:  Hold'em Limit ($3/$6 USD) - 2017/10/12 8:44:26 ET
+Table 'Polydoros' 6-max Seat #6 is the button
+Seat 3: gabiruboy ($48.18 in chips)
+Seat 6: uglyghost101 ($136.02 in chips)
+uglyghost101: posts small blind $1
+gabiruboy: posts big blind $3
+*** HOLE CARDS ***
+uglyghost101: raises $3 to $6
+gabiruboy: calls $3
+*** FLOP *** [Ah Ac Jh]
+gabiruboy: checks
+uglyghost101: bets $3
+gabiruboy: folds
+Uncalled bet ($3) returned to uglyghost101
+uglyghost101 collected $11.76 from pot
+uglyghost101: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ah Ac Jh]
+Seat 3: gabiruboy (big blind) folded on the Flop
+Seat 6: uglyghost101 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #176814110442:  Hold'em Limit ($3/$6 USD) - 2017/10/12 8:44:39 ET
+Table 'Polydoros' 6-max Seat #3 is the button
+Seat 3: gabiruboy ($42.18 in chips)
+Seat 6: uglyghost101 ($141.78 in chips)
+gabiruboy: posts small blind $1
+uglyghost101: posts big blind $3
+*** HOLE CARDS ***
+gabiruboy: raises $3 to $6
+uglyghost101: folds
+Uncalled bet ($3) returned to gabiruboy
+gabiruboy collected $6 from pot
+gabiruboy: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: gabiruboy (button) (small blind) collected ($6)
+Seat 6: uglyghost101 (big blind) folded before Flop
+
+
+PokerStars Hand #176814115131:  Hold'em Limit ($3/$6 USD) - 2017/10/12 8:44:49 ET
+Table 'Polydoros' 6-max Seat #6 is the button
+Seat 3: gabiruboy ($45.18 in chips)
+Seat 6: uglyghost101 ($138.78 in chips)
+uglyghost101: posts small blind $1
+gabiruboy: posts big blind $3
+*** HOLE CARDS ***
+uglyghost101: folds
+Uncalled bet ($2) returned to gabiruboy
+gabiruboy collected $2 from pot
+gabiruboy: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: gabiruboy (big blind) collected ($2)
+Seat 6: uglyghost101 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #176814302267:  Hold'em Limit ($3/$6 USD) - 2017/10/12 8:51:20 ET
+Table 'Polydoros' 6-max Seat #3 is the button
+Seat 3: uglyghost101 ($78 in chips)
+Seat 6: BcomeSomeone ($161.02 in chips)
+uglyghost101: posts small blind $1
+BcomeSomeone: posts big blind $3
+*** HOLE CARDS ***
+uglyghost101: raises $3 to $6
+BcomeSomeone: calls $3
+*** FLOP *** [9h 7s Ks]
+BcomeSomeone: checks
+uglyghost101: bets $3
+BcomeSomeone: folds
+Uncalled bet ($3) returned to uglyghost101
+uglyghost101 collected $11.76 from pot
+uglyghost101: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9h 7s Ks]
+Seat 3: uglyghost101 (button) (small blind) collected ($11.76)
+Seat 6: BcomeSomeone (big blind) folded on the Flop
+
+
+PokerStars Hand #176814293412:  Hold'em Limit ($3/$6 USD) - 2017/10/12 8:51:01 ET
+Table 'Polydoros' 6-max Seat #6 is the button
+Seat 3: uglyghost101 ($108 in chips)
+Seat 6: BcomeSomeone ($131.52 in chips)
+BcomeSomeone: posts small blind $1
+uglyghost101: posts big blind $3
+*** HOLE CARDS ***
+BcomeSomeone: raises $3 to $6
+uglyghost101: raises $3 to $9
+BcomeSomeone: calls $3
+*** FLOP *** [6h 4d Qh]
+uglyghost101: bets $3
+BcomeSomeone: calls $3
+*** TURN *** [6h 4d Qh] [6s]
+uglyghost101: bets $6
+BcomeSomeone: calls $6
+*** RIVER *** [6h 4d Qh 6s] [7h]
+LouisB joins the table at seat #1
+uglyghost101: bets $6
+BcomeSomeone: raises $6 to $12
+uglyghost101: calls $6
+*** SHOW DOWN ***
+BcomeSomeone: shows [Ah Jh] (a flush, Ace high)
+uglyghost101: mucks hand
+BcomeSomeone collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [6h 4d Qh 6s 7h]
+Seat 3: uglyghost101 (big blind) mucked
+Seat 6: BcomeSomeone (button) (small blind) showed [Ah Jh] and won ($59.50) with a flush, Ace high
+
+
+PokerStars Hand #176814284897:  Hold'em Limit ($3/$6 USD) - 2017/10/12 8:50:43 ET
+Table 'Polydoros' 6-max Seat #3 is the button
+Seat 3: uglyghost101 ($120 in chips)
+Seat 6: BcomeSomeone ($120 in chips)
+uglyghost101: posts small blind $1
+BcomeSomeone: posts big blind $3
+*** HOLE CARDS ***
+uglyghost101: raises $3 to $6
+BcomeSomeone: calls $3
+*** FLOP *** [6c Kh 7d]
+BcomeSomeone: checks
+uglyghost101: bets $3
+BcomeSomeone: raises $3 to $6
+uglyghost101: calls $3
+*** TURN *** [6c Kh 7d] [7c]
+BcomeSomeone: bets $6
+uglyghost101: folds
+Uncalled bet ($6) returned to BcomeSomeone
+BcomeSomeone collected $23.52 from pot
+BcomeSomeone: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [6c Kh 7d 7c]
+Seat 3: uglyghost101 (button) (small blind) folded on the Turn
+Seat 6: BcomeSomeone (big blind) collected ($23.52)
+
+

@@ -1,0 +1,128 @@
+PokerStars Hand #161196885637:  Hold'em Limit ($3/$6 USD) - 2016/11/10 13:21:13 ET
+Table 'Juewa II' 6-max Seat #2 is the button
+Seat 2: juliteus ($4.11 in chips)
+Seat 5: sim5sim5 ($72 in chips)
+juliteus: posts small blind $1
+Luanto 14: is sitting out
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+juliteus: raises $1.11 to $4.11 and is all-in
+sim5sim5: calls $1.11
+*** FLOP *** [6h 9c Td]
+*** TURN *** [6h 9c Td] [Ac]
+*** RIVER *** [6h 9c Td Ac] [3d]
+*** SHOW DOWN ***
+sim5sim5: shows [4h 8s] (high card Ace)
+juliteus: shows [Qh Kh] (high card Ace - King kicker)
+juliteus collected $8.06 from pot
+*** SUMMARY ***
+Total pot $8.22 | Rake $0.16
+Board [6h 9c Td Ac 3d]
+Seat 2: juliteus (button) (small blind) showed [Qh Kh] and won ($8.06) with high card Ace
+Seat 5: sim5sim5 (big blind) showed [4h 8s] and lost with high card Ace
+
+
+PokerStars Hand #161196897091:  Hold'em Limit ($3/$6 USD) - 2016/11/10 13:21:26 ET
+Table 'Juewa II' 6-max Seat #5 is the button
+Seat 2: juliteus ($8.06 in chips)
+Seat 5: sim5sim5 ($72 in chips)
+sim5sim5: posts small blind $1
+juliteus: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+juliteus: folds
+Uncalled bet ($3) returned to sim5sim5
+sim5sim5 collected $6 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: juliteus (big blind) folded before Flop
+Seat 5: sim5sim5 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #161196902074:  Hold'em Limit ($3/$6 USD) - 2016/11/10 13:21:32 ET
+Table 'Juewa II' 6-max Seat #2 is the button
+Seat 2: juliteus ($5.06 in chips)
+Seat 5: sim5sim5 ($75 in chips)
+juliteus: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+juliteus: raises $2.06 to $5.06 and is all-in
+sim5sim5: calls $2.06
+*** FLOP *** [7h Qs 9d]
+*** TURN *** [7h Qs 9d] [5d]
+*** RIVER *** [7h Qs 9d 5d] [Kh]
+*** SHOW DOWN ***
+sim5sim5: shows [Kc Ks] (three of a kind, Kings)
+juliteus: shows [7c Ac] (a pair of Sevens)
+sim5sim5 collected $9.92 from pot
+*** SUMMARY ***
+Total pot $10.12 | Rake $0.20
+Board [7h Qs 9d 5d Kh]
+Seat 2: juliteus (button) (small blind) showed [7c Ac] and lost with a pair of Sevens
+Seat 5: sim5sim5 (big blind) showed [Kc Ks] and won ($9.92) with three of a kind, Kings
+
+
+PokerStars Hand #161197193404:  Hold'em Limit ($3/$6 USD) - 2016/11/10 13:27:19 ET
+Table 'Juewa II' 6-max Seat #3 is the button
+Seat 3: kaypoker619 ($93.87 in chips)
+Seat 4: Ale4o ($120 in chips)
+kaypoker619: posts small blind $1
+Ale4o: posts big blind $3
+*** HOLE CARDS ***
+kaypoker619: calls $2
+Ale4o: raises $3 to $6
+kaypoker619: calls $3
+*** FLOP *** [Td Js As]
+Ale4o: bets $3
+ValeryRon joins the table at seat #5
+kaypoker619: calls $3
+*** TURN *** [Td Js As] [5h]
+Ale4o: checks
+kaypoker619: bets $6
+Ale4o: calls $6
+*** RIVER *** [Td Js As 5h] [4h]
+Ale4o: checks
+kaypoker619: bets $6
+Ale4o: calls $6
+*** SHOW DOWN ***
+kaypoker619: shows [5c 7h] (a pair of Fives)
+Ale4o: shows [5d Ks] (a pair of Fives - Ace+King kicker)
+Ale4o collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Td Js As 5h 4h]
+Seat 3: kaypoker619 (button) (small blind) showed [5c 7h] and lost with a pair of Fives
+Seat 4: Ale4o (big blind) showed [5d Ks] and won ($41.50) with a pair of Fives
+
+
+PokerStars Hand #161198364919:  Hold'em Limit ($3/$6 USD) - 2016/11/10 13:50:27 ET
+Table 'Juewa II' 6-max Seat #4 is the button
+Seat 2: B_loJkl ($93.92 in chips)
+Seat 4: Ale4o ($170.03 in chips)
+Ale4o: posts small blind $1
+MMM 22666: is sitting out
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Ale4o: raises $3 to $6
+MMM 22666 leaves the table
+B_loJkl: raises $3 to $9
+Ale4o: calls $3
+*** FLOP *** [Tc Ah Kd]
+B_loJkl: checks
+Ale4o: bets $3
+B_loJkl: calls $3
+*** TURN *** [Tc Ah Kd] [Kc]
+B_loJkl: checks
+Ale4o: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to Ale4o
+Ale4o collected $23.52 from pot
+Ale4o: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Tc Ah Kd Kc]
+Seat 2: B_loJkl (big blind) folded on the Turn
+Seat 4: Ale4o (button) (small blind) collected ($23.52)
+
+

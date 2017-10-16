@@ -1,0 +1,141 @@
+PokerStars Hand #148795895587:  Hold'em Limit ($3/$6 USD) - 2016/02/14 12:49:54 ET
+Table 'Heze II' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 3: permafrost07 ($120 in chips)
+ChOfW joins the table at seat #4
+VolkovDmitri: posts small blind $1
+permafrost07: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+permafrost07: calls $3
+*** FLOP *** [2d Kc 7d]
+permafrost07: checks
+VolkovDmitri: bets $3
+permafrost07: calls $3
+*** TURN *** [2d Kc 7d] [As]
+permafrost07: bets $6
+VolkovDmitri: raises $6 to $12
+permafrost07: calls $6
+*** RIVER *** [2d Kc 7d As] [7c]
+permafrost07: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+permafrost07: shows [Ad Ts] (two pair, Aces and Sevens)
+VolkovDmitri: mucks hand
+permafrost07 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2d Kc 7d As 7c]
+Seat 1: VolkovDmitri (button) (small blind) mucked
+Seat 3: permafrost07 (big blind) showed [Ad Ts] and won ($41.50) with two pair, Aces and Sevens
+
+
+PokerStars Hand #148796047141:  Hold'em Limit ($3/$6 USD) - 2016/02/14 12:52:11 ET
+Table 'Heze II' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 4: ChOfW ($66 in chips)
+VolkovDmitri: posts small blind $1
+ChOfW: posts big blind $3
+*** HOLE CARDS ***
+permafrost07 leaves the table
+VolkovDmitri: raises $3 to $6
+ChOfW: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: VolkovDmitri (button) (small blind) collected ($6)
+Seat 4: ChOfW (big blind) folded before Flop
+
+
+PokerStars Hand #148796056164:  Hold'em Limit ($3/$6 USD) - 2016/02/14 12:52:19 ET
+Table 'Heze II' 6-max Seat #4 is the button
+Seat 1: VolkovDmitri ($123 in chips)
+Seat 4: ChOfW ($66 in chips)
+ChOfW: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+ChOfW: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Kh 8h 9d]
+VolkovDmitri: checks
+ChOfW: bets $3
+VolkovDmitri: raises $3 to $6
+ChOfW: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $17.64 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kh 8h 9d]
+Seat 1: VolkovDmitri (big blind) collected ($17.64)
+Seat 4: ChOfW (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #148797048437:  Hold'em Limit ($3/$6 USD) - 2016/02/14 13:08:42 ET
+Table 'Heze II' 6-max Seat #3 is the button
+Seat 3: Azrarn ($91.76 in chips)
+Seat 4: Warner13 ($74.20 in chips)
+Azrarn: posts small blind $1
+Warner13: posts big blind $3
+*** HOLE CARDS ***
+Azrarn: raises $3 to $6
+Warner13: calls $3
+*** FLOP *** [Tc Jc 4h]
+Warner13: checks
+Azrarn: bets $3
+Warner13: calls $3
+*** TURN *** [Tc Jc 4h] [6d]
+Warner13: bets $6
+Great_Kang joins the table at seat #5
+Azrarn: calls $6
+*** RIVER *** [Tc Jc 4h 6d] [3d]
+Warner13: checks
+Azrarn: bets $6
+Warner13: calls $6
+*** SHOW DOWN ***
+Azrarn: shows [4s Kc] (a pair of Fours)
+Warner13: shows [8s Ts] (a pair of Tens)
+Warner13 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Tc Jc 4h 6d 3d]
+Seat 3: Azrarn (button) (small blind) showed [4s Kc] and lost with a pair of Fours
+Seat 4: Warner13 (big blind) showed [8s Ts] and won ($41.50) with a pair of Tens
+
+
+PokerStars Hand #148797145183:  Hold'em Limit ($3/$6 USD) - 2016/02/14 13:10:07 ET
+Table 'Heze II' 6-max Seat #3 is the button
+Seat 3: Azrarn ($87.28 in chips)
+Seat 5: Great_Kang ($120 in chips)
+boony444 will be allowed to play after the button
+Azrarn: posts small blind $1
+Warner13: is sitting out
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+Azrarn: raises $3 to $6
+Great_Kang: calls $3
+*** FLOP *** [5s 5c 5h]
+Great_Kang: checks
+Azrarn: bets $3
+Great_Kang: calls $3
+*** TURN *** [5s 5c 5h] [Tc]
+Great_Kang: checks
+Azrarn: bets $6
+Great_Kang: calls $6
+*** RIVER *** [5s 5c 5h Tc] [Qc]
+Great_Kang: checks
+Azrarn: checks
+*** SHOW DOWN ***
+Great_Kang: shows [Ac 3h] (three of a kind, Fives)
+Azrarn: shows [2s Ad] (three of a kind, Fives)
+Great_Kang collected $14.75 from pot
+Azrarn collected $14.75 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5s 5c 5h Tc Qc]
+Seat 3: Azrarn (button) (small blind) showed [2s Ad] and won ($14.75) with three of a kind, Fives
+Seat 5: Great_Kang (big blind) showed [Ac 3h] and won ($14.75) with three of a kind, Fives
+
+

@@ -1,0 +1,83 @@
+PokerStars Hand #171803715183:  Hold'em Limit ($3/$6 USD) - 2017/06/15 10:38:32 ET
+Table 'Peiraios' 6-max Seat #1 is the button
+Seat 1: igorkabmw ($19 in chips)
+Seat 2: Ale4o ($131.52 in chips)
+igorkabmw: posts small blind $1
+Ale4o: posts big blind $3
+*** HOLE CARDS ***
+igorkabmw: raises $3 to $6
+Ale4o: folds
+Uncalled bet ($3) returned to igorkabmw
+igorkabmw collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: igorkabmw (button) (small blind) collected ($6)
+Seat 2: Ale4o (big blind) folded before Flop
+
+
+PokerStars Hand #171803701160:  Hold'em Limit ($3/$6 USD) - 2017/06/15 10:38:09 ET
+Table 'Peiraios' 6-max Seat #2 is the button
+Seat 1: igorkabmw ($31 in chips)
+Seat 2: Ale4o ($120 in chips)
+Ale4o: posts small blind $1
+sim5sim5: is sitting out
+igorkabmw: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5 leaves the table
+Ale4o: calls $2
+igorkabmw: checks
+*** FLOP *** [9d 2c 6d]
+igorkabmw: checks
+Ale4o: bets $3
+igorkabmw: calls $3
+*** TURN *** [9d 2c 6d] [8c]
+igorkabmw: checks
+Ale4o: bets $6
+igorkabmw: calls $6
+*** RIVER *** [9d 2c 6d 8c] [Kh]
+igorkabmw: checks
+Ale4o: checks
+*** SHOW DOWN ***
+igorkabmw: shows [4s 7d] (high card King)
+Ale4o: shows [6c Jh] (a pair of Sixes)
+Ale4o collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [9d 2c 6d 8c Kh]
+Seat 1: igorkabmw (big blind) showed [4s 7d] and lost with high card King
+Seat 2: Ale4o (button) (small blind) showed [6c Jh] and won ($23.52) with a pair of Sixes
+
+
+PokerStars Hand #171803718499:  Hold'em Limit ($3/$6 USD) - 2017/06/15 10:38:38 ET
+Table 'Peiraios' 6-max Seat #2 is the button
+Seat 1: igorkabmw ($22 in chips)
+Seat 2: Ale4o ($128.52 in chips)
+Ale4o: posts small blind $1
+igorkabmw: posts big blind $3
+*** HOLE CARDS ***
+DismasX joins the table at seat #3
+Ale4o: raises $3 to $6
+igorkabmw: raises $3 to $9
+Ale4o: calls $3
+*** FLOP *** [Qd Tc Ts]
+igorkabmw: checks
+Ale4o: checks
+*** TURN *** [Qd Tc Ts] [7d]
+igorkabmw: bets $6
+Ale4o: calls $6
+*** RIVER *** [Qd Tc Ts 7d] [Jh]
+igorkabmw: bets $6
+Ale4o: raises $6 to $12
+igorkabmw: calls $1 and is all-in
+Uncalled bet ($5) returned to Ale4o
+*** SHOW DOWN ***
+Ale4o: shows [9s 8c] (a straight, Eight to Queen)
+igorkabmw: shows [Ad Td] (three of a kind, Tens)
+Ale4o collected $43.50 from pot
+*** SUMMARY ***
+Total pot $44 | Rake $0.50
+Board [Qd Tc Ts 7d Jh]
+Seat 1: igorkabmw (big blind) showed [Ad Td] and lost with three of a kind, Tens
+Seat 2: Ale4o (button) (small blind) showed [9s 8c] and won ($43.50) with a straight, Eight to Queen
+
+

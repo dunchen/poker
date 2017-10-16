@@ -1,0 +1,106 @@
+PokerStars Hand #161551184944:  Hold'em Limit ($3/$6 USD) - 2016/11/17 14:32:22 ET
+Table 'Gase' 6-max Seat #4 is the button
+Seat 3: Zensor666 ($131.52 in chips)
+Seat 4: MTails ($108 in chips)
+MTails: posts small blind $1
+Zensor666: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+Zensor666: calls $3
+*** FLOP *** [Ks 2s 6c]
+Zensor666: checks
+MTails: bets $3
+Zensor666: calls $3
+*** TURN *** [Ks 2s 6c] [Kc]
+Zensor666: checks
+MTails: bets $6
+Zensor666: calls $6
+*** RIVER *** [Ks 2s 6c Kc] [Kh]
+Zensor666: checks
+ToDaFelt joins the table at seat #5
+MTails: checks
+*** SHOW DOWN ***
+Zensor666: shows [5d Ac] (three of a kind, Kings)
+MTails: mucks hand
+Zensor666 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ks 2s 6c Kc Kh]
+Seat 3: Zensor666 (big blind) showed [5d Ac] and won ($29.50) with three of a kind, Kings
+Seat 4: MTails (button) (small blind) mucked
+
+
+PokerStars Hand #161551143229:  Hold'em Limit ($3/$6 USD) - 2016/11/17 14:31:37 ET
+Table 'Gase' 6-max Seat #3 is the button
+Seat 3: Zensor666 ($120 in chips)
+Seat 4: MTails ($120 in chips)
+Zensor666: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+Zensor666: raises $3 to $6
+MTails: raises $3 to $9
+Zensor666: calls $3
+*** FLOP *** [Kc Ah Kh]
+MTails: bets $3
+Zensor666: calls $3
+*** TURN *** [Kc Ah Kh] [8d]
+MTails: checks
+Zensor666: bets $6
+MTails: folds
+Uncalled bet ($6) returned to Zensor666
+Zensor666 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Kc Ah Kh 8d]
+Seat 3: Zensor666 (button) (small blind) collected ($23.52)
+Seat 4: MTails (big blind) folded on the Turn
+
+
+PokerStars Hand #161551208299:  Hold'em Limit ($3/$6 USD) - 2016/11/17 14:32:47 ET
+Table 'Gase' 6-max Seat #3 is the button
+Seat 3: Zensor666 ($146.02 in chips)
+Seat 4: MTails ($93 in chips)
+Zensor666: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+Zensor666: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [4d 7h 5c]
+MTails: checks
+Zensor666: bets $3
+MTails: raises $3 to $6
+Zensor666: calls $3
+*** TURN *** [4d 7h 5c] [5h]
+MTails: bets $6
+Zensor666: calls $6
+*** RIVER *** [4d 7h 5c 5h] [Kc]
+MTails: bets $6
+Zensor666: calls $6
+*** SHOW DOWN ***
+MTails: shows [7c 3d] (two pair, Sevens and Fives)
+Zensor666: shows [6c Kh] (two pair, Kings and Fives)
+Zensor666 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4d 7h 5c 5h Kc]
+Seat 3: Zensor666 (button) (small blind) showed [6c Kh] and won ($47.50) with two pair, Kings and Fives
+Seat 4: MTails (big blind) showed [7c 3d] and lost with two pair, Sevens and Fives
+
+
+PokerStars Hand #161555755423:  Hold'em Limit ($3/$6 USD) - 2016/11/17 15:53:02 ET
+Table 'Gase' 6-max Seat #5 is the button
+Seat 4: RaisemyNut$ ($96.57 in chips)
+Seat 5: ToDaFelt ($362.92 in chips)
+ToDaFelt: posts small blind $1
+RaisemyNut$: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: folds
+Uncalled bet ($2) returned to RaisemyNut$
+RaisemyNut$ collected $2 from pot
+RaisemyNut$: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: RaisemyNut$ (big blind) collected ($2)
+Seat 5: ToDaFelt (button) (small blind) folded before Flop
+
+

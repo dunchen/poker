@@ -1,0 +1,549 @@
+PokerStars Hand #169106741865:  Hold'em Limit ($3/$6 USD) - 2017/04/16 2:16:25 ET
+Table 'Alrischa' 6-max Seat #3 is the button
+Seat 3: millon ($120 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+millon: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+millon: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+millon: raises $3 to $12
+Betting is capped
+VolkovDmitri: calls $3
+*** FLOP *** [8c 7d 7h]
+VolkovDmitri: checks
+millon: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [8c 7d 7h] [3h]
+VolkovDmitri: checks
+millon: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [8c 7d 7h 3h] [7s]
+VolkovDmitri: checks
+millon: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+millon: shows [Qs 8s] (a full house, Sevens full of Eights)
+VolkovDmitri: mucks hand
+millon collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [8c 7d 7h 3h 7s]
+Seat 3: millon (button) (small blind) showed [Qs 8s] and won ($53.50) with a full house, Sevens full of Eights
+Seat 4: VolkovDmitri (big blind) mucked
+
+
+PokerStars Hand #169106752320:  Hold'em Limit ($3/$6 USD) - 2017/04/16 2:17:02 ET
+Table 'Alrischa' 6-max Seat #4 is the button
+Seat 3: millon ($146.50 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+millon: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+millon: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [2s Jd 9c]
+millon: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [2s Jd 9c] [3c]
+millon: bets $6
+patrikskjold joins the table at seat #5
+VolkovDmitri: raises $6 to $12
+millon: raises $6 to $18
+VolkovDmitri: calls $6
+*** RIVER *** [2s Jd 9c 3c] [4h]
+millon: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+millon: shows [Js Jc] (three of a kind, Jacks)
+VolkovDmitri: mucks hand
+millon collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [2s Jd 9c 3c 4h]
+Seat 3: millon (big blind) showed [Js Jc] and won ($59.50) with three of a kind, Jacks
+Seat 4: VolkovDmitri (button) (small blind) mucked
+
+
+PokerStars Hand #169106759862:  Hold'em Limit ($3/$6 USD) - 2017/04/16 2:17:28 ET
+Table 'Alrischa' 6-max Seat #3 is the button
+Seat 3: millon ($176 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+millon: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+millon: calls $2
+VolkovDmitri: raises $3 to $6
+millon: calls $3
+*** FLOP *** [6d Qh Kd]
+VolkovDmitri: bets $3
+millon: calls $3
+*** TURN *** [6d Qh Kd] [Ac]
+VolkovDmitri: bets $6
+millon: calls $6
+*** RIVER *** [6d Qh Kd Ac] [8s]
+VolkovDmitri: bets $6
+millon: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Kh As] (two pair, Aces and Kings)
+millon: mucks hand
+VolkovDmitri collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [6d Qh Kd Ac 8s]
+Seat 3: millon (button) (small blind) mucked
+Seat 4: VolkovDmitri (big blind) showed [Kh As] and won ($41.50) with two pair, Aces and Kings
+
+
+PokerStars Hand #169106898777:  Hold'em Limit ($3/$6 USD) - 2017/04/16 2:25:29 ET
+Table 'Alrischa' 6-max Seat #4 is the button
+Seat 3: millon ($142.06 in chips)
+Seat 4: VolkovDmitri ($221.30 in chips)
+VolkovDmitri: posts small blind $1
+patrikskjold: is sitting out
+millon: posts big blind $3
+*** HOLE CARDS ***
+patrikskjold leaves the table
+VolkovDmitri: folds
+Uncalled bet ($2) returned to millon
+millon collected $2 from pot
+millon: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: millon (big blind) collected ($2)
+Seat 4: VolkovDmitri (button) (small blind) folded before Flop
+
+
+PokerStars Hand #169106901453:  Hold'em Limit ($3/$6 USD) - 2017/04/16 2:25:38 ET
+Table 'Alrischa' 6-max Seat #3 is the button
+Seat 3: millon ($143.06 in chips)
+Seat 4: VolkovDmitri ($220.30 in chips)
+millon: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+millon: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Ts Qs 9c]
+VolkovDmitri: checks
+millon: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [Ts Qs 9c] [2c]
+VolkovDmitri: bets $6
+millon: calls $6
+*** RIVER *** [Ts Qs 9c 2c] [4c]
+VolkovDmitri: bets $6
+millon: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [9d 4h] (two pair, Nines and Fours)
+millon: mucks hand
+VolkovDmitri collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ts Qs 9c 2c 4c]
+Seat 3: millon (button) (small blind) mucked
+Seat 4: VolkovDmitri (big blind) showed [9d 4h] and won ($41.50) with two pair, Nines and Fours
+
+
+PokerStars Hand #169106911563:  Hold'em Limit ($3/$6 USD) - 2017/04/16 2:26:13 ET
+Table 'Alrischa' 6-max Seat #4 is the button
+Seat 3: millon ($122.06 in chips)
+Seat 4: VolkovDmitri ($240.80 in chips)
+VolkovDmitri: posts small blind $1
+millon: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+millon: calls $3
+*** FLOP *** [5c 3s 6s]
+millon: checks
+VolkovDmitri: bets $3
+millon: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [5c 3s 6s] [7d]
+millon: bets $6
+VolkovDmitri: raises $6 to $12
+millon: calls $6
+*** RIVER *** [5c 3s 6s 7d] [Kd]
+millon: checks
+VolkovDmitri: bets $6
+millon: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [4c 9c] (a straight, Three to Seven)
+millon: mucks hand
+VolkovDmitri collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [5c 3s 6s 7d Kd]
+Seat 3: millon (big blind) mucked
+Seat 4: VolkovDmitri (button) (small blind) showed [4c 9c] and won ($59.50) with a straight, Three to Seven
+
+
+PokerStars Hand #169106924658:  Hold'em Limit ($3/$6 USD) - 2017/04/16 2:26:58 ET
+Table 'Alrischa' 6-max Seat #3 is the button
+Seat 3: millon ($92.06 in chips)
+Seat 4: VolkovDmitri ($270.30 in chips)
+millon: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+millon: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Kd 9h Js]
+VolkovDmitri: checks
+millon: bets $3
+VolkovDmitri: raises $3 to $6
+millon: calls $3
+*** TURN *** [Kd 9h Js] [Ks]
+VolkovDmitri: bets $6
+millon: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $23.52 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Kd 9h Js Ks]
+Seat 3: millon (button) (small blind) folded on the Turn
+Seat 4: VolkovDmitri (big blind) collected ($23.52)
+
+
+PokerStars Hand #169106937860:  Hold'em Limit ($3/$6 USD) - 2017/04/16 2:27:44 ET
+Table 'Alrischa' 6-max Seat #4 is the button
+Seat 3: millon ($80.06 in chips)
+Seat 4: VolkovDmitri ($281.82 in chips)
+VolkovDmitri: posts small blind $1
+millon: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+millon: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: millon (big blind) folded before Flop
+Seat 4: VolkovDmitri (button) (small blind) collected ($6)
+
+
+PokerStars Hand #169106939793:  Hold'em Limit ($3/$6 USD) - 2017/04/16 2:27:51 ET
+Table 'Alrischa' 6-max Seat #3 is the button
+Seat 3: millon ($77.06 in chips)
+Seat 4: VolkovDmitri ($284.82 in chips)
+millon: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+millon: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [7d 8c 5d]
+VolkovDmitri: bets $3
+millon: calls $3
+*** TURN *** [7d 8c 5d] [8h]
+VolkovDmitri: checks
+millon: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [7d 8c 5d 8h] [2c]
+VolkovDmitri: checks
+millon: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+millon: shows [9s Qh] (a pair of Eights)
+VolkovDmitri: shows [7s 9c] (two pair, Eights and Sevens)
+VolkovDmitri collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [7d 8c 5d 8h 2c]
+Seat 3: millon (button) (small blind) showed [9s Qh] and lost with a pair of Eights
+Seat 4: VolkovDmitri (big blind) showed [7s 9c] and won ($41.50) with two pair, Eights and Sevens
+
+
+PokerStars Hand #169106962593:  Hold'em Limit ($3/$6 USD) - 2017/04/16 2:29:10 ET
+Table 'Alrischa' 6-max Seat #3 is the button
+Seat 3: millon ($50.06 in chips)
+Seat 4: VolkovDmitri ($311.08 in chips)
+millon: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+millon: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: millon (button) (small blind) folded before Flop
+Seat 4: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #169106956947:  Hold'em Limit ($3/$6 USD) - 2017/04/16 2:28:50 ET
+Table 'Alrischa' 6-max Seat #4 is the button
+Seat 3: millon ($56.06 in chips)
+Seat 4: VolkovDmitri ($305.32 in chips)
+VolkovDmitri: posts small blind $1
+millon: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+millon: calls $3
+*** FLOP *** [Qh Jc Kd]
+millon: checks
+VolkovDmitri: bets $3
+millon: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qh Jc Kd]
+Seat 3: millon (big blind) folded on the Flop
+Seat 4: VolkovDmitri (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #169106964613:  Hold'em Limit ($3/$6 USD) - 2017/04/16 2:29:17 ET
+Table 'Alrischa' 6-max Seat #4 is the button
+Seat 3: millon ($49.06 in chips)
+Seat 4: VolkovDmitri ($312.08 in chips)
+VolkovDmitri: posts small blind $1
+millon: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+millon: calls $3
+*** FLOP *** [2h Qs 2s]
+millon: checks
+VolkovDmitri: bets $3
+millon: raises $3 to $6
+VolkovDmitri: folds
+Uncalled bet ($3) returned to millon
+millon collected $17.64 from pot
+millon: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2h Qs 2s]
+Seat 3: millon (big blind) collected ($17.64)
+Seat 4: VolkovDmitri (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #169106971504:  Hold'em Limit ($3/$6 USD) - 2017/04/16 2:29:41 ET
+Table 'Alrischa' 6-max Seat #3 is the button
+Seat 3: millon ($57.70 in chips)
+Seat 4: VolkovDmitri ($303.08 in chips)
+millon: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+millon: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Th 5s Ad]
+VolkovDmitri: checks
+millon: bets $3
+VolkovDmitri: raises $3 to $6
+millon: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $17.64 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Th 5s Ad]
+Seat 3: millon (button) (small blind) folded on the Flop
+Seat 4: VolkovDmitri (big blind) collected ($17.64)
+
+
+PokerStars Hand #169106976567:  Hold'em Limit ($3/$6 USD) - 2017/04/16 2:29:58 ET
+Table 'Alrischa' 6-max Seat #4 is the button
+Seat 3: millon ($48.70 in chips)
+Seat 4: VolkovDmitri ($311.72 in chips)
+VolkovDmitri: posts small blind $1
+millon: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: folds
+Uncalled bet ($2) returned to millon
+millon collected $2 from pot
+millon: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: millon (big blind) collected ($2)
+Seat 4: VolkovDmitri (button) (small blind) folded before Flop
+
+
+PokerStars Hand #169106979379:  Hold'em Limit ($3/$6 USD) - 2017/04/16 2:30:08 ET
+Table 'Alrischa' 6-max Seat #3 is the button
+Seat 3: millon ($49.70 in chips)
+Seat 4: VolkovDmitri ($310.72 in chips)
+millon: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+millon: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: millon (button) (small blind) folded before Flop
+Seat 4: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #169106981456:  Hold'em Limit ($3/$6 USD) - 2017/04/16 2:30:15 ET
+Table 'Alrischa' 6-max Seat #4 is the button
+Seat 3: millon ($48.70 in chips)
+Seat 4: VolkovDmitri ($311.72 in chips)
+VolkovDmitri: posts small blind $1
+millon: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+millon: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [2h Td 9s]
+millon: bets $3
+VolkovDmitri: raises $3 to $6
+millon: raises $3 to $9
+VolkovDmitri: calls $3
+*** TURN *** [2h Td 9s] [Qc]
+millon: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [2h Td 9s Qc] [Th]
+millon: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+millon: shows [Jc Kc] (a straight, Nine to King)
+VolkovDmitri: mucks hand
+millon collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [2h Td 9s Qc Th]
+Seat 3: millon (big blind) showed [Jc Kc] and won ($59.50) with a straight, Nine to King
+Seat 4: VolkovDmitri (button) (small blind) mucked
+
+
+PokerStars Hand #169107010201:  Hold'em Limit ($3/$6 USD) - 2017/04/16 2:31:54 ET
+Table 'Alrischa' 6-max Seat #3 is the button
+Seat 3: millon ($71.20 in chips)
+Seat 4: VolkovDmitri ($288.48 in chips)
+millon: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+millon: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: millon (button) (small blind) folded before Flop
+Seat 4: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #169107002474:  Hold'em Limit ($3/$6 USD) - 2017/04/16 2:31:27 ET
+Table 'Alrischa' 6-max Seat #4 is the button
+Seat 3: millon ($77.20 in chips)
+Seat 4: VolkovDmitri ($282.72 in chips)
+VolkovDmitri: posts small blind $1
+millon: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+millon: calls $3
+*** FLOP *** [9d 4s Ac]
+millon: checks
+VolkovDmitri: bets $3
+millon: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9d 4s Ac]
+Seat 3: millon (big blind) folded on the Flop
+Seat 4: VolkovDmitri (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #169106998528:  Hold'em Limit ($3/$6 USD) - 2017/04/16 2:31:14 ET
+Table 'Alrischa' 6-max Seat #3 is the button
+Seat 3: millon ($78.20 in chips)
+Seat 4: VolkovDmitri ($281.72 in chips)
+millon: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+millon: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: millon (button) (small blind) folded before Flop
+Seat 4: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #169107011808:  Hold'em Limit ($3/$6 USD) - 2017/04/16 2:32:00 ET
+Table 'Alrischa' 6-max Seat #4 is the button
+Seat 3: millon ($70.20 in chips)
+Seat 4: VolkovDmitri ($289.48 in chips)
+VolkovDmitri: posts small blind $1
+millon: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+millon: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [Kd 4s Kc]
+millon: bets $3
+VolkovDmitri: raises $3 to $6
+millon: calls $3
+*** TURN *** [Kd 4s Kc] [8h]
+millon: checks
+VolkovDmitri: checks
+*** RIVER *** [Kd 4s Kc 8h] [8d]
+millon: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to millon
+millon collected $29.50 from pot
+millon: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kd 4s Kc 8h 8d]
+Seat 3: millon (big blind) collected ($29.50)
+Seat 4: VolkovDmitri (button) (small blind) folded on the River
+
+
+PokerStars Hand #169107036964:  Hold'em Limit ($3/$6 USD) - 2017/04/16 2:33:26 ET
+Table 'Alrischa' 6-max Seat #3 is the button
+Seat 3: millon ($84.70 in chips)
+Seat 4: VolkovDmitri ($274.48 in chips)
+millon: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+millon: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+millon: calls $3
+*** FLOP *** [2s 9h 5d]
+VolkovDmitri: bets $3
+millon: calls $3
+*** TURN *** [2s 9h 5d] [9d]
+VolkovDmitri: checks
+millon: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to millon
+millon collected $23.52 from pot
+millon: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [2s 9h 5d 9d]
+Seat 3: millon (button) (small blind) collected ($23.52)
+Seat 4: VolkovDmitri (big blind) folded on the Turn
+
+
+PokerStars Hand #169107044813:  Hold'em Limit ($3/$6 USD) - 2017/04/16 2:33:53 ET
+Table 'Alrischa' 6-max Seat #4 is the button
+Seat 3: millon ($96.22 in chips)
+Seat 4: VolkovDmitri ($262.48 in chips)
+VolkovDmitri: posts small blind $1
+millon: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+millon: calls $3
+*** FLOP *** [4d 4c Jc]
+millon: checks
+VolkovDmitri: bets $3
+millon: calls $3
+*** TURN *** [4d 4c Jc] [4s]
+millon: checks
+VolkovDmitri: bets $6
+millon: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $17.64 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4d 4c Jc 4s]
+Seat 3: millon (big blind) folded on the Turn
+Seat 4: VolkovDmitri (button) (small blind) collected ($17.64)
+
+

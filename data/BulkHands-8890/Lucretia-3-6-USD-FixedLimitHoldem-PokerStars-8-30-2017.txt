@@ -1,0 +1,69 @@
+PokerStars Hand #174988324066:  Hold'em Limit ($3/$6 USD) - 2017/08/30 13:54:47 ET
+Table 'Lucretia' 6-max Seat #4 is the button
+Seat 3: mareshkin2 ($77.83 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+mareshkin2: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+mareshkin2: calls $3
+*** FLOP *** [Kh 7d Th]
+mareshkin2: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [Kh 7d Th] [Jc]
+mareshkin2: checks
+VolkovDmitri: checks
+*** RIVER *** [Kh 7d Th Jc] [9s]
+mareshkin2: bets $6
+VolkovDmitri: raises $6 to $12
+mareshkin2: raises $6 to $18
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+mareshkin2: shows [Kc Jd] (two pair, Kings and Jacks)
+VolkovDmitri: shows [Qh Td] (a straight, Nine to King)
+VolkovDmitri collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Kh 7d Th Jc 9s]
+Seat 3: mareshkin2 (big blind) showed [Kc Jd] and lost with two pair, Kings and Jacks
+Seat 4: VolkovDmitri (button) (small blind) showed [Qh Td] and won ($53.50) with a straight, Nine to King
+
+
+PokerStars Hand #174988351989:  Hold'em Limit ($3/$6 USD) - 2017/08/30 13:55:26 ET
+Table 'Lucretia' 6-max Seat #3 is the button
+Seat 3: mareshkin2 ($50.83 in chips)
+Seat 4: VolkovDmitri ($146.50 in chips)
+mareshkin2: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+mareshkin2: calls $2
+VolkovDmitri: raises $3 to $6
+mareshkin2: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [3s Kd 8d]
+VolkovDmitri: checks
+mareshkin2: checks
+*** TURN *** [3s Kd 8d] [Qd]
+VolkovDmitri: bets $6
+mareshkin2: raises $6 to $12
+VolkovDmitri: raises $6 to $18
+mareshkin2: raises $6 to $24
+Betting is capped
+VolkovDmitri: calls $6
+*** RIVER *** [3s Kd 8d Qd] [Js]
+VolkovDmitri: bets $6
+mareshkin2: raises $6 to $12
+VolkovDmitri: raises $6 to $18
+mareshkin2: calls $5.83 and is all-in
+Uncalled bet ($0.17) returned to VolkovDmitri
+*** SHOW DOWN ***
+VolkovDmitri: shows [Jd 7d] (a flush, King high)
+mareshkin2: shows [Ac As] (a pair of Aces)
+VolkovDmitri collected $101.16 from pot
+*** SUMMARY ***
+Total pot $101.66 | Rake $0.50
+Board [3s Kd 8d Qd Js]
+Seat 3: mareshkin2 (button) (small blind) showed [Ac As] and lost with a pair of Aces
+Seat 4: VolkovDmitri (big blind) showed [Jd 7d] and won ($101.16) with a flush, King high
+
+

@@ -1,0 +1,36 @@
+PokerStars Hand #148405207346:  Hold'em Limit ($3/$6 USD) - 2016/02/07 14:07:36 ET
+Table 'Hersilia III' 10-max Seat #3 is the button
+Seat 2: SirRomanov ($153.32 in chips)
+Seat 3: habari786 ($15.58 in chips)
+habari786: posts small blind $1
+Zubasa07 was removed from the table for failing to post
+p.pindikov: is sitting out
+DECAlpha: is sitting out
+SirRomanov: posts big blind $3
+*** HOLE CARDS ***
+DECAlpha leaves the table
+habari786: raises $3 to $6
+p.pindikov leaves the table
+SirRomanov: calls $3
+*** FLOP *** [5c 8s 5d]
+SirRomanov: checks
+habari786: bets $3
+SirRomanov: calls $3
+*** TURN *** [5c 8s 5d] [3d]
+SirRomanov: checks
+habari786: bets $6
+SirRomanov: raises $6 to $12
+habari786: calls $0.58 and is all-in
+Uncalled bet ($5.42) returned to SirRomanov
+*** RIVER *** [5c 8s 5d 3d] [4s]
+*** SHOW DOWN ***
+SirRomanov: shows [5h 4h] (a full house, Fives full of Fours)
+habari786: shows [Kc 7d] (a pair of Fives)
+SirRomanov collected $30.66 from pot
+*** SUMMARY ***
+Total pot $31.16 | Rake $0.50
+Board [5c 8s 5d 3d 4s]
+Seat 2: SirRomanov (big blind) showed [5h 4h] and won ($30.66) with a full house, Fives full of Fours
+Seat 3: habari786 (button) (small blind) showed [Kc 7d] and lost with a pair of Fives
+
+

@@ -1,0 +1,33 @@
+PokerStars Hand #169849683702:  Hold'em Limit ($3/$6 USD) - 2017/05/02 8:40:29 ET
+Table 'Soyuz-Apollo' 6-max Seat #5 is the button
+Seat 4: Qvidde ($288.83 in chips)
+Seat 5: oliwan ($175.47 in chips)
+oliwan: posts small blind $1
+Qvidde: posts big blind $3
+*** HOLE CARDS ***
+oliwan: raises $3 to $6
+Qvidde: calls $3
+*** FLOP *** [7s 9s 8h]
+Qvidde: checks
+oliwan: bets $3
+Qvidde: calls $3
+*** TURN *** [7s 9s 8h] [2s]
+Qvidde: checks
+oliwan: bets $6
+Qvidde: raises $6 to $12
+oliwan: raises $6 to $18
+Qvidde: calls $6
+*** RIVER *** [7s 9s 8h 2s] [Ah]
+Qvidde: checks
+oliwan: bets $6
+Qvidde: folds
+Uncalled bet ($6) returned to oliwan
+oliwan collected $53.50 from pot
+oliwan: doesn't show hand
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [7s 9s 8h 2s Ah]
+Seat 4: Qvidde (big blind) folded on the River
+Seat 5: oliwan (button) (small blind) collected ($53.50)
+
+

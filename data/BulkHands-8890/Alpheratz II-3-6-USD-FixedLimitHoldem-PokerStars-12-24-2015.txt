@@ -1,0 +1,30 @@
+PokerStars Hand #145866804417:  Hold'em Limit ($3/$6 USD) - 2015/12/24 17:20:23 ET
+Table 'Alpheratz II' 2-max Seat #2 is the button
+Seat 1: MAESTROAD ($46.10 in chips)
+Seat 2: -koen-2011 ($120 in chips)
+-koen-2011: posts small blind $1
+MAESTROAD: posts big blind $3
+*** HOLE CARDS ***
+-koen-2011: raises $3 to $6
+MAESTROAD: raises $3 to $9
+-koen-2011: calls $3
+*** FLOP *** [4d Jd Jh]
+MAESTROAD: bets $3
+-koen-2011: calls $3
+*** TURN *** [4d Jd Jh] [2s]
+MAESTROAD: bets $6
+-koen-2011: calls $6
+*** RIVER *** [4d Jd Jh 2s] [Td]
+MAESTROAD: bets $6
+-koen-2011: calls $6
+*** SHOW DOWN ***
+MAESTROAD: shows [Ah Ts] (two pair, Jacks and Tens)
+-koen-2011: mucks hand
+MAESTROAD collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4d Jd Jh 2s Td]
+Seat 1: MAESTROAD (big blind) showed [Ah Ts] and won ($47.50) with two pair, Jacks and Tens
+Seat 2: -koen-2011 (button) (small blind) mucked
+
+

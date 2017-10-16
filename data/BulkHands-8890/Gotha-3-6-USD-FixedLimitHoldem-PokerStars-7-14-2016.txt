@@ -1,0 +1,649 @@
+PokerStars Hand #155961344034:  Hold'em Limit ($3/$6 USD) - 2016/07/14 12:05:49 ET
+Table 'Gotha' 6-max Seat #3 is the button
+Seat 3: jacmar01 ($60.49 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+jacmar01: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+jacmar01: calls $2
+VolkovDmitri: raises $3 to $6
+jacmar01: calls $3
+*** FLOP *** [As 9c 5d]
+Haz997 joins the table at seat #5
+VolkovDmitri: bets $3
+jacmar01: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [As 9c 5d]
+Seat 3: jacmar01 (button) (small blind) folded on the Flop
+Seat 4: VolkovDmitri (big blind) collected ($11.76)
+
+
+PokerStars Hand #155964553656:  Hold'em Limit ($3/$6 USD) - 2016/07/14 13:26:57 ET
+Table 'Gotha' 6-max Seat #4 is the button
+Seat 4: Tryptamean ($99.18 in chips)
+Seat 6: siliciom ($96.67 in chips)
+Tryptamean: posts small blind $1
+siliciom: posts big blind $3
+*** HOLE CARDS ***
+Haz997 leaves the table
+Tryptamean: raises $3 to $6
+siliciom: calls $3
+*** FLOP *** [Kd Js 8h]
+siliciom: checks
+Tryptamean: bets $3
+siliciom: calls $3
+*** TURN *** [Kd Js 8h] [Jc]
+musja_kusja joins the table at seat #3
+siliciom: checks
+Tryptamean: checks
+*** RIVER *** [Kd Js 8h Jc] [As]
+siliciom: bets $6
+Tryptamean: calls $6
+*** SHOW DOWN ***
+siliciom: shows [9c Ah] (two pair, Aces and Jacks)
+Tryptamean: shows [Ad 3c] (two pair, Aces and Jacks)
+siliciom collected $14.75 from pot
+Tryptamean collected $14.75 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kd Js 8h Jc As]
+Seat 4: Tryptamean (button) (small blind) showed [Ad 3c] and won ($14.75) with two pair, Aces and Jacks
+Seat 6: siliciom (big blind) showed [9c Ah] and won ($14.75) with two pair, Aces and Jacks
+
+
+PokerStars Hand #155964603484:  Hold'em Limit ($3/$6 USD) - 2016/07/14 13:28:09 ET
+Table 'Gotha' 6-max Seat #4 is the button
+Seat 3: musja_kusja ($104.38 in chips)
+Seat 4: Tryptamean ($99.93 in chips)
+Tryptamean: posts small blind $1
+siliciom: is sitting out
+musja_kusja: posts big blind $3
+*** HOLE CARDS ***
+siliciom leaves the table
+Tryptamean: raises $3 to $6
+musja_kusja: folds
+Uncalled bet ($3) returned to Tryptamean
+Tryptamean collected $6 from pot
+Tryptamean: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: musja_kusja (big blind) folded before Flop
+Seat 4: Tryptamean (button) (small blind) collected ($6)
+
+
+PokerStars Hand #155964611223:  Hold'em Limit ($3/$6 USD) - 2016/07/14 13:28:20 ET
+Table 'Gotha' 6-max Seat #3 is the button
+Seat 3: musja_kusja ($101.38 in chips)
+Seat 4: Tryptamean ($102.93 in chips)
+musja_kusja: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+musja_kusja: raises $3 to $6
+Tryptamean: calls $3
+*** FLOP *** [8c 6d 9d]
+Tryptamean: checks
+musja_kusja: bets $3
+Tryptamean: calls $3
+*** TURN *** [8c 6d 9d] [8d]
+Tryptamean: checks
+musja_kusja: bets $6
+Tryptamean: raises $6 to $12
+musja_kusja: calls $6
+*** RIVER *** [8c 6d 9d 8d] [5h]
+Tryptamean: bets $6
+musja_kusja: calls $6
+*** SHOW DOWN ***
+Tryptamean: shows [4d 8s] (three of a kind, Eights)
+musja_kusja: mucks hand
+Tryptamean collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [8c 6d 9d 8d 5h]
+Seat 3: musja_kusja (button) (small blind) mucked
+Seat 4: Tryptamean (big blind) showed [4d 8s] and won ($53.50) with three of a kind, Eights
+
+
+PokerStars Hand #155964661740:  Hold'em Limit ($3/$6 USD) - 2016/07/14 13:29:33 ET
+Table 'Gotha' 6-max Seat #4 is the button
+Seat 3: musja_kusja ($74.38 in chips)
+Seat 4: Tryptamean ($129.43 in chips)
+Tryptamean: posts small blind $1
+musja_kusja: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+musja_kusja: raises $3 to $9
+Tryptamean: calls $3
+*** FLOP *** [7d Qc 3h]
+musja_kusja: bets $3
+Tryptamean: calls $3
+*** TURN *** [7d Qc 3h] [3s]
+musja_kusja: bets $6
+Tryptamean: raises $6 to $12
+musja_kusja: calls $6
+*** RIVER *** [7d Qc 3h 3s] [Tc]
+musja_kusja: checks
+Tryptamean: bets $6
+musja_kusja: calls $6
+*** SHOW DOWN ***
+Tryptamean: shows [Qs Qh] (a full house, Queens full of Threes)
+musja_kusja: mucks hand
+Tryptamean collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [7d Qc 3h 3s Tc]
+Seat 3: musja_kusja (big blind) mucked
+Seat 4: Tryptamean (button) (small blind) showed [Qs Qh] and won ($59.50) with a full house, Queens full of Threes
+
+
+PokerStars Hand #155964738636:  Hold'em Limit ($3/$6 USD) - 2016/07/14 13:31:22 ET
+Table 'Gotha' 6-max Seat #4 is the button
+Seat 3: musja_kusja ($67.88 in chips)
+Seat 4: Tryptamean ($134.57 in chips)
+Tryptamean: posts small blind $1
+musja_kusja: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+musja_kusja: calls $3
+*** FLOP *** [As 9d 6d]
+musja_kusja: checks
+Tryptamean: bets $3
+musja_kusja: folds
+Uncalled bet ($3) returned to Tryptamean
+Tryptamean collected $11.76 from pot
+Tryptamean: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [As 9d 6d]
+Seat 3: musja_kusja (big blind) folded on the Flop
+Seat 4: Tryptamean (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #155964728130:  Hold'em Limit ($3/$6 USD) - 2016/07/14 13:31:07 ET
+Table 'Gotha' 6-max Seat #3 is the button
+Seat 3: musja_kusja ($76.88 in chips)
+Seat 4: Tryptamean ($125.93 in chips)
+musja_kusja: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+musja_kusja: raises $3 to $6
+Tryptamean: raises $3 to $9
+musja_kusja: calls $3
+*** FLOP *** [5c Ks As]
+Tryptamean: bets $3
+musja_kusja: folds
+Uncalled bet ($3) returned to Tryptamean
+Tryptamean collected $17.64 from pot
+Tryptamean: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5c Ks As]
+Seat 3: musja_kusja (button) (small blind) folded on the Flop
+Seat 4: Tryptamean (big blind) collected ($17.64)
+
+
+PokerStars Hand #155964704059:  Hold'em Limit ($3/$6 USD) - 2016/07/14 13:30:33 ET
+Table 'Gotha' 6-max Seat #4 is the button
+Seat 3: musja_kusja ($47.38 in chips)
+Seat 4: Tryptamean ($155.93 in chips)
+Tryptamean: posts small blind $1
+musja_kusja: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+musja_kusja: raises $3 to $9
+Tryptamean: calls $3
+*** FLOP *** [8d 5d Kd]
+musja_kusja: bets $3
+Tryptamean: calls $3
+*** TURN *** [8d 5d Kd] [2s]
+musja_kusja: bets $6
+Tryptamean: raises $6 to $12
+musja_kusja: raises $6 to $18
+Tryptamean: calls $6
+*** RIVER *** [8d 5d Kd 2s] [8c]
+musja_kusja: bets $6
+Tryptamean: folds
+Uncalled bet ($6) returned to musja_kusja
+musja_kusja collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [8d 5d Kd 2s 8c]
+Seat 3: musja_kusja (big blind) collected ($59.50)
+Seat 4: Tryptamean (button) (small blind) folded on the River
+
+
+PokerStars Hand #155964759656:  Hold'em Limit ($3/$6 USD) - 2016/07/14 13:31:53 ET
+Table 'Gotha' 6-max Seat #3 is the button
+Seat 3: musja_kusja ($61.88 in chips)
+Seat 4: Tryptamean ($140.33 in chips)
+musja_kusja: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+musja_kusja: raises $3 to $6
+Tryptamean: calls $3
+*** FLOP *** [5h Jh 8h]
+Tryptamean: checks
+musja_kusja: bets $3
+Tryptamean: folds
+Uncalled bet ($3) returned to musja_kusja
+musja_kusja collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5h Jh 8h]
+Seat 3: musja_kusja (button) (small blind) collected ($11.76)
+Seat 4: Tryptamean (big blind) folded on the Flop
+
+
+PokerStars Hand #155964779773:  Hold'em Limit ($3/$6 USD) - 2016/07/14 13:32:22 ET
+Table 'Gotha' 6-max Seat #4 is the button
+Seat 3: musja_kusja ($67.64 in chips)
+Seat 4: Tryptamean ($134.33 in chips)
+Tryptamean: posts small blind $1
+musja_kusja: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+musja_kusja: folds
+Uncalled bet ($3) returned to Tryptamean
+Tryptamean collected $6 from pot
+Tryptamean: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: musja_kusja (big blind) folded before Flop
+Seat 4: Tryptamean (button) (small blind) collected ($6)
+
+
+PokerStars Hand #155964776369:  Hold'em Limit ($3/$6 USD) - 2016/07/14 13:32:17 ET
+Table 'Gotha' 6-max Seat #3 is the button
+Seat 3: musja_kusja ($68.64 in chips)
+Seat 4: Tryptamean ($133.33 in chips)
+musja_kusja: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+musja_kusja: folds
+Uncalled bet ($2) returned to Tryptamean
+Tryptamean collected $2 from pot
+Tryptamean: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: musja_kusja (button) (small blind) folded before Flop
+Seat 4: Tryptamean (big blind) collected ($2)
+
+
+PokerStars Hand #155964772342:  Hold'em Limit ($3/$6 USD) - 2016/07/14 13:32:11 ET
+Table 'Gotha' 6-max Seat #4 is the button
+Seat 3: musja_kusja ($67.64 in chips)
+Seat 4: Tryptamean ($134.33 in chips)
+Tryptamean: posts small blind $1
+musja_kusja: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: folds
+Uncalled bet ($2) returned to musja_kusja
+musja_kusja collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: musja_kusja (big blind) collected ($2)
+Seat 4: Tryptamean (button) (small blind) folded before Flop
+
+
+PokerStars Hand #155964823419:  Hold'em Limit ($3/$6 USD) - 2016/07/14 13:33:24 ET
+Table 'Gotha' 6-max Seat #3 is the button
+Seat 3: musja_kusja ($81.92 in chips)
+Seat 4: Tryptamean ($119.33 in chips)
+musja_kusja: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+musja_kusja: folds
+Uncalled bet ($2) returned to Tryptamean
+Tryptamean collected $2 from pot
+Tryptamean: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: musja_kusja (button) (small blind) folded before Flop
+Seat 4: Tryptamean (big blind) collected ($2)
+
+
+PokerStars Hand #155964803696:  Hold'em Limit ($3/$6 USD) - 2016/07/14 13:32:56 ET
+Table 'Gotha' 6-max Seat #4 is the button
+Seat 3: musja_kusja ($70.40 in chips)
+Seat 4: Tryptamean ($131.33 in chips)
+Tryptamean: posts small blind $1
+musja_kusja: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+musja_kusja: raises $3 to $9
+Tryptamean: calls $3
+*** FLOP *** [3s 2c 9d]
+musja_kusja: bets $3
+Tryptamean: calls $3
+*** TURN *** [3s 2c 9d] [Kh]
+musja_kusja: bets $6
+Tryptamean: folds
+Uncalled bet ($6) returned to musja_kusja
+musja_kusja collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [3s 2c 9d Kh]
+Seat 3: musja_kusja (big blind) collected ($23.52)
+Seat 4: Tryptamean (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #155964785212:  Hold'em Limit ($3/$6 USD) - 2016/07/14 13:32:29 ET
+Table 'Gotha' 6-max Seat #3 is the button
+Seat 3: musja_kusja ($64.64 in chips)
+Seat 4: Tryptamean ($137.33 in chips)
+musja_kusja: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+musja_kusja: raises $3 to $6
+Tryptamean: calls $3
+*** FLOP *** [8c 2s Kc]
+Tryptamean: checks
+musja_kusja: bets $3
+Tryptamean: folds
+Uncalled bet ($3) returned to musja_kusja
+musja_kusja collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8c 2s Kc]
+Seat 3: musja_kusja (button) (small blind) collected ($11.76)
+Seat 4: Tryptamean (big blind) folded on the Flop
+
+
+PokerStars Hand #155964827885:  Hold'em Limit ($3/$6 USD) - 2016/07/14 13:33:31 ET
+Table 'Gotha' 6-max Seat #4 is the button
+Seat 3: musja_kusja ($80.92 in chips)
+Seat 4: Tryptamean ($120.33 in chips)
+Tryptamean: posts small blind $1
+musja_kusja: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+musja_kusja: calls $3
+*** FLOP *** [Tc Kc 9h]
+musja_kusja: checks
+Tryptamean: bets $3
+musja_kusja: raises $3 to $6
+Tryptamean: calls $3
+*** TURN *** [Tc Kc 9h] [8d]
+musja_kusja: bets $6
+Tryptamean: folds
+Uncalled bet ($6) returned to musja_kusja
+musja_kusja collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Tc Kc 9h 8d]
+Seat 3: musja_kusja (big blind) collected ($23.52)
+Seat 4: Tryptamean (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #155964878603:  Hold'em Limit ($3/$6 USD) - 2016/07/14 13:34:43 ET
+Table 'Gotha' 6-max Seat #3 is the button
+Seat 3: musja_kusja ($84.44 in chips)
+Seat 4: Tryptamean ($116.33 in chips)
+musja_kusja: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+musja_kusja: folds
+Uncalled bet ($2) returned to Tryptamean
+Tryptamean collected $2 from pot
+Tryptamean: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: musja_kusja (button) (small blind) folded before Flop
+Seat 4: Tryptamean (big blind) collected ($2)
+
+
+PokerStars Hand #155964869138:  Hold'em Limit ($3/$6 USD) - 2016/07/14 13:34:30 ET
+Table 'Gotha' 6-max Seat #4 is the button
+Seat 3: musja_kusja ($87.44 in chips)
+Seat 4: Tryptamean ($113.33 in chips)
+Tryptamean: posts small blind $1
+musja_kusja: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+musja_kusja: folds
+Uncalled bet ($3) returned to Tryptamean
+Tryptamean collected $6 from pot
+Tryptamean: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: musja_kusja (big blind) folded before Flop
+Seat 4: Tryptamean (button) (small blind) collected ($6)
+
+
+PokerStars Hand #155964859831:  Hold'em Limit ($3/$6 USD) - 2016/07/14 13:34:16 ET
+Table 'Gotha' 6-max Seat #4 is the button
+Seat 3: musja_kusja ($91.44 in chips)
+Seat 4: Tryptamean ($109.33 in chips)
+Tryptamean: posts small blind $1
+musja_kusja: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+musja_kusja: folds
+Uncalled bet ($3) returned to Tryptamean
+Tryptamean collected $6 from pot
+Tryptamean: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: musja_kusja (big blind) folded before Flop
+Seat 4: Tryptamean (button) (small blind) collected ($6)
+
+
+PokerStars Hand #155964854779:  Hold'em Limit ($3/$6 USD) - 2016/07/14 13:34:09 ET
+Table 'Gotha' 6-max Seat #3 is the button
+Seat 3: musja_kusja ($92.44 in chips)
+Seat 4: Tryptamean ($108.33 in chips)
+musja_kusja: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+musja_kusja: folds
+Uncalled bet ($2) returned to Tryptamean
+Tryptamean collected $2 from pot
+Tryptamean: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: musja_kusja (button) (small blind) folded before Flop
+Seat 4: Tryptamean (big blind) collected ($2)
+
+
+PokerStars Hand #155964864825:  Hold'em Limit ($3/$6 USD) - 2016/07/14 13:34:23 ET
+Table 'Gotha' 6-max Seat #3 is the button
+Seat 3: musja_kusja ($88.44 in chips)
+Seat 4: Tryptamean ($112.33 in chips)
+musja_kusja: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+musja_kusja: folds
+Uncalled bet ($2) returned to Tryptamean
+Tryptamean collected $2 from pot
+Tryptamean: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: musja_kusja (button) (small blind) folded before Flop
+Seat 4: Tryptamean (big blind) collected ($2)
+
+
+PokerStars Hand #155964912514:  Hold'em Limit ($3/$6 USD) - 2016/07/14 13:35:32 ET
+Table 'Gotha' 6-max Seat #4 is the button
+Seat 3: musja_kusja ($99.94 in chips)
+Seat 4: Tryptamean ($100.33 in chips)
+Tryptamean: posts small blind $1
+musja_kusja: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+musja_kusja: calls $3
+*** FLOP *** [Qd Td Jd]
+musja_kusja: checks
+Tryptamean: bets $3
+musja_kusja: calls $3
+*** TURN *** [Qd Td Jd] [Jc]
+musja_kusja: checks
+Tryptamean: bets $6
+musja_kusja: calls $6
+*** RIVER *** [Qd Td Jd Jc] [Ad]
+musja_kusja: checks
+Tryptamean: bets $6
+musja_kusja: folds
+Uncalled bet ($6) returned to Tryptamean
+Tryptamean collected $29.50 from pot
+Tryptamean: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qd Td Jd Jc Ad]
+Seat 3: musja_kusja (big blind) folded on the River
+Seat 4: Tryptamean (button) (small blind) collected ($29.50)
+
+
+PokerStars Hand #155964908159:  Hold'em Limit ($3/$6 USD) - 2016/07/14 13:35:26 ET
+Table 'Gotha' 6-max Seat #3 is the button
+Seat 3: musja_kusja ($100.94 in chips)
+Seat 4: Tryptamean ($99.33 in chips)
+musja_kusja: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+musja_kusja: folds
+Uncalled bet ($2) returned to Tryptamean
+Tryptamean collected $2 from pot
+Tryptamean: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: musja_kusja (button) (small blind) folded before Flop
+Seat 4: Tryptamean (big blind) collected ($2)
+
+
+PokerStars Hand #155964881927:  Hold'em Limit ($3/$6 USD) - 2016/07/14 13:34:48 ET
+Table 'Gotha' 6-max Seat #4 is the button
+Seat 3: musja_kusja ($83.44 in chips)
+Seat 4: Tryptamean ($117.33 in chips)
+Tryptamean: posts small blind $1
+musja_kusja: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+musja_kusja: calls $3
+*** FLOP *** [Kc 7c 6h]
+musja_kusja: checks
+Tryptamean: bets $3
+musja_kusja: raises $3 to $6
+Tryptamean: calls $3
+*** TURN *** [Kc 7c 6h] [3c]
+musja_kusja: bets $6
+Tryptamean: calls $6
+*** RIVER *** [Kc 7c 6h 3c] [2d]
+musja_kusja: bets $6
+Tryptamean: folds
+Uncalled bet ($6) returned to musja_kusja
+musja_kusja collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Kc 7c 6h 3c 2d]
+Seat 3: musja_kusja (big blind) collected ($35.50)
+Seat 4: Tryptamean (button) (small blind) folded on the River
+
+
+PokerStars Hand #155964939505:  Hold'em Limit ($3/$6 USD) - 2016/07/14 13:36:10 ET
+Table 'Gotha' 6-max Seat #3 is the button
+Seat 3: musja_kusja ($92.58 in chips)
+Seat 4: Tryptamean ($106.83 in chips)
+musja_kusja: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+musja_kusja: folds
+Uncalled bet ($2) returned to Tryptamean
+Tryptamean collected $2 from pot
+Tryptamean: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: musja_kusja (button) (small blind) folded before Flop
+Seat 4: Tryptamean (big blind) collected ($2)
+
+
+PokerStars Hand #155964931871:  Hold'em Limit ($3/$6 USD) - 2016/07/14 13:35:59 ET
+Table 'Gotha' 6-max Seat #4 is the button
+Seat 3: musja_kusja ($83.94 in chips)
+Seat 4: Tryptamean ($115.83 in chips)
+Tryptamean: posts small blind $1
+musja_kusja: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+musja_kusja: raises $3 to $9
+Tryptamean: calls $3
+*** FLOP *** [Kd Kc Qs]
+musja_kusja: bets $3
+Tryptamean: folds
+Uncalled bet ($3) returned to musja_kusja
+musja_kusja collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kd Kc Qs]
+Seat 3: musja_kusja (big blind) collected ($17.64)
+Seat 4: Tryptamean (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #155964928425:  Hold'em Limit ($3/$6 USD) - 2016/07/14 13:35:54 ET
+Table 'Gotha' 6-max Seat #3 is the button
+Seat 3: musja_kusja ($84.94 in chips)
+Seat 4: Tryptamean ($114.83 in chips)
+musja_kusja: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+musja_kusja: folds
+Uncalled bet ($2) returned to Tryptamean
+Tryptamean collected $2 from pot
+Tryptamean: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: musja_kusja (button) (small blind) folded before Flop
+Seat 4: Tryptamean (big blind) collected ($2)
+
+
+PokerStars Hand #155964942709:  Hold'em Limit ($3/$6 USD) - 2016/07/14 13:36:15 ET
+Table 'Gotha' 6-max Seat #4 is the button
+Seat 3: musja_kusja ($91.58 in chips)
+Seat 4: Tryptamean ($107.83 in chips)
+Tryptamean: posts small blind $1
+musja_kusja: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+musja_kusja: calls $3
+*** FLOP *** [3c 4d Jh]
+musja_kusja: checks
+Tryptamean: bets $3
+musja_kusja: calls $3
+*** TURN *** [3c 4d Jh] [Qd]
+musja_kusja: checks
+Tryptamean: bets $6
+musja_kusja: raises $6 to $12
+Tryptamean: calls $6
+*** RIVER *** [3c 4d Jh Qd] [Ah]
+musja_kusja: bets $6
+Tryptamean: calls $6
+*** SHOW DOWN ***
+musja_kusja: shows [7s Js] (a pair of Jacks)
+Tryptamean: mucks hand
+musja_kusja collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [3c 4d Jh Qd Ah]
+Seat 3: musja_kusja (big blind) showed [7s Js] and won ($53.50) with a pair of Jacks
+Seat 4: Tryptamean (button) (small blind) mucked
+
+
+PokerStars Hand #155964964382:  Hold'em Limit ($3/$6 USD) - 2016/07/14 13:36:46 ET
+Table 'Gotha' 6-max Seat #3 is the button
+Seat 3: musja_kusja ($118.08 in chips)
+Seat 4: Tryptamean ($80.83 in chips)
+musja_kusja: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+musja_kusja: folds
+Uncalled bet ($2) returned to Tryptamean
+Tryptamean collected $2 from pot
+Tryptamean: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: musja_kusja (button) (small blind) folded before Flop
+Seat 4: Tryptamean (big blind) collected ($2)
+
+

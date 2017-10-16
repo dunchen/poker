@@ -1,0 +1,53 @@
+PokerStars Hand #161395259923:  Hold'em Limit ($3/$6 USD) - 2016/11/14 12:55:12 ET
+Table 'Botha' 6-max Seat #4 is the button
+Seat 4: assitoni ($72 in chips)
+Seat 6: Profitables ($84.50 in chips)
+assitoni: posts small blind $1
+Profitables: posts big blind $3
+*** HOLE CARDS ***
+assitoni: folds
+Uncalled bet ($2) returned to Profitables
+Profitables collected $2 from pot
+Profitables: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: assitoni (button) (small blind) folded before Flop
+Seat 6: Profitables (big blind) collected ($2)
+
+
+PokerStars Hand #161395229791:  Hold'em Limit ($3/$6 USD) - 2016/11/14 12:54:36 ET
+Table 'Botha' 6-max Seat #6 is the button
+Seat 4: assitoni ($72 in chips)
+Seat 6: Profitables ($43 in chips)
+Profitables: posts small blind $1
+assitoni: posts big blind $3
+*** HOLE CARDS ***
+Profitables: raises $3 to $6
+assitoni: raises $3 to $9
+Profitables: calls $3
+*** FLOP *** [9c 2c 5s]
+assitoni: bets $3
+Profitables: calls $3
+*** TURN *** [9c 2c 5s] [Qs]
+assitoni: bets $6
+Profitables: raises $6 to $12
+vestimokrec joins the table at seat #1
+assitoni: raises $6 to $18
+Profitables: raises $6 to $24
+Betting is capped
+assitoni: calls $6
+*** RIVER *** [9c 2c 5s Qs] [Td]
+assitoni: checks
+Profitables: bets $6
+assitoni: calls $6
+*** SHOW DOWN ***
+Profitables: shows [Qd 9d] (two pair, Queens and Nines)
+assitoni: mucks hand
+Profitables collected $83.50 from pot
+*** SUMMARY ***
+Total pot $84 | Rake $0.50
+Board [9c 2c 5s Qs Td]
+Seat 4: assitoni (big blind) mucked
+Seat 6: Profitables (button) (small blind) showed [Qd 9d] and won ($83.50) with two pair, Queens and Nines
+
+

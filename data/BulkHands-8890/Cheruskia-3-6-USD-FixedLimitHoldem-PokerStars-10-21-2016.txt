@@ -1,0 +1,58 @@
+PokerStars Hand #160216995946:  Hold'em Limit ($3/$6 USD) - 2016/10/20 21:26:34 ET
+Table 'Cheruskia' 10-max Seat #1 is the button
+Seat 1: Psynto ($99.60 in chips)
+Seat 10: Strikelin ($9 in chips)
+Psynto: posts small blind $1
+Strikelin: posts big blind $3
+*** HOLE CARDS ***
+Psynto: raises $3 to $6
+Strikelin: raises $3 to $9 and is all-in
+Psynto: calls $3
+*** FLOP *** [Jd 7c 8c]
+*** TURN *** [Jd 7c 8c] [2c]
+*** RIVER *** [Jd 7c 8c 2c] [5c]
+*** SHOW DOWN ***
+Strikelin: shows [Ks Ad] (high card Ace)
+Psynto: shows [Ac 4h] (a flush, Ace high)
+Psynto collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Jd 7c 8c 2c 5c]
+Seat 1: Psynto (button) (small blind) showed [Ac 4h] and won ($17.64) with a flush, Ace high
+Seat 10: Strikelin (big blind) showed [Ks Ad] and lost with high card Ace
+
+
+PokerStars Hand #160216993641:  Hold'em Limit ($3/$6 USD) - 2016/10/20 21:26:28 ET
+Table 'Cheruskia' 10-max Seat #10 is the button
+Seat 1: Psynto ($98.60 in chips)
+Seat 10: Strikelin ($10 in chips)
+Strikelin: posts small blind $1
+Psynto: posts big blind $3
+*** HOLE CARDS ***
+Strikelin: folds
+Uncalled bet ($2) returned to Psynto
+Psynto collected $2 from pot
+Psynto: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Psynto (big blind) collected ($2)
+Seat 10: Strikelin (button) (small blind) folded before Flop
+
+
+PokerStars Hand #160216991543:  Hold'em Limit ($3/$6 USD) - 2016/10/20 21:26:22 ET
+Table 'Cheruskia' 10-max Seat #1 is the button
+Seat 1: Psynto ($99.60 in chips)
+Seat 10: Strikelin ($9 in chips)
+Psynto: posts small blind $1
+Strikelin: posts big blind $3
+*** HOLE CARDS ***
+Psynto: folds
+Uncalled bet ($2) returned to Strikelin
+Strikelin collected $2 from pot
+Strikelin: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Psynto (button) (small blind) folded before Flop
+Seat 10: Strikelin (big blind) collected ($2)
+
+

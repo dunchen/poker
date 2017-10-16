@@ -1,0 +1,67 @@
+PokerStars Hand #155455655689:  Hold'em Limit ($3/$6 USD) - 2016/07/02 3:12:19 ET
+Table 'Abnoba' 6-max Seat #3 is the button
+Seat 3: Maxboy2016 ($47.50 in chips)
+Seat 4: MTails ($120 in chips)
+Maxboy2016: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+Maxboy2016: calls $2
+MTails: raises $3 to $6
+Maxboy2016: calls $3
+*** FLOP *** [2h 4c As]
+GoliafUa joins the table at seat #5
+MTails: bets $3
+Maxboy2016: calls $3
+*** TURN *** [2h 4c As] [Ah]
+MTails: bets $6
+Maxboy2016: calls $6
+*** RIVER *** [2h 4c As Ah] [3d]
+MTails: checks
+Maxboy2016: bets $6
+MTails: folds
+Uncalled bet ($6) returned to Maxboy2016
+Maxboy2016 collected $29.50 from pot
+Maxboy2016: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2h 4c As Ah 3d]
+Seat 3: Maxboy2016 (button) (small blind) collected ($29.50)
+Seat 4: MTails (big blind) folded on the River
+
+
+PokerStars Hand #155456832455:  Hold'em Limit ($3/$6 USD) - 2016/07/02 4:19:38 ET
+Table 'Abnoba' 6-max Seat #2 is the button
+Seat 1: ABATAPP ($146.14 in chips)
+Seat 2: VolkovDmitri ($177.16 in chips)
+VolkovDmitri: posts small blind $1
+WSpieler leaves the table
+cgb675: is sitting out
+ABATAPP: posts big blind $3
+*** HOLE CARDS ***
+cgb675 leaves the table
+VolkovDmitri: raises $3 to $6
+ABATAPP: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [5d 2c Ts]
+ABATAPP: checks
+VolkovDmitri: bets $3
+ABATAPP: calls $3
+*** TURN *** [5d 2c Ts] [8c]
+ABATAPP: checks
+VolkovDmitri: bets $6
+ABATAPP: calls $6
+*** RIVER *** [5d 2c Ts 8c] [2d]
+ABATAPP: checks
+VolkovDmitri: bets $6
+ABATAPP: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [7d Tc] (two pair, Tens and Deuces)
+ABATAPP: mucks hand
+VolkovDmitri collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [5d 2c Ts 8c 2d]
+Seat 1: ABATAPP (big blind) mucked
+Seat 2: VolkovDmitri (button) (small blind) showed [7d Tc] and won ($47.50) with two pair, Tens and Deuces
+
+

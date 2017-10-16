@@ -1,0 +1,35 @@
+PokerStars Hand #166486255352:  Hold'em Limit ($3/$6 USD) - 2017/02/19 23:55:25 ET
+Table 'Behrens' 10-max Seat #1 is the button
+Seat 1: LifeisagameX ($84 in chips)
+Seat 2: mmm_bow22 ($40 in chips)
+LifeisagameX: posts small blind $1
+mmm_bow22: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+mmm_bow22: calls $3
+*** FLOP *** [5d 4h 9c]
+mmm_bow22: bets $3
+LifeisagameX: raises $3 to $6
+mmm_bow22: raises $3 to $9
+LifeisagameX: calls $3
+*** TURN *** [5d 4h 9c] [9s]
+mmm_bow22: bets $6
+LifeisagameX: raises $6 to $12
+mmm_bow22: raises $6 to $18
+LifeisagameX: raises $6 to $24
+Betting is capped
+mmm_bow22: calls $6
+*** RIVER *** [5d 4h 9c 9s] [Td]
+mmm_bow22: bets $1 and is all-in
+LifeisagameX: calls $1
+*** SHOW DOWN ***
+mmm_bow22: shows [Qd 9h] (three of a kind, Nines)
+LifeisagameX: shows [5c 5h] (a full house, Fives full of Nines)
+LifeisagameX collected $79.50 from pot
+*** SUMMARY ***
+Total pot $80 | Rake $0.50
+Board [5d 4h 9c 9s Td]
+Seat 1: LifeisagameX (button) (small blind) showed [5c 5h] and won ($79.50) with a full house, Fives full of Nines
+Seat 2: mmm_bow22 (big blind) showed [Qd 9h] and lost with three of a kind, Nines
+
+

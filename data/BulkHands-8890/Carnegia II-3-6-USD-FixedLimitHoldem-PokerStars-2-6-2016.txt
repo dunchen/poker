@@ -1,0 +1,31 @@
+PokerStars Hand #148343853914:  Hold'em Limit ($3/$6 USD) - 2016/02/06 13:13:20 ET
+Table 'Carnegia II' 6-max Seat #2 is the button
+Seat 1: ChOfW ($134.49 in chips)
+Seat 2: Pokali ($162.24 in chips)
+Pokali: posts small blind $1
+ChOfW: posts big blind $3
+*** HOLE CARDS ***
+Puzanchik 11 leaves the table
+Pokali: raises $3 to $6
+ChOfW: calls $3
+*** FLOP *** [7d 7c Jd]
+ChOfW: checks
+Pokali: bets $3
+ChOfW: calls $3
+*** TURN *** [7d 7c Jd] [Kh]
+ChOfW: checks
+Pokali: checks
+*** RIVER *** [7d 7c Jd Kh] [8c]
+ChOfW: bets $6
+Pokali: calls $6
+*** SHOW DOWN ***
+ChOfW: shows [8d 9c] (two pair, Eights and Sevens)
+Pokali: mucks hand
+ChOfW collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7d 7c Jd Kh 8c]
+Seat 1: ChOfW (big blind) showed [8d 9c] and won ($29.50) with two pair, Eights and Sevens
+Seat 2: Pokali (button) (small blind) mucked
+
+

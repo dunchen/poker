@@ -1,0 +1,23 @@
+PokerStars Hand #151308162188:  Hold'em Limit ($3/$6 USD) - 2016/04/02 6:38:16 ET
+Table 'Probitas' 6-max Seat #1 is the button
+Seat 1: logex949 ($3.77 in chips)
+Seat 4: MTails ($174.04 in chips)
+logex949: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+logex949: raises $0.77 to $3.77 and is all-in
+MTails: calls $0.77
+*** FLOP *** [Tc 5c 3h]
+*** TURN *** [Tc 5c 3h] [4d]
+*** RIVER *** [Tc 5c 3h 4d] [8c]
+*** SHOW DOWN ***
+MTails: shows [9d 8h] (a pair of Eights)
+logex949: shows [9h Qc] (high card Queen)
+MTails collected $7.39 from pot
+*** SUMMARY ***
+Total pot $7.54 | Rake $0.15
+Board [Tc 5c 3h 4d 8c]
+Seat 1: logex949 (button) (small blind) showed [9h Qc] and lost with high card Queen
+Seat 4: MTails (big blind) showed [9d 8h] and won ($7.39) with a pair of Eights
+
+

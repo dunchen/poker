@@ -1,0 +1,290 @@
+PokerStars Hand #168177503592:  Hold'em Limit ($3/$6 USD) - 2017/03/27 6:40:11 ET
+Table 'Mathesis' 10-max Seat #10 is the button
+Seat 1: DeKirov ($78 in chips)
+Seat 10: BugerDV ($72 in chips)
+BugerDV: posts small blind $1
+DeKirov: posts big blind $3
+*** HOLE CARDS ***
+BugerDV: raises $3 to $6
+DeKirov: calls $3
+*** FLOP *** [2h 4h Qh]
+DeKirov: checks
+BugerDV: bets $3
+DeKirov: calls $3
+*** TURN *** [2h 4h Qh] [7s]
+DeKirov: checks
+BugerDV: checks
+*** RIVER *** [2h 4h Qh 7s] [4d]
+DeKirov: bets $6
+BugerDV: calls $6
+*** SHOW DOWN ***
+DeKirov: shows [6d 8h] (a pair of Fours)
+BugerDV: shows [5h Ks] (a pair of Fours - King kicker)
+B_loJkl joins the table at seat #2
+BugerDV collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2h 4h Qh 7s 4d]
+Seat 1: DeKirov (big blind) showed [6d 8h] and lost with a pair of Fours
+Seat 10: BugerDV (button) (small blind) showed [5h Ks] and won ($29.50) with a pair of Fours
+
+
+PokerStars Hand #168178052268:  Hold'em Limit ($3/$6 USD) - 2017/03/27 7:02:38 ET
+Table 'Mathesis' 10-max Seat #2 is the button
+Seat 1: DeKirov ($169.18 in chips)
+Seat 2: B_loJkl ($207.24 in chips)
+B_loJkl: posts small blind $1
+BugerDV leaves the table
+DeKirov: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+DeKirov: calls $3
+*** FLOP *** [Jc Qs Ac]
+DeKirov: checks
+B_loJkl: bets $3
+DeKirov: calls $3
+*** TURN *** [Jc Qs Ac] [8h]
+DeKirov: checks
+B_loJkl: bets $6
+DeKirov: calls $6
+*** RIVER *** [Jc Qs Ac 8h] [6d]
+DeKirov: checks
+B_loJkl: checks
+*** SHOW DOWN ***
+DeKirov: shows [4d Jd] (a pair of Jacks)
+B_loJkl: shows [Qd 5c] (a pair of Queens)
+B_loJkl collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Jc Qs Ac 8h 6d]
+Seat 1: DeKirov (big blind) showed [4d Jd] and lost with a pair of Jacks
+Seat 2: B_loJkl (button) (small blind) showed [Qd 5c] and won ($29.50) with a pair of Queens
+
+
+PokerStars Hand #168178085606:  Hold'em Limit ($3/$6 USD) - 2017/03/27 7:03:58 ET
+Table 'Mathesis' 10-max Seat #1 is the button
+Seat 1: DeKirov ($159.82 in chips)
+Seat 2: B_loJkl ($215.74 in chips)
+DeKirov: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+DeKirov: raises $3 to $6
+B_loJkl: folds
+Uncalled bet ($3) returned to DeKirov
+DeKirov collected $6 from pot
+DeKirov: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: DeKirov (button) (small blind) collected ($6)
+Seat 2: B_loJkl (big blind) folded before Flop
+
+
+PokerStars Hand #168178082318:  Hold'em Limit ($3/$6 USD) - 2017/03/27 7:03:50 ET
+Table 'Mathesis' 10-max Seat #2 is the button
+Seat 1: DeKirov ($162.82 in chips)
+Seat 2: B_loJkl ($212.74 in chips)
+B_loJkl: posts small blind $1
+DeKirov: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+DeKirov: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $6 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: DeKirov (big blind) folded before Flop
+Seat 2: B_loJkl (button) (small blind) collected ($6)
+
+
+PokerStars Hand #168178090239:  Hold'em Limit ($3/$6 USD) - 2017/03/27 7:04:09 ET
+Table 'Mathesis' 10-max Seat #2 is the button
+Seat 1: DeKirov ($162.82 in chips)
+Seat 2: B_loJkl ($212.74 in chips)
+B_loJkl: posts small blind $1
+DeKirov: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+DeKirov: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $6 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: DeKirov (big blind) folded before Flop
+Seat 2: B_loJkl (button) (small blind) collected ($6)
+
+
+PokerStars Hand #168178078382:  Hold'em Limit ($3/$6 USD) - 2017/03/27 7:03:41 ET
+Table 'Mathesis' 10-max Seat #1 is the button
+Seat 1: DeKirov ($159.82 in chips)
+Seat 2: B_loJkl ($215.74 in chips)
+DeKirov: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+DeKirov: raises $3 to $6
+B_loJkl: folds
+Uncalled bet ($3) returned to DeKirov
+DeKirov collected $6 from pot
+DeKirov: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: DeKirov (button) (small blind) collected ($6)
+Seat 2: B_loJkl (big blind) folded before Flop
+
+
+PokerStars Hand #168178073971:  Hold'em Limit ($3/$6 USD) - 2017/03/27 7:03:30 ET
+Table 'Mathesis' 10-max Seat #2 is the button
+Seat 1: DeKirov ($162.82 in chips)
+Seat 2: B_loJkl ($212.74 in chips)
+B_loJkl: posts small blind $1
+DeKirov: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+DeKirov: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $6 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: DeKirov (big blind) folded before Flop
+Seat 2: B_loJkl (button) (small blind) collected ($6)
+
+
+PokerStars Hand #168178066172:  Hold'em Limit ($3/$6 USD) - 2017/03/27 7:03:11 ET
+Table 'Mathesis' 10-max Seat #1 is the button
+Seat 1: DeKirov ($154.18 in chips)
+Seat 2: B_loJkl ($221.74 in chips)
+DeKirov: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+DeKirov: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Qs Ah Jh]
+B_loJkl: checks
+DeKirov: bets $3
+B_loJkl: calls $3
+*** TURN *** [Qs Ah Jh] [5h]
+B_loJkl: checks
+DeKirov: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to DeKirov
+DeKirov collected $17.64 from pot
+DeKirov: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qs Ah Jh 5h]
+Seat 1: DeKirov (button) (small blind) collected ($17.64)
+Seat 2: B_loJkl (big blind) folded on the Turn
+
+
+PokerStars Hand #168178104368:  Hold'em Limit ($3/$6 USD) - 2017/03/27 7:04:43 ET
+Table 'Mathesis' 10-max Seat #2 is the button
+Seat 1: DeKirov ($168.46 in chips)
+Seat 2: B_loJkl ($206.74 in chips)
+B_loJkl: posts small blind $1
+DeKirov: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+DeKirov: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $6 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: DeKirov (big blind) folded before Flop
+Seat 2: B_loJkl (button) (small blind) collected ($6)
+
+
+PokerStars Hand #168178094632:  Hold'em Limit ($3/$6 USD) - 2017/03/27 7:04:20 ET
+Table 'Mathesis' 10-max Seat #1 is the button
+Seat 1: DeKirov ($159.82 in chips)
+Seat 2: B_loJkl ($215.74 in chips)
+DeKirov: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+DeKirov: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [4s Qh 4d]
+B_loJkl: checks
+DeKirov: bets $3
+B_loJkl: calls $3
+*** TURN *** [4s Qh 4d] [5c]
+B_loJkl: checks
+DeKirov: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to DeKirov
+DeKirov collected $17.64 from pot
+DeKirov: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4s Qh 4d 5c]
+Seat 1: DeKirov (button) (small blind) collected ($17.64)
+Seat 2: B_loJkl (big blind) folded on the Turn
+
+
+PokerStars Hand #168178111129:  Hold'em Limit ($3/$6 USD) - 2017/03/27 7:04:59 ET
+Table 'Mathesis' 10-max Seat #1 is the button
+Seat 1: DeKirov ($165.46 in chips)
+Seat 2: B_loJkl ($209.74 in chips)
+DeKirov: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+DeKirov: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [4h 6s 4s]
+AzureCaper joins the table at seat #5
+B_loJkl: checks
+DeKirov: bets $3
+B_loJkl: raises $3 to $6
+DeKirov: calls $3
+*** TURN *** [4h 6s 4s] [5s]
+B_loJkl: bets $6
+DeKirov: calls $6
+*** RIVER *** [4h 6s 4s 5s] [Th]
+B_loJkl: bets $6
+DeKirov: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [4d 7d] (three of a kind, Fours)
+DeKirov: mucks hand
+B_loJkl collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4h 6s 4s 5s Th]
+Seat 1: DeKirov (button) (small blind) mucked
+Seat 2: B_loJkl (big blind) showed [4d 7d] and won ($47.50) with three of a kind, Fours
+
+
+PokerStars Hand #168178621810:  Hold'em Limit ($3/$6 USD) - 2017/03/27 7:24:44 ET
+Table 'Mathesis' 10-max Seat #2 is the button
+Seat 2: B_loJkl ($83.75 in chips)
+Seat 8: BADEXTASY ($174 in chips)
+B_loJkl: posts small blind $1
+AzureCaper: is sitting out
+Azrarn: is sitting out
+BADEXTASY: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+BADEXTASY: calls $3
+*** FLOP *** [6c Ad 7c]
+Azrarn leaves the table
+BADEXTASY: checks
+B_loJkl: bets $3
+BADEXTASY: calls $3
+*** TURN *** [6c Ad 7c] [3s]
+BADEXTASY: checks
+B_loJkl: checks
+*** RIVER *** [6c Ad 7c 3s] [8d]
+BADEXTASY: bets $6
+Kikimor1220 joins the table at seat #4
+B_loJkl: folds
+Uncalled bet ($6) returned to BADEXTASY
+BADEXTASY collected $17.64 from pot
+BADEXTASY: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6c Ad 7c 3s 8d]
+Seat 2: B_loJkl (button) (small blind) folded on the River
+Seat 8: BADEXTASY (big blind) collected ($17.64)
+
+

@@ -1,0 +1,58 @@
+PokerStars Hand #168702454191:  Hold'em Limit ($3/$6 USD) - 2017/04/07 10:19:24 ET
+Table 'Cyane II' 6-max Seat #3 is the button
+Seat 3: Mite1981 ($465.26 in chips)
+Seat 4: MTails ($120 in chips)
+Mite1981: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+Mite1981: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [8c 7s 6d]
+MTails: checks
+Mite1981: checks
+*** TURN *** [8c 7s 6d] [2d]
+MTails: bets $6
+Mite1981: folds
+Uncalled bet ($6) returned to MTails
+B_loJkl joins the table at seat #5
+MTails collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8c 7s 6d 2d]
+Seat 3: Mite1981 (button) (small blind) folded on the Turn
+Seat 4: MTails (big blind) collected ($11.76)
+
+
+PokerStars Hand #168702587814:  Hold'em Limit ($3/$6 USD) - 2017/04/07 10:23:09 ET
+Table 'Cyane II' 6-max Seat #6 is the button
+Seat 1: B_loJkl ($150 in chips)
+Seat 6: Burgal15 ($60.07 in chips)
+Burgal15: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Burgal15: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Ac Jh 6c]
+B_loJkl: checks
+Burgal15: bets $3
+B_loJkl: calls $3
+*** TURN *** [Ac Jh 6c] [Jc]
+B_loJkl: checks
+Burgal15: bets $6
+B_loJkl: raises $6 to $12
+Burgal15: calls $6
+*** RIVER *** [Ac Jh 6c Jc] [4d]
+B_loJkl: bets $6
+Burgal15: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [2h Js] (three of a kind, Jacks)
+Burgal15: shows [Jd Ks] (three of a kind, Jacks - Ace+King kicker)
+Jack_Wu1985 joins the table at seat #3
+Burgal15 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Ac Jh 6c Jc 4d]
+Seat 1: B_loJkl (big blind) showed [2h Js] and lost with three of a kind, Jacks
+Seat 6: Burgal15 (button) (small blind) showed [Jd Ks] and won ($53.50) with three of a kind, Jacks
+
+

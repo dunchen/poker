@@ -1,0 +1,32 @@
+PokerStars Hand #173572338430:  Hold'em Limit ($3/$6 USD) - 2017/07/27 9:20:10 ET
+Table 'Pongola' 6-max Seat #2 is the button
+Seat 1: B_loJkl ($259.59 in chips)
+Seat 2: Ale4o ($90.90 in chips)
+Ale4o: posts small blind $1
+Anchig: is sitting out
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Ale4o: raises $3 to $6
+Anchig leaves the table
+B_loJkl: calls $3
+*** FLOP *** [Th 2h 4h]
+B_loJkl: checks
+Ale4o: bets $3
+B_loJkl: calls $3
+*** TURN *** [Th 2h 4h] [3h]
+B_loJkl: checks
+Ale4o: checks
+*** RIVER *** [Th 2h 4h 3h] [Ad]
+B_loJkl: checks
+Ale4o: checks
+*** SHOW DOWN ***
+B_loJkl: shows [4c Kc] (a pair of Fours)
+Ale4o: mucks hand
+B_loJkl collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Th 2h 4h 3h Ad]
+Seat 1: B_loJkl (big blind) showed [4c Kc] and won ($17.64) with a pair of Fours
+Seat 2: Ale4o (button) (small blind) mucked
+
+

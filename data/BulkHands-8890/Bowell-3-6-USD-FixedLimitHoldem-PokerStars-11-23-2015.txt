@@ -1,0 +1,92 @@
+PokerStars Hand #144247892457:  Hold'em Limit ($3/$6 USD) - 2015/11/22 23:00:14 ET
+Table 'Bowell' 2-max Seat #1 is the button
+Seat 1: deev311 ($56.50 in chips)
+Seat 2: maria_svs ($35.47 in chips)
+deev311: posts small blind $1
+maria_svs: posts big blind $3
+*** HOLE CARDS ***
+deev311: raises $3 to $6
+maria_svs: raises $3 to $9
+deev311: calls $3
+*** FLOP *** [Ad 4d 4h]
+maria_svs: bets $3
+deev311: raises $3 to $6
+maria_svs: calls $3
+*** TURN *** [Ad 4d 4h] [8h]
+maria_svs: bets $6
+deev311: calls $6
+*** RIVER *** [Ad 4d 4h 8h] [Td]
+maria_svs: bets $6
+deev311: folds
+Uncalled bet ($6) returned to maria_svs
+maria_svs collected $41.50 from pot
+maria_svs: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ad 4d 4h 8h Td]
+Seat 1: deev311 (button) (small blind) folded on the River
+Seat 2: maria_svs (big blind) collected ($41.50)
+
+
+PokerStars Hand #144247905905:  Hold'em Limit ($3/$6 USD) - 2015/11/22 23:01:03 ET
+Table 'Bowell' 2-max Seat #2 is the button
+Seat 1: deev311 ($35.50 in chips)
+Seat 2: maria_svs ($55.97 in chips)
+maria_svs: posts small blind $1
+deev311: posts big blind $3
+*** HOLE CARDS ***
+maria_svs: raises $3 to $6
+deev311: raises $3 to $9
+maria_svs: raises $3 to $12
+Betting is capped
+deev311: calls $3
+*** FLOP *** [5h Qh 6d]
+deev311: bets $3
+maria_svs: raises $3 to $6
+deev311: calls $3
+*** TURN *** [5h Qh 6d] [8c]
+deev311: checks
+maria_svs: bets $6
+deev311: calls $6
+*** RIVER *** [5h Qh 6d 8c] [Td]
+deev311: checks
+maria_svs: bets $6
+deev311: folds
+Uncalled bet ($6) returned to maria_svs
+maria_svs collected $47.50 from pot
+maria_svs: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [5h Qh 6d 8c Td]
+Seat 1: deev311 (big blind) folded on the River
+Seat 2: maria_svs (button) (small blind) collected ($47.50)
+
+
+PokerStars Hand #144247910614:  Hold'em Limit ($3/$6 USD) - 2015/11/22 23:01:20 ET
+Table 'Bowell' 2-max Seat #1 is the button
+Seat 1: deev311 ($11.50 in chips)
+Seat 2: maria_svs ($79.47 in chips)
+deev311: posts small blind $1
+maria_svs: posts big blind $3
+*** HOLE CARDS ***
+deev311: raises $3 to $6
+maria_svs: raises $3 to $9
+deev311: calls $3
+*** FLOP *** [4d Ts As]
+maria_svs: bets $3
+deev311: calls $2.50 and is all-in
+Uncalled bet ($0.50) returned to maria_svs
+*** TURN *** [4d Ts As] [Tc]
+*** RIVER *** [4d Ts As Tc] [6s]
+*** SHOW DOWN ***
+maria_svs: shows [3d Kh] (a pair of Tens)
+deev311: shows [Qh 9d] (a pair of Tens - lower kicker)
+maria_svs collected $22.54 from pot
+deev311 leaves the table
+*** SUMMARY ***
+Total pot $23 | Rake $0.46
+Board [4d Ts As Tc 6s]
+Seat 1: deev311 (button) (small blind) showed [Qh 9d] and lost with a pair of Tens
+Seat 2: maria_svs (big blind) showed [3d Kh] and won ($22.54) with a pair of Tens
+
+

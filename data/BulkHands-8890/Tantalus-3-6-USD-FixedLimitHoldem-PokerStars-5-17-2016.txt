@@ -1,0 +1,88 @@
+PokerStars Hand #153440947142:  Hold'em Limit ($3/$6 USD) - 2016/05/17 8:57:47 ET
+Table 'Tantalus' 6-max Seat #3 is the button
+Seat 3: Tryptamean ($120 in chips)
+Seat 4: joha74 ($120 in chips)
+Tryptamean: posts small blind $1
+joha74: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+joha74: raises $3 to $9
+Tryptamean: calls $3
+*** FLOP *** [Jc 4s 7c]
+joha74: bets $3
+Tryptamean: calls $3
+*** TURN *** [Jc 4s 7c] [9d]
+joha74: bets $6
+Tryptamean: raises $6 to $12
+joha74: raises $6 to $18
+Tryptamean: calls $6
+*** RIVER *** [Jc 4s 7c 9d] [Ts]
+joha74: bets $6
+Tryptamean: raises $6 to $12
+joha74: calls $6
+*** SHOW DOWN ***
+Tryptamean: shows [8s Jd] (a straight, Seven to Jack)
+joha74: mucks hand
+Tryptamean collected $83.50 from pot
+*** SUMMARY ***
+Total pot $84 | Rake $0.50
+Board [Jc 4s 7c 9d Ts]
+Seat 3: Tryptamean (button) (small blind) showed [8s Jd] and won ($83.50) with a straight, Seven to Jack
+Seat 4: joha74 (big blind) mucked
+
+
+PokerStars Hand #153441001337:  Hold'em Limit ($3/$6 USD) - 2016/05/17 8:59:45 ET
+Table 'Tantalus' 6-max Seat #3 is the button
+Seat 3: Tryptamean ($134.50 in chips)
+Seat 4: joha74 ($104.50 in chips)
+Tryptamean: posts small blind $1
+joha74: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: folds
+Uncalled bet ($2) returned to joha74
+joha74 collected $2 from pot
+joha74: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: Tryptamean (button) (small blind) folded before Flop
+Seat 4: joha74 (big blind) collected ($2)
+
+
+PokerStars Hand #153440970476:  Hold'em Limit ($3/$6 USD) - 2016/05/17 8:58:37 ET
+Table 'Tantalus' 6-max Seat #4 is the button
+Seat 3: Tryptamean ($161.50 in chips)
+Seat 4: joha74 ($78 in chips)
+krossguard joins the table at seat #5
+joha74: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+joha74: raises $3 to $6
+Tryptamean: raises $3 to $9
+joha74: raises $3 to $12
+Betting is capped
+Tryptamean: calls $3
+*** FLOP *** [Js Td Jc]
+Tryptamean: checks
+joha74 is disconnected
+joha74 is connected
+liolilove joins the table at seat #6
+joha74: bets $3
+Tryptamean: calls $3
+*** TURN *** [Js Td Jc] [7d]
+Tryptamean: checks
+joha74: checks
+*** RIVER *** [Js Td Jc 7d] [Qd]
+Tryptamean: bets $6
+joha74: raises $6 to $12
+Tryptamean: calls $6
+*** SHOW DOWN ***
+joha74: shows [Kd Ac] (a straight, Ten to Ace)
+Tryptamean: mucks hand
+joha74 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Js Td Jc 7d Qd]
+Seat 3: Tryptamean (big blind) mucked
+Seat 4: joha74 (button) (small blind) showed [Kd Ac] and won ($53.50) with a straight, Ten to Ace
+
+

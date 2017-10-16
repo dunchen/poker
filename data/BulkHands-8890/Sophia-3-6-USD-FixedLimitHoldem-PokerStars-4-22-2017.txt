@@ -1,0 +1,32 @@
+PokerStars Hand #169416469246:  Hold'em Limit ($3/$6 USD) - 2017/04/22 16:59:40 ET
+Table 'Sophia' 6-max Seat #3 is the button
+Seat 1: Qvidde ($60.50 in chips)
+Seat 3: RaisemyNut$ ($208.95 in chips)
+RaisemyNut$: posts small blind $1
+Qvidde: posts big blind $3
+*** HOLE CARDS ***
+RaisemyNut$: raises $3 to $6
+Qvidde: raises $3 to $9
+RaisemyNut$: calls $3
+*** FLOP *** [5h 9s Jc]
+Qvidde: bets $3
+RaisemyNut$: calls $3
+*** TURN *** [5h 9s Jc] [6d]
+Qvidde: checks
+RaisemyNut$: bets $6
+Qvidde: calls $6
+*** RIVER *** [5h 9s Jc 6d] [3c]
+Qvidde: checks
+RaisemyNut$: bets $6
+Qvidde: calls $6
+*** SHOW DOWN ***
+RaisemyNut$: shows [6s 5d] (two pair, Sixes and Fives)
+Qvidde: mucks hand
+RaisemyNut$ collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [5h 9s Jc 6d 3c]
+Seat 1: Qvidde (big blind) mucked
+Seat 3: RaisemyNut$ (button) (small blind) showed [6s 5d] and won ($47.50) with two pair, Sixes and Fives
+
+

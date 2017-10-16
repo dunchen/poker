@@ -1,0 +1,141 @@
+PokerStars Hand #172772911871:  Hold'em Limit ($3/$6 USD) - 2017/07/08 15:13:06 ET
+Table 'Oceana' 6-max Seat #4 is the button
+Seat 3: AnVan ($59.39 in chips)
+Seat 4: MTails ($108 in chips)
+MTails: posts small blind $1
+AnVan: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+AnVan: folds
+Uncalled bet ($3) returned to MTails
+MTails collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: AnVan (big blind) folded before Flop
+Seat 4: MTails (button) (small blind) collected ($6)
+
+
+PokerStars Hand #172772895231:  Hold'em Limit ($3/$6 USD) - 2017/07/08 15:12:44 ET
+Table 'Oceana' 6-max Seat #3 is the button
+Seat 3: AnVan ($47.87 in chips)
+Seat 4: MTails ($120 in chips)
+AnVan: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+AnVan: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [Qs 2d 8c]
+MTails: checks
+AnVan: checks
+*** TURN *** [Qs 2d 8c] [Kh]
+MTails: bets $6
+AnVan: raises $6 to $12
+MTails: folds
+Uncalled bet ($6) returned to AnVan
+AnVan collected $23.52 from pot
+AnVan: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Qs 2d 8c Kh]
+Seat 3: AnVan (button) (small blind) collected ($23.52)
+Seat 4: MTails (big blind) folded on the Turn
+
+
+PokerStars Hand #172772916352:  Hold'em Limit ($3/$6 USD) - 2017/07/08 15:13:12 ET
+Table 'Oceana' 6-max Seat #3 is the button
+Seat 3: AnVan ($56.39 in chips)
+Seat 4: MTails ($111 in chips)
+AnVan: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+AnVan: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [Ah Ks Jh]
+MTails: checks
+AnVan is disconnected
+AnVan has timed out while disconnected
+AnVan: checks
+*** TURN *** [Ah Ks Jh] [Ac]
+MTails: bets $6
+AnVan is connected
+AnVan: raises $6 to $12
+MTails: calls $6
+*** RIVER *** [Ah Ks Jh Ac] [5h]
+MTails: checks
+AnVan: bets $6
+MTails: calls $6
+*** SHOW DOWN ***
+AnVan: shows [3h Kd] (two pair, Aces and Kings)
+MTails: shows [4d Kh] (two pair, Aces and Kings)
+MTails collected $23.75 from pot
+AnVan collected $23.75 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Ah Ks Jh Ac 5h]
+Seat 3: AnVan (button) (small blind) showed [3h Kd] and won ($23.75) with two pair, Aces and Kings
+Seat 4: MTails (big blind) showed [4d Kh] and won ($23.75) with two pair, Aces and Kings
+
+
+PokerStars Hand #172772955869:  Hold'em Limit ($3/$6 USD) - 2017/07/08 15:14:05 ET
+Table 'Oceana' 6-max Seat #4 is the button
+Seat 3: AnVan ($56.14 in chips)
+Seat 4: MTails ($110.75 in chips)
+MTails: posts small blind $1
+AnVan: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+AnVan: calls $3
+*** FLOP *** [Qd 9s Ad]
+AnVan: bets $3
+MTails: calls $3
+*** TURN *** [Qd 9s Ad] [Ah]
+AnVan: bets $6
+MTails: calls $6
+*** RIVER *** [Qd 9s Ad Ah] [2s]
+AnVan: bets $6
+MTails: raises $6 to $12
+AnVan: raises $6 to $18
+MTails: raises $6 to $24
+Betting is capped
+AnVan: calls $6
+*** SHOW DOWN ***
+MTails: shows [As Th] (three of a kind, Aces)
+AnVan: mucks hand
+MTails collected $77.50 from pot
+*** SUMMARY ***
+Total pot $78 | Rake $0.50
+Board [Qd 9s Ad Ah 2s]
+Seat 3: AnVan (big blind) mucked
+Seat 4: MTails (button) (small blind) showed [As Th] and won ($77.50) with three of a kind, Aces
+
+
+PokerStars Hand #172772976834:  Hold'em Limit ($3/$6 USD) - 2017/07/08 15:14:34 ET
+Table 'Oceana' 6-max Seat #3 is the button
+Seat 3: AnVan ($17.14 in chips)
+Seat 4: MTails ($149.25 in chips)
+AnVan: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+AnVan: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [Jd 9d 4s]
+MTails: checks
+AnVan: bets $3
+MTails: raises $3 to $6
+AnVan: calls $3
+*** TURN *** [Jd 9d 4s] [6h]
+MTails: bets $6
+AnVan: calls $5.14 and is all-in
+Uncalled bet ($0.86) returned to MTails
+*** RIVER *** [Jd 9d 4s 6h] [Ac]
+*** SHOW DOWN ***
+MTails: shows [Js 4c] (two pair, Jacks and Fours)
+AnVan: shows [2c 2s] (a pair of Deuces)
+MTails collected $33.78 from pot
+*** SUMMARY ***
+Total pot $34.28 | Rake $0.50
+Board [Jd 9d 4s 6h Ac]
+Seat 3: AnVan (button) (small blind) showed [2c 2s] and lost with a pair of Deuces
+Seat 4: MTails (big blind) showed [Js 4c] and won ($33.78) with two pair, Jacks and Fours
+
+

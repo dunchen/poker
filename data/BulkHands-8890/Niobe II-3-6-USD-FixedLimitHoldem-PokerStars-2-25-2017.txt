@@ -1,0 +1,139 @@
+PokerStars Hand #166741324742:  Hold'em Limit ($3/$6 USD) - 2017/02/25 6:28:30 ET
+Table 'Niobe II' 10-max Seat #10 is the button
+Seat 6: nord670 ($36 in chips)
+Seat 10: MTails ($120 in chips)
+MTails: posts small blind $1
+nord670: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+nord670: calls $3
+*** FLOP *** [6c Ah 3h]
+nord670: bets $3
+MTails: calls $3
+*** TURN *** [6c Ah 3h] [8s]
+nord670: checks
+MTails: bets $6
+nord670: folds
+Uncalled bet ($6) returned to MTails
+MTails collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6c Ah 3h 8s]
+Seat 6: nord670 (big blind) folded on the Turn
+Seat 10: MTails (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #166741342583:  Hold'em Limit ($3/$6 USD) - 2017/02/25 6:29:05 ET
+Table 'Niobe II' 10-max Seat #6 is the button
+Seat 6: nord670 ($27 in chips)
+Seat 10: MTails ($128.64 in chips)
+nord670: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+nord670: calls $2
+MTails: raises $3 to $6
+nord670: calls $3
+*** FLOP *** [2h 5d 7s]
+MTails: bets $3
+nord670: calls $3
+*** TURN *** [2h 5d 7s] [Ac]
+MTails: bets $6
+nord670: calls $6
+*** RIVER *** [2h 5d 7s Ac] [9h]
+MTails: bets $6
+nord670: raises $6 to $12 and is all-in
+MTails: calls $6
+*** SHOW DOWN ***
+nord670: shows [6h 8c] (a straight, Five to Nine)
+MTails: shows [4s 3d] (a straight, Ace to Five)
+nord670 collected $53.50 from pot
+Rus29APX joins the table at seat #7
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [2h 5d 7s Ac 9h]
+Seat 6: nord670 (button) (small blind) showed [6h 8c] and won ($53.50) with a straight, Five to Nine
+Seat 10: MTails (big blind) showed [4s 3d] and lost with a straight, Ace to Five
+
+
+PokerStars Hand #166741366516:  Hold'em Limit ($3/$6 USD) - 2017/02/25 6:29:53 ET
+Table 'Niobe II' 10-max Seat #10 is the button
+Seat 6: nord670 ($53.50 in chips)
+Seat 10: MTails ($101.64 in chips)
+MTails: posts small blind $1
+nord670: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+nord670: folds
+Uncalled bet ($3) returned to MTails
+MTails collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 6: nord670 (big blind) folded before Flop
+Seat 10: MTails (button) (small blind) collected ($6)
+
+
+PokerStars Hand #166741396406:  Hold'em Limit ($3/$6 USD) - 2017/02/25 6:30:51 ET
+Table 'Niobe II' 10-max Seat #6 is the button
+Seat 6: nord670 ($36 in chips)
+Seat 10: MTails ($104.64 in chips)
+nord670: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+nord670: calls $2
+MTails: raises $3 to $6
+RockKillerTY joins the table at seat #7
+nord670: calls $3
+*** FLOP *** [3s 4d 9c]
+MTails: bets $3
+nord670: raises $3 to $6
+MTails: calls $3
+*** TURN *** [3s 4d 9c] [4h]
+MTails: checks
+nord670: bets $6
+MTails: calls $6
+*** RIVER *** [3s 4d 9c 4h] [2d]
+MTails: checks
+nord670: bets $6
+MTails: calls $6
+*** SHOW DOWN ***
+nord670: shows [Jh Jd] (two pair, Jacks and Fours)
+MTails: mucks hand
+nord670 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3s 4d 9c 4h 2d]
+Seat 6: nord670 (button) (small blind) showed [Jh Jd] and won ($47.50) with two pair, Jacks and Fours
+Seat 10: MTails (big blind) mucked
+
+
+PokerStars Hand #166741416576:  Hold'em Limit ($3/$6 USD) - 2017/02/25 6:31:31 ET
+Table 'Niobe II' 10-max Seat #10 is the button
+Seat 7: RockKillerTY ($120 in chips)
+Seat 10: MTails ($80.64 in chips)
+MTails: posts small blind $1
+RockKillerTY: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+RockKillerTY: calls $3
+*** FLOP *** [As 8s 7c]
+RockKillerTY: checks
+nord670 leaves the table
+MTails: bets $3
+RockKillerTY: calls $3
+*** TURN *** [As 8s 7c] [Ac]
+RockKillerTY: checks
+MTails: bets $6
+RockKillerTY: calls $6
+*** RIVER *** [As 8s 7c Ac] [3c]
+RockKillerTY: checks
+MTails: bets $6
+RockKillerTY: folds
+Uncalled bet ($6) returned to MTails
+MTails collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [As 8s 7c Ac 3c]
+Seat 7: RockKillerTY (big blind) folded on the River
+Seat 10: MTails (button) (small blind) collected ($29.50)
+
+

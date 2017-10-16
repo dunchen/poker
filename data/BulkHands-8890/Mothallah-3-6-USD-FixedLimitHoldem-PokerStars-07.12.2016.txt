@@ -1,0 +1,93 @@
+PokerStars Hand #162548126342:  Hold'em Limit ($3/$6 USD) - 2016/12/07 5:37:01 ET
+Table 'Mothallah' 6-max Seat #3 is the button
+Seat 3: papa076 ($90 in chips)
+Seat 5: TinaTurner72 ($120 in chips)
+papa076: posts small blind $1
+TinaTurner72: posts big blind $3
+*** HOLE CARDS ***
+papa076: calls $2
+TinaTurner72: checks
+*** FLOP *** [Kc 3c 2h]
+TinaTurner72: checks
+papa076: bets $3
+TinaTurner72: folds
+Uncalled bet ($3) returned to papa076
+ImDaBest514 joins the table at seat #2
+papa076 collected $5.88 from pot
+papa076: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Kc 3c 2h]
+Seat 3: papa076 (button) (small blind) collected ($5.88)
+Seat 5: TinaTurner72 (big blind) folded on the Flop
+
+
+PokerStars Hand #162548256386:  Hold'em Limit ($3/$6 USD) - 2016/12/07 5:41:40 ET
+Table 'Mothallah' 6-max Seat #2 is the button
+Seat 2: ImDaBest514 ($97.54 in chips)
+Seat 5: TinaTurner72 ($223.15 in chips)
+ImDaBest514: posts small blind $1
+TinaTurner72: posts big blind $3
+*** HOLE CARDS ***
+ImDaBest514: raises $3 to $6
+MMM 22666 joins the table at seat #1
+TinaTurner72: calls $3
+*** FLOP *** [5c 4d 6h]
+papa076 leaves the table
+sinsadir joins the table at seat #4
+TinaTurner72: checks
+ImDaBest514: bets $3
+TinaTurner72: raises $3 to $6
+ImDaBest514: raises $3 to $9
+TinaTurner72: calls $3
+*** TURN *** [5c 4d 6h] [Qs]
+TinaTurner72: checks
+ImDaBest514: bets $6
+TinaTurner72: calls $6
+*** RIVER *** [5c 4d 6h Qs] [Kh]
+TinaTurner72: checks
+ImDaBest514: checks
+*** SHOW DOWN ***
+TinaTurner72: shows [Ks 6s] (two pair, Kings and Sixes)
+ImDaBest514: mucks hand
+TinaTurner72 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [5c 4d 6h Qs Kh]
+Seat 2: ImDaBest514 (button) (small blind) mucked
+Seat 5: TinaTurner72 (big blind) showed [Ks 6s] and won ($41.50) with two pair, Kings and Sixes
+
+
+PokerStars Hand #162550010403:  Hold'em Limit ($3/$6 USD) - 2016/12/07 6:41:48 ET
+Table 'Mothallah' 6-max Seat #6 is the button
+Seat 5: HasThaHustle ($128.14 in chips)
+Seat 6: sinsadir ($121 in chips)
+sinsadir: posts small blind $1
+TbIP-TbIP 88: is sitting out
+ABATAPP: is sitting out
+HasThaHustle: posts big blind $3
+*** HOLE CARDS ***
+ABATAPP leaves the table
+sinsadir: raises $3 to $6
+HasThaHustle: raises $3 to $9
+sinsadir: calls $3
+*** FLOP *** [6s 8d Ac]
+HasThaHustle: bets $3
+sinsadir: calls $3
+*** TURN *** [6s 8d Ac] [8h]
+HasThaHustle: bets $6
+sinsadir: calls $6
+*** RIVER *** [6s 8d Ac 8h] [7d]
+HasThaHustle: bets $6
+sinsadir: calls $6
+*** SHOW DOWN ***
+HasThaHustle: shows [As 2h] (two pair, Aces and Eights)
+sinsadir: shows [Ah Jh] (two pair, Aces and Eights - Jack kicker)
+sinsadir collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [6s 8d Ac 8h 7d]
+Seat 5: HasThaHustle (big blind) showed [As 2h] and lost with two pair, Aces and Eights
+Seat 6: sinsadir (button) (small blind) showed [Ah Jh] and won ($47.50) with two pair, Aces and Eights
+
+

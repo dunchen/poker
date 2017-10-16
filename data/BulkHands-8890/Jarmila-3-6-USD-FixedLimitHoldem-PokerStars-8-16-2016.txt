@@ -1,0 +1,90 @@
+PokerStars Hand #157359847455:  Hold'em Limit ($3/$6 USD) - 2016/08/16 15:44:52 ET
+Table 'Jarmila' 6-max Seat #4 is the button
+Seat 3: LikeLenz ($52.19 in chips)
+Seat 4: Ale4o ($152.50 in chips)
+Ale4o: posts small blind $1
+LikeLenz: posts big blind $3
+*** HOLE CARDS ***
+Ale4o: raises $3 to $6
+LikeLenz: calls $3
+*** FLOP *** [8c Tc 3d]
+LikeLenz: bets $3
+Ale4o: raises $3 to $6
+Wurst2000 joins the table at seat #2
+LikeLenz: raises $3 to $9
+Ale4o: calls $3
+*** TURN *** [8c Tc 3d] [8h]
+LikeLenz: bets $6
+Ale4o: calls $6
+*** RIVER *** [8c Tc 3d 8h] [Qh]
+LikeLenz: checks
+Ale4o: checks
+*** SHOW DOWN ***
+LikeLenz: shows [Js 3h] (two pair, Eights and Threes)
+Ale4o: mucks hand
+LikeLenz collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [8c Tc 3d 8h Qh]
+Seat 3: LikeLenz (big blind) showed [Js 3h] and won ($41.50) with two pair, Eights and Threes
+Seat 4: Ale4o (button) (small blind) mucked
+
+
+PokerStars Hand #157359865024:  Hold'em Limit ($3/$6 USD) - 2016/08/16 15:45:13 ET
+Table 'Jarmila' 6-max Seat #3 is the button
+Seat 3: LikeLenz ($72.69 in chips)
+Seat 4: Ale4o ($131.50 in chips)
+LikeLenz: posts small blind $1
+Ale4o: posts big blind $3
+*** HOLE CARDS ***
+LikeLenz: calls $2
+Ale4o: checks
+*** FLOP *** [8s 8h Ks]
+Ale4o: checks
+LikeLenz: bets $3
+Ale4o: folds
+Uncalled bet ($3) returned to LikeLenz
+LikeLenz collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [8s 8h Ks]
+Seat 3: LikeLenz (button) (small blind) collected ($5.88)
+Seat 4: Ale4o (big blind) folded on the Flop
+
+
+PokerStars Hand #157364745395:  Hold'em Limit ($3/$6 USD) - 2016/08/16 17:28:11 ET
+Table 'Jarmila' 6-max Seat #2 is the button
+Seat 1: wobetting ($86.40 in chips)
+Seat 2: Wurst2000 ($347.34 in chips)
+Wurst2000: posts small blind $1
+Ag3r0n: is sitting out
+Mordnilap: is sitting out
+wobetting: posts big blind $3
+*** HOLE CARDS ***
+Ag3r0n leaves the table
+Wurst2000: raises $3 to $6
+wobetting: calls $3
+*** FLOP *** [Ks Tc 6s]
+wobetting: checks
+saci55 joins the table at seat #4
+Wurst2000: bets $3
+wobetting: raises $3 to $6
+Wurst2000: calls $3
+*** TURN *** [Ks Tc 6s] [As]
+Ag3r0n joins the table at seat #6
+wobetting: checks
+Wurst2000: checks
+*** RIVER *** [Ks Tc 6s As] [7h]
+wobetting: bets $6
+Wurst2000: calls $6
+*** SHOW DOWN ***
+wobetting: shows [Kc 3c] (a pair of Kings)
+Wurst2000: mucks hand
+wobetting collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Ks Tc 6s As 7h]
+Seat 1: wobetting (big blind) showed [Kc 3c] and won ($35.50) with a pair of Kings
+Seat 2: Wurst2000 (button) (small blind) mucked
+
+

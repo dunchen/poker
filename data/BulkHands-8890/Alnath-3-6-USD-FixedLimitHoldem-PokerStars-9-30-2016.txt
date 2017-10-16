@@ -1,0 +1,34 @@
+PokerStars Hand #159299545160:  Hold'em Limit ($3/$6 USD) - 2016/09/30 15:51:41 ET
+Table 'Alnath' 6-max Seat #4 is the button
+Seat 3: Siwy56 ($29.80 in chips)
+Seat 4: krytalex ($143 in chips)
+krytalex: posts small blind $1
+Luanto 14: is sitting out
+Siwy56: posts big blind $3
+*** HOLE CARDS ***
+krytalex: raises $3 to $6
+Siwy56: raises $3 to $9
+Luanto 14 leaves the table
+krytalex: calls $3
+*** FLOP *** [Th 7s 6s]
+Siwy56: bets $3
+krytalex: raises $3 to $6
+Siwy56: raises $3 to $9
+krytalex: calls $3
+*** TURN *** [Th 7s 6s] [Ts]
+Siwy56: bets $6
+krytalex: raises $6 to $12
+Siwy56: calls $5.80 and is all-in
+Uncalled bet ($0.20) returned to krytalex
+*** RIVER *** [Th 7s 6s Ts] [4c]
+*** SHOW DOWN ***
+Siwy56: shows [Qh Kc] (a pair of Tens)
+krytalex: shows [Ad As] (two pair, Aces and Tens)
+krytalex collected $59.10 from pot
+*** SUMMARY ***
+Total pot $59.60 | Rake $0.50
+Board [Th 7s 6s Ts 4c]
+Seat 3: Siwy56 (big blind) showed [Qh Kc] and lost with a pair of Tens
+Seat 4: krytalex (button) (small blind) showed [Ad As] and won ($59.10) with two pair, Aces and Tens
+
+

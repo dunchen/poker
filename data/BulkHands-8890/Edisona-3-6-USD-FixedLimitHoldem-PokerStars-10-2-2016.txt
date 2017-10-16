@@ -1,0 +1,60 @@
+PokerStars Hand #159399977077:  Hold'em Limit ($3/$6 USD) - 2016/10/02 19:42:24 ET
+Table 'Edisona' 6-max Seat #4 is the button
+Seat 4: AzureCaper ($110.50 in chips)
+Seat 6: stiflerkk ($7.24 in chips)
+AzureCaper: posts small blind $1
+stiflerkk: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+stiflerkk: raises $1.24 to $7.24 and is all-in
+AzureCaper: calls $1.24
+*** FLOP *** [Jh Js 9d]
+*** TURN *** [Jh Js 9d] [Qh]
+*** RIVER *** [Jh Js 9d Qh] [7d]
+*** SHOW DOWN ***
+stiflerkk: shows [7s 7h] (a full house, Sevens full of Jacks)
+AzureCaper: shows [Jd 4d] (three of a kind, Jacks)
+stiflerkk collected $14.19 from pot
+*** SUMMARY ***
+Total pot $14.48 | Rake $0.29
+Board [Jh Js 9d Qh 7d]
+Seat 4: AzureCaper (button) (small blind) showed [Jd 4d] and lost with three of a kind, Jacks
+Seat 6: stiflerkk (big blind) showed [7s 7h] and won ($14.19) with a full house, Sevens full of Jacks
+
+
+PokerStars Hand #159399960721:  Hold'em Limit ($3/$6 USD) - 2016/10/02 19:41:52 ET
+Table 'Edisona' 6-max Seat #6 is the button
+Seat 4: AzureCaper ($72 in chips)
+Seat 6: stiflerkk ($46.24 in chips)
+stiflerkk: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+stiflerkk: raises $3 to $6
+ToDaFelt joins the table at seat #1
+AzureCaper: calls $3
+*** FLOP *** [5c 8d 3h]
+AzureCaper: checks
+stiflerkk: bets $3
+AzureCaper: calls $3
+*** TURN *** [5c 8d 3h] [Jh]
+AzureCaper: checks
+stiflerkk: bets $6
+AzureCaper: raises $6 to $12
+stiflerkk: raises $6 to $18
+AzureCaper: calls $6
+*** RIVER *** [5c 8d 3h Jh] [9s]
+AzureCaper: checks
+stiflerkk: bets $6
+AzureCaper: raises $6 to $12
+stiflerkk: calls $6
+*** SHOW DOWN ***
+AzureCaper: shows [9h Jd] (two pair, Jacks and Nines)
+stiflerkk: mucks hand
+AzureCaper collected $77.50 from pot
+*** SUMMARY ***
+Total pot $78 | Rake $0.50
+Board [5c 8d 3h Jh 9s]
+Seat 4: AzureCaper (big blind) showed [9h Jd] and won ($77.50) with two pair, Jacks and Nines
+Seat 6: stiflerkk (button) (small blind) mucked
+
+

@@ -1,0 +1,58 @@
+PokerStars Hand #145463328130:  Hold'em Limit ($3/$6 USD) - 2015/12/16 21:08:55 ET
+Table 'Noemi' 2-max Seat #2 is the button
+Seat 1: kaputnikoff ($60 in chips)
+Seat 2: moveoverover ($30 in chips)
+moveoverover: posts small blind $1
+kaputnikoff: posts big blind $3
+*** HOLE CARDS ***
+moveoverover: raises $3 to $6
+kaputnikoff: calls $3
+*** FLOP *** [4s Kc Ad]
+kaputnikoff: checks
+moveoverover: bets $3
+kaputnikoff: calls $3
+*** TURN *** [4s Kc Ad] [Td]
+kaputnikoff: checks
+moveoverover: bets $6
+kaputnikoff: calls $6
+*** RIVER *** [4s Kc Ad Td] [7h]
+kaputnikoff: checks
+moveoverover: checks
+*** SHOW DOWN ***
+kaputnikoff: shows [Tc Jh] (a pair of Tens)
+moveoverover: mucks hand
+kaputnikoff collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4s Kc Ad Td 7h]
+Seat 1: kaputnikoff (big blind) showed [Tc Jh] and won ($29.50) with a pair of Tens
+Seat 2: moveoverover (button) (small blind) mucked
+
+
+PokerStars Hand #145463346969:  Hold'em Limit ($3/$6 USD) - 2015/12/16 21:09:36 ET
+Table 'Noemi' 2-max Seat #1 is the button
+Seat 1: kaputnikoff ($74.50 in chips)
+Seat 2: moveoverover ($15 in chips)
+kaputnikoff: posts small blind $1
+moveoverover: posts big blind $3
+*** HOLE CARDS ***
+kaputnikoff: raises $3 to $6
+moveoverover: raises $3 to $9
+kaputnikoff: calls $3
+*** FLOP *** [Kh 6s 3h]
+moveoverover: bets $3
+kaputnikoff: raises $3 to $6
+moveoverover: calls $3 and is all-in
+*** TURN *** [Kh 6s 3h] [2s]
+*** RIVER *** [Kh 6s 3h 2s] [Ts]
+*** SHOW DOWN ***
+moveoverover: shows [6d 8s] (a pair of Sixes)
+kaputnikoff: shows [6c Ac] (a pair of Sixes - Ace kicker)
+kaputnikoff collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kh 6s 3h 2s Ts]
+Seat 1: kaputnikoff (button) (small blind) showed [6c Ac] and won ($29.50) with a pair of Sixes
+Seat 2: moveoverover (big blind) showed [6d 8s] and lost with a pair of Sixes
+
+

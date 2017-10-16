@@ -1,0 +1,94 @@
+PokerStars Hand #152529164726:  Hold'em Limit ($3/$6 USD) - 2016/04/27 14:25:32 ET
+Table 'Zosma' 6-max Seat #6 is the button
+Seat 2: conanboy ($93.13 in chips)
+Seat 6: kolaz03 ($111.75 in chips)
+kolaz03: posts small blind $1
+bugsbubble: is sitting out
+conanboy: posts big blind $3
+*** HOLE CARDS ***
+kolaz03: raises $3 to $6
+bugsbubble leaves the table
+conanboy: calls $3
+*** FLOP *** [Qh 3s 7s]
+conanboy: checks
+kolaz03: bets $3
+conanboy: raises $3 to $6
+kolaz03: calls $3
+*** TURN *** [Qh 3s 7s] [Jc]
+conanboy: bets $6
+kolaz03: calls $6
+*** RIVER *** [Qh 3s 7s Jc] [9c]
+conanboy: bets $6
+kolaz03: raises $6 to $12
+conanboy: calls $6
+*** SHOW DOWN ***
+kolaz03: shows [Qc 9s] (two pair, Queens and Nines)
+conanboy: mucks hand
+kolaz03 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Qh 3s 7s Jc 9c]
+Seat 2: conanboy (big blind) mucked
+Seat 6: kolaz03 (button) (small blind) showed [Qc 9s] and won ($59.50) with two pair, Queens and Nines
+
+
+PokerStars Hand #152529205977:  Hold'em Limit ($3/$6 USD) - 2016/04/27 14:26:20 ET
+Table 'Zosma' 6-max Seat #2 is the button
+Seat 2: conanboy ($63.13 in chips)
+Seat 6: kolaz03 ($141.25 in chips)
+conanboy: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+conanboy: raises $3 to $6
+kolaz03: calls $3
+*** FLOP *** [4h 8h 2d]
+kolaz03: checks
+conanboy: bets $3
+kolaz03: calls $3
+*** TURN *** [4h 8h 2d] [Ts]
+kolaz03: checks
+conanboy: checks
+*** RIVER *** [4h 8h 2d Ts] [Kh]
+kolaz03: checks
+conanboy: bets $6
+kolaz03: calls $6
+*** SHOW DOWN ***
+conanboy: shows [9c Ks] (a pair of Kings)
+kolaz03: mucks hand
+conanboy collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4h 8h 2d Ts Kh]
+Seat 2: conanboy (button) (small blind) showed [9c Ks] and won ($29.50) with a pair of Kings
+Seat 6: kolaz03 (big blind) mucked
+
+
+PokerStars Hand #152529247729:  Hold'em Limit ($3/$6 USD) - 2016/04/27 14:27:08 ET
+Table 'Zosma' 6-max Seat #6 is the button
+Seat 2: conanboy ($77.63 in chips)
+Seat 6: kolaz03 ($126.25 in chips)
+kolaz03: posts small blind $1
+conanboy: posts big blind $3
+*** HOLE CARDS ***
+kolaz03: raises $3 to $6
+conanboy: calls $3
+*** FLOP *** [As Js 4c]
+conanboy: checks
+kolaz03: bets $3
+conanboy: calls $3
+*** TURN *** [As Js 4c] [5c]
+conanboy: checks
+kolaz03: checks
+*** RIVER *** [As Js 4c 5c] [Ts]
+conanboy: bets $6
+kolaz03: folds
+Uncalled bet ($6) returned to conanboy
+conanboy collected $17.64 from pot
+conanboy: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [As Js 4c 5c Ts]
+Seat 2: conanboy (big blind) collected ($17.64)
+Seat 6: kolaz03 (button) (small blind) folded on the River
+
+

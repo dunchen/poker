@@ -1,0 +1,29 @@
+PokerStars Hand #166252908907:  Hold'em Limit ($3/$6 USD) - 2017/02/15 13:12:52 ET
+Table 'Giedi' 6-max Seat #6 is the button
+Seat 1: vestimokrec ($70.21 in chips)
+Seat 6: B_loJkl ($202.43 in chips)
+B_loJkl: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+vestimokrec: calls $3
+*** FLOP *** [8d 7s 5s]
+vestimokrec: checks
+B_loJkl: checks
+*** TURN *** [8d 7s 5s] [Jc]
+vestimokrec: bets $6
+B_loJkl: calls $6
+*** RIVER *** [8d 7s 5s Jc] [2c]
+vestimokrec: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+vestimokrec: shows [4s 4c] (a pair of Fours)
+B_loJkl: mucks hand
+vestimokrec collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [8d 7s 5s Jc 2c]
+Seat 1: vestimokrec (big blind) showed [4s 4c] and won ($35.50) with a pair of Fours
+Seat 6: B_loJkl (button) (small blind) mucked
+
+

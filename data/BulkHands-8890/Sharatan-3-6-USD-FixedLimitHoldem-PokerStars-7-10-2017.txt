@@ -1,0 +1,49 @@
+PokerStars Hand #172855891487:  Hold'em Limit ($3/$6 USD) - 2017/07/10 13:36:55 ET
+Table 'Sharatan' 6-max Seat #6 is the button
+Seat 4: MTails ($120 in chips)
+Seat 6: dmonr ($30 in chips)
+dmonr: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl joins the table at seat #1
+dmonr: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [7c 4h 6c]
+MTails: checks
+dmonr: bets $3
+vlaprok joins the table at seat #2
+MTails: calls $3
+*** TURN *** [7c 4h 6c] [5c]
+MTails: bets $6
+dmonr: calls $6
+*** RIVER *** [7c 4h 6c 5c] [Ad]
+MTails: bets $6
+dmonr: calls $6
+*** SHOW DOWN ***
+MTails: shows [3h 2h] (a straight, Three to Seven)
+dmonr: mucks hand
+MTails collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [7c 4h 6c 5c Ad]
+Seat 4: MTails (big blind) showed [3h 2h] and won ($41.50) with a straight, Three to Seven
+Seat 6: dmonr (button) (small blind) mucked
+
+
+PokerStars Hand #172855908050:  Hold'em Limit ($3/$6 USD) - 2017/07/10 13:37:18 ET
+Table 'Sharatan' 6-max Seat #4 is the button
+Seat 4: MTails ($140.50 in chips)
+Seat 6: dmonr ($9 in chips)
+MTails: posts small blind $1
+dmonr: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+dmonr: folds
+Uncalled bet ($3) returned to MTails
+MTails collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 4: MTails (button) (small blind) collected ($6)
+Seat 6: dmonr (big blind) folded before Flop
+
+

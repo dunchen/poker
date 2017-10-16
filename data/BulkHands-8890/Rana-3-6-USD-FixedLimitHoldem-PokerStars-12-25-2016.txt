@@ -1,0 +1,127 @@
+PokerStars Hand #163476455361:  Hold'em Limit ($3/$6 USD) - 2016/12/24 22:20:19 ET
+Table 'Rana' 6-max Seat #3 is the button
+Seat 3: MellivoraSto ($340.05 in chips)
+Seat 6: kungsbjörn ($277.54 in chips)
+MellivoraSto: posts small blind $1
+kungsbjörn: posts big blind $3
+*** HOLE CARDS ***
+MellivoraSto: folds
+Uncalled bet ($2) returned to kungsbjörn
+kungsbjörn collected $2 from pot
+kungsbjörn: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: MellivoraSto (button) (small blind) folded before Flop
+Seat 6: kungsbjörn (big blind) collected ($2)
+
+
+PokerStars Hand #163476450710:  Hold'em Limit ($3/$6 USD) - 2016/12/24 22:20:07 ET
+Table 'Rana' 6-max Seat #6 is the button
+Seat 3: MellivoraSto ($346.05 in chips)
+Seat 6: kungsbjörn ($271.78 in chips)
+kungsbjörn: posts small blind $1
+MellivoraSto: posts big blind $3
+*** HOLE CARDS ***
+kungsbjörn: raises $3 to $6
+MellivoraSto: calls $3
+*** FLOP *** [Jc 4c 9s]
+MellivoraSto: checks
+kungsbjörn: bets $3
+MellivoraSto: folds
+Uncalled bet ($3) returned to kungsbjörn
+kungsbjörn collected $11.76 from pot
+kungsbjörn: doesn't show hand
+CDNballer leaves the table
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jc 4c 9s]
+Seat 3: MellivoraSto (big blind) folded on the Flop
+Seat 6: kungsbjörn (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #163476475489:  Hold'em Limit ($3/$6 USD) - 2016/12/24 22:21:16 ET
+Table 'Rana' 6-max Seat #3 is the button
+Seat 3: MellivoraSto ($359.19 in chips)
+Seat 6: kungsbjörn ($257.04 in chips)
+MellivoraSto: posts small blind $1
+kungsbjörn: posts big blind $3
+*** HOLE CARDS ***
+MellivoraSto: raises $3 to $6
+kungsbjörn: calls $3
+*** FLOP *** [9d Th Ad]
+kungsbjörn: checks
+MellivoraSto: bets $3
+kungsbjörn: folds
+Uncalled bet ($3) returned to MellivoraSto
+MellivoraSto collected $11.76 from pot
+MellivoraSto: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9d Th Ad]
+Seat 3: MellivoraSto (button) (small blind) collected ($11.76)
+Seat 6: kungsbjörn (big blind) folded on the Flop
+
+
+PokerStars Hand #163476467600:  Hold'em Limit ($3/$6 USD) - 2016/12/24 22:20:54 ET
+Table 'Rana' 6-max Seat #6 is the button
+Seat 3: MellivoraSto ($332.69 in chips)
+Seat 6: kungsbjörn ($284.04 in chips)
+kungsbjörn: posts small blind $1
+dalton135 was removed from the table for failing to post
+MellivoraSto: posts big blind $3
+*** HOLE CARDS ***
+kungsbjörn: raises $3 to $6
+MellivoraSto: calls $3
+*** FLOP *** [4h 3s 7s]
+MellivoraSto: checks
+kungsbjörn: bets $3
+MellivoraSto: calls $3
+*** TURN *** [4h 3s 7s] [2s]
+MellivoraSto: checks
+kungsbjörn: bets $6
+MellivoraSto: raises $6 to $12
+kungsbjörn: calls $6
+*** RIVER *** [4h 3s 7s 2s] [8s]
+MellivoraSto: bets $6
+kungsbjörn: calls $6
+*** SHOW DOWN ***
+MellivoraSto: shows [Ks 9c] (a flush, King high)
+kungsbjörn: mucks hand
+MellivoraSto collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [4h 3s 7s 2s 8s]
+Seat 3: MellivoraSto (big blind) showed [Ks 9c] and won ($53.50) with a flush, King high
+Seat 6: kungsbjörn (button) (small blind) mucked
+
+
+PokerStars Hand #163476460781:  Hold'em Limit ($3/$6 USD) - 2016/12/24 22:20:35 ET
+Table 'Rana' 6-max Seat #3 is the button
+Seat 3: MellivoraSto ($347.69 in chips)
+Seat 6: kungsbjörn ($269.54 in chips)
+MellivoraSto: posts small blind $1
+kungsbjörn: posts big blind $3
+*** HOLE CARDS ***
+MellivoraSto: raises $3 to $6
+kungsbjörn: calls $3
+*** FLOP *** [7c 6d 8c]
+kungsbjörn: checks
+MellivoraSto: bets $3
+kungsbjörn: calls $3
+*** TURN *** [7c 6d 8c] [3c]
+kungsbjörn: checks
+MellivoraSto: checks
+*** RIVER *** [7c 6d 8c 3c] [Tc]
+kungsbjörn: bets $6
+MellivoraSto: calls $6
+*** SHOW DOWN ***
+kungsbjörn: shows [Kh Th] (a pair of Tens)
+MellivoraSto: mucks hand
+kungsbjörn collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7c 6d 8c 3c Tc]
+Seat 3: MellivoraSto (button) (small blind) mucked
+Seat 6: kungsbjörn (big blind) showed [Kh Th] and won ($29.50) with a pair of Tens
+
+

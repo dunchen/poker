@@ -1,0 +1,681 @@
+PokerStars Hand #161326923031:  Hold'em Limit ($3/$6 USD) - 2016/11/13 5:34:07 ET
+Table 'Aldhanab' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($131.52 in chips)
+Seat 6: sim5sim5 ($72 in chips)
+VolkovDmitri: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+sim5sim5: calls $3
+*** FLOP *** [3h Ad 2d]
+sim5sim5: checks
+VolkovDmitri: bets $3
+sim5sim5: calls $3
+*** TURN *** [3h Ad 2d] [3s]
+sim5sim5: checks
+VolkovDmitri: checks
+*** RIVER *** [3h Ad 2d 3s] [5c]
+sim5sim5: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+sim5sim5: shows [9c 7d] (a pair of Threes)
+VolkovDmitri: shows [8s Ah] (two pair, Aces and Threes)
+VolkovDmitri collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3h Ad 2d 3s 5c]
+Seat 1: VolkovDmitri (button) (small blind) showed [8s Ah] and won ($29.50) with two pair, Aces and Threes
+Seat 6: sim5sim5 (big blind) showed [9c 7d] and lost with a pair of Threes
+
+
+PokerStars Hand #161326906481:  Hold'em Limit ($3/$6 USD) - 2016/11/13 5:33:32 ET
+Table 'Aldhanab' 6-max Seat #6 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 6: sim5sim5 ($72 in chips)
+sim5sim5: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+sim5sim5: calls $3
+*** FLOP *** [Js 9d 2c]
+VolkovDmitri: bets $3
+sim5sim5: calls $3
+*** TURN *** [Js 9d 2c] [Th]
+VolkovDmitri: bets $6
+sim5sim5: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $23.52 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Js 9d 2c Th]
+Seat 1: VolkovDmitri (big blind) collected ($23.52)
+Seat 6: sim5sim5 (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #161326963679:  Hold'em Limit ($3/$6 USD) - 2016/11/13 5:35:31 ET
+Table 'Aldhanab' 6-max Seat #6 is the button
+Seat 1: VolkovDmitri ($187.02 in chips)
+Seat 6: sim5sim5 ($72 in chips)
+sim5sim5: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+VolkovDmitri: folds
+Uncalled bet ($3) returned to sim5sim5
+sim5sim5 collected $6 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: VolkovDmitri (big blind) folded before Flop
+Seat 6: sim5sim5 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #161326948653:  Hold'em Limit ($3/$6 USD) - 2016/11/13 5:35:00 ET
+Table 'Aldhanab' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($169.52 in chips)
+Seat 6: sim5sim5 ($72 in chips)
+VolkovDmitri: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+sim5sim5: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [3d Qd Ts]
+sim5sim5: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [3d Qd Ts] [6h]
+sim5sim5: checks
+VolkovDmitri: bets $6
+sim5sim5: calls $6
+*** RIVER *** [3d Qd Ts 6h] [9d]
+sim5sim5: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+sim5sim5: shows [Js Ac] (high card Ace)
+VolkovDmitri: shows [5h Td] (a pair of Tens)
+VolkovDmitri collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [3d Qd Ts 6h 9d]
+Seat 1: VolkovDmitri (button) (small blind) showed [5h Td] and won ($35.50) with a pair of Tens
+Seat 6: sim5sim5 (big blind) showed [Js Ac] and lost with high card Ace
+
+
+PokerStars Hand #161326935459:  Hold'em Limit ($3/$6 USD) - 2016/11/13 5:34:32 ET
+Table 'Aldhanab' 6-max Seat #6 is the button
+Seat 1: VolkovDmitri ($146.02 in chips)
+Seat 6: sim5sim5 ($72 in chips)
+sim5sim5: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Th Js 3s]
+VolkovDmitri: checks
+sim5sim5: bets $3
+VolkovDmitri: raises $3 to $6
+sim5sim5: calls $3
+*** TURN *** [Th Js 3s] [2d]
+VolkovDmitri: bets $6
+sim5sim5: calls $6
+*** RIVER *** [Th Js 3s 2d] [Qs]
+VolkovDmitri: bets $6
+sim5sim5: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [8d Jc] (a pair of Jacks)
+sim5sim5: mucks hand
+VolkovDmitri collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Th Js 3s 2d Qs]
+Seat 1: VolkovDmitri (big blind) showed [8d Jc] and won ($47.50) with a pair of Jacks
+Seat 6: sim5sim5 (button) (small blind) mucked
+
+
+PokerStars Hand #161326985698:  Hold'em Limit ($3/$6 USD) - 2016/11/13 5:36:17 ET
+Table 'Aldhanab' 6-max Seat #6 is the button
+Seat 1: VolkovDmitri ($201.52 in chips)
+Seat 6: sim5sim5 ($72 in chips)
+sim5sim5: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+sim5sim5: calls $3
+*** FLOP *** [Js 2h Ad]
+VolkovDmitri: bets $3
+sim5sim5: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $17.64 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Js 2h Ad]
+Seat 1: VolkovDmitri (big blind) collected ($17.64)
+Seat 6: sim5sim5 (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #161326968043:  Hold'em Limit ($3/$6 USD) - 2016/11/13 5:35:40 ET
+Table 'Aldhanab' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($184.02 in chips)
+Seat 6: sim5sim5 ($75 in chips)
+VolkovDmitri: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+sim5sim5: calls $3
+*** FLOP *** [8s Th Ks]
+sim5sim5: checks
+VolkovDmitri: bets $3
+sim5sim5: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [8s Th Ks] [Kc]
+sim5sim5: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [8s Th Ks Kc] [Qs]
+sim5sim5: checks
+VolkovDmitri: bets $6
+sim5sim5: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $35.50 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [8s Th Ks Kc Qs]
+Seat 1: VolkovDmitri (button) (small blind) collected ($35.50)
+Seat 6: sim5sim5 (big blind) folded on the River
+
+
+PokerStars Hand #161327011483:  Hold'em Limit ($3/$6 USD) - 2016/11/13 5:37:11 ET
+Table 'Aldhanab' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($193.16 in chips)
+Seat 6: sim5sim5 ($88.50 in chips)
+VolkovDmitri: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+sim5sim5: calls $3
+*** FLOP *** [3s 6c 2d]
+sim5sim5: checks
+VolkovDmitri: bets $3
+sim5sim5: calls $3
+*** TURN *** [3s 6c 2d] [9s]
+sim5sim5: checks
+VolkovDmitri: bets $6
+sim5sim5: calls $6
+*** RIVER *** [3s 6c 2d 9s] [3d]
+sim5sim5: checks
+VolkovDmitri: bets $6
+sim5sim5: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [9h 4h] (two pair, Nines and Threes)
+sim5sim5: mucks hand
+VolkovDmitri collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [3s 6c 2d 9s 3d]
+Seat 1: VolkovDmitri (button) (small blind) showed [9h 4h] and won ($41.50) with two pair, Nines and Threes
+Seat 6: sim5sim5 (big blind) mucked
+
+
+PokerStars Hand #161327008687:  Hold'em Limit ($3/$6 USD) - 2016/11/13 5:37:05 ET
+Table 'Aldhanab' 6-max Seat #6 is the button
+Seat 1: VolkovDmitri ($192.16 in chips)
+Seat 6: sim5sim5 ($89.50 in chips)
+sim5sim5: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: VolkovDmitri (big blind) collected ($2)
+Seat 6: sim5sim5 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #161326996254:  Hold'em Limit ($3/$6 USD) - 2016/11/13 5:36:39 ET
+Table 'Aldhanab' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($210.16 in chips)
+Seat 6: sim5sim5 ($72 in chips)
+VolkovDmitri: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+sim5sim5: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [Js 6h Jh]
+sim5sim5: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [Js 6h Jh] [6c]
+sim5sim5: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [Js 6h Jh 6c] [3h]
+sim5sim5: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+sim5sim5: shows [As Qc] (two pair, Jacks and Sixes)
+VolkovDmitri: mucks hand
+sim5sim5 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Js 6h Jh 6c 3h]
+Seat 1: VolkovDmitri (button) (small blind) mucked
+Seat 6: sim5sim5 (big blind) showed [As Qc] and won ($35.50) with two pair, Jacks and Sixes
+
+
+PokerStars Hand #161327044151:  Hold'em Limit ($3/$6 USD) - 2016/11/13 5:38:18 ET
+Table 'Aldhanab' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($235.16 in chips)
+Seat 6: sim5sim5 ($72 in chips)
+VolkovDmitri: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+sim5sim5: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [4d 4h Ts]
+sim5sim5: bets $3
+VolkovDmitri: folds
+Uncalled bet ($3) returned to sim5sim5
+sim5sim5 collected $17.64 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4d 4h Ts]
+Seat 1: VolkovDmitri (button) (small blind) folded on the Flop
+Seat 6: sim5sim5 (big blind) collected ($17.64)
+
+
+PokerStars Hand #161327033050:  Hold'em Limit ($3/$6 USD) - 2016/11/13 5:37:56 ET
+Table 'Aldhanab' 6-max Seat #6 is the button
+Seat 1: VolkovDmitri ($217.66 in chips)
+Seat 6: sim5sim5 ($72 in chips)
+sim5sim5: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Qh Qs Ts]
+VolkovDmitri: checks
+sim5sim5: bets $3
+VolkovDmitri: raises $3 to $6
+sim5sim5: calls $3
+*** TURN *** [Qh Qs Ts] [Qc]
+VolkovDmitri: bets $6
+sim5sim5: calls $6
+*** RIVER *** [Qh Qs Ts Qc] [8s]
+VolkovDmitri: checks
+sim5sim5: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [As 2c] (three of a kind, Queens)
+sim5sim5: mucks hand
+VolkovDmitri collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Qh Qs Ts Qc 8s]
+Seat 1: VolkovDmitri (big blind) showed [As 2c] and won ($35.50) with three of a kind, Queens
+Seat 6: sim5sim5 (button) (small blind) mucked
+
+
+PokerStars Hand #161327029427:  Hold'em Limit ($3/$6 USD) - 2016/11/13 5:37:48 ET
+Table 'Aldhanab' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($214.66 in chips)
+Seat 6: sim5sim5 ($72 in chips)
+VolkovDmitri: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+sim5sim5: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: VolkovDmitri (button) (small blind) collected ($6)
+Seat 6: sim5sim5 (big blind) folded before Flop
+
+
+PokerStars Hand #161327026576:  Hold'em Limit ($3/$6 USD) - 2016/11/13 5:37:42 ET
+Table 'Aldhanab' 6-max Seat #6 is the button
+Seat 1: VolkovDmitri ($213.66 in chips)
+Seat 6: sim5sim5 ($72 in chips)
+sim5sim5: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: VolkovDmitri (big blind) collected ($2)
+Seat 6: sim5sim5 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #161327063819:  Hold'em Limit ($3/$6 USD) - 2016/11/13 5:38:59 ET
+Table 'Aldhanab' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($252.66 in chips)
+Seat 6: sim5sim5 ($72 in chips)
+VolkovDmitri: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+sim5sim5: calls $3
+*** FLOP *** [5h Tc Qd]
+sim5sim5: checks
+VolkovDmitri: bets $3
+sim5sim5: calls $3
+*** TURN *** [5h Tc Qd] [Jd]
+sim5sim5: checks
+VolkovDmitri: checks
+*** RIVER *** [5h Tc Qd Jd] [3s]
+sim5sim5: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+sim5sim5: shows [Kd 8c] (high card King)
+VolkovDmitri: mucks hand
+sim5sim5 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5h Tc Qd Jd 3s]
+Seat 1: VolkovDmitri (button) (small blind) mucked
+Seat 6: sim5sim5 (big blind) showed [Kd 8c] and won ($17.64) with high card King
+
+
+PokerStars Hand #161327050139:  Hold'em Limit ($3/$6 USD) - 2016/11/13 5:38:31 ET
+Table 'Aldhanab' 6-max Seat #6 is the button
+Seat 1: VolkovDmitri ($226.16 in chips)
+Seat 6: sim5sim5 ($80.64 in chips)
+sim5sim5: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+sim5sim5: calls $3
+*** FLOP *** [6s Qs Js]
+VolkovDmitri: bets $3
+sim5sim5: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [6s Qs Js] [Th]
+VolkovDmitri: checks
+sim5sim5: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [6s Qs Js Th] [3s]
+VolkovDmitri: bets $6
+sim5sim5: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [8s Ah] (a flush, Queen high)
+sim5sim5: mucks hand
+VolkovDmitri collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [6s Qs Js Th 3s]
+Seat 1: VolkovDmitri (big blind) showed [8s Ah] and won ($53.50) with a flush, Queen high
+Seat 6: sim5sim5 (button) (small blind) mucked
+
+
+PokerStars Hand #161327088989:  Hold'em Limit ($3/$6 USD) - 2016/11/13 5:39:50 ET
+Table 'Aldhanab' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($225.66 in chips)
+Seat 6: sim5sim5 ($98.14 in chips)
+VolkovDmitri: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+sim5sim5: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [6h 8h 2d]
+sim5sim5: bets $3
+VolkovDmitri: raises $3 to $6
+sim5sim5: calls $3
+*** TURN *** [6h 8h 2d] [Kc]
+sim5sim5: checks
+VolkovDmitri: bets $6
+sim5sim5: calls $6
+*** RIVER *** [6h 8h 2d Kc] [Ks]
+sim5sim5: checks
+VolkovDmitri: bets $6
+sim5sim5: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [6c 4d] (two pair, Kings and Sixes)
+sim5sim5: shows [8s 5s] (two pair, Kings and Eights)
+sim5sim5 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [6h 8h 2d Kc Ks]
+Seat 1: VolkovDmitri (button) (small blind) showed [6c 4d] and lost with two pair, Kings and Sixes
+Seat 6: sim5sim5 (big blind) showed [8s 5s] and won ($53.50) with two pair, Kings and Eights
+
+
+PokerStars Hand #161327076824:  Hold'em Limit ($3/$6 USD) - 2016/11/13 5:39:25 ET
+Table 'Aldhanab' 6-max Seat #6 is the button
+Seat 1: VolkovDmitri ($243.66 in chips)
+Seat 6: sim5sim5 ($80.64 in chips)
+sim5sim5: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Ks Kd 6d]
+VolkovDmitri: checks
+sim5sim5: bets $3
+VolkovDmitri: raises $3 to $6
+sim5sim5: calls $3
+*** TURN *** [Ks Kd 6d] [Ac]
+VolkovDmitri: bets $6
+sim5sim5: raises $6 to $12
+VolkovDmitri: folds
+Uncalled bet ($6) returned to sim5sim5
+sim5sim5 collected $35.50 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Ks Kd 6d Ac]
+Seat 1: VolkovDmitri (big blind) folded on the Turn
+Seat 6: sim5sim5 (button) (small blind) collected ($35.50)
+
+
+PokerStars Hand #161327133405:  Hold'em Limit ($3/$6 USD) - 2016/11/13 5:41:21 ET
+Table 'Aldhanab' 6-max Seat #6 is the button
+Seat 1: VolkovDmitri ($198.16 in chips)
+Seat 6: sim5sim5 ($124.14 in chips)
+sim5sim5: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [9h 7c Tc]
+VolkovDmitri: checks
+sim5sim5: bets $3
+VolkovDmitri: folds
+Uncalled bet ($3) returned to sim5sim5
+sim5sim5 collected $11.76 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9h 7c Tc]
+Seat 1: VolkovDmitri (big blind) folded on the Flop
+Seat 6: sim5sim5 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #161327118115:  Hold'em Limit ($3/$6 USD) - 2016/11/13 5:40:50 ET
+Table 'Aldhanab' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($174.66 in chips)
+Seat 6: sim5sim5 ($148.14 in chips)
+VolkovDmitri: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+sim5sim5: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [8c Kh 5c]
+sim5sim5: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [8c Kh 5c] [9c]
+sim5sim5: checks
+VolkovDmitri: bets $6
+sim5sim5: calls $6
+*** RIVER *** [8c Kh 5c 9c] [2h]
+sim5sim5: checks
+VolkovDmitri: bets $6
+sim5sim5: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [6s 9s] (a pair of Nines)
+sim5sim5: mucks hand
+VolkovDmitri collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8c Kh 5c 9c 2h]
+Seat 1: VolkovDmitri (button) (small blind) showed [6s 9s] and won ($47.50) with a pair of Nines
+Seat 6: sim5sim5 (big blind) mucked
+
+
+PokerStars Hand #161327104205:  Hold'em Limit ($3/$6 USD) - 2016/11/13 5:40:22 ET
+Table 'Aldhanab' 6-max Seat #6 is the button
+Seat 1: VolkovDmitri ($198.66 in chips)
+Seat 6: sim5sim5 ($124.64 in chips)
+sim5sim5: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [3s 3h 8c]
+VolkovDmitri: checks
+sim5sim5: bets $3
+VolkovDmitri: raises $3 to $6
+sim5sim5: calls $3
+*** TURN *** [3s 3h 8c] [6s]
+VolkovDmitri: bets $6
+sim5sim5: raises $6 to $12
+VolkovDmitri: calls $6
+*** RIVER *** [3s 3h 8c 6s] [5s]
+VolkovDmitri: checks
+sim5sim5: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to sim5sim5
+sim5sim5 collected $47.50 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3s 3h 8c 6s 5s]
+Seat 1: VolkovDmitri (big blind) folded on the River
+Seat 6: sim5sim5 (button) (small blind) collected ($47.50)
+
+
+PokerStars Hand #161327141524:  Hold'em Limit ($3/$6 USD) - 2016/11/13 5:41:37 ET
+Table 'Aldhanab' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($192.16 in chips)
+Seat 6: sim5sim5 ($129.90 in chips)
+VolkovDmitri: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+sim5sim5: raises $3 to $9
+VolkovDmitri: raises $3 to $12
+Betting is capped
+sim5sim5: calls $3
+*** FLOP *** [2h Qh Qc]
+sim5sim5: checks
+VolkovDmitri: bets $3
+sim5sim5: calls $3
+*** TURN *** [2h Qh Qc] [8c]
+sim5sim5: checks
+VolkovDmitri: bets $6
+sim5sim5: calls $6
+*** RIVER *** [2h Qh Qc 8c] [6h]
+sim5sim5: bets $6
+VolkovDmitri: raises $6 to $12
+sim5sim5: raises $6 to $18
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+sim5sim5: shows [7h Th] (a flush, Queen high)
+VolkovDmitri: mucks hand
+sim5sim5 collected $77.50 from pot
+*** SUMMARY ***
+Total pot $78 | Rake $0.50
+Board [2h Qh Qc 8c 6h]
+Seat 1: VolkovDmitri (button) (small blind) mucked
+Seat 6: sim5sim5 (big blind) showed [7h Th] and won ($77.50) with a flush, Queen high
+
+
+PokerStars Hand #161327163050:  Hold'em Limit ($3/$6 USD) - 2016/11/13 5:42:21 ET
+Table 'Aldhanab' 6-max Seat #6 is the button
+Seat 1: VolkovDmitri ($153.16 in chips)
+Seat 6: sim5sim5 ($168.40 in chips)
+sim5sim5: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [7h Qd Ah]
+VolkovDmitri: checks
+sim5sim5: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [7h Qd Ah] [6h]
+VolkovDmitri: checks
+sim5sim5: checks
+*** RIVER *** [7h Qd Ah 6h] [Jh]
+VolkovDmitri: checks
+sim5sim5: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [Qc 5h] (a flush, Ace high)
+sim5sim5: mucks hand
+VolkovDmitri collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7h Qd Ah 6h Jh]
+Seat 1: VolkovDmitri (big blind) showed [Qc 5h] and won ($17.64) with a flush, Ace high
+Seat 6: sim5sim5 (button) (small blind) mucked
+
+
+PokerStars Hand #161327230274:  Hold'em Limit ($3/$6 USD) - 2016/11/13 5:44:39 ET
+Table 'Aldhanab' 6-max Seat #5 is the button
+Seat 5: sim5sim5 ($80.64 in chips)
+Seat 6: jackRizzar ($171 in chips)
+sim5sim5: posts small blind $1
+jackRizzar: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+jackRizzar: folds
+Uncalled bet ($3) returned to sim5sim5
+sim5sim5 collected $6 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 5: sim5sim5 (button) (small blind) collected ($6)
+Seat 6: jackRizzar (big blind) folded before Flop
+
+
+PokerStars Hand #161327214699:  Hold'em Limit ($3/$6 USD) - 2016/11/13 5:44:07 ET
+Table 'Aldhanab' 6-max Seat #6 is the button
+Seat 5: sim5sim5 ($72 in chips)
+Seat 6: jackRizzar ($180 in chips)
+jackRizzar: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+jackRizzar: raises $3 to $6
+sim5sim5: calls $3
+*** FLOP *** [6c Qd 7c]
+sim5sim5: checks
+jackRizzar: bets $3
+sim5sim5: calls $3
+*** TURN *** [6c Qd 7c] [Td]
+sim5sim5: checks
+jackRizzar: checks
+*** RIVER *** [6c Qd 7c Td] [8h]
+sim5sim5: bets $6
+jackRizzar: folds
+Uncalled bet ($6) returned to sim5sim5
+sim5sim5 collected $17.64 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6c Qd 7c Td 8h]
+Seat 5: sim5sim5 (big blind) collected ($17.64)
+Seat 6: jackRizzar (button) (small blind) folded on the River
+
+

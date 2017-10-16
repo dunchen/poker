@@ -1,0 +1,103 @@
+PokerStars Hand #163023613745:  Hold'em Limit ($3/$6 USD) - 2016/12/16 6:25:04 ET
+Table 'Lipperta' 6-max Seat #2 is the button
+Seat 1: MMM 22666 ($72 in chips)
+Seat 2: kolaz03 ($72 in chips)
+AzureCaper joins the table at seat #3
+kolaz03: posts small blind $1
+Agrotait: is sitting out
+MMM 22666: posts big blind $3
+*** HOLE CARDS ***
+kolaz03: raises $3 to $6
+MMM 22666: calls $3
+*** FLOP *** [9d 6c 4s]
+MMM 22666: checks
+kolaz03: bets $3
+MMM 22666: calls $3
+*** TURN *** [9d 6c 4s] [3h]
+MMM 22666: checks
+Agrotait leaves the table
+kolaz03: bets $6
+MMM 22666: raises $6 to $12
+kolaz03: calls $6
+*** RIVER *** [9d 6c 4s 3h] [Qh]
+MMM 22666: bets $6
+kolaz03: folds
+Uncalled bet ($6) returned to MMM 22666
+ToDaFelt joins the table at seat #5
+MMM 22666 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9d 6c 4s 3h Qh]
+Seat 1: MMM 22666 (big blind) collected ($41.50)
+Seat 2: kolaz03 (button) (small blind) folded on the River
+
+
+PokerStars Hand #163023628724:  Hold'em Limit ($3/$6 USD) - 2016/12/16 6:25:37 ET
+Table 'Lipperta' 6-max Seat #1 is the button
+Seat 1: MMM 22666 ($92.50 in chips)
+Seat 2: kolaz03 ($72 in chips)
+MMM 22666: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+MMM 22666: raises $3 to $6
+kolaz03: calls $3
+*** FLOP *** [3h 6s 7c]
+kolaz03: checks
+MMM 22666: checks
+*** TURN *** [3h 6s 7c] [8d]
+kolaz03: bets $6
+MMM 22666: calls $6
+*** RIVER *** [3h 6s 7c 8d] [5c]
+kolaz03: checks
+MMM 22666: checks
+*** SHOW DOWN ***
+kolaz03: shows [Js 8c] (a pair of Eights)
+MMM 22666: mucks hand
+kolaz03 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [3h 6s 7c 8d 5c]
+Seat 1: MMM 22666 (button) (small blind) mucked
+Seat 2: kolaz03 (big blind) showed [Js 8c] and won ($23.52) with a pair of Eights
+
+
+PokerStars Hand #163024199299:  Hold'em Limit ($3/$6 USD) - 2016/12/16 6:45:58 ET
+Table 'Lipperta' 6-max Seat #4 is the button
+Seat 3: AzureCaper ($75 in chips)
+Seat 4: boom65 ($67.96 in chips)
+boom65: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+boom65: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [9h Ah 5h]
+AzureCaper: checks
+boom65: bets $3
+AzureCaper: folds
+Uncalled bet ($3) returned to boom65
+boom65 collected $11.76 from pot
+boom65: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9h Ah 5h]
+Seat 3: AzureCaper (big blind) folded on the Flop
+Seat 4: boom65 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #163024881035:  Hold'em Limit ($3/$6 USD) - 2016/12/16 7:10:02 ET
+Table 'Lipperta' 6-max Seat #1 is the button
+Seat 1: Alexsandr.NT ($151.92 in chips)
+Seat 5: ToDaFelt ($93.35 in chips)
+Alexsandr.NT: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+Alexsandr.NT: folds
+Uncalled bet ($2) returned to ToDaFelt
+ToDaFelt collected $2 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Alexsandr.NT (button) (small blind) folded before Flop
+Seat 5: ToDaFelt (big blind) collected ($2)
+
+

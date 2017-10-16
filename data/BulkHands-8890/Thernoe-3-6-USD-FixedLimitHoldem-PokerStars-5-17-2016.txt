@@ -1,0 +1,49 @@
+PokerStars Hand #153435339449:  Hold'em Limit ($3/$6 USD) - 2016/05/17 5:26:16 ET
+Table 'Thernoe' 10-max Seat #5 is the button
+Seat 1: TOMSNx ($111 in chips)
+Seat 5: ct-650 ($158.64 in chips)
+ct-650: posts small blind $1
+TOMSNx: posts big blind $3
+*** HOLE CARDS ***
+ct-650: raises $3 to $6
+TOMSNx: calls $3
+*** FLOP *** [2s 2h 6c]
+TOMSNx: checks
+ct-650: bets $3
+TOMSNx: calls $3
+*** TURN *** [2s 2h 6c] [Ah]
+RockKillerTY joins the table at seat #2
+TOMSNx: checks
+ct-650: bets $6
+TOMSNx: folds
+Uncalled bet ($6) returned to ct-650
+ct-650 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2s 2h 6c Ah]
+Seat 1: TOMSNx (big blind) folded on the Turn
+Seat 5: ct-650 (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #153435334299:  Hold'em Limit ($3/$6 USD) - 2016/05/17 5:26:02 ET
+Table 'Thernoe' 10-max Seat #1 is the button
+Seat 1: TOMSNx ($120 in chips)
+Seat 5: ct-650 ($150 in chips)
+TOMSNx: posts small blind $1
+ct-650: posts big blind $3
+*** HOLE CARDS ***
+TOMSNx: raises $3 to $6
+ct-650: raises $3 to $9
+TOMSNx: calls $3
+*** FLOP *** [7s 9c Qd]
+ct-650: bets $3
+TOMSNx: folds
+Uncalled bet ($3) returned to ct-650
+ct-650 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7s 9c Qd]
+Seat 1: TOMSNx (button) (small blind) folded on the Flop
+Seat 5: ct-650 (big blind) collected ($17.64)
+
+

@@ -1,0 +1,85 @@
+PokerStars Hand #163572166861:  Hold'em Limit ($3/$6 USD) - 2016/12/26 16:58:51 ET
+Table 'Brita' 6-max Seat #1 is the button
+Seat 1: davyyyyyyy ($121 in chips)
+Seat 3: sienvan ($29 in chips)
+davyyyyyyy: posts small blind $1
+sienvan: posts big blind $3
+*** HOLE CARDS ***
+davyyyyyyy: calls $2
+sienvan: raises $3 to $6
+davyyyyyyy: calls $3
+*** FLOP *** [Kh 4h 7s]
+sienvan: checks
+davyyyyyyy: checks
+*** TURN *** [Kh 4h 7s] [4s]
+sienvan: checks
+davyyyyyyy: checks
+*** RIVER *** [Kh 4h 7s 4s] [Qc]
+sienvan: checks
+davyyyyyyy: checks
+*** SHOW DOWN ***
+sienvan: shows [As Tc] (a pair of Fours)
+Artachok joins the table at seat #6
+davyyyyyyy: mucks hand
+sienvan collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kh 4h 7s 4s Qc]
+Seat 1: davyyyyyyy (button) (small blind) mucked
+Seat 3: sienvan (big blind) showed [As Tc] and won ($11.76) with a pair of Fours
+
+
+PokerStars Hand #163574162644:  Hold'em Limit ($3/$6 USD) - 2016/12/26 17:30:17 ET
+Table 'Brita' 6-max Seat #1 is the button
+Seat 1: Chessnok ($227.91 in chips)
+Seat 6: ToDaFelt ($106 in chips)
+Chessnok: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [Jh Jd 6c]
+ToDaFelt: checks
+Chessnok: bets $3
+ToDaFelt: raises $3 to $6
+Chessnok: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $17.64 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Jh Jd 6c]
+Seat 1: Chessnok (button) (small blind) folded on the Flop
+Seat 6: ToDaFelt (big blind) collected ($17.64)
+
+
+PokerStars Hand #163574185842:  Hold'em Limit ($3/$6 USD) - 2016/12/26 17:30:37 ET
+Table 'Brita' 6-max Seat #6 is the button
+Seat 1: Chessnok ($218.91 in chips)
+Seat 6: ToDaFelt ($114.64 in chips)
+ToDaFelt: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [3s 9h 2h]
+Chessnok: checks
+ToDaFelt: checks
+*** TURN *** [3s 9h 2h] [9d]
+UNABELIEVE leaves the table
+Chessnok: bets $6
+ToDaFelt: calls $6
+*** RIVER *** [3s 9h 2h 9d] [9c]
+Chessnok: bets $6
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+Chessnok: shows [7s Ts] (three of a kind, Nines)
+ToDaFelt: shows [Qh 5d] (three of a kind, Nines - Queen kicker)
+ToDaFelt collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [3s 9h 2h 9d 9c]
+Seat 1: Chessnok (big blind) showed [7s Ts] and lost with three of a kind, Nines
+Seat 6: ToDaFelt (button) (small blind) showed [Qh 5d] and won ($35.50) with three of a kind, Nines
+
+

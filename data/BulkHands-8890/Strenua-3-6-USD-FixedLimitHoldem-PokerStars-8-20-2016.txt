@@ -1,0 +1,121 @@
+PokerStars Hand #157505117714:  Hold'em Limit ($3/$6 USD) - 2016/08/20 6:15:46 ET
+Table 'Strenua' 6-max Seat #3 is the button
+Seat 3: a00017 ($132.52 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+a00017: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+a00017: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: a00017 (button) (small blind) folded before Flop
+Seat 4: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #157505114934:  Hold'em Limit ($3/$6 USD) - 2016/08/20 6:15:39 ET
+Table 'Strenua' 6-max Seat #4 is the button
+Seat 3: a00017 ($131.52 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+a00017: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: folds
+Uncalled bet ($2) returned to a00017
+a00017 collected $2 from pot
+a00017: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: a00017 (big blind) collected ($2)
+Seat 4: VolkovDmitri (button) (small blind) folded before Flop
+
+
+PokerStars Hand #157505106431:  Hold'em Limit ($3/$6 USD) - 2016/08/20 6:15:17 ET
+Table 'Strenua' 6-max Seat #3 is the button
+Seat 3: a00017 ($120 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+a00017: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+a00017: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+a00017: calls $3
+*** FLOP *** [Jd Qd Ks]
+VolkovDmitri: bets $3
+a00017: calls $3
+*** TURN *** [Jd Qd Ks] [Td]
+VolkovDmitri: checks
+a00017: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to a00017
+a00017 collected $23.52 from pot
+a00017: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Jd Qd Ks Td]
+Seat 3: a00017 (button) (small blind) collected ($23.52)
+Seat 4: VolkovDmitri (big blind) folded on the Turn
+
+
+PokerStars Hand #157505132218:  Hold'em Limit ($3/$6 USD) - 2016/08/20 6:16:23 ET
+Table 'Strenua' 6-max Seat #3 is the button
+Seat 3: a00017 ($149.02 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+a00017: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+a00017: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+a00017: calls $3
+*** FLOP *** [Td 4d 9d]
+VolkovDmitri: bets $3
+a00017: calls $3
+*** TURN *** [Td 4d 9d] [Ah]
+VolkovDmitri: checks
+a00017: checks
+*** RIVER *** [Td 4d 9d Ah] [6h]
+VolkovDmitri: checks
+a00017: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+a00017: shows [Th Jh] (a pair of Tens)
+VolkovDmitri: mucks hand
+a00017 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Td 4d 9d Ah 6h]
+Seat 3: a00017 (button) (small blind) showed [Th Jh] and won ($35.50) with a pair of Tens
+Seat 4: VolkovDmitri (big blind) mucked
+
+
+PokerStars Hand #157505119912:  Hold'em Limit ($3/$6 USD) - 2016/08/20 6:15:52 ET
+Table 'Strenua' 6-max Seat #4 is the button
+Seat 3: a00017 ($131.52 in chips)
+Seat 4: VolkovDmitri ($121 in chips)
+VolkovDmitri: posts small blind $1
+a00017: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+a00017: calls $3
+*** FLOP *** [Qs Jc 3d]
+a00017: checks
+VolkovDmitri: checks
+*** TURN *** [Qs Jc 3d] [5s]
+a00017: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [Qs Jc 3d 5s] [8c]
+a00017: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+a00017: shows [9s Ts] (a straight, Eight to Queen)
+VolkovDmitri: mucks hand
+a00017 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Qs Jc 3d 5s 8c]
+Seat 3: a00017 (big blind) showed [9s Ts] and won ($35.50) with a straight, Eight to Queen
+Seat 4: VolkovDmitri (button) (small blind) mucked
+
+

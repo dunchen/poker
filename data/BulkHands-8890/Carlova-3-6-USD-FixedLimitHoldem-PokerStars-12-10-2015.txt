@@ -1,0 +1,62 @@
+PokerStars Hand #145099458137:  Hold'em Limit ($3/$6 USD) - 2015/12/09 18:57:52 ET
+Table 'Carlova' 6-max Seat #1 is the button
+Seat 1: Zubasa07 ($476 in chips)
+Seat 6: harrydonkey ($143.50 in chips)
+Zubasa07: posts small blind $1
+harrydonkey: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+harrydonkey: calls $3
+*** FLOP *** [8h Tc 9s]
+harrydonkey: checks
+Zubasa07: bets $3
+harrydonkey: calls $3
+*** TURN *** [8h Tc 9s] [3s]
+harrydonkey: checks
+Zubasa07: bets $6
+harrydonkey: raises $6 to $12
+Zubasa07: calls $6
+*** RIVER *** [8h Tc 9s 3s] [Qd]
+harrydonkey: bets $6
+Zubasa07: calls $6
+*** SHOW DOWN ***
+harrydonkey: shows [7h Jd] (a straight, Eight to Queen)
+Zubasa07: mucks hand
+harrydonkey collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [8h Tc 9s 3s Qd]
+Seat 1: Zubasa07 (button) (small blind) mucked
+Seat 6: harrydonkey (big blind) showed [7h Jd] and won ($53.50) with a straight, Eight to Queen
+
+
+PokerStars Hand #145099504818:  Hold'em Limit ($3/$6 USD) - 2015/12/09 18:59:15 ET
+Table 'Carlova' 6-max Seat #6 is the button
+Seat 1: Zubasa07 ($449 in chips)
+Seat 6: harrydonkey ($170 in chips)
+harrydonkey: posts small blind $1
+Zubasa07: posts big blind $3
+*** HOLE CARDS ***
+harrydonkey: raises $3 to $6
+Zubasa07: raises $3 to $9
+harrydonkey: calls $3
+*** FLOP *** [6h 7c 8s]
+Zubasa07: bets $3
+harrydonkey: calls $3
+*** TURN *** [6h 7c 8s] [3h]
+Zubasa07: bets $6
+harrydonkey: calls $6
+*** RIVER *** [6h 7c 8s 3h] [Jd]
+Zubasa07: checks
+harrydonkey: checks
+*** SHOW DOWN ***
+Zubasa07: shows [Kd Ah] (high card Ace)
+harrydonkey: mucks hand
+Zubasa07 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6h 7c 8s 3h Jd]
+Seat 1: Zubasa07 (big blind) showed [Kd Ah] and won ($35.50) with high card Ace
+Seat 6: harrydonkey (button) (small blind) mucked
+
+

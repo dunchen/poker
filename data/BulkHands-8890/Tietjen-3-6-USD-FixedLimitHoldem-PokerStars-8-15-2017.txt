@@ -1,0 +1,60 @@
+PokerStars Hand #174371738854:  Hold'em Limit ($3/$6 USD) - 2017/08/15 14:00:11 ET
+Table 'Tietjen' 6-max Seat #1 is the button
+Seat 1: nedo1414 ($120 in chips)
+Seat 3: ToDaFelt ($120 in chips)
+nedo1414: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+nedo1414: raises $3 to $6
+vestimokrec joins the table at seat #2
+ToDaFelt: calls $3
+*** FLOP *** [7h 9h Jh]
+ToDaFelt: checks
+nedo1414: bets $3
+ToDaFelt: calls $3
+*** TURN *** [7h 9h Jh] [7d]
+ToDaFelt: checks
+nedo1414: checks
+*** RIVER *** [7h 9h Jh 7d] [5d]
+ToDaFelt: bets $6
+nedo1414: calls $6
+Geringste1 joins the table at seat #4
+*** SHOW DOWN ***
+ToDaFelt: shows [3h As] (a pair of Sevens)
+nedo1414: mucks hand
+ToDaFelt collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7h 9h Jh 7d 5d]
+Seat 1: nedo1414 (button) (small blind) mucked
+Seat 3: ToDaFelt (big blind) showed [3h As] and won ($29.50) with a pair of Sevens
+
+
+PokerStars Hand #174373428910:  Hold'em Limit ($3/$6 USD) - 2017/08/15 14:39:06 ET
+Table 'Tietjen' 6-max Seat #4 is the button
+Seat 3: favete lin ($109.29 in chips)
+Seat 4: Geringste1 ($154.21 in chips)
+Geringste1: posts small blind $1
+B_loJkl: is sitting out
+favete lin: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl leaves the table
+Geringste1: raises $3 to $6
+vestimokrec leaves the table
+favete lin: calls $3
+*** FLOP *** [9h 8h 5c]
+favete lin: checks
+Geringste1: checks
+*** TURN *** [9h 8h 5c] [8d]
+favete lin: bets $6
+Geringste1: folds
+Uncalled bet ($6) returned to favete lin
+favete lin collected $11.76 from pot
+favete lin: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9h 8h 5c 8d]
+Seat 3: favete lin (big blind) collected ($11.76)
+Seat 4: Geringste1 (button) (small blind) folded on the Turn
+
+

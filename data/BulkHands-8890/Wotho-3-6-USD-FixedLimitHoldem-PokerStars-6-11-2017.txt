@@ -1,0 +1,83 @@
+PokerStars Hand #171644505519:  Hold'em Limit ($3/$6 USD) - 2017/06/11 14:07:57 ET
+Table 'Wotho' 6-max Seat #2 is the button
+Seat 2: igmade ($98.87 in chips)
+Seat 3: simper11 ($120 in chips)
+igmade: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+igmade: calls $2
+simper11: raises $3 to $6
+igmade: calls $3
+*** FLOP *** [6d Kh Js]
+simper11: bets $3
+igmade: calls $3
+*** TURN *** [6d Kh Js] [Ts]
+simper11: bets $6
+igmade: raises $6 to $12
+simper11: calls $6
+*** RIVER *** [6d Kh Js Ts] [5s]
+simper11: checks
+igmade: bets $6
+simper11: folds
+Uncalled bet ($6) returned to igmade
+igmade collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [6d Kh Js Ts 5s]
+Seat 2: igmade (button) (small blind) collected ($41.50)
+Seat 3: simper11 (big blind) folded on the River
+
+
+PokerStars Hand #171644498898:  Hold'em Limit ($3/$6 USD) - 2017/06/11 14:07:49 ET
+Table 'Wotho' 6-max Seat #3 is the button
+Seat 2: igmade ($90.23 in chips)
+Seat 3: simper11 ($122.50 in chips)
+simper11: posts small blind $1
+igmade: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+igmade: raises $3 to $9
+simper11: calls $3
+*** FLOP *** [5c Kc Ac]
+igmade: bets $3
+simper11: folds
+Uncalled bet ($3) returned to igmade
+igmade collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5c Kc Ac]
+Seat 2: igmade (big blind) collected ($17.64)
+Seat 3: simper11 (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #171644486965:  Hold'em Limit ($3/$6 USD) - 2017/06/11 14:07:35 ET
+Table 'Wotho' 6-max Seat #2 is the button
+Seat 2: igmade ($72.73 in chips)
+Seat 3: simper11 ($140.50 in chips)
+igmade: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+igmade: raises $3 to $6
+simper11: calls $3
+*** FLOP *** [6d 9d Jh]
+simper11: checks
+igmade: checks
+*** TURN *** [6d 9d Jh] [Td]
+simper11: checks
+igmade: bets $6
+simper11: calls $6
+*** RIVER *** [6d 9d Jh Td] [Th]
+simper11: checks
+igmade: bets $6
+simper11: calls $6
+*** SHOW DOWN ***
+igmade: shows [Kd Jd] (a flush, King high)
+simper11: mucks hand
+igmade collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6d 9d Jh Td Th]
+Seat 2: igmade (button) (small blind) showed [Kd Jd] and won ($35.50) with a flush, King high
+Seat 3: simper11 (big blind) mucked
+
+

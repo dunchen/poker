@@ -1,0 +1,32 @@
+PokerStars Hand #172328269867:  Hold'em Limit ($3/$6 USD) - 2017/06/27 21:11:43 ET
+Table 'Asteria' 6-max Seat #4 is the button
+Seat 3: B_loJkl ($95.59 in chips)
+Seat 4: RaisemyNut$ ($163.86 in chips)
+RaisemyNut$: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+RaisemyNut$: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [3s 2s Qh]
+B_loJkl: checks
+RaisemyNut$: bets $3
+B_loJkl: calls $3
+*** TURN *** [3s 2s Qh] [7s]
+B_loJkl: checks
+RaisemyNut$: bets $6
+B_loJkl: calls $6
+*** RIVER *** [3s 2s Qh 7s] [8s]
+B_loJkl: checks
+RaisemyNut$: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+RaisemyNut$: shows [Js 8h] (a flush, Jack high)
+B_loJkl: mucks hand
+RaisemyNut$ collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [3s 2s Qh 7s 8s]
+Seat 3: B_loJkl (big blind) mucked
+Seat 4: RaisemyNut$ (button) (small blind) showed [Js 8h] and won ($41.50) with a flush, Jack high
+
+

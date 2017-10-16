@@ -1,0 +1,99 @@
+PokerStars Hand #158126654817:  Hold'em Limit ($3/$6 USD) - 2016/09/03 20:21:15 ET
+Table 'Recha' 6-max Seat #6 is the button
+Seat 4: AzureCaper ($72 in chips)
+Seat 6: libaikang ($167 in chips)
+libaikang: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+libaikang: calls $2
+AzureCaper: raises $3 to $6
+libaikang: calls $3
+*** FLOP *** [2d Qh 9c]
+AzureCaper: bets $3
+libaikang: calls $3
+*** TURN *** [2d Qh 9c] [Qd]
+AzureCaper: bets $6
+libaikang: folds
+Uncalled bet ($6) returned to AzureCaper
+AzureCaper collected $17.64 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2d Qh 9c Qd]
+Seat 4: AzureCaper (big blind) collected ($17.64)
+Seat 6: libaikang (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #158126665294:  Hold'em Limit ($3/$6 USD) - 2016/09/03 20:21:38 ET
+Table 'Recha' 6-max Seat #4 is the button
+Seat 4: AzureCaper ($80.64 in chips)
+Seat 6: libaikang ($158 in chips)
+AzureCaper: posts small blind $1
+libaikang: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+libaikang: raises $3 to $9
+AzureCaper: calls $3
+*** FLOP *** [4h 7c Qc]
+libaikang: checks
+AzureCaper: checks
+*** TURN *** [4h 7c Qc] [7d]
+libaikang: checks
+AzureCaper: checks
+*** RIVER *** [4h 7c Qc 7d] [8d]
+libaikang: checks
+AzureCaper: checks
+*** SHOW DOWN ***
+libaikang: shows [Kh Ah] (a pair of Sevens)
+AzureCaper: mucks hand
+libaikang collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4h 7c Qc 7d 8d]
+Seat 4: AzureCaper (button) (small blind) mucked
+Seat 6: libaikang (big blind) showed [Kh Ah] and won ($17.64) with a pair of Sevens
+
+
+PokerStars Hand #158126680087:  Hold'em Limit ($3/$6 USD) - 2016/09/03 20:22:11 ET
+Table 'Recha' 6-max Seat #6 is the button
+Seat 4: AzureCaper ($72 in chips)
+Seat 6: libaikang ($166.64 in chips)
+libaikang: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+libaikang: raises $3 to $6
+xRauIx joins the table at seat #1
+AzureCaper: calls $3
+*** FLOP *** [6c 9h Qs]
+AzureCaper: checks
+libaikang: checks
+*** TURN *** [6c 9h Qs] [Ts]
+AzureCaper: checks
+libaikang: bets $6
+AzureCaper: folds
+Uncalled bet ($6) returned to libaikang
+libaikang collected $11.76 from pot
+libaikang: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6c 9h Qs Ts]
+Seat 4: AzureCaper (big blind) folded on the Turn
+Seat 6: libaikang (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #158126693216:  Hold'em Limit ($3/$6 USD) - 2016/09/03 20:22:39 ET
+Table 'Recha' 6-max Seat #4 is the button
+Seat 4: AzureCaper ($72 in chips)
+Seat 6: libaikang ($172.40 in chips)
+AzureCaper: posts small blind $1
+libaikang: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: folds
+Uncalled bet ($2) returned to libaikang
+libaikang collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: AzureCaper (button) (small blind) folded before Flop
+Seat 6: libaikang (big blind) collected ($2)
+
+

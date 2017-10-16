@@ -1,0 +1,181 @@
+PokerStars Hand #168080784401:  Hold'em Limit ($3/$6 USD) - 2017/03/25 7:41:14 ET
+Table 'Altair' 6-max Seat #3 is the button
+Seat 3: humlefar ($50 in chips)
+Seat 5: Psynto ($72 in chips)
+humlefar: posts small blind $1
+Psynto: posts big blind $3
+*** HOLE CARDS ***
+humlefar: raises $3 to $6
+Psynto: calls $3
+*** FLOP *** [6d 9s 7d]
+majekk joins the table at seat #6
+Psynto: checks
+humlefar: bets $3
+Psynto: calls $3
+*** TURN *** [6d 9s 7d] [Qh]
+Psynto: checks
+humlefar: bets $6
+Psynto: folds
+Uncalled bet ($6) returned to humlefar
+humlefar collected $17.64 from pot
+humlefar: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6d 9s 7d Qh]
+Seat 3: humlefar (button) (small blind) collected ($17.64)
+Seat 5: Psynto (big blind) folded on the Turn
+
+
+PokerStars Hand #168080824053:  Hold'em Limit ($3/$6 USD) - 2017/03/25 7:42:35 ET
+Table 'Altair' 6-max Seat #5 is the button
+Seat 5: Psynto ($141.14 in chips)
+Seat 6: majekk ($51.30 in chips)
+Psynto: posts small blind $1
+majekk: posts big blind $3
+*** HOLE CARDS ***
+FHstyles leaves the table
+Psynto: raises $3 to $6
+majekk: calls $3
+*** FLOP *** [Ad 5s Qd]
+majekk: checks
+Psynto: bets $3
+majekk: folds
+Uncalled bet ($3) returned to Psynto
+Psynto collected $11.76 from pot
+Psynto: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ad 5s Qd]
+Seat 5: Psynto (button) (small blind) collected ($11.76)
+Seat 6: majekk (big blind) folded on the Flop
+
+
+PokerStars Hand #168080814669:  Hold'em Limit ($3/$6 USD) - 2017/03/25 7:42:16 ET
+Table 'Altair' 6-max Seat #6 is the button
+Seat 5: Psynto ($114.64 in chips)
+Seat 6: majekk ($78.30 in chips)
+majekk: posts small blind $1
+Psynto: posts big blind $3
+*** HOLE CARDS ***
+majekk: raises $3 to $6
+Psynto: calls $3
+*** FLOP *** [5d 3s Ac]
+Psynto: checks
+majekk: bets $3
+Psynto: raises $3 to $6
+majekk: raises $3 to $9
+Psynto: calls $3
+*** TURN *** [5d 3s Ac] [5h]
+Psynto: checks
+majekk: bets $6
+Psynto: raises $6 to $12
+majekk: calls $6
+*** RIVER *** [5d 3s Ac 5h] [2h]
+Psynto: bets $6
+majekk: folds
+Uncalled bet ($6) returned to Psynto
+Psynto collected $53.50 from pot
+Psynto: doesn't show hand
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [5d 3s Ac 5h 2h]
+Seat 5: Psynto (big blind) collected ($53.50)
+Seat 6: majekk (button) (small blind) folded on the River
+
+
+PokerStars Hand #168081534047:  Hold'em Limit ($3/$6 USD) - 2017/03/25 8:07:05 ET
+Table 'Altair' 6-max Seat #2 is the button
+Seat 1: riro88 ($43.40 in chips)
+Seat 2: B_loJkl ($190.62 in chips)
+B_loJkl: posts small blind $1
+makimaki: is sitting out
+Pelurile: is sitting out
+riro88: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+riro88: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $6 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: riro88 (big blind) folded before Flop
+Seat 2: B_loJkl (button) (small blind) collected ($6)
+
+
+PokerStars Hand #168081538372:  Hold'em Limit ($3/$6 USD) - 2017/03/25 8:07:13 ET
+Table 'Altair' 6-max Seat #1 is the button
+Seat 1: riro88 ($40.40 in chips)
+Seat 2: B_loJkl ($193.62 in chips)
+riro88: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+riro88: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: riro88 (button) (small blind) folded before Flop
+Seat 2: B_loJkl (big blind) collected ($2)
+
+
+PokerStars Hand #168081540536:  Hold'em Limit ($3/$6 USD) - 2017/03/25 8:07:18 ET
+Table 'Altair' 6-max Seat #2 is the button
+Seat 1: riro88 ($39.40 in chips)
+Seat 2: B_loJkl ($194.62 in chips)
+B_loJkl: posts small blind $1
+riro88: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+riro88: calls $3
+*** FLOP *** [Ts Ks Js]
+riro88: bets $3
+B_loJkl: calls $3
+*** TURN *** [Ts Ks Js] [8d]
+riro88: bets $6
+B_loJkl: calls $6
+*** RIVER *** [Ts Ks Js 8d] [7s]
+riro88: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+riro88: shows [6d Kc] (a pair of Kings)
+B_loJkl: shows [9h Ah] (a straight, Seven to Jack)
+makimaki leaves the table
+B_loJkl collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ts Ks Js 8d 7s]
+Seat 1: riro88 (big blind) showed [6d Kc] and lost with a pair of Kings
+Seat 2: B_loJkl (button) (small blind) showed [9h Ah] and won ($41.50) with a straight, Seven to Jack
+
+
+PokerStars Hand #168081553426:  Hold'em Limit ($3/$6 USD) - 2017/03/25 8:07:43 ET
+Table 'Altair' 6-max Seat #1 is the button
+Seat 1: riro88 ($18.40 in chips)
+Seat 2: B_loJkl ($215.12 in chips)
+riro88: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+riro88: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [As 8s Th]
+B_loJkl: checks
+riro88: checks
+*** TURN *** [As 8s Th] [Ac]
+B_loJkl: checks
+riro88: checks
+*** RIVER *** [As 8s Th Ac] [8c]
+B_loJkl: checks
+riro88: checks
+*** SHOW DOWN ***
+B_loJkl: shows [6h 4c] (two pair, Aces and Eights)
+riro88: shows [Qd Js] (two pair, Aces and Eights - Queen kicker)
+riro88 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [As 8s Th Ac 8c]
+Seat 1: riro88 (button) (small blind) showed [Qd Js] and won ($11.76) with two pair, Aces and Eights
+Seat 2: B_loJkl (big blind) showed [6h 4c] and lost with two pair, Aces and Eights
+
+

@@ -1,0 +1,31 @@
+PokerStars Hand #172867975663:  Hold'em Limit ($3/$6 USD) - 2017/07/10 17:46:04 ET
+Table 'Hameenlinna' 6-max Seat #4 is the button
+Seat 3: robertass84 ($143.50 in chips)
+Seat 4: MTails ($96 in chips)
+MTails: posts small blind $1
+robertass84: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+robertass84: calls $3
+*** FLOP *** [Jc 3h 8d]
+robertass84: checks
+MTails: bets $3
+robertass84: calls $3
+*** TURN *** [Jc 3h 8d] [9s]
+robertass84: checks
+MTails: checks
+*** RIVER *** [Jc 3h 8d 9s] [Ac]
+robertass84: checks
+MTails: bets $6
+robertass84: raises $6 to $12
+MTails: folds
+Uncalled bet ($6) returned to robertass84
+robertass84 collected $29.50 from pot
+robertass84: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Jc 3h 8d 9s Ac]
+Seat 3: robertass84 (big blind) collected ($29.50)
+Seat 4: MTails (button) (small blind) folded on the River
+
+

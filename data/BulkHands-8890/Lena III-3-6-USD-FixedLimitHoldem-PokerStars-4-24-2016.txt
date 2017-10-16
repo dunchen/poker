@@ -1,0 +1,35 @@
+PokerStars Hand #152371490994:  Hold'em Limit ($3/$6 USD) - 2016/04/24 9:01:01 ET
+Table 'Lena III' 6-max Seat #2 is the button
+Seat 2: ncdtje ($164.82 in chips)
+Seat 5: abatic ($75.13 in chips)
+Nirelle will be allowed to play after the button
+ncdtje: posts small blind $1
+abatic: posts big blind $3
+*** HOLE CARDS ***
+kolaz03 joins the table at seat #1
+ncdtje: raises $3 to $6
+abatic: calls $3
+*** FLOP *** [9c 4s 8c]
+VolkovDmitri leaves the table
+abatic: checks
+ncdtje: bets $3
+abatic: calls $3
+*** TURN *** [9c 4s 8c] [Jd]
+abatic: checks
+ncdtje: bets $6
+abatic: calls $6
+*** RIVER *** [9c 4s 8c Jd] [3s]
+abatic: checks
+ncdtje: bets $6
+abatic: calls $6
+*** SHOW DOWN ***
+ncdtje: shows [4h Jc] (two pair, Jacks and Fours)
+abatic: mucks hand
+ncdtje collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9c 4s 8c Jd 3s]
+Seat 2: ncdtje (button) (small blind) showed [4h Jc] and won ($41.50) with two pair, Jacks and Fours
+Seat 5: abatic (big blind) mucked
+
+

@@ -1,0 +1,34 @@
+PokerStars Hand #173810629861:  Hold'em Limit ($3/$6 USD) - 2017/08/01 20:01:27 ET
+Table 'Atami' 6-max Seat #6 is the button
+Seat 1: NewRocker ($272.07 in chips)
+Seat 6: Garuda Black ($306.11 in chips)
+Garuda Black: posts small blind $1
+NewRocker: posts big blind $3
+*** HOLE CARDS ***
+Garuda Black: raises $3 to $6
+NewRocker: calls $3
+*** FLOP *** [As 7h 6h]
+NewRocker: checks
+Garuda Black: bets $3
+NewRocker: raises $3 to $6
+Garuda Black: raises $3 to $9
+NewRocker: calls $3
+*** TURN *** [As 7h 6h] [9c]
+NewRocker: checks
+Garuda Black: bets $6
+NewRocker: calls $6
+*** RIVER *** [As 7h 6h 9c] [7s]
+NewRocker: checks
+Garuda Black: bets $6
+NewRocker: calls $6
+*** SHOW DOWN ***
+Garuda Black: shows [Ah Th] (two pair, Aces and Sevens)
+NewRocker: mucks hand
+Garuda Black collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [As 7h 6h 9c 7s]
+Seat 1: NewRocker (big blind) mucked
+Seat 6: Garuda Black (button) (small blind) showed [Ah Th] and won ($53.50) with two pair, Aces and Sevens
+
+

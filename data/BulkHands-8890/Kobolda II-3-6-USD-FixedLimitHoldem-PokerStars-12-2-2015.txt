@@ -1,0 +1,116 @@
+PokerStars Hand #144687178967:  Hold'em Limit ($3/$6 USD) - 2015/12/01 18:58:33 ET
+Table 'Kobolda II' 2-max Seat #1 is the button
+Seat 1: mobo2008 ($31.66 in chips)
+Seat 2: mdif ($516.98 in chips)
+mobo2008: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+mobo2008: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [Js 8h 6c]
+mdif: bets $3
+mobo2008: calls $3
+*** TURN *** [Js 8h 6c] [5h]
+mdif: bets $6
+mobo2008: calls $6
+*** RIVER *** [Js 8h 6c 5h] [8c]
+mdif: bets $6
+mobo2008: calls $6
+*** SHOW DOWN ***
+mdif: shows [Ks 8s] (three of a kind, Eights)
+mobo2008: mucks hand
+mdif collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Js 8h 6c 5h 8c]
+Seat 1: mobo2008 (button) (small blind) mucked
+Seat 2: mdif (big blind) showed [Ks 8s] and won ($41.50) with three of a kind, Eights
+
+
+PokerStars Hand #144687202188:  Hold'em Limit ($3/$6 USD) - 2015/12/01 18:59:14 ET
+Table 'Kobolda II' 2-max Seat #2 is the button
+Seat 1: mobo2008 ($10.66 in chips)
+Seat 2: mdif ($537.48 in chips)
+mdif: posts small blind $1
+mobo2008: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+mobo2008: calls $3
+*** FLOP *** [3h 2d Jh]
+mobo2008: checks
+mdif: bets $3
+mobo2008: calls $3
+*** TURN *** [3h 2d Jh] [Td]
+mobo2008: checks
+mdif: checks
+*** RIVER *** [3h 2d Jh Td] [4c]
+mobo2008: checks
+mdif: bets $6
+mobo2008: calls $1.66 and is all-in
+Uncalled bet ($4.34) returned to mdif
+*** SHOW DOWN ***
+mdif: shows [5d Ah] (a straight, Ace to Five)
+mobo2008: shows [8h 5s] (high card Jack)
+mdif collected $20.89 from pot
+*** SUMMARY ***
+Total pot $21.32 | Rake $0.43
+Board [3h 2d Jh Td 4c]
+Seat 1: mobo2008 (big blind) showed [8h 5s] and lost with high card Jack
+Seat 2: mdif (button) (small blind) showed [5d Ah] and won ($20.89) with a straight, Ace to Five
+
+
+PokerStars Hand #144687259927:  Hold'em Limit ($3/$6 USD) - 2015/12/01 19:00:52 ET
+Table 'Kobolda II' 2-max Seat #1 is the button
+Seat 1: mobo2008 ($30 in chips)
+Seat 2: mdif ($547.71 in chips)
+mobo2008: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+mobo2008: calls $2
+mdif: checks
+*** FLOP *** [5c 3s 3c]
+mdif: bets $3
+mobo2008: calls $3
+*** TURN *** [5c 3s 3c] [4s]
+mdif: bets $6
+mobo2008: calls $6
+*** RIVER *** [5c 3s 3c 4s] [Kc]
+mdif: bets $6
+mobo2008: calls $6
+*** SHOW DOWN ***
+mdif: shows [Tc 9c] (a flush, King high)
+mobo2008: mucks hand
+mdif collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5c 3s 3c 4s Kc]
+Seat 1: mobo2008 (button) (small blind) mucked
+Seat 2: mdif (big blind) showed [Tc 9c] and won ($35.50) with a flush, King high
+
+
+PokerStars Hand #144687282771:  Hold'em Limit ($3/$6 USD) - 2015/12/01 19:01:27 ET
+Table 'Kobolda II' 2-max Seat #2 is the button
+Seat 1: mobo2008 ($12 in chips)
+Seat 2: mdif ($565.21 in chips)
+mdif: posts small blind $1
+mobo2008: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+mobo2008: calls $3
+*** FLOP *** [3h 2c 6d]
+mobo2008: bets $3
+mdif: raises $3 to $6
+mobo2008: calls $3 and is all-in
+*** TURN *** [3h 2c 6d] [8c]
+*** RIVER *** [3h 2c 6d 8c] [4h]
+*** SHOW DOWN ***
+mobo2008: shows [7c Ac] (high card Ace)
+mdif: shows [Ah 8s] (a pair of Eights)
+mdif collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [3h 2c 6d 8c 4h]
+Seat 1: mobo2008 (big blind) showed [7c Ac] and lost with high card Ace
+Seat 2: mdif (button) (small blind) showed [Ah 8s] and won ($23.52) with a pair of Eights
+
+

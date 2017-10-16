@@ -1,0 +1,84 @@
+PokerStars Hand #158183169419:  Hold'em Limit ($3/$6 USD) - 2016/09/05 4:21:40 ET
+Table 'Concordia II' 6-max Seat #2 is the button
+Seat 1: vonpluring ($18 in chips)
+Seat 2: Agrotait ($83.52 in chips)
+Agrotait: posts small blind $1
+vonpluring: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+vonpluring: calls $3
+*** FLOP *** [Qd 5c 8c]
+vonpluring: checks
+Agrotait: checks
+*** TURN *** [Qd 5c 8c] [2s]
+vonpluring: checks
+Agrotait: bets $6
+vonpluring: folds
+Uncalled bet ($6) returned to Agrotait
+Agrotait collected $11.76 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qd 5c 8c 2s]
+Seat 1: vonpluring (big blind) folded on the Turn
+Seat 2: Agrotait (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #158183156584:  Hold'em Limit ($3/$6 USD) - 2016/09/05 4:20:55 ET
+Table 'Concordia II' 6-max Seat #1 is the button
+Seat 1: vonpluring ($30 in chips)
+Seat 2: Agrotait ($72 in chips)
+vonpluring: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+vonpluring: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [7s 3h 2h]
+Agrotait: checks
+vonpluring: checks
+*** TURN *** [7s 3h 2h] [Js]
+Agrotait: bets $6
+vonpluring: calls $6
+*** RIVER *** [7s 3h 2h Js] [3c]
+Agrotait: checks
+vonpluring: checks
+*** SHOW DOWN ***
+Agrotait: shows [Kc 5h] (a pair of Threes)
+vonpluring: mucks hand
+Agrotait collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [7s 3h 2h Js 3c]
+Seat 1: vonpluring (button) (small blind) mucked
+Seat 2: Agrotait (big blind) showed [Kc 5h] and won ($23.52) with a pair of Threes
+
+
+PokerStars Hand #158183178784:  Hold'em Limit ($3/$6 USD) - 2016/09/05 4:22:12 ET
+Table 'Concordia II' 6-max Seat #1 is the button
+Seat 1: vonpluring ($12 in chips)
+Seat 2: Agrotait ($89.28 in chips)
+vonpluring: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+vonpluring: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [Kd 7c As]
+Agrotait: checks
+vonpluring: bets $3
+Agrotait: calls $3
+*** TURN *** [Kd 7c As] [3d]
+Agrotait: checks
+vonpluring: bets $3 and is all-in
+Agrotait: calls $3
+*** RIVER *** [Kd 7c As 3d] [Ac]
+*** SHOW DOWN ***
+Agrotait: shows [4h Kc] (two pair, Aces and Kings)
+vonpluring: shows [Th 9d] (a pair of Aces)
+Agrotait collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Kd 7c As 3d Ac]
+Seat 1: vonpluring (button) (small blind) showed [Th 9d] and lost with a pair of Aces
+Seat 2: Agrotait (big blind) showed [4h Kc] and won ($23.52) with two pair, Aces and Kings
+
+

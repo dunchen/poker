@@ -1,0 +1,56 @@
+PokerStars Hand #154131069099:  Hold'em Limit ($3/$6 USD) - 2016/06/01 5:48:42 ET
+Table 'Requiem' 6-max Seat #6 is the button
+Seat 4: Agrotait ($72 in chips)
+Seat 6: Solydz ($120 in chips)
+Solydz: posts small blind $1
+Ale4o joins the table at seat #1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+Solydz: calls $2
+Agrotait: raises $3 to $6
+Solydz: calls $3
+*** FLOP *** [3h As 9c]
+Agrotait: bets $3
+Solydz: raises $3 to $6
+Agrotait: calls $3
+*** TURN *** [3h As 9c] [Kc]
+Agrotait: checks
+Solydz: bets $6
+Agrotait: calls $6
+*** RIVER *** [3h As 9c Kc] [5c]
+Agrotait: checks
+Solydz: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+Solydz: shows [Qh Ah] (a pair of Aces)
+Agrotait: mucks hand
+Solydz collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3h As 9c Kc 5c]
+Seat 4: Agrotait (big blind) mucked
+Seat 6: Solydz (button) (small blind) showed [Qh Ah] and won ($47.50) with a pair of Aces
+
+
+PokerStars Hand #154131087655:  Hold'em Limit ($3/$6 USD) - 2016/06/01 5:49:33 ET
+Table 'Requiem' 6-max Seat #4 is the button
+Seat 4: Agrotait ($72 in chips)
+Seat 6: Solydz ($143.50 in chips)
+Agrotait: posts small blind $1
+Solydz: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+Solydz: calls $3
+*** FLOP *** [Qc Kd Kc]
+Solydz: bets $3
+Agrotait: folds
+Uncalled bet ($3) returned to Solydz
+Solydz collected $11.76 from pot
+Solydz: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qc Kd Kc]
+Seat 4: Agrotait (button) (small blind) folded on the Flop
+Seat 6: Solydz (big blind) collected ($11.76)
+
+

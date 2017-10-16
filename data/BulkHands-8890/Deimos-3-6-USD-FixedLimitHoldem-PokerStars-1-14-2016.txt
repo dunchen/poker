@@ -1,0 +1,32 @@
+PokerStars Hand #147030142996:  Hold'em Limit ($3/$6 USD) - 2016/01/14 13:02:48 ET
+Table 'Deimos' 6-max Seat #3 is the button
+Seat 3: kismespit ($153.52 in chips)
+Seat 4: Mordnilap ($72 in chips)
+kismespit: posts small blind $1
+Mordnilap: posts big blind $3
+*** HOLE CARDS ***
+kismespit: raises $3 to $6
+Mordnilap: calls $3
+*** FLOP *** [5d Ad 4d]
+Mordnilap: checks
+kismespit: bets $3
+Mordnilap: calls $3
+*** TURN *** [5d Ad 4d] [Qc]
+Mordnilap: checks
+kismespit: bets $6
+Mordnilap: calls $6
+*** RIVER *** [5d Ad 4d Qc] [Jc]
+Mordnilap: checks
+kismespit: bets $6
+Mordnilap: calls $6
+*** SHOW DOWN ***
+kismespit: shows [Tc Ah] (a pair of Aces)
+Mordnilap: mucks hand
+kismespit collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [5d Ad 4d Qc Jc]
+Seat 3: kismespit (button) (small blind) showed [Tc Ah] and won ($41.50) with a pair of Aces
+Seat 4: Mordnilap (big blind) mucked
+
+

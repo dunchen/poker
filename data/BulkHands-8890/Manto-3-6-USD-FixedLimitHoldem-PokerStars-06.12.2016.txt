@@ -1,0 +1,57 @@
+PokerStars Hand #162483480755:  Hold'em Limit ($3/$6 USD) - 2016/12/05 20:14:19 ET
+Table 'Manto' 6-max Seat #2 is the button
+Seat 2: Paulllchen ($96.99 in chips)
+Seat 6: ToDaFelt ($80.97 in chips)
+Paulllchen: posts small blind $1
+RaisemyNut$: is sitting out
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+Paulllchen: raises $3 to $6
+RaisemyNut$ leaves the table
+ToDaFelt: calls $3
+*** FLOP *** [7s 9h Jc]
+ToDaFelt: checks
+Paulllchen: checks
+*** TURN *** [7s 9h Jc] [Th]
+ToDaFelt: checks
+Paulllchen: checks
+*** RIVER *** [7s 9h Jc Th] [3d]
+ToDaFelt: bets $6
+Paulllchen: folds
+Uncalled bet ($6) returned to ToDaFelt
+ToDaFelt collected $11.76 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7s 9h Jc Th 3d]
+Seat 2: Paulllchen (button) (small blind) folded on the River
+Seat 6: ToDaFelt (big blind) collected ($11.76)
+
+
+PokerStars Hand #162483517184:  Hold'em Limit ($3/$6 USD) - 2016/12/05 20:15:14 ET
+Table 'Manto' 6-max Seat #6 is the button
+Seat 2: Paulllchen ($90.99 in chips)
+Seat 6: ToDaFelt ($86.73 in chips)
+ToDaFelt: posts small blind $1
+Paulllchen: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+Paulllchen: raises $3 to $9
+ToDaFelt: calls $3
+*** FLOP *** [As Jh Ah]
+Paulllchen: bets $3
+ToDaFelt: calls $3
+*** TURN *** [As Jh Ah] [3s]
+Paulllchen: checks
+ToDaFelt: bets $6
+Paulllchen: folds
+Uncalled bet ($6) returned to ToDaFelt
+ToDaFelt collected $23.52 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [As Jh Ah 3s]
+Seat 2: Paulllchen (big blind) folded on the Turn
+Seat 6: ToDaFelt (button) (small blind) collected ($23.52)
+
+

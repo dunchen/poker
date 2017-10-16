@@ -1,0 +1,89 @@
+PokerStars Hand #149333527701:  Hold'em Limit ($3/$6 USD) - 2016/02/24 8:19:20 ET
+Table 'Electra II' 6-max Seat #3 is the button
+Seat 3: JAMAL LEMOER ($60 in chips)
+Seat 4: TbIP-TbIP 88 ($72 in chips)
+JAMAL LEMOER: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+JAMAL LEMOER: raises $3 to $6
+TbIP-TbIP 88: calls $3
+*** FLOP *** [3s Jh 7c]
+TbIP-TbIP 88: checks
+JAMAL LEMOER: checks
+*** TURN *** [3s Jh 7c] [3c]
+TbIP-TbIP 88: checks
+JAMAL LEMOER: bets $6
+B_loJkl joins the table at seat #5
+TbIP-TbIP 88: folds
+Uncalled bet ($6) returned to JAMAL LEMOER
+JAMAL LEMOER collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3s Jh 7c 3c]
+Seat 3: JAMAL LEMOER (button) (small blind) collected ($11.76)
+Seat 4: TbIP-TbIP 88 (big blind) folded on the Turn
+
+
+PokerStars Hand #149333677219:  Hold'em Limit ($3/$6 USD) - 2016/02/24 8:23:20 ET
+Table 'Electra II' 6-max Seat #1 is the button
+Seat 1: Psynto ($72 in chips)
+Seat 6: Chrisgalo33 ($37.46 in chips)
+Psynto: posts small blind $1
+TbIP-TbIP 88: is sitting out
+B_loJkl: is sitting out
+Chrisgalo33: posts big blind $3
+*** HOLE CARDS ***
+Psynto: raises $3 to $6
+TbIP-TbIP 88 leaves the table
+Chrisgalo33: calls $3
+*** FLOP *** [9c 7c 6d]
+B_loJkl leaves the table
+Chrisgalo33: checks
+Psynto: bets $3
+Chrisgalo33: calls $3
+*** TURN *** [9c 7c 6d] [8h]
+Chrisgalo33: checks
+Psynto: checks
+*** RIVER *** [9c 7c 6d 8h] [Jh]
+Chrisgalo33: bets $6
+Psynto: calls $6
+*** SHOW DOWN ***
+Chrisgalo33: shows [8s 6c] (two pair, Eights and Sixes)
+Psynto: mucks hand
+Chrisgalo33 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9c 7c 6d 8h Jh]
+Seat 1: Psynto (button) (small blind) mucked
+Seat 6: Chrisgalo33 (big blind) showed [8s 6c] and won ($29.50) with two pair, Eights and Sixes
+
+
+PokerStars Hand #149333693291:  Hold'em Limit ($3/$6 USD) - 2016/02/24 8:23:45 ET
+Table 'Electra II' 6-max Seat #6 is the button
+Seat 1: Psynto ($72 in chips)
+Seat 6: Chrisgalo33 ($51.96 in chips)
+Chrisgalo33: posts small blind $1
+Psynto: posts big blind $3
+*** HOLE CARDS ***
+Chrisgalo33: raises $3 to $6
+Psynto: calls $3
+*** FLOP *** [9d 9h Jd]
+Psynto: checks
+Chrisgalo33: bets $3
+Psynto: calls $3
+*** TURN *** [9d 9h Jd] [2s]
+Psynto: checks
+Chrisgalo33: checks
+*** RIVER *** [9d 9h Jd 2s] [Js]
+Psynto: bets $6
+Chrisgalo33: folds
+Uncalled bet ($6) returned to Psynto
+Psynto collected $17.64 from pot
+Psynto: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9d 9h Jd 2s Js]
+Seat 1: Psynto (big blind) collected ($17.64)
+Seat 6: Chrisgalo33 (button) (small blind) folded on the River
+
+

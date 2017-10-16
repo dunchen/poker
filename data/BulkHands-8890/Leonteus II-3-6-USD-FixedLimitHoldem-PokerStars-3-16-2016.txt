@@ -1,0 +1,60 @@
+PokerStars Hand #150445886841:  Hold'em Limit ($3/$6 USD) - 2016/03/16 12:52:27 ET
+Table 'Leonteus II' 10-max Seat #1 is the button
+Seat 1: Zubasa07 ($500 in chips)
+Seat 6: RowntreWilly ($30 in chips)
+Zubasa07: posts small blind $1
+RowntreWilly: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+RowntreWilly: calls $3
+*** FLOP *** [Tc 5c 9d]
+RowntreWilly: checks
+GRAILKO joins the table at seat #7
+Zubasa07: bets $3
+RowntreWilly: calls $3
+*** TURN *** [Tc 5c 9d] [Ts]
+RowntreWilly: checks
+Zubasa07: checks
+*** RIVER *** [Tc 5c 9d Ts] [3c]
+RowntreWilly: bets $6
+Zubasa07: calls $6
+*** SHOW DOWN ***
+RowntreWilly: shows [9s 9h] (a full house, Nines full of Tens)
+Zubasa07: mucks hand
+RowntreWilly collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Tc 5c 9d Ts 3c]
+Seat 1: Zubasa07 (button) (small blind) mucked
+Seat 6: RowntreWilly (big blind) showed [9s 9h] and won ($29.50) with a full house, Nines full of Tens
+
+
+PokerStars Hand #150446298397:  Hold'em Limit ($3/$6 USD) - 2016/03/16 13:01:44 ET
+Table 'Leonteus II' 10-max Seat #7 is the button
+Seat 6: RowntreWilly ($10.40 in chips)
+Seat 7: GRAILKO ($225.01 in chips)
+GRAILKO: posts small blind $1
+Zubasa07: is sitting out
+RowntreWilly: posts big blind $3
+*** HOLE CARDS ***
+GRAILKO: raises $3 to $6
+RowntreWilly: calls $3
+*** FLOP *** [6h 3c 6d]
+RowntreWilly: bets $3
+GRAILKO: raises $3 to $6
+RowntreWilly: calls $1.40 and is all-in
+Uncalled bet ($1.60) returned to GRAILKO
+Zubasa07 leaves the table
+*** TURN *** [6h 3c 6d] [As]
+*** RIVER *** [6h 3c 6d As] [Tc]
+*** SHOW DOWN ***
+RowntreWilly: shows [Ts Jh] (two pair, Tens and Sixes)
+GRAILKO: shows [8h Ac] (two pair, Aces and Sixes)
+GRAILKO collected $20.38 from pot
+*** SUMMARY ***
+Total pot $20.80 | Rake $0.42
+Board [6h 3c 6d As Tc]
+Seat 6: RowntreWilly (big blind) showed [Ts Jh] and lost with two pair, Tens and Sixes
+Seat 7: GRAILKO (button) (small blind) showed [8h Ac] and won ($20.38) with two pair, Aces and Sixes
+
+

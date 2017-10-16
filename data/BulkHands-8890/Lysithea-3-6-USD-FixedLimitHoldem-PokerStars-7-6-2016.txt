@@ -1,0 +1,67 @@
+PokerStars Hand #155630667869:  Hold'em Limit ($3/$6 USD) - 2016/07/06 8:33:46 ET
+Table 'Lysithea' 6-max Seat #3 is the button
+Seat 3: misss12 ($100 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+misss12: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Ale4o joins the table at seat #5
+misss12: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+misss12: raises $3 to $12
+Betting is capped
+VolkovDmitri: calls $3
+*** FLOP *** [7h 8s 4d]
+VolkovDmitri: checks
+misss12: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [7h 8s 4d] [2s]
+VolkovDmitri: checks
+misss12: checks
+*** RIVER *** [7h 8s 4d 2s] [5c]
+VolkovDmitri: checks
+misss12: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [Kc Qh] (high card King)
+misss12: shows [Td Ac] (high card Ace)
+misss12 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7h 8s 4d 2s 5c]
+Seat 3: misss12 (button) (small blind) showed [Td Ac] and won ($29.50) with high card Ace
+Seat 4: VolkovDmitri (big blind) showed [Kc Qh] and lost with high card King
+
+
+PokerStars Hand #155633419798:  Hold'em Limit ($3/$6 USD) - 2016/07/06 10:05:45 ET
+Table 'Lysithea' 6-max Seat #2 is the button
+Seat 2: NKTN ($25.82 in chips)
+Seat 3: siliciom ($75.51 in chips)
+NKTN: posts small blind $1
+siliciom: posts big blind $3
+*** HOLE CARDS ***
+HAL9QQQ leaves the table
+VolkovDmitri leaves the table
+NKTN: raises $3 to $6
+siliciom: calls $3
+*** FLOP *** [8s 6c 5s]
+siliciom: checks
+NKTN: bets $3
+siliciom: raises $3 to $6
+NKTN: calls $3
+*** TURN *** [8s 6c 5s] [Ks]
+siliciom: bets $6
+NKTN: calls $6
+*** RIVER *** [8s 6c 5s Ks] [Jh]
+siliciom: bets $6
+NKTN: calls $6
+*** SHOW DOWN ***
+siliciom: shows [8h Kh] (two pair, Kings and Eights)
+NKTN: mucks hand
+siliciom collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8s 6c 5s Ks Jh]
+Seat 2: NKTN (button) (small blind) mucked
+Seat 3: siliciom (big blind) showed [8h Kh] and won ($47.50) with two pair, Kings and Eights
+
+

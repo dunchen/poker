@@ -1,0 +1,139 @@
+PokerStars Hand #163746066383:  Hold'em Limit ($3/$6 USD) - 2016/12/29 20:13:26 ET
+Table 'Xanthippe' 6-max Seat #4 is the button
+Seat 3: wide64 ($90.70 in chips)
+Seat 4: AzureCaper ($86.50 in chips)
+AzureCaper: posts small blind $1
+wide64: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: folds
+Uncalled bet ($2) returned to wide64
+wide64 collected $2 from pot
+wide64: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: wide64 (big blind) collected ($2)
+Seat 4: AzureCaper (button) (small blind) folded before Flop
+
+
+PokerStars Hand #163746050359:  Hold'em Limit ($3/$6 USD) - 2016/12/29 20:13:00 ET
+Table 'Xanthippe' 6-max Seat #3 is the button
+Seat 3: wide64 ($105.70 in chips)
+Seat 4: AzureCaper ($72 in chips)
+wide64: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+wide64: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [Qc 8s 6s]
+AzureCaper: checks
+wide64: bets $3
+AzureCaper: calls $3
+*** TURN *** [Qc 8s 6s] [3d]
+AzureCaper: checks
+wide64: checks
+*** RIVER *** [Qc 8s 6s 3d] [9h]
+AzureCaper: bets $6
+wide64: calls $6
+*** SHOW DOWN ***
+AzureCaper: shows [3h 6c] (two pair, Sixes and Threes)
+wide64: mucks hand
+AzureCaper collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qc 8s 6s 3d 9h]
+Seat 3: wide64 (button) (small blind) mucked
+Seat 4: AzureCaper (big blind) showed [3h 6c] and won ($29.50) with two pair, Sixes and Threes
+
+
+PokerStars Hand #163746069756:  Hold'em Limit ($3/$6 USD) - 2016/12/29 20:13:31 ET
+Table 'Xanthippe' 6-max Seat #3 is the button
+Seat 3: wide64 ($91.70 in chips)
+Seat 4: AzureCaper ($85.50 in chips)
+wide64: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+wide64: calls $2
+AzureCaper: raises $3 to $6
+wide64: calls $3
+*** FLOP *** [Ad 5d Td]
+AzureCaper: bets $3
+wide64: folds
+Uncalled bet ($3) returned to AzureCaper
+AzureCaper collected $11.76 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ad 5d Td]
+Seat 3: wide64 (button) (small blind) folded on the Flop
+Seat 4: AzureCaper (big blind) collected ($11.76)
+
+
+PokerStars Hand #163746086525:  Hold'em Limit ($3/$6 USD) - 2016/12/29 20:13:58 ET
+Table 'Xanthippe' 6-max Seat #3 is the button
+Seat 3: wide64 ($86.70 in chips)
+Seat 4: AzureCaper ($90.26 in chips)
+wide64: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+wide64: folds
+Uncalled bet ($2) returned to AzureCaper
+AzureCaper collected $2 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: wide64 (button) (small blind) folded before Flop
+Seat 4: AzureCaper (big blind) collected ($2)
+
+
+PokerStars Hand #163746077405:  Hold'em Limit ($3/$6 USD) - 2016/12/29 20:13:44 ET
+Table 'Xanthippe' 6-max Seat #4 is the button
+Seat 3: wide64 ($85.70 in chips)
+Seat 4: AzureCaper ($91.26 in chips)
+ToDaFelt joins the table at seat #5
+AzureCaper: posts small blind $1
+wide64: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: folds
+Uncalled bet ($2) returned to wide64
+wide64 collected $2 from pot
+wide64: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: wide64 (big blind) collected ($2)
+Seat 4: AzureCaper (button) (small blind) folded before Flop
+
+
+PokerStars Hand #163746698566:  Hold'em Limit ($3/$6 USD) - 2016/12/29 20:30:33 ET
+Table 'Xanthippe' 6-max Seat #5 is the button
+Seat 5: ToDaFelt ($76.84 in chips)
+Seat 6: beng_51 ($236.31 in chips)
+denn69 will be allowed to play after the button
+ToDaFelt: posts small blind $1
+beng_51: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+beng_51: calls $3
+*** FLOP *** [9c 6s Qc]
+beng_51: checks
+ToDaFelt: bets $3
+beng_51: raises $3 to $6
+ToDaFelt: calls $3
+*** TURN *** [9c 6s Qc] [3h]
+beng_51: bets $6
+ToDaFelt: raises $6 to $12
+beng_51: calls $6
+*** RIVER *** [9c 6s Qc 3h] [Ah]
+beng_51: checks
+ToDaFelt: bets $6
+beng_51: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [6d 9h] (two pair, Nines and Sixes)
+beng_51: mucks hand
+ToDaFelt collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [9c 6s Qc 3h Ah]
+Seat 5: ToDaFelt (button) (small blind) showed [6d 9h] and won ($59.50) with two pair, Nines and Sixes
+Seat 6: beng_51 (big blind) mucked
+
+

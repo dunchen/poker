@@ -1,0 +1,34 @@
+PokerStars Hand #145308532770:  Hold'em Limit ($3/$6 USD) - 2015/12/13 19:37:10 ET
+Table 'Laetitia' 6-max Seat #6 is the button
+Seat 1: rascal_319 ($130.71 in chips)
+Seat 6: MellivoraSto ($104.56 in chips)
+MellivoraSto: posts small blind $1
+rascal_319: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper leaves the table
+MellivoraSto: raises $3 to $6
+rascal_319: raises $3 to $9
+MellivoraSto: calls $3
+*** FLOP *** [Ts Js 8s]
+rascal_319: bets $3
+MellivoraSto: calls $3
+*** TURN *** [Ts Js 8s] [Th]
+rascal_319: bets $6
+MellivoraSto: raises $6 to $12
+rascal_319: raises $6 to $18
+MellivoraSto: calls $6
+*** RIVER *** [Ts Js 8s Th] [Jc]
+rascal_319: checks
+MellivoraSto: bets $6
+rascal_319: calls $6
+*** SHOW DOWN ***
+MellivoraSto: shows [Td 9s] (a full house, Tens full of Jacks)
+rascal_319: mucks hand
+MellivoraSto collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [Ts Js 8s Th Jc]
+Seat 1: rascal_319 (big blind) mucked
+Seat 6: MellivoraSto (button) (small blind) showed [Td 9s] and won ($71.50) with a full house, Tens full of Jacks
+
+

@@ -1,0 +1,53 @@
+PokerStars Hand #171144365785:  Hold'em Limit ($3/$6 USD) - 2017/05/31 1:28:25 ET
+Table 'Alisary' 6-max Seat #2 is the button
+Seat 2: aleks_4ym ($127.63 in chips)
+Seat 5: VolkovDmitri ($124 in chips)
+aleks_4ym: posts small blind $1
+iluvtacobell: is sitting out
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+iluvtacobell leaves the table
+aleks_4ym: raises $3 to $6
+VolkovDmitri: folds
+Uncalled bet ($3) returned to aleks_4ym
+aleks_4ym collected $6 from pot
+aleks_4ym: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: aleks_4ym (button) (small blind) collected ($6)
+Seat 5: VolkovDmitri (big blind) folded before Flop
+
+
+PokerStars Hand #171144368021:  Hold'em Limit ($3/$6 USD) - 2017/05/31 1:28:33 ET
+Table 'Alisary' 6-max Seat #5 is the button
+Seat 2: aleks_4ym ($130.63 in chips)
+Seat 5: VolkovDmitri ($121 in chips)
+VolkovDmitri: posts small blind $1
+aleks_4ym: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+aleks_4ym: raises $3 to $9
+VolkovDmitri: raises $3 to $12
+Betting is capped
+aleks_4ym: calls $3
+*** FLOP *** [7s 6c 9c]
+aleks_4ym: checks
+VolkovDmitri: bets $3
+aleks_4ym: calls $3
+*** TURN *** [7s 6c 9c] [Th]
+aleks_4ym: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [7s 6c 9c Th] [Kc]
+aleks_4ym: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+aleks_4ym: shows [Js Ad] (high card Ace)
+VolkovDmitri: shows [9s 9h] (three of a kind, Nines)
+VolkovDmitri collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [7s 6c 9c Th Kc]
+Seat 2: aleks_4ym (big blind) showed [Js Ad] and lost with high card Ace
+Seat 5: VolkovDmitri (button) (small blind) showed [9s 9h] and won ($53.50) with three of a kind, Nines
+
+

@@ -1,0 +1,36 @@
+PokerStars Hand #144630147429:  Hold'em Limit ($3/$6 USD) - 2015/11/30 16:36:34 ET
+Table 'Elvira IV' 2-max Seat #1 is the button
+Seat 1: messivr ($25.70 in chips)
+Seat 2: gutpob ($91.94 in chips)
+messivr: posts small blind $1
+gutpob: posts big blind $3
+*** HOLE CARDS ***
+messivr: raises $3 to $6
+gutpob: raises $3 to $9
+messivr: raises $3 to $12
+Betting is capped
+gutpob: calls $3
+*** FLOP *** [Ac 5h 6d]
+gutpob: bets $3
+messivr: raises $3 to $6
+gutpob: raises $3 to $9
+messivr: calls $3
+*** TURN *** [Ac 5h 6d] [Th]
+gutpob: checks
+messivr: checks
+*** RIVER *** [Ac 5h 6d Th] [3h]
+gutpob: bets $6
+messivr: calls $4.70 and is all-in
+Uncalled bet ($1.30) returned to gutpob
+*** SHOW DOWN ***
+gutpob: shows [3s 9c] (a pair of Threes)
+messivr: shows [Jc 2c] (high card Ace)
+gutpob collected $50.90 from pot
+gutpob leaves the table
+*** SUMMARY ***
+Total pot $51.40 | Rake $0.50
+Board [Ac 5h 6d Th 3h]
+Seat 1: messivr (button) (small blind) showed [Jc 2c] and lost with high card Ace
+Seat 2: gutpob (big blind) showed [3s 9c] and won ($50.90) with a pair of Threes
+
+

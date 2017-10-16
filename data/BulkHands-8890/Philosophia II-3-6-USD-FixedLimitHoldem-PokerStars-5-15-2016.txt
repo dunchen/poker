@@ -1,0 +1,103 @@
+PokerStars Hand #153370808251:  Hold'em Limit ($3/$6 USD) - 2016/05/15 17:45:10 ET
+Table 'Philosophia II' 6-max Seat #1 is the button
+Seat 1: Grieserix ($120 in chips)
+Seat 4: Actionni13 ($150 in chips)
+Grieserix: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+Grieserix: raises $3 to $6
+Actionni13: calls $3
+*** FLOP *** [8c 8d Ah]
+Actionni13: checks
+Grieserix: bets $3
+Actionni13: calls $3
+*** TURN *** [8c 8d Ah] [4s]
+Actionni13: checks
+Grieserix: checks
+*** RIVER *** [8c 8d Ah 4s] [Ac]
+Actionni13: checks
+Grieserix: checks
+*** SHOW DOWN ***
+Actionni13: shows [Kc 3d] (two pair, Aces and Eights)
+Grieserix: mucks hand
+Actionni13 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8c 8d Ah 4s Ac]
+Seat 1: Grieserix (button) (small blind) mucked
+Seat 4: Actionni13 (big blind) showed [Kc 3d] and won ($17.64) with two pair, Aces and Eights
+
+
+PokerStars Hand #153370863808:  Hold'em Limit ($3/$6 USD) - 2016/05/15 17:46:12 ET
+Table 'Philosophia II' 6-max Seat #1 is the button
+Seat 1: Grieserix ($119.64 in chips)
+Seat 4: Actionni13 ($150 in chips)
+Grieserix: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+Grieserix: folds
+Uncalled bet ($2) returned to Actionni13
+Actionni13 collected $2 from pot
+Actionni13: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Grieserix (button) (small blind) folded before Flop
+Seat 4: Actionni13 (big blind) collected ($2)
+
+
+PokerStars Hand #153370831991:  Hold'em Limit ($3/$6 USD) - 2016/05/15 17:45:36 ET
+Table 'Philosophia II' 6-max Seat #4 is the button
+Seat 1: Grieserix ($111 in chips)
+Seat 4: Actionni13 ($158.64 in chips)
+Actionni13: posts small blind $1
+Grieserix: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+Grieserix: calls $3
+*** FLOP *** [3s 6h Qc]
+Grieserix: checks
+Actionni13: bets $3
+Grieserix: calls $3
+*** TURN *** [3s 6h Qc] [7d]
+Grieserix: bets $6
+Actionni13: folds
+Uncalled bet ($6) returned to Grieserix
+Grieserix collected $17.64 from pot
+Grieserix: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3s 6h Qc 7d]
+Seat 1: Grieserix (big blind) collected ($17.64)
+Seat 4: Actionni13 (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #153370868200:  Hold'em Limit ($3/$6 USD) - 2016/05/15 17:46:17 ET
+Table 'Philosophia II' 6-max Seat #4 is the button
+Seat 1: Grieserix ($118.64 in chips)
+Seat 4: Actionni13 ($151 in chips)
+Actionni13: posts small blind $1
+Grieserix: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+Grieserix: calls $3
+*** FLOP *** [6c 4s 5s]
+Grieserix: checks
+Actionni13: checks
+*** TURN *** [6c 4s 5s] [Jd]
+Grieserix: checks
+Actionni13: bets $6
+Grieserix: calls $6
+*** RIVER *** [6c 4s 5s Jd] [6s]
+Grieserix: bets $6
+Actionni13: calls $6
+*** SHOW DOWN ***
+Grieserix: shows [7s As] (a flush, Ace high)
+Actionni13: mucks hand
+Grieserix collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6c 4s 5s Jd 6s]
+Seat 1: Grieserix (big blind) showed [7s As] and won ($35.50) with a flush, Ace high
+Seat 4: Actionni13 (button) (small blind) mucked
+
+

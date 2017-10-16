@@ -1,0 +1,33 @@
+PokerStars Hand #150317949728:  Hold'em Limit ($3/$6 USD) - 2016/03/13 20:08:53 ET
+Table 'Ruanda' 10-max Seat #5 is the button
+Seat 4: SirRomanov ($118.15 in chips)
+Seat 5: masterblstr8 ($191.59 in chips)
+masterblstr8: posts small blind $1
+JMMROCHA: is sitting out
+SirRomanov: posts big blind $3
+*** HOLE CARDS ***
+masterblstr8: raises $3 to $6
+JMMROCHA leaves the table
+SirRomanov: raises $3 to $9
+masterblstr8: calls $3
+*** FLOP *** [Jh 5h 8h]
+SirRomanov: bets $3
+masterblstr8: calls $3
+*** TURN *** [Jh 5h 8h] [Ac]
+SirRomanov: bets $6
+masterblstr8: raises $6 to $12
+SirRomanov: calls $6
+*** RIVER *** [Jh 5h 8h Ac] [3d]
+SirRomanov: checks
+masterblstr8: checks
+*** SHOW DOWN ***
+SirRomanov: shows [Ad Kc] (a pair of Aces)
+masterblstr8: mucks hand
+SirRomanov collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Jh 5h 8h Ac 3d]
+Seat 4: SirRomanov (big blind) showed [Ad Kc] and won ($47.50) with a pair of Aces
+Seat 5: masterblstr8 (button) (small blind) mucked
+
+

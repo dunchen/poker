@@ -1,0 +1,64 @@
+PokerStars Hand #148500438531:  Hold'em Limit ($3/$6 USD) - 2016/02/09 9:04:28 ET
+Table 'Atlantis II' 6-max Seat #5 is the button
+Seat 5: Pandakey ($93 in chips)
+Seat 6: las59 ($66.50 in chips)
+Pandakey: posts small blind $1
+las59: posts big blind $3
+*** HOLE CARDS ***
+Pandakey: raises $3 to $6
+Pokali joins the table at seat #1
+las59: calls $3
+*** FLOP *** [5h Jc Td]
+las59: checks
+Pandakey: checks
+*** TURN *** [5h Jc Td] [4d]
+las59: bets $6
+Pandakey: calls $6
+*** RIVER *** [5h Jc Td 4d] [Th]
+las59: bets $6
+Pandakey: calls $6
+*** SHOW DOWN ***
+las59: shows [9h Qc] (a pair of Tens)
+Pandakey: shows [5d 7c] (two pair, Tens and Fives)
+Pandakey collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5h Jc Td 4d Th]
+Seat 5: Pandakey (button) (small blind) showed [5d 7c] and won ($35.50) with two pair, Tens and Fives
+Seat 6: las59 (big blind) showed [9h Qc] and lost with a pair of Tens
+
+
+PokerStars Hand #148500419584:  Hold'em Limit ($3/$6 USD) - 2016/02/09 9:04:03 ET
+Table 'Atlantis II' 6-max Seat #6 is the button
+Seat 5: Pandakey ($120 in chips)
+Seat 6: las59 ($40 in chips)
+las59: posts small blind $1
+Pandakey: posts big blind $3
+*** HOLE CARDS ***
+las59: raises $3 to $6
+Pandakey: calls $3
+*** FLOP *** [4h 2h 3s]
+Pandakey: checks
+las59: bets $3
+Pandakey: raises $3 to $6
+las59: raises $3 to $9
+Pandakey: calls $3
+*** TURN *** [4h 2h 3s] [8s]
+Pandakey: checks
+las59: bets $6
+Pandakey: calls $6
+*** RIVER *** [4h 2h 3s 8s] [Ad]
+Pandakey: checks
+las59: bets $6
+Pandakey: calls $6
+*** SHOW DOWN ***
+las59: shows [9s 9d] (a pair of Nines)
+Pandakey: mucks hand
+las59 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [4h 2h 3s 8s Ad]
+Seat 5: Pandakey (big blind) mucked
+Seat 6: las59 (button) (small blind) showed [9s 9d] and won ($53.50) with a pair of Nines
+
+

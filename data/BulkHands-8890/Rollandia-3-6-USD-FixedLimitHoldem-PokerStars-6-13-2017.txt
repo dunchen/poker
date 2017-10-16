@@ -1,0 +1,491 @@
+PokerStars Hand #171716475840:  Hold'em Limit ($3/$6 USD) - 2017/06/13 7:39:40 ET
+Table 'Rollandia' 6-max Seat #5 is the button
+Seat 3: igorkabmw ($96.35 in chips)
+Seat 5: Ale4o ($89.10 in chips)
+Ale4o: posts small blind $1
+igorkabmw: posts big blind $3
+*** HOLE CARDS ***
+Ale4o: raises $3 to $6
+igorkabmw: calls $3
+*** FLOP *** [6c Qc Jc]
+igorkabmw: checks
+Ale4o: bets $3
+igorkabmw: calls $3
+*** TURN *** [6c Qc Jc] [Ad]
+igorkabmw: checks
+Ale4o: checks
+*** RIVER *** [6c Qc Jc Ad] [9d]
+igorkabmw: bets $6
+Ale4o: calls $6
+*** SHOW DOWN ***
+igorkabmw: shows [Tc Kh] (a straight, Ten to Ace)
+Ale4o: mucks hand
+igorkabmw collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6c Qc Jc Ad 9d]
+Seat 3: igorkabmw (big blind) showed [Tc Kh] and won ($29.50) with a straight, Ten to Ace
+Seat 5: Ale4o (button) (small blind) mucked
+
+
+PokerStars Hand #171716466462:  Hold'em Limit ($3/$6 USD) - 2017/06/13 7:39:19 ET
+Table 'Rollandia' 6-max Seat #3 is the button
+Seat 3: igorkabmw ($60.85 in chips)
+Seat 5: Ale4o ($125.10 in chips)
+igorkabmw: posts small blind $1
+Ale4o: posts big blind $3
+*** HOLE CARDS ***
+igorkabmw: raises $3 to $6
+Ale4o: raises $3 to $9
+igorkabmw: calls $3
+*** FLOP *** [9d 8h Td]
+Ale4o: bets $3
+igorkabmw: raises $3 to $6
+Ale4o: raises $3 to $9
+igorkabmw: calls $3
+*** TURN *** [9d 8h Td] [9c]
+Ale4o: bets $6
+igorkabmw: raises $6 to $12
+Ale4o: calls $6
+*** RIVER *** [9d 8h Td 9c] [Th]
+Ale4o: checks
+igorkabmw: bets $6
+Ale4o: calls $6
+*** SHOW DOWN ***
+igorkabmw: shows [Js 7s] (a straight, Seven to Jack)
+Ale4o: mucks hand
+igorkabmw collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [9d 8h Td 9c Th]
+Seat 3: igorkabmw (button) (small blind) showed [Js 7s] and won ($71.50) with a straight, Seven to Jack
+Seat 5: Ale4o (big blind) mucked
+
+
+PokerStars Hand #171716518134:  Hold'em Limit ($3/$6 USD) - 2017/06/13 7:41:17 ET
+Table 'Rollandia' 6-max Seat #4 is the button
+Seat 4: TbIP-TbIP 88 ($128.77 in chips)
+Seat 5: Ale4o ($102 in chips)
+TbIP-TbIP 88: posts small blind $1
+Ale4o: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88: raises $3 to $6
+Ale4o: calls $3
+*** FLOP *** [6h 7c Qc]
+Ale4o: checks
+TbIP-TbIP 88: bets $3
+Ale4o: raises $3 to $6
+TbIP-TbIP 88: calls $3
+*** TURN *** [6h 7c Qc] [Js]
+Ale4o: bets $6
+TbIP-TbIP 88: raises $6 to $12
+Ale4o: raises $6 to $18
+TbIP-TbIP 88: raises $6 to $24
+Betting is capped
+Ale4o: calls $6
+*** RIVER *** [6h 7c Qc Js] [Ac]
+Ale4o: checks
+TbIP-TbIP 88: checks
+*** SHOW DOWN ***
+Ale4o: shows [Qs 9s] (a pair of Queens)
+TbIP-TbIP 88: shows [Kc Qh] (a pair of Queens - Ace+King kicker)
+TbIP-TbIP 88 collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [6h 7c Qc Js Ac]
+Seat 4: TbIP-TbIP 88 (button) (small blind) showed [Kc Qh] and won ($71.50) with a pair of Queens
+Seat 5: Ale4o (big blind) showed [Qs 9s] and lost with a pair of Queens
+
+
+PokerStars Hand #171716506192:  Hold'em Limit ($3/$6 USD) - 2017/06/13 7:40:50 ET
+Table 'Rollandia' 6-max Seat #5 is the button
+Seat 4: TbIP-TbIP 88 ($114.27 in chips)
+Seat 5: Ale4o ($117 in chips)
+Ale4o: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+Ale4o: raises $3 to $6
+TbIP-TbIP 88: calls $3
+*** FLOP *** [6h Qs 4h]
+TbIP-TbIP 88: checks
+Ale4o: bets $3
+TbIP-TbIP 88: calls $3
+*** TURN *** [6h Qs 4h] [8s]
+TbIP-TbIP 88: checks
+igorkabmw joins the table at seat #3
+Ale4o: bets $6
+TbIP-TbIP 88: calls $6
+*** RIVER *** [6h Qs 4h 8s] [Th]
+TbIP-TbIP 88: bets $6
+Ale4o: folds
+Uncalled bet ($6) returned to TbIP-TbIP 88
+TbIP-TbIP 88 collected $29.50 from pot
+TbIP-TbIP 88: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6h Qs 4h 8s Th]
+Seat 4: TbIP-TbIP 88 (big blind) collected ($29.50)
+Seat 5: Ale4o (button) (small blind) folded on the River
+
+
+PokerStars Hand #171716763071:  Hold'em Limit ($3/$6 USD) - 2017/06/13 7:50:39 ET
+Table 'Rollandia' 6-max Seat #5 is the button
+Seat 3: igorkabmw ($33.82 in chips)
+Seat 5: Ale4o ($143.38 in chips)
+Ale4o: posts small blind $1
+igorkabmw: posts big blind $3
+*** HOLE CARDS ***
+Ale4o: folds
+Uncalled bet ($2) returned to igorkabmw
+igorkabmw collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: igorkabmw (big blind) collected ($2)
+Seat 5: Ale4o (button) (small blind) folded before Flop
+
+
+PokerStars Hand #171716761041:  Hold'em Limit ($3/$6 USD) - 2017/06/13 7:50:34 ET
+Table 'Rollandia' 6-max Seat #3 is the button
+Seat 3: igorkabmw ($34.82 in chips)
+Seat 5: Ale4o ($142.38 in chips)
+igorkabmw: posts small blind $1
+Ale4o: posts big blind $3
+*** HOLE CARDS ***
+igorkabmw: folds
+Uncalled bet ($2) returned to Ale4o
+Ale4o collected $2 from pot
+Ale4o: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: igorkabmw (button) (small blind) folded before Flop
+Seat 5: Ale4o (big blind) collected ($2)
+
+
+PokerStars Hand #171716764914:  Hold'em Limit ($3/$6 USD) - 2017/06/13 7:50:43 ET
+Table 'Rollandia' 6-max Seat #3 is the button
+Seat 3: igorkabmw ($34.82 in chips)
+Seat 5: Ale4o ($142.38 in chips)
+igorkabmw: posts small blind $1
+Ale4o: posts big blind $3
+*** HOLE CARDS ***
+igorkabmw: folds
+Uncalled bet ($2) returned to Ale4o
+TbIP-TbIP 88 joins the table at seat #4
+Ale4o collected $2 from pot
+Ale4o: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: igorkabmw (button) (small blind) folded before Flop
+Seat 5: Ale4o (big blind) collected ($2)
+
+
+PokerStars Hand #171716738808:  Hold'em Limit ($3/$6 USD) - 2017/06/13 7:49:43 ET
+Table 'Rollandia' 6-max Seat #3 is the button
+Seat 3: igorkabmw ($6.52 in chips)
+Seat 5: Ale4o ($171.56 in chips)
+igorkabmw: posts small blind $1
+TbIP-TbIP 88: is sitting out
+Ale4o: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88 leaves the table
+igorkabmw: raises $3 to $6
+Ale4o: folds
+Uncalled bet ($3) returned to igorkabmw
+igorkabmw collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: igorkabmw (button) (small blind) collected ($6)
+Seat 5: Ale4o (big blind) folded before Flop
+
+
+PokerStars Hand #171716750885:  Hold'em Limit ($3/$6 USD) - 2017/06/13 7:50:11 ET
+Table 'Rollandia' 6-max Seat #3 is the button
+Seat 3: igorkabmw ($18.66 in chips)
+Seat 5: Ale4o ($159.04 in chips)
+igorkabmw: posts small blind $1
+Ale4o: posts big blind $3
+*** HOLE CARDS ***
+igorkabmw: folds
+Uncalled bet ($2) returned to Ale4o
+Ale4o collected $2 from pot
+Ale4o: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: igorkabmw (button) (small blind) folded before Flop
+Seat 5: Ale4o (big blind) collected ($2)
+
+
+PokerStars Hand #171716742247:  Hold'em Limit ($3/$6 USD) - 2017/06/13 7:49:51 ET
+Table 'Rollandia' 6-max Seat #5 is the button
+Seat 3: igorkabmw ($9.52 in chips)
+Seat 5: Ale4o ($168.56 in chips)
+Ale4o: posts small blind $1
+igorkabmw: posts big blind $3
+*** HOLE CARDS ***
+Ale4o: raises $3 to $6
+igorkabmw: raises $3 to $9
+Ale4o: raises $3 to $12
+Betting is capped
+igorkabmw: calls $0.52 and is all-in
+Uncalled bet ($2.48) returned to Ale4o
+*** FLOP *** [4h Ah 9c]
+*** TURN *** [4h Ah 9c] [3h]
+*** RIVER *** [4h Ah 9c 3h] [8c]
+*** SHOW DOWN ***
+igorkabmw: shows [Js Jd] (a pair of Jacks)
+Ale4o: shows [2c Qd] (high card Ace)
+igorkabmw collected $18.66 from pot
+*** SUMMARY ***
+Total pot $19.04 | Rake $0.38
+Board [4h Ah 9c 3h 8c]
+Seat 3: igorkabmw (big blind) showed [Js Jd] and won ($18.66) with a pair of Jacks
+Seat 5: Ale4o (button) (small blind) showed [2c Qd] and lost with high card Ace
+
+
+PokerStars Hand #171716822743:  Hold'em Limit ($3/$6 USD) - 2017/06/13 7:52:56 ET
+Table 'Rollandia' 6-max Seat #5 is the button
+Seat 3: igorkabmw ($15.67 in chips)
+Seat 5: Ale4o ($147.38 in chips)
+Ale4o: posts small blind $1
+igorkabmw: posts big blind $3
+*** HOLE CARDS ***
+Ale4o: folds
+Uncalled bet ($2) returned to igorkabmw
+igorkabmw collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: igorkabmw (big blind) collected ($2)
+Seat 5: Ale4o (button) (small blind) folded before Flop
+
+
+PokerStars Hand #171716837550:  Hold'em Limit ($3/$6 USD) - 2017/06/13 7:53:30 ET
+Table 'Rollandia' 6-max Seat #5 is the button
+Seat 3: igorkabmw ($29.84 in chips)
+Seat 5: Ale4o ($132.71 in chips)
+Ale4o: posts small blind $1
+igorkabmw: posts big blind $3
+*** HOLE CARDS ***
+Ale4o: raises $3 to $6
+igorkabmw: calls $3
+*** FLOP *** [4d Qc Th]
+igorkabmw: checks
+Ale4o: bets $3
+igorkabmw: calls $3
+*** TURN *** [4d Qc Th] [5h]
+igorkabmw: checks
+Ale4o: bets $6
+TbIP-TbIP 88 leaves the table
+igorkabmw: calls $6
+*** RIVER *** [4d Qc Th 5h] [Ad]
+igorkabmw: checks
+Ale4o: bets $6
+igorkabmw: folds
+Uncalled bet ($6) returned to Ale4o
+Ale4o collected $29.50 from pot
+Ale4o: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4d Qc Th 5h Ad]
+Seat 3: igorkabmw (big blind) folded on the River
+Seat 5: Ale4o (button) (small blind) collected ($29.50)
+
+
+PokerStars Hand #171716835119:  Hold'em Limit ($3/$6 USD) - 2017/06/13 7:53:24 ET
+Table 'Rollandia' 6-max Seat #3 is the button
+Seat 3: igorkabmw ($30.84 in chips)
+Seat 5: Ale4o ($131.71 in chips)
+igorkabmw: posts small blind $1
+Ale4o: posts big blind $3
+*** HOLE CARDS ***
+igorkabmw: folds
+Uncalled bet ($2) returned to Ale4o
+Ale4o collected $2 from pot
+Ale4o: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: igorkabmw (button) (small blind) folded before Flop
+Seat 5: Ale4o (big blind) collected ($2)
+
+
+PokerStars Hand #171716826914:  Hold'em Limit ($3/$6 USD) - 2017/06/13 7:53:05 ET
+Table 'Rollandia' 6-max Seat #5 is the button
+Seat 3: igorkabmw ($15.67 in chips)
+Seat 5: Ale4o ($147.38 in chips)
+Ale4o: posts small blind $1
+igorkabmw: posts big blind $3
+*** HOLE CARDS ***
+Ale4o: raises $3 to $6
+igorkabmw: calls $3
+*** FLOP *** [8d Ts 2s]
+igorkabmw: checks
+Ale4o: bets $3
+igorkabmw: calls $3
+*** TURN *** [8d Ts 2s] [9s]
+igorkabmw: checks
+Ale4o: bets $6
+igorkabmw: raises $0.67 to $6.67 and is all-in
+Ale4o: calls $0.67
+*** RIVER *** [8d Ts 2s 9s] [Tc]
+*** SHOW DOWN ***
+igorkabmw: shows [5s As] (a flush, Ace high)
+Ale4o: shows [Kh Th] (three of a kind, Tens)
+igorkabmw collected $30.84 from pot
+*** SUMMARY ***
+Total pot $31.34 | Rake $0.50
+Board [8d Ts 2s 9s Tc]
+Seat 3: igorkabmw (big blind) showed [5s As] and won ($30.84) with a flush, Ace high
+Seat 5: Ale4o (button) (small blind) showed [Kh Th] and lost with three of a kind, Tens
+
+
+PokerStars Hand #171716848816:  Hold'em Limit ($3/$6 USD) - 2017/06/13 7:53:56 ET
+Table 'Rollandia' 6-max Seat #5 is the button
+Seat 3: igorkabmw ($17.84 in chips)
+Seat 5: Ale4o ($144.21 in chips)
+Ale4o: posts small blind $1
+igorkabmw: posts big blind $3
+*** HOLE CARDS ***
+Ale4o: folds
+Uncalled bet ($2) returned to igorkabmw
+igorkabmw collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: igorkabmw (big blind) collected ($2)
+Seat 5: Ale4o (button) (small blind) folded before Flop
+
+
+PokerStars Hand #171716846144:  Hold'em Limit ($3/$6 USD) - 2017/06/13 7:53:50 ET
+Table 'Rollandia' 6-max Seat #3 is the button
+Seat 3: igorkabmw ($14.84 in chips)
+Seat 5: Ale4o ($147.21 in chips)
+igorkabmw: posts small blind $1
+Ale4o: posts big blind $3
+*** HOLE CARDS ***
+igorkabmw: raises $3 to $6
+Ale4o: folds
+Uncalled bet ($3) returned to igorkabmw
+igorkabmw collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: igorkabmw (button) (small blind) collected ($6)
+Seat 5: Ale4o (big blind) folded before Flop
+
+
+PokerStars Hand #171716850515:  Hold'em Limit ($3/$6 USD) - 2017/06/13 7:54:00 ET
+Table 'Rollandia' 6-max Seat #3 is the button
+Seat 3: igorkabmw ($18.84 in chips)
+Seat 5: Ale4o ($143.21 in chips)
+igorkabmw: posts small blind $1
+Ale4o: posts big blind $3
+*** HOLE CARDS ***
+igorkabmw: calls $2
+sim5sim5 joins the table at seat #2
+Ale4o: checks
+*** FLOP *** [3d 6d 6c]
+Ale4o: checks
+igorkabmw: checks
+*** TURN *** [3d 6d 6c] [5d]
+Ale4o: bets $6
+igorkabmw: calls $6
+*** RIVER *** [3d 6d 6c 5d] [3c]
+Ale4o: bets $6
+igorkabmw: folds
+Uncalled bet ($6) returned to Ale4o
+Ale4o collected $17.64 from pot
+Ale4o: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3d 6d 6c 5d 3c]
+Seat 3: igorkabmw (button) (small blind) folded on the River
+Seat 5: Ale4o (big blind) collected ($17.64)
+
+
+PokerStars Hand #171717258131:  Hold'em Limit ($3/$6 USD) - 2017/06/13 8:09:48 ET
+Table 'Rollandia' 6-max Seat #1 is the button
+Seat 1: Lowey277 ($118.28 in chips)
+Seat 6: Krillbjörn ($171.73 in chips)
+Lowey277: posts small blind $1
+iskambil: is sitting out
+Ale4o: is sitting out
+Krillbjörn: posts big blind $3
+*** HOLE CARDS ***
+Ale4o leaves the table
+iskambil leaves the table
+Lowey277: folds
+Uncalled bet ($2) returned to Krillbjörn
+Krillbjörn collected $2 from pot
+Krillbjörn: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Lowey277 (button) (small blind) folded before Flop
+Seat 6: Krillbjörn (big blind) collected ($2)
+
+
+PokerStars Hand #171717810133:  Hold'em Limit ($3/$6 USD) - 2017/06/13 8:29:43 ET
+Table 'Rollandia' 6-max Seat #2 is the button
+Seat 2: simper11 ($144.02 in chips)
+Seat 6: Bueffel ($50 in chips)
+simper11: posts small blind $1
+Ale4o: is sitting out
+DismasX: is sitting out
+Bueffel: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+simper11 said, "lololol"
+Bueffel: calls $3
+*** FLOP *** [3c Qs 8s]
+Bueffel: checks
+DismasX leaves the table
+simper11: bets $3
+Bueffel: calls $3
+*** TURN *** [3c Qs 8s] [Td]
+Bueffel: checks
+DismasX joins the table at seat #1
+simper11: checks
+*** RIVER *** [3c Qs 8s Td] [3h]
+PiniaA joins the table at seat #3
+Bueffel: bets $6
+simper11: folds
+Uncalled bet ($6) returned to Bueffel
+Bueffel collected $17.64 from pot
+Bueffel: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3c Qs 8s Td 3h]
+Seat 2: simper11 (button) (small blind) folded on the River
+Seat 6: Bueffel (big blind) collected ($17.64)
+
+
+PokerStars Hand #171719102148:  Hold'em Limit ($3/$6 USD) - 2017/06/13 9:13:57 ET
+Table 'Rollandia' 6-max Seat #4 is the button
+Seat 2: simper11 ($156.75 in chips)
+Seat 4: Chessnok ($166.24 in chips)
+Chessnok: posts small blind $1
+DismasX: is sitting out
+simper11: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+simper11: calls $3
+*** FLOP *** [2h 7h 2s]
+simper11: checks
+Chessnok: bets $3
+simper11: calls $3
+*** TURN *** [2h 7h 2s] [3d]
+simper11: checks
+Chessnok: bets $6
+simper11: calls $6
+*** RIVER *** [2h 7h 2s 3d] [Ks]
+DismasX leaves the table
+simper11: checks
+Chessnok: bets $6
+simper11: calls $6
+*** SHOW DOWN ***
+Chessnok: shows [Ah 2d] (three of a kind, Deuces)
+simper11: mucks hand
+Chessnok collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2h 7h 2s 3d Ks]
+Seat 2: simper11 (big blind) mucked
+Seat 4: Chessnok (button) (small blind) showed [Ah 2d] and won ($41.50) with three of a kind, Deuces
+
+

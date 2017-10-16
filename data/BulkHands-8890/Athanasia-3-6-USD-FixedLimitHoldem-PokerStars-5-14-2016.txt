@@ -1,0 +1,33 @@
+PokerStars Hand #153282603406:  Hold'em Limit ($3/$6 USD) - 2016/05/13 23:07:27 ET
+Table 'Athanasia' 6-max Seat #1 is the button
+Seat 1: JACKan_11 ($179.15 in chips)
+Seat 6: razor3334 ($297.56 in chips)
+JACKan_11: posts small blind $1
+LWNS: is sitting out
+razor3334: posts big blind $3
+*** HOLE CARDS ***
+LWNS leaves the table
+JACKan_11: raises $3 to $6
+razor3334: raises $3 to $9
+JACKan_11: calls $3
+*** FLOP *** [Tc 5s 3s]
+razor3334: bets $3
+JACKan_11: calls $3
+*** TURN *** [Tc 5s 3s] [Js]
+razor3334: bets $6
+JACKan_11: calls $6
+*** RIVER *** [Tc 5s 3s Js] [Qc]
+razor3334: bets $6
+JACKan_11: raises $6 to $12
+razor3334: calls $6
+*** SHOW DOWN ***
+JACKan_11: shows [Kd 9c] (a straight, Nine to King)
+razor3334: mucks hand
+JACKan_11 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Tc 5s 3s Js Qc]
+Seat 1: JACKan_11 (button) (small blind) showed [Kd 9c] and won ($59.50) with a straight, Nine to King
+Seat 6: razor3334 (big blind) mucked
+
+

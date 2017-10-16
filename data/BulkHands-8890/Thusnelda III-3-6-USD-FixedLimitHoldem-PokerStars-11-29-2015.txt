@@ -1,0 +1,82 @@
+PokerStars Hand #144569219546:  Hold'em Limit ($3/$6 USD) - 2015/11/29 13:35:07 ET
+Table 'Thusnelda III' 2-max Seat #1 is the button
+Seat 1: helmonp ($86.94 in chips)
+Seat 2: kotyxb ($8.31 in chips)
+helmonp: posts small blind $1
+kotyxb: posts big blind $3
+*** HOLE CARDS ***
+helmonp: calls $2
+kotyxb: checks
+*** FLOP *** [Jd 6s As]
+kotyxb: checks
+helmonp: checks
+*** TURN *** [Jd 6s As] [4c]
+kotyxb: bets $5.31 and is all-in
+helmonp: calls $5.31
+*** RIVER *** [Jd 6s As 4c] [Qh]
+*** SHOW DOWN ***
+kotyxb: shows [Ah 7c] (a pair of Aces)
+helmonp: shows [4s Ts] (a pair of Fours)
+kotyxb collected $16.29 from pot
+*** SUMMARY ***
+Total pot $16.62 | Rake $0.33
+Board [Jd 6s As 4c Qh]
+Seat 1: helmonp (button) (small blind) showed [4s Ts] and lost with a pair of Fours
+Seat 2: kotyxb (big blind) showed [Ah 7c] and won ($16.29) with a pair of Aces
+
+
+PokerStars Hand #144569263052:  Hold'em Limit ($3/$6 USD) - 2015/11/29 13:35:48 ET
+Table 'Thusnelda III' 2-max Seat #2 is the button
+Seat 1: helmonp ($87.51 in chips)
+Seat 2: kotyxb ($7.29 in chips)
+kotyxb: posts small blind $1
+helmonp: posts big blind $3
+*** HOLE CARDS ***
+kotyxb: calls $2
+helmonp: checks
+*** FLOP *** [Qd Jh 9h]
+helmonp: bets $3
+kotyxb: raises $1.29 to $4.29 and is all-in
+helmonp: calls $1.29
+*** TURN *** [Qd Jh 9h] [5s]
+*** RIVER *** [Qd Jh 9h 5s] [2d]
+*** SHOW DOWN ***
+helmonp: shows [Kh 6h] (high card King)
+kotyxb: shows [4d 7s] (high card Queen)
+helmonp collected $14.29 from pot
+*** SUMMARY ***
+Total pot $14.58 | Rake $0.29
+Board [Qd Jh 9h 5s 2d]
+Seat 1: helmonp (big blind) showed [Kh 6h] and won ($14.29) with high card King
+Seat 2: kotyxb (button) (small blind) showed [4d 7s] and lost with high card Queen
+
+
+PokerStars Hand #144569245632:  Hold'em Limit ($3/$6 USD) - 2015/11/29 13:35:32 ET
+Table 'Thusnelda III' 2-max Seat #1 is the button
+Seat 1: helmonp ($84.63 in chips)
+Seat 2: kotyxb ($10.29 in chips)
+helmonp: posts small blind $1
+kotyxb: posts big blind $3
+*** HOLE CARDS ***
+helmonp: calls $2
+kotyxb: checks
+*** FLOP *** [9d 3c Ts]
+kotyxb: checks
+helmonp: checks
+*** TURN *** [9d 3c Ts] [4s]
+kotyxb: checks
+helmonp: checks
+*** RIVER *** [9d 3c Ts 4s] [Jh]
+kotyxb: checks
+helmonp: checks
+*** SHOW DOWN ***
+kotyxb: shows [Qc As] (high card Ace)
+helmonp: shows [Jc 7c] (a pair of Jacks)
+helmonp collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [9d 3c Ts 4s Jh]
+Seat 1: helmonp (button) (small blind) showed [Jc 7c] and won ($5.88) with a pair of Jacks
+Seat 2: kotyxb (big blind) showed [Qc As] and lost with high card Ace
+
+

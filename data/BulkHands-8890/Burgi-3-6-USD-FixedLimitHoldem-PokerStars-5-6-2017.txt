@@ -1,0 +1,61 @@
+PokerStars Hand #170025088547:  Hold'em Limit ($3/$6 USD) - 2017/05/06 6:41:25 ET
+Table 'Burgi' 6-max Seat #4 is the button
+Seat 3: Rus29APX ($161.50 in chips)
+Seat 4: hairy1961 ($8 in chips)
+hairy1961: posts small blind $1
+Rus29APX: posts big blind $3
+*** HOLE CARDS ***
+hairy1961: raises $3 to $6
+Rus29APX: raises $3 to $9
+hairy1961: calls $2 and is all-in
+Uncalled bet ($1) returned to Rus29APX
+*** FLOP *** [Ts 2c 4c]
+*** TURN *** [Ts 2c 4c] [Js]
+*** RIVER *** [Ts 2c 4c Js] [Ad]
+*** SHOW DOWN ***
+Rus29APX: shows [6h 7s] (high card Ace)
+hairy1961: shows [Tc Jc] (two pair, Jacks and Tens)
+hairy1961 collected $15.68 from pot
+*** SUMMARY ***
+Total pot $16 | Rake $0.32
+Board [Ts 2c 4c Js Ad]
+Seat 3: Rus29APX (big blind) showed [6h 7s] and lost with high card Ace
+Seat 4: hairy1961 (button) (small blind) showed [Tc Jc] and won ($15.68) with two pair, Jacks and Tens
+
+
+PokerStars Hand #170025068167:  Hold'em Limit ($3/$6 USD) - 2017/05/06 6:40:37 ET
+Table 'Burgi' 6-max Seat #3 is the button
+Seat 3: Rus29APX ($120 in chips)
+Seat 4: hairy1961 ($50 in chips)
+Rus29APX: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+Rus29APX: raises $3 to $6
+hairy1961: calls $3
+*** FLOP *** [6h 2h 5h]
+hairy1961: checks
+Rus29APX: bets $3
+hairy1961: raises $3 to $6
+Rus29APX: calls $3
+*** TURN *** [6h 2h 5h] [7d]
+hairy1961: bets $6
+Rus29APX: raises $6 to $12
+hairy1961: raises $6 to $18
+Rus29APX: raises $6 to $24
+Betting is capped
+hairy1961: calls $6
+*** RIVER *** [6h 2h 5h 7d] [4d]
+hairy1961: checks
+Rus29APX: bets $6
+hairy1961: calls $6
+*** SHOW DOWN ***
+Rus29APX: shows [9c 8c] (a straight, Five to Nine)
+hairy1961: mucks hand
+Rus29APX collected $83.50 from pot
+*** SUMMARY ***
+Total pot $84 | Rake $0.50
+Board [6h 2h 5h 7d 4d]
+Seat 3: Rus29APX (button) (small blind) showed [9c 8c] and won ($83.50) with a straight, Five to Nine
+Seat 4: hairy1961 (big blind) mucked
+
+

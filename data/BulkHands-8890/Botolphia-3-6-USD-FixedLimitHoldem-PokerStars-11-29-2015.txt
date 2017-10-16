@@ -1,0 +1,39 @@
+PokerStars Hand #144536579267:  Hold'em Limit ($3/$6 USD) - 2015/11/28 20:08:50 ET
+Table 'Botolphia' 2-max Seat #1 is the button
+Seat 1: hyvazer ($42.80 in chips)
+Seat 2: odefas ($44.19 in chips)
+hyvazer: posts small blind $1
+odefas: posts big blind $3
+*** HOLE CARDS ***
+hyvazer: raises $3 to $6
+odefas: raises $3 to $9
+hyvazer: raises $3 to $12
+Betting is capped
+odefas: calls $3
+*** FLOP *** [9s 8d 8c]
+odefas: bets $3
+hyvazer: raises $3 to $6
+odefas: calls $3
+*** TURN *** [9s 8d 8c] [8h]
+odefas: bets $6
+hyvazer: raises $6 to $12
+odefas: raises $6 to $18
+hyvazer: raises $6 to $24
+Betting is capped
+odefas: calls $6
+*** RIVER *** [9s 8d 8c 8h] [4s]
+odefas: bets $2.19 and is all-in
+hyvazer: calls $0.80 and is all-in
+Uncalled bet ($1.39) returned to odefas
+*** SHOW DOWN ***
+odefas: shows [Qc Kh] (three of a kind, Eights)
+hyvazer: shows [Jc 3h] (three of a kind, Eights - lower kicker)
+odefas collected $85.10 from pot
+odefas leaves the table
+*** SUMMARY ***
+Total pot $85.60 | Rake $0.50
+Board [9s 8d 8c 8h 4s]
+Seat 1: hyvazer (button) (small blind) showed [Jc 3h] and lost with three of a kind, Eights
+Seat 2: odefas (big blind) showed [Qc Kh] and won ($85.10) with three of a kind, Eights
+
+

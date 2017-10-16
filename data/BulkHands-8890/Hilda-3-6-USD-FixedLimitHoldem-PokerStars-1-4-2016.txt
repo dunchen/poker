@@ -1,0 +1,73 @@
+PokerStars Hand #146436042200:  Hold'em Limit ($3/$6 USD) - 2016/01/04 3:00:52 ET
+Table 'Hilda' 2-max Seat #2 is the button
+Seat 1: baur017017 ($12 in chips)
+Seat 2: Desktop775 ($137.50 in chips)
+Desktop775: posts small blind $1
+baur017017: posts big blind $3
+*** HOLE CARDS ***
+Desktop775: raises $3 to $6
+baur017017: folds
+Uncalled bet ($3) returned to Desktop775
+Desktop775 collected $6 from pot
+Desktop775: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: baur017017 (big blind) folded before Flop
+Seat 2: Desktop775 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #146436036359:  Hold'em Limit ($3/$6 USD) - 2016/01/04 3:00:32 ET
+Table 'Hilda' 2-max Seat #1 is the button
+Seat 1: baur017017 ($27 in chips)
+Seat 2: Desktop775 ($123 in chips)
+baur017017: posts small blind $1
+Desktop775: posts big blind $3
+*** HOLE CARDS ***
+baur017017: raises $3 to $6
+Desktop775: calls $3
+*** FLOP *** [8h 8s 8d]
+Desktop775: checks
+baur017017: bets $3
+Desktop775: calls $3
+*** TURN *** [8h 8s 8d] [6h]
+Desktop775: checks
+baur017017: bets $6
+Desktop775: calls $6
+*** RIVER *** [8h 8s 8d 6h] [Qc]
+Desktop775: checks
+baur017017: checks
+*** SHOW DOWN ***
+Desktop775: shows [2h Qh] (a full house, Eights full of Queens)
+baur017017: mucks hand
+Desktop775 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8h 8s 8d 6h Qc]
+Seat 1: baur017017 (button) (small blind) mucked
+Seat 2: Desktop775 (big blind) showed [2h Qh] and won ($29.50) with a full house, Eights full of Queens
+
+
+PokerStars Hand #146436044763:  Hold'em Limit ($3/$6 USD) - 2016/01/04 3:01:00 ET
+Table 'Hilda' 2-max Seat #1 is the button
+Seat 1: baur017017 ($9 in chips)
+Seat 2: Desktop775 ($140.50 in chips)
+baur017017: posts small blind $1
+Desktop775: posts big blind $3
+*** HOLE CARDS ***
+baur017017: raises $3 to $6
+Desktop775: raises $3 to $9
+baur017017: calls $3 and is all-in
+*** FLOP *** [9c 2d Kd]
+*** TURN *** [9c 2d Kd] [5s]
+*** RIVER *** [9c 2d Kd 5s] [8s]
+*** SHOW DOWN ***
+Desktop775: shows [8d 9s] (two pair, Nines and Eights)
+baur017017: shows [6s 9d] (a pair of Nines)
+Desktop775 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9c 2d Kd 5s 8s]
+Seat 1: baur017017 (button) (small blind) showed [6s 9d] and lost with a pair of Nines
+Seat 2: Desktop775 (big blind) showed [8d 9s] and won ($17.64) with two pair, Nines and Eights
+
+

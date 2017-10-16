@@ -1,0 +1,80 @@
+PokerStars Hand #164872246412:  Hold'em Limit ($3/$6 USD) - 2017/01/20 6:31:10 ET
+Table 'Titan II' 6-max Seat #2 is the button
+Seat 1: MMM 22666 ($57.53 in chips)
+Seat 2: kolaz03 ($80.76 in chips)
+kolaz03: posts small blind $1
+MMM 22666: posts big blind $3
+*** HOLE CARDS ***
+olech1515 joins the table at seat #6
+kolaz03: folds
+Uncalled bet ($2) returned to MMM 22666
+MMM 22666 collected $2 from pot
+MMM 22666: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: MMM 22666 (big blind) collected ($2)
+Seat 2: kolaz03 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #164872250243:  Hold'em Limit ($3/$6 USD) - 2017/01/20 6:31:18 ET
+Table 'Titan II' 6-max Seat #1 is the button
+Seat 1: MMM 22666 ($58.53 in chips)
+Seat 2: kolaz03 ($79.76 in chips)
+MMM 22666: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+MMM 22666: raises $3 to $6
+kolaz03: calls $3
+*** FLOP *** [Qd Ac 5h]
+kolaz03: checks
+MMM 22666: checks
+*** TURN *** [Qd Ac 5h] [7h]
+kolaz03: checks
+MMM 22666: bets $6
+kolaz03: calls $6
+*** RIVER *** [Qd Ac 5h 7h] [7c]
+kolaz03: checks
+MMM 22666: bets $6
+kolaz03: calls $6
+*** SHOW DOWN ***
+MMM 22666: shows [5d Ad] (two pair, Aces and Sevens)
+kolaz03: mucks hand
+MMM 22666 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Qd Ac 5h 7h 7c]
+Seat 1: MMM 22666 (button) (small blind) showed [5d Ad] and won ($35.50) with two pair, Aces and Sevens
+Seat 2: kolaz03 (big blind) mucked
+
+
+PokerStars Hand #164873083103:  Hold'em Limit ($3/$6 USD) - 2017/01/20 6:59:35 ET
+Table 'Titan II' 6-max Seat #6 is the button
+Seat 5: karambakilla ($202.31 in chips)
+Seat 6: olech1515 ($107.02 in chips)
+olech1515: posts small blind $1
+Kasperla: is sitting out
+karambakilla: posts big blind $3
+*** HOLE CARDS ***
+olech1515: raises $3 to $6
+karambakilla: calls $3
+*** FLOP *** [2d 8s 8d]
+karambakilla: checks
+olech1515: bets $3
+karambakilla: calls $3
+*** TURN *** [2d 8s 8d] [3h]
+karambakilla: checks
+olech1515: checks
+*** RIVER *** [2d 8s 8d 3h] [Qd]
+karambakilla: checks
+olech1515: checks
+*** SHOW DOWN ***
+karambakilla: shows [Tc 9h] (a pair of Eights)
+olech1515: shows [Ac 7c] (a pair of Eights - Ace kicker)
+olech1515 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2d 8s 8d 3h Qd]
+Seat 5: karambakilla (big blind) showed [Tc 9h] and lost with a pair of Eights
+Seat 6: olech1515 (button) (small blind) showed [Ac 7c] and won ($17.64) with a pair of Eights
+
+

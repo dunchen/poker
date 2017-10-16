@@ -1,0 +1,34 @@
+PokerStars Hand #145355666149:  Hold'em Limit ($3/$6 USD) - 2015/12/14 18:12:54 ET
+Table 'Turandot' 6-max Seat #4 is the button
+Seat 2: Elgordos1 ($67 in chips)
+Seat 4: oj_pimpson ($142.51 in chips)
+oj_pimpson: posts small blind $1
+Karpik09: is sitting out
+Elgordos1: posts big blind $3
+*** HOLE CARDS ***
+oj_pimpson: raises $3 to $6
+Karpik09 leaves the table
+Elgordos1: calls $3
+*** FLOP *** [7c 2h 9c]
+Elgordos1: checks
+oj_pimpson: bets $3
+Elgordos1: calls $3
+*** TURN *** [7c 2h 9c] [Ah]
+Elgordos1: checks
+oj_pimpson: bets $6
+Elgordos1: calls $6
+*** RIVER *** [7c 2h 9c Ah] [Qc]
+Elgordos1: checks
+oj_pimpson: bets $6
+Elgordos1: calls $6
+*** SHOW DOWN ***
+oj_pimpson: shows [Jh Th] (high card Ace)
+Elgordos1: shows [9h 6h] (a pair of Nines)
+Elgordos1 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [7c 2h 9c Ah Qc]
+Seat 2: Elgordos1 (big blind) showed [9h 6h] and won ($41.50) with a pair of Nines
+Seat 4: oj_pimpson (button) (small blind) showed [Jh Th] and lost with high card Ace
+
+

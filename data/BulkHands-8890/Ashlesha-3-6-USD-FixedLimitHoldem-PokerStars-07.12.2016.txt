@@ -1,0 +1,34 @@
+PokerStars Hand #162578791468:  Hold'em Limit ($3/$6 USD) - 2016/12/07 16:43:04 ET
+Table 'Ashlesha' 6-max Seat #6 is the button
+Seat 4: linuxhunter ($211.29 in chips)
+Seat 6: vestimokrec ($139.97 in chips)
+vestimokrec: posts small blind $1
+Zubasa07: is sitting out
+linuxhunter: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07 leaves the table
+vestimokrec: raises $3 to $6
+linuxhunter: calls $3
+*** FLOP *** [4s Ks Td]
+linuxhunter: checks
+vestimokrec: bets $3
+linuxhunter: raises $3 to $6
+vestimokrec: calls $3
+*** TURN *** [4s Ks Td] [Jh]
+linuxhunter: bets $6
+vestimokrec: calls $6
+*** RIVER *** [4s Ks Td Jh] [3h]
+linuxhunter: bets $6
+vestimokrec: raises $6 to $12
+linuxhunter: calls $6
+*** SHOW DOWN ***
+vestimokrec: shows [Kc 3s] (two pair, Kings and Threes)
+linuxhunter: shows [Kh Th] (two pair, Kings and Tens)
+linuxhunter collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [4s Ks Td Jh 3h]
+Seat 4: linuxhunter (big blind) showed [Kh Th] and won ($59.50) with two pair, Kings and Tens
+Seat 6: vestimokrec (button) (small blind) showed [Kc 3s] and lost with two pair, Kings and Threes
+
+

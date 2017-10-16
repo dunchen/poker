@@ -1,0 +1,58 @@
+PokerStars Hand #170451879392:  Hold'em Limit ($3/$6 USD) - 2017/05/15 10:22:53 ET
+Table 'Sirona' 6-max Seat #3 is the button
+Seat 3: igorkabmw ($40 in chips)
+Seat 4: TbIP-TbIP 88 ($72 in chips)
+igorkabmw: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+igorkabmw: calls $2
+TbIP-TbIP 88: raises $3 to $6
+igorkabmw: calls $3
+*** FLOP *** [Td 4h 8h]
+TbIP-TbIP 88: bets $3
+igorkabmw: calls $3
+*** TURN *** [Td 4h 8h] [Ac]
+TbIP-TbIP 88: bets $6
+igorkabmw: calls $6
+*** RIVER *** [Td 4h 8h Ac] [9d]
+TbIP-TbIP 88: checks
+igorkabmw: checks
+*** SHOW DOWN ***
+TbIP-TbIP 88: shows [Jc Ks] (high card Ace)
+igorkabmw: shows [Th 7d] (a pair of Tens)
+igorkabmw collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Td 4h 8h Ac 9d]
+Seat 3: igorkabmw (button) (small blind) showed [Th 7d] and won ($29.50) with a pair of Tens
+Seat 4: TbIP-TbIP 88 (big blind) showed [Jc Ks] and lost with high card Ace
+
+
+PokerStars Hand #170451909624:  Hold'em Limit ($3/$6 USD) - 2017/05/15 10:23:33 ET
+Table 'Sirona' 6-max Seat #4 is the button
+Seat 3: igorkabmw ($54.50 in chips)
+Seat 4: TbIP-TbIP 88 ($72 in chips)
+TbIP-TbIP 88: posts small blind $1
+igorkabmw: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88: raises $3 to $6
+igorkabmw: calls $3
+*** FLOP *** [Qd Th 6s]
+igorkabmw: checks
+TbIP-TbIP 88: bets $3
+igorkabmw: calls $3
+*** TURN *** [Qd Th 6s] [2s]
+igorkabmw: checks
+TbIP-TbIP 88: checks
+*** RIVER *** [Qd Th 6s 2s] [6d]
+igorkabmw: bets $6
+TbIP-TbIP 88: folds
+Uncalled bet ($6) returned to igorkabmw
+igorkabmw collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qd Th 6s 2s 6d]
+Seat 3: igorkabmw (big blind) collected ($17.64)
+Seat 4: TbIP-TbIP 88 (button) (small blind) folded on the River
+
+

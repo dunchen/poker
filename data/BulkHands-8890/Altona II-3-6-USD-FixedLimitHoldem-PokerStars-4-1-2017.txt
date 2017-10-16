@@ -1,0 +1,65 @@
+PokerStars Hand #168421006522:  Hold'em Limit ($3/$6 USD) - 2017/04/01 11:30:05 ET
+Table 'Altona II' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($120 in chips)
+Seat 6: Frank_Stein ($137.50 in chips)
+VolkovDmitri: posts small blind $1
+Frank_Stein: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Frank_Stein: calls $3
+*** FLOP *** [5h 9d 6c]
+Frank_Stein: checks
+zepsweden joins the table at seat #3
+VolkovDmitri: bets $3
+Frank_Stein: raises $3 to $6
+AzureCaper joins the table at seat #5
+VolkovDmitri: raises $3 to $9
+Frank_Stein: calls $3
+*** TURN *** [5h 9d 6c] [3c]
+Frank_Stein: checks
+VolkovDmitri: bets $6
+Frank_Stein: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $29.50 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5h 9d 6c 3c]
+Seat 4: VolkovDmitri (button) (small blind) collected ($29.50)
+Seat 6: Frank_Stein (big blind) folded on the Turn
+
+
+PokerStars Hand #168421908180:  Hold'em Limit ($3/$6 USD) - 2017/04/01 11:51:29 ET
+Table 'Altona II' 6-max Seat #2 is the button
+Seat 2: HAL9QQQ ($150.10 in chips)
+Seat 6: Frank_Stein ($217.07 in chips)
+HAL9QQQ: posts small blind $1
+aade1ante was removed from the table for failing to post
+AzureCaper: is sitting out
+Frank_Stein: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper leaves the table
+HAL9QQQ: raises $3 to $6
+Frank_Stein: calls $3
+*** FLOP *** [Kd 3s Jd]
+Frank_Stein: checks
+HAL9QQQ: bets $3
+Frank_Stein: raises $3 to $6
+HAL9QQQ: calls $3
+*** TURN *** [Kd 3s Jd] [8s]
+Frank_Stein: bets $6
+HAL9QQQ: calls $6
+*** RIVER *** [Kd 3s Jd 8s] [4d]
+Frank_Stein: bets $6
+HAL9QQQ: calls $6
+*** SHOW DOWN ***
+Frank_Stein: shows [Js 4s] (two pair, Jacks and Fours)
+HAL9QQQ: mucks hand
+Frank_Stein collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Kd 3s Jd 8s 4d]
+Seat 2: HAL9QQQ (button) (small blind) mucked
+Seat 6: Frank_Stein (big blind) showed [Js 4s] and won ($47.50) with two pair, Jacks and Fours
+
+

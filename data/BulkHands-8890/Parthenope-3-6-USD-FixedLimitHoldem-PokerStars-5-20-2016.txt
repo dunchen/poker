@@ -1,0 +1,31 @@
+PokerStars Hand #153597656201:  Hold'em Limit ($3/$6 USD) - 2016/05/20 15:28:40 ET
+Table 'Parthenope' 6-max Seat #3 is the button
+Seat 3: Alan The For ($111 in chips)
+Seat 4: pasha6o ($38.52 in chips)
+Alan The For: posts small blind $1
+pasha6o: posts big blind $3
+*** HOLE CARDS ***
+Alan The For: raises $3 to $6
+pasha6o: calls $3
+*** FLOP *** [2c 6h 4s]
+pasha6o: checks
+Alan The For: bets $3
+pasha6o: raises $3 to $6
+Alan The For: calls $3
+*** TURN *** [2c 6h 4s] [Ks]
+pasha6o: bets $6
+Alan The For: calls $6
+*** RIVER *** [2c 6h 4s Ks] [3h]
+pasha6o: checks
+Alan The For: checks
+*** SHOW DOWN ***
+pasha6o: shows [4h Qh] (a pair of Fours)
+Alan The For: mucks hand
+pasha6o collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [2c 6h 4s Ks 3h]
+Seat 3: Alan The For (button) (small blind) mucked
+Seat 4: pasha6o (big blind) showed [4h Qh] and won ($35.50) with a pair of Fours
+
+

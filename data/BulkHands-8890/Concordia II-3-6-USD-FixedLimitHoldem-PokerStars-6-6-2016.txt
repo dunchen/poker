@@ -1,0 +1,32 @@
+PokerStars Hand #154361628776:  Hold'em Limit ($3/$6 USD) - 2016/06/06 5:38:23 ET
+Table 'Concordia II' 6-max Seat #1 is the button
+Seat 1: Ag3r0n ($138.46 in chips)
+Seat 5: mirajoon ($197.63 in chips)
+Ag3r0n: posts small blind $1
+tomte999: is sitting out
+mirajoon: posts big blind $3
+*** HOLE CARDS ***
+tomte999 leaves the table
+Ag3r0n: raises $3 to $6
+mirajoon: raises $3 to $9
+Ag3r0n: calls $3
+*** FLOP *** [9d 3s 3d]
+mirajoon: bets $3
+Ag3r0n: calls $3
+*** TURN *** [9d 3s 3d] [8d]
+mirajoon: bets $6
+Ag3r0n: calls $6
+*** RIVER *** [9d 3s 3d 8d] [Kc]
+mirajoon: bets $6
+Ag3r0n: calls $6
+*** SHOW DOWN ***
+mirajoon: shows [Ah Ac] (two pair, Aces and Threes)
+Ag3r0n: mucks hand
+mirajoon collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9d 3s 3d 8d Kc]
+Seat 1: Ag3r0n (button) (small blind) mucked
+Seat 5: mirajoon (big blind) showed [Ah Ac] and won ($47.50) with two pair, Aces and Threes
+
+

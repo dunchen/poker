@@ -1,0 +1,87 @@
+PokerStars Hand #164842537087:  Hold'em Limit ($3/$6 USD) - 2017/01/19 14:51:07 ET
+Table 'Chantal' 6-max Seat #1 is the button
+Seat 1: ulrich80 ($101 in chips)
+Seat 3: Collector8810 ($68.05 in chips)
+ulrich80: posts small blind $1
+Collector8810: posts big blind $3
+*** HOLE CARDS ***
+ulrich80: raises $3 to $6
+234599330 joins the table at seat #4
+Collector8810: calls $3
+*** FLOP *** [8h 3d 9s]
+Collector8810: bets $3
+ulrich80: calls $3
+*** TURN *** [8h 3d 9s] [6s]
+Collector8810: checks
+ulrich80: checks
+*** RIVER *** [8h 3d 9s 6s] [Td]
+Collector8810: bets $6
+ulrich80: folds
+Uncalled bet ($6) returned to Collector8810
+Collector8810 collected $17.64 from pot
+Collector8810: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8h 3d 9s 6s Td]
+Seat 1: ulrich80 (button) (small blind) folded on the River
+Seat 3: Collector8810 (big blind) collected ($17.64)
+
+
+PokerStars Hand #164842742138:  Hold'em Limit ($3/$6 USD) - 2017/01/19 14:54:35 ET
+Table 'Chantal' 6-max Seat #4 is the button
+Seat 3: Collector8810 ($30.12 in chips)
+Seat 4: 234599330 ($73 in chips)
+234599330: posts small blind $1
+ulrich80: is sitting out
+Collector8810: posts big blind $3
+*** HOLE CARDS ***
+ulrich80 leaves the table
+234599330: calls $2
+Collector8810: checks
+*** FLOP *** [Ad 3s 5h]
+wobetting leaves the table
+Collector8810: bets $3
+234599330: calls $3
+*** TURN *** [Ad 3s 5h] [Qc]
+Collector8810: bets $6
+234599330: calls $6
+*** RIVER *** [Ad 3s 5h Qc] [Ks]
+Collector8810: bets $6
+234599330: calls $6
+*** SHOW DOWN ***
+Collector8810: shows [Ah 4c] (a pair of Aces)
+234599330: mucks hand
+Collector8810 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Ad 3s 5h Qc Ks]
+Seat 3: Collector8810 (big blind) showed [Ah 4c] and won ($35.50) with a pair of Aces
+Seat 4: 234599330 (button) (small blind) mucked
+
+
+PokerStars Hand #164842773627:  Hold'em Limit ($3/$6 USD) - 2017/01/19 14:55:09 ET
+Table 'Chantal' 6-max Seat #3 is the button
+Seat 3: Collector8810 ($47.62 in chips)
+Seat 4: 234599330 ($72 in chips)
+Collector8810: posts small blind $1
+234599330: posts big blind $3
+*** HOLE CARDS ***
+Collector8810: calls $2
+234599330: checks
+*** FLOP *** [Jc 7h 2s]
+234599330: bets $3
+Collector8810: calls $3
+*** TURN *** [Jc 7h 2s] [6h]
+234599330: checks
+Collector8810: bets $6
+234599330: folds
+Uncalled bet ($6) returned to Collector8810
+Collector8810 collected $11.76 from pot
+Collector8810: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jc 7h 2s 6h]
+Seat 3: Collector8810 (button) (small blind) collected ($11.76)
+Seat 4: 234599330 (big blind) folded on the Turn
+
+

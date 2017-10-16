@@ -1,0 +1,34 @@
+PokerStars Hand #146827315104:  Hold'em Limit ($3/$6 USD) - 2016/01/10 17:50:30 ET
+Table 'Crater' 6-max Seat #5 is the button
+Seat 4: krytalex ($82.29 in chips)
+Seat 5: boony444 ($322.45 in chips)
+boony444: posts small blind $1
+krytalex: posts big blind $3
+*** HOLE CARDS ***
+boony444: raises $3 to $6
+Mal3310107 leaves the table
+krytalex: calls $3
+*** FLOP *** [2h Td 5c]
+krytalex: checks
+boony444: bets $3
+krytalex: raises $3 to $6
+boony444: calls $3
+*** TURN *** [2h Td 5c] [Jh]
+krytalex: bets $6
+boony444: raises $6 to $12
+krytalex: calls $6
+*** RIVER *** [2h Td 5c Jh] [4s]
+krytalex: checks
+boony444: bets $6
+krytalex: calls $6
+*** SHOW DOWN ***
+boony444: shows [Ac Ts] (a pair of Tens)
+krytalex: mucks hand
+boony444 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [2h Td 5c Jh 4s]
+Seat 4: krytalex (big blind) mucked
+Seat 5: boony444 (button) (small blind) showed [Ac Ts] and won ($59.50) with a pair of Tens
+
+

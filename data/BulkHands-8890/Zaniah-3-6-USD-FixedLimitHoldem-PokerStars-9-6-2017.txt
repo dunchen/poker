@@ -1,0 +1,136 @@
+PokerStars Hand #175285308507:  Hold'em Limit ($3/$6 USD) - 2017/09/06 11:56:00 ET
+Table 'Zaniah' 6-max Seat #6 is the button
+Seat 4: Agrotait ($60 in chips)
+Seat 6: igorkabmw ($38 in chips)
+igorkabmw: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+igorkabmw: raises $3 to $6
+Agrotait: raises $3 to $9
+igorkabmw: calls $3
+*** FLOP *** [6c 6s Jd]
+Ale4o joins the table at seat #2
+Agrotait: bets $3
+igorkabmw: calls $3
+*** TURN *** [6c 6s Jd] [Qd]
+Agrotait is disconnected
+Agrotait is connected
+Agrotait: checks
+igorkabmw: checks
+*** RIVER *** [6c 6s Jd Qd] [5s]
+hooverr joins the table at seat #3
+Agrotait: checks
+igorkabmw: checks
+*** SHOW DOWN ***
+Agrotait: shows [Kd Ah] (a pair of Sixes)
+igorkabmw: mucks hand
+Agrotait collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [6c 6s Jd Qd 5s]
+Seat 4: Agrotait (big blind) showed [Kd Ah] and won ($23.52) with a pair of Sixes
+Seat 6: igorkabmw (button) (small blind) mucked
+
+
+PokerStars Hand #175285369346:  Hold'em Limit ($3/$6 USD) - 2017/09/06 11:57:54 ET
+Table 'Zaniah' 6-max Seat #4 is the button
+Seat 4: Agrotait ($71.52 in chips)
+Seat 6: igorkabmw ($26 in chips)
+Agrotait: posts small blind $1
+igorkabmw: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+igorkabmw: calls $3
+*** FLOP *** [2s 2d 3c]
+igorkabmw: bets $3
+Agrotait: calls $3
+*** TURN *** [2s 2d 3c] [8h]
+igorkabmw: bets $6
+Agrotait: calls $6
+*** RIVER *** [2s 2d 3c 8h] [Jd]
+igorkabmw: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+igorkabmw: shows [7h 5c] (a pair of Deuces)
+Agrotait: shows [Kc Ts] (a pair of Deuces - King kicker)
+Agrotait collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2s 2d 3c 8h Jd]
+Seat 4: Agrotait (button) (small blind) showed [Kc Ts] and won ($41.50) with a pair of Deuces
+Seat 6: igorkabmw (big blind) showed [7h 5c] and lost with a pair of Deuces
+
+
+PokerStars Hand #175285466854:  Hold'em Limit ($3/$6 USD) - 2017/09/06 12:00:48 ET
+Table 'Zaniah' 6-max Seat #3 is the button
+Seat 2: Ale4o ($111 in chips)
+Seat 3: hooverr ($54.78 in chips)
+hooverr: posts small blind $1
+Agrotait: is sitting out
+Ale4o: posts big blind $3
+*** HOLE CARDS ***
+hooverr: raises $3 to $6
+igorkabmw leaves the table
+Agrotait leaves the table
+Ale4o: folds
+Uncalled bet ($3) returned to hooverr
+hooverr collected $6 from pot
+hooverr: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: Ale4o (big blind) folded before Flop
+Seat 3: hooverr (button) (small blind) collected ($6)
+
+
+PokerStars Hand #175285484349:  Hold'em Limit ($3/$6 USD) - 2017/09/06 12:01:15 ET
+Table 'Zaniah' 6-max Seat #5 is the button
+Seat 3: hooverr ($50.78 in chips)
+Seat 5: Acidstorm200 ($41.75 in chips)
+Acidstorm200: posts small blind $1
+Ale4o: is sitting out
+hooverr: posts big blind $3
+*** HOLE CARDS ***
+Acidstorm200: calls $2
+hooverr: checks
+*** FLOP *** [Ah Qd 2c]
+hooverr: checks
+Acidstorm200: checks
+*** TURN *** [Ah Qd 2c] [8d]
+hooverr: bets $6
+Acidstorm200: folds
+Uncalled bet ($6) returned to hooverr
+Acidstorm200 leaves the table
+Ale4o leaves the table
+hooverr collected $5.88 from pot
+hooverr: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Ah Qd 2c 8d]
+Seat 3: hooverr (big blind) collected ($5.88)
+Seat 5: Acidstorm200 (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #175285472128:  Hold'em Limit ($3/$6 USD) - 2017/09/06 12:00:57 ET
+Table 'Zaniah' 6-max Seat #2 is the button
+Seat 2: Ale4o ($108 in chips)
+Seat 3: hooverr ($57.78 in chips)
+Ale4o: posts small blind $1
+hooverr: posts big blind $3
+*** HOLE CARDS ***
+Ale4o: raises $3 to $6
+hooverr: calls $3
+*** FLOP *** [5c 4d Ah]
+Acidstorm200 joins the table at seat #5
+hooverr: checks
+Ale4o: bets $3
+hooverr: folds
+Uncalled bet ($3) returned to Ale4o
+Ale4o collected $11.76 from pot
+Ale4o: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5c 4d Ah]
+Seat 2: Ale4o (button) (small blind) collected ($11.76)
+Seat 3: hooverr (big blind) folded on the Flop
+
+

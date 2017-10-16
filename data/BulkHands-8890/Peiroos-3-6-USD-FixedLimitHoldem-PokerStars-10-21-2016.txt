@@ -1,0 +1,103 @@
+PokerStars Hand #160247375293:  Hold'em Limit ($3/$6 USD) - 2016/10/21 15:40:47 ET
+Table 'Peiroos' 10-max Seat #5 is the button
+Seat 5: _pokergot177 ($48.11 in chips)
+Seat 6: assitoni ($72 in chips)
+_pokergot177: posts small blind $1
+assitoni: posts big blind $3
+*** HOLE CARDS ***
+_pokergot177: calls $2
+assitoni: raises $3 to $6
+_pokergot177 is connected
+_pokergot177: calls $3
+*** FLOP *** [2s Tc Ts]
+assitoni: bets $3
+_pokergot177: folds
+Uncalled bet ($3) returned to assitoni
+assitoni collected $11.76 from pot
+assitoni: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2s Tc Ts]
+Seat 5: _pokergot177 (button) (small blind) folded on the Flop
+Seat 6: assitoni (big blind) collected ($11.76)
+
+
+PokerStars Hand #160247484504:  Hold'em Limit ($3/$6 USD) - 2016/10/21 15:42:56 ET
+Table 'Peiroos' 10-max Seat #6 is the button
+Seat 5: _pokergot177 ($15.11 in chips)
+Seat 6: assitoni ($104.26 in chips)
+assitoni: posts small blind $1
+_pokergot177: posts big blind $3
+*** HOLE CARDS ***
+assitoni: raises $3 to $6
+_pokergot177: calls $3
+*** FLOP *** [Th Jc 8c]
+_pokergot177: checks
+assitoni: bets $3
+_pokergot177: calls $3
+*** TURN *** [Th Jc 8c] [5c]
+_pokergot177: bets $6
+assitoni: raises $6 to $12
+_pokergot177: calls $0.11 and is all-in
+Uncalled bet ($5.89) returned to assitoni
+*** RIVER *** [Th Jc 8c 5c] [Td]
+*** SHOW DOWN ***
+_pokergot177: shows [9d Kd] (a pair of Tens)
+assitoni: shows [Ad Jh] (two pair, Jacks and Tens)
+assitoni collected $29.72 from pot
+*** SUMMARY ***
+Total pot $30.22 | Rake $0.50
+Board [Th Jc 8c 5c Td]
+Seat 5: _pokergot177 (big blind) showed [9d Kd] and lost with a pair of Tens
+Seat 6: assitoni (button) (small blind) showed [Ad Jh] and won ($29.72) with two pair, Jacks and Tens
+
+
+PokerStars Hand #160247476319:  Hold'em Limit ($3/$6 USD) - 2016/10/21 15:42:46 ET
+Table 'Peiroos' 10-max Seat #5 is the button
+Seat 5: _pokergot177 ($12.11 in chips)
+Seat 6: assitoni ($107.26 in chips)
+_pokergot177: posts small blind $1
+assitoni: posts big blind $3
+*** HOLE CARDS ***
+_pokergot177: raises $3 to $6
+assitoni: folds
+Uncalled bet ($3) returned to _pokergot177
+_pokergot177 collected $6 from pot
+_pokergot177: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 5: _pokergot177 (button) (small blind) collected ($6)
+Seat 6: assitoni (big blind) folded before Flop
+
+
+PokerStars Hand #160247445234:  Hold'em Limit ($3/$6 USD) - 2016/10/21 15:42:10 ET
+Table 'Peiroos' 10-max Seat #6 is the button
+Seat 5: _pokergot177 ($42.11 in chips)
+Seat 6: assitoni ($77.76 in chips)
+assitoni: posts small blind $1
+_pokergot177: posts big blind $3
+*** HOLE CARDS ***
+assitoni: raises $3 to $6
+_pokergot177: calls $3
+*** FLOP *** [8h 9d Td]
+_pokergot177: bets $3
+assitoni: raises $3 to $6
+_pokergot177: calls $3
+*** TURN *** [8h 9d Td] [3c]
+_pokergot177: bets $6
+assitoni: raises $6 to $12
+_pokergot177: calls $6
+*** RIVER *** [8h 9d Td 3c] [7d]
+_pokergot177: bets $6
+assitoni: calls $6
+*** SHOW DOWN ***
+_pokergot177: shows [4c Qc] (high card Queen)
+assitoni: shows [Ts 8s] (two pair, Tens and Eights)
+assitoni collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [8h 9d Td 3c 7d]
+Seat 5: _pokergot177 (big blind) showed [4c Qc] and lost with high card Queen
+Seat 6: assitoni (button) (small blind) showed [Ts 8s] and won ($59.50) with two pair, Tens and Eights
+
+

@@ -1,0 +1,56 @@
+PokerStars Hand #170986394169:  Hold'em Limit ($3/$6 USD) - 2017/05/27 12:31:01 ET
+Table 'Veritas' 6-max Seat #1 is the button
+Seat 1: B_loJkl ($150 in chips)
+Seat 6: gorcea_vs ($120 in chips)
+B_loJkl: posts small blind $1
+gorcea_vs: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+gorcea_vs: calls $3
+*** FLOP *** [Jd Ks 8d]
+gorcea_vs: checks
+B_loJkl: bets $3
+gorcea_vs: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jd Ks 8d]
+Seat 1: B_loJkl (button) (small blind) collected ($11.76)
+Seat 6: gorcea_vs (big blind) folded on the Flop
+
+
+PokerStars Hand #170986410091:  Hold'em Limit ($3/$6 USD) - 2017/05/27 12:31:25 ET
+Table 'Veritas' 6-max Seat #6 is the button
+Seat 1: B_loJkl ($155.76 in chips)
+Seat 6: gorcea_vs ($114 in chips)
+gorcea_vs: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+gorcea_vs: calls $2
+B_loJkl: raises $3 to $6
+gorcea_vs: calls $3
+*** FLOP *** [Qs 8s Jc]
+B_loJkl: bets $3
+gorcea_vs: calls $3
+*** TURN *** [Qs 8s Jc] [3c]
+B_loJkl: checks
+gorcea_vs: bets $6
+vestimokrec joins the table at seat #2
+B_loJkl: calls $6
+*** RIVER *** [Qs 8s Jc 3c] [Ac]
+B_loJkl: checks
+gorcea_vs: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+gorcea_vs: shows [Ts 2s] (high card Ace)
+B_loJkl: shows [4h Ad] (a pair of Aces)
+B_loJkl collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Qs 8s Jc 3c Ac]
+Seat 1: B_loJkl (big blind) showed [4h Ad] and won ($41.50) with a pair of Aces
+Seat 6: gorcea_vs (button) (small blind) showed [Ts 2s] and lost with high card Ace
+
+

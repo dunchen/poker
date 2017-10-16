@@ -1,0 +1,60 @@
+PokerStars Hand #168392734478:  Hold'em Limit ($3/$6 USD) - 2017/03/31 18:20:26 ET
+Table 'Notburga II' 6-max Seat #1 is the button
+Seat 1: Chessnok ($121.58 in chips)
+Seat 6: davyyyyyyy ($213.93 in chips)
+Chessnok: posts small blind $1
+rascal_319: is sitting out
+davyyyyyyy: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: calls $2
+rascal_319 leaves the table
+davyyyyyyy: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [8c Ks Jh]
+davyyyyyyy: bets $3
+Chessnok: calls $3
+*** TURN *** [8c Ks Jh] [2s]
+davyyyyyyy: bets $6
+Chessnok: calls $6
+*** RIVER *** [8c Ks Jh 2s] [2d]
+davyyyyyyy: bets $6
+Chessnok: calls $6
+*** SHOW DOWN ***
+davyyyyyyy: shows [Kd 3d] (two pair, Kings and Deuces)
+Chessnok: mucks hand
+davyyyyyyy collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [8c Ks Jh 2s 2d]
+Seat 1: Chessnok (button) (small blind) mucked
+Seat 6: davyyyyyyy (big blind) showed [Kd 3d] and won ($41.50) with two pair, Kings and Deuces
+
+
+PokerStars Hand #168392753001:  Hold'em Limit ($3/$6 USD) - 2017/03/31 18:20:50 ET
+Table 'Notburga II' 6-max Seat #6 is the button
+Seat 1: Chessnok ($100.58 in chips)
+Seat 6: davyyyyyyy ($234.43 in chips)
+davyyyyyyy: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+davyyyyyyy: calls $2
+Chessnok: checks
+*** FLOP *** [Js 2d 7h]
+Chessnok: checks
+davyyyyyyy: checks
+*** TURN *** [Js 2d 7h] [Td]
+Chessnok: checks
+davyyyyyyy: checks
+*** RIVER *** [Js 2d 7h Td] [Kc]
+Chessnok: checks
+davyyyyyyy: bets $6
+Chessnok: folds
+Uncalled bet ($6) returned to davyyyyyyy
+davyyyyyyy collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Js 2d 7h Td Kc]
+Seat 1: Chessnok (big blind) folded on the River
+Seat 6: davyyyyyyy (button) (small blind) collected ($5.88)
+
+

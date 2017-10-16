@@ -1,0 +1,510 @@
+PokerStars Hand #147689609384:  Hold'em Limit ($3/$6 USD) - 2016/01/25 22:40:47 ET
+Table 'Garuda' 2-max Seat #2 is the button
+Seat 1: permafrost07 ($47.81 in chips)
+Seat 2: krytalex ($120 in chips)
+krytalex: posts small blind $1
+permafrost07: posts big blind $3
+*** HOLE CARDS ***
+krytalex: folds
+Uncalled bet ($2) returned to permafrost07
+permafrost07 collected $2 from pot
+permafrost07: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: permafrost07 (big blind) collected ($2)
+Seat 2: krytalex (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147689613893:  Hold'em Limit ($3/$6 USD) - 2016/01/25 22:40:59 ET
+Table 'Garuda' 2-max Seat #1 is the button
+Seat 1: permafrost07 ($48.81 in chips)
+Seat 2: krytalex ($119 in chips)
+permafrost07: posts small blind $1
+krytalex: posts big blind $3
+*** HOLE CARDS ***
+permafrost07: raises $3 to $6
+krytalex: raises $3 to $9
+permafrost07: raises $3 to $12
+Betting is capped
+krytalex: calls $3
+*** FLOP *** [5d 7d 2s]
+krytalex: checks
+permafrost07: bets $3
+krytalex: calls $3
+*** TURN *** [5d 7d 2s] [Qh]
+krytalex: checks
+permafrost07: checks
+*** RIVER *** [5d 7d 2s Qh] [9h]
+krytalex: bets $6
+permafrost07: folds
+Uncalled bet ($6) returned to krytalex
+krytalex collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5d 7d 2s Qh 9h]
+Seat 1: permafrost07 (button) (small blind) folded on the River
+Seat 2: krytalex (big blind) collected ($29.50)
+
+
+PokerStars Hand #147689628303:  Hold'em Limit ($3/$6 USD) - 2016/01/25 22:41:40 ET
+Table 'Garuda' 2-max Seat #2 is the button
+Seat 1: permafrost07 ($33.81 in chips)
+Seat 2: krytalex ($133.50 in chips)
+krytalex: posts small blind $1
+permafrost07: posts big blind $3
+*** HOLE CARDS ***
+krytalex: raises $3 to $6
+permafrost07: raises $3 to $9
+krytalex: calls $3
+*** FLOP *** [Kh 4d Jh]
+permafrost07: bets $3
+krytalex: calls $3
+*** TURN *** [Kh 4d Jh] [2c]
+permafrost07: checks
+krytalex: checks
+*** RIVER *** [Kh 4d Jh 2c] [9c]
+permafrost07: bets $6
+krytalex: folds
+Uncalled bet ($6) returned to permafrost07
+permafrost07 collected $23.52 from pot
+permafrost07: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Kh 4d Jh 2c 9c]
+Seat 1: permafrost07 (big blind) collected ($23.52)
+Seat 2: krytalex (button) (small blind) folded on the River
+
+
+PokerStars Hand #147689642423:  Hold'em Limit ($3/$6 USD) - 2016/01/25 22:42:20 ET
+Table 'Garuda' 2-max Seat #1 is the button
+Seat 1: permafrost07 ($45.33 in chips)
+Seat 2: krytalex ($121.50 in chips)
+permafrost07: posts small blind $1
+krytalex: posts big blind $3
+*** HOLE CARDS ***
+permafrost07: raises $3 to $6
+krytalex: raises $3 to $9
+permafrost07: raises $3 to $12
+Betting is capped
+krytalex: calls $3
+*** FLOP *** [5s Td 8d]
+krytalex: checks
+permafrost07: bets $3
+krytalex: raises $3 to $6
+permafrost07: calls $3
+*** TURN *** [5s Td 8d] [Ts]
+krytalex: bets $6
+permafrost07: calls $6
+*** RIVER *** [5s Td 8d Ts] [6h]
+krytalex: bets $6
+permafrost07: calls $6
+*** SHOW DOWN ***
+krytalex: shows [Ah 8h] (two pair, Tens and Eights)
+permafrost07: mucks hand
+krytalex collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [5s Td 8d Ts 6h]
+Seat 1: permafrost07 (button) (small blind) mucked
+Seat 2: krytalex (big blind) showed [Ah 8h] and won ($59.50) with two pair, Tens and Eights
+
+
+PokerStars Hand #147689664363:  Hold'em Limit ($3/$6 USD) - 2016/01/25 22:43:22 ET
+Table 'Garuda' 2-max Seat #2 is the button
+Seat 1: permafrost07 ($15.33 in chips)
+Seat 2: krytalex ($151 in chips)
+krytalex: posts small blind $1
+permafrost07: posts big blind $3
+*** HOLE CARDS ***
+krytalex: raises $3 to $6
+permafrost07: raises $3 to $9
+krytalex: raises $3 to $12
+Betting is capped
+permafrost07: calls $3
+*** FLOP *** [7c 3d 4d]
+permafrost07: bets $3
+krytalex: raises $3 to $6
+permafrost07: calls $0.33 and is all-in
+Uncalled bet ($2.67) returned to krytalex
+*** TURN *** [7c 3d 4d] [Jh]
+*** RIVER *** [7c 3d 4d Jh] [6d]
+*** SHOW DOWN ***
+permafrost07: shows [5s 5d] (a straight, Three to Seven)
+krytalex: shows [Qc Qd] (a pair of Queens)
+permafrost07 collected $30.16 from pot
+*** SUMMARY ***
+Total pot $30.66 | Rake $0.50
+Board [7c 3d 4d Jh 6d]
+Seat 1: permafrost07 (big blind) showed [5s 5d] and won ($30.16) with a straight, Three to Seven
+Seat 2: krytalex (button) (small blind) showed [Qc Qd] and lost with a pair of Queens
+
+
+PokerStars Hand #147689676270:  Hold'em Limit ($3/$6 USD) - 2016/01/25 22:43:56 ET
+Table 'Garuda' 2-max Seat #1 is the button
+Seat 1: permafrost07 ($30.16 in chips)
+Seat 2: krytalex ($135.67 in chips)
+permafrost07: posts small blind $1
+krytalex: posts big blind $3
+*** HOLE CARDS ***
+permafrost07: raises $3 to $6
+krytalex: calls $3
+*** FLOP *** [Js Kc Ks]
+krytalex: checks
+permafrost07: bets $3
+krytalex: raises $3 to $6
+permafrost07: calls $3
+*** TURN *** [Js Kc Ks] [3h]
+krytalex: bets $6
+permafrost07: folds
+Uncalled bet ($6) returned to krytalex
+krytalex collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Js Kc Ks 3h]
+Seat 1: permafrost07 (button) (small blind) folded on the Turn
+Seat 2: krytalex (big blind) collected ($23.52)
+
+
+PokerStars Hand #147689689754:  Hold'em Limit ($3/$6 USD) - 2016/01/25 22:44:34 ET
+Table 'Garuda' 2-max Seat #2 is the button
+Seat 1: permafrost07 ($18.16 in chips)
+Seat 2: krytalex ($147.19 in chips)
+krytalex: posts small blind $1
+permafrost07: posts big blind $3
+*** HOLE CARDS ***
+krytalex: raises $3 to $6
+permafrost07: raises $3 to $9
+krytalex: calls $3
+*** FLOP *** [6h 6s Jd]
+permafrost07: bets $3
+krytalex: calls $3
+*** TURN *** [6h 6s Jd] [2s]
+permafrost07: bets $6
+krytalex: calls $6
+*** RIVER *** [6h 6s Jd 2s] [3c]
+permafrost07: bets $0.16 and is all-in
+krytalex: calls $0.16
+*** SHOW DOWN ***
+permafrost07: shows [8h Qc] (a pair of Sixes)
+krytalex: shows [As Th] (a pair of Sixes - Ace kicker)
+krytalex collected $35.82 from pot
+*** SUMMARY ***
+Total pot $36.32 | Rake $0.50
+Board [6h 6s Jd 2s 3c]
+Seat 1: permafrost07 (big blind) showed [8h Qc] and lost with a pair of Sixes
+Seat 2: krytalex (button) (small blind) showed [As Th] and won ($35.82) with a pair of Sixes
+
+
+PokerStars Hand #147696510029:  Hold'em Limit ($3/$6 USD) - 2016/01/26 4:41:26 ET
+Table 'Garuda' 2-max Seat #2 is the button
+Seat 1: kairobs ($95 in chips)
+Seat 2: krytalex ($189.11 in chips)
+krytalex: posts small blind $1
+kairobs: posts big blind $3
+*** HOLE CARDS ***
+krytalex: raises $3 to $6
+kairobs: raises $3 to $9
+krytalex: calls $3
+*** FLOP *** [Kd 5s Jh]
+kairobs: bets $3
+krytalex: calls $3
+*** TURN *** [Kd 5s Jh] [Tc]
+kairobs: bets $6
+krytalex: calls $6
+*** RIVER *** [Kd 5s Jh Tc] [As]
+kairobs: bets $6
+krytalex: raises $6 to $12
+kairobs: folds
+Uncalled bet ($6) returned to krytalex
+krytalex collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Kd 5s Jh Tc As]
+Seat 1: kairobs (big blind) folded on the River
+Seat 2: krytalex (button) (small blind) collected ($47.50)
+
+
+PokerStars Hand #147696499586:  Hold'em Limit ($3/$6 USD) - 2016/01/26 4:41:01 ET
+Table 'Garuda' 2-max Seat #1 is the button
+Seat 1: kairobs ($113 in chips)
+Seat 2: krytalex ($171.61 in chips)
+kairobs: posts small blind $1
+krytalex: posts big blind $3
+*** HOLE CARDS ***
+kairobs: raises $3 to $6
+krytalex: calls $3
+*** FLOP *** [Ts Tc 8s]
+krytalex: checks
+kairobs: bets $3
+krytalex: raises $3 to $6
+kairobs: calls $3
+*** TURN *** [Ts Tc 8s] [7d]
+krytalex: bets $6
+kairobs: calls $6
+*** RIVER *** [Ts Tc 8s 7d] [Kh]
+krytalex: bets $6
+kairobs: folds
+Uncalled bet ($6) returned to krytalex
+krytalex collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Ts Tc 8s 7d Kh]
+Seat 1: kairobs (button) (small blind) folded on the River
+Seat 2: krytalex (big blind) collected ($35.50)
+
+
+PokerStars Hand #147696494597:  Hold'em Limit ($3/$6 USD) - 2016/01/26 4:40:49 ET
+Table 'Garuda' 2-max Seat #2 is the button
+Seat 1: kairobs ($119 in chips)
+Seat 2: krytalex ($165.85 in chips)
+krytalex: posts small blind $1
+kairobs: posts big blind $3
+*** HOLE CARDS ***
+krytalex: raises $3 to $6
+kairobs: calls $3
+*** FLOP *** [5d 2h Kc]
+kairobs: checks
+krytalex: bets $3
+kairobs: folds
+Uncalled bet ($3) returned to krytalex
+krytalex collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5d 2h Kc]
+Seat 1: kairobs (big blind) folded on the Flop
+Seat 2: krytalex (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #147696490580:  Hold'em Limit ($3/$6 USD) - 2016/01/26 4:40:40 ET
+Table 'Garuda' 2-max Seat #1 is the button
+Seat 1: kairobs ($120 in chips)
+Seat 2: krytalex ($164.85 in chips)
+kairobs: posts small blind $1
+krytalex: posts big blind $3
+*** HOLE CARDS ***
+kairobs: folds
+Uncalled bet ($2) returned to krytalex
+krytalex collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: kairobs (button) (small blind) folded before Flop
+Seat 2: krytalex (big blind) collected ($2)
+
+
+PokerStars Hand #147696528544:  Hold'em Limit ($3/$6 USD) - 2016/01/26 4:42:10 ET
+Table 'Garuda' 2-max Seat #1 is the button
+Seat 1: kairobs ($89.50 in chips)
+Seat 2: krytalex ($193.61 in chips)
+kairobs: posts small blind $1
+krytalex: posts big blind $3
+*** HOLE CARDS ***
+kairobs: raises $3 to $6
+krytalex: raises $3 to $9
+kairobs: calls $3
+*** FLOP *** [8s 5s 7d]
+krytalex: bets $3
+kairobs: calls $3
+*** TURN *** [8s 5s 7d] [7h]
+krytalex: bets $6
+kairobs: calls $6
+*** RIVER *** [8s 5s 7d 7h] [8c]
+krytalex: bets $6
+kairobs: calls $6
+*** SHOW DOWN ***
+krytalex: shows [Tc 9c] (two pair, Eights and Sevens)
+kairobs: mucks hand
+krytalex collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8s 5s 7d 7h 8c]
+Seat 1: kairobs (button) (small blind) mucked
+Seat 2: krytalex (big blind) showed [Tc 9c] and won ($47.50) with two pair, Eights and Sevens
+
+
+PokerStars Hand #147696526636:  Hold'em Limit ($3/$6 USD) - 2016/01/26 4:42:05 ET
+Table 'Garuda' 2-max Seat #2 is the button
+Seat 1: kairobs ($88.50 in chips)
+Seat 2: krytalex ($194.61 in chips)
+krytalex: posts small blind $1
+kairobs: posts big blind $3
+*** HOLE CARDS ***
+krytalex: folds
+Uncalled bet ($2) returned to kairobs
+kairobs collected $2 from pot
+kairobs: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: kairobs (big blind) collected ($2)
+Seat 2: krytalex (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147696518344:  Hold'em Limit ($3/$6 USD) - 2016/01/26 4:41:46 ET
+Table 'Garuda' 2-max Seat #1 is the button
+Seat 1: kairobs ($71 in chips)
+Seat 2: krytalex ($212.61 in chips)
+kairobs: posts small blind $1
+krytalex: posts big blind $3
+*** HOLE CARDS ***
+kairobs: raises $3 to $6
+krytalex: calls $3
+*** FLOP *** [Th 5d Jd]
+krytalex: checks
+kairobs: checks
+*** TURN *** [Th 5d Jd] [Kc]
+krytalex: checks
+kairobs: bets $6
+krytalex: calls $6
+*** RIVER *** [Th 5d Jd Kc] [3c]
+krytalex: checks
+kairobs: bets $6
+krytalex: calls $6
+*** SHOW DOWN ***
+kairobs: shows [Jh Qh] (a pair of Jacks)
+krytalex: mucks hand
+kairobs collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Th 5d Jd Kc 3c]
+Seat 1: kairobs (button) (small blind) showed [Jh Qh] and won ($35.50) with a pair of Jacks
+Seat 2: krytalex (big blind) mucked
+
+
+PokerStars Hand #147696559623:  Hold'em Limit ($3/$6 USD) - 2016/01/26 4:43:24 ET
+Table 'Garuda' 2-max Seat #2 is the button
+Seat 1: kairobs ($59.26 in chips)
+Seat 2: krytalex ($222.63 in chips)
+krytalex: posts small blind $1
+kairobs: posts big blind $3
+*** HOLE CARDS ***
+krytalex: raises $3 to $6
+kairobs: calls $3
+*** FLOP *** [Qs As 2s]
+kairobs: bets $3
+krytalex: calls $3
+*** TURN *** [Qs As 2s] [2c]
+kairobs: checks
+krytalex: bets $6
+kairobs: folds
+Uncalled bet ($6) returned to krytalex
+krytalex collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qs As 2s 2c]
+Seat 1: kairobs (big blind) folded on the Turn
+Seat 2: krytalex (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #147696544872:  Hold'em Limit ($3/$6 USD) - 2016/01/26 4:42:49 ET
+Table 'Garuda' 2-max Seat #1 is the button
+Seat 1: kairobs ($53.50 in chips)
+Seat 2: krytalex ($228.63 in chips)
+kairobs: posts small blind $1
+krytalex: posts big blind $3
+*** HOLE CARDS ***
+kairobs: raises $3 to $6
+krytalex: calls $3
+*** FLOP *** [7s Tc 8c]
+krytalex: checks
+kairobs: checks
+*** TURN *** [7s Tc 8c] [Kh]
+krytalex: checks
+kairobs: checks
+*** RIVER *** [7s Tc 8c Kh] [Qs]
+krytalex: checks
+kairobs: checks
+*** SHOW DOWN ***
+krytalex: shows [3s 4h] (high card King)
+kairobs: shows [Ah 3h] (high card Ace)
+kairobs collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7s Tc 8c Kh Qs]
+Seat 1: kairobs (button) (small blind) showed [Ah 3h] and won ($11.76) with high card Ace
+Seat 2: krytalex (big blind) showed [3s 4h] and lost with high card King
+
+
+PokerStars Hand #147696534523:  Hold'em Limit ($3/$6 USD) - 2016/01/26 4:42:25 ET
+Table 'Garuda' 2-max Seat #2 is the button
+Seat 1: kairobs ($65.50 in chips)
+Seat 2: krytalex ($217.11 in chips)
+krytalex: posts small blind $1
+kairobs: posts big blind $3
+*** HOLE CARDS ***
+krytalex: raises $3 to $6
+kairobs: raises $3 to $9
+krytalex: calls $3
+*** FLOP *** [6s Qc 3h]
+kairobs: checks
+krytalex: bets $3
+kairobs: calls $3
+*** TURN *** [6s Qc 3h] [5s]
+kairobs: checks
+krytalex: bets $6
+kairobs: folds
+Uncalled bet ($6) returned to krytalex
+krytalex collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [6s Qc 3h 5s]
+Seat 1: kairobs (big blind) folded on the Turn
+Seat 2: krytalex (button) (small blind) collected ($23.52)
+
+
+PokerStars Hand #147696572841:  Hold'em Limit ($3/$6 USD) - 2016/01/26 4:43:56 ET
+Table 'Garuda' 2-max Seat #2 is the button
+Seat 1: kairobs ($44.26 in chips)
+Seat 2: krytalex ($237.03 in chips)
+krytalex: posts small blind $1
+kairobs: posts big blind $3
+*** HOLE CARDS ***
+krytalex: raises $3 to $6
+kairobs: raises $3 to $9
+krytalex: raises $3 to $12
+Betting is capped
+kairobs: calls $3
+*** FLOP *** [4h 4s 7h]
+kairobs: bets $3
+krytalex: calls $3
+*** TURN *** [4h 4s 7h] [4c]
+kairobs: bets $6
+krytalex: raises $6 to $12
+kairobs: folds
+Uncalled bet ($6) returned to krytalex
+krytalex collected $41.50 from pot
+kairobs leaves the table
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [4h 4s 7h 4c]
+Seat 1: kairobs (big blind) folded on the Turn
+Seat 2: krytalex (button) (small blind) collected ($41.50)
+
+
+PokerStars Hand #147696566589:  Hold'em Limit ($3/$6 USD) - 2016/01/26 4:43:41 ET
+Table 'Garuda' 2-max Seat #1 is the button
+Seat 1: kairobs ($50.26 in chips)
+Seat 2: krytalex ($231.27 in chips)
+kairobs: posts small blind $1
+krytalex: posts big blind $3
+*** HOLE CARDS ***
+kairobs: raises $3 to $6
+krytalex: calls $3
+*** FLOP *** [7c Jc 2d]
+krytalex: checks
+kairobs: checks
+*** TURN *** [7c Jc 2d] [3c]
+krytalex: checks
+kairobs: checks
+*** RIVER *** [7c Jc 2d 3c] [3h]
+krytalex: checks
+kairobs: checks
+*** SHOW DOWN ***
+krytalex: shows [8h Ad] (a pair of Threes)
+kairobs: mucks hand
+krytalex collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7c Jc 2d 3c 3h]
+Seat 1: kairobs (button) (small blind) mucked
+Seat 2: krytalex (big blind) showed [8h Ad] and won ($11.76) with a pair of Threes
+
+

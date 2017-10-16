@@ -1,0 +1,50 @@
+PokerStars Hand #144450447404:  Hold'em Limit ($3/$6 USD) - 2015/11/27 6:20:32 ET
+Table 'Leuschneria' 2-max Seat #1 is the button
+Seat 1: j44h ($128.64 in chips)
+Seat 2: voloda boris ($22 in chips)
+j44h: posts small blind $1
+voloda boris: posts big blind $3
+*** HOLE CARDS ***
+j44h: folds
+Uncalled bet ($2) returned to voloda boris
+voloda boris collected $2 from pot
+voloda boris: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: j44h (button) (small blind) folded before Flop
+Seat 2: voloda boris (big blind) collected ($2)
+
+
+PokerStars Hand #144450450891:  Hold'em Limit ($3/$6 USD) - 2015/11/27 6:20:40 ET
+Table 'Leuschneria' 2-max Seat #2 is the button
+Seat 1: j44h ($127.64 in chips)
+Seat 2: voloda boris ($23 in chips)
+voloda boris: posts small blind $1
+j44h: posts big blind $3
+*** HOLE CARDS ***
+voloda boris: calls $2
+j44h: raises $3 to $6
+voloda boris: raises $3 to $9
+j44h: calls $3
+*** FLOP *** [Ks 5h Qd]
+j44h: checks
+voloda boris: bets $3
+j44h: raises $3 to $6
+voloda boris: raises $3 to $9
+j44h: calls $3
+*** TURN *** [Ks 5h Qd] [Ah]
+j44h: checks
+voloda boris: bets $5 and is all-in
+j44h: calls $5
+*** RIVER *** [Ks 5h Qd Ah] [2s]
+*** SHOW DOWN ***
+j44h: shows [Ac As] (three of a kind, Aces)
+voloda boris: shows [3c Kh] (a pair of Kings)
+j44h collected $45.50 from pot
+*** SUMMARY ***
+Total pot $46 | Rake $0.50
+Board [Ks 5h Qd Ah 2s]
+Seat 1: j44h (big blind) showed [Ac As] and won ($45.50) with three of a kind, Aces
+Seat 2: voloda boris (button) (small blind) showed [3c Kh] and lost with a pair of Kings
+
+

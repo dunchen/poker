@@ -1,0 +1,32 @@
+PokerStars Hand #172117107988:  Hold'em Limit ($3/$6 USD) - 2017/06/22 19:09:02 ET
+Table 'Delphinus' 6-max Seat #4 is the button
+Seat 3: Auge72 ($152.26 in chips)
+Seat 4: Chessnok ($85 in chips)
+Chessnok: posts small blind $1
+Auge72: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+Auge72: calls $3
+*** FLOP *** [5s 3d Jd]
+Auge72: checks
+Chessnok: bets $3
+Auge72: calls $3
+*** TURN *** [5s 3d Jd] [9s]
+Auge72: checks
+Chessnok: bets $6
+Auge72: calls $6
+*** RIVER *** [5s 3d Jd 9s] [4h]
+Auge72: checks
+Chessnok: bets $6
+Auge72: calls $6
+*** SHOW DOWN ***
+Chessnok: shows [Kh 9h] (a pair of Nines)
+Auge72: mucks hand
+Chessnok collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [5s 3d Jd 9s 4h]
+Seat 3: Auge72 (big blind) mucked
+Seat 4: Chessnok (button) (small blind) showed [Kh 9h] and won ($41.50) with a pair of Nines
+
+

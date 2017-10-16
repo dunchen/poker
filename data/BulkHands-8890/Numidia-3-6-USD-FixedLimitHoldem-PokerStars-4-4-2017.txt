@@ -1,0 +1,69 @@
+PokerStars Hand #168582450690:  Hold'em Limit ($3/$6 USD) - 2017/04/04 16:52:29 ET
+Table 'Numidia' 6-max Seat #1 is the button
+Seat 1: Chessnok ($120 in chips)
+Seat 2: anebodil ($127.35 in chips)
+Chessnok: posts small blind $1
+anebodil: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+anebodil: calls $3
+*** FLOP *** [Jh 5d Kh]
+anebodil: checks
+Chessnok: bets $3
+anebodil: calls $3
+*** TURN *** [Jh 5d Kh] [Ac]
+anebodil: bets $6
+Chessnok: calls $6
+*** RIVER *** [Jh 5d Kh Ac] [6c]
+anebodil: bets $6
+Chessnok: calls $6
+*** SHOW DOWN ***
+anebodil: shows [Qs As] (a pair of Aces)
+Chessnok: mucks hand
+anebodil collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Jh 5d Kh Ac 6c]
+Seat 1: Chessnok (button) (small blind) mucked
+Seat 2: anebodil (big blind) showed [Qs As] and won ($41.50) with a pair of Aces
+
+
+PokerStars Hand #168582493752:  Hold'em Limit ($3/$6 USD) - 2017/04/04 16:53:18 ET
+Table 'Numidia' 6-max Seat #1 is the button
+Seat 1: Chessnok ($93 in chips)
+Seat 2: anebodil ($153.61 in chips)
+Chessnok: posts small blind $1
+anebodil: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: folds
+Uncalled bet ($2) returned to anebodil
+anebodil collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Chessnok (button) (small blind) folded before Flop
+Seat 2: anebodil (big blind) collected ($2)
+
+
+PokerStars Hand #168582481273:  Hold'em Limit ($3/$6 USD) - 2017/04/04 16:53:04 ET
+Table 'Numidia' 6-max Seat #2 is the button
+Seat 1: Chessnok ($99 in chips)
+Seat 2: anebodil ($147.85 in chips)
+anebodil: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+anebodil: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [4h 5h 9c]
+MellivoraSto joins the table at seat #3
+Chessnok: checks
+anebodil: bets $3
+Chessnok: folds
+Uncalled bet ($3) returned to anebodil
+anebodil collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4h 5h 9c]
+Seat 1: Chessnok (big blind) folded on the Flop
+Seat 2: anebodil (button) (small blind) collected ($11.76)
+
+

@@ -1,0 +1,56 @@
+PokerStars Hand #174837860248:  Hold'em Limit ($3/$6 USD) - 2017/08/26 19:55:21 ET
+Table 'Erato' 6-max Seat #1 is the button
+Seat 1: sussie118 ($120 in chips)
+Seat 4: Great_Kang ($120 in chips)
+sussie118: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+sussie118: raises $3 to $6
+Great_Kang: raises $3 to $9
+sussie118: calls $3
+*** FLOP *** [8d Td Tc]
+Great_Kang: bets $3
+sussie118: calls $3
+*** TURN *** [8d Td Tc] [3c]
+Great_Kang: checks
+sussie118: bets $6
+Great_Kang: calls $6
+*** RIVER *** [8d Td Tc 3c] [5d]
+igmade joins the table at seat #3
+Great_Kang: checks
+sussie118: bets $6
+Great_Kang: calls $6
+*** SHOW DOWN ***
+sussie118: shows [7c Ad] (a pair of Tens)
+Great_Kang: shows [9d Ah] (a pair of Tens - Ace+Nine kicker)
+Great_Kang collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8d Td Tc 3c 5d]
+Seat 1: sussie118 (button) (small blind) showed [7c Ad] and lost with a pair of Tens
+Seat 4: Great_Kang (big blind) showed [9d Ah] and won ($47.50) with a pair of Tens
+
+
+PokerStars Hand #174837888606:  Hold'em Limit ($3/$6 USD) - 2017/08/26 19:56:31 ET
+Table 'Erato' 6-max Seat #4 is the button
+Seat 1: sussie118 ($96 in chips)
+Seat 4: Great_Kang ($143.50 in chips)
+Great_Kang: posts small blind $1
+sussie118: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+sussie118: calls $3
+*** FLOP *** [Ac 6d As]
+sussie118: checks
+Great_Kang: bets $3
+sussie118: folds
+Uncalled bet ($3) returned to Great_Kang
+Great_Kang collected $11.76 from pot
+Great_Kang: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ac 6d As]
+Seat 1: sussie118 (big blind) folded on the Flop
+Seat 4: Great_Kang (button) (small blind) collected ($11.76)
+
+

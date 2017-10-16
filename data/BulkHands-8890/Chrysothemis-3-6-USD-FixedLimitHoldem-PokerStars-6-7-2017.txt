@@ -1,0 +1,49 @@
+PokerStars Hand #171463270592:  Hold'em Limit ($3/$6 USD) - 2017/06/07 10:29:28 ET
+Table 'Chrysothemis' 6-max Seat #4 is the button
+Seat 4: Agrotait ($72 in chips)
+Seat 5: MTails ($120 in chips)
+Agrotait: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [As 4h 4d]
+MTails: checks
+Agrotait: bets $3
+MTails: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $11.76 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [As 4h 4d]
+Seat 4: Agrotait (button) (small blind) collected ($11.76)
+Seat 5: MTails (big blind) folded on the Flop
+
+
+PokerStars Hand #171463285115:  Hold'em Limit ($3/$6 USD) - 2017/06/07 10:29:53 ET
+Table 'Chrysothemis' 6-max Seat #5 is the button
+Seat 4: Agrotait ($77.76 in chips)
+Seat 5: MTails ($114 in chips)
+MTails: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [9s Kc 6s]
+Agrotait: checks
+MTails: bets $3
+Agrotait: calls $3
+*** TURN *** [9s Kc 6s] [Ah]
+Agrotait: checks
+MTails: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to MTails
+MTails collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9s Kc 6s Ah]
+Seat 4: Agrotait (big blind) folded on the Turn
+Seat 5: MTails (button) (small blind) collected ($17.64)
+
+

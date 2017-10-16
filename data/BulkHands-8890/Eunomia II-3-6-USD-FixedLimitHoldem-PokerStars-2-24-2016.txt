@@ -1,0 +1,35 @@
+PokerStars Hand #149354548571:  Hold'em Limit ($3/$6 USD) - 2016/02/24 15:16:32 ET
+Table 'Eunomia II' 6-max Seat #4 is the button
+Seat 3: lelala ($125.54 in chips)
+Seat 4: kolaz03 ($215.27 in chips)
+kolaz03: posts small blind $1
+vestimokrec: is sitting out
+VolkovDmitri: is sitting out
+lelala: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec leaves the table
+kolaz03: raises $3 to $6
+VolkovDmitri leaves the table
+lelala: raises $3 to $9
+kolaz03: calls $3
+*** FLOP *** [8c 4h Ts]
+lelala: bets $3
+kolaz03: calls $3
+*** TURN *** [8c 4h Ts] [Kh]
+lelala: bets $6
+kolaz03: raises $6 to $12
+lelala: calls $6
+*** RIVER *** [8c 4h Ts Kh] [As]
+lelala: checks
+kolaz03: checks
+*** SHOW DOWN ***
+lelala: shows [Js Qs] (a straight, Ten to Ace)
+kolaz03: mucks hand
+lelala collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8c 4h Ts Kh As]
+Seat 3: lelala (big blind) showed [Js Qs] and won ($47.50) with a straight, Ten to Ace
+Seat 4: kolaz03 (button) (small blind) mucked
+
+

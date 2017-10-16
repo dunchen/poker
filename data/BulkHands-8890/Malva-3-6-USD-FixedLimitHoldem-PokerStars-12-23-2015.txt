@@ -1,0 +1,66 @@
+PokerStars Hand #145820566778:  Hold'em Limit ($3/$6 USD) - 2015/12/23 18:43:06 ET
+Table 'Malva' 6-max Seat #6 is the button
+Seat 5: chezlaw ($103 in chips)
+Seat 6: SlickDickey ($96 in chips)
+SlickDickey: posts small blind $1
+Velbor107: is sitting out
+SmellyToes4u: is sitting out
+chezlaw: posts big blind $3
+*** HOLE CARDS ***
+SlickDickey: raises $3 to $6
+chezlaw: calls $3
+*** FLOP *** [9c 4d 3c]
+Velbor107 leaves the table
+chezlaw: checks
+SlickDickey: bets $3
+chezlaw: raises $3 to $6
+Shiba1989 joins the table at seat #3
+SlickDickey: calls $3
+*** TURN *** [9c 4d 3c] [5d]
+chezlaw: bets $6
+SlickDickey: calls $6
+*** RIVER *** [9c 4d 3c 5d] [6c]
+chezlaw: checks
+SlickDickey: bets $6
+chezlaw: calls $6
+*** SHOW DOWN ***
+SlickDickey: shows [Tc 5c] (a flush, Ten high)
+chezlaw: mucks hand
+SlickDickey collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9c 4d 3c 5d 6c]
+Seat 5: chezlaw (big blind) mucked
+Seat 6: SlickDickey (button) (small blind) showed [Tc 5c] and won ($47.50) with a flush, Ten high
+
+
+PokerStars Hand #145820596154:  Hold'em Limit ($3/$6 USD) - 2015/12/23 18:43:43 ET
+Table 'Malva' 6-max Seat #5 is the button
+Seat 5: chezlaw ($120 in chips)
+Seat 6: SlickDickey ($119.50 in chips)
+chezlaw: posts small blind $1
+SlickDickey: posts big blind $3
+*** HOLE CARDS ***
+chezlaw: raises $3 to $6
+SlickDickey: calls $3
+*** FLOP *** [4d 9h Js]
+SlickDickey: checks
+chezlaw: bets $3
+SlickDickey: calls $3
+*** TURN *** [4d 9h Js] [Qd]
+SlickDickey: checks
+chezlaw: checks
+*** RIVER *** [4d 9h Js Qd] [5h]
+SlickDickey: bets $6
+chezlaw: calls $6
+*** SHOW DOWN ***
+SlickDickey: shows [7h Tc] (high card Queen)
+chezlaw: shows [Jh 8h] (a pair of Jacks)
+chezlaw collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4d 9h Js Qd 5h]
+Seat 5: chezlaw (button) (small blind) showed [Jh 8h] and won ($29.50) with a pair of Jacks
+Seat 6: SlickDickey (big blind) showed [7h Tc] and lost with high card Queen
+
+

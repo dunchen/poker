@@ -1,0 +1,76 @@
+PokerStars Hand #166032378960:  Hold'em Limit ($3/$6 USD) - 2017/02/11 7:02:17 ET
+Table 'Thyone II' 6-max Seat #1 is the button
+Seat 1: AzureCaper ($189.41 in chips)
+Seat 6: bubsski ($165.91 in chips)
+AzureCaper: posts small blind $1
+bubsski: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+bubsski: folds
+Uncalled bet ($3) returned to AzureCaper
+AzureCaper collected $6 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: AzureCaper (button) (small blind) collected ($6)
+Seat 6: bubsski (big blind) folded before Flop
+
+
+PokerStars Hand #166032385189:  Hold'em Limit ($3/$6 USD) - 2017/02/11 7:02:28 ET
+Table 'Thyone II' 6-max Seat #6 is the button
+Seat 1: AzureCaper ($192.41 in chips)
+Seat 6: bubsski ($162.91 in chips)
+bubsski: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+bubsski: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [Ad 6s 7h]
+AzureCaper: checks
+bubsski: bets $3
+AzureCaper: raises $3 to $6
+ABATAPP joins the table at seat #2
+bubsski: folds
+Uncalled bet ($3) returned to AzureCaper
+AzureCaper collected $17.64 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ad 6s 7h]
+Seat 1: AzureCaper (big blind) collected ($17.64)
+Seat 6: bubsski (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #166032404457:  Hold'em Limit ($3/$6 USD) - 2017/02/11 7:03:02 ET
+Table 'Thyone II' 6-max Seat #2 is the button
+Seat 1: AzureCaper ($200.05 in chips)
+Seat 2: ABATAPP ($114 in chips)
+ABATAPP: posts small blind $1
+bubsski: is sitting out
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+ABATAPP: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [Kd As Ad]
+AzureCaper: checks
+ABATAPP: bets $3
+SAlex24 leaves the table
+AzureCaper: raises $3 to $6
+ABATAPP: calls $3
+*** TURN *** [Kd As Ad] [2d]
+AzureCaper: bets $6
+ABATAPP: calls $6
+*** RIVER *** [Kd As Ad 2d] [5h]
+AzureCaper: checks
+ABATAPP: checks
+*** SHOW DOWN ***
+AzureCaper: shows [Th Kc] (two pair, Aces and Kings)
+ABATAPP: mucks hand
+AzureCaper collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Kd As Ad 2d 5h]
+Seat 1: AzureCaper (big blind) showed [Th Kc] and won ($35.50) with two pair, Aces and Kings
+Seat 2: ABATAPP (button) (small blind) mucked
+
+

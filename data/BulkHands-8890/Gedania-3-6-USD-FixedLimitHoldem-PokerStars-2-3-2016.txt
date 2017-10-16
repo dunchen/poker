@@ -1,0 +1,32 @@
+PokerStars Hand #148185890746:  Hold'em Limit ($3/$6 USD) - 2016/02/03 16:05:06 ET
+Table 'Gedania' 6-max Seat #2 is the button
+Seat 1: olavike ($53.55 in chips)
+Seat 2: chezlaw ($196.33 in chips)
+chezlaw: posts small blind $1
+olavike: posts big blind $3
+*** HOLE CARDS ***
+ioawnat leaves the table
+chezlaw: raises $3 to $6
+olavike: calls $3
+*** FLOP *** [2d Ts Kh]
+olavike: checks
+chezlaw: bets $3
+olavike: calls $3
+*** TURN *** [2d Ts Kh] [2s]
+olavike: checks
+chezlaw: bets $6
+olavike: calls $6
+*** RIVER *** [2d Ts Kh 2s] [Qd]
+olavike: checks
+chezlaw: bets $6
+olavike: folds
+Uncalled bet ($6) returned to chezlaw
+chezlaw collected $29.50 from pot
+chezlaw: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2d Ts Kh 2s Qd]
+Seat 1: olavike (big blind) folded on the River
+Seat 2: chezlaw (button) (small blind) collected ($29.50)
+
+

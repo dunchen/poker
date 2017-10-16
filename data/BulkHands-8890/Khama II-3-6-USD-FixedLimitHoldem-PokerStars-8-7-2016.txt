@@ -1,0 +1,82 @@
+PokerStars Hand #156993600890:  Hold'em Limit ($3/$6 USD) - 2016/08/07 16:43:19 ET
+Table 'Khama II' 6-max Seat #1 is the button
+Seat 1: LWNS ($19 in chips)
+Seat 4: AzureCaper ($132 in chips)
+LWNS: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+LWNS: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [6d 2d 5s]
+AzureCaper: checks
+LWNS: checks
+*** TURN *** [6d 2d 5s] [Kc]
+AzureCaper: bets $6
+LWNS: folds
+Uncalled bet ($6) returned to AzureCaper
+AzureCaper collected $11.76 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6d 2d 5s Kc]
+Seat 1: LWNS (button) (small blind) folded on the Turn
+Seat 4: AzureCaper (big blind) collected ($11.76)
+
+
+PokerStars Hand #156993978097:  Hold'em Limit ($3/$6 USD) - 2016/08/07 16:50:42 ET
+Table 'Khama II' 6-max Seat #4 is the button
+Seat 4: AzureCaper ($104.58 in chips)
+Seat 5: ValeryRon ($130.96 in chips)
+AzureCaper: posts small blind $1
+ValeryRon: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+ValeryRon: raises $3 to $9
+AzureCaper: calls $3
+*** FLOP *** [Jd 7d As]
+ValeryRon: bets $3
+AzureCaper: calls $3
+*** TURN *** [Jd 7d As] [Qd]
+ValeryRon: bets $6
+AzureCaper: calls $6
+*** RIVER *** [Jd 7d As Qd] [9c]
+ValeryRon: bets $6
+AzureCaper: calls $6
+*** SHOW DOWN ***
+ValeryRon: shows [Qs Qc] (three of a kind, Queens)
+AzureCaper: mucks hand
+ValeryRon collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Jd 7d As Qd 9c]
+Seat 4: AzureCaper (button) (small blind) mucked
+Seat 5: ValeryRon (big blind) showed [Qs Qc] and won ($47.50) with three of a kind, Queens
+
+
+PokerStars Hand #156993949787:  Hold'em Limit ($3/$6 USD) - 2016/08/07 16:50:10 ET
+Table 'Khama II' 6-max Seat #5 is the button
+Seat 4: AzureCaper ($122.58 in chips)
+Seat 5: ValeryRon ($113.46 in chips)
+ValeryRon: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+ValeryRon: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [5c 2s 6d]
+AzureCaper: checks
+ValeryRon: bets $3
+AzureCaper: raises $3 to $6
+ValeryRon: calls $3
+*** TURN *** [5c 2s 6d] [8h]
+AzureCaper: bets $6
+ValeryRon: raises $6 to $12
+AzureCaper: folds
+Uncalled bet ($6) returned to ValeryRon
+ValeryRon collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5c 2s 6d 8h]
+Seat 4: AzureCaper (big blind) folded on the Turn
+Seat 5: ValeryRon (button) (small blind) collected ($35.50)
+
+

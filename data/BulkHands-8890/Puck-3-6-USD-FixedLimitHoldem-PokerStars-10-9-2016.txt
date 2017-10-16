@@ -1,0 +1,30 @@
+PokerStars Hand #159701894393:  Hold'em Limit ($3/$6 USD) - 2016/10/09 14:40:42 ET
+Table 'Puck' 6-max Seat #1 is the button
+Seat 1: AndersonSAA ($94.33 in chips)
+Seat 5: GoliafUa ($120 in chips)
+AndersonSAA: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+knas4 joins the table at seat #6
+AndersonSAA: calls $2
+GoliafUa: checks
+*** FLOP *** [2c Kh 9h]
+GoliafUa: bets $3
+AndersonSAA: calls $3
+*** TURN *** [2c Kh 9h] [Td]
+GoliafUa: bets $6
+AndersonSAA: calls $6
+*** RIVER *** [2c Kh 9h Td] [3h]
+GoliafUa: bets $6
+AndersonSAA: calls $6
+*** SHOW DOWN ***
+GoliafUa: shows [4h 6h] (a flush, King high)
+AndersonSAA: mucks hand
+GoliafUa collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [2c Kh 9h Td 3h]
+Seat 1: AndersonSAA (button) (small blind) mucked
+Seat 5: GoliafUa (big blind) showed [4h 6h] and won ($35.50) with a flush, King high
+
+

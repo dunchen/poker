@@ -1,0 +1,90 @@
+PokerStars Hand #169355093749:  Hold'em Limit ($3/$6 USD) - 2017/04/21 12:12:42 ET
+Table 'Agrippina' 6-max Seat #1 is the button
+Seat 1: vestimokrec ($120 in chips)
+Seat 6: SEUN SA ($100 in chips)
+GoliafUa: is sitting out
+vestimokrec: posts small blind $1
+SEUN SA: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+SEUN SA: calls $3
+*** FLOP *** [5d 2h 5h]
+SEUN SA: checks
+vestimokrec: bets $3
+SEUN SA: calls $3
+*** TURN *** [5d 2h 5h] [4s]
+SEUN SA: checks
+vestimokrec: bets $6
+SEUN SA: calls $6
+*** RIVER *** [5d 2h 5h 4s] [5c]
+SEUN SA: checks
+Ale4o joins the table at seat #2
+vestimokrec: checks
+*** SHOW DOWN ***
+SEUN SA: shows [Ac 2s] (a full house, Fives full of Deuces)
+vestimokrec: mucks hand
+SEUN SA collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5d 2h 5h 4s 5c]
+Seat 1: vestimokrec (button) (small blind) mucked
+Seat 6: SEUN SA (big blind) showed [Ac 2s] and won ($29.50) with a full house, Fives full of Deuces
+
+
+PokerStars Hand #169355113467:  Hold'em Limit ($3/$6 USD) - 2017/04/21 12:13:10 ET
+Table 'Agrippina' 6-max Seat #6 is the button
+Seat 1: vestimokrec ($105 in chips)
+Seat 6: SEUN SA ($114.50 in chips)
+SEUN SA: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+SEUN SA: calls $2
+vestimokrec: raises $3 to $6
+SEUN SA: calls $3
+*** FLOP *** [Qd Qh 5h]
+vestimokrec: bets $3
+SEUN SA: calls $3
+*** TURN *** [Qd Qh 5h] [4s]
+vestimokrec: bets $6
+SEUN SA: raises $6 to $12
+vestimokrec: calls $6
+*** RIVER *** [Qd Qh 5h 4s] [3c]
+vestimokrec: checks
+SEUN SA: bets $6
+vestimokrec: calls $6
+*** SHOW DOWN ***
+SEUN SA: shows [Qc Td] (three of a kind, Queens)
+vestimokrec: mucks hand
+SEUN SA collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Qd Qh 5h 4s 3c]
+Seat 1: vestimokrec (big blind) mucked
+Seat 6: SEUN SA (button) (small blind) showed [Qc Td] and won ($53.50) with three of a kind, Queens
+
+
+PokerStars Hand #169359090700:  Hold'em Limit ($3/$6 USD) - 2017/04/21 13:43:41 ET
+Table 'Agrippina' 6-max Seat #5 is the button
+Seat 3: Qvidde ($120 in chips)
+Seat 5: Kasperla ($200.07 in chips)
+Kasperla: posts small blind $1
+vestimokrec: is sitting out
+Ale4o: is sitting out
+Qvidde: posts big blind $3
+*** HOLE CARDS ***
+Kasperla: raises $3 to $6
+Ale4o leaves the table
+Qvidde: calls $3
+*** FLOP *** [Qs 7d Jd]
+Qvidde: checks
+Kasperla: bets $3
+Qvidde: folds
+Uncalled bet ($3) returned to Kasperla
+Kasperla collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qs 7d Jd]
+Seat 3: Qvidde (big blind) folded on the Flop
+Seat 5: Kasperla (button) (small blind) collected ($11.76)
+
+

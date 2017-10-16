@@ -1,0 +1,29 @@
+PokerStars Hand #144635208274:  Hold'em Limit ($3/$6 USD) - 2015/11/30 18:13:06 ET
+Table 'Wesson II' 2-max Seat #2 is the button
+Seat 1: pvylam ($94.71 in chips)
+Seat 2: hilataz ($14.35 in chips)
+hilataz: posts small blind $1
+pvylam: posts big blind $3
+*** HOLE CARDS ***
+hilataz: calls $2
+pvylam: raises $3 to $6
+hilataz: calls $3
+*** FLOP *** [9d 4h Ah]
+pvylam: bets $3
+hilataz: raises $3 to $6
+pvylam: raises $3 to $9
+hilataz: calls $2.35 and is all-in
+Uncalled bet ($0.65) returned to pvylam
+*** TURN *** [9d 4h Ah] [Ad]
+*** RIVER *** [9d 4h Ah Ad] [4c]
+*** SHOW DOWN ***
+pvylam: shows [Ac Qs] (a full house, Aces full of Fours)
+hilataz: shows [5c 3s] (two pair, Aces and Fours)
+pvylam collected $28.20 from pot
+*** SUMMARY ***
+Total pot $28.70 | Rake $0.50
+Board [9d 4h Ah Ad 4c]
+Seat 1: pvylam (big blind) showed [Ac Qs] and won ($28.20) with a full house, Aces full of Fours
+Seat 2: hilataz (button) (small blind) showed [5c 3s] and lost with two pair, Aces and Fours
+
+

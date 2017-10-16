@@ -1,0 +1,36 @@
+PokerStars Hand #164933867774:  Hold'em Limit ($3/$6 USD) - 2017/01/21 10:30:30 ET
+Table 'Seginus' 10-max Seat #6 is the button
+Seat 6: Rus29APX ($120 in chips)
+Seat 7: ranch04 ($40 in chips)
+Rus29APX: posts small blind $1
+ranch04: posts big blind $3
+*** HOLE CARDS ***
+Rus29APX: raises $3 to $6
+ranch04: raises $3 to $9
+Rus29APX: calls $3
+*** FLOP *** [7s 5s 5c]
+ranch04: checks
+Rus29APX: bets $3
+ranch04: raises $3 to $6
+Rus29APX: calls $3
+*** TURN *** [7s 5s 5c] [Td]
+ranch04: bets $6
+Rus29APX: raises $6 to $12
+ranch04: raises $6 to $18
+Rus29APX: raises $6 to $24
+Betting is capped
+ranch04: calls $6
+*** RIVER *** [7s 5s 5c Td] [Qd]
+ranch04: bets $1 and is all-in
+Rus29APX: calls $1
+*** SHOW DOWN ***
+ranch04: shows [Kd Ac] (a pair of Fives)
+Rus29APX: shows [5d 6h] (three of a kind, Fives)
+Rus29APX collected $79.50 from pot
+*** SUMMARY ***
+Total pot $80 | Rake $0.50
+Board [7s 5s 5c Td Qd]
+Seat 6: Rus29APX (button) (small blind) showed [5d 6h] and won ($79.50) with three of a kind, Fives
+Seat 7: ranch04 (big blind) showed [Kd Ac] and lost with a pair of Fives
+
+

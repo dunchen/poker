@@ -1,0 +1,35 @@
+PokerStars Hand #162335978488:  Hold'em Limit ($3/$6 USD) - 2016/12/03 7:01:32 ET
+Table 'Tanete' 10-max Seat #6 is the button
+Seat 6: sim5sim5 ($72 in chips)
+Seat 8: TinaTurner72 ($120 in chips)
+sim5sim5: posts small blind $1
+TinaTurner72 is connected
+TinaTurner72: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+TinaTurner72: calls $3
+*** FLOP *** [Ks 7s Tc]
+TinaTurner72: checks
+sim5sim5: bets $3
+TinaTurner72: raises $3 to $6
+sim5sim5: calls $3
+*** TURN *** [Ks 7s Tc] [6h]
+TinaTurner72: bets $6
+sim5sim5: raises $6 to $12
+TinaTurner72: calls $6
+*** RIVER *** [Ks 7s Tc 6h] [7h]
+TinaTurner72: checks
+sim5sim5: bets $6
+TinaTurner72: calls $6
+*** SHOW DOWN ***
+sim5sim5: shows [8h Kh] (two pair, Kings and Sevens)
+TinaTurner72: shows [Kd 2h] (two pair, Kings and Sevens)
+TinaTurner72 collected $29.75 from pot
+sim5sim5 collected $29.75 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Ks 7s Tc 6h 7h]
+Seat 6: sim5sim5 (button) (small blind) showed [8h Kh] and won ($29.75) with two pair, Kings and Sevens
+Seat 8: TinaTurner72 (big blind) showed [Kd 2h] and won ($29.75) with two pair, Kings and Sevens
+
+

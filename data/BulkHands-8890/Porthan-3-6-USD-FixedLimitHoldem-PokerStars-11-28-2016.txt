@@ -1,0 +1,63 @@
+PokerStars Hand #162090280437:  Hold'em Limit ($3/$6 USD) - 2016/11/28 10:38:11 ET
+Table 'Porthan' 6-max Seat #3 is the button
+Seat 3: chebob ($90 in chips)
+Seat 4: Actionni13 ($150 in chips)
+chebob: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+chebob: raises $3 to $6
+Actionni13: calls $3
+*** FLOP *** [Td 8s Jc]
+Actionni13: checks
+chebob: bets $3
+Actionni13: raises $3 to $6
+chebob: calls $3
+*** TURN *** [Td 8s Jc] [9d]
+Actionni13: bets $6
+chebob: raises $6 to $12
+Actionni13: calls $6
+*** RIVER *** [Td 8s Jc 9d] [Ac]
+Actionni13: checks
+Psynto joins the table at seat #5
+chebob: bets $6
+Actionni13: calls $6
+*** SHOW DOWN ***
+chebob: shows [9h 7s] (a straight, Seven to Jack)
+Actionni13: mucks hand
+chebob collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Td 8s Jc 9d Ac]
+Seat 3: chebob (button) (small blind) showed [9h 7s] and won ($59.50) with a straight, Seven to Jack
+Seat 4: Actionni13 (big blind) mucked
+
+
+PokerStars Hand #162091274968:  Hold'em Limit ($3/$6 USD) - 2016/11/28 11:02:10 ET
+Table 'Porthan' 6-max Seat #2 is the button
+Seat 1: Great_Kang ($128.53 in chips)
+Seat 2: KIT426 ($31 in chips)
+KIT426: posts small blind $1
+Actionni13: is sitting out
+Psynto: is sitting out
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+Psynto leaves the table
+KIT426: calls $2
+Great_Kang: raises $3 to $6
+KIT426: calls $3
+*** FLOP *** [8c 7h 7c]
+Great_Kang: bets $3
+KIT426: calls $3
+*** TURN *** [8c 7h 7c] [Qd]
+Great_Kang: checks
+KIT426: bets $6
+Great_Kang: folds
+Uncalled bet ($6) returned to KIT426
+KIT426 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8c 7h 7c Qd]
+Seat 1: Great_Kang (big blind) folded on the Turn
+Seat 2: KIT426 (button) (small blind) collected ($17.64)
+
+

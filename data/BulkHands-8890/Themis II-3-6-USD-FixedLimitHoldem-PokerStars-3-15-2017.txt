@@ -1,0 +1,79 @@
+PokerStars Hand #167613810726:  Hold'em Limit ($3/$6 USD) - 2017/03/15 9:02:27 ET
+Table 'Themis II' 6-max Seat #2 is the button
+Seat 2: essam2222 ($120 in chips)
+Seat 3: Ale4o ($120 in chips)
+essam2222: posts small blind $1
+Ale4o: posts big blind $3
+*** HOLE CARDS ***
+essam2222: calls $2
+Ale4o: checks
+*** FLOP *** [Tc 2h 6d]
+Ale4o: bets $3
+essam2222: calls $3
+*** TURN *** [Tc 2h 6d] [3c]
+Ale4o: bets $6
+essam2222: calls $6
+*** RIVER *** [Tc 2h 6d 3c] [2c]
+B_loJkl joins the table at seat #4
+Ale4o: bets $6
+essam2222: raises $6 to $12
+Ale4o: folds
+Uncalled bet ($6) returned to essam2222
+essam2222 collected $35.50 from pot
+essam2222: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Tc 2h 6d 3c 2c]
+Seat 2: essam2222 (button) (small blind) collected ($35.50)
+Seat 3: Ale4o (big blind) folded on the River
+
+
+PokerStars Hand #167613820989:  Hold'em Limit ($3/$6 USD) - 2017/03/15 9:02:47 ET
+Table 'Themis II' 6-max Seat #3 is the button
+Seat 3: Ale4o ($102 in chips)
+Seat 4: B_loJkl ($150 in chips)
+Ale4o: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Ale4o: raises $3 to $6
+essam2222 leaves the table
+B_loJkl: folds
+Uncalled bet ($3) returned to Ale4o
+Ale4o collected $6 from pot
+Ale4o: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: Ale4o (button) (small blind) collected ($6)
+Seat 4: B_loJkl (big blind) folded before Flop
+
+
+PokerStars Hand #167613825611:  Hold'em Limit ($3/$6 USD) - 2017/03/15 9:02:56 ET
+Table 'Themis II' 6-max Seat #4 is the button
+Seat 3: Ale4o ($105 in chips)
+Seat 4: B_loJkl ($147 in chips)
+B_loJkl: posts small blind $1
+Ale4o: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+Ale4o: calls $3
+*** FLOP *** [Jd Td 6c]
+Ale4o: checks
+B_loJkl: checks
+*** TURN *** [Jd Td 6c] [4h]
+Ale4o: checks
+B_loJkl: checks
+*** RIVER *** [Jd Td 6c 4h] [3h]
+Ale4o: checks
+B_loJkl: bets $6
+Ale4o: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [8s 6s] (a pair of Sixes)
+Ale4o: mucks hand
+B_loJkl collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Jd Td 6c 4h 3h]
+Seat 3: Ale4o (big blind) mucked
+Seat 4: B_loJkl (button) (small blind) showed [8s 6s] and won ($23.52) with a pair of Sixes
+
+

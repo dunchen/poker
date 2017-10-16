@@ -1,0 +1,35 @@
+PokerStars Hand #172148794716:  Hold'em Limit ($3/$6 USD) - 2017/06/23 15:51:00 ET
+Table 'Saito' 6-max Seat #6 is the button
+Seat 5: AzureCaper ($97.42 in chips)
+Seat 6: Chessnok ($129.21 in chips)
+Chessnok: posts small blind $1
+Ale4o: is sitting out
+Jack_Wu1985: is sitting out
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+Ale4o leaves the table
+Chessnok: raises $3 to $6
+Jack_Wu1985 leaves the table
+AzureCaper: calls $3
+*** FLOP *** [5s 2s 3d]
+AzureCaper: checks
+Chessnok: bets $3
+AzureCaper: calls $3
+*** TURN *** [5s 2s 3d] [Js]
+AzureCaper: checks
+Chessnok: bets $6
+AzureCaper: calls $6
+*** RIVER *** [5s 2s 3d Js] [Qc]
+AzureCaper: checks
+Chessnok: bets $6
+AzureCaper: folds
+Uncalled bet ($6) returned to Chessnok
+Chessnok collected $29.50 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5s 2s 3d Js Qc]
+Seat 5: AzureCaper (big blind) folded on the River
+Seat 6: Chessnok (button) (small blind) collected ($29.50)
+
+

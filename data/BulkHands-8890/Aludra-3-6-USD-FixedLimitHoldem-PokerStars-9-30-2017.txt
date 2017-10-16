@@ -1,0 +1,490 @@
+PokerStars Hand #176309665927:  Hold'em Limit ($3/$6 USD) - 2017/09/30 10:43:02 ET
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: Bitte1 ($120 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+Bitte1: posts small blind $1
+GoliafUa joins the table at seat #2
+patrikskjold joins the table at seat #3
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Bitte1: calls $2
+VolkovDmitri: checks
+*** FLOP *** [Jd As 2c]
+VolkovDmitri: bets $3
+Bitte1: calls $3
+*** TURN *** [Jd As 2c] [9h]
+VolkovDmitri: checks
+Bitte1: checks
+*** RIVER *** [Jd As 2c 9h] [Qc]
+VolkovDmitri: checks
+Bitte1: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [8s 2h] (a pair of Deuces)
+Bitte1: mucks hand
+VolkovDmitri collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jd As 2c 9h Qc]
+Seat 1: Bitte1 (button) (small blind) mucked
+Seat 4: VolkovDmitri (big blind) showed [8s 2h] and won ($11.76) with a pair of Deuces
+
+
+PokerStars Hand #176309695168:  Hold'em Limit ($3/$6 USD) - 2017/09/30 10:43:51 ET
+Table 'Aludra' 6-max Seat #4 is the button
+Seat 1: Bitte1 ($114 in chips)
+Seat 4: VolkovDmitri ($125.76 in chips)
+VolkovDmitri: posts small blind $1
+Bitte1: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Bitte1: calls $3
+*** FLOP *** [5s 7d 6s]
+Bitte1: bets $3
+VolkovDmitri: raises $3 to $6
+Bitte1: raises $3 to $9
+VolkovDmitri: calls $3
+*** TURN *** [5s 7d 6s] [9h]
+Bitte1: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [5s 7d 6s 9h] [4h]
+Bitte1: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+Bitte1: shows [6c 7s] (two pair, Sevens and Sixes)
+VolkovDmitri: mucks hand
+Bitte1 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [5s 7d 6s 9h 4h]
+Seat 1: Bitte1 (big blind) showed [6c 7s] and won ($41.50) with two pair, Sevens and Sixes
+Seat 4: VolkovDmitri (button) (small blind) mucked
+
+
+PokerStars Hand #176309868826:  Hold'em Limit ($3/$6 USD) - 2017/09/30 10:48:39 ET
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: Bitte1 ($141.43 in chips)
+Seat 2: GoliafUa ($128.17 in chips)
+Bitte1: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+Bitte1: raises $3 to $6
+GoliafUa: folds
+Uncalled bet ($3) returned to Bitte1
+Bitte1 collected $6 from pot
+Bitte1: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: Bitte1 (button) (small blind) collected ($6)
+Seat 2: GoliafUa (big blind) folded before Flop
+
+
+PokerStars Hand #176309841765:  Hold'em Limit ($3/$6 USD) - 2017/09/30 10:47:54 ET
+Table 'Aludra' 6-max Seat #2 is the button
+Seat 1: Bitte1 ($120.93 in chips)
+Seat 2: GoliafUa ($149.17 in chips)
+GoliafUa: posts small blind $1
+patrikskjold: is sitting out
+Bitte1: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa: raises $3 to $6
+Bitte1: calls $3
+*** FLOP *** [6c 2d 5h]
+Bitte1: checks
+GoliafUa: bets $3
+Bitte1: calls $3
+*** TURN *** [6c 2d 5h] [8d]
+Bitte1: bets $6
+GoliafUa: calls $6
+*** RIVER *** [6c 2d 5h 8d] [4c]
+Bitte1: bets $6
+GoliafUa: calls $6
+*** SHOW DOWN ***
+Bitte1: shows [4s 8h] (two pair, Eights and Fours)
+GoliafUa: mucks hand
+Bitte1 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [6c 2d 5h 8d 4c]
+Seat 1: Bitte1 (big blind) showed [4s 8h] and won ($41.50) with two pair, Eights and Fours
+Seat 2: GoliafUa (button) (small blind) mucked
+
+
+PokerStars Hand #176310681363:  Hold'em Limit ($3/$6 USD) - 2017/09/30 11:11:36 ET
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: Bitte1 ($221.32 in chips)
+Seat 6: AA_ILI ($142.95 in chips)
+Bitte1: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+Ag3r0n leaves the table
+Bitte1: raises $3 to $6
+AA_ILI: calls $3
+*** FLOP *** [3d 9d 8d]
+AA_ILI: checks
+Bitte1: bets $3
+AA_ILI: raises $3 to $6
+Bitte1: calls $3
+*** TURN *** [3d 9d 8d] [Js]
+AA_ILI: bets $6
+Bitte1: calls $6
+*** RIVER *** [3d 9d 8d Js] [Ad]
+AA_ILI: bets $6
+Bitte1: folds
+Uncalled bet ($6) returned to AA_ILI
+AA_ILI collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [3d 9d 8d Js Ad]
+Seat 1: Bitte1 (button) (small blind) folded on the River
+Seat 6: AA_ILI (big blind) collected ($35.50)
+
+
+PokerStars Hand #176310712517:  Hold'em Limit ($3/$6 USD) - 2017/09/30 11:12:27 ET
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: Bitte1 ($217.82 in chips)
+Seat 6: AA_ILI ($145.45 in chips)
+Bitte1: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+Bitte1: calls $2
+AA_ILI: checks
+*** FLOP *** [Qc 5c 5s]
+AA_ILI: checks
+Bitte1: bets $3
+AA_ILI: calls $3
+*** TURN *** [Qc 5c 5s] [6s]
+AA_ILI: checks
+Bitte1: bets $6
+AA_ILI: calls $6
+*** RIVER *** [Qc 5c 5s 6s] [3s]
+AA_ILI: checks
+Bitte1: bets $6
+AA_ILI: raises $6 to $12
+Bitte1: calls $6
+*** SHOW DOWN ***
+AA_ILI: shows [2h 5d] (three of a kind, Fives)
+Bitte1: mucks hand
+AA_ILI collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Qc 5c 5s 6s 3s]
+Seat 1: Bitte1 (button) (small blind) mucked
+Seat 6: AA_ILI (big blind) showed [2h 5d] and won ($47.50) with three of a kind, Fives
+
+
+PokerStars Hand #176310700994:  Hold'em Limit ($3/$6 USD) - 2017/09/30 11:12:08 ET
+Table 'Aludra' 6-max Seat #6 is the button
+Seat 1: Bitte1 ($203.32 in chips)
+Seat 6: AA_ILI ($160.45 in chips)
+AA_ILI: posts small blind $1
+Bitte1: posts big blind $3
+*** HOLE CARDS ***
+AA_ILI: calls $2
+Bitte1: raises $3 to $6
+AA_ILI: calls $3
+*** FLOP *** [Ts 3s 6h]
+Bitte1: bets $3
+AA_ILI: calls $3
+*** TURN *** [Ts 3s 6h] [7s]
+Bitte1: bets $6
+AA_ILI: calls $6
+*** RIVER *** [Ts 3s 6h 7s] [9c]
+Bitte1: bets $6
+AA_ILI: folds
+Uncalled bet ($6) returned to Bitte1
+Bitte1 collected $29.50 from pot
+Bitte1: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ts 3s 6h 7s 9c]
+Seat 1: Bitte1 (big blind) collected ($29.50)
+Seat 6: AA_ILI (button) (small blind) folded on the River
+
+
+PokerStars Hand #176310760863:  Hold'em Limit ($3/$6 USD) - 2017/09/30 11:13:46 ET
+Table 'Aludra' 6-max Seat #6 is the button
+Seat 1: Bitte1 ($196.58 in chips)
+Seat 6: AA_ILI ($165.83 in chips)
+AA_ILI: posts small blind $1
+Bitte1: posts big blind $3
+*** HOLE CARDS ***
+AA_ILI: folds
+Uncalled bet ($2) returned to Bitte1
+Bitte1 collected $2 from pot
+Bitte1: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Bitte1 (big blind) collected ($2)
+Seat 6: AA_ILI (button) (small blind) folded before Flop
+
+
+PokerStars Hand #176310746105:  Hold'em Limit ($3/$6 USD) - 2017/09/30 11:13:22 ET
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: Bitte1 ($199.58 in chips)
+Seat 6: AA_ILI ($162.95 in chips)
+Bitte1: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+Bitte1: calls $2
+AA_ILI: checks
+*** FLOP *** [Jc Ad 7d]
+AA_ILI: checks
+Bitte1: checks
+*** TURN *** [Jc Ad 7d] [4h]
+AA_ILI: checks
+Bitte1: checks
+*** RIVER *** [Jc Ad 7d 4h] [2c]
+AA_ILI: checks
+Bitte1: checks
+*** SHOW DOWN ***
+AA_ILI: shows [4s 6s] (a pair of Fours)
+Bitte1: mucks hand
+AA_ILI collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Jc Ad 7d 4h 2c]
+Seat 1: Bitte1 (button) (small blind) mucked
+Seat 6: AA_ILI (big blind) showed [4s 6s] and won ($5.88) with a pair of Fours
+
+
+PokerStars Hand #176310742407:  Hold'em Limit ($3/$6 USD) - 2017/09/30 11:13:16 ET
+Table 'Aludra' 6-max Seat #6 is the button
+Seat 1: Bitte1 ($202.58 in chips)
+Seat 6: AA_ILI ($159.95 in chips)
+AA_ILI: posts small blind $1
+Bitte1: posts big blind $3
+*** HOLE CARDS ***
+AA_ILI: raises $3 to $6
+Bitte1: folds
+Uncalled bet ($3) returned to AA_ILI
+AA_ILI collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: Bitte1 (big blind) folded before Flop
+Seat 6: AA_ILI (button) (small blind) collected ($6)
+
+
+PokerStars Hand #176310738379:  Hold'em Limit ($3/$6 USD) - 2017/09/30 11:13:09 ET
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: Bitte1 ($199.58 in chips)
+Seat 6: AA_ILI ($162.95 in chips)
+Bitte1: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+Bitte1: raises $3 to $6
+AA_ILI: folds
+Uncalled bet ($3) returned to Bitte1
+Bitte1 collected $6 from pot
+Bitte1: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: Bitte1 (button) (small blind) collected ($6)
+Seat 6: AA_ILI (big blind) folded before Flop
+
+
+PokerStars Hand #176310731254:  Hold'em Limit ($3/$6 USD) - 2017/09/30 11:12:57 ET
+Table 'Aludra' 6-max Seat #6 is the button
+Seat 1: Bitte1 ($193.82 in chips)
+Seat 6: AA_ILI ($168.95 in chips)
+AA_ILI: posts small blind $1
+Bitte1: posts big blind $3
+*** HOLE CARDS ***
+AA_ILI: calls $2
+Bitte1: raises $3 to $6
+AA_ILI: calls $3
+*** FLOP *** [Qh 7h Ah]
+Bitte1: bets $3
+AA_ILI: folds
+Uncalled bet ($3) returned to Bitte1
+Bitte1 collected $11.76 from pot
+Bitte1: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qh 7h Ah]
+Seat 1: Bitte1 (big blind) collected ($11.76)
+Seat 6: AA_ILI (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #176310784623:  Hold'em Limit ($3/$6 USD) - 2017/09/30 11:14:25 ET
+Table 'Aludra' 6-max Seat #6 is the button
+Seat 1: Bitte1 ($182.58 in chips)
+Seat 6: AA_ILI ($179.33 in chips)
+AA_ILI: posts small blind $1
+Bitte1: posts big blind $3
+*** HOLE CARDS ***
+AA_ILI: calls $2
+Bitte1: checks
+*** FLOP *** [8h Ts 4h]
+Bitte1: bets $3
+AA_ILI: calls $3
+*** TURN *** [8h Ts 4h] [Qc]
+Bitte1: checks
+AA_ILI: bets $6
+Bitte1: calls $6
+*** RIVER *** [8h Ts 4h Qc] [2s]
+Bitte1: checks
+AA_ILI: bets $6
+Bitte1: calls $6
+*** SHOW DOWN ***
+AA_ILI: shows [Qs 9d] (a pair of Queens)
+Bitte1: mucks hand
+AA_ILI collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [8h Ts 4h Qc 2s]
+Seat 1: Bitte1 (big blind) mucked
+Seat 6: AA_ILI (button) (small blind) showed [Qs 9d] and won ($35.50) with a pair of Queens
+
+
+PokerStars Hand #176310764534:  Hold'em Limit ($3/$6 USD) - 2017/09/30 11:13:52 ET
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: Bitte1 ($197.58 in chips)
+Seat 6: AA_ILI ($164.83 in chips)
+Bitte1: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+Bitte1: raises $3 to $6
+AA_ILI: calls $3
+*** FLOP *** [9c 3c Qc]
+AA_ILI: checks
+Bitte1: bets $3
+AA_ILI: calls $3
+*** TURN *** [9c 3c Qc] [Qs]
+AA_ILI: checks
+Bitte1: checks
+*** RIVER *** [9c 3c Qc Qs] [6c]
+AA_ILI: bets $6
+Bitte1: calls $6
+*** SHOW DOWN ***
+AA_ILI: shows [5h Ac] (a flush, Ace high)
+Bitte1: mucks hand
+AA_ILI collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9c 3c Qc Qs 6c]
+Seat 1: Bitte1 (button) (small blind) mucked
+Seat 6: AA_ILI (big blind) showed [5h Ac] and won ($29.50) with a flush, Ace high
+
+
+PokerStars Hand #176310834825:  Hold'em Limit ($3/$6 USD) - 2017/09/30 11:15:46 ET
+Table 'Aludra' 6-max Seat #6 is the button
+Seat 1: Bitte1 ($158.34 in chips)
+Seat 6: AA_ILI ($202.33 in chips)
+AA_ILI: posts small blind $1
+Bitte1: posts big blind $3
+*** HOLE CARDS ***
+AA_ILI: raises $3 to $6
+Bitte1: folds
+Uncalled bet ($3) returned to AA_ILI
+AA_ILI collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: Bitte1 (big blind) folded before Flop
+Seat 6: AA_ILI (button) (small blind) collected ($6)
+
+
+PokerStars Hand #176310830873:  Hold'em Limit ($3/$6 USD) - 2017/09/30 11:15:40 ET
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: Bitte1 ($155.34 in chips)
+Seat 6: AA_ILI ($205.33 in chips)
+Bitte1: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+Bitte1: raises $3 to $6
+AA_ILI: folds
+Uncalled bet ($3) returned to Bitte1
+Bitte1 collected $6 from pot
+Bitte1: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: Bitte1 (button) (small blind) collected ($6)
+Seat 6: AA_ILI (big blind) folded before Flop
+
+
+PokerStars Hand #176310822570:  Hold'em Limit ($3/$6 USD) - 2017/09/30 11:15:26 ET
+Table 'Aludra' 6-max Seat #6 is the button
+Seat 1: Bitte1 ($149.58 in chips)
+Seat 6: AA_ILI ($211.33 in chips)
+AA_ILI: posts small blind $1
+Bitte1: posts big blind $3
+*** HOLE CARDS ***
+AA_ILI: raises $3 to $6
+Bitte1: calls $3
+*** FLOP *** [4h 2c Kc]
+Bitte1: bets $3
+AA_ILI: folds
+Uncalled bet ($3) returned to Bitte1
+Bitte1 collected $11.76 from pot
+Bitte1: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4h 2c Kc]
+Seat 1: Bitte1 (big blind) collected ($11.76)
+Seat 6: AA_ILI (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #176310803287:  Hold'em Limit ($3/$6 USD) - 2017/09/30 11:14:55 ET
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: Bitte1 ($164.58 in chips)
+Seat 6: AA_ILI ($196.83 in chips)
+Bitte1: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+Bitte1: raises $3 to $6
+AA_ILI: calls $3
+*** FLOP *** [4s 8h 3s]
+AA_ILI: checks
+Bitte1: bets $3
+AA_ILI: calls $3
+*** TURN *** [4s 8h 3s] [9s]
+AA_ILI: checks
+Bitte1: checks
+*** RIVER *** [4s 8h 3s 9s] [3c]
+AA_ILI: bets $6
+Bitte1: calls $6
+*** SHOW DOWN ***
+AA_ILI: shows [As 9d] (two pair, Nines and Threes)
+Bitte1: mucks hand
+AA_ILI collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4s 8h 3s 9s 3c]
+Seat 1: Bitte1 (button) (small blind) mucked
+Seat 6: AA_ILI (big blind) showed [As 9d] and won ($29.50) with two pair, Nines and Threes
+
+
+PokerStars Hand #176310838431:  Hold'em Limit ($3/$6 USD) - 2017/09/30 11:15:52 ET
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: Bitte1 ($155.34 in chips)
+Seat 6: AA_ILI ($205.33 in chips)
+Bitte1: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+Bitte1: raises $3 to $6
+AA_ILI: folds
+Uncalled bet ($3) returned to Bitte1
+Bitte1 collected $6 from pot
+Bitte1: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: Bitte1 (button) (small blind) collected ($6)
+Seat 6: AA_ILI (big blind) folded before Flop
+
+
+PokerStars Hand #176310846212:  Hold'em Limit ($3/$6 USD) - 2017/09/30 11:16:05 ET
+Table 'Aludra' 6-max Seat #6 is the button
+Seat 1: Bitte1 ($158.34 in chips)
+Seat 6: AA_ILI ($202.33 in chips)
+AA_ILI: posts small blind $1
+Bitte1: posts big blind $3
+*** HOLE CARDS ***
+AA_ILI: folds
+Uncalled bet ($2) returned to Bitte1
+Bitte1 collected $2 from pot
+Bitte1: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Bitte1 (big blind) collected ($2)
+Seat 6: AA_ILI (button) (small blind) folded before Flop
+
+

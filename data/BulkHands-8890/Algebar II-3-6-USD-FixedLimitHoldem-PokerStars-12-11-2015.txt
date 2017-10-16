@@ -1,0 +1,90 @@
+PokerStars Hand #145162863785:  Hold'em Limit ($3/$6 USD) - 2015/12/11 4:16:18 ET
+Table 'Algebar II' 6-max Seat #3 is the button
+Seat 3: WavesNight01 ($30 in chips)
+Seat 4: MTails ($120 in chips)
+WavesNight01: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+WavesNight01: raises $3 to $6
+MTails: raises $3 to $9
+WavesNight01: calls $3
+*** FLOP *** [7d Js 6s]
+MTails: bets $3
+WavesNight01: folds
+Uncalled bet ($3) returned to MTails
+MTails collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7d Js 6s]
+Seat 3: WavesNight01 (button) (small blind) folded on the Flop
+Seat 4: MTails (big blind) collected ($17.64)
+
+
+PokerStars Hand #145162879143:  Hold'em Limit ($3/$6 USD) - 2015/12/11 4:16:59 ET
+Table 'Algebar II' 6-max Seat #3 is the button
+Seat 3: WavesNight01 ($12 in chips)
+Seat 4: MTails ($137.28 in chips)
+WavesNight01: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+WavesNight01: folds
+Uncalled bet ($2) returned to MTails
+MTails collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: WavesNight01 (button) (small blind) folded before Flop
+Seat 4: MTails (big blind) collected ($2)
+
+
+PokerStars Hand #145162872724:  Hold'em Limit ($3/$6 USD) - 2015/12/11 4:16:42 ET
+Table 'Algebar II' 6-max Seat #4 is the button
+Seat 3: WavesNight01 ($21 in chips)
+Seat 4: MTails ($128.64 in chips)
+MTails: posts small blind $1
+WavesNight01: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+WavesNight01: calls $3
+*** FLOP *** [3s 7d Jd]
+WavesNight01: checks
+MTails: bets $3
+WavesNight01: calls $3
+*** TURN *** [3s 7d Jd] [Js]
+WavesNight01: checks
+MTails: bets $6
+WavesNight01: folds
+Uncalled bet ($6) returned to MTails
+MTails collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3s 7d Jd Js]
+Seat 3: WavesNight01 (big blind) folded on the Turn
+Seat 4: MTails (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #145162880674:  Hold'em Limit ($3/$6 USD) - 2015/12/11 4:17:03 ET
+Table 'Algebar II' 6-max Seat #4 is the button
+Seat 3: WavesNight01 ($11 in chips)
+Seat 4: MTails ($138.28 in chips)
+MTails: posts small blind $1
+WavesNight01: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+WavesNight01: raises $3 to $9
+MTails: calls $3
+*** FLOP *** [Th Jc Td]
+WavesNight01: bets $2 and is all-in
+MTails: calls $2
+*** TURN *** [Th Jc Td] [7c]
+*** RIVER *** [Th Jc Td 7c] [Jh]
+*** SHOW DOWN ***
+WavesNight01: shows [Ac Kd] (two pair, Jacks and Tens)
+MTails: shows [6s Js] (a full house, Jacks full of Tens)
+MTails collected $21.56 from pot
+*** SUMMARY ***
+Total pot $22 | Rake $0.44
+Board [Th Jc Td 7c Jh]
+Seat 3: WavesNight01 (big blind) showed [Ac Kd] and lost with two pair, Jacks and Tens
+Seat 4: MTails (button) (small blind) showed [6s Js] and won ($21.56) with a full house, Jacks full of Tens
+
+

@@ -1,0 +1,31 @@
+PokerStars Hand #174753637565:  Hold'em Limit ($3/$6 USD) - 2017/08/24 18:42:30 ET
+Table 'Procyon II' 6-max Seat #3 is the button
+Seat 2: ajaxx85 ($269.69 in chips)
+Seat 3: zizonmusang ($45.71 in chips)
+zizonmusang: posts small blind $1
+ajaxx85: posts big blind $3
+*** HOLE CARDS ***
+zizonmusang: raises $3 to $6
+ajaxx85: calls $3
+*** FLOP *** [Ah Kh Qh]
+ajaxx85: checks
+zizonmusang: bets $3
+ajaxx85: calls $3
+*** TURN *** [Ah Kh Qh] [Ks]
+ajaxx85: checks
+zizonmusang: checks
+*** RIVER *** [Ah Kh Qh Ks] [8h]
+ajaxx85: checks
+zizonmusang: bets $6
+ajaxx85: calls $6
+*** SHOW DOWN ***
+zizonmusang: shows [5c 6c] (a pair of Kings)
+ajaxx85: shows [Ts Js] (a straight, Ten to Ace)
+ajaxx85 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ah Kh Qh Ks 8h]
+Seat 2: ajaxx85 (big blind) showed [Ts Js] and won ($29.50) with a straight, Ten to Ace
+Seat 3: zizonmusang (button) (small blind) showed [5c 6c] and lost with a pair of Kings
+
+

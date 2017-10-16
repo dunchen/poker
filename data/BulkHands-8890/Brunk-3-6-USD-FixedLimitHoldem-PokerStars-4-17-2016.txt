@@ -1,0 +1,123 @@
+PokerStars Hand #152038348234:  Hold'em Limit ($3/$6 USD) - 2016/04/17 7:53:06 ET
+Table 'Brunk' 6-max Seat #6 is the button
+Seat 4: VolkovDmitri ($120 in chips)
+Seat 6: JoeBlack1982 ($120 in chips)
+JoeBlack1982: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+JoeBlack1982: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Qh Js Qc]
+VolkovDmitri: checks
+JoeBlack1982: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [Qh Js Qc] [3c]
+VolkovDmitri: checks
+JoeBlack1982: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [Qh Js Qc 3c] [Td]
+VolkovDmitri: checks
+JoeBlack1982: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+JoeBlack1982: shows [7s 8h] (a pair of Queens)
+VolkovDmitri: shows [3h Ad] (two pair, Queens and Threes)
+VolkovDmitri collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Qh Js Qc 3c Td]
+Seat 4: VolkovDmitri (big blind) showed [3h Ad] and won ($41.50) with two pair, Queens and Threes
+Seat 6: JoeBlack1982 (button) (small blind) showed [7s 8h] and lost with a pair of Queens
+
+
+PokerStars Hand #152038407455:  Hold'em Limit ($3/$6 USD) - 2016/04/17 7:54:54 ET
+Table 'Brunk' 6-max Seat #6 is the button
+Seat 4: VolkovDmitri ($149.14 in chips)
+Seat 6: JoeBlack1982 ($90 in chips)
+JoeBlack1982: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+JoeBlack1982: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [9h Qd 6s]
+VolkovDmitri: checks
+JoeBlack1982: checks
+*** TURN *** [9h Qd 6s] [As]
+Chessnok joins the table at seat #1
+VolkovDmitri: checks
+JoeBlack1982: checks
+*** RIVER *** [9h Qd 6s As] [2h]
+VolkovDmitri: checks
+JoeBlack1982: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to JoeBlack1982
+JoeBlack1982 collected $11.76 from pot
+JoeBlack1982: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9h Qd 6s As 2h]
+Seat 4: VolkovDmitri (big blind) folded on the River
+Seat 6: JoeBlack1982 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #152038390092:  Hold'em Limit ($3/$6 USD) - 2016/04/17 7:54:22 ET
+Table 'Brunk' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($140.50 in chips)
+Seat 6: JoeBlack1982 ($99 in chips)
+VolkovDmitri: posts small blind $1
+JoeBlack1982: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+JoeBlack1982: calls $3
+*** FLOP *** [5h 5s 9c]
+JoeBlack1982: checks
+VolkovDmitri: bets $3
+JoeBlack1982: calls $3
+*** TURN *** [5h 5s 9c] [7d]
+JoeBlack1982: checks
+VolkovDmitri: checks
+*** RIVER *** [5h 5s 9c 7d] [4c]
+JoeBlack1982: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+JoeBlack1982: shows [3d Kd] (a pair of Fives)
+VolkovDmitri: shows [2s Ah] (a pair of Fives - Ace kicker)
+VolkovDmitri collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5h 5s 9c 7d 4c]
+Seat 4: VolkovDmitri (button) (small blind) showed [2s Ah] and won ($17.64) with a pair of Fives
+Seat 6: JoeBlack1982 (big blind) showed [3d Kd] and lost with a pair of Fives
+
+
+PokerStars Hand #152038428816:  Hold'em Limit ($3/$6 USD) - 2016/04/17 7:55:36 ET
+Table 'Brunk' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($143.14 in chips)
+Seat 6: JoeBlack1982 ($95.76 in chips)
+VolkovDmitri: posts small blind $1
+JoeBlack1982: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+JoeBlack1982: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [2h 5h Jc]
+JoeBlack1982: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [2h 5h Jc] [3h]
+JoeBlack1982: bets $6
+VolkovDmitri: raises $6 to $12
+JoeBlack1982: calls $6
+*** RIVER *** [2h 5h Jc 3h] [Th]
+JoeBlack1982: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+JoeBlack1982: shows [Td Jd] (two pair, Jacks and Tens)
+VolkovDmitri: mucks hand
+JoeBlack1982 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2h 5h Jc 3h Th]
+Seat 4: VolkovDmitri (button) (small blind) mucked
+Seat 6: JoeBlack1982 (big blind) showed [Td Jd] and won ($47.50) with two pair, Jacks and Tens
+
+

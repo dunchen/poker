@@ -1,0 +1,67 @@
+PokerStars Hand #145066812565:  Hold'em Limit ($3/$6 USD) - 2015/12/09 7:28:22 ET
+Table 'Patricia' 10-max Seat #7 is the button
+Seat 1: Profitables ($43 in chips)
+Seat 7: Great_Kang ($120 in chips)
+Great_Kang: posts small blind $1
+Profitables: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+Profitables: calls $3
+*** FLOP *** [7s 5h 6h]
+Profitables: bets $3
+Great_Kang: calls $3
+*** TURN *** [7s 5h 6h] [As]
+Xerxesklonk joins the table at seat #3
+Profitables: checks
+Great_Kang: bets $6
+Profitables: calls $6
+*** RIVER *** [7s 5h 6h As] [8s]
+Profitables: bets $6
+SashaYuvelir joins the table at seat #4
+Great_Kang: calls $6
+*** SHOW DOWN ***
+Profitables: shows [4s 7h] (a straight, Four to Eight)
+Great_Kang: mucks hand
+Profitables collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [7s 5h 6h As 8s]
+Seat 1: Profitables (big blind) showed [4s 7h] and won ($41.50) with a straight, Four to Eight
+Seat 7: Great_Kang (button) (small blind) mucked
+
+
+PokerStars Hand #145067253932:  Hold'em Limit ($3/$6 USD) - 2015/12/09 7:42:23 ET
+Table 'Patricia' 10-max Seat #7 is the button
+Seat 5: PycV ($157.39 in chips)
+Seat 7: Great_Kang ($120 in chips)
+Great_Kang: posts small blind $1
+Xerxesklonk: is sitting out
+PycV: posts big blind $3
+*** HOLE CARDS ***
+Xerxesklonk leaves the table
+Great_Kang: raises $3 to $6
+PycV: calls $3
+*** FLOP *** [7c Js 2s]
+PycV: checks
+Great_Kang: bets $3
+PycV: raises $3 to $6
+Great_Kang: calls $3
+*** TURN *** [7c Js 2s] [2c]
+PycV: bets $6
+Great_Kang: raises $6 to $12
+PycV: calls $6
+*** RIVER *** [7c Js 2s 2c] [8h]
+PycV: checks
+Great_Kang: bets $6
+PycV: calls $6
+*** SHOW DOWN ***
+Great_Kang: shows [Qc Tc] (a pair of Deuces)
+PycV: shows [8d 7h] (two pair, Eights and Sevens)
+PycV collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [7c Js 2s 2c 8h]
+Seat 5: PycV (big blind) showed [8d 7h] and won ($59.50) with two pair, Eights and Sevens
+Seat 7: Great_Kang (button) (small blind) showed [Qc Tc] and lost with a pair of Deuces
+
+

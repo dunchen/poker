@@ -1,0 +1,61 @@
+PokerStars Hand #151249076786:  Hold'em Limit ($3/$6 USD) - 2016/03/31 22:41:15 ET
+Table 'Auriga II' 6-max Seat #5 is the button
+Seat 4: Mudager ($120 in chips)
+Seat 5: anetkaapro ($95.50 in chips)
+anetkaapro: posts small blind $1
+Mudager: posts big blind $3
+*** HOLE CARDS ***
+anetkaapro: raises $3 to $6
+Mudager: calls $3
+*** FLOP *** [3c Ah Qd]
+Mudager: checks
+anetkaapro: bets $3
+Mudager: calls $3
+*** TURN *** [3c Ah Qd] [6d]
+Mudager: checks
+anetkaapro: checks
+*** RIVER *** [3c Ah Qd 6d] [Kh]
+Mudager: checks
+anetkaapro: bets $6
+Mudager: calls $6
+*** SHOW DOWN ***
+anetkaapro: shows [7s Kc] (a pair of Kings)
+Mudager: mucks hand
+anetkaapro collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3c Ah Qd 6d Kh]
+Seat 4: Mudager (big blind) mucked
+Seat 5: anetkaapro (button) (small blind) showed [7s Kc] and won ($29.50) with a pair of Kings
+
+
+PokerStars Hand #151249066584:  Hold'em Limit ($3/$6 USD) - 2016/03/31 22:40:46 ET
+Table 'Auriga II' 6-max Seat #4 is the button
+Seat 4: Mudager ($120 in chips)
+Seat 5: anetkaapro ($72 in chips)
+Mudager: posts small blind $1
+anetkaapro: posts big blind $3
+*** HOLE CARDS ***
+Mudager: raises $3 to $6
+anetkaapro: raises $3 to $9
+Mudager: calls $3
+*** FLOP *** [Jc 7c Ad]
+anetkaapro: bets $3
+Mudager: calls $3
+*** TURN *** [Jc 7c Ad] [9c]
+anetkaapro: bets $6
+Mudager: calls $6
+*** RIVER *** [Jc 7c Ad 9c] [2s]
+anetkaapro: bets $6
+Mudager: calls $6
+*** SHOW DOWN ***
+anetkaapro: shows [4c 6c] (a flush, Jack high)
+Mudager: mucks hand
+anetkaapro collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Jc 7c Ad 9c 2s]
+Seat 4: Mudager (button) (small blind) mucked
+Seat 5: anetkaapro (big blind) showed [4c 6c] and won ($47.50) with a flush, Jack high
+
+

@@ -1,0 +1,577 @@
+PokerStars Hand #157797209987:  Hold'em Limit ($3/$6 USD) - 2016/08/27 7:15:21 ET
+Table 'Morrison' 6-max Seat #4 is the button
+Seat 3: simper11 ($120 in chips)
+Seat 4: AA_ILI ($102.51 in chips)
+AA_ILI: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+AA_ILI: folds
+Uncalled bet ($2) returned to simper11
+simper11 collected $2 from pot
+simper11: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: simper11 (big blind) collected ($2)
+Seat 4: AA_ILI (button) (small blind) folded before Flop
+
+
+PokerStars Hand #157797213629:  Hold'em Limit ($3/$6 USD) - 2016/08/27 7:15:30 ET
+Table 'Morrison' 6-max Seat #3 is the button
+Seat 3: simper11 ($121 in chips)
+Seat 4: AA_ILI ($101.51 in chips)
+simper11: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+AA_ILI: calls $3
+*** FLOP *** [4s 9s Ad]
+AA_ILI: checks
+simper11: checks
+*** TURN *** [4s 9s Ad] [8d]
+AA_ILI: checks
+simper11: checks
+*** RIVER *** [4s 9s Ad 8d] [Qc]
+AA_ILI: checks
+simper11: checks
+*** SHOW DOWN ***
+AA_ILI: shows [3s 5s] (high card Ace)
+simper11: shows [Kc 5d] (high card Ace - King kicker)
+simper11 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4s 9s Ad 8d Qc]
+Seat 3: simper11 (button) (small blind) showed [Kc 5d] and won ($11.76) with high card Ace
+Seat 4: AA_ILI (big blind) showed [3s 5s] and lost with high card Ace
+
+
+PokerStars Hand #157797224433:  Hold'em Limit ($3/$6 USD) - 2016/08/27 7:15:55 ET
+Table 'Morrison' 6-max Seat #4 is the button
+Seat 3: simper11 ($126.76 in chips)
+Seat 4: AA_ILI ($95.51 in chips)
+AA_ILI: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+AA_ILI: folds
+Uncalled bet ($2) returned to simper11
+simper11 collected $2 from pot
+simper11: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: simper11 (big blind) collected ($2)
+Seat 4: AA_ILI (button) (small blind) folded before Flop
+
+
+PokerStars Hand #157797226612:  Hold'em Limit ($3/$6 USD) - 2016/08/27 7:16:00 ET
+Table 'Morrison' 6-max Seat #3 is the button
+Seat 3: simper11 ($127.76 in chips)
+Seat 4: AA_ILI ($94.51 in chips)
+simper11: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+AA_ILI: calls $3
+*** FLOP *** [Kh 2c Qd]
+AA_ILI: checks
+simper11: checks
+*** TURN *** [Kh 2c Qd] [3s]
+AA_ILI: checks
+simper11: checks
+*** RIVER *** [Kh 2c Qd 3s] [2s]
+AA_ILI: checks
+simper11: checks
+*** SHOW DOWN ***
+AA_ILI: shows [Jd 7c] (a pair of Deuces)
+simper11: shows [Ah 5d] (a pair of Deuces - Ace kicker)
+simper11 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kh 2c Qd 3s 2s]
+Seat 3: simper11 (button) (small blind) showed [Ah 5d] and won ($11.76) with a pair of Deuces
+Seat 4: AA_ILI (big blind) showed [Jd 7c] and lost with a pair of Deuces
+
+
+PokerStars Hand #157797241094:  Hold'em Limit ($3/$6 USD) - 2016/08/27 7:16:35 ET
+Table 'Morrison' 6-max Seat #4 is the button
+Seat 3: simper11 ($133.52 in chips)
+Seat 4: AA_ILI ($88.51 in chips)
+AA_ILI: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+AA_ILI: raises $3 to $6
+simper11: folds
+Uncalled bet ($3) returned to AA_ILI
+AA_ILI collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: simper11 (big blind) folded before Flop
+Seat 4: AA_ILI (button) (small blind) collected ($6)
+
+
+PokerStars Hand #157797244439:  Hold'em Limit ($3/$6 USD) - 2016/08/27 7:16:42 ET
+Table 'Morrison' 6-max Seat #3 is the button
+Seat 3: simper11 ($130.52 in chips)
+Seat 4: AA_ILI ($91.51 in chips)
+simper11: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+AA_ILI: calls $3
+*** FLOP *** [6d Th 5h]
+AA_ILI: checks
+simper11: bets $3
+AA_ILI: raises $3 to $6
+simper11: calls $3
+*** TURN *** [6d Th 5h] [9h]
+AA_ILI: bets $6
+simper11: calls $6
+*** RIVER *** [6d Th 5h 9h] [As]
+AA_ILI: checks
+simper11: checks
+*** SHOW DOWN ***
+AA_ILI: shows [7h Tc] (a pair of Tens)
+simper11: mucks hand
+AA_ILI collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6d Th 5h 9h As]
+Seat 3: simper11 (button) (small blind) mucked
+Seat 4: AA_ILI (big blind) showed [7h Tc] and won ($35.50) with a pair of Tens
+
+
+PokerStars Hand #157797251744:  Hold'em Limit ($3/$6 USD) - 2016/08/27 7:16:59 ET
+Table 'Morrison' 6-max Seat #4 is the button
+Seat 3: simper11 ($120 in chips)
+Seat 4: AA_ILI ($109.01 in chips)
+AA_ILI: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+AA_ILI: raises $3 to $6
+simper11: calls $3
+*** FLOP *** [7s 7h 3c]
+simper11: checks
+AA_ILI: bets $3
+simper11: calls $3
+*** TURN *** [7s 7h 3c] [Ad]
+simper11: checks
+AA_ILI: bets $6
+simper11: folds
+Uncalled bet ($6) returned to AA_ILI
+AA_ILI collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7s 7h 3c Ad]
+Seat 3: simper11 (big blind) folded on the Turn
+Seat 4: AA_ILI (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #157797274075:  Hold'em Limit ($3/$6 USD) - 2016/08/27 7:17:52 ET
+Table 'Morrison' 6-max Seat #4 is the button
+Seat 3: simper11 ($123 in chips)
+Seat 4: AA_ILI ($114.65 in chips)
+AA_ILI: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+AA_ILI: raises $3 to $6
+simper11: folds
+Uncalled bet ($3) returned to AA_ILI
+AA_ILI collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: simper11 (big blind) folded before Flop
+Seat 4: AA_ILI (button) (small blind) collected ($6)
+
+
+PokerStars Hand #157797271205:  Hold'em Limit ($3/$6 USD) - 2016/08/27 7:17:45 ET
+Table 'Morrison' 6-max Seat #3 is the button
+Seat 3: simper11 ($120 in chips)
+Seat 4: AA_ILI ($117.65 in chips)
+simper11: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+AA_ILI: folds
+Uncalled bet ($3) returned to simper11
+simper11 collected $6 from pot
+simper11: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: simper11 (button) (small blind) collected ($6)
+Seat 4: AA_ILI (big blind) folded before Flop
+
+
+PokerStars Hand #157797276661:  Hold'em Limit ($3/$6 USD) - 2016/08/27 7:17:58 ET
+Table 'Morrison' 6-max Seat #3 is the button
+Seat 3: simper11 ($120 in chips)
+Seat 4: AA_ILI ($117.65 in chips)
+simper11: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+AA_ILI: calls $3
+*** FLOP *** [6h Qd Ad]
+AA_ILI: checks
+simper11: bets $3
+AA_ILI: folds
+Uncalled bet ($3) returned to simper11
+simper11 collected $11.76 from pot
+simper11: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6h Qd Ad]
+Seat 3: simper11 (button) (small blind) collected ($11.76)
+Seat 4: AA_ILI (big blind) folded on the Flop
+
+
+PokerStars Hand #157797304844:  Hold'em Limit ($3/$6 USD) - 2016/08/27 7:19:04 ET
+Table 'Morrison' 6-max Seat #4 is the button
+Seat 3: simper11 ($140.26 in chips)
+Seat 4: AA_ILI ($96.15 in chips)
+AA_ILI: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+AA_ILI: raises $3 to $6
+simper11: calls $3
+*** FLOP *** [2s 5s 4d]
+simper11: checks
+AA_ILI: bets $3
+simper11: raises $3 to $6
+AA_ILI: calls $3
+*** TURN *** [2s 5s 4d] [3c]
+simper11: bets $6
+AA_ILI: raises $6 to $12
+simper11: calls $6
+*** RIVER *** [2s 5s 4d 3c] [8d]
+simper11: checks
+AA_ILI: bets $6
+simper11: folds
+Uncalled bet ($6) returned to AA_ILI
+AA_ILI collected $47.50 from pot
+AA_ILI: shows [9c Qc] (high card Queen)
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2s 5s 4d 3c 8d]
+Seat 3: simper11 (big blind) folded on the River
+Seat 4: AA_ILI (button) (small blind) collected ($47.50)
+
+
+PokerStars Hand #157797297708:  Hold'em Limit ($3/$6 USD) - 2016/08/27 7:18:48 ET
+Table 'Morrison' 6-max Seat #3 is the button
+Seat 3: simper11 ($155.26 in chips)
+Seat 4: AA_ILI ($81.65 in chips)
+simper11: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+AA_ILI: calls $3
+*** FLOP *** [3d 9d 9h]
+AA_ILI: checks
+simper11: bets $3
+AA_ILI: calls $3
+*** TURN *** [3d 9d 9h] [6s]
+AA_ILI: checks
+simper11: bets $6
+AA_ILI: calls $6
+*** RIVER *** [3d 9d 9h 6s] [7s]
+AA_ILI: checks
+simper11: checks
+*** SHOW DOWN ***
+AA_ILI: shows [Kc Td] (a pair of Nines)
+simper11: mucks hand
+AA_ILI collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3d 9d 9h 6s 7s]
+Seat 3: simper11 (button) (small blind) mucked
+Seat 4: AA_ILI (big blind) showed [Kc Td] and won ($29.50) with a pair of Nines
+
+
+PokerStars Hand #157797282209:  Hold'em Limit ($3/$6 USD) - 2016/08/27 7:18:11 ET
+Table 'Morrison' 6-max Seat #4 is the button
+Seat 3: simper11 ($125.76 in chips)
+Seat 4: AA_ILI ($111.65 in chips)
+AA_ILI: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+AA_ILI: raises $3 to $6
+simper11: calls $3
+*** FLOP *** [3d Js 8c]
+simper11: checks
+AA_ILI: bets $3
+simper11: raises $3 to $6
+AA_ILI: calls $3
+*** TURN *** [3d Js 8c] [3h]
+simper11: bets $6
+AA_ILI: raises $6 to $12
+simper11: calls $6
+*** RIVER *** [3d Js 8c 3h] [8h]
+simper11: checks
+AA_ILI: bets $6
+simper11: raises $6 to $12
+AA_ILI: folds
+Uncalled bet ($6) returned to simper11
+simper11 collected $59.50 from pot
+simper11: doesn't show hand
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [3d Js 8c 3h 8h]
+Seat 3: simper11 (big blind) collected ($59.50)
+Seat 4: AA_ILI (button) (small blind) folded on the River
+
+
+PokerStars Hand #157797326584:  Hold'em Limit ($3/$6 USD) - 2016/08/27 7:19:56 ET
+Table 'Morrison' 6-max Seat #4 is the button
+Seat 3: simper11 ($127.76 in chips)
+Seat 4: AA_ILI ($111.65 in chips)
+AA_ILI: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+AA_ILI: raises $3 to $6
+simper11: raises $3 to $9
+AA_ILI: calls $3
+*** FLOP *** [9c 6d 9d]
+simper11: bets $3
+AA_ILI: calls $3
+*** TURN *** [9c 6d 9d] [7s]
+simper11: bets $6
+AA_ILI: raises $6 to $12
+simper11: calls $6
+*** RIVER *** [9c 6d 9d 7s] [5h]
+simper11: checks
+AA_ILI: bets $6
+simper11: folds
+Uncalled bet ($6) returned to AA_ILI
+AA_ILI collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9c 6d 9d 7s 5h]
+Seat 3: simper11 (big blind) folded on the River
+Seat 4: AA_ILI (button) (small blind) collected ($47.50)
+
+
+PokerStars Hand #157797324131:  Hold'em Limit ($3/$6 USD) - 2016/08/27 7:19:50 ET
+Table 'Morrison' 6-max Seat #3 is the button
+Seat 3: simper11 ($128.76 in chips)
+Seat 4: AA_ILI ($110.65 in chips)
+simper11: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+simper11: folds
+Uncalled bet ($2) returned to AA_ILI
+AA_ILI collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: simper11 (button) (small blind) folded before Flop
+Seat 4: AA_ILI (big blind) collected ($2)
+
+
+PokerStars Hand #157797317673:  Hold'em Limit ($3/$6 USD) - 2016/08/27 7:19:35 ET
+Table 'Morrison' 6-max Seat #4 is the button
+Seat 3: simper11 ($123 in chips)
+Seat 4: AA_ILI ($116.65 in chips)
+AA_ILI: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+AA_ILI: raises $3 to $6
+simper11: calls $3
+*** FLOP *** [Qd Jh 8c]
+simper11: checks
+AA_ILI: checks
+*** TURN *** [Qd Jh 8c] [Ad]
+simper11: checks
+AA_ILI: checks
+*** RIVER *** [Qd Jh 8c Ad] [Td]
+simper11: bets $6
+AA_ILI: folds
+Uncalled bet ($6) returned to simper11
+simper11 collected $11.76 from pot
+simper11: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qd Jh 8c Ad Td]
+Seat 3: simper11 (big blind) collected ($11.76)
+Seat 4: AA_ILI (button) (small blind) folded on the River
+
+
+PokerStars Hand #157797313027:  Hold'em Limit ($3/$6 USD) - 2016/08/27 7:19:24 ET
+Table 'Morrison' 6-max Seat #3 is the button
+Seat 3: simper11 ($120 in chips)
+Seat 4: AA_ILI ($119.65 in chips)
+simper11: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+AA_ILI: folds
+Uncalled bet ($3) returned to simper11
+simper11 collected $6 from pot
+simper11: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: simper11 (button) (small blind) collected ($6)
+Seat 4: AA_ILI (big blind) folded before Flop
+
+
+PokerStars Hand #157797360206:  Hold'em Limit ($3/$6 USD) - 2016/08/27 7:21:15 ET
+Table 'Morrison' 6-max Seat #4 is the button
+Seat 3: simper11 ($120 in chips)
+Seat 4: AA_ILI ($150.15 in chips)
+AA_ILI: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+AA_ILI: raises $3 to $6
+simper11: folds
+Uncalled bet ($3) returned to AA_ILI
+AA_ILI collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: simper11 (big blind) folded before Flop
+Seat 4: AA_ILI (button) (small blind) collected ($6)
+
+
+PokerStars Hand #157797353493:  Hold'em Limit ($3/$6 USD) - 2016/08/27 7:20:59 ET
+Table 'Morrison' 6-max Seat #3 is the button
+Seat 3: simper11 ($122.88 in chips)
+Seat 4: AA_ILI ($135.65 in chips)
+simper11: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+AA_ILI: calls $3
+*** FLOP *** [4c Td Kd]
+AA_ILI: checks
+simper11: bets $3
+AA_ILI: calls $3
+*** TURN *** [4c Td Kd] [2s]
+AA_ILI: checks
+simper11: bets $6
+AA_ILI: calls $6
+*** RIVER *** [4c Td Kd 2s] [6h]
+AA_ILI: checks
+simper11: checks
+*** SHOW DOWN ***
+AA_ILI: shows [7h Ts] (a pair of Tens)
+simper11: mucks hand
+AA_ILI collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4c Td Kd 2s 6h]
+Seat 3: simper11 (button) (small blind) mucked
+Seat 4: AA_ILI (big blind) showed [7h Ts] and won ($29.50) with a pair of Tens
+
+
+PokerStars Hand #157797349370:  Hold'em Limit ($3/$6 USD) - 2016/08/27 7:20:49 ET
+Table 'Morrison' 6-max Seat #4 is the button
+Seat 3: simper11 ($120 in chips)
+Seat 4: AA_ILI ($138.65 in chips)
+AA_ILI: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+AA_ILI: calls $2
+simper11: checks
+*** FLOP *** [3d Ks Qs]
+simper11: bets $3
+AA_ILI: folds
+Uncalled bet ($3) returned to simper11
+simper11 collected $5.88 from pot
+simper11: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [3d Ks Qs]
+Seat 3: simper11 (big blind) collected ($5.88)
+Seat 4: AA_ILI (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #157797347225:  Hold'em Limit ($3/$6 USD) - 2016/08/27 7:20:44 ET
+Table 'Morrison' 6-max Seat #3 is the button
+Seat 3: simper11 ($120 in chips)
+Seat 4: AA_ILI ($137.65 in chips)
+simper11: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+simper11: folds
+Uncalled bet ($2) returned to AA_ILI
+AA_ILI collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: simper11 (button) (small blind) folded before Flop
+Seat 4: AA_ILI (big blind) collected ($2)
+
+
+PokerStars Hand #157797341816:  Hold'em Limit ($3/$6 USD) - 2016/08/27 7:20:31 ET
+Table 'Morrison' 6-max Seat #4 is the button
+Seat 3: simper11 ($134.50 in chips)
+Seat 4: AA_ILI ($120.15 in chips)
+AA_ILI: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+AA_ILI: raises $3 to $6
+simper11: calls $3
+*** FLOP *** [2s 9h 3h]
+simper11: checks
+AA_ILI: checks
+*** TURN *** [2s 9h 3h] [Th]
+simper11: bets $6
+AA_ILI: raises $6 to $12
+simper11: calls $6
+*** RIVER *** [2s 9h 3h Th] [Ks]
+simper11: checks
+AA_ILI: bets $6
+simper11: folds
+Uncalled bet ($6) returned to AA_ILI
+AA_ILI collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [2s 9h 3h Th Ks]
+Seat 3: simper11 (big blind) folded on the River
+Seat 4: AA_ILI (button) (small blind) collected ($35.50)
+
+
+PokerStars Hand #157797333909:  Hold'em Limit ($3/$6 USD) - 2016/08/27 7:20:13 ET
+Table 'Morrison' 6-max Seat #3 is the button
+Seat 3: simper11 ($120 in chips)
+Seat 4: AA_ILI ($135.15 in chips)
+simper11: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+AA_ILI: calls $3
+*** FLOP *** [Qs 4d Ts]
+AA_ILI: checks
+simper11: bets $3
+AA_ILI: calls $3
+*** TURN *** [Qs 4d Ts] [5s]
+AA_ILI: checks
+simper11: bets $6
+AA_ILI: calls $6
+*** RIVER *** [Qs 4d Ts 5s] [2c]
+AA_ILI: checks
+simper11: bets $6
+AA_ILI: folds
+Uncalled bet ($6) returned to simper11
+simper11 collected $29.50 from pot
+simper11: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qs 4d Ts 5s 2c]
+Seat 3: simper11 (button) (small blind) collected ($29.50)
+Seat 4: AA_ILI (big blind) folded on the River
+
+
+PokerStars Hand #157797362976:  Hold'em Limit ($3/$6 USD) - 2016/08/27 7:21:21 ET
+Table 'Morrison' 6-max Seat #3 is the button
+Seat 3: simper11 ($120 in chips)
+Seat 4: AA_ILI ($153.15 in chips)
+simper11: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+AA_ILI: folds
+Uncalled bet ($3) returned to simper11
+AA_ILI leaves the table
+simper11 collected $6 from pot
+simper11: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: simper11 (button) (small blind) collected ($6)
+Seat 4: AA_ILI (big blind) folded before Flop
+
+

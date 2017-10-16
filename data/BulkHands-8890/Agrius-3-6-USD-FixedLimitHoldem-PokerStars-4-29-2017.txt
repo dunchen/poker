@@ -1,0 +1,1574 @@
+PokerStars Hand #169714820514:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:05:08 ET
+Table 'Agrius' 6-max Seat #6 is the button
+Seat 4: VolkovDmitri ($120 in chips)
+Seat 6: js13111 ($111.49 in chips)
+js13111: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+js13111: calls $2
+VolkovDmitri: raises $3 to $6
+js13111: calls $3
+*** FLOP *** [Qh 9h 7h]
+VolkovDmitri: bets $3
+js13111: raises $3 to $6
+Krazy90 joins the table at seat #1
+VolkovDmitri: calls $3
+*** TURN *** [Qh 9h 7h] [Kh]
+VolkovDmitri: checks
+js13111: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to js13111
+js13111 collected $23.52 from pot
+js13111: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Qh 9h 7h Kh]
+Seat 4: VolkovDmitri (big blind) folded on the Turn
+Seat 6: js13111 (button) (small blind) collected ($23.52)
+
+
+PokerStars Hand #169714868511:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:06:28 ET
+Table 'Agrius' 6-max Seat #6 is the button
+Seat 4: VolkovDmitri ($131.52 in chips)
+Seat 6: js13111 ($111.01 in chips)
+js13111: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+js13111: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: VolkovDmitri (big blind) collected ($2)
+Seat 6: js13111 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #169714845790:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:05:50 ET
+Table 'Agrius' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($120 in chips)
+Seat 6: js13111 ($123.01 in chips)
+VolkovDmitri: posts small blind $1
+js13111: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+js13111: calls $3
+*** FLOP *** [8d 8c Qh]
+js13111: checks
+VolkovDmitri: checks
+*** TURN *** [8d 8c Qh] [2d]
+js13111: checks
+VolkovDmitri: bets $6
+js13111: calls $6
+*** RIVER *** [8d 8c Qh 2d] [4d]
+js13111: checks
+VolkovDmitri: bets $6
+js13111: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $23.52 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [8d 8c Qh 2d 4d]
+Seat 4: VolkovDmitri (button) (small blind) collected ($23.52)
+Seat 6: js13111 (big blind) folded on the River
+
+
+PokerStars Hand #169714871759:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:06:33 ET
+Table 'Agrius' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($132.52 in chips)
+Seat 6: js13111 ($110.01 in chips)
+VolkovDmitri: posts small blind $1
+js13111: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+js13111: calls $3
+*** FLOP *** [Kd Th 9h]
+js13111: checks
+VolkovDmitri: bets $3
+js13111: calls $3
+*** TURN *** [Kd Th 9h] [6h]
+js13111: checks
+VolkovDmitri: checks
+*** RIVER *** [Kd Th 9h 6h] [Js]
+js13111: checks
+VolkovDmitri: bets $6
+js13111: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Qd 8d] (a straight, Nine to King)
+js13111: mucks hand
+VolkovDmitri collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kd Th 9h 6h Js]
+Seat 4: VolkovDmitri (button) (small blind) showed [Qd 8d] and won ($29.50) with a straight, Nine to King
+Seat 6: js13111 (big blind) mucked
+
+
+PokerStars Hand #169714897089:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:07:15 ET
+Table 'Agrius' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($152.78 in chips)
+Seat 6: js13111 ($89.01 in chips)
+VolkovDmitri: posts small blind $1
+js13111: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+js13111: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [8c Qs 9h]
+js13111: checks
+VolkovDmitri: bets $3
+js13111: calls $3
+*** TURN *** [8c Qs 9h] [9s]
+js13111: bets $6
+VolkovDmitri: raises $6 to $12
+js13111: calls $6
+*** RIVER *** [8c Qs 9h 9s] [2s]
+js13111: bets $6
+VolkovDmitri: raises $6 to $12
+js13111: raises $6 to $18
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+js13111: shows [6s 3s] (a flush, Queen high)
+VolkovDmitri: mucks hand
+js13111 collected $83.50 from pot
+*** SUMMARY ***
+Total pot $84 | Rake $0.50
+Board [8c Qs 9h 9s 2s]
+Seat 4: VolkovDmitri (button) (small blind) mucked
+Seat 6: js13111 (big blind) showed [6s 3s] and won ($83.50) with a flush, Queen high
+
+
+PokerStars Hand #169714884785:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:06:55 ET
+Table 'Agrius' 6-max Seat #6 is the button
+Seat 4: VolkovDmitri ($147.02 in chips)
+Seat 6: js13111 ($95.01 in chips)
+js13111: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+js13111: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [6h Kd 9c]
+VolkovDmitri: checks
+js13111: checks
+*** TURN *** [6h Kd 9c] [9s]
+VolkovDmitri: bets $6
+js13111: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6h Kd 9c 9s]
+Seat 4: VolkovDmitri (big blind) collected ($11.76)
+Seat 6: js13111 (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #169714918280:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:07:50 ET
+Table 'Agrius' 6-max Seat #6 is the button
+Seat 4: VolkovDmitri ($120 in chips)
+Seat 6: js13111 ($130.51 in chips)
+js13111: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+js13111: calls $2
+VolkovDmitri: checks
+*** FLOP *** [Qs Jh 6d]
+VolkovDmitri: checks
+js13111: checks
+*** TURN *** [Qs Jh 6d] [Js]
+VolkovDmitri: checks
+js13111: checks
+*** RIVER *** [Qs Jh 6d Js] [Qd]
+VolkovDmitri: checks
+js13111: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [2d 3h] (two pair, Queens and Jacks)
+js13111: shows [8s Kh] (two pair, Queens and Jacks - King kicker)
+js13111 collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Qs Jh 6d Js Qd]
+Seat 4: VolkovDmitri (big blind) showed [2d 3h] and lost with two pair, Queens and Jacks
+Seat 6: js13111 (button) (small blind) showed [8s Kh] and won ($5.88) with two pair, Queens and Jacks
+
+
+PokerStars Hand #169714933151:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:08:15 ET
+Table 'Agrius' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($120 in chips)
+Seat 6: js13111 ($133.39 in chips)
+VolkovDmitri: posts small blind $1
+js13111: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+js13111: calls $3
+*** FLOP *** [2h Ac 7s]
+js13111: bets $3
+VolkovDmitri: raises $3 to $6
+js13111: raises $3 to $9
+VolkovDmitri: raises $3 to $12
+Betting is capped
+js13111: calls $3
+*** TURN *** [2h Ac 7s] [Kh]
+js13111: checks
+VolkovDmitri: checks
+*** RIVER *** [2h Ac 7s Kh] [3d]
+js13111: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+js13111: shows [As 5s] (a pair of Aces)
+VolkovDmitri: mucks hand
+js13111 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [2h Ac 7s Kh 3d]
+Seat 4: VolkovDmitri (button) (small blind) mucked
+Seat 6: js13111 (big blind) showed [As 5s] and won ($35.50) with a pair of Aces
+
+
+PokerStars Hand #169714946112:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:08:37 ET
+Table 'Agrius' 6-max Seat #6 is the button
+Seat 4: VolkovDmitri ($120 in chips)
+Seat 6: js13111 ($150.89 in chips)
+js13111: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+js13111: calls $2
+VolkovDmitri: checks
+*** FLOP *** [7s 4h Qc]
+VolkovDmitri: checks
+js13111: checks
+*** TURN *** [7s 4h Qc] [Ad]
+VolkovDmitri: checks
+js13111: checks
+*** RIVER *** [7s 4h Qc Ad] [5c]
+VolkovDmitri: checks
+js13111: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [Jd 2s] (high card Ace)
+js13111: shows [Kh 3s] (high card Ace - King kicker)
+js13111 collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [7s 4h Qc Ad 5c]
+Seat 4: VolkovDmitri (big blind) showed [Jd 2s] and lost with high card Ace
+Seat 6: js13111 (button) (small blind) showed [Kh 3s] and won ($5.88) with high card Ace
+
+
+PokerStars Hand #169714959432:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:08:58 ET
+Table 'Agrius' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($120 in chips)
+Seat 6: js13111 ($153.77 in chips)
+VolkovDmitri: posts small blind $1
+js13111: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+js13111: calls $3
+*** FLOP *** [3d 9d 5d]
+js13111: checks
+VolkovDmitri: checks
+*** TURN *** [3d 9d 5d] [Ts]
+js13111: checks
+VolkovDmitri: checks
+*** RIVER *** [3d 9d 5d Ts] [3h]
+js13111: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+js13111: shows [Js Tc] (two pair, Tens and Threes)
+VolkovDmitri: mucks hand
+js13111 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3d 9d 5d Ts 3h]
+Seat 4: VolkovDmitri (button) (small blind) mucked
+Seat 6: js13111 (big blind) showed [Js Tc] and won ($11.76) with two pair, Tens and Threes
+
+
+PokerStars Hand #169715000180:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:10:06 ET
+Table 'Agrius' 6-max Seat #6 is the button
+Seat 4: VolkovDmitri ($120 in chips)
+Seat 6: js13111 ($159.53 in chips)
+js13111: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+js13111: calls $2
+VolkovDmitri: raises $3 to $6
+js13111: calls $3
+*** FLOP *** [3s 2d 2h]
+VolkovDmitri: bets $3
+js13111: calls $3
+*** TURN *** [3s 2d 2h] [Jc]
+VolkovDmitri: bets $6
+js13111: raises $6 to $12
+VolkovDmitri: folds
+Uncalled bet ($6) returned to js13111
+js13111 collected $29.50 from pot
+js13111: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3s 2d 2h Jc]
+Seat 4: VolkovDmitri (big blind) folded on the Turn
+Seat 6: js13111 (button) (small blind) collected ($29.50)
+
+
+PokerStars Hand #169715052003:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:11:32 ET
+Table 'Agrius' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($131.52 in chips)
+Seat 6: js13111 ($162.03 in chips)
+VolkovDmitri: posts small blind $1
+js13111: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+js13111: calls $3
+*** FLOP *** [2s 3c 5d]
+js13111: bets $3
+VolkovDmitri: raises $3 to $6
+js13111: calls $3
+*** TURN *** [2s 3c 5d] [8c]
+js13111: checks
+VolkovDmitri: bets $6
+js13111: calls $6
+*** RIVER *** [2s 3c 5d 8c] [2c]
+js13111: checks
+VolkovDmitri: bets $6
+js13111: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Jc Jh] (two pair, Jacks and Deuces)
+js13111: mucks hand
+VolkovDmitri collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2s 3c 5d 8c 2c]
+Seat 4: VolkovDmitri (button) (small blind) showed [Jc Jh] and won ($47.50) with two pair, Jacks and Deuces
+Seat 6: js13111 (big blind) mucked
+
+
+PokerStars Hand #169715038233:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:11:09 ET
+Table 'Agrius' 6-max Seat #6 is the button
+Seat 4: VolkovDmitri ($125.76 in chips)
+Seat 6: js13111 ($168.03 in chips)
+js13111: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+js13111: calls $2
+VolkovDmitri: raises $3 to $6
+js13111: calls $3
+*** FLOP *** [7s 4h 2c]
+VolkovDmitri: bets $3
+js13111: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7s 4h 2c]
+Seat 4: VolkovDmitri (big blind) collected ($11.76)
+Seat 6: js13111 (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #169715025661:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:10:48 ET
+Table 'Agrius' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($120 in chips)
+Seat 6: js13111 ($174.03 in chips)
+VolkovDmitri: posts small blind $1
+js13111: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+js13111: calls $3
+*** FLOP *** [4s Jc Ts]
+js13111: checks
+VolkovDmitri: bets $3
+js13111: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4s Jc Ts]
+Seat 4: VolkovDmitri (button) (small blind) collected ($11.76)
+Seat 6: js13111 (big blind) folded on the Flop
+
+
+PokerStars Hand #169715077203:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:12:13 ET
+Table 'Agrius' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($157.90 in chips)
+Seat 6: js13111 ($135.03 in chips)
+VolkovDmitri: posts small blind $1
+js13111: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+js13111: raises $3 to $9
+VolkovDmitri: raises $3 to $12
+Betting is capped
+js13111: calls $3
+*** FLOP *** [8s Kh 9c]
+js13111: checks
+VolkovDmitri: bets $3
+js13111: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [8s Kh 9c] [9d]
+js13111: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to js13111
+js13111 collected $35.50 from pot
+js13111: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [8s Kh 9c 9d]
+Seat 4: VolkovDmitri (button) (small blind) folded on the Turn
+Seat 6: js13111 (big blind) collected ($35.50)
+
+
+PokerStars Hand #169715067639:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:11:57 ET
+Table 'Agrius' 6-max Seat #6 is the button
+Seat 4: VolkovDmitri ($155.02 in chips)
+Seat 6: js13111 ($138.03 in chips)
+js13111: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+js13111: calls $2
+VolkovDmitri: checks
+*** FLOP *** [2s 8h 6s]
+VolkovDmitri: checks
+js13111: checks
+*** TURN *** [2s 8h 6s] [As]
+VolkovDmitri: bets $6
+js13111: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $5.88 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [2s 8h 6s As]
+Seat 4: VolkovDmitri (big blind) collected ($5.88)
+Seat 6: js13111 (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #169715101904:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:12:53 ET
+Table 'Agrius' 6-max Seat #6 is the button
+Seat 4: VolkovDmitri ($139.90 in chips)
+Seat 6: js13111 ($152.53 in chips)
+js13111: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+js13111: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [6h 6c Kh]
+VolkovDmitri: checks
+js13111: checks
+*** TURN *** [6h 6c Kh] [5d]
+VolkovDmitri: bets $6
+js13111: calls $6
+*** RIVER *** [6h 6c Kh 5d] [Qs]
+VolkovDmitri: checks
+js13111: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to js13111
+js13111 collected $23.52 from pot
+js13111: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [6h 6c Kh 5d Qs]
+Seat 4: VolkovDmitri (big blind) folded on the River
+Seat 6: js13111 (button) (small blind) collected ($23.52)
+
+
+PokerStars Hand #169715147929:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:14:09 ET
+Table 'Agrius' 6-max Seat #6 is the button
+Seat 4: VolkovDmitri ($154.40 in chips)
+Seat 6: js13111 ($137.05 in chips)
+js13111: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+js13111: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: VolkovDmitri (big blind) collected ($2)
+Seat 6: js13111 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #169715115904:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:13:16 ET
+Table 'Agrius' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($127.90 in chips)
+Seat 6: js13111 ($164.05 in chips)
+VolkovDmitri: posts small blind $1
+js13111: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+js13111: calls $3
+*** FLOP *** [Qd 5c 7c]
+js13111: checks
+VolkovDmitri: bets $3
+js13111: calls $3
+*** TURN *** [Qd 5c 7c] [9d]
+js13111: checks
+VolkovDmitri: bets $6
+js13111: calls $6
+*** RIVER *** [Qd 5c 7c 9d] [Kc]
+js13111: bets $6
+VolkovDmitri: raises $6 to $12
+js13111: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Ks 7d] (two pair, Kings and Sevens)
+js13111: mucks hand
+VolkovDmitri collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Qd 5c 7c 9d Kc]
+Seat 4: VolkovDmitri (button) (small blind) showed [Ks 7d] and won ($53.50) with two pair, Kings and Sevens
+Seat 6: js13111 (big blind) mucked
+
+
+PokerStars Hand #169715173531:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:14:51 ET
+Table 'Agrius' 6-max Seat #6 is the button
+Seat 4: VolkovDmitri ($155.22 in chips)
+Seat 6: js13111 ($135.87 in chips)
+js13111: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+js13111: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: VolkovDmitri (big blind) collected ($2)
+Seat 6: js13111 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #169715151207:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:14:14 ET
+Table 'Agrius' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($155.40 in chips)
+Seat 6: js13111 ($136.05 in chips)
+VolkovDmitri: posts small blind $1
+js13111: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+js13111: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [3s 7h 7d]
+js13111: checks
+VolkovDmitri: checks
+*** TURN *** [3s 7h 7d] [Qd]
+js13111: checks
+VolkovDmitri: checks
+*** RIVER *** [3s 7h 7d Qd] [Td]
+js13111: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+js13111: shows [Ks 8s] (a pair of Sevens)
+VolkovDmitri: shows [Kh 6c] (a pair of Sevens)
+js13111 collected $8.82 from pot
+VolkovDmitri collected $8.82 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3s 7h 7d Qd Td]
+Seat 4: VolkovDmitri (button) (small blind) showed [Kh 6c] and won ($8.82) with a pair of Sevens
+Seat 6: js13111 (big blind) showed [Ks 8s] and won ($8.82) with a pair of Sevens
+
+
+PokerStars Hand #169715195538:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:15:27 ET
+Table 'Agrius' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($164.74 in chips)
+Seat 6: js13111 ($125.87 in chips)
+VolkovDmitri: posts small blind $1
+js13111: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: folds
+Uncalled bet ($2) returned to js13111
+js13111 collected $2 from pot
+js13111: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: VolkovDmitri (button) (small blind) folded before Flop
+Seat 6: js13111 (big blind) collected ($2)
+
+
+PokerStars Hand #169715190708:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:15:19 ET
+Table 'Agrius' 6-max Seat #6 is the button
+Seat 4: VolkovDmitri ($167.74 in chips)
+Seat 6: js13111 ($122.87 in chips)
+js13111: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+js13111: raises $3 to $6
+VolkovDmitri: folds
+Uncalled bet ($3) returned to js13111
+js13111 collected $6 from pot
+js13111: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 4: VolkovDmitri (big blind) folded before Flop
+Seat 6: js13111 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #169715176714:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:14:57 ET
+Table 'Agrius' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($156.22 in chips)
+Seat 6: js13111 ($134.87 in chips)
+VolkovDmitri: posts small blind $1
+js13111: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+js13111: calls $3
+*** FLOP *** [6d 5d 3h]
+js13111: checks
+VolkovDmitri: checks
+*** TURN *** [6d 5d 3h] [8h]
+js13111: checks
+VolkovDmitri: checks
+*** RIVER *** [6d 5d 3h 8h] [Qc]
+js13111: checks
+VolkovDmitri: bets $6
+js13111: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Qd 9c] (a pair of Queens)
+js13111: mucks hand
+VolkovDmitri collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [6d 5d 3h 8h Qc]
+Seat 4: VolkovDmitri (button) (small blind) showed [Qd 9c] and won ($23.52) with a pair of Queens
+Seat 6: js13111 (big blind) mucked
+
+
+PokerStars Hand #169715228700:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:16:21 ET
+Table 'Agrius' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($148.74 in chips)
+Seat 6: js13111 ($141.37 in chips)
+VolkovDmitri: posts small blind $1
+js13111: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: folds
+Uncalled bet ($2) returned to js13111
+js13111 collected $2 from pot
+js13111: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: VolkovDmitri (button) (small blind) folded before Flop
+Seat 6: js13111 (big blind) collected ($2)
+
+
+PokerStars Hand #169715199178:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:15:33 ET
+Table 'Agrius' 6-max Seat #6 is the button
+Seat 4: VolkovDmitri ($163.74 in chips)
+Seat 6: js13111 ($126.87 in chips)
+js13111: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+js13111: calls $2
+VolkovDmitri: raises $3 to $6
+js13111: calls $3
+*** FLOP *** [5c 6c 9s]
+VolkovDmitri: bets $3
+js13111: calls $3
+*** TURN *** [5c 6c 9s] [9h]
+VolkovDmitri: bets $6
+js13111: raises $6 to $12
+VolkovDmitri: folds
+Uncalled bet ($6) returned to js13111
+js13111 collected $29.50 from pot
+js13111: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5c 6c 9s 9h]
+Seat 4: VolkovDmitri (big blind) folded on the Turn
+Seat 6: js13111 (button) (small blind) collected ($29.50)
+
+
+PokerStars Hand #169715231933:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:16:26 ET
+Table 'Agrius' 6-max Seat #6 is the button
+Seat 4: VolkovDmitri ($147.74 in chips)
+Seat 6: js13111 ($142.37 in chips)
+js13111: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+js13111: calls $2
+VolkovDmitri: raises $3 to $6
+js13111: calls $3
+*** FLOP *** [Ac 9d 9h]
+VolkovDmitri: checks
+js13111: checks
+*** TURN *** [Ac 9d 9h] [9s]
+VolkovDmitri: checks
+js13111: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [Ac 9d 9h 9s] [Qs]
+VolkovDmitri: checks
+js13111: bets $6
+VolkovDmitri: raises $6 to $12
+js13111: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $35.50 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Ac 9d 9h 9s Qs]
+Seat 4: VolkovDmitri (big blind) collected ($35.50)
+Seat 6: js13111 (button) (small blind) folded on the River
+
+
+PokerStars Hand #169715250270:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:16:56 ET
+Table 'Agrius' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($165.24 in chips)
+Seat 6: js13111 ($124.37 in chips)
+VolkovDmitri: posts small blind $1
+js13111: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+js13111: calls $3
+*** FLOP *** [Kc 6h Tc]
+js13111: checks
+VolkovDmitri: bets $3
+js13111: calls $3
+*** TURN *** [Kc 6h Tc] [5c]
+js13111: checks
+VolkovDmitri: checks
+*** RIVER *** [Kc 6h Tc 5c] [3s]
+js13111: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to js13111
+js13111 collected $17.64 from pot
+js13111: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kc 6h Tc 5c 3s]
+Seat 4: VolkovDmitri (button) (small blind) folded on the River
+Seat 6: js13111 (big blind) collected ($17.64)
+
+
+PokerStars Hand #169715268986:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:17:27 ET
+Table 'Agrius' 6-max Seat #6 is the button
+Seat 4: VolkovDmitri ($156.24 in chips)
+Seat 6: js13111 ($133.01 in chips)
+js13111: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+js13111: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: VolkovDmitri (big blind) collected ($2)
+Seat 6: js13111 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #169715273862:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:17:35 ET
+Table 'Agrius' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($157.24 in chips)
+Seat 6: js13111 ($132.01 in chips)
+VolkovDmitri: posts small blind $1
+js13111: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+js13111: calls $3
+*** FLOP *** [7c 5c 3d]
+js13111: checks
+VolkovDmitri: checks
+*** TURN *** [7c 5c 3d] [3c]
+js13111: checks
+VolkovDmitri: checks
+*** RIVER *** [7c 5c 3d 3c] [6s]
+js13111: bets $6
+VolkovDmitri: raises $6 to $12
+js13111: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $23.52 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [7c 5c 3d 3c 6s]
+Seat 4: VolkovDmitri (button) (small blind) collected ($23.52)
+Seat 6: js13111 (big blind) folded on the River
+
+
+PokerStars Hand #169715305655:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:18:26 ET
+Table 'Agrius' 6-max Seat #6 is the button
+Seat 4: VolkovDmitri ($168.76 in chips)
+Seat 6: js13111 ($120.01 in chips)
+js13111: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+js13111: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Td Jd Jc]
+VolkovDmitri: checks
+js13111: checks
+*** TURN *** [Td Jd Jc] [6c]
+VolkovDmitri: bets $6
+js13111: calls $6
+*** RIVER *** [Td Jd Jc 6c] [2h]
+VolkovDmitri: bets $6
+js13111: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $23.52 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Td Jd Jc 6c 2h]
+Seat 4: VolkovDmitri (big blind) collected ($23.52)
+Seat 6: js13111 (button) (small blind) folded on the River
+
+
+PokerStars Hand #169715327252:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:19:02 ET
+Table 'Agrius' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($180.28 in chips)
+Seat 6: js13111 ($108.01 in chips)
+VolkovDmitri: posts small blind $1
+js13111: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+js13111: calls $3
+*** FLOP *** [Qs 3d 6d]
+js13111: checks
+VolkovDmitri: bets $3
+js13111: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qs 3d 6d]
+Seat 4: VolkovDmitri (button) (small blind) collected ($11.76)
+Seat 6: js13111 (big blind) folded on the Flop
+
+
+PokerStars Hand #169715335312:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:19:14 ET
+Table 'Agrius' 6-max Seat #6 is the button
+Seat 4: VolkovDmitri ($186.04 in chips)
+Seat 6: js13111 ($102.01 in chips)
+js13111: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+js13111: calls $2
+VolkovDmitri: checks
+*** FLOP *** [Ah 4s 7d]
+VolkovDmitri: bets $3
+js13111: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $5.88 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Ah 4s 7d]
+Seat 4: VolkovDmitri (big blind) collected ($5.88)
+Seat 6: js13111 (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #169715343208:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:19:27 ET
+Table 'Agrius' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($188.92 in chips)
+Seat 6: js13111 ($99.01 in chips)
+VolkovDmitri: posts small blind $1
+js13111: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+js13111: calls $3
+*** FLOP *** [Ac 8c Ks]
+js13111: checks
+VolkovDmitri: bets $3
+js13111: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [Ac 8c Ks] [Ah]
+js13111: bets $6
+VolkovDmitri: raises $6 to $12
+js13111: calls $6
+*** RIVER *** [Ac 8c Ks Ah] [9h]
+js13111: checks
+VolkovDmitri: bets $6
+js13111: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [As 4c] (three of a kind, Aces)
+js13111: mucks hand
+VolkovDmitri collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Ac 8c Ks Ah 9h]
+Seat 4: VolkovDmitri (button) (small blind) showed [As 4c] and won ($59.50) with three of a kind, Aces
+Seat 6: js13111 (big blind) mucked
+
+
+PokerStars Hand #169715388858:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:20:41 ET
+Table 'Agrius' 6-max Seat #6 is the button
+Seat 4: VolkovDmitri ($200.42 in chips)
+Seat 6: js13111 ($86.29 in chips)
+js13111: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+js13111: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: VolkovDmitri (big blind) collected ($2)
+Seat 6: js13111 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #169715373213:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:20:16 ET
+Table 'Agrius' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($209.42 in chips)
+Seat 6: js13111 ($77.65 in chips)
+VolkovDmitri: posts small blind $1
+js13111: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+js13111: calls $3
+*** FLOP *** [2c Kd Qd]
+js13111: checks
+VolkovDmitri: bets $3
+js13111: calls $3
+*** TURN *** [2c Kd Qd] [Td]
+js13111: checks
+VolkovDmitri: checks
+*** RIVER *** [2c Kd Qd Td] [5h]
+js13111: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to js13111
+js13111 collected $17.64 from pot
+js13111: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2c Kd Qd Td 5h]
+Seat 4: VolkovDmitri (button) (small blind) folded on the River
+Seat 6: js13111 (big blind) collected ($17.64)
+
+
+PokerStars Hand #169715359492:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:19:54 ET
+Table 'Agrius' 6-max Seat #6 is the button
+Seat 4: VolkovDmitri ($218.42 in chips)
+Seat 6: js13111 ($69.01 in chips)
+js13111: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+js13111: calls $2
+VolkovDmitri: raises $3 to $6
+js13111: calls $3
+*** FLOP *** [2h 5d Qc]
+VolkovDmitri: bets $3
+js13111: calls $3
+*** TURN *** [2h 5d Qc] [4d]
+VolkovDmitri: checks
+js13111: checks
+*** RIVER *** [2h 5d Qc 4d] [5c]
+VolkovDmitri: checks
+js13111: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [Th 8c] (a pair of Fives)
+js13111: shows [2s 6c] (two pair, Fives and Deuces)
+js13111 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2h 5d Qc 4d 5c]
+Seat 4: VolkovDmitri (big blind) showed [Th 8c] and lost with a pair of Fives
+Seat 6: js13111 (button) (small blind) showed [2s 6c] and won ($17.64) with two pair, Fives and Deuces
+
+
+PokerStars Hand #169715408523:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:21:13 ET
+Table 'Agrius' 6-max Seat #6 is the button
+Seat 4: VolkovDmitri ($215.92 in chips)
+Seat 6: js13111 ($70.29 in chips)
+js13111: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+js13111: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Jc Jh Kh]
+VolkovDmitri: checks
+js13111: bets $3
+VolkovDmitri: folds
+Uncalled bet ($3) returned to js13111
+js13111 collected $11.76 from pot
+js13111: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jc Jh Kh]
+Seat 4: VolkovDmitri (big blind) folded on the Flop
+Seat 6: js13111 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #169715392216:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:20:47 ET
+Table 'Agrius' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($201.42 in chips)
+Seat 6: js13111 ($85.29 in chips)
+VolkovDmitri: posts small blind $1
+js13111: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+js13111: calls $3
+*** FLOP *** [Kh 8s 6s]
+js13111: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [Kh 8s 6s] [Jd]
+js13111: checks
+VolkovDmitri: bets $6
+js13111: calls $6
+*** RIVER *** [Kh 8s 6s Jd] [Ah]
+js13111: checks
+VolkovDmitri: bets $6
+js13111: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $29.50 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kh 8s 6s Jd Ah]
+Seat 4: VolkovDmitri (button) (small blind) collected ($29.50)
+Seat 6: js13111 (big blind) folded on the River
+
+
+PokerStars Hand #169715439152:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:22:04 ET
+Table 'Agrius' 6-max Seat #6 is the button
+Seat 4: VolkovDmitri ($209.67 in chips)
+Seat 6: js13111 ($75.80 in chips)
+js13111: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+js13111: raises $3 to $6
+VolkovDmitri: folds
+Uncalled bet ($3) returned to js13111
+js13111 collected $6 from pot
+js13111: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 4: VolkovDmitri (big blind) folded before Flop
+Seat 6: js13111 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #169715416069:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:21:26 ET
+Table 'Agrius' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($209.92 in chips)
+Seat 6: js13111 ($76.05 in chips)
+VolkovDmitri: posts small blind $1
+js13111: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+js13111: calls $3
+*** FLOP *** [2s 3d 5s]
+js13111: checks
+VolkovDmitri: bets $3
+js13111: calls $3
+*** TURN *** [2s 3d 5s] [Kd]
+js13111: checks
+VolkovDmitri: checks
+*** RIVER *** [2s 3d 5s Kd] [6c]
+js13111: bets $6
+VolkovDmitri: raises $6 to $12
+js13111: raises $6 to $18
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+js13111: shows [9c 4s] (a straight, Deuce to Six)
+VolkovDmitri: shows [8h 4c] (a straight, Deuce to Six)
+js13111 collected $26.75 from pot
+VolkovDmitri collected $26.75 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [2s 3d 5s Kd 6c]
+Seat 4: VolkovDmitri (button) (small blind) showed [8h 4c] and won ($26.75) with a straight, Deuce to Six
+Seat 6: js13111 (big blind) showed [9c 4s] and won ($26.75) with a straight, Deuce to Six
+
+
+PokerStars Hand #169715520913:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:24:18 ET
+Table 'Agrius' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($193.93 in chips)
+Seat 6: js13111 ($89.94 in chips)
+VolkovDmitri: posts small blind $1
+js13111: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+js13111: calls $3
+*** FLOP *** [6c 2d Tc]
+js13111: checks
+VolkovDmitri: bets $3
+js13111: calls $3
+*** TURN *** [6c 2d Tc] [6d]
+js13111: checks
+VolkovDmitri: bets $6
+js13111: calls $6
+*** RIVER *** [6c 2d Tc 6d] [Qs]
+js13111: bets $6
+VolkovDmitri: raises $6 to $12
+js13111: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $41.50 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [6c 2d Tc 6d Qs]
+Seat 4: VolkovDmitri (button) (small blind) collected ($41.50)
+Seat 6: js13111 (big blind) folded on the River
+
+
+PokerStars Hand #169715449118:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:22:20 ET
+Table 'Agrius' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($206.67 in chips)
+Seat 6: js13111 ($78.80 in chips)
+VolkovDmitri: posts small blind $1
+js13111: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+js13111: raises $3 to $9
+VolkovDmitri: raises $3 to $12
+Betting is capped
+js13111: calls $3
+*** FLOP *** [2d Ts Js]
+js13111: bets $3
+VolkovDmitri: raises $3 to $6
+js13111: raises $3 to $9
+VolkovDmitri: calls $3
+*** TURN *** [2d Ts Js] [7c]
+js13111: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [2d Ts Js 7c] [5d]
+js13111: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+js13111: shows [Jc Tc] (two pair, Jacks and Tens)
+VolkovDmitri: mucks hand
+js13111 collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [2d Ts Js 7c 5d]
+Seat 4: VolkovDmitri (button) (small blind) mucked
+Seat 6: js13111 (big blind) showed [Jc Tc] and won ($65.50) with two pair, Jacks and Tens
+
+
+PokerStars Hand #169715475032:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:23:03 ET
+Table 'Agrius' 6-max Seat #6 is the button
+Seat 4: VolkovDmitri ($173.67 in chips)
+Seat 6: js13111 ($111.30 in chips)
+js13111: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+js13111: calls $2
+VolkovDmitri: raises $3 to $6
+js13111: calls $3
+*** FLOP *** [Ac 7s As]
+VolkovDmitri: bets $3
+js13111: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ac 7s As]
+Seat 4: VolkovDmitri (big blind) collected ($11.76)
+Seat 6: js13111 (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #169715487980:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:23:24 ET
+Table 'Agrius' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($179.43 in chips)
+Seat 6: js13111 ($105.30 in chips)
+VolkovDmitri: posts small blind $1
+js13111: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+js13111: calls $3
+*** FLOP *** [Th Ah Jc]
+js13111: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [Th Ah Jc] [5d]
+js13111: checks
+VolkovDmitri: checks
+*** RIVER *** [Th Ah Jc 5d] [3s]
+js13111: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to js13111
+js13111 collected $17.64 from pot
+js13111: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Th Ah Jc 5d 3s]
+Seat 4: VolkovDmitri (button) (small blind) folded on the River
+Seat 6: js13111 (big blind) collected ($17.64)
+
+
+PokerStars Hand #169715505630:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:23:53 ET
+Table 'Agrius' 6-max Seat #6 is the button
+Seat 4: VolkovDmitri ($170.43 in chips)
+Seat 6: js13111 ($113.94 in chips)
+js13111: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+js13111: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Kh Qd Jh]
+VolkovDmitri: checks
+js13111: checks
+*** TURN *** [Kh Qd Jh] [4c]
+VolkovDmitri: bets $6
+js13111: calls $6
+*** RIVER *** [Kh Qd Jh 4c] [8h]
+VolkovDmitri: bets $6
+js13111: raises $6 to $12
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+js13111: shows [2d Ac] (high card Ace)
+VolkovDmitri: shows [4d 8d] (two pair, Eights and Fours)
+VolkovDmitri collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Kh Qd Jh 4c 8h]
+Seat 4: VolkovDmitri (big blind) showed [4d 8d] and won ($47.50) with two pair, Eights and Fours
+Seat 6: js13111 (button) (small blind) showed [2d Ac] and lost with high card Ace
+
+
+PokerStars Hand #169715547329:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:25:02 ET
+Table 'Agrius' 6-max Seat #6 is the button
+Seat 4: VolkovDmitri ($214.43 in chips)
+Seat 6: js13111 ($68.94 in chips)
+js13111: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+js13111: calls $2
+VolkovDmitri: checks
+*** FLOP *** [Kc 5s 9c]
+VolkovDmitri: checks
+js13111: checks
+*** TURN *** [Kc 5s 9c] [4h]
+VolkovDmitri: checks
+js13111: checks
+*** RIVER *** [Kc 5s 9c 4h] [4c]
+VolkovDmitri: checks
+js13111: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [3h Td] (a pair of Fours)
+js13111: shows [2s Jh] (a pair of Fours - King+Jack kicker)
+js13111 collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Kc 5s 9c 4h 4c]
+Seat 4: VolkovDmitri (big blind) showed [3h Td] and lost with a pair of Fours
+Seat 6: js13111 (button) (small blind) showed [2s Jh] and won ($5.88) with a pair of Fours
+
+
+PokerStars Hand #169715564041:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:25:29 ET
+Table 'Agrius' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($211.43 in chips)
+Seat 6: js13111 ($71.82 in chips)
+VolkovDmitri: posts small blind $1
+js13111: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+artecris joins the table at seat #3
+js13111: calls $3
+*** FLOP *** [8d 8h Th]
+js13111: checks
+VolkovDmitri: bets $3
+js13111: calls $3
+*** TURN *** [8d 8h Th] [8c]
+js13111: checks
+VolkovDmitri: checks
+*** RIVER *** [8d 8h Th 8c] [9h]
+js13111: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to js13111
+js13111 collected $17.64 from pot
+js13111: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8d 8h Th 8c 9h]
+Seat 4: VolkovDmitri (button) (small blind) folded on the River
+Seat 6: js13111 (big blind) collected ($17.64)
+
+
+PokerStars Hand #169716328931:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:46:14 ET
+Table 'Agrius' 6-max Seat #6 is the button
+Seat 1: lelala ($114 in chips)
+Seat 6: SirRomanov ($72 in chips)
+SirRomanov: posts small blind $1
+lelala: posts big blind $3
+*** HOLE CARDS ***
+SirRomanov: raises $3 to $6
+lelala: folds
+Uncalled bet ($3) returned to SirRomanov
+SirRomanov collected $6 from pot
+SirRomanov: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: lelala (big blind) folded before Flop
+Seat 6: SirRomanov (button) (small blind) collected ($6)
+
+
+PokerStars Hand #169716322091:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:46:03 ET
+Table 'Agrius' 6-max Seat #1 is the button
+Seat 1: lelala ($111 in chips)
+Seat 6: SirRomanov ($72 in chips)
+lelala: posts small blind $1
+Agrotait: is sitting out
+VolkovDmitri: is sitting out
+neknek165: is sitting out
+SirRomanov: posts big blind $3
+*** HOLE CARDS ***
+lelala: raises $3 to $6
+VolkovDmitri leaves the table
+SirRomanov: folds
+Uncalled bet ($3) returned to lelala
+lelala collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: lelala (button) (small blind) collected ($6)
+Seat 6: SirRomanov (big blind) folded before Flop
+
+
+PokerStars Hand #169716350943:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:46:50 ET
+Table 'Agrius' 6-max Seat #1 is the button
+Seat 1: lelala ($111 in chips)
+Seat 2: masterblstr8 ($120 in chips)
+lelala: posts small blind $1
+masterblstr8: posts big blind $3
+*** HOLE CARDS ***
+lelala: raises $3 to $6
+masterblstr8: calls $3
+*** FLOP *** [3h Qs Qd]
+masterblstr8: checks
+lelala: bets $3
+masterblstr8: calls $3
+*** TURN *** [3h Qs Qd] [7d]
+masterblstr8: checks
+lelala: bets $6
+masterblstr8: folds
+Uncalled bet ($6) returned to lelala
+lelala collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3h Qs Qd 7d]
+Seat 1: lelala (button) (small blind) collected ($17.64)
+Seat 2: masterblstr8 (big blind) folded on the Turn
+
+
+PokerStars Hand #169716393031:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:47:58 ET
+Table 'Agrius' 6-max Seat #1 is the button
+Seat 1: lelala ($95.64 in chips)
+Seat 2: masterblstr8 ($134.50 in chips)
+lelala: posts small blind $1
+masterblstr8: posts big blind $3
+*** HOLE CARDS ***
+lelala: folds
+Uncalled bet ($2) returned to masterblstr8
+masterblstr8 collected $2 from pot
+masterblstr8: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: lelala (button) (small blind) folded before Flop
+Seat 2: masterblstr8 (big blind) collected ($2)
+
+
+PokerStars Hand #169716387153:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:47:48 ET
+Table 'Agrius' 6-max Seat #2 is the button
+Seat 1: lelala ($94.64 in chips)
+Seat 2: masterblstr8 ($135.50 in chips)
+masterblstr8: posts small blind $1
+lelala: posts big blind $3
+*** HOLE CARDS ***
+masterblstr8: folds
+Uncalled bet ($2) returned to lelala
+lelala collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: lelala (big blind) collected ($2)
+Seat 2: masterblstr8 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #169716368393:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:47:18 ET
+Table 'Agrius' 6-max Seat #2 is the button
+Seat 1: lelala ($119.64 in chips)
+Seat 2: masterblstr8 ($111 in chips)
+masterblstr8: posts small blind $1
+lelala: posts big blind $3
+*** HOLE CARDS ***
+masterblstr8: raises $3 to $6
+lelala: calls $3
+*** FLOP *** [Th 3c 4d]
+lelala: checks
+masterblstr8: bets $3
+lelala: raises $3 to $6
+masterblstr8: calls $3
+*** TURN *** [Th 3c 4d] [9c]
+lelala: bets $6
+masterblstr8: calls $6
+*** RIVER *** [Th 3c 4d 9c] [8h]
+lelala: checks
+masterblstr8: bets $6
+lelala: calls $6
+*** SHOW DOWN ***
+masterblstr8: shows [9s Jd] (a pair of Nines)
+lelala: mucks hand
+masterblstr8 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Th 3c 4d 9c 8h]
+Seat 1: lelala (big blind) mucked
+Seat 2: masterblstr8 (button) (small blind) showed [9s Jd] and won ($47.50) with a pair of Nines
+
+
+PokerStars Hand #169716383190:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:47:42 ET
+Table 'Agrius' 6-max Seat #1 is the button
+Seat 1: lelala ($95.64 in chips)
+Seat 2: masterblstr8 ($134.50 in chips)
+lelala: posts small blind $1
+masterblstr8: posts big blind $3
+*** HOLE CARDS ***
+lelala: folds
+Uncalled bet ($2) returned to masterblstr8
+masterblstr8 collected $2 from pot
+masterblstr8: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: lelala (button) (small blind) folded before Flop
+Seat 2: masterblstr8 (big blind) collected ($2)
+
+
+PokerStars Hand #169716395785:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:48:02 ET
+Table 'Agrius' 6-max Seat #2 is the button
+Seat 1: lelala ($94.64 in chips)
+Seat 2: masterblstr8 ($135.50 in chips)
+masterblstr8: posts small blind $1
+shampBTgogo was removed from the table for failing to post
+lelala: posts big blind $3
+*** HOLE CARDS ***
+masterblstr8: raises $3 to $6
+lelala: raises $3 to $9
+masterblstr8: calls $3
+*** FLOP *** [6c 8c 5d]
+lelala: bets $3
+masterblstr8: calls $3
+*** TURN *** [6c 8c 5d] [7h]
+lelala: bets $6
+masterblstr8: calls $6
+*** RIVER *** [6c 8c 5d 7h] [3d]
+lelala: bets $6
+masterblstr8: folds
+Uncalled bet ($6) returned to lelala
+lelala collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6c 8c 5d 7h 3d]
+Seat 1: lelala (big blind) collected ($35.50)
+Seat 2: masterblstr8 (button) (small blind) folded on the River
+
+
+PokerStars Hand #169716429307:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:48:57 ET
+Table 'Agrius' 6-max Seat #1 is the button
+Seat 1: lelala ($118.90 in chips)
+Seat 2: masterblstr8 ($110.50 in chips)
+lelala: posts small blind $1
+masterblstr8: posts big blind $3
+*** HOLE CARDS ***
+lelala: folds
+Uncalled bet ($2) returned to masterblstr8
+masterblstr8 collected $2 from pot
+masterblstr8: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: lelala (button) (small blind) folded before Flop
+Seat 2: masterblstr8 (big blind) collected ($2)
+
+
+PokerStars Hand #169716422374:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:48:45 ET
+Table 'Agrius' 6-max Seat #2 is the button
+Seat 1: lelala ($117.90 in chips)
+Seat 2: masterblstr8 ($111.50 in chips)
+masterblstr8: posts small blind $1
+lelala: posts big blind $3
+*** HOLE CARDS ***
+masterblstr8: folds
+Uncalled bet ($2) returned to lelala
+lelala collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: lelala (big blind) collected ($2)
+Seat 2: masterblstr8 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #169716412937:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:48:30 ET
+Table 'Agrius' 6-max Seat #1 is the button
+Seat 1: lelala ($112.14 in chips)
+Seat 2: masterblstr8 ($117.50 in chips)
+lelala: posts small blind $1
+masterblstr8: posts big blind $3
+*** HOLE CARDS ***
+lelala: raises $3 to $6
+masterblstr8: calls $3
+*** FLOP *** [8c 2c Qh]
+masterblstr8: checks
+lelala: bets $3
+masterblstr8: folds
+Uncalled bet ($3) returned to lelala
+lelala collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8c 2c Qh]
+Seat 1: lelala (button) (small blind) collected ($11.76)
+Seat 2: masterblstr8 (big blind) folded on the Flop
+
+
+PokerStars Hand #169716431862:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:49:01 ET
+Table 'Agrius' 6-max Seat #2 is the button
+Seat 1: lelala ($117.90 in chips)
+Seat 2: masterblstr8 ($111.50 in chips)
+masterblstr8: posts small blind $1
+lelala: posts big blind $3
+*** HOLE CARDS ***
+masterblstr8: raises $3 to $6
+lelala: calls $3
+*** FLOP *** [7c 2c 4s]
+lelala: checks
+masterblstr8: bets $3
+lelala: raises $3 to $6
+masterblstr8: calls $3
+*** TURN *** [7c 2c 4s] [Jc]
+lelala: bets $6
+masterblstr8: calls $6
+*** RIVER *** [7c 2c 4s Jc] [3h]
+lelala: bets $6
+masterblstr8: calls $6
+*** SHOW DOWN ***
+lelala: shows [7s Jh] (two pair, Jacks and Sevens)
+masterblstr8: mucks hand
+lelala collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7c 2c 4s Jc 3h]
+Seat 1: lelala (big blind) showed [7s Jh] and won ($47.50) with two pair, Jacks and Sevens
+Seat 2: masterblstr8 (button) (small blind) mucked
+
+
+PokerStars Hand #169716448750:  Hold'em Limit ($3/$6 USD) - 2017/04/29 10:49:28 ET
+Table 'Agrius' 6-max Seat #1 is the button
+Seat 1: lelala ($141.40 in chips)
+Seat 2: masterblstr8 ($87.50 in chips)
+lelala: posts small blind $1
+masterblstr8: posts big blind $3
+*** HOLE CARDS ***
+lelala: raises $3 to $6
+masterblstr8: calls $3
+*** FLOP *** [9c 9s Jh]
+masterblstr8: checks
+lelala: bets $3
+masterblstr8: raises $3 to $6
+lelala: raises $3 to $9
+masterblstr8: calls $3
+*** TURN *** [9c 9s Jh] [Ac]
+masterblstr8: checks
+lelala: bets $6
+masterblstr8: calls $6
+*** RIVER *** [9c 9s Jh Ac] [8s]
+masterblstr8: checks
+lelala: checks
+*** SHOW DOWN ***
+masterblstr8: shows [Qc 4c] (a pair of Nines)
+lelala: shows [Js Td] (two pair, Jacks and Nines)
+lelala collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9c 9s Jh Ac 8s]
+Seat 1: lelala (button) (small blind) showed [Js Td] and won ($41.50) with two pair, Jacks and Nines
+Seat 2: masterblstr8 (big blind) showed [Qc 4c] and lost with a pair of Nines
+
+

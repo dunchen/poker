@@ -1,0 +1,85 @@
+PokerStars Hand #168459029127:  Hold'em Limit ($3/$6 USD) - 2017/04/02 6:36:33 ET
+Table 'Sulamitis' 6-max Seat #2 is the button
+Seat 2: anebodil ($21.07 in chips)
+Seat 3: TbIP-TbIP 88 ($72 in chips)
+anebodil: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+anebodil: calls $2
+TbIP-TbIP 88: checks
+*** FLOP *** [Jc 7c 9c]
+TbIP-TbIP 88: bets $3
+anebodil: calls $3
+*** TURN *** [Jc 7c 9c] [9s]
+TbIP-TbIP 88: checks
+anebodil: checks
+*** RIVER *** [Jc 7c 9c 9s] [3h]
+TbIP-TbIP 88: bets $6
+anebodil: calls $6
+*** SHOW DOWN ***
+TbIP-TbIP 88: shows [Tc 5s] (a pair of Nines)
+anebodil: shows [As 2d] (a pair of Nines - Ace kicker)
+anebodil collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Jc 7c 9c 9s 3h]
+Seat 2: anebodil (button) (small blind) showed [As 2d] and won ($23.52) with a pair of Nines
+Seat 3: TbIP-TbIP 88 (big blind) showed [Tc 5s] and lost with a pair of Nines
+
+
+PokerStars Hand #168459113386:  Hold'em Limit ($3/$6 USD) - 2017/04/02 6:39:29 ET
+Table 'Sulamitis' 6-max Seat #1 is the button
+Seat 1: 007sandel007 ($108.71 in chips)
+Seat 4: MilPopov ($8.68 in chips)
+007sandel007: posts small blind $1
+MilPopov: posts big blind $3
+*** HOLE CARDS ***
+007sandel007: raises $3 to $6
+MilPopov: raises $2.68 to $8.68 and is all-in
+007sandel007: calls $2.68
+*** FLOP *** [8h 6h Ts]
+*** TURN *** [8h 6h Ts] [5c]
+*** RIVER *** [8h 6h Ts 5c] [4s]
+*** SHOW DOWN ***
+MilPopov: shows [Kd 7c] (a straight, Four to Eight)
+007sandel007: shows [5h Ac] (a pair of Fives)
+MilPopov collected $17.01 from pot
+*** SUMMARY ***
+Total pot $17.36 | Rake $0.35
+Board [8h 6h Ts 5c 4s]
+Seat 1: 007sandel007 (button) (small blind) showed [5h Ac] and lost with a pair of Fives
+Seat 4: MilPopov (big blind) showed [Kd 7c] and won ($17.01) with a straight, Four to Eight
+
+
+PokerStars Hand #168459185562:  Hold'em Limit ($3/$6 USD) - 2017/04/02 6:41:57 ET
+Table 'Sulamitis' 6-max Seat #3 is the button
+Seat 2: anebodil ($31.18 in chips)
+Seat 3: HAL9QQQ ($138.70 in chips)
+HAL9QQQ: posts small blind $1
+anebodil: posts big blind $3
+*** HOLE CARDS ***
+MilPopov leaves the table
+HAL9QQQ: raises $3 to $6
+anebodil: calls $3
+*** FLOP *** [Qs Js 2d]
+anebodil: bets $3
+HAL9QQQ: calls $3
+*** TURN *** [Qs Js 2d] [2c]
+anebodil: bets $6
+HAL9QQQ: raises $6 to $12
+anebodil: calls $6
+*** RIVER *** [Qs Js 2d 2c] [8s]
+anebodil: checks
+HAL9QQQ: bets $6
+anebodil: calls $6
+*** SHOW DOWN ***
+HAL9QQQ: shows [2s Qc] (a full house, Deuces full of Queens)
+anebodil: mucks hand
+HAL9QQQ collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Qs Js 2d 2c 8s]
+Seat 2: anebodil (big blind) mucked
+Seat 3: HAL9QQQ (button) (small blind) showed [2s Qc] and won ($53.50) with a full house, Deuces full of Queens
+
+

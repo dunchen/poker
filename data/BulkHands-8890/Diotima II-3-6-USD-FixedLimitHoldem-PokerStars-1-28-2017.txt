@@ -1,0 +1,31 @@
+PokerStars Hand #165299854051:  Hold'em Limit ($3/$6 USD) - 2017/01/28 11:05:13 ET
+Table 'Diotima II' 6-max Seat #5 is the button
+Seat 2: LouisB ($63.30 in chips)
+Seat 5: Pfuenph ($107 in chips)
+Pfuenph: posts small blind $1
+LouisB: posts big blind $3
+*** HOLE CARDS ***
+Pfuenph: raises $3 to $6
+LouisB: raises $3 to $9
+Pfuenph: calls $3
+*** FLOP *** [5c 2h 9d]
+LouisB: bets $3
+Pfuenph: calls $3
+*** TURN *** [5c 2h 9d] [9h]
+LouisB: bets $6
+Pfuenph: raises $6 to $12
+LouisB: calls $6
+*** RIVER *** [5c 2h 9d 9h] [2c]
+LouisB: checks
+Pfuenph: checks
+*** SHOW DOWN ***
+LouisB: shows [Th Tc] (two pair, Tens and Nines)
+Pfuenph: mucks hand
+LouisB collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [5c 2h 9d 9h 2c]
+Seat 2: LouisB (big blind) showed [Th Tc] and won ($47.50) with two pair, Tens and Nines
+Seat 5: Pfuenph (button) (small blind) mucked
+
+

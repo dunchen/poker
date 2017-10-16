@@ -1,0 +1,59 @@
+PokerStars Hand #176871065791:  Hold'em Limit ($3/$6 USD) - 2017/10/13 15:21:26 ET
+Table 'Signe' 6-max Seat #3 is the button
+Seat 3: bastion670 ($30 in chips)
+Seat 5: AzureCaper ($72 in chips)
+FHstyles: is sitting out
+FHstyles leaves the table
+bastion670: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+bastion670: calls $2
+BelSv joins the table at seat #4
+AzureCaper: checks
+*** FLOP *** [Ac Qd 4h]
+AzureCaper: checks
+bastion670: bets $3
+AzureCaper: folds
+Uncalled bet ($3) returned to bastion670
+bastion670 collected $5.88 from pot
+bastion670: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Ac Qd 4h]
+Seat 3: bastion670 (button) (small blind) collected ($5.88)
+Seat 5: AzureCaper (big blind) folded on the Flop
+
+
+PokerStars Hand #176871087262:  Hold'em Limit ($3/$6 USD) - 2017/10/13 15:21:53 ET
+Table 'Signe' 6-max Seat #5 is the button
+Seat 3: bastion670 ($32.88 in chips)
+Seat 5: AzureCaper ($72 in chips)
+AzureCaper: posts small blind $1
+bastion670: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+bastion670: calls $3
+*** FLOP *** [7s 9h 4d]
+bastion670: checks
+AzureCaper: bets $3
+bastion670: calls $3
+*** TURN *** [7s 9h 4d] [3d]
+bastion670: checks
+AzureCaper: bets $6
+bastion670: calls $6
+*** RIVER *** [7s 9h 4d 3d] [5c]
+bastion670: bets $6
+AzureCaper: raises $6 to $12
+bastion670: raises $5.88 to $17.88 and is all-in
+AzureCaper: calls $5.88
+*** SHOW DOWN ***
+bastion670: shows [4s 5h] (two pair, Fives and Fours)
+AzureCaper: shows [6c Ts] (a straight, Three to Seven)
+AzureCaper collected $65.26 from pot
+*** SUMMARY ***
+Total pot $65.76 | Rake $0.50
+Board [7s 9h 4d 3d 5c]
+Seat 3: bastion670 (big blind) showed [4s 5h] and lost with two pair, Fives and Fours
+Seat 5: AzureCaper (button) (small blind) showed [6c Ts] and won ($65.26) with a straight, Three to Seven
+
+

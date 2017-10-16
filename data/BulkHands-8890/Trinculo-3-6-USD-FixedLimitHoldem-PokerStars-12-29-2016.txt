@@ -1,0 +1,102 @@
+PokerStars Hand #163688924316:  Hold'em Limit ($3/$6 USD) - 2016/12/28 19:01:36 ET
+Table 'Trinculo' 6-max Seat #5 is the button
+Seat 4: karambakilla ($240.51 in chips)
+Seat 5: chinesehulk ($70.39 in chips)
+chinesehulk: posts small blind $1
+karambakilla: posts big blind $3
+*** HOLE CARDS ***
+chinesehulk: folds
+Uncalled bet ($2) returned to karambakilla
+karambakilla collected $2 from pot
+karambakilla: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: karambakilla (big blind) collected ($2)
+Seat 5: chinesehulk (button) (small blind) folded before Flop
+
+
+PokerStars Hand #163688907883:  Hold'em Limit ($3/$6 USD) - 2016/12/28 19:01:14 ET
+Table 'Trinculo' 6-max Seat #4 is the button
+Seat 4: karambakilla ($252.51 in chips)
+Seat 5: chinesehulk ($58.87 in chips)
+karambakilla: posts small blind $1
+chinesehulk: posts big blind $3
+*** HOLE CARDS ***
+karambakilla: raises $3 to $6
+chinesehulk: calls $3
+*** FLOP *** [Jh 5c Qd]
+chinesehulk: checks
+karambakilla: checks
+*** TURN *** [Jh 5c Qd] [Ad]
+chinesehulk: checks
+karambakilla: bets $6
+chinesehulk: calls $6
+*** RIVER *** [Jh 5c Qd Ad] [4d]
+chinesehulk: checks
+karambakilla: checks
+*** SHOW DOWN ***
+chinesehulk: shows [2s Qc] (a pair of Queens)
+karambakilla: mucks hand
+chinesehulk collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Jh 5c Qd Ad 4d]
+Seat 4: karambakilla (button) (small blind) mucked
+Seat 5: chinesehulk (big blind) showed [2s Qc] and won ($23.52) with a pair of Queens
+
+
+PokerStars Hand #163688903593:  Hold'em Limit ($3/$6 USD) - 2016/12/28 19:01:08 ET
+Table 'Trinculo' 6-max Seat #5 is the button
+Seat 4: karambakilla ($251.51 in chips)
+Seat 5: chinesehulk ($59.87 in chips)
+chinesehulk: posts small blind $1
+ToDaFelt: is sitting out
+karambakilla: posts big blind $3
+*** HOLE CARDS ***
+chinesehulk: folds
+Uncalled bet ($2) returned to karambakilla
+karambakilla collected $2 from pot
+karambakilla: doesn't show hand
+ToDaFelt leaves the table
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: karambakilla (big blind) collected ($2)
+Seat 5: chinesehulk (button) (small blind) folded before Flop
+
+
+PokerStars Hand #163691902889:  Hold'em Limit ($3/$6 USD) - 2016/12/28 20:12:57 ET
+Table 'Trinculo' 6-max Seat #3 is the button
+Seat 3: chosenfish ($138.45 in chips)
+Seat 5: ToDaFelt ($193.70 in chips)
+vad_hor will be allowed to play after the button
+karambakilla leaves the table
+chosenfish: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+chosenfish: raises $3 to $6
+ToDaFelt: raises $3 to $9
+chosenfish: calls $3
+*** FLOP *** [Td 7c 5h]
+karambakilla joins the table at seat #1
+ToDaFelt: bets $3
+chosenfish: raises $3 to $6
+ToDaFelt: raises $3 to $9
+chosenfish: calls $3
+*** TURN *** [Td 7c 5h] [7h]
+ToDaFelt: bets $6
+chosenfish: raises $6 to $12
+ToDaFelt: calls $6
+*** RIVER *** [Td 7c 5h 7h] [2h]
+ToDaFelt: checks
+chosenfish: checks
+*** SHOW DOWN ***
+ToDaFelt: shows [9h Tc] (two pair, Tens and Sevens)
+chosenfish: shows [Qs Ts] (two pair, Tens and Sevens - Queen kicker)
+chosenfish collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Td 7c 5h 7h 2h]
+Seat 3: chosenfish (button) (small blind) showed [Qs Ts] and won ($59.50) with two pair, Tens and Sevens
+Seat 5: ToDaFelt (big blind) showed [9h Tc] and lost with two pair, Tens and Sevens
+
+

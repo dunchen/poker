@@ -1,0 +1,80 @@
+PokerStars Hand #146724611522:  Hold'em Limit ($3/$6 USD) - 2016/01/09 3:58:50 ET
+Table 'Castor' 6-max Seat #4 is the button
+Seat 1: rumrun1 ($56 in chips)
+Seat 4: Agrotait ($135 in chips)
+Agrotait: posts small blind $1
+rumrun1: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: folds
+Uncalled bet ($2) returned to rumrun1
+rumrun1 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: rumrun1 (big blind) collected ($2)
+Seat 4: Agrotait (button) (small blind) folded before Flop
+
+
+PokerStars Hand #146724599023:  Hold'em Limit ($3/$6 USD) - 2016/01/09 3:58:14 ET
+Table 'Castor' 6-max Seat #1 is the button
+Seat 1: rumrun1 ($83 in chips)
+Seat 4: Agrotait ($108.50 in chips)
+rumrun1: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+rumrun1: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [9c 4d Ts]
+Agrotait: checks
+rumrun1: bets $3
+Agrotait: calls $3
+*** TURN *** [9c 4d Ts] [Tc]
+Agrotait: checks
+rumrun1: bets $6
+Agrotait: raises $6 to $12
+rumrun1: calls $6
+*** RIVER *** [9c 4d Ts Tc] [4s]
+Agrotait: bets $6
+rumrun1: calls $6
+*** SHOW DOWN ***
+Agrotait: shows [9h 5c] (two pair, Tens and Nines)
+rumrun1: mucks hand
+Agrotait collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [9c 4d Ts Tc 4s]
+Seat 1: rumrun1 (button) (small blind) mucked
+Seat 4: Agrotait (big blind) showed [9h 5c] and won ($53.50) with two pair, Tens and Nines
+
+
+PokerStars Hand #146724592539:  Hold'em Limit ($3/$6 USD) - 2016/01/09 3:57:55 ET
+Table 'Castor' 6-max Seat #4 is the button
+Seat 1: rumrun1 ($119 in chips)
+Seat 4: Agrotait ($73 in chips)
+Agrotait: posts small blind $1
+rumrun1: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+rumrun1: raises $3 to $9
+Agrotait: calls $3
+*** FLOP *** [8s 6d 5h]
+rumrun1: bets $3
+Agrotait: calls $3
+*** TURN *** [8s 6d 5h] [2h]
+rumrun1: bets $6
+Agrotait: calls $6
+*** RIVER *** [8s 6d 5h 2h] [3d]
+rumrun1: bets $6
+Agrotait: raises $6 to $12
+rumrun1: raises $6 to $18
+Agrotait: calls $6
+*** SHOW DOWN ***
+rumrun1: shows [2s 2c] (three of a kind, Deuces)
+Agrotait: shows [Kc 4h] (a straight, Deuce to Six)
+Agrotait collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [8s 6d 5h 2h 3d]
+Seat 1: rumrun1 (big blind) showed [2s 2c] and lost with three of a kind, Deuces
+Seat 4: Agrotait (button) (small blind) showed [Kc 4h] and won ($71.50) with a straight, Deuce to Six
+
+

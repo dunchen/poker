@@ -1,0 +1,62 @@
+PokerStars Hand #157985001595:  Hold'em Limit ($3/$6 USD) - 2016/08/31 14:40:14 ET
+Table 'Amalasuntha' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($124 in chips)
+Seat 2: hairy1961 ($56 in chips)
+VolkovDmitri: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+hairy1961: calls $3
+*** FLOP *** [4s 3d 4h]
+hairy1961: checks
+VolkovDmitri: bets $3
+hairy1961: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [4s 3d 4h] [8h]
+hairy1961: checks
+VolkovDmitri: checks
+*** RIVER *** [4s 3d 4h 8h] [8d]
+hairy1961: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+hairy1961: shows [9c Qs] (two pair, Eights and Fours)
+VolkovDmitri: mucks hand
+hairy1961 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [4s 3d 4h 8h 8d]
+Seat 1: VolkovDmitri (button) (small blind) mucked
+Seat 2: hairy1961 (big blind) showed [9c Qs] and won ($35.50) with two pair, Eights and Fours
+
+
+PokerStars Hand #157985023485:  Hold'em Limit ($3/$6 USD) - 2016/08/31 14:40:42 ET
+Table 'Amalasuntha' 6-max Seat #2 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 2: hairy1961 ($73.50 in chips)
+hairy1961: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+hairy1961: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Jc 9c 5c]
+VolkovDmitri: checks
+hairy1961: bets $3
+VolkovDmitri: raises $3 to $6
+hairy1961: calls $3
+*** TURN *** [Jc 9c 5c] [9s]
+VolkovDmitri: bets $6
+hairy1961: calls $6
+*** RIVER *** [Jc 9c 5c 9s] [6c]
+VolkovDmitri: bets $6
+hairy1961: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [8d Th] (a pair of Nines)
+hairy1961: shows [Qs 8c] (a flush, Jack high)
+hairy1961 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Jc 9c 5c 9s 6c]
+Seat 1: VolkovDmitri (big blind) showed [8d Th] and lost with a pair of Nines
+Seat 2: hairy1961 (button) (small blind) showed [Qs 8c] and won ($47.50) with a flush, Jack high
+
+

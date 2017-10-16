@@ -1,0 +1,61 @@
+PokerStars Hand #148141639476:  Hold'em Limit ($3/$6 USD) - 2016/02/02 19:37:35 ET
+Table 'Suleika II' 2-max Seat #2 is the button
+Seat 1: elifnur2008 ($120 in chips)
+Seat 2: schäfer230 ($35.73 in chips)
+schäfer230: posts small blind $1
+elifnur2008: posts big blind $3
+*** HOLE CARDS ***
+schäfer230: raises $3 to $6
+elifnur2008: calls $3
+*** FLOP *** [9h 2s 9s]
+elifnur2008: checks
+schäfer230: bets $3
+elifnur2008: calls $3
+*** TURN *** [9h 2s 9s] [8d]
+elifnur2008: checks
+schäfer230: bets $6
+elifnur2008: raises $6 to $12
+schäfer230: calls $6
+*** RIVER *** [9h 2s 9s 8d] [Jd]
+elifnur2008: bets $6
+schäfer230: folds
+Uncalled bet ($6) returned to elifnur2008
+elifnur2008 collected $41.50 from pot
+elifnur2008: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9h 2s 9s 8d Jd]
+Seat 1: elifnur2008 (big blind) collected ($41.50)
+Seat 2: schäfer230 (button) (small blind) folded on the River
+
+
+PokerStars Hand #148141653336:  Hold'em Limit ($3/$6 USD) - 2016/02/02 19:37:56 ET
+Table 'Suleika II' 2-max Seat #1 is the button
+Seat 1: elifnur2008 ($140.50 in chips)
+Seat 2: schäfer230 ($14.73 in chips)
+elifnur2008: posts small blind $1
+schäfer230: posts big blind $3
+*** HOLE CARDS ***
+elifnur2008: raises $3 to $6
+schäfer230: calls $3
+*** FLOP *** [6c Td 4d]
+schäfer230: checks
+elifnur2008: bets $3
+schäfer230: calls $3
+*** TURN *** [6c Td 4d] [2s]
+schäfer230: checks
+elifnur2008: bets $6
+schäfer230: calls $5.73 and is all-in
+Uncalled bet ($0.27) returned to elifnur2008
+*** RIVER *** [6c Td 4d 2s] [5s]
+*** SHOW DOWN ***
+schäfer230: shows [Ks 9h] (high card King)
+elifnur2008: shows [7c 5d] (a pair of Fives)
+elifnur2008 collected $28.96 from pot
+*** SUMMARY ***
+Total pot $29.46 | Rake $0.50
+Board [6c Td 4d 2s 5s]
+Seat 1: elifnur2008 (button) (small blind) showed [7c 5d] and won ($28.96) with a pair of Fives
+Seat 2: schäfer230 (big blind) showed [Ks 9h] and lost with high card King
+
+

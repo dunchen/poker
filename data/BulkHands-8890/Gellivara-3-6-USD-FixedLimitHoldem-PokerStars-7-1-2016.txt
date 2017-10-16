@@ -1,0 +1,32 @@
+PokerStars Hand #155408659486:  Hold'em Limit ($3/$6 USD) - 2016/06/30 20:56:29 ET
+Table 'Gellivara' 6-max Seat #5 is the button
+Seat 4: BrownieSpy ($116.21 in chips)
+Seat 5: Masqb ($154.64 in chips)
+Masqb: posts small blind $1
+BrownieSpy: posts big blind $3
+*** HOLE CARDS ***
+Masqb: raises $3 to $6
+BrownieSpy: raises $3 to $9
+Masqb: calls $3
+*** FLOP *** [7h 5d 8h]
+BrownieSpy: bets $3
+Masqb: calls $3
+*** TURN *** [7h 5d 8h] [Ks]
+BrownieSpy: bets $6
+Masqb: raises $6 to $12
+BrownieSpy: raises $6 to $18
+Masqb: calls $6
+*** RIVER *** [7h 5d 8h Ks] [Ts]
+BrownieSpy: bets $6
+Masqb: calls $6
+*** SHOW DOWN ***
+BrownieSpy: shows [Ah 5h] (a pair of Fives)
+Masqb: shows [Kc Qd] (a pair of Kings)
+Masqb collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [7h 5d 8h Ks Ts]
+Seat 4: BrownieSpy (big blind) showed [Ah 5h] and lost with a pair of Fives
+Seat 5: Masqb (button) (small blind) showed [Kc Qd] and won ($71.50) with a pair of Kings
+
+

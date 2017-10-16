@@ -1,0 +1,55 @@
+PokerStars Hand #155956215205:  Hold'em Limit ($3/$6 USD) - 2016/07/14 9:34:43 ET
+Table 'Orestes II' 6-max Seat #3 is the button
+Seat 3: Piparipoker ($48.25 in chips)
+Seat 4: Agrotait ($72 in chips)
+Piparipoker: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+Piparipoker: raises $3 to $6
+B_loJkl joins the table at seat #5
+Agrotait: calls $3
+*** FLOP *** [Tc 2s 4c]
+Agrotait: checks
+Piparipoker: bets $3
+Agrotait: folds
+Uncalled bet ($3) returned to Piparipoker
+Piparipoker collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Tc 2s 4c]
+Seat 3: Piparipoker (button) (small blind) collected ($11.76)
+Seat 4: Agrotait (big blind) folded on the Flop
+
+
+PokerStars Hand #155956497175:  Hold'em Limit ($3/$6 USD) - 2016/07/14 9:43:25 ET
+Table 'Orestes II' 6-max Seat #4 is the button
+Seat 4: Agrotait ($95 in chips)
+Seat 5: B_loJkl ($210.54 in chips)
+Agrotait: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Kd Jd Jh]
+B_loJkl: checks
+Piparipoker leaves the table
+Agrotait: bets $3
+B_loJkl: raises $3 to $6
+Agrotait: calls $3
+*** TURN *** [Kd Jd Jh] [9c]
+B_loJkl: bets $6
+Agrotait: calls $6
+*** RIVER *** [Kd Jd Jh 9c] [5c]
+B_loJkl: checks
+Agrotait: checks
+*** SHOW DOWN ***
+B_loJkl: shows [As 4h] (a pair of Jacks)
+Agrotait: shows [Ac 9h] (two pair, Jacks and Nines)
+Agrotait collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Kd Jd Jh 9c 5c]
+Seat 4: Agrotait (button) (small blind) showed [Ac 9h] and won ($35.50) with two pair, Jacks and Nines
+Seat 5: B_loJkl (big blind) showed [As 4h] and lost with a pair of Jacks
+
+

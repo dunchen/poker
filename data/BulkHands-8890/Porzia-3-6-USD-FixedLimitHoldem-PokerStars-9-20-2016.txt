@@ -1,0 +1,33 @@
+PokerStars Hand #158849500220:  Hold'em Limit ($3/$6 USD) - 2016/09/20 7:35:40 ET
+Table 'Porzia' 6-max Seat #1 is the button
+Seat 1: civi1717 ($120 in chips)
+Seat 2: vestimokrec ($120 in chips)
+civi1717: posts small blind $1
+Ag3r0n joins the table at seat #3
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+civi1717: raises $3 to $6
+vestimokrec: calls $3
+*** FLOP *** [7c 4s 8d]
+vestimokrec: checks
+civi1717: bets $3
+vestimokrec: calls $3
+*** TURN *** [7c 4s 8d] [2s]
+vestimokrec: checks
+civi1717: bets $6
+vestimokrec: calls $6
+*** RIVER *** [7c 4s 8d 2s] [8c]
+vestimokrec: checks
+civi1717: bets $6
+vestimokrec: calls $6
+*** SHOW DOWN ***
+civi1717: shows [5c 9h] (a pair of Eights)
+vestimokrec: shows [4d Td] (two pair, Eights and Fours)
+vestimokrec collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [7c 4s 8d 2s 8c]
+Seat 1: civi1717 (button) (small blind) showed [5c 9h] and lost with a pair of Eights
+Seat 2: vestimokrec (big blind) showed [4d Td] and won ($41.50) with two pair, Eights and Fours
+
+

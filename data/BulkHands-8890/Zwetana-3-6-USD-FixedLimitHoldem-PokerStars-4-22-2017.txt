@@ -1,0 +1,3128 @@
+PokerStars Hand #169385376767:  Hold'em Limit ($3/$6 USD) - 2017/04/22 2:50:23 ET
+Table 'Zwetana' 6-max Seat #5 is the button
+Seat 4: old_col ($120 in chips)
+Seat 5: sim5sim5 ($95.58 in chips)
+sim5sim5: posts small blind $1
+old_col: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+old_col: calls $3
+*** FLOP *** [2c 2d 5c]
+old_col: checks
+sim5sim5: bets $3
+old_col: calls $3
+*** TURN *** [2c 2d 5c] [Tc]
+old_col: bets $6
+sim5sim5: calls $6
+*** RIVER *** [2c 2d 5c Tc] [4d]
+old_col: bets $6
+sim5sim5: folds
+Uncalled bet ($6) returned to old_col
+old_col collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2c 2d 5c Tc 4d]
+Seat 4: old_col (big blind) collected ($29.50)
+Seat 5: sim5sim5 (button) (small blind) folded on the River
+
+
+PokerStars Hand #169385401471:  Hold'em Limit ($3/$6 USD) - 2017/04/22 2:51:44 ET
+Table 'Zwetana' 6-max Seat #5 is the button
+Seat 4: old_col ($131.50 in chips)
+Seat 5: sim5sim5 ($83.46 in chips)
+sim5sim5: posts small blind $1
+old_col: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: folds
+Uncalled bet ($2) returned to old_col
+old_col collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: old_col (big blind) collected ($2)
+Seat 5: sim5sim5 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #169385392090:  Hold'em Limit ($3/$6 USD) - 2017/04/22 2:51:13 ET
+Table 'Zwetana' 6-max Seat #4 is the button
+Seat 4: old_col ($134.50 in chips)
+Seat 5: sim5sim5 ($80.58 in chips)
+old_col: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+old_col: calls $2
+sim5sim5: checks
+*** FLOP *** [Jd Kc 5s]
+sim5sim5: checks
+old_col: checks
+*** TURN *** [Jd Kc 5s] [5c]
+sim5sim5: checks
+old_col: checks
+*** RIVER *** [Jd Kc 5s 5c] [Kh]
+sim5sim5: checks
+old_col: checks
+*** SHOW DOWN ***
+sim5sim5: shows [4s Qd] (two pair, Kings and Fives)
+old_col: mucks hand
+sim5sim5 collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Jd Kc 5s 5c Kh]
+Seat 4: old_col (button) (small blind) mucked
+Seat 5: sim5sim5 (big blind) showed [4s Qd] and won ($5.88) with two pair, Kings and Fives
+
+
+PokerStars Hand #169385405456:  Hold'em Limit ($3/$6 USD) - 2017/04/22 2:51:57 ET
+Table 'Zwetana' 6-max Seat #4 is the button
+Seat 4: old_col ($132.50 in chips)
+Seat 5: sim5sim5 ($82.46 in chips)
+old_col: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+old_col: calls $2
+sim5sim5: raises $3 to $6
+old_col: calls $3
+*** FLOP *** [6d Ts 3c]
+sim5sim5: bets $3
+old_col: raises $3 to $6
+sim5sim5: calls $3
+*** TURN *** [6d Ts 3c] [Jd]
+sim5sim5: bets $6
+old_col: calls $6
+*** RIVER *** [6d Ts 3c Jd] [As]
+sim5sim5: checks
+old_col: checks
+*** SHOW DOWN ***
+sim5sim5: shows [Jc Qc] (a pair of Jacks)
+old_col: mucks hand
+sim5sim5 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6d Ts 3c Jd As]
+Seat 4: old_col (button) (small blind) mucked
+Seat 5: sim5sim5 (big blind) showed [Jc Qc] and won ($35.50) with a pair of Jacks
+
+
+PokerStars Hand #169385415947:  Hold'em Limit ($3/$6 USD) - 2017/04/22 2:52:31 ET
+Table 'Zwetana' 6-max Seat #5 is the button
+Seat 4: old_col ($114.50 in chips)
+Seat 5: sim5sim5 ($99.96 in chips)
+sim5sim5: posts small blind $1
+old_col: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+old_col: raises $3 to $9
+sim5sim5: calls $3
+*** FLOP *** [9d 4s Js]
+old_col: bets $3
+sim5sim5: calls $3
+*** TURN *** [9d 4s Js] [Ah]
+old_col: bets $6
+sim5sim5: raises $6 to $12
+old_col: calls $6
+*** RIVER *** [9d 4s Js Ah] [Jc]
+old_col: checks
+sim5sim5: bets $6
+old_col: calls $6
+*** SHOW DOWN ***
+sim5sim5: shows [Th 6d] (a pair of Jacks)
+old_col: shows [Ad 2c] (two pair, Aces and Jacks)
+old_col collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [9d 4s Js Ah Jc]
+Seat 4: old_col (big blind) showed [Ad 2c] and won ($59.50) with two pair, Aces and Jacks
+Seat 5: sim5sim5 (button) (small blind) showed [Th 6d] and lost with a pair of Jacks
+
+
+PokerStars Hand #169385427902:  Hold'em Limit ($3/$6 USD) - 2017/04/22 2:53:10 ET
+Table 'Zwetana' 6-max Seat #4 is the button
+Seat 4: old_col ($144 in chips)
+Seat 5: sim5sim5 ($72 in chips)
+old_col: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+old_col: calls $2
+sim5sim5: raises $3 to $6
+old_col: calls $3
+*** FLOP *** [5d 7s Ac]
+sim5sim5: checks
+old_col: checks
+*** TURN *** [5d 7s Ac] [Jc]
+sim5sim5: checks
+old_col: checks
+*** RIVER *** [5d 7s Ac Jc] [4c]
+sim5sim5: checks
+hairy1961 joins the table at seat #3
+old_col: bets $6
+sim5sim5: calls $6
+*** SHOW DOWN ***
+old_col: shows [4s 6h] (a pair of Fours)
+sim5sim5: mucks hand
+old_col collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [5d 7s Ac Jc 4c]
+Seat 4: old_col (button) (small blind) showed [4s 6h] and won ($23.52) with a pair of Fours
+Seat 5: sim5sim5 (big blind) mucked
+
+
+PokerStars Hand #169391504208:  Hold'em Limit ($3/$6 USD) - 2017/04/22 7:13:07 ET
+Table 'Zwetana' 6-max Seat #3 is the button
+Seat 3: HIGHIQ74 ($121.93 in chips)
+Seat 5: krytalex ($75 in chips)
+HIGHIQ74: posts small blind $1
+tje777 is disconnected
+tje777 has timed out while disconnected
+tje777: is sitting out
+krytalex: posts big blind $3
+*** HOLE CARDS ***
+HIGHIQ74: calls $2
+krytalex: raises $3 to $6
+HIGHIQ74: calls $3
+*** FLOP *** [9c 7h 4c]
+krytalex: bets $3
+HIGHIQ74: folds
+Uncalled bet ($3) returned to krytalex
+krytalex collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9c 7h 4c]
+Seat 3: HIGHIQ74 (button) (small blind) folded on the Flop
+Seat 5: krytalex (big blind) collected ($11.76)
+
+
+PokerStars Hand #169391523516:  Hold'em Limit ($3/$6 USD) - 2017/04/22 7:13:46 ET
+Table 'Zwetana' 6-max Seat #5 is the button
+Seat 3: HIGHIQ74 ($115.93 in chips)
+Seat 5: krytalex ($80.76 in chips)
+krytalex: posts small blind $1
+HIGHIQ74: posts big blind $3
+*** HOLE CARDS ***
+krytalex: raises $3 to $6
+HIGHIQ74: folds
+Uncalled bet ($3) returned to krytalex
+krytalex collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: HIGHIQ74 (big blind) folded before Flop
+Seat 5: krytalex (button) (small blind) collected ($6)
+
+
+PokerStars Hand #169392373383:  Hold'em Limit ($3/$6 USD) - 2017/04/22 7:41:57 ET
+Table 'Zwetana' 6-max Seat #1 is the button
+Seat 1: haydy142 ($149 in chips)
+Seat 5: krytalex ($112.57 in chips)
+haydy142: posts small blind $1
+B_loJkl: is sitting out
+krytalex: posts big blind $3
+*** HOLE CARDS ***
+haydy142: raises $3 to $6
+B_loJkl leaves the table
+krytalex: raises $3 to $9
+haydy142: raises $3 to $12
+Betting is capped
+krytalex: calls $3
+*** FLOP *** [4c As 5s]
+B_loJkl joins the table at seat #2
+krytalex: checks
+haydy142: bets $3
+krytalex: calls $3
+*** TURN *** [4c As 5s] [Td]
+krytalex: checks
+haydy142: bets $6
+krytalex: folds
+Uncalled bet ($6) returned to haydy142
+haydy142 collected $29.50 from pot
+haydy142: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4c As 5s Td]
+Seat 1: haydy142 (button) (small blind) collected ($29.50)
+Seat 5: krytalex (big blind) folded on the Turn
+
+
+PokerStars Hand #169392398407:  Hold'em Limit ($3/$6 USD) - 2017/04/22 7:42:46 ET
+Table 'Zwetana' 6-max Seat #5 is the button
+Seat 1: haydy142 ($163.50 in chips)
+Seat 5: krytalex ($97.57 in chips)
+krytalex: posts small blind $1
+haydy142: posts big blind $3
+*** HOLE CARDS ***
+krytalex: folds
+Uncalled bet ($2) returned to haydy142
+haydy142 collected $2 from pot
+haydy142: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: haydy142 (big blind) collected ($2)
+Seat 5: krytalex (button) (small blind) folded before Flop
+
+
+PokerStars Hand #169392576682:  Hold'em Limit ($3/$6 USD) - 2017/04/22 7:48:34 ET
+Table 'Zwetana' 6-max Seat #2 is the button
+Seat 1: haydy142 ($79.39 in chips)
+Seat 2: B_loJkl ($165.10 in chips)
+B_loJkl: posts small blind $1
+krytalex: is sitting out
+haydy142: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+haydy142: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $6 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: haydy142 (big blind) folded before Flop
+Seat 2: B_loJkl (button) (small blind) collected ($6)
+
+
+PokerStars Hand #169392590025:  Hold'em Limit ($3/$6 USD) - 2017/04/22 7:48:59 ET
+Table 'Zwetana' 6-max Seat #3 is the button
+Seat 3: apx0surry9 ($84 in chips)
+Seat 4: B_loJkl ($150 in chips)
+apx0surry9: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+apx0surry9: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [3d Qh 5s]
+B_loJkl: checks
+apx0surry9: bets $3
+B_loJkl: raises $3 to $6
+apx0surry9: calls $3
+*** TURN *** [3d Qh 5s] [Jc]
+B_loJkl: bets $6
+apx0surry9: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $23.52 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [3d Qh 5s Jc]
+Seat 3: apx0surry9 (button) (small blind) folded on the Turn
+Seat 4: B_loJkl (big blind) collected ($23.52)
+
+
+PokerStars Hand #169392631801:  Hold'em Limit ($3/$6 USD) - 2017/04/22 7:50:21 ET
+Table 'Zwetana' 6-max Seat #3 is the button
+Seat 3: apx0surry9 ($80.64 in chips)
+Seat 4: B_loJkl ($152.52 in chips)
+apx0surry9: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+apx0surry9: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [As 4h 9s]
+B_loJkl: checks
+apx0surry9: bets $3
+B_loJkl: calls $3
+*** TURN *** [As 4h 9s] [6s]
+B_loJkl: checks
+apx0surry9: checks
+*** RIVER *** [As 4h 9s 6s] [3d]
+B_loJkl: bets $6
+apx0surry9: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $17.64 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [As 4h 9s 6s 3d]
+Seat 3: apx0surry9 (button) (small blind) folded on the River
+Seat 4: B_loJkl (big blind) collected ($17.64)
+
+
+PokerStars Hand #169392652048:  Hold'em Limit ($3/$6 USD) - 2017/04/22 7:51:00 ET
+Table 'Zwetana' 6-max Seat #4 is the button
+Seat 3: apx0surry9 ($71.64 in chips)
+Seat 4: B_loJkl ($161.16 in chips)
+B_loJkl: posts small blind $1
+apx0surry9: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+apx0surry9: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $6 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: apx0surry9 (big blind) folded before Flop
+Seat 4: B_loJkl (button) (small blind) collected ($6)
+
+
+PokerStars Hand #169392658484:  Hold'em Limit ($3/$6 USD) - 2017/04/22 7:51:13 ET
+Table 'Zwetana' 6-max Seat #3 is the button
+Seat 3: apx0surry9 ($68.64 in chips)
+Seat 4: B_loJkl ($164.16 in chips)
+apx0surry9: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+apx0surry9: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Js 9s 6s]
+B_loJkl: checks
+apx0surry9: bets $3
+B_loJkl: raises $3 to $6
+apx0surry9: calls $3
+*** TURN *** [Js 9s 6s] [Ad]
+B_loJkl: bets $6
+apx0surry9: raises $6 to $12
+B_loJkl: calls $6
+*** RIVER *** [Js 9s 6s Ad] [5c]
+B_loJkl: bets $6
+apx0surry9: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [5s 3s] (a flush, Jack high)
+apx0surry9: mucks hand
+B_loJkl collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Js 9s 6s Ad 5c]
+Seat 3: apx0surry9 (button) (small blind) mucked
+Seat 4: B_loJkl (big blind) showed [5s 3s] and won ($59.50) with a flush, Jack high
+
+
+PokerStars Hand #169392698873:  Hold'em Limit ($3/$6 USD) - 2017/04/22 7:52:31 ET
+Table 'Zwetana' 6-max Seat #3 is the button
+Seat 3: apx0surry9 ($170.45 in chips)
+Seat 4: B_loJkl ($199.42 in chips)
+apx0surry9: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+apx0surry9: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: apx0surry9 (button) (small blind) folded before Flop
+Seat 4: B_loJkl (big blind) collected ($2)
+
+
+PokerStars Hand #169392688050:  Hold'em Limit ($3/$6 USD) - 2017/04/22 7:52:10 ET
+Table 'Zwetana' 6-max Seat #4 is the button
+Seat 3: apx0surry9 ($38.64 in chips)
+Seat 4: B_loJkl ($193.66 in chips)
+B_loJkl: posts small blind $1
+apx0surry9: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+apx0surry9: calls $3
+*** FLOP *** [9h 3d 7c]
+apx0surry9: checks
+B_loJkl: bets $3
+apx0surry9: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9h 3d 7c]
+Seat 3: apx0surry9 (big blind) folded on the Flop
+Seat 4: B_loJkl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #169392721876:  Hold'em Limit ($3/$6 USD) - 2017/04/22 7:53:16 ET
+Table 'Zwetana' 6-max Seat #3 is the button
+Seat 3: apx0surry9 ($178.09 in chips)
+Seat 4: B_loJkl ($191.42 in chips)
+apx0surry9: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+apx0surry9: raises $3 to $6
+B_loJkl: folds
+Uncalled bet ($3) returned to apx0surry9
+apx0surry9 collected $6 from pot
+apx0surry9: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: apx0surry9 (button) (small blind) collected ($6)
+Seat 4: B_loJkl (big blind) folded before Flop
+
+
+PokerStars Hand #169392739959:  Hold'em Limit ($3/$6 USD) - 2017/04/22 7:53:52 ET
+Table 'Zwetana' 6-max Seat #3 is the button
+Seat 3: apx0surry9 ($175.09 in chips)
+Seat 4: B_loJkl ($194.18 in chips)
+apx0surry9: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+apx0surry9: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: apx0surry9 (button) (small blind) folded before Flop
+Seat 4: B_loJkl (big blind) collected ($2)
+
+
+PokerStars Hand #169392727468:  Hold'em Limit ($3/$6 USD) - 2017/04/22 7:53:27 ET
+Table 'Zwetana' 6-max Seat #4 is the button
+Seat 3: apx0surry9 ($181.09 in chips)
+Seat 4: B_loJkl ($188.42 in chips)
+B_loJkl: posts small blind $1
+apx0surry9: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+apx0surry9: calls $3
+*** FLOP *** [Tc Qc Qh]
+apx0surry9: checks
+B_loJkl: bets $3
+apx0surry9: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Tc Qc Qh]
+Seat 3: apx0surry9 (big blind) folded on the Flop
+Seat 4: B_loJkl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #169392702330:  Hold'em Limit ($3/$6 USD) - 2017/04/22 7:52:38 ET
+Table 'Zwetana' 6-max Seat #4 is the button
+Seat 3: apx0surry9 ($169.45 in chips)
+Seat 4: B_loJkl ($200.42 in chips)
+B_loJkl: posts small blind $1
+apx0surry9: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+apx0surry9: calls $3
+*** FLOP *** [As 2h 3h]
+apx0surry9: checks
+B_loJkl: bets $3
+apx0surry9: raises $3 to $6
+B_loJkl: folds
+Uncalled bet ($3) returned to apx0surry9
+apx0surry9 collected $17.64 from pot
+apx0surry9: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [As 2h 3h]
+Seat 3: apx0surry9 (big blind) collected ($17.64)
+Seat 4: B_loJkl (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #169392742515:  Hold'em Limit ($3/$6 USD) - 2017/04/22 7:53:57 ET
+Table 'Zwetana' 6-max Seat #4 is the button
+Seat 3: apx0surry9 ($174.09 in chips)
+Seat 4: B_loJkl ($195.18 in chips)
+B_loJkl: posts small blind $1
+apx0surry9: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+apx0surry9: calls $3
+*** FLOP *** [Jd 4c 3c]
+apx0surry9: checks
+B_loJkl: bets $3
+apx0surry9: raises $3 to $6
+B_loJkl: calls $3
+*** TURN *** [Jd 4c 3c] [Jh]
+apx0surry9: bets $6
+B_loJkl: calls $6
+*** RIVER *** [Jd 4c 3c Jh] [4s]
+apx0surry9: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to apx0surry9
+apx0surry9 collected $35.50 from pot
+apx0surry9: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Jd 4c 3c Jh 4s]
+Seat 3: apx0surry9 (big blind) collected ($35.50)
+Seat 4: B_loJkl (button) (small blind) folded on the River
+
+
+PokerStars Hand #169392762584:  Hold'em Limit ($3/$6 USD) - 2017/04/22 7:54:36 ET
+Table 'Zwetana' 6-max Seat #3 is the button
+Seat 3: apx0surry9 ($191.59 in chips)
+Seat 4: B_loJkl ($177.18 in chips)
+apx0surry9: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+apx0surry9: raises $3 to $6
+B_loJkl: folds
+Uncalled bet ($3) returned to apx0surry9
+apx0surry9 collected $6 from pot
+apx0surry9: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: apx0surry9 (button) (small blind) collected ($6)
+Seat 4: B_loJkl (big blind) folded before Flop
+
+
+PokerStars Hand #169392766305:  Hold'em Limit ($3/$6 USD) - 2017/04/22 7:54:43 ET
+Table 'Zwetana' 6-max Seat #4 is the button
+Seat 3: apx0surry9 ($194.59 in chips)
+Seat 4: B_loJkl ($174.18 in chips)
+B_loJkl: posts small blind $1
+apx0surry9: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+apx0surry9: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $6 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: apx0surry9 (big blind) folded before Flop
+Seat 4: B_loJkl (button) (small blind) collected ($6)
+
+
+PokerStars Hand #169392784585:  Hold'em Limit ($3/$6 USD) - 2017/04/22 7:55:20 ET
+Table 'Zwetana' 6-max Seat #4 is the button
+Seat 3: apx0surry9 ($182.59 in chips)
+Seat 4: B_loJkl ($185.82 in chips)
+B_loJkl: posts small blind $1
+apx0surry9: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+apx0surry9: calls $3
+*** FLOP *** [Qd Ah 2s]
+apx0surry9: checks
+B_loJkl: checks
+*** TURN *** [Qd Ah 2s] [Js]
+apx0surry9: bets $6
+B_loJkl: calls $6
+*** RIVER *** [Qd Ah 2s Js] [5s]
+apx0surry9: bets $6
+B_loJkl: raises $6 to $12
+apx0surry9: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [Ks Qs] (a flush, King high)
+apx0surry9: mucks hand
+B_loJkl collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Qd Ah 2s Js 5s]
+Seat 3: apx0surry9 (big blind) mucked
+Seat 4: B_loJkl (button) (small blind) showed [Ks Qs] and won ($47.50) with a flush, King high
+
+
+PokerStars Hand #169392793997:  Hold'em Limit ($3/$6 USD) - 2017/04/22 7:55:41 ET
+Table 'Zwetana' 6-max Seat #3 is the button
+Seat 3: apx0surry9 ($158.59 in chips)
+Seat 4: B_loJkl ($209.32 in chips)
+apx0surry9: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+apx0surry9: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [9h Js 4c]
+B_loJkl: checks
+apx0surry9: bets $3
+B_loJkl: calls $3
+*** TURN *** [9h Js 4c] [9d]
+B_loJkl: checks
+apx0surry9: bets $6
+B_loJkl: calls $6
+*** RIVER *** [9h Js 4c 9d] [5h]
+B_loJkl: checks
+apx0surry9: checks
+*** SHOW DOWN ***
+B_loJkl: shows [4h 8s] (two pair, Nines and Fours)
+apx0surry9: mucks hand
+B_loJkl collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9h Js 4c 9d 5h]
+Seat 3: apx0surry9 (button) (small blind) mucked
+Seat 4: B_loJkl (big blind) showed [4h 8s] and won ($29.50) with two pair, Nines and Fours
+
+
+PokerStars Hand #169392772609:  Hold'em Limit ($3/$6 USD) - 2017/04/22 7:54:55 ET
+Table 'Zwetana' 6-max Seat #3 is the button
+Seat 3: apx0surry9 ($191.59 in chips)
+Seat 4: B_loJkl ($177.18 in chips)
+apx0surry9: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+apx0surry9: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [8d Ac 2d]
+B_loJkl: checks
+apx0surry9: bets $3
+B_loJkl: calls $3
+*** TURN *** [8d Ac 2d] [7h]
+B_loJkl: checks
+apx0surry9: checks
+*** RIVER *** [8d Ac 2d 7h] [3h]
+B_loJkl: bets $6
+apx0surry9: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $17.64 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8d Ac 2d 7h 3h]
+Seat 3: apx0surry9 (button) (small blind) folded on the River
+Seat 4: B_loJkl (big blind) collected ($17.64)
+
+
+PokerStars Hand #169392815784:  Hold'em Limit ($3/$6 USD) - 2017/04/22 7:56:28 ET
+Table 'Zwetana' 6-max Seat #3 is the button
+Seat 3: apx0surry9 ($137.59 in chips)
+Seat 4: B_loJkl ($229.58 in chips)
+apx0surry9: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+apx0surry9: raises $3 to $6
+B_loJkl: folds
+Uncalled bet ($3) returned to apx0surry9
+apx0surry9 collected $6 from pot
+apx0surry9: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: apx0surry9 (button) (small blind) collected ($6)
+Seat 4: B_loJkl (big blind) folded before Flop
+
+
+PokerStars Hand #169392807445:  Hold'em Limit ($3/$6 USD) - 2017/04/22 7:56:10 ET
+Table 'Zwetana' 6-max Seat #4 is the button
+Seat 3: apx0surry9 ($143.59 in chips)
+Seat 4: B_loJkl ($223.82 in chips)
+B_loJkl: posts small blind $1
+apx0surry9: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+apx0surry9: calls $3
+*** FLOP *** [Qc 8s Ac]
+apx0surry9: checks
+B_loJkl: bets $3
+apx0surry9: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qc 8s Ac]
+Seat 3: apx0surry9 (big blind) folded on the Flop
+Seat 4: B_loJkl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #169392820992:  Hold'em Limit ($3/$6 USD) - 2017/04/22 7:56:39 ET
+Table 'Zwetana' 6-max Seat #4 is the button
+Seat 3: apx0surry9 ($140.59 in chips)
+Seat 4: B_loJkl ($226.58 in chips)
+B_loJkl: posts small blind $1
+apx0surry9: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+apx0surry9: calls $3
+*** FLOP *** [8h Jd 2h]
+apx0surry9: checks
+B_loJkl: checks
+*** TURN *** [8h Jd 2h] [3h]
+apx0surry9: bets $6
+B_loJkl: calls $6
+*** RIVER *** [8h Jd 2h 3h] [Th]
+apx0surry9: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+apx0surry9: shows [4d 5d] (high card Jack)
+B_loJkl: shows [Qh 7d] (a flush, Queen high)
+B_loJkl collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [8h Jd 2h 3h Th]
+Seat 3: apx0surry9 (big blind) showed [4d 5d] and lost with high card Jack
+Seat 4: B_loJkl (button) (small blind) showed [Qh 7d] and won ($35.50) with a flush, Queen high
+
+
+PokerStars Hand #169392838890:  Hold'em Limit ($3/$6 USD) - 2017/04/22 7:57:18 ET
+Table 'Zwetana' 6-max Seat #3 is the button
+Seat 3: apx0surry9 ($122.59 in chips)
+Seat 4: B_loJkl ($244.08 in chips)
+apx0surry9: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+apx0surry9: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [3h Ah 7h]
+B_loJkl: checks
+apx0surry9: bets $3
+B_loJkl: folds
+Uncalled bet ($3) returned to apx0surry9
+apx0surry9 collected $11.76 from pot
+apx0surry9: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3h Ah 7h]
+Seat 3: apx0surry9 (button) (small blind) collected ($11.76)
+Seat 4: B_loJkl (big blind) folded on the Flop
+
+
+PokerStars Hand #169392871114:  Hold'em Limit ($3/$6 USD) - 2017/04/22 7:58:27 ET
+Table 'Zwetana' 6-max Seat #3 is the button
+Seat 3: apx0surry9 ($95.35 in chips)
+Seat 4: B_loJkl ($270.58 in chips)
+apx0surry9: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+apx0surry9: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: apx0surry9 (button) (small blind) folded before Flop
+Seat 4: B_loJkl (big blind) collected ($2)
+
+
+PokerStars Hand #169392851104:  Hold'em Limit ($3/$6 USD) - 2017/04/22 7:57:44 ET
+Table 'Zwetana' 6-max Seat #4 is the button
+Seat 3: apx0surry9 ($128.35 in chips)
+Seat 4: B_loJkl ($238.08 in chips)
+B_loJkl: posts small blind $1
+apx0surry9: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+apx0surry9: calls $3
+*** FLOP *** [2c 6h 4h]
+apx0surry9: checks
+B_loJkl: bets $3
+apx0surry9: calls $3
+*** TURN *** [2c 6h 4h] [5c]
+apx0surry9: checks
+B_loJkl: bets $6
+apx0surry9: calls $6
+*** RIVER *** [2c 6h 4h 5c] [7h]
+apx0surry9: checks
+B_loJkl: bets $6
+apx0surry9: raises $6 to $12
+B_loJkl: raises $6 to $18
+apx0surry9: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [3h Ah] (a flush, Ace high)
+apx0surry9: mucks hand
+B_loJkl collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [2c 6h 4h 5c 7h]
+Seat 3: apx0surry9 (big blind) mucked
+Seat 4: B_loJkl (button) (small blind) showed [3h Ah] and won ($65.50) with a flush, Ace high
+
+
+PokerStars Hand #169392886521:  Hold'em Limit ($3/$6 USD) - 2017/04/22 7:59:01 ET
+Table 'Zwetana' 6-max Seat #3 is the button
+Seat 3: apx0surry9 ($105.87 in chips)
+Seat 4: B_loJkl ($259.58 in chips)
+apx0surry9: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+apx0surry9: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: apx0surry9 (button) (small blind) folded before Flop
+Seat 4: B_loJkl (big blind) collected ($2)
+
+
+PokerStars Hand #169392874482:  Hold'em Limit ($3/$6 USD) - 2017/04/22 7:58:35 ET
+Table 'Zwetana' 6-max Seat #4 is the button
+Seat 3: apx0surry9 ($94.35 in chips)
+Seat 4: B_loJkl ($271.58 in chips)
+B_loJkl: posts small blind $1
+apx0surry9: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+apx0surry9: calls $3
+*** FLOP *** [6h Qs 4h]
+apx0surry9: checks
+B_loJkl: checks
+*** TURN *** [6h Qs 4h] [5s]
+apx0surry9: bets $6
+B_loJkl: calls $6
+*** RIVER *** [6h Qs 4h 5s] [2c]
+apx0surry9: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to apx0surry9
+apx0surry9 collected $23.52 from pot
+apx0surry9: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [6h Qs 4h 5s 2c]
+Seat 3: apx0surry9 (big blind) collected ($23.52)
+Seat 4: B_loJkl (button) (small blind) folded on the River
+
+
+PokerStars Hand #169392904869:  Hold'em Limit ($3/$6 USD) - 2017/04/22 7:59:40 ET
+Table 'Zwetana' 6-max Seat #4 is the button
+Seat 3: apx0surry9 ($118.37 in chips)
+Seat 4: B_loJkl ($246.58 in chips)
+B_loJkl: posts small blind $1
+apx0surry9: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+apx0surry9: calls $3
+*** FLOP *** [Kc Ts Tc]
+apx0surry9: checks
+B_loJkl: bets $3
+apx0surry9: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kc Ts Tc]
+Seat 3: apx0surry9 (big blind) folded on the Flop
+Seat 4: B_loJkl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #169392902292:  Hold'em Limit ($3/$6 USD) - 2017/04/22 7:59:35 ET
+Table 'Zwetana' 6-max Seat #3 is the button
+Seat 3: apx0surry9 ($119.37 in chips)
+Seat 4: B_loJkl ($245.58 in chips)
+apx0surry9: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+apx0surry9: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: apx0surry9 (button) (small blind) folded before Flop
+Seat 4: B_loJkl (big blind) collected ($2)
+
+
+PokerStars Hand #169392889034:  Hold'em Limit ($3/$6 USD) - 2017/04/22 7:59:06 ET
+Table 'Zwetana' 6-max Seat #4 is the button
+Seat 3: apx0surry9 ($104.87 in chips)
+Seat 4: B_loJkl ($260.58 in chips)
+B_loJkl: posts small blind $1
+apx0surry9: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+apx0surry9: calls $3
+*** FLOP *** [9c 4s Jh]
+apx0surry9: checks
+B_loJkl: bets $3
+apx0surry9: calls $3
+*** TURN *** [9c 4s Jh] [As]
+apx0surry9: checks
+B_loJkl: bets $6
+apx0surry9: calls $6
+*** RIVER *** [9c 4s Jh As] [5c]
+apx0surry9: checks
+B_loJkl: checks
+*** SHOW DOWN ***
+apx0surry9: shows [8h Jc] (a pair of Jacks)
+B_loJkl: mucks hand
+apx0surry9 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9c 4s Jh As 5c]
+Seat 3: apx0surry9 (big blind) showed [8h Jc] and won ($29.50) with a pair of Jacks
+Seat 4: B_loJkl (button) (small blind) mucked
+
+
+PokerStars Hand #169392929951:  Hold'em Limit ($3/$6 USD) - 2017/04/22 8:00:32 ET
+Table 'Zwetana' 6-max Seat #4 is the button
+Seat 3: apx0surry9 ($126.87 in chips)
+Seat 4: B_loJkl ($237.34 in chips)
+B_loJkl: posts small blind $1
+apx0surry9: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+apx0surry9: calls $3
+*** FLOP *** [5h 6c Ac]
+apx0surry9: checks
+B_loJkl: bets $3
+apx0surry9: raises $3 to $6
+B_loJkl: folds
+Uncalled bet ($3) returned to apx0surry9
+apx0surry9 collected $17.64 from pot
+apx0surry9: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5h 6c Ac]
+Seat 3: apx0surry9 (big blind) collected ($17.64)
+Seat 4: B_loJkl (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #169392910102:  Hold'em Limit ($3/$6 USD) - 2017/04/22 7:59:51 ET
+Table 'Zwetana' 6-max Seat #3 is the button
+Seat 3: apx0surry9 ($112.37 in chips)
+Seat 4: B_loJkl ($252.34 in chips)
+apx0surry9: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+apx0surry9: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [4c 9h Ks]
+B_loJkl: checks
+apx0surry9: bets $3
+B_loJkl: calls $3
+*** TURN *** [4c 9h Ks] [Ac]
+B_loJkl: checks
+apx0surry9: bets $6
+B_loJkl: calls $6
+*** RIVER *** [4c 9h Ks Ac] [3s]
+B_loJkl: checks
+apx0surry9: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to apx0surry9
+apx0surry9 collected $29.50 from pot
+apx0surry9: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4c 9h Ks Ac 3s]
+Seat 3: apx0surry9 (button) (small blind) collected ($29.50)
+Seat 4: B_loJkl (big blind) folded on the River
+
+
+PokerStars Hand #169392946710:  Hold'em Limit ($3/$6 USD) - 2017/04/22 8:01:06 ET
+Table 'Zwetana' 6-max Seat #3 is the button
+Seat 3: apx0surry9 ($135.51 in chips)
+Seat 4: B_loJkl ($228.34 in chips)
+apx0surry9: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+apx0surry9: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [2d 5h Kc]
+B_loJkl: checks
+apx0surry9: bets $3
+B_loJkl: raises $3 to $6
+apx0surry9: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $17.64 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2d 5h Kc]
+Seat 3: apx0surry9 (button) (small blind) folded on the Flop
+Seat 4: B_loJkl (big blind) collected ($17.64)
+
+
+PokerStars Hand #169392966585:  Hold'em Limit ($3/$6 USD) - 2017/04/22 8:01:44 ET
+Table 'Zwetana' 6-max Seat #4 is the button
+Seat 3: apx0surry9 ($126.51 in chips)
+Seat 4: B_loJkl ($236.98 in chips)
+B_loJkl: posts small blind $1
+apx0surry9: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+apx0surry9: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $6 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: apx0surry9 (big blind) folded before Flop
+Seat 4: B_loJkl (button) (small blind) collected ($6)
+
+
+PokerStars Hand #169392973250:  Hold'em Limit ($3/$6 USD) - 2017/04/22 8:01:58 ET
+Table 'Zwetana' 6-max Seat #3 is the button
+Seat 3: apx0surry9 ($123.51 in chips)
+Seat 4: B_loJkl ($239.98 in chips)
+apx0surry9: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+apx0surry9: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: apx0surry9 (button) (small blind) folded before Flop
+Seat 4: B_loJkl (big blind) collected ($2)
+
+
+PokerStars Hand #169392978141:  Hold'em Limit ($3/$6 USD) - 2017/04/22 8:02:07 ET
+Table 'Zwetana' 6-max Seat #4 is the button
+Seat 3: apx0surry9 ($122.51 in chips)
+Seat 4: B_loJkl ($240.98 in chips)
+B_loJkl: posts small blind $1
+apx0surry9: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+apx0surry9: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $6 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: apx0surry9 (big blind) folded before Flop
+Seat 4: B_loJkl (button) (small blind) collected ($6)
+
+
+PokerStars Hand #169392992299:  Hold'em Limit ($3/$6 USD) - 2017/04/22 8:02:34 ET
+Table 'Zwetana' 6-max Seat #4 is the button
+Seat 3: apx0surry9 ($122.51 in chips)
+Seat 4: B_loJkl ($240.98 in chips)
+B_loJkl: posts small blind $1
+apx0surry9: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: folds
+Uncalled bet ($2) returned to apx0surry9
+apx0surry9 collected $2 from pot
+apx0surry9: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: apx0surry9 (big blind) collected ($2)
+Seat 4: B_loJkl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #169392981842:  Hold'em Limit ($3/$6 USD) - 2017/04/22 8:02:15 ET
+Table 'Zwetana' 6-max Seat #3 is the button
+Seat 3: apx0surry9 ($119.51 in chips)
+Seat 4: B_loJkl ($243.98 in chips)
+apx0surry9: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+apx0surry9: raises $3 to $6
+B_loJkl: folds
+Uncalled bet ($3) returned to apx0surry9
+apx0surry9 collected $6 from pot
+apx0surry9: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: apx0surry9 (button) (small blind) collected ($6)
+Seat 4: B_loJkl (big blind) folded before Flop
+
+
+PokerStars Hand #169393012145:  Hold'em Limit ($3/$6 USD) - 2017/04/22 8:03:12 ET
+Table 'Zwetana' 6-max Seat #4 is the button
+Seat 3: apx0surry9 ($138.01 in chips)
+Seat 4: B_loJkl ($224.98 in chips)
+B_loJkl: posts small blind $1
+apx0surry9: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+apx0surry9: calls $3
+*** FLOP *** [7h 7d 2d]
+apx0surry9: checks
+B_loJkl: checks
+*** TURN *** [7h 7d 2d] [Jc]
+apx0surry9: checks
+B_loJkl: checks
+*** RIVER *** [7h 7d 2d Jc] [9c]
+apx0surry9: checks
+B_loJkl: checks
+*** SHOW DOWN ***
+apx0surry9: shows [Tc 5d] (a pair of Sevens)
+B_loJkl: mucks hand
+apx0surry9 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7h 7d 2d Jc 9c]
+Seat 3: apx0surry9 (big blind) showed [Tc 5d] and won ($11.76) with a pair of Sevens
+Seat 4: B_loJkl (button) (small blind) mucked
+
+
+PokerStars Hand #169392996472:  Hold'em Limit ($3/$6 USD) - 2017/04/22 8:02:42 ET
+Table 'Zwetana' 6-max Seat #3 is the button
+Seat 3: apx0surry9 ($123.51 in chips)
+Seat 4: B_loJkl ($239.98 in chips)
+apx0surry9: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+apx0surry9: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Ks Ad 8c]
+B_loJkl: checks
+apx0surry9: bets $3
+B_loJkl: calls $3
+*** TURN *** [Ks Ad 8c] [Kc]
+B_loJkl: checks
+apx0surry9: bets $6
+B_loJkl: calls $6
+*** RIVER *** [Ks Ad 8c Kc] [4h]
+B_loJkl: checks
+apx0surry9: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to apx0surry9
+apx0surry9 collected $29.50 from pot
+apx0surry9: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ks Ad 8c Kc 4h]
+Seat 3: apx0surry9 (button) (small blind) collected ($29.50)
+Seat 4: B_loJkl (big blind) folded on the River
+
+
+PokerStars Hand #169393057115:  Hold'em Limit ($3/$6 USD) - 2017/04/22 8:04:37 ET
+Table 'Zwetana' 6-max Seat #3 is the button
+Seat 3: apx0surry9 ($137.27 in chips)
+Seat 4: B_loJkl ($224.48 in chips)
+apx0surry9: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+apx0surry9: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Kc 7h Td]
+B_loJkl: checks
+apx0surry9: bets $3
+B_loJkl: calls $3
+*** TURN *** [Kc 7h Td] [2s]
+B_loJkl: checks
+apx0surry9: bets $6
+B_loJkl: calls $6
+*** RIVER *** [Kc 7h Td 2s] [6d]
+B_loJkl: checks
+apx0surry9: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to apx0surry9
+apx0surry9 collected $29.50 from pot
+apx0surry9: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kc 7h Td 2s 6d]
+Seat 3: apx0surry9 (button) (small blind) collected ($29.50)
+Seat 4: B_loJkl (big blind) folded on the River
+
+
+PokerStars Hand #169393031396:  Hold'em Limit ($3/$6 USD) - 2017/04/22 8:03:49 ET
+Table 'Zwetana' 6-max Seat #3 is the button
+Seat 3: apx0surry9 ($143.77 in chips)
+Seat 4: B_loJkl ($218.98 in chips)
+apx0surry9: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+apx0surry9: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [4h Js Th]
+B_loJkl: checks
+apx0surry9: bets $3
+B_loJkl: calls $3
+*** TURN *** [4h Js Th] [5s]
+B_loJkl: checks
+apx0surry9: bets $6
+B_loJkl: calls $6
+*** RIVER *** [4h Js Th 5s] [Qs]
+B_loJkl: checks
+apx0surry9: checks
+*** SHOW DOWN ***
+B_loJkl: shows [6h Ah] (high card Ace)
+apx0surry9: shows [7h Jd] (a pair of Jacks)
+apx0surry9 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4h Js Th 5s Qs]
+Seat 3: apx0surry9 (button) (small blind) showed [7h Jd] and won ($29.50) with a pair of Jacks
+Seat 4: B_loJkl (big blind) showed [6h Ah] and lost with high card Ace
+
+
+PokerStars Hand #169393045327:  Hold'em Limit ($3/$6 USD) - 2017/04/22 8:04:15 ET
+Table 'Zwetana' 6-max Seat #4 is the button
+Seat 3: apx0surry9 ($158.27 in chips)
+Seat 4: B_loJkl ($203.98 in chips)
+B_loJkl: posts small blind $1
+apx0surry9: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+apx0surry9: raises $3 to $9
+B_loJkl: calls $3
+*** FLOP *** [8s Tc Kc]
+apx0surry9: checks
+B_loJkl: checks
+*** TURN *** [8s Tc Kc] [8h]
+apx0surry9: bets $6
+B_loJkl: calls $6
+*** RIVER *** [8s Tc Kc 8h] [4d]
+apx0surry9: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+apx0surry9: shows [5s 5h] (two pair, Eights and Fives)
+B_loJkl: shows [Qd Qc] (two pair, Queens and Eights)
+B_loJkl collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [8s Tc Kc 8h 4d]
+Seat 3: apx0surry9 (big blind) showed [5s 5h] and lost with two pair, Eights and Fives
+Seat 4: B_loJkl (button) (small blind) showed [Qd Qc] and won ($41.50) with two pair, Queens and Eights
+
+
+PokerStars Hand #169393097350:  Hold'em Limit ($3/$6 USD) - 2017/04/22 8:05:53 ET
+Table 'Zwetana' 6-max Seat #3 is the button
+Seat 3: apx0surry9 ($174.81 in chips)
+Seat 4: B_loJkl ($185.48 in chips)
+apx0surry9: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+apx0surry9: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: apx0surry9 (button) (small blind) folded before Flop
+Seat 4: B_loJkl (big blind) collected ($2)
+
+
+PokerStars Hand #169393090218:  Hold'em Limit ($3/$6 USD) - 2017/04/22 8:05:39 ET
+Table 'Zwetana' 6-max Seat #4 is the button
+Seat 3: apx0surry9 ($166.17 in chips)
+Seat 4: B_loJkl ($194.48 in chips)
+B_loJkl: posts small blind $1
+apx0surry9: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+apx0surry9: raises $3 to $9
+B_loJkl: calls $3
+*** FLOP *** [4d Kh 6c]
+apx0surry9: bets $3
+B_loJkl: folds
+Uncalled bet ($3) returned to apx0surry9
+apx0surry9 collected $17.64 from pot
+apx0surry9: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4d Kh 6c]
+Seat 3: apx0surry9 (big blind) collected ($17.64)
+Seat 4: B_loJkl (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #169393081128:  Hold'em Limit ($3/$6 USD) - 2017/04/22 8:05:22 ET
+Table 'Zwetana' 6-max Seat #3 is the button
+Seat 3: apx0surry9 ($157.53 in chips)
+Seat 4: B_loJkl ($203.48 in chips)
+apx0surry9: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+apx0surry9: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [6d 2h Ts]
+B_loJkl: checks
+apx0surry9: bets $3
+B_loJkl: calls $3
+*** TURN *** [6d 2h Ts] [2c]
+B_loJkl: checks
+apx0surry9: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to apx0surry9
+apx0surry9 collected $17.64 from pot
+apx0surry9: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6d 2h Ts 2c]
+Seat 3: apx0surry9 (button) (small blind) collected ($17.64)
+Seat 4: B_loJkl (big blind) folded on the Turn
+
+
+PokerStars Hand #169393074481:  Hold'em Limit ($3/$6 USD) - 2017/04/22 8:05:10 ET
+Table 'Zwetana' 6-max Seat #4 is the button
+Seat 3: apx0surry9 ($151.77 in chips)
+Seat 4: B_loJkl ($209.48 in chips)
+B_loJkl: posts small blind $1
+apx0surry9: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+apx0surry9: calls $3
+*** FLOP *** [9c As Ac]
+apx0surry9: bets $3
+B_loJkl: folds
+Uncalled bet ($3) returned to apx0surry9
+apx0surry9 collected $11.76 from pot
+apx0surry9: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9c As Ac]
+Seat 3: apx0surry9 (big blind) collected ($11.76)
+Seat 4: B_loJkl (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #169393118153:  Hold'em Limit ($3/$6 USD) - 2017/04/22 8:06:31 ET
+Table 'Zwetana' 6-max Seat #4 is the button
+Seat 3: apx0surry9 ($166.81 in chips)
+Seat 4: B_loJkl ($193.24 in chips)
+B_loJkl: posts small blind $1
+apx0surry9: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+apx0surry9: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $6 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: apx0surry9 (big blind) folded before Flop
+Seat 4: B_loJkl (button) (small blind) collected ($6)
+
+
+PokerStars Hand #169393122648:  Hold'em Limit ($3/$6 USD) - 2017/04/22 8:06:39 ET
+Table 'Zwetana' 6-max Seat #3 is the button
+Seat 3: apx0surry9 ($163.81 in chips)
+Seat 4: B_loJkl ($196.24 in chips)
+apx0surry9: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+apx0surry9: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [8h 7d Kc]
+B_loJkl: checks
+apx0surry9: bets $3
+B_loJkl: raises $3 to $6
+apx0surry9: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $17.64 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8h 7d Kc]
+Seat 3: apx0surry9 (button) (small blind) folded on the Flop
+Seat 4: B_loJkl (big blind) collected ($17.64)
+
+
+PokerStars Hand #169393115029:  Hold'em Limit ($3/$6 USD) - 2017/04/22 8:06:25 ET
+Table 'Zwetana' 6-max Seat #3 is the button
+Seat 3: apx0surry9 ($167.81 in chips)
+Seat 4: B_loJkl ($192.24 in chips)
+apx0surry9: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+apx0surry9: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: apx0surry9 (button) (small blind) folded before Flop
+Seat 4: B_loJkl (big blind) collected ($2)
+
+
+PokerStars Hand #169393100412:  Hold'em Limit ($3/$6 USD) - 2017/04/22 8:05:58 ET
+Table 'Zwetana' 6-max Seat #4 is the button
+Seat 3: apx0surry9 ($173.81 in chips)
+Seat 4: B_loJkl ($186.48 in chips)
+B_loJkl: posts small blind $1
+apx0surry9: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+apx0surry9: calls $3
+*** FLOP *** [8c Th 6h]
+apx0surry9: checks
+B_loJkl: bets $3
+apx0surry9: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8c Th 6h]
+Seat 3: apx0surry9 (big blind) folded on the Flop
+Seat 4: B_loJkl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #169393131660:  Hold'em Limit ($3/$6 USD) - 2017/04/22 8:06:56 ET
+Table 'Zwetana' 6-max Seat #4 is the button
+Seat 3: apx0surry9 ($154.81 in chips)
+Seat 4: B_loJkl ($204.88 in chips)
+B_loJkl: posts small blind $1
+apx0surry9: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+apx0surry9: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $6 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: apx0surry9 (big blind) folded before Flop
+Seat 4: B_loJkl (button) (small blind) collected ($6)
+
+
+PokerStars Hand #169393135854:  Hold'em Limit ($3/$6 USD) - 2017/04/22 8:07:04 ET
+Table 'Zwetana' 6-max Seat #3 is the button
+Seat 3: apx0surry9 ($151.81 in chips)
+Seat 4: B_loJkl ($207.88 in chips)
+apx0surry9: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+apx0surry9: calls $2
+B_loJkl: checks
+*** FLOP *** [Ah Ad 2s]
+B_loJkl: checks
+apx0surry9: bets $3
+B_loJkl: folds
+Uncalled bet ($3) returned to apx0surry9
+apx0surry9 collected $5.88 from pot
+apx0surry9: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Ah Ad 2s]
+Seat 3: apx0surry9 (button) (small blind) collected ($5.88)
+Seat 4: B_loJkl (big blind) folded on the Flop
+
+
+PokerStars Hand #169393157491:  Hold'em Limit ($3/$6 USD) - 2017/04/22 8:07:44 ET
+Table 'Zwetana' 6-max Seat #3 is the button
+Seat 3: apx0surry9 ($169.19 in chips)
+Seat 4: B_loJkl ($189.88 in chips)
+apx0surry9: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+apx0surry9: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [9h Ah 7s]
+B_loJkl: checks
+apx0surry9: bets $3
+B_loJkl: calls $3
+*** TURN *** [9h Ah 7s] [8h]
+B_loJkl: checks
+apx0surry9: bets $6
+B_loJkl: calls $6
+*** RIVER *** [9h Ah 7s 8h] [Th]
+B_loJkl: bets $6
+apx0surry9: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [Qh 4d] (a flush, Ace high)
+apx0surry9: mucks hand
+B_loJkl collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9h Ah 7s 8h Th]
+Seat 3: apx0surry9 (button) (small blind) mucked
+Seat 4: B_loJkl (big blind) showed [Qh 4d] and won ($41.50) with a flush, Ace high
+
+
+PokerStars Hand #169393142443:  Hold'em Limit ($3/$6 USD) - 2017/04/22 8:07:16 ET
+Table 'Zwetana' 6-max Seat #4 is the button
+Seat 3: apx0surry9 ($154.69 in chips)
+Seat 4: B_loJkl ($204.88 in chips)
+B_loJkl: posts small blind $1
+apx0surry9: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+apx0surry9: calls $3
+*** FLOP *** [2c As 4d]
+apx0surry9: bets $3
+B_loJkl: calls $3
+*** TURN *** [2c As 4d] [5h]
+apx0surry9: checks
+B_loJkl: checks
+*** RIVER *** [2c As 4d 5h] [Ks]
+apx0surry9: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+apx0surry9: shows [Js 3h] (a straight, Ace to Five)
+B_loJkl: mucks hand
+apx0surry9 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2c As 4d 5h Ks]
+Seat 3: apx0surry9 (big blind) showed [Js 3h] and won ($29.50) with a straight, Ace to Five
+Seat 4: B_loJkl (button) (small blind) mucked
+
+
+PokerStars Hand #169393172912:  Hold'em Limit ($3/$6 USD) - 2017/04/22 8:08:13 ET
+Table 'Zwetana' 6-max Seat #4 is the button
+Seat 3: apx0surry9 ($148.19 in chips)
+Seat 4: B_loJkl ($210.38 in chips)
+B_loJkl: posts small blind $1
+apx0surry9: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+apx0surry9: raises $3 to $9
+B_loJkl: calls $3
+*** FLOP *** [7h 2c 9s]
+apx0surry9: checks
+B_loJkl: bets $3
+apx0surry9: calls $3
+*** TURN *** [7h 2c 9s] [2d]
+chebob joins the table at seat #2
+apx0surry9: checks
+B_loJkl: bets $6
+apx0surry9: calls $6
+*** RIVER *** [7h 2c 9s 2d] [3s]
+apx0surry9: checks
+B_loJkl: bets $6
+apx0surry9: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [Jd 9d] (two pair, Nines and Deuces)
+apx0surry9: mucks hand
+B_loJkl collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7h 2c 9s 2d 3s]
+Seat 3: apx0surry9 (big blind) mucked
+Seat 4: B_loJkl (button) (small blind) showed [Jd 9d] and won ($47.50) with two pair, Nines and Deuces
+
+
+PokerStars Hand #169393190315:  Hold'em Limit ($3/$6 USD) - 2017/04/22 8:08:46 ET
+Table 'Zwetana' 6-max Seat #3 is the button
+Seat 3: apx0surry9 ($124.19 in chips)
+Seat 4: B_loJkl ($233.88 in chips)
+apx0surry9: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+apx0surry9: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [6d Td Tc]
+B_loJkl: checks
+apx0surry9: bets $3
+B_loJkl: calls $3
+*** TURN *** [6d Td Tc] [5s]
+B_loJkl: checks
+apx0surry9: checks
+*** RIVER *** [6d Td Tc 5s] [8c]
+B_loJkl: checks
+apx0surry9: checks
+*** SHOW DOWN ***
+B_loJkl: shows [Jd Kh] (a pair of Tens)
+apx0surry9: shows [Ks Qc] (a pair of Tens - King+Queen kicker)
+apx0surry9 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6d Td Tc 5s 8c]
+Seat 3: apx0surry9 (button) (small blind) showed [Ks Qc] and won ($17.64) with a pair of Tens
+Seat 4: B_loJkl (big blind) showed [Jd Kh] and lost with a pair of Tens
+
+
+PokerStars Hand #169395486914:  Hold'em Limit ($3/$6 USD) - 2017/04/22 9:16:10 ET
+Table 'Zwetana' 6-max Seat #6 is the button
+Seat 3: Artachok ($81.41 in chips)
+Seat 6: HIGHIQ74 ($48.61 in chips)
+HIGHIQ74: posts small blind $1
+B_loJkl: is sitting out
+Artachok: posts big blind $3
+*** HOLE CARDS ***
+HIGHIQ74: raises $3 to $6
+Artachok: raises $3 to $9
+HIGHIQ74: calls $3
+*** FLOP *** [Js 6h 5c]
+Artachok: bets $3
+HIGHIQ74: calls $3
+*** TURN *** [Js 6h 5c] [2h]
+B_loJkl leaves the table
+Artachok: bets $6
+HIGHIQ74: calls $6
+*** RIVER *** [Js 6h 5c 2h] [Qc]
+B_loJkl joins the table at seat #4
+Artachok: checks
+HIGHIQ74: bets $6
+Artachok: calls $6
+*** SHOW DOWN ***
+HIGHIQ74: shows [8h Ah] (high card Ace)
+Artachok: shows [Kd Ac] (high card Ace - King kicker)
+Artachok collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Js 6h 5c 2h Qc]
+Seat 3: Artachok (big blind) showed [Kd Ac] and won ($47.50) with high card Ace
+Seat 6: HIGHIQ74 (button) (small blind) showed [8h Ah] and lost with high card Ace
+
+
+PokerStars Hand #169397643199:  Hold'em Limit ($3/$6 USD) - 2017/04/22 10:13:12 ET
+Table 'Zwetana' 6-max Seat #6 is the button
+Seat 4: Chessnok ($125.76 in chips)
+Seat 6: HIGHIQ74 ($58.15 in chips)
+HIGHIQ74: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+HIGHIQ74: folds
+Uncalled bet ($2) returned to Chessnok
+Chessnok collected $2 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: Chessnok (big blind) collected ($2)
+Seat 6: HIGHIQ74 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #169397634966:  Hold'em Limit ($3/$6 USD) - 2017/04/22 10:12:59 ET
+Table 'Zwetana' 6-max Seat #4 is the button
+Seat 4: Chessnok ($120 in chips)
+Seat 6: HIGHIQ74 ($64.15 in chips)
+Chessnok: posts small blind $1
+HIGHIQ74: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+HIGHIQ74: calls $3
+*** FLOP *** [Th 2s 3c]
+HIGHIQ74: checks
+Chessnok: bets $3
+HIGHIQ74: folds
+Uncalled bet ($3) returned to Chessnok
+Chessnok collected $11.76 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Th 2s 3c]
+Seat 4: Chessnok (button) (small blind) collected ($11.76)
+Seat 6: HIGHIQ74 (big blind) folded on the Flop
+
+
+PokerStars Hand #169397646200:  Hold'em Limit ($3/$6 USD) - 2017/04/22 10:13:16 ET
+Table 'Zwetana' 6-max Seat #4 is the button
+Seat 4: Chessnok ($126.76 in chips)
+Seat 6: HIGHIQ74 ($57.15 in chips)
+Chessnok: posts small blind $1
+HIGHIQ74: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+HIGHIQ74: calls $3
+*** FLOP *** [4d 8d 9h]
+HIGHIQ74: checks
+Chessnok: checks
+*** TURN *** [4d 8d 9h] [Kh]
+HIGHIQ74: bets $6
+Chessnok: calls $6
+*** RIVER *** [4d 8d 9h Kh] [2c]
+HIGHIQ74: bets $6
+Chessnok: calls $6
+*** SHOW DOWN ***
+HIGHIQ74: shows [8s 6s] (a pair of Eights)
+Chessnok: mucks hand
+HIGHIQ74 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [4d 8d 9h Kh 2c]
+Seat 4: Chessnok (button) (small blind) mucked
+Seat 6: HIGHIQ74 (big blind) showed [8s 6s] and won ($35.50) with a pair of Eights
+
+
+PokerStars Hand #169397683240:  Hold'em Limit ($3/$6 USD) - 2017/04/22 10:14:13 ET
+Table 'Zwetana' 6-max Seat #4 is the button
+Seat 4: Chessnok ($126.26 in chips)
+Seat 6: HIGHIQ74 ($56.65 in chips)
+Chessnok: posts small blind $1
+HIGHIQ74: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+HIGHIQ74: calls $3
+*** FLOP *** [4d 5c Qd]
+HIGHIQ74: checks
+Chessnok: bets $3
+HIGHIQ74: folds
+Uncalled bet ($3) returned to Chessnok
+Chessnok collected $11.76 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4d 5c Qd]
+Seat 4: Chessnok (button) (small blind) collected ($11.76)
+Seat 6: HIGHIQ74 (big blind) folded on the Flop
+
+
+PokerStars Hand #169397660498:  Hold'em Limit ($3/$6 USD) - 2017/04/22 10:13:38 ET
+Table 'Zwetana' 6-max Seat #6 is the button
+Seat 4: Chessnok ($108.76 in chips)
+Seat 6: HIGHIQ74 ($74.65 in chips)
+HIGHIQ74: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+HIGHIQ74: raises $3 to $6
+Chessnok: folds
+Uncalled bet ($3) returned to HIGHIQ74
+HIGHIQ74 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 4: Chessnok (big blind) folded before Flop
+Seat 6: HIGHIQ74 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #169397677539:  Hold'em Limit ($3/$6 USD) - 2017/04/22 10:14:04 ET
+Table 'Zwetana' 6-max Seat #6 is the button
+Seat 4: Chessnok ($129.26 in chips)
+Seat 6: HIGHIQ74 ($53.65 in chips)
+HIGHIQ74: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+HIGHIQ74: raises $3 to $6
+Chessnok: folds
+Uncalled bet ($3) returned to HIGHIQ74
+HIGHIQ74 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 4: Chessnok (big blind) folded before Flop
+Seat 6: HIGHIQ74 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #169397664919:  Hold'em Limit ($3/$6 USD) - 2017/04/22 10:13:45 ET
+Table 'Zwetana' 6-max Seat #4 is the button
+Seat 4: Chessnok ($105.76 in chips)
+Seat 6: HIGHIQ74 ($77.65 in chips)
+Chessnok: posts small blind $1
+HIGHIQ74: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+HIGHIQ74: calls $3
+*** FLOP *** [Jh Ac 2s]
+HIGHIQ74: bets $3
+Chessnok: raises $3 to $6
+HIGHIQ74: calls $3
+*** TURN *** [Jh Ac 2s] [6h]
+HIGHIQ74: checks
+Chessnok: bets $6
+HIGHIQ74: calls $6
+*** RIVER *** [Jh Ac 2s 6h] [3d]
+HIGHIQ74: checks
+Chessnok: bets $6
+HIGHIQ74: calls $6
+*** SHOW DOWN ***
+Chessnok: shows [7c As] (a pair of Aces)
+HIGHIQ74: mucks hand
+Chessnok collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Jh Ac 2s 6h 3d]
+Seat 4: Chessnok (button) (small blind) showed [7c As] and won ($47.50) with a pair of Aces
+Seat 6: HIGHIQ74 (big blind) mucked
+
+
+PokerStars Hand #169397726478:  Hold'em Limit ($3/$6 USD) - 2017/04/22 10:15:19 ET
+Table 'Zwetana' 6-max Seat #4 is the button
+Seat 4: Chessnok ($112.02 in chips)
+Seat 6: HIGHIQ74 ($69.69 in chips)
+Chessnok: posts small blind $1
+HIGHIQ74: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: folds
+Uncalled bet ($2) returned to HIGHIQ74
+HIGHIQ74 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: Chessnok (button) (small blind) folded before Flop
+Seat 6: HIGHIQ74 (big blind) collected ($2)
+
+
+PokerStars Hand #169397716846:  Hold'em Limit ($3/$6 USD) - 2017/04/22 10:15:04 ET
+Table 'Zwetana' 6-max Seat #4 is the button
+Seat 4: Chessnok ($115.02 in chips)
+Seat 6: HIGHIQ74 ($66.93 in chips)
+Chessnok: posts small blind $1
+HIGHIQ74: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+HIGHIQ74: folds
+Uncalled bet ($3) returned to Chessnok
+Chessnok collected $6 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 4: Chessnok (button) (small blind) collected ($6)
+Seat 6: HIGHIQ74 (big blind) folded before Flop
+
+
+PokerStars Hand #169397719846:  Hold'em Limit ($3/$6 USD) - 2017/04/22 10:15:09 ET
+Table 'Zwetana' 6-max Seat #6 is the button
+Seat 4: Chessnok ($118.02 in chips)
+Seat 6: HIGHIQ74 ($63.93 in chips)
+HIGHIQ74: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+HIGHIQ74: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [Qc 8s Js]
+Chessnok: checks
+HIGHIQ74: bets $3
+Chessnok: folds
+Uncalled bet ($3) returned to HIGHIQ74
+HIGHIQ74 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qc 8s Js]
+Seat 4: Chessnok (big blind) folded on the Flop
+Seat 6: HIGHIQ74 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #169397689906:  Hold'em Limit ($3/$6 USD) - 2017/04/22 10:14:23 ET
+Table 'Zwetana' 6-max Seat #6 is the button
+Seat 4: Chessnok ($132.02 in chips)
+Seat 6: HIGHIQ74 ($50.65 in chips)
+HIGHIQ74: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+HIGHIQ74: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [9d 8d Jd]
+Chessnok: checks
+HIGHIQ74: bets $3
+Chessnok: folds
+Uncalled bet ($3) returned to HIGHIQ74
+HIGHIQ74 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9d 8d Jd]
+Seat 4: Chessnok (big blind) folded on the Flop
+Seat 6: HIGHIQ74 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #169397713779:  Hold'em Limit ($3/$6 USD) - 2017/04/22 10:14:59 ET
+Table 'Zwetana' 6-max Seat #6 is the button
+Seat 4: Chessnok ($114.02 in chips)
+Seat 6: HIGHIQ74 ($67.93 in chips)
+HIGHIQ74: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+HIGHIQ74: folds
+Uncalled bet ($2) returned to Chessnok
+Chessnok collected $2 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: Chessnok (big blind) collected ($2)
+Seat 6: HIGHIQ74 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #169397702092:  Hold'em Limit ($3/$6 USD) - 2017/04/22 10:14:42 ET
+Table 'Zwetana' 6-max Seat #4 is the button
+Seat 4: Chessnok ($126.02 in chips)
+Seat 6: HIGHIQ74 ($56.41 in chips)
+Chessnok: posts small blind $1
+HIGHIQ74: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+HIGHIQ74: calls $3
+*** FLOP *** [Kc 4h 6d]
+HIGHIQ74: checks
+Chessnok: bets $3
+HIGHIQ74: raises $3 to $6
+Chessnok: calls $3
+*** TURN *** [Kc 4h 6d] [5d]
+HIGHIQ74: bets $6
+Chessnok: folds
+Uncalled bet ($6) returned to HIGHIQ74
+HIGHIQ74 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Kc 4h 6d 5d]
+Seat 4: Chessnok (button) (small blind) folded on the Turn
+Seat 6: HIGHIQ74 (big blind) collected ($23.52)
+
+
+PokerStars Hand #169397729146:  Hold'em Limit ($3/$6 USD) - 2017/04/22 10:15:23 ET
+Table 'Zwetana' 6-max Seat #6 is the button
+Seat 4: Chessnok ($111.02 in chips)
+Seat 6: HIGHIQ74 ($70.69 in chips)
+HIGHIQ74: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+HIGHIQ74: folds
+Uncalled bet ($2) returned to Chessnok
+Chessnok collected $2 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: Chessnok (big blind) collected ($2)
+Seat 6: HIGHIQ74 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #169397747140:  Hold'em Limit ($3/$6 USD) - 2017/04/22 10:15:50 ET
+Table 'Zwetana' 6-max Seat #4 is the button
+Seat 4: Chessnok ($98.02 in chips)
+Seat 6: HIGHIQ74 ($83.19 in chips)
+Chessnok: posts small blind $1
+HIGHIQ74: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+HIGHIQ74: calls $3
+*** FLOP *** [Kd 7c Tc]
+HIGHIQ74: checks
+Chessnok: bets $3
+HIGHIQ74: folds
+Uncalled bet ($3) returned to Chessnok
+Chessnok collected $11.76 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kd 7c Tc]
+Seat 4: Chessnok (button) (small blind) collected ($11.76)
+Seat 6: HIGHIQ74 (big blind) folded on the Flop
+
+
+PokerStars Hand #169397743958:  Hold'em Limit ($3/$6 USD) - 2017/04/22 10:15:45 ET
+Table 'Zwetana' 6-max Seat #6 is the button
+Seat 4: Chessnok ($97.02 in chips)
+Seat 6: HIGHIQ74 ($84.19 in chips)
+HIGHIQ74: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+HIGHIQ74: folds
+Uncalled bet ($2) returned to Chessnok
+Chessnok collected $2 from pot
+Chessnok: doesn't show hand
+Jack_Wu1985 leaves the table
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: Chessnok (big blind) collected ($2)
+Seat 6: HIGHIQ74 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #169397732338:  Hold'em Limit ($3/$6 USD) - 2017/04/22 10:15:28 ET
+Table 'Zwetana' 6-max Seat #4 is the button
+Seat 4: Chessnok ($112.02 in chips)
+Seat 6: HIGHIQ74 ($69.69 in chips)
+Chessnok: posts small blind $1
+HIGHIQ74: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+HIGHIQ74: calls $3
+*** FLOP *** [8s 2h 8d]
+HIGHIQ74: checks
+Chessnok: bets $3
+HIGHIQ74: calls $3
+*** TURN *** [8s 2h 8d] [Qd]
+HIGHIQ74: checks
+Chessnok: bets $6
+HIGHIQ74: raises $6 to $12
+Chessnok: folds
+Uncalled bet ($6) returned to HIGHIQ74
+HIGHIQ74 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8s 2h 8d Qd]
+Seat 4: Chessnok (button) (small blind) folded on the Turn
+Seat 6: HIGHIQ74 (big blind) collected ($29.50)
+
+
+PokerStars Hand #169397755251:  Hold'em Limit ($3/$6 USD) - 2017/04/22 10:16:03 ET
+Table 'Zwetana' 6-max Seat #6 is the button
+Seat 4: Chessnok ($103.78 in chips)
+Seat 6: HIGHIQ74 ($77.19 in chips)
+HIGHIQ74: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+HIGHIQ74: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [Tc Jh Td]
+Chessnok: checks
+HIGHIQ74: bets $3
+Chessnok: calls $3
+*** TURN *** [Tc Jh Td] [6s]
+Chessnok: checks
+HIGHIQ74: checks
+*** RIVER *** [Tc Jh Td 6s] [Js]
+Chessnok: checks
+HIGHIQ74: checks
+*** SHOW DOWN ***
+Chessnok: shows [Qh 7h] (two pair, Jacks and Tens)
+HIGHIQ74: shows [Ks 2d] (two pair, Jacks and Tens - King kicker)
+HIGHIQ74 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Tc Jh Td 6s Js]
+Seat 4: Chessnok (big blind) showed [Qh 7h] and lost with two pair, Jacks and Tens
+Seat 6: HIGHIQ74 (button) (small blind) showed [Ks 2d] and won ($17.64) with two pair, Jacks and Tens
+
+
+PokerStars Hand #169397789144:  Hold'em Limit ($3/$6 USD) - 2017/04/22 10:16:54 ET
+Table 'Zwetana' 6-max Seat #4 is the button
+Seat 4: Chessnok ($109.18 in chips)
+Seat 6: HIGHIQ74 ($70.83 in chips)
+Chessnok: posts small blind $1
+HIGHIQ74: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: folds
+Uncalled bet ($2) returned to HIGHIQ74
+HIGHIQ74 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: Chessnok (button) (small blind) folded before Flop
+Seat 6: HIGHIQ74 (big blind) collected ($2)
+
+
+PokerStars Hand #169397776715:  Hold'em Limit ($3/$6 USD) - 2017/04/22 10:16:35 ET
+Table 'Zwetana' 6-max Seat #6 is the button
+Seat 4: Chessnok ($100.54 in chips)
+Seat 6: HIGHIQ74 ($79.83 in chips)
+HIGHIQ74: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+HIGHIQ74: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [Kc 3h 7h]
+Chessnok: checks
+HIGHIQ74: bets $3
+Chessnok: calls $3
+*** TURN *** [Kc 3h 7h] [2d]
+Chessnok: checks
+HIGHIQ74: checks
+*** RIVER *** [Kc 3h 7h 2d] [3d]
+Chessnok: checks
+HIGHIQ74: checks
+*** SHOW DOWN ***
+Chessnok: shows [Th 8c] (a pair of Threes)
+HIGHIQ74: mucks hand
+Chessnok collected $17.64 from pot
+ABATAPP joins the table at seat #1
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kc 3h 7h 2d 3d]
+Seat 4: Chessnok (big blind) showed [Th 8c] and won ($17.64) with a pair of Threes
+Seat 6: HIGHIQ74 (button) (small blind) mucked
+
+
+PokerStars Hand #169397769199:  Hold'em Limit ($3/$6 USD) - 2017/04/22 10:16:24 ET
+Table 'Zwetana' 6-max Seat #4 is the button
+Seat 4: Chessnok ($94.78 in chips)
+Seat 6: HIGHIQ74 ($85.83 in chips)
+Chessnok: posts small blind $1
+HIGHIQ74: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+HIGHIQ74: calls $3
+*** FLOP *** [6d 6h 7s]
+HIGHIQ74: checks
+Chessnok: bets $3
+HIGHIQ74: folds
+Uncalled bet ($3) returned to Chessnok
+Chessnok collected $11.76 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6d 6h 7s]
+Seat 4: Chessnok (button) (small blind) collected ($11.76)
+Seat 6: HIGHIQ74 (big blind) folded on the Flop
+
+
+PokerStars Hand #169398891590:  Hold'em Limit ($3/$6 USD) - 2017/04/22 10:44:06 ET
+Table 'Zwetana' 6-max Seat #4 is the button
+Seat 3: Qvidde ($89.77 in chips)
+Seat 4: Chessnok ($116.10 in chips)
+Chessnok: posts small blind $1
+Qvidde: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+Qvidde: calls $3
+*** FLOP *** [9d Ks 9c]
+Qvidde: checks
+Chessnok: bets $3
+Qvidde: folds
+Uncalled bet ($3) returned to Chessnok
+Chessnok collected $11.76 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9d Ks 9c]
+Seat 3: Qvidde (big blind) folded on the Flop
+Seat 4: Chessnok (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #169399132303:  Hold'em Limit ($3/$6 USD) - 2017/04/22 10:49:41 ET
+Table 'Zwetana' 6-max Seat #3 is the button
+Seat 3: Qvidde ($83.77 in chips)
+Seat 6: HIGHIQ74 ($127.43 in chips)
+Qvidde: posts small blind $1
+HIGHIQ74: posts big blind $3
+*** HOLE CARDS ***
+Qvidde: raises $3 to $6
+HIGHIQ74: raises $3 to $9
+Qvidde: calls $3
+*** FLOP *** [Th 8h Kc]
+HIGHIQ74: bets $3
+Qvidde: folds
+Uncalled bet ($3) returned to HIGHIQ74
+HIGHIQ74 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Th 8h Kc]
+Seat 3: Qvidde (button) (small blind) folded on the Flop
+Seat 6: HIGHIQ74 (big blind) collected ($17.64)
+
+
+PokerStars Hand #169399171001:  Hold'em Limit ($3/$6 USD) - 2017/04/22 10:50:32 ET
+Table 'Zwetana' 6-max Seat #3 is the button
+Seat 3: Qvidde ($68.77 in chips)
+Seat 6: HIGHIQ74 ($141.83 in chips)
+Qvidde: posts small blind $1
+HIGHIQ74: posts big blind $3
+*** HOLE CARDS ***
+Qvidde: raises $3 to $6
+HIGHIQ74: calls $3
+*** FLOP *** [7c 4d 9h]
+HIGHIQ74: checks
+Qvidde: checks
+*** TURN *** [7c 4d 9h] [2s]
+HIGHIQ74: checks
+Qvidde: checks
+*** RIVER *** [7c 4d 9h 2s] [7d]
+HIGHIQ74: checks
+Qvidde: checks
+*** SHOW DOWN ***
+HIGHIQ74: shows [8c 5s] (a pair of Sevens)
+Qvidde: shows [Kc 3d] (a pair of Sevens - King kicker)
+Qvidde collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7c 4d 9h 2s 7d]
+Seat 3: Qvidde (button) (small blind) showed [Kc 3d] and won ($11.76) with a pair of Sevens
+Seat 6: HIGHIQ74 (big blind) showed [8c 5s] and lost with a pair of Sevens
+
+
+PokerStars Hand #169399147868:  Hold'em Limit ($3/$6 USD) - 2017/04/22 10:50:04 ET
+Table 'Zwetana' 6-max Seat #6 is the button
+Seat 3: Qvidde ($74.77 in chips)
+Seat 6: HIGHIQ74 ($136.07 in chips)
+HIGHIQ74: posts small blind $1
+Qvidde: posts big blind $3
+*** HOLE CARDS ***
+HIGHIQ74: raises $3 to $6
+Qvidde: calls $3
+*** FLOP *** [7s 3d 2d]
+Qvidde: checks
+HIGHIQ74: checks
+*** TURN *** [7s 3d 2d] [Jh]
+Qvidde: checks
+HIGHIQ74: bets $6
+Qvidde: folds
+Uncalled bet ($6) returned to HIGHIQ74
+HIGHIQ74 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7s 3d 2d Jh]
+Seat 3: Qvidde (big blind) folded on the Turn
+Seat 6: HIGHIQ74 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #169399185822:  Hold'em Limit ($3/$6 USD) - 2017/04/22 10:50:55 ET
+Table 'Zwetana' 6-max Seat #6 is the button
+Seat 3: Qvidde ($74.53 in chips)
+Seat 6: HIGHIQ74 ($135.83 in chips)
+HIGHIQ74: posts small blind $1
+Qvidde: posts big blind $3
+*** HOLE CARDS ***
+HIGHIQ74: folds
+Uncalled bet ($2) returned to Qvidde
+Qvidde collected $2 from pot
+Qvidde: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: Qvidde (big blind) collected ($2)
+Seat 6: HIGHIQ74 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #169399216281:  Hold'em Limit ($3/$6 USD) - 2017/04/22 10:51:37 ET
+Table 'Zwetana' 6-max Seat #6 is the button
+Seat 3: Qvidde ($120 in chips)
+Seat 6: HIGHIQ74 ($155.33 in chips)
+HIGHIQ74: posts small blind $1
+Qvidde: posts big blind $3
+*** HOLE CARDS ***
+HIGHIQ74: raises $3 to $6
+Qvidde: calls $3
+*** FLOP *** [7s 9d 9h]
+Qvidde: checks
+HIGHIQ74: checks
+*** TURN *** [7s 9d 9h] [5c]
+Qvidde: checks
+HIGHIQ74: checks
+*** RIVER *** [7s 9d 9h 5c] [8h]
+Qvidde: checks
+HIGHIQ74: checks
+*** SHOW DOWN ***
+Qvidde: shows [As 3c] (a pair of Nines)
+HIGHIQ74: mucks hand
+Qvidde collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7s 9d 9h 5c 8h]
+Seat 3: Qvidde (big blind) showed [As 3c] and won ($11.76) with a pair of Nines
+Seat 6: HIGHIQ74 (button) (small blind) mucked
+
+
+PokerStars Hand #169399188880:  Hold'em Limit ($3/$6 USD) - 2017/04/22 10:50:59 ET
+Table 'Zwetana' 6-max Seat #3 is the button
+Seat 3: Qvidde ($75.53 in chips)
+Seat 6: HIGHIQ74 ($134.83 in chips)
+Qvidde: posts small blind $1
+HIGHIQ74: posts big blind $3
+*** HOLE CARDS ***
+Qvidde: raises $3 to $6
+HIGHIQ74: calls $3
+*** FLOP *** [9s 4d 5h]
+HIGHIQ74: checks
+Qvidde: bets $3
+HIGHIQ74: calls $3
+*** TURN *** [9s 4d 5h] [2h]
+HIGHIQ74: checks
+Qvidde: bets $6
+HIGHIQ74: calls $6
+*** RIVER *** [9s 4d 5h 2h] [Kh]
+HIGHIQ74: checks
+Qvidde: bets $6
+HIGHIQ74: raises $6 to $12
+Qvidde: folds
+Uncalled bet ($6) returned to HIGHIQ74
+HIGHIQ74 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9s 4d 5h 2h Kh]
+Seat 3: Qvidde (button) (small blind) folded on the River
+Seat 6: HIGHIQ74 (big blind) collected ($41.50)
+
+
+PokerStars Hand #169399228065:  Hold'em Limit ($3/$6 USD) - 2017/04/22 10:51:54 ET
+Table 'Zwetana' 6-max Seat #3 is the button
+Seat 3: Qvidde ($125.76 in chips)
+Seat 6: HIGHIQ74 ($149.33 in chips)
+Qvidde: posts small blind $1
+HIGHIQ74: posts big blind $3
+*** HOLE CARDS ***
+Qvidde: raises $3 to $6
+HIGHIQ74: calls $3
+*** FLOP *** [Jh 2c 3d]
+HIGHIQ74: checks
+Qvidde: bets $3
+HIGHIQ74: folds
+Uncalled bet ($3) returned to Qvidde
+Qvidde collected $11.76 from pot
+Qvidde: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jh 2c 3d]
+Seat 3: Qvidde (button) (small blind) collected ($11.76)
+Seat 6: HIGHIQ74 (big blind) folded on the Flop
+
+
+PokerStars Hand #169399252599:  Hold'em Limit ($3/$6 USD) - 2017/04/22 10:52:29 ET
+Table 'Zwetana' 6-max Seat #3 is the button
+Seat 3: Qvidde ($125.52 in chips)
+Seat 6: HIGHIQ74 ($149.09 in chips)
+Qvidde: posts small blind $1
+HIGHIQ74: posts big blind $3
+*** HOLE CARDS ***
+Qvidde: raises $3 to $6
+HIGHIQ74: calls $3
+*** FLOP *** [3h Qd 7h]
+HIGHIQ74: checks
+Qvidde: bets $3
+HIGHIQ74: folds
+Uncalled bet ($3) returned to Qvidde
+Qvidde collected $11.76 from pot
+Qvidde: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3h Qd 7h]
+Seat 3: Qvidde (button) (small blind) collected ($11.76)
+Seat 6: HIGHIQ74 (big blind) folded on the Flop
+
+
+PokerStars Hand #169399236635:  Hold'em Limit ($3/$6 USD) - 2017/04/22 10:52:07 ET
+Table 'Zwetana' 6-max Seat #6 is the button
+Seat 3: Qvidde ($131.52 in chips)
+Seat 6: HIGHIQ74 ($143.33 in chips)
+HIGHIQ74: posts small blind $1
+Qvidde: posts big blind $3
+*** HOLE CARDS ***
+HIGHIQ74: raises $3 to $6
+Qvidde: calls $3
+*** FLOP *** [Qh Ts 3s]
+Qvidde: checks
+HIGHIQ74: bets $3
+Qvidde: folds
+Uncalled bet ($3) returned to HIGHIQ74
+HIGHIQ74 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qh Ts 3s]
+Seat 3: Qvidde (big blind) folded on the Flop
+Seat 6: HIGHIQ74 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #169399270521:  Hold'em Limit ($3/$6 USD) - 2017/04/22 10:52:56 ET
+Table 'Zwetana' 6-max Seat #3 is the button
+Seat 3: Qvidde ($128.28 in chips)
+Seat 6: HIGHIQ74 ($146.09 in chips)
+Qvidde: posts small blind $1
+HIGHIQ74: posts big blind $3
+*** HOLE CARDS ***
+Qvidde: folds
+Uncalled bet ($2) returned to HIGHIQ74
+HIGHIQ74 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: Qvidde (button) (small blind) folded before Flop
+Seat 6: HIGHIQ74 (big blind) collected ($2)
+
+
+PokerStars Hand #169399264849:  Hold'em Limit ($3/$6 USD) - 2017/04/22 10:52:47 ET
+Table 'Zwetana' 6-max Seat #6 is the button
+Seat 3: Qvidde ($131.28 in chips)
+Seat 6: HIGHIQ74 ($143.09 in chips)
+HIGHIQ74: posts small blind $1
+Qvidde: posts big blind $3
+*** HOLE CARDS ***
+HIGHIQ74: raises $3 to $6
+Qvidde: folds
+Uncalled bet ($3) returned to HIGHIQ74
+HIGHIQ74 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: Qvidde (big blind) folded before Flop
+Seat 6: HIGHIQ74 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #169399276002:  Hold'em Limit ($3/$6 USD) - 2017/04/22 10:53:04 ET
+Table 'Zwetana' 6-max Seat #6 is the button
+Seat 3: Qvidde ($127.28 in chips)
+Seat 6: HIGHIQ74 ($147.09 in chips)
+HIGHIQ74: posts small blind $1
+Qvidde: posts big blind $3
+*** HOLE CARDS ***
+HIGHIQ74: folds
+Uncalled bet ($2) returned to Qvidde
+Qvidde collected $2 from pot
+Qvidde: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: Qvidde (big blind) collected ($2)
+Seat 6: HIGHIQ74 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #169399279801:  Hold'em Limit ($3/$6 USD) - 2017/04/22 10:53:10 ET
+Table 'Zwetana' 6-max Seat #3 is the button
+Seat 3: Qvidde ($128.28 in chips)
+Seat 6: HIGHIQ74 ($146.09 in chips)
+Qvidde: posts small blind $1
+HIGHIQ74: posts big blind $3
+*** HOLE CARDS ***
+AbalHaZreD joins the table at seat #1
+Qvidde: raises $3 to $6
+HIGHIQ74: calls $3
+*** FLOP *** [6d Js Th]
+Blackadder77 joins the table at seat #5
+HIGHIQ74: bets $3
+Qvidde: folds
+Uncalled bet ($3) returned to HIGHIQ74
+HIGHIQ74 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6d Js Th]
+Seat 3: Qvidde (button) (small blind) folded on the Flop
+Seat 6: HIGHIQ74 (big blind) collected ($11.76)
+
+
+PokerStars Hand #169399450008:  Hold'em Limit ($3/$6 USD) - 2017/04/22 10:57:22 ET
+Table 'Zwetana' 6-max Seat #6 is the button
+Seat 5: Blackadder77 ($53 in chips)
+Seat 6: HIGHIQ74 ($196.48 in chips)
+HIGHIQ74: posts small blind $1
+Apanage: is sitting out
+Blackadder77: posts big blind $3
+*** HOLE CARDS ***
+Apanage leaves the table
+HIGHIQ74: calls $2
+Blackadder77: checks
+*** FLOP *** [Qc Jc 8h]
+Blackadder77: checks
+HIGHIQ74: bets $3
+Blackadder77: folds
+Uncalled bet ($3) returned to HIGHIQ74
+HIGHIQ74 collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Qc Jc 8h]
+Seat 5: Blackadder77 (big blind) folded on the Flop
+Seat 6: HIGHIQ74 (button) (small blind) collected ($5.88)
+
+
+PokerStars Hand #169399456797:  Hold'em Limit ($3/$6 USD) - 2017/04/22 10:57:34 ET
+Table 'Zwetana' 6-max Seat #5 is the button
+Seat 5: Blackadder77 ($50 in chips)
+Seat 6: HIGHIQ74 ($199.36 in chips)
+Blackadder77: posts small blind $1
+HIGHIQ74: posts big blind $3
+*** HOLE CARDS ***
+Blackadder77: raises $3 to $6
+HIGHIQ74: calls $3
+*** FLOP *** [Qh Td 6s]
+HIGHIQ74: checks
+Blackadder77: bets $3
+HIGHIQ74: folds
+Uncalled bet ($3) returned to Blackadder77
+Blackadder77 collected $11.76 from pot
+Blackadder77: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qh Td 6s]
+Seat 5: Blackadder77 (button) (small blind) collected ($11.76)
+Seat 6: HIGHIQ74 (big blind) folded on the Flop
+
+
+PokerStars Hand #169399462953:  Hold'em Limit ($3/$6 USD) - 2017/04/22 10:57:44 ET
+Table 'Zwetana' 6-max Seat #6 is the button
+Seat 5: Blackadder77 ($55.76 in chips)
+Seat 6: HIGHIQ74 ($193.36 in chips)
+HIGHIQ74: posts small blind $1
+Blackadder77: posts big blind $3
+*** HOLE CARDS ***
+HIGHIQ74: raises $3 to $6
+Blackadder77: calls $3
+*** FLOP *** [3d 7d 5c]
+Blackadder77: checks
+HIGHIQ74: bets $3
+B_loJkl joins the table at seat #1
+Blackadder77: raises $3 to $6
+HIGHIQ74: calls $3
+*** TURN *** [3d 7d 5c] [Td]
+Blackadder77: bets $6
+HIGHIQ74: raises $6 to $12
+Blackadder77: folds
+Uncalled bet ($6) returned to HIGHIQ74
+HIGHIQ74 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [3d 7d 5c Td]
+Seat 5: Blackadder77 (big blind) folded on the Turn
+Seat 6: HIGHIQ74 (button) (small blind) collected ($35.50)
+
+
+PokerStars Hand #169399476243:  Hold'em Limit ($3/$6 USD) - 2017/04/22 10:58:07 ET
+Table 'Zwetana' 6-max Seat #5 is the button
+Seat 5: Blackadder77 ($46.53 in chips)
+Seat 6: HIGHIQ74 ($210.86 in chips)
+Blackadder77: posts small blind $1
+HIGHIQ74: posts big blind $3
+*** HOLE CARDS ***
+Blackadder77: raises $3 to $6
+HIGHIQ74: calls $3
+*** FLOP *** [8d 5h 9h]
+HIGHIQ74: checks
+Blackadder77: bets $3
+HIGHIQ74: calls $3
+*** TURN *** [8d 5h 9h] [7s]
+HIGHIQ74: checks
+Blackadder77: bets $6
+HIGHIQ74: raises $6 to $12
+Blackadder77: calls $6
+*** RIVER *** [8d 5h 9h 7s] [2d]
+HIGHIQ74: bets $6
+Blackadder77: calls $6
+*** SHOW DOWN ***
+HIGHIQ74: shows [6d 7c] (a straight, Five to Nine)
+Blackadder77: shows [6s Kc] (a straight, Five to Nine)
+HIGHIQ74 collected $26.75 from pot
+Blackadder77 collected $26.75 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [8d 5h 9h 7s 2d]
+Seat 5: Blackadder77 (button) (small blind) showed [6s Kc] and won ($26.75) with a straight, Five to Nine
+Seat 6: HIGHIQ74 (big blind) showed [6d 7c] and won ($26.75) with a straight, Five to Nine
+
+
+PokerStars Hand #169399880313:  Hold'em Limit ($3/$6 USD) - 2017/04/22 11:08:19 ET
+Table 'Zwetana' 6-max Seat #5 is the button
+Seat 4: MTLranger54 ($158.94 in chips)
+Seat 5: Blackadder77 ($18.19 in chips)
+Blackadder77: posts small blind $1
+B_loJkl: is sitting out
+MTLranger54: posts big blind $3
+*** HOLE CARDS ***
+Opal10 joins the table at seat #6
+Blackadder77: folds
+Uncalled bet ($2) returned to MTLranger54
+MTLranger54 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: MTLranger54 (big blind) collected ($2)
+Seat 5: Blackadder77 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #169399978597:  Hold'em Limit ($3/$6 USD) - 2017/04/22 11:10:42 ET
+Table 'Zwetana' 6-max Seat #1 is the button
+Seat 1: B_loJkl ($89.89 in chips)
+Seat 4: MTLranger54 ($139.94 in chips)
+B_loJkl: posts small blind $1
+MTLranger54: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+MTLranger54: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $6 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: B_loJkl (button) (small blind) collected ($6)
+Seat 4: MTLranger54 (big blind) folded before Flop
+
+
+PokerStars Hand #169400007489:  Hold'em Limit ($3/$6 USD) - 2017/04/22 11:11:24 ET
+Table 'Zwetana' 6-max Seat #1 is the button
+Seat 1: B_loJkl ($80.89 in chips)
+Seat 4: MTLranger54 ($148.46 in chips)
+B_loJkl: posts small blind $1
+MTLranger54: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+MTLranger54: calls $3
+*** FLOP *** [8c 2h Jh]
+MTLranger54: checks
+B_loJkl: bets $3
+MTLranger54: folds
+Uncalled bet ($3) returned to B_loJkl
+Opal10 joins the table at seat #6
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8c 2h Jh]
+Seat 1: B_loJkl (button) (small blind) collected ($11.76)
+Seat 4: MTLranger54 (big blind) folded on the Flop
+
+
+PokerStars Hand #169399982332:  Hold'em Limit ($3/$6 USD) - 2017/04/22 11:10:48 ET
+Table 'Zwetana' 6-max Seat #4 is the button
+Seat 1: B_loJkl ($92.89 in chips)
+Seat 4: MTLranger54 ($136.94 in chips)
+MTLranger54: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+MTLranger54: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Kd 6h 3h]
+B_loJkl: checks
+MTLranger54: checks
+*** TURN *** [Kd 6h 3h] [3s]
+B_loJkl: bets $6
+MTLranger54: calls $6
+*** RIVER *** [Kd 6h 3h 3s] [Ah]
+B_loJkl: checks
+MTLranger54: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to MTLranger54
+MTLranger54 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Kd 6h 3h 3s Ah]
+Seat 1: B_loJkl (big blind) folded on the River
+Seat 4: MTLranger54 (button) (small blind) collected ($23.52)
+
+
+PokerStars Hand #169400024166:  Hold'em Limit ($3/$6 USD) - 2017/04/22 11:11:48 ET
+Table 'Zwetana' 6-max Seat #6 is the button
+Seat 1: B_loJkl ($86.65 in chips)
+Seat 6: Opal10 ($202.74 in chips)
+Opal10: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Opal10: calls $2
+B_loJkl: checks
+*** FLOP *** [7c Kh Jd]
+B_loJkl: bets $3
+Opal10: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $5.88 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [7c Kh Jd]
+Seat 1: B_loJkl (big blind) collected ($5.88)
+Seat 6: Opal10 (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #169400054170:  Hold'em Limit ($3/$6 USD) - 2017/04/22 11:12:32 ET
+Table 'Zwetana' 6-max Seat #1 is the button
+Seat 1: B_loJkl ($118.67 in chips)
+Seat 6: Opal10 ($169.74 in chips)
+B_loJkl: posts small blind $1
+Opal10: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+Opal10: calls $3
+*** FLOP *** [2s 4c 4s]
+Opal10: checks
+B_loJkl: bets $3
+Opal10: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2s 4c 4s]
+Seat 1: B_loJkl (button) (small blind) collected ($11.76)
+Seat 6: Opal10 (big blind) folded on the Flop
+
+
+PokerStars Hand #169400044761:  Hold'em Limit ($3/$6 USD) - 2017/04/22 11:12:18 ET
+Table 'Zwetana' 6-max Seat #6 is the button
+Seat 1: B_loJkl ($110.03 in chips)
+Seat 6: Opal10 ($178.74 in chips)
+Opal10: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Opal10: calls $2
+B_loJkl: raises $3 to $6
+Opal10: calls $3
+*** FLOP *** [3d 6s Tc]
+B_loJkl: bets $3
+Opal10: calls $3
+*** TURN *** [3d 6s Tc] [8h]
+B_loJkl: bets $6
+Opal10: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $17.64 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3d 6s Tc 8h]
+Seat 1: B_loJkl (big blind) collected ($17.64)
+Seat 6: Opal10 (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #169400062796:  Hold'em Limit ($3/$6 USD) - 2017/04/22 11:12:44 ET
+Table 'Zwetana' 6-max Seat #6 is the button
+Seat 1: B_loJkl ($124.43 in chips)
+Seat 6: Opal10 ($163.74 in chips)
+Opal10: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Opal10: calls $2
+B_loJkl: raises $3 to $6
+Opal10: calls $3
+*** FLOP *** [8h Td 2s]
+B_loJkl: bets $3
+Opal10: calls $3
+*** TURN *** [8h Td 2s] [Js]
+B_loJkl: bets $6
+Opal10: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $17.64 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8h Td 2s Js]
+Seat 1: B_loJkl (big blind) collected ($17.64)
+Seat 6: Opal10 (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #169400032924:  Hold'em Limit ($3/$6 USD) - 2017/04/22 11:12:01 ET
+Table 'Zwetana' 6-max Seat #1 is the button
+Seat 1: B_loJkl ($89.53 in chips)
+Seat 6: Opal10 ($199.74 in chips)
+B_loJkl: posts small blind $1
+Opal10: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+Opal10: calls $3
+*** FLOP *** [2h 5h 7h]
+Opal10: bets $3
+B_loJkl: calls $3
+*** TURN *** [2h 5h 7h] [Ad]
+Opal10: bets $6
+B_loJkl: calls $6
+*** RIVER *** [2h 5h 7h Ad] [3h]
+Opal10: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+Opal10: shows [7c 5s] (two pair, Sevens and Fives)
+B_loJkl: shows [6h 6d] (a flush, Seven high)
+B_loJkl collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2h 5h 7h Ad 3h]
+Seat 1: B_loJkl (button) (small blind) showed [6h 6d] and won ($41.50) with a flush, Seven high
+Seat 6: Opal10 (big blind) showed [7c 5s] and lost with two pair, Sevens and Fives
+
+
+PokerStars Hand #169400091455:  Hold'em Limit ($3/$6 USD) - 2017/04/22 11:13:25 ET
+Table 'Zwetana' 6-max Seat #1 is the button
+Seat 1: B_loJkl ($135.83 in chips)
+Seat 6: Opal10 ($151.62 in chips)
+B_loJkl: posts small blind $1
+Opal10: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+Opal10: calls $3
+*** FLOP *** [Ad Jd Td]
+Opal10: checks
+B_loJkl: checks
+*** TURN *** [Ad Jd Td] [8c]
+Opal10: checks
+B_loJkl: checks
+*** RIVER *** [Ad Jd Td 8c] [3h]
+Opal10: checks
+B_loJkl: bets $6
+Opal10: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ad Jd Td 8c 3h]
+Seat 1: B_loJkl (button) (small blind) collected ($11.76)
+Seat 6: Opal10 (big blind) folded on the River
+
+
+PokerStars Hand #169400084026:  Hold'em Limit ($3/$6 USD) - 2017/04/22 11:13:15 ET
+Table 'Zwetana' 6-max Seat #6 is the button
+Seat 1: B_loJkl ($138.83 in chips)
+Seat 6: Opal10 ($148.74 in chips)
+Opal10: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Opal10: calls $2
+B_loJkl: checks
+*** FLOP *** [Ac Jc 8d]
+B_loJkl: checks
+Opal10: bets $3
+B_loJkl: folds
+Uncalled bet ($3) returned to Opal10
+Opal10 collected $5.88 from pot
+Opal10: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Ac Jc 8d]
+Seat 1: B_loJkl (big blind) folded on the Flop
+Seat 6: Opal10 (button) (small blind) collected ($5.88)
+
+
+PokerStars Hand #169400075270:  Hold'em Limit ($3/$6 USD) - 2017/04/22 11:13:02 ET
+Table 'Zwetana' 6-max Seat #1 is the button
+Seat 1: B_loJkl ($133.07 in chips)
+Seat 6: Opal10 ($154.74 in chips)
+B_loJkl: posts small blind $1
+Opal10: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+Opal10: calls $3
+*** FLOP *** [5c 5d 2s]
+Opal10: checks
+B_loJkl: bets $3
+Opal10: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5c 5d 2s]
+Seat 1: B_loJkl (button) (small blind) collected ($11.76)
+Seat 6: Opal10 (big blind) folded on the Flop
+
+
+PokerStars Hand #169400117178:  Hold'em Limit ($3/$6 USD) - 2017/04/22 11:14:02 ET
+Table 'Zwetana' 6-max Seat #1 is the button
+Seat 1: B_loJkl ($138.59 in chips)
+Seat 6: Opal10 ($148.50 in chips)
+B_loJkl: posts small blind $1
+Opal10: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+Opal10: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $6 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: B_loJkl (button) (small blind) collected ($6)
+Seat 6: Opal10 (big blind) folded before Flop
+
+
+PokerStars Hand #169400108317:  Hold'em Limit ($3/$6 USD) - 2017/04/22 11:13:50 ET
+Table 'Zwetana' 6-max Seat #6 is the button
+Seat 1: B_loJkl ($141.59 in chips)
+Seat 6: Opal10 ($145.62 in chips)
+Opal10: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Opal10: calls $2
+B_loJkl: checks
+*** FLOP *** [6c 7c 6h]
+B_loJkl: checks
+Opal10: checks
+*** TURN *** [6c 7c 6h] [8h]
+B_loJkl: checks
+Opal10: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to Opal10
+Opal10 collected $5.88 from pot
+Opal10: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [6c 7c 6h 8h]
+Seat 1: B_loJkl (big blind) folded on the Turn
+Seat 6: Opal10 (button) (small blind) collected ($5.88)
+
+
+PokerStars Hand #169400135451:  Hold'em Limit ($3/$6 USD) - 2017/04/22 11:14:29 ET
+Table 'Zwetana' 6-max Seat #1 is the button
+Seat 1: B_loJkl ($126.59 in chips)
+Seat 6: Opal10 ($160 in chips)
+B_loJkl: posts small blind $1
+Opal10: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+Opal10: raises $3 to $9
+B_loJkl: calls $3
+*** FLOP *** [Tc Qc 9s]
+Opal10: bets $3
+B_loJkl: calls $3
+*** TURN *** [Tc Qc 9s] [4h]
+Opal10: bets $6
+B_loJkl: calls $6
+*** RIVER *** [Tc Qc 9s 4h] [8s]
+Opal10: bets $6
+B_loJkl: raises $6 to $12
+Opal10: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [4s Jd] (a straight, Eight to Queen)
+Opal10: mucks hand
+B_loJkl collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Tc Qc 9s 4h 8s]
+Seat 1: B_loJkl (button) (small blind) showed [4s Jd] and won ($59.50) with a straight, Eight to Queen
+Seat 6: Opal10 (big blind) mucked
+
+
+PokerStars Hand #169400120791:  Hold'em Limit ($3/$6 USD) - 2017/04/22 11:14:08 ET
+Table 'Zwetana' 6-max Seat #6 is the button
+Seat 1: B_loJkl ($141.59 in chips)
+Seat 6: Opal10 ($145.50 in chips)
+Opal10: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Opal10: calls $2
+B_loJkl: raises $3 to $6
+Opal10: calls $3
+*** FLOP *** [5d 7c Qs]
+B_loJkl: bets $3
+Opal10: calls $3
+*** TURN *** [5d 7c Qs] [Ks]
+B_loJkl: checks
+Opal10: bets $6
+B_loJkl: calls $6
+*** RIVER *** [5d 7c Qs Ks] [8c]
+B_loJkl: checks
+Opal10: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to Opal10
+Opal10 collected $29.50 from pot
+Opal10: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5d 7c Qs Ks 8c]
+Seat 1: B_loJkl (big blind) folded on the River
+Seat 6: Opal10 (button) (small blind) collected ($29.50)
+
+
+PokerStars Hand #169400146810:  Hold'em Limit ($3/$6 USD) - 2017/04/22 11:14:45 ET
+Table 'Zwetana' 6-max Seat #6 is the button
+Seat 1: B_loJkl ($156.09 in chips)
+Seat 6: Opal10 ($130 in chips)
+Opal10: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Opal10: calls $2
+B_loJkl: checks
+*** FLOP *** [Ts 3h Js]
+B_loJkl: bets $3
+Opal10: raises $3 to $6
+B_loJkl: calls $3
+*** TURN *** [Ts 3h Js] [7d]
+B_loJkl: checks
+Opal10: bets $6
+B_loJkl: calls $6
+*** RIVER *** [Ts 3h Js 7d] [3d]
+B_loJkl: checks
+Opal10: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to Opal10
+Opal10 collected $29.50 from pot
+Opal10: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ts 3h Js 7d 3d]
+Seat 1: B_loJkl (big blind) folded on the River
+Seat 6: Opal10 (button) (small blind) collected ($29.50)
+
+
+PokerStars Hand #169400163270:  Hold'em Limit ($3/$6 USD) - 2017/04/22 11:15:09 ET
+Table 'Zwetana' 6-max Seat #1 is the button
+Seat 1: B_loJkl ($141.09 in chips)
+Seat 6: Opal10 ($144.50 in chips)
+B_loJkl: posts small blind $1
+Opal10: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+Opal10: calls $3
+*** FLOP *** [Ts 3s Ks]
+Opal10: bets $3
+B_loJkl: calls $3
+*** TURN *** [Ts 3s Ks] [Tc]
+Opal10: checks
+B_loJkl: checks
+*** RIVER *** [Ts 3s Ks Tc] [8h]
+Opal10: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+Opal10: shows [2c Ad] (a pair of Tens)
+B_loJkl: shows [8d Ah] (two pair, Tens and Eights)
+B_loJkl collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ts 3s Ks Tc 8h]
+Seat 1: B_loJkl (button) (small blind) showed [8d Ah] and won ($29.50) with two pair, Tens and Eights
+Seat 6: Opal10 (big blind) showed [2c Ad] and lost with a pair of Tens
+
+
+PokerStars Hand #169400176475:  Hold'em Limit ($3/$6 USD) - 2017/04/22 11:15:28 ET
+Table 'Zwetana' 6-max Seat #6 is the button
+Seat 1: B_loJkl ($155.59 in chips)
+Seat 6: Opal10 ($129.50 in chips)
+Opal10: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Opal10: calls $2
+B_loJkl: checks
+*** FLOP *** [6d Qs 8h]
+DismasX joins the table at seat #2
+B_loJkl: checks
+Opal10: checks
+*** TURN *** [6d Qs 8h] [2c]
+B_loJkl: checks
+Opal10: checks
+*** RIVER *** [6d Qs 8h 2c] [6c]
+B_loJkl: bets $6
+Opal10: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $5.88 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [6d Qs 8h 2c 6c]
+Seat 1: B_loJkl (big blind) collected ($5.88)
+Seat 6: Opal10 (button) (small blind) folded on the River
+
+
+PokerStars Hand #169400224162:  Hold'em Limit ($3/$6 USD) - 2017/04/22 11:16:37 ET
+Table 'Zwetana' 6-max Seat #6 is the button
+Seat 2: DismasX ($129.89 in chips)
+Seat 6: Opal10 ($72.50 in chips)
+Opal10: posts small blind $1
+B_loJkl: is sitting out
+DismasX: posts big blind $3
+*** HOLE CARDS ***
+Opal10: raises $3 to $6
+DismasX: calls $3
+*** FLOP *** [Kh 7h 3s]
+DismasX: checks
+Opal10: bets $3
+DismasX: folds
+Uncalled bet ($3) returned to Opal10
+Opal10 collected $11.76 from pot
+Opal10: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kh 7h 3s]
+Seat 2: DismasX (big blind) folded on the Flop
+Seat 6: Opal10 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #169400231551:  Hold'em Limit ($3/$6 USD) - 2017/04/22 11:16:47 ET
+Table 'Zwetana' 6-max Seat #2 is the button
+Seat 2: DismasX ($123.89 in chips)
+Seat 6: Opal10 ($78.26 in chips)
+DismasX: posts small blind $1
+Opal10: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl leaves the table
+DismasX: raises $3 to $6
+Opal10: calls $3
+*** FLOP *** [4c 5h Kd]
+Opal10: bets $3
+DismasX: calls $3
+*** TURN *** [4c 5h Kd] [Th]
+Opal10: bets $6
+DismasX: raises $6 to $12
+Opal10: calls $6
+*** RIVER *** [4c 5h Kd Th] [Ac]
+Opal10: bets $6
+DismasX: calls $6
+*** SHOW DOWN ***
+Opal10: shows [Js Ad] (a pair of Aces)
+DismasX: mucks hand
+Opal10 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [4c 5h Kd Th Ac]
+Seat 2: DismasX (button) (small blind) mucked
+Seat 6: Opal10 (big blind) showed [Js Ad] and won ($53.50) with a pair of Aces
+
+
+PokerStars Hand #169400248901:  Hold'em Limit ($3/$6 USD) - 2017/04/22 11:17:13 ET
+Table 'Zwetana' 6-max Seat #2 is the button
+Seat 2: DismasX ($99.89 in chips)
+Seat 6: Opal10 ($101.76 in chips)
+DismasX: posts small blind $1
+Opal10: posts big blind $3
+*** HOLE CARDS ***
+DismasX: raises $3 to $6
+Opal10: raises $3 to $9
+DismasX: calls $3
+*** FLOP *** [2h 2c Th]
+Opal10: bets $3
+DismasX: calls $3
+*** TURN *** [2h 2c Th] [Td]
+Opal10: bets $6
+DismasX: raises $6 to $12
+Opal10: calls $6
+*** RIVER *** [2h 2c Th Td] [4h]
+kolaz03 joins the table at seat #1
+Opal10: bets $6
+DismasX: calls $6
+*** SHOW DOWN ***
+Opal10: shows [Ah Jd] (two pair, Tens and Deuces)
+DismasX: shows [7h 7d] (two pair, Tens and Sevens)
+DismasX collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [2h 2c Th Td 4h]
+Seat 2: DismasX (button) (small blind) showed [7h 7d] and won ($59.50) with two pair, Tens and Sevens
+Seat 6: Opal10 (big blind) showed [Ah Jd] and lost with two pair, Tens and Deuces
+
+
+PokerStars Hand #169400243060:  Hold'em Limit ($3/$6 USD) - 2017/04/22 11:17:04 ET
+Table 'Zwetana' 6-max Seat #6 is the button
+Seat 2: DismasX ($96.89 in chips)
+Seat 6: Opal10 ($104.76 in chips)
+Opal10: posts small blind $1
+DismasX: posts big blind $3
+*** HOLE CARDS ***
+Opal10: calls $2
+DismasX: raises $3 to $6
+Opal10: folds
+Uncalled bet ($3) returned to DismasX
+DismasX collected $6 from pot
+DismasX: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: DismasX (big blind) collected ($6)
+Seat 6: Opal10 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #169404496046:  Hold'em Limit ($3/$6 USD) - 2017/04/22 12:54:10 ET
+Table 'Zwetana' 6-max Seat #2 is the button
+Seat 2: makimaki ($71.92 in chips)
+Seat 5: Great_Kang ($195.16 in chips)
+makimaki: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+makimaki: folds
+Uncalled bet ($2) returned to Great_Kang
+Great_Kang collected $2 from pot
+Great_Kang: doesn't show hand
+vestimokrec leaves the table
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: makimaki (button) (small blind) folded before Flop
+Seat 5: Great_Kang (big blind) collected ($2)
+
+
+PokerStars Hand #169404491851:  Hold'em Limit ($3/$6 USD) - 2017/04/22 12:54:05 ET
+Table 'Zwetana' 6-max Seat #5 is the button
+Seat 2: makimaki ($74.92 in chips)
+Seat 5: Great_Kang ($192.16 in chips)
+Great_Kang: posts small blind $1
+vestimokrec: is sitting out
+makimaki: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+makimaki: folds
+Uncalled bet ($3) returned to Great_Kang
+Great_Kang collected $6 from pot
+Great_Kang: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: makimaki (big blind) folded before Flop
+Seat 5: Great_Kang (button) (small blind) collected ($6)
+
+

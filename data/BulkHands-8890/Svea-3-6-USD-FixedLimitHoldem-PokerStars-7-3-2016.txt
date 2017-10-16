@@ -1,0 +1,31 @@
+PokerStars Hand #155490410708:  Hold'em Limit ($3/$6 USD) - 2016/07/02 22:00:37 ET
+Table 'Svea' 10-max Seat #2 is the button
+Seat 2: RJF1943 ($42.25 in chips)
+Seat 6: AzureCaper ($78.61 in chips)
+RJF1943: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+RJF1943: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [Jc 9d 8c]
+AzureCaper: bets $3
+RJF1943: raises $3 to $6
+AzureCaper: calls $3
+*** TURN *** [Jc 9d 8c] [4d]
+AzureCaper: checks
+RJF1943: bets $6
+AzureCaper: calls $6
+*** RIVER *** [Jc 9d 8c 4d] [As]
+AzureCaper: checks
+RJF1943: checks
+*** SHOW DOWN ***
+AzureCaper: shows [Th 5h] (high card Ace)
+RJF1943: shows [8h Kh] (a pair of Eights)
+RJF1943 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Jc 9d 8c 4d As]
+Seat 2: RJF1943 (button) (small blind) showed [8h Kh] and won ($35.50) with a pair of Eights
+Seat 6: AzureCaper (big blind) showed [Th 5h] and lost with high card Ace
+
+

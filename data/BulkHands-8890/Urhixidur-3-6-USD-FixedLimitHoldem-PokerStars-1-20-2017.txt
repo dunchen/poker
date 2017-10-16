@@ -1,0 +1,33 @@
+PokerStars Hand #164874235369:  Hold'em Limit ($3/$6 USD) - 2017/01/20 7:36:02 ET
+Table 'Urhixidur' 6-max Seat #1 is the button
+Seat 1: tony42824 ($120 in chips)
+Seat 4: Agrotait ($72 in chips)
+tony42824: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+tony42824: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [Qh 6s As]
+Agrotait: checks
+tony42824: bets $3
+Agrotait: calls $3
+*** TURN *** [Qh 6s As] [Ts]
+Agrotait: checks
+tony42824: bets $6
+fsreibnitz joins the table at seat #3
+Agrotait: raises $6 to $12
+tony42824: calls $6
+*** RIVER *** [Qh 6s As Ts] [9c]
+Agrotait: bets $6
+tony42824: calls $6
+*** SHOW DOWN ***
+Agrotait: shows [Ks Jh] (a straight, Ten to Ace)
+tony42824: mucks hand
+Agrotait collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Qh 6s As Ts 9c]
+Seat 1: tony42824 (button) (small blind) mucked
+Seat 4: Agrotait (big blind) showed [Ks Jh] and won ($53.50) with a straight, Ten to Ace
+
+

@@ -1,0 +1,58 @@
+PokerStars Hand #145072110553:  Hold'em Limit ($3/$6 USD) - 2015/12/09 9:57:18 ET
+Table 'Nipponia IV' 6-max Seat #3 is the button
+Seat 3: superYan3 ($121 in chips)
+Seat 4: Agrotait ($71 in chips)
+superYan3: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+superYan3: raises $3 to $6
+Agrotait: raises $3 to $9
+superYan3: calls $3
+*** FLOP *** [Tc 9h Ad]
+Agrotait: bets $3
+superYan3: calls $3
+*** TURN *** [Tc 9h Ad] [5c]
+Agrotait: checks
+superYan3: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to superYan3
+superYan3 collected $23.52 from pot
+superYan3: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Tc 9h Ad 5c]
+Seat 3: superYan3 (button) (small blind) collected ($23.52)
+Seat 4: Agrotait (big blind) folded on the Turn
+
+
+PokerStars Hand #145075779453:  Hold'em Limit ($3/$6 USD) - 2015/12/09 11:22:28 ET
+Table 'Nipponia IV' 6-max Seat #6 is the button
+Seat 5: B_loJkl ($150 in chips)
+Seat 6: PycV ($154 in chips)
+PycV: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+PycV: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [6h 8s 4h]
+LukaSteel leaves the table
+B_loJkl: checks
+PycV: bets $3
+B_loJkl: calls $3
+*** TURN *** [6h 8s 4h] [3h]
+B_loJkl: checks
+PycV: checks
+*** RIVER *** [6h 8s 4h 3h] [Qd]
+B_loJkl: checks
+PycV: checks
+*** SHOW DOWN ***
+B_loJkl: shows [Kd 5d] (high card King)
+PycV: mucks hand
+B_loJkl collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6h 8s 4h 3h Qd]
+Seat 5: B_loJkl (big blind) showed [Kd 5d] and won ($17.64) with high card King
+Seat 6: PycV (button) (small blind) mucked
+
+

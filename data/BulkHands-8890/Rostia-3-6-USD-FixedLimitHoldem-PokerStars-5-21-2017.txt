@@ -1,0 +1,109 @@
+PokerStars Hand #170709627609:  Hold'em Limit ($3/$6 USD) - 2017/05/21 6:31:48 ET
+Table 'Rostia' 10-max Seat #6 is the button
+Seat 6: mbr1977 ($142.38 in chips)
+Seat 7: VolkovDmitri ($120 in chips)
+mbr1977: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+mbr1977: calls $2
+VolkovDmitri: raises $3 to $6
+mbr1977: calls $3
+*** FLOP *** [3s 5h 3d]
+VolkovDmitri: bets $3
+belik555 joins the table at seat #8
+mbr1977: calls $3
+*** TURN *** [3s 5h 3d] [7s]
+VolkovDmitri: bets $6
+mbr1977: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $17.64 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3s 5h 3d 7s]
+Seat 6: mbr1977 (button) (small blind) folded on the Turn
+Seat 7: VolkovDmitri (big blind) collected ($17.64)
+
+
+PokerStars Hand #170709910577:  Hold'em Limit ($3/$6 USD) - 2017/05/21 6:42:28 ET
+Table 'Rostia' 10-max Seat #8 is the button
+Seat 7: VolkovDmitri ($124.02 in chips)
+Seat 8: belik555 ($265.07 in chips)
+belik555: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+belik555: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 7: VolkovDmitri (big blind) collected ($2)
+Seat 8: belik555 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #170714447267:  Hold'em Limit ($3/$6 USD) - 2017/05/21 9:12:43 ET
+Table 'Rostia' 10-max Seat #7 is the button
+Seat 7: VolkovDmitri ($125.02 in chips)
+Seat 8: KUZNEC111 ($120 in chips)
+VolkovDmitri: posts small blind $1
+KUZNEC111: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+KUZNEC111: raises $3 to $9
+vestimokrec joins the table at seat #9
+VolkovDmitri: calls $3
+*** FLOP *** [Qh 4h 6c]
+KUZNEC111: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [Qh 4h 6c] [2d]
+Krazy90 joins the table at seat #10
+KUZNEC111: bets $6
+VolkovDmitri: raises $6 to $12
+KUZNEC111: calls $6
+*** RIVER *** [Qh 4h 6c 2d] [4s]
+KUZNEC111: checks
+VolkovDmitri: bets $6
+KUZNEC111: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $47.50 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Qh 4h 6c 2d 4s]
+Seat 7: VolkovDmitri (button) (small blind) collected ($47.50)
+Seat 8: KUZNEC111 (big blind) folded on the River
+
+
+PokerStars Hand #170715172615:  Hold'em Limit ($3/$6 USD) - 2017/05/21 9:32:08 ET
+Table 'Rostia' 10-max Seat #6 is the button
+Seat 1: komornik ($144.81 in chips)
+Seat 6: HAL9QQQ ($139.38 in chips)
+HAL9QQQ: posts small blind $1
+vestimokrec: is sitting out
+komornik: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec leaves the table
+HAL9QQQ: raises $3 to $6
+komornik: raises $3 to $9
+HAL9QQQ: calls $3
+*** FLOP *** [Qc 2s 6d]
+komornik: bets $3
+HAL9QQQ: calls $3
+*** TURN *** [Qc 2s 6d] [5s]
+komornik: bets $6
+HAL9QQQ: calls $6
+*** RIVER *** [Qc 2s 6d 5s] [6c]
+komornik: checks
+HAL9QQQ: checks
+*** SHOW DOWN ***
+komornik: shows [3s Kh] (a pair of Sixes)
+HAL9QQQ: shows [Ac 8s] (a pair of Sixes - Ace kicker)
+HAL9QQQ collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Qc 2s 6d 5s 6c]
+Seat 1: komornik (big blind) showed [3s Kh] and lost with a pair of Sixes
+Seat 6: HAL9QQQ (button) (small blind) showed [Ac 8s] and won ($35.50) with a pair of Sixes
+
+

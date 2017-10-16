@@ -1,0 +1,73 @@
+PokerStars Hand #147990443284:  Hold'em Limit ($3/$6 USD) - 2016/01/31 9:24:43 ET
+Table 'Halley III' 6-max Seat #1 is the button
+Seat 1: MusicalClown ($78 in chips)
+Seat 5: db49 ($44.38 in chips)
+MusicalClown: posts small blind $1
+db49: posts big blind $3
+*** HOLE CARDS ***
+MusicalClown: raises $3 to $6
+db49: raises $3 to $9
+MusicalClown: calls $3
+*** FLOP *** [9s 7h Jc]
+db49: bets $3
+MusicalClown: raises $3 to $6
+db49: calls $3
+*** TURN *** [9s 7h Jc] [7s]
+db49: checks
+B_loJkl joins the table at seat #6
+MusicalClown: checks
+*** RIVER *** [9s 7h Jc 7s] [5d]
+mr.dockuda joins the table at seat #2
+db49: checks
+MusicalClown: checks
+*** SHOW DOWN ***
+db49: shows [Kd As] (a pair of Sevens)
+MusicalClown: mucks hand
+db49 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9s 7h Jc 7s 5d]
+Seat 1: MusicalClown (button) (small blind) mucked
+Seat 5: db49 (big blind) showed [Kd As] and won ($29.50) with a pair of Sevens
+
+
+PokerStars Hand #147990691374:  Hold'em Limit ($3/$6 USD) - 2016/01/31 9:29:35 ET
+Table 'Halley III' 6-max Seat #6 is the button
+Seat 2: mr.dockuda ($42.59 in chips)
+Seat 6: B_loJkl ($170.42 in chips)
+B_loJkl: posts small blind $1
+mr.dockuda: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: folds
+Uncalled bet ($2) returned to mr.dockuda
+mr.dockuda collected $2 from pot
+mr.dockuda: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: mr.dockuda (big blind) collected ($2)
+Seat 6: B_loJkl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147990675661:  Hold'em Limit ($3/$6 USD) - 2016/01/31 9:29:17 ET
+Table 'Halley III' 6-max Seat #2 is the button
+Seat 2: mr.dockuda ($39.71 in chips)
+Seat 6: B_loJkl ($173.42 in chips)
+mr.dockuda: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+mr.dockuda: calls $2
+B_loJkl: checks
+*** FLOP *** [Ad 5h 7h]
+B_loJkl: checks
+mr.dockuda: bets $3
+B_loJkl: folds
+Uncalled bet ($3) returned to mr.dockuda
+mr.dockuda collected $5.88 from pot
+mr.dockuda: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Ad 5h 7h]
+Seat 2: mr.dockuda (button) (small blind) collected ($5.88)
+Seat 6: B_loJkl (big blind) folded on the Flop
+
+

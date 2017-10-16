@@ -1,0 +1,106 @@
+PokerStars Hand #165929257783:  Hold'em Limit ($3/$6 USD) - 2017/02/09 8:04:42 ET
+Table 'Rhea II' 6-max Seat #3 is the button
+Seat 1: flush_entry ($78 in chips)
+Seat 3: Rus29APX ($121 in chips)
+Rus29APX: posts small blind $1
+flush_entry: posts big blind $3
+*** HOLE CARDS ***
+Rus29APX: raises $3 to $6
+sim5sim5 leaves the table
+flush_entry: calls $3
+*** FLOP *** [2c Js 2d]
+flush_entry: checks
+Rus29APX: bets $3
+flush_entry: calls $3
+*** TURN *** [2c Js 2d] [3s]
+flush_entry: checks
+Rus29APX: bets $6
+flush_entry: calls $6
+*** RIVER *** [2c Js 2d 3s] [Kd]
+flush_entry: checks
+Rus29APX: bets $6
+flush_entry: calls $6
+*** SHOW DOWN ***
+Rus29APX: shows [Jd 7d] (two pair, Jacks and Deuces)
+flush_entry: shows [Td Jc] (two pair, Jacks and Deuces)
+flush_entry collected $20.75 from pot
+Rus29APX collected $20.75 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2c Js 2d 3s Kd]
+Seat 1: flush_entry (big blind) showed [Td Jc] and won ($20.75) with two pair, Jacks and Deuces
+Seat 3: Rus29APX (button) (small blind) showed [Jd 7d] and won ($20.75) with two pair, Jacks and Deuces
+
+
+PokerStars Hand #165929275044:  Hold'em Limit ($3/$6 USD) - 2017/02/09 8:05:13 ET
+Table 'Rhea II' 6-max Seat #1 is the button
+Seat 1: flush_entry ($78 in chips)
+Seat 3: Rus29APX ($120.75 in chips)
+flush_entry: posts small blind $1
+Rus29APX: posts big blind $3
+*** HOLE CARDS ***
+flush_entry: raises $3 to $6
+Rus29APX: raises $3 to $9
+flush_entry: calls $3
+*** FLOP *** [9c 9h 2c]
+Rus29APX: bets $3
+ChaseMeIfUC joins the table at seat #6
+flush_entry: calls $3
+*** TURN *** [9c 9h 2c] [6s]
+Rus29APX: bets $6
+belik555 joins the table at seat #2
+flush_entry: folds
+Uncalled bet ($6) returned to Rus29APX
+Rus29APX collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [9c 9h 2c 6s]
+Seat 1: flush_entry (button) (small blind) folded on the Turn
+Seat 3: Rus29APX (big blind) collected ($23.52)
+
+
+PokerStars Hand #165939983489:  Hold'em Limit ($3/$6 USD) - 2017/02/09 12:21:02 ET
+Table 'Rhea II' 6-max Seat #4 is the button
+Seat 4: Fabulous108 ($25.87 in chips)
+Seat 5: fender676 ($432.82 in chips)
+Fabulous108: posts small blind $1
+fender676: posts big blind $3
+*** HOLE CARDS ***
+Fabulous108: raises $3 to $6
+fender676: raises $3 to $9
+Fabulous108: calls $3
+*** FLOP *** [9c 8h 6c]
+fender676: bets $3
+Fabulous108: raises $3 to $6
+fender676: calls $3
+*** TURN *** [9c 8h 6c] [4h]
+fender676: checks
+Fabulous108: bets $6
+fender676: folds
+Uncalled bet ($6) returned to Fabulous108
+Fabulous108 collected $29.50 from pot
+Fabulous108: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9c 8h 6c 4h]
+Seat 4: Fabulous108 (button) (small blind) collected ($29.50)
+Seat 5: fender676 (big blind) folded on the Turn
+
+
+PokerStars Hand #165939978686:  Hold'em Limit ($3/$6 USD) - 2017/02/09 12:20:56 ET
+Table 'Rhea II' 6-max Seat #5 is the button
+Seat 4: Fabulous108 ($24.87 in chips)
+Seat 5: fender676 ($433.82 in chips)
+fender676: posts small blind $1
+Fabulous108: posts big blind $3
+*** HOLE CARDS ***
+fender676: folds
+Uncalled bet ($2) returned to Fabulous108
+Fabulous108 collected $2 from pot
+Fabulous108: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: Fabulous108 (big blind) collected ($2)
+Seat 5: fender676 (button) (small blind) folded before Flop
+
+

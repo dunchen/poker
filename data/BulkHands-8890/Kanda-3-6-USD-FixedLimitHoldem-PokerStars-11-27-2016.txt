@@ -1,0 +1,50 @@
+PokerStars Hand #162024551377:  Hold'em Limit ($3/$6 USD) - 2016/11/27 1:36:05 ET
+Table 'Kanda' 10-max Seat #4 is the button
+Seat 4: ExtraResistance ($300 in chips)
+Seat 5: sim5sim5 ($72 in chips)
+ExtraResistance: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+ExtraResistance: folds
+Uncalled bet ($2) returned to sim5sim5
+sim5sim5 collected $2 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: ExtraResistance (button) (small blind) folded before Flop
+Seat 5: sim5sim5 (big blind) collected ($2)
+
+
+PokerStars Hand #162024561231:  Hold'em Limit ($3/$6 USD) - 2016/11/27 1:36:10 ET
+Table 'Kanda' 10-max Seat #5 is the button
+Seat 4: ExtraResistance ($299 in chips)
+Seat 5: sim5sim5 ($73 in chips)
+sim5sim5: posts small blind $1
+ExtraResistance: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+ExtraResistance: calls $3
+*** FLOP *** [9s Jc 7d]
+Agrotait leaves the table
+ExtraResistance: checks
+sim5sim5: bets $3
+ExtraResistance: calls $3
+*** TURN *** [9s Jc 7d] [9c]
+ExtraResistance: checks
+sim5sim5: bets $6
+ExtraResistance: calls $6
+*** RIVER *** [9s Jc 7d 9c] [Tc]
+ExtraResistance: checks
+sim5sim5: bets $6
+ExtraResistance: calls $6
+*** SHOW DOWN ***
+sim5sim5: shows [Jh 8s] (a straight, Seven to Jack)
+ExtraResistance: mucks hand
+sim5sim5 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9s Jc 7d 9c Tc]
+Seat 4: ExtraResistance (big blind) mucked
+Seat 5: sim5sim5 (button) (small blind) showed [Jh 8s] and won ($41.50) with a straight, Seven to Jack
+
+

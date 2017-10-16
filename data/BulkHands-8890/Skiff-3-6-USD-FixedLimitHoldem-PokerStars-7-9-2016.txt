@@ -1,0 +1,34 @@
+PokerStars Hand #155746523030:  Hold'em Limit ($3/$6 USD) - 2016/07/09 6:49:30 ET
+Table 'Skiff' 6-max Seat #4 is the button
+Seat 4: jackRizzar ($180.07 in chips)
+Seat 6: Tryptamean ($419.30 in chips)
+jackRizzar: posts small blind $1
+masterblstr8: is sitting out
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+masterblstr8 leaves the table
+jackRizzar: raises $3 to $6
+Tryptamean: calls $3
+*** FLOP *** [Qs Jc 5h]
+Tryptamean: checks
+jackRizzar: bets $3
+Tryptamean: raises $3 to $6
+jackRizzar: calls $3
+*** TURN *** [Qs Jc 5h] [Td]
+Tryptamean: bets $6
+jackRizzar: calls $6
+*** RIVER *** [Qs Jc 5h Td] [5s]
+Tryptamean: checks
+jackRizzar: bets $6
+Tryptamean: calls $6
+*** SHOW DOWN ***
+jackRizzar: shows [7d Qh] (two pair, Queens and Fives)
+Tryptamean: mucks hand
+jackRizzar collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Qs Jc 5h Td 5s]
+Seat 4: jackRizzar (button) (small blind) showed [7d Qh] and won ($47.50) with two pair, Queens and Fives
+Seat 6: Tryptamean (big blind) mucked
+
+

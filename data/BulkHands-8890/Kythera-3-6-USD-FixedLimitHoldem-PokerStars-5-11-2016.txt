@@ -1,0 +1,60 @@
+PokerStars Hand #153147893282:  Hold'em Limit ($3/$6 USD) - 2016/05/11 2:43:58 ET
+Table 'Kythera' 6-max Seat #1 is the button
+Seat 1: kuku4a ($30 in chips)
+Seat 4: Agrotait ($72 in chips)
+kuku4a: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+Ag3r0n joins the table at seat #2
+kuku4a: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [Ts Ac 2h]
+Agrotait: checks
+kuku4a: checks
+*** TURN *** [Ts Ac 2h] [7s]
+Agrotait: bets $6
+kuku4a: calls $6
+*** RIVER *** [Ts Ac 2h 7s] [Js]
+Agrotait: checks
+kuku4a: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to kuku4a
+kuku4a collected $23.52 from pot
+kuku4a: shows [Ad As] (three of a kind, Aces)
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Ts Ac 2h 7s Js]
+Seat 1: kuku4a (button) (small blind) collected ($23.52)
+Seat 4: Agrotait (big blind) folded on the River
+
+
+PokerStars Hand #153147921284:  Hold'em Limit ($3/$6 USD) - 2016/05/11 2:45:47 ET
+Table 'Kythera' 6-max Seat #4 is the button
+Seat 2: Ag3r0n ($86.10 in chips)
+Seat 4: Agrotait ($72 in chips)
+belik555 will be allowed to play after the button
+Agrotait: posts small blind $1
+Ag3r0n: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+Ag3r0n: calls $3
+*** FLOP *** [Jc 2s Jd]
+Ag3r0n: checks
+Agrotait: bets $3
+Ag3r0n: raises $3 to $6
+Agrotait: calls $3
+*** TURN *** [Jc 2s Jd] [8s]
+Ag3r0n: bets $6
+Agrotait: calls $6
+*** RIVER *** [Jc 2s Jd 8s] [3d]
+Ag3r0n: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to Ag3r0n
+Ag3r0n collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Jc 2s Jd 8s 3d]
+Seat 2: Ag3r0n (big blind) collected ($35.50)
+Seat 4: Agrotait (button) (small blind) folded on the River
+
+

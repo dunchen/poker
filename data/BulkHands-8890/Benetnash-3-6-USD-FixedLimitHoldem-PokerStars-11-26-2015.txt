@@ -1,0 +1,107 @@
+PokerStars Hand #144391429484:  Hold'em Limit ($3/$6 USD) - 2015/11/25 20:55:14 ET
+Table 'Benetnash' 2-max Seat #2 is the button
+Seat 1: SmellyToes4u ($98 in chips)
+Seat 2: RealiQ ($30 in chips)
+RealiQ: posts small blind $1
+SmellyToes4u: posts big blind $3
+*** HOLE CARDS ***
+RealiQ: raises $3 to $6
+SmellyToes4u: raises $3 to $9
+RealiQ: raises $3 to $12
+Betting is capped
+SmellyToes4u: calls $3
+*** FLOP *** [4h Ah 3s]
+SmellyToes4u: checks
+RealiQ: checks
+*** TURN *** [4h Ah 3s] [Jh]
+SmellyToes4u: bets $6
+RealiQ: calls $6
+*** RIVER *** [4h Ah 3s Jh] [Ks]
+SmellyToes4u: bets $6
+RealiQ: raises $6 to $12 and is all-in
+SmellyToes4u: calls $6
+*** SHOW DOWN ***
+RealiQ: shows [Tc As] (a pair of Aces)
+SmellyToes4u: shows [8h 7h] (a flush, Ace high)
+SmellyToes4u collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [4h Ah 3s Jh Ks]
+Seat 1: SmellyToes4u (big blind) showed [8h 7h] and won ($59.50) with a flush, Ace high
+Seat 2: RealiQ (button) (small blind) showed [Tc As] and lost with a pair of Aces
+
+
+PokerStars Hand #144394609008:  Hold'em Limit ($3/$6 USD) - 2015/11/25 23:21:44 ET
+Table 'Benetnash' 6-max Seat #1 is the button
+Seat 1: alexslep ($167.74 in chips)
+Seat 3: Shapizzzy ($326.38 in chips)
+alexslep: posts small blind $1
+Shapizzzy: posts big blind $3
+*** HOLE CARDS ***
+alexslep: raises $3 to $6
+Shapizzzy: calls $3
+*** FLOP *** [3c 3d 3s]
+Shapizzzy: checks
+alexslep: bets $3
+Shapizzzy: folds
+Uncalled bet ($3) returned to alexslep
+stronghawk leaves the table
+alexslep collected $11.76 from pot
+alexslep: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3c 3d 3s]
+Seat 1: alexslep (button) (small blind) collected ($11.76)
+Seat 3: Shapizzzy (big blind) folded on the Flop
+
+
+PokerStars Hand #144394606823:  Hold'em Limit ($3/$6 USD) - 2015/11/25 23:21:37 ET
+Table 'Benetnash' 6-max Seat #3 is the button
+Seat 1: alexslep ($170.74 in chips)
+Seat 3: Shapizzzy ($323.38 in chips)
+Shapizzzy: posts small blind $1
+stronghawk: is sitting out
+alexslep: posts big blind $3
+*** HOLE CARDS ***
+Shapizzzy: raises $3 to $6
+alexslep: folds
+Uncalled bet ($3) returned to Shapizzzy
+Shapizzzy collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: alexslep (big blind) folded before Flop
+Seat 3: Shapizzzy (button) (small blind) collected ($6)
+
+
+PokerStars Hand #144394613193:  Hold'em Limit ($3/$6 USD) - 2015/11/25 23:21:59 ET
+Table 'Benetnash' 6-max Seat #3 is the button
+Seat 1: alexslep ($173.50 in chips)
+Seat 3: Shapizzzy ($320.38 in chips)
+Shapizzzy: posts small blind $1
+alexslep: posts big blind $3
+*** HOLE CARDS ***
+Shapizzzy: raises $3 to $6
+alexslep: calls $3
+*** FLOP *** [4c 2h 2s]
+alexslep: checks
+Shapizzzy: bets $3
+alexslep: calls $3
+*** TURN *** [4c 2h 2s] [7s]
+alexslep: checks
+Shapizzzy: bets $6
+alexslep: calls $6
+*** RIVER *** [4c 2h 2s 7s] [Td]
+alexslep: checks
+Shapizzzy: bets $6
+alexslep: calls $6
+*** SHOW DOWN ***
+Shapizzzy: shows [7d 5s] (two pair, Sevens and Deuces)
+alexslep: mucks hand
+Shapizzzy collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [4c 2h 2s 7s Td]
+Seat 1: alexslep (big blind) mucked
+Seat 3: Shapizzzy (button) (small blind) showed [7d 5s] and won ($41.50) with two pair, Sevens and Deuces
+
+

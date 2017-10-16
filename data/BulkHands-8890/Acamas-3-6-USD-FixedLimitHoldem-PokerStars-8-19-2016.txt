@@ -1,0 +1,81 @@
+PokerStars Hand #157467586932:  Hold'em Limit ($3/$6 USD) - 2016/08/19 8:24:59 ET
+Table 'Acamas' 6-max Seat #3 is the button
+Seat 3: robertass84 ($150.54 in chips)
+Seat 4: VolkovDmitri ($137.66 in chips)
+robertass84: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+robertass84: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: robertass84 (button) (small blind) folded before Flop
+Seat 4: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #157467588946:  Hold'em Limit ($3/$6 USD) - 2016/08/19 8:25:04 ET
+Table 'Acamas' 6-max Seat #4 is the button
+Seat 3: robertass84 ($149.54 in chips)
+Seat 4: VolkovDmitri ($138.66 in chips)
+VolkovDmitri: posts small blind $1
+robertass84: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+robertass84: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [As Kh 3s]
+robertass84: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [As Kh 3s] [Qc]
+robertass84: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [As Kh 3s Qc] [3h]
+robertass84: bets $6
+VolkovDmitri: raises $6 to $12
+robertass84: raises $6 to $18
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+robertass84: shows [Ah Ad] (a full house, Aces full of Threes)
+VolkovDmitri: mucks hand
+robertass84 collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [As Kh 3s Qc 3h]
+Seat 3: robertass84 (big blind) showed [Ah Ad] and won ($71.50) with a full house, Aces full of Threes
+Seat 4: VolkovDmitri (button) (small blind) mucked
+
+
+PokerStars Hand #157467601482:  Hold'em Limit ($3/$6 USD) - 2016/08/19 8:25:30 ET
+Table 'Acamas' 6-max Seat #3 is the button
+Seat 3: robertass84 ($185.04 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+robertass84: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+robertass84: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+robertass84: calls $3
+*** FLOP *** [Jd 6h Ac]
+VolkovDmitri: bets $3
+robertass84: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [Jd 6h Ac] [3s]
+VolkovDmitri: checks
+robertass84: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [Jd 6h Ac 3s] [5c]
+VolkovDmitri: checks
+robertass84: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+robertass84: shows [Ah 6d] (two pair, Aces and Sixes)
+VolkovDmitri: mucks hand
+robertass84 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Jd 6h Ac 3s 5c]
+Seat 3: robertass84 (button) (small blind) showed [Ah 6d] and won ($53.50) with two pair, Aces and Sixes
+Seat 4: VolkovDmitri (big blind) mucked
+
+

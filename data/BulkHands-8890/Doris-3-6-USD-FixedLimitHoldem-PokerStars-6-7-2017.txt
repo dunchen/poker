@@ -1,0 +1,152 @@
+PokerStars Hand #171456451465:  Hold'em Limit ($3/$6 USD) - 2017/06/07 6:31:49 ET
+Table 'Doris' 6-max Seat #4 is the button
+Seat 4: MTails ($120 in chips)
+Seat 5: popesxxx ($32.59 in chips)
+MTails: posts small blind $1
+popesxxx: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+popesxxx: calls $3
+*** FLOP *** [8s Qs 6c]
+popesxxx: checks
+MTails: bets $3
+popesxxx: calls $3
+*** TURN *** [8s Qs 6c] [Ts]
+popesxxx: checks
+MTails: bets $6
+popesxxx: raises $6 to $12
+MTails: calls $6
+*** RIVER *** [8s Qs 6c Ts] [5c]
+popesxxx: bets $6
+MTails: raises $6 to $12
+popesxxx: calls $5.59 and is all-in
+Uncalled bet ($0.41) returned to MTails
+*** SHOW DOWN ***
+MTails: shows [2h Qh] (a pair of Queens)
+popesxxx: shows [Js 8d] (a pair of Eights)
+MTails collected $64.68 from pot
+*** SUMMARY ***
+Total pot $65.18 | Rake $0.50
+Board [8s Qs 6c Ts 5c]
+Seat 4: MTails (button) (small blind) showed [2h Qh] and won ($64.68) with a pair of Queens
+Seat 5: popesxxx (big blind) showed [Js 8d] and lost with a pair of Eights
+
+
+PokerStars Hand #171456472463:  Hold'em Limit ($3/$6 USD) - 2017/06/07 6:32:43 ET
+Table 'Doris' 6-max Seat #5 is the button
+Seat 4: MTails ($152.09 in chips)
+Seat 5: popesxxx ($30 in chips)
+popesxxx: posts small blind $1
+NAUTJE1337 joins the table at seat #3
+MTails: posts big blind $3
+*** HOLE CARDS ***
+popesxxx: calls $2
+MTails: checks
+*** FLOP *** [Kd 2s Jc]
+MTails: checks
+popesxxx: checks
+*** TURN *** [Kd 2s Jc] [6s]
+MTails: checks
+popesxxx: checks
+*** RIVER *** [Kd 2s Jc 6s] [Qh]
+MTails: checks
+popesxxx: bets $6
+MTails: calls $6
+*** SHOW DOWN ***
+popesxxx: shows [7h Kc] (a pair of Kings)
+MTails: mucks hand
+popesxxx collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kd 2s Jc 6s Qh]
+Seat 4: MTails (big blind) mucked
+Seat 5: popesxxx (button) (small blind) showed [7h Kc] and won ($17.64) with a pair of Kings
+
+
+PokerStars Hand #171456479972:  Hold'em Limit ($3/$6 USD) - 2017/06/07 6:33:02 ET
+Table 'Doris' 6-max Seat #4 is the button
+Seat 4: MTails ($143.09 in chips)
+Seat 5: popesxxx ($38.64 in chips)
+MTails: posts small blind $1
+popesxxx: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+popesxxx: calls $3
+*** FLOP *** [7h Qc Tc]
+popesxxx: checks
+Agrotait joins the table at seat #6
+MTails: bets $3
+popesxxx: calls $3
+*** TURN *** [7h Qc Tc] [Td]
+popesxxx: checks
+MTails: checks
+*** RIVER *** [7h Qc Tc Td] [2c]
+popesxxx: checks
+MTails: checks
+*** SHOW DOWN ***
+popesxxx: shows [4c 4d] (two pair, Tens and Fours)
+MTails: mucks hand
+popesxxx collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7h Qc Tc Td 2c]
+Seat 4: MTails (button) (small blind) mucked
+Seat 5: popesxxx (big blind) showed [4c 4d] and won ($17.64) with two pair, Tens and Fours
+
+
+PokerStars Hand #171456726593:  Hold'em Limit ($3/$6 USD) - 2017/06/07 6:43:18 ET
+Table 'Doris' 6-max Seat #3 is the button
+Seat 3: NAUTJE1337 ($64.46 in chips)
+Seat 4: MTails ($53.64 in chips)
+NAUTJE1337: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+NAUTJE1337: calls $2
+Velbor107 joins the table at seat #5
+MTails: checks
+*** FLOP *** [Th Qc 7c]
+MTails: bets $3
+NAUTJE1337: folds
+Uncalled bet ($3) returned to MTails
+MTails collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Th Qc 7c]
+Seat 3: NAUTJE1337 (button) (small blind) folded on the Flop
+Seat 4: MTails (big blind) collected ($5.88)
+
+
+PokerStars Hand #171456712590:  Hold'em Limit ($3/$6 USD) - 2017/06/07 6:42:43 ET
+Table 'Doris' 6-max Seat #4 is the button
+Seat 3: NAUTJE1337 ($32.48 in chips)
+Seat 4: MTails ($86.12 in chips)
+MTails: posts small blind $1
+Agrotait: is sitting out
+NAUTJE1337: posts big blind $3
+*** HOLE CARDS ***
+Agrotait leaves the table
+MTails: raises $3 to $6
+NAUTJE1337: raises $3 to $9
+MTails: calls $3
+*** FLOP *** [4h 2d 4s]
+NAUTJE1337: bets $3
+MTails: calls $3
+*** TURN *** [4h 2d 4s] [5s]
+NAUTJE1337: bets $6
+MTails: raises $6 to $12
+NAUTJE1337: raises $6 to $18
+MTails: calls $6
+*** RIVER *** [4h 2d 4s 5s] [Td]
+NAUTJE1337: bets $2.48 and is all-in
+MTails: calls $2.48
+*** SHOW DOWN ***
+NAUTJE1337: shows [Ad 3h] (a straight, Ace to Five)
+MTails: shows [8h Jh] (a pair of Fours)
+NAUTJE1337 collected $64.46 from pot
+*** SUMMARY ***
+Total pot $64.96 | Rake $0.50
+Board [4h 2d 4s 5s Td]
+Seat 3: NAUTJE1337 (big blind) showed [Ad 3h] and won ($64.46) with a straight, Ace to Five
+Seat 4: MTails (button) (small blind) showed [8h Jh] and lost with a pair of Fours
+
+

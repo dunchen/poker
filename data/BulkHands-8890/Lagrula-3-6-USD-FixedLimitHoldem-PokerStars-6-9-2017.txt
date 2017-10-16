@@ -1,0 +1,798 @@
+PokerStars Hand #171536251356:  Hold'em Limit ($3/$6 USD) - 2017/06/09 0:33:03 ET
+Table 'Lagrula' 6-max Seat #4 is the button
+Seat 4: shushlo ($72 in chips)
+Seat 5: turtlespit ($60 in chips)
+shushlo: posts small blind $1
+turtlespit: posts big blind $3
+*** HOLE CARDS ***
+shushlo: raises $3 to $6
+turtlespit: calls $3
+*** FLOP *** [Qh Js 6d]
+turtlespit: checks
+shushlo: bets $3
+turtlespit: folds
+Uncalled bet ($3) returned to shushlo
+shushlo collected $11.76 from pot
+shushlo: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qh Js 6d]
+Seat 4: shushlo (button) (small blind) collected ($11.76)
+Seat 5: turtlespit (big blind) folded on the Flop
+
+
+PokerStars Hand #171536263910:  Hold'em Limit ($3/$6 USD) - 2017/06/09 0:33:22 ET
+Table 'Lagrula' 6-max Seat #5 is the button
+Seat 4: shushlo ($77.76 in chips)
+Seat 5: turtlespit ($54 in chips)
+turtlespit: posts small blind $1
+shushlo: posts big blind $3
+*** HOLE CARDS ***
+turtlespit: raises $3 to $6
+shushlo: raises $3 to $9
+turtlespit: calls $3
+*** FLOP *** [Ad 8c Tc]
+shushlo: bets $3
+turtlespit: calls $3
+*** TURN *** [Ad 8c Tc] [8d]
+shushlo: checks
+turtlespit: bets $6
+shushlo: calls $6
+*** RIVER *** [Ad 8c Tc 8d] [4h]
+shushlo: checks
+turtlespit: bets $6
+B_loJkl joins the table at seat #6
+shushlo: calls $6
+*** SHOW DOWN ***
+turtlespit: shows [5c 7c] (a pair of Eights)
+shushlo: shows [Ks Ts] (two pair, Tens and Eights)
+shushlo collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Ad 8c Tc 8d 4h]
+Seat 4: shushlo (big blind) showed [Ks Ts] and won ($47.50) with two pair, Tens and Eights
+Seat 5: turtlespit (button) (small blind) showed [5c 7c] and lost with a pair of Eights
+
+
+PokerStars Hand #171536280063:  Hold'em Limit ($3/$6 USD) - 2017/06/09 0:34:22 ET
+Table 'Lagrula' 6-max Seat #6 is the button
+Seat 5: turtlespit ($30 in chips)
+Seat 6: B_loJkl ($150 in chips)
+shushlo leaves the table
+B_loJkl: posts small blind $1
+turtlespit: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+turtlespit: calls $3
+*** FLOP *** [5c 5h Kc]
+turtlespit: checks
+B_loJkl: bets $3
+turtlespit: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5c 5h Kc]
+Seat 5: turtlespit (big blind) folded on the Flop
+Seat 6: B_loJkl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #171536286581:  Hold'em Limit ($3/$6 USD) - 2017/06/09 0:34:47 ET
+Table 'Lagrula' 6-max Seat #5 is the button
+Seat 5: turtlespit ($24 in chips)
+Seat 6: B_loJkl ($155.76 in chips)
+turtlespit: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+turtlespit: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Qh Ts Qs]
+B_loJkl: checks
+turtlespit: bets $3
+B_loJkl: calls $3
+*** TURN *** [Qh Ts Qs] [9c]
+B_loJkl: checks
+turtlespit: checks
+*** RIVER *** [Qh Ts Qs 9c] [Kd]
+B_loJkl: bets $6
+turtlespit: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [4h Tc] (two pair, Queens and Tens)
+turtlespit: shows [Kc 4s] (two pair, Kings and Queens)
+turtlespit collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qh Ts Qs 9c Kd]
+Seat 5: turtlespit (button) (small blind) showed [Kc 4s] and won ($29.50) with two pair, Kings and Queens
+Seat 6: B_loJkl (big blind) showed [4h Tc] and lost with two pair, Queens and Tens
+
+
+PokerStars Hand #171536301152:  Hold'em Limit ($3/$6 USD) - 2017/06/09 0:35:42 ET
+Table 'Lagrula' 6-max Seat #5 is the button
+Seat 5: turtlespit ($50.02 in chips)
+Seat 6: B_loJkl ($128.76 in chips)
+turtlespit: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+turtlespit: calls $2
+B_loJkl: raises $3 to $6
+turtlespit: calls $3
+*** FLOP *** [8h 4s 5h]
+B_loJkl: bets $3
+turtlespit: calls $3
+*** TURN *** [8h 4s 5h] [Kc]
+B_loJkl: bets $6
+turtlespit: calls $6
+*** RIVER *** [8h 4s 5h Kc] [Ad]
+B_loJkl: bets $6
+turtlespit: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $29.50 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8h 4s 5h Kc Ad]
+Seat 5: turtlespit (button) (small blind) folded on the River
+Seat 6: B_loJkl (big blind) collected ($29.50)
+
+
+PokerStars Hand #171536293918:  Hold'em Limit ($3/$6 USD) - 2017/06/09 0:35:15 ET
+Table 'Lagrula' 6-max Seat #6 is the button
+Seat 5: turtlespit ($38.50 in chips)
+Seat 6: B_loJkl ($140.76 in chips)
+B_loJkl: posts small blind $1
+turtlespit: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+turtlespit: raises $3 to $9
+B_loJkl: calls $3
+*** FLOP *** [5s Ts Js]
+turtlespit: bets $3
+B_loJkl: calls $3
+*** TURN *** [5s Ts Js] [Ks]
+turtlespit: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to turtlespit
+turtlespit collected $23.52 from pot
+turtlespit: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [5s Ts Js Ks]
+Seat 5: turtlespit (big blind) collected ($23.52)
+Seat 6: B_loJkl (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #171536306720:  Hold'em Limit ($3/$6 USD) - 2017/06/09 0:36:03 ET
+Table 'Lagrula' 6-max Seat #6 is the button
+Seat 5: turtlespit ($35.02 in chips)
+Seat 6: B_loJkl ($143.26 in chips)
+B_loJkl: posts small blind $1
+turtlespit: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+turtlespit: calls $3
+*** FLOP *** [9c 3h Ac]
+turtlespit: checks
+B_loJkl: bets $3
+turtlespit: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9c 3h Ac]
+Seat 5: turtlespit (big blind) folded on the Flop
+Seat 6: B_loJkl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #171536322778:  Hold'em Limit ($3/$6 USD) - 2017/06/09 0:37:04 ET
+Table 'Lagrula' 6-max Seat #5 is the button
+Seat 5: turtlespit ($32.66 in chips)
+Seat 6: B_loJkl ($145.02 in chips)
+turtlespit: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+turtlespit: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [5h Ks Qd]
+B_loJkl: checks
+turtlespit: bets $3
+B_loJkl: folds
+Uncalled bet ($3) returned to turtlespit
+turtlespit collected $11.76 from pot
+turtlespit: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5h Ks Qd]
+Seat 5: turtlespit (button) (small blind) collected ($11.76)
+Seat 6: B_loJkl (big blind) folded on the Flop
+
+
+PokerStars Hand #171536312329:  Hold'em Limit ($3/$6 USD) - 2017/06/09 0:36:25 ET
+Table 'Lagrula' 6-max Seat #6 is the button
+Seat 5: turtlespit ($28.02 in chips)
+Seat 6: B_loJkl ($150.02 in chips)
+B_loJkl: posts small blind $1
+turtlespit: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+turtlespit: calls $3
+*** FLOP *** [4h 6d Kc]
+turtlespit: checks
+B_loJkl: bets $3
+turtlespit: calls $3
+*** TURN *** [4h 6d Kc] [7h]
+turtlespit: checks
+B_loJkl: checks
+*** RIVER *** [4h 6d Kc 7h] [8d]
+turtlespit: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to turtlespit
+turtlespit collected $17.64 from pot
+turtlespit: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4h 6d Kc 7h 8d]
+Seat 5: turtlespit (big blind) collected ($17.64)
+Seat 6: B_loJkl (button) (small blind) folded on the River
+
+
+PokerStars Hand #171536320768:  Hold'em Limit ($3/$6 USD) - 2017/06/09 0:36:56 ET
+Table 'Lagrula' 6-max Seat #6 is the button
+Seat 5: turtlespit ($35.66 in chips)
+Seat 6: B_loJkl ($142.02 in chips)
+B_loJkl: posts small blind $1
+turtlespit: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+turtlespit: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $6 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 5: turtlespit (big blind) folded before Flop
+Seat 6: B_loJkl (button) (small blind) collected ($6)
+
+
+PokerStars Hand #171536336033:  Hold'em Limit ($3/$6 USD) - 2017/06/09 0:37:54 ET
+Table 'Lagrula' 6-max Seat #6 is the button
+Seat 5: turtlespit ($35.18 in chips)
+Seat 6: B_loJkl ($141.66 in chips)
+B_loJkl: posts small blind $1
+turtlespit: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+turtlespit: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $6 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 5: turtlespit (big blind) folded before Flop
+Seat 6: B_loJkl (button) (small blind) collected ($6)
+
+
+PokerStars Hand #171536326928:  Hold'em Limit ($3/$6 USD) - 2017/06/09 0:37:19 ET
+Table 'Lagrula' 6-max Seat #6 is the button
+Seat 5: turtlespit ($38.42 in chips)
+Seat 6: B_loJkl ($139.02 in chips)
+B_loJkl: posts small blind $1
+turtlespit: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+turtlespit: calls $3
+*** FLOP *** [6d 5s 2h]
+turtlespit: checks
+B_loJkl: bets $3
+turtlespit: calls $3
+*** TURN *** [6d 5s 2h] [4h]
+turtlespit: checks
+B_loJkl: bets $6
+turtlespit: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $17.64 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6d 5s 2h 4h]
+Seat 5: turtlespit (big blind) folded on the Turn
+Seat 6: B_loJkl (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #171536332113:  Hold'em Limit ($3/$6 USD) - 2017/06/09 0:37:39 ET
+Table 'Lagrula' 6-max Seat #5 is the button
+Seat 5: turtlespit ($29.42 in chips)
+Seat 6: B_loJkl ($147.66 in chips)
+turtlespit: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+turtlespit: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Qd Kd 3d]
+B_loJkl: checks
+turtlespit: bets $3
+B_loJkl: folds
+Uncalled bet ($3) returned to turtlespit
+turtlespit collected $11.76 from pot
+turtlespit: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qd Kd 3d]
+Seat 5: turtlespit (button) (small blind) collected ($11.76)
+Seat 6: B_loJkl (big blind) folded on the Flop
+
+
+PokerStars Hand #171536339647:  Hold'em Limit ($3/$6 USD) - 2017/06/09 0:38:07 ET
+Table 'Lagrula' 6-max Seat #5 is the button
+Seat 5: turtlespit ($32.18 in chips)
+Seat 6: B_loJkl ($144.66 in chips)
+turtlespit: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+turtlespit: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [8h 4h 7d]
+B_loJkl: checks
+turtlespit: checks
+*** TURN *** [8h 4h 7d] [4c]
+B_loJkl: checks
+turtlespit: bets $6
+B_loJkl: calls $6
+*** RIVER *** [8h 4h 7d 4c] [7c]
+B_loJkl: checks
+turtlespit: checks
+*** SHOW DOWN ***
+B_loJkl: shows [Ah 2d] (two pair, Sevens and Fours)
+turtlespit: shows [Th Ad] (two pair, Sevens and Fours)
+B_loJkl collected $11.76 from pot
+turtlespit collected $11.76 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [8h 4h 7d 4c 7c]
+Seat 5: turtlespit (button) (small blind) showed [Th Ad] and won ($11.76) with two pair, Sevens and Fours
+Seat 6: B_loJkl (big blind) showed [Ah 2d] and won ($11.76) with two pair, Sevens and Fours
+
+
+PokerStars Hand #171536349279:  Hold'em Limit ($3/$6 USD) - 2017/06/09 0:38:44 ET
+Table 'Lagrula' 6-max Seat #6 is the button
+Seat 5: turtlespit ($31.94 in chips)
+Seat 6: B_loJkl ($144.42 in chips)
+B_loJkl: posts small blind $1
+turtlespit: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+turtlespit: calls $3
+*** FLOP *** [5s 8h Ks]
+turtlespit: checks
+B_loJkl: bets $3
+turtlespit: calls $3
+*** TURN *** [5s 8h Ks] [8d]
+turtlespit: checks
+B_loJkl: bets $6
+turtlespit: raises $6 to $12
+B_loJkl: calls $6
+*** RIVER *** [5s 8h Ks 8d] [2d]
+turtlespit: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+turtlespit: shows [9d 8s] (three of a kind, Eights)
+B_loJkl: mucks hand
+turtlespit collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [5s 8h Ks 8d 2d]
+Seat 5: turtlespit (big blind) showed [9d 8s] and won ($53.50) with three of a kind, Eights
+Seat 6: B_loJkl (button) (small blind) mucked
+
+
+PokerStars Hand #171536363612:  Hold'em Limit ($3/$6 USD) - 2017/06/09 0:39:39 ET
+Table 'Lagrula' 6-max Seat #6 is the button
+Seat 5: turtlespit ($52.44 in chips)
+Seat 6: B_loJkl ($123.18 in chips)
+B_loJkl: posts small blind $1
+turtlespit: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+turtlespit: calls $3
+*** FLOP *** [Ac Tc 8s]
+turtlespit: checks
+B_loJkl: checks
+*** TURN *** [Ac Tc 8s] [Ks]
+turtlespit: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to turtlespit
+turtlespit collected $11.76 from pot
+turtlespit: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ac Tc 8s Ks]
+Seat 5: turtlespit (big blind) collected ($11.76)
+Seat 6: B_loJkl (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #171536358839:  Hold'em Limit ($3/$6 USD) - 2017/06/09 0:39:21 ET
+Table 'Lagrula' 6-max Seat #5 is the button
+Seat 5: turtlespit ($58.44 in chips)
+Seat 6: B_loJkl ($117.42 in chips)
+turtlespit: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+turtlespit: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [5h Qh 9h]
+B_loJkl: bets $3
+turtlespit: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5h Qh 9h]
+Seat 5: turtlespit (button) (small blind) folded on the Flop
+Seat 6: B_loJkl (big blind) collected ($11.76)
+
+
+PokerStars Hand #171536369174:  Hold'em Limit ($3/$6 USD) - 2017/06/09 0:40:01 ET
+Table 'Lagrula' 6-max Seat #5 is the button
+Seat 5: turtlespit ($58.20 in chips)
+Seat 6: B_loJkl ($117.18 in chips)
+turtlespit: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+turtlespit: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [6d 9s 6h]
+B_loJkl: checks
+turtlespit: bets $3
+B_loJkl: calls $3
+*** TURN *** [6d 9s 6h] [Td]
+B_loJkl: checks
+turtlespit: checks
+*** RIVER *** [6d 9s 6h Td] [7s]
+B_loJkl: checks
+turtlespit: checks
+*** SHOW DOWN ***
+B_loJkl: shows [5c Ks] (a pair of Sixes)
+turtlespit: shows [Ah Kd] (a pair of Sixes - Ace kicker)
+turtlespit collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6d 9s 6h Td 7s]
+Seat 5: turtlespit (button) (small blind) showed [Ah Kd] and won ($17.64) with a pair of Sixes
+Seat 6: B_loJkl (big blind) showed [5c Ks] and lost with a pair of Sixes
+
+
+PokerStars Hand #171536383189:  Hold'em Limit ($3/$6 USD) - 2017/06/09 0:40:54 ET
+Table 'Lagrula' 6-max Seat #6 is the button
+Seat 5: turtlespit ($66.84 in chips)
+Seat 6: B_loJkl ($108.18 in chips)
+B_loJkl: posts small blind $1
+turtlespit: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: folds
+Uncalled bet ($2) returned to turtlespit
+turtlespit collected $2 from pot
+turtlespit: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: turtlespit (big blind) collected ($2)
+Seat 6: B_loJkl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #171536388644:  Hold'em Limit ($3/$6 USD) - 2017/06/09 0:41:16 ET
+Table 'Lagrula' 6-max Seat #6 is the button
+Seat 5: turtlespit ($58.84 in chips)
+Seat 6: B_loJkl ($115.82 in chips)
+B_loJkl: posts small blind $1
+turtlespit: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+turtlespit: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $6 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 5: turtlespit (big blind) folded before Flop
+Seat 6: B_loJkl (button) (small blind) collected ($6)
+
+
+PokerStars Hand #171536384777:  Hold'em Limit ($3/$6 USD) - 2017/06/09 0:41:01 ET
+Table 'Lagrula' 6-max Seat #5 is the button
+Seat 5: turtlespit ($67.84 in chips)
+Seat 6: B_loJkl ($107.18 in chips)
+turtlespit: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+turtlespit: raises $3 to $6
+B_loJkl: raises $3 to $9
+turtlespit: calls $3
+*** FLOP *** [Ah 7h 4d]
+B_loJkl: bets $3
+turtlespit: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $17.64 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ah 7h 4d]
+Seat 5: turtlespit (button) (small blind) folded on the Flop
+Seat 6: B_loJkl (big blind) collected ($17.64)
+
+
+PokerStars Hand #171536390427:  Hold'em Limit ($3/$6 USD) - 2017/06/09 0:41:23 ET
+Table 'Lagrula' 6-max Seat #5 is the button
+Seat 5: turtlespit ($55.84 in chips)
+Seat 6: B_loJkl ($118.82 in chips)
+turtlespit: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+turtlespit: calls $2
+B_loJkl: checks
+*** FLOP *** [7h 4d 2d]
+B_loJkl: checks
+turtlespit: bets $3
+B_loJkl: calls $3
+*** TURN *** [7h 4d 2d] [9d]
+B_loJkl: checks
+turtlespit: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to turtlespit
+turtlespit collected $11.76 from pot
+turtlespit: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7h 4d 2d 9d]
+Seat 5: turtlespit (button) (small blind) collected ($11.76)
+Seat 6: B_loJkl (big blind) folded on the Turn
+
+
+PokerStars Hand #171536404098:  Hold'em Limit ($3/$6 USD) - 2017/06/09 0:42:16 ET
+Table 'Lagrula' 6-max Seat #5 is the button
+Seat 5: turtlespit ($55.60 in chips)
+Seat 6: B_loJkl ($118.58 in chips)
+turtlespit: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+turtlespit: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: turtlespit (button) (small blind) folded before Flop
+Seat 6: B_loJkl (big blind) collected ($2)
+
+
+PokerStars Hand #171536400218:  Hold'em Limit ($3/$6 USD) - 2017/06/09 0:42:01 ET
+Table 'Lagrula' 6-max Seat #6 is the button
+Seat 5: turtlespit ($61.60 in chips)
+Seat 6: B_loJkl ($112.82 in chips)
+B_loJkl: posts small blind $1
+turtlespit: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+turtlespit: calls $3
+*** FLOP *** [3d 9d 7d]
+turtlespit: checks
+B_loJkl: bets $3
+turtlespit: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3d 9d 7d]
+Seat 5: turtlespit (big blind) folded on the Flop
+Seat 6: B_loJkl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #171536405615:  Hold'em Limit ($3/$6 USD) - 2017/06/09 0:42:21 ET
+Table 'Lagrula' 6-max Seat #6 is the button
+Seat 5: turtlespit ($54.60 in chips)
+Seat 6: B_loJkl ($119.58 in chips)
+B_loJkl: posts small blind $1
+turtlespit: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+turtlespit: calls $3
+*** FLOP *** [Td 5h Kc]
+turtlespit: checks
+B_loJkl: bets $3
+turtlespit: calls $3
+*** TURN *** [Td 5h Kc] [7d]
+turtlespit: checks
+B_loJkl: bets $6
+turtlespit: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $17.64 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Td 5h Kc 7d]
+Seat 5: turtlespit (big blind) folded on the Turn
+Seat 6: B_loJkl (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #171536413206:  Hold'em Limit ($3/$6 USD) - 2017/06/09 0:42:51 ET
+Table 'Lagrula' 6-max Seat #6 is the button
+Seat 5: turtlespit ($44.60 in chips)
+Seat 6: B_loJkl ($129.22 in chips)
+B_loJkl: posts small blind $1
+turtlespit: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+turtlespit: calls $3
+*** FLOP *** [7s Qc 2h]
+turtlespit: checks
+B_loJkl: bets $3
+turtlespit: calls $3
+*** TURN *** [7s Qc 2h] [4c]
+turtlespit: checks
+B_loJkl: bets $6
+turtlespit: calls $6
+*** RIVER *** [7s Qc 2h 4c] [2d]
+turtlespit: checks
+B_loJkl: bets $6
+turtlespit: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [5d 5h] (two pair, Fives and Deuces)
+turtlespit: mucks hand
+B_loJkl collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [7s Qc 2h 4c 2d]
+Seat 5: turtlespit (big blind) mucked
+Seat 6: B_loJkl (button) (small blind) showed [5d 5h] and won ($41.50) with two pair, Fives and Deuces
+
+
+PokerStars Hand #171536411585:  Hold'em Limit ($3/$6 USD) - 2017/06/09 0:42:45 ET
+Table 'Lagrula' 6-max Seat #5 is the button
+Seat 5: turtlespit ($45.60 in chips)
+Seat 6: B_loJkl ($128.22 in chips)
+turtlespit: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+turtlespit: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: turtlespit (button) (small blind) folded before Flop
+Seat 6: B_loJkl (big blind) collected ($2)
+
+
+PokerStars Hand #171536427800:  Hold'em Limit ($3/$6 USD) - 2017/06/09 0:43:47 ET
+Table 'Lagrula' 6-max Seat #6 is the button
+Seat 5: turtlespit ($17.60 in chips)
+Seat 6: B_loJkl ($155.48 in chips)
+B_loJkl: posts small blind $1
+turtlespit: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: folds
+Uncalled bet ($2) returned to turtlespit
+turtlespit collected $2 from pot
+turtlespit: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: turtlespit (big blind) collected ($2)
+Seat 6: B_loJkl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #171536421605:  Hold'em Limit ($3/$6 USD) - 2017/06/09 0:43:23 ET
+Table 'Lagrula' 6-max Seat #5 is the button
+Seat 5: turtlespit ($23.60 in chips)
+Seat 6: B_loJkl ($149.72 in chips)
+turtlespit: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+turtlespit: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Ts Ks Qs]
+B_loJkl: bets $3
+turtlespit: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ts Ks Qs]
+Seat 5: turtlespit (button) (small blind) folded on the Flop
+Seat 6: B_loJkl (big blind) collected ($11.76)
+
+
+PokerStars Hand #171536429411:  Hold'em Limit ($3/$6 USD) - 2017/06/09 0:43:54 ET
+Table 'Lagrula' 6-max Seat #5 is the button
+Seat 5: turtlespit ($18.60 in chips)
+Seat 6: B_loJkl ($154.48 in chips)
+turtlespit: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+turtlespit: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: turtlespit (button) (small blind) folded before Flop
+Seat 6: B_loJkl (big blind) collected ($2)
+
+
+PokerStars Hand #171536431023:  Hold'em Limit ($3/$6 USD) - 2017/06/09 0:44:00 ET
+Table 'Lagrula' 6-max Seat #6 is the button
+Seat 5: turtlespit ($17.60 in chips)
+Seat 6: B_loJkl ($155.48 in chips)
+B_loJkl: posts small blind $1
+turtlespit: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: folds
+Uncalled bet ($2) returned to turtlespit
+turtlespit collected $2 from pot
+turtlespit: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: turtlespit (big blind) collected ($2)
+Seat 6: B_loJkl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #171536433723:  Hold'em Limit ($3/$6 USD) - 2017/06/09 0:44:10 ET
+Table 'Lagrula' 6-max Seat #5 is the button
+Seat 5: turtlespit ($18.60 in chips)
+Seat 6: B_loJkl ($154.48 in chips)
+turtlespit: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+turtlespit: calls $2
+B_loJkl: checks
+*** FLOP *** [6c Td 9s]
+B_loJkl: bets $3
+turtlespit: calls $3
+*** TURN *** [6c Td 9s] [2c]
+B_loJkl: checks
+turtlespit: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to turtlespit
+turtlespit collected $11.76 from pot
+turtlespit: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6c Td 9s 2c]
+Seat 5: turtlespit (button) (small blind) collected ($11.76)
+Seat 6: B_loJkl (big blind) folded on the Turn
+
+
+PokerStars Hand #171536442157:  Hold'em Limit ($3/$6 USD) - 2017/06/09 0:44:42 ET
+Table 'Lagrula' 6-max Seat #6 is the button
+Seat 5: turtlespit ($24.36 in chips)
+Seat 6: B_loJkl ($148.48 in chips)
+B_loJkl: posts small blind $1
+turtlespit: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+turtlespit: raises $3 to $9
+B_loJkl: calls $3
+*** FLOP *** [Qs 5s 9d]
+turtlespit: bets $3
+B_loJkl: calls $3
+*** TURN *** [Qs 5s 9d] [4h]
+turtlespit: bets $6
+B_loJkl: calls $6
+*** RIVER *** [Qs 5s 9d 4h] [2d]
+turtlespit: bets $6
+B_loJkl: raises $6 to $12
+turtlespit: calls $0.36 and is all-in
+Uncalled bet ($5.64) returned to B_loJkl
+*** SHOW DOWN ***
+B_loJkl: shows [2c Qd] (two pair, Queens and Deuces)
+turtlespit: shows [6c 6s] (a pair of Sixes)
+B_loJkl collected $48.22 from pot
+*** SUMMARY ***
+Total pot $48.72 | Rake $0.50
+Board [Qs 5s 9d 4h 2d]
+Seat 5: turtlespit (big blind) showed [6c 6s] and lost with a pair of Sixes
+Seat 6: B_loJkl (button) (small blind) showed [2c Qd] and won ($48.22) with two pair, Queens and Deuces
+
+

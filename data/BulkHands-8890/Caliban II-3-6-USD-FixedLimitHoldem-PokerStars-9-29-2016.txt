@@ -1,0 +1,54 @@
+PokerStars Hand #159256308582:  Hold'em Limit ($3/$6 USD) - 2016/09/29 15:36:06 ET
+Table 'Caliban II' 6-max Seat #6 is the button
+Seat 1: Zubasa07 ($493.88 in chips)
+Seat 6: AnVan ($40.07 in chips)
+AnVan: posts small blind $1
+Zubasa07: posts big blind $3
+*** HOLE CARDS ***
+AnVan: raises $3 to $6
+Zubasa07: calls $3
+*** FLOP *** [5c Th 5d]
+Zubasa07: checks
+AnVan: checks
+*** TURN *** [5c Th 5d] [4d]
+Zubasa07: bets $6
+AnVan: calls $6
+*** RIVER *** [5c Th 5d 4d] [Ad]
+Zubasa07: bets $6
+AnVan: raises $6 to $12
+Zubasa07: calls $6
+*** SHOW DOWN ***
+AnVan: shows [As Qd] (two pair, Aces and Fives)
+Zubasa07: shows [9d 2d] (a flush, Ace high)
+Zubasa07 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [5c Th 5d 4d Ad]
+Seat 1: Zubasa07 (big blind) showed [9d 2d] and won ($47.50) with a flush, Ace high
+Seat 6: AnVan (button) (small blind) showed [As Qd] and lost with two pair, Aces and Fives
+
+
+PokerStars Hand #159256337660:  Hold'em Limit ($3/$6 USD) - 2016/09/29 15:36:41 ET
+Table 'Caliban II' 6-max Seat #1 is the button
+Seat 1: Zubasa07 ($517.38 in chips)
+Seat 6: AnVan ($16.07 in chips)
+Zubasa07: posts small blind $1
+AnVan: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+AnVan: calls $3
+*** FLOP *** [Kh 9s Tc]
+AnVan: checks
+Zubasa07: bets $3
+AnVan said, "(^^^)"
+AnVan: folds
+Uncalled bet ($3) returned to Zubasa07
+Zubasa07 collected $11.76 from pot
+Zubasa07: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kh 9s Tc]
+Seat 1: Zubasa07 (button) (small blind) collected ($11.76)
+Seat 6: AnVan (big blind) folded on the Flop
+
+

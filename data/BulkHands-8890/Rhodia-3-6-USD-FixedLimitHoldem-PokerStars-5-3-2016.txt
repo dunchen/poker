@@ -1,0 +1,79 @@
+PokerStars Hand #152786349967:  Hold'em Limit ($3/$6 USD) - 2016/05/03 4:50:49 ET
+Table 'Rhodia' 6-max Seat #2 is the button
+Seat 1: health_bar ($35 in chips)
+Seat 2: kolaz03 ($73 in chips)
+kolaz03: posts small blind $1
+health_bar: posts big blind $3
+*** HOLE CARDS ***
+kolaz03: raises $3 to $6
+health_bar: calls $3
+*** FLOP *** [8c 7c Jh]
+health_bar: checks
+kolaz03: bets $3
+health_bar: calls $3
+*** TURN *** [8c 7c Jh] [4c]
+health_bar: checks
+kolaz03: bets $6
+health_bar: calls $6
+*** RIVER *** [8c 7c Jh 4c] [Kc]
+health_bar: checks
+kolaz03: bets $6
+health_bar: calls $6
+*** SHOW DOWN ***
+kolaz03: shows [3s 4s] (a pair of Fours)
+health_bar: shows [Td 3c] (a flush, King high)
+health_bar collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [8c 7c Jh 4c Kc]
+Seat 1: health_bar (big blind) showed [Td 3c] and won ($41.50) with a flush, King high
+Seat 2: kolaz03 (button) (small blind) showed [3s 4s] and lost with a pair of Fours
+
+
+PokerStars Hand #152786347729:  Hold'em Limit ($3/$6 USD) - 2016/05/03 4:50:43 ET
+Table 'Rhodia' 6-max Seat #1 is the button
+Seat 1: health_bar ($36 in chips)
+Seat 2: kolaz03 ($72 in chips)
+health_bar: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+health_bar: folds
+Uncalled bet ($2) returned to kolaz03
+kolaz03 collected $2 from pot
+kolaz03: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: health_bar (button) (small blind) folded before Flop
+Seat 2: kolaz03 (big blind) collected ($2)
+
+
+PokerStars Hand #152786356616:  Hold'em Limit ($3/$6 USD) - 2016/05/03 4:51:08 ET
+Table 'Rhodia' 6-max Seat #1 is the button
+Seat 1: health_bar ($55.50 in chips)
+Seat 2: kolaz03 ($72 in chips)
+health_bar: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+health_bar: raises $3 to $6
+kolaz03: calls $3
+*** FLOP *** [3h 6s Qs]
+kolaz03: checks
+``MULAT``86 joins the table at seat #5
+health_bar: checks
+*** TURN *** [3h 6s Qs] [Ad]
+kolaz03: checks
+health_bar: checks
+*** RIVER *** [3h 6s Qs Ad] [Js]
+kolaz03: bets $6
+health_bar: calls $6
+*** SHOW DOWN ***
+kolaz03: shows [5c Qd] (a pair of Queens)
+health_bar: mucks hand
+kolaz03 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [3h 6s Qs Ad Js]
+Seat 1: health_bar (button) (small blind) mucked
+Seat 2: kolaz03 (big blind) showed [5c Qd] and won ($23.52) with a pair of Queens
+
+

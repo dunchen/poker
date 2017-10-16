@@ -1,0 +1,52 @@
+PokerStars Hand #153625562471:  Hold'em Limit ($3/$6 USD) - 2016/05/21 7:01:36 ET
+Table 'Autonoma' 6-max Seat #2 is the button
+Seat 2: Ag3r0n ($77.16 in chips)
+Seat 6: awelli ($32.39 in chips)
+Ag3r0n: posts small blind $1
+awelli: posts big blind $3
+*** HOLE CARDS ***
+Ag3r0n: raises $3 to $6
+awelli: raises $3 to $9
+Ag3r0n: calls $3
+*** FLOP *** [9h 7c 5d]
+awelli: bets $3
+Ag3r0n: calls $3
+*** TURN *** [9h 7c 5d] [Qs]
+awelli: bets $6
+Ag3r0n: calls $6
+*** RIVER *** [9h 7c 5d Qs] [Ks]
+awelli: bets $6
+Ag3r0n: calls $6
+*** SHOW DOWN ***
+awelli: shows [Ad As] (a pair of Aces)
+Ag3r0n: mucks hand
+awelli collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9h 7c 5d Qs Ks]
+Seat 2: Ag3r0n (button) (small blind) mucked
+Seat 6: awelli (big blind) showed [Ad As] and won ($47.50) with a pair of Aces
+
+
+PokerStars Hand #153625559018:  Hold'em Limit ($3/$6 USD) - 2016/05/21 7:01:28 ET
+Table 'Autonoma' 6-max Seat #6 is the button
+Seat 2: Ag3r0n ($74.28 in chips)
+Seat 6: awelli ($35.39 in chips)
+awelli: posts small blind $1
+TbIP-TbIP 88: is sitting out
+Ag3r0n: posts big blind $3
+*** HOLE CARDS ***
+awelli: calls $2
+Ag3r0n: checks
+*** FLOP *** [5c 4d Kh]
+Ag3r0n: bets $3
+awelli: folds
+Uncalled bet ($3) returned to Ag3r0n
+Ag3r0n collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [5c 4d Kh]
+Seat 2: Ag3r0n (big blind) collected ($5.88)
+Seat 6: awelli (button) (small blind) folded on the Flop
+
+

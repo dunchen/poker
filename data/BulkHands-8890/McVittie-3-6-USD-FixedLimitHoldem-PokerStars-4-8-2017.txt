@@ -1,0 +1,32 @@
+PokerStars Hand #168753083379:  Hold'em Limit ($3/$6 USD) - 2017/04/08 12:10:12 ET
+Table 'McVittie' 6-max Seat #3 is the button
+Seat 3: humlefar ($50 in chips)
+Seat 4: Agrotait ($72 in chips)
+humlefar: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+humlefar: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [Ts Th 6s]
+Agrotait: checks
+humlefar: bets $3
+Agrotait: calls $3
+*** TURN *** [Ts Th 6s] [Jd]
+Rednaxela05 joins the table at seat #5
+Agrotait: checks
+humlefar: checks
+*** RIVER *** [Ts Th 6s Jd] [9h]
+Agrotait: checks
+humlefar: checks
+*** SHOW DOWN ***
+Agrotait: shows [4c As] (a pair of Tens)
+humlefar: shows [Ah 7c] (a pair of Tens)
+Agrotait collected $8.82 from pot
+humlefar collected $8.82 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ts Th 6s Jd 9h]
+Seat 3: humlefar (button) (small blind) showed [Ah 7c] and won ($8.82) with a pair of Tens
+Seat 4: Agrotait (big blind) showed [4c As] and won ($8.82) with a pair of Tens
+
+

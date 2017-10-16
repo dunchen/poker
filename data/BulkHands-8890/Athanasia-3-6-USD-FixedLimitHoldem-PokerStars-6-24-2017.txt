@@ -1,0 +1,38 @@
+PokerStars Hand #172192054736:  Hold'em Limit ($3/$6 USD) - 2017/06/24 16:32:44 ET
+Table 'Athanasia' 6-max Seat #1 is the button
+Seat 1: AzureCaper ($72 in chips)
+Seat 6: terrapevt73 ($36.58 in chips)
+MTails: is sitting out
+AzureCaper: posts small blind $1
+terrapevt73: posts big blind $3
+*** HOLE CARDS ***
+MTails leaves the table
+AzureCaper: raises $3 to $6
+terrapevt73: calls $3
+*** FLOP *** [Qc 7d Ah]
+terrapevt73: checks
+AzureCaper: bets $3
+terrapevt73: calls $3
+*** TURN *** [Qc 7d Ah] [4d]
+terrapevt73: checks
+AzureCaper: bets $6
+terrapevt73: raises $6 to $12
+AzureCaper: raises $6 to $18
+terrapevt73: raises $6 to $24
+Betting is capped
+AzureCaper: calls $6
+*** RIVER *** [Qc 7d Ah 4d] [7h]
+terrapevt73: bets $3.58 and is all-in
+AzureCaper: calls $3.58
+*** SHOW DOWN ***
+terrapevt73: shows [Qd 4h] (two pair, Queens and Sevens)
+AzureCaper: shows [4c Ac] (two pair, Aces and Sevens)
+AzureCaper collected $72.66 from pot
+terrapevt73 leaves the table
+*** SUMMARY ***
+Total pot $73.16 | Rake $0.50
+Board [Qc 7d Ah 4d 7h]
+Seat 1: AzureCaper (button) (small blind) showed [4c Ac] and won ($72.66) with two pair, Aces and Sevens
+Seat 6: terrapevt73 (big blind) showed [Qd 4h] and lost with two pair, Queens and Sevens
+
+

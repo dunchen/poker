@@ -1,0 +1,88 @@
+PokerStars Hand #161518573849:  Hold'em Limit ($3/$6 USD) - 2016/11/16 20:26:18 ET
+Table 'Zeuxo' 6-max Seat #1 is the button
+Seat 1: GoliafUa ($120 in chips)
+Seat 6: CrAyZe8 ($120 in chips)
+assitoni has timed out
+assitoni: is sitting out
+GoliafUa: posts small blind $1
+CrAyZe8: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa: raises $3 to $6
+CrAyZe8: calls $3
+*** FLOP *** [6s 4c 4s]
+svin168 joins the table at seat #3
+CrAyZe8: bets $3
+GoliafUa: calls $3
+*** TURN *** [6s 4c 4s] [Kd]
+svin168 leaves the table
+CrAyZe8: bets $6
+GoliafUa: folds
+Uncalled bet ($6) returned to CrAyZe8
+CrAyZe8 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6s 4c 4s Kd]
+Seat 1: GoliafUa (button) (small blind) folded on the Turn
+Seat 6: CrAyZe8 (big blind) collected ($17.64)
+
+
+PokerStars Hand #161518592798:  Hold'em Limit ($3/$6 USD) - 2016/11/16 20:26:56 ET
+Table 'Zeuxo' 6-max Seat #6 is the button
+Seat 1: GoliafUa ($111 in chips)
+Seat 6: CrAyZe8 ($128.64 in chips)
+CrAyZe8: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+svin168 joins the table at seat #3
+CrAyZe8: calls $2
+GoliafUa: raises $3 to $6
+assitoni leaves the table
+CrAyZe8: calls $3
+*** FLOP *** [Ad 8d Jc]
+GoliafUa: bets $3
+CrAyZe8: calls $3
+*** TURN *** [Ad 8d Jc] [Qs]
+GoliafUa: bets $6
+Pti4ka_Tucan joins the table at seat #4
+ToDaFelt joins the table at seat #2
+CrAyZe8: raises $6 to $12
+GoliafUa: calls $6
+*** RIVER *** [Ad 8d Jc Qs] [Ts]
+GoliafUa: checks
+CrAyZe8: bets $6
+GoliafUa: calls $6
+*** SHOW DOWN ***
+CrAyZe8: shows [Jd 9s] (a straight, Eight to Queen)
+GoliafUa: mucks hand
+CrAyZe8 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Ad 8d Jc Qs Ts]
+Seat 1: GoliafUa (big blind) mucked
+Seat 6: CrAyZe8 (button) (small blind) showed [Jd 9s] and won ($53.50) with a straight, Eight to Queen
+
+
+PokerStars Hand #161518911807:  Hold'em Limit ($3/$6 USD) - 2016/11/16 20:37:29 ET
+Table 'Zeuxo' 6-max Seat #3 is the button
+Seat 2: ToDaFelt ($122 in chips)
+Seat 3: RaisemyNut$ ($162.80 in chips)
+RaisemyNut$: posts small blind $1
+kachon66: is sitting out
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+RaisemyNut$: raises $3 to $6
+ToDaFelt: raises $3 to $9
+RaisemyNut$: calls $3
+*** FLOP *** [Tc Kh 7h]
+ToDaFelt: bets $3
+RaisemyNut$: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $17.64 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Tc Kh 7h]
+Seat 2: ToDaFelt (big blind) collected ($17.64)
+Seat 3: RaisemyNut$ (button) (small blind) folded on the Flop
+
+

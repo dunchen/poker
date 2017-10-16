@@ -1,0 +1,60 @@
+PokerStars Hand #172907218207:  Hold'em Limit ($3/$6 USD) - 2017/07/11 16:18:09 ET
+Table 'Calypso' 6-max Seat #5 is the button
+Seat 3: B_loJkl ($154.51 in chips)
+Seat 5: kusznak ($90.02 in chips)
+kusznak: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+kusznak: raises $3 to $6
+B_loJkl: raises $3 to $9
+kusznak: calls $3
+*** FLOP *** [Jc 4d 7c]
+B_loJkl: bets $3
+kusznak: calls $3
+*** TURN *** [Jc 4d 7c] [9c]
+B_loJkl: checks
+kusznak: checks
+*** RIVER *** [Jc 4d 7c 9c] [5c]
+B_loJkl: checks
+kusznak: checks
+*** SHOW DOWN ***
+B_loJkl: shows [Qh Kd] (high card King)
+kusznak: shows [5s Ah] (a pair of Fives)
+kusznak collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Jc 4d 7c 9c 5c]
+Seat 3: B_loJkl (big blind) showed [Qh Kd] and lost with high card King
+Seat 5: kusznak (button) (small blind) showed [5s Ah] and won ($23.52) with a pair of Fives
+
+
+PokerStars Hand #172907238735:  Hold'em Limit ($3/$6 USD) - 2017/07/11 16:18:34 ET
+Table 'Calypso' 6-max Seat #3 is the button
+Seat 3: B_loJkl ($142.51 in chips)
+Seat 5: kusznak ($101.54 in chips)
+B_loJkl: posts small blind $1
+kusznak: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+kusznak: raises $3 to $9
+B_loJkl: calls $3
+*** FLOP *** [Ah 2h Ad]
+kusznak: bets $3
+B_loJkl: calls $3
+*** TURN *** [Ah 2h Ad] [3h]
+kusznak: bets $6
+B_loJkl: calls $6
+*** RIVER *** [Ah 2h Ad 3h] [Kd]
+kusznak: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+kusznak: shows [9c 9d] (two pair, Aces and Nines)
+B_loJkl: shows [Kc 4h] (two pair, Aces and Kings)
+B_loJkl collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Ah 2h Ad 3h Kd]
+Seat 3: B_loJkl (button) (small blind) showed [Kc 4h] and won ($47.50) with two pair, Aces and Kings
+Seat 5: kusznak (big blind) showed [9c 9d] and lost with two pair, Aces and Nines
+
+

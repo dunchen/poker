@@ -1,0 +1,66 @@
+PokerStars Hand #158288506936:  Hold'em Limit ($3/$6 USD) - 2016/09/07 13:02:40 ET
+Table 'Massinga' 6-max Seat #3 is the button
+Seat 2: komornik ($188.81 in chips)
+Seat 3: zizonmusang ($29 in chips)
+zizonmusang: posts small blind $1
+HAL9QQQ: is sitting out
+komornik: posts big blind $3
+*** HOLE CARDS ***
+zizonmusang: raises $3 to $6
+komornik: calls $3
+*** FLOP *** [As Th 9s]
+komornik: checks
+zizonmusang: bets $3
+komornik: raises $3 to $6
+zizonmusang: raises $3 to $9
+komornik: calls $3
+*** TURN *** [As Th 9s] [Qd]
+komornik: checks
+zizonmusang: bets $6
+komornik: calls $6
+*** RIVER *** [As Th 9s Qd] [Jd]
+komornik: checks
+zizonmusang: checks
+*** SHOW DOWN ***
+komornik: shows [7s Qs] (a pair of Queens)
+zizonmusang: shows [9d Ac] (two pair, Aces and Nines)
+zizonmusang collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [As Th 9s Qd Jd]
+Seat 2: komornik (big blind) showed [7s Qs] and lost with a pair of Queens
+Seat 3: zizonmusang (button) (small blind) showed [9d Ac] and won ($41.50) with two pair, Aces and Nines
+
+
+PokerStars Hand #158288538417:  Hold'em Limit ($3/$6 USD) - 2016/09/07 13:03:23 ET
+Table 'Massinga' 6-max Seat #2 is the button
+Seat 2: komornik ($167.81 in chips)
+Seat 3: zizonmusang ($49.50 in chips)
+komornik: posts small blind $1
+zizonmusang: posts big blind $3
+*** HOLE CARDS ***
+komornik: raises $3 to $6
+zizonmusang: calls $3
+*** FLOP *** [8d 4s 9s]
+zizonmusang: checks
+komornik: bets $3
+zizonmusang: calls $3
+*** TURN *** [8d 4s 9s] [2h]
+zizonmusang: checks
+komornik: bets $6
+zizonmusang: calls $6
+*** RIVER *** [8d 4s 9s 2h] [2d]
+zizonmusang: checks
+komornik: bets $6
+zizonmusang: calls $6
+*** SHOW DOWN ***
+komornik: shows [8s 9c] (two pair, Nines and Eights)
+zizonmusang: mucks hand
+komornik collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [8d 4s 9s 2h 2d]
+Seat 2: komornik (button) (small blind) showed [8s 9c] and won ($41.50) with two pair, Nines and Eights
+Seat 3: zizonmusang (big blind) mucked
+
+

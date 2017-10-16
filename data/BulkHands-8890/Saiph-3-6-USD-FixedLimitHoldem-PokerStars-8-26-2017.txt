@@ -1,0 +1,82 @@
+PokerStars Hand #174803356372:  Hold'em Limit ($3/$6 USD) - 2017/08/26 0:59:18 ET
+Table 'Saiph' 6-max Seat #1 is the button
+Seat 1: zimin10 ($205.83 in chips)
+Seat 5: manly70 ($95.35 in chips)
+zimin10: posts small blind $1
+manly70: posts big blind $3
+*** HOLE CARDS ***
+zimin10: raises $3 to $6
+manly70: calls $3
+*** FLOP *** [Ks 9d 3h]
+manly70: checks
+zimin10: bets $3
+manly70: calls $3
+*** TURN *** [Ks 9d 3h] [7h]
+manly70: checks
+zimin10: bets $6
+manly70: calls $6
+*** RIVER *** [Ks 9d 3h 7h] [4s]
+manly70: checks
+zimin10: checks
+*** SHOW DOWN ***
+manly70: shows [Th Qh] (high card King)
+zimin10: shows [Qs Ah] (high card Ace)
+zimin10 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ks 9d 3h 7h 4s]
+Seat 1: zimin10 (button) (small blind) showed [Qs Ah] and won ($29.50) with high card Ace
+Seat 5: manly70 (big blind) showed [Th Qh] and lost with high card King
+
+
+PokerStars Hand #174803365792:  Hold'em Limit ($3/$6 USD) - 2017/08/26 0:59:58 ET
+Table 'Saiph' 6-max Seat #5 is the button
+Seat 1: zimin10 ($220.33 in chips)
+Seat 5: manly70 ($80.35 in chips)
+manly70: posts small blind $1
+zimin10: posts big blind $3
+*** HOLE CARDS ***
+manly70: folds
+Uncalled bet ($2) returned to zimin10
+zimin10 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: zimin10 (big blind) collected ($2)
+Seat 5: manly70 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #174813944202:  Hold'em Limit ($3/$6 USD) - 2017/08/26 9:21:00 ET
+Table 'Saiph' 6-max Seat #6 is the button
+Seat 4: Psynto ($181.45 in chips)
+Seat 6: aleks_4ym ($200.63 in chips)
+aleks_4ym: posts small blind $1
+love_mmm: is sitting out
+Psynto: posts big blind $3
+*** HOLE CARDS ***
+aleks_4ym: raises $3 to $6
+Psynto: raises $3 to $9
+aleks_4ym: calls $3
+*** FLOP *** [7h 2s 2h]
+Psynto: bets $3
+ECP1955 leaves the table
+aleks_4ym: raises $3 to $6
+Psynto: raises $3 to $9
+aleks_4ym: calls $3
+*** TURN *** [7h 2s 2h] [Qs]
+Psynto: bets $6
+aleks_4ym: calls $6
+*** RIVER *** [7h 2s 2h Qs] [3c]
+Psynto: bets $6
+aleks_4ym: raises $6 to $12
+Psynto: calls $6
+*** SHOW DOWN ***
+aleks_4ym: shows [Qh 7s] (two pair, Queens and Sevens)
+Psynto: shows [Kd Kh] (two pair, Kings and Deuces)
+Psynto collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [7h 2s 2h Qs 3c]
+Seat 4: Psynto (big blind) showed [Kd Kh] and won ($71.50) with two pair, Kings and Deuces
+Seat 6: aleks_4ym (button) (small blind) showed [Qh 7s] and lost with two pair, Queens and Sevens
+
+

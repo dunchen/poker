@@ -1,0 +1,34 @@
+PokerStars Hand #170057639964:  Hold'em Limit ($3/$6 USD) - 2017/05/06 20:03:23 ET
+Table 'Nolli' 6-max Seat #2 is the button
+Seat 2: TinaTurner72 ($120 in chips)
+Seat 3: sienvan ($30.86 in chips)
+TinaTurner72: posts small blind $1
+sienvan: posts big blind $3
+*** HOLE CARDS ***
+TinaTurner72: raises $3 to $6
+sienvan: raises $3 to $9
+TinaTurner72: raises $3 to $12
+Betting is capped
+sienvan: calls $3
+*** FLOP *** [5s Qh Qd]
+sienvan: bets $3
+TinaTurner72: calls $3
+*** TURN *** [5s Qh Qd] [5h]
+sienvan: bets $6
+TinaTurner72: calls $6
+*** RIVER *** [5s Qh Qd 5h] [6d]
+sienvan: bets $6
+TinaTurner72: raises $6 to $12
+sienvan: calls $3.86 and is all-in
+Uncalled bet ($2.14) returned to TinaTurner72
+*** SHOW DOWN ***
+TinaTurner72: shows [6c 5c] (a full house, Fives full of Queens)
+sienvan: shows [7s 7h] (two pair, Queens and Sevens)
+TinaTurner72 collected $61.22 from pot
+*** SUMMARY ***
+Total pot $61.72 | Rake $0.50
+Board [5s Qh Qd 5h 6d]
+Seat 2: TinaTurner72 (button) (small blind) showed [6c 5c] and won ($61.22) with a full house, Fives full of Queens
+Seat 3: sienvan (big blind) showed [7s 7h] and lost with two pair, Queens and Sevens
+
+

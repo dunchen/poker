@@ -1,0 +1,49 @@
+PokerStars Hand #167470288187:  Hold'em Limit ($3/$6 USD) - 2017/03/12 6:04:22 ET
+Table 'Nuki' 6-max Seat #1 is the button
+Seat 1: Ale4o ($162.67 in chips)
+Seat 3: sim5sim5 ($89.64 in chips)
+Ale4o: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+Ale4o: folds
+Uncalled bet ($2) returned to sim5sim5
+sim5sim5 collected $2 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Ale4o (button) (small blind) folded before Flop
+Seat 3: sim5sim5 (big blind) collected ($2)
+
+
+PokerStars Hand #167470253135:  Hold'em Limit ($3/$6 USD) - 2017/03/12 6:03:01 ET
+Table 'Nuki' 6-max Seat #1 is the button
+Seat 1: Ale4o ($104 in chips)
+Seat 3: sim5sim5 ($120.64 in chips)
+Ale4o: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+Ale4o: raises $3 to $6
+sim5sim5: raises $3 to $9
+Ale4o: calls $3
+*** FLOP *** [3d 2h 8h]
+sim5sim5: bets $3
+Ale4o: calls $3
+*** TURN *** [3d 2h 8h] [7d]
+sim5sim5: bets $6
+Ale4o: raises $6 to $12
+sim5sim5: calls $6
+*** RIVER *** [3d 2h 8h 7d] [Tc]
+sim5sim5: checks
+Ale4o: bets $6
+sim5sim5: calls $6
+*** SHOW DOWN ***
+Ale4o: shows [3s 3h] (three of a kind, Threes)
+sim5sim5: mucks hand
+Ale4o collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [3d 2h 8h 7d Tc]
+Seat 1: Ale4o (button) (small blind) showed [3s 3h] and won ($59.50) with three of a kind, Threes
+Seat 3: sim5sim5 (big blind) mucked
+
+

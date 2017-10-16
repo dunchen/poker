@@ -1,0 +1,35 @@
+PokerStars Hand #166082880173:  Hold'em Limit ($3/$6 USD) - 2017/02/12 5:35:00 ET
+Table 'Catriona II' 6-max Seat #3 is the button
+Seat 2: fluit83 ($33.91 in chips)
+Seat 3: AzureCaper ($89.50 in chips)
+AzureCaper: posts small blind $1
+fluit83: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+fluit83: calls $3
+*** FLOP *** [4c 5s Ah]
+fluit83: checks
+AzureCaper: bets $3
+fluit83: calls $3
+*** TURN *** [4c 5s Ah] [9h]
+fluit83: checks
+AzureCaper: bets $6
+fluit83: raises $6 to $12
+AzureCaper: raises $6 to $18
+fluit83: raises $6 to $24
+Betting is capped
+AzureCaper: calls $6
+*** RIVER *** [4c 5s Ah 9h] [4h]
+fluit83: bets $0.91 and is all-in
+AzureCaper: calls $0.91
+*** SHOW DOWN ***
+fluit83: shows [As 5h] (two pair, Aces and Fives)
+AzureCaper: shows [4s Ad] (a full house, Fours full of Aces)
+AzureCaper collected $67.32 from pot
+*** SUMMARY ***
+Total pot $67.82 | Rake $0.50
+Board [4c 5s Ah 9h 4h]
+Seat 2: fluit83 (big blind) showed [As 5h] and lost with two pair, Aces and Fives
+Seat 3: AzureCaper (button) (small blind) showed [4s Ad] and won ($67.32) with a full house, Fours full of Aces
+
+

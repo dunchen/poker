@@ -1,0 +1,61 @@
+PokerStars Hand #145761699548:  Hold'em Limit ($3/$6 USD) - 2015/12/22 16:54:27 ET
+Table 'Scorpius' 6-max Seat #5 is the button
+Seat 5: biermann78 ($76.93 in chips)
+Seat 6: pokkermon ($67 in chips)
+biermann78: posts small blind $1
+pokkermon: posts big blind $3
+*** HOLE CARDS ***
+biermann78: raises $3 to $6
+pokkermon: calls $3
+*** FLOP *** [Js 2h 5c]
+pokkermon: checks
+biermann78: checks
+*** TURN *** [Js 2h 5c] [2c]
+pokkermon: bets $6
+biermann78: calls $6
+*** RIVER *** [Js 2h 5c 2c] [3d]
+pokkermon: bets $6
+biermann78: calls $6
+*** SHOW DOWN ***
+pokkermon: shows [6h 4s] (a straight, Deuce to Six)
+biermann78: mucks hand
+pokkermon collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Js 2h 5c 2c 3d]
+Seat 5: biermann78 (button) (small blind) mucked
+Seat 6: pokkermon (big blind) showed [6h 4s] and won ($35.50) with a straight, Deuce to Six
+
+
+PokerStars Hand #145761672376:  Hold'em Limit ($3/$6 USD) - 2015/12/22 16:54:00 ET
+Table 'Scorpius' 6-max Seat #6 is the button
+Seat 5: biermann78 ($56.43 in chips)
+Seat 6: pokkermon ($88 in chips)
+pokkermon: posts small blind $1
+AzureCaper: is sitting out
+biermann78: posts big blind $3
+*** HOLE CARDS ***
+pokkermon: raises $3 to $6
+AzureCaper leaves the table
+biermann78: calls $3
+*** FLOP *** [9d 8h 3c]
+biermann78: bets $3
+pokkermon: calls $3
+*** TURN *** [9d 8h 3c] [6d]
+biermann78: bets $6
+pokkermon: calls $6
+*** RIVER *** [9d 8h 3c 6d] [3s]
+biermann78: bets $6
+@92gara42@ joins the table at seat #3
+pokkermon: calls $6
+*** SHOW DOWN ***
+biermann78: shows [5h 7d] (a straight, Five to Nine)
+pokkermon: mucks hand
+biermann78 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9d 8h 3c 6d 3s]
+Seat 5: biermann78 (big blind) showed [5h 7d] and won ($41.50) with a straight, Five to Nine
+Seat 6: pokkermon (button) (small blind) mucked
+
+

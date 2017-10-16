@@ -1,0 +1,120 @@
+PokerStars Hand #163517173409:  Hold'em Limit ($3/$6 USD) - 2016/12/25 17:18:20 ET
+Table 'Sputnik' 10-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 5: saas03 ($198 in chips)
+VolkovDmitri: posts small blind $1
+saas03: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+saas03: calls $3
+*** FLOP *** [Td 9s Jd]
+saas03: checks
+alfredg joins the table at seat #6
+VolkovDmitri: bets $3
+saas03: calls $3
+*** TURN *** [Td 9s Jd] [Tc]
+saas03: checks
+VolkovDmitri: checks
+*** RIVER *** [Td 9s Jd Tc] [4c]
+saas03: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+saas03: shows [Kd 5d] (a pair of Tens)
+VolkovDmitri: shows [5s Kc] (a pair of Tens)
+saas03 collected $14.75 from pot
+VolkovDmitri collected $14.75 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Td 9s Jd Tc 4c]
+Seat 1: VolkovDmitri (button) (small blind) showed [5s Kc] and won ($14.75) with a pair of Tens
+Seat 5: saas03 (big blind) showed [Kd 5d] and won ($14.75) with a pair of Tens
+
+
+PokerStars Hand #163517259594:  Hold'em Limit ($3/$6 USD) - 2016/12/25 17:19:53 ET
+Table 'Sputnik' 10-max Seat #1 is the button
+Seat 1: VolkovDmitri ($126.61 in chips)
+Seat 6: alfredg ($114 in chips)
+GoliafUa will be allowed to play after the button
+VolkovDmitri: posts small blind $1
+Kaukadiginte joins the table at seat #5
+alfredg: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+alfredg: calls $3
+*** FLOP *** [Qs Th 9d]
+alfredg: checks
+VolkovDmitri: bets $3
+alfredg: calls $3
+*** TURN *** [Qs Th 9d] [7c]
+alfredg: checks
+VolkovDmitri: bets $6
+alfredg: calls $6
+*** RIVER *** [Qs Th 9d 7c] [2h]
+ToDaFelt joins the table at seat #8
+alfredg: checks
+VolkovDmitri: bets $6
+alfredg: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [7d 9c] (two pair, Nines and Sevens)
+alfredg: mucks hand
+VolkovDmitri collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Qs Th 9d 7c 2h]
+Seat 1: VolkovDmitri (button) (small blind) showed [7d 9c] and won ($41.50) with two pair, Nines and Sevens
+Seat 6: alfredg (big blind) mucked
+
+
+PokerStars Hand #163521993848:  Hold'em Limit ($3/$6 USD) - 2016/12/25 18:48:16 ET
+Table 'Sputnik' 10-max Seat #9 is the button
+Seat 8: ToDaFelt ($232.99 in chips)
+Seat 9: aceduffy5 ($45.91 in chips)
+aceduffy5: posts small blind $1
+VolkovDmitri: is sitting out
+SirRomanov: is sitting out
+SirRomanov leaves the table
+Actionni13: is sitting out
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri leaves the table
+aceduffy5: folds
+Uncalled bet ($2) returned to ToDaFelt
+ToDaFelt collected $2 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 8: ToDaFelt (big blind) collected ($2)
+Seat 9: aceduffy5 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #163521998853:  Hold'em Limit ($3/$6 USD) - 2016/12/25 18:48:23 ET
+Table 'Sputnik' 10-max Seat #8 is the button
+Seat 8: ToDaFelt ($233.99 in chips)
+Seat 9: aceduffy5 ($44.91 in chips)
+ToDaFelt: posts small blind $1
+aceduffy5: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+Actionni13 leaves the table
+aceduffy5: calls $3
+*** FLOP *** [5s Jh 5d]
+aceduffy5: bets $3
+ToDaFelt: calls $3
+*** TURN *** [5s Jh 5d] [6d]
+aceduffy5: bets $6
+ToDaFelt: raises $6 to $12
+aceduffy5: calls $6
+*** RIVER *** [5s Jh 5d 6d] [Kd]
+aceduffy5: bets $6
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+aceduffy5: shows [7d 2d] (a flush, King high)
+ToDaFelt: mucks hand
+aceduffy5 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [5s Jh 5d 6d Kd]
+Seat 8: ToDaFelt (button) (small blind) mucked
+Seat 9: aceduffy5 (big blind) showed [7d 2d] and won ($53.50) with a flush, King high
+
+

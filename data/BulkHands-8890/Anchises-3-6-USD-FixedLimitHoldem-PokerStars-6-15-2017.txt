@@ -1,0 +1,61 @@
+PokerStars Hand #171811534913:  Hold'em Limit ($3/$6 USD) - 2017/06/15 13:59:39 ET
+Table 'Anchises' 6-max Seat #1 is the button
+Seat 1: andyrr ($73.81 in chips)
+Seat 2: CatPuppy1999 ($48 in chips)
+andyrr: posts small blind $1
+CatPuppy1999: posts big blind $3
+*** HOLE CARDS ***
+andyrr: raises $3 to $6
+CatPuppy1999: calls $3
+*** FLOP *** [As 8c Kh]
+Auge72 joins the table at seat #4
+CatPuppy1999: checks
+andyrr: bets $3
+CatPuppy1999: calls $3
+*** TURN *** [As 8c Kh] [Jc]
+CatPuppy1999: checks
+andyrr: bets $6
+vestimokrec joins the table at seat #5
+CatPuppy1999: calls $6
+*** RIVER *** [As 8c Kh Jc] [7h]
+CatPuppy1999: checks
+andyrr: bets $6
+Auge72 leaves the table
+CatPuppy1999: folds
+Uncalled bet ($6) returned to andyrr
+andyrr collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [As 8c Kh Jc 7h]
+Seat 1: andyrr (button) (small blind) collected ($29.50)
+Seat 2: CatPuppy1999 (big blind) folded on the River
+
+
+PokerStars Hand #171811568261:  Hold'em Limit ($3/$6 USD) - 2017/06/15 14:00:34 ET
+Table 'Anchises' 6-max Seat #5 is the button
+Seat 2: CatPuppy1999 ($94.65 in chips)
+Seat 5: vestimokrec ($117 in chips)
+vestimokrec: posts small blind $1
+CatPuppy1999: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+andyrr leaves the table
+CatPuppy1999: calls $3
+*** FLOP *** [Ts Qc 9d]
+CatPuppy1999: checks
+vestimokrec: bets $3
+CatPuppy1999: calls $3
+*** TURN *** [Ts Qc 9d] [8h]
+CatPuppy1999: checks
+vestimokrec: bets $6
+CatPuppy1999: folds
+Uncalled bet ($6) returned to vestimokrec
+vestimokrec collected $17.64 from pot
+vestimokrec: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ts Qc 9d 8h]
+Seat 2: CatPuppy1999 (big blind) folded on the Turn
+Seat 5: vestimokrec (button) (small blind) collected ($17.64)
+
+

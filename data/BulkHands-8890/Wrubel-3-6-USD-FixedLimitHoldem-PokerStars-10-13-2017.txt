@@ -1,0 +1,50 @@
+PokerStars Hand #176869293950:  Hold'em Limit ($3/$6 USD) - 2017/10/13 14:42:53 ET
+Table 'Wrubel' 6-max Seat #1 is the button
+Seat 1: DECAlpha ($119.10 in chips)
+Seat 2: kusznak ($197.16 in chips)
+DECAlpha: posts small blind $1
+kusznak: posts big blind $3
+*** HOLE CARDS ***
+DECAlpha: raises $3 to $6
+kusznak: folds
+Uncalled bet ($3) returned to DECAlpha
+DECAlpha collected $6 from pot
+DECAlpha: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: DECAlpha (button) (small blind) collected ($6)
+Seat 2: kusznak (big blind) folded before Flop
+
+
+PokerStars Hand #176869278891:  Hold'em Limit ($3/$6 USD) - 2017/10/13 14:42:33 ET
+Table 'Wrubel' 6-max Seat #2 is the button
+Seat 1: DECAlpha ($104.60 in chips)
+Seat 2: kusznak ($212.16 in chips)
+kusznak: posts small blind $1
+vestimokrec: is sitting out
+DECAlpha: posts big blind $3
+*** HOLE CARDS ***
+dmonr joins the table at seat #5
+kusznak: raises $3 to $6
+DECAlpha: calls $3
+*** FLOP *** [Ks Jc 3d]
+DECAlpha: checks
+kusznak: bets $3
+DECAlpha: calls $3
+*** TURN *** [Ks Jc 3d] [3s]
+DECAlpha: checks
+kusznak: checks
+*** RIVER *** [Ks Jc 3d 3s] [7c]
+DECAlpha: bets $6
+kusznak: calls $6
+*** SHOW DOWN ***
+DECAlpha: shows [Js 7s] (two pair, Jacks and Sevens)
+kusznak: mucks hand
+DECAlpha collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ks Jc 3d 3s 7c]
+Seat 1: DECAlpha (big blind) showed [Js 7s] and won ($29.50) with two pair, Jacks and Sevens
+Seat 2: kusznak (button) (small blind) mucked
+
+

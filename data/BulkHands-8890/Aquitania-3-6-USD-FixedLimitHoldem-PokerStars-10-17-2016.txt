@@ -1,0 +1,121 @@
+PokerStars Hand #160043207154:  Hold'em Limit ($3/$6 USD) - 2016/10/16 23:39:37 ET
+Table 'Aquitania' 6-max Seat #1 is the button
+Seat 1: RaisemyNut$ ($301.09 in chips)
+Seat 6: h83yj ($512.32 in chips)
+RaisemyNut$: posts small blind $1
+B_loJkl: is sitting out
+h83yj: posts big blind $3
+*** HOLE CARDS ***
+RaisemyNut$: folds
+Uncalled bet ($2) returned to h83yj
+h83yj collected $2 from pot
+B_loJkl leaves the table
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: RaisemyNut$ (button) (small blind) folded before Flop
+Seat 6: h83yj (big blind) collected ($2)
+
+
+PokerStars Hand #160043208741:  Hold'em Limit ($3/$6 USD) - 2016/10/16 23:39:44 ET
+Table 'Aquitania' 6-max Seat #6 is the button
+Seat 1: RaisemyNut$ ($300.09 in chips)
+Seat 6: h83yj ($513.32 in chips)
+h83yj: posts small blind $1
+RaisemyNut$: posts big blind $3
+*** HOLE CARDS ***
+h83yj: raises $3 to $6
+RaisemyNut$: calls $3
+*** FLOP *** [3h Kd 4d]
+B_loJkl joins the table at seat #2
+RaisemyNut$: checks
+h83yj: bets $3
+RaisemyNut$: raises $3 to $6
+h83yj: calls $3
+*** TURN *** [3h Kd 4d] [Td]
+RaisemyNut$: bets $6
+h83yj: calls $6
+*** RIVER *** [3h Kd 4d Td] [2h]
+RaisemyNut$: checks
+h83yj: checks
+*** SHOW DOWN ***
+RaisemyNut$: shows [5d 7c] (high card King)
+h83yj: shows [5c 3c] (a pair of Threes)
+h83yj collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [3h Kd 4d Td 2h]
+Seat 1: RaisemyNut$ (big blind) showed [5d 7c] and lost with high card King
+Seat 6: h83yj (button) (small blind) showed [5c 3c] and won ($35.50) with a pair of Threes
+
+
+PokerStars Hand #160043299206:  Hold'em Limit ($3/$6 USD) - 2016/10/16 23:45:24 ET
+Table 'Aquitania' 6-max Seat #1 is the button
+Seat 1: RaisemyNut$ ($280.89 in chips)
+Seat 3: €@nsrijk2 ($48.35 in chips)
+RaisemyNut$: posts small blind $1
+B_loJkl: is sitting out
+€@nsrijk2: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl leaves the table
+RaisemyNut$: raises $3 to $6
+€@nsrijk2: calls $3
+*** FLOP *** [5s Qs 2h]
+B_loJkl joins the table at seat #4
+€@nsrijk2: checks
+RaisemyNut$: bets $3
+€@nsrijk2: calls $3
+*** TURN *** [5s Qs 2h] [7h]
+€@nsrijk2: checks
+RaisemyNut$: bets $6
+€@nsrijk2: calls $6
+*** RIVER *** [5s Qs 2h 7h] [Kh]
+€@nsrijk2: checks
+RaisemyNut$: checks
+*** SHOW DOWN ***
+€@nsrijk2: shows [As 4h] (high card Ace)
+RaisemyNut$: mucks hand
+€@nsrijk2 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5s Qs 2h 7h Kh]
+Seat 1: RaisemyNut$ (button) (small blind) mucked
+Seat 3: €@nsrijk2 (big blind) showed [As 4h] and won ($29.50) with high card Ace
+
+
+PokerStars Hand #160043444881:  Hold'em Limit ($3/$6 USD) - 2016/10/16 23:55:13 ET
+Table 'Aquitania' 6-max Seat #1 is the button
+Seat 1: RaisemyNut$ ($268.17 in chips)
+Seat 4: B_loJkl ($165.88 in chips)
+RaisemyNut$: posts small blind $1
+€@nsrijk2: is sitting out
+€@nsrijk2 leaves the table
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+RaisemyNut$: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [3s As 9d]
+B_loJkl: checks
+RaisemyNut$: bets $3
+B_loJkl: calls $3
+*** TURN *** [3s As 9d] [Js]
+B_loJkl: checks
+RaisemyNut$: bets $6
+B_loJkl: raises $6 to $12
+RaisemyNut$: raises $6 to $18
+B_loJkl: raises $6 to $24
+Betting is capped
+RaisemyNut$: calls $6
+*** RIVER *** [3s As 9d Js] [9s]
+B_loJkl: bets $6
+RaisemyNut$: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [Qs 6s] (a flush, Ace high)
+RaisemyNut$: mucks hand
+B_loJkl collected $77.50 from pot
+*** SUMMARY ***
+Total pot $78 | Rake $0.50
+Board [3s As 9d Js 9s]
+Seat 1: RaisemyNut$ (button) (small blind) mucked
+Seat 4: B_loJkl (big blind) showed [Qs 6s] and won ($77.50) with a flush, Ace high
+
+

@@ -1,0 +1,115 @@
+PokerStars Hand #172308405720:  Hold'em Limit ($3/$6 USD) - 2017/06/27 12:50:04 ET
+Table 'Rusthawelia' 6-max Seat #4 is the button
+Seat 1: arut0101 ($18 in chips)
+Seat 4: Agrotait ($83.52 in chips)
+Agrotait: posts small blind $1
+arut0101: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+arut0101: calls $3
+*** FLOP *** [Qh Tc 3s]
+arut0101: checks
+Agrotait: bets $3
+arut0101: calls $3
+*** TURN *** [Qh Tc 3s] [Ks]
+arut0101: checks
+Agrotait: bets $6
+arut0101: folds
+Uncalled bet ($6) returned to Agrotait
+Agrotait collected $17.64 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qh Tc 3s Ks]
+Seat 1: arut0101 (big blind) folded on the Turn
+Seat 4: Agrotait (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #172308389328:  Hold'em Limit ($3/$6 USD) - 2017/06/27 12:49:38 ET
+Table 'Rusthawelia' 6-max Seat #1 is the button
+Seat 1: arut0101 ($30 in chips)
+Seat 4: Agrotait ($72 in chips)
+arut0101: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+arut0101: calls $2
+Agrotait: checks
+*** FLOP *** [8d 7h 5h]
+Zubasa07 joins the table at seat #2
+Agrotait: bets $3
+arut0101: calls $3
+*** TURN *** [8d 7h 5h] [Qd]
+Agrotait: bets $6
+arut0101: calls $6
+*** RIVER *** [8d 7h 5h Qd] [5c]
+Agrotait: bets $6
+arut0101: folds
+Uncalled bet ($6) returned to Agrotait
+Agrotait collected $23.52 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [8d 7h 5h Qd 5c]
+Seat 1: arut0101 (button) (small blind) folded on the River
+Seat 4: Agrotait (big blind) collected ($23.52)
+
+
+PokerStars Hand #172308415801:  Hold'em Limit ($3/$6 USD) - 2017/06/27 12:50:19 ET
+Table 'Rusthawelia' 6-max Seat #1 is the button
+Seat 1: arut0101 ($9 in chips)
+Seat 4: Agrotait ($92.16 in chips)
+arut0101: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+arut0101: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [9c 8h 3s]
+Agrotait: checks
+arut0101: bets $3 and is all-in
+Agrotait: calls $3
+*** TURN *** [9c 8h 3s] [2s]
+*** RIVER *** [9c 8h 3s 2s] [Ks]
+*** SHOW DOWN ***
+Agrotait: shows [2h Kc] (two pair, Kings and Deuces)
+arut0101: shows [Qs Ah] (high card Ace)
+Agrotait collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9c 8h 3s 2s Ks]
+Seat 1: arut0101 (button) (small blind) showed [Qs Ah] and lost with high card Ace
+Seat 4: Agrotait (big blind) showed [2h Kc] and won ($17.64) with two pair, Kings and Deuces
+
+
+PokerStars Hand #172308477895:  Hold'em Limit ($3/$6 USD) - 2017/06/27 12:51:57 ET
+Table 'Rusthawelia' 6-max Seat #2 is the button
+Seat 2: Zubasa07 ($319.74 in chips)
+Seat 4: Agrotait ($109.26 in chips)
+Zubasa07: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+arut0101 leaves the table
+Agrotait: calls $3
+*** FLOP *** [Qs 2d 2s]
+Agrotait: checks
+Zubasa07: bets $3
+Agrotait: calls $3
+*** TURN *** [Qs 2d 2s] [3d]
+Agrotait: checks
+Zubasa07: bets $6
+Agrotait: calls $6
+*** RIVER *** [Qs 2d 2s 3d] [Th]
+Agrotait: checks
+Zubasa07: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+Zubasa07: shows [2h Qd] (a full house, Deuces full of Queens)
+Agrotait: mucks hand
+Zubasa07 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Qs 2d 2s 3d Th]
+Seat 2: Zubasa07 (button) (small blind) showed [2h Qd] and won ($41.50) with a full house, Deuces full of Queens
+Seat 4: Agrotait (big blind) mucked
+
+

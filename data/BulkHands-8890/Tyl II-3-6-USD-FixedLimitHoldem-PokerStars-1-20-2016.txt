@@ -1,0 +1,75 @@
+PokerStars Hand #147356930222:  Hold'em Limit ($3/$6 USD) - 2016/01/20 6:11:11 ET
+Table 'Tyl II' 2-max Seat #1 is the button
+Seat 1: ChicagoBull4 ($134.50 in chips)
+Seat 2: ChOfW ($66 in chips)
+ChicagoBull4: posts small blind $1
+ChOfW: posts big blind $3
+*** HOLE CARDS ***
+ChicagoBull4: folds
+Uncalled bet ($2) returned to ChOfW
+ChOfW collected $2 from pot
+ChOfW: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: ChicagoBull4 (button) (small blind) folded before Flop
+Seat 2: ChOfW (big blind) collected ($2)
+
+
+PokerStars Hand #147356977334:  Hold'em Limit ($3/$6 USD) - 2016/01/20 6:12:42 ET
+Table 'Tyl II' 2-max Seat #1 is the button
+Seat 1: ChicagoBull4 ($106.50 in chips)
+Seat 2: ChOfW ($93.50 in chips)
+ChicagoBull4: posts small blind $1
+ChOfW: posts big blind $3
+*** HOLE CARDS ***
+ChicagoBull4: raises $3 to $6
+ChOfW: calls $3
+*** FLOP *** [Ks 3c 6s]
+ChOfW: checks
+ChicagoBull4: bets $3
+ChOfW: folds
+Uncalled bet ($3) returned to ChicagoBull4
+ChicagoBull4 collected $11.76 from pot
+ChicagoBull4: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ks 3c 6s]
+Seat 1: ChicagoBull4 (button) (small blind) collected ($11.76)
+Seat 2: ChOfW (big blind) folded on the Flop
+
+
+PokerStars Hand #147356938718:  Hold'em Limit ($3/$6 USD) - 2016/01/20 6:11:28 ET
+Table 'Tyl II' 2-max Seat #2 is the button
+Seat 1: ChicagoBull4 ($133.50 in chips)
+Seat 2: ChOfW ($67 in chips)
+ChOfW: posts small blind $1
+ChicagoBull4: posts big blind $3
+*** HOLE CARDS ***
+ChOfW: raises $3 to $6
+ChicagoBull4: raises $3 to $9
+ChOfW: raises $3 to $12
+Betting is capped
+ChicagoBull4: calls $3
+*** FLOP *** [9s 2h Th]
+ChicagoBull4: checks
+ChOfW: bets $3
+ChicagoBull4: calls $3
+*** TURN *** [9s 2h Th] [Js]
+ChicagoBull4: checks
+ChOfW: bets $6
+ChicagoBull4: calls $6
+*** RIVER *** [9s 2h Th Js] [Jc]
+ChicagoBull4: checks
+ChOfW: bets $6
+ChicagoBull4: calls $6
+*** SHOW DOWN ***
+ChOfW: shows [As Ac] (two pair, Aces and Jacks)
+ChicagoBull4: mucks hand
+ChOfW collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [9s 2h Th Js Jc]
+Seat 1: ChicagoBull4 (big blind) mucked
+Seat 2: ChOfW (button) (small blind) showed [As Ac] and won ($53.50) with two pair, Aces and Jacks
+
+

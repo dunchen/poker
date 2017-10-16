@@ -1,0 +1,104 @@
+PokerStars Hand #167942481768:  Hold'em Limit ($3/$6 USD) - 2017/03/22 8:01:41 ET
+Table 'Bessel' 6-max Seat #3 is the button
+Seat 1: Boxer-Carlo ($90.18 in chips)
+Seat 3: simper11 ($134.50 in chips)
+simper11: posts small blind $1
+Boxer-Carlo: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+Boxer-Carlo: calls $3
+*** FLOP *** [8c 6c 9h]
+Boxer-Carlo: checks
+simper11: checks
+*** TURN *** [8c 6c 9h] [As]
+Boxer-Carlo: bets $6
+simper11: raises $6 to $12
+Boxer-Carlo: calls $6
+*** RIVER *** [8c 6c 9h As] [Ad]
+Boxer-Carlo: checks
+simper11: bets $6
+Boxer-Carlo: raises $6 to $12
+simper11: calls $6
+*** SHOW DOWN ***
+Boxer-Carlo: shows [7h 6h] (two pair, Aces and Sixes)
+simper11: shows [4s Ah] (three of a kind, Aces)
+simper11 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [8c 6c 9h As Ad]
+Seat 1: Boxer-Carlo (big blind) showed [7h 6h] and lost with two pair, Aces and Sixes
+Seat 3: simper11 (button) (small blind) showed [4s Ah] and won ($59.50) with three of a kind, Aces
+
+
+PokerStars Hand #167942498160:  Hold'em Limit ($3/$6 USD) - 2017/03/22 8:02:17 ET
+Table 'Bessel' 6-max Seat #3 is the button
+Seat 1: Boxer-Carlo ($54.18 in chips)
+Seat 3: simper11 ($169.76 in chips)
+simper11: posts small blind $1
+Boxer-Carlo: posts big blind $3
+*** HOLE CARDS ***
+simper11: folds
+Uncalled bet ($2) returned to Boxer-Carlo
+Boxer-Carlo collected $2 from pot
+Boxer-Carlo: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Boxer-Carlo (big blind) collected ($2)
+Seat 3: simper11 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #167942492022:  Hold'em Limit ($3/$6 USD) - 2017/03/22 8:02:03 ET
+Table 'Bessel' 6-max Seat #1 is the button
+Seat 1: Boxer-Carlo ($60.18 in chips)
+Seat 3: simper11 ($164 in chips)
+Boxer-Carlo: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+Boxer-Carlo: raises $3 to $6
+simper11: calls $3
+*** FLOP *** [9h 7c 2h]
+simper11: checks
+Boxer-Carlo: checks
+*** TURN *** [9h 7c 2h] [9d]
+simper11: bets $6
+Boxer-Carlo: folds
+Uncalled bet ($6) returned to simper11
+simper11 collected $11.76 from pot
+simper11: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9h 7c 2h 9d]
+Seat 1: Boxer-Carlo (button) (small blind) folded on the Turn
+Seat 3: simper11 (big blind) collected ($11.76)
+
+
+PokerStars Hand #167942470048:  Hold'em Limit ($3/$6 USD) - 2017/03/22 8:01:16 ET
+Table 'Bessel' 6-max Seat #1 is the button
+Seat 1: Boxer-Carlo ($105.18 in chips)
+Seat 3: simper11 ($120 in chips)
+Boxer-Carlo: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+Boxer-Carlo: raises $3 to $6
+simper11: calls $3
+*** FLOP *** [7s 5d Td]
+simper11: checks
+Boxer-Carlo: bets $3
+simper11: calls $3
+*** TURN *** [7s 5d Td] [Qc]
+simper11: checks
+Boxer-Carlo: checks
+*** RIVER *** [7s 5d Td Qc] [3h]
+simper11: bets $6
+Boxer-Carlo: calls $6
+*** SHOW DOWN ***
+simper11: shows [Qs 6s] (a pair of Queens)
+Boxer-Carlo: mucks hand
+simper11 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7s 5d Td Qc 3h]
+Seat 1: Boxer-Carlo (button) (small blind) mucked
+Seat 3: simper11 (big blind) showed [Qs 6s] and won ($29.50) with a pair of Queens
+
+

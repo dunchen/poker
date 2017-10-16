@@ -1,0 +1,67 @@
+PokerStars Hand #157982273552:  Hold'em Limit ($3/$6 USD) - 2016/08/31 13:39:10 ET
+Table 'Aludra' 6-max Seat #3 is the button
+Seat 1: skaluah ($16.89 in chips)
+Seat 3: Wurst2000 ($351.35 in chips)
+Wurst2000: posts small blind $1
+crash19867: is sitting out
+AAinthehole: is sitting out
+skaluah: posts big blind $3
+*** HOLE CARDS ***
+AAinthehole leaves the table
+Wurst2000: raises $3 to $6
+skaluah: calls $3
+*** FLOP *** [8c 2s 5d]
+skaluah: bets $3
+Wurst2000: raises $3 to $6
+skaluah: raises $3 to $9
+Wurst2000: calls $3
+*** TURN *** [8c 2s 5d] [Ac]
+skaluah: bets $1.89 and is all-in
+Wurst2000: calls $1.89
+*** RIVER *** [8c 2s 5d Ac] [Th]
+fthienpo joins the table at seat #6
+*** SHOW DOWN ***
+skaluah: shows [9d 3h] (high card Ace)
+Wurst2000: shows [8d Jc] (a pair of Eights)
+Wurst2000 collected $33.28 from pot
+*** SUMMARY ***
+Total pot $33.78 | Rake $0.50
+Board [8c 2s 5d Ac Th]
+Seat 1: skaluah (big blind) showed [9d 3h] and lost with high card Ace
+Seat 3: Wurst2000 (button) (small blind) showed [8d Jc] and won ($33.28) with a pair of Eights
+
+
+PokerStars Hand #157986615254:  Hold'em Limit ($3/$6 USD) - 2016/08/31 15:14:53 ET
+Table 'Aludra' 6-max Seat #4 is the button
+Seat 3: ``MULAT``86 ($137.40 in chips)
+Seat 4: fishbla ($164.84 in chips)
+fishbla: posts small blind $1
+Wurst2000: is sitting out
+Ag3r0n: is sitting out
+``MULAT``86: posts big blind $3
+*** HOLE CARDS ***
+Wurst2000 leaves the table
+Ag3r0n leaves the table
+fishbla: raises $3 to $6
+``MULAT``86: calls $3
+*** FLOP *** [9d 3h 6h]
+``MULAT``86: checks
+fishbla: bets $3
+``MULAT``86: calls $3
+*** TURN *** [9d 3h 6h] [Jd]
+``MULAT``86: checks
+fishbla: checks
+*** RIVER *** [9d 3h 6h Jd] [Ah]
+``MULAT``86: checks
+fishbla: checks
+*** SHOW DOWN ***
+``MULAT``86: shows [Jc 7c] (a pair of Jacks)
+fishbla: mucks hand
+``MULAT``86 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9d 3h 6h Jd Ah]
+Seat 3: ``MULAT``86 (big blind) showed [Jc 7c] and won ($17.64) with a pair of Jacks
+Seat 4: fishbla (button) (small blind) mucked
+
+

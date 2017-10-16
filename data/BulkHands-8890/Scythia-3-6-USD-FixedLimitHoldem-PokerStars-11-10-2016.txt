@@ -1,0 +1,55 @@
+PokerStars Hand #161182892343:  Hold'em Limit ($3/$6 USD) - 2016/11/10 7:27:25 ET
+Table 'Scythia' 6-max Seat #3 is the button
+Seat 3: cheeestar198 ($30.27 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+cheeestar198: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+cheeestar198: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [8d 9c 5d]
+VolkovDmitri: checks
+cheeestar198: bets $3
+VolkovDmitri: raises $3 to $6
+cheeestar198: calls $3
+*** TURN *** [8d 9c 5d] [4c]
+VolkovDmitri: bets $6
+cheeestar198: calls $6
+*** RIVER *** [8d 9c 5d 4c] [6h]
+VolkovDmitri: bets $6
+cheeestar198: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [6c 8h] (two pair, Eights and Sixes)
+cheeestar198: mucks hand
+VolkovDmitri collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8d 9c 5d 4c 6h]
+Seat 3: cheeestar198 (button) (small blind) mucked
+Seat 4: VolkovDmitri (big blind) showed [6c 8h] and won ($47.50) with two pair, Eights and Sixes
+
+
+PokerStars Hand #161182910095:  Hold'em Limit ($3/$6 USD) - 2016/11/10 7:28:01 ET
+Table 'Scythia' 6-max Seat #4 is the button
+Seat 3: cheeestar198 ($6.27 in chips)
+Seat 4: VolkovDmitri ($143.50 in chips)
+VolkovDmitri: posts small blind $1
+cheeestar198: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+cheeestar198: raises $0.27 to $6.27 and is all-in
+VolkovDmitri: calls $0.27
+*** FLOP *** [9c 6d Ad]
+*** TURN *** [9c 6d Ad] [Qh]
+*** RIVER *** [9c 6d Ad Qh] [6h]
+*** SHOW DOWN ***
+cheeestar198: shows [Kh 8h] (a pair of Sixes)
+VolkovDmitri: shows [As 9d] (two pair, Aces and Nines)
+VolkovDmitri collected $12.29 from pot
+*** SUMMARY ***
+Total pot $12.54 | Rake $0.25
+Board [9c 6d Ad Qh 6h]
+Seat 3: cheeestar198 (big blind) showed [Kh 8h] and lost with a pair of Sixes
+Seat 4: VolkovDmitri (button) (small blind) showed [As 9d] and won ($12.29) with two pair, Aces and Nines
+
+

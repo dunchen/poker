@@ -1,0 +1,546 @@
+PokerStars Hand #171596337276:  Hold'em Limit ($3/$6 USD) - 2017/06/10 12:22:55 ET
+Table 'Aurora' 10-max Seat #5 is the button
+Seat 5: trapDK ($41.05 in chips)
+Seat 9: GoliafUa ($120 in chips)
+trapDK: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+trapDK: raises $3 to $6
+GoliafUa: calls $3
+*** FLOP *** [Tc Qs 8c]
+GoliafUa: checks
+trapDK: bets $3
+GoliafUa: calls $3
+*** TURN *** [Tc Qs 8c] [3d]
+GoliafUa: checks
+trapDK: bets $6
+GoliafUa: calls $6
+*** RIVER *** [Tc Qs 8c 3d] [Ah]
+GoliafUa: checks
+trapDK: bets $6
+GoliafUa: calls $6
+*** SHOW DOWN ***
+trapDK: shows [As 8h] (two pair, Aces and Eights)
+GoliafUa: mucks hand
+trapDK collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Tc Qs 8c 3d Ah]
+Seat 5: trapDK (button) (small blind) showed [As 8h] and won ($41.50) with two pair, Aces and Eights
+Seat 9: GoliafUa (big blind) mucked
+
+
+PokerStars Hand #171596371184:  Hold'em Limit ($3/$6 USD) - 2017/06/10 12:23:48 ET
+Table 'Aurora' 10-max Seat #5 is the button
+Seat 5: trapDK ($40.55 in chips)
+Seat 9: GoliafUa ($119.50 in chips)
+trapDK: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+trapDK: raises $3 to $6
+GoliafUa: folds
+Uncalled bet ($3) returned to trapDK
+trapDK collected $6 from pot
+trapDK: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 5: trapDK (button) (small blind) collected ($6)
+Seat 9: GoliafUa (big blind) folded before Flop
+
+
+PokerStars Hand #171596356839:  Hold'em Limit ($3/$6 USD) - 2017/06/10 12:23:26 ET
+Table 'Aurora' 10-max Seat #9 is the button
+Seat 5: trapDK ($61.55 in chips)
+Seat 9: GoliafUa ($99 in chips)
+GoliafUa: posts small blind $1
+trapDK: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa: raises $3 to $6
+trapDK: calls $3
+*** FLOP *** [5h Ah 7s]
+trapDK: checks
+GoliafUa: bets $3
+trapDK: calls $3
+*** TURN *** [5h Ah 7s] [8c]
+trapDK: checks
+GoliafUa: bets $6
+trapDK: calls $6
+*** RIVER *** [5h Ah 7s 8c] [2c]
+trapDK: checks
+GoliafUa: bets $6
+trapDK: calls $6
+*** SHOW DOWN ***
+GoliafUa: shows [As Jd] (a pair of Aces)
+trapDK: mucks hand
+GoliafUa collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [5h Ah 7s 8c 2c]
+Seat 5: trapDK (big blind) mucked
+Seat 9: GoliafUa (button) (small blind) showed [As Jd] and won ($41.50) with a pair of Aces
+
+
+PokerStars Hand #171596375123:  Hold'em Limit ($3/$6 USD) - 2017/06/10 12:23:54 ET
+Table 'Aurora' 10-max Seat #9 is the button
+Seat 5: trapDK ($43.55 in chips)
+Seat 9: GoliafUa ($116.50 in chips)
+GoliafUa: posts small blind $1
+trapDK: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa: folds
+Uncalled bet ($2) returned to trapDK
+trapDK collected $2 from pot
+trapDK: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: trapDK (big blind) collected ($2)
+Seat 9: GoliafUa (button) (small blind) folded before Flop
+
+
+PokerStars Hand #171596387336:  Hold'em Limit ($3/$6 USD) - 2017/06/10 12:24:14 ET
+Table 'Aurora' 10-max Seat #9 is the button
+Seat 5: trapDK ($47.43 in chips)
+Seat 9: GoliafUa ($112.50 in chips)
+GoliafUa: posts small blind $1
+trapDK: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa: folds
+Uncalled bet ($2) returned to trapDK
+trapDK collected $2 from pot
+trapDK: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: trapDK (big blind) collected ($2)
+Seat 9: GoliafUa (button) (small blind) folded before Flop
+
+
+PokerStars Hand #171596378745:  Hold'em Limit ($3/$6 USD) - 2017/06/10 12:24:00 ET
+Table 'Aurora' 10-max Seat #5 is the button
+Seat 5: trapDK ($44.55 in chips)
+Seat 9: GoliafUa ($115.50 in chips)
+trapDK: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+trapDK: calls $2
+GoliafUa: checks
+*** FLOP *** [9d 9c 8d]
+GoliafUa: checks
+trapDK: checks
+*** TURN *** [9d 9c 8d] [Jc]
+GoliafUa: checks
+trapDK: checks
+*** RIVER *** [9d 9c 8d Jc] [3h]
+GoliafUa: checks
+trapDK: checks
+*** SHOW DOWN ***
+GoliafUa: shows [4d Qc] (a pair of Nines)
+trapDK: shows [6h Kd] (a pair of Nines - King kicker)
+trapDK collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [9d 9c 8d Jc 3h]
+Seat 5: trapDK (button) (small blind) showed [6h Kd] and won ($5.88) with a pair of Nines
+Seat 9: GoliafUa (big blind) showed [4d Qc] and lost with a pair of Nines
+
+
+PokerStars Hand #171596390934:  Hold'em Limit ($3/$6 USD) - 2017/06/10 12:24:19 ET
+Table 'Aurora' 10-max Seat #5 is the button
+Seat 5: trapDK ($48.43 in chips)
+Seat 9: GoliafUa ($111.50 in chips)
+trapDK: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+trapDK: raises $3 to $6
+GoliafUa: calls $3
+*** FLOP *** [4c 3c 8c]
+GoliafUa: checks
+kolaz03 joins the table at seat #6
+trapDK: checks
+*** TURN *** [4c 3c 8c] [Qc]
+GoliafUa: checks
+trapDK: checks
+*** RIVER *** [4c 3c 8c Qc] [6d]
+GoliafUa: checks
+trapDK: bets $6
+GoliafUa: folds
+Uncalled bet ($6) returned to trapDK
+trapDK collected $11.76 from pot
+trapDK: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4c 3c 8c Qc 6d]
+Seat 5: trapDK (button) (small blind) collected ($11.76)
+Seat 9: GoliafUa (big blind) folded on the River
+
+
+PokerStars Hand #171596401874:  Hold'em Limit ($3/$6 USD) - 2017/06/10 12:24:37 ET
+Table 'Aurora' 10-max Seat #9 is the button
+Seat 5: trapDK ($54.19 in chips)
+Seat 9: GoliafUa ($105.50 in chips)
+GoliafUa: posts small blind $1
+trapDK: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa: folds
+Uncalled bet ($2) returned to trapDK
+trapDK collected $2 from pot
+trapDK: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: trapDK (big blind) collected ($2)
+Seat 9: GoliafUa (button) (small blind) folded before Flop
+
+
+PokerStars Hand #171596605336:  Hold'em Limit ($3/$6 USD) - 2017/06/10 12:29:55 ET
+Table 'Aurora' 10-max Seat #6 is the button
+Seat 6: kolaz03 ($72 in chips)
+Seat 7: B_loJkl ($144.28 in chips)
+kolaz03: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+kolaz03: raises $3 to $6
+B_loJkl: raises $3 to $9
+kolaz03: calls $3
+*** FLOP *** [8s Ts 6s]
+trapDK leaves the table
+B_loJkl: bets $3
+kolaz03: calls $3
+*** TURN *** [8s Ts 6s] [4d]
+B_loJkl: bets $6
+kolaz03: raises $6 to $12
+B_loJkl: raises $6 to $18
+kolaz03: calls $6
+*** RIVER *** [8s Ts 6s 4d] [Ks]
+B_loJkl: bets $6
+kolaz03: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [6d 6c] (three of a kind, Sixes)
+kolaz03: shows [7s Ah] (a flush, King high)
+kolaz03 collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [8s Ts 6s 4d Ks]
+Seat 6: kolaz03 (button) (small blind) showed [7s Ah] and won ($71.50) with a flush, King high
+Seat 7: B_loJkl (big blind) showed [6d 6c] and lost with three of a kind, Sixes
+
+
+PokerStars Hand #171596640322:  Hold'em Limit ($3/$6 USD) - 2017/06/10 12:30:49 ET
+Table 'Aurora' 10-max Seat #9 is the button
+Seat 8: perten ($56.36 in chips)
+Seat 9: B_loJkl ($151 in chips)
+B_loJkl: posts small blind $1
+perten: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+perten: calls $3
+*** FLOP *** [Qh Th Kh]
+perten: checks
+B_loJkl: bets $3
+perten: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qh Th Kh]
+Seat 8: perten (big blind) folded on the Flop
+Seat 9: B_loJkl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #171596669872:  Hold'em Limit ($3/$6 USD) - 2017/06/10 12:31:32 ET
+Table 'Aurora' 10-max Seat #8 is the button
+Seat 8: perten ($50.12 in chips)
+Seat 9: B_loJkl ($156.52 in chips)
+perten: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+perten: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 8: perten (button) (small blind) folded before Flop
+Seat 9: B_loJkl (big blind) collected ($2)
+
+
+PokerStars Hand #171596660829:  Hold'em Limit ($3/$6 USD) - 2017/06/10 12:31:19 ET
+Table 'Aurora' 10-max Seat #9 is the button
+Seat 8: perten ($56.12 in chips)
+Seat 9: B_loJkl ($150.76 in chips)
+B_loJkl: posts small blind $1
+perten: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+perten: calls $3
+*** FLOP *** [Jh 8h 9s]
+perten: checks
+B_loJkl: bets $3
+perten: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jh 8h 9s]
+Seat 8: perten (big blind) folded on the Flop
+Seat 9: B_loJkl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #171596650339:  Hold'em Limit ($3/$6 USD) - 2017/06/10 12:31:02 ET
+Table 'Aurora' 10-max Seat #8 is the button
+Seat 8: perten ($50.36 in chips)
+Seat 9: B_loJkl ($156.76 in chips)
+perten: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+perten: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [9c 2c 4d]
+B_loJkl: checks
+perten: bets $3
+B_loJkl: folds
+Uncalled bet ($3) returned to perten
+perten collected $11.76 from pot
+perten: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9c 2c 4d]
+Seat 8: perten (button) (small blind) collected ($11.76)
+Seat 9: B_loJkl (big blind) folded on the Flop
+
+
+PokerStars Hand #171596634172:  Hold'em Limit ($3/$6 USD) - 2017/06/10 12:30:40 ET
+Table 'Aurora' 10-max Seat #8 is the button
+Seat 8: perten ($57.36 in chips)
+Seat 9: B_loJkl ($150 in chips)
+perten: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+perten: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 8: perten (button) (small blind) folded before Flop
+Seat 9: B_loJkl (big blind) collected ($2)
+
+
+PokerStars Hand #171596673120:  Hold'em Limit ($3/$6 USD) - 2017/06/10 12:31:37 ET
+Table 'Aurora' 10-max Seat #9 is the button
+Seat 8: perten ($49.12 in chips)
+Seat 9: B_loJkl ($157.52 in chips)
+B_loJkl: posts small blind $1
+perten: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+perten: raises $3 to $9
+B_loJkl: calls $3
+*** FLOP *** [9s 3d 5c]
+perten: bets $3
+B_loJkl: calls $3
+*** TURN *** [9s 3d 5c] [Th]
+perten: bets $6
+B_loJkl: calls $6
+*** RIVER *** [9s 3d 5c Th] [Kc]
+perten: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to perten
+perten collected $35.50 from pot
+perten: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [9s 3d 5c Th Kc]
+Seat 8: perten (big blind) collected ($35.50)
+Seat 9: B_loJkl (button) (small blind) folded on the River
+
+
+PokerStars Hand #171596731198:  Hold'em Limit ($3/$6 USD) - 2017/06/10 12:33:04 ET
+Table 'Aurora' 10-max Seat #8 is the button
+Seat 8: perten ($74.12 in chips)
+Seat 9: B_loJkl ($131.28 in chips)
+perten: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+perten: raises $3 to $6
+B_loJkl: raises $3 to $9
+perten: calls $3
+*** FLOP *** [Js 2d Kh]
+B_loJkl: bets $3
+perten: calls $3
+*** TURN *** [Js 2d Kh] [Th]
+B_loJkl: bets $6
+perten: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $23.52 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Js 2d Kh Th]
+Seat 8: perten (button) (small blind) folded on the Turn
+Seat 9: B_loJkl (big blind) collected ($23.52)
+
+
+PokerStars Hand #171596727908:  Hold'em Limit ($3/$6 USD) - 2017/06/10 12:33:00 ET
+Table 'Aurora' 10-max Seat #9 is the button
+Seat 8: perten ($77.12 in chips)
+Seat 9: B_loJkl ($128.28 in chips)
+B_loJkl: posts small blind $1
+perten: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+perten: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $6 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 8: perten (big blind) folded before Flop
+Seat 9: B_loJkl (button) (small blind) collected ($6)
+
+
+PokerStars Hand #171596722092:  Hold'em Limit ($3/$6 USD) - 2017/06/10 12:32:51 ET
+Table 'Aurora' 10-max Seat #8 is the button
+Seat 8: perten ($83.12 in chips)
+Seat 9: B_loJkl ($122.52 in chips)
+perten: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+perten: calls $2
+B_loJkl: raises $3 to $6
+perten: calls $3
+*** FLOP *** [Th 3d Kd]
+B_loJkl: bets $3
+perten: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Th 3d Kd]
+Seat 8: perten (button) (small blind) folded on the Flop
+Seat 9: B_loJkl (big blind) collected ($11.76)
+
+
+PokerStars Hand #171596705449:  Hold'em Limit ($3/$6 USD) - 2017/06/10 12:32:26 ET
+Table 'Aurora' 10-max Seat #9 is the button
+Seat 8: perten ($65.62 in chips)
+Seat 9: B_loJkl ($140.52 in chips)
+B_loJkl: posts small blind $1
+perten: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+perten: raises $3 to $9
+B_loJkl: calls $3
+*** FLOP *** [8c 9d Ts]
+perten: bets $3
+B_loJkl: calls $3
+*** TURN *** [8c 9d Ts] [Kc]
+perten: bets $6
+B_loJkl: calls $6
+*** RIVER *** [8c 9d Ts Kc] [9s]
+perten: checks
+B_loJkl: checks
+*** SHOW DOWN ***
+perten: shows [Ah 2h] (a pair of Nines)
+B_loJkl: mucks hand
+perten collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [8c 9d Ts Kc 9s]
+Seat 8: perten (big blind) showed [Ah 2h] and won ($35.50) with a pair of Nines
+Seat 9: B_loJkl (button) (small blind) mucked
+
+
+PokerStars Hand #171596765765:  Hold'em Limit ($3/$6 USD) - 2017/06/10 12:33:56 ET
+Table 'Aurora' 10-max Seat #8 is the button
+Seat 8: perten ($38.12 in chips)
+Seat 9: B_loJkl ($166.30 in chips)
+perten: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+perten: raises $3 to $6
+B_loJkl: raises $3 to $9
+perten: raises $3 to $12
+Betting is capped
+B_loJkl: calls $3
+*** FLOP *** [4h As 6c]
+B_loJkl: checks
+perten: bets $3
+B_loJkl: calls $3
+*** TURN *** [4h As 6c] [8s]
+B_loJkl: checks
+perten: checks
+*** RIVER *** [4h As 6c 8s] [7s]
+B_loJkl: bets $6
+perten: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [5h 8h] (a straight, Four to Eight)
+perten: mucks hand
+B_loJkl collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [4h As 6c 8s 7s]
+Seat 8: perten (button) (small blind) mucked
+Seat 9: B_loJkl (big blind) showed [5h 8h] and won ($41.50) with a straight, Four to Eight
+
+
+PokerStars Hand #171596782468:  Hold'em Limit ($3/$6 USD) - 2017/06/10 12:34:21 ET
+Table 'Aurora' 10-max Seat #9 is the button
+Seat 8: perten ($17.12 in chips)
+Seat 9: B_loJkl ($186.80 in chips)
+B_loJkl: posts small blind $1
+perten: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+perten: raises $3 to $9
+B_loJkl: calls $3
+*** FLOP *** [7s 6c 3c]
+perten: bets $3
+B_loJkl: calls $3
+*** TURN *** [7s 6c 3c] [Qd]
+perten: bets $5.12 and is all-in
+B_loJkl: calls $5.12
+*** RIVER *** [7s 6c 3c Qd] [5c]
+*** SHOW DOWN ***
+perten: shows [Kd Jd] (high card King)
+B_loJkl: shows [6d 2d] (a pair of Sixes)
+B_loJkl collected $33.74 from pot
+*** SUMMARY ***
+Total pot $34.24 | Rake $0.50
+Board [7s 6c 3c Qd 5c]
+Seat 8: perten (big blind) showed [Kd Jd] and lost with high card King
+Seat 9: B_loJkl (button) (small blind) showed [6d 2d] and won ($33.74) with a pair of Sixes
+
+
+PokerStars Hand #171596741840:  Hold'em Limit ($3/$6 USD) - 2017/06/10 12:33:20 ET
+Table 'Aurora' 10-max Seat #9 is the button
+Seat 8: perten ($62.12 in chips)
+Seat 9: B_loJkl ($142.80 in chips)
+B_loJkl: posts small blind $1
+perten: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+perten: raises $3 to $9
+B_loJkl: calls $3
+*** FLOP *** [2d 6c Ac]
+perten: bets $3
+B_loJkl: calls $3
+*** TURN *** [2d 6c Ac] [8s]
+perten: bets $6
+B_loJkl: calls $6
+*** RIVER *** [2d 6c Ac 8s] [Qc]
+perten: checks
+B_loJkl: bets $6
+perten: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [As Tc] (a pair of Aces)
+perten: mucks hand
+B_loJkl collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2d 6c Ac 8s Qc]
+Seat 8: perten (big blind) mucked
+Seat 9: B_loJkl (button) (small blind) showed [As Tc] and won ($47.50) with a pair of Aces
+
+

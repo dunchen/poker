@@ -1,0 +1,85 @@
+PokerStars Hand #165763863280:  Hold'em Limit ($3/$6 USD) - 2017/02/06 3:10:56 ET
+Table 'Vesta' 6-max Seat #1 is the button
+Seat 1: Dubinin84 ($78 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+Dubinin84: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Dubinin84: calls $2
+VolkovDmitri: raises $3 to $6
+Dubinin84: calls $3
+*** FLOP *** [Tc 5d Kh]
+VolkovDmitri: bets $3
+Dubinin84: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Tc 5d Kh]
+Seat 1: Dubinin84 (button) (small blind) folded on the Flop
+Seat 4: VolkovDmitri (big blind) collected ($11.76)
+
+
+PokerStars Hand #165763923266:  Hold'em Limit ($3/$6 USD) - 2017/02/06 3:14:12 ET
+Table 'Vesta' 6-max Seat #2 is the button
+Seat 2: RockKillerTY ($94.50 in chips)
+Seat 4: VolkovDmitri ($127.65 in chips)
+RockKillerTY: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+RockKillerTY: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [6c Qh Jd]
+VolkovDmitri: checks
+RockKillerTY: checks
+*** TURN *** [6c Qh Jd] [Td]
+VolkovDmitri: bets $6
+RockKillerTY: calls $6
+*** RIVER *** [6c Qh Jd Td] [7h]
+VolkovDmitri: bets $6
+RockKillerTY: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Qc 2h] (a pair of Queens)
+RockKillerTY: shows [Th 7c] (two pair, Tens and Sevens)
+RockKillerTY collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6c Qh Jd Td 7h]
+Seat 2: RockKillerTY (button) (small blind) showed [Th 7c] and won ($35.50) with two pair, Tens and Sevens
+Seat 4: VolkovDmitri (big blind) showed [Qc 2h] and lost with a pair of Queens
+
+
+PokerStars Hand #165763912364:  Hold'em Limit ($3/$6 USD) - 2017/02/06 3:13:36 ET
+Table 'Vesta' 6-max Seat #4 is the button
+Seat 2: RockKillerTY ($80 in chips)
+Seat 4: VolkovDmitri ($142.65 in chips)
+VolkovDmitri: posts small blind $1
+Dubinin84: is sitting out
+RockKillerTY: posts big blind $3
+*** HOLE CARDS ***
+Dubinin84 leaves the table
+VolkovDmitri: raises $3 to $6
+RockKillerTY: raises $3 to $9
+VolkovDmitri: raises $3 to $12
+Betting is capped
+RockKillerTY: calls $3
+*** FLOP *** [8s 4h 6d]
+RockKillerTY: checks
+VolkovDmitri: bets $3
+RockKillerTY: calls $3
+*** TURN *** [8s 4h 6d] [9h]
+RockKillerTY: checks
+VolkovDmitri: checks
+*** RIVER *** [8s 4h 6d 9h] [9d]
+RockKillerTY: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to RockKillerTY
+RockKillerTY collected $29.50 from pot
+RockKillerTY: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8s 4h 6d 9h 9d]
+Seat 2: RockKillerTY (big blind) collected ($29.50)
+Seat 4: VolkovDmitri (button) (small blind) folded on the River
+
+

@@ -1,0 +1,30 @@
+PokerStars Hand #153245410048:  Hold'em Limit ($3/$6 USD) - 2016/05/13 6:45:06 ET
+Table 'Terebellum' 6-max Seat #3 is the button
+Seat 3: FabronxRJ ($172.32 in chips)
+Seat 4: TbIP-TbIP 88 ($72 in chips)
+FabronxRJ: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+FabronxRJ: raises $3 to $6
+TbIP-TbIP 88: calls $3
+*** FLOP *** [Js 6s Kc]
+TbIP-TbIP 88: checks
+FabronxRJ: bets $3
+TbIP-TbIP 88: calls $3
+*** TURN *** [Js 6s Kc] [2h]
+TbIP-TbIP 88: checks
+FabronxRJ: checks
+*** RIVER *** [Js 6s Kc 2h] [Qs]
+TbIP-TbIP 88: checks
+FabronxRJ: checks
+*** SHOW DOWN ***
+TbIP-TbIP 88: shows [Jh 9s] (a pair of Jacks)
+FabronxRJ: mucks hand
+TbIP-TbIP 88 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Js 6s Kc 2h Qs]
+Seat 3: FabronxRJ (button) (small blind) mucked
+Seat 4: TbIP-TbIP 88 (big blind) showed [Jh 9s] and won ($17.64) with a pair of Jacks
+
+

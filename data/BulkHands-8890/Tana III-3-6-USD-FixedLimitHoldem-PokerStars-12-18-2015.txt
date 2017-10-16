@@ -1,0 +1,31 @@
+PokerStars Hand #145556361392:  Hold'em Limit ($3/$6 USD) - 2015/12/18 18:47:27 ET
+Table 'Tana III' 2-max Seat #2 is the button
+Seat 1: kaputnikoff ($60 in chips)
+Seat 2: Sunny1022 ($132.20 in chips)
+Sunny1022: posts small blind $1
+kaputnikoff: posts big blind $3
+*** HOLE CARDS ***
+Sunny1022: raises $3 to $6
+kaputnikoff: calls $3
+*** FLOP *** [2c 9s As]
+kaputnikoff: checks
+Sunny1022: bets $3
+kaputnikoff: calls $3
+*** TURN *** [2c 9s As] [3c]
+kaputnikoff: checks
+Sunny1022: checks
+*** RIVER *** [2c 9s As 3c] [8h]
+kaputnikoff: checks
+Sunny1022: bets $6
+kaputnikoff: calls $6
+*** SHOW DOWN ***
+Sunny1022: shows [7h 4h] (high card Ace)
+kaputnikoff: shows [5d Ks] (high card Ace - King kicker)
+kaputnikoff collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2c 9s As 3c 8h]
+Seat 1: kaputnikoff (big blind) showed [5d Ks] and won ($29.50) with high card Ace
+Seat 2: Sunny1022 (button) (small blind) showed [7h 4h] and lost with high card Ace
+
+

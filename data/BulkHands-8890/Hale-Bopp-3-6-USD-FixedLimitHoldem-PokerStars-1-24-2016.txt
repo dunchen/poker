@@ -1,0 +1,34 @@
+PokerStars Hand #147572493639:  Hold'em Limit ($3/$6 USD) - 2016/01/23 21:40:16 ET
+Table 'Hale-Bopp' 6-max Seat #5 is the button
+Seat 3: Pipimoni ($140.64 in chips)
+Seat 5: chezlaw ($120 in chips)
+Masqb will be allowed to play after the button
+chezlaw: posts small blind $1
+grabaz: is sitting out
+Pipimoni: posts big blind $3
+*** HOLE CARDS ***
+chezlaw: raises $3 to $6
+grabaz leaves the table
+Pipimoni: calls $3
+*** FLOP *** [6c 6d 7h]
+Pipimoni: bets $3
+chezlaw: calls $3
+*** TURN *** [6c 6d 7h] [2s]
+Pipimoni: bets $6
+chezlaw: raises $6 to $12
+Pipimoni: raises $6 to $18
+chezlaw: calls $6
+*** RIVER *** [6c 6d 7h 2s] [Qs]
+Pipimoni: bets $6
+chezlaw: calls $6
+*** SHOW DOWN ***
+Pipimoni: shows [6h Kc] (three of a kind, Sixes)
+chezlaw: mucks hand
+Pipimoni collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [6c 6d 7h 2s Qs]
+Seat 3: Pipimoni (big blind) showed [6h Kc] and won ($65.50) with three of a kind, Sixes
+Seat 5: chezlaw (button) (small blind) mucked
+
+

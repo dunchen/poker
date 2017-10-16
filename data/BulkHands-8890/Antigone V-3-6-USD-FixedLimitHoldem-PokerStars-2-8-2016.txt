@@ -1,0 +1,60 @@
+PokerStars Hand #148463420289:  Hold'em Limit ($3/$6 USD) - 2016/02/08 14:50:48 ET
+Table 'Antigone V' 2-max Seat #1 is the button
+Seat 1: elifnur2008 ($146.76 in chips)
+Seat 2: shooter401 ($12.98 in chips)
+elifnur2008: posts small blind $1
+shooter401: posts big blind $3
+*** HOLE CARDS ***
+elifnur2008: raises $3 to $6
+shooter401: raises $3 to $9
+elifnur2008: calls $3
+*** FLOP *** [4s 5d 6h]
+shooter401: bets $3
+elifnur2008: calls $3
+*** TURN *** [4s 5d 6h] [Qd]
+shooter401: bets $0.98 and is all-in
+elifnur2008: calls $0.98
+*** RIVER *** [4s 5d 6h Qd] [Jc]
+*** SHOW DOWN ***
+shooter401: shows [Tc Kc] (high card King)
+elifnur2008: shows [2c Ac] (high card Ace)
+elifnur2008 collected $25.46 from pot
+*** SUMMARY ***
+Total pot $25.96 | Rake $0.50
+Board [4s 5d 6h Qd Jc]
+Seat 1: elifnur2008 (button) (small blind) showed [2c Ac] and won ($25.46) with high card Ace
+Seat 2: shooter401 (big blind) showed [Tc Kc] and lost with high card King
+
+
+PokerStars Hand #148463367957:  Hold'em Limit ($3/$6 USD) - 2016/02/08 14:50:00 ET
+Table 'Antigone V' 2-max Seat #2 is the button
+Seat 1: elifnur2008 ($120.26 in chips)
+Seat 2: shooter401 ($39.98 in chips)
+shooter401: posts small blind $1
+elifnur2008: posts big blind $3
+*** HOLE CARDS ***
+shooter401: raises $3 to $6
+elifnur2008: calls $3
+*** FLOP *** [9h Qh Jd]
+elifnur2008: checks
+shooter401: bets $3
+elifnur2008: calls $3
+*** TURN *** [9h Qh Jd] [3d]
+elifnur2008: checks
+shooter401: bets $6
+elifnur2008: raises $6 to $12
+shooter401: calls $6
+*** RIVER *** [9h Qh Jd 3d] [Ah]
+elifnur2008: bets $6
+shooter401: calls $6
+*** SHOW DOWN ***
+elifnur2008: shows [7d Ac] (a pair of Aces)
+shooter401: mucks hand
+elifnur2008 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [9h Qh Jd 3d Ah]
+Seat 1: elifnur2008 (big blind) showed [7d Ac] and won ($53.50) with a pair of Aces
+Seat 2: shooter401 (button) (small blind) mucked
+
+

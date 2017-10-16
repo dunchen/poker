@@ -1,0 +1,65 @@
+PokerStars Hand #156331342216:  Hold'em Limit ($3/$6 USD) - 2016/07/23 6:24:14 ET
+Table 'Aethra II' 6-max Seat #1 is the button
+Seat 1: vovan4y4ok ($53 in chips)
+Seat 4: MTails ($156.35 in chips)
+vovan4y4ok: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+vovan4y4ok: calls $2
+MTails: raises $3 to $6
+vovan4y4ok: calls $3
+*** FLOP *** [6d 9d 4c]
+MTails: bets $3
+vovan4y4ok: calls $3
+*** TURN *** [6d 9d 4c] [Ts]
+MTails: checks
+vovan4y4ok: checks
+*** RIVER *** [6d 9d 4c Ts] [5h]
+MTails: bets $6
+vovan4y4ok: calls $6
+*** SHOW DOWN ***
+MTails: shows [5d 5c] (three of a kind, Fives)
+vovan4y4ok: mucks hand
+MTails collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6d 9d 4c Ts 5h]
+Seat 1: vovan4y4ok (button) (small blind) mucked
+Seat 4: MTails (big blind) showed [5d 5c] and won ($29.50) with three of a kind, Fives
+
+
+PokerStars Hand #156331348162:  Hold'em Limit ($3/$6 USD) - 2016/07/23 6:24:29 ET
+Table 'Aethra II' 6-max Seat #4 is the button
+Seat 1: vovan4y4ok ($38 in chips)
+Seat 4: MTails ($170.85 in chips)
+MTails: posts small blind $1
+vovan4y4ok: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+vovan4y4ok: calls $3
+*** FLOP *** [Ad 4s Td]
+vovan4y4ok: checks
+MTails: bets $3
+vovan4y4ok: calls $3
+*** TURN *** [Ad 4s Td] [3d]
+vovan4y4ok: checks
+MTails: bets $6
+vovan4y4ok: raises $6 to $12
+MTails: raises $6 to $18
+vovan4y4ok: raises $6 to $24
+Betting is capped
+MTails: calls $6
+*** RIVER *** [Ad 4s Td 3d] [5d]
+vovan4y4ok: bets $5 and is all-in
+MTails: calls $5
+*** SHOW DOWN ***
+vovan4y4ok: shows [5c Ah] (two pair, Aces and Fives)
+MTails: shows [Kd 4d] (a flush, Ace high)
+MTails collected $75.50 from pot
+*** SUMMARY ***
+Total pot $76 | Rake $0.50
+Board [Ad 4s Td 3d 5d]
+Seat 1: vovan4y4ok (big blind) showed [5c Ah] and lost with two pair, Aces and Fives
+Seat 4: MTails (button) (small blind) showed [Kd 4d] and won ($75.50) with a flush, Ace high
+
+

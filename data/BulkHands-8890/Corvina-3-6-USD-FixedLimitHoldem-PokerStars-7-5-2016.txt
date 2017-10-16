@@ -1,0 +1,377 @@
+PokerStars Hand #155608112364:  Hold'em Limit ($3/$6 USD) - 2016/07/05 16:48:00 ET
+Table 'Corvina' 6-max Seat #2 is the button
+Seat 1: Zubasa07 ($499 in chips)
+Seat 2: _fayzulllo_ ($73 in chips)
+_fayzulllo_: posts small blind $1
+Zubasa07: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: calls $2
+Zubasa07: raises $3 to $6
+_fayzulllo_: calls $3
+*** FLOP *** [Kc 2c Js]
+Zubasa07: bets $3
+_fayzulllo_: calls $3
+*** TURN *** [Kc 2c Js] [Td]
+Zubasa07: checks
+_fayzulllo_: checks
+*** RIVER *** [Kc 2c Js Td] [5d]
+Zubasa07: checks
+_fayzulllo_: bets $6
+Zubasa07: calls $6
+*** SHOW DOWN ***
+_fayzulllo_: shows [6s Ts] (a pair of Tens)
+Zubasa07: mucks hand
+_fayzulllo_ collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kc 2c Js Td 5d]
+Seat 1: Zubasa07 (big blind) mucked
+Seat 2: _fayzulllo_ (button) (small blind) showed [6s Ts] and won ($29.50) with a pair of Tens
+
+
+PokerStars Hand #155608163131:  Hold'em Limit ($3/$6 USD) - 2016/07/05 16:49:01 ET
+Table 'Corvina' 6-max Seat #1 is the button
+Seat 1: Zubasa07 ($484 in chips)
+Seat 2: _fayzulllo_ ($87.50 in chips)
+Zubasa07: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+_fayzulllo_: folds
+Uncalled bet ($3) returned to Zubasa07
+Zubasa07 collected $6 from pot
+Zubasa07: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: Zubasa07 (button) (small blind) collected ($6)
+Seat 2: _fayzulllo_ (big blind) folded before Flop
+
+
+PokerStars Hand #155608211525:  Hold'em Limit ($3/$6 USD) - 2016/07/05 16:50:00 ET
+Table 'Corvina' 6-max Seat #1 is the button
+Seat 1: Zubasa07 ($486.76 in chips)
+Seat 2: _fayzulllo_ ($84.26 in chips)
+Zubasa07: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+_fayzulllo_: calls $3
+*** FLOP *** [6h 4c 9h]
+_fayzulllo_: checks
+Zubasa07: bets $3
+_fayzulllo_: calls $3
+*** TURN *** [6h 4c 9h] [Qd]
+_fayzulllo_: checks
+Zubasa07: bets $6
+_fayzulllo_: raises $6 to $12
+Zubasa07: calls $6
+*** RIVER *** [6h 4c 9h Qd] [Ac]
+_fayzulllo_: bets $6
+Zubasa07: folds
+Uncalled bet ($6) returned to _fayzulllo_
+_fayzulllo_ collected $41.50 from pot
+_fayzulllo_: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [6h 4c 9h Qd Ac]
+Seat 1: Zubasa07 (button) (small blind) folded on the River
+Seat 2: _fayzulllo_ (big blind) collected ($41.50)
+
+
+PokerStars Hand #155608176804:  Hold'em Limit ($3/$6 USD) - 2016/07/05 16:49:18 ET
+Table 'Corvina' 6-max Seat #2 is the button
+Seat 1: Zubasa07 ($487 in chips)
+Seat 2: _fayzulllo_ ($84.50 in chips)
+_fayzulllo_: posts small blind $1
+Zubasa07: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: raises $3 to $6
+Zubasa07: raises $3 to $9
+_fayzulllo_: calls $3
+*** FLOP *** [Tc 8c Th]
+Zubasa07: bets $3
+_fayzulllo_: calls $3
+*** TURN *** [Tc 8c Th] [Kd]
+Zubasa07: checks
+_fayzulllo_: checks
+*** RIVER *** [Tc 8c Th Kd] [Kc]
+Zubasa07: checks
+_fayzulllo_: checks
+*** SHOW DOWN ***
+Zubasa07: shows [Ah 5h] (two pair, Kings and Tens)
+_fayzulllo_: shows [9h As] (two pair, Kings and Tens)
+Zubasa07 collected $11.76 from pot
+_fayzulllo_ collected $11.76 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Tc 8c Th Kd Kc]
+Seat 1: Zubasa07 (big blind) showed [Ah 5h] and won ($11.76) with two pair, Kings and Tens
+Seat 2: _fayzulllo_ (button) (small blind) showed [9h As] and won ($11.76) with two pair, Kings and Tens
+
+
+PokerStars Hand #155608244603:  Hold'em Limit ($3/$6 USD) - 2016/07/05 16:50:40 ET
+Table 'Corvina' 6-max Seat #2 is the button
+Seat 1: Zubasa07 ($465.76 in chips)
+Seat 2: _fayzulllo_ ($104.76 in chips)
+_fayzulllo_: posts small blind $1
+Zubasa07: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: raises $3 to $6
+Zubasa07: raises $3 to $9
+_fayzulllo_: calls $3
+*** FLOP *** [8c Td 2c]
+Zubasa07: bets $3
+_fayzulllo_: calls $3
+*** TURN *** [8c Td 2c] [5s]
+Zubasa07: bets $6
+_fayzulllo_: calls $6
+*** RIVER *** [8c Td 2c 5s] [Js]
+Zubasa07: bets $6
+_fayzulllo_: calls $6
+*** SHOW DOWN ***
+Zubasa07: shows [Qs Qc] (a pair of Queens)
+_fayzulllo_: mucks hand
+Zubasa07 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8c Td 2c 5s Js]
+Seat 1: Zubasa07 (big blind) showed [Qs Qc] and won ($47.50) with a pair of Queens
+Seat 2: _fayzulllo_ (button) (small blind) mucked
+
+
+PokerStars Hand #155608270529:  Hold'em Limit ($3/$6 USD) - 2016/07/05 16:51:11 ET
+Table 'Corvina' 6-max Seat #1 is the button
+Seat 1: Zubasa07 ($489.26 in chips)
+Seat 2: _fayzulllo_ ($80.76 in chips)
+Zubasa07: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+_fayzulllo_: calls $3
+*** FLOP *** [Ac 3c 4d]
+_fayzulllo_: checks
+Zubasa07: bets $3
+_fayzulllo_: raises $3 to $6
+Zubasa07: folds
+Uncalled bet ($3) returned to _fayzulllo_
+_fayzulllo_ collected $17.64 from pot
+_fayzulllo_: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ac 3c 4d]
+Seat 1: Zubasa07 (button) (small blind) folded on the Flop
+Seat 2: _fayzulllo_ (big blind) collected ($17.64)
+
+
+PokerStars Hand #155608309536:  Hold'em Limit ($3/$6 USD) - 2016/07/05 16:51:58 ET
+Table 'Corvina' 6-max Seat #2 is the button
+Seat 1: Zubasa07 ($480.26 in chips)
+Seat 2: _fayzulllo_ ($89.40 in chips)
+_fayzulllo_: posts small blind $1
+Zubasa07: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: calls $2
+Zubasa07: checks
+*** FLOP *** [2s 6d Ac]
+Zubasa07: bets $3
+_fayzulllo_: folds
+Uncalled bet ($3) returned to Zubasa07
+Zubasa07 collected $5.88 from pot
+Zubasa07: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [2s 6d Ac]
+Seat 1: Zubasa07 (big blind) collected ($5.88)
+Seat 2: _fayzulllo_ (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #155608332713:  Hold'em Limit ($3/$6 USD) - 2016/07/05 16:52:27 ET
+Table 'Corvina' 6-max Seat #1 is the button
+Seat 1: Zubasa07 ($483.14 in chips)
+Seat 2: _fayzulllo_ ($86.40 in chips)
+Zubasa07: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+_fayzulllo_: calls $3
+*** FLOP *** [9d Ac 6c]
+_fayzulllo_: checks
+Zubasa07: bets $3
+_fayzulllo_: calls $3
+*** TURN *** [9d Ac 6c] [Qs]
+_fayzulllo_: checks
+Zubasa07: checks
+*** RIVER *** [9d Ac 6c Qs] [3h]
+_fayzulllo_: bets $6
+Zubasa07: calls $6
+*** SHOW DOWN ***
+_fayzulllo_: shows [Ks Kd] (a pair of Kings)
+Zubasa07: mucks hand
+_fayzulllo_ collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9d Ac 6c Qs 3h]
+Seat 1: Zubasa07 (button) (small blind) mucked
+Seat 2: _fayzulllo_ (big blind) showed [Ks Kd] and won ($29.50) with a pair of Kings
+
+
+PokerStars Hand #155608370599:  Hold'em Limit ($3/$6 USD) - 2016/07/05 16:53:13 ET
+Table 'Corvina' 6-max Seat #1 is the button
+Seat 1: Zubasa07 ($469.14 in chips)
+Seat 2: _fayzulllo_ ($99.90 in chips)
+Zubasa07: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: folds
+Uncalled bet ($2) returned to _fayzulllo_
+_fayzulllo_ collected $2 from pot
+_fayzulllo_: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Zubasa07 (button) (small blind) folded before Flop
+Seat 2: _fayzulllo_ (big blind) collected ($2)
+
+
+PokerStars Hand #155608365465:  Hold'em Limit ($3/$6 USD) - 2016/07/05 16:53:06 ET
+Table 'Corvina' 6-max Seat #2 is the button
+Seat 1: Zubasa07 ($468.14 in chips)
+Seat 2: _fayzulllo_ ($100.90 in chips)
+_fayzulllo_: posts small blind $1
+Zubasa07: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: folds
+Uncalled bet ($2) returned to Zubasa07
+Zubasa07 collected $2 from pot
+Zubasa07: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Zubasa07 (big blind) collected ($2)
+Seat 2: _fayzulllo_ (button) (small blind) folded before Flop
+
+
+PokerStars Hand #155608375444:  Hold'em Limit ($3/$6 USD) - 2016/07/05 16:53:19 ET
+Table 'Corvina' 6-max Seat #2 is the button
+Seat 1: Zubasa07 ($468.14 in chips)
+Seat 2: _fayzulllo_ ($100.90 in chips)
+_fayzulllo_: posts small blind $1
+Zubasa07: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: folds
+Uncalled bet ($2) returned to Zubasa07
+Zubasa07 collected $2 from pot
+Zubasa07: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Zubasa07 (big blind) collected ($2)
+Seat 2: _fayzulllo_ (button) (small blind) folded before Flop
+
+
+PokerStars Hand #155608380381:  Hold'em Limit ($3/$6 USD) - 2016/07/05 16:53:25 ET
+Table 'Corvina' 6-max Seat #1 is the button
+Seat 1: Zubasa07 ($469.14 in chips)
+Seat 2: _fayzulllo_ ($99.90 in chips)
+Zubasa07: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+_fayzulllo_: calls $3
+*** FLOP *** [9h 4d 7c]
+_fayzulllo_: checks
+Zubasa07: bets $3
+_fayzulllo_: raises $3 to $6
+Zubasa07: calls $3
+*** TURN *** [9h 4d 7c] [8d]
+_fayzulllo_: bets $6
+Zubasa07: calls $6
+*** RIVER *** [9h 4d 7c 8d] [2d]
+_fayzulllo_: checks
+Zubasa07: checks
+*** SHOW DOWN ***
+_fayzulllo_: shows [Jh Th] (a straight, Seven to Jack)
+Zubasa07: mucks hand
+_fayzulllo_ collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [9h 4d 7c 8d 2d]
+Seat 1: Zubasa07 (button) (small blind) mucked
+Seat 2: _fayzulllo_ (big blind) showed [Jh Th] and won ($35.50) with a straight, Seven to Jack
+
+
+PokerStars Hand #155608430832:  Hold'em Limit ($3/$6 USD) - 2016/07/05 16:54:27 ET
+Table 'Corvina' 6-max Seat #2 is the button
+Seat 1: Zubasa07 ($451.14 in chips)
+Seat 2: _fayzulllo_ ($117.40 in chips)
+_fayzulllo_: posts small blind $1
+Zubasa07: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: calls $2
+Zubasa07: raises $3 to $6
+_fayzulllo_: calls $3
+*** FLOP *** [6s 6h 3c]
+patrikskjold joins the table at seat #3
+Zubasa07: bets $3
+Chessnok joins the table at seat #4
+_fayzulllo_: calls $3
+*** TURN *** [6s 6h 3c] [Qh]
+Zubasa07: bets $6
+_fayzulllo_: folds
+Uncalled bet ($6) returned to Zubasa07
+Zubasa07 collected $17.64 from pot
+Zubasa07: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6s 6h 3c Qh]
+Seat 1: Zubasa07 (big blind) collected ($17.64)
+Seat 2: _fayzulllo_ (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #155608456479:  Hold'em Limit ($3/$6 USD) - 2016/07/05 16:54:59 ET
+Table 'Corvina' 6-max Seat #1 is the button
+Seat 1: Zubasa07 ($459.78 in chips)
+Seat 2: _fayzulllo_ ($108.40 in chips)
+Zubasa07: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: folds
+Uncalled bet ($2) returned to _fayzulllo_
+_fayzulllo_ collected $2 from pot
+_fayzulllo_: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Zubasa07 (button) (small blind) folded before Flop
+Seat 2: _fayzulllo_ (big blind) collected ($2)
+
+
+PokerStars Hand #155612149477:  Hold'em Limit ($3/$6 USD) - 2016/07/05 18:16:19 ET
+Table 'Corvina' 6-max Seat #4 is the button
+Seat 3: Profitables ($26.97 in chips)
+Seat 4: Chessnok ($100.76 in chips)
+Chessnok: posts small blind $1
+TinaTurner72: is sitting out
+Profitables: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+Profitables: calls $3
+*** FLOP *** [2s 8d Qh]
+Profitables: checks
+Chessnok: bets $3
+Profitables: raises $3 to $6
+Chessnok: calls $3
+*** TURN *** [2s 8d Qh] [Qs]
+Profitables: bets $6
+TinaTurner72 leaves the table
+Chessnok: calls $6
+*** RIVER *** [2s 8d Qh Qs] [3s]
+Profitables: bets $6
+Chessnok: calls $6
+*** SHOW DOWN ***
+Profitables: shows [7h 2h] (two pair, Queens and Deuces)
+Chessnok: shows [5d 5h] (two pair, Queens and Fives)
+Chessnok collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2s 8d Qh Qs 3s]
+Seat 3: Profitables (big blind) showed [7h 2h] and lost with two pair, Queens and Deuces
+Seat 4: Chessnok (button) (small blind) showed [5d 5h] and won ($47.50) with two pair, Queens and Fives
+
+

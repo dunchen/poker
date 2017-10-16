@@ -1,0 +1,65 @@
+PokerStars Hand #153674132710:  Hold'em Limit ($3/$6 USD) - 2016/05/22 8:06:05 ET
+Table 'Katharina' 6-max Seat #6 is the button
+Seat 1: lin1rabbit ($277.74 in chips)
+Seat 6: Tryptamean ($227.34 in chips)
+Tryptamean: posts small blind $1
+lin1rabbit: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: folds
+Uncalled bet ($2) returned to lin1rabbit
+lin1rabbit collected $2 from pot
+lin1rabbit: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: lin1rabbit (big blind) collected ($2)
+Seat 6: Tryptamean (button) (small blind) folded before Flop
+
+
+PokerStars Hand #153674127868:  Hold'em Limit ($3/$6 USD) - 2016/05/22 8:05:56 ET
+Table 'Katharina' 6-max Seat #1 is the button
+Seat 1: lin1rabbit ($274.74 in chips)
+Seat 6: Tryptamean ($230.34 in chips)
+lin1rabbit: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+lin1rabbit: raises $3 to $6
+Tryptamean: folds
+Uncalled bet ($3) returned to lin1rabbit
+lin1rabbit collected $6 from pot
+lin1rabbit: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: lin1rabbit (button) (small blind) collected ($6)
+Seat 6: Tryptamean (big blind) folded before Flop
+
+
+PokerStars Hand #153674136428:  Hold'em Limit ($3/$6 USD) - 2016/05/22 8:06:12 ET
+Table 'Katharina' 6-max Seat #1 is the button
+Seat 1: lin1rabbit ($278.74 in chips)
+Seat 6: Tryptamean ($226.34 in chips)
+lin1rabbit: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+lin1rabbit: raises $3 to $6
+Tryptamean: raises $3 to $9
+lin1rabbit: calls $3
+*** FLOP *** [9d 2s Td]
+Tryptamean: bets $3
+lin1rabbit: calls $3
+*** TURN *** [9d 2s Td] [3d]
+Tryptamean: bets $6
+lin1rabbit: calls $6
+*** RIVER *** [9d 2s Td 3d] [8s]
+Tryptamean: bets $6
+lin1rabbit: calls $6
+*** SHOW DOWN ***
+Tryptamean: shows [5d Kd] (a flush, King high)
+lin1rabbit: mucks hand
+Tryptamean collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9d 2s Td 3d 8s]
+Seat 1: lin1rabbit (button) (small blind) mucked
+Seat 6: Tryptamean (big blind) showed [5d Kd] and won ($47.50) with a flush, King high
+
+

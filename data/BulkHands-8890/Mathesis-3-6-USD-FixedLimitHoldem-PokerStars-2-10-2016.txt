@@ -1,0 +1,65 @@
+PokerStars Hand #148552135715:  Hold'em Limit ($3/$6 USD) - 2016/02/10 6:57:33 ET
+Table 'Mathesis' 6-max Seat #6 is the button
+Seat 2: arshak.62 ($112.76 in chips)
+Seat 6: 72bestcard ($72 in chips)
+72bestcard: posts small blind $1
+arshak.62: posts big blind $3
+*** HOLE CARDS ***
+72bestcard: raises $3 to $6
+arshak.62: calls $3
+*** FLOP *** [5s 7s 8c]
+arshak.62: bets $3
+72bestcard: raises $3 to $6
+arshak.62: calls $3
+*** TURN *** [5s 7s 8c] [2h]
+arshak.62: checks
+72bestcard: checks
+*** RIVER *** [5s 7s 8c 2h] [4h]
+arshak.62: bets $6
+72bestcard: folds
+Uncalled bet ($6) returned to arshak.62
+arshak.62 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [5s 7s 8c 2h 4h]
+Seat 2: arshak.62 (big blind) collected ($23.52)
+Seat 6: 72bestcard (button) (small blind) folded on the River
+
+
+PokerStars Hand #148552124527:  Hold'em Limit ($3/$6 USD) - 2016/02/10 6:57:10 ET
+Table 'Mathesis' 6-max Seat #2 is the button
+Seat 2: arshak.62 ($92.26 in chips)
+Seat 6: 72bestcard ($72 in chips)
+arshak.62: posts small blind $1
+TbIP-TbIP 88: is sitting out
+AzureCaper: is sitting out
+72bestcard: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88 leaves the table
+arshak.62: raises $3 to $6
+72bestcard: calls $3
+*** FLOP *** [3h 5s Th]
+TbIP-TbIP 88 joins the table at seat #3
+72bestcard: checks
+arshak.62: bets $3
+72bestcard: calls $3
+*** TURN *** [3h 5s Th] [9h]
+HAL9QQQ joins the table at seat #4
+AzureCaper leaves the table
+72bestcard: checks
+arshak.62: bets $6
+72bestcard: calls $6
+*** RIVER *** [3h 5s Th 9h] [4h]
+72bestcard: bets $6
+arshak.62: calls $6
+*** SHOW DOWN ***
+72bestcard: shows [7c Jd] (high card Jack)
+arshak.62: shows [Qc Qd] (a pair of Queens)
+arshak.62 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [3h 5s Th 9h 4h]
+Seat 2: arshak.62 (button) (small blind) showed [Qc Qd] and won ($41.50) with a pair of Queens
+Seat 6: 72bestcard (big blind) showed [7c Jd] and lost with high card Jack
+
+

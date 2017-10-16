@@ -1,0 +1,31 @@
+PokerStars Hand #165393356704:  Hold'em Limit ($3/$6 USD) - 2017/01/30 4:05:03 ET
+Table 'Horemheb' 6-max Seat #5 is the button
+Seat 3: fifi0701 ($157.45 in chips)
+Seat 5: TroyJones ($146.99 in chips)
+TroyJones: posts small blind $1
+Homasapien: is sitting out
+fifi0701: posts big blind $3
+*** HOLE CARDS ***
+TroyJones: raises $3 to $6
+fifi0701: calls $3
+*** FLOP *** [7s Jc 7c]
+fifi0701: checks
+TroyJones: bets $3
+fifi0701: calls $3
+*** TURN *** [7s Jc 7c] [9h]
+fifi0701: bets $6
+TroyJones: calls $6
+*** RIVER *** [7s Jc 7c 9h] [4d]
+fifi0701: bets $6
+TroyJones: calls $6
+*** SHOW DOWN ***
+fifi0701: shows [4s 8c] (two pair, Sevens and Fours)
+TroyJones: shows [Qc 4c] (two pair, Sevens and Fours - Queen kicker)
+TroyJones collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [7s Jc 7c 9h 4d]
+Seat 3: fifi0701 (big blind) showed [4s 8c] and lost with two pair, Sevens and Fours
+Seat 5: TroyJones (button) (small blind) showed [Qc 4c] and won ($41.50) with two pair, Sevens and Fours
+
+

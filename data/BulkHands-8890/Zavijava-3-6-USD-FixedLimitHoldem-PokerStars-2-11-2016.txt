@@ -1,0 +1,81 @@
+PokerStars Hand #148602043097:  Hold'em Limit ($3/$6 USD) - 2016/02/11 2:58:40 ET
+Table 'Zavijava' 2-max Seat #1 is the button
+Seat 1: ct-650 ($144 in chips)
+Seat 2: jl45259071 ($40.82 in chips)
+ct-650: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+ct-650: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [Qh 5c 2c]
+jl45259071: checks
+ct-650: checks
+*** TURN *** [Qh 5c 2c] [3d]
+jl45259071: bets $6
+ct-650: calls $6
+*** RIVER *** [Qh 5c 2c 3d] [Jd]
+jl45259071: bets $6
+ct-650: raises $6 to $12
+jl45259071: folds
+Uncalled bet ($6) returned to ct-650
+ct-650 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Qh 5c 2c 3d Jd]
+Seat 1: ct-650 (button) (small blind) collected ($35.50)
+Seat 2: jl45259071 (big blind) folded on the River
+
+
+PokerStars Hand #148602051911:  Hold'em Limit ($3/$6 USD) - 2016/02/11 2:59:09 ET
+Table 'Zavijava' 2-max Seat #1 is the button
+Seat 1: ct-650 ($170.14 in chips)
+Seat 2: jl45259071 ($13.82 in chips)
+ct-650: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+ct-650: raises $3 to $6
+jl45259071: raises $3 to $9
+ct-650: calls $3
+*** FLOP *** [3s 6d Th]
+jl45259071: bets $3
+ct-650: raises $3 to $6
+jl45259071: calls $1.82 and is all-in
+Uncalled bet ($1.18) returned to ct-650
+*** TURN *** [3s 6d Th] [Kd]
+*** RIVER *** [3s 6d Th Kd] [6s]
+*** SHOW DOWN ***
+jl45259071: shows [2d 2s] (two pair, Sixes and Deuces)
+ct-650: shows [6h Kc] (a full house, Sixes full of Kings)
+ct-650 collected $27.14 from pot
+*** SUMMARY ***
+Total pot $27.64 | Rake $0.50
+Board [3s 6d Th Kd 6s]
+Seat 1: ct-650 (button) (small blind) showed [6h Kc] and won ($27.14) with a full house, Sixes full of Kings
+Seat 2: jl45259071 (big blind) showed [2d 2s] and lost with two pair, Sixes and Deuces
+
+
+PokerStars Hand #148602047661:  Hold'em Limit ($3/$6 USD) - 2016/02/11 2:58:55 ET
+Table 'Zavijava' 2-max Seat #2 is the button
+Seat 1: ct-650 ($161.50 in chips)
+Seat 2: jl45259071 ($22.82 in chips)
+jl45259071: posts small blind $1
+ct-650: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+ct-650: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [Ad 9d 6h]
+ct-650: bets $3
+jl45259071: calls $3
+*** TURN *** [Ad 9d 6h] [9s]
+ct-650: bets $6
+jl45259071: folds
+Uncalled bet ($6) returned to ct-650
+ct-650 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ad 9d 6h 9s]
+Seat 1: ct-650 (big blind) collected ($17.64)
+Seat 2: jl45259071 (button) (small blind) folded on the Turn
+
+

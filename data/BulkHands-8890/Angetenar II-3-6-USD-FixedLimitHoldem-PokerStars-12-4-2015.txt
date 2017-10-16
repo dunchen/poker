@@ -1,0 +1,95 @@
+PokerStars Hand #144810266368:  Hold'em Limit ($3/$6 USD) - 2015/12/04 11:09:15 ET
+Table 'Angetenar II' 10-max Seat #6 is the button
+Seat 4: desso777 ($77 in chips)
+Seat 6: assitoni ($121 in chips)
+assitoni: posts small blind $1
+desso777: posts big blind $3
+*** HOLE CARDS ***
+assitoni: raises $3 to $6
+desso777: calls $3
+*** FLOP *** [4s 3h Tc]
+desso777: checks
+assitoni: bets $3
+desso777: calls $3
+*** TURN *** [4s 3h Tc] [4h]
+desso777: checks
+assitoni: bets $6
+desso777: raises $6 to $12
+assitoni: calls $6
+*** RIVER *** [4s 3h Tc 4h] [Qc]
+desso777: bets $6
+assitoni: calls $6
+*** SHOW DOWN ***
+desso777: shows [8s Ts] (two pair, Tens and Fours)
+assitoni: shows [Jc Js] (two pair, Jacks and Fours)
+assitoni collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [4s 3h Tc 4h Qc]
+Seat 4: desso777 (big blind) showed [8s Ts] and lost with two pair, Tens and Fours
+Seat 6: assitoni (button) (small blind) showed [Jc Js] and won ($53.50) with two pair, Jacks and Fours
+
+
+PokerStars Hand #144810372063:  Hold'em Limit ($3/$6 USD) - 2015/12/04 11:11:34 ET
+Table 'Angetenar II' 10-max Seat #4 is the button
+Seat 4: desso777 ($61.12 in chips)
+Seat 5: SashaYuvelir ($72 in chips)
+desso777: posts small blind $1
+SashaYuvelir: posts big blind $3
+*** HOLE CARDS ***
+desso777: raises $3 to $6
+SashaYuvelir: calls $3
+*** FLOP *** [Ah 2h 5c]
+SashaYuvelir: checks
+desso777: bets $3
+SashaYuvelir: calls $3
+*** TURN *** [Ah 2h 5c] [As]
+SashaYuvelir: checks
+desso777: bets $6
+SashaYuvelir: calls $6
+*** RIVER *** [Ah 2h 5c As] [8d]
+SashaYuvelir: checks
+desso777: bets $6
+SashaYuvelir: calls $6
+*** SHOW DOWN ***
+desso777: shows [8s 6h] (two pair, Aces and Eights)
+SashaYuvelir: mucks hand
+desso777 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ah 2h 5c As 8d]
+Seat 4: desso777 (button) (small blind) showed [8s 6h] and won ($41.50) with two pair, Aces and Eights
+Seat 5: SashaYuvelir (big blind) mucked
+
+
+PokerStars Hand #144810786427:  Hold'em Limit ($3/$6 USD) - 2015/12/04 11:20:37 ET
+Table 'Angetenar II' 10-max Seat #5 is the button
+Seat 5: SashaYuvelir ($72 in chips)
+Seat 6: PelonCabelao ($190.21 in chips)
+Great_Kang will be allowed to play after the button
+SashaYuvelir: posts small blind $1
+PelonCabelao: posts big blind $3
+*** HOLE CARDS ***
+SashaYuvelir: raises $3 to $6
+PelonCabelao: calls $3
+*** FLOP *** [Td 6c 9c]
+PelonCabelao: checks
+SashaYuvelir: bets $3
+desso777 leaves the table
+PelonCabelao: calls $3
+*** TURN *** [Td 6c 9c] [6h]
+PelonCabelao: bets $6
+SashaYuvelir: calls $6
+*** RIVER *** [Td 6c 9c 6h] [5s]
+PelonCabelao: bets $6
+SashaYuvelir: folds
+Uncalled bet ($6) returned to PelonCabelao
+PelonCabelao collected $29.50 from pot
+PelonCabelao: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Td 6c 9c 6h 5s]
+Seat 5: SashaYuvelir (button) (small blind) folded on the River
+Seat 6: PelonCabelao (big blind) collected ($29.50)
+
+

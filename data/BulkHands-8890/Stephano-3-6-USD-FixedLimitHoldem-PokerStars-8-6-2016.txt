@@ -1,0 +1,411 @@
+PokerStars Hand #156932461937:  Hold'em Limit ($3/$6 USD) - 2016/08/06 8:42:36 ET
+Table 'Stephano' 6-max Seat #4 is the button
+Seat 3: gorcea_vs ($109.06 in chips)
+Seat 4: Agrotait ($65.76 in chips)
+Agrotait: posts small blind $1
+gorcea_vs: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+gorcea_vs: calls $3
+*** FLOP *** [Ad 7c Ts]
+gorcea_vs: checks
+Agrotait: bets $3
+gorcea_vs: raises $3 to $6
+Agrotait: calls $3
+*** TURN *** [Ad 7c Ts] [Ks]
+gorcea_vs: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to gorcea_vs
+gorcea_vs collected $23.52 from pot
+gorcea_vs: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Ad 7c Ts Ks]
+Seat 3: gorcea_vs (big blind) collected ($23.52)
+Seat 4: Agrotait (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #156932451336:  Hold'em Limit ($3/$6 USD) - 2016/08/06 8:42:15 ET
+Table 'Stephano' 6-max Seat #3 is the button
+Seat 3: gorcea_vs ($115.06 in chips)
+Seat 4: Agrotait ($60 in chips)
+gorcea_vs: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+gorcea_vs: calls $2
+Agrotait: checks
+*** FLOP *** [8c 9s 3d]
+Agrotait: bets $3
+gorcea_vs: calls $3
+*** TURN *** [8c 9s 3d] [Kd]
+Agrotait: bets $6
+gorcea_vs: folds
+Uncalled bet ($6) returned to Agrotait
+Agrotait collected $11.76 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8c 9s 3d Kd]
+Seat 3: gorcea_vs (button) (small blind) folded on the Turn
+Seat 4: Agrotait (big blind) collected ($11.76)
+
+
+PokerStars Hand #156932473501:  Hold'em Limit ($3/$6 USD) - 2016/08/06 8:42:59 ET
+Table 'Stephano' 6-max Seat #3 is the button
+Seat 3: gorcea_vs ($120.58 in chips)
+Seat 4: Agrotait ($72 in chips)
+gorcea_vs: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+gorcea_vs: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [Tc 2d 4h]
+Agrotait: checks
+gorcea_vs: bets $3
+Agrotait: calls $3
+*** TURN *** [Tc 2d 4h] [9c]
+Agrotait: checks
+gorcea_vs: bets $6
+Agrotait: calls $6
+*** RIVER *** [Tc 2d 4h 9c] [Qs]
+Agrotait: checks
+gorcea_vs: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+gorcea_vs: shows [Jd Qd] (a pair of Queens)
+Agrotait: mucks hand
+gorcea_vs collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Tc 2d 4h 9c Qs]
+Seat 3: gorcea_vs (button) (small blind) showed [Jd Qd] and won ($41.50) with a pair of Queens
+Seat 4: Agrotait (big blind) mucked
+
+
+PokerStars Hand #156932491701:  Hold'em Limit ($3/$6 USD) - 2016/08/06 8:43:36 ET
+Table 'Stephano' 6-max Seat #4 is the button
+Seat 3: gorcea_vs ($141.08 in chips)
+Seat 4: Agrotait ($72 in chips)
+Agrotait: posts small blind $1
+gorcea_vs: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+gorcea_vs: raises $3 to $9
+Agrotait: calls $3
+*** FLOP *** [Js Kc 5s]
+gorcea_vs: bets $3
+Agrotait: calls $3
+*** TURN *** [Js Kc 5s] [6c]
+gorcea_vs: bets $6
+Agrotait: calls $6
+*** RIVER *** [Js Kc 5s 6c] [Jh]
+gorcea_vs: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+gorcea_vs: shows [6d 6s] (a full house, Sixes full of Jacks)
+Agrotait: mucks hand
+gorcea_vs collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Js Kc 5s 6c Jh]
+Seat 3: gorcea_vs (big blind) showed [6d 6s] and won ($47.50) with a full house, Sixes full of Jacks
+Seat 4: Agrotait (button) (small blind) mucked
+
+
+PokerStars Hand #156932501398:  Hold'em Limit ($3/$6 USD) - 2016/08/06 8:43:56 ET
+Table 'Stephano' 6-max Seat #3 is the button
+Seat 3: gorcea_vs ($164.58 in chips)
+Seat 4: Agrotait ($72 in chips)
+gorcea_vs: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+gorcea_vs: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [8c 6d 9d]
+Agrotait: checks
+gorcea_vs: bets $3
+Agrotait: calls $3
+*** TURN *** [8c 6d 9d] [2h]
+Agrotait: checks
+gorcea_vs: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to gorcea_vs
+gorcea_vs collected $17.64 from pot
+gorcea_vs: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8c 6d 9d 2h]
+Seat 3: gorcea_vs (button) (small blind) collected ($17.64)
+Seat 4: Agrotait (big blind) folded on the Turn
+
+
+PokerStars Hand #156932525725:  Hold'em Limit ($3/$6 USD) - 2016/08/06 8:44:45 ET
+Table 'Stephano' 6-max Seat #3 is the button
+Seat 3: gorcea_vs ($166.22 in chips)
+Seat 4: Agrotait ($70 in chips)
+gorcea_vs: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+gorcea_vs: folds
+Uncalled bet ($2) returned to Agrotait
+Agrotait collected $2 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: gorcea_vs (button) (small blind) folded before Flop
+Seat 4: Agrotait (big blind) collected ($2)
+
+
+PokerStars Hand #156932522267:  Hold'em Limit ($3/$6 USD) - 2016/08/06 8:44:38 ET
+Table 'Stephano' 6-max Seat #4 is the button
+Seat 3: gorcea_vs ($169.22 in chips)
+Seat 4: Agrotait ($67 in chips)
+Agrotait: posts small blind $1
+gorcea_vs: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+gorcea_vs: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $6 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: gorcea_vs (big blind) folded before Flop
+Seat 4: Agrotait (button) (small blind) collected ($6)
+
+
+PokerStars Hand #156932519697:  Hold'em Limit ($3/$6 USD) - 2016/08/06 8:44:32 ET
+Table 'Stephano' 6-max Seat #3 is the button
+Seat 3: gorcea_vs ($170.22 in chips)
+Seat 4: Agrotait ($66 in chips)
+gorcea_vs: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+gorcea_vs: folds
+Uncalled bet ($2) returned to Agrotait
+Agrotait collected $2 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: gorcea_vs (button) (small blind) folded before Flop
+Seat 4: Agrotait (big blind) collected ($2)
+
+
+PokerStars Hand #156932516325:  Hold'em Limit ($3/$6 USD) - 2016/08/06 8:44:25 ET
+Table 'Stephano' 6-max Seat #4 is the button
+Seat 3: gorcea_vs ($173.22 in chips)
+Seat 4: Agrotait ($63 in chips)
+Agrotait: posts small blind $1
+gorcea_vs: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+gorcea_vs: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $6 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: gorcea_vs (big blind) folded before Flop
+Seat 4: Agrotait (button) (small blind) collected ($6)
+
+
+PokerStars Hand #156932528278:  Hold'em Limit ($3/$6 USD) - 2016/08/06 8:44:50 ET
+Table 'Stephano' 6-max Seat #4 is the button
+Seat 3: gorcea_vs ($165.22 in chips)
+Seat 4: Agrotait ($71 in chips)
+Agrotait: posts small blind $1
+gorcea_vs: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+gorcea_vs: calls $3
+*** FLOP *** [7d 2h 5s]
+gorcea_vs: checks
+Agrotait: bets $3
+gorcea_vs: raises $3 to $6
+Agrotait: calls $3
+*** TURN *** [7d 2h 5s] [5d]
+gorcea_vs: bets $6
+Agrotait: calls $6
+*** RIVER *** [7d 2h 5s 5d] [8c]
+gorcea_vs: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+gorcea_vs: shows [Td 3d] (a pair of Fives)
+Agrotait: shows [Kh 2d] (two pair, Fives and Deuces)
+Agrotait collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7d 2h 5s 5d 8c]
+Seat 3: gorcea_vs (big blind) showed [Td 3d] and lost with a pair of Fives
+Seat 4: Agrotait (button) (small blind) showed [Kh 2d] and won ($47.50) with two pair, Fives and Deuces
+
+
+PokerStars Hand #156932543905:  Hold'em Limit ($3/$6 USD) - 2016/08/06 8:45:21 ET
+Table 'Stephano' 6-max Seat #3 is the button
+Seat 3: gorcea_vs ($141.22 in chips)
+Seat 4: Agrotait ($94.50 in chips)
+gorcea_vs: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+gorcea_vs: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [9h Ah 3d]
+Agrotait: checks
+gorcea_vs: bets $3
+Agrotait: calls $3
+*** TURN *** [9h Ah 3d] [8c]
+Agrotait: checks
+gorcea_vs: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to gorcea_vs
+gorcea_vs collected $17.64 from pot
+gorcea_vs: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9h Ah 3d 8c]
+Seat 3: gorcea_vs (button) (small blind) collected ($17.64)
+Seat 4: Agrotait (big blind) folded on the Turn
+
+
+PokerStars Hand #156932570910:  Hold'em Limit ($3/$6 USD) - 2016/08/06 8:46:15 ET
+Table 'Stephano' 6-max Seat #4 is the button
+Seat 3: gorcea_vs ($149.86 in chips)
+Seat 4: Agrotait ($85.50 in chips)
+Agrotait: posts small blind $1
+gorcea_vs: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+gorcea_vs: calls $3
+*** FLOP *** [9s Ac 7c]
+gorcea_vs: checks
+Agrotait: bets $3
+gorcea_vs: raises $3 to $6
+Agrotait: folds
+Uncalled bet ($3) returned to gorcea_vs
+gorcea_vs collected $17.64 from pot
+gorcea_vs: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9s Ac 7c]
+Seat 3: gorcea_vs (big blind) collected ($17.64)
+Seat 4: Agrotait (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #156932610857:  Hold'em Limit ($3/$6 USD) - 2016/08/06 8:47:35 ET
+Table 'Stephano' 6-max Seat #3 is the button
+Seat 3: gorcea_vs ($143.50 in chips)
+Seat 4: Agrotait ($90.90 in chips)
+gorcea_vs: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+gorcea_vs: raises $3 to $6
+Agrotait: raises $3 to $9
+gorcea_vs: calls $3
+*** FLOP *** [8s 3h 3d]
+Agrotait: bets $3
+gorcea_vs: calls $3
+*** TURN *** [8s 3h 3d] [Jc]
+Agrotait: bets $6
+gorcea_vs: raises $6 to $12
+Agrotait: calls $6
+*** RIVER *** [8s 3h 3d Jc] [Qd]
+Agrotait: checks
+gorcea_vs: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+gorcea_vs: shows [9d 6c] (a pair of Threes)
+Agrotait: shows [Jh Ks] (two pair, Jacks and Threes)
+Agrotait collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [8s 3h 3d Jc Qd]
+Seat 3: gorcea_vs (button) (small blind) showed [9d 6c] and lost with a pair of Threes
+Seat 4: Agrotait (big blind) showed [Jh Ks] and won ($59.50) with two pair, Jacks and Threes
+
+
+PokerStars Hand #156932605531:  Hold'em Limit ($3/$6 USD) - 2016/08/06 8:47:24 ET
+Table 'Stephano' 6-max Seat #4 is the button
+Seat 3: gorcea_vs ($149.50 in chips)
+Seat 4: Agrotait ($85.14 in chips)
+Agrotait: posts small blind $1
+gorcea_vs: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+gorcea_vs: calls $3
+*** FLOP *** [Ac 5h 9s]
+gorcea_vs: checks
+Agrotait: bets $3
+gorcea_vs: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $11.76 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ac 5h 9s]
+Seat 3: gorcea_vs (big blind) folded on the Flop
+Seat 4: Agrotait (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #156932621968:  Hold'em Limit ($3/$6 USD) - 2016/08/06 8:47:57 ET
+Table 'Stephano' 6-max Seat #4 is the button
+Seat 3: gorcea_vs ($113.50 in chips)
+Seat 4: Agrotait ($120.40 in chips)
+Agrotait: posts small blind $1
+gorcea_vs: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+gorcea_vs: calls $3
+*** FLOP *** [Ts 2c 6s]
+gorcea_vs: checks
+Agrotait: bets $3
+gorcea_vs: calls $3
+*** TURN *** [Ts 2c 6s] [Kc]
+Kajind joins the table at seat #5
+gorcea_vs: checks
+Agrotait: checks
+*** RIVER *** [Ts 2c 6s Kc] [8c]
+gorcea_vs: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+gorcea_vs: shows [7c Qc] (a flush, King high)
+Agrotait: mucks hand
+gorcea_vs collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ts 2c 6s Kc 8c]
+Seat 3: gorcea_vs (big blind) showed [7c Qc] and won ($29.50) with a flush, King high
+Seat 4: Agrotait (button) (small blind) mucked
+
+
+PokerStars Hand #156932630676:  Hold'em Limit ($3/$6 USD) - 2016/08/06 8:48:14 ET
+Table 'Stephano' 6-max Seat #3 is the button
+Seat 3: gorcea_vs ($128 in chips)
+Seat 4: Agrotait ($105.40 in chips)
+gorcea_vs: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+gorcea_vs: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [5h 2d 8d]
+Agrotait: checks
+gorcea_vs: bets $3
+Agrotait: calls $3
+*** TURN *** [5h 2d 8d] [4d]
+Agrotait: checks
+gorcea_vs: bets $6
+Agrotait: raises $6 to $12
+gorcea_vs: calls $6
+*** RIVER *** [5h 2d 8d 4d] [2h]
+Agrotait: bets $6
+gorcea_vs: calls $6
+*** SHOW DOWN ***
+Agrotait: shows [8h Tc] (two pair, Eights and Deuces)
+gorcea_vs: mucks hand
+Agrotait collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [5h 2d 8d 4d 2h]
+Seat 3: gorcea_vs (button) (small blind) mucked
+Seat 4: Agrotait (big blind) showed [8h Tc] and won ($53.50) with two pair, Eights and Deuces
+
+

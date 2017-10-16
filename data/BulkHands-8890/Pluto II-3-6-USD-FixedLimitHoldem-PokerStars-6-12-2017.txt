@@ -1,0 +1,32 @@
+PokerStars Hand #171675926439:  Hold'em Limit ($3/$6 USD) - 2017/06/12 8:54:40 ET
+Table 'Pluto II' 6-max Seat #2 is the button
+Seat 2: kolaz03 ($82.61 in chips)
+Seat 3: hookonhook ($180.61 in chips)
+kolaz03: posts small blind $1
+hookonhook: posts big blind $3
+*** HOLE CARDS ***
+kolaz03: raises $3 to $6
+hookonhook: calls $3
+*** FLOP *** [Td 3c Ah]
+hookonhook: checks
+kolaz03: bets $3
+hookonhook: calls $3
+*** TURN *** [Td 3c Ah] [2s]
+hookonhook: checks
+kolaz03: bets $6
+hookonhook: calls $6
+*** RIVER *** [Td 3c Ah 2s] [7h]
+hookonhook: checks
+kolaz03: bets $6
+hookonhook: calls $6
+*** SHOW DOWN ***
+kolaz03: shows [Jc Tc] (a pair of Tens)
+hookonhook: mucks hand
+kolaz03 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Td 3c Ah 2s 7h]
+Seat 2: kolaz03 (button) (small blind) showed [Jc Tc] and won ($41.50) with a pair of Tens
+Seat 3: hookonhook (big blind) mucked
+
+

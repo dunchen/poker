@@ -1,0 +1,84 @@
+PokerStars Hand #146676134578:  Hold'em Limit ($3/$6 USD) - 2016/01/08 8:39:19 ET
+Table 'Lysithea' 6-max Seat #3 is the button
+Seat 3: _fayzulllo_ ($96.50 in chips)
+Seat 4: Agrotait ($71 in chips)
+_fayzulllo_: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: calls $2
+Agrotait: checks
+*** FLOP *** [3h 8c Ks]
+Agrotait: bets $3
+_fayzulllo_: calls $3
+*** TURN *** [3h 8c Ks] [9h]
+Agrotait: checks
+_fayzulllo_: checks
+*** RIVER *** [3h 8c Ks 9h] [Tc]
+Agrotait: checks
+_fayzulllo_: checks
+*** SHOW DOWN ***
+Agrotait: shows [Js 7s] (a straight, Seven to Jack)
+_fayzulllo_: mucks hand
+Agrotait collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3h 8c Ks 9h Tc]
+Seat 3: _fayzulllo_ (button) (small blind) mucked
+Seat 4: Agrotait (big blind) showed [Js 7s] and won ($11.76) with a straight, Seven to Jack
+
+
+PokerStars Hand #146676154978:  Hold'em Limit ($3/$6 USD) - 2016/01/08 8:39:47 ET
+Table 'Lysithea' 6-max Seat #4 is the button
+Seat 3: _fayzulllo_ ($90.50 in chips)
+Seat 4: Agrotait ($76.76 in chips)
+Agrotait: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+_fayzulllo_: calls $3
+*** FLOP *** [7h 6c Js]
+_fayzulllo_: checks
+Agrotait: checks
+*** TURN *** [7h 6c Js] [Jh]
+_fayzulllo_: checks
+Agrotait: checks
+*** RIVER *** [7h 6c Js Jh] [Qc]
+_fayzulllo_: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+_fayzulllo_: shows [5d 7s] (two pair, Jacks and Sevens)
+Agrotait: shows [Qh 3c] (two pair, Queens and Jacks)
+Agrotait collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [7h 6c Js Jh Qc]
+Seat 3: _fayzulllo_ (big blind) showed [5d 7s] and lost with two pair, Jacks and Sevens
+Seat 4: Agrotait (button) (small blind) showed [Qh 3c] and won ($23.52) with two pair, Queens and Jacks
+
+
+PokerStars Hand #146676178763:  Hold'em Limit ($3/$6 USD) - 2016/01/08 8:40:21 ET
+Table 'Lysithea' 6-max Seat #3 is the button
+Seat 3: _fayzulllo_ ($78.50 in chips)
+Seat 4: Agrotait ($88.28 in chips)
+_fayzulllo_: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: calls $2
+Agrotait: raises $3 to $6
+_fayzulllo_: calls $3
+*** FLOP *** [Ac Ts 5d]
+Agrotait: bets $3
+_fayzulllo_: calls $3
+*** TURN *** [Ac Ts 5d] [Jc]
+Agrotait: bets $6
+_fayzulllo_: folds
+Uncalled bet ($6) returned to Agrotait
+Agrotait collected $17.64 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ac Ts 5d Jc]
+Seat 3: _fayzulllo_ (button) (small blind) folded on the Turn
+Seat 4: Agrotait (big blind) collected ($17.64)
+
+

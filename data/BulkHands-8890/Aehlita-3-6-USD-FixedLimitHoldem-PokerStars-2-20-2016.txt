@@ -1,0 +1,104 @@
+PokerStars Hand #149102868622:  Hold'em Limit ($3/$6 USD) - 2016/02/20 2:15:23 ET
+Table 'Aehlita' 6-max Seat #6 is the button
+Seat 4: Agrotait ($86.50 in chips)
+Seat 6: PostaPete ($17.64 in chips)
+PostaPete: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+PostaPete: folds
+Uncalled bet ($2) returned to Agrotait
+Agrotait collected $2 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: Agrotait (big blind) collected ($2)
+Seat 6: PostaPete (button) (small blind) folded before Flop
+
+
+PokerStars Hand #149102861951:  Hold'em Limit ($3/$6 USD) - 2016/02/20 2:15:02 ET
+Table 'Aehlita' 6-max Seat #4 is the button
+Seat 4: Agrotait ($95.50 in chips)
+Seat 6: PostaPete ($9 in chips)
+Agrotait: posts small blind $1
+PostaPete: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+PostaPete: calls $3
+*** FLOP *** [2d 6c 5c]
+PostaPete: bets $3 and is all-in
+Agrotait: calls $3
+*** TURN *** [2d 6c 5c] [Th]
+*** RIVER *** [2d 6c 5c Th] [8h]
+*** SHOW DOWN ***
+PostaPete: shows [Jc 5s] (a pair of Fives)
+Agrotait: shows [Kc 4d] (high card King)
+PostaPete collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2d 6c 5c Th 8h]
+Seat 4: Agrotait (button) (small blind) showed [Kc 4d] and lost with high card King
+Seat 6: PostaPete (big blind) showed [Jc 5s] and won ($17.64) with a pair of Fives
+
+
+PokerStars Hand #149102847013:  Hold'em Limit ($3/$6 USD) - 2016/02/20 2:14:17 ET
+Table 'Aehlita' 6-max Seat #6 is the button
+Seat 4: Agrotait ($72 in chips)
+Seat 6: PostaPete ($33 in chips)
+PostaPete: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+PostaPete: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [9h Th 4s]
+Agrotait: checks
+PostaPete: bets $3
+Agrotait: raises $3 to $6
+PostaPete: calls $3
+*** TURN *** [9h Th 4s] [3h]
+Agrotait: bets $6
+PostaPete: calls $6
+*** RIVER *** [9h Th 4s 3h] [Ac]
+Agrotait: checks
+PostaPete: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+PostaPete: shows [Jd 8d] (high card Ace)
+Agrotait: shows [7c 9d] (a pair of Nines)
+Agrotait collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9h Th 4s 3h Ac]
+Seat 4: Agrotait (big blind) showed [7c 9d] and won ($47.50) with a pair of Nines
+Seat 6: PostaPete (button) (small blind) showed [Jd 8d] and lost with high card Ace
+
+
+PokerStars Hand #149102870241:  Hold'em Limit ($3/$6 USD) - 2016/02/20 2:15:28 ET
+Table 'Aehlita' 6-max Seat #4 is the button
+Seat 4: Agrotait ($87.50 in chips)
+Seat 6: PostaPete ($16.64 in chips)
+Agrotait: posts small blind $1
+PostaPete: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+PostaPete: calls $3
+*** FLOP *** [Kh Ad 2h]
+PostaPete: checks
+Agrotait: bets $3
+PostaPete: calls $3
+*** TURN *** [Kh Ad 2h] [6d]
+PostaPete: checks
+Agrotait: bets $6
+PostaPete: raises $1.64 to $7.64 and is all-in
+Agrotait: calls $1.64
+*** RIVER *** [Kh Ad 2h 6d] [5c]
+*** SHOW DOWN ***
+PostaPete: shows [Th Jh] (high card Ace)
+Agrotait: shows [5s 5d] (three of a kind, Fives)
+Agrotait collected $32.78 from pot
+*** SUMMARY ***
+Total pot $33.28 | Rake $0.50
+Board [Kh Ad 2h 6d 5c]
+Seat 4: Agrotait (button) (small blind) showed [5s 5d] and won ($32.78) with three of a kind, Fives
+Seat 6: PostaPete (big blind) showed [Th Jh] and lost with high card Ace
+
+

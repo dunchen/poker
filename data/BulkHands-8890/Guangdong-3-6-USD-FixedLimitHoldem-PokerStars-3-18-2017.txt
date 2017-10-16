@@ -1,0 +1,33 @@
+PokerStars Hand #167733830309:  Hold'em Limit ($3/$6 USD) - 2017/03/17 20:18:21 ET
+Table 'Guangdong' 6-max Seat #4 is the button
+Seat 4: Chessnok ($299.28 in chips)
+Seat 5: CaliostroD ($120 in chips)
+Chessnok: posts small blind $1
+CaliostroD: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+CaliostroD: calls $3
+*** FLOP *** [Ah 3h 6d]
+CaliostroD: checks
+Chessnok: bets $3
+GoliafUa joins the table at seat #6
+CaliostroD: calls $3
+*** TURN *** [Ah 3h 6d] [Jd]
+CaliostroD: checks
+Chessnok: bets $6
+CaliostroD: calls $6
+*** RIVER *** [Ah 3h 6d Jd] [7d]
+CaliostroD: checks
+Chessnok: bets $6
+CaliostroD: calls $6
+*** SHOW DOWN ***
+Chessnok: shows [Jh Js] (three of a kind, Jacks)
+CaliostroD: mucks hand
+Chessnok collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ah 3h 6d Jd 7d]
+Seat 4: Chessnok (button) (small blind) showed [Jh Js] and won ($41.50) with three of a kind, Jacks
+Seat 5: CaliostroD (big blind) mucked
+
+

@@ -1,0 +1,115 @@
+PokerStars Hand #171693989305:  Hold'em Limit ($3/$6 USD) - 2017/06/12 16:22:00 ET
+Table 'Flammario' 6-max Seat #3 is the button
+Seat 3: igorkabmw ($30 in chips)
+Seat 4: Azrarn ($120 in chips)
+igorkabmw: posts small blind $1
+vestimokrec joins the table at seat #5
+Azrarn: posts big blind $3
+*** HOLE CARDS ***
+igorkabmw: calls $2
+Azrarn: checks
+*** FLOP *** [Ks 3d 7s]
+Azrarn: bets $3
+igorkabmw: calls $3
+*** TURN *** [Ks 3d 7s] [Jc]
+Azrarn: bets $6
+igorkabmw: calls $6
+*** RIVER *** [Ks 3d 7s Jc] [8d]
+Azrarn: bets $6
+igorkabmw: raises $6 to $12
+Azrarn: calls $6
+*** SHOW DOWN ***
+igorkabmw: shows [Tc 9d] (a straight, Seven to Jack)
+Azrarn: mucks hand
+igorkabmw collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Ks 3d 7s Jc 8d]
+Seat 3: igorkabmw (button) (small blind) showed [Tc 9d] and won ($47.50) with a straight, Seven to Jack
+Seat 4: Azrarn (big blind) mucked
+
+
+PokerStars Hand #171702688486:  Hold'em Limit ($3/$6 USD) - 2017/06/12 19:48:40 ET
+Table 'Flammario' 6-max Seat #3 is the button
+Seat 3: xxxGLKxxx ($281.21 in chips)
+Seat 5: RaisemyNut$ ($103.24 in chips)
+xxxGLKxxx: posts small blind $1
+RaisemyNut$: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl joins the table at seat #2
+xxxGLKxxx: raises $3 to $6
+RaisemyNut$: folds
+Uncalled bet ($3) returned to xxxGLKxxx
+xxxGLKxxx collected $6 from pot
+xxxGLKxxx: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: xxxGLKxxx (button) (small blind) collected ($6)
+Seat 5: RaisemyNut$ (big blind) folded before Flop
+
+
+PokerStars Hand #171702698004:  Hold'em Limit ($3/$6 USD) - 2017/06/12 19:48:59 ET
+Table 'Flammario' 6-max Seat #2 is the button
+Seat 2: B_loJkl ($147 in chips)
+Seat 5: RaisemyNut$ ($99.24 in chips)
+B_loJkl: posts small blind $1
+xxxGLKxxx: is sitting out
+RaisemyNut$: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+RaisemyNut$: calls $3
+*** FLOP *** [Qs 4s Ad]
+RaisemyNut$: checks
+B_loJkl: bets $3
+RaisemyNut$: raises $3 to $6
+B_loJkl: calls $3
+*** TURN *** [Qs 4s Ad] [6s]
+RaisemyNut$: bets $6
+B_loJkl: calls $6
+*** RIVER *** [Qs 4s Ad 6s] [5s]
+RaisemyNut$: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+RaisemyNut$: shows [2s Ts] (a flush, Queen high)
+B_loJkl: mucks hand
+RaisemyNut$ collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Qs 4s Ad 6s 5s]
+Seat 2: B_loJkl (button) (small blind) mucked
+Seat 5: RaisemyNut$ (big blind) showed [2s Ts] and won ($47.50) with a flush, Queen high
+
+
+PokerStars Hand #171702727582:  Hold'em Limit ($3/$6 USD) - 2017/06/12 19:49:57 ET
+Table 'Flammario' 6-max Seat #5 is the button
+Seat 2: B_loJkl ($123 in chips)
+Seat 5: RaisemyNut$ ($122.74 in chips)
+RaisemyNut$: posts small blind $1
+EVBET was removed from the table for failing to post
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+RaisemyNut$: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [8h 3c 6s]
+B_loJkl: checks
+RaisemyNut$: bets $3
+B_loJkl: calls $3
+*** TURN *** [8h 3c 6s] [9h]
+B_loJkl: checks
+RaisemyNut$: bets $6
+B_loJkl: calls $6
+*** RIVER *** [8h 3c 6s 9h] [8s]
+B_loJkl: checks
+RaisemyNut$: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+RaisemyNut$: shows [Js 9s] (two pair, Nines and Eights)
+B_loJkl: mucks hand
+RaisemyNut$ collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [8h 3c 6s 9h 8s]
+Seat 2: B_loJkl (big blind) mucked
+Seat 5: RaisemyNut$ (button) (small blind) showed [Js 9s] and won ($41.50) with two pair, Nines and Eights
+
+

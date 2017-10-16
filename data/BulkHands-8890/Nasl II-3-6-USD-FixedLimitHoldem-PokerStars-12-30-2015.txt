@@ -1,0 +1,33 @@
+PokerStars Hand #146143670485:  Hold'em Limit ($3/$6 USD) - 2015/12/29 19:06:47 ET
+Table 'Nasl II' 6-max Seat #6 is the button
+Seat 4: CoooKay ($157.79 in chips)
+Seat 6: Bonsey_1 ($274.36 in chips)
+Bonsey_1: posts small blind $1
+alexslep: is sitting out
+CoooKay: posts big blind $3
+*** HOLE CARDS ***
+Bonsey_1: raises $3 to $6
+CoooKay: calls $3
+*** FLOP *** [Kc 8s 9c]
+CoooKay: checks
+Bonsey_1: bets $3
+vestimokrec leaves the table
+CoooKay: calls $3
+*** TURN *** [Kc 8s 9c] [Ks]
+CoooKay: checks
+Bonsey_1: bets $6
+CoooKay: calls $6
+*** RIVER *** [Kc 8s 9c Ks] [Qs]
+CoooKay: checks
+Bonsey_1: checks
+*** SHOW DOWN ***
+CoooKay: shows [5s 6c] (a pair of Kings)
+Bonsey_1: shows [9h Th] (two pair, Kings and Nines)
+Bonsey_1 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kc 8s 9c Ks Qs]
+Seat 4: CoooKay (big blind) showed [5s 6c] and lost with a pair of Kings
+Seat 6: Bonsey_1 (button) (small blind) showed [9h Th] and won ($29.50) with two pair, Kings and Nines
+
+

@@ -1,0 +1,66 @@
+PokerStars Hand #154800155393:  Hold'em Limit ($3/$6 USD) - 2016/06/16 5:36:58 ET
+Table 'Palamedes' 6-max Seat #2 is the button
+Seat 2: D Juice11 ($219.94 in chips)
+Seat 3: TbIP-TbIP 88 ($72 in chips)
+D Juice11: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+D Juice11: raises $3 to $6
+Ale4o joins the table at seat #4
+TbIP-TbIP 88: calls $3
+*** FLOP *** [6d Kd Qs]
+TbIP-TbIP 88: checks
+D Juice11: bets $3
+TbIP-TbIP 88: calls $3
+*** TURN *** [6d Kd Qs] [2c]
+TbIP-TbIP 88: checks
+D Juice11: checks
+*** RIVER *** [6d Kd Qs 2c] [4h]
+TbIP-TbIP 88: bets $6
+D Juice11: calls $6
+*** SHOW DOWN ***
+TbIP-TbIP 88: shows [9d 6h] (a pair of Sixes)
+D Juice11: shows [Ts Qh] (a pair of Queens)
+D Juice11 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6d Kd Qs 2c 4h]
+Seat 2: D Juice11 (button) (small blind) showed [Ts Qh] and won ($29.50) with a pair of Queens
+Seat 3: TbIP-TbIP 88 (big blind) showed [9d 6h] and lost with a pair of Sixes
+
+
+PokerStars Hand #154800457432:  Hold'em Limit ($3/$6 USD) - 2016/06/16 5:50:37 ET
+Table 'Palamedes' 6-max Seat #6 is the button
+Seat 5: RazvanDej ($140.58 in chips)
+Seat 6: Garuda Black ($138.54 in chips)
+Garuda Black: posts small blind $1
+TbIP-TbIP 88: is sitting out
+Ale4o: is sitting out
+RazvanDej: posts big blind $3
+*** HOLE CARDS ***
+Garuda Black: raises $3 to $6
+RazvanDej: calls $3
+*** FLOP *** [9s 3s 8d]
+RazvanDej: checks
+Garuda Black: bets $3
+RazvanDej: raises $3 to $6
+Garuda Black: calls $3
+*** TURN *** [9s 3s 8d] [Qd]
+RazvanDej: bets $6
+Garuda Black: calls $6
+*** RIVER *** [9s 3s 8d Qd] [Ac]
+Ale4o leaves the table
+RazvanDej: checks
+Garuda Black: bets $6
+RazvanDej: calls $6
+*** SHOW DOWN ***
+Garuda Black: shows [6c 7s] (high card Ace)
+RazvanDej: shows [8s Ts] (a pair of Eights)
+RazvanDej collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9s 3s 8d Qd Ac]
+Seat 5: RazvanDej (big blind) showed [8s Ts] and won ($47.50) with a pair of Eights
+Seat 6: Garuda Black (button) (small blind) showed [6c 7s] and lost with high card Ace
+
+

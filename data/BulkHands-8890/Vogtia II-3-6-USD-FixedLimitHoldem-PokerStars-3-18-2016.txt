@@ -1,0 +1,79 @@
+PokerStars Hand #150549421416:  Hold'em Limit ($3/$6 USD) - 2016/03/18 14:27:55 ET
+Table 'Vogtia II' 6-max Seat #1 is the button
+Seat 1: _fayzulllo_ ($72 in chips)
+Seat 4: AzureCaper ($72 in chips)
+_fayzulllo_: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: calls $2
+AzureCaper: checks
+*** FLOP *** [Qs 9d Td]
+AzureCaper: bets $3
+_fayzulllo_: calls $3
+*** TURN *** [Qs 9d Td] [6c]
+AzureCaper: bets $6
+_fayzulllo_: calls $6
+*** RIVER *** [Qs 9d Td 6c] [6h]
+AzureCaper: bets $6
+_fayzulllo_: calls $6
+Ale4o joins the table at seat #2
+*** SHOW DOWN ***
+AzureCaper: shows [Jh 7d] (a pair of Sixes)
+_fayzulllo_: shows [8h Qc] (two pair, Queens and Sixes)
+_fayzulllo_ collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Qs 9d Td 6c 6h]
+Seat 1: _fayzulllo_ (button) (small blind) showed [8h Qc] and won ($35.50) with two pair, Queens and Sixes
+Seat 4: AzureCaper (big blind) showed [Jh 7d] and lost with a pair of Sixes
+
+
+PokerStars Hand #150549442499:  Hold'em Limit ($3/$6 USD) - 2016/03/18 14:28:19 ET
+Table 'Vogtia II' 6-max Seat #4 is the button
+Seat 1: _fayzulllo_ ($89.50 in chips)
+Seat 4: AzureCaper ($72 in chips)
+AzureCaper: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+_fayzulllo_: folds
+Uncalled bet ($3) returned to AzureCaper
+AzureCaper collected $6 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: _fayzulllo_ (big blind) folded before Flop
+Seat 4: AzureCaper (button) (small blind) collected ($6)
+
+
+PokerStars Hand #150550685686:  Hold'em Limit ($3/$6 USD) - 2016/03/18 14:51:56 ET
+Table 'Vogtia II' 6-max Seat #5 is the button
+Seat 3: Chessnok ($177.78 in chips)
+Seat 5: limedownhill ($166.56 in chips)
+limedownhill: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+Ramosh1974 leaves the table
+limedownhill: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [3c 6s 7c]
+Chessnok: checks
+limedownhill: bets $3
+Chessnok: calls $3
+*** TURN *** [3c 6s 7c] [Js]
+Chessnok: checks
+limedownhill: checks
+*** RIVER *** [3c 6s 7c Js] [6c]
+Chessnok: checks
+limedownhill: checks
+*** SHOW DOWN ***
+Chessnok: shows [Kd 2c] (a pair of Sixes)
+limedownhill: shows [Ac Qs] (a pair of Sixes - Ace kicker)
+limedownhill collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3c 6s 7c Js 6c]
+Seat 3: Chessnok (big blind) showed [Kd 2c] and lost with a pair of Sixes
+Seat 5: limedownhill (button) (small blind) showed [Ac Qs] and won ($17.64) with a pair of Sixes
+
+

@@ -1,0 +1,29 @@
+PokerStars Hand #151150306292:  Hold'em Limit ($3/$6 USD) - 2016/03/30 1:00:00 ET
+Table 'Sumiana' 6-max Seat #1 is the button
+Seat 1: zarazzzza ($70.94 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+zarazzzza: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+zarazzzza: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [2h 9h Ks]
+VolkovDmitri: checks
+zarazzzza: checks
+*** TURN *** [2h 9h Ks] [9c]
+VolkovDmitri: checks
+zarazzzza: checks
+*** RIVER *** [2h 9h Ks 9c] [3c]
+VolkovDmitri: checks
+zarazzzza: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [6h 4s] (a pair of Nines)
+zarazzzza: shows [Ah 6c] (a pair of Nines - Ace kicker)
+zarazzzza collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2h 9h Ks 9c 3c]
+Seat 1: zarazzzza (button) (small blind) showed [Ah 6c] and won ($11.76) with a pair of Nines
+Seat 4: VolkovDmitri (big blind) showed [6h 4s] and lost with a pair of Nines
+
+

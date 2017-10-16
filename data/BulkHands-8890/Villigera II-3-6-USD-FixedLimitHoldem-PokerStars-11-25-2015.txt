@@ -1,0 +1,57 @@
+PokerStars Hand #144376730637:  Hold'em Limit ($3/$6 USD) - 2015/11/25 15:18:53 ET
+Table 'Villigera II' 6-max Seat #3 is the button
+Seat 3: vestimokrec ($187.40 in chips)
+Seat 6: PelonCabelao ($72 in chips)
+vestimokrec: posts small blind $1
+PelonCabelao: posts big blind $3
+*** HOLE CARDS ***
+DirtyDouble2 leaves the table
+vestimokrec: raises $3 to $6
+PelonCabelao: calls $3
+*** FLOP *** [6h 3d Kd]
+PelonCabelao: checks
+vestimokrec: checks
+*** TURN *** [6h 3d Kd] [4s]
+PelonCabelao: bets $6
+vestimokrec: calls $6
+*** RIVER *** [6h 3d Kd 4s] [4h]
+PelonCabelao: checks
+vestimokrec: checks
+*** SHOW DOWN ***
+PelonCabelao: shows [5h Qc] (a pair of Fours)
+vestimokrec: shows [7c As] (a pair of Fours - Ace kicker)
+vestimokrec collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [6h 3d Kd 4s 4h]
+Seat 3: vestimokrec (button) (small blind) showed [7c As] and won ($23.52) with a pair of Fours
+Seat 6: PelonCabelao (big blind) showed [5h Qc] and lost with a pair of Fours
+
+
+PokerStars Hand #144376709771:  Hold'em Limit ($3/$6 USD) - 2015/11/25 15:18:32 ET
+Table 'Villigera II' 6-max Seat #5 is the button
+Seat 3: vestimokrec ($193.40 in chips)
+Seat 5: DirtyDouble2 ($117.30 in chips)
+DirtyDouble2: posts small blind $1
+theobell: is sitting out
+PelonCabelao: is sitting out
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+PelonCabelao leaves the table
+DirtyDouble2: raises $3 to $6
+theobell leaves the table
+vestimokrec: calls $3
+*** FLOP *** [Td 7h 3h]
+vestimokrec: checks
+DirtyDouble2: bets $3
+PelonCabelao joins the table at seat #6
+vestimokrec: folds
+Uncalled bet ($3) returned to DirtyDouble2
+DirtyDouble2 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Td 7h 3h]
+Seat 3: vestimokrec (big blind) folded on the Flop
+Seat 5: DirtyDouble2 (button) (small blind) collected ($11.76)
+
+

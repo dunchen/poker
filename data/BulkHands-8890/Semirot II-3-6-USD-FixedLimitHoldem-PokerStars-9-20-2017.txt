@@ -1,0 +1,71 @@
+PokerStars Hand #175889435542:  Hold'em Limit ($3/$6 USD) - 2017/09/20 10:14:59 ET
+Table 'Semirot II' 6-max Seat #2 is the button
+Seat 2: Psynto ($72 in chips)
+Seat 3: oAlekosSas ($288 in chips)
+Psynto: posts small blind $1
+oAlekosSas: posts big blind $3
+*** HOLE CARDS ***
+Psynto: raises $3 to $6
+oAlekosSas: folds
+Uncalled bet ($3) returned to Psynto
+Psynto collected $6 from pot
+Psynto: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: Psynto (button) (small blind) collected ($6)
+Seat 3: oAlekosSas (big blind) folded before Flop
+
+
+PokerStars Hand #175889438631:  Hold'em Limit ($3/$6 USD) - 2017/09/20 10:15:04 ET
+Table 'Semirot II' 6-max Seat #3 is the button
+Seat 2: Psynto ($75 in chips)
+Seat 3: oAlekosSas ($285 in chips)
+oAlekosSas: posts small blind $1
+Psynto: posts big blind $3
+*** HOLE CARDS ***
+oAlekosSas: raises $3 to $6
+B_loJkl joins the table at seat #4
+Psynto: calls $3
+*** FLOP *** [8d 6s Tc]
+Psynto: checks
+oAlekosSas: bets $3
+Psynto: folds
+Uncalled bet ($3) returned to oAlekosSas
+oAlekosSas collected $11.76 from pot
+oAlekosSas: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8d 6s Tc]
+Seat 2: Psynto (big blind) folded on the Flop
+Seat 3: oAlekosSas (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #175889453796:  Hold'em Limit ($3/$6 USD) - 2017/09/20 10:15:32 ET
+Table 'Semirot II' 6-max Seat #2 is the button
+Seat 2: Psynto ($72 in chips)
+Seat 4: B_loJkl ($72 in chips)
+Psynto: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Psynto: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [9s 2h 6d]
+B_loJkl: checks
+Psynto: checks
+*** TURN *** [9s 2h 6d] [Qd]
+B_loJkl: checks
+Psynto: checks
+*** RIVER *** [9s 2h 6d Qd] [4s]
+B_loJkl: bets $6
+Psynto: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [5d Ad] (high card Ace)
+Psynto: mucks hand
+B_loJkl collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [9s 2h 6d Qd 4s]
+Seat 2: Psynto (button) (small blind) mucked
+Seat 4: B_loJkl (big blind) showed [5d Ad] and won ($23.52) with high card Ace
+
+

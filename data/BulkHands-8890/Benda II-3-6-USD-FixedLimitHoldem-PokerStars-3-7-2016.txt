@@ -1,0 +1,30 @@
+PokerStars Hand #149963625869:  Hold'em Limit ($3/$6 USD) - 2016/03/06 21:33:39 ET
+Table 'Benda II' 6-max Seat #4 is the button
+Seat 3: kostya ANN ($12.81 in chips)
+Seat 4: AzureCaper ($88.92 in chips)
+AzureCaper: posts small blind $1
+kostya ANN: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+kostya ANN: calls $3
+*** FLOP *** [4c Tc 7c]
+kostya ANN: checks
+AzureCaper: bets $3
+kostya ANN: calls $3
+*** TURN *** [4c Tc 7c] [5h]
+kostya ANN: checks
+AzureCaper: bets $6
+kostya ANN: calls $3.81 and is all-in
+Uncalled bet ($2.19) returned to AzureCaper
+*** RIVER *** [4c Tc 7c 5h] [Kc]
+*** SHOW DOWN ***
+kostya ANN: shows [As 9d] (high card Ace)
+AzureCaper: shows [3s 6s] (a straight, Three to Seven)
+AzureCaper collected $25.12 from pot
+*** SUMMARY ***
+Total pot $25.62 | Rake $0.50
+Board [4c Tc 7c 5h Kc]
+Seat 3: kostya ANN (big blind) showed [As 9d] and lost with high card Ace
+Seat 4: AzureCaper (button) (small blind) showed [3s 6s] and won ($25.12) with a straight, Three to Seven
+
+

@@ -1,0 +1,82 @@
+PokerStars Hand #175629414278:  Hold'em Limit ($3/$6 USD) - 2017/09/14 9:43:16 ET
+Table 'Prymno' 6-max Seat #2 is the button
+Seat 1: Opal10 ($120 in chips)
+Seat 2: vestimokrec ($120 in chips)
+vestimokrec: posts small blind $1
+Anchig: is sitting out
+Opal10: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+Opal10: calls $3
+*** FLOP *** [6d 9s 5s]
+Opal10: checks
+vestimokrec: bets $3
+Opal10: calls $3
+*** TURN *** [6d 9s 5s] [9c]
+Opal10: bets $6
+vestimokrec: calls $6
+*** RIVER *** [6d 9s 5s 9c] [Ah]
+Opal10: bets $6
+vestimokrec: raises $6 to $12
+Opal10: folds
+Uncalled bet ($6) returned to vestimokrec
+vestimokrec collected $41.50 from pot
+vestimokrec: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [6d 9s 5s 9c Ah]
+Seat 1: Opal10 (big blind) folded on the River
+Seat 2: vestimokrec (button) (small blind) collected ($41.50)
+
+
+PokerStars Hand #175629434961:  Hold'em Limit ($3/$6 USD) - 2017/09/14 9:43:56 ET
+Table 'Prymno' 6-max Seat #1 is the button
+Seat 1: Opal10 ($99 in chips)
+Seat 2: vestimokrec ($140.50 in chips)
+Opal10: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+Opal10: calls $2
+vestimokrec: raises $3 to $6
+Opal10: calls $3
+*** FLOP *** [Ad 7d Td]
+vestimokrec: bets $3
+Opal10: folds
+Uncalled bet ($3) returned to vestimokrec
+vestimokrec collected $11.76 from pot
+vestimokrec: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ad 7d Td]
+Seat 1: Opal10 (button) (small blind) folded on the Flop
+Seat 2: vestimokrec (big blind) collected ($11.76)
+
+
+PokerStars Hand #175629502849:  Hold'em Limit ($3/$6 USD) - 2017/09/14 9:46:05 ET
+Table 'Prymno' 6-max Seat #4 is the button
+Seat 2: vestimokrec ($121.26 in chips)
+Seat 4: Anchig ($100 in chips)
+Anchig: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+Anchig: raises $3 to $6
+vestimokrec: calls $3
+*** FLOP *** [7h 2c 3h]
+vestimokrec: checks
+Anchig: checks
+*** TURN *** [7h 2c 3h] [5s]
+vestimokrec: bets $6
+Anchig: calls $6
+*** RIVER *** [7h 2c 3h 5s] [Qs]
+vestimokrec: bets $6
+Anchig: folds
+Uncalled bet ($6) returned to vestimokrec
+vestimokrec collected $23.52 from pot
+vestimokrec: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [7h 2c 3h 5s Qs]
+Seat 2: vestimokrec (big blind) collected ($23.52)
+Seat 4: Anchig (button) (small blind) folded on the River
+
+

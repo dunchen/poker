@@ -1,0 +1,54 @@
+PokerStars Hand #145459042661:  Hold'em Limit ($3/$6 USD) - 2015/12/16 18:55:52 ET
+Table 'Ruchbah II' 2-max Seat #1 is the button
+Seat 1: toroza ($178.78 in chips)
+Seat 2: Great_Kang ($206.94 in chips)
+toroza: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+toroza: raises $3 to $6
+Great_Kang: calls $3
+*** FLOP *** [3h 4h 5c]
+Great_Kang: checks
+toroza: bets $3
+Great_Kang: calls $3
+*** TURN *** [3h 4h 5c] [Qh]
+Great_Kang: checks
+toroza: bets $6
+Great_Kang: calls $6
+*** RIVER *** [3h 4h 5c Qh] [8s]
+Great_Kang: checks
+toroza: bets $6
+Great_Kang: calls $6
+*** SHOW DOWN ***
+toroza: shows [Ad Ac] (a pair of Aces)
+Great_Kang: mucks hand
+toroza collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [3h 4h 5c Qh 8s]
+Seat 1: toroza (button) (small blind) showed [Ad Ac] and won ($41.50) with a pair of Aces
+Seat 2: Great_Kang (big blind) mucked
+
+
+PokerStars Hand #145459062336:  Hold'em Limit ($3/$6 USD) - 2015/12/16 18:56:28 ET
+Table 'Ruchbah II' 2-max Seat #2 is the button
+Seat 1: toroza ($199.28 in chips)
+Seat 2: Great_Kang ($185.94 in chips)
+Great_Kang: posts small blind $1
+toroza: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+toroza: calls $3
+*** FLOP *** [6s 9s Ks]
+toroza: bets $3
+Great_Kang: folds
+Uncalled bet ($3) returned to toroza
+toroza collected $11.76 from pot
+toroza: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6s 9s Ks]
+Seat 1: toroza (big blind) collected ($11.76)
+Seat 2: Great_Kang (button) (small blind) folded on the Flop
+
+

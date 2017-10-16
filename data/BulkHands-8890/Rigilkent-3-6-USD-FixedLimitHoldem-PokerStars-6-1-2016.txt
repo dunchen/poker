@@ -1,0 +1,106 @@
+PokerStars Hand #154129444824:  Hold'em Limit ($3/$6 USD) - 2016/06/01 4:29:52 ET
+Table 'Rigilkent' 6-max Seat #5 is the button
+Seat 3: old_col ($83.50 in chips)
+Seat 5: Ale4o ($92.92 in chips)
+Ale4o: posts small blind $1
+old_col: posts big blind $3
+*** HOLE CARDS ***
+Ale4o: raises $3 to $6
+old_col: calls $3
+*** FLOP *** [Qc 4c Ac]
+VolkovDmitri is disconnected
+old_col: checks
+Ale4o: bets $3
+old_col: calls $3
+*** TURN *** [Qc 4c Ac] [Kc]
+old_col: checks
+Ale4o: checks
+*** RIVER *** [Qc 4c Ac Kc] [5d]
+old_col: bets $6
+Ale4o: folds
+Uncalled bet ($6) returned to old_col
+old_col collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qc 4c Ac Kc 5d]
+Seat 3: old_col (big blind) collected ($17.64)
+Seat 5: Ale4o (button) (small blind) folded on the River
+
+
+PokerStars Hand #154129440635:  Hold'em Limit ($3/$6 USD) - 2016/06/01 4:29:37 ET
+Table 'Rigilkent' 6-max Seat #3 is the button
+Seat 3: old_col ($74.86 in chips)
+Seat 5: Ale4o ($101.92 in chips)
+old_col: posts small blind $1
+Ale4o: posts big blind $3
+*** HOLE CARDS ***
+old_col: raises $3 to $6
+Ale4o: calls $3
+*** FLOP *** [6d 2c 6s]
+Ale4o: checks
+old_col: bets $3
+Ale4o: calls $3
+*** TURN *** [6d 2c 6s] [Qh]
+Ale4o: checks
+old_col: bets $6
+Ale4o: folds
+Uncalled bet ($6) returned to old_col
+old_col collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6d 2c 6s Qh]
+Seat 3: old_col (button) (small blind) collected ($17.64)
+Seat 5: Ale4o (big blind) folded on the Turn
+
+
+PokerStars Hand #154129451871:  Hold'em Limit ($3/$6 USD) - 2016/06/01 4:30:15 ET
+Table 'Rigilkent' 6-max Seat #3 is the button
+Seat 3: old_col ($92.14 in chips)
+Seat 5: Ale4o ($83.92 in chips)
+old_col: posts small blind $1
+Ale4o: posts big blind $3
+*** HOLE CARDS ***
+tomte999 joins the table at seat #6
+old_col: calls $2
+Ale4o: raises $3 to $6
+old_col: calls $3
+*** FLOP *** [4d 8d Qs]
+Ale4o: bets $3
+old_col: raises $3 to $6
+Ale4o: calls $3
+*** TURN *** [4d 8d Qs] [Ad]
+Ale4o: checks
+old_col: bets $6
+Ale4o: calls $6
+*** RIVER *** [4d 8d Qs Ad] [5c]
+Ale4o: checks
+old_col: checks
+*** SHOW DOWN ***
+Ale4o: shows [8c 6d] (a pair of Eights)
+old_col: shows [6c Qh] (a pair of Queens)
+Miegstroem joins the table at seat #2
+old_col collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [4d 8d Qs Ad 5c]
+Seat 3: old_col (button) (small blind) showed [6c Qh] and won ($35.50) with a pair of Queens
+Seat 5: Ale4o (big blind) showed [8c 6d] and lost with a pair of Eights
+
+
+PokerStars Hand #154131292556:  Hold'em Limit ($3/$6 USD) - 2016/06/01 5:59:10 ET
+Table 'Rigilkent' 6-max Seat #2 is the button
+Seat 2: Miegstroem ($108.66 in chips)
+Seat 3: B_loJkl ($154 in chips)
+Miegstroem: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Miegstroem: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: Miegstroem (button) (small blind) folded before Flop
+Seat 3: B_loJkl (big blind) collected ($2)
+
+

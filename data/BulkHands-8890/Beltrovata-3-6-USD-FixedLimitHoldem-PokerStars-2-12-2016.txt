@@ -1,0 +1,111 @@
+PokerStars Hand #148659589667:  Hold'em Limit ($3/$6 USD) - 2016/02/12 4:06:15 ET
+Table 'Beltrovata' 6-max Seat #4 is the button
+Seat 1: frazerchi ($18 in chips)
+Seat 4: Agrotait ($83.52 in chips)
+Agrotait: posts small blind $1
+frazerchi: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+frazerchi: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $6 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: frazerchi (big blind) folded before Flop
+Seat 4: Agrotait (button) (small blind) collected ($6)
+
+
+PokerStars Hand #148659575541:  Hold'em Limit ($3/$6 USD) - 2016/02/12 4:05:38 ET
+Table 'Beltrovata' 6-max Seat #1 is the button
+Seat 1: frazerchi ($30 in chips)
+Seat 4: Agrotait ($72 in chips)
+frazerchi: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+frazerchi: calls $2
+Agrotait: checks
+*** FLOP *** [Js 9s 5c]
+DismasX joins the table at seat #2
+Agrotait: bets $3
+frazerchi: calls $3
+*** TURN *** [Js 9s 5c] [2c]
+Agrotait: bets $6
+frazerchi: calls $6
+*** RIVER *** [Js 9s 5c 2c] [Qc]
+Agrotait: bets $6
+frazerchi: folds
+Uncalled bet ($6) returned to Agrotait
+Agrotait collected $23.52 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Js 9s 5c 2c Qc]
+Seat 1: frazerchi (button) (small blind) folded on the River
+Seat 4: Agrotait (big blind) collected ($23.52)
+
+
+PokerStars Hand #148659606095:  Hold'em Limit ($3/$6 USD) - 2016/02/12 4:06:57 ET
+Table 'Beltrovata' 6-max Seat #2 is the button
+Seat 2: DismasX ($92.10 in chips)
+Seat 4: Agrotait ($86.52 in chips)
+DismasX: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+DismasX: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [Th 6d Td]
+Agrotait: checks
+DismasX: bets $3
+Agrotait: raises $3 to $6
+DismasX: calls $3
+*** TURN *** [Th 6d Td] [Qc]
+Agrotait: bets $6
+DismasX: calls $6
+*** RIVER *** [Th 6d Td Qc] [Ks]
+Agrotait: checks
+DismasX: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+DismasX: shows [Tc Qd] (a full house, Tens full of Queens)
+Agrotait: mucks hand
+DismasX collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Th 6d Td Qc Ks]
+Seat 2: DismasX (button) (small blind) showed [Tc Qd] and won ($47.50) with a full house, Tens full of Queens
+Seat 4: Agrotait (big blind) mucked
+
+
+PokerStars Hand #148659662075:  Hold'em Limit ($3/$6 USD) - 2016/02/12 4:09:22 ET
+Table 'Beltrovata' 6-max Seat #4 is the button
+Seat 2: DismasX ($111.60 in chips)
+Seat 4: Agrotait ($93.38 in chips)
+Agrotait: posts small blind $1
+DismasX: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+frazerchi leaves the table
+DismasX: calls $3
+*** FLOP *** [7d 9c 7c]
+DismasX: checks
+Agrotait: bets $3
+DismasX: raises $3 to $6
+Agrotait: calls $3
+*** TURN *** [7d 9c 7c] [5c]
+DismasX: bets $6
+Agrotait: calls $6
+*** RIVER *** [7d 9c 7c 5c] [Tc]
+DismasX: checks
+Agrotait: checks
+*** SHOW DOWN ***
+DismasX: shows [8h 6s] (a straight, Six to Ten)
+Agrotait: mucks hand
+DismasX collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [7d 9c 7c 5c Tc]
+Seat 2: DismasX (big blind) showed [8h 6s] and won ($35.50) with a straight, Six to Ten
+Seat 4: Agrotait (button) (small blind) mucked
+
+

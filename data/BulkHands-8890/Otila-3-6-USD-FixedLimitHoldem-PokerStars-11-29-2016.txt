@@ -1,0 +1,32 @@
+PokerStars Hand #162156701549:  Hold'em Limit ($3/$6 USD) - 2016/11/29 16:01:28 ET
+Table 'Otila' 6-max Seat #4 is the button
+Seat 4: kolaz03 ($72 in chips)
+Seat 5: ToDaFelt ($104.25 in chips)
+kolaz03: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+kolaz03: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [Ac Th Qs]
+ToDaFelt: checks
+kolaz03: bets $3
+ToDaFelt: raises $3 to $6
+kolaz03: calls $3
+*** TURN *** [Ac Th Qs] [Td]
+ToDaFelt: checks
+kolaz03: bets $6
+ToDaFelt: calls $6
+*** RIVER *** [Ac Th Qs Td] [Js]
+ToDaFelt: bets $6
+kolaz03: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [5h Kd] (a straight, Ten to Ace)
+kolaz03: mucks hand
+ToDaFelt collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Ac Th Qs Td Js]
+Seat 4: kolaz03 (button) (small blind) mucked
+Seat 5: ToDaFelt (big blind) showed [5h Kd] and won ($47.50) with a straight, Ten to Ace
+
+

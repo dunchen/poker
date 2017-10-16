@@ -1,0 +1,130 @@
+PokerStars Hand #145960412179:  Hold'em Limit ($3/$6 USD) - 2015/12/26 14:51:07 ET
+Table 'Sabine' 6-max Seat #3 is the button
+Seat 3: Vetal949 ($30.75 in chips)
+Seat 4: PelonCabelao ($60 in chips)
+Vetal949: posts small blind $1
+PelonCabelao: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec joins the table at seat #5
+Vetal949: raises $3 to $6
+PelonCabelao: raises $3 to $9
+Vetal949: calls $3
+*** FLOP *** [Ac 5s Th]
+PelonCabelao: bets $3
+Vetal949: calls $3
+*** TURN *** [Ac 5s Th] [Ah]
+PelonCabelao: checks
+Vetal949: checks
+*** RIVER *** [Ac 5s Th Ah] [7c]
+PelonCabelao: bets $6
+Vetal949: folds
+Uncalled bet ($6) returned to PelonCabelao
+PelonCabelao collected $23.52 from pot
+PelonCabelao: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Ac 5s Th Ah 7c]
+Seat 3: Vetal949 (button) (small blind) folded on the River
+Seat 4: PelonCabelao (big blind) collected ($23.52)
+
+
+PokerStars Hand #145960493504:  Hold'em Limit ($3/$6 USD) - 2015/12/26 14:52:31 ET
+Table 'Sabine' 6-max Seat #3 is the button
+Seat 3: Vetal949 ($37 in chips)
+Seat 4: PelonCabelao ($72 in chips)
+Vetal949: posts small blind $1
+PelonCabelao: posts big blind $3
+*** HOLE CARDS ***
+silviuvs88 joins the table at seat #1
+Vetal949: folds
+Uncalled bet ($2) returned to PelonCabelao
+PelonCabelao collected $2 from pot
+PelonCabelao: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: Vetal949 (button) (small blind) folded before Flop
+Seat 4: PelonCabelao (big blind) collected ($2)
+
+
+PokerStars Hand #145960445994:  Hold'em Limit ($3/$6 USD) - 2015/12/26 14:51:42 ET
+Table 'Sabine' 6-max Seat #4 is the button
+Seat 3: Vetal949 ($18.75 in chips)
+Seat 4: PelonCabelao ($72 in chips)
+PelonCabelao: posts small blind $1
+Vetal949: posts big blind $3
+*** HOLE CARDS ***
+PelonCabelao: raises $3 to $6
+Vetal949: calls $3
+*** FLOP *** [5h Kc 2c]
+Vetal949: checks
+PelonCabelao: bets $3
+Vetal949: calls $3
+*** TURN *** [5h Kc 2c] [8h]
+Vetal949: checks
+PelonCabelao: bets $6
+Vetal949: raises $3.75 to $9.75 and is all-in
+PelonCabelao: calls $3.75
+*** RIVER *** [5h Kc 2c 8h] [As]
+*** SHOW DOWN ***
+Vetal949: shows [5c 2s] (two pair, Fives and Deuces)
+PelonCabelao: shows [7h Ad] (a pair of Aces)
+Vetal949 collected $37 from pot
+*** SUMMARY ***
+Total pot $37.50 | Rake $0.50
+Board [5h Kc 2c 8h As]
+Seat 3: Vetal949 (big blind) showed [5c 2s] and won ($37) with two pair, Fives and Deuces
+Seat 4: PelonCabelao (button) (small blind) showed [7h Ad] and lost with a pair of Aces
+
+
+PokerStars Hand #145971230775:  Hold'em Limit ($3/$6 USD) - 2015/12/26 17:53:24 ET
+Table 'Sabine' 6-max Seat #4 is the button
+Seat 1: LukaSteel ($120 in chips)
+Seat 4: korrnel ($187.64 in chips)
+korrnel: posts small blind $1
+LukaSteel: posts big blind $3
+*** HOLE CARDS ***
+korrnel: folds
+Uncalled bet ($2) returned to LukaSteel
+LukaSteel collected $2 from pot
+LukaSteel: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: LukaSteel (big blind) collected ($2)
+Seat 4: korrnel (button) (small blind) folded before Flop
+
+
+PokerStars Hand #145971202200:  Hold'em Limit ($3/$6 USD) - 2015/12/26 17:52:54 ET
+Table 'Sabine' 6-max Seat #1 is the button
+Seat 1: LukaSteel ($120 in chips)
+Seat 4: korrnel ($173.14 in chips)
+LukaSteel: posts small blind $1
+12groszy666: is sitting out
+Xerxesklonk: is sitting out
+korrnel: posts big blind $3
+*** HOLE CARDS ***
+Xerxesklonk leaves the table
+12groszy666 leaves the table
+LukaSteel: raises $3 to $6
+korrnel: calls $3
+*** FLOP *** [4s 5s 7c]
+korrnel: checks
+LukaSteel: bets $3
+korrnel: calls $3
+*** TURN *** [4s 5s 7c] [9d]
+korrnel: checks
+LukaSteel: bets $6
+korrnel: calls $6
+*** RIVER *** [4s 5s 7c 9d] [8s]
+korrnel: checks
+LukaSteel: checks
+*** SHOW DOWN ***
+korrnel: shows [Ts 2s] (a flush, Ten high)
+LukaSteel: mucks hand
+korrnel collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4s 5s 7c 9d 8s]
+Seat 1: LukaSteel (button) (small blind) mucked
+Seat 4: korrnel (big blind) showed [Ts 2s] and won ($29.50) with a flush, Ten high
+
+

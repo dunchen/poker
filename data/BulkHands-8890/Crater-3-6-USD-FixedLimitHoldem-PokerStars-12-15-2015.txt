@@ -1,0 +1,34 @@
+PokerStars Hand #145408674058:  Hold'em Limit ($3/$6 USD) - 2015/12/15 18:57:59 ET
+Table 'Crater' 6-max Seat #2 is the button
+Seat 2: BuzovaPro ($190.36 in chips)
+Seat 5: oj_pimpson ($112.53 in chips)
+BuzovaPro: posts small blind $1
+korrnel: is sitting out
+Chessnok: is sitting out
+oj_pimpson: posts big blind $3
+*** HOLE CARDS ***
+BuzovaPro: raises $3 to $6
+korrnel leaves the table
+oj_pimpson: raises $3 to $9
+BuzovaPro: calls $3
+*** FLOP *** [As Jh 5h]
+oj_pimpson: bets $3
+Chessnok leaves the table
+BuzovaPro: calls $3
+*** TURN *** [As Jh 5h] [Qh]
+oj_pimpson: bets $6
+BuzovaPro: calls $6
+*** RIVER *** [As Jh 5h Qh] [3c]
+oj_pimpson: bets $6
+BuzovaPro: calls $6
+*** SHOW DOWN ***
+oj_pimpson: shows [Ac Qc] (two pair, Aces and Queens)
+BuzovaPro: mucks hand
+oj_pimpson collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [As Jh 5h Qh 3c]
+Seat 2: BuzovaPro (button) (small blind) mucked
+Seat 5: oj_pimpson (big blind) showed [Ac Qc] and won ($47.50) with two pair, Aces and Queens
+
+

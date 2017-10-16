@@ -1,0 +1,33 @@
+PokerStars Hand #147165550709:  Hold'em Limit ($3/$6 USD) - 2016/01/16 18:43:27 ET
+Table 'Shedir II' 6-max Seat #3 is the button
+Seat 3: razor3334 ($68.64 in chips)
+Seat 6: SmellyToes4u ($111 in chips)
+razor3334: posts small blind $1
+SmellyToes4u: posts big blind $3
+*** HOLE CARDS ***
+razor3334: raises $3 to $6
+SmellyToes4u: raises $3 to $9
+orbbitt joins the table at seat #2
+razor3334: calls $3
+*** FLOP *** [7d 4d 4s]
+SmellyToes4u: bets $3
+razor3334: raises $3 to $6
+SmellyToes4u: raises $3 to $9
+razor3334: calls $3
+*** TURN *** [7d 4d 4s] [Jd]
+SmellyToes4u: bets $6
+razor3334: calls $6
+*** RIVER *** [7d 4d 4s Jd] [8d]
+SmellyToes4u: bets $6
+razor3334: calls $6
+*** SHOW DOWN ***
+SmellyToes4u: shows [Tc Td] (a flush, Jack high)
+razor3334: mucks hand
+SmellyToes4u collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [7d 4d 4s Jd 8d]
+Seat 3: razor3334 (button) (small blind) mucked
+Seat 6: SmellyToes4u (big blind) showed [Tc Td] and won ($59.50) with a flush, Jack high
+
+

@@ -1,0 +1,71 @@
+PokerStars Hand #160734234812:  Hold'em Limit ($3/$6 USD) - 2016/11/01 7:56:28 ET
+Table 'Magoeba' 6-max Seat #1 is the button
+Seat 1: s4ntaa ($30 in chips)
+Seat 4: Agrotait ($72 in chips)
+s4ntaa: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+s4ntaa: raises $3 to $6
+Agrotait: raises $3 to $9
+s4ntaa: calls $3
+*** FLOP *** [9h 8c Kd]
+Agrotait: bets $3
+s4ntaa: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $17.64 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9h 8c Kd]
+Seat 1: s4ntaa (button) (small blind) folded on the Flop
+Seat 4: Agrotait (big blind) collected ($17.64)
+
+
+PokerStars Hand #160734264806:  Hold'em Limit ($3/$6 USD) - 2016/11/01 7:57:34 ET
+Table 'Magoeba' 6-max Seat #1 is the button
+Seat 1: s4ntaa ($41.50 in chips)
+Seat 4: Agrotait ($72 in chips)
+s4ntaa: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+s4ntaa: folds
+Uncalled bet ($2) returned to Agrotait
+Agrotait collected $2 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: s4ntaa (button) (small blind) folded before Flop
+Seat 4: Agrotait (big blind) collected ($2)
+
+
+PokerStars Hand #160734247191:  Hold'em Limit ($3/$6 USD) - 2016/11/01 7:56:55 ET
+Table 'Magoeba' 6-max Seat #4 is the button
+Seat 1: s4ntaa ($21 in chips)
+Seat 4: Agrotait ($80.64 in chips)
+Agrotait: posts small blind $1
+s4ntaa: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+s4ntaa: calls $3
+*** FLOP *** [2h 5s Ks]
+s4ntaa: checks
+Agrotait: bets $3
+s4ntaa: raises $3 to $6
+Agrotait: calls $3
+*** TURN *** [2h 5s Ks] [Tc]
+s4ntaa: bets $6
+Agrotait: calls $6
+*** RIVER *** [2h 5s Ks Tc] [8s]
+s4ntaa: bets $3 and is all-in
+Agrotait: calls $3
+*** SHOW DOWN ***
+s4ntaa: shows [Js 4s] (a flush, King high)
+Agrotait: shows [As 5h] (a pair of Fives)
+s4ntaa collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2h 5s Ks Tc 8s]
+Seat 1: s4ntaa (big blind) showed [Js 4s] and won ($41.50) with a flush, King high
+Seat 4: Agrotait (button) (small blind) showed [As 5h] and lost with a pair of Fives
+
+

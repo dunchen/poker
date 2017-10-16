@@ -1,0 +1,50 @@
+PokerStars Hand #147782529000:  Hold'em Limit ($3/$6 USD) - 2016/01/27 15:30:06 ET
+Table 'Alkurah III' 2-max Seat #1 is the button
+Seat 1: Sharp(Gosu) ($99 in chips)
+Seat 2: MarkedCard18 ($140.50 in chips)
+Sharp(Gosu): posts small blind $1
+MarkedCard18: posts big blind $3
+*** HOLE CARDS ***
+Sharp(Gosu): raises $3 to $6
+MarkedCard18: folds
+Uncalled bet ($3) returned to Sharp(Gosu)
+Sharp(Gosu) collected $6 from pot
+Sharp(Gosu): doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: Sharp(Gosu) (button) (small blind) collected ($6)
+Seat 2: MarkedCard18 (big blind) folded before Flop
+
+
+PokerStars Hand #147782500660:  Hold'em Limit ($3/$6 USD) - 2016/01/27 15:29:39 ET
+Table 'Alkurah III' 2-max Seat #2 is the button
+Seat 1: Sharp(Gosu) ($120 in chips)
+Seat 2: MarkedCard18 ($120 in chips)
+MarkedCard18: posts small blind $1
+Sharp(Gosu): posts big blind $3
+*** HOLE CARDS ***
+MarkedCard18: raises $3 to $6
+Sharp(Gosu): calls $3
+*** FLOP *** [Ah 7c Ts]
+Sharp(Gosu): checks
+MarkedCard18: bets $3
+Sharp(Gosu): raises $3 to $6
+MarkedCard18: raises $3 to $9
+Sharp(Gosu): calls $3
+*** TURN *** [Ah 7c Ts] [4s]
+Sharp(Gosu): checks
+MarkedCard18: checks
+*** RIVER *** [Ah 7c Ts 4s] [3c]
+Sharp(Gosu): bets $6
+MarkedCard18: calls $6
+*** SHOW DOWN ***
+Sharp(Gosu): shows [8c Jd] (high card Ace)
+MarkedCard18: shows [7d Jh] (a pair of Sevens)
+MarkedCard18 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ah 7c Ts 4s 3c]
+Seat 1: Sharp(Gosu) (big blind) showed [8c Jd] and lost with high card Ace
+Seat 2: MarkedCard18 (button) (small blind) showed [7d Jh] and won ($41.50) with a pair of Sevens
+
+

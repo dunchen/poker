@@ -1,0 +1,52 @@
+PokerStars Hand #150621345109:  Hold'em Limit ($3/$6 USD) - 2016/03/19 19:47:29 ET
+Table 'Neith' 10-max Seat #6 is the button
+Seat 6: SmellyToes4u ($56 in chips)
+Seat 9: perten ($35.52 in chips)
+SmellyToes4u: posts small blind $1
+perten: posts big blind $3
+*** HOLE CARDS ***
+SmellyToes4u: raises $3 to $6
+perten: calls $3
+*** FLOP *** [Tc Jh 4s]
+perten: bets $3
+SmellyToes4u: calls $3
+*** TURN *** [Tc Jh 4s] [Js]
+perten: bets $6
+SmellyToes4u: calls $6
+*** RIVER *** [Tc Jh 4s Js] [Kh]
+perten: bets $6
+SmellyToes4u: calls $6
+*** SHOW DOWN ***
+perten: shows [7c Jc] (three of a kind, Jacks)
+SmellyToes4u: mucks hand
+perten collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Tc Jh 4s Js Kh]
+Seat 6: SmellyToes4u (button) (small blind) mucked
+Seat 9: perten (big blind) showed [7c Jc] and won ($41.50) with three of a kind, Jacks
+
+
+PokerStars Hand #150621361305:  Hold'em Limit ($3/$6 USD) - 2016/03/19 19:47:51 ET
+Table 'Neith' 10-max Seat #9 is the button
+Seat 6: SmellyToes4u ($56 in chips)
+Seat 9: perten ($56.02 in chips)
+perten: posts small blind $1
+SmellyToes4u: posts big blind $3
+*** HOLE CARDS ***
+perten: raises $3 to $6
+SmellyToes4u: calls $3
+*** FLOP *** [7s Ad 8h]
+SmellyToes4u: checks
+perten: bets $3
+SmellyToes4u: folds
+Uncalled bet ($3) returned to perten
+perten collected $11.76 from pot
+perten: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7s Ad 8h]
+Seat 6: SmellyToes4u (big blind) folded on the Flop
+Seat 9: perten (button) (small blind) collected ($11.76)
+
+

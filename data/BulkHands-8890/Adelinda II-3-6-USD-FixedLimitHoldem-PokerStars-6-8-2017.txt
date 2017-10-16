@@ -1,0 +1,33 @@
+PokerStars Hand #171513853832:  Hold'em Limit ($3/$6 USD) - 2017/06/08 13:45:36 ET
+Table 'Adelinda II' 6-max Seat #5 is the button
+Seat 4: MTails ($92 in chips)
+Seat 5: vestimokrec ($111.34 in chips)
+vestimokrec: posts small blind $1
+ANIN1337: is sitting out
+MTails: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+MTails: raises $3 to $9
+vestimokrec: calls $3
+*** FLOP *** [Kh 6d 4d]
+MTails: bets $3
+ANIN1337 leaves the table
+vestimokrec: calls $3
+*** TURN *** [Kh 6d 4d] [Ts]
+MTails: bets $6
+vestimokrec: calls $6
+*** RIVER *** [Kh 6d 4d Ts] [Th]
+MTails: bets $6
+vestimokrec: raises $6 to $12
+MTails: calls $6
+*** SHOW DOWN ***
+vestimokrec: shows [8c 7s] (a pair of Tens)
+MTails: shows [Jc Js] (two pair, Jacks and Tens)
+MTails collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Kh 6d 4d Ts Th]
+Seat 4: MTails (big blind) showed [Jc Js] and won ($59.50) with two pair, Jacks and Tens
+Seat 5: vestimokrec (button) (small blind) showed [8c 7s] and lost with a pair of Tens
+
+

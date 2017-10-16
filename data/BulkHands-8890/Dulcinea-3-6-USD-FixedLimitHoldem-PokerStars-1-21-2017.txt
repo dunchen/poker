@@ -1,0 +1,80 @@
+PokerStars Hand #164942923679:  Hold'em Limit ($3/$6 USD) - 2017/01/21 13:27:45 ET
+Table 'Dulcinea' 6-max Seat #6 is the button
+Seat 2: sim5sim5 ($72 in chips)
+Seat 6: jituaj ($36 in chips)
+jituaj: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper joins the table at seat #1
+jituaj: folds
+Uncalled bet ($2) returned to sim5sim5
+sim5sim5 collected $2 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: sim5sim5 (big blind) collected ($2)
+Seat 6: jituaj (button) (small blind) folded before Flop
+
+
+PokerStars Hand #164942932608:  Hold'em Limit ($3/$6 USD) - 2017/01/21 13:27:54 ET
+Table 'Dulcinea' 6-max Seat #2 is the button
+Seat 2: sim5sim5 ($73 in chips)
+Seat 6: jituaj ($35 in chips)
+sim5sim5: posts small blind $1
+jituaj: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+jituaj: calls $3
+*** FLOP *** [4s Qs Jh]
+jituaj: bets $3
+sim5sim5: calls $3
+*** TURN *** [4s Qs Jh] [Ah]
+jituaj: bets $6
+sim5sim5: raises $6 to $12
+jituaj: calls $6
+*** RIVER *** [4s Qs Jh Ah] [5s]
+jituaj: checks
+sim5sim5: bets $6
+jituaj: calls $6
+*** SHOW DOWN ***
+sim5sim5: shows [6d As] (a pair of Aces)
+jituaj: shows [Qc 4c] (two pair, Queens and Fours)
+jituaj collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [4s Qs Jh Ah 5s]
+Seat 2: sim5sim5 (button) (small blind) showed [6d As] and lost with a pair of Aces
+Seat 6: jituaj (big blind) showed [Qc 4c] and won ($53.50) with two pair, Queens and Fours
+
+
+PokerStars Hand #164944921584:  Hold'em Limit ($3/$6 USD) - 2017/01/21 14:04:30 ET
+Table 'Dulcinea' 6-max Seat #5 is the button
+Seat 4: DePokeraap ($101.34 in chips)
+Seat 5: gustavoqz ($257.94 in chips)
+gustavoqz: posts small blind $1
+AzureCaper: is sitting out
+DePokeraap: posts big blind $3
+*** HOLE CARDS ***
+gustavoqz: raises $3 to $6
+DePokeraap: raises $3 to $9
+gustavoqz: raises $3 to $12
+Betting is capped
+DePokeraap: calls $3
+*** FLOP *** [Qh 6s Kd]
+DePokeraap: checks
+gustavoqz: checks
+*** TURN *** [Qh 6s Kd] [Qc]
+DePokeraap: bets $6
+gustavoqz: calls $6
+*** RIVER *** [Qh 6s Kd Qc] [5s]
+DePokeraap: bets $6
+gustavoqz: folds
+Uncalled bet ($6) returned to DePokeraap
+DePokeraap collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Qh 6s Kd Qc 5s]
+Seat 4: DePokeraap (big blind) collected ($35.50)
+Seat 5: gustavoqz (button) (small blind) folded on the River
+
+

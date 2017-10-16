@@ -1,0 +1,842 @@
+PokerStars Hand #148084846242:  Hold'em Limit ($3/$6 USD) - 2016/02/01 19:39:31 ET
+Table 'Imperatrix' 6-max Seat #3 is the button
+Seat 3: llmaiconll ($30.52 in chips)
+Seat 4: AzureCaper ($72 in chips)
+llmaiconll: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+llmaiconll: calls $2
+AzureCaper: checks
+*** FLOP *** [3s Qs 7h]
+AzureCaper: checks
+llmaiconll: bets $3
+AzureCaper: folds
+Uncalled bet ($3) returned to llmaiconll
+llmaiconll collected $5.88 from pot
+llmaiconll: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [3s Qs 7h]
+Seat 3: llmaiconll (button) (small blind) collected ($5.88)
+Seat 4: AzureCaper (big blind) folded on the Flop
+
+
+PokerStars Hand #148084873888:  Hold'em Limit ($3/$6 USD) - 2016/02/01 19:40:12 ET
+Table 'Imperatrix' 6-max Seat #4 is the button
+Seat 3: llmaiconll ($27.40 in chips)
+Seat 4: AzureCaper ($77.64 in chips)
+AzureCaper: posts small blind $1
+llmaiconll: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: folds
+Uncalled bet ($2) returned to llmaiconll
+llmaiconll collected $2 from pot
+llmaiconll: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: llmaiconll (big blind) collected ($2)
+Seat 4: AzureCaper (button) (small blind) folded before Flop
+
+
+PokerStars Hand #148084877129:  Hold'em Limit ($3/$6 USD) - 2016/02/01 19:40:17 ET
+Table 'Imperatrix' 6-max Seat #3 is the button
+Seat 3: llmaiconll ($28.40 in chips)
+Seat 4: AzureCaper ($76.64 in chips)
+llmaiconll: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+llmaiconll: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [3c 4h 7s]
+AzureCaper: bets $3
+llmaiconll: raises $3 to $6
+AzureCaper: raises $3 to $9
+llmaiconll: raises $3 to $12
+Betting is capped
+AzureCaper: calls $3
+*** TURN *** [3c 4h 7s] [Qc]
+AzureCaper: checks
+llmaiconll: bets $6
+AzureCaper: calls $6
+*** RIVER *** [3c 4h 7s Qc] [3h]
+AzureCaper: bets $6
+llmaiconll: calls $4.40 and is all-in
+Uncalled bet ($1.60) returned to AzureCaper
+*** SHOW DOWN ***
+AzureCaper: shows [9s 7c] (two pair, Sevens and Threes)
+llmaiconll: shows [5d 5c] (two pair, Fives and Threes)
+AzureCaper collected $56.30 from pot
+*** SUMMARY ***
+Total pot $56.80 | Rake $0.50
+Board [3c 4h 7s Qc 3h]
+Seat 3: llmaiconll (button) (small blind) showed [5d 5c] and lost with two pair, Fives and Threes
+Seat 4: AzureCaper (big blind) showed [9s 7c] and won ($56.30) with two pair, Sevens and Threes
+
+
+PokerStars Hand #148084860688:  Hold'em Limit ($3/$6 USD) - 2016/02/01 19:39:52 ET
+Table 'Imperatrix' 6-max Seat #4 is the button
+Seat 3: llmaiconll ($33.40 in chips)
+Seat 4: AzureCaper ($72 in chips)
+AzureCaper: posts small blind $1
+llmaiconll: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+llmaiconll: calls $3
+*** FLOP *** [5d 8c Jh]
+llmaiconll: checks
+AzureCaper: bets $3
+llmaiconll: calls $3
+*** TURN *** [5d 8c Jh] [2d]
+llmaiconll: checks
+AzureCaper: bets $6
+llmaiconll: folds
+Uncalled bet ($6) returned to AzureCaper
+AzureCaper collected $17.64 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5d 8c Jh 2d]
+Seat 3: llmaiconll (big blind) folded on the Turn
+Seat 4: AzureCaper (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #148085152465:  Hold'em Limit ($3/$6 USD) - 2016/02/01 19:47:10 ET
+Table 'Imperatrix' 6-max Seat #4 is the button
+Seat 3: cvillegurl ($19 in chips)
+Seat 4: AzureCaper ($89.50 in chips)
+AzureCaper: posts small blind $1
+cvillegurl: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+cvillegurl: calls $3
+*** FLOP *** [Jh 9d 4h]
+cvillegurl: checks
+AzureCaper: bets $3
+cvillegurl: calls $3
+*** TURN *** [Jh 9d 4h] [6h]
+cvillegurl: bets $6
+AzureCaper: raises $6 to $12
+cvillegurl: calls $4 and is all-in
+Uncalled bet ($2) returned to AzureCaper
+*** RIVER *** [Jh 9d 4h 6h] [5h]
+*** SHOW DOWN ***
+cvillegurl: shows [6d Qd] (a pair of Sixes)
+AzureCaper: shows [Ks Kd] (a pair of Kings)
+AzureCaper collected $37.50 from pot
+*** SUMMARY ***
+Total pot $38 | Rake $0.50
+Board [Jh 9d 4h 6h 5h]
+Seat 3: cvillegurl (big blind) showed [6d Qd] and lost with a pair of Sixes
+Seat 4: AzureCaper (button) (small blind) showed [Ks Kd] and won ($37.50) with a pair of Kings
+
+
+PokerStars Hand #148085139641:  Hold'em Limit ($3/$6 USD) - 2016/02/01 19:46:51 ET
+Table 'Imperatrix' 6-max Seat #3 is the button
+Seat 3: cvillegurl ($37 in chips)
+Seat 4: AzureCaper ($72 in chips)
+cvillegurl: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+cvillegurl: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [Js 4h 9h]
+AzureCaper: checks
+cvillegurl: checks
+*** TURN *** [Js 4h 9h] [Ts]
+AzureCaper: bets $6
+cvillegurl: calls $6
+*** RIVER *** [Js 4h 9h Ts] [Ks]
+AzureCaper: bets $6
+cvillegurl: calls $6
+*** SHOW DOWN ***
+AzureCaper: shows [5s Qs] (a flush, King high)
+cvillegurl: mucks hand
+AzureCaper collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Js 4h 9h Ts Ks]
+Seat 3: cvillegurl (button) (small blind) mucked
+Seat 4: AzureCaper (big blind) showed [5s Qs] and won ($35.50) with a flush, King high
+
+
+PokerStars Hand #148085537786:  Hold'em Limit ($3/$6 USD) - 2016/02/01 19:57:37 ET
+Table 'Imperatrix' 6-max Seat #5 is the button
+Seat 4: AzureCaper ($73.88 in chips)
+Seat 5: vanhetpadje ($110.66 in chips)
+vanhetpadje: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+vanhetpadje: folds
+Uncalled bet ($2) returned to AzureCaper
+AzureCaper collected $2 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: AzureCaper (big blind) collected ($2)
+Seat 5: vanhetpadje (button) (small blind) folded before Flop
+
+
+PokerStars Hand #148085534310:  Hold'em Limit ($3/$6 USD) - 2016/02/01 19:57:30 ET
+Table 'Imperatrix' 6-max Seat #4 is the button
+Seat 4: AzureCaper ($74.88 in chips)
+Seat 5: vanhetpadje ($109.66 in chips)
+AzureCaper: posts small blind $1
+vanhetpadje: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: folds
+Uncalled bet ($2) returned to vanhetpadje
+vanhetpadje collected $2 from pot
+vanhetpadje: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: AzureCaper (button) (small blind) folded before Flop
+Seat 5: vanhetpadje (big blind) collected ($2)
+
+
+PokerStars Hand #148085525233:  Hold'em Limit ($3/$6 USD) - 2016/02/01 19:57:13 ET
+Table 'Imperatrix' 6-max Seat #5 is the button
+Seat 4: AzureCaper ($72 in chips)
+Seat 5: vanhetpadje ($112.66 in chips)
+vanhetpadje: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+vanhetpadje: calls $2
+AzureCaper: checks
+*** FLOP *** [6d 4s Qh]
+AzureCaper: bets $3
+vanhetpadje: folds
+Uncalled bet ($3) returned to AzureCaper
+AzureCaper collected $5.88 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [6d 4s Qh]
+Seat 4: AzureCaper (big blind) collected ($5.88)
+Seat 5: vanhetpadje (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #148085540603:  Hold'em Limit ($3/$6 USD) - 2016/02/01 19:57:42 ET
+Table 'Imperatrix' 6-max Seat #4 is the button
+Seat 4: AzureCaper ($74.88 in chips)
+Seat 5: vanhetpadje ($109.66 in chips)
+AzureCaper: posts small blind $1
+vanhetpadje: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: folds
+Uncalled bet ($2) returned to vanhetpadje
+vanhetpadje collected $2 from pot
+vanhetpadje: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: AzureCaper (button) (small blind) folded before Flop
+Seat 5: vanhetpadje (big blind) collected ($2)
+
+
+PokerStars Hand #148085546845:  Hold'em Limit ($3/$6 USD) - 2016/02/01 19:57:54 ET
+Table 'Imperatrix' 6-max Seat #5 is the button
+Seat 4: AzureCaper ($73.88 in chips)
+Seat 5: vanhetpadje ($110.66 in chips)
+vanhetpadje: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+vanhetpadje: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [6s Qh 3s]
+AzureCaper: checks
+vanhetpadje: bets $3
+AzureCaper: folds
+Uncalled bet ($3) returned to vanhetpadje
+vanhetpadje collected $11.76 from pot
+vanhetpadje: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6s Qh 3s]
+Seat 4: AzureCaper (big blind) folded on the Flop
+Seat 5: vanhetpadje (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #148085564820:  Hold'em Limit ($3/$6 USD) - 2016/02/01 19:58:18 ET
+Table 'Imperatrix' 6-max Seat #4 is the button
+Seat 4: AzureCaper ($72 in chips)
+Seat 5: vanhetpadje ($116.42 in chips)
+AzureCaper: posts small blind $1
+vanhetpadje: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+vanhetpadje: calls $3
+*** FLOP *** [Kc Kh 3h]
+vanhetpadje: bets $3
+AzureCaper: calls $3
+*** TURN *** [Kc Kh 3h] [Jc]
+vanhetpadje: bets $6
+AzureCaper: raises $6 to $12
+vanhetpadje: folds
+Uncalled bet ($6) returned to AzureCaper
+AzureCaper collected $29.50 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kc Kh 3h Jc]
+Seat 4: AzureCaper (button) (small blind) collected ($29.50)
+Seat 5: vanhetpadje (big blind) folded on the Turn
+
+
+PokerStars Hand #148085579810:  Hold'em Limit ($3/$6 USD) - 2016/02/01 19:58:44 ET
+Table 'Imperatrix' 6-max Seat #5 is the button
+Seat 4: AzureCaper ($86.50 in chips)
+Seat 5: vanhetpadje ($101.42 in chips)
+vanhetpadje: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+vanhetpadje: raises $3 to $6
+AzureCaper: raises $3 to $9
+vanhetpadje: raises $3 to $12
+Betting is capped
+AzureCaper: calls $3
+*** FLOP *** [7h Th 6c]
+AzureCaper: checks
+vanhetpadje: bets $3
+AzureCaper: calls $3
+*** TURN *** [7h Th 6c] [Ac]
+AzureCaper: bets $6
+vanhetpadje: calls $6
+*** RIVER *** [7h Th 6c Ac] [4h]
+AzureCaper: bets $6
+vanhetpadje: calls $6
+*** SHOW DOWN ***
+AzureCaper: shows [Qc Ad] (a pair of Aces)
+vanhetpadje: mucks hand
+AzureCaper collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [7h Th 6c Ac 4h]
+Seat 4: AzureCaper (big blind) showed [Qc Ad] and won ($53.50) with a pair of Aces
+Seat 5: vanhetpadje (button) (small blind) mucked
+
+
+PokerStars Hand #148085593517:  Hold'em Limit ($3/$6 USD) - 2016/02/01 19:59:09 ET
+Table 'Imperatrix' 6-max Seat #4 is the button
+Seat 4: AzureCaper ($113 in chips)
+Seat 5: vanhetpadje ($74.42 in chips)
+AzureCaper: posts small blind $1
+vanhetpadje: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+vanhetpadje: calls $3
+*** FLOP *** [4h 4c Ah]
+vanhetpadje: bets $3
+AzureCaper: calls $3
+*** TURN *** [4h 4c Ah] [4s]
+vanhetpadje: bets $6
+AzureCaper: calls $6
+*** RIVER *** [4h 4c Ah 4s] [Kc]
+vanhetpadje: checks
+AzureCaper: bets $6
+vanhetpadje: folds
+Uncalled bet ($6) returned to AzureCaper
+AzureCaper collected $29.50 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4h 4c Ah 4s Kc]
+Seat 4: AzureCaper (button) (small blind) collected ($29.50)
+Seat 5: vanhetpadje (big blind) folded on the River
+
+
+PokerStars Hand #148085602164:  Hold'em Limit ($3/$6 USD) - 2016/02/01 19:59:26 ET
+Table 'Imperatrix' 6-max Seat #5 is the button
+Seat 4: AzureCaper ($127.50 in chips)
+Seat 5: vanhetpadje ($59.42 in chips)
+vanhetpadje: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+vanhetpadje: calls $2
+AzureCaper: checks
+*** FLOP *** [7s Qd 2h]
+AzureCaper: bets $3
+vanhetpadje: raises $3 to $6
+AzureCaper: calls $3
+*** TURN *** [7s Qd 2h] [5h]
+AzureCaper: checks
+vanhetpadje: bets $6
+AzureCaper: folds
+Uncalled bet ($6) returned to vanhetpadje
+vanhetpadje collected $17.64 from pot
+vanhetpadje: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7s Qd 2h 5h]
+Seat 4: AzureCaper (big blind) folded on the Turn
+Seat 5: vanhetpadje (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #148085623211:  Hold'em Limit ($3/$6 USD) - 2016/02/01 20:00:07 ET
+Table 'Imperatrix' 6-max Seat #4 is the button
+Seat 4: AzureCaper ($96.50 in chips)
+Seat 5: vanhetpadje ($89.56 in chips)
+AzureCaper: posts small blind $1
+vanhetpadje: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+vanhetpadje: calls $3
+*** FLOP *** [Js Ts 2s]
+vanhetpadje: checks
+AzureCaper: bets $3
+vanhetpadje: calls $3
+*** TURN *** [Js Ts 2s] [As]
+vanhetpadje: bets $6
+AzureCaper: folds
+Uncalled bet ($6) returned to vanhetpadje
+vanhetpadje collected $17.64 from pot
+vanhetpadje: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Js Ts 2s As]
+Seat 4: AzureCaper (button) (small blind) folded on the Turn
+Seat 5: vanhetpadje (big blind) collected ($17.64)
+
+
+PokerStars Hand #148085609798:  Hold'em Limit ($3/$6 USD) - 2016/02/01 19:59:41 ET
+Table 'Imperatrix' 6-max Seat #4 is the button
+Seat 4: AzureCaper ($118.50 in chips)
+Seat 5: vanhetpadje ($68.06 in chips)
+AzureCaper: posts small blind $1
+vanhetpadje: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: folds
+Uncalled bet ($2) returned to vanhetpadje
+vanhetpadje collected $2 from pot
+vanhetpadje: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: AzureCaper (button) (small blind) folded before Flop
+Seat 5: vanhetpadje (big blind) collected ($2)
+
+
+PokerStars Hand #148085612002:  Hold'em Limit ($3/$6 USD) - 2016/02/01 19:59:45 ET
+Table 'Imperatrix' 6-max Seat #5 is the button
+Seat 4: AzureCaper ($117.50 in chips)
+Seat 5: vanhetpadje ($69.06 in chips)
+vanhetpadje: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+vanhetpadje: calls $2
+AzureCaper: raises $3 to $6
+vanhetpadje: calls $3
+*** FLOP *** [3d Jd 9h]
+AzureCaper: bets $3
+vanhetpadje: calls $3
+*** TURN *** [3d Jd 9h] [3h]
+AzureCaper: checks
+vanhetpadje: bets $6
+AzureCaper: calls $6
+*** RIVER *** [3d Jd 9h 3h] [3c]
+AzureCaper: checks
+vanhetpadje: bets $6
+AzureCaper: calls $6
+*** SHOW DOWN ***
+vanhetpadje: shows [Js 2d] (a full house, Threes full of Jacks)
+AzureCaper: mucks hand
+vanhetpadje collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [3d Jd 9h 3h 3c]
+Seat 4: AzureCaper (big blind) mucked
+Seat 5: vanhetpadje (button) (small blind) showed [Js 2d] and won ($41.50) with a full house, Threes full of Jacks
+
+
+PokerStars Hand #148085633014:  Hold'em Limit ($3/$6 USD) - 2016/02/01 20:00:25 ET
+Table 'Imperatrix' 6-max Seat #5 is the button
+Seat 4: AzureCaper ($87.50 in chips)
+Seat 5: vanhetpadje ($98.20 in chips)
+vanhetpadje: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+vanhetpadje: calls $2
+AzureCaper: checks
+*** FLOP *** [6d 3s 9d]
+AzureCaper: bets $3
+vanhetpadje: calls $3
+*** TURN *** [6d 3s 9d] [Kh]
+AzureCaper: checks
+vanhetpadje: bets $6
+AzureCaper: calls $6
+*** RIVER *** [6d 3s 9d Kh] [7h]
+AzureCaper: checks
+vanhetpadje: bets $6
+AzureCaper: calls $6
+*** SHOW DOWN ***
+vanhetpadje: shows [6h 2h] (a pair of Sixes)
+AzureCaper: mucks hand
+vanhetpadje collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6d 3s 9d Kh 7h]
+Seat 4: AzureCaper (big blind) mucked
+Seat 5: vanhetpadje (button) (small blind) showed [6h 2h] and won ($35.50) with a pair of Sixes
+
+
+PokerStars Hand #148085642880:  Hold'em Limit ($3/$6 USD) - 2016/02/01 20:00:43 ET
+Table 'Imperatrix' 6-max Seat #4 is the button
+Seat 4: AzureCaper ($72 in chips)
+Seat 5: vanhetpadje ($115.70 in chips)
+AzureCaper: posts small blind $1
+vanhetpadje: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+vanhetpadje: calls $3
+*** FLOP *** [3d Qc As]
+vanhetpadje: bets $3
+AzureCaper: raises $3 to $6
+vanhetpadje: calls $3
+*** TURN *** [3d Qc As] [8d]
+vanhetpadje: checks
+pokoma_8008 joins the table at seat #6
+AzureCaper: bets $6
+vanhetpadje: calls $6
+*** RIVER *** [3d Qc As 8d] [9s]
+vanhetpadje: checks
+AzureCaper: bets $6
+vanhetpadje: calls $6
+*** SHOW DOWN ***
+AzureCaper: shows [6d 5c] (high card Ace)
+vanhetpadje: shows [4h 4c] (a pair of Fours)
+vanhetpadje collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3d Qc As 8d 9s]
+Seat 4: AzureCaper (button) (small blind) showed [6d 5c] and lost with high card Ace
+Seat 5: vanhetpadje (big blind) showed [4h 4c] and won ($47.50) with a pair of Fours
+
+
+PokerStars Hand #148088125081:  Hold'em Limit ($3/$6 USD) - 2016/02/01 21:18:06 ET
+Table 'Imperatrix' 6-max Seat #3 is the button
+Seat 3: 2GEDDY1 ($154.30 in chips)
+Seat 4: AzureCaper ($72 in chips)
+2GEDDY1: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+2GEDDY1: calls $2
+AzureCaper: raises $3 to $6
+2GEDDY1: calls $3
+*** FLOP *** [4d 9d 8h]
+AzureCaper: bets $3
+2GEDDY1: raises $3 to $6
+AzureCaper: calls $3
+*** TURN *** [4d 9d 8h] [As]
+AzureCaper: checks
+2GEDDY1: bets $6
+AzureCaper: calls $6
+*** RIVER *** [4d 9d 8h As] [7c]
+AzureCaper: checks
+2GEDDY1: bets $6
+AzureCaper: folds
+Uncalled bet ($6) returned to 2GEDDY1
+2GEDDY1 collected $35.50 from pot
+2GEDDY1: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [4d 9d 8h As 7c]
+Seat 3: 2GEDDY1 (button) (small blind) collected ($35.50)
+Seat 4: AzureCaper (big blind) folded on the River
+
+
+PokerStars Hand #148088118950:  Hold'em Limit ($3/$6 USD) - 2016/02/01 21:17:53 ET
+Table 'Imperatrix' 6-max Seat #4 is the button
+Seat 3: 2GEDDY1 ($145.66 in chips)
+Seat 4: AzureCaper ($72 in chips)
+AzureCaper: posts small blind $1
+Rmk1500: is sitting out
+2GEDDY1: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+Rmk1500 leaves the table
+2GEDDY1: raises $3 to $9
+AzureCaper: calls $3
+*** FLOP *** [Qd 4h Td]
+2GEDDY1: bets $3
+AzureCaper: folds
+Uncalled bet ($3) returned to 2GEDDY1
+2GEDDY1 collected $17.64 from pot
+2GEDDY1: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qd 4h Td]
+Seat 3: 2GEDDY1 (big blind) collected ($17.64)
+Seat 4: AzureCaper (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #148088133755:  Hold'em Limit ($3/$6 USD) - 2016/02/01 21:18:25 ET
+Table 'Imperatrix' 6-max Seat #4 is the button
+Seat 3: 2GEDDY1 ($171.80 in chips)
+Seat 4: AzureCaper ($72 in chips)
+AzureCaper: posts small blind $1
+2GEDDY1: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+2GEDDY1: calls $3
+*** FLOP *** [5h 2c 5d]
+2GEDDY1: bets $3
+AzureCaper: raises $3 to $6
+2GEDDY1: raises $3 to $9
+AzureCaper: calls $3
+*** TURN *** [5h 2c 5d] [5c]
+2GEDDY1: bets $6
+AzureCaper: raises $6 to $12
+2GEDDY1: raises $6 to $18
+AzureCaper: calls $6
+*** RIVER *** [5h 2c 5d 5c] [3s]
+2GEDDY1: bets $6
+AzureCaper: raises $6 to $12
+2GEDDY1: calls $6
+*** SHOW DOWN ***
+AzureCaper: shows [4c 5s] (four of a kind, Fives)
+2GEDDY1: mucks hand
+AzureCaper collected $89.50 from pot
+*** SUMMARY ***
+Total pot $90 | Rake $0.50
+Board [5h 2c 5d 5c 3s]
+Seat 3: 2GEDDY1 (big blind) mucked
+Seat 4: AzureCaper (button) (small blind) showed [4c 5s] and won ($89.50) with four of a kind, Fives
+
+
+PokerStars Hand #148088162004:  Hold'em Limit ($3/$6 USD) - 2016/02/01 21:19:25 ET
+Table 'Imperatrix' 6-max Seat #3 is the button
+Seat 3: 2GEDDY1 ($93.80 in chips)
+Seat 4: AzureCaper ($148.64 in chips)
+2GEDDY1: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+2GEDDY1: calls $2
+AzureCaper: checks
+*** FLOP *** [Qs Td 8h]
+AzureCaper: checks
+2GEDDY1: bets $3
+AzureCaper: folds
+Uncalled bet ($3) returned to 2GEDDY1
+2GEDDY1 collected $5.88 from pot
+2GEDDY1: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Qs Td 8h]
+Seat 3: 2GEDDY1 (button) (small blind) collected ($5.88)
+Seat 4: AzureCaper (big blind) folded on the Flop
+
+
+PokerStars Hand #148088152704:  Hold'em Limit ($3/$6 USD) - 2016/02/01 21:19:05 ET
+Table 'Imperatrix' 6-max Seat #4 is the button
+Seat 3: 2GEDDY1 ($117.80 in chips)
+Seat 4: AzureCaper ($125.14 in chips)
+AzureCaper: posts small blind $1
+2GEDDY1: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+2GEDDY1: calls $3
+*** FLOP *** [2c 3c 9c]
+2GEDDY1: bets $3
+AzureCaper: raises $3 to $6
+2GEDDY1: calls $3
+*** TURN *** [2c 3c 9c] [Th]
+2GEDDY1: checks
+AzureCaper: bets $6
+2GEDDY1: calls $6
+*** RIVER *** [2c 3c 9c Th] [3s]
+2GEDDY1: bets $6
+AzureCaper: calls $6
+*** SHOW DOWN ***
+2GEDDY1: shows [5s Kh] (a pair of Threes)
+AzureCaper: shows [Ah 9h] (two pair, Nines and Threes)
+AzureCaper collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2c 3c 9c Th 3s]
+Seat 3: 2GEDDY1 (big blind) showed [5s Kh] and lost with a pair of Threes
+Seat 4: AzureCaper (button) (small blind) showed [Ah 9h] and won ($47.50) with two pair, Nines and Threes
+
+
+PokerStars Hand #148088145449:  Hold'em Limit ($3/$6 USD) - 2016/02/01 21:18:50 ET
+Table 'Imperatrix' 6-max Seat #3 is the button
+Seat 3: 2GEDDY1 ($126.80 in chips)
+Seat 4: AzureCaper ($116.50 in chips)
+2GEDDY1: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+2GEDDY1: calls $2
+AzureCaper: raises $3 to $6
+2GEDDY1: calls $3
+*** FLOP *** [4d 6h 2h]
+AzureCaper: bets $3
+2GEDDY1: calls $3
+*** TURN *** [4d 6h 2h] [Qc]
+AzureCaper: bets $6
+2GEDDY1: folds
+Uncalled bet ($6) returned to AzureCaper
+AzureCaper collected $17.64 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4d 6h 2h Qc]
+Seat 3: 2GEDDY1 (button) (small blind) folded on the Turn
+Seat 4: AzureCaper (big blind) collected ($17.64)
+
+
+PokerStars Hand #148088168156:  Hold'em Limit ($3/$6 USD) - 2016/02/01 21:19:38 ET
+Table 'Imperatrix' 6-max Seat #4 is the button
+Seat 3: 2GEDDY1 ($96.68 in chips)
+Seat 4: AzureCaper ($145.64 in chips)
+AzureCaper: posts small blind $1
+vanhetpadje was removed from the table for failing to post
+2GEDDY1: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+2GEDDY1: raises $3 to $9
+AzureCaper: calls $3
+*** FLOP *** [6s Ad 5d]
+2GEDDY1: bets $3
+AzureCaper: calls $3
+*** TURN *** [6s Ad 5d] [9h]
+2GEDDY1: bets $6
+AzureCaper: calls $6
+*** RIVER *** [6s Ad 5d 9h] [6c]
+2GEDDY1: bets $6
+AzureCaper: calls $6
+*** SHOW DOWN ***
+2GEDDY1: shows [Qs Kd] (a pair of Sixes)
+AzureCaper: shows [5h Th] (two pair, Sixes and Fives)
+AzureCaper collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [6s Ad 5d 9h 6c]
+Seat 3: 2GEDDY1 (big blind) showed [Qs Kd] and lost with a pair of Sixes
+Seat 4: AzureCaper (button) (small blind) showed [5h Th] and won ($47.50) with two pair, Sixes and Fives
+
+
+PokerStars Hand #148088187944:  Hold'em Limit ($3/$6 USD) - 2016/02/01 21:20:21 ET
+Table 'Imperatrix' 6-max Seat #3 is the button
+Seat 3: 2GEDDY1 ($55.68 in chips)
+Seat 4: AzureCaper ($185.64 in chips)
+2GEDDY1: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+2GEDDY1: calls $2
+AzureCaper: checks
+*** FLOP *** [6s Kc 8c]
+AzureCaper: checks
+2GEDDY1: bets $3
+AzureCaper: calls $3
+*** TURN *** [6s Kc 8c] [2c]
+AzureCaper: checks
+2GEDDY1: bets $6
+AzureCaper: calls $6
+*** RIVER *** [6s Kc 8c 2c] [9h]
+AzureCaper: checks
+2GEDDY1: bets $6
+AzureCaper: calls $6
+*** SHOW DOWN ***
+2GEDDY1: shows [4c 3d] (high card King)
+AzureCaper: shows [8s Jc] (a pair of Eights)
+AzureCaper collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6s Kc 8c 2c 9h]
+Seat 3: 2GEDDY1 (button) (small blind) showed [4c 3d] and lost with high card King
+Seat 4: AzureCaper (big blind) showed [8s Jc] and won ($35.50) with a pair of Eights
+
+
+PokerStars Hand #148088186030:  Hold'em Limit ($3/$6 USD) - 2016/02/01 21:20:17 ET
+Table 'Imperatrix' 6-max Seat #4 is the button
+Seat 3: 2GEDDY1 ($54.68 in chips)
+Seat 4: AzureCaper ($186.64 in chips)
+AzureCaper: posts small blind $1
+2GEDDY1: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: folds
+Uncalled bet ($2) returned to 2GEDDY1
+2GEDDY1 collected $2 from pot
+2GEDDY1: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: 2GEDDY1 (big blind) collected ($2)
+Seat 4: AzureCaper (button) (small blind) folded before Flop
+
+
+PokerStars Hand #148088176092:  Hold'em Limit ($3/$6 USD) - 2016/02/01 21:19:56 ET
+Table 'Imperatrix' 6-max Seat #3 is the button
+Seat 3: 2GEDDY1 ($72.68 in chips)
+Seat 4: AzureCaper ($169.14 in chips)
+2GEDDY1: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+2GEDDY1: calls $2
+AzureCaper: checks
+*** FLOP *** [8c 9c Ks]
+AzureCaper: checks
+2GEDDY1: bets $3
+AzureCaper: calls $3
+*** TURN *** [8c 9c Ks] [4h]
+AzureCaper: checks
+2GEDDY1: bets $6
+AzureCaper: calls $6
+*** RIVER *** [8c 9c Ks 4h] [2c]
+AzureCaper: checks
+2GEDDY1: bets $6
+AzureCaper: calls $6
+*** SHOW DOWN ***
+2GEDDY1: shows [3d Td] (high card King)
+AzureCaper: shows [3s 8h] (a pair of Eights)
+AzureCaper collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [8c 9c Ks 4h 2c]
+Seat 3: 2GEDDY1 (button) (small blind) showed [3d Td] and lost with high card King
+Seat 4: AzureCaper (big blind) showed [3s 8h] and won ($35.50) with a pair of Eights
+
+
+PokerStars Hand #148088198029:  Hold'em Limit ($3/$6 USD) - 2016/02/01 21:20:43 ET
+Table 'Imperatrix' 6-max Seat #4 is the button
+Seat 3: 2GEDDY1 ($37.68 in chips)
+Seat 4: AzureCaper ($203.14 in chips)
+AzureCaper: posts small blind $1
+2GEDDY1: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+2GEDDY1: raises $3 to $9
+AzureCaper: calls $3
+*** FLOP *** [Ts Kc 6c]
+2GEDDY1: bets $3
+AzureCaper: calls $3
+*** TURN *** [Ts Kc 6c] [4s]
+2GEDDY1: bets $6
+AzureCaper: calls $6
+*** RIVER *** [Ts Kc 6c 4s] [3h]
+2GEDDY1: bets $6
+AzureCaper: calls $6
+*** SHOW DOWN ***
+2GEDDY1: shows [3s 3d] (three of a kind, Threes)
+AzureCaper: mucks hand
+2GEDDY1 collected $47.50 from pot
+kismespit joins the table at seat #5
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Ts Kc 6c 4s 3h]
+Seat 3: 2GEDDY1 (big blind) showed [3s 3d] and won ($47.50) with three of a kind, Threes
+Seat 4: AzureCaper (button) (small blind) mucked
+
+
+PokerStars Hand #148088205886:  Hold'em Limit ($3/$6 USD) - 2016/02/01 21:21:00 ET
+Table 'Imperatrix' 6-max Seat #3 is the button
+Seat 3: 2GEDDY1 ($61.18 in chips)
+Seat 4: AzureCaper ($179.14 in chips)
+2GEDDY1: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+2GEDDY1: folds
+Uncalled bet ($2) returned to AzureCaper
+AzureCaper collected $2 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: 2GEDDY1 (button) (small blind) folded before Flop
+Seat 4: AzureCaper (big blind) collected ($2)
+
+

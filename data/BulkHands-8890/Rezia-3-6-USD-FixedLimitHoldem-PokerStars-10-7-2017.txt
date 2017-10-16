@@ -1,0 +1,76 @@
+PokerStars Hand #176593263209:  Hold'em Limit ($3/$6 USD) - 2017/10/07 2:37:26 ET
+Table 'Rezia' 6-max Seat #4 is the button
+Seat 3: aploshik ($72.59 in chips)
+Seat 4: uglyghost101 ($80.46 in chips)
+uglyghost101: posts small blind $1
+aploshik: posts big blind $3
+*** HOLE CARDS ***
+uglyghost101: raises $3 to $6
+aploshik: calls $3
+*** FLOP *** [5c 3h 7s]
+aploshik: bets $3
+uglyghost101: calls $3
+*** TURN *** [5c 3h 7s] [Ah]
+aploshik: checks
+uglyghost101: checks
+*** RIVER *** [5c 3h 7s Ah] [Jd]
+aploshik: checks
+uglyghost101: checks
+*** SHOW DOWN ***
+aploshik: shows [4s 3s] (a pair of Threes)
+uglyghost101: mucks hand
+aploshik collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5c 3h 7s Ah Jd]
+Seat 3: aploshik (big blind) showed [4s 3s] and won ($17.64) with a pair of Threes
+Seat 4: uglyghost101 (button) (small blind) mucked
+
+
+PokerStars Hand #176593347613:  Hold'em Limit ($3/$6 USD) - 2017/10/07 2:42:50 ET
+Table 'Rezia' 6-max Seat #3 is the button
+Seat 3: aploshik ($12.03 in chips)
+Seat 4: uglyghost101 ($136.42 in chips)
+aploshik: posts small blind $1
+uglyghost101: posts big blind $3
+*** HOLE CARDS ***
+aploshik: raises $3 to $6
+uglyghost101: calls $3
+*** FLOP *** [Qd 3h 4c]
+uglyghost101: checks
+aploshik: checks
+*** TURN *** [Qd 3h 4c] [8s]
+uglyghost101: bets $6
+aploshik: calls $6
+*** RIVER *** [Qd 3h 4c 8s] [8c]
+uglyghost101: bets $6
+aploshik: calls $0.03 and is all-in
+Uncalled bet ($5.97) returned to uglyghost101
+*** SHOW DOWN ***
+uglyghost101: shows [8h Td] (three of a kind, Eights)
+aploshik: shows [Ac 9d] (a pair of Eights)
+uglyghost101 collected $23.58 from pot
+*** SUMMARY ***
+Total pot $24.06 | Rake $0.48
+Board [Qd 3h 4c 8s 8c]
+Seat 3: aploshik (button) (small blind) showed [Ac 9d] and lost with a pair of Eights
+Seat 4: uglyghost101 (big blind) showed [8h Td] and won ($23.58) with three of a kind, Eights
+
+
+PokerStars Hand #176597138695:  Hold'em Limit ($3/$6 USD) - 2017/10/07 6:02:15 ET
+Table 'Rezia' 6-max Seat #5 is the button
+Seat 4: VolkovDmitri ($120 in chips)
+Seat 5: uglyghost101 ($142.14 in chips)
+uglyghost101: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+uglyghost101: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: VolkovDmitri (big blind) collected ($2)
+Seat 5: uglyghost101 (button) (small blind) folded before Flop
+
+

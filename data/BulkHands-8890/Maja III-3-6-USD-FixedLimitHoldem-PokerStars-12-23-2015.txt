@@ -1,0 +1,218 @@
+PokerStars Hand #145810463439:  Hold'em Limit ($3/$6 USD) - 2015/12/23 15:44:44 ET
+Table 'Maja III' 2-max Seat #1 is the button
+Seat 1: echsecution ($72 in chips)
+Seat 2: las59 ($77.76 in chips)
+echsecution: posts small blind $1
+las59: posts big blind $3
+*** HOLE CARDS ***
+echsecution: raises $3 to $6
+las59: raises $3 to $9
+echsecution: calls $3
+*** FLOP *** [Tc 6c 6s]
+las59: bets $3
+echsecution: calls $3
+*** TURN *** [Tc 6c 6s] [4c]
+las59: checks
+echsecution: bets $6
+las59: folds
+Uncalled bet ($6) returned to echsecution
+echsecution collected $23.52 from pot
+echsecution: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Tc 6c 6s 4c]
+Seat 1: echsecution (button) (small blind) collected ($23.52)
+Seat 2: las59 (big blind) folded on the Turn
+
+
+PokerStars Hand #145810508201:  Hold'em Limit ($3/$6 USD) - 2015/12/23 15:45:27 ET
+Table 'Maja III' 2-max Seat #1 is the button
+Seat 1: echsecution ($80.52 in chips)
+Seat 2: las59 ($68.76 in chips)
+echsecution: posts small blind $1
+las59: posts big blind $3
+*** HOLE CARDS ***
+echsecution: raises $3 to $6
+las59: raises $3 to $9
+echsecution: calls $3
+*** FLOP *** [5s Js Ad]
+las59: checks
+echsecution: bets $3
+las59: raises $3 to $6
+echsecution: folds
+Uncalled bet ($3) returned to las59
+las59 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [5s Js Ad]
+Seat 1: echsecution (button) (small blind) folded on the Flop
+Seat 2: las59 (big blind) collected ($23.52)
+
+
+PokerStars Hand #145810500672:  Hold'em Limit ($3/$6 USD) - 2015/12/23 15:45:20 ET
+Table 'Maja III' 2-max Seat #2 is the button
+Seat 1: echsecution ($83.52 in chips)
+Seat 2: las59 ($65.76 in chips)
+las59: posts small blind $1
+echsecution: posts big blind $3
+*** HOLE CARDS ***
+las59: raises $3 to $6
+echsecution: folds
+Uncalled bet ($3) returned to las59
+las59 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: echsecution (big blind) folded before Flop
+Seat 2: las59 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #145810579469:  Hold'em Limit ($3/$6 USD) - 2015/12/23 15:46:38 ET
+Table 'Maja III' 2-max Seat #1 is the button
+Seat 1: echsecution ($72 in chips)
+Seat 2: las59 ($109.78 in chips)
+echsecution: posts small blind $1
+las59: posts big blind $3
+*** HOLE CARDS ***
+echsecution: raises $3 to $6
+las59: calls $3
+*** FLOP *** [4h 2h 9h]
+las59: bets $3
+echsecution: calls $3
+*** TURN *** [4h 2h 9h] [Kh]
+las59: bets $6
+echsecution: calls $6
+*** RIVER *** [4h 2h 9h Kh] [Th]
+las59: bets $6
+echsecution: calls $6
+*** SHOW DOWN ***
+las59: shows [4s Kd] (a flush, King high)
+echsecution: shows [Jd Ks] (a flush, King high)
+las59 collected $20.75 from pot
+echsecution collected $20.75 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [4h 2h 9h Kh Th]
+Seat 1: echsecution (button) (small blind) showed [Jd Ks] and won ($20.75) with a flush, King high
+Seat 2: las59 (big blind) showed [4s Kd] and won ($20.75) with a flush, King high
+
+
+PokerStars Hand #145810536642:  Hold'em Limit ($3/$6 USD) - 2015/12/23 15:45:56 ET
+Table 'Maja III' 2-max Seat #2 is the button
+Seat 1: echsecution ($72 in chips)
+Seat 2: las59 ($80.28 in chips)
+las59: posts small blind $1
+echsecution: posts big blind $3
+*** HOLE CARDS ***
+las59: raises $3 to $6
+echsecution: raises $3 to $9
+las59: raises $3 to $12
+Betting is capped
+echsecution: calls $3
+*** FLOP *** [7s 6d 2c]
+echsecution: checks
+las59: checks
+*** TURN *** [7s 6d 2c] [Kc]
+echsecution: bets $6
+las59: raises $6 to $12
+echsecution: calls $6
+*** RIVER *** [7s 6d 2c Kc] [Qh]
+echsecution: checks
+las59: bets $6
+echsecution: calls $6
+*** SHOW DOWN ***
+las59: shows [Kd 4d] (a pair of Kings)
+echsecution: mucks hand
+las59 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [7s 6d 2c Kc Qh]
+Seat 1: echsecution (big blind) mucked
+Seat 2: las59 (button) (small blind) showed [Kd 4d] and won ($59.50) with a pair of Kings
+
+
+PokerStars Hand #145810661487:  Hold'em Limit ($3/$6 USD) - 2015/12/23 15:47:58 ET
+Table 'Maja III' 2-max Seat #1 is the button
+Seat 1: echsecution ($92.50 in chips)
+Seat 2: las59 ($88.53 in chips)
+echsecution: posts small blind $1
+las59: posts big blind $3
+*** HOLE CARDS ***
+echsecution: raises $3 to $6
+las59: calls $3
+*** FLOP *** [6s Tc 4s]
+las59: checks
+echsecution: checks
+*** TURN *** [6s Tc 4s] [6h]
+las59: bets $6
+echsecution: folds
+Uncalled bet ($6) returned to las59
+las59 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6s Tc 4s 6h]
+Seat 1: echsecution (button) (small blind) folded on the Turn
+Seat 2: las59 (big blind) collected ($11.76)
+
+
+PokerStars Hand #145810607011:  Hold'em Limit ($3/$6 USD) - 2015/12/23 15:47:05 ET
+Table 'Maja III' 2-max Seat #2 is the button
+Seat 1: echsecution ($72 in chips)
+Seat 2: las59 ($109.53 in chips)
+las59: posts small blind $1
+echsecution: posts big blind $3
+*** HOLE CARDS ***
+las59: raises $3 to $6
+echsecution: calls $3
+*** FLOP *** [Qs 6h 5d]
+echsecution: checks
+las59: bets $3
+echsecution: calls $3
+*** TURN *** [Qs 6h 5d] [Qc]
+echsecution: checks
+las59: bets $6
+echsecution: calls $6
+*** RIVER *** [Qs 6h 5d Qc] [5s]
+echsecution: checks
+las59: bets $6
+echsecution: calls $6
+*** SHOW DOWN ***
+las59: shows [Ad 4h] (two pair, Queens and Fives)
+echsecution: shows [5c Th] (a full house, Fives full of Queens)
+echsecution collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Qs 6h 5d Qc 5s]
+Seat 1: echsecution (big blind) showed [5c Th] and won ($41.50) with a full house, Fives full of Queens
+Seat 2: las59 (button) (small blind) showed [Ad 4h] and lost with two pair, Queens and Fives
+
+
+PokerStars Hand #145810696327:  Hold'em Limit ($3/$6 USD) - 2015/12/23 15:48:32 ET
+Table 'Maja III' 2-max Seat #2 is the button
+Seat 1: echsecution ($86.50 in chips)
+Seat 2: las59 ($94.29 in chips)
+las59: posts small blind $1
+echsecution: posts big blind $3
+*** HOLE CARDS ***
+las59: raises $3 to $6
+echsecution: calls $3
+*** FLOP *** [Kh 8s 5d]
+echsecution: checks
+las59: bets $3
+echsecution: raises $3 to $6
+las59: calls $3
+*** TURN *** [Kh 8s 5d] [5s]
+echsecution: bets $6
+las59: calls $6
+*** RIVER *** [Kh 8s 5d 5s] [Jd]
+echsecution: bets $6
+las59: folds
+Uncalled bet ($6) returned to echsecution
+echsecution collected $35.50 from pot
+echsecution: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Kh 8s 5d 5s Jd]
+Seat 1: echsecution (big blind) collected ($35.50)
+Seat 2: las59 (button) (small blind) folded on the River
+
+

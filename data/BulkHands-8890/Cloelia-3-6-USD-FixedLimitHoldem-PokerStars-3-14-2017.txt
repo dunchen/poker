@@ -1,0 +1,87 @@
+PokerStars Hand #167567193292:  Hold'em Limit ($3/$6 USD) - 2017/03/14 6:47:18 ET
+Table 'Cloelia' 6-max Seat #5 is the button
+Seat 5: Great_Kang ($120.20 in chips)
+Seat 6: SLK500 ($97.21 in chips)
+Great_Kang: posts small blind $1
+SLK500: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+SLK500: calls $3
+*** FLOP *** [6c 7s 6d]
+SLK500: checks
+Great_Kang: bets $3
+SLK500: calls $3
+*** TURN *** [6c 7s 6d] [3s]
+SLK500: checks
+Great_Kang: checks
+*** RIVER *** [6c 7s 6d 3s] [4d]
+SLK500: checks
+Great_Kang: checks
+*** SHOW DOWN ***
+SLK500: shows [Qd 8d] (a pair of Sixes)
+Great_Kang: shows [Jc Kd] (a pair of Sixes - King kicker)
+Great_Kang collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6c 7s 6d 3s 4d]
+Seat 5: Great_Kang (button) (small blind) showed [Jc Kd] and won ($17.64) with a pair of Sixes
+Seat 6: SLK500 (big blind) showed [Qd 8d] and lost with a pair of Sixes
+
+
+PokerStars Hand #167567181932:  Hold'em Limit ($3/$6 USD) - 2017/03/14 6:46:50 ET
+Table 'Cloelia' 6-max Seat #6 is the button
+Seat 5: Great_Kang ($135.20 in chips)
+Seat 6: SLK500 ($82.71 in chips)
+SLK500: posts small blind $1
+Agrotait: is sitting out
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+SLK500: raises $3 to $6
+Great_Kang: calls $3
+*** FLOP *** [Jd 9s 7c]
+Agrotait leaves the table
+Great_Kang: checks
+SLK500: bets $3
+Great_Kang: calls $3
+*** TURN *** [Jd 9s 7c] [6d]
+Great_Kang: checks
+SLK500: bets $6
+Great_Kang: calls $6
+*** RIVER *** [Jd 9s 7c 6d] [Th]
+Great_Kang: checks
+SLK500: checks
+*** SHOW DOWN ***
+Great_Kang: shows [5c 7d] (a pair of Sevens)
+SLK500: shows [Kh 9h] (a pair of Nines)
+SLK500 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Jd 9s 7c 6d Th]
+Seat 5: Great_Kang (big blind) showed [5c 7d] and lost with a pair of Sevens
+Seat 6: SLK500 (button) (small blind) showed [Kh 9h] and won ($29.50) with a pair of Nines
+
+
+PokerStars Hand #167567202697:  Hold'em Limit ($3/$6 USD) - 2017/03/14 6:47:41 ET
+Table 'Cloelia' 6-max Seat #6 is the button
+Seat 5: Great_Kang ($128.84 in chips)
+Seat 6: SLK500 ($88.21 in chips)
+SLK500: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+SLK500: calls $2
+Great_Kang: raises $3 to $6
+SLK500: calls $3
+*** FLOP *** [Ts Qc Tc]
+Great_Kang: bets $3
+SLK500: raises $3 to $6
+Great_Kang: folds
+Uncalled bet ($3) returned to SLK500
+SLK500 collected $17.64 from pot
+SLK500: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ts Qc Tc]
+Seat 5: Great_Kang (big blind) folded on the Flop
+Seat 6: SLK500 (button) (small blind) collected ($17.64)
+
+

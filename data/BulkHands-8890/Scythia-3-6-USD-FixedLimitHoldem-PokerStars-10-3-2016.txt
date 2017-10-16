@@ -1,0 +1,124 @@
+PokerStars Hand #159443570295:  Hold'em Limit ($3/$6 USD) - 2016/10/03 19:31:26 ET
+Table 'Scythia' 6-max Seat #3 is the button
+Seat 3: NiktheDon ($103.61 in chips)
+Seat 4: ToDaFelt ($90 in chips)
+NiktheDon: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+NiktheDon: folds
+Uncalled bet ($2) returned to ToDaFelt
+ToDaFelt collected $2 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: NiktheDon (button) (small blind) folded before Flop
+Seat 4: ToDaFelt (big blind) collected ($2)
+
+
+PokerStars Hand #159443555166:  Hold'em Limit ($3/$6 USD) - 2016/10/03 19:30:59 ET
+Table 'Scythia' 6-max Seat #4 is the button
+Seat 3: NiktheDon ($74.11 in chips)
+Seat 4: ToDaFelt ($120 in chips)
+ToDaFelt: posts small blind $1
+GoliafUa: is sitting out
+NiktheDon: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+AzureCaper joins the table at seat #2
+NiktheDon: calls $3
+*** FLOP *** [6h 9s 3s]
+NiktheDon: bets $3
+ToDaFelt: raises $3 to $6
+NiktheDon: raises $3 to $9
+ToDaFelt: raises $3 to $12
+Betting is capped
+NiktheDon: calls $3
+*** TURN *** [6h 9s 3s] [Ks]
+NiktheDon: checks
+ToDaFelt: bets $6
+NiktheDon: calls $6
+*** RIVER *** [6h 9s 3s Ks] [Qc]
+NiktheDon: checks
+ToDaFelt: bets $6
+NiktheDon: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [5d 9h] (a pair of Nines)
+NiktheDon: shows [7d 9d] (a pair of Nines - King+Queen+Seven kicker)
+NiktheDon collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [6h 9s 3s Ks Qc]
+Seat 3: NiktheDon (big blind) showed [7d 9d] and won ($59.50) with a pair of Nines
+Seat 4: ToDaFelt (button) (small blind) showed [5d 9h] and lost with a pair of Nines
+
+
+PokerStars Hand #159444155351:  Hold'em Limit ($3/$6 USD) - 2016/10/03 19:49:37 ET
+Table 'Scythia' 6-max Seat #3 is the button
+Seat 3: NiktheDon ($16.06 in chips)
+Seat 4: ToDaFelt ($177.87 in chips)
+NiktheDon: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+NiktheDon: folds
+Uncalled bet ($2) returned to ToDaFelt
+ToDaFelt collected $2 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: NiktheDon (button) (small blind) folded before Flop
+Seat 4: ToDaFelt (big blind) collected ($2)
+
+
+PokerStars Hand #159444136515:  Hold'em Limit ($3/$6 USD) - 2016/10/03 19:49:00 ET
+Table 'Scythia' 6-max Seat #4 is the button
+Seat 3: NiktheDon ($22.06 in chips)
+Seat 4: ToDaFelt ($172.11 in chips)
+ToDaFelt: posts small blind $1
+NiktheDon: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+NiktheDon: calls $3
+*** FLOP *** [Ad Ah 7c]
+NiktheDon: checks
+ToDaFelt: bets $3
+NiktheDon: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $11.76 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ad Ah 7c]
+Seat 3: NiktheDon (big blind) folded on the Flop
+Seat 4: ToDaFelt (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #159444157866:  Hold'em Limit ($3/$6 USD) - 2016/10/03 19:49:42 ET
+Table 'Scythia' 6-max Seat #4 is the button
+Seat 3: NiktheDon ($15.06 in chips)
+Seat 4: ToDaFelt ($178.87 in chips)
+ToDaFelt: posts small blind $1
+NiktheDon: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+NiktheDon: calls $3
+*** FLOP *** [Qd Tc 9d]
+NiktheDon: bets $3
+ToDaFelt: raises $3 to $6
+NiktheDon: calls $3
+*** TURN *** [Qd Tc 9d] [7d]
+NiktheDon: checks
+ToDaFelt: bets $6
+NiktheDon: calls $3.06 and is all-in
+Uncalled bet ($2.94) returned to ToDaFelt
+*** RIVER *** [Qd Tc 9d 7d] [9s]
+*** SHOW DOWN ***
+NiktheDon: shows [6d 3d] (a flush, Queen high)
+ToDaFelt: shows [4d Td] (a flush, Queen high - Ten higher)
+ToDaFelt collected $29.62 from pot
+*** SUMMARY ***
+Total pot $30.12 | Rake $0.50
+Board [Qd Tc 9d 7d 9s]
+Seat 3: NiktheDon (big blind) showed [6d 3d] and lost with a flush, Queen high
+Seat 4: ToDaFelt (button) (small blind) showed [4d Td] and won ($29.62) with a flush, Queen high
+
+

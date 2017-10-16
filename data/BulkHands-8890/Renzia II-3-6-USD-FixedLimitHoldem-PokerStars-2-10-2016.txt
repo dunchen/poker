@@ -1,0 +1,87 @@
+PokerStars Hand #148534414275:  Hold'em Limit ($3/$6 USD) - 2016/02/09 18:59:00 ET
+Table 'Renzia II' 2-max Seat #1 is the button
+Seat 1: Looosersulze ($50.82 in chips)
+Seat 2: ChrisTuff ($286.10 in chips)
+Looosersulze: posts small blind $1
+ChrisTuff: posts big blind $3
+*** HOLE CARDS ***
+Looosersulze: raises $3 to $6
+ChrisTuff: calls $3
+*** FLOP *** [4d 7d Kh]
+ChrisTuff: checks
+Looosersulze: bets $3
+ChrisTuff: calls $3
+*** TURN *** [4d 7d Kh] [5s]
+ChrisTuff: checks
+Looosersulze: bets $6
+ChrisTuff: calls $6
+*** RIVER *** [4d 7d Kh 5s] [3c]
+ChrisTuff: checks
+Looosersulze: bets $6
+ChrisTuff: raises $6 to $12
+Looosersulze: calls $6
+*** SHOW DOWN ***
+ChrisTuff: shows [Ah 6c] (a straight, Three to Seven)
+Looosersulze: mucks hand
+ChrisTuff collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [4d 7d Kh 5s 3c]
+Seat 1: Looosersulze (button) (small blind) mucked
+Seat 2: ChrisTuff (big blind) showed [Ah 6c] and won ($53.50) with a straight, Three to Seven
+
+
+PokerStars Hand #148534424194:  Hold'em Limit ($3/$6 USD) - 2016/02/09 18:59:16 ET
+Table 'Renzia II' 2-max Seat #2 is the button
+Seat 1: Looosersulze ($23.82 in chips)
+Seat 2: ChrisTuff ($312.60 in chips)
+ChrisTuff: posts small blind $1
+Looosersulze: posts big blind $3
+*** HOLE CARDS ***
+ChrisTuff: raises $3 to $6
+Looosersulze: calls $3
+*** FLOP *** [8c Td Tc]
+Looosersulze: bets $3
+ChrisTuff: calls $3
+*** TURN *** [8c Td Tc] [5d]
+Looosersulze: bets $6
+ChrisTuff: calls $6
+*** RIVER *** [8c Td Tc 5d] [4h]
+Looosersulze: checks
+ChrisTuff: checks
+*** SHOW DOWN ***
+Looosersulze: shows [Qh 7c] (a pair of Tens)
+ChrisTuff: shows [9s Kh] (a pair of Tens - King kicker)
+ChrisTuff collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8c Td Tc 5d 4h]
+Seat 1: Looosersulze (big blind) showed [Qh 7c] and lost with a pair of Tens
+Seat 2: ChrisTuff (button) (small blind) showed [9s Kh] and won ($29.50) with a pair of Tens
+
+
+PokerStars Hand #148534444187:  Hold'em Limit ($3/$6 USD) - 2016/02/09 18:59:47 ET
+Table 'Renzia II' 2-max Seat #1 is the button
+Seat 1: Looosersulze ($8.82 in chips)
+Seat 2: ChrisTuff ($327.10 in chips)
+Looosersulze: posts small blind $1
+ChrisTuff: posts big blind $3
+*** HOLE CARDS ***
+Looosersulze: raises $3 to $6
+ChrisTuff: raises $3 to $9
+Looosersulze: calls $2.82 and is all-in
+Uncalled bet ($0.18) returned to ChrisTuff
+*** FLOP *** [4h 7d Ts]
+*** TURN *** [4h 7d Ts] [Js]
+*** RIVER *** [4h 7d Ts Js] [8s]
+*** SHOW DOWN ***
+ChrisTuff: shows [4d Ks] (a pair of Fours)
+Looosersulze: shows [6d Qd] (high card Queen)
+ChrisTuff collected $17.29 from pot
+*** SUMMARY ***
+Total pot $17.64 | Rake $0.35
+Board [4h 7d Ts Js 8s]
+Seat 1: Looosersulze (button) (small blind) showed [6d Qd] and lost with high card Queen
+Seat 2: ChrisTuff (big blind) showed [4d Ks] and won ($17.29) with a pair of Fours
+
+

@@ -1,0 +1,382 @@
+PokerStars Hand #175158245694:  Hold'em Limit ($3/$6 USD) - 2017/09/03 13:29:07 ET
+Table 'Horus' 6-max Seat #3 is the button
+Seat 2: granli ($193 in chips)
+Seat 3: Katerina1552 ($88.62 in chips)
+Katerina1552: posts small blind $1
+Ale4o: is sitting out
+granli: posts big blind $3
+*** HOLE CARDS ***
+Katerina1552: raises $3 to $6
+granli: calls $3
+*** FLOP *** [Kc 7c 2c]
+granli: checks
+Katerina1552: checks
+*** TURN *** [Kc 7c 2c] [Ad]
+granli: checks
+Katerina1552: bets $6
+granli: raises $6 to $12
+Katerina1552: calls $6
+*** RIVER *** [Kc 7c 2c Ad] [4c]
+granli: bets $6
+Katerina1552: calls $6
+*** SHOW DOWN ***
+granli: shows [8c 6c] (a flush, King high)
+Katerina1552: mucks hand
+granli collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Kc 7c 2c Ad 4c]
+Seat 2: granli (big blind) showed [8c 6c] and won ($47.50) with a flush, King high
+Seat 3: Katerina1552 (button) (small blind) mucked
+
+
+PokerStars Hand #175158262016:  Hold'em Limit ($3/$6 USD) - 2017/09/03 13:29:26 ET
+Table 'Horus' 6-max Seat #2 is the button
+Seat 2: granli ($216.50 in chips)
+Seat 3: Katerina1552 ($64.62 in chips)
+granli: posts small blind $1
+Katerina1552: posts big blind $3
+*** HOLE CARDS ***
+granli: raises $3 to $6
+Katerina1552: calls $3
+*** FLOP *** [3c Qh 9h]
+Katerina1552: checks
+granli: bets $3
+Katerina1552: calls $3
+*** TURN *** [3c Qh 9h] [5s]
+Katerina1552: checks
+granli: checks
+*** RIVER *** [3c Qh 9h 5s] [Td]
+Katerina1552: bets $6
+granli: calls $6
+*** SHOW DOWN ***
+Katerina1552: shows [Js 7d] (high card Queen)
+granli: shows [7s 9s] (a pair of Nines)
+granli collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3c Qh 9h 5s Td]
+Seat 2: granli (button) (small blind) showed [7s 9s] and won ($29.50) with a pair of Nines
+Seat 3: Katerina1552 (big blind) showed [Js 7d] and lost with high card Queen
+
+
+PokerStars Hand #175158482305:  Hold'em Limit ($3/$6 USD) - 2017/09/03 13:33:35 ET
+Table 'Horus' 6-max Seat #2 is the button
+Seat 2: granli ($236.58 in chips)
+Seat 6: nilsyngve ($91.05 in chips)
+granli: posts small blind $1
+Ale4o: is sitting out
+nilsyngve: posts big blind $3
+*** HOLE CARDS ***
+granli: calls $2
+nilsyngve: checks
+*** FLOP *** [8d 2d 8c]
+Ale4o leaves the table
+nilsyngve: bets $3
+granli: calls $3
+*** TURN *** [8d 2d 8c] [5c]
+nilsyngve: checks
+granli: checks
+*** RIVER *** [8d 2d 8c 5c] [Qc]
+nilsyngve: checks
+granli: checks
+*** SHOW DOWN ***
+nilsyngve: shows [2s 7d] (two pair, Eights and Deuces)
+granli: mucks hand
+nilsyngve collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8d 2d 8c 5c Qc]
+Seat 2: granli (button) (small blind) mucked
+Seat 6: nilsyngve (big blind) showed [2s 7d] and won ($11.76) with two pair, Eights and Deuces
+
+
+PokerStars Hand #175158494826:  Hold'em Limit ($3/$6 USD) - 2017/09/03 13:33:50 ET
+Table 'Horus' 6-max Seat #6 is the button
+Seat 2: granli ($230.58 in chips)
+Seat 6: nilsyngve ($96.81 in chips)
+nilsyngve: posts small blind $1
+Geringste1 joins the table at seat #3
+granli: posts big blind $3
+*** HOLE CARDS ***
+nilsyngve: calls $2
+granli: checks
+*** FLOP *** [4h Kc Qs]
+granli: bets $3
+nilsyngve: calls $3
+*** TURN *** [4h Kc Qs] [Td]
+granli: checks
+nilsyngve: checks
+*** RIVER *** [4h Kc Qs Td] [6c]
+granli: checks
+nilsyngve: bets $6
+granli: folds
+Uncalled bet ($6) returned to nilsyngve
+nilsyngve collected $11.76 from pot
+nilsyngve: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4h Kc Qs Td 6c]
+Seat 2: granli (big blind) folded on the River
+Seat 6: nilsyngve (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #175170264864:  Hold'em Limit ($3/$6 USD) - 2017/09/03 17:17:35 ET
+Table 'Horus' 6-max Seat #4 is the button
+Seat 2: NewRocker ($53.07 in chips)
+Seat 4: Hauptstrasse98 ($108.83 in chips)
+Hauptstrasse98: posts small blind $1
+ice0034: is sitting out
+NewRocker: posts big blind $3
+*** HOLE CARDS ***
+Hauptstrasse98: calls $2
+NewRocker: checks
+*** FLOP *** [9c 4h Jc]
+NewRocker: checks
+Hauptstrasse98: bets $3
+NewRocker: folds
+Uncalled bet ($3) returned to Hauptstrasse98
+Hauptstrasse98 collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [9c 4h Jc]
+Seat 2: NewRocker (big blind) folded on the Flop
+Seat 4: Hauptstrasse98 (button) (small blind) collected ($5.88)
+
+
+PokerStars Hand #175170304907:  Hold'em Limit ($3/$6 USD) - 2017/09/03 17:18:23 ET
+Table 'Horus' 6-max Seat #4 is the button
+Seat 2: NewRocker ($44.07 in chips)
+Seat 4: Hauptstrasse98 ($117.47 in chips)
+Hauptstrasse98: posts small blind $1
+NewRocker: posts big blind $3
+*** HOLE CARDS ***
+Hauptstrasse98: calls $2
+NewRocker: raises $3 to $6
+Hauptstrasse98: calls $3
+*** FLOP *** [6d Ah Tc]
+NewRocker: bets $3
+Hauptstrasse98: calls $3
+*** TURN *** [6d Ah Tc] [3h]
+NewRocker: bets $6
+Hauptstrasse98: calls $6
+*** RIVER *** [6d Ah Tc 3h] [8c]
+NewRocker: bets $6
+Hauptstrasse98: calls $6
+*** SHOW DOWN ***
+NewRocker: shows [6c 4c] (a pair of Sixes)
+Hauptstrasse98: shows [Ts 7c] (a pair of Tens)
+Hauptstrasse98 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [6d Ah Tc 3h 8c]
+Seat 2: NewRocker (big blind) showed [6c 4c] and lost with a pair of Sixes
+Seat 4: Hauptstrasse98 (button) (small blind) showed [Ts 7c] and won ($41.50) with a pair of Tens
+
+
+PokerStars Hand #175170280777:  Hold'em Limit ($3/$6 USD) - 2017/09/03 17:17:54 ET
+Table 'Horus' 6-max Seat #2 is the button
+Seat 2: NewRocker ($50.07 in chips)
+Seat 4: Hauptstrasse98 ($111.71 in chips)
+NewRocker: posts small blind $1
+Hauptstrasse98: posts big blind $3
+*** HOLE CARDS ***
+NewRocker: calls $2
+Hauptstrasse98: raises $3 to $6
+belik555 leaves the table
+NewRocker: calls $3
+*** FLOP *** [2d 4c Ad]
+Hauptstrasse98: bets $3
+NewRocker: folds
+Uncalled bet ($3) returned to Hauptstrasse98
+Hauptstrasse98 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2d 4c Ad]
+Seat 2: NewRocker (button) (small blind) folded on the Flop
+Seat 4: Hauptstrasse98 (big blind) collected ($11.76)
+
+
+PokerStars Hand #175173579796:  Hold'em Limit ($3/$6 USD) - 2017/09/03 18:31:01 ET
+Table 'Horus' 6-max Seat #4 is the button
+Seat 3: hairy1961 ($81.14 in chips)
+Seat 4: Actionni13 ($151 in chips)
+Actionni13: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+hairy1961: folds
+Uncalled bet ($3) returned to Actionni13
+Actionni13 collected $6 from pot
+Actionni13: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: hairy1961 (big blind) folded before Flop
+Seat 4: Actionni13 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #175173576034:  Hold'em Limit ($3/$6 USD) - 2017/09/03 18:30:55 ET
+Table 'Horus' 6-max Seat #3 is the button
+Seat 3: hairy1961 ($82.14 in chips)
+Seat 4: Actionni13 ($150 in chips)
+hairy1961: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+hairy1961: folds
+Uncalled bet ($2) returned to Actionni13
+Actionni13 collected $2 from pot
+Actionni13: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: hairy1961 (button) (small blind) folded before Flop
+Seat 4: Actionni13 (big blind) collected ($2)
+
+
+PokerStars Hand #175173572665:  Hold'em Limit ($3/$6 USD) - 2017/09/03 18:30:50 ET
+Table 'Horus' 6-max Seat #4 is the button
+Seat 3: hairy1961 ($81.14 in chips)
+Seat 4: Actionni13 ($151 in chips)
+Actionni13: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: folds
+Uncalled bet ($2) returned to hairy1961
+hairy1961 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: hairy1961 (big blind) collected ($2)
+Seat 4: Actionni13 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #175173567664:  Hold'em Limit ($3/$6 USD) - 2017/09/03 18:30:43 ET
+Table 'Horus' 6-max Seat #3 is the button
+Seat 3: hairy1961 ($82.14 in chips)
+Seat 4: Actionni13 ($150 in chips)
+hairy1961: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+hairy1961: folds
+Uncalled bet ($2) returned to Actionni13
+Actionni13 collected $2 from pot
+Actionni13: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: hairy1961 (button) (small blind) folded before Flop
+Seat 4: Actionni13 (big blind) collected ($2)
+
+
+PokerStars Hand #175173545266:  Hold'em Limit ($3/$6 USD) - 2017/09/03 18:30:18 ET
+Table 'Horus' 6-max Seat #4 is the button
+Seat 3: hairy1961 ($73.50 in chips)
+Seat 4: Actionni13 ($150 in chips)
+Actionni13: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+hairy1961: calls $3
+*** FLOP *** [Js 7d 5h]
+hairy1961: bets $3
+Actionni13: calls $3
+*** TURN *** [Js 7d 5h] [7h]
+hairy1961: bets $6
+Actionni13: folds
+Uncalled bet ($6) returned to hairy1961
+hairy1961 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Js 7d 5h 7h]
+Seat 3: hairy1961 (big blind) collected ($17.64)
+Seat 4: Actionni13 (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #175173609033:  Hold'em Limit ($3/$6 USD) - 2017/09/03 18:31:43 ET
+Table 'Horus' 6-max Seat #3 is the button
+Seat 3: hairy1961 ($70.14 in chips)
+Seat 4: Actionni13 ($161.64 in chips)
+hairy1961: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+hairy1961: folds
+Uncalled bet ($2) returned to Actionni13
+Actionni13 collected $2 from pot
+Actionni13: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: hairy1961 (button) (small blind) folded before Flop
+Seat 4: Actionni13 (big blind) collected ($2)
+
+
+PokerStars Hand #175173605367:  Hold'em Limit ($3/$6 USD) - 2017/09/03 18:31:38 ET
+Table 'Horus' 6-max Seat #4 is the button
+Seat 3: hairy1961 ($69.14 in chips)
+Seat 4: Actionni13 ($162.64 in chips)
+Actionni13: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: folds
+Uncalled bet ($2) returned to hairy1961
+hairy1961 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: hairy1961 (big blind) collected ($2)
+Seat 4: Actionni13 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #175173601555:  Hold'em Limit ($3/$6 USD) - 2017/09/03 18:31:32 ET
+Table 'Horus' 6-max Seat #3 is the button
+Seat 3: hairy1961 ($70.14 in chips)
+Seat 4: Actionni13 ($161.64 in chips)
+hairy1961: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+hairy1961: folds
+Uncalled bet ($2) returned to Actionni13
+Actionni13 collected $2 from pot
+Actionni13: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: hairy1961 (button) (small blind) folded before Flop
+Seat 4: Actionni13 (big blind) collected ($2)
+
+
+PokerStars Hand #175173597107:  Hold'em Limit ($3/$6 USD) - 2017/09/03 18:31:26 ET
+Table 'Horus' 6-max Seat #4 is the button
+Seat 3: hairy1961 ($69.14 in chips)
+Seat 4: Actionni13 ($162.64 in chips)
+Actionni13: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: folds
+Uncalled bet ($2) returned to hairy1961
+hairy1961 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: hairy1961 (big blind) collected ($2)
+Seat 4: Actionni13 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #175173584505:  Hold'em Limit ($3/$6 USD) - 2017/09/03 18:31:07 ET
+Table 'Horus' 6-max Seat #3 is the button
+Seat 3: hairy1961 ($78.14 in chips)
+Seat 4: Actionni13 ($154 in chips)
+hairy1961: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+hairy1961: raises $3 to $6
+Actionni13: calls $3
+*** FLOP *** [8h 7s 9s]
+Actionni13: bets $3
+hairy1961: calls $3
+*** TURN *** [8h 7s 9s] [6h]
+Actionni13: bets $6
+hairy1961: folds
+Uncalled bet ($6) returned to Actionni13
+Actionni13 collected $17.64 from pot
+Actionni13: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8h 7s 9s 6h]
+Seat 3: hairy1961 (button) (small blind) folded on the Turn
+Seat 4: Actionni13 (big blind) collected ($17.64)
+
+

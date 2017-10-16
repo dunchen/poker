@@ -1,0 +1,897 @@
+PokerStars Hand #175062537864:  Hold'em Limit ($3/$6 USD) - 2017/09/01 9:47:12 ET
+Table 'Phereclos II' 6-max Seat #2 is the button
+Seat 2: WillemDuit ($30 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+WillemDuit: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+WillemDuit: calls $2
+VolkovDmitri: raises $3 to $6
+WillemDuit: calls $3
+*** FLOP *** [4d 3c Td]
+VolkovDmitri: bets $3
+WillemDuit: calls $3
+*** TURN *** [4d 3c Td] [3h]
+VolkovDmitri: bets $6
+WillemDuit: calls $6
+*** RIVER *** [4d 3c Td 3h] [2d]
+VolkovDmitri: checks
+WillemDuit: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to WillemDuit
+WillemDuit collected $29.50 from pot
+WillemDuit: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4d 3c Td 3h 2d]
+Seat 2: WillemDuit (button) (small blind) collected ($29.50)
+Seat 4: VolkovDmitri (big blind) folded on the River
+
+
+PokerStars Hand #175062556610:  Hold'em Limit ($3/$6 USD) - 2017/09/01 9:47:47 ET
+Table 'Phereclos II' 6-max Seat #4 is the button
+Seat 2: WillemDuit ($44.50 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+WillemDuit: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+WillemDuit: calls $3
+*** FLOP *** [4c 2d 2h]
+WillemDuit: checks
+VolkovDmitri: bets $3
+WillemDuit: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4c 2d 2h]
+Seat 2: WillemDuit (big blind) folded on the Flop
+Seat 4: VolkovDmitri (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #175062572723:  Hold'em Limit ($3/$6 USD) - 2017/09/01 9:48:18 ET
+Table 'Phereclos II' 6-max Seat #2 is the button
+Seat 2: WillemDuit ($38.50 in chips)
+Seat 4: VolkovDmitri ($125.76 in chips)
+WillemDuit: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+WillemDuit: raises $3 to $6
+Kosova1968 joins the table at seat #3
+VolkovDmitri: calls $3
+*** FLOP *** [9h 8c 6c]
+VolkovDmitri: checks
+WillemDuit: bets $3
+VolkovDmitri: raises $3 to $6
+WillemDuit: raises $3 to $9
+VolkovDmitri: calls $3
+*** TURN *** [9h 8c 6c] [8s]
+VolkovDmitri: checks
+WillemDuit: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [9h 8c 6c 8s] [2h]
+VolkovDmitri: checks
+WillemDuit: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+WillemDuit: shows [8d 8h] (four of a kind, Eights)
+VolkovDmitri: mucks hand
+WillemDuit collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [9h 8c 6c 8s 2h]
+Seat 2: WillemDuit (button) (small blind) showed [8d 8h] and won ($53.50) with four of a kind, Eights
+Seat 4: VolkovDmitri (big blind) mucked
+
+
+PokerStars Hand #175062598850:  Hold'em Limit ($3/$6 USD) - 2017/09/01 9:49:08 ET
+Table 'Phereclos II' 6-max Seat #4 is the button
+Seat 2: WillemDuit ($65 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+WillemDuit: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+WillemDuit: calls $3
+*** FLOP *** [Qd Kd 7d]
+WillemDuit: checks
+VolkovDmitri: bets $3
+WillemDuit: calls $3
+*** TURN *** [Qd Kd 7d] [9c]
+WillemDuit: checks
+VolkovDmitri: bets $6
+WillemDuit: calls $6
+*** RIVER *** [Qd Kd 7d 9c] [Td]
+WillemDuit: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+WillemDuit: shows [8h 6d] (a flush, King high)
+VolkovDmitri: mucks hand
+WillemDuit collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qd Kd 7d 9c Td]
+Seat 2: WillemDuit (big blind) showed [8h 6d] and won ($29.50) with a flush, King high
+Seat 4: VolkovDmitri (button) (small blind) mucked
+
+
+PokerStars Hand #175064186432:  Hold'em Limit ($3/$6 USD) - 2017/09/01 10:38:37 ET
+Table 'Phereclos II' 6-max Seat #4 is the button
+Seat 4: HAL9QQQ ($294.67 in chips)
+Seat 5: B_loJkl ($175.27 in chips)
+HAL9QQQ: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+HAL9QQQ: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: HAL9QQQ (button) (small blind) folded before Flop
+Seat 5: B_loJkl (big blind) collected ($2)
+
+
+PokerStars Hand #175064161735:  Hold'em Limit ($3/$6 USD) - 2017/09/01 10:37:54 ET
+Table 'Phereclos II' 6-max Seat #5 is the button
+Seat 4: HAL9QQQ ($271.17 in chips)
+Seat 5: B_loJkl ($199.27 in chips)
+B_loJkl: posts small blind $1
+zimin10: is sitting out
+uho4186: is sitting out
+HAL9QQQ: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+zimin10 leaves the table
+HAL9QQQ: calls $3
+*** FLOP *** [9d 5c 5s]
+caliberblue joins the table at seat #1
+HAL9QQQ: checks
+B_loJkl: bets $3
+HAL9QQQ: raises $3 to $6
+B_loJkl: calls $3
+*** TURN *** [9d 5c 5s] [3d]
+uho4186 leaves the table
+HAL9QQQ: bets $6
+B_loJkl: calls $6
+*** RIVER *** [9d 5c 5s 3d] [6s]
+HAL9QQQ: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+HAL9QQQ: shows [8d 9h] (two pair, Nines and Fives)
+B_loJkl: mucks hand
+HAL9QQQ collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9d 5c 5s 3d 6s]
+Seat 4: HAL9QQQ (big blind) showed [8d 9h] and won ($47.50) with two pair, Nines and Fives
+Seat 5: B_loJkl (button) (small blind) mucked
+
+
+PokerStars Hand #175064222062:  Hold'em Limit ($3/$6 USD) - 2017/09/01 10:39:41 ET
+Table 'Phereclos II' 6-max Seat #1 is the button
+Seat 1: caliberblue ($23 in chips)
+Seat 5: B_loJkl ($156.27 in chips)
+caliberblue: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+caliberblue: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: caliberblue (button) (small blind) folded before Flop
+Seat 5: B_loJkl (big blind) collected ($2)
+
+
+PokerStars Hand #175064213272:  Hold'em Limit ($3/$6 USD) - 2017/09/01 10:39:25 ET
+Table 'Phereclos II' 6-max Seat #5 is the button
+Seat 1: caliberblue ($26 in chips)
+Seat 5: B_loJkl ($153.27 in chips)
+B_loJkl: posts small blind $1
+caliberblue: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+caliberblue: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $6 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: caliberblue (big blind) folded before Flop
+Seat 5: B_loJkl (button) (small blind) collected ($6)
+
+
+PokerStars Hand #175064209521:  Hold'em Limit ($3/$6 USD) - 2017/09/01 10:39:19 ET
+Table 'Phereclos II' 6-max Seat #1 is the button
+Seat 1: caliberblue ($27 in chips)
+Seat 5: B_loJkl ($152.27 in chips)
+caliberblue: posts small blind $1
+Kosova1968 was removed from the table for failing to post
+HAL9QQQ: is sitting out
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+caliberblue: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: caliberblue (button) (small blind) folded before Flop
+Seat 5: B_loJkl (big blind) collected ($2)
+
+
+PokerStars Hand #175064248371:  Hold'em Limit ($3/$6 USD) - 2017/09/01 10:40:28 ET
+Table 'Phereclos II' 6-max Seat #1 is the button
+Seat 1: caliberblue ($16 in chips)
+Seat 5: B_loJkl ($163.03 in chips)
+caliberblue: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+caliberblue: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: caliberblue (button) (small blind) folded before Flop
+Seat 5: B_loJkl (big blind) collected ($2)
+
+
+PokerStars Hand #175064226660:  Hold'em Limit ($3/$6 USD) - 2017/09/01 10:39:49 ET
+Table 'Phereclos II' 6-max Seat #5 is the button
+Seat 1: caliberblue ($22 in chips)
+Seat 5: B_loJkl ($157.27 in chips)
+B_loJkl: posts small blind $1
+ionellu was removed from the table for failing to post
+caliberblue: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+caliberblue: calls $3
+*** FLOP *** [8c 4d 9h]
+caliberblue: checks
+B_loJkl: bets $3
+caliberblue: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8c 4d 9h]
+Seat 1: caliberblue (big blind) folded on the Flop
+Seat 5: B_loJkl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #175064251889:  Hold'em Limit ($3/$6 USD) - 2017/09/01 10:40:34 ET
+Table 'Phereclos II' 6-max Seat #5 is the button
+Seat 1: caliberblue ($15 in chips)
+Seat 5: B_loJkl ($164.03 in chips)
+B_loJkl: posts small blind $1
+caliberblue: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+caliberblue: raises $3 to $9
+B_loJkl: raises $3 to $12
+Betting is capped
+caliberblue: calls $3
+*** FLOP *** [5h Qh Kd]
+caliberblue: bets $3 and is all-in
+B_loJkl: calls $3
+*** TURN *** [5h Qh Kd] [8d]
+*** RIVER *** [5h Qh Kd 8d] [9c]
+*** SHOW DOWN ***
+caliberblue: shows [Qd 9d] (two pair, Queens and Nines)
+B_loJkl: shows [Qs Qc] (three of a kind, Queens)
+B_loJkl collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5h Qh Kd 8d 9c]
+Seat 1: caliberblue (big blind) showed [Qd 9d] and lost with two pair, Queens and Nines
+Seat 5: B_loJkl (button) (small blind) showed [Qs Qc] and won ($29.50) with three of a kind, Queens
+
+
+PokerStars Hand #175065150698:  Hold'em Limit ($3/$6 USD) - 2017/09/01 11:07:37 ET
+Table 'Phereclos II' 6-max Seat #3 is the button
+Seat 2: cola26licht ($71.63 in chips)
+Seat 3: TbIP-TbIP 88 ($72 in chips)
+TbIP-TbIP 88: posts small blind $1
+cola26licht: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88: raises $3 to $6
+cola26licht: folds
+Uncalled bet ($3) returned to TbIP-TbIP 88
+TbIP-TbIP 88 collected $6 from pot
+TbIP-TbIP 88: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: cola26licht (big blind) folded before Flop
+Seat 3: TbIP-TbIP 88 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #175065155788:  Hold'em Limit ($3/$6 USD) - 2017/09/01 11:07:46 ET
+Table 'Phereclos II' 6-max Seat #2 is the button
+Seat 2: cola26licht ($68.63 in chips)
+Seat 3: TbIP-TbIP 88 ($75 in chips)
+cola26licht: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+cola26licht: raises $3 to $6
+allexso joins the table at seat #4
+TbIP-TbIP 88: calls $3
+*** FLOP *** [4d Qh 6d]
+TbIP-TbIP 88: checks
+cola26licht: bets $3
+TbIP-TbIP 88: calls $3
+*** TURN *** [4d Qh 6d] [9c]
+TbIP-TbIP 88: checks
+cola26licht: bets $6
+TbIP-TbIP 88: calls $6
+*** RIVER *** [4d Qh 6d 9c] [7d]
+TbIP-TbIP 88: checks
+cola26licht: bets $6
+TbIP-TbIP 88: raises $6 to $12
+cola26licht: calls $6
+*** SHOW DOWN ***
+TbIP-TbIP 88: shows [4s 7s] (two pair, Sevens and Fours)
+cola26licht: mucks hand
+TbIP-TbIP 88 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [4d Qh 6d 9c 7d]
+Seat 2: cola26licht (button) (small blind) mucked
+Seat 3: TbIP-TbIP 88 (big blind) showed [4s 7s] and won ($53.50) with two pair, Sevens and Fours
+
+
+PokerStars Hand #175065170046:  Hold'em Limit ($3/$6 USD) - 2017/09/01 11:08:10 ET
+Table 'Phereclos II' 6-max Seat #3 is the button
+Seat 2: cola26licht ($41.63 in chips)
+Seat 3: TbIP-TbIP 88 ($101.50 in chips)
+TbIP-TbIP 88: posts small blind $1
+cola26licht: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88: raises $3 to $6
+cola26licht: calls $3
+*** FLOP *** [6c 9c 9d]
+cola26licht: checks
+TbIP-TbIP 88: bets $3
+cola26licht: calls $3
+*** TURN *** [6c 9c 9d] [3s]
+cola26licht: checks
+TbIP-TbIP 88: checks
+*** RIVER *** [6c 9c 9d 3s] [Jd]
+cola26licht: checks
+TbIP-TbIP 88: bets $6
+cola26licht: folds
+Uncalled bet ($6) returned to TbIP-TbIP 88
+TbIP-TbIP 88 collected $17.64 from pot
+TbIP-TbIP 88: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6c 9c 9d 3s Jd]
+Seat 2: cola26licht (big blind) folded on the River
+Seat 3: TbIP-TbIP 88 (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #175065181934:  Hold'em Limit ($3/$6 USD) - 2017/09/01 11:08:31 ET
+Table 'Phereclos II' 6-max Seat #2 is the button
+Seat 2: cola26licht ($32.63 in chips)
+Seat 3: TbIP-TbIP 88 ($110.14 in chips)
+cola26licht: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+cola26licht: folds
+Uncalled bet ($2) returned to TbIP-TbIP 88
+TbIP-TbIP 88 collected $2 from pot
+TbIP-TbIP 88: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: cola26licht (button) (small blind) folded before Flop
+Seat 3: TbIP-TbIP 88 (big blind) collected ($2)
+
+
+PokerStars Hand #175065188533:  Hold'em Limit ($3/$6 USD) - 2017/09/01 11:08:43 ET
+Table 'Phereclos II' 6-max Seat #2 is the button
+Seat 2: cola26licht ($28.63 in chips)
+Seat 3: TbIP-TbIP 88 ($114.14 in chips)
+cola26licht: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+cola26licht: folds
+Uncalled bet ($2) returned to TbIP-TbIP 88
+TbIP-TbIP 88 collected $2 from pot
+TbIP-TbIP 88: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: cola26licht (button) (small blind) folded before Flop
+Seat 3: TbIP-TbIP 88 (big blind) collected ($2)
+
+
+PokerStars Hand #175065184917:  Hold'em Limit ($3/$6 USD) - 2017/09/01 11:08:37 ET
+Table 'Phereclos II' 6-max Seat #3 is the button
+Seat 2: cola26licht ($31.63 in chips)
+Seat 3: TbIP-TbIP 88 ($111.14 in chips)
+TbIP-TbIP 88: posts small blind $1
+cola26licht: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88: raises $3 to $6
+cola26licht: folds
+Uncalled bet ($3) returned to TbIP-TbIP 88
+TbIP-TbIP 88 collected $6 from pot
+TbIP-TbIP 88: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: cola26licht (big blind) folded before Flop
+Seat 3: TbIP-TbIP 88 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #175065193905:  Hold'em Limit ($3/$6 USD) - 2017/09/01 11:08:52 ET
+Table 'Phereclos II' 6-max Seat #2 is the button
+Seat 2: cola26licht ($28.63 in chips)
+Seat 3: TbIP-TbIP 88 ($114.14 in chips)
+cola26licht: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+cola26licht: raises $3 to $6
+TbIP-TbIP 88: folds
+Uncalled bet ($3) returned to cola26licht
+cola26licht collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: cola26licht (button) (small blind) collected ($6)
+Seat 3: TbIP-TbIP 88 (big blind) folded before Flop
+
+
+PokerStars Hand #175065191427:  Hold'em Limit ($3/$6 USD) - 2017/09/01 11:08:48 ET
+Table 'Phereclos II' 6-max Seat #3 is the button
+Seat 2: cola26licht ($27.63 in chips)
+Seat 3: TbIP-TbIP 88 ($115.14 in chips)
+TbIP-TbIP 88: posts small blind $1
+cola26licht: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88: folds
+Uncalled bet ($2) returned to cola26licht
+cola26licht collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: cola26licht (big blind) collected ($2)
+Seat 3: TbIP-TbIP 88 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #175065196845:  Hold'em Limit ($3/$6 USD) - 2017/09/01 11:08:57 ET
+Table 'Phereclos II' 6-max Seat #3 is the button
+Seat 2: cola26licht ($31.63 in chips)
+Seat 3: TbIP-TbIP 88 ($111.14 in chips)
+TbIP-TbIP 88: posts small blind $1
+cola26licht: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88: raises $3 to $6
+cola26licht: calls $3
+*** FLOP *** [Ad Th 8d]
+cola26licht: checks
+TbIP-TbIP 88: bets $3
+cola26licht: raises $3 to $6
+TbIP-TbIP 88: calls $3
+*** TURN *** [Ad Th 8d] [4s]
+cola26licht: bets $6
+TbIP-TbIP 88: folds
+Uncalled bet ($6) returned to cola26licht
+cola26licht collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Ad Th 8d 4s]
+Seat 2: cola26licht (big blind) collected ($23.52)
+Seat 3: TbIP-TbIP 88 (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #175065210410:  Hold'em Limit ($3/$6 USD) - 2017/09/01 11:09:21 ET
+Table 'Phereclos II' 6-max Seat #2 is the button
+Seat 2: cola26licht ($43.15 in chips)
+Seat 3: TbIP-TbIP 88 ($99.14 in chips)
+cola26licht: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+cola26licht: folds
+Uncalled bet ($2) returned to TbIP-TbIP 88
+TbIP-TbIP 88 collected $2 from pot
+TbIP-TbIP 88: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: cola26licht (button) (small blind) folded before Flop
+Seat 3: TbIP-TbIP 88 (big blind) collected ($2)
+
+
+PokerStars Hand #175065228767:  Hold'em Limit ($3/$6 USD) - 2017/09/01 11:09:53 ET
+Table 'Phereclos II' 6-max Seat #2 is the button
+Seat 2: cola26licht ($50.79 in chips)
+Seat 3: TbIP-TbIP 88 ($91.14 in chips)
+cola26licht: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+cola26licht: raises $3 to $6
+TbIP-TbIP 88: calls $3
+*** FLOP *** [Ac Qh Jd]
+TbIP-TbIP 88: checks
+cola26licht: bets $3
+TbIP-TbIP 88: calls $3
+*** TURN *** [Ac Qh Jd] [2h]
+TbIP-TbIP 88: checks
+cola26licht: checks
+*** RIVER *** [Ac Qh Jd 2h] [6c]
+TbIP-TbIP 88: checks
+cola26licht: checks
+*** SHOW DOWN ***
+TbIP-TbIP 88: shows [Jc 5s] (a pair of Jacks)
+cola26licht: mucks hand
+TbIP-TbIP 88 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ac Qh Jd 2h 6c]
+Seat 2: cola26licht (button) (small blind) mucked
+Seat 3: TbIP-TbIP 88 (big blind) showed [Jc 5s] and won ($17.64) with a pair of Jacks
+
+
+PokerStars Hand #175065214661:  Hold'em Limit ($3/$6 USD) - 2017/09/01 11:09:28 ET
+Table 'Phereclos II' 6-max Seat #3 is the button
+Seat 2: cola26licht ($42.15 in chips)
+Seat 3: TbIP-TbIP 88 ($100.14 in chips)
+TbIP-TbIP 88: posts small blind $1
+cola26licht: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88: raises $3 to $6
+cola26licht: calls $3
+*** FLOP *** [Ks 2s As]
+cola26licht: checks
+TbIP-TbIP 88: bets $3
+cola26licht: calls $3
+*** TURN *** [Ks 2s As] [7h]
+cola26licht: checks
+TbIP-TbIP 88: checks
+*** RIVER *** [Ks 2s As 7h] [9c]
+cola26licht: checks
+TbIP-TbIP 88: checks
+*** SHOW DOWN ***
+cola26licht: shows [Jd 8s] (high card Ace)
+TbIP-TbIP 88: mucks hand
+cola26licht collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ks 2s As 7h 9c]
+Seat 2: cola26licht (big blind) showed [Jd 8s] and won ($17.64) with high card Ace
+Seat 3: TbIP-TbIP 88 (button) (small blind) mucked
+
+
+PokerStars Hand #175065238849:  Hold'em Limit ($3/$6 USD) - 2017/09/01 11:10:11 ET
+Table 'Phereclos II' 6-max Seat #3 is the button
+Seat 2: cola26licht ($41.79 in chips)
+Seat 3: TbIP-TbIP 88 ($99.78 in chips)
+TbIP-TbIP 88: posts small blind $1
+cola26licht: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88: raises $3 to $6
+cola26licht: folds
+Uncalled bet ($3) returned to TbIP-TbIP 88
+TbIP-TbIP 88 collected $6 from pot
+TbIP-TbIP 88: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: cola26licht (big blind) folded before Flop
+Seat 3: TbIP-TbIP 88 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #175065243667:  Hold'em Limit ($3/$6 USD) - 2017/09/01 11:10:19 ET
+Table 'Phereclos II' 6-max Seat #2 is the button
+Seat 2: cola26licht ($38.79 in chips)
+Seat 3: TbIP-TbIP 88 ($102.78 in chips)
+cola26licht: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+cola26licht: folds
+Uncalled bet ($2) returned to TbIP-TbIP 88
+TbIP-TbIP 88 collected $2 from pot
+TbIP-TbIP 88: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: cola26licht (button) (small blind) folded before Flop
+Seat 3: TbIP-TbIP 88 (big blind) collected ($2)
+
+
+PokerStars Hand #175065246765:  Hold'em Limit ($3/$6 USD) - 2017/09/01 11:10:24 ET
+Table 'Phereclos II' 6-max Seat #3 is the button
+Seat 2: cola26licht ($37.79 in chips)
+Seat 3: TbIP-TbIP 88 ($103.78 in chips)
+TbIP-TbIP 88: posts small blind $1
+cola26licht: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88: raises $3 to $6
+cola26licht: calls $3
+*** FLOP *** [Ad 2h 2c]
+cola26licht: checks
+TbIP-TbIP 88: bets $3
+cola26licht: calls $3
+*** TURN *** [Ad 2h 2c] [Ks]
+cola26licht: checks
+TbIP-TbIP 88: checks
+*** RIVER *** [Ad 2h 2c Ks] [Kd]
+cola26licht: bets $6
+TbIP-TbIP 88: folds
+Uncalled bet ($6) returned to cola26licht
+cola26licht collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ad 2h 2c Ks Kd]
+Seat 2: cola26licht (big blind) collected ($17.64)
+Seat 3: TbIP-TbIP 88 (button) (small blind) folded on the River
+
+
+PokerStars Hand #175065276961:  Hold'em Limit ($3/$6 USD) - 2017/09/01 11:11:18 ET
+Table 'Phereclos II' 6-max Seat #2 is the button
+Seat 2: cola26licht ($46.43 in chips)
+Seat 3: TbIP-TbIP 88 ($94.78 in chips)
+cola26licht: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+cola26licht: raises $3 to $6
+TbIP-TbIP 88: calls $3
+*** FLOP *** [5h Qs Tc]
+TbIP-TbIP 88: checks
+cola26licht: bets $3
+TbIP-TbIP 88: folds
+Uncalled bet ($3) returned to cola26licht
+cola26licht collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5h Qs Tc]
+Seat 2: cola26licht (button) (small blind) collected ($11.76)
+Seat 3: TbIP-TbIP 88 (big blind) folded on the Flop
+
+
+PokerStars Hand #175065293281:  Hold'em Limit ($3/$6 USD) - 2017/09/01 11:11:46 ET
+Table 'Phereclos II' 6-max Seat #3 is the button
+Seat 2: cola26licht ($52.19 in chips)
+Seat 3: TbIP-TbIP 88 ($88.78 in chips)
+TbIP-TbIP 88: posts small blind $1
+cola26licht: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88: folds
+Uncalled bet ($2) returned to cola26licht
+cola26licht collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: cola26licht (big blind) collected ($2)
+Seat 3: TbIP-TbIP 88 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #175065305163:  Hold'em Limit ($3/$6 USD) - 2017/09/01 11:12:07 ET
+Table 'Phereclos II' 6-max Seat #2 is the button
+Seat 2: cola26licht ($53.19 in chips)
+Seat 3: TbIP-TbIP 88 ($87.78 in chips)
+cola26licht: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+cola26licht: raises $3 to $6
+TbIP-TbIP 88: calls $3
+*** FLOP *** [3h Ac 3c]
+TbIP-TbIP 88: checks
+cola26licht: bets $3
+TbIP-TbIP 88: calls $3
+*** TURN *** [3h Ac 3c] [5h]
+TbIP-TbIP 88: checks
+cola26licht: checks
+*** RIVER *** [3h Ac 3c 5h] [9d]
+TbIP-TbIP 88: bets $6
+cola26licht: calls $6
+*** SHOW DOWN ***
+TbIP-TbIP 88: shows [Ks 9c] (two pair, Nines and Threes)
+cola26licht: shows [Qs Qh] (two pair, Queens and Threes)
+cola26licht collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3h Ac 3c 5h 9d]
+Seat 2: cola26licht (button) (small blind) showed [Qs Qh] and won ($29.50) with two pair, Queens and Threes
+Seat 3: TbIP-TbIP 88 (big blind) showed [Ks 9c] and lost with two pair, Nines and Threes
+
+
+PokerStars Hand #175065319027:  Hold'em Limit ($3/$6 USD) - 2017/09/01 11:12:32 ET
+Table 'Phereclos II' 6-max Seat #3 is the button
+Seat 2: cola26licht ($67.69 in chips)
+Seat 3: TbIP-TbIP 88 ($72.78 in chips)
+TbIP-TbIP 88: posts small blind $1
+cola26licht: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88: raises $3 to $6
+cola26licht: folds
+Uncalled bet ($3) returned to TbIP-TbIP 88
+TbIP-TbIP 88 collected $6 from pot
+TbIP-TbIP 88: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: cola26licht (big blind) folded before Flop
+Seat 3: TbIP-TbIP 88 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #175065325106:  Hold'em Limit ($3/$6 USD) - 2017/09/01 11:12:42 ET
+Table 'Phereclos II' 6-max Seat #2 is the button
+Seat 2: cola26licht ($64.69 in chips)
+Seat 3: TbIP-TbIP 88 ($75.78 in chips)
+cola26licht: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+cola26licht: raises $3 to $6
+TbIP-TbIP 88: folds
+Uncalled bet ($3) returned to cola26licht
+cola26licht collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: cola26licht (button) (small blind) collected ($6)
+Seat 3: TbIP-TbIP 88 (big blind) folded before Flop
+
+
+PokerStars Hand #175065328759:  Hold'em Limit ($3/$6 USD) - 2017/09/01 11:12:49 ET
+Table 'Phereclos II' 6-max Seat #3 is the button
+Seat 2: cola26licht ($67.69 in chips)
+Seat 3: TbIP-TbIP 88 ($72.78 in chips)
+TbIP-TbIP 88: posts small blind $1
+cola26licht: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88: raises $3 to $6
+cola26licht: folds
+Uncalled bet ($3) returned to TbIP-TbIP 88
+TbIP-TbIP 88 collected $6 from pot
+TbIP-TbIP 88: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: cola26licht (big blind) folded before Flop
+Seat 3: TbIP-TbIP 88 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #175065332920:  Hold'em Limit ($3/$6 USD) - 2017/09/01 11:12:56 ET
+Table 'Phereclos II' 6-max Seat #2 is the button
+Seat 2: cola26licht ($64.69 in chips)
+Seat 3: TbIP-TbIP 88 ($75.78 in chips)
+cola26licht: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+cola26licht: raises $3 to $6
+TbIP-TbIP 88: calls $3
+*** FLOP *** [Ac Ts 7d]
+TbIP-TbIP 88: checks
+cola26licht: checks
+*** TURN *** [Ac Ts 7d] [3c]
+TbIP-TbIP 88: checks
+cola26licht: checks
+*** RIVER *** [Ac Ts 7d 3c] [5c]
+TbIP-TbIP 88: checks
+cola26licht: checks
+*** SHOW DOWN ***
+TbIP-TbIP 88: shows [3d Qc] (a pair of Threes)
+cola26licht: shows [4c 4d] (a pair of Fours)
+cola26licht collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ac Ts 7d 3c 5c]
+Seat 2: cola26licht (button) (small blind) showed [4c 4d] and won ($11.76) with a pair of Fours
+Seat 3: TbIP-TbIP 88 (big blind) showed [3d Qc] and lost with a pair of Threes
+
+
+PokerStars Hand #175065371710:  Hold'em Limit ($3/$6 USD) - 2017/09/01 11:14:04 ET
+Table 'Phereclos II' 6-max Seat #2 is the button
+Seat 2: cola26licht ($58.45 in chips)
+Seat 3: TbIP-TbIP 88 ($83.52 in chips)
+cola26licht: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+cola26licht: raises $3 to $6
+TbIP-TbIP 88: folds
+Uncalled bet ($3) returned to cola26licht
+cola26licht collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: cola26licht (button) (small blind) collected ($6)
+Seat 3: TbIP-TbIP 88 (big blind) folded before Flop
+
+
+PokerStars Hand #175065354110:  Hold'em Limit ($3/$6 USD) - 2017/09/01 11:13:33 ET
+Table 'Phereclos II' 6-max Seat #3 is the button
+Seat 2: cola26licht ($70.45 in chips)
+Seat 3: TbIP-TbIP 88 ($72 in chips)
+TbIP-TbIP 88: posts small blind $1
+cola26licht: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88: raises $3 to $6
+cola26licht: calls $3
+*** FLOP *** [8s Ks 7c]
+cola26licht: checks
+TbIP-TbIP 88: bets $3
+cola26licht: raises $3 to $6
+TbIP-TbIP 88: calls $3
+*** TURN *** [8s Ks 7c] [6s]
+cola26licht: checks
+TbIP-TbIP 88: checks
+*** RIVER *** [8s Ks 7c 6s] [Ac]
+cola26licht: checks
+TbIP-TbIP 88: bets $6
+cola26licht: folds
+Uncalled bet ($6) returned to TbIP-TbIP 88
+TbIP-TbIP 88 collected $23.52 from pot
+TbIP-TbIP 88: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [8s Ks 7c 6s Ac]
+Seat 2: cola26licht (big blind) folded on the River
+Seat 3: TbIP-TbIP 88 (button) (small blind) collected ($23.52)
+
+
+PokerStars Hand #175065375933:  Hold'em Limit ($3/$6 USD) - 2017/09/01 11:14:11 ET
+Table 'Phereclos II' 6-max Seat #3 is the button
+Seat 2: cola26licht ($61.45 in chips)
+Seat 3: TbIP-TbIP 88 ($80.52 in chips)
+TbIP-TbIP 88: posts small blind $1
+cola26licht: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl joins the table at seat #5
+TbIP-TbIP 88: raises $3 to $6
+cola26licht: calls $3
+*** FLOP *** [8d 5h Kh]
+cola26licht: bets $3
+TbIP-TbIP 88: calls $3
+*** TURN *** [8d 5h Kh] [6d]
+cola26licht: bets $6
+TbIP-TbIP 88: calls $6
+*** RIVER *** [8d 5h Kh 6d] [5c]
+cola26licht: bets $6
+TbIP-TbIP 88: calls $6
+*** SHOW DOWN ***
+cola26licht: shows [Ac 5d] (three of a kind, Fives)
+TbIP-TbIP 88: mucks hand
+cola26licht collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [8d 5h Kh 6d 5c]
+Seat 2: cola26licht (big blind) showed [Ac 5d] and won ($41.50) with three of a kind, Fives
+Seat 3: TbIP-TbIP 88 (button) (small blind) mucked
+
+
+PokerStars Hand #175065397034:  Hold'em Limit ($3/$6 USD) - 2017/09/01 11:14:48 ET
+Table 'Phereclos II' 6-max Seat #2 is the button
+Seat 2: cola26licht ($81.95 in chips)
+Seat 3: TbIP-TbIP 88 ($72 in chips)
+cola26licht: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+cola26licht: folds
+Uncalled bet ($2) returned to TbIP-TbIP 88
+TbIP-TbIP 88 collected $2 from pot
+TbIP-TbIP 88: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: cola26licht (button) (small blind) folded before Flop
+Seat 3: TbIP-TbIP 88 (big blind) collected ($2)
+
+
+PokerStars Hand #175067354723:  Hold'em Limit ($3/$6 USD) - 2017/09/01 12:09:44 ET
+Table 'Phereclos II' 6-max Seat #1 is the button
+Seat 1: zxkz ($215.60 in chips)
+Seat 5: B_loJkl ($108.83 in chips)
+zxkz: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+zxkz: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [9d 5s Jd]
+B_loJkl: checks
+zxkz: bets $3
+vestimokrec leaves the table
+B_loJkl: folds
+Uncalled bet ($3) returned to zxkz
+zxkz collected $11.76 from pot
+zxkz: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9d 5s Jd]
+Seat 1: zxkz (button) (small blind) collected ($11.76)
+Seat 5: B_loJkl (big blind) folded on the Flop
+
+

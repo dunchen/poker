@@ -1,0 +1,36 @@
+PokerStars Hand #155952866382:  Hold'em Limit ($3/$6 USD) - 2016/07/14 6:31:27 ET
+Table 'Acrux' 6-max Seat #6 is the button
+Seat 3: wobetting ($56 in chips)
+Seat 6: siliciom ($76.43 in chips)
+siliciom: posts small blind $1
+TbIP-TbIP 88: is sitting out
+wobetting: posts big blind $3
+*** HOLE CARDS ***
+hairy1961 leaves the table
+siliciom: raises $3 to $6
+wobetting: calls $3
+*** FLOP *** [7h 5c 6c]
+TbIP-TbIP 88 leaves the table
+wobetting: checks
+siliciom: bets $3
+wobetting: raises $3 to $6
+siliciom: calls $3
+*** TURN *** [7h 5c 6c] [6d]
+wobetting: bets $6
+siliciom: raises $6 to $12
+wobetting: raises $6 to $18
+siliciom: calls $6
+*** RIVER *** [7h 5c 6c 6d] [Kh]
+wobetting: bets $6
+siliciom: calls $6
+*** SHOW DOWN ***
+wobetting: shows [8s Td] (a pair of Sixes)
+siliciom: shows [Ad As] (two pair, Aces and Sixes)
+siliciom collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [7h 5c 6c 6d Kh]
+Seat 3: wobetting (big blind) showed [8s Td] and lost with a pair of Sixes
+Seat 6: siliciom (button) (small blind) showed [Ad As] and won ($71.50) with two pair, Aces and Sixes
+
+

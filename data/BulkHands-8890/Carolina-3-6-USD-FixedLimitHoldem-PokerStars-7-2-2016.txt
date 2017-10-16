@@ -1,0 +1,33 @@
+PokerStars Hand #155479242318:  Hold'em Limit ($3/$6 USD) - 2016/07/02 15:59:59 ET
+Table 'Carolina' 6-max Seat #3 is the button
+Seat 3: Silverpilen8 ($70 in chips)
+Seat 4: TheU10 ($120 in chips)
+Silverpilen8: posts small blind $1
+TheU10: posts big blind $3
+*** HOLE CARDS ***
+Silverpilen8: calls $2
+TheU10: checks
+*** FLOP *** [Ks Qs 5d]
+TheU10: checks
+Silverpilen8: bets $3
+TheU10: calls $3
+*** TURN *** [Ks Qs 5d] [9h]
+TheU10: checks
+Silverpilen8: bets $6
+TheU10: calls $6
+*** RIVER *** [Ks Qs 5d 9h] [6h]
+TheU10: checks
+Silverpilen8: bets $6
+TheU10: raises $6 to $12
+Silverpilen8: calls $6
+*** SHOW DOWN ***
+TheU10: shows [6s Qc] (two pair, Queens and Sixes)
+Silverpilen8: mucks hand
+TheU10 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Ks Qs 5d 9h 6h]
+Seat 3: Silverpilen8 (button) (small blind) mucked
+Seat 4: TheU10 (big blind) showed [6s Qc] and won ($47.50) with two pair, Queens and Sixes
+
+

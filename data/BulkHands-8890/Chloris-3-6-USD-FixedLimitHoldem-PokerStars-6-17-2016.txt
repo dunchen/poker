@@ -1,0 +1,137 @@
+PokerStars Hand #154840875491:  Hold'em Limit ($3/$6 USD) - 2016/06/17 5:04:55 ET
+Table 'Chloris' 6-max Seat #1 is the button
+Seat 1: SeanPeary ($62.14 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+SeanPeary: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+SeanPeary: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [4h Ac 2d]
+VolkovDmitri: checks
+SeanPeary: bets $3
+VolkovDmitri: raises $3 to $6
+SeanPeary: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $17.64 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4h Ac 2d]
+Seat 1: SeanPeary (button) (small blind) folded on the Flop
+Seat 4: VolkovDmitri (big blind) collected ($17.64)
+
+
+PokerStars Hand #154840864291:  Hold'em Limit ($3/$6 USD) - 2016/06/17 5:04:21 ET
+Table 'Chloris' 6-max Seat #4 is the button
+Seat 1: SeanPeary ($53.50 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+SeanPeary: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+SeanPeary: calls $3
+*** FLOP *** [As Jd 3h]
+SeanPeary: checks
+VolkovDmitri: bets $3
+SeanPeary: calls $3
+*** TURN *** [As Jd 3h] [5h]
+SeanPeary: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to SeanPeary
+SeanPeary collected $17.64 from pot
+SeanPeary: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [As Jd 3h 5h]
+Seat 1: SeanPeary (big blind) collected ($17.64)
+Seat 4: VolkovDmitri (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #154840854140:  Hold'em Limit ($3/$6 USD) - 2016/06/17 5:03:50 ET
+Table 'Chloris' 6-max Seat #1 is the button
+Seat 1: SeanPeary ($30 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+SeanPeary: posts small blind $1
+SeanPeary said, "hello again"
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+SeanPeary: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [4c Qd 2d]
+VolkovDmitri: checks
+SeanPeary: bets $3
+VolkovDmitri: raises $3 to $6
+SeanPeary: calls $3
+*** TURN *** [4c Qd 2d] [Js]
+VolkovDmitri: bets $6
+SeanPeary: calls $6
+*** RIVER *** [4c Qd 2d Js] [8h]
+VolkovDmitri: bets $6
+SeanPeary: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [4s Kh] (a pair of Fours)
+SeanPeary: shows [Qh Td] (a pair of Queens)
+SeanPeary collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4c Qd 2d Js 8h]
+Seat 1: SeanPeary (button) (small blind) showed [Qh Td] and won ($47.50) with a pair of Queens
+Seat 4: VolkovDmitri (big blind) showed [4s Kh] and lost with a pair of Fours
+
+
+PokerStars Hand #154840887001:  Hold'em Limit ($3/$6 USD) - 2016/06/17 5:05:29 ET
+Table 'Chloris' 6-max Seat #1 is the button
+Seat 1: SeanPeary ($67.64 in chips)
+Seat 2: tomte999 ($72 in chips)
+SeanPeary: posts small blind $1
+tomte999: posts big blind $3
+*** HOLE CARDS ***
+SeanPeary: raises $3 to $6
+VolkovDmitri leaves the table
+tomte999: raises $3 to $9
+SeanPeary: calls $3
+*** FLOP *** [3c Qh Qc]
+tomte999: bets $3
+SeanPeary: folds
+Uncalled bet ($3) returned to tomte999
+tomte999 collected $17.64 from pot
+tomte999: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3c Qh Qc]
+Seat 1: SeanPeary (button) (small blind) folded on the Flop
+Seat 2: tomte999 (big blind) collected ($17.64)
+
+
+PokerStars Hand #154840879947:  Hold'em Limit ($3/$6 USD) - 2016/06/17 5:05:07 ET
+Table 'Chloris' 6-max Seat #4 is the button
+Seat 1: SeanPeary ($53.14 in chips)
+Seat 4: VolkovDmitri ($128.64 in chips)
+VolkovDmitri: posts small blind $1
+SeanPeary: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+SeanPeary: calls $3
+*** FLOP *** [6h Jc 4s]
+SeanPeary: checks
+VolkovDmitri: bets $3
+SeanPeary: calls $3
+*** TURN *** [6h Jc 4s] [5s]
+tomte999 joins the table at seat #2
+SeanPeary: checks
+VolkovDmitri: checks
+*** RIVER *** [6h Jc 4s 5s] [3s]
+SeanPeary: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+SeanPeary: shows [7c 8s] (a straight, Four to Eight)
+VolkovDmitri: mucks hand
+SeanPeary collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6h Jc 4s 5s 3s]
+Seat 1: SeanPeary (big blind) showed [7c 8s] and won ($29.50) with a straight, Four to Eight
+Seat 4: VolkovDmitri (button) (small blind) mucked
+
+

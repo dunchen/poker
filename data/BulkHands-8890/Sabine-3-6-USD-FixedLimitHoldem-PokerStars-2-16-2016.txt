@@ -1,0 +1,560 @@
+PokerStars Hand #148885368909:  Hold'em Limit ($3/$6 USD) - 2016/02/16 1:22:47 ET
+Table 'Sabine' 6-max Seat #3 is the button
+Seat 3: gotchajm ($80 in chips)
+Seat 4: Agrotait ($72 in chips)
+gotchajm: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+gotchajm: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [3h 8h 9s]
+Agrotait: checks
+gotchajm: bets $3
+Agrotait: calls $3
+*** TURN *** [3h 8h 9s] [Kc]
+Agrotait: checks
+gotchajm: checks
+*** RIVER *** [3h 8h 9s Kc] [2h]
+Agrotait: bets $6
+gotchajm: folds
+Uncalled bet ($6) returned to Agrotait
+Agrotait collected $17.64 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3h 8h 9s Kc 2h]
+Seat 3: gotchajm (button) (small blind) folded on the River
+Seat 4: Agrotait (big blind) collected ($17.64)
+
+
+PokerStars Hand #148885384501:  Hold'em Limit ($3/$6 USD) - 2016/02/16 1:23:43 ET
+Table 'Sabine' 6-max Seat #3 is the button
+Seat 3: gotchajm ($72 in chips)
+Seat 4: Agrotait ($79.64 in chips)
+gotchajm: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+gotchajm: raises $3 to $6
+Agrotait: raises $3 to $9
+gotchajm: calls $3
+*** FLOP *** [Js 2c 8s]
+Agrotait: bets $3
+gotchajm: calls $3
+*** TURN *** [Js 2c 8s] [8d]
+Agrotait: bets $6
+gotchajm: calls $6
+*** RIVER *** [Js 2c 8s 8d] [2h]
+Agrotait: bets $6
+gotchajm: calls $6
+*** SHOW DOWN ***
+Agrotait: shows [Ac Ah] (two pair, Aces and Eights)
+gotchajm: mucks hand
+Agrotait collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Js 2c 8s 8d 2h]
+Seat 3: gotchajm (button) (small blind) mucked
+Seat 4: Agrotait (big blind) showed [Ac Ah] and won ($47.50) with two pair, Aces and Eights
+
+
+PokerStars Hand #148885395602:  Hold'em Limit ($3/$6 USD) - 2016/02/16 1:24:22 ET
+Table 'Sabine' 6-max Seat #4 is the button
+Seat 3: gotchajm ($48 in chips)
+Seat 4: Agrotait ($103.14 in chips)
+Agrotait: posts small blind $1
+gotchajm: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+gotchajm: calls $3
+*** FLOP *** [2d Td 5s]
+gotchajm: checks
+Agrotait: bets $3
+gotchajm: calls $3
+*** TURN *** [2d Td 5s] [3c]
+gotchajm: checks
+Leblanc1 joins the table at seat #1
+Agrotait: checks
+*** RIVER *** [2d Td 5s 3c] [Ts]
+gotchajm: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to gotchajm
+gotchajm collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2d Td 5s 3c Ts]
+Seat 3: gotchajm (big blind) collected ($17.64)
+Seat 4: Agrotait (button) (small blind) folded on the River
+
+
+PokerStars Hand #148885413787:  Hold'em Limit ($3/$6 USD) - 2016/02/16 1:25:27 ET
+Table 'Sabine' 6-max Seat #3 is the button
+Seat 3: gotchajm ($56.64 in chips)
+Seat 4: Agrotait ($94.14 in chips)
+gotchajm: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+gotchajm: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [Kh 9d Ah]
+Agrotait: checks
+gotchajm: bets $3
+Agrotait: folds
+Uncalled bet ($3) returned to gotchajm
+gotchajm collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kh 9d Ah]
+Seat 3: gotchajm (button) (small blind) collected ($11.76)
+Seat 4: Agrotait (big blind) folded on the Flop
+
+
+PokerStars Hand #148886637414:  Hold'em Limit ($3/$6 USD) - 2016/02/16 2:36:27 ET
+Table 'Sabine' 6-max Seat #6 is the button
+Seat 5: PrayFTR ($107.38 in chips)
+Seat 6: Chuckles1337 ($203.97 in chips)
+Chuckles1337: posts small blind $1
+oj_pimpson: is sitting out
+PrayFTR: posts big blind $3
+*** HOLE CARDS ***
+Chuckles1337: raises $3 to $6
+PrayFTR: calls $3
+*** FLOP *** [5s 3d 4c]
+PrayFTR: checks
+Chuckles1337: bets $3
+PrayFTR: calls $3
+*** TURN *** [5s 3d 4c] [Th]
+PrayFTR: checks
+Chuckles1337: bets $6
+PrayFTR: raises $6 to $12
+Chuckles1337: calls $6
+*** RIVER *** [5s 3d 4c Th] [7s]
+PrayFTR: checks
+Chuckles1337: bets $6
+PrayFTR: calls $6
+*** SHOW DOWN ***
+Chuckles1337: shows [6h 5c] (a straight, Three to Seven)
+PrayFTR: mucks hand
+Chuckles1337 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [5s 3d 4c Th 7s]
+Seat 5: PrayFTR (big blind) mucked
+Seat 6: Chuckles1337 (button) (small blind) showed [6h 5c] and won ($53.50) with a straight, Three to Seven
+
+
+PokerStars Hand #148886647567:  Hold'em Limit ($3/$6 USD) - 2016/02/16 2:36:59 ET
+Table 'Sabine' 6-max Seat #5 is the button
+Seat 5: PrayFTR ($80.38 in chips)
+Seat 6: Chuckles1337 ($230.47 in chips)
+PrayFTR: posts small blind $1
+Chuckles1337: posts big blind $3
+*** HOLE CARDS ***
+PrayFTR: folds
+Uncalled bet ($2) returned to Chuckles1337
+Chuckles1337 collected $2 from pot
+Chuckles1337: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: PrayFTR (button) (small blind) folded before Flop
+Seat 6: Chuckles1337 (big blind) collected ($2)
+
+
+PokerStars Hand #148886659891:  Hold'em Limit ($3/$6 USD) - 2016/02/16 2:37:39 ET
+Table 'Sabine' 6-max Seat #5 is the button
+Seat 5: PrayFTR ($52.38 in chips)
+Seat 6: Chuckles1337 ($257.97 in chips)
+PrayFTR: posts small blind $1
+Chuckles1337: posts big blind $3
+*** HOLE CARDS ***
+PrayFTR: raises $3 to $6
+Chuckles1337: calls $3
+*** FLOP *** [Js Qs Ks]
+Chuckles1337: checks
+PrayFTR: bets $3
+Chuckles1337: folds
+Uncalled bet ($3) returned to PrayFTR
+PrayFTR collected $11.76 from pot
+PrayFTR: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Js Qs Ks]
+Seat 5: PrayFTR (button) (small blind) collected ($11.76)
+Seat 6: Chuckles1337 (big blind) folded on the Flop
+
+
+PokerStars Hand #148886649379:  Hold'em Limit ($3/$6 USD) - 2016/02/16 2:37:05 ET
+Table 'Sabine' 6-max Seat #6 is the button
+Seat 5: PrayFTR ($79.38 in chips)
+Seat 6: Chuckles1337 ($231.47 in chips)
+Chuckles1337: posts small blind $1
+PrayFTR: posts big blind $3
+*** HOLE CARDS ***
+Chuckles1337: raises $3 to $6
+PrayFTR: calls $3
+*** FLOP *** [9h Qs 2s]
+PrayFTR: checks
+Chuckles1337: bets $3
+PrayFTR: calls $3
+*** TURN *** [9h Qs 2s] [Jh]
+PrayFTR: checks
+Chuckles1337: bets $6
+PrayFTR: raises $6 to $12
+Chuckles1337: calls $6
+*** RIVER *** [9h Qs 2s Jh] [Ad]
+PrayFTR: bets $6
+Chuckles1337: calls $6
+*** SHOW DOWN ***
+PrayFTR: shows [Ks Kd] (a pair of Kings)
+Chuckles1337: shows [Jc 9s] (two pair, Jacks and Nines)
+Chuckles1337 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [9h Qs 2s Jh Ad]
+Seat 5: PrayFTR (big blind) showed [Ks Kd] and lost with a pair of Kings
+Seat 6: Chuckles1337 (button) (small blind) showed [Jc 9s] and won ($53.50) with two pair, Jacks and Nines
+
+
+PokerStars Hand #148886677434:  Hold'em Limit ($3/$6 USD) - 2016/02/16 2:38:35 ET
+Table 'Sabine' 6-max Seat #6 is the button
+Seat 5: PrayFTR ($84.40 in chips)
+Seat 6: Chuckles1337 ($224.97 in chips)
+Chuckles1337: posts small blind $1
+PrayFTR: posts big blind $3
+*** HOLE CARDS ***
+Chuckles1337: raises $3 to $6
+PrayFTR: calls $3
+*** FLOP *** [3h 9c Qd]
+PrayFTR: checks
+Chuckles1337: bets $3
+PrayFTR: calls $3
+*** TURN *** [3h 9c Qd] [Ts]
+PrayFTR: checks
+Chuckles1337: checks
+*** RIVER *** [3h 9c Qd Ts] [7d]
+PrayFTR: bets $6
+Chuckles1337: folds
+Uncalled bet ($6) returned to PrayFTR
+PrayFTR collected $17.64 from pot
+PrayFTR: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3h 9c Qd Ts 7d]
+Seat 5: PrayFTR (big blind) collected ($17.64)
+Seat 6: Chuckles1337 (button) (small blind) folded on the River
+
+
+PokerStars Hand #148886663605:  Hold'em Limit ($3/$6 USD) - 2016/02/16 2:37:51 ET
+Table 'Sabine' 6-max Seat #6 is the button
+Seat 5: PrayFTR ($58.14 in chips)
+Seat 6: Chuckles1337 ($251.97 in chips)
+Chuckles1337: posts small blind $1
+PrayFTR: posts big blind $3
+*** HOLE CARDS ***
+Chuckles1337: raises $3 to $6
+PrayFTR: raises $3 to $9
+Chuckles1337: raises $3 to $12
+Betting is capped
+PrayFTR: calls $3
+*** FLOP *** [5s 9d 4d]
+PrayFTR: checks
+Chuckles1337: bets $3
+PrayFTR: calls $3
+*** TURN *** [5s 9d 4d] [Ad]
+PrayFTR: checks
+Chuckles1337: checks
+*** RIVER *** [5s 9d 4d Ad] [4c]
+PrayFTR: bets $6
+Chuckles1337: calls $6
+*** SHOW DOWN ***
+PrayFTR: shows [4h As] (a full house, Fours full of Aces)
+Chuckles1337: mucks hand
+PrayFTR collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [5s 9d 4d Ad 4c]
+Seat 5: PrayFTR (big blind) showed [4h As] and won ($41.50) with a full house, Fours full of Aces
+Seat 6: Chuckles1337 (button) (small blind) mucked
+
+
+PokerStars Hand #148886672721:  Hold'em Limit ($3/$6 USD) - 2016/02/16 2:38:20 ET
+Table 'Sabine' 6-max Seat #5 is the button
+Seat 5: PrayFTR ($78.64 in chips)
+Seat 6: Chuckles1337 ($230.97 in chips)
+PrayFTR: posts small blind $1
+Chuckles1337: posts big blind $3
+*** HOLE CARDS ***
+PrayFTR: raises $3 to $6
+Chuckles1337: calls $3
+*** FLOP *** [4d Jc Ac]
+Chuckles1337: checks
+PrayFTR: bets $3
+Chuckles1337: folds
+Uncalled bet ($3) returned to PrayFTR
+PrayFTR collected $11.76 from pot
+PrayFTR: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4d Jc Ac]
+Seat 5: PrayFTR (button) (small blind) collected ($11.76)
+Seat 6: Chuckles1337 (big blind) folded on the Flop
+
+
+PokerStars Hand #148886688565:  Hold'em Limit ($3/$6 USD) - 2016/02/16 2:39:11 ET
+Table 'Sabine' 6-max Seat #6 is the button
+Seat 5: PrayFTR ($81.04 in chips)
+Seat 6: Chuckles1337 ($227.49 in chips)
+Chuckles1337: posts small blind $1
+PrayFTR: posts big blind $3
+*** HOLE CARDS ***
+Chuckles1337: raises $3 to $6
+PrayFTR: folds
+Uncalled bet ($3) returned to Chuckles1337
+Chuckles1337 collected $6 from pot
+Chuckles1337: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 5: PrayFTR (big blind) folded before Flop
+Seat 6: Chuckles1337 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #148886684048:  Hold'em Limit ($3/$6 USD) - 2016/02/16 2:38:56 ET
+Table 'Sabine' 6-max Seat #5 is the button
+Seat 5: PrayFTR ($93.04 in chips)
+Seat 6: Chuckles1337 ($215.97 in chips)
+PrayFTR: posts small blind $1
+Chuckles1337: posts big blind $3
+*** HOLE CARDS ***
+PrayFTR: raises $3 to $6
+Chuckles1337: calls $3
+*** FLOP *** [Td Jh Jc]
+Chuckles1337: checks
+PrayFTR: checks
+*** TURN *** [Td Jh Jc] [Kd]
+Chuckles1337: checks
+PrayFTR: bets $6
+Chuckles1337: raises $6 to $12
+PrayFTR: folds
+Uncalled bet ($6) returned to Chuckles1337
+Chuckles1337 collected $23.52 from pot
+Chuckles1337: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Td Jh Jc Kd]
+Seat 5: PrayFTR (button) (small blind) folded on the Turn
+Seat 6: Chuckles1337 (big blind) collected ($23.52)
+
+
+PokerStars Hand #148886691414:  Hold'em Limit ($3/$6 USD) - 2016/02/16 2:39:20 ET
+Table 'Sabine' 6-max Seat #5 is the button
+Seat 5: PrayFTR ($78.04 in chips)
+Seat 6: Chuckles1337 ($230.49 in chips)
+PrayFTR: posts small blind $1
+Chuckles1337: posts big blind $3
+*** HOLE CARDS ***
+PrayFTR: raises $3 to $6
+Chuckles1337: calls $3
+*** FLOP *** [Jh 8s 3h]
+Chuckles1337: checks
+PrayFTR: bets $3
+Chuckles1337: folds
+Uncalled bet ($3) returned to PrayFTR
+PrayFTR collected $11.76 from pot
+PrayFTR: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jh 8s 3h]
+Seat 5: PrayFTR (button) (small blind) collected ($11.76)
+Seat 6: Chuckles1337 (big blind) folded on the Flop
+
+
+PokerStars Hand #148886709736:  Hold'em Limit ($3/$6 USD) - 2016/02/16 2:40:19 ET
+Table 'Sabine' 6-max Seat #5 is the button
+Seat 5: PrayFTR ($108.94 in chips)
+Seat 6: Chuckles1337 ($198.49 in chips)
+PrayFTR: posts small blind $1
+Chuckles1337: posts big blind $3
+*** HOLE CARDS ***
+PrayFTR: raises $3 to $6
+Chuckles1337: calls $3
+*** FLOP *** [2d Kd Ts]
+Chuckles1337: checks
+PrayFTR: bets $3
+Chuckles1337: raises $3 to $6
+PrayFTR: raises $3 to $9
+Chuckles1337: calls $3
+*** TURN *** [2d Kd Ts] [9c]
+Chuckles1337: checks
+PrayFTR: bets $6
+livenuncut joins the table at seat #2
+Chuckles1337: calls $6
+*** RIVER *** [2d Kd Ts 9c] [Ad]
+Chuckles1337: bets $6
+PrayFTR: raises $6 to $12
+Chuckles1337: raises $6 to $18
+PrayFTR: raises $6 to $24
+Betting is capped
+Chuckles1337: calls $6
+*** SHOW DOWN ***
+PrayFTR: shows [Qd 8d] (a flush, Ace high)
+Chuckles1337: mucks hand
+PrayFTR collected $89.50 from pot
+*** SUMMARY ***
+Total pot $90 | Rake $0.50
+Board [2d Kd Ts 9c Ad]
+Seat 5: PrayFTR (button) (small blind) showed [Qd 8d] and won ($89.50) with a flush, Ace high
+Seat 6: Chuckles1337 (big blind) mucked
+
+
+PokerStars Hand #148886704864:  Hold'em Limit ($3/$6 USD) - 2016/02/16 2:40:03 ET
+Table 'Sabine' 6-max Seat #5 is the button
+Seat 5: PrayFTR ($101.30 in chips)
+Seat 6: Chuckles1337 ($206.49 in chips)
+PrayFTR: posts small blind $1
+Chuckles1337: posts big blind $3
+*** HOLE CARDS ***
+PrayFTR: folds
+Uncalled bet ($2) returned to Chuckles1337
+Chuckles1337 collected $2 from pot
+Chuckles1337: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: PrayFTR (button) (small blind) folded before Flop
+Seat 6: Chuckles1337 (big blind) collected ($2)
+
+
+PokerStars Hand #148886696079:  Hold'em Limit ($3/$6 USD) - 2016/02/16 2:39:35 ET
+Table 'Sabine' 6-max Seat #6 is the button
+Seat 5: PrayFTR ($83.80 in chips)
+Seat 6: Chuckles1337 ($224.49 in chips)
+Chuckles1337: posts small blind $1
+PrayFTR: posts big blind $3
+*** HOLE CARDS ***
+Chuckles1337: raises $3 to $6
+PrayFTR: raises $3 to $9
+Chuckles1337: calls $3
+*** FLOP *** [2c 2s 5d]
+PrayFTR: bets $3
+Chuckles1337: calls $3
+*** TURN *** [2c 2s 5d] [Ad]
+PrayFTR: bets $6
+Chuckles1337: calls $6
+*** RIVER *** [2c 2s 5d Ad] [9s]
+PrayFTR: bets $6
+Chuckles1337: folds
+Uncalled bet ($6) returned to PrayFTR
+PrayFTR collected $35.50 from pot
+PrayFTR: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [2c 2s 5d Ad 9s]
+Seat 5: PrayFTR (big blind) collected ($35.50)
+Seat 6: Chuckles1337 (button) (small blind) folded on the River
+
+
+PokerStars Hand #148886706425:  Hold'em Limit ($3/$6 USD) - 2016/02/16 2:40:08 ET
+Table 'Sabine' 6-max Seat #6 is the button
+Seat 5: PrayFTR ($100.30 in chips)
+Seat 6: Chuckles1337 ($207.49 in chips)
+Chuckles1337: posts small blind $1
+PrayFTR: posts big blind $3
+*** HOLE CARDS ***
+Chuckles1337: raises $3 to $6
+PrayFTR: raises $3 to $9
+Chuckles1337: calls $3
+*** FLOP *** [3c Tc 4c]
+PrayFTR: bets $3
+Chuckles1337: folds
+Uncalled bet ($3) returned to PrayFTR
+PrayFTR collected $17.64 from pot
+PrayFTR: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3c Tc 4c]
+Seat 5: PrayFTR (big blind) collected ($17.64)
+Seat 6: Chuckles1337 (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #148886724924:  Hold'em Limit ($3/$6 USD) - 2016/02/16 2:41:07 ET
+Table 'Sabine' 6-max Seat #6 is the button
+Seat 2: livenuncut ($120 in chips)
+Seat 6: Chuckles1337 ($153.49 in chips)
+Chuckles1337: posts small blind $1
+livenuncut: posts big blind $3
+*** HOLE CARDS ***
+Chuckles1337: raises $3 to $6
+PrayFTR leaves the table
+livenuncut: calls $3
+*** FLOP *** [Kc 3c Qs]
+livenuncut: checks
+Chuckles1337: bets $3
+livenuncut: folds
+Uncalled bet ($3) returned to Chuckles1337
+Chuckles1337 collected $11.76 from pot
+Chuckles1337: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kc 3c Qs]
+Seat 2: livenuncut (big blind) folded on the Flop
+Seat 6: Chuckles1337 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #148886732289:  Hold'em Limit ($3/$6 USD) - 2016/02/16 2:41:31 ET
+Table 'Sabine' 6-max Seat #6 is the button
+Seat 2: livenuncut ($113 in chips)
+Seat 6: Chuckles1337 ($160.25 in chips)
+Chuckles1337: posts small blind $1
+livenuncut: posts big blind $3
+*** HOLE CARDS ***
+Chuckles1337: raises $3 to $6
+livenuncut: folds
+Uncalled bet ($3) returned to Chuckles1337
+Chuckles1337 collected $6 from pot
+Chuckles1337: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: livenuncut (big blind) folded before Flop
+Seat 6: Chuckles1337 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #148886742620:  Hold'em Limit ($3/$6 USD) - 2016/02/16 2:42:04 ET
+Table 'Sabine' 6-max Seat #2 is the button
+Seat 2: livenuncut ($114.76 in chips)
+Seat 6: Chuckles1337 ($158.25 in chips)
+livenuncut: posts small blind $1
+Chuckles1337: posts big blind $3
+*** HOLE CARDS ***
+livenuncut: folds
+Uncalled bet ($2) returned to Chuckles1337
+Chuckles1337 collected $2 from pot
+Chuckles1337: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: livenuncut (button) (small blind) folded before Flop
+Seat 6: Chuckles1337 (big blind) collected ($2)
+
+
+PokerStars Hand #148886736969:  Hold'em Limit ($3/$6 USD) - 2016/02/16 2:41:46 ET
+Table 'Sabine' 6-max Seat #6 is the button
+Seat 2: livenuncut ($109 in chips)
+Seat 6: Chuckles1337 ($164.25 in chips)
+Chuckles1337: posts small blind $1
+livenuncut: posts big blind $3
+*** HOLE CARDS ***
+Chuckles1337: raises $3 to $6
+livenuncut: calls $3
+*** FLOP *** [Kc 8s As]
+livenuncut: checks
+Chuckles1337: checks
+*** TURN *** [Kc 8s As] [4s]
+livenuncut: bets $6
+Chuckles1337: folds
+Uncalled bet ($6) returned to livenuncut
+livenuncut collected $11.76 from pot
+livenuncut: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kc 8s As 4s]
+Seat 2: livenuncut (big blind) collected ($11.76)
+Seat 6: Chuckles1337 (button) (small blind) folded on the Turn
+
+

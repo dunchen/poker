@@ -1,0 +1,31 @@
+PokerStars Hand #160259576078:  Hold'em Limit ($3/$6 USD) - 2016/10/21 20:21:07 ET
+Table 'Becrux' 6-max Seat #4 is the button
+Seat 3: Mustafatyrk ($43.97 in chips)
+Seat 4: FHstyles ($60 in chips)
+FHstyles: posts small blind $1
+Mustafatyrk: posts big blind $3
+*** HOLE CARDS ***
+FHstyles: calls $2
+Mustafatyrk: checks
+*** FLOP *** [2s 3d 5d]
+Mustafatyrk: bets $3
+FHstyles: calls $3
+*** TURN *** [2s 3d 5d] [2h]
+Mustafatyrk: bets $6
+FHstyles: raises $6 to $12
+Mustafatyrk: calls $6
+*** RIVER *** [2s 3d 5d 2h] [4c]
+Mustafatyrk: bets $6
+FHstyles: raises $6 to $12
+Mustafatyrk: calls $6
+*** SHOW DOWN ***
+FHstyles: shows [2c 4s] (a full house, Deuces full of Fours)
+Mustafatyrk: mucks hand
+FHstyles collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [2s 3d 5d 2h 4c]
+Seat 3: Mustafatyrk (big blind) mucked
+Seat 4: FHstyles (button) (small blind) showed [2c 4s] and won ($59.50) with a full house, Deuces full of Fours
+
+

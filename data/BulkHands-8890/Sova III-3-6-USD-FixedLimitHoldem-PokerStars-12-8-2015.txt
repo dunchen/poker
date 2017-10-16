@@ -1,0 +1,54 @@
+PokerStars Hand #145020333489:  Hold'em Limit ($3/$6 USD) - 2015/12/08 9:46:39 ET
+Table 'Sova III' 6-max Seat #5 is the button
+Seat 3: hvegten ($270.03 in chips)
+Seat 5: Agrotait ($73 in chips)
+Agrotait: posts small blind $1
+hvegten: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+hvegten: calls $3
+*** FLOP *** [As 8c 9c]
+hvegten: checks
+Agrotait: bets $3
+hvegten: folds
+Uncalled bet ($3) returned to Agrotait
+RockKillerTY joins the table at seat #6
+Agrotait collected $11.76 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [As 8c 9c]
+Seat 3: hvegten (big blind) folded on the Flop
+Seat 5: Agrotait (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #145020349454:  Hold'em Limit ($3/$6 USD) - 2015/12/08 9:46:59 ET
+Table 'Sova III' 6-max Seat #3 is the button
+Seat 3: hvegten ($264.03 in chips)
+Seat 5: Agrotait ($78.76 in chips)
+hvegten: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+hvegten: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [3h Jd 8s]
+Agrotait: checks
+hvegten: bets $3
+Agrotait: calls $3
+*** TURN *** [3h Jd 8s] [3d]
+Agrotait: checks
+hvegten: checks
+*** RIVER *** [3h Jd 8s 3d] [4c]
+Agrotait: checks
+hvegten: checks
+*** SHOW DOWN ***
+Agrotait: shows [As 2h] (a pair of Threes)
+hvegten: mucks hand
+Agrotait collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3h Jd 8s 3d 4c]
+Seat 3: hvegten (button) (small blind) mucked
+Seat 5: Agrotait (big blind) showed [As 2h] and won ($17.64) with a pair of Threes
+
+

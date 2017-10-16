@@ -1,0 +1,56 @@
+PokerStars Hand #145159369914:  Hold'em Limit ($3/$6 USD) - 2015/12/11 1:03:25 ET
+Table 'Masaryk' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 2: _fayzulllo_ ($72 in chips)
+VolkovDmitri: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+_fayzulllo_: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [8d Qc Jd]
+_fayzulllo_: bets $3
+VolkovDmitri: folds
+Uncalled bet ($3) returned to _fayzulllo_
+_fayzulllo_ collected $17.64 from pot
+Agrotait joins the table at seat #3
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8d Qc Jd]
+Seat 1: VolkovDmitri (button) (small blind) folded on the Flop
+Seat 2: _fayzulllo_ (big blind) collected ($17.64)
+
+
+PokerStars Hand #145159661360:  Hold'em Limit ($3/$6 USD) - 2015/12/11 1:20:40 ET
+Table 'Masaryk' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($240.19 in chips)
+Seat 6: fishbla ($121.31 in chips)
+VolkovDmitri: posts small blind $1
+Agrotait: is sitting out
+fishbla: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Agrotait leaves the table
+fishbla: calls $3
+*** FLOP *** [2s 7d 7s]
+fishbla: checks
+VolkovDmitri: bets $3
+fishbla: calls $3
+*** TURN *** [2s 7d 7s] [3h]
+fishbla: checks
+VolkovDmitri: bets $6
+fishbla: calls $6
+*** RIVER *** [2s 7d 7s 3h] [Js]
+fishbla: checks
+VolkovDmitri: bets $6
+fishbla: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $29.50 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2s 7d 7s 3h Js]
+Seat 1: VolkovDmitri (button) (small blind) collected ($29.50)
+Seat 6: fishbla (big blind) folded on the River
+
+

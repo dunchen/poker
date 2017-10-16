@@ -1,0 +1,56 @@
+PokerStars Hand #168410746585:  Hold'em Limit ($3/$6 USD) - 2017/04/01 6:30:07 ET
+Table 'Aldib' 6-max Seat #3 is the button
+Seat 3: ZOGI ($152.84 in chips)
+Seat 4: AzureCaper ($72 in chips)
+ZOGI: posts small blind $1
+Krazy90 joins the table at seat #5
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+ZOGI: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [3c 8c 8d]
+AzureCaper: checks
+ZOGI: bets $3
+Ale4o joins the table at seat #6
+AzureCaper: folds
+Uncalled bet ($3) returned to ZOGI
+ZOGI collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3c 8c 8d]
+Seat 3: ZOGI (button) (small blind) collected ($11.76)
+Seat 4: AzureCaper (big blind) folded on the Flop
+
+
+PokerStars Hand #168428862975:  Hold'em Limit ($3/$6 USD) - 2017/04/01 14:16:48 ET
+Table 'Aldib' 6-max Seat #4 is the button
+Seat 1: krytalex ($86.28 in chips)
+Seat 4: HAL9QQQ ($141.35 in chips)
+HAL9QQQ: posts small blind $1
+FTotti333: is sitting out
+krytalex: posts big blind $3
+*** HOLE CARDS ***
+FTotti333 leaves the table
+HAL9QQQ: raises $3 to $6
+krytalex: calls $3
+*** FLOP *** [Ac Td 9d]
+krytalex: checks
+HAL9QQQ: bets $3
+krytalex: calls $3
+*** TURN *** [Ac Td 9d] [Ah]
+krytalex: checks
+HAL9QQQ: checks
+*** RIVER *** [Ac Td 9d Ah] [3h]
+krytalex: bets $6
+HAL9QQQ: calls $6
+*** SHOW DOWN ***
+krytalex: shows [Kd 9h] (two pair, Aces and Nines)
+HAL9QQQ: mucks hand
+krytalex collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ac Td 9d Ah 3h]
+Seat 1: krytalex (big blind) showed [Kd 9h] and won ($29.50) with two pair, Aces and Nines
+Seat 4: HAL9QQQ (button) (small blind) mucked
+
+

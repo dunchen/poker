@@ -1,0 +1,29 @@
+PokerStars Hand #174105690678:  Hold'em Limit ($3/$6 USD) - 2017/08/09 3:16:31 ET
+Table 'Isonoe' 6-max Seat #1 is the button
+Seat 1: isjo28 ($14.46 in chips)
+Seat 5: Pepperlina ($317.39 in chips)
+isjo28: posts small blind $1
+Pepperlina: posts big blind $3
+*** HOLE CARDS ***
+isjo28: raises $3 to $6
+Pepperlina: raises $3 to $9
+isjo28: raises $3 to $12
+Betting is capped
+Pepperlina: calls $3
+*** FLOP *** [2s 6h 2d]
+Pepperlina: checks
+isjo28: bets $2.46 and is all-in
+Pepperlina: calls $2.46
+*** TURN *** [2s 6h 2d] [3s]
+*** RIVER *** [2s 6h 2d 3s] [2h]
+*** SHOW DOWN ***
+Pepperlina: shows [Kd Jd] (three of a kind, Deuces)
+isjo28: shows [Js Ad] (three of a kind, Deuces - Ace kicker)
+isjo28 collected $28.42 from pot
+*** SUMMARY ***
+Total pot $28.92 | Rake $0.50
+Board [2s 6h 2d 3s 2h]
+Seat 1: isjo28 (button) (small blind) showed [Js Ad] and won ($28.42) with three of a kind, Deuces
+Seat 5: Pepperlina (big blind) showed [Kd Jd] and lost with three of a kind, Deuces
+
+

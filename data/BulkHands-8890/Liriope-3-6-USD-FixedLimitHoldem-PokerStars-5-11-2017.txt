@@ -1,0 +1,58 @@
+PokerStars Hand #170273329737:  Hold'em Limit ($3/$6 USD) - 2017/05/11 13:26:17 ET
+Table 'Liriope' 6-max Seat #4 is the button
+Seat 4: Agrotait ($72 in chips)
+Seat 5: denn69 ($35 in chips)
+Pete81 joins the table at seat #1
+Agrotait: posts small blind $1
+denn69: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+denn69: calls $3
+*** FLOP *** [Jc 9c 6h]
+denn69: checks
+Agrotait: bets $3
+denn69: raises $3 to $6
+Agrotait: raises $3 to $9
+denn69: raises $3 to $12
+Betting is capped
+Agrotait: calls $3
+*** TURN *** [Jc 9c 6h] [7s]
+denn69: bets $6
+Agrotait: raises $6 to $12
+denn69: raises $5 to $17 and is all-in
+Agrotait: calls $5
+*** RIVER *** [Jc 9c 6h 7s] [4d]
+*** SHOW DOWN ***
+denn69: shows [Qh Jh] (a pair of Jacks)
+Agrotait: shows [9d 9h] (three of a kind, Nines)
+Agrotait collected $69.50 from pot
+*** SUMMARY ***
+Total pot $70 | Rake $0.50
+Board [Jc 9c 6h 7s 4d]
+Seat 4: Agrotait (button) (small blind) showed [9d 9h] and won ($69.50) with three of a kind, Nines
+Seat 5: denn69 (big blind) showed [Qh Jh] and lost with a pair of Jacks
+
+
+PokerStars Hand #170273378074:  Hold'em Limit ($3/$6 USD) - 2017/05/11 13:27:16 ET
+Table 'Liriope' 6-max Seat #1 is the button
+Seat 1: Pete81 ($60 in chips)
+Seat 4: Agrotait ($106.50 in chips)
+Pete81: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+Pete81: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [2c 7d 5h]
+Agrotait: checks
+Pete81: bets $3
+Agrotait: folds
+Uncalled bet ($3) returned to Pete81
+Pete81 collected $11.76 from pot
+Pete81: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2c 7d 5h]
+Seat 1: Pete81 (button) (small blind) collected ($11.76)
+Seat 4: Agrotait (big blind) folded on the Flop
+
+

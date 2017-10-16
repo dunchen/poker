@@ -1,0 +1,35 @@
+PokerStars Hand #145403926229:  Hold'em Limit ($3/$6 USD) - 2015/12/15 17:18:48 ET
+Table 'Eriphyla' 2-max Seat #2 is the button
+Seat 1: elifnur2008 ($122.76 in chips)
+Seat 2: jens621 ($38.38 in chips)
+jens621: posts small blind $1
+elifnur2008: posts big blind $3
+*** HOLE CARDS ***
+jens621: raises $3 to $6
+elifnur2008: raises $3 to $9
+jens621: raises $3 to $12
+Betting is capped
+elifnur2008: calls $3
+*** FLOP *** [Kc 9d 9c]
+elifnur2008: bets $3
+jens621: calls $3
+*** TURN *** [Kc 9d 9c] [Qh]
+elifnur2008: bets $6
+jens621: raises $6 to $12
+elifnur2008: raises $6 to $18
+jens621: calls $6
+*** RIVER *** [Kc 9d 9c Qh] [Ac]
+elifnur2008: bets $6
+jens621: calls $5.38 and is all-in
+Uncalled bet ($0.62) returned to elifnur2008
+*** SHOW DOWN ***
+elifnur2008: shows [Qd Qc] (a full house, Queens full of Nines)
+jens621: shows [Ad Ts] (two pair, Aces and Nines)
+elifnur2008 collected $76.26 from pot
+*** SUMMARY ***
+Total pot $76.76 | Rake $0.50
+Board [Kc 9d 9c Qh Ac]
+Seat 1: elifnur2008 (big blind) showed [Qd Qc] and won ($76.26) with a full house, Queens full of Nines
+Seat 2: jens621 (button) (small blind) showed [Ad Ts] and lost with two pair, Aces and Nines
+
+

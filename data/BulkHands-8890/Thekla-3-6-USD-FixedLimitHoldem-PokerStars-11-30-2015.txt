@@ -1,0 +1,73 @@
+PokerStars Hand #144621285658:  Hold'em Limit ($3/$6 USD) - 2015/11/30 14:05:15 ET
+Table 'Thekla' 6-max Seat #3 is the button
+Seat 3: leifa_j ($119.09 in chips)
+Seat 4: SashaYuvelir ($72 in chips)
+leifa_j: posts small blind $1
+SashaYuvelir: posts big blind $3
+*** HOLE CARDS ***
+leifa_j: folds
+Uncalled bet ($2) returned to SashaYuvelir
+SashaYuvelir collected $2 from pot
+SashaYuvelir: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: leifa_j (button) (small blind) folded before Flop
+Seat 4: SashaYuvelir (big blind) collected ($2)
+
+
+PokerStars Hand #144621256243:  Hold'em Limit ($3/$6 USD) - 2015/11/30 14:04:46 ET
+Table 'Thekla' 6-max Seat #4 is the button
+Seat 3: leifa_j ($98.59 in chips)
+Seat 4: SashaYuvelir ($77.76 in chips)
+SashaYuvelir: posts small blind $1
+leifa_j: posts big blind $3
+*** HOLE CARDS ***
+SashaYuvelir: raises $3 to $6
+leifa_j: calls $3
+*** FLOP *** [5d 9h 7c]
+leifa_j: checks
+SashaYuvelir: bets $3
+leifa_j: calls $3
+*** TURN *** [5d 9h 7c] [Kd]
+leifa_j: checks
+SashaYuvelir: bets $6
+leifa_j: calls $6
+*** RIVER *** [5d 9h 7c Kd] [2c]
+leifa_j: checks
+SashaYuvelir: bets $6
+leifa_j: calls $6
+*** SHOW DOWN ***
+SashaYuvelir: shows [8d Th] (high card King)
+leifa_j: shows [Ah 9s] (a pair of Nines)
+leifa_j collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [5d 9h 7c Kd 2c]
+Seat 3: leifa_j (big blind) showed [Ah 9s] and won ($41.50) with a pair of Nines
+Seat 4: SashaYuvelir (button) (small blind) showed [8d Th] and lost with high card King
+
+
+PokerStars Hand #144621229639:  Hold'em Limit ($3/$6 USD) - 2015/11/30 14:04:20 ET
+Table 'Thekla' 6-max Seat #3 is the button
+Seat 3: leifa_j ($104.59 in chips)
+Seat 4: SashaYuvelir ($72 in chips)
+leifa_j: posts small blind $1
+SashaYuvelir: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec joins the table at seat #5
+leifa_j: calls $2
+SashaYuvelir: raises $3 to $6
+leifa_j: calls $3
+*** FLOP *** [7s 4c 7h]
+SashaYuvelir: bets $3
+leifa_j: folds
+Uncalled bet ($3) returned to SashaYuvelir
+SashaYuvelir collected $11.76 from pot
+SashaYuvelir: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7s 4c 7h]
+Seat 3: leifa_j (button) (small blind) folded on the Flop
+Seat 4: SashaYuvelir (big blind) collected ($11.76)
+
+

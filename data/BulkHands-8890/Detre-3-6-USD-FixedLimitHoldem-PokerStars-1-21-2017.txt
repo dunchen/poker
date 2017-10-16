@@ -1,0 +1,63 @@
+PokerStars Hand #164941801260:  Hold'em Limit ($3/$6 USD) - 2017/01/21 13:08:26 ET
+Table 'Detre' 6-max Seat #3 is the button
+Seat 2: sim5sim5 ($72 in chips)
+Seat 3: laubes04 ($128.64 in chips)
+laubes04: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+laubes04: raises $3 to $6
+sim5sim5: calls $3
+*** FLOP *** [9c Kc Ad]
+sim5sim5: checks
+laubes04: bets $3
+sim5sim5: raises $3 to $6
+laubes04: calls $3
+*** TURN *** [9c Kc Ad] [5c]
+sim5sim5: bets $6
+laubes04: calls $6
+*** RIVER *** [9c Kc Ad 5c] [Kd]
+sim5sim5: bets $6
+laubes04: raises $6 to $12
+sim5sim5: raises $6 to $18
+laubes04: calls $6
+*** SHOW DOWN ***
+sim5sim5: shows [Jc 6c] (a flush, King high)
+laubes04: mucks hand
+sim5sim5 collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [9c Kc Ad 5c Kd]
+Seat 2: sim5sim5 (big blind) showed [Jc 6c] and won ($71.50) with a flush, King high
+Seat 3: laubes04 (button) (small blind) mucked
+
+
+PokerStars Hand #164941841028:  Hold'em Limit ($3/$6 USD) - 2017/01/21 13:09:07 ET
+Table 'Detre' 6-max Seat #2 is the button
+Seat 2: sim5sim5 ($107.50 in chips)
+Seat 3: laubes04 ($92.64 in chips)
+sim5sim5: posts small blind $1
+laubes04: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+laubes04: calls $3
+*** FLOP *** [Kh 6d Qd]
+laubes04: checks
+sim5sim5: bets $3
+laubes04: raises $3 to $6
+sim5sim5: calls $3
+*** TURN *** [Kh 6d Qd] [7h]
+laubes04: bets $6
+sim5sim5: calls $6
+*** RIVER *** [Kh 6d Qd 7h] [Jd]
+laubes04: bets $6
+sim5sim5: folds
+Uncalled bet ($6) returned to laubes04
+laubes04 collected $35.50 from pot
+laubes04: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Kh 6d Qd 7h Jd]
+Seat 2: sim5sim5 (button) (small blind) folded on the River
+Seat 3: laubes04 (big blind) collected ($35.50)
+
+

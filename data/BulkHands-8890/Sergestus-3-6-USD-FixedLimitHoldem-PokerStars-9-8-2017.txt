@@ -1,0 +1,52 @@
+PokerStars Hand #175368671410:  Hold'em Limit ($3/$6 USD) - 2017/09/08 10:43:05 ET
+Table 'Sergestus' 6-max Seat #1 is the button
+Seat 1: aleks_4ym ($119.22 in chips)
+Seat 5: WriteBK ($76.93 in chips)
+aleks_4ym: posts small blind $1
+WriteBK: posts big blind $3
+*** HOLE CARDS ***
+aleks_4ym: raises $3 to $6
+WriteBK: calls $3
+*** FLOP *** [3c 9h Jh]
+WriteBK: checks
+aleks_4ym: checks
+*** TURN *** [3c 9h Jh] [2h]
+WriteBK: bets $6
+aleks_4ym: calls $6
+*** RIVER *** [3c 9h Jh 2h] [4d]
+WriteBK: bets $6
+aleks_4ym: calls $6
+*** SHOW DOWN ***
+WriteBK: shows [Qh 5c] (high card Queen)
+aleks_4ym: shows [9s Kd] (a pair of Nines)
+aleks_4ym collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [3c 9h Jh 2h 4d]
+Seat 1: aleks_4ym (button) (small blind) showed [9s Kd] and won ($35.50) with a pair of Nines
+Seat 5: WriteBK (big blind) showed [Qh 5c] and lost with high card Queen
+
+
+PokerStars Hand #175370901013:  Hold'em Limit ($3/$6 USD) - 2017/09/08 11:45:36 ET
+Table 'Sergestus' 6-max Seat #4 is the button
+Seat 3: treadmill69 ($123.41 in chips)
+Seat 4: aleks_4ym ($112.64 in chips)
+aleks_4ym: posts small blind $1
+treadmill69: posts big blind $3
+*** HOLE CARDS ***
+aleks_4ym: raises $3 to $6
+treadmill69: calls $3
+*** FLOP *** [6c Kh Jh]
+treadmill69: checks
+aleks_4ym: bets $3
+treadmill69: folds
+Uncalled bet ($3) returned to aleks_4ym
+aleks_4ym collected $11.76 from pot
+aleks_4ym: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6c Kh Jh]
+Seat 3: treadmill69 (big blind) folded on the Flop
+Seat 4: aleks_4ym (button) (small blind) collected ($11.76)
+
+

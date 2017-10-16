@@ -1,0 +1,31 @@
+PokerStars Hand #156720809459:  Hold'em Limit ($3/$6 USD) - 2016/08/01 9:02:15 ET
+Table 'Apollonia' 10-max Seat #5 is the button
+Seat 5: simper11 ($120 in chips)
+Seat 6: Jeeees ($60 in chips)
+simper11: posts small blind $1
+Jeeees: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+Jeeees: calls $3
+*** FLOP *** [Qs 3c Jc]
+Jeeees: checks
+simper11: bets $3
+ei0820 joins the table at seat #8
+Jeeees: calls $3
+*** TURN *** [Qs 3c Jc] [3d]
+Jeeees: checks
+simper11: checks
+*** RIVER *** [Qs 3c Jc 3d] [4s]
+Jeeees: bets $6
+simper11: calls $6
+*** SHOW DOWN ***
+Jeeees: shows [8c Qc] (two pair, Queens and Threes)
+simper11: mucks hand
+Jeeees collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qs 3c Jc 3d 4s]
+Seat 5: simper11 (button) (small blind) mucked
+Seat 6: Jeeees (big blind) showed [8c Qc] and won ($29.50) with two pair, Queens and Threes
+
+

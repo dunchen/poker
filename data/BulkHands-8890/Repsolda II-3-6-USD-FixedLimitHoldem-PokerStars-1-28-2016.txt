@@ -1,0 +1,117 @@
+PokerStars Hand #147834420214:  Hold'em Limit ($3/$6 USD) - 2016/01/28 14:33:37 ET
+Table 'Repsolda II' 10-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 7: runeselnes10 ($161.50 in chips)
+VolkovDmitri: posts small blind $1
+runeselnes10: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+runeselnes10: calls $3
+*** FLOP *** [3s 8h 4h]
+runeselnes10: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [3s 8h 4h] [Tc]
+runeselnes10: checks
+VolkovDmitri: checks
+*** RIVER *** [3s 8h 4h Tc] [Ad]
+runeselnes10: checks
+VolkovDmitri: bets $6
+runeselnes10: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Ah 5h] (a pair of Aces)
+runeselnes10: mucks hand
+VolkovDmitri collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3s 8h 4h Tc Ad]
+Seat 1: VolkovDmitri (button) (small blind) showed [Ah 5h] and won ($29.50) with a pair of Aces
+Seat 7: runeselnes10 (big blind) mucked
+
+
+PokerStars Hand #147834357726:  Hold'em Limit ($3/$6 USD) - 2016/01/28 14:32:37 ET
+Table 'Repsolda II' 10-max Seat #7 is the button
+Seat 1: VolkovDmitri ($128.64 in chips)
+Seat 7: runeselnes10 ($111 in chips)
+runeselnes10: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+runeselnes10: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [5h 7c Ac]
+BelSv joins the table at seat #9
+VolkovDmitri: checks
+runeselnes10: bets $3
+VolkovDmitri: raises $3 to $6
+runeselnes10: raises $3 to $9
+VolkovDmitri: calls $3
+*** TURN *** [5h 7c Ac] [6s]
+VolkovDmitri: checks
+runeselnes10: bets $6
+VolkovDmitri: raises $6 to $12
+runeselnes10: raises $6 to $18
+VolkovDmitri: raises $6 to $24
+Betting is capped
+runeselnes10: calls $6
+*** RIVER *** [5h 7c Ac 6s] [7h]
+VolkovDmitri: bets $6
+runeselnes10: raises $6 to $12
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+runeselnes10: shows [8h 9c] (a straight, Five to Nine)
+VolkovDmitri: mucks hand
+runeselnes10 collected $101.50 from pot
+*** SUMMARY ***
+Total pot $102 | Rake $0.50
+Board [5h 7c Ac 6s 7h]
+Seat 1: VolkovDmitri (big blind) mucked
+Seat 7: runeselnes10 (button) (small blind) showed [8h 9c] and won ($101.50) with a straight, Five to Nine
+
+
+PokerStars Hand #147834827619:  Hold'em Limit ($3/$6 USD) - 2016/01/28 14:40:01 ET
+Table 'Repsolda II' 10-max Seat #4 is the button
+Seat 3: Solist62119 ($36.95 in chips)
+Seat 4: Rmk1500 ($42.61 in chips)
+Rmk1500: posts small blind $1
+BelSv: is sitting out
+Solist62119: posts big blind $3
+*** HOLE CARDS ***
+Rmk1500: raises $3 to $6
+Solist62119: calls $3
+*** FLOP *** [As 7d Jh]
+Solist62119: checks
+BelSv leaves the table
+Rmk1500: bets $3
+Solist62119: calls $3
+*** TURN *** [As 7d Jh] [Qd]
+Solist62119: checks
+Rmk1500: checks
+*** RIVER *** [As 7d Jh Qd] [Ac]
+Solist62119: bets $6
+Rmk1500: folds
+Uncalled bet ($6) returned to Solist62119
+Solist62119 collected $17.64 from pot
+Solist62119: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [As 7d Jh Qd Ac]
+Seat 3: Solist62119 (big blind) collected ($17.64)
+Seat 4: Rmk1500 (button) (small blind) folded on the River
+
+
+PokerStars Hand #147834854414:  Hold'em Limit ($3/$6 USD) - 2016/01/28 14:40:26 ET
+Table 'Repsolda II' 10-max Seat #3 is the button
+Seat 3: Solist62119 ($45.59 in chips)
+Seat 4: Rmk1500 ($33.61 in chips)
+Solist62119: posts small blind $1
+Rmk1500: posts big blind $3
+*** HOLE CARDS ***
+Solist62119: folds
+Uncalled bet ($2) returned to Rmk1500
+Solist62119 leaves the table
+Rmk1500 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: Solist62119 (button) (small blind) folded before Flop
+Seat 4: Rmk1500 (big blind) collected ($2)
+
+

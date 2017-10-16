@@ -1,0 +1,54 @@
+PokerStars Hand #152521642120:  Hold'em Limit ($3/$6 USD) - 2016/04/27 11:43:38 ET
+Table 'Olshaniya' 6-max Seat #3 is the button
+Seat 3: BBlackkk ($30 in chips)
+Seat 4: Agrotait ($72 in chips)
+BBlackkk: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+BBlackkk: raises $3 to $6
+Agrotait: raises $3 to $9
+craaa joins the table at seat #5
+BBlackkk: calls $3
+*** FLOP *** [5s 5h 2s]
+Agrotait: bets $3
+BBlackkk: calls $3
+*** TURN *** [5s 5h 2s] [3s]
+Agrotait: bets $6
+BBlackkk: folds
+Uncalled bet ($6) returned to Agrotait
+Agrotait collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [5s 5h 2s 3s]
+Seat 3: BBlackkk (button) (small blind) folded on the Turn
+Seat 4: Agrotait (big blind) collected ($23.52)
+
+
+PokerStars Hand #152521652559:  Hold'em Limit ($3/$6 USD) - 2016/04/27 11:43:53 ET
+Table 'Olshaniya' 6-max Seat #4 is the button
+Seat 3: BBlackkk ($18 in chips)
+Seat 4: Agrotait ($83.52 in chips)
+Agrotait: posts small blind $1
+BBlackkk: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+BBlackkk: raises $3 to $9
+Agrotait: calls $3
+*** FLOP *** [8c Td Ah]
+BBlackkk: bets $3
+Agrotait: calls $3
+*** TURN *** [8c Td Ah] [7s]
+BBlackkk: bets $6 and is all-in
+Agrotait: calls $6
+*** RIVER *** [8c Td Ah 7s] [4d]
+*** SHOW DOWN ***
+BBlackkk: shows [9d Tc] (a pair of Tens)
+Agrotait: shows [Qc Qs] (a pair of Queens)
+Agrotait collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [8c Td Ah 7s 4d]
+Seat 3: BBlackkk (big blind) showed [9d Tc] and lost with a pair of Tens
+Seat 4: Agrotait (button) (small blind) showed [Qc Qs] and won ($35.50) with a pair of Queens
+
+

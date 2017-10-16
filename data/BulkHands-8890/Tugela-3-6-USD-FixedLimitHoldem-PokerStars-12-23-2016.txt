@@ -1,0 +1,35 @@
+PokerStars Hand #163404858872:  Hold'em Limit ($3/$6 USD) - 2016/12/23 14:06:22 ET
+Table 'Tugela' 6-max Seat #4 is the button
+Seat 3: slavii0o0 ($35 in chips)
+Seat 4: AzureCaper ($77 in chips)
+AzureCaper: posts small blind $1
+slavii0o0: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+slavii0o0: calls $3
+*** FLOP *** [Ac 8s Ad]
+slavii0o0: checks
+AzureCaper: bets $3
+slavii0o0: calls $3
+*** TURN *** [Ac 8s Ad] [7s]
+slavii0o0: checks
+AzureCaper: bets $6
+slavii0o0: raises $6 to $12
+AzureCaper: raises $6 to $18
+slavii0o0: raises $6 to $24
+Betting is capped
+AzureCaper: calls $6
+*** RIVER *** [Ac 8s Ad 7s] [Qs]
+slavii0o0: bets $2 and is all-in
+AzureCaper: calls $2
+*** SHOW DOWN ***
+slavii0o0: shows [6d 8d] (two pair, Aces and Eights)
+AzureCaper: shows [7d 7c] (a full house, Sevens full of Aces)
+AzureCaper collected $69.50 from pot
+*** SUMMARY ***
+Total pot $70 | Rake $0.50
+Board [Ac 8s Ad 7s Qs]
+Seat 3: slavii0o0 (big blind) showed [6d 8d] and lost with two pair, Aces and Eights
+Seat 4: AzureCaper (button) (small blind) showed [7d 7c] and won ($69.50) with a full house, Sevens full of Aces
+
+

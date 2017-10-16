@@ -1,0 +1,60 @@
+PokerStars Hand #145142719577:  Hold'em Limit ($3/$6 USD) - 2015/12/10 16:26:33 ET
+Table 'Kamenyar' 2-max Seat #2 is the button
+Seat 1: elifnur2008 ($112.47 in chips)
+Seat 2: warrior676 ($41.31 in chips)
+warrior676: posts small blind $1
+elifnur2008: posts big blind $3
+*** HOLE CARDS ***
+warrior676: raises $3 to $6
+elifnur2008: raises $3 to $9
+warrior676: raises $3 to $12
+Betting is capped
+elifnur2008: calls $3
+*** FLOP *** [2h 9s Th]
+elifnur2008: bets $3
+warrior676: calls $3
+*** TURN *** [2h 9s Th] [Jd]
+elifnur2008: bets $6
+warrior676: calls $6
+*** RIVER *** [2h 9s Th Jd] [Ad]
+elifnur2008: bets $6
+warrior676: calls $6
+*** SHOW DOWN ***
+elifnur2008: shows [Ah As] (three of a kind, Aces)
+warrior676: mucks hand
+elifnur2008 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [2h 9s Th Jd Ad]
+Seat 1: elifnur2008 (big blind) showed [Ah As] and won ($53.50) with three of a kind, Aces
+Seat 2: warrior676 (button) (small blind) mucked
+
+
+PokerStars Hand #145142738009:  Hold'em Limit ($3/$6 USD) - 2015/12/10 16:26:53 ET
+Table 'Kamenyar' 2-max Seat #1 is the button
+Seat 1: elifnur2008 ($138.97 in chips)
+Seat 2: warrior676 ($14.31 in chips)
+elifnur2008: posts small blind $1
+warrior676: posts big blind $3
+*** HOLE CARDS ***
+elifnur2008: raises $3 to $6
+warrior676: raises $3 to $9
+elifnur2008: raises $3 to $12
+Betting is capped
+warrior676: calls $3
+*** FLOP *** [2d 6c 4d]
+warrior676: bets $2.31 and is all-in
+elifnur2008: calls $2.31
+*** TURN *** [2d 6c 4d] [6h]
+*** RIVER *** [2d 6c 4d 6h] [Kd]
+*** SHOW DOWN ***
+warrior676: shows [Ah 4h] (two pair, Sixes and Fours)
+elifnur2008: shows [Kh Jh] (two pair, Kings and Sixes)
+elifnur2008 collected $28.12 from pot
+*** SUMMARY ***
+Total pot $28.62 | Rake $0.50
+Board [2d 6c 4d 6h Kd]
+Seat 1: elifnur2008 (button) (small blind) showed [Kh Jh] and won ($28.12) with two pair, Kings and Sixes
+Seat 2: warrior676 (big blind) showed [Ah 4h] and lost with two pair, Sixes and Fours
+
+

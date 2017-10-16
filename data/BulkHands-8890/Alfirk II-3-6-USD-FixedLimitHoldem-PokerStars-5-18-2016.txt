@@ -1,0 +1,50 @@
+PokerStars Hand #153490593007:  Hold'em Limit ($3/$6 USD) - 2016/05/18 10:00:41 ET
+Table 'Alfirk II' 6-max Seat #2 is the button
+Seat 1: frazerchi ($29 in chips)
+Seat 2: B_loJkl ($151 in chips)
+B_loJkl: posts small blind $1
+frazerchi: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88 leaves the table
+B_loJkl: raises $3 to $6
+frazerchi: calls $3
+*** FLOP *** [Tc 3s 9d]
+frazerchi: bets $3
+B_loJkl: calls $3
+*** TURN *** [Tc 3s 9d] [Kh]
+frazerchi: bets $6
+B_loJkl: raises $6 to $12
+frazerchi: raises $6 to $18
+B_loJkl: raises $6 to $24
+Betting is capped
+frazerchi: calls $2 and is all-in
+Uncalled bet ($4) returned to B_loJkl
+*** RIVER *** [Tc 3s 9d Kh] [4c]
+*** SHOW DOWN ***
+frazerchi: shows [5h Td] (a pair of Tens)
+B_loJkl: shows [Jh Js] (a pair of Jacks)
+B_loJkl collected $57.50 from pot
+*** SUMMARY ***
+Total pot $58 | Rake $0.50
+Board [Tc 3s 9d Kh 4c]
+Seat 1: frazerchi (big blind) showed [5h Td] and lost with a pair of Tens
+Seat 2: B_loJkl (button) (small blind) showed [Jh Js] and won ($57.50) with a pair of Jacks
+
+
+PokerStars Hand #153490585956:  Hold'em Limit ($3/$6 USD) - 2016/05/18 10:00:28 ET
+Table 'Alfirk II' 6-max Seat #1 is the button
+Seat 1: frazerchi ($30 in chips)
+Seat 2: B_loJkl ($150 in chips)
+frazerchi: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+frazerchi: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: frazerchi (button) (small blind) folded before Flop
+Seat 2: B_loJkl (big blind) collected ($2)
+
+

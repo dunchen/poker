@@ -1,0 +1,32 @@
+PokerStars Hand #176555322294:  Hold'em Limit ($3/$6 USD) - 2017/10/06 6:23:26 ET
+Table 'Pawlowia' 6-max Seat #3 is the button
+Seat 2: mitch4242 ($44 in chips)
+Seat 3: Sirocko ($143.32 in chips)
+Sirocko: posts small blind $1
+Kasperla: is sitting out
+mitch4242: posts big blind $3
+*** HOLE CARDS ***
+Sirocko: raises $3 to $6
+mitch4242: raises $3 to $9
+Sirocko: calls $3
+*** FLOP *** [5h 9d 4h]
+mitch4242: bets $3
+Sirocko: calls $3
+*** TURN *** [5h 9d 4h] [Kc]
+Kasperla leaves the table
+mitch4242: bets $6
+Sirocko: calls $6
+*** RIVER *** [5h 9d 4h Kc] [Ad]
+mitch4242: bets $6
+Sirocko: calls $6
+*** SHOW DOWN ***
+mitch4242: shows [7s 6c] (high card Ace)
+Sirocko: shows [Tc 4c] (a pair of Fours)
+Sirocko collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [5h 9d 4h Kc Ad]
+Seat 2: mitch4242 (big blind) showed [7s 6c] and lost with high card Ace
+Seat 3: Sirocko (button) (small blind) showed [Tc 4c] and won ($47.50) with a pair of Fours
+
+

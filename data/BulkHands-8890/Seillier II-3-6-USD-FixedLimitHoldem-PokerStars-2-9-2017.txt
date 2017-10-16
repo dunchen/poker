@@ -1,0 +1,32 @@
+PokerStars Hand #165947760993:  Hold'em Limit ($3/$6 USD) - 2017/02/09 14:41:40 ET
+Table 'Seillier II' 6-max Seat #6 is the button
+Seat 3: mikolo33 ($36.26 in chips)
+Seat 6: maj783 ($38.72 in chips)
+maj783: posts small blind $1
+mikolo33: posts big blind $3
+*** HOLE CARDS ***
+maj783: raises $3 to $6
+mikolo33: calls $3
+*** FLOP *** [4s Ad 8d]
+mikolo33: checks
+maj783: bets $3
+mikolo33: calls $3
+*** TURN *** [4s Ad 8d] [3d]
+mikolo33: checks
+maj783: bets $6
+mikolo33: calls $6
+*** RIVER *** [4s Ad 8d 3d] [As]
+mikolo33: checks
+maj783: checks
+*** SHOW DOWN ***
+mikolo33: shows [9s 5c] (a pair of Aces)
+maj783: shows [9h 9c] (two pair, Aces and Nines)
+Jack_Wu1985 joins the table at seat #5
+maj783 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4s Ad 8d 3d As]
+Seat 3: mikolo33 (big blind) showed [9s 5c] and lost with a pair of Aces
+Seat 6: maj783 (button) (small blind) showed [9h 9c] and won ($29.50) with two pair, Aces and Nines
+
+

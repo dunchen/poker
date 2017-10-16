@@ -1,0 +1,911 @@
+PokerStars Hand #172941622603:  Hold'em Limit ($3/$6 USD) - 2017/07/12 13:20:53 ET
+Table 'Mathilde II' 6-max Seat #3 is the button
+Seat 3: Rus29APX ($120 in chips)
+Seat 6: CatPuppy1999 ($77.50 in chips)
+Rus29APX: posts small blind $1
+CatPuppy1999: posts big blind $3
+*** HOLE CARDS ***
+Rus29APX: raises $3 to $6
+CatPuppy1999: calls $3
+*** FLOP *** [6s Qs 7d]
+CatPuppy1999: checks
+Rus29APX: bets $3
+CatPuppy1999: calls $3
+*** TURN *** [6s Qs 7d] [3h]
+CatPuppy1999: checks
+Rus29APX: bets $6
+CatPuppy1999: calls $6
+*** RIVER *** [6s Qs 7d 3h] [7c]
+CatPuppy1999: checks
+kusznak joins the table at seat #2
+Rus29APX: bets $6
+CatPuppy1999: calls $6
+*** SHOW DOWN ***
+Rus29APX: shows [As Qh] (two pair, Queens and Sevens)
+CatPuppy1999: mucks hand
+Rus29APX collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [6s Qs 7d 3h 7c]
+Seat 3: Rus29APX (button) (small blind) showed [As Qh] and won ($41.50) with two pair, Queens and Sevens
+Seat 6: CatPuppy1999 (big blind) mucked
+
+
+PokerStars Hand #172941773694:  Hold'em Limit ($3/$6 USD) - 2017/07/12 13:24:24 ET
+Table 'Mathilde II' 6-max Seat #2 is the button
+Seat 2: kusznak ($50 in chips)
+Seat 6: CatPuppy1999 ($110.40 in chips)
+kusznak: posts small blind $1
+CatPuppy1999: posts big blind $3
+*** HOLE CARDS ***
+kusznak: raises $3 to $6
+CatPuppy1999: calls $3
+*** FLOP *** [2c 9h Kh]
+CatPuppy1999: checks
+kusznak: bets $3
+CatPuppy1999: raises $3 to $6
+kusznak: folds
+Uncalled bet ($3) returned to CatPuppy1999
+CatPuppy1999 collected $17.64 from pot
+CatPuppy1999: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2c 9h Kh]
+Seat 2: kusznak (button) (small blind) folded on the Flop
+Seat 6: CatPuppy1999 (big blind) collected ($17.64)
+
+
+PokerStars Hand #172941755096:  Hold'em Limit ($3/$6 USD) - 2017/07/12 13:23:58 ET
+Table 'Mathilde II' 6-max Seat #2 is the button
+Seat 2: kusznak ($78 in chips)
+Seat 6: CatPuppy1999 ($82.90 in chips)
+kusznak: posts small blind $1
+Rus29APX: is sitting out
+CatPuppy1999: posts big blind $3
+*** HOLE CARDS ***
+kusznak: folds
+Uncalled bet ($2) returned to CatPuppy1999
+CatPuppy1999 collected $2 from pot
+CatPuppy1999: doesn't show hand
+Rus29APX leaves the table
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: kusznak (button) (small blind) folded before Flop
+Seat 6: CatPuppy1999 (big blind) collected ($2)
+
+
+PokerStars Hand #172941758796:  Hold'em Limit ($3/$6 USD) - 2017/07/12 13:24:03 ET
+Table 'Mathilde II' 6-max Seat #6 is the button
+Seat 2: kusznak ($77 in chips)
+Seat 6: CatPuppy1999 ($83.90 in chips)
+CatPuppy1999: posts small blind $1
+kusznak: posts big blind $3
+*** HOLE CARDS ***
+CatPuppy1999: raises $3 to $6
+kusznak: raises $3 to $9
+CatPuppy1999: calls $3
+*** FLOP *** [Qc Kc 3s]
+kusznak: bets $3
+CatPuppy1999: raises $3 to $6
+kusznak: calls $3
+*** TURN *** [Qc Kc 3s] [6s]
+kusznak: checks
+CatPuppy1999: bets $6
+kusznak: calls $6
+*** RIVER *** [Qc Kc 3s 6s] [9s]
+kusznak: checks
+CatPuppy1999: bets $6
+kusznak: calls $6
+*** SHOW DOWN ***
+CatPuppy1999: shows [7s Js] (a flush, Jack high)
+kusznak: mucks hand
+CatPuppy1999 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Qc Kc 3s 6s 9s]
+Seat 2: kusznak (big blind) mucked
+Seat 6: CatPuppy1999 (button) (small blind) showed [7s Js] and won ($53.50) with a flush, Jack high
+
+
+PokerStars Hand #172941781194:  Hold'em Limit ($3/$6 USD) - 2017/07/12 13:24:35 ET
+Table 'Mathilde II' 6-max Seat #6 is the button
+Seat 2: kusznak ($41 in chips)
+Seat 6: CatPuppy1999 ($119.04 in chips)
+CatPuppy1999: posts small blind $1
+kusznak: posts big blind $3
+*** HOLE CARDS ***
+CatPuppy1999: raises $3 to $6
+kusznak: raises $3 to $9
+CatPuppy1999: calls $3
+*** FLOP *** [Ac 5h Ts]
+kusznak: bets $3
+CatPuppy1999: calls $3
+*** TURN *** [Ac 5h Ts] [2h]
+kusznak: bets $6
+CatPuppy1999: calls $6
+*** RIVER *** [Ac 5h Ts 2h] [5c]
+kusznak: bets $6
+CatPuppy1999: calls $6
+*** SHOW DOWN ***
+kusznak: shows [5s 2s] (a full house, Fives full of Deuces)
+CatPuppy1999: mucks hand
+kusznak collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Ac 5h Ts 2h 5c]
+Seat 2: kusznak (big blind) showed [5s 2s] and won ($47.50) with a full house, Fives full of Deuces
+Seat 6: CatPuppy1999 (button) (small blind) mucked
+
+
+PokerStars Hand #172941818563:  Hold'em Limit ($3/$6 USD) - 2017/07/12 13:25:19 ET
+Table 'Mathilde II' 6-max Seat #6 is the button
+Seat 2: kusznak ($97 in chips)
+Seat 6: CatPuppy1999 ($72 in chips)
+CatPuppy1999: posts small blind $1
+kusznak: posts big blind $3
+*** HOLE CARDS ***
+CatPuppy1999: raises $3 to $6
+kusznak: calls $3
+*** FLOP *** [6h Qc 7h]
+kusznak: checks
+CatPuppy1999: bets $3
+kusznak: folds
+Uncalled bet ($3) returned to CatPuppy1999
+CatPuppy1999 collected $11.76 from pot
+CatPuppy1999: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6h Qc 7h]
+Seat 2: kusznak (big blind) folded on the Flop
+Seat 6: CatPuppy1999 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #172941793601:  Hold'em Limit ($3/$6 USD) - 2017/07/12 13:24:52 ET
+Table 'Mathilde II' 6-max Seat #2 is the button
+Seat 2: kusznak ($64.50 in chips)
+Seat 6: CatPuppy1999 ($95.04 in chips)
+kusznak: posts small blind $1
+CatPuppy1999: posts big blind $3
+*** HOLE CARDS ***
+kusznak: raises $3 to $6
+CatPuppy1999: calls $3
+*** FLOP *** [6d 5h Kh]
+CatPuppy1999: checks
+kusznak: bets $3
+CatPuppy1999: calls $3
+*** TURN *** [6d 5h Kh] [Jh]
+CatPuppy1999: checks
+kusznak: bets $6
+CatPuppy1999: raises $6 to $12
+kusznak: raises $6 to $18
+CatPuppy1999: calls $6
+*** RIVER *** [6d 5h Kh Jh] [2s]
+CatPuppy1999: checks
+kusznak: bets $6
+CatPuppy1999: calls $6
+*** SHOW DOWN ***
+kusznak: shows [Qc Kd] (a pair of Kings)
+CatPuppy1999: mucks hand
+kusznak collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [6d 5h Kh Jh 2s]
+Seat 2: kusznak (button) (small blind) showed [Qc Kd] and won ($65.50) with a pair of Kings
+Seat 6: CatPuppy1999 (big blind) mucked
+
+
+PokerStars Hand #172941857550:  Hold'em Limit ($3/$6 USD) - 2017/07/12 13:26:13 ET
+Table 'Mathilde II' 6-max Seat #2 is the button
+Seat 2: kusznak ($93.50 in chips)
+Seat 6: CatPuppy1999 ($74.26 in chips)
+kusznak: posts small blind $1
+CatPuppy1999: posts big blind $3
+*** HOLE CARDS ***
+kusznak: raises $3 to $6
+CatPuppy1999: calls $3
+*** FLOP *** [9s 3d Js]
+CatPuppy1999: checks
+kusznak: bets $3
+CatPuppy1999: calls $3
+*** TURN *** [9s 3d Js] [5c]
+CatPuppy1999: checks
+kusznak: checks
+*** RIVER *** [9s 3d Js 5c] [Ad]
+CatPuppy1999: bets $6
+kusznak: folds
+Uncalled bet ($6) returned to CatPuppy1999
+CatPuppy1999 collected $17.64 from pot
+CatPuppy1999: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9s 3d Js 5c Ad]
+Seat 2: kusznak (button) (small blind) folded on the River
+Seat 6: CatPuppy1999 (big blind) collected ($17.64)
+
+
+PokerStars Hand #172941844884:  Hold'em Limit ($3/$6 USD) - 2017/07/12 13:25:56 ET
+Table 'Mathilde II' 6-max Seat #6 is the button
+Seat 2: kusznak ($76 in chips)
+Seat 6: CatPuppy1999 ($92.26 in chips)
+CatPuppy1999: posts small blind $1
+kusznak: posts big blind $3
+*** HOLE CARDS ***
+CatPuppy1999: raises $3 to $6
+kusznak: calls $3
+*** FLOP *** [7h 6h 5d]
+kusznak: checks
+CatPuppy1999: checks
+*** TURN *** [7h 6h 5d] [Jh]
+kusznak: checks
+CatPuppy1999: bets $6
+kusznak: calls $6
+*** RIVER *** [7h 6h 5d Jh] [Qc]
+kusznak: checks
+CatPuppy1999: bets $6
+kusznak: calls $6
+*** SHOW DOWN ***
+CatPuppy1999: shows [Th 8d] (high card Queen)
+kusznak: shows [4d Ac] (high card Ace)
+kusznak collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [7h 6h 5d Jh Qc]
+Seat 2: kusznak (big blind) showed [4d Ac] and won ($35.50) with high card Ace
+Seat 6: CatPuppy1999 (button) (small blind) showed [Th 8d] and lost with high card Queen
+
+
+PokerStars Hand #172941827341:  Hold'em Limit ($3/$6 USD) - 2017/07/12 13:25:31 ET
+Table 'Mathilde II' 6-max Seat #2 is the button
+Seat 2: kusznak ($91 in chips)
+Seat 6: CatPuppy1999 ($77.76 in chips)
+kusznak: posts small blind $1
+CatPuppy1999: posts big blind $3
+*** HOLE CARDS ***
+kusznak: raises $3 to $6
+SLK500 joins the table at seat #1
+CatPuppy1999: calls $3
+*** FLOP *** [7s Ad Js]
+CatPuppy1999: checks
+kusznak: bets $3
+CatPuppy1999: calls $3
+*** TURN *** [7s Ad Js] [8d]
+CatPuppy1999: checks
+kusznak: checks
+*** RIVER *** [7s Ad Js 8d] [3c]
+CatPuppy1999: bets $6
+kusznak: calls $6
+SLK500 leaves the table
+*** SHOW DOWN ***
+CatPuppy1999: shows [Ah 2d] (a pair of Aces)
+kusznak: mucks hand
+CatPuppy1999 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7s Ad Js 8d 3c]
+Seat 2: kusznak (button) (small blind) mucked
+Seat 6: CatPuppy1999 (big blind) showed [Ah 2d] and won ($29.50) with a pair of Aces
+
+
+PokerStars Hand #172941889945:  Hold'em Limit ($3/$6 USD) - 2017/07/12 13:26:59 ET
+Table 'Mathilde II' 6-max Seat #2 is the button
+Seat 2: kusznak ($54.50 in chips)
+Seat 6: CatPuppy1999 ($112.40 in chips)
+kusznak: posts small blind $1
+CatPuppy1999: posts big blind $3
+*** HOLE CARDS ***
+kusznak: raises $3 to $6
+CatPuppy1999: calls $3
+*** FLOP *** [3s 2c 4s]
+CatPuppy1999: checks
+kusznak: bets $3
+CatPuppy1999: raises $3 to $6
+kusznak: calls $3
+*** TURN *** [3s 2c 4s] [Kc]
+CatPuppy1999: bets $6
+kusznak: raises $6 to $12
+CatPuppy1999: calls $6
+*** RIVER *** [3s 2c 4s Kc] [Jc]
+CatPuppy1999: checks
+kusznak: bets $6
+CatPuppy1999: calls $6
+*** SHOW DOWN ***
+kusznak: shows [Kh 6h] (a pair of Kings)
+CatPuppy1999: mucks hand
+kusznak collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [3s 2c 4s Kc Jc]
+Seat 2: kusznak (button) (small blind) showed [Kh 6h] and won ($59.50) with a pair of Kings
+Seat 6: CatPuppy1999 (big blind) mucked
+
+
+PokerStars Hand #172941871372:  Hold'em Limit ($3/$6 USD) - 2017/07/12 13:26:33 ET
+Table 'Mathilde II' 6-max Seat #6 is the button
+Seat 2: kusznak ($84.50 in chips)
+Seat 6: CatPuppy1999 ($82.90 in chips)
+CatPuppy1999: posts small blind $1
+kusznak: posts big blind $3
+*** HOLE CARDS ***
+CatPuppy1999: raises $3 to $6
+kusznak: calls $3
+*** FLOP *** [5h 7c 4s]
+kusznak: checks
+CatPuppy1999: bets $3
+kusznak: raises $3 to $6
+CatPuppy1999: calls $3
+*** TURN *** [5h 7c 4s] [9h]
+kusznak: bets $6
+CatPuppy1999: raises $6 to $12
+kusznak: calls $6
+*** RIVER *** [5h 7c 4s 9h] [4d]
+kusznak: checks
+CatPuppy1999: bets $6
+kusznak: calls $6
+*** SHOW DOWN ***
+CatPuppy1999: shows [7d Td] (two pair, Sevens and Fours)
+kusznak: mucks hand
+CatPuppy1999 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [5h 7c 4s 9h 4d]
+Seat 2: kusznak (big blind) mucked
+Seat 6: CatPuppy1999 (button) (small blind) showed [7d Td] and won ($59.50) with two pair, Sevens and Fours
+
+
+PokerStars Hand #172941908014:  Hold'em Limit ($3/$6 USD) - 2017/07/12 13:27:24 ET
+Table 'Mathilde II' 6-max Seat #6 is the button
+Seat 2: kusznak ($84 in chips)
+Seat 6: CatPuppy1999 ($82.40 in chips)
+CatPuppy1999: posts small blind $1
+kusznak: posts big blind $3
+*** HOLE CARDS ***
+CatPuppy1999: raises $3 to $6
+kusznak: folds
+Uncalled bet ($3) returned to CatPuppy1999
+CatPuppy1999 collected $6 from pot
+CatPuppy1999: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: kusznak (big blind) folded before Flop
+Seat 6: CatPuppy1999 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #172941919255:  Hold'em Limit ($3/$6 USD) - 2017/07/12 13:27:40 ET
+Table 'Mathilde II' 6-max Seat #6 is the button
+Seat 2: kusznak ($86.76 in chips)
+Seat 6: CatPuppy1999 ($79.40 in chips)
+CatPuppy1999: posts small blind $1
+kusznak: posts big blind $3
+*** HOLE CARDS ***
+CatPuppy1999: folds
+Uncalled bet ($2) returned to kusznak
+kusznak collected $2 from pot
+kusznak: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: kusznak (big blind) collected ($2)
+Seat 6: CatPuppy1999 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #172941913059:  Hold'em Limit ($3/$6 USD) - 2017/07/12 13:27:31 ET
+Table 'Mathilde II' 6-max Seat #2 is the button
+Seat 2: kusznak ($81 in chips)
+Seat 6: CatPuppy1999 ($85.40 in chips)
+kusznak: posts small blind $1
+CatPuppy1999: posts big blind $3
+*** HOLE CARDS ***
+kusznak: raises $3 to $6
+CatPuppy1999: calls $3
+*** FLOP *** [Qd 2d Ac]
+CatPuppy1999: checks
+kusznak: bets $3
+CatPuppy1999: folds
+Uncalled bet ($3) returned to kusznak
+kusznak collected $11.76 from pot
+kusznak: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qd 2d Ac]
+Seat 2: kusznak (button) (small blind) collected ($11.76)
+Seat 6: CatPuppy1999 (big blind) folded on the Flop
+
+
+PokerStars Hand #172941943899:  Hold'em Limit ($3/$6 USD) - 2017/07/12 13:28:15 ET
+Table 'Mathilde II' 6-max Seat #2 is the button
+Seat 2: kusznak ($66.76 in chips)
+Seat 6: CatPuppy1999 ($98.90 in chips)
+kusznak: posts small blind $1
+CatPuppy1999: posts big blind $3
+*** HOLE CARDS ***
+kusznak: raises $3 to $6
+CatPuppy1999: calls $3
+*** FLOP *** [Jc 4h 8c]
+CatPuppy1999: checks
+kusznak: bets $3
+CatPuppy1999: calls $3
+*** TURN *** [Jc 4h 8c] [7c]
+CatPuppy1999: checks
+kusznak: bets $6
+CatPuppy1999: calls $6
+*** RIVER *** [Jc 4h 8c 7c] [Jh]
+CatPuppy1999: checks
+kusznak: checks
+*** SHOW DOWN ***
+CatPuppy1999: shows [7h Ac] (two pair, Jacks and Sevens)
+kusznak: mucks hand
+CatPuppy1999 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Jc 4h 8c 7c Jh]
+Seat 2: kusznak (button) (small blind) mucked
+Seat 6: CatPuppy1999 (big blind) showed [7h Ac] and won ($29.50) with two pair, Jacks and Sevens
+
+
+PokerStars Hand #172941922741:  Hold'em Limit ($3/$6 USD) - 2017/07/12 13:27:45 ET
+Table 'Mathilde II' 6-max Seat #2 is the button
+Seat 2: kusznak ($87.76 in chips)
+Seat 6: CatPuppy1999 ($78.40 in chips)
+kusznak: posts small blind $1
+CatPuppy1999: posts big blind $3
+*** HOLE CARDS ***
+kusznak: raises $3 to $6
+CatPuppy1999: folds
+Uncalled bet ($3) returned to kusznak
+kusznak collected $6 from pot
+kusznak: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: kusznak (button) (small blind) collected ($6)
+Seat 6: CatPuppy1999 (big blind) folded before Flop
+
+
+PokerStars Hand #172942001378:  Hold'em Limit ($3/$6 USD) - 2017/07/12 13:29:36 ET
+Table 'Mathilde II' 6-max Seat #6 is the button
+Seat 2: kusznak ($65.90 in chips)
+Seat 6: CatPuppy1999 ($97.92 in chips)
+CatPuppy1999: posts small blind $1
+kusznak: posts big blind $3
+*** HOLE CARDS ***
+CatPuppy1999: raises $3 to $6
+kusznak: folds
+Uncalled bet ($3) returned to CatPuppy1999
+CatPuppy1999 collected $6 from pot
+CatPuppy1999: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: kusznak (big blind) folded before Flop
+Seat 6: CatPuppy1999 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #172941959818:  Hold'em Limit ($3/$6 USD) - 2017/07/12 13:28:37 ET
+Table 'Mathilde II' 6-max Seat #6 is the button
+Seat 2: kusznak ($51.76 in chips)
+Seat 6: CatPuppy1999 ($113.40 in chips)
+CatPuppy1999: posts small blind $1
+kusznak: posts big blind $3
+*** HOLE CARDS ***
+CatPuppy1999: raises $3 to $6
+kusznak: raises $3 to $9
+CatPuppy1999: calls $3
+*** FLOP *** [8c Qd 4c]
+kusznak: bets $3
+CatPuppy1999: folds
+Uncalled bet ($3) returned to kusznak
+kusznak collected $17.64 from pot
+kusznak: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8c Qd 4c]
+Seat 2: kusznak (big blind) collected ($17.64)
+Seat 6: CatPuppy1999 (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #172941973243:  Hold'em Limit ($3/$6 USD) - 2017/07/12 13:28:56 ET
+Table 'Mathilde II' 6-max Seat #6 is the button
+Seat 2: kusznak ($63.40 in chips)
+Seat 6: CatPuppy1999 ($101.40 in chips)
+CatPuppy1999: posts small blind $1
+kusznak: posts big blind $3
+*** HOLE CARDS ***
+CatPuppy1999: raises $3 to $6
+kusznak: calls $3
+*** FLOP *** [Qs Qc 2c]
+kusznak: checks
+CatPuppy1999: checks
+*** TURN *** [Qs Qc 2c] [5s]
+kusznak: checks
+CatPuppy1999: checks
+*** RIVER *** [Qs Qc 2c 5s] [3d]
+kusznak: checks
+CatPuppy1999: bets $6
+kusznak: calls $6
+*** SHOW DOWN ***
+CatPuppy1999: shows [3s Jh] (two pair, Queens and Threes)
+kusznak: mucks hand
+CatPuppy1999 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Qs Qc 2c 5s 3d]
+Seat 2: kusznak (big blind) mucked
+Seat 6: CatPuppy1999 (button) (small blind) showed [3s Jh] and won ($23.52) with two pair, Queens and Threes
+
+
+PokerStars Hand #172941985704:  Hold'em Limit ($3/$6 USD) - 2017/07/12 13:29:14 ET
+Table 'Mathilde II' 6-max Seat #2 is the button
+Seat 2: kusznak ($51.40 in chips)
+Seat 6: CatPuppy1999 ($112.92 in chips)
+kusznak: posts small blind $1
+CatPuppy1999: posts big blind $3
+*** HOLE CARDS ***
+kusznak: raises $3 to $6
+CatPuppy1999: calls $3
+*** FLOP *** [2s 6d Jc]
+CatPuppy1999: checks
+kusznak: bets $3
+CatPuppy1999: calls $3
+*** TURN *** [2s 6d Jc] [7d]
+CatPuppy1999: checks
+kusznak: checks
+*** RIVER *** [2s 6d Jc 7d] [Ks]
+CatPuppy1999: bets $6
+kusznak: raises $6 to $12
+CatPuppy1999: folds
+Uncalled bet ($6) returned to kusznak
+kusznak collected $29.50 from pot
+kusznak: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2s 6d Jc 7d Ks]
+Seat 2: kusznak (button) (small blind) collected ($29.50)
+Seat 6: CatPuppy1999 (big blind) folded on the River
+
+
+PokerStars Hand #172941969268:  Hold'em Limit ($3/$6 USD) - 2017/07/12 13:28:51 ET
+Table 'Mathilde II' 6-max Seat #2 is the button
+Seat 2: kusznak ($60.40 in chips)
+Seat 6: CatPuppy1999 ($104.40 in chips)
+kusznak: posts small blind $1
+CatPuppy1999: posts big blind $3
+*** HOLE CARDS ***
+kusznak: raises $3 to $6
+CatPuppy1999: folds
+Uncalled bet ($3) returned to kusznak
+kusznak collected $6 from pot
+kusznak: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: kusznak (button) (small blind) collected ($6)
+Seat 6: CatPuppy1999 (big blind) folded before Flop
+
+
+PokerStars Hand #172942030771:  Hold'em Limit ($3/$6 USD) - 2017/07/12 13:30:17 ET
+Table 'Mathilde II' 6-max Seat #2 is the button
+Seat 2: kusznak ($65.40 in chips)
+Seat 6: CatPuppy1999 ($97.42 in chips)
+kusznak: posts small blind $1
+CatPuppy1999: posts big blind $3
+*** HOLE CARDS ***
+kusznak: raises $3 to $6
+CatPuppy1999: raises $3 to $9
+kusznak: calls $3
+*** FLOP *** [3c 4h Jh]
+CatPuppy1999: bets $3
+kusznak: folds
+Uncalled bet ($3) returned to CatPuppy1999
+CatPuppy1999 collected $17.64 from pot
+CatPuppy1999: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3c 4h Jh]
+Seat 2: kusznak (button) (small blind) folded on the Flop
+Seat 6: CatPuppy1999 (big blind) collected ($17.64)
+
+
+PokerStars Hand #172942018500:  Hold'em Limit ($3/$6 USD) - 2017/07/12 13:30:00 ET
+Table 'Mathilde II' 6-max Seat #6 is the button
+Seat 2: kusznak ($47.90 in chips)
+Seat 6: CatPuppy1999 ($115.42 in chips)
+CatPuppy1999: posts small blind $1
+kusznak: posts big blind $3
+*** HOLE CARDS ***
+CatPuppy1999: raises $3 to $6
+kusznak: calls $3
+*** FLOP *** [Jc 5h 9d]
+kusznak: checks
+CatPuppy1999: checks
+*** TURN *** [Jc 5h 9d] [9h]
+kusznak: bets $6
+CatPuppy1999: calls $6
+*** RIVER *** [Jc 5h 9d 9h] [2h]
+kusznak: bets $6
+CatPuppy1999: calls $6
+*** SHOW DOWN ***
+kusznak: shows [Js 7s] (two pair, Jacks and Nines)
+CatPuppy1999: mucks hand
+kusznak collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Jc 5h 9d 9h 2h]
+Seat 2: kusznak (big blind) showed [Js 7s] and won ($35.50) with two pair, Jacks and Nines
+Seat 6: CatPuppy1999 (button) (small blind) mucked
+
+
+PokerStars Hand #172942005100:  Hold'em Limit ($3/$6 USD) - 2017/07/12 13:29:41 ET
+Table 'Mathilde II' 6-max Seat #2 is the button
+Seat 2: kusznak ($62.90 in chips)
+Seat 6: CatPuppy1999 ($100.92 in chips)
+kusznak: posts small blind $1
+CatPuppy1999: posts big blind $3
+*** HOLE CARDS ***
+kusznak: raises $3 to $6
+CatPuppy1999: calls $3
+*** FLOP *** [6h Qs 5c]
+CatPuppy1999: checks
+kusznak: bets $3
+CatPuppy1999: calls $3
+*** TURN *** [6h Qs 5c] [Jd]
+CatPuppy1999: checks
+kusznak: bets $6
+CatPuppy1999: calls $6
+*** RIVER *** [6h Qs 5c Jd] [As]
+CatPuppy1999: checks
+kusznak: checks
+*** SHOW DOWN ***
+CatPuppy1999: shows [5s 4c] (a pair of Fives)
+kusznak: mucks hand
+CatPuppy1999 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6h Qs 5c Jd As]
+Seat 2: kusznak (button) (small blind) mucked
+Seat 6: CatPuppy1999 (big blind) showed [5s 4c] and won ($29.50) with a pair of Fives
+
+
+PokerStars Hand #172942061743:  Hold'em Limit ($3/$6 USD) - 2017/07/12 13:31:00 ET
+Table 'Mathilde II' 6-max Seat #6 is the button
+Seat 2: kusznak ($72.90 in chips)
+Seat 6: CatPuppy1999 ($89.06 in chips)
+CatPuppy1999: posts small blind $1
+kusznak: posts big blind $3
+*** HOLE CARDS ***
+CatPuppy1999: raises $3 to $6
+kusznak: raises $3 to $9
+CatPuppy1999: calls $3
+*** FLOP *** [8d Ts 6s]
+kusznak: bets $3
+CatPuppy1999: calls $3
+*** TURN *** [8d Ts 6s] [8s]
+kusznak: bets $6
+CatPuppy1999: folds
+Uncalled bet ($6) returned to kusznak
+kusznak collected $23.52 from pot
+kusznak: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [8d Ts 6s 8s]
+Seat 2: kusznak (big blind) collected ($23.52)
+Seat 6: CatPuppy1999 (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #172942041191:  Hold'em Limit ($3/$6 USD) - 2017/07/12 13:30:31 ET
+Table 'Mathilde II' 6-max Seat #6 is the button
+Seat 2: kusznak ($56.40 in chips)
+Seat 6: CatPuppy1999 ($106.06 in chips)
+CatPuppy1999: posts small blind $1
+kusznak: posts big blind $3
+*** HOLE CARDS ***
+CatPuppy1999: raises $3 to $6
+kusznak: calls $3
+*** FLOP *** [2d 2s Qc]
+kusznak: checks
+CatPuppy1999: bets $3
+kusznak: raises $3 to $6
+CatPuppy1999: calls $3
+*** TURN *** [2d 2s Qc] [Jh]
+kusznak: bets $6
+CatPuppy1999: calls $6
+*** RIVER *** [2d 2s Qc Jh] [5s]
+kusznak: bets $6
+CatPuppy1999: folds
+Uncalled bet ($6) returned to kusznak
+kusznak collected $35.50 from pot
+kusznak: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [2d 2s Qc Jh 5s]
+Seat 2: kusznak (big blind) collected ($35.50)
+Seat 6: CatPuppy1999 (button) (small blind) folded on the River
+
+
+PokerStars Hand #172942058457:  Hold'em Limit ($3/$6 USD) - 2017/07/12 13:30:55 ET
+Table 'Mathilde II' 6-max Seat #2 is the button
+Seat 2: kusznak ($73.90 in chips)
+Seat 6: CatPuppy1999 ($88.06 in chips)
+kusznak: posts small blind $1
+CatPuppy1999: posts big blind $3
+*** HOLE CARDS ***
+kusznak: folds
+Uncalled bet ($2) returned to CatPuppy1999
+CatPuppy1999 collected $2 from pot
+CatPuppy1999: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: kusznak (button) (small blind) folded before Flop
+Seat 6: CatPuppy1999 (big blind) collected ($2)
+
+
+PokerStars Hand #172942075872:  Hold'em Limit ($3/$6 USD) - 2017/07/12 13:31:19 ET
+Table 'Mathilde II' 6-max Seat #6 is the button
+Seat 2: kusznak ($87.42 in chips)
+Seat 6: CatPuppy1999 ($74.06 in chips)
+CatPuppy1999: posts small blind $1
+kusznak: posts big blind $3
+*** HOLE CARDS ***
+CatPuppy1999: raises $3 to $6
+kusznak: calls $3
+*** FLOP *** [8c Td Kh]
+kusznak: checks
+CatPuppy1999: bets $3
+kusznak: calls $3
+*** TURN *** [8c Td Kh] [7s]
+kusznak: checks
+CatPuppy1999: checks
+*** RIVER *** [8c Td Kh 7s] [Ad]
+kusznak: checks
+CatPuppy1999: checks
+*** SHOW DOWN ***
+kusznak: shows [2d 2h] (a pair of Deuces)
+CatPuppy1999: shows [7d 9c] (a pair of Sevens)
+CatPuppy1999 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8c Td Kh 7s Ad]
+Seat 2: kusznak (big blind) showed [2d 2h] and lost with a pair of Deuces
+Seat 6: CatPuppy1999 (button) (small blind) showed [7d 9c] and won ($17.64) with a pair of Sevens
+
+
+PokerStars Hand #172942071656:  Hold'em Limit ($3/$6 USD) - 2017/07/12 13:31:13 ET
+Table 'Mathilde II' 6-max Seat #2 is the button
+Seat 2: kusznak ($84.42 in chips)
+Seat 6: CatPuppy1999 ($77.06 in chips)
+kusznak: posts small blind $1
+CatPuppy1999: posts big blind $3
+*** HOLE CARDS ***
+kusznak: raises $3 to $6
+CatPuppy1999: folds
+Uncalled bet ($3) returned to kusznak
+kusznak collected $6 from pot
+kusznak: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: kusznak (button) (small blind) collected ($6)
+Seat 6: CatPuppy1999 (big blind) folded before Flop
+
+
+PokerStars Hand #172942109722:  Hold'em Limit ($3/$6 USD) - 2017/07/12 13:32:06 ET
+Table 'Mathilde II' 6-max Seat #6 is the button
+Seat 2: kusznak ($69.42 in chips)
+Seat 6: CatPuppy1999 ($91.34 in chips)
+CatPuppy1999: posts small blind $1
+kusznak: posts big blind $3
+*** HOLE CARDS ***
+CatPuppy1999: raises $3 to $6
+kusznak: calls $3
+*** FLOP *** [2c Js 6h]
+kusznak: checks
+CatPuppy1999: bets $3
+kusznak: raises $3 to $6
+CatPuppy1999: calls $3
+*** TURN *** [2c Js 6h] [6c]
+kusznak: bets $6
+CatPuppy1999: calls $6
+*** RIVER *** [2c Js 6h 6c] [5d]
+kusznak: bets $6
+CatPuppy1999: calls $6
+*** SHOW DOWN ***
+kusznak: shows [Qs 7d] (a pair of Sixes)
+CatPuppy1999: shows [9s 9c] (two pair, Nines and Sixes)
+CatPuppy1999 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2c Js 6h 6c 5d]
+Seat 2: kusznak (big blind) showed [Qs 7d] and lost with a pair of Sixes
+Seat 6: CatPuppy1999 (button) (small blind) showed [9s 9c] and won ($47.50) with two pair, Nines and Sixes
+
+
+PokerStars Hand #172942091497:  Hold'em Limit ($3/$6 USD) - 2017/07/12 13:31:41 ET
+Table 'Mathilde II' 6-max Seat #2 is the button
+Seat 2: kusznak ($78.42 in chips)
+Seat 6: CatPuppy1999 ($82.70 in chips)
+kusznak: posts small blind $1
+CatPuppy1999: posts big blind $3
+*** HOLE CARDS ***
+kusznak: raises $3 to $6
+allexso joins the table at seat #5
+CatPuppy1999: calls $3
+*** FLOP *** [Ah 8d 2h]
+CatPuppy1999: checks
+kusznak: bets $3
+CatPuppy1999: calls $3
+*** TURN *** [Ah 8d 2h] [Td]
+CatPuppy1999: checks
+kusznak: checks
+*** RIVER *** [Ah 8d 2h Td] [Kc]
+CatPuppy1999: checks
+kusznak: checks
+*** SHOW DOWN ***
+CatPuppy1999: shows [2s 5s] (a pair of Deuces)
+kusznak: mucks hand
+CatPuppy1999 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ah 8d 2h Td Kc]
+Seat 2: kusznak (button) (small blind) mucked
+Seat 6: CatPuppy1999 (big blind) showed [2s 5s] and won ($17.64) with a pair of Deuces
+
+
+PokerStars Hand #172942271601:  Hold'em Limit ($3/$6 USD) - 2017/07/12 13:35:51 ET
+Table 'Mathilde II' 6-max Seat #2 is the button
+Seat 1: B_loJkl ($136.92 in chips)
+Seat 2: kusznak ($57.06 in chips)
+kusznak: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+kusznak: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [8s Td Qh]
+B_loJkl: checks
+kusznak: bets $3
+B_loJkl: raises $3 to $6
+kusznak: calls $3
+*** TURN *** [8s Td Qh] [Js]
+B_loJkl: bets $6
+kusznak: calls $6
+*** RIVER *** [8s Td Qh Js] [8c]
+B_loJkl: bets $6
+kusznak: raises $6 to $12
+B_loJkl: calls $6
+*** SHOW DOWN ***
+kusznak: shows [8h 5h] (three of a kind, Eights)
+B_loJkl: mucks hand
+kusznak collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [8s Td Qh Js 8c]
+Seat 1: B_loJkl (big blind) mucked
+Seat 2: kusznak (button) (small blind) showed [8h 5h] and won ($59.50) with three of a kind, Eights
+
+
+PokerStars Hand #172942298425:  Hold'em Limit ($3/$6 USD) - 2017/07/12 13:36:28 ET
+Table 'Mathilde II' 6-max Seat #2 is the button
+Seat 1: B_loJkl ($112.68 in chips)
+Seat 2: kusznak ($80.56 in chips)
+kusznak: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+kusznak: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [2d 3h 6s]
+B_loJkl: checks
+kusznak: bets $3
+B_loJkl: raises $3 to $6
+kusznak: calls $3
+*** TURN *** [2d 3h 6s] [4c]
+B_loJkl: bets $6
+kusznak: raises $6 to $12
+B_loJkl: calls $6
+*** RIVER *** [2d 3h 6s 4c] [Kh]
+B_loJkl: checks
+kusznak: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+kusznak: shows [9c 9d] (a pair of Nines)
+B_loJkl: mucks hand
+kusznak collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [2d 3h 6s 4c Kh]
+Seat 1: B_loJkl (big blind) mucked
+Seat 2: kusznak (button) (small blind) showed [9c 9d] and won ($59.50) with a pair of Nines
+
+

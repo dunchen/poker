@@ -1,0 +1,430 @@
+PokerStars Hand #168721900363:  Hold'em Limit ($3/$6 USD) - 2017/04/07 17:36:31 ET
+Table 'Hercules II' 6-max Seat #3 is the button
+Seat 3: Boxer-Carlo ($120 in chips)
+Seat 4: B_loJkl ($150 in chips)
+Boxer-Carlo: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Boxer-Carlo: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Tc 9s 3s]
+B_loJkl: checks
+Boxer-Carlo: bets $3
+B_loJkl: folds
+Uncalled bet ($3) returned to Boxer-Carlo
+Boxer-Carlo collected $11.76 from pot
+Boxer-Carlo: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Tc 9s 3s]
+Seat 3: Boxer-Carlo (button) (small blind) collected ($11.76)
+Seat 4: B_loJkl (big blind) folded on the Flop
+
+
+PokerStars Hand #168721923127:  Hold'em Limit ($3/$6 USD) - 2017/04/07 17:36:58 ET
+Table 'Hercules II' 6-max Seat #4 is the button
+Seat 3: Boxer-Carlo ($125.76 in chips)
+Seat 4: B_loJkl ($144 in chips)
+B_loJkl: posts small blind $1
+Boxer-Carlo: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+Boxer-Carlo: calls $3
+*** FLOP *** [Ks Ad 9h]
+Boxer-Carlo: bets $3
+B_loJkl: calls $3
+*** TURN *** [Ks Ad 9h] [4d]
+Boxer-Carlo: bets $6
+B_loJkl: raises $6 to $12
+Boxer-Carlo: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $29.50 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ks Ad 9h 4d]
+Seat 3: Boxer-Carlo (big blind) folded on the Turn
+Seat 4: B_loJkl (button) (small blind) collected ($29.50)
+
+
+PokerStars Hand #168721942643:  Hold'em Limit ($3/$6 USD) - 2017/04/07 17:37:22 ET
+Table 'Hercules II' 6-max Seat #3 is the button
+Seat 3: Boxer-Carlo ($110.76 in chips)
+Seat 4: B_loJkl ($158.50 in chips)
+Boxer-Carlo: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Boxer-Carlo: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Ks 4s 9d]
+B_loJkl: checks
+Boxer-Carlo: checks
+*** TURN *** [Ks 4s 9d] [9s]
+B_loJkl: checks
+Boxer-Carlo: checks
+*** RIVER *** [Ks 4s 9d 9s] [3h]
+B_loJkl: bets $6
+Boxer-Carlo: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ks 4s 9d 9s 3h]
+Seat 3: Boxer-Carlo (button) (small blind) folded on the River
+Seat 4: B_loJkl (big blind) collected ($11.76)
+
+
+PokerStars Hand #168721969123:  Hold'em Limit ($3/$6 USD) - 2017/04/07 17:37:55 ET
+Table 'Hercules II' 6-max Seat #4 is the button
+Seat 3: Boxer-Carlo ($104.76 in chips)
+Seat 4: B_loJkl ($164.26 in chips)
+B_loJkl: posts small blind $1
+Boxer-Carlo: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+Boxer-Carlo: raises $3 to $9
+B_loJkl: calls $3
+*** FLOP *** [Qd 5h Qc]
+Boxer-Carlo: bets $3
+B_loJkl: calls $3
+*** TURN *** [Qd 5h Qc] [8s]
+Boxer-Carlo: bets $6
+B_loJkl: calls $6
+*** RIVER *** [Qd 5h Qc 8s] [2c]
+Boxer-Carlo: checks
+B_loJkl: checks
+*** SHOW DOWN ***
+Boxer-Carlo: shows [Jd Kd] (a pair of Queens)
+B_loJkl: shows [As 4c] (a pair of Queens - Ace kicker)
+B_loJkl collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Qd 5h Qc 8s 2c]
+Seat 3: Boxer-Carlo (big blind) showed [Jd Kd] and lost with a pair of Queens
+Seat 4: B_loJkl (button) (small blind) showed [As 4c] and won ($35.50) with a pair of Queens
+
+
+PokerStars Hand #168721999684:  Hold'em Limit ($3/$6 USD) - 2017/04/07 17:38:33 ET
+Table 'Hercules II' 6-max Seat #3 is the button
+Seat 3: Boxer-Carlo ($86.76 in chips)
+Seat 4: B_loJkl ($181.76 in chips)
+Boxer-Carlo: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Boxer-Carlo: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [7c Td 9h]
+B_loJkl: checks
+Boxer-Carlo: bets $3
+B_loJkl: calls $3
+*** TURN *** [7c Td 9h] [3h]
+B_loJkl: checks
+Boxer-Carlo: bets $6
+B_loJkl: calls $6
+*** RIVER *** [7c Td 9h 3h] [9c]
+B_loJkl: checks
+Boxer-Carlo: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+Boxer-Carlo: shows [Ad Ac] (two pair, Aces and Nines)
+B_loJkl: mucks hand
+Boxer-Carlo collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [7c Td 9h 3h 9c]
+Seat 3: Boxer-Carlo (button) (small blind) showed [Ad Ac] and won ($41.50) with two pair, Aces and Nines
+Seat 4: B_loJkl (big blind) mucked
+
+
+PokerStars Hand #168722033356:  Hold'em Limit ($3/$6 USD) - 2017/04/07 17:39:14 ET
+Table 'Hercules II' 6-max Seat #4 is the button
+Seat 3: Boxer-Carlo ($107.26 in chips)
+Seat 4: B_loJkl ($160.76 in chips)
+B_loJkl: posts small blind $1
+Boxer-Carlo: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+Boxer-Carlo: calls $3
+*** FLOP *** [Js 2h 7h]
+Boxer-Carlo: checks
+B_loJkl: checks
+*** TURN *** [Js 2h 7h] [Td]
+Boxer-Carlo: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to Boxer-Carlo
+Boxer-Carlo collected $11.76 from pot
+Boxer-Carlo: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Js 2h 7h Td]
+Seat 3: Boxer-Carlo (big blind) collected ($11.76)
+Seat 4: B_loJkl (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #168722051218:  Hold'em Limit ($3/$6 USD) - 2017/04/07 17:39:36 ET
+Table 'Hercules II' 6-max Seat #3 is the button
+Seat 3: Boxer-Carlo ($113.02 in chips)
+Seat 4: B_loJkl ($154.76 in chips)
+Boxer-Carlo: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Boxer-Carlo: raises $3 to $6
+B_loJkl: raises $3 to $9
+Boxer-Carlo: calls $3
+*** FLOP *** [As 6d 7h]
+B_loJkl: bets $3
+Boxer-Carlo: calls $3
+*** TURN *** [As 6d 7h] [5c]
+B_loJkl: bets $6
+Boxer-Carlo: calls $6
+*** RIVER *** [As 6d 7h 5c] [4h]
+B_loJkl: bets $6
+Boxer-Carlo: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $35.50 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [As 6d 7h 5c 4h]
+Seat 3: Boxer-Carlo (button) (small blind) folded on the River
+Seat 4: B_loJkl (big blind) collected ($35.50)
+
+
+PokerStars Hand #168722079148:  Hold'em Limit ($3/$6 USD) - 2017/04/07 17:40:11 ET
+Table 'Hercules II' 6-max Seat #4 is the button
+Seat 3: Boxer-Carlo ($95.02 in chips)
+Seat 4: B_loJkl ($172.26 in chips)
+B_loJkl: posts small blind $1
+Boxer-Carlo: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+Boxer-Carlo: calls $3
+*** FLOP *** [Qc Kh 8h]
+Boxer-Carlo: checks
+B_loJkl: bets $3
+Boxer-Carlo: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qc Kh 8h]
+Seat 3: Boxer-Carlo (big blind) folded on the Flop
+Seat 4: B_loJkl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #168722089549:  Hold'em Limit ($3/$6 USD) - 2017/04/07 17:40:24 ET
+Table 'Hercules II' 6-max Seat #3 is the button
+Seat 3: Boxer-Carlo ($89.02 in chips)
+Seat 4: B_loJkl ($178.02 in chips)
+Boxer-Carlo: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Boxer-Carlo: raises $3 to $6
+B_loJkl: folds
+Uncalled bet ($3) returned to Boxer-Carlo
+Boxer-Carlo collected $6 from pot
+Boxer-Carlo: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: Boxer-Carlo (button) (small blind) collected ($6)
+Seat 4: B_loJkl (big blind) folded before Flop
+
+
+PokerStars Hand #168722115624:  Hold'em Limit ($3/$6 USD) - 2017/04/07 17:40:57 ET
+Table 'Hercules II' 6-max Seat #3 is the button
+Seat 3: Boxer-Carlo ($93.02 in chips)
+Seat 4: B_loJkl ($174.02 in chips)
+Boxer-Carlo: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Boxer-Carlo: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: Boxer-Carlo (button) (small blind) folded before Flop
+Seat 4: B_loJkl (big blind) collected ($2)
+
+
+PokerStars Hand #168722110464:  Hold'em Limit ($3/$6 USD) - 2017/04/07 17:40:51 ET
+Table 'Hercules II' 6-max Seat #4 is the button
+Seat 3: Boxer-Carlo ($92.02 in chips)
+Seat 4: B_loJkl ($175.02 in chips)
+B_loJkl: posts small blind $1
+Boxer-Carlo: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: folds
+Uncalled bet ($2) returned to Boxer-Carlo
+Boxer-Carlo collected $2 from pot
+Boxer-Carlo: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: Boxer-Carlo (big blind) collected ($2)
+Seat 4: B_loJkl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #168722119830:  Hold'em Limit ($3/$6 USD) - 2017/04/07 17:41:03 ET
+Table 'Hercules II' 6-max Seat #4 is the button
+Seat 3: Boxer-Carlo ($92.02 in chips)
+Seat 4: B_loJkl ($175.02 in chips)
+B_loJkl: posts small blind $1
+Boxer-Carlo: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+Boxer-Carlo: raises $3 to $9
+B_loJkl: calls $3
+*** FLOP *** [Kh Qc 4d]
+Boxer-Carlo: bets $3
+B_loJkl: calls $3
+*** TURN *** [Kh Qc 4d] [6c]
+Boxer-Carlo: bets $6
+B_loJkl: calls $6
+*** RIVER *** [Kh Qc 4d 6c] [4c]
+Boxer-Carlo: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+Boxer-Carlo: shows [3s Ts] (a pair of Fours)
+B_loJkl: shows [5h Kc] (two pair, Kings and Fours)
+B_loJkl collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Kh Qc 4d 6c 4c]
+Seat 3: Boxer-Carlo (big blind) showed [3s Ts] and lost with a pair of Fours
+Seat 4: B_loJkl (button) (small blind) showed [5h Kc] and won ($47.50) with two pair, Kings and Fours
+
+
+PokerStars Hand #168722189561:  Hold'em Limit ($3/$6 USD) - 2017/04/07 17:42:29 ET
+Table 'Hercules II' 6-max Seat #4 is the button
+Seat 3: Boxer-Carlo ($82.52 in chips)
+Seat 4: B_loJkl ($183.52 in chips)
+B_loJkl: posts small blind $1
+Boxer-Carlo: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: folds
+Uncalled bet ($2) returned to Boxer-Carlo
+Boxer-Carlo collected $2 from pot
+Boxer-Carlo: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: Boxer-Carlo (big blind) collected ($2)
+Seat 4: B_loJkl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #168722152576:  Hold'em Limit ($3/$6 USD) - 2017/04/07 17:41:43 ET
+Table 'Hercules II' 6-max Seat #3 is the button
+Seat 3: Boxer-Carlo ($68.02 in chips)
+Seat 4: B_loJkl ($198.52 in chips)
+Boxer-Carlo: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Boxer-Carlo: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Qh 6s Th]
+B_loJkl: checks
+Boxer-Carlo: bets $3
+B_loJkl: calls $3
+*** TURN *** [Qh 6s Th] [Kd]
+B_loJkl: checks
+Boxer-Carlo: bets $6
+B_loJkl: calls $6
+*** RIVER *** [Qh 6s Th Kd] [As]
+B_loJkl: checks
+Boxer-Carlo: checks
+*** SHOW DOWN ***
+B_loJkl: shows [9c 6c] (a pair of Sixes)
+Boxer-Carlo: shows [Ac Kh] (two pair, Aces and Kings)
+Boxer-Carlo collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qh 6s Th Kd As]
+Seat 3: Boxer-Carlo (button) (small blind) showed [Ac Kh] and won ($29.50) with two pair, Aces and Kings
+Seat 4: B_loJkl (big blind) showed [9c 6c] and lost with a pair of Sixes
+
+
+PokerStars Hand #168722193803:  Hold'em Limit ($3/$6 USD) - 2017/04/07 17:42:34 ET
+Table 'Hercules II' 6-max Seat #3 is the button
+Seat 3: Boxer-Carlo ($83.52 in chips)
+Seat 4: B_loJkl ($182.52 in chips)
+Boxer-Carlo: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Boxer-Carlo: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [2s Ac Qc]
+B_loJkl: checks
+Boxer-Carlo: checks
+*** TURN *** [2s Ac Qc] [Kd]
+B_loJkl: bets $6
+Boxer-Carlo: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2s Ac Qc Kd]
+Seat 3: Boxer-Carlo (button) (small blind) folded on the Turn
+Seat 4: B_loJkl (big blind) collected ($11.76)
+
+
+PokerStars Hand #168722213416:  Hold'em Limit ($3/$6 USD) - 2017/04/07 17:42:59 ET
+Table 'Hercules II' 6-max Seat #4 is the button
+Seat 3: Boxer-Carlo ($77.52 in chips)
+Seat 4: B_loJkl ($188.28 in chips)
+B_loJkl: posts small blind $1
+Boxer-Carlo: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+Boxer-Carlo: raises $3 to $9
+B_loJkl: calls $3
+*** FLOP *** [Qh Jc Tc]
+Boxer-Carlo: bets $3
+RaisemyNut$ joins the table at seat #5
+B_loJkl: calls $3
+*** TURN *** [Qh Jc Tc] [Qs]
+Boxer-Carlo: bets $6
+B_loJkl: calls $6
+*** RIVER *** [Qh Jc Tc Qs] [5c]
+Boxer-Carlo: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+Boxer-Carlo: shows [Qc 8c] (a flush, Queen high)
+B_loJkl: mucks hand
+Boxer-Carlo collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Qh Jc Tc Qs 5c]
+Seat 3: Boxer-Carlo (big blind) showed [Qc 8c] and won ($47.50) with a flush, Queen high
+Seat 4: B_loJkl (button) (small blind) mucked
+
+
+PokerStars Hand #168722238457:  Hold'em Limit ($3/$6 USD) - 2017/04/07 17:43:30 ET
+Table 'Hercules II' 6-max Seat #3 is the button
+Seat 3: Boxer-Carlo ($101.02 in chips)
+Seat 4: B_loJkl ($164.28 in chips)
+Boxer-Carlo: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Boxer-Carlo: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [3h As 6h]
+B_loJkl: checks
+Boxer-Carlo: checks
+*** TURN *** [3h As 6h] [4s]
+B_loJkl: bets $6
+Boxer-Carlo: calls $6
+*** RIVER *** [3h As 6h 4s] [Ah]
+B_loJkl: bets $6
+Boxer-Carlo: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $23.52 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [3h As 6h 4s Ah]
+Seat 3: Boxer-Carlo (button) (small blind) folded on the River
+Seat 4: B_loJkl (big blind) collected ($23.52)
+
+

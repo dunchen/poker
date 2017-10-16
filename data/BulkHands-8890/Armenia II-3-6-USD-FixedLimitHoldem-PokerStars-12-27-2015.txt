@@ -1,0 +1,31 @@
+PokerStars Hand #146012762809:  Hold'em Limit ($3/$6 USD) - 2015/12/27 13:31:53 ET
+Table 'Armenia II' 2-max Seat #1 is the button
+Seat 1: elifnur2008 ($148.50 in chips)
+Seat 2: nouuko ($12.40 in chips)
+elifnur2008: posts small blind $1
+nouuko: posts big blind $3
+*** HOLE CARDS ***
+elifnur2008: calls $2
+nouuko: checks
+*** FLOP *** [6d As 4s]
+nouuko: checks
+elifnur2008: checks
+*** TURN *** [6d As 4s] [7s]
+nouuko: bets $6
+elifnur2008: calls $6
+*** RIVER *** [6d As 4s 7s] [7h]
+nouuko: checks
+elifnur2008: bets $6
+nouuko: calls $3.40 and is all-in
+Uncalled bet ($2.60) returned to elifnur2008
+*** SHOW DOWN ***
+elifnur2008: shows [6c 3c] (two pair, Sevens and Sixes)
+nouuko: shows [Qh Td] (a pair of Sevens)
+elifnur2008 collected $24.30 from pot
+*** SUMMARY ***
+Total pot $24.80 | Rake $0.50
+Board [6d As 4s 7s 7h]
+Seat 1: elifnur2008 (button) (small blind) showed [6c 3c] and won ($24.30) with two pair, Sevens and Sixes
+Seat 2: nouuko (big blind) showed [Qh Td] and lost with a pair of Sevens
+
+

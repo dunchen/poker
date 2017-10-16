@@ -1,0 +1,62 @@
+PokerStars Hand #157781908417:  Hold'em Limit ($3/$6 USD) - 2016/08/26 18:57:10 ET
+Table 'Harpalyke' 6-max Seat #4 is the button
+Seat 1: anetkaapro ($117.81 in chips)
+Seat 4: AzureCaper ($101.90 in chips)
+AzureCaper: posts small blind $1
+anetkaapro: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+anetkaapro: calls $3
+*** FLOP *** [2d Qd 8s]
+anetkaapro: checks
+AzureCaper: bets $3
+anetkaapro: raises $3 to $6
+AzureCaper: raises $3 to $9
+anetkaapro: raises $3 to $12
+Betting is capped
+AzureCaper: calls $3
+*** TURN *** [2d Qd 8s] [Kc]
+anetkaapro: bets $6
+AzureCaper: raises $6 to $12
+anetkaapro: calls $6
+*** RIVER *** [2d Qd 8s Kc] [7c]
+anetkaapro: checks
+AzureCaper: checks
+*** SHOW DOWN ***
+anetkaapro: shows [7d Qc] (two pair, Queens and Sevens)
+AzureCaper: mucks hand
+anetkaapro collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [2d Qd 8s Kc 7c]
+Seat 1: anetkaapro (big blind) showed [7d Qc] and won ($59.50) with two pair, Queens and Sevens
+Seat 4: AzureCaper (button) (small blind) mucked
+
+
+PokerStars Hand #157782256021:  Hold'em Limit ($3/$6 USD) - 2016/08/26 19:07:37 ET
+Table 'Harpalyke' 6-max Seat #2 is the button
+Seat 2: threeeyejack ($120.47 in chips)
+Seat 3: Ag3r0n ($93.78 in chips)
+threeeyejack: posts small blind $1
+Ag3r0n: posts big blind $3
+*** HOLE CARDS ***
+threeeyejack: raises $3 to $6
+Ag3r0n: calls $3
+*** FLOP *** [Kd Th 9d]
+Ag3r0n: checks
+threeeyejack: bets $3
+Ag3r0n: calls $3
+*** TURN *** [Kd Th 9d] [5d]
+Ag3r0n: checks
+threeeyejack: bets $6
+Ag3r0n: folds
+Uncalled bet ($6) returned to threeeyejack
+threeeyejack collected $17.64 from pot
+threeeyejack: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kd Th 9d 5d]
+Seat 2: threeeyejack (button) (small blind) collected ($17.64)
+Seat 3: Ag3r0n (big blind) folded on the Turn
+
+

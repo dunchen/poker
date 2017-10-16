@@ -1,0 +1,32 @@
+PokerStars Hand #149268549405:  Hold'em Limit ($3/$6 USD) - 2016/02/22 20:47:28 ET
+Table 'Ruvuma II' 6-max Seat #6 is the button
+Seat 4: bugsbubble ($61.93 in chips)
+Seat 6: anetkaapro ($72 in chips)
+anetkaapro: posts small blind $1
+oliwan: is sitting out
+bugsbubble: posts big blind $3
+*** HOLE CARDS ***
+anetkaapro: raises $3 to $6
+oliwan leaves the table
+bugsbubble: raises $3 to $9
+anetkaapro: calls $3
+*** FLOP *** [Th 6h 3s]
+bugsbubble: bets $3
+anetkaapro: calls $3
+*** TURN *** [Th 6h 3s] [As]
+bugsbubble: checks
+anetkaapro: checks
+*** RIVER *** [Th 6h 3s As] [Ad]
+bugsbubble: bets $6
+anetkaapro: calls $6
+*** SHOW DOWN ***
+bugsbubble: shows [9d Ac] (three of a kind, Aces)
+anetkaapro: mucks hand
+bugsbubble collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Th 6h 3s As Ad]
+Seat 4: bugsbubble (big blind) showed [9d Ac] and won ($35.50) with three of a kind, Aces
+Seat 6: anetkaapro (button) (small blind) mucked
+
+

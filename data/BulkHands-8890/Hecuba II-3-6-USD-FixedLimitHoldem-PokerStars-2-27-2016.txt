@@ -1,0 +1,31 @@
+PokerStars Hand #149502397852:  Hold'em Limit ($3/$6 USD) - 2016/02/27 11:20:06 ET
+Table 'Hecuba II' 6-max Seat #4 is the button
+Seat 1: michehh5 ($50.34 in chips)
+Seat 4: AzureCaper ($72 in chips)
+AzureCaper: posts small blind $1
+michehh5: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+michehh5: calls $3
+*** FLOP *** [Kd 5s 9h]
+michehh5: checks
+AzureCaper: bets $3
+michehh5: calls $3
+*** TURN *** [Kd 5s 9h] [4s]
+michehh5: checks
+AzureCaper: bets $6
+michehh5: calls $6
+*** RIVER *** [Kd 5s 9h 4s] [7d]
+michehh5: bets $6
+AzureCaper: calls $6
+*** SHOW DOWN ***
+michehh5: shows [3h 3c] (a pair of Threes)
+AzureCaper: shows [9c 6h] (a pair of Nines)
+AzureCaper collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Kd 5s 9h 4s 7d]
+Seat 1: michehh5 (big blind) showed [3h 3c] and lost with a pair of Threes
+Seat 4: AzureCaper (button) (small blind) showed [9c 6h] and won ($41.50) with a pair of Nines
+
+

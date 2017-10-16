@@ -1,0 +1,32 @@
+PokerStars Hand #163376253845:  Hold'em Limit ($3/$6 USD) - 2016/12/22 22:52:07 ET
+Table 'Agamemnon' 6-max Seat #4 is the button
+Seat 1: RaisemyNut$ ($60 in chips)
+Seat 4: ToDaFelt ($216.30 in chips)
+ToDaFelt: posts small blind $1
+roxstar2927: is sitting out
+RaisemyNut$: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+roxstar2927 leaves the table
+RaisemyNut$: raises $3 to $9
+ToDaFelt: calls $3
+*** FLOP *** [2c 7c Qc]
+RaisemyNut$: bets $3
+ToDaFelt: calls $3
+*** TURN *** [2c 7c Qc] [Ah]
+RaisemyNut$: bets $6
+ToDaFelt: calls $6
+*** RIVER *** [2c 7c Qc Ah] [Th]
+RaisemyNut$: bets $6
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+RaisemyNut$: shows [Qs Qh] (three of a kind, Queens)
+ToDaFelt: mucks hand
+RaisemyNut$ collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2c 7c Qc Ah Th]
+Seat 1: RaisemyNut$ (big blind) showed [Qs Qh] and won ($47.50) with three of a kind, Queens
+Seat 4: ToDaFelt (button) (small blind) mucked
+
+

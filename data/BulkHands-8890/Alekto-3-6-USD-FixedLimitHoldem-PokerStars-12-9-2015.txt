@@ -1,0 +1,38 @@
+PokerStars Hand #145051601412:  Hold'em Limit ($3/$6 USD) - 2015/12/08 19:54:29 ET
+Table 'Alekto' 6-max Seat #5 is the button
+Seat 4: karambakilla ($75.15 in chips)
+Seat 5: pokkermon ($149.79 in chips)
+pokkermon: posts small blind $1
+HAL9QQQ: is sitting out
+boogi: is sitting out
+Lillafisen was removed from the table for failing to post
+karambakilla: posts big blind $3
+*** HOLE CARDS ***
+pokkermon: raises $3 to $6
+boogi leaves the table
+HAL9QQQ leaves the table
+karambakilla: calls $3
+*** FLOP *** [Ah 4s 5s]
+karambakilla: checks
+pokkermon: bets $3
+karambakilla: raises $3 to $6
+pokkermon: calls $3
+*** TURN *** [Ah 4s 5s] [3c]
+karambakilla: bets $6
+pokkermon: raises $6 to $12
+karambakilla: calls $6
+*** RIVER *** [Ah 4s 5s 3c] [5d]
+karambakilla: checks
+pokkermon: bets $6
+karambakilla: calls $6
+*** SHOW DOWN ***
+pokkermon: shows [6s 7s] (a straight, Three to Seven)
+karambakilla: mucks hand
+pokkermon collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Ah 4s 5s 3c 5d]
+Seat 4: karambakilla (big blind) mucked
+Seat 5: pokkermon (button) (small blind) showed [6s 7s] and won ($59.50) with a straight, Three to Seven
+
+

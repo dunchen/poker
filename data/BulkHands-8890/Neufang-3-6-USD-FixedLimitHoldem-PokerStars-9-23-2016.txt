@@ -1,0 +1,79 @@
+PokerStars Hand #158981472456:  Hold'em Limit ($3/$6 USD) - 2016/09/23 9:16:23 ET
+Table 'Neufang' 6-max Seat #2 is the button
+Seat 2: Marnix101 ($39.26 in chips)
+Seat 4: Great_Kang ($120 in chips)
+Marnix101: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+Marnix101: raises $3 to $6
+Great_Kang: raises $3 to $9
+Marnix101: calls $3
+*** FLOP *** [6h 8h Ah]
+Great_Kang: bets $3
+Luanto 14 joins the table at seat #3
+Marnix101: folds
+Uncalled bet ($3) returned to Great_Kang
+Great_Kang collected $17.64 from pot
+Great_Kang: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6h 8h Ah]
+Seat 2: Marnix101 (button) (small blind) folded on the Flop
+Seat 4: Great_Kang (big blind) collected ($17.64)
+
+
+PokerStars Hand #158981485976:  Hold'em Limit ($3/$6 USD) - 2016/09/23 9:16:49 ET
+Table 'Neufang' 6-max Seat #4 is the button
+Seat 2: Marnix101 ($30.26 in chips)
+Seat 4: Great_Kang ($128.64 in chips)
+Great_Kang: posts small blind $1
+Marnix101: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+Marnix101: calls $3
+*** FLOP *** [As Td Ts]
+Marnix101: bets $3
+Great_Kang: folds
+Uncalled bet ($3) returned to Marnix101
+Marnix101 collected $11.76 from pot
+Marnix101: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [As Td Ts]
+Seat 2: Marnix101 (big blind) collected ($11.76)
+Seat 4: Great_Kang (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #158982303564:  Hold'em Limit ($3/$6 USD) - 2016/09/23 9:42:10 ET
+Table 'Neufang' 6-max Seat #3 is the button
+Seat 1: Great_Kang ($120 in chips)
+Seat 3: Luanto 14 ($231.59 in chips)
+Luanto 14: posts small blind $1
+HAL9QQQ: is sitting out
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+Luanto 14: raises $3 to $6
+Great_Kang: calls $3
+*** FLOP *** [2d 4s 3h]
+Great_Kang: checks
+HAL9QQQ leaves the table
+Luanto 14: bets $3
+Great_Kang: calls $3
+*** TURN *** [2d 4s 3h] [2s]
+Great_Kang: checks
+Luanto 14: bets $6
+Great_Kang: calls $6
+*** RIVER *** [2d 4s 3h 2s] [5s]
+Great_Kang: checks
+Luanto 14: checks
+*** SHOW DOWN ***
+Great_Kang: shows [Ks Ah] (a straight, Ace to Five)
+Luanto 14: mucks hand
+Great_Kang collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2d 4s 3h 2s 5s]
+Seat 1: Great_Kang (big blind) showed [Ks Ah] and won ($29.50) with a straight, Ace to Five
+Seat 3: Luanto 14 (button) (small blind) mucked
+
+

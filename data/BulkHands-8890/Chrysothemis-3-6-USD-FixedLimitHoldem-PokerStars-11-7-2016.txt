@@ -1,0 +1,33 @@
+PokerStars Hand #161066958302:  Hold'em Limit ($3/$6 USD) - 2016/11/07 18:24:20 ET
+Table 'Chrysothemis' 6-max Seat #1 is the button
+Seat 1: barranqueiro ($92.84 in chips)
+Seat 3: chebob ($66 in chips)
+barranqueiro: posts small blind $1
+chebob: posts big blind $3
+*** HOLE CARDS ***
+ValeryRon joins the table at seat #4
+barranqueiro: raises $3 to $6
+chebob: raises $3 to $9
+barranqueiro: calls $3
+*** FLOP *** [Kh 9s Qd]
+chebob: bets $3
+barranqueiro: raises $3 to $6
+chebob: calls $3
+*** TURN *** [Kh 9s Qd] [8h]
+chebob: checks
+barranqueiro: bets $6
+chebob: calls $6
+*** RIVER *** [Kh 9s Qd 8h] [7d]
+chebob: checks
+barranqueiro: checks
+*** SHOW DOWN ***
+chebob: shows [Ts As] (high card Ace)
+barranqueiro: shows [9h Ah] (a pair of Nines)
+barranqueiro collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Kh 9s Qd 8h 7d]
+Seat 1: barranqueiro (button) (small blind) showed [9h Ah] and won ($41.50) with a pair of Nines
+Seat 3: chebob (big blind) showed [Ts As] and lost with high card Ace
+
+

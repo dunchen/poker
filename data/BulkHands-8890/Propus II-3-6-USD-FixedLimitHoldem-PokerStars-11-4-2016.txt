@@ -1,0 +1,33 @@
+PokerStars Hand #160901174146:  Hold'em Limit ($3/$6 USD) - 2016/11/04 16:07:53 ET
+Table 'Propus II' 6-max Seat #3 is the button
+Seat 3: gioba20 ($457.33 in chips)
+Seat 4: assitoni ($72 in chips)
+gioba20: posts small blind $1
+assitoni: posts big blind $3
+*** HOLE CARDS ***
+gioba20: calls $2
+Psynto joins the table at seat #5
+assitoni: raises $3 to $6
+gioba20: calls $3
+*** FLOP *** [2c 6c 7c]
+assitoni: bets $3
+gioba20: calls $3
+*** TURN *** [2c 6c 7c] [8d]
+GoliafUa joins the table at seat #6
+assitoni: bets $6
+gioba20: raises $6 to $12
+assitoni: calls $6
+*** RIVER *** [2c 6c 7c 8d] [Jc]
+assitoni: bets $6
+gioba20: calls $6
+*** SHOW DOWN ***
+assitoni: shows [4d Ac] (a flush, Ace high)
+gioba20: mucks hand
+assitoni collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [2c 6c 7c 8d Jc]
+Seat 3: gioba20 (button) (small blind) mucked
+Seat 4: assitoni (big blind) showed [4d Ac] and won ($53.50) with a flush, Ace high
+
+

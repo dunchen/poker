@@ -1,0 +1,31 @@
+PokerStars Hand #168807484953:  Hold'em Limit ($3/$6 USD) - 2017/04/09 14:43:00 ET
+Table 'Biham' 6-max Seat #6 is the button
+Seat 4: AzureCaper ($93.54 in chips)
+Seat 6: StakkAttakk ($17.56 in chips)
+StakkAttakk: posts small blind $1
+yamaxerm: is sitting out
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+StakkAttakk: raises $3 to $6
+yamaxerm leaves the table
+AzureCaper: raises $3 to $9
+StakkAttakk: calls $3
+*** FLOP *** [7d Qc Ad]
+AzureCaper: bets $3
+StakkAttakk: calls $3
+*** TURN *** [7d Qc Ad] [2d]
+AzureCaper: bets $6
+StakkAttakk: calls $5.56 and is all-in
+Uncalled bet ($0.44) returned to AzureCaper
+*** RIVER *** [7d Qc Ad 2d] [5c]
+*** SHOW DOWN ***
+AzureCaper: shows [Kh Ks] (a pair of Kings)
+StakkAttakk: shows [Kd Tc] (high card Ace)
+AzureCaper collected $34.62 from pot
+*** SUMMARY ***
+Total pot $35.12 | Rake $0.50
+Board [7d Qc Ad 2d 5c]
+Seat 4: AzureCaper (big blind) showed [Kh Ks] and won ($34.62) with a pair of Kings
+Seat 6: StakkAttakk (button) (small blind) showed [Kd Tc] and lost with high card Ace
+
+

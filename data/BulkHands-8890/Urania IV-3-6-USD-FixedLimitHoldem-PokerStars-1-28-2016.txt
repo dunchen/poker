@@ -1,0 +1,60 @@
+PokerStars Hand #147838226342:  Hold'em Limit ($3/$6 USD) - 2016/01/28 15:32:34 ET
+Table 'Urania IV' 6-max Seat #3 is the button
+Seat 2: Andredias950 ($7.01 in chips)
+Seat 3: BelSv ($79 in chips)
+BelSv: posts small blind $1
+VolkovDmitri: is sitting out
+Andredias950: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri leaves the table
+BelSv: raises $3 to $6
+Andredias950: raises $1.01 to $7.01 and is all-in
+BelSv: calls $1.01
+*** FLOP *** [Ks 8d Th]
+*** TURN *** [Ks 8d Th] [5s]
+*** RIVER *** [Ks 8d Th 5s] [6d]
+*** SHOW DOWN ***
+Andredias950: shows [2d As] (high card Ace)
+BelSv: shows [4d Tc] (a pair of Tens)
+BelSv collected $13.74 from pot
+*** SUMMARY ***
+Total pot $14.02 | Rake $0.28
+Board [Ks 8d Th 5s 6d]
+Seat 2: Andredias950 (big blind) showed [2d As] and lost with high card Ace
+Seat 3: BelSv (button) (small blind) showed [4d Tc] and won ($13.74) with a pair of Tens
+
+
+PokerStars Hand #147844982148:  Hold'em Limit ($3/$6 USD) - 2016/01/28 17:19:18 ET
+Table 'Urania IV' 6-max Seat #1 is the button
+Seat 1: wxcvnb ($197.84 in chips)
+Seat 4: ex-cali999 ($240.81 in chips)
+wxcvnb: posts small blind $1
+MellivoraSto: is sitting out
+ex-cali999: posts big blind $3
+*** HOLE CARDS ***
+wxcvnb: raises $3 to $6
+ex-cali999: calls $3
+*** FLOP *** [6s 3d 6h]
+MellivoraSto leaves the table
+ex-cali999: checks
+wxcvnb: bets $3
+ex-cali999: calls $3
+*** TURN *** [6s 3d 6h] [Ts]
+ex-cali999: checks
+wxcvnb: bets $6
+ex-cali999: calls $6
+*** RIVER *** [6s 3d 6h Ts] [2c]
+ex-cali999: checks
+wxcvnb: bets $6
+ex-cali999: calls $6
+*** SHOW DOWN ***
+wxcvnb: shows [Jc Jh] (two pair, Jacks and Sixes)
+ex-cali999: mucks hand
+wxcvnb collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [6s 3d 6h Ts 2c]
+Seat 1: wxcvnb (button) (small blind) showed [Jc Jh] and won ($41.50) with two pair, Jacks and Sixes
+Seat 4: ex-cali999 (big blind) mucked
+
+

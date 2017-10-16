@@ -1,0 +1,82 @@
+PokerStars Hand #144672983731:  Hold'em Limit ($3/$6 USD) - 2015/12/01 14:35:34 ET
+Table 'Haltia' 2-max Seat #1 is the button
+Seat 1: laizan3 ($14.90 in chips)
+Seat 2: govtuz ($92.12 in chips)
+laizan3: posts small blind $1
+govtuz: posts big blind $3
+*** HOLE CARDS ***
+laizan3: raises $3 to $6
+govtuz: raises $3 to $9
+laizan3: raises $3 to $12
+Betting is capped
+govtuz: calls $3
+*** FLOP *** [Qs 9s Js]
+govtuz: bets $3
+laizan3: calls $2.90 and is all-in
+Uncalled bet ($0.10) returned to govtuz
+*** TURN *** [Qs 9s Js] [Kd]
+*** RIVER *** [Qs 9s Js Kd] [Ah]
+*** SHOW DOWN ***
+govtuz: shows [Jd Qd] (two pair, Queens and Jacks)
+laizan3: shows [Kc 9h] (two pair, Kings and Nines)
+laizan3 collected $29.30 from pot
+*** SUMMARY ***
+Total pot $29.80 | Rake $0.50
+Board [Qs 9s Js Kd Ah]
+Seat 1: laizan3 (button) (small blind) showed [Kc 9h] and won ($29.30) with two pair, Kings and Nines
+Seat 2: govtuz (big blind) showed [Jd Qd] and lost with two pair, Queens and Jacks
+
+
+PokerStars Hand #144673019334:  Hold'em Limit ($3/$6 USD) - 2015/12/01 14:36:11 ET
+Table 'Haltia' 2-max Seat #1 is the button
+Seat 1: laizan3 ($5.30 in chips)
+Seat 2: govtuz ($100.72 in chips)
+laizan3: posts small blind $1
+govtuz: posts big blind $3
+*** HOLE CARDS ***
+laizan3: raises $2.30 to $5.30 and is all-in
+govtuz: calls $2.30
+*** FLOP *** [6s Td 2c]
+*** TURN *** [6s Td 2c] [3s]
+*** RIVER *** [6s Td 2c 3s] [6h]
+*** SHOW DOWN ***
+govtuz: shows [2h Ts] (two pair, Tens and Sixes)
+laizan3: shows [Kh 2s] (two pair, Sixes and Deuces)
+govtuz collected $10.39 from pot
+*** SUMMARY ***
+Total pot $10.60 | Rake $0.21
+Board [6s Td 2c 3s 6h]
+Seat 1: laizan3 (button) (small blind) showed [Kh 2s] and lost with two pair, Sixes and Deuces
+Seat 2: govtuz (big blind) showed [2h Ts] and won ($10.39) with two pair, Tens and Sixes
+
+
+PokerStars Hand #144672999473:  Hold'em Limit ($3/$6 USD) - 2015/12/01 14:35:50 ET
+Table 'Haltia' 2-max Seat #2 is the button
+Seat 1: laizan3 ($29.30 in chips)
+Seat 2: govtuz ($77.22 in chips)
+govtuz: posts small blind $1
+laizan3: posts big blind $3
+*** HOLE CARDS ***
+govtuz: raises $3 to $6
+laizan3: raises $3 to $9
+govtuz: raises $3 to $12
+Betting is capped
+laizan3: calls $3
+*** FLOP *** [Jh 7s 7c]
+laizan3: bets $3
+govtuz: raises $3 to $6
+laizan3: calls $3
+*** TURN *** [Jh 7s 7c] [3h]
+laizan3: bets $6
+govtuz: raises $6 to $12
+laizan3: folds
+Uncalled bet ($6) returned to govtuz
+govtuz collected $47.50 from pot
+govtuz: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Jh 7s 7c 3h]
+Seat 1: laizan3 (big blind) folded on the Turn
+Seat 2: govtuz (button) (small blind) collected ($47.50)
+
+

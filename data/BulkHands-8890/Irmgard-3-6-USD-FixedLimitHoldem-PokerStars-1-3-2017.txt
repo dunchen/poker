@@ -1,0 +1,94 @@
+PokerStars Hand #163941633362:  Hold'em Limit ($3/$6 USD) - 2017/01/02 19:03:18 ET
+Table 'Irmgard' 6-max Seat #1 is the button
+Seat 1: Zubasa07 ($500 in chips)
+Seat 3: tutones87 ($50 in chips)
+Zubasa07: posts small blind $1
+tutones87: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+tutones87: raises $3 to $9
+Zubasa07: calls $3
+*** FLOP *** [Ah 3h Js]
+tutones87: checks
+Zubasa07: checks
+*** TURN *** [Ah 3h Js] [9s]
+tutones87: bets $6
+Zubasa07: calls $6
+*** RIVER *** [Ah 3h Js 9s] [Qc]
+tutones87: checks
+Zubasa07: checks
+*** SHOW DOWN ***
+tutones87: shows [8h Td] (a straight, Eight to Queen)
+Zubasa07: mucks hand
+tutones87 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ah 3h Js 9s Qc]
+Seat 1: Zubasa07 (button) (small blind) mucked
+Seat 3: tutones87 (big blind) showed [8h Td] and won ($29.50) with a straight, Eight to Queen
+
+
+PokerStars Hand #163941677821:  Hold'em Limit ($3/$6 USD) - 2017/01/02 19:04:13 ET
+Table 'Irmgard' 6-max Seat #3 is the button
+Seat 1: Zubasa07 ($485 in chips)
+Seat 3: tutones87 ($64.50 in chips)
+tutones87: posts small blind $1
+Zubasa07: posts big blind $3
+*** HOLE CARDS ***
+tutones87: raises $3 to $6
+Zubasa07: calls $3
+*** FLOP *** [6h 6c Jc]
+Zubasa07: checks
+tutones87: bets $3
+Psynto joins the table at seat #4
+Zubasa07: raises $3 to $6
+tutones87: calls $3
+*** TURN *** [6h 6c Jc] [7c]
+Zubasa07: bets $6
+tutones87: calls $6
+*** RIVER *** [6h 6c Jc 7c] [Th]
+Zubasa07: checks
+tutones87: checks
+*** SHOW DOWN ***
+Zubasa07: shows [2h 7h] (two pair, Sevens and Sixes)
+tutones87: shows [8d Jh] (two pair, Jacks and Sixes)
+tutones87 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6h 6c Jc 7c Th]
+Seat 1: Zubasa07 (big blind) showed [2h 7h] and lost with two pair, Sevens and Sixes
+Seat 3: tutones87 (button) (small blind) showed [8d Jh] and won ($35.50) with two pair, Jacks and Sixes
+
+
+PokerStars Hand #163941728953:  Hold'em Limit ($3/$6 USD) - 2017/01/02 19:05:20 ET
+Table 'Irmgard' 6-max Seat #1 is the button
+Seat 1: Zubasa07 ($467 in chips)
+Seat 3: tutones87 ($82 in chips)
+Zubasa07: posts small blind $1
+tutones87: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+tutones87: calls $3
+*** FLOP *** [7c 4d 6s]
+tutones87: checks
+Zubasa07: bets $3
+tutones87: raises $3 to $6
+Zubasa07: calls $3
+*** TURN *** [7c 4d 6s] [7h]
+tutones87: bets $6
+Zubasa07: calls $6
+*** RIVER *** [7c 4d 6s 7h] [Tc]
+RaisemyNut$ joins the table at seat #5
+tutones87: bets $6
+Zubasa07: calls $6
+*** SHOW DOWN ***
+tutones87: shows [8c Kd] (a pair of Sevens)
+Zubasa07: shows [2d 2h] (two pair, Sevens and Deuces)
+Zubasa07 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7c 4d 6s 7h Tc]
+Seat 1: Zubasa07 (button) (small blind) showed [2d 2h] and won ($47.50) with two pair, Sevens and Deuces
+Seat 3: tutones87 (big blind) showed [8c Kd] and lost with a pair of Sevens
+
+

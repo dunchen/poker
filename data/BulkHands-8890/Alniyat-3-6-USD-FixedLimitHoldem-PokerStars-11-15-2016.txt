@@ -1,0 +1,122 @@
+PokerStars Hand #161455200574:  Hold'em Limit ($3/$6 USD) - 2016/11/15 15:27:32 ET
+Table 'Alniyat' 6-max Seat #4 is the button
+Seat 1: assitoni ($89.16 in chips)
+Seat 4: Eklund_1891 ($121 in chips)
+Eklund_1891: posts small blind $1
+assitoni: posts big blind $3
+*** HOLE CARDS ***
+Eklund_1891: raises $3 to $6
+assitoni: calls $3
+*** FLOP *** [Js Jd 4d]
+assitoni: checks
+Eklund_1891: bets $3
+ToDaFelt joins the table at seat #5
+assitoni: calls $3
+*** TURN *** [Js Jd 4d] [5h]
+assitoni: checks
+Eklund_1891: bets $6
+assitoni: folds
+Uncalled bet ($6) returned to Eklund_1891
+Eklund_1891 collected $17.64 from pot
+Eklund_1891: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Js Jd 4d 5h]
+Seat 1: assitoni (big blind) folded on the Turn
+Seat 4: Eklund_1891 (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #161455192044:  Hold'em Limit ($3/$6 USD) - 2016/11/15 15:27:23 ET
+Table 'Alniyat' 6-max Seat #1 is the button
+Seat 1: assitoni ($90.16 in chips)
+Seat 4: Eklund_1891 ($120 in chips)
+assitoni: posts small blind $1
+Eklund_1891: posts big blind $3
+*** HOLE CARDS ***
+assitoni: folds
+Uncalled bet ($2) returned to Eklund_1891
+Eklund_1891 collected $2 from pot
+Eklund_1891: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: assitoni (button) (small blind) folded before Flop
+Seat 4: Eklund_1891 (big blind) collected ($2)
+
+
+PokerStars Hand #161455227422:  Hold'em Limit ($3/$6 USD) - 2016/11/15 15:28:00 ET
+Table 'Alniyat' 6-max Seat #1 is the button
+Seat 1: assitoni ($80.16 in chips)
+Seat 4: Eklund_1891 ($129.64 in chips)
+assitoni: posts small blind $1
+Eklund_1891: posts big blind $3
+*** HOLE CARDS ***
+assitoni: raises $3 to $6
+Eklund_1891 has timed out
+Eklund_1891: folds
+Uncalled bet ($3) returned to assitoni
+assitoni collected $6 from pot
+assitoni: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: assitoni (button) (small blind) collected ($6)
+Seat 4: Eklund_1891 (big blind) folded before Flop
+
+
+PokerStars Hand #161455375672:  Hold'em Limit ($3/$6 USD) - 2016/11/15 15:30:32 ET
+Table 'Alniyat' 6-max Seat #5 is the button
+Seat 4: Eklund_1891 ($129.64 in chips)
+Seat 5: ToDaFelt ($117 in chips)
+ToDaFelt: posts small blind $1
+Eklund_1891: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+Eklund_1891: calls $3
+*** FLOP *** [8d 3h 5c]
+Eklund_1891: checks
+9superpoker9 joins the table at seat #6
+ToDaFelt: bets $3
+Eklund_1891: folds
+Uncalled bet ($3) returned to ToDaFelt
+GRAILKO joins the table at seat #2
+ToDaFelt collected $11.76 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8d 3h 5c]
+Seat 4: Eklund_1891 (big blind) folded on the Flop
+Seat 5: ToDaFelt (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #161456462977:  Hold'em Limit ($3/$6 USD) - 2016/11/15 15:49:14 ET
+Table 'Alniyat' 6-max Seat #5 is the button
+Seat 1: RaisemyNut$ ($144.97 in chips)
+Seat 5: ToDaFelt ($152.79 in chips)
+ToDaFelt: posts small blind $1
+RaisemyNut$: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+RaisemyNut$: calls $3
+*** FLOP *** [4h Kd 9s]
+RaisemyNut$: checks
+ToDaFelt: bets $3
+RaisemyNut$: raises $3 to $6
+ToDaFelt: calls $3
+*** TURN *** [4h Kd 9s] [Qc]
+RaisemyNut$: bets $6
+ToDaFelt: raises $6 to $12
+RaisemyNut$: calls $6
+*** RIVER *** [4h Kd 9s Qc] [Th]
+RaisemyNut$: checks
+ToDaFelt: bets $6
+RaisemyNut$: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [Jh Tc] (a straight, Nine to King)
+RaisemyNut$: mucks hand
+ToDaFelt collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [4h Kd 9s Qc Th]
+Seat 1: RaisemyNut$ (big blind) mucked
+Seat 5: ToDaFelt (button) (small blind) showed [Jh Tc] and won ($59.50) with a straight, Nine to King
+
+

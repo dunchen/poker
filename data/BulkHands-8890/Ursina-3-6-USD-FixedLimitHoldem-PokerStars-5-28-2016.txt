@@ -1,0 +1,111 @@
+PokerStars Hand #153947968254:  Hold'em Limit ($3/$6 USD) - 2016/05/28 5:51:19 ET
+Table 'Ursina' 10-max Seat #5 is the button
+Seat 5: ChicagoBull4 ($78.64 in chips)
+Seat 7: VolkovDmitri ($120 in chips)
+ChicagoBull4: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+ChicagoBull4: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+ChicagoBull4: calls $3
+*** FLOP *** [9s 3s 6h]
+VolkovDmitri: checks
+ChicagoBull4: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [9s 3s 6h] [2h]
+VolkovDmitri: checks
+ChicagoBull4: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [9s 3s 6h 2h] [2d]
+VolkovDmitri: checks
+ChicagoBull4: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [Td 8d] (a pair of Deuces)
+ChicagoBull4: shows [8s Qs] (a pair of Deuces - Queen kicker)
+ChicagoBull4 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [9s 3s 6h 2h 2d]
+Seat 5: ChicagoBull4 (button) (small blind) showed [8s Qs] and won ($35.50) with a pair of Deuces
+Seat 7: VolkovDmitri (big blind) showed [Td 8d] and lost with a pair of Deuces
+
+
+PokerStars Hand #153947954930:  Hold'em Limit ($3/$6 USD) - 2016/05/28 5:50:46 ET
+Table 'Ursina' 10-max Seat #7 is the button
+Seat 5: ChicagoBull4 ($70 in chips)
+Seat 7: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+ChicagoBull4: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+ChicagoBull4: calls $3
+*** FLOP *** [2h Ah 9s]
+ChicagoBull4: checks
+VolkovDmitri: bets $3
+ChicagoBull4: calls $3
+*** TURN *** [2h Ah 9s] [Qs]
+ChicagoBull4: checks
+VolkovDmitri: checks
+*** RIVER *** [2h Ah 9s Qs] [4c]
+ChicagoBull4: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to ChicagoBull4
+ChicagoBull4 collected $17.64 from pot
+ChicagoBull4: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2h Ah 9s Qs 4c]
+Seat 5: ChicagoBull4 (big blind) collected ($17.64)
+Seat 7: VolkovDmitri (button) (small blind) folded on the River
+
+
+PokerStars Hand #153948001246:  Hold'em Limit ($3/$6 USD) - 2016/05/28 5:52:41 ET
+Table 'Ursina' 10-max Seat #5 is the button
+Seat 5: ChicagoBull4 ($95.89 in chips)
+Seat 7: VolkovDmitri ($120 in chips)
+ChicagoBull4: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+ChicagoBull4: folds
+Uncalled bet ($2) returned to VolkovDmitri
+ChicagoBull4 leaves the table
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: ChicagoBull4 (button) (small blind) folded before Flop
+Seat 7: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #153947988396:  Hold'em Limit ($3/$6 USD) - 2016/05/28 5:52:09 ET
+Table 'Ursina' 10-max Seat #7 is the button
+Seat 5: ChicagoBull4 ($96.14 in chips)
+Seat 7: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+ChicagoBull4: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+ChicagoBull4: calls $3
+*** FLOP *** [5c 8s Td]
+ChicagoBull4: checks
+VolkovDmitri: bets $3
+ChicagoBull4: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [5c 8s Td] [Th]
+ChicagoBull4: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [5c 8s Td Th] [9c]
+ChicagoBull4: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+ChicagoBull4: shows [Jd 8c] (two pair, Tens and Eights)
+VolkovDmitri: shows [Js 8h] (two pair, Tens and Eights)
+ChicagoBull4 collected $17.75 from pot
+VolkovDmitri collected $17.75 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5c 8s Td Th 9c]
+Seat 5: ChicagoBull4 (big blind) showed [Jd 8c] and won ($17.75) with two pair, Tens and Eights
+Seat 7: VolkovDmitri (button) (small blind) showed [Js 8h] and won ($17.75) with two pair, Tens and Eights
+
+

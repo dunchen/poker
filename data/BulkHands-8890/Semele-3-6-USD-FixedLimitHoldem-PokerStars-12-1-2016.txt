@@ -1,0 +1,29 @@
+PokerStars Hand #162215731334:  Hold'em Limit ($3/$6 USD) - 2016/11/30 19:34:56 ET
+Table 'Semele' 6-max Seat #5 is the button
+Seat 4: ToDaFelt ($323.43 in chips)
+Seat 5: Chessnok ($94.87 in chips)
+Chessnok: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [3s 5d 9h]
+ToDaFelt: checks
+Chessnok: bets $3
+ToDaFelt: calls $3
+*** TURN *** [3s 5d 9h] [7s]
+ToDaFelt: checks
+Chessnok: checks
+*** RIVER *** [3s 5d 9h 7s] [6d]
+ToDaFelt: bets $6
+Chessnok: folds
+Uncalled bet ($6) returned to ToDaFelt
+ToDaFelt collected $17.64 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3s 5d 9h 7s 6d]
+Seat 4: ToDaFelt (big blind) collected ($17.64)
+Seat 5: Chessnok (button) (small blind) folded on the River
+
+

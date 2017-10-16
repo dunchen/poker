@@ -1,0 +1,65 @@
+PokerStars Hand #163889912467:  Hold'em Limit ($3/$6 USD) - 2017/01/01 19:36:24 ET
+Table 'Alcinoos' 6-max Seat #1 is the button
+Seat 1: Df_master ($263.67 in chips)
+Seat 5: wobetting ($182.86 in chips)
+Df_master: posts small blind $1
+Zubasa07: is sitting out
+wobetting: posts big blind $3
+*** HOLE CARDS ***
+Df_master: raises $3 to $6
+wobetting: calls $3
+*** FLOP *** [8s 9c 9d]
+wobetting: checks
+flinch21 leaves the table
+Df_master: bets $3
+wobetting: calls $3
+*** TURN *** [8s 9c 9d] [3h]
+wobetting: checks
+Df_master: checks
+*** RIVER *** [8s 9c 9d 3h] [Ad]
+wobetting: checks
+Df_master: bets $6
+wobetting: calls $6
+*** SHOW DOWN ***
+Df_master: shows [2c Kc] (a pair of Nines)
+wobetting: shows [Jd Kd] (a pair of Nines - Ace+King+Jack kicker)
+wobetting collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8s 9c 9d 3h Ad]
+Seat 1: Df_master (button) (small blind) showed [2c Kc] and lost with a pair of Nines
+Seat 5: wobetting (big blind) showed [Jd Kd] and won ($29.50) with a pair of Nines
+
+
+PokerStars Hand #163889929178:  Hold'em Limit ($3/$6 USD) - 2017/01/01 19:36:51 ET
+Table 'Alcinoos' 6-max Seat #5 is the button
+Seat 1: Df_master ($248.67 in chips)
+Seat 5: wobetting ($197.36 in chips)
+wobetting: posts small blind $1
+Df_master: posts big blind $3
+*** HOLE CARDS ***
+wobetting: raises $3 to $6
+Df_master: calls $3
+*** FLOP *** [7d 9c 4h]
+Zubasa07 leaves the table
+Df_master: checks
+wobetting: bets $3
+Df_master: raises $3 to $6
+wobetting: raises $3 to $9
+Df_master: calls $3
+*** TURN *** [7d 9c 4h] [6h]
+Df_master: checks
+wobetting: checks
+*** RIVER *** [7d 9c 4h 6h] [Jd]
+Df_master: bets $6
+wobetting: folds
+Uncalled bet ($6) returned to Df_master
+Df_master collected $29.50 from pot
+Df_master: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7d 9c 4h 6h Jd]
+Seat 1: Df_master (big blind) collected ($29.50)
+Seat 5: wobetting (button) (small blind) folded on the River
+
+

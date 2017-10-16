@@ -1,0 +1,79 @@
+PokerStars Hand #167193299692:  Hold'em Limit ($3/$6 USD) - 2017/03/06 7:58:26 ET
+Table 'Nauplius' 6-max Seat #6 is the button
+Seat 5: sim5sim5 ($72 in chips)
+Seat 6: BugerDV ($72 in chips)
+BugerDV: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+BugerDV: raises $3 to $6
+sim5sim5: calls $3
+*** FLOP *** [Js 9s Qs]
+sim5sim5: checks
+BugerDV: bets $3
+sim5sim5: calls $3
+*** TURN *** [Js 9s Qs] [4s]
+sim5sim5: checks
+BugerDV: checks
+*** RIVER *** [Js 9s Qs 4s] [8d]
+sim5sim5: checks
+BugerDV: bets $6
+sim5sim5: folds
+Uncalled bet ($6) returned to BugerDV
+BugerDV collected $17.64 from pot
+BugerDV: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Js 9s Qs 4s 8d]
+Seat 5: sim5sim5 (big blind) folded on the River
+Seat 6: BugerDV (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #167193321570:  Hold'em Limit ($3/$6 USD) - 2017/03/06 7:59:14 ET
+Table 'Nauplius' 6-max Seat #5 is the button
+Seat 5: sim5sim5 ($72 in chips)
+Seat 6: BugerDV ($80.64 in chips)
+sim5sim5: posts small blind $1
+BugerDV: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+BugerDV: calls $3
+*** FLOP *** [4h 9h Kc]
+BugerDV: checks
+sim5sim5: bets $3
+BugerDV: raises $3 to $6
+sim5sim5: calls $3
+*** TURN *** [4h 9h Kc] [Qh]
+BugerDV: bets $6
+sim5sim5: calls $6
+*** RIVER *** [4h 9h Kc Qh] [Kh]
+BugerDV: checks
+sim5sim5: checks
+*** SHOW DOWN ***
+BugerDV: shows [9s 7d] (two pair, Kings and Nines)
+sim5sim5: mucks hand
+BugerDV collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [4h 9h Kc Qh Kh]
+Seat 5: sim5sim5 (button) (small blind) mucked
+Seat 6: BugerDV (big blind) showed [9s 7d] and won ($35.50) with two pair, Kings and Nines
+
+
+PokerStars Hand #167193336715:  Hold'em Limit ($3/$6 USD) - 2017/03/06 7:59:47 ET
+Table 'Nauplius' 6-max Seat #6 is the button
+Seat 5: sim5sim5 ($72 in chips)
+Seat 6: BugerDV ($98.14 in chips)
+BugerDV: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+BugerDV has timed out
+BugerDV: folds
+Uncalled bet ($2) returned to sim5sim5
+sim5sim5 collected $2 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: sim5sim5 (big blind) collected ($2)
+Seat 6: BugerDV (button) (small blind) folded before Flop
+
+

@@ -1,0 +1,80 @@
+PokerStars Hand #175057499580:  Hold'em Limit ($3/$6 USD) - 2017/09/01 6:40:57 ET
+Table 'Aspidiske' 6-max Seat #1 is the button
+Seat 1: Fantomet ($94.41 in chips)
+Seat 2: B_loJkl ($60 in chips)
+Fantomet: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Fantomet: raises $3 to $6
+B_loJkl: raises $3 to $9
+Fantomet: calls $3
+*** FLOP *** [2d As 5c]
+B_loJkl: bets $3
+Fantomet: calls $3
+*** TURN *** [2d As 5c] [7h]
+B_loJkl: bets $6
+Fantomet: calls $6
+*** RIVER *** [2d As 5c 7h] [2h]
+B_loJkl: bets $6
+Fantomet: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [Th 9d] (a pair of Deuces)
+Fantomet: shows [Ks 5h] (two pair, Fives and Deuces)
+Fantomet collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2d As 5c 7h 2h]
+Seat 1: Fantomet (button) (small blind) showed [Ks 5h] and won ($47.50) with two pair, Fives and Deuces
+Seat 2: B_loJkl (big blind) showed [Th 9d] and lost with a pair of Deuces
+
+
+PokerStars Hand #175057507742:  Hold'em Limit ($3/$6 USD) - 2017/09/01 6:41:18 ET
+Table 'Aspidiske' 6-max Seat #2 is the button
+Seat 1: Fantomet ($117.91 in chips)
+Seat 2: B_loJkl ($36 in chips)
+B_loJkl: posts small blind $1
+Fantomet: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+Fantomet: calls $3
+*** FLOP *** [4d 9d Ts]
+Fantomet: checks
+B_loJkl: bets $3
+Fantomet: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4d 9d Ts]
+Seat 1: Fantomet (big blind) folded on the Flop
+Seat 2: B_loJkl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #175058576490:  Hold'em Limit ($3/$6 USD) - 2017/09/01 7:26:10 ET
+Table 'Aspidiske' 6-max Seat #5 is the button
+Seat 1: TbIP-TbIP 88 ($72 in chips)
+Seat 5: RobNesta77 ($260.47 in chips)
+B_loJkl will be allowed to play after the button
+RobNesta77: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+RobNesta77: raises $3 to $6
+TbIP-TbIP 88: raises $3 to $9
+RobNesta77: calls $3
+*** FLOP *** [5h 3s 2h]
+TbIP-TbIP 88: bets $3
+RobNesta77: calls $3
+*** TURN *** [5h 3s 2h] [3h]
+TbIP-TbIP 88: bets $6
+RobNesta77: folds
+Uncalled bet ($6) returned to TbIP-TbIP 88
+TbIP-TbIP 88 collected $23.52 from pot
+TbIP-TbIP 88: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [5h 3s 2h 3h]
+Seat 1: TbIP-TbIP 88 (big blind) collected ($23.52)
+Seat 5: RobNesta77 (button) (small blind) folded on the Turn
+
+

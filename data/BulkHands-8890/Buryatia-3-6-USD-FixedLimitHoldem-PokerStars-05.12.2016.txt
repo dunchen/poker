@@ -1,0 +1,119 @@
+PokerStars Hand #162443667615:  Hold'em Limit ($3/$6 USD) - 2016/12/05 6:12:26 ET
+Table 'Buryatia' 6-max Seat #1 is the button
+Seat 1: MMM 22666 ($56.28 in chips)
+Seat 4: Agrotait ($86.14 in chips)
+MMM 22666: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+MMM 22666: calls $2
+Agrotait: raises $3 to $6
+MMM 22666: calls $3
+*** FLOP *** [4c 6s 9d]
+Agrotait: bets $3
+g4mes87 joins the table at seat #2
+MMM 22666: calls $3
+*** TURN *** [4c 6s 9d] [9h]
+Agrotait: bets $6
+MMM 22666: folds
+Uncalled bet ($6) returned to Agrotait
+Agrotait collected $17.64 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4c 6s 9d 9h]
+Seat 1: MMM 22666 (button) (small blind) folded on the Turn
+Seat 4: Agrotait (big blind) collected ($17.64)
+
+
+PokerStars Hand #162443655591:  Hold'em Limit ($3/$6 USD) - 2016/12/05 6:12:00 ET
+Table 'Buryatia' 6-max Seat #4 is the button
+Seat 1: MMM 22666 ($65.28 in chips)
+Seat 4: Agrotait ($77.50 in chips)
+Agrotait: posts small blind $1
+MMM 22666: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+MMM 22666: calls $3
+*** FLOP *** [Kd Jd Kh]
+MMM 22666: checks
+Agrotait: bets $3
+MMM 22666: calls $3
+*** TURN *** [Kd Jd Kh] [Th]
+MMM 22666: checks
+Agrotait: bets $6
+MMM 22666: folds
+Uncalled bet ($6) returned to Agrotait
+Agrotait collected $17.64 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kd Jd Kh Th]
+Seat 1: MMM 22666 (big blind) folded on the Turn
+Seat 4: Agrotait (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #162443682665:  Hold'em Limit ($3/$6 USD) - 2016/12/05 6:12:58 ET
+Table 'Buryatia' 6-max Seat #4 is the button
+Seat 1: MMM 22666 ($47.28 in chips)
+Seat 4: Agrotait ($94.78 in chips)
+Agrotait: posts small blind $1
+MMM 22666: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+MMM 22666: calls $3
+*** FLOP *** [9s 9h Jh]
+MMM 22666: checks
+Agrotait: bets $3
+MMM 22666: calls $3
+*** TURN *** [9s 9h Jh] [6c]
+MMM 22666: checks
+Agrotait: bets $6
+MMM 22666: raises $6 to $12
+Agrotait: calls $6
+*** RIVER *** [9s 9h Jh 6c] [2h]
+MMM 22666: bets $6
+Agrotait: raises $6 to $12
+MMM 22666: calls $6
+*** SHOW DOWN ***
+Agrotait: shows [Qh Kh] (a flush, King high)
+MMM 22666: mucks hand
+Agrotait collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [9s 9h Jh 6c 2h]
+Seat 1: MMM 22666 (big blind) mucked
+Seat 4: Agrotait (button) (small blind) showed [Qh Kh] and won ($65.50) with a flush, King high
+
+
+PokerStars Hand #162443796161:  Hold'em Limit ($3/$6 USD) - 2016/12/05 6:17:03 ET
+Table 'Buryatia' 6-max Seat #4 is the button
+Seat 2: g4mes87 ($159.35 in chips)
+Seat 4: Agrotait ($96.59 in chips)
+Agrotait: posts small blind $1
+g4mes87: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+g4mes87: raises $3 to $9
+MMM 22666 leaves the table
+Agrotait: calls $3
+*** FLOP *** [4c 6s 9h]
+g4mes87: bets $3
+Agrotait: calls $3
+*** TURN *** [4c 6s 9h] [Ks]
+g4mes87: checks
+Agrotait: checks
+*** RIVER *** [4c 6s 9h Ks] [8c]
+g4mes87: checks
+Agrotait: bets $6
+g4mes87: calls $6
+*** SHOW DOWN ***
+Agrotait: shows [Kh Ac] (a pair of Kings)
+g4mes87: mucks hand
+Agrotait collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [4c 6s 9h Ks 8c]
+Seat 2: g4mes87 (big blind) mucked
+Seat 4: Agrotait (button) (small blind) showed [Kh Ac] and won ($35.50) with a pair of Kings
+
+

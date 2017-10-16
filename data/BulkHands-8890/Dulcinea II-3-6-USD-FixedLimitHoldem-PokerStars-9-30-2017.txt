@@ -1,0 +1,67 @@
+PokerStars Hand #176307406458:  Hold'em Limit ($3/$6 USD) - 2017/09/30 9:38:18 ET
+Table 'Dulcinea II' 6-max Seat #6 is the button
+Seat 4: VolkovDmitri ($120 in chips)
+Seat 6: 970816 ($106.94 in chips)
+970816: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa joins the table at seat #1
+970816: calls $2
+VolkovDmitri: raises $3 to $6
+970816: calls $3
+*** FLOP *** [4h 8s 5h]
+VolkovDmitri: checks
+970816: bets $3
+moteped77 joins the table at seat #2
+VolkovDmitri: calls $3
+*** TURN *** [4h 8s 5h] [9c]
+VolkovDmitri: checks
+970816: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [4h 8s 5h 9c] [9s]
+VolkovDmitri: checks
+970816: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to 970816
+970816 collected $29.50 from pot
+970816: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4h 8s 5h 9c 9s]
+Seat 4: VolkovDmitri (big blind) folded on the River
+Seat 6: 970816 (button) (small blind) collected ($29.50)
+
+
+PokerStars Hand #176307809458:  Hold'em Limit ($3/$6 USD) - 2017/09/30 9:49:59 ET
+Table 'Dulcinea II' 6-max Seat #3 is the button
+Seat 2: moteped77 ($19.90 in chips)
+Seat 3: Ag3r0n ($72 in chips)
+Ag3r0n: posts small blind $1
+VolkovDmitri: is sitting out
+moteped77: posts big blind $3
+*** HOLE CARDS ***
+Ag3r0n: raises $3 to $6
+VolkovDmitri leaves the table
+moteped77: calls $3
+*** FLOP *** [9s 3h 8h]
+moteped77: checks
+Ag3r0n: bets $3
+moteped77: raises $3 to $6
+Ag3r0n: calls $3
+*** TURN *** [9s 3h 8h] [Ts]
+moteped77: checks
+Ag3r0n: bets $6
+moteped77: raises $1.90 to $7.90 and is all-in
+Ag3r0n: calls $1.90
+*** RIVER *** [9s 3h 8h Ts] [9h]
+*** SHOW DOWN ***
+moteped77: shows [8c Qc] (two pair, Nines and Eights)
+Ag3r0n: shows [8s Th] (two pair, Tens and Nines)
+Ag3r0n collected $39.30 from pot
+*** SUMMARY ***
+Total pot $39.80 | Rake $0.50
+Board [9s 3h 8h Ts 9h]
+Seat 2: moteped77 (big blind) showed [8c Qc] and lost with two pair, Nines and Eights
+Seat 3: Ag3r0n (button) (small blind) showed [8s Th] and won ($39.30) with two pair, Tens and Nines
+
+

@@ -1,0 +1,32 @@
+PokerStars Hand #161094482310:  Hold'em Limit ($3/$6 USD) - 2016/11/08 11:24:31 ET
+Table 'Vaino' 6-max Seat #5 is the button
+Seat 3: B_loJkl ($171.74 in chips)
+Seat 5: sinsadir ($148.57 in chips)
+sinsadir: posts small blind $1
+arina201317: is sitting out
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+sinsadir: raises $3 to $6
+arina201317 leaves the table
+B_loJkl: calls $3
+*** FLOP *** [3s Th 2h]
+B_loJkl: checks
+sinsadir: bets $3
+B_loJkl: calls $3
+*** TURN *** [3s Th 2h] [2d]
+B_loJkl: checks
+sinsadir: checks
+*** RIVER *** [3s Th 2h 2d] [7h]
+B_loJkl: bets $6
+sinsadir: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [6h 3d] (two pair, Threes and Deuces)
+sinsadir: mucks hand
+B_loJkl collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3s Th 2h 2d 7h]
+Seat 3: B_loJkl (big blind) showed [6h 3d] and won ($29.50) with two pair, Threes and Deuces
+Seat 5: sinsadir (button) (small blind) mucked
+
+

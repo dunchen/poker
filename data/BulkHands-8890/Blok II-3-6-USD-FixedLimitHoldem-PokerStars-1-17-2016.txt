@@ -1,0 +1,30 @@
+PokerStars Hand #147190393718:  Hold'em Limit ($3/$6 USD) - 2016/01/17 8:49:24 ET
+Table 'Blok II' 2-max Seat #2 is the button
+Seat 1: grabaz ($120 in chips)
+Seat 2: jl45259071 ($134.50 in chips)
+jl45259071: posts small blind $1
+grabaz: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+grabaz: checks
+*** FLOP *** [Jh 9d Ah]
+grabaz: checks
+jl45259071: bets $3
+grabaz: calls $3
+*** TURN *** [Jh 9d Ah] [8s]
+grabaz: checks
+jl45259071: checks
+*** RIVER *** [Jh 9d Ah 8s] [Qs]
+grabaz: checks
+jl45259071: checks
+*** SHOW DOWN ***
+grabaz: shows [6d Kh] (high card Ace)
+jl45259071: mucks hand
+grabaz collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jh 9d Ah 8s Qs]
+Seat 1: grabaz (big blind) showed [6d Kh] and won ($11.76) with high card Ace
+Seat 2: jl45259071 (button) (small blind) mucked
+
+

@@ -1,0 +1,63 @@
+PokerStars Hand #173189926972:  Hold'em Limit ($3/$6 USD) - 2017/07/18 8:32:19 ET
+Table 'Penelope' 6-max Seat #3 is the button
+Seat 1: Ale4o ($130.34 in chips)
+Seat 3: sim5sim5 ($103.35 in chips)
+sim5sim5: posts small blind $1
+Warner13: is sitting out
+Ale4o: posts big blind $3
+*** HOLE CARDS ***
+Warner13 leaves the table
+sim5sim5: raises $3 to $6
+Ale4o: calls $3
+*** FLOP *** [5d 8h 2d]
+Ale4o: checks
+sim5sim5: bets $3
+Ale4o: calls $3
+*** TURN *** [5d 8h 2d] [Jc]
+Ale4o: checks
+sim5sim5: bets $6
+Ale4o: raises $6 to $12
+sim5sim5: calls $6
+*** RIVER *** [5d 8h 2d Jc] [Qh]
+Ale4o: bets $6
+sim5sim5: calls $6
+*** SHOW DOWN ***
+Ale4o: shows [5c Jd] (two pair, Jacks and Fives)
+sim5sim5: mucks hand
+Ale4o collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [5d 8h 2d Jc Qh]
+Seat 1: Ale4o (big blind) showed [5c Jd] and won ($53.50) with two pair, Jacks and Fives
+Seat 3: sim5sim5 (button) (small blind) mucked
+
+
+PokerStars Hand #173189939185:  Hold'em Limit ($3/$6 USD) - 2017/07/18 8:32:45 ET
+Table 'Penelope' 6-max Seat #1 is the button
+Seat 1: Ale4o ($156.84 in chips)
+Seat 3: sim5sim5 ($76.35 in chips)
+Ale4o: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+Ale4o: raises $3 to $6
+sim5sim5: calls $3
+*** FLOP *** [Kh 9d 7h]
+sim5sim5: checks
+Ale4o: checks
+*** TURN *** [Kh 9d 7h] [9c]
+sim5sim5: checks
+Ale4o: checks
+*** RIVER *** [Kh 9d 7h 9c] [3d]
+sim5sim5: checks
+Ale4o: checks
+*** SHOW DOWN ***
+sim5sim5: shows [Td 6c] (a pair of Nines)
+Ale4o: shows [Js As] (a pair of Nines - Ace kicker)
+Ale4o collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kh 9d 7h 9c 3d]
+Seat 1: Ale4o (button) (small blind) showed [Js As] and won ($11.76) with a pair of Nines
+Seat 3: sim5sim5 (big blind) showed [Td 6c] and lost with a pair of Nines
+
+

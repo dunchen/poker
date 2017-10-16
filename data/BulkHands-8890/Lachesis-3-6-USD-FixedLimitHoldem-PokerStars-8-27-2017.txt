@@ -1,0 +1,59 @@
+PokerStars Hand #174859440998:  Hold'em Limit ($3/$6 USD) - 2017/08/27 11:36:39 ET
+Table 'Lachesis' 6-max Seat #3 is the button
+Seat 3: 4iginark ($120 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+4iginark: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+4iginark: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [5c Qh Qc]
+VolkovDmitri: checks
+4iginark: bets $3
+ermolov1 joins the table at seat #5
+VolkovDmitri: raises $3 to $6
+4iginark: calls $3
+*** TURN *** [5c Qh Qc] [Jh]
+VolkovDmitri: bets $6
+4iginark: raises $6 to $12
+VolkovDmitri: folds
+Uncalled bet ($6) returned to 4iginark
+4iginark collected $35.50 from pot
+4iginark: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5c Qh Qc Jh]
+Seat 3: 4iginark (button) (small blind) collected ($35.50)
+Seat 4: VolkovDmitri (big blind) folded on the Turn
+
+
+PokerStars Hand #174860065201:  Hold'em Limit ($3/$6 USD) - 2017/08/27 11:52:31 ET
+Table 'Lachesis' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($159.63 in chips)
+Seat 6: Anchig ($90.89 in chips)
+VolkovDmitri: posts small blind $1
+ermolov1: is sitting out
+Anchig: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Anchig: calls $3
+*** FLOP *** [4h 4s Jd]
+Anchig: checks
+ermolov1 leaves the table
+VolkovDmitri: bets $3
+Anchig: calls $3
+*** TURN *** [4h 4s Jd] [7s]
+Anchig: checks
+VolkovDmitri: bets $6
+Anchig: raises $6 to $12
+VolkovDmitri: folds
+Uncalled bet ($6) returned to Anchig
+Anchig collected $29.50 from pot
+Anchig: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4h 4s Jd 7s]
+Seat 4: VolkovDmitri (button) (small blind) folded on the Turn
+Seat 6: Anchig (big blind) collected ($29.50)
+
+

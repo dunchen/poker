@@ -1,0 +1,33 @@
+PokerStars Hand #161339563722:  Hold'em Limit ($3/$6 USD) - 2016/11/13 11:01:55 ET
+Table 'Enceladus III' 6-max Seat #5 is the button
+Seat 3: gabiruboy ($29 in chips)
+Seat 5: Mordnilap ($77.76 in chips)
+Mordnilap: posts small blind $1
+gabiruboy: posts big blind $3
+*** HOLE CARDS ***
+Mordnilap: raises $3 to $6
+gabiruboy: calls $3
+*** FLOP *** [8d Jd 8h]
+gabiruboy: checks
+Mordnilap: bets $3
+gabiruboy: calls $3
+*** TURN *** [8d Jd 8h] [Jh]
+gabiruboy: checks
+Mordnilap: bets $6
+gabiruboy: raises $6 to $12
+Mordnilap: raises $6 to $18
+gabiruboy: calls $6
+*** RIVER *** [8d Jd 8h Jh] [Js]
+gabiruboy: bets $2 and is all-in
+Mordnilap: calls $2
+*** SHOW DOWN ***
+gabiruboy: shows [7d 8s] (a full house, Jacks full of Eights)
+Mordnilap: shows [Jc Kc] (four of a kind, Jacks)
+Mordnilap collected $57.50 from pot
+*** SUMMARY ***
+Total pot $58 | Rake $0.50
+Board [8d Jd 8h Jh Js]
+Seat 3: gabiruboy (big blind) showed [7d 8s] and lost with a full house, Jacks full of Eights
+Seat 5: Mordnilap (button) (small blind) showed [Jc Kc] and won ($57.50) with four of a kind, Jacks
+
+

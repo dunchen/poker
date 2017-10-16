@@ -1,0 +1,127 @@
+PokerStars Hand #164443854523:  Hold'em Limit ($3/$6 USD) - 2017/01/12 5:25:20 ET
+Table 'Disa' 6-max Seat #4 is the button
+Seat 1: ZOGI ($258.11 in chips)
+Seat 4: VolkovDmitri ($121 in chips)
+VolkovDmitri: posts small blind $1
+ZOGI: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+ZOGI: calls $3
+*** FLOP *** [5d 6c Js]
+ZOGI: checks
+VolkovDmitri: bets $3
+ZOGI: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5d 6c Js]
+Seat 1: ZOGI (big blind) folded on the Flop
+Seat 4: VolkovDmitri (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #164443850095:  Hold'em Limit ($3/$6 USD) - 2017/01/12 5:25:09 ET
+Table 'Disa' 6-max Seat #1 is the button
+Seat 1: ZOGI ($259.11 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+ZOGI: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+ZOGI: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: ZOGI (button) (small blind) folded before Flop
+Seat 4: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #164443897382:  Hold'em Limit ($3/$6 USD) - 2017/01/12 5:27:01 ET
+Table 'Disa' 6-max Seat #4 is the button
+Seat 1: ZOGI ($269.61 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+ZOGI: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+ZOGI: calls $3
+*** FLOP *** [5s Ac 6d]
+ZOGI: checks
+VolkovDmitri: bets $3
+ZOGI: calls $3
+*** TURN *** [5s Ac 6d] [2d]
+ZOGI: checks
+VolkovDmitri: checks
+*** RIVER *** [5s Ac 6d 2d] [3d]
+ZOGI: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+ZOGI: shows [6s Qc] (a pair of Sixes)
+VolkovDmitri: mucks hand
+ZOGI collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5s Ac 6d 2d 3d]
+Seat 1: ZOGI (big blind) showed [6s Qc] and won ($17.64) with a pair of Sixes
+Seat 4: VolkovDmitri (button) (small blind) mucked
+
+
+PokerStars Hand #164443862425:  Hold'em Limit ($3/$6 USD) - 2017/01/12 5:25:38 ET
+Table 'Disa' 6-max Seat #1 is the button
+Seat 1: ZOGI ($252.11 in chips)
+Seat 4: VolkovDmitri ($126.76 in chips)
+ZOGI: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+ZOGI: calls $2
+VolkovDmitri: raises $3 to $6
+ZOGI: calls $3
+*** FLOP *** [9c 3h 4c]
+VolkovDmitri: bets $3
+ZOGI: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [9c 3h 4c] [7s]
+VolkovDmitri: checks
+ZOGI: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [9c 3h 4c 7s] [8c]
+VolkovDmitri: checks
+ZOGI: bets $6
+TbIP-TbIP 88 joins the table at seat #2
+Ale4o joins the table at seat #3
+VolkovDmitri: folds
+Uncalled bet ($6) returned to ZOGI
+ZOGI collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [9c 3h 4c 7s 8c]
+Seat 1: ZOGI (button) (small blind) collected ($35.50)
+Seat 4: VolkovDmitri (big blind) folded on the River
+
+
+PokerStars Hand #164444384163:  Hold'em Limit ($3/$6 USD) - 2017/01/12 5:45:55 ET
+Table 'Disa' 6-max Seat #3 is the button
+Seat 2: TbIP-TbIP 88 ($72 in chips)
+Seat 3: Ale4o ($324.70 in chips)
+Ale4o: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+Ale4o: raises $3 to $6
+TbIP-TbIP 88: calls $3
+*** FLOP *** [3c Kd As]
+TbIP-TbIP 88: checks
+Ale4o: bets $3
+TbIP-TbIP 88: raises $3 to $6
+Ale4o: folds
+Uncalled bet ($3) returned to TbIP-TbIP 88
+TbIP-TbIP 88 collected $17.64 from pot
+TbIP-TbIP 88: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3c Kd As]
+Seat 2: TbIP-TbIP 88 (big blind) collected ($17.64)
+Seat 3: Ale4o (button) (small blind) folded on the Flop
+
+

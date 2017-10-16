@@ -1,0 +1,60 @@
+PokerStars Hand #151643955531:  Hold'em Limit ($3/$6 USD) - 2016/04/08 22:25:57 ET
+Table 'Thyra' 6-max Seat #1 is the button
+Seat 1: Mordnilap ($72 in chips)
+Seat 6: zkarpis ($30 in chips)
+Mordnilap: posts small blind $1
+Kurganski: is sitting out
+Kurganski leaves the table
+zkarpis: posts big blind $3
+*** HOLE CARDS ***
+Mordnilap: raises $3 to $6
+zkarpis: raises $3 to $9
+owenheadch joins the table at seat #4
+Mordnilap: calls $3
+*** FLOP *** [Qs 4c Kd]
+zkarpis: bets $3
+Mordnilap: folds
+Uncalled bet ($3) returned to zkarpis
+zkarpis collected $17.64 from pot
+zkarpis: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qs 4c Kd]
+Seat 1: Mordnilap (button) (small blind) folded on the Flop
+Seat 6: zkarpis (big blind) collected ($17.64)
+
+
+PokerStars Hand #151643966838:  Hold'em Limit ($3/$6 USD) - 2016/04/08 22:26:27 ET
+Table 'Thyra' 6-max Seat #4 is the button
+Seat 1: Mordnilap ($72 in chips)
+Seat 4: owenheadch ($294 in chips)
+owenheadch: posts small blind $1
+Mordnilap: posts big blind $3
+*** HOLE CARDS ***
+owenheadch: raises $3 to $6
+Mordnilap: calls $3
+*** FLOP *** [7c 8s 5h]
+Mordnilap: checks
+owenheadch: bets $3
+Mordnilap: calls $3
+*** TURN *** [7c 8s 5h] [Kc]
+Mordnilap: checks
+owenheadch: bets $6
+Mordnilap: raises $6 to $12
+owenheadch: raises $6 to $18
+Mordnilap: calls $6
+*** RIVER *** [7c 8s 5h Kc] [9d]
+Mordnilap: checks
+owenheadch: bets $6
+Mordnilap: calls $6
+*** SHOW DOWN ***
+owenheadch: shows [Ks 8d] (two pair, Kings and Eights)
+Mordnilap: mucks hand
+owenheadch collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [7c 8s 5h Kc 9d]
+Seat 1: Mordnilap (big blind) mucked
+Seat 4: owenheadch (button) (small blind) showed [Ks 8d] and won ($65.50) with two pair, Kings and Eights
+
+

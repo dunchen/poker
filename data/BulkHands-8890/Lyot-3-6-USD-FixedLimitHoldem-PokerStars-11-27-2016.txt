@@ -1,0 +1,82 @@
+PokerStars Hand #162050765414:  Hold'em Limit ($3/$6 USD) - 2016/11/27 14:13:33 ET
+Table 'Lyot' 6-max Seat #3 is the button
+Seat 3: liamOS ($110.64 in chips)
+Seat 4: MTails ($128.50 in chips)
+liamOS: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+liamOS: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [3c 2d As]
+MTails: checks
+liamOS: bets $3
+MTails: raises $3 to $6
+**Geka**555 joins the table at seat #2
+liamOS: folds
+Uncalled bet ($3) returned to MTails
+MTails collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3c 2d As]
+Seat 3: liamOS (button) (small blind) folded on the Flop
+Seat 4: MTails (big blind) collected ($17.64)
+
+
+PokerStars Hand #162050739839:  Hold'em Limit ($3/$6 USD) - 2016/11/27 14:13:09 ET
+Table 'Lyot' 6-max Seat #4 is the button
+Seat 3: liamOS ($102 in chips)
+Seat 4: MTails ($137.50 in chips)
+MTails: posts small blind $1
+liamOS: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+liamOS: calls $3
+*** FLOP *** [Qh 5d Td]
+liamOS: checks
+MTails: bets $3
+liamOS: calls $3
+*** TURN *** [Qh 5d Td] [3c]
+liamOS: checks
+MTails: checks
+*** RIVER *** [Qh 5d Td 3c] [Kc]
+liamOS: bets $6
+MTails: folds
+Uncalled bet ($6) returned to liamOS
+liamOS collected $17.64 from pot
+liamOS: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qh 5d Td 3c Kc]
+Seat 3: liamOS (big blind) collected ($17.64)
+Seat 4: MTails (button) (small blind) folded on the River
+
+
+PokerStars Hand #162050701416:  Hold'em Limit ($3/$6 USD) - 2016/11/27 14:12:32 ET
+Table 'Lyot' 6-max Seat #3 is the button
+Seat 3: liamOS ($120 in chips)
+Seat 4: MTails ($120 in chips)
+liamOS: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+liamOS: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [6s 2c Ts]
+MTails: checks
+liamOS: checks
+*** TURN *** [6s 2c Ts] [4d]
+MTails: bets $6
+liamOS: calls $6
+*** RIVER *** [6s 2c Ts 4d] [2d]
+MTails: bets $6
+liamOS: calls $6
+*** SHOW DOWN ***
+MTails: shows [Td 2h] (a full house, Deuces full of Tens)
+liamOS: mucks hand
+MTails collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6s 2c Ts 4d 2d]
+Seat 3: liamOS (button) (small blind) mucked
+Seat 4: MTails (big blind) showed [Td 2h] and won ($35.50) with a full house, Deuces full of Tens
+
+

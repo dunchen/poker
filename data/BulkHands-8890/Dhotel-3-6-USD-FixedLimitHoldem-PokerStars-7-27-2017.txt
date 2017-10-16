@@ -1,0 +1,97 @@
+PokerStars Hand #173588063059:  Hold'em Limit ($3/$6 USD) - 2017/07/27 16:08:29 ET
+Table 'Dhotel' 6-max Seat #4 is the button
+Seat 4: B_loJkl ($145 in chips)
+Seat 5: igorkabmw ($38.76 in chips)
+B_loJkl: posts small blind $1
+igorkabmw: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+igorkabmw: calls $3
+*** FLOP *** [7h 4d Td]
+igorkabmw: bets $3
+B_loJkl: calls $3
+*** TURN *** [7h 4d Td] [Kd]
+igorkabmw: checks
+B_loJkl: checks
+*** RIVER *** [7h 4d Td Kd] [5d]
+igorkabmw: checks
+CONSTANCY555 joins the table at seat #3
+B_loJkl: checks
+*** SHOW DOWN ***
+igorkabmw: shows [Kc 7s] (two pair, Kings and Sevens)
+B_loJkl: mucks hand
+igorkabmw collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7h 4d Td Kd 5d]
+Seat 4: B_loJkl (button) (small blind) mucked
+Seat 5: igorkabmw (big blind) showed [Kc 7s] and won ($17.64) with two pair, Kings and Sevens
+
+
+PokerStars Hand #173590371248:  Hold'em Limit ($3/$6 USD) - 2017/07/27 16:55:32 ET
+Table 'Dhotel' 6-max Seat #4 is the button
+Seat 3: pompier40 ($133.27 in chips)
+Seat 4: B_loJkl ($78.29 in chips)
+B_loJkl: posts small blind $1
+ToDaFelt: is sitting out
+pompier40: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+ToDaFelt leaves the table
+pompier40: calls $3
+*** FLOP *** [9c Th 3d]
+pompier40: checks
+B_loJkl: bets $3
+pompier40: calls $3
+*** TURN *** [9c Th 3d] [Qc]
+pompier40: checks
+B_loJkl: bets $6
+pompier40: calls $6
+*** RIVER *** [9c Th 3d Qc] [Jh]
+pompier40: checks
+B_loJkl: checks
+*** SHOW DOWN ***
+pompier40: shows [3h Ac] (a pair of Threes)
+B_loJkl: shows [8c 6h] (a straight, Eight to Queen)
+B_loJkl collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9c Th 3d Qc Jh]
+Seat 3: pompier40 (big blind) showed [3h Ac] and lost with a pair of Threes
+Seat 4: B_loJkl (button) (small blind) showed [8c 6h] and won ($29.50) with a straight, Eight to Queen
+
+
+PokerStars Hand #173590398375:  Hold'em Limit ($3/$6 USD) - 2017/07/27 16:56:15 ET
+Table 'Dhotel' 6-max Seat #3 is the button
+Seat 3: pompier40 ($118.27 in chips)
+Seat 4: B_loJkl ($92.79 in chips)
+pompier40: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+pompier40: raises $3 to $6
+B_loJkl: raises $3 to $9
+pompier40: raises $3 to $12
+Betting is capped
+B_loJkl: calls $3
+*** FLOP *** [9h 7c Qd]
+B_loJkl: bets $3
+pompier40: calls $3
+*** TURN *** [9h 7c Qd] [Ac]
+B_loJkl: bets $6
+pompier40: raises $6 to $12
+B_loJkl: raises $6 to $18
+pompier40: calls $6
+*** RIVER *** [9h 7c Qd Ac] [2c]
+B_loJkl: bets $6
+pompier40: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [9c 9d] (three of a kind, Nines)
+pompier40: shows [Kh Kd] (a pair of Kings)
+B_loJkl collected $77.50 from pot
+*** SUMMARY ***
+Total pot $78 | Rake $0.50
+Board [9h 7c Qd Ac 2c]
+Seat 3: pompier40 (button) (small blind) showed [Kh Kd] and lost with a pair of Kings
+Seat 4: B_loJkl (big blind) showed [9c 9d] and won ($77.50) with three of a kind, Nines
+
+

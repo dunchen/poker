@@ -1,0 +1,87 @@
+PokerStars Hand #162972646545:  Hold'em Limit ($3/$6 USD) - 2016/12/15 5:44:53 ET
+Table 'Aurelia II' 6-max Seat #4 is the button
+Seat 1: aremom4e ($99 in chips)
+Seat 4: Agrotait ($92.50 in chips)
+Agrotait: posts small blind $1
+aremom4e: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+aremom4e: calls $3
+*** FLOP *** [Kc 8d 4h]
+aremom4e: checks
+Agrotait: bets $3
+aremom4e: raises $3 to $6
+Agrotait: folds
+Uncalled bet ($3) returned to aremom4e
+aremom4e collected $17.64 from pot
+aremom4e: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kc 8d 4h]
+Seat 1: aremom4e (big blind) collected ($17.64)
+Seat 4: Agrotait (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #162972624148:  Hold'em Limit ($3/$6 USD) - 2016/12/15 5:44:00 ET
+Table 'Aurelia II' 6-max Seat #1 is the button
+Seat 1: aremom4e ($120 in chips)
+Seat 4: Agrotait ($72 in chips)
+aremom4e: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+aremom4e: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [Qh 8h 6h]
+Agrotait: checks
+ToDaFelt joins the table at seat #2
+aremom4e: bets $3
+Agrotait: calls $3
+*** TURN *** [Qh 8h 6h] [3s]
+Agrotait: bets $6
+aremom4e: calls $6
+*** RIVER *** [Qh 8h 6h 3s] [8c]
+Agrotait: bets $6
+aremom4e: calls $6
+*** SHOW DOWN ***
+Agrotait: shows [3h Qs] (two pair, Queens and Eights)
+aremom4e: mucks hand
+Agrotait collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Qh 8h 6h 3s 8c]
+Seat 1: aremom4e (button) (small blind) mucked
+Seat 4: Agrotait (big blind) showed [3h Qs] and won ($41.50) with two pair, Queens and Eights
+
+
+PokerStars Hand #162974857187:  Hold'em Limit ($3/$6 USD) - 2016/12/15 7:06:16 ET
+Table 'Aurelia II' 6-max Seat #3 is the button
+Seat 2: ToDaFelt ($166.70 in chips)
+Seat 3: rascal_319 ($55.43 in chips)
+rascal_319: posts small blind $1
+B_loJkl: is sitting out
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+rascal_319: raises $3 to $6
+ToDaFelt: raises $3 to $9
+rascal_319: calls $3
+*** FLOP *** [3h Ah 7s]
+ToDaFelt: bets $3
+rascal_319: calls $3
+*** TURN *** [3h Ah 7s] [2d]
+ToDaFelt: bets $6
+rascal_319: calls $6
+*** RIVER *** [3h Ah 7s 2d] [2s]
+ToDaFelt: bets $6
+rascal_319: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [As 6d] (two pair, Aces and Deuces)
+rascal_319: shows [Ad 4c] (two pair, Aces and Deuces)
+ToDaFelt collected $23.75 from pot
+rascal_319 collected $23.75 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3h Ah 7s 2d 2s]
+Seat 2: ToDaFelt (big blind) showed [As 6d] and won ($23.75) with two pair, Aces and Deuces
+Seat 3: rascal_319 (button) (small blind) showed [Ad 4c] and won ($23.75) with two pair, Aces and Deuces
+
+

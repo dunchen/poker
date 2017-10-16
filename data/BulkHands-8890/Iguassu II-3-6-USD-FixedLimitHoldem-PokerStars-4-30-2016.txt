@@ -1,0 +1,91 @@
+PokerStars Hand #152653556690:  Hold'em Limit ($3/$6 USD) - 2016/04/30 9:00:31 ET
+Table 'Iguassu II' 6-max Seat #3 is the button
+Seat 3: Thijsje1200 ($60 in chips)
+Seat 4: Airbag999 ($120 in chips)
+Thijsje1200: posts small blind $1
+Airbag999: posts big blind $3
+*** HOLE CARDS ***
+Thijsje1200: raises $3 to $6
+Airbag999: calls $3
+*** FLOP *** [5c 2c 4s]
+Airbag999: checks
+Thijsje1200: bets $3
+Airbag999: calls $3
+*** TURN *** [5c 2c 4s] [9h]
+Airbag999: checks
+Thijsje1200: checks
+*** RIVER *** [5c 2c 4s 9h] [9d]
+Airbag999: bets $6
+Thijsje1200: calls $6
+*** SHOW DOWN ***
+Airbag999: shows [Qs 2h] (two pair, Nines and Deuces)
+Thijsje1200: shows [Kh 5d] (two pair, Nines and Fives)
+Thijsje1200 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5c 2c 4s 9h 9d]
+Seat 3: Thijsje1200 (button) (small blind) showed [Kh 5d] and won ($29.50) with two pair, Nines and Fives
+Seat 4: Airbag999 (big blind) showed [Qs 2h] and lost with two pair, Nines and Deuces
+
+
+PokerStars Hand #152653567453:  Hold'em Limit ($3/$6 USD) - 2016/04/30 9:00:52 ET
+Table 'Iguassu II' 6-max Seat #4 is the button
+Seat 3: Thijsje1200 ($74.50 in chips)
+Seat 4: Airbag999 ($105 in chips)
+Airbag999: posts small blind $1
+Thijsje1200: posts big blind $3
+*** HOLE CARDS ***
+Airbag999: raises $3 to $6
+Thijsje1200: calls $3
+*** FLOP *** [4h Qd Ah]
+Thijsje1200: checks
+Airbag999: bets $3
+Thijsje1200: calls $3
+*** TURN *** [4h Qd Ah] [Th]
+Thijsje1200: checks
+Fenster joins the table at seat #5
+Airbag999: checks
+*** RIVER *** [4h Qd Ah Th] [6h]
+Thijsje1200: bets $6
+Airbag999: calls $6
+*** SHOW DOWN ***
+Thijsje1200: shows [Kd Jc] (a straight, Ten to Ace)
+Airbag999: mucks hand
+Thijsje1200 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4h Qd Ah Th 6h]
+Seat 3: Thijsje1200 (big blind) showed [Kd Jc] and won ($29.50) with a straight, Ten to Ace
+Seat 4: Airbag999 (button) (small blind) mucked
+
+
+PokerStars Hand #152653579459:  Hold'em Limit ($3/$6 USD) - 2016/04/30 9:01:13 ET
+Table 'Iguassu II' 6-max Seat #3 is the button
+Seat 3: Thijsje1200 ($89 in chips)
+Seat 4: Airbag999 ($120 in chips)
+Thijsje1200: posts small blind $1
+Airbag999: posts big blind $3
+*** HOLE CARDS ***
+Thijsje1200: raises $3 to $6
+Airbag999: calls $3
+*** FLOP *** [Td Th Tc]
+Airbag999: checks
+Thijsje1200: checks
+*** TURN *** [Td Th Tc] [2c]
+Airbag999: bets $6
+Thijsje1200: calls $6
+*** RIVER *** [Td Th Tc 2c] [8s]
+Airbag999: checks
+Thijsje1200: checks
+*** SHOW DOWN ***
+Airbag999: shows [4h Ac] (three of a kind, Tens)
+Thijsje1200: shows [As 4c] (three of a kind, Tens)
+Airbag999 collected $11.76 from pot
+Thijsje1200 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Td Th Tc 2c 8s]
+Seat 3: Thijsje1200 (button) (small blind) showed [As 4c] and won ($11.76) with three of a kind, Tens
+Seat 4: Airbag999 (big blind) showed [4h Ac] and won ($11.76) with three of a kind, Tens
+
+

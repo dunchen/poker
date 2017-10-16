@@ -1,0 +1,145 @@
+PokerStars Hand #153437602163:  Hold'em Limit ($3/$6 USD) - 2016/05/17 7:02:18 ET
+Table 'Alleghenia' 6-max Seat #4 is the button
+Seat 4: griffeur 94 ($27 in chips)
+Seat 5: Agrotait ($86.07 in chips)
+griffeur 94: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+griffeur 94: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [4d 7c Jh]
+Agrotait: checks
+griffeur 94: checks
+*** TURN *** [4d 7c Jh] [Jc]
+Agrotait: bets $6
+griffeur 94: raises $6 to $12
+Agrotait: folds
+Uncalled bet ($6) returned to griffeur 94
+griffeur 94 collected $23.52 from pot
+griffeur 94: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [4d 7c Jh Jc]
+Seat 4: griffeur 94 (button) (small blind) collected ($23.52)
+Seat 5: Agrotait (big blind) folded on the Turn
+
+
+PokerStars Hand #153437624510:  Hold'em Limit ($3/$6 USD) - 2016/05/17 7:03:10 ET
+Table 'Alleghenia' 6-max Seat #4 is the button
+Seat 4: griffeur 94 ($65.02 in chips)
+Seat 5: Agrotait ($72 in chips)
+griffeur 94: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+griffeur 94: calls $2
+Agrotait: raises $3 to $6
+griffeur 94: calls $3
+*** FLOP *** [As 8c Ac]
+Agrotait: bets $3
+griffeur 94: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $11.76 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [As 8c Ac]
+Seat 4: griffeur 94 (button) (small blind) folded on the Flop
+Seat 5: Agrotait (big blind) collected ($11.76)
+
+
+PokerStars Hand #153437614545:  Hold'em Limit ($3/$6 USD) - 2016/05/17 7:02:47 ET
+Table 'Alleghenia' 6-max Seat #5 is the button
+Seat 4: griffeur 94 ($38.52 in chips)
+Seat 5: Agrotait ($74.07 in chips)
+Agrotait: posts small blind $1
+griffeur 94: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+griffeur 94: calls $3
+*** FLOP *** [5h 9d Jc]
+griffeur 94: checks
+Agrotait: bets $3
+griffeur 94: calls $3
+*** TURN *** [5h 9d Jc] [8h]
+griffeur 94: checks
+Agrotait: bets $6
+griffeur 94: raises $6 to $12
+Agrotait: calls $6
+*** RIVER *** [5h 9d Jc 8h] [Ah]
+ravnen666 joins the table at seat #1
+griffeur 94: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+griffeur 94: shows [Jh 8s] (two pair, Jacks and Eights)
+Agrotait: mucks hand
+griffeur 94 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [5h 9d Jc 8h Ah]
+Seat 4: griffeur 94 (big blind) showed [Jh 8s] and won ($53.50) with two pair, Jacks and Eights
+Seat 5: Agrotait (button) (small blind) mucked
+
+
+PokerStars Hand #153439451733:  Hold'em Limit ($3/$6 USD) - 2016/05/17 8:09:38 ET
+Table 'Alleghenia' 6-max Seat #3 is the button
+Seat 2: feanen ($22.63 in chips)
+Seat 3: belik555 ($140.36 in chips)
+belik555: posts small blind $1
+RockKillerTY: is sitting out
+tomte999: is sitting out
+feanen: posts big blind $3
+*** HOLE CARDS ***
+belik555: raises $3 to $6
+feanen: calls $3
+*** FLOP *** [4s 3h Qc]
+feanen: checks
+belik555: bets $3
+feanen: calls $3
+*** TURN *** [4s 3h Qc] [6s]
+feanen: checks
+belik555: checks
+*** RIVER *** [4s 3h Qc 6s] [Qs]
+feanen: checks
+belik555: checks
+*** SHOW DOWN ***
+feanen: shows [As 7d] (a pair of Queens)
+belik555: mucks hand
+feanen collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4s 3h Qc 6s Qs]
+Seat 2: feanen (big blind) showed [As 7d] and won ($17.64) with a pair of Queens
+Seat 3: belik555 (button) (small blind) mucked
+
+
+PokerStars Hand #153439461429:  Hold'em Limit ($3/$6 USD) - 2016/05/17 8:09:58 ET
+Table 'Alleghenia' 6-max Seat #2 is the button
+Seat 2: feanen ($31.27 in chips)
+Seat 3: belik555 ($131.36 in chips)
+feanen: posts small blind $1
+belik555: posts big blind $3
+*** HOLE CARDS ***
+feanen: calls $2
+belik555: raises $3 to $6
+feanen: calls $3
+*** FLOP *** [Tc Ts 5c]
+belik555: bets $3
+feanen: calls $3
+*** TURN *** [Tc Ts 5c] [8s]
+belik555: checks
+feanen: checks
+*** RIVER *** [Tc Ts 5c 8s] [3h]
+belik555: bets $6
+feanen: raises $6 to $12
+belik555: calls $6
+*** SHOW DOWN ***
+feanen: shows [6s Td] (three of a kind, Tens)
+belik555: mucks hand
+feanen collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Tc Ts 5c 8s 3h]
+Seat 2: feanen (button) (small blind) showed [6s Td] and won ($41.50) with three of a kind, Tens
+Seat 3: belik555 (big blind) mucked
+
+

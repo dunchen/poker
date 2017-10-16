@@ -1,0 +1,32 @@
+PokerStars Hand #158608395438:  Hold'em Limit ($3/$6 USD) - 2016/09/14 16:42:53 ET
+Table 'Cetus II' 6-max Seat #1 is the button
+Seat 1: Ag3r0n ($72 in chips)
+Seat 2: Auge72 ($112.30 in chips)
+Ag3r0n: posts small blind $1
+Auge72: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec joins the table at seat #3
+Ag3r0n: raises $3 to $6
+Auge72: calls $3
+*** FLOP *** [8d 6h 6d]
+Auge72: checks
+ToDaFelt joins the table at seat #4
+Ag3r0n: bets $3
+Auge72: calls $3
+*** TURN *** [8d 6h 6d] [7s]
+Auge72: checks
+Ag3r0n: checks
+*** RIVER *** [8d 6h 6d 7s] [Th]
+Auge72: bets $6
+Ag3r0n: calls $6
+*** SHOW DOWN ***
+Auge72: shows [Qs Kh] (a pair of Sixes)
+Ag3r0n: shows [8h Td] (two pair, Tens and Eights)
+Ag3r0n collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8d 6h 6d 7s Th]
+Seat 1: Ag3r0n (button) (small blind) showed [8h Td] and won ($29.50) with two pair, Tens and Eights
+Seat 2: Auge72 (big blind) showed [Qs Kh] and lost with a pair of Sixes
+
+

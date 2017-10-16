@@ -1,0 +1,52 @@
+PokerStars Hand #169886471704:  Hold'em Limit ($3/$6 USD) - 2017/05/03 3:23:09 ET
+Table 'Oberon' 6-max Seat #3 is the button
+Seat 2: bobs32 ($323.66 in chips)
+Seat 3: 27276969 ($177 in chips)
+27276969: posts small blind $1
+Homasapien: is sitting out
+aade1ante: is sitting out
+bobs32: posts big blind $3
+*** HOLE CARDS ***
+27276969: folds
+Uncalled bet ($2) returned to bobs32
+bobs32 collected $2 from pot
+bobs32: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: bobs32 (big blind) collected ($2)
+Seat 3: 27276969 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #169886473376:  Hold'em Limit ($3/$6 USD) - 2017/05/03 3:23:15 ET
+Table 'Oberon' 6-max Seat #2 is the button
+Seat 2: bobs32 ($324.66 in chips)
+Seat 3: 27276969 ($176 in chips)
+bobs32: posts small blind $1
+27276969: posts big blind $3
+*** HOLE CARDS ***
+bobs32: raises $3 to $6
+27276969: calls $3
+*** FLOP *** [3d Ac 2d]
+27276969: checks
+bobs32: bets $3
+27276969: raises $3 to $6
+bobs32: raises $3 to $9
+27276969: calls $3
+*** TURN *** [3d Ac 2d] [Qc]
+27276969: checks
+bobs32: bets $6
+27276969: calls $6
+*** RIVER *** [3d Ac 2d Qc] [Jd]
+27276969: bets $6
+bobs32: calls $6
+*** SHOW DOWN ***
+27276969: shows [4d 6d] (a flush, Jack high)
+bobs32: mucks hand
+27276969 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [3d Ac 2d Qc Jd]
+Seat 2: bobs32 (button) (small blind) mucked
+Seat 3: 27276969 (big blind) showed [4d 6d] and won ($53.50) with a flush, Jack high
+
+

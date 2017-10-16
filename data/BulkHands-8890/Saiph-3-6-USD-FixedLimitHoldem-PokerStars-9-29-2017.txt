@@ -1,0 +1,32 @@
+PokerStars Hand #176287090660:  Hold'em Limit ($3/$6 USD) - 2017/09/29 18:41:26 ET
+Table 'Saiph' 10-max Seat #5 is the button
+Seat 1: LSCDWAN ($42.77 in chips)
+Seat 5: Ag3r0n ($73 in chips)
+Ag3r0n: posts small blind $1
+LSCDWAN: posts big blind $3
+*** HOLE CARDS ***
+Ag3r0n: raises $3 to $6
+LSCDWAN: calls $3
+*** FLOP *** [6d 4s 2s]
+LSCDWAN: checks
+Ag3r0n: bets $3
+LSCDWAN: calls $3
+*** TURN *** [6d 4s 2s] [Td]
+LSCDWAN: checks
+Ag3r0n: bets $6
+LSCDWAN: raises $6 to $12
+Ag3r0n: calls $6
+*** RIVER *** [6d 4s 2s Td] [7h]
+LSCDWAN: bets $6
+Ag3r0n: calls $6
+*** SHOW DOWN ***
+LSCDWAN: shows [4c Ts] (two pair, Tens and Fours)
+Ag3r0n: mucks hand
+LSCDWAN collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [6d 4s 2s Td 7h]
+Seat 1: LSCDWAN (big blind) showed [4c Ts] and won ($53.50) with two pair, Tens and Fours
+Seat 5: Ag3r0n (button) (small blind) mucked
+
+

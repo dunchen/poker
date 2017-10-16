@@ -1,0 +1,86 @@
+PokerStars Hand #168894755571:  Hold'em Limit ($3/$6 USD) - 2017/04/11 13:06:36 ET
+Table 'Tokio' 6-max Seat #1 is the button
+Seat 1: Zubasa07 ($300 in chips)
+Seat 2: VRK065 ($120 in chips)
+vestimokrec joins the table at seat #3
+Zubasa07: posts small blind $1
+VRK065: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+VRK065: calls $3
+*** FLOP *** [6s 5s 2c]
+VRK065: checks
+Zubasa07: checks
+*** TURN *** [6s 5s 2c] [6d]
+VRK065: bets $6
+kurt183 joins the table at seat #4
+Zubasa07: calls $6
+*** RIVER *** [6s 5s 2c 6d] [Jc]
+VRK065: bets $6
+Zubasa07: calls $6
+*** SHOW DOWN ***
+VRK065: shows [8c Jd] (two pair, Jacks and Sixes)
+Zubasa07: mucks hand
+VRK065 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6s 5s 2c 6d Jc]
+Seat 1: Zubasa07 (button) (small blind) mucked
+Seat 2: VRK065 (big blind) showed [8c Jd] and won ($35.50) with two pair, Jacks and Sixes
+
+
+PokerStars Hand #168897181739:  Hold'em Limit ($3/$6 USD) - 2017/04/11 13:57:19 ET
+Table 'Tokio' 6-max Seat #5 is the button
+Seat 3: krytalex ($76 in chips)
+Seat 5: krossguard ($130.35 in chips)
+krossguard: posts small blind $1
+vestimokrec: is sitting out
+krytalex: posts big blind $3
+*** HOLE CARDS ***
+Jack_Wu1985 leaves the table
+krossguard: raises $3 to $6
+krytalex: calls $3
+*** FLOP *** [Qh Ts Qd]
+krytalex: checks
+krossguard: bets $3
+krytalex: raises $3 to $6
+vestimokrec leaves the table
+krossguard: folds
+Uncalled bet ($3) returned to krytalex
+krytalex collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qh Ts Qd]
+Seat 3: krytalex (big blind) collected ($17.64)
+Seat 5: krossguard (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #168897200933:  Hold'em Limit ($3/$6 USD) - 2017/04/11 13:57:47 ET
+Table 'Tokio' 6-max Seat #3 is the button
+Seat 3: krytalex ($84.64 in chips)
+Seat 5: krossguard ($121.35 in chips)
+krytalex: posts small blind $1
+krossguard: posts big blind $3
+*** HOLE CARDS ***
+krytalex: raises $3 to $6
+krossguard: calls $3
+*** FLOP *** [2c 3s Td]
+krossguard: checks
+krytalex: bets $3
+krossguard: calls $3
+*** TURN *** [2c 3s Td] [5s]
+krossguard: checks
+krytalex: checks
+*** RIVER *** [2c 3s Td 5s] [6c]
+krossguard: bets $6
+krytalex: folds
+Uncalled bet ($6) returned to krossguard
+krossguard collected $17.64 from pot
+krossguard: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2c 3s Td 5s 6c]
+Seat 3: krytalex (button) (small blind) folded on the River
+Seat 5: krossguard (big blind) collected ($17.64)
+
+

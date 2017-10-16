@@ -1,0 +1,56 @@
+PokerStars Hand #148613654683:  Hold'em Limit ($3/$6 USD) - 2016/02/11 9:13:46 ET
+Table 'Kokkola' 6-max Seat #5 is the button
+Seat 3: RowntreWilly ($47 in chips)
+Seat 5: B_loJkl ($152.88 in chips)
+B_loJkl: posts small blind $1
+RowntreWilly: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88 leaves the table
+B_loJkl: raises $3 to $6
+RowntreWilly: calls $3
+*** FLOP *** [2d Kc 6s]
+RowntreWilly: checks
+B_loJkl: bets $3
+RowntreWilly: calls $3
+*** TURN *** [2d Kc 6s] [Tc]
+RowntreWilly: checks
+B_loJkl: bets $6
+RowntreWilly: raises $6 to $12
+B_loJkl: folds
+Uncalled bet ($6) returned to RowntreWilly
+RowntreWilly collected $29.50 from pot
+RowntreWilly: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2d Kc 6s Tc]
+Seat 3: RowntreWilly (big blind) collected ($29.50)
+Seat 5: B_loJkl (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #148613627212:  Hold'em Limit ($3/$6 USD) - 2016/02/11 9:13:08 ET
+Table 'Kokkola' 6-max Seat #3 is the button
+Seat 3: RowntreWilly ($50 in chips)
+Seat 5: B_loJkl ($150 in chips)
+TbIP-TbIP 88 has timed out
+TbIP-TbIP 88: is sitting out
+RowntreWilly: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+RowntreWilly: calls $2
+B_loJkl: checks
+*** FLOP *** [8d 6h 2d]
+B_loJkl: checks
+RowntreWilly: checks
+*** TURN *** [8d 6h 2d] [4d]
+B_loJkl: bets $6
+RowntreWilly: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $5.88 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [8d 6h 2d 4d]
+Seat 3: RowntreWilly (button) (small blind) folded on the Turn
+Seat 5: B_loJkl (big blind) collected ($5.88)
+
+

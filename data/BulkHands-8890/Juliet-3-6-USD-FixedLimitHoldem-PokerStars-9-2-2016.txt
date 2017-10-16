@@ -1,0 +1,53 @@
+PokerStars Hand #158043924640:  Hold'em Limit ($3/$6 USD) - 2016/09/01 21:55:08 ET
+Table 'Juliet' 6-max Seat #3 is the button
+Seat 2: RaisemyNut$ ($89.41 in chips)
+Seat 3: ToDaFelt ($151.50 in chips)
+ToDaFelt: posts small blind $1
+RaisemyNut$: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+knas4 leaves the table
+RaisemyNut$: calls $3
+*** FLOP *** [5h 7c 5s]
+RaisemyNut$: checks
+ToDaFelt: bets $3
+RaisemyNut$: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $11.76 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5h 7c 5s]
+Seat 2: RaisemyNut$ (big blind) folded on the Flop
+Seat 3: ToDaFelt (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #158045685055:  Hold'em Limit ($3/$6 USD) - 2016/09/01 23:29:07 ET
+Table 'Juliet' 6-max Seat #4 is the button
+Seat 2: RaisemyNut$ ($202.55 in chips)
+Seat 4: CharginWapos ($126.66 in chips)
+CharginWapos: posts small blind $1
+RaisemyNut$: posts big blind $3
+*** HOLE CARDS ***
+CharginWapos: raises $3 to $6
+RaisemyNut$: calls $3
+*** FLOP *** [5h 5d 3s]
+RaisemyNut$: checks
+CharginWapos: checks
+*** TURN *** [5h 5d 3s] [3d]
+RaisemyNut$: bets $6
+CharginWapos: calls $6
+*** RIVER *** [5h 5d 3s 3d] [4h]
+RaisemyNut$: bets $6
+CharginWapos: calls $6
+*** SHOW DOWN ***
+RaisemyNut$: shows [Td 5s] (a full house, Fives full of Threes)
+CharginWapos: mucks hand
+RaisemyNut$ collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5h 5d 3s 3d 4h]
+Seat 2: RaisemyNut$ (big blind) showed [Td 5s] and won ($35.50) with a full house, Fives full of Threes
+Seat 4: CharginWapos (button) (small blind) mucked
+
+

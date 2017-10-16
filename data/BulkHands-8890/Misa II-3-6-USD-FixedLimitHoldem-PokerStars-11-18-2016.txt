@@ -1,0 +1,161 @@
+PokerStars Hand #161590135743:  Hold'em Limit ($3/$6 USD) - 2016/11/18 11:05:33 ET
+Table 'Misa II' 10-max Seat #1 is the button
+Seat 1: assitoni ($72 in chips)
+Seat 5: agentbond007 ($120 in chips)
+vestimokrec joins the table at seat #6
+assitoni: posts small blind $1
+agentbond007: posts big blind $3
+*** HOLE CARDS ***
+assitoni: raises $3 to $6
+agentbond007: calls $3
+*** FLOP *** [3h 9c 5s]
+agentbond007: checks
+assitoni: bets $3
+agentbond007: calls $3
+*** TURN *** [3h 9c 5s] [6d]
+agentbond007: checks
+assitoni: bets $6
+agentbond007: calls $6
+*** RIVER *** [3h 9c 5s 6d] [Ks]
+agentbond007: checks
+assitoni: bets $6
+agentbond007: calls $6
+*** SHOW DOWN ***
+assitoni: shows [7s Kd] (a pair of Kings)
+agentbond007: mucks hand
+assitoni collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [3h 9c 5s 6d Ks]
+Seat 1: assitoni (button) (small blind) showed [7s Kd] and won ($41.50) with a pair of Kings
+Seat 5: agentbond007 (big blind) mucked
+
+
+PokerStars Hand #161590262481:  Hold'em Limit ($3/$6 USD) - 2016/11/18 11:08:31 ET
+Table 'Misa II' 10-max Seat #5 is the button
+Seat 5: agentbond007 ($95.10 in chips)
+Seat 7: B_loJkl ($161.25 in chips)
+agentbond007: posts small blind $1
+vestimokrec: is sitting out
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+agentbond007: calls $2
+B_loJkl: checks
+*** FLOP *** [6c 4s 2d]
+B_loJkl: bets $3
+agentbond007: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $5.88 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [6c 4s 2d]
+Seat 5: agentbond007 (button) (small blind) folded on the Flop
+Seat 7: B_loJkl (big blind) collected ($5.88)
+
+
+PokerStars Hand #161590279116:  Hold'em Limit ($3/$6 USD) - 2016/11/18 11:08:54 ET
+Table 'Misa II' 10-max Seat #7 is the button
+Seat 5: agentbond007 ($92.10 in chips)
+Seat 7: B_loJkl ($164.13 in chips)
+B_loJkl: posts small blind $1
+agentbond007: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+agentbond007: calls $3
+*** FLOP *** [9h 5h Kd]
+agentbond007: checks
+B_loJkl: bets $3
+agentbond007: calls $3
+*** TURN *** [9h 5h Kd] [6h]
+agentbond007: checks
+B_loJkl: bets $6
+agentbond007: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $17.64 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9h 5h Kd 6h]
+Seat 5: agentbond007 (big blind) folded on the Turn
+Seat 7: B_loJkl (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #161590547243:  Hold'em Limit ($3/$6 USD) - 2016/11/18 11:15:08 ET
+Table 'Misa II' 10-max Seat #6 is the button
+Seat 6: vestimokrec ($84.25 in chips)
+Seat 8: nicmct ($250.71 in chips)
+vestimokrec: posts small blind $1
+B_loJkl: is sitting out
+nicmct: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+nicmct: calls $3
+*** FLOP *** [6d 8s 7h]
+B_loJkl leaves the table
+nicmct: checks
+B_loJkl joins the table at seat #9
+vestimokrec: checks
+*** TURN *** [6d 8s 7h] [As]
+nicmct: bets $6
+vestimokrec: calls $6
+*** RIVER *** [6d 8s 7h As] [Jh]
+nicmct: bets $6
+vestimokrec: calls $6
+*** SHOW DOWN ***
+nicmct: shows [5h 8h] (a pair of Eights)
+vestimokrec: shows [4s 8c] (a pair of Eights)
+nicmct collected $17.75 from pot
+vestimokrec collected $17.75 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6d 8s 7h As Jh]
+Seat 6: vestimokrec (button) (small blind) showed [4s 8c] and won ($17.75) with a pair of Eights
+Seat 8: nicmct (big blind) showed [5h 8h] and won ($17.75) with a pair of Eights
+
+
+PokerStars Hand #161590614010:  Hold'em Limit ($3/$6 USD) - 2016/11/18 11:16:40 ET
+Table 'Misa II' 10-max Seat #8 is the button
+Seat 8: nicmct ($250.10 in chips)
+Seat 9: B_loJkl ($149.76 in chips)
+nicmct: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+nicmct: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Kd 6s Td]
+B_loJkl: checks
+nicmct: bets $3
+B_loJkl: folds
+Uncalled bet ($3) returned to nicmct
+nicmct collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kd 6s Td]
+Seat 8: nicmct (button) (small blind) collected ($11.76)
+Seat 9: B_loJkl (big blind) folded on the Flop
+
+
+PokerStars Hand #161590598959:  Hold'em Limit ($3/$6 USD) - 2016/11/18 11:16:19 ET
+Table 'Misa II' 10-max Seat #9 is the button
+Seat 8: nicmct ($256.10 in chips)
+Seat 9: B_loJkl ($144 in chips)
+B_loJkl: posts small blind $1
+nicmct: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+nicmct: calls $3
+*** FLOP *** [4d Qh 2c]
+nicmct: checks
+B_loJkl: bets $3
+nicmct: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4d Qh 2c]
+Seat 8: nicmct (big blind) folded on the Flop
+Seat 9: B_loJkl (button) (small blind) collected ($11.76)
+
+

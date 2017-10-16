@@ -1,0 +1,31 @@
+PokerStars Hand #166101022487:  Hold'em Limit ($3/$6 USD) - 2017/02/12 12:26:51 ET
+Table 'Minerva IV' 6-max Seat #3 is the button
+Seat 1: MATEKATA2 ($332.56 in chips)
+Seat 3: Chessnok ($113.16 in chips)
+Chessnok: posts small blind $1
+MATEKATA2: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+MATEKATA2: calls $3
+*** FLOP *** [8h Ac 4h]
+MATEKATA2: checks
+Chessnok: bets $3
+MATEKATA2: raises $3 to $6
+Chessnok: calls $3
+*** TURN *** [8h Ac 4h] [7c]
+MATEKATA2: bets $6
+Chessnok: calls $6
+*** RIVER *** [8h Ac 4h 7c] [Ah]
+MATEKATA2: checks
+Chessnok: checks
+*** SHOW DOWN ***
+MATEKATA2: shows [Th 4c] (two pair, Aces and Fours)
+Chessnok: shows [Tc 8s] (two pair, Aces and Eights)
+Chessnok collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [8h Ac 4h 7c Ah]
+Seat 1: MATEKATA2 (big blind) showed [Th 4c] and lost with two pair, Aces and Fours
+Seat 3: Chessnok (button) (small blind) showed [Tc 8s] and won ($35.50) with two pair, Aces and Eights
+
+

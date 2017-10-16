@@ -1,0 +1,36 @@
+PokerStars Hand #175830134957:  Hold'em Limit ($3/$6 USD) - 2017/09/18 20:17:05 ET
+Table 'Polyxenos' 6-max Seat #1 is the button
+Seat 1: LifeisagameX ($84 in chips)
+Seat 3: Artachok ($80 in chips)
+LifeisagameX: posts small blind $1
+Artachok: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+Artachok: calls $3
+*** FLOP *** [9s 4h 5h]
+Artachok: checks
+LifeisagameX: bets $3
+Artachok: calls $3
+*** TURN *** [9s 4h 5h] [Js]
+Artachok: checks
+LifeisagameX: bets $6
+Artachok: raises $6 to $12
+LifeisagameX: raises $6 to $18
+Artachok: raises $6 to $24
+Betting is capped
+B_loJkl joins the table at seat #4
+LifeisagameX: calls $6
+*** RIVER *** [9s 4h 5h Js] [9c]
+Artachok: bets $6
+LifeisagameX: calls $6
+*** SHOW DOWN ***
+Artachok: shows [9h 5s] (a full house, Nines full of Fives)
+LifeisagameX: mucks hand
+Artachok collected $77.50 from pot
+*** SUMMARY ***
+Total pot $78 | Rake $0.50
+Board [9s 4h 5h Js 9c]
+Seat 1: LifeisagameX (button) (small blind) mucked
+Seat 3: Artachok (big blind) showed [9h 5s] and won ($77.50) with a full house, Nines full of Fives
+
+

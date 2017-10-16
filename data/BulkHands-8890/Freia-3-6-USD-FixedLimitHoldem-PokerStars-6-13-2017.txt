@@ -1,0 +1,59 @@
+PokerStars Hand #171739582217:  Hold'em Limit ($3/$6 USD) - 2017/06/13 17:27:30 ET
+Table 'Freia' 6-max Seat #2 is the button
+Seat 2: TinaTurner72 ($120 in chips)
+Seat 3: scorpio04 ($150 in chips)
+TinaTurner72: posts small blind $1
+scorpio04: posts big blind $3
+*** HOLE CARDS ***
+TinaTurner72: raises $3 to $6
+scorpio04: calls $3
+*** FLOP *** [3h 4h 4s]
+scorpio04: checks
+TinaTurner72: bets $3
+scorpio04: calls $3
+*** TURN *** [3h 4h 4s] [Kc]
+scorpio04: checks
+TinaTurner72: checks
+*** RIVER *** [3h 4h 4s Kc] [Ks]
+scorpio04: bets $6
+TinaTurner72: folds
+Uncalled bet ($6) returned to scorpio04
+scorpio04 collected $17.64 from pot
+scorpio04: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3h 4h 4s Kc Ks]
+Seat 2: TinaTurner72 (button) (small blind) folded on the River
+Seat 3: scorpio04 (big blind) collected ($17.64)
+
+
+PokerStars Hand #171739636855:  Hold'em Limit ($3/$6 USD) - 2017/06/13 17:28:38 ET
+Table 'Freia' 6-max Seat #3 is the button
+Seat 2: TinaTurner72 ($111 in chips)
+Seat 3: scorpio04 ($158.64 in chips)
+scorpio04: posts small blind $1
+TinaTurner72: posts big blind $3
+*** HOLE CARDS ***
+scorpio04: raises $3 to $6
+TinaTurner72: raises $3 to $9
+scorpio04: calls $3
+*** FLOP *** [Js Kh 8c]
+TinaTurner72: bets $3
+scorpio04: calls $3
+*** TURN *** [Js Kh 8c] [Ad]
+TinaTurner72: checks
+scorpio04: checks
+*** RIVER *** [Js Kh 8c Ad] [3s]
+TinaTurner72: bets $6
+scorpio04: calls $6
+*** SHOW DOWN ***
+TinaTurner72: shows [9d 8s] (a pair of Eights)
+scorpio04: shows [Jh Qs] (a pair of Jacks)
+scorpio04 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Js Kh 8c Ad 3s]
+Seat 2: TinaTurner72 (big blind) showed [9d 8s] and lost with a pair of Eights
+Seat 3: scorpio04 (button) (small blind) showed [Jh Qs] and won ($35.50) with a pair of Jacks
+
+

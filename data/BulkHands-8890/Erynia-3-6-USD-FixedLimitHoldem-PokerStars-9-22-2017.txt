@@ -1,0 +1,438 @@
+PokerStars Hand #175959546933:  Hold'em Limit ($3/$6 USD) - 2017/09/21 23:47:35 ET
+Table 'Erynia' 6-max Seat #1 is the button
+Seat 1: LifeisagameX ($84 in chips)
+Seat 3: libaikang ($120 in chips)
+LifeisagameX: posts small blind $1
+libaikang: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+libaikang: folds
+Uncalled bet ($3) returned to LifeisagameX
+LifeisagameX collected $6 from pot
+LifeisagameX: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: LifeisagameX (button) (small blind) collected ($6)
+Seat 3: libaikang (big blind) folded before Flop
+
+
+PokerStars Hand #175959560239:  Hold'em Limit ($3/$6 USD) - 2017/09/21 23:48:26 ET
+Table 'Erynia' 6-max Seat #1 is the button
+Seat 1: LifeisagameX ($101.50 in chips)
+Seat 3: libaikang ($102 in chips)
+LifeisagameX: posts small blind $1
+libaikang: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+libaikang: raises $3 to $9
+LifeisagameX: calls $3
+*** FLOP *** [7h Kc Ac]
+libaikang: bets $3
+LifeisagameX: calls $3
+*** TURN *** [7h Kc Ac] [9s]
+libaikang: bets $6
+LifeisagameX: folds
+Uncalled bet ($6) returned to libaikang
+libaikang collected $23.52 from pot
+libaikang: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [7h Kc Ac 9s]
+Seat 1: LifeisagameX (button) (small blind) folded on the Turn
+Seat 3: libaikang (big blind) collected ($23.52)
+
+
+PokerStars Hand #175959552699:  Hold'em Limit ($3/$6 USD) - 2017/09/21 23:47:57 ET
+Table 'Erynia' 6-max Seat #3 is the button
+Seat 1: LifeisagameX ($87 in chips)
+Seat 3: libaikang ($117 in chips)
+libaikang: posts small blind $1
+LifeisagameX: posts big blind $3
+*** HOLE CARDS ***
+libaikang: calls $2
+LifeisagameX: checks
+*** FLOP *** [As 3s 3d]
+LifeisagameX: checks
+libaikang: checks
+*** TURN *** [As 3s 3d] [Jc]
+LifeisagameX: bets $6
+libaikang: calls $6
+*** RIVER *** [As 3s 3d Jc] [6c]
+LifeisagameX: bets $6
+libaikang: calls $6
+*** SHOW DOWN ***
+LifeisagameX: shows [7s Jd] (two pair, Jacks and Threes)
+libaikang: mucks hand
+LifeisagameX collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [As 3s 3d Jc 6c]
+Seat 1: LifeisagameX (big blind) showed [7s Jd] and won ($29.50) with two pair, Jacks and Threes
+Seat 3: libaikang (button) (small blind) mucked
+
+
+PokerStars Hand #175959570081:  Hold'em Limit ($3/$6 USD) - 2017/09/21 23:49:03 ET
+Table 'Erynia' 6-max Seat #3 is the button
+Seat 1: LifeisagameX ($89.50 in chips)
+Seat 3: libaikang ($113.52 in chips)
+libaikang: posts small blind $1
+LifeisagameX: posts big blind $3
+*** HOLE CARDS ***
+libaikang: raises $3 to $6
+LifeisagameX: raises $3 to $9
+libaikang: calls $3
+*** FLOP *** [7s 9d 3c]
+LifeisagameX: bets $3
+libaikang: raises $3 to $6
+LifeisagameX: calls $3
+*** TURN *** [7s 9d 3c] [Ah]
+LifeisagameX: checks
+libaikang: checks
+*** RIVER *** [7s 9d 3c Ah] [7h]
+LifeisagameX: checks
+libaikang: bets $6
+LifeisagameX: calls $6
+*** SHOW DOWN ***
+libaikang: shows [5d 9s] (two pair, Nines and Sevens)
+LifeisagameX: shows [Jd Jh] (two pair, Jacks and Sevens)
+LifeisagameX collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [7s 9d 3c Ah 7h]
+Seat 1: LifeisagameX (big blind) showed [Jd Jh] and won ($41.50) with two pair, Jacks and Sevens
+Seat 3: libaikang (button) (small blind) showed [5d 9s] and lost with two pair, Nines and Sevens
+
+
+PokerStars Hand #175959594372:  Hold'em Limit ($3/$6 USD) - 2017/09/21 23:50:36 ET
+Table 'Erynia' 6-max Seat #3 is the button
+Seat 1: LifeisagameX ($92 in chips)
+Seat 3: libaikang ($110.02 in chips)
+libaikang: posts small blind $1
+LifeisagameX: posts big blind $3
+*** HOLE CARDS ***
+libaikang: raises $3 to $6
+LifeisagameX: calls $3
+*** FLOP *** [4s 7h 8c]
+LifeisagameX: checks
+libaikang: checks
+*** TURN *** [4s 7h 8c] [6h]
+LifeisagameX: checks
+libaikang: checks
+*** RIVER *** [4s 7h 8c 6h] [2h]
+LifeisagameX: bets $6
+libaikang: calls $6
+*** SHOW DOWN ***
+LifeisagameX: shows [Tc Qd] (high card Queen)
+libaikang: shows [4d Kd] (a pair of Fours)
+libaikang collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [4s 7h 8c 6h 2h]
+Seat 1: LifeisagameX (big blind) showed [Tc Qd] and lost with high card Queen
+Seat 3: libaikang (button) (small blind) showed [4d Kd] and won ($23.52) with a pair of Fours
+
+
+PokerStars Hand #175959582949:  Hold'em Limit ($3/$6 USD) - 2017/09/21 23:49:52 ET
+Table 'Erynia' 6-max Seat #1 is the button
+Seat 1: LifeisagameX ($110 in chips)
+Seat 3: libaikang ($92.52 in chips)
+LifeisagameX: posts small blind $1
+libaikang: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+libaikang: raises $3 to $9
+LifeisagameX: calls $3
+*** FLOP *** [Ts Th 6h]
+libaikang: bets $3
+LifeisagameX: calls $3
+*** TURN *** [Ts Th 6h] [Ad]
+libaikang: checks
+LifeisagameX: checks
+*** RIVER *** [Ts Th 6h Ad] [9c]
+libaikang: bets $6
+LifeisagameX: calls $6
+*** SHOW DOWN ***
+libaikang: shows [Kh Tc] (three of a kind, Tens)
+LifeisagameX: mucks hand
+libaikang collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Ts Th 6h Ad 9c]
+Seat 1: LifeisagameX (button) (small blind) mucked
+Seat 3: libaikang (big blind) showed [Kh Tc] and won ($35.50) with three of a kind, Tens
+
+
+PokerStars Hand #175959604661:  Hold'em Limit ($3/$6 USD) - 2017/09/21 23:51:15 ET
+Table 'Erynia' 6-max Seat #3 is the button
+Seat 1: LifeisagameX ($84 in chips)
+Seat 3: libaikang ($122.54 in chips)
+libaikang: posts small blind $1
+LifeisagameX: posts big blind $3
+*** HOLE CARDS ***
+libaikang: raises $3 to $6
+LifeisagameX: calls $3
+*** FLOP *** [Jc Kc Ac]
+LifeisagameX: checks
+libaikang: bets $3
+LifeisagameX: folds
+Uncalled bet ($3) returned to libaikang
+libaikang collected $11.76 from pot
+libaikang: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jc Kc Ac]
+Seat 1: LifeisagameX (big blind) folded on the Flop
+Seat 3: libaikang (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #175959602259:  Hold'em Limit ($3/$6 USD) - 2017/09/21 23:51:06 ET
+Table 'Erynia' 6-max Seat #1 is the button
+Seat 1: LifeisagameX ($84 in chips)
+Seat 3: libaikang ($121.54 in chips)
+LifeisagameX: posts small blind $1
+libaikang: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: folds
+Uncalled bet ($2) returned to libaikang
+libaikang collected $2 from pot
+libaikang: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: LifeisagameX (button) (small blind) folded before Flop
+Seat 3: libaikang (big blind) collected ($2)
+
+
+PokerStars Hand #175959626065:  Hold'em Limit ($3/$6 USD) - 2017/09/21 23:52:38 ET
+Table 'Erynia' 6-max Seat #1 is the button
+Seat 1: LifeisagameX ($85 in chips)
+Seat 3: libaikang ($144.80 in chips)
+LifeisagameX: posts small blind $1
+libaikang: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+libaikang: calls $3
+*** FLOP *** [5s Ts Kd]
+libaikang: checks
+LifeisagameX: checks
+*** TURN *** [5s Ts Kd] [4c]
+libaikang: bets $6
+LifeisagameX: calls $6
+*** RIVER *** [5s Ts Kd 4c] [9s]
+libaikang: checks
+LifeisagameX: bets $6
+libaikang: calls $6
+*** SHOW DOWN ***
+LifeisagameX: shows [Ad Ah] (a pair of Aces)
+libaikang: mucks hand
+LifeisagameX collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5s Ts Kd 4c 9s]
+Seat 1: LifeisagameX (button) (small blind) showed [Ad Ah] and won ($35.50) with a pair of Aces
+Seat 3: libaikang (big blind) mucked
+
+
+PokerStars Hand #175959624597:  Hold'em Limit ($3/$6 USD) - 2017/09/21 23:52:32 ET
+Table 'Erynia' 6-max Seat #3 is the button
+Seat 1: LifeisagameX ($84 in chips)
+Seat 3: libaikang ($145.80 in chips)
+libaikang: posts small blind $1
+LifeisagameX: posts big blind $3
+*** HOLE CARDS ***
+libaikang: folds
+Uncalled bet ($2) returned to LifeisagameX
+LifeisagameX collected $2 from pot
+LifeisagameX: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: LifeisagameX (big blind) collected ($2)
+Seat 3: libaikang (button) (small blind) folded before Flop
+
+
+PokerStars Hand #175959609897:  Hold'em Limit ($3/$6 USD) - 2017/09/21 23:51:35 ET
+Table 'Erynia' 6-max Seat #1 is the button
+Seat 1: LifeisagameX ($84 in chips)
+Seat 3: libaikang ($128.30 in chips)
+LifeisagameX: posts small blind $1
+libaikang: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+libaikang: calls $3
+*** FLOP *** [Ks Jh 7c]
+libaikang: checks
+LifeisagameX: bets $3
+libaikang: raises $3 to $6
+LifeisagameX: calls $3
+*** TURN *** [Ks Jh 7c] [Qd]
+libaikang: checks
+LifeisagameX: checks
+*** RIVER *** [Ks Jh 7c Qd] [6s]
+libaikang: bets $6
+LifeisagameX: calls $6
+*** SHOW DOWN ***
+libaikang: shows [Ad 7d] (a pair of Sevens)
+LifeisagameX: mucks hand
+libaikang collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Ks Jh 7c Qd 6s]
+Seat 1: LifeisagameX (button) (small blind) mucked
+Seat 3: libaikang (big blind) showed [Ad 7d] and won ($35.50) with a pair of Sevens
+
+
+PokerStars Hand #175959632676:  Hold'em Limit ($3/$6 USD) - 2017/09/21 23:53:03 ET
+Table 'Erynia' 6-max Seat #3 is the button
+Seat 1: LifeisagameX ($102.50 in chips)
+Seat 3: libaikang ($126.80 in chips)
+libaikang: posts small blind $1
+LifeisagameX: posts big blind $3
+*** HOLE CARDS ***
+libaikang: calls $2
+LifeisagameX: checks
+*** FLOP *** [Qh 8c 2d]
+LifeisagameX: checks
+libaikang: bets $3
+LifeisagameX: calls $3
+*** TURN *** [Qh 8c 2d] [5h]
+LifeisagameX: checks
+libaikang: bets $6
+LifeisagameX: calls $6
+*** RIVER *** [Qh 8c 2d 5h] [Jd]
+LifeisagameX: checks
+libaikang: bets $6
+LifeisagameX: calls $6
+*** SHOW DOWN ***
+libaikang: shows [Kd 8d] (a pair of Eights)
+LifeisagameX: mucks hand
+libaikang collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Qh 8c 2d 5h Jd]
+Seat 1: LifeisagameX (big blind) mucked
+Seat 3: libaikang (button) (small blind) showed [Kd 8d] and won ($35.50) with a pair of Eights
+
+
+PokerStars Hand #175959650444:  Hold'em Limit ($3/$6 USD) - 2017/09/21 23:54:11 ET
+Table 'Erynia' 6-max Seat #1 is the button
+Seat 1: LifeisagameX ($84.50 in chips)
+Seat 3: libaikang ($144.30 in chips)
+LifeisagameX: posts small blind $1
+libaikang: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+libaikang: calls $3
+*** FLOP *** [Jh 2d Jc]
+libaikang: checks
+LifeisagameX: bets $3
+libaikang: calls $3
+*** TURN *** [Jh 2d Jc] [9h]
+libaikang: checks
+LifeisagameX: bets $6
+libaikang: raises $6 to $12
+LifeisagameX: folds
+Uncalled bet ($6) returned to libaikang
+libaikang collected $29.50 from pot
+libaikang: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Jh 2d Jc 9h]
+Seat 1: LifeisagameX (button) (small blind) folded on the Turn
+Seat 3: libaikang (big blind) collected ($29.50)
+
+
+PokerStars Hand #175959667158:  Hold'em Limit ($3/$6 USD) - 2017/09/21 23:55:17 ET
+Table 'Erynia' 6-max Seat #1 is the button
+Seat 1: LifeisagameX ($86.88 in chips)
+Seat 3: libaikang ($155.80 in chips)
+LifeisagameX: posts small blind $1
+libaikang: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+libaikang: calls $3
+*** FLOP *** [Ad 2c Qc]
+libaikang: checks
+LifeisagameX: bets $3
+libaikang: folds
+Uncalled bet ($3) returned to LifeisagameX
+LifeisagameX collected $11.76 from pot
+LifeisagameX: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ad 2c Qc]
+Seat 1: LifeisagameX (button) (small blind) collected ($11.76)
+Seat 3: libaikang (big blind) folded on the Flop
+
+
+PokerStars Hand #175959656701:  Hold'em Limit ($3/$6 USD) - 2017/09/21 23:54:36 ET
+Table 'Erynia' 6-max Seat #3 is the button
+Seat 1: LifeisagameX ($84 in chips)
+Seat 3: libaikang ($158.80 in chips)
+libaikang: posts small blind $1
+LifeisagameX: posts big blind $3
+*** HOLE CARDS ***
+libaikang: calls $2
+LifeisagameX: checks
+*** FLOP *** [Kh 5d Ts]
+LifeisagameX: checks
+libaikang: checks
+*** TURN *** [Kh 5d Ts] [8d]
+LifeisagameX: bets $6
+libaikang: folds
+Uncalled bet ($6) returned to LifeisagameX
+LifeisagameX collected $5.88 from pot
+LifeisagameX: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Kh 5d Ts 8d]
+Seat 1: LifeisagameX (big blind) collected ($5.88)
+Seat 3: libaikang (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #175959680717:  Hold'em Limit ($3/$6 USD) - 2017/09/21 23:56:16 ET
+Table 'Erynia' 6-max Seat #1 is the button
+Seat 1: LifeisagameX ($107.14 in chips)
+Seat 3: libaikang ($134.80 in chips)
+LifeisagameX: posts small blind $1
+libaikang: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+libaikang: folds
+Uncalled bet ($3) returned to LifeisagameX
+LifeisagameX collected $6 from pot
+LifeisagameX: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: LifeisagameX (button) (small blind) collected ($6)
+Seat 3: libaikang (big blind) folded before Flop
+
+
+PokerStars Hand #175959670464:  Hold'em Limit ($3/$6 USD) - 2017/09/21 23:55:31 ET
+Table 'Erynia' 6-max Seat #3 is the button
+Seat 1: LifeisagameX ($92.64 in chips)
+Seat 3: libaikang ($149.80 in chips)
+libaikang: posts small blind $1
+LifeisagameX: posts big blind $3
+*** HOLE CARDS ***
+libaikang: raises $3 to $6
+LifeisagameX: calls $3
+*** FLOP *** [Jh Qc Kd]
+LifeisagameX: checks
+libaikang: bets $3
+LifeisagameX: calls $3
+*** TURN *** [Jh Qc Kd] [9s]
+LifeisagameX: checks
+libaikang: checks
+*** RIVER *** [Jh Qc Kd 9s] [8s]
+LifeisagameX: bets $6
+libaikang: calls $6
+*** SHOW DOWN ***
+LifeisagameX: shows [Jd 4s] (a pair of Jacks)
+libaikang: mucks hand
+LifeisagameX collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Jh Qc Kd 9s 8s]
+Seat 1: LifeisagameX (big blind) showed [Jd 4s] and won ($29.50) with a pair of Jacks
+Seat 3: libaikang (button) (small blind) mucked
+
+

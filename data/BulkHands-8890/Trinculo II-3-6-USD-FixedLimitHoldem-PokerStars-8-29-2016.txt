@@ -1,0 +1,83 @@
+PokerStars Hand #157904411246:  Hold'em Limit ($3/$6 USD) - 2016/08/29 16:19:33 ET
+Table 'Trinculo II' 6-max Seat #1 is the button
+Seat 1: _stel_23_ ($167 in chips)
+Seat 4: Actionni13 ($157 in chips)
+_stel_23_: posts small blind $1
+crash19867: is sitting out
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+crash19867 leaves the table
+_stel_23_: folds
+Uncalled bet ($2) returned to Actionni13
+Actionni13 collected $2 from pot
+Actionni13: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: _stel_23_ (button) (small blind) folded before Flop
+Seat 4: Actionni13 (big blind) collected ($2)
+
+
+PokerStars Hand #157904661540:  Hold'em Limit ($3/$6 USD) - 2016/08/29 16:24:31 ET
+Table 'Trinculo II' 6-max Seat #3 is the button
+Seat 3: eoc9585 ($121 in chips)
+Seat 4: Actionni13 ($157 in chips)
+eoc9585: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+eoc9585: calls $2
+Actionni13: checks
+*** FLOP *** [4s 5d Ts]
+Actionni13: bets $3
+eoc9585: calls $3
+*** TURN *** [4s 5d Ts] [9c]
+Actionni13: checks
+eoc9585: checks
+*** RIVER *** [4s 5d Ts 9c] [6s]
+Actionni13: checks
+eoc9585: checks
+*** SHOW DOWN ***
+Actionni13: shows [4c 2s] (a pair of Fours)
+eoc9585: shows [Qc 4h] (a pair of Fours - Queen kicker)
+eoc9585 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4s 5d Ts 9c 6s]
+Seat 3: eoc9585 (button) (small blind) showed [Qc 4h] and won ($11.76) with a pair of Fours
+Seat 4: Actionni13 (big blind) showed [4c 2s] and lost with a pair of Fours
+
+
+PokerStars Hand #157905468291:  Hold'em Limit ($3/$6 USD) - 2016/08/29 16:40:43 ET
+Table 'Trinculo II' 6-max Seat #4 is the button
+Seat 2: Koraseg ($117 in chips)
+Seat 4: Actionni13 ($152.82 in chips)
+Actionni13: posts small blind $1
+vestimokrec: is sitting out
+Chessnok: is sitting out
+Koraseg: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec leaves the table
+Chessnok leaves the table
+Actionni13: raises $3 to $6
+Koraseg: calls $3
+*** FLOP *** [Th 3c 7c]
+Koraseg: checks
+Actionni13: bets $3
+Koraseg: raises $3 to $6
+Actionni13: calls $3
+*** TURN *** [Th 3c 7c] [5c]
+Koraseg: bets $6
+Actionni13: calls $6
+*** RIVER *** [Th 3c 7c 5c] [2d]
+Koraseg: bets $6
+Actionni13: calls $6
+*** SHOW DOWN ***
+Koraseg: shows [Qc 4c] (a flush, Queen high)
+Actionni13: mucks hand
+Koraseg collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Th 3c 7c 5c 2d]
+Seat 2: Koraseg (big blind) showed [Qc 4c] and won ($47.50) with a flush, Queen high
+Seat 4: Actionni13 (button) (small blind) mucked
+
+

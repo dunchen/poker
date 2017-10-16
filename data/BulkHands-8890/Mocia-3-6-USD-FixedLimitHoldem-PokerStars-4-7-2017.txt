@@ -1,0 +1,115 @@
+PokerStars Hand #168709732708:  Hold'em Limit ($3/$6 USD) - 2017/04/07 13:27:00 ET
+Table 'Mocia' 6-max Seat #3 is the button
+Seat 3: sloths ($52.64 in chips)
+Seat 4: AzureCaper ($72 in chips)
+sloths: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec joins the table at seat #5
+sloths: calls $2
+AzureCaper: raises $3 to $6
+sloths: calls $3
+*** FLOP *** [8s Kd Jh]
+AzureCaper: bets $3
+sloths: calls $3
+*** TURN *** [8s Kd Jh] [Kc]
+AzureCaper: bets $6
+sloths: calls $6
+*** RIVER *** [8s Kd Jh Kc] [2d]
+AzureCaper: checks
+sloths: bets $6
+AzureCaper: calls $6
+*** SHOW DOWN ***
+sloths: shows [Ac Qh] (a pair of Kings)
+AzureCaper: shows [2c Ad] (two pair, Kings and Deuces)
+AzureCaper collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [8s Kd Jh Kc 2d]
+Seat 3: sloths (button) (small blind) showed [Ac Qh] and lost with a pair of Kings
+Seat 4: AzureCaper (big blind) showed [2c Ad] and won ($41.50) with two pair, Kings and Deuces
+
+
+PokerStars Hand #168710860200:  Hold'em Limit ($3/$6 USD) - 2017/04/07 13:51:46 ET
+Table 'Mocia' 6-max Seat #1 is the button
+Seat 1: Qvidde ($134.47 in chips)
+Seat 6: hairy1961 ($41.50 in chips)
+Qvidde: posts small blind $1
+zxkz: is sitting out
+AzureCaper: is sitting out
+vestimokrec: is sitting out
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+zxkz leaves the table
+Qvidde: raises $3 to $6
+AzureCaper leaves the table
+hairy1961: folds
+Uncalled bet ($3) returned to Qvidde
+Qvidde collected $6 from pot
+Qvidde: doesn't show hand
+vestimokrec leaves the table
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: Qvidde (button) (small blind) collected ($6)
+Seat 6: hairy1961 (big blind) folded before Flop
+
+
+PokerStars Hand #168710868010:  Hold'em Limit ($3/$6 USD) - 2017/04/07 13:51:56 ET
+Table 'Mocia' 6-max Seat #6 is the button
+Seat 1: Qvidde ($137.47 in chips)
+Seat 6: hairy1961 ($38.50 in chips)
+hairy1961: posts small blind $1
+Qvidde: posts big blind $3
+*** HOLE CARDS ***
+hairy1961: raises $3 to $6
+Qvidde: calls $3
+*** FLOP *** [9s 3c 7c]
+Qvidde: checks
+hairy1961: bets $3
+Qvidde: raises $3 to $6
+hairy1961: raises $3 to $9
+Qvidde: raises $3 to $12
+Betting is capped
+hairy1961: calls $3
+*** TURN *** [9s 3c 7c] [Jh]
+Qvidde: bets $6
+hairy1961: calls $6
+*** RIVER *** [9s 3c 7c Jh] [4h]
+Qvidde: bets $6
+hairy1961: calls $6
+*** SHOW DOWN ***
+Qvidde: shows [Qs 9c] (a pair of Nines)
+hairy1961: mucks hand
+Qvidde collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [9s 3c 7c Jh 4h]
+Seat 1: Qvidde (big blind) showed [Qs 9c] and won ($59.50) with a pair of Nines
+Seat 6: hairy1961 (button) (small blind) mucked
+
+
+PokerStars Hand #168710899567:  Hold'em Limit ($3/$6 USD) - 2017/04/07 13:52:38 ET
+Table 'Mocia' 6-max Seat #1 is the button
+Seat 1: Qvidde ($166.97 in chips)
+Seat 6: hairy1961 ($8.50 in chips)
+Qvidde: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+Qvidde: raises $3 to $6
+hairy1961: raises $2.50 to $8.50 and is all-in
+Qvidde: calls $2.50
+*** FLOP *** [5s 6d Kh]
+*** TURN *** [5s 6d Kh] [Ah]
+*** RIVER *** [5s 6d Kh Ah] [Js]
+*** SHOW DOWN ***
+hairy1961: shows [Tc 2s] (high card Ace)
+Qvidde: shows [3h Kd] (a pair of Kings)
+Qvidde collected $16.66 from pot
+hairy1961 leaves the table
+*** SUMMARY ***
+Total pot $17 | Rake $0.34
+Board [5s 6d Kh Ah Js]
+Seat 1: Qvidde (button) (small blind) showed [3h Kd] and won ($16.66) with a pair of Kings
+Seat 6: hairy1961 (big blind) showed [Tc 2s] and lost with high card Ace
+
+

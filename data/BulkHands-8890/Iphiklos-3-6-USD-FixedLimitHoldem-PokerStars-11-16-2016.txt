@@ -1,0 +1,33 @@
+PokerStars Hand #161470958496:  Hold'em Limit ($3/$6 USD) - 2016/11/15 21:40:37 ET
+Table 'Iphiklos' 6-max Seat #1 is the button
+Seat 1: jackRizzar ($275.05 in chips)
+Seat 6: SonneUndMond ($230.23 in chips)
+jackRizzar: posts small blind $1
+ToDaFelt: is sitting out
+SonneUndMond: posts big blind $3
+*** HOLE CARDS ***
+jackRizzar: raises $3 to $6
+ToDaFelt leaves the table
+SonneUndMond: calls $3
+*** FLOP *** [Ks Ac 5s]
+SonneUndMond: checks
+jackRizzar: bets $3
+SonneUndMond: raises $3 to $6
+jackRizzar: calls $3
+*** TURN *** [Ks Ac 5s] [Jd]
+SonneUndMond: bets $6
+jackRizzar: calls $6
+*** RIVER *** [Ks Ac 5s Jd] [4s]
+SonneUndMond: bets $6
+jackRizzar: calls $6
+*** SHOW DOWN ***
+SonneUndMond: shows [Ad 5d] (two pair, Aces and Fives)
+jackRizzar: mucks hand
+SonneUndMond collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Ks Ac 5s Jd 4s]
+Seat 1: jackRizzar (button) (small blind) mucked
+Seat 6: SonneUndMond (big blind) showed [Ad 5d] and won ($47.50) with two pair, Aces and Fives
+
+

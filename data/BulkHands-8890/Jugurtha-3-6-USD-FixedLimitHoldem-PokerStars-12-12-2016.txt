@@ -1,0 +1,32 @@
+PokerStars Hand #162805917538:  Hold'em Limit ($3/$6 USD) - 2016/12/11 20:03:59 ET
+Table 'Jugurtha' 6-max Seat #4 is the button
+Seat 1: ToDaFelt ($244.01 in chips)
+Seat 4: karambakilla ($98.38 in chips)
+karambakilla: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+karambakilla: raises $3 to $6
+ToDaFelt: raises $3 to $9
+karambakilla: calls $3
+*** FLOP *** [Ts 7s 7d]
+ToDaFelt: bets $3
+karambakilla: calls $3
+*** TURN *** [Ts 7s 7d] [8d]
+ToDaFelt: bets $6
+karambakilla: raises $6 to $12
+ToDaFelt: calls $6
+*** RIVER *** [Ts 7s 7d 8d] [5c]
+ToDaFelt: checks
+karambakilla: bets $6
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+karambakilla: shows [Tc 6d] (two pair, Tens and Sevens)
+ToDaFelt: mucks hand
+karambakilla collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Ts 7s 7d 8d 5c]
+Seat 1: ToDaFelt (big blind) mucked
+Seat 4: karambakilla (button) (small blind) showed [Tc 6d] and won ($59.50) with two pair, Tens and Sevens
+
+

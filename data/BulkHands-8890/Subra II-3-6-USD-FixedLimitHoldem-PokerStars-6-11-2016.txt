@@ -1,0 +1,54 @@
+PokerStars Hand #154595826741:  Hold'em Limit ($3/$6 USD) - 2016/06/11 12:42:51 ET
+Table 'Subra II' 6-max Seat #5 is the button
+Seat 1: yasmins1990 ($72.94 in chips)
+Seat 5: lockwoodlad ($430.15 in chips)
+lockwoodlad: posts small blind $1
+yasmins1990: posts big blind $3
+*** HOLE CARDS ***
+lockwoodlad: raises $3 to $6
+yasmins1990: calls $3
+*** FLOP *** [2s Ks 7d]
+kismespit leaves the table
+yasmins1990: checks
+lockwoodlad: bets $3
+yasmins1990: folds
+Uncalled bet ($3) returned to lockwoodlad
+lockwoodlad collected $11.76 from pot
+lockwoodlad: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2s Ks 7d]
+Seat 1: yasmins1990 (big blind) folded on the Flop
+Seat 5: lockwoodlad (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #154595836906:  Hold'em Limit ($3/$6 USD) - 2016/06/11 12:43:06 ET
+Table 'Subra II' 6-max Seat #1 is the button
+Seat 1: yasmins1990 ($66.94 in chips)
+Seat 5: lockwoodlad ($435.91 in chips)
+yasmins1990: posts small blind $1
+lockwoodlad: posts big blind $3
+*** HOLE CARDS ***
+yasmins1990: raises $3 to $6
+lockwoodlad: calls $3
+*** FLOP *** [As 6h 5d]
+lockwoodlad: checks
+yasmins1990: bets $3
+lockwoodlad: calls $3
+*** TURN *** [As 6h 5d] [8c]
+lockwoodlad: checks
+yasmins1990: checks
+*** RIVER *** [As 6h 5d 8c] [6d]
+lockwoodlad: bets $6
+yasmins1990: calls $6
+*** SHOW DOWN ***
+lockwoodlad: shows [Jd 4d] (a pair of Sixes)
+yasmins1990: shows [Jc 5c] (two pair, Sixes and Fives)
+yasmins1990 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [As 6h 5d 8c 6d]
+Seat 1: yasmins1990 (button) (small blind) showed [Jc 5c] and won ($29.50) with two pair, Sixes and Fives
+Seat 5: lockwoodlad (big blind) showed [Jd 4d] and lost with a pair of Sixes
+
+

@@ -1,0 +1,73 @@
+PokerStars Hand #175800394875:  Hold'em Limit ($3/$6 USD) - 2017/09/18 7:49:47 ET
+Table 'Danjon' 10-max Seat #4 is the button
+Seat 4: fugu82 ($96.39 in chips)
+Seat 7: Psynto ($107.53 in chips)
+fugu82: posts small blind $1
+Psynto: posts big blind $3
+*** HOLE CARDS ***
+fugu82: folds
+Uncalled bet ($2) returned to Psynto
+Psynto collected $2 from pot
+Psynto: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: fugu82 (button) (small blind) folded before Flop
+Seat 7: Psynto (big blind) collected ($2)
+
+
+PokerStars Hand #175800483562:  Hold'em Limit ($3/$6 USD) - 2017/09/18 7:53:15 ET
+Table 'Danjon' 10-max Seat #4 is the button
+Seat 4: fugu82 ($84.41 in chips)
+Seat 7: Psynto ($115.31 in chips)
+fugu82: posts small blind $1
+Psynto: posts big blind $3
+*** HOLE CARDS ***
+fugu82: raises $3 to $6
+Psynto: calls $3
+*** FLOP *** [4d 2d Kc]
+Psynto: checks
+fugu82: bets $3
+Psynto: calls $3
+*** TURN *** [4d 2d Kc] [4c]
+Psynto: checks
+fugu82: bets $6
+Psynto: folds
+Uncalled bet ($6) returned to fugu82
+fugu82 collected $17.64 from pot
+fugu82: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4d 2d Kc 4c]
+Seat 4: fugu82 (button) (small blind) collected ($17.64)
+Seat 7: Psynto (big blind) folded on the Turn
+
+
+PokerStars Hand #175800582227:  Hold'em Limit ($3/$6 USD) - 2017/09/18 7:57:16 ET
+Table 'Danjon' 10-max Seat #7 is the button
+Seat 4: fugu82 ($124.31 in chips)
+Seat 7: Psynto ($108.78 in chips)
+Psynto: posts small blind $1
+fugu82: posts big blind $3
+*** HOLE CARDS ***
+Psynto: raises $3 to $6
+fugu82: calls $3
+*** FLOP *** [7h Jd 4s]
+fugu82: checks
+Psynto: checks
+*** TURN *** [7h Jd 4s] [2c]
+fugu82: bets $6
+Psynto: calls $6
+*** RIVER *** [7h Jd 4s 2c] [5h]
+fugu82: bets $6
+Psynto: calls $6
+*** SHOW DOWN ***
+fugu82: shows [Jh 7s] (two pair, Jacks and Sevens)
+Psynto: mucks hand
+fugu82 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [7h Jd 4s 2c 5h]
+Seat 4: fugu82 (big blind) showed [Jh 7s] and won ($35.50) with two pair, Jacks and Sevens
+Seat 7: Psynto (button) (small blind) mucked
+
+

@@ -1,0 +1,58 @@
+PokerStars Hand #151983416134:  Hold'em Limit ($3/$6 USD) - 2016/04/16 2:59:14 ET
+Table 'Spartacus' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($145.03 in chips)
+Seat 6: kolaz03 ($85.19 in chips)
+VolkovDmitri: posts small blind $1
+Scheubi88: is sitting out
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+Scheubi88 leaves the table
+VolkovDmitri: raises $3 to $6
+kolaz03: calls $3
+*** FLOP *** [Js 4c 8d]
+kolaz03: checks
+VolkovDmitri: checks
+*** TURN *** [Js 4c 8d] [7s]
+kolaz03: checks
+VolkovDmitri: checks
+*** RIVER *** [Js 4c 8d 7s] [9d]
+kolaz03: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+kolaz03: shows [Ad 6c] (high card Ace)
+VolkovDmitri: mucks hand
+kolaz03 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Js 4c 8d 7s 9d]
+Seat 4: VolkovDmitri (button) (small blind) mucked
+Seat 6: kolaz03 (big blind) showed [Ad 6c] and won ($11.76) with high card Ace
+
+
+PokerStars Hand #151983426859:  Hold'em Limit ($3/$6 USD) - 2016/04/16 2:59:52 ET
+Table 'Spartacus' 6-max Seat #6 is the button
+Seat 4: VolkovDmitri ($139.03 in chips)
+Seat 6: kolaz03 ($90.95 in chips)
+kolaz03: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+kolaz03: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [2d Kh 7d]
+VolkovDmitri: checks
+kolaz03: bets $3
+VolkovDmitri: raises $3 to $6
+kolaz03: calls $3
+*** TURN *** [2d Kh 7d] [3h]
+VolkovDmitri: bets $6
+kolaz03: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $23.52 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [2d Kh 7d 3h]
+Seat 4: VolkovDmitri (big blind) collected ($23.52)
+Seat 6: kolaz03 (button) (small blind) folded on the Turn
+
+

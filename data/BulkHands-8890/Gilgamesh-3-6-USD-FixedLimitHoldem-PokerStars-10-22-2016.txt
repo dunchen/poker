@@ -1,0 +1,85 @@
+PokerStars Hand #160263588256:  Hold'em Limit ($3/$6 USD) - 2016/10/21 23:03:31 ET
+Table 'Gilgamesh' 10-max Seat #9 is the button
+Seat 1: ghj_n ($31.76 in chips)
+Seat 9: GoliafUa ($118 in chips)
+GoliafUa: posts small blind $1
+ghj_n: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa: raises $3 to $6
+ghj_n: raises $3 to $9
+GoliafUa: calls $3
+*** FLOP *** [6h Jc 2c]
+ghj_n: bets $3
+GoliafUa: calls $3
+*** TURN *** [6h Jc 2c] [4s]
+ghj_n: bets $6
+GoliafUa: calls $6
+*** RIVER *** [6h Jc 2c 4s] [9h]
+ghj_n: bets $6
+GoliafUa: calls $6
+*** SHOW DOWN ***
+ghj_n: shows [As Tc] (high card Ace)
+GoliafUa: shows [4h Ad] (a pair of Fours)
+GoliafUa collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [6h Jc 2c 4s 9h]
+Seat 1: ghj_n (big blind) showed [As Tc] and lost with high card Ace
+Seat 9: GoliafUa (button) (small blind) showed [4h Ad] and won ($47.50) with a pair of Fours
+
+
+PokerStars Hand #160263597620:  Hold'em Limit ($3/$6 USD) - 2016/10/21 23:03:59 ET
+Table 'Gilgamesh' 10-max Seat #9 is the button
+Seat 1: ghj_n ($15.21 in chips)
+Seat 9: GoliafUa ($133.74 in chips)
+GoliafUa: posts small blind $1
+ghj_n: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa: raises $3 to $6
+ghj_n: calls $3
+*** FLOP *** [4d 2h 3s]
+ghj_n: bets $3
+GoliafUa: calls $3
+*** TURN *** [4d 2h 3s] [2d]
+ghj_n: bets $6
+GoliafUa: calls $6
+*** RIVER *** [4d 2h 3s 2d] [8s]
+ghj_n: bets $0.21 and is all-in
+GoliafUa: calls $0.21
+*** SHOW DOWN ***
+ghj_n: shows [5s Qh] (a pair of Deuces)
+GoliafUa: shows [4h 6d] (two pair, Fours and Deuces)
+GoliafUa collected $29.92 from pot
+*** SUMMARY ***
+Total pot $30.42 | Rake $0.50
+Board [4d 2h 3s 2d 8s]
+Seat 1: ghj_n (big blind) showed [5s Qh] and lost with a pair of Deuces
+Seat 9: GoliafUa (button) (small blind) showed [4h 6d] and won ($29.92) with two pair, Fours and Deuces
+
+
+PokerStars Hand #160263593067:  Hold'em Limit ($3/$6 USD) - 2016/10/21 23:03:46 ET
+Table 'Gilgamesh' 10-max Seat #1 is the button
+Seat 1: ghj_n ($7.76 in chips)
+Seat 9: GoliafUa ($141.50 in chips)
+ghj_n: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+ghj_n: raises $3 to $6
+GoliafUa: calls $3
+*** FLOP *** [7d As 6s]
+GoliafUa: checks
+ghj_n: bets $1.76 and is all-in
+GoliafUa: calls $1.76
+*** TURN *** [7d As 6s] [Js]
+*** RIVER *** [7d As 6s Js] [3c]
+*** SHOW DOWN ***
+GoliafUa: shows [6c 5h] (a pair of Sixes)
+ghj_n: shows [Ks 6h] (a pair of Sixes - Ace+King kicker)
+ghj_n collected $15.21 from pot
+*** SUMMARY ***
+Total pot $15.52 | Rake $0.31
+Board [7d As 6s Js 3c]
+Seat 1: ghj_n (button) (small blind) showed [Ks 6h] and won ($15.21) with a pair of Sixes
+Seat 9: GoliafUa (big blind) showed [6c 5h] and lost with a pair of Sixes
+
+

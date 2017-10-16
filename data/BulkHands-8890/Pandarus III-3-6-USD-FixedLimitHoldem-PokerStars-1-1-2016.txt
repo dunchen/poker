@@ -1,0 +1,100 @@
+PokerStars Hand #146276020687:  Hold'em Limit ($3/$6 USD) - 2016/01/01 11:39:18 ET
+Table 'Pandarus III' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($91.64 in chips)
+Seat 2: joha74 ($147 in chips)
+joha74: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+joha74: raises $3 to $6
+BigYelloFish: raises $3 to $9
+joha74: calls $3
+*** FLOP *** [Ad Td As]
+BigYelloFish: bets $3
+joha74: folds
+Uncalled bet ($3) returned to BigYelloFish
+BigYelloFish collected $17.64 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ad Td As]
+Seat 1: BigYelloFish (big blind) collected ($17.64)
+Seat 2: joha74 (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #146276016806:  Hold'em Limit ($3/$6 USD) - 2016/01/01 11:39:13 ET
+Table 'Pandarus III' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($92.64 in chips)
+Seat 2: joha74 ($146 in chips)
+BigYelloFish: posts small blind $1
+joha74: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: folds
+Uncalled bet ($2) returned to joha74
+joha74 collected $2 from pot
+joha74: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (button) (small blind) folded before Flop
+Seat 2: joha74 (big blind) collected ($2)
+
+
+PokerStars Hand #146276003556:  Hold'em Limit ($3/$6 USD) - 2016/01/01 11:38:56 ET
+Table 'Pandarus III' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($110.64 in chips)
+Seat 2: joha74 ($128.50 in chips)
+joha74: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+joha74: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [Qc 7d 9d]
+BigYelloFish: checks
+joha74: bets $3
+BigYelloFish: raises $3 to $6
+joha74: calls $3
+*** TURN *** [Qc 7d 9d] [7s]
+BigYelloFish: bets $6
+joha74: calls $6
+*** RIVER *** [Qc 7d 9d 7s] [Qh]
+BigYelloFish: checks
+joha74: checks
+*** SHOW DOWN ***
+BigYelloFish: shows [6s 8c] (two pair, Queens and Sevens)
+joha74: shows [As Tc] (two pair, Queens and Sevens - Ace kicker)
+joha74 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Qc 7d 9d 7s Qh]
+Seat 1: BigYelloFish (big blind) showed [6s 8c] and lost with two pair, Queens and Sevens
+Seat 2: joha74 (button) (small blind) showed [As Tc] and won ($35.50) with two pair, Queens and Sevens
+
+
+PokerStars Hand #146275987774:  Hold'em Limit ($3/$6 USD) - 2016/01/01 11:38:36 ET
+Table 'Pandarus III' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($128.64 in chips)
+Seat 2: joha74 ($111 in chips)
+BigYelloFish: posts small blind $1
+joha74: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: calls $2
+joha74: checks
+*** FLOP *** [5c 4d 6h]
+joha74: bets $3
+BigYelloFish: calls $3
+*** TURN *** [5c 4d 6h] [Qc]
+joha74: bets $6
+BigYelloFish: calls $6
+*** RIVER *** [5c 4d 6h Qc] [Ah]
+joha74: bets $6
+BigYelloFish: calls $6
+*** SHOW DOWN ***
+joha74: shows [Jd 5d] (a pair of Fives)
+BigYelloFish: mucks hand
+joha74 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5c 4d 6h Qc Ah]
+Seat 1: BigYelloFish (button) (small blind) mucked
+Seat 2: joha74 (big blind) showed [Jd 5d] and won ($35.50) with a pair of Fives
+
+

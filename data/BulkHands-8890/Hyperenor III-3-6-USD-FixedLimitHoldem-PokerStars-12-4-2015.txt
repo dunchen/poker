@@ -1,0 +1,717 @@
+PokerStars Hand #144813191999:  Hold'em Limit ($3/$6 USD) - 2015/12/04 12:12:47 ET
+Table 'Hyperenor III' 2-max Seat #2 is the button
+Seat 1: echsecution ($98.25 in chips)
+Seat 2: desso777 ($44.75 in chips)
+desso777: posts small blind $1
+echsecution: posts big blind $3
+*** HOLE CARDS ***
+desso777: raises $3 to $6
+echsecution: calls $3
+*** FLOP *** [3d Ts 4h]
+echsecution: checks
+desso777: bets $3
+echsecution: calls $3
+*** TURN *** [3d Ts 4h] [Tc]
+echsecution: checks
+desso777: bets $6
+echsecution: calls $6
+*** RIVER *** [3d Ts 4h Tc] [7d]
+echsecution: checks
+desso777: bets $6
+echsecution: calls $6
+*** SHOW DOWN ***
+desso777: shows [Jh Td] (three of a kind, Tens)
+echsecution: mucks hand
+desso777 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [3d Ts 4h Tc 7d]
+Seat 1: echsecution (big blind) mucked
+Seat 2: desso777 (button) (small blind) showed [Jh Td] and won ($41.50) with three of a kind, Tens
+
+
+PokerStars Hand #144813174503:  Hold'em Limit ($3/$6 USD) - 2015/12/04 12:12:26 ET
+Table 'Hyperenor III' 2-max Seat #1 is the button
+Seat 1: echsecution ($98.50 in chips)
+Seat 2: desso777 ($45 in chips)
+echsecution: posts small blind $1
+desso777: posts big blind $3
+*** HOLE CARDS ***
+echsecution: raises $3 to $6
+desso777: raises $3 to $9
+echsecution: calls $3
+*** FLOP *** [7c 8s 6s]
+desso777: bets $3
+echsecution: calls $3
+*** TURN *** [7c 8s 6s] [9d]
+desso777: bets $6
+echsecution: raises $6 to $12
+desso777: raises $6 to $18
+echsecution: calls $6
+*** RIVER *** [7c 8s 6s 9d] [6h]
+desso777: bets $6
+echsecution: calls $6
+*** SHOW DOWN ***
+desso777: shows [Ts Tc] (a straight, Six to Ten)
+echsecution: shows [3s Th] (a straight, Six to Ten)
+desso777 collected $35.75 from pot
+echsecution collected $35.75 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [7c 8s 6s 9d 6h]
+Seat 1: echsecution (button) (small blind) showed [3s Th] and won ($35.75) with a straight, Six to Ten
+Seat 2: desso777 (big blind) showed [Ts Tc] and won ($35.75) with a straight, Six to Ten
+
+
+PokerStars Hand #144813250082:  Hold'em Limit ($3/$6 USD) - 2015/12/04 12:13:59 ET
+Table 'Hyperenor III' 2-max Seat #1 is the button
+Seat 1: echsecution ($72 in chips)
+Seat 2: desso777 ($94.51 in chips)
+echsecution: posts small blind $1
+desso777: posts big blind $3
+*** HOLE CARDS ***
+echsecution: raises $3 to $6
+desso777: calls $3
+*** FLOP *** [2c Ks 4h]
+desso777: checks
+echsecution: bets $3
+desso777: calls $3
+*** TURN *** [2c Ks 4h] [Qh]
+desso777: checks
+echsecution: bets $6
+desso777: raises $6 to $12
+echsecution: calls $6
+*** RIVER *** [2c Ks 4h Qh] [Js]
+desso777: bets $6
+echsecution: calls $6
+*** SHOW DOWN ***
+desso777: shows [Qd Th] (a pair of Queens)
+echsecution: shows [Kd 9d] (a pair of Kings)
+echsecution collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [2c Ks 4h Qh Js]
+Seat 1: echsecution (button) (small blind) showed [Kd 9d] and won ($53.50) with a pair of Kings
+Seat 2: desso777 (big blind) showed [Qd Th] and lost with a pair of Queens
+
+
+PokerStars Hand #144813231743:  Hold'em Limit ($3/$6 USD) - 2015/12/04 12:13:37 ET
+Table 'Hyperenor III' 2-max Seat #2 is the button
+Seat 1: echsecution ($72 in chips)
+Seat 2: desso777 ($71.01 in chips)
+desso777: posts small blind $1
+echsecution: posts big blind $3
+*** HOLE CARDS ***
+desso777: raises $3 to $6
+echsecution: raises $3 to $9
+desso777: calls $3
+*** FLOP *** [2d 3c 4c]
+echsecution: bets $3
+desso777: calls $3
+*** TURN *** [2d 3c 4c] [9d]
+echsecution: bets $6
+desso777: raises $6 to $12
+echsecution: calls $6
+*** RIVER *** [2d 3c 4c 9d] [7c]
+echsecution: checks
+desso777: bets $6
+echsecution: folds
+Uncalled bet ($6) returned to desso777
+desso777 collected $47.50 from pot
+desso777: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2d 3c 4c 9d 7c]
+Seat 1: echsecution (big blind) folded on the River
+Seat 2: desso777 (button) (small blind) collected ($47.50)
+
+
+PokerStars Hand #144813217156:  Hold'em Limit ($3/$6 USD) - 2015/12/04 12:13:19 ET
+Table 'Hyperenor III' 2-max Seat #1 is the button
+Seat 1: echsecution ($77.25 in chips)
+Seat 2: desso777 ($65.25 in chips)
+echsecution: posts small blind $1
+desso777: posts big blind $3
+*** HOLE CARDS ***
+echsecution: raises $3 to $6
+desso777: calls $3
+*** FLOP *** [Kc 3c 5h]
+desso777: checks
+echsecution: checks
+*** TURN *** [Kc 3c 5h] [Js]
+desso777: bets $6
+echsecution: folds
+Uncalled bet ($6) returned to desso777
+desso777 collected $11.76 from pot
+desso777: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kc 3c 5h Js]
+Seat 1: echsecution (button) (small blind) folded on the Turn
+Seat 2: desso777 (big blind) collected ($11.76)
+
+
+PokerStars Hand #144813299081:  Hold'em Limit ($3/$6 USD) - 2015/12/04 12:15:01 ET
+Table 'Hyperenor III' 2-max Seat #1 is the button
+Seat 1: echsecution ($86.50 in chips)
+Seat 2: desso777 ($78.91 in chips)
+echsecution: posts small blind $1
+desso777: posts big blind $3
+*** HOLE CARDS ***
+echsecution: raises $3 to $6
+desso777: calls $3
+*** FLOP *** [5s Jh Qh]
+desso777: checks
+echsecution: bets $3
+desso777: folds
+Uncalled bet ($3) returned to echsecution
+echsecution collected $11.76 from pot
+echsecution: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5s Jh Qh]
+Seat 1: echsecution (button) (small blind) collected ($11.76)
+Seat 2: desso777 (big blind) folded on the Flop
+
+
+PokerStars Hand #144813283159:  Hold'em Limit ($3/$6 USD) - 2015/12/04 12:14:41 ET
+Table 'Hyperenor III' 2-max Seat #2 is the button
+Seat 1: echsecution ($95.50 in chips)
+Seat 2: desso777 ($70.27 in chips)
+desso777: posts small blind $1
+echsecution: posts big blind $3
+*** HOLE CARDS ***
+desso777: raises $3 to $6
+echsecution: calls $3
+*** FLOP *** [Qh Td Kh]
+echsecution: checks
+desso777: bets $3
+echsecution: calls $3
+*** TURN *** [Qh Td Kh] [3d]
+echsecution: checks
+desso777: bets $6
+echsecution: folds
+Uncalled bet ($6) returned to desso777
+desso777 collected $17.64 from pot
+desso777: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qh Td Kh 3d]
+Seat 1: echsecution (big blind) folded on the Turn
+Seat 2: desso777 (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #144813277106:  Hold'em Limit ($3/$6 USD) - 2015/12/04 12:14:33 ET
+Table 'Hyperenor III' 2-max Seat #1 is the button
+Seat 1: echsecution ($92.50 in chips)
+Seat 2: desso777 ($73.27 in chips)
+echsecution: posts small blind $1
+desso777: posts big blind $3
+*** HOLE CARDS ***
+echsecution: raises $3 to $6
+desso777: folds
+Uncalled bet ($3) returned to echsecution
+echsecution collected $6 from pot
+echsecution: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: echsecution (button) (small blind) collected ($6)
+Seat 2: desso777 (big blind) folded before Flop
+
+
+PokerStars Hand #144813268639:  Hold'em Limit ($3/$6 USD) - 2015/12/04 12:14:22 ET
+Table 'Hyperenor III' 2-max Seat #2 is the button
+Seat 1: echsecution ($98.50 in chips)
+Seat 2: desso777 ($67.51 in chips)
+desso777: posts small blind $1
+echsecution: posts big blind $3
+*** HOLE CARDS ***
+desso777: raises $3 to $6
+echsecution: calls $3
+*** FLOP *** [8s 3s Kc]
+echsecution: checks
+desso777: bets $3
+echsecution: folds
+Uncalled bet ($3) returned to desso777
+desso777 collected $11.76 from pot
+desso777: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8s 3s Kc]
+Seat 1: echsecution (big blind) folded on the Flop
+Seat 2: desso777 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #144813357026:  Hold'em Limit ($3/$6 USD) - 2015/12/04 12:16:13 ET
+Table 'Hyperenor III' 2-max Seat #1 is the button
+Seat 1: echsecution ($72 in chips)
+Seat 2: desso777 ($120.91 in chips)
+echsecution: posts small blind $1
+desso777: posts big blind $3
+*** HOLE CARDS ***
+echsecution: raises $3 to $6
+desso777: calls $3
+*** FLOP *** [2c Ah Ts]
+desso777: bets $3
+echsecution: calls $3
+*** TURN *** [2c Ah Ts] [3c]
+desso777: bets $6
+echsecution: calls $6
+*** RIVER *** [2c Ah Ts 3c] [3h]
+desso777: bets $6
+echsecution: calls $6
+*** SHOW DOWN ***
+desso777: shows [Qc 5h] (a pair of Threes)
+echsecution: shows [2s Qh] (two pair, Threes and Deuces)
+echsecution collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2c Ah Ts 3c 3h]
+Seat 1: echsecution (button) (small blind) showed [2s Qh] and won ($41.50) with two pair, Threes and Deuces
+Seat 2: desso777 (big blind) showed [Qc 5h] and lost with a pair of Threes
+
+
+PokerStars Hand #144813334573:  Hold'em Limit ($3/$6 USD) - 2015/12/04 12:15:45 ET
+Table 'Hyperenor III' 2-max Seat #2 is the button
+Seat 1: echsecution ($72 in chips)
+Seat 2: desso777 ($100.41 in chips)
+desso777: posts small blind $1
+echsecution: posts big blind $3
+*** HOLE CARDS ***
+desso777: raises $3 to $6
+echsecution: calls $3
+*** FLOP *** [9h 3s As]
+echsecution: checks
+desso777: bets $3
+echsecution: calls $3
+*** TURN *** [9h 3s As] [8h]
+echsecution: checks
+desso777: bets $6
+echsecution: calls $6
+*** RIVER *** [9h 3s As 8h] [Ah]
+echsecution: checks
+desso777: bets $6
+echsecution: calls $6
+*** SHOW DOWN ***
+desso777: shows [4d 9d] (two pair, Aces and Nines)
+echsecution: mucks hand
+desso777 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9h 3s As 8h Ah]
+Seat 1: echsecution (big blind) mucked
+Seat 2: desso777 (button) (small blind) showed [4d 9d] and won ($41.50) with two pair, Aces and Nines
+
+
+PokerStars Hand #144813329713:  Hold'em Limit ($3/$6 USD) - 2015/12/04 12:15:39 ET
+Table 'Hyperenor III' 2-max Seat #1 is the button
+Seat 1: echsecution ($72 in chips)
+Seat 2: desso777 ($99.41 in chips)
+echsecution: posts small blind $1
+desso777: posts big blind $3
+*** HOLE CARDS ***
+echsecution: folds
+Uncalled bet ($2) returned to desso777
+desso777 collected $2 from pot
+desso777: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: echsecution (button) (small blind) folded before Flop
+Seat 2: desso777 (big blind) collected ($2)
+
+
+PokerStars Hand #144813310955:  Hold'em Limit ($3/$6 USD) - 2015/12/04 12:15:15 ET
+Table 'Hyperenor III' 2-max Seat #2 is the button
+Seat 1: echsecution ($92.26 in chips)
+Seat 2: desso777 ($72.91 in chips)
+desso777: posts small blind $1
+echsecution: posts big blind $3
+*** HOLE CARDS ***
+desso777: raises $3 to $6
+echsecution: calls $3
+*** FLOP *** [Jh 7c 8s]
+echsecution: checks
+desso777: bets $3
+echsecution: calls $3
+*** TURN *** [Jh 7c 8s] [8d]
+echsecution: checks
+desso777: bets $6
+echsecution: calls $6
+*** RIVER *** [Jh 7c 8s 8d] [Tc]
+echsecution: bets $6
+desso777: raises $6 to $12
+echsecution: calls $6
+*** SHOW DOWN ***
+desso777: shows [8h Jc] (a full house, Eights full of Jacks)
+echsecution: mucks hand
+desso777 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Jh 7c 8s 8d Tc]
+Seat 1: echsecution (big blind) mucked
+Seat 2: desso777 (button) (small blind) showed [8h Jc] and won ($53.50) with a full house, Eights full of Jacks
+
+
+PokerStars Hand #144813380814:  Hold'em Limit ($3/$6 USD) - 2015/12/04 12:16:42 ET
+Table 'Hyperenor III' 2-max Seat #2 is the button
+Seat 1: echsecution ($92.50 in chips)
+Seat 2: desso777 ($99.91 in chips)
+desso777: posts small blind $1
+echsecution: posts big blind $3
+*** HOLE CARDS ***
+desso777: raises $3 to $6
+echsecution: calls $3
+*** FLOP *** [4h Td 6c]
+echsecution: checks
+desso777: bets $3
+echsecution: folds
+Uncalled bet ($3) returned to desso777
+desso777 collected $11.76 from pot
+desso777: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4h Td 6c]
+Seat 1: echsecution (big blind) folded on the Flop
+Seat 2: desso777 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #144813376782:  Hold'em Limit ($3/$6 USD) - 2015/12/04 12:16:37 ET
+Table 'Hyperenor III' 2-max Seat #1 is the button
+Seat 1: echsecution ($93.50 in chips)
+Seat 2: desso777 ($98.91 in chips)
+echsecution: posts small blind $1
+desso777: posts big blind $3
+*** HOLE CARDS ***
+echsecution: folds
+Uncalled bet ($2) returned to desso777
+desso777 collected $2 from pot
+desso777: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: echsecution (button) (small blind) folded before Flop
+Seat 2: desso777 (big blind) collected ($2)
+
+
+PokerStars Hand #144813371561:  Hold'em Limit ($3/$6 USD) - 2015/12/04 12:16:31 ET
+Table 'Hyperenor III' 2-max Seat #2 is the button
+Seat 1: echsecution ($92.50 in chips)
+Seat 2: desso777 ($99.91 in chips)
+desso777: posts small blind $1
+echsecution: posts big blind $3
+*** HOLE CARDS ***
+desso777: folds
+Uncalled bet ($2) returned to echsecution
+echsecution collected $2 from pot
+echsecution: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: echsecution (big blind) collected ($2)
+Seat 2: desso777 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #144813394064:  Hold'em Limit ($3/$6 USD) - 2015/12/04 12:16:59 ET
+Table 'Hyperenor III' 2-max Seat #1 is the button
+Seat 1: echsecution ($86.50 in chips)
+Seat 2: desso777 ($105.67 in chips)
+echsecution: posts small blind $1
+desso777: posts big blind $3
+*** HOLE CARDS ***
+echsecution: raises $3 to $6
+desso777: calls $3
+*** FLOP *** [5s 6h Jh]
+desso777: checks
+echsecution: bets $3
+desso777: calls $3
+*** TURN *** [5s 6h Jh] [Ts]
+desso777: checks
+echsecution: bets $6
+desso777: raises $6 to $12
+echsecution: raises $6 to $18
+desso777: raises $6 to $24
+Betting is capped
+echsecution: calls $6
+*** RIVER *** [5s 6h Jh Ts] [Tc]
+desso777: bets $6
+echsecution: raises $6 to $12
+desso777: folds
+Uncalled bet ($6) returned to echsecution
+echsecution collected $77.50 from pot
+echsecution: doesn't show hand
+*** SUMMARY ***
+Total pot $78 | Rake $0.50
+Board [5s 6h Jh Ts Tc]
+Seat 1: echsecution (button) (small blind) collected ($77.50)
+Seat 2: desso777 (big blind) folded on the River
+
+
+PokerStars Hand #144813496067:  Hold'em Limit ($3/$6 USD) - 2015/12/04 12:19:06 ET
+Table 'Hyperenor III' 2-max Seat #1 is the button
+Seat 1: echsecution ($160 in chips)
+Seat 2: desso777 ($30.17 in chips)
+echsecution: posts small blind $1
+desso777: posts big blind $3
+*** HOLE CARDS ***
+echsecution: raises $3 to $6
+desso777: raises $3 to $9
+echsecution: calls $3
+*** FLOP *** [7c 4c 2s]
+desso777: bets $3
+echsecution: calls $3
+*** TURN *** [7c 4c 2s] [6d]
+desso777: bets $6
+echsecution: calls $6
+*** RIVER *** [7c 4c 2s 6d] [9h]
+desso777: bets $6
+echsecution: calls $6
+*** SHOW DOWN ***
+desso777: shows [Kd 6h] (a pair of Sixes)
+echsecution: mucks hand
+desso777 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7c 4c 2s 6d 9h]
+Seat 1: echsecution (button) (small blind) mucked
+Seat 2: desso777 (big blind) showed [Kd 6h] and won ($47.50) with a pair of Sixes
+
+
+PokerStars Hand #144813477093:  Hold'em Limit ($3/$6 USD) - 2015/12/04 12:18:43 ET
+Table 'Hyperenor III' 2-max Seat #2 is the button
+Seat 1: echsecution ($136.50 in chips)
+Seat 2: desso777 ($54.17 in chips)
+desso777: posts small blind $1
+echsecution: posts big blind $3
+*** HOLE CARDS ***
+desso777: raises $3 to $6
+echsecution: raises $3 to $9
+desso777: calls $3
+*** FLOP *** [Kh 9s 5c]
+echsecution: bets $3
+desso777: calls $3
+*** TURN *** [Kh 9s 5c] [Jh]
+echsecution: bets $6
+desso777: calls $6
+*** RIVER *** [Kh 9s 5c Jh] [8h]
+echsecution: bets $6
+desso777: calls $6
+*** SHOW DOWN ***
+echsecution: shows [Kd Js] (two pair, Kings and Jacks)
+desso777: mucks hand
+echsecution collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Kh 9s 5c Jh 8h]
+Seat 1: echsecution (big blind) showed [Kd Js] and won ($47.50) with two pair, Kings and Jacks
+Seat 2: desso777 (button) (small blind) mucked
+
+
+PokerStars Hand #144813459294:  Hold'em Limit ($3/$6 USD) - 2015/12/04 12:18:20 ET
+Table 'Hyperenor III' 2-max Seat #1 is the button
+Seat 1: echsecution ($154.50 in chips)
+Seat 2: desso777 ($36.67 in chips)
+echsecution: posts small blind $1
+desso777: posts big blind $3
+*** HOLE CARDS ***
+echsecution: raises $3 to $6
+desso777: raises $3 to $9
+echsecution: calls $3
+*** FLOP *** [7s 9d Qh]
+desso777: bets $3
+echsecution: calls $3
+*** TURN *** [7s 9d Qh] [Qs]
+desso777: checks
+echsecution: checks
+*** RIVER *** [7s 9d Qh Qs] [8d]
+desso777: bets $6
+echsecution: calls $6
+*** SHOW DOWN ***
+desso777: shows [Qd 3d] (three of a kind, Queens)
+echsecution: mucks hand
+desso777 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [7s 9d Qh Qs 8d]
+Seat 1: echsecution (button) (small blind) mucked
+Seat 2: desso777 (big blind) showed [Qd 3d] and won ($35.50) with three of a kind, Queens
+
+
+PokerStars Hand #144813440026:  Hold'em Limit ($3/$6 USD) - 2015/12/04 12:17:56 ET
+Table 'Hyperenor III' 2-max Seat #2 is the button
+Seat 1: echsecution ($125 in chips)
+Seat 2: desso777 ($66.67 in chips)
+desso777: posts small blind $1
+echsecution: posts big blind $3
+*** HOLE CARDS ***
+desso777: raises $3 to $6
+echsecution: calls $3
+*** FLOP *** [2h 9d 6d]
+echsecution: checks
+desso777: bets $3
+echsecution: raises $3 to $6
+desso777: calls $3
+*** TURN *** [2h 9d 6d] [3s]
+echsecution: bets $6
+desso777: raises $6 to $12
+echsecution: calls $6
+*** RIVER *** [2h 9d 6d 3s] [8s]
+echsecution: checks
+desso777: bets $6
+echsecution: calls $6
+*** SHOW DOWN ***
+desso777: shows [As 6s] (a pair of Sixes)
+echsecution: shows [9h Kd] (a pair of Nines)
+echsecution collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [2h 9d 6d 3s 8s]
+Seat 1: echsecution (big blind) showed [9h Kd] and won ($59.50) with a pair of Nines
+Seat 2: desso777 (button) (small blind) showed [As 6s] and lost with a pair of Sixes
+
+
+PokerStars Hand #144813550845:  Hold'em Limit ($3/$6 USD) - 2015/12/04 12:20:15 ET
+Table 'Hyperenor III' 2-max Seat #1 is the button
+Seat 1: echsecution ($143.50 in chips)
+Seat 2: desso777 ($45.17 in chips)
+echsecution: posts small blind $1
+desso777: posts big blind $3
+*** HOLE CARDS ***
+echsecution: folds
+Uncalled bet ($2) returned to desso777
+desso777 collected $2 from pot
+desso777: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: echsecution (button) (small blind) folded before Flop
+Seat 2: desso777 (big blind) collected ($2)
+
+
+PokerStars Hand #144813528807:  Hold'em Limit ($3/$6 USD) - 2015/12/04 12:19:47 ET
+Table 'Hyperenor III' 2-max Seat #1 is the button
+Seat 1: echsecution ($165.50 in chips)
+Seat 2: desso777 ($23.67 in chips)
+echsecution: posts small blind $1
+desso777: posts big blind $3
+*** HOLE CARDS ***
+echsecution: folds
+Uncalled bet ($2) returned to desso777
+desso777 collected $2 from pot
+desso777: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: echsecution (button) (small blind) folded before Flop
+Seat 2: desso777 (big blind) collected ($2)
+
+
+PokerStars Hand #144813510793:  Hold'em Limit ($3/$6 USD) - 2015/12/04 12:19:25 ET
+Table 'Hyperenor III' 2-max Seat #2 is the button
+Seat 1: echsecution ($136 in chips)
+Seat 2: desso777 ($53.67 in chips)
+desso777: posts small blind $1
+echsecution: posts big blind $3
+*** HOLE CARDS ***
+desso777: raises $3 to $6
+echsecution: raises $3 to $9
+desso777: calls $3
+*** FLOP *** [6c 2s 6d]
+echsecution: bets $3
+desso777: calls $3
+*** TURN *** [6c 2s 6d] [2d]
+echsecution: bets $6
+desso777: raises $6 to $12
+echsecution: calls $6
+*** RIVER *** [6c 2s 6d 2d] [5h]
+echsecution: checks
+desso777: bets $6
+echsecution: calls $6
+*** SHOW DOWN ***
+desso777: shows [7d 4d] (two pair, Sixes and Deuces)
+echsecution: shows [7c 7h] (two pair, Sevens and Sixes)
+echsecution collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [6c 2s 6d 2d 5h]
+Seat 1: echsecution (big blind) showed [7c 7h] and won ($59.50) with two pair, Sevens and Sixes
+Seat 2: desso777 (button) (small blind) showed [7d 4d] and lost with two pair, Sixes and Deuces
+
+
+PokerStars Hand #144813577888:  Hold'em Limit ($3/$6 USD) - 2015/12/04 12:20:49 ET
+Table 'Hyperenor III' 2-max Seat #2 is the button
+Seat 1: echsecution ($157.02 in chips)
+Seat 2: desso777 ($31.17 in chips)
+desso777: posts small blind $1
+echsecution: posts big blind $3
+*** HOLE CARDS ***
+desso777: raises $3 to $6
+echsecution: calls $3
+*** FLOP *** [8s 6d 5h]
+echsecution: checks
+desso777: bets $3
+echsecution: calls $3
+*** TURN *** [8s 6d 5h] [7s]
+echsecution: checks
+desso777: bets $6
+echsecution: raises $6 to $12
+desso777: raises $6 to $18
+echsecution: calls $6
+*** RIVER *** [8s 6d 5h 7s] [6s]
+echsecution: checks
+desso777: bets $4.17 and is all-in
+echsecution: calls $4.17
+*** SHOW DOWN ***
+desso777: shows [2h Kd] (a pair of Sixes)
+echsecution: shows [Jh 9s] (a straight, Five to Nine)
+echsecution collected $61.84 from pot
+*** SUMMARY ***
+Total pot $62.34 | Rake $0.50
+Board [8s 6d 5h 7s 6s]
+Seat 1: echsecution (big blind) showed [Jh 9s] and won ($61.84) with a straight, Five to Nine
+Seat 2: desso777 (button) (small blind) showed [2h Kd] and lost with a pair of Sixes
+
+
+PokerStars Hand #144813572053:  Hold'em Limit ($3/$6 USD) - 2015/12/04 12:20:41 ET
+Table 'Hyperenor III' 2-max Seat #1 is the button
+Seat 1: echsecution ($154.02 in chips)
+Seat 2: desso777 ($34.17 in chips)
+echsecution: posts small blind $1
+desso777: posts big blind $3
+*** HOLE CARDS ***
+echsecution: raises $3 to $6
+desso777: folds
+Uncalled bet ($3) returned to echsecution
+echsecution collected $6 from pot
+echsecution: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: echsecution (button) (small blind) collected ($6)
+Seat 2: desso777 (big blind) folded before Flop
+
+
+PokerStars Hand #144813555306:  Hold'em Limit ($3/$6 USD) - 2015/12/04 12:20:20 ET
+Table 'Hyperenor III' 2-max Seat #2 is the button
+Seat 1: echsecution ($142.50 in chips)
+Seat 2: desso777 ($46.17 in chips)
+desso777: posts small blind $1
+echsecution: posts big blind $3
+*** HOLE CARDS ***
+desso777: raises $3 to $6
+echsecution: calls $3
+*** FLOP *** [9d Ts 7h]
+echsecution: checks
+desso777: checks
+*** TURN *** [9d Ts 7h] [Kc]
+echsecution: checks
+desso777: checks
+*** RIVER *** [9d Ts 7h Kc] [7d]
+echsecution: checks
+desso777: bets $6
+echsecution: calls $6
+*** SHOW DOWN ***
+desso777: shows [4s 6c] (a pair of Sevens)
+echsecution: shows [As 2h] (a pair of Sevens - Ace kicker)
+echsecution collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [9d Ts 7h Kc 7d]
+Seat 1: echsecution (big blind) showed [As 2h] and won ($23.52) with a pair of Sevens
+Seat 2: desso777 (button) (small blind) showed [4s 6c] and lost with a pair of Sevens
+
+

@@ -1,0 +1,118 @@
+PokerStars Hand #162996121483:  Hold'em Limit ($3/$6 USD) - 2016/12/15 15:16:49 ET
+Table 'Dalera II' 6-max Seat #2 is the button
+Seat 1: feilinho ($49 in chips)
+Seat 2: pompier40 ($129.17 in chips)
+pompier40: posts small blind $1
+vestimokrec: is sitting out
+feilinho: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec leaves the table
+pompier40: raises $3 to $6
+feilinho: calls $3
+*** FLOP *** [3h 5d Qh]
+Psynto joins the table at seat #3
+feilinho: bets $3
+pompier40: raises $3 to $6
+feilinho: calls $3
+*** TURN *** [3h 5d Qh] [4h]
+feilinho: checks
+pompier40: bets $6
+feilinho: raises $6 to $12
+pompier40: calls $6
+*** RIVER *** [3h 5d Qh 4h] [Kh]
+feilinho: checks
+pompier40: checks
+*** SHOW DOWN ***
+feilinho: shows [3c 4d] (two pair, Fours and Threes)
+pompier40: mucks hand
+feilinho collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3h 5d Qh 4h Kh]
+Seat 1: feilinho (big blind) showed [3c 4d] and won ($47.50) with two pair, Fours and Threes
+Seat 2: pompier40 (button) (small blind) mucked
+
+
+PokerStars Hand #162996153196:  Hold'em Limit ($3/$6 USD) - 2016/12/15 15:17:19 ET
+Table 'Dalera II' 6-max Seat #1 is the button
+Seat 1: feilinho ($72.50 in chips)
+Seat 2: pompier40 ($105.17 in chips)
+feilinho: posts small blind $1
+pompier40: posts big blind $3
+*** HOLE CARDS ***
+feilinho: raises $3 to $6
+pompier40: folds
+Uncalled bet ($3) returned to feilinho
+feilinho collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: feilinho (button) (small blind) collected ($6)
+Seat 2: pompier40 (big blind) folded before Flop
+
+
+PokerStars Hand #162996428186:  Hold'em Limit ($3/$6 USD) - 2016/12/15 15:21:44 ET
+Table 'Dalera II' 6-max Seat #2 is the button
+Seat 2: pompier40 ($87.93 in chips)
+Seat 3: Psynto ($125.37 in chips)
+pompier40: posts small blind $1
+Psynto: posts big blind $3
+*** HOLE CARDS ***
+feilinho leaves the table
+pompier40: raises $3 to $6
+Psynto: raises $3 to $9
+pompier40: raises $3 to $12
+Betting is capped
+Psynto: calls $3
+*** FLOP *** [9c 3d 7s]
+Psynto: checks
+pompier40: bets $3
+Psynto: calls $3
+*** TURN *** [9c 3d 7s] [Ts]
+Psynto: checks
+pompier40: bets $6
+Psynto: raises $6 to $12
+pompier40: raises $6 to $18
+Psynto: calls $6
+*** RIVER *** [9c 3d 7s Ts] [9h]
+Psynto: checks
+pompier40: checks
+*** SHOW DOWN ***
+Psynto: shows [Ah Td] (two pair, Tens and Nines)
+pompier40: mucks hand
+Psynto collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [9c 3d 7s Ts 9h]
+Seat 2: pompier40 (button) (small blind) mucked
+Seat 3: Psynto (big blind) showed [Ah Td] and won ($65.50) with two pair, Tens and Nines
+
+
+PokerStars Hand #162996413992:  Hold'em Limit ($3/$6 USD) - 2016/12/15 15:21:30 ET
+Table 'Dalera II' 6-max Seat #3 is the button
+Seat 2: pompier40 ($96.93 in chips)
+Seat 3: Psynto ($116.73 in chips)
+Psynto: posts small blind $1
+feilinho: is sitting out
+pompier40: posts big blind $3
+*** HOLE CARDS ***
+Psynto: raises $3 to $6
+pompier40: calls $3
+*** FLOP *** [7s 9c 6d]
+Vital1808 joins the table at seat #4
+pompier40: checks
+Psynto: bets $3
+pompier40: calls $3
+*** TURN *** [7s 9c 6d] [3s]
+pompier40: checks
+Psynto: bets $6
+pompier40: folds
+Uncalled bet ($6) returned to Psynto
+Psynto collected $17.64 from pot
+Psynto: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7s 9c 6d 3s]
+Seat 2: pompier40 (big blind) folded on the Turn
+Seat 3: Psynto (button) (small blind) collected ($17.64)
+
+

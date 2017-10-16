@@ -1,0 +1,60 @@
+PokerStars Hand #146806831881:  Hold'em Limit ($3/$6 USD) - 2016/01/10 12:40:59 ET
+Table 'Lola' 2-max Seat #2 is the button
+Seat 1: _fayzulllo_ ($23.90 in chips)
+Seat 2: dragon1893 ($197.78 in chips)
+dragon1893: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+dragon1893: raises $3 to $6
+_fayzulllo_: calls $3
+*** FLOP *** [Kh 3s Jd]
+_fayzulllo_: checks
+dragon1893: bets $3
+_fayzulllo_: raises $3 to $6
+dragon1893: calls $3
+*** TURN *** [Kh 3s Jd] [Qh]
+_fayzulllo_: bets $6
+dragon1893: raises $6 to $12
+_fayzulllo_: calls $5.90 and is all-in
+Uncalled bet ($0.10) returned to dragon1893
+*** RIVER *** [Kh 3s Jd Qh] [Qs]
+*** SHOW DOWN ***
+_fayzulllo_: shows [7s Jc] (two pair, Queens and Jacks)
+dragon1893: shows [Th Ac] (a straight, Ten to Ace)
+dragon1893 collected $47.30 from pot
+*** SUMMARY ***
+Total pot $47.80 | Rake $0.50
+Board [Kh 3s Jd Qh Qs]
+Seat 1: _fayzulllo_ (big blind) showed [7s Jc] and lost with two pair, Queens and Jacks
+Seat 2: dragon1893 (button) (small blind) showed [Th Ac] and won ($47.30) with a straight, Ten to Ace
+
+
+PokerStars Hand #146806818488:  Hold'em Limit ($3/$6 USD) - 2016/01/10 12:40:46 ET
+Table 'Lola' 2-max Seat #1 is the button
+Seat 1: _fayzulllo_ ($41.90 in chips)
+Seat 2: dragon1893 ($180.28 in chips)
+_fayzulllo_: posts small blind $1
+dragon1893: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: raises $3 to $6
+dragon1893: calls $3
+*** FLOP *** [5s 7h 4s]
+dragon1893: checks
+_fayzulllo_: checks
+*** TURN *** [5s 7h 4s] [5h]
+dragon1893: bets $6
+_fayzulllo_: calls $6
+*** RIVER *** [5s 7h 4s 5h] [Th]
+dragon1893: bets $6
+_fayzulllo_: calls $6
+*** SHOW DOWN ***
+dragon1893: shows [Kc 5d] (three of a kind, Fives)
+_fayzulllo_: mucks hand
+dragon1893 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5s 7h 4s 5h Th]
+Seat 1: _fayzulllo_ (button) (small blind) mucked
+Seat 2: dragon1893 (big blind) showed [Kc 5d] and won ($35.50) with three of a kind, Fives
+
+

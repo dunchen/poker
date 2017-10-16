@@ -1,0 +1,232 @@
+PokerStars Hand #145675839572:  Hold'em Limit ($3/$6 USD) - 2015/12/21 3:47:18 ET
+Table 'Adhara' 2-max Seat #1 is the button
+Seat 1: Alex119387 ($177 in chips)
+Seat 2: MTails ($123 in chips)
+Alex119387: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+Alex119387: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [3c Ks Qd]
+MTails: checks
+Alex119387: bets $3
+MTails: raises $3 to $6
+Alex119387: calls $3
+*** TURN *** [3c Ks Qd] [Qs]
+MTails: bets $6
+Alex119387: calls $6
+*** RIVER *** [3c Ks Qd Qs] [7h]
+MTails: bets $6
+Alex119387: calls $6
+*** SHOW DOWN ***
+MTails: shows [Jc Kh] (two pair, Kings and Queens)
+Alex119387: mucks hand
+MTails collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3c Ks Qd Qs 7h]
+Seat 1: Alex119387 (button) (small blind) mucked
+Seat 2: MTails (big blind) showed [Jc Kh] and won ($47.50) with two pair, Kings and Queens
+
+
+PokerStars Hand #145675847133:  Hold'em Limit ($3/$6 USD) - 2015/12/21 3:47:42 ET
+Table 'Adhara' 2-max Seat #2 is the button
+Seat 1: Alex119387 ($153 in chips)
+Seat 2: MTails ($146.50 in chips)
+MTails: posts small blind $1
+Alex119387: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+Alex119387: raises $3 to $9
+MTails: calls $3
+*** FLOP *** [6h 2s 7h]
+Alex119387: bets $3
+MTails: calls $3
+*** TURN *** [6h 2s 7h] [2c]
+Alex119387: bets $6
+MTails: calls $6
+*** RIVER *** [6h 2s 7h 2c] [6c]
+Alex119387: bets $6
+MTails: calls $6
+*** SHOW DOWN ***
+Alex119387: shows [Kd 6s] (a full house, Sixes full of Deuces)
+MTails: mucks hand
+Alex119387 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [6h 2s 7h 2c 6c]
+Seat 1: Alex119387 (big blind) showed [Kd 6s] and won ($47.50) with a full house, Sixes full of Deuces
+Seat 2: MTails (button) (small blind) mucked
+
+
+PokerStars Hand #145675852534:  Hold'em Limit ($3/$6 USD) - 2015/12/21 3:48:00 ET
+Table 'Adhara' 2-max Seat #1 is the button
+Seat 1: Alex119387 ($176.50 in chips)
+Seat 2: MTails ($122.50 in chips)
+Alex119387: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+Alex119387: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [5h Qh Jh]
+MTails: checks
+Alex119387: bets $3
+MTails: calls $3
+*** TURN *** [5h Qh Jh] [Js]
+MTails: checks
+Alex119387: bets $6
+MTails: raises $6 to $12
+Alex119387: raises $6 to $18
+MTails: calls $6
+*** RIVER *** [5h Qh Jh Js] [2s]
+MTails: checks
+Alex119387: bets $6
+MTails: calls $6
+*** SHOW DOWN ***
+Alex119387: shows [Kh Jd] (three of a kind, Jacks)
+MTails: mucks hand
+Alex119387 collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [5h Qh Jh Js 2s]
+Seat 1: Alex119387 (button) (small blind) showed [Kh Jd] and won ($65.50) with three of a kind, Jacks
+Seat 2: MTails (big blind) mucked
+
+
+PokerStars Hand #145677254563:  Hold'em Limit ($3/$6 USD) - 2015/12/21 4:55:00 ET
+Table 'Adhara' 2-max Seat #1 is the button
+Seat 1: pokr27 ($39.99 in chips)
+Seat 2: mdif ($120 in chips)
+pokr27: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+pokr27: calls $2
+mdif: checks
+*** FLOP *** [8s 8d Th]
+mdif: bets $3
+pokr27: calls $3
+*** TURN *** [8s 8d Th] [6h]
+mdif: checks
+pokr27: checks
+*** RIVER *** [8s 8d Th 6h] [5h]
+mdif: bets $6
+pokr27: calls $6
+*** SHOW DOWN ***
+mdif: shows [8h 5d] (a full house, Eights full of Fives)
+pokr27: mucks hand
+mdif collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [8s 8d Th 6h 5h]
+Seat 1: pokr27 (button) (small blind) mucked
+Seat 2: mdif (big blind) showed [8h 5d] and won ($23.52) with a full house, Eights full of Fives
+
+
+PokerStars Hand #145677262237:  Hold'em Limit ($3/$6 USD) - 2015/12/21 4:55:22 ET
+Table 'Adhara' 2-max Seat #2 is the button
+Seat 1: pokr27 ($27.99 in chips)
+Seat 2: mdif ($131.52 in chips)
+mdif: posts small blind $1
+pokr27: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+pokr27: calls $3
+*** FLOP *** [Qs Ts Qd]
+pokr27: checks
+mdif: bets $3
+pokr27: folds
+Uncalled bet ($3) returned to mdif
+mdif collected $11.76 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qs Ts Qd]
+Seat 1: pokr27 (big blind) folded on the Flop
+Seat 2: mdif (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #145677244505:  Hold'em Limit ($3/$6 USD) - 2015/12/21 4:54:34 ET
+Table 'Adhara' 2-max Seat #2 is the button
+Seat 1: pokr27 ($31.35 in chips)
+Seat 2: mdif ($120 in chips)
+mdif: posts small blind $1
+pokr27: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+pokr27: calls $3
+*** FLOP *** [Kh 8c 2s]
+pokr27: checks
+mdif: bets $3
+pokr27: calls $3
+*** TURN *** [Kh 8c 2s] [Jh]
+pokr27: checks
+mdif: checks
+*** RIVER *** [Kh 8c 2s Jh] [6h]
+pokr27: checks
+mdif: checks
+*** SHOW DOWN ***
+pokr27: shows [Qc 2d] (a pair of Deuces)
+mdif: mucks hand
+pokr27 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kh 8c 2s Jh 6h]
+Seat 1: pokr27 (big blind) showed [Qc 2d] and won ($17.64) with a pair of Deuces
+Seat 2: mdif (button) (small blind) mucked
+
+
+PokerStars Hand #145677271551:  Hold'em Limit ($3/$6 USD) - 2015/12/21 4:55:50 ET
+Table 'Adhara' 2-max Seat #2 is the button
+Seat 1: pokr27 ($9.99 in chips)
+Seat 2: mdif ($148.80 in chips)
+mdif: posts small blind $1
+pokr27: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+pokr27: raises $3 to $9
+mdif: raises $3 to $12
+Betting is capped
+pokr27: calls $0.99 and is all-in
+Uncalled bet ($2.01) returned to mdif
+*** FLOP *** [4s 7d 8c]
+*** TURN *** [4s 7d 8c] [Js]
+*** RIVER *** [4s 7d 8c Js] [Th]
+*** SHOW DOWN ***
+pokr27: shows [Qd Ah] (high card Ace)
+mdif: shows [Kd 4h] (a pair of Fours)
+mdif collected $19.58 from pot
+*** SUMMARY ***
+Total pot $19.98 | Rake $0.40
+Board [4s 7d 8c Js Th]
+Seat 1: pokr27 (big blind) showed [Qd Ah] and lost with high card Ace
+Seat 2: mdif (button) (small blind) showed [Kd 4h] and won ($19.58) with a pair of Fours
+
+
+PokerStars Hand #145677265770:  Hold'em Limit ($3/$6 USD) - 2015/12/21 4:55:33 ET
+Table 'Adhara' 2-max Seat #1 is the button
+Seat 1: pokr27 ($21.99 in chips)
+Seat 2: mdif ($137.28 in chips)
+pokr27: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+pokr27: calls $2
+mdif: checks
+*** FLOP *** [4h 5h 3h]
+mdif: bets $3
+pokr27: calls $3
+*** TURN *** [4h 5h 3h] [Qs]
+mdif: bets $6
+pokr27: calls $6
+*** RIVER *** [4h 5h 3h Qs] [8c]
+mdif: bets $6
+pokr27: folds
+Uncalled bet ($6) returned to mdif
+mdif collected $23.52 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [4h 5h 3h Qs 8c]
+Seat 1: pokr27 (button) (small blind) folded on the River
+Seat 2: mdif (big blind) collected ($23.52)
+
+

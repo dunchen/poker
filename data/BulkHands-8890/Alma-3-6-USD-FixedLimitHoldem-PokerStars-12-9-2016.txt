@@ -1,0 +1,32 @@
+PokerStars Hand #162648378482:  Hold'em Limit ($3/$6 USD) - 2016/12/09 1:15:18 ET
+Table 'Alma' 6-max Seat #3 is the button
+Seat 3: Agrotait ($63 in chips)
+Seat 5: ToDaFelt ($178.18 in chips)
+Agrotait: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+ToDaFelt: raises $3 to $9
+Agrotait: calls $3
+*** FLOP *** [9d 4d Tc]
+ToDaFelt: bets $3
+Agrotait: calls $3
+*** TURN *** [9d 4d Tc] [8h]
+ToDaFelt: bets $6
+Agrotait: raises $6 to $12
+ToDaFelt: calls $6
+*** RIVER *** [9d 4d Tc 8h] [7h]
+ToDaFelt: checks
+Agrotait: bets $6
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+Agrotait: shows [8c 8d] (three of a kind, Eights)
+ToDaFelt: mucks hand
+Agrotait collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [9d 4d Tc 8h 7h]
+Seat 3: Agrotait (button) (small blind) showed [8c 8d] and won ($59.50) with three of a kind, Eights
+Seat 5: ToDaFelt (big blind) mucked
+
+

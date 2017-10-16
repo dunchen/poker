@@ -1,0 +1,33 @@
+PokerStars Hand #162896220161:  Hold'em Limit ($3/$6 USD) - 2016/12/13 15:43:10 ET
+Table 'Alathfar' 6-max Seat #2 is the button
+Seat 2: feilinho ($200.27 in chips)
+Seat 4: DECAlpha ($59.51 in chips)
+feilinho: posts small blind $1
+DECAlpha: posts big blind $3
+*** HOLE CARDS ***
+feilinho: raises $3 to $6
+DECAlpha: calls $3
+*** FLOP *** [7d 3s 3d]
+DECAlpha: checks
+feilinho: bets $3
+DECAlpha: raises $3 to $6
+feilinho: calls $3
+*** TURN *** [7d 3s 3d] [2s]
+DECAlpha: bets $6
+feilinho: raises $6 to $12
+DECAlpha: raises $6 to $18
+feilinho: calls $6
+*** RIVER *** [7d 3s 3d 2s] [9h]
+DECAlpha: bets $6
+feilinho: calls $6
+*** SHOW DOWN ***
+DECAlpha: shows [7c 4c] (two pair, Sevens and Threes)
+feilinho: shows [Js 9s] (two pair, Nines and Threes)
+feilinho collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [7d 3s 3d 2s 9h]
+Seat 2: feilinho (button) (small blind) showed [Js 9s] and won ($71.50) with two pair, Nines and Threes
+Seat 4: DECAlpha (big blind) showed [7c 4c] and lost with two pair, Sevens and Threes
+
+

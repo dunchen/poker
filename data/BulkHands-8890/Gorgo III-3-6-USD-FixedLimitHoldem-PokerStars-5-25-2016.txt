@@ -1,0 +1,32 @@
+PokerStars Hand #153822757405:  Hold'em Limit ($3/$6 USD) - 2016/05/25 11:28:16 ET
+Table 'Gorgo III' 6-max Seat #2 is the button
+Seat 1: BIZE Terence ($190 in chips)
+Seat 2: Bonkman05 ($122.58 in chips)
+Bonkman05: posts small blind $1
+Perumov: is sitting out
+BIZE Terence: posts big blind $3
+*** HOLE CARDS ***
+Bonkman05: raises $3 to $6
+BIZE Terence: calls $3
+*** FLOP *** [2c Ks Jd]
+BIZE Terence: checks
+Perumov leaves the table
+Bonkman05: checks
+*** TURN *** [2c Ks Jd] [9c]
+BIZE Terence: checks
+Bonkman05: bets $6
+BIZE Terence: calls $6
+*** RIVER *** [2c Ks Jd 9c] [2d]
+BIZE Terence: checks
+Bonkman05: checks
+*** SHOW DOWN ***
+BIZE Terence: shows [Qc 3h] (a pair of Deuces)
+Bonkman05: shows [Ah 6s] (a pair of Deuces - Ace kicker)
+Bonkman05 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [2c Ks Jd 9c 2d]
+Seat 1: BIZE Terence (big blind) showed [Qc 3h] and lost with a pair of Deuces
+Seat 2: Bonkman05 (button) (small blind) showed [Ah 6s] and won ($23.52) with a pair of Deuces
+
+

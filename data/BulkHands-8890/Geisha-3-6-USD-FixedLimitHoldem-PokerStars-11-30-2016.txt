@@ -1,0 +1,33 @@
+PokerStars Hand #162173877167:  Hold'em Limit ($3/$6 USD) - 2016/11/29 23:36:12 ET
+Table 'Geisha' 6-max Seat #1 is the button
+Seat 1: LifeisagameX ($84 in chips)
+Seat 4: nashmed99 ($114.94 in chips)
+LifeisagameX: posts small blind $1
+nashmed99: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+nashmed99: raises $3 to $9
+LifeisagameX: calls $3
+*** FLOP *** [2d Qh 4d]
+nashmed99: bets $3
+LifeisagameX: calls $3
+*** TURN *** [2d Qh 4d] [7d]
+nashmed99: bets $6
+LifeisagameX: raises $6 to $12
+nashmed99: calls $6
+*** RIVER *** [2d Qh 4d 7d] [7c]
+nashmed99: bets $6
+B_loJkl joins the table at seat #5
+LifeisagameX: raises $6 to $12
+nashmed99: calls $6
+*** SHOW DOWN ***
+LifeisagameX: shows [Td 9d] (a flush, Ten high)
+nashmed99: mucks hand
+LifeisagameX collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [2d Qh 4d 7d 7c]
+Seat 1: LifeisagameX (button) (small blind) showed [Td 9d] and won ($71.50) with a flush, Ten high
+Seat 4: nashmed99 (big blind) mucked
+
+

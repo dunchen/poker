@@ -1,0 +1,87 @@
+PokerStars Hand #171691738191:  Hold'em Limit ($3/$6 USD) - 2017/06/12 15:37:08 ET
+Table 'Nasl III' 6-max Seat #4 is the button
+Seat 4: Azrarn ($127.38 in chips)
+Seat 5: vestimokrec ($139.65 in chips)
+Azrarn: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+Azrarn: raises $3 to $6
+igorkabmw leaves the table
+vestimokrec: calls $3
+*** FLOP *** [9s 7s 4d]
+vestimokrec: checks
+igorkabmw joins the table at seat #1
+Azrarn: bets $3
+vestimokrec: calls $3
+*** TURN *** [9s 7s 4d] [Ad]
+vestimokrec: checks
+Azrarn: bets $6
+vestimokrec: calls $6
+*** RIVER *** [9s 7s 4d Ad] [2d]
+vestimokrec: checks
+Azrarn: bets $6
+vestimokrec: calls $6
+*** SHOW DOWN ***
+Azrarn: shows [9h Qd] (a pair of Nines)
+vestimokrec: mucks hand
+Azrarn collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9s 7s 4d Ad 2d]
+Seat 4: Azrarn (button) (small blind) showed [9h Qd] and won ($41.50) with a pair of Nines
+Seat 5: vestimokrec (big blind) mucked
+
+
+PokerStars Hand #171692485116:  Hold'em Limit ($3/$6 USD) - 2017/06/12 15:51:42 ET
+Table 'Nasl III' 6-max Seat #2 is the button
+Seat 1: Reyes ($64 in chips)
+Seat 2: jackRizzar ($183 in chips)
+jackRizzar: posts small blind $1
+vestimokrec: is sitting out
+Reyes: posts big blind $3
+*** HOLE CARDS ***
+jackRizzar: raises $3 to $6
+Reyes: raises $3 to $9
+jackRizzar: calls $3
+*** FLOP *** [Ah Jd 4c]
+Reyes: bets $3
+jackRizzar: folds
+Uncalled bet ($3) returned to Reyes
+Reyes collected $17.64 from pot
+Reyes: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ah Jd 4c]
+Seat 1: Reyes (big blind) collected ($17.64)
+Seat 2: jackRizzar (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #171692497295:  Hold'em Limit ($3/$6 USD) - 2017/06/12 15:51:56 ET
+Table 'Nasl III' 6-max Seat #1 is the button
+Seat 1: Reyes ($72.64 in chips)
+Seat 2: jackRizzar ($174 in chips)
+Reyes: posts small blind $1
+jackRizzar: posts big blind $3
+*** HOLE CARDS ***
+Reyes: calls $2
+jackRizzar: checks
+*** FLOP *** [5h 3d Th]
+jackRizzar: bets $3
+Reyes: calls $3
+*** TURN *** [5h 3d Th] [Kd]
+jackRizzar: bets $6
+Reyes: calls $6
+*** RIVER *** [5h 3d Th Kd] [Ah]
+jackRizzar: bets $6
+Reyes: calls $6
+*** SHOW DOWN ***
+jackRizzar: shows [2c 6h] (high card Ace)
+Reyes: shows [5s Js] (a pair of Fives)
+Reyes collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5h 3d Th Kd Ah]
+Seat 1: Reyes (button) (small blind) showed [5s Js] and won ($35.50) with a pair of Fives
+Seat 2: jackRizzar (big blind) showed [2c 6h] and lost with high card Ace
+
+

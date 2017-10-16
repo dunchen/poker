@@ -1,0 +1,102 @@
+PokerStars Hand #146677071329:  Hold'em Limit ($3/$6 USD) - 2016/01/08 9:00:58 ET
+Table 'Zenobia III' 2-max Seat #2 is the button
+Seat 1: PbIbak ($142.44 in chips)
+Seat 2: knysi ($7.90 in chips)
+knysi: posts small blind $1
+PbIbak: posts big blind $3
+*** HOLE CARDS ***
+knysi: raises $3 to $6
+PbIbak: raises $3 to $9
+knysi: calls $1.90 and is all-in
+Uncalled bet ($1.10) returned to PbIbak
+*** FLOP *** [4c 9d 3d]
+*** TURN *** [4c 9d 3d] [2c]
+*** RIVER *** [4c 9d 3d 2c] [2s]
+*** SHOW DOWN ***
+PbIbak: shows [5s 6s] (a straight, Deuce to Six)
+knysi: shows [5h Kd] (a pair of Deuces)
+PbIbak collected $15.48 from pot
+*** SUMMARY ***
+Total pot $15.80 | Rake $0.32
+Board [4c 9d 3d 2c 2s]
+Seat 1: PbIbak (big blind) showed [5s 6s] and won ($15.48) with a straight, Deuce to Six
+Seat 2: knysi (button) (small blind) showed [5h Kd] and lost with a pair of Deuces
+
+
+PokerStars Hand #146677063997:  Hold'em Limit ($3/$6 USD) - 2016/01/08 9:00:47 ET
+Table 'Zenobia III' 2-max Seat #1 is the button
+Seat 1: PbIbak ($146.47 in chips)
+Seat 2: knysi ($4.03 in chips)
+PbIbak: posts small blind $1
+knysi: posts big blind $3
+*** HOLE CARDS ***
+PbIbak: raises $3 to $6
+knysi: calls $1.03 and is all-in
+Uncalled bet ($1.97) returned to PbIbak
+*** FLOP *** [Qd Ts 8c]
+*** TURN *** [Qd Ts 8c] [Qh]
+*** RIVER *** [Qd Ts 8c Qh] [Kc]
+*** SHOW DOWN ***
+knysi: shows [Jh 9d] (a straight, Nine to King)
+PbIbak: shows [3d 8d] (two pair, Queens and Eights)
+knysi collected $7.90 from pot
+*** SUMMARY ***
+Total pot $8.06 | Rake $0.16
+Board [Qd Ts 8c Qh Kc]
+Seat 1: PbIbak (button) (small blind) showed [3d 8d] and lost with two pair, Queens and Eights
+Seat 2: knysi (big blind) showed [Jh 9d] and won ($7.90) with a straight, Nine to King
+
+
+PokerStars Hand #146677057987:  Hold'em Limit ($3/$6 USD) - 2016/01/08 9:00:38 ET
+Table 'Zenobia III' 2-max Seat #2 is the button
+Seat 1: PbIbak ($140.71 in chips)
+Seat 2: knysi ($10.03 in chips)
+knysi: posts small blind $1
+PbIbak: posts big blind $3
+*** HOLE CARDS ***
+knysi: raises $3 to $6
+PbIbak: calls $3
+*** FLOP *** [8s Js Jc]
+PbIbak: checks
+knysi: checks
+*** TURN *** [8s Js Jc] [4h]
+PbIbak: bets $6
+knysi: folds
+Uncalled bet ($6) returned to PbIbak
+PbIbak collected $11.76 from pot
+PbIbak: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8s Js Jc 4h]
+Seat 1: PbIbak (big blind) collected ($11.76)
+Seat 2: knysi (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #146677049759:  Hold'em Limit ($3/$6 USD) - 2016/01/08 9:00:25 ET
+Table 'Zenobia III' 2-max Seat #1 is the button
+Seat 1: PbIbak ($140.92 in chips)
+Seat 2: knysi ($10.23 in chips)
+PbIbak: posts small blind $1
+knysi: posts big blind $3
+*** HOLE CARDS ***
+PbIbak: raises $3 to $6
+knysi: raises $3 to $9
+PbIbak: raises $3 to $12
+Betting is capped
+knysi: calls $1.23 and is all-in
+Uncalled bet ($1.77) returned to PbIbak
+*** FLOP *** [8s 5d Ts]
+*** TURN *** [8s 5d Ts] [5h]
+*** RIVER *** [8s 5d Ts 5h] [Ks]
+*** SHOW DOWN ***
+knysi: shows [Kd 7h] (two pair, Kings and Fives)
+PbIbak: shows [Kh 4d] (two pair, Kings and Fives)
+knysi collected $10.03 from pot
+PbIbak collected $10.02 from pot
+*** SUMMARY ***
+Total pot $20.46 | Rake $0.41
+Board [8s 5d Ts 5h Ks]
+Seat 1: PbIbak (button) (small blind) showed [Kh 4d] and won ($10.02) with two pair, Kings and Fives
+Seat 2: knysi (big blind) showed [Kd 7h] and won ($10.03) with two pair, Kings and Fives
+
+

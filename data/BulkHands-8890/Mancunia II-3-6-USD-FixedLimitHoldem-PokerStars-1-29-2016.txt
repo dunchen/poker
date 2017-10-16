@@ -1,0 +1,62 @@
+PokerStars Hand #147902145024:  Hold'em Limit ($3/$6 USD) - 2016/01/29 17:58:51 ET
+Table 'Mancunia II' 2-max Seat #1 is the button
+Seat 1: TheU10 ($80.50 in chips)
+Seat 2: Cyonada ($87.52 in chips)
+TheU10: posts small blind $1
+Cyonada: posts big blind $3
+*** HOLE CARDS ***
+TheU10: raises $3 to $6
+Cyonada: calls $3
+*** FLOP *** [6h Ah 7c]
+Cyonada: checks
+TheU10: bets $3
+Cyonada: calls $3
+*** TURN *** [6h Ah 7c] [5s]
+Cyonada: checks
+TheU10: checks
+*** RIVER *** [6h Ah 7c 5s] [Qd]
+Cyonada: checks
+TheU10: bets $6
+Cyonada: folds
+Uncalled bet ($6) returned to TheU10
+Cyonada leaves the table
+TheU10 collected $17.64 from pot
+TheU10: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6h Ah 7c 5s Qd]
+Seat 1: TheU10 (button) (small blind) collected ($17.64)
+Seat 2: Cyonada (big blind) folded on the River
+
+
+PokerStars Hand #147902130685:  Hold'em Limit ($3/$6 USD) - 2016/01/29 17:58:34 ET
+Table 'Mancunia II' 2-max Seat #2 is the button
+Seat 1: TheU10 ($95.50 in chips)
+Seat 2: Cyonada ($73.02 in chips)
+Cyonada: posts small blind $1
+TheU10: posts big blind $3
+*** HOLE CARDS ***
+Cyonada: raises $3 to $6
+TheU10: calls $3
+*** FLOP *** [As Kh Js]
+TheU10: checks
+Cyonada: bets $3
+TheU10: calls $3
+*** TURN *** [As Kh Js] [5s]
+TheU10: checks
+Cyonada: checks
+*** RIVER *** [As Kh Js 5s] [6s]
+TheU10: checks
+Cyonada: bets $6
+TheU10: calls $6
+*** SHOW DOWN ***
+Cyonada: shows [7s 8h] (a flush, Ace high)
+TheU10: mucks hand
+Cyonada collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [As Kh Js 5s 6s]
+Seat 1: TheU10 (big blind) mucked
+Seat 2: Cyonada (button) (small blind) showed [7s 8h] and won ($29.50) with a flush, Ace high
+
+

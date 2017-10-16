@@ -1,0 +1,34 @@
+PokerStars Hand #158270870453:  Hold'em Limit ($3/$6 USD) - 2016/09/07 2:22:27 ET
+Table 'Magdalena' 10-max Seat #9 is the button
+Seat 7: kuyahoo ($304.07 in chips)
+Seat 9: aleks_4ym ($155.04 in chips)
+aleks_4ym: posts small blind $1
+CharginWapos: is sitting out
+kuyahoo: posts big blind $3
+*** HOLE CARDS ***
+aleks_4ym: raises $3 to $6
+kuyahoo: calls $3
+*** FLOP *** [2s Qs 6h]
+kuyahoo: checks
+aleks_4ym: bets $3
+kuyahoo: calls $3
+*** TURN *** [2s Qs 6h] [Kd]
+kuyahoo: checks
+CharginWapos leaves the table
+aleks_4ym: bets $6
+kuyahoo: calls $6
+*** RIVER *** [2s Qs 6h Kd] [3d]
+kuyahoo: checks
+aleks_4ym: bets $6
+kuyahoo: calls $6
+*** SHOW DOWN ***
+aleks_4ym: shows [4c Qh] (a pair of Queens)
+kuyahoo: mucks hand
+aleks_4ym collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2s Qs 6h Kd 3d]
+Seat 7: kuyahoo (big blind) mucked
+Seat 9: aleks_4ym (button) (small blind) showed [4c Qh] and won ($41.50) with a pair of Queens
+
+

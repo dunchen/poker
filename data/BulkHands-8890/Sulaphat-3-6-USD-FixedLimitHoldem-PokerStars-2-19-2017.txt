@@ -1,0 +1,33 @@
+PokerStars Hand #166471076306:  Hold'em Limit ($3/$6 USD) - 2017/02/19 16:31:35 ET
+Table 'Sulaphat' 6-max Seat #5 is the button
+Seat 1: hubschi ($33.04 in chips)
+Seat 5: dragon1893 ($155.76 in chips)
+dragon1893: posts small blind $1
+hubschi: posts big blind $3
+*** HOLE CARDS ***
+dragon1893: raises $3 to $6
+hubschi: raises $3 to $9
+dragon1893: calls $3
+*** FLOP *** [Qh Jd 5s]
+hubschi: bets $3
+dragon1893: calls $3
+*** TURN *** [Qh Jd 5s] [2h]
+hubschi: bets $6
+dragon1893: raises $6 to $12
+hubschi: raises $6 to $18
+dragon1893: raises $6 to $24
+Betting is capped
+hubschi: calls $3.04 and is all-in
+Uncalled bet ($2.96) returned to dragon1893
+*** RIVER *** [Qh Jd 5s 2h] [Td]
+*** SHOW DOWN ***
+hubschi: shows [Qs Kh] (a pair of Queens)
+dragon1893: shows [2c 2s] (three of a kind, Deuces)
+dragon1893 collected $65.58 from pot
+*** SUMMARY ***
+Total pot $66.08 | Rake $0.50
+Board [Qh Jd 5s 2h Td]
+Seat 1: hubschi (big blind) showed [Qs Kh] and lost with a pair of Queens
+Seat 5: dragon1893 (button) (small blind) showed [2c 2s] and won ($65.58) with three of a kind, Deuces
+
+

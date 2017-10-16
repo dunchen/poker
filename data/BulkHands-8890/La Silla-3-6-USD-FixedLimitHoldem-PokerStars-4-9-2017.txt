@@ -1,0 +1,32 @@
+PokerStars Hand #168810111596:  Hold'em Limit ($3/$6 USD) - 2017/04/09 15:28:55 ET
+Table 'La Silla' 6-max Seat #1 is the button
+Seat 1: Norbert-04 ($173.99 in chips)
+Seat 4: Lauriston72 ($158.17 in chips)
+Norbert-04: posts small blind $1
+vestimokrec: is sitting out
+Lauriston72: posts big blind $3
+*** HOLE CARDS ***
+Norbert-04: raises $3 to $6
+Lauriston72: calls $3
+*** FLOP *** [8h 9s 4s]
+Lauriston72: checks
+Norbert-04: bets $3
+Lauriston72: calls $3
+*** TURN *** [8h 9s 4s] [5c]
+Lauriston72: checks
+Norbert-04: bets $6
+Lauriston72: calls $6
+*** RIVER *** [8h 9s 4s 5c] [Qc]
+Lauriston72: checks
+Norbert-04: checks
+*** SHOW DOWN ***
+Lauriston72: shows [Ah Jh] (high card Ace)
+Norbert-04: shows [8c 7c] (a pair of Eights)
+Norbert-04 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8h 9s 4s 5c Qc]
+Seat 1: Norbert-04 (button) (small blind) showed [8c 7c] and won ($29.50) with a pair of Eights
+Seat 4: Lauriston72 (big blind) showed [Ah Jh] and lost with high card Ace
+
+

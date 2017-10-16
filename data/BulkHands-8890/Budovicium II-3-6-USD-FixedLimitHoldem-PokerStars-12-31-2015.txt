@@ -1,0 +1,111 @@
+PokerStars Hand #146236926810:  Hold'em Limit ($3/$6 USD) - 2015/12/31 12:51:01 ET
+Table 'Budovicium II' 2-max Seat #2 is the button
+Seat 1: moplab ($71.96 in chips)
+Seat 2: kitjanx ($59.01 in chips)
+kitjanx: posts small blind $1
+moplab: posts big blind $3
+*** HOLE CARDS ***
+kitjanx: raises $3 to $6
+moplab: raises $3 to $9
+kitjanx: raises $3 to $12
+Betting is capped
+moplab: calls $3
+*** FLOP *** [2s 7h Th]
+moplab: bets $3
+kitjanx: raises $3 to $6
+moplab: raises $3 to $9
+kitjanx: raises $3 to $12
+Betting is capped
+moplab: calls $3
+*** TURN *** [2s 7h Th] [2d]
+moplab: bets $6
+kitjanx: folds
+Uncalled bet ($6) returned to moplab
+moplab collected $47.50 from pot
+moplab: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2s 7h Th 2d]
+Seat 1: moplab (big blind) collected ($47.50)
+Seat 2: kitjanx (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #146236939097:  Hold'em Limit ($3/$6 USD) - 2015/12/31 12:51:15 ET
+Table 'Budovicium II' 2-max Seat #1 is the button
+Seat 1: moplab ($95.46 in chips)
+Seat 2: kitjanx ($35.01 in chips)
+moplab: posts small blind $1
+kitjanx: posts big blind $3
+*** HOLE CARDS ***
+moplab: raises $3 to $6
+kitjanx: raises $3 to $9
+moplab: raises $3 to $12
+Betting is capped
+kitjanx: calls $3
+*** FLOP *** [Kh 7h 2h]
+kitjanx: bets $3
+moplab: raises $3 to $6
+kitjanx: raises $3 to $9
+moplab: raises $3 to $12
+Betting is capped
+kitjanx: calls $3
+*** TURN *** [Kh 7h 2h] [6c]
+kitjanx: bets $6
+moplab: raises $6 to $12
+kitjanx: folds
+Uncalled bet ($6) returned to moplab
+moplab collected $59.50 from pot
+moplab: doesn't show hand
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Kh 7h 2h 6c]
+Seat 1: moplab (button) (small blind) collected ($59.50)
+Seat 2: kitjanx (big blind) folded on the Turn
+
+
+PokerStars Hand #146236947877:  Hold'em Limit ($3/$6 USD) - 2015/12/31 12:51:25 ET
+Table 'Budovicium II' 2-max Seat #2 is the button
+Seat 1: moplab ($124.96 in chips)
+Seat 2: kitjanx ($5.01 in chips)
+kitjanx: posts small blind $1
+moplab: posts big blind $3
+*** HOLE CARDS ***
+kitjanx: folds
+Uncalled bet ($2) returned to moplab
+moplab collected $2 from pot
+moplab: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: moplab (big blind) collected ($2)
+Seat 2: kitjanx (button) (small blind) folded before Flop
+
+
+PokerStars Hand #146236954693:  Hold'em Limit ($3/$6 USD) - 2015/12/31 12:51:33 ET
+Table 'Budovicium II' 2-max Seat #1 is the button
+Seat 1: moplab ($125.96 in chips)
+Seat 2: kitjanx ($4.01 in chips)
+moplab: posts small blind $1
+kitjanx: posts big blind $3
+*** HOLE CARDS ***
+moplab: calls $2
+kitjanx: checks
+*** FLOP *** [5d Td 9h]
+kitjanx: checks
+moplab: checks
+*** TURN *** [5d Td 9h] [Th]
+kitjanx: checks
+moplab: bets $6
+kitjanx: calls $1.01 and is all-in
+Uncalled bet ($4.99) returned to moplab
+*** RIVER *** [5d Td 9h Th] [5s]
+*** SHOW DOWN ***
+kitjanx: shows [5c 4c] (a full house, Fives full of Tens)
+moplab: shows [4s 2d] (two pair, Tens and Fives)
+kitjanx collected $7.86 from pot
+*** SUMMARY ***
+Total pot $8.02 | Rake $0.16
+Board [5d Td 9h Th 5s]
+Seat 1: moplab (button) (small blind) showed [4s 2d] and lost with two pair, Tens and Fives
+Seat 2: kitjanx (big blind) showed [5c 4c] and won ($7.86) with a full house, Fives full of Tens
+
+

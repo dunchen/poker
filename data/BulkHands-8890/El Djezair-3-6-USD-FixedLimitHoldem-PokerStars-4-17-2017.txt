@@ -1,0 +1,102 @@
+PokerStars Hand #169146538341:  Hold'em Limit ($3/$6 USD) - 2017/04/16 19:59:14 ET
+Table 'El Djezair' 10-max Seat #3 is the button
+Seat 1: Chessnok ($230 in chips)
+Seat 3: 123ok ($180.77 in chips)
+123ok: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+123ok: calls $2
+Chessnok: raises $3 to $6
+123ok: calls $3
+*** FLOP *** [6s Kc Jh]
+Chessnok: checks
+123ok: checks
+*** TURN *** [6s Kc Jh] [Ts]
+Chessnok: checks
+123ok: checks
+*** RIVER *** [6s Kc Jh Ts] [2d]
+Chessnok: bets $6
+123ok: calls $6
+*** SHOW DOWN ***
+Chessnok: shows [3c 6c] (a pair of Sixes)
+123ok: shows [9d Th] (a pair of Tens)
+123ok collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [6s Kc Jh Ts 2d]
+Seat 1: Chessnok (big blind) showed [3c 6c] and lost with a pair of Sixes
+Seat 3: 123ok (button) (small blind) showed [9d Th] and won ($23.52) with a pair of Tens
+
+
+PokerStars Hand #169146522077:  Hold'em Limit ($3/$6 USD) - 2017/04/16 19:58:39 ET
+Table 'El Djezair' 10-max Seat #1 is the button
+Seat 1: Chessnok ($251 in chips)
+Seat 3: 123ok ($160.27 in chips)
+Chessnok: posts small blind $1
+123ok: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+123ok: calls $3
+*** FLOP *** [8d 9c 8h]
+123ok: checks
+Chessnok: bets $3
+123ok: calls $3
+*** TURN *** [8d 9c 8h] [4s]
+123ok: checks
+Chessnok: bets $6
+123ok: raises $6 to $12
+Chessnok: calls $6
+*** RIVER *** [8d 9c 8h 4s] [8s]
+123ok: bets $6
+Chessnok: folds
+Uncalled bet ($6) returned to 123ok
+123ok collected $41.50 from pot
+123ok: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [8d 9c 8h 4s 8s]
+Seat 1: Chessnok (button) (small blind) folded on the River
+Seat 3: 123ok (big blind) collected ($41.50)
+
+
+PokerStars Hand #169146557947:  Hold'em Limit ($3/$6 USD) - 2017/04/16 19:59:56 ET
+Table 'El Djezair' 10-max Seat #3 is the button
+Seat 1: Chessnok ($223.76 in chips)
+Seat 3: 123ok ($186.29 in chips)
+123ok: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+123ok: folds
+Uncalled bet ($2) returned to Chessnok
+123ok leaves the table
+Chessnok collected $2 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Chessnok (big blind) collected ($2)
+Seat 3: 123ok (button) (small blind) folded before Flop
+
+
+PokerStars Hand #169146550916:  Hold'em Limit ($3/$6 USD) - 2017/04/16 19:59:41 ET
+Table 'El Djezair' 10-max Seat #1 is the button
+Seat 1: Chessnok ($218 in chips)
+Seat 3: 123ok ($192.29 in chips)
+Chessnok: posts small blind $1
+123ok: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+123ok: calls $3
+*** FLOP *** [3h 3d Ad]
+123ok: checks
+Chessnok: bets $3
+123ok: folds
+Uncalled bet ($3) returned to Chessnok
+Chessnok collected $11.76 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3h 3d Ad]
+Seat 1: Chessnok (button) (small blind) collected ($11.76)
+Seat 3: 123ok (big blind) folded on the Flop
+
+

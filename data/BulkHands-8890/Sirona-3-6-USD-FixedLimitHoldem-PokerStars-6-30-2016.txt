@@ -1,0 +1,63 @@
+PokerStars Hand #155383636138:  Hold'em Limit ($3/$6 USD) - 2016/06/30 9:53:33 ET
+Table 'Sirona' 10-max Seat #10 is the button
+Seat 7: VolkovDmitri ($146.50 in chips)
+Seat 10: ggwp-777 ($82.82 in chips)
+ggwp-777: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+ggwp-777: raises $3 to $6
+B_loJkl joins the table at seat #1
+VolkovDmitri: calls $3
+*** FLOP *** [Jc 2d 5h]
+VolkovDmitri: checks
+ggwp-777: bets $3
+VolkovDmitri: raises $3 to $6
+ggwp-777: raises $3 to $9
+VolkovDmitri: calls $3
+*** TURN *** [Jc 2d 5h] [4h]
+VolkovDmitri: checks
+ggwp-777: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [Jc 2d 5h 4h] [5d]
+VolkovDmitri: checks
+ggwp-777: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to ggwp-777
+ggwp-777 collected $41.50 from pot
+ggwp-777: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Jc 2d 5h 4h 5d]
+Seat 7: VolkovDmitri (big blind) folded on the River
+Seat 10: ggwp-777 (button) (small blind) collected ($41.50)
+
+
+PokerStars Hand #155383647991:  Hold'em Limit ($3/$6 USD) - 2016/06/30 9:53:56 ET
+Table 'Sirona' 10-max Seat #7 is the button
+Seat 7: VolkovDmitri ($125.50 in chips)
+Seat 10: ggwp-777 ($103.32 in chips)
+VolkovDmitri: posts small blind $1
+ggwp-777: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+ggwp-777: calls $3
+*** FLOP *** [Ac 5c 9c]
+ggwp-777: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [Ac 5c 9c] [3s]
+ggwp-777: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [Ac 5c 9c 3s] [2d]
+ggwp-777: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+ggwp-777: shows [2c Kh] (a pair of Deuces)
+VolkovDmitri: mucks hand
+ggwp-777 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ac 5c 9c 3s 2d]
+Seat 7: VolkovDmitri (button) (small blind) mucked
+Seat 10: ggwp-777 (big blind) showed [2c Kh] and won ($41.50) with a pair of Deuces
+
+

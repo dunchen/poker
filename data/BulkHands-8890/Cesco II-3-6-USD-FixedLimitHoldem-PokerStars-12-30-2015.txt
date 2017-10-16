@@ -1,0 +1,33 @@
+PokerStars Hand #146150608223:  Hold'em Limit ($3/$6 USD) - 2015/12/29 22:13:36 ET
+Table 'Cesco II' 6-max Seat #3 is the button
+Seat 2: HAL9QQQ ($120 in chips)
+Seat 3: scorpio04 ($136.41 in chips)
+scorpio04: posts small blind $1
+donjuanmt: is sitting out
+HAL9QQQ: posts big blind $3
+*** HOLE CARDS ***
+scorpio04: raises $3 to $6
+donjuanmt leaves the table
+HAL9QQQ: calls $3
+*** FLOP *** [3d 3h Jd]
+HAL9QQQ: checks
+scorpio04: bets $3
+HAL9QQQ: calls $3
+*** TURN *** [3d 3h Jd] [Qs]
+HAL9QQQ: checks
+scorpio04: checks
+*** RIVER *** [3d 3h Jd Qs] [Qh]
+HAL9QQQ: checks
+scorpio04: checks
+*** SHOW DOWN ***
+HAL9QQQ: shows [4d Kc] (two pair, Queens and Threes)
+scorpio04: shows [4h Kd] (two pair, Queens and Threes)
+HAL9QQQ collected $8.82 from pot
+scorpio04 collected $8.82 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3d 3h Jd Qs Qh]
+Seat 2: HAL9QQQ (big blind) showed [4d Kc] and won ($8.82) with two pair, Queens and Threes
+Seat 3: scorpio04 (button) (small blind) showed [4h Kd] and won ($8.82) with two pair, Queens and Threes
+
+

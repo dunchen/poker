@@ -1,0 +1,89 @@
+PokerStars Hand #149885370588:  Hold'em Limit ($3/$6 USD) - 2016/03/05 13:37:18 ET
+Table 'Gersuind II' 6-max Seat #2 is the button
+Seat 2: diogo123pim ($57.31 in chips)
+Seat 3: Mudager ($120 in chips)
+diogo123pim: posts small blind $1
+Mudager: posts big blind $3
+*** HOLE CARDS ***
+diogo123pim: calls $2
+Mudager: raises $3 to $6
+ValeryRon joins the table at seat #4
+diogo123pim: calls $3
+*** FLOP *** [Jh 9s 7d]
+Mudager: bets $3
+diogo123pim: folds
+Uncalled bet ($3) returned to Mudager
+Mudager collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jh 9s 7d]
+Seat 2: diogo123pim (button) (small blind) folded on the Flop
+Seat 3: Mudager (big blind) collected ($11.76)
+
+
+PokerStars Hand #149885439935:  Hold'em Limit ($3/$6 USD) - 2016/03/05 13:38:35 ET
+Table 'Gersuind II' 6-max Seat #2 is the button
+Seat 2: diogo123pim ($59.77 in chips)
+Seat 4: ValeryRon ($108 in chips)
+diogo123pim: posts small blind $1
+ValeryRon: posts big blind $3
+*** HOLE CARDS ***
+diogo123pim: raises $3 to $6
+TbIP-TbIP 88 joins the table at seat #3
+ValeryRon: calls $3
+*** FLOP *** [3d 2s Ts]
+ValeryRon: bets $3
+diogo123pim: raises $3 to $6
+ValeryRon: calls $3
+*** TURN *** [3d 2s Ts] [5d]
+ValeryRon: checks
+diogo123pim: checks
+*** RIVER *** [3d 2s Ts 5d] [Ks]
+ValeryRon: bets $6
+diogo123pim: calls $6
+*** SHOW DOWN ***
+ValeryRon: shows [6d Th] (a pair of Tens)
+diogo123pim: mucks hand
+ValeryRon collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [3d 2s Ts 5d Ks]
+Seat 2: diogo123pim (button) (small blind) mucked
+Seat 4: ValeryRon (big blind) showed [6d Th] and won ($35.50) with a pair of Tens
+
+
+PokerStars Hand #149885464072:  Hold'em Limit ($3/$6 USD) - 2016/03/05 13:39:02 ET
+Table 'Gersuind II' 6-max Seat #4 is the button
+Seat 2: diogo123pim ($41.77 in chips)
+Seat 4: ValeryRon ($125.50 in chips)
+ValeryRon: posts small blind $1
+diogo123pim: posts big blind $3
+*** HOLE CARDS ***
+ValeryRon: raises $3 to $6
+diogo123pim: raises $3 to $9
+ValeryRon: calls $3
+*** FLOP *** [5h Kc Ah]
+diogo123pim: checks
+ValeryRon: bets $3
+diogo123pim: calls $3
+*** TURN *** [5h Kc Ah] [3c]
+diogo123pim: checks
+ValeryRon: bets $6
+diogo123pim: raises $6 to $12
+ValeryRon: raises $6 to $18
+diogo123pim: calls $6
+*** RIVER *** [5h Kc Ah 3c] [7d]
+diogo123pim: checks
+ValeryRon: bets $6
+diogo123pim: calls $6
+*** SHOW DOWN ***
+ValeryRon: shows [5c Ad] (two pair, Aces and Fives)
+diogo123pim: mucks hand
+ValeryRon collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [5h Kc Ah 3c 7d]
+Seat 2: diogo123pim (big blind) mucked
+Seat 4: ValeryRon (button) (small blind) showed [5c Ad] and won ($71.50) with two pair, Aces and Fives
+
+

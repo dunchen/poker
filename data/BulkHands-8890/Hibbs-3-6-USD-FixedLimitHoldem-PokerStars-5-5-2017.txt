@@ -1,0 +1,122 @@
+PokerStars Hand #169978798917:  Hold'em Limit ($3/$6 USD) - 2017/05/05 6:40:32 ET
+Table 'Hibbs' 6-max Seat #3 is the button
+Seat 3: Anchig ($137.50 in chips)
+Seat 4: igorkabmw ($12 in chips)
+Anchig: posts small blind $1
+igorkabmw: posts big blind $3
+*** HOLE CARDS ***
+Anchig: raises $3 to $6
+igorkabmw: folds
+Uncalled bet ($3) returned to Anchig
+Anchig collected $6 from pot
+Anchig: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: Anchig (button) (small blind) collected ($6)
+Seat 4: igorkabmw (big blind) folded before Flop
+
+
+PokerStars Hand #169978791476:  Hold'em Limit ($3/$6 USD) - 2017/05/05 6:40:14 ET
+Table 'Hibbs' 6-max Seat #4 is the button
+Seat 3: Anchig ($123 in chips)
+Seat 4: igorkabmw ($27 in chips)
+igorkabmw: posts small blind $1
+Anchig: posts big blind $3
+*** HOLE CARDS ***
+igorkabmw: raises $3 to $6
+Anchig: calls $3
+*** FLOP *** [6c Jc Td]
+Anchig: checks
+igorkabmw: bets $3
+Anchig: calls $3
+*** TURN *** [6c Jc Td] [5d]
+Anchig: checks
+igorkabmw: bets $6
+Anchig: calls $6
+*** RIVER *** [6c Jc Td 5d] [4c]
+Anchig: checks
+igorkabmw: checks
+*** SHOW DOWN ***
+Anchig: shows [Ks 6s] (a pair of Sixes)
+igorkabmw: mucks hand
+Anchig collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6c Jc Td 5d 4c]
+Seat 3: Anchig (big blind) showed [Ks 6s] and won ($29.50) with a pair of Sixes
+Seat 4: igorkabmw (button) (small blind) mucked
+
+
+PokerStars Hand #169978788046:  Hold'em Limit ($3/$6 USD) - 2017/05/05 6:40:06 ET
+Table 'Hibbs' 6-max Seat #3 is the button
+Seat 3: Anchig ($120 in chips)
+Seat 4: igorkabmw ($30 in chips)
+Anchig: posts small blind $1
+igorkabmw: posts big blind $3
+*** HOLE CARDS ***
+Anchig: raises $3 to $6
+igorkabmw: folds
+Uncalled bet ($3) returned to Anchig
+Anchig collected $6 from pot
+Anchig: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: Anchig (button) (small blind) collected ($6)
+Seat 4: igorkabmw (big blind) folded before Flop
+
+
+PokerStars Hand #169978801278:  Hold'em Limit ($3/$6 USD) - 2017/05/05 6:40:37 ET
+Table 'Hibbs' 6-max Seat #4 is the button
+Seat 3: Anchig ($140.50 in chips)
+Seat 4: igorkabmw ($9 in chips)
+igorkabmw: posts small blind $1
+Anchig: posts big blind $3
+*** HOLE CARDS ***
+igorkabmw: raises $3 to $6
+Anchig: calls $3
+*** FLOP *** [4s 4c 7h]
+Anchig: checks
+igorkabmw: bets $3 and is all-in
+Anchig: calls $3
+*** TURN *** [4s 4c 7h] [3d]
+*** RIVER *** [4s 4c 7h 3d] [Ah]
+*** SHOW DOWN ***
+Anchig: shows [5d Ks] (a pair of Fours)
+igorkabmw: shows [Ac 2s] (two pair, Aces and Fours)
+igorkabmw collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4s 4c 7h 3d Ah]
+Seat 3: Anchig (big blind) showed [5d Ks] and lost with a pair of Fours
+Seat 4: igorkabmw (button) (small blind) showed [Ac 2s] and won ($17.64) with two pair, Aces and Fours
+
+
+PokerStars Hand #169978807592:  Hold'em Limit ($3/$6 USD) - 2017/05/05 6:40:52 ET
+Table 'Hibbs' 6-max Seat #3 is the button
+Seat 3: Anchig ($131.50 in chips)
+Seat 4: igorkabmw ($17.64 in chips)
+Anchig: posts small blind $1
+igorkabmw: posts big blind $3
+*** HOLE CARDS ***
+Anchig: raises $3 to $6
+igorkabmw: calls $3
+*** FLOP *** [Ks 4d 8h]
+igorkabmw: bets $3
+Anchig: calls $3
+*** TURN *** [Ks 4d 8h] [Ad]
+igorkabmw: bets $6
+Anchig: raises $6 to $12
+igorkabmw: calls $2.64 and is all-in
+Uncalled bet ($3.36) returned to Anchig
+*** RIVER *** [Ks 4d 8h Ad] [4h]
+*** SHOW DOWN ***
+igorkabmw: shows [2c 2s] (two pair, Fours and Deuces)
+Anchig: shows [Kh 5c] (two pair, Kings and Fours)
+Anchig collected $34.78 from pot
+*** SUMMARY ***
+Total pot $35.28 | Rake $0.50
+Board [Ks 4d 8h Ad 4h]
+Seat 3: Anchig (button) (small blind) showed [Kh 5c] and won ($34.78) with two pair, Kings and Fours
+Seat 4: igorkabmw (big blind) showed [2c 2s] and lost with two pair, Fours and Deuces
+
+

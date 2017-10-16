@@ -1,0 +1,89 @@
+PokerStars Hand #163548459819:  Hold'em Limit ($3/$6 USD) - 2016/12/26 10:24:31 ET
+Table 'Alrakis' 10-max Seat #5 is the button
+Seat 5: Sunneh143 ($120 in chips)
+Seat 9: GoliafUa ($120 in chips)
+Sunneh143: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+Sunneh143: calls $2
+GoliafUa: checks
+*** FLOP *** [9c Jh 8s]
+Drik89 joins the table at seat #6
+GoliafUa: checks
+Sunneh143: checks
+*** TURN *** [9c Jh 8s] [Js]
+RockKillerTY joins the table at seat #7
+GoliafUa: checks
+Sunneh143: bets $6
+GoliafUa: folds
+Uncalled bet ($6) returned to Sunneh143
+Sunneh143 collected $5.88 from pot
+Sunneh143: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [9c Jh 8s Js]
+Seat 5: Sunneh143 (button) (small blind) collected ($5.88)
+Seat 9: GoliafUa (big blind) folded on the Turn
+
+
+PokerStars Hand #163548477837:  Hold'em Limit ($3/$6 USD) - 2016/12/26 10:24:54 ET
+Table 'Alrakis' 10-max Seat #9 is the button
+Seat 5: Sunneh143 ($122.88 in chips)
+Seat 9: GoliafUa ($117 in chips)
+GoliafUa: posts small blind $1
+Sunneh143: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa: raises $3 to $6
+Sunneh143: calls $3
+*** FLOP *** [4s 3s 9s]
+Sunneh143: bets $3
+GoliafUa: calls $3
+*** TURN *** [4s 3s 9s] [7d]
+Sunneh143: checks
+GoliafUa: bets $6
+Sunneh143: calls $6
+*** RIVER *** [4s 3s 9s 7d] [2s]
+Sunneh143: checks
+GoliafUa: checks
+*** SHOW DOWN ***
+Sunneh143: shows [Jh Ac] (high card Ace)
+GoliafUa: shows [Qd 3d] (a pair of Threes)
+GoliafUa collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4s 3s 9s 7d 2s]
+Seat 5: Sunneh143 (big blind) showed [Jh Ac] and lost with high card Ace
+Seat 9: GoliafUa (button) (small blind) showed [Qd 3d] and won ($29.50) with a pair of Threes
+
+
+PokerStars Hand #163548812935:  Hold'em Limit ($3/$6 USD) - 2016/12/26 10:31:56 ET
+Table 'Alrakis' 10-max Seat #1 is the button
+Seat 1: Krazy90 ($120 in chips)
+Seat 10: Carl1891 ($117.02 in chips)
+Krazy90: posts small blind $1
+Drik89: is sitting out
+Carl1891: posts big blind $3
+*** HOLE CARDS ***
+Krazy90: raises $3 to $6
+ZOGI is disconnected
+Carl1891: raises $3 to $9
+Krazy90: calls $3
+*** FLOP *** [Qh As 5h]
+Carl1891: bets $3
+Krazy90: calls $3
+*** TURN *** [Qh As 5h] [Ts]
+Carl1891: bets $6
+Krazy90: calls $6
+*** RIVER *** [Qh As 5h Ts] [2h]
+Carl1891: bets $6
+Krazy90: folds
+Uncalled bet ($6) returned to Carl1891
+Carl1891 collected $35.50 from pot
+Carl1891: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Qh As 5h Ts 2h]
+Seat 1: Krazy90 (button) (small blind) folded on the River
+Seat 10: Carl1891 (big blind) collected ($35.50)
+
+

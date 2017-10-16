@@ -1,0 +1,57 @@
+PokerStars Hand #158847005178:  Hold'em Limit ($3/$6 USD) - 2016/09/20 5:53:35 ET
+Table 'Sahade' 6-max Seat #1 is the button
+Seat 1: Ag3r0n ($72 in chips)
+Seat 2: popeluha ($39.96 in chips)
+Ag3r0n: posts small blind $1
+popeluha: posts big blind $3
+*** HOLE CARDS ***
+Ag3r0n: raises $3 to $6
+Psynto joins the table at seat #3
+popeluha: calls $3
+*** FLOP *** [3c 9d Ah]
+popeluha: checks
+Ag3r0n: bets $3
+popeluha: calls $3
+*** TURN *** [3c 9d Ah] [8h]
+popeluha: checks
+Ag3r0n: bets $6
+popeluha: calls $6
+*** RIVER *** [3c 9d Ah 8h] [8d]
+popeluha: checks
+Ag3r0n: checks
+*** SHOW DOWN ***
+popeluha: shows [Th Kh] (a pair of Eights)
+Ag3r0n: shows [Jd 9h] (two pair, Nines and Eights)
+7ardis joins the table at seat #4
+Ag3r0n collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3c 9d Ah 8h 8d]
+Seat 1: Ag3r0n (button) (small blind) showed [Jd 9h] and won ($29.50) with two pair, Nines and Eights
+Seat 2: popeluha (big blind) showed [Th Kh] and lost with a pair of Eights
+
+
+PokerStars Hand #158847060581:  Hold'em Limit ($3/$6 USD) - 2016/09/20 5:56:08 ET
+Table 'Sahade' 6-max Seat #1 is the button
+Seat 1: Ag3r0n ($72 in chips)
+Seat 3: Psynto ($128.39 in chips)
+Ag3r0n: posts small blind $1
+Psynto: posts big blind $3
+*** HOLE CARDS ***
+Ag3r0n: raises $3 to $6
+Psynto: calls $3
+*** FLOP *** [Ah 7h 9h]
+Psynto: checks
+Ag3r0n: bets $3
+Psynto: raises $3 to $6
+Ag3r0n: folds
+Uncalled bet ($3) returned to Psynto
+Psynto collected $17.64 from pot
+Psynto: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ah 7h 9h]
+Seat 1: Ag3r0n (button) (small blind) folded on the Flop
+Seat 3: Psynto (big blind) collected ($17.64)
+
+

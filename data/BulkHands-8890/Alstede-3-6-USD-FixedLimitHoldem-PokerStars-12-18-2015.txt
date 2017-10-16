@@ -1,0 +1,312 @@
+PokerStars Hand #145520219502:  Hold'em Limit ($3/$6 USD) - 2015/12/18 4:07:19 ET
+Table 'Alstede' 6-max Seat #1 is the button
+Seat 1: mdif ($120 in chips)
+Seat 2: parnishka11 ($60 in chips)
+mdif: posts small blind $1
+parnishka11: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+parnishka11: calls $3
+*** FLOP *** [Kc 5h 3s]
+parnishka11: checks
+mdif: bets $3
+parnishka11: raises $3 to $6
+mdif: calls $3
+*** TURN *** [Kc 5h 3s] [6h]
+parnishka11: bets $6
+mdif: calls $6
+*** RIVER *** [Kc 5h 3s 6h] [4s]
+parnishka11: checks
+mdif: bets $6
+parnishka11: calls $6
+*** SHOW DOWN ***
+mdif: shows [4c Kh] (two pair, Kings and Fours)
+parnishka11: mucks hand
+mdif collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Kc 5h 3s 6h 4s]
+Seat 1: mdif (button) (small blind) showed [4c Kh] and won ($47.50) with two pair, Kings and Fours
+Seat 2: parnishka11 (big blind) mucked
+
+
+PokerStars Hand #145520228890:  Hold'em Limit ($3/$6 USD) - 2015/12/18 4:07:45 ET
+Table 'Alstede' 6-max Seat #2 is the button
+Seat 1: mdif ($143.50 in chips)
+Seat 2: parnishka11 ($36 in chips)
+parnishka11: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+parnishka11: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [7d Ah 5d]
+mdif: checks
+parnishka11: bets $3
+mdif: folds
+Uncalled bet ($3) returned to parnishka11
+parnishka11 collected $11.76 from pot
+parnishka11: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7d Ah 5d]
+Seat 1: mdif (big blind) folded on the Flop
+Seat 2: parnishka11 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #145520241897:  Hold'em Limit ($3/$6 USD) - 2015/12/18 4:08:22 ET
+Table 'Alstede' 6-max Seat #2 is the button
+Seat 1: mdif ($128.50 in chips)
+Seat 2: parnishka11 ($50.40 in chips)
+parnishka11: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+parnishka11: calls $2
+mdif: raises $3 to $6
+parnishka11: calls $3
+*** FLOP *** [9c 6h Td]
+mdif: bets $3
+parnishka11: calls $3
+*** TURN *** [9c 6h Td] [Qh]
+72bestcard joins the table at seat #3
+mdif: checks
+parnishka11: bets $6
+mdif: calls $6
+*** RIVER *** [9c 6h Td Qh] [As]
+mdif: bets $6
+parnishka11: calls $6
+*** SHOW DOWN ***
+mdif: shows [Kc Ac] (a pair of Aces)
+parnishka11: mucks hand
+mdif collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9c 6h Td Qh As]
+Seat 1: mdif (big blind) showed [Kc Ac] and won ($41.50) with a pair of Aces
+Seat 2: parnishka11 (button) (small blind) mucked
+
+
+PokerStars Hand #145520250475:  Hold'em Limit ($3/$6 USD) - 2015/12/18 4:08:47 ET
+Table 'Alstede' 6-max Seat #1 is the button
+Seat 1: mdif ($149 in chips)
+Seat 2: parnishka11 ($29.40 in chips)
+mdif: posts small blind $1
+parnishka11: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+parnishka11: calls $3
+*** FLOP *** [3d 8d 3h]
+parnishka11: checks
+mdif: bets $3
+parnishka11: calls $3
+*** TURN *** [3d 8d 3h] [7h]
+parnishka11: checks
+mdif: bets $6
+parnishka11: calls $6
+*** RIVER *** [3d 8d 3h 7h] [Jh]
+parnishka11: checks
+mdif: checks
+*** SHOW DOWN ***
+parnishka11: shows [As 6d] (a pair of Threes)
+mdif: shows [4h 4s] (two pair, Fours and Threes)
+mdif collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3d 8d 3h 7h Jh]
+Seat 1: mdif (button) (small blind) showed [4h 4s] and won ($29.50) with two pair, Fours and Threes
+Seat 2: parnishka11 (big blind) showed [As 6d] and lost with a pair of Threes
+
+
+PokerStars Hand #145520362967:  Hold'em Limit ($3/$6 USD) - 2015/12/18 4:14:07 ET
+Table 'Alstede' 6-max Seat #6 is the button
+Seat 1: mdif ($152.67 in chips)
+Seat 6: icebookman ($117 in chips)
+icebookman: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+icebookman: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [3c Ah Qc]
+mdif: checks
+icebookman: bets $3
+mdif: folds
+Uncalled bet ($3) returned to icebookman
+icebookman collected $11.76 from pot
+icebookman: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3c Ah Qc]
+Seat 1: mdif (big blind) folded on the Flop
+Seat 6: icebookman (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #145520507328:  Hold'em Limit ($3/$6 USD) - 2015/12/18 4:20:47 ET
+Table 'Alstede' 6-max Seat #3 is the button
+Seat 1: mdif ($145.20 in chips)
+Seat 3: chrismat ($145.54 in chips)
+chrismat: posts small blind $1
+icebookman: is sitting out
+mdif: posts big blind $3
+*** HOLE CARDS ***
+chrismat: folds
+Uncalled bet ($2) returned to mdif
+mdif collected $2 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: mdif (big blind) collected ($2)
+Seat 3: chrismat (button) (small blind) folded before Flop
+
+
+PokerStars Hand #145520511711:  Hold'em Limit ($3/$6 USD) - 2015/12/18 4:20:59 ET
+Table 'Alstede' 6-max Seat #1 is the button
+Seat 1: mdif ($146.20 in chips)
+Seat 3: chrismat ($144.54 in chips)
+mdif: posts small blind $1
+chrismat: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+chrismat: calls $3
+*** FLOP *** [5d As Ks]
+chrismat: checks
+mdif: bets $3
+chrismat: calls $3
+*** TURN *** [5d As Ks] [Qs]
+chrismat: checks
+mdif: bets $6
+chrismat: calls $6
+*** RIVER *** [5d As Ks Qs] [2s]
+chrismat: checks
+mdif: checks
+*** SHOW DOWN ***
+chrismat: shows [3s Kd] (a flush, Ace high)
+mdif: mucks hand
+chrismat collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5d As Ks Qs 2s]
+Seat 1: mdif (button) (small blind) mucked
+Seat 3: chrismat (big blind) showed [3s Kd] and won ($29.50) with a flush, Ace high
+
+
+PokerStars Hand #145520532891:  Hold'em Limit ($3/$6 USD) - 2015/12/18 4:21:57 ET
+Table 'Alstede' 6-max Seat #1 is the button
+Seat 1: mdif ($148.70 in chips)
+Seat 3: chrismat ($141.04 in chips)
+mdif: posts small blind $1
+chrismat: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+chrismat: calls $3
+*** FLOP *** [9c Td As]
+chrismat: checks
+mdif: bets $3
+chrismat: calls $3
+*** TURN *** [9c Td As] [5h]
+chrismat: checks
+mdif: checks
+*** RIVER *** [9c Td As 5h] [7c]
+chrismat: checks
+mdif: checks
+*** SHOW DOWN ***
+chrismat: shows [4s Jd] (high card Ace)
+mdif: shows [Js 3s] (high card Ace)
+chrismat collected $8.82 from pot
+mdif collected $8.82 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9c Td As 5h 7c]
+Seat 1: mdif (button) (small blind) showed [Js 3s] and won ($8.82) with high card Ace
+Seat 3: chrismat (big blind) showed [4s Jd] and won ($8.82) with high card Ace
+
+
+PokerStars Hand #145520546709:  Hold'em Limit ($3/$6 USD) - 2015/12/18 4:22:35 ET
+Table 'Alstede' 6-max Seat #1 is the button
+Seat 1: mdif ($130.52 in chips)
+Seat 3: chrismat ($158.36 in chips)
+mdif: posts small blind $1
+chrismat: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+chrismat: calls $3
+*** FLOP *** [7h 5h 2c]
+chrismat: checks
+mdif: bets $3
+chrismat: raises $3 to $6
+mdif: folds
+Uncalled bet ($3) returned to chrismat
+chrismat collected $17.64 from pot
+melyh82 joins the table at seat #2
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7h 5h 2c]
+Seat 1: mdif (button) (small blind) folded on the Flop
+Seat 3: chrismat (big blind) collected ($17.64)
+
+
+PokerStars Hand #145520539370:  Hold'em Limit ($3/$6 USD) - 2015/12/18 4:22:15 ET
+Table 'Alstede' 6-max Seat #3 is the button
+Seat 1: mdif ($148.52 in chips)
+Seat 3: chrismat ($140.86 in chips)
+chrismat: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+chrismat: raises $3 to $6
+mdif: raises $3 to $9
+chrismat: calls $3
+*** FLOP *** [4h 4d 2c]
+mdif: bets $3
+chrismat: calls $3
+*** TURN *** [4h 4d 2c] [9c]
+mdif: checks
+chrismat: checks
+*** RIVER *** [4h 4d 2c 9c] [8s]
+mdif: bets $6
+chrismat: calls $6
+*** SHOW DOWN ***
+mdif: shows [Ad Td] (a pair of Fours)
+chrismat: shows [8d 5d] (two pair, Eights and Fours)
+chrismat collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [4h 4d 2c 9c 8s]
+Seat 1: mdif (big blind) showed [Ad Td] and lost with a pair of Fours
+Seat 3: chrismat (button) (small blind) showed [8d 5d] and won ($35.50) with two pair, Eights and Fours
+
+
+PokerStars Hand #145521621610:  Hold'em Limit ($3/$6 USD) - 2015/12/18 5:09:24 ET
+Table 'Alstede' 6-max Seat #4 is the button
+Seat 4: Nika_VR ($90.17 in chips)
+Seat 6: schnizm ($174.92 in chips)
+MAGER911 will be allowed to play after the button
+yyanti joins the table at seat #2
+Nika_VR: posts small blind $1
+schnizm: posts big blind $3
+*** HOLE CARDS ***
+Nika_VR: folds
+Uncalled bet ($2) returned to schnizm
+schnizm collected $2 from pot
+schnizm: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: Nika_VR (button) (small blind) folded before Flop
+Seat 6: schnizm (big blind) collected ($2)
+
+
+PokerStars Hand #145522468905:  Hold'em Limit ($3/$6 USD) - 2015/12/18 5:42:34 ET
+Table 'Alstede' 6-max Seat #5 is the button
+Seat 3: TheCRIdol ($74.66 in chips)
+Seat 5: TbIP-TbIP 88 ($182.31 in chips)
+TbIP-TbIP 88: posts small blind $1
+schnizm: is sitting out
+TheCRIdol: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88: folds
+Uncalled bet ($2) returned to TheCRIdol
+TheCRIdol collected $2 from pot
+TheCRIdol: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: TheCRIdol (big blind) collected ($2)
+Seat 5: TbIP-TbIP 88 (button) (small blind) folded before Flop
+
+

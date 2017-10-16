@@ -1,0 +1,86 @@
+PokerStars Hand #150749510763:  Hold'em Limit ($3/$6 USD) - 2016/03/22 7:56:53 ET
+Table 'Vinifera' 6-max Seat #3 is the button
+Seat 2: Grieserix ($132.88 in chips)
+Seat 3: B_loJkl ($306.28 in chips)
+B_loJkl: posts small blind $1
+BuzovaPro: is sitting out
+Grieserix: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+Grieserix: calls $3
+*** FLOP *** [5d 9d Td]
+BuzovaPro leaves the table
+Grieserix: checks
+chengong joins the table at seat #1
+B_loJkl: bets $3
+Grieserix: calls $3
+*** TURN *** [5d 9d Td] [Kh]
+Grieserix: checks
+B_loJkl: bets $6
+Grieserix: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $17.64 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5d 9d Td Kh]
+Seat 2: Grieserix (big blind) folded on the Turn
+Seat 3: B_loJkl (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #150749523637:  Hold'em Limit ($3/$6 USD) - 2016/03/22 7:57:21 ET
+Table 'Vinifera' 6-max Seat #2 is the button
+Seat 2: Grieserix ($123.88 in chips)
+Seat 3: B_loJkl ($314.92 in chips)
+Grieserix: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Grieserix: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Ac 3s Kh]
+B_loJkl: checks
+Grieserix: checks
+*** TURN *** [Ac 3s Kh] [Ah]
+B_loJkl: bets $6
+Grieserix: calls $6
+*** RIVER *** [Ac 3s Kh Ah] [4s]
+B_loJkl: bets $6
+Grieserix: raises $6 to $12
+B_loJkl: calls $6
+*** SHOW DOWN ***
+Grieserix: shows [Ad 3h] (a full house, Aces full of Threes)
+B_loJkl: mucks hand
+Grieserix collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Ac 3s Kh Ah 4s]
+Seat 2: Grieserix (button) (small blind) showed [Ad 3h] and won ($47.50) with a full house, Aces full of Threes
+Seat 3: B_loJkl (big blind) mucked
+
+
+PokerStars Hand #150749834711:  Hold'em Limit ($3/$6 USD) - 2016/03/22 8:07:43 ET
+Table 'Vinifera' 6-max Seat #3 is the button
+Seat 1: chengong ($73.13 in chips)
+Seat 3: B_loJkl ($402.60 in chips)
+B_loJkl: posts small blind $1
+BuzovaPro: is sitting out
+chengong: posts big blind $3
+*** HOLE CARDS ***
+Eklund_1891 joins the table at seat #2
+B_loJkl: raises $3 to $6
+chengong: calls $3
+*** FLOP *** [Js Kd 2c]
+chengong: checks
+B_loJkl: bets $3
+chengong: raises $3 to $6
+B_loJkl: folds
+Uncalled bet ($3) returned to chengong
+chengong collected $17.64 from pot
+chengong: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Js Kd 2c]
+Seat 1: chengong (big blind) collected ($17.64)
+Seat 3: B_loJkl (button) (small blind) folded on the Flop
+
+

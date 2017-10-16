@@ -1,0 +1,32 @@
+PokerStars Hand #168576762095:  Hold'em Limit ($3/$6 USD) - 2017/04/04 15:07:09 ET
+Table 'Savo II' 6-max Seat #2 is the button
+Seat 2: ``MULAT``86 ($115.57 in chips)
+Seat 4: pompier40 ($85.74 in chips)
+``MULAT``86: posts small blind $1
+pompier40: posts big blind $3
+*** HOLE CARDS ***
+``MULAT``86: raises $3 to $6
+pompier40: calls $3
+*** FLOP *** [5c Ts Kh]
+pompier40: checks
+``MULAT``86: bets $3
+pompier40: calls $3
+*** TURN *** [5c Ts Kh] [7s]
+pompier40: checks
+``MULAT``86: bets $6
+pompier40: raises $6 to $12
+``MULAT``86: calls $6
+*** RIVER *** [5c Ts Kh 7s] [Td]
+pompier40: bets $6
+``MULAT``86: calls $6
+*** SHOW DOWN ***
+pompier40: shows [Qc Kc] (two pair, Kings and Tens)
+``MULAT``86: shows [Ks Ad] (two pair, Kings and Tens - Ace kicker)
+``MULAT``86 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [5c Ts Kh 7s Td]
+Seat 2: ``MULAT``86 (button) (small blind) showed [Ks Ad] and won ($53.50) with two pair, Kings and Tens
+Seat 4: pompier40 (big blind) showed [Qc Kc] and lost with two pair, Kings and Tens
+
+

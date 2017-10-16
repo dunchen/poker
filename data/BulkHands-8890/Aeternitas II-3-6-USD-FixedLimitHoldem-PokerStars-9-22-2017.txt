@@ -1,0 +1,37 @@
+PokerStars Hand #175976790493:  Hold'em Limit ($3/$6 USD) - 2017/09/22 12:25:44 ET
+Table 'Aeternitas II' 6-max Seat #1 is the button
+Seat 1: KAKA1 ($139.32 in chips)
+Seat 6: ToDaFelt ($112.26 in chips)
+KAKA1: posts small blind $1
+Agrotait: is sitting out
+vestimokrec: is sitting out
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+Agrotait leaves the table
+KAKA1: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [Ks 7h Kd]
+ToDaFelt: checks
+KAKA1: bets $3
+ToDaFelt: raises $3 to $6
+KAKA1: raises $3 to $9
+vestimokrec leaves the table
+ToDaFelt: calls $3
+*** TURN *** [Ks 7h Kd] [8d]
+ToDaFelt: checks
+KAKA1: bets $6
+ToDaFelt: calls $6
+*** RIVER *** [Ks 7h Kd 8d] [2d]
+ToDaFelt: checks
+KAKA1: checks
+*** SHOW DOWN ***
+ToDaFelt: shows [8h Tc] (two pair, Kings and Eights)
+KAKA1: mucks hand
+ToDaFelt collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ks 7h Kd 8d 2d]
+Seat 1: KAKA1 (button) (small blind) mucked
+Seat 6: ToDaFelt (big blind) showed [8h Tc] and won ($41.50) with two pair, Kings and Eights
+
+

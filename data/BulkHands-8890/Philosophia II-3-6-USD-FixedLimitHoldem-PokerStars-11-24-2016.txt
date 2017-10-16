@@ -1,0 +1,64 @@
+PokerStars Hand #161904794566:  Hold'em Limit ($3/$6 USD) - 2016/11/24 15:47:41 ET
+Table 'Philosophia II' 6-max Seat #2 is the button
+Seat 2: WillemDuit ($15.51 in chips)
+Seat 4: Actionni13 ($171.50 in chips)
+WillemDuit: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+WillemDuit: raises $3 to $6
+Actionni13: raises $3 to $9
+WillemDuit: raises $3 to $12
+Betting is capped
+Actionni13: calls $3
+*** FLOP *** [9s 6c 8c]
+Actionni13: checks
+WillemDuit: bets $3
+Actionni13: calls $3
+*** TURN *** [9s 6c 8c] [Tc]
+Actionni13: checks
+WillemDuit: bets $0.51 and is all-in
+Actionni13: calls $0.51
+*** RIVER *** [9s 6c 8c Tc] [7c]
+*** SHOW DOWN ***
+Actionni13: shows [Jh Ad] (a straight, Seven to Jack)
+WillemDuit: shows [Ah 8d] (a straight, Six to Ten)
+Actionni13 collected $30.52 from pot
+*** SUMMARY ***
+Total pot $31.02 | Rake $0.50
+Board [9s 6c 8c Tc 7c]
+Seat 2: WillemDuit (button) (small blind) showed [Ah 8d] and lost with a straight, Six to Ten
+Seat 4: Actionni13 (big blind) showed [Jh Ad] and won ($30.52) with a straight, Seven to Jack
+
+
+PokerStars Hand #161904772750:  Hold'em Limit ($3/$6 USD) - 2016/11/24 15:47:17 ET
+Table 'Philosophia II' 6-max Seat #4 is the button
+Seat 2: WillemDuit ($36.51 in chips)
+Seat 4: Actionni13 ($151 in chips)
+Actionni13: posts small blind $1
+WillemDuit: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+WillemDuit: calls $3
+*** FLOP *** [9d Jc Qd]
+WillemDuit: checks
+Actionni13: bets $3
+WillemDuit: calls $3
+*** TURN *** [9d Jc Qd] [9h]
+WillemDuit: checks
+Actionni13: bets $6
+WillemDuit: calls $6
+*** RIVER *** [9d Jc Qd 9h] [5c]
+WillemDuit: checks
+Actionni13: bets $6
+WillemDuit: calls $6
+*** SHOW DOWN ***
+Actionni13: shows [Js 5s] (two pair, Jacks and Nines)
+WillemDuit: mucks hand
+Actionni13 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9d Jc Qd 9h 5c]
+Seat 2: WillemDuit (big blind) mucked
+Seat 4: Actionni13 (button) (small blind) showed [Js 5s] and won ($41.50) with two pair, Jacks and Nines
+
+

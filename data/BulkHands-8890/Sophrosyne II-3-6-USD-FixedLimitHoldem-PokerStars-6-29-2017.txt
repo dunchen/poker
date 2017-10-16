@@ -1,0 +1,60 @@
+PokerStars Hand #172381834766:  Hold'em Limit ($3/$6 USD) - 2017/06/29 8:47:28 ET
+Table 'Sophrosyne II' 6-max Seat #3 is the button
+Seat 3: arut0101 ($40.89 in chips)
+Seat 5: Ale4o ($93 in chips)
+arut0101: posts small blind $1
+TbIP-TbIP 88: is sitting out
+Ale4o: posts big blind $3
+*** HOLE CARDS ***
+arut0101: calls $2
+Ale4o: checks
+*** FLOP *** [Ad 6c Qc]
+Ale4o: checks
+arut0101: checks
+*** TURN *** [Ad 6c Qc] [Kd]
+Ale4o: checks
+arut0101: checks
+*** RIVER *** [Ad 6c Qc Kd] [Qd]
+Ale4o: checks
+arut0101: checks
+*** SHOW DOWN ***
+Ale4o: shows [7d Kh] (two pair, Kings and Queens)
+arut0101: mucks hand
+Ale4o collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Ad 6c Qc Kd Qd]
+Seat 3: arut0101 (button) (small blind) mucked
+Seat 5: Ale4o (big blind) showed [7d Kh] and won ($5.88) with two pair, Kings and Queens
+
+
+PokerStars Hand #172381841458:  Hold'em Limit ($3/$6 USD) - 2017/06/29 8:47:42 ET
+Table 'Sophrosyne II' 6-max Seat #5 is the button
+Seat 3: arut0101 ($37.89 in chips)
+Seat 5: Ale4o ($95.88 in chips)
+Ale4o: posts small blind $1
+arut0101: posts big blind $3
+*** HOLE CARDS ***
+Ale4o: raises $3 to $6
+arut0101: calls $3
+*** FLOP *** [Ah 8d 3d]
+arut0101: checks
+Ale4o: bets $3
+arut0101: calls $3
+*** TURN *** [Ah 8d 3d] [8h]
+arut0101: checks
+Ale4o: checks
+*** RIVER *** [Ah 8d 3d 8h] [Ad]
+arut0101: bets $6
+Ale4o: calls $6
+*** SHOW DOWN ***
+arut0101: shows [9h 6s] (two pair, Aces and Eights)
+Ale4o: shows [7s Qd] (two pair, Aces and Eights - Queen kicker)
+Ale4o collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ah 8d 3d 8h Ad]
+Seat 3: arut0101 (big blind) showed [9h 6s] and lost with two pair, Aces and Eights
+Seat 5: Ale4o (button) (small blind) showed [7s Qd] and won ($29.50) with two pair, Aces and Eights
+
+

@@ -1,0 +1,104 @@
+PokerStars Hand #163951633599:  Hold'em Limit ($3/$6 USD) - 2017/01/03 1:19:28 ET
+Table 'Gotz' 6-max Seat #1 is the button
+Seat 1: BelSv ($85.61 in chips)
+Seat 6: sda.80.16 ($10 in chips)
+BelSv: posts small blind $1
+Agrotait: is sitting out
+sda.80.16: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+sda.80.16: raises $3 to $9
+BelSv: calls $3
+*** FLOP *** [2c 3h 8c]
+sda.80.16: bets $1 and is all-in
+BelSv: calls $1
+*** TURN *** [2c 3h 8c] [9s]
+*** RIVER *** [2c 3h 8c 9s] [Tc]
+Agrotait leaves the table
+*** SHOW DOWN ***
+sda.80.16: shows [Ts 4d] (a pair of Tens)
+BelSv: shows [Js 5h] (high card Jack)
+sda.80.16 collected $19.60 from pot
+*** SUMMARY ***
+Total pot $20 | Rake $0.40
+Board [2c 3h 8c 9s Tc]
+Seat 1: BelSv (button) (small blind) showed [Js 5h] and lost with high card Jack
+Seat 6: sda.80.16 (big blind) showed [Ts 4d] and won ($19.60) with a pair of Tens
+
+
+PokerStars Hand #163951647613:  Hold'em Limit ($3/$6 USD) - 2017/01/03 1:20:22 ET
+Table 'Gotz' 6-max Seat #1 is the button
+Seat 1: BelSv ($78 in chips)
+Seat 6: sda.80.16 ($20.36 in chips)
+BelSv: posts small blind $1
+sda.80.16: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+sda.80.16: raises $3 to $9
+BelSv: calls $3
+*** FLOP *** [Js 8c 2d]
+sda.80.16: bets $3
+BelSv: calls $3
+*** TURN *** [Js 8c 2d] [2h]
+sda.80.16: bets $6
+BelSv: calls $6
+*** RIVER *** [Js 8c 2d 2h] [Ad]
+sda.80.16: bets $2.36 and is all-in
+BelSv: calls $2.36
+*** SHOW DOWN ***
+sda.80.16: shows [5s 5d] (two pair, Fives and Deuces)
+BelSv: shows [Ac 6d] (two pair, Aces and Deuces)
+BelSv collected $40.22 from pot
+*** SUMMARY ***
+Total pot $40.72 | Rake $0.50
+Board [Js 8c 2d 2h Ad]
+Seat 1: BelSv (button) (small blind) showed [Ac 6d] and won ($40.22) with two pair, Aces and Deuces
+Seat 6: sda.80.16 (big blind) showed [5s 5d] and lost with two pair, Fives and Deuces
+
+
+PokerStars Hand #163951644143:  Hold'em Limit ($3/$6 USD) - 2017/01/03 1:20:09 ET
+Table 'Gotz' 6-max Seat #6 is the button
+Seat 1: BelSv ($82.76 in chips)
+Seat 6: sda.80.16 ($14.60 in chips)
+sda.80.16: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+sda.80.16: raises $3 to $6
+BelSv: calls $3
+*** FLOP *** [8s 6c Jd]
+BelSv: checks
+sda.80.16: bets $3
+BelSv: folds
+Uncalled bet ($3) returned to sda.80.16
+sda.80.16 collected $11.76 from pot
+sda.80.16: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8s 6c Jd]
+Seat 1: BelSv (big blind) folded on the Flop
+Seat 6: sda.80.16 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #163951638697:  Hold'em Limit ($3/$6 USD) - 2017/01/03 1:19:48 ET
+Table 'Gotz' 6-max Seat #6 is the button
+Seat 1: BelSv ($78 in chips)
+Seat 6: sda.80.16 ($19.60 in chips)
+sda.80.16: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+sda.80.16: calls $2
+BelSv: raises $3 to $6
+sda.80.16: calls $3
+*** FLOP *** [7h 4h As]
+BelSv: bets $3
+sda.80.16: folds
+Uncalled bet ($3) returned to BelSv
+BelSv collected $11.76 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7h 4h As]
+Seat 1: BelSv (big blind) collected ($11.76)
+Seat 6: sda.80.16 (button) (small blind) folded on the Flop
+
+

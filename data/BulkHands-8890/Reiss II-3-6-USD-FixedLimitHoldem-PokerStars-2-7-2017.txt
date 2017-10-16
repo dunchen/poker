@@ -1,0 +1,31 @@
+PokerStars Hand #165853382498:  Hold'em Limit ($3/$6 USD) - 2017/02/07 17:29:44 ET
+Table 'Reiss II' 6-max Seat #3 is the button
+Seat 3: pompier40 ($120 in chips)
+Seat 4: grabaz ($240 in chips)
+pompier40: posts small blind $1
+grabaz: posts big blind $3
+*** HOLE CARDS ***
+pompier40: raises $3 to $6
+grabaz: calls $3
+*** FLOP *** [7h Jh 7s]
+grabaz: checks
+pompier40: bets $3
+grabaz: calls $3
+*** TURN *** [7h Jh 7s] [9s]
+grabaz: checks
+pompier40: bets $6
+grabaz: calls $6
+*** RIVER *** [7h Jh 7s 9s] [8s]
+grabaz: bets $6
+pompier40: calls $6
+*** SHOW DOWN ***
+grabaz: shows [4s As] (a flush, Ace high)
+pompier40: mucks hand
+grabaz collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [7h Jh 7s 9s 8s]
+Seat 3: pompier40 (button) (small blind) mucked
+Seat 4: grabaz (big blind) showed [4s As] and won ($41.50) with a flush, Ace high
+
+

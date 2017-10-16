@@ -1,0 +1,81 @@
+PokerStars Hand #165186077595:  Hold'em Limit ($3/$6 USD) - 2017/01/26 5:48:51 ET
+Table 'Anitra II' 6-max Seat #4 is the button
+Seat 4: Agrotait ($77.76 in chips)
+Seat 6: nordschrott ($26.71 in chips)
+Agrotait: posts small blind $1
+nordschrott: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+nordschrott: calls $3
+*** FLOP *** [7d 9s Kd]
+nordschrott: checks
+Agrotait: bets $3
+nordschrott: raises $3 to $6
+Agrotait: calls $3
+*** TURN *** [7d 9s Kd] [8h]
+nordschrott: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to nordschrott
+nordschrott collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [7d 9s Kd 8h]
+Seat 4: Agrotait (button) (small blind) folded on the Turn
+Seat 6: nordschrott (big blind) collected ($23.52)
+
+
+PokerStars Hand #165186067449:  Hold'em Limit ($3/$6 USD) - 2017/01/26 5:48:29 ET
+Table 'Anitra II' 6-max Seat #6 is the button
+Seat 4: Agrotait ($72 in chips)
+Seat 6: nordschrott ($32.71 in chips)
+nordschrott: posts small blind $1
+Ale4o joins the table at seat #1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+nordschrott: calls $2
+Agrotait: raises $3 to $6
+nordschrott: calls $3
+*** FLOP *** [Ah 5s Js]
+Agrotait: bets $3
+kusznak joins the table at seat #2
+nordschrott: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $11.76 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ah 5s Js]
+Seat 4: Agrotait (big blind) collected ($11.76)
+Seat 6: nordschrott (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #165187391986:  Hold'em Limit ($3/$6 USD) - 2017/01/26 6:37:00 ET
+Table 'Anitra II' 6-max Seat #2 is the button
+Seat 1: Ale4o ($118.64 in chips)
+Seat 2: beng_51 ($148.22 in chips)
+beng_51: posts small blind $1
+Ale4o: posts big blind $3
+*** HOLE CARDS ***
+beng_51: raises $3 to $6
+Ale4o: calls $3
+*** FLOP *** [4c Jd 7h]
+Ale4o: checks
+pokertriss joins the table at seat #3
+beng_51: checks
+*** TURN *** [4c Jd 7h] [Qh]
+Ale4o: bets $6
+beng_51: calls $6
+*** RIVER *** [4c Jd 7h Qh] [6d]
+Ale4o: bets $6
+beng_51: calls $6
+*** SHOW DOWN ***
+Ale4o: shows [Ts 7c] (a pair of Sevens)
+beng_51: mucks hand
+Ale4o collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [4c Jd 7h Qh 6d]
+Seat 1: Ale4o (big blind) showed [Ts 7c] and won ($35.50) with a pair of Sevens
+Seat 2: beng_51 (button) (small blind) mucked
+
+

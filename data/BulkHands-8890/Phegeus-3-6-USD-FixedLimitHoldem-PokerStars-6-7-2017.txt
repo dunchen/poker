@@ -1,0 +1,83 @@
+PokerStars Hand #171463248995:  Hold'em Limit ($3/$6 USD) - 2017/06/07 10:28:50 ET
+Table 'Phegeus' 6-max Seat #4 is the button
+Seat 4: MTails ($120 in chips)
+Seat 5: MobyDickDK ($94.06 in chips)
+MTails: posts small blind $1
+MobyDickDK: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+MobyDickDK: raises $3 to $9
+MTails: calls $3
+*** FLOP *** [Ks 5s Ah]
+MobyDickDK: bets $3
+MTails: calls $3
+*** TURN *** [Ks 5s Ah] [Qs]
+AzureCaper joins the table at seat #6
+MobyDickDK: bets $6
+MTails: calls $6
+*** RIVER *** [Ks 5s Ah Qs] [Js]
+MobyDickDK: bets $6
+MTails: raises $6 to $12
+MobyDickDK: folds
+Uncalled bet ($6) returned to MTails
+MTails collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Ks 5s Ah Qs Js]
+Seat 4: MTails (button) (small blind) collected ($47.50)
+Seat 5: MobyDickDK (big blind) folded on the River
+
+
+PokerStars Hand #171463435723:  Hold'em Limit ($3/$6 USD) - 2017/06/07 10:34:17 ET
+Table 'Phegeus' 6-max Seat #1 is the button
+Seat 1: B_loJkl ($159.81 in chips)
+Seat 6: AzureCaper ($72 in chips)
+B_loJkl: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [2h 4d 5s]
+AzureCaper: checks
+B_loJkl: bets $3
+AzureCaper: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2h 4d 5s]
+Seat 1: B_loJkl (button) (small blind) collected ($11.76)
+Seat 6: AzureCaper (big blind) folded on the Flop
+
+
+PokerStars Hand #171463444278:  Hold'em Limit ($3/$6 USD) - 2017/06/07 10:34:32 ET
+Table 'Phegeus' 6-max Seat #6 is the button
+Seat 1: B_loJkl ($165.57 in chips)
+Seat 6: AzureCaper ($72 in chips)
+AzureCaper: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Ah Jc 8d]
+B_loJkl: checks
+AzureCaper: bets $3
+B_loJkl: calls $3
+*** TURN *** [Ah Jc 8d] [Ad]
+B_loJkl: checks
+AzureCaper: checks
+*** RIVER *** [Ah Jc 8d Ad] [2h]
+B_loJkl: checks
+AzureCaper: checks
+*** SHOW DOWN ***
+B_loJkl: shows [8s 6c] (two pair, Aces and Eights)
+AzureCaper: mucks hand
+B_loJkl collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ah Jc 8d Ad 2h]
+Seat 1: B_loJkl (big blind) showed [8s 6c] and won ($17.64) with two pair, Aces and Eights
+Seat 6: AzureCaper (button) (small blind) mucked
+
+

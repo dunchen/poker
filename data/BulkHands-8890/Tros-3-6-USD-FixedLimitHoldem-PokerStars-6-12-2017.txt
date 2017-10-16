@@ -1,0 +1,137 @@
+PokerStars Hand #171690893429:  Hold'em Limit ($3/$6 USD) - 2017/06/12 15:20:39 ET
+Table 'Tros' 6-max Seat #1 is the button
+Seat 1: igorkabmw ($30 in chips)
+Seat 2: Apanage ($80 in chips)
+igorkabmw: posts small blind $1
+Apanage: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec joins the table at seat #3
+igorkabmw: calls $2
+Apanage: raises $3 to $6
+igorkabmw: calls $3
+*** FLOP *** [7c 4c 7d]
+Apanage: bets $3
+igorkabmw: calls $3
+*** TURN *** [7c 4c 7d] [9d]
+Apanage: bets $6
+igorkabmw: folds
+Uncalled bet ($6) returned to Apanage
+Apanage collected $17.64 from pot
+Apanage: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7c 4c 7d 9d]
+Seat 1: igorkabmw (button) (small blind) folded on the Turn
+Seat 2: Apanage (big blind) collected ($17.64)
+
+
+PokerStars Hand #171691180040:  Hold'em Limit ($3/$6 USD) - 2017/06/12 15:26:14 ET
+Table 'Tros' 6-max Seat #2 is the button
+Seat 2: Apanage ($123 in chips)
+Seat 5: vovojc ($29 in chips)
+Apanage: posts small blind $1
+vovojc: posts big blind $3
+*** HOLE CARDS ***
+Apanage: raises $3 to $6
+vovojc: calls $3
+*** FLOP *** [2h 2c 3s]
+igorkabmw leaves the table
+vestimokrec leaves the table
+vovojc: checks
+Apanage: bets $3
+vovojc: calls $3
+*** TURN *** [2h 2c 3s] [9c]
+vovojc: checks
+Apanage: bets $6
+vovojc: calls $6
+*** RIVER *** [2h 2c 3s 9c] [Ks]
+vovojc: bets $6
+Apanage: folds
+Uncalled bet ($6) returned to vovojc
+vovojc collected $29.50 from pot
+vovojc: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2h 2c 3s 9c Ks]
+Seat 2: Apanage (button) (small blind) folded on the River
+Seat 5: vovojc (big blind) collected ($29.50)
+
+
+PokerStars Hand #171691213152:  Hold'em Limit ($3/$6 USD) - 2017/06/12 15:26:52 ET
+Table 'Tros' 6-max Seat #5 is the button
+Seat 2: Apanage ($108 in chips)
+Seat 5: vovojc ($43.50 in chips)
+vovojc: posts small blind $1
+Apanage: posts big blind $3
+*** HOLE CARDS ***
+vovojc: raises $3 to $6
+vestimokrec joins the table at seat #6
+Apanage: folds
+Uncalled bet ($3) returned to vovojc
+vovojc collected $6 from pot
+vovojc: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: Apanage (big blind) folded before Flop
+Seat 5: vovojc (button) (small blind) collected ($6)
+
+
+PokerStars Hand #171691224010:  Hold'em Limit ($3/$6 USD) - 2017/06/12 15:27:05 ET
+Table 'Tros' 6-max Seat #2 is the button
+Seat 2: Apanage ($105 in chips)
+Seat 5: vovojc ($46.50 in chips)
+Apanage: posts small blind $1
+vovojc: posts big blind $3
+*** HOLE CARDS ***
+Apanage: raises $3 to $6
+vovojc: calls $3
+*** FLOP *** [Qd 6c Kh]
+vovojc: checks
+Apanage: bets $3
+vovojc: calls $3
+*** TURN *** [Qd 6c Kh] [7c]
+vovojc: checks
+Apanage: checks
+*** RIVER *** [Qd 6c Kh 7c] [2d]
+vovojc: checks
+Apanage: checks
+*** SHOW DOWN ***
+vovojc: shows [Ad Td] (high card Ace)
+Apanage: mucks hand
+vovojc collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qd 6c Kh 7c 2d]
+Seat 2: Apanage (button) (small blind) mucked
+Seat 5: vovojc (big blind) showed [Ad Td] and won ($17.64) with high card Ace
+
+
+PokerStars Hand #171691318349:  Hold'em Limit ($3/$6 USD) - 2017/06/12 15:28:56 ET
+Table 'Tros' 6-max Seat #6 is the button
+Seat 5: vovojc ($37.14 in chips)
+Seat 6: vestimokrec ($160.02 in chips)
+vestimokrec: posts small blind $1
+Apanage: is sitting out
+vovojc: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+vovojc: calls $3
+*** FLOP *** [Qh 6s Td]
+vovojc: checks
+vestimokrec: bets $3
+vovojc: calls $3
+*** TURN *** [Qh 6s Td] [7h]
+vovojc: checks
+vestimokrec: bets $6
+Apanage leaves the table
+vovojc: folds
+Uncalled bet ($6) returned to vestimokrec
+vestimokrec collected $17.64 from pot
+vestimokrec: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qh 6s Td 7h]
+Seat 5: vovojc (big blind) folded on the Turn
+Seat 6: vestimokrec (button) (small blind) collected ($17.64)
+
+

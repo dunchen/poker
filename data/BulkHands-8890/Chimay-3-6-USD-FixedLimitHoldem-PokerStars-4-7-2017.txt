@@ -1,0 +1,40 @@
+PokerStars Hand #168691586468:  Hold'em Limit ($3/$6 USD) - 2017/04/07 3:15:41 ET
+Table 'Chimay' 6-max Seat #2 is the button
+Seat 1: Krazy90 ($120 in chips)
+Seat 2: kudongo ($144.53 in chips)
+kudongo: posts small blind $1
+tttzzz has timed out while being disconnected
+tttzzz: is sitting out
+Agrotait: is sitting out
+krytalex: is sitting out
+Krazy90: posts big blind $3
+*** HOLE CARDS ***
+kudongo: raises $3 to $6
+Agrotait leaves the table
+krytalex leaves the table
+Krazy90: calls $3
+*** FLOP *** [5c Js 9c]
+Krazy90: checks
+kudongo: bets $3
+tttzzz leaves the table
+Krazy90: calls $3
+*** TURN *** [5c Js 9c] [Ad]
+Krazy90: checks
+kudongo: bets $6
+Krazy90: calls $6
+*** RIVER *** [5c Js 9c Ad] [7h]
+Krazy90: checks
+kudongo: bets $6
+Krazy90: raises $6 to $12
+kudongo: calls $6
+*** SHOW DOWN ***
+Krazy90: shows [5d 7s] (two pair, Sevens and Fives)
+kudongo: mucks hand
+Krazy90 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [5c Js 9c Ad 7h]
+Seat 1: Krazy90 (big blind) showed [5d 7s] and won ($53.50) with two pair, Sevens and Fives
+Seat 2: kudongo (button) (small blind) mucked
+
+

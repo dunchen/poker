@@ -1,0 +1,100 @@
+PokerStars Hand #165306102277:  Hold'em Limit ($3/$6 USD) - 2017/01/28 13:07:22 ET
+Table 'Poesia' 6-max Seat #1 is the button
+Seat 1: rizzi008 ($24.13 in chips)
+Seat 4: GoliafUa ($126.28 in chips)
+rizzi008: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+rizzi008: folds
+Uncalled bet ($2) returned to GoliafUa
+GoliafUa collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: rizzi008 (button) (small blind) folded before Flop
+Seat 4: GoliafUa (big blind) collected ($2)
+
+
+PokerStars Hand #165306107167:  Hold'em Limit ($3/$6 USD) - 2017/01/28 13:07:27 ET
+Table 'Poesia' 6-max Seat #4 is the button
+Seat 1: rizzi008 ($23.13 in chips)
+Seat 4: GoliafUa ($127.28 in chips)
+GoliafUa: posts small blind $1
+rizzi008: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa: raises $3 to $6
+rizzi008: calls $3
+*** FLOP *** [7h 2h Jc]
+rizzi008: checks
+GoliafUa: bets $3
+rizzi008: folds
+Uncalled bet ($3) returned to GoliafUa
+GoliafUa collected $11.76 from pot
+GoliafUa: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7h 2h Jc]
+Seat 1: rizzi008 (big blind) folded on the Flop
+Seat 4: GoliafUa (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #165306118133:  Hold'em Limit ($3/$6 USD) - 2017/01/28 13:07:38 ET
+Table 'Poesia' 6-max Seat #1 is the button
+Seat 1: rizzi008 ($17.13 in chips)
+Seat 4: GoliafUa ($133.04 in chips)
+rizzi008: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+rizzi008: calls $2
+GoliafUa: raises $3 to $6
+rizzi008: calls $3
+*** FLOP *** [As Tc Jc]
+GoliafUa: bets $3
+rizzi008: calls $3
+*** TURN *** [As Tc Jc] [7c]
+GoliafUa: bets $6
+rizzi008: calls $6
+*** RIVER *** [As Tc Jc 7c] [3c]
+GoliafUa: bets $6
+rizzi008: calls $2.13 and is all-in
+Uncalled bet ($3.87) returned to GoliafUa
+*** SHOW DOWN ***
+GoliafUa: shows [Ad 6s] (a pair of Aces)
+rizzi008: shows [Jd 5c] (a flush, Jack high)
+rizzi008 collected $33.76 from pot
+*** SUMMARY ***
+Total pot $34.26 | Rake $0.50
+Board [As Tc Jc 7c 3c]
+Seat 1: rizzi008 (button) (small blind) showed [Jd 5c] and won ($33.76) with a flush, Jack high
+Seat 4: GoliafUa (big blind) showed [Ad 6s] and lost with a pair of Aces
+
+
+PokerStars Hand #165306135130:  Hold'em Limit ($3/$6 USD) - 2017/01/28 13:07:55 ET
+Table 'Poesia' 6-max Seat #4 is the button
+Seat 1: rizzi008 ($33.76 in chips)
+Seat 4: GoliafUa ($115.91 in chips)
+GoliafUa: posts small blind $1
+rizzi008: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa: raises $3 to $6
+rizzi008: calls $3
+*** FLOP *** [2s 3h 6h]
+rizzi008: bets $3
+GoliafUa: calls $3
+*** TURN *** [2s 3h 6h] [2h]
+rizzi008: bets $6
+niplot joins the table at seat #3
+GoliafUa: calls $6
+*** RIVER *** [2s 3h 6h 2h] [6d]
+rizzi008: bets $6
+GoliafUa: calls $6
+*** SHOW DOWN ***
+rizzi008: shows [7c 2d] (a full house, Deuces full of Sixes)
+GoliafUa: mucks hand
+rizzi008 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2s 3h 6h 2h 6d]
+Seat 1: rizzi008 (big blind) showed [7c 2d] and won ($41.50) with a full house, Deuces full of Sixes
+Seat 4: GoliafUa (button) (small blind) mucked
+
+

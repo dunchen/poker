@@ -1,0 +1,54 @@
+PokerStars Hand #153198258597:  Hold'em Limit ($3/$6 USD) - 2016/05/12 6:05:23 ET
+Table 'Munoz' 10-max Seat #1 is the button
+Seat 1: B_loJkl ($164.61 in chips)
+Seat 10: belik555 ($72 in chips)
+B_loJkl: posts small blind $1
+belik555: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+belik555: calls $3
+*** FLOP *** [Tc 8h Th]
+belik555: checks
+B_loJkl: checks
+*** TURN *** [Tc 8h Th] [Jh]
+ssslipknot joins the table at seat #2
+belik555: bets $6
+B_loJkl: calls $6
+*** RIVER *** [Tc 8h Th Jh] [Ts]
+belik555: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to belik555
+belik555 collected $23.52 from pot
+belik555: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Tc 8h Th Jh Ts]
+Seat 1: B_loJkl (button) (small blind) folded on the River
+Seat 10: belik555 (big blind) collected ($23.52)
+
+
+PokerStars Hand #153198289928:  Hold'em Limit ($3/$6 USD) - 2016/05/12 6:06:42 ET
+Table 'Munoz' 10-max Seat #10 is the button
+Seat 3: B_loJkl ($149 in chips)
+Seat 10: belik555 ($77.52 in chips)
+belik555: posts small blind $1
+ssslipknot: is sitting out
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+ssslipknot leaves the table
+belik555: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Kc 4c Qs]
+B_loJkl: checks
+belik555: bets $3
+B_loJkl: folds
+Uncalled bet ($3) returned to belik555
+belik555 collected $11.76 from pot
+belik555: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kc 4c Qs]
+Seat 3: B_loJkl (big blind) folded on the Flop
+Seat 10: belik555 (button) (small blind) collected ($11.76)
+
+

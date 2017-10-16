@@ -1,0 +1,53 @@
+PokerStars Hand #164075879062:  Hold'em Limit ($3/$6 USD) - 2017/01/05 10:47:12 ET
+Table 'Unukalhai' 10-max Seat #5 is the button
+Seat 5: trentin@ruim ($120 in chips)
+Seat 7: VolkovDmitri ($120 in chips)
+trentin@ruim: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+trentin@ruim: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [9c Qs 7c]
+VolkovDmitri: checks
+trentin@ruim: checks
+*** TURN *** [9c Qs 7c] [8d]
+VolkovDmitri: bets $6
+trentin@ruim: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9c Qs 7c 8d]
+Seat 5: trentin@ruim (button) (small blind) folded on the Turn
+Seat 7: VolkovDmitri (big blind) collected ($11.76)
+
+
+PokerStars Hand #164075894993:  Hold'em Limit ($3/$6 USD) - 2017/01/05 10:47:33 ET
+Table 'Unukalhai' 10-max Seat #7 is the button
+Seat 5: trentin@ruim ($114 in chips)
+Seat 7: VolkovDmitri ($125.76 in chips)
+VolkovDmitri: posts small blind $1
+trentin@ruim: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+trentin@ruim: calls $3
+*** FLOP *** [5h 8h 6s]
+trentin@ruim: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [5h 8h 6s] [3s]
+trentin@ruim: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [5h 8h 6s 3s] [7d]
+trentin@ruim: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to trentin@ruim
+trentin@ruim collected $29.50 from pot
+trentin@ruim: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5h 8h 6s 3s 7d]
+Seat 5: trentin@ruim (big blind) collected ($29.50)
+Seat 7: VolkovDmitri (button) (small blind) folded on the River
+
+

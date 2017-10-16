@@ -1,0 +1,70 @@
+PokerStars Hand #147011610922:  Hold'em Limit ($3/$6 USD) - 2016/01/14 4:33:59 ET
+Table 'Tauntonia' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 3: sclay14 ($120 in chips)
+VolkovDmitri: posts small blind $1
+sclay14: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+sclay14: calls $3
+*** FLOP *** [Jh Ad As]
+sclay14: checks
+VolkovDmitri: bets $3
+sclay14: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jh Ad As]
+Seat 1: VolkovDmitri (button) (small blind) collected ($11.76)
+Seat 3: sclay14 (big blind) folded on the Flop
+
+
+PokerStars Hand #147011622876:  Hold'em Limit ($3/$6 USD) - 2016/01/14 4:34:29 ET
+Table 'Tauntonia' 6-max Seat #3 is the button
+Seat 1: VolkovDmitri ($125.76 in chips)
+Seat 3: sclay14 ($114 in chips)
+sclay14: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+sclay14: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: VolkovDmitri (big blind) collected ($2)
+Seat 3: sclay14 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147011624860:  Hold'em Limit ($3/$6 USD) - 2016/01/14 4:34:34 ET
+Table 'Tauntonia' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($126.76 in chips)
+Seat 3: sclay14 ($113 in chips)
+VolkovDmitri: posts small blind $1
+sclay14: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+sclay14: calls $3
+*** FLOP *** [Th 3h 8h]
+sclay14: bets $3
+HAL9QQQ joins the table at seat #4
+VolkovDmitri: calls $3
+*** TURN *** [Th 3h 8h] [9c]
+sclay14: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [Th 3h 8h 9c] [8d]
+sclay14: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+sclay14: shows [Kh 3s] (two pair, Eights and Threes)
+VolkovDmitri: shows [6c 6d] (two pair, Eights and Sixes)
+VolkovDmitri collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Th 3h 8h 9c 8d]
+Seat 1: VolkovDmitri (button) (small blind) showed [6c 6d] and won ($41.50) with two pair, Eights and Sixes
+Seat 3: sclay14 (big blind) showed [Kh 3s] and lost with two pair, Eights and Threes
+
+

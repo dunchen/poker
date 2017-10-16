@@ -1,0 +1,745 @@
+PokerStars Hand #172724656757:  Hold'em Limit ($3/$6 USD) - 2017/07/07 13:16:14 ET
+Table 'Lonnrot' 6-max Seat #4 is the button
+Seat 3: sim5sim5 ($83.52 in chips)
+Seat 4: Titanic001 ($108 in chips)
+Titanic001: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+Titanic001: folds
+Uncalled bet ($2) returned to sim5sim5
+sim5sim5 collected $2 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: sim5sim5 (big blind) collected ($2)
+Seat 4: Titanic001 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #172724632724:  Hold'em Limit ($3/$6 USD) - 2017/07/07 13:15:38 ET
+Table 'Lonnrot' 6-max Seat #3 is the button
+Seat 3: sim5sim5 ($72 in chips)
+Seat 4: Titanic001 ($120 in chips)
+sim5sim5: posts small blind $1
+Titanic001: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+Titanic001: raises $3 to $9
+sim5sim5: calls $3
+*** FLOP *** [5c 9c Ts]
+Titanic001: bets $3
+sim5sim5: calls $3
+*** TURN *** [5c 9c Ts] [8c]
+Titanic001: checks
+sim5sim5: checks
+*** RIVER *** [5c 9c Ts 8c] [7h]
+Titanic001: checks
+sim5sim5: bets $6
+Titanic001: folds
+Uncalled bet ($6) returned to sim5sim5
+sim5sim5 collected $23.52 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [5c 9c Ts 8c 7h]
+Seat 3: sim5sim5 (button) (small blind) collected ($23.52)
+Seat 4: Titanic001 (big blind) folded on the River
+
+
+PokerStars Hand #172724692702:  Hold'em Limit ($3/$6 USD) - 2017/07/07 13:17:07 ET
+Table 'Lonnrot' 6-max Seat #5 is the button
+Seat 4: Titanic001 ($129.50 in chips)
+Seat 5: B_loJkl ($151 in chips)
+B_loJkl: posts small blind $1
+sim5sim5: is sitting out
+Titanic001: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: folds
+Uncalled bet ($2) returned to Titanic001
+Titanic001 collected $2 from pot
+sim5sim5 leaves the table
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: Titanic001 (big blind) collected ($2)
+Seat 5: B_loJkl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #172724660296:  Hold'em Limit ($3/$6 USD) - 2017/07/07 13:16:19 ET
+Table 'Lonnrot' 6-max Seat #3 is the button
+Seat 3: sim5sim5 ($84.52 in chips)
+Seat 4: Titanic001 ($107 in chips)
+sim5sim5: posts small blind $1
+Titanic001: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+Titanic001: calls $3
+*** FLOP *** [2s Ts As]
+Titanic001: checks
+B_loJkl joins the table at seat #5
+sim5sim5: bets $3
+Titanic001: raises $3 to $6
+sim5sim5: calls $3
+*** TURN *** [2s Ts As] [Ad]
+Titanic001: bets $6
+sim5sim5: calls $6
+*** RIVER *** [2s Ts As Ad] [Ac]
+Titanic001: bets $6
+sim5sim5: calls $6
+*** SHOW DOWN ***
+Titanic001: shows [Ah 7s] (four of a kind, Aces)
+sim5sim5: mucks hand
+Titanic001 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2s Ts As Ad Ac]
+Seat 3: sim5sim5 (button) (small blind) mucked
+Seat 4: Titanic001 (big blind) showed [Ah 7s] and won ($47.50) with four of a kind, Aces
+
+
+PokerStars Hand #172724726634:  Hold'em Limit ($3/$6 USD) - 2017/07/07 13:17:57 ET
+Table 'Lonnrot' 6-max Seat #5 is the button
+Seat 4: Titanic001 ($139.14 in chips)
+Seat 5: B_loJkl ($141 in chips)
+B_loJkl: posts small blind $1
+Titanic001: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+Titanic001: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $6 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 4: Titanic001 (big blind) folded before Flop
+Seat 5: B_loJkl (button) (small blind) collected ($6)
+
+
+PokerStars Hand #172724697280:  Hold'em Limit ($3/$6 USD) - 2017/07/07 13:17:14 ET
+Table 'Lonnrot' 6-max Seat #4 is the button
+Seat 4: Titanic001 ($130.50 in chips)
+Seat 5: B_loJkl ($150 in chips)
+Titanic001: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Titanic001: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Ac Tc 4h]
+B_loJkl: checks
+Titanic001: bets $3
+B_loJkl: calls $3
+*** TURN *** [Ac Tc 4h] [2h]
+B_loJkl: checks
+Titanic001: checks
+*** RIVER *** [Ac Tc 4h 2h] [Jc]
+B_loJkl: checks
+Titanic001: checks
+*** SHOW DOWN ***
+B_loJkl: shows [Kd 6c] (high card Ace)
+Titanic001: shows [Qc Js] (a pair of Jacks)
+Titanic001 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ac Tc 4h 2h Jc]
+Seat 4: Titanic001 (button) (small blind) showed [Qc Js] and won ($17.64) with a pair of Jacks
+Seat 5: B_loJkl (big blind) showed [Kd 6c] and lost with high card Ace
+
+
+PokerStars Hand #172724776718:  Hold'em Limit ($3/$6 USD) - 2017/07/07 13:19:11 ET
+Table 'Lonnrot' 6-max Seat #5 is the button
+Seat 4: Titanic001 ($164.16 in chips)
+Seat 5: B_loJkl ($115 in chips)
+B_loJkl: posts small blind $1
+Titanic001: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+Titanic001: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $6 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 4: Titanic001 (big blind) folded before Flop
+Seat 5: B_loJkl (button) (small blind) collected ($6)
+
+
+PokerStars Hand #172724773608:  Hold'em Limit ($3/$6 USD) - 2017/07/07 13:19:06 ET
+Table 'Lonnrot' 6-max Seat #4 is the button
+Seat 4: Titanic001 ($165.16 in chips)
+Seat 5: B_loJkl ($114 in chips)
+Titanic001: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Titanic001: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: Titanic001 (button) (small blind) folded before Flop
+Seat 5: B_loJkl (big blind) collected ($2)
+
+
+PokerStars Hand #172724748730:  Hold'em Limit ($3/$6 USD) - 2017/07/07 13:18:29 ET
+Table 'Lonnrot' 6-max Seat #5 is the button
+Seat 4: Titanic001 ($153.64 in chips)
+Seat 5: B_loJkl ($126 in chips)
+B_loJkl: posts small blind $1
+Titanic001: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+Titanic001: raises $3 to $9
+B_loJkl: calls $3
+*** FLOP *** [5s Qc Jd]
+Titanic001: bets $3
+B_loJkl: calls $3
+*** TURN *** [5s Qc Jd] [4d]
+Titanic001: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to Titanic001
+Titanic001 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [5s Qc Jd 4d]
+Seat 4: Titanic001 (big blind) collected ($23.52)
+Seat 5: B_loJkl (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #172724732790:  Hold'em Limit ($3/$6 USD) - 2017/07/07 13:18:06 ET
+Table 'Lonnrot' 6-max Seat #4 is the button
+Seat 4: Titanic001 ($136.14 in chips)
+Seat 5: B_loJkl ($144 in chips)
+Titanic001: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Titanic001: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [5d Ac 4d]
+B_loJkl: checks
+Titanic001: bets $3
+B_loJkl: raises $3 to $6
+Titanic001: calls $3
+*** TURN *** [5d Ac 4d] [Qd]
+B_loJkl: bets $6
+Titanic001: calls $6
+*** RIVER *** [5d Ac 4d Qd] [Kc]
+B_loJkl: checks
+Titanic001: checks
+*** SHOW DOWN ***
+B_loJkl: shows [9c 4c] (a pair of Fours)
+Titanic001: shows [Js Qc] (a pair of Queens)
+Titanic001 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5d Ac 4d Qd Kc]
+Seat 4: Titanic001 (button) (small blind) showed [Js Qc] and won ($35.50) with a pair of Queens
+Seat 5: B_loJkl (big blind) showed [9c 4c] and lost with a pair of Fours
+
+
+PokerStars Hand #172724780847:  Hold'em Limit ($3/$6 USD) - 2017/07/07 13:19:17 ET
+Table 'Lonnrot' 6-max Seat #4 is the button
+Seat 4: Titanic001 ($161.16 in chips)
+Seat 5: B_loJkl ($118 in chips)
+Titanic001: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Titanic001: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Jd 3d 3s]
+B_loJkl: checks
+Titanic001: bets $3
+B_loJkl: folds
+Uncalled bet ($3) returned to Titanic001
+Titanic001 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jd 3d 3s]
+Seat 4: Titanic001 (button) (small blind) collected ($11.76)
+Seat 5: B_loJkl (big blind) folded on the Flop
+
+
+PokerStars Hand #172724814568:  Hold'em Limit ($3/$6 USD) - 2017/07/07 13:20:06 ET
+Table 'Lonnrot' 6-max Seat #5 is the button
+Seat 4: Titanic001 ($166.92 in chips)
+Seat 5: B_loJkl ($112 in chips)
+B_loJkl: posts small blind $1
+Titanic001: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: folds
+Uncalled bet ($2) returned to Titanic001
+Titanic001 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: Titanic001 (big blind) collected ($2)
+Seat 5: B_loJkl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #172724898574:  Hold'em Limit ($3/$6 USD) - 2017/07/07 13:22:10 ET
+Table 'Lonnrot' 6-max Seat #4 is the button
+Seat 4: Titanic001 ($155.68 in chips)
+Seat 5: B_loJkl ($122.28 in chips)
+Titanic001: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Titanic001: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: Titanic001 (button) (small blind) folded before Flop
+Seat 5: B_loJkl (big blind) collected ($2)
+
+
+PokerStars Hand #172724891020:  Hold'em Limit ($3/$6 USD) - 2017/07/07 13:21:59 ET
+Table 'Lonnrot' 6-max Seat #5 is the button
+Seat 4: Titanic001 ($161.68 in chips)
+Seat 5: B_loJkl ($116.52 in chips)
+B_loJkl: posts small blind $1
+Titanic001: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+Titanic001: calls $3
+*** FLOP *** [Ah 5h 8s]
+Titanic001: checks
+B_loJkl: bets $3
+Titanic001: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ah 5h 8s]
+Seat 4: Titanic001 (big blind) folded on the Flop
+Seat 5: B_loJkl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #172724878479:  Hold'em Limit ($3/$6 USD) - 2017/07/07 13:21:40 ET
+Table 'Lonnrot' 6-max Seat #4 is the button
+Seat 4: Titanic001 ($155.92 in chips)
+Seat 5: B_loJkl ($122.52 in chips)
+Titanic001: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Titanic001: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [6h Tc 4h]
+B_loJkl: checks
+Titanic001: bets $3
+B_loJkl: folds
+Uncalled bet ($3) returned to Titanic001
+Titanic001 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6h Tc 4h]
+Seat 4: Titanic001 (button) (small blind) collected ($11.76)
+Seat 5: B_loJkl (big blind) folded on the Flop
+
+
+PokerStars Hand #172724866794:  Hold'em Limit ($3/$6 USD) - 2017/07/07 13:21:23 ET
+Table 'Lonnrot' 6-max Seat #5 is the button
+Seat 4: Titanic001 ($161.92 in chips)
+Seat 5: B_loJkl ($116.76 in chips)
+B_loJkl: posts small blind $1
+Titanic001: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+Titanic001: calls $3
+*** FLOP *** [Jd 8c 3h]
+Titanic001: checks
+B_loJkl: bets $3
+Titanic001: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jd 8c 3h]
+Seat 4: Titanic001 (big blind) folded on the Flop
+Seat 5: B_loJkl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #172724828325:  Hold'em Limit ($3/$6 USD) - 2017/07/07 13:20:26 ET
+Table 'Lonnrot' 6-max Seat #4 is the button
+Seat 4: Titanic001 ($167.92 in chips)
+Seat 5: B_loJkl ($111 in chips)
+Titanic001: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Titanic001: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [4c Ac 5d]
+B_loJkl: checks
+Titanic001: checks
+*** TURN *** [4c Ac 5d] [9s]
+B_loJkl: checks
+Titanic001: checks
+*** RIVER *** [4c Ac 5d 9s] [Kc]
+B_loJkl: bets $6
+Titanic001: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4c Ac 5d 9s Kc]
+Seat 4: Titanic001 (button) (small blind) folded on the River
+Seat 5: B_loJkl (big blind) collected ($11.76)
+
+
+PokerStars Hand #172724967892:  Hold'em Limit ($3/$6 USD) - 2017/07/07 13:23:51 ET
+Table 'Lonnrot' 6-max Seat #4 is the button
+Seat 4: Titanic001 ($124.68 in chips)
+Seat 5: B_loJkl ($152.78 in chips)
+Titanic001: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Titanic001: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Jc 4d Qs]
+B_loJkl: checks
+Titanic001: bets $3
+B_loJkl: calls $3
+*** TURN *** [Jc 4d Qs] [9s]
+B_loJkl: checks
+Titanic001: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to Titanic001
+Titanic001 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Jc 4d Qs 9s]
+Seat 4: Titanic001 (button) (small blind) collected ($17.64)
+Seat 5: B_loJkl (big blind) folded on the Turn
+
+
+PokerStars Hand #172724902143:  Hold'em Limit ($3/$6 USD) - 2017/07/07 13:22:15 ET
+Table 'Lonnrot' 6-max Seat #5 is the button
+Seat 4: Titanic001 ($154.68 in chips)
+Seat 5: B_loJkl ($123.28 in chips)
+B_loJkl: posts small blind $1
+Titanic001: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+Titanic001: calls $3
+*** FLOP *** [Ts Kd 3s]
+Titanic001: checks
+B_loJkl: bets $3
+Titanic001: raises $3 to $6
+B_loJkl: calls $3
+*** TURN *** [Ts Kd 3s] [Qh]
+Titanic001: bets $6
+B_loJkl: calls $6
+*** RIVER *** [Ts Kd 3s Qh] [6s]
+Titanic001: bets $6
+B_loJkl: raises $6 to $12
+Titanic001: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [3d 6c] (two pair, Sixes and Threes)
+Titanic001: mucks hand
+B_loJkl collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Ts Kd 3s Qh 6s]
+Seat 4: Titanic001 (big blind) mucked
+Seat 5: B_loJkl (button) (small blind) showed [3d 6c] and won ($59.50) with two pair, Sixes and Threes
+
+
+PokerStars Hand #172725016739:  Hold'em Limit ($3/$6 USD) - 2017/07/07 13:25:03 ET
+Table 'Lonnrot' 6-max Seat #5 is the button
+Seat 4: Titanic001 ($133.08 in chips)
+Seat 5: B_loJkl ($143.54 in chips)
+B_loJkl: posts small blind $1
+Titanic001: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+Titanic001: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $6 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 4: Titanic001 (big blind) folded before Flop
+Seat 5: B_loJkl (button) (small blind) collected ($6)
+
+
+PokerStars Hand #172725005864:  Hold'em Limit ($3/$6 USD) - 2017/07/07 13:24:47 ET
+Table 'Lonnrot' 6-max Seat #4 is the button
+Seat 4: Titanic001 ($127.32 in chips)
+Seat 5: B_loJkl ($149.54 in chips)
+Titanic001: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Titanic001: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [3c Jc 8s]
+B_loJkl: checks
+Titanic001: bets $3
+B_loJkl: folds
+Uncalled bet ($3) returned to Titanic001
+Titanic001 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3c Jc 8s]
+Seat 4: Titanic001 (button) (small blind) collected ($11.76)
+Seat 5: B_loJkl (big blind) folded on the Flop
+
+
+PokerStars Hand #172724989003:  Hold'em Limit ($3/$6 USD) - 2017/07/07 13:24:22 ET
+Table 'Lonnrot' 6-max Seat #5 is the button
+Seat 4: Titanic001 ($133.32 in chips)
+Seat 5: B_loJkl ($143.78 in chips)
+B_loJkl: posts small blind $1
+Titanic001: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+Titanic001: calls $3
+*** FLOP *** [Qh 8h 6s]
+Titanic001: checks
+B_loJkl: bets $3
+Titanic001: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qh 8h 6s]
+Seat 4: Titanic001 (big blind) folded on the Flop
+Seat 5: B_loJkl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #172725061048:  Hold'em Limit ($3/$6 USD) - 2017/07/07 13:26:08 ET
+Table 'Lonnrot' 6-max Seat #4 is the button
+Seat 4: Titanic001 ($167.08 in chips)
+Seat 5: B_loJkl ($108.54 in chips)
+Titanic001: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Titanic001: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: Titanic001 (button) (small blind) folded before Flop
+Seat 5: B_loJkl (big blind) collected ($2)
+
+
+PokerStars Hand #172725046421:  Hold'em Limit ($3/$6 USD) - 2017/07/07 13:25:46 ET
+Table 'Lonnrot' 6-max Seat #5 is the button
+Seat 4: Titanic001 ($149.58 in chips)
+Seat 5: B_loJkl ($126.54 in chips)
+B_loJkl: posts small blind $1
+Titanic001: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+Titanic001: calls $3
+*** FLOP *** [4s Jc 6d]
+Titanic001: checks
+B_loJkl: bets $3
+Titanic001: raises $3 to $6
+B_loJkl: calls $3
+*** TURN *** [4s Jc 6d] [7d]
+Titanic001: bets $6
+B_loJkl: calls $6
+*** RIVER *** [4s Jc 6d 7d] [Th]
+Titanic001: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to Titanic001
+Titanic001 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [4s Jc 6d 7d Th]
+Seat 4: Titanic001 (big blind) collected ($35.50)
+Seat 5: B_loJkl (button) (small blind) folded on the River
+
+
+PokerStars Hand #172725043309:  Hold'em Limit ($3/$6 USD) - 2017/07/07 13:25:42 ET
+Table 'Lonnrot' 6-max Seat #4 is the button
+Seat 4: Titanic001 ($150.58 in chips)
+Seat 5: B_loJkl ($125.54 in chips)
+Titanic001: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Titanic001: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: Titanic001 (button) (small blind) folded before Flop
+Seat 5: B_loJkl (big blind) collected ($2)
+
+
+PokerStars Hand #172725037427:  Hold'em Limit ($3/$6 USD) - 2017/07/07 13:25:33 ET
+Table 'Lonnrot' 6-max Seat #5 is the button
+Seat 4: Titanic001 ($153.58 in chips)
+Seat 5: B_loJkl ($122.54 in chips)
+B_loJkl: posts small blind $1
+Titanic001: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+Titanic001: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $6 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 4: Titanic001 (big blind) folded before Flop
+Seat 5: B_loJkl (button) (small blind) collected ($6)
+
+
+PokerStars Hand #172725021034:  Hold'em Limit ($3/$6 USD) - 2017/07/07 13:25:09 ET
+Table 'Lonnrot' 6-max Seat #4 is the button
+Seat 4: Titanic001 ($130.08 in chips)
+Seat 5: B_loJkl ($146.54 in chips)
+Titanic001: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Titanic001: raises $3 to $6
+B_loJkl: raises $3 to $9
+Titanic001: calls $3
+*** FLOP *** [Qc Ad 5h]
+B_loJkl: bets $3
+Titanic001: calls $3
+*** TURN *** [Qc Ad 5h] [2c]
+B_loJkl: bets $6
+Titanic001: calls $6
+*** RIVER *** [Qc Ad 5h 2c] [4c]
+B_loJkl: bets $6
+Titanic001: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [Ts Td] (a pair of Tens)
+Titanic001: shows [6d Ah] (a pair of Aces)
+Titanic001 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Qc Ad 5h 2c 4c]
+Seat 4: Titanic001 (button) (small blind) showed [6d Ah] and won ($47.50) with a pair of Aces
+Seat 5: B_loJkl (big blind) showed [Ts Td] and lost with a pair of Tens
+
+
+PokerStars Hand #172725103307:  Hold'em Limit ($3/$6 USD) - 2017/07/07 13:27:10 ET
+Table 'Lonnrot' 6-max Seat #4 is the button
+Seat 4: Titanic001 ($136.08 in chips)
+Seat 5: B_loJkl ($139.04 in chips)
+Titanic001: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Titanic001: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: Titanic001 (button) (small blind) folded before Flop
+Seat 5: B_loJkl (big blind) collected ($2)
+
+
+PokerStars Hand #172725064156:  Hold'em Limit ($3/$6 USD) - 2017/07/07 13:26:13 ET
+Table 'Lonnrot' 6-max Seat #5 is the button
+Seat 4: Titanic001 ($166.08 in chips)
+Seat 5: B_loJkl ($109.54 in chips)
+B_loJkl: posts small blind $1
+Titanic001: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+Titanic001: raises $3 to $9
+B_loJkl: calls $3
+*** FLOP *** [7h 5s Td]
+Titanic001: bets $3
+B_loJkl: calls $3
+*** TURN *** [7h 5s Td] [3d]
+Titanic001: bets $6
+B_loJkl: raises $6 to $12
+Titanic001: calls $6
+*** RIVER *** [7h 5s Td 3d] [8d]
+Titanic001: checks
+B_loJkl: bets $6
+Titanic001: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [7d Kd] (a flush, King high)
+Titanic001: mucks hand
+B_loJkl collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [7h 5s Td 3d 8d]
+Seat 4: Titanic001 (big blind) mucked
+Seat 5: B_loJkl (button) (small blind) showed [7d Kd] and won ($59.50) with a flush, King high
+
+
+PokerStars Hand #172725106629:  Hold'em Limit ($3/$6 USD) - 2017/07/07 13:27:15 ET
+Table 'Lonnrot' 6-max Seat #5 is the button
+Seat 4: Titanic001 ($135.08 in chips)
+Seat 5: B_loJkl ($140.04 in chips)
+B_loJkl: posts small blind $1
+Titanic001: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+Titanic001: calls $3
+*** FLOP *** [Qh 3d 6d]
+Titanic001: checks
+B_loJkl: bets $3
+Titanic001: calls $3
+*** TURN *** [Qh 3d 6d] [2h]
+Titanic001: checks
+B_loJkl: bets $6
+Titanic001: calls $6
+*** RIVER *** [Qh 3d 6d 2h] [Jc]
+Titanic001: checks
+B_loJkl: checks
+*** SHOW DOWN ***
+Titanic001: shows [8d 2d] (a pair of Deuces)
+B_loJkl: mucks hand
+Titanic001 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qh 3d 6d 2h Jc]
+Seat 4: Titanic001 (big blind) showed [8d 2d] and won ($29.50) with a pair of Deuces
+Seat 5: B_loJkl (button) (small blind) mucked
+
+
+PokerStars Hand #172725139015:  Hold'em Limit ($3/$6 USD) - 2017/07/07 13:28:03 ET
+Table 'Lonnrot' 6-max Seat #4 is the button
+Seat 4: Titanic001 ($149.58 in chips)
+Seat 5: B_loJkl ($125.04 in chips)
+Titanic001: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Titanic001: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [3h 5c Ac]
+B_loJkl: checks
+Titanic001: bets $3
+B_loJkl: raises $3 to $6
+perten joins the table at seat #1
+Titanic001: calls $3
+*** TURN *** [3h 5c Ac] [Ts]
+B_loJkl: bets $6
+SLK500 joins the table at seat #2
+Titanic001: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $23.52 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [3h 5c Ac Ts]
+Seat 4: Titanic001 (button) (small blind) folded on the Turn
+Seat 5: B_loJkl (big blind) collected ($23.52)
+
+
+PokerStars Hand #172730126796:  Hold'em Limit ($3/$6 USD) - 2017/07/07 15:27:04 ET
+Table 'Lonnrot' 6-max Seat #3 is the button
+Seat 3: zsomz ($361.88 in chips)
+Seat 5: Manipulera ($221.81 in chips)
+zsomz: posts small blind $1
+Manipulera: posts big blind $3
+*** HOLE CARDS ***
+zsomz: folds
+Uncalled bet ($2) returned to Manipulera
+Manipulera collected $2 from pot
+Manipulera: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: zsomz (button) (small blind) folded before Flop
+Seat 5: Manipulera (big blind) collected ($2)
+
+

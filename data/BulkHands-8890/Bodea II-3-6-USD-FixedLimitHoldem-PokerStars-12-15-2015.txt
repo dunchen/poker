@@ -1,0 +1,39 @@
+PokerStars Hand #145358347705:  Hold'em Limit ($3/$6 USD) - 2015/12/14 19:14:01 ET
+Table 'Bodea II' 2-max Seat #2 is the button
+Seat 1: elifnur2008 ($83.77 in chips)
+Seat 2: iamfury810 ($56.93 in chips)
+iamfury810: posts small blind $1
+elifnur2008: posts big blind $3
+*** HOLE CARDS ***
+iamfury810: raises $3 to $6
+elifnur2008: calls $3
+*** FLOP *** [Kd 9h Td]
+elifnur2008: checks
+iamfury810: bets $3
+elifnur2008: calls $3
+*** TURN *** [Kd 9h Td] [7h]
+elifnur2008: checks
+iamfury810: bets $6
+elifnur2008: raises $6 to $12
+iamfury810: raises $6 to $18
+elifnur2008: raises $6 to $24
+Betting is capped
+iamfury810: calls $6
+*** RIVER *** [Kd 9h Td 7h] [4d]
+elifnur2008: bets $6
+iamfury810: raises $6 to $12
+elifnur2008: raises $6 to $18
+iamfury810: raises $5.93 to $23.93 and is all-in
+Betting is capped
+elifnur2008: calls $5.93
+*** SHOW DOWN ***
+iamfury810: shows [Ac Ks] (a pair of Kings)
+elifnur2008: shows [Jh 8c] (a straight, Seven to Jack)
+elifnur2008 collected $113.36 from pot
+*** SUMMARY ***
+Total pot $113.86 | Rake $0.50
+Board [Kd 9h Td 7h 4d]
+Seat 1: elifnur2008 (big blind) showed [Jh 8c] and won ($113.36) with a straight, Seven to Jack
+Seat 2: iamfury810 (button) (small blind) showed [Ac Ks] and lost with a pair of Kings
+
+

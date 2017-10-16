@@ -1,0 +1,129 @@
+PokerStars Hand #145410384396:  Hold'em Limit ($3/$6 USD) - 2015/12/15 19:43:03 ET
+Table 'Misam' 6-max Seat #3 is the button
+Seat 3: Oxm0x ($120 in chips)
+Seat 4: AzureCaper ($72 in chips)
+Oxm0x: posts small blind $1
+GoliafUa joins the table at seat #5
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+Oxm0x: raises $3 to $6
+AzureCaper: raises $3 to $9
+Oxm0x: raises $3 to $12
+Betting is capped
+AzureCaper: calls $3
+*** FLOP *** [5s 3h 3d]
+AzureCaper: checks
+Oxm0x: bets $3
+AzureCaper: calls $3
+*** TURN *** [5s 3h 3d] [2c]
+AzureCaper: checks
+Oxm0x: bets $6
+AzureCaper: calls $6
+*** RIVER *** [5s 3h 3d 2c] [8c]
+AzureCaper: checks
+Oxm0x: bets $6
+AzureCaper: calls $6
+*** SHOW DOWN ***
+Oxm0x: shows [9d 9h] (two pair, Nines and Threes)
+AzureCaper: mucks hand
+Oxm0x collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [5s 3h 3d 2c 8c]
+Seat 3: Oxm0x (button) (small blind) showed [9d 9h] and won ($53.50) with two pair, Nines and Threes
+Seat 4: AzureCaper (big blind) mucked
+
+
+PokerStars Hand #145410410081:  Hold'em Limit ($3/$6 USD) - 2015/12/15 19:43:46 ET
+Table 'Misam' 6-max Seat #3 is the button
+Seat 3: Oxm0x ($89.50 in chips)
+Seat 4: AzureCaper ($128.50 in chips)
+Oxm0x: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+Oxm0x: raises $3 to $6
+AzureCaper: folds
+Uncalled bet ($3) returned to Oxm0x
+Oxm0x collected $6 from pot
+Oxm0x: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: Oxm0x (button) (small blind) collected ($6)
+Seat 4: AzureCaper (big blind) folded before Flop
+
+
+PokerStars Hand #145410397834:  Hold'em Limit ($3/$6 USD) - 2015/12/15 19:43:25 ET
+Table 'Misam' 6-max Seat #4 is the button
+Seat 3: Oxm0x ($146.50 in chips)
+Seat 4: AzureCaper ($72 in chips)
+AzureCaper: posts small blind $1
+Oxm0x: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+Oxm0x: raises $3 to $9
+AzureCaper: calls $3
+*** FLOP *** [Jc Qd As]
+Oxm0x: bets $3
+AzureCaper: raises $3 to $6
+Chessnok joins the table at seat #6
+Oxm0x: raises $3 to $9
+AzureCaper: raises $3 to $12
+Betting is capped
+Oxm0x: calls $3
+*** TURN *** [Jc Qd As] [9s]
+Oxm0x: bets $6
+AzureCaper: raises $6 to $12
+Oxm0x: raises $6 to $18
+AzureCaper: raises $6 to $24
+Betting is capped
+Oxm0x: calls $6
+*** RIVER *** [Jc Qd As 9s] [Kh]
+Oxm0x: bets $6
+AzureCaper: raises $6 to $12
+Oxm0x: calls $6
+*** SHOW DOWN ***
+AzureCaper: shows [Kc Td] (a straight, Ten to Ace)
+Oxm0x: mucks hand
+AzureCaper collected $113.50 from pot
+*** SUMMARY ***
+Total pot $114 | Rake $0.50
+Board [Jc Qd As 9s Kh]
+Seat 3: Oxm0x (big blind) mucked
+Seat 4: AzureCaper (button) (small blind) showed [Kc Td] and won ($113.50) with a straight, Ten to Ace
+
+
+PokerStars Hand #145411774780:  Hold'em Limit ($3/$6 USD) - 2015/12/15 20:25:36 ET
+Table 'Misam' 6-max Seat #6 is the button
+Seat 4: AzureCaper ($77.19 in chips)
+Seat 6: Chessnok ($122.28 in chips)
+Chessnok: posts small blind $1
+MellivoraSto: is sitting out
+scorpio04: is sitting out
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+scorpio04 leaves the table
+AzureCaper: calls $3
+*** FLOP *** [5c 3d 7s]
+AzureCaper: checks
+Chessnok: bets $3
+AzureCaper: calls $3
+*** TURN *** [5c 3d 7s] [Qs]
+MellivoraSto leaves the table
+AzureCaper: checks
+Chessnok: bets $6
+AzureCaper: calls $6
+*** RIVER *** [5c 3d 7s Qs] [Th]
+AzureCaper: checks
+Chessnok: bets $6
+AzureCaper: folds
+Uncalled bet ($6) returned to Chessnok
+Chessnok collected $29.50 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5c 3d 7s Qs Th]
+Seat 4: AzureCaper (big blind) folded on the River
+Seat 6: Chessnok (button) (small blind) collected ($29.50)
+
+

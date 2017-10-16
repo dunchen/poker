@@ -1,0 +1,50 @@
+PokerStars Hand #144780697362:  Hold'em Limit ($3/$6 USD) - 2015/12/03 17:43:42 ET
+Table 'Tamriko' 6-max Seat #1 is the button
+Seat 1: mdif ($120 in chips)
+Seat 2: dye111 ($129.64 in chips)
+mdif: posts small blind $1
+dye111: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+SashaYuvelir joins the table at seat #3
+dye111: calls $3
+*** FLOP *** [5d Kh 8h]
+dye111: checks
+mdif: bets $3
+dye111: raises $3 to $6
+mdif: folds
+Uncalled bet ($3) returned to dye111
+dye111 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5d Kh 8h]
+Seat 1: mdif (button) (small blind) folded on the Flop
+Seat 2: dye111 (big blind) collected ($17.64)
+
+
+PokerStars Hand #144780684595:  Hold'em Limit ($3/$6 USD) - 2015/12/03 17:43:27 ET
+Table 'Tamriko' 6-max Seat #2 is the button
+Seat 1: mdif ($120 in chips)
+Seat 2: dye111 ($121 in chips)
+dye111: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+dye111: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [9c Td 8c]
+mdif: checks
+dye111: bets $3
+mdif: calls $3
+*** TURN *** [9c Td 8c] [Kh]
+mdif: checks
+dye111: bets $6
+mdif: folds
+Uncalled bet ($6) returned to dye111
+dye111 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9c Td 8c Kh]
+Seat 1: mdif (big blind) folded on the Turn
+Seat 2: dye111 (button) (small blind) collected ($17.64)
+
+

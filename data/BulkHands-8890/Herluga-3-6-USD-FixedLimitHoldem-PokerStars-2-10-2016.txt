@@ -1,0 +1,47 @@
+PokerStars Hand #148557562313:  Hold'em Limit ($3/$6 USD) - 2016/02/10 9:17:55 ET
+Table 'Herluga' 6-max Seat #1 is the button
+Seat 1: HAL9QQQ ($120 in chips)
+Seat 4: Rmk1500 ($44.74 in chips)
+HAL9QQQ: posts small blind $1
+Rmk1500: posts big blind $3
+*** HOLE CARDS ***
+HAL9QQQ: raises $3 to $6
+Rmk1500: calls $3
+*** FLOP *** [Kd 4h Ad]
+Rmk1500: checks
+HAL9QQQ: bets $3
+Rmk1500: calls $3
+*** TURN *** [Kd 4h Ad] [8s]
+Rmk1500: checks
+HAL9QQQ: checks
+*** RIVER *** [Kd 4h Ad 8s] [3d]
+Rmk1500: checks
+HAL9QQQ: checks
+*** SHOW DOWN ***
+Rmk1500: shows [3c 2c] (a pair of Threes)
+HAL9QQQ: shows [Qc 3s] (a pair of Threes - Ace+King+Queen kicker)
+HAL9QQQ collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kd 4h Ad 8s 3d]
+Seat 1: HAL9QQQ (button) (small blind) showed [Qc 3s] and won ($17.64) with a pair of Threes
+Seat 4: Rmk1500 (big blind) showed [3c 2c] and lost with a pair of Threes
+
+
+PokerStars Hand #148557550719:  Hold'em Limit ($3/$6 USD) - 2016/02/10 9:17:40 ET
+Table 'Herluga' 6-max Seat #4 is the button
+Seat 1: HAL9QQQ ($120 in chips)
+Seat 4: Rmk1500 ($41.74 in chips)
+Rmk1500: posts small blind $1
+HAL9QQQ: posts big blind $3
+*** HOLE CARDS ***
+Rmk1500: raises $3 to $6
+HAL9QQQ: folds
+Uncalled bet ($3) returned to Rmk1500
+Rmk1500 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: HAL9QQQ (big blind) folded before Flop
+Seat 4: Rmk1500 (button) (small blind) collected ($6)
+
+

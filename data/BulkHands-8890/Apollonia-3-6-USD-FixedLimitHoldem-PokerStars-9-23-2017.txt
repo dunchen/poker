@@ -1,0 +1,32 @@
+PokerStars Hand #176003509151:  Hold'em Limit ($3/$6 USD) - 2017/09/23 1:55:07 ET
+Table 'Apollonia' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($169.42 in chips)
+Seat 6: woah_bud ($162.01 in chips)
+VolkovDmitri: posts small blind $1
+woah_bud: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+woah_bud: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [Ts Qh 3s]
+woah_bud: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [Ts Qh 3s] [9s]
+woah_bud: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [Ts Qh 3s 9s] [Js]
+woah_bud: checks
+VolkovDmitri: bets $6
+woah_bud: raises $6 to $12
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+woah_bud: shows [Kh Qs] (a flush, Queen high)
+VolkovDmitri: shows [5d Ks] (a flush, King high)
+VolkovDmitri collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Ts Qh 3s 9s Js]
+Seat 4: VolkovDmitri (button) (small blind) showed [5d Ks] and won ($59.50) with a flush, King high
+Seat 6: woah_bud (big blind) showed [Kh Qs] and lost with a flush, Queen high
+
+

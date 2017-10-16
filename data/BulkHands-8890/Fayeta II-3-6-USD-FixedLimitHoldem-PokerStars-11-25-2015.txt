@@ -1,0 +1,61 @@
+PokerStars Hand #144372166477:  Hold'em Limit ($3/$6 USD) - 2015/11/25 13:56:08 ET
+Table 'Fayeta II' 6-max Seat #2 is the button
+Seat 2: SplashPoints ($11.22 in chips)
+Seat 5: theobell ($126.06 in chips)
+SplashPoints: posts small blind $1
+Airbag999: is sitting out
+theobell: posts big blind $3
+*** HOLE CARDS ***
+SplashPoints: raises $3 to $6
+theobell: raises $3 to $9
+SplashPoints: raises $2.22 to $11.22 and is all-in
+Betting is capped
+theobell: calls $2.22
+*** FLOP *** [4d As 3h]
+Airbag999 leaves the table
+*** TURN *** [4d As 3h] [5s]
+*** RIVER *** [4d As 3h 5s] [Qc]
+*** SHOW DOWN ***
+theobell: shows [Js Qh] (a pair of Queens)
+SplashPoints: shows [Ah Ks] (a pair of Aces)
+SplashPoints collected $21.99 from pot
+*** SUMMARY ***
+Total pot $22.44 | Rake $0.45
+Board [4d As 3h 5s Qc]
+Seat 2: SplashPoints (button) (small blind) showed [Ah Ks] and won ($21.99) with a pair of Aces
+Seat 5: theobell (big blind) showed [Js Qh] and lost with a pair of Queens
+
+
+PokerStars Hand #144372176847:  Hold'em Limit ($3/$6 USD) - 2015/11/25 13:56:23 ET
+Table 'Fayeta II' 6-max Seat #5 is the button
+Seat 2: SplashPoints ($21.99 in chips)
+Seat 5: theobell ($114.84 in chips)
+theobell: posts small blind $1
+SplashPoints: posts big blind $3
+*** HOLE CARDS ***
+theobell: raises $3 to $6
+SplashPoints: calls $3
+*** FLOP *** [2d Ah 8d]
+scorpio04 joins the table at seat #3
+SplashPoints: checks
+theobell: bets $3
+SplashPoints: calls $3
+*** TURN *** [2d Ah 8d] [4d]
+SplashPoints: checks
+theobell: bets $6
+SplashPoints: calls $6
+*** RIVER *** [2d Ah 8d 4d] [Ks]
+SplashPoints: checks
+theobell: bets $6
+SplashPoints: calls $6
+*** SHOW DOWN ***
+theobell: shows [6s Ad] (a pair of Aces)
+SplashPoints: mucks hand
+theobell collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2d Ah 8d 4d Ks]
+Seat 2: SplashPoints (big blind) mucked
+Seat 5: theobell (button) (small blind) showed [6s Ad] and won ($41.50) with a pair of Aces
+
+

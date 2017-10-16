@@ -1,0 +1,31 @@
+PokerStars Hand #162746565446:  Hold'em Limit ($3/$6 USD) - 2016/12/10 20:08:01 ET
+Table 'Philomela' 6-max Seat #1 is the button
+Seat 1: LifeisagameX ($84 in chips)
+Seat 2: Vezunchik_61 ($30 in chips)
+LifeisagameX: posts small blind $1
+Vezunchik_61: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+Vezunchik_61: raises $3 to $9
+LifeisagameX: calls $3
+*** FLOP *** [4c 7h Kd]
+Vezunchik_61: bets $3
+LifeisagameX: calls $3
+*** TURN *** [4c 7h Kd] [6h]
+Vezunchik_61: bets $6
+LifeisagameX: raises $6 to $12
+Vezunchik_61: calls $6
+*** RIVER *** [4c 7h Kd 6h] [Kc]
+Vezunchik_61: bets $6 and is all-in
+LifeisagameX: calls $6
+*** SHOW DOWN ***
+Vezunchik_61: shows [As Qd] (a pair of Kings)
+LifeisagameX: shows [Qh Ks] (three of a kind, Kings)
+LifeisagameX collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [4c 7h Kd 6h Kc]
+Seat 1: LifeisagameX (button) (small blind) showed [Qh Ks] and won ($59.50) with three of a kind, Kings
+Seat 2: Vezunchik_61 (big blind) showed [As Qd] and lost with a pair of Kings
+
+

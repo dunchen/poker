@@ -1,0 +1,31 @@
+PokerStars Hand #147541031748:  Hold'em Limit ($3/$6 USD) - 2016/01/23 11:36:01 ET
+Table 'Magoeba III' 2-max Seat #1 is the button
+Seat 1: REZOLUTION84 ($61 in chips)
+Seat 2: MarkedCard18 ($96 in chips)
+REZOLUTION84: posts small blind $1
+MarkedCard18: posts big blind $3
+*** HOLE CARDS ***
+REZOLUTION84: raises $3 to $6
+MarkedCard18: calls $3
+*** FLOP *** [4c 6d 8s]
+MarkedCard18: checks
+REZOLUTION84: bets $3
+MarkedCard18: raises $3 to $6
+REZOLUTION84: calls $3
+*** TURN *** [4c 6d 8s] [As]
+MarkedCard18: checks
+REZOLUTION84: checks
+*** RIVER *** [4c 6d 8s As] [2c]
+MarkedCard18: bets $6
+REZOLUTION84: calls $6
+*** SHOW DOWN ***
+MarkedCard18: shows [6s Ad] (two pair, Aces and Sixes)
+REZOLUTION84: mucks hand
+MarkedCard18 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [4c 6d 8s As 2c]
+Seat 1: REZOLUTION84 (button) (small blind) mucked
+Seat 2: MarkedCard18 (big blind) showed [6s Ad] and won ($35.50) with two pair, Aces and Sixes
+
+

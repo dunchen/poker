@@ -1,0 +1,123 @@
+PokerStars Hand #175449805465:  Hold'em Limit ($3/$6 USD) - 2017/09/10 6:19:29 ET
+Table 'Marfik II' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($120 in chips)
+Seat 5: igorkabmw ($40 in chips)
+VolkovDmitri: posts small blind $1
+igorkabmw: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+igorkabmw: calls $3
+*** FLOP *** [5s 5c Qd]
+igorkabmw: bets $3
+VolkovDmitri: raises $3 to $6
+igorkabmw: calls $3
+*** TURN *** [5s 5c Qd] [6d]
+igorkabmw: checks
+VolkovDmitri: bets $6
+igorkabmw: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $23.52 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [5s 5c Qd 6d]
+Seat 4: VolkovDmitri (button) (small blind) collected ($23.52)
+Seat 5: igorkabmw (big blind) folded on the Turn
+
+
+PokerStars Hand #175449834028:  Hold'em Limit ($3/$6 USD) - 2017/09/10 6:20:34 ET
+Table 'Marfik II' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($152.02 in chips)
+Seat 5: igorkabmw ($6.84 in chips)
+VolkovDmitri: posts small blind $1
+igorkabmw: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+igorkabmw: raises $0.84 to $6.84 and is all-in
+VolkovDmitri: calls $0.84
+*** FLOP *** [Kh 2h 7s]
+*** TURN *** [Kh 2h 7s] [Kd]
+*** RIVER *** [Kh 2h 7s Kd] [Th]
+*** SHOW DOWN ***
+igorkabmw: shows [6d 6s] (two pair, Kings and Sixes)
+VolkovDmitri: shows [Td 9s] (two pair, Kings and Tens)
+VolkovDmitri collected $13.41 from pot
+*** SUMMARY ***
+Total pot $13.68 | Rake $0.27
+Board [Kh 2h 7s Kd Th]
+Seat 4: VolkovDmitri (button) (small blind) showed [Td 9s] and won ($13.41) with two pair, Kings and Tens
+Seat 5: igorkabmw (big blind) showed [6d 6s] and lost with two pair, Kings and Sixes
+
+
+PokerStars Hand #175449831941:  Hold'em Limit ($3/$6 USD) - 2017/09/10 6:20:29 ET
+Table 'Marfik II' 6-max Seat #5 is the button
+Seat 4: VolkovDmitri ($151.02 in chips)
+Seat 5: igorkabmw ($7.84 in chips)
+igorkabmw: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+igorkabmw: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: VolkovDmitri (big blind) collected ($2)
+Seat 5: igorkabmw (button) (small blind) folded before Flop
+
+
+PokerStars Hand #175449826874:  Hold'em Limit ($3/$6 USD) - 2017/09/10 6:20:18 ET
+Table 'Marfik II' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($155.02 in chips)
+Seat 5: igorkabmw ($4 in chips)
+VolkovDmitri: posts small blind $1
+igorkabmw: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+igorkabmw: calls $1 and is all-in
+Uncalled bet ($2) returned to VolkovDmitri
+*** FLOP *** [Jd 5d 9s]
+*** TURN *** [Jd 5d 9s] [2h]
+*** RIVER *** [Jd 5d 9s 2h] [Ad]
+*** SHOW DOWN ***
+igorkabmw: shows [Th 8h] (high card Ace)
+VolkovDmitri: shows [7c 6h] (high card Ace - lower kicker)
+igorkabmw collected $7.84 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.16
+Board [Jd 5d 9s 2h Ad]
+Seat 4: VolkovDmitri (button) (small blind) showed [7c 6h] and lost with high card Ace
+Seat 5: igorkabmw (big blind) showed [Th 8h] and won ($7.84) with high card Ace
+
+
+PokerStars Hand #175449816552:  Hold'em Limit ($3/$6 USD) - 2017/09/10 6:19:54 ET
+Table 'Marfik II' 6-max Seat #5 is the button
+Seat 4: VolkovDmitri ($131.52 in chips)
+Seat 5: igorkabmw ($28 in chips)
+igorkabmw: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+igorkabmw: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Qs 7h 6h]
+VolkovDmitri: checks
+igorkabmw: bets $3
+VolkovDmitri: raises $3 to $6
+igorkabmw: calls $3
+*** TURN *** [Qs 7h 6h] [8c]
+VolkovDmitri: bets $6
+igorkabmw: calls $6
+*** RIVER *** [Qs 7h 6h 8c] [Ah]
+VolkovDmitri: bets $6
+igorkabmw: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Qh 3h] (a flush, Ace high)
+igorkabmw: mucks hand
+VolkovDmitri collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Qs 7h 6h 8c Ah]
+Seat 4: VolkovDmitri (big blind) showed [Qh 3h] and won ($47.50) with a flush, Ace high
+Seat 5: igorkabmw (button) (small blind) mucked
+
+

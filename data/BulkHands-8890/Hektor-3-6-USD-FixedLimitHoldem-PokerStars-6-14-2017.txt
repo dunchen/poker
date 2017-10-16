@@ -1,0 +1,80 @@
+PokerStars Hand #171749344547:  Hold'em Limit ($3/$6 USD) - 2017/06/13 22:45:21 ET
+Table 'Hektor' 6-max Seat #1 is the button
+Seat 1: LifeisagameX ($84 in chips)
+Seat 3: SUNNY890 ($137.48 in chips)
+LifeisagameX: posts small blind $1
+SUNNY890: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+SUNNY890: calls $3
+*** FLOP *** [5h 4c 2c]
+SUNNY890: bets $3
+B_loJkl joins the table at seat #4
+LifeisagameX: calls $3
+*** TURN *** [5h 4c 2c] [Ts]
+SUNNY890: bets $6
+DismasX joins the table at seat #5
+LifeisagameX: calls $6
+*** RIVER *** [5h 4c 2c Ts] [7c]
+SUNNY890: checks
+LifeisagameX: checks
+*** SHOW DOWN ***
+SUNNY890: shows [Qd 4s] (a pair of Fours)
+LifeisagameX: mucks hand
+SUNNY890 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5h 4c 2c Ts 7c]
+Seat 1: LifeisagameX (button) (small blind) mucked
+Seat 3: SUNNY890 (big blind) showed [Qd 4s] and won ($29.50) with a pair of Fours
+
+
+PokerStars Hand #171749414096:  Hold'em Limit ($3/$6 USD) - 2017/06/13 22:48:54 ET
+Table 'Hektor' 6-max Seat #4 is the button
+Seat 4: B_loJkl ($88 in chips)
+Seat 5: DismasX ($156.55 in chips)
+B_loJkl: posts small blind $1
+DismasX: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+DismasX: raises $3 to $9
+B_loJkl: calls $3
+*** FLOP *** [4c Jh 2c]
+DismasX: bets $3
+B_loJkl: calls $3
+*** TURN *** [4c Jh 2c] [5s]
+DismasX: checks
+B_loJkl: bets $6
+DismasX: calls $6
+*** RIVER *** [4c Jh 2c 5s] [3h]
+DismasX: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+DismasX: shows [Ad Kd] (a straight, Ace to Five)
+B_loJkl: shows [Kh As] (a straight, Ace to Five)
+DismasX collected $23.75 from pot
+B_loJkl collected $23.75 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4c Jh 2c 5s 3h]
+Seat 4: B_loJkl (button) (small blind) showed [Kh As] and won ($23.75) with a straight, Ace to Five
+Seat 5: DismasX (big blind) showed [Ad Kd] and won ($23.75) with a straight, Ace to Five
+
+
+PokerStars Hand #171749423622:  Hold'em Limit ($3/$6 USD) - 2017/06/13 22:49:24 ET
+Table 'Hektor' 6-max Seat #5 is the button
+Seat 4: B_loJkl ($87.75 in chips)
+Seat 5: DismasX ($156.30 in chips)
+DismasX: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+DismasX: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: B_loJkl (big blind) collected ($2)
+Seat 5: DismasX (button) (small blind) folded before Flop
+
+

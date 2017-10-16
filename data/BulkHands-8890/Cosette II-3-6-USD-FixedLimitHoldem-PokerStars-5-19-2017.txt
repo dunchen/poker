@@ -1,0 +1,96 @@
+PokerStars Hand #170632000767:  Hold'em Limit ($3/$6 USD) - 2017/05/19 12:57:47 ET
+Table 'Cosette II' 6-max Seat #1 is the button
+Seat 1: Velbor107 ($300 in chips)
+Seat 2: Z435A791B ($49.79 in chips)
+Velbor107: posts small blind $1
+Z435A791B: posts big blind $3
+*** HOLE CARDS ***
+Velbor107: raises $3 to $6
+Z435A791B: calls $3
+*** FLOP *** [6s Jh Ks]
+Z435A791B: checks
+Velbor107: bets $3
+Z435A791B: calls $3
+*** TURN *** [6s Jh Ks] [5c]
+Z435A791B: checks
+DismasX joins the table at seat #3
+Velbor107: checks
+*** RIVER *** [6s Jh Ks 5c] [8c]
+Z435A791B: bets $6
+Velbor107: calls $6
+*** SHOW DOWN ***
+Z435A791B: shows [6c Qs] (a pair of Sixes)
+Velbor107: mucks hand
+Z435A791B collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6s Jh Ks 5c 8c]
+Seat 1: Velbor107 (button) (small blind) mucked
+Seat 2: Z435A791B (big blind) showed [6c Qs] and won ($29.50) with a pair of Sixes
+
+
+PokerStars Hand #170632594004:  Hold'em Limit ($3/$6 USD) - 2017/05/19 13:12:15 ET
+Table 'Cosette II' 6-max Seat #3 is the button
+Seat 2: Z435A791B ($75.38 in chips)
+Seat 3: DismasX ($139.78 in chips)
+DismasX: posts small blind $1
+VolkovDmitri: is sitting out
+Velbor107: is sitting out
+Z435A791B: posts big blind $3
+*** HOLE CARDS ***
+Velbor107 leaves the table
+DismasX: raises $3 to $6
+Z435A791B: calls $3
+*** FLOP *** [Kh 4h Qh]
+Velbor107 joins the table at seat #4
+Z435A791B: bets $3
+DismasX: calls $3
+*** TURN *** [Kh 4h Qh] [9s]
+Z435A791B: bets $6
+DismasX: calls $6
+*** RIVER *** [Kh 4h Qh 9s] [7d]
+Z435A791B: bets $6
+DismasX: calls $6
+*** SHOW DOWN ***
+Z435A791B: shows [4c 9c] (two pair, Nines and Fours)
+DismasX: mucks hand
+Z435A791B collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Kh 4h Qh 9s 7d]
+Seat 2: Z435A791B (big blind) showed [4c 9c] and won ($41.50) with two pair, Nines and Fours
+Seat 3: DismasX (button) (small blind) mucked
+
+
+PokerStars Hand #170632609574:  Hold'em Limit ($3/$6 USD) - 2017/05/19 13:12:36 ET
+Table 'Cosette II' 6-max Seat #2 is the button
+Seat 2: Z435A791B ($95.88 in chips)
+Seat 3: DismasX ($118.78 in chips)
+Z435A791B: posts small blind $1
+DismasX: posts big blind $3
+*** HOLE CARDS ***
+Z435A791B: calls $2
+DismasX: raises $3 to $6
+VolkovDmitri leaves the table
+Z435A791B: calls $3
+*** FLOP *** [9c 3d Tc]
+DismasX: bets $3
+Z435A791B: calls $3
+*** TURN *** [9c 3d Tc] [5s]
+DismasX: bets $6
+Z435A791B: calls $6
+*** RIVER *** [9c 3d Tc 5s] [6c]
+DismasX: checks
+Z435A791B: bets $6
+DismasX: calls $6
+*** SHOW DOWN ***
+Z435A791B: shows [Kh 5h] (a pair of Fives)
+DismasX: mucks hand
+Z435A791B collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9c 3d Tc 5s 6c]
+Seat 2: Z435A791B (button) (small blind) showed [Kh 5h] and won ($41.50) with a pair of Fives
+Seat 3: DismasX (big blind) mucked
+
+

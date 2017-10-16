@@ -1,0 +1,130 @@
+PokerStars Hand #161977407390:  Hold'em Limit ($3/$6 USD) - 2016/11/26 5:07:08 ET
+Table 'Portlandia' 10-max Seat #10 is the button
+Seat 2: perten ($40.04 in chips)
+Seat 10: MTails ($120 in chips)
+MTails: posts small blind $1
+perten: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+perten: calls $3
+*** FLOP *** [Ts 5d Kd]
+perten: checks
+MTails: bets $3
+perten: folds
+Uncalled bet ($3) returned to MTails
+MTails collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ts 5d Kd]
+Seat 2: perten (big blind) folded on the Flop
+Seat 10: MTails (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #161977433280:  Hold'em Limit ($3/$6 USD) - 2016/11/26 5:08:07 ET
+Table 'Portlandia' 10-max Seat #10 is the button
+Seat 2: perten ($24.58 in chips)
+Seat 10: MTails ($134.22 in chips)
+MTails: posts small blind $1
+perten: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+perten: raises $3 to $9
+MTails: calls $3
+*** FLOP *** [8h As 9d]
+perten: checks
+MTails: bets $3
+perten: calls $3
+*** TURN *** [8h As 9d] [8s]
+perten: checks
+MTails: bets $6
+perten: calls $6
+*** RIVER *** [8h As 9d 8s] [Qh]
+perten: checks
+MTails: checks
+*** SHOW DOWN ***
+perten: shows [Kc Kd] (two pair, Kings and Eights)
+MTails: mucks hand
+perten collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [8h As 9d 8s Qh]
+Seat 2: perten (big blind) showed [Kc Kd] and won ($35.50) with two pair, Kings and Eights
+Seat 10: MTails (button) (small blind) mucked
+
+
+PokerStars Hand #161977430550:  Hold'em Limit ($3/$6 USD) - 2016/11/26 5:08:00 ET
+Table 'Portlandia' 10-max Seat #2 is the button
+Seat 2: perten ($25.58 in chips)
+Seat 10: MTails ($133.22 in chips)
+perten: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+perten: folds
+Uncalled bet ($2) returned to MTails
+MTails collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: perten (button) (small blind) folded before Flop
+Seat 10: MTails (big blind) collected ($2)
+
+
+PokerStars Hand #161977424044:  Hold'em Limit ($3/$6 USD) - 2016/11/26 5:07:45 ET
+Table 'Portlandia' 10-max Seat #10 is the button
+Seat 2: perten ($13.04 in chips)
+Seat 10: MTails ($146.26 in chips)
+MTails: posts small blind $1
+perten: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+perten: calls $3
+*** FLOP *** [Jc Td Ks]
+perten: bets $3
+MTails: calls $3
+*** TURN *** [Jc Td Ks] [7s]
+perten: bets $4.04 and is all-in
+MTails: calls $4.04
+*** RIVER *** [Jc Td Ks 7s] [Tc]
+*** SHOW DOWN ***
+perten: shows [8s Js] (two pair, Jacks and Tens)
+MTails: shows [5s 9c] (a pair of Tens)
+perten collected $25.58 from pot
+*** SUMMARY ***
+Total pot $26.08 | Rake $0.50
+Board [Jc Td Ks 7s Tc]
+Seat 2: perten (big blind) showed [8s Js] and won ($25.58) with two pair, Jacks and Tens
+Seat 10: MTails (button) (small blind) showed [5s 9c] and lost with a pair of Tens
+
+
+PokerStars Hand #161977413850:  Hold'em Limit ($3/$6 USD) - 2016/11/26 5:07:23 ET
+Table 'Portlandia' 10-max Seat #2 is the button
+Seat 2: perten ($34.04 in chips)
+Seat 10: MTails ($125.76 in chips)
+perten: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+perten: raises $3 to $6
+MTails: raises $3 to $9
+perten: raises $3 to $12
+Betting is capped
+MTails: calls $3
+*** FLOP *** [3h Qc 9c]
+MTails: checks
+perten: bets $3
+MTails: calls $3
+*** TURN *** [3h Qc 9c] [7c]
+MTails: checks
+perten: checks
+*** RIVER *** [3h Qc 9c 7c] [Kh]
+MTails: bets $6
+perten: calls $6
+*** SHOW DOWN ***
+MTails: shows [7s 7d] (three of a kind, Sevens)
+perten: mucks hand
+MTails collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [3h Qc 9c 7c Kh]
+Seat 2: perten (button) (small blind) mucked
+Seat 10: MTails (big blind) showed [7s 7d] and won ($41.50) with three of a kind, Sevens
+
+

@@ -1,0 +1,78 @@
+PokerStars Hand #161069228444:  Hold'em Limit ($3/$6 USD) - 2016/11/07 19:19:44 ET
+Table 'Phthia' 6-max Seat #2 is the button
+Seat 1: charlys65 ($125.19 in chips)
+Seat 2: ToDaFelt ($190.40 in chips)
+ToDaFelt: posts small blind $1
+charlys65: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+charlys65: calls $3
+*** FLOP *** [7s 2c 5d]
+charlys65: checks
+ToDaFelt: bets $3
+charlys65: calls $3
+*** TURN *** [7s 2c 5d] [Qh]
+charlys65: checks
+ToDaFelt: bets $6
+charlys65: folds
+Uncalled bet ($6) returned to ToDaFelt
+charlys65 leaves the table
+ToDaFelt collected $17.64 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7s 2c 5d Qh]
+Seat 1: charlys65 (big blind) folded on the Turn
+Seat 2: ToDaFelt (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #161069224122:  Hold'em Limit ($3/$6 USD) - 2016/11/07 19:19:37 ET
+Table 'Phthia' 6-max Seat #1 is the button
+Seat 1: charlys65 ($122.19 in chips)
+Seat 2: ToDaFelt ($193.40 in chips)
+charlys65: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+charlys65: raises $3 to $6
+ToDaFelt: folds
+Uncalled bet ($3) returned to charlys65
+charlys65 collected $6 from pot
+charlys65: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: charlys65 (button) (small blind) collected ($6)
+Seat 2: ToDaFelt (big blind) folded before Flop
+
+
+PokerStars Hand #161069206471:  Hold'em Limit ($3/$6 USD) - 2016/11/07 19:19:09 ET
+Table 'Phthia' 6-max Seat #2 is the button
+Seat 1: charlys65 ($143.19 in chips)
+Seat 2: ToDaFelt ($172.90 in chips)
+ToDaFelt: posts small blind $1
+charlys65: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+charlys65: calls $3
+*** FLOP *** [8d 6d 2d]
+charlys65: checks
+ToDaFelt: bets $3
+charlys65: calls $3
+*** TURN *** [8d 6d 2d] [9c]
+charlys65: checks
+ToDaFelt: bets $6
+charlys65: calls $6
+*** RIVER *** [8d 6d 2d 9c] [2s]
+charlys65: checks
+ToDaFelt: bets $6
+charlys65: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [Ad 7d] (a flush, Ace high)
+charlys65: mucks hand
+ToDaFelt collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [8d 6d 2d 9c 2s]
+Seat 1: charlys65 (big blind) mucked
+Seat 2: ToDaFelt (button) (small blind) showed [Ad 7d] and won ($41.50) with a flush, Ace high
+
+

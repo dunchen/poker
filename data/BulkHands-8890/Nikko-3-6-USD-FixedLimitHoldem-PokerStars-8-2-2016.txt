@@ -1,0 +1,33 @@
+PokerStars Hand #156757169697:  Hold'em Limit ($3/$6 USD) - 2016/08/02 4:12:28 ET
+Table 'Nikko' 6-max Seat #1 is the button
+Seat 1: hookonhook ($161.88 in chips)
+Seat 3: tje777 ($166.08 in chips)
+hookonhook: posts small blind $1
+Punkyfee: is sitting out
+tje777: posts big blind $3
+*** HOLE CARDS ***
+hookonhook: raises $3 to $6
+tje777: calls $3
+*** FLOP *** [5h Kd 7h]
+Punkyfee leaves the table
+tje777: checks
+hookonhook: bets $3
+tje777: calls $3
+*** TURN *** [5h Kd 7h] [9h]
+tje777: checks
+hookonhook: checks
+*** RIVER *** [5h Kd 7h 9h] [Ad]
+tje777: checks
+hookonhook: bets $6
+tje777: calls $6
+*** SHOW DOWN ***
+hookonhook: shows [6c 4h] (high card Ace)
+tje777: shows [Th 5c] (a pair of Fives)
+tje777 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5h Kd 7h 9h Ad]
+Seat 1: hookonhook (button) (small blind) showed [6c 4h] and lost with high card Ace
+Seat 3: tje777 (big blind) showed [Th 5c] and won ($29.50) with a pair of Fives
+
+

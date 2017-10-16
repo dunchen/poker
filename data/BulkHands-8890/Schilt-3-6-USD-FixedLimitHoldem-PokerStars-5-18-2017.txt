@@ -1,0 +1,56 @@
+PokerStars Hand #170586230698:  Hold'em Limit ($3/$6 USD) - 2017/05/18 12:32:27 ET
+Table 'Schilt' 6-max Seat #4 is the button
+Seat 2: Capone_TS ($111 in chips)
+Seat 4: Agrotait ($92.50 in chips)
+Agrotait: posts small blind $1
+Capone_TS: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+Capone_TS: calls $3
+*** FLOP *** [Kh 4h Ac]
+Capone_TS: checks
+Agrotait: bets $3
+Capone_TS: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $11.76 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kh 4h Ac]
+Seat 2: Capone_TS (big blind) folded on the Flop
+Seat 4: Agrotait (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #170586363658:  Hold'em Limit ($3/$6 USD) - 2017/05/18 12:35:38 ET
+Table 'Schilt' 6-max Seat #3 is the button
+Seat 2: Capone_TS ($114.17 in chips)
+Seat 3: vestimokrec ($113.53 in chips)
+vestimokrec: posts small blind $1
+Agrotait: is sitting out
+Capone_TS: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+Capone_TS: raises $3 to $9
+vestimokrec: calls $3
+*** FLOP *** [Tc 6h 9c]
+Capone_TS: bets $3
+Agrotait leaves the table
+vestimokrec: calls $3
+*** TURN *** [Tc 6h 9c] [7s]
+Capone_TS: bets $6
+vestimokrec: calls $6
+*** RIVER *** [Tc 6h 9c 7s] [3s]
+Capone_TS: bets $6
+vestimokrec: raises $6 to $12
+Capone_TS: calls $6
+*** SHOW DOWN ***
+vestimokrec: shows [8s Jc] (a straight, Seven to Jack)
+Capone_TS: mucks hand
+vestimokrec collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Tc 6h 9c 7s 3s]
+Seat 2: Capone_TS (big blind) mucked
+Seat 3: vestimokrec (button) (small blind) showed [8s Jc] and won ($59.50) with a straight, Seven to Jack
+
+

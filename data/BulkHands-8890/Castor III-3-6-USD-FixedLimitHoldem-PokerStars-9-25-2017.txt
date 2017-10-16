@@ -1,0 +1,84 @@
+PokerStars Hand #176106356302:  Hold'em Limit ($3/$6 USD) - 2017/09/25 12:04:43 ET
+Table 'Castor III' 6-max Seat #4 is the button
+Seat 3: Ag3r0n ($72 in chips)
+Seat 4: getfood ($49 in chips)
+getfood: posts small blind $1
+Ag3r0n: posts big blind $3
+*** HOLE CARDS ***
+getfood: folds
+Uncalled bet ($2) returned to Ag3r0n
+Ag3r0n collected $2 from pot
+Ag3r0n: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: Ag3r0n (big blind) collected ($2)
+Seat 4: getfood (button) (small blind) folded before Flop
+
+
+PokerStars Hand #176106365910:  Hold'em Limit ($3/$6 USD) - 2017/09/25 12:04:56 ET
+Table 'Castor III' 6-max Seat #4 is the button
+Seat 3: Ag3r0n ($72 in chips)
+Seat 4: getfood ($49 in chips)
+getfood: posts small blind $1
+Ag3r0n: posts big blind $3
+*** HOLE CARDS ***
+getfood: raises $3 to $6
+Ag3r0n: raises $3 to $9
+getfood: raises $3 to $12
+Betting is capped
+Ag3r0n: calls $3
+*** FLOP *** [5s 2c Td]
+Ag3r0n: checks
+getfood: bets $3
+Ag3r0n: raises $3 to $6
+getfood: raises $3 to $9
+Ag3r0n: raises $3 to $12
+Betting is capped
+getfood: calls $3
+*** TURN *** [5s 2c Td] [8d]
+Ag3r0n: bets $6
+getfood: calls $6
+*** RIVER *** [5s 2c Td 8d] [Qs]
+Ag3r0n: bets $6
+getfood: folds
+Uncalled bet ($6) returned to Ag3r0n
+Ag3r0n collected $59.50 from pot
+Ag3r0n: doesn't show hand
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [5s 2c Td 8d Qs]
+Seat 3: Ag3r0n (big blind) collected ($59.50)
+Seat 4: getfood (button) (small blind) folded on the River
+
+
+PokerStars Hand #176106406270:  Hold'em Limit ($3/$6 USD) - 2017/09/25 12:05:52 ET
+Table 'Castor III' 6-max Seat #4 is the button
+Seat 3: Ag3r0n ($100.50 in chips)
+Seat 4: getfood ($20 in chips)
+getfood: posts small blind $1
+Ag3r0n: posts big blind $3
+*** HOLE CARDS ***
+getfood: raises $3 to $6
+Ag3r0n: calls $3
+*** FLOP *** [3h Kc 6s]
+Ag3r0n: checks
+getfood: bets $3
+Ag3r0n: calls $3
+*** TURN *** [3h Kc 6s] [4h]
+Ag3r0n: checks
+getfood: bets $6
+Ag3r0n: raises $6 to $12
+getfood: calls $5 and is all-in
+Uncalled bet ($1) returned to Ag3r0n
+*** RIVER *** [3h Kc 6s 4h] [7s]
+*** SHOW DOWN ***
+Ag3r0n: shows [Ks 7h] (two pair, Kings and Sevens)
+getfood: shows [4c Ah] (a pair of Fours)
+Ag3r0n collected $39.50 from pot
+*** SUMMARY ***
+Total pot $40 | Rake $0.50
+Board [3h Kc 6s 4h 7s]
+Seat 3: Ag3r0n (big blind) showed [Ks 7h] and won ($39.50) with two pair, Kings and Sevens
+Seat 4: getfood (button) (small blind) showed [4c Ah] and lost with a pair of Fours
+
+

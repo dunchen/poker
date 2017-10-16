@@ -1,0 +1,104 @@
+PokerStars Hand #176823435537:  Hold'em Limit ($3/$6 USD) - 2017/10/12 13:12:30 ET
+Table 'Lohja' 6-max Seat #1 is the button
+Seat 1: Fantomet ($185 in chips)
+Seat 2: BelSv ($81 in chips)
+Fantomet: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+Fantomet: raises $3 to $6
+BelSv: folds
+Uncalled bet ($3) returned to Fantomet
+Fantomet collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: Fantomet (button) (small blind) collected ($6)
+Seat 2: BelSv (big blind) folded before Flop
+
+
+PokerStars Hand #176823441621:  Hold'em Limit ($3/$6 USD) - 2017/10/12 13:12:38 ET
+Table 'Lohja' 6-max Seat #2 is the button
+Seat 1: Fantomet ($188 in chips)
+Seat 2: BelSv ($78 in chips)
+BelSv: posts small blind $1
+Fantomet: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec joins the table at seat #3
+BelSv: raises $3 to $6
+Fantomet: raises $3 to $9
+Agrotait leaves the table
+BelSv: calls $3
+*** FLOP *** [Kd Ah 2d]
+Fantomet: checks
+BelSv: checks
+*** TURN *** [Kd Ah 2d] [Js]
+Fantomet: bets $6
+BelSv: calls $6
+*** RIVER *** [Kd Ah 2d Js] [7s]
+Fantomet: bets $6
+BelSv: calls $6
+*** SHOW DOWN ***
+Fantomet: shows [As 5c] (a pair of Aces)
+BelSv: mucks hand
+Fantomet collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Kd Ah 2d Js 7s]
+Seat 1: Fantomet (big blind) showed [As 5c] and won ($41.50) with a pair of Aces
+Seat 2: BelSv (button) (small blind) mucked
+
+
+PokerStars Hand #176823457445:  Hold'em Limit ($3/$6 USD) - 2017/10/12 13:13:00 ET
+Table 'Lohja' 6-max Seat #1 is the button
+Seat 1: Fantomet ($208.50 in chips)
+Seat 2: BelSv ($78 in chips)
+Fantomet: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+Fantomet: raises $3 to $6
+BelSv: calls $3
+*** FLOP *** [5h 8d 5c]
+BelSv: checks
+Fantomet: bets $3
+BelSv: folds
+Uncalled bet ($3) returned to Fantomet
+Fantomet collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5h 8d 5c]
+Seat 1: Fantomet (button) (small blind) collected ($11.76)
+Seat 2: BelSv (big blind) folded on the Flop
+
+
+PokerStars Hand #176823531843:  Hold'em Limit ($3/$6 USD) - 2017/10/12 13:14:41 ET
+Table 'Lohja' 6-max Seat #3 is the button
+Seat 2: BelSv ($78 in chips)
+Seat 3: vestimokrec ($121.10 in chips)
+vestimokrec: posts small blind $1
+Fantomet: is sitting out
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+Fantomet leaves the table
+BelSv: calls $3
+*** FLOP *** [2h Ts Tc]
+BelSv: checks
+vestimokrec: bets $3
+BelSv: raises $3 to $6
+vestimokrec: calls $3
+*** TURN *** [2h Ts Tc] [9d]
+BelSv: bets $6
+vestimokrec: calls $6
+*** RIVER *** [2h Ts Tc 9d] [3h]
+BelSv: bets $6
+vestimokrec: calls $6
+*** SHOW DOWN ***
+BelSv: shows [Jh 6h] (a pair of Tens)
+vestimokrec: shows [Ah 3c] (two pair, Tens and Threes)
+vestimokrec collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2h Ts Tc 9d 3h]
+Seat 2: BelSv (big blind) showed [Jh 6h] and lost with a pair of Tens
+Seat 3: vestimokrec (button) (small blind) showed [Ah 3c] and won ($47.50) with two pair, Tens and Threes
+
+

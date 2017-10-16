@@ -1,0 +1,37 @@
+PokerStars Hand #151457697705:  Hold'em Limit ($3/$6 USD) - 2016/04/05 5:03:30 ET
+Table 'Helffrich' 6-max Seat #6 is the button
+Seat 4: Bastable86 ($151.47 in chips)
+Seat 6: treeleaves27 ($139.31 in chips)
+treeleaves27: posts small blind $1
+ABATAPP: is sitting out
+ABATAPP leaves the table
+Bastable86: posts big blind $3
+*** HOLE CARDS ***
+treeleaves27: raises $3 to $6
+JACKan_11 joins the table at seat #3
+Bastable86: raises $3 to $9
+treeleaves27: calls $3
+*** FLOP *** [7c 7d Kd]
+Bastable86: checks
+treeleaves27: bets $3
+Bastable86: calls $3
+*** TURN *** [7c 7d Kd] [7h]
+Bastable86: checks
+ABATAPP joins the table at seat #5
+treeleaves27: checks
+*** RIVER *** [7c 7d Kd 7h] [5h]
+Bastable86: checks
+treeleaves27: bets $6
+Bastable86: raises $6 to $12
+treeleaves27: calls $6
+*** SHOW DOWN ***
+Bastable86: shows [4s 3s] (three of a kind, Sevens)
+treeleaves27: shows [Kc 2h] (a full house, Sevens full of Kings)
+treeleaves27 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7c 7d Kd 7h 5h]
+Seat 4: Bastable86 (big blind) showed [4s 3s] and lost with three of a kind, Sevens
+Seat 6: treeleaves27 (button) (small blind) showed [Kc 2h] and won ($47.50) with a full house, Sevens full of Kings
+
+

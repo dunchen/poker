@@ -1,0 +1,127 @@
+PokerStars Hand #148878721504:  Hold'em Limit ($3/$6 USD) - 2016/02/15 20:20:52 ET
+Table 'Alioth' 6-max Seat #2 is the button
+Seat 1: Zubasa07 ($499 in chips)
+Seat 2: Snuffymo ($121 in chips)
+Snuffymo: posts small blind $1
+Zubasa07: posts big blind $3
+*** HOLE CARDS ***
+Snuffymo: raises $3 to $6
+Zubasa07: calls $3
+*** FLOP *** [6c 5h Tc]
+Zubasa07: checks
+Snuffymo: checks
+*** TURN *** [6c 5h Tc] [2h]
+Zubasa07: bets $6
+Snuffymo: folds
+Uncalled bet ($6) returned to Zubasa07
+Zubasa07 collected $11.76 from pot
+Zubasa07: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6c 5h Tc 2h]
+Seat 1: Zubasa07 (big blind) collected ($11.76)
+Seat 2: Snuffymo (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #148880752237:  Hold'em Limit ($3/$6 USD) - 2016/02/15 21:28:44 ET
+Table 'Alioth' 6-max Seat #1 is the button
+Seat 1: gracetime ($50 in chips)
+Seat 2: BelSv ($78 in chips)
+gracetime: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+gracetime: raises $3 to $6
+BelSv: calls $3
+*** FLOP *** [Jd Js 2h]
+BelSv: checks
+gracetime: bets $3
+BelSv: folds
+Uncalled bet ($3) returned to gracetime
+gracetime collected $11.76 from pot
+gracetime: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jd Js 2h]
+Seat 1: gracetime (button) (small blind) collected ($11.76)
+Seat 2: BelSv (big blind) folded on the Flop
+
+
+PokerStars Hand #148880749954:  Hold'em Limit ($3/$6 USD) - 2016/02/15 21:28:39 ET
+Table 'Alioth' 6-max Seat #2 is the button
+Seat 1: gracetime ($49 in chips)
+Seat 2: BelSv ($79 in chips)
+BelSv: posts small blind $1
+gracetime: posts big blind $3
+*** HOLE CARDS ***
+BelSv: folds
+Uncalled bet ($2) returned to gracetime
+gracetime collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: gracetime (big blind) collected ($2)
+Seat 2: BelSv (button) (small blind) folded before Flop
+
+
+PokerStars Hand #148882886280:  Hold'em Limit ($3/$6 USD) - 2016/02/15 22:59:56 ET
+Table 'Alioth' 6-max Seat #1 is the button
+Seat 1: Velbor107 ($297 in chips)
+Seat 3: edyro711 ($218.64 in chips)
+Velbor107: posts small blind $1
+edyro711: posts big blind $3
+*** HOLE CARDS ***
+Velbor107: raises $3 to $6
+edyro711: raises $3 to $9
+Velbor107: calls $3
+*** FLOP *** [3h Jh Ks]
+edyro711: bets $3
+Velbor107: calls $3
+*** TURN *** [3h Jh Ks] [8c]
+edyro711: bets $6
+Velbor107: calls $6
+*** RIVER *** [3h Jh Ks 8c] [5d]
+edyro711: bets $6
+Velbor107: calls $6
+*** SHOW DOWN ***
+edyro711: shows [Kc Jd] (two pair, Kings and Jacks)
+carmello774 joins the table at seat #4
+Velbor107: mucks hand
+edyro711 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3h Jh Ks 8c 5d]
+Seat 1: Velbor107 (button) (small blind) mucked
+Seat 3: edyro711 (big blind) showed [Kc Jd] and won ($47.50) with two pair, Kings and Jacks
+
+
+PokerStars Hand #148882925309:  Hold'em Limit ($3/$6 USD) - 2016/02/15 23:01:57 ET
+Table 'Alioth' 6-max Seat #1 is the button
+Seat 1: Velbor107 ($276.61 in chips)
+Seat 5: aless284 ($123.46 in chips)
+Velbor107: posts small blind $1
+aless284: posts big blind $3
+*** HOLE CARDS ***
+Velbor107: raises $3 to $6
+aless284: calls $3
+*** FLOP *** [6c 7d As]
+aless284: checks
+Velbor107: bets $3
+aless284: raises $3 to $6
+Velbor107: calls $3
+*** TURN *** [6c 7d As] [2s]
+aless284: bets $6
+Velbor107: calls $6
+*** RIVER *** [6c 7d As 2s] [7h]
+aless284: bets $6
+Velbor107: raises $6 to $12
+aless284: calls $6
+*** SHOW DOWN ***
+Velbor107: shows [Ts 7c] (three of a kind, Sevens)
+aless284: mucks hand
+Velbor107 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [6c 7d As 2s 7h]
+Seat 1: Velbor107 (button) (small blind) showed [Ts 7c] and won ($59.50) with three of a kind, Sevens
+Seat 5: aless284 (big blind) mucked
+
+

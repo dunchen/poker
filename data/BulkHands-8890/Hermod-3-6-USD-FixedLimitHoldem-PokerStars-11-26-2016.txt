@@ -1,0 +1,122 @@
+PokerStars Hand #161977581419:  Hold'em Limit ($3/$6 USD) - 2016/11/26 5:13:47 ET
+Table 'Hermod' 6-max Seat #4 is the button
+Seat 4: Agrotait ($84.52 in chips)
+Seat 6: MTails ($136.02 in chips)
+Agrotait: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [Th Tc 4c]
+MTails: checks
+Agrotait: bets $3
+MTails: calls $3
+*** TURN *** [Th Tc 4c] [As]
+MTails: checks
+Agrotait: checks
+*** RIVER *** [Th Tc 4c As] [5s]
+MTails: checks
+Agrotait: checks
+*** SHOW DOWN ***
+MTails: shows [9h Qh] (a pair of Tens)
+Agrotait: mucks hand
+MTails collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Th Tc 4c As 5s]
+Seat 4: Agrotait (button) (small blind) mucked
+Seat 6: MTails (big blind) showed [9h Qh] and won ($17.64) with a pair of Tens
+
+
+PokerStars Hand #161977577352:  Hold'em Limit ($3/$6 USD) - 2016/11/26 5:13:38 ET
+Table 'Hermod' 6-max Seat #6 is the button
+Seat 4: Agrotait ($83.52 in chips)
+Seat 6: MTails ($137.02 in chips)
+MTails: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+MTails: folds
+Uncalled bet ($2) returned to Agrotait
+Agrotait collected $2 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: Agrotait (big blind) collected ($2)
+Seat 6: MTails (button) (small blind) folded before Flop
+
+
+PokerStars Hand #161977563377:  Hold'em Limit ($3/$6 USD) - 2016/11/26 5:13:07 ET
+Table 'Hermod' 6-max Seat #4 is the button
+Seat 4: Agrotait ($72 in chips)
+Seat 6: MTails ($149.02 in chips)
+Agrotait: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [7s Qs 2d]
+MTails: checks
+Agrotait: checks
+*** TURN *** [7s Qs 2d] [8s]
+MTails: bets $6
+Agrotait: calls $6
+*** RIVER *** [7s Qs 2d 8s] [Ts]
+MTails: checks
+Agrotait: checks
+*** SHOW DOWN ***
+MTails: shows [Kd 8h] (a pair of Eights)
+Agrotait: shows [Ah 8d] (a pair of Eights - Ace kicker)
+Agrotait collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [7s Qs 2d 8s Ts]
+Seat 4: Agrotait (button) (small blind) showed [Ah 8d] and won ($23.52) with a pair of Eights
+Seat 6: MTails (big blind) showed [Kd 8h] and lost with a pair of Eights
+
+
+PokerStars Hand #161984065914:  Hold'em Limit ($3/$6 USD) - 2016/11/26 8:35:17 ET
+Table 'Hermod' 6-max Seat #3 is the button
+Seat 3: verde7 ($60 in chips)
+Seat 4: MTails ($120 in chips)
+verde7: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+verde7: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [2s 7s 4h]
+MTails: checks
+verde7: bets $3
+MTails: calls $3
+*** TURN *** [2s 7s 4h] [8s]
+ToDaFelt joins the table at seat #5
+MTails: checks
+verde7: bets $6
+MTails: folds
+Uncalled bet ($6) returned to verde7
+verde7 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2s 7s 4h 8s]
+Seat 3: verde7 (button) (small blind) collected ($17.64)
+Seat 4: MTails (big blind) folded on the Turn
+
+
+PokerStars Hand #161984113096:  Hold'em Limit ($3/$6 USD) - 2016/11/26 8:36:32 ET
+Table 'Hermod' 6-max Seat #3 is the button
+Seat 3: verde7 ($82.74 in chips)
+Seat 5: ToDaFelt ($99 in chips)
+verde7: posts small blind $1
+MTails: is sitting out
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+MTails leaves the table
+verde7: folds
+Uncalled bet ($2) returned to ToDaFelt
+ToDaFelt collected $2 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: verde7 (button) (small blind) folded before Flop
+Seat 5: ToDaFelt (big blind) collected ($2)
+
+

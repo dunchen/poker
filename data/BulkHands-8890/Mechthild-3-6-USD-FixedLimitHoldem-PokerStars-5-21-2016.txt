@@ -1,0 +1,33 @@
+PokerStars Hand #153623982482:  Hold'em Limit ($3/$6 USD) - 2016/05/21 6:00:13 ET
+Table 'Mechthild' 10-max Seat #1 is the button
+Seat 1: Ag3r0n ($72 in chips)
+Seat 2: SeanPeary ($72 in chips)
+Ag3r0n: posts small blind $1
+SeanPeary: posts big blind $3
+*** HOLE CARDS ***
+Ag3r0n: raises $3 to $6
+SeanPeary: calls $3
+*** FLOP *** [9s 5h Ac]
+belik555 joins the table at seat #3
+SeanPeary: checks
+Ag3r0n: bets $3
+SeanPeary: calls $3
+*** TURN *** [9s 5h Ac] [Qc]
+SeanPeary: checks
+Ag3r0n: bets $6
+SeanPeary: calls $6
+*** RIVER *** [9s 5h Ac Qc] [3s]
+SeanPeary: checks
+Ag3r0n: bets $6
+SeanPeary: calls $6
+*** SHOW DOWN ***
+Ag3r0n: shows [Jc Qh] (a pair of Queens)
+SeanPeary: mucks hand
+Ag3r0n collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9s 5h Ac Qc 3s]
+Seat 1: Ag3r0n (button) (small blind) showed [Jc Qh] and won ($41.50) with a pair of Queens
+Seat 2: SeanPeary (big blind) mucked
+
+

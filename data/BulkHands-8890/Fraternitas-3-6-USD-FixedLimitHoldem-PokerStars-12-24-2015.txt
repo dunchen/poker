@@ -1,0 +1,98 @@
+PokerStars Hand #145845355828:  Hold'em Limit ($3/$6 USD) - 2015/12/24 9:25:39 ET
+Table 'Fraternitas' 6-max Seat #4 is the button
+Seat 1: fluit83 ($47 in chips)
+Seat 4: Actionni13 ($151 in chips)
+Actionni13: posts small blind $1
+fluit83: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+fluit83: calls $3
+*** FLOP *** [5h 2s 5s]
+fluit83: checks
+Actionni13: bets $3
+fluit83: calls $3
+*** TURN *** [5h 2s 5s] [9h]
+fluit83: checks
+Actionni13: bets $6
+fluit83: raises $6 to $12
+DirtyDouble2 joins the table at seat #6
+Actionni13: calls $6
+*** RIVER *** [5h 2s 5s 9h] [6d]
+fluit83: bets $6
+Actionni13: calls $6
+*** SHOW DOWN ***
+fluit83: shows [5d Ac] (three of a kind, Fives)
+Actionni13: mucks hand
+fluit83 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [5h 2s 5s 9h 6d]
+Seat 1: fluit83 (big blind) showed [5d Ac] and won ($53.50) with three of a kind, Fives
+Seat 4: Actionni13 (button) (small blind) mucked
+
+
+PokerStars Hand #145845383493:  Hold'em Limit ($3/$6 USD) - 2015/12/24 9:26:18 ET
+Table 'Fraternitas' 6-max Seat #1 is the button
+Seat 1: fluit83 ($73.50 in chips)
+Seat 4: Actionni13 ($150 in chips)
+fluit83: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+fluit83: calls $2
+Actionni13: checks
+*** FLOP *** [Kc 6h 6c]
+Actionni13: checks
+fluit83: checks
+*** TURN *** [Kc 6h 6c] [8h]
+Actionni13: checks
+fluit83: checks
+*** RIVER *** [Kc 6h 6c 8h] [Kd]
+Actionni13: checks
+fluit83: checks
+*** SHOW DOWN ***
+Actionni13: shows [5c Jd] (two pair, Kings and Sixes)
+fluit83: mucks hand
+Actionni13 collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Kc 6h 6c 8h Kd]
+Seat 1: fluit83 (button) (small blind) mucked
+Seat 4: Actionni13 (big blind) showed [5c Jd] and won ($5.88) with two pair, Kings and Sixes
+
+
+PokerStars Hand #145846703923:  Hold'em Limit ($3/$6 USD) - 2015/12/24 9:56:36 ET
+Table 'Fraternitas' 6-max Seat #3 is the button
+Seat 2: MisterSnrub ($117.27 in chips)
+Seat 3: ManicSmokey ($127.53 in chips)
+ManicSmokey: posts small blind $1
+LukaSteel: is sitting out
+RockKillerTY: is sitting out
+MisterSnrub: posts big blind $3
+*** HOLE CARDS ***
+RockKillerTY leaves the table
+LukaSteel leaves the table
+ManicSmokey: raises $3 to $6
+MisterSnrub: calls $3
+*** FLOP *** [Jh 4d 4s]
+MisterSnrub: checks
+ManicSmokey: bets $3
+MisterSnrub: calls $3
+*** TURN *** [Jh 4d 4s] [Js]
+MisterSnrub: checks
+ManicSmokey: bets $6
+MisterSnrub: calls $6
+*** RIVER *** [Jh 4d 4s Js] [Kd]
+MisterSnrub: bets $6
+ManicSmokey: raises $6 to $12
+MisterSnrub: calls $6
+*** SHOW DOWN ***
+ManicSmokey: shows [Ad Jd] (a full house, Jacks full of Fours)
+MisterSnrub: mucks hand
+ManicSmokey collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Jh 4d 4s Js Kd]
+Seat 2: MisterSnrub (big blind) mucked
+Seat 3: ManicSmokey (button) (small blind) showed [Ad Jd] and won ($53.50) with a full house, Jacks full of Fours
+
+

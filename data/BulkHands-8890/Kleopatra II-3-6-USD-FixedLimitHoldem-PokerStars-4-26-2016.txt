@@ -1,0 +1,59 @@
+PokerStars Hand #152464132284:  Hold'em Limit ($3/$6 USD) - 2016/04/26 6:30:25 ET
+Table 'Kleopatra II' 6-max Seat #1 is the button
+Seat 1: Ale4o ($92.74 in chips)
+Seat 5: glottis88 ($37.51 in chips)
+Ale4o: posts small blind $1
+iskambil: is sitting out
+glottis88: posts big blind $3
+*** HOLE CARDS ***
+Ale4o: raises $3 to $6
+glottis88: calls $3
+*** FLOP *** [Kc 8h 3h]
+iskambil leaves the table
+glottis88: checks
+Ale4o: bets $3
+glottis88: folds
+Uncalled bet ($3) returned to Ale4o
+Ale4o collected $11.76 from pot
+Ale4o: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kc 8h 3h]
+Seat 1: Ale4o (button) (small blind) collected ($11.76)
+Seat 5: glottis88 (big blind) folded on the Flop
+
+
+PokerStars Hand #152464138770:  Hold'em Limit ($3/$6 USD) - 2016/04/26 6:30:39 ET
+Table 'Kleopatra II' 6-max Seat #5 is the button
+Seat 1: Ale4o ($98.50 in chips)
+Seat 5: glottis88 ($31.51 in chips)
+glottis88: posts small blind $1
+Ale4o: posts big blind $3
+*** HOLE CARDS ***
+glottis88: calls $2
+Ale4o: raises $3 to $6
+glottis88: raises $3 to $9
+Ale4o: raises $3 to $12
+Betting is capped
+glottis88: calls $3
+*** FLOP *** [9h 6h 4s]
+Ale4o: bets $3
+glottis88: calls $3
+*** TURN *** [9h 6h 4s] [Tc]
+Ale4o: bets $6
+glottis88: raises $6 to $12
+Ale4o: raises $6 to $18
+glottis88: calls $4.51 and is all-in
+Uncalled bet ($1.49) returned to Ale4o
+*** RIVER *** [9h 6h 4s Tc] [7d]
+*** SHOW DOWN ***
+Ale4o: shows [Qd Qh] (a pair of Queens)
+glottis88: mucks hand
+Ale4o collected $62.52 from pot
+*** SUMMARY ***
+Total pot $63.02 | Rake $0.50
+Board [9h 6h 4s Tc 7d]
+Seat 1: Ale4o (big blind) showed [Qd Qh] and won ($62.52) with a pair of Queens
+Seat 5: glottis88 (button) (small blind) mucked
+
+

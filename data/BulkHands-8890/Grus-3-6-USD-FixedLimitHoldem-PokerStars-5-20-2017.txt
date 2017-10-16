@@ -1,0 +1,29 @@
+PokerStars Hand #170694348169:  Hold'em Limit ($3/$6 USD) - 2017/05/20 18:55:27 ET
+Table 'Grus' 6-max Seat #5 is the button
+Seat 3: vicont088 ($33 in chips)
+Seat 5: GoliafUa ($117 in chips)
+GoliafUa: posts small blind $1
+vicont088: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa: raises $3 to $6
+vicont088: calls $3
+*** FLOP *** [4d Jd 3h]
+vicont088: bets $3
+GoliafUa: calls $3
+*** TURN *** [4d Jd 3h] [5s]
+vicont088: bets $6
+GoliafUa: calls $6
+*** RIVER *** [4d Jd 3h 5s] [4c]
+vicont088: bets $6
+GoliafUa: calls $6
+*** SHOW DOWN ***
+vicont088: shows [Ac Qs] (a pair of Fours)
+GoliafUa: shows [Kc 5d] (two pair, Fives and Fours)
+GoliafUa collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [4d Jd 3h 5s 4c]
+Seat 3: vicont088 (big blind) showed [Ac Qs] and lost with a pair of Fours
+Seat 5: GoliafUa (button) (small blind) showed [Kc 5d] and won ($41.50) with two pair, Fives and Fours
+
+

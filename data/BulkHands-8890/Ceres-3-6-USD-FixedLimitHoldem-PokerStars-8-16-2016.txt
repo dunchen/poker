@@ -1,0 +1,61 @@
+PokerStars Hand #157345392976:  Hold'em Limit ($3/$6 USD) - 2016/08/16 9:34:30 ET
+Table 'Ceres' 6-max Seat #4 is the button
+Seat 4: krille3000 ($31.40 in chips)
+Seat 6: SmellyToes4u ($59 in chips)
+krille3000: posts small blind $1
+SmellyToes4u: posts big blind $3
+*** HOLE CARDS ***
+krille3000: raises $3 to $6
+SmellyToes4u: calls $3
+*** FLOP *** [7c 9d Jd]
+SmellyToes4u: checks
+krille3000: bets $3
+SmellyToes4u: raises $3 to $6
+krille3000: calls $3
+*** TURN *** [7c 9d Jd] [4s]
+SmellyToes4u: bets $6
+krille3000: calls $6
+*** RIVER *** [7c 9d Jd 4s] [3h]
+SmellyToes4u: bets $6
+krille3000: folds
+Uncalled bet ($6) returned to SmellyToes4u
+SmellyToes4u collected $35.50 from pot
+SmellyToes4u: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [7c 9d Jd 4s 3h]
+Seat 4: krille3000 (button) (small blind) folded on the River
+Seat 6: SmellyToes4u (big blind) collected ($35.50)
+
+
+PokerStars Hand #157345407964:  Hold'em Limit ($3/$6 USD) - 2016/08/16 9:34:58 ET
+Table 'Ceres' 6-max Seat #4 is the button
+Seat 3: kismespit ($120 in chips)
+Seat 4: krille3000 ($14.40 in chips)
+krille3000: posts small blind $1
+SmellyToes4u: is sitting out
+kismespit: posts big blind $3
+*** HOLE CARDS ***
+krille3000: raises $3 to $6
+kismespit: raises $3 to $9
+krille3000: raises $3 to $12
+Betting is capped
+kismespit: calls $3
+*** FLOP *** [Kh 2d 3d]
+kismespit: bets $3
+krille3000: calls $2.40 and is all-in
+Uncalled bet ($0.60) returned to kismespit
+*** TURN *** [Kh 2d 3d] [Kd]
+*** RIVER *** [Kh 2d 3d Kd] [9c]
+*** SHOW DOWN ***
+kismespit: shows [Ad Kc] (three of a kind, Kings)
+krille3000: shows [2c 4c] (two pair, Kings and Deuces)
+krille3000 leaves the table
+kismespit collected $28.30 from pot
+*** SUMMARY ***
+Total pot $28.80 | Rake $0.50
+Board [Kh 2d 3d Kd 9c]
+Seat 3: kismespit (big blind) showed [Ad Kc] and won ($28.30) with three of a kind, Kings
+Seat 4: krille3000 (button) (small blind) showed [2c 4c] and lost with two pair, Kings and Deuces
+
+

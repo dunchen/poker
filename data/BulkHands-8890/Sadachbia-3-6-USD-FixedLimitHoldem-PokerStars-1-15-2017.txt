@@ -1,0 +1,349 @@
+PokerStars Hand #164603867835:  Hold'em Limit ($3/$6 USD) - 2017/01/15 5:41:51 ET
+Table 'Sadachbia' 6-max Seat #4 is the button
+Seat 3: poker.sta306 ($38 in chips)
+Seat 4: Chessnok ($121 in chips)
+Chessnok: posts small blind $1
+sim5sim5: is sitting out
+poker.sta306: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+poker.sta306: raises $3 to $9
+Chessnok: calls $3
+*** FLOP *** [Qs Td Jh]
+poker.sta306: bets $3
+Chessnok: calls $3
+*** TURN *** [Qs Td Jh] [4h]
+poker.sta306: checks
+sim5sim5 leaves the table
+Chessnok: bets $6
+poker.sta306: raises $6 to $12
+Chessnok: raises $6 to $18
+poker.sta306: raises $6 to $24
+Betting is capped
+Chessnok: calls $6
+*** RIVER *** [Qs Td Jh 4h] [5c]
+poker.sta306: bets $2 and is all-in
+Chessnok: calls $2
+*** SHOW DOWN ***
+poker.sta306: shows [9s Kd] (a straight, Nine to King)
+Chessnok: shows [Ks Qd] (a pair of Queens)
+poker.sta306 collected $75.50 from pot
+*** SUMMARY ***
+Total pot $76 | Rake $0.50
+Board [Qs Td Jh 4h 5c]
+Seat 3: poker.sta306 (big blind) showed [9s Kd] and won ($75.50) with a straight, Nine to King
+Seat 4: Chessnok (button) (small blind) showed [Ks Qd] and lost with a pair of Queens
+
+
+PokerStars Hand #164603897061:  Hold'em Limit ($3/$6 USD) - 2017/01/15 5:42:49 ET
+Table 'Sadachbia' 6-max Seat #4 is the button
+Seat 3: poker.sta306 ($99 in chips)
+Seat 4: Chessnok ($60 in chips)
+Chessnok: posts small blind $1
+poker.sta306: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+poker.sta306: calls $3
+*** FLOP *** [9h 8h As]
+poker.sta306: checks
+Chessnok: bets $3
+poker.sta306: calls $3
+*** TURN *** [9h 8h As] [Jh]
+poker.sta306: checks
+Chessnok: checks
+*** RIVER *** [9h 8h As Jh] [7c]
+poker.sta306: bets $6
+Chessnok: calls $6
+*** SHOW DOWN ***
+poker.sta306: shows [8d Js] (two pair, Jacks and Eights)
+Chessnok: mucks hand
+poker.sta306 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9h 8h As Jh 7c]
+Seat 3: poker.sta306 (big blind) showed [8d Js] and won ($29.50) with two pair, Jacks and Eights
+Seat 4: Chessnok (button) (small blind) mucked
+
+
+PokerStars Hand #164603885915:  Hold'em Limit ($3/$6 USD) - 2017/01/15 5:42:27 ET
+Table 'Sadachbia' 6-max Seat #3 is the button
+Seat 3: poker.sta306 ($75.50 in chips)
+Seat 4: Chessnok ($83 in chips)
+poker.sta306: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+poker.sta306: raises $3 to $6
+Chessnok: raises $3 to $9
+poker.sta306: calls $3
+*** FLOP *** [3s 2c 2d]
+Chessnok: bets $3
+poker.sta306: calls $3
+*** TURN *** [3s 2c 2d] [Js]
+Chessnok: bets $6
+poker.sta306: raises $6 to $12
+Chessnok: calls $6
+*** RIVER *** [3s 2c 2d Js] [Kh]
+Chessnok: checks
+poker.sta306: checks
+*** SHOW DOWN ***
+Chessnok: shows [8c 8s] (two pair, Eights and Deuces)
+poker.sta306: shows [Th Tc] (two pair, Tens and Deuces)
+poker.sta306 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3s 2c 2d Js Kh]
+Seat 3: poker.sta306 (button) (small blind) showed [Th Tc] and won ($47.50) with two pair, Tens and Deuces
+Seat 4: Chessnok (big blind) showed [8c 8s] and lost with two pair, Eights and Deuces
+
+
+PokerStars Hand #164603904916:  Hold'em Limit ($3/$6 USD) - 2017/01/15 5:43:05 ET
+Table 'Sadachbia' 6-max Seat #3 is the button
+Seat 3: poker.sta306 ($113.50 in chips)
+Seat 4: Chessnok ($60 in chips)
+poker.sta306: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+poker.sta306: raises $3 to $6
+Chessnok: raises $3 to $9
+poker.sta306: raises $3 to $12
+Betting is capped
+Chessnok: calls $3
+*** FLOP *** [Th Ac 3h]
+Chessnok: checks
+poker.sta306: bets $3
+Chessnok: raises $3 to $6
+poker.sta306: calls $3
+*** TURN *** [Th Ac 3h] [5h]
+Chessnok: bets $6
+poker.sta306: raises $6 to $12
+Chessnok: raises $6 to $18
+poker.sta306: raises $6 to $24
+Betting is capped
+Chessnok: calls $6
+*** RIVER *** [Th Ac 3h 5h] [4d]
+Chessnok: bets $6
+poker.sta306: calls $6
+*** SHOW DOWN ***
+Chessnok: shows [Ah 2h] (a flush, Ace high)
+poker.sta306: mucks hand
+Chessnok collected $95.50 from pot
+*** SUMMARY ***
+Total pot $96 | Rake $0.50
+Board [Th Ac 3h 5h 4d]
+Seat 3: poker.sta306 (button) (small blind) mucked
+Seat 4: Chessnok (big blind) showed [Ah 2h] and won ($95.50) with a flush, Ace high
+
+
+PokerStars Hand #164603920959:  Hold'em Limit ($3/$6 USD) - 2017/01/15 5:43:37 ET
+Table 'Sadachbia' 6-max Seat #4 is the button
+Seat 3: poker.sta306 ($65.50 in chips)
+Seat 4: Chessnok ($107.50 in chips)
+Chessnok: posts small blind $1
+poker.sta306: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+poker.sta306: calls $3
+*** FLOP *** [7s Kd 5h]
+poker.sta306: checks
+Chessnok: bets $3
+poker.sta306: calls $3
+*** TURN *** [7s Kd 5h] [4s]
+poker.sta306: checks
+Chessnok: checks
+*** RIVER *** [7s Kd 5h 4s] [Jc]
+poker.sta306: bets $6
+Chessnok: calls $6
+*** SHOW DOWN ***
+poker.sta306: shows [6h 7c] (a pair of Sevens)
+Chessnok: mucks hand
+poker.sta306 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7s Kd 5h 4s Jc]
+Seat 3: poker.sta306 (big blind) showed [6h 7c] and won ($29.50) with a pair of Sevens
+Seat 4: Chessnok (button) (small blind) mucked
+
+
+PokerStars Hand #164603936333:  Hold'em Limit ($3/$6 USD) - 2017/01/15 5:44:07 ET
+Table 'Sadachbia' 6-max Seat #3 is the button
+Seat 3: poker.sta306 ($80 in chips)
+Seat 4: Chessnok ($92.50 in chips)
+poker.sta306: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+poker.sta306: calls $2
+Chessnok: raises $3 to $6
+poker.sta306: calls $3
+*** FLOP *** [6d 7c 9s]
+Chessnok: checks
+poker.sta306: checks
+*** TURN *** [6d 7c 9s] [8h]
+Chessnok: bets $6
+poker.sta306: calls $6
+*** RIVER *** [6d 7c 9s 8h] [Kd]
+Chessnok: bets $6
+poker.sta306: calls $6
+*** SHOW DOWN ***
+Chessnok: shows [5c 8c] (a straight, Five to Nine)
+poker.sta306: mucks hand
+Chessnok collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6d 7c 9s 8h Kd]
+Seat 3: poker.sta306 (button) (small blind) mucked
+Seat 4: Chessnok (big blind) showed [5c 8c] and won ($35.50) with a straight, Five to Nine
+
+
+PokerStars Hand #164603960950:  Hold'em Limit ($3/$6 USD) - 2017/01/15 5:44:56 ET
+Table 'Sadachbia' 6-max Seat #3 is the button
+Seat 3: poker.sta306 ($29 in chips)
+Seat 4: Chessnok ($142.50 in chips)
+poker.sta306: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+poker.sta306: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [Ks Ts Tc]
+Chessnok: checks
+poker.sta306: bets $3
+Chessnok: raises $3 to $6
+poker.sta306: folds
+Uncalled bet ($3) returned to Chessnok
+Chessnok collected $17.64 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ks Ts Tc]
+Seat 3: poker.sta306 (button) (small blind) folded on the Flop
+Seat 4: Chessnok (big blind) collected ($17.64)
+
+
+PokerStars Hand #164603946990:  Hold'em Limit ($3/$6 USD) - 2017/01/15 5:44:28 ET
+Table 'Sadachbia' 6-max Seat #4 is the button
+Seat 3: poker.sta306 ($62 in chips)
+Seat 4: Chessnok ($110 in chips)
+Chessnok: posts small blind $1
+poker.sta306: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+kusznak joins the table at seat #1
+poker.sta306: calls $3
+*** FLOP *** [7h 9d 6d]
+poker.sta306: checks
+Chessnok: bets $3
+poker.sta306: calls $3
+*** TURN *** [7h 9d 6d] [Ad]
+poker.sta306: checks
+Chessnok: bets $6
+poker.sta306: raises $6 to $12
+Chessnok: raises $6 to $18
+poker.sta306: calls $6
+*** RIVER *** [7h 9d 6d Ad] [Ah]
+poker.sta306: checks
+Chessnok: bets $6
+poker.sta306: calls $6
+*** SHOW DOWN ***
+Chessnok: shows [Kd 4d] (a flush, Ace high)
+poker.sta306: mucks hand
+Chessnok collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [7h 9d 6d Ad Ah]
+Seat 3: poker.sta306 (big blind) mucked
+Seat 4: Chessnok (button) (small blind) showed [Kd 4d] and won ($65.50) with a flush, Ace high
+
+
+PokerStars Hand #164605110814:  Hold'em Limit ($3/$6 USD) - 2017/01/15 6:22:29 ET
+Table 'Sadachbia' 6-max Seat #4 is the button
+Seat 1: kusznak ($64.67 in chips)
+Seat 4: HAL9QQQ ($128.25 in chips)
+HAL9QQQ: posts small blind $1
+kusznak: posts big blind $3
+*** HOLE CARDS ***
+HAL9QQQ: folds
+Uncalled bet ($2) returned to kusznak
+kusznak collected $2 from pot
+kusznak: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: kusznak (big blind) collected ($2)
+Seat 4: HAL9QQQ (button) (small blind) folded before Flop
+
+
+PokerStars Hand #164605104820:  Hold'em Limit ($3/$6 USD) - 2017/01/15 6:22:18 ET
+Table 'Sadachbia' 6-max Seat #1 is the button
+Seat 1: kusznak ($61.67 in chips)
+Seat 4: HAL9QQQ ($131.25 in chips)
+kusznak: posts small blind $1
+HAL9QQQ: posts big blind $3
+TinaTurner72 leaves the table
+*** HOLE CARDS ***
+kusznak: raises $3 to $6
+HAL9QQQ: folds
+Uncalled bet ($3) returned to kusznak
+kusznak collected $6 from pot
+kusznak: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: kusznak (button) (small blind) collected ($6)
+Seat 4: HAL9QQQ (big blind) folded before Flop
+
+
+PokerStars Hand #164606545267:  Hold'em Limit ($3/$6 USD) - 2017/01/15 7:05:29 ET
+Table 'Sadachbia' 6-max Seat #1 is the button
+Seat 1: kusznak ($106.20 in chips)
+Seat 5: TinaTurner72 ($112.98 in chips)
+kusznak: posts small blind $1
+TinaTurner72: posts big blind $3
+*** HOLE CARDS ***
+kusznak: raises $3 to $6
+TinaTurner72: calls $3
+*** FLOP *** [9c 8s Ac]
+TinaTurner72: checks
+kusznak: bets $3
+An-j92 leaves the table
+TinaTurner72: raises $3 to $6
+kusznak: calls $3
+*** TURN *** [9c 8s Ac] [Jc]
+TinaTurner72: bets $6
+kusznak: folds
+Uncalled bet ($6) returned to TinaTurner72
+TinaTurner72 collected $23.52 from pot
+TinaTurner72: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [9c 8s Ac Jc]
+Seat 1: kusznak (button) (small blind) folded on the Turn
+Seat 5: TinaTurner72 (big blind) collected ($23.52)
+
+
+PokerStars Hand #164606560125:  Hold'em Limit ($3/$6 USD) - 2017/01/15 7:05:54 ET
+Table 'Sadachbia' 6-max Seat #5 is the button
+Seat 1: kusznak ($94.20 in chips)
+Seat 5: TinaTurner72 ($124.50 in chips)
+TinaTurner72: posts small blind $1
+kusznak: posts big blind $3
+*** HOLE CARDS ***
+TinaTurner72: raises $3 to $6
+kusznak: raises $3 to $9
+TinaTurner72: calls $3
+*** FLOP *** [3c 3h Ks]
+kusznak: bets $3
+TinaTurner72: calls $3
+*** TURN *** [3c 3h Ks] [7s]
+kusznak: bets $6
+TinaTurner72: calls $6
+*** RIVER *** [3c 3h Ks 7s] [Kh]
+kusznak: checks
+TinaTurner72: checks
+*** SHOW DOWN ***
+kusznak: shows [Jd 8c] (two pair, Kings and Threes)
+TinaTurner72: shows [5c Ac] (two pair, Kings and Threes - Ace kicker)
+TinaTurner72 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [3c 3h Ks 7s Kh]
+Seat 1: kusznak (big blind) showed [Jd 8c] and lost with two pair, Kings and Threes
+Seat 5: TinaTurner72 (button) (small blind) showed [5c Ac] and won ($35.50) with two pair, Kings and Threes
+
+

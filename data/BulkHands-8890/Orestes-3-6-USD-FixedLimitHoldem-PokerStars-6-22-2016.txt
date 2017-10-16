@@ -1,0 +1,56 @@
+PokerStars Hand #155048625852:  Hold'em Limit ($3/$6 USD) - 2016/06/22 2:35:21 ET
+Table 'Orestes' 6-max Seat #4 is the button
+Seat 1: tydawn ($259.57 in chips)
+Seat 4: BrownieSpy ($140.10 in chips)
+BrownieSpy: posts small blind $1
+tydawn: posts big blind $3
+*** HOLE CARDS ***
+BrownieSpy: raises $3 to $6
+tydawn: calls $3
+*** FLOP *** [6s 9d 4d]
+tydawn: checks
+BrownieSpy: bets $3
+tydawn: calls $3
+*** TURN *** [6s 9d 4d] [3c]
+tydawn: checks
+BrownieSpy: bets $6
+tydawn: folds
+Uncalled bet ($6) returned to BrownieSpy
+BrownieSpy collected $17.64 from pot
+BrownieSpy: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6s 9d 4d 3c]
+Seat 1: tydawn (big blind) folded on the Turn
+Seat 4: BrownieSpy (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #155049543950:  Hold'em Limit ($3/$6 USD) - 2016/06/22 3:37:37 ET
+Table 'Orestes' 6-max Seat #2 is the button
+Seat 2: Ag3r0n ($74.52 in chips)
+Seat 5: SilaSoNi ($181.16 in chips)
+Ag3r0n: posts small blind $1
+SilaSoNi: posts big blind $3
+*** HOLE CARDS ***
+Ag3r0n: raises $3 to $6
+SilaSoNi: calls $3
+*** FLOP *** [3s 9d 3d]
+SilaSoNi: checks
+Ag3r0n: checks
+*** TURN *** [3s 9d 3d] [Qd]
+SilaSoNi: checks
+Ag3r0n: checks
+*** RIVER *** [3s 9d 3d Qd] [Qc]
+SilaSoNi: checks
+Ag3r0n: checks
+*** SHOW DOWN ***
+SilaSoNi: shows [Jc 5s] (two pair, Queens and Threes)
+Ag3r0n: mucks hand
+SilaSoNi collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3s 9d 3d Qd Qc]
+Seat 2: Ag3r0n (button) (small blind) mucked
+Seat 5: SilaSoNi (big blind) showed [Jc 5s] and won ($11.76) with two pair, Queens and Threes
+
+

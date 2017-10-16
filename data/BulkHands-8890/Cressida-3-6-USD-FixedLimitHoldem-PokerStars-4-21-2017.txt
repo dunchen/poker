@@ -1,0 +1,90 @@
+PokerStars Hand #169357189068:  Hold'em Limit ($3/$6 USD) - 2017/04/21 13:02:31 ET
+Table 'Cressida' 6-max Seat #2 is the button
+Seat 1: Ale4o ($120 in chips)
+Seat 2: vestimokrec ($111 in chips)
+vestimokrec: posts small blind $1
+GoliafUa: is sitting out
+Ale4o: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+Ale4o: calls $3
+*** FLOP *** [3s Kc 8c]
+Ale4o: checks
+vestimokrec: bets $3
+Ale4o: raises $3 to $6
+vestimokrec: calls $3
+*** TURN *** [3s Kc 8c] [8s]
+Ale4o: bets $6
+vestimokrec: calls $6
+*** RIVER *** [3s Kc 8c 8s] [Qh]
+Storm_Kolyan joins the table at seat #4
+Ale4o: checks
+vestimokrec: checks
+*** SHOW DOWN ***
+Ale4o: shows [9c Jc] (a pair of Eights)
+vestimokrec: shows [Jh Jd] (two pair, Jacks and Eights)
+vestimokrec collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [3s Kc 8c 8s Qh]
+Seat 1: Ale4o (big blind) showed [9c Jc] and lost with a pair of Eights
+Seat 2: vestimokrec (button) (small blind) showed [Jh Jd] and won ($35.50) with two pair, Jacks and Eights
+
+
+PokerStars Hand #169357220002:  Hold'em Limit ($3/$6 USD) - 2017/04/21 13:03:14 ET
+Table 'Cressida' 6-max Seat #1 is the button
+Seat 1: Ale4o ($102 in chips)
+Seat 4: Storm_Kolyan ($30 in chips)
+Ale4o: posts small blind $1
+Storm_Kolyan: posts big blind $3
+*** HOLE CARDS ***
+Ale4o: raises $3 to $6
+Storm_Kolyan: calls $3
+*** FLOP *** [2s 4s Th]
+Storm_Kolyan: checks
+Ale4o: bets $3
+Storm_Kolyan: folds
+Uncalled bet ($3) returned to Ale4o
+Ale4o collected $11.76 from pot
+Ale4o: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2s 4s Th]
+Seat 1: Ale4o (button) (small blind) collected ($11.76)
+Seat 4: Storm_Kolyan (big blind) folded on the Flop
+
+
+PokerStars Hand #169357239282:  Hold'em Limit ($3/$6 USD) - 2017/04/21 13:03:40 ET
+Table 'Cressida' 6-max Seat #4 is the button
+Seat 1: Ale4o ($107.76 in chips)
+Seat 4: Storm_Kolyan ($24 in chips)
+Storm_Kolyan: posts small blind $1
+Ale4o: posts big blind $3
+*** HOLE CARDS ***
+Storm_Kolyan: calls $2
+Ale4o: checks
+*** FLOP *** [3s 5h 6c]
+Ale4o: bets $3
+Storm_Kolyan: raises $3 to $6
+Ale4o: raises $3 to $9
+Storm_Kolyan: raises $3 to $12
+Betting is capped
+Ale4o: calls $3
+*** TURN *** [3s 5h 6c] [7d]
+Ale4o: checks
+Storm_Kolyan: bets $6
+Ale4o: raises $6 to $12
+Storm_Kolyan: calls $3 and is all-in
+Uncalled bet ($3) returned to Ale4o
+*** RIVER *** [3s 5h 6c 7d] [7s]
+*** SHOW DOWN ***
+Ale4o: shows [9s 6h] (two pair, Sevens and Sixes)
+Storm_Kolyan: shows [Ts Ad] (a pair of Sevens)
+Ale4o collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3s 5h 6c 7d 7s]
+Seat 1: Ale4o (big blind) showed [9s 6h] and won ($47.50) with two pair, Sevens and Sixes
+Seat 4: Storm_Kolyan (button) (small blind) showed [Ts Ad] and lost with a pair of Sevens
+
+

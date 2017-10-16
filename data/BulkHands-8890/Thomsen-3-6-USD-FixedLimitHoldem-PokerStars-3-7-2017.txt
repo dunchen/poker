@@ -1,0 +1,431 @@
+PokerStars Hand #167246162928:  Hold'em Limit ($3/$6 USD) - 2017/03/07 10:18:27 ET
+Table 'Thomsen' 10-max Seat #6 is the button
+Seat 6: sim5sim5 ($72 in chips)
+Seat 10: nord670 ($41.76 in chips)
+sim5sim5: posts small blind $1
+nord670: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+nord670: calls $3
+*** FLOP *** [Kd 6d 7c]
+nord670: bets $3
+sim5sim5: calls $3
+*** TURN *** [Kd 6d 7c] [5d]
+nord670: checks
+sim5sim5: checks
+*** RIVER *** [Kd 6d 7c 5d] [7d]
+nord670: bets $6
+sim5sim5: calls $6
+*** SHOW DOWN ***
+nord670: shows [9d Td] (a flush, King high)
+sim5sim5: shows [Th Jd] (a flush, King high - Jack higher)
+sim5sim5 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kd 6d 7c 5d 7d]
+Seat 6: sim5sim5 (button) (small blind) showed [Th Jd] and won ($29.50) with a flush, King high
+Seat 10: nord670 (big blind) showed [9d Td] and lost with a flush, King high
+
+
+PokerStars Hand #167246182646:  Hold'em Limit ($3/$6 USD) - 2017/03/07 10:18:58 ET
+Table 'Thomsen' 10-max Seat #10 is the button
+Seat 6: sim5sim5 ($86.50 in chips)
+Seat 10: nord670 ($26.76 in chips)
+nord670: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+nord670: calls $2
+sim5sim5: raises $3 to $6
+nord670: calls $3
+*** FLOP *** [6d Kc 2d]
+sim5sim5: bets $3
+nord670: folds
+Uncalled bet ($3) returned to sim5sim5
+sim5sim5 collected $11.76 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6d Kc 2d]
+Seat 6: sim5sim5 (big blind) collected ($11.76)
+Seat 10: nord670 (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #167246199139:  Hold'em Limit ($3/$6 USD) - 2017/03/07 10:19:23 ET
+Table 'Thomsen' 10-max Seat #6 is the button
+Seat 6: sim5sim5 ($92.26 in chips)
+Seat 10: nord670 ($20.76 in chips)
+sim5sim5: posts small blind $1
+nord670: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+nord670: raises $3 to $9
+sim5sim5: calls $3
+*** FLOP *** [4d Ks 6s]
+nord670: checks
+sim5sim5: checks
+*** TURN *** [4d Ks 6s] [Kc]
+nord670: checks
+sim5sim5: checks
+*** RIVER *** [4d Ks 6s Kc] [Qs]
+nord670: bets $6
+sim5sim5: folds
+Uncalled bet ($6) returned to nord670
+nord670 collected $17.64 from pot
+nord670: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4d Ks 6s Kc Qs]
+Seat 6: sim5sim5 (button) (small blind) folded on the River
+Seat 10: nord670 (big blind) collected ($17.64)
+
+
+PokerStars Hand #167246219017:  Hold'em Limit ($3/$6 USD) - 2017/03/07 10:19:54 ET
+Table 'Thomsen' 10-max Seat #10 is the button
+Seat 6: sim5sim5 ($83.26 in chips)
+Seat 10: nord670 ($29.40 in chips)
+nord670: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+nord670: calls $2
+sim5sim5: checks
+*** FLOP *** [5c 3c Jc]
+sim5sim5: checks
+nord670: bets $3
+sim5sim5: folds
+Uncalled bet ($3) returned to nord670
+nord670 collected $5.88 from pot
+nord670: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [5c 3c Jc]
+Seat 6: sim5sim5 (big blind) folded on the Flop
+Seat 10: nord670 (button) (small blind) collected ($5.88)
+
+
+PokerStars Hand #167246230308:  Hold'em Limit ($3/$6 USD) - 2017/03/07 10:20:11 ET
+Table 'Thomsen' 10-max Seat #6 is the button
+Seat 6: sim5sim5 ($80.26 in chips)
+Seat 10: nord670 ($32.28 in chips)
+sim5sim5: posts small blind $1
+nord670: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+nord670: raises $3 to $9
+sim5sim5: calls $3
+*** FLOP *** [Qs 4d Ks]
+nord670: bets $3
+sim5sim5: folds
+Uncalled bet ($3) returned to nord670
+nord670 collected $17.64 from pot
+nord670: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qs 4d Ks]
+Seat 6: sim5sim5 (button) (small blind) folded on the Flop
+Seat 10: nord670 (big blind) collected ($17.64)
+
+
+PokerStars Hand #167246242072:  Hold'em Limit ($3/$6 USD) - 2017/03/07 10:20:30 ET
+Table 'Thomsen' 10-max Seat #10 is the button
+Seat 6: sim5sim5 ($72 in chips)
+Seat 10: nord670 ($40.92 in chips)
+nord670: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+nord670: calls $2
+sim5sim5: checks
+*** FLOP *** [Kh 5c 3h]
+sim5sim5: checks
+nord670: checks
+*** TURN *** [Kh 5c 3h] [7h]
+sim5sim5: bets $6
+nord670: raises $6 to $12
+sim5sim5: calls $6
+*** RIVER *** [Kh 5c 3h 7h] [7d]
+sim5sim5: checks
+nord670: bets $6
+sim5sim5: calls $6
+*** SHOW DOWN ***
+nord670: shows [8d 8h] (two pair, Eights and Sevens)
+sim5sim5: shows [3s Ks] (two pair, Kings and Sevens)
+sim5sim5 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Kh 5c 3h 7h 7d]
+Seat 6: sim5sim5 (big blind) showed [3s Ks] and won ($41.50) with two pair, Kings and Sevens
+Seat 10: nord670 (button) (small blind) showed [8d 8h] and lost with two pair, Eights and Sevens
+
+
+PokerStars Hand #167246284036:  Hold'em Limit ($3/$6 USD) - 2017/03/07 10:21:35 ET
+Table 'Thomsen' 10-max Seat #6 is the button
+Seat 6: sim5sim5 ($92.50 in chips)
+Seat 10: nord670 ($19.92 in chips)
+sim5sim5: posts small blind $1
+nord670: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+nord670: calls $3
+*** FLOP *** [7c 9h 5c]
+nord670: bets $3
+sim5sim5: calls $3
+*** TURN *** [7c 9h 5c] [Jh]
+nord670: bets $6
+sim5sim5: calls $6
+*** RIVER *** [7c 9h 5c Jh] [Ad]
+nord670: bets $4.92 and is all-in
+sim5sim5: calls $4.92
+*** SHOW DOWN ***
+nord670: shows [Ts 6c] (high card Ace)
+sim5sim5: shows [Ah 6s] (a pair of Aces)
+sim5sim5 collected $39.34 from pot
+*** SUMMARY ***
+Total pot $39.84 | Rake $0.50
+Board [7c 9h 5c Jh Ad]
+Seat 6: sim5sim5 (button) (small blind) showed [Ah 6s] and won ($39.34) with a pair of Aces
+Seat 10: nord670 (big blind) showed [Ts 6c] and lost with high card Ace
+
+
+PokerStars Hand #167246273889:  Hold'em Limit ($3/$6 USD) - 2017/03/07 10:21:19 ET
+Table 'Thomsen' 10-max Seat #10 is the button
+Seat 6: sim5sim5 ($95.50 in chips)
+Seat 10: nord670 ($16.92 in chips)
+nord670: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+nord670: raises $3 to $6
+sim5sim5: folds
+Uncalled bet ($3) returned to nord670
+nord670 collected $6 from pot
+nord670: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 6: sim5sim5 (big blind) folded before Flop
+Seat 10: nord670 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #167246267165:  Hold'em Limit ($3/$6 USD) - 2017/03/07 10:21:09 ET
+Table 'Thomsen' 10-max Seat #6 is the button
+Seat 6: sim5sim5 ($92.50 in chips)
+Seat 10: nord670 ($19.92 in chips)
+sim5sim5: posts small blind $1
+nord670: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+nord670: folds
+Uncalled bet ($3) returned to sim5sim5
+sim5sim5 collected $6 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 6: sim5sim5 (button) (small blind) collected ($6)
+Seat 10: nord670 (big blind) folded before Flop
+
+
+PokerStars Hand #167252556444:  Hold'em Limit ($3/$6 USD) - 2017/03/07 12:49:15 ET
+Table 'Thomsen' 10-max Seat #10 is the button
+Seat 5: lexishake ($161.38 in chips)
+Seat 10: MTails ($107.64 in chips)
+MTails: posts small blind $1
+lexishake: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+lexishake: calls $3
+*** FLOP *** [Tc 9d Js]
+lexishake: checks
+MTails: bets $3
+lexishake: calls $3
+*** TURN *** [Tc 9d Js] [Kd]
+lexishake: checks
+MTails: bets $6
+lexishake: raises $6 to $12
+MTails: folds
+Uncalled bet ($6) returned to lexishake
+lexishake collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Tc 9d Js Kd]
+Seat 5: lexishake (big blind) collected ($29.50)
+Seat 10: MTails (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #167252545241:  Hold'em Limit ($3/$6 USD) - 2017/03/07 12:49:01 ET
+Table 'Thomsen' 10-max Seat #5 is the button
+Seat 5: lexishake ($170.38 in chips)
+Seat 10: MTails ($99 in chips)
+lexishake: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+lexishake: calls $2
+MTails: raises $3 to $6
+lexishake: calls $3
+*** FLOP *** [Qh 3h Js]
+vestimokrec joins the table at seat #6
+MTails: bets $3
+lexishake: calls $3
+*** TURN *** [Qh 3h Js] [5s]
+MTails: bets $6
+lexishake: folds
+Uncalled bet ($6) returned to MTails
+MTails collected $17.64 from pot
+MTails: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qh 3h Js 5s]
+Seat 5: lexishake (button) (small blind) folded on the Turn
+Seat 10: MTails (big blind) collected ($17.64)
+
+
+PokerStars Hand #167252526879:  Hold'em Limit ($3/$6 USD) - 2017/03/07 12:48:38 ET
+Table 'Thomsen' 10-max Seat #10 is the button
+Seat 5: lexishake ($149.88 in chips)
+Seat 10: MTails ($120 in chips)
+MTails: posts small blind $1
+lexishake: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+lexishake: calls $3
+*** FLOP *** [8d Js 4h]
+lexishake: checks
+MTails: bets $3
+lexishake: calls $3
+*** TURN *** [8d Js 4h] [7h]
+lexishake: checks
+MTails: bets $6
+lexishake: calls $6
+*** RIVER *** [8d Js 4h 7h] [Ad]
+lexishake: bets $6
+MTails: calls $6
+*** SHOW DOWN ***
+lexishake: shows [6c As] (a pair of Aces)
+MTails: mucks hand
+lexishake collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [8d Js 4h 7h Ad]
+Seat 5: lexishake (big blind) showed [6c As] and won ($41.50) with a pair of Aces
+Seat 10: MTails (button) (small blind) mucked
+
+
+PokerStars Hand #167252591302:  Hold'em Limit ($3/$6 USD) - 2017/03/07 12:49:58 ET
+Table 'Thomsen' 10-max Seat #10 is the button
+Seat 5: lexishake ($154.88 in chips)
+Seat 10: MTails ($113.14 in chips)
+LouisB joins the table at seat #7
+MTails: posts small blind $1
+lexishake: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+lexishake: calls $3
+*** FLOP *** [2c Jd 3h]
+lexishake: bets $3
+MTails: raises $3 to $6
+lexishake: folds
+Uncalled bet ($3) returned to MTails
+MTails collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2c Jd 3h]
+Seat 5: lexishake (big blind) folded on the Flop
+Seat 10: MTails (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #167252587405:  Hold'em Limit ($3/$6 USD) - 2017/03/07 12:49:53 ET
+Table 'Thomsen' 10-max Seat #5 is the button
+Seat 5: lexishake ($155.88 in chips)
+Seat 10: MTails ($112.14 in chips)
+lexishake: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+lexishake: folds
+Uncalled bet ($2) returned to MTails
+MTails collected $2 from pot
+MTails: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: lexishake (button) (small blind) folded before Flop
+Seat 10: MTails (big blind) collected ($2)
+
+
+PokerStars Hand #167252583483:  Hold'em Limit ($3/$6 USD) - 2017/03/07 12:49:48 ET
+Table 'Thomsen' 10-max Seat #10 is the button
+Seat 5: lexishake ($154.88 in chips)
+Seat 10: MTails ($113.14 in chips)
+MTails: posts small blind $1
+lexishake: posts big blind $3
+*** HOLE CARDS ***
+MTails: folds
+Uncalled bet ($2) returned to lexishake
+lexishake collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: lexishake (big blind) collected ($2)
+Seat 10: MTails (button) (small blind) folded before Flop
+
+
+PokerStars Hand #167252569826:  Hold'em Limit ($3/$6 USD) - 2017/03/07 12:49:31 ET
+Table 'Thomsen' 10-max Seat #5 is the button
+Seat 5: lexishake ($175.88 in chips)
+Seat 10: MTails ($92.64 in chips)
+lexishake: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+lexishake: calls $2
+MTails: raises $3 to $6
+lexishake: calls $3
+*** FLOP *** [Jd Qs Jh]
+MTails: bets $3
+lexishake: calls $3
+*** TURN *** [Jd Qs Jh] [Ks]
+MTails: bets $6
+lexishake: calls $6
+*** RIVER *** [Jd Qs Jh Ks] [4h]
+MTails: bets $6
+lexishake: calls $6
+*** SHOW DOWN ***
+MTails: shows [Kh 9d] (two pair, Kings and Jacks)
+lexishake: mucks hand
+MTails collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Jd Qs Jh Ks 4h]
+Seat 5: lexishake (button) (small blind) mucked
+Seat 10: MTails (big blind) showed [Kh 9d] and won ($41.50) with two pair, Kings and Jacks
+
+
+PokerStars Hand #167254523598:  Hold'em Limit ($3/$6 USD) - 2017/03/07 13:29:32 ET
+Table 'Thomsen' 10-max Seat #9 is the button
+Seat 2: andrey0709 ($241.79 in chips)
+Seat 9: Deutschzak ($124.52 in chips)
+Deutschzak: posts small blind $1
+andrey0709: posts big blind $3
+*** HOLE CARDS ***
+Deutschzak: folds
+Uncalled bet ($2) returned to andrey0709
+andrey0709 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: andrey0709 (big blind) collected ($2)
+Seat 9: Deutschzak (button) (small blind) folded before Flop
+
+
+PokerStars Hand #167254516381:  Hold'em Limit ($3/$6 USD) - 2017/03/07 13:29:23 ET
+Table 'Thomsen' 10-max Seat #2 is the button
+Seat 2: andrey0709 ($238.79 in chips)
+Seat 9: Deutschzak ($127.52 in chips)
+andrey0709: posts small blind $1
+vojo7777: is sitting out
+HAL9QQQ: is sitting out
+Deutschzak: posts big blind $3
+*** HOLE CARDS ***
+andrey0709: raises $3 to $6
+Deutschzak: folds
+Uncalled bet ($3) returned to andrey0709
+andrey0709 collected $6 from pot
+andrey0709: doesn't show hand
+HAL9QQQ leaves the table
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: andrey0709 (button) (small blind) collected ($6)
+Seat 9: Deutschzak (big blind) folded before Flop
+
+

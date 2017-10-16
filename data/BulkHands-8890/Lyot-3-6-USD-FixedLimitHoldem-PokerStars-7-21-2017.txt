@@ -1,0 +1,31 @@
+PokerStars Hand #173332585748:  Hold'em Limit ($3/$6 USD) - 2017/07/21 17:00:25 ET
+Table 'Lyot' 6-max Seat #4 is the button
+Seat 3: winythekid ($76.14 in chips)
+Seat 4: AzureCaper ($192.53 in chips)
+AzureCaper: posts small blind $1
+winythekid: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+winythekid: calls $3
+*** FLOP *** [7s 3c 2c]
+winythekid: checks
+AzureCaper: bets $3
+winythekid: raises $3 to $6
+AzureCaper: calls $3
+*** TURN *** [7s 3c 2c] [9d]
+winythekid: bets $6
+AzureCaper: calls $6
+*** RIVER *** [7s 3c 2c 9d] [5d]
+winythekid: bets $6
+AzureCaper: calls $6
+*** SHOW DOWN ***
+winythekid: shows [Jc Tc] (high card Jack)
+AzureCaper: shows [Kd Ah] (high card Ace)
+AzureCaper collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7s 3c 2c 9d 5d]
+Seat 3: winythekid (big blind) showed [Jc Tc] and lost with high card Jack
+Seat 4: AzureCaper (button) (small blind) showed [Kd Ah] and won ($47.50) with high card Ace
+
+

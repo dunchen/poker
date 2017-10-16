@@ -1,0 +1,33 @@
+PokerStars Hand #174030229056:  Hold'em Limit ($3/$6 USD) - 2017/08/07 8:32:24 ET
+Table 'Euneus II' 10-max Seat #6 is the button
+Seat 6: SeBaFurman ($30 in chips)
+Seat 7: VolkovDmitri ($120 in chips)
+SeBaFurman: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+SeBaFurman: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [9d Qd 4d]
+VolkovDmitri: checks
+SeBaFurman: bets $3
+VolkovDmitri: raises $3 to $6
+SeBaFurman: raises $3 to $9
+VolkovDmitri: calls $3
+*** TURN *** [9d Qd 4d] [9h]
+VolkovDmitri: checks
+SeBaFurman: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [9d Qd 4d 9h] [Tc]
+VolkovDmitri: checks
+SeBaFurman: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to SeBaFurman
+SeBaFurman collected $41.50 from pot
+SeBaFurman: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9d Qd 4d 9h Tc]
+Seat 6: SeBaFurman (button) (small blind) collected ($41.50)
+Seat 7: VolkovDmitri (big blind) folded on the River
+
+

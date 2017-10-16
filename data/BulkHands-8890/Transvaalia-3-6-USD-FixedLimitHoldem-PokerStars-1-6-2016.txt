@@ -1,0 +1,34 @@
+PokerStars Hand #146575203585:  Hold'em Limit ($3/$6 USD) - 2016/01/06 12:57:40 ET
+Table 'Transvaalia' 2-max Seat #2 is the button
+Seat 1: ivooo33 ($31.56 in chips)
+Seat 2: punkrott ($143.16 in chips)
+punkrott: posts small blind $1
+ivooo33: posts big blind $3
+*** HOLE CARDS ***
+punkrott: raises $3 to $6
+ivooo33: calls $3
+*** FLOP *** [7s Qc Tc]
+ivooo33: checks
+punkrott: bets $3
+ivooo33: raises $3 to $6
+punkrott: calls $3
+*** TURN *** [7s Qc Tc] [2s]
+ivooo33: bets $6
+punkrott: raises $6 to $12
+ivooo33: raises $6 to $18
+punkrott: raises $6 to $24
+Betting is capped
+ivooo33: calls $1.56 and is all-in
+Uncalled bet ($4.44) returned to punkrott
+*** RIVER *** [7s Qc Tc 2s] [6d]
+*** SHOW DOWN ***
+ivooo33: shows [Td 3d] (a pair of Tens)
+punkrott: shows [Qd 6c] (two pair, Queens and Sixes)
+punkrott collected $62.62 from pot
+*** SUMMARY ***
+Total pot $63.12 | Rake $0.50
+Board [7s Qc Tc 2s 6d]
+Seat 1: ivooo33 (big blind) showed [Td 3d] and lost with a pair of Tens
+Seat 2: punkrott (button) (small blind) showed [Qd 6c] and won ($62.62) with two pair, Queens and Sixes
+
+

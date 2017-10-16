@@ -1,0 +1,480 @@
+PokerStars Hand #167448440991:  Hold'em Limit ($3/$6 USD) - 2017/03/11 16:02:10 ET
+Table 'Aegle' 6-max Seat #4 is the button
+Seat 4: MTails ($117.26 in chips)
+Seat 5: megabaitt ($121.50 in chips)
+MTails: posts small blind $1
+megabaitt: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+megabaitt: calls $3
+*** FLOP *** [6c 9c 8c]
+megabaitt: checks
+MTails: bets $3
+megabaitt: calls $3
+*** TURN *** [6c 9c 8c] [Qd]
+megabaitt: checks
+MTails: bets $6
+megabaitt: raises $6 to $12
+MTails: raises $6 to $18
+megabaitt: raises $6 to $24
+Betting is capped
+MTails: calls $6
+*** RIVER *** [6c 9c 8c Qd] [2h]
+megabaitt: bets $6
+MTails: raises $6 to $12
+megabaitt: raises $6 to $18
+MTails: calls $6
+*** SHOW DOWN ***
+megabaitt: shows [5s 7c] (a straight, Five to Nine)
+MTails: shows [Kc 2c] (a flush, King high)
+MTails collected $101.50 from pot
+*** SUMMARY ***
+Total pot $102 | Rake $0.50
+Board [6c 9c 8c Qd 2h]
+Seat 4: MTails (button) (small blind) showed [Kc 2c] and won ($101.50) with a flush, King high
+Seat 5: megabaitt (big blind) showed [5s 7c] and lost with a straight, Five to Nine
+
+
+PokerStars Hand #167448418734:  Hold'em Limit ($3/$6 USD) - 2017/03/11 16:01:45 ET
+Table 'Aegle' 6-max Seat #5 is the button
+Seat 4: MTails ($147.26 in chips)
+Seat 5: megabaitt ($92 in chips)
+megabaitt: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+megabaitt: raises $3 to $6
+MTails: raises $3 to $9
+megabaitt: calls $3
+*** FLOP *** [5h Kd Kc]
+MTails: bets $3
+megabaitt: calls $3
+*** TURN *** [5h Kd Kc] [6d]
+MTails: bets $6
+megabaitt: raises $6 to $12
+MTails: calls $6
+*** RIVER *** [5h Kd Kc 6d] [Qh]
+MTails: checks
+megabaitt: bets $6
+MTails: calls $6
+*** SHOW DOWN ***
+megabaitt: shows [Kh Tc] (three of a kind, Kings)
+MTails: mucks hand
+megabaitt collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [5h Kd Kc 6d Qh]
+Seat 4: MTails (big blind) mucked
+Seat 5: megabaitt (button) (small blind) showed [Kh Tc] and won ($59.50) with three of a kind, Kings
+
+
+PokerStars Hand #167448401551:  Hold'em Limit ($3/$6 USD) - 2017/03/11 16:01:23 ET
+Table 'Aegle' 6-max Seat #4 is the button
+Seat 4: MTails ($126.76 in chips)
+Seat 5: megabaitt ($113 in chips)
+MTails: posts small blind $1
+megabaitt: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+megabaitt: calls $3
+*** FLOP *** [6d 2h As]
+megabaitt: checks
+MTails: bets $3
+megabaitt: calls $3
+*** TURN *** [6d 2h As] [Jh]
+megabaitt: checks
+MTails: checks
+*** RIVER *** [6d 2h As Jh] [Kc]
+megabaitt: bets $6
+MTails: raises $6 to $12
+megabaitt: calls $6
+*** SHOW DOWN ***
+MTails: shows [Qh Ts] (a straight, Ten to Ace)
+megabaitt: mucks hand
+MTails collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [6d 2h As Jh Kc]
+Seat 4: MTails (button) (small blind) showed [Qh Ts] and won ($41.50) with a straight, Ten to Ace
+Seat 5: megabaitt (big blind) mucked
+
+
+PokerStars Hand #167448504320:  Hold'em Limit ($3/$6 USD) - 2017/03/11 16:03:25 ET
+Table 'Aegle' 6-max Seat #4 is the button
+Seat 4: MTails ($209.76 in chips)
+Seat 5: megabaitt ($27.50 in chips)
+MTails: posts small blind $1
+megabaitt: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+megabaitt: folds
+Uncalled bet ($3) returned to MTails
+MTails collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 4: MTails (button) (small blind) collected ($6)
+Seat 5: megabaitt (big blind) folded before Flop
+
+
+PokerStars Hand #167448486233:  Hold'em Limit ($3/$6 USD) - 2017/03/11 16:03:04 ET
+Table 'Aegle' 6-max Seat #5 is the button
+Seat 4: MTails ($183.26 in chips)
+Seat 5: megabaitt ($54.50 in chips)
+megabaitt: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+megabaitt: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [Qc 9s Ts]
+MTails: checks
+megabaitt: bets $3
+MTails: calls $3
+*** TURN *** [Qc 9s Ts] [5s]
+MTails: checks
+megabaitt: bets $6
+MTails: raises $6 to $12
+megabaitt: calls $6
+*** RIVER *** [Qc 9s Ts 5s] [3d]
+MTails: bets $6
+megabaitt: calls $6
+*** SHOW DOWN ***
+MTails: shows [Ks 2s] (a flush, King high)
+megabaitt: mucks hand
+MTails collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Qc 9s Ts 5s 3d]
+Seat 4: MTails (big blind) showed [Ks 2s] and won ($53.50) with a flush, King high
+Seat 5: megabaitt (button) (small blind) mucked
+
+
+PokerStars Hand #167448469105:  Hold'em Limit ($3/$6 USD) - 2017/03/11 16:02:43 ET
+Table 'Aegle' 6-max Seat #4 is the button
+Seat 4: MTails ($168.76 in chips)
+Seat 5: megabaitt ($69.50 in chips)
+MTails: posts small blind $1
+megabaitt: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+megabaitt: calls $3
+*** FLOP *** [Ts 9h Qd]
+megabaitt: checks
+MTails: bets $3
+megabaitt: calls $3
+*** TURN *** [Ts 9h Qd] [Jc]
+megabaitt: checks
+MTails: checks
+*** RIVER *** [Ts 9h Qd Jc] [3s]
+megabaitt: bets $6
+MTails: calls $6
+*** SHOW DOWN ***
+megabaitt: shows [Jh Qh] (two pair, Queens and Jacks)
+MTails: shows [8h 8s] (a straight, Eight to Queen)
+MTails collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ts 9h Qd Jc 3s]
+Seat 4: MTails (button) (small blind) showed [8h 8s] and won ($29.50) with a straight, Eight to Queen
+Seat 5: megabaitt (big blind) showed [Jh Qh] and lost with two pair, Queens and Jacks
+
+
+PokerStars Hand #167448464422:  Hold'em Limit ($3/$6 USD) - 2017/03/11 16:02:38 ET
+Table 'Aegle' 6-max Seat #5 is the button
+Seat 4: MTails ($167.76 in chips)
+Seat 5: megabaitt ($70.50 in chips)
+megabaitt: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+megabaitt: folds
+Uncalled bet ($2) returned to MTails
+MTails collected $2 from pot
+MTails: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: MTails (big blind) collected ($2)
+Seat 5: megabaitt (button) (small blind) folded before Flop
+
+
+PokerStars Hand #167448533536:  Hold'em Limit ($3/$6 USD) - 2017/03/11 16:03:59 ET
+Table 'Aegle' 6-max Seat #5 is the button
+Seat 4: MTails ($194.76 in chips)
+Seat 5: megabaitt ($42 in chips)
+megabaitt: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+megabaitt: raises $3 to $6
+MTails: raises $3 to $9
+megabaitt: raises $3 to $12
+Betting is capped
+MTails: calls $3
+*** FLOP *** [Ts 6h 8s]
+MTails: checks
+megabaitt: bets $3
+MTails: calls $3
+*** TURN *** [Ts 6h 8s] [Ks]
+MTails: checks
+megabaitt: checks
+*** RIVER *** [Ts 6h 8s Ks] [2d]
+MTails: checks
+megabaitt: bets $6
+MTails: calls $6
+*** SHOW DOWN ***
+megabaitt: shows [Td Jh] (a pair of Tens)
+MTails: mucks hand
+megabaitt collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ts 6h 8s Ks 2d]
+Seat 4: MTails (big blind) mucked
+Seat 5: megabaitt (button) (small blind) showed [Td Jh] and won ($41.50) with a pair of Tens
+
+
+PokerStars Hand #167448527683:  Hold'em Limit ($3/$6 USD) - 2017/03/11 16:03:52 ET
+Table 'Aegle' 6-max Seat #4 is the button
+Seat 4: MTails ($191.76 in chips)
+Seat 5: megabaitt ($45 in chips)
+MTails: posts small blind $1
+megabaitt: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+megabaitt: folds
+Uncalled bet ($3) returned to MTails
+MTails collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 4: MTails (button) (small blind) collected ($6)
+Seat 5: megabaitt (big blind) folded before Flop
+
+
+PokerStars Hand #167448509487:  Hold'em Limit ($3/$6 USD) - 2017/03/11 16:03:31 ET
+Table 'Aegle' 6-max Seat #5 is the button
+Seat 4: MTails ($212.76 in chips)
+Seat 5: megabaitt ($24.50 in chips)
+megabaitt: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+megabaitt: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [Ts 5c 9d]
+MTails: checks
+megabaitt: bets $3
+MTails: calls $3
+*** TURN *** [Ts 5c 9d] [Kh]
+MTails: checks
+megabaitt: bets $6
+MTails: calls $6
+*** RIVER *** [Ts 5c 9d Kh] [6h]
+MTails: checks
+megabaitt: bets $6
+MTails: calls $6
+*** SHOW DOWN ***
+megabaitt: shows [3s Ks] (a pair of Kings)
+MTails: mucks hand
+megabaitt collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ts 5c 9d Kh 6h]
+Seat 4: MTails (big blind) mucked
+Seat 5: megabaitt (button) (small blind) showed [3s Ks] and won ($41.50) with a pair of Kings
+
+
+PokerStars Hand #167448583655:  Hold'em Limit ($3/$6 USD) - 2017/03/11 16:04:57 ET
+Table 'Aegle' 6-max Seat #4 is the button
+Seat 4: MTails ($195.26 in chips)
+Seat 5: megabaitt ($40.50 in chips)
+MTails: posts small blind $1
+megabaitt: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+megabaitt: calls $3
+*** FLOP *** [5d Th 8c]
+megabaitt: checks
+MTails: bets $3
+megabaitt: calls $3
+*** TURN *** [5d Th 8c] [Ah]
+megabaitt: checks
+MTails: checks
+*** RIVER *** [5d Th 8c Ah] [Kh]
+megabaitt: bets $6
+MTails: folds
+Uncalled bet ($6) returned to megabaitt
+megabaitt collected $17.64 from pot
+megabaitt: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5d Th 8c Ah Kh]
+Seat 4: MTails (button) (small blind) folded on the River
+Seat 5: megabaitt (big blind) collected ($17.64)
+
+
+PokerStars Hand #167448579345:  Hold'em Limit ($3/$6 USD) - 2017/03/11 16:04:52 ET
+Table 'Aegle' 6-max Seat #5 is the button
+Seat 4: MTails ($194.26 in chips)
+Seat 5: megabaitt ($41.50 in chips)
+megabaitt: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+megabaitt: folds
+Uncalled bet ($2) returned to MTails
+MTails collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: MTails (big blind) collected ($2)
+Seat 5: megabaitt (button) (small blind) folded before Flop
+
+
+PokerStars Hand #167448555999:  Hold'em Limit ($3/$6 USD) - 2017/03/11 16:04:25 ET
+Table 'Aegle' 6-max Seat #4 is the button
+Seat 4: MTails ($173.76 in chips)
+Seat 5: megabaitt ($62.50 in chips)
+MTails: posts small blind $1
+megabaitt: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+megabaitt: calls $3
+*** FLOP *** [9h Th Jc]
+megabaitt: checks
+MTails: bets $3
+megabaitt: calls $3
+*** TURN *** [9h Th Jc] [Qh]
+megabaitt: checks
+MTails: bets $6
+megabaitt: calls $6
+*** RIVER *** [9h Th Jc Qh] [2s]
+megabaitt: checks
+MTails: bets $6
+megabaitt: calls $6
+*** SHOW DOWN ***
+MTails: shows [7c Ks] (a straight, Nine to King)
+megabaitt: mucks hand
+MTails collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9h Th Jc Qh 2s]
+Seat 4: MTails (button) (small blind) showed [7c Ks] and won ($41.50) with a straight, Nine to King
+Seat 5: megabaitt (big blind) mucked
+
+
+PokerStars Hand #167448642397:  Hold'em Limit ($3/$6 USD) - 2017/03/11 16:06:05 ET
+Table 'Aegle' 6-max Seat #5 is the button
+Seat 4: MTails ($179.90 in chips)
+Seat 5: megabaitt ($54.64 in chips)
+megabaitt: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+megabaitt: raises $3 to $6
+MTails: raises $3 to $9
+megabaitt: raises $3 to $12
+Betting is capped
+MTails: calls $3
+*** FLOP *** [6c Ts 6h]
+MTails: checks
+megabaitt: bets $3
+MTails: calls $3
+*** TURN *** [6c Ts 6h] [9s]
+MTails: checks
+megabaitt: bets $6
+MTails: calls $6
+*** RIVER *** [6c Ts 6h 9s] [7h]
+MTails: checks
+megabaitt: bets $6
+MTails: folds
+Uncalled bet ($6) returned to megabaitt
+megabaitt collected $41.50 from pot
+megabaitt: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [6c Ts 6h 9s 7h]
+Seat 4: MTails (big blind) folded on the River
+Seat 5: megabaitt (button) (small blind) collected ($41.50)
+
+
+PokerStars Hand #167448625945:  Hold'em Limit ($3/$6 USD) - 2017/03/11 16:05:46 ET
+Table 'Aegle' 6-max Seat #4 is the button
+Seat 4: MTails ($171.26 in chips)
+Seat 5: megabaitt ($63.64 in chips)
+MTails: posts small blind $1
+megabaitt: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+megabaitt: calls $3
+*** FLOP *** [Ac 4s 3d]
+megabaitt: checks
+MTails: bets $3
+megabaitt: calls $3
+*** TURN *** [Ac 4s 3d] [Qd]
+megabaitt: checks
+MTails: bets $6
+megabaitt: folds
+Uncalled bet ($6) returned to MTails
+MTails collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ac 4s 3d Qd]
+Seat 4: MTails (button) (small blind) collected ($17.64)
+Seat 5: megabaitt (big blind) folded on the Turn
+
+
+PokerStars Hand #167448602709:  Hold'em Limit ($3/$6 USD) - 2017/03/11 16:05:19 ET
+Table 'Aegle' 6-max Seat #5 is the button
+Seat 4: MTails ($186.26 in chips)
+Seat 5: megabaitt ($49.14 in chips)
+megabaitt: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+megabaitt: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [Jd Qd Ks]
+MTails: checks
+megabaitt: bets $3
+MTails: calls $3
+*** TURN *** [Jd Qd Ks] [8d]
+MTails: checks
+megabaitt: checks
+*** RIVER *** [Jd Qd Ks 8d] [9h]
+MTails: bets $6
+megabaitt: calls $6
+*** SHOW DOWN ***
+MTails: shows [Ac 2c] (high card Ace)
+megabaitt: shows [Jh 9c] (two pair, Jacks and Nines)
+megabaitt collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Jd Qd Ks 8d 9h]
+Seat 4: MTails (big blind) showed [Ac 2c] and lost with high card Ace
+Seat 5: megabaitt (button) (small blind) showed [Jh 9c] and won ($29.50) with two pair, Jacks and Nines
+
+
+PokerStars Hand #167448674806:  Hold'em Limit ($3/$6 USD) - 2017/03/11 16:06:43 ET
+Table 'Aegle' 6-max Seat #4 is the button
+Seat 4: MTails ($162.90 in chips)
+Seat 5: megabaitt ($71.14 in chips)
+MTails: posts small blind $1
+megabaitt: posts big blind $3
+*** HOLE CARDS ***
+Goldvrn joins the table at seat #6
+MTails: raises $3 to $6
+megabaitt: folds
+Uncalled bet ($3) returned to MTails
+MTails collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 4: MTails (button) (small blind) collected ($6)
+Seat 5: megabaitt (big blind) folded before Flop
+
+
+PokerStars Hand #167448670502:  Hold'em Limit ($3/$6 USD) - 2017/03/11 16:06:38 ET
+Table 'Aegle' 6-max Seat #5 is the button
+Seat 4: MTails ($161.90 in chips)
+Seat 5: megabaitt ($72.14 in chips)
+megabaitt: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+megabaitt: folds
+Uncalled bet ($2) returned to MTails
+MTails collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: MTails (big blind) collected ($2)
+Seat 5: megabaitt (button) (small blind) folded before Flop
+
+

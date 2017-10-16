@@ -1,0 +1,68 @@
+PokerStars Hand #147903710998:  Hold'em Limit ($3/$6 USD) - 2016/01/29 18:27:34 ET
+Table 'Ducrosa' 6-max Seat #1 is the button
+Seat 1: BigBone2 ($95.49 in chips)
+Seat 2: BelSv ($113.51 in chips)
+BigBone2: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+BigBone2: raises $3 to $6
+BelSv: calls $3
+*** FLOP *** [7d 6h 9d]
+BelSv: checks
+BigBone2: bets $3
+BelSv: raises $3 to $6
+BigBone2: calls $3
+*** TURN *** [7d 6h 9d] [Kd]
+lordlebedev joins the table at seat #4
+BelSv: checks
+BigBone2: bets $6
+BelSv: calls $6
+*** RIVER *** [7d 6h 9d Kd] [2d]
+SashaYuvelir joins the table at seat #5
+BelSv: bets $6
+BigBone2: raises $6 to $12
+BelSv: calls $6
+*** SHOW DOWN ***
+BigBone2: shows [Qd 7s] (a flush, King high)
+BelSv: mucks hand
+BigBone2 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [7d 6h 9d Kd 2d]
+Seat 1: BigBone2 (button) (small blind) showed [Qd 7s] and won ($59.50) with a flush, King high
+Seat 2: BelSv (big blind) mucked
+
+
+PokerStars Hand #147903684152:  Hold'em Limit ($3/$6 USD) - 2016/01/29 18:27:03 ET
+Table 'Ducrosa' 6-max Seat #2 is the button
+Seat 1: BigBone2 ($113.49 in chips)
+Seat 2: BelSv ($96.01 in chips)
+BelSv: posts small blind $1
+SashaYuvelir: is sitting out
+BigBone2: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+SashaYuvelir leaves the table
+BigBone2: calls $3
+*** FLOP *** [4c 7d Js]
+BigBone2: checks
+BelSv: bets $3
+BigBone2: raises $3 to $6
+BelSv: calls $3
+*** TURN *** [4c 7d Js] [Th]
+BigBone2: bets $6
+BelSv: calls $6
+*** RIVER *** [4c 7d Js Th] [Ah]
+BigBone2: checks
+BelSv: checks
+*** SHOW DOWN ***
+BigBone2: shows [5h 6s] (high card Ace)
+BelSv: shows [Kd Tc] (a pair of Tens)
+BelSv collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [4c 7d Js Th Ah]
+Seat 1: BigBone2 (big blind) showed [5h 6s] and lost with high card Ace
+Seat 2: BelSv (button) (small blind) showed [Kd Tc] and won ($35.50) with a pair of Tens
+
+

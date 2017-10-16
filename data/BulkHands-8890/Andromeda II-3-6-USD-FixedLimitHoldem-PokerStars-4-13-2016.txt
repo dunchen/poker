@@ -1,0 +1,33 @@
+PokerStars Hand #151838755638:  Hold'em Limit ($3/$6 USD) - 2016/04/12 21:20:50 ET
+Table 'Andromeda II' 6-max Seat #6 is the button
+Seat 4: lin1rabbit ($120.43 in chips)
+Seat 6: MissEKAmouse ($120 in chips)
+MissEKAmouse: posts small blind $1
+bobmr was removed from the table for failing to post
+lin1rabbit: posts big blind $3
+*** HOLE CARDS ***
+MissEKAmouse: raises $3 to $6
+lin1rabbit: raises $3 to $9
+MissEKAmouse: calls $3
+*** FLOP *** [Qd Kc 3s]
+lin1rabbit: bets $3
+MissEKAmouse: raises $3 to $6
+lin1rabbit: calls $3
+*** TURN *** [Qd Kc 3s] [5c]
+lin1rabbit: checks
+MissEKAmouse: bets $6
+lin1rabbit: calls $6
+*** RIVER *** [Qd Kc 3s 5c] [Jc]
+lin1rabbit: checks
+MissEKAmouse: bets $6
+lin1rabbit: folds
+Uncalled bet ($6) returned to MissEKAmouse
+MissEKAmouse collected $41.50 from pot
+MissEKAmouse: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Qd Kc 3s 5c Jc]
+Seat 4: lin1rabbit (big blind) folded on the River
+Seat 6: MissEKAmouse (button) (small blind) collected ($41.50)
+
+

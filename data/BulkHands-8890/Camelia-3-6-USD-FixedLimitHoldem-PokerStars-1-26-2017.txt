@@ -1,0 +1,83 @@
+PokerStars Hand #165218799892:  Hold'em Limit ($3/$6 USD) - 2017/01/26 17:52:59 ET
+Table 'Camelia' 10-max Seat #2 is the button
+Seat 2: Zubasa07 ($500 in chips)
+Seat 3: ChasingAc918 ($31.93 in chips)
+Zubasa07: posts small blind $1
+ChasingAc918: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+ChasingAc918: raises $3 to $9
+Zubasa07: calls $3
+*** FLOP *** [Qd 5h 3h]
+ChasingAc918: bets $3
+Zubasa07: calls $3
+*** TURN *** [Qd 5h 3h] [4c]
+ChasingAc918: bets $6
+Zubasa07: calls $6
+*** RIVER *** [Qd 5h 3h 4c] [Tc]
+ChasingAc918: bets $6
+Zubasa07: calls $6
+*** SHOW DOWN ***
+ChasingAc918: shows [2c 2s] (a pair of Deuces)
+Zubasa07: shows [Kh 5s] (a pair of Fives)
+Zubasa07 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Qd 5h 3h 4c Tc]
+Seat 2: Zubasa07 (button) (small blind) showed [Kh 5s] and won ($47.50) with a pair of Fives
+Seat 3: ChasingAc918 (big blind) showed [2c 2s] and lost with a pair of Deuces
+
+
+PokerStars Hand #165218820456:  Hold'em Limit ($3/$6 USD) - 2017/01/26 17:53:24 ET
+Table 'Camelia' 10-max Seat #3 is the button
+Seat 2: Zubasa07 ($523.50 in chips)
+Seat 3: ChasingAc918 ($7.93 in chips)
+ChasingAc918: posts small blind $1
+Zubasa07: posts big blind $3
+*** HOLE CARDS ***
+ChasingAc918: raises $3 to $6
+Zubasa07: raises $3 to $9
+ChasingAc918: calls $1.93 and is all-in
+Uncalled bet ($1.07) returned to Zubasa07
+*** FLOP *** [Jc 9s 6h]
+*** TURN *** [Jc 9s 6h] [Ts]
+*** RIVER *** [Jc 9s 6h Ts] [Ks]
+*** SHOW DOWN ***
+Zubasa07: shows [4s Jd] (a pair of Jacks)
+ChasingAc918: shows [8s 3s] (a flush, King high)
+ChasingAc918 collected $15.54 from pot
+*** SUMMARY ***
+Total pot $15.86 | Rake $0.32
+Board [Jc 9s 6h Ts Ks]
+Seat 2: Zubasa07 (big blind) showed [4s Jd] and lost with a pair of Jacks
+Seat 3: ChasingAc918 (button) (small blind) showed [8s 3s] and won ($15.54) with a flush, King high
+
+
+PokerStars Hand #165218833442:  Hold'em Limit ($3/$6 USD) - 2017/01/26 17:53:39 ET
+Table 'Camelia' 10-max Seat #2 is the button
+Seat 2: Zubasa07 ($515.57 in chips)
+Seat 3: ChasingAc918 ($15.54 in chips)
+Zubasa07: posts small blind $1
+ChasingAc918: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+ChasingAc918: raises $3 to $9
+Zubasa07: calls $3
+*** FLOP *** [Tc Ts 2d]
+ChasingAc918: bets $3
+Zubasa07: raises $3 to $6
+ChasingAc918: raises $0.54 to $6.54 and is all-in
+Zubasa07: calls $0.54
+*** TURN *** [Tc Ts 2d] [8h]
+*** RIVER *** [Tc Ts 2d 8h] [6d]
+*** SHOW DOWN ***
+ChasingAc918: shows [9h Qc] (a pair of Tens)
+Zubasa07: shows [Ac 4s] (a pair of Tens - Ace kicker)
+Zubasa07 collected $30.58 from pot
+*** SUMMARY ***
+Total pot $31.08 | Rake $0.50
+Board [Tc Ts 2d 8h 6d]
+Seat 2: Zubasa07 (button) (small blind) showed [Ac 4s] and won ($30.58) with a pair of Tens
+Seat 3: ChasingAc918 (big blind) showed [9h Qc] and lost with a pair of Tens
+
+

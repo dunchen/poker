@@ -1,0 +1,81 @@
+PokerStars Hand #176772349639:  Hold'em Limit ($3/$6 USD) - 2017/10/11 9:25:13 ET
+Table 'Oceana' 6-max Seat #1 is the button
+Seat 1: nedo1414 ($79.52 in chips)
+Seat 4: Anchig ($120 in chips)
+nedo1414: posts small blind $1
+Anchig: posts big blind $3
+*** HOLE CARDS ***
+LouisB joins the table at seat #2
+nedo1414: raises $3 to $6
+Anchig: calls $3
+*** FLOP *** [8s 6h 5c]
+Anchig: checks
+nedo1414: bets $3
+Anchig: raises $3 to $6
+nedo1414: calls $3
+*** TURN *** [8s 6h 5c] [3d]
+Anchig: bets $6
+nedo1414: calls $6
+*** RIVER *** [8s 6h 5c 3d] [Jc]
+Anchig: bets $6
+nedo1414: calls $6
+*** SHOW DOWN ***
+Anchig: shows [5h Jh] (two pair, Jacks and Fives)
+nedo1414: mucks hand
+Anchig collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8s 6h 5c 3d Jc]
+Seat 1: nedo1414 (button) (small blind) mucked
+Seat 4: Anchig (big blind) showed [5h Jh] and won ($47.50) with two pair, Jacks and Fives
+
+
+PokerStars Hand #176772360249:  Hold'em Limit ($3/$6 USD) - 2017/10/11 9:25:31 ET
+Table 'Oceana' 6-max Seat #4 is the button
+Seat 1: nedo1414 ($55.52 in chips)
+Seat 4: Anchig ($143.50 in chips)
+Anchig: posts small blind $1
+nedo1414: posts big blind $3
+*** HOLE CARDS ***
+Anchig: raises $3 to $6
+nedo1414: calls $3
+*** FLOP *** [7s 3s Jh]
+nedo1414: checks
+Anchig: bets $3
+nedo1414: folds
+Uncalled bet ($3) returned to Anchig
+Anchig collected $11.76 from pot
+Anchig: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7s 3s Jh]
+Seat 1: nedo1414 (big blind) folded on the Flop
+Seat 4: Anchig (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #176778350570:  Hold'em Limit ($3/$6 USD) - 2017/10/11 12:11:23 ET
+Table 'Oceana' 6-max Seat #2 is the button
+Seat 2: aleks_4ym ($151.01 in chips)
+Seat 4: knas4 ($499.46 in chips)
+aleks_4ym: posts small blind $1
+rascal_319: is sitting out
+knas4: posts big blind $3
+*** HOLE CARDS ***
+rascal_319 leaves the table
+aleks_4ym: raises $3 to $6
+knas4: calls $3
+*** FLOP *** [6s 3s Kd]
+knas4: checks
+aleks_4ym: checks
+*** TURN *** [6s 3s Kd] [2c]
+knas4: folds
+knas4 leaves the table
+aleks_4ym collected $11.76 from pot
+aleks_4ym: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6s 3s Kd 2c]
+Seat 2: aleks_4ym (button) (small blind) collected ($11.76)
+Seat 4: knas4 (big blind) folded on the Turn
+
+

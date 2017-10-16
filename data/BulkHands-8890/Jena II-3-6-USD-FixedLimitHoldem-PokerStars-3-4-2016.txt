@@ -1,0 +1,56 @@
+PokerStars Hand #149844545280:  Hold'em Limit ($3/$6 USD) - 2016/03/04 17:22:36 ET
+Table 'Jena II' 6-max Seat #4 is the button
+Seat 3: ChicagoBull4 ($112.25 in chips)
+Seat 4: AzureCaper ($72 in chips)
+AzureCaper: posts small blind $1
+ChicagoBull4: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+ChicagoBull4: calls $3
+*** FLOP *** [Ks Td 5s]
+ChicagoBull4: checks
+AzureCaper: bets $3
+ChicagoBull4: calls $3
+*** TURN *** [Ks Td 5s] [6h]
+ChicagoBull4: checks
+AzureCaper: bets $6
+ChicagoBull4: calls $6
+*** RIVER *** [Ks Td 5s 6h] [8h]
+ChicagoBull4: checks
+AzureCaper: checks
+*** SHOW DOWN ***
+ChicagoBull4: shows [Tc Qh] (a pair of Tens)
+AzureCaper: mucks hand
+ChicagoBull4 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ks Td 5s 6h 8h]
+Seat 3: ChicagoBull4 (big blind) showed [Tc Qh] and won ($29.50) with a pair of Tens
+Seat 4: AzureCaper (button) (small blind) mucked
+
+
+PokerStars Hand #149844592044:  Hold'em Limit ($3/$6 USD) - 2016/03/04 17:23:27 ET
+Table 'Jena II' 6-max Seat #3 is the button
+Seat 3: ChicagoBull4 ($126.75 in chips)
+Seat 4: AzureCaper ($72 in chips)
+ChicagoBull4: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+ChicagoBull4: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [7s Ks 4d]
+AzureCaper: bets $3
+ChicagoBull4: calls $3
+*** TURN *** [7s Ks 4d] [6s]
+AzureCaper: bets $6
+ChicagoBull4: folds
+Uncalled bet ($6) returned to AzureCaper
+AzureCaper collected $17.64 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7s Ks 4d 6s]
+Seat 3: ChicagoBull4 (button) (small blind) folded on the Turn
+Seat 4: AzureCaper (big blind) collected ($17.64)
+
+

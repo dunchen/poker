@@ -1,0 +1,51 @@
+PokerStars Hand #163697432006:  Hold'em Limit ($3/$6 USD) - 2016/12/28 23:33:24 ET
+Table 'Memnon II' 6-max Seat #6 is the button
+Seat 1: Great_Kang ($406.37 in chips)
+Seat 6: silja4 ($321.39 in chips)
+silja4: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+silja4: raises $3 to $6
+Great_Kang: raises $3 to $9
+silja4: calls $3
+*** FLOP *** [Tc 5h 8c]
+Great_Kang: bets $3
+silja4: calls $3
+*** TURN *** [Tc 5h 8c] [Js]
+Great_Kang: bets $6
+silja4: raises $6 to $12
+Great_Kang: raises $6 to $18
+silja4: calls $6
+*** RIVER *** [Tc 5h 8c Js] [8d]
+Great_Kang: bets $6
+silja4: calls $6
+*** SHOW DOWN ***
+Great_Kang: shows [5d 5s] (a full house, Fives full of Eights)
+silja4: mucks hand
+Great_Kang collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [Tc 5h 8c Js 8d]
+Seat 1: Great_Kang (big blind) showed [5d 5s] and won ($71.50) with a full house, Fives full of Eights
+Seat 6: silja4 (button) (small blind) mucked
+
+
+PokerStars Hand #163697429961:  Hold'em Limit ($3/$6 USD) - 2016/12/28 23:33:17 ET
+Table 'Memnon II' 6-max Seat #1 is the button
+Seat 1: Great_Kang ($407.37 in chips)
+Seat 6: silja4 ($320.39 in chips)
+Great_Kang: posts small blind $1
+ToDaFelt: is sitting out
+silja4: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt leaves the table
+Great_Kang: folds
+Uncalled bet ($2) returned to silja4
+silja4 collected $2 from pot
+silja4: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Great_Kang (button) (small blind) folded before Flop
+Seat 6: silja4 (big blind) collected ($2)
+
+

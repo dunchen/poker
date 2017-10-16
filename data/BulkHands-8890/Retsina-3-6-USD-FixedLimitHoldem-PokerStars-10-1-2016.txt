@@ -1,0 +1,30 @@
+PokerStars Hand #159353737417:  Hold'em Limit ($3/$6 USD) - 2016/10/01 19:57:16 ET
+Table 'Retsina' 6-max Seat #1 is the button
+Seat 1: LolDnkaments ($209.56 in chips)
+Seat 4: Great_Kang ($154.47 in chips)
+LolDnkaments: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+LolDnkaments: raises $3 to $6
+Great_Kang: calls $3
+*** FLOP *** [9s Qd 2d]
+Great_Kang: checks
+LolDnkaments: bets $3
+Great_Kang: calls $3
+*** TURN *** [9s Qd 2d] [Js]
+Great_Kang: checks
+LolDnkaments: checks
+*** RIVER *** [9s Qd 2d Js] [Kc]
+Great_Kang: bets $6
+LolDnkaments: calls $6
+*** SHOW DOWN ***
+Great_Kang: shows [Td Ks] (a straight, Nine to King)
+LolDnkaments: mucks hand
+Great_Kang collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9s Qd 2d Js Kc]
+Seat 1: LolDnkaments (button) (small blind) mucked
+Seat 4: Great_Kang (big blind) showed [Td Ks] and won ($29.50) with a straight, Nine to King
+
+

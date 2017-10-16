@@ -1,0 +1,112 @@
+PokerStars Hand #164075697148:  Hold'em Limit ($3/$6 USD) - 2017/01/05 10:43:15 ET
+Table 'Tezcatlipoca II' 10-max Seat #5 is the button
+Seat 5: trentin@ruim ($120 in chips)
+Seat 7: VolkovDmitri ($120 in chips)
+trentin@ruim: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+trentin@ruim: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [7h Ks 8s]
+VolkovDmitri: checks
+trentin@ruim: bets $3
+VolkovDmitri: raises $3 to $6
+trentin@ruim: calls $3
+*** TURN *** [7h Ks 8s] [9c]
+RockKillerTY joins the table at seat #6
+VolkovDmitri: bets $6
+trentin@ruim: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $23.52 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [7h Ks 8s 9c]
+Seat 5: trentin@ruim (button) (small blind) folded on the Turn
+Seat 7: VolkovDmitri (big blind) collected ($23.52)
+
+
+PokerStars Hand #164075712008:  Hold'em Limit ($3/$6 USD) - 2017/01/05 10:43:34 ET
+Table 'Tezcatlipoca II' 10-max Seat #7 is the button
+Seat 5: trentin@ruim ($108 in chips)
+Seat 7: VolkovDmitri ($131.52 in chips)
+VolkovDmitri: posts small blind $1
+trentin@ruim: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+trentin@ruim: calls $3
+*** FLOP *** [Qc Th Js]
+trentin@ruim: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [Qc Th Js] [5s]
+trentin@ruim: bets $6
+VolkovDmitri: raises $6 to $12
+trentin@ruim: calls $6
+*** RIVER *** [Qc Th Js 5s] [Kc]
+trentin@ruim: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+trentin@ruim: shows [7h 8s] (high card King)
+VolkovDmitri: shows [Jd 5h] (two pair, Jacks and Fives)
+VolkovDmitri collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Qc Th Js 5s Kc]
+Seat 5: trentin@ruim (big blind) showed [7h 8s] and lost with high card King
+Seat 7: VolkovDmitri (button) (small blind) showed [Jd 5h] and won ($53.50) with two pair, Jacks and Fives
+
+
+PokerStars Hand #164075905296:  Hold'em Limit ($3/$6 USD) - 2017/01/05 10:47:46 ET
+Table 'Tezcatlipoca II' 10-max Seat #10 is the button
+Seat 7: VolkovDmitri ($120 in chips)
+Seat 10: nordschrott ($41.28 in chips)
+nordschrott: posts small blind $1
+RockKillerTY: is sitting out
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+nordschrott: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+nordschrott: calls $3
+*** FLOP *** [9s 5d 6h]
+VolkovDmitri: bets $3
+nordschrott: calls $3
+*** TURN *** [9s 5d 6h] [7c]
+VolkovDmitri: checks
+nordschrott: checks
+*** RIVER *** [9s 5d 6h 7c] [4s]
+rainbow28 joins the table at seat #4
+Great_Kang joins the table at seat #1
+VolkovDmitri: checks
+nordschrott: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to nordschrott
+nordschrott collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [9s 5d 6h 7c 4s]
+Seat 7: VolkovDmitri (big blind) folded on the River
+Seat 10: nordschrott (button) (small blind) collected ($23.52)
+
+
+PokerStars Hand #164075931598:  Hold'em Limit ($3/$6 USD) - 2017/01/05 10:48:20 ET
+Table 'Tezcatlipoca II' 10-max Seat #7 is the button
+Seat 7: VolkovDmitri ($120 in chips)
+Seat 10: nordschrott ($52.80 in chips)
+VolkovDmitri: posts small blind $1
+nordschrott: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+nordschrott: calls $3
+*** FLOP *** [9s 9h As]
+nordschrott: checks
+VolkovDmitri: bets $3
+nordschrott: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9s 9h As]
+Seat 7: VolkovDmitri (button) (small blind) collected ($11.76)
+Seat 10: nordschrott (big blind) folded on the Flop
+
+

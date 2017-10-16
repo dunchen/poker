@@ -1,0 +1,32 @@
+PokerStars Hand #151495143463:  Hold'em Limit ($3/$6 USD) - 2016/04/05 19:55:24 ET
+Table 'Vera II' 6-max Seat #3 is the button
+Seat 3: diogo123pim ($63.24 in chips)
+Seat 4: AzureCaper ($72 in chips)
+diogo123pim: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+diogo123pim: calls $2
+AzureCaper: checks
+*** FLOP *** [9d 8c Kd]
+AzureCaper: checks
+diogo123pim: bets $3
+AzureCaper: raises $3 to $6
+BuzovaPro joins the table at seat #5
+diogo123pim: calls $3
+*** TURN *** [9d 8c Kd] [Th]
+AzureCaper: bets $6
+diogo123pim: calls $6
+*** RIVER *** [9d 8c Kd Th] [4s]
+AzureCaper: bets $6
+diogo123pim: calls $6
+*** SHOW DOWN ***
+AzureCaper: shows [9s Ks] (two pair, Kings and Nines)
+diogo123pim: mucks hand
+AzureCaper collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9d 8c Kd Th 4s]
+Seat 3: diogo123pim (button) (small blind) mucked
+Seat 4: AzureCaper (big blind) showed [9s Ks] and won ($41.50) with two pair, Kings and Nines
+
+

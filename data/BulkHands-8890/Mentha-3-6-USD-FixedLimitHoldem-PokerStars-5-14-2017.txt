@@ -1,0 +1,126 @@
+PokerStars Hand #170423344661:  Hold'em Limit ($3/$6 USD) - 2017/05/14 16:16:40 ET
+Table 'Mentha' 6-max Seat #3 is the button
+Seat 2: KristinaMH ($119 in chips)
+Seat 3: Eklund_1891 ($121 in chips)
+Eklund_1891: posts small blind $1
+KristinaMH: posts big blind $3
+*** HOLE CARDS ***
+Eklund_1891: raises $3 to $6
+KristinaMH: calls $3
+*** FLOP *** [Kh 9d 2h]
+KristinaMH: checks
+Eklund_1891: checks
+*** TURN *** [Kh 9d 2h] [Jh]
+KristinaMH: bets $6
+Eklund_1891: raises $6 to $12
+KristinaMH: calls $6
+*** RIVER *** [Kh 9d 2h Jh] [6s]
+KristinaMH: checks
+Eklund_1891: checks
+*** SHOW DOWN ***
+KristinaMH: shows [3c Ks] (a pair of Kings)
+Eklund_1891: mucks hand
+KristinaMH collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Kh 9d 2h Jh 6s]
+Seat 2: KristinaMH (big blind) showed [3c Ks] and won ($35.50) with a pair of Kings
+Seat 3: Eklund_1891 (button) (small blind) mucked
+
+
+PokerStars Hand #170423371239:  Hold'em Limit ($3/$6 USD) - 2017/05/14 16:17:08 ET
+Table 'Mentha' 6-max Seat #2 is the button
+Seat 2: KristinaMH ($136.50 in chips)
+Seat 3: Eklund_1891 ($103 in chips)
+KristinaMH: posts small blind $1
+Eklund_1891: posts big blind $3
+*** HOLE CARDS ***
+KristinaMH: folds
+Uncalled bet ($2) returned to Eklund_1891
+Eklund_1891 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: KristinaMH (button) (small blind) folded before Flop
+Seat 3: Eklund_1891 (big blind) collected ($2)
+
+
+PokerStars Hand #170423375785:  Hold'em Limit ($3/$6 USD) - 2017/05/14 16:17:13 ET
+Table 'Mentha' 6-max Seat #3 is the button
+Seat 2: KristinaMH ($135.50 in chips)
+Seat 3: Eklund_1891 ($104 in chips)
+Eklund_1891: posts small blind $1
+KristinaMH: posts big blind $3
+*** HOLE CARDS ***
+Eklund_1891: raises $3 to $6
+KristinaMH: calls $3
+*** FLOP *** [Kh 4h Qh]
+KristinaMH: checks
+Korish9506 joins the table at seat #1
+Eklund_1891: checks
+*** TURN *** [Kh 4h Qh] [Ks]
+KristinaMH: bets $6
+Eklund_1891: calls $6
+*** RIVER *** [Kh 4h Qh Ks] [3d]
+KristinaMH: checks
+Eklund_1891: checks
+*** SHOW DOWN ***
+KristinaMH: shows [4d 9d] (two pair, Kings and Fours)
+Eklund_1891: mucks hand
+KristinaMH collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Kh 4h Qh Ks 3d]
+Seat 2: KristinaMH (big blind) showed [4d 9d] and won ($23.52) with two pair, Kings and Fours
+Seat 3: Eklund_1891 (button) (small blind) mucked
+
+
+PokerStars Hand #170423397815:  Hold'em Limit ($3/$6 USD) - 2017/05/14 16:17:37 ET
+Table 'Mentha' 6-max Seat #2 is the button
+Seat 2: KristinaMH ($147.02 in chips)
+Seat 3: Eklund_1891 ($92 in chips)
+KristinaMH: posts small blind $1
+Eklund_1891: posts big blind $3
+*** HOLE CARDS ***
+KristinaMH: raises $3 to $6
+Eklund_1891: folds
+Uncalled bet ($3) returned to KristinaMH
+KristinaMH collected $6 from pot
+KristinaMH: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: KristinaMH (button) (small blind) collected ($6)
+Seat 3: Eklund_1891 (big blind) folded before Flop
+
+
+PokerStars Hand #170427258200:  Hold'em Limit ($3/$6 USD) - 2017/05/14 17:30:04 ET
+Table 'Mentha' 6-max Seat #6 is the button
+Seat 5: Koraseg ($137.56 in chips)
+Seat 6: Chessnok ($170.32 in chips)
+Chessnok: posts small blind $1
+NAV_SERGG: is sitting out
+Koraseg: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+Koraseg: calls $3
+*** FLOP *** [5s 3d 9s]
+Koraseg: checks
+Chessnok: bets $3
+Koraseg: calls $3
+*** TURN *** [5s 3d 9s] [8c]
+Koraseg: checks
+Chessnok: checks
+*** RIVER *** [5s 3d 9s 8c] [Ks]
+Koraseg: checks
+Chessnok: bets $6
+Koraseg: calls $6
+*** SHOW DOWN ***
+Chessnok: shows [4h 4d] (a pair of Fours)
+Koraseg: shows [8s 6h] (a pair of Eights)
+Koraseg collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5s 3d 9s 8c Ks]
+Seat 5: Koraseg (big blind) showed [8s 6h] and won ($29.50) with a pair of Eights
+Seat 6: Chessnok (button) (small blind) showed [4h 4d] and lost with a pair of Fours
+
+

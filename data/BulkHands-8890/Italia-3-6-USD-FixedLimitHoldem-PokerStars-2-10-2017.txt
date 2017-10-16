@@ -1,0 +1,36 @@
+PokerStars Hand #165973748263:  Hold'em Limit ($3/$6 USD) - 2017/02/10 3:19:40 ET
+Table 'Italia' 6-max Seat #2 is the button
+Seat 2: karambakilla ($150.73 in chips)
+Seat 6: brew29 ($113.35 in chips)
+karambakilla: posts small blind $1
+volkovsky: is sitting out
+HAL9QQQ: is sitting out
+brew29: posts big blind $3
+*** HOLE CARDS ***
+volkovsky leaves the table
+karambakilla: raises $3 to $6
+HAL9QQQ leaves the table
+brew29: calls $3
+*** FLOP *** [Qc 5d 3s]
+brew29: checks
+karambakilla: bets $3
+brew29: calls $3
+*** TURN *** [Qc 5d 3s] [9c]
+brew29: checks
+karambakilla: bets $6
+brew29: calls $6
+*** RIVER *** [Qc 5d 3s 9c] [Qd]
+brew29: checks
+karambakilla: bets $6
+brew29: calls $6
+*** SHOW DOWN ***
+karambakilla: shows [Ac Ah] (two pair, Aces and Queens)
+brew29: mucks hand
+karambakilla collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Qc 5d 3s 9c Qd]
+Seat 2: karambakilla (button) (small blind) showed [Ac Ah] and won ($41.50) with two pair, Aces and Queens
+Seat 6: brew29 (big blind) mucked
+
+

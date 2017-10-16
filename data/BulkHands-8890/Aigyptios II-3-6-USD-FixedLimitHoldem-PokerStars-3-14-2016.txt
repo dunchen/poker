@@ -1,0 +1,34 @@
+PokerStars Hand #150333018499:  Hold'em Limit ($3/$6 USD) - 2016/03/14 7:51:53 ET
+Table 'Aigyptios II' 6-max Seat #4 is the button
+Seat 3: wiezel0172 ($75.64 in chips)
+Seat 4: Psynto ($74.53 in chips)
+Psynto: posts small blind $1
+aless284: is sitting out
+wiezel0172: posts big blind $3
+*** HOLE CARDS ***
+Psynto: raises $3 to $6
+aless284 leaves the table
+wiezel0172: calls $3
+*** FLOP *** [9h 9s 2h]
+wiezel0172: checks
+Psynto: bets $3
+wiezel0172: raises $3 to $6
+Psynto: calls $3
+*** TURN *** [9h 9s 2h] [Ac]
+wiezel0172: checks
+Psynto: checks
+*** RIVER *** [9h 9s 2h Ac] [5s]
+wiezel0172: checks
+Psynto: bets $6
+wiezel0172: calls $6
+*** SHOW DOWN ***
+Psynto: shows [Ks Kh] (two pair, Kings and Nines)
+wiezel0172: mucks hand
+Psynto collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [9h 9s 2h Ac 5s]
+Seat 3: wiezel0172 (big blind) mucked
+Seat 4: Psynto (button) (small blind) showed [Ks Kh] and won ($35.50) with two pair, Kings and Nines
+
+

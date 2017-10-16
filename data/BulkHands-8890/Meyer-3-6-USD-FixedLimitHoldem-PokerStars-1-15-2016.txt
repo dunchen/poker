@@ -1,0 +1,79 @@
+PokerStars Hand #147076309416:  Hold'em Limit ($3/$6 USD) - 2016/01/15 9:29:46 ET
+Table 'Meyer' 6-max Seat #3 is the button
+Seat 3: LolDnkaments ($72 in chips)
+Seat 6: vladal 888 ($92.34 in chips)
+LolDnkaments: posts small blind $1
+HAL9QQQ: is sitting out
+vladal 888: posts big blind $3
+*** HOLE CARDS ***
+LolDnkaments: raises $3 to $6
+vladal 888: calls $3
+*** FLOP *** [Th 8h Qs]
+vladal 888: checks
+LolDnkaments: bets $3
+vladal 888: calls $3
+*** TURN *** [Th 8h Qs] [2s]
+vladal 888: checks
+LolDnkaments: bets $6
+vladal 888: calls $6
+*** RIVER *** [Th 8h Qs 2s] [6h]
+vladal 888: checks
+LolDnkaments: bets $6
+vladal 888: calls $6
+*** SHOW DOWN ***
+LolDnkaments: shows [Qd 7d] (a pair of Queens)
+vladal 888: mucks hand
+LolDnkaments collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Th 8h Qs 2s 6h]
+Seat 3: LolDnkaments (button) (small blind) showed [Qd 7d] and won ($41.50) with a pair of Queens
+Seat 6: vladal 888 (big blind) mucked
+
+
+PokerStars Hand #147076328060:  Hold'em Limit ($3/$6 USD) - 2016/01/15 9:30:12 ET
+Table 'Meyer' 6-max Seat #6 is the button
+Seat 3: LolDnkaments ($92.50 in chips)
+Seat 6: vladal 888 ($71.34 in chips)
+vladal 888: posts small blind $1
+LolDnkaments: posts big blind $3
+*** HOLE CARDS ***
+vladal 888: folds
+Uncalled bet ($2) returned to LolDnkaments
+LolDnkaments collected $2 from pot
+LolDnkaments: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: LolDnkaments (big blind) collected ($2)
+Seat 6: vladal 888 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147076335453:  Hold'em Limit ($3/$6 USD) - 2016/01/15 9:30:22 ET
+Table 'Meyer' 6-max Seat #3 is the button
+Seat 3: LolDnkaments ($93.50 in chips)
+Seat 4: HAL9QQQ ($190.04 in chips)
+LolDnkaments: posts small blind $1
+HAL9QQQ: posts big blind $3
+*** HOLE CARDS ***
+LolDnkaments: raises $3 to $6
+HAL9QQQ: calls $3
+*** FLOP *** [2c 8d 2d]
+HAL9QQQ: checks
+LolDnkaments: bets $3
+HAL9QQQ: calls $3
+*** TURN *** [2c 8d 2d] [Qd]
+HAL9QQQ: bets $6
+LolDnkaments: calls $6
+*** RIVER *** [2c 8d 2d Qd] [Qh]
+HAL9QQQ: bets $6
+LolDnkaments: folds
+Uncalled bet ($6) returned to HAL9QQQ
+HAL9QQQ collected $29.50 from pot
+HAL9QQQ: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2c 8d 2d Qd Qh]
+Seat 3: LolDnkaments (button) (small blind) folded on the River
+Seat 4: HAL9QQQ (big blind) collected ($29.50)
+
+

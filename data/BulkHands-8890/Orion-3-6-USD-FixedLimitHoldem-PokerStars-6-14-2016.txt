@@ -1,0 +1,66 @@
+PokerStars Hand #154727630393:  Hold'em Limit ($3/$6 USD) - 2016/06/14 12:33:30 ET
+Table 'Orion' 6-max Seat #3 is the button
+Seat 3: Alan The For ($58.20 in chips)
+Seat 5: TinaTurner72 ($120 in chips)
+Alan The For: posts small blind $1
+TinaTurner72: posts big blind $3
+*** HOLE CARDS ***
+Alan The For: raises $3 to $6
+TinaTurner72: raises $3 to $9
+Alan The For: calls $3
+*** FLOP *** [7s 5d 6h]
+TinaTurner72: bets $3
+Alan The For: calls $3
+*** TURN *** [7s 5d 6h] [5h]
+TinaTurner72: bets $6
+Alan The For: calls $6
+*** RIVER *** [7s 5d 6h 5h] [Td]
+TinaTurner72: checks
+Alan The For: bets $6
+TinaTurner72: calls $6
+*** SHOW DOWN ***
+Alan The For: shows [9h 4h] (a pair of Fives)
+TinaTurner72: shows [Kh Jc] (a pair of Fives - King kicker)
+TinaTurner72 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7s 5d 6h 5h Td]
+Seat 3: Alan The For (button) (small blind) showed [9h 4h] and lost with a pair of Fives
+Seat 5: TinaTurner72 (big blind) showed [Kh Jc] and won ($47.50) with a pair of Fives
+
+
+PokerStars Hand #154727651075:  Hold'em Limit ($3/$6 USD) - 2016/06/14 12:34:02 ET
+Table 'Orion' 6-max Seat #5 is the button
+Seat 3: Alan The For ($34.20 in chips)
+Seat 5: TinaTurner72 ($143.50 in chips)
+TinaTurner72: posts small blind $1
+Alan The For: posts big blind $3
+*** HOLE CARDS ***
+TinaTurner72: raises $3 to $6
+Alan The For: calls $3
+*** FLOP *** [8h 3h 6c]
+Alan The For: checks
+TinaTurner72: bets $3
+Alan The For: calls $3
+*** TURN *** [8h 3h 6c] [7c]
+Alan The For: checks
+TinaTurner72: bets $6
+Alan The For: raises $6 to $12
+TinaTurner72: raises $6 to $18
+Alan The For: raises $6 to $24
+Betting is capped
+TinaTurner72: calls $6
+*** RIVER *** [8h 3h 6c 7c] [4d]
+Alan The For: bets $1.20 and is all-in
+TinaTurner72: calls $1.20
+*** SHOW DOWN ***
+Alan The For: shows [4s 5s] (a straight, Four to Eight)
+TinaTurner72: shows [9h 5h] (a straight, Five to Nine)
+TinaTurner72 collected $67.90 from pot
+*** SUMMARY ***
+Total pot $68.40 | Rake $0.50
+Board [8h 3h 6c 7c 4d]
+Seat 3: Alan The For (big blind) showed [4s 5s] and lost with a straight, Four to Eight
+Seat 5: TinaTurner72 (button) (small blind) showed [9h 5h] and won ($67.90) with a straight, Five to Nine
+
+

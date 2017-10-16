@@ -1,0 +1,102 @@
+PokerStars Hand #156723651406:  Hold'em Limit ($3/$6 USD) - 2016/08/01 10:31:14 ET
+Table 'Lumiere' 10-max Seat #5 is the button
+Seat 5: simper11 ($120 in chips)
+Seat 7: Icecold ($54.60 in chips)
+simper11: posts small blind $1
+Icecold: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+Icecold: calls $3
+*** FLOP *** [Jh 6c 4h]
+Icecold: checks
+simper11: bets $3
+Icecold: calls $3
+*** TURN *** [Jh 6c 4h] [4c]
+Icecold: checks
+simper11: bets $6
+Icecold: calls $6
+*** RIVER *** [Jh 6c 4h 4c] [8h]
+Icecold: checks
+simper11: checks
+*** SHOW DOWN ***
+Icecold: shows [3s 3h] (two pair, Fours and Threes)
+simper11: mucks hand
+Icecold collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Jh 6c 4h 4c 8h]
+Seat 5: simper11 (button) (small blind) mucked
+Seat 7: Icecold (big blind) showed [3s 3h] and won ($29.50) with two pair, Fours and Threes
+
+
+PokerStars Hand #156723663842:  Hold'em Limit ($3/$6 USD) - 2016/08/01 10:31:35 ET
+Table 'Lumiere' 10-max Seat #7 is the button
+Seat 5: simper11 ($120 in chips)
+Seat 7: Icecold ($69.10 in chips)
+Icecold: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+Icecold: raises $3 to $6
+simper11: calls $3
+*** FLOP *** [2c Ad 6d]
+simper11: checks
+Icecold: checks
+*** TURN *** [2c Ad 6d] [8d]
+Great_Kang joins the table at seat #8
+simper11: checks
+Icecold: bets $6
+simper11: folds
+Uncalled bet ($6) returned to Icecold
+Icecold collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2c Ad 6d 8d]
+Seat 5: simper11 (big blind) folded on the Turn
+Seat 7: Icecold (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #156723671808:  Hold'em Limit ($3/$6 USD) - 2016/08/01 10:31:49 ET
+Table 'Lumiere' 10-max Seat #5 is the button
+Seat 5: simper11 ($120 in chips)
+Seat 7: Icecold ($74.86 in chips)
+simper11: posts small blind $1
+Icecold: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+Icecold: folds
+Uncalled bet ($3) returned to simper11
+simper11 collected $6 from pot
+simper11: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 5: simper11 (button) (small blind) collected ($6)
+Seat 7: Icecold (big blind) folded before Flop
+
+
+PokerStars Hand #156724195806:  Hold'em Limit ($3/$6 USD) - 2016/08/01 10:46:49 ET
+Table 'Lumiere' 10-max Seat #8 is the button
+Seat 5: simper11 ($120 in chips)
+Seat 8: Great_Kang ($131.28 in chips)
+Great_Kang: posts small blind $1
+Ale4o: is sitting out
+simper11: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+simper11: calls $3
+*** FLOP *** [Td 6h 7c]
+Ale4o leaves the table
+simper11: checks
+Great_Kang: checks
+*** TURN *** [Td 6h 7c] [9s]
+simper11: bets $6
+Great_Kang: folds
+Uncalled bet ($6) returned to simper11
+simper11 collected $11.76 from pot
+simper11: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Td 6h 7c 9s]
+Seat 5: simper11 (big blind) collected ($11.76)
+Seat 8: Great_Kang (button) (small blind) folded on the Turn
+
+

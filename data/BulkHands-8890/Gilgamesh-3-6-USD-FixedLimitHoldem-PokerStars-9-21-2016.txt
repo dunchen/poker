@@ -1,0 +1,801 @@
+PokerStars Hand #158902370261:  Hold'em Limit ($3/$6 USD) - 2016/09/21 12:11:55 ET
+Table 'Gilgamesh' 6-max Seat #4 is the button
+Seat 3: simper11 ($128.64 in chips)
+Seat 4: Goldvrn ($36 in chips)
+Goldvrn: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+Goldvrn: raises $3 to $6
+simper11: raises $3 to $9
+Goldvrn: calls $3
+*** FLOP *** [9s 7s Jc]
+simper11: bets $3
+Goldvrn: raises $3 to $6
+simper11: calls $3
+*** TURN *** [9s 7s Jc] [Kh]
+simper11: checks
+Goldvrn: checks
+*** RIVER *** [9s 7s Jc Kh] [Ks]
+simper11: bets $6
+Goldvrn: raises $6 to $12
+simper11: calls $6
+*** SHOW DOWN ***
+Goldvrn: shows [4h 7h] (two pair, Kings and Sevens)
+simper11: shows [Kd Qs] (three of a kind, Kings)
+simper11 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [9s 7s Jc Kh Ks]
+Seat 3: simper11 (big blind) showed [Kd Qs] and won ($53.50) with three of a kind, Kings
+Seat 4: Goldvrn (button) (small blind) showed [4h 7h] and lost with two pair, Kings and Sevens
+
+
+PokerStars Hand #158902357718:  Hold'em Limit ($3/$6 USD) - 2016/09/21 12:11:36 ET
+Table 'Gilgamesh' 6-max Seat #3 is the button
+Seat 3: simper11 ($120 in chips)
+Seat 4: Goldvrn ($45 in chips)
+simper11: posts small blind $1
+Goldvrn: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+Goldvrn: calls $3
+*** FLOP *** [3d Kh 8d]
+Goldvrn: checks
+simper11: bets $3
+Goldvrn: calls $3
+*** TURN *** [3d Kh 8d] [Ah]
+Goldvrn: checks
+simper11: bets $6
+Goldvrn: folds
+Uncalled bet ($6) returned to simper11
+simper11 collected $17.64 from pot
+simper11: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3d Kh 8d Ah]
+Seat 3: simper11 (button) (small blind) collected ($17.64)
+Seat 4: Goldvrn (big blind) folded on the Turn
+
+
+PokerStars Hand #158902381762:  Hold'em Limit ($3/$6 USD) - 2016/09/21 12:12:12 ET
+Table 'Gilgamesh' 6-max Seat #3 is the button
+Seat 3: simper11 ($155.14 in chips)
+Seat 4: Goldvrn ($9 in chips)
+simper11: posts small blind $1
+Goldvrn: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+Goldvrn: calls $3
+*** FLOP *** [2c 9h Ah]
+Goldvrn: bets $3 and is all-in
+simper11: calls $3
+19woody58 joins the table at seat #5
+*** TURN *** [2c 9h Ah] [6c]
+*** RIVER *** [2c 9h Ah 6c] [Kd]
+*** SHOW DOWN ***
+Goldvrn: shows [2h 8c] (a pair of Deuces)
+simper11: shows [Kh 9s] (two pair, Kings and Nines)
+simper11 collected $17.64 from pot
+Goldvrn leaves the table
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2c 9h Ah 6c Kd]
+Seat 3: simper11 (button) (small blind) showed [Kh 9s] and won ($17.64) with two pair, Kings and Nines
+Seat 4: Goldvrn (big blind) showed [2h 8c] and lost with a pair of Deuces
+
+
+PokerStars Hand #158902412849:  Hold'em Limit ($3/$6 USD) - 2016/09/21 12:12:59 ET
+Table 'Gilgamesh' 6-max Seat #3 is the button
+Seat 3: simper11 ($196.28 in chips)
+Seat 5: 19woody58 ($87 in chips)
+simper11: posts small blind $1
+19woody58: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+19woody58: folds
+Uncalled bet ($3) returned to simper11
+simper11 collected $6 from pot
+simper11: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: simper11 (button) (small blind) collected ($6)
+Seat 5: 19woody58 (big blind) folded before Flop
+
+
+PokerStars Hand #158902397557:  Hold'em Limit ($3/$6 USD) - 2016/09/21 12:12:36 ET
+Table 'Gilgamesh' 6-max Seat #5 is the button
+Seat 3: simper11 ($163.78 in chips)
+Seat 5: 19woody58 ($120 in chips)
+19woody58: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+19woody58: calls $2
+simper11: checks
+*** FLOP *** [7c Jh 4h]
+simper11: checks
+19woody58: bets $3
+simper11: raises $3 to $6
+19woody58: calls $3
+*** TURN *** [7c Jh 4h] [Qc]
+simper11: bets $6
+19woody58: calls $6
+*** RIVER *** [7c Jh 4h Qc] [2h]
+simper11: bets $6
+19woody58: raises $6 to $12
+simper11: raises $6 to $18
+19woody58: calls $6
+*** SHOW DOWN ***
+simper11: shows [6h 9h] (a flush, Jack high)
+19woody58: mucks hand
+simper11 collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [7c Jh 4h Qc 2h]
+Seat 3: simper11 (big blind) showed [6h 9h] and won ($65.50) with a flush, Jack high
+Seat 5: 19woody58 (button) (small blind) mucked
+
+
+PokerStars Hand #158902440195:  Hold'em Limit ($3/$6 USD) - 2016/09/21 12:13:40 ET
+Table 'Gilgamesh' 6-max Seat #3 is the button
+Seat 3: simper11 ($217.78 in chips)
+Seat 5: 19woody58 ($65 in chips)
+simper11: posts small blind $1
+19woody58: posts big blind $3
+*** HOLE CARDS ***
+simper11: folds
+Uncalled bet ($2) returned to 19woody58
+19woody58 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: simper11 (button) (small blind) folded before Flop
+Seat 5: 19woody58 (big blind) collected ($2)
+
+
+PokerStars Hand #158902419472:  Hold'em Limit ($3/$6 USD) - 2016/09/21 12:13:09 ET
+Table 'Gilgamesh' 6-max Seat #3 is the button
+Seat 3: simper11 ($200.28 in chips)
+Seat 5: 19woody58 ($83 in chips)
+simper11: posts small blind $1
+19woody58: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+19woody58: calls $3
+*** FLOP *** [2d 7h 5s]
+19woody58: checks
+simper11: bets $3
+19woody58: calls $3
+*** TURN *** [2d 7h 5s] [5d]
+19woody58: checks
+simper11: bets $6
+19woody58: calls $6
+*** RIVER *** [2d 7h 5s 5d] [Tc]
+19woody58: checks
+simper11: bets $6
+19woody58: calls $6
+*** SHOW DOWN ***
+simper11: shows [Ks 7c] (two pair, Sevens and Fives)
+19woody58: mucks hand
+simper11 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2d 7h 5s 5d Tc]
+Seat 3: simper11 (button) (small blind) showed [Ks 7c] and won ($41.50) with two pair, Sevens and Fives
+Seat 5: 19woody58 (big blind) mucked
+
+
+PokerStars Hand #158902443267:  Hold'em Limit ($3/$6 USD) - 2016/09/21 12:13:45 ET
+Table 'Gilgamesh' 6-max Seat #5 is the button
+Seat 3: simper11 ($216.78 in chips)
+Seat 5: 19woody58 ($66 in chips)
+19woody58: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+19woody58: folds
+Uncalled bet ($2) returned to simper11
+simper11 collected $2 from pot
+simper11: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: simper11 (big blind) collected ($2)
+Seat 5: 19woody58 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #158902458445:  Hold'em Limit ($3/$6 USD) - 2016/09/21 12:14:07 ET
+Table 'Gilgamesh' 6-max Seat #5 is the button
+Seat 3: simper11 ($208.78 in chips)
+Seat 5: 19woody58 ($73.64 in chips)
+19woody58: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+19woody58: raises $3 to $6
+simper11: calls $3
+*** FLOP *** [9s As 6d]
+simper11: checks
+19woody58: bets $3
+simper11: folds
+Uncalled bet ($3) returned to 19woody58
+19woody58 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9s As 6d]
+Seat 3: simper11 (big blind) folded on the Flop
+Seat 5: 19woody58 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #158902482171:  Hold'em Limit ($3/$6 USD) - 2016/09/21 12:14:43 ET
+Table 'Gilgamesh' 6-max Seat #5 is the button
+Seat 3: simper11 ($223.28 in chips)
+Seat 5: 19woody58 ($58.40 in chips)
+19woody58: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+19woody58: folds
+Uncalled bet ($2) returned to simper11
+simper11 collected $2 from pot
+simper11: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: simper11 (big blind) collected ($2)
+Seat 5: 19woody58 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #158902465490:  Hold'em Limit ($3/$6 USD) - 2016/09/21 12:14:18 ET
+Table 'Gilgamesh' 6-max Seat #3 is the button
+Seat 3: simper11 ($202.78 in chips)
+Seat 5: 19woody58 ($79.40 in chips)
+simper11: posts small blind $1
+19woody58: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+19woody58: calls $3
+*** FLOP *** [9s 4h 8h]
+19woody58: checks
+simper11: bets $3
+19woody58: calls $3
+*** TURN *** [9s 4h 8h] [Ks]
+19woody58: checks
+simper11: bets $6
+19woody58: calls $6
+*** RIVER *** [9s 4h 8h Ks] [2h]
+19woody58: checks
+simper11: bets $6
+19woody58: calls $6
+*** SHOW DOWN ***
+simper11: shows [Kc Jh] (a pair of Kings)
+19woody58: mucks hand
+simper11 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9s 4h 8h Ks 2h]
+Seat 3: simper11 (button) (small blind) showed [Kc Jh] and won ($41.50) with a pair of Kings
+Seat 5: 19woody58 (big blind) mucked
+
+
+PokerStars Hand #158902446745:  Hold'em Limit ($3/$6 USD) - 2016/09/21 12:13:50 ET
+Table 'Gilgamesh' 6-max Seat #3 is the button
+Seat 3: simper11 ($217.78 in chips)
+Seat 5: 19woody58 ($65 in chips)
+simper11: posts small blind $1
+19woody58: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+19woody58: calls $3
+*** FLOP *** [3h Ac 7c]
+19woody58: checks
+simper11: bets $3
+19woody58: calls $3
+*** TURN *** [3h Ac 7c] [Qh]
+19woody58: checks
+simper11: checks
+*** RIVER *** [3h Ac 7c Qh] [Td]
+19woody58: bets $6
+simper11: folds
+Uncalled bet ($6) returned to 19woody58
+19woody58 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3h Ac 7c Qh Td]
+Seat 3: simper11 (button) (small blind) folded on the River
+Seat 5: 19woody58 (big blind) collected ($17.64)
+
+
+PokerStars Hand #158902491671:  Hold'em Limit ($3/$6 USD) - 2016/09/21 12:14:57 ET
+Table 'Gilgamesh' 6-max Seat #3 is the button
+Seat 3: simper11 ($224.28 in chips)
+Seat 5: 19woody58 ($57.40 in chips)
+simper11: posts small blind $1
+19woody58: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+19woody58: folds
+Uncalled bet ($3) returned to simper11
+simper11 collected $6 from pot
+simper11: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: simper11 (button) (small blind) collected ($6)
+Seat 5: 19woody58 (big blind) folded before Flop
+
+
+PokerStars Hand #158902496369:  Hold'em Limit ($3/$6 USD) - 2016/09/21 12:15:04 ET
+Table 'Gilgamesh' 6-max Seat #5 is the button
+Seat 3: simper11 ($227.28 in chips)
+Seat 5: 19woody58 ($54.40 in chips)
+19woody58: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+19woody58: raises $3 to $6
+simper11: calls $3
+*** FLOP *** [2h 9c 3s]
+simper11: checks
+19woody58: bets $3
+simper11: calls $3
+*** TURN *** [2h 9c 3s] [5c]
+simper11: checks
+19woody58: bets $6
+simper11: raises $6 to $12
+19woody58: calls $6
+*** RIVER *** [2h 9c 3s 5c] [2d]
+simper11: bets $6
+19woody58: calls $6
+*** SHOW DOWN ***
+simper11: shows [4c 2c] (three of a kind, Deuces)
+19woody58: mucks hand
+simper11 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [2h 9c 3s 5c 2d]
+Seat 3: simper11 (big blind) showed [4c 2c] and won ($53.50) with three of a kind, Deuces
+Seat 5: 19woody58 (button) (small blind) mucked
+
+
+PokerStars Hand #158902488243:  Hold'em Limit ($3/$6 USD) - 2016/09/21 12:14:52 ET
+Table 'Gilgamesh' 6-max Seat #5 is the button
+Seat 3: simper11 ($223.28 in chips)
+Seat 5: 19woody58 ($58.40 in chips)
+19woody58: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+19woody58: folds
+Uncalled bet ($2) returned to simper11
+simper11 collected $2 from pot
+simper11: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: simper11 (big blind) collected ($2)
+Seat 5: 19woody58 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #158902485426:  Hold'em Limit ($3/$6 USD) - 2016/09/21 12:14:48 ET
+Table 'Gilgamesh' 6-max Seat #3 is the button
+Seat 3: simper11 ($224.28 in chips)
+Seat 5: 19woody58 ($57.40 in chips)
+simper11: posts small blind $1
+19woody58: posts big blind $3
+*** HOLE CARDS ***
+simper11: folds
+Uncalled bet ($2) returned to 19woody58
+19woody58 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: simper11 (button) (small blind) folded before Flop
+Seat 5: 19woody58 (big blind) collected ($2)
+
+
+PokerStars Hand #158902539618:  Hold'em Limit ($3/$6 USD) - 2016/09/21 12:16:09 ET
+Table 'Gilgamesh' 6-max Seat #5 is the button
+Seat 3: simper11 ($223.78 in chips)
+Seat 5: 19woody58 ($56.66 in chips)
+19woody58: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+19woody58: folds
+Uncalled bet ($2) returned to simper11
+simper11 collected $2 from pot
+simper11: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: simper11 (big blind) collected ($2)
+Seat 5: 19woody58 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #158902535949:  Hold'em Limit ($3/$6 USD) - 2016/09/21 12:16:04 ET
+Table 'Gilgamesh' 6-max Seat #3 is the button
+Seat 3: simper11 ($220.78 in chips)
+Seat 5: 19woody58 ($59.66 in chips)
+simper11: posts small blind $1
+19woody58: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+19woody58: folds
+Uncalled bet ($3) returned to simper11
+simper11 collected $6 from pot
+simper11: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: simper11 (button) (small blind) collected ($6)
+Seat 5: 19woody58 (big blind) folded before Flop
+
+
+PokerStars Hand #158902528935:  Hold'em Limit ($3/$6 USD) - 2016/09/21 12:15:53 ET
+Table 'Gilgamesh' 6-max Seat #5 is the button
+Seat 3: simper11 ($226.78 in chips)
+Seat 5: 19woody58 ($53.90 in chips)
+19woody58: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+19woody58: raises $3 to $6
+simper11: calls $3
+*** FLOP *** [6d Jd Th]
+simper11: checks
+19woody58: bets $3
+simper11: folds
+Uncalled bet ($3) returned to 19woody58
+19woody58 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6d Jd Th]
+Seat 3: simper11 (big blind) folded on the Flop
+Seat 5: 19woody58 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #158902553480:  Hold'em Limit ($3/$6 USD) - 2016/09/21 12:16:30 ET
+Table 'Gilgamesh' 6-max Seat #5 is the button
+Seat 3: simper11 ($233.42 in chips)
+Seat 5: 19woody58 ($46.66 in chips)
+19woody58: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+19woody58: folds
+Uncalled bet ($2) returned to simper11
+simper11 collected $2 from pot
+simper11: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: simper11 (big blind) collected ($2)
+Seat 5: 19woody58 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #158902542870:  Hold'em Limit ($3/$6 USD) - 2016/09/21 12:16:14 ET
+Table 'Gilgamesh' 6-max Seat #3 is the button
+Seat 3: simper11 ($224.78 in chips)
+Seat 5: 19woody58 ($55.66 in chips)
+simper11: posts small blind $1
+19woody58: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+19woody58: calls $3
+*** FLOP *** [3s Ks Ad]
+19woody58: checks
+simper11: bets $3
+19woody58: calls $3
+*** TURN *** [3s Ks Ad] [As]
+19woody58: checks
+simper11: bets $6
+19woody58: folds
+Uncalled bet ($6) returned to simper11
+simper11 collected $17.64 from pot
+simper11: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3s Ks Ad As]
+Seat 3: simper11 (button) (small blind) collected ($17.64)
+Seat 5: 19woody58 (big blind) folded on the Turn
+
+
+PokerStars Hand #158902512215:  Hold'em Limit ($3/$6 USD) - 2016/09/21 12:15:28 ET
+Table 'Gilgamesh' 6-max Seat #3 is the button
+Seat 3: simper11 ($253.78 in chips)
+Seat 5: 19woody58 ($27.40 in chips)
+simper11: posts small blind $1
+19woody58: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+19woody58: calls $3
+*** FLOP *** [7d 9c 8d]
+19woody58: checks
+simper11: bets $3
+19woody58: calls $3
+*** TURN *** [7d 9c 8d] [3d]
+19woody58: checks
+simper11: bets $6
+19woody58: raises $6 to $12
+simper11: calls $6
+*** RIVER *** [7d 9c 8d 3d] [Ad]
+19woody58: bets $6
+simper11: calls $6
+*** SHOW DOWN ***
+19woody58: shows [7s 9d] (a flush, Ace high)
+simper11: mucks hand
+19woody58 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [7d 9c 8d 3d Ad]
+Seat 3: simper11 (button) (small blind) mucked
+Seat 5: 19woody58 (big blind) showed [7s 9d] and won ($53.50) with a flush, Ace high
+
+
+PokerStars Hand #158902583609:  Hold'em Limit ($3/$6 USD) - 2016/09/21 12:17:15 ET
+Table 'Gilgamesh' 6-max Seat #3 is the button
+Seat 3: simper11 ($246.94 in chips)
+Seat 5: 19woody58 ($32.66 in chips)
+simper11: posts small blind $1
+19woody58: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+19woody58: calls $3
+*** FLOP *** [Kd 4h 7h]
+19woody58: checks
+simper11: bets $3
+19woody58: calls $3
+*** TURN *** [Kd 4h 7h] [3h]
+19woody58: checks
+simper11: checks
+*** RIVER *** [Kd 4h 7h 3h] [8s]
+19woody58: bets $6
+simper11: folds
+Uncalled bet ($6) returned to 19woody58
+19woody58 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kd 4h 7h 3h 8s]
+Seat 3: simper11 (button) (small blind) folded on the River
+Seat 5: 19woody58 (big blind) collected ($17.64)
+
+
+PokerStars Hand #158902556742:  Hold'em Limit ($3/$6 USD) - 2016/09/21 12:16:35 ET
+Table 'Gilgamesh' 6-max Seat #3 is the button
+Seat 3: simper11 ($234.42 in chips)
+Seat 5: 19woody58 ($45.66 in chips)
+simper11: posts small blind $1
+19woody58: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+19woody58: calls $3
+*** FLOP *** [Qh 8d 7c]
+19woody58: checks
+simper11: checks
+*** TURN *** [Qh 8d 7c] [8c]
+19woody58: bets $6
+simper11: calls $6
+*** RIVER *** [Qh 8d 7c 8c] [5d]
+19woody58: checks
+simper11: checks
+*** SHOW DOWN ***
+19woody58: shows [Td Jc] (a pair of Eights)
+simper11: shows [4d Ad] (a pair of Eights - Ace kicker)
+simper11 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Qh 8d 7c 8c 5d]
+Seat 3: simper11 (button) (small blind) showed [4d Ad] and won ($23.52) with a pair of Eights
+Seat 5: 19woody58 (big blind) showed [Td Jc] and lost with a pair of Eights
+
+
+PokerStars Hand #158902574963:  Hold'em Limit ($3/$6 USD) - 2016/09/21 12:17:02 ET
+Table 'Gilgamesh' 6-max Seat #3 is the button
+Seat 3: simper11 ($246.94 in chips)
+Seat 5: 19woody58 ($32.66 in chips)
+simper11: posts small blind $1
+19woody58: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+19woody58: folds
+Uncalled bet ($3) returned to simper11
+simper11 collected $6 from pot
+simper11: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: simper11 (button) (small blind) collected ($6)
+Seat 5: 19woody58 (big blind) folded before Flop
+
+
+PokerStars Hand #158902571618:  Hold'em Limit ($3/$6 USD) - 2016/09/21 12:16:57 ET
+Table 'Gilgamesh' 6-max Seat #5 is the button
+Seat 3: simper11 ($245.94 in chips)
+Seat 5: 19woody58 ($33.66 in chips)
+19woody58: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+19woody58: folds
+Uncalled bet ($2) returned to simper11
+simper11 collected $2 from pot
+simper11: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: simper11 (big blind) collected ($2)
+Seat 5: 19woody58 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #158902578595:  Hold'em Limit ($3/$6 USD) - 2016/09/21 12:17:08 ET
+Table 'Gilgamesh' 6-max Seat #5 is the button
+Seat 3: simper11 ($249.94 in chips)
+Seat 5: 19woody58 ($29.66 in chips)
+19woody58: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+19woody58: raises $3 to $6
+simper11: folds
+Uncalled bet ($3) returned to 19woody58
+19woody58 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: simper11 (big blind) folded before Flop
+Seat 5: 19woody58 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #158902599903:  Hold'em Limit ($3/$6 USD) - 2016/09/21 12:17:39 ET
+Table 'Gilgamesh' 6-max Seat #5 is the button
+Seat 3: simper11 ($237.94 in chips)
+Seat 5: 19woody58 ($41.30 in chips)
+19woody58: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+19woody58: calls $2
+simper11: checks
+*** FLOP *** [6s Ad 6c]
+simper11: checks
+19woody58: bets $3
+simper11: folds
+Uncalled bet ($3) returned to 19woody58
+19woody58 collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [6s Ad 6c]
+Seat 3: simper11 (big blind) folded on the Flop
+Seat 5: 19woody58 (button) (small blind) collected ($5.88)
+
+
+PokerStars Hand #158902627691:  Hold'em Limit ($3/$6 USD) - 2016/09/21 12:18:21 ET
+Table 'Gilgamesh' 6-max Seat #5 is the button
+Seat 3: simper11 ($228.94 in chips)
+Seat 5: 19woody58 ($49.94 in chips)
+19woody58: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+19woody58: folds
+Uncalled bet ($2) returned to simper11
+simper11 collected $2 from pot
+simper11: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: simper11 (big blind) collected ($2)
+Seat 5: 19woody58 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #158902609368:  Hold'em Limit ($3/$6 USD) - 2016/09/21 12:17:54 ET
+Table 'Gilgamesh' 6-max Seat #3 is the button
+Seat 3: simper11 ($234.94 in chips)
+Seat 5: 19woody58 ($44.18 in chips)
+simper11: posts small blind $1
+19woody58: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+19woody58: calls $3
+*** FLOP *** [Jh 8h 3d]
+19woody58: checks
+simper11: checks
+*** TURN *** [Jh 8h 3d] [Tc]
+19woody58: bets $6
+simper11: folds
+Uncalled bet ($6) returned to 19woody58
+19woody58 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jh 8h 3d Tc]
+Seat 3: simper11 (button) (small blind) folded on the Turn
+Seat 5: 19woody58 (big blind) collected ($11.76)
+
+
+PokerStars Hand #158902631019:  Hold'em Limit ($3/$6 USD) - 2016/09/21 12:18:26 ET
+Table 'Gilgamesh' 6-max Seat #3 is the button
+Seat 3: simper11 ($229.94 in chips)
+Seat 5: 19woody58 ($48.94 in chips)
+simper11: posts small blind $1
+19woody58: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+19woody58: calls $3
+*** FLOP *** [Kc 3d 9d]
+19woody58: checks
+simper11: bets $3
+19woody58: calls $3
+*** TURN *** [Kc 3d 9d] [5s]
+19woody58: checks
+simper11: bets $6
+19woody58: calls $6
+*** RIVER *** [Kc 3d 9d 5s] [6s]
+Apanage joins the table at seat #6
+19woody58: checks
+simper11: bets $6
+19woody58: folds
+Uncalled bet ($6) returned to simper11
+simper11 collected $29.50 from pot
+simper11: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kc 3d 9d 5s 6s]
+Seat 3: simper11 (button) (small blind) collected ($29.50)
+Seat 5: 19woody58 (big blind) folded on the River
+
+
+PokerStars Hand #158902730644:  Hold'em Limit ($3/$6 USD) - 2016/09/21 12:20:53 ET
+Table 'Gilgamesh' 6-max Seat #5 is the button
+Seat 5: 19woody58 ($35.14 in chips)
+Seat 6: Apanage ($66.28 in chips)
+19woody58: posts small blind $1
+Apanage: posts big blind $3
+*** HOLE CARDS ***
+19woody58: raises $3 to $6
+Apanage: calls $3
+*** FLOP *** [2s 6s Qs]
+Apanage: checks
+19woody58: bets $3
+Apanage: raises $3 to $6
+19woody58: calls $3
+*** TURN *** [2s 6s Qs] [Ts]
+Apanage: checks
+19woody58: bets $6
+Apanage: calls $6
+*** RIVER *** [2s 6s Qs Ts] [5c]
+Apanage: checks
+19woody58: bets $6
+Apanage: calls $6
+*** SHOW DOWN ***
+19woody58: shows [8s Ks] (a flush, King high)
+Apanage: mucks hand
+19woody58 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2s 6s Qs Ts 5c]
+Seat 5: 19woody58 (button) (small blind) showed [8s Ks] and won ($47.50) with a flush, King high
+Seat 6: Apanage (big blind) mucked
+
+
+PokerStars Hand #158902725391:  Hold'em Limit ($3/$6 USD) - 2016/09/21 12:20:46 ET
+Table 'Gilgamesh' 6-max Seat #6 is the button
+Seat 5: 19woody58 ($34.14 in chips)
+Seat 6: Apanage ($67.28 in chips)
+Apanage: posts small blind $1
+19woody58: posts big blind $3
+*** HOLE CARDS ***
+boony444 joins the table at seat #1
+Apanage: folds
+Uncalled bet ($2) returned to 19woody58
+19woody58 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: 19woody58 (big blind) collected ($2)
+Seat 6: Apanage (button) (small blind) folded before Flop
+
+
+PokerStars Hand #158903357374:  Hold'em Limit ($3/$6 USD) - 2016/09/21 12:36:14 ET
+Table 'Gilgamesh' 6-max Seat #2 is the button
+Seat 2: Chessnok ($89.06 in chips)
+Seat 4: happyshine88 ($42.11 in chips)
+Chessnok: posts small blind $1
+AllinRamstad: is sitting out
+happyshine88: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+AllinRamstad leaves the table
+happyshine88: raises $3 to $9
+Chessnok: calls $3
+*** FLOP *** [7s Ts 6c]
+happyshine88: bets $3
+Chessnok: raises $3 to $6
+happyshine88: calls $3
+*** TURN *** [7s Ts 6c] [Td]
+happyshine88: checks
+Chessnok: bets $6
+happyshine88: folds
+Uncalled bet ($6) returned to Chessnok
+Chessnok collected $29.50 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7s Ts 6c Td]
+Seat 2: Chessnok (button) (small blind) collected ($29.50)
+Seat 4: happyshine88 (big blind) folded on the Turn
+
+

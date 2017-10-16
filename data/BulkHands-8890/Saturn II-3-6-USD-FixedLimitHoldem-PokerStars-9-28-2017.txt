@@ -1,0 +1,33 @@
+PokerStars Hand #176230734765:  Hold'em Limit ($3/$6 USD) - 2017/09/28 12:32:13 ET
+Table 'Saturn II' 6-max Seat #6 is the button
+Seat 3: Ag3r0n ($79.26 in chips)
+Seat 6: Hurlingham55 ($141.64 in chips)
+Hurlingham55: posts small blind $1
+Ag3r0n: posts big blind $3
+*** HOLE CARDS ***
+Hurlingham55: raises $3 to $6
+Ag3r0n: calls $3
+*** FLOP *** [3s 9d 4s]
+Ag3r0n: checks
+Hurlingham55: bets $3
+Ag3r0n: raises $3 to $6
+Hurlingham55: calls $3
+*** TURN *** [3s 9d 4s] [5h]
+Ag3r0n: bets $6
+Hurlingham55: raises $6 to $12
+Ag3r0n: calls $6
+*** RIVER *** [3s 9d 4s 5h] [2s]
+Ag3r0n: bets $6
+Hurlingham55: raises $6 to $12
+Ag3r0n: calls $6
+*** SHOW DOWN ***
+Hurlingham55: shows [8s 5s] (a flush, Eight high)
+Ag3r0n: mucks hand
+Hurlingham55 collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [3s 9d 4s 5h 2s]
+Seat 3: Ag3r0n (big blind) mucked
+Seat 6: Hurlingham55 (button) (small blind) showed [8s 5s] and won ($71.50) with a flush, Eight high
+
+

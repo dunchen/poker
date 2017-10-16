@@ -1,0 +1,32 @@
+PokerStars Hand #167287110420:  Hold'em Limit ($3/$6 USD) - 2017/03/08 7:22:17 ET
+Table 'Asaph II' 6-max Seat #4 is the button
+Seat 3: NAUTJE1337 ($40.74 in chips)
+Seat 4: TbIP-TbIP 88 ($72 in chips)
+TbIP-TbIP 88: posts small blind $1
+krossguard: is sitting out
+NAUTJE1337: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88: raises $3 to $6
+NAUTJE1337: calls $3
+*** FLOP *** [4s 7d 4d]
+krossguard leaves the table
+NAUTJE1337: checks
+TbIP-TbIP 88: bets $3
+NAUTJE1337: calls $3
+*** TURN *** [4s 7d 4d] [Td]
+NAUTJE1337: bets $6
+TbIP-TbIP 88: calls $6
+*** RIVER *** [4s 7d 4d Td] [5c]
+NAUTJE1337: bets $6
+TbIP-TbIP 88: calls $6
+*** SHOW DOWN ***
+NAUTJE1337: shows [9h 8d] (a pair of Fours)
+TbIP-TbIP 88: shows [Ad Ks] (a pair of Fours - Ace kicker)
+TbIP-TbIP 88 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [4s 7d 4d Td 5c]
+Seat 3: NAUTJE1337 (big blind) showed [9h 8d] and lost with a pair of Fours
+Seat 4: TbIP-TbIP 88 (button) (small blind) showed [Ad Ks] and won ($41.50) with a pair of Fours
+
+

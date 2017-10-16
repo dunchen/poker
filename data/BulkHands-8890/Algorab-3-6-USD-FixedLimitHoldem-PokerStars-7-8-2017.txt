@@ -1,0 +1,277 @@
+PokerStars Hand #172772676915:  Hold'em Limit ($3/$6 USD) - 2017/07/08 15:07:53 ET
+Table 'Algorab' 6-max Seat #3 is the button
+Seat 3: keeponflying ($120 in chips)
+Seat 4: MTails ($120 in chips)
+keeponflying: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+keeponflying: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [3s As 5s]
+MTails: checks
+keeponflying: checks
+*** TURN *** [3s As 5s] [2c]
+MTails: bets $6
+keeponflying: calls $6
+*** RIVER *** [3s As 5s 2c] [5h]
+MTails: bets $6
+keeponflying: calls $6
+*** SHOW DOWN ***
+MTails: shows [4s Qd] (a straight, Ace to Five)
+keeponflying: mucks hand
+MTails collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [3s As 5s 2c 5h]
+Seat 3: keeponflying (button) (small blind) mucked
+Seat 4: MTails (big blind) showed [4s Qd] and won ($35.50) with a straight, Ace to Five
+
+
+PokerStars Hand #172772695891:  Hold'em Limit ($3/$6 USD) - 2017/07/08 15:08:19 ET
+Table 'Algorab' 6-max Seat #4 is the button
+Seat 3: keeponflying ($102 in chips)
+Seat 4: MTails ($137.50 in chips)
+MTails: posts small blind $1
+keeponflying: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+keeponflying: calls $3
+*** FLOP *** [Ad 4d Ah]
+keeponflying: checks
+MTails: bets $3
+keeponflying: calls $3
+*** TURN *** [Ad 4d Ah] [5s]
+keeponflying: checks
+MTails: bets $6
+keeponflying: calls $6
+*** RIVER *** [Ad 4d Ah 5s] [Kc]
+keeponflying: checks
+MTails: bets $6
+keeponflying: calls $6
+*** SHOW DOWN ***
+MTails: shows [Ts 2c] (a pair of Aces)
+keeponflying: shows [4c Td] (two pair, Aces and Fours)
+keeponflying collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ad 4d Ah 5s Kc]
+Seat 3: keeponflying (big blind) showed [4c Td] and won ($41.50) with two pair, Aces and Fours
+Seat 4: MTails (button) (small blind) showed [Ts 2c] and lost with a pair of Aces
+
+
+PokerStars Hand #172772746073:  Hold'em Limit ($3/$6 USD) - 2017/07/08 15:09:26 ET
+Table 'Algorab' 6-max Seat #3 is the button
+Seat 3: keeponflying ($113.25 in chips)
+Seat 4: MTails ($124.89 in chips)
+keeponflying: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+keeponflying: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [Tc Jd 5h]
+MTails: checks
+keeponflying: bets $3
+MTails: calls $3
+*** TURN *** [Tc Jd 5h] [6h]
+MTails: checks
+keeponflying: checks
+*** RIVER *** [Tc Jd 5h 6h] [2s]
+MTails: checks
+keeponflying: checks
+*** SHOW DOWN ***
+MTails: shows [Ad 4s] (high card Ace)
+keeponflying: shows [9d 9h] (a pair of Nines)
+keeponflying collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Tc Jd 5h 6h 2s]
+Seat 3: keeponflying (button) (small blind) showed [9d 9h] and won ($17.64) with a pair of Nines
+Seat 4: MTails (big blind) showed [Ad 4s] and lost with high card Ace
+
+
+PokerStars Hand #172772731989:  Hold'em Limit ($3/$6 USD) - 2017/07/08 15:09:06 ET
+Table 'Algorab' 6-max Seat #4 is the button
+Seat 3: keeponflying ($122.25 in chips)
+Seat 4: MTails ($116.25 in chips)
+MTails: posts small blind $1
+keeponflying: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+keeponflying: calls $3
+*** FLOP *** [4d 5d Ac]
+keeponflying: checks
+MTails: bets $3
+keeponflying: calls $3
+*** TURN *** [4d 5d Ac] [2d]
+keeponflying: checks
+MTails: bets $6
+keeponflying: folds
+Uncalled bet ($6) returned to MTails
+MTails collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4d 5d Ac 2d]
+Seat 3: keeponflying (big blind) folded on the Turn
+Seat 4: MTails (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #172772709035:  Hold'em Limit ($3/$6 USD) - 2017/07/08 15:08:36 ET
+Table 'Algorab' 6-max Seat #3 is the button
+Seat 3: keeponflying ($122.50 in chips)
+Seat 4: MTails ($116.50 in chips)
+keeponflying: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+keeponflying: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [3h 7h 8s]
+MTails: checks
+keeponflying: bets $3
+MTails: calls $3
+*** TURN *** [3h 7h 8s] [Ts]
+MTails: checks
+keeponflying: checks
+*** RIVER *** [3h 7h 8s Ts] [Jd]
+MTails: bets $6
+keeponflying: raises $6 to $12
+MTails: calls $6
+*** SHOW DOWN ***
+keeponflying: shows [5s 9d] (a straight, Seven to Jack)
+MTails: shows [9c Jh] (a straight, Seven to Jack)
+MTails collected $20.75 from pot
+keeponflying collected $20.75 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [3h 7h 8s Ts Jd]
+Seat 3: keeponflying (button) (small blind) showed [5s 9d] and won ($20.75) with a straight, Seven to Jack
+Seat 4: MTails (big blind) showed [9c Jh] and won ($20.75) with a straight, Seven to Jack
+
+
+PokerStars Hand #172772777083:  Hold'em Limit ($3/$6 USD) - 2017/07/08 15:10:07 ET
+Table 'Algorab' 6-max Seat #4 is the button
+Seat 3: keeponflying ($134.41 in chips)
+Seat 4: MTails ($102.89 in chips)
+MTails: posts small blind $1
+keeponflying: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+keeponflying: calls $3
+*** FLOP *** [Qd 5s 6s]
+keeponflying: checks
+MTails: bets $3
+keeponflying: calls $3
+*** TURN *** [Qd 5s 6s] [Kh]
+keeponflying: checks
+MTails: bets $6
+keeponflying: raises $6 to $12
+MTails: calls $6
+*** RIVER *** [Qd 5s 6s Kh] [3d]
+keeponflying: bets $6
+MTails: folds
+Uncalled bet ($6) returned to keeponflying
+keeponflying collected $41.50 from pot
+keeponflying: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Qd 5s 6s Kh 3d]
+Seat 3: keeponflying (big blind) collected ($41.50)
+Seat 4: MTails (button) (small blind) folded on the River
+
+
+PokerStars Hand #172772789835:  Hold'em Limit ($3/$6 USD) - 2017/07/08 15:10:24 ET
+Table 'Algorab' 6-max Seat #3 is the button
+Seat 3: keeponflying ($154.91 in chips)
+Seat 4: MTails ($141.89 in chips)
+keeponflying: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa joins the table at seat #5
+keeponflying: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [8h 5c Js]
+MTails: checks
+keeponflying: bets $3
+MTails: raises $3 to $6
+keeponflying: calls $3
+*** TURN *** [8h 5c Js] [6d]
+MTails: bets $6
+keeponflying: calls $6
+*** RIVER *** [8h 5c Js 6d] [Jh]
+MTails: bets $6
+keeponflying: calls $6
+*** SHOW DOWN ***
+MTails: shows [Jc 7h] (three of a kind, Jacks)
+keeponflying: mucks hand
+MTails collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8h 5c Js 6d Jh]
+Seat 3: keeponflying (button) (small blind) mucked
+Seat 4: MTails (big blind) showed [Jc 7h] and won ($47.50) with three of a kind, Jacks
+
+
+PokerStars Hand #172772760802:  Hold'em Limit ($3/$6 USD) - 2017/07/08 15:09:45 ET
+Table 'Algorab' 6-max Seat #4 is the button
+Seat 3: keeponflying ($121.89 in chips)
+Seat 4: MTails ($115.89 in chips)
+MTails: posts small blind $1
+keeponflying: posts big blind $3
+*** HOLE CARDS ***
+MTails: folds
+Uncalled bet ($2) returned to keeponflying
+keeponflying collected $2 from pot
+keeponflying: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: keeponflying (big blind) collected ($2)
+Seat 4: MTails (button) (small blind) folded before Flop
+
+
+PokerStars Hand #172772764433:  Hold'em Limit ($3/$6 USD) - 2017/07/08 15:09:50 ET
+Table 'Algorab' 6-max Seat #3 is the button
+Seat 3: keeponflying ($122.89 in chips)
+Seat 4: MTails ($114.89 in chips)
+keeponflying: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+keeponflying: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [Ks 5d 3h]
+MTails: checks
+keeponflying: checks
+*** TURN *** [Ks 5d 3h] [7s]
+MTails: bets $6
+keeponflying: calls $6
+*** RIVER *** [Ks 5d 3h 7s] [7d]
+MTails: checks
+keeponflying: bets $6
+MTails: folds
+Uncalled bet ($6) returned to keeponflying
+keeponflying collected $23.52 from pot
+keeponflying: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Ks 5d 3h 7s 7d]
+Seat 3: keeponflying (button) (small blind) collected ($23.52)
+Seat 4: MTails (big blind) folded on the River
+
+
+PokerStars Hand #172773435673:  Hold'em Limit ($3/$6 USD) - 2017/07/08 15:24:40 ET
+Table 'Algorab' 6-max Seat #6 is the button
+Seat 5: EVBET ($270 in chips)
+Seat 6: tedros404 ($108.19 in chips)
+tedros404: posts small blind $1
+Isenvaden: is sitting out
+EVBET: posts big blind $3
+*** HOLE CARDS ***
+tedros404: folds
+Uncalled bet ($2) returned to EVBET
+tedros404 leaves the table
+EVBET collected $2 from pot
+EVBET: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: EVBET (big blind) collected ($2)
+Seat 6: tedros404 (button) (small blind) folded before Flop
+
+

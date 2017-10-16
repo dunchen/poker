@@ -1,0 +1,51 @@
+PokerStars Hand #147401711213:  Hold'em Limit ($3/$6 USD) - 2016/01/20 21:41:21 ET
+Table 'Vitja' 10-max Seat #8 is the button
+Seat 7: PucciWallet ($114.43 in chips)
+Seat 8: Pandakey ($96 in chips)
+Pandakey: posts small blind $1
+PucciWallet: posts big blind $3
+*** HOLE CARDS ***
+Pandakey: raises $3 to $6
+PucciWallet: folds
+Uncalled bet ($3) returned to Pandakey
+PucciWallet leaves the table
+Pandakey collected $6 from pot
+Pandakey: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 7: PucciWallet (big blind) folded before Flop
+Seat 8: Pandakey (button) (small blind) collected ($6)
+
+
+PokerStars Hand #147401698539:  Hold'em Limit ($3/$6 USD) - 2016/01/20 21:40:50 ET
+Table 'Vitja' 10-max Seat #7 is the button
+Seat 7: PucciWallet ($90.93 in chips)
+Seat 8: Pandakey ($120 in chips)
+PucciWallet: posts small blind $1
+Pandakey: posts big blind $3
+*** HOLE CARDS ***
+PucciWallet: raises $3 to $6
+Pandakey: raises $3 to $9
+PucciWallet: calls $3
+*** FLOP *** [6h 3s Jc]
+Pandakey: bets $3
+PucciWallet: calls $3
+*** TURN *** [6h 3s Jc] [4d]
+Pandakey: checks
+PucciWallet: bets $6
+Pandakey: calls $6
+*** RIVER *** [6h 3s Jc 4d] [3h]
+Pandakey: checks
+PucciWallet: bets $6
+Pandakey: calls $6
+*** SHOW DOWN ***
+PucciWallet: shows [7c 5c] (a straight, Three to Seven)
+Pandakey: mucks hand
+PucciWallet collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [6h 3s Jc 4d 3h]
+Seat 7: PucciWallet (button) (small blind) showed [7c 5c] and won ($47.50) with a straight, Three to Seven
+Seat 8: Pandakey (big blind) mucked
+
+

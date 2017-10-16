@@ -1,0 +1,57 @@
+PokerStars Hand #158279255734:  Hold'em Limit ($3/$6 USD) - 2016/09/07 8:46:57 ET
+Table 'Caelium II' 6-max Seat #4 is the button
+Seat 2: Basicxx ($7.16 in chips)
+Seat 4: B_loJkl ($182.50 in chips)
+B_loJkl: posts small blind $1
+Basicxx: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+Basicxx: raises $1.16 to $7.16 and is all-in
+B_loJkl: calls $1.16
+*** FLOP *** [Td 8s Th]
+*** TURN *** [Td 8s Th] [6s]
+*** RIVER *** [Td 8s Th 6s] [4c]
+*** SHOW DOWN ***
+Basicxx: shows [Qc Kd] (a pair of Tens)
+B_loJkl: shows [Jh Jd] (two pair, Jacks and Tens)
+B_loJkl collected $14.03 from pot
+*** SUMMARY ***
+Total pot $14.32 | Rake $0.29
+Board [Td 8s Th 6s 4c]
+Seat 2: Basicxx (big blind) showed [Qc Kd] and lost with a pair of Tens
+Seat 4: B_loJkl (button) (small blind) showed [Jh Jd] and won ($14.03) with two pair, Jacks and Tens
+
+
+PokerStars Hand #158279235277:  Hold'em Limit ($3/$6 USD) - 2016/09/07 8:46:16 ET
+Table 'Caelium II' 6-max Seat #2 is the button
+Seat 2: Basicxx ($40.16 in chips)
+Seat 4: B_loJkl ($150 in chips)
+Basicxx: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Basicxx: calls $2
+B_loJkl: raises $3 to $6
+Basicxx: calls $3
+*** FLOP *** [Js 5c 4d]
+B_loJkl: bets $3
+Basicxx: calls $3
+*** TURN *** [Js 5c 4d] [Kd]
+B_loJkl: bets $6
+Basicxx: raises $6 to $12
+B_loJkl: calls $6
+*** RIVER *** [Js 5c 4d Kd] [2c]
+B_loJkl: checks
+Basicxx: bets $6
+B_loJkl: raises $6 to $12
+Basicxx: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [Ac 3c] (a straight, Ace to Five)
+Basicxx: mucks hand
+B_loJkl collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [Js 5c 4d Kd 2c]
+Seat 2: Basicxx (button) (small blind) mucked
+Seat 4: B_loJkl (big blind) showed [Ac 3c] and won ($65.50) with a straight, Ace to Five
+
+

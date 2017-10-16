@@ -1,0 +1,113 @@
+PokerStars Hand #165315512660:  Hold'em Limit ($3/$6 USD) - 2017/01/28 15:51:55 ET
+Table 'Josefa' 6-max Seat #4 is the button
+Seat 4: IRUPlus ($61.75 in chips)
+Seat 5: TbIP-TbIP 88 ($92 in chips)
+IRUPlus: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+IRUPlus: folds
+Uncalled bet ($2) returned to TbIP-TbIP 88
+TbIP-TbIP 88 collected $2 from pot
+TbIP-TbIP 88: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: IRUPlus (button) (small blind) folded before Flop
+Seat 5: TbIP-TbIP 88 (big blind) collected ($2)
+
+
+PokerStars Hand #165315497796:  Hold'em Limit ($3/$6 USD) - 2017/01/28 15:51:40 ET
+Table 'Josefa' 6-max Seat #5 is the button
+Seat 4: IRUPlus ($38.25 in chips)
+Seat 5: TbIP-TbIP 88 ($116 in chips)
+TbIP-TbIP 88: posts small blind $1
+IRUPlus: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88: raises $3 to $6
+IRUPlus: raises $3 to $9
+TbIP-TbIP 88: calls $3
+*** FLOP *** [Tc 4d Kc]
+sim5sim5 joins the table at seat #6
+IRUPlus: bets $3
+TbIP-TbIP 88: calls $3
+*** TURN *** [Tc 4d Kc] [Ac]
+IRUPlus: bets $6
+TbIP-TbIP 88: calls $6
+*** RIVER *** [Tc 4d Kc Ac] [8s]
+IRUPlus: bets $6
+TbIP-TbIP 88: calls $6
+*** SHOW DOWN ***
+IRUPlus: shows [Jh Qh] (a straight, Ten to Ace)
+TbIP-TbIP 88: mucks hand
+IRUPlus collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Tc 4d Kc Ac 8s]
+Seat 4: IRUPlus (big blind) showed [Jh Qh] and won ($47.50) with a straight, Ten to Ace
+Seat 5: TbIP-TbIP 88 (button) (small blind) mucked
+
+
+PokerStars Hand #165315476455:  Hold'em Limit ($3/$6 USD) - 2017/01/28 15:51:18 ET
+Table 'Josefa' 6-max Seat #4 is the button
+Seat 4: IRUPlus ($59.25 in chips)
+Seat 5: TbIP-TbIP 88 ($95.50 in chips)
+IRUPlus: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+IRUPlus: raises $3 to $6
+TbIP-TbIP 88: raises $3 to $9
+IRUPlus: raises $3 to $12
+Betting is capped
+TbIP-TbIP 88: calls $3
+*** FLOP *** [4c 8c 4s]
+TbIP-TbIP 88: checks
+IRUPlus: bets $3
+TbIP-TbIP 88: calls $3
+*** TURN *** [4c 8c 4s] [8h]
+TbIP-TbIP 88: checks
+IRUPlus: checks
+*** RIVER *** [4c 8c 4s 8h] [3c]
+TbIP-TbIP 88: bets $6
+IRUPlus: calls $6
+*** SHOW DOWN ***
+TbIP-TbIP 88: shows [Qs Ac] (two pair, Eights and Fours)
+IRUPlus: mucks hand
+TbIP-TbIP 88 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [4c 8c 4s 8h 3c]
+Seat 4: IRUPlus (button) (small blind) mucked
+Seat 5: TbIP-TbIP 88 (big blind) showed [Qs Ac] and won ($41.50) with two pair, Eights and Fours
+
+
+PokerStars Hand #165315441640:  Hold'em Limit ($3/$6 USD) - 2017/01/28 15:50:42 ET
+Table 'Josefa' 6-max Seat #5 is the button
+Seat 4: IRUPlus ($83.25 in chips)
+Seat 5: TbIP-TbIP 88 ($72 in chips)
+TbIP-TbIP 88: posts small blind $1
+sim5sim5: is sitting out
+sim5sim5 leaves the table
+IRUPlus: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88: raises $3 to $6
+IRUPlus: raises $3 to $9
+TbIP-TbIP 88: calls $3
+*** FLOP *** [9c 8c 5d]
+IRUPlus: bets $3
+TbIP-TbIP 88: calls $3
+*** TURN *** [9c 8c 5d] [Jd]
+IRUPlus: bets $6
+TbIP-TbIP 88: calls $6
+*** RIVER *** [9c 8c 5d Jd] [7h]
+IRUPlus: bets $6
+TbIP-TbIP 88: calls $6
+*** SHOW DOWN ***
+IRUPlus: shows [Kd 5c] (a pair of Fives)
+TbIP-TbIP 88: shows [6s 8s] (a straight, Five to Nine)
+TbIP-TbIP 88 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9c 8c 5d Jd 7h]
+Seat 4: IRUPlus (big blind) showed [Kd 5c] and lost with a pair of Fives
+Seat 5: TbIP-TbIP 88 (button) (small blind) showed [6s 8s] and won ($47.50) with a straight, Five to Nine
+
+

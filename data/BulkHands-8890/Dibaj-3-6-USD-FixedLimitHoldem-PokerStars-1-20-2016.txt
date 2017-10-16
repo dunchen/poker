@@ -1,0 +1,33 @@
+PokerStars Hand #147355966831:  Hold'em Limit ($3/$6 USD) - 2016/01/20 5:38:36 ET
+Table 'Dibaj' 6-max Seat #1 is the button
+Seat 1: B_loJkl ($147 in chips)
+Seat 5: Pokali ($251.94 in chips)
+nash_ch1 leaves the table
+B_loJkl: posts small blind $1
+bloeffer: is sitting out
+Pokali: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+Pokali: raises $3 to $9
+bloeffer leaves the table
+B_loJkl: calls $3
+*** FLOP *** [2c Kc Qc]
+Pokali: bets $3
+B_loJkl: calls $3
+*** TURN *** [2c Kc Qc] [Jc]
+Pokali: bets $6
+B_loJkl: calls $6
+*** RIVER *** [2c Kc Qc Jc] [Js]
+Pokali: checks
+B_loJkl: checks
+*** SHOW DOWN ***
+Pokali: shows [Ac 3c] (a flush, Ace high)
+B_loJkl: mucks hand
+Pokali collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [2c Kc Qc Jc Js]
+Seat 1: B_loJkl (button) (small blind) mucked
+Seat 5: Pokali (big blind) showed [Ac 3c] and won ($35.50) with a flush, Ace high
+
+

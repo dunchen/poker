@@ -1,0 +1,49 @@
+PokerStars Hand #149684007308:  Hold'em Limit ($3/$6 USD) - 2016/03/01 15:36:40 ET
+Table 'Massalia' 6-max Seat #4 is the button
+Seat 3: $i1ver ($56.50 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+$i1ver: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+$i1ver: calls $3
+*** FLOP *** [3c Ks Qh]
+$i1ver: checks
+VolkovDmitri: bets $3
+$i1ver: calls $3
+*** TURN *** [3c Ks Qh] [5s]
+$i1ver: checks
+VolkovDmitri: bets $6
+$i1ver: raises $6 to $12
+VolkovDmitri: calls $6
+*** RIVER *** [3c Ks Qh 5s] [Jd]
+$i1ver: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+$i1ver: shows [Kh 6h] (a pair of Kings)
+VolkovDmitri: mucks hand
+$i1ver collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [3c Ks Qh 5s Jd]
+Seat 3: $i1ver (big blind) showed [Kh 6h] and won ($41.50) with a pair of Kings
+Seat 4: VolkovDmitri (button) (small blind) mucked
+
+
+PokerStars Hand #149684077194:  Hold'em Limit ($3/$6 USD) - 2016/03/01 15:37:47 ET
+Table 'Massalia' 6-max Seat #3 is the button
+Seat 3: $i1ver ($77 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+$i1ver: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+$i1ver: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: $i1ver (button) (small blind) folded before Flop
+Seat 4: VolkovDmitri (big blind) collected ($2)
+
+

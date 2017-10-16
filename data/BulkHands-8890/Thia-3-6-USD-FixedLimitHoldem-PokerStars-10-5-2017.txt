@@ -1,0 +1,81 @@
+PokerStars Hand #176530625922:  Hold'em Limit ($3/$6 USD) - 2017/10/05 14:38:08 ET
+Table 'Thia' 6-max Seat #3 is the button
+Seat 3: ogdealer ($33.66 in chips)
+Seat 4: vestimokrec ($107 in chips)
+kusznak will be allowed to play after the button
+knas4 will be allowed to play after the button
+ogdealer: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+ogdealer: folds
+Uncalled bet ($2) returned to vestimokrec
+Ag3r0n leaves the table
+vestimokrec collected $2 from pot
+vestimokrec: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: ogdealer (button) (small blind) folded before Flop
+Seat 4: vestimokrec (big blind) collected ($2)
+
+
+PokerStars Hand #176531113115:  Hold'em Limit ($3/$6 USD) - 2017/10/05 14:48:35 ET
+Table 'Thia' 6-max Seat #6 is the button
+Seat 2: knas4 ($368.84 in chips)
+Seat 6: kusznak ($134.80 in chips)
+vestimokrec will be allowed to play after the button
+kusznak: posts small blind $1
+knas4: posts big blind $3
+*** HOLE CARDS ***
+kusznak: raises $3 to $6
+knas4: calls $3
+*** FLOP *** [9h 9s Ks]
+knas4: checks
+LouisB joins the table at seat #4
+kusznak: bets $3
+knas4: calls $3
+*** TURN *** [9h 9s Ks] [8d]
+knas4: checks
+kusznak: bets $6
+knas4: calls $6
+*** RIVER *** [9h 9s Ks 8d] [Jd]
+knas4: checks
+kusznak: checks
+*** SHOW DOWN ***
+knas4: shows [2h 2s] (two pair, Nines and Deuces)
+kusznak: mucks hand
+knas4 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9h 9s Ks 8d Jd]
+Seat 2: knas4 (big blind) showed [2h 2s] and won ($29.50) with two pair, Nines and Deuces
+Seat 6: kusznak (button) (small blind) mucked
+
+
+PokerStars Hand #176531157000:  Hold'em Limit ($3/$6 USD) - 2017/10/05 14:49:32 ET
+Table 'Thia' 6-max Seat #2 is the button
+Seat 2: knas4 ($376.34 in chips)
+Seat 6: kusznak ($126.44 in chips)
+knas4: posts small blind $1
+vestimokrec: is sitting out
+LouisB: is sitting out
+kusznak: posts big blind $3
+vestimokrec leaves the table
+*** HOLE CARDS ***
+knas4: raises $3 to $6
+kusznak: calls $3
+*** FLOP *** [Js 7s 4s]
+kusznak: checks
+knas4: bets $3
+kusznak: raises $3 to $6
+LouisB leaves the table
+knas4: folds
+Uncalled bet ($3) returned to kusznak
+kusznak collected $17.64 from pot
+kusznak: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Js 7s 4s]
+Seat 2: knas4 (button) (small blind) folded on the Flop
+Seat 6: kusznak (big blind) collected ($17.64)
+
+

@@ -1,0 +1,166 @@
+PokerStars Hand #153947425192:  Hold'em Limit ($3/$6 USD) - 2016/05/28 5:28:42 ET
+Table 'Reni' 6-max Seat #3 is the button
+Seat 3: old_col ($90.24 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+old_col: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+old_col: calls $2
+VolkovDmitri: raises $3 to $6
+old_col: calls $3
+*** FLOP *** [3h 5s 4d]
+VolkovDmitri: bets $3
+old_col: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [3h 5s 4d] [Jd]
+VolkovDmitri: checks
+old_col: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [3h 5s 4d Jd] [9s]
+VolkovDmitri: checks
+old_col: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+old_col: shows [4c Qd] (a pair of Fours)
+VolkovDmitri: mucks hand
+old_col collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3h 5s 4d Jd 9s]
+Seat 3: old_col (button) (small blind) showed [4c Qd] and won ($47.50) with a pair of Fours
+Seat 4: VolkovDmitri (big blind) mucked
+
+
+PokerStars Hand #153947460238:  Hold'em Limit ($3/$6 USD) - 2016/05/28 5:30:12 ET
+Table 'Reni' 6-max Seat #3 is the button
+Seat 3: old_col ($131.24 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+old_col: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+old_col: calls $2
+VolkovDmitri: raises $3 to $6
+old_col: calls $3
+*** FLOP *** [6h Js 4h]
+VolkovDmitri: bets $3
+old_col: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6h Js 4h]
+Seat 3: old_col (button) (small blind) folded on the Flop
+Seat 4: VolkovDmitri (big blind) collected ($11.76)
+
+
+PokerStars Hand #153947437997:  Hold'em Limit ($3/$6 USD) - 2016/05/28 5:29:14 ET
+Table 'Reni' 6-max Seat #4 is the button
+Seat 3: old_col ($113.74 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+old_col: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+old_col: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [9h 2d Ts]
+old_col: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [9h 2d Ts] [2h]
+old_col: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [9h 2d Ts 2h] [4s]
+old_col: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to old_col
+old_col collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [9h 2d Ts 2h 4s]
+Seat 3: old_col (big blind) collected ($35.50)
+Seat 4: VolkovDmitri (button) (small blind) folded on the River
+
+
+PokerStars Hand #153947481774:  Hold'em Limit ($3/$6 USD) - 2016/05/28 5:31:07 ET
+Table 'Reni' 6-max Seat #3 is the button
+Seat 3: old_col ($101.24 in chips)
+Seat 4: VolkovDmitri ($149.26 in chips)
+ABATAPP joins the table at seat #5
+old_col: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+old_col: calls $2
+VolkovDmitri: checks
+*** FLOP *** [7c Qd Ah]
+VolkovDmitri: bets $3
+old_col: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $5.88 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [7c Qd Ah]
+Seat 3: old_col (button) (small blind) folded on the Flop
+Seat 4: VolkovDmitri (big blind) collected ($5.88)
+
+
+PokerStars Hand #153947464822:  Hold'em Limit ($3/$6 USD) - 2016/05/28 5:30:23 ET
+Table 'Reni' 6-max Seat #4 is the button
+Seat 3: old_col ($125.24 in chips)
+Seat 4: VolkovDmitri ($125.76 in chips)
+VolkovDmitri: posts small blind $1
+old_col: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+belik555 joins the table at seat #2
+old_col: calls $3
+*** FLOP *** [Th 7d 5c]
+old_col: checks
+VolkovDmitri: bets $3
+old_col: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [Th 7d 5c] [Ad]
+old_col: checks
+VolkovDmitri: bets $6
+old_col: calls $6
+*** RIVER *** [Th 7d 5c Ad] [6h]
+old_col: checks
+VolkovDmitri: bets $6
+old_col: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Ah 9s] (a pair of Aces)
+old_col: mucks hand
+VolkovDmitri collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Th 7d 5c Ad 6h]
+Seat 3: old_col (big blind) mucked
+Seat 4: VolkovDmitri (button) (small blind) showed [Ah 9s] and won ($47.50) with a pair of Aces
+
+
+PokerStars Hand #153948190213:  Hold'em Limit ($3/$6 USD) - 2016/05/28 6:01:03 ET
+Table 'Reni' 6-max Seat #1 is the button
+Seat 1: belik555 ($97.42 in chips)
+Seat 5: ABATAPP ($137.77 in chips)
+belik555: posts small blind $1
+ABATAPP: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri leaves the table
+belik555: raises $3 to $6
+old_col leaves the table
+ABATAPP: raises $3 to $9
+belik555: calls $3
+*** FLOP *** [Ah Tc 2c]
+ABATAPP: bets $3
+belik555: folds
+Uncalled bet ($3) returned to ABATAPP
+ABATAPP collected $17.64 from pot
+ABATAPP: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ah Tc 2c]
+Seat 1: belik555 (button) (small blind) folded on the Flop
+Seat 5: ABATAPP (big blind) collected ($17.64)
+
+

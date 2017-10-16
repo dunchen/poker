@@ -1,0 +1,62 @@
+PokerStars Hand #172541244450:  Hold'em Limit ($3/$6 USD) - 2017/07/03 1:12:47 ET
+Table 'Titania' 6-max Seat #1 is the button
+Seat 1: Velbor107 ($272.52 in chips)
+Seat 3: Pepperlina ($86.20 in chips)
+Velbor107: posts small blind $1
+Pepperlina: posts big blind $3
+*** HOLE CARDS ***
+Velbor107: raises $3 to $6
+Pepperlina: calls $3
+*** FLOP *** [Th 4d Ks]
+Pepperlina: checks
+Velbor107: checks
+*** TURN *** [Th 4d Ks] [Jh]
+Pepperlina: bets $6
+Velbor107: calls $6
+*** RIVER *** [Th 4d Ks Jh] [Ad]
+Pepperlina: bets $6
+Velbor107: calls $6
+*** SHOW DOWN ***
+Pepperlina: shows [9d 7h] (high card Ace)
+Velbor107: shows [6d As] (a pair of Aces)
+Velbor107 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Th 4d Ks Jh Ad]
+Seat 1: Velbor107 (button) (small blind) showed [6d As] and won ($35.50) with a pair of Aces
+Seat 3: Pepperlina (big blind) showed [9d 7h] and lost with high card Ace
+
+
+PokerStars Hand #172541410941:  Hold'em Limit ($3/$6 USD) - 2017/07/03 1:25:28 ET
+Table 'Titania' 6-max Seat #4 is the button
+Seat 3: Pepperlina ($92.17 in chips)
+Seat 4: krossguard ($103.44 in chips)
+krossguard: posts small blind $1
+Velbor107: is sitting out
+Pepperlina: posts big blind $3
+*** HOLE CARDS ***
+Velbor107 leaves the table
+krossguard: raises $3 to $6
+Pepperlina: calls $3
+*** FLOP *** [6s 5s Jc]
+Pepperlina: checks
+krossguard: bets $3
+Pepperlina: calls $3
+*** TURN *** [6s 5s Jc] [3c]
+Pepperlina: checks
+krossguard: bets $6
+Pepperlina: calls $6
+*** RIVER *** [6s 5s Jc 3c] [Ad]
+Pepperlina: checks
+krossguard: bets $6
+Pepperlina: folds
+Uncalled bet ($6) returned to krossguard
+krossguard collected $29.50 from pot
+krossguard: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6s 5s Jc 3c Ad]
+Seat 3: Pepperlina (big blind) folded on the River
+Seat 4: krossguard (button) (small blind) collected ($29.50)
+
+

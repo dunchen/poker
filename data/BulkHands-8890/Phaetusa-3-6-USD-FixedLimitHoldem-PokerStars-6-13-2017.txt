@@ -1,0 +1,61 @@
+PokerStars Hand #171731163983:  Hold'em Limit ($3/$6 USD) - 2017/06/13 14:34:14 ET
+Table 'Phaetusa' 6-max Seat #4 is the button
+Seat 4: igorkabmw ($20 in chips)
+Seat 5: Ale4o ($134.50 in chips)
+igorkabmw: posts small blind $1
+Ale4o: posts big blind $3
+*** HOLE CARDS ***
+igorkabmw: raises $3 to $6
+Ale4o: calls $3
+*** FLOP *** [9s 6c 2s]
+Ale4o: checks
+igorkabmw: checks
+*** TURN *** [9s 6c 2s] [Qc]
+Ale4o: checks
+igorkabmw: checks
+*** RIVER *** [9s 6c 2s Qc] [Tc]
+Ale4o: checks
+igorkabmw: bets $6
+Ale4o: folds
+Uncalled bet ($6) returned to igorkabmw
+igorkabmw collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9s 6c 2s Qc Tc]
+Seat 4: igorkabmw (button) (small blind) collected ($11.76)
+Seat 5: Ale4o (big blind) folded on the River
+
+
+PokerStars Hand #171731149208:  Hold'em Limit ($3/$6 USD) - 2017/06/13 14:33:55 ET
+Table 'Phaetusa' 6-max Seat #5 is the button
+Seat 4: igorkabmw ($35 in chips)
+Seat 5: Ale4o ($120 in chips)
+Ale4o: posts small blind $1
+Chessnok: is sitting out
+igorkabmw: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec joins the table at seat #6
+Ale4o: raises $3 to $6
+igorkabmw: calls $3
+*** FLOP *** [2d 9d 8c]
+igorkabmw: checks
+Ale4o: bets $3
+igorkabmw: calls $3
+*** TURN *** [2d 9d 8c] [As]
+igorkabmw: checks
+parnishka11 joins the table at seat #2
+Ale4o: checks
+*** RIVER *** [2d 9d 8c As] [8h]
+igorkabmw: bets $6
+Ale4o: calls $6
+*** SHOW DOWN ***
+igorkabmw: shows [Qh Jc] (a pair of Eights)
+Ale4o: shows [Kh 6d] (a pair of Eights - Ace+King kicker)
+Ale4o collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2d 9d 8c As 8h]
+Seat 4: igorkabmw (big blind) showed [Qh Jc] and lost with a pair of Eights
+Seat 5: Ale4o (button) (small blind) showed [Kh 6d] and won ($29.50) with a pair of Eights
+
+

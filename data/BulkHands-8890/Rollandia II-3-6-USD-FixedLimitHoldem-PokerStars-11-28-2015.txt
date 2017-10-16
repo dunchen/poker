@@ -1,0 +1,471 @@
+PokerStars Hand #144506904321:  Hold'em Limit ($3/$6 USD) - 2015/11/28 9:45:40 ET
+Table 'Rollandia II' 2-max Seat #1 is the button
+Seat 1: _fayzulllo_ ($86.50 in chips)
+Seat 2: fifaliga ($120 in chips)
+_fayzulllo_: posts small blind $1
+fifaliga: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: raises $3 to $6
+fifaliga: calls $3
+*** FLOP *** [5h Qd Td]
+fifaliga: bets $3
+_fayzulllo_: calls $3
+*** TURN *** [5h Qd Td] [3c]
+fifaliga: bets $6
+_fayzulllo_: raises $6 to $12
+fifaliga: calls $6
+*** RIVER *** [5h Qd Td 3c] [Jh]
+fifaliga: checks
+_fayzulllo_: bets $6
+fifaliga: calls $6
+*** SHOW DOWN ***
+_fayzulllo_: shows [Qh Ah] (a pair of Queens)
+fifaliga: mucks hand
+_fayzulllo_ collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [5h Qd Td 3c Jh]
+Seat 1: _fayzulllo_ (button) (small blind) showed [Qh Ah] and won ($53.50) with a pair of Queens
+Seat 2: fifaliga (big blind) mucked
+
+
+PokerStars Hand #144506924590:  Hold'em Limit ($3/$6 USD) - 2015/11/28 9:46:09 ET
+Table 'Rollandia II' 2-max Seat #2 is the button
+Seat 1: _fayzulllo_ ($113 in chips)
+Seat 2: fifaliga ($120 in chips)
+fifaliga: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+fifaliga: raises $3 to $6
+_fayzulllo_: calls $3
+*** FLOP *** [7c 6d 8c]
+_fayzulllo_: checks
+fifaliga: bets $3
+_fayzulllo_: calls $3
+*** TURN *** [7c 6d 8c] [8d]
+_fayzulllo_: checks
+fifaliga: checks
+*** RIVER *** [7c 6d 8c 8d] [5s]
+_fayzulllo_: checks
+fifaliga: bets $6
+_fayzulllo_: calls $6
+*** SHOW DOWN ***
+fifaliga: shows [Tc 4d] (a straight, Four to Eight)
+_fayzulllo_: mucks hand
+fifaliga collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7c 6d 8c 8d 5s]
+Seat 1: _fayzulllo_ (big blind) mucked
+Seat 2: fifaliga (button) (small blind) showed [Tc 4d] and won ($29.50) with a straight, Four to Eight
+
+
+PokerStars Hand #144506959782:  Hold'em Limit ($3/$6 USD) - 2015/11/28 9:47:01 ET
+Table 'Rollandia II' 2-max Seat #2 is the button
+Seat 1: _fayzulllo_ ($80 in chips)
+Seat 2: fifaliga ($152 in chips)
+fifaliga: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+fifaliga: raises $3 to $6
+_fayzulllo_: calls $3
+*** FLOP *** [8s 3h 8c]
+_fayzulllo_: checks
+fifaliga: bets $3
+_fayzulllo_: raises $3 to $6
+fifaliga: calls $3
+*** TURN *** [8s 3h 8c] [6h]
+_fayzulllo_: bets $6
+fifaliga: calls $6
+*** RIVER *** [8s 3h 8c 6h] [9d]
+_fayzulllo_: bets $6
+fifaliga: calls $6
+*** SHOW DOWN ***
+_fayzulllo_: shows [5s Qc] (a pair of Eights)
+fifaliga: shows [Qh Ad] (a pair of Eights - Ace kicker)
+fifaliga collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8s 3h 8c 6h 9d]
+Seat 1: _fayzulllo_ (big blind) showed [5s Qc] and lost with a pair of Eights
+Seat 2: fifaliga (button) (small blind) showed [Qh Ad] and won ($47.50) with a pair of Eights
+
+
+PokerStars Hand #144506944829:  Hold'em Limit ($3/$6 USD) - 2015/11/28 9:46:39 ET
+Table 'Rollandia II' 2-max Seat #1 is the button
+Seat 1: _fayzulllo_ ($98 in chips)
+Seat 2: fifaliga ($134.50 in chips)
+_fayzulllo_: posts small blind $1
+fifaliga: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: raises $3 to $6
+fifaliga: calls $3
+*** FLOP *** [8d 3d Ad]
+fifaliga: checks
+_fayzulllo_: bets $3
+fifaliga: raises $3 to $6
+_fayzulllo_: calls $3
+*** TURN *** [8d 3d Ad] [Ah]
+fifaliga: checks
+_fayzulllo_: checks
+*** RIVER *** [8d 3d Ad Ah] [2d]
+fifaliga: bets $6
+_fayzulllo_: calls $6
+*** SHOW DOWN ***
+fifaliga: shows [4c Kd] (a flush, Ace high)
+_fayzulllo_: mucks hand
+fifaliga collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [8d 3d Ad Ah 2d]
+Seat 1: _fayzulllo_ (button) (small blind) mucked
+Seat 2: fifaliga (big blind) showed [4c Kd] and won ($35.50) with a flush, Ace high
+
+
+PokerStars Hand #144506996224:  Hold'em Limit ($3/$6 USD) - 2015/11/28 9:47:55 ET
+Table 'Rollandia II' 2-max Seat #2 is the button
+Seat 1: _fayzulllo_ ($44 in chips)
+Seat 2: fifaliga ($187.02 in chips)
+fifaliga: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+fifaliga: folds
+Uncalled bet ($2) returned to _fayzulllo_
+_fayzulllo_ collected $2 from pot
+_fayzulllo_: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: _fayzulllo_ (big blind) collected ($2)
+Seat 2: fifaliga (button) (small blind) folded before Flop
+
+
+PokerStars Hand #144506979265:  Hold'em Limit ($3/$6 USD) - 2015/11/28 9:47:29 ET
+Table 'Rollandia II' 2-max Seat #1 is the button
+Seat 1: _fayzulllo_ ($56 in chips)
+Seat 2: fifaliga ($175.50 in chips)
+_fayzulllo_: posts small blind $1
+fifaliga: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: calls $2
+fifaliga: checks
+*** FLOP *** [8s 2d Jd]
+fifaliga: bets $3
+_fayzulllo_: calls $3
+*** TURN *** [8s 2d Jd] [8c]
+fifaliga: bets $6
+_fayzulllo_: calls $6
+*** RIVER *** [8s 2d Jd 8c] [5s]
+fifaliga: checks
+_fayzulllo_: checks
+*** SHOW DOWN ***
+fifaliga: shows [2c 9h] (two pair, Eights and Deuces)
+_fayzulllo_: mucks hand
+fifaliga collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [8s 2d Jd 8c 5s]
+Seat 1: _fayzulllo_ (button) (small blind) mucked
+Seat 2: fifaliga (big blind) showed [2c 9h] and won ($23.52) with two pair, Eights and Deuces
+
+
+PokerStars Hand #144507000225:  Hold'em Limit ($3/$6 USD) - 2015/11/28 9:48:00 ET
+Table 'Rollandia II' 2-max Seat #1 is the button
+Seat 1: _fayzulllo_ ($45 in chips)
+Seat 2: fifaliga ($186.02 in chips)
+_fayzulllo_: posts small blind $1
+fifaliga: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: calls $2
+fifaliga: raises $3 to $6
+_fayzulllo_: calls $3
+*** FLOP *** [5s 8c 6c]
+fifaliga: checks
+_fayzulllo_: checks
+*** TURN *** [5s 8c 6c] [5d]
+fifaliga: bets $6
+_fayzulllo_: calls $6
+*** RIVER *** [5s 8c 6c 5d] [Qs]
+fifaliga: checks
+_fayzulllo_: checks
+*** SHOW DOWN ***
+fifaliga: shows [Ah 3h] (a pair of Fives)
+_fayzulllo_: mucks hand
+fifaliga collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [5s 8c 6c 5d Qs]
+Seat 1: _fayzulllo_ (button) (small blind) mucked
+Seat 2: fifaliga (big blind) showed [Ah 3h] and won ($23.52) with a pair of Fives
+
+
+PokerStars Hand #144507019079:  Hold'em Limit ($3/$6 USD) - 2015/11/28 9:48:28 ET
+Table 'Rollandia II' 2-max Seat #2 is the button
+Seat 1: _fayzulllo_ ($33 in chips)
+Seat 2: fifaliga ($197.54 in chips)
+fifaliga: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+fifaliga: raises $3 to $6
+_fayzulllo_: raises $3 to $9
+fifaliga: calls $3
+*** FLOP *** [Td 3c Ad]
+_fayzulllo_: bets $3
+fifaliga: raises $3 to $6
+_fayzulllo_: calls $3
+*** TURN *** [Td 3c Ad] [Ac]
+_fayzulllo_: checks
+fifaliga: checks
+*** RIVER *** [Td 3c Ad Ac] [3h]
+_fayzulllo_: bets $6
+fifaliga: folds
+Uncalled bet ($6) returned to _fayzulllo_
+_fayzulllo_ collected $29.50 from pot
+_fayzulllo_: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Td 3c Ad Ac 3h]
+Seat 1: _fayzulllo_ (big blind) collected ($29.50)
+Seat 2: fifaliga (button) (small blind) folded on the River
+
+
+PokerStars Hand #144507048845:  Hold'em Limit ($3/$6 USD) - 2015/11/28 9:49:11 ET
+Table 'Rollandia II' 2-max Seat #2 is the button
+Seat 1: _fayzulllo_ ($65 in chips)
+Seat 2: fifaliga ($164.54 in chips)
+fifaliga: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+fifaliga: raises $3 to $6
+_fayzulllo_: calls $3
+*** FLOP *** [2s 7s Jd]
+_fayzulllo_: checks
+fifaliga: bets $3
+_fayzulllo_: calls $3
+*** TURN *** [2s 7s Jd] [2h]
+_fayzulllo_: checks
+fifaliga: bets $6
+_fayzulllo_: raises $6 to $12
+fifaliga: calls $6
+*** RIVER *** [2s 7s Jd 2h] [Kc]
+_fayzulllo_: bets $6
+fifaliga: calls $6
+*** SHOW DOWN ***
+_fayzulllo_: shows [Kd Jc] (two pair, Kings and Jacks)
+fifaliga: mucks hand
+_fayzulllo_ collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [2s 7s Jd 2h Kc]
+Seat 1: _fayzulllo_ (big blind) showed [Kd Jc] and won ($53.50) with two pair, Kings and Jacks
+Seat 2: fifaliga (button) (small blind) mucked
+
+
+PokerStars Hand #144507037706:  Hold'em Limit ($3/$6 USD) - 2015/11/28 9:48:55 ET
+Table 'Rollandia II' 2-max Seat #1 is the button
+Seat 1: _fayzulllo_ ($47.50 in chips)
+Seat 2: fifaliga ($182.54 in chips)
+_fayzulllo_: posts small blind $1
+fifaliga: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: calls $2
+fifaliga: checks
+*** FLOP *** [9s 6d Kd]
+fifaliga: bets $3
+_fayzulllo_: calls $3
+*** TURN *** [9s 6d Kd] [4h]
+fifaliga: bets $6
+_fayzulllo_: calls $6
+*** RIVER *** [9s 6d Kd 4h] [Kh]
+fifaliga: bets $6
+_fayzulllo_: calls $6
+*** SHOW DOWN ***
+fifaliga: shows [Js Th] (a pair of Kings)
+_fayzulllo_: shows [9c Td] (two pair, Kings and Nines)
+_fayzulllo_ collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [9s 6d Kd 4h Kh]
+Seat 1: _fayzulllo_ (button) (small blind) showed [9c Td] and won ($35.50) with two pair, Kings and Nines
+Seat 2: fifaliga (big blind) showed [Js Th] and lost with a pair of Kings
+
+
+PokerStars Hand #144507063814:  Hold'em Limit ($3/$6 USD) - 2015/11/28 9:49:33 ET
+Table 'Rollandia II' 2-max Seat #1 is the button
+Seat 1: _fayzulllo_ ($91.50 in chips)
+Seat 2: fifaliga ($137.54 in chips)
+_fayzulllo_: posts small blind $1
+fifaliga: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: raises $3 to $6
+fifaliga: calls $3
+*** FLOP *** [4c 4s Ts]
+fifaliga: checks
+_fayzulllo_: checks
+*** TURN *** [4c 4s Ts] [As]
+fifaliga: checks
+_fayzulllo_: bets $6
+fifaliga: folds
+Uncalled bet ($6) returned to _fayzulllo_
+_fayzulllo_ collected $11.76 from pot
+_fayzulllo_: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4c 4s Ts As]
+Seat 1: _fayzulllo_ (button) (small blind) collected ($11.76)
+Seat 2: fifaliga (big blind) folded on the Turn
+
+
+PokerStars Hand #144507075560:  Hold'em Limit ($3/$6 USD) - 2015/11/28 9:49:50 ET
+Table 'Rollandia II' 2-max Seat #2 is the button
+Seat 1: _fayzulllo_ ($97.26 in chips)
+Seat 2: fifaliga ($131.54 in chips)
+fifaliga: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+fifaliga: raises $3 to $6
+_fayzulllo_: calls $3
+*** FLOP *** [9s 8c Th]
+_fayzulllo_: checks
+fifaliga: bets $3
+_fayzulllo_: calls $3
+*** TURN *** [9s 8c Th] [Qd]
+_fayzulllo_: checks
+fifaliga: bets $6
+_fayzulllo_: calls $6
+*** RIVER *** [9s 8c Th Qd] [Kd]
+_fayzulllo_: checks
+fifaliga: checks
+*** SHOW DOWN ***
+_fayzulllo_: shows [8h 7h] (a pair of Eights)
+fifaliga: shows [2c Tc] (a pair of Tens)
+fifaliga collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9s 8c Th Qd Kd]
+Seat 1: _fayzulllo_ (big blind) showed [8h 7h] and lost with a pair of Eights
+Seat 2: fifaliga (button) (small blind) showed [2c Tc] and won ($29.50) with a pair of Tens
+
+
+PokerStars Hand #144509630811:  Hold'em Limit ($3/$6 USD) - 2015/11/28 10:48:25 ET
+Table 'Rollandia II' 2-max Seat #2 is the button
+Seat 1: zoltero ($379.58 in chips)
+Seat 2: fifaliga ($120 in chips)
+fifaliga: posts small blind $1
+zoltero: posts big blind $3
+*** HOLE CARDS ***
+fifaliga: raises $3 to $6
+zoltero: calls $3
+*** FLOP *** [Jc As Js]
+zoltero: checks
+fifaliga: bets $3
+zoltero: folds
+Uncalled bet ($3) returned to fifaliga
+fifaliga collected $11.76 from pot
+fifaliga: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jc As Js]
+Seat 1: zoltero (big blind) folded on the Flop
+Seat 2: fifaliga (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #144509642616:  Hold'em Limit ($3/$6 USD) - 2015/11/28 10:48:40 ET
+Table 'Rollandia II' 2-max Seat #1 is the button
+Seat 1: zoltero ($373.58 in chips)
+Seat 2: fifaliga ($125.76 in chips)
+zoltero: posts small blind $1
+fifaliga: posts big blind $3
+*** HOLE CARDS ***
+zoltero: calls $2
+fifaliga: raises $3 to $6
+zoltero: calls $3
+*** FLOP *** [Ts As Ah]
+fifaliga: bets $3
+zoltero: folds
+Uncalled bet ($3) returned to fifaliga
+fifaliga collected $11.76 from pot
+fifaliga: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ts As Ah]
+Seat 1: zoltero (button) (small blind) folded on the Flop
+Seat 2: fifaliga (big blind) collected ($11.76)
+
+
+PokerStars Hand #144509678316:  Hold'em Limit ($3/$6 USD) - 2015/11/28 10:49:25 ET
+Table 'Rollandia II' 2-max Seat #2 is the button
+Seat 1: zoltero ($408.58 in chips)
+Seat 2: fifaliga ($120 in chips)
+fifaliga: posts small blind $1
+zoltero: posts big blind $3
+*** HOLE CARDS ***
+fifaliga: folds
+Uncalled bet ($2) returned to zoltero
+zoltero collected $2 from pot
+zoltero: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: zoltero (big blind) collected ($2)
+Seat 2: fifaliga (button) (small blind) folded before Flop
+
+
+PokerStars Hand #144509650142:  Hold'em Limit ($3/$6 USD) - 2015/11/28 10:48:49 ET
+Table 'Rollandia II' 2-max Seat #2 is the button
+Seat 1: zoltero ($367.58 in chips)
+Seat 2: fifaliga ($131.52 in chips)
+fifaliga: posts small blind $1
+zoltero: posts big blind $3
+*** HOLE CARDS ***
+fifaliga: raises $3 to $6
+zoltero: raises $3 to $9
+fifaliga: calls $3
+*** FLOP *** [Ks 4c 9h]
+zoltero: bets $3
+fifaliga: calls $3
+*** TURN *** [Ks 4c 9h] [2c]
+zoltero: bets $6
+fifaliga: calls $6
+*** RIVER *** [Ks 4c 9h 2c] [5c]
+zoltero: bets $6
+fifaliga: calls $6
+*** SHOW DOWN ***
+zoltero: shows [Kc Qh] (a pair of Kings)
+fifaliga: mucks hand
+zoltero collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Ks 4c 9h 2c 5c]
+Seat 1: zoltero (big blind) showed [Kc Qh] and won ($47.50) with a pair of Kings
+Seat 2: fifaliga (button) (small blind) mucked
+
+
+PokerStars Hand #144509663659:  Hold'em Limit ($3/$6 USD) - 2015/11/28 10:49:07 ET
+Table 'Rollandia II' 2-max Seat #1 is the button
+Seat 1: zoltero ($391.08 in chips)
+Seat 2: fifaliga ($120 in chips)
+zoltero: posts small blind $1
+fifaliga: posts big blind $3
+*** HOLE CARDS ***
+zoltero: raises $3 to $6
+fifaliga: calls $3
+*** FLOP *** [Kh 6d 2h]
+fifaliga: checks
+zoltero: checks
+*** TURN *** [Kh 6d 2h] [3c]
+fifaliga: bets $6
+zoltero: calls $6
+*** RIVER *** [Kh 6d 2h 3c] [Ad]
+fifaliga: checks
+zoltero: bets $6
+fifaliga: calls $6
+*** SHOW DOWN ***
+zoltero: shows [4c Ac] (a pair of Aces)
+fifaliga: mucks hand
+zoltero collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Kh 6d 2h 3c Ad]
+Seat 1: zoltero (button) (small blind) showed [4c Ac] and won ($35.50) with a pair of Aces
+Seat 2: fifaliga (big blind) mucked
+
+

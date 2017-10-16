@@ -1,0 +1,31 @@
+PokerStars Hand #165356050110:  Hold'em Limit ($3/$6 USD) - 2017/01/29 11:51:18 ET
+Table 'Jole' 6-max Seat #1 is the button
+Seat 1: kolaz03 ($73.02 in chips)
+Seat 3: OnlyLuck111 ($123.05 in chips)
+kolaz03: posts small blind $1
+OnlyLuck111: posts big blind $3
+*** HOLE CARDS ***
+kolaz03: raises $3 to $6
+OnlyLuck111: calls $3
+*** FLOP *** [3s Js 7h]
+OnlyLuck111: checks
+kolaz03: bets $3
+OnlyLuck111: raises $3 to $6
+kolaz03: calls $3
+*** TURN *** [3s Js 7h] [4d]
+OnlyLuck111: bets $6
+kolaz03: calls $6
+*** RIVER *** [3s Js 7h 4d] [Jd]
+OnlyLuck111: bets $6
+kolaz03: calls $6
+*** SHOW DOWN ***
+OnlyLuck111: shows [Ad Ah] (two pair, Aces and Jacks)
+kolaz03: mucks hand
+OnlyLuck111 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3s Js 7h 4d Jd]
+Seat 1: kolaz03 (button) (small blind) mucked
+Seat 3: OnlyLuck111 (big blind) showed [Ad Ah] and won ($47.50) with two pair, Aces and Jacks
+
+

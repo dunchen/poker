@@ -1,0 +1,55 @@
+PokerStars Hand #158226508505:  Hold'em Limit ($3/$6 USD) - 2016/09/06 1:52:41 ET
+Table 'Danjon' 6-max Seat #3 is the button
+Seat 3: simper11 ($120 in chips)
+Seat 4: katsimoto ($60 in chips)
+simper11: posts small blind $1
+katsimoto: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+katsimoto: raises $3 to $9
+simper11: calls $3
+*** FLOP *** [8c Jc 8h]
+katsimoto: bets $3
+simper11: calls $3
+*** TURN *** [8c Jc 8h] [Kc]
+katsimoto: bets $6
+simper11: raises $6 to $12
+Agrotait joins the table at seat #5
+katsimoto: folds
+Uncalled bet ($6) returned to simper11
+simper11 collected $35.50 from pot
+simper11: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [8c Jc 8h Kc]
+Seat 3: simper11 (button) (small blind) collected ($35.50)
+Seat 4: katsimoto (big blind) folded on the Turn
+
+
+PokerStars Hand #158226690373:  Hold'em Limit ($3/$6 USD) - 2016/09/06 2:05:50 ET
+Table 'Danjon' 6-max Seat #5 is the button
+Seat 3: simper11 ($145.21 in chips)
+Seat 5: Agrotait ($82.32 in chips)
+Agrotait: posts small blind $1
+HAL9QQQ: is sitting out
+simper11: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+simper11: calls $3
+*** FLOP *** [2h 5c 7s]
+HAL9QQQ leaves the table
+simper11: checks
+Agrotait: bets $3
+simper11: raises $3 to $6
+Agrotait: folds
+Uncalled bet ($3) returned to simper11
+simper11 collected $17.64 from pot
+simper11: doesn't show hand
+jackdog joins the table at seat #6
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2h 5c 7s]
+Seat 3: simper11 (big blind) collected ($17.64)
+Seat 5: Agrotait (button) (small blind) folded on the Flop
+
+

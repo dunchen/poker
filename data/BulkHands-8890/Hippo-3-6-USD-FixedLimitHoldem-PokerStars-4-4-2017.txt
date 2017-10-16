@@ -1,0 +1,107 @@
+PokerStars Hand #168585363357:  Hold'em Limit ($3/$6 USD) - 2017/04/04 17:50:22 ET
+Table 'Hippo' 6-max Seat #4 is the button
+Seat 1: Auge72 ($119 in chips)
+Seat 4: Actionni13 ($151 in chips)
+Actionni13: posts small blind $1
+Auge72: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+Auge72: calls $3
+*** FLOP *** [3c 4c 7c]
+Auge72: bets $3
+Actionni13: calls $3
+*** TURN *** [3c 4c 7c] [5d]
+Auge72: bets $6
+Actionni13: raises $6 to $12
+Auge72: raises $6 to $18
+Actionni13: raises $6 to $24
+Betting is capped
+Auge72: calls $6
+*** RIVER *** [3c 4c 7c 5d] [4d]
+Auge72: bets $6
+Actionni13: raises $6 to $12
+Auge72: calls $6
+*** SHOW DOWN ***
+Actionni13: shows [8c 2c] (a flush, Eight high)
+Auge72: mucks hand
+Zubasa07 joins the table at seat #2
+Actionni13 collected $89.50 from pot
+*** SUMMARY ***
+Total pot $90 | Rake $0.50
+Board [3c 4c 7c 5d 4d]
+Seat 1: Auge72 (big blind) mucked
+Seat 4: Actionni13 (button) (small blind) showed [8c 2c] and won ($89.50) with a flush, Eight high
+
+
+PokerStars Hand #168585359828:  Hold'em Limit ($3/$6 USD) - 2017/04/04 17:50:18 ET
+Table 'Hippo' 6-max Seat #1 is the button
+Seat 1: Auge72 ($120 in chips)
+Seat 4: Actionni13 ($150 in chips)
+Auge72: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+Auge72: folds
+Uncalled bet ($2) returned to Actionni13
+Actionni13 collected $2 from pot
+Actionni13: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Auge72 (button) (small blind) folded before Flop
+Seat 4: Actionni13 (big blind) collected ($2)
+
+
+PokerStars Hand #168585500908:  Hold'em Limit ($3/$6 USD) - 2017/04/04 17:53:13 ET
+Table 'Hippo' 6-max Seat #6 is the button
+Seat 3: ToDaFelt ($142.74 in chips)
+Seat 6: Macan ($27 in chips)
+Macan: posts small blind $1
+Zubasa07: is sitting out
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07 leaves the table
+Macan: raises $3 to $6
+ToDaFelt: raises $3 to $9
+Macan: calls $3
+*** FLOP *** [3s Ts Qc]
+ToDaFelt: bets $3
+Macan: calls $3
+*** TURN *** [3s Ts Qc] [Ac]
+ToDaFelt: bets $6
+Macan: calls $6
+*** RIVER *** [3s Ts Qc Ac] [7c]
+ToDaFelt: bets $6
+Macan: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [Ah Kh] (a pair of Aces)
+Macan: mucks hand
+ToDaFelt collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3s Ts Qc Ac 7c]
+Seat 3: ToDaFelt (big blind) showed [Ah Kh] and won ($47.50) with a pair of Aces
+Seat 6: Macan (button) (small blind) mucked
+
+
+PokerStars Hand #168585532971:  Hold'em Limit ($3/$6 USD) - 2017/04/04 17:53:53 ET
+Table 'Hippo' 6-max Seat #3 is the button
+Seat 3: ToDaFelt ($166.24 in chips)
+Seat 6: Macan ($3 in chips)
+ToDaFelt: posts small blind $1
+Macan: posts big blind $3 and is all-in
+*** HOLE CARDS ***
+ToDaFelt: calls $2
+*** FLOP *** [6d Kc 2d]
+*** TURN *** [6d Kc 2d] [6c]
+*** RIVER *** [6d Kc 2d 6c] [2s]
+*** SHOW DOWN ***
+Macan: shows [7d 3h] (two pair, Sixes and Deuces)
+ToDaFelt: shows [5d Qc] (two pair, Sixes and Deuces)
+Macan collected $2.94 from pot
+ToDaFelt collected $2.94 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [6d Kc 2d 6c 2s]
+Seat 3: ToDaFelt (button) (small blind) showed [5d Qc] and won ($2.94) with two pair, Sixes and Deuces
+Seat 6: Macan (big blind) showed [7d 3h] and won ($2.94) with two pair, Sixes and Deuces
+
+

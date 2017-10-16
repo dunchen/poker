@@ -1,0 +1,33 @@
+PokerStars Hand #149764764945:  Hold'em Limit ($3/$6 USD) - 2016/03/03 7:43:52 ET
+Table 'Bechuana' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($120 in chips)
+Seat 5: boom65 ($30 in chips)
+VolkovDmitri: posts small blind $1
+boom65: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+boom65: calls $3
+*** FLOP *** [Kh 8c 9s]
+boom65: checks
+VolkovDmitri: bets $3
+boom65: calls $3
+*** TURN *** [Kh 8c 9s] [2h]
+boom65: checks
+VolkovDmitri: bets $6
+boom65: calls $6
+*** RIVER *** [Kh 8c 9s 2h] [6s]
+boom65: checks
+VolkovDmitri: bets $6
+kayway6 joins the table at seat #6
+boom65: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Ks As] (a pair of Kings)
+boom65: mucks hand
+VolkovDmitri collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Kh 8c 9s 2h 6s]
+Seat 4: VolkovDmitri (button) (small blind) showed [Ks As] and won ($41.50) with a pair of Kings
+Seat 5: boom65 (big blind) mucked
+
+

@@ -1,0 +1,127 @@
+PokerStars Hand #161755014297:  Hold'em Limit ($3/$6 USD) - 2016/11/21 15:06:18 ET
+Table 'Nekkar II' 6-max Seat #2 is the button
+Seat 1: Tima220426 ($42.90 in chips)
+Seat 2: kolaz03 ($83.52 in chips)
+kolaz03: posts small blind $1
+Tima220426: posts big blind $3
+*** HOLE CARDS ***
+kolaz03: folds
+Uncalled bet ($2) returned to Tima220426
+Tima220426 collected $2 from pot
+Tima220426: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Tima220426 (big blind) collected ($2)
+Seat 2: kolaz03 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #161754973762:  Hold'em Limit ($3/$6 USD) - 2016/11/21 15:05:37 ET
+Table 'Nekkar II' 6-max Seat #1 is the button
+Seat 1: Tima220426 ($54.90 in chips)
+Seat 2: kolaz03 ($72 in chips)
+Tima220426: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+Tima220426: raises $3 to $6
+kolaz03: calls $3
+*** FLOP *** [7c 4h 9s]
+Agrotait leaves the table
+kolaz03: checks
+Tima220426: bets $3
+kolaz03: raises $3 to $6
+Tima220426: calls $3
+*** TURN *** [7c 4h 9s] [3s]
+kolaz03: bets $6
+Tima220426: folds
+Uncalled bet ($6) returned to kolaz03
+kolaz03 collected $23.52 from pot
+kolaz03: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [7c 4h 9s 3s]
+Seat 1: Tima220426 (button) (small blind) folded on the Turn
+Seat 2: kolaz03 (big blind) collected ($23.52)
+
+
+PokerStars Hand #161754946655:  Hold'em Limit ($3/$6 USD) - 2016/11/21 15:05:10 ET
+Table 'Nekkar II' 6-max Seat #2 is the button
+Seat 1: Tima220426 ($53.90 in chips)
+Seat 2: kolaz03 ($72 in chips)
+kolaz03: posts small blind $1
+Agrotait: is sitting out
+Tima220426: posts big blind $3
+*** HOLE CARDS ***
+kolaz03: folds
+Uncalled bet ($2) returned to Tima220426
+Tima220426 collected $2 from pot
+Tima220426: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Tima220426 (big blind) collected ($2)
+Seat 2: kolaz03 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #161755019214:  Hold'em Limit ($3/$6 USD) - 2016/11/21 15:06:23 ET
+Table 'Nekkar II' 6-max Seat #1 is the button
+Seat 1: Tima220426 ($43.90 in chips)
+Seat 2: kolaz03 ($82.52 in chips)
+Tima220426: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec joins the table at seat #3
+Tima220426: calls $2
+kolaz03: checks
+*** FLOP *** [Qh Jc 7h]
+kolaz03: checks
+Tima220426: checks
+*** TURN *** [Qh Jc 7h] [Qc]
+kolaz03: checks
+DECAlpha joins the table at seat #4
+Tima220426: checks
+*** RIVER *** [Qh Jc 7h Qc] [7d]
+kolaz03: checks
+Tima220426: checks
+*** SHOW DOWN ***
+kolaz03: shows [5d Kh] (two pair, Queens and Sevens)
+Tima220426: shows [5h Kd] (two pair, Queens and Sevens)
+kolaz03 collected $2.94 from pot
+Tima220426 collected $2.94 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Qh Jc 7h Qc 7d]
+Seat 1: Tima220426 (button) (small blind) showed [5h Kd] and won ($2.94) with two pair, Queens and Sevens
+Seat 2: kolaz03 (big blind) showed [5d Kh] and won ($2.94) with two pair, Queens and Sevens
+
+
+PokerStars Hand #161755310043:  Hold'em Limit ($3/$6 USD) - 2016/11/21 15:11:18 ET
+Table 'Nekkar II' 6-max Seat #4 is the button
+Seat 4: DECAlpha ($55.80 in chips)
+Seat 6: ToDaFelt ($126.64 in chips)
+DECAlpha: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+DECAlpha: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [3h 3d 9h]
+vestimokrec leaves the table
+ToDaFelt: checks
+DECAlpha: checks
+*** TURN *** [3h 3d 9h] [7s]
+ToDaFelt: checks
+DECAlpha: bets $6
+ToDaFelt: raises $6 to $12
+DECAlpha: calls $6
+*** RIVER *** [3h 3d 9h 7s] [3s]
+ToDaFelt: bets $6
+DECAlpha: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [8d 5c] (three of a kind, Threes)
+DECAlpha: shows [7c Kd] (a full house, Threes full of Sevens)
+DECAlpha collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3h 3d 9h 7s 3s]
+Seat 4: DECAlpha (button) (small blind) showed [7c Kd] and won ($47.50) with a full house, Threes full of Sevens
+Seat 6: ToDaFelt (big blind) showed [8d 5c] and lost with three of a kind, Threes
+
+

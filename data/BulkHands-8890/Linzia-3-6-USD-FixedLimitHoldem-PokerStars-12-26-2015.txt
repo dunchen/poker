@@ -1,0 +1,51 @@
+PokerStars Hand #145946416508:  Hold'em Limit ($3/$6 USD) - 2015/12/26 10:25:15 ET
+Table 'Linzia' 2-max Seat #2 is the button
+Seat 1: dmitokv ($94.79 in chips)
+Seat 2: miarole ($8.01 in chips)
+miarole: posts small blind $1
+dmitokv: posts big blind $3
+*** HOLE CARDS ***
+miarole: calls $2
+dmitokv: checks
+*** FLOP *** [2c Qc 3c]
+dmitokv: bets $3
+miarole: folds
+Uncalled bet ($3) returned to dmitokv
+dmitokv collected $5.88 from pot
+miarole leaves the table
+dmitokv: doesn't show hand
+dmitokv leaves the table
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [2c Qc 3c]
+Seat 1: dmitokv (big blind) collected ($5.88)
+Seat 2: miarole (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #145946386732:  Hold'em Limit ($3/$6 USD) - 2015/12/26 10:24:38 ET
+Table 'Linzia' 2-max Seat #1 is the button
+Seat 1: dmitokv ($89.03 in chips)
+Seat 2: miarole ($14.01 in chips)
+dmitokv: posts small blind $1
+miarole: posts big blind $3
+*** HOLE CARDS ***
+dmitokv: calls $2
+miarole: checks
+*** FLOP *** [6c 3d Kd]
+miarole: checks
+dmitokv: bets $3
+miarole: calls $3
+*** TURN *** [6c 3d Kd] [Kc]
+miarole: checks
+dmitokv: bets $6
+miarole: folds
+Uncalled bet ($6) returned to dmitokv
+dmitokv collected $11.76 from pot
+dmitokv: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6c 3d Kd Kc]
+Seat 1: dmitokv (button) (small blind) collected ($11.76)
+Seat 2: miarole (big blind) folded on the Turn
+
+

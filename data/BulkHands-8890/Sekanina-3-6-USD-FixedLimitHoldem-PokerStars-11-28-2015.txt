@@ -1,0 +1,50 @@
+PokerStars Hand #144496927896:  Hold'em Limit ($3/$6 USD) - 2015/11/28 4:37:03 ET
+Table 'Sekanina' 2-max Seat #2 is the button
+Seat 1: toklapim ($91.18 in chips)
+Seat 2: farasdaz ($16.21 in chips)
+farasdaz: posts small blind $1
+toklapim: posts big blind $3
+*** HOLE CARDS ***
+farasdaz: raises $3 to $6
+toklapim: raises $3 to $9
+farasdaz: raises $3 to $12
+Betting is capped
+toklapim: calls $3
+*** FLOP *** [7c 6h Th]
+toklapim: bets $3
+farasdaz: raises $1.21 to $4.21 and is all-in
+toklapim: calls $1.21
+*** TURN *** [7c 6h Th] [2h]
+*** RIVER *** [7c 6h Th 2h] [2s]
+*** SHOW DOWN ***
+toklapim: shows [8c 8s] (two pair, Eights and Deuces)
+farasdaz: shows [5h Kd] (a pair of Deuces)
+toklapim collected $31.92 from pot
+*** SUMMARY ***
+Total pot $32.42 | Rake $0.50
+Board [7c 6h Th 2h 2s]
+Seat 1: toklapim (big blind) showed [8c 8s] and won ($31.92) with two pair, Eights and Deuces
+Seat 2: farasdaz (button) (small blind) showed [5h Kd] and lost with a pair of Deuces
+
+
+PokerStars Hand #144496922871:  Hold'em Limit ($3/$6 USD) - 2015/11/28 4:36:51 ET
+Table 'Sekanina' 2-max Seat #1 is the button
+Seat 1: toklapim ($82.18 in chips)
+Seat 2: farasdaz ($25.21 in chips)
+toklapim: posts small blind $1
+farasdaz: posts big blind $3
+*** HOLE CARDS ***
+toklapim: raises $3 to $6
+farasdaz: raises $3 to $9
+toklapim: raises $3 to $12
+Betting is capped
+farasdaz: folds
+Uncalled bet ($3) returned to toklapim
+toklapim collected $18 from pot
+toklapim: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0
+Seat 1: toklapim (button) (small blind) collected ($18)
+Seat 2: farasdaz (big blind) folded before Flop
+
+

@@ -1,0 +1,30 @@
+PokerStars Hand #156525782532:  Hold'em Limit ($3/$6 USD) - 2016/07/27 17:17:00 ET
+Table 'Carina' 10-max Seat #8 is the button
+Seat 7: Chessnok ($85.15 in chips)
+Seat 8: putgang ($14.21 in chips)
+putgang: posts small blind $1
+Kajind: is sitting out
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+Kajind leaves the table
+putgang: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [5h Js 4c]
+Chessnok: checks
+putgang: bets $3
+Chessnok: raises $3 to $6
+putgang: raises $2.21 to $8.21 and is all-in
+Chessnok: calls $2.21
+*** TURN *** [5h Js 4c] [3c]
+*** RIVER *** [5h Js 4c 3c] [6h]
+*** SHOW DOWN ***
+Chessnok: shows [Jd 6c] (two pair, Jacks and Sixes)
+putgang: shows [Ad Qc] (high card Ace)
+Chessnok collected $27.92 from pot
+*** SUMMARY ***
+Total pot $28.42 | Rake $0.50
+Board [5h Js 4c 3c 6h]
+Seat 7: Chessnok (big blind) showed [Jd 6c] and won ($27.92) with two pair, Jacks and Sixes
+Seat 8: putgang (button) (small blind) showed [Ad Qc] and lost with high card Ace
+
+

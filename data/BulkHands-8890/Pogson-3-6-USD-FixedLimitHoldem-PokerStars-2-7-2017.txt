@@ -1,0 +1,130 @@
+PokerStars Hand #165841572745:  Hold'em Limit ($3/$6 USD) - 2017/02/07 14:07:36 ET
+Table 'Pogson' 6-max Seat #1 is the button
+Seat 1: laubes04 ($120 in chips)
+Seat 3: NoVebra ($120 in chips)
+laubes04: posts small blind $1
+NoVebra: posts big blind $3
+*** HOLE CARDS ***
+laubes04: raises $3 to $6
+NoVebra: calls $3
+*** FLOP *** [6h 8d Jc]
+NoVebra: checks
+laubes04: bets $3
+NoVebra: calls $3
+*** TURN *** [6h 8d Jc] [2h]
+NoVebra: checks
+laubes04: bets $6
+NoVebra: calls $6
+*** RIVER *** [6h 8d Jc 2h] [8h]
+NoVebra: checks
+laubes04: bets $6
+NoVebra: calls $6
+*** SHOW DOWN ***
+laubes04: shows [Js 9c] (two pair, Jacks and Eights)
+NoVebra: mucks hand
+laubes04 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [6h 8d Jc 2h 8h]
+Seat 1: laubes04 (button) (small blind) showed [Js 9c] and won ($41.50) with two pair, Jacks and Eights
+Seat 3: NoVebra (big blind) mucked
+
+
+PokerStars Hand #165841633229:  Hold'em Limit ($3/$6 USD) - 2017/02/07 14:08:38 ET
+Table 'Pogson' 6-max Seat #1 is the button
+Seat 1: laubes04 ($113.50 in chips)
+Seat 4: Krazy90 ($120 in chips)
+laubes04: posts small blind $1
+Krazy90: posts big blind $3
+*** HOLE CARDS ***
+laubes04: raises $3 to $6
+Krazy90: calls $3
+*** FLOP *** [5s Ad 8s]
+Krazy90: checks
+laubes04: bets $3
+NoVebra leaves the table
+Krazy90: calls $3
+*** TURN *** [5s Ad 8s] [2s]
+Krazy90: checks
+laubes04: bets $6
+Krazy90: calls $6
+*** RIVER *** [5s Ad 8s 2s] [8d]
+Krazy90: checks
+laubes04: bets $6
+Krazy90: raises $6 to $12
+laubes04: folds
+Uncalled bet ($6) returned to Krazy90
+Krazy90 collected $41.50 from pot
+Krazy90: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [5s Ad 8s 2s 8d]
+Seat 1: laubes04 (button) (small blind) folded on the River
+Seat 4: Krazy90 (big blind) collected ($41.50)
+
+
+PokerStars Hand #165841599161:  Hold'em Limit ($3/$6 USD) - 2017/02/07 14:08:03 ET
+Table 'Pogson' 6-max Seat #3 is the button
+Seat 1: laubes04 ($140.50 in chips)
+Seat 3: NoVebra ($120 in chips)
+Krazy90 joins the table at seat #4
+NoVebra: posts small blind $1
+laubes04: posts big blind $3
+*** HOLE CARDS ***
+nimzon joins the table at seat #5
+NoVebra: raises $3 to $6
+laubes04: raises $3 to $9
+nimzon leaves the table
+NoVebra: calls $3
+*** FLOP *** [6d 9s 7c]
+laubes04: bets $3
+NoVebra: raises $3 to $6
+laubes04: calls $3
+*** TURN *** [6d 9s 7c] [2h]
+laubes04: checks
+NoVebra: bets $6
+laubes04: calls $6
+*** RIVER *** [6d 9s 7c 2h] [2s]
+laubes04: checks
+NoVebra: bets $6
+laubes04: calls $6
+*** SHOW DOWN ***
+NoVebra: shows [9d 4d] (two pair, Nines and Deuces)
+laubes04: mucks hand
+NoVebra collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [6d 9s 7c 2h 2s]
+Seat 1: laubes04 (big blind) mucked
+Seat 3: NoVebra (button) (small blind) showed [9d 4d] and won ($53.50) with two pair, Nines and Deuces
+
+
+PokerStars Hand #165841669516:  Hold'em Limit ($3/$6 USD) - 2017/02/07 14:09:15 ET
+Table 'Pogson' 6-max Seat #4 is the button
+Seat 1: laubes04 ($92.50 in chips)
+Seat 4: Krazy90 ($140.50 in chips)
+Krazy90: posts small blind $1
+laubes04: posts big blind $3
+*** HOLE CARDS ***
+Krazy90: raises $3 to $6
+laubes04: calls $3
+*** FLOP *** [7c Qd 2c]
+laubes04: checks
+Krazy90: bets $3
+laubes04: calls $3
+*** TURN *** [7c Qd 2c] [3s]
+laubes04: checks
+Krazy90: checks
+*** RIVER *** [7c Qd 2c 3s] [5h]
+laubes04: bets $6
+Krazy90: folds
+Uncalled bet ($6) returned to laubes04
+laubes04 collected $17.64 from pot
+laubes04: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7c Qd 2c 3s 5h]
+Seat 1: laubes04 (big blind) collected ($17.64)
+Seat 4: Krazy90 (button) (small blind) folded on the River
+
+

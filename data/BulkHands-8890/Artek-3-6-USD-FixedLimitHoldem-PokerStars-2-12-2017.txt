@@ -1,0 +1,36 @@
+PokerStars Hand #166083443031:  Hold'em Limit ($3/$6 USD) - 2017/02/12 5:52:56 ET
+Table 'Artek' 6-max Seat #2 is the button
+Seat 2: sim5sim5 ($72 in chips)
+Seat 5: helenaki ($36.50 in chips)
+TbIP-TbIP 88 leaves the table
+sim5sim5: posts small blind $1
+helenaki: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88 joins the table at seat #6
+sim5sim5: raises $3 to $6
+helenaki: raises $3 to $9
+sim5sim5: calls $3
+*** FLOP *** [9d 3c Tc]
+helenaki: bets $3
+sim5sim5: calls $3
+*** TURN *** [9d 3c Tc] [8h]
+helenaki: bets $6
+sim5sim5: raises $6 to $12
+helenaki: raises $6 to $18
+sim5sim5: raises $6 to $24
+Betting is capped
+helenaki: calls $6
+*** RIVER *** [9d 3c Tc 8h] [7c]
+helenaki: bets $0.50 and is all-in
+sim5sim5: calls $0.50
+*** SHOW DOWN ***
+helenaki: shows [Ah 9h] (a pair of Nines)
+sim5sim5: shows [3d Td] (two pair, Tens and Threes)
+sim5sim5 collected $72.50 from pot
+*** SUMMARY ***
+Total pot $73 | Rake $0.50
+Board [9d 3c Tc 8h 7c]
+Seat 2: sim5sim5 (button) (small blind) showed [3d Td] and won ($72.50) with two pair, Tens and Threes
+Seat 5: helenaki (big blind) showed [Ah 9h] and lost with a pair of Nines
+
+

@@ -1,0 +1,59 @@
+PokerStars Hand #148044960231:  Hold'em Limit ($3/$6 USD) - 2016/02/01 7:15:52 ET
+Table 'Oriola' 6-max Seat #6 is the button
+Seat 4: tante_matild ($90.89 in chips)
+Seat 6: BelSv ($176.20 in chips)
+BelSv: posts small blind $1
+B_loJkl: is sitting out
+tante_matild: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+B_loJkl leaves the table
+tante_matild: calls $3
+*** FLOP *** [8s 5d 8h]
+B_loJkl joins the table at seat #5
+tante_matild: checks
+BelSv: bets $3
+tante_matild: folds
+Uncalled bet ($3) returned to BelSv
+BelSv collected $11.76 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8s 5d 8h]
+Seat 4: tante_matild (big blind) folded on the Flop
+Seat 6: BelSv (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #148044988666:  Hold'em Limit ($3/$6 USD) - 2016/02/01 7:16:41 ET
+Table 'Oriola' 6-max Seat #6 is the button
+Seat 5: B_loJkl ($146 in chips)
+Seat 6: BelSv ($186.96 in chips)
+BelSv: posts small blind $1
+tante_matild: is sitting out
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+tante_matild leaves the table
+BelSv: raises $3 to $6
+B_loJkl: raises $3 to $9
+BelSv: calls $3
+*** FLOP *** [9h Qd 2h]
+B_loJkl: bets $3
+BelSv: calls $3
+*** TURN *** [9h Qd 2h] [Td]
+B_loJkl: bets $6
+BelSv: calls $6
+*** RIVER *** [9h Qd 2h Td] [Kh]
+B_loJkl: bets $6
+BelSv: raises $6 to $12
+B_loJkl: calls $6
+*** SHOW DOWN ***
+BelSv: shows [4s 9s] (a pair of Nines)
+B_loJkl: shows [Ks Qs] (two pair, Kings and Queens)
+B_loJkl collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [9h Qd 2h Td Kh]
+Seat 5: B_loJkl (big blind) showed [Ks Qs] and won ($59.50) with two pair, Kings and Queens
+Seat 6: BelSv (button) (small blind) showed [4s 9s] and lost with a pair of Nines
+
+

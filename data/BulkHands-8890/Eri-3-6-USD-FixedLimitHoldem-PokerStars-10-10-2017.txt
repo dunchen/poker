@@ -1,0 +1,59 @@
+PokerStars Hand #176735653687:  Hold'em Limit ($3/$6 USD) - 2017/10/10 10:26:14 ET
+Table 'Eri' 6-max Seat #3 is the button
+Seat 2: oregordog ($119.36 in chips)
+Seat 3: vestimokrec ($106.92 in chips)
+vestimokrec: posts small blind $1
+Mordnilap: is sitting out
+oregordog: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+oregordog: calls $3
+*** FLOP *** [9c 2h 7c]
+Rus29APX joins the table at seat #1
+oregordog: checks
+vestimokrec: checks
+*** TURN *** [9c 2h 7c] [2c]
+oregordog: bets $6
+vestimokrec: folds
+Uncalled bet ($6) returned to oregordog
+oregordog collected $11.76 from pot
+oregordog: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9c 2h 7c 2c]
+Seat 2: oregordog (big blind) collected ($11.76)
+Seat 3: vestimokrec (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #176735669998:  Hold'em Limit ($3/$6 USD) - 2017/10/10 10:26:44 ET
+Table 'Eri' 6-max Seat #2 is the button
+Seat 2: oregordog ($125.12 in chips)
+Seat 3: vestimokrec ($100.92 in chips)
+oregordog: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+oregordog: raises $3 to $6
+vestimokrec: calls $3
+*** FLOP *** [4d 3h 7c]
+vestimokrec: checks
+oregordog: bets $3
+vestimokrec: calls $3
+*** TURN *** [4d 3h 7c] [2h]
+vestimokrec: checks
+oregordog: bets $6
+vestimokrec: calls $6
+*** RIVER *** [4d 3h 7c 2h] [8s]
+vestimokrec: checks
+oregordog: bets $6
+vestimokrec: calls $6
+*** SHOW DOWN ***
+oregordog: shows [7s Kc] (a pair of Sevens)
+vestimokrec: mucks hand
+oregordog collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [4d 3h 7c 2h 8s]
+Seat 2: oregordog (button) (small blind) showed [7s Kc] and won ($41.50) with a pair of Sevens
+Seat 3: vestimokrec (big blind) mucked
+
+

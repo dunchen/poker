@@ -1,0 +1,109 @@
+PokerStars Hand #174694030252:  Hold'em Limit ($3/$6 USD) - 2017/08/23 10:37:04 ET
+Table 'Mirach II' 6-max Seat #2 is the button
+Seat 1: Psynto ($105.23 in chips)
+Seat 2: NewRocker ($113 in chips)
+NewRocker: posts small blind $1
+Psynto: posts big blind $3
+*** HOLE CARDS ***
+NewRocker: raises $3 to $6
+Psynto: raises $3 to $9
+NewRocker: raises $3 to $12
+Betting is capped
+Psynto: calls $3
+*** FLOP *** [3c Ah 2h]
+Psynto: checks
+NewRocker: bets $3
+Psynto: calls $3
+*** TURN *** [3c Ah 2h] [2c]
+Psynto: checks
+NewRocker: bets $6
+Psynto: calls $6
+*** RIVER *** [3c Ah 2h 2c] [6s]
+Psynto: checks
+NewRocker: checks
+*** SHOW DOWN ***
+Psynto: shows [Td Ac] (two pair, Aces and Deuces)
+NewRocker: mucks hand
+Psynto collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [3c Ah 2h 2c 6s]
+Seat 1: Psynto (big blind) showed [Td Ac] and won ($41.50) with two pair, Aces and Deuces
+Seat 2: NewRocker (button) (small blind) mucked
+
+
+PokerStars Hand #174694038938:  Hold'em Limit ($3/$6 USD) - 2017/08/23 10:37:20 ET
+Table 'Mirach II' 6-max Seat #1 is the button
+Seat 1: Psynto ($125.73 in chips)
+Seat 2: NewRocker ($92 in chips)
+Psynto: posts small blind $1
+NewRocker: posts big blind $3
+*** HOLE CARDS ***
+Psynto: raises $3 to $6
+NewRocker: calls $3
+*** FLOP *** [3s 2c 9d]
+NewRocker: bets $3
+Psynto: calls $3
+*** TURN *** [3s 2c 9d] [9s]
+NewRocker: bets $6
+Psynto: folds
+Uncalled bet ($6) returned to NewRocker
+NewRocker collected $17.64 from pot
+NewRocker: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3s 2c 9d 9s]
+Seat 1: Psynto (button) (small blind) folded on the Turn
+Seat 2: NewRocker (big blind) collected ($17.64)
+
+
+PokerStars Hand #174694046463:  Hold'em Limit ($3/$6 USD) - 2017/08/23 10:37:34 ET
+Table 'Mirach II' 6-max Seat #2 is the button
+Seat 1: Psynto ($116.73 in chips)
+Seat 2: NewRocker ($100.64 in chips)
+NewRocker: posts small blind $1
+Psynto: posts big blind $3
+*** HOLE CARDS ***
+NewRocker: folds
+Uncalled bet ($2) returned to Psynto
+Psynto collected $2 from pot
+Psynto: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Psynto (big blind) collected ($2)
+Seat 2: NewRocker (button) (small blind) folded before Flop
+
+
+PokerStars Hand #174694063824:  Hold'em Limit ($3/$6 USD) - 2017/08/23 10:38:06 ET
+Table 'Mirach II' 6-max Seat #1 is the button
+Seat 1: Psynto ($117.73 in chips)
+Seat 2: NewRocker ($99.64 in chips)
+Psynto: posts small blind $1
+NewRocker: posts big blind $3
+*** HOLE CARDS ***
+Psynto: raises $3 to $6
+NewRocker: calls $3
+*** FLOP *** [Kc 7s 2d]
+NewRocker: checks
+Psynto: bets $3
+NewRocker: calls $3
+*** TURN *** [Kc 7s 2d] [8h]
+NewRocker: checks
+Psynto: bets $6
+NewRocker: calls $6
+*** RIVER *** [Kc 7s 2d 8h] [Td]
+NewRocker: checks
+Psynto: bets $6
+NewRocker: raises $6 to $12
+Psynto: calls $6
+*** SHOW DOWN ***
+NewRocker: shows [Th 2h] (two pair, Tens and Deuces)
+Psynto: mucks hand
+NewRocker collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Kc 7s 2d 8h Td]
+Seat 1: Psynto (button) (small blind) mucked
+Seat 2: NewRocker (big blind) showed [Th 2h] and won ($53.50) with two pair, Tens and Deuces
+
+

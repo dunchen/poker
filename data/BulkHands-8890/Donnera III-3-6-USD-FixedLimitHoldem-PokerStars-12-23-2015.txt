@@ -1,0 +1,65 @@
+PokerStars Hand #145796026149:  Hold'em Limit ($3/$6 USD) - 2015/12/23 11:14:57 ET
+Table 'Donnera III' 6-max Seat #3 is the button
+Seat 3: chengong ($66.66 in chips)
+Seat 4: PelonCabelao ($72 in chips)
+chengong: posts small blind $1
+PelonCabelao: posts big blind $3
+*** HOLE CARDS ***
+chezlaw joins the table at seat #5
+chengong: raises $3 to $6
+PelonCabelao: raises $3 to $9
+chengong: calls $3
+*** FLOP *** [9d 5s 4s]
+PelonCabelao: bets $3
+chengong: raises $3 to $6
+PelonCabelao: calls $3
+*** TURN *** [9d 5s 4s] [3c]
+PelonCabelao: checks
+chengong: bets $6
+PelonCabelao: calls $6
+*** RIVER *** [9d 5s 4s 3c] [8c]
+PelonCabelao: checks
+chengong: checks
+*** SHOW DOWN ***
+PelonCabelao: shows [7d Ad] (high card Ace)
+chengong: shows [4h Qh] (a pair of Fours)
+chengong collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9d 5s 4s 3c 8c]
+Seat 3: chengong (button) (small blind) showed [4h Qh] and won ($41.50) with a pair of Fours
+Seat 4: PelonCabelao (big blind) showed [7d Ad] and lost with high card Ace
+
+
+PokerStars Hand #145797776533:  Hold'em Limit ($3/$6 USD) - 2015/12/23 11:52:06 ET
+Table 'Donnera III' 6-max Seat #3 is the button
+Seat 2: Karpik09 ($229.11 in chips)
+Seat 3: scorpio04 ($72 in chips)
+scorpio04: posts small blind $1
+Great_Kang: is sitting out
+Shabik: is sitting out
+Karpik09: posts big blind $3
+*** HOLE CARDS ***
+Shabik leaves the table
+scorpio04: raises $3 to $6
+Karpik09: calls $3
+*** FLOP *** [9h Kh Th]
+Karpik09: checks
+scorpio04: bets $3
+Karpik09: calls $3
+*** TURN *** [9h Kh Th] [9c]
+Karpik09: checks
+scorpio04: checks
+*** RIVER *** [9h Kh Th 9c] [8s]
+Karpik09: bets $6
+scorpio04: folds
+Uncalled bet ($6) returned to Karpik09
+Karpik09 collected $17.64 from pot
+Karpik09: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9h Kh Th 9c 8s]
+Seat 2: Karpik09 (big blind) collected ($17.64)
+Seat 3: scorpio04 (button) (small blind) folded on the River
+
+

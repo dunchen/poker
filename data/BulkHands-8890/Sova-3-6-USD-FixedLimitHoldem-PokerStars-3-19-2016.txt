@@ -1,0 +1,110 @@
+PokerStars Hand #150580230015:  Hold'em Limit ($3/$6 USD) - 2016/03/19 5:19:04 ET
+Table 'Sova' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($120 in chips)
+Seat 5: perten ($56.26 in chips)
+VolkovDmitri: posts small blind $1
+perten: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+perten: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [7c 7d 6d]
+perten: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [7c 7d 6d] [Ac]
+perten: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [7c 7d 6d Ac] [8c]
+perten: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to perten
+perten collected $35.50 from pot
+perten: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [7c 7d 6d Ac 8c]
+Seat 4: VolkovDmitri (button) (small blind) folded on the River
+Seat 5: perten (big blind) collected ($35.50)
+
+
+PokerStars Hand #150580244370:  Hold'em Limit ($3/$6 USD) - 2016/03/19 5:19:38 ET
+Table 'Sova' 6-max Seat #5 is the button
+Seat 4: VolkovDmitri ($120 in chips)
+Seat 5: perten ($73.76 in chips)
+perten: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+perten: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: VolkovDmitri (big blind) collected ($2)
+Seat 5: perten (button) (small blind) folded before Flop
+
+
+PokerStars Hand #150580256742:  Hold'em Limit ($3/$6 USD) - 2016/03/19 5:20:07 ET
+Table 'Sova' 6-max Seat #5 is the button
+Seat 4: VolkovDmitri ($120 in chips)
+Seat 5: perten ($90.26 in chips)
+perten: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+perten: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [4d Qd 9d]
+VolkovDmitri: checks
+perten: bets $3
+VolkovDmitri: raises $3 to $6
+perten: calls $3
+*** TURN *** [4d Qd 9d] [9c]
+VolkovDmitri: bets $6
+perten: raises $6 to $12
+VolkovDmitri: raises $6 to $18
+perten: calls $6
+*** RIVER *** [4d Qd 9d 9c] [4c]
+VolkovDmitri: checks
+perten: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+perten: shows [9h Ah] (a full house, Nines full of Fours)
+VolkovDmitri: mucks hand
+perten collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [4d Qd 9d 9c 4c]
+Seat 4: VolkovDmitri (big blind) mucked
+Seat 5: perten (button) (small blind) showed [9h Ah] and won ($71.50) with a full house, Nines full of Fours
+
+
+PokerStars Hand #150580246948:  Hold'em Limit ($3/$6 USD) - 2016/03/19 5:19:44 ET
+Table 'Sova' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($121 in chips)
+Seat 5: perten ($72.76 in chips)
+VolkovDmitri: posts small blind $1
+perten: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+perten: calls $3
+*** FLOP *** [4s 4c 7d]
+perten: bets $3
+VolkovDmitri: raises $3 to $6
+perten: calls $3
+*** TURN *** [4s 4c 7d] [3s]
+perten: checks
+VolkovDmitri: checks
+*** RIVER *** [4s 4c 7d 3s] [Ah]
+perten: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+perten: shows [5s 6h] (a straight, Three to Seven)
+VolkovDmitri: mucks hand
+perten collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [4s 4c 7d 3s Ah]
+Seat 4: VolkovDmitri (button) (small blind) mucked
+Seat 5: perten (big blind) showed [5s 6h] and won ($35.50) with a straight, Three to Seven
+
+

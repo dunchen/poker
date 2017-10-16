@@ -1,0 +1,83 @@
+PokerStars Hand #165305495396:  Hold'em Limit ($3/$6 USD) - 2017/01/28 12:55:10 ET
+Table 'Ingeborg' 6-max Seat #1 is the button
+Seat 1: RockKillerTY ($146.50 in chips)
+Seat 6: Artachok ($44 in chips)
+RockKillerTY: posts small blind $1
+Artachok: posts big blind $3
+*** HOLE CARDS ***
+RockKillerTY: raises $3 to $6
+Artachok: raises $3 to $9
+RockKillerTY: calls $3
+*** FLOP *** [9c 4c Js]
+Artachok: bets $3
+RSA53 joins the table at seat #2
+vestimokrec joins the table at seat #3
+RockKillerTY: folds
+Uncalled bet ($3) returned to Artachok
+Artachok collected $17.64 from pot
+Artachok: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9c 4c Js]
+Seat 1: RockKillerTY (button) (small blind) folded on the Flop
+Seat 6: Artachok (big blind) collected ($17.64)
+
+
+PokerStars Hand #165305523118:  Hold'em Limit ($3/$6 USD) - 2017/01/28 12:55:49 ET
+Table 'Ingeborg' 6-max Seat #6 is the button
+Seat 1: RockKillerTY ($137.50 in chips)
+Seat 6: Artachok ($52.64 in chips)
+Artachok: posts small blind $1
+RockKillerTY: posts big blind $3
+*** HOLE CARDS ***
+Artachok: raises $3 to $6
+RockKillerTY: calls $3
+*** FLOP *** [2c 2h Tc]
+RockKillerTY: checks
+Artachok: checks
+*** TURN *** [2c 2h Tc] [9s]
+dzihadsan joins the table at seat #4
+RockKillerTY: checks
+Artachok: checks
+*** RIVER *** [2c 2h Tc 9s] [8d]
+RockKillerTY: checks
+Artachok: checks
+*** SHOW DOWN ***
+RockKillerTY: shows [5d Kc] (a pair of Deuces)
+Artachok: mucks hand
+RockKillerTY collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2c 2h Tc 9s 8d]
+Seat 1: RockKillerTY (big blind) showed [5d Kc] and won ($11.76) with a pair of Deuces
+Seat 6: Artachok (button) (small blind) mucked
+
+
+PokerStars Hand #165306247235:  Hold'em Limit ($3/$6 USD) - 2017/01/28 13:09:50 ET
+Table 'Ingeborg' 6-max Seat #5 is the button
+Seat 4: dzihadsan ($114.23 in chips)
+Seat 5: Apanage ($87.16 in chips)
+Apanage: posts small blind $1
+RockKillerTY: is sitting out
+vestimokrec: is sitting out
+dzihadsan: posts big blind $3
+*** HOLE CARDS ***
+Apanage: raises $3 to $6
+RockKillerTY leaves the table
+dzihadsan: calls $3
+*** FLOP *** [9s Ac Kh]
+dzihadsan: checks
+Apanage: bets $3
+vestimokrec leaves the table
+dzihadsan: folds
+Uncalled bet ($3) returned to Apanage
+Apanage collected $11.76 from pot
+Apanage: doesn't show hand
+dzihadsan leaves the table
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9s Ac Kh]
+Seat 4: dzihadsan (big blind) folded on the Flop
+Seat 5: Apanage (button) (small blind) collected ($11.76)
+
+

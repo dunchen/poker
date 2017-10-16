@@ -1,0 +1,59 @@
+PokerStars Hand #169795755532:  Hold'em Limit ($3/$6 USD) - 2017/05/01 2:05:48 ET
+Table 'Edda' 6-max Seat #2 is the button
+Seat 2: sim5sim5 ($72 in chips)
+Seat 3: Azrarn ($120 in chips)
+sim5sim5: posts small blind $1
+Azrarn: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+Azrarn: calls $3
+*** FLOP *** [5c 4h As]
+Azrarn: checks
+sim5sim5: bets $3
+Azrarn: raises $3 to $6
+sim5sim5: calls $3
+*** TURN *** [5c 4h As] [Tc]
+Azrarn: bets $6
+sim5sim5: calls $6
+*** RIVER *** [5c 4h As Tc] [9d]
+Azrarn: checks
+Snuffymo joins the table at seat #4
+sim5sim5: checks
+*** SHOW DOWN ***
+Azrarn: shows [6c Qc] (high card Ace)
+sim5sim5: shows [5d Jd] (a pair of Fives)
+sim5sim5 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5c 4h As Tc 9d]
+Seat 2: sim5sim5 (button) (small blind) showed [5d Jd] and won ($35.50) with a pair of Fives
+Seat 3: Azrarn (big blind) showed [6c Qc] and lost with high card Ace
+
+
+PokerStars Hand #169795773869:  Hold'em Limit ($3/$6 USD) - 2017/05/01 2:06:58 ET
+Table 'Edda' 6-max Seat #4 is the button
+Seat 3: Azrarn ($101 in chips)
+Seat 4: Snuffymo ($121 in chips)
+Snuffymo: posts small blind $1
+sim5sim5: is sitting out
+Azrarn: posts big blind $3
+*** HOLE CARDS ***
+Snuffymo: raises $3 to $6
+sim5sim5 leaves the table
+Azrarn: calls $3
+*** FLOP *** [Jh Kd As]
+Azrarn: checks
+Snuffymo: bets $3
+Azrarn: calls $3
+*** TURN *** [Jh Kd As] [Qh]
+Azrarn: checks
+Snuffymo: folds
+Snuffymo leaves the table
+Azrarn collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Jh Kd As Qh]
+Seat 3: Azrarn (big blind) collected ($17.64)
+Seat 4: Snuffymo (button) (small blind) folded on the Turn
+
+

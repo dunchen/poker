@@ -1,0 +1,36 @@
+PokerStars Hand #162954870739:  Hold'em Limit ($3/$6 USD) - 2016/12/14 17:54:10 ET
+Table 'Callisto II' 6-max Seat #3 is the button
+Seat 2: Chessnok ($151.66 in chips)
+Seat 3: Kursor ($183.21 in chips)
+Kursor: posts small blind $1
+iskambil: is sitting out
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+iskambil leaves the table
+fsreibnitz leaves the table
+Kursor: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [5h Jh Td]
+Chessnok: checks
+Kursor: bets $3
+Chessnok: raises $3 to $6
+Kursor: calls $3
+*** TURN *** [5h Jh Td] [Qh]
+Chessnok: bets $6
+Kursor: raises $6 to $12
+Chessnok: calls $6
+*** RIVER *** [5h Jh Td Qh] [7h]
+Chessnok: bets $6
+Kursor: raises $6 to $12
+Chessnok: calls $6
+*** SHOW DOWN ***
+Kursor: shows [4c Kh] (a flush, King high)
+Chessnok: mucks hand
+Kursor collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [5h Jh Td Qh 7h]
+Seat 2: Chessnok (big blind) mucked
+Seat 3: Kursor (button) (small blind) showed [4c Kh] and won ($71.50) with a flush, King high
+
+

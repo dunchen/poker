@@ -1,0 +1,33 @@
+PokerStars Hand #159869444143:  Hold'em Limit ($3/$6 USD) - 2016/10/13 8:01:52 ET
+Table 'Granule' 6-max Seat #1 is the button
+Seat 1: Agrotait ($75 in chips)
+Seat 4: AzureCaper ($72 in chips)
+Agrotait: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+181385 leaves the table
+Agrotait: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [9c 5c 4c]
+AzureCaper: checks
+Agrotait: bets $3
+AzureCaper: calls $3
+*** TURN *** [9c 5c 4c] [Qc]
+AzureCaper: checks
+Agrotait: bets $6
+AzureCaper: calls $6
+*** RIVER *** [9c 5c 4c Qc] [2s]
+AzureCaper: checks
+Agrotait: bets $6
+AzureCaper: calls $6
+*** SHOW DOWN ***
+Agrotait: shows [Qs Ac] (a flush, Ace high)
+AzureCaper: mucks hand
+Agrotait collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9c 5c 4c Qc 2s]
+Seat 1: Agrotait (button) (small blind) showed [Qs Ac] and won ($41.50) with a flush, Ace high
+Seat 4: AzureCaper (big blind) mucked
+
+

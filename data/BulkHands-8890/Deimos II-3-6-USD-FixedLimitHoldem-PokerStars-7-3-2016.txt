@@ -1,0 +1,483 @@
+PokerStars Hand #155509835636:  Hold'em Limit ($3/$6 USD) - 2016/07/03 11:40:03 ET
+Table 'Deimos II' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($120 in chips)
+Seat 5: juustmuckit1 ($70 in chips)
+VolkovDmitri: posts small blind $1
+juustmuckit1: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+juustmuckit1: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [Ts 8s Tc]
+Fess7791 joins the table at seat #6
+juustmuckit1: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [Ts 8s Tc] [7s]
+juustmuckit1: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [Ts 8s Tc 7s] [Ks]
+juustmuckit1: checks
+VolkovDmitri: bets $6
+juustmuckit1: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [8h 9s] (a flush, King high)
+juustmuckit1: mucks hand
+VolkovDmitri collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Ts 8s Tc 7s Ks]
+Seat 4: VolkovDmitri (button) (small blind) showed [8h 9s] and won ($47.50) with a flush, King high
+Seat 5: juustmuckit1 (big blind) mucked
+
+
+PokerStars Hand #155513861856:  Hold'em Limit ($3/$6 USD) - 2016/07/03 13:12:53 ET
+Table 'Deimos II' 6-max Seat #4 is the button
+Seat 3: DonRumato ($191.61 in chips)
+Seat 4: Tryptamean ($117 in chips)
+Tryptamean: posts small blind $1
+VolkovDmitri: is sitting out
+DonRumato: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+DonRumato: calls $3
+*** FLOP *** [5s 7h 5h]
+VolkovDmitri leaves the table
+DonRumato: checks
+Tryptamean: bets $3
+DonRumato: raises $3 to $6
+Tryptamean: calls $3
+*** TURN *** [5s 7h 5h] [Ah]
+DonRumato: bets $6
+Tryptamean: folds
+Uncalled bet ($6) returned to DonRumato
+DonRumato collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [5s 7h 5h Ah]
+Seat 3: DonRumato (big blind) collected ($23.52)
+Seat 4: Tryptamean (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #155513882525:  Hold'em Limit ($3/$6 USD) - 2016/07/03 13:13:19 ET
+Table 'Deimos II' 6-max Seat #3 is the button
+Seat 3: DonRumato ($203.13 in chips)
+Seat 4: Tryptamean ($105 in chips)
+DonRumato: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+DonRumato: raises $3 to $6
+Tryptamean: raises $3 to $9
+DonRumato: calls $3
+*** FLOP *** [Jd 3s 6c]
+Tryptamean: bets $3
+DonRumato: raises $3 to $6
+Tryptamean: calls $3
+*** TURN *** [Jd 3s 6c] [Js]
+Tryptamean: checks
+DonRumato: bets $6
+Tryptamean: calls $6
+*** RIVER *** [Jd 3s 6c Js] [2s]
+Tryptamean: checks
+DonRumato: bets $6
+Tryptamean: calls $6
+*** SHOW DOWN ***
+DonRumato: shows [6s Kc] (two pair, Jacks and Sixes)
+Tryptamean: mucks hand
+DonRumato collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Jd 3s 6c Js 2s]
+Seat 3: DonRumato (button) (small blind) showed [6s Kc] and won ($53.50) with two pair, Jacks and Sixes
+Seat 4: Tryptamean (big blind) mucked
+
+
+PokerStars Hand #155513923616:  Hold'em Limit ($3/$6 USD) - 2016/07/03 13:14:10 ET
+Table 'Deimos II' 6-max Seat #3 is the button
+Seat 3: DonRumato ($205.63 in chips)
+Seat 4: Tryptamean ($101.50 in chips)
+DonRumato: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+DonRumato: raises $3 to $6
+juustmuckit1 joins the table at seat #6
+Tryptamean: folds
+Uncalled bet ($3) returned to DonRumato
+DonRumato collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: DonRumato (button) (small blind) collected ($6)
+Seat 4: Tryptamean (big blind) folded before Flop
+
+
+PokerStars Hand #155513904701:  Hold'em Limit ($3/$6 USD) - 2016/07/03 13:13:46 ET
+Table 'Deimos II' 6-max Seat #4 is the button
+Seat 3: DonRumato ($229.63 in chips)
+Seat 4: Tryptamean ($78 in chips)
+Tryptamean: posts small blind $1
+DonRumato: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+DonRumato: raises $3 to $9
+Tryptamean: calls $3
+*** FLOP *** [Ad Qs 9c]
+DonRumato: bets $3
+Tryptamean: calls $3
+*** TURN *** [Ad Qs 9c] [6d]
+DonRumato: bets $6
+Tryptamean: calls $6
+*** RIVER *** [Ad Qs 9c 6d] [Ah]
+DonRumato: bets $6
+Tryptamean: calls $6
+*** SHOW DOWN ***
+DonRumato: shows [Th Jh] (a pair of Aces)
+Tryptamean: shows [Td Qc] (two pair, Aces and Queens)
+Tryptamean collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Ad Qs 9c 6d Ah]
+Seat 3: DonRumato (big blind) showed [Th Jh] and lost with a pair of Aces
+Seat 4: Tryptamean (button) (small blind) showed [Td Qc] and won ($47.50) with two pair, Aces and Queens
+
+
+PokerStars Hand #155529433495:  Hold'em Limit ($3/$6 USD) - 2016/07/03 18:41:10 ET
+Table 'Deimos II' 6-max Seat #5 is the button
+Seat 3: BWTMAGIC ($372.30 in chips)
+Seat 5: Chessnok ($267.63 in chips)
+daprom joins the table at seat #1
+Chessnok: posts small blind $1
+BWTMAGIC: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+BWTMAGIC: raises $3 to $9
+ValeryRon joins the table at seat #2
+Chessnok: calls $3
+*** FLOP *** [4c Ad Jd]
+BWTMAGIC: bets $3
+Chessnok: calls $3
+*** TURN *** [4c Ad Jd] [9c]
+BWTMAGIC: bets $6
+Chessnok: calls $6
+*** RIVER *** [4c Ad Jd 9c] [8c]
+BWTMAGIC: bets $6
+Chessnok: calls $6
+*** SHOW DOWN ***
+BWTMAGIC: shows [As 7h] (a pair of Aces)
+Chessnok: mucks hand
+BWTMAGIC collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4c Ad Jd 9c 8c]
+Seat 3: BWTMAGIC (big blind) showed [As 7h] and won ($47.50) with a pair of Aces
+Seat 5: Chessnok (button) (small blind) mucked
+
+
+PokerStars Hand #155529426145:  Hold'em Limit ($3/$6 USD) - 2016/07/03 18:40:59 ET
+Table 'Deimos II' 6-max Seat #3 is the button
+Seat 3: BWTMAGIC ($366.54 in chips)
+Seat 5: Chessnok ($273.63 in chips)
+BWTMAGIC: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+BWTMAGIC: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [9s Th 4c]
+Chessnok: checks
+BWTMAGIC: bets $3
+Chessnok: folds
+Uncalled bet ($3) returned to BWTMAGIC
+BWTMAGIC collected $11.76 from pot
+BWTMAGIC: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9s Th 4c]
+Seat 3: BWTMAGIC (button) (small blind) collected ($11.76)
+Seat 5: Chessnok (big blind) folded on the Flop
+
+
+PokerStars Hand #155530066035:  Hold'em Limit ($3/$6 USD) - 2016/07/03 18:57:58 ET
+Table 'Deimos II' 6-max Seat #5 is the button
+Seat 3: BWTMAGIC ($508.10 in chips)
+Seat 5: Chessnok ($173.83 in chips)
+Chessnok: posts small blind $1
+GRAILKO: is sitting out
+BWTMAGIC: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+BWTMAGIC: calls $3
+*** FLOP *** [7c 9c Th]
+BWTMAGIC: checks
+Chessnok: bets $3
+BWTMAGIC: raises $3 to $6
+Chessnok: calls $3
+*** TURN *** [7c 9c Th] [6s]
+BWTMAGIC: bets $6
+Chessnok: calls $6
+*** RIVER *** [7c 9c Th 6s] [4s]
+BWTMAGIC: bets $6
+Chessnok: calls $6
+*** SHOW DOWN ***
+BWTMAGIC: shows [Kh 7d] (a pair of Sevens)
+Chessnok: mucks hand
+BWTMAGIC collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7c 9c Th 6s 4s]
+Seat 3: BWTMAGIC (big blind) showed [Kh 7d] and won ($47.50) with a pair of Sevens
+Seat 5: Chessnok (button) (small blind) mucked
+
+
+PokerStars Hand #155530091330:  Hold'em Limit ($3/$6 USD) - 2016/07/03 18:58:51 ET
+Table 'Deimos II' 6-max Seat #5 is the button
+Seat 3: BWTMAGIC ($540.24 in chips)
+Seat 5: Chessnok ($140.83 in chips)
+Chessnok: posts small blind $1
+Necromadx was removed from the table for failing to post
+BWTMAGIC: posts big blind $3
+*** HOLE CARDS ***
+666muck joins the table at seat #6
+Chessnok: folds
+Uncalled bet ($2) returned to BWTMAGIC
+BWTMAGIC collected $2 from pot
+BWTMAGIC: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: BWTMAGIC (big blind) collected ($2)
+Seat 5: Chessnok (button) (small blind) folded before Flop
+
+
+PokerStars Hand #155530095597:  Hold'em Limit ($3/$6 USD) - 2016/07/03 18:59:00 ET
+Table 'Deimos II' 6-max Seat #3 is the button
+Seat 3: BWTMAGIC ($541.24 in chips)
+Seat 5: Chessnok ($139.83 in chips)
+BWTMAGIC: posts small blind $1
+Zubasa07 joins the table at seat #2
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+BWTMAGIC: folds
+Uncalled bet ($2) returned to Chessnok
+Chessnok collected $2 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: BWTMAGIC (button) (small blind) folded before Flop
+Seat 5: Chessnok (big blind) collected ($2)
+
+
+PokerStars Hand #155530075121:  Hold'em Limit ($3/$6 USD) - 2016/07/03 18:58:17 ET
+Table 'Deimos II' 6-max Seat #3 is the button
+Seat 3: BWTMAGIC ($531.60 in chips)
+Seat 5: Chessnok ($149.83 in chips)
+BWTMAGIC: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+BWTMAGIC: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [Qs Qc 8h]
+Chessnok: checks
+BWTMAGIC: bets $3
+Chessnok: calls $3
+*** TURN *** [Qs Qc 8h] [Jc]
+Chessnok: checks
+BWTMAGIC: checks
+*** RIVER *** [Qs Qc 8h Jc] [Tc]
+Chessnok: checks
+BWTMAGIC: bets $6
+Chessnok: folds
+Uncalled bet ($6) returned to BWTMAGIC
+BWTMAGIC collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qs Qc 8h Jc Tc]
+Seat 3: BWTMAGIC (button) (small blind) collected ($17.64)
+Seat 5: Chessnok (big blind) folded on the River
+
+
+PokerStars Hand #155531029176:  Hold'em Limit ($3/$6 USD) - 2016/07/03 19:26:11 ET
+Table 'Deimos II' 6-max Seat #5 is the button
+Seat 2: jestanie ($51.81 in chips)
+Seat 5: Swingbling ($117 in chips)
+Swingbling: posts small blind $1
+jestanie: posts big blind $3
+*** HOLE CARDS ***
+Swingbling: raises $3 to $6
+jestanie: folds
+Uncalled bet ($3) returned to Swingbling
+Swingbling collected $6 from pot
+Swingbling: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: jestanie (big blind) folded before Flop
+Seat 5: Swingbling (button) (small blind) collected ($6)
+
+
+PokerStars Hand #155531024456:  Hold'em Limit ($3/$6 USD) - 2016/07/03 19:26:03 ET
+Table 'Deimos II' 6-max Seat #2 is the button
+Seat 2: jestanie ($48.81 in chips)
+Seat 5: Swingbling ($120 in chips)
+jestanie: posts small blind $1
+Swingbling: posts big blind $3
+*** HOLE CARDS ***
+jestanie: raises $3 to $6
+Swingbling: folds
+Uncalled bet ($3) returned to jestanie
+jestanie collected $6 from pot
+jestanie: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: jestanie (button) (small blind) collected ($6)
+Seat 5: Swingbling (big blind) folded before Flop
+
+
+PokerStars Hand #155531039750:  Hold'em Limit ($3/$6 USD) - 2016/07/03 19:26:30 ET
+Table 'Deimos II' 6-max Seat #5 is the button
+Seat 2: jestanie ($54.57 in chips)
+Seat 5: Swingbling ($114 in chips)
+Swingbling: posts small blind $1
+jestanie: posts big blind $3
+*** HOLE CARDS ***
+Swingbling: folds
+Uncalled bet ($2) returned to jestanie
+jestanie collected $2 from pot
+jestanie: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: jestanie (big blind) collected ($2)
+Seat 5: Swingbling (button) (small blind) folded before Flop
+
+
+PokerStars Hand #155531033535:  Hold'em Limit ($3/$6 USD) - 2016/07/03 19:26:19 ET
+Table 'Deimos II' 6-max Seat #2 is the button
+Seat 2: jestanie ($48.81 in chips)
+Seat 5: Swingbling ($120 in chips)
+jestanie: posts small blind $1
+Swingbling: posts big blind $3
+*** HOLE CARDS ***
+BWTMAGIC leaves the table
+jestanie: raises $3 to $6
+Swingbling: calls $3
+*** FLOP *** [2c 8s Kc]
+Swingbling: checks
+jestanie: bets $3
+Swingbling: folds
+Uncalled bet ($3) returned to jestanie
+jestanie collected $11.76 from pot
+jestanie: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2c 8s Kc]
+Seat 2: jestanie (button) (small blind) collected ($11.76)
+Seat 5: Swingbling (big blind) folded on the Flop
+
+
+PokerStars Hand #155531013454:  Hold'em Limit ($3/$6 USD) - 2016/07/03 19:25:43 ET
+Table 'Deimos II' 6-max Seat #3 is the button
+Seat 2: jestanie ($51.81 in chips)
+Seat 3: BWTMAGIC ($440.55 in chips)
+BWTMAGIC: posts small blind $1
+GRAILKO: is sitting out
+jestanie: posts big blind $3
+*** HOLE CARDS ***
+BWTMAGIC: raises $3 to $6
+jestanie: folds
+Uncalled bet ($3) returned to BWTMAGIC
+BWTMAGIC collected $6 from pot
+BWTMAGIC: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: jestanie (big blind) folded before Flop
+Seat 3: BWTMAGIC (button) (small blind) collected ($6)
+
+
+PokerStars Hand #155531042370:  Hold'em Limit ($3/$6 USD) - 2016/07/03 19:26:35 ET
+Table 'Deimos II' 6-max Seat #2 is the button
+Seat 2: jestanie ($55.57 in chips)
+Seat 5: Swingbling ($113 in chips)
+jestanie: posts small blind $1
+Swingbling: posts big blind $3
+*** HOLE CARDS ***
+jestanie: raises $3 to $6
+Swingbling: raises $3 to $9
+jestanie: calls $3
+*** FLOP *** [Tc Ad 6s]
+GRAILKO joins the table at seat #6
+Swingbling: bets $3
+jestanie: calls $3
+*** TURN *** [Tc Ad 6s] [6d]
+Swingbling: bets $6
+jestanie: raises $6 to $12
+Swingbling: calls $6
+*** RIVER *** [Tc Ad 6s 6d] [2d]
+Swingbling: checks
+jestanie: bets $6
+Swingbling: calls $6
+*** SHOW DOWN ***
+jestanie: shows [6c As] (a full house, Sixes full of Aces)
+Swingbling: mucks hand
+jestanie collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Tc Ad 6s 6d 2d]
+Seat 2: jestanie (button) (small blind) showed [6c As] and won ($59.50) with a full house, Sixes full of Aces
+Seat 5: Swingbling (big blind) mucked
+
+
+PokerStars Hand #155531870121:  Hold'em Limit ($3/$6 USD) - 2016/07/03 19:52:46 ET
+Table 'Deimos II' 6-max Seat #1 is the button
+Seat 1: Holla-eller? ($124.24 in chips)
+Seat 2: jestanie ($209.59 in chips)
+Holla-eller?: posts small blind $1
+jestanie: posts big blind $3
+*** HOLE CARDS ***
+Holla-eller?: raises $3 to $6
+jestanie: folds
+Uncalled bet ($3) returned to Holla-eller?
+Holla-eller? collected $6 from pot
+Holla-eller?: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: Holla-eller? (button) (small blind) collected ($6)
+Seat 2: jestanie (big blind) folded before Flop
+
+
+PokerStars Hand #155531861545:  Hold'em Limit ($3/$6 USD) - 2016/07/03 19:52:29 ET
+Table 'Deimos II' 6-max Seat #2 is the button
+Seat 1: Holla-eller? ($118.48 in chips)
+Seat 2: jestanie ($215.59 in chips)
+jestanie: posts small blind $1
+BuzovaPro: is sitting out
+Holla-eller?: posts big blind $3
+*** HOLE CARDS ***
+jestanie: raises $3 to $6
+Holla-eller?: calls $3
+*** FLOP *** [4h Ac 7d]
+Holla-eller?: bets $3
+jestanie: folds
+Uncalled bet ($3) returned to Holla-eller?
+Holla-eller? collected $11.76 from pot
+Holla-eller?: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4h Ac 7d]
+Seat 1: Holla-eller? (big blind) collected ($11.76)
+Seat 2: jestanie (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #155531877702:  Hold'em Limit ($3/$6 USD) - 2016/07/03 19:53:02 ET
+Table 'Deimos II' 6-max Seat #1 is the button
+Seat 1: Holla-eller? ($128.24 in chips)
+Seat 2: jestanie ($205.59 in chips)
+Holla-eller?: posts small blind $1
+jestanie: posts big blind $3
+*** HOLE CARDS ***
+Makomar joins the table at seat #5
+Holla-eller?: raises $3 to $6
+jestanie: folds
+Uncalled bet ($3) returned to Holla-eller?
+Holla-eller? collected $6 from pot
+Holla-eller?: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: Holla-eller? (button) (small blind) collected ($6)
+Seat 2: jestanie (big blind) folded before Flop
+
+

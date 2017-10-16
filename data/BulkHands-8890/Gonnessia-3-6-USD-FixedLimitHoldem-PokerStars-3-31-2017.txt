@@ -1,0 +1,35 @@
+PokerStars Hand #168364571555:  Hold'em Limit ($3/$6 USD) - 2017/03/31 7:12:00 ET
+Table 'Gonnessia' 6-max Seat #3 is the button
+Seat 3: RaisemyNut$ ($221.68 in chips)
+Seat 5: B_loJkl ($103.67 in chips)
+RaisemyNut$: posts small blind $1
+AzureCaper: is sitting out
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+RaisemyNut$: raises $3 to $6
+AzureCaper leaves the table
+B_loJkl: calls $3
+*** FLOP *** [Kh Td 8h]
+B_loJkl: checks
+RaisemyNut$: bets $3
+B_loJkl: calls $3
+*** TURN *** [Kh Td 8h] [7h]
+B_loJkl: checks
+RaisemyNut$: bets $6
+B_loJkl: calls $6
+*** RIVER *** [Kh Td 8h 7h] [2s]
+B_loJkl: checks
+RaisemyNut$: bets $6
+B_loJkl: raises $6 to $12
+RaisemyNut$: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [Tc 7d] (two pair, Tens and Sevens)
+RaisemyNut$: mucks hand
+B_loJkl collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Kh Td 8h 7h 2s]
+Seat 3: RaisemyNut$ (button) (small blind) mucked
+Seat 5: B_loJkl (big blind) showed [Tc 7d] and won ($53.50) with two pair, Tens and Sevens
+
+

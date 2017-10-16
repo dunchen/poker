@@ -1,0 +1,60 @@
+PokerStars Hand #172707426721:  Hold'em Limit ($3/$6 USD) - 2017/07/07 2:14:46 ET
+Table 'Rigilkent' 6-max Seat #1 is the button
+Seat 1: nicmct ($235.54 in chips)
+Seat 2: B_loJkl ($127.63 in chips)
+nicmct: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+nicmct: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Th Kh 8s]
+B_loJkl: checks
+nicmct: bets $3
+B_loJkl: raises $3 to $6
+nicmct: calls $3
+*** TURN *** [Th Kh 8s] [9h]
+B_loJkl: bets $6
+nicmct: calls $6
+*** RIVER *** [Th Kh 8s 9h] [Td]
+B_loJkl: bets $6
+nicmct: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [Qd 5s] (a pair of Tens)
+nicmct: shows [5c 8h] (two pair, Tens and Eights)
+nicmct collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Th Kh 8s 9h Td]
+Seat 1: nicmct (button) (small blind) showed [5c 8h] and won ($47.50) with two pair, Tens and Eights
+Seat 2: B_loJkl (big blind) showed [Qd 5s] and lost with a pair of Tens
+
+
+PokerStars Hand #172708477476:  Hold'em Limit ($3/$6 USD) - 2017/07/07 3:23:03 ET
+Table 'Rigilkent' 6-max Seat #6 is the button
+Seat 2: royalen ($497.91 in chips)
+Seat 6: hookonhook ($270.75 in chips)
+hookonhook: posts small blind $1
+royalen: posts big blind $3
+*** HOLE CARDS ***
+hookonhook: raises $3 to $6
+royalen: raises $3 to $9
+hookonhook: calls $3
+*** FLOP *** [2s 3h Qd]
+royalen: bets $3
+hookonhook: calls $3
+*** TURN *** [2s 3h Qd] [6s]
+royalen: checks
+hookonhook: checks
+*** RIVER *** [2s 3h Qd 6s] [Ks]
+royalen: bets $6
+hookonhook: folds
+Uncalled bet ($6) returned to royalen
+royalen collected $23.52 from pot
+royalen: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [2s 3h Qd 6s Ks]
+Seat 2: royalen (big blind) collected ($23.52)
+Seat 6: hookonhook (button) (small blind) folded on the River
+
+

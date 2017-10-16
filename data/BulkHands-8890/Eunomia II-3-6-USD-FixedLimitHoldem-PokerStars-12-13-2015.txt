@@ -1,0 +1,55 @@
+PokerStars Hand #145303584131:  Hold'em Limit ($3/$6 USD) - 2015/12/13 17:44:33 ET
+Table 'Eunomia II' 6-max Seat #2 is the button
+Seat 2: parnishka11 ($17.88 in chips)
+Seat 3: craaa ($152.14 in chips)
+parnishka11: posts small blind $1
+craaa: posts big blind $3
+*** HOLE CARDS ***
+parnishka11: raises $3 to $6
+craaa: calls $3
+*** FLOP *** [Kh 2s 4c]
+craaa: checks
+parnishka11: checks
+*** TURN *** [Kh 2s 4c] [Jh]
+craaa: checks
+parnishka11: checks
+*** RIVER *** [Kh 2s 4c Jh] [3h]
+craaa: bets $6
+parnishka11: folds
+Uncalled bet ($6) returned to craaa
+craaa collected $11.76 from pot
+craaa: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kh 2s 4c Jh 3h]
+Seat 2: parnishka11 (button) (small blind) folded on the River
+Seat 3: craaa (big blind) collected ($11.76)
+
+
+PokerStars Hand #145303597538:  Hold'em Limit ($3/$6 USD) - 2015/12/13 17:44:48 ET
+Table 'Eunomia II' 6-max Seat #3 is the button
+Seat 2: parnishka11 ($11.88 in chips)
+Seat 3: craaa ($157.90 in chips)
+craaa: posts small blind $1
+parnishka11: posts big blind $3
+*** HOLE CARDS ***
+craaa: raises $3 to $6
+parnishka11: raises $3 to $9
+craaa: raises $3 to $12
+Betting is capped
+parnishka11: calls $2.88 and is all-in
+Uncalled bet ($0.12) returned to craaa
+*** FLOP *** [Qd 3h 3s]
+*** TURN *** [Qd 3h 3s] [2s]
+*** RIVER *** [Qd 3h 3s 2s] [Th]
+*** SHOW DOWN ***
+parnishka11: shows [4s 4c] (two pair, Fours and Threes)
+craaa: shows [9c Qs] (two pair, Queens and Threes)
+craaa collected $23.28 from pot
+*** SUMMARY ***
+Total pot $23.76 | Rake $0.48
+Board [Qd 3h 3s 2s Th]
+Seat 2: parnishka11 (big blind) showed [4s 4c] and lost with two pair, Fours and Threes
+Seat 3: craaa (button) (small blind) showed [9c Qs] and won ($23.28) with two pair, Queens and Threes
+
+

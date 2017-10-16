@@ -1,0 +1,64 @@
+PokerStars Hand #145942270317:  Hold'em Limit ($3/$6 USD) - 2015/12/26 8:51:48 ET
+Table 'Asaph II' 2-max Seat #1 is the button
+Seat 1: dmitokv ($70.86 in chips)
+Seat 2: zotemak ($25 in chips)
+dmitokv: posts small blind $1
+zotemak: posts big blind $3
+*** HOLE CARDS ***
+dmitokv: raises $3 to $6
+zotemak: raises $3 to $9
+dmitokv: raises $3 to $12
+Betting is capped
+zotemak: calls $3
+*** FLOP *** [Qd Jh Ad]
+zotemak: bets $3
+dmitokv: raises $3 to $6
+zotemak: raises $3 to $9
+dmitokv: calls $3
+*** TURN *** [Qd Jh Ad] [3c]
+zotemak: bets $4 and is all-in
+dmitokv: calls $4
+*** RIVER *** [Qd Jh Ad 3c] [9d]
+*** SHOW DOWN ***
+zotemak: shows [Qc 4h] (a pair of Queens)
+dmitokv: shows [Ah 3s] (two pair, Aces and Threes)
+dmitokv collected $49.50 from pot
+*** SUMMARY ***
+Total pot $50 | Rake $0.50
+Board [Qd Jh Ad 3c 9d]
+Seat 1: dmitokv (button) (small blind) showed [Ah 3s] and won ($49.50) with two pair, Aces and Threes
+Seat 2: zotemak (big blind) showed [Qc 4h] and lost with a pair of Queens
+
+
+PokerStars Hand #145942245415:  Hold'em Limit ($3/$6 USD) - 2015/12/26 8:51:13 ET
+Table 'Asaph II' 2-max Seat #2 is the button
+Seat 1: dmitokv ($47.36 in chips)
+Seat 2: zotemak ($49 in chips)
+zotemak: posts small blind $1
+dmitokv: posts big blind $3
+*** HOLE CARDS ***
+zotemak: raises $3 to $6
+dmitokv: raises $3 to $9
+zotemak: raises $3 to $12
+Betting is capped
+dmitokv: calls $3
+*** FLOP *** [2c Kh 5c]
+dmitokv: bets $3
+zotemak: raises $3 to $6
+dmitokv: raises $3 to $9
+zotemak: raises $3 to $12
+Betting is capped
+dmitokv: calls $3
+*** TURN *** [2c Kh 5c] [5h]
+dmitokv: bets $6
+zotemak: folds
+Uncalled bet ($6) returned to dmitokv
+dmitokv collected $47.50 from pot
+dmitokv: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2c Kh 5c 5h]
+Seat 1: dmitokv (big blind) collected ($47.50)
+Seat 2: zotemak (button) (small blind) folded on the Turn
+
+

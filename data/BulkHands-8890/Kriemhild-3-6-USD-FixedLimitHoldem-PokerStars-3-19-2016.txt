@@ -1,0 +1,66 @@
+PokerStars Hand #150619296488:  Hold'em Limit ($3/$6 USD) - 2016/03/19 19:04:08 ET
+Table 'Kriemhild' 6-max Seat #3 is the button
+Seat 3: Agniosius ($575.54 in chips)
+Seat 4: FHstyles ($87 in chips)
+Agniosius: posts small blind $1
+FHstyles: posts big blind $3
+*** HOLE CARDS ***
+Agniosius: raises $3 to $6
+FHstyles: raises $3 to $9
+Agniosius: calls $3
+*** FLOP *** [8c 3s Jc]
+FHstyles: bets $3
+Agniosius: raises $3 to $6
+FHstyles: raises $3 to $9
+Agniosius: calls $3
+*** TURN *** [8c 3s Jc] [Td]
+FHstyles: bets $6
+Agniosius: calls $6
+*** RIVER *** [8c 3s Jc Td] [9d]
+FHstyles: checks
+Agniosius: bets $6
+FHstyles: calls $6
+*** SHOW DOWN ***
+Agniosius: shows [Jd Qh] (a straight, Eight to Queen)
+FHstyles: mucks hand
+Agniosius collected $59.50 from pot
+FHstyles leaves the table
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [8c 3s Jc Td 9d]
+Seat 3: Agniosius (button) (small blind) showed [Jd Qh] and won ($59.50) with a straight, Eight to Queen
+Seat 4: FHstyles (big blind) mucked
+
+
+PokerStars Hand #150619273529:  Hold'em Limit ($3/$6 USD) - 2016/03/19 19:03:41 ET
+Table 'Kriemhild' 6-max Seat #4 is the button
+Seat 3: Agniosius ($549.04 in chips)
+Seat 4: FHstyles ($54 in chips)
+FHstyles: posts small blind $1
+Agniosius: posts big blind $3
+*** HOLE CARDS ***
+FHstyles: raises $3 to $6
+Agniosius: raises $3 to $9
+FHstyles: calls $3
+*** FLOP *** [2c 6c Qh]
+Agniosius: bets $3
+FHstyles: raises $3 to $6
+Agniosius: calls $3
+*** TURN *** [2c 6c Qh] [Kd]
+Agniosius: checks
+FHstyles: bets $6
+Agniosius: raises $6 to $12
+FHstyles: calls $6
+*** RIVER *** [2c 6c Qh Kd] [9s]
+Agniosius: bets $6
+FHstyles: folds
+Uncalled bet ($6) returned to Agniosius
+Agniosius collected $53.50 from pot
+Agniosius: doesn't show hand
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [2c 6c Qh Kd 9s]
+Seat 3: Agniosius (big blind) collected ($53.50)
+Seat 4: FHstyles (button) (small blind) folded on the River
+
+

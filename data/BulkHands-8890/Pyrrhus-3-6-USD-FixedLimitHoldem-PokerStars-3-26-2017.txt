@@ -1,0 +1,143 @@
+PokerStars Hand #168148843968:  Hold'em Limit ($3/$6 USD) - 2017/03/26 14:44:38 ET
+Table 'Pyrrhus' 10-max Seat #1 is the button
+Seat 1: Zubasa07 ($300 in chips)
+Seat 2: Dalingo ($115.11 in chips)
+Zubasa07: posts small blind $1
+Dalingo: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+Dalingo: raises $3 to $9
+Zubasa07: calls $3
+*** FLOP *** [Qd Kd Qc]
+Dalingo: bets $3
+simper11 joins the table at seat #3
+Zubasa07: calls $3
+*** TURN *** [Qd Kd Qc] [7c]
+Dalingo: bets $6
+Zubasa07: raises $6 to $12
+Dalingo: folds
+Uncalled bet ($6) returned to Zubasa07
+Zubasa07 collected $35.50 from pot
+Zubasa07: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Qd Kd Qc 7c]
+Seat 1: Zubasa07 (button) (small blind) collected ($35.50)
+Seat 2: Dalingo (big blind) folded on the Turn
+
+
+PokerStars Hand #168149425275:  Hold'em Limit ($3/$6 USD) - 2017/03/26 14:54:19 ET
+Table 'Pyrrhus' 10-max Seat #5 is the button
+Seat 3: simper11 ($151.74 in chips)
+Seat 5: majekk ($108 in chips)
+majekk: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+majekk: folds
+Uncalled bet ($2) returned to simper11
+simper11 collected $2 from pot
+simper11: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: simper11 (big blind) collected ($2)
+Seat 5: majekk (button) (small blind) folded before Flop
+
+
+PokerStars Hand #168149430700:  Hold'em Limit ($3/$6 USD) - 2017/03/26 14:54:25 ET
+Table 'Pyrrhus' 10-max Seat #3 is the button
+Seat 3: simper11 ($152.74 in chips)
+Seat 5: majekk ($126.72 in chips)
+simper11: posts small blind $1
+majekk: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+majekk: calls $3
+*** FLOP *** [Qc As 9d]
+majekk: checks
+simper11: checks
+*** TURN *** [Qc As 9d] [Ad]
+majekk: checks
+simper11: checks
+*** RIVER *** [Qc As 9d Ad] [Jh]
+majekk: checks
+simper11: checks
+*** SHOW DOWN ***
+majekk: shows [4c Td] (a pair of Aces)
+simper11: mucks hand
+majekk collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qc As 9d Ad Jh]
+Seat 3: simper11 (button) (small blind) mucked
+Seat 5: majekk (big blind) showed [4c Td] and won ($11.76) with a pair of Aces
+
+
+PokerStars Hand #168149401093:  Hold'em Limit ($3/$6 USD) - 2017/03/26 14:53:55 ET
+Table 'Pyrrhus' 10-max Seat #2 is the button
+Seat 2: Dalingo ($122.05 in chips)
+Seat 3: simper11 ($139.46 in chips)
+Dalingo: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+majekk joins the table at seat #5
+Dalingo: folds
+Uncalled bet ($2) returned to simper11
+simper11 collected $2 from pot
+simper11: doesn't show hand
+Zubasa07 leaves the table
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: Dalingo (button) (small blind) folded before Flop
+Seat 3: simper11 (big blind) collected ($2)
+
+
+PokerStars Hand #168149394117:  Hold'em Limit ($3/$6 USD) - 2017/03/26 14:53:48 ET
+Table 'Pyrrhus' 10-max Seat #3 is the button
+Seat 2: Dalingo ($125.05 in chips)
+Seat 3: simper11 ($136.46 in chips)
+simper11: posts small blind $1
+Zubasa07: is sitting out
+Dalingo: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+Dalingo: folds
+Uncalled bet ($3) returned to simper11
+simper11 collected $6 from pot
+simper11: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: Dalingo (big blind) folded before Flop
+Seat 3: simper11 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #168149855999:  Hold'em Limit ($3/$6 USD) - 2017/03/26 15:03:12 ET
+Table 'Pyrrhus' 10-max Seat #4 is the button
+Seat 3: simper11 ($208.21 in chips)
+Seat 4: tttzzz ($41.46 in chips)
+tttzzz: posts small blind $1
+vestimokrec: is sitting out
+simper11: posts big blind $3
+*** HOLE CARDS ***
+tttzzz: raises $3 to $6
+simper11: calls $3
+*** FLOP *** [9d Jh 2h]
+simper11: checks
+tttzzz: checks
+*** TURN *** [9d Jh 2h] [4h]
+simper11: checks
+tttzzz: bets $6
+simper11: calls $6
+*** RIVER *** [9d Jh 2h 4h] [3h]
+simper11: checks
+tttzzz: checks
+*** SHOW DOWN ***
+simper11: shows [6c 5h] (a flush, Jack high)
+tttzzz: mucks hand
+simper11 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [9d Jh 2h 4h 3h]
+Seat 3: simper11 (big blind) showed [6c 5h] and won ($23.52) with a flush, Jack high
+Seat 4: tttzzz (button) (small blind) mucked
+
+

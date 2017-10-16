@@ -1,0 +1,96 @@
+PokerStars Hand #146861590328:  Hold'em Limit ($3/$6 USD) - 2016/01/11 11:57:41 ET
+Table 'Hippasos' 6-max Seat #6 is the button
+Seat 4: Agrotait ($72 in chips)
+Seat 6: _fayzulllo_ ($85.50 in chips)
+_fayzulllo_: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: raises $3 to $6
+Agrotait: raises $3 to $9
+_fayzulllo_: calls $3
+*** FLOP *** [6h 8s 5h]
+Agrotait: bets $3
+_fayzulllo_: calls $3
+*** TURN *** [6h 8s 5h] [Jd]
+Agrotait: checks
+_fayzulllo_: bets $6
+Agrotait: calls $6
+*** RIVER *** [6h 8s 5h Jd] [3h]
+Agrotait: checks
+_fayzulllo_: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to _fayzulllo_
+_fayzulllo_ collected $35.50 from pot
+_fayzulllo_: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6h 8s 5h Jd 3h]
+Seat 4: Agrotait (big blind) folded on the River
+Seat 6: _fayzulllo_ (button) (small blind) collected ($35.50)
+
+
+PokerStars Hand #146861639714:  Hold'em Limit ($3/$6 USD) - 2016/01/11 11:58:47 ET
+Table 'Hippasos' 6-max Seat #6 is the button
+Seat 4: Agrotait ($92.50 in chips)
+Seat 6: _fayzulllo_ ($82 in chips)
+_fayzulllo_: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+Pokali joins the table at seat #1
+_fayzulllo_: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [7c Jc 7s]
+Agrotait: checks
+SmellyToes4u joins the table at seat #2
+_fayzulllo_: bets $3
+Agrotait: raises $3 to $6
+_fayzulllo_: calls $3
+*** TURN *** [7c Jc 7s] [8h]
+Agrotait: checks
+_fayzulllo_: checks
+*** RIVER *** [7c Jc 7s 8h] [2h]
+Agrotait: checks
+_fayzulllo_: checks
+*** SHOW DOWN ***
+Agrotait: shows [Kc Qd] (a pair of Sevens)
+_fayzulllo_: mucks hand
+Agrotait collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [7c Jc 7s 8h 2h]
+Seat 4: Agrotait (big blind) showed [Kc Qd] and won ($23.52) with a pair of Sevens
+Seat 6: _fayzulllo_ (button) (small blind) mucked
+
+
+PokerStars Hand #146861678011:  Hold'em Limit ($3/$6 USD) - 2016/01/11 11:59:38 ET
+Table 'Hippasos' 6-max Seat #4 is the button
+Seat 4: Agrotait ($104.02 in chips)
+Seat 6: _fayzulllo_ ($70 in chips)
+Agrotait: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+_fayzulllo_: calls $3
+*** FLOP *** [2s 5s 3h]
+_fayzulllo_: checks
+Agrotait: bets $3
+_fayzulllo_: calls $3
+*** TURN *** [2s 5s 3h] [2d]
+_fayzulllo_: checks
+DirtyDouble2 joins the table at seat #5
+FinDeSiecle joins the table at seat #3
+Agrotait: checks
+*** RIVER *** [2s 5s 3h 2d] [3c]
+_fayzulllo_: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+_fayzulllo_: shows [As 3d] (a full house, Threes full of Deuces)
+Agrotait: mucks hand
+_fayzulllo_ collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2s 5s 3h 2d 3c]
+Seat 4: Agrotait (button) (small blind) mucked
+Seat 6: _fayzulllo_ (big blind) showed [As 3d] and won ($29.50) with a full house, Threes full of Deuces
+
+

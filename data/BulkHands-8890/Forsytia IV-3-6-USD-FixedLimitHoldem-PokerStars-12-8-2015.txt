@@ -1,0 +1,102 @@
+PokerStars Hand #145022356835:  Hold'em Limit ($3/$6 USD) - 2015/12/08 10:31:53 ET
+Table 'Forsytia IV' 10-max Seat #2 is the button
+Seat 1: Profitables ($5 in chips)
+Seat 2: assitoni ($121 in chips)
+assitoni: posts small blind $1
+Azrarn: is sitting out
+Profitables: posts big blind $3
+*** HOLE CARDS ***
+assitoni: raises $3 to $6
+Profitables: calls $2 and is all-in
+Uncalled bet ($1) returned to assitoni
+*** FLOP *** [Kh 6d 9h]
+*** TURN *** [Kh 6d 9h] [Ts]
+*** RIVER *** [Kh 6d 9h Ts] [5c]
+*** SHOW DOWN ***
+Profitables: shows [8s 5h] (a pair of Fives)
+assitoni: shows [7h 7d] (a pair of Sevens)
+assitoni collected $9.80 from pot
+*** SUMMARY ***
+Total pot $10 | Rake $0.20
+Board [Kh 6d 9h Ts 5c]
+Seat 1: Profitables (big blind) showed [8s 5h] and lost with a pair of Fives
+Seat 2: assitoni (button) (small blind) showed [7h 7d] and won ($9.80) with a pair of Sevens
+
+
+PokerStars Hand #145022344071:  Hold'em Limit ($3/$6 USD) - 2015/12/08 10:31:37 ET
+Table 'Forsytia IV' 10-max Seat #7 is the button
+Seat 1: Profitables ($5 in chips)
+Seat 7: Azrarn ($113.50 in chips)
+Azrarn: posts small blind $1
+Profitables: posts big blind $3
+*** HOLE CARDS ***
+Azrarn: folds
+Uncalled bet ($2) returned to Profitables
+Profitables collected $2 from pot
+Profitables: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Profitables (big blind) collected ($2)
+Seat 7: Azrarn (button) (small blind) folded before Flop
+
+
+PokerStars Hand #145022311700:  Hold'em Limit ($3/$6 USD) - 2015/12/08 10:30:54 ET
+Table 'Forsytia IV' 10-max Seat #1 is the button
+Seat 1: Profitables ($47 in chips)
+Seat 7: Azrarn ($72 in chips)
+Profitables: posts small blind $1
+assitoni joins the table at seat #2
+Azrarn: posts big blind $3
+*** HOLE CARDS ***
+Profitables: raises $3 to $6
+Azrarn: raises $3 to $9
+Profitables: calls $3
+*** FLOP *** [3h 4c Jc]
+Azrarn: bets $3
+Profitables: calls $3
+*** TURN *** [3h 4c Jc] [9h]
+Azrarn: checks
+Profitables: bets $6
+Azrarn: raises $6 to $12
+Profitables: calls $6
+*** RIVER *** [3h 4c Jc 9h] [4d]
+Azrarn: bets $6
+Profitables: raises $6 to $12
+Azrarn: raises $6 to $18
+Profitables: calls $6
+*** SHOW DOWN ***
+Azrarn: shows [Jh Js] (a full house, Jacks full of Fours)
+Profitables: mucks hand
+Azrarn collected $83.50 from pot
+*** SUMMARY ***
+Total pot $84 | Rake $0.50
+Board [3h 4c Jc 9h 4d]
+Seat 1: Profitables (button) (small blind) mucked
+Seat 7: Azrarn (big blind) showed [Jh Js] and won ($83.50) with a full house, Jacks full of Fours
+
+
+PokerStars Hand #145022939114:  Hold'em Limit ($3/$6 USD) - 2015/12/08 10:44:32 ET
+Table 'Forsytia IV' 10-max Seat #6 is the button
+Seat 6: BeniAA ($110 in chips)
+Seat 7: Azrarn ($122.14 in chips)
+BeniAA: posts small blind $1
+Azrarn: posts big blind $3
+*** HOLE CARDS ***
+BeniAA: calls $2
+Azrarn: checks
+*** FLOP *** [Js 9h 5h]
+Azrarn: checks
+BeniAA: checks
+*** TURN *** [Js 9h 5h] [6d]
+Azrarn: checks
+BeniAA: bets $6
+Azrarn: folds
+Uncalled bet ($6) returned to BeniAA
+BeniAA collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Js 9h 5h 6d]
+Seat 6: BeniAA (button) (small blind) collected ($5.88)
+Seat 7: Azrarn (big blind) folded on the Turn
+
+

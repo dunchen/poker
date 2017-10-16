@@ -1,0 +1,85 @@
+PokerStars Hand #145505205842:  Hold'em Limit ($3/$6 USD) - 2015/12/17 17:54:45 ET
+Table 'Megaira II' 6-max Seat #2 is the button
+Seat 2: korrnel ($117 in chips)
+Seat 5: vestimokrec ($128.43 in chips)
+korrnel: posts small blind $1
+Chessnok: is sitting out
+AzureCaper: is sitting out
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+korrnel: raises $3 to $6
+vestimokrec: calls $3
+*** FLOP *** [5s 2d 4h]
+vestimokrec: checks
+AzureCaper leaves the table
+korrnel: checks
+*** TURN *** [5s 2d 4h] [Ad]
+vestimokrec: checks
+korrnel: bets $6
+vestimokrec: calls $6
+*** RIVER *** [5s 2d 4h Ad] [8c]
+vestimokrec: checks
+korrnel: bets $6
+vestimokrec: raises $6 to $12
+korrnel: calls $6
+*** SHOW DOWN ***
+vestimokrec: shows [5h 8h] (two pair, Eights and Fives)
+korrnel: mucks hand
+vestimokrec collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [5s 2d 4h Ad 8c]
+Seat 2: korrnel (button) (small blind) mucked
+Seat 5: vestimokrec (big blind) showed [5h 8h] and won ($47.50) with two pair, Eights and Fives
+
+
+PokerStars Hand #145506098257:  Hold'em Limit ($3/$6 USD) - 2015/12/17 18:14:23 ET
+Table 'Megaira II' 6-max Seat #4 is the button
+Seat 4: AzureCaper ($95.50 in chips)
+Seat 6: sailence ($63.33 in chips)
+AzureCaper: posts small blind $1
+sailence: posts big blind $3
+*** HOLE CARDS ***
+steve57898 joins the table at seat #3
+AzureCaper: raises $3 to $6
+sailence: folds
+Uncalled bet ($3) returned to AzureCaper
+AzureCaper collected $6 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 4: AzureCaper (button) (small blind) collected ($6)
+Seat 6: sailence (big blind) folded before Flop
+
+
+PokerStars Hand #145506076663:  Hold'em Limit ($3/$6 USD) - 2015/12/17 18:13:56 ET
+Table 'Megaira II' 6-max Seat #6 is the button
+Seat 4: AzureCaper ($75 in chips)
+Seat 6: sailence ($84.33 in chips)
+sailence: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+sailence: calls $2
+AzureCaper: checks
+*** FLOP *** [5c Td 3d]
+AzureCaper: bets $3
+sailence: raises $3 to $6
+AzureCaper: calls $3
+*** TURN *** [5c Td 3d] [4h]
+AzureCaper: checks
+sailence: bets $6
+AzureCaper: calls $6
+*** RIVER *** [5c Td 3d 4h] [6c]
+AzureCaper: bets $6
+sailence: calls $6
+*** SHOW DOWN ***
+AzureCaper: shows [5s 7d] (a straight, Three to Seven)
+sailence: mucks hand
+AzureCaper collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [5c Td 3d 4h 6c]
+Seat 4: AzureCaper (big blind) showed [5s 7d] and won ($41.50) with a straight, Three to Seven
+Seat 6: sailence (button) (small blind) mucked
+
+

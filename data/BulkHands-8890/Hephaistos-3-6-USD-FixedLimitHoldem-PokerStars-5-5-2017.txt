@@ -1,0 +1,58 @@
+PokerStars Hand #169971245016:  Hold'em Limit ($3/$6 USD) - 2017/05/04 23:52:53 ET
+Table 'Hephaistos' 6-max Seat #2 is the button
+Seat 2: anebodil ($32.81 in chips)
+Seat 3: TbIP-TbIP 88 ($87.07 in chips)
+anebodil: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+anebodil: calls $2
+TbIP-TbIP 88: checks
+*** FLOP *** [2h 5s Kh]
+TbIP-TbIP 88: checks
+anebodil: checks
+*** TURN *** [2h 5s Kh] [6d]
+TbIP-TbIP 88: checks
+anebodil: checks
+*** RIVER *** [2h 5s Kh 6d] [Th]
+TbIP-TbIP 88: bets $6
+anebodil: calls $6
+*** SHOW DOWN ***
+TbIP-TbIP 88: shows [Td 7c] (a pair of Tens)
+anebodil: mucks hand
+TbIP-TbIP 88 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2h 5s Kh 6d Th]
+Seat 2: anebodil (button) (small blind) mucked
+Seat 3: TbIP-TbIP 88 (big blind) showed [Td 7c] and won ($17.64) with a pair of Tens
+
+
+PokerStars Hand #169971265545:  Hold'em Limit ($3/$6 USD) - 2017/05/04 23:53:51 ET
+Table 'Hephaistos' 6-max Seat #3 is the button
+Seat 2: anebodil ($23.81 in chips)
+Seat 3: TbIP-TbIP 88 ($95.71 in chips)
+TbIP-TbIP 88: posts small blind $1
+anebodil: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88: raises $3 to $6
+anebodil: calls $3
+*** FLOP *** [Kh 4s Qc]
+anebodil: bets $3
+TbIP-TbIP 88: calls $3
+*** TURN *** [Kh 4s Qc] [Ah]
+anebodil: bets $6
+TbIP-TbIP 88: calls $6
+*** RIVER *** [Kh 4s Qc Ah] [3c]
+anebodil: bets $6
+TbIP-TbIP 88: calls $6
+*** SHOW DOWN ***
+anebodil: shows [Kc Ts] (a pair of Kings)
+TbIP-TbIP 88: shows [Kd Jc] (a pair of Kings - Ace+Queen+Jack kicker)
+TbIP-TbIP 88 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Kh 4s Qc Ah 3c]
+Seat 2: anebodil (big blind) showed [Kc Ts] and lost with a pair of Kings
+Seat 3: TbIP-TbIP 88 (button) (small blind) showed [Kd Jc] and won ($41.50) with a pair of Kings
+
+

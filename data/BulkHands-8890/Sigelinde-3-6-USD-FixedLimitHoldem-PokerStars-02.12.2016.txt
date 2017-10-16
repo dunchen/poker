@@ -1,0 +1,61 @@
+PokerStars Hand #162301103363:  Hold'em Limit ($3/$6 USD) - 2016/12/02 13:55:22 ET
+Table 'Sigelinde' 6-max Seat #4 is the button
+Seat 1: Krazy90 ($178.04 in chips)
+Seat 4: Mordnilap ($110.79 in chips)
+Mordnilap: posts small blind $1
+Chessnok: is sitting out
+Krazy90: posts big blind $3
+*** HOLE CARDS ***
+Mordnilap: raises $3 to $6
+Krazy90: calls $3
+*** FLOP *** [6c 2d 8h]
+Krazy90: checks
+Mordnilap: checks
+*** TURN *** [6c 2d 8h] [5h]
+Krazy90: bets $6
+Mordnilap: calls $6
+*** RIVER *** [6c 2d 8h 5h] [Jc]
+Krazy90: bets $6
+Mordnilap: calls $6
+*** SHOW DOWN ***
+Krazy90: shows [Qd 5d] (a pair of Fives)
+Mordnilap: mucks hand
+Krazy90 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6c 2d 8h 5h Jc]
+Seat 1: Krazy90 (big blind) showed [Qd 5d] and won ($35.50) with a pair of Fives
+Seat 4: Mordnilap (button) (small blind) mucked
+
+
+PokerStars Hand #162301129264:  Hold'em Limit ($3/$6 USD) - 2016/12/02 13:55:58 ET
+Table 'Sigelinde' 6-max Seat #1 is the button
+Seat 1: Krazy90 ($195.54 in chips)
+Seat 4: Mordnilap ($92.79 in chips)
+Krazy90: posts small blind $1
+Mordnilap: posts big blind $3
+*** HOLE CARDS ***
+Krazy90: raises $3 to $6
+Mordnilap: calls $3
+*** FLOP *** [As Ac Kc]
+Mordnilap: checks
+Krazy90: bets $3
+Mordnilap: calls $3
+*** TURN *** [As Ac Kc] [Qd]
+Mordnilap: checks
+Krazy90: bets $6
+Mordnilap: calls $6
+*** RIVER *** [As Ac Kc Qd] [Kh]
+Mordnilap: checks
+Krazy90: checks
+*** SHOW DOWN ***
+Mordnilap: shows [3h Jc] (two pair, Aces and Kings)
+Krazy90: shows [Td Jd] (a straight, Ten to Ace)
+Krazy90 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [As Ac Kc Qd Kh]
+Seat 1: Krazy90 (button) (small blind) showed [Td Jd] and won ($29.50) with a straight, Ten to Ace
+Seat 4: Mordnilap (big blind) showed [3h Jc] and lost with two pair, Aces and Kings
+
+

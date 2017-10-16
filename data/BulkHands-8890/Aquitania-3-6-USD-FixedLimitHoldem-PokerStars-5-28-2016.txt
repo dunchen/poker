@@ -1,0 +1,83 @@
+PokerStars Hand #153951003102:  Hold'em Limit ($3/$6 USD) - 2016/05/28 7:46:41 ET
+Table 'Aquitania' 6-max Seat #1 is the button
+Seat 1: Tryptamean ($140.50 in chips)
+Seat 3: vitamin168 ($19 in chips)
+Tryptamean: posts small blind $1
+vitamin168: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+vitamin168: calls $3
+*** FLOP *** [Ac Qs 8c]
+vitamin168: checks
+Tryptamean: bets $3
+vitamin168: raises $3 to $6
+Tryptamean: folds
+Uncalled bet ($3) returned to vitamin168
+vitamin168 collected $17.64 from pot
+vitamin168: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ac Qs 8c]
+Seat 1: Tryptamean (button) (small blind) folded on the Flop
+Seat 3: vitamin168 (big blind) collected ($17.64)
+
+
+PokerStars Hand #153951010142:  Hold'em Limit ($3/$6 USD) - 2016/05/28 7:46:56 ET
+Table 'Aquitania' 6-max Seat #3 is the button
+Seat 1: Tryptamean ($131.50 in chips)
+Seat 3: vitamin168 ($27.64 in chips)
+vitamin168: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+vitamin168: raises $3 to $6
+Tryptamean: calls $3
+*** FLOP *** [5c Ad 3s]
+Tryptamean: checks
+vitamin168: bets $3
+Tryptamean: calls $3
+*** TURN *** [5c Ad 3s] [2s]
+Tryptamean: checks
+vitamin168: checks
+*** RIVER *** [5c Ad 3s 2s] [As]
+Tryptamean: bets $6
+vitamin168: calls $6
+*** SHOW DOWN ***
+Tryptamean: shows [5d 6h] (two pair, Aces and Fives)
+vitamin168: mucks hand
+Tryptamean collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5c Ad 3s 2s As]
+Seat 1: Tryptamean (big blind) showed [5d 6h] and won ($29.50) with two pair, Aces and Fives
+Seat 3: vitamin168 (button) (small blind) mucked
+
+
+PokerStars Hand #153951022912:  Hold'em Limit ($3/$6 USD) - 2016/05/28 7:47:22 ET
+Table 'Aquitania' 6-max Seat #1 is the button
+Seat 1: Tryptamean ($146 in chips)
+Seat 3: vitamin168 ($12.64 in chips)
+Tryptamean: posts small blind $1
+vitamin168: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+vitamin168: calls $3
+*** FLOP *** [Ac 2s 7s]
+vitamin168: checks
+Tryptamean: bets $3
+vitamin168: raises $3 to $6
+Tryptamean: raises $3 to $9
+vitamin168: calls $0.64 and is all-in
+Uncalled bet ($2.36) returned to Tryptamean
+*** TURN *** [Ac 2s 7s] [4s]
+*** RIVER *** [Ac 2s 7s 4s] [Qh]
+*** SHOW DOWN ***
+vitamin168: shows [7c 8c] (a pair of Sevens)
+Tryptamean: shows [Ks 8s] (a flush, King high)
+Tryptamean collected $24.78 from pot
+*** SUMMARY ***
+Total pot $25.28 | Rake $0.50
+Board [Ac 2s 7s 4s Qh]
+Seat 1: Tryptamean (button) (small blind) showed [Ks 8s] and won ($24.78) with a flush, King high
+Seat 3: vitamin168 (big blind) showed [7c 8c] and lost with a pair of Sevens
+
+

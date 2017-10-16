@@ -1,0 +1,115 @@
+PokerStars Hand #147368340742:  Hold'em Limit ($3/$6 USD) - 2016/01/20 10:57:15 ET
+Table 'Melete' 6-max Seat #1 is the button
+Seat 1: beekka ($142.50 in chips)
+Seat 4: Agrotait ($72 in chips)
+beekka: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+scorpio04 joins the table at seat #2
+beekka: calls $2
+Agrotait: checks
+*** FLOP *** [Th 5c 2d]
+Agrotait: checks
+beekka: bets $3
+Agrotait: raises $3 to $6
+beekka: calls $3
+*** TURN *** [Th 5c 2d] [Js]
+Agrotait: bets $6
+beekka: calls $6
+*** RIVER *** [Th 5c 2d Js] [4c]
+Agrotait: bets $6
+beekka: folds
+Uncalled bet ($6) returned to Agrotait
+Agrotait collected $29.50 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Th 5c 2d Js 4c]
+Seat 1: beekka (button) (small blind) folded on the River
+Seat 4: Agrotait (big blind) collected ($29.50)
+
+
+PokerStars Hand #147368327899:  Hold'em Limit ($3/$6 USD) - 2016/01/20 10:56:56 ET
+Table 'Melete' 6-max Seat #4 is the button
+Seat 1: beekka ($119 in chips)
+Seat 4: Agrotait ($73 in chips)
+Agrotait: posts small blind $1
+beekka: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+beekka: raises $3 to $9
+Agrotait: calls $3
+*** FLOP *** [6c 6d 3c]
+beekka: bets $3
+Agrotait: calls $3
+*** TURN *** [6c 6d 3c] [2s]
+beekka: bets $6
+Agrotait: calls $6
+*** RIVER *** [6c 6d 3c 2s] [Qc]
+beekka: bets $6
+dborys joins the table at seat #6
+Agrotait: calls $6
+*** SHOW DOWN ***
+beekka: shows [Qd Jh] (two pair, Queens and Sixes)
+Agrotait: mucks hand
+beekka collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [6c 6d 3c 2s Qc]
+Seat 1: beekka (big blind) showed [Qd Jh] and won ($47.50) with two pair, Queens and Sixes
+Seat 4: Agrotait (button) (small blind) mucked
+
+
+PokerStars Hand #147370169501:  Hold'em Limit ($3/$6 USD) - 2016/01/20 11:33:30 ET
+Table 'Melete' 6-max Seat #4 is the button
+Seat 1: lelala ($120 in chips)
+Seat 4: bloeffer ($225.82 in chips)
+bloeffer: posts small blind $1
+lelala: posts big blind $3
+*** HOLE CARDS ***
+bloeffer: folds
+Uncalled bet ($2) returned to lelala
+bloeffer leaves the table
+lelala collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: lelala (big blind) collected ($2)
+Seat 4: bloeffer (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147370143826:  Hold'em Limit ($3/$6 USD) - 2016/01/20 11:33:01 ET
+Table 'Melete' 6-max Seat #6 is the button
+Seat 4: bloeffer ($199.32 in chips)
+Seat 6: dborys ($298.13 in chips)
+dborys: posts small blind $1
+scorpio04: is sitting out
+scorpio04 leaves the table
+bloeffer: posts big blind $3
+*** HOLE CARDS ***
+dborys: raises $3 to $6
+bloeffer: calls $3
+*** FLOP *** [3s 8c 2d]
+bloeffer: checks
+dborys: bets $3
+bloeffer: calls $3
+*** TURN *** [3s 8c 2d] [Jc]
+bloeffer: checks
+lelala joins the table at seat #1
+dborys: bets $6
+bloeffer: calls $6
+*** RIVER *** [3s 8c 2d Jc] [9s]
+bloeffer: checks
+dborys: bets $6
+bloeffer: raises $6 to $12
+dborys: calls $6
+*** SHOW DOWN ***
+bloeffer: shows [Qh Tc] (a straight, Eight to Queen)
+dborys: mucks hand
+bloeffer collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [3s 8c 2d Jc 9s]
+Seat 4: bloeffer (big blind) showed [Qh Tc] and won ($53.50) with a straight, Eight to Queen
+Seat 6: dborys (button) (small blind) mucked
+
+

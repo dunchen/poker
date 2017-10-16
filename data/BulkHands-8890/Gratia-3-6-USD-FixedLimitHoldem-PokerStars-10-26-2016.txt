@@ -1,0 +1,97 @@
+PokerStars Hand #160444094350:  Hold'em Limit ($3/$6 USD) - 2016/10/25 20:09:35 ET
+Table 'Gratia' 6-max Seat #6 is the button
+Seat 4: assitoni ($72 in chips)
+Seat 6: gogo3474 ($60.15 in chips)
+gogo3474: posts small blind $1
+assitoni: posts big blind $3
+*** HOLE CARDS ***
+gogo3474: raises $3 to $6
+assitoni: calls $3
+*** FLOP *** [5h 8d 9c]
+assitoni: checks
+gogo3474: bets $3
+assitoni: raises $3 to $6
+gogo3474: calls $3
+*** TURN *** [5h 8d 9c] [Kc]
+ToDaFelt joins the table at seat #1
+assitoni: bets $6
+gogo3474: calls $6
+*** RIVER *** [5h 8d 9c Kc] [Qs]
+assitoni: bets $6
+gogo3474: folds
+Uncalled bet ($6) returned to assitoni
+assitoni collected $35.50 from pot
+assitoni: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5h 8d 9c Kc Qs]
+Seat 4: assitoni (big blind) collected ($35.50)
+Seat 6: gogo3474 (button) (small blind) folded on the River
+
+
+PokerStars Hand #160444120392:  Hold'em Limit ($3/$6 USD) - 2016/10/25 20:10:26 ET
+Table 'Gratia' 6-max Seat #4 is the button
+Seat 4: assitoni ($89.50 in chips)
+Seat 6: gogo3474 ($42.15 in chips)
+assitoni: posts small blind $1
+gogo3474: posts big blind $3
+*** HOLE CARDS ***
+assitoni: raises $3 to $6
+gogo3474: calls $3
+*** FLOP *** [2c 9c 4s]
+gogo3474: checks
+assitoni: bets $3
+gogo3474: calls $3
+*** TURN *** [2c 9c 4s] [8c]
+gogo3474: checks
+assitoni: bets $6
+gogo3474: calls $6
+*** RIVER *** [2c 9c 4s 8c] [8s]
+cocobär1 joins the table at seat #3
+gogo3474: checks
+assitoni: bets $6
+gogo3474: raises $6 to $12
+assitoni: folds
+Uncalled bet ($6) returned to gogo3474
+gogo3474 collected $41.50 from pot
+gogo3474: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2c 9c 4s 8c 8s]
+Seat 4: assitoni (button) (small blind) folded on the River
+Seat 6: gogo3474 (big blind) collected ($41.50)
+
+
+PokerStars Hand #160444194130:  Hold'em Limit ($3/$6 USD) - 2016/10/25 20:12:52 ET
+Table 'Gratia' 6-max Seat #1 is the button
+Seat 1: ToDaFelt ($156.63 in chips)
+Seat 6: gogo3474 ($27.65 in chips)
+ToDaFelt: posts small blind $1
+gogo3474: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+gogo3474: raises $3 to $9
+ToDaFelt: calls $3
+*** FLOP *** [7s 3s 5s]
+gogo3474: bets $3
+ToDaFelt: raises $3 to $6
+gogo3474: calls $3
+*** TURN *** [7s 3s 5s] [3h]
+gogo3474: checks
+ToDaFelt: bets $6
+gogo3474: calls $6
+*** RIVER *** [7s 3s 5s 3h] [2c]
+gogo3474: checks
+ToDaFelt: bets $6
+gogo3474: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [5c 6d] (two pair, Fives and Threes)
+gogo3474: mucks hand
+ToDaFelt collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [7s 3s 5s 3h 2c]
+Seat 1: ToDaFelt (button) (small blind) showed [5c 6d] and won ($53.50) with two pair, Fives and Threes
+Seat 6: gogo3474 (big blind) mucked
+
+

@@ -1,0 +1,31 @@
+PokerStars Hand #148288673688:  Hold'em Limit ($3/$6 USD) - 2016/02/05 13:45:30 ET
+Table 'Friederike II' 2-max Seat #2 is the button
+Seat 1: favete lin ($72 in chips)
+Seat 2: lepihoz ($120 in chips)
+lepihoz: posts small blind $1
+favete lin: posts big blind $3
+*** HOLE CARDS ***
+lepihoz: calls $2
+favete lin: checks
+*** FLOP *** [7h 4h Td]
+favete lin: checks
+lepihoz: bets $3
+favete lin: calls $3
+*** TURN *** [7h 4h Td] [Ks]
+favete lin: checks
+lepihoz: bets $6
+favete lin: raises $6 to $12
+lepihoz: calls $6
+*** RIVER *** [7h 4h Td Ks] [Jc]
+favete lin: bets $6
+lepihoz: folds
+Uncalled bet ($6) returned to favete lin
+favete lin collected $35.50 from pot
+favete lin: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [7h 4h Td Ks Jc]
+Seat 1: favete lin (big blind) collected ($35.50)
+Seat 2: lepihoz (button) (small blind) folded on the River
+
+

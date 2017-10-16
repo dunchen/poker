@@ -1,0 +1,33 @@
+PokerStars Hand #148496306576:  Hold'em Limit ($3/$6 USD) - 2016/02/09 7:18:21 ET
+Table 'Okul II' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($259.13 in chips)
+Seat 6: P77N ($15.19 in chips)
+VolkovDmitri: posts small blind $1
+HAL9QQQ: is sitting out
+P77N: posts big blind $3
+*** HOLE CARDS ***
+HAL9QQQ leaves the table
+VolkovDmitri: raises $3 to $6
+TheWizKids joins the table at seat #4
+P77N: calls $3
+*** FLOP *** [2c 5h Ks]
+P77N: checks
+VolkovDmitri: bets $3
+P77N: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+P77N: raises $0.19 to $9.19 and is all-in
+Betting is capped
+VolkovDmitri: calls $0.19
+*** TURN *** [2c 5h Ks] [Qs]
+*** RIVER *** [2c 5h Ks Qs] [Jd]
+*** SHOW DOWN ***
+P77N: shows [Td 8s] (high card King)
+VolkovDmitri: shows [Js 9c] (a pair of Jacks)
+VolkovDmitri collected $29.88 from pot
+*** SUMMARY ***
+Total pot $30.38 | Rake $0.50
+Board [2c 5h Ks Qs Jd]
+Seat 1: VolkovDmitri (button) (small blind) showed [Js 9c] and won ($29.88) with a pair of Jacks
+Seat 6: P77N (big blind) showed [Td 8s] and lost with high card King
+
+

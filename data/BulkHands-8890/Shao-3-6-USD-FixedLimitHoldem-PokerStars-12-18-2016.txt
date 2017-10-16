@@ -1,0 +1,31 @@
+PokerStars Hand #163134717150:  Hold'em Limit ($3/$6 USD) - 2016/12/18 9:34:14 ET
+Table 'Shao' 6-max Seat #6 is the button
+Seat 3: geograf3 ($45.74 in chips)
+Seat 6: kapetanb3 ($48.13 in chips)
+kapetanb3: posts small blind $1
+geograf3: posts big blind $3
+*** HOLE CARDS ***
+kapetanb3: calls $2
+AzureCaper joins the table at seat #4
+geograf3: raises $3 to $6
+kapetanb3: calls $3
+*** FLOP *** [Td 8s 4d]
+geograf3: bets $3
+kapetanb3: calls $3
+*** TURN *** [Td 8s 4d] [7s]
+geograf3: checks
+kapetanb3: checks
+*** RIVER *** [Td 8s 4d 7s] [2s]
+geograf3: checks
+kapetanb3: checks
+*** SHOW DOWN ***
+geograf3: shows [3s 6s] (a flush, Eight high)
+kapetanb3: mucks hand
+geograf3 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Td 8s 4d 7s 2s]
+Seat 3: geograf3 (big blind) showed [3s 6s] and won ($17.64) with a flush, Eight high
+Seat 6: kapetanb3 (button) (small blind) mucked
+
+

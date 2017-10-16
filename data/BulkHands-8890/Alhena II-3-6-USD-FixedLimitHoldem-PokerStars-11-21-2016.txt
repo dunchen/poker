@@ -1,0 +1,74 @@
+PokerStars Hand #161756556927:  Hold'em Limit ($3/$6 USD) - 2016/11/21 15:32:16 ET
+Table 'Alhena II' 6-max Seat #4 is the button
+Seat 3: mikgar85 ($67.73 in chips)
+Seat 4: ToDaFelt ($117 in chips)
+ToDaFelt: posts small blind $1
+assitoni: is sitting out
+mikgar85: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+assitoni leaves the table
+mikgar85: calls $3
+*** FLOP *** [As 7d 9h]
+mikgar85: checks
+ToDaFelt: checks
+*** TURN *** [As 7d 9h] [2h]
+mikgar85: checks
+ToDaFelt: bets $6
+mikgar85: calls $6
+*** RIVER *** [As 7d 9h 2h] [Ah]
+mikgar85: checks
+ToDaFelt: bets $6
+mikgar85: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [7s Qs] (two pair, Aces and Sevens)
+mikgar85: shows [9s 4d] (two pair, Aces and Nines)
+mikgar85 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [As 7d 9h 2h Ah]
+Seat 3: mikgar85 (big blind) showed [9s 4d] and won ($35.50) with two pair, Aces and Nines
+Seat 4: ToDaFelt (button) (small blind) showed [7s Qs] and lost with two pair, Aces and Sevens
+
+
+PokerStars Hand #161756580735:  Hold'em Limit ($3/$6 USD) - 2016/11/21 15:32:40 ET
+Table 'Alhena II' 6-max Seat #3 is the button
+Seat 3: mikgar85 ($85.23 in chips)
+Seat 4: ToDaFelt ($99 in chips)
+mikgar85: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+mikgar85: calls $2
+ToDaFelt: raises $3 to $6
+mikgar85: calls $3
+*** FLOP *** [9h 7d 2d]
+ToDaFelt: bets $3
+mikgar85: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $11.76 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9h 7d 2d]
+Seat 3: mikgar85 (button) (small blind) folded on the Flop
+Seat 4: ToDaFelt (big blind) collected ($11.76)
+
+
+PokerStars Hand #161756828477:  Hold'em Limit ($3/$6 USD) - 2016/11/21 15:36:51 ET
+Table 'Alhena II' 6-max Seat #5 is the button
+Seat 4: ToDaFelt ($135.24 in chips)
+Seat 5: vestimokrec ($106.35 in chips)
+vestimokrec: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+ToDaFelt: folds
+Uncalled bet ($3) returned to vestimokrec
+vestimokrec collected $6 from pot
+vestimokrec: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 4: ToDaFelt (big blind) folded before Flop
+Seat 5: vestimokrec (button) (small blind) collected ($6)
+
+

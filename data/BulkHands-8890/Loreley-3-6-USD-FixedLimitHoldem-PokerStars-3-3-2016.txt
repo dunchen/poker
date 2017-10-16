@@ -1,0 +1,106 @@
+PokerStars Hand #149795795068:  Hold'em Limit ($3/$6 USD) - 2016/03/03 18:03:18 ET
+Table 'Loreley' 6-max Seat #4 is the button
+Seat 1: phrantsuz ($44.99 in chips)
+Seat 4: AzureCaper ($72 in chips)
+AzureCaper: posts small blind $1
+phrantsuz: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: folds
+Uncalled bet ($2) returned to phrantsuz
+phrantsuz collected $2 from pot
+phrantsuz: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: phrantsuz (big blind) collected ($2)
+Seat 4: AzureCaper (button) (small blind) folded before Flop
+
+
+PokerStars Hand #149795766228:  Hold'em Limit ($3/$6 USD) - 2016/03/03 18:02:43 ET
+Table 'Loreley' 6-max Seat #1 is the button
+Seat 1: phrantsuz ($30.49 in chips)
+Seat 4: AzureCaper ($72 in chips)
+phrantsuz: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+phrantsuz: calls $2
+AzureCaper: checks
+*** FLOP *** [2d 2c 7d]
+AzureCaper: checks
+phrantsuz: checks
+*** TURN *** [2d 2c 7d] [Ac]
+AzureCaper: checks
+phrantsuz: bets $6
+vestimokrec joins the table at seat #2
+AzureCaper: calls $6
+*** RIVER *** [2d 2c 7d Ac] [Kc]
+AzureCaper: checks
+phrantsuz: bets $6
+AzureCaper: calls $6
+*** SHOW DOWN ***
+phrantsuz: shows [4c 8c] (a flush, Ace high)
+AzureCaper: mucks hand
+phrantsuz collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2d 2c 7d Ac Kc]
+Seat 1: phrantsuz (button) (small blind) showed [4c 8c] and won ($29.50) with a flush, Ace high
+Seat 4: AzureCaper (big blind) mucked
+
+
+PokerStars Hand #149796945204:  Hold'em Limit ($3/$6 USD) - 2016/03/03 18:26:21 ET
+Table 'Loreley' 6-max Seat #6 is the button
+Seat 4: AzureCaper ($106.79 in chips)
+Seat 6: fsreibnitz ($44.78 in chips)
+fsreibnitz: posts small blind $1
+vestimokrec: is sitting out
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec leaves the table
+fsreibnitz: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [Tc Th 5c]
+AzureCaper: checks
+fsreibnitz: bets $3
+AzureCaper: folds
+Uncalled bet ($3) returned to fsreibnitz
+fsreibnitz collected $11.76 from pot
+fsreibnitz: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Tc Th 5c]
+Seat 4: AzureCaper (big blind) folded on the Flop
+Seat 6: fsreibnitz (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #149796965998:  Hold'em Limit ($3/$6 USD) - 2016/03/03 18:26:48 ET
+Table 'Loreley' 6-max Seat #4 is the button
+Seat 4: AzureCaper ($100.79 in chips)
+Seat 6: fsreibnitz ($50.54 in chips)
+AzureCaper: posts small blind $1
+fsreibnitz: posts big blind $3
+*** HOLE CARDS ***
+Necromadx leaves the table
+AzureCaper: raises $3 to $6
+fsreibnitz: calls $3
+*** FLOP *** [2c 3d Jc]
+fsreibnitz: checks
+AzureCaper: bets $3
+fsreibnitz: calls $3
+*** TURN *** [2c 3d Jc] [Kh]
+fsreibnitz: checks
+AzureCaper: bets $6
+fsreibnitz: calls $6
+*** RIVER *** [2c 3d Jc Kh] [9h]
+fsreibnitz: checks
+AzureCaper: checks
+*** SHOW DOWN ***
+fsreibnitz: shows [Qh Qd] (a pair of Queens)
+AzureCaper: mucks hand
+fsreibnitz collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2c 3d Jc Kh 9h]
+Seat 4: AzureCaper (button) (small blind) mucked
+Seat 6: fsreibnitz (big blind) showed [Qh Qd] and won ($29.50) with a pair of Queens
+
+

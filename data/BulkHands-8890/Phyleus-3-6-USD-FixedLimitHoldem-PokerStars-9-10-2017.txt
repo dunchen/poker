@@ -1,0 +1,33 @@
+PokerStars Hand #175449030434:  Hold'em Limit ($3/$6 USD) - 2017/09/10 5:48:49 ET
+Table 'Phyleus' 6-max Seat #3 is the button
+Seat 3: mimlio ($111.49 in chips)
+Seat 4: VolkovDmitri ($143.31 in chips)
+mimlio: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+mimlio: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+mimlio: calls $3
+*** FLOP *** [Qc Jc 5d]
+VolkovDmitri: bets $3
+mimlio: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [Qc Jc 5d] [7c]
+VolkovDmitri: checks
+mimlio: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [Qc Jc 5d 7c] [3d]
+VolkovDmitri: checks
+mimlio: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+mimlio: shows [8c Qd] (a pair of Queens)
+VolkovDmitri: mucks hand
+mimlio collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Qc Jc 5d 7c 3d]
+Seat 3: mimlio (button) (small blind) showed [8c Qd] and won ($53.50) with a pair of Queens
+Seat 4: VolkovDmitri (big blind) mucked
+
+

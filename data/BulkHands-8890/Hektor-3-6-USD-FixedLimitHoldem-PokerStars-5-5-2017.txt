@@ -1,0 +1,103 @@
+PokerStars Hand #170006249582:  Hold'em Limit ($3/$6 USD) - 2017/05/05 17:59:39 ET
+Table 'Hektor' 10-max Seat #2 is the button
+Seat 1: stanya_ser ($38.76 in chips)
+Seat 2: GoliafUa ($129.40 in chips)
+GoliafUa: posts small blind $1
+stanya_ser: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa: raises $3 to $6
+stanya_ser: calls $3
+*** FLOP *** [5s Ks 2h]
+stanya_ser: checks
+GoliafUa: bets $3
+stanya_ser: calls $3
+*** TURN *** [5s Ks 2h] [Qs]
+stanya_ser: checks
+GoliafUa: checks
+*** RIVER *** [5s Ks 2h Qs] [3s]
+stanya_ser: checks
+GoliafUa: checks
+*** SHOW DOWN ***
+stanya_ser: shows [6h 9h] (high card King)
+GoliafUa: shows [Ah 8c] (high card Ace)
+GoliafUa collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5s Ks 2h Qs 3s]
+Seat 1: stanya_ser (big blind) showed [6h 9h] and lost with high card King
+Seat 2: GoliafUa (button) (small blind) showed [Ah 8c] and won ($17.64) with high card Ace
+
+
+PokerStars Hand #170006241681:  Hold'em Limit ($3/$6 USD) - 2017/05/05 17:59:26 ET
+Table 'Hektor' 10-max Seat #1 is the button
+Seat 1: stanya_ser ($39.76 in chips)
+Seat 2: GoliafUa ($128.40 in chips)
+stanya_ser: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+stanya_ser: folds
+Uncalled bet ($2) returned to GoliafUa
+GoliafUa collected $2 from pot
+GoliafUa: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: stanya_ser (button) (small blind) folded before Flop
+Seat 2: GoliafUa (big blind) collected ($2)
+
+
+PokerStars Hand #170006278998:  Hold'em Limit ($3/$6 USD) - 2017/05/05 18:00:22 ET
+Table 'Hektor' 10-max Seat #2 is the button
+Seat 1: stanya_ser ($20.76 in chips)
+Seat 2: GoliafUa ($146.68 in chips)
+GoliafUa: posts small blind $1
+stanya_ser: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa: raises $3 to $6
+stanya_ser: raises $3 to $9
+GoliafUa: calls $3
+*** FLOP *** [3s 5d Ks]
+stanya_ser: bets $3
+GoliafUa: calls $3
+*** TURN *** [3s 5d Ks] [8h]
+stanya_ser: bets $6
+GoliafUa: calls $6
+*** RIVER *** [3s 5d Ks 8h] [7h]
+stanya_ser: bets $2.76 and is all-in
+GoliafUa: calls $2.76
+*** SHOW DOWN ***
+stanya_ser: shows [Qd Kh] (a pair of Kings)
+GoliafUa: shows [Kd 5s] (two pair, Kings and Fives)
+GoliafUa collected $41.02 from pot
+*** SUMMARY ***
+Total pot $41.52 | Rake $0.50
+Board [3s 5d Ks 8h 7h]
+Seat 1: stanya_ser (big blind) showed [Qd Kh] and lost with a pair of Kings
+Seat 2: GoliafUa (button) (small blind) showed [Kd 5s] and won ($41.02) with two pair, Kings and Fives
+
+
+PokerStars Hand #170006264032:  Hold'em Limit ($3/$6 USD) - 2017/05/05 18:00:01 ET
+Table 'Hektor' 10-max Seat #1 is the button
+Seat 1: stanya_ser ($29.76 in chips)
+Seat 2: GoliafUa ($138.04 in chips)
+stanya_ser: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+stanya_ser: calls $2
+GoliafUa: raises $3 to $6
+stanya_ser: calls $3
+*** FLOP *** [5h 3d Tc]
+GoliafUa: bets $3
+stanya_ser: calls $3
+*** TURN *** [5h 3d Tc] [Kh]
+GoliafUa: bets $6
+stanya_ser: folds
+Uncalled bet ($6) returned to GoliafUa
+GoliafUa collected $17.64 from pot
+GoliafUa: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5h 3d Tc Kh]
+Seat 1: stanya_ser (button) (small blind) folded on the Turn
+Seat 2: GoliafUa (big blind) collected ($17.64)
+
+

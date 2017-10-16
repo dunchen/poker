@@ -1,0 +1,64 @@
+PokerStars Hand #169494149963:  Hold'em Limit ($3/$6 USD) - 2017/04/24 11:18:08 ET
+Table 'Sicilia II' 6-max Seat #3 is the button
+Seat 3: FWA111 ($120 in chips)
+Seat 5: MTails ($120 in chips)
+FWA111: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+FWA111: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [5s 8s 6s]
+MTails: checks
+FWA111: bets $3
+MTails: raises $3 to $6
+FWA111: calls $3
+*** TURN *** [5s 8s 6s] [8d]
+MTails: bets $6
+FWA111: calls $6
+*** RIVER *** [5s 8s 6s 8d] [4h]
+MTails: bets $6
+FWA111: folds
+Uncalled bet ($6) returned to MTails
+MTails collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5s 8s 6s 8d 4h]
+Seat 3: FWA111 (button) (small blind) folded on the River
+Seat 5: MTails (big blind) collected ($35.50)
+
+
+PokerStars Hand #169494172924:  Hold'em Limit ($3/$6 USD) - 2017/04/24 11:18:45 ET
+Table 'Sicilia II' 6-max Seat #5 is the button
+Seat 3: FWA111 ($102 in chips)
+Seat 5: MTails ($137.50 in chips)
+MTails: posts small blind $1
+FWA111: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+FWA111: calls $3
+*** FLOP *** [9h 7h 7c]
+FWA111: checks
+MTails: bets $3
+FWA111: calls $3
+*** TURN *** [9h 7h 7c] [Td]
+FWA111: checks
+MTails: bets $6
+FWA111: raises $6 to $12
+MTails: raises $6 to $18
+FWA111: raises $6 to $24
+Betting is capped
+MTails: calls $6
+*** RIVER *** [9h 7h 7c Td] [4s]
+FWA111: bets $6
+MTails: calls $6
+*** SHOW DOWN ***
+FWA111: shows [7s 8c] (three of a kind, Sevens)
+MTails: shows [Kh 7d] (three of a kind, Sevens - King kicker)
+MTails collected $77.50 from pot
+*** SUMMARY ***
+Total pot $78 | Rake $0.50
+Board [9h 7h 7c Td 4s]
+Seat 3: FWA111 (big blind) showed [7s 8c] and lost with three of a kind, Sevens
+Seat 5: MTails (button) (small blind) showed [Kh 7d] and won ($77.50) with three of a kind, Sevens
+
+

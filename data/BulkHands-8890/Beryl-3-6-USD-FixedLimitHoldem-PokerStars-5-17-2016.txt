@@ -1,0 +1,63 @@
+PokerStars Hand #153438940911:  Hold'em Limit ($3/$6 USD) - 2016/05/17 7:51:16 ET
+Table 'Beryl' 6-max Seat #1 is the button
+Seat 1: Eu sou K ($95 in chips)
+Seat 2: TbIP-TbIP 88 ($96.50 in chips)
+Eu sou K: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+Eu sou K: raises $3 to $6
+TbIP-TbIP 88: calls $3
+*** FLOP *** [3s 8d 9d]
+TbIP-TbIP 88: checks
+Eu sou K: bets $3
+TbIP-TbIP 88: calls $3
+*** TURN *** [3s 8d 9d] [7s]
+belik555 joins the table at seat #3
+TbIP-TbIP 88: checks
+Eu sou K: checks
+*** RIVER *** [3s 8d 9d 7s] [Td]
+TbIP-TbIP 88: bets $6
+Eu sou K: calls $6
+*** SHOW DOWN ***
+TbIP-TbIP 88: shows [4d Qd] (a flush, Queen high)
+Eu sou K: mucks hand
+TbIP-TbIP 88 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3s 8d 9d 7s Td]
+Seat 1: Eu sou K (button) (small blind) mucked
+Seat 2: TbIP-TbIP 88 (big blind) showed [4d Qd] and won ($29.50) with a flush, Queen high
+
+
+PokerStars Hand #153438931638:  Hold'em Limit ($3/$6 USD) - 2016/05/17 7:50:56 ET
+Table 'Beryl' 6-max Seat #2 is the button
+Seat 1: Eu sou K ($119 in chips)
+Seat 2: TbIP-TbIP 88 ($73 in chips)
+TbIP-TbIP 88: posts small blind $1
+Eu sou K: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88: raises $3 to $6
+Eu sou K: calls $3
+*** FLOP *** [8c 9c 8h]
+Eu sou K: checks
+TbIP-TbIP 88: bets $3
+Eu sou K: raises $3 to $6
+TbIP-TbIP 88: calls $3
+*** TURN *** [8c 9c 8h] [Ac]
+Eu sou K: bets $6
+TbIP-TbIP 88: calls $6
+*** RIVER *** [8c 9c 8h Ac] [5c]
+Eu sou K: checks
+TbIP-TbIP 88: bets $6
+Eu sou K: calls $6
+*** SHOW DOWN ***
+TbIP-TbIP 88: shows [Jc Kh] (a flush, Ace high)
+Eu sou K: mucks hand
+TbIP-TbIP 88 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8c 9c 8h Ac 5c]
+Seat 1: Eu sou K (big blind) mucked
+Seat 2: TbIP-TbIP 88 (button) (small blind) showed [Jc Kh] and won ($47.50) with a flush, Ace high
+
+

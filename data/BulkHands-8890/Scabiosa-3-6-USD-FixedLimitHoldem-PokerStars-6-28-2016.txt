@@ -1,0 +1,110 @@
+PokerStars Hand #155292911520:  Hold'em Limit ($3/$6 USD) - 2016/06/28 4:51:10 ET
+Table 'Scabiosa' 6-max Seat #3 is the button
+Seat 3: sigvi ($63.42 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+sigvi: posts small blind $1
+Tryptamean joins the table at seat #2
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+sigvi: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+sigvi: calls $3
+*** FLOP *** [3s Ah 2d]
+VolkovDmitri: bets $3
+sigvi: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $17.64 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3s Ah 2d]
+Seat 3: sigvi (button) (small blind) folded on the Flop
+Seat 4: VolkovDmitri (big blind) collected ($17.64)
+
+
+PokerStars Hand #155292951496:  Hold'em Limit ($3/$6 USD) - 2016/06/28 4:53:21 ET
+Table 'Scabiosa' 6-max Seat #3 is the button
+Seat 2: Tryptamean ($133.92 in chips)
+Seat 3: sigvi ($20.42 in chips)
+sigvi: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+sigvi: raises $3 to $6
+Tryptamean: folds
+Uncalled bet ($3) returned to sigvi
+sigvi collected $6 from pot
+sigvi: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: Tryptamean (big blind) folded before Flop
+Seat 3: sigvi (button) (small blind) collected ($6)
+
+
+PokerStars Hand #155292953566:  Hold'em Limit ($3/$6 USD) - 2016/06/28 4:53:28 ET
+Table 'Scabiosa' 6-max Seat #2 is the button
+Seat 2: Tryptamean ($130.92 in chips)
+Seat 3: sigvi ($23.42 in chips)
+Tryptamean: posts small blind $1
+sigvi: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri leaves the table
+Tryptamean: raises $3 to $6
+sigvi: folds
+Uncalled bet ($3) returned to Tryptamean
+Tryptamean collected $6 from pot
+Tryptamean: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: Tryptamean (button) (small blind) collected ($6)
+Seat 3: sigvi (big blind) folded before Flop
+
+
+PokerStars Hand #155292955909:  Hold'em Limit ($3/$6 USD) - 2016/06/28 4:53:35 ET
+Table 'Scabiosa' 6-max Seat #3 is the button
+Seat 2: Tryptamean ($133.92 in chips)
+Seat 3: sigvi ($20.42 in chips)
+sigvi: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+sigvi: raises $3 to $6
+Tryptamean: raises $3 to $9
+sigvi: calls $3
+*** FLOP *** [Jh 7d 4d]
+Tryptamean: bets $3
+sigvi: folds
+Uncalled bet ($3) returned to Tryptamean
+Tryptamean collected $17.64 from pot
+Tryptamean: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Jh 7d 4d]
+Seat 2: Tryptamean (big blind) collected ($17.64)
+Seat 3: sigvi (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #155292959380:  Hold'em Limit ($3/$6 USD) - 2016/06/28 4:53:47 ET
+Table 'Scabiosa' 6-max Seat #2 is the button
+Seat 2: Tryptamean ($142.56 in chips)
+Seat 3: sigvi ($11.42 in chips)
+Tryptamean: posts small blind $1
+sigvi: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+sigvi: raises $3 to $9
+Tryptamean: calls $3
+*** FLOP *** [4c 2d 5d]
+sigvi: bets $2.42 and is all-in
+Tryptamean: calls $2.42
+*** TURN *** [4c 2d 5d] [3d]
+*** RIVER *** [4c 2d 5d 3d] [2s]
+*** SHOW DOWN ***
+sigvi: shows [7c 9d] (a pair of Deuces)
+Tryptamean: shows [As Ts] (a straight, Ace to Five)
+Tryptamean collected $22.38 from pot
+*** SUMMARY ***
+Total pot $22.84 | Rake $0.46
+Board [4c 2d 5d 3d 2s]
+Seat 2: Tryptamean (button) (small blind) showed [As Ts] and won ($22.38) with a straight, Ace to Five
+Seat 3: sigvi (big blind) showed [7c 9d] and lost with a pair of Deuces
+
+

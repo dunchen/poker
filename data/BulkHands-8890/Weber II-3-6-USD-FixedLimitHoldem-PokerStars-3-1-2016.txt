@@ -1,0 +1,65 @@
+PokerStars Hand #149677824194:  Hold'em Limit ($3/$6 USD) - 2016/03/01 13:52:54 ET
+Table 'Weber II' 6-max Seat #6 is the button
+Seat 3: minigus575 ($103.50 in chips)
+Seat 6: SmellyToes4u ($51.50 in chips)
+SmellyToes4u: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+SmellyToes4u: raises $3 to $6
+minigus575: calls $3
+*** FLOP *** [7s 3h 5h]
+BuzovaPro joins the table at seat #4
+minigus575: checks
+SmellyToes4u: checks
+*** TURN *** [7s 3h 5h] [As]
+minigus575: checks
+Sagar_7 joins the table at seat #5
+SmellyToes4u: bets $6
+minigus575: raises $6 to $12
+SmellyToes4u: calls $6
+*** RIVER *** [7s 3h 5h As] [5d]
+minigus575: bets $6
+SmellyToes4u: calls $6
+*** SHOW DOWN ***
+minigus575: shows [2d 4c] (a straight, Ace to Five)
+SmellyToes4u: mucks hand
+minigus575 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7s 3h 5h As 5d]
+Seat 3: minigus575 (big blind) showed [2d 4c] and won ($47.50) with a straight, Ace to Five
+Seat 6: SmellyToes4u (button) (small blind) mucked
+
+
+PokerStars Hand #149677798710:  Hold'em Limit ($3/$6 USD) - 2016/03/01 13:52:28 ET
+Table 'Weber II' 6-max Seat #3 is the button
+Seat 3: minigus575 ($129.50 in chips)
+Seat 6: SmellyToes4u ($26 in chips)
+minigus575: posts small blind $1
+SmellyToes4u: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+SmellyToes4u: raises $3 to $9
+minigus575: calls $3
+*** FLOP *** [5c Jh 6d]
+SmellyToes4u: bets $3
+minigus575: calls $3
+*** TURN *** [5c Jh 6d] [9s]
+SmellyToes4u: bets $6
+minigus575: calls $6
+*** RIVER *** [5c Jh 6d 9s] [3c]
+SmellyToes4u: bets $6
+minigus575: raises $6 to $12
+SmellyToes4u: calls $2 and is all-in
+Uncalled bet ($4) returned to minigus575
+*** SHOW DOWN ***
+minigus575: shows [9d 8d] (a pair of Nines)
+SmellyToes4u: shows [Qd Qc] (a pair of Queens)
+SmellyToes4u collected $51.50 from pot
+*** SUMMARY ***
+Total pot $52 | Rake $0.50
+Board [5c Jh 6d 9s 3c]
+Seat 3: minigus575 (button) (small blind) showed [9d 8d] and lost with a pair of Nines
+Seat 6: SmellyToes4u (big blind) showed [Qd Qc] and won ($51.50) with a pair of Queens
+
+

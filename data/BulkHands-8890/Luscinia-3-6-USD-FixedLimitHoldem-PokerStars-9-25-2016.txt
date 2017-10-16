@@ -1,0 +1,120 @@
+PokerStars Hand #159063507704:  Hold'em Limit ($3/$6 USD) - 2016/09/25 6:20:05 ET
+Table 'Luscinia' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($120 in chips)
+Seat 6: caddymansts ($42.50 in chips)
+VolkovDmitri: posts small blind $1
+caddymansts: posts big blind $3
+*** HOLE CARDS ***
+LolDnkaments joins the table at seat #1
+VolkovDmitri: raises $3 to $6
+caddymansts: calls $3
+*** FLOP *** [6c 6d 4d]
+caddymansts: checks
+VolkovDmitri: bets $3
+caddymansts: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6c 6d 4d]
+Seat 4: VolkovDmitri (button) (small blind) collected ($11.76)
+Seat 6: caddymansts (big blind) folded on the Flop
+
+
+PokerStars Hand #159063497591:  Hold'em Limit ($3/$6 USD) - 2016/09/25 6:19:42 ET
+Table 'Luscinia' 6-max Seat #6 is the button
+Seat 4: VolkovDmitri ($120 in chips)
+Seat 6: caddymansts ($36.74 in chips)
+caddymansts: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+caddymansts: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [9h 6h 8d]
+VolkovDmitri: checks
+caddymansts: checks
+*** TURN *** [9h 6h 8d] [6c]
+VolkovDmitri: checks
+caddymansts: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to caddymansts
+caddymansts collected $11.76 from pot
+caddymansts: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9h 6h 8d 6c]
+Seat 4: VolkovDmitri (big blind) folded on the Turn
+Seat 6: caddymansts (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #159063582384:  Hold'em Limit ($3/$6 USD) - 2016/09/25 6:23:00 ET
+Table 'Luscinia' 6-max Seat #6 is the button
+Seat 1: LolDnkaments ($104.72 in chips)
+Seat 6: caddymansts ($9.93 in chips)
+caddymansts: posts small blind $1
+LolDnkaments: posts big blind $3
+*** HOLE CARDS ***
+caddymansts: raises $3 to $6
+LolDnkaments: calls $3
+*** FLOP *** [2c 9h 8d]
+LolDnkaments: bets $3
+caddymansts: raises $0.93 to $3.93 and is all-in
+GoliafUa joins the table at seat #2
+LolDnkaments: calls $0.93
+*** TURN *** [2c 9h 8d] [3c]
+*** RIVER *** [2c 9h 8d 3c] [5h]
+*** SHOW DOWN ***
+LolDnkaments: shows [9c 4c] (a pair of Nines)
+caddymansts: shows [6h 4s] (a straight, Deuce to Six)
+caddymansts collected $19.46 from pot
+*** SUMMARY ***
+Total pot $19.86 | Rake $0.40
+Board [2c 9h 8d 3c 5h]
+Seat 1: LolDnkaments (big blind) showed [9c 4c] and lost with a pair of Nines
+Seat 6: caddymansts (button) (small blind) showed [6h 4s] and won ($19.46) with a straight, Deuce to Six
+
+
+PokerStars Hand #159063579588:  Hold'em Limit ($3/$6 USD) - 2016/09/25 6:22:54 ET
+Table 'Luscinia' 6-max Seat #1 is the button
+Seat 1: LolDnkaments ($105.72 in chips)
+Seat 6: caddymansts ($8.93 in chips)
+LolDnkaments: posts small blind $1
+caddymansts: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri leaves the table
+LolDnkaments: folds
+Uncalled bet ($2) returned to caddymansts
+caddymansts collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: LolDnkaments (button) (small blind) folded before Flop
+Seat 6: caddymansts (big blind) collected ($2)
+
+
+PokerStars Hand #159063601182:  Hold'em Limit ($3/$6 USD) - 2016/09/25 6:23:44 ET
+Table 'Luscinia' 6-max Seat #6 is the button
+Seat 1: LolDnkaments ($103.43 in chips)
+Seat 6: caddymansts ($10.46 in chips)
+caddymansts: posts small blind $1
+LolDnkaments: posts big blind $3
+*** HOLE CARDS ***
+caddymansts: raises $3 to $6
+LolDnkaments: calls $3
+*** FLOP *** [Jh 4c Qc]
+LolDnkaments: bets $3
+caddymansts: raises $1.46 to $4.46 and is all-in
+LolDnkaments: calls $1.46
+*** TURN *** [Jh 4c Qc] [8h]
+*** RIVER *** [Jh 4c Qc 8h] [3c]
+*** SHOW DOWN ***
+LolDnkaments: shows [3h Jc] (two pair, Jacks and Threes)
+caddymansts: shows [6h Qd] (a pair of Queens)
+LolDnkaments collected $20.50 from pot
+*** SUMMARY ***
+Total pot $20.92 | Rake $0.42
+Board [Jh 4c Qc 8h 3c]
+Seat 1: LolDnkaments (big blind) showed [3h Jc] and won ($20.50) with two pair, Jacks and Threes
+Seat 6: caddymansts (button) (small blind) showed [6h Qd] and lost with a pair of Queens
+
+

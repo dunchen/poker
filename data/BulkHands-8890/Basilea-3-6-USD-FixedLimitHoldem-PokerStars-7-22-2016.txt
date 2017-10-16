@@ -1,0 +1,47 @@
+PokerStars Hand #156299243274:  Hold'em Limit ($3/$6 USD) - 2016/07/22 11:45:51 ET
+Table 'Basilea' 6-max Seat #4 is the button
+Seat 3: MARIBORO8 ($10.64 in chips)
+Seat 4: AzureCaper ($112.57 in chips)
+AzureCaper: posts small blind $1
+ValeryRon: is sitting out
+MARIBORO8: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: folds
+Uncalled bet ($2) returned to MARIBORO8
+ValeryRon leaves the table
+MARIBORO8 collected $2 from pot
+MARIBORO8: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: MARIBORO8 (big blind) collected ($2)
+Seat 4: AzureCaper (button) (small blind) folded before Flop
+
+
+PokerStars Hand #156299246253:  Hold'em Limit ($3/$6 USD) - 2016/07/22 11:45:56 ET
+Table 'Basilea' 6-max Seat #3 is the button
+Seat 3: MARIBORO8 ($11.64 in chips)
+Seat 4: AzureCaper ($111.57 in chips)
+MARIBORO8: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+MARIBORO8: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [6h Qc 5s]
+AzureCaper: checks
+MARIBORO8: checks
+*** TURN *** [6h Qc 5s] [5h]
+AzureCaper: bets $6
+MARIBORO8: calls $5.64 and is all-in
+Uncalled bet ($0.36) returned to AzureCaper
+*** RIVER *** [6h Qc 5s 5h] [2s]
+*** SHOW DOWN ***
+AzureCaper: shows [4s 5d] (three of a kind, Fives)
+MARIBORO8: shows [2h Kd] (two pair, Fives and Deuces)
+AzureCaper collected $22.81 from pot
+*** SUMMARY ***
+Total pot $23.28 | Rake $0.47
+Board [6h Qc 5s 5h 2s]
+Seat 3: MARIBORO8 (button) (small blind) showed [2h Kd] and lost with two pair, Fives and Deuces
+Seat 4: AzureCaper (big blind) showed [4s 5d] and won ($22.81) with three of a kind, Fives
+
+

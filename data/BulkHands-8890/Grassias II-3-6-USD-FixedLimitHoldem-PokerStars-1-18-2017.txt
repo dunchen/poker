@@ -1,0 +1,55 @@
+PokerStars Hand #164773844945:  Hold'em Limit ($3/$6 USD) - 2017/01/18 9:26:32 ET
+Table 'Grassias II' 6-max Seat #4 is the button
+Seat 2: sim5sim5 ($72 in chips)
+Seat 4: Great_Kang ($143.50 in chips)
+Great_Kang: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+sim5sim5: calls $3
+*** FLOP *** [6s Kd 2h]
+sim5sim5: checks
+Great_Kang: bets $3
+sim5sim5: raises $3 to $6
+Great_Kang: folds
+Uncalled bet ($3) returned to sim5sim5
+sim5sim5 collected $17.64 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6s Kd 2h]
+Seat 2: sim5sim5 (big blind) collected ($17.64)
+Seat 4: Great_Kang (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #164773809041:  Hold'em Limit ($3/$6 USD) - 2017/01/18 9:25:40 ET
+Table 'Grassias II' 6-max Seat #2 is the button
+Seat 2: sim5sim5 ($72 in chips)
+Seat 4: Great_Kang ($120 in chips)
+sim5sim5: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+Great_Kang: calls $3
+*** FLOP *** [4c 6c 7d]
+Great_Kang: checks
+sim5sim5: bets $3
+Great_Kang: raises $3 to $6
+sim5sim5: calls $3
+*** TURN *** [4c 6c 7d] [3d]
+Great_Kang: bets $6
+sim5sim5: calls $6
+*** RIVER *** [4c 6c 7d 3d] [8s]
+Great_Kang: bets $6
+sim5sim5: calls $6
+*** SHOW DOWN ***
+Great_Kang: shows [8c 5s] (a straight, Four to Eight)
+sim5sim5: mucks hand
+Great_Kang collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4c 6c 7d 3d 8s]
+Seat 2: sim5sim5 (button) (small blind) mucked
+Seat 4: Great_Kang (big blind) showed [8c 5s] and won ($47.50) with a straight, Four to Eight
+
+

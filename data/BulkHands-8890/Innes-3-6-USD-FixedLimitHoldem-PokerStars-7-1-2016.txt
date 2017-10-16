@@ -1,0 +1,56 @@
+PokerStars Hand #155446939905:  Hold'em Limit ($3/$6 USD) - 2016/07/01 19:46:28 ET
+Table 'Innes' 10-max Seat #5 is the button
+Seat 5: simper11 ($239.08 in chips)
+Seat 6: rttattar ($9.85 in chips)
+simper11: posts small blind $1
+rttattar: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+rttattar: raises $3 to $9
+simper11: calls $3
+*** FLOP *** [Jh 3c 2c]
+rttattar: bets $0.85 and is all-in
+simper11: calls $0.85
+*** TURN *** [Jh 3c 2c] [8s]
+*** RIVER *** [Jh 3c 2c 8s] [Ts]
+*** SHOW DOWN ***
+rttattar: shows [Kh Kd] (a pair of Kings)
+simper11: shows [Qd 5c] (high card Queen)
+rttattar collected $19.31 from pot
+*** SUMMARY ***
+Total pot $19.70 | Rake $0.39
+Board [Jh 3c 2c 8s Ts]
+Seat 5: simper11 (button) (small blind) showed [Qd 5c] and lost with high card Queen
+Seat 6: rttattar (big blind) showed [Kh Kd] and won ($19.31) with a pair of Kings
+
+
+PokerStars Hand #155446929190:  Hold'em Limit ($3/$6 USD) - 2016/07/01 19:46:08 ET
+Table 'Innes' 10-max Seat #6 is the button
+Seat 5: simper11 ($215.58 in chips)
+Seat 6: rttattar ($33.85 in chips)
+rttattar: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+rttattar: raises $3 to $6
+simper11: raises $3 to $9
+rttattar: calls $3
+*** FLOP *** [5c Th 2c]
+simper11: bets $3
+rttattar: calls $3
+*** TURN *** [5c Th 2c] [8c]
+simper11: bets $6
+rttattar: calls $6
+*** RIVER *** [5c Th 2c 8c] [4s]
+simper11: bets $6
+rttattar: calls $6
+*** SHOW DOWN ***
+simper11: shows [6d 6h] (a pair of Sixes)
+rttattar: mucks hand
+simper11 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [5c Th 2c 8c 4s]
+Seat 5: simper11 (big blind) showed [6d 6h] and won ($47.50) with a pair of Sixes
+Seat 6: rttattar (button) (small blind) mucked
+
+

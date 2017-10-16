@@ -1,0 +1,110 @@
+PokerStars Hand #154165946371:  Hold'em Limit ($3/$6 USD) - 2016/06/01 20:48:18 ET
+Table 'Sarema' 6-max Seat #6 is the button
+Seat 2: sydd7 ($82.45 in chips)
+Seat 6: NAV_SERGG ($65.74 in chips)
+NAV_SERGG: posts small blind $1
+ToDaFelt: is sitting out
+sydd7: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec leaves the table
+NAV_SERGG: raises $3 to $6
+sydd7: calls $3
+*** FLOP *** [5h 8h 8c]
+ToDaFelt leaves the table
+sydd7: checks
+NAV_SERGG: bets $3
+sydd7: folds
+Uncalled bet ($3) returned to NAV_SERGG
+NAV_SERGG collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5h 8h 8c]
+Seat 2: sydd7 (big blind) folded on the Flop
+Seat 6: NAV_SERGG (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #154170871722:  Hold'em Limit ($3/$6 USD) - 2016/06/02 0:57:40 ET
+Table 'Sarema' 6-max Seat #3 is the button
+Seat 1: Agrotait ($84.11 in chips)
+Seat 3: dmonr ($56.75 in chips)
+dmonr: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+dmonr: calls $2
+Agrotait: checks
+*** FLOP *** [7h 5d 8c]
+Agrotait: bets $3
+dmonr: calls $3
+*** TURN *** [7h 5d 8c] [8d]
+Agrotait: bets $6
+dmonr: calls $6
+*** RIVER *** [7h 5d 8c 8d] [Kh]
+Agrotait: bets $6
+dmonr: folds
+Uncalled bet ($6) returned to Agrotait
+Agrotait collected $23.52 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [7h 5d 8c 8d Kh]
+Seat 1: Agrotait (big blind) collected ($23.52)
+Seat 3: dmonr (button) (small blind) folded on the River
+
+
+PokerStars Hand #154170877545:  Hold'em Limit ($3/$6 USD) - 2016/06/02 0:58:06 ET
+Table 'Sarema' 6-max Seat #1 is the button
+Seat 1: Agrotait ($95.63 in chips)
+Seat 3: dmonr ($44.75 in chips)
+Agrotait: posts small blind $1
+dmonr: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+dmonr: calls $3
+*** FLOP *** [Jd 5c 6c]
+dmonr: bets $3
+Agrotait: calls $3
+*** TURN *** [Jd 5c 6c] [Th]
+dmonr: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to dmonr
+dmonr collected $17.64 from pot
+dmonr: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Jd 5c 6c Th]
+Seat 1: Agrotait (button) (small blind) folded on the Turn
+Seat 3: dmonr (big blind) collected ($17.64)
+
+
+PokerStars Hand #154170885720:  Hold'em Limit ($3/$6 USD) - 2016/06/02 0:58:42 ET
+Table 'Sarema' 6-max Seat #3 is the button
+Seat 1: Agrotait ($86.63 in chips)
+Seat 3: dmonr ($53.39 in chips)
+dmonr: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+dmonr: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [Ts Qs Ac]
+Agrotait: checks
+dmonr: bets $3
+Agrotait: calls $3
+*** TURN *** [Ts Qs Ac] [Tc]
+Agrotait: checks
+dmonr: bets $6
+Agrotait: calls $6
+*** RIVER *** [Ts Qs Ac Tc] [Ah]
+Agrotait: checks
+dmonr: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+dmonr: shows [Ad Js] (a full house, Aces full of Tens)
+Agrotait: mucks hand
+dmonr collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ts Qs Ac Tc Ah]
+Seat 1: Agrotait (big blind) mucked
+Seat 3: dmonr (button) (small blind) showed [Ad Js] and won ($41.50) with a full house, Aces full of Tens
+
+

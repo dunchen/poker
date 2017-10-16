@@ -1,0 +1,35 @@
+PokerStars Hand #155159840376:  Hold'em Limit ($3/$6 USD) - 2016/06/24 19:41:09 ET
+Table 'Thetis' 6-max Seat #1 is the button
+Seat 1: Pete81 ($44.59 in chips)
+Seat 3: REZOLUTION84 ($60 in chips)
+Pete81: posts small blind $1
+REZOLUTION84: posts big blind $3
+*** HOLE CARDS ***
+Pete81: raises $3 to $6
+REZOLUTION84: calls $3
+*** FLOP *** [Tc 5s Ac]
+REZOLUTION84: checks
+Pete81: bets $3
+REZOLUTION84: raises $3 to $6
+Pete81: raises $3 to $9
+REZOLUTION84: raises $3 to $12
+Betting is capped
+Pete81: calls $3
+*** TURN *** [Tc 5s Ac] [8c]
+REZOLUTION84: bets $6
+Pete81: calls $6
+*** RIVER *** [Tc 5s Ac 8c] [5h]
+REZOLUTION84: bets $6
+Pete81: calls $6
+*** SHOW DOWN ***
+REZOLUTION84: shows [5c Td] (a full house, Fives full of Tens)
+Pete81: mucks hand
+Humtum81 joins the table at seat #4
+REZOLUTION84 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Tc 5s Ac 8c 5h]
+Seat 1: Pete81 (button) (small blind) mucked
+Seat 3: REZOLUTION84 (big blind) showed [5c Td] and won ($59.50) with a full house, Fives full of Tens
+
+

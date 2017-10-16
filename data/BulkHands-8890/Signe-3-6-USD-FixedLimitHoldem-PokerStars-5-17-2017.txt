@@ -1,0 +1,30 @@
+PokerStars Hand #170534907991:  Hold'em Limit ($3/$6 USD) - 2017/05/17 8:34:07 ET
+Table 'Signe' 6-max Seat #5 is the button
+Seat 4: Anchig ($81.16 in chips)
+Seat 5: JohnnyDepp ($141.17 in chips)
+JohnnyDepp: posts small blind $1
+Anchig: posts big blind $3
+*** HOLE CARDS ***
+JohnnyDepp: raises $3 to $6
+Anchig: calls $3
+*** FLOP *** [Ah 5d 7c]
+Anchig: checks
+JohnnyDepp: bets $3
+Anchig: calls $3
+*** TURN *** [Ah 5d 7c] [4c]
+Anchig: checks
+JohnnyDepp: checks
+*** RIVER *** [Ah 5d 7c 4c] [3d]
+Anchig: checks
+JohnnyDepp: checks
+*** SHOW DOWN ***
+Anchig: shows [Kd 4h] (a pair of Fours)
+JohnnyDepp: mucks hand
+Anchig collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ah 5d 7c 4c 3d]
+Seat 4: Anchig (big blind) showed [Kd 4h] and won ($17.64) with a pair of Fours
+Seat 5: JohnnyDepp (button) (small blind) mucked
+
+

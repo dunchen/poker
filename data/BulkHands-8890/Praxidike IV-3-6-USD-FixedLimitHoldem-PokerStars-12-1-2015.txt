@@ -1,0 +1,62 @@
+PokerStars Hand #144680980694:  Hold'em Limit ($3/$6 USD) - 2015/12/01 16:51:35 ET
+Table 'Praxidike IV' 6-max Seat #4 is the button
+Seat 1: Zubasa07 ($510.64 in chips)
+Seat 4: Philly0813 ($109 in chips)
+Philly0813: posts small blind $1
+Zubasa07: posts big blind $3
+*** HOLE CARDS ***
+Philly0813: raises $3 to $6
+Zubasa07: raises $3 to $9
+Philly0813: raises $3 to $12
+Betting is capped
+Zubasa07: calls $3
+*** FLOP *** [3s 5s 6s]
+Zubasa07: checks
+Philly0813: bets $3
+Zubasa07: calls $3
+*** TURN *** [3s 5s 6s] [Ah]
+Zubasa07: checks
+Philly0813: checks
+*** RIVER *** [3s 5s 6s Ah] [7d]
+Zubasa07: checks
+Philly0813: bets $6
+Zubasa07: folds
+Uncalled bet ($6) returned to Philly0813
+Philly0813 collected $29.50 from pot
+Philly0813: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3s 5s 6s Ah 7d]
+Seat 1: Zubasa07 (big blind) folded on the River
+Seat 4: Philly0813 (button) (small blind) collected ($29.50)
+
+
+PokerStars Hand #144681045238:  Hold'em Limit ($3/$6 USD) - 2015/12/01 16:52:42 ET
+Table 'Praxidike IV' 6-max Seat #1 is the button
+Seat 1: Zubasa07 ($495.64 in chips)
+Seat 4: Philly0813 ($123.50 in chips)
+Zubasa07: posts small blind $1
+Philly0813: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+Philly0813: calls $3
+*** FLOP *** [4h Jd 6h]
+Philly0813: bets $3
+Zubasa07: calls $3
+*** TURN *** [4h Jd 6h] [2s]
+Philly0813: bets $6
+Zubasa07: calls $6
+*** RIVER *** [4h Jd 6h 2s] [Jc]
+Philly0813: bets $6
+Zubasa07: calls $6
+*** SHOW DOWN ***
+Philly0813: shows [4d 5c] (two pair, Jacks and Fours)
+Zubasa07: mucks hand
+Philly0813 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [4h Jd 6h 2s Jc]
+Seat 1: Zubasa07 (button) (small blind) mucked
+Seat 4: Philly0813 (big blind) showed [4d 5c] and won ($41.50) with two pair, Jacks and Fours
+
+

@@ -1,0 +1,63 @@
+PokerStars Hand #162894292196:  Hold'em Limit ($3/$6 USD) - 2016/12/13 15:13:06 ET
+Table 'Ostara' 6-max Seat #1 is the button
+Seat 1: Zubasa07 ($496.76 in chips)
+Seat 3: humlefar ($52.64 in chips)
+Zubasa07: posts small blind $1
+humlefar: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+humlefar: calls $3
+*** FLOP *** [2c 3d 7h]
+humlefar: checks
+Zubasa07: bets $3
+humlefar: calls $3
+*** TURN *** [2c 3d 7h] [Qc]
+humlefar: checks
+Zubasa07: checks
+*** RIVER *** [2c 3d 7h Qc] [7d]
+humlefar: bets $6
+Zubasa07: calls $6
+*** SHOW DOWN ***
+humlefar: shows [4d 5d] (a pair of Sevens)
+Zubasa07: shows [Ts Ah] (a pair of Sevens - Ace kicker)
+Zubasa07 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2c 3d 7h Qc 7d]
+Seat 1: Zubasa07 (button) (small blind) showed [Ts Ah] and won ($29.50) with a pair of Sevens
+Seat 3: humlefar (big blind) showed [4d 5d] and lost with a pair of Sevens
+
+
+PokerStars Hand #162900641065:  Hold'em Limit ($3/$6 USD) - 2016/12/13 16:57:30 ET
+Table 'Ostara' 6-max Seat #3 is the button
+Seat 2: feilinho ($206.98 in chips)
+Seat 3: fishbla ($160.77 in chips)
+fishbla: posts small blind $1
+Spriysugen: is sitting out
+feilinho: posts big blind $3
+*** HOLE CARDS ***
+fishbla: raises $3 to $6
+Spriysugen leaves the table
+feilinho: calls $3
+*** FLOP *** [4h Qh Td]
+feilinho: checks
+fishbla: bets $3
+parnishka11 leaves the table
+feilinho: calls $3
+*** TURN *** [4h Qh Td] [7s]
+feilinho: checks
+fishbla: checks
+*** RIVER *** [4h Qh Td 7s] [Jh]
+feilinho: checks
+fishbla: checks
+*** SHOW DOWN ***
+feilinho: shows [3h 4d] (a pair of Fours)
+fishbla: mucks hand
+feilinho collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4h Qh Td 7s Jh]
+Seat 2: feilinho (big blind) showed [3h 4d] and won ($17.64) with a pair of Fours
+Seat 3: fishbla (button) (small blind) mucked
+
+

@@ -1,0 +1,55 @@
+PokerStars Hand #153811929621:  Hold'em Limit ($3/$6 USD) - 2016/05/25 5:20:09 ET
+Table 'Periphas' 6-max Seat #2 is the button
+Seat 2: liza3008 ($120 in chips)
+Seat 4: Agrotait ($72 in chips)
+liza3008: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+liza3008: raises $3 to $6
+belik555 joins the table at seat #3
+Agrotait: calls $3
+*** FLOP *** [Jc 9h 9s]
+Agrotait: checks
+liza3008: bets $3
+Agrotait: folds
+Uncalled bet ($3) returned to liza3008
+liza3008 collected $11.76 from pot
+liza3008: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jc 9h 9s]
+Seat 2: liza3008 (button) (small blind) collected ($11.76)
+Seat 4: Agrotait (big blind) folded on the Flop
+
+
+PokerStars Hand #153811938440:  Hold'em Limit ($3/$6 USD) - 2016/05/25 5:20:33 ET
+Table 'Periphas' 6-max Seat #4 is the button
+Seat 3: belik555 ($72 in chips)
+Seat 4: Agrotait ($66 in chips)
+Agrotait: posts small blind $1
+belik555: posts big blind $3
+*** HOLE CARDS ***
+liza3008 leaves the table
+Agrotait: raises $3 to $6
+belik555: calls $3
+*** FLOP *** [4d 2c Jh]
+belik555: checks
+Agrotait: bets $3
+belik555: calls $3
+*** TURN *** [4d 2c Jh] [3d]
+belik555: checks
+Agrotait: checks
+*** RIVER *** [4d 2c Jh 3d] [Jd]
+belik555: checks
+Agrotait: checks
+*** SHOW DOWN ***
+belik555: shows [Tc 5d] (a pair of Jacks)
+Agrotait: shows [6c Ks] (a pair of Jacks - King kicker)
+Agrotait collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4d 2c Jh 3d Jd]
+Seat 3: belik555 (big blind) showed [Tc 5d] and lost with a pair of Jacks
+Seat 4: Agrotait (button) (small blind) showed [6c Ks] and won ($17.64) with a pair of Jacks
+
+

@@ -1,0 +1,31 @@
+PokerStars Hand #145860748388:  Hold'em Limit ($3/$6 USD) - 2015/12/24 15:08:12 ET
+Table 'Lexell' 6-max Seat #3 is the button
+Seat 3: garry67677 ($39 in chips)
+Seat 4: Karpik09 ($110.50 in chips)
+garry67677: posts small blind $1
+Karpik09: posts big blind $3
+*** HOLE CARDS ***
+garry67677: raises $3 to $6
+Karpik09: calls $3
+*** FLOP *** [7d Jd 2d]
+Karpik09: checks
+garry67677: bets $3
+Karpik09: calls $3
+*** TURN *** [7d Jd 2d] [2s]
+Karpik09: checks
+garry67677: bets $6
+Karpik09: calls $6
+*** RIVER *** [7d Jd 2d 2s] [9c]
+Karpik09: checks
+garry67677: checks
+*** SHOW DOWN ***
+Karpik09: shows [Ad 3c] (a pair of Deuces)
+garry67677: shows [Kc 7s] (two pair, Sevens and Deuces)
+garry67677 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7d Jd 2d 2s 9c]
+Seat 3: garry67677 (button) (small blind) showed [Kc 7s] and won ($29.50) with two pair, Sevens and Deuces
+Seat 4: Karpik09 (big blind) showed [Ad 3c] and lost with a pair of Deuces
+
+

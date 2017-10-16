@@ -1,0 +1,29 @@
+PokerStars Hand #147053370178:  Hold'em Limit ($3/$6 USD) - 2016/01/14 19:27:36 ET
+Table 'Matar' 2-max Seat #2 is the button
+Seat 1: elifnur2008 ($143.41 in chips)
+Seat 2: torvor115 ($17.82 in chips)
+torvor115: posts small blind $1
+elifnur2008: posts big blind $3
+*** HOLE CARDS ***
+torvor115: raises $3 to $6
+elifnur2008: raises $3 to $9
+torvor115: calls $3
+*** FLOP *** [Ah 7s 5d]
+elifnur2008: bets $3
+torvor115: raises $3 to $6
+elifnur2008: raises $3 to $9
+torvor115: calls $2.82 and is all-in
+Uncalled bet ($0.18) returned to elifnur2008
+*** TURN *** [Ah 7s 5d] [8c]
+*** RIVER *** [Ah 7s 5d 8c] [4c]
+*** SHOW DOWN ***
+elifnur2008: shows [5s 5c] (three of a kind, Fives)
+torvor115: shows [2s 7h] (a pair of Sevens)
+elifnur2008 collected $35.14 from pot
+*** SUMMARY ***
+Total pot $35.64 | Rake $0.50
+Board [Ah 7s 5d 8c 4c]
+Seat 1: elifnur2008 (big blind) showed [5s 5c] and won ($35.14) with three of a kind, Fives
+Seat 2: torvor115 (button) (small blind) showed [2s 7h] and lost with a pair of Sevens
+
+

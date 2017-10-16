@@ -1,0 +1,32 @@
+PokerStars Hand #174895898652:  Hold'em Limit ($3/$6 USD) - 2017/08/28 8:59:13 ET
+Table 'Moultona' 6-max Seat #4 is the button
+Seat 3: YamilSochi ($29 in chips)
+Seat 4: Anchig ($121 in chips)
+Anchig: posts small blind $1
+YamilSochi: posts big blind $3
+*** HOLE CARDS ***
+Anchig: raises $3 to $6
+YamilSochi: raises $3 to $9
+Anchig: calls $3
+*** FLOP *** [9s 8d Ad]
+YamilSochi: bets $3
+Anchig: calls $3
+*** TURN *** [9s 8d Ad] [3d]
+YamilSochi: bets $6
+Anchig: calls $6
+*** RIVER *** [9s 8d Ad 3d] [Qs]
+YamilSochi: bets $6
+Anchig: raises $6 to $12
+YamilSochi: calls $5 and is all-in
+Uncalled bet ($1) returned to Anchig
+*** SHOW DOWN ***
+Anchig: shows [7d Qd] (a flush, Ace high)
+YamilSochi: shows [As Ts] (a pair of Aces)
+Anchig collected $57.50 from pot
+*** SUMMARY ***
+Total pot $58 | Rake $0.50
+Board [9s 8d Ad 3d Qs]
+Seat 3: YamilSochi (big blind) showed [As Ts] and lost with a pair of Aces
+Seat 4: Anchig (button) (small blind) showed [7d Qd] and won ($57.50) with a flush, Ace high
+
+

@@ -1,0 +1,31 @@
+PokerStars Hand #171505658218:  Hold'em Limit ($3/$6 USD) - 2017/06/08 10:03:54 ET
+Table 'Nehalennia II' 6-max Seat #2 is the button
+Seat 1: nedo1414 ($149.15 in chips)
+Seat 2: Great_Kang ($126.76 in chips)
+Great_Kang: posts small blind $1
+nedo1414: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+nedo1414: calls $3
+*** FLOP *** [2s Tc 2h]
+nedo1414: checks
+Great_Kang: bets $3
+nedo1414: calls $3
+*** TURN *** [2s Tc 2h] [9s]
+nedo1414: checks
+Great_Kang: checks
+*** RIVER *** [2s Tc 2h 9s] [Qd]
+nedo1414: checks
+Great_Kang: bets $6
+nedo1414: calls $6
+*** SHOW DOWN ***
+Great_Kang: shows [6h 4d] (a pair of Deuces)
+nedo1414: shows [4s Ac] (a pair of Deuces - Ace kicker)
+nedo1414 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2s Tc 2h 9s Qd]
+Seat 1: nedo1414 (big blind) showed [4s Ac] and won ($29.50) with a pair of Deuces
+Seat 2: Great_Kang (button) (small blind) showed [6h 4d] and lost with a pair of Deuces
+
+

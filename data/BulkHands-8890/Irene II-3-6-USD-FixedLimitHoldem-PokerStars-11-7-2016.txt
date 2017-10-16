@@ -1,0 +1,32 @@
+PokerStars Hand #161040428579:  Hold'em Limit ($3/$6 USD) - 2016/11/07 9:47:40 ET
+Table 'Irene II' 6-max Seat #3 is the button
+Seat 3: KingYang2008 ($120 in chips)
+Seat 4: assitoni ($72 in chips)
+KingYang2008: posts small blind $1
+assitoni: posts big blind $3
+*** HOLE CARDS ***
+KingYang2008: raises $3 to $6
+assitoni: raises $3 to $9
+Psynto joins the table at seat #5
+KingYang2008: calls $3
+*** FLOP *** [9d 2c Ah]
+assitoni: bets $3
+KingYang2008: calls $3
+*** TURN *** [9d 2c Ah] [7d]
+assitoni: checks
+KingYang2008: bets $6
+assitoni: calls $6
+*** RIVER *** [9d 2c Ah 7d] [Kd]
+assitoni: checks
+KingYang2008: checks
+*** SHOW DOWN ***
+assitoni: shows [6c 6s] (a pair of Sixes)
+KingYang2008: mucks hand
+assitoni collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [9d 2c Ah 7d Kd]
+Seat 3: KingYang2008 (button) (small blind) mucked
+Seat 4: assitoni (big blind) showed [6c 6s] and won ($35.50) with a pair of Sixes
+
+

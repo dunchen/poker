@@ -1,0 +1,47 @@
+PokerStars Hand #150710160277:  Hold'em Limit ($3/$6 USD) - 2016/03/21 12:57:50 ET
+Table 'Phocaea III' 10-max Seat #9 is the button
+Seat 9: kairobs ($85.76 in chips)
+Seat 10: MTails ($108 in chips)
+kairobs: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+kairobs: folds
+Uncalled bet ($2) returned to MTails
+MTails collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 9: kairobs (button) (small blind) folded before Flop
+Seat 10: MTails (big blind) collected ($2)
+
+
+PokerStars Hand #150710142912:  Hold'em Limit ($3/$6 USD) - 2016/03/21 12:57:24 ET
+Table 'Phocaea III' 10-max Seat #10 is the button
+Seat 9: kairobs ($74.24 in chips)
+Seat 10: MTails ($120 in chips)
+MTails: posts small blind $1
+kairobs: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+kairobs: calls $3
+*** FLOP *** [Jc 4c Qh]
+kairobs: bets $3
+MTails: raises $3 to $6
+kairobs: calls $3
+*** TURN *** [Jc 4c Qh] [6c]
+kairobs: checks
+RockKillerTY joins the table at seat #1
+MTails: checks
+*** RIVER *** [Jc 4c Qh 6c] [Ks]
+kairobs: checks
+MTails: checks
+*** SHOW DOWN ***
+kairobs: shows [6h Ad] (a pair of Sixes)
+MTails: mucks hand
+kairobs collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Jc 4c Qh 6c Ks]
+Seat 9: kairobs (big blind) showed [6h Ad] and won ($23.52) with a pair of Sixes
+Seat 10: MTails (button) (small blind) mucked
+
+

@@ -1,0 +1,81 @@
+PokerStars Hand #175044012101:  Hold'em Limit ($3/$6 USD) - 2017/08/31 19:13:14 ET
+Table 'Gotha' 6-max Seat #6 is the button
+Seat 1: TheU10 ($120 in chips)
+Seat 6: HH-Mutson ($36.76 in chips)
+HH-Mutson: posts small blind $1
+TheU10: posts big blind $3
+*** HOLE CARDS ***
+HH-Mutson: calls $2
+TheU10: checks
+*** FLOP *** [As 9d Jc]
+TheU10: checks
+HH-Mutson: bets $3
+TheU10: calls $3
+*** TURN *** [As 9d Jc] [Jd]
+TheU10: checks
+HH-Mutson: checks
+*** RIVER *** [As 9d Jc Jd] [8h]
+TheU10: bets $6
+HH-Mutson: folds
+Uncalled bet ($6) returned to TheU10
+TheU10 collected $11.76 from pot
+TheU10: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [As 9d Jc Jd 8h]
+Seat 1: TheU10 (big blind) collected ($11.76)
+Seat 6: HH-Mutson (button) (small blind) folded on the River
+
+
+PokerStars Hand #175044029354:  Hold'em Limit ($3/$6 USD) - 2017/08/31 19:13:45 ET
+Table 'Gotha' 6-max Seat #1 is the button
+Seat 1: TheU10 ($125.76 in chips)
+Seat 6: HH-Mutson ($30.76 in chips)
+TheU10: posts small blind $1
+HH-Mutson: posts big blind $3
+*** HOLE CARDS ***
+TheU10: raises $3 to $6
+angelomain joins the table at seat #2
+HH-Mutson: folds
+Uncalled bet ($3) returned to TheU10
+TheU10 collected $6 from pot
+TheU10: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: TheU10 (button) (small blind) collected ($6)
+Seat 6: HH-Mutson (big blind) folded before Flop
+
+
+PokerStars Hand #175044033624:  Hold'em Limit ($3/$6 USD) - 2017/08/31 19:13:53 ET
+Table 'Gotha' 6-max Seat #6 is the button
+Seat 1: TheU10 ($128.76 in chips)
+Seat 6: HH-Mutson ($27.76 in chips)
+HH-Mutson: posts small blind $1
+TheU10: posts big blind $3
+*** HOLE CARDS ***
+HH-Mutson: raises $3 to $6
+TheU10: calls $3
+*** FLOP *** [Tc 7c Qs]
+TheU10: checks
+HH-Mutson: bets $3
+ToDaFelt joins the table at seat #3
+TheU10: raises $3 to $6
+HH-Mutson: calls $3
+*** TURN *** [Tc 7c Qs] [5d]
+TheU10: bets $6
+HH-Mutson: calls $6
+*** RIVER *** [Tc 7c Qs 5d] [9c]
+TheU10: bets $6
+HH-Mutson: raises $3.76 to $9.76 and is all-in
+TheU10: calls $3.76
+*** SHOW DOWN ***
+HH-Mutson: shows [Qc 3c] (a flush, Queen high)
+TheU10: shows [Ts 9h] (two pair, Tens and Nines)
+HH-Mutson collected $55.02 from pot
+*** SUMMARY ***
+Total pot $55.52 | Rake $0.50
+Board [Tc 7c Qs 5d 9c]
+Seat 1: TheU10 (big blind) showed [Ts 9h] and lost with two pair, Tens and Nines
+Seat 6: HH-Mutson (button) (small blind) showed [Qc 3c] and won ($55.02) with a flush, Queen high
+
+

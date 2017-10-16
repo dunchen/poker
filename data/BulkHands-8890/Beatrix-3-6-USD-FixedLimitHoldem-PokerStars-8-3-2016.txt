@@ -1,0 +1,33 @@
+PokerStars Hand #156818295506:  Hold'em Limit ($3/$6 USD) - 2016/08/03 13:46:52 ET
+Table 'Beatrix' 6-max Seat #3 is the button
+Seat 1: BuzovaPro ($72 in chips)
+Seat 3: Ag3r0n ($110.65 in chips)
+Ag3r0n: posts small blind $1
+Wurst2000: is sitting out
+BuzovaPro: posts big blind $3
+*** HOLE CARDS ***
+Ag3r0n: raises $3 to $6
+BuzovaPro: calls $3
+*** FLOP *** [5s 2s Qc]
+Wurst2000 leaves the table
+BuzovaPro: checks
+Ag3r0n: bets $3
+BuzovaPro: raises $3 to $6
+Ag3r0n: calls $3
+*** TURN *** [5s 2s Qc] [8d]
+BuzovaPro: bets $6
+Ag3r0n: calls $6
+*** RIVER *** [5s 2s Qc 8d] [2h]
+BuzovaPro: bets $6
+Ag3r0n: calls $6
+*** SHOW DOWN ***
+BuzovaPro: shows [6h 6c] (two pair, Sixes and Deuces)
+Ag3r0n: mucks hand
+BuzovaPro collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [5s 2s Qc 8d 2h]
+Seat 1: BuzovaPro (big blind) showed [6h 6c] and won ($47.50) with two pair, Sixes and Deuces
+Seat 3: Ag3r0n (button) (small blind) mucked
+
+

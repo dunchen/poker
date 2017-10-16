@@ -1,0 +1,60 @@
+PokerStars Hand #159887713533:  Hold'em Limit ($3/$6 USD) - 2016/10/13 16:01:56 ET
+Table 'Eri' 6-max Seat #3 is the button
+Seat 3: koalis3 ($34.08 in chips)
+Seat 6: MoNaLiZa13 ($71.70 in chips)
+koalis3: posts small blind $1
+MoNaLiZa13: posts big blind $3
+*** HOLE CARDS ***
+koalis3: raises $3 to $6
+MoNaLiZa13: calls $3
+*** FLOP *** [2d 4s 3d]
+MoNaLiZa13: checks
+koalis3: bets $3
+MoNaLiZa13: calls $3
+*** TURN *** [2d 4s 3d] [Qc]
+MoNaLiZa13: checks
+koalis3: bets $6
+MoNaLiZa13: calls $6
+*** RIVER *** [2d 4s 3d Qc] [Ah]
+MoNaLiZa13: checks
+koalis3: bets $6
+MoNaLiZa13: folds
+Uncalled bet ($6) returned to koalis3
+koalis3 collected $29.50 from pot
+koalis3: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2d 4s 3d Qc Ah]
+Seat 3: koalis3 (button) (small blind) collected ($29.50)
+Seat 6: MoNaLiZa13 (big blind) folded on the River
+
+
+PokerStars Hand #159887728660:  Hold'em Limit ($3/$6 USD) - 2016/10/13 16:02:13 ET
+Table 'Eri' 6-max Seat #6 is the button
+Seat 3: koalis3 ($48.58 in chips)
+Seat 6: MoNaLiZa13 ($56.70 in chips)
+MoNaLiZa13: posts small blind $1
+koalis3: posts big blind $3
+*** HOLE CARDS ***
+MoNaLiZa13: calls $2
+koalis3: raises $3 to $6
+MoNaLiZa13: calls $3
+*** FLOP *** [6s 8h 2h]
+koalis3: bets $3
+MoNaLiZa13: calls $3
+*** TURN *** [6s 8h 2h] [Ks]
+koalis3: bets $6
+MoNaLiZa13: calls $6
+*** RIVER *** [6s 8h 2h Ks] [Kh]
+koalis3: bets $6
+MoNaLiZa13: folds
+Uncalled bet ($6) returned to koalis3
+koalis3 collected $29.50 from pot
+koalis3: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6s 8h 2h Ks Kh]
+Seat 3: koalis3 (big blind) collected ($29.50)
+Seat 6: MoNaLiZa13 (button) (small blind) folded on the River
+
+

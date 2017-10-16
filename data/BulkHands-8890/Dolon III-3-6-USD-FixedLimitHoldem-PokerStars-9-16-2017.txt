@@ -1,0 +1,32 @@
+PokerStars Hand #175732843731:  Hold'em Limit ($3/$6 USD) - 2017/09/16 16:38:49 ET
+Table 'Dolon III' 10-max Seat #7 is the button
+Seat 7: bulgarianDOG ($31 in chips)
+Seat 8: Ag3r0n ($72 in chips)
+bulgarianDOG: posts small blind $1
+Ag3r0n: posts big blind $3
+*** HOLE CARDS ***
+bulgarianDOG: raises $3 to $6
+Ag3r0n: calls $3
+*** FLOP *** [5c 2d Qc]
+Ag3r0n: checks
+bulgarianDOG: bets $3
+Ag3r0n: calls $3
+*** TURN *** [5c 2d Qc] [7h]
+Ag3r0n: checks
+bulgarianDOG: bets $6
+Ag3r0n: calls $6
+*** RIVER *** [5c 2d Qc 7h] [3s]
+Ag3r0n: checks
+bulgarianDOG: bets $6
+Ag3r0n: calls $6
+*** SHOW DOWN ***
+bulgarianDOG: shows [Qh Ad] (a pair of Queens)
+Ag3r0n: mucks hand
+bulgarianDOG collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [5c 2d Qc 7h 3s]
+Seat 7: bulgarianDOG (button) (small blind) showed [Qh Ad] and won ($41.50) with a pair of Queens
+Seat 8: Ag3r0n (big blind) mucked
+
+

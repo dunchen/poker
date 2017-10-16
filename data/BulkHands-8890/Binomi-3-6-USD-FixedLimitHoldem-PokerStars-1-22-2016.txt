@@ -1,0 +1,28 @@
+PokerStars Hand #147489897590:  Hold'em Limit ($3/$6 USD) - 2016/01/22 13:38:13 ET
+Table 'Binomi' 2-max Seat #2 is the button
+Seat 1: mogekon ($11 in chips)
+Seat 2: opalum3 ($105.28 in chips)
+opalum3: posts small blind $1
+mogekon: posts big blind $3
+*** HOLE CARDS ***
+opalum3: calls $2
+mogekon: checks
+*** FLOP *** [9c Qd 3c]
+mogekon: bets $3
+opalum3: raises $3 to $6
+mogekon: calls $3
+*** TURN *** [9c Qd 3c] [Kh]
+mogekon: bets $2 and is all-in
+opalum3: calls $2
+*** RIVER *** [9c Qd 3c Kh] [Jh]
+*** SHOW DOWN ***
+mogekon: shows [5s 6c] (high card King)
+opalum3: shows [6s 3s] (a pair of Threes)
+opalum3 collected $21.56 from pot
+*** SUMMARY ***
+Total pot $22 | Rake $0.44
+Board [9c Qd 3c Kh Jh]
+Seat 1: mogekon (big blind) showed [5s 6c] and lost with high card King
+Seat 2: opalum3 (button) (small blind) showed [6s 3s] and won ($21.56) with a pair of Threes
+
+

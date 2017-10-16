@@ -1,0 +1,35 @@
+PokerStars Hand #161092990440:  Hold'em Limit ($3/$6 USD) - 2016/11/08 10:49:40 ET
+Table 'Munoz' 6-max Seat #3 is the button
+Seat 3: robertass84 ($120 in chips)
+Seat 4: B_loJkl ($150 in chips)
+robertass84: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+robertass84: raises $3 to $6
+B_loJkl: raises $3 to $9
+robertass84: raises $3 to $12
+Betting is capped
+B_loJkl: calls $3
+*** FLOP *** [9d 5s Qd]
+B_loJkl: checks
+robertass84: bets $3
+B_loJkl: calls $3
+*** TURN *** [9d 5s Qd] [7c]
+B_loJkl: checks
+robertass84: bets $6
+B_loJkl: calls $6
+*** RIVER *** [9d 5s Qd 7c] [Jc]
+B_loJkl: checks
+robertass84: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+robertass84: shows [Qc Jh] (two pair, Queens and Jacks)
+B_loJkl: mucks hand
+robertass84 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [9d 5s Qd 7c Jc]
+Seat 3: robertass84 (button) (small blind) showed [Qc Jh] and won ($53.50) with two pair, Queens and Jacks
+Seat 4: B_loJkl (big blind) mucked
+
+

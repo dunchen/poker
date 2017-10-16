@@ -1,0 +1,61 @@
+PokerStars Hand #146669007168:  Hold'em Limit ($3/$6 USD) - 2016/01/08 5:17:41 ET
+Table 'Bethgea' 2-max Seat #2 is the button
+Seat 1: TbIP-TbIP 88 ($72 in chips)
+Seat 2: RAFAELO_440 ($120 in chips)
+RAFAELO_440: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+RAFAELO_440: raises $3 to $6
+TbIP-TbIP 88: calls $3
+*** FLOP *** [5s 7c Ah]
+TbIP-TbIP 88: checks
+RAFAELO_440: bets $3
+TbIP-TbIP 88: calls $3
+*** TURN *** [5s 7c Ah] [3c]
+TbIP-TbIP 88: checks
+RAFAELO_440: checks
+*** RIVER *** [5s 7c Ah 3c] [2h]
+TbIP-TbIP 88: bets $6
+RAFAELO_440: folds
+Uncalled bet ($6) returned to TbIP-TbIP 88
+TbIP-TbIP 88 collected $17.64 from pot
+TbIP-TbIP 88: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5s 7c Ah 3c 2h]
+Seat 1: TbIP-TbIP 88 (big blind) collected ($17.64)
+Seat 2: RAFAELO_440 (button) (small blind) folded on the River
+
+
+PokerStars Hand #146669038089:  Hold'em Limit ($3/$6 USD) - 2016/01/08 5:18:42 ET
+Table 'Bethgea' 2-max Seat #1 is the button
+Seat 1: TbIP-TbIP 88 ($80.64 in chips)
+Seat 2: RAFAELO_440 ($122.60 in chips)
+TbIP-TbIP 88: posts small blind $1
+RAFAELO_440: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88: raises $3 to $6
+RAFAELO_440: calls $3
+*** FLOP *** [Kc Qs 3h]
+RAFAELO_440: checks
+TbIP-TbIP 88: bets $3
+RAFAELO_440: calls $3
+*** TURN *** [Kc Qs 3h] [5d]
+RAFAELO_440: checks
+TbIP-TbIP 88: bets $6
+RAFAELO_440: calls $6
+*** RIVER *** [Kc Qs 3h 5d] [4s]
+RAFAELO_440: checks
+TbIP-TbIP 88: bets $6
+RAFAELO_440: calls $6
+*** SHOW DOWN ***
+TbIP-TbIP 88: shows [Qc 7c] (a pair of Queens)
+RAFAELO_440: mucks hand
+TbIP-TbIP 88 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Kc Qs 3h 5d 4s]
+Seat 1: TbIP-TbIP 88 (button) (small blind) showed [Qc 7c] and won ($41.50) with a pair of Queens
+Seat 2: RAFAELO_440 (big blind) mucked
+
+

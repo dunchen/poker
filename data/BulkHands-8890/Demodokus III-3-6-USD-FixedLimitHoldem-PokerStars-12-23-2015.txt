@@ -1,0 +1,116 @@
+PokerStars Hand #145791613786:  Hold'em Limit ($3/$6 USD) - 2015/12/23 9:32:42 ET
+Table 'Demodokus III' 2-max Seat #2 is the button
+Seat 1: carsten855 ($41.27 in chips)
+Seat 2: elifnur2008 ($120 in chips)
+elifnur2008: posts small blind $1
+carsten855: posts big blind $3
+*** HOLE CARDS ***
+elifnur2008: raises $3 to $6
+carsten855: calls $3
+*** FLOP *** [5h 6s 4c]
+carsten855: checks
+elifnur2008: bets $3
+carsten855: calls $3
+*** TURN *** [5h 6s 4c] [8d]
+carsten855: checks
+elifnur2008: bets $6
+carsten855: raises $6 to $12
+elifnur2008: calls $6
+*** RIVER *** [5h 6s 4c 8d] [Qs]
+carsten855: bets $6
+elifnur2008: calls $6
+*** SHOW DOWN ***
+carsten855: shows [Js 5s] (a pair of Fives)
+elifnur2008: shows [Th 8s] (a pair of Eights)
+elifnur2008 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [5h 6s 4c 8d Qs]
+Seat 1: carsten855 (big blind) showed [Js 5s] and lost with a pair of Fives
+Seat 2: elifnur2008 (button) (small blind) showed [Th 8s] and won ($53.50) with a pair of Eights
+
+
+PokerStars Hand #145791662779:  Hold'em Limit ($3/$6 USD) - 2015/12/23 9:33:52 ET
+Table 'Demodokus III' 2-max Seat #2 is the button
+Seat 1: carsten855 ($11.04 in chips)
+Seat 2: elifnur2008 ($148.73 in chips)
+elifnur2008: posts small blind $1
+carsten855: posts big blind $3
+*** HOLE CARDS ***
+elifnur2008: raises $3 to $6
+carsten855: raises $3 to $9
+elifnur2008: raises $3 to $12
+Betting is capped
+carsten855: calls $2.04 and is all-in
+Uncalled bet ($0.96) returned to elifnur2008
+*** FLOP *** [Ts Js 2c]
+*** TURN *** [Ts Js 2c] [Jh]
+*** RIVER *** [Ts Js 2c Jh] [3s]
+*** SHOW DOWN ***
+carsten855: shows [Ad 6h] (a pair of Jacks)
+elifnur2008: shows [Jc 8s] (three of a kind, Jacks)
+elifnur2008 collected $21.64 from pot
+*** SUMMARY ***
+Total pot $22.08 | Rake $0.44
+Board [Ts Js 2c Jh 3s]
+Seat 1: carsten855 (big blind) showed [Ad 6h] and lost with a pair of Jacks
+Seat 2: elifnur2008 (button) (small blind) showed [Jc 8s] and won ($21.64) with three of a kind, Jacks
+
+
+PokerStars Hand #145791650010:  Hold'em Limit ($3/$6 USD) - 2015/12/23 9:33:34 ET
+Table 'Demodokus III' 2-max Seat #1 is the button
+Seat 1: carsten855 ($26.04 in chips)
+Seat 2: elifnur2008 ($134.23 in chips)
+carsten855: posts small blind $1
+elifnur2008: posts big blind $3
+*** HOLE CARDS ***
+carsten855: raises $3 to $6
+elifnur2008: calls $3
+*** FLOP *** [2c Qc Ts]
+elifnur2008: checks
+carsten855: bets $3
+elifnur2008: calls $3
+*** TURN *** [2c Qc Ts] [9d]
+elifnur2008: checks
+carsten855: bets $6
+elifnur2008: raises $6 to $12
+carsten855: folds
+Uncalled bet ($6) returned to elifnur2008
+elifnur2008 collected $29.50 from pot
+elifnur2008: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2c Qc Ts 9d]
+Seat 1: carsten855 (button) (small blind) folded on the Turn
+Seat 2: elifnur2008 (big blind) collected ($29.50)
+
+
+PokerStars Hand #145791635073:  Hold'em Limit ($3/$6 USD) - 2015/12/23 9:33:12 ET
+Table 'Demodokus III' 2-max Seat #2 is the button
+Seat 1: carsten855 ($13.27 in chips)
+Seat 2: elifnur2008 ($147.50 in chips)
+elifnur2008: posts small blind $1
+carsten855: posts big blind $3
+*** HOLE CARDS ***
+elifnur2008: raises $3 to $6
+carsten855: calls $3
+*** FLOP *** [Qh Kh Qc]
+carsten855: checks
+elifnur2008: bets $3
+carsten855: raises $3 to $6
+elifnur2008: raises $3 to $9
+carsten855: calls $1.27 and is all-in
+Uncalled bet ($1.73) returned to elifnur2008
+*** TURN *** [Qh Kh Qc] [6h]
+*** RIVER *** [Qh Kh Qc 6h] [4h]
+*** SHOW DOWN ***
+carsten855: shows [8h 2h] (a flush, King high)
+elifnur2008: shows [Kc 6d] (two pair, Kings and Queens)
+carsten855 collected $26.04 from pot
+*** SUMMARY ***
+Total pot $26.54 | Rake $0.50
+Board [Qh Kh Qc 6h 4h]
+Seat 1: carsten855 (big blind) showed [8h 2h] and won ($26.04) with a flush, King high
+Seat 2: elifnur2008 (button) (small blind) showed [Kc 6d] and lost with two pair, Kings and Queens
+
+

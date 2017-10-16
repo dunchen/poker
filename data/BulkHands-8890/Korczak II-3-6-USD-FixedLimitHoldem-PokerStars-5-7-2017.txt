@@ -1,0 +1,51 @@
+PokerStars Hand #170103258716:  Hold'em Limit ($3/$6 USD) - 2017/05/07 18:06:32 ET
+Table 'Korczak II' 6-max Seat #2 is the button
+Seat 1: PycV ($185.38 in chips)
+Seat 2: ian113 ($43.70 in chips)
+ian113: posts small blind $1
+TinaTurner72: is sitting out
+PycV: posts big blind $3
+*** HOLE CARDS ***
+Morik(rus) joins the table at seat #6
+ian113: raises $3 to $6
+PycV: calls $3
+*** FLOP *** [6d 8s Qd]
+PycV: checks
+ian113: checks
+*** TURN *** [6d 8s Qd] [As]
+Homasapien leaves the table
+PycV: checks
+ian113: bets $6
+PycV: raises $6 to $12
+ian113: calls $6
+*** RIVER *** [6d 8s Qd As] [9s]
+PycV: bets $6
+ian113: calls $6
+*** SHOW DOWN ***
+PycV: shows [6s Qc] (two pair, Queens and Sixes)
+ian113: mucks hand
+PycV collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [6d 8s Qd As 9s]
+Seat 1: PycV (big blind) showed [6s Qc] and won ($47.50) with two pair, Queens and Sixes
+Seat 2: ian113 (button) (small blind) mucked
+
+
+PokerStars Hand #170103287714:  Hold'em Limit ($3/$6 USD) - 2017/05/07 18:07:07 ET
+Table 'Korczak II' 6-max Seat #1 is the button
+Seat 1: PycV ($208.88 in chips)
+Seat 2: ian113 ($19.70 in chips)
+PycV: posts small blind $1
+ian113: posts big blind $3
+*** HOLE CARDS ***
+PycV: folds
+Uncalled bet ($2) returned to ian113
+ian113 collected $2 from pot
+ian113: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: PycV (button) (small blind) folded before Flop
+Seat 2: ian113 (big blind) collected ($2)
+
+

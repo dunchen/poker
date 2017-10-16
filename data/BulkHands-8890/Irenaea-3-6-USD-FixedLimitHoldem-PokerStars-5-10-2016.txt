@@ -1,0 +1,125 @@
+PokerStars Hand #153101970005:  Hold'em Limit ($3/$6 USD) - 2016/05/10 3:24:52 ET
+Table 'Irenaea' 6-max Seat #6 is the button
+Seat 5: richardlu819 ($54.25 in chips)
+Seat 6: Velbor107 ($292.09 in chips)
+Velbor107: posts small blind $1
+HAL9QQQ: is sitting out
+richardlu819: posts big blind $3
+*** HOLE CARDS ***
+Velbor107: raises $3 to $6
+richardlu819: raises $3 to $9
+Velbor107: calls $3
+*** FLOP *** [6s Ac 7h]
+richardlu819: bets $3
+Velbor107: raises $3 to $6
+richardlu819: calls $3
+*** TURN *** [6s Ac 7h] [9s]
+richardlu819: checks
+Velbor107: bets $6
+richardlu819: raises $6 to $12
+Velbor107: calls $6
+*** RIVER *** [6s Ac 7h 9s] [5c]
+richardlu819: checks
+Velbor107: bets $6
+richardlu819: calls $6
+*** SHOW DOWN ***
+Velbor107: shows [8s 9d] (a straight, Five to Nine)
+richardlu819: mucks hand
+Velbor107 collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [6s Ac 7h 9s 5c]
+Seat 5: richardlu819 (big blind) mucked
+Seat 6: Velbor107 (button) (small blind) showed [8s 9d] and won ($65.50) with a straight, Five to Nine
+
+
+PokerStars Hand #153101984868:  Hold'em Limit ($3/$6 USD) - 2016/05/10 3:25:47 ET
+Table 'Irenaea' 6-max Seat #5 is the button
+Seat 5: richardlu819 ($25.25 in chips)
+Seat 6: Velbor107 ($320.59 in chips)
+richardlu819: posts small blind $1
+Velbor107: posts big blind $3
+*** HOLE CARDS ***
+richardlu819: raises $3 to $6
+Velbor107: calls $3
+*** FLOP *** [Td 4h 8s]
+Velbor107: checks
+richardlu819: bets $3
+Velbor107: calls $3
+*** TURN *** [Td 4h 8s] [9h]
+Velbor107: checks
+richardlu819: bets $6
+Velbor107: calls $6
+*** RIVER *** [Td 4h 8s 9h] [Qh]
+Velbor107: bets $6
+richardlu819: calls $6
+*** SHOW DOWN ***
+Velbor107: shows [7h 5h] (a flush, Queen high)
+richardlu819: mucks hand
+Velbor107 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Td 4h 8s 9h Qh]
+Seat 5: richardlu819 (button) (small blind) mucked
+Seat 6: Velbor107 (big blind) showed [7h 5h] and won ($41.50) with a flush, Queen high
+
+
+PokerStars Hand #153101983103:  Hold'em Limit ($3/$6 USD) - 2016/05/10 3:25:40 ET
+Table 'Irenaea' 6-max Seat #6 is the button
+Seat 5: richardlu819 ($24.25 in chips)
+Seat 6: Velbor107 ($321.59 in chips)
+Velbor107: posts small blind $1
+richardlu819: posts big blind $3
+*** HOLE CARDS ***
+Velbor107: folds
+Uncalled bet ($2) returned to richardlu819
+richardlu819 collected $2 from pot
+richardlu819: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: richardlu819 (big blind) collected ($2)
+Seat 6: Velbor107 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #153101980537:  Hold'em Limit ($3/$6 USD) - 2016/05/10 3:25:31 ET
+Table 'Irenaea' 6-max Seat #5 is the button
+Seat 5: richardlu819 ($21.25 in chips)
+Seat 6: Velbor107 ($324.59 in chips)
+richardlu819: posts small blind $1
+Velbor107: posts big blind $3
+*** HOLE CARDS ***
+richardlu819: raises $3 to $6
+Velbor107: folds
+Uncalled bet ($3) returned to richardlu819
+richardlu819 collected $6 from pot
+richardlu819: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 5: richardlu819 (button) (small blind) collected ($6)
+Seat 6: Velbor107 (big blind) folded before Flop
+
+
+PokerStars Hand #153101997365:  Hold'em Limit ($3/$6 USD) - 2016/05/10 3:26:33 ET
+Table 'Irenaea' 6-max Seat #6 is the button
+Seat 5: richardlu819 ($4.25 in chips)
+Seat 6: Velbor107 ($341.09 in chips)
+Velbor107: posts small blind $1
+richardlu819: posts big blind $3
+*** HOLE CARDS ***
+Velbor107: raises $3 to $6
+richardlu819: calls $1.25 and is all-in
+Uncalled bet ($1.75) returned to Velbor107
+*** FLOP *** [Qh 8c 9h]
+*** TURN *** [Qh 8c 9h] [Jd]
+*** RIVER *** [Qh 8c 9h Jd] [8h]
+*** SHOW DOWN ***
+richardlu819: shows [2h 4s] (a pair of Eights)
+Velbor107: shows [Tc 6d] (a straight, Eight to Queen)
+Velbor107 collected $8.33 from pot
+*** SUMMARY ***
+Total pot $8.50 | Rake $0.17
+Board [Qh 8c 9h Jd 8h]
+Seat 5: richardlu819 (big blind) showed [2h 4s] and lost with a pair of Eights
+Seat 6: Velbor107 (button) (small blind) showed [Tc 6d] and won ($8.33) with a straight, Eight to Queen
+
+

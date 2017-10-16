@@ -1,0 +1,118 @@
+PokerStars Hand #169229486354:  Hold'em Limit ($3/$6 USD) - 2017/04/18 16:01:45 ET
+Table 'Mahasim' 6-max Seat #3 is the button
+Seat 3: proth ($198.22 in chips)
+Seat 5: vestimokrec ($120 in chips)
+proth: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+proth: raises $3 to $6
+vestimokrec: calls $3
+*** FLOP *** [7s 9d 6s]
+vestimokrec: checks
+Mordnilap leaves the table
+proth: bets $3
+vestimokrec: raises $3 to $6
+proth: calls $3
+*** TURN *** [7s 9d 6s] [3h]
+vestimokrec: bets $6
+proth: calls $6
+*** RIVER *** [7s 9d 6s 3h] [8h]
+ToDaFelt joins the table at seat #4
+vestimokrec: checks
+proth: checks
+*** SHOW DOWN ***
+vestimokrec: shows [7c 9h] (two pair, Nines and Sevens)
+proth: mucks hand
+vestimokrec collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [7s 9d 6s 3h 8h]
+Seat 3: proth (button) (small blind) mucked
+Seat 5: vestimokrec (big blind) showed [7c 9h] and won ($35.50) with two pair, Nines and Sevens
+
+
+PokerStars Hand #169229509351:  Hold'em Limit ($3/$6 USD) - 2017/04/18 16:02:14 ET
+Table 'Mahasim' 6-max Seat #5 is the button
+Seat 3: proth ($180.22 in chips)
+Seat 5: vestimokrec ($137.50 in chips)
+vestimokrec: posts small blind $1
+proth: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+proth: calls $3
+*** FLOP *** [Qs Th 2s]
+proth: checks
+vestimokrec: checks
+*** TURN *** [Qs Th 2s] [8h]
+proth: checks
+HAOYUN88888 joins the table at seat #1
+vestimokrec: checks
+*** RIVER *** [Qs Th 2s 8h] [9s]
+proth: bets $6
+zxkz joins the table at seat #2
+vestimokrec: folds
+Uncalled bet ($6) returned to proth
+proth collected $11.76 from pot
+proth: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qs Th 2s 8h 9s]
+Seat 3: proth (big blind) collected ($11.76)
+Seat 5: vestimokrec (button) (small blind) folded on the River
+
+
+PokerStars Hand #169234357804:  Hold'em Limit ($3/$6 USD) - 2017/04/18 17:46:27 ET
+Table 'Mahasim' 6-max Seat #5 is the button
+Seat 4: rascal_319 ($150.97 in chips)
+Seat 5: Qvidde ($193.31 in chips)
+Qvidde: posts small blind $1
+B_loJkl: is sitting out
+rascal_319: posts big blind $3
+*** HOLE CARDS ***
+Qvidde: raises $3 to $6
+B_loJkl leaves the table
+rascal_319: raises $3 to $9
+Qvidde: calls $3
+*** FLOP *** [Th 8s Ks]
+rascal_319: bets $3
+Qvidde: folds
+Uncalled bet ($3) returned to rascal_319
+rascal_319 collected $17.64 from pot
+rascal_319: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Th 8s Ks]
+Seat 4: rascal_319 (big blind) collected ($17.64)
+Seat 5: Qvidde (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #169234369654:  Hold'em Limit ($3/$6 USD) - 2017/04/18 17:46:42 ET
+Table 'Mahasim' 6-max Seat #4 is the button
+Seat 4: rascal_319 ($159.61 in chips)
+Seat 5: Qvidde ($184.31 in chips)
+rascal_319: posts small blind $1
+Qvidde: posts big blind $3
+*** HOLE CARDS ***
+rascal_319: raises $3 to $6
+Qvidde: calls $3
+*** FLOP *** [9s 5h 6d]
+Qvidde: checks
+rascal_319: bets $3
+Qvidde: calls $3
+*** TURN *** [9s 5h 6d] [As]
+Qvidde: checks
+rascal_319: checks
+*** RIVER *** [9s 5h 6d As] [7h]
+Qvidde: bets $6
+rascal_319: calls $6
+*** SHOW DOWN ***
+Qvidde: shows [8c Jd] (a straight, Five to Nine)
+rascal_319: mucks hand
+Qvidde collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9s 5h 6d As 7h]
+Seat 4: rascal_319 (button) (small blind) mucked
+Seat 5: Qvidde (big blind) showed [8c Jd] and won ($29.50) with a straight, Five to Nine
+
+

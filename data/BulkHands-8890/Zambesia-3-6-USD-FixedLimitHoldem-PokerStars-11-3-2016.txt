@@ -1,0 +1,653 @@
+PokerStars Hand #160816944543:  Hold'em Limit ($3/$6 USD) - 2016/11/02 20:30:11 ET
+Table 'Zambesia' 6-max Seat #6 is the button
+Seat 1: llmaiconll ($235.64 in chips)
+Seat 6: Pandakey ($120 in chips)
+Pandakey: posts small blind $1
+llmaiconll: posts big blind $3
+*** HOLE CARDS ***
+Pandakey: raises $3 to $6
+llmaiconll: raises $3 to $9
+Pandakey: calls $3
+*** FLOP *** [4d 5s 8s]
+llmaiconll: bets $3
+Pandakey: calls $3
+*** TURN *** [4d 5s 8s] [Ks]
+llmaiconll: bets $6
+Pandakey: calls $6
+*** RIVER *** [4d 5s 8s Ks] [Ah]
+llmaiconll: bets $6
+Pandakey: calls $6
+*** SHOW DOWN ***
+llmaiconll: shows [Ad 9c] (a pair of Aces)
+Pandakey: mucks hand
+llmaiconll collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4d 5s 8s Ks Ah]
+Seat 1: llmaiconll (big blind) showed [Ad 9c] and won ($47.50) with a pair of Aces
+Seat 6: Pandakey (button) (small blind) mucked
+
+
+PokerStars Hand #160816976224:  Hold'em Limit ($3/$6 USD) - 2016/11/02 20:31:08 ET
+Table 'Zambesia' 6-max Seat #6 is the button
+Seat 1: llmaiconll ($247.14 in chips)
+Seat 6: Pandakey ($107.52 in chips)
+Pandakey: posts small blind $1
+llmaiconll: posts big blind $3
+*** HOLE CARDS ***
+Pandakey: raises $3 to $6
+llmaiconll: calls $3
+*** FLOP *** [4s Th 8c]
+llmaiconll: checks
+Pandakey: bets $3
+llmaiconll: calls $3
+*** TURN *** [4s Th 8c] [5h]
+llmaiconll: checks
+Pandakey: checks
+*** RIVER *** [4s Th 8c 5h] [5s]
+llmaiconll: bets $6
+Pandakey: folds
+Uncalled bet ($6) returned to llmaiconll
+llmaiconll collected $17.64 from pot
+llmaiconll: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4s Th 8c 5h 5s]
+Seat 1: llmaiconll (big blind) collected ($17.64)
+Seat 6: Pandakey (button) (small blind) folded on the River
+
+
+PokerStars Hand #160816958986:  Hold'em Limit ($3/$6 USD) - 2016/11/02 20:30:37 ET
+Table 'Zambesia' 6-max Seat #1 is the button
+Seat 1: llmaiconll ($259.14 in chips)
+Seat 6: Pandakey ($96 in chips)
+llmaiconll: posts small blind $1
+Pandakey: posts big blind $3
+*** HOLE CARDS ***
+llmaiconll: raises $3 to $6
+Pandakey: calls $3
+*** FLOP *** [9h 2c 5s]
+Pandakey: checks
+ToDaFelt joins the table at seat #2
+llmaiconll: checks
+*** TURN *** [9h 2c 5s] [6h]
+Pandakey: bets $6
+llmaiconll: calls $6
+*** RIVER *** [9h 2c 5s 6h] [3c]
+Pandakey: checks
+llmaiconll: checks
+*** SHOW DOWN ***
+Pandakey: shows [5d Qh] (a pair of Fives)
+llmaiconll: mucks hand
+Pandakey collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [9h 2c 5s 6h 3c]
+Seat 1: llmaiconll (button) (small blind) mucked
+Seat 6: Pandakey (big blind) showed [5d Qh] and won ($23.52) with a pair of Fives
+
+
+PokerStars Hand #160817046532:  Hold'em Limit ($3/$6 USD) - 2016/11/02 20:33:16 ET
+Table 'Zambesia' 6-max Seat #1 is the button
+Seat 1: llmaiconll ($270.26 in chips)
+Seat 2: ToDaFelt ($122.50 in chips)
+llmaiconll: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+llmaiconll: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [Ad 3c 8d]
+ToDaFelt: checks
+llmaiconll: checks
+*** TURN *** [Ad 3c 8d] [3d]
+ToDaFelt: bets $6
+llmaiconll: folds
+Uncalled bet ($6) returned to ToDaFelt
+ToDaFelt collected $11.76 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ad 3c 8d 3d]
+Seat 1: llmaiconll (button) (small blind) folded on the Turn
+Seat 2: ToDaFelt (big blind) collected ($11.76)
+
+
+PokerStars Hand #160817060930:  Hold'em Limit ($3/$6 USD) - 2016/11/02 20:33:42 ET
+Table 'Zambesia' 6-max Seat #2 is the button
+Seat 1: llmaiconll ($264.26 in chips)
+Seat 2: ToDaFelt ($128.26 in chips)
+ToDaFelt: posts small blind $1
+llmaiconll: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+llmaiconll: raises $3 to $9
+ToDaFelt: calls $3
+*** FLOP *** [5s 2d 3s]
+llmaiconll: bets $3
+ToDaFelt: calls $3
+*** TURN *** [5s 2d 3s] [7s]
+llmaiconll: bets $6
+ToDaFelt: folds
+Uncalled bet ($6) returned to llmaiconll
+llmaiconll collected $23.52 from pot
+llmaiconll: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [5s 2d 3s 7s]
+Seat 1: llmaiconll (big blind) collected ($23.52)
+Seat 2: ToDaFelt (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #160817030630:  Hold'em Limit ($3/$6 USD) - 2016/11/02 20:32:47 ET
+Table 'Zambesia' 6-max Seat #2 is the button
+Seat 1: llmaiconll ($294.26 in chips)
+Seat 2: ToDaFelt ($99 in chips)
+ToDaFelt: posts small blind $1
+Pandakey: is sitting out
+llmaiconll: posts big blind $3
+*** HOLE CARDS ***
+Pandakey leaves the table
+ToDaFelt: raises $3 to $6
+llmaiconll: calls $3
+*** FLOP *** [3s 2h Js]
+llmaiconll: checks
+ToDaFelt: bets $3
+llmaiconll: raises $3 to $6
+ToDaFelt: calls $3
+*** TURN *** [3s 2h Js] [5c]
+llmaiconll: bets $6
+ToDaFelt: calls $6
+*** RIVER *** [3s 2h Js 5c] [7d]
+llmaiconll: bets $6
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+llmaiconll: shows [Ts 8s] (high card Jack)
+ToDaFelt: shows [Qd 3c] (a pair of Threes)
+ToDaFelt collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3s 2h Js 5c 7d]
+Seat 1: llmaiconll (big blind) showed [Ts 8s] and lost with high card Jack
+Seat 2: ToDaFelt (button) (small blind) showed [Qd 3c] and won ($47.50) with a pair of Threes
+
+
+PokerStars Hand #160817075547:  Hold'em Limit ($3/$6 USD) - 2016/11/02 20:34:09 ET
+Table 'Zambesia' 6-max Seat #1 is the button
+Seat 1: llmaiconll ($271.78 in chips)
+Seat 2: ToDaFelt ($120.26 in chips)
+llmaiconll: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+llmaiconll: folds
+Uncalled bet ($2) returned to ToDaFelt
+ToDaFelt collected $2 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: llmaiconll (button) (small blind) folded before Flop
+Seat 2: ToDaFelt (big blind) collected ($2)
+
+
+PokerStars Hand #160817071433:  Hold'em Limit ($3/$6 USD) - 2016/11/02 20:34:01 ET
+Table 'Zambesia' 6-max Seat #2 is the button
+Seat 1: llmaiconll ($274.78 in chips)
+Seat 2: ToDaFelt ($117.26 in chips)
+ToDaFelt: posts small blind $1
+llmaiconll: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+llmaiconll: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $6 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: llmaiconll (big blind) folded before Flop
+Seat 2: ToDaFelt (button) (small blind) collected ($6)
+
+
+PokerStars Hand #160817079033:  Hold'em Limit ($3/$6 USD) - 2016/11/02 20:34:15 ET
+Table 'Zambesia' 6-max Seat #2 is the button
+Seat 1: llmaiconll ($270.78 in chips)
+Seat 2: ToDaFelt ($121.26 in chips)
+ToDaFelt: posts small blind $1
+llmaiconll: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+llmaiconll: calls $3
+*** FLOP *** [5d 8c Th]
+llmaiconll: checks
+ToDaFelt: bets $3
+llmaiconll: calls $3
+*** TURN *** [5d 8c Th] [Kd]
+llmaiconll: checks
+ToDaFelt: bets $6
+llmaiconll: folds
+Uncalled bet ($6) returned to ToDaFelt
+ToDaFelt collected $17.64 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5d 8c Th Kd]
+Seat 1: llmaiconll (big blind) folded on the Turn
+Seat 2: ToDaFelt (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #160817068163:  Hold'em Limit ($3/$6 USD) - 2016/11/02 20:33:55 ET
+Table 'Zambesia' 6-max Seat #1 is the button
+Seat 1: llmaiconll ($275.78 in chips)
+Seat 2: ToDaFelt ($116.26 in chips)
+llmaiconll: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+llmaiconll: folds
+Uncalled bet ($2) returned to ToDaFelt
+ToDaFelt collected $2 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: llmaiconll (button) (small blind) folded before Flop
+Seat 2: ToDaFelt (big blind) collected ($2)
+
+
+PokerStars Hand #160817109310:  Hold'em Limit ($3/$6 USD) - 2016/11/02 20:35:10 ET
+Table 'Zambesia' 6-max Seat #2 is the button
+Seat 1: llmaiconll ($258.78 in chips)
+Seat 2: ToDaFelt ($132.78 in chips)
+ToDaFelt: posts small blind $1
+llmaiconll: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+llmaiconll: raises $3 to $9
+ToDaFelt: calls $3
+*** FLOP *** [Ad 2h Jc]
+llmaiconll: bets $3
+ToDaFelt: calls $3
+*** TURN *** [Ad 2h Jc] [Th]
+llmaiconll: bets $6
+ToDaFelt: calls $6
+*** RIVER *** [Ad 2h Jc Th] [8s]
+llmaiconll: checks
+ToDaFelt: checks
+*** SHOW DOWN ***
+llmaiconll: shows [7d 7s] (a pair of Sevens)
+ToDaFelt: shows [Qd Td] (a pair of Tens)
+ToDaFelt collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Ad 2h Jc Th 8s]
+Seat 1: llmaiconll (big blind) showed [7d 7s] and lost with a pair of Sevens
+Seat 2: ToDaFelt (button) (small blind) showed [Qd Td] and won ($35.50) with a pair of Tens
+
+
+PokerStars Hand #160817096180:  Hold'em Limit ($3/$6 USD) - 2016/11/02 20:34:46 ET
+Table 'Zambesia' 6-max Seat #1 is the button
+Seat 1: llmaiconll ($261.78 in chips)
+Seat 2: ToDaFelt ($129.90 in chips)
+llmaiconll: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+llmaiconll: calls $2
+ToDaFelt: checks
+*** FLOP *** [3s Ad Td]
+ToDaFelt: checks
+llmaiconll: checks
+*** TURN *** [3s Ad Td] [8c]
+ToDaFelt: bets $6
+llmaiconll: folds
+Uncalled bet ($6) returned to ToDaFelt
+ToDaFelt collected $5.88 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [3s Ad Td 8c]
+Seat 1: llmaiconll (button) (small blind) folded on the Turn
+Seat 2: ToDaFelt (big blind) collected ($5.88)
+
+
+PokerStars Hand #160817164344:  Hold'em Limit ($3/$6 USD) - 2016/11/02 20:36:34 ET
+Table 'Zambesia' 6-max Seat #1 is the button
+Seat 1: llmaiconll ($261.28 in chips)
+Seat 2: ToDaFelt ($129.04 in chips)
+llmaiconll: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+llmaiconll: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [Td Jd 5s]
+ToDaFelt: checks
+llmaiconll: checks
+*** TURN *** [Td Jd 5s] [7c]
+ToDaFelt: bets $6
+llmaiconll: folds
+Uncalled bet ($6) returned to ToDaFelt
+ToDaFelt collected $11.76 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Td Jd 5s 7c]
+Seat 1: llmaiconll (button) (small blind) folded on the Turn
+Seat 2: ToDaFelt (big blind) collected ($11.76)
+
+
+PokerStars Hand #160817155331:  Hold'em Limit ($3/$6 USD) - 2016/11/02 20:36:17 ET
+Table 'Zambesia' 6-max Seat #2 is the button
+Seat 1: llmaiconll ($267.28 in chips)
+Seat 2: ToDaFelt ($123.28 in chips)
+ToDaFelt: posts small blind $1
+llmaiconll: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+llmaiconll: calls $3
+*** FLOP *** [4h Qs 5d]
+llmaiconll: checks
+ToDaFelt: bets $3
+llmaiconll: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $11.76 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4h Qs 5d]
+Seat 1: llmaiconll (big blind) folded on the Flop
+Seat 2: ToDaFelt (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #160817128909:  Hold'em Limit ($3/$6 USD) - 2016/11/02 20:35:46 ET
+Table 'Zambesia' 6-max Seat #1 is the button
+Seat 1: llmaiconll ($240.78 in chips)
+Seat 2: ToDaFelt ($150.28 in chips)
+llmaiconll: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+llmaiconll: raises $3 to $6
+ToDaFelt: raises $3 to $9
+llmaiconll: raises $3 to $12
+Betting is capped
+ToDaFelt: calls $3
+*** FLOP *** [2d Td Tc]
+ToDaFelt: checks
+llmaiconll: bets $3
+ToDaFelt: calls $3
+*** TURN *** [2d Td Tc] [4s]
+ToDaFelt: checks
+llmaiconll: bets $6
+ToDaFelt: calls $6
+*** RIVER *** [2d Td Tc 4s] [4c]
+ToDaFelt: checks
+llmaiconll: bets $6
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+llmaiconll: shows [9s As] (two pair, Tens and Fours)
+ToDaFelt: mucks hand
+llmaiconll collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [2d Td Tc 4s 4c]
+Seat 1: llmaiconll (button) (small blind) showed [9s As] and won ($53.50) with two pair, Tens and Fours
+Seat 2: ToDaFelt (big blind) mucked
+
+
+PokerStars Hand #160817204491:  Hold'em Limit ($3/$6 USD) - 2016/11/02 20:37:47 ET
+Table 'Zambesia' 6-max Seat #2 is the button
+Seat 1: llmaiconll ($296.28 in chips)
+Seat 2: ToDaFelt ($92.80 in chips)
+ToDaFelt: posts small blind $1
+llmaiconll: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: folds
+Uncalled bet ($2) returned to llmaiconll
+llmaiconll collected $2 from pot
+llmaiconll: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: llmaiconll (big blind) collected ($2)
+Seat 2: ToDaFelt (button) (small blind) folded before Flop
+
+
+PokerStars Hand #160817189995:  Hold'em Limit ($3/$6 USD) - 2016/11/02 20:37:21 ET
+Table 'Zambesia' 6-max Seat #1 is the button
+Seat 1: llmaiconll ($275.78 in chips)
+Seat 2: ToDaFelt ($113.80 in chips)
+llmaiconll: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+llmaiconll: calls $2
+ToDaFelt: raises $3 to $6
+llmaiconll: calls $3
+*** FLOP *** [Qc 5d Kh]
+ToDaFelt: bets $3
+llmaiconll: calls $3
+*** TURN *** [Qc 5d Kh] [6c]
+ToDaFelt: bets $6
+llmaiconll: calls $6
+*** RIVER *** [Qc 5d Kh 6c] [5s]
+ToDaFelt: bets $6
+llmaiconll: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [9c 8h] (a pair of Fives)
+llmaiconll: shows [8s Qd] (two pair, Queens and Fives)
+llmaiconll collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Qc 5d Kh 6c 5s]
+Seat 1: llmaiconll (button) (small blind) showed [8s Qd] and won ($41.50) with two pair, Queens and Fives
+Seat 2: ToDaFelt (big blind) showed [9c 8h] and lost with a pair of Fives
+
+
+PokerStars Hand #160817175553:  Hold'em Limit ($3/$6 USD) - 2016/11/02 20:36:54 ET
+Table 'Zambesia' 6-max Seat #2 is the button
+Seat 1: llmaiconll ($255.28 in chips)
+Seat 2: ToDaFelt ($134.80 in chips)
+ToDaFelt: posts small blind $1
+llmaiconll: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+llmaiconll: calls $3
+*** FLOP *** [2c 3h 5c]
+llmaiconll: checks
+ToDaFelt: bets $3
+llmaiconll: calls $3
+*** TURN *** [2c 3h 5c] [Td]
+llmaiconll: checks
+ToDaFelt: bets $6
+llmaiconll: calls $6
+*** RIVER *** [2c 3h 5c Td] [7h]
+llmaiconll: checks
+ToDaFelt: bets $6
+llmaiconll: raises $6 to $12
+ToDaFelt: folds
+Uncalled bet ($6) returned to llmaiconll
+llmaiconll collected $41.50 from pot
+llmaiconll: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2c 3h 5c Td 7h]
+Seat 1: llmaiconll (big blind) collected ($41.50)
+Seat 2: ToDaFelt (button) (small blind) folded on the River
+
+
+PokerStars Hand #160817223470:  Hold'em Limit ($3/$6 USD) - 2016/11/02 20:38:22 ET
+Table 'Zambesia' 6-max Seat #1 is the button
+Seat 1: llmaiconll ($290.28 in chips)
+Seat 2: ToDaFelt ($98.56 in chips)
+llmaiconll: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+llmaiconll: folds
+Uncalled bet ($2) returned to ToDaFelt
+ToDaFelt collected $2 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: llmaiconll (button) (small blind) folded before Flop
+Seat 2: ToDaFelt (big blind) collected ($2)
+
+
+PokerStars Hand #160817211562:  Hold'em Limit ($3/$6 USD) - 2016/11/02 20:38:00 ET
+Table 'Zambesia' 6-max Seat #2 is the button
+Seat 1: llmaiconll ($296.28 in chips)
+Seat 2: ToDaFelt ($92.80 in chips)
+ToDaFelt: posts small blind $1
+llmaiconll: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+llmaiconll: calls $3
+*** FLOP *** [As 3c Ts]
+llmaiconll: checks
+ToDaFelt: checks
+*** TURN *** [As 3c Ts] [2h]
+llmaiconll: checks
+ToDaFelt: bets $6
+llmaiconll: folds
+Uncalled bet ($6) returned to ToDaFelt
+ToDaFelt collected $11.76 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [As 3c Ts 2h]
+Seat 1: llmaiconll (big blind) folded on the Turn
+Seat 2: ToDaFelt (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #160817207808:  Hold'em Limit ($3/$6 USD) - 2016/11/02 20:37:53 ET
+Table 'Zambesia' 6-max Seat #1 is the button
+Seat 1: llmaiconll ($297.28 in chips)
+Seat 2: ToDaFelt ($91.80 in chips)
+llmaiconll: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+llmaiconll: folds
+Uncalled bet ($2) returned to ToDaFelt
+ToDaFelt collected $2 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: llmaiconll (button) (small blind) folded before Flop
+Seat 2: ToDaFelt (big blind) collected ($2)
+
+
+PokerStars Hand #160817255359:  Hold'em Limit ($3/$6 USD) - 2016/11/02 20:39:20 ET
+Table 'Zambesia' 6-max Seat #2 is the button
+Seat 1: llmaiconll ($306.66 in chips)
+Seat 2: ToDaFelt ($81.56 in chips)
+ToDaFelt: posts small blind $1
+llmaiconll: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: folds
+Uncalled bet ($2) returned to llmaiconll
+llmaiconll collected $2 from pot
+michi99999 joins the table at seat #3
+llmaiconll: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: llmaiconll (big blind) collected ($2)
+Seat 2: ToDaFelt (button) (small blind) folded before Flop
+
+
+PokerStars Hand #160817247593:  Hold'em Limit ($3/$6 USD) - 2016/11/02 20:39:05 ET
+Table 'Zambesia' 6-max Seat #1 is the button
+Seat 1: llmaiconll ($303.78 in chips)
+Seat 2: ToDaFelt ($84.56 in chips)
+llmaiconll: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+llmaiconll: calls $2
+ToDaFelt: checks
+*** FLOP *** [7h Jd 8c]
+ToDaFelt: checks
+llmaiconll: bets $3
+ToDaFelt: folds
+Uncalled bet ($3) returned to llmaiconll
+llmaiconll collected $5.88 from pot
+llmaiconll: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [7h Jd 8c]
+Seat 1: llmaiconll (button) (small blind) collected ($5.88)
+Seat 2: ToDaFelt (big blind) folded on the Flop
+
+
+PokerStars Hand #160817227854:  Hold'em Limit ($3/$6 USD) - 2016/11/02 20:38:29 ET
+Table 'Zambesia' 6-max Seat #2 is the button
+Seat 1: llmaiconll ($289.28 in chips)
+Seat 2: ToDaFelt ($99.56 in chips)
+ToDaFelt: posts small blind $1
+llmaiconll: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+llmaiconll: calls $3
+*** FLOP *** [5h 7c 3s]
+llmaiconll: checks
+ToDaFelt: bets $3
+llmaiconll: calls $3
+*** TURN *** [5h 7c 3s] [5s]
+llmaiconll: checks
+ToDaFelt: checks
+*** RIVER *** [5h 7c 3s 5s] [7d]
+llmaiconll: bets $6
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+llmaiconll: shows [5d Ts] (a full house, Fives full of Sevens)
+ToDaFelt: mucks hand
+llmaiconll collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5h 7c 3s 5s 7d]
+Seat 1: llmaiconll (big blind) showed [5d Ts] and won ($29.50) with a full house, Fives full of Sevens
+Seat 2: ToDaFelt (button) (small blind) mucked
+
+
+PokerStars Hand #160817263833:  Hold'em Limit ($3/$6 USD) - 2016/11/02 20:39:35 ET
+Table 'Zambesia' 6-max Seat #1 is the button
+Seat 1: llmaiconll ($307.66 in chips)
+Seat 2: ToDaFelt ($80.56 in chips)
+llmaiconll: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+llmaiconll: calls $2
+ToDaFelt: raises $3 to $6
+llmaiconll: calls $3
+*** FLOP *** [Ad 5d Ac]
+ToDaFelt: bets $3
+llmaiconll: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $11.76 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ad 5d Ac]
+Seat 1: llmaiconll (button) (small blind) folded on the Flop
+Seat 2: ToDaFelt (big blind) collected ($11.76)
+
+
+PokerStars Hand #160818907706:  Hold'em Limit ($3/$6 USD) - 2016/11/02 21:35:19 ET
+Table 'Zambesia' 6-max Seat #4 is the button
+Seat 2: ToDaFelt ($139.74 in chips)
+Seat 4: Zappabertie ($49.12 in chips)
+Zappabertie: posts small blind $1
+LaJess: is sitting out
+TinaTurner72: is sitting out
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+LaJess leaves the table
+juswnttoplay joins the table at seat #3
+Zappabertie: raises $3 to $6
+ToDaFelt: raises $3 to $9
+Zappabertie: calls $3
+*** FLOP *** [7d Td Ac]
+TinaTurner72 leaves the table
+ToDaFelt: bets $3
+Zappabertie: folds
+Uncalled bet ($3) returned to ToDaFelt
+Zappabertie leaves the table
+juswnttoplay leaves the table
+ToDaFelt collected $17.64 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7d Td Ac]
+Seat 2: ToDaFelt (big blind) collected ($17.64)
+Seat 4: Zappabertie (button) (small blind) folded on the Flop
+
+

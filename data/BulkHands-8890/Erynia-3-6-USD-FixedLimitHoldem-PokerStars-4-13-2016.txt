@@ -1,0 +1,51 @@
+PokerStars Hand #151853135976:  Hold'em Limit ($3/$6 USD) - 2016/04/13 8:47:25 ET
+Table 'Erynia' 6-max Seat #3 is the button
+Seat 3: wacja ($30 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+wacja: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+wacja: calls $2
+VolkovDmitri: raises $3 to $6
+nmpro32 joins the table at seat #5
+wacja: calls $3
+*** FLOP *** [Jh Qc Ah]
+VolkovDmitri: bets $3
+wacja: calls $3
+*** TURN *** [Jh Qc Ah] [6d]
+VolkovDmitri: bets $6
+wacja: raises $6 to $12
+VolkovDmitri: raises $6 to $18
+wacja: raises $3 to $21 and is all-in
+Betting is capped
+VolkovDmitri: calls $3
+*** RIVER *** [Jh Qc Ah 6d] [Tc]
+*** SHOW DOWN ***
+VolkovDmitri: shows [Qd Qs] (three of a kind, Queens)
+wacja: shows [As Ac] (three of a kind, Aces)
+wacja collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Jh Qc Ah 6d Tc]
+Seat 3: wacja (button) (small blind) showed [As Ac] and won ($59.50) with three of a kind, Aces
+Seat 4: VolkovDmitri (big blind) showed [Qd Qs] and lost with three of a kind, Queens
+
+
+PokerStars Hand #151856409480:  Hold'em Limit ($3/$6 USD) - 2016/04/13 10:21:34 ET
+Table 'Erynia' 6-max Seat #5 is the button
+Seat 3: jassomaan ($265.77 in chips)
+Seat 5: HAL9QQQ ($128.46 in chips)
+HAL9QQQ: posts small blind $1
+jassomaan: posts big blind $3
+*** HOLE CARDS ***
+HAL9QQQ: raises $3 to $6
+jassomaan: folds
+Uncalled bet ($3) returned to HAL9QQQ
+HAL9QQQ collected $6 from pot
+HAL9QQQ: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: jassomaan (big blind) folded before Flop
+Seat 5: HAL9QQQ (button) (small blind) collected ($6)
+
+

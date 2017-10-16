@@ -1,0 +1,86 @@
+PokerStars Hand #153348013949:  Hold'em Limit ($3/$6 USD) - 2016/05/15 10:54:53 ET
+Table 'Themis' 6-max Seat #1 is the button
+Seat 1: frazerchi ($30 in chips)
+Seat 4: BuzovaPro ($72 in chips)
+frazerchi: posts small blind $1
+BuzovaPro: posts big blind $3
+*** HOLE CARDS ***
+frazerchi: raises $3 to $6
+BuzovaPro: calls $3
+*** FLOP *** [Ah 9d Ts]
+BuzovaPro: checks
+frazerchi: bets $3
+BuzovaPro: raises $3 to $6
+Tryptamean joins the table at seat #2
+frazerchi: raises $3 to $9
+BuzovaPro: calls $3
+*** TURN *** [Ah 9d Ts] [Th]
+BuzovaPro: checks
+frazerchi: bets $6
+BuzovaPro: calls $6
+*** RIVER *** [Ah 9d Ts Th] [7h]
+BuzovaPro: checks
+frazerchi: bets $6
+BuzovaPro: calls $6
+*** SHOW DOWN ***
+frazerchi: shows [Td 9h] (a full house, Tens full of Nines)
+BuzovaPro: mucks hand
+frazerchi collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Ah 9d Ts Th 7h]
+Seat 1: frazerchi (button) (small blind) showed [Td 9h] and won ($53.50) with a full house, Tens full of Nines
+Seat 4: BuzovaPro (big blind) mucked
+
+
+PokerStars Hand #153348036544:  Hold'em Limit ($3/$6 USD) - 2016/05/15 10:55:29 ET
+Table 'Themis' 6-max Seat #4 is the button
+Seat 1: frazerchi ($56.50 in chips)
+Seat 4: BuzovaPro ($72 in chips)
+BuzovaPro: posts small blind $1
+frazerchi: posts big blind $3
+*** HOLE CARDS ***
+BuzovaPro: raises $3 to $6
+frazerchi: folds
+Uncalled bet ($3) returned to BuzovaPro
+BuzovaPro collected $6 from pot
+BuzovaPro: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: frazerchi (big blind) folded before Flop
+Seat 4: BuzovaPro (button) (small blind) collected ($6)
+
+
+PokerStars Hand #153350176585:  Hold'em Limit ($3/$6 USD) - 2016/05/15 11:40:57 ET
+Table 'Themis' 6-max Seat #2 is the button
+Seat 2: Tryptamean ($176.70 in chips)
+Seat 6: paptec ($99.56 in chips)
+Tryptamean: posts small blind $1
+TheMatrix36: is sitting out
+paptec: posts big blind $3
+*** HOLE CARDS ***
+TheMatrix36 leaves the table
+Tryptamean: raises $3 to $6
+paptec: calls $3
+*** FLOP *** [4c Jh 5c]
+paptec: checks
+Tryptamean: bets $3
+paptec: raises $3 to $6
+Tryptamean: calls $3
+*** TURN *** [4c Jh 5c] [Qh]
+paptec: bets $6
+Tryptamean: calls $6
+*** RIVER *** [4c Jh 5c Qh] [8h]
+paptec: bets $6
+Tryptamean: calls $6
+*** SHOW DOWN ***
+paptec: shows [5h 4d] (two pair, Fives and Fours)
+Tryptamean: mucks hand
+paptec collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4c Jh 5c Qh 8h]
+Seat 2: Tryptamean (button) (small blind) mucked
+Seat 6: paptec (big blind) showed [5h 4d] and won ($47.50) with two pair, Fives and Fours
+
+

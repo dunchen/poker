@@ -1,0 +1,34 @@
+PokerStars Hand #169812197707:  Hold'em Limit ($3/$6 USD) - 2017/05/01 11:51:05 ET
+Table 'Brunsia' 10-max Seat #7 is the button
+Seat 7: VolkovDmitri ($120 in chips)
+Seat 9: Titanic001 ($120 in chips)
+VolkovDmitri: posts small blind $1
+Titanic001: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Titanic001: calls $3
+*** FLOP *** [8d 9c 4h]
+TinaTurner72 joins the table at seat #10
+Titanic001: checks
+VolkovDmitri: bets $3
+Titanic001: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [8d 9c 4h] [5h]
+Titanic001: bets $6
+VolkovDmitri: raises $6 to $12
+Titanic001: calls $6
+*** RIVER *** [8d 9c 4h 5h] [6d]
+Titanic001: checks
+VolkovDmitri: bets $6
+Titanic001: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [4d 4c] (three of a kind, Fours)
+Titanic001: mucks hand
+VolkovDmitri collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [8d 9c 4h 5h 6d]
+Seat 7: VolkovDmitri (button) (small blind) showed [4d 4c] and won ($59.50) with three of a kind, Fours
+Seat 9: Titanic001 (big blind) mucked
+
+

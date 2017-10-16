@@ -1,0 +1,98 @@
+PokerStars Hand #167550465497:  Hold'em Limit ($3/$6 USD) - 2017/03/13 18:43:45 ET
+Table 'Eurydike' 6-max Seat #4 is the button
+Seat 1: 123ok ($150.37 in chips)
+Seat 4: Actionni13 ($196.01 in chips)
+Actionni13: posts small blind $1
+123ok: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+123ok: calls $3
+*** FLOP *** [Ah Ts Qs]
+123ok: checks
+Actionni13: bets $3
+123ok: folds
+Uncalled bet ($3) returned to Actionni13
+Actionni13 collected $11.76 from pot
+Actionni13: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ah Ts Qs]
+Seat 1: 123ok (big blind) folded on the Flop
+Seat 4: Actionni13 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #167550447031:  Hold'em Limit ($3/$6 USD) - 2017/03/13 18:43:22 ET
+Table 'Eurydike' 6-max Seat #1 is the button
+Seat 1: 123ok ($159.37 in chips)
+Seat 4: Actionni13 ($187.37 in chips)
+123ok: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+123ok: calls $2
+Actionni13: raises $3 to $6
+123ok: calls $3
+*** FLOP *** [Td Kc 4h]
+Actionni13: bets $3
+123ok: calls $3
+*** TURN *** [Td Kc 4h] [Qc]
+Actionni13: checks
+123ok: checks
+*** RIVER *** [Td Kc 4h Qc] [5s]
+Actionni13: checks
+123ok: checks
+*** SHOW DOWN ***
+Actionni13: shows [3s 3h] (a pair of Threes)
+123ok: mucks hand
+Actionni13 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Td Kc 4h Qc 5s]
+Seat 1: 123ok (button) (small blind) mucked
+Seat 4: Actionni13 (big blind) showed [3s 3h] and won ($17.64) with a pair of Threes
+
+
+PokerStars Hand #167550504905:  Hold'em Limit ($3/$6 USD) - 2017/03/13 18:44:36 ET
+Table 'Eurydike' 6-max Seat #4 is the button
+Seat 1: 123ok ($147.25 in chips)
+Seat 4: Actionni13 ($198.77 in chips)
+Actionni13: posts small blind $1
+123ok: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: folds
+Uncalled bet ($2) returned to 123ok
+123ok collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: 123ok (big blind) collected ($2)
+Seat 4: Actionni13 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #167550473349:  Hold'em Limit ($3/$6 USD) - 2017/03/13 18:43:55 ET
+Table 'Eurydike' 6-max Seat #1 is the button
+Seat 1: 123ok ($144.37 in chips)
+Seat 4: Actionni13 ($201.77 in chips)
+123ok: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+123ok: calls $2
+Actionni13: checks
+*** FLOP *** [Jh 2c 6d]
+Actionni13: checks
+123ok: checks
+*** TURN *** [Jh 2c 6d] [6c]
+Actionni13: checks
+123ok: checks
+*** RIVER *** [Jh 2c 6d 6c] [8h]
+Actionni13: checks
+123ok: checks
+*** SHOW DOWN ***
+Actionni13: shows [4s 5s] (a pair of Sixes)
+123ok: shows [5d Kd] (a pair of Sixes - King kicker)
+123ok collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Jh 2c 6d 6c 8h]
+Seat 1: 123ok (button) (small blind) showed [5d Kd] and won ($5.88) with a pair of Sixes
+Seat 4: Actionni13 (big blind) showed [4s 5s] and lost with a pair of Sixes
+
+

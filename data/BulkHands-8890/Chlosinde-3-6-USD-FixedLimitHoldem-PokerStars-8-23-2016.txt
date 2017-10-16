@@ -1,0 +1,54 @@
+PokerStars Hand #157658197450:  Hold'em Limit ($3/$6 USD) - 2016/08/23 18:30:54 ET
+Table 'Chlosinde' 6-max Seat #6 is the button
+Seat 3: Mahmoudjan11 ($90 in chips)
+Seat 6: Pandakey ($120 in chips)
+Pandakey: posts small blind $1
+Mahmoudjan11: posts big blind $3
+*** HOLE CARDS ***
+simper11 joins the table at seat #2
+Pandakey: raises $3 to $6
+Mahmoudjan11: calls $3
+*** FLOP *** [5h Ac 2h]
+Mahmoudjan11: checks
+Pandakey: bets $3
+Mahmoudjan11: calls $3
+*** TURN *** [5h Ac 2h] [6c]
+Mahmoudjan11: checks
+Pandakey: checks
+*** RIVER *** [5h Ac 2h 6c] [Th]
+Mahmoudjan11: bets $6
+Pandakey: calls $6
+*** SHOW DOWN ***
+Mahmoudjan11: shows [Qc 6h] (a pair of Sixes)
+Pandakey: mucks hand
+Mahmoudjan11 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5h Ac 2h 6c Th]
+Seat 3: Mahmoudjan11 (big blind) showed [Qc 6h] and won ($29.50) with a pair of Sixes
+Seat 6: Pandakey (button) (small blind) mucked
+
+
+PokerStars Hand #157658212842:  Hold'em Limit ($3/$6 USD) - 2016/08/23 18:31:18 ET
+Table 'Chlosinde' 6-max Seat #3 is the button
+Seat 3: Mahmoudjan11 ($104.50 in chips)
+Seat 6: Pandakey ($105 in chips)
+Mahmoudjan11: posts small blind $1
+Pandakey: posts big blind $3
+*** HOLE CARDS ***
+Mahmoudjan11: raises $3 to $6
+Pandakey: calls $3
+*** FLOP *** [8c 6h Ts]
+Pandakey: checks
+Mahmoudjan11: bets $3
+Pandakey: folds
+Uncalled bet ($3) returned to Mahmoudjan11
+Mahmoudjan11 collected $11.76 from pot
+Mahmoudjan11: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8c 6h Ts]
+Seat 3: Mahmoudjan11 (button) (small blind) collected ($11.76)
+Seat 6: Pandakey (big blind) folded on the Flop
+
+

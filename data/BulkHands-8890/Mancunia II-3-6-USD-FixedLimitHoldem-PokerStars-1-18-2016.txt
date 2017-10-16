@@ -1,0 +1,57 @@
+PokerStars Hand #147265930530:  Hold'em Limit ($3/$6 USD) - 2016/01/18 14:07:09 ET
+Table 'Mancunia II' 2-max Seat #1 is the button
+Seat 1: echsecution ($73 in chips)
+Seat 2: Ultrafranke ($126.64 in chips)
+echsecution: posts small blind $1
+Ultrafranke: posts big blind $3
+*** HOLE CARDS ***
+echsecution: raises $3 to $6
+Ultrafranke: calls $3
+*** FLOP *** [7s 4h 6d]
+Ultrafranke: bets $3
+echsecution: calls $3
+*** TURN *** [7s 4h 6d] [Th]
+Ultrafranke: bets $6
+echsecution: calls $6
+*** RIVER *** [7s 4h 6d Th] [Js]
+Ultrafranke: bets $6
+echsecution: folds
+Uncalled bet ($6) returned to Ultrafranke
+Ultrafranke collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7s 4h 6d Th Js]
+Seat 1: echsecution (button) (small blind) folded on the River
+Seat 2: Ultrafranke (big blind) collected ($29.50)
+
+
+PokerStars Hand #147265952103:  Hold'em Limit ($3/$6 USD) - 2016/01/18 14:07:29 ET
+Table 'Mancunia II' 2-max Seat #2 is the button
+Seat 1: echsecution ($72 in chips)
+Seat 2: Ultrafranke ($141.14 in chips)
+Ultrafranke: posts small blind $1
+echsecution: posts big blind $3
+*** HOLE CARDS ***
+Ultrafranke: raises $3 to $6
+echsecution: raises $3 to $9
+Ultrafranke: calls $3
+*** FLOP *** [Ah Td 4d]
+echsecution: bets $3
+Ultrafranke: calls $3
+*** TURN *** [Ah Td 4d] [3c]
+echsecution: bets $6
+Ultrafranke: calls $6
+*** RIVER *** [Ah Td 4d 3c] [Kc]
+echsecution: bets $6
+Ultrafranke: calls $6
+*** SHOW DOWN ***
+echsecution: shows [9s Ts] (a pair of Tens)
+Ultrafranke: shows [Th Ks] (two pair, Kings and Tens)
+Ultrafranke collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Ah Td 4d 3c Kc]
+Seat 1: echsecution (big blind) showed [9s Ts] and lost with a pair of Tens
+Seat 2: Ultrafranke (button) (small blind) showed [Th Ks] and won ($47.50) with two pair, Kings and Tens
+
+

@@ -1,0 +1,51 @@
+PokerStars Hand #174272622840:  Hold'em Limit ($3/$6 USD) - 2017/08/13 6:14:32 ET
+Table 'Mannucci' 6-max Seat #1 is the button
+Seat 1: NAUTJE1337 ($48 in chips)
+Seat 2: AzureCaper ($72 in chips)
+NAUTJE1337: posts small blind $1
+Psynto joins the table at seat #3
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+NAUTJE1337: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [Jh 2h Kh]
+AzureCaper: checks
+NAUTJE1337: bets $3
+AzureCaper: calls $3
+*** TURN *** [Jh 2h Kh] [Kc]
+AzureCaper: checks
+NAUTJE1337: bets $6
+AzureCaper: calls $6
+*** RIVER *** [Jh 2h Kh Kc] [3c]
+AzureCaper: checks
+NAUTJE1337: bets $6
+AzureCaper: calls $6
+*** SHOW DOWN ***
+NAUTJE1337: shows [6c 6s] (two pair, Kings and Sixes)
+AzureCaper: mucks hand
+NAUTJE1337 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Jh 2h Kh Kc 3c]
+Seat 1: NAUTJE1337 (button) (small blind) showed [6c 6s] and won ($41.50) with two pair, Kings and Sixes
+Seat 2: AzureCaper (big blind) mucked
+
+
+PokerStars Hand #174272700702:  Hold'em Limit ($3/$6 USD) - 2017/08/13 6:17:46 ET
+Table 'Mannucci' 6-max Seat #3 is the button
+Seat 2: AzureCaper ($91.53 in chips)
+Seat 3: Psynto ($73 in chips)
+Psynto: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+Psynto: raises $3 to $6
+AzureCaper: folds
+Uncalled bet ($3) returned to Psynto
+Psynto collected $6 from pot
+Psynto: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: AzureCaper (big blind) folded before Flop
+Seat 3: Psynto (button) (small blind) collected ($6)
+
+

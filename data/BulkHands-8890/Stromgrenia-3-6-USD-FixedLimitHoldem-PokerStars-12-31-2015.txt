@@ -1,0 +1,133 @@
+PokerStars Hand #146237361284:  Hold'em Limit ($3/$6 USD) - 2015/12/31 13:00:14 ET
+Table 'Stromgrenia' 2-max Seat #1 is the button
+Seat 1: moplab ($63 in chips)
+Seat 2: qokenit ($35.01 in chips)
+moplab: posts small blind $1
+qokenit: posts big blind $3
+*** HOLE CARDS ***
+moplab: raises $3 to $6
+qokenit: raises $3 to $9
+moplab: raises $3 to $12
+Betting is capped
+qokenit: calls $3
+*** FLOP *** [3d 8s 4c]
+qokenit: bets $3
+moplab: raises $3 to $6
+qokenit: raises $3 to $9
+moplab: raises $3 to $12
+Betting is capped
+qokenit: calls $3
+*** TURN *** [3d 8s 4c] [6s]
+qokenit: bets $6
+moplab: raises $6 to $12
+qokenit: folds
+Uncalled bet ($6) returned to moplab
+moplab collected $59.50 from pot
+moplab: doesn't show hand
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [3d 8s 4c 6s]
+Seat 1: moplab (button) (small blind) collected ($59.50)
+Seat 2: qokenit (big blind) folded on the Turn
+
+
+PokerStars Hand #146237388759:  Hold'em Limit ($3/$6 USD) - 2015/12/31 13:00:50 ET
+Table 'Stromgrenia' 2-max Seat #2 is the button
+Seat 1: moplab ($87.49 in chips)
+Seat 2: qokenit ($9.62 in chips)
+qokenit: posts small blind $1
+moplab: posts big blind $3
+*** HOLE CARDS ***
+qokenit: calls $2
+moplab: checks
+*** FLOP *** [3s 5c 8s]
+moplab: bets $3
+qokenit: folds
+Uncalled bet ($3) returned to moplab
+moplab collected $5.88 from pot
+moplab: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [3s 5c 8s]
+Seat 1: moplab (big blind) collected ($5.88)
+Seat 2: qokenit (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #146237378091:  Hold'em Limit ($3/$6 USD) - 2015/12/31 13:00:36 ET
+Table 'Stromgrenia' 2-max Seat #1 is the button
+Seat 1: moplab ($92.40 in chips)
+Seat 2: qokenit ($4.91 in chips)
+moplab: posts small blind $1
+qokenit: posts big blind $3
+*** HOLE CARDS ***
+moplab: calls $2
+qokenit: checks
+*** FLOP *** [Jh Tc 6d]
+qokenit: checks
+moplab: checks
+*** TURN *** [Jh Tc 6d] [7d]
+qokenit: bets $1.91 and is all-in
+moplab: calls $1.91
+*** RIVER *** [Jh Tc 6d 7d] [Js]
+*** SHOW DOWN ***
+qokenit: shows [Ad 5d] (a pair of Jacks)
+moplab: shows [Kh 4h] (a pair of Jacks - lower kicker)
+qokenit collected $9.62 from pot
+*** SUMMARY ***
+Total pot $9.82 | Rake $0.20
+Board [Jh Tc 6d 7d Js]
+Seat 1: moplab (button) (small blind) showed [Kh 4h] and lost with a pair of Jacks
+Seat 2: qokenit (big blind) showed [Ad 5d] and won ($9.62) with a pair of Jacks
+
+
+PokerStars Hand #146237399991:  Hold'em Limit ($3/$6 USD) - 2015/12/31 13:01:05 ET
+Table 'Stromgrenia' 2-max Seat #1 is the button
+Seat 1: moplab ($90.37 in chips)
+Seat 2: qokenit ($6.62 in chips)
+moplab: posts small blind $1
+qokenit: posts big blind $3
+*** HOLE CARDS ***
+moplab: calls $2
+qokenit: checks
+*** FLOP *** [5c As 8d]
+qokenit: bets $3
+moplab: calls $3
+*** TURN *** [5c As 8d] [4d]
+qokenit: bets $0.62 and is all-in
+moplab: calls $0.62
+*** RIVER *** [5c As 8d 4d] [2d]
+*** SHOW DOWN ***
+qokenit: shows [7c 9c] (high card Ace)
+moplab: shows [Ad 6h] (a pair of Aces)
+moplab collected $12.98 from pot
+*** SUMMARY ***
+Total pot $13.24 | Rake $0.26
+Board [5c As 8d 4d 2d]
+Seat 1: moplab (button) (small blind) showed [Ad 6h] and won ($12.98) with a pair of Aces
+Seat 2: qokenit (big blind) showed [7c 9c] and lost with high card Ace
+
+
+PokerStars Hand #146237368927:  Hold'em Limit ($3/$6 USD) - 2015/12/31 13:00:24 ET
+Table 'Stromgrenia' 2-max Seat #2 is the button
+Seat 1: moplab ($92.50 in chips)
+Seat 2: qokenit ($5.01 in chips)
+qokenit: posts small blind $1
+moplab: posts big blind $3
+*** HOLE CARDS ***
+qokenit: raises $2.01 to $5.01 and is all-in
+moplab: calls $2.01
+*** FLOP *** [4c 7h 4h]
+*** TURN *** [4c 7h 4h] [2c]
+*** RIVER *** [4c 7h 4h 2c] [7s]
+*** SHOW DOWN ***
+moplab: shows [Qs 6d] (two pair, Sevens and Fours)
+qokenit: shows [3d Qd] (two pair, Sevens and Fours)
+moplab collected $4.91 from pot
+qokenit collected $4.91 from pot
+*** SUMMARY ***
+Total pot $10.02 | Rake $0.20
+Board [4c 7h 4h 2c 7s]
+Seat 1: moplab (big blind) showed [Qs 6d] and won ($4.91) with two pair, Sevens and Fours
+Seat 2: qokenit (button) (small blind) showed [3d Qd] and won ($4.91) with two pair, Sevens and Fours
+
+

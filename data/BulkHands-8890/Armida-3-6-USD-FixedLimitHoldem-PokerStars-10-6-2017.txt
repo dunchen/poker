@@ -1,0 +1,31 @@
+PokerStars Hand #176555476696:  Hold'em Limit ($3/$6 USD) - 2017/10/06 6:30:18 ET
+Table 'Armida' 6-max Seat #5 is the button
+Seat 5: LTTsci-tech ($153.84 in chips)
+Seat 6: Sirocko ($75 in chips)
+LTTsci-tech: posts small blind $1
+Sirocko: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri leaves the table
+LTTsci-tech: raises $3 to $6
+Sirocko: calls $3
+*** FLOP *** [Qh 3s 4h]
+Sirocko: checks
+LTTsci-tech: bets $3
+Sirocko: calls $3
+*** TURN *** [Qh 3s 4h] [Js]
+Sirocko: checks
+LTTsci-tech: checks
+*** RIVER *** [Qh 3s 4h Js] [Kd]
+Sirocko: checks
+LTTsci-tech: checks
+*** SHOW DOWN ***
+Sirocko: shows [Ac 8d] (high card Ace)
+LTTsci-tech: mucks hand
+Sirocko collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qh 3s 4h Js Kd]
+Seat 5: LTTsci-tech (button) (small blind) mucked
+Seat 6: Sirocko (big blind) showed [Ac 8d] and won ($17.64) with high card Ace
+
+

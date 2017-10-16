@@ -1,0 +1,116 @@
+PokerStars Hand #163800101683:  Hold'em Limit ($3/$6 USD) - 2016/12/30 20:40:02 ET
+Table 'Glarona' 6-max Seat #2 is the button
+Seat 1: ToDaFelt ($111 in chips)
+Seat 2: ajmaster333 ($63.07 in chips)
+ajmaster333: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+ajmaster333: calls $2
+ToDaFelt: raises $3 to $6
+ajmaster333: calls $3
+*** FLOP *** [6h Th Tc]
+ToDaFelt: bets $3
+ajmaster333: calls $3
+*** TURN *** [6h Th Tc] [4s]
+ToDaFelt: bets $6
+ajmaster333: calls $6
+*** RIVER *** [6h Th Tc 4s] [2c]
+ToDaFelt: checks
+ajmaster333: checks
+*** SHOW DOWN ***
+ToDaFelt: shows [7d Kd] (a pair of Tens)
+ajmaster333: shows [Ac 3h] (a pair of Tens - Ace kicker)
+ajmaster333 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6h Th Tc 4s 2c]
+Seat 1: ToDaFelt (big blind) showed [7d Kd] and lost with a pair of Tens
+Seat 2: ajmaster333 (button) (small blind) showed [Ac 3h] and won ($29.50) with a pair of Tens
+
+
+PokerStars Hand #163800075922:  Hold'em Limit ($3/$6 USD) - 2016/12/30 20:39:19 ET
+Table 'Glarona' 6-max Seat #1 is the button
+Seat 1: ToDaFelt ($120 in chips)
+Seat 2: ajmaster333 ($54.43 in chips)
+ToDaFelt: posts small blind $1
+ajmaster333: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+ajmaster333: calls $3
+*** FLOP *** [6d Qc As]
+ajmaster333: checks
+ToDaFelt: bets $3
+ajmaster333: calls $3
+*** TURN *** [6d Qc As] [4d]
+ajmaster333: checks
+ToDaFelt: checks
+*** RIVER *** [6d Qc As 4d] [Ac]
+ajmaster333: checks
+ToDaFelt: checks
+*** SHOW DOWN ***
+ajmaster333: shows [Kd 6c] (two pair, Aces and Sixes)
+ToDaFelt: mucks hand
+ajmaster333 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6d Qc As 4d Ac]
+Seat 1: ToDaFelt (button) (small blind) mucked
+Seat 2: ajmaster333 (big blind) showed [Kd 6c] and won ($17.64) with two pair, Aces and Sixes
+
+
+PokerStars Hand #163800135706:  Hold'em Limit ($3/$6 USD) - 2016/12/30 20:41:00 ET
+Table 'Glarona' 6-max Seat #2 is the button
+Seat 1: ToDaFelt ($84 in chips)
+Seat 2: ajmaster333 ($89.09 in chips)
+ajmaster333: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+ajmaster333: raises $3 to $6
+ToDaFelt: raises $3 to $9
+ajmaster333: calls $3
+*** FLOP *** [5s Kc 3c]
+ToDaFelt: bets $3
+ajmaster333: calls $3
+*** TURN *** [5s Kc 3c] [3d]
+ToDaFelt: bets $6
+ajmaster333: calls $6
+*** RIVER *** [5s Kc 3c 3d] [7s]
+ToDaFelt: bets $6
+ajmaster333: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [5d 5h] (a full house, Fives full of Threes)
+ajmaster333: mucks hand
+ToDaFelt collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [5s Kc 3c 3d 7s]
+Seat 1: ToDaFelt (big blind) showed [5d 5h] and won ($47.50) with a full house, Fives full of Threes
+Seat 2: ajmaster333 (button) (small blind) mucked
+
+
+PokerStars Hand #163800120652:  Hold'em Limit ($3/$6 USD) - 2016/12/30 20:40:35 ET
+Table 'Glarona' 6-max Seat #1 is the button
+Seat 1: ToDaFelt ($96 in chips)
+Seat 2: ajmaster333 ($77.57 in chips)
+ToDaFelt: posts small blind $1
+ajmaster333: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+ajmaster333: raises $3 to $9
+ToDaFelt: calls $3
+*** FLOP *** [2c 8s 5h]
+ajmaster333: bets $3
+ToDaFelt: calls $3
+*** TURN *** [2c 8s 5h] [Kh]
+ajmaster333: bets $6
+ToDaFelt: folds
+Uncalled bet ($6) returned to ajmaster333
+ajmaster333 collected $23.52 from pot
+ajmaster333: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [2c 8s 5h Kh]
+Seat 1: ToDaFelt (button) (small blind) folded on the Turn
+Seat 2: ajmaster333 (big blind) collected ($23.52)
+
+

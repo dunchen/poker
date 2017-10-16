@@ -1,0 +1,118 @@
+PokerStars Hand #160305685146:  Hold'em Limit ($3/$6 USD) - 2016/10/22 20:37:40 ET
+Table 'Castalia' 6-max Seat #3 is the button
+Seat 3: Martinpeking77 ($50 in chips)
+Seat 4: assitoni ($72 in chips)
+Martinpeking77: posts small blind $1
+assitoni: posts big blind $3
+*** HOLE CARDS ***
+Martinpeking77: calls $2
+assitoni: raises $3 to $6
+Martinpeking77: calls $3
+*** FLOP *** [Ks Qd 6h]
+assitoni: bets $3
+Martinpeking77: calls $3
+*** TURN *** [Ks Qd 6h] [Td]
+assitoni: checks
+Martinpeking77: bets $6
+assitoni: calls $6
+*** RIVER *** [Ks Qd 6h Td] [3d]
+assitoni: checks
+Martinpeking77: bets $6
+assitoni: calls $6
+*** SHOW DOWN ***
+Martinpeking77: shows [7d Kh] (a pair of Kings)
+assitoni: mucks hand
+Martinpeking77 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ks Qd 6h Td 3d]
+Seat 3: Martinpeking77 (button) (small blind) showed [7d Kh] and won ($41.50) with a pair of Kings
+Seat 4: assitoni (big blind) mucked
+
+
+PokerStars Hand #160305704722:  Hold'em Limit ($3/$6 USD) - 2016/10/22 20:38:22 ET
+Table 'Castalia' 6-max Seat #4 is the button
+Seat 3: Martinpeking77 ($70.50 in chips)
+Seat 4: assitoni ($72 in chips)
+assitoni: posts small blind $1
+Martinpeking77: posts big blind $3
+*** HOLE CARDS ***
+assitoni: raises $3 to $6
+Martinpeking77: calls $3
+*** FLOP *** [8d As Kh]
+Martinpeking77: checks
+assitoni: bets $3
+Martinpeking77: folds
+Uncalled bet ($3) returned to assitoni
+assitoni collected $11.76 from pot
+assitoni: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8d As Kh]
+Seat 3: Martinpeking77 (big blind) folded on the Flop
+Seat 4: assitoni (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #160305712512:  Hold'em Limit ($3/$6 USD) - 2016/10/22 20:38:39 ET
+Table 'Castalia' 6-max Seat #3 is the button
+Seat 3: Martinpeking77 ($64.50 in chips)
+Seat 4: assitoni ($77.76 in chips)
+Martinpeking77: posts small blind $1
+assitoni: posts big blind $3
+*** HOLE CARDS ***
+Martinpeking77: calls $2
+assitoni: checks
+*** FLOP *** [Ts 2s 5s]
+assitoni: checks
+Martinpeking77: checks
+*** TURN *** [Ts 2s 5s] [2c]
+assitoni: bets $6
+Martinpeking77: calls $6
+*** RIVER *** [Ts 2s 5s 2c] [5h]
+assitoni: bets $6
+Martinpeking77: calls $6
+*** SHOW DOWN ***
+assitoni: shows [3h 4c] (two pair, Fives and Deuces)
+Martinpeking77: shows [Qs 6c] (two pair, Fives and Deuces - Queen kicker)
+Martinpeking77 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ts 2s 5s 2c 5h]
+Seat 3: Martinpeking77 (button) (small blind) showed [Qs 6c] and won ($29.50) with two pair, Fives and Deuces
+Seat 4: assitoni (big blind) showed [3h 4c] and lost with two pair, Fives and Deuces
+
+
+PokerStars Hand #160305724122:  Hold'em Limit ($3/$6 USD) - 2016/10/22 20:39:03 ET
+Table 'Castalia' 6-max Seat #4 is the button
+Seat 3: Martinpeking77 ($79 in chips)
+Seat 4: assitoni ($72 in chips)
+assitoni: posts small blind $1
+Martinpeking77: posts big blind $3
+*** HOLE CARDS ***
+assitoni: raises $3 to $6
+Martinpeking77: calls $3
+*** FLOP *** [Js 5s 3s]
+Martinpeking77: checks
+assitoni: bets $3
+Martinpeking77: raises $3 to $6
+assitoni: raises $3 to $9
+Martinpeking77: calls $3
+*** TURN *** [Js 5s 3s] [Jc]
+Martinpeking77: checks
+assitoni: bets $6
+Martinpeking77: raises $6 to $12
+assitoni: calls $6
+*** RIVER *** [Js 5s 3s Jc] [Qd]
+Martinpeking77: bets $6
+assitoni: calls $6
+*** SHOW DOWN ***
+Martinpeking77: shows [Jd 3h] (a full house, Jacks full of Threes)
+assitoni: mucks hand
+Martinpeking77 collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [Js 5s 3s Jc Qd]
+Seat 3: Martinpeking77 (big blind) showed [Jd 3h] and won ($65.50) with a full house, Jacks full of Threes
+Seat 4: assitoni (button) (small blind) mucked
+
+

@@ -1,0 +1,32 @@
+PokerStars Hand #166126137716:  Hold'em Limit ($3/$6 USD) - 2017/02/12 19:32:15 ET
+Table 'Probitas II' 6-max Seat #6 is the button
+Seat 3: knas4 ($192.77 in chips)
+Seat 6: RaisemyNut$ ($61 in chips)
+RaisemyNut$: posts small blind $1
+karambakilla: is sitting out
+knas4: posts big blind $3
+*** HOLE CARDS ***
+RaisemyNut$: raises $3 to $6
+knas4: calls $3
+*** FLOP *** [8s 2s 6d]
+knas4: checks
+karambakilla leaves the table
+RaisemyNut$: bets $3
+knas4: calls $3
+*** TURN *** [8s 2s 6d] [Tc]
+knas4: bets $6
+RaisemyNut$: calls $6
+*** RIVER *** [8s 2s 6d Tc] [3h]
+knas4: bets $6
+RaisemyNut$: calls $6
+*** SHOW DOWN ***
+knas4: shows [Ts Qh] (a pair of Tens)
+RaisemyNut$: mucks hand
+knas4 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [8s 2s 6d Tc 3h]
+Seat 3: knas4 (big blind) showed [Ts Qh] and won ($41.50) with a pair of Tens
+Seat 6: RaisemyNut$ (button) (small blind) mucked
+
+

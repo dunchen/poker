@@ -1,0 +1,109 @@
+PokerStars Hand #172102610612:  Hold'em Limit ($3/$6 USD) - 2017/06/22 13:25:00 ET
+Table 'Meliboea' 6-max Seat #4 is the button
+Seat 1: x0ticer ($47.50 in chips)
+Seat 4: Great_Kang ($120 in chips)
+Great_Kang: posts small blind $1
+x0ticer: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+x0ticer: calls $3
+*** FLOP *** [9s 9c 8d]
+x0ticer: checks
+Great_Kang: bets $3
+x0ticer: calls $3
+*** TURN *** [9s 9c 8d] [2d]
+x0ticer: checks
+Great_Kang: bets $6
+x0ticer: calls $6
+*** RIVER *** [9s 9c 8d 2d] [4h]
+x0ticer: checks
+Great_Kang: bets $6
+x0ticer: raises $6 to $12
+Great_Kang: calls $6
+*** SHOW DOWN ***
+x0ticer: shows [6h 9h] (three of a kind, Nines)
+Great_Kang: mucks hand
+x0ticer collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [9s 9c 8d 2d 4h]
+Seat 1: x0ticer (big blind) showed [6h 9h] and won ($53.50) with three of a kind, Nines
+Seat 4: Great_Kang (button) (small blind) mucked
+
+
+PokerStars Hand #172102651587:  Hold'em Limit ($3/$6 USD) - 2017/06/22 13:26:01 ET
+Table 'Meliboea' 6-max Seat #1 is the button
+Seat 1: x0ticer ($74 in chips)
+Seat 4: Great_Kang ($120 in chips)
+x0ticer: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+x0ticer: folds
+Uncalled bet ($2) returned to Great_Kang
+Great_Kang collected $2 from pot
+Great_Kang: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: x0ticer (button) (small blind) folded before Flop
+Seat 4: Great_Kang (big blind) collected ($2)
+
+
+PokerStars Hand #172103478348:  Hold'em Limit ($3/$6 USD) - 2017/06/22 13:46:37 ET
+Table 'Meliboea' 6-max Seat #4 is the button
+Seat 3: mrkieler ($94.84 in chips)
+Seat 4: Great_Kang ($121 in chips)
+Great_Kang: posts small blind $1
+mrkieler: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+mrkieler: calls $3
+*** FLOP *** [3s 3c 2h]
+mrkieler: checks
+Great_Kang: bets $3
+mrkieler: raises $3 to $6
+Great_Kang: calls $3
+*** TURN *** [3s 3c 2h] [6d]
+mrkieler: bets $6
+NewRocker joins the table at seat #5
+Jack_Wu1985 joins the table at seat #6
+Great_Kang: raises $6 to $12
+mrkieler: calls $6
+*** RIVER *** [3s 3c 2h 6d] [Th]
+mrkieler: checks
+krytalex joins the table at seat #1
+Great_Kang: bets $6
+mrkieler: calls $6
+*** SHOW DOWN ***
+Great_Kang: shows [7s 7h] (two pair, Sevens and Threes)
+mrkieler: mucks hand
+Great_Kang collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [3s 3c 2h 6d Th]
+Seat 3: mrkieler (big blind) mucked
+Seat 4: Great_Kang (button) (small blind) showed [7s 7h] and won ($59.50) with two pair, Sevens and Threes
+
+
+PokerStars Hand #172103503465:  Hold'em Limit ($3/$6 USD) - 2017/06/22 13:47:15 ET
+Table 'Meliboea' 6-max Seat #3 is the button
+Seat 3: mrkieler ($64.84 in chips)
+Seat 4: Great_Kang ($150.50 in chips)
+mrkieler: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+mrkieler: raises $3 to $6
+Great_Kang: calls $3
+*** FLOP *** [Jc 7d 4d]
+Great_Kang: checks
+mrkieler: bets $3
+Great_Kang: folds
+Uncalled bet ($3) returned to mrkieler
+mrkieler collected $11.76 from pot
+mrkieler: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jc 7d 4d]
+Seat 3: mrkieler (button) (small blind) collected ($11.76)
+Seat 4: Great_Kang (big blind) folded on the Flop
+
+

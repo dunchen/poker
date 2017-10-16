@@ -1,0 +1,56 @@
+PokerStars Hand #173609521764:  Hold'em Limit ($3/$6 USD) - 2017/07/28 6:13:27 ET
+Table 'Gunlod' 6-max Seat #1 is the button
+Seat 1: Opal10 ($120.47 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+Opal10: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Opal10: calls $2
+VolkovDmitri: raises $3 to $6
+Opal10: calls $3
+*** FLOP *** [6d 6s 8s]
+VolkovDmitri: bets $3
+Opal10: calls $3
+*** TURN *** [6d 6s 8s] [3c]
+Psynto joins the table at seat #2
+VolkovDmitri: checks
+Opal10: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [6d 6s 8s 3c] [Qh]
+VolkovDmitri: checks
+Opal10: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+Opal10: shows [4h 5c] (a pair of Sixes)
+VolkovDmitri: shows [Kd Jh] (a pair of Sixes - King kicker)
+VolkovDmitri collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [6d 6s 8s 3c Qh]
+Seat 1: Opal10 (button) (small blind) showed [4h 5c] and lost with a pair of Sixes
+Seat 4: VolkovDmitri (big blind) showed [Kd Jh] and won ($41.50) with a pair of Sixes
+
+
+PokerStars Hand #173609691643:  Hold'em Limit ($3/$6 USD) - 2017/07/28 6:21:13 ET
+Table 'Gunlod' 6-max Seat #3 is the button
+Seat 2: Psynto ($81.01 in chips)
+Seat 3: InvHam ($135.28 in chips)
+InvHam: posts small blind $1
+VolkovDmitri: is sitting out
+krossguard: is sitting out
+Psynto: posts big blind $3
+*** HOLE CARDS ***
+InvHam: raises $3 to $6
+Opal10 leaves the table
+VolkovDmitri leaves the table
+Psynto: folds
+Uncalled bet ($3) returned to InvHam
+krossguard leaves the table
+InvHam collected $6 from pot
+InvHam: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: Psynto (big blind) folded before Flop
+Seat 3: InvHam (button) (small blind) collected ($6)
+
+

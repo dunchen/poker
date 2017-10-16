@@ -1,0 +1,34 @@
+PokerStars Hand #154841851762:  Hold'em Limit ($3/$6 USD) - 2016/06/17 5:51:06 ET
+Table 'Erynia' 6-max Seat #4 is the button
+Seat 2: tomte999 ($234.34 in chips)
+Seat 4: Garuda Black ($126.82 in chips)
+Garuda Black: posts small blind $1
+BIZE Terence: is sitting out
+TopDJTex: is sitting out
+tomte999: posts big blind $3
+*** HOLE CARDS ***
+BIZE Terence leaves the table
+TopDJTex leaves the table
+Garuda Black: raises $3 to $6
+tomte999: calls $3
+*** FLOP *** [Ad 6c Kd]
+tomte999: checks
+Garuda Black: bets $3
+tomte999: calls $3
+*** TURN *** [Ad 6c Kd] [7s]
+tomte999: checks
+Garuda Black: checks
+*** RIVER *** [Ad 6c Kd 7s] [4h]
+tomte999: bets $6
+Garuda Black: calls $6
+*** SHOW DOWN ***
+tomte999: shows [9s Ks] (a pair of Kings)
+Garuda Black: mucks hand
+tomte999 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ad 6c Kd 7s 4h]
+Seat 2: tomte999 (big blind) showed [9s Ks] and won ($29.50) with a pair of Kings
+Seat 4: Garuda Black (button) (small blind) mucked
+
+

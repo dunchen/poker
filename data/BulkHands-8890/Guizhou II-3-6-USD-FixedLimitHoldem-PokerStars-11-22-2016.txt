@@ -1,0 +1,65 @@
+PokerStars Hand #161787444116:  Hold'em Limit ($3/$6 USD) - 2016/11/22 9:06:59 ET
+Table 'Guizhou II' 6-max Seat #2 is the button
+Seat 2: davyyyyyyy ($100.16 in chips)
+Seat 3: MTails ($120 in chips)
+davyyyyyyy: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+davyyyyyyy: raises $3 to $6
+MTails: raises $3 to $9
+davyyyyyyy: raises $3 to $12
+Betting is capped
+grabaz joins the table at seat #4
+MTails: calls $3
+*** FLOP *** [6d Th 5c]
+MTails: checks
+davyyyyyyy: bets $3
+MTails: calls $3
+*** TURN *** [6d Th 5c] [8c]
+MTails: checks
+davyyyyyyy: bets $6
+MTails: calls $6
+*** RIVER *** [6d Th 5c 8c] [Tc]
+MTails: bets $6
+davyyyyyyy: calls $6
+*** SHOW DOWN ***
+MTails: shows [9c 9h] (two pair, Tens and Nines)
+davyyyyyyy: shows [Kh Ks] (two pair, Kings and Tens)
+davyyyyyyy collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [6d Th 5c 8c Tc]
+Seat 2: davyyyyyyy (button) (small blind) showed [Kh Ks] and won ($53.50) with two pair, Kings and Tens
+Seat 3: MTails (big blind) showed [9c 9h] and lost with two pair, Tens and Nines
+
+
+PokerStars Hand #161787473603:  Hold'em Limit ($3/$6 USD) - 2016/11/22 9:07:47 ET
+Table 'Guizhou II' 6-max Seat #4 is the button
+Seat 3: MTails ($92 in chips)
+Seat 4: grabaz ($241 in chips)
+grabaz: posts small blind $1
+davyyyyyyy: is sitting out
+MTails: posts big blind $3
+*** HOLE CARDS ***
+grabaz: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [Th Ts Kc]
+MTails: checks
+grabaz: checks
+*** TURN *** [Th Ts Kc] [9h]
+MTails: bets $6
+grabaz: calls $6
+*** RIVER *** [Th Ts Kc 9h] [7d]
+MTails: checks
+grabaz: bets $6
+MTails: folds
+Uncalled bet ($6) returned to grabaz
+grabaz collected $23.52 from pot
+grabaz: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Th Ts Kc 9h 7d]
+Seat 3: MTails (big blind) folded on the River
+Seat 4: grabaz (button) (small blind) collected ($23.52)
+
+

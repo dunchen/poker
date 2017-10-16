@@ -1,0 +1,86 @@
+PokerStars Hand #166441173381:  Hold'em Limit ($3/$6 USD) - 2017/02/19 6:56:04 ET
+Table 'Ute II' 10-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 6: misterbill77 ($60 in chips)
+VolkovDmitri: posts small blind $1
+misterbill77: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+misterbill77: calls $3
+*** FLOP *** [6d 9c 2s]
+misterbill77: checks
+VolkovDmitri: bets $3
+misterbill77: calls $3
+*** TURN *** [6d 9c 2s] [Td]
+misterbill77: checks
+VolkovDmitri: checks
+*** RIVER *** [6d 9c 2s Td] [9d]
+misterbill77: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to misterbill77
+misterbill77 collected $17.64 from pot
+misterbill77: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6d 9c 2s Td 9d]
+Seat 1: VolkovDmitri (button) (small blind) folded on the River
+Seat 6: misterbill77 (big blind) collected ($17.64)
+
+
+PokerStars Hand #166441199474:  Hold'em Limit ($3/$6 USD) - 2017/02/19 6:56:58 ET
+Table 'Ute II' 10-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 6: misterbill77 ($98.14 in chips)
+VolkovDmitri: posts small blind $1
+misterbill77: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+misterbill77: calls $3
+*** FLOP *** [4h 3c Td]
+misterbill77: checks
+VolkovDmitri: bets $3
+raccoon2017 joins the table at seat #8
+misterbill77: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4h 3c Td]
+Seat 1: VolkovDmitri (button) (small blind) collected ($11.76)
+Seat 6: misterbill77 (big blind) folded on the Flop
+
+
+PokerStars Hand #166441184833:  Hold'em Limit ($3/$6 USD) - 2017/02/19 6:56:28 ET
+Table 'Ute II' 10-max Seat #6 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 6: misterbill77 ($68.64 in chips)
+misterbill77: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+misterbill77: calls $2
+VolkovDmitri: raises $3 to $6
+misterbill77: calls $3
+*** FLOP *** [As 9s Kd]
+VolkovDmitri: bets $3
+misterbill77: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [As 9s Kd] [3s]
+VolkovDmitri: bets $6
+misterbill77: raises $6 to $12
+VolkovDmitri: calls $6
+*** RIVER *** [As 9s Kd 3s] [6s]
+VolkovDmitri: checks
+misterbill77: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+misterbill77: shows [7s Ks] (a flush, Ace high)
+VolkovDmitri: mucks hand
+misterbill77 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [As 9s Kd 3s 6s]
+Seat 1: VolkovDmitri (big blind) mucked
+Seat 6: misterbill77 (button) (small blind) showed [7s Ks] and won ($59.50) with a flush, Ace high
+
+

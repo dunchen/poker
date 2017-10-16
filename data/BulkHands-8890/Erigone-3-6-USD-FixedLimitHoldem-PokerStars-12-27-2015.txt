@@ -1,0 +1,107 @@
+PokerStars Hand #146027687032:  Hold'em Limit ($3/$6 USD) - 2015/12/27 17:17:34 ET
+Table 'Erigone' 6-max Seat #3 is the button
+Seat 3: MilPopov ($57.45 in chips)
+Seat 6: McHaddock ($82 in chips)
+MilPopov: posts small blind $1
+PelonCabelao: is sitting out
+McHaddock: posts big blind $3
+*** HOLE CARDS ***
+MilPopov: raises $3 to $6
+McHaddock: raises $3 to $9
+MilPopov: calls $3
+*** FLOP *** [Th 7s Js]
+McHaddock: bets $3
+MilPopov: calls $3
+*** TURN *** [Th 7s Js] [Ad]
+McHaddock: bets $6
+MilPopov: calls $6
+*** RIVER *** [Th 7s Js Ad] [3d]
+McHaddock: bets $6
+MilPopov: calls $6
+*** SHOW DOWN ***
+McHaddock: shows [2s 6s] (high card Ace)
+MilPopov: shows [Tc 5s] (a pair of Tens)
+MilPopov collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Th 7s Js Ad 3d]
+Seat 3: MilPopov (button) (small blind) showed [Tc 5s] and won ($47.50) with a pair of Tens
+Seat 6: McHaddock (big blind) showed [2s 6s] and lost with high card Ace
+
+
+PokerStars Hand #146027802258:  Hold'em Limit ($3/$6 USD) - 2015/12/27 17:18:49 ET
+Table 'Erigone' 6-max Seat #4 is the button
+Seat 3: MilPopov ($124.83 in chips)
+Seat 4: PelonCabelao ($94.83 in chips)
+PelonCabelao: posts small blind $1
+MilPopov: posts big blind $3
+*** HOLE CARDS ***
+PelonCabelao: folds
+Uncalled bet ($2) returned to MilPopov
+MilPopov collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: MilPopov (big blind) collected ($2)
+Seat 4: PelonCabelao (button) (small blind) folded before Flop
+
+
+PokerStars Hand #146027711452:  Hold'em Limit ($3/$6 USD) - 2015/12/27 17:17:50 ET
+Table 'Erigone' 6-max Seat #6 is the button
+Seat 3: MilPopov ($80.95 in chips)
+Seat 6: McHaddock ($58 in chips)
+McHaddock: posts small blind $1
+MilPopov: posts big blind $3
+*** HOLE CARDS ***
+McHaddock: raises $3 to $6
+MilPopov: calls $3
+*** FLOP *** [7h 7c 2s]
+MilPopov: checks
+McHaddock: bets $3
+MilPopov: calls $3
+*** TURN *** [7h 7c 2s] [Kd]
+MilPopov: checks
+McHaddock: bets $6
+MilPopov: calls $6
+*** RIVER *** [7h 7c 2s Kd] [8d]
+MilPopov: checks
+McHaddock: bets $6
+MilPopov: calls $6
+*** SHOW DOWN ***
+McHaddock: shows [Qs Ts] (a pair of Sevens)
+MilPopov: shows [2d 9d] (two pair, Sevens and Deuces)
+MilPopov collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [7h 7c 2s Kd 8d]
+Seat 3: MilPopov (big blind) showed [2d 9d] and won ($41.50) with two pair, Sevens and Deuces
+Seat 6: McHaddock (button) (small blind) showed [Qs Ts] and lost with a pair of Sevens
+
+
+PokerStars Hand #146027831347:  Hold'em Limit ($3/$6 USD) - 2015/12/27 17:19:08 ET
+Table 'Erigone' 6-max Seat #3 is the button
+Seat 3: MilPopov ($125.83 in chips)
+Seat 4: PelonCabelao ($93.83 in chips)
+MilPopov: posts small blind $1
+PelonCabelao: posts big blind $3
+*** HOLE CARDS ***
+MilPopov: raises $3 to $6
+PelonCabelao: raises $3 to $9
+MilPopov: raises $3 to $12
+Betting is capped
+PelonCabelao: calls $3
+*** FLOP *** [5c Jh 5s]
+PelonCabelao: checks
+MilPopov: bets $3
+PelonCabelao: raises $3 to $6
+MilPopov: folds
+Uncalled bet ($3) returned to PelonCabelao
+MilPopov leaves the table
+PelonCabelao collected $29.50 from pot
+PelonCabelao: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5c Jh 5s]
+Seat 3: MilPopov (button) (small blind) folded on the Flop
+Seat 4: PelonCabelao (big blind) collected ($29.50)
+
+

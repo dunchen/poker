@@ -1,0 +1,75 @@
+PokerStars Hand #163309262887:  Hold'em Limit ($3/$6 USD) - 2016/12/21 16:02:59 ET
+Table 'Arabella' 6-max Seat #6 is the button
+Seat 1: ToDaFelt ($120 in chips)
+Seat 6: przemasek ($120 in chips)
+przemasek: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+przemasek: calls $2
+ToDaFelt: raises $3 to $6
+przemasek: calls $3
+*** FLOP *** [Ad Ac 5d]
+GRAILKO joins the table at seat #2
+ToDaFelt: bets $3
+przemasek: raises $3 to $6
+ToDaFelt: calls $3
+*** TURN *** [Ad Ac 5d] [Qd]
+ToDaFelt: checks
+przemasek: checks
+*** RIVER *** [Ad Ac 5d Qd] [6d]
+ToDaFelt: bets $6
+przemasek: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [8s Jd] (a flush, Ace high)
+przemasek: mucks hand
+ToDaFelt collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Ad Ac 5d Qd 6d]
+Seat 1: ToDaFelt (big blind) showed [8s Jd] and won ($35.50) with a flush, Ace high
+Seat 6: przemasek (button) (small blind) mucked
+
+
+PokerStars Hand #163310990313:  Hold'em Limit ($3/$6 USD) - 2016/12/21 16:32:19 ET
+Table 'Arabella' 6-max Seat #3 is the button
+Seat 1: ToDaFelt ($98.52 in chips)
+Seat 3: oldtimers XX ($8.42 in chips)
+oldtimers XX: posts small blind $1
+vestimokrec: is sitting out
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+oldtimers XX: folds
+Uncalled bet ($2) returned to ToDaFelt
+ToDaFelt collected $2 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: ToDaFelt (big blind) collected ($2)
+Seat 3: oldtimers XX (button) (small blind) folded before Flop
+
+
+PokerStars Hand #163310996073:  Hold'em Limit ($3/$6 USD) - 2016/12/21 16:32:25 ET
+Table 'Arabella' 6-max Seat #1 is the button
+Seat 1: ToDaFelt ($99.52 in chips)
+Seat 3: oldtimers XX ($7.42 in chips)
+ToDaFelt: posts small blind $1
+oldtimers XX: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+oldtimers XX: calls $3
+*** FLOP *** [9s 8d 9c]
+oldtimers XX: bets $1.42 and is all-in
+ToDaFelt: calls $1.42
+*** TURN *** [9s 8d 9c] [Jd]
+*** RIVER *** [9s 8d 9c Jd] [2d]
+*** SHOW DOWN ***
+oldtimers XX: shows [7h Qc] (a pair of Nines)
+ToDaFelt: shows [9h 7d] (three of a kind, Nines)
+ToDaFelt collected $14.54 from pot
+*** SUMMARY ***
+Total pot $14.84 | Rake $0.30
+Board [9s 8d 9c Jd 2d]
+Seat 1: ToDaFelt (button) (small blind) showed [9h 7d] and won ($14.54) with three of a kind, Nines
+Seat 3: oldtimers XX (big blind) showed [7h Qc] and lost with a pair of Nines
+
+

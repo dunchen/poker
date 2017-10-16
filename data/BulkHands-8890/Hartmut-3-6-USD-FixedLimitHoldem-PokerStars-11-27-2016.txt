@@ -1,0 +1,88 @@
+PokerStars Hand #162053577273:  Hold'em Limit ($3/$6 USD) - 2016/11/27 14:59:29 ET
+Table 'Hartmut' 6-max Seat #6 is the button
+Seat 1: assitoni ($72 in chips)
+Seat 6: Lexposterior ($37.69 in chips)
+Lexposterior: posts small blind $1
+assitoni: posts big blind $3
+*** HOLE CARDS ***
+Lexposterior: raises $3 to $6
+Zensor666 joins the table at seat #2
+vestimokrec joins the table at seat #3
+assitoni: calls $3
+*** FLOP *** [Qh 7s Kc]
+assitoni: checks
+Lexposterior: bets $3
+assitoni: calls $3
+*** TURN *** [Qh 7s Kc] [Td]
+assitoni: checks
+Lexposterior: checks
+*** RIVER *** [Qh 7s Kc Td] [7c]
+assitoni: bets $6
+Lexposterior: calls $6
+*** SHOW DOWN ***
+assitoni: shows [Qc 8d] (two pair, Queens and Sevens)
+Lexposterior: mucks hand
+assitoni collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qh 7s Kc Td 7c]
+Seat 1: assitoni (big blind) showed [Qc 8d] and won ($29.50) with two pair, Queens and Sevens
+Seat 6: Lexposterior (button) (small blind) mucked
+
+
+PokerStars Hand #162054075084:  Hold'em Limit ($3/$6 USD) - 2016/11/27 15:07:50 ET
+Table 'Hartmut' 6-max Seat #2 is the button
+Seat 2: Zensor666 ($72.48 in chips)
+Seat 3: vestimokrec ($117.18 in chips)
+Zensor666: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+Zensor666: raises $3 to $6
+vestimokrec: calls $3
+*** FLOP *** [Js Kc Qh]
+vestimokrec: checks
+Zensor666: bets $3
+assitoni leaves the table
+vestimokrec: folds
+Uncalled bet ($3) returned to Zensor666
+Zensor666 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Js Kc Qh]
+Seat 2: Zensor666 (button) (small blind) collected ($11.76)
+Seat 3: vestimokrec (big blind) folded on the Flop
+
+
+PokerStars Hand #162054024469:  Hold'em Limit ($3/$6 USD) - 2016/11/27 15:07:03 ET
+Table 'Hartmut' 6-max Seat #3 is the button
+Seat 2: Zensor666 ($42.98 in chips)
+Seat 3: vestimokrec ($147.18 in chips)
+vestimokrec: posts small blind $1
+jvc336: is sitting out
+Zensor666: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+Zensor666: raises $3 to $9
+vestimokrec: calls $3
+*** FLOP *** [4c 7c Ah]
+Zensor666: bets $3
+vestimokrec: calls $3
+*** TURN *** [4c 7c Ah] [Qs]
+Zensor666: bets $6
+vestimokrec: calls $6
+*** RIVER *** [4c 7c Ah Qs] [9s]
+xxRGx joins the table at seat #5
+Zensor666: bets $6
+vestimokrec: raises $6 to $12
+Zensor666: calls $6
+*** SHOW DOWN ***
+vestimokrec: shows [5h 6s] (high card Ace)
+Zensor666: shows [Ts Ac] (a pair of Aces)
+Zensor666 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [4c 7c Ah Qs 9s]
+Seat 2: Zensor666 (big blind) showed [Ts Ac] and won ($59.50) with a pair of Aces
+Seat 3: vestimokrec (button) (small blind) showed [5h 6s] and lost with high card Ace
+
+

@@ -1,0 +1,86 @@
+PokerStars Hand #155335605154:  Hold'em Limit ($3/$6 USD) - 2016/06/29 5:39:43 ET
+Table 'Valborg' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 2: partyalex92 ($80.91 in chips)
+VolkovDmitri: posts small blind $1
+partyalex92: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+B_loJkl joins the table at seat #3
+partyalex92: calls $3
+*** FLOP *** [6d 3s 3c]
+partyalex92: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [6d 3s 3c] [Kh]
+partyalex92: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [6d 3s 3c Kh] [8c]
+partyalex92: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+partyalex92: shows [Jc Kc] (two pair, Kings and Threes)
+VolkovDmitri: mucks hand
+partyalex92 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [6d 3s 3c Kh 8c]
+Seat 1: VolkovDmitri (button) (small blind) mucked
+Seat 2: partyalex92 (big blind) showed [Jc Kc] and won ($41.50) with two pair, Kings and Threes
+
+
+PokerStars Hand #155335749022:  Hold'em Limit ($3/$6 USD) - 2016/06/29 5:46:30 ET
+Table 'Valborg' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($155.11 in chips)
+Seat 4: Tsoy777 ($36.82 in chips)
+VolkovDmitri: posts small blind $1
+B_loJkl: is sitting out
+Tsoy777: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Tsoy777: calls $3
+*** FLOP *** [Qh As Js]
+Tsoy777: checks
+VolkovDmitri: bets $3
+Tsoy777: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qh As Js]
+Seat 1: VolkovDmitri (button) (small blind) collected ($11.76)
+Seat 4: Tsoy777 (big blind) folded on the Flop
+
+
+PokerStars Hand #155335763539:  Hold'em Limit ($3/$6 USD) - 2016/06/29 5:46:43 ET
+Table 'Valborg' 6-max Seat #4 is the button
+Seat 1: VolkovDmitri ($160.87 in chips)
+Seat 4: Tsoy777 ($30.82 in chips)
+Tsoy777: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Tsoy777: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+Tsoy777: calls $3
+*** FLOP *** [7s 3c 5d]
+VolkovDmitri: bets $3
+Tsoy777: calls $3
+*** TURN *** [7s 3c 5d] [Qs]
+VolkovDmitri: bets $6
+Tsoy777: raises $6 to $12
+VolkovDmitri: calls $6
+*** RIVER *** [7s 3c 5d Qs] [Jd]
+VolkovDmitri: checks
+Tsoy777: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+Tsoy777: shows [6s Qd] (a pair of Queens)
+VolkovDmitri: mucks hand
+Tsoy777 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [7s 3c 5d Qs Jd]
+Seat 1: VolkovDmitri (big blind) mucked
+Seat 4: Tsoy777 (button) (small blind) showed [6s Qd] and won ($59.50) with a pair of Queens
+
+

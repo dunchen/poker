@@ -1,0 +1,98 @@
+PokerStars Hand #145421357695:  Hold'em Limit ($3/$6 USD) - 2015/12/16 4:32:13 ET
+Table 'Dudu' 6-max Seat #3 is the button
+Seat 3: millon ($107.64 in chips)
+Seat 4: Actionni13 ($170.50 in chips)
+millon: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+millon: raises $3 to $6
+Actionni13: calls $3
+*** FLOP *** [5c Ah 6h]
+Actionni13: checks
+millon: bets $3
+Actionni13: calls $3
+*** TURN *** [5c Ah 6h] [4d]
+Actionni13: bets $6
+millon: calls $6
+*** RIVER *** [5c Ah 6h 4d] [8s]
+Actionni13: bets $6
+millon: folds
+Uncalled bet ($6) returned to Actionni13
+Actionni13 collected $29.50 from pot
+Actionni13: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5c Ah 6h 4d 8s]
+Seat 3: millon (button) (small blind) folded on the River
+Seat 4: Actionni13 (big blind) collected ($29.50)
+
+
+PokerStars Hand #145421347920:  Hold'em Limit ($3/$6 USD) - 2015/12/16 4:31:48 ET
+Table 'Dudu' 6-max Seat #4 is the button
+Seat 3: millon ($128.64 in chips)
+Seat 4: Actionni13 ($150 in chips)
+Actionni13: posts small blind $1
+millon: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+millon: calls $3
+*** FLOP *** [Qs Th 7h]
+millon: checks
+B_loJkl joins the table at seat #5
+Actionni13: bets $3
+millon: calls $3
+*** TURN *** [Qs Th 7h] [Ks]
+millon: checks
+Actionni13: bets $6
+millon: calls $6
+*** RIVER *** [Qs Th 7h Ks] [6c]
+millon: checks
+Actionni13: bets $6
+millon: calls $6
+*** SHOW DOWN ***
+Actionni13: shows [3c Qd] (a pair of Queens)
+millon: mucks hand
+Actionni13 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Qs Th 7h Ks 6c]
+Seat 3: millon (big blind) mucked
+Seat 4: Actionni13 (button) (small blind) showed [3c Qd] and won ($41.50) with a pair of Queens
+
+
+PokerStars Hand #145423153402:  Hold'em Limit ($3/$6 USD) - 2015/12/16 5:44:27 ET
+Table 'Dudu' 6-max Seat #1 is the button
+Seat 1: Peterand11 ($131.07 in chips)
+Seat 5: B_loJkl ($465.02 in chips)
+Peterand11: posts small blind $1
+scorpio04: is sitting out
+Actionni13: is sitting out
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+scorpio04 leaves the table
+Peterand11: calls $2
+B_loJkl: raises $3 to $6
+Peterand11: calls $3
+*** FLOP *** [9h 6c 8c]
+B_loJkl: checks
+Peterand11: bets $3
+B_loJkl: calls $3
+*** TURN *** [9h 6c 8c] [5h]
+B_loJkl: checks
+Peterand11: bets $6
+B_loJkl: calls $6
+*** RIVER *** [9h 6c 8c 5h] [2c]
+B_loJkl: checks
+Peterand11: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+Peterand11: shows [7c Jc] (a flush, Jack high)
+B_loJkl: mucks hand
+Peterand11 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9h 6c 8c 5h 2c]
+Seat 1: Peterand11 (button) (small blind) showed [7c Jc] and won ($41.50) with a flush, Jack high
+Seat 5: B_loJkl (big blind) mucked
+
+

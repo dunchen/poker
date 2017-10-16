@@ -1,0 +1,65 @@
+PokerStars Hand #171455110520:  Hold'em Limit ($3/$6 USD) - 2017/06/07 5:32:02 ET
+Table 'Celestia' 6-max Seat #4 is the button
+Seat 4: MTails ($120 in chips)
+Seat 5: popesxxx ($30 in chips)
+MTails: posts small blind $1
+popesxxx: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+popesxxx: calls $3
+*** FLOP *** [3c 8c Th]
+popesxxx: checks
+MTails: bets $3
+popesxxx: calls $3
+*** TURN *** [3c 8c Th] [2c]
+popesxxx: checks
+sincity999 joins the table at seat #3
+MTails: bets $6
+popesxxx: raises $6 to $12
+MTails: raises $6 to $18
+popesxxx: raises $3 to $21 and is all-in
+Betting is capped
+MTails: calls $3
+*** RIVER *** [3c 8c Th 2c] [Jd]
+*** SHOW DOWN ***
+popesxxx: shows [6h Ts] (a pair of Tens)
+MTails: shows [8d Kc] (a pair of Eights)
+PayMyAudiR8 joins the table at seat #6
+popesxxx collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [3c 8c Th 2c Jd]
+Seat 4: MTails (button) (small blind) showed [8d Kc] and lost with a pair of Eights
+Seat 5: popesxxx (big blind) showed [6h Ts] and won ($59.50) with a pair of Tens
+
+
+PokerStars Hand #171456079457:  Hold'em Limit ($3/$6 USD) - 2017/06/07 6:15:55 ET
+Table 'Celestia' 6-max Seat #6 is the button
+Seat 3: hairy1961 ($129.92 in chips)
+Seat 6: tedros404 ($159.64 in chips)
+tedros404: posts small blind $1
+Agrotait: is sitting out
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+Agrotait leaves the table
+tedros404: calls $2
+hairy1961: checks
+*** FLOP *** [Ts 4h 6d]
+hairy1961: checks
+tedros404: checks
+*** TURN *** [Ts 4h 6d] [9c]
+hairy1961: bets $6
+tedros404: calls $6
+*** RIVER *** [Ts 4h 6d 9c] [3s]
+hairy1961: bets $6
+tedros404: folds
+Uncalled bet ($6) returned to hairy1961
+tedros404 leaves the table
+hairy1961 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ts 4h 6d 9c 3s]
+Seat 3: hairy1961 (big blind) collected ($17.64)
+Seat 6: tedros404 (button) (small blind) folded on the River
+
+

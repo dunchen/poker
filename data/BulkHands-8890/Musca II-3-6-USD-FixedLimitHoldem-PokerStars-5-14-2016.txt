@@ -1,0 +1,71 @@
+PokerStars Hand #153289845395:  Hold'em Limit ($3/$6 USD) - 2016/05/14 5:38:54 ET
+Table 'Musca II' 6-max Seat #4 is the button
+Seat 4: Agrotait ($72 in chips)
+Seat 5: kdcl ($33.91 in chips)
+Agrotait: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: folds
+Uncalled bet ($2) returned to kdcl
+kdcl collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: Agrotait (button) (small blind) folded before Flop
+Seat 5: kdcl (big blind) collected ($2)
+
+
+PokerStars Hand #153289858935:  Hold'em Limit ($3/$6 USD) - 2016/05/14 5:39:27 ET
+Table 'Musca II' 6-max Seat #4 is the button
+Seat 4: Agrotait ($100.50 in chips)
+Seat 5: kdcl ($4.91 in chips)
+Agrotait: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+kdcl: calls $1.91 and is all-in
+Uncalled bet ($1.09) returned to Agrotait
+*** FLOP *** [4d 4c 9s]
+*** TURN *** [4d 4c 9s] [8d]
+*** RIVER *** [4d 4c 9s 8d] [Th]
+*** SHOW DOWN ***
+kdcl: shows [7s As] (a pair of Fours)
+Agrotait: shows [9c 4h] (a full house, Fours full of Nines)
+Agrotait collected $9.62 from pot
+*** SUMMARY ***
+Total pot $9.82 | Rake $0.20
+Board [4d 4c 9s 8d Th]
+Seat 4: Agrotait (button) (small blind) showed [9c 4h] and won ($9.62) with a full house, Fours full of Nines
+Seat 5: kdcl (big blind) showed [7s As] and lost with a pair of Fours
+
+
+PokerStars Hand #153289848997:  Hold'em Limit ($3/$6 USD) - 2016/05/14 5:39:03 ET
+Table 'Musca II' 6-max Seat #5 is the button
+Seat 4: Agrotait ($71 in chips)
+Seat 5: kdcl ($34.91 in chips)
+kdcl: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [8s 5d 7h]
+Agrotait: checks
+kdcl: checks
+*** TURN *** [8s 5d 7h] [Kc]
+Agrotait: bets $6
+kdcl: raises $6 to $12
+Agrotait: raises $6 to $18
+kdcl: calls $6
+*** RIVER *** [8s 5d 7h Kc] [6h]
+Agrotait: bets $6
+kdcl: calls $6
+*** SHOW DOWN ***
+Agrotait: shows [8c 5h] (two pair, Eights and Fives)
+kdcl: mucks hand
+Agrotait collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [8s 5d 7h Kc 6h]
+Seat 4: Agrotait (big blind) showed [8c 5h] and won ($59.50) with two pair, Eights and Fives
+Seat 5: kdcl (button) (small blind) mucked
+
+

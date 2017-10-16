@@ -1,0 +1,228 @@
+PokerStars Hand #165189654194:  Hold'em Limit ($3/$6 USD) - 2017/01/26 7:50:21 ET
+Table 'Hesburgh' 6-max Seat #6 is the button
+Seat 4: Agrotait ($72 in chips)
+Seat 6: nordschrott ($54 in chips)
+nordschrott: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+volkovsky joins the table at seat #1
+nordschrott: calls $2
+Agrotait: checks
+*** FLOP *** [Ad 6s 5c]
+vestimokrec joins the table at seat #2
+Agrotait: bets $3
+nordschrott: calls $3
+*** TURN *** [Ad 6s 5c] [4c]
+Agrotait: checks
+nordschrott: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to nordschrott
+nordschrott collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ad 6s 5c 4c]
+Seat 4: Agrotait (big blind) folded on the Turn
+Seat 6: nordschrott (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #165189671562:  Hold'em Limit ($3/$6 USD) - 2017/01/26 7:50:52 ET
+Table 'Hesburgh' 6-max Seat #4 is the button
+Seat 4: Agrotait ($66 in chips)
+Seat 6: nordschrott ($59.76 in chips)
+Agrotait: posts small blind $1
+nordschrott: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+nordschrott: calls $3
+*** FLOP *** [Td 9s Qd]
+nordschrott: checks
+Agrotait: bets $3
+nordschrott: calls $3
+*** TURN *** [Td 9s Qd] [Qc]
+nordschrott: checks
+Agrotait: checks
+*** RIVER *** [Td 9s Qd Qc] [3s]
+nordschrott: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to nordschrott
+nordschrott collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Td 9s Qd Qc 3s]
+Seat 4: Agrotait (button) (small blind) folded on the River
+Seat 6: nordschrott (big blind) collected ($17.64)
+
+
+PokerStars Hand #165189934388:  Hold'em Limit ($3/$6 USD) - 2017/01/26 7:59:19 ET
+Table 'Hesburgh' 6-max Seat #3 is the button
+Seat 3: Faqquer ($104.43 in chips)
+Seat 5: krytalex ($112 in chips)
+Faqquer: posts small blind $1
+krytalex: posts big blind $3
+*** HOLE CARDS ***
+Faqquer: raises $3 to $6
+krytalex: raises $3 to $9
+Faqquer: calls $3
+*** FLOP *** [7c 4s Jc]
+krytalex: bets $3
+Faqquer: calls $3
+*** TURN *** [7c 4s Jc] [2c]
+krytalex: bets $6
+Faqquer: calls $6
+*** RIVER *** [7c 4s Jc 2c] [Qc]
+krytalex: checks
+Faqquer: bets $6
+krytalex: calls $6
+*** SHOW DOWN ***
+Faqquer: shows [4h Ah] (a pair of Fours)
+krytalex: shows [As Qs] (a pair of Queens)
+krytalex collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7c 4s Jc 2c Qc]
+Seat 3: Faqquer (button) (small blind) showed [4h Ah] and lost with a pair of Fours
+Seat 5: krytalex (big blind) showed [As Qs] and won ($47.50) with a pair of Queens
+
+
+PokerStars Hand #165189924225:  Hold'em Limit ($3/$6 USD) - 2017/01/26 7:58:58 ET
+Table 'Hesburgh' 6-max Seat #5 is the button
+Seat 3: Faqquer ($95.79 in chips)
+Seat 5: krytalex ($121 in chips)
+krytalex: posts small blind $1
+volkovsky: is sitting out
+vestimokrec: is sitting out
+Faqquer: posts big blind $3
+*** HOLE CARDS ***
+krytalex: raises $3 to $6
+vestimokrec leaves the table
+Faqquer: calls $3
+*** FLOP *** [Jc 8c 4c]
+Faqquer: checks
+krytalex: bets $3
+Faqquer: raises $3 to $6
+krytalex: folds
+Uncalled bet ($3) returned to Faqquer
+Faqquer collected $17.64 from pot
+Faqquer: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Jc 8c 4c]
+Seat 3: Faqquer (big blind) collected ($17.64)
+Seat 5: krytalex (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #165189961961:  Hold'em Limit ($3/$6 USD) - 2017/01/26 8:00:15 ET
+Table 'Hesburgh' 6-max Seat #3 is the button
+Seat 3: Faqquer ($80.18 in chips)
+Seat 5: krytalex ($135.25 in chips)
+Faqquer: posts small blind $1
+krytalex: posts big blind $3
+*** HOLE CARDS ***
+Faqquer: raises $3 to $6
+krytalex: calls $3
+*** FLOP *** [Qd Qs Kc]
+krytalex: checks
+Faqquer: bets $3
+krytalex: calls $3
+*** TURN *** [Qd Qs Kc] [7d]
+krytalex: checks
+Faqquer: bets $6
+krytalex: calls $6
+*** RIVER *** [Qd Qs Kc 7d] [4c]
+krytalex: checks
+Faqquer: bets $6
+krytalex: calls $6
+*** SHOW DOWN ***
+Faqquer: shows [Qc 8d] (three of a kind, Queens)
+krytalex: mucks hand
+Faqquer collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Qd Qs Kc 7d 4c]
+Seat 3: Faqquer (button) (small blind) showed [Qc 8d] and won ($41.50) with three of a kind, Queens
+Seat 5: krytalex (big blind) mucked
+
+
+PokerStars Hand #165189946625:  Hold'em Limit ($3/$6 USD) - 2017/01/26 7:59:44 ET
+Table 'Hesburgh' 6-max Seat #5 is the button
+Seat 3: Faqquer ($80.43 in chips)
+Seat 5: krytalex ($135.50 in chips)
+krytalex: posts small blind $1
+Faqquer: posts big blind $3
+*** HOLE CARDS ***
+krytalex: raises $3 to $6
+Faqquer: calls $3
+*** FLOP *** [Ac Jc Qs]
+Faqquer: checks
+krytalex: bets $3
+Faqquer: calls $3
+*** TURN *** [Ac Jc Qs] [Tc]
+Faqquer: checks
+krytalex: checks
+*** RIVER *** [Ac Jc Qs Tc] [9h]
+Faqquer: bets $6
+krytalex: calls $6
+*** SHOW DOWN ***
+Faqquer: shows [Jd 8h] (a straight, Eight to Queen)
+krytalex: shows [9d 8d] (a straight, Eight to Queen)
+Faqquer collected $14.75 from pot
+krytalex collected $14.75 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ac Jc Qs Tc 9h]
+Seat 3: Faqquer (big blind) showed [Jd 8h] and won ($14.75) with a straight, Eight to Queen
+Seat 5: krytalex (button) (small blind) showed [9d 8d] and won ($14.75) with a straight, Eight to Queen
+
+
+PokerStars Hand #165189981074:  Hold'em Limit ($3/$6 USD) - 2017/01/26 8:00:51 ET
+Table 'Hesburgh' 6-max Seat #5 is the button
+Seat 3: Faqquer ($100.68 in chips)
+Seat 5: krytalex ($114.25 in chips)
+krytalex: posts small blind $1
+Faqquer: posts big blind $3
+*** HOLE CARDS ***
+krytalex: raises $3 to $6
+volkovsky leaves the table
+Faqquer: calls $3
+*** FLOP *** [Qh 5h As]
+Faqquer: checks
+GoliafUa leaves the table
+belik555 joins the table at seat #6
+krytalex: bets $3
+Faqquer: calls $3
+*** TURN *** [Qh 5h As] [3h]
+belik555 leaves the table
+Faqquer: checks
+krytalex: checks
+*** RIVER *** [Qh 5h As 3h] [4c]
+belik555 joins the table at seat #4
+Faqquer: bets $6
+krytalex: folds
+Uncalled bet ($6) returned to Faqquer
+Faqquer collected $17.64 from pot
+Faqquer: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qh 5h As 3h 4c]
+Seat 3: Faqquer (big blind) collected ($17.64)
+Seat 5: krytalex (button) (small blind) folded on the River
+
+
+PokerStars Hand #165190766971:  Hold'em Limit ($3/$6 USD) - 2017/01/26 8:23:46 ET
+Table 'Hesburgh' 6-max Seat #5 is the button
+Seat 4: belik555 ($202.33 in chips)
+Seat 5: krytalex ($131.25 in chips)
+krytalex: posts small blind $1
+belik555: posts big blind $3
+Faqquer leaves the table
+*** HOLE CARDS ***
+krytalex: folds
+Uncalled bet ($2) returned to belik555
+belik555 collected $2 from pot
+belik555: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: belik555 (big blind) collected ($2)
+Seat 5: krytalex (button) (small blind) folded before Flop
+
+

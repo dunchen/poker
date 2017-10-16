@@ -1,0 +1,350 @@
+PokerStars Hand #176271559047:  Hold'em Limit ($3/$6 USD) - 2017/09/29 12:40:31 ET
+Table 'Renauxa' 6-max Seat #2 is the button
+Seat 2: winyku4eto ($58.50 in chips)
+Seat 3: libaikang ($103 in chips)
+winyku4eto: posts small blind $1
+libaikang: posts big blind $3
+*** HOLE CARDS ***
+winyku4eto: raises $3 to $6
+libaikang: calls $3
+*** FLOP *** [9h 5d Kh]
+libaikang: checks
+winyku4eto: bets $3
+libaikang: calls $3
+*** TURN *** [9h 5d Kh] [3d]
+libaikang: checks
+winyku4eto: checks
+*** RIVER *** [9h 5d Kh 3d] [9d]
+libaikang: bets $6
+winyku4eto: folds
+Uncalled bet ($6) returned to libaikang
+libaikang collected $17.64 from pot
+libaikang: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9h 5d Kh 3d 9d]
+Seat 2: winyku4eto (button) (small blind) folded on the River
+Seat 3: libaikang (big blind) collected ($17.64)
+
+
+PokerStars Hand #176271649576:  Hold'em Limit ($3/$6 USD) - 2017/09/29 12:42:50 ET
+Table 'Renauxa' 6-max Seat #4 is the button
+Seat 3: libaikang ($117.92 in chips)
+Seat 4: vestimokrec ($159 in chips)
+vestimokrec: posts small blind $1
+libaikang: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+libaikang: raises $3 to $9
+vestimokrec: calls $3
+*** FLOP *** [Jc 4s Ac]
+libaikang: bets $3
+vestimokrec: folds
+Uncalled bet ($3) returned to libaikang
+libaikang collected $17.64 from pot
+libaikang: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Jc 4s Ac]
+Seat 3: libaikang (big blind) collected ($17.64)
+Seat 4: vestimokrec (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #176271658907:  Hold'em Limit ($3/$6 USD) - 2017/09/29 12:43:04 ET
+Table 'Renauxa' 6-max Seat #3 is the button
+Seat 3: libaikang ($126.56 in chips)
+Seat 4: vestimokrec ($150 in chips)
+libaikang: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+libaikang: raises $3 to $6
+vestimokrec: raises $3 to $9
+libaikang: raises $3 to $12
+Betting is capped
+vestimokrec: calls $3
+*** FLOP *** [5d Ks 9c]
+vestimokrec: checks
+libaikang: bets $3
+vestimokrec: raises $3 to $6
+libaikang: raises $3 to $9
+vestimokrec: calls $3
+*** TURN *** [5d Ks 9c] [9s]
+vestimokrec: checks
+libaikang: bets $6
+vestimokrec: calls $6
+*** RIVER *** [5d Ks 9c 9s] [Qs]
+vestimokrec: checks
+libaikang: bets $6
+vestimokrec: calls $6
+*** SHOW DOWN ***
+libaikang: shows [Qh Kh] (two pair, Kings and Queens)
+vestimokrec: mucks hand
+libaikang collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [5d Ks 9c 9s Qs]
+Seat 3: libaikang (button) (small blind) showed [Qh Kh] and won ($65.50) with two pair, Kings and Queens
+Seat 4: vestimokrec (big blind) mucked
+
+
+PokerStars Hand #176271682056:  Hold'em Limit ($3/$6 USD) - 2017/09/29 12:43:40 ET
+Table 'Renauxa' 6-max Seat #3 is the button
+Seat 3: libaikang ($156.06 in chips)
+Seat 4: vestimokrec ($120 in chips)
+libaikang: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+libaikang: raises $3 to $6
+vestimokrec: calls $3
+*** FLOP *** [6h Ad 2d]
+vestimokrec: checks
+libaikang: bets $3
+vestimokrec: calls $3
+*** TURN *** [6h Ad 2d] [2s]
+vestimokrec: checks
+libaikang: checks
+*** RIVER *** [6h Ad 2d 2s] [Td]
+vestimokrec: checks
+libaikang: checks
+*** SHOW DOWN ***
+vestimokrec: shows [9d Ks] (a pair of Deuces)
+libaikang: shows [Js Kc] (a pair of Deuces - Ace+King+Jack kicker)
+libaikang collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6h Ad 2d 2s Td]
+Seat 3: libaikang (button) (small blind) showed [Js Kc] and won ($17.64) with a pair of Deuces
+Seat 4: vestimokrec (big blind) showed [9d Ks] and lost with a pair of Deuces
+
+
+PokerStars Hand #176271710482:  Hold'em Limit ($3/$6 USD) - 2017/09/29 12:44:25 ET
+Table 'Renauxa' 6-max Seat #4 is the button
+Seat 3: libaikang ($152.70 in chips)
+Seat 4: vestimokrec ($122.64 in chips)
+vestimokrec: posts small blind $1
+libaikang: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+libaikang: raises $3 to $9
+vestimokrec: calls $3
+*** FLOP *** [4s 7d 7h]
+libaikang: bets $3
+vestimokrec: calls $3
+*** TURN *** [4s 7d 7h] [4c]
+libaikang: checks
+vestimokrec: checks
+*** RIVER *** [4s 7d 7h 4c] [3c]
+libaikang: bets $6
+vestimokrec: folds
+Uncalled bet ($6) returned to libaikang
+libaikang collected $23.52 from pot
+libaikang: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [4s 7d 7h 4c 3c]
+Seat 3: libaikang (big blind) collected ($23.52)
+Seat 4: vestimokrec (button) (small blind) folded on the River
+
+
+PokerStars Hand #176271701455:  Hold'em Limit ($3/$6 USD) - 2017/09/29 12:44:10 ET
+Table 'Renauxa' 6-max Seat #3 is the button
+Seat 3: libaikang ($161.70 in chips)
+Seat 4: vestimokrec ($114 in chips)
+libaikang: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+libaikang: raises $3 to $6
+vestimokrec: raises $3 to $9
+libaikang: calls $3
+*** FLOP *** [9h 5s Qd]
+vestimokrec: bets $3
+libaikang: folds
+Uncalled bet ($3) returned to vestimokrec
+vestimokrec collected $17.64 from pot
+vestimokrec: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9h 5s Qd]
+Seat 3: libaikang (button) (small blind) folded on the Flop
+Seat 4: vestimokrec (big blind) collected ($17.64)
+
+
+PokerStars Hand #176271736353:  Hold'em Limit ($3/$6 USD) - 2017/09/29 12:45:05 ET
+Table 'Renauxa' 6-max Seat #4 is the button
+Seat 3: libaikang ($163.22 in chips)
+Seat 4: vestimokrec ($111.64 in chips)
+vestimokrec: posts small blind $1
+libaikang: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+libaikang: calls $3
+*** FLOP *** [6d Kc 9s]
+libaikang: checks
+vestimokrec: bets $3
+libaikang: raises $3 to $6
+vestimokrec: folds
+Uncalled bet ($3) returned to libaikang
+libaikang collected $17.64 from pot
+libaikang: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6d Kc 9s]
+Seat 3: libaikang (big blind) collected ($17.64)
+Seat 4: vestimokrec (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #176271811034:  Hold'em Limit ($3/$6 USD) - 2017/09/29 12:47:01 ET
+Table 'Renauxa' 6-max Seat #6 is the button
+Seat 1: sismos404 ($117.61 in chips)
+Seat 6: JOKERISTS ($73.92 in chips)
+JOKERISTS: posts small blind $1
+sismos404: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec joins the table at seat #2
+JOKERISTS: folds
+Uncalled bet ($2) returned to sismos404
+sismos404 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: sismos404 (big blind) collected ($2)
+Seat 6: JOKERISTS (button) (small blind) folded before Flop
+
+
+PokerStars Hand #176271989478:  Hold'em Limit ($3/$6 USD) - 2017/09/29 12:51:38 ET
+Table 'Renauxa' 6-max Seat #4 is the button
+Seat 4: zippnpuff ($118.94 in chips)
+Seat 6: JOKERISTS ($85.55 in chips)
+zippnpuff: posts small blind $1
+JOKERISTS: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec leaves the table
+zippnpuff: calls $2
+vestimokrec joins the table at seat #5
+JOKERISTS: raises $3 to $6
+zippnpuff: calls $3
+*** FLOP *** [2s 3s 9c]
+JOKERISTS: checks
+zippnpuff: bets $3
+JOKERISTS: calls $3
+*** TURN *** [2s 3s 9c] [Td]
+JOKERISTS: bets $6
+zippnpuff: calls $6
+*** RIVER *** [2s 3s 9c Td] [5s]
+JOKERISTS: bets $6
+zippnpuff: raises $6 to $12
+JOKERISTS: folds
+Uncalled bet ($6) returned to zippnpuff
+zippnpuff collected $41.50 from pot
+zippnpuff: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2s 3s 9c Td 5s]
+Seat 4: zippnpuff (button) (small blind) collected ($41.50)
+Seat 6: JOKERISTS (big blind) folded on the River
+
+
+PokerStars Hand #176271972549:  Hold'em Limit ($3/$6 USD) - 2017/09/29 12:51:12 ET
+Table 'Renauxa' 6-max Seat #6 is the button
+Seat 4: zippnpuff ($98.44 in chips)
+Seat 6: JOKERISTS ($106.55 in chips)
+JOKERISTS: posts small blind $1
+vestimokrec: is sitting out
+krytalex: is sitting out
+zippnpuff: posts big blind $3
+*** HOLE CARDS ***
+JOKERISTS: calls $2
+zippnpuff: raises $3 to $6
+krytalex leaves the table
+JOKERISTS: calls $3
+*** FLOP *** [Kh Ah 5h]
+zippnpuff: bets $3
+JOKERISTS: calls $3
+*** TURN *** [Kh Ah 5h] [6d]
+krytalex joins the table at seat #1
+zippnpuff: bets $6
+JOKERISTS: calls $6
+*** RIVER *** [Kh Ah 5h 6d] [9h]
+zippnpuff: bets $6
+JOKERISTS: calls $6
+*** SHOW DOWN ***
+zippnpuff: shows [Th Ts] (a flush, Ace high)
+JOKERISTS: mucks hand
+zippnpuff collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Kh Ah 5h 6d 9h]
+Seat 4: zippnpuff (big blind) showed [Th Ts] and won ($41.50) with a flush, Ace high
+Seat 6: JOKERISTS (button) (small blind) mucked
+
+
+PokerStars Hand #176277717963:  Hold'em Limit ($3/$6 USD) - 2017/09/29 15:09:06 ET
+Table 'Renauxa' 6-max Seat #4 is the button
+Seat 1: krytalex ($185.71 in chips)
+Seat 4: 1/2 RealPint ($102.56 in chips)
+1/2 RealPint: posts small blind $1
+krytalex: posts big blind $3
+*** HOLE CARDS ***
+1/2 RealPint: raises $3 to $6
+krytalex: folds
+Uncalled bet ($3) returned to 1/2 RealPint
+vestimokrec leaves the table
+1/2 RealPint collected $6 from pot
+1/2 RealPint: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: krytalex (big blind) folded before Flop
+Seat 4: 1/2 RealPint (button) (small blind) collected ($6)
+
+
+PokerStars Hand #176277713684:  Hold'em Limit ($3/$6 USD) - 2017/09/29 15:09:01 ET
+Table 'Renauxa' 6-max Seat #1 is the button
+Seat 1: krytalex ($186.71 in chips)
+Seat 4: 1/2 RealPint ($101.56 in chips)
+krytalex: posts small blind $1
+Chessnok: is sitting out
+1/2 RealPint: posts big blind $3
+*** HOLE CARDS ***
+krytalex: folds
+Uncalled bet ($2) returned to 1/2 RealPint
+1/2 RealPint collected $2 from pot
+1/2 RealPint: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: krytalex (button) (small blind) folded before Flop
+Seat 4: 1/2 RealPint (big blind) collected ($2)
+
+
+PokerStars Hand #176277734676:  Hold'em Limit ($3/$6 USD) - 2017/09/29 15:09:28 ET
+Table 'Renauxa' 6-max Seat #4 is the button
+Seat 1: krytalex ($185.71 in chips)
+Seat 4: 1/2 RealPint ($102.56 in chips)
+1/2 RealPint: posts small blind $1
+krytalex: posts big blind $3
+*** HOLE CARDS ***
+1/2 RealPint: folds
+Uncalled bet ($2) returned to krytalex
+krytalex collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: krytalex (big blind) collected ($2)
+Seat 4: 1/2 RealPint (button) (small blind) folded before Flop
+
+
+PokerStars Hand #176277724193:  Hold'em Limit ($3/$6 USD) - 2017/09/29 15:09:15 ET
+Table 'Renauxa' 6-max Seat #1 is the button
+Seat 1: krytalex ($182.71 in chips)
+Seat 4: 1/2 RealPint ($105.56 in chips)
+krytalex: posts small blind $1
+1/2 RealPint: posts big blind $3
+*** HOLE CARDS ***
+Chessnok leaves the table
+krytalex: raises $3 to $6
+1/2 RealPint: folds
+Uncalled bet ($3) returned to krytalex
+krytalex collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: krytalex (button) (small blind) collected ($6)
+Seat 4: 1/2 RealPint (big blind) folded before Flop
+
+

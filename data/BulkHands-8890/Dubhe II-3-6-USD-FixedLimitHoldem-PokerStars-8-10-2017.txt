@@ -1,0 +1,61 @@
+PokerStars Hand #174154719792:  Hold'em Limit ($3/$6 USD) - 2017/08/10 9:29:23 ET
+Table 'Dubhe II' 6-max Seat #1 is the button
+Seat 1: Timo20 ($58.01 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+Timo20: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Timo20: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [2h Ts 2d]
+VolkovDmitri: checks
+Timo20: checks
+*** TURN *** [2h Ts 2d] [Kc]
+VolkovDmitri: checks
+zimin10 joins the table at seat #2
+Timo20: checks
+*** RIVER *** [2h Ts 2d Kc] [5h]
+VolkovDmitri: checks
+Timo20: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [9d 7c] (a pair of Deuces)
+Timo20: shows [8h Jc] (a pair of Deuces - King+Jack kicker)
+Timo20 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2h Ts 2d Kc 5h]
+Seat 1: Timo20 (button) (small blind) showed [8h Jc] and won ($11.76) with a pair of Deuces
+Seat 4: VolkovDmitri (big blind) showed [9d 7c] and lost with a pair of Deuces
+
+
+PokerStars Hand #174154737597:  Hold'em Limit ($3/$6 USD) - 2017/08/10 9:29:57 ET
+Table 'Dubhe II' 6-max Seat #4 is the button
+Seat 1: Timo20 ($63.77 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+Timo20: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Timo20: calls $3
+*** FLOP *** [Jh 8c 4s]
+Timo20: checks
+VolkovDmitri: bets $3
+Timo20: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [Jh 8c 4s] [3c]
+Kasperla joins the table at seat #5
+Timo20: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [Jh 8c 4s 3c] [Th]
+Timo20: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to Timo20
+Timo20 collected $35.50 from pot
+Timo20: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Jh 8c 4s 3c Th]
+Seat 1: Timo20 (big blind) collected ($35.50)
+Seat 4: VolkovDmitri (button) (small blind) folded on the River
+
+

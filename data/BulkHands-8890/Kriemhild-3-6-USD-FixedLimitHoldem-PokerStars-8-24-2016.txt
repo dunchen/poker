@@ -1,0 +1,77 @@
+PokerStars Hand #157672341608:  Hold'em Limit ($3/$6 USD) - 2016/08/24 6:14:45 ET
+Table 'Kriemhild' 10-max Seat #1 is the button
+Seat 1: ECP1955 ($120 in chips)
+Seat 7: VolkovDmitri ($120 in chips)
+ECP1955: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+ECP1955: calls $2
+VolkovDmitri: raises $3 to $6
+ECP1955: calls $3
+*** FLOP *** [Tc Td 5s]
+VolkovDmitri: bets $3
+ECP1955: calls $3
+*** TURN *** [Tc Td 5s] [8s]
+VolkovDmitri: checks
+ECP1955: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [Tc Td 5s 8s] [5d]
+VolkovDmitri: checks
+ECP1955: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [Ks 6c] (two pair, Tens and Fives)
+ECP1955: shows [6d 8d] (two pair, Tens and Eights)
+ECP1955 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Tc Td 5s 8s 5d]
+Seat 1: ECP1955 (button) (small blind) showed [6d 8d] and won ($29.50) with two pair, Tens and Eights
+Seat 7: VolkovDmitri (big blind) showed [Ks 6c] and lost with two pair, Tens and Fives
+
+
+PokerStars Hand #157672358712:  Hold'em Limit ($3/$6 USD) - 2016/08/24 6:15:33 ET
+Table 'Kriemhild' 10-max Seat #7 is the button
+Seat 1: ECP1955 ($134.50 in chips)
+Seat 7: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+ECP1955: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+ECP1955: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: ECP1955 (big blind) folded before Flop
+Seat 7: VolkovDmitri (button) (small blind) collected ($6)
+
+
+PokerStars Hand #157672362902:  Hold'em Limit ($3/$6 USD) - 2016/08/24 6:15:45 ET
+Table 'Kriemhild' 10-max Seat #1 is the button
+Seat 1: ECP1955 ($131.50 in chips)
+Seat 7: VolkovDmitri ($123 in chips)
+ECP1955: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Ale4o joins the table at seat #2
+ECP1955: calls $2
+VolkovDmitri: raises $3 to $6
+Fantomet joins the table at seat #3
+ECP1955: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [Ts 7s Tc]
+VolkovDmitri: checks
+ECP1955: bets $3
+AllinRamstad joins the table at seat #10
+VolkovDmitri: folds
+Uncalled bet ($3) returned to ECP1955
+ECP1955 collected $17.64 from pot
+ECP1955: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ts 7s Tc]
+Seat 1: ECP1955 (button) (small blind) collected ($17.64)
+Seat 7: VolkovDmitri (big blind) folded on the Flop
+
+

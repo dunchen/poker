@@ -1,0 +1,110 @@
+PokerStars Hand #154419917191:  Hold'em Limit ($3/$6 USD) - 2016/06/07 12:38:53 ET
+Table 'Yunnan' 6-max Seat #1 is the button
+Seat 1: sumsisumsum ($36 in chips)
+Seat 3: Ag3r0n ($72 in chips)
+sumsisumsum: posts small blind $1
+Ag3r0n: posts big blind $3
+*** HOLE CARDS ***
+sumsisumsum: calls $2
+Ag3r0n: raises $3 to $6
+sumsisumsum: calls $3
+*** FLOP *** [7c Th Jc]
+Ag3r0n: bets $3
+sumsisumsum: calls $3
+*** TURN *** [7c Th Jc] [3h]
+Ag3r0n: bets $6
+sumsisumsum: calls $6
+*** RIVER *** [7c Th Jc 3h] [2d]
+Ag3r0n: checks
+sumsisumsum: checks
+*** SHOW DOWN ***
+Ag3r0n: shows [9h Qc] (high card Queen)
+sumsisumsum: shows [4s 4c] (a pair of Fours)
+sumsisumsum collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7c Th Jc 3h 2d]
+Seat 1: sumsisumsum (button) (small blind) showed [4s 4c] and won ($29.50) with a pair of Fours
+Seat 3: Ag3r0n (big blind) showed [9h Qc] and lost with high card Queen
+
+
+PokerStars Hand #154419945372:  Hold'em Limit ($3/$6 USD) - 2016/06/07 12:39:32 ET
+Table 'Yunnan' 6-max Seat #1 is the button
+Seat 1: sumsisumsum ($51.50 in chips)
+Seat 3: Ag3r0n ($72 in chips)
+sumsisumsum: posts small blind $1
+Ag3r0n: posts big blind $3
+*** HOLE CARDS ***
+sumsisumsum: calls $2
+Ag3r0n: checks
+*** FLOP *** [3h Kh 9c]
+Ag3r0n: bets $3
+KokaKKKola joins the table at seat #4
+sumsisumsum: raises $3 to $6
+Ag3r0n: calls $3
+*** TURN *** [3h Kh 9c] [6s]
+Ag3r0n: checks
+sumsisumsum: bets $6
+Agrotait joins the table at seat #2
+Ag3r0n: folds
+Uncalled bet ($6) returned to sumsisumsum
+sumsisumsum collected $17.64 from pot
+sumsisumsum: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3h Kh 9c 6s]
+Seat 1: sumsisumsum (button) (small blind) collected ($17.64)
+Seat 3: Ag3r0n (big blind) folded on the Turn
+
+
+PokerStars Hand #154419940352:  Hold'em Limit ($3/$6 USD) - 2016/06/07 12:39:25 ET
+Table 'Yunnan' 6-max Seat #3 is the button
+Seat 1: sumsisumsum ($50.50 in chips)
+Seat 3: Ag3r0n ($72 in chips)
+Ag3r0n: posts small blind $1
+sumsisumsum: posts big blind $3
+*** HOLE CARDS ***
+Ag3r0n: folds
+Uncalled bet ($2) returned to sumsisumsum
+sumsisumsum collected $2 from pot
+sumsisumsum: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: sumsisumsum (big blind) collected ($2)
+Seat 3: Ag3r0n (button) (small blind) folded before Flop
+
+
+PokerStars Hand #154420707043:  Hold'em Limit ($3/$6 USD) - 2016/06/07 12:56:58 ET
+Table 'Yunnan' 6-max Seat #3 is the button
+Seat 3: Ag3r0n ($159.87 in chips)
+Seat 6: dborys ($215.37 in chips)
+Ag3r0n: posts small blind $1
+kefir_sefir: is sitting out
+dborys: posts big blind $3
+*** HOLE CARDS ***
+Ag3r0n: raises $3 to $6
+dborys: calls $3
+*** FLOP *** [3c 7d Td]
+kefir_sefir leaves the table
+dborys: checks
+Ag3r0n: bets $3
+dborys: calls $3
+*** TURN *** [3c 7d Td] [2c]
+dborys: checks
+Ag3r0n: bets $6
+dborys: calls $6
+*** RIVER *** [3c 7d Td 2c] [9h]
+dborys: checks
+Ag3r0n: bets $6
+dborys: calls $6
+*** SHOW DOWN ***
+Ag3r0n: shows [Th Qh] (a pair of Tens)
+dborys: mucks hand
+Ag3r0n collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [3c 7d Td 2c 9h]
+Seat 3: Ag3r0n (button) (small blind) showed [Th Qh] and won ($41.50) with a pair of Tens
+Seat 6: dborys (big blind) mucked
+
+

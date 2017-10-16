@@ -1,0 +1,64 @@
+PokerStars Hand #147048589949:  Hold'em Limit ($3/$6 USD) - 2016/01/14 17:51:00 ET
+Table 'Kapaneus' 2-max Seat #2 is the button
+Seat 1: yirkape ($117.60 in chips)
+Seat 2: ChrisTuff ($156.52 in chips)
+ChrisTuff: posts small blind $1
+yirkape: posts big blind $3
+*** HOLE CARDS ***
+ChrisTuff: raises $3 to $6
+yirkape: raises $3 to $9
+ChrisTuff: calls $3
+*** FLOP *** [5s As 3c]
+yirkape: bets $3
+ChrisTuff: calls $3
+*** TURN *** [5s As 3c] [7s]
+yirkape: bets $6
+ChrisTuff: raises $6 to $12
+yirkape: calls $6
+*** RIVER *** [5s As 3c 7s] [2d]
+yirkape: bets $6
+ChrisTuff: calls $6
+*** SHOW DOWN ***
+yirkape: shows [Tc Ac] (a pair of Aces)
+ChrisTuff: mucks hand
+yirkape collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [5s As 3c 7s 2d]
+Seat 1: yirkape (big blind) showed [Tc Ac] and won ($59.50) with a pair of Aces
+Seat 2: ChrisTuff (button) (small blind) mucked
+
+
+PokerStars Hand #147048608401:  Hold'em Limit ($3/$6 USD) - 2016/01/14 17:51:19 ET
+Table 'Kapaneus' 2-max Seat #1 is the button
+Seat 1: yirkape ($147.10 in chips)
+Seat 2: ChrisTuff ($126.52 in chips)
+yirkape: posts small blind $1
+ChrisTuff: posts big blind $3
+*** HOLE CARDS ***
+yirkape: raises $3 to $6
+ChrisTuff: calls $3
+*** FLOP *** [8h Ts 2d]
+ChrisTuff: checks
+yirkape: bets $3
+ChrisTuff: calls $3
+*** TURN *** [8h Ts 2d] [Qc]
+ChrisTuff: checks
+yirkape: bets $6
+ChrisTuff: raises $6 to $12
+yirkape: raises $6 to $18
+ChrisTuff: calls $6
+*** RIVER *** [8h Ts 2d Qc] [Jh]
+ChrisTuff: checks
+yirkape: checks
+*** SHOW DOWN ***
+ChrisTuff: shows [Qh 4c] (a pair of Queens)
+yirkape: shows [Qs Td] (two pair, Queens and Tens)
+yirkape collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [8h Ts 2d Qc Jh]
+Seat 1: yirkape (button) (small blind) showed [Qs Td] and won ($53.50) with two pair, Queens and Tens
+Seat 2: ChrisTuff (big blind) showed [Qh 4c] and lost with a pair of Queens
+
+

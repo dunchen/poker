@@ -1,0 +1,61 @@
+PokerStars Hand #151899404578:  Hold'em Limit ($3/$6 USD) - 2016/04/14 9:07:50 ET
+Table 'Mauritia' 6-max Seat #1 is the button
+Seat 1: Yell0wBack ($272 in chips)
+Seat 3: ajmaster333 ($52.60 in chips)
+Yell0wBack: posts small blind $1
+ajmaster333: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa joins the table at seat #5
+Yell0wBack: raises $3 to $6
+ajmaster333: raises $3 to $9
+Agrotait leaves the table
+Yell0wBack: calls $3
+*** FLOP *** [As 5s 6c]
+ajmaster333: bets $3
+Yell0wBack: calls $3
+*** TURN *** [As 5s 6c] [Ts]
+ajmaster333: bets $6
+Yell0wBack: calls $6
+*** RIVER *** [As 5s 6c Ts] [Qs]
+ajmaster333: bets $6
+Yell0wBack: calls $6
+*** SHOW DOWN ***
+ajmaster333: shows [Td Th] (three of a kind, Tens)
+Yell0wBack: mucks hand
+ajmaster333 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [As 5s 6c Ts Qs]
+Seat 1: Yell0wBack (button) (small blind) mucked
+Seat 3: ajmaster333 (big blind) showed [Td Th] and won ($47.50) with three of a kind, Tens
+
+
+PokerStars Hand #151899435360:  Hold'em Limit ($3/$6 USD) - 2016/04/14 9:08:45 ET
+Table 'Mauritia' 6-max Seat #1 is the button
+Seat 1: Yell0wBack ($218 in chips)
+Seat 3: ajmaster333 ($105.60 in chips)
+Yell0wBack: posts small blind $1
+ajmaster333: posts big blind $3
+*** HOLE CARDS ***
+Yell0wBack: raises $3 to $6
+ajmaster333: calls $3
+*** FLOP *** [Tc 4c 9c]
+ajmaster333: checks
+Yell0wBack: bets $3
+ajmaster333: calls $3
+*** TURN *** [Tc 4c 9c] [8c]
+ajmaster333: checks
+Yell0wBack: checks
+*** RIVER *** [Tc 4c 9c 8c] [4d]
+ajmaster333: bets $6
+Yell0wBack: folds
+Uncalled bet ($6) returned to ajmaster333
+ajmaster333 collected $17.64 from pot
+ajmaster333: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Tc 4c 9c 8c 4d]
+Seat 1: Yell0wBack (button) (small blind) folded on the River
+Seat 3: ajmaster333 (big blind) collected ($17.64)
+
+

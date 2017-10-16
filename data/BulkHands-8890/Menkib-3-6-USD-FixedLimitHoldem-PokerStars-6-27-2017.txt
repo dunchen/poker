@@ -1,0 +1,55 @@
+PokerStars Hand #172291482732:  Hold'em Limit ($3/$6 USD) - 2017/06/27 0:56:42 ET
+Table 'Menkib' 6-max Seat #1 is the button
+Seat 1: LifeisagameX ($84 in chips)
+Seat 2: NewRocker ($120 in chips)
+LifeisagameX: posts small blind $1
+NewRocker: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+NewRocker: calls $3
+*** FLOP *** [Ks 8d Ac]
+NewRocker: checks
+LifeisagameX: bets $3
+NewRocker: folds
+Uncalled bet ($3) returned to LifeisagameX
+LifeisagameX collected $11.76 from pot
+LifeisagameX: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ks 8d Ac]
+Seat 1: LifeisagameX (button) (small blind) collected ($11.76)
+Seat 2: NewRocker (big blind) folded on the Flop
+
+
+PokerStars Hand #172291491126:  Hold'em Limit ($3/$6 USD) - 2017/06/27 0:57:22 ET
+Table 'Menkib' 6-max Seat #2 is the button
+Seat 1: LifeisagameX ($89.76 in chips)
+Seat 2: NewRocker ($114 in chips)
+NewRocker: posts small blind $1
+LifeisagameX: posts big blind $3
+*** HOLE CARDS ***
+NewRocker: raises $3 to $6
+LifeisagameX: calls $3
+*** FLOP *** [8d Jh 2c]
+LifeisagameX: checks
+NewRocker: bets $3
+LifeisagameX: calls $3
+*** TURN *** [8d Jh 2c] [5d]
+LifeisagameX: checks
+NewRocker: bets $6
+LifeisagameX: calls $6
+*** RIVER *** [8d Jh 2c 5d] [6s]
+LifeisagameX: checks
+NewRocker: bets $6
+LifeisagameX: calls $6
+*** SHOW DOWN ***
+NewRocker: shows [2s 5s] (two pair, Fives and Deuces)
+LifeisagameX: mucks hand
+NewRocker collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [8d Jh 2c 5d 6s]
+Seat 1: LifeisagameX (big blind) mucked
+Seat 2: NewRocker (button) (small blind) showed [2s 5s] and won ($41.50) with two pair, Fives and Deuces
+
+

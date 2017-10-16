@@ -1,0 +1,65 @@
+PokerStars Hand #172460635496:  Hold'em Limit ($3/$6 USD) - 2017/07/01 6:46:02 ET
+Table 'Patria' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 2: JimTheChamp ($42 in chips)
+VolkovDmitri: posts small blind $1
+JimTheChamp: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+JimTheChamp: calls $3
+*** FLOP *** [9d 2d Ts]
+JimTheChamp: bets $3
+VolkovDmitri: raises $3 to $6
+JimTheChamp: calls $3
+*** TURN *** [9d 2d Ts] [2c]
+JimTheChamp: checks
+VolkovDmitri: bets $6
+JimTheChamp: raises $6 to $12
+VolkovDmitri: raises $6 to $18
+JimTheChamp: raises $6 to $24
+Betting is capped
+VolkovDmitri: calls $6
+*** RIVER *** [9d 2d Ts 2c] [6s]
+JimTheChamp: bets $6 and is all-in
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+JimTheChamp: shows [4d 2s] (three of a kind, Deuces)
+VolkovDmitri: shows [Th 2h] (a full house, Deuces full of Tens)
+VolkovDmitri collected $83.50 from pot
+*** SUMMARY ***
+Total pot $84 | Rake $0.50
+Board [9d 2d Ts 2c 6s]
+Seat 1: VolkovDmitri (button) (small blind) showed [Th 2h] and won ($83.50) with a full house, Deuces full of Tens
+Seat 2: JimTheChamp (big blind) showed [4d 2s] and lost with three of a kind, Deuces
+
+
+PokerStars Hand #172460661347:  Hold'em Limit ($3/$6 USD) - 2017/07/01 6:47:04 ET
+Table 'Patria' 6-max Seat #2 is the button
+Seat 1: VolkovDmitri ($161.50 in chips)
+Seat 2: JimTheChamp ($38.29 in chips)
+JimTheChamp: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+JimTheChamp: calls $2
+VolkovDmitri: checks
+*** FLOP *** [5s 2c 4d]
+VolkovDmitri: bets $3
+JimTheChamp: calls $3
+*** TURN *** [5s 2c 4d] [4s]
+VolkovDmitri: bets $6
+JimTheChamp: raises $6 to $12
+VolkovDmitri: calls $6
+*** RIVER *** [5s 2c 4d 4s] [3s]
+VolkovDmitri: bets $6
+JimTheChamp: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [2s 6d] (a straight, Deuce to Six)
+JimTheChamp: mucks hand
+VolkovDmitri collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [5s 2c 4d 4s 3s]
+Seat 1: VolkovDmitri (big blind) showed [2s 6d] and won ($47.50) with a straight, Deuce to Six
+Seat 2: JimTheChamp (button) (small blind) mucked
+
+

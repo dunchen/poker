@@ -1,0 +1,33 @@
+PokerStars Hand #159899010378:  Hold'em Limit ($3/$6 USD) - 2016/10/13 20:26:29 ET
+Table 'Asios' 6-max Seat #3 is the button
+Seat 3: Elements29 ($166.26 in chips)
+Seat 4: ToDaFelt ($108 in chips)
+Elements29: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+Elements29: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [9h Kd Th]
+ToDaFelt: checks
+Elements29: bets $3
+ToDaFelt: raises $3 to $6
+Elements29: calls $3
+*** TURN *** [9h Kd Th] [Kc]
+ToDaFelt: bets $6
+Elements29: raises $6 to $12
+ToDaFelt: raises $6 to $18
+Elements29: calls $6
+*** RIVER *** [9h Kd Th Kc] [4s]
+ToDaFelt: bets $6
+Elements29: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [Ks 4h] (a full house, Kings full of Fours)
+Elements29: mucks hand
+ToDaFelt collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [9h Kd Th Kc 4s]
+Seat 3: Elements29 (button) (small blind) mucked
+Seat 4: ToDaFelt (big blind) showed [Ks 4h] and won ($71.50) with a full house, Kings full of Fours
+
+

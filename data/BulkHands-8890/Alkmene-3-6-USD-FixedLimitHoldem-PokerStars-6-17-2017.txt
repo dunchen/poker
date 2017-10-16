@@ -1,0 +1,84 @@
+PokerStars Hand #171910571472:  Hold'em Limit ($3/$6 USD) - 2017/06/17 19:56:18 ET
+Table 'Alkmene' 6-max Seat #4 is the button
+Seat 4: scorpio04 ($150 in chips)
+Seat 5: hassan67 ($120 in chips)
+scorpio04: posts small blind $1
+hassan67: posts big blind $3
+*** HOLE CARDS ***
+scorpio04: raises $3 to $6
+hassan67: calls $3
+*** FLOP *** [8c 9s 4h]
+hassan67: checks
+scorpio04: bets $3
+hassan67: calls $3
+*** TURN *** [8c 9s 4h] [8h]
+hassan67: checks
+scorpio04: bets $6
+hassan67: calls $6
+*** RIVER *** [8c 9s 4h 8h] [5d]
+hassan67: checks
+scorpio04: checks
+*** SHOW DOWN ***
+hassan67: shows [Qh 2h] (a pair of Eights)
+scorpio04: shows [Ad 3s] (a pair of Eights - Ace kicker)
+scorpio04 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8c 9s 4h 8h 5d]
+Seat 4: scorpio04 (button) (small blind) showed [Ad 3s] and won ($29.50) with a pair of Eights
+Seat 5: hassan67 (big blind) showed [Qh 2h] and lost with a pair of Eights
+
+
+PokerStars Hand #171910614039:  Hold'em Limit ($3/$6 USD) - 2017/06/17 19:57:57 ET
+Table 'Alkmene' 6-max Seat #4 is the button
+Seat 4: scorpio04 ($182 in chips)
+Seat 5: hassan67 ($87 in chips)
+scorpio04: posts small blind $1
+hassan67: posts big blind $3
+*** HOLE CARDS ***
+scorpio04: raises $3 to $6
+hassan67: calls $3
+*** FLOP *** [2c Js 9h]
+hassan67: checks
+scorpio04: bets $3
+hassan67: folds
+Uncalled bet ($3) returned to scorpio04
+scorpio04 collected $11.76 from pot
+scorpio04: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2c Js 9h]
+Seat 4: scorpio04 (button) (small blind) collected ($11.76)
+Seat 5: hassan67 (big blind) folded on the Flop
+
+
+PokerStars Hand #171910588604:  Hold'em Limit ($3/$6 USD) - 2017/06/17 19:56:57 ET
+Table 'Alkmene' 6-max Seat #5 is the button
+Seat 4: scorpio04 ($164.50 in chips)
+Seat 5: hassan67 ($105 in chips)
+hassan67: posts small blind $1
+scorpio04: posts big blind $3
+*** HOLE CARDS ***
+hassan67: raises $3 to $6
+scorpio04: calls $3
+*** FLOP *** [4c 2d 7s]
+scorpio04: checks
+hassan67: bets $3
+scorpio04: raises $3 to $6
+hassan67: calls $3
+*** TURN *** [4c 2d 7s] [9s]
+scorpio04: bets $6
+hassan67: calls $6
+*** RIVER *** [4c 2d 7s 9s] [Kc]
+scorpio04: bets $6
+hassan67: folds
+Uncalled bet ($6) returned to scorpio04
+scorpio04 collected $35.50 from pot
+scorpio04: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [4c 2d 7s 9s Kc]
+Seat 4: scorpio04 (big blind) collected ($35.50)
+Seat 5: hassan67 (button) (small blind) folded on the River
+
+

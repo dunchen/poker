@@ -1,0 +1,86 @@
+PokerStars Hand #144639532295:  Hold'em Limit ($3/$6 USD) - 2015/11/30 19:59:56 ET
+Table 'Antiope II' 6-max Seat #1 is the button
+Seat 1: Velbor107 ($300 in chips)
+Seat 2: hairy1961 ($60 in chips)
+Velbor107: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+Velbor107: raises $3 to $6
+hairy1961: raises $3 to $9
+Velbor107: calls $3
+*** FLOP *** [Jd 7c 9h]
+hairy1961: bets $3
+Velbor107: calls $3
+*** TURN *** [Jd 7c 9h] [2h]
+hairy1961: bets $6
+mdif joins the table at seat #3
+Velbor107: calls $6
+*** RIVER *** [Jd 7c 9h 2h] [Jc]
+hairy1961: bets $6
+Velbor107: calls $6
+*** SHOW DOWN ***
+hairy1961: shows [4s 3c] (a pair of Jacks)
+Velbor107: shows [5h 5c] (two pair, Jacks and Fives)
+Velbor107 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Jd 7c 9h 2h Jc]
+Seat 1: Velbor107 (button) (small blind) showed [5h 5c] and won ($47.50) with two pair, Jacks and Fives
+Seat 2: hairy1961 (big blind) showed [4s 3c] and lost with a pair of Jacks
+
+
+PokerStars Hand #144645201369:  Hold'em Limit ($3/$6 USD) - 2015/12/01 0:03:25 ET
+Table 'Antiope II' 6-max Seat #1 is the button
+Seat 1: icebookman ($86.73 in chips)
+Seat 2: karambakilla ($285.44 in chips)
+icebookman: posts small blind $1
+karambakilla: posts big blind $3
+*** HOLE CARDS ***
+icebookman: raises $3 to $6
+karambakilla: calls $3
+*** FLOP *** [6h Jh 2c]
+karambakilla: checks
+icebookman: bets $3
+karambakilla: folds
+Uncalled bet ($3) returned to icebookman
+icebookman collected $11.76 from pot
+icebookman: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6h Jh 2c]
+Seat 1: icebookman (button) (small blind) collected ($11.76)
+Seat 2: karambakilla (big blind) folded on the Flop
+
+
+PokerStars Hand #144645203999:  Hold'em Limit ($3/$6 USD) - 2015/12/01 0:03:36 ET
+Table 'Antiope II' 6-max Seat #2 is the button
+Seat 1: icebookman ($92.49 in chips)
+Seat 2: karambakilla ($279.44 in chips)
+karambakilla: posts small blind $1
+icebookman: posts big blind $3
+*** HOLE CARDS ***
+karambakilla: raises $3 to $6
+icebookman: raises $3 to $9
+karambakilla: calls $3
+*** FLOP *** [8s 8h Qd]
+icebookman: bets $3
+karambakilla: calls $3
+*** TURN *** [8s 8h Qd] [6s]
+icebookman: checks
+karambakilla: bets $6
+icebookman: calls $6
+*** RIVER *** [8s 8h Qd 6s] [9d]
+icebookman: checks
+karambakilla: bets $6
+icebookman: calls $6
+*** SHOW DOWN ***
+karambakilla: shows [Qs Jh] (two pair, Queens and Eights)
+icebookman: mucks hand
+karambakilla collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8s 8h Qd 6s 9d]
+Seat 1: icebookman (big blind) mucked
+Seat 2: karambakilla (button) (small blind) showed [Qs Jh] and won ($47.50) with two pair, Queens and Eights
+
+

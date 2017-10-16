@@ -1,0 +1,64 @@
+PokerStars Hand #154541400687:  Hold'em Limit ($3/$6 USD) - 2016/06/10 7:32:43 ET
+Table 'Tone' 6-max Seat #6 is the button
+Seat 5: beng_51 ($102.18 in chips)
+Seat 6: Nordq ($121 in chips)
+Nordq: posts small blind $1
+iskambil: is sitting out
+beng_51: posts big blind $3
+*** HOLE CARDS ***
+iskambil leaves the table
+Nordq: raises $3 to $6
+beng_51: raises $3 to $9
+Nordq: calls $3
+*** FLOP *** [7c Th Jd]
+beng_51: bets $3
+Nordq: calls $3
+*** TURN *** [7c Th Jd] [6c]
+beng_51: bets $6
+Nordq: calls $6
+*** RIVER *** [7c Th Jd 6c] [8c]
+beng_51: bets $6
+Nordq: calls $6
+*** SHOW DOWN ***
+beng_51: shows [Jc Qh] (a pair of Jacks)
+Nordq: shows [9h Ts] (a straight, Seven to Jack)
+Nordq collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7c Th Jd 6c 8c]
+Seat 5: beng_51 (big blind) showed [Jc Qh] and lost with a pair of Jacks
+Seat 6: Nordq (button) (small blind) showed [9h Ts] and won ($47.50) with a straight, Seven to Jack
+
+
+PokerStars Hand #154541969668:  Hold'em Limit ($3/$6 USD) - 2016/06/10 7:53:09 ET
+Table 'Tone' 6-max Seat #4 is the button
+Seat 1: Ale4o ($127.16 in chips)
+Seat 4: Airbag999 ($174.37 in chips)
+Airbag999: posts small blind $1
+Ale4o: posts big blind $3
+*** HOLE CARDS ***
+Airbag999: raises $3 to $6
+Ale4o: calls $3
+*** FLOP *** [Ks Tc 5s]
+Ale4o: checks
+Airbag999: bets $3
+Ale4o: raises $3 to $6
+19woody58 leaves the table
+Airbag999: calls $3
+*** TURN *** [Ks Tc 5s] [As]
+Ale4o: checks
+Airbag999: checks
+*** RIVER *** [Ks Tc 5s As] [Ts]
+Ale4o: checks
+Airbag999: checks
+*** SHOW DOWN ***
+Ale4o: shows [7s Th] (a flush, Ace high)
+Airbag999: mucks hand
+Ale4o collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Ks Tc 5s As Ts]
+Seat 1: Ale4o (big blind) showed [7s Th] and won ($23.52) with a flush, Ace high
+Seat 4: Airbag999 (button) (small blind) mucked
+
+

@@ -1,0 +1,41 @@
+PokerStars Hand #160434860752:  Hold'em Limit ($3/$6 USD) - 2016/10/25 16:37:01 ET
+Table 'Heike' 10-max Seat #10 is the button
+Seat 5: voperk ($120 in chips)
+Seat 10: kodelin1 ($60.01 in chips)
+kodelin1: posts small blind $1
+voperk: posts big blind $3
+*** HOLE CARDS ***
+kodelin1: raises $3 to $6
+voperk: raises $3 to $9
+kodelin1: raises $3 to $12
+Betting is capped
+voperk: calls $3
+*** FLOP *** [3s 9s 6s]
+voperk: bets $3
+kodelin1: raises $3 to $6
+voperk: raises $3 to $9
+kodelin1: raises $3 to $12
+Betting is capped
+voperk: calls $3
+*** TURN *** [3s 9s 6s] [Qc]
+voperk: bets $6
+kodelin1: raises $6 to $12
+voperk: raises $6 to $18
+kodelin1: raises $6 to $24
+Betting is capped
+voperk: calls $6
+*** RIVER *** [3s 9s 6s Qc] [Qh]
+voperk: bets $6
+kodelin1: raises $6 to $12
+voperk: raises $6 to $18
+kodelin1: folds
+Uncalled bet ($6) returned to voperk
+voperk collected $119.50 from pot
+voperk leaves the table
+*** SUMMARY ***
+Total pot $120 | Rake $0.50
+Board [3s 9s 6s Qc Qh]
+Seat 5: voperk (big blind) collected ($119.50)
+Seat 10: kodelin1 (button) (small blind) folded on the River
+
+

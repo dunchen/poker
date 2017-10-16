@@ -1,0 +1,589 @@
+PokerStars Hand #168908225785:  Hold'em Limit ($3/$6 USD) - 2017/04/11 17:46:32 ET
+Table 'Hagihara' 6-max Seat #3 is the button
+Seat 3: LetsJustRun ($121.64 in chips)
+Seat 6: ToDaFelt ($111 in chips)
+LetsJustRun: posts small blind $1
+yamaxerm: is sitting out
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+LetsJustRun: raises $3 to $6
+ToDaFelt: raises $3 to $9
+yamaxerm leaves the table
+LetsJustRun: calls $3
+*** FLOP *** [Jd 8h 8s]
+ToDaFelt: bets $3
+LetsJustRun: calls $3
+*** TURN *** [Jd 8h 8s] [6c]
+ToDaFelt: bets $6
+LetsJustRun: raises $6 to $12
+Jack_Wu1985 joins the table at seat #2
+ToDaFelt: calls $6
+*** RIVER *** [Jd 8h 8s 6c] [Ac]
+ToDaFelt: checks
+LetsJustRun: checks
+*** SHOW DOWN ***
+ToDaFelt: shows [Kd Td] (a pair of Eights)
+LetsJustRun: shows [5s Js] (two pair, Jacks and Eights)
+LetsJustRun collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Jd 8h 8s 6c Ac]
+Seat 3: LetsJustRun (button) (small blind) showed [5s Js] and won ($47.50) with two pair, Jacks and Eights
+Seat 6: ToDaFelt (big blind) showed [Kd Td] and lost with a pair of Eights
+
+
+PokerStars Hand #168908514723:  Hold'em Limit ($3/$6 USD) - 2017/04/11 17:52:42 ET
+Table 'Hagihara' 6-max Seat #6 is the button
+Seat 3: LetsJustRun ($153.14 in chips)
+Seat 6: ToDaFelt ($92.42 in chips)
+ToDaFelt: posts small blind $1
+Jack_Wu1985: is sitting out
+LetsJustRun: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+LetsJustRun: raises $3 to $9
+ToDaFelt: calls $3
+*** FLOP *** [Tc 2d Jh]
+LetsJustRun: bets $3
+ToDaFelt: calls $3
+*** TURN *** [Tc 2d Jh] [5d]
+LetsJustRun: bets $6
+ToDaFelt: calls $6
+*** RIVER *** [Tc 2d Jh 5d] [7d]
+LetsJustRun: bets $6
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+LetsJustRun: shows [Ad Ts] (a pair of Tens)
+ToDaFelt: mucks hand
+LetsJustRun collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Tc 2d Jh 5d 7d]
+Seat 3: LetsJustRun (big blind) showed [Ad Ts] and won ($47.50) with a pair of Tens
+Seat 6: ToDaFelt (button) (small blind) mucked
+
+
+PokerStars Hand #168908563113:  Hold'em Limit ($3/$6 USD) - 2017/04/11 17:53:45 ET
+Table 'Hagihara' 6-max Seat #6 is the button
+Seat 3: LetsJustRun ($203.14 in chips)
+Seat 6: ToDaFelt ($93 in chips)
+ToDaFelt: posts small blind $1
+LetsJustRun: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+LetsJustRun: calls $3
+*** FLOP *** [Jd Ad 7s]
+LetsJustRun: checks
+ToDaFelt: bets $3
+LetsJustRun: calls $3
+*** TURN *** [Jd Ad 7s] [9s]
+LetsJustRun: checks
+ToDaFelt: bets $6
+LetsJustRun: folds
+Uncalled bet ($6) returned to ToDaFelt
+ToDaFelt collected $17.64 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Jd Ad 7s 9s]
+Seat 3: LetsJustRun (big blind) folded on the Turn
+Seat 6: ToDaFelt (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #168908537332:  Hold'em Limit ($3/$6 USD) - 2017/04/11 17:53:12 ET
+Table 'Hagihara' 6-max Seat #3 is the button
+Seat 3: LetsJustRun ($176.64 in chips)
+Seat 6: ToDaFelt ($120 in chips)
+LetsJustRun: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+LetsJustRun: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [7s 7d 6h]
+ToDaFelt: checks
+LetsJustRun: bets $3
+ToDaFelt: raises $3 to $6
+LetsJustRun: raises $3 to $9
+ToDaFelt: calls $3
+*** TURN *** [7s 7d 6h] [Ah]
+ToDaFelt: checks
+LetsJustRun: bets $6
+ToDaFelt: calls $6
+*** RIVER *** [7s 7d 6h Ah] [3h]
+ToDaFelt: checks
+LetsJustRun: bets $6
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+LetsJustRun: shows [7h 8c] (three of a kind, Sevens)
+ToDaFelt: mucks hand
+LetsJustRun collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [7s 7d 6h Ah 3h]
+Seat 3: LetsJustRun (button) (small blind) showed [7h 8c] and won ($53.50) with three of a kind, Sevens
+Seat 6: ToDaFelt (big blind) mucked
+
+
+PokerStars Hand #168908631791:  Hold'em Limit ($3/$6 USD) - 2017/04/11 17:55:15 ET
+Table 'Hagihara' 6-max Seat #3 is the button
+Seat 3: LetsJustRun ($196.66 in chips)
+Seat 6: ToDaFelt ($98.28 in chips)
+LetsJustRun: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+LetsJustRun: folds
+Uncalled bet ($2) returned to ToDaFelt
+ToDaFelt collected $2 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: LetsJustRun (button) (small blind) folded before Flop
+Seat 6: ToDaFelt (big blind) collected ($2)
+
+
+PokerStars Hand #168908606986:  Hold'em Limit ($3/$6 USD) - 2017/04/11 17:54:42 ET
+Table 'Hagihara' 6-max Seat #6 is the button
+Seat 3: LetsJustRun ($185.14 in chips)
+Seat 6: ToDaFelt ($110.28 in chips)
+ToDaFelt: posts small blind $1
+LetsJustRun: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+LetsJustRun: calls $3
+*** FLOP *** [6c 4s Jd]
+LetsJustRun: checks
+ToDaFelt: checks
+*** TURN *** [6c 4s Jd] [Kh]
+LetsJustRun: checks
+ToDaFelt: bets $6
+LetsJustRun: calls $6
+*** RIVER *** [6c 4s Jd Kh] [3s]
+LetsJustRun: checks
+ToDaFelt: checks
+*** SHOW DOWN ***
+LetsJustRun: shows [5c 6s] (a pair of Sixes)
+ToDaFelt: mucks hand
+LetsJustRun collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [6c 4s Jd Kh 3s]
+Seat 3: LetsJustRun (big blind) showed [5c 6s] and won ($23.52) with a pair of Sixes
+Seat 6: ToDaFelt (button) (small blind) mucked
+
+
+PokerStars Hand #168908635021:  Hold'em Limit ($3/$6 USD) - 2017/04/11 17:55:20 ET
+Table 'Hagihara' 6-max Seat #6 is the button
+Seat 3: LetsJustRun ($195.66 in chips)
+Seat 6: ToDaFelt ($99.28 in chips)
+ToDaFelt: posts small blind $1
+LetsJustRun: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+LetsJustRun: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $6 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: LetsJustRun (big blind) folded before Flop
+Seat 6: ToDaFelt (button) (small blind) collected ($6)
+
+
+PokerStars Hand #168908583815:  Hold'em Limit ($3/$6 USD) - 2017/04/11 17:54:12 ET
+Table 'Hagihara' 6-max Seat #3 is the button
+Seat 3: LetsJustRun ($194.14 in chips)
+Seat 6: ToDaFelt ($101.64 in chips)
+LetsJustRun: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+LetsJustRun: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [4c 9s 8s]
+ToDaFelt: checks
+LetsJustRun: bets $3
+ToDaFelt: calls $3
+*** TURN *** [4c 9s 8s] [5s]
+ToDaFelt: checks
+LetsJustRun: checks
+*** RIVER *** [4c 9s 8s 5s] [5h]
+ToDaFelt: bets $6
+LetsJustRun: folds
+Uncalled bet ($6) returned to ToDaFelt
+ToDaFelt collected $17.64 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4c 9s 8s 5s 5h]
+Seat 3: LetsJustRun (button) (small blind) folded on the River
+Seat 6: ToDaFelt (big blind) collected ($17.64)
+
+
+PokerStars Hand #168908665959:  Hold'em Limit ($3/$6 USD) - 2017/04/11 17:56:08 ET
+Table 'Hagihara' 6-max Seat #3 is the button
+Seat 3: LetsJustRun ($209.16 in chips)
+Seat 6: ToDaFelt ($85.28 in chips)
+LetsJustRun: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+LetsJustRun: raises $3 to $6
+ToDaFelt: folds
+Uncalled bet ($3) returned to LetsJustRun
+LetsJustRun collected $6 from pot
+LetsJustRun: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: LetsJustRun (button) (small blind) collected ($6)
+Seat 6: ToDaFelt (big blind) folded before Flop
+
+
+PokerStars Hand #168908643206:  Hold'em Limit ($3/$6 USD) - 2017/04/11 17:55:33 ET
+Table 'Hagihara' 6-max Seat #6 is the button
+Seat 3: LetsJustRun ($191.66 in chips)
+Seat 6: ToDaFelt ($103.28 in chips)
+ToDaFelt: posts small blind $1
+LetsJustRun: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+Jack_Wu1985 leaves the table
+LetsJustRun: calls $3
+*** FLOP *** [8d Jc Td]
+LetsJustRun: checks
+ToDaFelt: checks
+*** TURN *** [8d Jc Td] [4c]
+LetsJustRun: checks
+ToDaFelt: bets $6
+LetsJustRun: raises $6 to $12
+ToDaFelt: calls $6
+*** RIVER *** [8d Jc Td 4c] [8c]
+LetsJustRun: bets $6
+ToDaFelt: folds
+Uncalled bet ($6) returned to LetsJustRun
+LetsJustRun collected $35.50 from pot
+LetsJustRun: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [8d Jc Td 4c 8c]
+Seat 3: LetsJustRun (big blind) collected ($35.50)
+Seat 6: ToDaFelt (button) (small blind) folded on the River
+
+
+PokerStars Hand #168908674909:  Hold'em Limit ($3/$6 USD) - 2017/04/11 17:56:22 ET
+Table 'Hagihara' 6-max Seat #3 is the button
+Seat 3: LetsJustRun ($213.16 in chips)
+Seat 6: ToDaFelt ($81.28 in chips)
+LetsJustRun: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+LetsJustRun: folds
+Uncalled bet ($2) returned to ToDaFelt
+ToDaFelt collected $2 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: LetsJustRun (button) (small blind) folded before Flop
+Seat 6: ToDaFelt (big blind) collected ($2)
+
+
+PokerStars Hand #168908671723:  Hold'em Limit ($3/$6 USD) - 2017/04/11 17:56:17 ET
+Table 'Hagihara' 6-max Seat #6 is the button
+Seat 3: LetsJustRun ($212.16 in chips)
+Seat 6: ToDaFelt ($82.28 in chips)
+ToDaFelt: posts small blind $1
+LetsJustRun: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: folds
+Uncalled bet ($2) returned to LetsJustRun
+LetsJustRun collected $2 from pot
+LetsJustRun: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: LetsJustRun (big blind) collected ($2)
+Seat 6: ToDaFelt (button) (small blind) folded before Flop
+
+
+PokerStars Hand #168908640267:  Hold'em Limit ($3/$6 USD) - 2017/04/11 17:55:28 ET
+Table 'Hagihara' 6-max Seat #3 is the button
+Seat 3: LetsJustRun ($192.66 in chips)
+Seat 6: ToDaFelt ($102.28 in chips)
+LetsJustRun: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+LetsJustRun: folds
+Uncalled bet ($2) returned to ToDaFelt
+ToDaFelt collected $2 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: LetsJustRun (button) (small blind) folded before Flop
+Seat 6: ToDaFelt (big blind) collected ($2)
+
+
+PokerStars Hand #168908702779:  Hold'em Limit ($3/$6 USD) - 2017/04/11 17:57:05 ET
+Table 'Hagihara' 6-max Seat #3 is the button
+Seat 3: LetsJustRun ($229.66 in chips)
+Seat 6: ToDaFelt ($120 in chips)
+LetsJustRun: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+LetsJustRun: raises $3 to $6
+ToDaFelt: folds
+Uncalled bet ($3) returned to LetsJustRun
+LetsJustRun collected $6 from pot
+LetsJustRun: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: LetsJustRun (button) (small blind) collected ($6)
+Seat 6: ToDaFelt (big blind) folded before Flop
+
+
+PokerStars Hand #168908726163:  Hold'em Limit ($3/$6 USD) - 2017/04/11 17:57:41 ET
+Table 'Hagihara' 6-max Seat #6 is the button
+Seat 3: LetsJustRun ($253.16 in chips)
+Seat 6: ToDaFelt ($96 in chips)
+ToDaFelt: posts small blind $1
+LetsJustRun: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+LetsJustRun: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $6 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: LetsJustRun (big blind) folded before Flop
+Seat 6: ToDaFelt (button) (small blind) collected ($6)
+
+
+PokerStars Hand #168908721519:  Hold'em Limit ($3/$6 USD) - 2017/04/11 17:57:34 ET
+Table 'Hagihara' 6-max Seat #3 is the button
+Seat 3: LetsJustRun ($250.16 in chips)
+Seat 6: ToDaFelt ($99 in chips)
+LetsJustRun: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+LetsJustRun: raises $3 to $6
+ToDaFelt: folds
+Uncalled bet ($3) returned to LetsJustRun
+LetsJustRun collected $6 from pot
+LetsJustRun: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: LetsJustRun (button) (small blind) collected ($6)
+Seat 6: ToDaFelt (big blind) folded before Flop
+
+
+PokerStars Hand #168908729214:  Hold'em Limit ($3/$6 USD) - 2017/04/11 17:57:46 ET
+Table 'Hagihara' 6-max Seat #3 is the button
+Seat 3: LetsJustRun ($250.16 in chips)
+Seat 6: ToDaFelt ($99 in chips)
+LetsJustRun: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+LetsJustRun: raises $3 to $6
+ToDaFelt: raises $3 to $9
+LetsJustRun: calls $3
+*** FLOP *** [3c 6h Qc]
+ToDaFelt: bets $3
+LetsJustRun: calls $3
+*** TURN *** [3c 6h Qc] [7s]
+ToDaFelt: bets $6
+LetsJustRun: raises $6 to $12
+ToDaFelt: calls $6
+*** RIVER *** [3c 6h Qc 7s] [8c]
+ToDaFelt: checks
+LetsJustRun: bets $6
+ToDaFelt: folds
+Uncalled bet ($6) returned to LetsJustRun
+LetsJustRun collected $47.50 from pot
+LetsJustRun: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3c 6h Qc 7s 8c]
+Seat 3: LetsJustRun (button) (small blind) collected ($47.50)
+Seat 6: ToDaFelt (big blind) folded on the River
+
+
+PokerStars Hand #168908706655:  Hold'em Limit ($3/$6 USD) - 2017/04/11 17:57:11 ET
+Table 'Hagihara' 6-max Seat #6 is the button
+Seat 3: LetsJustRun ($232.66 in chips)
+Seat 6: ToDaFelt ($117 in chips)
+ToDaFelt: posts small blind $1
+LetsJustRun: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+LetsJustRun: calls $3
+*** FLOP *** [Qh 5c 7s]
+LetsJustRun: checks
+ToDaFelt: checks
+*** TURN *** [Qh 5c 7s] [Qc]
+LetsJustRun: bets $6
+ToDaFelt: calls $6
+*** RIVER *** [Qh 5c 7s Qc] [Qd]
+LetsJustRun: bets $6
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+LetsJustRun: shows [Jd Qs] (four of a kind, Queens)
+ToDaFelt: mucks hand
+LetsJustRun collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Qh 5c 7s Qc Qd]
+Seat 3: LetsJustRun (big blind) showed [Jd Qs] and won ($35.50) with four of a kind, Queens
+Seat 6: ToDaFelt (button) (small blind) mucked
+
+
+PokerStars Hand #168908750542:  Hold'em Limit ($3/$6 USD) - 2017/04/11 17:58:19 ET
+Table 'Hagihara' 6-max Seat #6 is the button
+Seat 3: LetsJustRun ($273.66 in chips)
+Seat 6: ToDaFelt ($75 in chips)
+ToDaFelt: posts small blind $1
+LetsJustRun: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+LetsJustRun: calls $3
+*** FLOP *** [3c Ts 8s]
+Fetish73 joins the table at seat #4
+LetsJustRun: checks
+ToDaFelt: bets $3
+LetsJustRun: raises $3 to $6
+ToDaFelt: calls $3
+*** TURN *** [3c Ts 8s] [7c]
+LetsJustRun: bets $6
+ToDaFelt: calls $6
+*** RIVER *** [3c Ts 8s 7c] [Ac]
+LetsJustRun: bets $6
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+LetsJustRun: shows [3d Ah] (two pair, Aces and Threes)
+ToDaFelt: mucks hand
+LetsJustRun collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3c Ts 8s 7c Ac]
+Seat 3: LetsJustRun (big blind) showed [3d Ah] and won ($47.50) with two pair, Aces and Threes
+Seat 6: ToDaFelt (button) (small blind) mucked
+
+
+PokerStars Hand #168908931088:  Hold'em Limit ($3/$6 USD) - 2017/04/11 18:02:42 ET
+Table 'Hagihara' 6-max Seat #4 is the button
+Seat 4: Fetish73 ($83.04 in chips)
+Seat 6: ToDaFelt ($120 in chips)
+Fetish73: posts small blind $1
+yamaxerm: is sitting out
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+Fetish73: folds
+Uncalled bet ($2) returned to ToDaFelt
+ToDaFelt collected $2 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: Fetish73 (button) (small blind) folded before Flop
+Seat 6: ToDaFelt (big blind) collected ($2)
+
+
+PokerStars Hand #168908935239:  Hold'em Limit ($3/$6 USD) - 2017/04/11 18:02:47 ET
+Table 'Hagihara' 6-max Seat #6 is the button
+Seat 4: Fetish73 ($82.04 in chips)
+Seat 6: ToDaFelt ($121 in chips)
+ToDaFelt: posts small blind $1
+Fetish73: posts big blind $3
+*** HOLE CARDS ***
+yamaxerm leaves the table
+ToDaFelt: raises $3 to $6
+Fetish73: calls $3
+*** FLOP *** [Kd Qh Ah]
+Fetish73: checks
+ToDaFelt: bets $3
+Fetish73: folds
+Uncalled bet ($3) returned to ToDaFelt
+igmade joins the table at seat #3
+ToDaFelt collected $11.76 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kd Qh Ah]
+Seat 4: Fetish73 (big blind) folded on the Flop
+Seat 6: ToDaFelt (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #168908943294:  Hold'em Limit ($3/$6 USD) - 2017/04/11 18:02:58 ET
+Table 'Hagihara' 6-max Seat #4 is the button
+Seat 4: Fetish73 ($76.04 in chips)
+Seat 6: ToDaFelt ($126.76 in chips)
+Fetish73: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+Fetish73: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [Ah As Tc]
+ToDaFelt: checks
+Fetish73: bets $3
+ToDaFelt: calls $3
+*** TURN *** [Ah As Tc] [Qh]
+ToDaFelt: checks
+Fetish73: checks
+*** RIVER *** [Ah As Tc Qh] [7c]
+ToDaFelt: bets $6
+Fetish73: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [8s Jh] (a pair of Aces)
+Fetish73: shows [9c Ts] (two pair, Aces and Tens)
+Fetish73 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ah As Tc Qh 7c]
+Seat 4: Fetish73 (button) (small blind) showed [9c Ts] and won ($29.50) with two pair, Aces and Tens
+Seat 6: ToDaFelt (big blind) showed [8s Jh] and lost with a pair of Aces
+
+
+PokerStars Hand #168910243524:  Hold'em Limit ($3/$6 USD) - 2017/04/11 18:32:43 ET
+Table 'Hagihara' 6-max Seat #2 is the button
+Seat 2: Donald ($80.28 in chips)
+Seat 6: ToDaFelt ($192.89 in chips)
+Donald: posts small blind $1
+makimaki: is sitting out
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+makimaki leaves the table
+Donald: folds
+Uncalled bet ($2) returned to ToDaFelt
+ToDaFelt collected $2 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: Donald (button) (small blind) folded before Flop
+Seat 6: ToDaFelt (big blind) collected ($2)
+
+
+PokerStars Hand #168910247681:  Hold'em Limit ($3/$6 USD) - 2017/04/11 18:32:49 ET
+Table 'Hagihara' 6-max Seat #6 is the button
+Seat 2: Donald ($79.28 in chips)
+Seat 6: ToDaFelt ($193.89 in chips)
+ToDaFelt: posts small blind $1
+Donald: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+Donald: raises $3 to $9
+ToDaFelt: calls $3
+*** FLOP *** [7d 9h 9c]
+Donald: bets $3
+ToDaFelt: calls $3
+*** TURN *** [7d 9h 9c] [Td]
+Donald: bets $6
+ToDaFelt: raises $6 to $12
+Donald: calls $6
+*** RIVER *** [7d 9h 9c Td] [6d]
+Donald: bets $6
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+Donald: shows [Jd Ad] (a flush, Ace high)
+ToDaFelt: mucks hand
+Donald collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [7d 9h 9c Td 6d]
+Seat 2: Donald (big blind) showed [Jd Ad] and won ($59.50) with a flush, Ace high
+Seat 6: ToDaFelt (button) (small blind) mucked
+
+

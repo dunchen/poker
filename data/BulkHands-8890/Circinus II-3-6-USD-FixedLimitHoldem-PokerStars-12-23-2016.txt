@@ -1,0 +1,51 @@
+PokerStars Hand #163415593525:  Hold'em Limit ($3/$6 USD) - 2016/12/23 17:17:21 ET
+Table 'Circinus II' 6-max Seat #1 is the button
+Seat 1: ToDaFelt ($120 in chips)
+Seat 3: stampa2 ($68.47 in chips)
+ToDaFelt: posts small blind $1
+stampa2: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+stampa2: calls $3
+*** FLOP *** [5h Jc Js]
+stampa2: checks
+ToDaFelt: bets $3
+stampa2: calls $3
+*** TURN *** [5h Jc Js] [7d]
+stampa2: checks
+ToDaFelt: bets $6
+ABATAPP joins the table at seat #4
+stampa2: raises $6 to $12
+ToDaFelt: calls $6
+*** RIVER *** [5h Jc Js 7d] [9c]
+stampa2: bets $6
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+stampa2: shows [3h Jh] (three of a kind, Jacks)
+ToDaFelt: mucks hand
+stampa2 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [5h Jc Js 7d 9c]
+Seat 1: ToDaFelt (button) (small blind) mucked
+Seat 3: stampa2 (big blind) showed [3h Jh] and won ($53.50) with three of a kind, Jacks
+
+
+PokerStars Hand #163415580426:  Hold'em Limit ($3/$6 USD) - 2016/12/23 17:17:06 ET
+Table 'Circinus II' 6-max Seat #3 is the button
+Seat 1: ToDaFelt ($123 in chips)
+Seat 3: stampa2 ($65.47 in chips)
+stampa2: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+stampa2: raises $3 to $6
+ToDaFelt: folds
+Uncalled bet ($3) returned to stampa2
+stampa2 collected $6 from pot
+stampa2: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: ToDaFelt (big blind) folded before Flop
+Seat 3: stampa2 (button) (small blind) collected ($6)
+
+

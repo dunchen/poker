@@ -1,0 +1,86 @@
+PokerStars Hand #148325127905:  Hold'em Limit ($3/$6 USD) - 2016/02/06 6:35:43 ET
+Table 'Datura' 2-max Seat #2 is the button
+Seat 1: melyh82 ($16.60 in chips)
+Seat 2: punkrott ($101.26 in chips)
+punkrott: posts small blind $1
+melyh82: posts big blind $3
+*** HOLE CARDS ***
+punkrott: raises $3 to $6
+melyh82: calls $3
+*** FLOP *** [As 2d Js]
+melyh82: checks
+punkrott: bets $3
+melyh82: raises $3 to $6
+punkrott: raises $3 to $9
+melyh82: raises $1.60 to $10.60 and is all-in
+Betting is capped
+punkrott: calls $1.60
+*** TURN *** [As 2d Js] [Jh]
+*** RIVER *** [As 2d Js Jh] [3c]
+*** SHOW DOWN ***
+melyh82: shows [Qd 6c] (a pair of Jacks)
+punkrott: shows [Ac 5c] (two pair, Aces and Jacks)
+punkrott collected $32.70 from pot
+*** SUMMARY ***
+Total pot $33.20 | Rake $0.50
+Board [As 2d Js Jh 3c]
+Seat 1: melyh82 (big blind) showed [Qd 6c] and lost with a pair of Jacks
+Seat 2: punkrott (button) (small blind) showed [Ac 5c] and won ($32.70) with two pair, Aces and Jacks
+
+
+PokerStars Hand #148325122129:  Hold'em Limit ($3/$6 USD) - 2016/02/06 6:35:33 ET
+Table 'Datura' 2-max Seat #1 is the button
+Seat 1: melyh82 ($22.60 in chips)
+Seat 2: punkrott ($95.50 in chips)
+melyh82: posts small blind $1
+punkrott: posts big blind $3
+*** HOLE CARDS ***
+melyh82: raises $3 to $6
+punkrott: calls $3
+*** FLOP *** [Jc Ts 7h]
+punkrott: checks
+melyh82: checks
+*** TURN *** [Jc Ts 7h] [Tc]
+punkrott: bets $6
+melyh82: folds
+Uncalled bet ($6) returned to punkrott
+punkrott collected $11.76 from pot
+punkrott: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jc Ts 7h Tc]
+Seat 1: melyh82 (button) (small blind) folded on the Turn
+Seat 2: punkrott (big blind) collected ($11.76)
+
+
+PokerStars Hand #148325112253:  Hold'em Limit ($3/$6 USD) - 2016/02/06 6:35:16 ET
+Table 'Datura' 2-max Seat #2 is the button
+Seat 1: melyh82 ($46.60 in chips)
+Seat 2: punkrott ($72 in chips)
+punkrott: posts small blind $1
+melyh82: posts big blind $3
+*** HOLE CARDS ***
+punkrott: raises $3 to $6
+melyh82: calls $3
+*** FLOP *** [9d 3h Kd]
+melyh82: checks
+punkrott: bets $3
+melyh82: raises $3 to $6
+punkrott: calls $3
+*** TURN *** [9d 3h Kd] [4h]
+melyh82: bets $6
+punkrott: calls $6
+*** RIVER *** [9d 3h Kd 4h] [As]
+melyh82: bets $6
+punkrott: raises $6 to $12
+melyh82: folds
+Uncalled bet ($6) returned to punkrott
+punkrott collected $47.50 from pot
+punkrott: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9d 3h Kd 4h As]
+Seat 1: melyh82 (big blind) folded on the River
+Seat 2: punkrott (button) (small blind) collected ($47.50)
+
+

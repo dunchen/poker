@@ -1,0 +1,35 @@
+PokerStars Hand #155376171134:  Hold'em Limit ($3/$6 USD) - 2016/06/30 5:01:01 ET
+Table 'Cepheus II' 6-max Seat #4 is the button
+Seat 3: wuck249 ($101.83 in chips)
+Seat 4: liolilove ($122.58 in chips)
+liolilove: posts small blind $1
+RockKillerTY: is sitting out
+wuck249: posts big blind $3
+*** HOLE CARDS ***
+liolilove: raises $3 to $6
+wuck249: calls $3
+*** FLOP *** [Jh 4d Kh]
+wuck249: checks
+RockKillerTY leaves the table
+liolilove: bets $3
+wuck249: raises $3 to $6
+liolilove: calls $3
+*** TURN *** [Jh 4d Kh] [8d]
+wuck249: checks
+liolilove: bets $6
+wuck249: raises $6 to $12
+liolilove: calls $6
+*** RIVER *** [Jh 4d Kh 8d] [8h]
+wuck249: bets $6
+liolilove: calls $6
+*** SHOW DOWN ***
+wuck249: shows [5h Ah] (a flush, Ace high)
+liolilove: mucks hand
+wuck249 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Jh 4d Kh 8d 8h]
+Seat 3: wuck249 (big blind) showed [5h Ah] and won ($59.50) with a flush, Ace high
+Seat 4: liolilove (button) (small blind) mucked
+
+

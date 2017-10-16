@@ -1,0 +1,61 @@
+PokerStars Hand #155465360601:  Hold'em Limit ($3/$6 USD) - 2016/07/02 9:45:56 ET
+Table 'Cornelia II' 6-max Seat #4 is the button
+Seat 4: sokol-max-PS ($230.36 in chips)
+Seat 6: Makomar ($146.29 in chips)
+sokol-max-PS: posts small blind $1
+Kasinojunge*: is sitting out
+Makomar: posts big blind $3
+*** HOLE CARDS ***
+sokol-max-PS: raises $3 to $6
+Makomar: raises $3 to $9
+sokol-max-PS: calls $3
+*** FLOP *** [Qh 4s 6c]
+Makomar: bets $3
+sokol-max-PS: calls $3
+*** TURN *** [Qh 4s 6c] [3c]
+Makomar: bets $6
+Kasinojunge* leaves the table
+sokol-max-PS: calls $6
+*** RIVER *** [Qh 4s 6c 3c] [2h]
+Makomar: bets $6
+sokol-max-PS: folds
+Uncalled bet ($6) returned to Makomar
+Makomar collected $35.50 from pot
+Makomar: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Qh 4s 6c 3c 2h]
+Seat 4: sokol-max-PS (button) (small blind) folded on the River
+Seat 6: Makomar (big blind) collected ($35.50)
+
+
+PokerStars Hand #155465383023:  Hold'em Limit ($3/$6 USD) - 2016/07/02 9:46:36 ET
+Table 'Cornelia II' 6-max Seat #6 is the button
+Seat 4: sokol-max-PS ($212.36 in chips)
+Seat 6: Makomar ($163.79 in chips)
+Makomar: posts small blind $1
+sokol-max-PS: posts big blind $3
+*** HOLE CARDS ***
+Makomar: raises $3 to $6
+sokol-max-PS: raises $3 to $9
+Makomar: calls $3
+*** FLOP *** [Qh 2h Tc]
+sokol-max-PS: bets $3
+Makomar: calls $3
+*** TURN *** [Qh 2h Tc] [4d]
+sokol-max-PS: bets $6
+Makomar: calls $6
+*** RIVER *** [Qh 2h Tc 4d] [8c]
+sokol-max-PS: checks
+Makomar: checks
+*** SHOW DOWN ***
+sokol-max-PS: shows [5c 6c] (high card Queen)
+Makomar: shows [Kc 4c] (a pair of Fours)
+Makomar collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Qh 2h Tc 4d 8c]
+Seat 4: sokol-max-PS (big blind) showed [5c 6c] and lost with high card Queen
+Seat 6: Makomar (button) (small blind) showed [Kc 4c] and won ($35.50) with a pair of Fours
+
+

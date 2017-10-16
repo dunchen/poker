@@ -1,0 +1,32 @@
+PokerStars Hand #145652663983:  Hold'em Limit ($3/$6 USD) - 2015/12/20 15:27:49 ET
+Table 'Medea III' 2-max Seat #2 is the button
+Seat 1: elifnur2008 ($136.50 in chips)
+Seat 2: sveni553 ($23.95 in chips)
+sveni553: posts small blind $1
+elifnur2008: posts big blind $3
+*** HOLE CARDS ***
+sveni553: calls $2
+elifnur2008: checks
+*** FLOP *** [As 5c Td]
+elifnur2008: checks
+sveni553: bets $3
+elifnur2008: calls $3
+*** TURN *** [As 5c Td] [7s]
+elifnur2008: bets $6
+sveni553: raises $6 to $12
+elifnur2008: calls $6
+*** RIVER *** [As 5c Td 7s] [Ks]
+elifnur2008: checks
+sveni553: bets $5.95 and is all-in
+elifnur2008: calls $5.95
+*** SHOW DOWN ***
+sveni553: shows [4h 6h] (high card Ace)
+elifnur2008: shows [5h 9h] (a pair of Fives)
+elifnur2008 collected $47.40 from pot
+*** SUMMARY ***
+Total pot $47.90 | Rake $0.50
+Board [As 5c Td 7s Ks]
+Seat 1: elifnur2008 (big blind) showed [5h 9h] and won ($47.40) with a pair of Fives
+Seat 2: sveni553 (button) (small blind) showed [4h 6h] and lost with high card Ace
+
+

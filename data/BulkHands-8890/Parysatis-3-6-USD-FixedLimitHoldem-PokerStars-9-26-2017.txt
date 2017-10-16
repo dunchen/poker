@@ -1,0 +1,56 @@
+PokerStars Hand #176142691611:  Hold'em Limit ($3/$6 USD) - 2017/09/26 8:52:12 ET
+Table 'Parysatis' 6-max Seat #3 is the button
+Seat 3: Hurlingham55 ($150 in chips)
+Seat 4: Agrotait ($66 in chips)
+Hurlingham55: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa joins the table at seat #5
+Hurlingham55: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [9h 6d 8h]
+C-bet-safira joins the table at seat #2
+Agrotait: checks
+Hurlingham55: bets $3
+Agrotait: folds
+Uncalled bet ($3) returned to Hurlingham55
+Hurlingham55 collected $11.76 from pot
+Hurlingham55: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9h 6d 8h]
+Seat 3: Hurlingham55 (button) (small blind) collected ($11.76)
+Seat 4: Agrotait (big blind) folded on the Flop
+
+
+PokerStars Hand #176142812759:  Hold'em Limit ($3/$6 USD) - 2017/09/26 8:56:42 ET
+Table 'Parysatis' 6-max Seat #1 is the button
+Seat 1: Psynto ($72 in chips)
+Seat 4: Agrotait ($74.64 in chips)
+Psynto: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa leaves the table
+Psynto: raises $3 to $6
+Agrotait: raises $3 to $9
+Psynto: calls $3
+*** FLOP *** [4h Tc 2c]
+Agrotait: bets $3
+Psynto: calls $3
+*** TURN *** [4h Tc 2c] [6d]
+Agrotait: bets $6
+Psynto: calls $6
+*** RIVER *** [4h Tc 2c 6d] [Ks]
+Agrotait: bets $6
+Psynto: calls $6
+*** SHOW DOWN ***
+Agrotait: shows [9s 9h] (a pair of Nines)
+Psynto: mucks hand
+Agrotait collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4h Tc 2c 6d Ks]
+Seat 1: Psynto (button) (small blind) mucked
+Seat 4: Agrotait (big blind) showed [9s 9h] and won ($47.50) with a pair of Nines
+
+

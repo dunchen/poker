@@ -1,0 +1,151 @@
+PokerStars Hand #156227052114:  Hold'em Limit ($3/$6 USD) - 2016/07/20 16:07:25 ET
+Table 'Peacock II' 6-max Seat #6 is the button
+Seat 3: kosdccz ($63.54 in chips)
+Seat 6: biuejzqw ($80.80 in chips)
+biuejzqw: posts small blind $1
+kosdccz: posts big blind $3
+*** HOLE CARDS ***
+biuejzqw: raises $3 to $6
+kosdccz: raises $3 to $9
+biuejzqw: raises $3 to $12
+Betting is capped
+kosdccz: calls $3
+*** FLOP *** [7d 9d 2d]
+kosdccz: bets $3
+biuejzqw: raises $3 to $6
+kosdccz: raises $3 to $9
+biuejzqw: raises $3 to $12
+Betting is capped
+kosdccz: calls $3
+*** TURN *** [7d 9d 2d] [7s]
+kosdccz: bets $6
+biuejzqw: raises $6 to $12
+kosdccz: raises $6 to $18
+biuejzqw: raises $6 to $24
+Betting is capped
+kosdccz: calls $6
+*** RIVER *** [7d 9d 2d 7s] [Tc]
+kosdccz: bets $6
+biuejzqw: raises $6 to $12
+kosdccz: raises $3.54 to $15.54 and is all-in
+biuejzqw: calls $3.54
+*** SHOW DOWN ***
+kosdccz: shows [Kd Td] (a flush, King high)
+biuejzqw: shows [5d 2h] (two pair, Sevens and Deuces)
+kosdccz collected $126.58 from pot
+*** SUMMARY ***
+Total pot $127.08 | Rake $0.50
+Board [7d 9d 2d 7s Tc]
+Seat 3: kosdccz (big blind) showed [Kd Td] and won ($126.58) with a flush, King high
+Seat 6: biuejzqw (button) (small blind) showed [5d 2h] and lost with two pair, Sevens and Deuces
+
+
+PokerStars Hand #156227066733:  Hold'em Limit ($3/$6 USD) - 2016/07/20 16:07:43 ET
+Table 'Peacock II' 6-max Seat #3 is the button
+Seat 3: kosdccz ($126.58 in chips)
+Seat 6: biuejzqw ($17.26 in chips)
+kosdccz: posts small blind $1
+biuejzqw: posts big blind $3
+*** HOLE CARDS ***
+kosdccz: calls $2
+biuejzqw: checks
+*** FLOP *** [Tc As 6c]
+biuejzqw: bets $3
+kosdccz: raises $3 to $6
+biuejzqw: calls $3
+*** TURN *** [Tc As 6c] [Th]
+biuejzqw: checks
+kosdccz: checks
+*** RIVER *** [Tc As 6c Th] [4h]
+biuejzqw: bets $6
+kosdccz: raises $6 to $12
+biuejzqw: calls $2.26 and is all-in
+Uncalled bet ($3.74) returned to kosdccz
+*** SHOW DOWN ***
+kosdccz: shows [Ts Jh] (three of a kind, Tens)
+biuejzqw: shows [Ac 2s] (two pair, Aces and Tens)
+kosdccz collected $34.02 from pot
+kosdccz leaves the table
+*** SUMMARY ***
+Total pot $34.52 | Rake $0.50
+Board [Tc As 6c Th 4h]
+Seat 3: kosdccz (button) (small blind) showed [Ts Jh] and won ($34.02) with three of a kind, Tens
+Seat 6: biuejzqw (big blind) showed [Ac 2s] and lost with two pair, Aces and Tens
+
+
+PokerStars Hand #156230668984:  Hold'em Limit ($3/$6 USD) - 2016/07/20 17:21:43 ET
+Table 'Peacock II' 6-max Seat #1 is the button
+Seat 1: fólkaflokkur ($178.17 in chips)
+Seat 6: Chessnok ($60 in chips)
+fólkaflokkur: posts small blind $1
+Perumov: is sitting out
+ABATAPP: is sitting out
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+ABATAPP leaves the table
+fólkaflokkur: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [5s Qh 2c]
+Chessnok: bets $3
+fólkaflokkur: calls $3
+*** TURN *** [5s Qh 2c] [Kh]
+ABATAPP joins the table at seat #3
+Chessnok: bets $6
+fólkaflokkur: folds
+Uncalled bet ($6) returned to Chessnok
+Chessnok collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5s Qh 2c Kh]
+Seat 1: fólkaflokkur (button) (small blind) folded on the Turn
+Seat 6: Chessnok (big blind) collected ($17.64)
+
+
+PokerStars Hand #156230694125:  Hold'em Limit ($3/$6 USD) - 2016/07/20 17:22:16 ET
+Table 'Peacock II' 6-max Seat #6 is the button
+Seat 3: ABATAPP ($120 in chips)
+Seat 6: Chessnok ($68.64 in chips)
+Chessnok: posts small blind $1
+ABATAPP: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+ABATAPP: calls $3
+*** FLOP *** [8s 9s 5s]
+ABATAPP: checks
+Chessnok: bets $3
+ABATAPP: calls $3
+*** TURN *** [8s 9s 5s] [Qc]
+ABATAPP: checks
+Chessnok: bets $6
+ABATAPP: calls $6
+*** RIVER *** [8s 9s 5s Qc] [7c]
+ABATAPP: checks
+Chessnok: bets $6
+ABATAPP: folds
+Uncalled bet ($6) returned to Chessnok
+Chessnok collected $29.50 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8s 9s 5s Qc 7c]
+Seat 3: ABATAPP (big blind) folded on the River
+Seat 6: Chessnok (button) (small blind) collected ($29.50)
+
+
+PokerStars Hand #156230724993:  Hold'em Limit ($3/$6 USD) - 2016/07/20 17:22:57 ET
+Table 'Peacock II' 6-max Seat #3 is the button
+Seat 3: ABATAPP ($105 in chips)
+Seat 6: Chessnok ($83.14 in chips)
+ABATAPP: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+ABATAPP: folds
+Uncalled bet ($2) returned to Chessnok
+Chessnok collected $2 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: ABATAPP (button) (small blind) folded before Flop
+Seat 6: Chessnok (big blind) collected ($2)
+
+

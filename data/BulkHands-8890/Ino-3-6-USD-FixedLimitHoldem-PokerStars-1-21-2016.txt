@@ -1,0 +1,117 @@
+PokerStars Hand #147431930881:  Hold'em Limit ($3/$6 USD) - 2016/01/21 13:16:59 ET
+Table 'Ino' 10-max Seat #5 is the button
+Seat 1: SmellyToes4u ($112.50 in chips)
+Seat 5: karauscheAA ($15.28 in chips)
+karauscheAA: posts small blind $1
+SmellyToes4u: posts big blind $3
+*** HOLE CARDS ***
+karauscheAA: raises $3 to $6
+SmellyToes4u: calls $3
+*** FLOP *** [3h 4c 6d]
+SmellyToes4u: checks
+karauscheAA: bets $3
+SmellyToes4u: raises $3 to $6
+karauscheAA: raises $3 to $9
+SmellyToes4u: raises $3 to $12
+Betting is capped
+karauscheAA: calls $0.28 and is all-in
+Uncalled bet ($2.72) returned to SmellyToes4u
+*** TURN *** [3h 4c 6d] [Kc]
+*** RIVER *** [3h 4c 6d Kc] [Jd]
+*** SHOW DOWN ***
+SmellyToes4u: shows [Ks 4s] (two pair, Kings and Fours)
+karauscheAA: shows [2s Js] (a pair of Jacks)
+SmellyToes4u collected $30.06 from pot
+*** SUMMARY ***
+Total pot $30.56 | Rake $0.50
+Board [3h 4c 6d Kc Jd]
+Seat 1: SmellyToes4u (big blind) showed [Ks 4s] and won ($30.06) with two pair, Kings and Fours
+Seat 5: karauscheAA (button) (small blind) showed [2s Js] and lost with a pair of Jacks
+
+
+PokerStars Hand #147431907588:  Hold'em Limit ($3/$6 USD) - 2016/01/21 13:16:38 ET
+Table 'Ino' 10-max Seat #1 is the button
+Seat 1: SmellyToes4u ($98 in chips)
+Seat 5: karauscheAA ($30.28 in chips)
+SmellyToes4u: posts small blind $1
+karauscheAA: posts big blind $3
+*** HOLE CARDS ***
+SmellyToes4u: raises $3 to $6
+karauscheAA: calls $3
+*** FLOP *** [7s 5c Th]
+karauscheAA: checks
+SmellyToes4u: bets $3
+karauscheAA: calls $3
+*** TURN *** [7s 5c Th] [4s]
+karauscheAA: checks
+SmellyToes4u: bets $6
+karauscheAA: calls $6
+*** RIVER *** [7s 5c Th 4s] [7c]
+karauscheAA: checks
+SmellyToes4u: checks
+*** SHOW DOWN ***
+karauscheAA: shows [Qd 8c] (a pair of Sevens)
+SmellyToes4u: shows [Qh 4c] (two pair, Sevens and Fours)
+SmellyToes4u collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7s 5c Th 4s 7c]
+Seat 1: SmellyToes4u (button) (small blind) showed [Qh 4c] and won ($29.50) with two pair, Sevens and Fours
+Seat 5: karauscheAA (big blind) showed [Qd 8c] and lost with a pair of Sevens
+
+
+PokerStars Hand #147447723655:  Hold'em Limit ($3/$6 USD) - 2016/01/21 17:21:38 ET
+Table 'Ino' 10-max Seat #9 is the button
+Seat 8: Shara.Vi ($114 in chips)
+Seat 9: Zubasa07 ($505.64 in chips)
+Zubasa07: posts small blind $1
+Shara.Vi: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+Shara.Vi: calls $3
+*** FLOP *** [Js 4h Tc]
+Shara.Vi: checks
+Zubasa07: bets $3
+Shara.Vi: folds
+Uncalled bet ($3) returned to Zubasa07
+Zubasa07 collected $11.76 from pot
+Zubasa07: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Js 4h Tc]
+Seat 8: Shara.Vi (big blind) folded on the Flop
+Seat 9: Zubasa07 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #147447735192:  Hold'em Limit ($3/$6 USD) - 2016/01/21 17:21:49 ET
+Table 'Ino' 10-max Seat #8 is the button
+Seat 8: Shara.Vi ($108 in chips)
+Seat 9: Zubasa07 ($511.40 in chips)
+Shara.Vi: posts small blind $1
+Zubasa07: posts big blind $3
+*** HOLE CARDS ***
+Shara.Vi: raises $3 to $6
+Sunny1022 joins the table at seat #5
+Zubasa07: calls $3
+*** FLOP *** [5d 4h Ad]
+Zubasa07: checks
+Shara.Vi: bets $3
+Zubasa07: calls $3
+*** TURN *** [5d 4h Ad] [Kc]
+Zubasa07: checks
+Shara.Vi: checks
+*** RIVER *** [5d 4h Ad Kc] [5c]
+Zubasa07: checks
+Shara.Vi: bets $6
+Zubasa07: calls $6
+*** SHOW DOWN ***
+Shara.Vi: shows [4s Qh] (two pair, Fives and Fours)
+Zubasa07: mucks hand
+Shara.Vi collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5d 4h Ad Kc 5c]
+Seat 8: Shara.Vi (button) (small blind) showed [4s Qh] and won ($29.50) with two pair, Fives and Fours
+Seat 9: Zubasa07 (big blind) mucked
+
+

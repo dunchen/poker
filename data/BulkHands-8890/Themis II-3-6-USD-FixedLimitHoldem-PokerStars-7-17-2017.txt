@@ -1,0 +1,32 @@
+PokerStars Hand #173133717409:  Hold'em Limit ($3/$6 USD) - 2017/07/16 21:18:26 ET
+Table 'Themis II' 6-max Seat #4 is the button
+Seat 4: Chessnok ($74.14 in chips)
+Seat 6: krytalex ($190.94 in chips)
+Chessnok: posts small blind $1
+nadnameloc: is sitting out
+krytalex: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+krytalex: calls $3
+*** FLOP *** [4s 9d 5h]
+krytalex: checks
+Chessnok: bets $3
+krytalex: calls $3
+*** TURN *** [4s 9d 5h] [Ah]
+krytalex: checks
+Chessnok: bets $6
+krytalex: calls $6
+*** RIVER *** [4s 9d 5h Ah] [Jd]
+krytalex: checks
+Chessnok: checks
+*** SHOW DOWN ***
+krytalex: shows [6h Kh] (high card Ace)
+Chessnok: shows [6d 5c] (a pair of Fives)
+Chessnok collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4s 9d 5h Ah Jd]
+Seat 4: Chessnok (button) (small blind) showed [6d 5c] and won ($29.50) with a pair of Fives
+Seat 6: krytalex (big blind) showed [6h Kh] and lost with high card Ace
+
+

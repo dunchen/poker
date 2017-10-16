@@ -1,0 +1,61 @@
+PokerStars Hand #164908899980:  Hold'em Limit ($3/$6 USD) - 2017/01/20 19:43:00 ET
+Table 'Hesburgh' 6-max Seat #1 is the button
+Seat 1: LifeisagameX ($85 in chips)
+Seat 3: AzureCaper ($72 in chips)
+LifeisagameX: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [6s Jh Ah]
+AzureCaper: checks
+LifeisagameX: bets $3
+AzureCaper: raises $3 to $6
+LifeisagameX: calls $3
+*** TURN *** [6s Jh Ah] [8s]
+AzureCaper: bets $6
+LifeisagameX: folds
+Uncalled bet ($6) returned to AzureCaper
+AzureCaper collected $23.52 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [6s Jh Ah 8s]
+Seat 1: LifeisagameX (button) (small blind) folded on the Turn
+Seat 3: AzureCaper (big blind) collected ($23.52)
+
+
+PokerStars Hand #164908926386:  Hold'em Limit ($3/$6 USD) - 2017/01/20 19:43:40 ET
+Table 'Hesburgh' 6-max Seat #3 is the button
+Seat 1: LifeisagameX ($84 in chips)
+Seat 3: AzureCaper ($83.52 in chips)
+AzureCaper: posts small blind $1
+LifeisagameX: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+LifeisagameX: calls $3
+*** FLOP *** [Tc 2d 5d]
+LifeisagameX: checks
+AzureCaper: bets $3
+LifeisagameX: raises $3 to $6
+AzureCaper: raises $3 to $9
+LifeisagameX: calls $3
+*** TURN *** [Tc 2d 5d] [9h]
+LifeisagameX: checks
+AzureCaper: bets $6
+LifeisagameX: calls $6
+*** RIVER *** [Tc 2d 5d 9h] [Qd]
+LifeisagameX: checks
+AzureCaper: bets $6
+LifeisagameX: calls $6
+*** SHOW DOWN ***
+AzureCaper: shows [4d Td] (a flush, Queen high)
+LifeisagameX: mucks hand
+AzureCaper collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Tc 2d 5d 9h Qd]
+Seat 1: LifeisagameX (big blind) mucked
+Seat 3: AzureCaper (button) (small blind) showed [4d Td] and won ($53.50) with a flush, Queen high
+
+

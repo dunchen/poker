@@ -1,0 +1,33 @@
+PokerStars Hand #151103488610:  Hold'em Limit ($3/$6 USD) - 2016/03/29 4:15:56 ET
+Table 'Rhea' 6-max Seat #3 is the button
+Seat 3: Chessnok ($123.28 in chips)
+Seat 4: VolkovDmitri ($162.10 in chips)
+Chessnok: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [7s 4s 5h]
+VolkovDmitri: checks
+Chessnok: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [7s 4s 5h] [3h]
+VolkovDmitri: bets $6
+Chessnok: raises $6 to $12
+VolkovDmitri: calls $6
+*** RIVER *** [7s 4s 5h 3h] [3s]
+VolkovDmitri: checks
+Chessnok: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+Chessnok: shows [6d Tc] (a straight, Three to Seven)
+VolkovDmitri: shows [6c Js] (a straight, Three to Seven)
+VolkovDmitri collected $26.75 from pot
+Chessnok collected $26.75 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [7s 4s 5h 3h 3s]
+Seat 3: Chessnok (button) (small blind) showed [6d Tc] and won ($26.75) with a straight, Three to Seven
+Seat 4: VolkovDmitri (big blind) showed [6c Js] and won ($26.75) with a straight, Three to Seven
+
+

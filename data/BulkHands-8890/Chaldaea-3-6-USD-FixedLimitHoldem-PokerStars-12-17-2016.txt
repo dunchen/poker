@@ -1,0 +1,64 @@
+PokerStars Hand #163074826664:  Hold'em Limit ($3/$6 USD) - 2016/12/17 6:25:30 ET
+Table 'Chaldaea' 6-max Seat #1 is the button
+Seat 1: Agrotait ($72 in chips)
+Seat 2: jl45259071 ($50.39 in chips)
+Agrotait: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+jl45259071: raises $3 to $9
+Agrotait: calls $3
+*** FLOP *** [4s Js 5s]
+jl45259071: bets $3
+Agrotait: calls $3
+*** TURN *** [4s Js 5s] [6d]
+jl45259071: bets $6
+Agrotait: calls $6
+*** RIVER *** [4s Js 5s 6d] [6h]
+jl45259071: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+jl45259071: shows [2h 2c] (two pair, Sixes and Deuces)
+Agrotait: shows [4c Ks] (two pair, Sixes and Fours)
+Agrotait collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4s Js 5s 6d 6h]
+Seat 1: Agrotait (button) (small blind) showed [4c Ks] and won ($47.50) with two pair, Sixes and Fours
+Seat 2: jl45259071 (big blind) showed [2h 2c] and lost with two pair, Sixes and Deuces
+
+
+PokerStars Hand #163074839339:  Hold'em Limit ($3/$6 USD) - 2016/12/17 6:25:55 ET
+Table 'Chaldaea' 6-max Seat #2 is the button
+Seat 1: Agrotait ($95.50 in chips)
+Seat 2: jl45259071 ($26.39 in chips)
+jl45259071: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: raises $3 to $6
+Agrotait: raises $3 to $9
+jl45259071: raises $3 to $12
+Betting is capped
+Agrotait: calls $3
+*** FLOP *** [3s 7s Th]
+Agrotait: checks
+jl45259071: bets $3
+Agrotait: calls $3
+*** TURN *** [3s 7s Th] [Ts]
+Agrotait: checks
+jl45259071: checks
+*** RIVER *** [3s 7s Th Ts] [Kh]
+Agrotait: bets $6
+jl45259071: raises $5.39 to $11.39 and is all-in
+Agrotait: calls $5.39
+*** SHOW DOWN ***
+jl45259071: shows [Kc Jd] (two pair, Kings and Tens)
+Agrotait: shows [9s As] (a flush, Ace high)
+Agrotait collected $52.28 from pot
+*** SUMMARY ***
+Total pot $52.78 | Rake $0.50
+Board [3s 7s Th Ts Kh]
+Seat 1: Agrotait (big blind) showed [9s As] and won ($52.28) with a flush, Ace high
+Seat 2: jl45259071 (button) (small blind) showed [Kc Jd] and lost with two pair, Kings and Tens
+
+

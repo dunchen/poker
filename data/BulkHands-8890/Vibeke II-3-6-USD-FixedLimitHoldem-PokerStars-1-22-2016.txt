@@ -1,0 +1,33 @@
+PokerStars Hand #147507576611:  Hold'em Limit ($3/$6 USD) - 2016/01/22 18:36:26 ET
+Table 'Vibeke II' 6-max Seat #4 is the button
+Seat 4: AzureCaper ($73 in chips)
+Seat 5: missbleuf ($53.99 in chips)
+AzureCaper: posts small blind $1
+missbleuf: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+missbleuf: calls $3
+*** FLOP *** [6h 5h 8c]
+missbleuf: checks
+Brama Br joins the table at seat #3
+AzureCaper: bets $3
+missbleuf: raises $3 to $6
+AzureCaper: calls $3
+*** TURN *** [6h 5h 8c] [3c]
+boony444 joins the table at seat #6
+missbleuf: bets $6
+AzureCaper: calls $6
+*** RIVER *** [6h 5h 8c 3c] [Ad]
+missbleuf: checks
+AzureCaper: checks
+*** SHOW DOWN ***
+missbleuf: shows [7h Js] (high card Ace)
+AzureCaper: shows [9h Qc] (high card Ace - Queen kicker)
+AzureCaper collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6h 5h 8c 3c Ad]
+Seat 4: AzureCaper (button) (small blind) showed [9h Qc] and won ($35.50) with high card Ace
+Seat 5: missbleuf (big blind) showed [7h Js] and lost with high card Ace
+
+

@@ -1,0 +1,83 @@
+PokerStars Hand #174735933240:  Hold'em Limit ($3/$6 USD) - 2017/08/24 11:24:08 ET
+Table 'Tokio' 6-max Seat #3 is the button
+Seat 3: ANIN1337 ($48 in chips)
+Seat 5: Psynto ($72 in chips)
+ANIN1337: posts small blind $1
+Psynto: posts big blind $3
+*** HOLE CARDS ***
+ANIN1337: raises $3 to $6
+Psynto: calls $3
+*** FLOP *** [8s As 2c]
+Psynto: checks
+ANIN1337: bets $3
+Psynto: raises $3 to $6
+ANIN1337: raises $3 to $9
+axnesq777 joins the table at seat #1
+Psynto: calls $3
+*** TURN *** [8s As 2c] [4c]
+Psynto: checks
+ANIN1337: bets $6
+Psynto: raises $6 to $12
+vestimokrec joins the table at seat #2
+ANIN1337: calls $6
+*** RIVER *** [8s As 2c 4c] [Tc]
+Psynto: bets $6
+TbIP-TbIP 88 leaves the table
+ANIN1337: folds
+Uncalled bet ($6) returned to Psynto
+Psynto collected $53.50 from pot
+Psynto: doesn't show hand
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [8s As 2c 4c Tc]
+Seat 3: ANIN1337 (button) (small blind) folded on the River
+Seat 5: Psynto (big blind) collected ($53.50)
+
+
+PokerStars Hand #174737144873:  Hold'em Limit ($3/$6 USD) - 2017/08/24 11:59:53 ET
+Table 'Tokio' 6-max Seat #2 is the button
+Seat 2: ANIN1337 ($91.14 in chips)
+Seat 4: zizonmusang ($61.81 in chips)
+ANIN1337: posts small blind $1
+zizonmusang: posts big blind $3
+*** HOLE CARDS ***
+ANIN1337: raises $3 to $6
+zizonmusang: folds
+Uncalled bet ($3) returned to ANIN1337
+ANIN1337 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: ANIN1337 (button) (small blind) collected ($6)
+Seat 4: zizonmusang (big blind) folded before Flop
+
+
+PokerStars Hand #174737128733:  Hold'em Limit ($3/$6 USD) - 2017/08/24 11:59:21 ET
+Table 'Tokio' 6-max Seat #4 is the button
+Seat 2: ANIN1337 ($67.64 in chips)
+Seat 4: zizonmusang ($85.81 in chips)
+zizonmusang: posts small blind $1
+ANIN1337: posts big blind $3
+*** HOLE CARDS ***
+zizonmusang: raises $3 to $6
+ANIN1337: raises $3 to $9
+zizonmusang: calls $3
+*** FLOP *** [Kc 7h Jh]
+ANIN1337: bets $3
+zizonmusang: calls $3
+*** TURN *** [Kc 7h Jh] [6c]
+ANIN1337: bets $6
+zizonmusang: calls $6
+*** RIVER *** [Kc 7h Jh 6c] [2c]
+ANIN1337: bets $6
+zizonmusang: calls $6
+*** SHOW DOWN ***
+ANIN1337: shows [Ac 8c] (a flush, Ace high)
+zizonmusang: mucks hand
+ANIN1337 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Kc 7h Jh 6c 2c]
+Seat 2: ANIN1337 (big blind) showed [Ac 8c] and won ($47.50) with a flush, Ace high
+Seat 4: zizonmusang (button) (small blind) mucked
+
+

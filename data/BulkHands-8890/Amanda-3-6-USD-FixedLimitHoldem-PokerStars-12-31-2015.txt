@@ -1,0 +1,50 @@
+PokerStars Hand #146244256665:  Hold'em Limit ($3/$6 USD) - 2015/12/31 15:57:02 ET
+Table 'Amanda' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($114 in chips)
+Seat 2: MobutuSeSe ($125.76 in chips)
+BigYelloFish: posts small blind $1
+MobutuSeSe: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+MobutuSeSe: raises $3 to $9
+BigYelloFish: calls $3
+*** FLOP *** [8c Kh 7s]
+MobutuSeSe: bets $3
+BigYelloFish: calls $3
+*** TURN *** [8c Kh 7s] [Ah]
+MobutuSeSe: checks
+BigYelloFish: bets $6
+MobutuSeSe: folds
+Uncalled bet ($6) returned to BigYelloFish
+BigYelloFish collected $23.52 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [8c Kh 7s Ah]
+Seat 1: BigYelloFish (button) (small blind) collected ($23.52)
+Seat 2: MobutuSeSe (big blind) folded on the Turn
+
+
+PokerStars Hand #146244250729:  Hold'em Limit ($3/$6 USD) - 2015/12/31 15:56:49 ET
+Table 'Amanda' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($120 in chips)
+Seat 2: MobutuSeSe ($120 in chips)
+MobutuSeSe: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+MobutuSeSe: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [Jh 9c 3h]
+BigYelloFish: checks
+MobutuSeSe: bets $3
+BigYelloFish: folds
+Uncalled bet ($3) returned to MobutuSeSe
+MobutuSeSe collected $11.76 from pot
+MobutuSeSe: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jh 9c 3h]
+Seat 1: BigYelloFish (big blind) folded on the Flop
+Seat 2: MobutuSeSe (button) (small blind) collected ($11.76)
+
+

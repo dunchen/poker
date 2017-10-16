@@ -1,0 +1,64 @@
+PokerStars Hand #173524192099:  Hold'em Limit ($3/$6 USD) - 2017/07/26 5:19:06 ET
+Table 'Tucson' 6-max Seat #1 is the button
+Seat 1: Opal10 ($141.03 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+Opal10: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Opal10: calls $2
+B_loJkl joins the table at seat #2
+VolkovDmitri: raises $3 to $6
+Opal10: calls $3
+*** FLOP *** [Jc 9d 4c]
+VolkovDmitri: checks
+Opal10: checks
+*** TURN *** [Jc 9d 4c] [7d]
+VolkovDmitri: bets $6
+Opal10: raises $6 to $12
+VolkovDmitri: calls $6
+*** RIVER *** [Jc 9d 4c 7d] [4h]
+VolkovDmitri: checks
+Opal10: bets $6
+VolkovDmitri: raises $6 to $12
+Opal10: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [4d Ac] (three of a kind, Fours)
+Opal10: mucks hand
+VolkovDmitri collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Jc 9d 4c 7d 4h]
+Seat 1: Opal10 (button) (small blind) mucked
+Seat 4: VolkovDmitri (big blind) showed [4d Ac] and won ($59.50) with three of a kind, Fours
+
+
+PokerStars Hand #173524204357:  Hold'em Limit ($3/$6 USD) - 2017/07/26 5:19:42 ET
+Table 'Tucson' 6-max Seat #4 is the button
+Seat 1: Opal10 ($111.03 in chips)
+Seat 4: VolkovDmitri ($149.50 in chips)
+VolkovDmitri: posts small blind $1
+Opal10: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Opal10: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [6h 5h Jh]
+Opal10: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [6h 5h Jh] [4s]
+Opal10: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [6h 5h Jh 4s] [2c]
+Opal10: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+Opal10: shows [Jc Kc] (a pair of Jacks)
+VolkovDmitri: mucks hand
+Opal10 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [6h 5h Jh 4s 2c]
+Seat 1: Opal10 (big blind) showed [Jc Kc] and won ($47.50) with a pair of Jacks
+Seat 4: VolkovDmitri (button) (small blind) mucked
+
+

@@ -1,0 +1,55 @@
+PokerStars Hand #175510575298:  Hold'em Limit ($3/$6 USD) - 2017/09/11 13:35:59 ET
+Table 'Oberon II' 6-max Seat #1 is the button
+Seat 1: zimin10 ($83.52 in chips)
+Seat 6: jagnaras ($18 in chips)
+zimin10: posts small blind $1
+jagnaras: posts big blind $3
+*** HOLE CARDS ***
+zimin10: raises $3 to $6
+jagnaras: raises $3 to $9
+zimin10: calls $3
+*** FLOP *** [Qh 5h 3d]
+jagnaras: bets $3
+zimin10: calls $3
+*** TURN *** [Qh 5h 3d] [5d]
+jagnaras: bets $6 and is all-in
+zimin10: calls $6
+*** RIVER *** [Qh 5h 3d 5d] [2h]
+*** SHOW DOWN ***
+jagnaras: shows [As 8h] (a pair of Fives)
+zimin10: shows [6h 4c] (a straight, Deuce to Six)
+zimin10 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Qh 5h 3d 5d 2h]
+Seat 1: zimin10 (button) (small blind) showed [6h 4c] and won ($35.50) with a straight, Deuce to Six
+Seat 6: jagnaras (big blind) showed [As 8h] and lost with a pair of Fives
+
+
+PokerStars Hand #175510543926:  Hold'em Limit ($3/$6 USD) - 2017/09/11 13:35:20 ET
+Table 'Oberon II' 6-max Seat #6 is the button
+Seat 1: zimin10 ($72 in chips)
+Seat 6: jagnaras ($30 in chips)
+jagnaras: posts small blind $1
+zimin10: posts big blind $3
+*** HOLE CARDS ***
+jagnaras: raises $3 to $6
+zimin10: calls $3
+*** FLOP *** [2h 8h 4d]
+vestimokrec joins the table at seat #2
+zimin10: checks
+jagnaras: bets $3
+zimin10: raises $3 to $6
+jagnaras: calls $3
+*** TURN *** [2h 8h 4d] [9h]
+zimin10: bets $6
+jagnaras: folds
+Uncalled bet ($6) returned to zimin10
+zimin10 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [2h 8h 4d 9h]
+Seat 1: zimin10 (big blind) collected ($23.52)
+Seat 6: jagnaras (button) (small blind) folded on the Turn
+
+

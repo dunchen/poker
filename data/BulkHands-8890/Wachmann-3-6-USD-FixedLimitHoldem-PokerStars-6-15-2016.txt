@@ -1,0 +1,70 @@
+PokerStars Hand #154767496440:  Hold'em Limit ($3/$6 USD) - 2016/06/15 11:17:02 ET
+Table 'Wachmann' 6-max Seat #4 is the button
+Seat 3: Alan The For ($115 in chips)
+Seat 4: GRAILKO ($205 in chips)
+GRAILKO: posts small blind $1
+Alan The For: posts big blind $3
+*** HOLE CARDS ***
+GRAILKO: raises $3 to $6
+Alan The For: raises $3 to $9
+GRAILKO: calls $3
+*** FLOP *** [6d 7h 5s]
+Alan The For: bets $3
+GRAILKO: calls $3
+*** TURN *** [6d 7h 5s] [3s]
+Alan The For: bets $6
+GRAILKO: raises $6 to $12
+Alan The For: calls $6
+*** RIVER *** [6d 7h 5s 3s] [Jh]
+Alan The For: checks
+GRAILKO: bets $6
+Alan The For: calls $6
+*** SHOW DOWN ***
+GRAILKO: shows [6c 5d] (two pair, Sixes and Fives)
+Alan The For: mucks hand
+GRAILKO collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [6d 7h 5s 3s Jh]
+Seat 3: Alan The For (big blind) mucked
+Seat 4: GRAILKO (button) (small blind) showed [6c 5d] and won ($59.50) with two pair, Sixes and Fives
+
+
+PokerStars Hand #154767525352:  Hold'em Limit ($3/$6 USD) - 2016/06/15 11:17:51 ET
+Table 'Wachmann' 6-max Seat #4 is the button
+Seat 3: Alan The For ($90.76 in chips)
+Seat 4: GRAILKO ($228.50 in chips)
+GRAILKO: posts small blind $1
+Alan The For: posts big blind $3
+*** HOLE CARDS ***
+GRAILKO: folds
+Uncalled bet ($2) returned to Alan The For
+Alan The For collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: Alan The For (big blind) collected ($2)
+Seat 4: GRAILKO (button) (small blind) folded before Flop
+
+
+PokerStars Hand #154767512336:  Hold'em Limit ($3/$6 USD) - 2016/06/15 11:17:29 ET
+Table 'Wachmann' 6-max Seat #3 is the button
+Seat 3: Alan The For ($85 in chips)
+Seat 4: GRAILKO ($234.50 in chips)
+Alan The For: posts small blind $1
+GRAILKO: posts big blind $3
+*** HOLE CARDS ***
+Alan The For: raises $3 to $6
+GRAILKO: calls $3
+*** FLOP *** [8s Ad 4s]
+GRAILKO: checks
+Alan The For: bets $3
+GRAILKO: folds
+Uncalled bet ($3) returned to Alan The For
+Alan The For collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8s Ad 4s]
+Seat 3: Alan The For (button) (small blind) collected ($11.76)
+Seat 4: GRAILKO (big blind) folded on the Flop
+
+

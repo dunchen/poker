@@ -1,0 +1,72 @@
+PokerStars Hand #156043395634:  Hold'em Limit ($3/$6 USD) - 2016/07/16 12:05:13 ET
+Table 'Palma' 6-max Seat #3 is the button
+Seat 3: mishkamoya ($154 in chips)
+Seat 4: AzureCaper ($72 in chips)
+mishkamoya: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+mishkamoya: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [Qh 7c Ah]
+AzureCaper: checks
+mishkamoya: checks
+*** TURN *** [Qh 7c Ah] [6c]
+AzureCaper: checks
+mishkamoya: checks
+*** RIVER *** [Qh 7c Ah 6c] [Tc]
+AzureCaper: checks
+mishkamoya: checks
+*** SHOW DOWN ***
+AzureCaper: shows [7h 5s] (a pair of Sevens)
+mishkamoya: mucks hand
+AzureCaper collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qh 7c Ah 6c Tc]
+Seat 3: mishkamoya (button) (small blind) mucked
+Seat 4: AzureCaper (big blind) showed [7h 5s] and won ($11.76) with a pair of Sevens
+
+
+PokerStars Hand #156043392184:  Hold'em Limit ($3/$6 USD) - 2016/07/16 12:05:08 ET
+Table 'Palma' 6-max Seat #4 is the button
+Seat 3: mishkamoya ($153 in chips)
+Seat 4: AzureCaper ($72 in chips)
+AzureCaper: posts small blind $1
+mishkamoya: posts big blind $3
+*** HOLE CARDS ***
+GRAILKO joins the table at seat #5
+AzureCaper: folds
+Uncalled bet ($2) returned to mishkamoya
+mishkamoya collected $2 from pot
+mishkamoya: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: mishkamoya (big blind) collected ($2)
+Seat 4: AzureCaper (button) (small blind) folded before Flop
+
+
+PokerStars Hand #156045151350:  Hold'em Limit ($3/$6 USD) - 2016/07/16 12:46:34 ET
+Table 'Palma' 6-max Seat #4 is the button
+Seat 2: belik555 ($72 in chips)
+Seat 4: AzureCaper ($112.50 in chips)
+AzureCaper: posts small blind $1
+Ale4o: is sitting out
+belik555: posts big blind $3
+*** HOLE CARDS ***
+Ale4o leaves the table
+AzureCaper: raises $3 to $6
+belik555: raises $3 to $9
+AzureCaper: calls $3
+*** FLOP *** [5s Td 3d]
+belik555: bets $3
+AzureCaper: folds
+Uncalled bet ($3) returned to belik555
+belik555 collected $17.64 from pot
+belik555: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5s Td 3d]
+Seat 2: belik555 (big blind) collected ($17.64)
+Seat 4: AzureCaper (button) (small blind) folded on the Flop
+
+

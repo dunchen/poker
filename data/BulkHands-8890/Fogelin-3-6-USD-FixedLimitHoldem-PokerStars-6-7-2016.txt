@@ -1,0 +1,86 @@
+PokerStars Hand #154423654859:  Hold'em Limit ($3/$6 USD) - 2016/06/07 14:01:32 ET
+Table 'Fogelin' 6-max Seat #2 is the button
+Seat 1: dborys ($150 in chips)
+Seat 2: leandro9090 ($101 in chips)
+leandro9090: posts small blind $1
+dborys: posts big blind $3
+*** HOLE CARDS ***
+leandro9090: raises $3 to $6
+dborys: raises $3 to $9
+leandro9090: raises $3 to $12
+Betting is capped
+dborys: calls $3
+*** FLOP *** [8d 8s As]
+dborys: checks
+leandro9090: bets $3
+dborys: calls $3
+*** TURN *** [8d 8s As] [2s]
+dborys: checks
+leandro9090: bets $6
+dborys: calls $6
+*** RIVER *** [8d 8s As 2s] [8c]
+dborys: checks
+vestimokrec joins the table at seat #4
+leandro9090: bets $6
+dborys: raises $6 to $12
+leandro9090: raises $6 to $18
+dborys: calls $6
+*** SHOW DOWN ***
+leandro9090: shows [7c Kh] (three of a kind, Eights)
+dborys: shows [9c Ah] (a full house, Eights full of Aces)
+dborys collected $77.50 from pot
+*** SUMMARY ***
+Total pot $78 | Rake $0.50
+Board [8d 8s As 2s 8c]
+Seat 1: dborys (big blind) showed [9c Ah] and won ($77.50) with a full house, Eights full of Aces
+Seat 2: leandro9090 (button) (small blind) showed [7c Kh] and lost with three of a kind, Eights
+
+
+PokerStars Hand #154423648851:  Hold'em Limit ($3/$6 USD) - 2016/06/07 14:01:24 ET
+Table 'Fogelin' 6-max Seat #1 is the button
+Seat 1: dborys ($150 in chips)
+Seat 2: leandro9090 ($100 in chips)
+dborys: posts small blind $1
+leandro9090: posts big blind $3
+*** HOLE CARDS ***
+dborys: folds
+Uncalled bet ($2) returned to leandro9090
+leandro9090 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: dborys (button) (small blind) folded before Flop
+Seat 2: leandro9090 (big blind) collected ($2)
+
+
+PokerStars Hand #154423680866:  Hold'em Limit ($3/$6 USD) - 2016/06/07 14:02:05 ET
+Table 'Fogelin' 6-max Seat #1 is the button
+Seat 1: dborys ($188.50 in chips)
+Seat 2: leandro9090 ($62 in chips)
+dborys: posts small blind $1
+leandro9090: posts big blind $3
+*** HOLE CARDS ***
+dborys: raises $3 to $6
+leandro9090: raises $3 to $9
+dborys: calls $3
+*** FLOP *** [4d 8s Ks]
+leandro9090: bets $3
+dborys: calls $3
+*** TURN *** [4d 8s Ks] [Qs]
+leandro9090: bets $6
+dborys: raises $6 to $12
+leandro9090: raises $6 to $18
+dborys: calls $6
+*** RIVER *** [4d 8s Ks Qs] [8h]
+leandro9090: bets $6
+dborys: calls $6
+*** SHOW DOWN ***
+leandro9090: shows [7d 8d] (three of a kind, Eights)
+dborys: mucks hand
+leandro9090 collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [4d 8s Ks Qs 8h]
+Seat 1: dborys (button) (small blind) mucked
+Seat 2: leandro9090 (big blind) showed [7d 8d] and won ($71.50) with three of a kind, Eights
+
+

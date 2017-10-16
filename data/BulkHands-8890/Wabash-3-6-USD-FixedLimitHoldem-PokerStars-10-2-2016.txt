@@ -1,0 +1,29 @@
+PokerStars Hand #159354164543:  Hold'em Limit ($3/$6 USD) - 2016/10/01 20:12:27 ET
+Table 'Wabash' 10-max Seat #7 is the button
+Seat 6: HeavyDee_57 ($34.12 in chips)
+Seat 7: Great_Kang ($225.26 in chips)
+Great_Kang: posts small blind $1
+HeavyDee_57: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+HeavyDee_57: calls $3
+*** FLOP *** [7h Js 7d]
+HeavyDee_57: checks
+Great_Kang: checks
+*** TURN *** [7h Js 7d] [Ts]
+HeavyDee_57: bets $6
+Great_Kang: calls $6
+*** RIVER *** [7h Js 7d Ts] [6h]
+HeavyDee_57: bets $6
+Great_Kang: calls $6
+*** SHOW DOWN ***
+HeavyDee_57: shows [Tc 6s] (two pair, Tens and Sevens)
+Great_Kang: shows [Jd 2c] (two pair, Jacks and Sevens)
+Great_Kang collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [7h Js 7d Ts 6h]
+Seat 6: HeavyDee_57 (big blind) showed [Tc 6s] and lost with two pair, Tens and Sevens
+Seat 7: Great_Kang (button) (small blind) showed [Jd 2c] and won ($35.50) with two pair, Jacks and Sevens
+
+

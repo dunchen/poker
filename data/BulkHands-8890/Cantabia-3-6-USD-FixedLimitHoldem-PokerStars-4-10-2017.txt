@@ -1,0 +1,93 @@
+PokerStars Hand #168851167947:  Hold'em Limit ($3/$6 USD) - 2017/04/10 14:08:49 ET
+Table 'Cantabia' 6-max Seat #3 is the button
+Seat 3: sammybeyo ($30 in chips)
+Seat 4: MTails ($120 in chips)
+sammybeyo: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+sammybeyo: calls $2
+MTails: raises $3 to $6
+sammybeyo: calls $3
+*** FLOP *** [Tc 4s Jh]
+MTails: bets $3
+sammybeyo: calls $3
+*** TURN *** [Tc 4s Jh] [Ts]
+MTails: checks
+sammybeyo: bets $6
+MTails: calls $6
+*** RIVER *** [Tc 4s Jh Ts] [Jc]
+MTails: checks
+sammybeyo: checks
+*** SHOW DOWN ***
+MTails: shows [Ad Qc] (two pair, Jacks and Tens)
+sammybeyo: mucks hand
+MTails collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Tc 4s Jh Ts Jc]
+Seat 3: sammybeyo (button) (small blind) mucked
+Seat 4: MTails (big blind) showed [Ad Qc] and won ($29.50) with two pair, Jacks and Tens
+
+
+PokerStars Hand #168851183047:  Hold'em Limit ($3/$6 USD) - 2017/04/10 14:09:07 ET
+Table 'Cantabia' 6-max Seat #4 is the button
+Seat 3: sammybeyo ($15 in chips)
+Seat 4: MTails ($134.50 in chips)
+MTails: posts small blind $1
+sammybeyo: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+sammybeyo: folds
+Uncalled bet ($3) returned to MTails
+MTails collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: sammybeyo (big blind) folded before Flop
+Seat 4: MTails (button) (small blind) collected ($6)
+
+
+PokerStars Hand #168851197385:  Hold'em Limit ($3/$6 USD) - 2017/04/10 14:09:25 ET
+Table 'Cantabia' 6-max Seat #4 is the button
+Seat 3: sammybeyo ($6 in chips)
+Seat 4: MTails ($143.26 in chips)
+MTails: posts small blind $1
+sammybeyo: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+sammybeyo: calls $3 and is all-in
+*** FLOP *** [As 4d 4s]
+*** TURN *** [As 4d 4s] [3c]
+*** RIVER *** [As 4d 4s 3c] [8d]
+*** SHOW DOWN ***
+sammybeyo: shows [6s 5c] (a pair of Fours)
+MTails: shows [8c 6c] (two pair, Eights and Fours)
+MTails collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [As 4d 4s 3c 8d]
+Seat 3: sammybeyo (big blind) showed [6s 5c] and lost with a pair of Fours
+Seat 4: MTails (button) (small blind) showed [8c 6c] and won ($11.76) with two pair, Eights and Fours
+
+
+PokerStars Hand #168851190024:  Hold'em Limit ($3/$6 USD) - 2017/04/10 14:09:16 ET
+Table 'Cantabia' 6-max Seat #3 is the button
+Seat 3: sammybeyo ($12 in chips)
+Seat 4: MTails ($137.50 in chips)
+sammybeyo: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+sammybeyo: calls $2
+MTails: raises $3 to $6
+sammybeyo: calls $3
+*** FLOP *** [Ah Qs 4c]
+MTails: bets $3
+sammybeyo: folds
+Uncalled bet ($3) returned to MTails
+MTails collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ah Qs 4c]
+Seat 3: sammybeyo (button) (small blind) folded on the Flop
+Seat 4: MTails (big blind) collected ($11.76)
+
+

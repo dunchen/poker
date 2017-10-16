@@ -1,0 +1,26 @@
+PokerStars Hand #166869137426:  Hold'em Limit ($3/$6 USD) - 2017/02/27 16:05:13 ET
+Table 'Midas' 6-max Seat #3 is the button
+Seat 3: gnatakurchpz ($6.39 in chips)
+Seat 4: Actionni13 ($182.50 in chips)
+gnatakurchpz: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+gnatakurchpz: raises $3 to $6
+Actionni13: calls $3
+*** FLOP *** [Ts Kc Ks]
+Actionni13: checks
+gnatakurchpz: bets $0.39 and is all-in
+Actionni13: calls $0.39
+*** TURN *** [Ts Kc Ks] [8h]
+*** RIVER *** [Ts Kc Ks 8h] [8s]
+*** SHOW DOWN ***
+Actionni13: shows [Qd 2s] (two pair, Kings and Eights)
+gnatakurchpz: shows [6c Js] (two pair, Kings and Eights - lower kicker)
+Actionni13 collected $12.52 from pot
+*** SUMMARY ***
+Total pot $12.78 | Rake $0.26
+Board [Ts Kc Ks 8h 8s]
+Seat 3: gnatakurchpz (button) (small blind) showed [6c Js] and lost with two pair, Kings and Eights
+Seat 4: Actionni13 (big blind) showed [Qd 2s] and won ($12.52) with two pair, Kings and Eights
+
+

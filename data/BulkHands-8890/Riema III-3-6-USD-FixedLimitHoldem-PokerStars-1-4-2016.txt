@@ -1,0 +1,61 @@
+PokerStars Hand #146426169568:  Hold'em Limit ($3/$6 USD) - 2016/01/03 19:50:01 ET
+Table 'Riema III' 2-max Seat #2 is the button
+Seat 1: simper11 ($120 in chips)
+Seat 2: R6rider06 ($134.40 in chips)
+R6rider06: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+R6rider06: raises $3 to $6
+simper11: calls $3
+*** FLOP *** [3s Kc 8s]
+simper11: checks
+R6rider06: bets $3
+simper11: calls $3
+*** TURN *** [3s Kc 8s] [Kd]
+simper11: checks
+R6rider06: bets $6
+simper11: calls $6
+*** RIVER *** [3s Kc 8s Kd] [Qd]
+simper11: checks
+R6rider06: bets $6
+simper11: calls $6
+*** SHOW DOWN ***
+R6rider06: shows [6c Kh] (three of a kind, Kings)
+simper11: mucks hand
+R6rider06 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [3s Kc 8s Kd Qd]
+Seat 1: simper11 (big blind) mucked
+Seat 2: R6rider06 (button) (small blind) showed [6c Kh] and won ($41.50) with three of a kind, Kings
+
+
+PokerStars Hand #146426158509:  Hold'em Limit ($3/$6 USD) - 2016/01/03 19:49:45 ET
+Table 'Riema III' 2-max Seat #1 is the button
+Seat 1: simper11 ($120 in chips)
+Seat 2: R6rider06 ($125.76 in chips)
+simper11: posts small blind $1
+R6rider06: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+R6rider06: calls $3
+*** FLOP *** [Ks 7c 9d]
+R6rider06: checks
+simper11: bets $3
+R6rider06: calls $3
+*** TURN *** [Ks 7c 9d] [5s]
+R6rider06: checks
+simper11: checks
+*** RIVER *** [Ks 7c 9d 5s] [8c]
+R6rider06: bets $6
+simper11: folds
+Uncalled bet ($6) returned to R6rider06
+R6rider06 collected $17.64 from pot
+R6rider06: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ks 7c 9d 5s 8c]
+Seat 1: simper11 (button) (small blind) folded on the River
+Seat 2: R6rider06 (big blind) collected ($17.64)
+
+

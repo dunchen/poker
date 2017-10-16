@@ -1,0 +1,92 @@
+PokerStars Hand #150037404774:  Hold'em Limit ($3/$6 USD) - 2016/03/08 11:55:18 ET
+Table 'Mitaka II' 6-max Seat #2 is the button
+Seat 2: Psynto ($112.03 in chips)
+Seat 4: TheWizKids ($48.63 in chips)
+Psynto: posts small blind $1
+TheWizKids: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec leaves the table
+Psynto: raises $3 to $6
+TheWizKids: raises $3 to $9
+Psynto: calls $3
+*** FLOP *** [7s 4s Ah]
+TheWizKids: bets $3
+Psynto: calls $3
+*** TURN *** [7s 4s Ah] [6h]
+TheWizKids: bets $6
+Psynto: raises $6 to $12
+TheWizKids: folds
+Uncalled bet ($6) returned to Psynto
+Psynto collected $35.50 from pot
+Psynto: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [7s 4s Ah 6h]
+Seat 2: Psynto (button) (small blind) collected ($35.50)
+Seat 4: TheWizKids (big blind) folded on the Turn
+
+
+PokerStars Hand #150037392000:  Hold'em Limit ($3/$6 USD) - 2016/03/08 11:55:00 ET
+Table 'Mitaka II' 6-max Seat #4 is the button
+Seat 2: Psynto ($94.53 in chips)
+Seat 4: TheWizKids ($66.63 in chips)
+TheWizKids: posts small blind $1
+vestimokrec: is sitting out
+Psynto: posts big blind $3
+*** HOLE CARDS ***
+TheWizKids: raises $3 to $6
+Psynto: calls $3
+*** FLOP *** [6s 4h Tc]
+Psynto: checks
+TheWizKids: bets $3
+Psynto: raises $3 to $6
+TheWizKids: calls $3
+*** TURN *** [6s 4h Tc] [Qs]
+Psynto: bets $6
+TheWizKids: calls $6
+*** RIVER *** [6s 4h Tc Qs] [As]
+Psynto: bets $6
+TheWizKids: folds
+Uncalled bet ($6) returned to Psynto
+Psynto collected $35.50 from pot
+Psynto: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6s 4h Tc Qs As]
+Seat 2: Psynto (big blind) collected ($35.50)
+Seat 4: TheWizKids (button) (small blind) folded on the River
+
+
+PokerStars Hand #150045228172:  Hold'em Limit ($3/$6 USD) - 2016/03/08 14:30:59 ET
+Table 'Mitaka II' 6-max Seat #6 is the button
+Seat 4: paptec ($587.25 in chips)
+Seat 6: GRAILKO ($258.53 in chips)
+GRAILKO: posts small blind $1
+paptec: posts big blind $3
+*** HOLE CARDS ***
+GRAILKO: raises $3 to $6
+paptec: raises $3 to $9
+GRAILKO: calls $3
+*** FLOP *** [7h Kh 6h]
+paptec: bets $3
+GRAILKO: raises $3 to $6
+paptec: calls $3
+*** TURN *** [7h Kh 6h] [Th]
+paptec: checks
+GRAILKO: bets $6
+paptec: calls $6
+*** RIVER *** [7h Kh 6h Th] [Ts]
+paptec: checks
+GRAILKO: bets $6
+paptec: calls $6
+*** SHOW DOWN ***
+GRAILKO: shows [Jh 8s] (a flush, King high)
+paptec: mucks hand
+GRAILKO collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [7h Kh 6h Th Ts]
+Seat 4: paptec (big blind) mucked
+Seat 6: GRAILKO (button) (small blind) showed [Jh 8s] and won ($53.50) with a flush, King high
+
+

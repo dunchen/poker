@@ -1,0 +1,109 @@
+PokerStars Hand #146183920248:  Hold'em Limit ($3/$6 USD) - 2015/12/30 14:10:38 ET
+Table 'Pafuri III' 2-max Seat #1 is the button
+Seat 1: PelonCabelao ($72 in chips)
+Seat 2: lslavall ($65.30 in chips)
+PelonCabelao: posts small blind $1
+lslavall: posts big blind $3
+*** HOLE CARDS ***
+PelonCabelao: raises $3 to $6
+lslavall: raises $3 to $9
+PelonCabelao: calls $3
+*** FLOP *** [Tc As 9s]
+lslavall: bets $3
+PelonCabelao: calls $3
+*** TURN *** [Tc As 9s] [9d]
+lslavall: bets $6
+PelonCabelao: calls $6
+*** RIVER *** [Tc As 9s 9d] [Qd]
+lslavall: checks
+PelonCabelao: checks
+*** SHOW DOWN ***
+lslavall: shows [Kh 8s] (a pair of Nines)
+PelonCabelao: shows [8h Ts] (two pair, Tens and Nines)
+PelonCabelao collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Tc As 9s 9d Qd]
+Seat 1: PelonCabelao (button) (small blind) showed [8h Ts] and won ($35.50) with two pair, Tens and Nines
+Seat 2: lslavall (big blind) showed [Kh 8s] and lost with a pair of Nines
+
+
+PokerStars Hand #146183942253:  Hold'em Limit ($3/$6 USD) - 2015/12/30 14:11:00 ET
+Table 'Pafuri III' 2-max Seat #2 is the button
+Seat 1: PelonCabelao ($89.50 in chips)
+Seat 2: lslavall ($47.30 in chips)
+lslavall: posts small blind $1
+PelonCabelao: posts big blind $3
+*** HOLE CARDS ***
+lslavall: raises $3 to $6
+PelonCabelao: calls $3
+*** FLOP *** [3d 5s 4s]
+PelonCabelao: checks
+lslavall: bets $3
+PelonCabelao: raises $3 to $6
+lslavall: calls $3
+*** TURN *** [3d 5s 4s] [5d]
+PelonCabelao: bets $6
+lslavall: calls $6
+*** RIVER *** [3d 5s 4s 5d] [Tc]
+PelonCabelao: checks
+lslavall: bets $6
+PelonCabelao: calls $6
+*** SHOW DOWN ***
+lslavall: shows [8s 2d] (a pair of Fives)
+PelonCabelao: shows [6d Kd] (a pair of Fives - King kicker)
+PelonCabelao collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3d 5s 4s 5d Tc]
+Seat 1: PelonCabelao (big blind) showed [6d Kd] and won ($47.50) with a pair of Fives
+Seat 2: lslavall (button) (small blind) showed [8s 2d] and lost with a pair of Fives
+
+
+PokerStars Hand #146183976391:  Hold'em Limit ($3/$6 USD) - 2015/12/30 14:11:35 ET
+Table 'Pafuri III' 2-max Seat #1 is the button
+Seat 1: PelonCabelao ($113 in chips)
+Seat 2: lslavall ($23.30 in chips)
+PelonCabelao: posts small blind $1
+lslavall: posts big blind $3
+*** HOLE CARDS ***
+PelonCabelao: folds
+Uncalled bet ($2) returned to lslavall
+lslavall collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: PelonCabelao (button) (small blind) folded before Flop
+Seat 2: lslavall (big blind) collected ($2)
+
+
+PokerStars Hand #146183982122:  Hold'em Limit ($3/$6 USD) - 2015/12/30 14:11:41 ET
+Table 'Pafuri III' 2-max Seat #2 is the button
+Seat 1: PelonCabelao ($112 in chips)
+Seat 2: lslavall ($24.30 in chips)
+lslavall: posts small blind $1
+PelonCabelao: posts big blind $3
+*** HOLE CARDS ***
+lslavall: raises $3 to $6
+PelonCabelao: raises $3 to $9
+lslavall: calls $3
+*** FLOP *** [8d 5s 2h]
+PelonCabelao: bets $3
+lslavall: calls $3
+*** TURN *** [8d 5s 2h] [6s]
+PelonCabelao: checks
+lslavall: bets $6
+PelonCabelao: raises $6 to $12
+lslavall: raises $0.30 to $12.30 and is all-in
+PelonCabelao: calls $0.30
+*** RIVER *** [8d 5s 2h 6s] [4h]
+*** SHOW DOWN ***
+PelonCabelao: shows [8c 9d] (a pair of Eights)
+lslavall: shows [Jd 9s] (high card Jack)
+PelonCabelao collected $48.10 from pot
+*** SUMMARY ***
+Total pot $48.60 | Rake $0.50
+Board [8d 5s 2h 6s 4h]
+Seat 1: PelonCabelao (big blind) showed [8c 9d] and won ($48.10) with a pair of Eights
+Seat 2: lslavall (button) (small blind) showed [Jd 9s] and lost with high card Jack
+
+

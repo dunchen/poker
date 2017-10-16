@@ -1,0 +1,55 @@
+PokerStars Hand #170070773504:  Hold'em Limit ($3/$6 USD) - 2017/05/07 6:23:50 ET
+Table 'Werdandi' 6-max Seat #3 is the button
+Seat 3: sim5sim5 ($72 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+sim5sim5: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [8c 4s 3h]
+VolkovDmitri: checks
+sim5sim5: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [8c 4s 3h] [2d]
+VolkovDmitri: checks
+sim5sim5: checks
+*** RIVER *** [8c 4s 3h 2d] [9d]
+VolkovDmitri: checks
+sim5sim5: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [6s Qh] (high card Queen)
+sim5sim5: shows [2s Ts] (a pair of Deuces)
+sim5sim5 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8c 4s 3h 2d 9d]
+Seat 3: sim5sim5 (button) (small blind) showed [2s Ts] and won ($17.64) with a pair of Deuces
+Seat 4: VolkovDmitri (big blind) showed [6s Qh] and lost with high card Queen
+
+
+PokerStars Hand #170070829941:  Hold'em Limit ($3/$6 USD) - 2017/05/07 6:25:57 ET
+Table 'Werdandi' 6-max Seat #4 is the button
+Seat 3: sim5sim5 ($80.64 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+sim5sim5: calls $3
+*** FLOP *** [8d 2d 4c]
+sim5sim5: checks
+VolkovDmitri: checks
+*** TURN *** [8d 2d 4c] [9c]
+sim5sim5: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to sim5sim5
+sim5sim5 collected $11.76 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8d 2d 4c 9c]
+Seat 3: sim5sim5 (big blind) collected ($11.76)
+Seat 4: VolkovDmitri (button) (small blind) folded on the Turn
+
+

@@ -1,0 +1,161 @@
+PokerStars Hand #153578285951:  Hold'em Limit ($3/$6 USD) - 2016/05/20 7:14:07 ET
+Table 'Imhotep' 6-max Seat #1 is the button
+Seat 1: kdcl ($32 in chips)
+Seat 2: Ag3r0n ($72 in chips)
+kdcl: posts small blind $1
+Ag3r0n: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+Ag3r0n: calls $3
+*** FLOP *** [8c 2h 8h]
+Ag3r0n: checks
+kdcl: checks
+*** TURN *** [8c 2h 8h] [Js]
+Ag3r0n: checks
+kdcl: bets $6
+Ag3r0n: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8c 2h 8h Js]
+Seat 1: kdcl (button) (small blind) collected ($11.76)
+Seat 2: Ag3r0n (big blind) folded on the Turn
+
+
+PokerStars Hand #153578293159:  Hold'em Limit ($3/$6 USD) - 2016/05/20 7:14:23 ET
+Table 'Imhotep' 6-max Seat #2 is the button
+Seat 1: kdcl ($37.76 in chips)
+Seat 2: Ag3r0n ($72 in chips)
+Ag3r0n: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88 leaves the table
+Ag3r0n: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [Ah 4c 8h]
+kdcl: checks
+Ag3r0n: bets $3
+kdcl: raises $3 to $6
+Ag3r0n: folds
+Uncalled bet ($3) returned to kdcl
+kdcl collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ah 4c 8h]
+Seat 1: kdcl (big blind) collected ($17.64)
+Seat 2: Ag3r0n (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #153578311923:  Hold'em Limit ($3/$6 USD) - 2016/05/20 7:15:05 ET
+Table 'Imhotep' 6-max Seat #2 is the button
+Seat 1: kdcl ($72.90 in chips)
+Seat 2: Ag3r0n ($72 in chips)
+Ag3r0n: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+Ag3r0n: folds
+Uncalled bet ($2) returned to kdcl
+kdcl collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: kdcl (big blind) collected ($2)
+Seat 2: Ag3r0n (button) (small blind) folded before Flop
+
+
+PokerStars Hand #153578301215:  Hold'em Limit ($3/$6 USD) - 2016/05/20 7:14:41 ET
+Table 'Imhotep' 6-max Seat #1 is the button
+Seat 1: kdcl ($46.40 in chips)
+Seat 2: Ag3r0n ($72 in chips)
+kdcl: posts small blind $1
+Ag3r0n: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+Ag3r0n: raises $3 to $9
+kdcl: calls $3
+*** FLOP *** [3h 8s 8c]
+Ag3r0n: checks
+kdcl: checks
+*** TURN *** [3h 8s 8c] [5d]
+Ag3r0n: bets $6
+kdcl: raises $6 to $12
+Ag3r0n: calls $6
+*** RIVER *** [3h 8s 8c 5d] [6c]
+Ag3r0n: checks
+kdcl: bets $6
+Ag3r0n: calls $6
+*** SHOW DOWN ***
+kdcl: shows [Ah 5h] (two pair, Eights and Fives)
+Ag3r0n: mucks hand
+kdcl collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [3h 8s 8c 5d 6c]
+Seat 1: kdcl (button) (small blind) showed [Ah 5h] and won ($53.50) with two pair, Eights and Fives
+Seat 2: Ag3r0n (big blind) mucked
+
+
+PokerStars Hand #153578313876:  Hold'em Limit ($3/$6 USD) - 2016/05/20 7:15:09 ET
+Table 'Imhotep' 6-max Seat #1 is the button
+Seat 1: kdcl ($73.90 in chips)
+Seat 2: Ag3r0n ($72 in chips)
+kdcl: posts small blind $1
+Ag3r0n: posts big blind $3
+*** HOLE CARDS ***
+kdcl: folds
+Uncalled bet ($2) returned to Ag3r0n
+Ag3r0n collected $2 from pot
+supbro21 joins the table at seat #3
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: kdcl (button) (small blind) folded before Flop
+Seat 2: Ag3r0n (big blind) collected ($2)
+
+
+PokerStars Hand #153578923273:  Hold'em Limit ($3/$6 USD) - 2016/05/20 7:37:08 ET
+Table 'Imhotep' 6-max Seat #5 is the button
+Seat 2: Ag3r0n ($143.51 in chips)
+Seat 5: HAL9QQQ ($126.73 in chips)
+HAL9QQQ: posts small blind $1
+Ag3r0n: posts big blind $3
+*** HOLE CARDS ***
+HAL9QQQ: raises $3 to $6
+kdcl leaves the table
+Ag3r0n: calls $3
+*** FLOP *** [6h 7h 2s]
+Ag3r0n: bets $3
+HAL9QQQ: calls $3
+*** TURN *** [6h 7h 2s] [6d]
+Ag3r0n: bets $6
+HAL9QQQ: calls $6
+*** RIVER *** [6h 7h 2s 6d] [3s]
+Ag3r0n: bets $6
+HAL9QQQ: calls $6
+*** SHOW DOWN ***
+Ag3r0n: shows [Js 6c] (three of a kind, Sixes)
+HAL9QQQ: mucks hand
+Ag3r0n collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [6h 7h 2s 6d 3s]
+Seat 2: Ag3r0n (big blind) showed [Js 6c] and won ($41.50) with three of a kind, Sixes
+Seat 5: HAL9QQQ (button) (small blind) mucked
+
+
+PokerStars Hand #153578933900:  Hold'em Limit ($3/$6 USD) - 2016/05/20 7:37:30 ET
+Table 'Imhotep' 6-max Seat #2 is the button
+Seat 2: Ag3r0n ($164.01 in chips)
+Seat 5: HAL9QQQ ($120 in chips)
+Ag3r0n: posts small blind $1
+HAL9QQQ: posts big blind $3
+*** HOLE CARDS ***
+Ag3r0n: raises $3 to $6
+HAL9QQQ: folds
+Uncalled bet ($3) returned to Ag3r0n
+Ag3r0n collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: Ag3r0n (button) (small blind) collected ($6)
+Seat 5: HAL9QQQ (big blind) folded before Flop
+
+

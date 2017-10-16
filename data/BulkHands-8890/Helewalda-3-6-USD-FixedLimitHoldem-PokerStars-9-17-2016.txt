@@ -1,0 +1,129 @@
+PokerStars Hand #158719022063:  Hold'em Limit ($3/$6 USD) - 2016/09/17 9:36:12 ET
+Table 'Helewalda' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($120 in chips)
+Seat 6: buddhasway ($84.53 in chips)
+VolkovDmitri: posts small blind $1
+buddhasway: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+buddhasway: calls $3
+*** FLOP *** [Qs 9h 4h]
+buddhasway: checks
+VolkovDmitri: bets $3
+buddhasway: calls $3
+*** TURN *** [Qs 9h 4h] [Kh]
+buddhasway: checks
+VolkovDmitri: checks
+*** RIVER *** [Qs 9h 4h Kh] [As]
+buddhasway: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to buddhasway
+buddhasway collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qs 9h 4h Kh As]
+Seat 4: VolkovDmitri (button) (small blind) folded on the River
+Seat 6: buddhasway (big blind) collected ($17.64)
+
+
+PokerStars Hand #158720707964:  Hold'em Limit ($3/$6 USD) - 2016/09/17 10:23:22 ET
+Table 'Helewalda' 6-max Seat #2 is the button
+Seat 2: Cuxy ($81.43 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+Cuxy: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Cuxy: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: Cuxy (button) (small blind) folded before Flop
+Seat 4: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #158720712721:  Hold'em Limit ($3/$6 USD) - 2016/09/17 10:23:30 ET
+Table 'Helewalda' 6-max Seat #4 is the button
+Seat 2: Cuxy ($80.43 in chips)
+Seat 4: VolkovDmitri ($121 in chips)
+VolkovDmitri: posts small blind $1
+Cuxy: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Cuxy: calls $3
+*** FLOP *** [Kd Kc Qd]
+Cuxy: checks
+VolkovDmitri: bets $3
+Cuxy: calls $3
+*** TURN *** [Kd Kc Qd] [7h]
+Cuxy: checks
+VolkovDmitri: checks
+*** RIVER *** [Kd Kc Qd 7h] [Ad]
+Cuxy: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to Cuxy
+Cuxy collected $17.64 from pot
+Cuxy: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kd Kc Qd 7h Ad]
+Seat 2: Cuxy (big blind) collected ($17.64)
+Seat 4: VolkovDmitri (button) (small blind) folded on the River
+
+
+PokerStars Hand #158720731834:  Hold'em Limit ($3/$6 USD) - 2016/09/17 10:24:00 ET
+Table 'Helewalda' 6-max Seat #2 is the button
+Seat 2: Cuxy ($89.07 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+Cuxy: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Cuxy: calls $2
+MilPopov joins the table at seat #3
+VolkovDmitri: raises $3 to $6
+Cuxy: calls $3
+*** FLOP *** [Ks 8h 9h]
+VolkovDmitri: checks
+Cuxy: bets $3
+VolkovDmitri: folds
+Uncalled bet ($3) returned to Cuxy
+Cuxy collected $11.76 from pot
+Cuxy: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ks 8h 9h]
+Seat 2: Cuxy (button) (small blind) collected ($11.76)
+Seat 4: VolkovDmitri (big blind) folded on the Flop
+
+
+PokerStars Hand #158720752409:  Hold'em Limit ($3/$6 USD) - 2016/09/17 10:24:34 ET
+Table 'Helewalda' 6-max Seat #4 is the button
+Seat 2: Cuxy ($94.83 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+Cuxy: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Cuxy: calls $3
+*** FLOP *** [2s Ad 3c]
+Cuxy: checks
+VolkovDmitri: bets $3
+Cuxy: calls $3
+*** TURN *** [2s Ad 3c] [9d]
+Cuxy: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [2s Ad 3c 9d] [Ac]
+Cuxy: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+Cuxy: shows [6d Ah] (three of a kind, Aces)
+VolkovDmitri: mucks hand
+Cuxy collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2s Ad 3c 9d Ac]
+Seat 2: Cuxy (big blind) showed [6d Ah] and won ($41.50) with three of a kind, Aces
+Seat 4: VolkovDmitri (button) (small blind) mucked
+
+

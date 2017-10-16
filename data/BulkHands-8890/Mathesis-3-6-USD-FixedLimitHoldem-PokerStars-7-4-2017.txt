@@ -1,0 +1,30 @@
+PokerStars Hand #172603091266:  Hold'em Limit ($3/$6 USD) - 2017/07/04 14:15:37 ET
+Table 'Mathesis' 10-max Seat #1 is the button
+Seat 1: perten ($49.67 in chips)
+Seat 6: Rus29APX ($120 in chips)
+perten: posts small blind $1
+Rus29APX: posts big blind $3
+*** HOLE CARDS ***
+perten: raises $3 to $6
+Rus29APX: calls $3
+*** FLOP *** [3s 4c 6h]
+Rus29APX: checks
+perten: bets $3
+Rus29APX: raises $3 to $6
+perten: calls $3
+*** TURN *** [3s 4c 6h] [Kc]
+Rus29APX: bets $6
+perten: calls $6
+*** RIVER *** [3s 4c 6h Kc] [4h]
+Rus29APX: bets $6
+perten: folds
+Uncalled bet ($6) returned to Rus29APX
+Rus29APX collected $35.50 from pot
+Rus29APX: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [3s 4c 6h Kc 4h]
+Seat 1: perten (button) (small blind) folded on the River
+Seat 6: Rus29APX (big blind) collected ($35.50)
+
+

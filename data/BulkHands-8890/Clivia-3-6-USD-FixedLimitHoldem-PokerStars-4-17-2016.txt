@@ -1,0 +1,84 @@
+PokerStars Hand #152030421408:  Hold'em Limit ($3/$6 USD) - 2016/04/17 2:34:33 ET
+Table 'Clivia' 6-max Seat #3 is the button
+Seat 1: jig50 ($43.49 in chips)
+Seat 3: RaisemyNut$ ($60 in chips)
+RaisemyNut$: posts small blind $1
+Agrotait: is sitting out
+VolkovDmitri: is sitting out
+jig50: posts big blind $3
+*** HOLE CARDS ***
+RaisemyNut$: raises $3 to $6
+VolkovDmitri leaves the table
+jig50: calls $3
+*** FLOP *** [Qc 9d 6s]
+Agrotait leaves the table
+jig50: checks
+RaisemyNut$: bets $3
+jig50: folds
+Uncalled bet ($3) returned to RaisemyNut$
+VolkovDmitri joins the table at seat #2
+RaisemyNut$ collected $11.76 from pot
+RaisemyNut$: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qc 9d 6s]
+Seat 1: jig50 (big blind) folded on the Flop
+Seat 3: RaisemyNut$ (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #152030683313:  Hold'em Limit ($3/$6 USD) - 2016/04/17 2:49:44 ET
+Table 'Clivia' 6-max Seat #1 is the button
+Seat 1: jig50 ($8.63 in chips)
+Seat 3: RaisemyNut$ ($103.50 in chips)
+jig50: posts small blind $1
+RaisemyNut$: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri leaves the table
+jig50: raises $3 to $6
+RaisemyNut$: calls $3
+*** FLOP *** [Ts 3c Ah]
+RaisemyNut$: checks
+jig50: bets $2.63 and is all-in
+RaisemyNut$: calls $2.63
+*** TURN *** [Ts 3c Ah] [Kc]
+*** RIVER *** [Ts 3c Ah Kc] [2s]
+*** SHOW DOWN ***
+RaisemyNut$: shows [6h 5s] (high card Ace)
+jig50: shows [2h Ad] (two pair, Aces and Deuces)
+jig50 collected $16.91 from pot
+*** SUMMARY ***
+Total pot $17.26 | Rake $0.35
+Board [Ts 3c Ah Kc 2s]
+Seat 1: jig50 (button) (small blind) showed [2h Ad] and won ($16.91) with two pair, Aces and Deuces
+Seat 3: RaisemyNut$ (big blind) showed [6h 5s] and lost with high card Ace
+
+
+PokerStars Hand #152030692131:  Hold'em Limit ($3/$6 USD) - 2016/04/17 2:50:15 ET
+Table 'Clivia' 6-max Seat #1 is the button
+Seat 1: jig50 ($17.91 in chips)
+Seat 3: RaisemyNut$ ($93.87 in chips)
+jig50: posts small blind $1
+RaisemyNut$: posts big blind $3
+*** HOLE CARDS ***
+jig50: calls $2
+RaisemyNut$: checks
+*** FLOP *** [8c 5s 9d]
+RaisemyNut$: checks
+jig50: bets $3
+RaisemyNut$: calls $3
+*** TURN *** [8c 5s 9d] [Qd]
+RaisemyNut$: checks
+jig50: checks
+*** RIVER *** [8c 5s 9d Qd] [7c]
+RaisemyNut$: bets $6
+jig50: folds
+Uncalled bet ($6) returned to RaisemyNut$
+RaisemyNut$ collected $11.76 from pot
+RaisemyNut$: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8c 5s 9d Qd 7c]
+Seat 1: jig50 (button) (small blind) folded on the River
+Seat 3: RaisemyNut$ (big blind) collected ($11.76)
+
+

@@ -1,0 +1,31 @@
+PokerStars Hand #146205171690:  Hold'em Limit ($3/$6 USD) - 2015/12/30 20:32:07 ET
+Table 'Buda II' 2-max Seat #1 is the button
+Seat 1: Alnikon ($118.24 in chips)
+Seat 2: dragon1893 ($150 in chips)
+Alnikon: posts small blind $1
+dragon1893: posts big blind $3
+*** HOLE CARDS ***
+Alnikon: raises $3 to $6
+dragon1893: calls $3
+*** FLOP *** [2s 5c Tc]
+dragon1893: checks
+Alnikon: bets $3
+dragon1893: raises $3 to $6
+Alnikon: calls $3
+*** TURN *** [2s 5c Tc] [Qh]
+dragon1893: bets $6
+Alnikon: calls $6
+*** RIVER *** [2s 5c Tc Qh] [9c]
+dragon1893: bets $6
+Alnikon: calls $6
+*** SHOW DOWN ***
+dragon1893: shows [5h 8c] (a pair of Fives)
+Alnikon: shows [Td Ah] (a pair of Tens)
+Alnikon collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2s 5c Tc Qh 9c]
+Seat 1: Alnikon (button) (small blind) showed [Td Ah] and won ($47.50) with a pair of Tens
+Seat 2: dragon1893 (big blind) showed [5h 8c] and lost with a pair of Fives
+
+

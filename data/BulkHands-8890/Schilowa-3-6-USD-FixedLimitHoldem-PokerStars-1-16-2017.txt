@@ -1,0 +1,64 @@
+PokerStars Hand #164675114739:  Hold'em Limit ($3/$6 USD) - 2017/01/16 12:26:50 ET
+Table 'Schilowa' 6-max Seat #5 is the button
+Seat 5: SilaSoNi ($121.27 in chips)
+Seat 6: frgt\10river ($34.33 in chips)
+SilaSoNi: posts small blind $1
+frgt\10river: posts big blind $3
+*** HOLE CARDS ***
+SilaSoNi: raises $3 to $6
+frgt\10river: raises $3 to $9
+SilaSoNi: calls $3
+*** FLOP *** [5c 5h Ts]
+frgt\10river: checks
+SilaSoNi: checks
+*** TURN *** [5c 5h Ts] [Qh]
+frgt\10river: checks
+SilaSoNi: bets $6
+frgt\10river: calls $6
+*** RIVER *** [5c 5h Ts Qh] [8c]
+frgt\10river: checks
+SilaSoNi: bets $6
+frgt\10river: folds
+Uncalled bet ($6) returned to SilaSoNi
+SilaSoNi collected $29.50 from pot
+SilaSoNi: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5c 5h Ts Qh 8c]
+Seat 5: SilaSoNi (button) (small blind) collected ($29.50)
+Seat 6: frgt\10river (big blind) folded on the River
+
+
+PokerStars Hand #164675134971:  Hold'em Limit ($3/$6 USD) - 2017/01/16 12:27:14 ET
+Table 'Schilowa' 6-max Seat #6 is the button
+Seat 5: SilaSoNi ($135.77 in chips)
+Seat 6: frgt\10river ($19.33 in chips)
+frgt\10river: posts small blind $1
+SilaSoNi: posts big blind $3
+*** HOLE CARDS ***
+frgt\10river: raises $3 to $6
+SilaSoNi: calls $3
+*** FLOP *** [5s 4c Tc]
+SilaSoNi: checks
+frgt\10river: bets $3
+SilaSoNi: raises $3 to $6
+frgt\10river: raises $3 to $9
+SilaSoNi: raises $3 to $12
+Betting is capped
+frgt\10river: calls $3
+*** TURN *** [5s 4c Tc] [Js]
+SilaSoNi: bets $6
+frgt\10river: calls $1.33 and is all-in
+Uncalled bet ($4.67) returned to SilaSoNi
+*** RIVER *** [5s 4c Tc Js] [7d]
+*** SHOW DOWN ***
+SilaSoNi: shows [3h 4d] (a pair of Fours)
+frgt\10river: shows [8h Kd] (high card King)
+SilaSoNi collected $38.16 from pot
+*** SUMMARY ***
+Total pot $38.66 | Rake $0.50
+Board [5s 4c Tc Js 7d]
+Seat 5: SilaSoNi (big blind) showed [3h 4d] and won ($38.16) with a pair of Fours
+Seat 6: frgt\10river (button) (small blind) showed [8h Kd] and lost with high card King
+
+

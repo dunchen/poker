@@ -1,0 +1,49 @@
+PokerStars Hand #174509256415:  Hold'em Limit ($3/$6 USD) - 2017/08/18 20:42:08 ET
+Table 'Raimonda' 6-max Seat #4 is the button
+Seat 1: banita51 ($118.11 in chips)
+Seat 4: ToDaFelt ($123.81 in chips)
+ToDaFelt: posts small blind $1
+banita51: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+banita51: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $6 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: banita51 (big blind) folded before Flop
+Seat 4: ToDaFelt (button) (small blind) collected ($6)
+
+
+PokerStars Hand #174509246810:  Hold'em Limit ($3/$6 USD) - 2017/08/18 20:41:48 ET
+Table 'Raimonda' 6-max Seat #1 is the button
+Seat 1: banita51 ($94.61 in chips)
+Seat 4: ToDaFelt ($147.81 in chips)
+banita51: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+banita51: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [Td 9h 4c]
+ToDaFelt: checks
+banita51: bets $3
+ToDaFelt: raises $3 to $6
+banita51: calls $3
+*** TURN *** [Td 9h 4c] [4d]
+ToDaFelt: bets $6
+banita51: calls $6
+*** RIVER *** [Td 9h 4c 4d] [6h]
+ToDaFelt: bets $6
+banita51: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [7s Js] (a pair of Fours)
+banita51: shows [6d 7h] (two pair, Sixes and Fours)
+banita51 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Td 9h 4c 4d 6h]
+Seat 1: banita51 (button) (small blind) showed [6d 7h] and won ($47.50) with two pair, Sixes and Fours
+Seat 4: ToDaFelt (big blind) showed [7s Js] and lost with a pair of Fours
+
+

@@ -1,0 +1,120 @@
+PokerStars Hand #153756307172:  Hold'em Limit ($3/$6 USD) - 2016/05/23 20:33:51 ET
+Table 'Sham' 6-max Seat #6 is the button
+Seat 3: Artachok ($97.72 in chips)
+Seat 6: anetkaapro ($119.50 in chips)
+anetkaapro: posts small blind $1
+Artachok: posts big blind $3
+*** HOLE CARDS ***
+Perumov joins the table at seat #4
+anetkaapro: raises $3 to $6
+Artachok: raises $3 to $9
+LWNS joins the table at seat #2
+anetkaapro: calls $3
+*** FLOP *** [Jd 8d 3c]
+Artachok: bets $3
+anetkaapro: calls $3
+*** TURN *** [Jd 8d 3c] [9h]
+Artachok: bets $6
+anetkaapro: calls $6
+*** RIVER *** [Jd 8d 3c 9h] [6h]
+Artachok: bets $6
+anetkaapro: calls $6
+*** SHOW DOWN ***
+Artachok: shows [As 3s] (a pair of Threes)
+anetkaapro: shows [8c Kd] (a pair of Eights)
+anetkaapro collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Jd 8d 3c 9h 6h]
+Seat 3: Artachok (big blind) showed [As 3s] and lost with a pair of Threes
+Seat 6: anetkaapro (button) (small blind) showed [8c Kd] and won ($47.50) with a pair of Eights
+
+
+PokerStars Hand #153756276302:  Hold'em Limit ($3/$6 USD) - 2016/05/23 20:32:48 ET
+Table 'Sham' 6-max Seat #6 is the button
+Seat 3: Artachok ($98.22 in chips)
+Seat 6: anetkaapro ($120 in chips)
+anetkaapro: posts small blind $1
+Artachok: posts big blind $3
+*** HOLE CARDS ***
+anetkaapro: raises $3 to $6
+Artachok: raises $3 to $9
+anetkaapro: calls $3
+*** FLOP *** [Ks 3d Jd]
+Artachok: bets $3
+anetkaapro: calls $3
+*** TURN *** [Ks 3d Jd] [9c]
+Artachok: bets $6
+anetkaapro: raises $6 to $12
+Artachok: calls $6
+*** RIVER *** [Ks 3d Jd 9c] [Ac]
+Artachok: bets $6
+anetkaapro: calls $6
+*** SHOW DOWN ***
+Artachok: shows [Jc Ah] (two pair, Aces and Jacks)
+anetkaapro: mucks hand
+Artachok collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Ks 3d Jd 9c Ac]
+Seat 3: Artachok (big blind) showed [Jc Ah] and won ($59.50) with two pair, Aces and Jacks
+Seat 6: anetkaapro (button) (small blind) mucked
+
+
+PokerStars Hand #153756296655:  Hold'em Limit ($3/$6 USD) - 2016/05/23 20:33:30 ET
+Table 'Sham' 6-max Seat #3 is the button
+Seat 3: Artachok ($127.72 in chips)
+Seat 6: anetkaapro ($90 in chips)
+Artachok: posts small blind $1
+anetkaapro: posts big blind $3
+*** HOLE CARDS ***
+Artachok: raises $3 to $6
+anetkaapro: raises $3 to $9
+Artachok: calls $3
+*** FLOP *** [Qs 7c Jc]
+anetkaapro: bets $3
+Artachok: calls $3
+*** TURN *** [Qs 7c Jc] [Qd]
+anetkaapro: checks
+Artachok: checks
+*** RIVER *** [Qs 7c Jc Qd] [9h]
+anetkaapro: bets $6
+Artachok: raises $6 to $12
+anetkaapro: raises $6 to $18
+Artachok: calls $6
+*** SHOW DOWN ***
+anetkaapro: shows [Kd Tc] (a straight, Nine to King)
+Artachok: mucks hand
+anetkaapro collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Qs 7c Jc Qd 9h]
+Seat 3: Artachok (button) (small blind) mucked
+Seat 6: anetkaapro (big blind) showed [Kd Tc] and won ($59.50) with a straight, Nine to King
+
+
+PokerStars Hand #153756344114:  Hold'em Limit ($3/$6 USD) - 2016/05/23 20:35:08 ET
+Table 'Sham' 6-max Seat #2 is the button
+Seat 2: LWNS ($77 in chips)
+Seat 6: anetkaapro ($131.61 in chips)
+LWNS: posts small blind $1
+Perumov: is sitting out
+anetkaapro: posts big blind $3
+*** HOLE CARDS ***
+Perumov leaves the table
+LWNS: raises $3 to $6
+anetkaapro: calls $3
+*** FLOP *** [Kd 5d 9d]
+anetkaapro: checks
+LWNS: bets $3
+anetkaapro: folds
+Uncalled bet ($3) returned to LWNS
+LWNS collected $11.76 from pot
+LWNS: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kd 5d 9d]
+Seat 2: LWNS (button) (small blind) collected ($11.76)
+Seat 6: anetkaapro (big blind) folded on the Flop
+
+

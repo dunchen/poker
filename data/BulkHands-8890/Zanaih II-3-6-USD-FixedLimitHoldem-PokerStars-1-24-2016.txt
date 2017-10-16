@@ -1,0 +1,122 @@
+PokerStars Hand #147601011061:  Hold'em Limit ($3/$6 USD) - 2016/01/24 12:04:34 ET
+Table 'Zanaih II' 10-max Seat #2 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 2: gorcea_vs ($97.51 in chips)
+gorcea_vs: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+gorcea_vs: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [3h 4s 9c]
+VolkovDmitri: checks
+gorcea_vs: bets $3
+VolkovDmitri: raises $3 to $6
+gorcea_vs: calls $3
+*** TURN *** [3h 4s 9c] [9d]
+VolkovDmitri: bets $6
+gorcea_vs: calls $6
+*** RIVER *** [3h 4s 9c 9d] [3c]
+VolkovDmitri: checks
+gorcea_vs: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [5s 8s] (two pair, Nines and Threes)
+gorcea_vs: shows [Ad 6s] (two pair, Nines and Threes - Ace kicker)
+gorcea_vs collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [3h 4s 9c 9d 3c]
+Seat 1: VolkovDmitri (big blind) showed [5s 8s] and lost with two pair, Nines and Threes
+Seat 2: gorcea_vs (button) (small blind) showed [Ad 6s] and won ($35.50) with two pair, Nines and Threes
+
+
+PokerStars Hand #147601046603:  Hold'em Limit ($3/$6 USD) - 2016/01/24 12:05:08 ET
+Table 'Zanaih II' 10-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 2: gorcea_vs ($115.01 in chips)
+VolkovDmitri: posts small blind $1
+gorcea_vs: posts big blind $3
+*** HOLE CARDS ***
+boony444 joins the table at seat #3
+VolkovDmitri: raises $3 to $6
+gorcea_vs: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [8h 5d As]
+gorcea_vs: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [8h 5d As] [6c]
+gorcea_vs: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [8h 5d As 6c] [Qh]
+gorcea_vs: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+gorcea_vs: shows [Ac Qc] (two pair, Aces and Queens)
+VolkovDmitri: mucks hand
+gorcea_vs collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8h 5d As 6c Qh]
+Seat 1: VolkovDmitri (button) (small blind) mucked
+Seat 2: gorcea_vs (big blind) showed [Ac Qc] and won ($47.50) with two pair, Aces and Queens
+
+
+PokerStars Hand #147601154900:  Hold'em Limit ($3/$6 USD) - 2016/01/24 12:06:51 ET
+Table 'Zanaih II' 10-max Seat #3 is the button
+Seat 3: boony444 ($187 in chips)
+Seat 4: Pokali ($72 in chips)
+DePokeraap will be allowed to play after the button
+boony444: posts small blind $1
+Pokali: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri leaves the table
+boony444: raises $3 to $6
+Pokali: calls $3
+*** FLOP *** [Jd 7c Ah]
+Pokali: checks
+boony444: bets $3
+Pokali: folds
+Uncalled bet ($3) returned to boony444
+boony444 collected $11.76 from pot
+boony444: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jd 7c Ah]
+Seat 3: boony444 (button) (small blind) collected ($11.76)
+Seat 4: Pokali (big blind) folded on the Flop
+
+
+PokerStars Hand #147621018965:  Hold'em Limit ($3/$6 USD) - 2016/01/24 17:04:20 ET
+Table 'Zanaih II' 10-max Seat #1 is the button
+Seat 1: Chefred ($295.66 in chips)
+Seat 10: pripardone ($147.50 in chips)
+Chefred: posts small blind $1
+Pete81: is sitting out
+pripardone: posts big blind $3
+*** HOLE CARDS ***
+Chefred: raises $3 to $6
+pripardone: raises $3 to $9
+Chefred: calls $3
+*** FLOP *** [5h 2c Td]
+pripardone: checks
+Chefred: bets $3
+pripardone: calls $3
+*** TURN *** [5h 2c Td] [2h]
+pripardone: checks
+Chefred: bets $6
+pripardone: calls $6
+*** RIVER *** [5h 2c Td 2h] [Ts]
+pripardone: checks
+Chefred: bets $6
+pripardone: calls $6
+*** SHOW DOWN ***
+Chefred: shows [8s 8c] (two pair, Tens and Eights)
+pripardone: mucks hand
+Pete81 leaves the table
+Chefred collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [5h 2c Td 2h Ts]
+Seat 1: Chefred (button) (small blind) showed [8s 8c] and won ($47.50) with two pair, Tens and Eights
+Seat 10: pripardone (big blind) mucked
+
+

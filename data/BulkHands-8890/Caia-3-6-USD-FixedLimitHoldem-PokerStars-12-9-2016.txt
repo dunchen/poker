@@ -1,0 +1,54 @@
+PokerStars Hand #162647383034:  Hold'em Limit ($3/$6 USD) - 2016/12/09 0:16:40 ET
+Table 'Caia' 6-max Seat #1 is the button
+Seat 1: ToDaFelt ($143.50 in chips)
+Seat 6: clickmehot ($6.08 in chips)
+ToDaFelt: posts small blind $1
+clickmehot: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+clickmehot: raises $0.08 to $6.08 and is all-in
+ToDaFelt: calls $0.08
+*** FLOP *** [7d 7s 9d]
+*** TURN *** [7d 7s 9d] [3c]
+*** RIVER *** [7d 7s 9d 3c] [4d]
+*** SHOW DOWN ***
+clickmehot: shows [2h Ks] (a pair of Sevens)
+ToDaFelt: shows [6s 9s] (two pair, Nines and Sevens)
+ToDaFelt collected $11.92 from pot
+*** SUMMARY ***
+Total pot $12.16 | Rake $0.24
+Board [7d 7s 9d 3c 4d]
+Seat 1: ToDaFelt (button) (small blind) showed [6s 9s] and won ($11.92) with two pair, Nines and Sevens
+Seat 6: clickmehot (big blind) showed [2h Ks] and lost with a pair of Sevens
+
+
+PokerStars Hand #162647374495:  Hold'em Limit ($3/$6 USD) - 2016/12/09 0:16:09 ET
+Table 'Caia' 6-max Seat #6 is the button
+Seat 1: ToDaFelt ($120 in chips)
+Seat 6: clickmehot ($30.08 in chips)
+clickmehot: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+clickmehot: raises $3 to $6
+ToDaFelt: raises $3 to $9
+clickmehot: calls $3
+*** FLOP *** [2s 8s 6h]
+ToDaFelt: bets $3
+clickmehot: calls $3
+*** TURN *** [2s 8s 6h] [6c]
+ToDaFelt: bets $6
+clickmehot: calls $6
+*** RIVER *** [2s 8s 6h 6c] [Jc]
+ToDaFelt: bets $6
+clickmehot: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [Kd 8h] (two pair, Eights and Sixes)
+clickmehot: mucks hand
+ToDaFelt collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2s 8s 6h 6c Jc]
+Seat 1: ToDaFelt (big blind) showed [Kd 8h] and won ($47.50) with two pair, Eights and Sixes
+Seat 6: clickmehot (button) (small blind) mucked
+
+

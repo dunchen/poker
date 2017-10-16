@@ -1,0 +1,59 @@
+PokerStars Hand #170089587473:  Hold'em Limit ($3/$6 USD) - 2017/05/07 14:01:44 ET
+Table 'Poesia' 6-max Seat #4 is the button
+Seat 1: zoolyyy ($128.64 in chips)
+Seat 4: Agrotait ($63 in chips)
+Agrotait: posts small blind $1
+zoolyyy: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+zoolyyy: calls $3
+*** FLOP *** [6h 4s 3h]
+zoolyyy: checks
+Agrotait: bets $3
+zoolyyy: raises $3 to $6
+Agrotait: calls $3
+*** TURN *** [6h 4s 3h] [Qs]
+zoolyyy: bets $6
+Agrotait: calls $6
+*** RIVER *** [6h 4s 3h Qs] [8c]
+zoolyyy: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+zoolyyy: shows [8h Jh] (a pair of Eights)
+Agrotait: mucks hand
+zoolyyy collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [6h 4s 3h Qs 8c]
+Seat 1: zoolyyy (big blind) showed [8h Jh] and won ($47.50) with a pair of Eights
+Seat 4: Agrotait (button) (small blind) mucked
+
+
+PokerStars Hand #170089552261:  Hold'em Limit ($3/$6 USD) - 2017/05/07 14:01:00 ET
+Table 'Poesia' 6-max Seat #1 is the button
+Seat 1: zoolyyy ($120 in chips)
+Seat 4: Agrotait ($72 in chips)
+zoolyyy: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+zoolyyy: calls $2
+Agrotait: checks
+*** FLOP *** [4h 9h Td]
+Agrotait: bets $3
+zoolyyy: raises $3 to $6
+Great_Kang joins the table at seat #2
+Agrotait: calls $3
+*** TURN *** [4h 9h Td] [Ah]
+Agrotait: checks
+zoolyyy: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to zoolyyy
+zoolyyy collected $17.64 from pot
+zoolyyy: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4h 9h Td Ah]
+Seat 1: zoolyyy (button) (small blind) collected ($17.64)
+Seat 4: Agrotait (big blind) folded on the Turn
+
+

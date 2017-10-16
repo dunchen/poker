@@ -1,0 +1,235 @@
+PokerStars Hand #151409137804:  Hold'em Limit ($3/$6 USD) - 2016/04/04 5:46:36 ET
+Table 'Baumeia II' 10-max Seat #1 is the button
+Seat 1: shushlo ($72 in chips)
+Seat 6: Kurganski ($72 in chips)
+shushlo: posts small blind $1
+Kurganski: posts big blind $3
+*** HOLE CARDS ***
+shushlo: raises $3 to $6
+Kurganski: raises $3 to $9
+shushlo: calls $3
+*** FLOP *** [Kh 7s 8s]
+Kurganski: bets $3
+shushlo: calls $3
+*** TURN *** [Kh 7s 8s] [2c]
+Kurganski: bets $6
+shushlo: calls $6
+*** RIVER *** [Kh 7s 8s 2c] [8d]
+Kurganski: bets $6
+shushlo: raises $6 to $12
+kolaz03 joins the table at seat #2
+Kurganski: calls $6
+*** SHOW DOWN ***
+shushlo: shows [9h 5h] (a pair of Eights)
+Kurganski: shows [Js Jc] (two pair, Jacks and Eights)
+Kurganski collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Kh 7s 8s 2c 8d]
+Seat 1: shushlo (button) (small blind) showed [9h 5h] and lost with a pair of Eights
+Seat 6: Kurganski (big blind) showed [Js Jc] and won ($59.50) with two pair, Jacks and Eights
+
+
+PokerStars Hand #151409160503:  Hold'em Limit ($3/$6 USD) - 2016/04/04 5:47:32 ET
+Table 'Baumeia II' 10-max Seat #6 is the button
+Seat 1: shushlo ($72 in chips)
+Seat 6: Kurganski ($101.50 in chips)
+Kurganski: posts small blind $1
+shushlo: posts big blind $3
+*** HOLE CARDS ***
+Kurganski: raises $3 to $6
+shushlo: raises $3 to $9
+Kurganski: calls $3
+*** FLOP *** [9d 8h 6h]
+shushlo: bets $3
+Kurganski: calls $3
+*** TURN *** [9d 8h 6h] [2c]
+shushlo: bets $6
+Kurganski: raises $6 to $12
+shushlo: calls $6
+*** RIVER *** [9d 8h 6h 2c] [2s]
+shushlo: checks
+Kurganski: bets $6
+shushlo: calls $6
+*** SHOW DOWN ***
+Kurganski: shows [Kd 9c] (two pair, Nines and Deuces)
+shushlo: mucks hand
+Kurganski collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [9d 8h 6h 2c 2s]
+Seat 1: shushlo (big blind) mucked
+Seat 6: Kurganski (button) (small blind) showed [Kd 9c] and won ($59.50) with two pair, Nines and Deuces
+
+
+PokerStars Hand #151409216920:  Hold'em Limit ($3/$6 USD) - 2016/04/04 5:49:50 ET
+Table 'Baumeia II' 10-max Seat #6 is the button
+Seat 2: kolaz03 ($94.56 in chips)
+Seat 6: Kurganski ($107 in chips)
+Kurganski: posts small blind $1
+shushlo: is sitting out
+shushlo leaves the table
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+Kurganski: raises $3 to $6
+kolaz03: calls $3
+*** FLOP *** [6c 6d 3d]
+kolaz03: checks
+Kurganski: checks
+*** TURN *** [6c 6d 3d] [Kd]
+kolaz03: checks
+Kurganski: checks
+*** RIVER *** [6c 6d 3d Kd] [6s]
+kolaz03: checks
+Kurganski: checks
+*** SHOW DOWN ***
+kolaz03: shows [7c Td] (three of a kind, Sixes)
+Kurganski: shows [8c Qs] (three of a kind, Sixes - King+Queen kicker)
+Kurganski collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6c 6d 3d Kd 6s]
+Seat 2: kolaz03 (big blind) showed [7c Td] and lost with three of a kind, Sixes
+Seat 6: Kurganski (button) (small blind) showed [8c Qs] and won ($11.76) with three of a kind, Sixes
+
+
+PokerStars Hand #151409236128:  Hold'em Limit ($3/$6 USD) - 2016/04/04 5:50:37 ET
+Table 'Baumeia II' 10-max Seat #2 is the button
+Seat 2: kolaz03 ($88.56 in chips)
+Seat 6: Kurganski ($112.76 in chips)
+kolaz03: posts small blind $1
+Kurganski: posts big blind $3
+*** HOLE CARDS ***
+kolaz03: raises $3 to $6
+Kurganski: folds
+Uncalled bet ($3) returned to kolaz03
+Kurganski leaves the table
+kolaz03 collected $6 from pot
+kolaz03: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: kolaz03 (button) (small blind) collected ($6)
+Seat 6: Kurganski (big blind) folded before Flop
+
+
+PokerStars Hand #151419824943:  Hold'em Limit ($3/$6 USD) - 2016/04/04 11:15:52 ET
+Table 'Baumeia II' 10-max Seat #6 is the button
+Seat 6: dinobluff ($114.16 in chips)
+Seat 7: Pandakey ($124 in chips)
+dinobluff: posts small blind $1
+Pandakey: posts big blind $3
+*** HOLE CARDS ***
+dinobluff: calls $2
+Pandakey: checks
+*** FLOP *** [Ks 7c 4s]
+Pandakey: checks
+dinobluff: bets $3
+Pandakey: folds
+Uncalled bet ($3) returned to dinobluff
+dinobluff collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Ks 7c 4s]
+Seat 6: dinobluff (button) (small blind) collected ($5.88)
+Seat 7: Pandakey (big blind) folded on the Flop
+
+
+PokerStars Hand #151419843410:  Hold'em Limit ($3/$6 USD) - 2016/04/04 11:16:19 ET
+Table 'Baumeia II' 10-max Seat #7 is the button
+Seat 6: dinobluff ($117.04 in chips)
+Seat 7: Pandakey ($121 in chips)
+Pandakey: posts small blind $1
+dinobluff: posts big blind $3
+*** HOLE CARDS ***
+Pandakey: raises $3 to $6
+dinobluff: calls $3
+*** FLOP *** [7c 2s 4s]
+dinobluff: checks
+Pandakey: bets $3
+dinobluff: folds
+Uncalled bet ($3) returned to Pandakey
+Pandakey collected $11.76 from pot
+Pandakey: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7c 2s 4s]
+Seat 6: dinobluff (big blind) folded on the Flop
+Seat 7: Pandakey (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #151419849523:  Hold'em Limit ($3/$6 USD) - 2016/04/04 11:16:28 ET
+Table 'Baumeia II' 10-max Seat #6 is the button
+Seat 6: dinobluff ($111.04 in chips)
+Seat 7: Pandakey ($126.76 in chips)
+dinobluff: posts small blind $1
+Pandakey: posts big blind $3
+*** HOLE CARDS ***
+dinobluff: raises $3 to $6
+Pandakey: calls $3
+*** FLOP *** [Ad 5d 4c]
+Pandakey: checks
+dinobluff: bets $3
+Pandakey: folds
+Uncalled bet ($3) returned to dinobluff
+dinobluff collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ad 5d 4c]
+Seat 6: dinobluff (button) (small blind) collected ($11.76)
+Seat 7: Pandakey (big blind) folded on the Flop
+
+
+PokerStars Hand #151419817175:  Hold'em Limit ($3/$6 USD) - 2016/04/04 11:15:41 ET
+Table 'Baumeia II' 10-max Seat #7 is the button
+Seat 6: dinobluff ($117.16 in chips)
+Seat 7: Pandakey ($121 in chips)
+Pandakey: posts small blind $1
+dinobluff: posts big blind $3
+*** HOLE CARDS ***
+Pandakey: raises $3 to $6
+dinobluff: folds
+Uncalled bet ($3) returned to Pandakey
+Pandakey collected $6 from pot
+Pandakey: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 6: dinobluff (big blind) folded before Flop
+Seat 7: Pandakey (button) (small blind) collected ($6)
+
+
+PokerStars Hand #151419863485:  Hold'em Limit ($3/$6 USD) - 2016/04/04 11:16:48 ET
+Table 'Baumeia II' 10-max Seat #6 is the button
+Seat 6: dinobluff ($125.44 in chips)
+Seat 7: Pandakey ($111.76 in chips)
+dinobluff: posts small blind $1
+Pandakey: posts big blind $3
+*** HOLE CARDS ***
+dinobluff: folds
+Uncalled bet ($2) returned to Pandakey
+Pandakey collected $2 from pot
+Pandakey: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 6: dinobluff (button) (small blind) folded before Flop
+Seat 7: Pandakey (big blind) collected ($2)
+
+
+PokerStars Hand #151424328182:  Hold'em Limit ($3/$6 USD) - 2016/04/04 12:55:33 ET
+Table 'Baumeia II' 10-max Seat #9 is the button
+Seat 7: GlamDragon ($238.97 in chips)
+Seat 9: Chessnok ($102.95 in chips)
+Chessnok: posts small blind $1
+GlamDragon: posts big blind $3
+*** HOLE CARDS ***
+MissEKAmouse leaves the table
+Chessnok: raises $3 to $6
+GlamDragon: folds
+Uncalled bet ($3) returned to Chessnok
+Chessnok collected $6 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 7: GlamDragon (big blind) folded before Flop
+Seat 9: Chessnok (button) (small blind) collected ($6)
+
+

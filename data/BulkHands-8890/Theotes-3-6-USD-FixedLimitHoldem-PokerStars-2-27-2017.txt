@@ -1,0 +1,49 @@
+PokerStars Hand #166838556307:  Hold'em Limit ($3/$6 USD) - 2017/02/27 2:06:43 ET
+Table 'Theotes' 6-max Seat #5 is the button
+Seat 1: linuxhunter ($106.23 in chips)
+Seat 5: Agrotait ($134.06 in chips)
+Agrotait: posts small blind $1
+linuxhunter: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+linuxhunter: calls $3
+*** FLOP *** [5c As 4c]
+linuxhunter: bets $3
+Agrotait: raises $3 to $6
+linuxhunter: calls $3
+*** TURN *** [5c As 4c] [Ts]
+linuxhunter: checks
+Agrotait: checks
+*** RIVER *** [5c As 4c Ts] [2h]
+linuxhunter: checks
+Agrotait: checks
+*** SHOW DOWN ***
+linuxhunter: shows [4s 7h] (a pair of Fours)
+Agrotait: mucks hand
+linuxhunter collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [5c As 4c Ts 2h]
+Seat 1: linuxhunter (big blind) showed [4s 7h] and won ($23.52) with a pair of Fours
+Seat 5: Agrotait (button) (small blind) mucked
+
+
+PokerStars Hand #166838553628:  Hold'em Limit ($3/$6 USD) - 2017/02/27 2:06:33 ET
+Table 'Theotes' 6-max Seat #1 is the button
+Seat 1: linuxhunter ($103.23 in chips)
+Seat 5: Agrotait ($137.06 in chips)
+linuxhunter: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+shawnm20 leaves the table
+linuxhunter: raises $3 to $6
+Agrotait: folds
+Uncalled bet ($3) returned to linuxhunter
+linuxhunter collected $6 from pot
+linuxhunter: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: linuxhunter (button) (small blind) collected ($6)
+Seat 5: Agrotait (big blind) folded before Flop
+
+

@@ -1,0 +1,56 @@
+PokerStars Hand #160361774537:  Hold'em Limit ($3/$6 USD) - 2016/10/24 3:49:35 ET
+Table 'Gallia II' 6-max Seat #3 is the button
+Seat 3: maglia ($42.39 in chips)
+Seat 4: Agrotait ($72 in chips)
+maglia: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+maglia: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [3s Kc 4s]
+Luanto 14 joins the table at seat #5
+Agrotait: checks
+maglia: bets $3
+Agrotait: raises $3 to $6
+maglia: calls $3
+*** TURN *** [3s Kc 4s] [Th]
+Agrotait: bets $6
+maglia: calls $6
+*** RIVER *** [3s Kc 4s Th] [Td]
+Agrotait: bets $6
+maglia: folds
+Uncalled bet ($6) returned to Agrotait
+Agrotait collected $35.50 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [3s Kc 4s Th Td]
+Seat 3: maglia (button) (small blind) folded on the River
+Seat 4: Agrotait (big blind) collected ($35.50)
+
+
+PokerStars Hand #160361792701:  Hold'em Limit ($3/$6 USD) - 2016/10/24 3:50:44 ET
+Table 'Gallia II' 6-max Seat #4 is the button
+Seat 3: maglia ($5.39 in chips)
+Seat 4: Agrotait ($93.50 in chips)
+Agrotait: posts small blind $1
+Luanto 14: is sitting out
+maglia: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+maglia: calls $2.39 and is all-in
+Uncalled bet ($0.61) returned to Agrotait
+*** FLOP *** [7h Ts 8c]
+*** TURN *** [7h Ts 8c] [Ad]
+*** RIVER *** [7h Ts 8c Ad] [3h]
+*** SHOW DOWN ***
+maglia: shows [5d Kd] (high card Ace)
+Agrotait: shows [Jh As] (a pair of Aces)
+Agrotait collected $10.56 from pot
+*** SUMMARY ***
+Total pot $10.78 | Rake $0.22
+Board [7h Ts 8c Ad 3h]
+Seat 3: maglia (big blind) showed [5d Kd] and lost with high card Ace
+Seat 4: Agrotait (button) (small blind) showed [Jh As] and won ($10.56) with a pair of Aces
+
+

@@ -1,0 +1,96 @@
+PokerStars Hand #145066219228:  Hold'em Limit ($3/$6 USD) - 2015/12/09 7:09:09 ET
+Table 'Colocolo II' 2-max Seat #2 is the button
+Seat 1: yur4ok ($103 in chips)
+Seat 2: Profitables ($30 in chips)
+Profitables: posts small blind $1
+yur4ok: posts big blind $3
+*** HOLE CARDS ***
+Profitables: raises $3 to $6
+yur4ok: calls $3
+*** FLOP *** [2c 6s Kh]
+yur4ok: checks
+Profitables: checks
+*** TURN *** [2c 6s Kh] [4h]
+yur4ok: bets $6
+Profitables: raises $6 to $12
+yur4ok: calls $6
+*** RIVER *** [2c 6s Kh 4h] [8s]
+yur4ok: checks
+Profitables: bets $6
+yur4ok: calls $6
+*** SHOW DOWN ***
+Profitables: shows [6c Kd] (two pair, Kings and Sixes)
+yur4ok: mucks hand
+Profitables collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2c 6s Kh 4h 8s]
+Seat 1: yur4ok (big blind) mucked
+Seat 2: Profitables (button) (small blind) showed [6c Kd] and won ($47.50) with two pair, Kings and Sixes
+
+
+PokerStars Hand #145066229977:  Hold'em Limit ($3/$6 USD) - 2015/12/09 7:09:30 ET
+Table 'Colocolo II' 2-max Seat #1 is the button
+Seat 1: yur4ok ($79 in chips)
+Seat 2: Profitables ($53.50 in chips)
+yur4ok: posts small blind $1
+Profitables: posts big blind $3
+*** HOLE CARDS ***
+yur4ok: raises $3 to $6
+Profitables: calls $3
+*** FLOP *** [Kd 5c 4d]
+Profitables: checks
+yur4ok: bets $3
+Profitables: calls $3
+*** TURN *** [Kd 5c 4d] [7c]
+Profitables: checks
+yur4ok: bets $6
+Profitables: raises $6 to $12
+yur4ok: calls $6
+*** RIVER *** [Kd 5c 4d 7c] [6d]
+Profitables: checks
+yur4ok: bets $6
+Profitables: calls $6
+*** SHOW DOWN ***
+yur4ok: shows [6c Kc] (two pair, Kings and Sixes)
+Profitables: mucks hand
+yur4ok collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Kd 5c 4d 7c 6d]
+Seat 1: yur4ok (button) (small blind) showed [6c Kc] and won ($53.50) with two pair, Kings and Sixes
+Seat 2: Profitables (big blind) mucked
+
+
+PokerStars Hand #145066246787:  Hold'em Limit ($3/$6 USD) - 2015/12/09 7:10:03 ET
+Table 'Colocolo II' 2-max Seat #2 is the button
+Seat 1: yur4ok ($105.50 in chips)
+Seat 2: Profitables ($26.50 in chips)
+Profitables: posts small blind $1
+yur4ok: posts big blind $3
+*** HOLE CARDS ***
+Profitables: raises $3 to $6
+yur4ok: calls $3
+*** FLOP *** [5c Ks Kc]
+yur4ok: checks
+Profitables: bets $3
+yur4ok: raises $3 to $6
+Profitables: calls $3
+*** TURN *** [5c Ks Kc] [Td]
+yur4ok: bets $6
+Profitables: raises $6 to $12
+yur4ok: raises $6 to $18
+Profitables: calls $2.50 and is all-in
+Uncalled bet ($3.50) returned to yur4ok
+*** RIVER *** [5c Ks Kc Td] [Jh]
+*** SHOW DOWN ***
+yur4ok: shows [8c 5d] (two pair, Kings and Fives)
+Profitables: shows [3c As] (a pair of Kings)
+yur4ok collected $52.50 from pot
+*** SUMMARY ***
+Total pot $53 | Rake $0.50
+Board [5c Ks Kc Td Jh]
+Seat 1: yur4ok (big blind) showed [8c 5d] and won ($52.50) with two pair, Kings and Fives
+Seat 2: Profitables (button) (small blind) showed [3c As] and lost with a pair of Kings
+
+

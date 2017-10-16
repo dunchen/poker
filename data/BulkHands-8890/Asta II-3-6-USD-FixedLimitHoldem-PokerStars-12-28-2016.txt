@@ -1,0 +1,103 @@
+PokerStars Hand #163685081754:  Hold'em Limit ($3/$6 USD) - 2016/12/28 17:46:54 ET
+Table 'Asta II' 6-max Seat #5 is the button
+Seat 5: GoliafUa ($158.50 in chips)
+Seat 6: JacksonNytorget ($81 in chips)
+GoliafUa: posts small blind $1
+JacksonNytorget: posts big blind $3
+*** HOLE CARDS ***
+karambakilla joins the table at seat #1
+GoliafUa: raises $3 to $6
+JacksonNytorget: calls $3
+*** FLOP *** [Jh 2c 3c]
+JacksonNytorget: checks
+GoliafUa: bets $3
+JacksonNytorget: calls $3
+*** TURN *** [Jh 2c 3c] [Qh]
+JacksonNytorget: checks
+GoliafUa: checks
+*** RIVER *** [Jh 2c 3c Qh] [8c]
+JacksonNytorget: checks
+GoliafUa: checks
+*** SHOW DOWN ***
+JacksonNytorget: shows [7h 5d] (high card Queen)
+GoliafUa: shows [7s 9s] (high card Queen - Jack+Nine kicker)
+GoliafUa collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Jh 2c 3c Qh 8c]
+Seat 5: GoliafUa (button) (small blind) showed [7s 9s] and won ($17.64) with high card Queen
+Seat 6: JacksonNytorget (big blind) showed [7h 5d] and lost with high card Queen
+
+
+PokerStars Hand #163685059602:  Hold'em Limit ($3/$6 USD) - 2016/12/28 17:46:30 ET
+Table 'Asta II' 6-max Seat #6 is the button
+Seat 5: GoliafUa ($120 in chips)
+Seat 6: JacksonNytorget ($120 in chips)
+JacksonNytorget: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+JacksonNytorget: raises $3 to $6
+GoliafUa: calls $3
+*** FLOP *** [Qs 6c 9h]
+GoliafUa: checks
+JacksonNytorget: bets $3
+GoliafUa: calls $3
+*** TURN *** [Qs 6c 9h] [Kd]
+GoliafUa: checks
+JacksonNytorget: bets $6
+GoliafUa: raises $6 to $12
+JacksonNytorget: raises $6 to $18
+GoliafUa: raises $6 to $24
+Betting is capped
+JacksonNytorget: calls $6
+*** RIVER *** [Qs 6c 9h Kd] [3s]
+GoliafUa: checks
+JacksonNytorget: bets $6
+GoliafUa: calls $6
+*** SHOW DOWN ***
+JacksonNytorget: shows [Jc Kc] (a pair of Kings)
+GoliafUa: shows [Ks 6s] (two pair, Kings and Sixes)
+GoliafUa collected $77.50 from pot
+*** SUMMARY ***
+Total pot $78 | Rake $0.50
+Board [Qs 6c 9h Kd 3s]
+Seat 5: GoliafUa (big blind) showed [Ks 6s] and won ($77.50) with two pair, Kings and Sixes
+Seat 6: JacksonNytorget (button) (small blind) showed [Jc Kc] and lost with a pair of Kings
+
+
+PokerStars Hand #163685320362:  Hold'em Limit ($3/$6 USD) - 2016/12/28 17:51:12 ET
+Table 'Asta II' 6-max Seat #4 is the button
+Seat 3: daisymiyuki ($111 in chips)
+Seat 4: ToDaFelt ($93 in chips)
+ToDaFelt: posts small blind $1
+karambakilla: is sitting out
+daisymiyuki: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa leaves the table
+ToDaFelt: raises $3 to $6
+daisymiyuki: calls $3
+*** FLOP *** [7c 7h Kd]
+daisymiyuki: checks
+vestimokrec leaves the table
+ToDaFelt: bets $3
+daisymiyuki: calls $3
+*** TURN *** [7c 7h Kd] [3d]
+daisymiyuki: checks
+vestimokrec joins the table at seat #5
+ToDaFelt: bets $6
+daisymiyuki: calls $6
+*** RIVER *** [7c 7h Kd 3d] [8s]
+daisymiyuki: checks
+ToDaFelt: bets $6
+daisymiyuki: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [4h 2c] (a pair of Sevens)
+daisymiyuki: shows [9h Ac] (a pair of Sevens - Ace kicker)
+daisymiyuki collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [7c 7h Kd 3d 8s]
+Seat 3: daisymiyuki (big blind) showed [9h Ac] and won ($41.50) with a pair of Sevens
+Seat 4: ToDaFelt (button) (small blind) showed [4h 2c] and lost with a pair of Sevens
+
+

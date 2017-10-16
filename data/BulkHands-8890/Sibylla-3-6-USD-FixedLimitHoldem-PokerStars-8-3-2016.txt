@@ -1,0 +1,110 @@
+PokerStars Hand #156812522731:  Hold'em Limit ($3/$6 USD) - 2016/08/03 11:20:50 ET
+Table 'Sibylla' 6-max Seat #5 is the button
+Seat 2: tangxueke ($42.11 in chips)
+Seat 5: belik555 ($100.11 in chips)
+belik555: posts small blind $1
+tangxueke: posts big blind $3
+*** HOLE CARDS ***
+belik555: raises $3 to $6
+tangxueke: folds
+Uncalled bet ($3) returned to belik555
+belik555 collected $6 from pot
+belik555: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: tangxueke (big blind) folded before Flop
+Seat 5: belik555 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #156812531170:  Hold'em Limit ($3/$6 USD) - 2016/08/03 11:21:04 ET
+Table 'Sibylla' 6-max Seat #2 is the button
+Seat 2: tangxueke ($39.11 in chips)
+Seat 5: belik555 ($103.11 in chips)
+tangxueke: posts small blind $1
+belik555: posts big blind $3
+*** HOLE CARDS ***
+tangxueke: raises $3 to $6
+belik555: calls $3
+*** FLOP *** [Qd Jc 6d]
+belik555: checks
+tangxueke: bets $3
+belik555: calls $3
+*** TURN *** [Qd Jc 6d] [3h]
+belik555: checks
+tangxueke: bets $6
+belik555: folds
+Uncalled bet ($6) returned to tangxueke
+tangxueke collected $17.64 from pot
+tangxueke: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qd Jc 6d 3h]
+Seat 2: tangxueke (button) (small blind) collected ($17.64)
+Seat 5: belik555 (big blind) folded on the Turn
+
+
+PokerStars Hand #156812574877:  Hold'em Limit ($3/$6 USD) - 2016/08/03 11:22:17 ET
+Table 'Sibylla' 6-max Seat #2 is the button
+Seat 2: tangxueke ($26.75 in chips)
+Seat 5: belik555 ($114.61 in chips)
+tangxueke: posts small blind $1
+belik555: posts big blind $3
+*** HOLE CARDS ***
+tangxueke: raises $3 to $6
+belik555: calls $3
+*** FLOP *** [Ad Tc 9c]
+belik555: checks
+tangxueke: bets $3
+belik555: raises $3 to $6
+tangxueke: raises $3 to $9
+belik555: raises $3 to $12
+Betting is capped
+tangxueke: calls $3
+*** TURN *** [Ad Tc 9c] [7s]
+belik555: bets $6
+tangxueke: raises $2.75 to $8.75 and is all-in
+belik555: calls $2.75
+*** RIVER *** [Ad Tc 9c 7s] [2s]
+*** SHOW DOWN ***
+belik555: shows [8c Ah] (a pair of Aces)
+tangxueke: shows [8d Jc] (a straight, Seven to Jack)
+tangxueke collected $53 from pot
+*** SUMMARY ***
+Total pot $53.50 | Rake $0.50
+Board [Ad Tc 9c 7s 2s]
+Seat 2: tangxueke (button) (small blind) showed [8d Jc] and won ($53) with a straight, Seven to Jack
+Seat 5: belik555 (big blind) showed [8c Ah] and lost with a pair of Aces
+
+
+PokerStars Hand #156812554953:  Hold'em Limit ($3/$6 USD) - 2016/08/03 11:21:43 ET
+Table 'Sibylla' 6-max Seat #5 is the button
+Seat 2: tangxueke ($47.75 in chips)
+Seat 5: belik555 ($94.11 in chips)
+belik555: posts small blind $1
+tangxueke: posts big blind $3
+*** HOLE CARDS ***
+belik555: raises $3 to $6
+tangxueke: calls $3
+*** FLOP *** [As Ts 2d]
+tangxueke: checks
+belik555: bets $3
+tangxueke: calls $3
+*** TURN *** [As Ts 2d] [4c]
+tangxueke: checks
+belik555: bets $6
+tangxueke: calls $6
+*** RIVER *** [As Ts 2d 4c] [9s]
+tangxueke: checks
+belik555: bets $6
+tangxueke: calls $6
+*** SHOW DOWN ***
+belik555: shows [Th 8h] (a pair of Tens)
+tangxueke: mucks hand
+belik555 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [As Ts 2d 4c 9s]
+Seat 2: tangxueke (big blind) mucked
+Seat 5: belik555 (button) (small blind) showed [Th 8h] and won ($41.50) with a pair of Tens
+
+

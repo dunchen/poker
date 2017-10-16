@@ -1,0 +1,32 @@
+PokerStars Hand #169870832240:  Hold'em Limit ($3/$6 USD) - 2017/05/02 17:05:09 ET
+Table 'Deipylos II' 6-max Seat #1 is the button
+Seat 1: vestimokrec ($143.68 in chips)
+Seat 6: helenaki ($20.82 in chips)
+vestimokrec: posts small blind $1
+Jack_Wu1985: is sitting out
+TinaTurner72: is sitting out
+helenaki: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+helenaki: raises $3 to $9
+vestimokrec: calls $3
+*** FLOP *** [8c 6s 8h]
+helenaki: bets $3
+vestimokrec: calls $3
+*** TURN *** [8c 6s 8h] [4d]
+helenaki: bets $6
+vestimokrec: raises $6 to $12
+helenaki: calls $2.82 and is all-in
+Uncalled bet ($3.18) returned to vestimokrec
+*** RIVER *** [8c 6s 8h 4d] [2h]
+*** SHOW DOWN ***
+helenaki: shows [As 3c] (a pair of Eights)
+vestimokrec: shows [6c 4h] (two pair, Eights and Sixes)
+vestimokrec collected $41.14 from pot
+*** SUMMARY ***
+Total pot $41.64 | Rake $0.50
+Board [8c 6s 8h 4d 2h]
+Seat 1: vestimokrec (button) (small blind) showed [6c 4h] and won ($41.14) with two pair, Eights and Sixes
+Seat 6: helenaki (big blind) showed [As 3c] and lost with a pair of Eights
+
+

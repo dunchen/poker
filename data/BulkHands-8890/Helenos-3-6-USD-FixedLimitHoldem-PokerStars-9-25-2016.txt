@@ -1,0 +1,86 @@
+PokerStars Hand #159062413885:  Hold'em Limit ($3/$6 USD) - 2016/09/25 5:35:05 ET
+Table 'Helenos' 6-max Seat #3 is the button
+Seat 3: Marnix101 ($40 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+Marnix101: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Marnix101: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Ah 6d Jh]
+Bonkman05 joins the table at seat #5
+VolkovDmitri: checks
+Marnix101: bets $3
+VolkovDmitri: raises $3 to $6
+Marnix101: calls $3
+*** TURN *** [Ah 6d Jh] [Js]
+VolkovDmitri: checks
+Marnix101: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [Ah 6d Jh Js] [Kh]
+VolkovDmitri: checks
+Marnix101: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+Marnix101: shows [7d 7h] (two pair, Jacks and Sevens)
+VolkovDmitri: shows [5d As] (two pair, Aces and Jacks)
+VolkovDmitri collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Ah 6d Jh Js Kh]
+Seat 3: Marnix101 (button) (small blind) showed [7d 7h] and lost with two pair, Jacks and Sevens
+Seat 4: VolkovDmitri (big blind) showed [5d As] and won ($47.50) with two pair, Aces and Jacks
+
+
+PokerStars Hand #159062660956:  Hold'em Limit ($3/$6 USD) - 2016/09/25 5:45:25 ET
+Table 'Helenos' 6-max Seat #3 is the button
+Seat 3: Marnix101 ($13.50 in chips)
+Seat 4: VolkovDmitri ($155.50 in chips)
+Marnix101: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Marnix101: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: Marnix101 (button) (small blind) folded before Flop
+Seat 4: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #159062645143:  Hold'em Limit ($3/$6 USD) - 2016/09/25 5:44:46 ET
+Table 'Helenos' 6-max Seat #4 is the button
+Seat 3: Marnix101 ($49.50 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+RockKillerTY joins the table at seat #5
+VolkovDmitri: posts small blind $1
+Marnix101: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Marnix101: calls $3
+*** FLOP *** [Qs 5h 8d]
+Marnix101: bets $3
+VolkovDmitri: raises $3 to $6
+Marnix101: calls $3
+*** TURN *** [Qs 5h 8d] [2h]
+Marnix101: checks
+VolkovDmitri: bets $6
+Marnix101: raises $6 to $12
+VolkovDmitri: calls $6
+*** RIVER *** [Qs 5h 8d 2h] [8h]
+Marnix101: bets $6
+VolkovDmitri: raises $6 to $12
+PhanOfLuke joins the table at seat #2
+Marnix101: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [4h Qh] (a flush, Queen high)
+Marnix101: mucks hand
+VolkovDmitri collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [Qs 5h 8d 2h 8h]
+Seat 3: Marnix101 (big blind) mucked
+Seat 4: VolkovDmitri (button) (small blind) showed [4h Qh] and won ($71.50) with a flush, Queen high
+
+

@@ -1,0 +1,49 @@
+PokerStars Hand #146553941062:  Hold'em Limit ($3/$6 USD) - 2016/01/06 4:32:19 ET
+Table 'Cimmeria' 2-max Seat #1 is the button
+Seat 1: vlados_333v ($53.50 in chips)
+Seat 2: MTails ($96 in chips)
+vlados_333v: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+vlados_333v: folds
+Uncalled bet ($2) returned to MTails
+vlados_333v leaves the table
+MTails collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: vlados_333v (button) (small blind) folded before Flop
+Seat 2: MTails (big blind) collected ($2)
+
+
+PokerStars Hand #146553928869:  Hold'em Limit ($3/$6 USD) - 2016/01/06 4:31:49 ET
+Table 'Cimmeria' 2-max Seat #2 is the button
+Seat 1: vlados_333v ($30 in chips)
+Seat 2: MTails ($120 in chips)
+MTails: posts small blind $1
+vlados_333v: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+vlados_333v: raises $3 to $9
+MTails: calls $3
+*** FLOP *** [8d Qh 4c]
+vlados_333v: checks
+MTails: bets $3
+vlados_333v: calls $3
+*** TURN *** [8d Qh 4c] [5s]
+vlados_333v: checks
+MTails: bets $6
+vlados_333v: raises $6 to $12
+MTails: calls $6
+*** RIVER *** [8d Qh 4c 5s] [6h]
+vlados_333v: bets $6 and is all-in
+MTails: folds
+Uncalled bet ($6) returned to vlados_333v
+vlados_333v collected $47.50 from pot
+vlados_333v: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8d Qh 4c 5s 6h]
+Seat 1: vlados_333v (big blind) collected ($47.50)
+Seat 2: MTails (button) (small blind) folded on the River
+
+

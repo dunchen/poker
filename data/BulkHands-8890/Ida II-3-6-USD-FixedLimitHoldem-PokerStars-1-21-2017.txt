@@ -1,0 +1,132 @@
+PokerStars Hand #164942241064:  Hold'em Limit ($3/$6 USD) - 2017/01/21 13:15:58 ET
+Table 'Ida II' 6-max Seat #2 is the button
+Seat 2: sim5sim5 ($72 in chips)
+Seat 3: Grieserix ($120 in chips)
+sim5sim5: posts small blind $1
+Grieserix: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+Grieserix: calls $3
+*** FLOP *** [3s 9d 4h]
+Grieserix: bets $3
+sim5sim5: calls $3
+*** TURN *** [3s 9d 4h] [9s]
+Grieserix: bets $6
+sim5sim5: raises $6 to $12
+Grieserix: raises $6 to $18
+sim5sim5: folds
+Uncalled bet ($6) returned to Grieserix
+Grieserix collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [3s 9d 4h 9s]
+Seat 2: sim5sim5 (button) (small blind) folded on the Turn
+Seat 3: Grieserix (big blind) collected ($41.50)
+
+
+PokerStars Hand #164942277414:  Hold'em Limit ($3/$6 USD) - 2017/01/21 13:16:35 ET
+Table 'Ida II' 6-max Seat #2 is the button
+Seat 2: sim5sim5 ($77.76 in chips)
+Seat 3: Grieserix ($134.50 in chips)
+sim5sim5: posts small blind $1
+Grieserix: posts big blind $3
+*** HOLE CARDS ***
+Kajind joins the table at seat #4
+sim5sim5: folds
+Uncalled bet ($2) returned to Grieserix
+Grieserix collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: sim5sim5 (button) (small blind) folded before Flop
+Seat 3: Grieserix (big blind) collected ($2)
+
+
+PokerStars Hand #164942265436:  Hold'em Limit ($3/$6 USD) - 2017/01/21 13:16:23 ET
+Table 'Ida II' 6-max Seat #3 is the button
+Seat 2: sim5sim5 ($72 in chips)
+Seat 3: Grieserix ($140.50 in chips)
+Grieserix: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+Grieserix: raises $3 to $6
+sim5sim5: calls $3
+*** FLOP *** [Kc Th 9s]
+sim5sim5: checks
+Grieserix: checks
+*** TURN *** [Kc Th 9s] [4s]
+sim5sim5: bets $6
+Grieserix: folds
+Uncalled bet ($6) returned to sim5sim5
+sim5sim5 collected $11.76 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kc Th 9s 4s]
+Seat 2: sim5sim5 (big blind) collected ($11.76)
+Seat 3: Grieserix (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #164942733894:  Hold'em Limit ($3/$6 USD) - 2017/01/21 13:24:28 ET
+Table 'Ida II' 6-max Seat #6 is the button
+Seat 5: Glaucon ($177.43 in chips)
+Seat 6: jituaj ($12.33 in chips)
+jituaj: posts small blind $1
+Kajind: is sitting out
+Glaucon: posts big blind $3
+*** HOLE CARDS ***
+Kajind leaves the table
+jituaj: calls $2
+Glaucon: checks
+*** FLOP *** [8h Td 3c]
+Glaucon: bets $3
+jituaj: raises $3 to $6
+Glaucon: raises $3 to $9
+jituaj: raises $0.33 to $9.33 and is all-in
+Betting is capped
+Glaucon: calls $0.33
+*** TURN *** [8h Td 3c] [9s]
+*** RIVER *** [8h Td 3c 9s] [9d]
+Great_Kang joins the table at seat #1
+*** SHOW DOWN ***
+Glaucon: shows [4d 8c] (two pair, Nines and Eights)
+jituaj: shows [Kh Qh] (a pair of Nines)
+Glaucon collected $24.17 from pot
+*** SUMMARY ***
+Total pot $24.66 | Rake $0.49
+Board [8h Td 3c 9s 9d]
+Seat 5: Glaucon (big blind) showed [4d 8c] and won ($24.17) with two pair, Nines and Eights
+Seat 6: jituaj (button) (small blind) showed [Kh Qh] and lost with a pair of Nines
+
+
+PokerStars Hand #164942757902:  Hold'em Limit ($3/$6 USD) - 2017/01/21 13:24:52 ET
+Table 'Ida II' 6-max Seat #5 is the button
+Seat 1: Great_Kang ($120 in chips)
+Seat 5: Glaucon ($189.27 in chips)
+Glaucon: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+Glaucon: raises $3 to $6
+Great_Kang: raises $3 to $9
+Glaucon: raises $3 to $12
+Betting is capped
+Great_Kang: calls $3
+*** FLOP *** [3h 8h 9c]
+Great_Kang: checks
+Glaucon: checks
+*** TURN *** [3h 8h 9c] [2c]
+Great_Kang: bets $6
+Glaucon: calls $6
+*** RIVER *** [3h 8h 9c 2c] [2d]
+Great_Kang: bets $6
+sim5sim5 leaves the table
+Glaucon: folds
+Uncalled bet ($6) returned to Great_Kang
+Great_Kang collected $35.50 from pot
+Great_Kang: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [3h 8h 9c 2c 2d]
+Seat 1: Great_Kang (big blind) collected ($35.50)
+Seat 5: Glaucon (button) (small blind) folded on the River
+
+

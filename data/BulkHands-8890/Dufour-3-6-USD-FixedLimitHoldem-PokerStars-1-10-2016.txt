@@ -1,0 +1,61 @@
+PokerStars Hand #146791528947:  Hold'em Limit ($3/$6 USD) - 2016/01/10 7:55:28 ET
+Table 'Dufour' 6-max Seat #2 is the button
+Seat 2: belik555 ($73 in chips)
+Seat 3: vitamin168 ($30 in chips)
+belik555: posts small blind $1
+vitamin168: posts big blind $3
+*** HOLE CARDS ***
+belik555: raises $3 to $6
+vitamin168: calls $3
+*** FLOP *** [Ac Tc 5h]
+vitamin168: checks
+belik555: bets $3
+vitamin168: calls $3
+*** TURN *** [Ac Tc 5h] [Qd]
+vitamin168: checks
+belik555: bets $6
+vitamin168: calls $6
+*** RIVER *** [Ac Tc 5h Qd] [8d]
+vitamin168: checks
+belik555: bets $6
+vitamin168: folds
+Uncalled bet ($6) returned to belik555
+belik555 collected $29.50 from pot
+belik555: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ac Tc 5h Qd 8d]
+Seat 2: belik555 (button) (small blind) collected ($29.50)
+Seat 3: vitamin168 (big blind) folded on the River
+
+
+PokerStars Hand #146791543049:  Hold'em Limit ($3/$6 USD) - 2016/01/10 7:55:52 ET
+Table 'Dufour' 6-max Seat #3 is the button
+Seat 2: belik555 ($87.50 in chips)
+Seat 3: vitamin168 ($15 in chips)
+vitamin168: posts small blind $1
+belik555: posts big blind $3
+*** HOLE CARDS ***
+vitamin168: raises $3 to $6
+B_loJkl joins the table at seat #4
+belik555: calls $3
+*** FLOP *** [Qd 5c Kh]
+belik555: checks
+vitamin168: bets $3
+belik555: calls $3
+*** TURN *** [Qd 5c Kh] [7h]
+belik555: checks
+vitamin168: bets $6 and is all-in
+belik555: calls $6
+*** RIVER *** [Qd 5c Kh 7h] [Jh]
+*** SHOW DOWN ***
+belik555: shows [Kc 8h] (a pair of Kings)
+vitamin168: shows [4h 4d] (a pair of Fours)
+belik555 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qd 5c Kh 7h Jh]
+Seat 2: belik555 (big blind) showed [Kc 8h] and won ($29.50) with a pair of Kings
+Seat 3: vitamin168 (button) (small blind) showed [4h 4d] and lost with a pair of Fours
+
+

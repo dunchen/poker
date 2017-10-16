@@ -1,0 +1,72 @@
+PokerStars Hand #164053984189:  Hold'em Limit ($3/$6 USD) - 2017/01/04 20:59:59 ET
+Table 'Thora' 6-max Seat #1 is the button
+Seat 1: ionellu ($278.93 in chips)
+Seat 6: TuristOnTilt ($65.27 in chips)
+ionellu: posts small blind $1
+AzureCaper: is sitting out
+TuristOnTilt: posts big blind $3
+*** HOLE CARDS ***
+ionellu: raises $3 to $6
+TuristOnTilt: calls $3
+*** FLOP *** [3h Qc 6d]
+TuristOnTilt: checks
+ionellu: checks
+*** TURN *** [3h Qc 6d] [4c]
+TuristOnTilt: bets $6
+ionellu: calls $6
+*** RIVER *** [3h Qc 6d 4c] [8d]
+TuristOnTilt: checks
+ionellu: checks
+*** SHOW DOWN ***
+TuristOnTilt: shows [Kh 8s] (a pair of Eights)
+ionellu: mucks hand
+TuristOnTilt collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [3h Qc 6d 4c 8d]
+Seat 1: ionellu (button) (small blind) mucked
+Seat 6: TuristOnTilt (big blind) showed [Kh 8s] and won ($23.52) with a pair of Eights
+
+
+PokerStars Hand #164053993856:  Hold'em Limit ($3/$6 USD) - 2017/01/04 21:00:20 ET
+Table 'Thora' 6-max Seat #6 is the button
+Seat 1: ionellu ($266.93 in chips)
+Seat 6: TuristOnTilt ($76.79 in chips)
+TuristOnTilt: posts small blind $1
+ionellu: posts big blind $3
+*** HOLE CARDS ***
+TuristOnTilt: raises $3 to $6
+ionellu: calls $3
+*** FLOP *** [6s 9h Qd]
+ionellu: checks
+TuristOnTilt: bets $3
+ionellu: folds
+Uncalled bet ($3) returned to TuristOnTilt
+TuristOnTilt collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6s 9h Qd]
+Seat 1: ionellu (big blind) folded on the Flop
+Seat 6: TuristOnTilt (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #164054009694:  Hold'em Limit ($3/$6 USD) - 2017/01/04 21:00:54 ET
+Table 'Thora' 6-max Seat #3 is the button
+Seat 1: ionellu ($275.03 in chips)
+Seat 3: RaisemyNut$ ($237.93 in chips)
+RaisemyNut$: posts small blind $1
+TuristOnTilt: is sitting out
+ionellu: posts big blind $3
+*** HOLE CARDS ***
+RaisemyNut$: raises $3 to $6
+TuristOnTilt leaves the table
+ionellu: folds
+Uncalled bet ($3) returned to RaisemyNut$
+RaisemyNut$ collected $6 from pot
+RaisemyNut$: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: ionellu (big blind) folded before Flop
+Seat 3: RaisemyNut$ (button) (small blind) collected ($6)
+
+

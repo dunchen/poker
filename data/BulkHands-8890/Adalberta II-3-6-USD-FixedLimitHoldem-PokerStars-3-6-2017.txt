@@ -1,0 +1,354 @@
+PokerStars Hand #167193073162:  Hold'em Limit ($3/$6 USD) - 2017/03/06 7:50:42 ET
+Table 'Adalberta II' 6-max Seat #6 is the button
+Seat 5: sim5sim5 ($72 in chips)
+Seat 6: BugerDV ($95.26 in chips)
+BugerDV: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+BugerDV: raises $3 to $6
+sim5sim5: calls $3
+*** FLOP *** [4d Js 2s]
+sim5sim5: checks
+BugerDV: checks
+*** TURN *** [4d Js 2s] [6h]
+sim5sim5: bets $6
+BugerDV: calls $6
+*** RIVER *** [4d Js 2s 6h] [8h]
+sim5sim5: bets $6
+BugerDV: calls $6
+*** SHOW DOWN ***
+sim5sim5: shows [Jd Ks] (a pair of Jacks)
+BugerDV: mucks hand
+sim5sim5 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [4d Js 2s 6h 8h]
+Seat 5: sim5sim5 (big blind) showed [Jd Ks] and won ($35.50) with a pair of Jacks
+Seat 6: BugerDV (button) (small blind) mucked
+
+
+PokerStars Hand #167193098974:  Hold'em Limit ($3/$6 USD) - 2017/03/06 7:51:33 ET
+Table 'Adalberta II' 6-max Seat #5 is the button
+Seat 5: sim5sim5 ($89.50 in chips)
+Seat 6: BugerDV ($77.26 in chips)
+sim5sim5: posts small blind $1
+BugerDV: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+BugerDV: calls $3
+*** FLOP *** [8c 7s 8h]
+BugerDV: checks
+sim5sim5: bets $3
+BugerDV: calls $3
+*** TURN *** [8c 7s 8h] [8d]
+BugerDV: checks
+sim5sim5: bets $6
+BugerDV: folds
+Uncalled bet ($6) returned to sim5sim5
+sim5sim5 collected $17.64 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8c 7s 8h 8d]
+Seat 5: sim5sim5 (button) (small blind) collected ($17.64)
+Seat 6: BugerDV (big blind) folded on the Turn
+
+
+PokerStars Hand #167193117168:  Hold'em Limit ($3/$6 USD) - 2017/03/06 7:52:08 ET
+Table 'Adalberta II' 6-max Seat #6 is the button
+Seat 5: sim5sim5 ($98.14 in chips)
+Seat 6: BugerDV ($68.26 in chips)
+BugerDV: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+BugerDV: raises $3 to $6
+sim5sim5: calls $3
+*** FLOP *** [6d As 4h]
+sim5sim5: checks
+BugerDV: bets $3
+sim5sim5: raises $3 to $6
+BugerDV: calls $3
+*** TURN *** [6d As 4h] [6c]
+sim5sim5: bets $6
+BugerDV: calls $6
+*** RIVER *** [6d As 4h 6c] [Ac]
+sim5sim5: bets $6
+BugerDV: calls $6
+*** SHOW DOWN ***
+sim5sim5: shows [8h 3h] (two pair, Aces and Sixes)
+BugerDV: shows [Ks 6h] (a full house, Sixes full of Aces)
+BugerDV collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [6d As 4h 6c Ac]
+Seat 5: sim5sim5 (big blind) showed [8h 3h] and lost with two pair, Aces and Sixes
+Seat 6: BugerDV (button) (small blind) showed [Ks 6h] and won ($47.50) with a full house, Sixes full of Aces
+
+
+PokerStars Hand #167193142768:  Hold'em Limit ($3/$6 USD) - 2017/03/06 7:52:59 ET
+Table 'Adalberta II' 6-max Seat #5 is the button
+Seat 5: sim5sim5 ($74.14 in chips)
+Seat 6: BugerDV ($91.76 in chips)
+sim5sim5: posts small blind $1
+BugerDV: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+BugerDV: calls $3
+*** FLOP *** [5s Qc 2s]
+BugerDV: checks
+sim5sim5: bets $3
+BugerDV: calls $3
+*** TURN *** [5s Qc 2s] [Jh]
+BugerDV: checks
+sim5sim5: bets $6
+BugerDV: calls $6
+*** RIVER *** [5s Qc 2s Jh] [8s]
+BugerDV: bets $6
+sim5sim5: folds
+Uncalled bet ($6) returned to BugerDV
+BugerDV collected $29.50 from pot
+BugerDV: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5s Qc 2s Jh 8s]
+Seat 5: sim5sim5 (button) (small blind) folded on the River
+Seat 6: BugerDV (big blind) collected ($29.50)
+
+
+PokerStars Hand #167193168957:  Hold'em Limit ($3/$6 USD) - 2017/03/06 7:53:50 ET
+Table 'Adalberta II' 6-max Seat #6 is the button
+Seat 5: sim5sim5 ($72 in chips)
+Seat 6: BugerDV ($106.26 in chips)
+BugerDV: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+BugerDV: raises $3 to $6
+sim5sim5: raises $3 to $9
+BugerDV: calls $3
+*** FLOP *** [Th Kd Jc]
+sim5sim5: bets $3
+BugerDV: calls $3
+*** TURN *** [Th Kd Jc] [Ks]
+sim5sim5: checks
+BugerDV: bets $6
+sim5sim5: calls $6
+*** RIVER *** [Th Kd Jc Ks] [2c]
+sim5sim5: checks
+BugerDV: bets $6
+sim5sim5: calls $6
+*** SHOW DOWN ***
+BugerDV: shows [Jh 2s] (two pair, Kings and Jacks)
+sim5sim5: mucks hand
+BugerDV collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Th Kd Jc Ks 2c]
+Seat 5: sim5sim5 (big blind) mucked
+Seat 6: BugerDV (button) (small blind) showed [Jh 2s] and won ($47.50) with two pair, Kings and Jacks
+
+
+PokerStars Hand #167193197864:  Hold'em Limit ($3/$6 USD) - 2017/03/06 7:54:46 ET
+Table 'Adalberta II' 6-max Seat #5 is the button
+Seat 5: sim5sim5 ($72 in chips)
+Seat 6: BugerDV ($129.76 in chips)
+sim5sim5: posts small blind $1
+BugerDV: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+BugerDV: calls $3
+*** FLOP *** [Js 8d 9c]
+BugerDV: checks
+sim5sim5: bets $3
+BugerDV: raises $3 to $6
+sim5sim5: calls $3
+*** TURN *** [Js 8d 9c] [Qs]
+BugerDV: bets $6
+sim5sim5: raises $6 to $12
+BugerDV: calls $6
+*** RIVER *** [Js 8d 9c Qs] [Th]
+BugerDV: checks
+sim5sim5: checks
+*** SHOW DOWN ***
+BugerDV: shows [7s Ts] (a straight, Eight to Queen)
+sim5sim5: shows [Qc 2c] (a straight, Eight to Queen)
+BugerDV collected $23.75 from pot
+sim5sim5 collected $23.75 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Js 8d 9c Qs Th]
+Seat 5: sim5sim5 (button) (small blind) showed [Qc 2c] and won ($23.75) with a straight, Eight to Queen
+Seat 6: BugerDV (big blind) showed [7s Ts] and won ($23.75) with a straight, Eight to Queen
+
+
+PokerStars Hand #167193262769:  Hold'em Limit ($3/$6 USD) - 2017/03/06 7:57:05 ET
+Table 'Adalberta II' 6-max Seat #5 is the button
+Seat 3: gnatakurchpz ($30 in chips)
+Seat 5: sim5sim5 ($95.50 in chips)
+sim5sim5: posts small blind $1
+gnatakurchpz: posts big blind $3
+*** HOLE CARDS ***
+Pelurile joins the table at seat #4
+sim5sim5: raises $3 to $6
+gnatakurchpz: calls $3
+*** FLOP *** [Qs 9c 7d]
+gnatakurchpz: checks
+sim5sim5: bets $3
+gnatakurchpz: raises $3 to $6
+sim5sim5: calls $3
+*** TURN *** [Qs 9c 7d] [7c]
+gnatakurchpz: bets $6
+sim5sim5: folds
+Uncalled bet ($6) returned to gnatakurchpz
+gnatakurchpz collected $23.52 from pot
+gnatakurchpz: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Qs 9c 7d 7c]
+Seat 3: gnatakurchpz (big blind) collected ($23.52)
+Seat 5: sim5sim5 (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #167193223763:  Hold'em Limit ($3/$6 USD) - 2017/03/06 7:55:40 ET
+Table 'Adalberta II' 6-max Seat #6 is the button
+Seat 5: sim5sim5 ($72 in chips)
+Seat 6: BugerDV ($129.51 in chips)
+BugerDV: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+BugerDV: raises $3 to $6
+sim5sim5: calls $3
+*** FLOP *** [5d 6d Qc]
+sim5sim5: checks
+BugerDV: checks
+*** TURN *** [5d 6d Qc] [7s]
+sim5sim5: bets $6
+BugerDV: raises $6 to $12
+sim5sim5: calls $6
+*** RIVER *** [5d 6d Qc 7s] [3c]
+sim5sim5: checks
+BugerDV: bets $6
+sim5sim5: raises $6 to $12
+gnatakurchpz joins the table at seat #3
+BugerDV: folds
+Uncalled bet ($6) returned to sim5sim5
+sim5sim5 collected $47.50 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [5d 6d Qc 7s 3c]
+Seat 5: sim5sim5 (big blind) collected ($47.50)
+Seat 6: BugerDV (button) (small blind) folded on the River
+
+
+PokerStars Hand #167193300313:  Hold'em Limit ($3/$6 USD) - 2017/03/06 7:58:27 ET
+Table 'Adalberta II' 6-max Seat #3 is the button
+Seat 3: gnatakurchpz ($14.52 in chips)
+Seat 4: Pelurile ($97.56 in chips)
+gnatakurchpz: posts small blind $1
+Pelurile: posts big blind $3
+*** HOLE CARDS ***
+gnatakurchpz: folds
+Uncalled bet ($2) returned to Pelurile
+Pelurile collected $2 from pot
+Pelurile: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: gnatakurchpz (button) (small blind) folded before Flop
+Seat 4: Pelurile (big blind) collected ($2)
+
+
+PokerStars Hand #167193295497:  Hold'em Limit ($3/$6 USD) - 2017/03/06 7:58:17 ET
+Table 'Adalberta II' 6-max Seat #4 is the button
+Seat 3: gnatakurchpz ($17.52 in chips)
+Seat 4: Pelurile ($94.56 in chips)
+Pelurile: posts small blind $1
+sim5sim5: is sitting out
+gnatakurchpz: posts big blind $3
+*** HOLE CARDS ***
+Pelurile: raises $3 to $6
+gnatakurchpz: folds
+Uncalled bet ($3) returned to Pelurile
+Pelurile collected $6 from pot
+Pelurile: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: gnatakurchpz (big blind) folded before Flop
+Seat 4: Pelurile (button) (small blind) collected ($6)
+
+
+PokerStars Hand #167193316644:  Hold'em Limit ($3/$6 USD) - 2017/03/06 7:59:03 ET
+Table 'Adalberta II' 6-max Seat #3 is the button
+Seat 3: gnatakurchpz ($7.52 in chips)
+Seat 4: Pelurile ($104.32 in chips)
+gnatakurchpz: posts small blind $1
+Pelurile: posts big blind $3
+*** HOLE CARDS ***
+gnatakurchpz: raises $3 to $6
+Pelurile: raises $3 to $9
+gnatakurchpz: calls $1.52 and is all-in
+Uncalled bet ($1.48) returned to Pelurile
+*** FLOP *** [Ac 6h Jd]
+*** TURN *** [Ac 6h Jd] [2h]
+*** RIVER *** [Ac 6h Jd 2h] [9d]
+*** SHOW DOWN ***
+Pelurile: shows [Qd Ts] (high card Ace)
+gnatakurchpz: shows [5d Jc] (a pair of Jacks)
+gnatakurchpz collected $14.74 from pot
+*** SUMMARY ***
+Total pot $15.04 | Rake $0.30
+Board [Ac 6h Jd 2h 9d]
+Seat 3: gnatakurchpz (button) (small blind) showed [5d Jc] and won ($14.74) with a pair of Jacks
+Seat 4: Pelurile (big blind) showed [Qd Ts] and lost with high card Ace
+
+
+PokerStars Hand #167193304461:  Hold'em Limit ($3/$6 USD) - 2017/03/06 7:58:37 ET
+Table 'Adalberta II' 6-max Seat #4 is the button
+Seat 3: gnatakurchpz ($13.52 in chips)
+Seat 4: Pelurile ($98.56 in chips)
+Pelurile: posts small blind $1
+gnatakurchpz: posts big blind $3
+*** HOLE CARDS ***
+Pelurile: raises $3 to $6
+gnatakurchpz: calls $3
+*** FLOP *** [Jh 4h Ah]
+gnatakurchpz: checks
+Pelurile: bets $3
+gnatakurchpz: folds
+Uncalled bet ($3) returned to Pelurile
+Pelurile collected $11.76 from pot
+Pelurile: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jh 4h Ah]
+Seat 3: gnatakurchpz (big blind) folded on the Flop
+Seat 4: Pelurile (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #167193323380:  Hold'em Limit ($3/$6 USD) - 2017/03/06 7:59:18 ET
+Table 'Adalberta II' 6-max Seat #4 is the button
+Seat 3: gnatakurchpz ($14.74 in chips)
+Seat 4: Pelurile ($96.80 in chips)
+Pelurile: posts small blind $1
+gnatakurchpz: posts big blind $3
+*** HOLE CARDS ***
+Pelurile: raises $3 to $6
+gnatakurchpz: raises $3 to $9
+Pelurile: raises $3 to $12
+Betting is capped
+gnatakurchpz: calls $3
+*** FLOP *** [As Ac 8c]
+gnatakurchpz: bets $2.74 and is all-in
+Pelurile: calls $2.74
+*** TURN *** [As Ac 8c] [3h]
+*** RIVER *** [As Ac 8c 3h] [Tc]
+*** SHOW DOWN ***
+gnatakurchpz: shows [Qc Jd] (a pair of Aces)
+Pelurile: shows [8h Qd] (two pair, Aces and Eights)
+Pelurile collected $28.98 from pot
+*** SUMMARY ***
+Total pot $29.48 | Rake $0.50
+Board [As Ac 8c 3h Tc]
+Seat 3: gnatakurchpz (big blind) showed [Qc Jd] and lost with a pair of Aces
+Seat 4: Pelurile (button) (small blind) showed [8h Qd] and won ($28.98) with two pair, Aces and Eights
+
+

@@ -1,0 +1,37 @@
+PokerStars Hand #148702435076:  Hold'em Limit ($3/$6 USD) - 2016/02/12 19:12:44 ET
+Table 'Jacchia II' 6-max Seat #4 is the button
+Seat 1: BelSv ($78 in chips)
+Seat 4: db49 ($320.11 in chips)
+db49: posts small blind $1
+krytalex: is sitting out
+Chessnok: is sitting out
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+db49: raises $3 to $6
+krytalex leaves the table
+BelSv: calls $3
+*** FLOP *** [3h Qd 6c]
+BelSv: checks
+db49: bets $3
+BelSv: raises $3 to $6
+db49: raises $3 to $9
+BelSv: calls $3
+*** TURN *** [3h Qd 6c] [Tc]
+BelSv: checks
+db49: bets $6
+BelSv: calls $6
+*** RIVER *** [3h Qd 6c Tc] [9h]
+BelSv: checks
+db49: bets $6
+BelSv: calls $6
+*** SHOW DOWN ***
+db49: shows [5h 4c] (high card Queen)
+BelSv: shows [9d 8c] (a pair of Nines)
+BelSv collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [3h Qd 6c Tc 9h]
+Seat 1: BelSv (big blind) showed [9d 8c] and won ($53.50) with a pair of Nines
+Seat 4: db49 (button) (small blind) showed [5h 4c] and lost with high card Queen
+
+

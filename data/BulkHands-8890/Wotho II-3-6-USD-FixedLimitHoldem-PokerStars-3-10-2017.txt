@@ -1,0 +1,30 @@
+PokerStars Hand #167379479213:  Hold'em Limit ($3/$6 USD) - 2017/03/10 8:16:56 ET
+Table 'Wotho II' 10-max Seat #6 is the button
+Seat 4: essam2222 ($119 in chips)
+Seat 6: Agrotait ($73 in chips)
+Agrotait: posts small blind $1
+essam2222: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+essam2222: calls $3
+*** FLOP *** [Kh 3c 6d]
+essam2222: checks
+Agrotait: bets $3
+essam2222: calls $3
+*** TURN *** [Kh 3c 6d] [8d]
+essam2222: checks
+Agrotait: checks
+*** RIVER *** [Kh 3c 6d 8d] [5s]
+essam2222: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+essam2222: shows [Ks 9c] (a pair of Kings)
+Agrotait: mucks hand
+essam2222 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kh 3c 6d 8d 5s]
+Seat 4: essam2222 (big blind) showed [Ks 9c] and won ($29.50) with a pair of Kings
+Seat 6: Agrotait (button) (small blind) mucked
+
+

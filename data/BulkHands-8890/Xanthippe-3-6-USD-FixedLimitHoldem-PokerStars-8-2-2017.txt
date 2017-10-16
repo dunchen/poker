@@ -1,0 +1,76 @@
+PokerStars Hand #173846524176:  Hold'em Limit ($3/$6 USD) - 2017/08/02 17:50:36 ET
+Table 'Xanthippe' 10-max Seat #4 is the button
+Seat 4: coloholo ($120 in chips)
+Seat 5: fedrain85 ($57.97 in chips)
+coloholo: posts small blind $1
+fedrain85: posts big blind $3
+*** HOLE CARDS ***
+coloholo: raises $3 to $6
+fedrain85: raises $3 to $9
+coloholo: raises $3 to $12
+Betting is capped
+fedrain85: calls $3
+*** FLOP *** [As Js Ad]
+fedrain85: bets $3
+coloholo: raises $3 to $6
+fedrain85: raises $3 to $9
+coloholo: raises $3 to $12
+Betting is capped
+fedrain85: calls $3
+*** TURN *** [As Js Ad] [7s]
+fedrain85: bets $6
+coloholo: raises $6 to $12
+fedrain85: raises $6 to $18
+coloholo: calls $6
+*** RIVER *** [As Js Ad 7s] [5c]
+fedrain85: bets $6
+coloholo: folds
+Uncalled bet ($6) returned to fedrain85
+fedrain85 collected $83.50 from pot
+fedrain85: doesn't show hand
+*** SUMMARY ***
+Total pot $84 | Rake $0.50
+Board [As Js Ad 7s 5c]
+Seat 4: coloholo (button) (small blind) folded on the River
+Seat 5: fedrain85 (big blind) collected ($83.50)
+
+
+PokerStars Hand #173846540665:  Hold'em Limit ($3/$6 USD) - 2017/08/02 17:50:59 ET
+Table 'Xanthippe' 10-max Seat #5 is the button
+Seat 4: coloholo ($78 in chips)
+Seat 5: fedrain85 ($99.47 in chips)
+fedrain85: posts small blind $1
+coloholo: posts big blind $3
+*** HOLE CARDS ***
+fedrain85: raises $3 to $6
+coloholo: raises $3 to $9
+fedrain85: raises $3 to $12
+Betting is capped
+coloholo: calls $3
+*** FLOP *** [2s 7d 8d]
+coloholo: bets $3
+fedrain85: raises $3 to $6
+coloholo: raises $3 to $9
+fedrain85: raises $3 to $12
+Betting is capped
+coloholo: calls $3
+*** TURN *** [2s 7d 8d] [Qc]
+coloholo: bets $6
+fedrain85: raises $6 to $12
+coloholo: calls $6
+*** RIVER *** [2s 7d 8d Qc] [7c]
+coloholo: checks
+fedrain85: bets $6
+coloholo: raises $6 to $12
+fedrain85: folds
+Uncalled bet ($6) returned to coloholo
+fedrain85 leaves the table
+coloholo collected $83.50 from pot
+coloholo: doesn't show hand
+*** SUMMARY ***
+Total pot $84 | Rake $0.50
+Board [2s 7d 8d Qc 7c]
+Seat 4: coloholo (big blind) collected ($83.50)
+Seat 5: fedrain85 (button) (small blind) folded on the River
+
+

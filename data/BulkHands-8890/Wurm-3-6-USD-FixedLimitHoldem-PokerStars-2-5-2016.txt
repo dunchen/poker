@@ -1,0 +1,32 @@
+PokerStars Hand #148254248913:  Hold'em Limit ($3/$6 USD) - 2016/02/04 19:58:58 ET
+Table 'Wurm' 6-max Seat #5 is the button
+Seat 3: BelSv ($185.88 in chips)
+Seat 5: ToDaFelt ($302.96 in chips)
+ToDaFelt: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+BelSv: calls $3
+*** FLOP *** [Td 2c 3c]
+1GUMBIE1 leaves the table
+BelSv: checks
+ToDaFelt: bets $3
+BelSv: raises $3 to $6
+ToDaFelt: calls $3
+*** TURN *** [Td 2c 3c] [Kd]
+BelSv: bets $6
+ToDaFelt: calls $6
+*** RIVER *** [Td 2c 3c Kd] [6h]
+BelSv: bets $6
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+BelSv: shows [Tc 4c] (a pair of Tens)
+ToDaFelt: mucks hand
+BelSv collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Td 2c 3c Kd 6h]
+Seat 3: BelSv (big blind) showed [Tc 4c] and won ($47.50) with a pair of Tens
+Seat 5: ToDaFelt (button) (small blind) mucked
+
+

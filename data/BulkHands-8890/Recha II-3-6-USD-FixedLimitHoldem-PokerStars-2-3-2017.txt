@@ -1,0 +1,85 @@
+PokerStars Hand #165613906418:  Hold'em Limit ($3/$6 USD) - 2017/02/03 11:00:20 ET
+Table 'Recha II' 6-max Seat #4 is the button
+Seat 3: Dubinin84 ($53 in chips)
+Seat 4: Great_Kang ($121 in chips)
+Great_Kang: posts small blind $1
+Dubinin84: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec joins the table at seat #5
+Great_Kang: raises $3 to $6
+Dubinin84: raises $3 to $9
+Great_Kang: calls $3
+*** FLOP *** [Qh 3c Qd]
+Dubinin84: bets $3
+Great_Kang: folds
+Uncalled bet ($3) returned to Dubinin84
+Dubinin84 collected $17.64 from pot
+Dubinin84: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qh 3c Qd]
+Seat 3: Dubinin84 (big blind) collected ($17.64)
+Seat 4: Great_Kang (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #165613918704:  Hold'em Limit ($3/$6 USD) - 2017/02/03 11:00:38 ET
+Table 'Recha II' 6-max Seat #3 is the button
+Seat 3: Dubinin84 ($61.64 in chips)
+Seat 4: Great_Kang ($120 in chips)
+Dubinin84: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+Dubinin84: raises $3 to $6
+Great_Kang: calls $3
+*** FLOP *** [3d 3h Qs]
+Great_Kang: checks
+Dubinin84: checks
+*** TURN *** [3d 3h Qs] [6d]
+Great_Kang: bets $6
+Dubinin84: calls $6
+*** RIVER *** [3d 3h Qs 6d] [9h]
+Great_Kang: bets $6
+Dubinin84: folds
+Uncalled bet ($6) returned to Great_Kang
+Great_Kang collected $23.52 from pot
+Great_Kang: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [3d 3h Qs 6d 9h]
+Seat 3: Dubinin84 (button) (small blind) folded on the River
+Seat 4: Great_Kang (big blind) collected ($23.52)
+
+
+PokerStars Hand #165614075499:  Hold'em Limit ($3/$6 USD) - 2017/02/03 11:04:06 ET
+Table 'Recha II' 6-max Seat #5 is the button
+Seat 4: Great_Kang ($213.99 in chips)
+Seat 5: vestimokrec ($82 in chips)
+vestimokrec: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+Dubinin84 leaves the table
+Great_Kang: calls $3
+*** FLOP *** [9s 9d 5c]
+Great_Kang: checks
+vestimokrec: bets $3
+Great_Kang: raises $3 to $6
+vestimokrec: calls $3
+*** TURN *** [9s 9d 5c] [Ac]
+Great_Kang: bets $6
+vestimokrec: calls $6
+*** RIVER *** [9s 9d 5c Ac] [Ts]
+Great_Kang: checks
+vestimokrec: bets $6
+Great_Kang: calls $6
+*** SHOW DOWN ***
+vestimokrec: shows [6c 4c] (a pair of Nines)
+Great_Kang: shows [Qd 5h] (two pair, Nines and Fives)
+Great_Kang collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9s 9d 5c Ac Ts]
+Seat 4: Great_Kang (big blind) showed [Qd 5h] and won ($47.50) with two pair, Nines and Fives
+Seat 5: vestimokrec (button) (small blind) showed [6c 4c] and lost with a pair of Nines
+
+

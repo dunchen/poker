@@ -1,0 +1,84 @@
+PokerStars Hand #175190739269:  Hold'em Limit ($3/$6 USD) - 2017/09/04 8:13:33 ET
+Table 'Asmodeus' 10-max Seat #6 is the button
+Seat 6: chefgeezt ($111.52 in chips)
+Seat 7: VolkovDmitri ($120 in chips)
+chefgeezt: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+chefgeezt: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [4c 7c Kh]
+VolkovDmitri: checks
+chefgeezt: bets $3
+VolkovDmitri: raises $3 to $6
+chefgeezt: calls $3
+*** TURN *** [4c 7c Kh] [8h]
+VolkovDmitri: bets $6
+chefgeezt: calls $6
+*** RIVER *** [4c 7c Kh 8h] [Jh]
+VolkovDmitri: checks
+chefgeezt: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+chefgeezt: shows [Ah 6c] (high card Ace)
+VolkovDmitri: shows [7d 5c] (a pair of Sevens)
+VolkovDmitri collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4c 7c Kh 8h Jh]
+Seat 6: chefgeezt (button) (small blind) showed [Ah 6c] and lost with high card Ace
+Seat 7: VolkovDmitri (big blind) showed [7d 5c] and won ($47.50) with a pair of Sevens
+
+
+PokerStars Hand #175190784173:  Hold'em Limit ($3/$6 USD) - 2017/09/04 8:15:09 ET
+Table 'Asmodeus' 10-max Seat #6 is the button
+Seat 6: chefgeezt ($60.52 in chips)
+Seat 7: VolkovDmitri ($170 in chips)
+chefgeezt: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+chefgeezt: raises $3 to $6
+VolkovDmitri: folds
+Uncalled bet ($3) returned to chefgeezt
+chefgeezt collected $6 from pot
+chefgeezt: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 6: chefgeezt (button) (small blind) collected ($6)
+Seat 7: VolkovDmitri (big blind) folded before Flop
+
+
+PokerStars Hand #175190758283:  Hold'em Limit ($3/$6 USD) - 2017/09/04 8:14:14 ET
+Table 'Asmodeus' 10-max Seat #7 is the button
+Seat 6: chefgeezt ($87.52 in chips)
+Seat 7: VolkovDmitri ($143.50 in chips)
+VolkovDmitri: posts small blind $1
+chefgeezt: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+chefgeezt: calls $3
+*** FLOP *** [8d 3s 6c]
+chefgeezt: checks
+VolkovDmitri: bets $3
+chefgeezt: calls $3
+*** TURN *** [8d 3s 6c] [Kh]
+chefgeezt: checks
+VolkovDmitri: bets $6
+Anchig joins the table at seat #8
+chefgeezt: raises $6 to $12
+VolkovDmitri: calls $6
+*** RIVER *** [8d 3s 6c Kh] [Qs]
+chefgeezt: bets $6
+frednoel1986 joins the table at seat #5
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+chefgeezt: shows [7c Js] (high card King)
+VolkovDmitri: shows [As 6s] (a pair of Sixes)
+VolkovDmitri collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [8d 3s 6c Kh Qs]
+Seat 6: chefgeezt (big blind) showed [7c Js] and lost with high card King
+Seat 7: VolkovDmitri (button) (small blind) showed [As 6s] and won ($53.50) with a pair of Sixes
+
+

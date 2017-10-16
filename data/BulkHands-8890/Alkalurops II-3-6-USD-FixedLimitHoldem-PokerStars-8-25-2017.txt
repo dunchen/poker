@@ -1,0 +1,50 @@
+PokerStars Hand #174782031956:  Hold'em Limit ($3/$6 USD) - 2017/08/25 13:59:56 ET
+Table 'Alkalurops II' 6-max Seat #4 is the button
+Seat 4: igmade ($80 in chips)
+Seat 5: vestimokrec ($120 in chips)
+igmade: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+Helseløs joins the table at seat #3
+igmade: folds
+Uncalled bet ($2) returned to vestimokrec
+vestimokrec collected $2 from pot
+vestimokrec: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: igmade (button) (small blind) folded before Flop
+Seat 5: vestimokrec (big blind) collected ($2)
+
+
+PokerStars Hand #174783430054:  Hold'em Limit ($3/$6 USD) - 2017/08/25 14:34:51 ET
+Table 'Alkalurops II' 6-max Seat #5 is the button
+Seat 2: aleks_4ym ($153.87 in chips)
+Seat 5: ToDaFelt ($77 in chips)
+ToDaFelt: posts small blind $1
+DECAlpha: is sitting out
+aleks_4ym: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+aleks_4ym: calls $3
+*** FLOP *** [Qd 5d Ks]
+aleks_4ym: bets $3
+ToDaFelt: calls $3
+*** TURN *** [Qd 5d Ks] [9h]
+aleks_4ym: checks
+ToDaFelt: bets $6
+aleks_4ym: calls $6
+*** RIVER *** [Qd 5d Ks 9h] [Ah]
+aleks_4ym: checks
+ToDaFelt: bets $6
+aleks_4ym: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [Ac Kd] (two pair, Aces and Kings)
+aleks_4ym: mucks hand
+ToDaFelt collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Qd 5d Ks 9h Ah]
+Seat 2: aleks_4ym (big blind) mucked
+Seat 5: ToDaFelt (button) (small blind) showed [Ac Kd] and won ($41.50) with two pair, Aces and Kings
+
+

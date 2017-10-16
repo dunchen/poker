@@ -1,0 +1,57 @@
+PokerStars Hand #157714252048:  Hold'em Limit ($3/$6 USD) - 2016/08/25 7:18:24 ET
+Table 'Marceline' 10-max Seat #5 is the button
+Seat 5: simper11 ($120 in chips)
+Seat 9: Pandakey ($120 in chips)
+simper11: posts small blind $1
+Pandakey: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+Pandakey: calls $3
+*** FLOP *** [7h Qs Qc]
+Pandakey: checks
+simper11: bets $3
+Pandakey: raises $3 to $6
+simper11: calls $3
+*** TURN *** [7h Qs Qc] [9c]
+Pandakey: bets $6
+simper11: raises $6 to $12
+Pandakey: calls $6
+*** RIVER *** [7h Qs Qc 9c] [Kh]
+Pandakey: checks
+simper11: bets $6
+Pandakey: calls $6
+*** SHOW DOWN ***
+simper11: shows [Jh 9d] (two pair, Queens and Nines)
+Pandakey: shows [Td 9h] (two pair, Queens and Nines)
+Pandakey collected $29.75 from pot
+simper11 collected $29.75 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [7h Qs Qc 9c Kh]
+Seat 5: simper11 (button) (small blind) showed [Jh 9d] and won ($29.75) with two pair, Queens and Nines
+Seat 9: Pandakey (big blind) showed [Td 9h] and won ($29.75) with two pair, Queens and Nines
+
+
+PokerStars Hand #157714265797:  Hold'em Limit ($3/$6 USD) - 2016/08/25 7:18:57 ET
+Table 'Marceline' 10-max Seat #9 is the button
+Seat 5: simper11 ($120 in chips)
+Seat 9: Pandakey ($119.75 in chips)
+Pandakey: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+Pandakey: raises $3 to $6
+simper11: raises $3 to $9
+Pandakey: calls $3
+*** FLOP *** [Jd 4h Ah]
+simper11: bets $3
+Pandakey: folds
+Uncalled bet ($3) returned to simper11
+simper11 collected $17.64 from pot
+simper11: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Jd 4h Ah]
+Seat 5: simper11 (big blind) collected ($17.64)
+Seat 9: Pandakey (button) (small blind) folded on the Flop
+
+

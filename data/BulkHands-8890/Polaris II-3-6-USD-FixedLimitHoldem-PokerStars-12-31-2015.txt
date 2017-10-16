@@ -1,0 +1,55 @@
+PokerStars Hand #146240993042:  Hold'em Limit ($3/$6 USD) - 2015/12/31 14:26:38 ET
+Table 'Polaris II' 2-max Seat #2 is the button
+Seat 1: bumlak ($108.83 in chips)
+Seat 2: mekaponz ($10.01 in chips)
+mekaponz: posts small blind $1
+bumlak: posts big blind $3
+*** HOLE CARDS ***
+mekaponz: raises $3 to $6
+bumlak: raises $3 to $9
+mekaponz: calls $3
+*** FLOP *** [6h 2c 4h]
+bumlak: checks
+mekaponz: checks
+*** TURN *** [6h 2c 4h] [9c]
+bumlak: checks
+mekaponz: bets $1.01 and is all-in
+bumlak: calls $1.01
+*** RIVER *** [6h 2c 4h 9c] [7d]
+*** SHOW DOWN ***
+bumlak: shows [7h Kc] (a pair of Sevens)
+mekaponz: shows [3s 4d] (a pair of Fours)
+bumlak collected $19.62 from pot
+*** SUMMARY ***
+Total pot $20.02 | Rake $0.40
+Board [6h 2c 4h 9c 7d]
+Seat 1: bumlak (big blind) showed [7h Kc] and won ($19.62) with a pair of Sevens
+Seat 2: mekaponz (button) (small blind) showed [3s 4d] and lost with a pair of Fours
+
+
+PokerStars Hand #146240988169:  Hold'em Limit ($3/$6 USD) - 2015/12/31 14:26:30 ET
+Table 'Polaris II' 2-max Seat #1 is the button
+Seat 1: bumlak ($94.33 in chips)
+Seat 2: mekaponz ($25.01 in chips)
+bumlak: posts small blind $1
+mekaponz: posts big blind $3
+*** HOLE CARDS ***
+bumlak: raises $3 to $6
+mekaponz: raises $3 to $9
+bumlak: raises $3 to $12
+Betting is capped
+mekaponz: calls $3
+*** FLOP *** [Td 6s Jd]
+mekaponz: bets $3
+bumlak: raises $3 to $6
+mekaponz: folds
+Uncalled bet ($3) returned to bumlak
+bumlak collected $29.50 from pot
+bumlak: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Td 6s Jd]
+Seat 1: bumlak (button) (small blind) collected ($29.50)
+Seat 2: mekaponz (big blind) folded on the Flop
+
+

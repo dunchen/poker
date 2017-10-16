@@ -1,0 +1,35 @@
+PokerStars Hand #162191514289:  Hold'em Limit ($3/$6 USD) - 2016/11/30 11:48:49 ET
+Table 'Gudula' 10-max Seat #7 is the button
+Seat 7: Franky4Four ($37 in chips)
+Seat 8: kolaz03 ($72 in chips)
+Franky4Four: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+Franky4Four: raises $3 to $6
+kolaz03: raises $3 to $9
+Franky4Four: calls $3
+*** FLOP *** [7h Jc 7d]
+kolaz03: bets $3
+Franky4Four: raises $3 to $6
+kolaz03: raises $3 to $9
+Franky4Four: raises $3 to $12
+Betting is capped
+kolaz03: calls $3
+*** TURN *** [7h Jc 7d] [9d]
+kolaz03: checks
+Franky4Four: bets $6
+kolaz03: raises $6 to $12
+Franky4Four: raises $4 to $16 and is all-in
+kolaz03: calls $4
+*** RIVER *** [7h Jc 7d 9d] [6s]
+*** SHOW DOWN ***
+kolaz03: shows [Ks Kh] (two pair, Kings and Sevens)
+Franky4Four: shows [Qc Jh] (two pair, Jacks and Sevens)
+kolaz03 collected $73.50 from pot
+*** SUMMARY ***
+Total pot $74 | Rake $0.50
+Board [7h Jc 7d 9d 6s]
+Seat 7: Franky4Four (button) (small blind) showed [Qc Jh] and lost with two pair, Jacks and Sevens
+Seat 8: kolaz03 (big blind) showed [Ks Kh] and won ($73.50) with two pair, Kings and Sevens
+
+

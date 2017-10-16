@@ -1,0 +1,85 @@
+PokerStars Hand #175826807080:  Hold'em Limit ($3/$6 USD) - 2017/09/18 18:34:45 ET
+Table 'Houssay' 6-max Seat #1 is the button
+Seat 1: LifeisagameX ($84 in chips)
+Seat 2: Amorinolasko ($30 in chips)
+LifeisagameX: posts small blind $1
+Amorinolasko: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+Amorinolasko: calls $3
+*** FLOP *** [5s 8d 3s]
+Amorinolasko: checks
+LifeisagameX: bets $3
+Amorinolasko: calls $3
+*** TURN *** [5s 8d 3s] [9d]
+Amorinolasko: checks
+LifeisagameX: checks
+*** RIVER *** [5s 8d 3s 9d] [8h]
+Amorinolasko: bets $6
+LifeisagameX: calls $6
+*** SHOW DOWN ***
+Amorinolasko: shows [7c Qc] (a pair of Eights)
+LifeisagameX: shows [Kd As] (a pair of Eights - Ace kicker)
+LifeisagameX collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5s 8d 3s 9d 8h]
+Seat 1: LifeisagameX (button) (small blind) showed [Kd As] and won ($29.50) with a pair of Eights
+Seat 2: Amorinolasko (big blind) showed [7c Qc] and lost with a pair of Eights
+
+
+PokerStars Hand #175826848977:  Hold'em Limit ($3/$6 USD) - 2017/09/18 18:35:51 ET
+Table 'Houssay' 6-max Seat #2 is the button
+Seat 1: LifeisagameX ($98.50 in chips)
+Seat 2: Amorinolasko ($15 in chips)
+Amorinolasko: posts small blind $1
+LifeisagameX: posts big blind $3
+*** HOLE CARDS ***
+Amorinolasko: calls $2
+LifeisagameX: checks
+*** FLOP *** [8s Jh 5d]
+LifeisagameX: checks
+Amorinolasko: checks
+*** TURN *** [8s Jh 5d] [Ks]
+LifeisagameX: checks
+Amorinolasko: checks
+*** RIVER *** [8s Jh 5d Ks] [5h]
+LifeisagameX: checks
+Amorinolasko: checks
+*** SHOW DOWN ***
+LifeisagameX: shows [4c Tc] (a pair of Fives)
+Amorinolasko: mucks hand
+LifeisagameX collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [8s Jh 5d Ks 5h]
+Seat 1: LifeisagameX (big blind) showed [4c Tc] and won ($5.88) with a pair of Fives
+Seat 2: Amorinolasko (button) (small blind) mucked
+
+
+PokerStars Hand #175826878446:  Hold'em Limit ($3/$6 USD) - 2017/09/18 18:36:37 ET
+Table 'Houssay' 6-max Seat #1 is the button
+Seat 1: LifeisagameX ($101.38 in chips)
+Seat 2: Amorinolasko ($12 in chips)
+LifeisagameX: posts small blind $1
+Amorinolasko: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+Amorinolasko: raises $3 to $9
+LifeisagameX: calls $3
+*** FLOP *** [Ts 5d 6d]
+Amorinolasko: bets $3 and is all-in
+LifeisagameX: calls $3
+*** TURN *** [Ts 5d 6d] [5h]
+*** RIVER *** [Ts 5d 6d 5h] [Qd]
+*** SHOW DOWN ***
+Amorinolasko: shows [Kh Ad] (a pair of Fives)
+LifeisagameX: shows [As Ah] (two pair, Aces and Fives)
+LifeisagameX collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Ts 5d 6d 5h Qd]
+Seat 1: LifeisagameX (button) (small blind) showed [As Ah] and won ($23.52) with two pair, Aces and Fives
+Seat 2: Amorinolasko (big blind) showed [Kh Ad] and lost with a pair of Fives
+
+

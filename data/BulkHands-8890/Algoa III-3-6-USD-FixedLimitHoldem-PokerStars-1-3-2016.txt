@@ -1,0 +1,107 @@
+PokerStars Hand #146392231371:  Hold'em Limit ($3/$6 USD) - 2016/01/03 10:42:30 ET
+Table 'Algoa III' 2-max Seat #2 is the button
+Seat 1: xorkamp ($134.10 in chips)
+Seat 2: nevakup ($6.89 in chips)
+nevakup: posts small blind $1
+xorkamp: posts big blind $3
+*** HOLE CARDS ***
+nevakup: calls $2
+xorkamp: checks
+*** FLOP *** [Ah 8c Js]
+xorkamp: checks
+nevakup: checks
+*** TURN *** [Ah 8c Js] [Kh]
+xorkamp: bets $6
+nevakup: folds
+Uncalled bet ($6) returned to xorkamp
+xorkamp collected $5.88 from pot
+xorkamp: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Ah 8c Js Kh]
+Seat 1: xorkamp (big blind) collected ($5.88)
+Seat 2: nevakup (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #146392212624:  Hold'em Limit ($3/$6 USD) - 2016/01/03 10:42:11 ET
+Table 'Algoa III' 2-max Seat #1 is the button
+Seat 1: xorkamp ($137.10 in chips)
+Seat 2: nevakup ($4.01 in chips)
+xorkamp: posts small blind $1
+nevakup: posts big blind $3
+*** HOLE CARDS ***
+xorkamp: calls $2
+nevakup: checks
+*** FLOP *** [7c 2h 7s]
+nevakup: checks
+xorkamp: checks
+*** TURN *** [7c 2h 7s] [Js]
+nevakup: checks
+xorkamp: checks
+*** RIVER *** [7c 2h 7s Js] [Jh]
+nevakup: checks
+xorkamp: checks
+*** SHOW DOWN ***
+nevakup: shows [8s 7h] (a full house, Sevens full of Jacks)
+xorkamp: mucks hand
+nevakup collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [7c 2h 7s Js Jh]
+Seat 1: xorkamp (button) (small blind) mucked
+Seat 2: nevakup (big blind) showed [8s 7h] and won ($5.88) with a full house, Sevens full of Jacks
+
+
+PokerStars Hand #146392192374:  Hold'em Limit ($3/$6 USD) - 2016/01/03 10:41:51 ET
+Table 'Algoa III' 2-max Seat #2 is the button
+Seat 1: xorkamp ($134.22 in chips)
+Seat 2: nevakup ($7.01 in chips)
+nevakup: posts small blind $1
+xorkamp: posts big blind $3
+*** HOLE CARDS ***
+nevakup: calls $2
+xorkamp: checks
+*** FLOP *** [6s Ts 6d]
+xorkamp: checks
+nevakup: checks
+*** TURN *** [6s Ts 6d] [3h]
+xorkamp: checks
+nevakup: checks
+*** RIVER *** [6s Ts 6d 3h] [Qd]
+xorkamp: bets $6
+nevakup: folds
+Uncalled bet ($6) returned to xorkamp
+xorkamp collected $5.88 from pot
+xorkamp: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [6s Ts 6d 3h Qd]
+Seat 1: xorkamp (big blind) collected ($5.88)
+Seat 2: nevakup (button) (small blind) folded on the River
+
+
+PokerStars Hand #146392252647:  Hold'em Limit ($3/$6 USD) - 2016/01/03 10:42:52 ET
+Table 'Algoa III' 2-max Seat #1 is the button
+Seat 1: xorkamp ($136.98 in chips)
+Seat 2: nevakup ($3.89 in chips)
+xorkamp: posts small blind $1
+nevakup: posts big blind $3
+*** HOLE CARDS ***
+xorkamp: calls $2
+nevakup: checks
+*** FLOP *** [8d 5d 3d]
+nevakup: bets $0.89 and is all-in
+xorkamp: calls $0.89
+*** TURN *** [8d 5d 3d] [6d]
+*** RIVER *** [8d 5d 3d 6d] [7c]
+*** SHOW DOWN ***
+nevakup: shows [Ac Jc] (high card Ace)
+xorkamp: shows [Td 8s] (a flush, Ten high)
+xorkamp collected $7.62 from pot
+*** SUMMARY ***
+Total pot $7.78 | Rake $0.16
+Board [8d 5d 3d 6d 7c]
+Seat 1: xorkamp (button) (small blind) showed [Td 8s] and won ($7.62) with a flush, Ten high
+Seat 2: nevakup (big blind) showed [Ac Jc] and lost with high card Ace
+
+

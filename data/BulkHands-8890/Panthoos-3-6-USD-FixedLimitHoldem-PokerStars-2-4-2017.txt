@@ -1,0 +1,31 @@
+PokerStars Hand #165670491718:  Hold'em Limit ($3/$6 USD) - 2017/02/04 11:33:05 ET
+Table 'Panthoos' 6-max Seat #3 is the button
+Seat 1: aade1ante ($98.61 in chips)
+Seat 3: Speed2008 ($179.76 in chips)
+Speed2008: posts small blind $1
+aade1ante: posts big blind $3
+*** HOLE CARDS ***
+Speed2008: raises $3 to $6
+aade1ante: raises $3 to $9
+Speed2008: calls $3
+*** FLOP *** [2h Tc Ts]
+aade1ante: bets $3
+Speed2008: calls $3
+*** TURN *** [2h Tc Ts] [2s]
+aade1ante: bets $6
+Speed2008: calls $6
+*** RIVER *** [2h Tc Ts 2s] [Ad]
+aade1ante: checks
+Speed2008: bets $6
+aade1ante: calls $6
+*** SHOW DOWN ***
+Speed2008: shows [Kh 9s] (two pair, Tens and Deuces)
+aade1ante: shows [7h 7d] (two pair, Tens and Sevens)
+aade1ante collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2h Tc Ts 2s Ad]
+Seat 1: aade1ante (big blind) showed [7h 7d] and won ($47.50) with two pair, Tens and Sevens
+Seat 3: Speed2008 (button) (small blind) showed [Kh 9s] and lost with two pair, Tens and Deuces
+
+

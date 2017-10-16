@@ -1,0 +1,87 @@
+PokerStars Hand #150441294320:  Hold'em Limit ($3/$6 USD) - 2016/03/16 11:09:10 ET
+Table 'Aoluta' 6-max Seat #6 is the button
+Seat 1: kolaz03 ($73.88 in chips)
+Seat 6: Alex_G68 ($13.15 in chips)
+Alex_G68: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+Alex_G68: raises $3 to $6
+kolaz03: folds
+Uncalled bet ($3) returned to Alex_G68
+Alex_G68 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: kolaz03 (big blind) folded before Flop
+Seat 6: Alex_G68 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #150441291397:  Hold'em Limit ($3/$6 USD) - 2016/03/16 11:09:06 ET
+Table 'Aoluta' 6-max Seat #1 is the button
+Seat 1: kolaz03 ($74.88 in chips)
+Seat 6: Alex_G68 ($12.15 in chips)
+kolaz03: posts small blind $1
+Alex_G68: posts big blind $3
+*** HOLE CARDS ***
+kolaz03: folds
+Uncalled bet ($2) returned to Alex_G68
+Alex_G68 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: kolaz03 (button) (small blind) folded before Flop
+Seat 6: Alex_G68 (big blind) collected ($2)
+
+
+PokerStars Hand #150441281550:  Hold'em Limit ($3/$6 USD) - 2016/03/16 11:08:52 ET
+Table 'Aoluta' 6-max Seat #6 is the button
+Seat 1: kolaz03 ($72 in chips)
+Seat 6: Alex_G68 ($15.15 in chips)
+Alex_G68: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+Alex_G68: calls $2
+kolaz03: checks
+*** FLOP *** [5d Ac 6s]
+kolaz03: bets $3
+Alex_G68: folds
+Uncalled bet ($3) returned to kolaz03
+kolaz03 collected $5.88 from pot
+kolaz03: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [5d Ac 6s]
+Seat 1: kolaz03 (big blind) collected ($5.88)
+Seat 6: Alex_G68 (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #150441299454:  Hold'em Limit ($3/$6 USD) - 2016/03/16 11:09:18 ET
+Table 'Aoluta' 6-max Seat #1 is the button
+Seat 1: kolaz03 ($72 in chips)
+Seat 6: Alex_G68 ($16.15 in chips)
+kolaz03: posts small blind $1
+Alex_G68: posts big blind $3
+*** HOLE CARDS ***
+kolaz03: raises $3 to $6
+Alex_G68: calls $3
+*** FLOP *** [Qd 4s 8s]
+Alex_G68: checks
+kolaz03: bets $3
+Alex_G68: calls $3
+*** TURN *** [Qd 4s 8s] [9s]
+Alex_G68: checks
+kolaz03: checks
+*** RIVER *** [Qd 4s 8s 9s] [7c]
+Alex_G68: bets $6
+kolaz03: raises $6 to $12
+Alex_G68: calls $1.15 and is all-in
+Uncalled bet ($4.85) returned to kolaz03
+*** SHOW DOWN ***
+kolaz03: shows [Td 6h] (a straight, Six to Ten)
+Alex_G68: shows [7d Kd] (a pair of Sevens)
+kolaz03 collected $31.80 from pot
+*** SUMMARY ***
+Total pot $32.30 | Rake $0.50
+Board [Qd 4s 8s 9s 7c]
+Seat 1: kolaz03 (button) (small blind) showed [Td 6h] and won ($31.80) with a straight, Six to Ten
+Seat 6: Alex_G68 (big blind) showed [7d Kd] and lost with a pair of Sevens
+
+

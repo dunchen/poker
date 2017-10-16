@@ -1,0 +1,64 @@
+PokerStars Hand #172487892155:  Hold'em Limit ($3/$6 USD) - 2017/07/01 18:56:34 ET
+Table 'Beograd' 10-max Seat #6 is the button
+Seat 5: simper11 ($50 in chips)
+Seat 6: Svedda70 ($121 in chips)
+Svedda70: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+Svedda70: raises $3 to $6
+simper11: calls $3
+*** FLOP *** [7c 3d Kc]
+simper11: checks
+Svedda70: bets $3
+simper11: calls $3
+*** TURN *** [7c 3d Kc] [Ts]
+simper11: checks
+Svedda70: bets $6
+simper11: calls $6
+*** RIVER *** [7c 3d Kc Ts] [4d]
+simper11: checks
+HAOYUN88888 joins the table at seat #10
+Svedda70: bets $6
+simper11: calls $6
+*** SHOW DOWN ***
+Svedda70: shows [9h Ks] (a pair of Kings)
+simper11: mucks hand
+Svedda70 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [7c 3d Kc Ts 4d]
+Seat 5: simper11 (big blind) mucked
+Seat 6: Svedda70 (button) (small blind) showed [9h Ks] and won ($41.50) with a pair of Kings
+
+
+PokerStars Hand #172487902451:  Hold'em Limit ($3/$6 USD) - 2017/07/01 18:56:54 ET
+Table 'Beograd' 10-max Seat #5 is the button
+Seat 5: simper11 ($31.22 in chips)
+Seat 6: Svedda70 ($141.50 in chips)
+simper11: posts small blind $1
+Svedda70: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+Svedda70: calls $3
+*** FLOP *** [4h Jd Td]
+Svedda70: checks
+simper11: bets $3
+Svedda70: calls $3
+*** TURN *** [4h Jd Td] [Ah]
+Svedda70: checks
+simper11: bets $6
+Svedda70: calls $6
+*** RIVER *** [4h Jd Td Ah] [6d]
+Svedda70: checks
+simper11: bets $6
+Svedda70: folds
+Uncalled bet ($6) returned to simper11
+simper11 collected $29.50 from pot
+simper11: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4h Jd Td Ah 6d]
+Seat 5: simper11 (button) (small blind) collected ($29.50)
+Seat 6: Svedda70 (big blind) folded on the River
+
+

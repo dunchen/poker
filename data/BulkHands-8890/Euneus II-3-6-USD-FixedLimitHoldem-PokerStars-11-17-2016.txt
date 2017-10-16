@@ -1,0 +1,88 @@
+PokerStars Hand #161533915115:  Hold'em Limit ($3/$6 USD) - 2016/11/17 8:03:33 ET
+Table 'Euneus II' 6-max Seat #4 is the button
+Seat 1: MMM 22666 ($66 in chips)
+Seat 4: MTails ($125.76 in chips)
+MTails: posts small blind $1
+MMM 22666: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+MMM 22666: calls $3
+*** FLOP *** [2c 5c Qc]
+MMM 22666: checks
+MTails: bets $3
+MMM 22666: calls $3
+*** TURN *** [2c 5c Qc] [Ts]
+MMM 22666: checks
+MTails: bets $6
+MMM 22666: calls $6
+*** RIVER *** [2c 5c Qc Ts] [Jh]
+MMM 22666: checks
+MTails: bets $6
+MMM 22666: calls $6
+*** SHOW DOWN ***
+MTails: shows [6d Qh] (a pair of Queens)
+MMM 22666: mucks hand
+MTails collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2c 5c Qc Ts Jh]
+Seat 1: MMM 22666 (big blind) mucked
+Seat 4: MTails (button) (small blind) showed [6d Qh] and won ($41.50) with a pair of Queens
+
+
+PokerStars Hand #161533904302:  Hold'em Limit ($3/$6 USD) - 2016/11/17 8:03:14 ET
+Table 'Euneus II' 6-max Seat #1 is the button
+Seat 1: MMM 22666 ($72 in chips)
+Seat 4: MTails ($120 in chips)
+MMM 22666: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+MMM 22666: calls $2
+MTails: raises $3 to $6
+B_loJkl joins the table at seat #2
+MMM 22666: calls $3
+*** FLOP *** [3s Th 2s]
+MTails: bets $3
+MMM 22666: folds
+Uncalled bet ($3) returned to MTails
+MTails collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3s Th 2s]
+Seat 1: MMM 22666 (button) (small blind) folded on the Flop
+Seat 4: MTails (big blind) collected ($11.76)
+
+
+PokerStars Hand #161533976465:  Hold'em Limit ($3/$6 USD) - 2016/11/17 8:05:23 ET
+Table 'Euneus II' 6-max Seat #4 is the button
+Seat 2: B_loJkl ($172.65 in chips)
+Seat 4: MTails ($143.26 in chips)
+MTails: posts small blind $1
+MMM 22666: is sitting out
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+MMM 22666 leaves the table
+B_loJkl: calls $3
+*** FLOP *** [8h Tc 8c]
+B_loJkl: checks
+MTails: bets $3
+B_loJkl: calls $3
+*** TURN *** [8h Tc 8c] [6d]
+B_loJkl: checks
+MTails: bets $6
+B_loJkl: calls $6
+*** RIVER *** [8h Tc 8c 6d] [3h]
+B_loJkl: checks
+MTails: checks
+*** SHOW DOWN ***
+B_loJkl: shows [Kd 2h] (a pair of Eights)
+MTails: shows [9h 3s] (two pair, Eights and Threes)
+MTails collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8h Tc 8c 6d 3h]
+Seat 2: B_loJkl (big blind) showed [Kd 2h] and lost with a pair of Eights
+Seat 4: MTails (button) (small blind) showed [9h 3s] and won ($29.50) with two pair, Eights and Threes
+
+

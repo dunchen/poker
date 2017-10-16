@@ -1,0 +1,87 @@
+PokerStars Hand #176285638346:  Hold'em Limit ($3/$6 USD) - 2017/09/29 18:05:31 ET
+Table 'Mnemosyne' 6-max Seat #3 is the button
+Seat 2: libaikang ($167.75 in chips)
+Seat 3: Ag3r0n ($72 in chips)
+Ag3r0n: posts small blind $1
+libaikang: posts big blind $3
+*** HOLE CARDS ***
+Ag3r0n: raises $3 to $6
+libaikang: calls $3
+*** FLOP *** [3c 7h 4s]
+libaikang: checks
+Ag3r0n: checks
+*** TURN *** [3c 7h 4s] [2d]
+libaikang: bets $6
+Ag3r0n: folds
+Uncalled bet ($6) returned to libaikang
+libaikang collected $11.76 from pot
+libaikang: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3c 7h 4s 2d]
+Seat 2: libaikang (big blind) collected ($11.76)
+Seat 3: Ag3r0n (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #176285617100:  Hold'em Limit ($3/$6 USD) - 2017/09/29 18:05:00 ET
+Table 'Mnemosyne' 6-max Seat #2 is the button
+Seat 2: libaikang ($138.25 in chips)
+Seat 3: Ag3r0n ($75 in chips)
+libaikang: posts small blind $1
+Ag3r0n: posts big blind $3
+*** HOLE CARDS ***
+libaikang: raises $3 to $6
+Ag3r0n: raises $3 to $9
+libaikang: calls $3
+*** FLOP *** [Qd 6d 6h]
+Ag3r0n: bets $3
+libaikang: calls $3
+*** TURN *** [Qd 6d 6h] [6s]
+Ag3r0n: bets $6
+libaikang: raises $6 to $12
+Ag3r0n: calls $6
+*** RIVER *** [Qd 6d 6h 6s] [4c]
+Ag3r0n: checks
+libaikang: bets $6
+Ag3r0n: calls $6
+*** SHOW DOWN ***
+libaikang: shows [6c 8s] (four of a kind, Sixes)
+Ag3r0n: mucks hand
+libaikang collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Qd 6d 6h 6s 4c]
+Seat 2: libaikang (button) (small blind) showed [6c 8s] and won ($59.50) with four of a kind, Sixes
+Seat 3: Ag3r0n (big blind) mucked
+
+
+PokerStars Hand #176285651332:  Hold'em Limit ($3/$6 USD) - 2017/09/29 18:05:50 ET
+Table 'Mnemosyne' 6-max Seat #2 is the button
+Seat 2: libaikang ($173.51 in chips)
+Seat 3: Ag3r0n ($72 in chips)
+libaikang: posts small blind $1
+Ag3r0n: posts big blind $3
+*** HOLE CARDS ***
+libaikang: calls $2
+ToDaFelt joins the table at seat #4
+Ag3r0n: checks
+*** FLOP *** [3s 5s 8c]
+Ag3r0n: bets $3
+libaikang: calls $3
+*** TURN *** [3s 5s 8c] [Td]
+Ag3r0n: bets $6
+libaikang: calls $6
+*** RIVER *** [3s 5s 8c Td] [2d]
+Ag3r0n: checks
+libaikang: checks
+*** SHOW DOWN ***
+Ag3r0n: shows [9d 5h] (a pair of Fives)
+libaikang: mucks hand
+Ag3r0n collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [3s 5s 8c Td 2d]
+Seat 2: libaikang (button) (small blind) mucked
+Seat 3: Ag3r0n (big blind) showed [9d 5h] and won ($23.52) with a pair of Fives
+
+

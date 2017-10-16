@@ -1,0 +1,62 @@
+PokerStars Hand #175412661303:  Hold'em Limit ($3/$6 USD) - 2017/09/09 10:28:15 ET
+Table 'Tyche' 6-max Seat #2 is the button
+Seat 1: igorkabmw ($36 in chips)
+Seat 2: TbIP-TbIP 88 ($72 in chips)
+TbIP-TbIP 88: posts small blind $1
+GoliafUa: is sitting out
+igorkabmw: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88: raises $3 to $6
+igorkabmw: calls $3
+*** FLOP *** [4d 8c 7s]
+igorkabmw: bets $3
+TbIP-TbIP 88: raises $3 to $6
+igorkabmw: calls $3
+*** TURN *** [4d 8c 7s] [9h]
+igorkabmw: checks
+TbIP-TbIP 88: bets $6
+igorkabmw: calls $6
+*** RIVER *** [4d 8c 7s 9h] [7c]
+GoliafUa leaves the table
+igorkabmw: bets $6
+TbIP-TbIP 88: calls $6
+*** SHOW DOWN ***
+igorkabmw: shows [2c 5c] (a pair of Sevens)
+TbIP-TbIP 88: shows [Qd 8d] (two pair, Eights and Sevens)
+TbIP-TbIP 88 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4d 8c 7s 9h 7c]
+Seat 1: igorkabmw (big blind) showed [2c 5c] and lost with a pair of Sevens
+Seat 2: TbIP-TbIP 88 (button) (small blind) showed [Qd 8d] and won ($47.50) with two pair, Eights and Sevens
+
+
+PokerStars Hand #175412672532:  Hold'em Limit ($3/$6 USD) - 2017/09/09 10:28:33 ET
+Table 'Tyche' 6-max Seat #1 is the button
+Seat 1: igorkabmw ($12 in chips)
+Seat 2: TbIP-TbIP 88 ($95.50 in chips)
+igorkabmw: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+igorkabmw: raises $3 to $6
+TbIP-TbIP 88: calls $3
+*** FLOP *** [7d 5h 4d]
+TbIP-TbIP 88: checks
+igorkabmw: bets $3
+TbIP-TbIP 88: calls $3
+*** TURN *** [7d 5h 4d] [4s]
+TbIP-TbIP 88: checks
+igorkabmw: bets $3 and is all-in
+TbIP-TbIP 88: calls $3
+*** RIVER *** [7d 5h 4d 4s] [3h]
+*** SHOW DOWN ***
+TbIP-TbIP 88: shows [6d Qs] (a straight, Three to Seven)
+igorkabmw: shows [8s Ac] (a pair of Fours)
+TbIP-TbIP 88 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [7d 5h 4d 4s 3h]
+Seat 1: igorkabmw (button) (small blind) showed [8s Ac] and lost with a pair of Fours
+Seat 2: TbIP-TbIP 88 (big blind) showed [6d Qs] and won ($23.52) with a straight, Three to Seven
+
+

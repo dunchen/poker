@@ -1,0 +1,70 @@
+PokerStars Hand #169637775809:  Hold'em Limit ($3/$6 USD) - 2017/04/27 14:54:22 ET
+Table 'Ristenpart' 6-max Seat #5 is the button
+Seat 3: conanboy ($120 in chips)
+Seat 5: fluit83 ($42 in chips)
+fluit83: posts small blind $1
+sim5sim5: is sitting out
+conanboy: posts big blind $3
+*** HOLE CARDS ***
+Ccidra joins the table at seat #6
+sim5sim5 leaves the table
+fluit83: raises $3 to $6
+conanboy: raises $3 to $9
+fluit83: calls $3
+*** FLOP *** [Td 4c 9h]
+conanboy: bets $3
+fluit83: raises $3 to $6
+conanboy: calls $3
+*** TURN *** [Td 4c 9h] [2c]
+conanboy: checks
+fluit83: bets $6
+conanboy: calls $6
+*** RIVER *** [Td 4c 9h 2c] [6d]
+conanboy: checks
+fluit83: bets $6
+conanboy: calls $6
+*** SHOW DOWN ***
+fluit83: shows [Ah Ts] (a pair of Tens)
+conanboy: mucks hand
+fluit83 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Td 4c 9h 2c 6d]
+Seat 3: conanboy (big blind) mucked
+Seat 5: fluit83 (button) (small blind) showed [Ah Ts] and won ($53.50) with a pair of Tens
+
+
+PokerStars Hand #169637812763:  Hold'em Limit ($3/$6 USD) - 2017/04/27 14:55:08 ET
+Table 'Ristenpart' 6-max Seat #3 is the button
+Seat 3: conanboy ($93 in chips)
+Seat 5: fluit83 ($68.50 in chips)
+conanboy: posts small blind $1
+fluit83: posts big blind $3
+*** HOLE CARDS ***
+conanboy: raises $3 to $6
+fluit83: calls $3
+*** FLOP *** [Kd 8c 2d]
+fluit83: checks
+conanboy: bets $3
+fluit83: raises $3 to $6
+conanboy: raises $3 to $9
+fluit83: raises $3 to $12
+Betting is capped
+conanboy: calls $3
+*** TURN *** [Kd 8c 2d] [Ts]
+fluit83: bets $6
+conanboy: calls $6
+*** RIVER *** [Kd 8c 2d Ts] [6s]
+fluit83: bets $6
+conanboy: calls $6
+*** SHOW DOWN ***
+fluit83: shows [Ks Js] (a pair of Kings)
+conanboy: mucks hand
+fluit83 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Kd 8c 2d Ts 6s]
+Seat 3: conanboy (button) (small blind) mucked
+Seat 5: fluit83 (big blind) showed [Ks Js] and won ($59.50) with a pair of Kings
+
+

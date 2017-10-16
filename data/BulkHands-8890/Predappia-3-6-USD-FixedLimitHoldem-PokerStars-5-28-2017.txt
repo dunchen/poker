@@ -1,0 +1,26 @@
+PokerStars Hand #171011654792:  Hold'em Limit ($3/$6 USD) - 2017/05/28 1:33:50 ET
+Table 'Predappia' 6-max Seat #4 is the button
+Seat 3: ogdealer ($34 in chips)
+Seat 4: boriskloris ($106 in chips)
+boriskloris: posts small blind $1
+ogdealer: posts big blind $3
+*** HOLE CARDS ***
+boriskloris: raises $3 to $6
+ogdealer: calls $3
+*** FLOP *** [7h 5d 5h]
+ogdealer: bets $3
+boriskloris: calls $3
+*** TURN *** [7h 5d 5h] [8d]
+ogdealer: checks
+boriskloris: bets $6
+ogdealer: folds
+Uncalled bet ($6) returned to boriskloris
+boriskloris collected $17.64 from pot
+boriskloris: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7h 5d 5h 8d]
+Seat 3: ogdealer (big blind) folded on the Turn
+Seat 4: boriskloris (button) (small blind) collected ($17.64)
+
+

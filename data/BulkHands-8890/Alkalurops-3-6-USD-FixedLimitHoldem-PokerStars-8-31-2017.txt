@@ -1,0 +1,118 @@
+PokerStars Hand #175027863543:  Hold'em Limit ($3/$6 USD) - 2017/08/31 12:52:37 ET
+Table 'Alkalurops' 6-max Seat #1 is the button
+Seat 1: Zubasa07 ($300 in chips)
+Seat 3: ANIN1337 ($48 in chips)
+Zubasa07: posts small blind $1
+ANIN1337: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+ANIN1337: calls $3
+*** FLOP *** [Jd 6s 9s]
+vestimokrec joins the table at seat #4
+ANIN1337: checks
+Zubasa07: bets $3
+ANIN1337: folds
+Uncalled bet ($3) returned to Zubasa07
+Zubasa07 collected $11.76 from pot
+Zubasa07: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jd 6s 9s]
+Seat 1: Zubasa07 (button) (small blind) collected ($11.76)
+Seat 3: ANIN1337 (big blind) folded on the Flop
+
+
+PokerStars Hand #175027888400:  Hold'em Limit ($3/$6 USD) - 2017/08/31 12:53:15 ET
+Table 'Alkalurops' 6-max Seat #3 is the button
+Seat 1: Zubasa07 ($305.76 in chips)
+Seat 3: ANIN1337 ($42 in chips)
+ANIN1337: posts small blind $1
+Zubasa07: posts big blind $3
+*** HOLE CARDS ***
+ANIN1337: raises $3 to $6
+Zubasa07: calls $3
+*** FLOP *** [As Kd 4c]
+Zubasa07: checks
+ANIN1337: bets $3
+Zubasa07: raises $3 to $6
+ANIN1337: calls $3
+*** TURN *** [As Kd 4c] [5s]
+Zubasa07: checks
+ANIN1337: bets $6
+Zubasa07: calls $6
+*** RIVER *** [As Kd 4c 5s] [8c]
+Zubasa07: checks
+ANIN1337: bets $6
+Zubasa07: calls $6
+*** SHOW DOWN ***
+ANIN1337: shows [Jh Ah] (a pair of Aces)
+Zubasa07: mucks hand
+ANIN1337 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [As Kd 4c 5s 8c]
+Seat 1: Zubasa07 (big blind) mucked
+Seat 3: ANIN1337 (button) (small blind) showed [Jh Ah] and won ($47.50) with a pair of Aces
+
+
+PokerStars Hand #175027932907:  Hold'em Limit ($3/$6 USD) - 2017/08/31 12:54:24 ET
+Table 'Alkalurops' 6-max Seat #1 is the button
+Seat 1: Zubasa07 ($281.76 in chips)
+Seat 3: ANIN1337 ($65.50 in chips)
+Zubasa07: posts small blind $1
+ANIN1337: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+ANIN1337: calls $3
+*** FLOP *** [2d Ts 9d]
+ANIN1337: checks
+Zubasa07: bets $3
+ANIN1337: calls $3
+*** TURN *** [2d Ts 9d] [As]
+ANIN1337: checks
+Zubasa07: bets $6
+ToDaFelt joins the table at seat #5
+ANIN1337: folds
+Uncalled bet ($6) returned to Zubasa07
+Zubasa07 collected $17.64 from pot
+Zubasa07: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2d Ts 9d As]
+Seat 1: Zubasa07 (button) (small blind) collected ($17.64)
+Seat 3: ANIN1337 (big blind) folded on the Turn
+
+
+PokerStars Hand #175028081197:  Hold'em Limit ($3/$6 USD) - 2017/08/31 12:58:48 ET
+Table 'Alkalurops' 6-max Seat #4 is the button
+Seat 4: vestimokrec ($73 in chips)
+Seat 6: B_loJkl ($68.10 in chips)
+vestimokrec: posts small blind $1
+ToDaFelt: is sitting out
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+ToDaFelt leaves the table
+B_loJkl: raises $3 to $9
+vestimokrec: calls $3
+*** FLOP *** [5h 4d 5s]
+B_loJkl: bets $3
+vestimokrec: calls $3
+*** TURN *** [5h 4d 5s] [Th]
+B_loJkl: bets $6
+vestimokrec: calls $6
+*** RIVER *** [5h 4d 5s Th] [9h]
+B_loJkl: checks
+vestimokrec: checks
+*** SHOW DOWN ***
+B_loJkl: shows [Ah 3s] (a pair of Fives)
+vestimokrec: shows [As 8d] (a pair of Fives)
+B_loJkl collected $17.75 from pot
+vestimokrec collected $17.75 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5h 4d 5s Th 9h]
+Seat 4: vestimokrec (button) (small blind) showed [As 8d] and won ($17.75) with a pair of Fives
+Seat 6: B_loJkl (big blind) showed [Ah 3s] and won ($17.75) with a pair of Fives
+
+

@@ -1,0 +1,416 @@
+PokerStars Hand #148783919404:  Hold'em Limit ($3/$6 USD) - 2016/02/14 9:14:37 ET
+Table 'Arm' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 2: fsreibnitz ($100 in chips)
+VolkovDmitri: posts small blind $1
+fsreibnitz: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+fsreibnitz: calls $3
+*** FLOP *** [9d 2h 4c]
+fsreibnitz: checks
+VolkovDmitri: bets $3
+fsreibnitz: calls $3
+*** TURN *** [9d 2h 4c] [3s]
+fsreibnitz: checks
+VolkovDmitri: checks
+*** RIVER *** [9d 2h 4c 3s] [Ts]
+fsreibnitz: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+fsreibnitz: shows [4d 5d] (a pair of Fours)
+VolkovDmitri: mucks hand
+fsreibnitz collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9d 2h 4c 3s Ts]
+Seat 1: VolkovDmitri (button) (small blind) mucked
+Seat 2: fsreibnitz (big blind) showed [4d 5d] and won ($29.50) with a pair of Fours
+
+
+PokerStars Hand #148783950266:  Hold'em Limit ($3/$6 USD) - 2016/02/14 9:15:16 ET
+Table 'Arm' 6-max Seat #2 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 2: fsreibnitz ($114.50 in chips)
+fsreibnitz: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+fsreibnitz: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Js 8h 3h]
+VolkovDmitri: checks
+fsreibnitz: bets $3
+VolkovDmitri: raises $3 to $6
+fsreibnitz: calls $3
+*** TURN *** [Js 8h 3h] [Tc]
+VolkovDmitri: bets $6
+fsreibnitz: calls $6
+*** RIVER *** [Js 8h 3h Tc] [9c]
+VolkovDmitri: bets $6
+fsreibnitz: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $35.50 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Js 8h 3h Tc 9c]
+Seat 1: VolkovDmitri (big blind) collected ($35.50)
+Seat 2: fsreibnitz (button) (small blind) folded on the River
+
+
+PokerStars Hand #148783973294:  Hold'em Limit ($3/$6 USD) - 2016/02/14 9:15:45 ET
+Table 'Arm' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($137.50 in chips)
+Seat 2: fsreibnitz ($96.50 in chips)
+VolkovDmitri: posts small blind $1
+fsreibnitz: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+fsreibnitz: calls $3
+*** FLOP *** [Th 3c 5d]
+fsreibnitz: checks
+VolkovDmitri: bets $3
+fsreibnitz: calls $3
+*** TURN *** [Th 3c 5d] [Qs]
+fsreibnitz: checks
+VolkovDmitri: checks
+*** RIVER *** [Th 3c 5d Qs] [Kc]
+fsreibnitz: checks
+VolkovDmitri: bets $6
+fsreibnitz: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $17.64 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Th 3c 5d Qs Kc]
+Seat 1: VolkovDmitri (button) (small blind) collected ($17.64)
+Seat 2: fsreibnitz (big blind) folded on the River
+
+
+PokerStars Hand #148784000713:  Hold'em Limit ($3/$6 USD) - 2016/02/14 9:16:18 ET
+Table 'Arm' 6-max Seat #2 is the button
+Seat 1: VolkovDmitri ($146.14 in chips)
+Seat 2: fsreibnitz ($87.50 in chips)
+fsreibnitz: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+fsreibnitz: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+glottis88 joins the table at seat #3
+fsreibnitz: calls $3
+*** FLOP *** [Qc As 8c]
+VolkovDmitri: bets $3
+fsreibnitz: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $17.64 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qc As 8c]
+Seat 1: VolkovDmitri (big blind) collected ($17.64)
+Seat 2: fsreibnitz (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #148784012853:  Hold'em Limit ($3/$6 USD) - 2016/02/14 9:16:34 ET
+Table 'Arm' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($154.78 in chips)
+Seat 2: fsreibnitz ($78.50 in chips)
+VolkovDmitri: posts small blind $1
+fsreibnitz: posts big blind $3
+*** HOLE CARDS ***
+gazzzzzza joins the table at seat #4
+VolkovDmitri: raises $3 to $6
+fsreibnitz: calls $3
+*** FLOP *** [Ks 9h 8c]
+fsreibnitz: checks
+VolkovDmitri: bets $3
+fsreibnitz: calls $3
+*** TURN *** [Ks 9h 8c] [Js]
+fsreibnitz: checks
+VolkovDmitri: checks
+*** RIVER *** [Ks 9h 8c Js] [Kh]
+fsreibnitz: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to fsreibnitz
+fsreibnitz collected $17.64 from pot
+fsreibnitz: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ks 9h 8c Js Kh]
+Seat 1: VolkovDmitri (button) (small blind) folded on the River
+Seat 2: fsreibnitz (big blind) collected ($17.64)
+
+
+PokerStars Hand #148787897948:  Hold'em Limit ($3/$6 USD) - 2016/02/14 10:32:57 ET
+Table 'Arm' 6-max Seat #2 is the button
+Seat 2: fsreibnitz ($187.87 in chips)
+Seat 6: Günni1959 ($118.11 in chips)
+fsreibnitz: posts small blind $1
+Günni1959: posts big blind $3
+*** HOLE CARDS ***
+DismasX leaves the table
+fsreibnitz: folds
+Uncalled bet ($2) returned to Günni1959
+Günni1959 collected $2 from pot
+Günni1959: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: fsreibnitz (button) (small blind) folded before Flop
+Seat 6: Günni1959 (big blind) collected ($2)
+
+
+PokerStars Hand #148787877417:  Hold'em Limit ($3/$6 USD) - 2016/02/14 10:32:34 ET
+Table 'Arm' 6-max Seat #4 is the button
+Seat 2: fsreibnitz ($186.87 in chips)
+Seat 4: gazzzzzza ($106.72 in chips)
+gazzzzzza: posts small blind $1
+fsreibnitz: posts big blind $3
+*** HOLE CARDS ***
+gazzzzzza: folds
+Uncalled bet ($2) returned to fsreibnitz
+fsreibnitz collected $2 from pot
+fsreibnitz: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: fsreibnitz (big blind) collected ($2)
+Seat 4: gazzzzzza (button) (small blind) folded before Flop
+
+
+PokerStars Hand #148787944364:  Hold'em Limit ($3/$6 USD) - 2016/02/14 10:33:47 ET
+Table 'Arm' 6-max Seat #2 is the button
+Seat 2: fsreibnitz ($196.63 in chips)
+Seat 6: Günni1959 ($109.11 in chips)
+fsreibnitz: posts small blind $1
+Günni1959: posts big blind $3
+*** HOLE CARDS ***
+fsreibnitz: raises $3 to $6
+Günni1959: folds
+Uncalled bet ($3) returned to fsreibnitz
+fsreibnitz collected $6 from pot
+fsreibnitz: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: fsreibnitz (button) (small blind) collected ($6)
+Seat 6: Günni1959 (big blind) folded before Flop
+
+
+PokerStars Hand #148787921498:  Hold'em Limit ($3/$6 USD) - 2016/02/14 10:33:22 ET
+Table 'Arm' 6-max Seat #2 is the button
+Seat 2: fsreibnitz ($187.87 in chips)
+Seat 6: Günni1959 ($118.11 in chips)
+fsreibnitz: posts small blind $1
+Günni1959: posts big blind $3
+*** HOLE CARDS ***
+fsreibnitz: raises $3 to $6
+Günni1959: folds
+Uncalled bet ($3) returned to fsreibnitz
+fsreibnitz collected $6 from pot
+fsreibnitz: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: fsreibnitz (button) (small blind) collected ($6)
+Seat 6: Günni1959 (big blind) folded before Flop
+
+
+PokerStars Hand #148787916260:  Hold'em Limit ($3/$6 USD) - 2016/02/14 10:33:17 ET
+Table 'Arm' 6-max Seat #6 is the button
+Seat 2: fsreibnitz ($186.87 in chips)
+Seat 6: Günni1959 ($119.11 in chips)
+Günni1959: posts small blind $1
+fsreibnitz: posts big blind $3
+*** HOLE CARDS ***
+Günni1959: folds
+Uncalled bet ($2) returned to fsreibnitz
+fsreibnitz collected $2 from pot
+fsreibnitz: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: fsreibnitz (big blind) collected ($2)
+Seat 6: Günni1959 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #148787910320:  Hold'em Limit ($3/$6 USD) - 2016/02/14 10:33:10 ET
+Table 'Arm' 6-max Seat #2 is the button
+Seat 2: fsreibnitz ($187.87 in chips)
+Seat 6: Günni1959 ($118.11 in chips)
+fsreibnitz: posts small blind $1
+Günni1959: posts big blind $3
+*** HOLE CARDS ***
+fsreibnitz: folds
+Uncalled bet ($2) returned to Günni1959
+Günni1959 collected $2 from pot
+Günni1959: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: fsreibnitz (button) (small blind) folded before Flop
+Seat 6: Günni1959 (big blind) collected ($2)
+
+
+PokerStars Hand #148787904249:  Hold'em Limit ($3/$6 USD) - 2016/02/14 10:33:04 ET
+Table 'Arm' 6-max Seat #6 is the button
+Seat 2: fsreibnitz ($186.87 in chips)
+Seat 6: Günni1959 ($119.11 in chips)
+Günni1959: posts small blind $1
+fsreibnitz: posts big blind $3
+*** HOLE CARDS ***
+Günni1959: folds
+Uncalled bet ($2) returned to fsreibnitz
+fsreibnitz collected $2 from pot
+fsreibnitz: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: fsreibnitz (big blind) collected ($2)
+Seat 6: Günni1959 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #148788003609:  Hold'em Limit ($3/$6 USD) - 2016/02/14 10:34:52 ET
+Table 'Arm' 6-max Seat #6 is the button
+Seat 2: fsreibnitz ($182.63 in chips)
+Seat 6: Günni1959 ($122.61 in chips)
+Günni1959: posts small blind $1
+fsreibnitz: posts big blind $3
+*** HOLE CARDS ***
+Günni1959: folds
+Uncalled bet ($2) returned to fsreibnitz
+fsreibnitz collected $2 from pot
+fsreibnitz: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: fsreibnitz (big blind) collected ($2)
+Seat 6: Günni1959 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #148787981028:  Hold'em Limit ($3/$6 USD) - 2016/02/14 10:34:27 ET
+Table 'Arm' 6-max Seat #2 is the button
+Seat 2: fsreibnitz ($200.63 in chips)
+Seat 6: Günni1959 ($105.11 in chips)
+RabbitNrAS joins the table at seat #4
+fsreibnitz: posts small blind $1
+Günni1959: posts big blind $3
+*** HOLE CARDS ***
+fsreibnitz: raises $3 to $6
+Günni1959: calls $3
+*** FLOP *** [5d Jc 3d]
+Günni1959: checks
+fsreibnitz: checks
+*** TURN *** [5d Jc 3d] [Tc]
+Günni1959: checks
+fsreibnitz: bets $6
+Günni1959: raises $6 to $12
+fsreibnitz: calls $6
+*** RIVER *** [5d Jc 3d Tc] [Jd]
+Günni1959: bets $6
+fsreibnitz: folds
+Uncalled bet ($6) returned to Günni1959
+Günni1959 collected $35.50 from pot
+Günni1959: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5d Jc 3d Tc Jd]
+Seat 2: fsreibnitz (button) (small blind) folded on the River
+Seat 6: Günni1959 (big blind) collected ($35.50)
+
+
+PokerStars Hand #148787975454:  Hold'em Limit ($3/$6 USD) - 2016/02/14 10:34:21 ET
+Table 'Arm' 6-max Seat #6 is the button
+Seat 2: fsreibnitz ($199.63 in chips)
+Seat 6: Günni1959 ($106.11 in chips)
+Günni1959: posts small blind $1
+fsreibnitz: posts big blind $3
+*** HOLE CARDS ***
+Günni1959: folds
+Uncalled bet ($2) returned to fsreibnitz
+fsreibnitz collected $2 from pot
+fsreibnitz: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: fsreibnitz (big blind) collected ($2)
+Seat 6: Günni1959 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #148787969067:  Hold'em Limit ($3/$6 USD) - 2016/02/14 10:34:14 ET
+Table 'Arm' 6-max Seat #2 is the button
+Seat 2: fsreibnitz ($200.63 in chips)
+Seat 6: Günni1959 ($105.11 in chips)
+fsreibnitz: posts small blind $1
+Günni1959: posts big blind $3
+*** HOLE CARDS ***
+fsreibnitz: folds
+Uncalled bet ($2) returned to Günni1959
+Günni1959 collected $2 from pot
+Günni1959: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: fsreibnitz (button) (small blind) folded before Flop
+Seat 6: Günni1959 (big blind) collected ($2)
+
+
+PokerStars Hand #148787952634:  Hold'em Limit ($3/$6 USD) - 2016/02/14 10:33:56 ET
+Table 'Arm' 6-max Seat #6 is the button
+Seat 2: fsreibnitz ($199.63 in chips)
+Seat 6: Günni1959 ($106.11 in chips)
+Günni1959: posts small blind $1
+fsreibnitz: posts big blind $3
+*** HOLE CARDS ***
+Günni1959: folds
+Uncalled bet ($2) returned to fsreibnitz
+fsreibnitz collected $2 from pot
+fsreibnitz: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: fsreibnitz (big blind) collected ($2)
+Seat 6: Günni1959 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #148788529056:  Hold'em Limit ($3/$6 USD) - 2016/02/14 10:44:20 ET
+Table 'Arm' 6-max Seat #2 is the button
+Seat 2: fsreibnitz ($275.62 in chips)
+Seat 5: Herisons_11 ($341.45 in chips)
+fsreibnitz: posts small blind $1
+Herisons_11: posts big blind $3
+*** HOLE CARDS ***
+fsreibnitz: folds
+Uncalled bet ($2) returned to Herisons_11
+Herisons_11 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: fsreibnitz (button) (small blind) folded before Flop
+Seat 5: Herisons_11 (big blind) collected ($2)
+
+
+PokerStars Hand #148792387974:  Hold'em Limit ($3/$6 USD) - 2016/02/14 11:52:02 ET
+Table 'Arm' 6-max Seat #5 is the button
+Seat 1: Fabulous108 ($174.73 in chips)
+Seat 5: Herisons_11 ($415.45 in chips)
+Herisons_11: posts small blind $1
+Fabulous108: posts big blind $3
+*** HOLE CARDS ***
+Herisons_11: folds
+Uncalled bet ($2) returned to Fabulous108
+Fabulous108 collected $2 from pot
+Fabulous108: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Fabulous108 (big blind) collected ($2)
+Seat 5: Herisons_11 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #148792393417:  Hold'em Limit ($3/$6 USD) - 2016/02/14 11:52:07 ET
+Table 'Arm' 6-max Seat #1 is the button
+Seat 1: Fabulous108 ($175.73 in chips)
+Seat 5: Herisons_11 ($414.45 in chips)
+Fabulous108: posts small blind $1
+Herisons_11: posts big blind $3
+*** HOLE CARDS ***
+Fabulous108: raises $3 to $6
+Herisons_11: folds
+Uncalled bet ($3) returned to Fabulous108
+Fabulous108 collected $6 from pot
+Fabulous108: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: Fabulous108 (button) (small blind) collected ($6)
+Seat 5: Herisons_11 (big blind) folded before Flop
+
+

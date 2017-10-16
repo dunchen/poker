@@ -1,0 +1,117 @@
+PokerStars Hand #170960142704:  Hold'em Limit ($3/$6 USD) - 2017/05/26 19:13:40 ET
+Table 'Taurus' 6-max Seat #1 is the button
+Seat 1: Chessnok ($120 in chips)
+Seat 3: tutones87 ($41.78 in chips)
+Chessnok: posts small blind $1
+tutones87: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: folds
+Uncalled bet ($2) returned to tutones87
+tutones87 collected $2 from pot
+tutones87: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Chessnok (button) (small blind) folded before Flop
+Seat 3: tutones87 (big blind) collected ($2)
+
+
+PokerStars Hand #170960165148:  Hold'em Limit ($3/$6 USD) - 2017/05/26 19:14:17 ET
+Table 'Taurus' 6-max Seat #1 is the button
+Seat 1: Chessnok ($104 in chips)
+Seat 3: tutones87 ($57.28 in chips)
+Chessnok: posts small blind $1
+tutones87: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+tutones87: calls $3
+*** FLOP *** [7h 2h As]
+tutones87: checks
+Chessnok: bets $3
+tutones87: raises $3 to $6
+Chessnok: calls $3
+*** TURN *** [7h 2h As] [9c]
+tutones87: bets $6
+Chessnok: raises $6 to $12
+tutones87: calls $6
+*** RIVER *** [7h 2h As 9c] [Ac]
+tutones87: checks
+Chessnok: bets $6
+tutones87: calls $6
+*** SHOW DOWN ***
+Chessnok: shows [Ad 8h] (three of a kind, Aces)
+tutones87: mucks hand
+Chessnok collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [7h 2h As 9c Ac]
+Seat 1: Chessnok (button) (small blind) showed [Ad 8h] and won ($59.50) with three of a kind, Aces
+Seat 3: tutones87 (big blind) mucked
+
+
+PokerStars Hand #170960147407:  Hold'em Limit ($3/$6 USD) - 2017/05/26 19:13:48 ET
+Table 'Taurus' 6-max Seat #3 is the button
+Seat 1: Chessnok ($119 in chips)
+Seat 3: tutones87 ($42.78 in chips)
+tutones87: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+tutones87: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [Th 9h Js]
+Chessnok: checks
+tutones87: bets $3
+Chessnok: calls $3
+*** TURN *** [Th 9h Js] [9s]
+Chessnok: checks
+tutones87: bets $6
+Chessnok: calls $6
+*** RIVER *** [Th 9h Js 9s] [4d]
+Chessnok: checks
+tutones87: bets $6
+Chessnok: folds
+Uncalled bet ($6) returned to tutones87
+tutones87 collected $29.50 from pot
+tutones87: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Th 9h Js 9s 4d]
+Seat 1: Chessnok (big blind) folded on the River
+Seat 3: tutones87 (button) (small blind) collected ($29.50)
+
+
+PokerStars Hand #170960180137:  Hold'em Limit ($3/$6 USD) - 2017/05/26 19:14:41 ET
+Table 'Taurus' 6-max Seat #3 is the button
+Seat 1: Chessnok ($133.50 in chips)
+Seat 3: tutones87 ($27.28 in chips)
+tutones87: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+tutones87: raises $3 to $6
+Chessnok: raises $3 to $9
+tutones87: raises $3 to $12
+Betting is capped
+Chessnok: calls $3
+*** FLOP *** [Jd Ah 9s]
+Chessnok: checks
+tutones87: bets $3
+Chessnok: raises $3 to $6
+tutones87: raises $3 to $9
+Chessnok: raises $3 to $12
+Betting is capped
+tutones87: calls $3
+*** TURN *** [Jd Ah 9s] [Js]
+Chessnok: bets $6
+tutones87: calls $3.28 and is all-in
+Uncalled bet ($2.72) returned to Chessnok
+*** RIVER *** [Jd Ah 9s Js] [7c]
+*** SHOW DOWN ***
+Chessnok: shows [Ad Qc] (two pair, Aces and Jacks)
+tutones87: shows [Qh 9h] (two pair, Jacks and Nines)
+Chessnok collected $54.06 from pot
+*** SUMMARY ***
+Total pot $54.56 | Rake $0.50
+Board [Jd Ah 9s Js 7c]
+Seat 1: Chessnok (big blind) showed [Ad Qc] and won ($54.06) with two pair, Aces and Jacks
+Seat 3: tutones87 (button) (small blind) showed [Qh 9h] and lost with two pair, Jacks and Nines
+
+

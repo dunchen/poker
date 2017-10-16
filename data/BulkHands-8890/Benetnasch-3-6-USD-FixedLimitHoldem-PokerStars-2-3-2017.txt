@@ -1,0 +1,33 @@
+PokerStars Hand #165635074750:  Hold'em Limit ($3/$6 USD) - 2017/02/03 17:29:45 ET
+Table 'Benetnasch' 6-max Seat #4 is the button
+Seat 1: andrey0709 ($30 in chips)
+Seat 4: Actionni13 ($166.71 in chips)
+Actionni13: posts small blind $1
+andrey0709: posts big blind $3
+*** HOLE CARDS ***
+nimzon joins the table at seat #3
+Actionni13: raises $3 to $6
+GRAILKO joins the table at seat #2
+andrey0709: calls $3
+*** FLOP *** [7s Th 4c]
+andrey0709: checks
+Actionni13: bets $3
+nimzon leaves the table
+andrey0709: calls $3
+*** TURN *** [7s Th 4c] [7d]
+andrey0709: checks
+Actionni13: checks
+*** RIVER *** [7s Th 4c 7d] [7h]
+andrey0709: checks
+Actionni13: checks
+*** SHOW DOWN ***
+andrey0709: shows [9s Qc] (three of a kind, Sevens)
+Actionni13: shows [5s Ks] (three of a kind, Sevens - King kicker)
+Actionni13 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7s Th 4c 7d 7h]
+Seat 1: andrey0709 (big blind) showed [9s Qc] and lost with three of a kind, Sevens
+Seat 4: Actionni13 (button) (small blind) showed [5s Ks] and won ($17.64) with three of a kind, Sevens
+
+

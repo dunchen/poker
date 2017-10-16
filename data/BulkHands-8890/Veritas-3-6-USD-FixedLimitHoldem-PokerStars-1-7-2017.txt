@@ -1,0 +1,64 @@
+PokerStars Hand #164167393457:  Hold'em Limit ($3/$6 USD) - 2017/01/07 1:33:31 ET
+Table 'Veritas' 6-max Seat #2 is the button
+Seat 2: sim5sim5 ($72 in chips)
+Seat 3: habari786 ($60 in chips)
+sim5sim5: posts small blind $1
+habari786: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+habari786: calls $3
+*** FLOP *** [5h 3h 9s]
+habari786: checks
+sim5sim5: bets $3
+habari786: calls $3
+*** TURN *** [5h 3h 9s] [4c]
+habari786: bets $6
+sim5sim5: calls $6
+*** RIVER *** [5h 3h 9s 4c] [5c]
+habari786: bets $6
+sim5sim5: raises $6 to $12
+habari786: folds
+Uncalled bet ($6) returned to sim5sim5
+sim5sim5 collected $41.50 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [5h 3h 9s 4c 5c]
+Seat 2: sim5sim5 (button) (small blind) collected ($41.50)
+Seat 3: habari786 (big blind) folded on the River
+
+
+PokerStars Hand #164167404432:  Hold'em Limit ($3/$6 USD) - 2017/01/07 1:34:08 ET
+Table 'Veritas' 6-max Seat #3 is the button
+Seat 2: sim5sim5 ($92.50 in chips)
+Seat 3: habari786 ($39 in chips)
+habari786: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+habari786: raises $3 to $6
+sim5sim5: calls $3
+*** FLOP *** [2d Qh Ah]
+sim5sim5: checks
+habari786: bets $3
+sim5sim5: calls $3
+*** TURN *** [2d Qh Ah] [5d]
+sim5sim5: checks
+habari786: bets $6
+sim5sim5: raises $6 to $12
+habari786: calls $6
+*** RIVER *** [2d Qh Ah 5d] [Qc]
+sim5sim5: bets $6
+habari786: raises $6 to $12
+sim5sim5: raises $6 to $18
+habari786: calls $6 and is all-in
+*** SHOW DOWN ***
+sim5sim5: shows [5s Qd] (a full house, Queens full of Fives)
+habari786: shows [Qs 8d] (three of a kind, Queens)
+sim5sim5 collected $77.50 from pot
+*** SUMMARY ***
+Total pot $78 | Rake $0.50
+Board [2d Qh Ah 5d Qc]
+Seat 2: sim5sim5 (big blind) showed [5s Qd] and won ($77.50) with a full house, Queens full of Fives
+Seat 3: habari786 (button) (small blind) showed [Qs 8d] and lost with three of a kind, Queens
+
+

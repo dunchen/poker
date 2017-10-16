@@ -1,0 +1,32 @@
+PokerStars Hand #163634141118:  Hold'em Limit ($3/$6 USD) - 2016/12/27 18:56:08 ET
+Table 'Zaniah' 6-max Seat #1 is the button
+Seat 1: ToDaFelt ($420.94 in chips)
+Seat 5: aless284 ($169.99 in chips)
+ToDaFelt: posts small blind $1
+charlie13578: is sitting out
+aless284: posts big blind $3
+*** HOLE CARDS ***
+charlie13578 leaves the table
+ToDaFelt: raises $3 to $6
+aless284: calls $3
+*** FLOP *** [Ac Jd Ts]
+aless284: checks
+ToDaFelt: bets $3
+aless284: calls $3
+*** TURN *** [Ac Jd Ts] [Tc]
+aless284: checks
+ToDaFelt: checks
+*** RIVER *** [Ac Jd Ts Tc] [2d]
+aless284: bets $6
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+aless284: shows [Th 9c] (three of a kind, Tens)
+ToDaFelt: mucks hand
+aless284 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ac Jd Ts Tc 2d]
+Seat 1: ToDaFelt (button) (small blind) mucked
+Seat 5: aless284 (big blind) showed [Th 9c] and won ($29.50) with three of a kind, Tens
+
+

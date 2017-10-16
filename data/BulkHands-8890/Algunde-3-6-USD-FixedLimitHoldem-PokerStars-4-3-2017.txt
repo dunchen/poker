@@ -1,0 +1,154 @@
+PokerStars Hand #168499033144:  Hold'em Limit ($3/$6 USD) - 2017/04/02 20:06:43 ET
+Table 'Algunde' 6-max Seat #3 is the button
+Seat 3: JAMAL LEMOER ($120.35 in chips)
+Seat 6: Ablakat ($40.52 in chips)
+JAMAL LEMOER: posts small blind $1
+B_loJkl: is sitting out
+Ablakat: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl leaves the table
+JAMAL LEMOER: raises $3 to $6
+Ablakat: raises $3 to $9
+JAMAL LEMOER: calls $3
+*** FLOP *** [Ah Js 9s]
+B_loJkl joins the table at seat #1
+Ablakat: bets $3
+JAMAL LEMOER: folds
+Uncalled bet ($3) returned to Ablakat
+Ablakat collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ah Js 9s]
+Seat 3: JAMAL LEMOER (button) (small blind) folded on the Flop
+Seat 6: Ablakat (big blind) collected ($17.64)
+
+
+PokerStars Hand #168499209956:  Hold'em Limit ($3/$6 USD) - 2017/04/02 20:12:08 ET
+Table 'Algunde' 6-max Seat #2 is the button
+Seat 2: TheMuppet ($123.10 in chips)
+Seat 3: B_loJkl ($150 in chips)
+TheMuppet: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+TheMuppet: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Td Js Qc]
+reed 2000 joins the table at seat #1
+B_loJkl: checks
+TheMuppet: bets $3
+B_loJkl: calls $3
+*** TURN *** [Td Js Qc] [8c]
+B_loJkl: checks
+TheMuppet: bets $6
+B_loJkl: calls $6
+*** RIVER *** [Td Js Qc 8c] [Kc]
+B_loJkl: checks
+TheMuppet: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to TheMuppet
+TheMuppet collected $29.50 from pot
+TheMuppet: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Td Js Qc 8c Kc]
+Seat 2: TheMuppet (button) (small blind) collected ($29.50)
+Seat 3: B_loJkl (big blind) folded on the River
+
+
+PokerStars Hand #168500431235:  Hold'em Limit ($3/$6 USD) - 2017/04/02 20:51:25 ET
+Table 'Algunde' 6-max Seat #3 is the button
+Seat 1: feluniu ($131.54 in chips)
+Seat 3: B_loJkl ($224.85 in chips)
+B_loJkl: posts small blind $1
+feluniu: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+feluniu: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $6 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: feluniu (big blind) folded before Flop
+Seat 3: B_loJkl (button) (small blind) collected ($6)
+
+
+PokerStars Hand #168500413371:  Hold'em Limit ($3/$6 USD) - 2017/04/02 20:50:49 ET
+Table 'Algunde' 6-max Seat #1 is the button
+Seat 1: feluniu ($155.54 in chips)
+Seat 3: B_loJkl ($201.35 in chips)
+feluniu: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+feluniu: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [4d Th 8d]
+B_loJkl: checks
+feluniu: bets $3
+B_loJkl: raises $3 to $6
+feluniu: calls $3
+*** TURN *** [4d Th 8d] [4h]
+B_loJkl: bets $6
+feluniu: calls $6
+*** RIVER *** [4d Th 8d 4h] [7s]
+MellivoraSto leaves the table
+B_loJkl: bets $6
+feluniu: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [Tc 2c] (two pair, Tens and Fours)
+feluniu: mucks hand
+B_loJkl collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4d Th 8d 4h 7s]
+Seat 1: feluniu (button) (small blind) mucked
+Seat 3: B_loJkl (big blind) showed [Tc 2c] and won ($47.50) with two pair, Tens and Fours
+
+
+PokerStars Hand #168500392123:  Hold'em Limit ($3/$6 USD) - 2017/04/02 20:50:06 ET
+Table 'Algunde' 6-max Seat #3 is the button
+Seat 1: feluniu ($146.90 in chips)
+Seat 3: B_loJkl ($210.35 in chips)
+B_loJkl: posts small blind $1
+feluniu: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+feluniu: calls $3
+*** FLOP *** [Ad 2h 3s]
+feluniu: checks
+B_loJkl: bets $3
+feluniu: calls $3
+*** TURN *** [Ad 2h 3s] [2d]
+feluniu: checks
+B_loJkl: checks
+*** RIVER *** [Ad 2h 3s 2d] [4h]
+feluniu: checks
+B_loJkl: checks
+*** SHOW DOWN ***
+feluniu: shows [Td Ah] (two pair, Aces and Deuces)
+B_loJkl: mucks hand
+feluniu collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ad 2h 3s 2d 4h]
+Seat 1: feluniu (big blind) showed [Td Ah] and won ($17.64) with two pair, Aces and Deuces
+Seat 3: B_loJkl (button) (small blind) mucked
+
+
+PokerStars Hand #168500438975:  Hold'em Limit ($3/$6 USD) - 2017/04/02 20:51:42 ET
+Table 'Algunde' 6-max Seat #1 is the button
+Seat 1: feluniu ($128.54 in chips)
+Seat 3: B_loJkl ($227.85 in chips)
+feluniu: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+feluniu: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: feluniu (button) (small blind) folded before Flop
+Seat 3: B_loJkl (big blind) collected ($2)
+
+

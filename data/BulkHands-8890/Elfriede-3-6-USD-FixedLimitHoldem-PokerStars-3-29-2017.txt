@@ -1,0 +1,60 @@
+PokerStars Hand #168291292175:  Hold'em Limit ($3/$6 USD) - 2017/03/29 15:23:41 ET
+Table 'Elfriede' 6-max Seat #3 is the button
+Seat 3: Eklund_1891 ($143.50 in chips)
+Seat 4: vestimokrec ($96 in chips)
+Eklund_1891: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+Eklund_1891: raises $3 to $6
+vestimokrec: calls $3
+*** FLOP *** [8h 3s Ad]
+vestimokrec: checks
+Eklund_1891: bets $3
+vestimokrec: raises $3 to $6
+Eklund_1891: calls $3
+*** TURN *** [8h 3s Ad] [2s]
+vestimokrec: bets $6
+Eklund_1891: folds
+Uncalled bet ($6) returned to vestimokrec
+vestimokrec collected $23.52 from pot
+vestimokrec: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [8h 3s Ad 2s]
+Seat 3: Eklund_1891 (button) (small blind) folded on the Turn
+Seat 4: vestimokrec (big blind) collected ($23.52)
+
+
+PokerStars Hand #168291249068:  Hold'em Limit ($3/$6 USD) - 2017/03/29 15:22:55 ET
+Table 'Elfriede' 6-max Seat #4 is the button
+Seat 3: Eklund_1891 ($120 in chips)
+Seat 4: vestimokrec ($120 in chips)
+vestimokrec: posts small blind $1
+GoliafUa: is sitting out
+Eklund_1891: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+Eklund_1891: calls $3
+*** FLOP *** [8c 5h 8h]
+Eklund_1891: checks
+vestimokrec: bets $3
+Eklund_1891: raises $3 to $6
+vestimokrec: calls $3
+*** TURN *** [8c 5h 8h] [3h]
+Eklund_1891: bets $6
+rainbow28 joins the table at seat #1
+vestimokrec: calls $6
+*** RIVER *** [8c 5h 8h 3h] [2s]
+Eklund_1891: bets $6
+vestimokrec: calls $6
+*** SHOW DOWN ***
+Eklund_1891: shows [6h 8s] (three of a kind, Eights)
+vestimokrec: mucks hand
+Eklund_1891 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8c 5h 8h 3h 2s]
+Seat 3: Eklund_1891 (big blind) showed [6h 8s] and won ($47.50) with three of a kind, Eights
+Seat 4: vestimokrec (button) (small blind) mucked
+
+

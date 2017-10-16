@@ -1,0 +1,61 @@
+PokerStars Hand #166027102837:  Hold'em Limit ($3/$6 USD) - 2017/02/11 3:57:44 ET
+Table 'Kenos' 6-max Seat #2 is the button
+Seat 2: sim5sim5 ($72 in chips)
+Seat 4: Agrotait ($72 in chips)
+sim5sim5: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+Agrotait: raises $3 to $9
+sim5sim5: calls $3
+*** FLOP *** [Jh 5c Ah]
+Agrotait: bets $3
+sim5sim5: calls $3
+*** TURN *** [Jh 5c Ah] [3h]
+Agrotait: checks
+sim5sim5: checks
+*** RIVER *** [Jh 5c Ah 3h] [9d]
+Agrotait: bets $6
+sim5sim5: folds
+Uncalled bet ($6) returned to Agrotait
+Agrotait collected $23.52 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Jh 5c Ah 3h 9d]
+Seat 2: sim5sim5 (button) (small blind) folded on the River
+Seat 4: Agrotait (big blind) collected ($23.52)
+
+
+PokerStars Hand #166027115913:  Hold'em Limit ($3/$6 USD) - 2017/02/11 3:58:22 ET
+Table 'Kenos' 6-max Seat #4 is the button
+Seat 2: sim5sim5 ($72 in chips)
+Seat 4: Agrotait ($83.52 in chips)
+Agrotait: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+sim5sim5: raises $3 to $9
+Agrotait: calls $3
+*** FLOP *** [9h Qh 4s]
+sim5sim5: bets $3
+Agrotait: calls $3
+*** TURN *** [9h Qh 4s] [Kd]
+sim5sim5: checks
+Agrotait: bets $6
+sim5sim5: calls $6
+*** RIVER *** [9h Qh 4s Kd] [4c]
+sim5sim5: checks
+Agrotait: bets $6
+sim5sim5: calls $6
+*** SHOW DOWN ***
+Agrotait: shows [9s Ks] (two pair, Kings and Nines)
+sim5sim5: mucks hand
+Agrotait collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9h Qh 4s Kd 4c]
+Seat 2: sim5sim5 (big blind) mucked
+Seat 4: Agrotait (button) (small blind) showed [9s Ks] and won ($47.50) with two pair, Kings and Nines
+
+

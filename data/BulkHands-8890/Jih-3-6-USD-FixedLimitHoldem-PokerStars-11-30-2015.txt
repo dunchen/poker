@@ -1,0 +1,90 @@
+PokerStars Hand #144600477712:  Hold'em Limit ($3/$6 USD) - 2015/11/30 4:59:48 ET
+Table 'Jih' 2-max Seat #2 is the button
+Seat 1: qynmota ($92.69 in chips)
+Seat 2: jolarat ($59.21 in chips)
+jolarat: posts small blind $1
+qynmota: posts big blind $3
+*** HOLE CARDS ***
+jolarat: raises $3 to $6
+qynmota: raises $3 to $9
+jolarat: raises $3 to $12
+Betting is capped
+qynmota: calls $3
+*** FLOP *** [8d Ac 2c]
+qynmota: bets $3
+jolarat: raises $3 to $6
+qynmota: raises $3 to $9
+jolarat: raises $3 to $12
+Betting is capped
+qynmota: calls $3
+*** TURN *** [8d Ac 2c] [8h]
+qynmota: bets $6
+jolarat: folds
+Uncalled bet ($6) returned to qynmota
+qynmota collected $47.50 from pot
+qynmota: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8d Ac 2c 8h]
+Seat 1: qynmota (big blind) collected ($47.50)
+Seat 2: jolarat (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #144600484427:  Hold'em Limit ($3/$6 USD) - 2015/11/30 5:00:07 ET
+Table 'Jih' 2-max Seat #1 is the button
+Seat 1: qynmota ($116.19 in chips)
+Seat 2: jolarat ($35.21 in chips)
+qynmota: posts small blind $1
+jolarat: posts big blind $3
+*** HOLE CARDS ***
+qynmota: raises $3 to $6
+jolarat: raises $3 to $9
+qynmota: raises $3 to $12
+Betting is capped
+jolarat: calls $3
+*** FLOP *** [Kh Jc 4h]
+jolarat: bets $3
+qynmota: raises $3 to $6
+jolarat: raises $3 to $9
+qynmota: raises $3 to $12
+Betting is capped
+jolarat: calls $3
+*** TURN *** [Kh Jc 4h] [9d]
+jolarat: bets $6
+qynmota: raises $6 to $12
+jolarat: folds
+Uncalled bet ($6) returned to qynmota
+qynmota collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Kh Jc 4h 9d]
+Seat 1: qynmota (button) (small blind) collected ($59.50)
+Seat 2: jolarat (big blind) folded on the Turn
+
+
+PokerStars Hand #144600490441:  Hold'em Limit ($3/$6 USD) - 2015/11/30 5:00:23 ET
+Table 'Jih' 2-max Seat #2 is the button
+Seat 1: qynmota ($145.69 in chips)
+Seat 2: jolarat ($5.21 in chips)
+jolarat: posts small blind $1
+qynmota: posts big blind $3
+*** HOLE CARDS ***
+jolarat: calls $2
+qynmota: checks
+*** FLOP *** [4h Jd 2d]
+qynmota: checks
+jolarat: bets $2.21 and is all-in
+qynmota: calls $2.21
+*** TURN *** [4h Jd 2d] [Tc]
+*** RIVER *** [4h Jd 2d Tc] [3d]
+*** SHOW DOWN ***
+qynmota: shows [Kd 3c] (a pair of Threes)
+jolarat: shows [Kc 2s] (a pair of Deuces)
+qynmota collected $10.21 from pot
+*** SUMMARY ***
+Total pot $10.42 | Rake $0.21
+Board [4h Jd 2d Tc 3d]
+Seat 1: qynmota (big blind) showed [Kd 3c] and won ($10.21) with a pair of Threes
+Seat 2: jolarat (button) (small blind) showed [Kc 2s] and lost with a pair of Deuces
+
+

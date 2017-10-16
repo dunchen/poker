@@ -1,0 +1,66 @@
+PokerStars Hand #166908043732:  Hold'em Limit ($3/$6 USD) - 2017/02/28 12:39:47 ET
+Table 'Klytia II' 6-max Seat #3 is the button
+Seat 3: sokol-max-PS ($121.83 in chips)
+Seat 5: Fabulous108 ($120 in chips)
+sokol-max-PS: posts small blind $1
+Fabulous108: posts big blind $3
+*** HOLE CARDS ***
+sokol-max-PS: raises $3 to $6
+nordschrott joins the table at seat #4
+Fabulous108: calls $3
+*** FLOP *** [2h 5s 5h]
+Fabulous108: checks
+vestimokrec joins the table at seat #6
+sokol-max-PS: bets $3
+Fabulous108: calls $3
+*** TURN *** [2h 5s 5h] [Jd]
+Fabulous108: checks
+sokol-max-PS: checks
+*** RIVER *** [2h 5s 5h Jd] [5d]
+Fabulous108: bets $6
+sokol-max-PS: folds
+Uncalled bet ($6) returned to Fabulous108
+Fabulous108 collected $17.64 from pot
+Fabulous108: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2h 5s 5h Jd 5d]
+Seat 3: sokol-max-PS (button) (small blind) folded on the River
+Seat 5: Fabulous108 (big blind) collected ($17.64)
+
+
+PokerStars Hand #166908990475:  Hold'em Limit ($3/$6 USD) - 2017/02/28 12:58:42 ET
+Table 'Klytia II' 6-max Seat #4 is the button
+Seat 3: sokol-max-PS ($147.28 in chips)
+Seat 4: vestimokrec ($204.75 in chips)
+vestimokrec: posts small blind $1
+sokol-max-PS: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+sokol-max-PS: calls $3
+*** FLOP *** [2h 7c 7s]
+sokol-max-PS: checks
+ARARAT ANAPA leaves the table
+vestimokrec: bets $3
+sokol-max-PS: calls $3
+*** TURN *** [2h 7c 7s] [3h]
+sokol-max-PS is disconnected
+sokol-max-PS is connected
+sokol-max-PS: checks
+vestimokrec: bets $6
+sokol-max-PS: calls $6
+*** RIVER *** [2h 7c 7s 3h] [Jd]
+sokol-max-PS: checks
+vestimokrec: bets $6
+sokol-max-PS: calls $6
+*** SHOW DOWN ***
+vestimokrec: shows [4s Td] (a pair of Sevens)
+sokol-max-PS: shows [9s Kc] (a pair of Sevens - King kicker)
+sokol-max-PS collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2h 7c 7s 3h Jd]
+Seat 3: sokol-max-PS (big blind) showed [9s Kc] and won ($41.50) with a pair of Sevens
+Seat 4: vestimokrec (button) (small blind) showed [4s Td] and lost with a pair of Sevens
+
+

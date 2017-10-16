@@ -1,0 +1,32 @@
+PokerStars Hand #151190919592:  Hold'em Limit ($3/$6 USD) - 2016/03/30 18:40:34 ET
+Table 'Apisaon' 6-max Seat #4 is the button
+Seat 3: phrantsuz ($30 in chips)
+Seat 4: vestimokrec ($120 in chips)
+vestimokrec: posts small blind $1
+anetkaapro: is sitting out
+phrantsuz: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+phrantsuz: calls $3
+*** FLOP *** [4d 6d 3h]
+phrantsuz: bets $3
+vestimokrec: calls $3
+*** TURN *** [4d 6d 3h] [8h]
+phrantsuz: bets $6
+vestimokrec: calls $6
+*** RIVER *** [4d 6d 3h 8h] [Kc]
+phrantsuz: bets $6
+vestimokrec: raises $6 to $12
+phrantsuz: raises $3 to $15 and is all-in
+vestimokrec: calls $3
+*** SHOW DOWN ***
+phrantsuz: shows [As 8c] (a pair of Eights)
+vestimokrec: shows [2h Kh] (a pair of Kings)
+vestimokrec collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [4d 6d 3h 8h Kc]
+Seat 3: phrantsuz (big blind) showed [As 8c] and lost with a pair of Eights
+Seat 4: vestimokrec (button) (small blind) showed [2h Kh] and won ($59.50) with a pair of Kings
+
+

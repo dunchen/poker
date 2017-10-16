@@ -1,0 +1,68 @@
+PokerStars Hand #166054794893:  Hold'em Limit ($3/$6 USD) - 2017/02/11 14:59:45 ET
+Table 'Alfirk II' 6-max Seat #4 is the button
+Seat 3: manly70 ($75.13 in chips)
+Seat 4: belik555 ($90 in chips)
+belik555: posts small blind $1
+manly70: posts big blind $3
+*** HOLE CARDS ***
+belik555: raises $3 to $6
+manly70: calls $3
+*** FLOP *** [Th 4d 7c]
+manly70: checks
+belik555: bets $3
+manly70: raises $3 to $6
+belik555: calls $3
+*** TURN *** [Th 4d 7c] [9c]
+manly70: bets $6
+belik555: calls $6
+*** RIVER *** [Th 4d 7c 9c] [Js]
+manly70: checks
+belik555: bets $6
+manly70: calls $6
+*** SHOW DOWN ***
+belik555: shows [Jd Kh] (a pair of Jacks)
+manly70: mucks hand
+belik555 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Th 4d 7c 9c Js]
+Seat 3: manly70 (big blind) mucked
+Seat 4: belik555 (button) (small blind) showed [Jd Kh] and won ($47.50) with a pair of Jacks
+
+
+PokerStars Hand #166054821059:  Hold'em Limit ($3/$6 USD) - 2017/02/11 15:00:19 ET
+Table 'Alfirk II' 6-max Seat #3 is the button
+Seat 3: manly70 ($51.13 in chips)
+Seat 4: belik555 ($113.50 in chips)
+manly70: posts small blind $1
+belik555: posts big blind $3
+*** HOLE CARDS ***
+manly70: raises $3 to $6
+belik555: calls $3
+*** FLOP *** [6d 2h 4s]
+belik555: checks
+manly70: bets $3
+belik555: calls $3
+*** TURN *** [6d 2h 4s] [2s]
+helenaki joins the table at seat #6
+belik555: checks
+manly70: bets $6
+belik555: calls $6
+*** RIVER *** [6d 2h 4s 2s] [6s]
+234599330 joins the table at seat #1
+belik555: checks
+manly70: bets $6
+LuckyScal joins the table at seat #2
+belik555: raises $6 to $12
+manly70: calls $6
+*** SHOW DOWN ***
+belik555: shows [Ks 7s] (a flush, King high)
+manly70: mucks hand
+belik555 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [6d 2h 4s 2s 6s]
+Seat 3: manly70 (button) (small blind) mucked
+Seat 4: belik555 (big blind) showed [Ks 7s] and won ($53.50) with a flush, King high
+
+

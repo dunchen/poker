@@ -1,0 +1,45 @@
+PokerStars Hand #144349112533:  Hold'em Limit ($3/$6 USD) - 2015/11/25 2:27:57 ET
+Table 'Phoenix' 6-max Seat #4 is the button
+Seat 3: Agrotait ($77.46 in chips)
+Seat 4: Dcons ($15.06 in chips)
+Dcons: posts small blind $1
+B_loJkl: is sitting out
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+Dcons: folds
+Uncalled bet ($2) returned to Agrotait
+Agrotait collected $2 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: Agrotait (big blind) collected ($2)
+Seat 4: Dcons (button) (small blind) folded before Flop
+
+
+PokerStars Hand #144349115458:  Hold'em Limit ($3/$6 USD) - 2015/11/25 2:28:09 ET
+Table 'Phoenix' 6-max Seat #3 is the button
+Seat 3: Agrotait ($78.46 in chips)
+Seat 4: Dcons ($14.06 in chips)
+Agrotait: posts small blind $1
+Dcons: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+Dcons: calls $3
+*** FLOP *** [2h Ac 4h]
+Dcons: bets $3
+Agrotait: raises $3 to $6
+Dcons: raises $2.06 to $8.06 and is all-in
+Agrotait: calls $2.06
+*** TURN *** [2h Ac 4h] [4d]
+*** RIVER *** [2h Ac 4h 4d] [2s]
+*** SHOW DOWN ***
+Dcons: shows [Jd 3d] (two pair, Fours and Deuces)
+Agrotait: shows [3h Ad] (two pair, Aces and Fours)
+Agrotait collected $27.62 from pot
+*** SUMMARY ***
+Total pot $28.12 | Rake $0.50
+Board [2h Ac 4h 4d 2s]
+Seat 3: Agrotait (button) (small blind) showed [3h Ad] and won ($27.62) with two pair, Aces and Fours
+Seat 4: Dcons (big blind) showed [Jd 3d] and lost with two pair, Fours and Deuces
+
+

@@ -1,0 +1,31 @@
+PokerStars Hand #157151529123:  Hold'em Limit ($3/$6 USD) - 2016/08/11 14:42:33 ET
+Table 'Hekate' 6-max Seat #5 is the button
+Seat 3: simper11 ($151.25 in chips)
+Seat 5: crash19867 ($117 in chips)
+crash19867: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+crash19867: raises $3 to $6
+simper11: calls $3
+*** FLOP *** [8c 7d Js]
+simper11: checks
+Humtum81 leaves the table
+crash19867: bets $3
+simper11: calls $3
+*** TURN *** [8c 7d Js] [Ah]
+simper11: checks
+crash19867: checks
+*** RIVER *** [8c 7d Js Ah] [Tc]
+simper11: checks
+crash19867: checks
+*** SHOW DOWN ***
+simper11: shows [8h 5h] (a pair of Eights)
+crash19867: shows [Jd 2s] (a pair of Jacks)
+crash19867 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8c 7d Js Ah Tc]
+Seat 3: simper11 (big blind) showed [8h 5h] and lost with a pair of Eights
+Seat 5: crash19867 (button) (small blind) showed [Jd 2s] and won ($17.64) with a pair of Jacks
+
+

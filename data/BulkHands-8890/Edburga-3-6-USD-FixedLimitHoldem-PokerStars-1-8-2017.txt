@@ -1,0 +1,90 @@
+PokerStars Hand #164233784381:  Hold'em Limit ($3/$6 USD) - 2017/01/08 8:17:48 ET
+Table 'Edburga' 10-max Seat #1 is the button
+Seat 1: LifeisagameX ($84 in chips)
+Seat 8: remeks ($814.72 in chips)
+LifeisagameX: posts small blind $1
+remeks: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+remeks: calls $3
+*** FLOP *** [3h 7h 9s]
+remeks: checks
+LifeisagameX: checks
+*** TURN *** [3h 7h 9s] [Kh]
+remeks: bets $6
+LifeisagameX: calls $6
+*** RIVER *** [3h 7h 9s Kh] [8c]
+remeks: bets $6
+LifeisagameX: raises $6 to $12
+remeks: raises $6 to $18
+LifeisagameX: folds
+Uncalled bet ($6) returned to remeks
+remeks collected $47.50 from pot
+remeks: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3h 7h 9s Kh 8c]
+Seat 1: LifeisagameX (button) (small blind) folded on the River
+Seat 8: remeks (big blind) collected ($47.50)
+
+
+PokerStars Hand #164236178580:  Hold'em Limit ($3/$6 USD) - 2017/01/08 9:13:11 ET
+Table 'Edburga' 10-max Seat #10 is the button
+Seat 1: LifeisagameX ($84 in chips)
+Seat 10: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+LifeisagameX: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+LifeisagameX: calls $3
+*** FLOP *** [7c 8s 6h]
+LifeisagameX: checks
+VolkovDmitri: checks
+*** TURN *** [7c 8s 6h] [Kd]
+LifeisagameX: bets $6
+VolkovDmitri: raises $6 to $12
+LifeisagameX: calls $6
+*** RIVER *** [7c 8s 6h Kd] [Jd]
+LifeisagameX: checks
+VolkovDmitri: bets $6
+LifeisagameX: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [4s Kh] (a pair of Kings)
+LifeisagameX: mucks hand
+VolkovDmitri collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7c 8s 6h Kd Jd]
+Seat 1: LifeisagameX (big blind) mucked
+Seat 10: VolkovDmitri (button) (small blind) showed [4s Kh] and won ($47.50) with a pair of Kings
+
+
+PokerStars Hand #164236238965:  Hold'em Limit ($3/$6 USD) - 2017/01/08 9:14:31 ET
+Table 'Edburga' 10-max Seat #1 is the button
+Seat 1: LifeisagameX ($84 in chips)
+Seat 10: VolkovDmitri ($143.50 in chips)
+LifeisagameX: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [3s 6h 2d]
+VolkovDmitri: checks
+LifeisagameX: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [3s 6h 2d] [Ts]
+VolkovDmitri: checks
+LifeisagameX: checks
+*** RIVER *** [3s 6h 2d Ts] [3h]
+VolkovDmitri: checks
+LifeisagameX: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to LifeisagameX
+LifeisagameX collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3s 6h 2d Ts 3h]
+Seat 1: LifeisagameX (button) (small blind) collected ($17.64)
+Seat 10: VolkovDmitri (big blind) folded on the River
+
+

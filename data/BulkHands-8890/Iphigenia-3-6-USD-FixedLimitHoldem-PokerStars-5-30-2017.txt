@@ -1,0 +1,32 @@
+PokerStars Hand #171117211192:  Hold'em Limit ($3/$6 USD) - 2017/05/30 12:26:47 ET
+Table 'Iphigenia' 6-max Seat #1 is the button
+Seat 1: LifeisagameX ($114.14 in chips)
+Seat 5: B_loJkl ($119 in chips)
+LifeisagameX: posts small blind $1
+kolaz03: is sitting out
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+kolaz03 leaves the table
+LifeisagameX: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [8c 5c 2s]
+B_loJkl: checks
+LifeisagameX: bets $3
+B_loJkl: calls $3
+*** TURN *** [8c 5c 2s] [Ks]
+B_loJkl: checks
+LifeisagameX: checks
+*** RIVER *** [8c 5c 2s Ks] [4c]
+B_loJkl: bets $6
+LifeisagameX: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [8h Th] (a pair of Eights)
+LifeisagameX: mucks hand
+B_loJkl collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8c 5c 2s Ks 4c]
+Seat 1: LifeisagameX (button) (small blind) mucked
+Seat 5: B_loJkl (big blind) showed [8h Th] and won ($29.50) with a pair of Eights
+
+

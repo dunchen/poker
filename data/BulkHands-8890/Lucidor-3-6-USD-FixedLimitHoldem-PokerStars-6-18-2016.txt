@@ -1,0 +1,38 @@
+PokerStars Hand #154897916749:  Hold'em Limit ($3/$6 USD) - 2016/06/18 13:18:51 ET
+Table 'Lucidor' 6-max Seat #3 is the button
+Seat 3: ilcinlo ($47.88 in chips)
+Seat 6: verfubu ($44.05 in chips)
+ilcinlo: posts small blind $1
+verfubu: posts big blind $3
+*** HOLE CARDS ***
+ilcinlo: raises $3 to $6
+verfubu: raises $3 to $9
+ilcinlo: raises $3 to $12
+Betting is capped
+verfubu: calls $3
+*** FLOP *** [Js 9d 2s]
+verfubu: bets $3
+ilcinlo: raises $3 to $6
+verfubu: raises $3 to $9
+ilcinlo: raises $3 to $12
+Betting is capped
+verfubu: calls $3
+*** TURN *** [Js 9d 2s] [5d]
+verfubu: bets $6
+ilcinlo: raises $6 to $12
+verfubu: raises $6 to $18
+ilcinlo: calls $6
+*** RIVER *** [Js 9d 2s 5d] [4s]
+verfubu: bets $2.05 and is all-in
+ilcinlo: calls $2.05
+*** SHOW DOWN ***
+verfubu: shows [7s 6h] (high card Jack)
+ilcinlo: shows [Ks Ah] (high card Ace)
+ilcinlo collected $87.60 from pot
+*** SUMMARY ***
+Total pot $88.10 | Rake $0.50
+Board [Js 9d 2s 5d 4s]
+Seat 3: ilcinlo (button) (small blind) showed [Ks Ah] and won ($87.60) with high card Ace
+Seat 6: verfubu (big blind) showed [7s 6h] and lost with high card Jack
+
+

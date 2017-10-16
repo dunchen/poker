@@ -1,0 +1,48 @@
+PokerStars Hand #151149430634:  Hold'em Limit ($3/$6 USD) - 2016/03/30 0:06:10 ET
+Table 'Geisha II' 6-max Seat #4 is the button
+Seat 4: Gander NL ($30 in chips)
+Seat 5: Pandakey ($120 in chips)
+Gander NL: posts small blind $1
+Pandakey: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri joins the table at seat #6
+Gander NL: folds
+Uncalled bet ($2) returned to Pandakey
+Pandakey collected $2 from pot
+Pandakey: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: Gander NL (button) (small blind) folded before Flop
+Seat 5: Pandakey (big blind) collected ($2)
+
+
+PokerStars Hand #151149451653:  Hold'em Limit ($3/$6 USD) - 2016/03/30 0:07:26 ET
+Table 'Geisha II' 6-max Seat #6 is the button
+Seat 5: Pandakey ($120 in chips)
+Seat 6: VolkovDmitri ($148.23 in chips)
+VolkovDmitri: posts small blind $1
+Pandakey: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Pandakey: calls $3
+*** FLOP *** [9d 9c 3d]
+Gander NL leaves the table
+Pandakey: checks
+VolkovDmitri: checks
+*** TURN *** [9d 9c 3d] [Qc]
+Pandakey: checks
+VolkovDmitri: checks
+*** RIVER *** [9d 9c 3d Qc] [9h]
+Pandakey: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+Pandakey: shows [5c 6h] (three of a kind, Nines)
+VolkovDmitri: shows [2s Kh] (three of a kind, Nines - King kicker)
+VolkovDmitri collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [9d 9c 3d Qc 9h]
+Seat 5: Pandakey (big blind) showed [5c 6h] and lost with three of a kind, Nines
+Seat 6: VolkovDmitri (button) (small blind) showed [2s Kh] and won ($23.52) with three of a kind, Nines
+
+

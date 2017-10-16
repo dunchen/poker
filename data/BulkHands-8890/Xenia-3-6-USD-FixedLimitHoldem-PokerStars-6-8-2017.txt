@@ -1,0 +1,34 @@
+PokerStars Hand #171529388514:  Hold'em Limit ($3/$6 USD) - 2017/06/08 19:30:44 ET
+Table 'Xenia' 6-max Seat #3 is the button
+Seat 3: Great_Kang ($120 in chips)
+Seat 5: Bueffel ($45.35 in chips)
+Great_Kang: posts small blind $1
+belik555: is sitting out
+Bueffel: posts big blind $3
+*** HOLE CARDS ***
+belik555 leaves the table
+Great_Kang: raises $3 to $6
+Bueffel: calls $3
+*** FLOP *** [8s Ah 2h]
+Bueffel: checks
+Great_Kang: bets $3
+Bueffel: calls $3
+*** TURN *** [8s Ah 2h] [9h]
+Bueffel: bets $6
+Great_Kang: raises $6 to $12
+Bueffel: calls $6
+*** RIVER *** [8s Ah 2h 9h] [9c]
+Bueffel: checks
+Great_Kang: bets $6
+Bueffel: calls $6
+*** SHOW DOWN ***
+Great_Kang: shows [Th Qh] (a flush, Ace high)
+Bueffel: mucks hand
+Great_Kang collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [8s Ah 2h 9h 9c]
+Seat 3: Great_Kang (button) (small blind) showed [Th Qh] and won ($53.50) with a flush, Ace high
+Seat 5: Bueffel (big blind) mucked
+
+

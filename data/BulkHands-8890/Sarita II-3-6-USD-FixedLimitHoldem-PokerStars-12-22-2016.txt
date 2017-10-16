@@ -1,0 +1,62 @@
+PokerStars Hand #163336431678:  Hold'em Limit ($3/$6 USD) - 2016/12/22 8:38:16 ET
+Table 'Sarita II' 6-max Seat #1 is the button
+Seat 1: craaa ($137.50 in chips)
+Seat 2: mosrig ($185 in chips)
+craaa: posts small blind $1
+mosrig: posts big blind $3
+*** HOLE CARDS ***
+craaa: raises $3 to $6
+mosrig: calls $3
+*** FLOP *** [Ah Ks 6s]
+mosrig: checks
+craaa: bets $3
+mosrig: calls $3
+*** TURN *** [Ah Ks 6s] [Jh]
+mosrig: checks
+craaa: bets $6
+mosrig: calls $6
+*** RIVER *** [Ah Ks 6s Jh] [Jc]
+mosrig: checks
+craaa: bets $6
+mosrig: folds
+Uncalled bet ($6) returned to craaa
+craaa collected $29.50 from pot
+craaa: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ah Ks 6s Jh Jc]
+Seat 1: craaa (button) (small blind) collected ($29.50)
+Seat 2: mosrig (big blind) folded on the River
+
+
+PokerStars Hand #163336411836:  Hold'em Limit ($3/$6 USD) - 2016/12/22 8:37:44 ET
+Table 'Sarita II' 6-max Seat #2 is the button
+Seat 1: craaa ($120 in chips)
+Seat 2: mosrig ($203 in chips)
+mosrig: posts small blind $1
+AzureCaper: is sitting out
+craaa: posts big blind $3
+*** HOLE CARDS ***
+mosrig: raises $3 to $6
+craaa: calls $3
+*** FLOP *** [7c 5h 6d]
+craaa: checks
+mosrig: bets $3
+craaa: raises $3 to $6
+mosrig: calls $3
+*** TURN *** [7c 5h 6d] [4c]
+craaa: bets $6
+mosrig: calls $6
+*** RIVER *** [7c 5h 6d 4c] [Js]
+craaa: bets $6
+mosrig: folds
+Uncalled bet ($6) returned to craaa
+craaa collected $35.50 from pot
+craaa: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [7c 5h 6d 4c Js]
+Seat 1: craaa (big blind) collected ($35.50)
+Seat 2: mosrig (button) (small blind) folded on the River
+
+

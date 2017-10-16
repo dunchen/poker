@@ -1,0 +1,123 @@
+PokerStars Hand #165394938306:  Hold'em Limit ($3/$6 USD) - 2017/01/30 5:17:26 ET
+Table 'Lysithea' 6-max Seat #3 is the button
+Seat 3: lelala ($120 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+lelala: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+lelala: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Ks 8d As]
+VolkovDmitri: checks
+lelala: bets $3
+VolkovDmitri: raises $3 to $6
+lelala: raises $3 to $9
+VolkovDmitri: folds
+Uncalled bet ($3) returned to lelala
+lelala collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Ks 8d As]
+Seat 3: lelala (button) (small blind) collected ($23.52)
+Seat 4: VolkovDmitri (big blind) folded on the Flop
+
+
+PokerStars Hand #165394960362:  Hold'em Limit ($3/$6 USD) - 2017/01/30 5:18:20 ET
+Table 'Lysithea' 6-max Seat #3 is the button
+Seat 3: lelala ($128.52 in chips)
+Seat 4: VolkovDmitri ($123 in chips)
+lelala: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+lelala: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [4h 2s 6s]
+VolkovDmitri: bets $3
+lelala: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+lelala: raises $3 to $12
+Betting is capped
+VolkovDmitri: calls $3
+*** TURN *** [4h 2s 6s] [Jh]
+VolkovDmitri: checks
+lelala: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [4h 2s 6s Jh] [Jd]
+VolkovDmitri: checks
+lelala: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to lelala
+lelala collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4h 2s 6s Jh Jd]
+Seat 3: lelala (button) (small blind) collected ($47.50)
+Seat 4: VolkovDmitri (big blind) folded on the River
+
+
+PokerStars Hand #165394956550:  Hold'em Limit ($3/$6 USD) - 2017/01/30 5:18:10 ET
+Table 'Lysithea' 6-max Seat #4 is the button
+Seat 3: lelala ($131.52 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+lelala: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+lelala: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: lelala (big blind) folded before Flop
+Seat 4: VolkovDmitri (button) (small blind) collected ($6)
+
+
+PokerStars Hand #165394982222:  Hold'em Limit ($3/$6 USD) - 2017/01/30 5:19:13 ET
+Table 'Lysithea' 6-max Seat #3 is the button
+Seat 3: lelala ($175.52 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+lelala: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+lelala: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: lelala (button) (small blind) folded before Flop
+Seat 4: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #165394971542:  Hold'em Limit ($3/$6 USD) - 2017/01/30 5:18:47 ET
+Table 'Lysithea' 6-max Seat #4 is the button
+Seat 3: lelala ($152.02 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+lelala: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+lelala: calls $3
+*** FLOP *** [4d 2d 7d]
+lelala: checks
+VolkovDmitri: bets $3
+lelala: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [4d 2d 7d] [8s]
+lelala: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [4d 2d 7d 8s] [5d]
+lelala: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+lelala: shows [Jh Qd] (a flush, Queen high)
+VolkovDmitri: mucks hand
+lelala collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4d 2d 7d 8s 5d]
+Seat 3: lelala (big blind) showed [Jh Qd] and won ($47.50) with a flush, Queen high
+Seat 4: VolkovDmitri (button) (small blind) mucked
+
+

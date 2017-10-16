@@ -1,0 +1,52 @@
+PokerStars Hand #147838410797:  Hold'em Limit ($3/$6 USD) - 2016/01/28 15:35:21 ET
+Table 'Magdalena II' 6-max Seat #3 is the button
+Seat 3: julenchu ($302.94 in chips)
+Seat 5: BelSv ($134.28 in chips)
+julenchu: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+julenchu: raises $3 to $6
+BelSv: raises $3 to $9
+julenchu: calls $3
+*** FLOP *** [6s Kc Js]
+BelSv: bets $3
+julenchu: calls $3
+*** TURN *** [6s Kc Js] [Jh]
+BelSv: checks
+julenchu: checks
+*** RIVER *** [6s Kc Js Jh] [Jd]
+BelSv: checks
+julenchu: checks
+*** SHOW DOWN ***
+BelSv: shows [Qc Ad] (three of a kind, Jacks)
+julenchu: shows [2h As] (three of a kind, Jacks)
+BelSv collected $11.76 from pot
+julenchu collected $11.76 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [6s Kc Js Jh Jd]
+Seat 3: julenchu (button) (small blind) showed [2h As] and won ($11.76) with three of a kind, Jacks
+Seat 5: BelSv (big blind) showed [Qc Ad] and won ($11.76) with three of a kind, Jacks
+
+
+PokerStars Hand #147838400291:  Hold'em Limit ($3/$6 USD) - 2016/01/28 15:35:11 ET
+Table 'Magdalena II' 6-max Seat #5 is the button
+Seat 3: julenchu ($305.94 in chips)
+Seat 5: BelSv ($131.28 in chips)
+BelSv: posts small blind $1
+SashaYuvelir: is sitting out
+VolkovDmitri: is sitting out
+julenchu: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+julenchu: folds
+Uncalled bet ($3) returned to BelSv
+VolkovDmitri leaves the table
+BelSv collected $6 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: julenchu (big blind) folded before Flop
+Seat 5: BelSv (button) (small blind) collected ($6)
+
+

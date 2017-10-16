@@ -1,0 +1,31 @@
+PokerStars Hand #162374281635:  Hold'em Limit ($3/$6 USD) - 2016/12/03 20:27:28 ET
+Table 'Phocaea' 6-max Seat #6 is the button
+Seat 3: Pandakey ($98.41 in chips)
+Seat 6: Chessnok ($204.18 in chips)
+Chessnok: posts small blind $1
+Pandakey: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+Pandakey: calls $3
+*** FLOP *** [8s Kh 7c]
+Pandakey: checks
+Chessnok: bets $3
+Pandakey: calls $3
+*** TURN *** [8s Kh 7c] [Td]
+Pandakey: checks
+Chessnok: bets $6
+Pandakey: calls $6
+*** RIVER *** [8s Kh 7c Td] [4h]
+Pandakey: checks
+Chessnok: checks
+*** SHOW DOWN ***
+Pandakey: shows [Ad Qs] (high card Ace)
+Chessnok: mucks hand
+Pandakey collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8s Kh 7c Td 4h]
+Seat 3: Pandakey (big blind) showed [Ad Qs] and won ($29.50) with high card Ace
+Seat 6: Chessnok (button) (small blind) mucked
+
+

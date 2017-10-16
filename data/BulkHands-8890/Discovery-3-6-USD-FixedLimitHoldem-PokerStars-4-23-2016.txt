@@ -1,0 +1,65 @@
+PokerStars Hand #152338030300:  Hold'em Limit ($3/$6 USD) - 2016/04/23 14:30:14 ET
+Table 'Discovery' 10-max Seat #1 is the button
+Seat 1: GRAILKO ($200 in chips)
+Seat 10: SACHAVT ($30 in chips)
+GoliafUa: is sitting out
+GRAILKO: posts small blind $1
+SACHAVT: posts big blind $3
+*** HOLE CARDS ***
+GRAILKO: raises $3 to $6
+Pelurile joins the table at seat #2
+SACHAVT: calls $3
+*** FLOP *** [8h 6c 7s]
+SACHAVT: checks
+GRAILKO: bets $3
+SACHAVT: calls $3
+*** TURN *** [8h 6c 7s] [Qs]
+SACHAVT: checks
+GRAILKO: bets $6
+SACHAVT: raises $6 to $12
+GRAILKO: calls $6
+*** RIVER *** [8h 6c 7s Qs] [2d]
+SACHAVT: bets $6
+GRAILKO: folds
+Uncalled bet ($6) returned to SACHAVT
+SACHAVT collected $41.50 from pot
+SACHAVT: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [8h 6c 7s Qs 2d]
+Seat 1: GRAILKO (button) (small blind) folded on the River
+Seat 10: SACHAVT (big blind) collected ($41.50)
+
+
+PokerStars Hand #152338059317:  Hold'em Limit ($3/$6 USD) - 2016/04/23 14:30:50 ET
+Table 'Discovery' 10-max Seat #10 is the button
+Seat 1: GRAILKO ($179 in chips)
+Seat 10: SACHAVT ($50.50 in chips)
+SACHAVT: posts small blind $1
+GRAILKO: posts big blind $3
+*** HOLE CARDS ***
+SACHAVT: raises $3 to $6
+GRAILKO: calls $3
+*** FLOP *** [3d 2d Td]
+GRAILKO: checks
+SACHAVT: bets $3
+GRAILKO: calls $3
+*** TURN *** [3d 2d Td] [7h]
+GRAILKO: checks
+SACHAVT: bets $6
+GRAILKO: calls $6
+*** RIVER *** [3d 2d Td 7h] [5d]
+GRAILKO: checks
+SACHAVT: bets $6
+GRAILKO: calls $6
+*** SHOW DOWN ***
+SACHAVT: shows [Kc 9h] (high card King)
+GRAILKO: shows [Qc 6d] (a flush, Ten high)
+GRAILKO collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [3d 2d Td 7h 5d]
+Seat 1: GRAILKO (big blind) showed [Qc 6d] and won ($41.50) with a flush, Ten high
+Seat 10: SACHAVT (button) (small blind) showed [Kc 9h] and lost with high card King
+
+

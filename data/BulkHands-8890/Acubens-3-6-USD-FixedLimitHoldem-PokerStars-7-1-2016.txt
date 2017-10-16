@@ -1,0 +1,55 @@
+PokerStars Hand #155446184022:  Hold'em Limit ($3/$6 USD) - 2016/07/01 19:23:28 ET
+Table 'Acubens' 10-max Seat #10 is the button
+Seat 5: simper11 ($120 in chips)
+Seat 10: thejoycer ($110.87 in chips)
+thejoycer: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+thejoycer: calls $2
+simper11: checks
+*** FLOP *** [7s 6h Ts]
+Masqb joins the table at seat #1
+simper11: checks
+thejoycer: bets $3
+simper11: calls $3
+*** TURN *** [7s 6h Ts] [5h]
+simper11: checks
+thejoycer: bets $6
+simper11: calls $6
+*** RIVER *** [7s 6h Ts 5h] [2d]
+simper11: checks
+thejoycer: bets $6
+simper11: calls $6
+*** SHOW DOWN ***
+thejoycer: shows [7d Kc] (a pair of Sevens)
+simper11: mucks hand
+thejoycer collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [7s 6h Ts 5h 2d]
+Seat 5: simper11 (big blind) mucked
+Seat 10: thejoycer (button) (small blind) showed [7d Kc] and won ($35.50) with a pair of Sevens
+
+
+PokerStars Hand #155446192837:  Hold'em Limit ($3/$6 USD) - 2016/07/01 19:23:43 ET
+Table 'Acubens' 10-max Seat #5 is the button
+Seat 5: simper11 ($120 in chips)
+Seat 10: thejoycer ($128.37 in chips)
+simper11: posts small blind $1
+thejoycer: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+thejoycer: raises $3 to $9
+simper11: calls $3
+*** FLOP *** [Ks 8h 7h]
+thejoycer: bets $3
+simper11: folds
+Uncalled bet ($3) returned to thejoycer
+thejoycer collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ks 8h 7h]
+Seat 5: simper11 (button) (small blind) folded on the Flop
+Seat 10: thejoycer (big blind) collected ($17.64)
+
+

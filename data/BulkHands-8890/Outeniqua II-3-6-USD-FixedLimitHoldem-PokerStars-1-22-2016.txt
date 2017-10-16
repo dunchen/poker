@@ -1,0 +1,30 @@
+PokerStars Hand #147483318913:  Hold'em Limit ($3/$6 USD) - 2016/01/22 11:39:32 ET
+Table 'Outeniqua II' 6-max Seat #4 is the button
+Seat 1: Gin777 ($69.33 in chips)
+Seat 4: belik555 ($124.17 in chips)
+belik555: posts small blind $1
+Gin777: posts big blind $3
+*** HOLE CARDS ***
+belik555: raises $3 to $6
+Gin777: calls $3
+*** FLOP *** [7h 2c 3h]
+Gin777: checks
+belik555: checks
+*** TURN *** [7h 2c 3h] [9s]
+Gin777: bets $6
+belik555: calls $6
+*** RIVER *** [7h 2c 3h 9s] [Kc]
+Gin777: checks
+belik555: bets $6
+Gin777: calls $6
+*** SHOW DOWN ***
+belik555: shows [Td 9h] (a pair of Nines)
+Gin777: mucks hand
+belik555 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [7h 2c 3h 9s Kc]
+Seat 1: Gin777 (big blind) mucked
+Seat 4: belik555 (button) (small blind) showed [Td 9h] and won ($35.50) with a pair of Nines
+
+

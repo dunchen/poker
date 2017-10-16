@@ -1,0 +1,53 @@
+PokerStars Hand #145538819750:  Hold'em Limit ($3/$6 USD) - 2015/12/18 13:04:59 ET
+Table 'Euanthe III' 6-max Seat #3 is the button
+Seat 3: Oxm0x ($7.29 in chips)
+Seat 4: BuzovaPro ($110 in chips)
+Oxm0x: posts small blind $1
+BuzovaPro: posts big blind $3
+*** HOLE CARDS ***
+Oxm0x: raises $3 to $6
+BuzovaPro: calls $3
+*** FLOP *** [3h 9h 9d]
+BuzovaPro: checks
+Oxm0x: bets $1.29 and is all-in
+BuzovaPro: calls $1.29
+*** TURN *** [3h 9h 9d] [Qc]
+*** RIVER *** [3h 9h 9d Qc] [Ks]
+*** SHOW DOWN ***
+BuzovaPro: shows [4s Js] (a pair of Nines)
+Oxm0x: shows [8h Ah] (a pair of Nines - Ace kicker)
+Oxm0x collected $14.29 from pot
+*** SUMMARY ***
+Total pot $14.58 | Rake $0.29
+Board [3h 9h 9d Qc Ks]
+Seat 3: Oxm0x (button) (small blind) showed [8h Ah] and won ($14.29) with a pair of Nines
+Seat 4: BuzovaPro (big blind) showed [4s Js] and lost with a pair of Nines
+
+
+PokerStars Hand #145538831472:  Hold'em Limit ($3/$6 USD) - 2015/12/18 13:05:12 ET
+Table 'Euanthe III' 6-max Seat #4 is the button
+Seat 3: Oxm0x ($14.29 in chips)
+Seat 4: BuzovaPro ($102.71 in chips)
+BuzovaPro: posts small blind $1
+Oxm0x: posts big blind $3
+*** HOLE CARDS ***
+BuzovaPro: raises $3 to $6
+Oxm0x: calls $3
+*** FLOP *** [5d Kh 6h]
+Oxm0x: bets $3
+BuzovaPro: calls $3
+*** TURN *** [5d Kh 6h] [As]
+Oxm0x: bets $5.29 and is all-in
+BuzovaPro: calls $5.29
+*** RIVER *** [5d Kh 6h As] [7h]
+*** SHOW DOWN ***
+Oxm0x: shows [7c 8s] (a pair of Sevens)
+BuzovaPro: shows [Kd 3s] (a pair of Kings)
+BuzovaPro collected $28.08 from pot
+*** SUMMARY ***
+Total pot $28.58 | Rake $0.50
+Board [5d Kh 6h As 7h]
+Seat 3: Oxm0x (big blind) showed [7c 8s] and lost with a pair of Sevens
+Seat 4: BuzovaPro (button) (small blind) showed [Kd 3s] and won ($28.08) with a pair of Kings
+
+

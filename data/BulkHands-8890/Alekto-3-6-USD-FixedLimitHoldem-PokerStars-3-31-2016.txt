@@ -1,0 +1,261 @@
+PokerStars Hand #151240400298:  Hold'em Limit ($3/$6 USD) - 2016/03/31 18:16:50 ET
+Table 'Alekto' 6-max Seat #3 is the button
+Seat 3: buddhasway ($120 in chips)
+Seat 4: BuzovaPro ($72 in chips)
+buddhasway: posts small blind $1
+BuzovaPro: posts big blind $3
+*** HOLE CARDS ***
+buddhasway: calls $2
+BuzovaPro: checks
+*** FLOP *** [Tc Qh 8h]
+BuzovaPro: checks
+buddhasway: checks
+*** TURN *** [Tc Qh 8h] [Ts]
+BuzovaPro: bets $6
+buddhasway: calls $6
+*** RIVER *** [Tc Qh 8h Ts] [5h]
+BuzovaPro: bets $6
+buddhasway: folds
+Uncalled bet ($6) returned to BuzovaPro
+BuzovaPro collected $17.64 from pot
+BuzovaPro: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Tc Qh 8h Ts 5h]
+Seat 3: buddhasway (button) (small blind) folded on the River
+Seat 4: BuzovaPro (big blind) collected ($17.64)
+
+
+PokerStars Hand #151240422002:  Hold'em Limit ($3/$6 USD) - 2016/03/31 18:17:15 ET
+Table 'Alekto' 6-max Seat #4 is the button
+Seat 3: buddhasway ($111 in chips)
+Seat 4: BuzovaPro ($80.64 in chips)
+BuzovaPro: posts small blind $1
+buddhasway: posts big blind $3
+*** HOLE CARDS ***
+BuzovaPro: raises $3 to $6
+buddhasway: calls $3
+*** FLOP *** [Jd 7h 5h]
+buddhasway: bets $3
+BuzovaPro: calls $3
+*** TURN *** [Jd 7h 5h] [Ad]
+buddhasway: checks
+BuzovaPro: checks
+*** RIVER *** [Jd 7h 5h Ad] [Ks]
+buddhasway: checks
+BuzovaPro: bets $6
+buddhasway: folds
+Uncalled bet ($6) returned to BuzovaPro
+BuzovaPro collected $17.64 from pot
+BuzovaPro: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Jd 7h 5h Ad Ks]
+Seat 3: buddhasway (big blind) folded on the River
+Seat 4: BuzovaPro (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #151240450381:  Hold'em Limit ($3/$6 USD) - 2016/03/31 18:17:49 ET
+Table 'Alekto' 6-max Seat #3 is the button
+Seat 3: buddhasway ($102 in chips)
+Seat 4: BuzovaPro ($89.28 in chips)
+buddhasway: posts small blind $1
+BuzovaPro: posts big blind $3
+*** HOLE CARDS ***
+buddhasway: raises $3 to $6
+BuzovaPro: calls $3
+*** FLOP *** [As 3s 3h]
+BuzovaPro: checks
+buddhasway: bets $3
+edweirdodude joins the table at seat #6
+BuzovaPro: calls $3
+*** TURN *** [As 3s 3h] [6c]
+BuzovaPro: checks
+buddhasway: bets $6
+BuzovaPro: calls $6
+*** RIVER *** [As 3s 3h 6c] [5s]
+BuzovaPro: checks
+buddhasway: bets $6
+BuzovaPro: raises $6 to $12
+buddhasway: calls $6
+*** SHOW DOWN ***
+BuzovaPro: shows [9s Ts] (a flush, Ace high)
+buddhasway: mucks hand
+BuzovaPro collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [As 3s 3h 6c 5s]
+Seat 3: buddhasway (button) (small blind) mucked
+Seat 4: BuzovaPro (big blind) showed [9s Ts] and won ($53.50) with a flush, Ace high
+
+
+PokerStars Hand #151242159751:  Hold'em Limit ($3/$6 USD) - 2016/03/31 18:53:48 ET
+Table 'Alekto' 6-max Seat #2 is the button
+Seat 2: Chessnok ($103.23 in chips)
+Seat 6: hollholla ($172.28 in chips)
+Chessnok: posts small blind $1
+vestimokrec: is sitting out
+hollholla: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: folds
+Uncalled bet ($2) returned to hollholla
+hollholla collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: Chessnok (button) (small blind) folded before Flop
+Seat 6: hollholla (big blind) collected ($2)
+
+
+PokerStars Hand #151242186007:  Hold'em Limit ($3/$6 USD) - 2016/03/31 18:54:23 ET
+Table 'Alekto' 6-max Seat #2 is the button
+Seat 2: Chessnok ($87.23 in chips)
+Seat 3: De_Gaffer ($55.48 in chips)
+Chessnok: posts small blind $1
+De_Gaffer: posts big blind $3
+*** HOLE CARDS ***
+hollholla leaves the table
+Chessnok: raises $3 to $6
+De_Gaffer: raises $3 to $9
+Chessnok: calls $3
+*** FLOP *** [4s Jd 6d]
+De_Gaffer: bets $3
+vestimokrec leaves the table
+Chessnok: calls $3
+*** TURN *** [4s Jd 6d] [Kd]
+De_Gaffer: checks
+Chessnok: checks
+*** RIVER *** [4s Jd 6d Kd] [4h]
+De_Gaffer: checks
+Chessnok: bets $6
+De_Gaffer: calls $6
+*** SHOW DOWN ***
+Chessnok: shows [7h 7c] (two pair, Sevens and Fours)
+De_Gaffer: mucks hand
+Chessnok collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [4s Jd 6d Kd 4h]
+Seat 2: Chessnok (button) (small blind) showed [7h 7c] and won ($35.50) with two pair, Sevens and Fours
+Seat 3: De_Gaffer (big blind) mucked
+
+
+PokerStars Hand #151242164058:  Hold'em Limit ($3/$6 USD) - 2016/03/31 18:53:54 ET
+Table 'Alekto' 6-max Seat #6 is the button
+Seat 2: Chessnok ($102.23 in chips)
+Seat 6: hollholla ($173.28 in chips)
+hollholla: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+hollholla: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [5s 9c 4c]
+Chessnok: checks
+hollholla: bets $3
+Chessnok: calls $3
+*** TURN *** [5s 9c 4c] [2h]
+Chessnok: checks
+hollholla: checks
+*** RIVER *** [5s 9c 4c 2h] [Jh]
+De_Gaffer joins the table at seat #3
+Chessnok: bets $6
+hollholla: calls $6
+*** SHOW DOWN ***
+Chessnok: shows [As 2s] (a pair of Deuces)
+hollholla: shows [Qh 4s] (a pair of Fours)
+hollholla collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5s 9c 4c 2h Jh]
+Seat 2: Chessnok (big blind) showed [As 2s] and lost with a pair of Deuces
+Seat 6: hollholla (button) (small blind) showed [Qh 4s] and won ($29.50) with a pair of Fours
+
+
+PokerStars Hand #151242228572:  Hold'em Limit ($3/$6 USD) - 2016/03/31 18:55:24 ET
+Table 'Alekto' 6-max Seat #2 is the button
+Seat 2: Chessnok ($113.37 in chips)
+Seat 3: De_Gaffer ($28.48 in chips)
+Chessnok: posts small blind $1
+De_Gaffer: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+De_Gaffer: calls $3
+*** FLOP *** [Ac Td 7c]
+De_Gaffer: checks
+Chessnok: bets $3
+De_Gaffer: calls $3
+*** TURN *** [Ac Td 7c] [2h]
+De_Gaffer: checks
+Chessnok: checks
+*** RIVER *** [Ac Td 7c 2h] [9d]
+De_Gaffer: checks
+Chessnok: checks
+*** SHOW DOWN ***
+De_Gaffer: shows [3h 3d] (a pair of Threes)
+Chessnok: mucks hand
+De_Gaffer collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ac Td 7c 2h 9d]
+Seat 2: Chessnok (button) (small blind) mucked
+Seat 3: De_Gaffer (big blind) showed [3h 3d] and won ($17.64) with a pair of Threes
+
+
+PokerStars Hand #151242209108:  Hold'em Limit ($3/$6 USD) - 2016/03/31 18:54:55 ET
+Table 'Alekto' 6-max Seat #3 is the button
+Seat 2: Chessnok ($104.73 in chips)
+Seat 3: De_Gaffer ($37.48 in chips)
+De_Gaffer: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+De_Gaffer: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [Qs 4s 3h]
+Chessnok: checks
+De_Gaffer: bets $3
+Chessnok: calls $3
+*** TURN *** [Qs 4s 3h] [5d]
+Chessnok: checks
+De_Gaffer: checks
+*** RIVER *** [Qs 4s 3h 5d] [Tc]
+Chessnok: bets $6
+De_Gaffer: folds
+Uncalled bet ($6) returned to Chessnok
+Chessnok collected $17.64 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qs 4s 3h 5d Tc]
+Seat 2: Chessnok (big blind) collected ($17.64)
+Seat 3: De_Gaffer (button) (small blind) folded on the River
+
+
+PokerStars Hand #151243304108:  Hold'em Limit ($3/$6 USD) - 2016/03/31 19:21:40 ET
+Table 'Alekto' 6-max Seat #6 is the button
+Seat 5: Mrsg124 ($215.27 in chips)
+Seat 6: vestimokrec ($144.73 in chips)
+vestimokrec: posts small blind $1
+anetkaapro: is sitting out
+Chessnok: is sitting out
+Mrsg124: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+Mrsg124: calls $3
+*** FLOP *** [9d 3c 7h]
+Mrsg124: checks
+vestimokrec: bets $3
+Mrsg124: raises $3 to $6
+BuzovaPro leaves the table
+vestimokrec: calls $3
+*** TURN *** [9d 3c 7h] [3d]
+Mrsg124: bets $6
+vestimokrec: folds
+Uncalled bet ($6) returned to Mrsg124
+Mrsg124 collected $23.52 from pot
+Mrsg124: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [9d 3c 7h 3d]
+Seat 5: Mrsg124 (big blind) collected ($23.52)
+Seat 6: vestimokrec (button) (small blind) folded on the Turn
+
+

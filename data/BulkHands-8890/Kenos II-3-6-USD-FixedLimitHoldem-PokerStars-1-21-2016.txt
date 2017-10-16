@@ -1,0 +1,32 @@
+PokerStars Hand #147411596173:  Hold'em Limit ($3/$6 USD) - 2016/01/21 5:36:57 ET
+Table 'Kenos II' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 2: jiajia88 ($34.17 in chips)
+kolaz03 joins the table at seat #3
+VolkovDmitri: posts small blind $1
+jiajia88: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+jiajia88: calls $3
+*** FLOP *** [Kc Js 2c]
+jiajia88: checks
+VolkovDmitri: bets $3
+jiajia88: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [Kc Js 2c] [Jc]
+jiajia88: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [Kc Js 2c Jc] [Td]
+jiajia88: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+jiajia88: shows [4c Jh] (three of a kind, Jacks)
+VolkovDmitri: mucks hand
+jiajia88 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Kc Js 2c Jc Td]
+Seat 1: VolkovDmitri (button) (small blind) mucked
+Seat 2: jiajia88 (big blind) showed [4c Jh] and won ($47.50) with three of a kind, Jacks
+
+

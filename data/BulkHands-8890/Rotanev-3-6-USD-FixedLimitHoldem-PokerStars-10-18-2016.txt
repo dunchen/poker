@@ -1,0 +1,89 @@
+PokerStars Hand #160094068604:  Hold'em Limit ($3/$6 USD) - 2016/10/18 5:52:05 ET
+Table 'Rotanev' 6-max Seat #5 is the button
+Seat 3: a.v.kopli ($38.51 in chips)
+Seat 5: Kees123 ($174.51 in chips)
+Kees123: posts small blind $1
+Kasperla: is sitting out
+a.v.kopli: posts big blind $3
+*** HOLE CARDS ***
+Kees123: raises $3 to $6
+a.v.kopli: calls $3
+*** FLOP *** [Kh Kc Ks]
+a.v.kopli: checks
+Kees123: bets $3
+a.v.kopli: calls $3
+*** TURN *** [Kh Kc Ks] [7c]
+a.v.kopli: checks
+Kees123: bets $6
+a.v.kopli: folds
+Uncalled bet ($6) returned to Kees123
+Kees123 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kh Kc Ks 7c]
+Seat 3: a.v.kopli (big blind) folded on the Turn
+Seat 5: Kees123 (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #160094081291:  Hold'em Limit ($3/$6 USD) - 2016/10/18 5:52:38 ET
+Table 'Rotanev' 6-max Seat #3 is the button
+Seat 3: a.v.kopli ($29.51 in chips)
+Seat 5: Kees123 ($183.15 in chips)
+a.v.kopli: posts small blind $1
+Kees123: posts big blind $3
+*** HOLE CARDS ***
+a.v.kopli: raises $3 to $6
+Kees123: raises $3 to $9
+a.v.kopli: raises $3 to $12
+Betting is capped
+hoguro joins the table at seat #1
+Kees123: calls $3
+*** FLOP *** [6d 6s 8d]
+Kees123: checks
+a.v.kopli: bets $3
+Kees123: calls $3
+*** TURN *** [6d 6s 8d] [3h]
+Kees123: checks
+a.v.kopli: bets $6
+Kees123: folds
+Uncalled bet ($6) returned to a.v.kopli
+a.v.kopli collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6d 6s 8d 3h]
+Seat 3: a.v.kopli (button) (small blind) collected ($29.50)
+Seat 5: Kees123 (big blind) folded on the Turn
+
+
+PokerStars Hand #160094822342:  Hold'em Limit ($3/$6 USD) - 2016/10/18 6:24:44 ET
+Table 'Rotanev' 6-max Seat #6 is the button
+Seat 5: Kees123 ($143.96 in chips)
+Seat 6: Kasperla ($364.85 in chips)
+Kasperla: posts small blind $1
+ABATAPP: is sitting out
+Kees123: posts big blind $3
+*** HOLE CARDS ***
+Kasperla: raises $3 to $6
+Kees123: calls $3
+*** FLOP *** [4d 5d Td]
+ABATAPP leaves the table
+Kees123: checks
+Kasperla: bets $3
+Kees123: calls $3
+*** TURN *** [4d 5d Td] [5c]
+Kees123: checks
+Kasperla: checks
+*** RIVER *** [4d 5d Td 5c] [8c]
+Kees123: checks
+Kasperla: bets $6
+Kees123: folds
+Uncalled bet ($6) returned to Kasperla
+Kasperla collected $17.64 from pot
+Kasperla: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4d 5d Td 5c 8c]
+Seat 5: Kees123 (big blind) folded on the River
+Seat 6: Kasperla (button) (small blind) collected ($17.64)
+
+

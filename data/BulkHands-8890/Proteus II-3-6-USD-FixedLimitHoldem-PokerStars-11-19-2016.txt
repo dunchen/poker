@@ -1,0 +1,966 @@
+PokerStars Hand #161658231889:  Hold'em Limit ($3/$6 USD) - 2016/11/19 16:59:05 ET
+Table 'Proteus II' 6-max Seat #3 is the button
+Seat 2: baddores ($13.78 in chips)
+Seat 3: melayDIN ($360.26 in chips)
+melayDIN: posts small blind $1
+baddores: posts big blind $3
+*** HOLE CARDS ***
+melayDIN: calls $2
+baddores: checks
+*** FLOP *** [Ad 9c 2d]
+baddores: checks
+melayDIN: checks
+*** TURN *** [Ad 9c 2d] [Ac]
+baddores: checks
+melayDIN: checks
+*** RIVER *** [Ad 9c 2d Ac] [5s]
+baddores: checks
+melayDIN: checks
+*** SHOW DOWN ***
+baddores: shows [7s 6h] (a pair of Aces)
+melayDIN: shows [3h 5h] (two pair, Aces and Fives)
+melayDIN collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Ad 9c 2d Ac 5s]
+Seat 2: baddores (big blind) showed [7s 6h] and lost with a pair of Aces
+Seat 3: melayDIN (button) (small blind) showed [3h 5h] and won ($5.88) with two pair, Aces and Fives
+
+
+PokerStars Hand #161658212543:  Hold'em Limit ($3/$6 USD) - 2016/11/19 16:58:37 ET
+Table 'Proteus II' 6-max Seat #2 is the button
+Seat 2: baddores ($34.78 in chips)
+Seat 3: melayDIN ($339.76 in chips)
+baddores: posts small blind $1
+melayDIN: posts big blind $3
+*** HOLE CARDS ***
+baddores: raises $3 to $6
+melayDIN: calls $3
+*** FLOP *** [5s Qs 2d]
+melayDIN: checks
+baddores: bets $3
+melayDIN: calls $3
+*** TURN *** [5s Qs 2d] [As]
+melayDIN: checks
+baddores: bets $6
+melayDIN: calls $6
+*** RIVER *** [5s Qs 2d As] [7d]
+melayDIN: checks
+baddores: bets $6
+melayDIN: calls $6
+*** SHOW DOWN ***
+baddores: shows [Jd 4c] (high card Ace)
+melayDIN: shows [8h Kh] (high card Ace - King kicker)
+melayDIN collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [5s Qs 2d As 7d]
+Seat 2: baddores (button) (small blind) showed [Jd 4c] and lost with high card Ace
+Seat 3: melayDIN (big blind) showed [8h Kh] and won ($41.50) with high card Ace
+
+
+PokerStars Hand #161658245006:  Hold'em Limit ($3/$6 USD) - 2016/11/19 16:59:24 ET
+Table 'Proteus II' 6-max Seat #2 is the button
+Seat 2: baddores ($10.78 in chips)
+Seat 3: melayDIN ($363.14 in chips)
+baddores: posts small blind $1
+melayDIN: posts big blind $3
+*** HOLE CARDS ***
+baddores: raises $3 to $6
+melayDIN: raises $3 to $9
+baddores: raises $1.78 to $10.78 and is all-in
+Betting is capped
+melayDIN: calls $1.78
+*** FLOP *** [3c Kd Jd]
+*** TURN *** [3c Kd Jd] [As]
+*** RIVER *** [3c Kd Jd As] [4h]
+*** SHOW DOWN ***
+melayDIN: shows [3s 3h] (three of a kind, Threes)
+baddores: shows [Qs 6d] (high card Ace)
+melayDIN collected $21.13 from pot
+*** SUMMARY ***
+Total pot $21.56 | Rake $0.43
+Board [3c Kd Jd As 4h]
+Seat 2: baddores (button) (small blind) showed [Qs 6d] and lost with high card Ace
+Seat 3: melayDIN (big blind) showed [3s 3h] and won ($21.13) with three of a kind, Threes
+
+
+PokerStars Hand #161661475149:  Hold'em Limit ($3/$6 USD) - 2016/11/19 18:05:01 ET
+Table 'Proteus II' 6-max Seat #6 is the button
+Seat 5: Pandakey ($119 in chips)
+Seat 6: Brama Br ($121 in chips)
+Brama Br: posts small blind $1
+Pandakey: posts big blind $3
+*** HOLE CARDS ***
+Brama Br: calls $2
+Pandakey: raises $3 to $6
+Brama Br: calls $3
+*** FLOP *** [9d 2h 2d]
+Pandakey: bets $3
+Brama Br: calls $3
+*** TURN *** [9d 2h 2d] [Ts]
+Pandakey: bets $6
+Brama Br: calls $6
+*** RIVER *** [9d 2h 2d Ts] [5d]
+Pandakey: bets $6
+Brama Br: calls $6
+*** SHOW DOWN ***
+Pandakey: shows [Td Qd] (a flush, Queen high)
+Brama Br: mucks hand
+Pandakey collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9d 2h 2d Ts 5d]
+Seat 5: Pandakey (big blind) showed [Td Qd] and won ($41.50) with a flush, Queen high
+Seat 6: Brama Br (button) (small blind) mucked
+
+
+PokerStars Hand #161661497448:  Hold'em Limit ($3/$6 USD) - 2016/11/19 18:05:28 ET
+Table 'Proteus II' 6-max Seat #5 is the button
+Seat 5: Pandakey ($139.50 in chips)
+Seat 6: Brama Br ($100 in chips)
+Pandakey: posts small blind $1
+Brama Br: posts big blind $3
+*** HOLE CARDS ***
+Pandakey: raises $3 to $6
+Brama Br: raises $3 to $9
+Pandakey: calls $3
+*** FLOP *** [Qc Td 5d]
+Brama Br: bets $3
+Pandakey: calls $3
+*** TURN *** [Qc Td 5d] [6h]
+Brama Br: bets $6
+Pandakey: calls $6
+*** RIVER *** [Qc Td 5d 6h] [7s]
+Brama Br: bets $6
+Pandakey: calls $6
+*** SHOW DOWN ***
+Brama Br: shows [As Th] (a pair of Tens)
+Pandakey: mucks hand
+Brama Br collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Qc Td 5d 6h 7s]
+Seat 5: Pandakey (button) (small blind) mucked
+Seat 6: Brama Br (big blind) showed [As Th] and won ($47.50) with a pair of Tens
+
+
+PokerStars Hand #161663564883:  Hold'em Limit ($3/$6 USD) - 2016/11/19 18:51:49 ET
+Table 'Proteus II' 6-max Seat #3 is the button
+Seat 3: halicpac ($126.69 in chips)
+Seat 4: Koraseg ($36.09 in chips)
+halicpac: posts small blind $1
+Koraseg: posts big blind $3
+*** HOLE CARDS ***
+halicpac: raises $3 to $6
+Koraseg: folds
+Uncalled bet ($3) returned to halicpac
+halicpac collected $6 from pot
+halicpac: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: halicpac (button) (small blind) collected ($6)
+Seat 4: Koraseg (big blind) folded before Flop
+
+
+PokerStars Hand #161663548566:  Hold'em Limit ($3/$6 USD) - 2016/11/19 18:51:25 ET
+Table 'Proteus II' 6-max Seat #4 is the button
+Seat 3: halicpac ($112.19 in chips)
+Seat 4: Koraseg ($51.09 in chips)
+Koraseg: posts small blind $1
+halicpac: posts big blind $3
+*** HOLE CARDS ***
+Koraseg: raises $3 to $6
+halicpac: calls $3
+*** FLOP *** [Qh Qs 6h]
+halicpac: checks
+Koraseg: bets $3
+halicpac: calls $3
+*** TURN *** [Qh Qs 6h] [8c]
+halicpac: checks
+Koraseg: checks
+*** RIVER *** [Qh Qs 6h 8c] [Jh]
+halicpac: checks
+Koraseg: bets $6
+halicpac: calls $6
+*** SHOW DOWN ***
+Koraseg: shows [7d Ts] (a pair of Queens)
+halicpac: shows [3h Ac] (a pair of Queens - Ace kicker)
+halicpac collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qh Qs 6h 8c Jh]
+Seat 3: halicpac (big blind) showed [3h Ac] and won ($29.50) with a pair of Queens
+Seat 4: Koraseg (button) (small blind) showed [7d Ts] and lost with a pair of Queens
+
+
+PokerStars Hand #161663543737:  Hold'em Limit ($3/$6 USD) - 2016/11/19 18:51:18 ET
+Table 'Proteus II' 6-max Seat #3 is the button
+Seat 3: halicpac ($113.19 in chips)
+Seat 4: Koraseg ($50.09 in chips)
+halicpac: posts small blind $1
+Koraseg: posts big blind $3
+*** HOLE CARDS ***
+halicpac: folds
+Uncalled bet ($2) returned to Koraseg
+Koraseg collected $2 from pot
+Koraseg: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: halicpac (button) (small blind) folded before Flop
+Seat 4: Koraseg (big blind) collected ($2)
+
+
+PokerStars Hand #161663527389:  Hold'em Limit ($3/$6 USD) - 2016/11/19 18:50:54 ET
+Table 'Proteus II' 6-max Seat #4 is the button
+Seat 3: halicpac ($89.69 in chips)
+Seat 4: Koraseg ($74.09 in chips)
+Koraseg: posts small blind $1
+grabaz: is sitting out
+halicpac: posts big blind $3
+*** HOLE CARDS ***
+grabaz leaves the table
+Koraseg: raises $3 to $6
+halicpac: raises $3 to $9
+Koraseg: calls $3
+*** FLOP *** [Ac Jh Kd]
+halicpac: bets $3
+Koraseg: calls $3
+*** TURN *** [Ac Jh Kd] [Qd]
+halicpac: bets $6
+Koraseg: calls $6
+*** RIVER *** [Ac Jh Kd Qd] [Ad]
+halicpac: bets $6
+Koraseg: calls $6
+*** SHOW DOWN ***
+halicpac: shows [Qs Qc] (a full house, Queens full of Aces)
+Koraseg: mucks hand
+halicpac collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Ac Jh Kd Qd Ad]
+Seat 3: halicpac (big blind) showed [Qs Qc] and won ($47.50) with a full house, Queens full of Aces
+Seat 4: Koraseg (button) (small blind) mucked
+
+
+PokerStars Hand #161663595946:  Hold'em Limit ($3/$6 USD) - 2016/11/19 18:52:34 ET
+Table 'Proteus II' 6-max Seat #3 is the button
+Seat 3: halicpac ($123.45 in chips)
+Seat 4: Koraseg ($98.73 in chips)
+halicpac: posts small blind $1
+Koraseg: posts big blind $3
+*** HOLE CARDS ***
+halicpac: raises $3 to $6
+Koraseg: calls $3
+*** FLOP *** [9s As Th]
+Koraseg: checks
+halicpac: bets $3
+Koraseg: raises $3 to $6
+halicpac: calls $3
+*** TURN *** [9s As Th] [2c]
+Koraseg: bets $6
+halicpac: calls $6
+*** RIVER *** [9s As Th 2c] [6h]
+Koraseg: bets $6
+halicpac: calls $6
+*** SHOW DOWN ***
+Koraseg: shows [9h Ah] (two pair, Aces and Nines)
+halicpac: mucks hand
+Koraseg collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9s As Th 2c 6h]
+Seat 3: halicpac (button) (small blind) mucked
+Seat 4: Koraseg (big blind) showed [9h Ah] and won ($47.50) with two pair, Aces and Nines
+
+
+PokerStars Hand #161663592054:  Hold'em Limit ($3/$6 USD) - 2016/11/19 18:52:29 ET
+Table 'Proteus II' 6-max Seat #4 is the button
+Seat 3: halicpac ($126.45 in chips)
+Seat 4: Koraseg ($95.73 in chips)
+Koraseg: posts small blind $1
+halicpac: posts big blind $3
+*** HOLE CARDS ***
+Koraseg: raises $3 to $6
+halicpac: folds
+Uncalled bet ($3) returned to Koraseg
+Koraseg collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: halicpac (big blind) folded before Flop
+Seat 4: Koraseg (button) (small blind) collected ($6)
+
+
+PokerStars Hand #161663584053:  Hold'em Limit ($3/$6 USD) - 2016/11/19 18:52:17 ET
+Table 'Proteus II' 6-max Seat #3 is the button
+Seat 3: halicpac ($120.69 in chips)
+Seat 4: Koraseg ($101.73 in chips)
+halicpac: posts small blind $1
+Koraseg: posts big blind $3
+*** HOLE CARDS ***
+halicpac: raises $3 to $6
+Koraseg: calls $3
+*** FLOP *** [4c 2c 3s]
+Koraseg: checks
+halicpac: bets $3
+Koraseg: folds
+Uncalled bet ($3) returned to halicpac
+halicpac collected $11.76 from pot
+halicpac: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4c 2c 3s]
+Seat 3: halicpac (button) (small blind) collected ($11.76)
+Seat 4: Koraseg (big blind) folded on the Flop
+
+
+PokerStars Hand #161663570783:  Hold'em Limit ($3/$6 USD) - 2016/11/19 18:51:57 ET
+Table 'Proteus II' 6-max Seat #4 is the button
+Seat 3: halicpac ($129.69 in chips)
+Seat 4: Koraseg ($93.09 in chips)
+Koraseg: posts small blind $1
+halicpac: posts big blind $3
+*** HOLE CARDS ***
+Koraseg: raises $3 to $6
+halicpac: calls $3
+*** FLOP *** [Qd 2c 5h]
+halicpac: checks
+Koraseg: bets $3
+halicpac: calls $3
+*** TURN *** [Qd 2c 5h] [2h]
+halicpac: checks
+Koraseg: bets $6
+halicpac: folds
+Uncalled bet ($6) returned to Koraseg
+Koraseg collected $17.64 from pot
+Koraseg: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qd 2c 5h 2h]
+Seat 3: halicpac (big blind) folded on the Turn
+Seat 4: Koraseg (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #161663632492:  Hold'em Limit ($3/$6 USD) - 2016/11/19 18:53:28 ET
+Table 'Proteus II' 6-max Seat #4 is the button
+Seat 3: halicpac ($87.45 in chips)
+Seat 4: Koraseg ($133.73 in chips)
+Koraseg: posts small blind $1
+halicpac: posts big blind $3
+*** HOLE CARDS ***
+Koraseg: raises $3 to $6
+halicpac: calls $3
+*** FLOP *** [7s Ts Tc]
+halicpac: checks
+Koraseg: bets $3
+halicpac: folds
+Uncalled bet ($3) returned to Koraseg
+Koraseg collected $11.76 from pot
+Koraseg: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7s Ts Tc]
+Seat 3: halicpac (big blind) folded on the Flop
+Seat 4: Koraseg (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #161663627589:  Hold'em Limit ($3/$6 USD) - 2016/11/19 18:53:20 ET
+Table 'Proteus II' 6-max Seat #3 is the button
+Seat 3: halicpac ($84.45 in chips)
+Seat 4: Koraseg ($136.73 in chips)
+halicpac: posts small blind $1
+Koraseg: posts big blind $3
+*** HOLE CARDS ***
+halicpac: raises $3 to $6
+Koraseg: folds
+Uncalled bet ($3) returned to halicpac
+halicpac collected $6 from pot
+halicpac: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: halicpac (button) (small blind) collected ($6)
+Seat 4: Koraseg (big blind) folded before Flop
+
+
+PokerStars Hand #161663615007:  Hold'em Limit ($3/$6 USD) - 2016/11/19 18:53:02 ET
+Table 'Proteus II' 6-max Seat #4 is the button
+Seat 3: halicpac ($99.45 in chips)
+Seat 4: Koraseg ($122.23 in chips)
+Koraseg: posts small blind $1
+halicpac: posts big blind $3
+*** HOLE CARDS ***
+Koraseg: raises $3 to $6
+halicpac: calls $3
+*** FLOP *** [2d 7h 9d]
+halicpac: checks
+Koraseg: bets $3
+halicpac: calls $3
+*** TURN *** [2d 7h 9d] [8c]
+halicpac: checks
+Koraseg: bets $6
+halicpac: calls $6
+*** RIVER *** [2d 7h 9d 8c] [7c]
+halicpac: checks
+Koraseg: checks
+*** SHOW DOWN ***
+halicpac: shows [Kd 6c] (a pair of Sevens)
+Koraseg: shows [2h Ks] (two pair, Sevens and Deuces)
+Koraseg collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2d 7h 9d 8c 7c]
+Seat 3: halicpac (big blind) showed [Kd 6c] and lost with a pair of Sevens
+Seat 4: Koraseg (button) (small blind) showed [2h Ks] and won ($29.50) with two pair, Sevens and Deuces
+
+
+PokerStars Hand #161663641041:  Hold'em Limit ($3/$6 USD) - 2016/11/19 18:53:40 ET
+Table 'Proteus II' 6-max Seat #3 is the button
+Seat 3: halicpac ($81.45 in chips)
+Seat 4: Koraseg ($139.49 in chips)
+halicpac: posts small blind $1
+Koraseg: posts big blind $3
+*** HOLE CARDS ***
+halicpac: raises $3 to $6
+rascal_319 joins the table at seat #5
+Koraseg: calls $3
+*** FLOP *** [6d 4h 9s]
+Koraseg: checks
+halicpac: bets $3
+Koraseg: calls $3
+*** TURN *** [6d 4h 9s] [8d]
+Koraseg: checks
+halicpac: bets $6
+Koraseg: raises $6 to $12
+halicpac: calls $6
+*** RIVER *** [6d 4h 9s 8d] [2s]
+Koraseg: bets $6
+halicpac: folds
+Uncalled bet ($6) returned to Koraseg
+Koraseg collected $41.50 from pot
+Koraseg: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [6d 4h 9s 8d 2s]
+Seat 3: halicpac (button) (small blind) folded on the River
+Seat 4: Koraseg (big blind) collected ($41.50)
+
+
+PokerStars Hand #161663670698:  Hold'em Limit ($3/$6 USD) - 2016/11/19 18:54:23 ET
+Table 'Proteus II' 6-max Seat #3 is the button
+Seat 3: halicpac ($54.45 in chips)
+Seat 4: Koraseg ($165.75 in chips)
+halicpac: posts small blind $1
+Koraseg: posts big blind $3
+*** HOLE CARDS ***
+halicpac: folds
+Uncalled bet ($2) returned to Koraseg
+Koraseg collected $2 from pot
+Koraseg: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: halicpac (button) (small blind) folded before Flop
+Seat 4: Koraseg (big blind) collected ($2)
+
+
+PokerStars Hand #161663660854:  Hold'em Limit ($3/$6 USD) - 2016/11/19 18:54:09 ET
+Table 'Proteus II' 6-max Seat #4 is the button
+Seat 3: halicpac ($60.45 in chips)
+Seat 4: Koraseg ($159.99 in chips)
+Koraseg: posts small blind $1
+halicpac: posts big blind $3
+*** HOLE CARDS ***
+Koraseg: raises $3 to $6
+halicpac: calls $3
+*** FLOP *** [Qc 2d Kd]
+halicpac: checks
+Koraseg: bets $3
+halicpac: folds
+Uncalled bet ($3) returned to Koraseg
+Koraseg collected $11.76 from pot
+Koraseg: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qc 2d Kd]
+Seat 3: halicpac (big blind) folded on the Flop
+Seat 4: Koraseg (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #161663678553:  Hold'em Limit ($3/$6 USD) - 2016/11/19 18:54:35 ET
+Table 'Proteus II' 6-max Seat #3 is the button
+Seat 3: halicpac ($50.45 in chips)
+Seat 4: Koraseg ($169.75 in chips)
+halicpac: posts small blind $1
+Koraseg: posts big blind $3
+*** HOLE CARDS ***
+halicpac: folds
+Uncalled bet ($2) returned to Koraseg
+Koraseg collected $2 from pot
+Koraseg: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: halicpac (button) (small blind) folded before Flop
+Seat 4: Koraseg (big blind) collected ($2)
+
+
+PokerStars Hand #161663674268:  Hold'em Limit ($3/$6 USD) - 2016/11/19 18:54:29 ET
+Table 'Proteus II' 6-max Seat #4 is the button
+Seat 3: halicpac ($53.45 in chips)
+Seat 4: Koraseg ($166.75 in chips)
+Koraseg: posts small blind $1
+halicpac: posts big blind $3
+*** HOLE CARDS ***
+Koraseg: raises $3 to $6
+halicpac: folds
+Uncalled bet ($3) returned to Koraseg
+Koraseg collected $6 from pot
+Koraseg: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: halicpac (big blind) folded before Flop
+Seat 4: Koraseg (button) (small blind) collected ($6)
+
+
+PokerStars Hand #161663682099:  Hold'em Limit ($3/$6 USD) - 2016/11/19 18:54:40 ET
+Table 'Proteus II' 6-max Seat #4 is the button
+Seat 3: halicpac ($49.45 in chips)
+Seat 4: Koraseg ($170.75 in chips)
+Koraseg: posts small blind $1
+halicpac: posts big blind $3
+*** HOLE CARDS ***
+Koraseg: folds
+Uncalled bet ($2) returned to halicpac
+halicpac collected $2 from pot
+halicpac: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: halicpac (big blind) collected ($2)
+Seat 4: Koraseg (button) (small blind) folded before Flop
+
+
+PokerStars Hand #161663686299:  Hold'em Limit ($3/$6 USD) - 2016/11/19 18:54:46 ET
+Table 'Proteus II' 6-max Seat #3 is the button
+Seat 3: halicpac ($50.45 in chips)
+Seat 4: Koraseg ($169.75 in chips)
+halicpac: posts small blind $1
+Koraseg: posts big blind $3
+*** HOLE CARDS ***
+halicpac: raises $3 to $6
+Koraseg: calls $3
+*** FLOP *** [9s 6d Ks]
+Koraseg: checks
+halicpac: bets $3
+Koraseg: folds
+Uncalled bet ($3) returned to halicpac
+halicpac collected $11.76 from pot
+halicpac: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9s 6d Ks]
+Seat 3: halicpac (button) (small blind) collected ($11.76)
+Seat 4: Koraseg (big blind) folded on the Flop
+
+
+PokerStars Hand #161663695184:  Hold'em Limit ($3/$6 USD) - 2016/11/19 18:55:00 ET
+Table 'Proteus II' 6-max Seat #4 is the button
+Seat 3: halicpac ($56.21 in chips)
+Seat 4: Koraseg ($163.75 in chips)
+Koraseg: posts small blind $1
+halicpac: posts big blind $3
+*** HOLE CARDS ***
+Koraseg: raises $3 to $6
+halicpac: raises $3 to $9
+Koraseg: calls $3
+*** FLOP *** [9h 4c Js]
+halicpac: bets $3
+Koraseg: calls $3
+*** TURN *** [9h 4c Js] [Qc]
+halicpac: bets $6
+Koraseg: calls $6
+*** RIVER *** [9h 4c Js Qc] [Tc]
+halicpac: bets $6
+Koraseg: calls $6
+*** SHOW DOWN ***
+halicpac: shows [Ks Jh] (a straight, Nine to King)
+Koraseg: mucks hand
+halicpac collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9h 4c Js Qc Tc]
+Seat 3: halicpac (big blind) showed [Ks Jh] and won ($47.50) with a straight, Nine to King
+Seat 4: Koraseg (button) (small blind) mucked
+
+
+PokerStars Hand #161663707352:  Hold'em Limit ($3/$6 USD) - 2016/11/19 18:55:19 ET
+Table 'Proteus II' 6-max Seat #3 is the button
+Seat 3: halicpac ($79.71 in chips)
+Seat 4: Koraseg ($139.75 in chips)
+halicpac: posts small blind $1
+Koraseg: posts big blind $3
+*** HOLE CARDS ***
+halicpac: raises $3 to $6
+Koraseg: folds
+Uncalled bet ($3) returned to halicpac
+halicpac collected $6 from pot
+halicpac: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: halicpac (button) (small blind) collected ($6)
+Seat 4: Koraseg (big blind) folded before Flop
+
+
+PokerStars Hand #161663712937:  Hold'em Limit ($3/$6 USD) - 2016/11/19 18:55:29 ET
+Table 'Proteus II' 6-max Seat #4 is the button
+Seat 3: halicpac ($82.71 in chips)
+Seat 4: Koraseg ($136.75 in chips)
+Koraseg: posts small blind $1
+halicpac: posts big blind $3
+*** HOLE CARDS ***
+Koraseg: raises $3 to $6
+halicpac: folds
+Uncalled bet ($3) returned to Koraseg
+Koraseg collected $6 from pot
+Koraseg: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: halicpac (big blind) folded before Flop
+Seat 4: Koraseg (button) (small blind) collected ($6)
+
+
+PokerStars Hand #161663717101:  Hold'em Limit ($3/$6 USD) - 2016/11/19 18:55:37 ET
+Table 'Proteus II' 6-max Seat #3 is the button
+Seat 3: halicpac ($79.71 in chips)
+Seat 4: Koraseg ($139.75 in chips)
+halicpac: posts small blind $1
+Koraseg: posts big blind $3
+*** HOLE CARDS ***
+halicpac: calls $2
+Koraseg: checks
+*** FLOP *** [8c Ad Jd]
+Koraseg: bets $3
+halicpac: calls $3
+*** TURN *** [8c Ad Jd] [3d]
+Koraseg: checks
+halicpac: bets $6
+Koraseg: folds
+Uncalled bet ($6) returned to halicpac
+halicpac collected $11.76 from pot
+halicpac: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8c Ad Jd 3d]
+Seat 3: halicpac (button) (small blind) collected ($11.76)
+Seat 4: Koraseg (big blind) folded on the Turn
+
+
+PokerStars Hand #161663734200:  Hold'em Limit ($3/$6 USD) - 2016/11/19 18:56:07 ET
+Table 'Proteus II' 6-max Seat #4 is the button
+Seat 3: halicpac ($85.47 in chips)
+Seat 4: Koraseg ($133.75 in chips)
+Koraseg: posts small blind $1
+halicpac: posts big blind $3
+*** HOLE CARDS ***
+Koraseg: folds
+Uncalled bet ($2) returned to halicpac
+halicpac collected $2 from pot
+halicpac: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: halicpac (big blind) collected ($2)
+Seat 4: Koraseg (button) (small blind) folded before Flop
+
+
+PokerStars Hand #161663737304:  Hold'em Limit ($3/$6 USD) - 2016/11/19 18:56:12 ET
+Table 'Proteus II' 6-max Seat #3 is the button
+Seat 3: halicpac ($86.47 in chips)
+Seat 4: Koraseg ($132.75 in chips)
+halicpac: posts small blind $1
+Koraseg: posts big blind $3
+*** HOLE CARDS ***
+halicpac: calls $2
+Koraseg: raises $3 to $6
+halicpac: calls $3
+*** FLOP *** [5s 3h 2d]
+Koraseg: bets $3
+halicpac: folds
+Uncalled bet ($3) returned to Koraseg
+Koraseg collected $11.76 from pot
+Koraseg: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5s 3h 2d]
+Seat 3: halicpac (button) (small blind) folded on the Flop
+Seat 4: Koraseg (big blind) collected ($11.76)
+
+
+PokerStars Hand #161663747580:  Hold'em Limit ($3/$6 USD) - 2016/11/19 18:56:31 ET
+Table 'Proteus II' 6-max Seat #4 is the button
+Seat 3: halicpac ($80.47 in chips)
+Seat 4: Koraseg ($138.51 in chips)
+Koraseg: posts small blind $1
+halicpac: posts big blind $3
+*** HOLE CARDS ***
+Koraseg: raises $3 to $6
+halicpac: calls $3
+*** FLOP *** [8d Ks 2c]
+halicpac: checks
+Koraseg: bets $3
+halicpac: calls $3
+*** TURN *** [8d Ks 2c] [As]
+halicpac: checks
+Koraseg: bets $6
+halicpac: calls $6
+*** RIVER *** [8d Ks 2c As] [7h]
+halicpac: checks
+Koraseg: checks
+*** SHOW DOWN ***
+halicpac: shows [9h Ac] (a pair of Aces)
+Koraseg: mucks hand
+halicpac collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8d Ks 2c As 7h]
+Seat 3: halicpac (big blind) showed [9h Ac] and won ($29.50) with a pair of Aces
+Seat 4: Koraseg (button) (small blind) mucked
+
+
+PokerStars Hand #161663759751:  Hold'em Limit ($3/$6 USD) - 2016/11/19 18:56:52 ET
+Table 'Proteus II' 6-max Seat #3 is the button
+Seat 3: halicpac ($94.97 in chips)
+Seat 4: Koraseg ($123.51 in chips)
+halicpac: posts small blind $1
+Koraseg: posts big blind $3
+*** HOLE CARDS ***
+halicpac: raises $3 to $6
+Koraseg: folds
+Uncalled bet ($3) returned to halicpac
+halicpac collected $6 from pot
+halicpac: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: halicpac (button) (small blind) collected ($6)
+Seat 4: Koraseg (big blind) folded before Flop
+
+
+PokerStars Hand #161663764464:  Hold'em Limit ($3/$6 USD) - 2016/11/19 18:57:00 ET
+Table 'Proteus II' 6-max Seat #4 is the button
+Seat 3: halicpac ($97.97 in chips)
+Seat 4: Koraseg ($120.51 in chips)
+Koraseg: posts small blind $1
+halicpac: posts big blind $3
+*** HOLE CARDS ***
+Koraseg: folds
+Uncalled bet ($2) returned to halicpac
+halicpac collected $2 from pot
+halicpac: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: halicpac (big blind) collected ($2)
+Seat 4: Koraseg (button) (small blind) folded before Flop
+
+
+PokerStars Hand #161663769901:  Hold'em Limit ($3/$6 USD) - 2016/11/19 18:57:09 ET
+Table 'Proteus II' 6-max Seat #3 is the button
+Seat 3: halicpac ($98.97 in chips)
+Seat 4: Koraseg ($119.51 in chips)
+halicpac: posts small blind $1
+Koraseg: posts big blind $3
+*** HOLE CARDS ***
+halicpac: raises $3 to $6
+Koraseg: folds
+Uncalled bet ($3) returned to halicpac
+halicpac collected $6 from pot
+halicpac: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: halicpac (button) (small blind) collected ($6)
+Seat 4: Koraseg (big blind) folded before Flop
+
+
+PokerStars Hand #161663774159:  Hold'em Limit ($3/$6 USD) - 2016/11/19 18:57:17 ET
+Table 'Proteus II' 6-max Seat #4 is the button
+Seat 3: halicpac ($101.97 in chips)
+Seat 4: Koraseg ($116.51 in chips)
+Koraseg: posts small blind $1
+halicpac: posts big blind $3
+*** HOLE CARDS ***
+Koraseg: raises $3 to $6
+halicpac: raises $3 to $9
+Koraseg: calls $3
+*** FLOP *** [Kc 5d 3d]
+halicpac: bets $3
+Koraseg: calls $3
+*** TURN *** [Kc 5d 3d] [Js]
+halicpac: checks
+Koraseg: bets $6
+halicpac: calls $6
+*** RIVER *** [Kc 5d 3d Js] [6h]
+halicpac: checks
+Koraseg: checks
+*** SHOW DOWN ***
+halicpac: shows [8h 8c] (a pair of Eights)
+Koraseg: mucks hand
+halicpac collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Kc 5d 3d Js 6h]
+Seat 3: halicpac (big blind) showed [8h 8c] and won ($35.50) with a pair of Eights
+Seat 4: Koraseg (button) (small blind) mucked
+
+
+PokerStars Hand #161663786167:  Hold'em Limit ($3/$6 USD) - 2016/11/19 18:57:38 ET
+Table 'Proteus II' 6-max Seat #3 is the button
+Seat 3: halicpac ($119.47 in chips)
+Seat 4: Koraseg ($98.51 in chips)
+halicpac: posts small blind $1
+Koraseg: posts big blind $3
+*** HOLE CARDS ***
+halicpac: folds
+Uncalled bet ($2) returned to Koraseg
+Koraseg collected $2 from pot
+Koraseg: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: halicpac (button) (small blind) folded before Flop
+Seat 4: Koraseg (big blind) collected ($2)
+
+
+PokerStars Hand #161663789657:  Hold'em Limit ($3/$6 USD) - 2016/11/19 18:57:44 ET
+Table 'Proteus II' 6-max Seat #4 is the button
+Seat 3: halicpac ($118.47 in chips)
+Seat 4: Koraseg ($99.51 in chips)
+Koraseg: posts small blind $1
+halicpac: posts big blind $3
+*** HOLE CARDS ***
+Koraseg: raises $3 to $6
+halicpac: calls $3
+*** FLOP *** [8c Ac 4s]
+halicpac: checks
+Koraseg: bets $3
+halicpac: folds
+Uncalled bet ($3) returned to Koraseg
+Koraseg collected $11.76 from pot
+Koraseg: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8c Ac 4s]
+Seat 3: halicpac (big blind) folded on the Flop
+Seat 4: Koraseg (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #161663796911:  Hold'em Limit ($3/$6 USD) - 2016/11/19 18:57:57 ET
+Table 'Proteus II' 6-max Seat #3 is the button
+Seat 3: halicpac ($112.47 in chips)
+Seat 4: Koraseg ($105.27 in chips)
+halicpac: posts small blind $1
+Koraseg: posts big blind $3
+*** HOLE CARDS ***
+halicpac: raises $3 to $6
+Koraseg: folds
+Uncalled bet ($3) returned to halicpac
+halicpac collected $6 from pot
+halicpac: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: halicpac (button) (small blind) collected ($6)
+Seat 4: Koraseg (big blind) folded before Flop
+
+
+PokerStars Hand #161663804130:  Hold'em Limit ($3/$6 USD) - 2016/11/19 18:58:10 ET
+Table 'Proteus II' 6-max Seat #4 is the button
+Seat 3: halicpac ($115.47 in chips)
+Seat 4: Koraseg ($102.27 in chips)
+Koraseg: posts small blind $1
+halicpac: posts big blind $3
+*** HOLE CARDS ***
+Koraseg: raises $3 to $6
+halicpac: folds
+Uncalled bet ($3) returned to Koraseg
+Koraseg collected $6 from pot
+Koraseg: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: halicpac (big blind) folded before Flop
+Seat 4: Koraseg (button) (small blind) collected ($6)
+
+
+PokerStars Hand #161663808956:  Hold'em Limit ($3/$6 USD) - 2016/11/19 18:58:18 ET
+Table 'Proteus II' 6-max Seat #3 is the button
+Seat 3: halicpac ($112.47 in chips)
+Seat 4: Koraseg ($105.27 in chips)
+halicpac: posts small blind $1
+Koraseg: posts big blind $3
+*** HOLE CARDS ***
+halicpac: raises $3 to $6
+Koraseg: folds
+Uncalled bet ($3) returned to halicpac
+halicpac collected $6 from pot
+halicpac: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: halicpac (button) (small blind) collected ($6)
+Seat 4: Koraseg (big blind) folded before Flop
+
+
+PokerStars Hand #161663817115:  Hold'em Limit ($3/$6 USD) - 2016/11/19 18:58:33 ET
+Table 'Proteus II' 6-max Seat #3 is the button
+Seat 3: halicpac ($112.47 in chips)
+Seat 4: Koraseg ($105.27 in chips)
+halicpac: posts small blind $1
+Koraseg: posts big blind $3
+*** HOLE CARDS ***
+halicpac: folds
+Uncalled bet ($2) returned to Koraseg
+Koraseg collected $2 from pot
+Koraseg: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: halicpac (button) (small blind) folded before Flop
+Seat 4: Koraseg (big blind) collected ($2)
+
+
+PokerStars Hand #161663829091:  Hold'em Limit ($3/$6 USD) - 2016/11/19 18:58:54 ET
+Table 'Proteus II' 6-max Seat #3 is the button
+Seat 3: halicpac ($120.11 in chips)
+Seat 4: Koraseg ($97.27 in chips)
+halicpac: posts small blind $1
+Koraseg: posts big blind $3
+*** HOLE CARDS ***
+halicpac: folds
+Uncalled bet ($2) returned to Koraseg
+Koraseg collected $2 from pot
+Koraseg: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: halicpac (button) (small blind) folded before Flop
+Seat 4: Koraseg (big blind) collected ($2)
+
+
+PokerStars Hand #161663819887:  Hold'em Limit ($3/$6 USD) - 2016/11/19 18:58:38 ET
+Table 'Proteus II' 6-max Seat #4 is the button
+Seat 3: halicpac ($111.47 in chips)
+Seat 4: Koraseg ($106.27 in chips)
+Koraseg: posts small blind $1
+halicpac: posts big blind $3
+*** HOLE CARDS ***
+Koraseg: raises $3 to $6
+halicpac: calls $3
+*** FLOP *** [Kd 8c Kh]
+halicpac: checks
+Koraseg: bets $3
+halicpac: calls $3
+*** TURN *** [Kd 8c Kh] [7d]
+halicpac: checks
+Koraseg: checks
+*** RIVER *** [Kd 8c Kh 7d] [8s]
+halicpac: bets $6
+Koraseg: folds
+Uncalled bet ($6) returned to halicpac
+halicpac collected $17.64 from pot
+halicpac: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kd 8c Kh 7d 8s]
+Seat 3: halicpac (big blind) collected ($17.64)
+Seat 4: Koraseg (button) (small blind) folded on the River
+
+

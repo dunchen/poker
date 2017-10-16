@@ -1,0 +1,128 @@
+PokerStars Hand #173229246283:  Hold'em Limit ($3/$6 USD) - 2017/07/19 6:22:28 ET
+Table 'Ophiuchus' 10-max Seat #7 is the button
+Seat 1: MICKY997 ($57.50 in chips)
+Seat 7: VolkovDmitri ($125.76 in chips)
+VolkovDmitri: posts small blind $1
+MICKY997: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+MICKY997: calls $3
+*** FLOP *** [3d Jd 8c]
+MICKY997: checks
+VolkovDmitri: bets $3
+MICKY997: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3d Jd 8c]
+Seat 1: MICKY997 (big blind) folded on the Flop
+Seat 7: VolkovDmitri (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #173229231125:  Hold'em Limit ($3/$6 USD) - 2017/07/19 6:21:47 ET
+Table 'Ophiuchus' 10-max Seat #1 is the button
+Seat 1: MICKY997 ($63.50 in chips)
+Seat 7: VolkovDmitri ($120 in chips)
+MICKY997: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+MICKY997: calls $2
+VolkovDmitri: raises $3 to $6
+MICKY997: calls $3
+*** FLOP *** [Td 8s 4c]
+VolkovDmitri: bets $3
+MICKY997: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Td 8s 4c]
+Seat 1: MICKY997 (button) (small blind) folded on the Flop
+Seat 7: VolkovDmitri (big blind) collected ($11.76)
+
+
+PokerStars Hand #173229265161:  Hold'em Limit ($3/$6 USD) - 2017/07/19 6:23:18 ET
+Table 'Ophiuchus' 10-max Seat #7 is the button
+Seat 1: MICKY997 ($66 in chips)
+Seat 7: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+MICKY997: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Apanage joins the table at seat #2
+MICKY997: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: MICKY997 (big blind) folded before Flop
+Seat 7: VolkovDmitri (button) (small blind) collected ($6)
+
+
+PokerStars Hand #173229253024:  Hold'em Limit ($3/$6 USD) - 2017/07/19 6:22:45 ET
+Table 'Ophiuchus' 10-max Seat #1 is the button
+Seat 1: MICKY997 ($51.50 in chips)
+Seat 7: VolkovDmitri ($131.52 in chips)
+MICKY997: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+MICKY997: calls $2
+VolkovDmitri: raises $3 to $6
+MICKY997: calls $3
+*** FLOP *** [6h 3c Qh]
+VolkovDmitri: bets $3
+MICKY997: calls $3
+*** TURN *** [6h 3c Qh] [7s]
+VolkovDmitri: checks
+MICKY997: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [6h 3c Qh 7s] [7h]
+VolkovDmitri: checks
+MICKY997: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [Ac Kh] (a pair of Sevens)
+MICKY997: shows [6d As] (two pair, Sevens and Sixes)
+MICKY997 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6h 3c Qh 7s 7h]
+Seat 1: MICKY997 (button) (small blind) showed [6d As] and won ($29.50) with two pair, Sevens and Sixes
+Seat 7: VolkovDmitri (big blind) showed [Ac Kh] and lost with a pair of Sevens
+
+
+PokerStars Hand #173229907847:  Hold'em Limit ($3/$6 USD) - 2017/07/19 6:50:45 ET
+Table 'Ophiuchus' 10-max Seat #2 is the button
+Seat 2: Apanage ($111.39 in chips)
+Seat 9: bAAchi ($112.89 in chips)
+Apanage: posts small blind $1
+bAAchi: posts big blind $3
+*** HOLE CARDS ***
+Apanage: raises $3 to $6
+bAAchi: raises $3 to $9
+Apanage: calls $3
+*** FLOP *** [7h 4s 5h]
+bAAchi: bets $3
+Apanage: calls $3
+*** TURN *** [7h 4s 5h] [Tc]
+bAAchi: bets $6
+Apanage: raises $6 to $12
+bAAchi: calls $6
+*** RIVER *** [7h 4s 5h Tc] [4c]
+bAAchi: checks
+Apanage: bets $6
+bAAchi: calls $6
+*** SHOW DOWN ***
+Apanage: shows [6c Jc] (a pair of Fours)
+bAAchi: shows [Qc Ah] (a pair of Fours - Ace kicker)
+bAAchi collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [7h 4s 5h Tc 4c]
+Seat 2: Apanage (button) (small blind) showed [6c Jc] and lost with a pair of Fours
+Seat 9: bAAchi (big blind) showed [Qc Ah] and won ($59.50) with a pair of Fours
+
+

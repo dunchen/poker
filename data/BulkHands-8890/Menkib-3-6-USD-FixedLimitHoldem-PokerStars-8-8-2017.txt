@@ -1,0 +1,322 @@
+PokerStars Hand #174071105636:  Hold'em Limit ($3/$6 USD) - 2017/08/08 8:12:53 ET
+Table 'Menkib' 6-max Seat #1 is the button
+Seat 1: apx0surry9 ($118.43 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+apx0surry9: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+apx0surry9: calls $2
+VolkovDmitri: raises $3 to $6
+apx0surry9: calls $3
+*** FLOP *** [5h Js 8s]
+VolkovDmitri: checks
+apx0surry9: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [5h Js 8s] [Ks]
+VolkovDmitri: checks
+apx0surry9: checks
+*** RIVER *** [5h Js 8s Ks] [8c]
+VolkovDmitri: checks
+apx0surry9: bets $6
+VolkovDmitri: calls $6
+apx0surry9 said, "8"
+*** SHOW DOWN ***
+apx0surry9: shows [Jd 7h] (two pair, Jacks and Eights)
+VolkovDmitri: mucks hand
+apx0surry9 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5h Js 8s Ks 8c]
+Seat 1: apx0surry9 (button) (small blind) showed [Jd 7h] and won ($29.50) with two pair, Jacks and Eights
+Seat 4: VolkovDmitri (big blind) mucked
+
+
+PokerStars Hand #174072252878:  Hold'em Limit ($3/$6 USD) - 2017/08/08 8:53:10 ET
+Table 'Menkib' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($120 in chips)
+Seat 5: cornetc ($60 in chips)
+VolkovDmitri: posts small blind $1
+cornetc: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: folds
+Uncalled bet ($2) returned to cornetc
+cornetc collected $2 from pot
+cornetc: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: VolkovDmitri (button) (small blind) folded before Flop
+Seat 5: cornetc (big blind) collected ($2)
+
+
+PokerStars Hand #174072266653:  Hold'em Limit ($3/$6 USD) - 2017/08/08 8:53:38 ET
+Table 'Menkib' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($131.52 in chips)
+Seat 5: cornetc ($49 in chips)
+VolkovDmitri: posts small blind $1
+cornetc: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+cornetc: calls $3
+*** FLOP *** [Kc Kh 2h]
+cornetc: checks
+VolkovDmitri: bets $3
+cornetc: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kc Kh 2h]
+Seat 4: VolkovDmitri (button) (small blind) collected ($11.76)
+Seat 5: cornetc (big blind) folded on the Flop
+
+
+PokerStars Hand #174072260991:  Hold'em Limit ($3/$6 USD) - 2017/08/08 8:53:27 ET
+Table 'Menkib' 6-max Seat #5 is the button
+Seat 4: VolkovDmitri ($120 in chips)
+Seat 5: cornetc ($61 in chips)
+cornetc: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+cornetc: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+cornetc: calls $3
+*** FLOP *** [Js Th 7h]
+VolkovDmitri: bets $3
+cornetc: calls $3
+*** TURN *** [Js Th 7h] [Kh]
+VolkovDmitri: bets $6
+cornetc: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $23.52 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Js Th 7h Kh]
+Seat 4: VolkovDmitri (big blind) collected ($23.52)
+Seat 5: cornetc (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #174072271749:  Hold'em Limit ($3/$6 USD) - 2017/08/08 8:53:49 ET
+Table 'Menkib' 6-max Seat #5 is the button
+Seat 4: VolkovDmitri ($137.28 in chips)
+Seat 5: cornetc ($43 in chips)
+cornetc: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+cornetc: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+cornetc: calls $3
+*** FLOP *** [Tc Ts 4d]
+VolkovDmitri: bets $3
+cornetc: calls $3
+*** TURN *** [Tc Ts 4d] [3h]
+VolkovDmitri: bets $6
+cornetc: raises $6 to $12
+VolkovDmitri: raises $6 to $18
+cornetc: calls $6
+*** RIVER *** [Tc Ts 4d 3h] [Qh]
+VolkovDmitri: bets $6
+cornetc: raises $6 to $12
+VolkovDmitri: raises $6 to $18
+cornetc: calls $1 and is all-in
+Uncalled bet ($5) returned to VolkovDmitri
+*** SHOW DOWN ***
+VolkovDmitri: shows [Th Kd] (three of a kind, Tens)
+cornetc: shows [Td 8c] (three of a kind, Tens - lower kicker)
+VolkovDmitri collected $85.50 from pot
+*** SUMMARY ***
+Total pot $86 | Rake $0.50
+Board [Tc Ts 4d 3h Qh]
+Seat 4: VolkovDmitri (big blind) showed [Th Kd] and won ($85.50) with three of a kind, Tens
+Seat 5: cornetc (button) (small blind) showed [Td 8c] and lost with three of a kind, Tens
+
+
+PokerStars Hand #174073010506:  Hold'em Limit ($3/$6 USD) - 2017/08/08 9:19:04 ET
+Table 'Menkib' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($179.54 in chips)
+Seat 5: ELCapitano26 ($101.75 in chips)
+VolkovDmitri: posts small blind $1
+ELCapitano26: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+ELCapitano26: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 4: VolkovDmitri (button) (small blind) collected ($6)
+Seat 5: ELCapitano26 (big blind) folded before Flop
+
+
+PokerStars Hand #174073003014:  Hold'em Limit ($3/$6 USD) - 2017/08/08 9:18:50 ET
+Table 'Menkib' 6-max Seat #5 is the button
+Seat 4: VolkovDmitri ($173.78 in chips)
+Seat 5: ELCapitano26 ($107.75 in chips)
+ELCapitano26: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+ELCapitano26: calls $2
+VolkovDmitri: raises $3 to $6
+ELCapitano26: calls $3
+*** FLOP *** [2h Ah Qc]
+VolkovDmitri: bets $3
+ELCapitano26: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2h Ah Qc]
+Seat 4: VolkovDmitri (big blind) collected ($11.76)
+Seat 5: ELCapitano26 (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #174073034737:  Hold'em Limit ($3/$6 USD) - 2017/08/08 9:19:51 ET
+Table 'Menkib' 6-max Seat #5 is the button
+Seat 4: VolkovDmitri ($200.04 in chips)
+Seat 5: ELCapitano26 ($80.39 in chips)
+ELCapitano26: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+ELCapitano26: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [2s Ac 4h]
+VolkovDmitri: checks
+ELCapitano26: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [2s Ac 4h] [3s]
+VolkovDmitri: checks
+KIT426 joins the table at seat #3
+ELCapitano26: checks
+*** RIVER *** [2s Ac 4h 3s] [Kd]
+VolkovDmitri: bets $6
+ELCapitano26: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Qd 5c] (a straight, Ace to Five)
+ELCapitano26: mucks hand
+VolkovDmitri collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2s Ac 4h 3s Kd]
+Seat 4: VolkovDmitri (big blind) showed [Qd 5c] and won ($29.50) with a straight, Ace to Five
+Seat 5: ELCapitano26 (button) (small blind) mucked
+
+
+PokerStars Hand #174073025718:  Hold'em Limit ($3/$6 USD) - 2017/08/08 9:19:34 ET
+Table 'Menkib' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($209.04 in chips)
+Seat 5: ELCapitano26 ($71.75 in chips)
+VolkovDmitri: posts small blind $1
+ELCapitano26: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+ELCapitano26: calls $3
+*** FLOP *** [Tc 2h 8s]
+ELCapitano26: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [Tc 2h 8s] [7d]
+ELCapitano26: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to ELCapitano26
+ELCapitano26 collected $17.64 from pot
+ELCapitano26: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Tc 2h 8s 7d]
+Seat 4: VolkovDmitri (button) (small blind) folded on the Turn
+Seat 5: ELCapitano26 (big blind) collected ($17.64)
+
+
+PokerStars Hand #174073013793:  Hold'em Limit ($3/$6 USD) - 2017/08/08 9:19:11 ET
+Table 'Menkib' 6-max Seat #5 is the button
+Seat 4: VolkovDmitri ($182.54 in chips)
+Seat 5: ELCapitano26 ($98.75 in chips)
+ELCapitano26: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+ELCapitano26: calls $2
+VolkovDmitri: raises $3 to $6
+ELCapitano26: calls $3
+*** FLOP *** [9h 7s 4d]
+VolkovDmitri: bets $3
+ELCapitano26: calls $3
+*** TURN *** [9h 7s 4d] [Js]
+VolkovDmitri: bets $6
+ELCapitano26: raises $6 to $12
+VolkovDmitri: calls $6
+*** RIVER *** [9h 7s 4d Js] [5c]
+VolkovDmitri: checks
+ELCapitano26: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+ELCapitano26: shows [Ts Kc] (high card King)
+VolkovDmitri: shows [Ks 9c] (a pair of Nines)
+VolkovDmitri collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [9h 7s 4d Js 5c]
+Seat 4: VolkovDmitri (big blind) showed [Ks 9c] and won ($53.50) with a pair of Nines
+Seat 5: ELCapitano26 (button) (small blind) showed [Ts Kc] and lost with high card King
+
+
+PokerStars Hand #174073046857:  Hold'em Limit ($3/$6 USD) - 2017/08/08 9:20:15 ET
+Table 'Menkib' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($214.54 in chips)
+Seat 5: ELCapitano26 ($65.39 in chips)
+VolkovDmitri: posts small blind $1
+ELCapitano26: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+ELCapitano26: calls $3
+*** FLOP *** [8c 4d 6c]
+ELCapitano26: checks
+VolkovDmitri: bets $3
+ELCapitano26: calls $3
+*** TURN *** [8c 4d 6c] [9d]
+ELCapitano26: checks
+VolkovDmitri: checks
+*** RIVER *** [8c 4d 6c 9d] [Ah]
+ELCapitano26: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to ELCapitano26
+ELCapitano26 collected $17.64 from pot
+ELCapitano26: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8c 4d 6c 9d Ah]
+Seat 4: VolkovDmitri (button) (small blind) folded on the River
+Seat 5: ELCapitano26 (big blind) collected ($17.64)
+
+
+PokerStars Hand #174073133453:  Hold'em Limit ($3/$6 USD) - 2017/08/08 9:23:03 ET
+Table 'Menkib' 6-max Seat #4 is the button
+Seat 3: KIT426 ($377.29 in chips)
+Seat 4: VolkovDmitri ($168.54 in chips)
+VolkovDmitri: posts small blind $1
+KIT426: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+KIT426: calls $3
+*** FLOP *** [7c Ts 5h]
+KIT426: checks
+VolkovDmitri: bets $3
+KIT426: calls $3
+*** TURN *** [7c Ts 5h] [Ad]
+KIT426: checks
+VolkovDmitri: checks
+*** RIVER *** [7c Ts 5h Ad] [4c]
+KIT426: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+KIT426: shows [6d 8d] (a straight, Four to Eight)
+VolkovDmitri: mucks hand
+KIT426 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7c Ts 5h Ad 4c]
+Seat 3: KIT426 (big blind) showed [6d 8d] and won ($29.50) with a straight, Four to Eight
+Seat 4: VolkovDmitri (button) (small blind) mucked
+
+

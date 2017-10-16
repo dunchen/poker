@@ -1,0 +1,379 @@
+PokerStars Hand #167379970843:  Hold'em Limit ($3/$6 USD) - 2017/03/10 8:32:12 ET
+Table 'Genua II' 6-max Seat #2 is the button
+Seat 2: sim5sim5 ($72 in chips)
+Seat 5: tilion22 ($120 in chips)
+sim5sim5: posts small blind $1
+tilion22: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+tilion22: raises $3 to $9
+sim5sim5: calls $3
+*** FLOP *** [Kc 2c 6s]
+tilion22: bets $3
+sim5sim5: calls $3
+*** TURN *** [Kc 2c 6s] [7h]
+tilion22: bets $6
+sim5sim5: raises $6 to $12
+tilion22: calls $6
+*** RIVER *** [Kc 2c 6s 7h] [7d]
+tilion22: checks
+sim5sim5: bets $6
+tilion22: folds
+Uncalled bet ($6) returned to sim5sim5
+sim5sim5 collected $47.50 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Kc 2c 6s 7h 7d]
+Seat 2: sim5sim5 (button) (small blind) collected ($47.50)
+Seat 5: tilion22 (big blind) folded on the River
+
+
+PokerStars Hand #167379987985:  Hold'em Limit ($3/$6 USD) - 2017/03/10 8:32:44 ET
+Table 'Genua II' 6-max Seat #5 is the button
+Seat 2: sim5sim5 ($95.50 in chips)
+Seat 5: tilion22 ($96 in chips)
+tilion22: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+tilion22: raises $3 to $6
+sim5sim5: calls $3
+*** FLOP *** [5s Jc Ts]
+sim5sim5: checks
+tilion22: bets $3
+sim5sim5: calls $3
+*** TURN *** [5s Jc Ts] [Td]
+sim5sim5: checks
+tilion22: bets $6
+sim5sim5: calls $6
+*** RIVER *** [5s Jc Ts Td] [9d]
+sim5sim5: checks
+tilion22: checks
+*** SHOW DOWN ***
+sim5sim5: shows [6c 6d] (two pair, Tens and Sixes)
+tilion22: mucks hand
+sim5sim5 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5s Jc Ts Td 9d]
+Seat 2: sim5sim5 (big blind) showed [6c 6d] and won ($29.50) with two pair, Tens and Sixes
+Seat 5: tilion22 (button) (small blind) mucked
+
+
+PokerStars Hand #167380023387:  Hold'em Limit ($3/$6 USD) - 2017/03/10 8:33:50 ET
+Table 'Genua II' 6-max Seat #5 is the button
+Seat 2: sim5sim5 ($83 in chips)
+Seat 5: tilion22 ($107.50 in chips)
+tilion22: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+tilion22: raises $3 to $6
+sim5sim5: folds
+Uncalled bet ($3) returned to tilion22
+tilion22 collected $6 from pot
+tilion22: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: sim5sim5 (big blind) folded before Flop
+Seat 5: tilion22 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #167380004668:  Hold'em Limit ($3/$6 USD) - 2017/03/10 8:33:15 ET
+Table 'Genua II' 6-max Seat #2 is the button
+Seat 2: sim5sim5 ($110 in chips)
+Seat 5: tilion22 ($81 in chips)
+sim5sim5: posts small blind $1
+tilion22: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+tilion22: calls $3
+*** FLOP *** [6h 3c 9s]
+tilion22: checks
+sim5sim5: bets $3
+tilion22: calls $3
+*** TURN *** [6h 3c 9s] [7d]
+tilion22: checks
+sim5sim5: bets $6
+tilion22: raises $6 to $12
+sim5sim5: calls $6
+*** RIVER *** [6h 3c 9s 7d] [Qs]
+tilion22: bets $6
+sim5sim5: calls $6
+*** SHOW DOWN ***
+tilion22: shows [6c 3d] (two pair, Sixes and Threes)
+sim5sim5: mucks hand
+tilion22 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [6h 3c 9s 7d Qs]
+Seat 2: sim5sim5 (button) (small blind) mucked
+Seat 5: tilion22 (big blind) showed [6c 3d] and won ($53.50) with two pair, Sixes and Threes
+
+
+PokerStars Hand #167380029558:  Hold'em Limit ($3/$6 USD) - 2017/03/10 8:34:01 ET
+Table 'Genua II' 6-max Seat #2 is the button
+Seat 2: sim5sim5 ($80 in chips)
+Seat 5: tilion22 ($110.50 in chips)
+sim5sim5: posts small blind $1
+tilion22: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+tilion22: calls $3
+*** FLOP *** [7c 7d 5d]
+tilion22: checks
+sim5sim5: bets $3
+tilion22: calls $3
+*** TURN *** [7c 7d 5d] [Qd]
+tilion22: checks
+sim5sim5: bets $6
+tilion22: raises $6 to $12
+sim5sim5: calls $6
+*** RIVER *** [7c 7d 5d Qd] [Js]
+Agrotait leaves the table
+tilion22: bets $6
+sim5sim5: calls $6
+*** SHOW DOWN ***
+tilion22: shows [Kc 7s] (three of a kind, Sevens)
+sim5sim5: mucks hand
+tilion22 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [7c 7d 5d Qd Js]
+Seat 2: sim5sim5 (button) (small blind) mucked
+Seat 5: tilion22 (big blind) showed [Kc 7s] and won ($53.50) with three of a kind, Sevens
+
+
+PokerStars Hand #167380072234:  Hold'em Limit ($3/$6 USD) - 2017/03/10 8:35:19 ET
+Table 'Genua II' 6-max Seat #2 is the button
+Seat 2: sim5sim5 ($99.50 in chips)
+Seat 5: tilion22 ($109 in chips)
+sim5sim5: posts small blind $1
+tilion22: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+tilion22: calls $3
+*** FLOP *** [2h Qc 4h]
+tilion22: checks
+sim5sim5: bets $3
+tilion22: folds
+Uncalled bet ($3) returned to sim5sim5
+sim5sim5 collected $11.76 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2h Qc 4h]
+Seat 2: sim5sim5 (button) (small blind) collected ($11.76)
+Seat 5: tilion22 (big blind) folded on the Flop
+
+
+PokerStars Hand #167380069520:  Hold'em Limit ($3/$6 USD) - 2017/03/10 8:35:14 ET
+Table 'Genua II' 6-max Seat #5 is the button
+Seat 2: sim5sim5 ($98.50 in chips)
+Seat 5: tilion22 ($110 in chips)
+tilion22: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+tilion22: folds
+Uncalled bet ($2) returned to sim5sim5
+sim5sim5 collected $2 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: sim5sim5 (big blind) collected ($2)
+Seat 5: tilion22 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #167380064177:  Hold'em Limit ($3/$6 USD) - 2017/03/10 8:35:05 ET
+Table 'Genua II' 6-max Seat #2 is the button
+Seat 2: sim5sim5 ($95.50 in chips)
+Seat 5: tilion22 ($113 in chips)
+sim5sim5: posts small blind $1
+tilion22: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+tilion22: folds
+Uncalled bet ($3) returned to sim5sim5
+sim5sim5 collected $6 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: sim5sim5 (button) (small blind) collected ($6)
+Seat 5: tilion22 (big blind) folded before Flop
+
+
+PokerStars Hand #167380047097:  Hold'em Limit ($3/$6 USD) - 2017/03/10 8:34:34 ET
+Table 'Genua II' 6-max Seat #5 is the button
+Seat 2: sim5sim5 ($72 in chips)
+Seat 5: tilion22 ($137 in chips)
+tilion22: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+tilion22: raises $3 to $6
+sim5sim5: calls $3
+*** FLOP *** [6h Kc Qh]
+sim5sim5: checks
+tilion22: bets $3
+sim5sim5: raises $3 to $6
+tilion22: calls $3
+*** TURN *** [6h Kc Qh] [4s]
+sim5sim5: bets $6
+tilion22: calls $6
+*** RIVER *** [6h Kc Qh 4s] [Tc]
+sim5sim5: bets $6
+tilion22: calls $6
+*** SHOW DOWN ***
+sim5sim5: shows [7s Kh] (a pair of Kings)
+tilion22: mucks hand
+sim5sim5 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [6h Kc Qh 4s Tc]
+Seat 2: sim5sim5 (big blind) showed [7s Kh] and won ($47.50) with a pair of Kings
+Seat 5: tilion22 (button) (small blind) mucked
+
+
+PokerStars Hand #167380098807:  Hold'em Limit ($3/$6 USD) - 2017/03/10 8:36:08 ET
+Table 'Genua II' 6-max Seat #2 is the button
+Seat 2: sim5sim5 ($109.02 in chips)
+Seat 5: tilion22 ($99 in chips)
+sim5sim5: posts small blind $1
+tilion22: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+tilion22: raises $3 to $9
+sim5sim5: calls $3
+*** FLOP *** [7c 4s 9c]
+tilion22: bets $3
+sim5sim5: calls $3
+*** TURN *** [7c 4s 9c] [2s]
+tilion22: bets $6
+sim5sim5: raises $6 to $12
+tilion22: calls $6
+*** RIVER *** [7c 4s 9c 2s] [Jh]
+tilion22: checks
+sim5sim5: bets $6
+tilion22: calls $6
+*** SHOW DOWN ***
+sim5sim5: shows [7s Ts] (a pair of Sevens)
+tilion22: mucks hand
+sim5sim5 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [7c 4s 9c 2s Jh]
+Seat 2: sim5sim5 (button) (small blind) showed [7s Ts] and won ($59.50) with a pair of Sevens
+Seat 5: tilion22 (big blind) mucked
+
+
+PokerStars Hand #167380080978:  Hold'em Limit ($3/$6 USD) - 2017/03/10 8:35:35 ET
+Table 'Genua II' 6-max Seat #5 is the button
+Seat 2: sim5sim5 ($105.26 in chips)
+Seat 5: tilion22 ($103 in chips)
+tilion22: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+tilion22: raises $3 to $6
+sim5sim5: folds
+Uncalled bet ($3) returned to tilion22
+tilion22 collected $6 from pot
+tilion22: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: sim5sim5 (big blind) folded before Flop
+Seat 5: tilion22 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #167380089067:  Hold'em Limit ($3/$6 USD) - 2017/03/10 8:35:50 ET
+Table 'Genua II' 6-max Seat #2 is the button
+Seat 2: sim5sim5 ($102.26 in chips)
+Seat 5: tilion22 ($106 in chips)
+sim5sim5: posts small blind $1
+tilion22: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+tilion22: calls $3
+*** FLOP *** [Ah 5c As]
+tilion22: checks
+sim5sim5: bets $3
+tilion22: folds
+Uncalled bet ($3) returned to sim5sim5
+sim5sim5 collected $11.76 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ah 5c As]
+Seat 2: sim5sim5 (button) (small blind) collected ($11.76)
+Seat 5: tilion22 (big blind) folded on the Flop
+
+
+PokerStars Hand #167380117664:  Hold'em Limit ($3/$6 USD) - 2017/03/10 8:36:42 ET
+Table 'Genua II' 6-max Seat #5 is the button
+Seat 2: sim5sim5 ($138.52 in chips)
+Seat 5: tilion22 ($69 in chips)
+tilion22: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+tilion22: raises $3 to $6
+sim5sim5: folds
+Uncalled bet ($3) returned to tilion22
+tilion22 collected $6 from pot
+tilion22: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: sim5sim5 (big blind) folded before Flop
+Seat 5: tilion22 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #167380124533:  Hold'em Limit ($3/$6 USD) - 2017/03/10 8:36:55 ET
+Table 'Genua II' 6-max Seat #2 is the button
+Seat 2: sim5sim5 ($135.52 in chips)
+Seat 5: tilion22 ($72 in chips)
+sim5sim5: posts small blind $1
+tilion22: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+tilion22: calls $3
+*** FLOP *** [Jc 6d 4s]
+tilion22: checks
+sim5sim5: bets $3
+tilion22: raises $3 to $6
+sim5sim5: calls $3
+*** TURN *** [Jc 6d 4s] [5h]
+tilion22: bets $6
+sim5sim5: calls $6
+*** RIVER *** [Jc 6d 4s 5h] [Tc]
+tilion22: bets $6
+sim5sim5: calls $6
+*** SHOW DOWN ***
+tilion22: shows [3s 5d] (a pair of Fives)
+sim5sim5: shows [Qc 6s] (a pair of Sixes)
+sim5sim5 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Jc 6d 4s 5h Tc]
+Seat 2: sim5sim5 (button) (small blind) showed [Qc 6s] and won ($47.50) with a pair of Sixes
+Seat 5: tilion22 (big blind) showed [3s 5d] and lost with a pair of Fives
+
+
+PokerStars Hand #167380140611:  Hold'em Limit ($3/$6 USD) - 2017/03/10 8:37:24 ET
+Table 'Genua II' 6-max Seat #5 is the button
+Seat 2: sim5sim5 ($159.02 in chips)
+Seat 5: tilion22 ($48 in chips)
+tilion22: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+tilion22: raises $3 to $6
+sim5sim5: calls $3
+*** FLOP *** [7c 3s Tc]
+sim5sim5: checks
+tilion22: bets $3
+sim5sim5: folds
+Uncalled bet ($3) returned to tilion22
+tilion22 collected $11.76 from pot
+tilion22: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7c 3s Tc]
+Seat 2: sim5sim5 (big blind) folded on the Flop
+Seat 5: tilion22 (button) (small blind) collected ($11.76)
+
+

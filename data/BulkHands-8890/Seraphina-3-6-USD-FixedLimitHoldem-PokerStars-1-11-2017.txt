@@ -1,0 +1,68 @@
+PokerStars Hand #164411077863:  Hold'em Limit ($3/$6 USD) - 2017/01/11 13:35:32 ET
+Table 'Seraphina' 6-max Seat #3 is the button
+Seat 3: aploshik ($68.42 in chips)
+Seat 4: TbIP-TbIP 88 ($72 in chips)
+aploshik: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+aploshik: raises $3 to $6
+TbIP-TbIP 88: calls $3
+*** FLOP *** [Qc Ac Jc]
+TbIP-TbIP 88: checks
+aploshik: bets $3
+TbIP-TbIP 88: raises $3 to $6
+aploshik: raises $3 to $9
+TbIP-TbIP 88: calls $3
+*** TURN *** [Qc Ac Jc] [2d]
+TbIP-TbIP 88: checks
+aploshik: bets $6
+TbIP-TbIP 88: calls $6
+*** RIVER *** [Qc Ac Jc 2d] [Jh]
+TbIP-TbIP 88: checks
+aploshik: bets $6
+Krazy90 joins the table at seat #5
+TbIP-TbIP 88: folds
+Uncalled bet ($6) returned to aploshik
+aploshik collected $41.50 from pot
+aploshik: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Qc Ac Jc 2d Jh]
+Seat 3: aploshik (button) (small blind) collected ($41.50)
+Seat 4: TbIP-TbIP 88 (big blind) folded on the River
+
+
+PokerStars Hand #164411566958:  Hold'em Limit ($3/$6 USD) - 2017/01/11 13:44:01 ET
+Table 'Seraphina' 6-max Seat #4 is the button
+Seat 4: TbIP-TbIP 88 ($102.33 in chips)
+Seat 6: volkovsky ($75 in chips)
+TbIP-TbIP 88: posts small blind $1
+Krazy90: is sitting out
+volkovsky: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88: raises $3 to $6
+volkovsky: calls $3
+*** FLOP *** [3c 7s Qd]
+volkovsky: checks
+Krazy90 leaves the table
+TbIP-TbIP 88: bets $3
+volkovsky: raises $3 to $6
+TbIP-TbIP 88: raises $3 to $9
+volkovsky: calls $3
+*** TURN *** [3c 7s Qd] [Kd]
+volkovsky: checks
+TbIP-TbIP 88: checks
+*** RIVER *** [3c 7s Qd Kd] [Ks]
+volkovsky: checks
+TbIP-TbIP 88: checks
+*** SHOW DOWN ***
+volkovsky: shows [5c 6c] (a pair of Kings)
+TbIP-TbIP 88: shows [Ac 6h] (a pair of Kings - Ace kicker)
+TbIP-TbIP 88 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3c 7s Qd Kd Ks]
+Seat 4: TbIP-TbIP 88 (button) (small blind) showed [Ac 6h] and won ($29.50) with a pair of Kings
+Seat 6: volkovsky (big blind) showed [5c 6c] and lost with a pair of Kings
+
+

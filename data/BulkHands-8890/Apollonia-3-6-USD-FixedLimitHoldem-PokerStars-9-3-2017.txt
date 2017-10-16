@@ -1,0 +1,33 @@
+PokerStars Hand #175141745279:  Hold'em Limit ($3/$6 USD) - 2017/09/03 6:10:28 ET
+Table 'Apollonia' 6-max Seat #5 is the button
+Seat 2: zimin10 ($72 in chips)
+Seat 5: krossguard ($287.20 in chips)
+krossguard: posts small blind $1
+Anchig: is sitting out
+zimin10: posts big blind $3
+*** HOLE CARDS ***
+krossguard: raises $3 to $6
+zimin10: calls $3
+*** FLOP *** [2s 7d Qc]
+zimin10: checks
+krossguard: bets $3
+zimin10: calls $3
+*** TURN *** [2s 7d Qc] [3s]
+zimin10: checks
+krossguard: bets $6
+zimin10: raises $6 to $12
+krossguard: calls $6
+*** RIVER *** [2s 7d Qc 3s] [6h]
+zimin10: bets $6
+krossguard: calls $6
+*** SHOW DOWN ***
+zimin10: shows [Qh 2d] (two pair, Queens and Deuces)
+krossguard: mucks hand
+zimin10 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [2s 7d Qc 3s 6h]
+Seat 2: zimin10 (big blind) showed [Qh 2d] and won ($53.50) with two pair, Queens and Deuces
+Seat 5: krossguard (button) (small blind) mucked
+
+

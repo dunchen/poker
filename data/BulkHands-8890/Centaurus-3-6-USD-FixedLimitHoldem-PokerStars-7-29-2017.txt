@@ -1,0 +1,88 @@
+PokerStars Hand #173677220843:  Hold'em Limit ($3/$6 USD) - 2017/07/29 17:56:24 ET
+Table 'Centaurus' 6-max Seat #1 is the button
+Seat 1: Warner13 ($89 in chips)
+Seat 4: NewRocker ($150.50 in chips)
+Warner13: posts small blind $1
+NewRocker: posts big blind $3
+*** HOLE CARDS ***
+Warner13: raises $3 to $6
+NewRocker is disconnected
+NewRocker is connected
+NewRocker: calls $3
+*** FLOP *** [Jh 5h Th]
+NewRocker: bets $3
+Warner13: calls $3
+*** TURN *** [Jh 5h Th] [6c]
+NewRocker: bets $6
+Warner13: calls $6
+*** RIVER *** [Jh 5h Th 6c] [4d]
+NewRocker: bets $6
+Warner13: calls $6
+*** SHOW DOWN ***
+NewRocker: shows [Jd 5d] (two pair, Jacks and Fives)
+Warner13: mucks hand
+NewRocker collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Jh 5h Th 6c 4d]
+Seat 1: Warner13 (button) (small blind) mucked
+Seat 4: NewRocker (big blind) showed [Jd 5d] and won ($41.50) with two pair, Jacks and Fives
+
+
+PokerStars Hand #173679867473:  Hold'em Limit ($3/$6 USD) - 2017/07/29 19:05:56 ET
+Table 'Centaurus' 6-max Seat #4 is the button
+Seat 1: Velbor107 ($300 in chips)
+Seat 4: anebodil ($118.85 in chips)
+anebodil: posts small blind $1
+AzureCaper joins the table at seat #5
+Velbor107: posts big blind $3
+*** HOLE CARDS ***
+anebodil: calls $2
+Velbor107: checks
+*** FLOP *** [2h Qd 5c]
+Velbor107: bets $3
+anebodil: calls $3
+*** TURN *** [2h Qd 5c] [Tc]
+Velbor107: checks
+anebodil: bets $6
+Velbor107: folds
+Uncalled bet ($6) returned to anebodil
+anebodil collected $11.76 from pot
+anebodil: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2h Qd 5c Tc]
+Seat 1: Velbor107 (big blind) folded on the Turn
+Seat 4: anebodil (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #173679901098:  Hold'em Limit ($3/$6 USD) - 2017/07/29 19:06:53 ET
+Table 'Centaurus' 6-max Seat #1 is the button
+Seat 1: Velbor107 ($294 in chips)
+Seat 4: anebodil ($124.61 in chips)
+Velbor107: posts small blind $1
+anebodil: posts big blind $3
+*** HOLE CARDS ***
+Velbor107: raises $3 to $6
+anebodil: calls $3
+*** FLOP *** [Th Ac 7c]
+anebodil: checks
+Velbor107: bets $3
+anebodil: calls $3
+*** TURN *** [Th Ac 7c] [9s]
+anebodil: bets $6
+Velbor107: calls $6
+*** RIVER *** [Th Ac 7c 9s] [4s]
+anebodil: bets $6
+Velbor107: calls $6
+*** SHOW DOWN ***
+anebodil: shows [2c 2h] (a pair of Deuces)
+Velbor107: shows [9d Jc] (a pair of Nines)
+Velbor107 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Th Ac 7c 9s 4s]
+Seat 1: Velbor107 (button) (small blind) showed [9d Jc] and won ($41.50) with a pair of Nines
+Seat 4: anebodil (big blind) showed [2c 2h] and lost with a pair of Deuces
+
+

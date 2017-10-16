@@ -1,0 +1,34 @@
+PokerStars Hand #169795731075:  Hold'em Limit ($3/$6 USD) - 2017/05/01 2:04:13 ET
+Table 'Hyperenor' 6-max Seat #1 is the button
+Seat 1: LifeisagameX ($84 in chips)
+Seat 4: Snuffymo ($120 in chips)
+Chessnok joins the table at seat #5
+LifeisagameX: posts small blind $1
+Snuffymo: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+Snuffymo: calls $3
+*** FLOP *** [Qc 7c Ad]
+Snuffymo: checks
+LifeisagameX: bets $3
+Snuffymo: calls $3
+*** TURN *** [Qc 7c Ad] [6s]
+Snuffymo: checks
+LifeisagameX: bets $6
+Snuffymo: calls $6
+*** RIVER *** [Qc 7c Ad 6s] [Ts]
+Snuffymo: checks
+LifeisagameX: bets $6
+Snuffymo: raises $6 to $12
+LifeisagameX: calls $6
+*** SHOW DOWN ***
+Snuffymo: shows [Th 7h] (two pair, Tens and Sevens)
+LifeisagameX: shows [6h Ac] (two pair, Aces and Sixes)
+LifeisagameX collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Qc 7c Ad 6s Ts]
+Seat 1: LifeisagameX (button) (small blind) showed [6h Ac] and won ($53.50) with two pair, Aces and Sixes
+Seat 4: Snuffymo (big blind) showed [Th 7h] and lost with two pair, Tens and Sevens
+
+

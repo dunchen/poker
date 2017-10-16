@@ -1,0 +1,61 @@
+PokerStars Hand #149021956015:  Hold'em Limit ($3/$6 USD) - 2016/02/18 14:19:50 ET
+Table 'Ibarruri' 6-max Seat #4 is the button
+Seat 1: Zubasa07 ($502.40 in chips)
+Seat 4: boarcastle ($116.40 in chips)
+boarcastle: posts small blind $1
+Zubasa07: posts big blind $3
+*** HOLE CARDS ***
+boarcastle: raises $3 to $6
+Zubasa07: calls $3
+*** FLOP *** [Ac 5s 2d]
+Zubasa07: checks
+boarcastle: checks
+*** TURN *** [Ac 5s 2d] [Th]
+Zubasa07: checks
+boarcastle: bets $6
+Zubasa07: calls $6
+*** RIVER *** [Ac 5s 2d Th] [Ad]
+Zubasa07: checks
+boarcastle: bets $6
+Zubasa07: folds
+Uncalled bet ($6) returned to boarcastle
+boarcastle collected $23.52 from pot
+boarcastle: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Ac 5s 2d Th Ad]
+Seat 1: Zubasa07 (big blind) folded on the River
+Seat 4: boarcastle (button) (small blind) collected ($23.52)
+
+
+PokerStars Hand #149022031646:  Hold'em Limit ($3/$6 USD) - 2016/02/18 14:21:05 ET
+Table 'Ibarruri' 6-max Seat #1 is the button
+Seat 1: Zubasa07 ($490.40 in chips)
+Seat 4: boarcastle ($127.92 in chips)
+Zubasa07: posts small blind $1
+boarcastle: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+boarcastle: calls $3
+*** FLOP *** [Ac 8s 9c]
+boarcastle: checks
+Zubasa07: bets $3
+boarcastle: raises $3 to $6
+Zubasa07: calls $3
+*** TURN *** [Ac 8s 9c] [Qs]
+boarcastle: bets $6
+Zubasa07: calls $6
+*** RIVER *** [Ac 8s 9c Qs] [3d]
+boarcastle: bets $6
+Zubasa07: calls $6
+*** SHOW DOWN ***
+boarcastle: shows [8h 9d] (two pair, Nines and Eights)
+Zubasa07: mucks hand
+boarcastle collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Ac 8s 9c Qs 3d]
+Seat 1: Zubasa07 (button) (small blind) mucked
+Seat 4: boarcastle (big blind) showed [8h 9d] and won ($47.50) with two pair, Nines and Eights
+
+

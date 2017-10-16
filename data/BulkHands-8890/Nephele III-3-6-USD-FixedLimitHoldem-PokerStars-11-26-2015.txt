@@ -1,0 +1,119 @@
+PokerStars Hand #144419759178:  Hold'em Limit ($3/$6 USD) - 2015/11/26 13:43:15 ET
+Table 'Nephele III' 2-max Seat #1 is the button
+Seat 1: botkimp ($76.31 in chips)
+Seat 2: qiklanm ($18.84 in chips)
+botkimp: posts small blind $1
+qiklanm: posts big blind $3
+*** HOLE CARDS ***
+botkimp: raises $3 to $6
+qiklanm: raises $3 to $9
+botkimp: raises $3 to $12
+Betting is capped
+qiklanm: calls $3
+*** FLOP *** [8c Qd Tc]
+qiklanm: bets $3
+botkimp: raises $3 to $6
+qiklanm: raises $0.84 to $6.84 and is all-in
+botkimp: calls $0.84
+*** TURN *** [8c Qd Tc] [2d]
+*** RIVER *** [8c Qd Tc 2d] [9s]
+*** SHOW DOWN ***
+qiklanm: shows [Kh 5c] (high card King)
+botkimp: shows [6c Kc] (high card King)
+qiklanm collected $18.59 from pot
+botkimp collected $18.59 from pot
+*** SUMMARY ***
+Total pot $37.68 | Rake $0.50
+Board [8c Qd Tc 2d 9s]
+Seat 1: botkimp (button) (small blind) showed [6c Kc] and won ($18.59) with high card King
+Seat 2: qiklanm (big blind) showed [Kh 5c] and won ($18.59) with high card King
+
+
+PokerStars Hand #144419748456:  Hold'em Limit ($3/$6 USD) - 2015/11/26 13:43:02 ET
+Table 'Nephele III' 2-max Seat #2 is the button
+Seat 1: botkimp ($52.81 in chips)
+Seat 2: qiklanm ($42.84 in chips)
+qiklanm: posts small blind $1
+botkimp: posts big blind $3
+*** HOLE CARDS ***
+qiklanm: raises $3 to $6
+botkimp: raises $3 to $9
+qiklanm: raises $3 to $12
+Betting is capped
+botkimp: calls $3
+*** FLOP *** [5c Ah 7d]
+botkimp: bets $3
+qiklanm: raises $3 to $6
+botkimp: raises $3 to $9
+qiklanm: raises $3 to $12
+Betting is capped
+botkimp: calls $3
+*** TURN *** [5c Ah 7d] [2c]
+botkimp: bets $6
+qiklanm: folds
+Uncalled bet ($6) returned to botkimp
+botkimp collected $47.50 from pot
+botkimp: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [5c Ah 7d 2c]
+Seat 1: botkimp (big blind) collected ($47.50)
+Seat 2: qiklanm (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #144419812606:  Hold'em Limit ($3/$6 USD) - 2015/11/26 13:44:15 ET
+Table 'Nephele III' 2-max Seat #2 is the button
+Seat 1: botkimp ($90.46 in chips)
+Seat 2: qiklanm ($3.59 in chips)
+qiklanm: posts small blind $1
+botkimp: posts big blind $3
+*** HOLE CARDS ***
+qiklanm: calls $2
+botkimp: raises $3 to $6
+qiklanm: calls $0.59 and is all-in
+Uncalled bet ($2.41) returned to botkimp
+*** FLOP *** [Kh 2s 3c]
+*** TURN *** [Kh 2s 3c] [7s]
+*** RIVER *** [Kh 2s 3c 7s] [6h]
+*** SHOW DOWN ***
+botkimp: shows [Js 4h] (high card King)
+qiklanm: shows [Th 9h] (high card King - lower kicker)
+botkimp collected $7.04 from pot
+*** SUMMARY ***
+Total pot $7.18 | Rake $0.14
+Board [Kh 2s 3c 7s 6h]
+Seat 1: botkimp (big blind) showed [Js 4h] and won ($7.04) with high card King
+Seat 2: qiklanm (button) (small blind) showed [Th 9h] and lost with high card King
+
+
+PokerStars Hand #144419774146:  Hold'em Limit ($3/$6 USD) - 2015/11/26 13:43:32 ET
+Table 'Nephele III' 2-max Seat #2 is the button
+Seat 1: botkimp ($76.06 in chips)
+Seat 2: qiklanm ($18.59 in chips)
+qiklanm: posts small blind $1
+botkimp: posts big blind $3
+*** HOLE CARDS ***
+qiklanm: raises $3 to $6
+botkimp: raises $3 to $9
+qiklanm: raises $3 to $12
+Betting is capped
+botkimp: calls $3
+*** FLOP *** [Kd Tc 4s]
+botkimp: checks
+qiklanm: checks
+*** TURN *** [Kd Tc 4s] [Jh]
+botkimp: checks
+qiklanm: checks
+*** RIVER *** [Kd Tc 4s Jh] [Td]
+botkimp: bets $6
+qiklanm: folds
+Uncalled bet ($6) returned to botkimp
+botkimp collected $23.52 from pot
+botkimp: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Kd Tc 4s Jh Td]
+Seat 1: botkimp (big blind) collected ($23.52)
+Seat 2: qiklanm (button) (small blind) folded on the River
+
+

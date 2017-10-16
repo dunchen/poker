@@ -1,0 +1,32 @@
+PokerStars Hand #170431276771:  Hold'em Limit ($3/$6 USD) - 2017/05/14 19:01:57 ET
+Table 'Mirnaya' 6-max Seat #4 is the button
+Seat 4: Chessnok ($172.70 in chips)
+Seat 6: NewRocker ($113 in chips)
+Chessnok: posts small blind $1
+makimaki: is sitting out
+NewRocker: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+NAV_SERGG leaves the table
+NewRocker: raises $3 to $9
+Chessnok: calls $3
+*** FLOP *** [Js 3c Qd]
+NewRocker: bets $3
+Chessnok: calls $3
+*** TURN *** [Js 3c Qd] [9c]
+NewRocker: bets $6
+Chessnok: calls $6
+*** RIVER *** [Js 3c Qd 9c] [Kc]
+NewRocker: bets $6
+Chessnok: calls $6
+*** SHOW DOWN ***
+NewRocker: shows [Th Ac] (a straight, Ten to Ace)
+Chessnok: mucks hand
+NewRocker collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Js 3c Qd 9c Kc]
+Seat 4: Chessnok (button) (small blind) mucked
+Seat 6: NewRocker (big blind) showed [Th Ac] and won ($47.50) with a straight, Ten to Ace
+
+

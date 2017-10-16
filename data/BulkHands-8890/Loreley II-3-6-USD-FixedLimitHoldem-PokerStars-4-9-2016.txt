@@ -1,0 +1,64 @@
+PokerStars Hand #151668707301:  Hold'em Limit ($3/$6 USD) - 2016/04/09 12:52:22 ET
+Table 'Loreley II' 6-max Seat #3 is the button
+Seat 3: jl45259071 ($21.04 in chips)
+Seat 4: AzureCaper ($86.50 in chips)
+jl45259071: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [5s Ts 9c]
+AzureCaper: checks
+jl45259071: bets $3
+AzureCaper: calls $3
+*** TURN *** [5s Ts 9c] [Td]
+AzureCaper: checks
+jl45259071: bets $6
+AzureCaper: raises $6 to $12
+jl45259071: calls $6
+*** RIVER *** [5s Ts 9c Td] [Ac]
+AzureCaper: bets $6
+jl45259071: calls $0.04 and is all-in
+Uncalled bet ($5.96) returned to AzureCaper
+*** SHOW DOWN ***
+AzureCaper: shows [5h Kh] (two pair, Tens and Fives)
+jl45259071: shows [Qh 8d] (a pair of Tens)
+AzureCaper collected $41.58 from pot
+*** SUMMARY ***
+Total pot $42.08 | Rake $0.50
+Board [5s Ts 9c Td Ac]
+Seat 3: jl45259071 (button) (small blind) showed [Qh 8d] and lost with a pair of Tens
+Seat 4: AzureCaper (big blind) showed [5h Kh] and won ($41.58) with two pair, Tens and Fives
+
+
+PokerStars Hand #151668690611:  Hold'em Limit ($3/$6 USD) - 2016/04/09 12:52:02 ET
+Table 'Loreley II' 6-max Seat #4 is the button
+Seat 3: jl45259071 ($36.04 in chips)
+Seat 4: AzureCaper ($72 in chips)
+AzureCaper: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+belik555 joins the table at seat #5
+jl45259071: calls $3
+*** FLOP *** [5h 8h Js]
+jl45259071: checks
+AzureCaper: bets $3
+jl45259071: calls $3
+*** TURN *** [5h 8h Js] [3h]
+jl45259071: checks
+AzureCaper: checks
+*** RIVER *** [5h 8h Js 3h] [Qh]
+jl45259071: bets $6
+AzureCaper: calls $6
+*** SHOW DOWN ***
+jl45259071: shows [Kd 2h] (a flush, Queen high)
+AzureCaper: shows [7h Ad] (a flush, Queen high - Seven higher)
+AzureCaper collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5h 8h Js 3h Qh]
+Seat 3: jl45259071 (big blind) showed [Kd 2h] and lost with a flush, Queen high
+Seat 4: AzureCaper (button) (small blind) showed [7h Ad] and won ($29.50) with a flush, Queen high
+
+

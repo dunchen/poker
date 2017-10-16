@@ -1,0 +1,34 @@
+PokerStars Hand #158595293712:  Hold'em Limit ($3/$6 USD) - 2016/09/14 11:52:38 ET
+Table 'Sadachbia II' 6-max Seat #5 is the button
+Seat 2: Psynto ($77.64 in chips)
+Seat 5: Maliance ($106.38 in chips)
+Maliance: posts small blind $1
+Psynto: posts big blind $3
+*** HOLE CARDS ***
+Maliance: raises $3 to $6
+Psynto: raises $3 to $9
+Maliance: raises $3 to $12
+Betting is capped
+Psynto: calls $3
+*** FLOP *** [Tc 8c 5s]
+Psynto: checks
+Maliance: bets $3
+Psynto: calls $3
+*** TURN *** [Tc 8c 5s] [4c]
+Psynto: checks
+Maliance: bets $6
+Psynto: calls $6
+*** RIVER *** [Tc 8c 5s 4c] [5h]
+Psynto: checks
+Maliance: checks
+*** SHOW DOWN ***
+Psynto: shows [7c 7s] (two pair, Sevens and Fives)
+Maliance: mucks hand
+Psynto collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Tc 8c 5s 4c 5h]
+Seat 2: Psynto (big blind) showed [7c 7s] and won ($41.50) with two pair, Sevens and Fives
+Seat 5: Maliance (button) (small blind) mucked
+
+

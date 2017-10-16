@@ -1,0 +1,32 @@
+PokerStars Hand #154402276042:  Hold'em Limit ($3/$6 USD) - 2016/06/07 1:30:21 ET
+Table 'Ljuba' 6-max Seat #4 is the button
+Seat 3: SeanPeary ($35.76 in chips)
+Seat 4: LifeisagameX ($24 in chips)
+LifeisagameX: posts small blind $1
+SeanPeary: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+SeanPeary: raises $3 to $9
+LifeisagameX: calls $3
+*** FLOP *** [5c 4s 3h]
+SeanPeary: bets $3
+LifeisagameX: raises $3 to $6
+SeanPeary: calls $3
+*** TURN *** [5c 4s 3h] [7s]
+SeanPeary: checks
+LifeisagameX: bets $6
+SeanPeary: raises $6 to $12
+LifeisagameX: calls $3 and is all-in
+Uncalled bet ($3) returned to SeanPeary
+*** RIVER *** [5c 4s 3h 7s] [8h]
+*** SHOW DOWN ***
+SeanPeary: shows [As 6c] (a straight, Four to Eight)
+LifeisagameX: shows [4h 3c] (two pair, Fours and Threes)
+SeanPeary collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [5c 4s 3h 7s 8h]
+Seat 3: SeanPeary (big blind) showed [As 6c] and won ($47.50) with a straight, Four to Eight
+Seat 4: LifeisagameX (button) (small blind) showed [4h 3c] and lost with two pair, Fours and Threes
+
+

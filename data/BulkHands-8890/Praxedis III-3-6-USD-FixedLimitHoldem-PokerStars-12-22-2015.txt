@@ -1,0 +1,33 @@
+PokerStars Hand #145739139200:  Hold'em Limit ($3/$6 USD) - 2015/12/22 10:00:30 ET
+Table 'Praxedis III' 2-max Seat #2 is the button
+Seat 1: simper11 ($120 in chips)
+Seat 2: BigYelloFish ($120 in chips)
+BigYelloFish: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+simper11 said, "2 tables"
+simper11: calls $3
+*** FLOP *** [5c Qc 7h]
+simper11: checks
+BigYelloFish: bets $3
+simper11: raises $3 to $6
+BigYelloFish: calls $3
+*** TURN *** [5c Qc 7h] [7s]
+simper11: bets $6
+BigYelloFish: calls $6
+*** RIVER *** [5c Qc 7h 7s] [8d]
+simper11: bets $6
+BigYelloFish: raises $6 to $12
+simper11: calls $6
+*** SHOW DOWN ***
+BigYelloFish: shows [Qd Qh] (a full house, Queens full of Sevens)
+simper11: mucks hand
+BigYelloFish collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [5c Qc 7h 7s 8d]
+Seat 1: simper11 (big blind) mucked
+Seat 2: BigYelloFish (button) (small blind) showed [Qd Qh] and won ($59.50) with a full house, Queens full of Sevens
+
+

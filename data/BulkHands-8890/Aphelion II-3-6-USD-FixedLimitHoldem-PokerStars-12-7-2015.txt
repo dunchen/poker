@@ -1,0 +1,54 @@
+PokerStars Hand #144942331865:  Hold'em Limit ($3/$6 USD) - 2015/12/06 19:12:50 ET
+Table 'Aphelion II' 6-max Seat #3 is the button
+Seat 2: riggy101 ($115.88 in chips)
+Seat 3: zetje187 ($177.89 in chips)
+zetje187: posts small blind $1
+alexslep: is sitting out
+riggy101: posts big blind $3
+*** HOLE CARDS ***
+zetje187: raises $3 to $6
+riggy101: calls $3
+*** FLOP *** [4h Qs Jh]
+alexslep leaves the table
+riggy101: checks
+zetje187: bets $3
+riggy101: calls $3
+*** TURN *** [4h Qs Jh] [3d]
+riggy101: checks
+zetje187: checks
+*** RIVER *** [4h Qs Jh 3d] [Jc]
+riggy101: bets $6
+zetje187: calls $6
+*** SHOW DOWN ***
+riggy101: shows [Tc 8s] (a pair of Jacks)
+zetje187: shows [8c 8h] (two pair, Jacks and Eights)
+zetje187 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4h Qs Jh 3d Jc]
+Seat 2: riggy101 (big blind) showed [Tc 8s] and lost with a pair of Jacks
+Seat 3: zetje187 (button) (small blind) showed [8c 8h] and won ($29.50) with two pair, Jacks and Eights
+
+
+PokerStars Hand #144942350925:  Hold'em Limit ($3/$6 USD) - 2015/12/06 19:13:17 ET
+Table 'Aphelion II' 6-max Seat #2 is the button
+Seat 2: riggy101 ($100.88 in chips)
+Seat 3: zetje187 ($192.39 in chips)
+riggy101: posts small blind $1
+zetje187: posts big blind $3
+*** HOLE CARDS ***
+riggy101: raises $3 to $6
+zetje187: calls $3
+*** FLOP *** [Ts Qc 4h]
+zetje187: checks
+riggy101: bets $3
+zetje187: folds
+Uncalled bet ($3) returned to riggy101
+riggy101 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ts Qc 4h]
+Seat 2: riggy101 (button) (small blind) collected ($11.76)
+Seat 3: zetje187 (big blind) folded on the Flop
+
+

@@ -1,0 +1,103 @@
+PokerStars Hand #159521021508:  Hold'em Limit ($3/$6 USD) - 2016/10/05 15:16:25 ET
+Table 'Cloelia II' 6-max Seat #1 is the button
+Seat 1: kdcl ($120 in chips)
+Seat 2: TinaTurner72 ($120 in chips)
+kdcl: posts small blind $1
+TinaTurner72: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+TinaTurner72: calls $3
+*** FLOP *** [2h Kd Ks]
+TinaTurner72: checks
+kdcl: bets $3
+TinaTurner72: raises $3 to $6
+kdcl: calls $3
+*** TURN *** [2h Kd Ks] [5s]
+dmonr joins the table at seat #3
+krytalex joins the table at seat #4
+TinaTurner72: bets $6
+kdcl: calls $6
+*** RIVER *** [2h Kd Ks 5s] [3d]
+TinaTurner72: bets $6
+kdcl: calls $6
+*** SHOW DOWN ***
+TinaTurner72: shows [2d Td] (two pair, Kings and Deuces)
+kdcl: shows [2c Ah] (two pair, Kings and Deuces - Ace kicker)
+kdcl collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2h Kd Ks 5s 3d]
+Seat 1: kdcl (button) (small blind) showed [2c Ah] and won ($47.50) with two pair, Kings and Deuces
+Seat 2: TinaTurner72 (big blind) showed [2d Td] and lost with two pair, Kings and Deuces
+
+
+PokerStars Hand #159521383848:  Hold'em Limit ($3/$6 USD) - 2016/10/05 15:22:58 ET
+Table 'Cloelia II' 6-max Seat #3 is the button
+Seat 3: dmonr ($12.69 in chips)
+Seat 4: krytalex ($122.81 in chips)
+dmonr: posts small blind $1
+krytalex: posts big blind $3
+*** HOLE CARDS ***
+dmonr: folds
+Uncalled bet ($2) returned to krytalex
+krytalex collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: dmonr (button) (small blind) folded before Flop
+Seat 4: krytalex (big blind) collected ($2)
+
+
+PokerStars Hand #159521363046:  Hold'em Limit ($3/$6 USD) - 2016/10/05 15:22:35 ET
+Table 'Cloelia II' 6-max Seat #4 is the button
+Seat 3: dmonr ($21.69 in chips)
+Seat 4: krytalex ($114.17 in chips)
+krytalex: posts small blind $1
+TinaTurner72: is sitting out
+dmonr: posts big blind $3
+*** HOLE CARDS ***
+krytalex: raises $3 to $6
+dmonr: calls $3
+*** FLOP *** [2s 3s 2d]
+dmonr: checks
+TinaTurner72 leaves the table
+krytalex: bets $3
+dmonr: calls $3
+*** TURN *** [2s 3s 2d] [Kc]
+dmonr: checks
+krytalex: bets $6
+dmonr: folds
+Uncalled bet ($6) returned to krytalex
+krytalex collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2s 3s 2d Kc]
+Seat 3: dmonr (big blind) folded on the Turn
+Seat 4: krytalex (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #159521388890:  Hold'em Limit ($3/$6 USD) - 2016/10/05 15:23:03 ET
+Table 'Cloelia II' 6-max Seat #4 is the button
+Seat 3: dmonr ($11.69 in chips)
+Seat 4: krytalex ($123.81 in chips)
+krytalex: posts small blind $1
+dmonr: posts big blind $3
+*** HOLE CARDS ***
+krytalex: raises $3 to $6
+dmonr: raises $3 to $9
+krytalex: calls $3
+*** FLOP *** [Ks Td 7s]
+dmonr: bets $2.69 and is all-in
+krytalex: calls $2.69
+*** TURN *** [Ks Td 7s] [2c]
+*** RIVER *** [Ks Td 7s 2c] [5s]
+*** SHOW DOWN ***
+dmonr: shows [Jh Qd] (high card King)
+krytalex: shows [Qh 5h] (a pair of Fives)
+krytalex collected $22.91 from pot
+*** SUMMARY ***
+Total pot $23.38 | Rake $0.47
+Board [Ks Td 7s 2c 5s]
+Seat 3: dmonr (big blind) showed [Jh Qd] and lost with high card King
+Seat 4: krytalex (button) (small blind) showed [Qh 5h] and won ($22.91) with a pair of Fives
+
+

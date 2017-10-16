@@ -1,0 +1,213 @@
+PokerStars Hand #168175694449:  Hold'em Limit ($3/$6 USD) - 2017/03/27 5:20:30 ET
+Table 'Roka' 6-max Seat #3 is the button
+Seat 3: BugerDV ($72 in chips)
+Seat 4: SEUN SA ($172.56 in chips)
+BugerDV: posts small blind $1
+SEUN SA: posts big blind $3
+*** HOLE CARDS ***
+BugerDV: raises $3 to $6
+SEUN SA: calls $3
+*** FLOP *** [Jc As 9c]
+SEUN SA: checks
+BugerDV: bets $3
+SEUN SA: folds
+Uncalled bet ($3) returned to BugerDV
+BugerDV collected $11.76 from pot
+BugerDV: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jc As 9c]
+Seat 3: BugerDV (button) (small blind) collected ($11.76)
+Seat 4: SEUN SA (big blind) folded on the Flop
+
+
+PokerStars Hand #168175705270:  Hold'em Limit ($3/$6 USD) - 2017/03/27 5:21:00 ET
+Table 'Roka' 6-max Seat #3 is the button
+Seat 3: BugerDV ($78.76 in chips)
+Seat 4: SEUN SA ($165.56 in chips)
+BugerDV: posts small blind $1
+SEUN SA: posts big blind $3
+*** HOLE CARDS ***
+BugerDV: raises $3 to $6
+SEUN SA: calls $3
+*** FLOP *** [7c 2c Ad]
+SEUN SA: checks
+BugerDV: bets $3
+SEUN SA: calls $3
+*** TURN *** [7c 2c Ad] [Ah]
+SEUN SA: checks
+BugerDV: bets $6
+SEUN SA: raises $6 to $12
+BugerDV: calls $6
+*** RIVER *** [7c 2c Ad Ah] [As]
+SEUN SA: bets $6
+BugerDV: calls $6
+*** SHOW DOWN ***
+SEUN SA: shows [5h 4d] (three of a kind, Aces)
+BugerDV: shows [2s 9s] (a full house, Aces full of Deuces)
+BugerDV collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [7c 2c Ad Ah As]
+Seat 3: BugerDV (button) (small blind) showed [2s 9s] and won ($53.50) with a full house, Aces full of Deuces
+Seat 4: SEUN SA (big blind) showed [5h 4d] and lost with three of a kind, Aces
+
+
+PokerStars Hand #168175702991:  Hold'em Limit ($3/$6 USD) - 2017/03/27 5:20:54 ET
+Table 'Roka' 6-max Seat #4 is the button
+Seat 3: BugerDV ($77.76 in chips)
+Seat 4: SEUN SA ($166.56 in chips)
+SEUN SA: posts small blind $1
+BugerDV: posts big blind $3
+*** HOLE CARDS ***
+SEUN SA: folds
+Uncalled bet ($2) returned to BugerDV
+BugerDV collected $2 from pot
+BugerDV: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: BugerDV (big blind) collected ($2)
+Seat 4: SEUN SA (button) (small blind) folded before Flop
+
+
+PokerStars Hand #168175726177:  Hold'em Limit ($3/$6 USD) - 2017/03/27 5:21:59 ET
+Table 'Roka' 6-max Seat #3 is the button
+Seat 3: BugerDV ($78.26 in chips)
+Seat 4: SEUN SA ($165.06 in chips)
+BugerDV: posts small blind $1
+SEUN SA: posts big blind $3
+*** HOLE CARDS ***
+BugerDV: raises $3 to $6
+SEUN SA: calls $3
+*** FLOP *** [Ts 3c 3h]
+SEUN SA: checks
+BugerDV: bets $3
+SEUN SA: calls $3
+*** TURN *** [Ts 3c 3h] [7d]
+rascal_319 joins the table at seat #5
+SEUN SA: checks
+BugerDV: bets $6
+pro_gosy joins the table at seat #2
+SEUN SA: calls $6
+*** RIVER *** [Ts 3c 3h 7d] [Ad]
+SEUN SA: checks
+BugerDV: checks
+*** SHOW DOWN ***
+SEUN SA: shows [4d 4s] (two pair, Fours and Threes)
+BugerDV: shows [7c 2c] (two pair, Sevens and Threes)
+BugerDV collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ts 3c 3h 7d Ad]
+Seat 3: BugerDV (button) (small blind) showed [7c 2c] and won ($29.50) with two pair, Sevens and Threes
+Seat 4: SEUN SA (big blind) showed [4d 4s] and lost with two pair, Fours and Threes
+
+
+PokerStars Hand #168175715192:  Hold'em Limit ($3/$6 USD) - 2017/03/27 5:21:28 ET
+Table 'Roka' 6-max Seat #4 is the button
+Seat 3: BugerDV ($105.26 in chips)
+Seat 4: SEUN SA ($138.56 in chips)
+SEUN SA: posts small blind $1
+BugerDV: posts big blind $3
+*** HOLE CARDS ***
+SEUN SA: raises $3 to $6
+BugerDV: raises $3 to $9
+SEUN SA: raises $3 to $12
+Betting is capped
+BugerDV: calls $3
+*** FLOP *** [Kh Tc 8c]
+BugerDV: checks
+SEUN SA: bets $3
+BugerDV: calls $3
+*** TURN *** [Kh Tc 8c] [Kd]
+BugerDV: checks
+SEUN SA: bets $6
+BugerDV: calls $6
+*** RIVER *** [Kh Tc 8c Kd] [Jc]
+BugerDV: checks
+SEUN SA: bets $6
+BugerDV: calls $6
+*** SHOW DOWN ***
+SEUN SA: shows [9s 7c] (a straight, Seven to Jack)
+BugerDV: mucks hand
+SEUN SA collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Kh Tc 8c Kd Jc]
+Seat 3: BugerDV (big blind) mucked
+Seat 4: SEUN SA (button) (small blind) showed [9s 7c] and won ($53.50) with a straight, Seven to Jack
+
+
+PokerStars Hand #168177280838:  Hold'em Limit ($3/$6 USD) - 2017/03/27 6:31:09 ET
+Table 'Roka' 6-max Seat #5 is the button
+Seat 3: muugiii944 ($209.11 in chips)
+Seat 5: Actionni13 ($151.56 in chips)
+Actionni13: posts small blind $1
+B_loJkl: is sitting out
+muugiii944: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+muugiii944: folds
+Uncalled bet ($3) returned to Actionni13
+Actionni13 collected $6 from pot
+Actionni13: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: muugiii944 (big blind) folded before Flop
+Seat 5: Actionni13 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #168177283500:  Hold'em Limit ($3/$6 USD) - 2017/03/27 6:31:15 ET
+Table 'Roka' 6-max Seat #3 is the button
+Seat 3: muugiii944 ($206.11 in chips)
+Seat 5: Actionni13 ($154.56 in chips)
+muugiii944: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+muugiii944: raises $3 to $6
+Actionni13: raises $3 to $9
+muugiii944: calls $3
+*** FLOP *** [6s Td Ah]
+Actionni13: bets $3
+muugiii944: folds
+Uncalled bet ($3) returned to Actionni13
+Actionni13 collected $17.64 from pot
+Actionni13: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6s Td Ah]
+Seat 3: muugiii944 (button) (small blind) folded on the Flop
+Seat 5: Actionni13 (big blind) collected ($17.64)
+
+
+PokerStars Hand #168178303428:  Hold'em Limit ($3/$6 USD) - 2017/03/27 7:12:32 ET
+Table 'Roka' 6-max Seat #1 is the button
+Seat 1: Kasperla ($271.28 in chips)
+Seat 2: B_loJkl ($150 in chips)
+Kasperla: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Kasperla: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [5c Th 7c]
+B_loJkl: checks
+Kasperla: bets $3
+B_loJkl: calls $3
+*** TURN *** [5c Th 7c] [Ac]
+B_loJkl: checks
+Kasperla: bets $6
+B_loJkl: calls $6
+*** RIVER *** [5c Th 7c Ac] [Qd]
+B_loJkl: checks
+Kasperla: checks
+*** SHOW DOWN ***
+B_loJkl: shows [4c 5h] (a pair of Fives)
+Kasperla: mucks hand
+B_loJkl collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5c Th 7c Ac Qd]
+Seat 1: Kasperla (button) (small blind) mucked
+Seat 2: B_loJkl (big blind) showed [4c 5h] and won ($29.50) with a pair of Fives
+
+

@@ -1,0 +1,30 @@
+PokerStars Hand #171163753505:  Hold'em Limit ($3/$6 USD) - 2017/05/31 13:38:40 ET
+Table 'Marfik II' 6-max Seat #6 is the button
+Seat 1: fwilliams007 ($84.09 in chips)
+Seat 6: sim5sim5 ($76 in chips)
+sim5sim5: posts small blind $1
+fwilliams007: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+fwilliams007: calls $3
+*** FLOP *** [4d 6h Jh]
+fwilliams007: checks
+sim5sim5: bets $3
+fwilliams007: calls $3
+*** TURN *** [4d 6h Jh] [Qd]
+fwilliams007: checks
+sim5sim5: checks
+*** RIVER *** [4d 6h Jh Qd] [4c]
+fwilliams007: bets $6
+sim5sim5: calls $6
+*** SHOW DOWN ***
+fwilliams007: shows [Qc 4h] (a full house, Fours full of Queens)
+sim5sim5: mucks hand
+fwilliams007 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4d 6h Jh Qd 4c]
+Seat 1: fwilliams007 (big blind) showed [Qc 4h] and won ($29.50) with a full house, Fours full of Queens
+Seat 6: sim5sim5 (button) (small blind) mucked
+
+

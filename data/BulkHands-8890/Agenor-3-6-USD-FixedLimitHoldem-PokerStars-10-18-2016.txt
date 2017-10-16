@@ -1,0 +1,100 @@
+PokerStars Hand #160114133783:  Hold'em Limit ($3/$6 USD) - 2016/10/18 15:02:20 ET
+Table 'Agenor' 6-max Seat #4 is the button
+Seat 3: cheeestar198 ($35.76 in chips)
+Seat 4: AzureCaper ($72 in chips)
+AzureCaper: posts small blind $1
+cheeestar198: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+cheeestar198: calls $3
+*** FLOP *** [5c 8c 3s]
+cheeestar198: checks
+AzureCaper: bets $3
+cheeestar198: raises $3 to $6
+AzureCaper: calls $3
+*** TURN *** [5c 8c 3s] [9s]
+cheeestar198: bets $6
+AzureCaper: raises $6 to $12
+cheeestar198: calls $6
+*** RIVER *** [5c 8c 3s 9s] [Kh]
+cheeestar198: bets $6
+AzureCaper: raises $6 to $12
+cheeestar198: calls $5.76 and is all-in
+Uncalled bet ($0.24) returned to AzureCaper
+*** SHOW DOWN ***
+AzureCaper: shows [Js 9h] (a pair of Nines)
+cheeestar198: shows [4c 8h] (a pair of Eights)
+AzureCaper collected $71.02 from pot
+*** SUMMARY ***
+Total pot $71.52 | Rake $0.50
+Board [5c 8c 3s 9s Kh]
+Seat 3: cheeestar198 (big blind) showed [4c 8h] and lost with a pair of Eights
+Seat 4: AzureCaper (button) (small blind) showed [Js 9h] and won ($71.02) with a pair of Nines
+
+
+PokerStars Hand #160114168964:  Hold'em Limit ($3/$6 USD) - 2016/10/18 15:03:02 ET
+Table 'Agenor' 6-max Seat #3 is the button
+Seat 3: cheeestar198 ($30 in chips)
+Seat 4: AzureCaper ($107.26 in chips)
+cheeestar198: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+cheeestar198: calls $2
+AzureCaper: raises $3 to $6
+cheeestar198: calls $3
+*** FLOP *** [2d Jc 9h]
+AzureCaper: bets $3
+UNABELIEVE joins the table at seat #2
+cheeestar198: calls $3
+*** TURN *** [2d Jc 9h] [7d]
+AzureCaper: bets $6
+cheeestar198: calls $6
+*** RIVER *** [2d Jc 9h 7d] [2s]
+AzureCaper: checks
+cheeestar198: checks
+*** SHOW DOWN ***
+AzureCaper: shows [7s 7c] (a full house, Sevens full of Deuces)
+cheeestar198: mucks hand
+AzureCaper collected $29.50 from pot
+Koraseg joins the table at seat #1
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2d Jc 9h 7d 2s]
+Seat 3: cheeestar198 (button) (small blind) mucked
+Seat 4: AzureCaper (big blind) showed [7s 7c] and won ($29.50) with a full house, Sevens full of Deuces
+
+
+PokerStars Hand #160116483644:  Hold'em Limit ($3/$6 USD) - 2016/10/18 15:48:07 ET
+Table 'Agenor' 6-max Seat #4 is the button
+Seat 1: Koraseg ($191.09 in chips)
+Seat 4: AzureCaper ($205.36 in chips)
+AzureCaper: posts small blind $1
+Koraseg: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+Koraseg: calls $3
+*** FLOP *** [Js 2d Tc]
+Koraseg: checks
+AzureCaper: bets $3
+Koraseg: raises $3 to $6
+AzureCaper: calls $3
+*** TURN *** [Js 2d Tc] [6s]
+Koraseg: bets $6
+AzureCaper: raises $6 to $12
+Koraseg: calls $6
+*** RIVER *** [Js 2d Tc 6s] [9s]
+Koraseg: checks
+AzureCaper: bets $6
+Koraseg: calls $6
+*** SHOW DOWN ***
+AzureCaper: shows [Qs Qd] (a pair of Queens)
+Koraseg: shows [Qc Qh] (a pair of Queens)
+Koraseg collected $29.75 from pot
+AzureCaper collected $29.75 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Js 2d Tc 6s 9s]
+Seat 1: Koraseg (big blind) showed [Qc Qh] and won ($29.75) with a pair of Queens
+Seat 4: AzureCaper (button) (small blind) showed [Qs Qd] and won ($29.75) with a pair of Queens
+
+

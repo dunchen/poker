@@ -1,0 +1,35 @@
+PokerStars Hand #165341147783:  Hold'em Limit ($3/$6 USD) - 2017/01/29 5:56:31 ET
+Table 'Meyermann' 6-max Seat #6 is the button
+Seat 4: Njiaans ($107.08 in chips)
+Seat 6: AA_ILI ($131.64 in chips)
+IgorVish will be allowed to play after the button
+AA_ILI: posts small blind $1
+izzyzzy: is sitting out
+Njiaans: posts big blind $3
+*** HOLE CARDS ***
+AA_ILI: raises $3 to $6
+Njiaans: raises $3 to $9
+izzyzzy leaves the table
+AA_ILI: calls $3
+*** FLOP *** [5c Jh 2c]
+Njiaans: bets $3
+AA_ILI: calls $3
+*** TURN *** [5c Jh 2c] [Jc]
+Njiaans: bets $6
+AA_ILI: raises $6 to $12
+Njiaans: calls $6
+*** RIVER *** [5c Jh 2c Jc] [4h]
+Njiaans: checks
+AA_ILI: bets $6
+Njiaans: calls $6
+*** SHOW DOWN ***
+AA_ILI: shows [6d 6s] (two pair, Jacks and Sixes)
+Njiaans: mucks hand
+AA_ILI collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [5c Jh 2c Jc 4h]
+Seat 4: Njiaans (big blind) mucked
+Seat 6: AA_ILI (button) (small blind) showed [6d 6s] and won ($59.50) with two pair, Jacks and Sixes
+
+

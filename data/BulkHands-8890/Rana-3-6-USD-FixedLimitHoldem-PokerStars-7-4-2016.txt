@@ -1,0 +1,48 @@
+PokerStars Hand #155552135703:  Hold'em Limit ($3/$6 USD) - 2016/07/04 11:33:58 ET
+Table 'Rana' 10-max Seat #2 is the button
+Seat 2: anebodil ($112.88 in chips)
+Seat 7: VolkovDmitri ($120 in chips)
+anebodil: posts small blind $1
+krossguard joins the table at seat #3
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+anebodil: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: anebodil (button) (small blind) folded before Flop
+Seat 7: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #155552143267:  Hold'em Limit ($3/$6 USD) - 2016/07/04 11:34:11 ET
+Table 'Rana' 10-max Seat #7 is the button
+Seat 2: anebodil ($111.88 in chips)
+Seat 7: VolkovDmitri ($121 in chips)
+VolkovDmitri: posts small blind $1
+anebodil: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+anebodil: calls $3
+*** FLOP *** [Ks 7d 3s]
+anebodil: bets $3
+VolkovDmitri: raises $3 to $6
+anebodil: calls $3
+*** TURN *** [Ks 7d 3s] [3d]
+anebodil: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [Ks 7d 3s 3d] [Ah]
+anebodil: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+anebodil: shows [Kc 5h] (two pair, Kings and Threes)
+VolkovDmitri: mucks hand
+anebodil collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Ks 7d 3s 3d Ah]
+Seat 2: anebodil (big blind) showed [Kc 5h] and won ($47.50) with two pair, Kings and Threes
+Seat 7: VolkovDmitri (button) (small blind) mucked
+
+

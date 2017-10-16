@@ -1,0 +1,57 @@
+PokerStars Hand #149230858646:  Hold'em Limit ($3/$6 USD) - 2016/02/22 8:11:59 ET
+Table 'Cornelia' 10-max Seat #5 is the button
+Seat 1: VolkovDmitri ($147.50 in chips)
+Seat 5: partyalex92 ($140.76 in chips)
+partyalex92: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+partyalex92: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [7d 8c 2c]
+VolkovDmitri: checks
+partyalex92: checks
+*** TURN *** [7d 8c 2c] [9c]
+VolkovDmitri: checks
+partyalex92: checks
+*** RIVER *** [7d 8c 2c 9c] [7s]
+VolkovDmitri: bets $6
+partyalex92: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [4d 3d] (a pair of Sevens)
+partyalex92: shows [Jc Kd] (a pair of Sevens - King kicker)
+partyalex92 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [7d 8c 2c 9c 7s]
+Seat 1: VolkovDmitri (big blind) showed [4d 3d] and lost with a pair of Sevens
+Seat 5: partyalex92 (button) (small blind) showed [Jc Kd] and won ($23.52) with a pair of Sevens
+
+
+PokerStars Hand #149232124864:  Hold'em Limit ($3/$6 USD) - 2016/02/22 8:44:37 ET
+Table 'Cornelia' 10-max Seat #6 is the button
+Seat 1: VolkovDmitri ($299.01 in chips)
+Seat 6: Chessnok ($61 in chips)
+Chessnok: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+Leblanc1 leaves the table
+VolkovDmitri: calls $3
+*** FLOP *** [3s Ts 5c]
+VolkovDmitri: checks
+Chessnok: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [3s Ts 5c] [5s]
+VolkovDmitri: checks
+Chessnok: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to Chessnok
+Chessnok collected $17.64 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3s Ts 5c 5s]
+Seat 1: VolkovDmitri (big blind) folded on the Turn
+Seat 6: Chessnok (button) (small blind) collected ($17.64)
+
+

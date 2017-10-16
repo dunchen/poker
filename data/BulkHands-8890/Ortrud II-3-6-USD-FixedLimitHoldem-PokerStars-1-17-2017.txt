@@ -1,0 +1,123 @@
+PokerStars Hand #164733898580:  Hold'em Limit ($3/$6 USD) - 2017/01/17 13:55:14 ET
+Table 'Ortrud II' 6-max Seat #1 is the button
+Seat 1: Zubasa07 ($500 in chips)
+Seat 5: Titanic001 ($120 in chips)
+Zubasa07: posts small blind $1
+Titanic001: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: folds
+Uncalled bet ($2) returned to Titanic001
+Titanic001 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Zubasa07 (button) (small blind) folded before Flop
+Seat 5: Titanic001 (big blind) collected ($2)
+
+
+PokerStars Hand #164733904029:  Hold'em Limit ($3/$6 USD) - 2017/01/17 13:55:21 ET
+Table 'Ortrud II' 6-max Seat #5 is the button
+Seat 1: Zubasa07 ($499 in chips)
+Seat 5: Titanic001 ($121 in chips)
+Titanic001: posts small blind $1
+Zubasa07: posts big blind $3
+*** HOLE CARDS ***
+Titanic001: raises $3 to $6
+Zubasa07: raises $3 to $9
+Titanic001: calls $3
+*** FLOP *** [Jd 7h Kh]
+Zubasa07: bets $3
+Titanic001: raises $3 to $6
+Zubasa07: calls $3
+*** TURN *** [Jd 7h Kh] [2s]
+Zubasa07: checks
+Titanic001: bets $6
+Zubasa07: calls $6
+*** RIVER *** [Jd 7h Kh 2s] [8c]
+Zubasa07: checks
+Titanic001: bets $6
+avraam888 joins the table at seat #3
+Zubasa07: calls $6
+*** SHOW DOWN ***
+Titanic001: shows [Kc 8h] (two pair, Kings and Eights)
+Zubasa07: mucks hand
+Titanic001 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Jd 7h Kh 2s 8c]
+Seat 1: Zubasa07 (big blind) mucked
+Seat 5: Titanic001 (button) (small blind) showed [Kc 8h] and won ($53.50) with two pair, Kings and Eights
+
+
+PokerStars Hand #164736997098:  Hold'em Limit ($3/$6 USD) - 2017/01/17 14:48:13 ET
+Table 'Ortrud II' 6-max Seat #3 is the button
+Seat 3: slavii0o0 ($15.60 in chips)
+Seat 4: Great_Kang ($138.30 in chips)
+slavii0o0: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+slavii0o0: raises $3 to $6
+Great_Kang: raises $3 to $9
+slavii0o0: calls $3
+*** FLOP *** [Kd 8s 4d]
+Great_Kang: bets $3
+slavii0o0: folds
+Uncalled bet ($3) returned to Great_Kang
+Great_Kang collected $17.64 from pot
+Great_Kang: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kd 8s 4d]
+Seat 3: slavii0o0 (button) (small blind) folded on the Flop
+Seat 4: Great_Kang (big blind) collected ($17.64)
+
+
+PokerStars Hand #164736977367:  Hold'em Limit ($3/$6 USD) - 2017/01/17 14:47:54 ET
+Table 'Ortrud II' 6-max Seat #4 is the button
+Seat 3: slavii0o0 ($7.96 in chips)
+Seat 4: Great_Kang ($146.26 in chips)
+Great_Kang: posts small blind $1
+Chessnok: is sitting out
+slavii0o0: posts big blind $3
+*** HOLE CARDS ***
+Chessnok leaves the table
+Great_Kang: raises $3 to $6
+slavii0o0: raises $1.96 to $7.96 and is all-in
+Great_Kang: calls $1.96
+*** FLOP *** [Kh Jd Tc]
+*** TURN *** [Kh Jd Tc] [Th]
+*** RIVER *** [Kh Jd Tc Th] [4s]
+*** SHOW DOWN ***
+slavii0o0: shows [8s Js] (two pair, Jacks and Tens)
+Great_Kang: shows [6c Ad] (a pair of Tens)
+slavii0o0 collected $15.60 from pot
+*** SUMMARY ***
+Total pot $15.92 | Rake $0.32
+Board [Kh Jd Tc Th 4s]
+Seat 3: slavii0o0 (big blind) showed [8s Js] and won ($15.60) with two pair, Jacks and Tens
+Seat 4: Great_Kang (button) (small blind) showed [6c Ad] and lost with a pair of Tens
+
+
+PokerStars Hand #164737008711:  Hold'em Limit ($3/$6 USD) - 2017/01/17 14:48:25 ET
+Table 'Ortrud II' 6-max Seat #4 is the button
+Seat 3: slavii0o0 ($6.60 in chips)
+Seat 4: Great_Kang ($146.94 in chips)
+Great_Kang: posts small blind $1
+slavii0o0: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+slavii0o0: raises $0.60 to $6.60 and is all-in
+Great_Kang: calls $0.60
+*** FLOP *** [Ah 7d Ts]
+*** TURN *** [Ah 7d Ts] [Jh]
+*** RIVER *** [Ah 7d Ts Jh] [8h]
+*** SHOW DOWN ***
+slavii0o0: shows [Qd 4h] (high card Ace)
+Great_Kang: shows [Ac 2c] (a pair of Aces)
+Great_Kang collected $12.94 from pot
+*** SUMMARY ***
+Total pot $13.20 | Rake $0.26
+Board [Ah 7d Ts Jh 8h]
+Seat 3: slavii0o0 (big blind) showed [Qd 4h] and lost with high card Ace
+Seat 4: Great_Kang (button) (small blind) showed [Ac 2c] and won ($12.94) with a pair of Aces
+
+

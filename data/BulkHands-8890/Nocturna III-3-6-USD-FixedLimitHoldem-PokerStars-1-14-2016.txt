@@ -1,0 +1,83 @@
+PokerStars Hand #147020235758:  Hold'em Limit ($3/$6 USD) - 2016/01/14 9:51:02 ET
+Table 'Nocturna III' 2-max Seat #2 is the button
+Seat 1: Procketman ($114.95 in chips)
+Seat 2: wesman66 ($124.59 in chips)
+wesman66: posts small blind $1
+Procketman: posts big blind $3
+*** HOLE CARDS ***
+wesman66: raises $3 to $6
+Procketman: raises $3 to $9
+wesman66: raises $3 to $12
+Betting is capped
+Procketman: calls $3
+*** FLOP *** [6c Ad 6s]
+Procketman: bets $3
+wesman66: raises $3 to $6
+Procketman: raises $3 to $9
+wesman66: raises $3 to $12
+Betting is capped
+Procketman: calls $3
+*** TURN *** [6c Ad 6s] [2h]
+Procketman: bets $6
+wesman66: raises $6 to $12
+Procketman: raises $6 to $18
+wesman66: raises $6 to $24
+Betting is capped
+Procketman: calls $6
+*** RIVER *** [6c Ad 6s 2h] [3s]
+Procketman: bets $6
+wesman66: raises $6 to $12
+Procketman: raises $6 to $18
+wesman66: raises $6 to $24
+Betting is capped
+Procketman: folds
+Uncalled bet ($6) returned to wesman66
+wesman66 collected $131.50 from pot
+wesman66: doesn't show hand
+*** SUMMARY ***
+Total pot $132 | Rake $0.50
+Board [6c Ad 6s 2h 3s]
+Seat 1: Procketman (big blind) folded on the River
+Seat 2: wesman66 (button) (small blind) collected ($131.50)
+
+
+PokerStars Hand #147020262476:  Hold'em Limit ($3/$6 USD) - 2016/01/14 9:51:36 ET
+Table 'Nocturna III' 2-max Seat #1 is the button
+Seat 1: Procketman ($48.95 in chips)
+Seat 2: wesman66 ($190.09 in chips)
+Procketman: posts small blind $1
+wesman66: posts big blind $3
+*** HOLE CARDS ***
+Procketman: raises $3 to $6
+wesman66: raises $3 to $9
+Procketman: raises $3 to $12
+Betting is capped
+wesman66: calls $3
+*** FLOP *** [4h 9s 8d]
+wesman66: bets $3
+Procketman: raises $3 to $6
+wesman66: raises $3 to $9
+Procketman: raises $3 to $12
+Betting is capped
+wesman66: calls $3
+*** TURN *** [4h 9s 8d] [5s]
+wesman66: bets $6
+Procketman: raises $6 to $12
+wesman66: calls $6
+*** RIVER *** [4h 9s 8d 5s] [9h]
+wesman66: bets $6
+Procketman: raises $6 to $12
+wesman66: raises $6 to $18
+Procketman: calls $0.95 and is all-in
+Uncalled bet ($5.05) returned to wesman66
+*** SHOW DOWN ***
+wesman66: shows [Ac 4s] (two pair, Nines and Fours)
+Procketman: shows [Qd Ks] (a pair of Nines)
+wesman66 collected $97.40 from pot
+*** SUMMARY ***
+Total pot $97.90 | Rake $0.50
+Board [4h 9s 8d 5s 9h]
+Seat 1: Procketman (button) (small blind) showed [Qd Ks] and lost with a pair of Nines
+Seat 2: wesman66 (big blind) showed [Ac 4s] and won ($97.40) with two pair, Nines and Fours
+
+

@@ -1,0 +1,57 @@
+PokerStars Hand #162237090189:  Hold'em Limit ($3/$6 USD) - 2016/12/01 10:00:52 ET
+Table 'Gudrun' 6-max Seat #1 is the button
+Seat 1: TinaTurner72 ($120 in chips)
+Seat 4: tamnt10549 ($37.98 in chips)
+TinaTurner72: posts small blind $1
+tamnt10549: posts big blind $3
+*** HOLE CARDS ***
+TinaTurner72: raises $3 to $6
+ABATAPP joins the table at seat #5
+tamnt10549: calls $3
+*** FLOP *** [Kd Th 3s]
+tamnt10549: checks
+TinaTurner72: bets $3
+tamnt10549: folds
+Uncalled bet ($3) returned to TinaTurner72
+TinaTurner72 collected $11.76 from pot
+TinaTurner72: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kd Th 3s]
+Seat 1: TinaTurner72 (button) (small blind) collected ($11.76)
+Seat 4: tamnt10549 (big blind) folded on the Flop
+
+
+PokerStars Hand #162238226057:  Hold'em Limit ($3/$6 USD) - 2016/12/01 10:22:31 ET
+Table 'Gudrun' 6-max Seat #5 is the button
+Seat 4: tamnt10549 ($13.48 in chips)
+Seat 5: ABATAPP ($162.59 in chips)
+ABATAPP: posts small blind $1
+sinsadir: is sitting out
+TinaTurner72: is sitting out
+B_loJkl: is sitting out
+tamnt10549: posts big blind $3
+*** HOLE CARDS ***
+sinsadir leaves the table
+ABATAPP: raises $3 to $6
+TinaTurner72 leaves the table
+tamnt10549: calls $3
+*** FLOP *** [Jc Qh 7h]
+B_loJkl leaves the table
+tamnt10549: bets $3
+ABATAPP: raises $3 to $6
+tamnt10549: raises $1.48 to $7.48 and is all-in
+ABATAPP: calls $1.48
+*** TURN *** [Jc Qh 7h] [Th]
+*** RIVER *** [Jc Qh 7h Th] [Kh]
+*** SHOW DOWN ***
+tamnt10549: shows [8h Td] (a flush, King high)
+ABATAPP: shows [Jh 2h] (a flush, King high - Jack higher)
+ABATAPP collected $26.46 from pot
+*** SUMMARY ***
+Total pot $26.96 | Rake $0.50
+Board [Jc Qh 7h Th Kh]
+Seat 4: tamnt10549 (big blind) showed [8h Td] and lost with a flush, King high
+Seat 5: ABATAPP (button) (small blind) showed [Jh 2h] and won ($26.46) with a flush, King high
+
+

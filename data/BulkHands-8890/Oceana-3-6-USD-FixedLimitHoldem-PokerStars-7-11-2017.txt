@@ -1,0 +1,33 @@
+PokerStars Hand #172898435897:  Hold'em Limit ($3/$6 USD) - 2017/07/11 13:10:50 ET
+Table 'Oceana' 6-max Seat #3 is the button
+Seat 3: faxe93 ($120 in chips)
+Seat 5: krytalex ($120 in chips)
+faxe93: posts small blind $1
+krytalex: posts big blind $3
+*** HOLE CARDS ***
+faxe93: raises $3 to $6
+krytalex: raises $3 to $9
+faxe93: calls $3
+*** FLOP *** [Ts 8d Kd]
+krytalex: bets $3
+faxe93: raises $3 to $6
+krytalex: raises $3 to $9
+faxe93: calls $3
+*** TURN *** [Ts 8d Kd] [Jd]
+SLK500 joins the table at seat #1
+krytalex: bets $6
+faxe93: calls $6
+*** RIVER *** [Ts 8d Kd Jd] [9h]
+krytalex: bets $6
+faxe93: calls $6
+*** SHOW DOWN ***
+krytalex: shows [Qs Kc] (a straight, Nine to King)
+faxe93: mucks hand
+krytalex collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Ts 8d Kd Jd 9h]
+Seat 3: faxe93 (button) (small blind) mucked
+Seat 5: krytalex (big blind) showed [Qs Kc] and won ($59.50) with a straight, Nine to King
+
+

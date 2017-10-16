@@ -1,0 +1,31 @@
+PokerStars Hand #171571666608:  Hold'em Limit ($3/$6 USD) - 2017/06/09 19:44:43 ET
+Table 'Rafita' 6-max Seat #1 is the button
+Seat 1: Chessnok ($120 in chips)
+Seat 4: adi81pl ($34.22 in chips)
+Chessnok: posts small blind $1
+adi81pl: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+adi81pl: calls $3
+*** FLOP *** [9c 6h 8c]
+adi81pl: checks
+Chessnok: bets $3
+adi81pl: calls $3
+*** TURN *** [9c 6h 8c] [6d]
+adi81pl: checks
+Chessnok: bets $6
+adi81pl: calls $6
+*** RIVER *** [9c 6h 8c 6d] [7s]
+adi81pl: bets $6
+Chessnok: calls $6
+*** SHOW DOWN ***
+adi81pl: shows [Kh Td] (a straight, Six to Ten)
+Chessnok: mucks hand
+adi81pl collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9c 6h 8c 6d 7s]
+Seat 1: Chessnok (button) (small blind) mucked
+Seat 4: adi81pl (big blind) showed [Kh Td] and won ($41.50) with a straight, Six to Ten
+
+

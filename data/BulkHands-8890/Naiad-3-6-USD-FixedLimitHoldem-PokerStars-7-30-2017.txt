@@ -1,0 +1,112 @@
+PokerStars Hand #173692123681:  Hold'em Limit ($3/$6 USD) - 2017/07/30 5:12:47 ET
+Table 'Naiad' 6-max Seat #3 is the button
+Seat 3: Nijadperest ($492.38 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+Nijadperest: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Nijadperest: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: Nijadperest (button) (small blind) folded before Flop
+Seat 4: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #173692125995:  Hold'em Limit ($3/$6 USD) - 2017/07/30 5:12:53 ET
+Table 'Naiad' 6-max Seat #4 is the button
+Seat 3: Nijadperest ($491.38 in chips)
+Seat 4: VolkovDmitri ($121 in chips)
+VolkovDmitri: posts small blind $1
+Nijadperest: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Nijadperest: calls $3
+*** FLOP *** [Jh 5c Qs]
+Nijadperest: checks
+VolkovDmitri: bets $3
+Nijadperest: calls $3
+*** TURN *** [Jh 5c Qs] [6h]
+Nijadperest: checks
+VolkovDmitri: checks
+*** RIVER *** [Jh 5c Qs 6h] [9c]
+Nijadperest: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to Nijadperest
+Nijadperest collected $17.64 from pot
+Nijadperest: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Jh 5c Qs 6h 9c]
+Seat 3: Nijadperest (big blind) collected ($17.64)
+Seat 4: VolkovDmitri (button) (small blind) folded on the River
+
+
+PokerStars Hand #173692134537:  Hold'em Limit ($3/$6 USD) - 2017/07/30 5:13:16 ET
+Table 'Naiad' 6-max Seat #3 is the button
+Seat 3: Nijadperest ($500.02 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+Nijadperest: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Nijadperest: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+Nijadperest: calls $3
+*** FLOP *** [Js 3s Ts]
+VolkovDmitri: bets $3
+Nijadperest: calls $3
+*** TURN *** [Js 3s Ts] [3d]
+VolkovDmitri: checks
+Nijadperest: bets $6
+bangolfaren joins the table at seat #5
+VolkovDmitri: calls $6
+*** RIVER *** [Js 3s Ts 3d] [As]
+VolkovDmitri: checks
+Nijadperest: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [9c Qc] (a pair of Threes)
+Nijadperest: shows [8h Ah] (two pair, Aces and Threes)
+Nijadperest collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Js 3s Ts 3d As]
+Seat 3: Nijadperest (button) (small blind) showed [8h Ah] and won ($35.50) with two pair, Aces and Threes
+Seat 4: VolkovDmitri (big blind) showed [9c Qc] and lost with a pair of Threes
+
+
+PokerStars Hand #173692444927:  Hold'em Limit ($3/$6 USD) - 2017/07/30 5:26:27 ET
+Table 'Naiad' 6-max Seat #2 is the button
+Seat 2: InvHam ($147.22 in chips)
+Seat 5: bangolfaren ($104.04 in chips)
+InvHam: posts small blind $1
+makimaki: is sitting out
+bangolfaren: posts big blind $3
+*** HOLE CARDS ***
+InvHam: raises $3 to $6
+bangolfaren: calls $3
+*** FLOP *** [7d 3d 8s]
+bangolfaren: checks
+InvHam: bets $3
+bangolfaren: calls $3
+*** TURN *** [7d 3d 8s] [7c]
+bangolfaren: checks
+InvHam: bets $6
+makimaki leaves the table
+bangolfaren: calls $6
+*** RIVER *** [7d 3d 8s 7c] [6h]
+bangolfaren: checks
+InvHam: bets $6
+bangolfaren: calls $6
+*** SHOW DOWN ***
+InvHam: shows [3c As] (two pair, Sevens and Threes)
+bangolfaren: mucks hand
+InvHam collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [7d 3d 8s 7c 6h]
+Seat 2: InvHam (button) (small blind) showed [3c As] and won ($41.50) with two pair, Sevens and Threes
+Seat 5: bangolfaren (big blind) mucked
+
+

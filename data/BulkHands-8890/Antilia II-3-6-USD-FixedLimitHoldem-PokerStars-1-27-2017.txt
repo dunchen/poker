@@ -1,0 +1,85 @@
+PokerStars Hand #165239046305:  Hold'em Limit ($3/$6 USD) - 2017/01/27 7:12:43 ET
+Table 'Antilia II' 6-max Seat #6 is the button
+Seat 4: AzureCaper ($72 in chips)
+Seat 6: nord670 ($36 in chips)
+nord670: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+nord670: calls $2
+AzureCaper: checks
+*** FLOP *** [As 3h 9s]
+AzureCaper: bets $3
+BelSv joins the table at seat #1
+nord670: raises $3 to $6
+AzureCaper: folds
+Uncalled bet ($3) returned to nord670
+nord670 collected $11.76 from pot
+nord670: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [As 3h 9s]
+Seat 4: AzureCaper (big blind) folded on the Flop
+Seat 6: nord670 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #165239059091:  Hold'em Limit ($3/$6 USD) - 2017/01/27 7:13:08 ET
+Table 'Antilia II' 6-max Seat #4 is the button
+Seat 4: AzureCaper ($72 in chips)
+Seat 6: nord670 ($41.76 in chips)
+AzureCaper: posts small blind $1
+nord670: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+nord670: calls $3
+*** FLOP *** [6d 3h Kh]
+nord670: checks
+AzureCaper: bets $3
+nord670: raises $3 to $6
+AzureCaper: calls $3
+*** TURN *** [6d 3h Kh] [6c]
+nord670: bets $6
+AzureCaper: calls $6
+*** RIVER *** [6d 3h Kh 6c] [Ks]
+nord670: bets $6
+AzureCaper: calls $6
+*** SHOW DOWN ***
+nord670: shows [3d 7h] (two pair, Kings and Sixes)
+AzureCaper: shows [Qd Ah] (two pair, Kings and Sixes - Ace kicker)
+AzureCaper collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [6d 3h Kh 6c Ks]
+Seat 4: AzureCaper (button) (small blind) showed [Qd Ah] and won ($47.50) with two pair, Kings and Sixes
+Seat 6: nord670 (big blind) showed [3d 7h] and lost with two pair, Kings and Sixes
+
+
+PokerStars Hand #165239159325:  Hold'em Limit ($3/$6 USD) - 2017/01/27 7:16:27 ET
+Table 'Antilia II' 6-max Seat #1 is the button
+Seat 1: BelSv ($88.42 in chips)
+Seat 4: AzureCaper ($80.50 in chips)
+BelSv: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [2s 3s 3d]
+AzureCaper: checks
+BelSv: bets $3
+AzureCaper: calls $3
+*** TURN *** [2s 3s 3d] [5s]
+AzureCaper: checks
+BelSv: bets $6
+AzureCaper: calls $6
+*** RIVER *** [2s 3s 3d 5s] [8s]
+AzureCaper: bets $6
+BelSv: folds
+Uncalled bet ($6) returned to AzureCaper
+AzureCaper collected $29.50 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2s 3s 3d 5s 8s]
+Seat 1: BelSv (button) (small blind) folded on the River
+Seat 4: AzureCaper (big blind) collected ($29.50)
+
+

@@ -1,0 +1,89 @@
+PokerStars Hand #146960172860:  Hold'em Limit ($3/$6 USD) - 2016/01/13 6:28:43 ET
+Table 'Paeonia' 6-max Seat #5 is the button
+Seat 3: julenchu ($217.50 in chips)
+Seat 5: TinaTurner72 ($60 in chips)
+TinaTurner72: posts small blind $1
+julenchu: posts big blind $3
+*** HOLE CARDS ***
+TinaTurner72: raises $3 to $6
+julenchu: calls $3
+*** FLOP *** [5c Qc Ac]
+julenchu: checks
+TinaTurner72: bets $3
+julenchu: folds
+Uncalled bet ($3) returned to TinaTurner72
+TinaTurner72 collected $11.76 from pot
+TinaTurner72: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5c Qc Ac]
+Seat 3: julenchu (big blind) folded on the Flop
+Seat 5: TinaTurner72 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #146960138715:  Hold'em Limit ($3/$6 USD) - 2016/01/13 6:27:38 ET
+Table 'Paeonia' 6-max Seat #3 is the button
+Seat 3: julenchu ($200 in chips)
+Seat 5: TinaTurner72 ($78 in chips)
+julenchu: posts small blind $1
+TinaTurner72: posts big blind $3
+*** HOLE CARDS ***
+julenchu: calls $2
+TinaTurner72: raises $3 to $6
+julenchu: calls $3
+*** FLOP *** [4s Tc 6c]
+TinaTurner72: bets $3
+julenchu: raises $3 to $6
+BelSv joins the table at seat #4
+TinaTurner72: calls $3
+*** TURN *** [4s Tc 6c] [Qh]
+TinaTurner72: checks
+julenchu: checks
+*** RIVER *** [4s Tc 6c Qh] [Qd]
+TinaTurner72: checks
+julenchu: bets $6
+TinaTurner72: calls $6
+*** SHOW DOWN ***
+julenchu: shows [Td 7h] (two pair, Queens and Tens)
+TinaTurner72: mucks hand
+julenchu collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [4s Tc 6c Qh Qd]
+Seat 3: julenchu (button) (small blind) showed [Td 7h] and won ($35.50) with two pair, Queens and Tens
+Seat 5: TinaTurner72 (big blind) mucked
+
+
+PokerStars Hand #146971067168:  Hold'em Limit ($3/$6 USD) - 2016/01/13 11:02:55 ET
+Table 'Paeonia' 6-max Seat #6 is the button
+Seat 4: chezlaw ($235.19 in chips)
+Seat 6: scorpio04 ($97.38 in chips)
+scorpio04: posts small blind $1
+chezlaw: posts big blind $3
+*** HOLE CARDS ***
+scorpio04: raises $3 to $6
+Deyan86 leaves the table
+chezlaw: calls $3
+*** FLOP *** [4s 8d 8c]
+chezlaw: checks
+scorpio04: bets $3
+chezlaw: calls $3
+*** TURN *** [4s 8d 8c] [Kh]
+chezlaw: checks
+scorpio04: bets $6
+chezlaw: calls $6
+*** RIVER *** [4s 8d 8c Kh] [2c]
+chezlaw: checks
+scorpio04: bets $6
+chezlaw: calls $6
+*** SHOW DOWN ***
+scorpio04: shows [Ts Ks] (two pair, Kings and Eights)
+chezlaw: mucks hand
+scorpio04 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [4s 8d 8c Kh 2c]
+Seat 4: chezlaw (big blind) mucked
+Seat 6: scorpio04 (button) (small blind) showed [Ts Ks] and won ($41.50) with two pair, Kings and Eights
+
+

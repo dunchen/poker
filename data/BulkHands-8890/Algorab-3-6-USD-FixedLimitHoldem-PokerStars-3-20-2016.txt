@@ -1,0 +1,57 @@
+PokerStars Hand #150623983436:  Hold'em Limit ($3/$6 USD) - 2016/03/19 20:54:57 ET
+Table 'Algorab' 6-max Seat #5 is the button
+Seat 4: FHstyles ($45 in chips)
+Seat 5: Chrisgalo33 ($44.50 in chips)
+Chrisgalo33: posts small blind $1
+FHstyles: posts big blind $3
+*** HOLE CARDS ***
+Chrisgalo33: calls $2
+FHstyles: checks
+*** FLOP *** [9s 7d Ac]
+FHstyles: bets $3
+Chrisgalo33: calls $3
+*** TURN *** [9s 7d Ac] [Ah]
+FHstyles: bets $6
+Chrisgalo33: calls $6
+*** RIVER *** [9s 7d Ac Ah] [2c]
+FHstyles: bets $6
+Chrisgalo33: calls $6
+*** SHOW DOWN ***
+FHstyles: shows [3h 9c] (two pair, Aces and Nines)
+Chrisgalo33: shows [8d 9d] (two pair, Aces and Nines - Eight kicker)
+Chrisgalo33 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [9s 7d Ac Ah 2c]
+Seat 4: FHstyles (big blind) showed [3h 9c] and lost with two pair, Aces and Nines
+Seat 5: Chrisgalo33 (button) (small blind) showed [8d 9d] and won ($35.50) with two pair, Aces and Nines
+
+
+PokerStars Hand #150623959830:  Hold'em Limit ($3/$6 USD) - 2016/03/19 20:54:17 ET
+Table 'Algorab' 6-max Seat #4 is the button
+Seat 4: FHstyles ($60 in chips)
+Seat 5: Chrisgalo33 ($30 in chips)
+FHstyles: posts small blind $1
+Chrisgalo33: posts big blind $3
+*** HOLE CARDS ***
+FHstyles: raises $3 to $6
+Chrisgalo33: calls $3
+*** FLOP *** [3d 2c 4h]
+Chrisgalo33: checks
+FHstyles: bets $3
+Chrisgalo33: raises $3 to $6
+FHstyles: raises $3 to $9
+Chrisgalo33: calls $3
+*** TURN *** [3d 2c 4h] [5h]
+Chrisgalo33: bets $6
+FHstyles: folds
+Uncalled bet ($6) returned to Chrisgalo33
+Chrisgalo33 collected $29.50 from pot
+Chrisgalo33: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3d 2c 4h 5h]
+Seat 4: FHstyles (button) (small blind) folded on the Turn
+Seat 5: Chrisgalo33 (big blind) collected ($29.50)
+
+

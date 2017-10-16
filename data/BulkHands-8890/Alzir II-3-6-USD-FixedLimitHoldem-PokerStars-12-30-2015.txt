@@ -1,0 +1,102 @@
+PokerStars Hand #146172875973:  Hold'em Limit ($3/$6 USD) - 2015/12/30 10:46:50 ET
+Table 'Alzir II' 6-max Seat #4 is the button
+Seat 3: lordlebedev ($59.50 in chips)
+Seat 4: PelonCabelao ($72 in chips)
+PelonCabelao: posts small blind $1
+lordlebedev: posts big blind $3
+*** HOLE CARDS ***
+PelonCabelao: raises $3 to $6
+lordlebedev: calls $3
+*** FLOP *** [7s 7c Kc]
+lordlebedev: checks
+PelonCabelao: bets $3
+lordlebedev: folds
+Uncalled bet ($3) returned to PelonCabelao
+LolDnkaments joins the table at seat #5
+PelonCabelao collected $11.76 from pot
+PelonCabelao: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7s 7c Kc]
+Seat 3: lordlebedev (big blind) folded on the Flop
+Seat 4: PelonCabelao (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #146172852428:  Hold'em Limit ($3/$6 USD) - 2015/12/30 10:46:22 ET
+Table 'Alzir II' 6-max Seat #3 is the button
+Seat 3: lordlebedev ($30 in chips)
+Seat 4: PelonCabelao ($72 in chips)
+lordlebedev: posts small blind $1
+PelonCabelao: posts big blind $3
+*** HOLE CARDS ***
+lordlebedev: raises $3 to $6
+PelonCabelao: raises $3 to $9
+lordlebedev: calls $3
+*** FLOP *** [3d 4h 7d]
+PelonCabelao: bets $3
+lordlebedev: calls $3
+*** TURN *** [3d 4h 7d] [Jc]
+PelonCabelao: checks
+lordlebedev: bets $6
+PelonCabelao: raises $6 to $12
+lordlebedev: calls $6
+*** RIVER *** [3d 4h 7d Jc] [4c]
+PelonCabelao: bets $6
+lordlebedev: calls $6 and is all-in
+*** SHOW DOWN ***
+PelonCabelao: shows [Qc Js] (two pair, Jacks and Fours)
+lordlebedev: shows [4d Ac] (three of a kind, Fours)
+lordlebedev collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [3d 4h 7d Jc 4c]
+Seat 3: lordlebedev (button) (small blind) showed [4d Ac] and won ($59.50) with three of a kind, Fours
+Seat 4: PelonCabelao (big blind) showed [Qc Js] and lost with two pair, Jacks and Fours
+
+
+PokerStars Hand #146172895555:  Hold'em Limit ($3/$6 USD) - 2015/12/30 10:47:09 ET
+Table 'Alzir II' 6-max Seat #3 is the button
+Seat 3: lordlebedev ($53.50 in chips)
+Seat 4: PelonCabelao ($77.76 in chips)
+lordlebedev: posts small blind $1
+PelonCabelao: posts big blind $3
+*** HOLE CARDS ***
+lordlebedev: calls $2
+PelonCabelao: raises $3 to $6
+lordlebedev: calls $3
+*** FLOP *** [8c Qs Ts]
+PelonCabelao: bets $3
+lordlebedev: calls $3
+*** TURN *** [8c Qs Ts] [4s]
+PelonCabelao: bets $6
+lordlebedev: calls $6
+*** RIVER *** [8c Qs Ts 4s] [5c]
+PelonCabelao: bets $6
+lordlebedev: raises $6 to $12
+PelonCabelao: folds
+Uncalled bet ($6) returned to lordlebedev
+lordlebedev collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [8c Qs Ts 4s 5c]
+Seat 3: lordlebedev (button) (small blind) collected ($41.50)
+Seat 4: PelonCabelao (big blind) folded on the River
+
+
+PokerStars Hand #146173179029:  Hold'em Limit ($3/$6 USD) - 2015/12/30 10:52:35 ET
+Table 'Alzir II' 6-max Seat #4 is the button
+Seat 4: PelonCabelao ($73 in chips)
+Seat 5: LolDnkaments ($128.55 in chips)
+PelonCabelao: posts small blind $1
+LolDnkaments: posts big blind $3
+*** HOLE CARDS ***
+PelonCabelao: folds
+Uncalled bet ($2) returned to LolDnkaments
+LolDnkaments collected $2 from pot
+LolDnkaments: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: PelonCabelao (button) (small blind) folded before Flop
+Seat 5: LolDnkaments (big blind) collected ($2)
+
+

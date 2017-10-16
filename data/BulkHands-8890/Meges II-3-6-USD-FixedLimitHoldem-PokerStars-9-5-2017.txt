@@ -1,0 +1,89 @@
+PokerStars Hand #175240744985:  Hold'em Limit ($3/$6 USD) - 2017/09/05 11:12:18 ET
+Table 'Meges II' 6-max Seat #4 is the button
+Seat 4: Agrotait ($60 in chips)
+Seat 5: Capone_TS ($75.17 in chips)
+Agrotait: posts small blind $1
+Capone_TS: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+Capone_TS: raises $3 to $9
+Agrotait: calls $3
+*** FLOP *** [2h 4h 6h]
+Capone_TS: bets $3
+Agrotait: raises $3 to $6
+Capone_TS: raises $3 to $9
+Agrotait: raises $3 to $12
+Betting is capped
+Capone_TS: calls $3
+*** TURN *** [2h 4h 6h] [4d]
+Capone_TS: bets $6
+Agrotait: calls $6
+*** RIVER *** [2h 4h 6h 4d] [6c]
+Capone_TS: bets $6
+Agrotait: raises $6 to $12
+Capone_TS: calls $6
+*** SHOW DOWN ***
+Agrotait: shows [6d Qh] (a full house, Sixes full of Fours)
+Capone_TS: mucks hand
+Agrotait collected $77.50 from pot
+*** SUMMARY ***
+Total pot $78 | Rake $0.50
+Board [2h 4h 6h 4d 6c]
+Seat 4: Agrotait (button) (small blind) showed [6d Qh] and won ($77.50) with a full house, Sixes full of Fours
+Seat 5: Capone_TS (big blind) mucked
+
+
+PokerStars Hand #175240786370:  Hold'em Limit ($3/$6 USD) - 2017/09/05 11:13:27 ET
+Table 'Meges II' 6-max Seat #4 is the button
+Seat 4: Agrotait ($107.14 in chips)
+Seat 5: Capone_TS ($27.17 in chips)
+Agrotait: posts small blind $1
+Capone_TS: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+Capone_TS: calls $3
+*** FLOP *** [4c Jd Jc]
+Capone_TS: checks
+Agrotait: bets $3
+Capone_TS: calls $3
+*** TURN *** [4c Jd Jc] [7s]
+Capone_TS: checks
+Agrotait: checks
+*** RIVER *** [4c Jd Jc 7s] [8c]
+Capone_TS: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to Capone_TS
+Capone_TS collected $17.64 from pot
+Capone_TS: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4c Jd Jc 7s 8c]
+Seat 4: Agrotait (button) (small blind) folded on the River
+Seat 5: Capone_TS (big blind) collected ($17.64)
+
+
+PokerStars Hand #175240769550:  Hold'em Limit ($3/$6 USD) - 2017/09/05 11:12:59 ET
+Table 'Meges II' 6-max Seat #5 is the button
+Seat 4: Agrotait ($98.50 in chips)
+Seat 5: Capone_TS ($36.17 in chips)
+Capone_TS: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+Capone_TS: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [As Ac Th]
+Agrotait: checks
+Capone_TS: bets $3
+krytalex joins the table at seat #6
+Agrotait: raises $3 to $6
+Capone_TS: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $17.64 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [As Ac Th]
+Seat 4: Agrotait (big blind) collected ($17.64)
+Seat 5: Capone_TS (button) (small blind) folded on the Flop
+
+

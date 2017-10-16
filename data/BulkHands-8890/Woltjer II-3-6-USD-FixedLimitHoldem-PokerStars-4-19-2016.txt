@@ -1,0 +1,57 @@
+PokerStars Hand #152161513669:  Hold'em Limit ($3/$6 USD) - 2016/04/19 17:04:55 ET
+Table 'Woltjer II' 6-max Seat #6 is the button
+Seat 1: anetkaapro ($120 in chips)
+Seat 6: lin1rabbit ($167.31 in chips)
+lin1rabbit: posts small blind $1
+anetkaapro: posts big blind $3
+*** HOLE CARDS ***
+lin1rabbit: raises $3 to $6
+anetkaapro: calls $3
+*** FLOP *** [As 9d Ts]
+anetkaapro: checks
+lin1rabbit: bets $3
+anetkaapro: folds
+Uncalled bet ($3) returned to lin1rabbit
+lin1rabbit collected $11.76 from pot
+lin1rabbit: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [As 9d Ts]
+Seat 1: anetkaapro (big blind) folded on the Flop
+Seat 6: lin1rabbit (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #152161429308:  Hold'em Limit ($3/$6 USD) - 2016/04/19 17:03:23 ET
+Table 'Woltjer II' 6-max Seat #1 is the button
+Seat 1: ajmaster333 ($44.16 in chips)
+Seat 6: lin1rabbit ($182.31 in chips)
+ajmaster333: posts small blind $1
+aloven: is sitting out
+lin1rabbit: posts big blind $3
+*** HOLE CARDS ***
+ajmaster333: raises $3 to $6
+lin1rabbit: calls $3
+*** FLOP *** [Ad 8h 2s]
+lin1rabbit: checks
+ajmaster333: bets $3
+lin1rabbit: calls $3
+*** TURN *** [Ad 8h 2s] [4h]
+lin1rabbit: checks
+ajmaster333: bets $6
+lin1rabbit: calls $6
+*** RIVER *** [Ad 8h 2s 4h] [Jd]
+aloven leaves the table
+anetkaapro leaves the table
+lin1rabbit: checks
+ajmaster333: checks
+*** SHOW DOWN ***
+lin1rabbit: shows [Kd 7d] (high card Ace)
+ajmaster333: shows [2h Qh] (a pair of Deuces)
+ajmaster333 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ad 8h 2s 4h Jd]
+Seat 1: ajmaster333 (button) (small blind) showed [2h Qh] and won ($29.50) with a pair of Deuces
+Seat 6: lin1rabbit (big blind) showed [Kd 7d] and lost with high card Ace
+
+

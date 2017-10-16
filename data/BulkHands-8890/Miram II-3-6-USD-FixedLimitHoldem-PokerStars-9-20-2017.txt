@@ -1,0 +1,612 @@
+PokerStars Hand #175888098685:  Hold'em Limit ($3/$6 USD) - 2017/09/20 9:31:13 ET
+Table 'Miram II' 6-max Seat #1 is the button
+Seat 1: zimin10 ($72 in chips)
+Seat 3: Vitalii.ZN ($120 in chips)
+B_loJkl joins the table at seat #4
+zimin10: posts small blind $1
+Vitalii.ZN: posts big blind $3
+*** HOLE CARDS ***
+zimin10: raises $3 to $6
+Vitalii.ZN: calls $3
+*** FLOP *** [Ad 3c 5c]
+Vitalii.ZN: checks
+01cccp01 joins the table at seat #5
+zimin10: bets $3
+Vitalii.ZN: calls $3
+*** TURN *** [Ad 3c 5c] [7d]
+Vitalii.ZN: bets $6
+zimin10: calls $6
+*** RIVER *** [Ad 3c 5c 7d] [Tc]
+Vitalii.ZN: bets $6
+zimin10: calls $6
+*** SHOW DOWN ***
+Vitalii.ZN: shows [Ks 6c] (high card Ace)
+zimin10: shows [8s 8d] (a pair of Eights)
+zimin10 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ad 3c 5c 7d Tc]
+Seat 1: zimin10 (button) (small blind) showed [8s 8d] and won ($41.50) with a pair of Eights
+Seat 3: Vitalii.ZN (big blind) showed [Ks 6c] and lost with high card Ace
+
+
+PokerStars Hand #175888238248:  Hold'em Limit ($3/$6 USD) - 2017/09/20 9:35:47 ET
+Table 'Miram II' 6-max Seat #5 is the button
+Seat 1: zimin10 ($92.50 in chips)
+Seat 5: 01cccp01 ($32.23 in chips)
+01cccp01: posts small blind $1
+zimin10: posts big blind $3
+*** HOLE CARDS ***
+01cccp01: folds
+Uncalled bet ($2) returned to zimin10
+zimin10 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: zimin10 (big blind) collected ($2)
+Seat 5: 01cccp01 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #175888221967:  Hold'em Limit ($3/$6 USD) - 2017/09/20 9:35:15 ET
+Table 'Miram II' 6-max Seat #1 is the button
+Seat 1: zimin10 ($72 in chips)
+Seat 5: 01cccp01 ($53.23 in chips)
+zimin10: posts small blind $1
+B_loJkl: is sitting out
+01cccp01: posts big blind $3
+*** HOLE CARDS ***
+zimin10: raises $3 to $6
+01cccp01: calls $3
+*** FLOP *** [Jc Tc Kd]
+01cccp01: bets $3
+zimin10: calls $3
+*** TURN *** [Jc Tc Kd] [Jd]
+01cccp01: bets $6
+zimin10: raises $6 to $12
+01cccp01: calls $6
+*** RIVER *** [Jc Tc Kd Jd] [7h]
+01cccp01: checks
+zimin10: bets $6
+01cccp01: folds
+Uncalled bet ($6) returned to zimin10
+zimin10 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Jc Tc Kd Jd 7h]
+Seat 1: zimin10 (button) (small blind) collected ($41.50)
+Seat 5: 01cccp01 (big blind) folded on the River
+
+
+PokerStars Hand #175888240879:  Hold'em Limit ($3/$6 USD) - 2017/09/20 9:35:52 ET
+Table 'Miram II' 6-max Seat #1 is the button
+Seat 1: zimin10 ($93.50 in chips)
+Seat 5: 01cccp01 ($31.23 in chips)
+zimin10: posts small blind $1
+01cccp01: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl leaves the table
+zimin10: raises $3 to $6
+B_loJkl joins the table at seat #6
+01cccp01: calls $3
+*** FLOP *** [2c 8c Qc]
+01cccp01: checks
+zimin10: bets $3
+01cccp01: calls $3
+*** TURN *** [2c 8c Qc] [9c]
+01cccp01: checks
+zimin10: checks
+*** RIVER *** [2c 8c Qc 9c] [5c]
+01cccp01: bets $6
+zimin10: calls $6
+*** SHOW DOWN ***
+01cccp01: shows [Ks 8s] (a flush, Queen high)
+zimin10: shows [6c Jh] (a flush, Queen high - Six higher)
+zimin10 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2c 8c Qc 9c 5c]
+Seat 1: zimin10 (button) (small blind) showed [6c Jh] and won ($29.50) with a flush, Queen high
+Seat 5: 01cccp01 (big blind) showed [Ks 8s] and lost with a flush, Queen high
+
+
+PokerStars Hand #175888286166:  Hold'em Limit ($3/$6 USD) - 2017/09/20 9:37:21 ET
+Table 'Miram II' 6-max Seat #5 is the button
+Seat 1: zimin10 ($114.64 in chips)
+Seat 5: 01cccp01 ($4.23 in chips)
+01cccp01: posts small blind $1
+B_loJkl: is sitting out
+zimin10: posts big blind $3
+*** HOLE CARDS ***
+01cccp01: raises $1.23 to $4.23 and is all-in
+zimin10: calls $1.23
+*** FLOP *** [8h 4h Qh]
+*** TURN *** [8h 4h Qh] [5h]
+*** RIVER *** [8h 4h Qh 5h] [Ah]
+*** SHOW DOWN ***
+zimin10: shows [Ad 6d] (a flush, Ace high)
+01cccp01: shows [4s 7h] (a flush, Ace high - Seven higher)
+01cccp01 collected $8.29 from pot
+*** SUMMARY ***
+Total pot $8.46 | Rake $0.17
+Board [8h 4h Qh 5h Ah]
+Seat 1: zimin10 (big blind) showed [Ad 6d] and lost with a flush, Ace high
+Seat 5: 01cccp01 (button) (small blind) showed [4s 7h] and won ($8.29) with a flush, Ace high
+
+
+PokerStars Hand #175888293333:  Hold'em Limit ($3/$6 USD) - 2017/09/20 9:37:35 ET
+Table 'Miram II' 6-max Seat #1 is the button
+Seat 1: zimin10 ($110.41 in chips)
+Seat 5: 01cccp01 ($8.29 in chips)
+zimin10: posts small blind $1
+01cccp01: posts big blind $3
+*** HOLE CARDS ***
+zimin10: raises $3 to $6
+01cccp01: raises $2.29 to $8.29 and is all-in
+zimin10: calls $2.29
+*** FLOP *** [Ts 4h 8c]
+*** TURN *** [Ts 4h 8c] [Jh]
+*** RIVER *** [Ts 4h 8c Jh] [5s]
+*** SHOW DOWN ***
+01cccp01: shows [As Kd] (high card Ace)
+zimin10: shows [Qh 8s] (a pair of Eights)
+zimin10 collected $16.25 from pot
+*** SUMMARY ***
+Total pot $16.58 | Rake $0.33
+Board [Ts 4h 8c Jh 5s]
+Seat 1: zimin10 (button) (small blind) showed [Qh 8s] and won ($16.25) with a pair of Eights
+Seat 5: 01cccp01 (big blind) showed [As Kd] and lost with high card Ace
+
+
+PokerStars Hand #175888321606:  Hold'em Limit ($3/$6 USD) - 2017/09/20 9:38:30 ET
+Table 'Miram II' 6-max Seat #6 is the button
+Seat 1: zimin10 ($118.37 in chips)
+Seat 6: B_loJkl ($76.64 in chips)
+B_loJkl: posts small blind $1
+zimin10: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+zimin10: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $6 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: zimin10 (big blind) folded before Flop
+Seat 6: B_loJkl (button) (small blind) collected ($6)
+
+
+PokerStars Hand #175888332180:  Hold'em Limit ($3/$6 USD) - 2017/09/20 9:38:51 ET
+Table 'Miram II' 6-max Seat #1 is the button
+Seat 1: zimin10 ($115.37 in chips)
+Seat 6: B_loJkl ($79.64 in chips)
+zimin10: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+zimin10: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Kh 5c 7s]
+B_loJkl: checks
+zimin10: bets $3
+B_loJkl: calls $3
+*** TURN *** [Kh 5c 7s] [As]
+B_loJkl: checks
+zimin10: bets $6
+B_loJkl: calls $6
+*** RIVER *** [Kh 5c 7s As] [Ah]
+B_loJkl: checks
+zimin10: checks
+*** SHOW DOWN ***
+B_loJkl: shows [Qc 5h] (two pair, Aces and Fives)
+zimin10: shows [Ts 5s] (two pair, Aces and Fives)
+B_loJkl collected $14.75 from pot
+zimin10 collected $14.75 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kh 5c 7s As Ah]
+Seat 1: zimin10 (button) (small blind) showed [Ts 5s] and won ($14.75) with two pair, Aces and Fives
+Seat 6: B_loJkl (big blind) showed [Qc 5h] and won ($14.75) with two pair, Aces and Fives
+
+
+PokerStars Hand #175888418839:  Hold'em Limit ($3/$6 USD) - 2017/09/20 9:41:40 ET
+Table 'Miram II' 6-max Seat #6 is the button
+Seat 1: zimin10 ($132.40 in chips)
+Seat 6: B_loJkl ($61.39 in chips)
+B_loJkl: posts small blind $1
+zimin10: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: folds
+Uncalled bet ($2) returned to zimin10
+zimin10 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: zimin10 (big blind) collected ($2)
+Seat 6: B_loJkl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #175888404090:  Hold'em Limit ($3/$6 USD) - 2017/09/20 9:41:12 ET
+Table 'Miram II' 6-max Seat #1 is the button
+Seat 1: zimin10 ($126.64 in chips)
+Seat 6: B_loJkl ($67.39 in chips)
+zimin10: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+zimin10: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Js 2c 5c]
+B_loJkl: checks
+zimin10: bets $3
+B_loJkl: folds
+Uncalled bet ($3) returned to zimin10
+zimin10 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Js 2c 5c]
+Seat 1: zimin10 (button) (small blind) collected ($11.76)
+Seat 6: B_loJkl (big blind) folded on the Flop
+
+
+PokerStars Hand #175888367681:  Hold'em Limit ($3/$6 USD) - 2017/09/20 9:40:00 ET
+Table 'Miram II' 6-max Seat #6 is the button
+Seat 1: zimin10 ($115.12 in chips)
+Seat 6: B_loJkl ($79.39 in chips)
+B_loJkl: posts small blind $1
+zimin10: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+zimin10: calls $3
+*** FLOP *** [7s 2s 4s]
+zimin10: checks
+B_loJkl: checks
+*** TURN *** [7s 2s 4s] [Ts]
+zimin10: checks
+B_loJkl: checks
+*** RIVER *** [7s 2s 4s Ts] [Qd]
+zimin10: checks
+B_loJkl: bets $6
+zimin10: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [6h 8h] (high card Queen)
+zimin10: shows [9c 6s] (a flush, Ten high)
+zimin10 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [7s 2s 4s Ts Qd]
+Seat 1: zimin10 (big blind) showed [9c 6s] and won ($23.52) with a flush, Ten high
+Seat 6: B_loJkl (button) (small blind) showed [6h 8h] and lost with high card Queen
+
+
+PokerStars Hand #175888484870:  Hold'em Limit ($3/$6 USD) - 2017/09/20 9:43:49 ET
+Table 'Miram II' 6-max Seat #1 is the button
+Seat 1: zimin10 ($133.40 in chips)
+Seat 2: Scheubi88 ($120 in chips)
+zimin10: posts small blind $1
+Scheubi88: posts big blind $3
+*** HOLE CARDS ***
+zimin10: raises $3 to $6
+Scheubi88: calls $3
+*** FLOP *** [9c 3c 7s]
+Scheubi88: checks
+zimin10: bets $3
+Scheubi88: raises $3 to $6
+zimin10: calls $3
+*** TURN *** [9c 3c 7s] [Qs]
+Scheubi88: bets $6
+zimin10: raises $6 to $12
+Scheubi88: calls $6
+*** RIVER *** [9c 3c 7s Qs] [Kc]
+Scheubi88: checks
+zimin10: checks
+*** SHOW DOWN ***
+Scheubi88: shows [8c 2c] (a flush, King high)
+zimin10: mucks hand
+Scheubi88 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9c 3c 7s Qs Kc]
+Seat 1: zimin10 (button) (small blind) mucked
+Seat 2: Scheubi88 (big blind) showed [8c 2c] and won ($47.50) with a flush, King high
+
+
+PokerStars Hand #175888541161:  Hold'em Limit ($3/$6 USD) - 2017/09/20 9:45:38 ET
+Table 'Miram II' 6-max Seat #2 is the button
+Seat 1: zimin10 ($114.16 in chips)
+Seat 2: Scheubi88 ($138.50 in chips)
+Scheubi88: posts small blind $1
+zimin10: posts big blind $3
+*** HOLE CARDS ***
+Scheubi88: folds
+Uncalled bet ($2) returned to zimin10
+zimin10 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: zimin10 (big blind) collected ($2)
+Seat 2: Scheubi88 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #175888538475:  Hold'em Limit ($3/$6 USD) - 2017/09/20 9:45:33 ET
+Table 'Miram II' 6-max Seat #1 is the button
+Seat 1: zimin10 ($115.16 in chips)
+Seat 2: Scheubi88 ($137.50 in chips)
+zimin10: posts small blind $1
+Scheubi88: posts big blind $3
+*** HOLE CARDS ***
+zimin10: folds
+Uncalled bet ($2) returned to Scheubi88
+Scheubi88 collected $2 from pot
+Scheubi88: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: zimin10 (button) (small blind) folded before Flop
+Seat 2: Scheubi88 (big blind) collected ($2)
+
+
+PokerStars Hand #175888513895:  Hold'em Limit ($3/$6 USD) - 2017/09/20 9:44:45 ET
+Table 'Miram II' 6-max Seat #2 is the button
+Seat 1: zimin10 ($109.40 in chips)
+Seat 2: Scheubi88 ($143.50 in chips)
+Scheubi88: posts small blind $1
+zimin10: posts big blind $3
+*** HOLE CARDS ***
+Scheubi88: raises $3 to $6
+zimin10: calls $3
+*** FLOP *** [Jd 5c 2d]
+zimin10: checks
+Scheubi88: checks
+*** TURN *** [Jd 5c 2d] [7c]
+zimin10: bets $6
+Scheubi88: folds
+Uncalled bet ($6) returned to zimin10
+zimin10 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jd 5c 2d 7c]
+Seat 1: zimin10 (big blind) collected ($11.76)
+Seat 2: Scheubi88 (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #175888575728:  Hold'em Limit ($3/$6 USD) - 2017/09/20 9:46:45 ET
+Table 'Miram II' 6-max Seat #2 is the button
+Seat 1: zimin10 ($100.16 in chips)
+Seat 2: Scheubi88 ($152 in chips)
+Scheubi88: posts small blind $1
+zimin10: posts big blind $3
+*** HOLE CARDS ***
+Scheubi88: raises $3 to $6
+zimin10: folds
+Uncalled bet ($3) returned to Scheubi88
+Scheubi88 collected $6 from pot
+Scheubi88: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: zimin10 (big blind) folded before Flop
+Seat 2: Scheubi88 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #175888546236:  Hold'em Limit ($3/$6 USD) - 2017/09/20 9:45:48 ET
+Table 'Miram II' 6-max Seat #1 is the button
+Seat 1: zimin10 ($115.16 in chips)
+Seat 2: Scheubi88 ($137.50 in chips)
+zimin10: posts small blind $1
+Scheubi88: posts big blind $3
+*** HOLE CARDS ***
+zimin10: raises $3 to $6
+Scheubi88: raises $3 to $9
+zimin10: calls $3
+*** FLOP *** [Jc 3c 2s]
+Scheubi88: bets $3
+zimin10: raises $3 to $6
+Scheubi88: calls $3
+*** TURN *** [Jc 3c 2s] [Th]
+Scheubi88: checks
+zimin10: checks
+*** RIVER *** [Jc 3c 2s Th] [Kc]
+Scheubi88: bets $6
+zimin10: folds
+Uncalled bet ($6) returned to Scheubi88
+Scheubi88 collected $29.50 from pot
+Scheubi88: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Jc 3c 2s Th Kc]
+Seat 1: zimin10 (button) (small blind) folded on the River
+Seat 2: Scheubi88 (big blind) collected ($29.50)
+
+
+PokerStars Hand #175888579102:  Hold'em Limit ($3/$6 USD) - 2017/09/20 9:46:52 ET
+Table 'Miram II' 6-max Seat #1 is the button
+Seat 1: zimin10 ($97.16 in chips)
+Seat 2: Scheubi88 ($155 in chips)
+zimin10: posts small blind $1
+Scheubi88: posts big blind $3
+*** HOLE CARDS ***
+zimin10: raises $3 to $6
+Scheubi88: folds
+Uncalled bet ($3) returned to zimin10
+zimin10 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: zimin10 (button) (small blind) collected ($6)
+Seat 2: Scheubi88 (big blind) folded before Flop
+
+
+PokerStars Hand #175888582169:  Hold'em Limit ($3/$6 USD) - 2017/09/20 9:46:57 ET
+Table 'Miram II' 6-max Seat #2 is the button
+Seat 1: zimin10 ($100.16 in chips)
+Seat 2: Scheubi88 ($152 in chips)
+Scheubi88: posts small blind $1
+zimin10: posts big blind $3
+*** HOLE CARDS ***
+Scheubi88: raises $3 to $6
+zimin10: calls $3
+*** FLOP *** [Ad 5d 7c]
+zimin10: checks
+Scheubi88: bets $3
+zimin10: folds
+Uncalled bet ($3) returned to Scheubi88
+Scheubi88 collected $11.76 from pot
+Scheubi88: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ad 5d 7c]
+Seat 1: zimin10 (big blind) folded on the Flop
+Seat 2: Scheubi88 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #175888591639:  Hold'em Limit ($3/$6 USD) - 2017/09/20 9:47:16 ET
+Table 'Miram II' 6-max Seat #1 is the button
+Seat 1: zimin10 ($94.16 in chips)
+Seat 2: Scheubi88 ($157.76 in chips)
+zimin10: posts small blind $1
+Scheubi88: posts big blind $3
+*** HOLE CARDS ***
+zimin10: folds
+Uncalled bet ($2) returned to Scheubi88
+Scheubi88 collected $2 from pot
+Scheubi88: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: zimin10 (button) (small blind) folded before Flop
+Seat 2: Scheubi88 (big blind) collected ($2)
+
+
+PokerStars Hand #175888633020:  Hold'em Limit ($3/$6 USD) - 2017/09/20 9:48:36 ET
+Table 'Miram II' 6-max Seat #1 is the button
+Seat 1: zimin10 ($84.16 in chips)
+Seat 2: Scheubi88 ($167.40 in chips)
+zimin10: posts small blind $1
+Scheubi88: posts big blind $3
+*** HOLE CARDS ***
+zimin10: raises $3 to $6
+Scheubi88: folds
+Uncalled bet ($3) returned to zimin10
+zimin10 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: zimin10 (button) (small blind) collected ($6)
+Seat 2: Scheubi88 (big blind) folded before Flop
+
+
+PokerStars Hand #175888594331:  Hold'em Limit ($3/$6 USD) - 2017/09/20 9:47:21 ET
+Table 'Miram II' 6-max Seat #2 is the button
+Seat 1: zimin10 ($93.16 in chips)
+Seat 2: Scheubi88 ($158.76 in chips)
+Scheubi88: posts small blind $1
+zimin10: posts big blind $3
+*** HOLE CARDS ***
+Scheubi88: raises $3 to $6
+zimin10: calls $3
+*** FLOP *** [5s Jc 3c]
+zimin10: checks
+Scheubi88: bets $3
+zimin10: calls $3
+*** TURN *** [5s Jc 3c] [9d]
+zimin10: checks
+Scheubi88: checks
+*** RIVER *** [5s Jc 3c 9d] [Js]
+zimin10: checks
+Scheubi88: checks
+*** SHOW DOWN ***
+zimin10: shows [Qh 6c] (a pair of Jacks)
+Scheubi88: shows [3d Kc] (two pair, Jacks and Threes)
+Scheubi88 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5s Jc 3c 9d Js]
+Seat 1: zimin10 (big blind) showed [Qh 6c] and lost with a pair of Jacks
+Seat 2: Scheubi88 (button) (small blind) showed [3d Kc] and won ($17.64) with two pair, Jacks and Threes
+
+
+PokerStars Hand #175888637593:  Hold'em Limit ($3/$6 USD) - 2017/09/20 9:48:44 ET
+Table 'Miram II' 6-max Seat #2 is the button
+Seat 1: zimin10 ($87.16 in chips)
+Seat 2: Scheubi88 ($164.40 in chips)
+Scheubi88: posts small blind $1
+zimin10: posts big blind $3
+*** HOLE CARDS ***
+Scheubi88: raises $3 to $6
+zimin10: calls $3
+*** FLOP *** [7s 6s 4c]
+zimin10: checks
+Scheubi88: bets $3
+zimin10: raises $3 to $6
+Scheubi88: calls $3
+*** TURN *** [7s 6s 4c] [Kc]
+zimin10: bets $6
+Scheubi88: raises $6 to $12
+zimin10: calls $6
+*** RIVER *** [7s 6s 4c Kc] [As]
+zimin10: checks
+Scheubi88: bets $6
+zimin10: folds
+Uncalled bet ($6) returned to Scheubi88
+Scheubi88 collected $47.50 from pot
+Scheubi88: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7s 6s 4c Kc As]
+Seat 1: zimin10 (big blind) folded on the River
+Seat 2: Scheubi88 (button) (small blind) collected ($47.50)
+
+
+PokerStars Hand #175888684575:  Hold'em Limit ($3/$6 USD) - 2017/09/20 9:50:15 ET
+Table 'Miram II' 6-max Seat #1 is the button
+Seat 1: zimin10 ($72 in chips)
+Seat 2: Scheubi88 ($187.66 in chips)
+zimin10: posts small blind $1
+Scheubi88: posts big blind $3
+*** HOLE CARDS ***
+zimin10: folds
+Uncalled bet ($2) returned to Scheubi88
+Scheubi88 collected $2 from pot
+Scheubi88: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: zimin10 (button) (small blind) folded before Flop
+Seat 2: Scheubi88 (big blind) collected ($2)
+
+
+PokerStars Hand #175888675671:  Hold'em Limit ($3/$6 USD) - 2017/09/20 9:49:58 ET
+Table 'Miram II' 6-max Seat #2 is the button
+Seat 1: zimin10 ($77.76 in chips)
+Seat 2: Scheubi88 ($181.90 in chips)
+Scheubi88: posts small blind $1
+zimin10: posts big blind $3
+*** HOLE CARDS ***
+Scheubi88: raises $3 to $6
+zimin10: calls $3
+*** FLOP *** [8c 6s Qc]
+cola26licht joins the table at seat #5
+zimin10: checks
+Scheubi88: bets $3
+zimin10: folds
+Uncalled bet ($3) returned to Scheubi88
+Scheubi88 collected $11.76 from pot
+Scheubi88: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8c 6s Qc]
+Seat 1: zimin10 (big blind) folded on the Flop
+Seat 2: Scheubi88 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #175888668599:  Hold'em Limit ($3/$6 USD) - 2017/09/20 9:49:44 ET
+Table 'Miram II' 6-max Seat #1 is the button
+Seat 1: zimin10 ($72 in chips)
+Seat 2: Scheubi88 ($187.90 in chips)
+zimin10: posts small blind $1
+Scheubi88: posts big blind $3
+*** HOLE CARDS ***
+zimin10: raises $3 to $6
+Scheubi88: calls $3
+*** FLOP *** [9c 8s Ks]
+Scheubi88: checks
+zimin10: bets $3
+Scheubi88: folds
+Uncalled bet ($3) returned to zimin10
+zimin10 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9c 8s Ks]
+Seat 1: zimin10 (button) (small blind) collected ($11.76)
+Seat 2: Scheubi88 (big blind) folded on the Flop
+
+

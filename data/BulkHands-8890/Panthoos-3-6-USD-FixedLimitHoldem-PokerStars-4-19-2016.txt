@@ -1,0 +1,61 @@
+PokerStars Hand #152165106499:  Hold'em Limit ($3/$6 USD) - 2016/04/19 18:16:39 ET
+Table 'Panthoos' 6-max Seat #6 is the button
+Seat 3: diogo123pim ($8 in chips)
+Seat 6: anetkaapro ($155.50 in chips)
+anetkaapro: posts small blind $1
+diogo123pim: posts big blind $3
+*** HOLE CARDS ***
+anetkaapro: raises $3 to $6
+diogo123pim: raises $2 to $8 and is all-in
+anetkaapro: calls $2
+*** FLOP *** [4h Ts 2s]
+*** TURN *** [4h Ts 2s] [As]
+*** RIVER *** [4h Ts 2s As] [Ks]
+*** SHOW DOWN ***
+diogo123pim: shows [3h 8c] (high card Ace)
+anetkaapro: shows [4c 6s] (a flush, Ace high)
+anetkaapro collected $15.68 from pot
+*** SUMMARY ***
+Total pot $16 | Rake $0.32
+Board [4h Ts 2s As Ks]
+Seat 3: diogo123pim (big blind) showed [3h 8c] and lost with high card Ace
+Seat 6: anetkaapro (button) (small blind) showed [4c 6s] and won ($15.68) with a flush, Ace high
+
+
+PokerStars Hand #152165060934:  Hold'em Limit ($3/$6 USD) - 2016/04/19 18:15:40 ET
+Table 'Panthoos' 6-max Seat #3 is the button
+Seat 3: diogo123pim ($41 in chips)
+Seat 6: anetkaapro ($123 in chips)
+diogo123pim: posts small blind $1
+anetkaapro: posts big blind $3
+*** HOLE CARDS ***
+diogo123pim is connected
+diogo123pim: raises $3 to $6
+anetkaapro: raises $3 to $9
+diogo123pim: raises $3 to $12
+Betting is capped
+anetkaapro: calls $3
+*** FLOP *** [2c 9h Td]
+anetkaapro: checks
+diogo123pim: bets $3
+anetkaapro: calls $3
+*** TURN *** [2c 9h Td] [2d]
+anetkaapro: checks
+diogo123pim: bets $6
+anetkaapro: calls $6
+*** RIVER *** [2c 9h Td 2d] [Jd]
+anetkaapro: checks
+diogo123pim: bets $6
+anetkaapro: raises $6 to $12
+diogo123pim: calls $6
+*** SHOW DOWN ***
+anetkaapro: shows [Ad Qd] (a flush, Ace high)
+diogo123pim: mucks hand
+anetkaapro collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [2c 9h Td 2d Jd]
+Seat 3: diogo123pim (button) (small blind) mucked
+Seat 6: anetkaapro (big blind) showed [Ad Qd] and won ($65.50) with a flush, Ace high
+
+

@@ -1,0 +1,66 @@
+PokerStars Hand #144500735955:  Hold'em Limit ($3/$6 USD) - 2015/11/28 6:55:57 ET
+Table 'Tanina II' 6-max Seat #1 is the button
+Seat 1: pool junkie ($245.79 in chips)
+Seat 6: korrnel ($174.05 in chips)
+pool junkie: posts small blind $1
+Great_Kang: is sitting out
+korrnel: posts big blind $3
+*** HOLE CARDS ***
+pool junkie: raises $3 to $6
+korrnel: raises $3 to $9
+Great_Kang leaves the table
+pool junkie: calls $3
+*** FLOP *** [3s 5s Ts]
+korrnel: bets $3
+pool junkie: raises $3 to $6
+korrnel: calls $3
+*** TURN *** [3s 5s Ts] [2d]
+korrnel: checks
+pool junkie: bets $6
+korrnel: calls $6
+*** RIVER *** [3s 5s Ts 2d] [2s]
+korrnel: bets $6
+pool junkie: raises $6 to $12
+BelSv leaves the table
+korrnel: folds
+Uncalled bet ($6) returned to pool junkie
+pool junkie collected $53.50 from pot
+pool junkie: doesn't show hand
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [3s 5s Ts 2d 2s]
+Seat 1: pool junkie (button) (small blind) collected ($53.50)
+Seat 6: korrnel (big blind) folded on the River
+
+
+PokerStars Hand #144500749146:  Hold'em Limit ($3/$6 USD) - 2015/11/28 6:56:27 ET
+Table 'Tanina II' 6-max Seat #6 is the button
+Seat 1: pool junkie ($272.29 in chips)
+Seat 6: korrnel ($147.05 in chips)
+korrnel: posts small blind $1
+pool junkie: posts big blind $3
+*** HOLE CARDS ***
+korrnel: raises $3 to $6
+pool junkie: calls $3
+*** FLOP *** [9h Td Th]
+pool junkie: checks
+korrnel: bets $3
+pool junkie: calls $3
+*** TURN *** [9h Td Th] [3d]
+pool junkie: checks
+korrnel: checks
+*** RIVER *** [9h Td Th 3d] [3h]
+pool junkie: checks
+korrnel: checks
+*** SHOW DOWN ***
+pool junkie: shows [Jd Ks] (two pair, Tens and Threes)
+korrnel: shows [Kd 7c] (two pair, Tens and Threes)
+pool junkie collected $8.82 from pot
+korrnel collected $8.82 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9h Td Th 3d 3h]
+Seat 1: pool junkie (big blind) showed [Jd Ks] and won ($8.82) with two pair, Tens and Threes
+Seat 6: korrnel (button) (small blind) showed [Kd 7c] and won ($8.82) with two pair, Tens and Threes
+
+

@@ -1,0 +1,93 @@
+PokerStars Hand #163271107404:  Hold'em Limit ($3/$6 USD) - 2016/12/20 20:13:16 ET
+Table 'Ilsewa' 6-max Seat #3 is the button
+Seat 3: LuckyJackQ7 ($72 in chips)
+Seat 4: vikvikprof ($120 in chips)
+LuckyJackQ7: posts small blind $1
+vikvikprof: posts big blind $3
+*** HOLE CARDS ***
+LuckyJackQ7: raises $3 to $6
+vikvikprof: calls $3
+*** FLOP *** [Td 9s 8c]
+vikvikprof: checks
+LuckyJackQ7: bets $3
+vikvikprof: calls $3
+*** TURN *** [Td 9s 8c] [6d]
+vikvikprof: checks
+LuckyJackQ7: checks
+*** RIVER *** [Td 9s 8c 6d] [Jd]
+vikvikprof: bets $6
+LuckyJackQ7: folds
+Uncalled bet ($6) returned to vikvikprof
+vikvikprof collected $17.64 from pot
+vikvikprof: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Td 9s 8c 6d Jd]
+Seat 3: LuckyJackQ7 (button) (small blind) folded on the River
+Seat 4: vikvikprof (big blind) collected ($17.64)
+
+
+PokerStars Hand #163271119229:  Hold'em Limit ($3/$6 USD) - 2016/12/20 20:13:37 ET
+Table 'Ilsewa' 6-max Seat #4 is the button
+Seat 3: LuckyJackQ7 ($72 in chips)
+Seat 4: vikvikprof ($128.64 in chips)
+vikvikprof: posts small blind $1
+LuckyJackQ7: posts big blind $3
+*** HOLE CARDS ***
+vikvikprof: raises $3 to $6
+LuckyJackQ7: calls $3
+*** FLOP *** [8c 2d 5d]
+LuckyJackQ7: checks
+vikvikprof: bets $3
+LuckyJackQ7: calls $3
+*** TURN *** [8c 2d 5d] [Ks]
+B_loJkl joins the table at seat #5
+LuckyJackQ7: checks
+vikvikprof: bets $6
+LuckyJackQ7: calls $6
+*** RIVER *** [8c 2d 5d Ks] [7c]
+LuckyJackQ7: checks
+beng_51 joins the table at seat #6
+vikvikprof: bets $6
+LuckyJackQ7: calls $6
+*** SHOW DOWN ***
+vikvikprof: shows [Ah As] (a pair of Aces)
+LuckyJackQ7: mucks hand
+vikvikprof collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [8c 2d 5d Ks 7c]
+Seat 3: LuckyJackQ7 (big blind) mucked
+Seat 4: vikvikprof (button) (small blind) showed [Ah As] and won ($41.50) with a pair of Aces
+
+
+PokerStars Hand #163271128727:  Hold'em Limit ($3/$6 USD) - 2016/12/20 20:13:54 ET
+Table 'Ilsewa' 6-max Seat #3 is the button
+Seat 3: LuckyJackQ7 ($72 in chips)
+Seat 4: vikvikprof ($149.14 in chips)
+LuckyJackQ7: posts small blind $1
+vikvikprof: posts big blind $3
+*** HOLE CARDS ***
+LuckyJackQ7: raises $3 to $6
+vikvikprof: calls $3
+*** FLOP *** [4c Td 5s]
+vikvikprof: checks
+LuckyJackQ7: bets $3
+vikvikprof: calls $3
+*** TURN *** [4c Td 5s] [9d]
+vikvikprof: checks
+LuckyJackQ7: checks
+*** RIVER *** [4c Td 5s 9d] [6s]
+vikvikprof: checks
+LuckyJackQ7: checks
+*** SHOW DOWN ***
+vikvikprof: shows [Js Kc] (high card King)
+LuckyJackQ7: mucks hand
+vikvikprof collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4c Td 5s 9d 6s]
+Seat 3: LuckyJackQ7 (button) (small blind) mucked
+Seat 4: vikvikprof (big blind) showed [Js Kc] and won ($17.64) with high card King
+
+

@@ -1,0 +1,81 @@
+PokerStars Hand #169385219907:  Hold'em Limit ($3/$6 USD) - 2017/04/22 2:41:45 ET
+Table 'Jupiter' 6-max Seat #3 is the button
+Seat 3: sim5sim5 ($72 in chips)
+Seat 4: hairy1961 ($50 in chips)
+sim5sim5: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+hairy1961: raises $3 to $9
+sim5sim5: calls $3
+*** FLOP *** [Ks 8c 4s]
+hairy1961: bets $3
+sim5sim5: raises $3 to $6
+hairy1961: raises $3 to $9
+sim5sim5: calls $3
+*** TURN *** [Ks 8c 4s] [6d]
+hairy1961: bets $6
+sim5sim5: calls $6
+*** RIVER *** [Ks 8c 4s 6d] [Kc]
+hairy1961: bets $6
+sim5sim5: calls $6
+*** SHOW DOWN ***
+hairy1961: shows [As 4h] (two pair, Kings and Fours)
+sim5sim5: shows [5d 8h] (two pair, Kings and Eights)
+sim5sim5 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Ks 8c 4s 6d Kc]
+Seat 3: sim5sim5 (button) (small blind) showed [5d 8h] and won ($59.50) with two pair, Kings and Eights
+Seat 4: hairy1961 (big blind) showed [As 4h] and lost with two pair, Kings and Fours
+
+
+PokerStars Hand #169385230688:  Hold'em Limit ($3/$6 USD) - 2017/04/22 2:42:21 ET
+Table 'Jupiter' 6-max Seat #4 is the button
+Seat 3: sim5sim5 ($101.50 in chips)
+Seat 4: hairy1961 ($20 in chips)
+hairy1961: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+hairy1961: raises $3 to $6
+sim5sim5: folds
+Uncalled bet ($3) returned to hairy1961
+hairy1961 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: sim5sim5 (big blind) folded before Flop
+Seat 4: hairy1961 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #169385233285:  Hold'em Limit ($3/$6 USD) - 2017/04/22 2:42:29 ET
+Table 'Jupiter' 6-max Seat #3 is the button
+Seat 3: sim5sim5 ($98.50 in chips)
+Seat 4: hairy1961 ($23 in chips)
+sim5sim5: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+hairy1961: calls $3
+*** FLOP *** [4c 9s 3c]
+hairy1961: checks
+sim5sim5: bets $3
+hairy1961: calls $3
+*** TURN *** [4c 9s 3c] [3s]
+hairy1961: checks
+sim5sim5: bets $6
+hairy1961: raises $6 to $12
+sim5sim5: raises $6 to $18
+hairy1961: calls $2 and is all-in
+Uncalled bet ($4) returned to sim5sim5
+*** RIVER *** [4c 9s 3c 3s] [3h]
+*** SHOW DOWN ***
+hairy1961: shows [Ah 2d] (three of a kind, Threes)
+sim5sim5: shows [3d Td] (four of a kind, Threes)
+sim5sim5 collected $45.50 from pot
+*** SUMMARY ***
+Total pot $46 | Rake $0.50
+Board [4c 9s 3c 3s 3h]
+Seat 3: sim5sim5 (button) (small blind) showed [3d Td] and won ($45.50) with four of a kind, Threes
+Seat 4: hairy1961 (big blind) showed [Ah 2d] and lost with three of a kind, Threes
+
+

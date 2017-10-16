@@ -1,0 +1,82 @@
+PokerStars Hand #159856641209:  Hold'em Limit ($3/$6 USD) - 2016/10/12 21:03:21 ET
+Table 'Carolina' 6-max Seat #2 is the button
+Seat 1: Prince_Aria ($80.77 in chips)
+Seat 2: ToDaFelt ($267.15 in chips)
+ToDaFelt: posts small blind $1
+Prince_Aria: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+dmonr leaves the table
+Prince_Aria: calls $3
+*** FLOP *** [Tc 5s 6d]
+Prince_Aria: checks
+ToDaFelt: bets $3
+Prince_Aria: calls $3
+*** TURN *** [Tc 5s 6d] [4h]
+Prince_Aria: checks
+ToDaFelt: bets $6
+Prince_Aria: raises $6 to $12
+ToDaFelt: calls $6
+*** RIVER *** [Tc 5s 6d 4h] [8d]
+Prince_Aria: bets $6
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+Prince_Aria: shows [Th Ac] (a pair of Tens)
+ToDaFelt: shows [8h 5c] (two pair, Eights and Fives)
+ToDaFelt collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Tc 5s 6d 4h 8d]
+Seat 1: Prince_Aria (big blind) showed [Th Ac] and lost with a pair of Tens
+Seat 2: ToDaFelt (button) (small blind) showed [8h 5c] and won ($53.50) with two pair, Eights and Fives
+
+
+PokerStars Hand #159856638077:  Hold'em Limit ($3/$6 USD) - 2016/10/12 21:03:13 ET
+Table 'Carolina' 6-max Seat #1 is the button
+Seat 1: Prince_Aria ($81.77 in chips)
+Seat 2: ToDaFelt ($266.15 in chips)
+Prince_Aria: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+Prince_Aria: folds
+Uncalled bet ($2) returned to ToDaFelt
+ToDaFelt collected $2 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Prince_Aria (button) (small blind) folded before Flop
+Seat 2: ToDaFelt (big blind) collected ($2)
+
+
+PokerStars Hand #159856660976:  Hold'em Limit ($3/$6 USD) - 2016/10/12 21:04:08 ET
+Table 'Carolina' 6-max Seat #1 is the button
+Seat 1: Prince_Aria ($53.77 in chips)
+Seat 2: ToDaFelt ($293.65 in chips)
+Prince_Aria: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+Prince_Aria: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [8c Tc 3c]
+ToDaFelt: checks
+Prince_Aria: bets $3
+ToDaFelt: raises $3 to $6
+Prince_Aria: calls $3
+*** TURN *** [8c Tc 3c] [Jc]
+ToDaFelt: checks
+Prince_Aria: bets $6
+ToDaFelt: calls $6
+*** RIVER *** [8c Tc 3c Jc] [6c]
+ToDaFelt: checks
+Prince_Aria: checks
+*** SHOW DOWN ***
+ToDaFelt: shows [Ts 3h] (a flush, Jack high)
+Prince_Aria: shows [4c 5c] (a flush, Jack high - Five higher)
+Prince_Aria collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [8c Tc 3c Jc 6c]
+Seat 1: Prince_Aria (button) (small blind) showed [4c 5c] and won ($35.50) with a flush, Jack high
+Seat 2: ToDaFelt (big blind) showed [Ts 3h] and lost with a flush, Jack high
+
+

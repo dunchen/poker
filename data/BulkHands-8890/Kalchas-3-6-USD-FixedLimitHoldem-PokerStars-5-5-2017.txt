@@ -1,0 +1,33 @@
+PokerStars Hand #170009752098:  Hold'em Limit ($3/$6 USD) - 2017/05/05 19:21:48 ET
+Table 'Kalchas' 6-max Seat #5 is the button
+Seat 1: anebodil ($202.48 in chips)
+Seat 5: TinaTurner72 ($121 in chips)
+ToDaFelt joins the table at seat #2
+TinaTurner72: posts small blind $1
+anebodil: posts big blind $3
+*** HOLE CARDS ***
+TinaTurner72: raises $3 to $6
+anebodil: calls $3
+*** FLOP *** [4d Qs 3c]
+anebodil: bets $3
+TinaTurner72: raises $3 to $6
+anebodil: calls $3
+*** TURN *** [4d Qs 3c] [8s]
+anebodil: checks
+TinaTurner72: bets $6
+anebodil: calls $6
+*** RIVER *** [4d Qs 3c 8s] [Kh]
+anebodil: bets $6
+TinaTurner72: raises $6 to $12
+anebodil: calls $6
+*** SHOW DOWN ***
+TinaTurner72: shows [Ah Ac] (a pair of Aces)
+anebodil: shows [4c Ks] (two pair, Kings and Fours)
+anebodil collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [4d Qs 3c 8s Kh]
+Seat 1: anebodil (big blind) showed [4c Ks] and won ($59.50) with two pair, Kings and Fours
+Seat 5: TinaTurner72 (button) (small blind) showed [Ah Ac] and lost with a pair of Aces
+
+

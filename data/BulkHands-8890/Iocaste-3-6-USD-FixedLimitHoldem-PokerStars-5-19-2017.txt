@@ -1,0 +1,53 @@
+PokerStars Hand #170612387951:  Hold'em Limit ($3/$6 USD) - 2017/05/18 23:55:56 ET
+Table 'Iocaste' 6-max Seat #3 is the button
+Seat 3: LOOSECRAB ($149.39 in chips)
+Seat 4: MTails ($120 in chips)
+LOOSECRAB: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+LOOSECRAB: calls $2
+MTails: raises $3 to $6
+LOOSECRAB: calls $3
+*** FLOP *** [7d Tc 4c]
+MTails: bets $3
+LOOSECRAB: calls $3
+*** TURN *** [7d Tc 4c] [Ad]
+MTails: bets $6
+LOOSECRAB: calls $6
+*** RIVER *** [7d Tc 4c Ad] [6s]
+MTails: checks
+LOOSECRAB: checks
+*** SHOW DOWN ***
+MTails: shows [2s 2h] (a pair of Deuces)
+LOOSECRAB: shows [5s 6h] (a pair of Sixes)
+LOOSECRAB collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7d Tc 4c Ad 6s]
+Seat 3: LOOSECRAB (button) (small blind) showed [5s 6h] and won ($29.50) with a pair of Sixes
+Seat 4: MTails (big blind) showed [2s 2h] and lost with a pair of Deuces
+
+
+PokerStars Hand #170612394924:  Hold'em Limit ($3/$6 USD) - 2017/05/18 23:56:25 ET
+Table 'Iocaste' 6-max Seat #4 is the button
+Seat 3: LOOSECRAB ($163.89 in chips)
+Seat 4: MTails ($105 in chips)
+MTails: posts small blind $1
+LOOSECRAB: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+LOOSECRAB: calls $3
+*** FLOP *** [5s 5h 4c]
+LOOSECRAB: checks
+MTails: bets $3
+LOOSECRAB: folds
+Uncalled bet ($3) returned to MTails
+LOOSECRAB leaves the table
+MTails collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5s 5h 4c]
+Seat 3: LOOSECRAB (big blind) folded on the Flop
+Seat 4: MTails (button) (small blind) collected ($11.76)
+
+

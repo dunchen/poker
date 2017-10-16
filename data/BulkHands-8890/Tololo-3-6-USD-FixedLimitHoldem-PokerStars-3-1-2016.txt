@@ -1,0 +1,57 @@
+PokerStars Hand #149682755026:  Hold'em Limit ($3/$6 USD) - 2016/03/01 15:16:29 ET
+Table 'Tololo' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 3: Erm_Duhhh ($55 in chips)
+VolkovDmitri: posts small blind $1
+Erm_Duhhh: posts big blind $3
+*** HOLE CARDS ***
+kolaz03 joins the table at seat #4
+VolkovDmitri: raises $3 to $6
+Erm_Duhhh: calls $3
+*** FLOP *** [3d Qc 5h]
+Erm_Duhhh: checks
+VolkovDmitri: bets $3
+Erm_Duhhh: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [3d Qc 5h] [2h]
+Erm_Duhhh: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [3d Qc 5h 2h] [6c]
+Erm_Duhhh: bets $6
+GoliafUa joins the table at seat #5
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+Erm_Duhhh: shows [3c 4s] (a straight, Deuce to Six)
+VolkovDmitri: mucks hand
+Erm_Duhhh collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3d Qc 5h 2h 6c]
+Seat 1: VolkovDmitri (button) (small blind) mucked
+Seat 3: Erm_Duhhh (big blind) showed [3c 4s] and won ($47.50) with a straight, Deuce to Six
+
+
+PokerStars Hand #149683318557:  Hold'em Limit ($3/$6 USD) - 2016/03/01 15:25:34 ET
+Table 'Tololo' 6-max Seat #2 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 2: alexfer999 ($114 in chips)
+alexfer999: posts small blind $1
+Zubasa07: is sitting out
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+alexfer999: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+alexfer999: calls $3
+*** FLOP *** [Kh 5d Ts]
+VolkovDmitri: bets $3
+alexfer999: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $17.64 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kh 5d Ts]
+Seat 1: VolkovDmitri (big blind) collected ($17.64)
+Seat 2: alexfer999 (button) (small blind) folded on the Flop
+
+

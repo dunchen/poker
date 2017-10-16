@@ -1,0 +1,35 @@
+PokerStars Hand #163614674592:  Hold'em Limit ($3/$6 USD) - 2016/12/27 13:24:23 ET
+Table 'Arnica' 6-max Seat #4 is the button
+Seat 2: undaDISGUISE ($53 in chips)
+Seat 4: Koraseg ($288.92 in chips)
+Koraseg: posts small blind $1
+kpark0418: is sitting out
+undaDISGUISE: posts big blind $3
+*** HOLE CARDS ***
+Koraseg: raises $3 to $6
+craaa leaves the table
+undaDISGUISE: calls $3
+*** FLOP *** [9c As 4d]
+undaDISGUISE: checks
+kpark0418 leaves the table
+Koraseg: bets $3
+undaDISGUISE: calls $3
+*** TURN *** [9c As 4d] [6c]
+undaDISGUISE: checks
+Koraseg: bets $6
+undaDISGUISE: raises $6 to $12
+Koraseg: calls $6
+*** RIVER *** [9c As 4d 6c] [Qh]
+undaDISGUISE: bets $6
+Koraseg: calls $6
+*** SHOW DOWN ***
+undaDISGUISE: shows [4c 4h] (three of a kind, Fours)
+Koraseg: mucks hand
+undaDISGUISE collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [9c As 4d 6c Qh]
+Seat 2: undaDISGUISE (big blind) showed [4c 4h] and won ($53.50) with three of a kind, Fours
+Seat 4: Koraseg (button) (small blind) mucked
+
+

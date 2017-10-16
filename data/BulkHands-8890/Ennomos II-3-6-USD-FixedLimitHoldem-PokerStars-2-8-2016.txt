@@ -1,0 +1,59 @@
+PokerStars Hand #148440533691:  Hold'em Limit ($3/$6 USD) - 2016/02/08 7:13:29 ET
+Table 'Ennomos II' 6-max Seat #4 is the button
+Seat 3: Andredias950 ($36.13 in chips)
+Seat 4: AzureCaper ($72 in chips)
+AzureCaper: posts small blind $1
+Andredias950: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+Andredias950: raises $3 to $9
+AzureCaper: raises $3 to $12
+Betting is capped
+P0planu joins the table at seat #5
+Andredias950: calls $3
+*** FLOP *** [Ac 8h 7h]
+Andredias950: bets $3
+AzureCaper: calls $3
+*** TURN *** [Ac 8h 7h] [7s]
+Andredias950: bets $6
+AzureCaper: calls $6
+*** RIVER *** [Ac 8h 7h 7s] [5h]
+Andredias950: bets $6
+AzureCaper: calls $6
+*** SHOW DOWN ***
+Andredias950: shows [6h 6d] (two pair, Sevens and Sixes)
+AzureCaper: shows [Qh Qs] (two pair, Queens and Sevens)
+AzureCaper collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Ac 8h 7h 7s 5h]
+Seat 3: Andredias950 (big blind) showed [6h 6d] and lost with two pair, Sevens and Sixes
+Seat 4: AzureCaper (button) (small blind) showed [Qh Qs] and won ($53.50) with two pair, Queens and Sevens
+
+
+PokerStars Hand #148440547429:  Hold'em Limit ($3/$6 USD) - 2016/02/08 7:13:53 ET
+Table 'Ennomos II' 6-max Seat #3 is the button
+Seat 3: Andredias950 ($9.13 in chips)
+Seat 4: AzureCaper ($98.50 in chips)
+Andredias950: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+Andredias950: raises $3 to $6
+AzureCaper: raises $3 to $9
+Andredias950: raises $0.13 to $9.13 and is all-in
+Betting is capped
+AzureCaper: calls $0.13
+*** FLOP *** [8h 4s 2c]
+*** TURN *** [8h 4s 2c] [Ac]
+*** RIVER *** [8h 4s 2c Ac] [5h]
+*** SHOW DOWN ***
+AzureCaper: shows [6h 6c] (a pair of Sixes)
+Andredias950: shows [As 7s] (a pair of Aces)
+Andredias950 collected $17.89 from pot
+*** SUMMARY ***
+Total pot $18.26 | Rake $0.37
+Board [8h 4s 2c Ac 5h]
+Seat 3: Andredias950 (button) (small blind) showed [As 7s] and won ($17.89) with a pair of Aces
+Seat 4: AzureCaper (big blind) showed [6h 6c] and lost with a pair of Sixes
+
+

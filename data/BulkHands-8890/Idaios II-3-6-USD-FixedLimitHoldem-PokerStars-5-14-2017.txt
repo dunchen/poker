@@ -1,0 +1,455 @@
+PokerStars Hand #170399389223:  Hold'em Limit ($3/$6 USD) - 2017/05/14 7:17:53 ET
+Table 'Idaios II' 6-max Seat #4 is the button
+Seat 3: bmfu649 ($25 in chips)
+Seat 4: VolkovDmitri ($125 in chips)
+VolkovDmitri: posts small blind $1
+bmfu649: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+bmfu649: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [3c Kd 6h]
+bmfu649: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [3c Kd 6h] [Qc]
+bmfu649: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [3c Kd 6h Qc] [Ad]
+bmfu649: bets $6
+sim5sim5 joins the table at seat #2
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+bmfu649: shows [8s 6s] (a pair of Sixes)
+VolkovDmitri: mucks hand
+bmfu649 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3c Kd 6h Qc Ad]
+Seat 3: bmfu649 (big blind) showed [8s 6s] and won ($47.50) with a pair of Sixes
+Seat 4: VolkovDmitri (button) (small blind) mucked
+
+
+PokerStars Hand #170399415447:  Hold'em Limit ($3/$6 USD) - 2017/05/14 7:18:47 ET
+Table 'Idaios II' 6-max Seat #3 is the button
+Seat 3: bmfu649 ($48.50 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+bmfu649: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+bmfu649: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Qc 6s 9d]
+VolkovDmitri: checks
+bmfu649: checks
+*** TURN *** [Qc 6s 9d] [8c]
+VolkovDmitri: bets $6
+bmfu649: calls $6
+*** RIVER *** [Qc 6s 9d 8c] [9h]
+VolkovDmitri: checks
+bmfu649: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to bmfu649
+bmfu649 collected $23.52 from pot
+bmfu649: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Qc 6s 9d 8c 9h]
+Seat 3: bmfu649 (button) (small blind) collected ($23.52)
+Seat 4: VolkovDmitri (big blind) folded on the River
+
+
+PokerStars Hand #170399882971:  Hold'em Limit ($3/$6 USD) - 2017/05/14 7:34:26 ET
+Table 'Idaios II' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($192.69 in chips)
+Seat 6: chrismat ($86.53 in chips)
+VolkovDmitri: posts small blind $1
+chrismat: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+chrismat: calls $3
+*** FLOP *** [6s 4d 4h]
+chrismat: checks
+VolkovDmitri: bets $3
+chrismat: calls $3
+*** TURN *** [6s 4d 4h] [Kh]
+chrismat: checks
+VolkovDmitri: bets $6
+chrismat: calls $6
+*** RIVER *** [6s 4d 4h Kh] [5s]
+chrismat: checks
+VolkovDmitri: bets $6
+chrismat: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [As Ks] (two pair, Kings and Fours)
+chrismat: mucks hand
+VolkovDmitri collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [6s 4d 4h Kh 5s]
+Seat 4: VolkovDmitri (button) (small blind) showed [As Ks] and won ($41.50) with two pair, Kings and Fours
+Seat 6: chrismat (big blind) mucked
+
+
+PokerStars Hand #170399868449:  Hold'em Limit ($3/$6 USD) - 2017/05/14 7:33:58 ET
+Table 'Idaios II' 6-max Seat #6 is the button
+Seat 4: VolkovDmitri ($181.17 in chips)
+Seat 6: chrismat ($98.53 in chips)
+chrismat: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+chrismat: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+chrismat: calls $3
+*** FLOP *** [4c 2c 8s]
+VolkovDmitri: bets $3
+chrismat: calls $3
+*** TURN *** [4c 2c 8s] [2h]
+VolkovDmitri: checks
+chrismat: checks
+*** RIVER *** [4c 2c 8s 2h] [5c]
+VolkovDmitri: checks
+chrismat: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [5h Ad] (two pair, Fives and Deuces)
+chrismat: mucks hand
+VolkovDmitri collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [4c 2c 8s 2h 5c]
+Seat 4: VolkovDmitri (big blind) showed [5h Ad] and won ($23.52) with two pair, Fives and Deuces
+Seat 6: chrismat (button) (small blind) mucked
+
+
+PokerStars Hand #170399901277:  Hold'em Limit ($3/$6 USD) - 2017/05/14 7:35:03 ET
+Table 'Idaios II' 6-max Seat #6 is the button
+Seat 4: VolkovDmitri ($213.19 in chips)
+Seat 6: chrismat ($65.53 in chips)
+chrismat: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+chrismat: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Kc Qc Qh]
+VolkovDmitri: checks
+chrismat: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [Kc Qc Qh] [4s]
+VolkovDmitri: checks
+chrismat: checks
+*** RIVER *** [Kc Qc Qh 4s] [Ac]
+VolkovDmitri: checks
+chrismat: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+chrismat: shows [6d 7d] (a pair of Queens)
+VolkovDmitri: shows [Jh 4c] (two pair, Queens and Fours)
+VolkovDmitri collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kc Qc Qh 4s Ac]
+Seat 4: VolkovDmitri (big blind) showed [Jh 4c] and won ($29.50) with two pair, Queens and Fours
+Seat 6: chrismat (button) (small blind) showed [6d 7d] and lost with a pair of Queens
+
+
+PokerStars Hand #170399923441:  Hold'em Limit ($3/$6 USD) - 2017/05/14 7:35:47 ET
+Table 'Idaios II' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($227.69 in chips)
+Seat 6: chrismat ($50.53 in chips)
+VolkovDmitri: posts small blind $1
+chrismat: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+chrismat: calls $3
+*** FLOP *** [6s 2h Ah]
+chrismat: checks
+VolkovDmitri: bets $3
+chrismat: calls $3
+*** TURN *** [6s 2h Ah] [Jd]
+chrismat: checks
+VolkovDmitri: checks
+*** RIVER *** [6s 2h Ah Jd] [8d]
+chrismat: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+chrismat: shows [4d 3d] (high card Ace)
+VolkovDmitri: shows [Ts Qs] (high card Ace - Queen kicker)
+VolkovDmitri collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6s 2h Ah Jd 8d]
+Seat 4: VolkovDmitri (button) (small blind) showed [Ts Qs] and won ($17.64) with high card Ace
+Seat 6: chrismat (big blind) showed [4d 3d] and lost with high card Ace
+
+
+PokerStars Hand #170399974410:  Hold'em Limit ($3/$6 USD) - 2017/05/14 7:37:27 ET
+Table 'Idaios II' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($218.33 in chips)
+Seat 6: chrismat ($59.03 in chips)
+VolkovDmitri: posts small blind $1
+chrismat: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+chrismat: calls $3
+*** FLOP *** [Kc 2h Kd]
+chrismat: checks
+VolkovDmitri: bets $3
+chrismat: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [Kc 2h Kd] [7h]
+chrismat: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to chrismat
+chrismat collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Kc 2h Kd 7h]
+Seat 4: VolkovDmitri (button) (small blind) folded on the Turn
+Seat 6: chrismat (big blind) collected ($23.52)
+
+
+PokerStars Hand #170399941504:  Hold'em Limit ($3/$6 USD) - 2017/05/14 7:36:22 ET
+Table 'Idaios II' 6-max Seat #6 is the button
+Seat 4: VolkovDmitri ($236.33 in chips)
+Seat 6: chrismat ($41.53 in chips)
+chrismat: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+chrismat: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [8c 6s 2s]
+VolkovDmitri: checks
+chrismat: bets $3
+VolkovDmitri: raises $3 to $6
+chrismat: calls $3
+*** TURN *** [8c 6s 2s] [Qh]
+VolkovDmitri: checks
+chrismat: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [8c 6s 2s Qh] [5d]
+VolkovDmitri: checks
+chrismat: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to chrismat
+chrismat collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [8c 6s 2s Qh 5d]
+Seat 4: VolkovDmitri (big blind) folded on the River
+Seat 6: chrismat (button) (small blind) collected ($35.50)
+
+
+PokerStars Hand #170400025346:  Hold'em Limit ($3/$6 USD) - 2017/05/14 7:39:07 ET
+Table 'Idaios II' 6-max Seat #6 is the button
+Seat 4: VolkovDmitri ($220.83 in chips)
+Seat 6: chrismat ($55.19 in chips)
+chrismat: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+chrismat: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: VolkovDmitri (big blind) collected ($2)
+Seat 6: chrismat (button) (small blind) folded before Flop
+
+
+PokerStars Hand #170400012999:  Hold'em Limit ($3/$6 USD) - 2017/05/14 7:38:43 ET
+Table 'Idaios II' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($229.83 in chips)
+Seat 6: chrismat ($46.55 in chips)
+VolkovDmitri: posts small blind $1
+chrismat: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+chrismat: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [Qh 8d 8c]
+chrismat: bets $3
+VolkovDmitri: folds
+Uncalled bet ($3) returned to chrismat
+chrismat collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qh 8d 8c]
+Seat 4: VolkovDmitri (button) (small blind) folded on the Flop
+Seat 6: chrismat (big blind) collected ($17.64)
+
+
+PokerStars Hand #170399993032:  Hold'em Limit ($3/$6 USD) - 2017/05/14 7:38:04 ET
+Table 'Idaios II' 6-max Seat #6 is the button
+Seat 4: VolkovDmitri ($206.33 in chips)
+Seat 6: chrismat ($70.55 in chips)
+chrismat: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+chrismat: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [6d 8c 4c]
+VolkovDmitri: checks
+chrismat: bets $3
+VolkovDmitri: raises $3 to $6
+chrismat: calls $3
+*** TURN *** [6d 8c 4c] [2c]
+VolkovDmitri: bets $6
+chrismat: calls $6
+*** RIVER *** [6d 8c 4c 2c] [Th]
+VolkovDmitri: bets $6
+chrismat: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Jc 3c] (a flush, Jack high)
+chrismat: mucks hand
+VolkovDmitri collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [6d 8c 4c 2c Th]
+Seat 4: VolkovDmitri (big blind) showed [Jc 3c] and won ($47.50) with a flush, Jack high
+Seat 6: chrismat (button) (small blind) mucked
+
+
+PokerStars Hand #170400046897:  Hold'em Limit ($3/$6 USD) - 2017/05/14 7:39:50 ET
+Table 'Idaios II' 6-max Seat #6 is the button
+Seat 4: VolkovDmitri ($219.59 in chips)
+Seat 6: chrismat ($55.83 in chips)
+chrismat: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+chrismat: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [9h Th Ad]
+VolkovDmitri: checks
+chrismat: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [9h Th Ad] [3s]
+VolkovDmitri: checks
+chrismat: checks
+*** RIVER *** [9h Th Ad 3s] [Kh]
+VolkovDmitri: checks
+chrismat: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to chrismat
+chrismat collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9h Th Ad 3s Kh]
+Seat 4: VolkovDmitri (big blind) folded on the River
+Seat 6: chrismat (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #170400037823:  Hold'em Limit ($3/$6 USD) - 2017/05/14 7:39:32 ET
+Table 'Idaios II' 6-max Seat #6 is the button
+Seat 4: VolkovDmitri ($212.83 in chips)
+Seat 6: chrismat ($62.83 in chips)
+chrismat: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+chrismat: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: VolkovDmitri (big blind) collected ($2)
+Seat 6: chrismat (button) (small blind) folded before Flop
+
+
+PokerStars Hand #170400027970:  Hold'em Limit ($3/$6 USD) - 2017/05/14 7:39:13 ET
+Table 'Idaios II' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($221.83 in chips)
+Seat 6: chrismat ($54.19 in chips)
+VolkovDmitri: posts small blind $1
+chrismat: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+chrismat: calls $3
+*** FLOP *** [6h 8h Kc]
+chrismat: checks
+VolkovDmitri: bets $3
+chrismat: raises $3 to $6
+VolkovDmitri: folds
+Uncalled bet ($3) returned to chrismat
+chrismat collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6h 8h Kc]
+Seat 4: VolkovDmitri (button) (small blind) folded on the Flop
+Seat 6: chrismat (big blind) collected ($17.64)
+
+
+PokerStars Hand #170400040518:  Hold'em Limit ($3/$6 USD) - 2017/05/14 7:39:37 ET
+Table 'Idaios II' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($213.83 in chips)
+Seat 6: chrismat ($61.83 in chips)
+VolkovDmitri: posts small blind $1
+chrismat: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+chrismat: calls $3
+*** FLOP *** [7c 4h 2h]
+chrismat: checks
+VolkovDmitri: bets $3
+chrismat: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7c 4h 2h]
+Seat 4: VolkovDmitri (button) (small blind) collected ($11.76)
+Seat 6: chrismat (big blind) folded on the Flop
+
+
+PokerStars Hand #170400060926:  Hold'em Limit ($3/$6 USD) - 2017/05/14 7:40:17 ET
+Table 'Idaios II' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($210.59 in chips)
+Seat 6: chrismat ($64.47 in chips)
+VolkovDmitri: posts small blind $1
+chrismat: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+chrismat: calls $3
+*** FLOP *** [6d Kd 4c]
+chrismat: checks
+VolkovDmitri: bets $3
+chrismat: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6d Kd 4c]
+Seat 4: VolkovDmitri (button) (small blind) collected ($11.76)
+Seat 6: chrismat (big blind) folded on the Flop
+
+
+PokerStars Hand #170400070170:  Hold'em Limit ($3/$6 USD) - 2017/05/14 7:40:36 ET
+Table 'Idaios II' 6-max Seat #6 is the button
+Seat 4: VolkovDmitri ($216.35 in chips)
+Seat 6: chrismat ($58.47 in chips)
+chrismat: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+chrismat: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+chrismat: calls $3
+*** FLOP *** [Td Kc 2s]
+VolkovDmitri: bets $3
+chrismat: calls $3
+*** TURN *** [Td Kc 2s] [Jh]
+VolkovDmitri: bets $6
+chrismat: calls $6
+*** RIVER *** [Td Kc 2s Jh] [Qh]
+VolkovDmitri: bets $6
+chrismat: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Ad Kd] (a straight, Ten to Ace)
+chrismat: mucks hand
+VolkovDmitri collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Td Kc 2s Jh Qh]
+Seat 4: VolkovDmitri (big blind) showed [Ad Kd] and won ($47.50) with a straight, Ten to Ace
+Seat 6: chrismat (button) (small blind) mucked
+
+

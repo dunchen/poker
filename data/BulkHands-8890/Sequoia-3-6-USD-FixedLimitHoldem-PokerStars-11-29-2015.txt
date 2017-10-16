@@ -1,0 +1,61 @@
+PokerStars Hand #144587833808:  Hold'em Limit ($3/$6 USD) - 2015/11/29 18:55:09 ET
+Table 'Sequoia' 6-max Seat #1 is the button
+Seat 1: Zubasa07 ($500 in chips)
+Seat 2: ALPEVE85 ($120 in chips)
+Zubasa07: posts small blind $1
+ALPEVE85: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+ALPEVE85: calls $3
+*** FLOP *** [9h Kc 8h]
+ALPEVE85: bets $3
+Zubasa07: calls $3
+*** TURN *** [9h Kc 8h] [6h]
+ALPEVE85: bets $6
+Zubasa07: calls $6
+*** RIVER *** [9h Kc 8h 6h] [4d]
+ALPEVE85: bets $6
+Zubasa07: calls $6
+*** SHOW DOWN ***
+ALPEVE85: shows [Qc 9s] (a pair of Nines)
+Zubasa07: shows [4s Ks] (two pair, Kings and Fours)
+Zubasa07 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9h Kc 8h 6h 4d]
+Seat 1: Zubasa07 (button) (small blind) showed [4s Ks] and won ($41.50) with two pair, Kings and Fours
+Seat 2: ALPEVE85 (big blind) showed [Qc 9s] and lost with a pair of Nines
+
+
+PokerStars Hand #144587857769:  Hold'em Limit ($3/$6 USD) - 2015/11/29 18:55:50 ET
+Table 'Sequoia' 6-max Seat #2 is the button
+Seat 1: Zubasa07 ($520.50 in chips)
+Seat 2: ALPEVE85 ($99 in chips)
+ALPEVE85: posts small blind $1
+Zubasa07: posts big blind $3
+*** HOLE CARDS ***
+ALPEVE85: calls $2
+Zubasa07: raises $3 to $6
+ALPEVE85: calls $3
+*** FLOP *** [3d Jc 7h]
+Zubasa07: bets $3
+ALPEVE85: raises $3 to $6
+Zubasa07: calls $3
+*** TURN *** [3d Jc 7h] [Td]
+Zubasa07: checks
+ALPEVE85: bets $6
+Zubasa07: calls $6
+*** RIVER *** [3d Jc 7h Td] [9h]
+Zubasa07: checks
+ALPEVE85: bets $6
+Zubasa07: folds
+Uncalled bet ($6) returned to ALPEVE85
+ALPEVE85 collected $35.50 from pot
+ALPEVE85: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [3d Jc 7h Td 9h]
+Seat 1: Zubasa07 (big blind) folded on the River
+Seat 2: ALPEVE85 (button) (small blind) collected ($35.50)
+
+

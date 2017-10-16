@@ -1,0 +1,132 @@
+PokerStars Hand #161766472764:  Hold'em Limit ($3/$6 USD) - 2016/11/21 18:41:23 ET
+Table 'Delphinus' 6-max Seat #6 is the button
+Seat 1: assitoni ($72 in chips)
+Seat 6: Brama Br ($84.95 in chips)
+Brama Br: posts small blind $1
+assitoni: posts big blind $3
+*** HOLE CARDS ***
+Brama Br: raises $3 to $6
+assitoni: calls $3
+*** FLOP *** [9h 7d Ac]
+assitoni: checks
+Brama Br: bets $3
+assitoni: raises $3 to $6
+Brama Br: calls $3
+*** TURN *** [9h 7d Ac] [Qs]
+assitoni: bets $6
+Brama Br: calls $6
+*** RIVER *** [9h 7d Ac Qs] [9c]
+assitoni: bets $6
+Brama Br: calls $6
+*** SHOW DOWN ***
+assitoni: shows [7c 5c] (two pair, Nines and Sevens)
+Brama Br: shows [7s Ks] (two pair, Nines and Sevens)
+assitoni collected $23.75 from pot
+Brama Br collected $23.75 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9h 7d Ac Qs 9c]
+Seat 1: assitoni (big blind) showed [7c 5c] and won ($23.75) with two pair, Nines and Sevens
+Seat 6: Brama Br (button) (small blind) showed [7s Ks] and won ($23.75) with two pair, Nines and Sevens
+
+
+PokerStars Hand #161766497498:  Hold'em Limit ($3/$6 USD) - 2016/11/21 18:41:58 ET
+Table 'Delphinus' 6-max Seat #1 is the button
+Seat 1: assitoni ($72 in chips)
+Seat 6: Brama Br ($84.70 in chips)
+assitoni: posts small blind $1
+Brama Br: posts big blind $3
+*** HOLE CARDS ***
+assitoni: raises $3 to $6
+Brama Br: raises $3 to $9
+assitoni: raises $3 to $12
+Betting is capped
+Brama Br: calls $3
+*** FLOP *** [Jc 8h 7c]
+Brama Br: checks
+assitoni: bets $3
+Brama Br: calls $3
+*** TURN *** [Jc 8h 7c] [6d]
+Brama Br: checks
+assitoni: bets $6
+Brama Br: calls $6
+*** RIVER *** [Jc 8h 7c 6d] [2s]
+Brama Br: checks
+assitoni: checks
+GoliafUa leaves the table
+*** SHOW DOWN ***
+Brama Br: shows [Td Ad] (high card Ace)
+assitoni: shows [As Kh] (high card Ace - King kicker)
+assitoni collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Jc 8h 7c 6d 2s]
+Seat 1: assitoni (button) (small blind) showed [As Kh] and won ($41.50) with high card Ace
+Seat 6: Brama Br (big blind) showed [Td Ad] and lost with high card Ace
+
+
+PokerStars Hand #161766709640:  Hold'em Limit ($3/$6 USD) - 2016/11/21 18:47:01 ET
+Table 'Delphinus' 6-max Seat #3 is the button
+Seat 2: anebodil ($133.90 in chips)
+Seat 3: vestimokrec ($99 in chips)
+vestimokrec: posts small blind $1
+assitoni: is sitting out
+anebodil: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+anebodil: calls $3
+*** FLOP *** [Ts 2h Ah]
+anebodil: checks
+vestimokrec: bets $3
+anebodil: calls $3
+*** TURN *** [Ts 2h Ah] [Tc]
+anebodil: checks
+vestimokrec: bets $6
+anebodil: calls $6
+*** RIVER *** [Ts 2h Ah Tc] [7d]
+anebodil: checks
+vestimokrec: bets $6
+ToDaFelt joins the table at seat #4
+anebodil: calls $6
+*** SHOW DOWN ***
+vestimokrec: shows [8h Ac] (two pair, Aces and Tens)
+anebodil: mucks hand
+vestimokrec collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ts 2h Ah Tc 7d]
+Seat 2: anebodil (big blind) mucked
+Seat 3: vestimokrec (button) (small blind) showed [8h Ac] and won ($41.50) with two pair, Aces and Tens
+
+
+PokerStars Hand #161766727585:  Hold'em Limit ($3/$6 USD) - 2016/11/21 18:47:26 ET
+Table 'Delphinus' 6-max Seat #2 is the button
+Seat 2: anebodil ($112.90 in chips)
+Seat 3: vestimokrec ($119.50 in chips)
+anebodil: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+anebodil: raises $3 to $6
+vestimokrec: raises $3 to $9
+anebodil: calls $3
+*** FLOP *** [5s Ks Ac]
+vestimokrec: bets $3
+anebodil: calls $3
+*** TURN *** [5s Ks Ac] [6h]
+newhouse joins the table at seat #5
+vestimokrec: bets $6
+anebodil: calls $6
+*** RIVER *** [5s Ks Ac 6h] [Qs]
+vestimokrec: checks
+anebodil: checks
+*** SHOW DOWN ***
+vestimokrec: shows [Js Qh] (a pair of Queens)
+anebodil: shows [9h Ad] (a pair of Aces)
+anebodil collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5s Ks Ac 6h Qs]
+Seat 2: anebodil (button) (small blind) showed [9h Ad] and won ($35.50) with a pair of Aces
+Seat 3: vestimokrec (big blind) showed [Js Qh] and lost with a pair of Queens
+
+

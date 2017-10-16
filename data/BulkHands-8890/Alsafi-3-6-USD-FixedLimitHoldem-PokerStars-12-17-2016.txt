@@ -1,0 +1,639 @@
+PokerStars Hand #163067042892:  Hold'em Limit ($3/$6 USD) - 2016/12/17 0:41:43 ET
+Table 'Alsafi' 6-max Seat #1 is the button
+Seat 1: paptec ($40 in chips)
+Seat 2: ToDaFelt ($120 in chips)
+paptec: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+paptec: raises $3 to $6
+ToDaFelt: folds
+Uncalled bet ($3) returned to paptec
+paptec collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: paptec (button) (small blind) collected ($6)
+Seat 2: ToDaFelt (big blind) folded before Flop
+
+
+PokerStars Hand #163067045562:  Hold'em Limit ($3/$6 USD) - 2016/12/17 0:41:52 ET
+Table 'Alsafi' 6-max Seat #2 is the button
+Seat 1: paptec ($43 in chips)
+Seat 2: ToDaFelt ($117 in chips)
+ToDaFelt: posts small blind $1
+paptec: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+paptec: calls $3
+*** FLOP *** [Jd Qh 4d]
+paptec: checks
+ToDaFelt: bets $3
+paptec: calls $3
+*** TURN *** [Jd Qh 4d] [3d]
+paptec: checks
+ToDaFelt: checks
+*** RIVER *** [Jd Qh 4d 3d] [Kd]
+paptec: bets $6
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+paptec: shows [Ks 9c] (a pair of Kings)
+ToDaFelt: shows [Kc 5d] (a flush, King high)
+ToDaFelt collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Jd Qh 4d 3d Kd]
+Seat 1: paptec (big blind) showed [Ks 9c] and lost with a pair of Kings
+Seat 2: ToDaFelt (button) (small blind) showed [Kc 5d] and won ($29.50) with a flush, King high
+
+
+PokerStars Hand #163067052578:  Hold'em Limit ($3/$6 USD) - 2016/12/17 0:42:15 ET
+Table 'Alsafi' 6-max Seat #1 is the button
+Seat 1: paptec ($28 in chips)
+Seat 2: ToDaFelt ($131.50 in chips)
+paptec: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+Agrotait leaves the table
+paptec: raises $3 to $6
+ToDaFelt: raises $3 to $9
+paptec: calls $3
+*** FLOP *** [5d 8h 7h]
+ToDaFelt: bets $3
+paptec: calls $3
+*** TURN *** [5d 8h 7h] [Ad]
+ToDaFelt: bets $6
+paptec: folds
+Uncalled bet ($6) returned to ToDaFelt
+ToDaFelt collected $23.52 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [5d 8h 7h Ad]
+Seat 1: paptec (button) (small blind) folded on the Turn
+Seat 2: ToDaFelt (big blind) collected ($23.52)
+
+
+PokerStars Hand #163067058969:  Hold'em Limit ($3/$6 USD) - 2016/12/17 0:42:36 ET
+Table 'Alsafi' 6-max Seat #2 is the button
+Seat 1: paptec ($16 in chips)
+Seat 2: ToDaFelt ($143.02 in chips)
+ToDaFelt: posts small blind $1
+paptec: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+paptec: calls $3
+*** FLOP *** [9c Ac 5h]
+paptec: checks
+ToDaFelt: bets $3
+paptec: raises $3 to $6
+ToDaFelt: calls $3
+*** TURN *** [9c Ac 5h] [Jd]
+paptec: bets $4 and is all-in
+ToDaFelt: calls $4
+*** RIVER *** [9c Ac 5h Jd] [Tc]
+*** SHOW DOWN ***
+paptec: shows [8d 9s] (a pair of Nines)
+ToDaFelt: shows [7d 5c] (a pair of Fives)
+paptec collected $31.50 from pot
+*** SUMMARY ***
+Total pot $32 | Rake $0.50
+Board [9c Ac 5h Jd Tc]
+Seat 1: paptec (big blind) showed [8d 9s] and won ($31.50) with a pair of Nines
+Seat 2: ToDaFelt (button) (small blind) showed [7d 5c] and lost with a pair of Fives
+
+
+PokerStars Hand #163067066077:  Hold'em Limit ($3/$6 USD) - 2016/12/17 0:42:59 ET
+Table 'Alsafi' 6-max Seat #1 is the button
+Seat 1: paptec ($31.50 in chips)
+Seat 2: ToDaFelt ($127.02 in chips)
+paptec: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+paptec: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [Jh Kc Ah]
+ToDaFelt: checks
+paptec: bets $3
+ToDaFelt: folds
+Uncalled bet ($3) returned to paptec
+paptec collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jh Kc Ah]
+Seat 1: paptec (button) (small blind) collected ($11.76)
+Seat 2: ToDaFelt (big blind) folded on the Flop
+
+
+PokerStars Hand #163067081533:  Hold'em Limit ($3/$6 USD) - 2016/12/17 0:43:49 ET
+Table 'Alsafi' 6-max Seat #1 is the button
+Seat 1: paptec ($51.76 in chips)
+Seat 2: ToDaFelt ($106.02 in chips)
+paptec: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+paptec: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [9d 7s Ah]
+ToDaFelt: checks
+paptec: checks
+*** TURN *** [9d 7s Ah] [Td]
+ToDaFelt: bets $6
+paptec: folds
+Uncalled bet ($6) returned to ToDaFelt
+ToDaFelt collected $11.76 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9d 7s Ah Td]
+Seat 1: paptec (button) (small blind) folded on the Turn
+Seat 2: ToDaFelt (big blind) collected ($11.76)
+
+
+PokerStars Hand #163067072755:  Hold'em Limit ($3/$6 USD) - 2016/12/17 0:43:20 ET
+Table 'Alsafi' 6-max Seat #2 is the button
+Seat 1: paptec ($37.26 in chips)
+Seat 2: ToDaFelt ($121.02 in chips)
+ToDaFelt: posts small blind $1
+paptec: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+paptec: calls $3
+*** FLOP *** [4d 4c 6h]
+paptec: checks
+ToDaFelt: bets $3
+paptec: calls $3
+*** TURN *** [4d 4c 6h] [Qc]
+paptec: checks
+ToDaFelt: bets $6
+paptec: calls $6
+*** RIVER *** [4d 4c 6h Qc] [Ks]
+paptec: checks
+ToDaFelt: checks
+*** SHOW DOWN ***
+paptec: shows [4h Js] (three of a kind, Fours)
+ToDaFelt: mucks hand
+paptec collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4d 4c 6h Qc Ks]
+Seat 1: paptec (big blind) showed [4h Js] and won ($29.50) with three of a kind, Fours
+Seat 2: ToDaFelt (button) (small blind) mucked
+
+
+PokerStars Hand #163067087741:  Hold'em Limit ($3/$6 USD) - 2016/12/17 0:44:09 ET
+Table 'Alsafi' 6-max Seat #2 is the button
+Seat 1: paptec ($45.76 in chips)
+Seat 2: ToDaFelt ($111.78 in chips)
+ToDaFelt: posts small blind $1
+paptec: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+paptec: calls $3
+*** FLOP *** [3c 7s 8d]
+paptec: checks
+ToDaFelt: bets $3
+paptec: raises $3 to $6
+ToDaFelt: calls $3
+*** TURN *** [3c 7s 8d] [5s]
+paptec: checks
+ToDaFelt: bets $6
+paptec: raises $6 to $12
+ToDaFelt: calls $6
+*** RIVER *** [3c 7s 8d 5s] [4c]
+paptec: bets $6
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+paptec: shows [9c Th] (high card Ten)
+ToDaFelt: shows [9s 8s] (a pair of Eights)
+ToDaFelt collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [3c 7s 8d 5s 4c]
+Seat 1: paptec (big blind) showed [9c Th] and lost with high card Ten
+Seat 2: ToDaFelt (button) (small blind) showed [9s 8s] and won ($59.50) with a pair of Eights
+
+
+PokerStars Hand #163067098232:  Hold'em Limit ($3/$6 USD) - 2016/12/17 0:44:43 ET
+Table 'Alsafi' 6-max Seat #1 is the button
+Seat 1: paptec ($15.76 in chips)
+Seat 2: ToDaFelt ($141.28 in chips)
+paptec: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+paptec: raises $3 to $6
+ToDaFelt: raises $3 to $9
+paptec: raises $3 to $12
+Betting is capped
+ToDaFelt: calls $3
+*** FLOP *** [9h 3c 8c]
+ToDaFelt: bets $3
+paptec: calls $3
+*** TURN *** [9h 3c 8c] [4s]
+ToDaFelt: bets $6
+paptec: calls $0.76 and is all-in
+Uncalled bet ($5.24) returned to ToDaFelt
+*** RIVER *** [9h 3c 8c 4s] [As]
+*** SHOW DOWN ***
+ToDaFelt: shows [Qc Td] (high card Ace)
+paptec: shows [9c 9d] (three of a kind, Nines)
+paptec collected $31.02 from pot
+*** SUMMARY ***
+Total pot $31.52 | Rake $0.50
+Board [9h 3c 8c 4s As]
+Seat 1: paptec (button) (small blind) showed [9c 9d] and won ($31.02) with three of a kind, Nines
+Seat 2: ToDaFelt (big blind) showed [Qc Td] and lost with high card Ace
+
+
+PokerStars Hand #163067105336:  Hold'em Limit ($3/$6 USD) - 2016/12/17 0:45:06 ET
+Table 'Alsafi' 6-max Seat #2 is the button
+Seat 1: paptec ($31.02 in chips)
+Seat 2: ToDaFelt ($125.52 in chips)
+ToDaFelt: posts small blind $1
+paptec: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+paptec: calls $3
+*** FLOP *** [5h 6c Td]
+paptec: checks
+ToDaFelt: bets $3
+paptec: calls $3
+*** TURN *** [5h 6c Td] [Ks]
+paptec: checks
+ToDaFelt: bets $6
+paptec: calls $6
+*** RIVER *** [5h 6c Td Ks] [4c]
+paptec: checks
+ToDaFelt: bets $6
+paptec: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [Kc Ad] (a pair of Kings)
+paptec: mucks hand
+ToDaFelt collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [5h 6c Td Ks 4c]
+Seat 1: paptec (big blind) mucked
+Seat 2: ToDaFelt (button) (small blind) showed [Kc Ad] and won ($41.50) with a pair of Kings
+
+
+PokerStars Hand #163067118271:  Hold'em Limit ($3/$6 USD) - 2016/12/17 0:45:49 ET
+Table 'Alsafi' 6-max Seat #1 is the button
+Seat 1: paptec ($14.02 in chips)
+Seat 2: ToDaFelt ($142.02 in chips)
+paptec: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+paptec: folds
+Uncalled bet ($2) returned to ToDaFelt
+ToDaFelt collected $2 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: paptec (button) (small blind) folded before Flop
+Seat 2: ToDaFelt (big blind) collected ($2)
+
+
+PokerStars Hand #163067116753:  Hold'em Limit ($3/$6 USD) - 2016/12/17 0:45:43 ET
+Table 'Alsafi' 6-max Seat #2 is the button
+Seat 1: paptec ($13.02 in chips)
+Seat 2: ToDaFelt ($143.02 in chips)
+ToDaFelt: posts small blind $1
+paptec: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: folds
+Uncalled bet ($2) returned to paptec
+paptec collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: paptec (big blind) collected ($2)
+Seat 2: ToDaFelt (button) (small blind) folded before Flop
+
+
+PokerStars Hand #163067114806:  Hold'em Limit ($3/$6 USD) - 2016/12/17 0:45:37 ET
+Table 'Alsafi' 6-max Seat #1 is the button
+Seat 1: paptec ($10.02 in chips)
+Seat 2: ToDaFelt ($146.02 in chips)
+paptec: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+paptec: raises $3 to $6
+ToDaFelt: folds
+Uncalled bet ($3) returned to paptec
+paptec collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: paptec (button) (small blind) collected ($6)
+Seat 2: ToDaFelt (big blind) folded before Flop
+
+
+PokerStars Hand #163067134723:  Hold'em Limit ($3/$6 USD) - 2016/12/17 0:46:42 ET
+Table 'Alsafi' 6-max Seat #1 is the button
+Seat 1: paptec ($30 in chips)
+Seat 2: ToDaFelt ($155.54 in chips)
+paptec: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+paptec: raises $3 to $6
+ToDaFelt: raises $3 to $9
+paptec: calls $3
+*** FLOP *** [9s Jh 8h]
+ToDaFelt: bets $3
+paptec: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $17.64 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9s Jh 8h]
+Seat 1: paptec (button) (small blind) folded on the Flop
+Seat 2: ToDaFelt (big blind) collected ($17.64)
+
+
+PokerStars Hand #163067142345:  Hold'em Limit ($3/$6 USD) - 2016/12/17 0:47:07 ET
+Table 'Alsafi' 6-max Seat #1 is the button
+Seat 1: paptec ($22 in chips)
+Seat 2: ToDaFelt ($163.18 in chips)
+paptec: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+paptec: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [7d Jc 8h]
+ToDaFelt: checks
+paptec: checks
+*** TURN *** [7d Jc 8h] [4s]
+ToDaFelt: bets $6
+paptec: folds
+Uncalled bet ($6) returned to ToDaFelt
+ToDaFelt collected $11.76 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7d Jc 8h 4s]
+Seat 1: paptec (button) (small blind) folded on the Turn
+Seat 2: ToDaFelt (big blind) collected ($11.76)
+
+
+PokerStars Hand #163067158729:  Hold'em Limit ($3/$6 USD) - 2016/12/17 0:48:01 ET
+Table 'Alsafi' 6-max Seat #2 is the button
+Seat 1: paptec ($4 in chips)
+Seat 2: ToDaFelt ($180.46 in chips)
+ToDaFelt: posts small blind $1
+paptec: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+paptec: calls $1 and is all-in
+Uncalled bet ($2) returned to ToDaFelt
+*** FLOP *** [8h Kh As]
+*** TURN *** [8h Kh As] [Jh]
+*** RIVER *** [8h Kh As Jh] [4s]
+*** SHOW DOWN ***
+paptec: shows [Qc 4h] (a pair of Fours)
+ToDaFelt: shows [2c Th] (high card Ace)
+paptec collected $7.84 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.16
+Board [8h Kh As Jh 4s]
+Seat 1: paptec (big blind) showed [Qc 4h] and won ($7.84) with a pair of Fours
+Seat 2: ToDaFelt (button) (small blind) showed [2c Th] and lost with high card Ace
+
+
+PokerStars Hand #163067147644:  Hold'em Limit ($3/$6 USD) - 2016/12/17 0:47:24 ET
+Table 'Alsafi' 6-max Seat #2 is the button
+Seat 1: paptec ($16 in chips)
+Seat 2: ToDaFelt ($168.94 in chips)
+ToDaFelt: posts small blind $1
+paptec: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+paptec: calls $3
+*** FLOP *** [6d 2c Kh]
+paptec: checks
+ToDaFelt: bets $3
+paptec: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $11.76 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6d 2c Kh]
+Seat 1: paptec (big blind) folded on the Flop
+Seat 2: ToDaFelt (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #163067151013:  Hold'em Limit ($3/$6 USD) - 2016/12/17 0:47:36 ET
+Table 'Alsafi' 6-max Seat #1 is the button
+Seat 1: paptec ($10 in chips)
+Seat 2: ToDaFelt ($174.70 in chips)
+paptec: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+paptec: calls $2
+ToDaFelt: raises $3 to $6
+paptec: calls $3
+*** FLOP *** [2s As 7s]
+ToDaFelt: bets $3
+paptec: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $11.76 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2s As 7s]
+Seat 1: paptec (button) (small blind) folded on the Flop
+Seat 2: ToDaFelt (big blind) collected ($11.76)
+
+
+PokerStars Hand #163067163347:  Hold'em Limit ($3/$6 USD) - 2016/12/17 0:48:16 ET
+Table 'Alsafi' 6-max Seat #1 is the button
+Seat 1: paptec ($37.84 in chips)
+Seat 2: ToDaFelt ($176.46 in chips)
+paptec: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+paptec: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [7s 7h Ac]
+jacobkimm joins the table at seat #3
+ToDaFelt: bets $3
+paptec: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $11.76 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7s 7h Ac]
+Seat 1: paptec (button) (small blind) folded on the Flop
+Seat 2: ToDaFelt (big blind) collected ($11.76)
+
+
+PokerStars Hand #163067198193:  Hold'em Limit ($3/$6 USD) - 2016/12/17 0:50:10 ET
+Table 'Alsafi' 6-max Seat #2 is the button
+Seat 2: ToDaFelt ($216.85 in chips)
+Seat 3: jacobkimm ($145 in chips)
+ToDaFelt: posts small blind $1
+jacobkimm: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+jacobkimm: calls $3
+*** FLOP *** [Jc Ac 2d]
+jacobkimm: checks
+ToDaFelt: bets $3
+jacobkimm: calls $3
+*** TURN *** [Jc Ac 2d] [Jd]
+jacobkimm: checks
+ToDaFelt: checks
+*** RIVER *** [Jc Ac 2d Jd] [Ah]
+jacobkimm: bets $6
+ToDaFelt: raises $6 to $12
+jacobkimm: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [5s 8d] (two pair, Aces and Jacks)
+jacobkimm: shows [Qd Jh] (a full house, Jacks full of Aces)
+jacobkimm collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Jc Ac 2d Jd Ah]
+Seat 2: ToDaFelt (button) (small blind) showed [5s 8d] and lost with two pair, Aces and Jacks
+Seat 3: jacobkimm (big blind) showed [Qd Jh] and won ($41.50) with a full house, Jacks full of Aces
+
+
+PokerStars Hand #163067195494:  Hold'em Limit ($3/$6 USD) - 2016/12/17 0:50:01 ET
+Table 'Alsafi' 6-max Seat #3 is the button
+Seat 2: ToDaFelt ($215.85 in chips)
+Seat 3: jacobkimm ($146 in chips)
+jacobkimm: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+jacobkimm: folds
+Uncalled bet ($2) returned to ToDaFelt
+ToDaFelt collected $2 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: ToDaFelt (big blind) collected ($2)
+Seat 3: jacobkimm (button) (small blind) folded before Flop
+
+
+PokerStars Hand #163067469300:  Hold'em Limit ($3/$6 USD) - 2016/12/17 1:05:27 ET
+Table 'Alsafi' 6-max Seat #2 is the button
+Seat 2: ToDaFelt ($138.56 in chips)
+Seat 3: jacobkimm ($245.64 in chips)
+ToDaFelt: posts small blind $1
+jacobkimm: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: folds
+Uncalled bet ($2) returned to jacobkimm
+jacobkimm collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: ToDaFelt (button) (small blind) folded before Flop
+Seat 3: jacobkimm (big blind) collected ($2)
+
+
+PokerStars Hand #163067472812:  Hold'em Limit ($3/$6 USD) - 2016/12/17 1:05:39 ET
+Table 'Alsafi' 6-max Seat #2 is the button
+Seat 2: ToDaFelt ($138.56 in chips)
+Seat 3: jacobkimm ($245.64 in chips)
+ToDaFelt: posts small blind $1
+jacobkimm: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+jacobkimm: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $6 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: ToDaFelt (button) (small blind) collected ($6)
+Seat 3: jacobkimm (big blind) folded before Flop
+
+
+PokerStars Hand #163067471054:  Hold'em Limit ($3/$6 USD) - 2016/12/17 1:05:33 ET
+Table 'Alsafi' 6-max Seat #3 is the button
+Seat 2: ToDaFelt ($137.56 in chips)
+Seat 3: jacobkimm ($246.64 in chips)
+jacobkimm: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+jacobkimm: folds
+Uncalled bet ($2) returned to ToDaFelt
+ToDaFelt collected $2 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: ToDaFelt (big blind) collected ($2)
+Seat 3: jacobkimm (button) (small blind) folded before Flop
+
+
+PokerStars Hand #163067477009:  Hold'em Limit ($3/$6 USD) - 2016/12/17 1:05:53 ET
+Table 'Alsafi' 6-max Seat #3 is the button
+Seat 2: ToDaFelt ($141.56 in chips)
+Seat 3: jacobkimm ($242.64 in chips)
+jacobkimm: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+jacobkimm: folds
+Uncalled bet ($2) returned to ToDaFelt
+ToDaFelt collected $2 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: ToDaFelt (big blind) collected ($2)
+Seat 3: jacobkimm (button) (small blind) folded before Flop
+
+
+PokerStars Hand #163067481185:  Hold'em Limit ($3/$6 USD) - 2016/12/17 1:06:07 ET
+Table 'Alsafi' 6-max Seat #2 is the button
+Seat 2: ToDaFelt ($142.56 in chips)
+Seat 3: jacobkimm ($241.64 in chips)
+ToDaFelt: posts small blind $1
+jacobkimm: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: folds
+Uncalled bet ($2) returned to jacobkimm
+jacobkimm collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: ToDaFelt (button) (small blind) folded before Flop
+Seat 3: jacobkimm (big blind) collected ($2)
+
+
+PokerStars Hand #163068098550:  Hold'em Limit ($3/$6 USD) - 2016/12/17 1:39:11 ET
+Table 'Alsafi' 6-max Seat #1 is the button
+Seat 1: whatsURdeal ($169.42 in chips)
+Seat 3: jacobkimm ($149.43 in chips)
+DirtyDouble2 will be allowed to play after the button
+whatsURdeal: posts small blind $1
+ToDaFelt: is sitting out
+jacobkimm: posts big blind $3
+*** HOLE CARDS ***
+whatsURdeal: raises $3 to $6
+jacobkimm: folds
+Uncalled bet ($3) returned to whatsURdeal
+whatsURdeal collected $6 from pot
+whatsURdeal: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: whatsURdeal (button) (small blind) collected ($6)
+Seat 3: jacobkimm (big blind) folded before Flop
+
+
+PokerStars Hand #163068677574:  Hold'em Limit ($3/$6 USD) - 2016/12/17 2:11:00 ET
+Table 'Alsafi' 6-max Seat #5 is the button
+Seat 3: jacobkimm ($260.56 in chips)
+Seat 5: lanford ($149.57 in chips)
+lanford: posts small blind $1
+zizonmusang: is sitting out
+ToDaFelt: is sitting out
+jacobkimm: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt leaves the table
+lanford: folds
+Uncalled bet ($2) returned to jacobkimm
+jacobkimm collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: jacobkimm (big blind) collected ($2)
+Seat 5: lanford (button) (small blind) folded before Flop
+
+

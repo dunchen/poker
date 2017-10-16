@@ -1,0 +1,96 @@
+PokerStars Hand #147147645378:  Hold'em Limit ($3/$6 USD) - 2016/01/16 13:41:26 ET
+Table 'Zelinda' 10-max Seat #5 is the button
+Seat 1: VolkovDmitri ($123 in chips)
+Seat 5: Fantomet ($197 in chips)
+Fantomet: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Fantomet: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+Fantomet: raises $3 to $12
+Betting is capped
+VolkovDmitri: calls $3
+*** FLOP *** [2s Kc 4h]
+VolkovDmitri: checks
+Fantomet: bets $3
+VolkovDmitri: raises $3 to $6
+Fantomet: calls $3
+*** TURN *** [2s Kc 4h] [2c]
+VolkovDmitri: bets $6
+Fantomet: calls $6
+*** RIVER *** [2s Kc 4h 2c] [Jd]
+VolkovDmitri: bets $6
+Fantomet: raises $6 to $12
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+Fantomet: shows [As Jc] (two pair, Jacks and Deuces)
+VolkovDmitri: shows [Ac Ad] (two pair, Aces and Deuces)
+VolkovDmitri collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [2s Kc 4h 2c Jd]
+Seat 1: VolkovDmitri (big blind) showed [Ac Ad] and won ($71.50) with two pair, Aces and Deuces
+Seat 5: Fantomet (button) (small blind) showed [As Jc] and lost with two pair, Jacks and Deuces
+
+
+PokerStars Hand #147147710899:  Hold'em Limit ($3/$6 USD) - 2016/01/16 13:42:32 ET
+Table 'Zelinda' 10-max Seat #5 is the button
+Seat 1: VolkovDmitri ($173 in chips)
+Seat 5: Fantomet ($146 in chips)
+Fantomet: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Fantomet: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Ad 5h 4c]
+VolkovDmitri: checks
+Fantomet: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [Ad 5h 4c] [4s]
+VolkovDmitri: checks
+Fantomet: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [Ad 5h 4c 4s] [2d]
+VolkovDmitri: bets $6
+Fantomet: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Qc 3s] (a straight, Ace to Five)
+Fantomet: mucks hand
+VolkovDmitri collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ad 5h 4c 4s 2d]
+Seat 1: VolkovDmitri (big blind) showed [Qc 3s] and won ($41.50) with a straight, Ace to Five
+Seat 5: Fantomet (button) (small blind) mucked
+
+
+PokerStars Hand #147147688181:  Hold'em Limit ($3/$6 USD) - 2016/01/16 13:42:09 ET
+Table 'Zelinda' 10-max Seat #1 is the button
+Seat 1: VolkovDmitri ($158.50 in chips)
+Seat 5: Fantomet ($161 in chips)
+VolkovDmitri: posts small blind $1
+Fantomet: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Fantomet: calls $3
+*** FLOP *** [3d 7d Kd]
+Fantomet: checks
+VolkovDmitri: bets $3
+Fantomet: calls $3
+*** TURN *** [3d 7d Kd] [8d]
+Fantomet: checks
+VolkovDmitri: checks
+*** RIVER *** [3d 7d Kd 8d] [Th]
+Fantomet: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+Fantomet: shows [Kc 9h] (a pair of Kings)
+VolkovDmitri: shows [8s 3s] (two pair, Eights and Threes)
+VolkovDmitri collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3d 7d Kd 8d Th]
+Seat 1: VolkovDmitri (button) (small blind) showed [8s 3s] and won ($29.50) with two pair, Eights and Threes
+Seat 5: Fantomet (big blind) showed [Kc 9h] and lost with a pair of Kings
+
+

@@ -1,0 +1,33 @@
+PokerStars Hand #151426279964:  Hold'em Limit ($3/$6 USD) - 2016/04/04 13:33:59 ET
+Table 'Protogeneia II' 6-max Seat #3 is the button
+Seat 3: AnVan ($23 in chips)
+Seat 4: AzureCaper ($78.76 in chips)
+AnVan: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+AnVan: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [Kh 3h 8h]
+AzureCaper: checks
+AnVan: bets $3
+AzureCaper: calls $3
+*** TURN *** [Kh 3h 8h] [8c]
+AzureCaper: checks
+AnVan: bets $6
+AzureCaper: raises $6 to $12
+AnVan: calls $6
+*** RIVER *** [Kh 3h 8h 8c] [Ad]
+AzureCaper: bets $6
+AnVan: calls $2 and is all-in
+Uncalled bet ($4) returned to AzureCaper
+*** SHOW DOWN ***
+AzureCaper: shows [9c 8d] (three of a kind, Eights)
+AnVan: mucks hand
+AzureCaper collected $45.50 from pot
+*** SUMMARY ***
+Total pot $46 | Rake $0.50
+Board [Kh 3h 8h 8c Ad]
+Seat 3: AnVan (button) (small blind) mucked
+Seat 4: AzureCaper (big blind) showed [9c 8d] and won ($45.50) with three of a kind, Eights
+
+

@@ -1,0 +1,34 @@
+PokerStars Hand #162293807584:  Hold'em Limit ($3/$6 USD) - 2016/12/02 11:27:30 ET
+Table 'Marfik' 6-max Seat #1 is the button
+Seat 1: zepsweden ($208.53 in chips)
+Seat 3: krytalex ($188.14 in chips)
+zepsweden: posts small blind $1
+Great_Kang: is sitting out
+krytalex: posts big blind $3
+*** HOLE CARDS ***
+zepsweden: calls $2
+krytalex: checks
+*** FLOP *** [3s Ks 6s]
+krytalex: checks
+swics1202 leaves the table
+zepsweden: checks
+*** TURN *** [3s Ks 6s] [8s]
+krytalex: checks
+zepsweden: bets $6
+Great_Kang leaves the table
+krytalex: calls $6
+*** RIVER *** [3s Ks 6s 8s] [2d]
+krytalex: checks
+zepsweden: bets $6
+krytalex: calls $6
+*** SHOW DOWN ***
+zepsweden: shows [6c 7c] (a pair of Sixes)
+krytalex: shows [2h 4s] (a flush, King high)
+krytalex collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3s Ks 6s 8s 2d]
+Seat 1: zepsweden (button) (small blind) showed [6c 7c] and lost with a pair of Sixes
+Seat 3: krytalex (big blind) showed [2h 4s] and won ($29.50) with a flush, King high
+
+

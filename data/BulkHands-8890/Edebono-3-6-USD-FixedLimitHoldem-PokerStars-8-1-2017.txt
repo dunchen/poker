@@ -1,0 +1,66 @@
+PokerStars Hand #173782515662:  Hold'em Limit ($3/$6 USD) - 2017/08/01 7:33:55 ET
+Table 'Edebono' 6-max Seat #1 is the button
+Seat 1: LTTsci-tech ($49.29 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+LTTsci-tech: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+LTTsci-tech: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+LTTsci-tech: raises $3 to $12
+Betting is capped
+VolkovDmitri: calls $3
+*** FLOP *** [9c 3h Kh]
+VolkovDmitri: checks
+LTTsci-tech: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [9c 3h Kh] [5h]
+VolkovDmitri: checks
+LTTsci-tech: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [9c 3h Kh 5h] [3d]
+VolkovDmitri: checks
+LTTsci-tech: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+LTTsci-tech: shows [6h 7s] (a pair of Threes)
+VolkovDmitri: shows [9s Jd] (two pair, Nines and Threes)
+VolkovDmitri collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [9c 3h Kh 5h 3d]
+Seat 1: LTTsci-tech (button) (small blind) showed [6h 7s] and lost with a pair of Threes
+Seat 4: VolkovDmitri (big blind) showed [9s Jd] and won ($53.50) with two pair, Nines and Threes
+
+
+PokerStars Hand #173782560087:  Hold'em Limit ($3/$6 USD) - 2017/08/01 7:35:39 ET
+Table 'Edebono' 6-max Seat #4 is the button
+Seat 1: LTTsci-tech ($20.29 in chips)
+Seat 4: VolkovDmitri ($158.02 in chips)
+VolkovDmitri: posts small blind $1
+LTTsci-tech: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+LTTsci-tech: calls $3
+*** FLOP *** [8c 5d 4d]
+LTTsci-tech: checks
+VolkovDmitri: bets $3
+LTTsci-tech: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [8c 5d 4d] [Jh]
+LTTsci-tech: bets $6
+VolkovDmitri: raises $6 to $12
+LTTsci-tech: calls $2.29 and is all-in
+Uncalled bet ($3.71) returned to VolkovDmitri
+*** RIVER *** [8c 5d 4d Jh] [Ks]
+*** SHOW DOWN ***
+LTTsci-tech: shows [4c Qd] (a pair of Fours)
+VolkovDmitri: shows [5s 9d] (a pair of Fives)
+VolkovDmitri collected $40.08 from pot
+*** SUMMARY ***
+Total pot $40.58 | Rake $0.50
+Board [8c 5d 4d Jh Ks]
+Seat 1: LTTsci-tech (big blind) showed [4c Qd] and lost with a pair of Fours
+Seat 4: VolkovDmitri (button) (small blind) showed [5s 9d] and won ($40.08) with a pair of Fives
+
+

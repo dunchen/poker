@@ -1,0 +1,85 @@
+PokerStars Hand #173143018160:  Hold'em Limit ($3/$6 USD) - 2017/07/17 6:20:10 ET
+Table 'Celestia' 10-max Seat #1 is the button
+Seat 1: ZOGI ($294.68 in chips)
+Seat 3: Ale4o ($111 in chips)
+ZOGI: posts small blind $1
+Ale4o: posts big blind $3
+*** HOLE CARDS ***
+ZOGI: calls $2
+Ale4o: checks
+*** FLOP *** [Kd Ac 3d]
+Ale4o: checks
+ZOGI: bets $3
+Ale4o: calls $3
+*** TURN *** [Kd Ac 3d] [6c]
+Ale4o: checks
+ZOGI: bets $6
+Ale4o: calls $6
+*** RIVER *** [Kd Ac 3d 6c] [Ah]
+Ale4o: checks
+ZOGI: bets $6
+Ale4o: calls $6
+*** SHOW DOWN ***
+ZOGI: shows [Ad Qh] (three of a kind, Aces)
+Ale4o: mucks hand
+ZOGI collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Kd Ac 3d 6c Ah]
+Seat 1: ZOGI (button) (small blind) showed [Ad Qh] and won ($35.50) with three of a kind, Aces
+Seat 3: Ale4o (big blind) mucked
+
+
+PokerStars Hand #173143008616:  Hold'em Limit ($3/$6 USD) - 2017/07/17 6:19:45 ET
+Table 'Celestia' 10-max Seat #3 is the button
+Seat 1: ZOGI ($286.04 in chips)
+Seat 3: Ale4o ($120 in chips)
+Ale4o: posts small blind $1
+VolkovDmitri: is sitting out
+ZOGI: posts big blind $3
+*** HOLE CARDS ***
+Ale4o: raises $3 to $6
+VolkovDmitri leaves the table
+ZOGI: calls $3
+*** FLOP *** [Qc 9h 5s]
+ZOGI: checks
+Ale4o: bets $3
+ZOGI: calls $3
+*** TURN *** [Qc 9h 5s] [Ad]
+ZOGI: checks
+Ale4o: checks
+*** RIVER *** [Qc 9h 5s Ad] [4c]
+ZOGI: bets $6
+Ale4o: folds
+Uncalled bet ($6) returned to ZOGI
+ZOGI collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qc 9h 5s Ad 4c]
+Seat 1: ZOGI (big blind) collected ($17.64)
+Seat 3: Ale4o (button) (small blind) folded on the River
+
+
+PokerStars Hand #173143025617:  Hold'em Limit ($3/$6 USD) - 2017/07/17 6:20:29 ET
+Table 'Celestia' 10-max Seat #3 is the button
+Seat 1: ZOGI ($312.18 in chips)
+Seat 3: Ale4o ($93 in chips)
+Ale4o: posts small blind $1
+ZOGI: posts big blind $3
+*** HOLE CARDS ***
+Ale4o: raises $3 to $6
+ZOGI: calls $3
+*** FLOP *** [Ts Jh 5h]
+ZOGI: checks
+Ale4o: bets $3
+ZOGI: folds
+Uncalled bet ($3) returned to Ale4o
+Ale4o collected $11.76 from pot
+Ale4o: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ts Jh 5h]
+Seat 1: ZOGI (big blind) folded on the Flop
+Seat 3: Ale4o (button) (small blind) collected ($11.76)
+
+

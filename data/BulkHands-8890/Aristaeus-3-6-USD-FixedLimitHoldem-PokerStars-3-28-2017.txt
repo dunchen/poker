@@ -1,0 +1,34 @@
+PokerStars Hand #168230510587:  Hold'em Limit ($3/$6 USD) - 2017/03/28 9:55:59 ET
+Table 'Aristaeus' 6-max Seat #3 is the button
+Seat 3: yamaxerm ($117 in chips)
+Seat 6: BADEXTASY ($592.67 in chips)
+yamaxerm: posts small blind $1
+krossguard: is sitting out
+BADEXTASY: posts big blind $3
+*** HOLE CARDS ***
+krossguard leaves the table
+yamaxerm: raises $3 to $6
+BADEXTASY: raises $3 to $9
+yamaxerm: calls $3
+*** FLOP *** [9d Ks 2h]
+BADEXTASY: bets $3
+yamaxerm: calls $3
+*** TURN *** [9d Ks 2h] [7c]
+BADEXTASY: checks
+yamaxerm: bets $6
+BADEXTASY: calls $6
+*** RIVER *** [9d Ks 2h 7c] [9s]
+BADEXTASY: checks
+yamaxerm: bets $6
+BADEXTASY: calls $6
+*** SHOW DOWN ***
+yamaxerm: shows [6d Kh] (two pair, Kings and Nines)
+BADEXTASY: mucks hand
+yamaxerm collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9d Ks 2h 7c 9s]
+Seat 3: yamaxerm (button) (small blind) showed [6d Kh] and won ($47.50) with two pair, Kings and Nines
+Seat 6: BADEXTASY (big blind) mucked
+
+

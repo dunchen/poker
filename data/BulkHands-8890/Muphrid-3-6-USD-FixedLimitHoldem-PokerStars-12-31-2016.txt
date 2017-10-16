@@ -1,0 +1,247 @@
+PokerStars Hand #163804073517:  Hold'em Limit ($3/$6 USD) - 2016/12/30 22:59:33 ET
+Table 'Muphrid' 6-max Seat #3 is the button
+Seat 3: ohsoglor ($245.98 in chips)
+Seat 4: ToDaFelt ($122.33 in chips)
+ohsoglor: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+ohsoglor: raises $3 to $6
+ToDaFelt: raises $3 to $9
+ohsoglor: calls $3
+*** FLOP *** [3c 3d 6s]
+ToDaFelt: bets $3
+ohsoglor: calls $3
+*** TURN *** [3c 3d 6s] [Js]
+ToDaFelt: bets $6
+ohsoglor: folds
+Uncalled bet ($6) returned to ToDaFelt
+ToDaFelt collected $23.52 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [3c 3d 6s Js]
+Seat 3: ohsoglor (button) (small blind) folded on the Turn
+Seat 4: ToDaFelt (big blind) collected ($23.52)
+
+
+PokerStars Hand #163804106730:  Hold'em Limit ($3/$6 USD) - 2016/12/30 23:01:09 ET
+Table 'Muphrid' 6-max Seat #3 is the button
+Seat 3: ohsoglor ($209.98 in chips)
+Seat 4: ToDaFelt ($157.35 in chips)
+ohsoglor: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+ohsoglor: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [2s Ts Qs]
+ToDaFelt: checks
+ohsoglor: bets $3
+ToDaFelt: folds
+Uncalled bet ($3) returned to ohsoglor
+ohsoglor collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2s Ts Qs]
+Seat 3: ohsoglor (button) (small blind) collected ($11.76)
+Seat 4: ToDaFelt (big blind) folded on the Flop
+
+
+PokerStars Hand #163804089138:  Hold'em Limit ($3/$6 USD) - 2016/12/30 23:00:19 ET
+Table 'Muphrid' 6-max Seat #4 is the button
+Seat 3: ohsoglor ($233.98 in chips)
+Seat 4: ToDaFelt ($133.85 in chips)
+ToDaFelt: posts small blind $1
+ohsoglor: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+ohsoglor: raises $3 to $9
+ToDaFelt: calls $3
+*** FLOP *** [Kc 5d Kd]
+ohsoglor: checks
+ToDaFelt: bets $3
+ohsoglor: calls $3
+*** TURN *** [Kc 5d Kd] [8h]
+ohsoglor: checks
+ToDaFelt: bets $6
+ohsoglor: calls $6
+*** RIVER *** [Kc 5d Kd 8h] [5h]
+ohsoglor: checks
+ToDaFelt: bets $6
+ohsoglor: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [5c 6d] (a full house, Fives full of Kings)
+ohsoglor: mucks hand
+ToDaFelt collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Kc 5d Kd 8h 5h]
+Seat 3: ohsoglor (big blind) mucked
+Seat 4: ToDaFelt (button) (small blind) showed [5c 6d] and won ($47.50) with a full house, Fives full of Kings
+
+
+PokerStars Hand #163806258472:  Hold'em Limit ($3/$6 USD) - 2016/12/31 0:52:18 ET
+Table 'Muphrid' 6-max Seat #4 is the button
+Seat 3: ohsoglor ($422.57 in chips)
+Seat 4: ToDaFelt ($329.12 in chips)
+ToDaFelt: posts small blind $1
+AzureCaper: is sitting out
+ohsoglor: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+ohsoglor: raises $3 to $9
+Siggy99 joins the table at seat #5
+ToDaFelt: calls $3
+*** FLOP *** [8c 5h Qd]
+ohsoglor: bets $3
+ToDaFelt: calls $3
+*** TURN *** [8c 5h Qd] [6s]
+ohsoglor: bets $6
+ToDaFelt: calls $6
+*** RIVER *** [8c 5h Qd 6s] [Jh]
+ohsoglor: bets $6
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+ohsoglor: shows [Tc 9d] (a straight, Eight to Queen)
+ToDaFelt: mucks hand
+ohsoglor collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8c 5h Qd 6s Jh]
+Seat 3: ohsoglor (big blind) showed [Tc 9d] and won ($47.50) with a straight, Eight to Queen
+Seat 4: ToDaFelt (button) (small blind) mucked
+
+
+PokerStars Hand #163806270936:  Hold'em Limit ($3/$6 USD) - 2016/12/31 0:53:03 ET
+Table 'Muphrid' 6-max Seat #3 is the button
+Seat 3: ohsoglor ($446.07 in chips)
+Seat 4: ToDaFelt ($305.12 in chips)
+ohsoglor: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+ohsoglor: raises $3 to $6
+ToDaFelt: raises $3 to $9
+ohsoglor: raises $3 to $12
+Betting is capped
+ToDaFelt: calls $3
+*** FLOP *** [Tc Td 7d]
+ToDaFelt: checks
+ohsoglor: bets $3
+ToDaFelt: calls $3
+*** TURN *** [Tc Td 7d] [3s]
+ToDaFelt: checks
+ohsoglor: bets $6
+ToDaFelt: calls $6
+*** RIVER *** [Tc Td 7d 3s] [5s]
+ToDaFelt: checks
+ohsoglor: bets $6
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+ohsoglor: shows [Kd 6s] (a pair of Tens)
+ToDaFelt: shows [Jh Ac] (a pair of Tens - Ace kicker)
+ToDaFelt collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Tc Td 7d 3s 5s]
+Seat 3: ohsoglor (button) (small blind) showed [Kd 6s] and lost with a pair of Tens
+Seat 4: ToDaFelt (big blind) showed [Jh Ac] and won ($53.50) with a pair of Tens
+
+
+PokerStars Hand #163806395645:  Hold'em Limit ($3/$6 USD) - 2016/12/31 1:00:59 ET
+Table 'Muphrid' 6-max Seat #6 is the button
+Seat 4: tigertl888 ($91 in chips)
+Seat 6: AzureCaper ($210.79 in chips)
+AzureCaper: posts small blind $1
+Siggy99 leaves the table
+tigertl888: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+tigertl888: raises $3 to $9
+AzureCaper: raises $3 to $12
+Betting is capped
+tigertl888: calls $3
+*** FLOP *** [Kh 2s Kc]
+tigertl888: bets $3
+AzureCaper: calls $3
+*** TURN *** [Kh 2s Kc] [3h]
+tigertl888: bets $6
+AzureCaper: folds
+Uncalled bet ($6) returned to tigertl888
+tigertl888 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kh 2s Kc 3h]
+Seat 4: tigertl888 (big blind) collected ($29.50)
+Seat 6: AzureCaper (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #163806412934:  Hold'em Limit ($3/$6 USD) - 2016/12/31 1:02:02 ET
+Table 'Muphrid' 6-max Seat #4 is the button
+Seat 4: tigertl888 ($126 in chips)
+Seat 6: AzureCaper ($174.55 in chips)
+tigertl888: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+tigertl888: raises $3 to $6
+AzureCaper: folds
+Uncalled bet ($3) returned to tigertl888
+tigertl888 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 4: tigertl888 (button) (small blind) collected ($6)
+Seat 6: AzureCaper (big blind) folded before Flop
+
+
+PokerStars Hand #163806408321:  Hold'em Limit ($3/$6 USD) - 2016/12/31 1:01:45 ET
+Table 'Muphrid' 6-max Seat #6 is the button
+Seat 4: tigertl888 ($132 in chips)
+Seat 6: AzureCaper ($168.79 in chips)
+AzureCaper: posts small blind $1
+tigertl888: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+tigertl888: calls $3
+*** FLOP *** [Jc 8d 7h]
+tigertl888: checks
+AzureCaper: bets $3
+tigertl888: folds
+Uncalled bet ($3) returned to AzureCaper
+AzureCaper collected $11.76 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jc 8d 7h]
+Seat 4: tigertl888 (big blind) folded on the Flop
+Seat 6: AzureCaper (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #163806401553:  Hold'em Limit ($3/$6 USD) - 2016/12/31 1:01:21 ET
+Table 'Muphrid' 6-max Seat #4 is the button
+Seat 4: tigertl888 ($105.50 in chips)
+Seat 6: AzureCaper ($195.79 in chips)
+tigertl888: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+tigertl888: calls $2
+AzureCaper: raises $3 to $6
+tigertl888: calls $3
+*** FLOP *** [Th 7c 2c]
+AzureCaper: bets $3
+tigertl888: calls $3
+*** TURN *** [Th 7c 2c] [Ac]
+AzureCaper: bets $6
+tigertl888: calls $6
+*** RIVER *** [Th 7c 2c Ac] [9d]
+AzureCaper: bets $6
+tigertl888: raises $6 to $12
+AzureCaper: calls $6
+*** SHOW DOWN ***
+tigertl888: shows [7s 9h] (two pair, Nines and Sevens)
+AzureCaper: mucks hand
+tigertl888 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Th 7c 2c Ac 9d]
+Seat 4: tigertl888 (button) (small blind) showed [7s 9h] and won ($53.50) with two pair, Nines and Sevens
+Seat 6: AzureCaper (big blind) mucked
+
+

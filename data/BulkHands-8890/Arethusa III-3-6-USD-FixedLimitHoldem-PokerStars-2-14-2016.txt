@@ -1,0 +1,62 @@
+PokerStars Hand #148808181107:  Hold'em Limit ($3/$6 USD) - 2016/02/14 15:50:23 ET
+Table 'Arethusa III' 6-max Seat #4 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 4: Bajdan ($134.50 in chips)
+Bajdan: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Bajdan: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [3h Kc 7h]
+VolkovDmitri: checks
+Bajdan: bets $3
+VolkovDmitri: raises $3 to $6
+Bajdan: calls $3
+*** TURN *** [3h Kc 7h] [Ad]
+VolkovDmitri: bets $6
+Bajdan: calls $6
+*** RIVER *** [3h Kc 7h Ad] [7d]
+VolkovDmitri: checks
+Chessnok joins the table at seat #5
+Bajdan: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [2d Th] (a pair of Sevens)
+Bajdan: mucks hand
+VolkovDmitri collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [3h Kc 7h Ad 7d]
+Seat 1: VolkovDmitri (big blind) showed [2d Th] and won ($35.50) with a pair of Sevens
+Seat 4: Bajdan (button) (small blind) mucked
+
+
+PokerStars Hand #148808200434:  Hold'em Limit ($3/$6 USD) - 2016/02/14 15:50:40 ET
+Table 'Arethusa III' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($137.50 in chips)
+Seat 4: Bajdan ($116.50 in chips)
+VolkovDmitri: posts small blind $1
+Bajdan: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Bajdan: calls $3
+*** FLOP *** [5c 9d 8d]
+Bajdan: checks
+VolkovDmitri: bets $3
+Bajdan: calls $3
+*** TURN *** [5c 9d 8d] [Qd]
+Bajdan: checks
+VolkovDmitri: checks
+*** RIVER *** [5c 9d 8d Qd] [6h]
+Bajdan: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+Bajdan: shows [9h 8c] (two pair, Nines and Eights)
+VolkovDmitri: mucks hand
+Bajdan collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5c 9d 8d Qd 6h]
+Seat 1: VolkovDmitri (button) (small blind) mucked
+Seat 4: Bajdan (big blind) showed [9h 8c] and won ($17.64) with two pair, Nines and Eights
+
+

@@ -1,0 +1,63 @@
+PokerStars Hand #145406454106:  Hold'em Limit ($3/$6 USD) - 2015/12/15 18:08:21 ET
+Table 'Mebsuta' 6-max Seat #4 is the button
+Seat 3: gabiruboy ($41.52 in chips)
+Seat 4: AzureCaper ($72 in chips)
+AzureCaper: posts small blind $1
+gabiruboy: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+gabiruboy: calls $3
+*** FLOP *** [Ac Ks 7h]
+gabiruboy: checks
+AzureCaper: bets $3
+gabiruboy: calls $3
+*** TURN *** [Ac Ks 7h] [5d]
+gabiruboy: checks
+AzureCaper: checks
+*** RIVER *** [Ac Ks 7h 5d] [Tc]
+gabiruboy: bets $6
+AzureCaper: folds
+Uncalled bet ($6) returned to gabiruboy
+gabiruboy collected $17.64 from pot
+gabiruboy: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ac Ks 7h 5d Tc]
+Seat 3: gabiruboy (big blind) collected ($17.64)
+Seat 4: AzureCaper (button) (small blind) folded on the River
+
+
+PokerStars Hand #145406467026:  Hold'em Limit ($3/$6 USD) - 2015/12/15 18:08:37 ET
+Table 'Mebsuta' 6-max Seat #3 is the button
+Seat 3: gabiruboy ($50.16 in chips)
+Seat 4: AzureCaper ($72 in chips)
+gabiruboy: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+gabiruboy: raises $3 to $6
+BuzovaPro joins the table at seat #6
+AzureCaper: raises $3 to $9
+gabiruboy: raises $3 to $12
+Betting is capped
+AzureCaper: calls $3
+*** FLOP *** [2h 8d 2c]
+AzureCaper: checks
+gabiruboy: bets $3
+AzureCaper: calls $3
+*** TURN *** [2h 8d 2c] [5h]
+AzureCaper: checks
+gabiruboy: checks
+*** RIVER *** [2h 8d 2c 5h] [Tc]
+AzureCaper: checks
+gabiruboy: checks
+*** SHOW DOWN ***
+AzureCaper: shows [Qs Ac] (a pair of Deuces)
+gabiruboy: mucks hand
+AzureCaper collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2h 8d 2c 5h Tc]
+Seat 3: gabiruboy (button) (small blind) mucked
+Seat 4: AzureCaper (big blind) showed [Qs Ac] and won ($29.50) with a pair of Deuces
+
+

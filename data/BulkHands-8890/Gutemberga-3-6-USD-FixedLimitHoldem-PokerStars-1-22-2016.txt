@@ -1,0 +1,71 @@
+PokerStars Hand #147477450938:  Hold'em Limit ($3/$6 USD) - 2016/01/22 9:39:32 ET
+Table 'Gutemberga' 6-max Seat #3 is the button
+Seat 1: belik555 ($75 in chips)
+Seat 3: _fayzulllo_ ($69 in chips)
+_fayzulllo_: posts small blind $1
+belik555: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: calls $2
+belik555: checks
+*** FLOP *** [Qs 6s 6c]
+belik555: bets $3
+_fayzulllo_ is disconnected
+_fayzulllo_ has timed out while disconnected
+_fayzulllo_: folds
+Uncalled bet ($3) returned to belik555
+belik555 collected $5.88 from pot
+belik555: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Qs 6s 6c]
+Seat 1: belik555 (big blind) collected ($5.88)
+Seat 3: _fayzulllo_ (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #147477535589:  Hold'em Limit ($3/$6 USD) - 2016/01/22 9:41:25 ET
+Table 'Gutemberga' 6-max Seat #3 is the button
+Seat 1: belik555 ($72 in chips)
+Seat 3: _fayzulllo_ ($80.50 in chips)
+_fayzulllo_: posts small blind $1
+belik555: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: folds
+Uncalled bet ($2) returned to belik555
+belik555 collected $2 from pot
+belik555: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: belik555 (big blind) collected ($2)
+Seat 3: _fayzulllo_ (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147477508944:  Hold'em Limit ($3/$6 USD) - 2016/01/22 9:40:50 ET
+Table 'Gutemberga' 6-max Seat #1 is the button
+Seat 1: belik555 ($77.88 in chips)
+Seat 3: _fayzulllo_ ($66 in chips)
+belik555: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+belik555: raises $3 to $6
+_fayzulllo_: calls $3
+*** FLOP *** [Jc Qc 4s]
+_fayzulllo_: checks
+belik555: bets $3
+_fayzulllo_: calls $3
+*** TURN *** [Jc Qc 4s] [Qd]
+_fayzulllo_: checks
+belik555: checks
+*** RIVER *** [Jc Qc 4s Qd] [5d]
+_fayzulllo_: bets $6
+belik555: calls $6
+*** SHOW DOWN ***
+_fayzulllo_: shows [6c Qs] (three of a kind, Queens)
+belik555: mucks hand
+_fayzulllo_ collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Jc Qc 4s Qd 5d]
+Seat 1: belik555 (button) (small blind) mucked
+Seat 3: _fayzulllo_ (big blind) showed [6c Qs] and won ($29.50) with three of a kind, Queens
+
+

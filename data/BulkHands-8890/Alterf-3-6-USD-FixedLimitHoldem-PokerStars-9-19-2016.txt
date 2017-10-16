@@ -1,0 +1,102 @@
+PokerStars Hand #158809254244:  Hold'em Limit ($3/$6 USD) - 2016/09/19 9:41:52 ET
+Table 'Alterf' 6-max Seat #4 is the button
+Seat 4: Agrotait ($72 in chips)
+Seat 5: perten ($76.90 in chips)
+Agrotait: posts small blind $1
+perten: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+perten: raises $3 to $9
+Agrotait: calls $3
+*** FLOP *** [4h Qc Js]
+perten: bets $3
+Agrotait: calls $3
+*** TURN *** [4h Qc Js] [5c]
+perten: bets $6
+Agrotait: raises $6 to $12
+perten: calls $6
+*** RIVER *** [4h Qc Js 5c] [8h]
+perten: checks
+Agrotait: bets $6
+perten: calls $6
+*** SHOW DOWN ***
+Agrotait: shows [5h Jc] (two pair, Jacks and Fives)
+perten: mucks hand
+Agrotait collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [4h Qc Js 5c 8h]
+Seat 4: Agrotait (button) (small blind) showed [5h Jc] and won ($59.50) with two pair, Jacks and Fives
+Seat 5: perten (big blind) mucked
+
+
+PokerStars Hand #158809283944:  Hold'em Limit ($3/$6 USD) - 2016/09/19 9:42:47 ET
+Table 'Alterf' 6-max Seat #4 is the button
+Seat 4: Agrotait ($110.14 in chips)
+Seat 5: perten ($37.90 in chips)
+Agrotait: posts small blind $1
+perten: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl joins the table at seat #6
+Agrotait: raises $3 to $6
+perten: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $6 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 4: Agrotait (button) (small blind) collected ($6)
+Seat 5: perten (big blind) folded before Flop
+
+
+PokerStars Hand #158809275855:  Hold'em Limit ($3/$6 USD) - 2016/09/19 9:42:32 ET
+Table 'Alterf' 6-max Seat #5 is the button
+Seat 4: Agrotait ($101.50 in chips)
+Seat 5: perten ($46.90 in chips)
+perten: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+perten: raises $3 to $6
+Agrotait: raises $3 to $9
+perten: calls $3
+*** FLOP *** [Kd 3d 2s]
+Agrotait: bets $3
+perten: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $17.64 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kd 3d 2s]
+Seat 4: Agrotait (big blind) collected ($17.64)
+Seat 5: perten (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #158809686013:  Hold'em Limit ($3/$6 USD) - 2016/09/19 9:54:28 ET
+Table 'Alterf' 6-max Seat #5 is the button
+Seat 5: perten ($9.36 in chips)
+Seat 6: B_loJkl ($133.88 in chips)
+perten: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+perten: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [2c 9c 3c]
+B_loJkl: checks
+perten: bets $3
+B_loJkl: raises $3 to $6
+perten: calls $0.36 and is all-in
+Uncalled bet ($2.64) returned to B_loJkl
+*** TURN *** [2c 9c 3c] [7d]
+*** RIVER *** [2c 9c 3c 7d] [Js]
+*** SHOW DOWN ***
+B_loJkl: shows [3d 5d] (a pair of Threes)
+perten: shows [Qc 2s] (a pair of Deuces)
+B_loJkl collected $18.35 from pot
+*** SUMMARY ***
+Total pot $18.72 | Rake $0.37
+Board [2c 9c 3c 7d Js]
+Seat 5: perten (button) (small blind) showed [Qc 2s] and lost with a pair of Deuces
+Seat 6: B_loJkl (big blind) showed [3d 5d] and won ($18.35) with a pair of Threes
+
+

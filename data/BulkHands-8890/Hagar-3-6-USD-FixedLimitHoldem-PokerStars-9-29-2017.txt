@@ -1,0 +1,80 @@
+PokerStars Hand #176263337049:  Hold'em Limit ($3/$6 USD) - 2017/09/29 8:26:18 ET
+Table 'Hagar' 6-max Seat #3 is the button
+Seat 1: Cowgirlgea ($120.95 in chips)
+Seat 3: Ag3r0n ($72 in chips)
+Ag3r0n: posts small blind $1
+Cowgirlgea: posts big blind $3
+*** HOLE CARDS ***
+Ag3r0n: raises $3 to $6
+Cowgirlgea: calls $3
+*** FLOP *** [8c 3s Ac]
+Cowgirlgea: checks
+Ag3r0n: bets $3
+Cowgirlgea: calls $3
+*** TURN *** [8c 3s Ac] [Qd]
+Cowgirlgea: checks
+Ag3r0n: bets $6
+Cowgirlgea: calls $6
+*** RIVER *** [8c 3s Ac Qd] [Qs]
+Cowgirlgea: checks
+Ag3r0n: bets $6
+Cowgirlgea: calls $6
+*** SHOW DOWN ***
+Ag3r0n: shows [Qc 5c] (three of a kind, Queens)
+Cowgirlgea: mucks hand
+Ag3r0n collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [8c 3s Ac Qd Qs]
+Seat 1: Cowgirlgea (big blind) mucked
+Seat 3: Ag3r0n (button) (small blind) showed [Qc 5c] and won ($41.50) with three of a kind, Queens
+
+
+PokerStars Hand #176263327787:  Hold'em Limit ($3/$6 USD) - 2017/09/29 8:25:57 ET
+Table 'Hagar' 6-max Seat #1 is the button
+Seat 1: Cowgirlgea ($115.19 in chips)
+Seat 3: Ag3r0n ($72 in chips)
+Cowgirlgea: posts small blind $1
+Ag3r0n: posts big blind $3
+*** HOLE CARDS ***
+Cowgirlgea: raises $3 to $6
+Ag3r0n: calls $3
+*** FLOP *** [6s Ts Ac]
+VolkovDmitri joins the table at seat #2
+Ag3r0n: checks
+Cowgirlgea: bets $3
+Ag3r0n: folds
+Uncalled bet ($3) returned to Cowgirlgea
+Cowgirlgea collected $11.76 from pot
+Cowgirlgea: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6s Ts Ac]
+Seat 1: Cowgirlgea (button) (small blind) collected ($11.76)
+Seat 3: Ag3r0n (big blind) folded on the Flop
+
+
+PokerStars Hand #176264142387:  Hold'em Limit ($3/$6 USD) - 2017/09/29 8:55:54 ET
+Table 'Hagar' 6-max Seat #3 is the button
+Seat 3: missakk ($999.73 in chips)
+Seat 4: Ale4o ($93 in chips)
+VolkovDmitri leaves the table
+missakk: posts small blind $1
+Ale4o: posts big blind $3
+*** HOLE CARDS ***
+missakk: raises $3 to $6
+Ale4o: calls $3
+*** FLOP *** [Kc 7s Jc]
+Ale4o: checks
+missakk: bets $3
+Ale4o: raises $3 to $6
+missakk: folds
+Uncalled bet ($3) returned to Ale4o
+Ale4o collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kc 7s Jc]
+Seat 3: missakk (button) (small blind) folded on the Flop
+Seat 4: Ale4o (big blind) collected ($17.64)
+
+

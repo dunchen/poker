@@ -1,0 +1,58 @@
+PokerStars Hand #147728707037:  Hold'em Limit ($3/$6 USD) - 2016/01/26 16:06:42 ET
+Table 'Caecilia II' 2-max Seat #2 is the button
+Seat 1: simper11 ($120 in chips)
+Seat 2: livenuncut ($133.38 in chips)
+livenuncut: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+livenuncut: raises $3 to $6
+simper11: calls $3
+*** FLOP *** [9h Tc Kc]
+simper11: checks
+livenuncut: bets $3
+simper11: raises $3 to $6
+livenuncut: calls $3
+*** TURN *** [9h Tc Kc] [3s]
+simper11: bets $6
+livenuncut: folds
+Uncalled bet ($6) returned to simper11
+simper11 collected $23.52 from pot
+simper11: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [9h Tc Kc 3s]
+Seat 1: simper11 (big blind) collected ($23.52)
+Seat 2: livenuncut (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #147728686708:  Hold'em Limit ($3/$6 USD) - 2016/01/26 16:06:24 ET
+Table 'Caecilia II' 2-max Seat #1 is the button
+Seat 1: simper11 ($124 in chips)
+Seat 2: livenuncut ($118.88 in chips)
+simper11: posts small blind $1
+livenuncut: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+livenuncut: calls $3
+*** FLOP *** [4s 4d Qh]
+livenuncut: checks
+simper11: bets $3
+livenuncut: calls $3
+*** TURN *** [4s 4d Qh] [Qd]
+livenuncut: checks
+simper11: bets $6
+livenuncut: calls $6
+*** RIVER *** [4s 4d Qh Qd] [7s]
+livenuncut: checks
+simper11: checks
+*** SHOW DOWN ***
+livenuncut: shows [Kh 9d] (two pair, Queens and Fours)
+simper11: mucks hand
+livenuncut collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4s 4d Qh Qd 7s]
+Seat 1: simper11 (button) (small blind) mucked
+Seat 2: livenuncut (big blind) showed [Kh 9d] and won ($29.50) with two pair, Queens and Fours
+
+

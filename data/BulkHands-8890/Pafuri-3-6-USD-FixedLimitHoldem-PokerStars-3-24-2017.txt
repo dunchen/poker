@@ -1,0 +1,84 @@
+PokerStars Hand #168061793453:  Hold'em Limit ($3/$6 USD) - 2017/03/24 18:57:37 ET
+Table 'Pafuri' 6-max Seat #3 is the button
+Seat 2: Janeros ($32.80 in chips)
+Seat 3: GRAILKO ($335.53 in chips)
+GRAILKO: posts small blind $1
+Janeros: posts big blind $3
+*** HOLE CARDS ***
+GRAILKO: raises $3 to $6
+Chessnok leaves the table
+Janeros: calls $3
+*** FLOP *** [6h Qd Kd]
+Janeros: checks
+GRAILKO: bets $3
+Janeros: folds
+Uncalled bet ($3) returned to GRAILKO
+GRAILKO collected $11.76 from pot
+GRAILKO: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6h Qd Kd]
+Seat 2: Janeros (big blind) folded on the Flop
+Seat 3: GRAILKO (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #168061814000:  Hold'em Limit ($3/$6 USD) - 2017/03/24 18:58:08 ET
+Table 'Pafuri' 6-max Seat #3 is the button
+Seat 2: Janeros ($14.80 in chips)
+Seat 3: GRAILKO ($352.81 in chips)
+GRAILKO: posts small blind $1
+Janeros: posts big blind $3
+*** HOLE CARDS ***
+GRAILKO: raises $3 to $6
+Janeros: calls $3
+*** FLOP *** [7h 5s 3h]
+Janeros: checks
+GRAILKO: bets $3
+Janeros: calls $3
+*** TURN *** [7h 5s 3h] [7s]
+Janeros: checks
+GRAILKO: bets $6
+Janeros: calls $5.80 and is all-in
+Uncalled bet ($0.20) returned to GRAILKO
+*** RIVER *** [7h 5s 3h 7s] [5d]
+*** SHOW DOWN ***
+Janeros: shows [Qh 2s] (two pair, Sevens and Fives)
+GRAILKO: shows [Jc As] (two pair, Sevens and Fives - Ace kicker)
+GRAILKO collected $29.10 from pot
+*** SUMMARY ***
+Total pot $29.60 | Rake $0.50
+Board [7h 5s 3h 7s 5d]
+Seat 2: Janeros (big blind) showed [Qh 2s] and lost with two pair, Sevens and Fives
+Seat 3: GRAILKO (button) (small blind) showed [Jc As] and won ($29.10) with two pair, Sevens and Fives
+
+
+PokerStars Hand #168061802499:  Hold'em Limit ($3/$6 USD) - 2017/03/24 18:57:50 ET
+Table 'Pafuri' 6-max Seat #2 is the button
+Seat 2: Janeros ($26.80 in chips)
+Seat 3: GRAILKO ($341.29 in chips)
+Janeros: posts small blind $1
+GRAILKO: posts big blind $3
+*** HOLE CARDS ***
+Janeros: calls $2
+GRAILKO: checks
+*** FLOP *** [4d 7c 8s]
+GRAILKO: bets $3
+Janeros: calls $3
+*** TURN *** [4d 7c 8s] [7h]
+Actionni13 leaves the table
+GRAILKO: bets $6
+Janeros: calls $6
+*** RIVER *** [4d 7c 8s 7h] [4h]
+GRAILKO: checks
+Janeros: checks
+*** SHOW DOWN ***
+GRAILKO: shows [6h Kd] (two pair, Sevens and Fours)
+Janeros: mucks hand
+GRAILKO collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [4d 7c 8s 7h 4h]
+Seat 2: Janeros (button) (small blind) mucked
+Seat 3: GRAILKO (big blind) showed [6h Kd] and won ($23.52) with two pair, Sevens and Fours
+
+

@@ -1,0 +1,134 @@
+PokerStars Hand #148446865564:  Hold'em Limit ($3/$6 USD) - 2016/02/08 9:52:41 ET
+Table 'Kapaneus II' 6-max Seat #3 is the button
+Seat 3: verde7 ($50 in chips)
+Seat 4: Agrotait ($72 in chips)
+verde7: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+verde7: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [Qc Js 6c]
+Agrotait: checks
+verde7: bets $3
+Agrotait: calls $3
+*** TURN *** [Qc Js 6c] [2s]
+Agrotait: checks
+verde7: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to verde7
+verde7 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qc Js 6c 2s]
+Seat 3: verde7 (button) (small blind) collected ($17.64)
+Seat 4: Agrotait (big blind) folded on the Turn
+
+
+PokerStars Hand #148446966626:  Hold'em Limit ($3/$6 USD) - 2016/02/08 9:54:58 ET
+Table 'Kapaneus II' 6-max Seat #3 is the button
+Seat 3: verde7 ($28.64 in chips)
+Seat 4: Agrotait ($92.50 in chips)
+verde7: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+verde7: calls $2
+iskambil joins the table at seat #1
+Agrotait: checks
+*** FLOP *** [7d 4c 3d]
+Agrotait: bets $3
+verde7: calls $3
+*** TURN *** [7d 4c 3d] [7h]
+Agrotait: bets $6
+verde7: folds
+Uncalled bet ($6) returned to Agrotait
+Agrotait collected $11.76 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7d 4c 3d 7h]
+Seat 3: verde7 (button) (small blind) folded on the Turn
+Seat 4: Agrotait (big blind) collected ($11.76)
+
+
+PokerStars Hand #148446932877:  Hold'em Limit ($3/$6 USD) - 2016/02/08 9:54:12 ET
+Table 'Kapaneus II' 6-max Seat #4 is the button
+Seat 3: verde7 ($58.64 in chips)
+Seat 4: Agrotait ($63 in chips)
+Agrotait: posts small blind $1
+verde7: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+verde7: raises $3 to $9
+Agrotait: calls $3
+*** FLOP *** [2d 8h 3c]
+verde7: checks
+Agrotait: bets $3
+verde7: calls $3
+*** TURN *** [2d 8h 3c] [Jc]
+verde7: checks
+Agrotait: bets $6
+verde7: raises $6 to $12
+Agrotait: calls $6
+*** RIVER *** [2d 8h 3c Jc] [9s]
+verde7: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+verde7: shows [Qh Kd] (high card King)
+Agrotait: shows [2s Qc] (a pair of Deuces)
+Agrotait collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [2d 8h 3c Jc 9s]
+Seat 3: verde7 (big blind) showed [Qh Kd] and lost with high card King
+Seat 4: Agrotait (button) (small blind) showed [2s Qc] and won ($59.50) with a pair of Deuces
+
+
+PokerStars Hand #148448267376:  Hold'em Limit ($3/$6 USD) - 2016/02/08 10:23:51 ET
+Table 'Kapaneus II' 6-max Seat #4 is the button
+Seat 4: ChOfW ($173.41 in chips)
+Seat 5: 69benji ($71.05 in chips)
+ChOfW: posts small blind $1
+69benji: posts big blind $3
+*** HOLE CARDS ***
+ChOfW: raises $3 to $6
+69benji: folds
+Uncalled bet ($3) returned to ChOfW
+ChOfW collected $6 from pot
+ChOfW: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 4: ChOfW (button) (small blind) collected ($6)
+Seat 5: 69benji (big blind) folded before Flop
+
+
+PokerStars Hand #148448880528:  Hold'em Limit ($3/$6 USD) - 2016/02/08 10:36:27 ET
+Table 'Kapaneus II' 6-max Seat #6 is the button
+Seat 5: 69benji ($60.25 in chips)
+Seat 6: Pokali ($139.25 in chips)
+Pokali: posts small blind $1
+ChOfW: is sitting out
+69benji: posts big blind $3
+*** HOLE CARDS ***
+Pokali: raises $3 to $6
+69benji: calls $3
+*** FLOP *** [Jh 6c 7s]
+69benji: checks
+Pokali: bets $3
+69benji: calls $3
+*** TURN *** [Jh 6c 7s] [3s]
+69benji: checks
+Pokali: checks
+*** RIVER *** [Jh 6c 7s 3s] [3c]
+69benji: bets $6
+Pokali: calls $6
+*** SHOW DOWN ***
+69benji: shows [7d Ad] (two pair, Sevens and Threes)
+Pokali: mucks hand
+69benji collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Jh 6c 7s 3s 3c]
+Seat 5: 69benji (big blind) showed [7d Ad] and won ($29.50) with two pair, Sevens and Threes
+Seat 6: Pokali (button) (small blind) mucked
+
+

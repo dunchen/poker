@@ -1,0 +1,158 @@
+PokerStars Hand #168566362257:  Hold'em Limit ($3/$6 USD) - 2017/04/04 11:20:00 ET
+Table 'Titan' 6-max Seat #3 is the button
+Seat 1: sokol-max-PS ($80.11 in chips)
+Seat 3: Bucs9397 ($471.31 in chips)
+Bucs9397: posts small blind $1
+B_loJkl: is sitting out
+B_loJkl leaves the table
+sokol-max-PS: posts big blind $3
+*** HOLE CARDS ***
+Bucs9397: raises $3 to $6
+B_loJkl joins the table at seat #4
+nimzon joins the table at seat #5
+sokol-max-PS: raises $3 to $9
+Bucs9397: calls $3
+*** FLOP *** [Ks Qd 3s]
+nimzon leaves the table
+sokol-max-PS: bets $3
+Bucs9397: calls $3
+*** TURN *** [Ks Qd 3s] [Ts]
+sokol-max-PS: bets $6
+Bucs9397: calls $6
+*** RIVER *** [Ks Qd 3s Ts] [Ac]
+sokol-max-PS: checks
+Bucs9397: checks
+*** SHOW DOWN ***
+sokol-max-PS: shows [Js Qs] (a flush, King high)
+Bucs9397: mucks hand
+sokol-max-PS collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Ks Qd 3s Ts Ac]
+Seat 1: sokol-max-PS (big blind) showed [Js Qs] and won ($35.50) with a flush, King high
+Seat 3: Bucs9397 (button) (small blind) mucked
+
+
+PokerStars Hand #168566377557:  Hold'em Limit ($3/$6 USD) - 2017/04/04 11:20:23 ET
+Table 'Titan' 6-max Seat #1 is the button
+Seat 1: sokol-max-PS ($97.61 in chips)
+Seat 3: Bucs9397 ($453.31 in chips)
+sokol-max-PS: posts small blind $1
+Bucs9397: posts big blind $3
+*** HOLE CARDS ***
+sokol-max-PS: raises $3 to $6
+Bucs9397: raises $3 to $9
+sokol-max-PS: calls $3
+*** FLOP *** [Ad 9h 3d]
+Bucs9397: bets $3
+sokol-max-PS: calls $3
+*** TURN *** [Ad 9h 3d] [3h]
+Bucs9397: bets $6
+sokol-max-PS: calls $6
+*** RIVER *** [Ad 9h 3d 3h] [Ks]
+Bucs9397: bets $6
+sokol-max-PS: calls $6
+*** SHOW DOWN ***
+Bucs9397: shows [7s 8s] (a pair of Threes)
+sokol-max-PS: shows [As 6d] (two pair, Aces and Threes)
+sokol-max-PS collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Ad 9h 3d 3h Ks]
+Seat 1: sokol-max-PS (button) (small blind) showed [As 6d] and won ($47.50) with two pair, Aces and Threes
+Seat 3: Bucs9397 (big blind) showed [7s 8s] and lost with a pair of Threes
+
+
+PokerStars Hand #168568115159:  Hold'em Limit ($3/$6 USD) - 2017/04/04 12:04:17 ET
+Table 'Titan' 6-max Seat #5 is the button
+Seat 4: B_loJkl ($283.22 in chips)
+Seat 5: HAL9QQQ ($120 in chips)
+HAL9QQQ: posts small blind $1
+kolaz03: is sitting out
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+kolaz03 leaves the table
+HAL9QQQ: folds
+Uncalled bet ($2) returned to B_loJkl
+Audrio00kas joins the table at seat #2
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: B_loJkl (big blind) collected ($2)
+Seat 5: HAL9QQQ (button) (small blind) folded before Flop
+
+
+PokerStars Hand #168568119340:  Hold'em Limit ($3/$6 USD) - 2017/04/04 12:04:23 ET
+Table 'Titan' 6-max Seat #4 is the button
+Seat 4: B_loJkl ($284.22 in chips)
+Seat 5: HAL9QQQ ($120 in chips)
+B_loJkl: posts small blind $1
+HAL9QQQ: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: folds
+Uncalled bet ($2) returned to HAL9QQQ
+HAL9QQQ collected $2 from pot
+HAL9QQQ: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: B_loJkl (button) (small blind) folded before Flop
+Seat 5: HAL9QQQ (big blind) collected ($2)
+
+
+PokerStars Hand #168568184551:  Hold'em Limit ($3/$6 USD) - 2017/04/04 12:05:56 ET
+Table 'Titan' 6-max Seat #5 is the button
+Seat 4: B_loJkl ($297.29 in chips)
+Seat 5: HAL9QQQ ($148.33 in chips)
+HAL9QQQ: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+HAL9QQQ: raises $3 to $6
+Audrio00kas leaves the table
+B_loJkl: calls $3
+*** FLOP *** [5d As Ts]
+B_loJkl: checks
+HAL9QQQ: bets $3
+B_loJkl: calls $3
+*** TURN *** [5d As Ts] [7c]
+B_loJkl: checks
+HAL9QQQ: checks
+*** RIVER *** [5d As Ts 7c] [8d]
+B_loJkl: checks
+HAL9QQQ: checks
+*** SHOW DOWN ***
+B_loJkl: shows [3c Ks] (high card Ace)
+HAL9QQQ: shows [6d 6c] (a pair of Sixes)
+HAL9QQQ collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5d As Ts 7c 8d]
+Seat 4: B_loJkl (big blind) showed [3c Ks] and lost with high card Ace
+Seat 5: HAL9QQQ (button) (small blind) showed [6d 6c] and won ($17.64) with a pair of Sixes
+
+
+PokerStars Hand #168572988756:  Hold'em Limit ($3/$6 USD) - 2017/04/04 13:51:08 ET
+Table 'Titan' 6-max Seat #1 is the button
+Seat 1: Apanage ($57.74 in chips)
+Seat 6: bangolfaren ($40.37 in chips)
+Apanage: posts small blind $1
+pompier40: is sitting out
+vestimokrec: is sitting out
+bangolfaren: posts big blind $3
+*** HOLE CARDS ***
+Apanage: raises $3 to $6
+bangolfaren: calls $3
+*** FLOP *** [Ks 8c 6s]
+bangolfaren: checks
+Apanage: bets $3
+bangolfaren: folds
+Uncalled bet ($3) returned to Apanage
+Apanage collected $11.76 from pot
+Apanage: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ks 8c 6s]
+Seat 1: Apanage (button) (small blind) collected ($11.76)
+Seat 6: bangolfaren (big blind) folded on the Flop
+
+

@@ -1,0 +1,31 @@
+PokerStars Hand #174160617568:  Hold'em Limit ($3/$6 USD) - 2017/08/10 12:24:00 ET
+Table 'Mandeville' 6-max Seat #3 is the button
+Seat 3: Eklund_1891 ($120 in chips)
+Seat 4: Great_Kang ($120 in chips)
+Eklund_1891: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+Eklund_1891: raises $3 to $6
+Great_Kang: raises $3 to $9
+Eklund_1891: calls $3
+*** FLOP *** [7c 6s Kc]
+Psynto joins the table at seat #5
+Great_Kang: bets $3
+Eklund_1891: calls $3
+*** TURN *** [7c 6s Kc] [Js]
+Great_Kang: bets $6
+Eklund_1891: calls $6
+*** RIVER *** [7c 6s Kc Js] [Ks]
+Great_Kang: checks
+Eklund_1891: checks
+*** SHOW DOWN ***
+Great_Kang: shows [Ah 9d] (a pair of Kings)
+Eklund_1891: shows [6h 9h] (two pair, Kings and Sixes)
+Eklund_1891 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [7c 6s Kc Js Ks]
+Seat 3: Eklund_1891 (button) (small blind) showed [6h 9h] and won ($35.50) with two pair, Kings and Sixes
+Seat 4: Great_Kang (big blind) showed [Ah 9d] and lost with a pair of Kings
+
+

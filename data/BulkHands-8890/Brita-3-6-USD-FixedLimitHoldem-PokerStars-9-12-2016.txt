@@ -1,0 +1,57 @@
+PokerStars Hand #158493797322:  Hold'em Limit ($3/$6 USD) - 2016/09/12 2:44:19 ET
+Table 'Brita' 6-max Seat #6 is the button
+Seat 2: simper11 ($182.76 in chips)
+Seat 6: swics1202 ($116.71 in chips)
+swics1202: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+swics1202: raises $3 to $6
+simper11: calls $3
+*** FLOP *** [Tc 8d 6d]
+simper11: checks
+swics1202: checks
+*** TURN *** [Tc 8d 6d] [7s]
+simper11: checks
+swics1202: checks
+*** RIVER *** [Tc 8d 6d 7s] [5h]
+simper11: checks
+swics1202: checks
+*** SHOW DOWN ***
+simper11: shows [3s 3d] (a pair of Threes)
+swics1202: shows [Ad 4h] (a straight, Four to Eight)
+swics1202 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Tc 8d 6d 7s 5h]
+Seat 2: simper11 (big blind) showed [3s 3d] and lost with a pair of Threes
+Seat 6: swics1202 (button) (small blind) showed [Ad 4h] and won ($11.76) with a straight, Four to Eight
+
+
+PokerStars Hand #158493792998:  Hold'em Limit ($3/$6 USD) - 2016/09/12 2:44:01 ET
+Table 'Brita' 6-max Seat #2 is the button
+Seat 2: simper11 ($194.76 in chips)
+Seat 6: swics1202 ($105.19 in chips)
+simper11: posts small blind $1
+swics1202: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+swics1202: calls $3
+*** FLOP *** [2s 5s Th]
+PeteSvensson leaves the table
+swics1202: checks
+simper11: bets $3
+swics1202: raises $3 to $6
+simper11: calls $3
+*** TURN *** [2s 5s Th] [4h]
+swics1202: bets $6
+simper11: folds
+Uncalled bet ($6) returned to swics1202
+swics1202 collected $23.52 from pot
+swics1202: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [2s 5s Th 4h]
+Seat 2: simper11 (button) (small blind) folded on the Turn
+Seat 6: swics1202 (big blind) collected ($23.52)
+
+

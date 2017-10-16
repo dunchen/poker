@@ -1,0 +1,86 @@
+PokerStars Hand #172984997775:  Hold'em Limit ($3/$6 USD) - 2017/07/13 13:56:18 ET
+Table 'Mitlincoln' 6-max Seat #2 is the button
+Seat 2: sim5sim5 ($72 in chips)
+Seat 3: Harlaur ($120 in chips)
+sim5sim5: posts small blind $1
+Harlaur: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+Harlaur: calls $3
+*** FLOP *** [Tc 7d 9s]
+Harlaur: checks
+sim5sim5: checks
+*** TURN *** [Tc 7d 9s] [2s]
+Harlaur: bets $6
+sim5sim5: folds
+Uncalled bet ($6) returned to Harlaur
+Harlaur collected $11.76 from pot
+Harlaur: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Tc 7d 9s 2s]
+Seat 2: sim5sim5 (button) (small blind) folded on the Turn
+Seat 3: Harlaur (big blind) collected ($11.76)
+
+
+PokerStars Hand #172985017758:  Hold'em Limit ($3/$6 USD) - 2017/07/13 13:56:53 ET
+Table 'Mitlincoln' 6-max Seat #3 is the button
+Seat 2: sim5sim5 ($72 in chips)
+Seat 3: Harlaur ($125.76 in chips)
+Harlaur: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+Harlaur: raises $3 to $6
+sim5sim5: calls $3
+*** FLOP *** [Qd Ad 8c]
+sim5sim5: checks
+Harlaur: bets $3
+sim5sim5: raises $3 to $6
+Harlaur: calls $3
+*** TURN *** [Qd Ad 8c] [4c]
+sim5sim5: checks
+Harlaur: checks
+*** RIVER *** [Qd Ad 8c 4c] [6c]
+sim5sim5: bets $6
+Harlaur: calls $6
+*** SHOW DOWN ***
+sim5sim5: shows [3d Ah] (a pair of Aces)
+Harlaur: mucks hand
+sim5sim5 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Qd Ad 8c 4c 6c]
+Seat 2: sim5sim5 (big blind) showed [3d Ah] and won ($35.50) with a pair of Aces
+Seat 3: Harlaur (button) (small blind) mucked
+
+
+PokerStars Hand #172985038028:  Hold'em Limit ($3/$6 USD) - 2017/07/13 13:57:28 ET
+Table 'Mitlincoln' 6-max Seat #2 is the button
+Seat 2: sim5sim5 ($89.50 in chips)
+Seat 3: Harlaur ($107.76 in chips)
+sim5sim5: posts small blind $1
+Harlaur: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+Harlaur: raises $3 to $9
+sim5sim5: calls $3
+*** FLOP *** [2c Ts 6s]
+Harlaur: bets $3
+sim5sim5: calls $3
+*** TURN *** [2c Ts 6s] [Js]
+Harlaur: bets $6
+sim5sim5: calls $6
+*** RIVER *** [2c Ts 6s Js] [4d]
+Harlaur: checks
+sim5sim5: checks
+*** SHOW DOWN ***
+Harlaur: shows [Ah 5h] (high card Ace)
+sim5sim5: mucks hand
+Harlaur collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [2c Ts 6s Js 4d]
+Seat 2: sim5sim5 (button) (small blind) mucked
+Seat 3: Harlaur (big blind) showed [Ah 5h] and won ($35.50) with high card Ace
+
+

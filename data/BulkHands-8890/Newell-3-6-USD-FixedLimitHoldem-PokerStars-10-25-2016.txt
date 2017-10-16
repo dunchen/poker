@@ -1,0 +1,30 @@
+PokerStars Hand #160429355932:  Hold'em Limit ($3/$6 USD) - 2016/10/25 14:57:29 ET
+Table 'Newell' 6-max Seat #3 is the button
+Seat 3: slavomir9305 ($120 in chips)
+Seat 4: AzureCaper ($72 in chips)
+slavomir9305: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+Gega64 joins the table at seat #6
+slavomir9305: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [2d Qh 6s]
+AzureCaper: bets $3
+slavomir9305: calls $3
+*** TURN *** [2d Qh 6s] [4h]
+AzureCaper: bets $6
+slavomir9305: calls $6
+*** RIVER *** [2d Qh 6s 4h] [8s]
+AzureCaper: bets $6
+slavomir9305: calls $6
+*** SHOW DOWN ***
+AzureCaper: shows [4c 4d] (three of a kind, Fours)
+slavomir9305: mucks hand
+AzureCaper collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2d Qh 6s 4h 8s]
+Seat 3: slavomir9305 (button) (small blind) mucked
+Seat 4: AzureCaper (big blind) showed [4c 4d] and won ($41.50) with three of a kind, Fours
+
+

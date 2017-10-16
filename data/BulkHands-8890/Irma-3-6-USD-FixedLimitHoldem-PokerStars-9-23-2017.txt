@@ -1,0 +1,84 @@
+PokerStars Hand #176027071736:  Hold'em Limit ($3/$6 USD) - 2017/09/23 15:10:13 ET
+Table 'Irma' 6-max Seat #6 is the button
+Seat 1: vestimokrec ($123 in chips)
+Seat 6: wechselberge ($117 in chips)
+wechselberge: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+wechselberge: calls $2
+muzixibei joins the table at seat #4
+Ag3r0n leaves the table
+vestimokrec: checks
+*** FLOP *** [6s Ah Qs]
+ELCapitano26 joins the table at seat #3
+vestimokrec: checks
+Ag3r0n joins the table at seat #5
+wechselberge: checks
+*** TURN *** [6s Ah Qs] [Kc]
+vestimokrec: bets $6
+wechselberge: calls $6
+*** RIVER *** [6s Ah Qs Kc] [As]
+vestimokrec: bets $6
+wechselberge: raises $6 to $12
+vestimokrec: calls $6
+*** SHOW DOWN ***
+wechselberge: shows [5s 9s] (a flush, Ace high)
+vestimokrec: mucks hand
+wechselberge collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [6s Ah Qs Kc As]
+Seat 1: vestimokrec (big blind) mucked
+Seat 6: wechselberge (button) (small blind) showed [5s 9s] and won ($41.50) with a flush, Ace high
+
+
+PokerStars Hand #176029866799:  Hold'em Limit ($3/$6 USD) - 2017/09/23 16:09:04 ET
+Table 'Irma' 6-max Seat #2 is the button
+Seat 2: Rmk1500 ($252.05 in chips)
+Seat 6: SEQUOIA2012 ($237.43 in chips)
+Rmk1500: posts small blind $1
+davyyyyyyy: is sitting out
+SEQUOIA2012: posts big blind $3
+*** HOLE CARDS ***
+Rmk1500: folds
+Uncalled bet ($2) returned to SEQUOIA2012
+SEQUOIA2012 collected $2 from pot
+SEQUOIA2012: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: Rmk1500 (button) (small blind) folded before Flop
+Seat 6: SEQUOIA2012 (big blind) collected ($2)
+
+
+PokerStars Hand #176029871098:  Hold'em Limit ($3/$6 USD) - 2017/09/23 16:09:09 ET
+Table 'Irma' 6-max Seat #6 is the button
+Seat 2: Rmk1500 ($251.05 in chips)
+Seat 6: SEQUOIA2012 ($238.43 in chips)
+SEQUOIA2012: posts small blind $1
+Rmk1500: posts big blind $3
+*** HOLE CARDS ***
+SEQUOIA2012: raises $3 to $6
+Rmk1500: calls $3
+*** FLOP *** [2s Kh 9h]
+Rmk1500: checks
+SEQUOIA2012: bets $3
+Rmk1500: calls $3
+*** TURN *** [2s Kh 9h] [9d]
+Rmk1500: checks
+SEQUOIA2012: bets $6
+Rmk1500: raises $6 to $12
+SEQUOIA2012: calls $6
+*** RIVER *** [2s Kh 9h 9d] [6s]
+Rmk1500: bets $6
+SEQUOIA2012: calls $6
+*** SHOW DOWN ***
+Rmk1500: shows [9c Js] (three of a kind, Nines)
+SEQUOIA2012: mucks hand
+Rmk1500 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [2s Kh 9h 9d 6s]
+Seat 2: Rmk1500 (big blind) showed [9c Js] and won ($53.50) with three of a kind, Nines
+Seat 6: SEQUOIA2012 (button) (small blind) mucked
+
+

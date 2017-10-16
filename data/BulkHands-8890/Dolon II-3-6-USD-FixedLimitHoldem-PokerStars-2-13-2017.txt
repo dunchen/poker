@@ -1,0 +1,34 @@
+PokerStars Hand #166151850290:  Hold'em Limit ($3/$6 USD) - 2017/02/13 11:32:13 ET
+Table 'Dolon II' 6-max Seat #2 is the button
+Seat 2: RaisemyNut$ ($193.17 in chips)
+Seat 6: ABATAPP ($64.85 in chips)
+RaisemyNut$: posts small blind $1
+boogi: is sitting out
+ABATAPP: posts big blind $3
+*** HOLE CARDS ***
+RaisemyNut$: raises $3 to $6
+boogi leaves the table
+ABATAPP: calls $3
+*** FLOP *** [3d 9h 5s]
+ABATAPP: checks
+RaisemyNut$: bets $3
+ABATAPP: calls $3
+*** TURN *** [3d 9h 5s] [9s]
+ABATAPP: checks
+RaisemyNut$: bets $6
+ABATAPP: calls $6
+*** RIVER *** [3d 9h 5s 9s] [4s]
+ABATAPP: checks
+RaisemyNut$: bets $6
+ABATAPP: calls $6
+*** SHOW DOWN ***
+RaisemyNut$: shows [5h 5c] (a full house, Fives full of Nines)
+ABATAPP: mucks hand
+RaisemyNut$ collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [3d 9h 5s 9s 4s]
+Seat 2: RaisemyNut$ (button) (small blind) showed [5h 5c] and won ($41.50) with a full house, Fives full of Nines
+Seat 6: ABATAPP (big blind) mucked
+
+

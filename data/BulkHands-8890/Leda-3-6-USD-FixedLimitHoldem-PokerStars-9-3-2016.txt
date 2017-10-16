@@ -1,0 +1,31 @@
+PokerStars Hand #158082985754:  Hold'em Limit ($3/$6 USD) - 2016/09/02 19:59:37 ET
+Table 'Leda' 6-max Seat #6 is the button
+Seat 3: coma0815 ($18 in chips)
+Seat 6: ToDaFelt ($402.92 in chips)
+ToDaFelt: posts small blind $1
+NeilDars: is sitting out
+NeilDars leaves the table
+coma0815: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+coma0815: calls $3
+*** FLOP *** [Td Jh Kd]
+coma0815: bets $3
+ToDaFelt: calls $3
+*** TURN *** [Td Jh Kd] [4c]
+coma0815: bets $6
+ToDaFelt: raises $6 to $12
+coma0815: calls $3 and is all-in
+Uncalled bet ($3) returned to ToDaFelt
+*** RIVER *** [Td Jh Kd 4c] [Jd]
+*** SHOW DOWN ***
+coma0815: shows [Qd 6c] (a pair of Jacks)
+ToDaFelt: shows [Jc 4s] (a full house, Jacks full of Fours)
+ToDaFelt collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Td Jh Kd 4c Jd]
+Seat 3: coma0815 (big blind) showed [Qd 6c] and lost with a pair of Jacks
+Seat 6: ToDaFelt (button) (small blind) showed [Jc 4s] and won ($35.50) with a full house, Jacks full of Fours
+
+

@@ -1,0 +1,134 @@
+PokerStars Hand #146521993949:  Hold'em Limit ($3/$6 USD) - 2016/01/05 14:15:15 ET
+Table 'Quintilla II' 6-max Seat #3 is the button
+Seat 3: komornik ($89.51 in chips)
+Seat 4: svoy2 ($795.84 in chips)
+komornik: posts small blind $1
+svoy2: posts big blind $3
+*** HOLE CARDS ***
+komornik: folds
+Uncalled bet ($2) returned to svoy2
+svoy2 collected $2 from pot
+svoy2: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: komornik (button) (small blind) folded before Flop
+Seat 4: svoy2 (big blind) collected ($2)
+
+
+PokerStars Hand #146521970155:  Hold'em Limit ($3/$6 USD) - 2016/01/05 14:14:53 ET
+Table 'Quintilla II' 6-max Seat #4 is the button
+Seat 3: komornik ($66.01 in chips)
+Seat 4: svoy2 ($819.84 in chips)
+svoy2: posts small blind $1
+B_loJkl: is sitting out
+komornik: posts big blind $3
+*** HOLE CARDS ***
+svoy2: raises $3 to $6
+komornik: calls $3
+*** FLOP *** [9d 3s Jh]
+komornik: checks
+svoy2: bets $3
+arocar joins the table at seat #5
+komornik: raises $3 to $6
+svoy2: raises $3 to $9
+komornik: raises $3 to $12
+Betting is capped
+svoy2: calls $3
+*** TURN *** [9d 3s Jh] [2h]
+komornik: bets $6
+svoy2: calls $6
+*** RIVER *** [9d 3s Jh 2h] [Tc]
+komornik: bets $6
+svoy2: folds
+Uncalled bet ($6) returned to komornik
+komornik collected $47.50 from pot
+komornik: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9d 3s Jh 2h Tc]
+Seat 3: komornik (big blind) collected ($47.50)
+Seat 4: svoy2 (button) (small blind) folded on the River
+
+
+PokerStars Hand #146522023611:  Hold'em Limit ($3/$6 USD) - 2016/01/05 14:15:44 ET
+Table 'Quintilla II' 6-max Seat #4 is the button
+Seat 4: svoy2 ($799.59 in chips)
+Seat 5: arocar ($48.75 in chips)
+svoy2: posts small blind $1
+arocar: posts big blind $3
+*** HOLE CARDS ***
+svoy2: folds
+Uncalled bet ($2) returned to arocar
+arocar collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: svoy2 (button) (small blind) folded before Flop
+Seat 5: arocar (big blind) collected ($2)
+
+
+PokerStars Hand #146522007232:  Hold'em Limit ($3/$6 USD) - 2016/01/05 14:15:28 ET
+Table 'Quintilla II' 6-max Seat #5 is the button
+Seat 4: svoy2 ($799.84 in chips)
+Seat 5: arocar ($49 in chips)
+arocar: posts small blind $1
+komornik: is sitting out
+svoy2: posts big blind $3
+*** HOLE CARDS ***
+arocar: raises $3 to $6
+svoy2: calls $3
+*** FLOP *** [3c 3s Kd]
+komornik leaves the table
+svoy2: checks
+arocar: bets $3
+svoy2: raises $3 to $6
+arocar: calls $3
+*** TURN *** [3c 3s Kd] [6d]
+svoy2: bets $6
+arocar: calls $6
+*** RIVER *** [3c 3s Kd 6d] [3h]
+svoy2: bets $6
+arocar: calls $6
+*** SHOW DOWN ***
+svoy2: shows [6c 9d] (a full house, Threes full of Sixes)
+arocar: shows [Qh 6s] (a full house, Threes full of Sixes)
+svoy2 collected $23.75 from pot
+arocar collected $23.75 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3c 3s Kd 6d 3h]
+Seat 4: svoy2 (big blind) showed [6c 9d] and won ($23.75) with a full house, Threes full of Sixes
+Seat 5: arocar (button) (small blind) showed [Qh 6s] and won ($23.75) with a full house, Threes full of Sixes
+
+
+PokerStars Hand #146522808985:  Hold'em Limit ($3/$6 USD) - 2016/01/05 14:28:23 ET
+Table 'Quintilla II' 6-max Seat #6 is the button
+Seat 4: svoy2 ($760.93 in chips)
+Seat 6: B_loJkl ($116.47 in chips)
+B_loJkl: posts small blind $1
+grabaz: is sitting out
+svoy2: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+svoy2: calls $3
+*** FLOP *** [7s Ks 9d]
+svoy2: checks
+B_loJkl: bets $3
+svoy2: raises $3 to $6
+B_loJkl: calls $3
+*** TURN *** [7s Ks 9d] [4d]
+svoy2: bets $6
+B_loJkl: calls $6
+*** RIVER *** [7s Ks 9d 4d] [As]
+svoy2: checks
+B_loJkl: checks
+*** SHOW DOWN ***
+svoy2: shows [3c 7c] (a pair of Sevens)
+B_loJkl: shows [5d 9s] (a pair of Nines)
+B_loJkl collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [7s Ks 9d 4d As]
+Seat 4: svoy2 (big blind) showed [3c 7c] and lost with a pair of Sevens
+Seat 6: B_loJkl (button) (small blind) showed [5d 9s] and won ($35.50) with a pair of Nines
+
+

@@ -1,0 +1,36 @@
+PokerStars Hand #146623648386:  Hold'em Limit ($3/$6 USD) - 2016/01/07 10:19:07 ET
+Table 'Polana II' 6-max Seat #1 is the button
+Seat 1: LolDnkaments ($72 in chips)
+Seat 5: scorpio04 ($72 in chips)
+LolDnkaments: posts small blind $1
+B_loJkl: is sitting out
+SashaYuvelir: is sitting out
+scorpio04: posts big blind $3
+*** HOLE CARDS ***
+LolDnkaments: raises $3 to $6
+SashaYuvelir leaves the table
+scorpio04: calls $3
+*** FLOP *** [2c 5h Qc]
+scorpio04: checks
+LolDnkaments: bets $3
+scorpio04: calls $3
+*** TURN *** [2c 5h Qc] [5c]
+scorpio04: checks
+LolDnkaments: bets $6
+scorpio04: raises $6 to $12
+B_loJkl leaves the table
+LolDnkaments: calls $6
+*** RIVER *** [2c 5h Qc 5c] [Th]
+scorpio04: bets $6
+LolDnkaments: calls $6
+*** SHOW DOWN ***
+scorpio04: shows [9c 5s] (three of a kind, Fives)
+LolDnkaments: mucks hand
+scorpio04 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [2c 5h Qc 5c Th]
+Seat 1: LolDnkaments (button) (small blind) mucked
+Seat 5: scorpio04 (big blind) showed [9c 5s] and won ($53.50) with three of a kind, Fives
+
+

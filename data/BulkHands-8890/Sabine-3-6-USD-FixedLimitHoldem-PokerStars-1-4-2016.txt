@@ -1,0 +1,762 @@
+PokerStars Hand #146438071481:  Hold'em Limit ($3/$6 USD) - 2016/01/04 4:34:48 ET
+Table 'Sabine' 2-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 2: jl45259071 ($105.76 in chips)
+VolkovDmitri: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [2s 5h Tc]
+jl45259071: checks
+VolkovDmitri: bets $3
+jl45259071: calls $3
+*** TURN *** [2s 5h Tc] [5d]
+jl45259071: checks
+VolkovDmitri: bets $6
+jl45259071: raises $6 to $12
+VolkovDmitri: folds
+Uncalled bet ($6) returned to jl45259071
+jl45259071 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2s 5h Tc 5d]
+Seat 1: VolkovDmitri (button) (small blind) folded on the Turn
+Seat 2: jl45259071 (big blind) collected ($29.50)
+
+
+PokerStars Hand #146438059677:  Hold'em Limit ($3/$6 USD) - 2016/01/04 4:34:19 ET
+Table 'Sabine' 2-max Seat #2 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 2: jl45259071 ($100 in chips)
+jl45259071: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [8c 4d Qh]
+VolkovDmitri: checks
+jl45259071: checks
+*** TURN *** [8c 4d Qh] [6h]
+VolkovDmitri: checks
+jl45259071: checks
+*** RIVER *** [8c 4d Qh 6h] [5d]
+VolkovDmitri: checks
+jl45259071: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [Ks 9h] (high card King)
+jl45259071: shows [Jh As] (high card Ace)
+jl45259071 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8c 4d Qh 6h 5d]
+Seat 1: VolkovDmitri (big blind) showed [Ks 9h] and lost with high card King
+Seat 2: jl45259071 (button) (small blind) showed [Jh As] and won ($11.76) with high card Ace
+
+
+PokerStars Hand #146438106809:  Hold'em Limit ($3/$6 USD) - 2016/01/04 4:36:15 ET
+Table 'Sabine' 2-max Seat #2 is the button
+Seat 1: VolkovDmitri ($128.64 in chips)
+Seat 2: jl45259071 ($114.14 in chips)
+jl45259071: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: VolkovDmitri (big blind) collected ($2)
+Seat 2: jl45259071 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #146438097044:  Hold'em Limit ($3/$6 USD) - 2016/01/04 4:35:51 ET
+Table 'Sabine' 2-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 2: jl45259071 ($123.14 in chips)
+VolkovDmitri: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [Ts 8c Jc]
+jl45259071: checks
+VolkovDmitri: bets $3
+jl45259071: calls $3
+*** TURN *** [Ts 8c Jc] [7c]
+jl45259071: checks
+VolkovDmitri: checks
+*** RIVER *** [Ts 8c Jc 7c] [6s]
+jl45259071: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+jl45259071: shows [5d Kd] (high card King)
+VolkovDmitri: shows [4s 6c] (a pair of Sixes)
+VolkovDmitri collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ts 8c Jc 7c 6s]
+Seat 1: VolkovDmitri (button) (small blind) showed [4s 6c] and won ($17.64) with a pair of Sixes
+Seat 2: jl45259071 (big blind) showed [5d Kd] and lost with high card King
+
+
+PokerStars Hand #146438079946:  Hold'em Limit ($3/$6 USD) - 2016/01/04 4:35:09 ET
+Table 'Sabine' 2-max Seat #2 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 2: jl45259071 ($120.26 in chips)
+jl45259071: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+VolkovDmitri: checks
+*** FLOP *** [Qd 6c 9c]
+VolkovDmitri: checks
+jl45259071: checks
+*** TURN *** [Qd 6c 9c] [4h]
+VolkovDmitri: checks
+jl45259071: checks
+*** RIVER *** [Qd 6c 9c 4h] [Ad]
+VolkovDmitri: checks
+jl45259071: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [2h Jc] (high card Ace)
+jl45259071: shows [Ts Ks] (high card Ace - King kicker)
+jl45259071 collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Qd 6c 9c 4h Ad]
+Seat 1: VolkovDmitri (big blind) showed [2h Jc] and lost with high card Ace
+Seat 2: jl45259071 (button) (small blind) showed [Ts Ks] and won ($5.88) with high card Ace
+
+
+PokerStars Hand #146438121782:  Hold'em Limit ($3/$6 USD) - 2016/01/04 4:36:51 ET
+Table 'Sabine' 2-max Seat #2 is the button
+Seat 1: VolkovDmitri ($144.14 in chips)
+Seat 2: jl45259071 ($98.14 in chips)
+jl45259071: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+VolkovDmitri: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [Kd 6d 6c]
+VolkovDmitri: checks
+jl45259071: checks
+*** TURN *** [Kd 6d 6c] [8s]
+VolkovDmitri: checks
+jl45259071: checks
+*** RIVER *** [Kd 6d 6c 8s] [Ac]
+VolkovDmitri: checks
+jl45259071: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [9h Ts] (a pair of Sixes)
+jl45259071: shows [4h Jd] (a pair of Sixes - Ace+King+Jack kicker)
+jl45259071 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kd 6d 6c 8s Ac]
+Seat 1: VolkovDmitri (big blind) showed [9h Ts] and lost with a pair of Sixes
+Seat 2: jl45259071 (button) (small blind) showed [4h Jd] and won ($11.76) with a pair of Sixes
+
+
+PokerStars Hand #146438108834:  Hold'em Limit ($3/$6 USD) - 2016/01/04 4:36:20 ET
+Table 'Sabine' 2-max Seat #1 is the button
+Seat 1: VolkovDmitri ($129.64 in chips)
+Seat 2: jl45259071 ($113.14 in chips)
+VolkovDmitri: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [Kh 7h 8s]
+jl45259071: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [Kh 7h 8s] [9h]
+jl45259071: checks
+VolkovDmitri: bets $6
+jl45259071: calls $6
+*** RIVER *** [Kh 7h 8s 9h] [5s]
+jl45259071: checks
+VolkovDmitri: bets $6
+jl45259071: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $29.50 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kh 7h 8s 9h 5s]
+Seat 1: VolkovDmitri (button) (small blind) collected ($29.50)
+Seat 2: jl45259071 (big blind) folded on the River
+
+
+PokerStars Hand #146438152839:  Hold'em Limit ($3/$6 USD) - 2016/01/04 4:38:06 ET
+Table 'Sabine' 2-max Seat #2 is the button
+Seat 1: VolkovDmitri ($129.14 in chips)
+Seat 2: jl45259071 ($112.54 in chips)
+jl45259071: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+VolkovDmitri: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [7h Jh 9h]
+VolkovDmitri: bets $3
+jl45259071: calls $3
+*** TURN *** [7h Jh 9h] [Jc]
+VolkovDmitri: checks
+jl45259071: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [7h Jh 9h Jc] [Qc]
+VolkovDmitri: checks
+jl45259071: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [8s 6s] (a pair of Jacks)
+jl45259071: shows [2c Kc] (a pair of Jacks - King kicker)
+jl45259071 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7h Jh 9h Jc Qc]
+Seat 1: VolkovDmitri (big blind) showed [8s 6s] and lost with a pair of Jacks
+Seat 2: jl45259071 (button) (small blind) showed [2c Kc] and won ($29.50) with a pair of Jacks
+
+
+PokerStars Hand #146438139457:  Hold'em Limit ($3/$6 USD) - 2016/01/04 4:37:34 ET
+Table 'Sabine' 2-max Seat #1 is the button
+Seat 1: VolkovDmitri ($138.14 in chips)
+Seat 2: jl45259071 ($103.90 in chips)
+VolkovDmitri: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [Qc 8c Ah]
+jl45259071: checks
+VolkovDmitri: bets $3
+jl45259071: calls $3
+*** TURN *** [Qc 8c Ah] [4s]
+jl45259071: checks
+VolkovDmitri: checks
+*** RIVER *** [Qc 8c Ah 4s] [9s]
+jl45259071: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to jl45259071
+jl45259071 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qc 8c Ah 4s 9s]
+Seat 1: VolkovDmitri (button) (small blind) folded on the River
+Seat 2: jl45259071 (big blind) collected ($17.64)
+
+
+PokerStars Hand #146438177944:  Hold'em Limit ($3/$6 USD) - 2016/01/04 4:39:07 ET
+Table 'Sabine' 2-max Seat #2 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 2: jl45259071 ($135.68 in chips)
+jl45259071: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+VolkovDmitri: checks
+*** FLOP *** [4d Jc 9c]
+VolkovDmitri: checks
+jl45259071: checks
+*** TURN *** [4d Jc 9c] [Jh]
+VolkovDmitri: checks
+jl45259071: checks
+*** RIVER *** [4d Jc 9c Jh] [Js]
+VolkovDmitri: checks
+jl45259071: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [Kd 2s] (three of a kind, Jacks)
+jl45259071: mucks hand
+VolkovDmitri collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [4d Jc 9c Jh Js]
+Seat 1: VolkovDmitri (big blind) showed [Kd 2s] and won ($5.88) with three of a kind, Jacks
+Seat 2: jl45259071 (button) (small blind) mucked
+
+
+PokerStars Hand #146438168592:  Hold'em Limit ($3/$6 USD) - 2016/01/04 4:38:45 ET
+Table 'Sabine' 2-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 2: jl45259071 ($127.04 in chips)
+VolkovDmitri: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [Jd 7c Qh]
+jl45259071: checks
+VolkovDmitri: bets $3
+jl45259071: calls $3
+*** TURN *** [Jd 7c Qh] [8d]
+jl45259071: checks
+VolkovDmitri: checks
+*** RIVER *** [Jd 7c Qh 8d] [Qs]
+jl45259071: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+jl45259071: shows [Kd 3s] (a pair of Queens)
+VolkovDmitri: mucks hand
+jl45259071 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Jd 7c Qh 8d Qs]
+Seat 1: VolkovDmitri (button) (small blind) mucked
+Seat 2: jl45259071 (big blind) showed [Kd 3s] and won ($17.64) with a pair of Queens
+
+
+PokerStars Hand #146438196403:  Hold'em Limit ($3/$6 USD) - 2016/01/04 4:39:52 ET
+Table 'Sabine' 2-max Seat #2 is the button
+Seat 1: VolkovDmitri ($122.70 in chips)
+Seat 2: jl45259071 ($132.50 in chips)
+jl45259071: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+VolkovDmitri: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [6c 7h 7s]
+VolkovDmitri: bets $3
+jl45259071: calls $3
+*** TURN *** [6c 7h 7s] [9h]
+VolkovDmitri: bets $6
+jl45259071: raises $6 to $12
+VolkovDmitri: folds
+Uncalled bet ($6) returned to jl45259071
+jl45259071 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6c 7h 7s 9h]
+Seat 1: VolkovDmitri (big blind) folded on the Turn
+Seat 2: jl45259071 (button) (small blind) collected ($29.50)
+
+
+PokerStars Hand #146438186545:  Hold'em Limit ($3/$6 USD) - 2016/01/04 4:39:28 ET
+Table 'Sabine' 2-max Seat #1 is the button
+Seat 1: VolkovDmitri ($122.88 in chips)
+Seat 2: jl45259071 ($132.68 in chips)
+VolkovDmitri: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [4s 8d Js]
+jl45259071: checks
+VolkovDmitri: bets $3
+jl45259071: calls $3
+*** TURN *** [4s 8d Js] [4c]
+jl45259071: checks
+VolkovDmitri: checks
+*** RIVER *** [4s 8d Js 4c] [Kc]
+jl45259071: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+jl45259071: shows [Qc 9c] (a pair of Fours)
+VolkovDmitri: shows [Qh 9d] (a pair of Fours)
+jl45259071 collected $8.82 from pot
+VolkovDmitri collected $8.82 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4s 8d Js 4c Kc]
+Seat 1: VolkovDmitri (button) (small blind) showed [Qh 9d] and won ($8.82) with a pair of Fours
+Seat 2: jl45259071 (big blind) showed [Qc 9c] and won ($8.82) with a pair of Fours
+
+
+PokerStars Hand #146438208925:  Hold'em Limit ($3/$6 USD) - 2016/01/04 4:40:23 ET
+Table 'Sabine' 2-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 2: jl45259071 ($147 in chips)
+VolkovDmitri: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [2s 8h 9c]
+jl45259071: checks
+VolkovDmitri: bets $3
+jl45259071: calls $3
+*** TURN *** [2s 8h 9c] [Qs]
+jl45259071: checks
+VolkovDmitri: checks
+*** RIVER *** [2s 8h 9c Qs] [9s]
+jl45259071: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+jl45259071: shows [Ks 3s] (a flush, King high)
+VolkovDmitri: mucks hand
+jl45259071 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2s 8h 9c Qs 9s]
+Seat 1: VolkovDmitri (button) (small blind) mucked
+Seat 2: jl45259071 (big blind) showed [Ks 3s] and won ($29.50) with a flush, King high
+
+
+PokerStars Hand #146438223163:  Hold'em Limit ($3/$6 USD) - 2016/01/04 4:40:57 ET
+Table 'Sabine' 2-max Seat #2 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 2: jl45259071 ($161.50 in chips)
+jl45259071: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+VolkovDmitri: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [8d 3d 5d]
+VolkovDmitri: bets $3
+jl45259071: calls $3
+*** TURN *** [8d 3d 5d] [7c]
+VolkovDmitri: checks
+jl45259071: checks
+*** RIVER *** [8d 3d 5d 7c] [4h]
+VolkovDmitri: checks
+jl45259071: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+jl45259071: shows [5s Jh] (a pair of Fives)
+VolkovDmitri: mucks hand
+jl45259071 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8d 3d 5d 7c 4h]
+Seat 1: VolkovDmitri (big blind) mucked
+Seat 2: jl45259071 (button) (small blind) showed [5s Jh] and won ($29.50) with a pair of Fives
+
+
+PokerStars Hand #146438235800:  Hold'em Limit ($3/$6 USD) - 2016/01/04 4:41:27 ET
+Table 'Sabine' 2-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 2: jl45259071 ($176 in chips)
+VolkovDmitri: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [6d Ah 8h]
+jl45259071: checks
+VolkovDmitri: bets $3
+jl45259071: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6d Ah 8h]
+Seat 1: VolkovDmitri (button) (small blind) collected ($11.76)
+Seat 2: jl45259071 (big blind) folded on the Flop
+
+
+PokerStars Hand #146438245460:  Hold'em Limit ($3/$6 USD) - 2016/01/04 4:41:51 ET
+Table 'Sabine' 2-max Seat #2 is the button
+Seat 1: VolkovDmitri ($125.76 in chips)
+Seat 2: jl45259071 ($170 in chips)
+jl45259071: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+VolkovDmitri: raises $3 to $6
+jl45259071: raises $3 to $9
+VolkovDmitri: raises $3 to $12
+Betting is capped
+jl45259071: calls $3
+*** FLOP *** [5h 2c 5s]
+VolkovDmitri: bets $3
+jl45259071: calls $3
+*** TURN *** [5h 2c 5s] [3h]
+VolkovDmitri: bets $6
+jl45259071: calls $6
+*** RIVER *** [5h 2c 5s 3h] [7s]
+VolkovDmitri: bets $6
+jl45259071: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Ad Kd] (a pair of Fives)
+jl45259071: shows [As Ks] (a pair of Fives)
+VolkovDmitri collected $26.75 from pot
+jl45259071 collected $26.75 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [5h 2c 5s 3h 7s]
+Seat 1: VolkovDmitri (big blind) showed [Ad Kd] and won ($26.75) with a pair of Fives
+Seat 2: jl45259071 (button) (small blind) showed [As Ks] and won ($26.75) with a pair of Fives
+
+
+PokerStars Hand #146438258707:  Hold'em Limit ($3/$6 USD) - 2016/01/04 4:42:21 ET
+Table 'Sabine' 2-max Seat #1 is the button
+Seat 1: VolkovDmitri ($125.51 in chips)
+Seat 2: jl45259071 ($169.75 in chips)
+VolkovDmitri: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+jl45259071: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [2c Ad 8h]
+jl45259071: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [2c Ad 8h] [6d]
+jl45259071: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [2c Ad 8h 6d] [4h]
+jl45259071: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+jl45259071: shows [Jd Ah] (a pair of Aces)
+VolkovDmitri: mucks hand
+jl45259071 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2c Ad 8h 6d 4h]
+Seat 1: VolkovDmitri (button) (small blind) mucked
+Seat 2: jl45259071 (big blind) showed [Jd Ah] and won ($47.50) with a pair of Aces
+
+
+PokerStars Hand #146438267033:  Hold'em Limit ($3/$6 USD) - 2016/01/04 4:42:41 ET
+Table 'Sabine' 2-max Seat #2 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 2: jl45259071 ($193.25 in chips)
+jl45259071: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+VolkovDmitri: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [Jh 8c Qd]
+VolkovDmitri: bets $3
+jl45259071: calls $3
+*** TURN *** [Jh 8c Qd] [8s]
+VolkovDmitri: bets $6
+jl45259071: calls $6
+*** RIVER *** [Jh 8c Qd 8s] [5d]
+VolkovDmitri: bets $6
+jl45259071: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $29.50 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Jh 8c Qd 8s 5d]
+Seat 1: VolkovDmitri (big blind) collected ($29.50)
+Seat 2: jl45259071 (button) (small blind) folded on the River
+
+
+PokerStars Hand #146438279618:  Hold'em Limit ($3/$6 USD) - 2016/01/04 4:43:11 ET
+Table 'Sabine' 2-max Seat #2 is the button
+Seat 1: VolkovDmitri ($140.26 in chips)
+Seat 2: jl45259071 ($172.25 in chips)
+jl45259071: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: VolkovDmitri (big blind) collected ($2)
+Seat 2: jl45259071 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #146438274961:  Hold'em Limit ($3/$6 USD) - 2016/01/04 4:43:00 ET
+Table 'Sabine' 2-max Seat #1 is the button
+Seat 1: VolkovDmitri ($134.50 in chips)
+Seat 2: jl45259071 ($178.25 in chips)
+VolkovDmitri: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [8s Th Kc]
+jl45259071: checks
+VolkovDmitri: bets $3
+jl45259071: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8s Th Kc]
+Seat 1: VolkovDmitri (button) (small blind) collected ($11.76)
+Seat 2: jl45259071 (big blind) folded on the Flop
+
+
+PokerStars Hand #146438281765:  Hold'em Limit ($3/$6 USD) - 2016/01/04 4:43:16 ET
+Table 'Sabine' 2-max Seat #1 is the button
+Seat 1: VolkovDmitri ($141.26 in chips)
+Seat 2: jl45259071 ($171.25 in chips)
+VolkovDmitri: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: folds
+Uncalled bet ($2) returned to jl45259071
+jl45259071 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: VolkovDmitri (button) (small blind) folded before Flop
+Seat 2: jl45259071 (big blind) collected ($2)
+
+
+PokerStars Hand #146438286162:  Hold'em Limit ($3/$6 USD) - 2016/01/04 4:43:27 ET
+Table 'Sabine' 2-max Seat #2 is the button
+Seat 1: VolkovDmitri ($140.26 in chips)
+Seat 2: jl45259071 ($172.25 in chips)
+jl45259071: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: VolkovDmitri (big blind) collected ($2)
+Seat 2: jl45259071 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #146438288441:  Hold'em Limit ($3/$6 USD) - 2016/01/04 4:43:32 ET
+Table 'Sabine' 2-max Seat #1 is the button
+Seat 1: VolkovDmitri ($141.26 in chips)
+Seat 2: jl45259071 ($171.25 in chips)
+VolkovDmitri: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [9s Jc 7s]
+jl45259071: checks
+VolkovDmitri: bets $3
+jl45259071: calls $3
+*** TURN *** [9s Jc 7s] [5h]
+jl45259071: checks
+VolkovDmitri: checks
+*** RIVER *** [9s Jc 7s 5h] [2d]
+jl45259071: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+jl45259071: shows [9d Tc] (a pair of Nines)
+VolkovDmitri: mucks hand
+jl45259071 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9s Jc 7s 5h 2d]
+Seat 1: VolkovDmitri (button) (small blind) mucked
+Seat 2: jl45259071 (big blind) showed [9d Tc] and won ($29.50) with a pair of Nines
+
+
+PokerStars Hand #146438300804:  Hold'em Limit ($3/$6 USD) - 2016/01/04 4:44:01 ET
+Table 'Sabine' 2-max Seat #2 is the button
+Seat 1: VolkovDmitri ($126.26 in chips)
+Seat 2: jl45259071 ($185.75 in chips)
+jl45259071: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+VolkovDmitri: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [Jc Qd Jd]
+VolkovDmitri: bets $3
+jl45259071: calls $3
+*** TURN *** [Jc Qd Jd] [4c]
+VolkovDmitri: bets $6
+jl45259071: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $17.64 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Jc Qd Jd 4c]
+Seat 1: VolkovDmitri (big blind) collected ($17.64)
+Seat 2: jl45259071 (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #146438307068:  Hold'em Limit ($3/$6 USD) - 2016/01/04 4:44:16 ET
+Table 'Sabine' 2-max Seat #1 is the button
+Seat 1: VolkovDmitri ($134.90 in chips)
+Seat 2: jl45259071 ($176.75 in chips)
+VolkovDmitri: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [5d Qs 6s]
+jl45259071: checks
+VolkovDmitri: bets $3
+jl45259071: calls $3
+*** TURN *** [5d Qs 6s] [Td]
+jl45259071: checks
+VolkovDmitri: bets $6
+jl45259071: calls $6
+*** RIVER *** [5d Qs 6s Td] [9h]
+jl45259071: checks
+VolkovDmitri: bets $6
+jl45259071: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Jh Jd] (a pair of Jacks)
+jl45259071: mucks hand
+VolkovDmitri collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [5d Qs 6s Td 9h]
+Seat 1: VolkovDmitri (button) (small blind) showed [Jh Jd] and won ($41.50) with a pair of Jacks
+Seat 2: jl45259071 (big blind) mucked
+
+
+PokerStars Hand #146438321709:  Hold'em Limit ($3/$6 USD) - 2016/01/04 4:44:50 ET
+Table 'Sabine' 2-max Seat #2 is the button
+Seat 1: VolkovDmitri ($155.40 in chips)
+Seat 2: jl45259071 ($155.75 in chips)
+jl45259071: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+VolkovDmitri: checks
+*** FLOP *** [8c Ad 3d]
+VolkovDmitri: bets $3
+jl45259071: calls $3
+*** TURN *** [8c Ad 3d] [6c]
+VolkovDmitri: bets $6
+jl45259071: raises $6 to $12
+VolkovDmitri: calls $6
+*** RIVER *** [8c Ad 3d 6c] [7s]
+VolkovDmitri: bets $6
+jl45259071: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [5c 4s] (a straight, Four to Eight)
+jl45259071: mucks hand
+VolkovDmitri collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8c Ad 3d 6c 7s]
+Seat 1: VolkovDmitri (big blind) showed [5c 4s] and won ($47.50) with a straight, Four to Eight
+Seat 2: jl45259071 (button) (small blind) mucked
+
+
+PokerStars Hand #146438341200:  Hold'em Limit ($3/$6 USD) - 2016/01/04 4:45:36 ET
+Table 'Sabine' 2-max Seat #1 is the button
+Seat 1: VolkovDmitri ($178.90 in chips)
+Seat 2: jl45259071 ($131.75 in chips)
+VolkovDmitri: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [9c 9d 7c]
+jl45259071: checks
+VolkovDmitri: bets $3
+jl45259071: calls $3
+*** TURN *** [9c 9d 7c] [6c]
+jl45259071: checks
+VolkovDmitri: bets $6
+jl45259071: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $17.64 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9c 9d 7c 6c]
+Seat 1: VolkovDmitri (button) (small blind) collected ($17.64)
+Seat 2: jl45259071 (big blind) folded on the Turn
+
+

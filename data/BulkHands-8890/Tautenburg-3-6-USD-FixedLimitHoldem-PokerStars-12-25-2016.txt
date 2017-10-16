@@ -1,0 +1,406 @@
+PokerStars Hand #163482270949:  Hold'em Limit ($3/$6 USD) - 2016/12/25 3:51:15 ET
+Table 'Tautenburg' 6-max Seat #3 is the button
+Seat 3: capoking ($100.50 in chips)
+Seat 4: AzureCaper ($72 in chips)
+capoking: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+capoking: folds
+Uncalled bet ($2) returned to AzureCaper
+AzureCaper collected $2 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: capoking (button) (small blind) folded before Flop
+Seat 4: AzureCaper (big blind) collected ($2)
+
+
+PokerStars Hand #163482261763:  Hold'em Limit ($3/$6 USD) - 2016/12/25 3:50:48 ET
+Table 'Tautenburg' 6-max Seat #4 is the button
+Seat 3: capoking ($80 in chips)
+Seat 4: AzureCaper ($72 in chips)
+AzureCaper: posts small blind $1
+sim5sim5: is sitting out
+capoking: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+capoking: calls $3
+*** FLOP *** [7s 8h 4s]
+capoking: checks
+AzureCaper: bets $3
+capoking: calls $3
+*** TURN *** [7s 8h 4s] [Qc]
+capoking: checks
+AzureCaper: bets $6
+capoking: calls $6
+*** RIVER *** [7s 8h 4s Qc] [8s]
+capoking: checks
+sim5sim5 leaves the table
+AzureCaper: bets $6
+capoking: calls $6
+*** SHOW DOWN ***
+AzureCaper: shows [9c Jd] (a pair of Eights)
+capoking: shows [Kc 9d] (a pair of Eights - King kicker)
+capoking collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [7s 8h 4s Qc 8s]
+Seat 3: capoking (big blind) showed [Kc 9d] and won ($41.50) with a pair of Eights
+Seat 4: AzureCaper (button) (small blind) showed [9c Jd] and lost with a pair of Eights
+
+
+PokerStars Hand #163482272701:  Hold'em Limit ($3/$6 USD) - 2016/12/25 3:51:21 ET
+Table 'Tautenburg' 6-max Seat #4 is the button
+Seat 3: capoking ($99.50 in chips)
+Seat 4: AzureCaper ($73 in chips)
+AzureCaper: posts small blind $1
+capoking: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+capoking: calls $3
+*** FLOP *** [Kc 7s Kd]
+capoking: checks
+AzureCaper: bets $3
+capoking: calls $3
+*** TURN *** [Kc 7s Kd] [9c]
+capoking: checks
+AzureCaper: bets $6
+capoking: raises $6 to $12
+AzureCaper: raises $6 to $18
+capoking: calls $6
+*** RIVER *** [Kc 7s Kd 9c] [6h]
+capoking: checks
+AzureCaper: checks
+*** SHOW DOWN ***
+capoking: shows [Ks 5d] (three of a kind, Kings)
+AzureCaper: mucks hand
+capoking collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Kc 7s Kd 9c 6h]
+Seat 3: capoking (big blind) showed [Ks 5d] and won ($53.50) with three of a kind, Kings
+Seat 4: AzureCaper (button) (small blind) mucked
+
+
+PokerStars Hand #163482280549:  Hold'em Limit ($3/$6 USD) - 2016/12/25 3:51:44 ET
+Table 'Tautenburg' 6-max Seat #3 is the button
+Seat 3: capoking ($126 in chips)
+Seat 4: AzureCaper ($72 in chips)
+capoking: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+capoking: raises $3 to $6
+AzureCaper: raises $3 to $9
+capoking: calls $3
+*** FLOP *** [2c Kc Ah]
+AzureCaper: bets $3
+capoking: calls $3
+*** TURN *** [2c Kc Ah] [Td]
+AzureCaper: bets $6
+capoking: raises $6 to $12
+AzureCaper: raises $6 to $18
+capoking: raises $6 to $24
+Betting is capped
+AzureCaper: calls $6
+*** RIVER *** [2c Kc Ah Td] [6s]
+AzureCaper: checks
+capoking: bets $6
+AzureCaper: raises $6 to $12
+capoking: calls $6
+*** SHOW DOWN ***
+AzureCaper: shows [Qs Js] (a straight, Ten to Ace)
+capoking: mucks hand
+AzureCaper collected $95.50 from pot
+*** SUMMARY ***
+Total pot $96 | Rake $0.50
+Board [2c Kc Ah Td 6s]
+Seat 3: capoking (button) (small blind) mucked
+Seat 4: AzureCaper (big blind) showed [Qs Js] and won ($95.50) with a straight, Ten to Ace
+
+
+PokerStars Hand #163484856885:  Hold'em Limit ($3/$6 USD) - 2016/12/25 5:37:37 ET
+Table 'Tautenburg' 6-max Seat #3 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 3: Ahjorth87 ($70 in chips)
+Ahjorth87: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+FrankyTude joins the table at seat #2
+Ahjorth87: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [8h 2s 8s]
+VolkovDmitri: checks
+Ahjorth87: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [8h 2s 8s] [Jd]
+VolkovDmitri: checks
+Ahjorth87: checks
+*** RIVER *** [8h 2s 8s Jd] [Ts]
+VolkovDmitri: bets $6
+Ahjorth87: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [6h 7c] (a pair of Eights)
+Ahjorth87: shows [Ac 6c] (a pair of Eights - Ace kicker)
+Ahjorth87 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8h 2s 8s Jd Ts]
+Seat 1: VolkovDmitri (big blind) showed [6h 7c] and lost with a pair of Eights
+Seat 3: Ahjorth87 (button) (small blind) showed [Ac 6c] and won ($29.50) with a pair of Eights
+
+
+PokerStars Hand #163489959341:  Hold'em Limit ($3/$6 USD) - 2016/12/25 8:22:37 ET
+Table 'Tautenburg' 6-max Seat #4 is the button
+Seat 3: javel ($139 in chips)
+Seat 4: MellivoraSto ($107.31 in chips)
+MellivoraSto: posts small blind $1
+javel: posts big blind $3
+*** HOLE CARDS ***
+MellivoraSto: folds
+Uncalled bet ($2) returned to javel
+javel collected $2 from pot
+javel: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: javel (big blind) collected ($2)
+Seat 4: MellivoraSto (button) (small blind) folded before Flop
+
+
+PokerStars Hand #163489979108:  Hold'em Limit ($3/$6 USD) - 2016/12/25 8:23:11 ET
+Table 'Tautenburg' 6-max Seat #4 is the button
+Seat 3: javel ($116 in chips)
+Seat 4: MellivoraSto ($129.81 in chips)
+MellivoraSto: posts small blind $1
+javel: posts big blind $3
+*** HOLE CARDS ***
+MellivoraSto: raises $3 to $6
+javel: raises $3 to $9
+MellivoraSto: calls $3
+*** FLOP *** [5d Qc 4h]
+javel: bets $3
+MellivoraSto: calls $3
+*** TURN *** [5d Qc 4h] [Ts]
+javel: bets $6
+MellivoraSto: raises $6 to $12
+javel: calls $6
+*** RIVER *** [5d Qc 4h Ts] [7d]
+javel: checks
+MellivoraSto: bets $6
+javel: calls $6
+*** SHOW DOWN ***
+MellivoraSto: shows [6s Qh] (a pair of Queens)
+javel: mucks hand
+MellivoraSto collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [5d Qc 4h Ts 7d]
+Seat 3: javel (big blind) mucked
+Seat 4: MellivoraSto (button) (small blind) showed [6s Qh] and won ($59.50) with a pair of Queens
+
+
+PokerStars Hand #163489965089:  Hold'em Limit ($3/$6 USD) - 2016/12/25 8:22:47 ET
+Table 'Tautenburg' 6-max Seat #3 is the button
+Seat 3: javel ($140 in chips)
+Seat 4: MellivoraSto ($106.31 in chips)
+javel: posts small blind $1
+MellivoraSto: posts big blind $3
+*** HOLE CARDS ***
+javel: raises $3 to $6
+MellivoraSto: calls $3
+*** FLOP *** [7s 2h 6h]
+MellivoraSto: checks
+javel: bets $3
+MellivoraSto: raises $3 to $6
+javel: calls $3
+*** TURN *** [7s 2h 6h] [5d]
+MellivoraSto: bets $6
+javel: calls $6
+*** RIVER *** [7s 2h 6h 5d] [6d]
+MellivoraSto: bets $6
+javel: calls $6
+*** SHOW DOWN ***
+MellivoraSto: shows [7h 8s] (two pair, Sevens and Sixes)
+javel: mucks hand
+MellivoraSto collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7s 2h 6h 5d 6d]
+Seat 3: javel (button) (small blind) mucked
+Seat 4: MellivoraSto (big blind) showed [7h 8s] and won ($47.50) with two pair, Sevens and Sixes
+
+
+PokerStars Hand #163489996081:  Hold'em Limit ($3/$6 USD) - 2016/12/25 8:23:40 ET
+Table 'Tautenburg' 6-max Seat #3 is the button
+Seat 3: javel ($86 in chips)
+Seat 4: MellivoraSto ($159.31 in chips)
+javel: posts small blind $1
+MellivoraSto: posts big blind $3
+*** HOLE CARDS ***
+javel: raises $3 to $6
+MellivoraSto: calls $3
+*** FLOP *** [9s 6d Qh]
+MellivoraSto: checks
+javel: bets $3
+MellivoraSto: calls $3
+*** TURN *** [9s 6d Qh] [Kh]
+MellivoraSto: checks
+javel: bets $6
+MellivoraSto: raises $6 to $12
+javel: calls $6
+*** RIVER *** [9s 6d Qh Kh] [2s]
+MellivoraSto: bets $6
+javel: folds
+Uncalled bet ($6) returned to MellivoraSto
+MellivoraSto collected $41.50 from pot
+MellivoraSto: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9s 6d Qh Kh 2s]
+Seat 3: javel (button) (small blind) folded on the River
+Seat 4: MellivoraSto (big blind) collected ($41.50)
+
+
+PokerStars Hand #163490013912:  Hold'em Limit ($3/$6 USD) - 2016/12/25 8:24:11 ET
+Table 'Tautenburg' 6-max Seat #4 is the button
+Seat 3: javel ($65 in chips)
+Seat 4: MellivoraSto ($179.81 in chips)
+MellivoraSto: posts small blind $1
+javel: posts big blind $3
+*** HOLE CARDS ***
+MellivoraSto: raises $3 to $6
+javel: calls $3
+*** FLOP *** [5c 5h 9d]
+javel: checks
+MellivoraSto: bets $3
+javel: folds
+Uncalled bet ($3) returned to MellivoraSto
+MellivoraSto collected $11.76 from pot
+MellivoraSto: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5c 5h 9d]
+Seat 3: javel (big blind) folded on the Flop
+Seat 4: MellivoraSto (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #163490021076:  Hold'em Limit ($3/$6 USD) - 2016/12/25 8:24:23 ET
+Table 'Tautenburg' 6-max Seat #3 is the button
+Seat 3: javel ($59 in chips)
+Seat 4: MellivoraSto ($185.57 in chips)
+javel: posts small blind $1
+MellivoraSto: posts big blind $3
+*** HOLE CARDS ***
+javel: raises $3 to $6
+MellivoraSto: folds
+Uncalled bet ($3) returned to javel
+Profitables joins the table at seat #5
+XJZD joins the table at seat #6
+javel collected $6 from pot
+javel: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: javel (button) (small blind) collected ($6)
+Seat 4: MellivoraSto (big blind) folded before Flop
+
+
+PokerStars Hand #163490332539:  Hold'em Limit ($3/$6 USD) - 2016/12/25 8:33:10 ET
+Table 'Tautenburg' 6-max Seat #6 is the button
+Seat 4: MellivoraSto ($312.10 in chips)
+Seat 6: XJZD ($48.68 in chips)
+parnishka11 leaves the table
+vitamin168 joins the table at seat #2
+XJZD: posts small blind $1
+MellivoraSto: posts big blind $3
+*** HOLE CARDS ***
+XJZD: raises $3 to $6
+MellivoraSto: calls $3
+*** FLOP *** [5c Jh Ts]
+MellivoraSto: bets $3
+XJZD: raises $3 to $6
+MellivoraSto: calls $3
+*** TURN *** [5c Jh Ts] [Kh]
+MellivoraSto: checks
+XJZD: bets $6
+MellivoraSto: raises $6 to $12
+XJZD: folds
+Uncalled bet ($6) returned to MellivoraSto
+MellivoraSto collected $35.50 from pot
+MellivoraSto: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5c Jh Ts Kh]
+Seat 4: MellivoraSto (big blind) collected ($35.50)
+Seat 6: XJZD (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #163490358684:  Hold'em Limit ($3/$6 USD) - 2016/12/25 8:33:54 ET
+Table 'Tautenburg' 6-max Seat #4 is the button
+Seat 4: MellivoraSto ($329.60 in chips)
+Seat 6: XJZD ($30.68 in chips)
+MellivoraSto: posts small blind $1
+XJZD: posts big blind $3
+*** HOLE CARDS ***
+MellivoraSto: raises $3 to $6
+XJZD: calls $3
+*** FLOP *** [7c Th Qd]
+XJZD: bets $3
+MellivoraSto: folds
+Uncalled bet ($3) returned to XJZD
+XJZD collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7c Th Qd]
+Seat 4: MellivoraSto (button) (small blind) folded on the Flop
+Seat 6: XJZD (big blind) collected ($11.76)
+
+
+PokerStars Hand #163491714155:  Hold'em Limit ($3/$6 USD) - 2016/12/25 9:11:49 ET
+Table 'Tautenburg' 6-max Seat #4 is the button
+Seat 3: Hannibal2211 ($72 in chips)
+Seat 4: MellivoraSto ($351.03 in chips)
+MellivoraSto: posts small blind $1
+Hannibal2211: posts big blind $3
+*** HOLE CARDS ***
+MellivoraSto: folds
+Uncalled bet ($2) returned to Hannibal2211
+Hannibal2211 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: Hannibal2211 (big blind) collected ($2)
+Seat 4: MellivoraSto (button) (small blind) folded before Flop
+
+
+PokerStars Hand #163491710648:  Hold'em Limit ($3/$6 USD) - 2016/12/25 9:11:43 ET
+Table 'Tautenburg' 6-max Seat #3 is the button
+Seat 3: Hannibal2211 ($73 in chips)
+Seat 4: MellivoraSto ($350.03 in chips)
+Hannibal2211: posts small blind $1
+MellivoraSto: posts big blind $3
+*** HOLE CARDS ***
+Hannibal2211: folds
+Uncalled bet ($2) returned to MellivoraSto
+MellivoraSto collected $2 from pot
+MellivoraSto: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: Hannibal2211 (button) (small blind) folded before Flop
+Seat 4: MellivoraSto (big blind) collected ($2)
+
+
+PokerStars Hand #163491707062:  Hold'em Limit ($3/$6 USD) - 2016/12/25 9:11:38 ET
+Table 'Tautenburg' 6-max Seat #4 is the button
+Seat 3: Hannibal2211 ($72 in chips)
+Seat 4: MellivoraSto ($351.03 in chips)
+MellivoraSto: posts small blind $1
+Hannibal2211: posts big blind $3
+*** HOLE CARDS ***
+MellivoraSto: folds
+Uncalled bet ($2) returned to Hannibal2211
+Geringste1 leaves the table
+Hannibal2211 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: Hannibal2211 (big blind) collected ($2)
+Seat 4: MellivoraSto (button) (small blind) folded before Flop
+
+

@@ -1,0 +1,113 @@
+PokerStars Hand #159431062454:  Hold'em Limit ($3/$6 USD) - 2016/10/03 15:05:29 ET
+Table 'Gomeisa' 6-max Seat #6 is the button
+Seat 4: RabbitNrAS ($36 in chips)
+Seat 6: kolaz03 ($72 in chips)
+kolaz03: posts small blind $1
+RabbitNrAS: posts big blind $3
+*** HOLE CARDS ***
+kolaz03: raises $3 to $6
+RabbitNrAS: calls $3
+*** FLOP *** [5s 7c 8h]
+RabbitNrAS: checks
+kolaz03: bets $3
+RabbitNrAS: calls $3
+*** TURN *** [5s 7c 8h] [Th]
+RabbitNrAS: checks
+mareshkin joins the table at seat #1
+kolaz03: checks
+*** RIVER *** [5s 7c 8h Th] [Tc]
+RabbitNrAS: bets $6
+kolaz03: calls $6
+*** SHOW DOWN ***
+RabbitNrAS: shows [9h Ac] (a pair of Tens)
+kolaz03: shows [Qc As] (a pair of Tens - Ace+Queen kicker)
+kolaz03 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5s 7c 8h Th Tc]
+Seat 4: RabbitNrAS (big blind) showed [9h Ac] and lost with a pair of Tens
+Seat 6: kolaz03 (button) (small blind) showed [Qc As] and won ($29.50) with a pair of Tens
+
+
+PokerStars Hand #159431095347:  Hold'em Limit ($3/$6 USD) - 2016/10/03 15:06:05 ET
+Table 'Gomeisa' 6-max Seat #4 is the button
+Seat 4: RabbitNrAS ($21 in chips)
+Seat 6: kolaz03 ($86.50 in chips)
+RabbitNrAS: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+RabbitNrAS: raises $3 to $6
+kolaz03: calls $3
+*** FLOP *** [5h Td Qh]
+kolaz03: checks
+RabbitNrAS: bets $3
+kolaz03: folds
+Uncalled bet ($3) returned to RabbitNrAS
+RabbitNrAS collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5h Td Qh]
+Seat 4: RabbitNrAS (button) (small blind) collected ($11.76)
+Seat 6: kolaz03 (big blind) folded on the Flop
+
+
+PokerStars Hand #159431251020:  Hold'em Limit ($3/$6 USD) - 2016/10/03 15:08:51 ET
+Table 'Gomeisa' 6-max Seat #3 is the button
+Seat 3: ogdealer ($54.71 in chips)
+Seat 5: kolaz03 ($87.06 in chips)
+TheU10 will be allowed to play after the button
+ogdealer: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+ogdealer: calls $2
+kolaz03: checks
+*** FLOP *** [Th 4d 6h]
+kolaz03: bets $3
+ogdealer: folds
+Uncalled bet ($3) returned to kolaz03
+kolaz03 collected $5.88 from pot
+kolaz03: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Th 4d 6h]
+Seat 3: ogdealer (button) (small blind) folded on the Flop
+Seat 5: kolaz03 (big blind) collected ($5.88)
+
+
+PokerStars Hand #159432432341:  Hold'em Limit ($3/$6 USD) - 2016/10/03 15:30:23 ET
+Table 'Gomeisa' 6-max Seat #6 is the button
+Seat 3: Tnz204 ($352.33 in chips)
+Seat 6: ToDaFelt ($101.64 in chips)
+ToDaFelt: posts small blind $1
+humlefar: is sitting out
+TheU10: is sitting out
+Tnz204: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+Tnz204: calls $3
+*** FLOP *** [3c Qc Ks]
+humlefar leaves the table
+TheU10 leaves the table
+Tnz204: checks
+ToDaFelt: bets $3
+Tnz204: calls $3
+*** TURN *** [3c Qc Ks] [4s]
+Tnz204: checks
+Krazy90 joins the table at seat #5
+ToDaFelt: bets $6
+Tnz204: raises $6 to $12
+ToDaFelt: calls $6
+*** RIVER *** [3c Qc Ks 4s] [Tc]
+Tnz204: bets $6
+ToDaFelt: raises $6 to $12
+Tnz204: folds
+Uncalled bet ($6) returned to ToDaFelt
+ToDaFelt collected $53.50 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [3c Qc Ks 4s Tc]
+Seat 3: Tnz204 (big blind) folded on the River
+Seat 6: ToDaFelt (button) (small blind) collected ($53.50)
+
+

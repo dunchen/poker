@@ -1,0 +1,79 @@
+PokerStars Hand #169864761824:  Hold'em Limit ($3/$6 USD) - 2017/05/02 15:01:56 ET
+Table 'Vibeke' 10-max Seat #10 is the button
+Seat 6: SEVER4815 ($50.05 in chips)
+Seat 10: Jack_Wu1985 ($120 in chips)
+Jack_Wu1985: posts small blind $1
+SEVER4815: posts big blind $3
+*** HOLE CARDS ***
+Jack_Wu1985: folds
+Uncalled bet ($2) returned to SEVER4815
+SEVER4815 collected $2 from pot
+SEVER4815: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 6: SEVER4815 (big blind) collected ($2)
+Seat 10: Jack_Wu1985 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #169864765719:  Hold'em Limit ($3/$6 USD) - 2017/05/02 15:02:01 ET
+Table 'Vibeke' 10-max Seat #6 is the button
+Seat 6: SEVER4815 ($51.05 in chips)
+Seat 10: Jack_Wu1985 ($119 in chips)
+SEVER4815: posts small blind $1
+Jack_Wu1985: posts big blind $3
+*** HOLE CARDS ***
+SEVER4815: raises $3 to $6
+Chessnok joins the table at seat #7
+Jack_Wu1985: raises $3 to $9
+SEVER4815: calls $3
+*** FLOP *** [5s 3d 2d]
+Jack_Wu1985: bets $3
+SEVER4815: calls $3
+*** TURN *** [5s 3d 2d] [2s]
+Jack_Wu1985: bets $6
+SEVER4815: calls $6
+*** RIVER *** [5s 3d 2d 2s] [7d]
+Jack_Wu1985: bets $6
+SEVER4815: raises $6 to $12
+Jack_Wu1985: raises $6 to $18
+SEVER4815: calls $6
+*** SHOW DOWN ***
+Jack_Wu1985: shows [Td 9d] (a flush, Ten high)
+SEVER4815: mucks hand
+Jack_Wu1985 collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [5s 3d 2d 2s 7d]
+Seat 6: SEVER4815 (button) (small blind) mucked
+Seat 10: Jack_Wu1985 (big blind) showed [Td 9d] and won ($71.50) with a flush, Ten high
+
+
+PokerStars Hand #169864790975:  Hold'em Limit ($3/$6 USD) - 2017/05/02 15:02:34 ET
+Table 'Vibeke' 10-max Seat #10 is the button
+Seat 6: SEVER4815 ($15.05 in chips)
+Seat 10: Jack_Wu1985 ($154.50 in chips)
+Jack_Wu1985: posts small blind $1
+SEVER4815: posts big blind $3
+*** HOLE CARDS ***
+Jack_Wu1985: raises $3 to $6
+SEVER4815: raises $3 to $9
+Jack_Wu1985: calls $3
+*** FLOP *** [Js Jc 2s]
+SEVER4815: bets $3
+simper11 leaves the table
+Jack_Wu1985: calls $3
+*** TURN *** [Js Jc 2s] [4s]
+SEVER4815: bets $3.05 and is all-in
+Jack_Wu1985: calls $3.05
+*** RIVER *** [Js Jc 2s 4s] [3h]
+*** SHOW DOWN ***
+SEVER4815: shows [Ac Kh] (a pair of Jacks)
+Jack_Wu1985: shows [As 3c] (two pair, Jacks and Threes)
+Jack_Wu1985 collected $29.60 from pot
+*** SUMMARY ***
+Total pot $30.10 | Rake $0.50
+Board [Js Jc 2s 4s 3h]
+Seat 6: SEVER4815 (big blind) showed [Ac Kh] and lost with a pair of Jacks
+Seat 10: Jack_Wu1985 (button) (small blind) showed [As 3c] and won ($29.60) with two pair, Jacks and Threes
+
+

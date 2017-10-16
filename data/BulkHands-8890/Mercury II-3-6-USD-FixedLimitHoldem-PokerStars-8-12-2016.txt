@@ -1,0 +1,31 @@
+PokerStars Hand #157196524068:  Hold'em Limit ($3/$6 USD) - 2016/08/12 16:25:19 ET
+Table 'Mercury II' 6-max Seat #2 is the button
+Seat 2: shushlo ($72 in chips)
+Seat 3: simper11 ($120 in chips)
+shushlo: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+shushlo: raises $3 to $6
+simper11: calls $3
+*** FLOP *** [Qd 7s 8c]
+simper11: checks
+shushlo: checks
+*** TURN *** [Qd 7s 8c] [Ks]
+simper11: checks
+Hadart joins the table at seat #5
+shushlo: checks
+*** RIVER *** [Qd 7s 8c Ks] [Ah]
+simper11: checks
+shushlo: bets $6
+simper11: calls $6
+*** SHOW DOWN ***
+shushlo: shows [Ac 4d] (a pair of Aces)
+simper11: mucks hand
+shushlo collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Qd 7s 8c Ks Ah]
+Seat 2: shushlo (button) (small blind) showed [Ac 4d] and won ($23.52) with a pair of Aces
+Seat 3: simper11 (big blind) mucked
+
+

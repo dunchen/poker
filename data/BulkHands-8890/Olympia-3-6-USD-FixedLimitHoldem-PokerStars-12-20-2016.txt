@@ -1,0 +1,33 @@
+PokerStars Hand #163218464283:  Hold'em Limit ($3/$6 USD) - 2016/12/19 19:18:14 ET
+Table 'Olympia' 6-max Seat #1 is the button
+Seat 1: LifeisagameX ($84 in chips)
+Seat 2: ChasingAc918 ($30.19 in chips)
+LifeisagameX: posts small blind $1
+ChasingAc918: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+ChasingAc918: calls $3
+*** FLOP *** [4d 7d 6h]
+ChasingAc918: checks
+GRAILKO joins the table at seat #3
+LifeisagameX: bets $3
+ChasingAc918: calls $3
+*** TURN *** [4d 7d 6h] [2h]
+ChasingAc918: checks
+LifeisagameX: bets $6
+ChasingAc918: raises $6 to $12
+LifeisagameX: calls $6
+*** RIVER *** [4d 7d 6h 2h] [Jh]
+ChasingAc918: bets $6
+LifeisagameX: calls $6
+*** SHOW DOWN ***
+ChasingAc918: shows [5c 7c] (a pair of Sevens)
+LifeisagameX: shows [9s 7s] (a pair of Sevens - Jack+Nine kicker)
+LifeisagameX collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [4d 7d 6h 2h Jh]
+Seat 1: LifeisagameX (button) (small blind) showed [9s 7s] and won ($53.50) with a pair of Sevens
+Seat 2: ChasingAc918 (big blind) showed [5c 7c] and lost with a pair of Sevens
+
+

@@ -1,0 +1,110 @@
+PokerStars Hand #168740794033:  Hold'em Limit ($3/$6 USD) - 2017/04/08 5:57:27 ET
+Table 'Arago' 6-max Seat #1 is the button
+Seat 1: Agrotait ($72 in chips)
+Seat 2: diRon1980 ($46.65 in chips)
+Agrotait: posts small blind $1
+diRon1980: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: folds
+Uncalled bet ($2) returned to diRon1980
+Paulllchen joins the table at seat #4
+diRon1980 collected $2 from pot
+diRon1980: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Agrotait (button) (small blind) folded before Flop
+Seat 2: diRon1980 (big blind) collected ($2)
+
+
+PokerStars Hand #168740826559:  Hold'em Limit ($3/$6 USD) - 2017/04/08 5:58:53 ET
+Table 'Arago' 6-max Seat #1 is the button
+Seat 1: Agrotait ($69.09 in chips)
+Seat 4: Paulllchen ($119.82 in chips)
+Agrotait: posts small blind $1
+Paulllchen: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+Paulllchen: calls $3
+*** FLOP *** [4c Ac Kc]
+Paulllchen: checks
+Agrotait: bets $3
+Paulllchen: calls $3
+*** TURN *** [4c Ac Kc] [7d]
+Paulllchen: checks
+Agrotait: checks
+*** RIVER *** [4c Ac Kc 7d] [Js]
+Paulllchen: checks
+Agrotait: checks
+*** SHOW DOWN ***
+Paulllchen: shows [6c Kd] (a pair of Kings)
+Agrotait: mucks hand
+Paulllchen collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4c Ac Kc 7d Js]
+Seat 1: Agrotait (button) (small blind) mucked
+Seat 4: Paulllchen (big blind) showed [6c Kd] and won ($17.64) with a pair of Kings
+
+
+PokerStars Hand #168740842295:  Hold'em Limit ($3/$6 USD) - 2017/04/08 5:59:34 ET
+Table 'Arago' 6-max Seat #1 is the button
+Seat 1: Agrotait ($72 in chips)
+Seat 4: Paulllchen ($142.96 in chips)
+Agrotait: posts small blind $1
+Paulllchen: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+Paulllchen: calls $3
+*** FLOP *** [4c Jh 2c]
+Paulllchen: checks
+Agrotait: bets $3
+Paulllchen: raises $3 to $6
+Agrotait: calls $3
+*** TURN *** [4c Jh 2c] [Qc]
+Paulllchen: bets $6
+Agrotait: calls $6
+*** RIVER *** [4c Jh 2c Qc] [Jd]
+diRon1980 joins the table at seat #3
+Paulllchen: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to Paulllchen
+WillemDuit joins the table at seat #6
+Paulllchen collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [4c Jh 2c Qc Jd]
+Seat 1: Agrotait (button) (small blind) folded on the River
+Seat 4: Paulllchen (big blind) collected ($35.50)
+
+
+PokerStars Hand #168740833765:  Hold'em Limit ($3/$6 USD) - 2017/04/08 5:59:12 ET
+Table 'Arago' 6-max Seat #4 is the button
+Seat 1: Agrotait ($60.09 in chips)
+Seat 4: Paulllchen ($128.46 in chips)
+Paulllchen: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+Paulllchen: calls $2
+Agrotait: checks
+*** FLOP *** [Qc 7h Tc]
+Agrotait: bets $3
+Paulllchen: raises $3 to $6
+Agrotait: calls $3
+*** TURN *** [Qc 7h Tc] [4h]
+Agrotait: checks
+Paulllchen: bets $6
+Agrotait: calls $6
+*** RIVER *** [Qc 7h Tc 4h] [9h]
+Agrotait: checks
+Paulllchen: checks
+*** SHOW DOWN ***
+Agrotait: shows [7s 2c] (a pair of Sevens)
+Paulllchen: shows [Qh 5d] (a pair of Queens)
+Paulllchen collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qc 7h Tc 4h 9h]
+Seat 1: Agrotait (big blind) showed [7s 2c] and lost with a pair of Sevens
+Seat 4: Paulllchen (button) (small blind) showed [Qh 5d] and won ($29.50) with a pair of Queens
+
+

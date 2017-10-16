@@ -1,0 +1,63 @@
+PokerStars Hand #161048973817:  Hold'em Limit ($3/$6 USD) - 2016/11/07 13:01:34 ET
+Table 'Clarissa' 6-max Seat #4 is the button
+Seat 4: Great_Kang ($194.39 in chips)
+Seat 5: Psynto ($162.55 in chips)
+Great_Kang: posts small blind $1
+Psynto: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+Psynto: calls $3
+*** FLOP *** [4c 9s 7c]
+Psynto: checks
+Great_Kang: checks
+*** TURN *** [4c 9s 7c] [2d]
+Psynto: bets $6
+Great_Kang: calls $6
+*** RIVER *** [4c 9s 7c 2d] [4d]
+Psynto: bets $6
+Great_Kang: calls $6
+*** SHOW DOWN ***
+Psynto: shows [5h Ac] (a pair of Fours)
+Great_Kang: shows [As Ks] (a pair of Fours - Ace+King kicker)
+Great_Kang collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [4c 9s 7c 2d 4d]
+Seat 4: Great_Kang (button) (small blind) showed [As Ks] and won ($35.50) with a pair of Fours
+Seat 5: Psynto (big blind) showed [5h Ac] and lost with a pair of Fours
+
+
+PokerStars Hand #161048945660:  Hold'em Limit ($3/$6 USD) - 2016/11/07 13:01:00 ET
+Table 'Clarissa' 6-max Seat #5 is the button
+Seat 4: Great_Kang ($176.89 in chips)
+Seat 5: Psynto ($180.55 in chips)
+12kire12: is sitting out
+12kire12 leaves the table
+Psynto: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+Psynto: raises $3 to $6
+Great_Kang: calls $3
+*** FLOP *** [Ks 3s 9d]
+Great_Kang: checks
+Psynto: bets $3
+Great_Kang: raises $3 to $6
+Psynto: calls $3
+*** TURN *** [Ks 3s 9d] [8h]
+Great_Kang: checks
+Psynto: bets $6
+Great_Kang: calls $6
+*** RIVER *** [Ks 3s 9d 8h] [4d]
+Great_Kang: checks
+Psynto: checks
+*** SHOW DOWN ***
+Great_Kang: shows [8s 4s] (two pair, Eights and Fours)
+Psynto: mucks hand
+Great_Kang collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Ks 3s 9d 8h 4d]
+Seat 4: Great_Kang (big blind) showed [8s 4s] and won ($35.50) with two pair, Eights and Fours
+Seat 5: Psynto (button) (small blind) mucked
+
+

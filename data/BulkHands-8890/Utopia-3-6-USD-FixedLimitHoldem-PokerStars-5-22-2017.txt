@@ -1,0 +1,35 @@
+PokerStars Hand #170786960447:  Hold'em Limit ($3/$6 USD) - 2017/05/22 18:29:10 ET
+Table 'Utopia' 6-max Seat #3 is the button
+Seat 3: hairy1961 ($50 in chips)
+Seat 5: TinaTurner72 ($120 in chips)
+hairy1961: posts small blind $1
+TinaTurner72: posts big blind $3
+*** HOLE CARDS ***
+hairy1961: raises $3 to $6
+farnemo joins the table at seat #4
+TinaTurner72: calls $3
+*** FLOP *** [2d 8h Qc]
+TinaTurner72: checks
+hairy1961: bets $3
+TinaTurner72: raises $3 to $6
+hairy1961: raises $3 to $9
+TinaTurner72: calls $3
+*** TURN *** [2d 8h Qc] [4d]
+TinaTurner72: checks
+hairy1961: bets $6
+TinaTurner72: calls $6
+*** RIVER *** [2d 8h Qc 4d] [Ks]
+TinaTurner72: checks
+hairy1961: bets $6
+TinaTurner72: calls $6
+*** SHOW DOWN ***
+hairy1961: shows [As 8s] (a pair of Eights)
+TinaTurner72: mucks hand
+hairy1961 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [2d 8h Qc 4d Ks]
+Seat 3: hairy1961 (button) (small blind) showed [As 8s] and won ($53.50) with a pair of Eights
+Seat 5: TinaTurner72 (big blind) mucked
+
+

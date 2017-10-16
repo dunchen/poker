@@ -1,0 +1,30 @@
+PokerStars Hand #152463392198:  Hold'em Limit ($3/$6 USD) - 2016/04/26 6:01:51 ET
+Table 'Gertrud II' 6-max Seat #3 is the button
+Seat 3: _fayzulllo_ ($69 in chips)
+Seat 4: Agrotait ($72 in chips)
+_fayzulllo_: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [7s Qh 7h]
+Agrotait: checks
+Ale4o joins the table at seat #5
+_fayzulllo_: checks
+*** TURN *** [7s Qh 7h] [Ts]
+Agrotait: bets $6
+_fayzulllo_: calls $6
+*** RIVER *** [7s Qh 7h Ts] [3s]
+Agrotait: checks
+_fayzulllo_: checks
+*** SHOW DOWN ***
+Agrotait: shows [6h 8h] (a pair of Sevens)
+_fayzulllo_: shows [9c Kh] (a pair of Sevens - King kicker)
+_fayzulllo_ collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [7s Qh 7h Ts 3s]
+Seat 3: _fayzulllo_ (button) (small blind) showed [9c Kh] and won ($23.52) with a pair of Sevens
+Seat 4: Agrotait (big blind) showed [6h 8h] and lost with a pair of Sevens
+
+

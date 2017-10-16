@@ -1,0 +1,100 @@
+PokerStars Hand #162316084474:  Hold'em Limit ($3/$6 USD) - 2016/12/02 18:32:51 ET
+Table 'Cyrene' 6-max Seat #3 is the button
+Seat 3: DannyGambIer ($106.23 in chips)
+Seat 4: ToDaFelt ($145 in chips)
+DannyGambIer: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+DannyGambIer: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [Kh 5s Jh]
+ToDaFelt: checks
+DannyGambIer: bets $3
+ToDaFelt: calls $3
+*** TURN *** [Kh 5s Jh] [8c]
+ToDaFelt: checks
+DannyGambIer: bets $6
+ToDaFelt: calls $6
+*** RIVER *** [Kh 5s Jh 8c] [Tc]
+ToDaFelt: checks
+DannyGambIer: checks
+*** SHOW DOWN ***
+ToDaFelt: shows [8h Qd] (a pair of Eights)
+DannyGambIer: shows [Jd As] (a pair of Jacks)
+DannyGambIer collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kh 5s Jh 8c Tc]
+Seat 3: DannyGambIer (button) (small blind) showed [Jd As] and won ($29.50) with a pair of Jacks
+Seat 4: ToDaFelt (big blind) showed [8h Qd] and lost with a pair of Eights
+
+
+PokerStars Hand #162316138608:  Hold'em Limit ($3/$6 USD) - 2016/12/02 18:33:59 ET
+Table 'Cyrene' 6-max Seat #4 is the button
+Seat 3: DannyGambIer ($120.73 in chips)
+Seat 4: ToDaFelt ($130 in chips)
+ToDaFelt: posts small blind $1
+DannyGambIer: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+DannyGambIer: calls $3
+*** FLOP *** [8s Js 6s]
+DannyGambIer: bets $3
+ToDaFelt: calls $3
+*** TURN *** [8s Js 6s] [2h]
+DannyGambIer: bets $6
+ToDaFelt: raises $6 to $12
+DannyGambIer: calls $6
+*** RIVER *** [8s Js 6s 2h] [6d]
+DannyGambIer: checks
+ToDaFelt: bets $6
+DannyGambIer: folds
+Uncalled bet ($6) returned to ToDaFelt
+ToDaFelt collected $41.50 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [8s Js 6s 2h 6d]
+Seat 3: DannyGambIer (big blind) folded on the River
+Seat 4: ToDaFelt (button) (small blind) collected ($41.50)
+
+
+PokerStars Hand #162316176358:  Hold'em Limit ($3/$6 USD) - 2016/12/02 18:34:47 ET
+Table 'Cyrene' 6-max Seat #3 is the button
+Seat 3: DannyGambIer ($99.73 in chips)
+Seat 4: ToDaFelt ($150.50 in chips)
+DannyGambIer: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+DannyGambIer: raises $3 to $6
+ToDaFelt: raises $3 to $9
+DannyGambIer: raises $3 to $12
+Betting is capped
+KristinaMH joins the table at seat #2
+ToDaFelt: calls $3
+*** FLOP *** [Kd Ah 8s]
+ToDaFelt: checks
+DannyGambIer: bets $3
+ToDaFelt: calls $3
+*** TURN *** [Kd Ah 8s] [4h]
+ToDaFelt: checks
+DannyGambIer: bets $6
+ToDaFelt: calls $6
+*** RIVER *** [Kd Ah 8s 4h] [Jc]
+ToDaFelt: checks
+DannyGambIer: bets $6
+ToDaFelt: raises $6 to $12
+DannyGambIer: raises $6 to $18
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+DannyGambIer: shows [Jh Ks] (two pair, Kings and Jacks)
+ToDaFelt: shows [Js Kc] (two pair, Kings and Jacks)
+ToDaFelt collected $38.75 from pot
+DannyGambIer collected $38.75 from pot
+*** SUMMARY ***
+Total pot $78 | Rake $0.50
+Board [Kd Ah 8s 4h Jc]
+Seat 3: DannyGambIer (button) (small blind) showed [Jh Ks] and won ($38.75) with two pair, Kings and Jacks
+Seat 4: ToDaFelt (big blind) showed [Js Kc] and won ($38.75) with two pair, Kings and Jacks
+
+

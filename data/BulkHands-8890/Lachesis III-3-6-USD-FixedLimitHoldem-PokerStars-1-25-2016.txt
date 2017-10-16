@@ -1,0 +1,60 @@
+PokerStars Hand #147627592207:  Hold'em Limit ($3/$6 USD) - 2016/01/24 19:06:30 ET
+Table 'Lachesis III' 6-max Seat #5 is the button
+Seat 2: krytalex ($72 in chips)
+Seat 5: pixifloss ($323.99 in chips)
+pixifloss: posts small blind $1
+krytalex: posts big blind $3
+*** HOLE CARDS ***
+pixifloss: raises $3 to $6
+krytalex: raises $3 to $9
+pixifloss: calls $3
+*** FLOP *** [9d 6d 6c]
+krytalex: bets $3
+pixifloss: calls $3
+*** TURN *** [9d 6d 6c] [4c]
+krytalex: bets $6
+pixifloss: folds
+Uncalled bet ($6) returned to krytalex
+krytalex collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [9d 6d 6c 4c]
+Seat 2: krytalex (big blind) collected ($23.52)
+Seat 5: pixifloss (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #147627546809:  Hold'em Limit ($3/$6 USD) - 2016/01/24 19:05:26 ET
+Table 'Lachesis III' 6-max Seat #2 is the button
+Seat 2: krytalex ($93.71 in chips)
+Seat 5: pixifloss ($300.49 in chips)
+krytalex: posts small blind $1
+GRAILKO: is sitting out
+grabaz: is sitting out
+pixifloss: posts big blind $3
+*** HOLE CARDS ***
+krytalex: raises $3 to $6
+GRAILKO leaves the table
+pixifloss: raises $3 to $9
+grabaz leaves the table
+krytalex: calls $3
+*** FLOP *** [As Qc Qh]
+pixifloss: bets $3
+krytalex: calls $3
+*** TURN *** [As Qc Qh] [7h]
+pixifloss: bets $6
+krytalex: calls $6
+*** RIVER *** [As Qc Qh 7h] [Qd]
+pixifloss: checks
+krytalex: bets $6
+pixifloss: calls $6
+*** SHOW DOWN ***
+krytalex: shows [Js Jd] (a full house, Queens full of Jacks)
+pixifloss: shows [5d Ah] (a full house, Queens full of Aces)
+pixifloss collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [As Qc Qh 7h Qd]
+Seat 2: krytalex (button) (small blind) showed [Js Jd] and lost with a full house, Queens full of Jacks
+Seat 5: pixifloss (big blind) showed [5d Ah] and won ($47.50) with a full house, Queens full of Aces
+
+

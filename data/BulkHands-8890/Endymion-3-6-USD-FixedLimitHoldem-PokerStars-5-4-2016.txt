@@ -1,0 +1,60 @@
+PokerStars Hand #152842124346:  Hold'em Limit ($3/$6 USD) - 2016/05/04 11:09:34 ET
+Table 'Endymion' 6-max Seat #6 is the button
+Seat 3: JayEm82 ($640.71 in chips)
+Seat 6: LolDnkaments ($89.50 in chips)
+LolDnkaments: posts small blind $1
+JayEm82: posts big blind $3
+*** HOLE CARDS ***
+LolDnkaments: raises $3 to $6
+JayEm82: calls $3
+*** FLOP *** [3c 4c 8d]
+JayEm82: checks
+LolDnkaments: checks
+*** TURN *** [3c 4c 8d] [2d]
+JayEm82: bets $6
+LolDnkaments: calls $6
+*** RIVER *** [3c 4c 8d 2d] [Ts]
+JayEm82: bets $6
+LolDnkaments: folds
+Uncalled bet ($6) returned to JayEm82
+JayEm82 collected $23.52 from pot
+JayEm82: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [3c 4c 8d 2d Ts]
+Seat 3: JayEm82 (big blind) collected ($23.52)
+Seat 6: LolDnkaments (button) (small blind) folded on the River
+
+
+PokerStars Hand #152842098789:  Hold'em Limit ($3/$6 USD) - 2016/05/04 11:08:53 ET
+Table 'Endymion' 6-max Seat #3 is the button
+Seat 3: JayEm82 ($658.71 in chips)
+Seat 6: LolDnkaments ($72 in chips)
+JayEm82: posts small blind $1
+LolDnkaments: posts big blind $3
+*** HOLE CARDS ***
+JayEm82: raises $3 to $6
+LolDnkaments: calls $3
+*** FLOP *** [3d Ah 4s]
+LolDnkaments: checks
+Heinzli007 leaves the table
+JayEm82: bets $3
+LolDnkaments: raises $3 to $6
+JayEm82: calls $3
+*** TURN *** [3d Ah 4s] [2c]
+LolDnkaments: checks
+JayEm82: checks
+*** RIVER *** [3d Ah 4s 2c] [Ts]
+LolDnkaments: bets $6
+JayEm82: calls $6
+*** SHOW DOWN ***
+LolDnkaments: shows [2d Ad] (two pair, Aces and Deuces)
+JayEm82: mucks hand
+LolDnkaments collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [3d Ah 4s 2c Ts]
+Seat 3: JayEm82 (button) (small blind) mucked
+Seat 6: LolDnkaments (big blind) showed [2d Ad] and won ($35.50) with two pair, Aces and Deuces
+
+

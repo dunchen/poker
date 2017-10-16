@@ -1,0 +1,60 @@
+PokerStars Hand #146489081495:  Hold'em Limit ($3/$6 USD) - 2016/01/04 22:48:08 ET
+Table 'Ilmari' 2-max Seat #2 is the button
+Seat 1: MAGER911 ($72 in chips)
+Seat 2: markuliana ($30 in chips)
+markuliana: posts small blind $1
+MAGER911: posts big blind $3
+*** HOLE CARDS ***
+markuliana: calls $2
+MAGER911: checks
+*** FLOP *** [Tc 8d 9h]
+MAGER911: checks
+markuliana: checks
+*** TURN *** [Tc 8d 9h] [Kh]
+MAGER911: checks
+markuliana: checks
+*** RIVER *** [Tc 8d 9h Kh] [Ad]
+MAGER911: checks
+markuliana: bets $6
+MAGER911: calls $6
+*** SHOW DOWN ***
+markuliana: shows [5d Th] (a pair of Tens)
+MAGER911: shows [Ks 6d] (a pair of Kings)
+MAGER911 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Tc 8d 9h Kh Ad]
+Seat 1: MAGER911 (big blind) showed [Ks 6d] and won ($17.64) with a pair of Kings
+Seat 2: markuliana (button) (small blind) showed [5d Th] and lost with a pair of Tens
+
+
+PokerStars Hand #146489092742:  Hold'em Limit ($3/$6 USD) - 2016/01/04 22:48:38 ET
+Table 'Ilmari' 2-max Seat #1 is the button
+Seat 1: MAGER911 ($80.64 in chips)
+Seat 2: markuliana ($21 in chips)
+MAGER911: posts small blind $1
+markuliana: posts big blind $3
+*** HOLE CARDS ***
+MAGER911: raises $3 to $6
+markuliana: raises $3 to $9
+MAGER911: calls $3
+*** FLOP *** [Kd 4d 5s]
+markuliana: bets $3
+MAGER911: calls $3
+*** TURN *** [Kd 4d 5s] [7c]
+markuliana: bets $6
+MAGER911: raises $6 to $12
+markuliana: calls $3 and is all-in
+Uncalled bet ($3) returned to MAGER911
+*** RIVER *** [Kd 4d 5s 7c] [2c]
+*** SHOW DOWN ***
+markuliana: shows [As Qh] (high card Ace)
+MAGER911: shows [Kh 6c] (a pair of Kings)
+MAGER911 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Kd 4d 5s 7c 2c]
+Seat 1: MAGER911 (button) (small blind) showed [Kh 6c] and won ($41.50) with a pair of Kings
+Seat 2: markuliana (big blind) showed [As Qh] and lost with high card Ace
+
+

@@ -1,0 +1,31 @@
+PokerStars Hand #174569537595:  Hold'em Limit ($3/$6 USD) - 2017/08/20 10:31:41 ET
+Table 'Pulcherrima' 6-max Seat #5 is the button
+Seat 2: B_loJkl ($67.77 in chips)
+Seat 5: zizonmusang ($37.19 in chips)
+zizonmusang: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+zizonmusang: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [8s 8d Kc]
+B_loJkl: checks
+zizonmusang: checks
+*** TURN *** [8s 8d Kc] [4s]
+B_loJkl: checks
+zizonmusang: bets $6
+B_loJkl: calls $6
+*** RIVER *** [8s 8d Kc 4s] [Tc]
+B_loJkl: checks
+zizonmusang: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+zizonmusang: shows [8h Ac] (three of a kind, Eights)
+B_loJkl: mucks hand
+zizonmusang collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [8s 8d Kc 4s Tc]
+Seat 2: B_loJkl (big blind) mucked
+Seat 5: zizonmusang (button) (small blind) showed [8h Ac] and won ($35.50) with three of a kind, Eights
+
+

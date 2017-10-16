@@ -1,0 +1,32 @@
+PokerStars Hand #172914969354:  Hold'em Limit ($3/$6 USD) - 2017/07/11 19:12:35 ET
+Table 'Jole' 10-max Seat #5 is the button
+Seat 5: simper11 ($120 in chips)
+Seat 6: Scheubi88 ($120 in chips)
+simper11: posts small blind $1
+Scheubi88: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+Scheubi88: raises $3 to $9
+simper11: calls $3
+*** FLOP *** [3s 5s 2h]
+Scheubi88: bets $3
+simper11: raises $3 to $6
+Scheubi88: calls $3
+*** TURN *** [3s 5s 2h] [6h]
+Scheubi88: checks
+simper11: bets $6
+Scheubi88: calls $6
+*** RIVER *** [3s 5s 2h 6h] [3d]
+Scheubi88: checks
+simper11: checks
+*** SHOW DOWN ***
+Scheubi88: shows [8d 7d] (a pair of Threes)
+simper11: shows [Qd 5d] (two pair, Fives and Threes)
+simper11 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [3s 5s 2h 6h 3d]
+Seat 5: simper11 (button) (small blind) showed [Qd 5d] and won ($41.50) with two pair, Fives and Threes
+Seat 6: Scheubi88 (big blind) showed [8d 7d] and lost with a pair of Threes
+
+

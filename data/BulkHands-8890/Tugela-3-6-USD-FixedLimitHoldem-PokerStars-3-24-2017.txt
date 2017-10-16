@@ -1,0 +1,220 @@
+PokerStars Hand #168063132789:  Hold'em Limit ($3/$6 USD) - 2017/03/24 19:27:52 ET
+Table 'Tugela' 6-max Seat #6 is the button
+Seat 1: GRAILKO ($327.79 in chips)
+Seat 6: ManuelSikora ($63.92 in chips)
+ManuelSikora: posts small blind $1
+GRAILKO: posts big blind $3
+*** HOLE CARDS ***
+ManuelSikora: raises $3 to $6
+GRAILKO: calls $3
+*** FLOP *** [Qh 2h 3d]
+GRAILKO: checks
+ManuelSikora: checks
+*** TURN *** [Qh 2h 3d] [Ad]
+GRAILKO: checks
+ManuelSikora: checks
+*** RIVER *** [Qh 2h 3d Ad] [5s]
+GRAILKO: bets $6
+ManuelSikora: calls $6
+*** SHOW DOWN ***
+GRAILKO: shows [9c Qc] (a pair of Queens)
+ManuelSikora: shows [4h 5h] (a straight, Ace to Five)
+ManuelSikora collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Qh 2h 3d Ad 5s]
+Seat 1: GRAILKO (big blind) showed [9c Qc] and lost with a pair of Queens
+Seat 6: ManuelSikora (button) (small blind) showed [4h 5h] and won ($23.52) with a straight, Ace to Five
+
+
+PokerStars Hand #168063109249:  Hold'em Limit ($3/$6 USD) - 2017/03/24 19:27:20 ET
+Table 'Tugela' 6-max Seat #1 is the button
+Seat 1: GRAILKO ($360 in chips)
+Seat 6: ManuelSikora ($32.21 in chips)
+FHstyles: is sitting out
+FHstyles leaves the table
+GRAILKO: posts small blind $1
+ManuelSikora: posts big blind $3
+*** HOLE CARDS ***
+GRAILKO: raises $3 to $6
+ManuelSikora: raises $3 to $9
+GRAILKO: raises $3 to $12
+Betting is capped
+ManuelSikora: calls $3
+*** FLOP *** [4c 8s 7s]
+ManuelSikora: bets $3
+GRAILKO: calls $3
+*** TURN *** [4c 8s 7s] [2s]
+ManuelSikora: bets $6
+GRAILKO: calls $6
+*** RIVER *** [4c 8s 7s 2s] [Js]
+ManuelSikora: bets $6
+GRAILKO: raises $6 to $12
+ManuelSikora: calls $5.21 and is all-in
+Uncalled bet ($0.79) returned to GRAILKO
+*** SHOW DOWN ***
+GRAILKO: shows [Ac Ts] (a flush, Jack high)
+ManuelSikora: shows [Qs 6c] (a flush, Queen high)
+ManuelSikora collected $63.92 from pot
+*** SUMMARY ***
+Total pot $64.42 | Rake $0.50
+Board [4c 8s 7s 2s Js]
+Seat 1: GRAILKO (button) (small blind) showed [Ac Ts] and lost with a flush, Jack high
+Seat 6: ManuelSikora (big blind) showed [Qs 6c] and won ($63.92) with a flush, Queen high
+
+
+PokerStars Hand #168063156061:  Hold'em Limit ($3/$6 USD) - 2017/03/24 19:28:25 ET
+Table 'Tugela' 6-max Seat #1 is the button
+Seat 1: GRAILKO ($303.79 in chips)
+Seat 6: ManuelSikora ($87.08 in chips)
+GRAILKO: posts small blind $1
+ManuelSikora: posts big blind $3
+*** HOLE CARDS ***
+GRAILKO: raises $3 to $6
+ManuelSikora: raises $3 to $9
+Auge72 joins the table at seat #2
+GRAILKO: calls $3
+*** FLOP *** [8s Qs 7c]
+ManuelSikora: checks
+GRAILKO: checks
+*** TURN *** [8s Qs 7c] [5h]
+ManuelSikora: checks
+GRAILKO: bets $6
+ManuelSikora: folds
+Uncalled bet ($6) returned to GRAILKO
+GRAILKO collected $17.64 from pot
+GRAILKO: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8s Qs 7c 5h]
+Seat 1: GRAILKO (button) (small blind) collected ($17.64)
+Seat 6: ManuelSikora (big blind) folded on the Turn
+
+
+PokerStars Hand #168063151965:  Hold'em Limit ($3/$6 USD) - 2017/03/24 19:28:19 ET
+Table 'Tugela' 6-max Seat #6 is the button
+Seat 1: GRAILKO ($306.79 in chips)
+Seat 6: ManuelSikora ($84.08 in chips)
+ManuelSikora: posts small blind $1
+GRAILKO: posts big blind $3
+*** HOLE CARDS ***
+ManuelSikora: raises $3 to $6
+GRAILKO: folds
+Uncalled bet ($3) returned to ManuelSikora
+ManuelSikora collected $6 from pot
+ManuelSikora: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: GRAILKO (big blind) folded before Flop
+Seat 6: ManuelSikora (button) (small blind) collected ($6)
+
+
+PokerStars Hand #168063141381:  Hold'em Limit ($3/$6 USD) - 2017/03/24 19:28:04 ET
+Table 'Tugela' 6-max Seat #1 is the button
+Seat 1: GRAILKO ($315.79 in chips)
+Seat 6: ManuelSikora ($75.44 in chips)
+GRAILKO: posts small blind $1
+ManuelSikora: posts big blind $3
+*** HOLE CARDS ***
+GRAILKO: raises $3 to $6
+ManuelSikora: raises $3 to $9
+GRAILKO: calls $3
+*** FLOP *** [7s 4d Qd]
+ManuelSikora: bets $3
+GRAILKO: folds
+Uncalled bet ($3) returned to ManuelSikora
+ManuelSikora collected $17.64 from pot
+ManuelSikora: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7s 4d Qd]
+Seat 1: GRAILKO (button) (small blind) folded on the Flop
+Seat 6: ManuelSikora (big blind) collected ($17.64)
+
+
+PokerStars Hand #168063204812:  Hold'em Limit ($3/$6 USD) - 2017/03/24 19:29:32 ET
+Table 'Tugela' 6-max Seat #6 is the button
+Seat 1: GRAILKO ($294.43 in chips)
+Seat 6: ManuelSikora ($95.36 in chips)
+ManuelSikora: posts small blind $1
+GRAILKO: posts big blind $3
+*** HOLE CARDS ***
+ManuelSikora: raises $3 to $6
+GRAILKO: calls $3
+*** FLOP *** [2d Kh 5s]
+GRAILKO: checks
+ManuelSikora: checks
+*** TURN *** [2d Kh 5s] [3h]
+GRAILKO: bets $6
+ManuelSikora: folds
+Uncalled bet ($6) returned to GRAILKO
+GRAILKO collected $11.76 from pot
+GRAILKO: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2d Kh 5s 3h]
+Seat 1: GRAILKO (big blind) collected ($11.76)
+Seat 6: ManuelSikora (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #168063191778:  Hold'em Limit ($3/$6 USD) - 2017/03/24 19:29:14 ET
+Table 'Tugela' 6-max Seat #1 is the button
+Seat 1: GRAILKO ($306.43 in chips)
+Seat 6: ManuelSikora ($83.84 in chips)
+GRAILKO: posts small blind $1
+ManuelSikora: posts big blind $3
+*** HOLE CARDS ***
+GRAILKO: raises $3 to $6
+Auge72 joins the table at seat #3
+ManuelSikora: raises $3 to $9
+GRAILKO: calls $3
+*** FLOP *** [9s Td 8d]
+ManuelSikora: bets $3
+GRAILKO: calls $3
+*** TURN *** [9s Td 8d] [3d]
+ManuelSikora: checks
+GRAILKO: checks
+*** RIVER *** [9s Td 8d 3d] [9c]
+ManuelSikora: checks
+GRAILKO: checks
+*** SHOW DOWN ***
+ManuelSikora: shows [Ac Jc] (a pair of Nines)
+GRAILKO: mucks hand
+ManuelSikora collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [9s Td 8d 3d 9c]
+Seat 1: GRAILKO (button) (small blind) mucked
+Seat 6: ManuelSikora (big blind) showed [Ac Jc] and won ($23.52) with a pair of Nines
+
+
+PokerStars Hand #168063175233:  Hold'em Limit ($3/$6 USD) - 2017/03/24 19:28:51 ET
+Table 'Tugela' 6-max Seat #6 is the button
+Seat 1: GRAILKO ($312.43 in chips)
+Seat 6: ManuelSikora ($78.08 in chips)
+ManuelSikora: posts small blind $1
+GRAILKO: posts big blind $3
+*** HOLE CARDS ***
+ManuelSikora: raises $3 to $6
+GRAILKO: calls $3
+*** FLOP *** [3d Jh Ad]
+GRAILKO: checks
+ManuelSikora: checks
+*** TURN *** [3d Jh Ad] [6s]
+GRAILKO: checks
+ManuelSikora: checks
+*** RIVER *** [3d Jh Ad 6s] [9d]
+Auge72 leaves the table
+GRAILKO: checks
+ManuelSikora: bets $6
+GRAILKO: folds
+Uncalled bet ($6) returned to ManuelSikora
+ManuelSikora collected $11.76 from pot
+ManuelSikora: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3d Jh Ad 6s 9d]
+Seat 1: GRAILKO (big blind) folded on the River
+Seat 6: ManuelSikora (button) (small blind) collected ($11.76)
+
+

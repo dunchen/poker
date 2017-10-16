@@ -1,0 +1,99 @@
+PokerStars Hand #176290045270:  Hold'em Limit ($3/$6 USD) - 2017/09/29 20:08:49 ET
+Table 'Mercury' 6-max Seat #1 is the button
+Seat 1: Ag3r0n ($72 in chips)
+Seat 3: permafrost07 ($126.76 in chips)
+Ag3r0n: posts small blind $1
+permafrost07: posts big blind $3
+*** HOLE CARDS ***
+Ag3r0n: raises $3 to $6
+permafrost07: calls $3
+*** FLOP *** [7c 7d 6h]
+permafrost07: bets $3
+Ag3r0n: calls $3
+*** TURN *** [7c 7d 6h] [2d]
+permafrost07: bets $6
+Ag3r0n: calls $6
+*** RIVER *** [7c 7d 6h 2d] [Qh]
+permafrost07: bets $6
+Ag3r0n: raises $6 to $12
+permafrost07: calls $6
+*** SHOW DOWN ***
+Ag3r0n: shows [8h 9h] (a pair of Sevens)
+permafrost07: shows [6c Kd] (two pair, Sevens and Sixes)
+permafrost07 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [7c 7d 6h 2d Qh]
+Seat 1: Ag3r0n (button) (small blind) showed [8h 9h] and lost with a pair of Sevens
+Seat 3: permafrost07 (big blind) showed [6c Kd] and won ($53.50) with two pair, Sevens and Sixes
+
+
+PokerStars Hand #176290034581:  Hold'em Limit ($3/$6 USD) - 2017/09/29 20:08:28 ET
+Table 'Mercury' 6-max Seat #3 is the button
+Seat 1: Ag3r0n ($72 in chips)
+Seat 3: permafrost07 ($121 in chips)
+permafrost07: posts small blind $1
+Ag3r0n: posts big blind $3
+*** HOLE CARDS ***
+permafrost07: raises $3 to $6
+Ag3r0n: calls $3
+*** FLOP *** [5c Kc 7c]
+Ag3r0n: checks
+permafrost07: bets $3
+Ag3r0n: folds
+Uncalled bet ($3) returned to permafrost07
+permafrost07 collected $11.76 from pot
+permafrost07: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5c Kc 7c]
+Seat 1: Ag3r0n (big blind) folded on the Flop
+Seat 3: permafrost07 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #176290029215:  Hold'em Limit ($3/$6 USD) - 2017/09/29 20:08:17 ET
+Table 'Mercury' 6-max Seat #1 is the button
+Seat 1: Ag3r0n ($72 in chips)
+Seat 3: permafrost07 ($120 in chips)
+Ag3r0n: posts small blind $1
+permafrost07: posts big blind $3
+*** HOLE CARDS ***
+Ag3r0n: folds
+Uncalled bet ($2) returned to permafrost07
+permafrost07 collected $2 from pot
+permafrost07: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Ag3r0n (button) (small blind) folded before Flop
+Seat 3: permafrost07 (big blind) collected ($2)
+
+
+PokerStars Hand #176290054522:  Hold'em Limit ($3/$6 USD) - 2017/09/29 20:09:08 ET
+Table 'Mercury' 6-max Seat #3 is the button
+Seat 1: Ag3r0n ($72 in chips)
+Seat 3: permafrost07 ($153.26 in chips)
+permafrost07: posts small blind $1
+Ag3r0n: posts big blind $3
+*** HOLE CARDS ***
+permafrost07: calls $2
+Ag3r0n: checks
+*** FLOP *** [8c 9s 2h]
+Ag3r0n: bets $3
+permafrost07: calls $3
+*** TURN *** [8c 9s 2h] [2d]
+Ag3r0n: checks
+permafrost07: checks
+*** RIVER *** [8c 9s 2h 2d] [Ac]
+Ag3r0n: checks
+permafrost07: checks
+*** SHOW DOWN ***
+Ag3r0n: shows [Th 3d] (a pair of Deuces)
+permafrost07: shows [Kh 7c] (a pair of Deuces - Ace+King kicker)
+permafrost07 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8c 9s 2h 2d Ac]
+Seat 1: Ag3r0n (big blind) showed [Th 3d] and lost with a pair of Deuces
+Seat 3: permafrost07 (button) (small blind) showed [Kh 7c] and won ($11.76) with a pair of Deuces
+
+

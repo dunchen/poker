@@ -1,0 +1,35 @@
+PokerStars Hand #157211743048:  Hold'em Limit ($3/$6 USD) - 2016/08/13 1:56:39 ET
+Table 'Kolga' 6-max Seat #3 is the button
+Seat 3: p0cketAz ($46.54 in chips)
+Seat 5: TbIP-TbIP 88 ($72 in chips)
+p0cketAz: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+p0cketAz: raises $3 to $6
+TbIP-TbIP 88: raises $3 to $9
+p0cketAz: raises $3 to $12
+Betting is capped
+TbIP-TbIP 88: calls $3
+*** FLOP *** [5d Qd Qc]
+TbIP-TbIP 88: checks
+p0cketAz: bets $3
+TbIP-TbIP 88: calls $3
+*** TURN *** [5d Qd Qc] [5s]
+TbIP-TbIP 88: checks
+p0cketAz: bets $6
+TbIP-TbIP 88: calls $6
+*** RIVER *** [5d Qd Qc 5s] [2d]
+TbIP-TbIP 88: checks
+p0cketAz: bets $6
+TbIP-TbIP 88: calls $6
+*** SHOW DOWN ***
+p0cketAz: shows [Td Ts] (two pair, Queens and Tens)
+TbIP-TbIP 88: mucks hand
+p0cketAz collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [5d Qd Qc 5s 2d]
+Seat 3: p0cketAz (button) (small blind) showed [Td Ts] and won ($53.50) with two pair, Queens and Tens
+Seat 5: TbIP-TbIP 88 (big blind) mucked
+
+

@@ -1,0 +1,30 @@
+PokerStars Hand #148807343628:  Hold'em Limit ($3/$6 USD) - 2016/02/14 15:38:52 ET
+Table 'Philagoria' 6-max Seat #1 is the button
+Seat 1: Warner13 ($87.32 in chips)
+Seat 6: Chessnok ($76.60 in chips)
+Warner13: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+Warner13: calls $2
+Chessnok: raises $3 to $6
+Warner13: calls $3
+*** FLOP *** [2h Ah 8c]
+Chessnok: bets $3
+Warner13: calls $3
+*** TURN *** [2h Ah 8c] [5c]
+Chessnok: checks
+Warner13: checks
+*** RIVER *** [2h Ah 8c 5c] [3s]
+Chessnok: checks
+Warner13: checks
+*** SHOW DOWN ***
+Chessnok: shows [5s 6h] (a pair of Fives)
+Warner13: shows [Qd 8h] (a pair of Eights)
+Warner13 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2h Ah 8c 5c 3s]
+Seat 1: Warner13 (button) (small blind) showed [Qd 8h] and won ($17.64) with a pair of Eights
+Seat 6: Chessnok (big blind) showed [5s 6h] and lost with a pair of Fives
+
+

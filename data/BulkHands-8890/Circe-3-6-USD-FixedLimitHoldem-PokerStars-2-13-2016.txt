@@ -1,0 +1,32 @@
+PokerStars Hand #148720540698:  Hold'em Limit ($3/$6 USD) - 2016/02/13 6:41:01 ET
+Table 'Circe' 6-max Seat #4 is the button
+Seat 2: db49 ($167.74 in chips)
+Seat 4: BelSv ($150.14 in chips)
+BelSv: posts small blind $1
+db49: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+db49: raises $3 to $9
+BelSv: calls $3
+*** FLOP *** [5h 7c 4h]
+db49: bets $3
+BelSv: calls $3
+*** TURN *** [5h 7c 4h] [Ts]
+db49: bets $6
+BelSv: raises $6 to $12
+db49: calls $6
+*** RIVER *** [5h 7c 4h Ts] [8c]
+db49: checks
+BelSv: bets $6
+db49: calls $6
+*** SHOW DOWN ***
+BelSv: shows [4s 7d] (two pair, Sevens and Fours)
+db49: mucks hand
+BelSv collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [5h 7c 4h Ts 8c]
+Seat 2: db49 (big blind) mucked
+Seat 4: BelSv (button) (small blind) showed [4s 7d] and won ($59.50) with two pair, Sevens and Fours
+
+

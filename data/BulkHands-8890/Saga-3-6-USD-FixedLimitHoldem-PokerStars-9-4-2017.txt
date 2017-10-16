@@ -1,0 +1,32 @@
+PokerStars Hand #175187815644:  Hold'em Limit ($3/$6 USD) - 2017/09/04 6:14:29 ET
+Table 'Saga' 6-max Seat #5 is the button
+Seat 4: Anchig ($118.50 in chips)
+Seat 5: dalton135 ($128.60 in chips)
+dalton135: posts small blind $1
+Anchig: posts big blind $3
+*** HOLE CARDS ***
+dalton135: raises $3 to $6
+Anchig: raises $3 to $9
+dalton135: calls $3
+*** FLOP *** [8s Jh Qd]
+Anchig: bets $3
+dalton135: calls $3
+*** TURN *** [8s Jh Qd] [5h]
+Anchig: bets $6
+dalton135: calls $6
+*** RIVER *** [8s Jh Qd 5h] [Qc]
+Anchig: checks
+dalton135: bets $6
+Anchig: raises $6 to $12
+dalton135: calls $6
+*** SHOW DOWN ***
+Anchig: shows [Qh Jd] (a full house, Queens full of Jacks)
+dalton135: mucks hand
+Anchig collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [8s Jh Qd 5h Qc]
+Seat 4: Anchig (big blind) showed [Qh Jd] and won ($59.50) with a full house, Queens full of Jacks
+Seat 5: dalton135 (button) (small blind) mucked
+
+

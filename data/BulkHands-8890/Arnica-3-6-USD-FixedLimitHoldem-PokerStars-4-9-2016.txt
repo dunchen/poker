@@ -1,0 +1,120 @@
+PokerStars Hand #151659747840:  Hold'em Limit ($3/$6 USD) - 2016/04/09 9:25:25 ET
+Table 'Arnica' 6-max Seat #3 is the button
+Seat 3: mrvietz ($143.14 in chips)
+Seat 4: Agrotait ($72 in chips)
+mrvietz: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+mrvietz: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [Kh Th 6s]
+Agrotait: checks
+mrvietz: bets $3
+Agrotait: calls $3
+*** TURN *** [Kh Th 6s] [2d]
+Agrotait: checks
+mrvietz: bets $6
+Agrotait: calls $6
+*** RIVER *** [Kh Th 6s 2d] [4s]
+Agrotait: checks
+mrvietz: checks
+*** SHOW DOWN ***
+Agrotait: shows [Ac 3d] (high card Ace)
+mrvietz: mucks hand
+Agrotait collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kh Th 6s 2d 4s]
+Seat 3: mrvietz (button) (small blind) mucked
+Seat 4: Agrotait (big blind) showed [Ac 3d] and won ($29.50) with high card Ace
+
+
+PokerStars Hand #151659729510:  Hold'em Limit ($3/$6 USD) - 2016/04/09 9:24:57 ET
+Table 'Arnica' 6-max Seat #4 is the button
+Seat 3: mrvietz ($128.64 in chips)
+Seat 4: Agrotait ($63 in chips)
+Agrotait: posts small blind $1
+mrvietz: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+mrvietz: raises $3 to $9
+Agrotait: calls $3
+*** FLOP *** [Qc Kh 3h]
+mrvietz: checks
+Agrotait: checks
+*** TURN *** [Qc Kh 3h] [4h]
+mrvietz: bets $6
+Agrotait: calls $6
+*** RIVER *** [Qc Kh 3h 4h] [As]
+mrvietz: checks
+Agrotait: checks
+*** SHOW DOWN ***
+mrvietz: shows [9d Kd] (a pair of Kings)
+Agrotait: mucks hand
+mrvietz collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qc Kh 3h 4h As]
+Seat 3: mrvietz (big blind) showed [9d Kd] and won ($29.50) with a pair of Kings
+Seat 4: Agrotait (button) (small blind) mucked
+
+
+PokerStars Hand #151659711538:  Hold'em Limit ($3/$6 USD) - 2016/04/09 9:24:30 ET
+Table 'Arnica' 6-max Seat #3 is the button
+Seat 3: mrvietz ($120 in chips)
+Seat 4: Agrotait ($72 in chips)
+mrvietz: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+mrvietz: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [3d 6c 7d]
+Agrotait: checks
+mrvietz: bets $3
+Agrotait: calls $3
+*** TURN *** [3d 6c 7d] [2h]
+Agrotait: checks
+mrvietz: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to mrvietz
+mrvietz collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3d 6c 7d 2h]
+Seat 3: mrvietz (button) (small blind) collected ($17.64)
+Seat 4: Agrotait (big blind) folded on the Turn
+
+
+PokerStars Hand #151659765829:  Hold'em Limit ($3/$6 USD) - 2016/04/09 9:25:53 ET
+Table 'Arnica' 6-max Seat #4 is the button
+Seat 3: mrvietz ($128.14 in chips)
+Seat 4: Agrotait ($86.50 in chips)
+Agrotait: posts small blind $1
+mrvietz: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+mrvietz: calls $3
+*** FLOP *** [6h Ks Jc]
+mrvietz: checks
+Agrotait: bets $3
+mrvietz: raises $3 to $6
+Agrotait: calls $3
+*** TURN *** [6h Ks Jc] [2h]
+mrvietz: bets $6
+Agrotait: calls $6
+*** RIVER *** [6h Ks Jc 2h] [2c]
+AA_ILI joins the table at seat #2
+mrvietz: checks
+Agrotait: bets $6
+mrvietz: calls $6
+*** SHOW DOWN ***
+Agrotait: shows [As Jd] (two pair, Jacks and Deuces)
+mrvietz: mucks hand
+Agrotait collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [6h Ks Jc 2h 2c]
+Seat 3: mrvietz (big blind) mucked
+Seat 4: Agrotait (button) (small blind) showed [As Jd] and won ($47.50) with two pair, Jacks and Deuces
+
+

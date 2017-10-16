@@ -1,0 +1,58 @@
+PokerStars Hand #148377420251:  Hold'em Limit ($3/$6 USD) - 2016/02/07 4:26:33 ET
+Table 'Smiley' 6-max Seat #1 is the button
+Seat 1: harrydonkey ($55.85 in chips)
+Seat 2: kolaz03 ($72 in chips)
+harrydonkey: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+harrydonkey: raises $3 to $6
+kolaz03: calls $3
+*** FLOP *** [3c 9c 6c]
+kolaz03: checks
+harrydonkey: bets $3
+kolaz03: calls $3
+*** TURN *** [3c 9c 6c] [7h]
+kolaz03: checks
+harrydonkey: bets $6
+kolaz03: calls $6
+*** RIVER *** [3c 9c 6c 7h] [3d]
+kolaz03: checks
+harrydonkey: checks
+*** SHOW DOWN ***
+kolaz03: shows [Kh 6d] (two pair, Sixes and Threes)
+harrydonkey: shows [8c 8h] (two pair, Eights and Threes)
+harrydonkey collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3c 9c 6c 7h 3d]
+Seat 1: harrydonkey (button) (small blind) showed [8c 8h] and won ($29.50) with two pair, Eights and Threes
+Seat 2: kolaz03 (big blind) showed [Kh 6d] and lost with two pair, Sixes and Threes
+
+
+PokerStars Hand #148377432259:  Hold'em Limit ($3/$6 USD) - 2016/02/07 4:26:59 ET
+Table 'Smiley' 6-max Seat #2 is the button
+Seat 1: harrydonkey ($70.35 in chips)
+Seat 2: kolaz03 ($72 in chips)
+kolaz03: posts small blind $1
+harrydonkey: posts big blind $3
+*** HOLE CARDS ***
+kolaz03: raises $3 to $6
+harrydonkey: calls $3
+*** FLOP *** [Js 9d Kd]
+harrydonkey: checks
+kolaz03: bets $3
+harrydonkey: calls $3
+*** TURN *** [Js 9d Kd] [7c]
+harrydonkey: checks
+kolaz03: bets $6
+harrydonkey: folds
+Uncalled bet ($6) returned to kolaz03
+kolaz03 collected $17.64 from pot
+kolaz03: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Js 9d Kd 7c]
+Seat 1: harrydonkey (big blind) folded on the Turn
+Seat 2: kolaz03 (button) (small blind) collected ($17.64)
+
+

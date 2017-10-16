@@ -1,0 +1,35 @@
+PokerStars Hand #171744128052:  Hold'em Limit ($3/$6 USD) - 2017/06/13 19:20:07 ET
+Table 'Bitias' 6-max Seat #6 is the button
+Seat 3: igorkabmw ($32 in chips)
+Seat 6: scorpio04 ($150 in chips)
+scorpio04: posts small blind $1
+igorkabmw: posts big blind $3
+*** HOLE CARDS ***
+scorpio04: raises $3 to $6
+igorkabmw: raises $3 to $9
+belik555 joins the table at seat #4
+scorpio04: calls $3
+*** FLOP *** [6s 8d Tc]
+igorkabmw: checks
+scorpio04: bets $3
+igorkabmw: calls $3
+*** TURN *** [6s 8d Tc] [2d]
+igorkabmw: checks
+scorpio04: bets $6
+igorkabmw: raises $6 to $12
+scorpio04: raises $6 to $18
+igorkabmw: raises $2 to $20 and is all-in
+Betting is capped
+scorpio04: calls $2
+*** RIVER *** [6s 8d Tc 2d] [Qd]
+*** SHOW DOWN ***
+igorkabmw: shows [9h 9c] (a pair of Nines)
+scorpio04: shows [Ac Ah] (a pair of Aces)
+scorpio04 collected $63.50 from pot
+*** SUMMARY ***
+Total pot $64 | Rake $0.50
+Board [6s 8d Tc 2d Qd]
+Seat 3: igorkabmw (big blind) showed [9h 9c] and lost with a pair of Nines
+Seat 6: scorpio04 (button) (small blind) showed [Ac Ah] and won ($63.50) with a pair of Aces
+
+

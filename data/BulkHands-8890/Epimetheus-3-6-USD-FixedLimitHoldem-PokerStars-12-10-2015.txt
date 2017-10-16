@@ -1,0 +1,59 @@
+PokerStars Hand #145107416473:  Hold'em Limit ($3/$6 USD) - 2015/12/10 0:07:38 ET
+Table 'Epimetheus' 6-max Seat #6 is the button
+Seat 4: HAL9QQQ ($120 in chips)
+Seat 6: asdfqwer1502 ($389.78 in chips)
+asdfqwer1502: posts small blind $1
+MAGER911: is sitting out
+parnishka11: is sitting out
+HAL9QQQ: posts big blind $3
+*** HOLE CARDS ***
+asdfqwer1502: raises $3 to $6
+parnishka11 leaves the table
+HAL9QQQ: calls $3
+*** FLOP *** [Js 2c Jc]
+HAL9QQQ: checks
+asdfqwer1502: bets $3
+HAL9QQQ: folds
+Uncalled bet ($3) returned to asdfqwer1502
+asdfqwer1502 collected $11.76 from pot
+asdfqwer1502: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Js 2c Jc]
+Seat 4: HAL9QQQ (big blind) folded on the Flop
+Seat 6: asdfqwer1502 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #145107428038:  Hold'em Limit ($3/$6 USD) - 2015/12/10 0:08:21 ET
+Table 'Epimetheus' 6-max Seat #4 is the button
+Seat 4: HAL9QQQ ($120 in chips)
+Seat 6: asdfqwer1502 ($395.54 in chips)
+HAL9QQQ: posts small blind $1
+asdfqwer1502: posts big blind $3
+*** HOLE CARDS ***
+HAL9QQQ: raises $3 to $6
+asdfqwer1502: raises $3 to $9
+HAL9QQQ: calls $3
+*** FLOP *** [9c As Ad]
+asdfqwer1502: checks
+HAL9QQQ: bets $3
+asdfqwer1502: calls $3
+*** TURN *** [9c As Ad] [3h]
+asdfqwer1502: checks
+HAL9QQQ: bets $6
+asdfqwer1502: raises $6 to $12
+HAL9QQQ: calls $6
+*** RIVER *** [9c As Ad 3h] [Ks]
+asdfqwer1502: bets $6
+HAL9QQQ: calls $6
+*** SHOW DOWN ***
+asdfqwer1502: shows [2h Ac] (three of a kind, Aces)
+HAL9QQQ: shows [Ah Th] (three of a kind, Aces - King+Ten kicker)
+HAL9QQQ collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [9c As Ad 3h Ks]
+Seat 4: HAL9QQQ (button) (small blind) showed [Ah Th] and won ($59.50) with three of a kind, Aces
+Seat 6: asdfqwer1502 (big blind) showed [2h Ac] and lost with three of a kind, Aces
+
+

@@ -1,0 +1,107 @@
+PokerStars Hand #151552857019:  Hold'em Limit ($3/$6 USD) - 2016/04/07 3:58:46 ET
+Table 'Nekkar' 6-max Seat #3 is the button
+Seat 3: D Juice11 ($64.88 in chips)
+Seat 5: VolkovDmitri ($120 in chips)
+D Juice11: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+D Juice11: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+D Juice11: calls $3
+*** FLOP *** [5h Js 4h]
+VolkovDmitri: bets $3
+D Juice11: calls $3
+*** TURN *** [5h Js 4h] [7s]
+VolkovDmitri: checks
+D Juice11: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [5h Js 4h 7s] [Ts]
+VolkovDmitri: checks
+D Juice11: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to D Juice11
+D Juice11 collected $35.50 from pot
+D Juice11: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5h Js 4h 7s Ts]
+Seat 3: D Juice11 (button) (small blind) collected ($35.50)
+Seat 5: VolkovDmitri (big blind) folded on the River
+
+
+PokerStars Hand #151552865633:  Hold'em Limit ($3/$6 USD) - 2016/04/07 3:59:15 ET
+Table 'Nekkar' 6-max Seat #5 is the button
+Seat 3: D Juice11 ($82.38 in chips)
+Seat 5: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+D Juice11: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+D Juice11: calls $3
+*** FLOP *** [9c Tc 7s]
+D Juice11: checks
+VolkovDmitri: bets $3
+D Juice11: calls $3
+*** TURN *** [9c Tc 7s] [2d]
+D Juice11: checks
+VolkovDmitri: bets $6
+D Juice11: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $17.64 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9c Tc 7s 2d]
+Seat 3: D Juice11 (big blind) folded on the Turn
+Seat 5: VolkovDmitri (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #151554097394:  Hold'em Limit ($3/$6 USD) - 2016/04/07 4:57:29 ET
+Table 'Nekkar' 6-max Seat #3 is the button
+Seat 3: lynnsmminer ($43.50 in chips)
+Seat 5: VolkovDmitri ($159.12 in chips)
+lynnsmminer: posts small blind $1
+pogi74: is sitting out
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+lynnsmminer: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Ah Tc 7c]
+VolkovDmitri: checks
+lynnsmminer: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [Ah Tc 7c] [Ks]
+VolkovDmitri: checks
+lynnsmminer: checks
+*** RIVER *** [Ah Tc 7c Ks] [As]
+VolkovDmitri: bets $6
+lynnsmminer: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [6d 8d] (a pair of Aces)
+lynnsmminer: shows [Js Kh] (two pair, Aces and Kings)
+lynnsmminer collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ah Tc 7c Ks As]
+Seat 3: lynnsmminer (button) (small blind) showed [Js Kh] and won ($29.50) with two pair, Aces and Kings
+Seat 5: VolkovDmitri (big blind) showed [6d 8d] and lost with a pair of Aces
+
+
+PokerStars Hand #151554104842:  Hold'em Limit ($3/$6 USD) - 2016/04/07 4:57:52 ET
+Table 'Nekkar' 6-max Seat #5 is the button
+Seat 3: lynnsmminer ($58 in chips)
+Seat 5: VolkovDmitri ($144.12 in chips)
+VolkovDmitri: posts small blind $1
+lynnsmminer: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+lynnsmminer: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: lynnsmminer (big blind) folded before Flop
+Seat 5: VolkovDmitri (button) (small blind) collected ($6)
+
+

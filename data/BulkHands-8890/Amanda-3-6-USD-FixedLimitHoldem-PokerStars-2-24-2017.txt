@@ -1,0 +1,80 @@
+PokerStars Hand #166687989166:  Hold'em Limit ($3/$6 USD) - 2017/02/24 3:57:37 ET
+Table 'Amanda' 6-max Seat #3 is the button
+Seat 3: GuyAus ($103.03 in chips)
+Seat 4: MTails ($120 in chips)
+GuyAus: posts small blind $1
+grabaz joins the table at seat #5
+MTails: posts big blind $3
+*** HOLE CARDS ***
+GuyAus: calls $2
+MTails: raises $3 to $6
+GuyAus: calls $3
+*** FLOP *** [Jd 3h 4h]
+MTails: bets $3
+GuyAus: folds
+Uncalled bet ($3) returned to MTails
+MTails collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jd 3h 4h]
+Seat 3: GuyAus (button) (small blind) folded on the Flop
+Seat 4: MTails (big blind) collected ($11.76)
+
+
+PokerStars Hand #166688020369:  Hold'em Limit ($3/$6 USD) - 2017/02/24 3:59:18 ET
+Table 'Amanda' 6-max Seat #3 is the button
+Seat 3: GuyAus ($98.03 in chips)
+Seat 5: grabaz ($258.74 in chips)
+MTails will be allowed to play after the button
+GuyAus: posts small blind $1
+grabaz: posts big blind $3
+*** HOLE CARDS ***
+GuyAus: calls $2
+grabaz: checks
+*** FLOP *** [7c Tc Jd]
+grabaz: bets $3
+GuyAus: calls $3
+*** TURN *** [7c Tc Jd] [8s]
+grabaz: checks
+GuyAus: bets $6
+grabaz: calls $6
+*** RIVER *** [7c Tc Jd 8s] [4d]
+grabaz: checks
+GuyAus: bets $6
+grabaz: folds
+Uncalled bet ($6) returned to GuyAus
+GuyAus collected $23.52 from pot
+GuyAus: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [7c Tc Jd 8s 4d]
+Seat 3: GuyAus (button) (small blind) collected ($23.52)
+Seat 5: grabaz (big blind) folded on the River
+
+
+PokerStars Hand #166688860455:  Hold'em Limit ($3/$6 USD) - 2017/02/24 4:37:47 ET
+Table 'Amanda' 6-max Seat #5 is the button
+Seat 2: laubes04 ($115.16 in chips)
+Seat 5: grabaz ($323.25 in chips)
+grabaz: posts small blind $1
+laubes04: posts big blind $3
+*** HOLE CARDS ***
+grabaz: raises $3 to $6
+laubes04: calls $3
+*** FLOP *** [6c 3c 2c]
+laubes04: checks
+grabaz: checks
+*** TURN *** [6c 3c 2c] [Td]
+laubes04: checks
+grabaz: bets $6
+laubes04: folds
+Uncalled bet ($6) returned to grabaz
+grabaz collected $11.76 from pot
+grabaz: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6c 3c 2c Td]
+Seat 2: laubes04 (big blind) folded on the Turn
+Seat 5: grabaz (button) (small blind) collected ($11.76)
+
+

@@ -1,0 +1,58 @@
+PokerStars Hand #164227286505:  Hold'em Limit ($3/$6 USD) - 2017/01/08 5:04:18 ET
+Table 'Pelagia II' 6-max Seat #2 is the button
+Seat 2: BelSv ($78 in chips)
+Seat 6: sim5sim5 ($86.50 in chips)
+BelSv: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+sim5sim5: calls $3
+*** FLOP *** [2h Jh Ah]
+sim5sim5: checks
+BelSv: checks
+*** TURN *** [2h Jh Ah] [Ks]
+sim5sim5: bets $6
+BelSv: calls $6
+*** RIVER *** [2h Jh Ah Ks] [Ac]
+sim5sim5: bets $6
+BelSv: calls $6
+*** SHOW DOWN ***
+sim5sim5: shows [4c As] (three of a kind, Aces)
+BelSv: mucks hand
+sim5sim5 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [2h Jh Ah Ks Ac]
+Seat 2: BelSv (button) (small blind) mucked
+Seat 6: sim5sim5 (big blind) showed [4c As] and won ($35.50) with three of a kind, Aces
+
+
+PokerStars Hand #164227271097:  Hold'em Limit ($3/$6 USD) - 2017/01/08 5:03:43 ET
+Table 'Pelagia II' 6-max Seat #6 is the button
+Seat 2: BelSv ($78 in chips)
+Seat 6: sim5sim5 ($72 in chips)
+sim5sim5: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+BelSv: calls $3
+*** FLOP *** [9s 4c 7s]
+BelSv: checks
+sim5sim5: bets $3
+BelSv: raises $3 to $6
+sim5sim5: raises $3 to $9
+BelSv: calls $3
+*** TURN *** [9s 4c 7s] [Td]
+BelSv: checks
+sim5sim5: bets $6
+BelSv: folds
+Uncalled bet ($6) returned to sim5sim5
+sim5sim5 collected $29.50 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9s 4c 7s Td]
+Seat 2: BelSv (big blind) folded on the Turn
+Seat 6: sim5sim5 (button) (small blind) collected ($29.50)
+
+

@@ -1,0 +1,84 @@
+PokerStars Hand #154757155634:  Hold'em Limit ($3/$6 USD) - 2016/06/15 5:03:08 ET
+Table 'Basilea' 10-max Seat #1 is the button
+Seat 1: Ag3r0n ($72 in chips)
+Seat 6: buddhasway ($88 in chips)
+Ag3r0n: posts small blind $1
+buddhasway: posts big blind $3
+*** HOLE CARDS ***
+Ag3r0n: raises $3 to $6
+buddhasway: calls $3
+*** FLOP *** [2h Qd 5c]
+buddhasway: checks
+Ag3r0n: bets $3
+buddhasway: calls $3
+*** TURN *** [2h Qd 5c] [Kc]
+tomte999 joins the table at seat #7
+buddhasway: checks
+Ag3r0n: bets $6
+buddhasway: calls $6
+*** RIVER *** [2h Qd 5c Kc] [Tc]
+buddhasway: checks
+Ag3r0n: checks
+*** SHOW DOWN ***
+buddhasway: shows [2c 6d] (a pair of Deuces)
+Ag3r0n: mucks hand
+buddhasway collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2h Qd 5c Kc Tc]
+Seat 1: Ag3r0n (button) (small blind) mucked
+Seat 6: buddhasway (big blind) showed [2c 6d] and won ($29.50) with a pair of Deuces
+
+
+PokerStars Hand #154757529544:  Hold'em Limit ($3/$6 USD) - 2016/06/15 5:20:52 ET
+Table 'Basilea' 10-max Seat #1 is the button
+Seat 1: Ag3r0n ($103.16 in chips)
+Seat 9: Uhadmebeat ($56.12 in chips)
+Ag3r0n: posts small blind $1
+BIZE Terence: is sitting out
+Uhadmebeat: posts big blind $3
+*** HOLE CARDS ***
+Ag3r0n: raises $3 to $6
+BIZE Terence leaves the table
+Uhadmebeat: folds
+Uncalled bet ($3) returned to Ag3r0n
+Ag3r0n collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: Ag3r0n (button) (small blind) collected ($6)
+Seat 9: Uhadmebeat (big blind) folded before Flop
+
+
+PokerStars Hand #154757533662:  Hold'em Limit ($3/$6 USD) - 2016/06/15 5:21:04 ET
+Table 'Basilea' 10-max Seat #9 is the button
+Seat 1: Ag3r0n ($106.16 in chips)
+Seat 9: Uhadmebeat ($53.12 in chips)
+Uhadmebeat: posts small blind $1
+Ag3r0n: posts big blind $3
+*** HOLE CARDS ***
+Uhadmebeat: raises $3 to $6
+Ag3r0n: calls $3
+*** FLOP *** [Tc 5c 5d]
+Ag3r0n: checks
+Uhadmebeat: bets $3
+Ag3r0n: raises $3 to $6
+Uhadmebeat: raises $3 to $9
+Ag3r0n: calls $3
+*** TURN *** [Tc 5c 5d] [7d]
+Ag3r0n: checks
+Uhadmebeat: bets $6
+Ag3r0n: calls $6
+*** RIVER *** [Tc 5c 5d 7d] [6d]
+Ag3r0n: checks
+Uhadmebeat: checks
+*** SHOW DOWN ***
+Ag3r0n: shows [3d Td] (a flush, Ten high)
+Uhadmebeat: mucks hand
+Ag3r0n collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Tc 5c 5d 7d 6d]
+Seat 1: Ag3r0n (big blind) showed [3d Td] and won ($41.50) with a flush, Ten high
+Seat 9: Uhadmebeat (button) (small blind) mucked
+
+

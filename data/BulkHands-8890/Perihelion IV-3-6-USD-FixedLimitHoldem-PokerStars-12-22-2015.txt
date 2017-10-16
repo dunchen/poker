@@ -1,0 +1,97 @@
+PokerStars Hand #145750206929:  Hold'em Limit ($3/$6 USD) - 2015/12/22 13:42:19 ET
+Table 'Perihelion IV' 2-max Seat #2 is the button
+Seat 1: yur4ok ($134.04 in chips)
+Seat 2: yirkape ($49.04 in chips)
+yirkape: posts small blind $1
+yur4ok: posts big blind $3
+*** HOLE CARDS ***
+yirkape: raises $3 to $6
+yur4ok: calls $3
+*** FLOP *** [2c Qh Kd]
+yur4ok: checks
+yirkape: bets $3
+yur4ok: folds
+Uncalled bet ($3) returned to yirkape
+yirkape collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2c Qh Kd]
+Seat 1: yur4ok (big blind) folded on the Flop
+Seat 2: yirkape (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #145750231350:  Hold'em Limit ($3/$6 USD) - 2015/12/22 13:42:45 ET
+Table 'Perihelion IV' 2-max Seat #1 is the button
+Seat 1: yur4ok ($143.54 in chips)
+Seat 2: yirkape ($38.80 in chips)
+yur4ok: posts small blind $1
+yirkape: posts big blind $3
+*** HOLE CARDS ***
+yur4ok: raises $3 to $6
+yirkape: calls $3
+*** FLOP *** [4s Jd 5c]
+yirkape: checks
+yur4ok: bets $3
+yirkape: raises $3 to $6
+yur4ok: calls $3
+*** TURN *** [4s Jd 5c] [5d]
+yirkape: bets $6
+yur4ok: calls $6
+*** RIVER *** [4s Jd 5c 5d] [6d]
+yirkape: bets $6
+yur4ok: raises $6 to $12
+yirkape: calls $6
+*** SHOW DOWN ***
+yur4ok: shows [Qd Kd] (a flush, King high)
+yirkape: mucks hand
+yur4ok collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [4s Jd 5c 5d 6d]
+Seat 1: yur4ok (button) (small blind) showed [Qd Kd] and won ($59.50) with a flush, King high
+Seat 2: yirkape (big blind) mucked
+
+
+PokerStars Hand #145750227176:  Hold'em Limit ($3/$6 USD) - 2015/12/22 13:42:40 ET
+Table 'Perihelion IV' 2-max Seat #2 is the button
+Seat 1: yur4ok ($142.54 in chips)
+Seat 2: yirkape ($39.80 in chips)
+yirkape: posts small blind $1
+yur4ok: posts big blind $3
+*** HOLE CARDS ***
+yirkape: folds
+Uncalled bet ($2) returned to yur4ok
+yur4ok collected $2 from pot
+yur4ok: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: yur4ok (big blind) collected ($2)
+Seat 2: yirkape (button) (small blind) folded before Flop
+
+
+PokerStars Hand #145750245242:  Hold'em Limit ($3/$6 USD) - 2015/12/22 13:42:59 ET
+Table 'Perihelion IV' 2-max Seat #2 is the button
+Seat 1: yur4ok ($173.04 in chips)
+Seat 2: yirkape ($8.80 in chips)
+yirkape: posts small blind $1
+yur4ok: posts big blind $3
+*** HOLE CARDS ***
+yirkape: raises $3 to $6
+yur4ok: calls $3
+*** FLOP *** [6s Ts As]
+yur4ok: checks
+yirkape: bets $2.80 and is all-in
+yur4ok: calls $2.80
+*** TURN *** [6s Ts As] [4s]
+*** RIVER *** [6s Ts As 4s] [Qh]
+*** SHOW DOWN ***
+yur4ok: shows [Td 2d] (a pair of Tens)
+yirkape: mucks hand
+yur4ok collected $17.25 from pot
+*** SUMMARY ***
+Total pot $17.60 | Rake $0.35
+Board [6s Ts As 4s Qh]
+Seat 1: yur4ok (big blind) showed [Td 2d] and won ($17.25) with a pair of Tens
+Seat 2: yirkape (button) (small blind) mucked
+
+

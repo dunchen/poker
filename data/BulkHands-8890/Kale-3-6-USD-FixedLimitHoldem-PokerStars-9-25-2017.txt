@@ -1,0 +1,97 @@
+PokerStars Hand #176094553729:  Hold'em Limit ($3/$6 USD) - 2017/09/25 4:39:39 ET
+Table 'Kale' 6-max Seat #1 is the button
+Seat 1: Ale4o ($120 in chips)
+Seat 5: igorkabmw ($36.72 in chips)
+VolkovDmitri: is sitting out
+Ale4o: posts small blind $1
+igorkabmw: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri leaves the table
+Ale4o: raises $3 to $6
+igorkabmw: calls $3
+*** FLOP *** [Th 8s 2s]
+igorkabmw: checks
+Ale4o: bets $3
+igorkabmw: calls $3
+*** TURN *** [Th 8s 2s] [Qc]
+igorkabmw: checks
+Ale4o: checks
+*** RIVER *** [Th 8s 2s Qc] [Jd]
+igorkabmw: checks
+Ale4o: bets $6
+igorkabmw: folds
+Uncalled bet ($6) returned to Ale4o
+Ale4o collected $17.64 from pot
+Ale4o: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Th 8s 2s Qc Jd]
+Seat 1: Ale4o (button) (small blind) collected ($17.64)
+Seat 5: igorkabmw (big blind) folded on the River
+
+
+PokerStars Hand #176094564860:  Hold'em Limit ($3/$6 USD) - 2017/09/25 4:40:18 ET
+Table 'Kale' 6-max Seat #1 is the button
+Seat 1: Ale4o ($107.64 in chips)
+Seat 5: igorkabmw ($48.22 in chips)
+Ale4o: posts small blind $1
+igorkabmw: posts big blind $3
+Anchig joins the table at seat #6
+*** HOLE CARDS ***
+Ale4o: raises $3 to $6
+igorkabmw: calls $3
+*** FLOP *** [Qd 8c 4d]
+igorkabmw: checks
+Ale4o: bets $3
+lvn030178 joins the table at seat #2
+igorkabmw: calls $3
+*** TURN *** [Qd 8c 4d] [7h]
+igorkabmw: checks
+Ale4o: bets $6
+igorkabmw: calls $6
+*** RIVER *** [Qd 8c 4d 7h] [3s]
+igorkabmw: checks
+Ale4o: bets $6
+igorkabmw: folds
+Uncalled bet ($6) returned to Ale4o
+Ale4o collected $29.50 from pot
+Ale4o: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qd 8c 4d 7h 3s]
+Seat 1: Ale4o (button) (small blind) collected ($29.50)
+Seat 5: igorkabmw (big blind) folded on the River
+
+
+PokerStars Hand #176094560299:  Hold'em Limit ($3/$6 USD) - 2017/09/25 4:40:02 ET
+Table 'Kale' 6-max Seat #5 is the button
+Seat 1: Ale4o ($128.64 in chips)
+Seat 5: igorkabmw ($27.72 in chips)
+igorkabmw: posts small blind $1
+Ale4o: posts big blind $3
+*** HOLE CARDS ***
+igorkabmw: raises $3 to $6
+Ale4o: calls $3
+*** FLOP *** [5c Ah Jd]
+Ale4o: checks
+igorkabmw: bets $3
+Ale4o: calls $3
+*** TURN *** [5c Ah Jd] [Tc]
+Ale4o: checks
+igorkabmw: bets $6
+Ale4o: calls $6
+*** RIVER *** [5c Ah Jd Tc] [6d]
+Ale4o: checks
+igorkabmw: bets $6
+Ale4o: calls $6
+*** SHOW DOWN ***
+igorkabmw: shows [Kc Qh] (a straight, Ten to Ace)
+Ale4o: mucks hand
+igorkabmw collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [5c Ah Jd Tc 6d]
+Seat 1: Ale4o (big blind) mucked
+Seat 5: igorkabmw (button) (small blind) showed [Kc Qh] and won ($41.50) with a straight, Ten to Ace
+
+

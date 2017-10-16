@@ -1,0 +1,77 @@
+PokerStars Hand #158068452206:  Hold'em Limit ($3/$6 USD) - 2016/09/02 14:19:47 ET
+Table 'Leontina II' 6-max Seat #2 is the button
+Seat 2: igmade ($120 in chips)
+Seat 4: vestimokrec ($120 in chips)
+igmade: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+igmade: raises $3 to $6
+vestimokrec: calls $3
+*** FLOP *** [Jh 6c 5s]
+vestimokrec: checks
+igmade: bets $3
+vestimokrec: calls $3
+*** TURN *** [Jh 6c 5s] [8h]
+vestimokrec: checks
+igmade: checks
+*** RIVER *** [Jh 6c 5s 8h] [Js]
+vestimokrec: bets $6
+igmade: calls $6
+*** SHOW DOWN ***
+vestimokrec: shows [5c Qc] (two pair, Jacks and Fives)
+igmade: mucks hand
+vestimokrec collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Jh 6c 5s 8h Js]
+Seat 2: igmade (button) (small blind) mucked
+Seat 4: vestimokrec (big blind) showed [5c Qc] and won ($29.50) with two pair, Jacks and Fives
+
+
+PokerStars Hand #158068492282:  Hold'em Limit ($3/$6 USD) - 2016/09/02 14:20:44 ET
+Table 'Leontina II' 6-max Seat #4 is the button
+Seat 2: igmade ($105 in chips)
+Seat 4: vestimokrec ($134.50 in chips)
+vestimokrec: posts small blind $1
+igmade: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: folds
+Uncalled bet ($2) returned to igmade
+igmade collected $2 from pot
+igmade: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: igmade (big blind) collected ($2)
+Seat 4: vestimokrec (button) (small blind) folded before Flop
+
+
+PokerStars Hand #158068497943:  Hold'em Limit ($3/$6 USD) - 2016/09/02 14:20:52 ET
+Table 'Leontina II' 6-max Seat #2 is the button
+Seat 2: igmade ($106 in chips)
+Seat 4: vestimokrec ($133.50 in chips)
+igmade: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+igmade: raises $3 to $6
+vestimokrec: calls $3
+*** FLOP *** [Ad 6c 6s]
+vestimokrec: checks
+igmade: checks
+*** TURN *** [Ad 6c 6s] [6d]
+SuperShark joins the table at seat #1
+vestimokrec: checks
+igmade: checks
+*** RIVER *** [Ad 6c 6s 6d] [5h]
+vestimokrec: checks
+igmade: bets $6
+vestimokrec: folds
+Uncalled bet ($6) returned to igmade
+igmade collected $11.76 from pot
+igmade: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ad 6c 6s 6d 5h]
+Seat 2: igmade (button) (small blind) collected ($11.76)
+Seat 4: vestimokrec (big blind) folded on the River
+
+

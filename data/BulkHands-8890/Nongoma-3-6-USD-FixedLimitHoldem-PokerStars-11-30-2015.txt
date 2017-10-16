@@ -1,0 +1,29 @@
+PokerStars Hand #144629935307:  Hold'em Limit ($3/$6 USD) - 2015/11/30 16:32:53 ET
+Table 'Nongoma' 2-max Seat #2 is the button
+Seat 1: fasuperaz ($11.21 in chips)
+Seat 2: xotgan ($114.94 in chips)
+xotgan: posts small blind $1
+fasuperaz: posts big blind $3
+*** HOLE CARDS ***
+xotgan: calls $2
+fasuperaz: checks
+*** FLOP *** [Kd 3d 7d]
+fasuperaz: checks
+xotgan: checks
+*** TURN *** [Kd 3d 7d] [As]
+fasuperaz: bets $6
+xotgan: raises $6 to $12
+fasuperaz: calls $2.21 and is all-in
+Uncalled bet ($3.79) returned to xotgan
+*** RIVER *** [Kd 3d 7d As] [Ah]
+*** SHOW DOWN ***
+fasuperaz: shows [Ts Js] (a pair of Aces)
+xotgan: shows [9d 7s] (two pair, Aces and Sevens)
+xotgan collected $21.97 from pot
+*** SUMMARY ***
+Total pot $22.42 | Rake $0.45
+Board [Kd 3d 7d As Ah]
+Seat 1: fasuperaz (big blind) showed [Ts Js] and lost with a pair of Aces
+Seat 2: xotgan (button) (small blind) showed [9d 7s] and won ($21.97) with two pair, Aces and Sevens
+
+

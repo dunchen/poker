@@ -1,0 +1,34 @@
+PokerStars Hand #145303098501:  Hold'em Limit ($3/$6 USD) - 2015/12/13 17:35:38 ET
+Table 'Sylvia' 6-max Seat #3 is the button
+Seat 3: craaa ($189.22 in chips)
+Seat 4: AzureCaper ($95 in chips)
+craaa: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+craaa: raises $3 to $6
+AzureCaper: raises $3 to $9
+gussi5 leaves the table
+craaa: calls $3
+*** FLOP *** [9c As 9s]
+AzureCaper: bets $3
+vestimokrec leaves the table
+craaa: calls $3
+*** TURN *** [9c As 9s] [3s]
+AzureCaper: checks
+craaa: bets $6
+AzureCaper: calls $6
+*** RIVER *** [9c As 9s 3s] [8d]
+AzureCaper: checks
+craaa: bets $6
+AzureCaper: calls $6
+*** SHOW DOWN ***
+craaa: shows [8h Kh] (two pair, Nines and Eights)
+AzureCaper: shows [5s Ad] (two pair, Aces and Nines)
+AzureCaper collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9c As 9s 3s 8d]
+Seat 3: craaa (button) (small blind) showed [8h Kh] and lost with two pair, Nines and Eights
+Seat 4: AzureCaper (big blind) showed [5s Ad] and won ($47.50) with two pair, Aces and Nines
+
+

@@ -1,0 +1,60 @@
+PokerStars Hand #168246834621:  Hold'em Limit ($3/$6 USD) - 2017/03/28 15:59:08 ET
+Table 'Minerva IV' 10-max Seat #1 is the button
+Seat 1: Zubasa07 ($308.64 in chips)
+Seat 2: mixidix ($24.12 in chips)
+Zubasa07: posts small blind $1
+mixidix: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+mixidix: calls $3
+*** FLOP *** [7c 8h 4c]
+mixidix: checks
+Zubasa07: bets $3
+mixidix: calls $3
+*** TURN *** [7c 8h 4c] [3h]
+mixidix: bets $6
+Zubasa07: calls $6
+*** RIVER *** [7c 8h 4c 3h] [Tc]
+mixidix: bets $6
+Zubasa07: raises $6 to $12
+mixidix: calls $3.12 and is all-in
+Uncalled bet ($2.88) returned to Zubasa07
+*** SHOW DOWN ***
+Zubasa07: shows [9h 6c] (a straight, Six to Ten)
+mixidix: shows [2h 4h] (a pair of Fours)
+Zubasa07 collected $47.74 from pot
+*** SUMMARY ***
+Total pot $48.24 | Rake $0.50
+Board [7c 8h 4c 3h Tc]
+Seat 1: Zubasa07 (button) (small blind) showed [9h 6c] and won ($47.74) with a straight, Six to Ten
+Seat 2: mixidix (big blind) showed [2h 4h] and lost with a pair of Fours
+
+
+PokerStars Hand #168246811448:  Hold'em Limit ($3/$6 USD) - 2017/03/28 15:58:38 ET
+Table 'Minerva IV' 10-max Seat #2 is the button
+Seat 1: Zubasa07 ($305.76 in chips)
+Seat 2: mixidix ($27.12 in chips)
+mixidix: posts small blind $1
+Zubasa07: posts big blind $3
+*** HOLE CARDS ***
+mixidix: calls $2
+Zubasa07: checks
+*** FLOP *** [Qs Kd 5h]
+Zubasa07: checks
+mixidix: checks
+*** TURN *** [Qs Kd 5h] [6h]
+Zubasa07: checks
+mixidix: checks
+*** RIVER *** [Qs Kd 5h 6h] [Ah]
+Zubasa07: bets $6
+mixidix: folds
+Uncalled bet ($6) returned to Zubasa07
+Zubasa07 collected $5.88 from pot
+Zubasa07: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Qs Kd 5h 6h Ah]
+Seat 1: Zubasa07 (big blind) collected ($5.88)
+Seat 2: mixidix (button) (small blind) folded on the River
+
+

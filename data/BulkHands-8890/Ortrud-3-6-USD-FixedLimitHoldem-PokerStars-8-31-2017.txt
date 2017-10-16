@@ -1,0 +1,32 @@
+PokerStars Hand #175021614258:  Hold'em Limit ($3/$6 USD) - 2017/08/31 9:54:13 ET
+Table 'Ortrud' 6-max Seat #2 is the button
+Seat 1: brokentoooth ($95.75 in chips)
+Seat 2: vestimokrec ($155.42 in chips)
+vestimokrec: posts small blind $1
+brokentoooth: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+brokentoooth: calls $3
+*** FLOP *** [8s Tc 4c]
+brokentoooth: checks
+vestimokrec: bets $3
+brokentoooth: calls $3
+*** TURN *** [8s Tc 4c] [5s]
+brokentoooth: checks
+vestimokrec: bets $6
+brokentoooth: calls $6
+*** RIVER *** [8s Tc 4c 5s] [6d]
+brokentoooth: checks
+vestimokrec: bets $6
+brokentoooth: calls $6
+*** SHOW DOWN ***
+vestimokrec: shows [Ah Td] (a pair of Tens)
+brokentoooth: mucks hand
+vestimokrec collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [8s Tc 4c 5s 6d]
+Seat 1: brokentoooth (big blind) mucked
+Seat 2: vestimokrec (button) (small blind) showed [Ah Td] and won ($41.50) with a pair of Tens
+
+

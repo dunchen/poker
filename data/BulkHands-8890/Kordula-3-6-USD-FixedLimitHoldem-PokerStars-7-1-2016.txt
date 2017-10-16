@@ -1,0 +1,60 @@
+PokerStars Hand #155417384058:  Hold'em Limit ($3/$6 USD) - 2016/07/01 5:14:45 ET
+Table 'Kordula' 6-max Seat #4 is the button
+Seat 1: playergains ($140.76 in chips)
+Seat 4: Murrrr_@T ($163.31 in chips)
+Murrrr_@T: posts small blind $1
+ABATAPP: is sitting out
+ABATAPP leaves the table
+playergains: posts big blind $3
+*** HOLE CARDS ***
+Murrrr_@T: raises $3 to $6
+playergains: calls $3
+*** FLOP *** [Qd Ts 6d]
+playergains: checks
+Murrrr_@T: bets $3
+playergains: calls $3
+*** TURN *** [Qd Ts 6d] [7d]
+playergains: checks
+ABATAPP joins the table at seat #2
+Murrrr_@T: checks
+*** RIVER *** [Qd Ts 6d 7d] [3s]
+playergains: bets $6
+Murrrr_@T: calls $6
+*** SHOW DOWN ***
+playergains: shows [6s Ah] (a pair of Sixes)
+Murrrr_@T: mucks hand
+playergains collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qd Ts 6d 7d 3s]
+Seat 1: playergains (big blind) showed [6s Ah] and won ($29.50) with a pair of Sixes
+Seat 4: Murrrr_@T (button) (small blind) mucked
+
+
+PokerStars Hand #155417627568:  Hold'em Limit ($3/$6 USD) - 2016/07/01 5:26:54 ET
+Table 'Kordula' 6-max Seat #2 is the button
+Seat 2: ABATAPP ($107.51 in chips)
+Seat 4: Murrrr_@T ($290.42 in chips)
+ABATAPP: posts small blind $1
+Murrrr_@T: posts big blind $3
+*** HOLE CARDS ***
+ABATAPP: raises $3 to $6
+Murrrr_@T: calls $3
+*** FLOP *** [5d 3c Ad]
+Murrrr_@T: checks
+ABATAPP: checks
+*** TURN *** [5d 3c Ad] [6h]
+Murrrr_@T: bets $6
+playergains leaves the table
+ABATAPP: raises $6 to $12
+Murrrr_@T: folds
+Uncalled bet ($6) returned to ABATAPP
+ABATAPP collected $23.52 from pot
+ABATAPP: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [5d 3c Ad 6h]
+Seat 2: ABATAPP (button) (small blind) collected ($23.52)
+Seat 4: Murrrr_@T (big blind) folded on the Turn
+
+

@@ -1,0 +1,54 @@
+PokerStars Hand #166079662204:  Hold'em Limit ($3/$6 USD) - 2017/02/12 3:29:22 ET
+Table 'Kolga II' 6-max Seat #4 is the button
+Seat 3: sim5sim5 ($72 in chips)
+Seat 4: Agrotait ($95.50 in chips)
+Agrotait: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+sim5sim5: raises $3 to $9
+Agrotait: calls $3
+*** FLOP *** [Td 8c 4d]
+sim5sim5: bets $3
+Agrotait: folds
+Uncalled bet ($3) returned to sim5sim5
+sim5sim5 collected $17.64 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Td 8c 4d]
+Seat 3: sim5sim5 (big blind) collected ($17.64)
+Seat 4: Agrotait (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #166079637447:  Hold'em Limit ($3/$6 USD) - 2017/02/12 3:28:13 ET
+Table 'Kolga II' 6-max Seat #3 is the button
+Seat 3: sim5sim5 ($72 in chips)
+Seat 4: Agrotait ($72 in chips)
+sim5sim5: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+Agrotait: raises $3 to $9
+sim5sim5: calls $3
+*** FLOP *** [Ts 2h 6d]
+Agrotait: bets $3
+sim5sim5: raises $3 to $6
+Agrotait: raises $3 to $9
+sim5sim5: calls $3
+*** TURN *** [Ts 2h 6d] [5h]
+Agrotait: bets $6
+sim5sim5: calls $6
+*** RIVER *** [Ts 2h 6d 5h] [Qh]
+Agrotait: bets $6
+sim5sim5: folds
+Uncalled bet ($6) returned to Agrotait
+Agrotait collected $47.50 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Ts 2h 6d 5h Qh]
+Seat 3: sim5sim5 (button) (small blind) folded on the River
+Seat 4: Agrotait (big blind) collected ($47.50)
+
+

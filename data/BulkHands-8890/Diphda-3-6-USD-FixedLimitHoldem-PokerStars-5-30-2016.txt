@@ -1,0 +1,85 @@
+PokerStars Hand #154039322911:  Hold'em Limit ($3/$6 USD) - 2016/05/30 5:36:23 ET
+Table 'Diphda' 6-max Seat #1 is the button
+Seat 1: anebodil ($93.26 in chips)
+Seat 3: Tryptamean ($120 in chips)
+anebodil: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+anebodil: raises $3 to $6
+Tryptamean: folds
+Uncalled bet ($3) returned to anebodil
+anebodil collected $6 from pot
+anebodil: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: anebodil (button) (small blind) collected ($6)
+Seat 3: Tryptamean (big blind) folded before Flop
+
+
+PokerStars Hand #154039327107:  Hold'em Limit ($3/$6 USD) - 2016/05/30 5:36:34 ET
+Table 'Diphda' 6-max Seat #3 is the button
+Seat 1: anebodil ($96.26 in chips)
+Seat 3: Tryptamean ($117 in chips)
+Tryptamean: posts small blind $1
+anebodil: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+anebodil: calls $3
+*** FLOP *** [6c 9c Qc]
+anebodil: checks
+Tryptamean: bets $3
+anebodil: calls $3
+*** TURN *** [6c 9c Qc] [7s]
+anebodil: checks
+Tryptamean: bets $6
+anebodil: calls $6
+*** RIVER *** [6c 9c Qc 7s] [8s]
+kolaz03 joins the table at seat #2
+anebodil: bets $6
+Tryptamean: calls $6
+*** SHOW DOWN ***
+anebodil: shows [Qs 5s] (a straight, Five to Nine)
+Tryptamean: mucks hand
+anebodil collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [6c 9c Qc 7s 8s]
+Seat 1: anebodil (big blind) showed [Qs 5s] and won ($41.50) with a straight, Five to Nine
+Seat 3: Tryptamean (button) (small blind) mucked
+
+
+PokerStars Hand #154040017546:  Hold'em Limit ($3/$6 USD) - 2016/05/30 6:07:15 ET
+Table 'Diphda' 6-max Seat #5 is the button
+Seat 3: Tryptamean ($276.04 in chips)
+Seat 5: Garuda Black ($121.37 in chips)
+Garuda Black: posts small blind $1
+MumsCustard: is sitting out
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+MumsCustard leaves the table
+tomte999 leaves the table
+Garuda Black: raises $3 to $6
+Tryptamean: raises $3 to $9
+Garuda Black: calls $3
+*** FLOP *** [7s 9h 6s]
+Tryptamean: bets $3
+Garuda Black: raises $3 to $6
+Tryptamean: raises $3 to $9
+Garuda Black: calls $3
+*** TURN *** [7s 9h 6s] [2c]
+Tryptamean: bets $6
+Garuda Black: calls $6
+*** RIVER *** [7s 9h 6s 2c] [6c]
+Tryptamean: bets $6
+Garuda Black: calls $6
+*** SHOW DOWN ***
+Tryptamean: shows [6h 7h] (a full house, Sixes full of Sevens)
+Garuda Black: mucks hand
+Tryptamean collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [7s 9h 6s 2c 6c]
+Seat 3: Tryptamean (big blind) showed [6h 7h] and won ($59.50) with a full house, Sixes full of Sevens
+Seat 5: Garuda Black (button) (small blind) mucked
+
+

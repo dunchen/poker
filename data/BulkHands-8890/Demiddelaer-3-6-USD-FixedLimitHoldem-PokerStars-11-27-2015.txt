@@ -1,0 +1,32 @@
+PokerStars Hand #144443941032:  Hold'em Limit ($3/$6 USD) - 2015/11/27 0:39:32 ET
+Table 'Demiddelaer' 6-max Seat #2 is the button
+Seat 2: Agrotait ($100.17 in chips)
+Seat 6: scorpio04 ($72 in chips)
+Agrotait: posts small blind $1
+scorpio04: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+scorpio04: calls $3
+*** FLOP *** [7c 8h 3s]
+scorpio04: checks
+Agrotait: bets $3
+scorpio04: raises $3 to $6
+Agrotait: calls $3
+*** TURN *** [7c 8h 3s] [Ad]
+scorpio04: bets $6
+Agrotait: calls $6
+*** RIVER *** [7c 8h 3s Ad] [3d]
+scorpio04: bets $6
+Agrotait: raises $6 to $12
+scorpio04: calls $6
+*** SHOW DOWN ***
+Agrotait: shows [3h Qd] (three of a kind, Threes)
+scorpio04: mucks hand
+Agrotait collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [7c 8h 3s Ad 3d]
+Seat 2: Agrotait (button) (small blind) showed [3h Qd] and won ($59.50) with three of a kind, Threes
+Seat 6: scorpio04 (big blind) mucked
+
+

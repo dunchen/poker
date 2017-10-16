@@ -1,0 +1,28 @@
+PokerStars Hand #150059077876:  Hold'em Limit ($3/$6 USD) - 2016/03/08 18:58:26 ET
+Table 'Moreau' 6-max Seat #4 is the button
+Seat 3: $i1ver ($32.88 in chips)
+Seat 4: AzureCaper ($72 in chips)
+AzureCaper: posts small blind $1
+$i1ver: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+$i1ver: calls $3
+*** FLOP *** [9c 5s 2h]
+$i1ver: checks
+AzureCaper: bets $3
+$i1ver: calls $3
+*** TURN *** [9c 5s 2h] [6h]
+$i1ver: checks
+AzureCaper: bets $6
+$i1ver: raises $6 to $12
+AzureCaper: folds
+Uncalled bet ($6) returned to $i1ver
+$i1ver collected $29.50 from pot
+$i1ver: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9c 5s 2h 6h]
+Seat 3: $i1ver (big blind) collected ($29.50)
+Seat 4: AzureCaper (button) (small blind) folded on the Turn
+
+

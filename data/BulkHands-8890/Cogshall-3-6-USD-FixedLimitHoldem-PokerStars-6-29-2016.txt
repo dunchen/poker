@@ -1,0 +1,32 @@
+PokerStars Hand #155342544419:  Hold'em Limit ($3/$6 USD) - 2016/06/29 10:04:26 ET
+Table 'Cogshall' 6-max Seat #4 is the button
+Seat 3: TbIP-TbIP 88 ($99.24 in chips)
+Seat 4: B_loJkl ($149.68 in chips)
+B_loJkl: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+TbIP-TbIP 88: calls $3
+*** FLOP *** [Th 5h Kc]
+TbIP-TbIP 88: checks
+B_loJkl: bets $3
+TbIP-TbIP 88: raises $3 to $6
+B_loJkl: calls $3
+*** TURN *** [Th 5h Kc] [7h]
+TbIP-TbIP 88: bets $6
+B_loJkl: calls $6
+*** RIVER *** [Th 5h Kc 7h] [6h]
+TbIP-TbIP 88: checks
+B_loJkl: bets $6
+TbIP-TbIP 88: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [Ah Qc] (a flush, Ace high)
+TbIP-TbIP 88: mucks hand
+B_loJkl collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Th 5h Kc 7h 6h]
+Seat 3: TbIP-TbIP 88 (big blind) mucked
+Seat 4: B_loJkl (button) (small blind) showed [Ah Qc] and won ($47.50) with a flush, Ace high
+
+

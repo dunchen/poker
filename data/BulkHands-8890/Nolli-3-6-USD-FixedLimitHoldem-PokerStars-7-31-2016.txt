@@ -1,0 +1,337 @@
+PokerStars Hand #156670742429:  Hold'em Limit ($3/$6 USD) - 2016/07/31 7:06:52 ET
+Table 'Nolli' 6-max Seat #3 is the button
+Seat 3: P.Kukiela ($30 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+P.Kukiela: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+P.Kukiela: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [7h As 5d]
+VolkovDmitri: checks
+P.Kukiela: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [7h As 5d] [7c]
+VolkovDmitri: checks
+P.Kukiela: checks
+*** RIVER *** [7h As 5d 7c] [Kc]
+VolkovDmitri: checks
+P.Kukiela: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+P.Kukiela: shows [Qs Kh] (two pair, Kings and Sevens)
+VolkovDmitri: mucks hand
+P.Kukiela collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7h As 5d 7c Kc]
+Seat 3: P.Kukiela (button) (small blind) showed [Qs Kh] and won ($29.50) with two pair, Kings and Sevens
+Seat 4: VolkovDmitri (big blind) mucked
+
+
+PokerStars Hand #156670754362:  Hold'em Limit ($3/$6 USD) - 2016/07/31 7:07:18 ET
+Table 'Nolli' 6-max Seat #4 is the button
+Seat 3: P.Kukiela ($44.50 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+P.Kukiela: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+P.Kukiela: raises $3 to $9
+VolkovDmitri: raises $3 to $12
+Betting is capped
+asino222 joins the table at seat #5
+P.Kukiela: calls $3
+*** FLOP *** [6s 5d 4h]
+P.Kukiela: checks
+VolkovDmitri: bets $3
+P.Kukiela: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+P.Kukiela: raises $3 to $12
+Betting is capped
+VolkovDmitri: calls $3
+*** TURN *** [6s 5d 4h] [5c]
+P.Kukiela: bets $6
+VolkovDmitri: raises $6 to $12
+P.Kukiela: calls $6
+*** RIVER *** [6s 5d 4h 5c] [Jd]
+P.Kukiela: checks
+Murrrr_@T joins the table at seat #6
+VolkovDmitri: bets $6
+P.Kukiela: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Js Jh] (a full house, Jacks full of Fives)
+P.Kukiela: mucks hand
+VolkovDmitri collected $83.50 from pot
+*** SUMMARY ***
+Total pot $84 | Rake $0.50
+Board [6s 5d 4h 5c Jd]
+Seat 3: P.Kukiela (big blind) mucked
+Seat 4: VolkovDmitri (button) (small blind) showed [Js Jh] and won ($83.50) with a full house, Jacks full of Fives
+
+
+PokerStars Hand #156670814426:  Hold'em Limit ($3/$6 USD) - 2016/07/31 7:09:28 ET
+Table 'Nolli' 6-max Seat #5 is the button
+Seat 5: asino222 ($56.50 in chips)
+Seat 6: Murrrr_@T ($122.50 in chips)
+asino222: posts small blind $1
+Murrrr_@T: posts big blind $3
+*** HOLE CARDS ***
+asino222: raises $3 to $6
+Murrrr_@T: folds
+Uncalled bet ($3) returned to asino222
+asino222 collected $6 from pot
+asino222: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 5: asino222 (button) (small blind) collected ($6)
+Seat 6: Murrrr_@T (big blind) folded before Flop
+
+
+PokerStars Hand #156670826925:  Hold'em Limit ($3/$6 USD) - 2016/07/31 7:09:55 ET
+Table 'Nolli' 6-max Seat #5 is the button
+Seat 5: asino222 ($38.50 in chips)
+Seat 6: Murrrr_@T ($140.50 in chips)
+asino222: posts small blind $1
+Murrrr_@T: posts big blind $3
+*** HOLE CARDS ***
+asino222: folds
+Uncalled bet ($2) returned to Murrrr_@T
+Murrrr_@T collected $2 from pot
+Murrrr_@T: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: asino222 (button) (small blind) folded before Flop
+Seat 6: Murrrr_@T (big blind) collected ($2)
+
+
+PokerStars Hand #156670804148:  Hold'em Limit ($3/$6 USD) - 2016/07/31 7:09:05 ET
+Table 'Nolli' 6-max Seat #6 is the button
+Seat 5: asino222 ($30 in chips)
+Seat 6: Murrrr_@T ($149.50 in chips)
+Murrrr_@T: posts small blind $1
+asino222: posts big blind $3
+*** HOLE CARDS ***
+Murrrr_@T: raises $3 to $6
+asino222: calls $3
+*** FLOP *** [4c 9d 9h]
+asino222: checks
+Murrrr_@T: bets $3
+asino222: calls $3
+*** TURN *** [4c 9d 9h] [Tc]
+asino222: checks
+Murrrr_@T: bets $6
+asino222: raises $6 to $12
+Murrrr_@T: calls $6
+*** RIVER *** [4c 9d 9h Tc] [7h]
+asino222: bets $6
+Murrrr_@T: calls $6
+*** SHOW DOWN ***
+asino222: shows [9c 6d] (three of a kind, Nines)
+Murrrr_@T: mucks hand
+asino222 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [4c 9d 9h Tc 7h]
+Seat 5: asino222 (big blind) showed [9c 6d] and won ($53.50) with three of a kind, Nines
+Seat 6: Murrrr_@T (button) (small blind) mucked
+
+
+PokerStars Hand #156670817548:  Hold'em Limit ($3/$6 USD) - 2016/07/31 7:09:35 ET
+Table 'Nolli' 6-max Seat #6 is the button
+Seat 5: asino222 ($59.50 in chips)
+Seat 6: Murrrr_@T ($120 in chips)
+Murrrr_@T: posts small blind $1
+asino222: posts big blind $3
+*** HOLE CARDS ***
+Murrrr_@T: raises $3 to $6
+asino222: calls $3
+*** FLOP *** [2s 3h 5s]
+asino222: checks
+Murrrr_@T: bets $3
+asino222: calls $3
+*** TURN *** [2s 3h 5s] [Qc]
+asino222: checks
+Murrrr_@T: bets $6
+asino222: calls $6
+*** RIVER *** [2s 3h 5s Qc] [9h]
+asino222: checks
+Murrrr_@T: bets $6
+asino222: calls $6
+*** SHOW DOWN ***
+Murrrr_@T: shows [Ah Qd] (a pair of Queens)
+asino222: mucks hand
+Murrrr_@T collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2s 3h 5s Qc 9h]
+Seat 5: asino222 (big blind) mucked
+Seat 6: Murrrr_@T (button) (small blind) showed [Ah Qd] and won ($41.50) with a pair of Queens
+
+
+PokerStars Hand #156670842277:  Hold'em Limit ($3/$6 USD) - 2016/07/31 7:10:28 ET
+Table 'Nolli' 6-max Seat #5 is the button
+Seat 5: asino222 ($61 in chips)
+Seat 6: Murrrr_@T ($120 in chips)
+asino222: posts small blind $1
+Murrrr_@T: posts big blind $3
+*** HOLE CARDS ***
+asino222: raises $3 to $6
+Murrrr_@T: calls $3
+*** FLOP *** [Ah 3d Qd]
+Murrrr_@T: checks
+asino222: bets $3
+Murrrr_@T: folds
+Uncalled bet ($3) returned to asino222
+asino222 collected $11.76 from pot
+asino222: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ah 3d Qd]
+Seat 5: asino222 (button) (small blind) collected ($11.76)
+Seat 6: Murrrr_@T (big blind) folded on the Flop
+
+
+PokerStars Hand #156670831451:  Hold'em Limit ($3/$6 USD) - 2016/07/31 7:10:05 ET
+Table 'Nolli' 6-max Seat #6 is the button
+Seat 5: asino222 ($37.50 in chips)
+Seat 6: Murrrr_@T ($141.50 in chips)
+Murrrr_@T: posts small blind $1
+asino222: posts big blind $3
+*** HOLE CARDS ***
+Murrrr_@T: raises $3 to $6
+asino222: calls $3
+*** FLOP *** [2s Jc 6c]
+asino222: checks
+Murrrr_@T: bets $3
+asino222: raises $3 to $6
+Murrrr_@T: calls $3
+*** TURN *** [2s Jc 6c] [3h]
+asino222: bets $6
+Murrrr_@T: calls $6
+*** RIVER *** [2s Jc 6c 3h] [Ah]
+asino222: bets $6
+Murrrr_@T: calls $6
+*** SHOW DOWN ***
+asino222: shows [Js 8h] (a pair of Jacks)
+Murrrr_@T: mucks hand
+asino222 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2s Jc 6c 3h Ah]
+Seat 5: asino222 (big blind) showed [Js 8h] and won ($47.50) with a pair of Jacks
+Seat 6: Murrrr_@T (button) (small blind) mucked
+
+
+PokerStars Hand #156670848921:  Hold'em Limit ($3/$6 USD) - 2016/07/31 7:10:42 ET
+Table 'Nolli' 6-max Seat #6 is the button
+Seat 5: asino222 ($66.76 in chips)
+Seat 6: Murrrr_@T ($120 in chips)
+Murrrr_@T: posts small blind $1
+asino222: posts big blind $3
+*** HOLE CARDS ***
+Murrrr_@T: raises $3 to $6
+asino222: raises $3 to $9
+Murrrr_@T: raises $3 to $12
+Betting is capped
+asino222: calls $3
+*** FLOP *** [2c Ac Jd]
+asino222: bets $3
+Murrrr_@T: raises $3 to $6
+asino222: calls $3
+*** TURN *** [2c Ac Jd] [7d]
+asino222: checks
+Murrrr_@T: bets $6
+asino222: raises $6 to $12
+Murrrr_@T: raises $6 to $18
+asino222: raises $6 to $24
+Betting is capped
+Murrrr_@T: calls $6
+*** RIVER *** [2c Ac Jd 7d] [6d]
+asino222: bets $6
+Murrrr_@T: calls $6
+*** SHOW DOWN ***
+asino222: shows [Ad Jh] (two pair, Aces and Jacks)
+Murrrr_@T: shows [Js Jc] (three of a kind, Jacks)
+Murrrr_@T collected $95.50 from pot
+*** SUMMARY ***
+Total pot $96 | Rake $0.50
+Board [2c Ac Jd 7d 6d]
+Seat 5: asino222 (big blind) showed [Ad Jh] and lost with two pair, Aces and Jacks
+Seat 6: Murrrr_@T (button) (small blind) showed [Js Jc] and won ($95.50) with three of a kind, Jacks
+
+
+PokerStars Hand #156670879657:  Hold'em Limit ($3/$6 USD) - 2016/07/31 7:11:43 ET
+Table 'Nolli' 6-max Seat #5 is the button
+Seat 5: asino222 ($6.76 in chips)
+Seat 6: Murrrr_@T ($179.14 in chips)
+asino222: posts small blind $1
+Murrrr_@T: posts big blind $3
+*** HOLE CARDS ***
+asino222: raises $3 to $6
+Murrrr_@T: raises $3 to $9
+asino222: calls $0.76 and is all-in
+Uncalled bet ($2.24) returned to Murrrr_@T
+*** FLOP *** [Kd 7d Ks]
+*** TURN *** [Kd 7d Ks] [Kc]
+*** RIVER *** [Kd 7d Ks Kc] [4d]
+*** SHOW DOWN ***
+Murrrr_@T: shows [7h 3h] (a full house, Kings full of Sevens)
+asino222: shows [3c Jc] (three of a kind, Kings)
+asino222 leaves the table
+Murrrr_@T collected $13.25 from pot
+*** SUMMARY ***
+Total pot $13.52 | Rake $0.27
+Board [Kd 7d Ks Kc 4d]
+Seat 5: asino222 (button) (small blind) showed [3c Jc] and lost with three of a kind, Kings
+Seat 6: Murrrr_@T (big blind) showed [7h 3h] and won ($13.25) with a full house, Kings full of Sevens
+
+
+PokerStars Hand #156670877231:  Hold'em Limit ($3/$6 USD) - 2016/07/31 7:11:38 ET
+Table 'Nolli' 6-max Seat #6 is the button
+Seat 5: asino222 ($9.76 in chips)
+Seat 6: Murrrr_@T ($176.14 in chips)
+Murrrr_@T: posts small blind $1
+asino222: posts big blind $3
+*** HOLE CARDS ***
+Murrrr_@T: raises $3 to $6
+asino222: folds
+Uncalled bet ($3) returned to Murrrr_@T
+Murrrr_@T collected $6 from pot
+Murrrr_@T: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 5: asino222 (big blind) folded before Flop
+Seat 6: Murrrr_@T (button) (small blind) collected ($6)
+
+
+PokerStars Hand #156670869148:  Hold'em Limit ($3/$6 USD) - 2016/07/31 7:11:20 ET
+Table 'Nolli' 6-max Seat #5 is the button
+Seat 5: asino222 ($18.76 in chips)
+Seat 6: Murrrr_@T ($167.50 in chips)
+asino222: posts small blind $1
+Murrrr_@T: posts big blind $3
+*** HOLE CARDS ***
+asino222: raises $3 to $6
+Murrrr_@T: calls $3
+*** FLOP *** [8s 2h 4d]
+Murrrr_@T: checks
+asino222: bets $3
+Murrrr_@T: calls $3
+*** TURN *** [8s 2h 4d] [Kh]
+Murrrr_@T: checks
+asino222: checks
+*** RIVER *** [8s 2h 4d Kh] [As]
+Murrrr_@T: checks
+asino222: checks
+*** SHOW DOWN ***
+Murrrr_@T: shows [Qh 9s] (high card Ace)
+asino222: mucks hand
+Murrrr_@T collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8s 2h 4d Kh As]
+Seat 5: asino222 (button) (small blind) mucked
+Seat 6: Murrrr_@T (big blind) showed [Qh 9s] and won ($17.64) with high card Ace
+
+

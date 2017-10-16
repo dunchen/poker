@@ -1,0 +1,31 @@
+PokerStars Hand #174468372725:  Hold'em Limit ($3/$6 USD) - 2017/08/17 20:31:28 ET
+Table 'Antikleia' 6-max Seat #3 is the button
+Seat 2: ToDaFelt ($180.22 in chips)
+Seat 3: jamie2000 ($157.16 in chips)
+jamie2000: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+jamie2000: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [8c 2h 2d]
+ToDaFelt: checks
+jamie2000: bets $3
+ToDaFelt: raises $3 to $6
+jamie2000: calls $3
+*** TURN *** [8c 2h 2d] [4d]
+ToDaFelt: bets $6
+jamie2000: calls $6
+*** RIVER *** [8c 2h 2d 4d] [Kd]
+ToDaFelt: bets $6
+jamie2000: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [8d 6h] (two pair, Eights and Deuces)
+jamie2000: shows [Kc Qh] (two pair, Kings and Deuces)
+jamie2000 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8c 2h 2d 4d Kd]
+Seat 2: ToDaFelt (big blind) showed [8d 6h] and lost with two pair, Eights and Deuces
+Seat 3: jamie2000 (button) (small blind) showed [Kc Qh] and won ($47.50) with two pair, Kings and Deuces
+
+

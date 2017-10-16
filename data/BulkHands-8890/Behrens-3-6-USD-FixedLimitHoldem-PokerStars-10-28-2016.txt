@@ -1,0 +1,100 @@
+PokerStars Hand #160557881522:  Hold'em Limit ($3/$6 USD) - 2016/10/28 14:21:38 ET
+Table 'Behrens' 6-max Seat #6 is the button
+Seat 1: LifeisagameX ($84 in chips)
+Seat 6: AnVan ($42 in chips)
+AnVan: posts small blind $1
+LifeisagameX: posts big blind $3
+*** HOLE CARDS ***
+AnVan: calls $2
+LifeisagameX: checks
+*** FLOP *** [2s Kd 8h]
+LifeisagameX: bets $3
+AnVan: folds
+Uncalled bet ($3) returned to LifeisagameX
+xxPSRxx joins the table at seat #2
+LifeisagameX collected $5.88 from pot
+LifeisagameX: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [2s Kd 8h]
+Seat 1: LifeisagameX (big blind) collected ($5.88)
+Seat 6: AnVan (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #160557947259:  Hold'em Limit ($3/$6 USD) - 2016/10/28 14:22:59 ET
+Table 'Behrens' 6-max Seat #2 is the button
+Seat 2: xxPSRxx ($117 in chips)
+Seat 6: AnVan ($15 in chips)
+xxPSRxx: posts small blind $1
+AnVan: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX leaves the table
+xxPSRxx: folds
+Uncalled bet ($2) returned to AnVan
+AnVan collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: xxPSRxx (button) (small blind) folded before Flop
+Seat 6: AnVan (big blind) collected ($2)
+
+
+PokerStars Hand #160557978176:  Hold'em Limit ($3/$6 USD) - 2016/10/28 14:23:36 ET
+Table 'Behrens' 6-max Seat #6 is the button
+Seat 1: kolaz03 ($72 in chips)
+Seat 6: AnVan ($16 in chips)
+AnVan: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+AnVan: raises $3 to $6
+kolaz03: raises $3 to $9
+AnVan: calls $3
+*** FLOP *** [8d Qc Qs]
+kolaz03: bets $3
+AnVan: calls $3
+*** TURN *** [8d Qc Qs] [3d]
+kolaz03: bets $6
+AnVan: calls $4 and is all-in
+Uncalled bet ($2) returned to kolaz03
+*** RIVER *** [8d Qc Qs 3d] [Kc]
+*** SHOW DOWN ***
+kolaz03: shows [As 5h] (a pair of Queens)
+AnVan: shows [2s 9d] (a pair of Queens - lower kicker)
+kolaz03 collected $31.50 from pot
+*** SUMMARY ***
+Total pot $32 | Rake $0.50
+Board [8d Qc Qs 3d Kc]
+Seat 1: kolaz03 (big blind) showed [As 5h] and won ($31.50) with a pair of Queens
+Seat 6: AnVan (button) (small blind) showed [2s 9d] and lost with a pair of Queens
+
+
+PokerStars Hand #160558000959:  Hold'em Limit ($3/$6 USD) - 2016/10/28 14:24:04 ET
+Table 'Behrens' 6-max Seat #1 is the button
+Seat 1: kolaz03 ($87.50 in chips)
+Seat 2: xxPSRxx ($116 in chips)
+kolaz03: posts small blind $1
+xxPSRxx: posts big blind $3
+*** HOLE CARDS ***
+AnVan leaves the table
+kolaz03: raises $3 to $6
+xxPSRxx: calls $3
+*** FLOP *** [Jc 7h 8c]
+xxPSRxx: checks
+kolaz03: bets $3
+xxPSRxx: calls $3
+*** TURN *** [Jc 7h 8c] [Kc]
+xxPSRxx: checks
+kolaz03: checks
+*** RIVER *** [Jc 7h 8c Kc] [8s]
+xxPSRxx: bets $6
+kolaz03: raises $6 to $12
+xxPSRxx: folds
+Uncalled bet ($6) returned to kolaz03
+kolaz03 collected $29.50 from pot
+kolaz03: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Jc 7h 8c Kc 8s]
+Seat 1: kolaz03 (button) (small blind) collected ($29.50)
+Seat 2: xxPSRxx (big blind) folded on the River
+
+

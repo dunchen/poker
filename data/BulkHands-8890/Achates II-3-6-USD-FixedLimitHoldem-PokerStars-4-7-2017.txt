@@ -1,0 +1,31 @@
+PokerStars Hand #168697410287:  Hold'em Limit ($3/$6 USD) - 2017/04/07 7:39:09 ET
+Table 'Achates II' 6-max Seat #2 is the button
+Seat 2: MTails ($149.41 in chips)
+Seat 4: Krazy90 ($142.57 in chips)
+MTails: posts small blind $1
+Krazy90: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+Krazy90: calls $3
+*** FLOP *** [9s 2c Th]
+Krazy90: checks
+MTails: checks
+*** TURN *** [9s 2c Th] [7s]
+Krazy90: checks
+MTails: bets $6
+Krazy90: calls $6
+*** RIVER *** [9s 2c Th 7s] [Ac]
+Krazy90: checks
+MTails: bets $6
+Krazy90: calls $6
+*** SHOW DOWN ***
+MTails: shows [8d 6c] (a straight, Six to Ten)
+Krazy90: mucks hand
+MTails collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [9s 2c Th 7s Ac]
+Seat 2: MTails (button) (small blind) showed [8d 6c] and won ($35.50) with a straight, Six to Ten
+Seat 4: Krazy90 (big blind) mucked
+
+

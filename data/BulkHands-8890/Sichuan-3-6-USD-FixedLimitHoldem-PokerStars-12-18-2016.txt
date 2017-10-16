@@ -1,0 +1,98 @@
+PokerStars Hand #163136746093:  Hold'em Limit ($3/$6 USD) - 2016/12/18 10:16:04 ET
+Table 'Sichuan' 6-max Seat #3 is the button
+Seat 3: mujo90 ($30 in chips)
+Seat 4: AzureCaper ($72 in chips)
+mujo90: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+mujo90: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [Kh 3d 5d]
+AzureCaper: checks
+mujo90: bets $3
+AzureCaper: raises $3 to $6
+mujo90: calls $3
+*** TURN *** [Kh 3d 5d] [Ac]
+AzureCaper: bets $6
+mujo90: calls $6
+*** RIVER *** [Kh 3d 5d Ac] [9h]
+AzureCaper: bets $6
+mujo90: folds
+Uncalled bet ($6) returned to AzureCaper
+AzureCaper collected $35.50 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Kh 3d 5d Ac 9h]
+Seat 3: mujo90 (button) (small blind) folded on the River
+Seat 4: AzureCaper (big blind) collected ($35.50)
+
+
+PokerStars Hand #163136789866:  Hold'em Limit ($3/$6 USD) - 2016/12/18 10:16:52 ET
+Table 'Sichuan' 6-max Seat #3 is the button
+Seat 3: mujo90 ($23.52 in chips)
+Seat 4: AzureCaper ($77.50 in chips)
+mujo90: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+mujo90: raises $3 to $6
+AzureCaper: folds
+Uncalled bet ($3) returned to mujo90
+mujo90 collected $6 from pot
+mujo90: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: mujo90 (button) (small blind) collected ($6)
+Seat 4: AzureCaper (big blind) folded before Flop
+
+
+PokerStars Hand #163136770159:  Hold'em Limit ($3/$6 USD) - 2016/12/18 10:16:30 ET
+Table 'Sichuan' 6-max Seat #4 is the button
+Seat 3: mujo90 ($12 in chips)
+Seat 4: AzureCaper ($89.50 in chips)
+AzureCaper: posts small blind $1
+mujo90: posts big blind $3
+*** HOLE CARDS ***
+O>_Fu_<O joins the table at seat #6
+AzureCaper: raises $3 to $6
+mujo90: calls $3
+*** FLOP *** [5s 8d 9d]
+mujo90: bets $3
+AzureCaper: raises $3 to $6
+mujo90: calls $3 and is all-in
+*** TURN *** [5s 8d 9d] [3c]
+*** RIVER *** [5s 8d 9d 3c] [6s]
+*** SHOW DOWN ***
+mujo90: shows [7h Qs] (a straight, Five to Nine)
+AzureCaper: shows [9c Tc] (a pair of Nines)
+mujo90 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [5s 8d 9d 3c 6s]
+Seat 3: mujo90 (big blind) showed [7h Qs] and won ($23.52) with a straight, Five to Nine
+Seat 4: AzureCaper (button) (small blind) showed [9c Tc] and lost with a pair of Nines
+
+
+PokerStars Hand #163136838934:  Hold'em Limit ($3/$6 USD) - 2016/12/18 10:17:45 ET
+Table 'Sichuan' 6-max Seat #6 is the button
+Seat 4: AzureCaper ($103.16 in chips)
+Seat 6: O>_Fu_<O ($125.42 in chips)
+O>_Fu_<O: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+O>_Fu_<O: calls $2
+mujo90 leaves the table
+AzureCaper: checks
+*** FLOP *** [Js 6h 8h]
+AzureCaper: checks
+O>_Fu_<O: bets $3
+AzureCaper: folds
+Uncalled bet ($3) returned to O>_Fu_<O
+O>_Fu_<O collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Js 6h 8h]
+Seat 4: AzureCaper (big blind) folded on the Flop
+Seat 6: O>_Fu_<O (button) (small blind) collected ($5.88)
+
+

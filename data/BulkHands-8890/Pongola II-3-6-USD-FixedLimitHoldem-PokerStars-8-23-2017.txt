@@ -1,0 +1,36 @@
+PokerStars Hand #174701575841:  Hold'em Limit ($3/$6 USD) - 2017/08/23 14:05:14 ET
+Table 'Pongola II' 6-max Seat #4 is the button
+Seat 2: Chefred ($203.43 in chips)
+Seat 4: vestimokrec ($71.45 in chips)
+vestimokrec: posts small blind $1
+Apanage: is sitting out
+Chefred: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+Apanage leaves the table
+Chefred: calls $3
+*** FLOP *** [8c Qh Tc]
+Chefred: checks
+vestimokrec: bets $3
+Chefred: calls $3
+*** TURN *** [8c Qh Tc] [Jc]
+Chefred: checks
+vestimokrec: bets $6
+Chefred: raises $6 to $12
+vestimokrec: calls $6
+*** RIVER *** [8c Qh Tc Jc] [Ac]
+Chefred: bets $6
+vestimokrec: raises $6 to $12
+Chefred: raises $6 to $18
+vestimokrec: calls $6
+*** SHOW DOWN ***
+Chefred: shows [Kc 3c] (a flush, Ace high)
+vestimokrec: mucks hand
+Chefred collected $77.50 from pot
+*** SUMMARY ***
+Total pot $78 | Rake $0.50
+Board [8c Qh Tc Jc Ac]
+Seat 2: Chefred (big blind) showed [Kc 3c] and won ($77.50) with a flush, Ace high
+Seat 4: vestimokrec (button) (small blind) mucked
+
+

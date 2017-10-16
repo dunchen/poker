@@ -1,0 +1,88 @@
+PokerStars Hand #164111668200:  Hold'em Limit ($3/$6 USD) - 2017/01/05 23:54:07 ET
+Table 'Aegle' 6-max Seat #3 is the button
+Seat 1: Princess0342 ($426.21 in chips)
+Seat 3: beng_51 ($144.90 in chips)
+beng_51: posts small blind $1
+Princess0342: posts big blind $3
+*** HOLE CARDS ***
+beng_51: raises $3 to $6
+Princess0342: calls $3
+*** FLOP *** [8h 8s 9h]
+Princess0342: bets $3
+beng_51: calls $3
+*** TURN *** [8h 8s 9h] [3d]
+ABATAPP leaves the table
+Princess0342: bets $6
+ABATAPP joins the table at seat #2
+beng_51: calls $6
+*** RIVER *** [8h 8s 9h 3d] [Qc]
+Princess0342: bets $6
+beng_51: calls $6
+*** SHOW DOWN ***
+Princess0342: shows [Ts Jc] (a straight, Eight to Queen)
+beng_51: mucks hand
+Princess0342 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [8h 8s 9h 3d Qc]
+Seat 1: Princess0342 (big blind) showed [Ts Jc] and won ($41.50) with a straight, Eight to Queen
+Seat 3: beng_51 (button) (small blind) mucked
+
+
+PokerStars Hand #164111690927:  Hold'em Limit ($3/$6 USD) - 2017/01/05 23:55:23 ET
+Table 'Aegle' 6-max Seat #2 is the button
+Seat 1: Princess0342 ($445.71 in chips)
+Seat 2: ABATAPP ($140.71 in chips)
+ABATAPP: posts small blind $1
+beng_51: is sitting out
+Princess0342: posts big blind $3
+*** HOLE CARDS ***
+ABATAPP: raises $3 to $6
+Princess0342: calls $3
+*** FLOP *** [Ah 3c 2s]
+beng_51 leaves the table
+Princess0342: checks
+ABATAPP: bets $3
+Princess0342: folds
+Uncalled bet ($3) returned to ABATAPP
+ABATAPP collected $11.76 from pot
+ABATAPP: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ah 3c 2s]
+Seat 1: Princess0342 (big blind) folded on the Flop
+Seat 2: ABATAPP (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #164111696062:  Hold'em Limit ($3/$6 USD) - 2017/01/05 23:55:42 ET
+Table 'Aegle' 6-max Seat #1 is the button
+Seat 1: Princess0342 ($439.71 in chips)
+Seat 2: ABATAPP ($146.47 in chips)
+Princess0342: posts small blind $1
+ABATAPP: posts big blind $3
+*** HOLE CARDS ***
+Princess0342: calls $2
+ABATAPP: checks
+*** FLOP *** [6s 4c Ks]
+ABATAPP: bets $3
+Princess0342: raises $3 to $6
+ABATAPP: calls $3
+*** TURN *** [6s 4c Ks] [3h]
+ABATAPP: checks
+Princess0342: bets $6
+ABATAPP: calls $6
+*** RIVER *** [6s 4c Ks 3h] [4d]
+ABATAPP: checks
+Princess0342: bets $6
+ABATAPP: calls $6
+*** SHOW DOWN ***
+Princess0342: shows [Jc 5h] (a pair of Fours)
+ABATAPP: shows [2h 6h] (two pair, Sixes and Fours)
+ABATAPP collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [6s 4c Ks 3h 4d]
+Seat 1: Princess0342 (button) (small blind) showed [Jc 5h] and lost with a pair of Fours
+Seat 2: ABATAPP (big blind) showed [2h 6h] and won ($41.50) with two pair, Sixes and Fours
+
+

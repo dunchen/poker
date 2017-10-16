@@ -1,0 +1,61 @@
+PokerStars Hand #168706668344:  Hold'em Limit ($3/$6 USD) - 2017/04/07 12:14:25 ET
+Table 'Devosa II' 6-max Seat #6 is the button
+Seat 4: Agrotait ($72 in chips)
+Seat 6: las59 ($72 in chips)
+las59: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+las59: raises $3 to $6
+Jack_Wu1985 joins the table at seat #5
+Agrotait: calls $3
+*** FLOP *** [6c 5s Kh]
+zxkz joins the table at seat #1
+Agrotait: checks
+las59: bets $3
+Agrotait: raises $3 to $6
+las59: calls $3
+*** TURN *** [6c 5s Kh] [4c]
+Agrotait: bets $6
+las59: raises $6 to $12
+Agrotait: calls $6
+*** RIVER *** [6c 5s Kh 4c] [5c]
+B_loJkl joins the table at seat #2
+Agrotait: checks
+las59: checks
+*** SHOW DOWN ***
+Agrotait: shows [Ts 6s] (two pair, Sixes and Fives)
+las59: shows [4h 6d] (two pair, Sixes and Fives)
+Agrotait collected $23.75 from pot
+las59 collected $23.75 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [6c 5s Kh 4c 5c]
+Seat 4: Agrotait (big blind) showed [Ts 6s] and won ($23.75) with two pair, Sixes and Fives
+Seat 6: las59 (button) (small blind) showed [4h 6d] and won ($23.75) with two pair, Sixes and Fives
+
+
+PokerStars Hand #168708326524:  Hold'em Limit ($3/$6 USD) - 2017/04/07 12:54:13 ET
+Table 'Devosa II' 6-max Seat #3 is the button
+Seat 2: B_loJkl ($177.63 in chips)
+Seat 3: tttzzz ($58.63 in chips)
+tttzzz: posts small blind $1
+zxkz: is sitting out
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+tttzzz: raises $3 to $6
+zxkz leaves the table
+B_loJkl: calls $3
+*** FLOP *** [Tc Qh 4d]
+B_loJkl: checks
+tttzzz: bets $3
+B_loJkl: folds
+Uncalled bet ($3) returned to tttzzz
+tttzzz collected $11.76 from pot
+tttzzz: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Tc Qh 4d]
+Seat 2: B_loJkl (big blind) folded on the Flop
+Seat 3: tttzzz (button) (small blind) collected ($11.76)
+
+

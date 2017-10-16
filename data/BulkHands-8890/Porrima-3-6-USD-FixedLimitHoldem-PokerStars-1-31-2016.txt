@@ -1,0 +1,133 @@
+PokerStars Hand #147970435888:  Hold'em Limit ($3/$6 USD) - 2016/01/30 21:55:45 ET
+Table 'Porrima' 2-max Seat #2 is the button
+Seat 1: TheU10 ($120 in chips)
+Seat 2: 7seven779 ($39.04 in chips)
+7seven779: posts small blind $1
+TheU10: posts big blind $3
+*** HOLE CARDS ***
+7seven779: raises $3 to $6
+TheU10: calls $3
+*** FLOP *** [7d 5c Ah]
+TheU10: checks
+7seven779: bets $3
+TheU10: raises $3 to $6
+7seven779: calls $3
+*** TURN *** [7d 5c Ah] [Js]
+TheU10: checks
+7seven779: bets $6
+TheU10: calls $6
+*** RIVER *** [7d 5c Ah Js] [6d]
+TheU10: checks
+7seven779: checks
+*** SHOW DOWN ***
+TheU10: shows [7c Tc] (a pair of Sevens)
+7seven779: mucks hand
+TheU10 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [7d 5c Ah Js 6d]
+Seat 1: TheU10 (big blind) showed [7c Tc] and won ($35.50) with a pair of Sevens
+Seat 2: 7seven779 (button) (small blind) mucked
+
+
+PokerStars Hand #147970441759:  Hold'em Limit ($3/$6 USD) - 2016/01/30 21:56:01 ET
+Table 'Porrima' 2-max Seat #1 is the button
+Seat 1: TheU10 ($137.50 in chips)
+Seat 2: 7seven779 ($21.04 in chips)
+TheU10: posts small blind $1
+7seven779: posts big blind $3
+*** HOLE CARDS ***
+TheU10: folds
+Uncalled bet ($2) returned to 7seven779
+7seven779 collected $2 from pot
+7seven779: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: TheU10 (button) (small blind) folded before Flop
+Seat 2: 7seven779 (big blind) collected ($2)
+
+
+PokerStars Hand #147970443753:  Hold'em Limit ($3/$6 USD) - 2016/01/30 21:56:07 ET
+Table 'Porrima' 2-max Seat #2 is the button
+Seat 1: TheU10 ($136.50 in chips)
+Seat 2: 7seven779 ($22.04 in chips)
+7seven779: posts small blind $1
+TheU10: posts big blind $3
+*** HOLE CARDS ***
+7seven779: raises $3 to $6
+TheU10: calls $3
+*** FLOP *** [2d Td 5h]
+TheU10: checks
+7seven779: bets $3
+TheU10: calls $3
+*** TURN *** [2d Td 5h] [Kd]
+TheU10: checks
+7seven779: bets $6
+TheU10: raises $6 to $12
+7seven779: folds
+Uncalled bet ($6) returned to TheU10
+TheU10 collected $29.50 from pot
+TheU10: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2d Td 5h Kd]
+Seat 1: TheU10 (big blind) collected ($29.50)
+Seat 2: 7seven779 (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #147970450896:  Hold'em Limit ($3/$6 USD) - 2016/01/30 21:56:26 ET
+Table 'Porrima' 2-max Seat #1 is the button
+Seat 1: TheU10 ($151 in chips)
+Seat 2: 7seven779 ($7.04 in chips)
+TheU10: posts small blind $1
+7seven779: posts big blind $3
+*** HOLE CARDS ***
+TheU10: raises $3 to $6
+7seven779: raises $1.04 to $7.04 and is all-in
+TheU10: calls $1.04
+*** FLOP *** [Jd 7d Qd]
+*** TURN *** [Jd 7d Qd] [Kc]
+*** RIVER *** [Jd 7d Qd Kc] [5s]
+*** SHOW DOWN ***
+7seven779: shows [3s Qc] (a pair of Queens)
+TheU10: shows [5d Qs] (two pair, Queens and Fives)
+TheU10 collected $13.80 from pot
+*** SUMMARY ***
+Total pot $14.08 | Rake $0.28
+Board [Jd 7d Qd Kc 5s]
+Seat 1: TheU10 (button) (small blind) showed [5d Qs] and won ($13.80) with two pair, Queens and Fives
+Seat 2: 7seven779 (big blind) showed [3s Qc] and lost with a pair of Queens
+
+
+PokerStars Hand #147970461402:  Hold'em Limit ($3/$6 USD) - 2016/01/30 21:56:54 ET
+Table 'Porrima' 2-max Seat #2 is the button
+Seat 1: TheU10 ($157.76 in chips)
+Seat 2: 7seven779 ($30 in chips)
+7seven779: posts small blind $1
+TheU10: posts big blind $3
+*** HOLE CARDS ***
+7seven779: raises $3 to $6
+TheU10: calls $3
+*** FLOP *** [7s Qd 2s]
+TheU10: checks
+7seven779: bets $3
+TheU10: calls $3
+*** TURN *** [7s Qd 2s] [Ac]
+TheU10: checks
+7seven779: bets $6
+TheU10: calls $6
+*** RIVER *** [7s Qd 2s Ac] [4d]
+TheU10: checks
+7seven779: bets $6
+TheU10: calls $6
+*** SHOW DOWN ***
+7seven779: shows [Tc 6s] (high card Ace)
+TheU10: shows [7d 3d] (a pair of Sevens)
+TheU10 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [7s Qd 2s Ac 4d]
+Seat 1: TheU10 (big blind) showed [7d 3d] and won ($41.50) with a pair of Sevens
+Seat 2: 7seven779 (button) (small blind) showed [Tc 6s] and lost with high card Ace
+
+

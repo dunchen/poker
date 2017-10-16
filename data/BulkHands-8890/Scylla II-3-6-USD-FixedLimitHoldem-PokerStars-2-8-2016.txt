@@ -1,0 +1,63 @@
+PokerStars Hand #148439539442:  Hold'em Limit ($3/$6 USD) - 2016/02/08 6:43:45 ET
+Table 'Scylla II' 2-max Seat #1 is the button
+Seat 1: Ms Kapriz ($24 in chips)
+Seat 2: ChOfW ($83.50 in chips)
+Ms Kapriz: posts small blind $1
+ChOfW: posts big blind $3
+*** HOLE CARDS ***
+Ms Kapriz: raises $3 to $6
+ChOfW: calls $3
+*** FLOP *** [5d 9c Ts]
+ChOfW: checks
+Ms Kapriz: bets $3
+ChOfW: raises $3 to $6
+Ms Kapriz: raises $3 to $9
+ChOfW: raises $3 to $12
+Betting is capped
+Ms Kapriz: calls $3
+*** TURN *** [5d 9c Ts] [Ks]
+ChOfW: bets $6
+Ms Kapriz: calls $6 and is all-in
+*** RIVER *** [5d 9c Ts Ks] [4h]
+*** SHOW DOWN ***
+ChOfW: shows [9s 8d] (a pair of Nines)
+Ms Kapriz: shows [7s Tc] (a pair of Tens)
+Ms Kapriz collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [5d 9c Ts Ks 4h]
+Seat 1: Ms Kapriz (button) (small blind) showed [7s Tc] and won ($47.50) with a pair of Tens
+Seat 2: ChOfW (big blind) showed [9s 8d] and lost with a pair of Nines
+
+
+PokerStars Hand #148439529348:  Hold'em Limit ($3/$6 USD) - 2016/02/08 6:43:27 ET
+Table 'Scylla II' 2-max Seat #2 is the button
+Seat 1: Ms Kapriz ($42 in chips)
+Seat 2: ChOfW ($66 in chips)
+ChOfW: posts small blind $1
+Ms Kapriz: posts big blind $3
+*** HOLE CARDS ***
+ChOfW: raises $3 to $6
+Ms Kapriz: calls $3
+*** FLOP *** [Tc 4d 7c]
+Ms Kapriz: checks
+ChOfW: bets $3
+Ms Kapriz: raises $3 to $6
+ChOfW: calls $3
+*** TURN *** [Tc 4d 7c] [2s]
+Ms Kapriz: bets $6
+ChOfW: calls $6
+*** RIVER *** [Tc 4d 7c 2s] [Qd]
+Ms Kapriz: checks
+ChOfW: checks
+*** SHOW DOWN ***
+Ms Kapriz: shows [Jc 8d] (high card Queen)
+ChOfW: shows [2d Ac] (a pair of Deuces)
+ChOfW collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Tc 4d 7c 2s Qd]
+Seat 1: Ms Kapriz (big blind) showed [Jc 8d] and lost with high card Queen
+Seat 2: ChOfW (button) (small blind) showed [2d Ac] and won ($35.50) with a pair of Deuces
+
+

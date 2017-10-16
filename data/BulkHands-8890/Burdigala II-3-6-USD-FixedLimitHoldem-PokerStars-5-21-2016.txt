@@ -1,0 +1,104 @@
+PokerStars Hand #153643767667:  Hold'em Limit ($3/$6 USD) - 2016/05/21 14:51:01 ET
+Table 'Burdigala II' 10-max Seat #4 is the button
+Seat 1: SeanPeary ($72.50 in chips)
+Seat 4: ZinZar ($80.64 in chips)
+ZinZar: posts small blind $1
+SeanPeary: posts big blind $3
+*** HOLE CARDS ***
+ZinZar: raises $3 to $6
+SeanPeary: calls $3
+*** FLOP *** [9s 9h 8s]
+SeanPeary: checks
+ZinZar: bets $3
+SeanPeary: calls $3
+*** TURN *** [9s 9h 8s] [8d]
+SeanPeary: checks
+ZinZar: bets $6
+SeanPeary: raises $6 to $12
+ZinZar: calls $6
+*** RIVER *** [9s 9h 8s 8d] [Jh]
+SeanPeary: bets $6
+ZinZar: calls $6
+*** SHOW DOWN ***
+SeanPeary: shows [Kc 8c] (a full house, Eights full of Nines)
+ZinZar: mucks hand
+SeanPeary collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [9s 9h 8s 8d Jh]
+Seat 1: SeanPeary (big blind) showed [Kc 8c] and won ($53.50) with a full house, Eights full of Nines
+Seat 4: ZinZar (button) (small blind) mucked
+
+
+PokerStars Hand #153643796293:  Hold'em Limit ($3/$6 USD) - 2016/05/21 14:51:37 ET
+Table 'Burdigala II' 10-max Seat #4 is the button
+Seat 1: SeanPeary ($104.76 in chips)
+Seat 4: ZinZar ($72 in chips)
+ZinZar: posts small blind $1
+SeanPeary: posts big blind $3
+*** HOLE CARDS ***
+ZinZar: raises $3 to $6
+SeanPeary: folds
+Uncalled bet ($3) returned to ZinZar
+ZinZar collected $6 from pot
+ZinZar: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: SeanPeary (big blind) folded before Flop
+Seat 4: ZinZar (button) (small blind) collected ($6)
+
+
+PokerStars Hand #153643786669:  Hold'em Limit ($3/$6 USD) - 2016/05/21 14:51:25 ET
+Table 'Burdigala II' 10-max Seat #1 is the button
+Seat 1: SeanPeary ($99 in chips)
+Seat 4: ZinZar ($72 in chips)
+SeanPeary: posts small blind $1
+ZinZar: posts big blind $3
+*** HOLE CARDS ***
+SeanPeary: raises $3 to $6
+ZinZar: calls $3
+*** FLOP *** [8d 8c Jh]
+ZinZar: checks
+SeanPeary: bets $3
+ZinZar: folds
+Uncalled bet ($3) returned to SeanPeary
+SeanPeary collected $11.76 from pot
+SeanPeary: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8d 8c Jh]
+Seat 1: SeanPeary (button) (small blind) collected ($11.76)
+Seat 4: ZinZar (big blind) folded on the Flop
+
+
+PokerStars Hand #153643800837:  Hold'em Limit ($3/$6 USD) - 2016/05/21 14:51:43 ET
+Table 'Burdigala II' 10-max Seat #1 is the button
+Seat 1: SeanPeary ($101.76 in chips)
+Seat 4: ZinZar ($75 in chips)
+SeanPeary: posts small blind $1
+ZinZar: posts big blind $3
+*** HOLE CARDS ***
+SeanPeary: raises $3 to $6
+ZinZar: calls $3
+*** FLOP *** [8s 5h 6d]
+ZinZar: checks
+SeanPeary: bets $3
+ZinZar: raises $3 to $6
+SeanPeary: calls $3
+*** TURN *** [8s 5h 6d] [Ts]
+ZinZar: bets $6
+SeanPeary: calls $6
+*** RIVER *** [8s 5h 6d Ts] [Ah]
+ZinZar: bets $6
+SeanPeary: calls $6
+*** SHOW DOWN ***
+ZinZar: shows [6h 5c] (two pair, Sixes and Fives)
+SeanPeary: mucks hand
+ZinZar collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8s 5h 6d Ts Ah]
+Seat 1: SeanPeary (button) (small blind) mucked
+Seat 4: ZinZar (big blind) showed [6h 5c] and won ($47.50) with two pair, Sixes and Fives
+
+

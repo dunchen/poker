@@ -1,0 +1,59 @@
+PokerStars Hand #146232656160:  Hold'em Limit ($3/$6 USD) - 2015/12/31 11:21:09 ET
+Table 'Chalonge' 2-max Seat #2 is the button
+Seat 1: tikomar1 ($110.21 in chips)
+Seat 2: zuxpol ($5.01 in chips)
+zuxpol: posts small blind $1
+tikomar1: posts big blind $3
+*** HOLE CARDS ***
+zuxpol: calls $2
+tikomar1: checks
+*** FLOP *** [3d 6d Qd]
+tikomar1: bets $3
+zuxpol: calls $2.01 and is all-in
+Uncalled bet ($0.99) returned to tikomar1
+*** TURN *** [3d 6d Qd] [8h]
+*** RIVER *** [3d 6d Qd 8h] [Ad]
+*** SHOW DOWN ***
+tikomar1: shows [4d 5c] (a flush, Ace high)
+zuxpol: shows [7h 9h] (high card Ace)
+tikomar1 collected $9.82 from pot
+*** SUMMARY ***
+Total pot $10.02 | Rake $0.20
+Board [3d 6d Qd 8h Ad]
+Seat 1: tikomar1 (big blind) showed [4d 5c] and won ($9.82) with a flush, Ace high
+Seat 2: zuxpol (button) (small blind) showed [7h 9h] and lost with high card Ace
+
+
+PokerStars Hand #146232647654:  Hold'em Limit ($3/$6 USD) - 2015/12/31 11:20:58 ET
+Table 'Chalonge' 2-max Seat #1 is the button
+Seat 1: tikomar1 ($80.71 in chips)
+Seat 2: zuxpol ($35.01 in chips)
+tikomar1: posts small blind $1
+zuxpol: posts big blind $3
+*** HOLE CARDS ***
+tikomar1: raises $3 to $6
+zuxpol: raises $3 to $9
+tikomar1: raises $3 to $12
+Betting is capped
+zuxpol: calls $3
+*** FLOP *** [6d 3c 7s]
+zuxpol: bets $3
+tikomar1: raises $3 to $6
+zuxpol: raises $3 to $9
+tikomar1: raises $3 to $12
+Betting is capped
+zuxpol: calls $3
+*** TURN *** [6d 3c 7s] [8d]
+zuxpol: bets $6
+tikomar1: raises $6 to $12
+zuxpol: folds
+Uncalled bet ($6) returned to tikomar1
+tikomar1 collected $59.50 from pot
+tikomar1: doesn't show hand
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [6d 3c 7s 8d]
+Seat 1: tikomar1 (button) (small blind) collected ($59.50)
+Seat 2: zuxpol (big blind) folded on the Turn
+
+

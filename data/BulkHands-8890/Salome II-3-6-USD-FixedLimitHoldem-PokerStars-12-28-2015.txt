@@ -1,0 +1,63 @@
+PokerStars Hand #146065917094:  Hold'em Limit ($3/$6 USD) - 2015/12/28 12:38:42 ET
+Table 'Salome II' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 3: 4iginark ($120 in chips)
+PelonCabelao joins the table at seat #4
+VolkovDmitri: posts small blind $1
+4iginark: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+4iginark: calls $3
+*** FLOP *** [6c Td 3d]
+4iginark: checks
+VolkovDmitri: checks
+*** TURN *** [6c Td 3d] [Ts]
+4iginark: checks
+VolkovDmitri: checks
+*** RIVER *** [6c Td 3d Ts] [5c]
+4iginark: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+4iginark: shows [Jc Ks] (a pair of Tens)
+VolkovDmitri: mucks hand
+4iginark collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6c Td 3d Ts 5c]
+Seat 1: VolkovDmitri (button) (small blind) mucked
+Seat 3: 4iginark (big blind) showed [Jc Ks] and won ($11.76) with a pair of Tens
+
+
+PokerStars Hand #146066852100:  Hold'em Limit ($3/$6 USD) - 2015/12/28 12:55:30 ET
+Table 'Salome II' 6-max Seat #6 is the button
+Seat 5: Xerxesklonk ($112 in chips)
+Seat 6: SashaYuvelir ($107.26 in chips)
+SashaYuvelir: posts small blind $1
+B_loJkl: is sitting out
+PelonCabelao: is sitting out
+Xerxesklonk: posts big blind $3
+*** HOLE CARDS ***
+SashaYuvelir: raises $3 to $6
+Xerxesklonk: calls $3
+*** FLOP *** [Tc 4d 2s]
+Xerxesklonk: checks
+SashaYuvelir: bets $3
+Xerxesklonk: raises $3 to $6
+SashaYuvelir: calls $3
+*** TURN *** [Tc 4d 2s] [Td]
+Xerxesklonk: bets $6
+SashaYuvelir: calls $6
+*** RIVER *** [Tc 4d 2s Td] [9c]
+Xerxesklonk: bets $6
+SashaYuvelir: calls $6
+*** SHOW DOWN ***
+Xerxesklonk: shows [Ts Jc] (three of a kind, Tens)
+SashaYuvelir: mucks hand
+Xerxesklonk collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Tc 4d 2s Td 9c]
+Seat 5: Xerxesklonk (big blind) showed [Ts Jc] and won ($47.50) with three of a kind, Tens
+Seat 6: SashaYuvelir (button) (small blind) mucked
+
+

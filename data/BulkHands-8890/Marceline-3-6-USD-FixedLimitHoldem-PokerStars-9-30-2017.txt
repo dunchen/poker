@@ -1,0 +1,61 @@
+PokerStars Hand #176314821872:  Hold'em Limit ($3/$6 USD) - 2017/09/30 13:00:20 ET
+Table 'Marceline' 6-max Seat #1 is the button
+Seat 1: igorkabmw ($36.39 in chips)
+Seat 2: vestimokrec ($120 in chips)
+igorkabmw: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+igorkabmw: calls $2
+vestimokrec: checks
+*** FLOP *** [7s Ah Tc]
+vestimokrec: checks
+igorkabmw: checks
+*** TURN *** [7s Ah Tc] [5c]
+vestimokrec: checks
+igorkabmw: checks
+*** RIVER *** [7s Ah Tc 5c] [Kc]
+vestimokrec: checks
+igorkabmw: checks
+*** SHOW DOWN ***
+vestimokrec: shows [8s 3s] (high card Ace)
+igorkabmw: shows [4h Jh] (high card Ace - King+Jack kicker)
+igorkabmw collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [7s Ah Tc 5c Kc]
+Seat 1: igorkabmw (button) (small blind) showed [4h Jh] and won ($5.88) with high card Ace
+Seat 2: vestimokrec (big blind) showed [8s 3s] and lost with high card Ace
+
+
+PokerStars Hand #176314835739:  Hold'em Limit ($3/$6 USD) - 2017/09/30 13:00:45 ET
+Table 'Marceline' 6-max Seat #2 is the button
+Seat 1: igorkabmw ($39.27 in chips)
+Seat 2: vestimokrec ($117 in chips)
+vestimokrec: posts small blind $1
+igorkabmw: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+igorkabmw: calls $3
+*** FLOP *** [6h Ks 4s]
+igorkabmw: checks
+vestimokrec: bets $3
+igorkabmw: calls $3
+*** TURN *** [6h Ks 4s] [8s]
+igorkabmw: checks
+vestimokrec: bets $6
+igorkabmw: calls $6
+*** RIVER *** [6h Ks 4s 8s] [5d]
+igorkabmw: bets $6
+vestimokrec: raises $6 to $12
+igorkabmw: calls $6
+*** SHOW DOWN ***
+vestimokrec: shows [7c Kc] (a straight, Four to Eight)
+igorkabmw: mucks hand
+vestimokrec collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [6h Ks 4s 8s 5d]
+Seat 1: igorkabmw (big blind) mucked
+Seat 2: vestimokrec (button) (small blind) showed [7c Kc] and won ($53.50) with a straight, Four to Eight
+
+

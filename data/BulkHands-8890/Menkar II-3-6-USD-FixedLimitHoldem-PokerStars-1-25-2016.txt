@@ -1,0 +1,30 @@
+PokerStars Hand #147639795633:  Hold'em Limit ($3/$6 USD) - 2016/01/25 4:10:36 ET
+Table 'Menkar II' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($186 in chips)
+Seat 2: xoroshytin ($66 in chips)
+xoroshytin: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+xoroshytin: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [2s 9c Ad]
+jl45259071: checks
+xoroshytin: bets $3
+jl45259071: calls $3
+*** TURN *** [2s 9c Ad] [6s]
+jl45259071: checks
+xoroshytin: checks
+*** RIVER *** [2s 9c Ad 6s] [3c]
+jl45259071: bets $6
+xoroshytin: calls $6
+*** SHOW DOWN ***
+jl45259071: shows [5c 9h] (a pair of Nines)
+xoroshytin: mucks hand
+jl45259071 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2s 9c Ad 6s 3c]
+Seat 1: jl45259071 (big blind) showed [5c 9h] and won ($29.50) with a pair of Nines
+Seat 2: xoroshytin (button) (small blind) mucked
+
+

@@ -1,0 +1,60 @@
+PokerStars Hand #166194148416:  Hold'em Limit ($3/$6 USD) - 2017/02/14 7:45:15 ET
+Table 'Abnoba' 6-max Seat #4 is the button
+Seat 3: slavii0o0 ($13.29 in chips)
+Seat 4: Actionni13 ($153.59 in chips)
+Actionni13: posts small blind $1
+AzureCaper: is sitting out
+slavii0o0: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+slavii0o0: raises $3 to $9
+Actionni13: calls $3
+*** FLOP *** [Qs Qd 4c]
+slavii0o0: bets $3
+AzureCaper leaves the table
+Actionni13: calls $3
+*** TURN *** [Qs Qd 4c] [7c]
+slavii0o0: bets $1.29 and is all-in
+Actionni13: calls $1.29
+*** RIVER *** [Qs Qd 4c 7c] [Th]
+*** SHOW DOWN ***
+slavii0o0: shows [Ac Jd] (a pair of Queens)
+Actionni13: shows [8h Tc] (two pair, Queens and Tens)
+Actionni13 collected $26.08 from pot
+*** SUMMARY ***
+Total pot $26.58 | Rake $0.50
+Board [Qs Qd 4c 7c Th]
+Seat 3: slavii0o0 (big blind) showed [Ac Jd] and lost with a pair of Queens
+Seat 4: Actionni13 (button) (small blind) showed [8h Tc] and won ($26.08) with two pair, Queens and Tens
+
+
+PokerStars Hand #166194181044:  Hold'em Limit ($3/$6 USD) - 2017/02/14 7:46:15 ET
+Table 'Abnoba' 6-max Seat #3 is the button
+Seat 3: slavii0o0 ($52.70 in chips)
+Seat 4: Actionni13 ($166.38 in chips)
+slavii0o0: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+slavii0o0: raises $3 to $6
+Actionni13: calls $3
+*** FLOP *** [5h 3s Jd]
+AzureCaper joins the table at seat #1
+Actionni13: checks
+slavii0o0: checks
+*** TURN *** [5h 3s Jd] [9c]
+Actionni13: checks
+slavii0o0: checks
+*** RIVER *** [5h 3s Jd 9c] [2c]
+Actionni13: checks
+slavii0o0: checks
+*** SHOW DOWN ***
+Actionni13: shows [6h As] (high card Ace)
+slavii0o0: mucks hand
+Actionni13 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5h 3s Jd 9c 2c]
+Seat 3: slavii0o0 (button) (small blind) mucked
+Seat 4: Actionni13 (big blind) showed [6h As] and won ($11.76) with high card Ace
+
+

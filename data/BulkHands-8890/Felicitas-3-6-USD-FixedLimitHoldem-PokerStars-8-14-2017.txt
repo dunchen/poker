@@ -1,0 +1,62 @@
+PokerStars Hand #174310034436:  Hold'em Limit ($3/$6 USD) - 2017/08/13 23:37:43 ET
+Table 'Felicitas' 6-max Seat #1 is the button
+Seat 1: Velbor107 ($323.64 in chips)
+Seat 3: mylifeluvsol ($34.02 in chips)
+Velbor107: posts small blind $1
+mylifeluvsol: posts big blind $3
+*** HOLE CARDS ***
+Velbor107: raises $3 to $6
+mylifeluvsol: raises $3 to $9
+Velbor107: calls $3
+*** FLOP *** [9c Kd Kc]
+mylifeluvsol: checks
+Velbor107: checks
+*** TURN *** [9c Kd Kc] [6d]
+mylifeluvsol: bets $6
+Velbor107: calls $6
+*** RIVER *** [9c Kd Kc 6d] [8h]
+mylifeluvsol: bets $6
+Velbor107: calls $6
+*** SHOW DOWN ***
+mylifeluvsol: shows [4d Jd] (a pair of Kings)
+Velbor107: shows [Th 9d] (two pair, Kings and Nines)
+Velbor107 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9c Kd Kc 6d 8h]
+Seat 1: Velbor107 (button) (small blind) showed [Th 9d] and won ($41.50) with two pair, Kings and Nines
+Seat 3: mylifeluvsol (big blind) showed [4d Jd] and lost with a pair of Kings
+
+
+PokerStars Hand #174310210421:  Hold'em Limit ($3/$6 USD) - 2017/08/13 23:49:04 ET
+Table 'Felicitas' 6-max Seat #1 is the button
+Seat 1: Velbor107 ($359.14 in chips)
+Seat 3: mylifeluvsol ($51.88 in chips)
+Velbor107: posts small blind $1
+mylifeluvsol: posts big blind $3
+*** HOLE CARDS ***
+Velbor107: raises $3 to $6
+mylifeluvsol: calls $3
+*** FLOP *** [Ah 3c 9c]
+mylifeluvsol: checks
+Velbor107: bets $3
+mylifeluvsol: calls $3
+*** TURN *** [Ah 3c 9c] [3d]
+mylifeluvsol: checks
+Velbor107: bets $6
+mylifeluvsol: calls $6
+*** RIVER *** [Ah 3c 9c 3d] [Qs]
+mylifeluvsol: checks
+Velbor107: bets $6
+mylifeluvsol: calls $6
+*** SHOW DOWN ***
+Velbor107: shows [Kd As] (two pair, Aces and Threes)
+mylifeluvsol: mucks hand
+Velbor107 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ah 3c 9c 3d Qs]
+Seat 1: Velbor107 (button) (small blind) showed [Kd As] and won ($41.50) with two pair, Aces and Threes
+Seat 3: mylifeluvsol (big blind) mucked
+
+

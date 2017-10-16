@@ -1,0 +1,86 @@
+PokerStars Hand #163036220396:  Hold'em Limit ($3/$6 USD) - 2016/12/16 12:08:14 ET
+Table 'Nemesis II' 10-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 5: VeniaminS ($120 in chips)
+VolkovDmitri: posts small blind $1
+VeniaminS: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec joins the table at seat #6
+VolkovDmitri: raises $3 to $6
+VeniaminS: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [4s 8c 3c]
+VeniaminS: bets $3
+VolkovDmitri: raises $3 to $6
+VeniaminS: raises $3 to $9
+VolkovDmitri: calls $3
+*** TURN *** [4s 8c 3c] [Ah]
+VeniaminS: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [4s 8c 3c Ah] [4h]
+VeniaminS: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+VeniaminS: shows [Ad Ac] (a full house, Aces full of Fours)
+VolkovDmitri: mucks hand
+VeniaminS collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [4s 8c 3c Ah 4h]
+Seat 1: VolkovDmitri (button) (small blind) mucked
+Seat 5: VeniaminS (big blind) showed [Ad Ac] and won ($59.50) with a full house, Aces full of Fours
+
+
+PokerStars Hand #163036278186:  Hold'em Limit ($3/$6 USD) - 2016/12/16 12:09:30 ET
+Table 'Nemesis II' 10-max Seat #1 is the button
+Seat 1: VolkovDmitri ($140.50 in chips)
+Seat 5: VeniaminS ($128.50 in chips)
+VolkovDmitri: posts small blind $1
+VeniaminS: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+VeniaminS: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [7s Ac 2h]
+VeniaminS: bets $3
+VolkovDmitri: folds
+Uncalled bet ($3) returned to VeniaminS
+VeniaminS collected $17.64 from pot
+VeniaminS: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7s Ac 2h]
+Seat 1: VolkovDmitri (button) (small blind) folded on the Flop
+Seat 5: VeniaminS (big blind) collected ($17.64)
+
+
+PokerStars Hand #163036243365:  Hold'em Limit ($3/$6 USD) - 2016/12/16 12:08:44 ET
+Table 'Nemesis II' 10-max Seat #5 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 5: VeniaminS ($149.50 in chips)
+VeniaminS: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+VeniaminS: calls $2
+VolkovDmitri: raises $3 to $6
+VeniaminS: calls $3
+*** FLOP *** [7d 7s 6s]
+VolkovDmitri: bets $3
+VeniaminS: calls $3
+*** TURN *** [7d 7s 6s] [3h]
+VolkovDmitri: bets $6
+VeniaminS: calls $6
+*** RIVER *** [7d 7s 6s 3h] [2h]
+VolkovDmitri: bets $6
+VeniaminS: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Ts Th] (two pair, Tens and Sevens)
+VeniaminS: mucks hand
+VolkovDmitri collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [7d 7s 6s 3h 2h]
+Seat 1: VolkovDmitri (big blind) showed [Ts Th] and won ($41.50) with two pair, Tens and Sevens
+Seat 5: VeniaminS (button) (small blind) mucked
+
+

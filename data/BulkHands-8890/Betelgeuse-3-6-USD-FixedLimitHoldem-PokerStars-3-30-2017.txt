@@ -1,0 +1,30 @@
+PokerStars Hand #168319214220:  Hold'em Limit ($3/$6 USD) - 2017/03/30 7:49:49 ET
+Table 'Betelgeuse' 6-max Seat #4 is the button
+Seat 4: Rus29APX ($120 in chips)
+Seat 5: El Cardinal ($120 in chips)
+Rus29APX: posts small blind $1
+El Cardinal: posts big blind $3
+*** HOLE CARDS ***
+Rus29APX: raises $3 to $6
+El Cardinal: calls $3
+*** FLOP *** [6h 6s 4s]
+El Cardinal: checks
+Rus29APX: checks
+*** TURN *** [6h 6s 4s] [Kd]
+El Cardinal: bets $6
+Rus29APX: calls $6
+*** RIVER *** [6h 6s 4s Kd] [8s]
+B_loJkl joins the table at seat #6
+El Cardinal: bets $6
+Rus29APX: calls $6
+*** SHOW DOWN ***
+El Cardinal: shows [2h 2d] (two pair, Sixes and Deuces)
+Rus29APX: shows [9c Ks] (two pair, Kings and Sixes)
+Rus29APX collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6h 6s 4s Kd 8s]
+Seat 4: Rus29APX (button) (small blind) showed [9c Ks] and won ($35.50) with two pair, Kings and Sixes
+Seat 5: El Cardinal (big blind) showed [2h 2d] and lost with two pair, Sixes and Deuces
+
+

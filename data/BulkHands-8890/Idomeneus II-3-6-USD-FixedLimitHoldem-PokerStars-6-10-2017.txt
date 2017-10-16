@@ -1,0 +1,59 @@
+PokerStars Hand #171585622612:  Hold'em Limit ($3/$6 USD) - 2017/06/10 6:49:11 ET
+Table 'Idomeneus II' 10-max Seat #2 is the button
+Seat 2: sim5sim5 ($72 in chips)
+Seat 5: shushlo ($72 in chips)
+sim5sim5: posts small blind $1
+shushlo: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+shushlo: raises $3 to $9
+sim5sim5: calls $3
+*** FLOP *** [Kd 6h 9d]
+shushlo: bets $3
+sim5sim5: raises $3 to $6
+shushlo: calls $3
+*** TURN *** [Kd 6h 9d] [As]
+shushlo: checks
+sim5sim5: checks
+*** RIVER *** [Kd 6h 9d As] [2d]
+shushlo: bets $6
+sim5sim5: folds
+Uncalled bet ($6) returned to shushlo
+shushlo collected $29.50 from pot
+shushlo: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kd 6h 9d As 2d]
+Seat 2: sim5sim5 (button) (small blind) folded on the River
+Seat 5: shushlo (big blind) collected ($29.50)
+
+
+PokerStars Hand #171585640935:  Hold'em Limit ($3/$6 USD) - 2017/06/10 6:49:54 ET
+Table 'Idomeneus II' 10-max Seat #5 is the button
+Seat 2: sim5sim5 ($72 in chips)
+Seat 5: shushlo ($86.50 in chips)
+shushlo: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+shushlo: raises $3 to $6
+sim5sim5: calls $3
+*** FLOP *** [Ks 9c 8d]
+sim5sim5: checks
+shushlo: bets $3
+sim5sim5: calls $3
+*** TURN *** [Ks 9c 8d] [9h]
+sim5sim5: checks
+shushlo: checks
+*** RIVER *** [Ks 9c 8d 9h] [7s]
+sim5sim5: bets $6
+shushlo: folds
+Uncalled bet ($6) returned to sim5sim5
+sim5sim5 collected $17.64 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ks 9c 8d 9h 7s]
+Seat 2: sim5sim5 (big blind) collected ($17.64)
+Seat 5: shushlo (button) (small blind) folded on the River
+
+

@@ -1,0 +1,81 @@
+PokerStars Hand #169907567681:  Hold'em Limit ($3/$6 USD) - 2017/05/03 14:33:11 ET
+Table 'Walraven II' 6-max Seat #4 is the button
+Seat 4: MTails ($121 in chips)
+Seat 6: HAOYUN88888 ($79 in chips)
+MTails: posts small blind $1
+HAOYUN88888: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+HAOYUN88888: calls $3
+*** FLOP *** [Ks Jc 6h]
+HAOYUN88888: checks
+MTails: bets $3
+HAOYUN88888: calls $3
+*** TURN *** [Ks Jc 6h] [5d]
+HAOYUN88888: checks
+MTails: bets $6
+HAOYUN88888: calls $6
+*** RIVER *** [Ks Jc 6h 5d] [As]
+HAOYUN88888: checks
+MTails: checks
+*** SHOW DOWN ***
+HAOYUN88888: shows [6s 2s] (a pair of Sixes)
+MTails: mucks hand
+HAOYUN88888 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ks Jc 6h 5d As]
+Seat 4: MTails (button) (small blind) mucked
+Seat 6: HAOYUN88888 (big blind) showed [6s 2s] and won ($29.50) with a pair of Sixes
+
+
+PokerStars Hand #169907554843:  Hold'em Limit ($3/$6 USD) - 2017/05/03 14:32:56 ET
+Table 'Walraven II' 6-max Seat #6 is the button
+Seat 4: MTails ($120 in chips)
+Seat 6: HAOYUN88888 ($80 in chips)
+HAOYUN88888: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec joins the table at seat #1
+HAOYUN88888: folds
+Uncalled bet ($2) returned to MTails
+MTails collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: MTails (big blind) collected ($2)
+Seat 6: HAOYUN88888 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #169907624784:  Hold'em Limit ($3/$6 USD) - 2017/05/03 14:34:21 ET
+Table 'Walraven II' 6-max Seat #1 is the button
+Seat 1: vestimokrec ($102 in chips)
+Seat 6: HAOYUN88888 ($87.50 in chips)
+vestimokrec: posts small blind $1
+MTails: is sitting out
+HAOYUN88888: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+HAOYUN88888: calls $3
+*** FLOP *** [3h 3d 7h]
+HAOYUN88888: checks
+vestimokrec: bets $3
+HAOYUN88888: raises $3 to $6
+vestimokrec: calls $3
+*** TURN *** [3h 3d 7h] [8s]
+MTails leaves the table
+HAOYUN88888: bets $6
+vestimokrec: calls $6
+*** RIVER *** [3h 3d 7h 8s] [Jd]
+HAOYUN88888: checks
+vestimokrec: checks
+*** SHOW DOWN ***
+HAOYUN88888: shows [6d 4s] (a pair of Threes)
+vestimokrec: shows [Tc As] (a pair of Threes - Ace kicker)
+vestimokrec collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [3h 3d 7h 8s Jd]
+Seat 1: vestimokrec (button) (small blind) showed [Tc As] and won ($35.50) with a pair of Threes
+Seat 6: HAOYUN88888 (big blind) showed [6d 4s] and lost with a pair of Threes
+
+

@@ -1,0 +1,33 @@
+PokerStars Hand #158821721335:  Hold'em Limit ($3/$6 USD) - 2016/09/19 14:43:39 ET
+Table 'Aconcagua' 6-max Seat #1 is the button
+Seat 1: Zubasa07 ($503.50 in chips)
+Seat 3: Great_Kang ($138.50 in chips)
+Zubasa07: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+Great_Kang: calls $3
+*** FLOP *** [Ac 9d Td]
+Great_Kang: checks
+Zubasa07: bets $3
+Great_Kang: raises $3 to $6
+Zubasa07: calls $3
+*** TURN *** [Ac 9d Td] [Qh]
+Great_Kang: bets $6
+Zubasa07: raises $6 to $12
+Great_Kang: calls $6
+*** RIVER *** [Ac 9d Td Qh] [5c]
+Great_Kang: checks
+Zubasa07: bets $6
+Great_Kang: calls $6
+*** SHOW DOWN ***
+Zubasa07: shows [Qd Ah] (two pair, Aces and Queens)
+Great_Kang: mucks hand
+Zubasa07 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Ac 9d Td Qh 5c]
+Seat 1: Zubasa07 (button) (small blind) showed [Qd Ah] and won ($59.50) with two pair, Aces and Queens
+Seat 3: Great_Kang (big blind) mucked
+
+

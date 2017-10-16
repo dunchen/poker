@@ -1,0 +1,109 @@
+PokerStars Hand #166746485017:  Hold'em Limit ($3/$6 USD) - 2017/02/25 8:58:53 ET
+Table 'Ruanda' 6-max Seat #3 is the button
+Seat 3: rik_beaul007 ($52.12 in chips)
+Seat 4: AzureCaper ($72 in chips)
+rik_beaul007: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+rik_beaul007: calls $2
+AzureCaper: raises $3 to $6
+rik_beaul007: calls $3
+*** FLOP *** [5d 5h 9c]
+AzureCaper: bets $3
+rik_beaul007: folds
+Uncalled bet ($3) returned to AzureCaper
+AzureCaper collected $11.76 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5d 5h 9c]
+Seat 3: rik_beaul007 (button) (small blind) folded on the Flop
+Seat 4: AzureCaper (big blind) collected ($11.76)
+
+
+PokerStars Hand #166746496553:  Hold'em Limit ($3/$6 USD) - 2017/02/25 8:59:14 ET
+Table 'Ruanda' 6-max Seat #4 is the button
+Seat 3: rik_beaul007 ($46.12 in chips)
+Seat 4: AzureCaper ($77.76 in chips)
+AzureCaper: posts small blind $1
+rik_beaul007: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+rik_beaul007: calls $3
+*** FLOP *** [7d 9d Kd]
+rik_beaul007: checks
+AzureCaper: bets $3
+rik_beaul007: raises $3 to $6
+AzureCaper: raises $3 to $9
+Great_Kang joins the table at seat #5
+rik_beaul007: calls $3
+*** TURN *** [7d 9d Kd] [9c]
+rik_beaul007: checks
+AzureCaper: bets $6
+rik_beaul007: calls $6
+*** RIVER *** [7d 9d Kd 9c] [3s]
+rik_beaul007: checks
+AzureCaper: bets $6
+rik_beaul007: calls $6
+*** SHOW DOWN ***
+AzureCaper: shows [Ad 3d] (a flush, Ace high)
+rik_beaul007: mucks hand
+AzureCaper collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [7d 9d Kd 9c 3s]
+Seat 3: rik_beaul007 (big blind) mucked
+Seat 4: AzureCaper (button) (small blind) showed [Ad 3d] and won ($53.50) with a flush, Ace high
+
+
+PokerStars Hand #166746522682:  Hold'em Limit ($3/$6 USD) - 2017/02/25 9:00:00 ET
+Table 'Ruanda' 6-max Seat #3 is the button
+Seat 3: rik_beaul007 ($19.12 in chips)
+Seat 4: AzureCaper ($104.26 in chips)
+rik_beaul007: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+rik_beaul007: calls $2
+AzureCaper: checks
+*** FLOP *** [6d Td 8d]
+AzureCaper: checks
+rik_beaul007: bets $3
+AzureCaper: folds
+Uncalled bet ($3) returned to rik_beaul007
+rik_beaul007 collected $5.88 from pot
+rik_beaul007: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [6d Td 8d]
+Seat 3: rik_beaul007 (button) (small blind) collected ($5.88)
+Seat 4: AzureCaper (big blind) folded on the Flop
+
+
+PokerStars Hand #166746628550:  Hold'em Limit ($3/$6 USD) - 2017/02/25 9:02:38 ET
+Table 'Ruanda' 6-max Seat #4 is the button
+Seat 4: AzureCaper ($101.26 in chips)
+Seat 5: Great_Kang ($140.56 in chips)
+AzureCaper: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+rik_beaul007 leaves the table
+Great_Kang: calls $3
+*** FLOP *** [9s 5c 2h]
+Great_Kang: checks
+AzureCaper: bets $3
+Great_Kang: raises $3 to $6
+AzureCaper: calls $3
+*** TURN *** [9s 5c 2h] [7s]
+Great_Kang: bets $6
+AzureCaper: folds
+Uncalled bet ($6) returned to Great_Kang
+Great_Kang collected $23.52 from pot
+Great_Kang: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [9s 5c 2h 7s]
+Seat 4: AzureCaper (button) (small blind) folded on the Turn
+Seat 5: Great_Kang (big blind) collected ($23.52)
+
+

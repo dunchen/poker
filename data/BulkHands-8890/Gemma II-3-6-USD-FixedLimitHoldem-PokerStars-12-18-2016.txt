@@ -1,0 +1,74 @@
+PokerStars Hand #163132068915:  Hold'em Limit ($3/$6 USD) - 2016/12/18 8:30:49 ET
+Table 'Gemma II' 6-max Seat #4 is the button
+Seat 3: Kursor ($52.01 in chips)
+Seat 4: MTails ($117 in chips)
+MTails: posts small blind $1
+Kursor: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper joins the table at seat #5
+MTails: raises $3 to $6
+Kursor: calls $3
+*** FLOP *** [6s 8d 6c]
+Kursor: checks
+MTails: bets $3
+Kursor: calls $3
+*** TURN *** [6s 8d 6c] [2s]
+Kursor: checks
+MTails: checks
+*** RIVER *** [6s 8d 6c 2s] [Jc]
+Kursor: bets $6
+MTails: calls $6
+*** SHOW DOWN ***
+Kursor: shows [9c Qh] (a pair of Sixes)
+MTails: shows [3d 2d] (two pair, Sixes and Deuces)
+MTails collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6s 8d 6c 2s Jc]
+Seat 3: Kursor (big blind) showed [9c Qh] and lost with a pair of Sixes
+Seat 4: MTails (button) (small blind) showed [3d 2d] and won ($29.50) with two pair, Sixes and Deuces
+
+
+PokerStars Hand #163132062597:  Hold'em Limit ($3/$6 USD) - 2016/12/18 8:30:39 ET
+Table 'Gemma II' 6-max Seat #3 is the button
+Seat 3: Kursor ($49.01 in chips)
+Seat 4: MTails ($120 in chips)
+Kursor: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+Kursor: raises $3 to $6
+MTails: folds
+Uncalled bet ($3) returned to Kursor
+Kursor collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: Kursor (button) (small blind) collected ($6)
+Seat 4: MTails (big blind) folded before Flop
+
+
+PokerStars Hand #163132085081:  Hold'em Limit ($3/$6 USD) - 2016/12/18 8:31:14 ET
+Table 'Gemma II' 6-max Seat #3 is the button
+Seat 3: Kursor ($37.01 in chips)
+Seat 4: MTails ($131.50 in chips)
+Kursor: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+Kursor: raises $3 to $6
+oddinec joins the table at seat #6
+MTails: raises $3 to $9
+Kursor: calls $3
+*** FLOP *** [5h 6d Th]
+MTails: bets $3
+Kursor: calls $3
+*** TURN *** [5h 6d Th] [Td]
+MTails: bets $6
+Kursor: folds
+Uncalled bet ($6) returned to MTails
+MTails collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [5h 6d Th Td]
+Seat 3: Kursor (button) (small blind) folded on the Turn
+Seat 4: MTails (big blind) collected ($23.52)
+
+

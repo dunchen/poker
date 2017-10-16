@@ -1,0 +1,48 @@
+PokerStars Hand #158755415934:  Hold'em Limit ($3/$6 USD) - 2016/09/18 5:10:53 ET
+Table 'Eltanin' 6-max Seat #4 is the button
+Seat 1: AllanW ($72 in chips)
+Seat 4: VolkovDmitri ($149.50 in chips)
+VolkovDmitri: posts small blind $1
+AllanW: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: folds
+Uncalled bet ($2) returned to AllanW
+AllanW collected $2 from pot
+AllanW: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: AllanW (big blind) collected ($2)
+Seat 4: VolkovDmitri (button) (small blind) folded before Flop
+
+
+PokerStars Hand #158755348168:  Hold'em Limit ($3/$6 USD) - 2016/09/18 5:08:02 ET
+Table 'Eltanin' 6-max Seat #1 is the button
+Seat 1: AllanW ($30 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+AllanW: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+AllanW: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+AllanW: calls $3
+*** FLOP *** [4s 5h 3s]
+VolkovDmitri: bets $3
+AllanW: calls $3
+*** TURN *** [4s 5h 3s] [8d]
+VolkovDmitri: bets $6
+AllanW: calls $6
+*** RIVER *** [4s 5h 3s 8d] [Kh]
+VolkovDmitri: bets $6
+AllanW: raises $6 to $12 and is all-in
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+AllanW: shows [Kc Ts] (a pair of Kings)
+VolkovDmitri: shows [Ks 8s] (two pair, Kings and Eights)
+VolkovDmitri collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [4s 5h 3s 8d Kh]
+Seat 1: AllanW (button) (small blind) showed [Kc Ts] and lost with a pair of Kings
+Seat 4: VolkovDmitri (big blind) showed [Ks 8s] and won ($59.50) with two pair, Kings and Eights
+
+

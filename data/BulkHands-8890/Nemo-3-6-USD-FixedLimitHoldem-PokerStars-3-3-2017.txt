@@ -1,0 +1,31 @@
+PokerStars Hand #167047736338:  Hold'em Limit ($3/$6 USD) - 2017/03/03 9:59:34 ET
+Table 'Nemo' 6-max Seat #3 is the button
+Seat 3: slurpppy ($120 in chips)
+Seat 4: MTails ($120 in chips)
+slurpppy: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+slurpppy: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [9c 2s 9d]
+MTails: checks
+slurpppy: bets $3
+MTails: calls $3
+*** TURN *** [9c 2s 9d] [6d]
+MTails: checks
+kudongo joins the table at seat #6
+slurpppy: bets $6
+MTails: raises $6 to $12
+slurpppy: calls $6
+*** RIVER *** [9c 2s 9d 6d] [8d]
+MTails: bets $6
+slurpppy: folds
+Uncalled bet ($6) returned to MTails
+MTails collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9c 2s 9d 6d 8d]
+Seat 3: slurpppy (button) (small blind) folded on the River
+Seat 4: MTails (big blind) collected ($41.50)
+
+

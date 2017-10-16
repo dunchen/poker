@@ -1,0 +1,136 @@
+PokerStars Hand #154011303344:  Hold'em Limit ($3/$6 USD) - 2016/05/29 14:15:50 ET
+Table 'Lexell' 10-max Seat #5 is the button
+Seat 1: lanås ($88.83 in chips)
+Seat 5: simper11 ($128.27 in chips)
+simper11: posts small blind $1
+lanås: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+lanås: calls $3
+*** FLOP *** [2d 8c 5c]
+lanås: checks
+simper11: bets $3
+lanås: calls $3
+*** TURN *** [2d 8c 5c] [2h]
+lanås: checks
+simper11: checks
+*** RIVER *** [2d 8c 5c 2h] [Th]
+lanås: bets $6
+simper11: folds
+Uncalled bet ($6) returned to lanås
+lanås collected $17.64 from pot
+lanås: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2d 8c 5c 2h Th]
+Seat 1: lanås (big blind) collected ($17.64)
+Seat 5: simper11 (button) (small blind) folded on the River
+
+
+PokerStars Hand #154011346447:  Hold'em Limit ($3/$6 USD) - 2016/05/29 14:16:36 ET
+Table 'Lexell' 10-max Seat #1 is the button
+Seat 1: lanås ($120.73 in chips)
+Seat 5: simper11 ($120 in chips)
+lanås: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+lanås: raises $3 to $6
+simper11: calls $3
+*** FLOP *** [7d 8c Js]
+simper11: checks
+lanås: bets $3
+simper11: calls $3
+*** TURN *** [7d 8c Js] [9c]
+simper11: checks
+lanås: bets $6
+simper11: folds
+Uncalled bet ($6) returned to lanås
+lanås collected $17.64 from pot
+lanås: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7d 8c Js 9c]
+Seat 1: lanås (button) (small blind) collected ($17.64)
+Seat 5: simper11 (big blind) folded on the Turn
+
+
+PokerStars Hand #154011331483:  Hold'em Limit ($3/$6 USD) - 2016/05/29 14:16:20 ET
+Table 'Lexell' 10-max Seat #5 is the button
+Seat 1: lanås ($103.23 in chips)
+Seat 5: simper11 ($120 in chips)
+simper11: posts small blind $1
+lanås: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+lanås: calls $3
+*** FLOP *** [Td Kc Jd]
+lanås: checks
+simper11: checks
+*** TURN *** [Td Kc Jd] [3d]
+lanås: bets $6
+simper11: calls $6
+*** RIVER *** [Td Kc Jd 3d] [8c]
+lanås: bets $6
+simper11: calls $6
+*** SHOW DOWN ***
+lanås: shows [2c Ks] (a pair of Kings)
+simper11: mucks hand
+lanås collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Td Kc Jd 3d 8c]
+Seat 1: lanås (big blind) showed [2c Ks] and won ($35.50) with a pair of Kings
+Seat 5: simper11 (button) (small blind) mucked
+
+
+PokerStars Hand #154011321372:  Hold'em Limit ($3/$6 USD) - 2016/05/29 14:16:09 ET
+Table 'Lexell' 10-max Seat #1 is the button
+Seat 1: lanås ($97.47 in chips)
+Seat 5: simper11 ($120 in chips)
+lanås: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+lanås: raises $3 to $6
+simper11: calls $3
+*** FLOP *** [Qd As 7d]
+simper11: checks
+lanås: bets $3
+simper11: folds
+Uncalled bet ($3) returned to lanås
+lanås collected $11.76 from pot
+lanås: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qd As 7d]
+Seat 1: lanås (button) (small blind) collected ($11.76)
+Seat 5: simper11 (big blind) folded on the Flop
+
+
+PokerStars Hand #154017348903:  Hold'em Limit ($3/$6 USD) - 2016/05/29 16:02:02 ET
+Table 'Lexell' 10-max Seat #4 is the button
+Seat 4: xcgxcg2005 ($125.76 in chips)
+Seat 5: simper11 ($120 in chips)
+xcgxcg2005: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+xcgxcg2005: raises $3 to $6
+simper11: raises $3 to $9
+xcgxcg2005: calls $3
+*** FLOP *** [4s 5d 3s]
+simper11: bets $3
+xcgxcg2005: raises $3 to $6
+simper11: calls $3
+*** TURN *** [4s 5d 3s] [6h]
+simper11: checks
+xcgxcg2005: bets $6
+simper11: folds
+Uncalled bet ($6) returned to xcgxcg2005
+xcgxcg2005 collected $29.50 from pot
+xcgxcg2005: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4s 5d 3s 6h]
+Seat 4: xcgxcg2005 (button) (small blind) collected ($29.50)
+Seat 5: simper11 (big blind) folded on the Turn
+
+

@@ -1,0 +1,58 @@
+PokerStars Hand #172940623512:  Hold'em Limit ($3/$6 USD) - 2017/07/12 12:56:04 ET
+Table 'Markab' 6-max Seat #2 is the button
+Seat 2: andyrr ($100 in chips)
+Seat 3: CatPuppy1999 ($48 in chips)
+andyrr: posts small blind $1
+CatPuppy1999: posts big blind $3
+*** HOLE CARDS ***
+andyrr: raises $3 to $6
+B_loJkl joins the table at seat #4
+CatPuppy1999: calls $3
+*** FLOP *** [Ks 8d Td]
+CatPuppy1999: checks
+andyrr: bets $3
+CatPuppy1999: calls $3
+*** TURN *** [Ks 8d Td] [7c]
+CatPuppy1999: checks
+andyrr: checks
+*** RIVER *** [Ks 8d Td 7c] [Kc]
+CatPuppy1999: bets $6
+andyrr: calls $6
+*** SHOW DOWN ***
+CatPuppy1999: shows [Js Kd] (three of a kind, Kings)
+andyrr: mucks hand
+CatPuppy1999 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ks 8d Td 7c Kc]
+Seat 2: andyrr (button) (small blind) mucked
+Seat 3: CatPuppy1999 (big blind) showed [Js Kd] and won ($29.50) with three of a kind, Kings
+
+
+PokerStars Hand #172941158525:  Hold'em Limit ($3/$6 USD) - 2017/07/12 13:09:58 ET
+Table 'Markab' 6-max Seat #3 is the button
+Seat 3: CatPuppy1999 ($181.30 in chips)
+Seat 6: Pepperlina ($39.64 in chips)
+B_loJkl will be allowed to play after the button
+CatPuppy1999: posts small blind $1
+Pepperlina: posts big blind $3
+*** HOLE CARDS ***
+CatPuppy1999: raises $3 to $6
+Pepperlina: calls $3
+*** FLOP *** [6h Kd 7d]
+Pepperlina: checks
+CatPuppy1999: checks
+*** TURN *** [6h Kd 7d] [8h]
+Pepperlina: checks
+CatPuppy1999: bets $6
+Pepperlina: folds
+Uncalled bet ($6) returned to CatPuppy1999
+CatPuppy1999 collected $11.76 from pot
+CatPuppy1999: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6h Kd 7d 8h]
+Seat 3: CatPuppy1999 (button) (small blind) collected ($11.76)
+Seat 6: Pepperlina (big blind) folded on the Turn
+
+

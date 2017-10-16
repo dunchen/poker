@@ -1,0 +1,63 @@
+PokerStars Hand #144582569693:  Hold'em Limit ($3/$6 USD) - 2015/11/29 17:12:03 ET
+Table 'Houssay' 2-max Seat #1 is the button
+Seat 1: ChicagoBull4 ($114 in chips)
+Seat 2: Avereem ($83.76 in chips)
+ChicagoBull4: posts small blind $1
+Avereem: posts big blind $3
+*** HOLE CARDS ***
+ChicagoBull4: raises $3 to $6
+Avereem: calls $3
+*** FLOP *** [2d 2h Ah]
+Avereem: checks
+ChicagoBull4: bets $3
+Avereem: calls $3
+*** TURN *** [2d 2h Ah] [6h]
+Avereem: checks
+ChicagoBull4: bets $6
+Avereem: raises $6 to $12
+ChicagoBull4: calls $6
+*** RIVER *** [2d 2h Ah 6h] [8c]
+Avereem: bets $6
+ChicagoBull4: calls $6
+*** SHOW DOWN ***
+Avereem: shows [Qh 8h] (a flush, Ace high)
+ChicagoBull4: mucks hand
+Avereem collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [2d 2h Ah 6h 8c]
+Seat 1: ChicagoBull4 (button) (small blind) mucked
+Seat 2: Avereem (big blind) showed [Qh 8h] and won ($53.50) with a flush, Ace high
+
+
+PokerStars Hand #144582631615:  Hold'em Limit ($3/$6 USD) - 2015/11/29 17:13:06 ET
+Table 'Houssay' 2-max Seat #2 is the button
+Seat 1: ChicagoBull4 ($87 in chips)
+Seat 2: Avereem ($110.26 in chips)
+Avereem: posts small blind $1
+ChicagoBull4: posts big blind $3
+*** HOLE CARDS ***
+Avereem: raises $3 to $6
+ChicagoBull4: calls $3
+*** FLOP *** [7d Ts 8c]
+ChicagoBull4: bets $3
+Avereem: calls $3
+*** TURN *** [7d Ts 8c] [9d]
+ChicagoBull4: checks
+Avereem: bets $6
+ChicagoBull4: calls $6
+*** RIVER *** [7d Ts 8c 9d] [3c]
+ChicagoBull4: checks
+Avereem: bets $6
+ChicagoBull4: calls $6
+*** SHOW DOWN ***
+Avereem: shows [Ah Td] (a pair of Tens)
+ChicagoBull4: shows [9c 7s] (two pair, Nines and Sevens)
+ChicagoBull4 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [7d Ts 8c 9d 3c]
+Seat 1: ChicagoBull4 (big blind) showed [9c 7s] and won ($41.50) with two pair, Nines and Sevens
+Seat 2: Avereem (button) (small blind) showed [Ah Td] and lost with a pair of Tens
+
+

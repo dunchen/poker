@@ -1,0 +1,60 @@
+PokerStars Hand #158338832443:  Hold'em Limit ($3/$6 USD) - 2016/09/08 15:12:07 ET
+Table 'Briseis' 10-max Seat #10 is the button
+Seat 5: simper11 ($120 in chips)
+Seat 10: minigus575 ($120 in chips)
+minigus575: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+simper11: calls $3
+*** FLOP *** [Qd Kd 9h]
+simper11: checks
+minigus575: bets $3
+simper11: raises $3 to $6
+minigus575: calls $3
+*** TURN *** [Qd Kd 9h] [5c]
+simper11: bets $6
+minigus575: folds
+Uncalled bet ($6) returned to simper11
+simper11 collected $23.52 from pot
+simper11: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Qd Kd 9h 5c]
+Seat 5: simper11 (big blind) collected ($23.52)
+Seat 10: minigus575 (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #158338847046:  Hold'em Limit ($3/$6 USD) - 2016/09/08 15:12:23 ET
+Table 'Briseis' 10-max Seat #5 is the button
+Seat 5: simper11 ($131.52 in chips)
+Seat 10: minigus575 ($108 in chips)
+simper11: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+minigus575: calls $3
+*** FLOP *** [Js 4c Th]
+minigus575: checks
+CatPuppy1999 joins the table at seat #1
+simper11: bets $3
+minigus575: raises $3 to $6
+simper11: calls $3
+*** TURN *** [Js 4c Th] [9d]
+minigus575: bets $6
+simper11: calls $6
+*** RIVER *** [Js 4c Th 9d] [Kd]
+minigus575: bets $6
+simper11: calls $6
+*** SHOW DOWN ***
+minigus575: shows [Tc 2d] (a pair of Tens)
+simper11: shows [Ts 7c] (a pair of Tens)
+minigus575 collected $23.75 from pot
+simper11 collected $23.75 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Js 4c Th 9d Kd]
+Seat 5: simper11 (button) (small blind) showed [Ts 7c] and won ($23.75) with a pair of Tens
+Seat 10: minigus575 (big blind) showed [Tc 2d] and won ($23.75) with a pair of Tens
+
+

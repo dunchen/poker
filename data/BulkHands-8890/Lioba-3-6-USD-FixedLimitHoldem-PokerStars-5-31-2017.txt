@@ -1,0 +1,52 @@
+PokerStars Hand #171170824298:  Hold'em Limit ($3/$6 USD) - 2017/05/31 16:04:39 ET
+Table 'Lioba' 6-max Seat #3 is the button
+Seat 1: belik555 ($168.60 in chips)
+Seat 3: afghan_321 ($270.26 in chips)
+afghan_321: posts small blind $1
+belik555: posts big blind $3
+*** HOLE CARDS ***
+afghan_321: raises $3 to $6
+belik555: calls $3
+*** FLOP *** [3s 6h 8s]
+belik555: checks
+afghan_321: bets $3
+belik555: folds
+Uncalled bet ($3) returned to afghan_321
+afghan_321 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3s 6h 8s]
+Seat 1: belik555 (big blind) folded on the Flop
+Seat 3: afghan_321 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #171170845511:  Hold'em Limit ($3/$6 USD) - 2017/05/31 16:05:02 ET
+Table 'Lioba' 6-max Seat #1 is the button
+Seat 1: belik555 ($162.60 in chips)
+Seat 3: afghan_321 ($276.02 in chips)
+belik555: posts small blind $1
+afghan_321: posts big blind $3
+*** HOLE CARDS ***
+belik555: raises $3 to $6
+afghan_321: calls $3
+*** FLOP *** [Ts 3s 5h]
+afghan_321: checks
+belik555: bets $3
+afghan_321: calls $3
+*** TURN *** [Ts 3s 5h] [2h]
+afghan_321: bets $6
+belik555: calls $6
+*** RIVER *** [Ts 3s 5h 2h] [6d]
+afghan_321: bets $6
+belik555: calls $6
+*** SHOW DOWN ***
+afghan_321: shows [4c Ks] (a straight, Deuce to Six)
+belik555: mucks hand
+afghan_321 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ts 3s 5h 2h 6d]
+Seat 1: belik555 (button) (small blind) mucked
+Seat 3: afghan_321 (big blind) showed [4c Ks] and won ($41.50) with a straight, Deuce to Six
+
+

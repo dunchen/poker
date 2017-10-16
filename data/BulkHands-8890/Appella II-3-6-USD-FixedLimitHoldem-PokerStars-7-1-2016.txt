@@ -1,0 +1,80 @@
+PokerStars Hand #155422778376:  Hold'em Limit ($3/$6 USD) - 2016/07/01 8:57:47 ET
+Table 'Appella II' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($120 in chips)
+Seat 5: Kasinojunge* ($60 in chips)
+VolkovDmitri: posts small blind $1
+Kasinojunge*: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Kasinojunge*: calls $3
+*** FLOP *** [2c Td 6h]
+Kasinojunge*: checks
+VolkovDmitri: bets $3
+Kasinojunge*: calls $3
+*** TURN *** [2c Td 6h] [9h]
+Kasinojunge*: checks
+VolkovDmitri: bets $6
+Kasinojunge*: calls $6
+*** RIVER *** [2c Td 6h 9h] [5h]
+Kasinojunge*: checks
+B_loJkl joins the table at seat #6
+VolkovDmitri: checks
+*** SHOW DOWN ***
+Kasinojunge*: shows [7d Th] (a pair of Tens)
+VolkovDmitri: mucks hand
+Kasinojunge* collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2c Td 6h 9h 5h]
+Seat 4: VolkovDmitri (button) (small blind) mucked
+Seat 5: Kasinojunge* (big blind) showed [7d Th] and won ($29.50) with a pair of Tens
+
+
+PokerStars Hand #155422921485:  Hold'em Limit ($3/$6 USD) - 2016/07/01 9:03:06 ET
+Table 'Appella II' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($137.89 in chips)
+Seat 6: B_loJkl ($152.27 in chips)
+VolkovDmitri: posts small blind $1
+Kasinojunge*: is sitting out
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Kasinojunge* leaves the table
+B_loJkl: calls $3
+*** FLOP *** [6h 8c 4s]
+B_loJkl: checks
+VolkovDmitri: bets $3
+B_loJkl: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6h 8c 4s]
+Seat 4: VolkovDmitri (button) (small blind) collected ($11.76)
+Seat 6: B_loJkl (big blind) folded on the Flop
+
+
+PokerStars Hand #155422933951:  Hold'em Limit ($3/$6 USD) - 2016/07/01 9:03:31 ET
+Table 'Appella II' 6-max Seat #6 is the button
+Seat 4: VolkovDmitri ($143.65 in chips)
+Seat 6: B_loJkl ($146.27 in chips)
+B_loJkl: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Td 3h Ks]
+VolkovDmitri: checks
+B_loJkl: bets $3
+VolkovDmitri: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Td 3h Ks]
+Seat 4: VolkovDmitri (big blind) folded on the Flop
+Seat 6: B_loJkl (button) (small blind) collected ($11.76)
+
+

@@ -1,0 +1,132 @@
+PokerStars Hand #154942764353:  Hold'em Limit ($3/$6 USD) - 2016/06/19 13:49:59 ET
+Table 'Scabiosa II' 10-max Seat #8 is the button
+Seat 1: tomte999 ($98.38 in chips)
+Seat 8: BIZE Terence ($123.48 in chips)
+BIZE Terence: posts small blind $1
+tomte999: posts big blind $3
+*** HOLE CARDS ***
+BIZE Terence: raises $3 to $6
+tomte999: calls $3
+*** FLOP *** [6h Jh 7s]
+tomte999: checks
+BIZE Terence: bets $3
+tomte999: raises $3 to $6
+BIZE Terence: calls $3
+*** TURN *** [6h Jh 7s] [7d]
+tomte999: bets $6
+BIZE Terence: calls $6
+*** RIVER *** [6h Jh 7s 7d] [6c]
+tomte999: checks
+BIZE Terence: bets $6
+tomte999: folds
+Uncalled bet ($6) returned to BIZE Terence
+BIZE Terence collected $35.50 from pot
+BIZE Terence: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6h Jh 7s 7d 6c]
+Seat 1: tomte999 (big blind) folded on the River
+Seat 8: BIZE Terence (button) (small blind) collected ($35.50)
+
+
+PokerStars Hand #154942796489:  Hold'em Limit ($3/$6 USD) - 2016/06/19 13:50:38 ET
+Table 'Scabiosa II' 10-max Seat #1 is the button
+Seat 1: tomte999 ($80.38 in chips)
+Seat 10: cupi ($30 in chips)
+tomte999: posts small blind $1
+cupi: posts big blind $3
+*** HOLE CARDS ***
+tomte999: raises $3 to $6
+cupi: folds
+Uncalled bet ($3) returned to tomte999
+tomte999 collected $6 from pot
+tomte999: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: tomte999 (button) (small blind) collected ($6)
+Seat 10: cupi (big blind) folded before Flop
+
+
+PokerStars Hand #154942801809:  Hold'em Limit ($3/$6 USD) - 2016/06/19 13:50:44 ET
+Table 'Scabiosa II' 10-max Seat #10 is the button
+Seat 1: tomte999 ($83.38 in chips)
+Seat 10: cupi ($27 in chips)
+cupi: posts small blind $1
+tomte999: posts big blind $3
+*** HOLE CARDS ***
+cupi: raises $3 to $6
+tomte999: calls $3
+*** FLOP *** [Ah 3d 6d]
+tomte999: checks
+cupi: bets $3
+tomte999: calls $3
+*** TURN *** [Ah 3d 6d] [3s]
+tomte999: checks
+cupi: bets $6
+tomte999: folds
+Uncalled bet ($6) returned to cupi
+cupi collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ah 3d 6d 3s]
+Seat 1: tomte999 (big blind) folded on the Turn
+Seat 10: cupi (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #154942835472:  Hold'em Limit ($3/$6 USD) - 2016/06/19 13:51:25 ET
+Table 'Scabiosa II' 10-max Seat #10 is the button
+Seat 1: tomte999 ($88.88 in chips)
+Seat 10: cupi ($20.64 in chips)
+cupi: posts small blind $1
+tomte999: posts big blind $3
+*** HOLE CARDS ***
+cupi: raises $3 to $6
+BIZE Terence joins the table at seat #6
+tomte999: calls $3
+*** FLOP *** [7h 6h 6d]
+tomte999: checks
+cupi: checks
+*** TURN *** [7h 6h 6d] [Td]
+tomte999: bets $6
+cupi: folds
+Uncalled bet ($6) returned to tomte999
+tomte999 collected $11.76 from pot
+tomte999: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7h 6h 6d Td]
+Seat 1: tomte999 (big blind) collected ($11.76)
+Seat 10: cupi (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #154942815882:  Hold'em Limit ($3/$6 USD) - 2016/06/19 13:51:01 ET
+Table 'Scabiosa II' 10-max Seat #1 is the button
+Seat 1: tomte999 ($74.38 in chips)
+Seat 10: cupi ($35.64 in chips)
+tomte999: posts small blind $1
+cupi: posts big blind $3
+*** HOLE CARDS ***
+tomte999: raises $3 to $6
+cupi: calls $3
+*** FLOP *** [9h 5d 6s]
+cupi: checks
+tomte999: bets $3
+cupi: calls $3
+*** TURN *** [9h 5d 6s] [Qh]
+cupi: checks
+tomte999: bets $6
+cupi: calls $6
+*** RIVER *** [9h 5d 6s Qh] [3c]
+cupi: checks
+tomte999: checks
+*** SHOW DOWN ***
+cupi: shows [8s Tc] (high card Queen)
+tomte999: shows [Ac 4c] (high card Ace)
+tomte999 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9h 5d 6s Qh 3c]
+Seat 1: tomte999 (button) (small blind) showed [Ac 4c] and won ($29.50) with high card Ace
+Seat 10: cupi (big blind) showed [8s Tc] and lost with high card Queen
+
+

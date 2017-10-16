@@ -1,0 +1,32 @@
+PokerStars Hand #163314842543:  Hold'em Limit ($3/$6 USD) - 2016/12/21 17:39:35 ET
+Table 'Tabit II' 6-max Seat #1 is the button
+Seat 1: ToDaFelt ($101.88 in chips)
+Seat 6: Myeong-ho ($16.19 in chips)
+ToDaFelt: posts small blind $1
+vestimokrec: is sitting out
+Necromadx: is sitting out
+Myeong-ho: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+Myeong-ho: calls $3
+*** FLOP *** [Ac 7c 4d]
+Myeong-ho: checks
+ToDaFelt: bets $3
+vestimokrec leaves the table
+Myeong-ho: raises $3 to $6
+ToDaFelt: calls $3
+*** TURN *** [Ac 7c 4d] [5d]
+Myeong-ho: bets $4.19 and is all-in
+ToDaFelt: calls $4.19
+*** RIVER *** [Ac 7c 4d 5d] [6h]
+*** SHOW DOWN ***
+Myeong-ho: shows [Tc Qc] (high card Ace)
+ToDaFelt: shows [8s 8c] (a straight, Four to Eight)
+ToDaFelt collected $31.88 from pot
+*** SUMMARY ***
+Total pot $32.38 | Rake $0.50
+Board [Ac 7c 4d 5d 6h]
+Seat 1: ToDaFelt (button) (small blind) showed [8s 8c] and won ($31.88) with a straight, Four to Eight
+Seat 6: Myeong-ho (big blind) showed [Tc Qc] and lost with high card Ace
+
+

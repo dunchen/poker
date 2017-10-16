@@ -1,0 +1,33 @@
+PokerStars Hand #155641051766:  Hold'em Limit ($3/$6 USD) - 2016/07/06 13:39:44 ET
+Table 'Adele' 6-max Seat #2 is the button
+Seat 2: LifeisagameX ($60 in chips)
+Seat 3: VolkovDmitri ($120 in chips)
+LifeisagameX: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+LifeisagameX: calls $3
+*** FLOP *** [5d Js 5c]
+VolkovDmitri: bets $3
+LifeisagameX: calls $3
+*** TURN *** [5d Js 5c] [3s]
+VolkovDmitri: bets $6
+LifeisagameX: raises $6 to $12
+VolkovDmitri: calls $6
+*** RIVER *** [5d Js 5c 3s] [Ah]
+VolkovDmitri: checks
+LifeisagameX: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+LifeisagameX: shows [Ad 4s] (two pair, Aces and Fives)
+VolkovDmitri: shows [Ac 3c] (two pair, Aces and Fives)
+VolkovDmitri collected $29.75 from pot
+LifeisagameX collected $29.75 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [5d Js 5c 3s Ah]
+Seat 2: LifeisagameX (button) (small blind) showed [Ad 4s] and won ($29.75) with two pair, Aces and Fives
+Seat 3: VolkovDmitri (big blind) showed [Ac 3c] and won ($29.75) with two pair, Aces and Fives
+
+

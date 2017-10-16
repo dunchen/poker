@@ -1,0 +1,69 @@
+PokerStars Hand #170974495452:  Hold'em Limit ($3/$6 USD) - 2017/05/27 6:16:32 ET
+Table 'Padua' 10-max Seat #8 is the button
+Seat 6: alfredg ($12.58 in chips)
+Seat 8: HAL9QQQ ($227.44 in chips)
+HAL9QQQ: posts small blind $1
+alfredg: posts big blind $3
+*** HOLE CARDS ***
+HAL9QQQ: folds
+Uncalled bet ($2) returned to alfredg
+alfredg collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 6: alfredg (big blind) collected ($2)
+Seat 8: HAL9QQQ (button) (small blind) folded before Flop
+
+
+PokerStars Hand #170974487012:  Hold'em Limit ($3/$6 USD) - 2017/05/27 6:16:11 ET
+Table 'Padua' 10-max Seat #6 is the button
+Seat 6: alfredg ($18.58 in chips)
+Seat 8: HAL9QQQ ($221.68 in chips)
+alfredg: posts small blind $1
+CatPuppy1999: is sitting out
+HAL9QQQ: posts big blind $3
+*** HOLE CARDS ***
+CatPuppy1999 leaves the table
+alfredg: calls $2
+HAL9QQQ: raises $3 to $6
+alfredg: calls $3
+*** FLOP *** [Qh Ah Jh]
+HAL9QQQ: bets $3
+alfredg: folds
+Uncalled bet ($3) returned to HAL9QQQ
+HAL9QQQ collected $11.76 from pot
+HAL9QQQ: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qh Ah Jh]
+Seat 6: alfredg (button) (small blind) folded on the Flop
+Seat 8: HAL9QQQ (big blind) collected ($11.76)
+
+
+PokerStars Hand #170974503815:  Hold'em Limit ($3/$6 USD) - 2017/05/27 6:16:52 ET
+Table 'Padua' 10-max Seat #6 is the button
+Seat 6: alfredg ($13.58 in chips)
+Seat 7: VolkovDmitri ($120 in chips)
+alfredg: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+alfredg: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [2d Jd Kh]
+VolkovDmitri: checks
+alfredg: bets $3
+VolkovDmitri: raises $3 to $6
+alfredg: raises $1.58 to $7.58 and is all-in
+VolkovDmitri: calls $1.58
+*** TURN *** [2d Jd Kh] [4c]
+*** RIVER *** [2d Jd Kh 4c] [8h]
+*** SHOW DOWN ***
+VolkovDmitri: shows [Jc 3h] (a pair of Jacks)
+alfredg: shows [9s 9c] (a pair of Nines)
+VolkovDmitri collected $26.66 from pot
+*** SUMMARY ***
+Total pot $27.16 | Rake $0.50
+Board [2d Jd Kh 4c 8h]
+Seat 6: alfredg (button) (small blind) showed [9s 9c] and lost with a pair of Nines
+Seat 7: VolkovDmitri (big blind) showed [Jc 3h] and won ($26.66) with a pair of Jacks
+
+

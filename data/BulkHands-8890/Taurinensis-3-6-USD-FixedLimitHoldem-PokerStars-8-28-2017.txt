@@ -1,0 +1,106 @@
+PokerStars Hand #174899118745:  Hold'em Limit ($3/$6 USD) - 2017/08/28 10:43:16 ET
+Table 'Taurinensis' 6-max Seat #1 is the button
+Seat 1: lawrence1208 ($120 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+lawrence1208: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+lawrence1208: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+lawrence1208: calls $3
+*** FLOP *** [9d Kh Td]
+VolkovDmitri: bets $3
+lawrence1208: calls $3
+*** TURN *** [9d Kh Td] [7d]
+VolkovDmitri: bets $6
+lawrence1208: calls $6
+*** RIVER *** [9d Kh Td 7d] [6c]
+Anchig joins the table at seat #2
+VolkovDmitri: checks
+nilsyngve joins the table at seat #6
+lawrence1208: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+lawrence1208: shows [7s Ac] (a pair of Sevens)
+VolkovDmitri: shows [Jd Jc] (a pair of Jacks)
+VolkovDmitri collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9d Kh Td 7d 6c]
+Seat 1: lawrence1208 (button) (small blind) showed [7s Ac] and lost with a pair of Sevens
+Seat 4: VolkovDmitri (big blind) showed [Jd Jc] and won ($47.50) with a pair of Jacks
+
+
+PokerStars Hand #174900243944:  Hold'em Limit ($3/$6 USD) - 2017/08/28 11:17:14 ET
+Table 'Taurinensis' 6-max Seat #6 is the button
+Seat 4: NewRocker ($75.08 in chips)
+Seat 6: skogsbarn ($131.28 in chips)
+skogsbarn: posts small blind $1
+Anchig: is sitting out
+NewRocker: posts big blind $3
+*** HOLE CARDS ***
+skogsbarn: raises $3 to $6
+NewRocker: folds
+Uncalled bet ($3) returned to skogsbarn
+Anchig leaves the table
+skogsbarn collected $6 from pot
+skogsbarn: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 4: NewRocker (big blind) folded before Flop
+Seat 6: skogsbarn (button) (small blind) collected ($6)
+
+
+PokerStars Hand #174900268674:  Hold'em Limit ($3/$6 USD) - 2017/08/28 11:17:57 ET
+Table 'Taurinensis' 6-max Seat #6 is the button
+Seat 4: NewRocker ($77.84 in chips)
+Seat 6: skogsbarn ($128.28 in chips)
+skogsbarn: posts small blind $1
+NewRocker: posts big blind $3
+*** HOLE CARDS ***
+skogsbarn: raises $3 to $6
+NewRocker: raises $3 to $9
+skogsbarn: calls $3
+*** FLOP *** [3d As Qd]
+NewRocker: bets $3
+skogsbarn: calls $3
+*** TURN *** [3d As Qd] [Ad]
+NewRocker: bets $6
+skogsbarn: calls $6
+*** RIVER *** [3d As Qd Ad] [8c]
+NewRocker: bets $6
+skogsbarn: calls $6
+*** SHOW DOWN ***
+NewRocker: shows [Jd Qs] (two pair, Aces and Queens)
+skogsbarn: mucks hand
+NewRocker collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3d As Qd Ad 8c]
+Seat 4: NewRocker (big blind) showed [Jd Qs] and won ($47.50) with two pair, Aces and Queens
+Seat 6: skogsbarn (button) (small blind) mucked
+
+
+PokerStars Hand #174900247877:  Hold'em Limit ($3/$6 USD) - 2017/08/28 11:17:21 ET
+Table 'Taurinensis' 6-max Seat #4 is the button
+Seat 4: NewRocker ($72.08 in chips)
+Seat 6: skogsbarn ($134.28 in chips)
+NewRocker: posts small blind $1
+skogsbarn: posts big blind $3
+*** HOLE CARDS ***
+NewRocker: raises $3 to $6
+skogsbarn: calls $3
+*** FLOP *** [4h 6s 9d]
+skogsbarn: checks
+NewRocker: bets $3
+skogsbarn: folds
+Uncalled bet ($3) returned to NewRocker
+NewRocker collected $11.76 from pot
+NewRocker: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4h 6s 9d]
+Seat 4: NewRocker (button) (small blind) collected ($11.76)
+Seat 6: skogsbarn (big blind) folded on the Flop
+
+

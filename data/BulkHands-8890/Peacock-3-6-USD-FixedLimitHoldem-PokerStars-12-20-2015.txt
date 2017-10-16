@@ -1,0 +1,30 @@
+PokerStars Hand #145615146200:  Hold'em Limit ($3/$6 USD) - 2015/12/19 21:45:25 ET
+Table 'Peacock' 6-max Seat #5 is the button
+Seat 4: Velbor107 ($350.01 in chips)
+Seat 5: SlickDickey ($129.62 in chips)
+SlickDickey: posts small blind $1
+Velbor107: posts big blind $3
+*** HOLE CARDS ***
+SlickDickey: raises $3 to $6
+Velbor107: calls $3
+*** FLOP *** [Jh 6h Qh]
+Velbor107: checks
+SlickDickey: checks
+*** TURN *** [Jh 6h Qh] [6d]
+Velbor107: bets $6
+SlickDickey: calls $6
+*** RIVER *** [Jh 6h Qh 6d] [7c]
+Velbor107: bets $6
+SlickDickey: raises $6 to $12
+Velbor107: calls $6
+*** SHOW DOWN ***
+SlickDickey: shows [Th 6c] (three of a kind, Sixes)
+Velbor107: mucks hand
+SlickDickey collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Jh 6h Qh 6d 7c]
+Seat 4: Velbor107 (big blind) mucked
+Seat 5: SlickDickey (button) (small blind) showed [Th 6c] and won ($47.50) with three of a kind, Sixes
+
+

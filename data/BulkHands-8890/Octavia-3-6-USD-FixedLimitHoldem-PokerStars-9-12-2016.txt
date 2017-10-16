@@ -1,0 +1,50 @@
+PokerStars Hand #158493957441:  Hold'em Limit ($3/$6 USD) - 2016/09/12 2:55:58 ET
+Table 'Octavia' 6-max Seat #1 is the button
+Seat 1: oregordog ($120 in chips)
+Seat 3: simper11 ($120 in chips)
+oregordog: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+oregordog: raises $3 to $6
+simper11: calls $3
+*** FLOP *** [2c 3h 9c]
+simper11: checks
+oregordog: bets $3
+simper11: calls $3
+*** TURN *** [2c 3h 9c] [Kh]
+simper11: checks
+oregordog: bets $6
+simper11: folds
+Uncalled bet ($6) returned to oregordog
+oregordog collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2c 3h 9c Kh]
+Seat 1: oregordog (button) (small blind) collected ($17.64)
+Seat 3: simper11 (big blind) folded on the Turn
+
+
+PokerStars Hand #158493963709:  Hold'em Limit ($3/$6 USD) - 2016/09/12 2:56:29 ET
+Table 'Octavia' 6-max Seat #3 is the button
+Seat 1: oregordog ($128.64 in chips)
+Seat 3: simper11 ($120 in chips)
+simper11: posts small blind $1
+oregordog: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+Agrotait joins the table at seat #2
+oregordog: calls $3
+*** FLOP *** [5h Td 4d]
+oregordog: checks
+simper11: bets $3
+oregordog: folds
+Uncalled bet ($3) returned to simper11
+simper11 collected $11.76 from pot
+simper11: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5h Td 4d]
+Seat 1: oregordog (big blind) folded on the Flop
+Seat 3: simper11 (button) (small blind) collected ($11.76)
+
+

@@ -1,0 +1,50 @@
+PokerStars Hand #176370696171:  Hold'em Limit ($3/$6 USD) - 2017/10/01 17:11:22 ET
+Table 'Lundia' 6-max Seat #6 is the button
+Seat 3: CharginWapos ($273.14 in chips)
+Seat 6: SonneUndMond ($55.11 in chips)
+SonneUndMond: posts small blind $1
+masterblstr8: is sitting out
+CharginWapos: posts big blind $3
+*** HOLE CARDS ***
+SonneUndMond: folds
+Uncalled bet ($2) returned to CharginWapos
+CharginWapos collected $2 from pot
+CharginWapos: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: CharginWapos (big blind) collected ($2)
+Seat 6: SonneUndMond (button) (small blind) folded before Flop
+
+
+PokerStars Hand #176370701801:  Hold'em Limit ($3/$6 USD) - 2017/10/01 17:11:28 ET
+Table 'Lundia' 6-max Seat #3 is the button
+Seat 3: CharginWapos ($274.14 in chips)
+Seat 6: SonneUndMond ($54.11 in chips)
+CharginWapos: posts small blind $1
+SonneUndMond: posts big blind $3
+*** HOLE CARDS ***
+CharginWapos: raises $3 to $6
+SonneUndMond: calls $3
+*** FLOP *** [Qd 4s Kc]
+SonneUndMond: checks
+CharginWapos: bets $3
+SonneUndMond: calls $3
+*** TURN *** [Qd 4s Kc] [4h]
+SonneUndMond: checks
+CharginWapos: bets $6
+SonneUndMond: raises $6 to $12
+CharginWapos: calls $6
+*** RIVER *** [Qd 4s Kc 4h] [Th]
+SonneUndMond: bets $6
+CharginWapos: calls $6
+*** SHOW DOWN ***
+SonneUndMond: shows [3d Qh] (two pair, Queens and Fours)
+CharginWapos: shows [Kd 6h] (two pair, Kings and Fours)
+CharginWapos collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Qd 4s Kc 4h Th]
+Seat 3: CharginWapos (button) (small blind) showed [Kd 6h] and won ($53.50) with two pair, Kings and Fours
+Seat 6: SonneUndMond (big blind) showed [3d Qh] and lost with two pair, Queens and Fours
+
+

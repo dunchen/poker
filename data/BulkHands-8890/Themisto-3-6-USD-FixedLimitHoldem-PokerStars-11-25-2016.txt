@@ -1,0 +1,34 @@
+PokerStars Hand #161936417717:  Hold'em Limit ($3/$6 USD) - 2016/11/25 9:57:11 ET
+Table 'Themisto' 6-max Seat #1 is the button
+Seat 1: Bueffel ($29.96 in chips)
+Seat 4: Ale4o ($133.05 in chips)
+Bueffel: posts small blind $1
+Mordnilap: is sitting out
+Ale4o: posts big blind $3
+*** HOLE CARDS ***
+Bueffel: raises $3 to $6
+Ale4o: calls $3
+*** FLOP *** [4s 6s 8d]
+Ale4o: checks
+Bueffel: bets $3
+Ale4o: calls $3
+*** TURN *** [4s 6s 8d] [4c]
+Ale4o: checks
+Bueffel: bets $6
+MATEKATA2 joins the table at seat #5
+Ale4o: raises $6 to $12
+Bueffel: calls $6
+*** RIVER *** [4s 6s 8d 4c] [9d]
+Ale4o: bets $6
+Bueffel: calls $6
+*** SHOW DOWN ***
+Ale4o: shows [6h Kc] (two pair, Sixes and Fours)
+Bueffel: shows [8s Qc] (two pair, Eights and Fours)
+Bueffel collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [4s 6s 8d 4c 9d]
+Seat 1: Bueffel (button) (small blind) showed [8s Qc] and won ($53.50) with two pair, Eights and Fours
+Seat 4: Ale4o (big blind) showed [6h Kc] and lost with two pair, Sixes and Fours
+
+

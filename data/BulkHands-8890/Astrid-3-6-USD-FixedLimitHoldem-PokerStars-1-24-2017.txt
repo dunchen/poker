@@ -1,0 +1,129 @@
+PokerStars Hand #165081794718:  Hold'em Limit ($3/$6 USD) - 2017/01/24 4:17:13 ET
+Table 'Astrid' 6-max Seat #3 is the button
+Seat 3: nicmct ($120 in chips)
+Seat 5: sinsadir ($120 in chips)
+TbIP-TbIP 88 has timed out
+TbIP-TbIP 88: is sitting out
+nicmct: posts small blind $1
+sinsadir: posts big blind $3
+*** HOLE CARDS ***
+nicmct: raises $3 to $6
+sinsadir: calls $3
+*** FLOP *** [5h Th Ad]
+sinsadir: checks
+nicmct: bets $3
+sinsadir: folds
+Uncalled bet ($3) returned to nicmct
+nicmct collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5h Th Ad]
+Seat 3: nicmct (button) (small blind) collected ($11.76)
+Seat 5: sinsadir (big blind) folded on the Flop
+
+
+PokerStars Hand #165081806619:  Hold'em Limit ($3/$6 USD) - 2017/01/24 4:17:47 ET
+Table 'Astrid' 6-max Seat #5 is the button
+Seat 3: nicmct ($125.76 in chips)
+Seat 5: sinsadir ($114 in chips)
+sinsadir: posts small blind $1
+nicmct: posts big blind $3
+*** HOLE CARDS ***
+sinsadir: raises $3 to $6
+nicmct: calls $3
+*** FLOP *** [4d Td 5s]
+nicmct: checks
+sinsadir: bets $3
+nicmct: calls $3
+*** TURN *** [4d Td 5s] [Ah]
+nicmct: checks
+sinsadir: checks
+*** RIVER *** [4d Td 5s Ah] [2h]
+nicmct: bets $6
+sinsadir: folds
+Uncalled bet ($6) returned to nicmct
+nicmct collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4d Td 5s Ah 2h]
+Seat 3: nicmct (big blind) collected ($17.64)
+Seat 5: sinsadir (button) (small blind) folded on the River
+
+
+PokerStars Hand #165081836588:  Hold'em Limit ($3/$6 USD) - 2017/01/24 4:19:10 ET
+Table 'Astrid' 6-max Seat #5 is the button
+Seat 3: nicmct ($154.90 in chips)
+Seat 5: sinsadir ($84 in chips)
+sinsadir: posts small blind $1
+nicmct: posts big blind $3
+*** HOLE CARDS ***
+sinsadir: raises $3 to $6
+nicmct: folds
+Uncalled bet ($3) returned to sinsadir
+sinsadir collected $6 from pot
+sinsadir: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: nicmct (big blind) folded before Flop
+Seat 5: sinsadir (button) (small blind) collected ($6)
+
+
+PokerStars Hand #165081815522:  Hold'em Limit ($3/$6 USD) - 2017/01/24 4:18:12 ET
+Table 'Astrid' 6-max Seat #3 is the button
+Seat 3: nicmct ($134.40 in chips)
+Seat 5: sinsadir ($105 in chips)
+nicmct: posts small blind $1
+sinsadir: posts big blind $3
+*** HOLE CARDS ***
+nicmct: raises $3 to $6
+sinsadir: calls $3
+*** FLOP *** [4d 4c 7c]
+sinsadir: checks
+nicmct: bets $3
+TbIP-TbIP 88 leaves the table
+sinsadir: calls $3
+*** TURN *** [4d 4c 7c] [2c]
+sinsadir: checks
+nicmct: checks
+*** RIVER *** [4d 4c 7c 2c] [8h]
+sinsadir: bets $6
+nicmct: raises $6 to $12
+sinsadir: calls $6
+*** SHOW DOWN ***
+nicmct: shows [8c Ts] (two pair, Eights and Fours)
+sinsadir: mucks hand
+nicmct collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [4d 4c 7c 2c 8h]
+Seat 3: nicmct (button) (small blind) showed [8c Ts] and won ($41.50) with two pair, Eights and Fours
+Seat 5: sinsadir (big blind) mucked
+
+
+PokerStars Hand #165081843278:  Hold'em Limit ($3/$6 USD) - 2017/01/24 4:19:29 ET
+Table 'Astrid' 6-max Seat #3 is the button
+Seat 3: nicmct ($151.90 in chips)
+Seat 5: sinsadir ($87 in chips)
+nicmct: posts small blind $1
+sinsadir: posts big blind $3
+*** HOLE CARDS ***
+nicmct: raises $3 to $6
+sinsadir: calls $3
+*** FLOP *** [5s 2h 6d]
+sinsadir: checks
+nicmct: bets $3
+sinsadir: raises $3 to $6
+nicmct: calls $3
+*** TURN *** [5s 2h 6d] [As]
+sinsadir: bets $6
+nicmct: folds
+Uncalled bet ($6) returned to sinsadir
+sinsadir collected $23.52 from pot
+sinsadir: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [5s 2h 6d As]
+Seat 3: nicmct (button) (small blind) folded on the Turn
+Seat 5: sinsadir (big blind) collected ($23.52)
+
+

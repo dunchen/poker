@@ -1,0 +1,102 @@
+PokerStars Hand #172856118569:  Hold'em Limit ($3/$6 USD) - 2017/07/10 13:42:02 ET
+Table 'Flavia' 6-max Seat #4 is the button
+Seat 2: fluit83 ($39 in chips)
+Seat 4: MTails ($146.50 in chips)
+MTails: posts small blind $1
+fluit83: posts big blind $3
+*** HOLE CARDS ***
+MTails: folds
+Uncalled bet ($2) returned to fluit83
+fluit83 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: fluit83 (big blind) collected ($2)
+Seat 4: MTails (button) (small blind) folded before Flop
+
+
+PokerStars Hand #172856096880:  Hold'em Limit ($3/$6 USD) - 2017/07/10 13:41:33 ET
+Table 'Flavia' 6-max Seat #2 is the button
+Seat 2: fluit83 ($66 in chips)
+Seat 4: MTails ($120 in chips)
+fluit83: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+fluit83: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [As Jc Kh]
+MTails: checks
+fluit83: bets $3
+MTails: raises $3 to $6
+fluit83: raises $3 to $9
+MTails: calls $3
+*** TURN *** [As Jc Kh] [Kc]
+MTails: checks
+fluit83: bets $6
+MTails: calls $6
+*** RIVER *** [As Jc Kh Kc] [5h]
+MTails: checks
+B_loJkl joins the table at seat #3
+fluit83: bets $6
+MTails: calls $6
+*** SHOW DOWN ***
+fluit83: shows [9c Qh] (a pair of Kings)
+MTails: shows [Ac 2h] (two pair, Aces and Kings)
+MTails collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [As Jc Kh Kc 5h]
+Seat 2: fluit83 (button) (small blind) showed [9c Qh] and lost with a pair of Kings
+Seat 4: MTails (big blind) showed [Ac 2h] and won ($53.50) with two pair, Aces and Kings
+
+
+PokerStars Hand #172861230930:  Hold'em Limit ($3/$6 USD) - 2017/07/10 15:32:41 ET
+Table 'Flavia' 6-max Seat #2 is the button
+Seat 2: kusznak ($137.35 in chips)
+Seat 5: denn69 ($688.04 in chips)
+B_loJkl will be allowed to play after the button
+kusznak: posts small blind $1
+denn69: posts big blind $3
+*** HOLE CARDS ***
+kusznak: folds
+Uncalled bet ($2) returned to denn69
+denn69 collected $2 from pot
+denn69: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: kusznak (button) (small blind) folded before Flop
+Seat 5: denn69 (big blind) collected ($2)
+
+
+PokerStars Hand #172862270258:  Hold'em Limit ($3/$6 USD) - 2017/07/10 15:52:48 ET
+Table 'Flavia' 6-max Seat #2 is the button
+Seat 2: kusznak ($128.66 in chips)
+Seat 6: B_loJkl ($142.64 in chips)
+kusznak: posts small blind $1
+denn69: is sitting out
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+kusznak: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Js Ts 7h]
+B_loJkl: checks
+kusznak: bets $3
+B_loJkl: calls $3
+*** TURN *** [Js Ts 7h] [3c]
+B_loJkl: checks
+kusznak: bets $6
+B_loJkl: calls $6
+*** RIVER *** [Js Ts 7h 3c] [Tc]
+B_loJkl: checks
+kusznak: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+kusznak: shows [5c Jh] (two pair, Jacks and Tens)
+B_loJkl: mucks hand
+kusznak collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Js Ts 7h 3c Tc]
+Seat 2: kusznak (button) (small blind) showed [5c Jh] and won ($41.50) with two pair, Jacks and Tens
+Seat 6: B_loJkl (big blind) mucked
+
+

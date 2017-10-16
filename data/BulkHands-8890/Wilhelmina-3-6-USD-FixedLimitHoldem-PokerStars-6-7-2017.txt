@@ -1,0 +1,29 @@
+PokerStars Hand #171456681281:  Hold'em Limit ($3/$6 USD) - 2017/06/07 6:41:25 ET
+Table 'Wilhelmina' 6-max Seat #4 is the button
+Seat 4: MTails ($128.41 in chips)
+Seat 6: Anchig ($144.38 in chips)
+MTails: posts small blind $1
+Anchig: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+Anchig: calls $3
+*** FLOP *** [7d 6d 3c]
+Anchig: checks
+MTails: checks
+*** TURN *** [7d 6d 3c] [Jc]
+Anchig: bets $6
+MTails: calls $6
+*** RIVER *** [7d 6d 3c Jc] [9d]
+Anchig: bets $6
+MTails: calls $6
+*** SHOW DOWN ***
+Anchig: shows [9s 5h] (a pair of Nines)
+MTails: mucks hand
+Anchig collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [7d 6d 3c Jc 9d]
+Seat 4: MTails (button) (small blind) mucked
+Seat 6: Anchig (big blind) showed [9s 5h] and won ($35.50) with a pair of Nines
+
+

@@ -1,0 +1,854 @@
+PokerStars Hand #163951344398:  Hold'em Limit ($3/$6 USD) - 2017/01/03 1:01:14 ET
+Table 'Lyka' 6-max Seat #1 is the button
+Seat 1: BelSv ($79 in chips)
+Seat 6: sda.80.16 ($52.31 in chips)
+BelSv: posts small blind $1
+sda.80.16: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+sda.80.16: calls $3
+*** FLOP *** [6d 4h 2c]
+sda.80.16: checks
+BelSv: checks
+*** TURN *** [6d 4h 2c] [Td]
+sda.80.16: checks
+BelSv: bets $6
+sda.80.16: raises $6 to $12
+BelSv: calls $6
+*** RIVER *** [6d 4h 2c Td] [7h]
+sda.80.16: bets $6
+BelSv: calls $6
+*** SHOW DOWN ***
+sda.80.16: shows [Tc Qh] (a pair of Tens)
+BelSv: mucks hand
+sda.80.16 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [6d 4h 2c Td 7h]
+Seat 1: BelSv (button) (small blind) mucked
+Seat 6: sda.80.16 (big blind) showed [Tc Qh] and won ($47.50) with a pair of Tens
+
+
+PokerStars Hand #163951343197:  Hold'em Limit ($3/$6 USD) - 2017/01/03 1:01:09 ET
+Table 'Lyka' 6-max Seat #6 is the button
+Seat 1: BelSv ($78 in chips)
+Seat 6: sda.80.16 ($53.31 in chips)
+sda.80.16: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+sda.80.16: folds
+Uncalled bet ($2) returned to BelSv
+BelSv collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BelSv (big blind) collected ($2)
+Seat 6: sda.80.16 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #163951365159:  Hold'em Limit ($3/$6 USD) - 2017/01/03 1:02:21 ET
+Table 'Lyka' 6-max Seat #1 is the button
+Seat 1: BelSv ($78 in chips)
+Seat 6: sda.80.16 ($107.83 in chips)
+BelSv: posts small blind $1
+sda.80.16: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+sda.80.16: calls $3
+*** FLOP *** [Qs 9d Kc]
+sda.80.16: checks
+BelSv: checks
+*** TURN *** [Qs 9d Kc] [2d]
+sda.80.16: bets $6
+BelSv: calls $6
+*** RIVER *** [Qs 9d Kc 2d] [5s]
+sda.80.16: bets $6
+BelSv: calls $6
+*** SHOW DOWN ***
+sda.80.16: shows [Qd 2c] (two pair, Queens and Deuces)
+BelSv: mucks hand
+sda.80.16 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Qs 9d Kc 2d 5s]
+Seat 1: BelSv (button) (small blind) mucked
+Seat 6: sda.80.16 (big blind) showed [Qd 2c] and won ($35.50) with two pair, Queens and Deuces
+
+
+PokerStars Hand #163951360779:  Hold'em Limit ($3/$6 USD) - 2017/01/03 1:02:04 ET
+Table 'Lyka' 6-max Seat #6 is the button
+Seat 1: BelSv ($78 in chips)
+Seat 6: sda.80.16 ($87.33 in chips)
+sda.80.16: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+sda.80.16: raises $3 to $6
+BelSv: calls $3
+*** FLOP *** [Kd 4d Qh]
+BelSv: checks
+sda.80.16: bets $3
+BelSv: calls $3
+*** TURN *** [Kd 4d Qh] [3d]
+BelSv: checks
+sda.80.16: bets $6
+BelSv: calls $6
+*** RIVER *** [Kd 4d Qh 3d] [Kc]
+BelSv: checks
+sda.80.16: bets $6
+BelSv: calls $6
+*** SHOW DOWN ***
+sda.80.16: shows [7d 6d] (a flush, King high)
+BelSv: mucks hand
+sda.80.16 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Kd 4d Qh 3d Kc]
+Seat 1: BelSv (big blind) mucked
+Seat 6: sda.80.16 (button) (small blind) showed [7d 6d] and won ($41.50) with a flush, King high
+
+
+PokerStars Hand #163951355798:  Hold'em Limit ($3/$6 USD) - 2017/01/03 1:01:44 ET
+Table 'Lyka' 6-max Seat #1 is the button
+Seat 1: BelSv ($78 in chips)
+Seat 6: sda.80.16 ($81.57 in chips)
+BelSv: posts small blind $1
+sda.80.16: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+sda.80.16: calls $3
+*** FLOP *** [9d 9c 2c]
+sda.80.16: checks
+BelSv: checks
+*** TURN *** [9d 9c 2c] [Td]
+sda.80.16: checks
+BelSv: checks
+*** RIVER *** [9d 9c 2c Td] [Jd]
+sda.80.16: checks
+BelSv: checks
+*** SHOW DOWN ***
+sda.80.16: shows [Kd 7h] (a pair of Nines)
+BelSv: mucks hand
+sda.80.16 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9d 9c 2c Td Jd]
+Seat 1: BelSv (button) (small blind) mucked
+Seat 6: sda.80.16 (big blind) showed [Kd 7h] and won ($11.76) with a pair of Nines
+
+
+PokerStars Hand #163951352843:  Hold'em Limit ($3/$6 USD) - 2017/01/03 1:01:32 ET
+Table 'Lyka' 6-max Seat #6 is the button
+Seat 1: BelSv ($78 in chips)
+Seat 6: sda.80.16 ($75.81 in chips)
+sda.80.16: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+sda.80.16: raises $3 to $6
+BelSv: calls $3
+*** FLOP *** [Ks 7h Jh]
+BelSv: checks
+sda.80.16: checks
+*** TURN *** [Ks 7h Jh] [Qh]
+BelSv: checks
+sda.80.16: bets $6
+BelSv: folds
+Uncalled bet ($6) returned to sda.80.16
+sda.80.16 collected $11.76 from pot
+sda.80.16: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ks 7h Jh Qh]
+Seat 1: BelSv (big blind) folded on the Turn
+Seat 6: sda.80.16 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #163951380195:  Hold'em Limit ($3/$6 USD) - 2017/01/03 1:03:20 ET
+Table 'Lyka' 6-max Seat #6 is the button
+Seat 1: BelSv ($83.76 in chips)
+Seat 6: sda.80.16 ($138.59 in chips)
+sda.80.16: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+sda.80.16: folds
+Uncalled bet ($2) returned to BelSv
+BelSv collected $2 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BelSv (big blind) collected ($2)
+Seat 6: sda.80.16 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #163951376731:  Hold'em Limit ($3/$6 USD) - 2017/01/03 1:03:07 ET
+Table 'Lyka' 6-max Seat #1 is the button
+Seat 1: BelSv ($78 in chips)
+Seat 6: sda.80.16 ($144.59 in chips)
+BelSv: posts small blind $1
+sda.80.16: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+sda.80.16: calls $3
+*** FLOP *** [Kd 4d Qs]
+sda.80.16: checks
+BelSv: bets $3
+sda.80.16: folds
+Uncalled bet ($3) returned to BelSv
+BelSv collected $11.76 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kd 4d Qs]
+Seat 1: BelSv (button) (small blind) collected ($11.76)
+Seat 6: sda.80.16 (big blind) folded on the Flop
+
+
+PokerStars Hand #163951374190:  Hold'em Limit ($3/$6 USD) - 2017/01/03 1:02:57 ET
+Table 'Lyka' 6-max Seat #6 is the button
+Seat 1: BelSv ($78 in chips)
+Seat 6: sda.80.16 ($138.83 in chips)
+sda.80.16: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+sda.80.16: raises $3 to $6
+BelSv: calls $3
+*** FLOP *** [6s Qc 5h]
+BelSv: checks
+sda.80.16: bets $3
+BelSv: folds
+Uncalled bet ($3) returned to sda.80.16
+sda.80.16 collected $11.76 from pot
+sda.80.16: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6s Qc 5h]
+Seat 1: BelSv (big blind) folded on the Flop
+Seat 6: sda.80.16 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #163951370667:  Hold'em Limit ($3/$6 USD) - 2017/01/03 1:02:43 ET
+Table 'Lyka' 6-max Seat #1 is the button
+Seat 1: BelSv ($79 in chips)
+Seat 6: sda.80.16 ($124.33 in chips)
+BelSv: posts small blind $1
+sda.80.16: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+sda.80.16: calls $3
+*** FLOP *** [Qs 9s 4s]
+sda.80.16: checks
+BelSv: bets $3
+sda.80.16: calls $3
+*** TURN *** [Qs 9s 4s] [8h]
+sda.80.16: checks
+BelSv: checks
+*** RIVER *** [Qs 9s 4s 8h] [4c]
+sda.80.16: bets $6
+BelSv: calls $6
+*** SHOW DOWN ***
+sda.80.16: shows [Jd 8s] (two pair, Eights and Fours)
+BelSv: mucks hand
+sda.80.16 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qs 9s 4s 8h 4c]
+Seat 1: BelSv (button) (small blind) mucked
+Seat 6: sda.80.16 (big blind) showed [Jd 8s] and won ($29.50) with two pair, Eights and Fours
+
+
+PokerStars Hand #163951369039:  Hold'em Limit ($3/$6 USD) - 2017/01/03 1:02:36 ET
+Table 'Lyka' 6-max Seat #6 is the button
+Seat 1: BelSv ($78 in chips)
+Seat 6: sda.80.16 ($125.33 in chips)
+sda.80.16: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+sda.80.16: folds
+Uncalled bet ($2) returned to BelSv
+BelSv collected $2 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BelSv (big blind) collected ($2)
+Seat 6: sda.80.16 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #163951392704:  Hold'em Limit ($3/$6 USD) - 2017/01/03 1:04:09 ET
+Table 'Lyka' 6-max Seat #6 is the button
+Seat 1: BelSv ($108.02 in chips)
+Seat 6: sda.80.16 ($113.35 in chips)
+sda.80.16: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+sda.80.16: raises $3 to $6
+BelSv: raises $3 to $9
+sda.80.16: calls $3
+*** FLOP *** [4h 5h 2d]
+BelSv: bets $3
+sda.80.16: calls $3
+*** TURN *** [4h 5h 2d] [Qc]
+BelSv: bets $6
+sda.80.16: calls $6
+*** RIVER *** [4h 5h 2d Qc] [Kc]
+BelSv: checks
+sda.80.16: bets $6
+BelSv: calls $6
+*** SHOW DOWN ***
+sda.80.16: shows [8h 2h] (a pair of Deuces)
+BelSv: mucks hand
+sda.80.16 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4h 5h 2d Qc Kc]
+Seat 1: BelSv (big blind) mucked
+Seat 6: sda.80.16 (button) (small blind) showed [8h 2h] and won ($47.50) with a pair of Deuces
+
+
+PokerStars Hand #163951390281:  Hold'em Limit ($3/$6 USD) - 2017/01/03 1:04:00 ET
+Table 'Lyka' 6-max Seat #1 is the button
+Seat 1: BelSv ($114.02 in chips)
+Seat 6: sda.80.16 ($107.59 in chips)
+BelSv: posts small blind $1
+sda.80.16: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+sda.80.16: calls $3
+*** FLOP *** [Jh 2h Tc]
+sda.80.16: bets $3
+BelSv: folds
+Uncalled bet ($3) returned to sda.80.16
+sda.80.16 collected $11.76 from pot
+sda.80.16: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jh 2h Tc]
+Seat 1: BelSv (button) (small blind) folded on the Flop
+Seat 6: sda.80.16 (big blind) collected ($11.76)
+
+
+PokerStars Hand #163951386665:  Hold'em Limit ($3/$6 USD) - 2017/01/03 1:03:46 ET
+Table 'Lyka' 6-max Seat #6 is the button
+Seat 1: BelSv ($108.26 in chips)
+Seat 6: sda.80.16 ($113.59 in chips)
+sda.80.16: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+sda.80.16: raises $3 to $6
+BelSv: calls $3
+*** FLOP *** [Qh 8c 4d]
+BelSv: checks
+sda.80.16: checks
+*** TURN *** [Qh 8c 4d] [3c]
+BelSv: bets $6
+sda.80.16: folds
+Uncalled bet ($6) returned to BelSv
+BelSv collected $11.76 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qh 8c 4d 3c]
+Seat 1: BelSv (big blind) collected ($11.76)
+Seat 6: sda.80.16 (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #163951381328:  Hold'em Limit ($3/$6 USD) - 2017/01/03 1:03:25 ET
+Table 'Lyka' 6-max Seat #1 is the button
+Seat 1: BelSv ($84.76 in chips)
+Seat 6: sda.80.16 ($137.59 in chips)
+BelSv: posts small blind $1
+sda.80.16: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+sda.80.16: raises $3 to $9
+BelSv: calls $3
+*** FLOP *** [2d 7c Kc]
+sda.80.16: bets $3
+BelSv: calls $3
+*** TURN *** [2d 7c Kc] [9h]
+sda.80.16: bets $6
+BelSv: calls $6
+*** RIVER *** [2d 7c Kc 9h] [4c]
+sda.80.16: bets $6
+BelSv: raises $6 to $12
+sda.80.16: folds
+Uncalled bet ($6) returned to BelSv
+BelSv collected $47.50 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2d 7c Kc 9h 4c]
+Seat 1: BelSv (button) (small blind) collected ($47.50)
+Seat 6: sda.80.16 (big blind) folded on the River
+
+
+PokerStars Hand #163951408456:  Hold'em Limit ($3/$6 USD) - 2017/01/03 1:05:09 ET
+Table 'Lyka' 6-max Seat #6 is the button
+Seat 1: BelSv ($92.40 in chips)
+Seat 6: sda.80.16 ($130.49 in chips)
+sda.80.16: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+sda.80.16: raises $3 to $6
+BelSv: calls $3
+*** FLOP *** [6h Qs Jd]
+BelSv: checks
+sda.80.16: checks
+*** TURN *** [6h Qs Jd] [7c]
+BelSv: bets $6
+sda.80.16: folds
+Uncalled bet ($6) returned to BelSv
+BelSv collected $11.76 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6h Qs Jd 7c]
+Seat 1: BelSv (big blind) collected ($11.76)
+Seat 6: sda.80.16 (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #163951405537:  Hold'em Limit ($3/$6 USD) - 2017/01/03 1:05:00 ET
+Table 'Lyka' 6-max Seat #1 is the button
+Seat 1: BelSv ($86.64 in chips)
+Seat 6: sda.80.16 ($136.49 in chips)
+BelSv: posts small blind $1
+sda.80.16: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+sda.80.16: calls $3
+*** FLOP *** [Ks Kh 4s]
+sda.80.16: checks
+BelSv: bets $3
+sda.80.16: folds
+Uncalled bet ($3) returned to BelSv
+BelSv collected $11.76 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ks Kh 4s]
+Seat 1: BelSv (button) (small blind) collected ($11.76)
+Seat 6: sda.80.16 (big blind) folded on the Flop
+
+
+PokerStars Hand #163951402974:  Hold'em Limit ($3/$6 USD) - 2017/01/03 1:04:50 ET
+Table 'Lyka' 6-max Seat #6 is the button
+Seat 1: BelSv ($78 in chips)
+Seat 6: sda.80.16 ($145.49 in chips)
+sda.80.16: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+sda.80.16: raises $3 to $6
+BelSv: raises $3 to $9
+sda.80.16: calls $3
+*** FLOP *** [Js Kh 5c]
+BelSv: bets $3
+sda.80.16: folds
+Uncalled bet ($3) returned to BelSv
+BelSv collected $17.64 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Js Kh 5c]
+Seat 1: BelSv (big blind) collected ($17.64)
+Seat 6: sda.80.16 (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #163951398927:  Hold'em Limit ($3/$6 USD) - 2017/01/03 1:04:34 ET
+Table 'Lyka' 6-max Seat #1 is the button
+Seat 1: BelSv ($84.02 in chips)
+Seat 6: sda.80.16 ($136.85 in chips)
+BelSv: posts small blind $1
+sda.80.16: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+sda.80.16: raises $3 to $9
+BelSv: calls $3
+*** FLOP *** [5h 9s Kc]
+sda.80.16: checks
+BelSv: checks
+*** TURN *** [5h 9s Kc] [Kd]
+sda.80.16: checks
+BelSv: checks
+*** RIVER *** [5h 9s Kc Kd] [2s]
+sda.80.16: bets $6
+BelSv: folds
+Uncalled bet ($6) returned to sda.80.16
+sda.80.16 collected $17.64 from pot
+sda.80.16: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5h 9s Kc Kd 2s]
+Seat 1: BelSv (button) (small blind) folded on the River
+Seat 6: sda.80.16 (big blind) collected ($17.64)
+
+
+PokerStars Hand #163951425476:  Hold'em Limit ($3/$6 USD) - 2017/01/03 1:06:14 ET
+Table 'Lyka' 6-max Seat #6 is the button
+Seat 1: BelSv ($150.80 in chips)
+Seat 6: sda.80.16 ($70.49 in chips)
+sda.80.16: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+sda.80.16: raises $3 to $6
+BelSv: folds
+Uncalled bet ($3) returned to sda.80.16
+sda.80.16 collected $6 from pot
+sda.80.16: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: BelSv (big blind) folded before Flop
+Seat 6: sda.80.16 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #163951420721:  Hold'em Limit ($3/$6 USD) - 2017/01/03 1:05:57 ET
+Table 'Lyka' 6-max Seat #1 is the button
+Seat 1: BelSv ($130.30 in chips)
+Seat 6: sda.80.16 ($91.49 in chips)
+BelSv: posts small blind $1
+sda.80.16: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+sda.80.16: calls $3
+*** FLOP *** [Js 4c Qc]
+sda.80.16: checks
+BelSv: bets $3
+sda.80.16: calls $3
+*** TURN *** [Js 4c Qc] [8h]
+sda.80.16: checks
+BelSv: bets $6
+sda.80.16: calls $6
+*** RIVER *** [Js 4c Qc 8h] [6c]
+sda.80.16: checks
+BelSv: bets $6
+sda.80.16: calls $6
+*** SHOW DOWN ***
+BelSv: shows [Qd 9s] (a pair of Queens)
+sda.80.16: mucks hand
+BelSv collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Js 4c Qc 8h 6c]
+Seat 1: BelSv (button) (small blind) showed [Qd 9s] and won ($41.50) with a pair of Queens
+Seat 6: sda.80.16 (big blind) mucked
+
+
+PokerStars Hand #163951412274:  Hold'em Limit ($3/$6 USD) - 2017/01/03 1:05:24 ET
+Table 'Lyka' 6-max Seat #1 is the button
+Seat 1: BelSv ($98.16 in chips)
+Seat 6: sda.80.16 ($124.49 in chips)
+BelSv: posts small blind $1
+sda.80.16: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+sda.80.16: calls $3
+*** FLOP *** [9c 2d 9h]
+sda.80.16: checks
+BelSv: bets $3
+sda.80.16: calls $3
+*** TURN *** [9c 2d 9h] [Td]
+sda.80.16: checks
+BelSv: bets $6
+sda.80.16: folds
+Uncalled bet ($6) returned to BelSv
+BelSv collected $17.64 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9c 2d 9h Td]
+Seat 1: BelSv (button) (small blind) collected ($17.64)
+Seat 6: sda.80.16 (big blind) folded on the Turn
+
+
+PokerStars Hand #163951439146:  Hold'em Limit ($3/$6 USD) - 2017/01/03 1:07:07 ET
+Table 'Lyka' 6-max Seat #6 is the button
+Seat 1: BelSv ($165.05 in chips)
+Seat 6: sda.80.16 ($55 in chips)
+sda.80.16: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+sda.80.16: raises $3 to $6
+BelSv: raises $3 to $9
+sda.80.16: calls $3
+*** FLOP *** [Ah 3h Qh]
+BelSv: bets $3
+sda.80.16: calls $3
+*** TURN *** [Ah 3h Qh] [Ts]
+BelSv: bets $6
+sda.80.16: calls $6
+*** RIVER *** [Ah 3h Qh Ts] [4c]
+BelSv: bets $6
+sda.80.16: folds
+Uncalled bet ($6) returned to BelSv
+BelSv collected $35.50 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Ah 3h Qh Ts 4c]
+Seat 1: BelSv (big blind) collected ($35.50)
+Seat 6: sda.80.16 (button) (small blind) folded on the River
+
+
+PokerStars Hand #163951435789:  Hold'em Limit ($3/$6 USD) - 2017/01/03 1:06:54 ET
+Table 'Lyka' 6-max Seat #1 is the button
+Seat 1: BelSv ($171.05 in chips)
+Seat 6: sda.80.16 ($49.24 in chips)
+BelSv: posts small blind $1
+sda.80.16: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+sda.80.16: calls $3
+*** FLOP *** [Qs Td 3s]
+sda.80.16: checks
+BelSv: checks
+*** TURN *** [Qs Td 3s] [7d]
+sda.80.16: bets $6
+BelSv: folds
+Uncalled bet ($6) returned to sda.80.16
+sda.80.16 collected $11.76 from pot
+sda.80.16: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qs Td 3s 7d]
+Seat 1: BelSv (button) (small blind) folded on the Turn
+Seat 6: sda.80.16 (big blind) collected ($11.76)
+
+
+PokerStars Hand #163951456687:  Hold'em Limit ($3/$6 USD) - 2017/01/03 1:08:13 ET
+Table 'Lyka' 6-max Seat #6 is the button
+Seat 1: BelSv ($182.07 in chips)
+Seat 6: sda.80.16 ($36.52 in chips)
+sda.80.16: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+sda.80.16: raises $3 to $6
+BelSv: calls $3
+*** FLOP *** [6c 6d Ac]
+BelSv: checks
+sda.80.16: checks
+*** TURN *** [6c 6d Ac] [Qd]
+BelSv: checks
+sda.80.16: bets $6
+BelSv: folds
+Uncalled bet ($6) returned to sda.80.16
+sda.80.16 collected $11.76 from pot
+sda.80.16: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6c 6d Ac Qd]
+Seat 1: BelSv (big blind) folded on the Turn
+Seat 6: sda.80.16 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #163951453844:  Hold'em Limit ($3/$6 USD) - 2017/01/03 1:08:03 ET
+Table 'Lyka' 6-max Seat #1 is the button
+Seat 1: BelSv ($176.31 in chips)
+Seat 6: sda.80.16 ($42.52 in chips)
+BelSv: posts small blind $1
+sda.80.16: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+sda.80.16: calls $3
+*** FLOP *** [6d Th 3h]
+sda.80.16: checks
+BelSv: bets $3
+sda.80.16: folds
+Uncalled bet ($3) returned to BelSv
+BelSv collected $11.76 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6d Th 3h]
+Seat 1: BelSv (button) (small blind) collected ($11.76)
+Seat 6: sda.80.16 (big blind) folded on the Flop
+
+
+PokerStars Hand #163951448296:  Hold'em Limit ($3/$6 USD) - 2017/01/03 1:07:41 ET
+Table 'Lyka' 6-max Seat #6 is the button
+Seat 1: BelSv ($188.31 in chips)
+Seat 6: sda.80.16 ($31 in chips)
+sda.80.16: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+sda.80.16: raises $3 to $6
+BelSv: calls $3
+*** FLOP *** [5h 9d 4c]
+BelSv: checks
+sda.80.16: checks
+*** TURN *** [5h 9d 4c] [7c]
+BelSv: checks
+sda.80.16: checks
+*** RIVER *** [5h 9d 4c 7c] [3h]
+BelSv: bets $6
+sda.80.16: calls $6
+*** SHOW DOWN ***
+BelSv: shows [Qs Th] (high card Queen)
+sda.80.16: shows [Ah Kh] (high card Ace)
+sda.80.16 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [5h 9d 4c 7c 3h]
+Seat 1: BelSv (big blind) showed [Qs Th] and lost with high card Queen
+Seat 6: sda.80.16 (button) (small blind) showed [Ah Kh] and won ($23.52) with high card Ace
+
+
+PokerStars Hand #163951443640:  Hold'em Limit ($3/$6 USD) - 2017/01/03 1:07:24 ET
+Table 'Lyka' 6-max Seat #1 is the button
+Seat 1: BelSv ($182.55 in chips)
+Seat 6: sda.80.16 ($37 in chips)
+BelSv: posts small blind $1
+sda.80.16: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+sda.80.16: calls $3
+*** FLOP *** [Kd Qc Js]
+sda.80.16: checks
+BelSv: checks
+*** TURN *** [Kd Qc Js] [2d]
+sda.80.16: checks
+BelSv: bets $6
+sda.80.16: folds
+Uncalled bet ($6) returned to BelSv
+BelSv collected $11.76 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kd Qc Js 2d]
+Seat 1: BelSv (button) (small blind) collected ($11.76)
+Seat 6: sda.80.16 (big blind) folded on the Turn
+
+
+PokerStars Hand #163951474396:  Hold'em Limit ($3/$6 USD) - 2017/01/03 1:09:21 ET
+Table 'Lyka' 6-max Seat #6 is the button
+Seat 1: BelSv ($199.53 in chips)
+Seat 6: sda.80.16 ($17.72 in chips)
+sda.80.16: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+sda.80.16: raises $3 to $6
+BelSv: folds
+Uncalled bet ($3) returned to sda.80.16
+sda.80.16 collected $6 from pot
+sda.80.16: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: BelSv (big blind) folded before Flop
+Seat 6: sda.80.16 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #163951470270:  Hold'em Limit ($3/$6 USD) - 2017/01/03 1:09:05 ET
+Table 'Lyka' 6-max Seat #1 is the button
+Seat 1: BelSv ($208.57 in chips)
+Seat 6: sda.80.16 ($9.04 in chips)
+BelSv: posts small blind $1
+sda.80.16: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+sda.80.16: calls $3
+*** FLOP *** [8c 2h Jd]
+sda.80.16: bets $3
+BelSv: calls $3
+*** TURN *** [8c 2h Jd] [7d]
+sda.80.16: bets $0.04 and is all-in
+BelSv: calls $0.04
+*** RIVER *** [8c 2h Jd 7d] [6d]
+*** SHOW DOWN ***
+sda.80.16: shows [2s Kd] (a pair of Deuces)
+BelSv: shows [5d Ks] (high card King)
+sda.80.16 collected $17.72 from pot
+*** SUMMARY ***
+Total pot $18.08 | Rake $0.36
+Board [8c 2h Jd 7d 6d]
+Seat 1: BelSv (button) (small blind) showed [5d Ks] and lost with high card King
+Seat 6: sda.80.16 (big blind) showed [2s Kd] and won ($17.72) with a pair of Deuces
+
+
+PokerStars Hand #163951463904:  Hold'em Limit ($3/$6 USD) - 2017/01/03 1:08:41 ET
+Table 'Lyka' 6-max Seat #6 is the button
+Seat 1: BelSv ($170.07 in chips)
+Seat 6: sda.80.16 ($48.04 in chips)
+sda.80.16: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+sda.80.16: raises $3 to $6
+BelSv: calls $3
+*** FLOP *** [5h 5d 2h]
+BelSv: checks
+sda.80.16: bets $3
+BelSv: calls $3
+*** TURN *** [5h 5d 2h] [8c]
+BelSv: checks
+sda.80.16: bets $6
+BelSv: raises $6 to $12
+sda.80.16: raises $6 to $18
+BelSv: calls $6
+*** RIVER *** [5h 5d 2h 8c] [Kh]
+BelSv: checks
+sda.80.16: bets $6
+BelSv: raises $6 to $12
+sda.80.16: calls $6
+*** SHOW DOWN ***
+BelSv: shows [7h Th] (a flush, King high)
+sda.80.16: mucks hand
+BelSv collected $77.50 from pot
+*** SUMMARY ***
+Total pot $78 | Rake $0.50
+Board [5h 5d 2h 8c Kh]
+Seat 1: BelSv (big blind) showed [7h Th] and won ($77.50) with a flush, King high
+Seat 6: sda.80.16 (button) (small blind) mucked
+
+
+PokerStars Hand #163951459975:  Hold'em Limit ($3/$6 USD) - 2017/01/03 1:08:26 ET
+Table 'Lyka' 6-max Seat #1 is the button
+Seat 1: BelSv ($176.07 in chips)
+Seat 6: sda.80.16 ($42.28 in chips)
+BelSv: posts small blind $1
+sda.80.16: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+sda.80.16: calls $3
+*** FLOP *** [2h Qc Jh]
+sda.80.16: checks
+BelSv: checks
+*** TURN *** [2h Qc Jh] [8s]
+sda.80.16: checks
+BelSv: checks
+*** RIVER *** [2h Qc Jh 8s] [Qh]
+sda.80.16: bets $6
+BelSv: folds
+Uncalled bet ($6) returned to sda.80.16
+sda.80.16 collected $11.76 from pot
+sda.80.16: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2h Qc Jh 8s Qh]
+Seat 1: BelSv (button) (small blind) folded on the River
+Seat 6: sda.80.16 (big blind) collected ($11.76)
+
+
+PokerStars Hand #163951476905:  Hold'em Limit ($3/$6 USD) - 2017/01/03 1:09:30 ET
+Table 'Lyka' 6-max Seat #1 is the button
+Seat 1: BelSv ($196.53 in chips)
+Seat 6: sda.80.16 ($20.72 in chips)
+BelSv: posts small blind $1
+sda.80.16: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+sda.80.16: raises $3 to $9
+BelSv: calls $3
+*** FLOP *** [7d 5h 8h]
+sda.80.16: bets $3
+BelSv: calls $3
+*** TURN *** [7d 5h 8h] [Qc]
+sda.80.16: bets $6
+BelSv: raises $6 to $12
+sda.80.16: calls $2.72 and is all-in
+Uncalled bet ($3.28) returned to BelSv
+*** RIVER *** [7d 5h 8h Qc] [2d]
+*** SHOW DOWN ***
+sda.80.16: shows [3d 3s] (a pair of Threes)
+BelSv: shows [Th 5c] (a pair of Fives)
+BelSv collected $40.94 from pot
+*** SUMMARY ***
+Total pot $41.44 | Rake $0.50
+Board [7d 5h 8h Qc 2d]
+Seat 1: BelSv (button) (small blind) showed [Th 5c] and won ($40.94) with a pair of Fives
+Seat 6: sda.80.16 (big blind) showed [3d 3s] and lost with a pair of Threes
+
+

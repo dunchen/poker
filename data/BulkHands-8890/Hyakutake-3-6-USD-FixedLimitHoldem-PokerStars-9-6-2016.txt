@@ -1,0 +1,62 @@
+PokerStars Hand #158241710799:  Hold'em Limit ($3/$6 USD) - 2016/09/06 11:53:59 ET
+Table 'Hyakutake' 6-max Seat #1 is the button
+Seat 1: B_loJkl ($144 in chips)
+Seat 6: Apanage ($71.64 in chips)
+B_loJkl: posts small blind $1
+VolkovDmitri: is sitting out
+Ale4o: is sitting out
+Apanage: posts big blind $3
+*** HOLE CARDS ***
+Ale4o leaves the table
+B_loJkl: raises $3 to $6
+VolkovDmitri leaves the table
+Apanage: calls $3
+*** FLOP *** [3s 3c 7c]
+Apanage: checks
+B_loJkl: bets $3
+Apanage: calls $3
+*** TURN *** [3s 3c 7c] [5s]
+Apanage: checks
+B_loJkl: bets $6
+Apanage: calls $6
+*** RIVER *** [3s 3c 7c 5s] [Kh]
+Apanage: checks
+B_loJkl: checks
+*** SHOW DOWN ***
+Apanage: shows [8s Ks] (two pair, Kings and Threes)
+B_loJkl: mucks hand
+Apanage collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3s 3c 7c 5s Kh]
+Seat 1: B_loJkl (button) (small blind) mucked
+Seat 6: Apanage (big blind) showed [8s Ks] and won ($29.50) with two pair, Kings and Threes
+
+
+PokerStars Hand #158241724790:  Hold'em Limit ($3/$6 USD) - 2016/09/06 11:54:21 ET
+Table 'Hyakutake' 6-max Seat #6 is the button
+Seat 1: B_loJkl ($129 in chips)
+Seat 6: Apanage ($86.14 in chips)
+Apanage: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Apanage: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [9h 5h Kc]
+Katerina1552 leaves the table
+B_loJkl: checks
+Apanage: bets $3
+B_loJkl: calls $3
+*** TURN *** [9h 5h Kc] [Th]
+B_loJkl: bets $6
+Apanage: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $17.64 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9h 5h Kc Th]
+Seat 1: B_loJkl (big blind) collected ($17.64)
+Seat 6: Apanage (button) (small blind) folded on the Turn
+
+

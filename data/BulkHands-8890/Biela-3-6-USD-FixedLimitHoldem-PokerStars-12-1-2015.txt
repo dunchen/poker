@@ -1,0 +1,33 @@
+PokerStars Hand #144670154822:  Hold'em Limit ($3/$6 USD) - 2015/12/01 13:45:08 ET
+Table 'Biela' 2-max Seat #1 is the button
+Seat 1: simper11 ($128.64 in chips)
+Seat 2: Flip0358 ($29.99 in chips)
+simper11: posts small blind $1
+Flip0358: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+Flip0358: raises $3 to $9
+simper11: calls $3
+*** FLOP *** [7d 4s 9d]
+Flip0358: bets $3
+simper11: calls $3
+*** TURN *** [7d 4s 9d] [Js]
+Flip0358: bets $6
+simper11: raises $6 to $12
+Flip0358: calls $6
+*** RIVER *** [7d 4s 9d Js] [4c]
+Flip0358: checks
+simper11: bets $6
+Flip0358: calls $5.99 and is all-in
+Uncalled bet ($0.01) returned to simper11
+*** SHOW DOWN ***
+simper11: shows [9h Qc] (two pair, Nines and Fours)
+Flip0358: shows [Ks Qs] (a pair of Fours)
+simper11 collected $59.48 from pot
+*** SUMMARY ***
+Total pot $59.98 | Rake $0.50
+Board [7d 4s 9d Js 4c]
+Seat 1: simper11 (button) (small blind) showed [9h Qc] and won ($59.48) with two pair, Nines and Fours
+Seat 2: Flip0358 (big blind) showed [Ks Qs] and lost with a pair of Fours
+
+

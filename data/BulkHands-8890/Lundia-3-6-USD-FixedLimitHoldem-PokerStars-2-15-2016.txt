@@ -1,0 +1,63 @@
+PokerStars Hand #148872593207:  Hold'em Limit ($3/$6 USD) - 2016/02/15 18:01:56 ET
+Table 'Lundia' 6-max Seat #1 is the button
+Seat 1: LifeisagameX ($27.76 in chips)
+Seat 4: Ops-LNG ($65.78 in chips)
+LifeisagameX: posts small blind $1
+Ops-LNG: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+Ops-LNG: calls $3
+*** FLOP *** [Kh 7c Kd]
+Ops-LNG: checks
+LifeisagameX: bets $3
+Ops-LNG: calls $3
+*** TURN *** [Kh 7c Kd] [4h]
+Ops-LNG: checks
+LifeisagameX: bets $6
+Ops-LNG: folds
+Uncalled bet ($6) returned to LifeisagameX
+LifeisagameX collected $17.64 from pot
+LifeisagameX: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kh 7c Kd 4h]
+Seat 1: LifeisagameX (button) (small blind) collected ($17.64)
+Seat 4: Ops-LNG (big blind) folded on the Turn
+
+
+PokerStars Hand #148872615536:  Hold'em Limit ($3/$6 USD) - 2016/02/15 18:02:20 ET
+Table 'Lundia' 6-max Seat #4 is the button
+Seat 1: LifeisagameX ($36.40 in chips)
+Seat 4: Ops-LNG ($56.78 in chips)
+Ops-LNG: posts small blind $1
+LifeisagameX: posts big blind $3
+*** HOLE CARDS ***
+Ops-LNG: raises $3 to $6
+LifeisagameX: raises $3 to $9
+Ops-LNG: raises $3 to $12
+Betting is capped
+LifeisagameX: calls $3
+*** FLOP *** [4d 2c 8s]
+LifeisagameX: checks
+Ops-LNG: bets $3
+LifeisagameX: calls $3
+*** TURN *** [4d 2c 8s] [9c]
+LifeisagameX: checks
+Ops-LNG: bets $6
+LifeisagameX: raises $6 to $12
+Ops-LNG: raises $6 to $18
+LifeisagameX: raises $3.40 to $21.40 and is all-in
+Betting is capped
+Ops-LNG: calls $3.40
+*** RIVER *** [4d 2c 8s 9c] [5d]
+*** SHOW DOWN ***
+LifeisagameX: shows [7d 9d] (a pair of Nines)
+Ops-LNG: shows [Qh Qc] (a pair of Queens)
+Ops-LNG collected $72.30 from pot
+*** SUMMARY ***
+Total pot $72.80 | Rake $0.50
+Board [4d 2c 8s 9c 5d]
+Seat 1: LifeisagameX (big blind) showed [7d 9d] and lost with a pair of Nines
+Seat 4: Ops-LNG (button) (small blind) showed [Qh Qc] and won ($72.30) with a pair of Queens
+
+

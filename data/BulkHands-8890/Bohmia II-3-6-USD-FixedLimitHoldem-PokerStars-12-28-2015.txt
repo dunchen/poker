@@ -1,0 +1,28 @@
+PokerStars Hand #146063006204:  Hold'em Limit ($3/$6 USD) - 2015/12/28 11:40:54 ET
+Table 'Bohmia II' 2-max Seat #2 is the button
+Seat 1: mehxat ($79.21 in chips)
+Seat 2: ktarim ($11.02 in chips)
+ktarim: posts small blind $1
+mehxat: posts big blind $3
+*** HOLE CARDS ***
+ktarim: calls $2
+mehxat: checks
+*** FLOP *** [Tc Kd Qh]
+mehxat: bets $3
+ktarim: raises $3 to $6
+mehxat: raises $3 to $9
+ktarim: calls $2.02 and is all-in
+Uncalled bet ($0.98) returned to mehxat
+*** TURN *** [Tc Kd Qh] [Qs]
+*** RIVER *** [Tc Kd Qh Qs] [4d]
+*** SHOW DOWN ***
+mehxat: shows [4s Ks] (two pair, Kings and Queens)
+ktarim: shows [5h 5d] (two pair, Queens and Fives)
+mehxat collected $21.60 from pot
+*** SUMMARY ***
+Total pot $22.04 | Rake $0.44
+Board [Tc Kd Qh Qs 4d]
+Seat 1: mehxat (big blind) showed [4s Ks] and won ($21.60) with two pair, Kings and Queens
+Seat 2: ktarim (button) (small blind) showed [5h 5d] and lost with two pair, Queens and Fives
+
+

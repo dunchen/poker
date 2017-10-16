@@ -1,0 +1,122 @@
+PokerStars Hand #154226272513:  Hold'em Limit ($3/$6 USD) - 2016/06/03 8:31:20 ET
+Table 'Hygiea II' 6-max Seat #4 is the button
+Seat 3: lanås ($81.28 in chips)
+Seat 4: TbIP-TbIP 88 ($80.64 in chips)
+B_loJkl joins the table at seat #5
+TbIP-TbIP 88: posts small blind $1
+lanås: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88: raises $3 to $6
+lanås: raises $3 to $9
+TbIP-TbIP 88: calls $3
+*** FLOP *** [Jc 8h 4s]
+lanås: bets $3
+TbIP-TbIP 88: calls $3
+*** TURN *** [Jc 8h 4s] [5h]
+lanås: bets $6
+TbIP-TbIP 88: calls $6
+*** RIVER *** [Jc 8h 4s 5h] [Qd]
+lanås: bets $6
+TbIP-TbIP 88: folds
+Uncalled bet ($6) returned to lanås
+lanås collected $35.50 from pot
+lanås: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Jc 8h 4s 5h Qd]
+Seat 3: lanås (big blind) collected ($35.50)
+Seat 4: TbIP-TbIP 88 (button) (small blind) folded on the River
+
+
+PokerStars Hand #154226254256:  Hold'em Limit ($3/$6 USD) - 2016/06/03 8:30:45 ET
+Table 'Hygiea II' 6-max Seat #3 is the button
+Seat 3: lanås ($90.28 in chips)
+Seat 4: TbIP-TbIP 88 ($72 in chips)
+lanås: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+lanås: raises $3 to $6
+TbIP-TbIP 88: calls $3
+*** FLOP *** [8s 3s As]
+TbIP-TbIP 88: checks
+lanås: bets $3
+TbIP-TbIP 88: calls $3
+*** TURN *** [8s 3s As] [5c]
+TbIP-TbIP 88: checks
+lanås: checks
+*** RIVER *** [8s 3s As 5c] [Kh]
+TbIP-TbIP 88: checks
+lanås: checks
+*** SHOW DOWN ***
+TbIP-TbIP 88: shows [3c 2c] (a pair of Threes)
+lanås: mucks hand
+TbIP-TbIP 88 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8s 3s As 5c Kh]
+Seat 3: lanås (button) (small blind) mucked
+Seat 4: TbIP-TbIP 88 (big blind) showed [3c 2c] and won ($17.64) with a pair of Threes
+
+
+PokerStars Hand #154226282070:  Hold'em Limit ($3/$6 USD) - 2016/06/03 8:31:38 ET
+Table 'Hygiea II' 6-max Seat #3 is the button
+Seat 3: lanås ($98.78 in chips)
+Seat 4: TbIP-TbIP 88 ($72 in chips)
+lanås: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+lanås: raises $3 to $6
+TbIP-TbIP 88: calls $3
+*** FLOP *** [Qd 3d 4h]
+TbIP-TbIP 88: checks
+lanås: checks
+*** TURN *** [Qd 3d 4h] [Jc]
+TbIP-TbIP 88: bets $6
+lanås: calls $6
+*** RIVER *** [Qd 3d 4h Jc] [8d]
+TbIP-TbIP 88: bets $6
+lanås: folds
+Uncalled bet ($6) returned to TbIP-TbIP 88
+TbIP-TbIP 88 collected $23.52 from pot
+TbIP-TbIP 88: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Qd 3d 4h Jc 8d]
+Seat 3: lanås (button) (small blind) folded on the River
+Seat 4: TbIP-TbIP 88 (big blind) collected ($23.52)
+
+
+PokerStars Hand #154226370033:  Hold'em Limit ($3/$6 USD) - 2016/06/03 8:34:25 ET
+Table 'Hygiea II' 6-max Seat #5 is the button
+Seat 4: TbIP-TbIP 88 ($72 in chips)
+Seat 5: B_loJkl ($158.07 in chips)
+B_loJkl: posts small blind $1
+lanås: is sitting out
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+lanås leaves the table
+B_loJkl: raises $3 to $6
+TbIP-TbIP 88: calls $3
+*** FLOP *** [Tc Jd 3s]
+TbIP-TbIP 88: checks
+B_loJkl: bets $3
+TbIP-TbIP 88: calls $3
+*** TURN *** [Tc Jd 3s] [Th]
+TbIP-TbIP 88: checks
+B_loJkl: bets $6
+TbIP-TbIP 88: calls $6
+*** RIVER *** [Tc Jd 3s Th] [7h]
+TbIP-TbIP 88: checks
+B_loJkl: checks
+*** SHOW DOWN ***
+TbIP-TbIP 88: shows [4d Ad] (a pair of Tens)
+B_loJkl: shows [4c Ah] (a pair of Tens)
+TbIP-TbIP 88 collected $14.75 from pot
+B_loJkl collected $14.75 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Tc Jd 3s Th 7h]
+Seat 4: TbIP-TbIP 88 (big blind) showed [4d Ad] and won ($14.75) with a pair of Tens
+Seat 5: B_loJkl (button) (small blind) showed [4c Ah] and won ($14.75) with a pair of Tens
+
+

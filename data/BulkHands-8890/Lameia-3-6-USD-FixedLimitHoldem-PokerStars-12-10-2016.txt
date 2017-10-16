@@ -1,0 +1,109 @@
+PokerStars Hand #162696360035:  Hold'em Limit ($3/$6 USD) - 2016/12/09 21:59:10 ET
+Table 'Lameia' 6-max Seat #1 is the button
+Seat 1: LifeisagameX ($84 in chips)
+Seat 2: Eklund_1891 ($120 in chips)
+LifeisagameX: posts small blind $1
+Eklund_1891: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+Eklund_1891: raises $3 to $9
+LifeisagameX: calls $3
+*** FLOP *** [8d Ah 2d]
+Eklund_1891: bets $3
+LifeisagameX: calls $3
+*** TURN *** [8d Ah 2d] [9c]
+Eklund_1891: bets $6
+LifeisagameX: folds
+Uncalled bet ($6) returned to Eklund_1891
+Eklund_1891 collected $23.52 from pot
+Eklund_1891: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [8d Ah 2d 9c]
+Seat 1: LifeisagameX (button) (small blind) folded on the Turn
+Seat 2: Eklund_1891 (big blind) collected ($23.52)
+
+
+PokerStars Hand #162696378409:  Hold'em Limit ($3/$6 USD) - 2016/12/09 21:59:56 ET
+Table 'Lameia' 6-max Seat #2 is the button
+Seat 1: LifeisagameX ($84 in chips)
+Seat 2: Eklund_1891 ($131.52 in chips)
+Eklund_1891: posts small blind $1
+LifeisagameX: posts big blind $3
+*** HOLE CARDS ***
+Eklund_1891: raises $3 to $6
+LifeisagameX: calls $3
+*** FLOP *** [As 8d Ks]
+LifeisagameX: checks
+Eklund_1891: checks
+*** TURN *** [As 8d Ks] [8s]
+LifeisagameX: checks
+Eklund_1891: bets $6
+LifeisagameX: folds
+Uncalled bet ($6) returned to Eklund_1891
+Eklund_1891 collected $11.76 from pot
+Eklund_1891: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [As 8d Ks 8s]
+Seat 1: LifeisagameX (big blind) folded on the Turn
+Seat 2: Eklund_1891 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #162696392551:  Hold'em Limit ($3/$6 USD) - 2016/12/09 22:00:32 ET
+Table 'Lameia' 6-max Seat #1 is the button
+Seat 1: LifeisagameX ($84 in chips)
+Seat 2: Eklund_1891 ($137.28 in chips)
+LifeisagameX: posts small blind $1
+Eklund_1891: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+Eklund_1891: raises $3 to $9
+LifeisagameX: calls $3
+*** FLOP *** [7h 3d Js]
+Eklund_1891: bets $3
+LifeisagameX: calls $3
+*** TURN *** [7h 3d Js] [Qd]
+Eklund_1891: bets $6
+LifeisagameX: calls $6
+*** RIVER *** [7h 3d Js Qd] [2h]
+Eklund_1891: bets $6
+LifeisagameX: calls $6
+*** SHOW DOWN ***
+Eklund_1891: shows [Jc Kh] (a pair of Jacks)
+LifeisagameX: mucks hand
+ToDaFelt joins the table at seat #3
+Eklund_1891 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7h 3d Js Qd 2h]
+Seat 1: LifeisagameX (button) (small blind) mucked
+Seat 2: Eklund_1891 (big blind) showed [Jc Kh] and won ($47.50) with a pair of Jacks
+
+
+PokerStars Hand #162697472771:  Hold'em Limit ($3/$6 USD) - 2016/12/09 22:43:17 ET
+Table 'Lameia' 6-max Seat #3 is the button
+Seat 3: ToDaFelt ($349.66 in chips)
+Seat 6: Chessnok ($215.75 in chips)
+feilinho will be allowed to play after the button
+ToDaFelt: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [3c Tc 5c]
+Chessnok: checks
+ToDaFelt: checks
+*** TURN *** [3c Tc 5c] [2d]
+Chessnok: bets $6
+ToDaFelt: folds
+Uncalled bet ($6) returned to Chessnok
+Chessnok collected $11.76 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3c Tc 5c 2d]
+Seat 3: ToDaFelt (button) (small blind) folded on the Turn
+Seat 6: Chessnok (big blind) collected ($11.76)
+
+

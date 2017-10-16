@@ -1,0 +1,103 @@
+PokerStars Hand #173312309361:  Hold'em Limit ($3/$6 USD) - 2017/07/21 7:35:31 ET
+Table 'Bohemia' 6-max Seat #3 is the button
+Seat 3: cabrinhakite ($180.85 in chips)
+Seat 6: simper11 ($90 in chips)
+cabrinhakite: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+cabrinhakite: raises $3 to $6
+simper11: calls $3
+*** FLOP *** [9c 6s 6d]
+simper11: checks
+cabrinhakite: bets $3
+simper11: calls $3
+*** TURN *** [9c 6s 6d] [6c]
+simper11: checks
+cabrinhakite: checks
+*** RIVER *** [9c 6s 6d 6c] [Qs]
+simper11: checks
+cabrinhakite: bets $6
+simper11: calls $6
+*** SHOW DOWN ***
+cabrinhakite: shows [Qc Tc] (a full house, Sixes full of Queens)
+simper11: mucks hand
+cabrinhakite collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9c 6s 6d 6c Qs]
+Seat 3: cabrinhakite (button) (small blind) showed [Qc Tc] and won ($29.50) with a full house, Sixes full of Queens
+Seat 6: simper11 (big blind) mucked
+
+
+PokerStars Hand #173312315960:  Hold'em Limit ($3/$6 USD) - 2017/07/21 7:35:47 ET
+Table 'Bohemia' 6-max Seat #6 is the button
+Seat 3: cabrinhakite ($195.35 in chips)
+Seat 6: simper11 ($90 in chips)
+simper11: posts small blind $1
+cabrinhakite: posts big blind $3
+*** HOLE CARDS ***
+simper11: folds
+Uncalled bet ($2) returned to cabrinhakite
+cabrinhakite collected $2 from pot
+cabrinhakite: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: cabrinhakite (big blind) collected ($2)
+Seat 6: simper11 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #173312318296:  Hold'em Limit ($3/$6 USD) - 2017/07/21 7:35:53 ET
+Table 'Bohemia' 6-max Seat #3 is the button
+Seat 3: cabrinhakite ($196.35 in chips)
+Seat 6: simper11 ($90 in chips)
+cabrinhakite: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+cabrinhakite: raises $3 to $6
+simper11: raises $3 to $9
+cabrinhakite: calls $3
+*** FLOP *** [7d 6c Qs]
+simper11: bets $3
+cabrinhakite: calls $3
+*** TURN *** [7d 6c Qs] [Qd]
+simper11: bets $6
+cabrinhakite: calls $6
+*** RIVER *** [7d 6c Qs Qd] [8c]
+simper11: bets $6
+cabrinhakite: calls $6
+*** SHOW DOWN ***
+simper11: shows [8s 9s] (two pair, Queens and Eights)
+cabrinhakite: shows [8h Kc] (two pair, Queens and Eights - King kicker)
+cabrinhakite collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7d 6c Qs Qd 8c]
+Seat 3: cabrinhakite (button) (small blind) showed [8h Kc] and won ($47.50) with two pair, Queens and Eights
+Seat 6: simper11 (big blind) showed [8s 9s] and lost with two pair, Queens and Eights
+
+
+PokerStars Hand #173312302829:  Hold'em Limit ($3/$6 USD) - 2017/07/21 7:35:16 ET
+Table 'Bohemia' 6-max Seat #6 is the button
+Seat 3: cabrinhakite ($120 in chips)
+Seat 6: simper11 ($90 in chips)
+simper11: posts small blind $1
+cabrinhakite: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+cabrinhakite: calls $3
+*** FLOP *** [2h 3c 4d]
+cabrinhakite: checks
+simper11: checks
+*** TURN *** [2h 3c 4d] [As]
+cabrinhakite: bets $6
+simper11: folds
+Uncalled bet ($6) returned to cabrinhakite
+cabrinhakite collected $11.76 from pot
+cabrinhakite: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2h 3c 4d As]
+Seat 3: cabrinhakite (big blind) collected ($11.76)
+Seat 6: simper11 (button) (small blind) folded on the Turn
+
+

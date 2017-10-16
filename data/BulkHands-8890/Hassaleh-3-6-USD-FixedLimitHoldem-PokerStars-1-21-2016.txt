@@ -1,0 +1,35 @@
+PokerStars Hand #147422074250:  Hold'em Limit ($3/$6 USD) - 2016/01/21 10:13:34 ET
+Table 'Hassaleh' 2-max Seat #2 is the button
+Seat 1: frazerchi ($36.14 in chips)
+Seat 2: punkrott ($72 in chips)
+punkrott: posts small blind $1
+frazerchi: posts big blind $3
+*** HOLE CARDS ***
+punkrott: raises $3 to $6
+frazerchi: calls $3
+*** FLOP *** [Qs Jh 3d]
+frazerchi: checks
+punkrott: bets $3
+frazerchi: calls $3
+*** TURN *** [Qs Jh 3d] [2d]
+frazerchi: checks
+punkrott: bets $6
+frazerchi: raises $6 to $12
+punkrott: raises $6 to $18
+frazerchi: raises $6 to $24
+Betting is capped
+punkrott: calls $6
+*** RIVER *** [Qs Jh 3d 2d] [4c]
+frazerchi: bets $3.14 and is all-in
+punkrott: calls $3.14
+*** SHOW DOWN ***
+frazerchi: shows [Qh 8d] (a pair of Queens)
+punkrott: shows [Qc Ah] (a pair of Queens - Ace kicker)
+punkrott collected $71.78 from pot
+*** SUMMARY ***
+Total pot $72.28 | Rake $0.50
+Board [Qs Jh 3d 2d 4c]
+Seat 1: frazerchi (big blind) showed [Qh 8d] and lost with a pair of Queens
+Seat 2: punkrott (button) (small blind) showed [Qc Ah] and won ($71.78) with a pair of Queens
+
+

@@ -1,0 +1,33 @@
+PokerStars Hand #151463258193:  Hold'em Limit ($3/$6 USD) - 2016/04/05 8:23:47 ET
+Table 'Memnon II' 6-max Seat #3 is the button
+Seat 3: dakid88 ($160 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+dakid88: posts small blind $1
+GoliafUa joins the table at seat #5
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+dakid88: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+dakid88: calls $3
+*** FLOP *** [9h 7d Js]
+VolkovDmitri: bets $3
+dakid88: calls $3
+*** TURN *** [9h 7d Js] [4s]
+VolkovDmitri: bets $6
+dakid88: calls $6
+*** RIVER *** [9h 7d Js 4s] [9s]
+VolkovDmitri: checks
+dakid88: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+dakid88: shows [Qd Jh] (two pair, Jacks and Nines)
+VolkovDmitri: mucks hand
+cmbs joins the table at seat #6
+dakid88 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9h 7d Js 4s 9s]
+Seat 3: dakid88 (button) (small blind) showed [Qd Jh] and won ($47.50) with two pair, Jacks and Nines
+Seat 4: VolkovDmitri (big blind) mucked
+
+

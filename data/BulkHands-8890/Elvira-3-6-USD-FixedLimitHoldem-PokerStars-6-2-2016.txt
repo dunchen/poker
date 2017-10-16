@@ -1,0 +1,57 @@
+PokerStars Hand #154175380467:  Hold'em Limit ($3/$6 USD) - 2016/06/02 5:20:19 ET
+Table 'Elvira' 6-max Seat #1 is the button
+Seat 1: Ale4o ($120 in chips)
+Seat 6: 19woody58 ($120 in chips)
+MTails: is sitting out
+Ale4o: posts small blind $1
+19woody58: posts big blind $3
+*** HOLE CARDS ***
+Ale4o: raises $3 to $6
+MTails leaves the table
+19woody58: calls $3
+*** FLOP *** [Ts Qh 9s]
+19woody58: checks
+Ale4o: checks
+*** TURN *** [Ts Qh 9s] [Jc]
+19woody58: bets $6
+Ale4o: folds
+Uncalled bet ($6) returned to 19woody58
+19woody58 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ts Qh 9s Jc]
+Seat 1: Ale4o (button) (small blind) folded on the Turn
+Seat 6: 19woody58 (big blind) collected ($11.76)
+
+
+PokerStars Hand #154175389519:  Hold'em Limit ($3/$6 USD) - 2016/06/02 5:20:43 ET
+Table 'Elvira' 6-max Seat #6 is the button
+Seat 1: Ale4o ($114 in chips)
+Seat 6: 19woody58 ($125.76 in chips)
+19woody58: posts small blind $1
+Ale4o: posts big blind $3
+*** HOLE CARDS ***
+19woody58: raises $3 to $6
+Ale4o: calls $3
+*** FLOP *** [2c 4s 6c]
+Ale4o: checks
+19woody58: bets $3
+Ag3r0n joins the table at seat #2
+Ale4o: calls $3
+*** TURN *** [2c 4s 6c] [Ah]
+Ale4o: checks
+19woody58: checks
+*** RIVER *** [2c 4s 6c Ah] [Kc]
+Ale4o: checks
+19woody58: checks
+*** SHOW DOWN ***
+Ale4o: shows [5d 8h] (high card Ace)
+19woody58: shows [7c 7d] (a pair of Sevens)
+19woody58 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2c 4s 6c Ah Kc]
+Seat 1: Ale4o (big blind) showed [5d 8h] and lost with high card Ace
+Seat 6: 19woody58 (button) (small blind) showed [7c 7d] and won ($17.64) with a pair of Sevens
+
+

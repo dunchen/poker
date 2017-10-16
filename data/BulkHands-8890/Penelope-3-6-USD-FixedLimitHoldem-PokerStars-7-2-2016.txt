@@ -1,0 +1,28 @@
+PokerStars Hand #155456989152:  Hold'em Limit ($3/$6 USD) - 2016/07/02 4:27:27 ET
+Table 'Penelope' 6-max Seat #4 is the button
+Seat 4: MTails ($131.64 in chips)
+Seat 5: ulrich80 ($18 in chips)
+MTails: posts small blind $1
+ulrich80: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+ulrich80: raises $3 to $9
+MTails: calls $3
+*** FLOP *** [6c 5d 9h]
+ulrich80: bets $3
+MTails: calls $3
+*** TURN *** [6c 5d 9h] [8s]
+ulrich80: bets $6 and is all-in
+MTails: calls $6
+*** RIVER *** [6c 5d 9h 8s] [2d]
+*** SHOW DOWN ***
+ulrich80: shows [Kh 7c] (a straight, Five to Nine)
+MTails: shows [Th 7d] (a straight, Six to Ten)
+MTails collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6c 5d 9h 8s 2d]
+Seat 4: MTails (button) (small blind) showed [Th 7d] and won ($35.50) with a straight, Six to Ten
+Seat 5: ulrich80 (big blind) showed [Kh 7c] and lost with a straight, Five to Nine
+
+

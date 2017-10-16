@@ -1,0 +1,33 @@
+PokerStars Hand #164871146122:  Hold'em Limit ($3/$6 USD) - 2017/01/20 5:51:43 ET
+Table 'Euterpe' 6-max Seat #1 is the button
+Seat 1: karambakilla ($168.97 in chips)
+Seat 6: TbIP-TbIP 88 ($73 in chips)
+karambakilla: posts small blind $1
+DePokeraap: is sitting out
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+karambakilla: raises $3 to $6
+DePokeraap leaves the table
+TbIP-TbIP 88: calls $3
+*** FLOP *** [6d 8c 3h]
+TbIP-TbIP 88: checks
+karambakilla: bets $3
+TbIP-TbIP 88: calls $3
+*** TURN *** [6d 8c 3h] [5c]
+TbIP-TbIP 88: checks
+karambakilla: bets $6
+TbIP-TbIP 88: calls $6
+*** RIVER *** [6d 8c 3h 5c] [9h]
+TbIP-TbIP 88: checks
+karambakilla: checks
+*** SHOW DOWN ***
+TbIP-TbIP 88: shows [Ac 3s] (a pair of Threes)
+karambakilla: shows [Th 9s] (a pair of Nines)
+karambakilla collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6d 8c 3h 5c 9h]
+Seat 1: karambakilla (button) (small blind) showed [Th 9s] and won ($29.50) with a pair of Nines
+Seat 6: TbIP-TbIP 88 (big blind) showed [Ac 3s] and lost with a pair of Threes
+
+

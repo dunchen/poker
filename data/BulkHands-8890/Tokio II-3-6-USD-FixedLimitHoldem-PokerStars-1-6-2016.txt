@@ -1,0 +1,31 @@
+PokerStars Hand #146585893915:  Hold'em Limit ($3/$6 USD) - 2016/01/06 15:53:43 ET
+Table 'Tokio II' 6-max Seat #1 is the button
+Seat 1: Brama Br ($113.64 in chips)
+Seat 4: PelonCabelao ($86.50 in chips)
+Brama Br: posts small blind $1
+PelonCabelao: posts big blind $3
+*** HOLE CARDS ***
+Brama Br: raises $3 to $6
+PelonCabelao: raises $3 to $9
+Brama Br: calls $3
+*** FLOP *** [8d Ad 3c]
+PelonCabelao: bets $3
+Brama Br: calls $3
+*** TURN *** [8d Ad 3c] [Jc]
+livenuncut joins the table at seat #6
+PelonCabelao: bets $6
+Brama Br: calls $6
+*** RIVER *** [8d Ad 3c Jc] [9c]
+PelonCabelao: bets $6
+Brama Br: calls $6
+*** SHOW DOWN ***
+PelonCabelao: shows [3d 3s] (three of a kind, Threes)
+Brama Br: mucks hand
+PelonCabelao collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8d Ad 3c Jc 9c]
+Seat 1: Brama Br (button) (small blind) mucked
+Seat 4: PelonCabelao (big blind) showed [3d 3s] and won ($47.50) with three of a kind, Threes
+
+

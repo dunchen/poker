@@ -1,0 +1,86 @@
+PokerStars Hand #146160113216:  Hold'em Limit ($3/$6 USD) - 2015/12/30 5:27:10 ET
+Table 'Eugenia' 2-max Seat #1 is the button
+Seat 1: partyalex92 ($50.25 in chips)
+Seat 2: krytalex ($125.76 in chips)
+partyalex92: posts small blind $1
+krytalex: posts big blind $3
+*** HOLE CARDS ***
+partyalex92: raises $3 to $6
+krytalex: raises $3 to $9
+partyalex92: calls $3
+*** FLOP *** [Jd Kh Ac]
+krytalex: bets $3
+partyalex92: calls $3
+*** TURN *** [Jd Kh Ac] [3h]
+krytalex: bets $6
+partyalex92: calls $6
+*** RIVER *** [Jd Kh Ac 3h] [Kd]
+krytalex: bets $6
+partyalex92: raises $6 to $12
+krytalex: raises $6 to $18
+partyalex92: calls $6
+*** SHOW DOWN ***
+krytalex: shows [Ah Ad] (a full house, Aces full of Kings)
+partyalex92: mucks hand
+krytalex collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [Jd Kh Ac 3h Kd]
+Seat 1: partyalex92 (button) (small blind) mucked
+Seat 2: krytalex (big blind) showed [Ah Ad] and won ($71.50) with a full house, Aces full of Kings
+
+
+PokerStars Hand #146160103960:  Hold'em Limit ($3/$6 USD) - 2015/12/30 5:26:52 ET
+Table 'Eugenia' 2-max Seat #2 is the button
+Seat 1: partyalex92 ($56.25 in chips)
+Seat 2: krytalex ($120 in chips)
+krytalex: posts small blind $1
+partyalex92: posts big blind $3
+*** HOLE CARDS ***
+krytalex: raises $3 to $6
+partyalex92: calls $3
+*** FLOP *** [Kh 2d 7d]
+partyalex92: checks
+krytalex: bets $3
+partyalex92: folds
+Uncalled bet ($3) returned to krytalex
+krytalex collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kh 2d 7d]
+Seat 1: partyalex92 (big blind) folded on the Flop
+Seat 2: krytalex (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #146160122698:  Hold'em Limit ($3/$6 USD) - 2015/12/30 5:27:29 ET
+Table 'Eugenia' 2-max Seat #2 is the button
+Seat 1: partyalex92 ($14.25 in chips)
+Seat 2: krytalex ($161.26 in chips)
+krytalex: posts small blind $1
+partyalex92: posts big blind $3
+*** HOLE CARDS ***
+krytalex: raises $3 to $6
+partyalex92: raises $3 to $9
+krytalex: calls $3
+*** FLOP *** [8h 7h 6h]
+partyalex92: bets $3
+krytalex: calls $3
+*** TURN *** [8h 7h 6h] [5d]
+partyalex92: checks
+krytalex: checks
+*** RIVER *** [8h 7h 6h 5d] [Kc]
+partyalex92: checks
+krytalex: bets $6
+partyalex92: calls $2.25 and is all-in
+Uncalled bet ($3.75) returned to krytalex
+*** SHOW DOWN ***
+krytalex: shows [Jd Ks] (a pair of Kings)
+partyalex92: shows [3c As] (high card Ace)
+krytalex collected $28 from pot
+*** SUMMARY ***
+Total pot $28.50 | Rake $0.50
+Board [8h 7h 6h 5d Kc]
+Seat 1: partyalex92 (big blind) showed [3c As] and lost with high card Ace
+Seat 2: krytalex (button) (small blind) showed [Jd Ks] and won ($28) with a pair of Kings
+
+

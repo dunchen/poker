@@ -1,0 +1,31 @@
+PokerStars Hand #173849970107:  Hold'em Limit ($3/$6 USD) - 2017/08/02 19:23:08 ET
+Table 'Amherstia II' 6-max Seat #1 is the button
+Seat 1: NewRocker ($189.66 in chips)
+Seat 4: ToDaFelt ($123.39 in chips)
+NewRocker: posts small blind $1
+Velbor107: is sitting out
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+NewRocker: calls $2
+Velbor107 leaves the table
+ToDaFelt: checks
+*** FLOP *** [Td Qd 2c]
+ToDaFelt: checks
+NewRocker: checks
+*** TURN *** [Td Qd 2c] [2d]
+ToDaFelt: checks
+NewRocker: checks
+*** RIVER *** [Td Qd 2c 2d] [Qc]
+ToDaFelt: checks
+NewRocker: checks
+*** SHOW DOWN ***
+ToDaFelt: shows [Ks 4c] (two pair, Queens and Deuces)
+NewRocker: shows [Ts 9d] (two pair, Queens and Tens)
+NewRocker collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Td Qd 2c 2d Qc]
+Seat 1: NewRocker (button) (small blind) showed [Ts 9d] and won ($5.88) with two pair, Queens and Tens
+Seat 4: ToDaFelt (big blind) showed [Ks 4c] and lost with two pair, Queens and Deuces
+
+

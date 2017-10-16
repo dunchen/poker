@@ -1,0 +1,76 @@
+PokerStars Hand #152370506567:  Hold'em Limit ($3/$6 USD) - 2016/04/24 8:33:40 ET
+Table 'Moira II' 6-max Seat #2 is the button
+Seat 1: juustmuckit1 ($33.53 in chips)
+Seat 2: craaa ($121 in chips)
+craaa: posts small blind $1
+juustmuckit1: posts big blind $3
+*** HOLE CARDS ***
+craaa: raises $3 to $6
+juustmuckit1: calls $3
+*** FLOP *** [2s 2d 8h]
+juustmuckit1: checks
+craaa: bets $3
+juustmuckit1: calls $3
+*** TURN *** [2s 2d 8h] [9h]
+juustmuckit1: checks
+craaa: bets $6
+juustmuckit1: calls $6
+*** RIVER *** [2s 2d 8h 9h] [Jc]
+juustmuckit1: checks
+craaa: checks
+*** SHOW DOWN ***
+juustmuckit1: shows [Kc 4d] (a pair of Deuces)
+craaa: shows [5d 8d] (two pair, Eights and Deuces)
+craaa collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2s 2d 8h 9h Jc]
+Seat 1: juustmuckit1 (big blind) showed [Kc 4d] and lost with a pair of Deuces
+Seat 2: craaa (button) (small blind) showed [5d 8d] and won ($29.50) with two pair, Eights and Deuces
+
+
+PokerStars Hand #152370544508:  Hold'em Limit ($3/$6 USD) - 2016/04/24 8:34:42 ET
+Table 'Moira II' 6-max Seat #1 is the button
+Seat 1: juustmuckit1 ($18.53 in chips)
+Seat 2: craaa ($135.50 in chips)
+juustmuckit1: posts small blind $1
+craaa: posts big blind $3
+*** HOLE CARDS ***
+juustmuckit1: folds
+Uncalled bet ($2) returned to craaa
+craaa collected $2 from pot
+craaa: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: juustmuckit1 (button) (small blind) folded before Flop
+Seat 2: craaa (big blind) collected ($2)
+
+
+PokerStars Hand #152370547595:  Hold'em Limit ($3/$6 USD) - 2016/04/24 8:34:47 ET
+Table 'Moira II' 6-max Seat #2 is the button
+Seat 1: juustmuckit1 ($17.53 in chips)
+Seat 2: craaa ($136.50 in chips)
+craaa: posts small blind $1
+juustmuckit1: posts big blind $3
+*** HOLE CARDS ***
+craaa: raises $3 to $6
+juustmuckit1: raises $3 to $9
+craaa: calls $3
+*** FLOP *** [5d 4s Kc]
+juustmuckit1: bets $3
+craaa: calls $3
+*** TURN *** [5d 4s Kc] [8h]
+juustmuckit1: bets $5.53 and is all-in
+craaa: calls $5.53
+*** RIVER *** [5d 4s Kc 8h] [9h]
+*** SHOW DOWN ***
+juustmuckit1: shows [Qc Jc] (high card King)
+craaa: shows [Ks 6c] (a pair of Kings)
+craaa collected $34.56 from pot
+*** SUMMARY ***
+Total pot $35.06 | Rake $0.50
+Board [5d 4s Kc 8h 9h]
+Seat 1: juustmuckit1 (big blind) showed [Qc Jc] and lost with high card King
+Seat 2: craaa (button) (small blind) showed [Ks 6c] and won ($34.56) with a pair of Kings
+
+

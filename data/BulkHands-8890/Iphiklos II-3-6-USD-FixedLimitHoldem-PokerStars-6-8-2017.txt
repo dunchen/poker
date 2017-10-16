@@ -1,0 +1,34 @@
+PokerStars Hand #171521679147:  Hold'em Limit ($3/$6 USD) - 2017/06/08 16:31:44 ET
+Table 'Iphiklos II' 6-max Seat #4 is the button
+Seat 1: Auge72 ($123 in chips)
+Seat 4: MTails ($117 in chips)
+MTails: posts small blind $1
+Auge72: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+Auge72: raises $3 to $9
+MTails: calls $3
+*** FLOP *** [3h Tc Jc]
+Auge72: checks
+MTails: bets $3
+Auge72: raises $3 to $6
+MTails: calls $3
+*** TURN *** [3h Tc Jc] [7h]
+Auge72: checks
+MTails: bets $6
+Auge72: calls $6
+*** RIVER *** [3h Tc Jc 7h] [Jh]
+Auge72: checks
+MTails: bets $6
+Auge72: calls $6
+*** SHOW DOWN ***
+MTails: shows [Jd 9s] (three of a kind, Jacks)
+Auge72: mucks hand
+MTails collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [3h Tc Jc 7h Jh]
+Seat 1: Auge72 (big blind) mucked
+Seat 4: MTails (button) (small blind) showed [Jd 9s] and won ($53.50) with three of a kind, Jacks
+
+

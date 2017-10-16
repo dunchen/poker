@@ -1,0 +1,32 @@
+PokerStars Hand #170707239276:  Hold'em Limit ($3/$6 USD) - 2017/05/21 4:54:38 ET
+Table 'Cosima' 6-max Seat #6 is the button
+Seat 4: styxx750 ($100 in chips)
+Seat 6: HAL9QQQ ($415.70 in chips)
+HAL9QQQ: posts small blind $1
+Bonkman05: is sitting out
+styxx750: posts big blind $3
+*** HOLE CARDS ***
+Bonkman05 leaves the table
+HAL9QQQ: raises $3 to $6
+styxx750: raises $3 to $9
+HAL9QQQ: calls $3
+*** FLOP *** [Ad Th Ks]
+styxx750: bets $3
+HAL9QQQ: calls $3
+*** TURN *** [Ad Th Ks] [As]
+styxx750: checks
+HAL9QQQ: checks
+*** RIVER *** [Ad Th Ks As] [9c]
+styxx750: checks
+HAL9QQQ: checks
+*** SHOW DOWN ***
+styxx750: shows [9s 6s] (two pair, Aces and Nines)
+HAL9QQQ: shows [Qh Ts] (two pair, Aces and Tens)
+HAL9QQQ collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Ad Th Ks As 9c]
+Seat 4: styxx750 (big blind) showed [9s 6s] and lost with two pair, Aces and Nines
+Seat 6: HAL9QQQ (button) (small blind) showed [Qh Ts] and won ($23.52) with two pair, Aces and Tens
+
+

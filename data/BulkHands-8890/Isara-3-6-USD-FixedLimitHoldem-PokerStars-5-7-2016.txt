@@ -1,0 +1,85 @@
+PokerStars Hand #152960560778:  Hold'em Limit ($3/$6 USD) - 2016/05/06 23:51:24 ET
+Table 'Isara' 6-max Seat #1 is the button
+Seat 1: GazzyB123 ($157.64 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+GazzyB123: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+GazzyB123: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [6s 7d Ts]
+VolkovDmitri: checks
+GazzyB123: bets $3
+VolkovDmitri: folds
+Uncalled bet ($3) returned to GazzyB123
+GazzyB123 collected $11.76 from pot
+GazzyB123: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6s 7d Ts]
+Seat 1: GazzyB123 (button) (small blind) collected ($11.76)
+Seat 4: VolkovDmitri (big blind) folded on the Flop
+
+
+PokerStars Hand #152960582725:  Hold'em Limit ($3/$6 USD) - 2016/05/06 23:52:42 ET
+Table 'Isara' 6-max Seat #1 is the button
+Seat 1: GazzyB123 ($177.90 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+GazzyB123: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+GazzyB123: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [2c 4s 4d]
+VolkovDmitri: bets $3
+GazzyB123: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [2c 4s 4d] [7h]
+VolkovDmitri: checks
+GazzyB123: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [2c 4s 4d 7h] [Kc]
+VolkovDmitri: checks
+GazzyB123: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+GazzyB123: shows [8s Kd] (two pair, Kings and Fours)
+VolkovDmitri: mucks hand
+GazzyB123 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2c 4s 4d 7h Kc]
+Seat 1: GazzyB123 (button) (small blind) showed [8s Kd] and won ($47.50) with two pair, Kings and Fours
+Seat 4: VolkovDmitri (big blind) mucked
+
+
+PokerStars Hand #152960567696:  Hold'em Limit ($3/$6 USD) - 2016/05/06 23:51:48 ET
+Table 'Isara' 6-max Seat #4 is the button
+Seat 1: GazzyB123 ($163.40 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+GazzyB123: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+GazzyB123: calls $3
+*** FLOP *** [8c 2c Td]
+GazzyB123: checks
+VolkovDmitri: bets $3
+GazzyB123: calls $3
+*** TURN *** [8c 2c Td] [Ts]
+GazzyB123: checks
+VolkovDmitri: checks
+*** RIVER *** [8c 2c Td Ts] [3h]
+GazzyB123: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+GazzyB123: shows [8h 5c] (two pair, Tens and Eights)
+VolkovDmitri: mucks hand
+GazzyB123 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8c 2c Td Ts 3h]
+Seat 1: GazzyB123 (big blind) showed [8h 5c] and won ($29.50) with two pair, Tens and Eights
+Seat 4: VolkovDmitri (button) (small blind) mucked
+
+

@@ -1,0 +1,89 @@
+PokerStars Hand #173481265586:  Hold'em Limit ($3/$6 USD) - 2017/07/25 5:24:57 ET
+Table 'Siberia' 6-max Seat #1 is the button
+Seat 1: aremom4e ($120 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+aremom4e: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+aremom4e: raises $3 to $6
+scorpio04 joins the table at seat #2
+VolkovDmitri: calls $3
+*** FLOP *** [Qc 9h 4d]
+VolkovDmitri: checks
+aremom4e: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [Qc 9h 4d] [Js]
+VolkovDmitri: checks
+aremom4e: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [Qc 9h 4d Js] [8c]
+VolkovDmitri: checks
+aremom4e: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [9c 5h] (a pair of Nines)
+aremom4e: mucks hand
+VolkovDmitri collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qc 9h 4d Js 8c]
+Seat 1: aremom4e (button) (small blind) mucked
+Seat 4: VolkovDmitri (big blind) showed [9c 5h] and won ($29.50) with a pair of Nines
+
+
+PokerStars Hand #173481280329:  Hold'em Limit ($3/$6 USD) - 2017/07/25 5:25:40 ET
+Table 'Siberia' 6-max Seat #4 is the button
+Seat 1: aremom4e ($105 in chips)
+Seat 4: VolkovDmitri ($134.50 in chips)
+VolkovDmitri: posts small blind $1
+aremom4e: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+aremom4e: calls $3
+*** FLOP *** [7d 5s 8h]
+aremom4e: checks
+VolkovDmitri: bets $3
+aremom4e: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [7d 5s 8h] [6s]
+aremom4e: checks
+VolkovDmitri: checks
+*** RIVER *** [7d 5s 8h 6s] [Ah]
+aremom4e: checks
+VolkovDmitri: bets $6
+aremom4e: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [4d As] (a straight, Four to Eight)
+aremom4e: mucks hand
+VolkovDmitri collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [7d 5s 8h 6s Ah]
+Seat 1: aremom4e (big blind) mucked
+Seat 4: VolkovDmitri (button) (small blind) showed [4d As] and won ($35.50) with a straight, Four to Eight
+
+
+PokerStars Hand #173486669192:  Hold'em Limit ($3/$6 USD) - 2017/07/25 9:03:52 ET
+Table 'Siberia' 6-max Seat #1 is the button
+Seat 1: scorpio04 ($214.66 in chips)
+Seat 4: KIT426 ($221.48 in chips)
+scorpio04: posts small blind $1
+1place2b: is sitting out
+KIT426: posts big blind $3
+*** HOLE CARDS ***
+scorpio04: raises $3 to $6
+1place2b leaves the table
+KIT426: calls $3
+*** FLOP *** [2c 9c Ac]
+KIT426: checks
+scorpio04: bets $3
+KIT426: folds
+Uncalled bet ($3) returned to scorpio04
+scorpio04 collected $11.76 from pot
+scorpio04: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2c 9c Ac]
+Seat 1: scorpio04 (button) (small blind) collected ($11.76)
+Seat 4: KIT426 (big blind) folded on the Flop
+
+

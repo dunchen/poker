@@ -1,0 +1,194 @@
+PokerStars Hand #170542320051:  Hold'em Limit ($3/$6 USD) - 2017/05/17 12:15:13 ET
+Table 'Myrrha III' 6-max Seat #3 is the button
+Seat 3: sexey G ($34.83 in chips)
+Seat 4: Agrotait ($72 in chips)
+sexey G: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+Rednaxela05 joins the table at seat #5
+sexey G: calls $2
+Agrotait: checks
+*** FLOP *** [Jd 2s 6d]
+Agrotait: bets $3
+sexey G: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $5.88 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Jd 2s 6d]
+Seat 3: sexey G (button) (small blind) folded on the Flop
+Seat 4: Agrotait (big blind) collected ($5.88)
+
+
+PokerStars Hand #170542475426:  Hold'em Limit ($3/$6 USD) - 2017/05/17 12:19:04 ET
+Table 'Myrrha III' 6-max Seat #4 is the button
+Seat 4: Agrotait ($67.34 in chips)
+Seat 6: B_loJkl ($159.61 in chips)
+Agrotait: posts small blind $1
+Rednaxela05: is sitting out
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Td 7s 5s]
+Rednaxela05 leaves the table
+B_loJkl: bets $3
+Agrotait: calls $3
+*** TURN *** [Td 7s 5s] [3c]
+B_loJkl: bets $6
+Agrotait: calls $6
+*** RIVER *** [Td 7s 5s 3c] [5d]
+B_loJkl: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [Ad 5c] (three of a kind, Fives)
+Agrotait: mucks hand
+B_loJkl collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Td 7s 5s 3c 5d]
+Seat 4: Agrotait (button) (small blind) mucked
+Seat 6: B_loJkl (big blind) showed [Ad 5c] and won ($41.50) with three of a kind, Fives
+
+
+PokerStars Hand #170542529359:  Hold'em Limit ($3/$6 USD) - 2017/05/17 12:20:24 ET
+Table 'Myrrha III' 6-max Seat #6 is the button
+Seat 3: sexey G ($38.44 in chips)
+Seat 6: B_loJkl ($180.11 in chips)
+B_loJkl: posts small blind $1
+sexey G: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+sexey G: calls $3
+*** FLOP *** [6c 7h Tc]
+sexey G: checks
+B_loJkl: bets $3
+sexey G: calls $3
+*** TURN *** [6c 7h Tc] [5h]
+sexey G: checks
+B_loJkl: bets $6
+sexey G: calls $6
+*** RIVER *** [6c 7h Tc 5h] [3s]
+sexey G: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+sexey G: shows [Jh 9h] (high card Jack)
+B_loJkl: shows [5s Ac] (a pair of Fives)
+B_loJkl collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [6c 7h Tc 5h 3s]
+Seat 3: sexey G (big blind) showed [Jh 9h] and lost with high card Jack
+Seat 6: B_loJkl (button) (small blind) showed [5s Ac] and won ($41.50) with a pair of Fives
+
+
+PokerStars Hand #170542554861:  Hold'em Limit ($3/$6 USD) - 2017/05/17 12:21:02 ET
+Table 'Myrrha III' 6-max Seat #3 is the button
+Seat 3: sexey G ($17.44 in chips)
+Seat 6: B_loJkl ($200.61 in chips)
+sexey G: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+sexey G: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Qs 5s 4s]
+B_loJkl: checks
+sexey G: bets $3
+B_loJkl: calls $3
+*** TURN *** [Qs 5s 4s] [2d]
+B_loJkl: checks
+sexey G: checks
+*** RIVER *** [Qs 5s 4s 2d] [7h]
+B_loJkl: checks
+sexey G: checks
+*** SHOW DOWN ***
+B_loJkl: shows [Kd Js] (high card King)
+sexey G: mucks hand
+B_loJkl collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qs 5s 4s 2d 7h]
+Seat 3: sexey G (button) (small blind) mucked
+Seat 6: B_loJkl (big blind) showed [Kd Js] and won ($17.64) with high card King
+
+
+PokerStars Hand #170542572943:  Hold'em Limit ($3/$6 USD) - 2017/05/17 12:21:28 ET
+Table 'Myrrha III' 6-max Seat #6 is the button
+Seat 3: sexey G ($8.44 in chips)
+Seat 6: B_loJkl ($209.25 in chips)
+B_loJkl: posts small blind $1
+sexey G: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+sexey G: raises $2.44 to $8.44 and is all-in
+B_loJkl: calls $2.44
+*** FLOP *** [8d Kd 7h]
+*** TURN *** [8d Kd 7h] [Th]
+*** RIVER *** [8d Kd 7h Th] [6d]
+*** SHOW DOWN ***
+sexey G: shows [Kc 8h] (two pair, Kings and Eights)
+B_loJkl: shows [Ah 4h] (high card Ace)
+sexey G collected $16.54 from pot
+*** SUMMARY ***
+Total pot $16.88 | Rake $0.34
+Board [8d Kd 7h Th 6d]
+Seat 3: sexey G (big blind) showed [Kc 8h] and won ($16.54) with two pair, Kings and Eights
+Seat 6: B_loJkl (button) (small blind) showed [Ah 4h] and lost with high card Ace
+
+
+PokerStars Hand #170542593667:  Hold'em Limit ($3/$6 USD) - 2017/05/17 12:21:59 ET
+Table 'Myrrha III' 6-max Seat #3 is the button
+Seat 3: sexey G ($16.54 in chips)
+Seat 6: B_loJkl ($200.81 in chips)
+sexey G: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+sexey G: calls $2
+B_loJkl: checks
+*** FLOP *** [As Jh Qs]
+B_loJkl: checks
+sexey G: checks
+*** TURN *** [As Jh Qs] [5h]
+B_loJkl: checks
+sexey G: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to sexey G
+sexey G collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [As Jh Qs 5h]
+Seat 3: sexey G (button) (small blind) collected ($5.88)
+Seat 6: B_loJkl (big blind) folded on the Turn
+
+
+PokerStars Hand #170542619907:  Hold'em Limit ($3/$6 USD) - 2017/05/17 12:22:38 ET
+Table 'Myrrha III' 6-max Seat #6 is the button
+Seat 3: sexey G ($19.42 in chips)
+Seat 6: B_loJkl ($197.81 in chips)
+B_loJkl: posts small blind $1
+sexey G: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+sexey G: raises $3 to $9
+B_loJkl: raises $3 to $12
+Betting is capped
+sexey G: calls $3
+*** FLOP *** [Kc Kd Ad]
+sexey G: bets $3
+B_loJkl: raises $3 to $6
+sexey G: raises $1.42 to $7.42 and is all-in
+B_loJkl: calls $1.42
+*** TURN *** [Kc Kd Ad] [Th]
+*** RIVER *** [Kc Kd Ad Th] [Ah]
+*** SHOW DOWN ***
+sexey G: shows [4c 4s] (two pair, Aces and Kings)
+B_loJkl: shows [Qc As] (a full house, Aces full of Kings)
+B_loJkl collected $38.34 from pot
+*** SUMMARY ***
+Total pot $38.84 | Rake $0.50
+Board [Kc Kd Ad Th Ah]
+Seat 3: sexey G (big blind) showed [4c 4s] and lost with two pair, Aces and Kings
+Seat 6: B_loJkl (button) (small blind) showed [Qc As] and won ($38.34) with a full house, Aces full of Kings
+
+

@@ -1,0 +1,62 @@
+PokerStars Hand #174975849385:  Hold'em Limit ($3/$6 USD) - 2017/08/30 6:52:33 ET
+Table 'Laputa' 10-max Seat #1 is the button
+Seat 1: pukalo4 ($47.57 in chips)
+Seat 7: VolkovDmitri ($120 in chips)
+pukalo4: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+pukalo4: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+pukalo4: calls $3
+*** FLOP *** [Qh Ah As]
+VolkovDmitri: bets $3
+pukalo4: calls $3
+*** TURN *** [Qh Ah As] [4d]
+VolkovDmitri: bets $6
+pukalo4: calls $6
+*** RIVER *** [Qh Ah As 4d] [5h]
+VolkovDmitri: bets $6
+pukalo4: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Ad 7d] (three of a kind, Aces)
+pukalo4: mucks hand
+VolkovDmitri collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Qh Ah As 4d 5h]
+Seat 1: pukalo4 (button) (small blind) mucked
+Seat 7: VolkovDmitri (big blind) showed [Ad 7d] and won ($47.50) with three of a kind, Aces
+
+
+PokerStars Hand #174975854650:  Hold'em Limit ($3/$6 USD) - 2017/08/30 6:53:08 ET
+Table 'Laputa' 10-max Seat #7 is the button
+Seat 1: pukalo4 ($23.57 in chips)
+Seat 7: VolkovDmitri ($143.50 in chips)
+VolkovDmitri: posts small blind $1
+pukalo4: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+pukalo4: raises $3 to $9
+VolkovDmitri: raises $3 to $12
+Betting is capped
+pukalo4: calls $3
+*** FLOP *** [8h 3d Ah]
+pukalo4: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [8h 3d Ah] [Ad]
+pukalo4: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [8h 3d Ah Ad] [3c]
+pukalo4: bets $2.57 and is all-in
+VolkovDmitri: calls $2.57
+*** SHOW DOWN ***
+pukalo4: shows [Qd 9d] (two pair, Aces and Threes)
+VolkovDmitri: shows [Kd Qh] (two pair, Aces and Threes - King kicker)
+VolkovDmitri collected $46.64 from pot
+*** SUMMARY ***
+Total pot $47.14 | Rake $0.50
+Board [8h 3d Ah Ad 3c]
+Seat 1: pukalo4 (big blind) showed [Qd 9d] and lost with two pair, Aces and Threes
+Seat 7: VolkovDmitri (button) (small blind) showed [Kd Qh] and won ($46.64) with two pair, Aces and Threes
+
+

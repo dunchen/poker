@@ -1,0 +1,99 @@
+PokerStars Hand #160567274483:  Hold'em Limit ($3/$6 USD) - 2016/10/28 17:21:58 ET
+Table 'Betelgeuse' 6-max Seat #3 is the button
+Seat 1: ToDaFelt ($145.20 in chips)
+Seat 3: anebodil ($36.95 in chips)
+anebodil: posts small blind $1
+Zubasa07: is sitting out
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+anebodil: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [2d 5d 8c]
+ToDaFelt: checks
+anebodil: bets $3
+ToDaFelt: raises $3 to $6
+anebodil: calls $3
+*** TURN *** [2d 5d 8c] [4h]
+ToDaFelt: bets $6
+anebodil: calls $6
+*** RIVER *** [2d 5d 8c 4h] [Ks]
+ToDaFelt: bets $6
+anebodil: folds
+Uncalled bet ($6) returned to ToDaFelt
+ToDaFelt collected $35.50 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [2d 5d 8c 4h Ks]
+Seat 1: ToDaFelt (big blind) collected ($35.50)
+Seat 3: anebodil (button) (small blind) folded on the River
+
+
+PokerStars Hand #160567308272:  Hold'em Limit ($3/$6 USD) - 2016/10/28 17:22:30 ET
+Table 'Betelgeuse' 6-max Seat #1 is the button
+Seat 1: ToDaFelt ($162.70 in chips)
+Seat 3: anebodil ($18.95 in chips)
+Zubasa07 leaves the table
+ToDaFelt: posts small blind $1
+anebodil: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+anebodil: calls $3
+*** FLOP *** [2h 8s 8h]
+anebodil: checks
+ToDaFelt: bets $3
+anebodil: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $11.76 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2h 8s 8h]
+Seat 1: ToDaFelt (button) (small blind) collected ($11.76)
+Seat 3: anebodil (big blind) folded on the Flop
+
+
+PokerStars Hand #160567326980:  Hold'em Limit ($3/$6 USD) - 2016/10/28 17:22:48 ET
+Table 'Betelgeuse' 6-max Seat #3 is the button
+Seat 1: ToDaFelt ($168.46 in chips)
+Seat 3: anebodil ($12.95 in chips)
+anebodil: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+anebodil: folds
+Uncalled bet ($2) returned to ToDaFelt
+ToDaFelt collected $2 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: ToDaFelt (big blind) collected ($2)
+Seat 3: anebodil (button) (small blind) folded before Flop
+
+
+PokerStars Hand #160567339013:  Hold'em Limit ($3/$6 USD) - 2016/10/28 17:22:59 ET
+Table 'Betelgeuse' 6-max Seat #1 is the button
+Seat 1: ToDaFelt ($169.46 in chips)
+Seat 3: anebodil ($11.95 in chips)
+ToDaFelt: posts small blind $1
+anebodil: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+anebodil: calls $3
+*** FLOP *** [Jh Tc 4s]
+anebodil: bets $3
+ToDaFelt: calls $3
+*** TURN *** [Jh Tc 4s] [2c]
+anebodil: bets $2.95 and is all-in
+ToDaFelt: calls $2.95
+*** RIVER *** [Jh Tc 4s 2c] [4c]
+*** SHOW DOWN ***
+anebodil: shows [9h 8h] (a pair of Fours)
+ToDaFelt: shows [2d Ks] (two pair, Fours and Deuces)
+ToDaFelt collected $23.42 from pot
+*** SUMMARY ***
+Total pot $23.90 | Rake $0.48
+Board [Jh Tc 4s 2c 4c]
+Seat 1: ToDaFelt (button) (small blind) showed [2d Ks] and won ($23.42) with two pair, Fours and Deuces
+Seat 3: anebodil (big blind) showed [9h 8h] and lost with a pair of Fours
+
+

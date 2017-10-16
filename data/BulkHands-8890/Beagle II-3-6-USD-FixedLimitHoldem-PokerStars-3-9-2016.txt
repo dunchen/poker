@@ -1,0 +1,61 @@
+PokerStars Hand #150066420258:  Hold'em Limit ($3/$6 USD) - 2016/03/08 23:45:59 ET
+Table 'Beagle II' 10-max Seat #6 is the button
+Seat 6: EMAIARI ($116 in chips)
+Seat 7: D87654321 ($124 in chips)
+EMAIARI: posts small blind $1
+D87654321: posts big blind $3
+*** HOLE CARDS ***
+EMAIARI: raises $3 to $6
+D87654321: raises $3 to $9
+EMAIARI: calls $3
+*** FLOP *** [4d Qs 9s]
+D87654321: bets $3
+EMAIARI: calls $3
+*** TURN *** [4d Qs 9s] [6d]
+D87654321: bets $6
+EMAIARI: calls $6
+*** RIVER *** [4d Qs 9s 6d] [7h]
+D87654321: bets $6
+EMAIARI: calls $6
+*** SHOW DOWN ***
+D87654321: shows [2s Kh] (high card King)
+EMAIARI: shows [Jc Qc] (a pair of Queens)
+EMAIARI collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4d Qs 9s 6d 7h]
+Seat 6: EMAIARI (button) (small blind) showed [Jc Qc] and won ($47.50) with a pair of Queens
+Seat 7: D87654321 (big blind) showed [2s Kh] and lost with high card King
+
+
+PokerStars Hand #150066424606:  Hold'em Limit ($3/$6 USD) - 2016/03/08 23:46:15 ET
+Table 'Beagle II' 10-max Seat #7 is the button
+Seat 6: EMAIARI ($139.50 in chips)
+Seat 7: D87654321 ($120 in chips)
+D87654321: posts small blind $1
+EMAIARI: posts big blind $3
+*** HOLE CARDS ***
+D87654321: raises $3 to $6
+EMAIARI: calls $3
+*** FLOP *** [4h Ad 8h]
+EMAIARI: checks
+D87654321: bets $3
+EMAIARI: calls $3
+*** TURN *** [4h Ad 8h] [5s]
+EMAIARI: checks
+D87654321: checks
+*** RIVER *** [4h Ad 8h 5s] [Qd]
+EMAIARI: bets $6
+D87654321: calls $6
+*** SHOW DOWN ***
+EMAIARI: shows [5c 5h] (three of a kind, Fives)
+D87654321: mucks hand
+D87654321 leaves the table
+EMAIARI collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4h Ad 8h 5s Qd]
+Seat 6: EMAIARI (big blind) showed [5c 5h] and won ($29.50) with three of a kind, Fives
+Seat 7: D87654321 (button) (small blind) mucked
+
+

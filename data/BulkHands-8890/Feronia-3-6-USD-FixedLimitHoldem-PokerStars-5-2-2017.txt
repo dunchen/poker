@@ -1,0 +1,30 @@
+PokerStars Hand #169847234983:  Hold'em Limit ($3/$6 USD) - 2017/05/02 7:09:38 ET
+Table 'Feronia' 6-max Seat #1 is the button
+Seat 1: aremom4e ($205.05 in chips)
+Seat 3: krossguard ($320.66 in chips)
+aremom4e: posts small blind $1
+krossguard: posts big blind $3
+*** HOLE CARDS ***
+aremom4e: calls $2
+krossguard: checks
+*** FLOP *** [7h Qh 2h]
+krossguard: bets $3
+aremom4e: calls $3
+*** TURN *** [7h Qh 2h] [9c]
+krossguard: bets $6
+aremom4e: raises $6 to $12
+krossguard: calls $6
+*** RIVER *** [7h Qh 2h 9c] [2c]
+krossguard: checks
+aremom4e: checks
+*** SHOW DOWN ***
+krossguard: shows [8h Tc] (a pair of Deuces)
+aremom4e: shows [9h 7s] (two pair, Nines and Sevens)
+aremom4e collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [7h Qh 2h 9c 2c]
+Seat 1: aremom4e (button) (small blind) showed [9h 7s] and won ($35.50) with two pair, Nines and Sevens
+Seat 3: krossguard (big blind) showed [8h Tc] and lost with a pair of Deuces
+
+

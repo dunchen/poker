@@ -1,0 +1,51 @@
+PokerStars Hand #146061427587:  Hold'em Limit ($3/$6 USD) - 2015/12/28 11:09:09 ET
+Table 'Colocolo' 2-max Seat #1 is the button
+Seat 1: mehxat ($110.41 in chips)
+Seat 2: lotakeb ($7 in chips)
+mehxat: posts small blind $1
+lotakeb: posts big blind $3
+*** HOLE CARDS ***
+mehxat: calls $2
+lotakeb: raises $3 to $6
+mehxat: calls $3
+*** FLOP *** [Th 9s Ah]
+lotakeb: bets $1 and is all-in
+mehxat: calls $1
+*** TURN *** [Th 9s Ah] [8d]
+*** RIVER *** [Th 9s Ah 8d] [2d]
+*** SHOW DOWN ***
+lotakeb: shows [5h 3d] (high card Ace)
+mehxat: shows [2h Kc] (a pair of Deuces)
+mehxat collected $13.72 from pot
+*** SUMMARY ***
+Total pot $14 | Rake $0.28
+Board [Th 9s Ah 8d 2d]
+Seat 1: mehxat (button) (small blind) showed [2h Kc] and won ($13.72) with a pair of Deuces
+Seat 2: lotakeb (big blind) showed [5h 3d] and lost with high card Ace
+
+
+PokerStars Hand #146061415788:  Hold'em Limit ($3/$6 USD) - 2015/12/28 11:08:55 ET
+Table 'Colocolo' 2-max Seat #2 is the button
+Seat 1: mehxat ($107.53 in chips)
+Seat 2: lotakeb ($10 in chips)
+lotakeb: posts small blind $1
+mehxat: posts big blind $3
+*** HOLE CARDS ***
+lotakeb: calls $2
+mehxat: checks
+*** FLOP *** [Qh 9h 9c]
+mehxat: checks
+lotakeb: checks
+*** TURN *** [Qh 9h 9c] [Jc]
+mehxat: bets $6
+lotakeb: folds
+Uncalled bet ($6) returned to mehxat
+mehxat collected $5.88 from pot
+mehxat: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Qh 9h 9c Jc]
+Seat 1: mehxat (big blind) collected ($5.88)
+Seat 2: lotakeb (button) (small blind) folded on the Turn
+
+

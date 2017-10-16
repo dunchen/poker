@@ -1,0 +1,134 @@
+PokerStars Hand #176783659515:  Hold'em Limit ($3/$6 USD) - 2017/10/11 14:12:57 ET
+Table 'Primula II' 6-max Seat #2 is the button
+Seat 2: iamchit ($607.13 in chips)
+Seat 3: Psynto ($95.03 in chips)
+iamchit: posts small blind $1
+Psynto: posts big blind $3
+*** HOLE CARDS ***
+iamchit: raises $3 to $6
+Psynto: calls $3
+*** FLOP *** [Td 2s Kd]
+Psynto: checks
+iamchit: bets $3
+Psynto: folds
+Uncalled bet ($3) returned to iamchit
+iamchit collected $11.76 from pot
+iamchit: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Td 2s Kd]
+Seat 2: iamchit (button) (small blind) collected ($11.76)
+Seat 3: Psynto (big blind) folded on the Flop
+
+
+PokerStars Hand #176783646232:  Hold'em Limit ($3/$6 USD) - 2017/10/11 14:12:40 ET
+Table 'Primula II' 6-max Seat #3 is the button
+Seat 2: iamchit ($586.63 in chips)
+Seat 3: Psynto ($116.03 in chips)
+Psynto: posts small blind $1
+vestimokrec: is sitting out
+iamchit: posts big blind $3
+*** HOLE CARDS ***
+Psynto: raises $3 to $6
+iamchit: calls $3
+*** FLOP *** [Kc 3h 8s]
+iamchit: bets $3
+Psynto: calls $3
+*** TURN *** [Kc 3h 8s] [6d]
+vestimokrec leaves the table
+iamchit: bets $6
+vestimokrec joins the table at seat #4
+Psynto: calls $6
+*** RIVER *** [Kc 3h 8s 6d] [Jh]
+iamchit: bets $6
+Psynto: calls $6
+*** SHOW DOWN ***
+iamchit: shows [4s 8c] (a pair of Eights)
+Psynto: mucks hand
+iamchit collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Kc 3h 8s 6d Jh]
+Seat 2: iamchit (big blind) showed [4s 8c] and won ($41.50) with a pair of Eights
+Seat 3: Psynto (button) (small blind) mucked
+
+
+PokerStars Hand #176785549952:  Hold'em Limit ($3/$6 USD) - 2017/10/11 14:51:27 ET
+Table 'Primula II' 6-max Seat #4 is the button
+Seat 2: aleks_4ym ($157.99 in chips)
+Seat 4: carloshmz ($100.80 in chips)
+carloshmz: posts small blind $1
+aleks_4ym: posts big blind $3
+*** HOLE CARDS ***
+carloshmz: folds
+Uncalled bet ($2) returned to aleks_4ym
+aleks_4ym collected $2 from pot
+aleks_4ym: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: aleks_4ym (big blind) collected ($2)
+Seat 4: carloshmz (button) (small blind) folded before Flop
+
+
+PokerStars Hand #176785564953:  Hold'em Limit ($3/$6 USD) - 2017/10/11 14:51:45 ET
+Table 'Primula II' 6-max Seat #2 is the button
+Seat 2: aleks_4ym ($158.99 in chips)
+Seat 4: carloshmz ($99.80 in chips)
+aleks_4ym: posts small blind $1
+carloshmz: posts big blind $3
+*** HOLE CARDS ***
+aleks_4ym: raises $3 to $6
+carloshmz: calls $3
+*** FLOP *** [9h 8h Td]
+carloshmz: checks
+aleks_4ym: checks
+*** TURN *** [9h 8h Td] [2d]
+carloshmz: bets $6
+aleks_4ym: calls $6
+*** RIVER *** [9h 8h Td 2d] [7d]
+carloshmz: bets $6
+aleks_4ym: folds
+Uncalled bet ($6) returned to carloshmz
+carloshmz collected $23.52 from pot
+carloshmz: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [9h 8h Td 2d 7d]
+Seat 2: aleks_4ym (button) (small blind) folded on the River
+Seat 4: carloshmz (big blind) collected ($23.52)
+
+
+PokerStars Hand #176792473866:  Hold'em Limit ($3/$6 USD) - 2017/10/11 17:10:30 ET
+Table 'Primula II' 6-max Seat #4 is the button
+Seat 3: kusznak ($95.58 in chips)
+Seat 4: ccashark ($108.06 in chips)
+ccashark: posts small blind $1
+kusznak: posts big blind $3
+*** HOLE CARDS ***
+ccashark: raises $3 to $6
+kusznak: calls $3
+*** FLOP *** [9h Qc 4h]
+kusznak: checks
+ccashark: bets $3
+kusznak: raises $3 to $6
+ccashark: raises $3 to $9
+kusznak: calls $3
+*** TURN *** [9h Qc 4h] [Tc]
+kusznak: checks
+ccashark: bets $6
+kusznak: calls $6
+*** RIVER *** [9h Qc 4h Tc] [Ah]
+kusznak: checks
+ccashark: bets $6
+kusznak: calls $6
+*** SHOW DOWN ***
+ccashark: shows [Kh Qh] (a flush, Ace high)
+kusznak: mucks hand
+ccashark collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [9h Qc 4h Tc Ah]
+Seat 3: kusznak (big blind) mucked
+Seat 4: ccashark (button) (small blind) showed [Kh Qh] and won ($53.50) with a flush, Ace high
+
+

@@ -1,0 +1,76 @@
+PokerStars Hand #149083333902:  Hold'em Limit ($3/$6 USD) - 2016/02/19 16:25:33 ET
+Table 'Agelaos' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($121 in chips)
+Seat 3: msanyi ($51.66 in chips)
+VolkovDmitri: posts small blind $1
+msanyi: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+msanyi: calls $3
+*** FLOP *** [Kh 2c 2d]
+msanyi: checks
+VolkovDmitri: bets $3
+msanyi: calls $3
+*** TURN *** [Kh 2c 2d] [Td]
+msanyi: checks
+VolkovDmitri: checks
+*** RIVER *** [Kh 2c 2d Td] [8d]
+msanyi: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to msanyi
+msanyi collected $17.64 from pot
+msanyi: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kh 2c 2d Td 8d]
+Seat 1: VolkovDmitri (button) (small blind) folded on the River
+Seat 3: msanyi (big blind) collected ($17.64)
+
+
+PokerStars Hand #149083329168:  Hold'em Limit ($3/$6 USD) - 2016/02/19 16:25:28 ET
+Table 'Agelaos' 6-max Seat #3 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 3: msanyi ($52.66 in chips)
+msanyi: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+msanyi: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: VolkovDmitri (big blind) collected ($2)
+Seat 3: msanyi (button) (small blind) folded before Flop
+
+
+PokerStars Hand #149083354991:  Hold'em Limit ($3/$6 USD) - 2016/02/19 16:25:54 ET
+Table 'Agelaos' 6-max Seat #3 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 3: msanyi ($60.30 in chips)
+msanyi: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+msanyi: calls $2
+VolkovDmitri: checks
+*** FLOP *** [2s 4h Jd]
+VolkovDmitri: bets $3
+msanyi: calls $3
+*** TURN *** [2s 4h Jd] [6c]
+VolkovDmitri: checks
+msanyi: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [2s 4h Jd 6c] [Qh]
+VolkovDmitri: checks
+msanyi: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [2c 7h] (a pair of Deuces)
+msanyi: mucks hand
+VolkovDmitri collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [2s 4h Jd 6c Qh]
+Seat 1: VolkovDmitri (big blind) showed [2c 7h] and won ($23.52) with a pair of Deuces
+Seat 3: msanyi (button) (small blind) mucked
+
+

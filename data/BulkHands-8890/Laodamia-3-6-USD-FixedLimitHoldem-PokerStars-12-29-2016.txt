@@ -1,0 +1,128 @@
+PokerStars Hand #163716843943:  Hold'em Limit ($3/$6 USD) - 2016/12/29 11:10:35 ET
+Table 'Laodamia' 6-max Seat #4 is the button
+Seat 4: AzureCaper ($73 in chips)
+Seat 5: loretta849 ($120 in chips)
+AzureCaper: posts small blind $1
+loretta849: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+loretta849: calls $3
+*** FLOP *** [Th Jc 4d]
+loretta849: checks
+AzureCaper: bets $3
+loretta849: raises $3 to $6
+iskambil joins the table at seat #1
+RUNNINGMAN70 joins the table at seat #3
+AzureCaper: folds
+Uncalled bet ($3) returned to loretta849
+loretta849 collected $17.64 from pot
+loretta849: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Th Jc 4d]
+Seat 4: AzureCaper (button) (small blind) folded on the Flop
+Seat 5: loretta849 (big blind) collected ($17.64)
+
+
+PokerStars Hand #163716825142:  Hold'em Limit ($3/$6 USD) - 2016/12/29 11:10:11 ET
+Table 'Laodamia' 6-max Seat #4 is the button
+Seat 4: AzureCaper ($72 in chips)
+Seat 5: loretta849 ($120 in chips)
+AzureCaper: posts small blind $1
+loretta849: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: folds
+Uncalled bet ($2) returned to loretta849
+loretta849 collected $2 from pot
+loretta849: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: AzureCaper (button) (small blind) folded before Flop
+Seat 5: loretta849 (big blind) collected ($2)
+
+
+PokerStars Hand #163720242303:  Hold'em Limit ($3/$6 USD) - 2016/12/29 12:19:51 ET
+Table 'Laodamia' 6-max Seat #5 is the button
+Seat 2: Apanage ($169.89 in chips)
+Seat 5: SALZHERZ ($35.33 in chips)
+SALZHERZ: posts small blind $1
+Apanage: posts big blind $3
+*** HOLE CARDS ***
+SALZHERZ: raises $3 to $6
+Apanage: calls $3
+*** FLOP *** [Qs 3h Td]
+Apanage: checks
+SALZHERZ: checks
+*** TURN *** [Qs 3h Td] [Ks]
+Apanage: checks
+SALZHERZ: checks
+*** RIVER *** [Qs 3h Td Ks] [2h]
+Apanage: bets $6
+SALZHERZ: folds
+Uncalled bet ($6) returned to Apanage
+Apanage collected $11.76 from pot
+Apanage: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qs 3h Td Ks 2h]
+Seat 2: Apanage (big blind) collected ($11.76)
+Seat 5: SALZHERZ (button) (small blind) folded on the River
+
+
+PokerStars Hand #163720258305:  Hold'em Limit ($3/$6 USD) - 2016/12/29 12:20:10 ET
+Table 'Laodamia' 6-max Seat #2 is the button
+Seat 2: Apanage ($175.65 in chips)
+Seat 5: SALZHERZ ($29.33 in chips)
+Apanage: posts small blind $1
+SALZHERZ: posts big blind $3
+*** HOLE CARDS ***
+Apanage: raises $3 to $6
+SALZHERZ: calls $3
+*** FLOP *** [2d 4s 9c]
+SALZHERZ: checks
+Apanage: bets $3
+SALZHERZ: calls $3
+*** TURN *** [2d 4s 9c] [2s]
+SALZHERZ: checks
+Apanage: bets $6
+SALZHERZ: calls $6
+*** RIVER *** [2d 4s 9c 2s] [4d]
+SALZHERZ: checks
+Apanage: bets $6
+SALZHERZ: calls $6
+*** SHOW DOWN ***
+Apanage: shows [Ah 4h] (a full house, Fours full of Deuces)
+SALZHERZ: mucks hand
+Apanage collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2d 4s 9c 2s 4d]
+Seat 2: Apanage (button) (small blind) showed [Ah 4h] and won ($41.50) with a full house, Fours full of Deuces
+Seat 5: SALZHERZ (big blind) mucked
+
+
+PokerStars Hand #163720276575:  Hold'em Limit ($3/$6 USD) - 2016/12/29 12:20:31 ET
+Table 'Laodamia' 6-max Seat #5 is the button
+Seat 2: Apanage ($196.15 in chips)
+Seat 5: SALZHERZ ($8.33 in chips)
+SALZHERZ: posts small blind $1
+Apanage: posts big blind $3
+*** HOLE CARDS ***
+SALZHERZ: raises $3 to $6
+Apanage: raises $3 to $9
+SALZHERZ: calls $2.33 and is all-in
+Uncalled bet ($0.67) returned to Apanage
+*** FLOP *** [5d 3h 9c]
+*** TURN *** [5d 3h 9c] [8d]
+*** RIVER *** [5d 3h 9c 8d] [6d]
+*** SHOW DOWN ***
+Apanage: shows [Qd Ks] (high card King)
+SALZHERZ: shows [Qh Th] (high card Queen)
+Apanage collected $16.33 from pot
+*** SUMMARY ***
+Total pot $16.66 | Rake $0.33
+Board [5d 3h 9c 8d 6d]
+Seat 2: Apanage (big blind) showed [Qd Ks] and won ($16.33) with high card King
+Seat 5: SALZHERZ (button) (small blind) showed [Qh Th] and lost with high card Queen
+
+

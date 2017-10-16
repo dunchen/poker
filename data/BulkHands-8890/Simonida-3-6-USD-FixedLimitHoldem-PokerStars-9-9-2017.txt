@@ -1,0 +1,36 @@
+PokerStars Hand #175402862388:  Hold'em Limit ($3/$6 USD) - 2017/09/09 4:41:37 ET
+Table 'Simonida' 6-max Seat #3 is the button
+Seat 3: ouwehaas ($173.99 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+ouwehaas: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+ouwehaas: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+ouwehaas: calls $3
+*** FLOP *** [7d 7c Qh]
+VolkovDmitri: bets $3
+ouwehaas: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+ouwehaas: raises $3 to $12
+Betting is capped
+VolkovDmitri: calls $3
+*** TURN *** [7d 7c Qh] [3c]
+VolkovDmitri: bets $6
+ouwehaas: raises $6 to $12
+VolkovDmitri: calls $6
+*** RIVER *** [7d 7c Qh 3c] [Td]
+VolkovDmitri: checks
+ouwehaas: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+ouwehaas: shows [9d 7s] (three of a kind, Sevens)
+VolkovDmitri: mucks hand
+ouwehaas collected $77.50 from pot
+*** SUMMARY ***
+Total pot $78 | Rake $0.50
+Board [7d 7c Qh 3c Td]
+Seat 3: ouwehaas (button) (small blind) showed [9d 7s] and won ($77.50) with three of a kind, Sevens
+Seat 4: VolkovDmitri (big blind) mucked
+
+

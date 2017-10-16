@@ -1,0 +1,94 @@
+PokerStars Hand #165091284546:  Hold'em Limit ($3/$6 USD) - 2017/01/24 9:33:45 ET
+Table 'Orsilocus III' 6-max Seat #1 is the button
+Seat 1: _fayzulllo_ ($48 in chips)
+Seat 4: Rus29APX ($120 in chips)
+_fayzulllo_: posts small blind $1
+Rus29APX: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: raises $3 to $6
+Rus29APX: calls $3
+*** FLOP *** [Ts 4c 6d]
+TbIP-TbIP 88 joins the table at seat #2
+Rus29APX: checks
+_fayzulllo_: bets $3
+Rus29APX: calls $3
+*** TURN *** [Ts 4c 6d] [9d]
+Rus29APX: checks
+_fayzulllo_: checks
+*** RIVER *** [Ts 4c 6d 9d] [Jd]
+Rus29APX: checks
+_fayzulllo_: bets $6
+Rus29APX: calls $6
+*** SHOW DOWN ***
+_fayzulllo_: shows [Kh 9c] (a pair of Nines)
+Rus29APX: mucks hand
+_fayzulllo_ collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ts 4c 6d 9d Jd]
+Seat 1: _fayzulllo_ (button) (small blind) showed [Kh 9c] and won ($29.50) with a pair of Nines
+Seat 4: Rus29APX (big blind) mucked
+
+
+PokerStars Hand #165091319442:  Hold'em Limit ($3/$6 USD) - 2017/01/24 9:34:36 ET
+Table 'Orsilocus III' 6-max Seat #4 is the button
+Seat 2: TbIP-TbIP 88 ($72 in chips)
+Seat 4: Rus29APX ($105 in chips)
+Rus29APX: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_ leaves the table
+Rus29APX: raises $3 to $6
+TbIP-TbIP 88: calls $3
+*** FLOP *** [Jh Td 6d]
+TbIP-TbIP 88: checks
+Rus29APX: bets $3
+TbIP-TbIP 88: calls $3
+*** TURN *** [Jh Td 6d] [Qh]
+TbIP-TbIP 88: checks
+Rus29APX: bets $6
+TbIP-TbIP 88: calls $6
+*** RIVER *** [Jh Td 6d Qh] [Ah]
+TbIP-TbIP 88: checks
+Rus29APX: checks
+*** SHOW DOWN ***
+TbIP-TbIP 88: shows [6c 8h] (a pair of Sixes)
+Rus29APX: mucks hand
+TbIP-TbIP 88 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Jh Td 6d Qh Ah]
+Seat 2: TbIP-TbIP 88 (big blind) showed [6c 8h] and won ($29.50) with a pair of Sixes
+Seat 4: Rus29APX (button) (small blind) mucked
+
+
+PokerStars Hand #165091352268:  Hold'em Limit ($3/$6 USD) - 2017/01/24 9:35:24 ET
+Table 'Orsilocus III' 6-max Seat #2 is the button
+Seat 2: TbIP-TbIP 88 ($86.50 in chips)
+Seat 4: Rus29APX ($120 in chips)
+TbIP-TbIP 88: posts small blind $1
+Rus29APX: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88: raises $3 to $6
+Rus29APX: raises $3 to $9
+TbIP-TbIP 88: calls $3
+*** FLOP *** [Qd 9c Tc]
+Rus29APX: bets $3
+TbIP-TbIP 88: calls $3
+*** TURN *** [Qd 9c Tc] [Kd]
+Rus29APX: checks
+TbIP-TbIP 88: checks
+*** RIVER *** [Qd 9c Tc Kd] [Ac]
+Rus29APX: checks
+TbIP-TbIP 88: checks
+*** SHOW DOWN ***
+Rus29APX: shows [Qs 8s] (a pair of Queens)
+TbIP-TbIP 88: mucks hand
+Rus29APX collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Qd 9c Tc Kd Ac]
+Seat 2: TbIP-TbIP 88 (button) (small blind) mucked
+Seat 4: Rus29APX (big blind) showed [Qs 8s] and won ($23.52) with a pair of Queens
+
+

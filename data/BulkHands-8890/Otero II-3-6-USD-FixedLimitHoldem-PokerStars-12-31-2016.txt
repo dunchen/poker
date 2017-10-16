@@ -1,0 +1,30 @@
+PokerStars Hand #163797381354:  Hold'em Limit ($3/$6 USD) - 2016/12/30 19:30:45 ET
+Table 'Otero II' 6-max Seat #2 is the button
+Seat 2: Chessnok ($61 in chips)
+Seat 4: ToDaFelt ($281.98 in chips)
+Chessnok: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+ToDaFelt: raises $3 to $9
+Chessnok: calls $3
+*** FLOP *** [Js 5c Qc]
+ToDaFelt: bets $3
+Chessnok: calls $3
+*** TURN *** [Js 5c Qc] [9h]
+ToDaFelt: bets $6
+Chessnok: calls $6
+*** RIVER *** [Js 5c Qc 9h] [5h]
+ToDaFelt: bets $6
+Chessnok: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [9d Ks] (two pair, Nines and Fives)
+Chessnok: mucks hand
+ToDaFelt collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Js 5c Qc 9h 5h]
+Seat 2: Chessnok (button) (small blind) mucked
+Seat 4: ToDaFelt (big blind) showed [9d Ks] and won ($47.50) with two pair, Nines and Fives
+
+

@@ -1,0 +1,96 @@
+PokerStars Hand #145057849999:  Hold'em Limit ($3/$6 USD) - 2015/12/09 0:26:27 ET
+Table 'Phact' 6-max Seat #2 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 2: _fayzulllo_ ($114.50 in chips)
+_fayzulllo_: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: calls $2
+VolkovDmitri: raises $3 to $6
+_fayzulllo_: calls $3
+*** FLOP *** [Ts 5h 3c]
+VolkovDmitri: bets $3
+_fayzulllo_: calls $3
+*** TURN *** [Ts 5h 3c] [Td]
+VolkovDmitri: checks
+_fayzulllo_: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [Ts 5h 3c Td] [2s]
+VolkovDmitri: checks
+_fayzulllo_: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+_fayzulllo_: shows [Tc 6c] (three of a kind, Tens)
+VolkovDmitri: mucks hand
+_fayzulllo_ collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ts 5h 3c Td 2s]
+Seat 1: VolkovDmitri (big blind) mucked
+Seat 2: _fayzulllo_ (button) (small blind) showed [Tc 6c] and won ($41.50) with three of a kind, Tens
+
+
+PokerStars Hand #145057840796:  Hold'em Limit ($3/$6 USD) - 2015/12/09 0:25:51 ET
+Table 'Phact' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 2: _fayzulllo_ ($100 in chips)
+VolkovDmitri: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+_fayzulllo_: calls $3
+*** FLOP *** [9c 2d Kh]
+_fayzulllo_: checks
+VolkovDmitri: bets $3
+_fayzulllo_: calls $3
+*** TURN *** [9c 2d Kh] [3c]
+_fayzulllo_: checks
+VolkovDmitri: checks
+*** RIVER *** [9c 2d Kh 3c] [2h]
+_fayzulllo_: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+_fayzulllo_: shows [6d 6h] (two pair, Sixes and Deuces)
+VolkovDmitri: mucks hand
+_fayzulllo_ collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9c 2d Kh 3c 2h]
+Seat 1: VolkovDmitri (button) (small blind) mucked
+Seat 2: _fayzulllo_ (big blind) showed [6d 6h] and won ($29.50) with two pair, Sixes and Deuces
+
+
+PokerStars Hand #145057864691:  Hold'em Limit ($3/$6 USD) - 2015/12/09 0:27:24 ET
+Table 'Phact' 6-max Seat #2 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 2: _fayzulllo_ ($136 in chips)
+_fayzulllo_: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: VolkovDmitri (big blind) collected ($2)
+Seat 2: _fayzulllo_ (button) (small blind) folded before Flop
+
+
+PokerStars Hand #145057859951:  Hold'em Limit ($3/$6 USD) - 2015/12/09 0:27:06 ET
+Table 'Phact' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 2: _fayzulllo_ ($135 in chips)
+VolkovDmitri: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: folds
+Uncalled bet ($2) returned to _fayzulllo_
+_fayzulllo_ collected $2 from pot
+_fayzulllo_: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: VolkovDmitri (button) (small blind) folded before Flop
+Seat 2: _fayzulllo_ (big blind) collected ($2)
+
+

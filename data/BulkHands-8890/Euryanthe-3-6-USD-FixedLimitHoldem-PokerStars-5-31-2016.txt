@@ -1,0 +1,110 @@
+PokerStars Hand #154117429973:  Hold'em Limit ($3/$6 USD) - 2016/05/31 18:52:48 ET
+Table 'Euryanthe' 6-max Seat #6 is the button
+Seat 2: TinaTurner72 ($120 in chips)
+Seat 6: Solydz ($74.40 in chips)
+Solydz: posts small blind $1
+TinaTurner72: posts big blind $3
+*** HOLE CARDS ***
+Solydz: calls $2
+Zubasa07 joins the table at seat #1
+TinaTurner72: raises $3 to $6
+Solydz: calls $3
+*** FLOP *** [7h 2c 6c]
+TinaTurner72: bets $3
+Solydz: calls $3
+*** TURN *** [7h 2c 6c] [4s]
+TinaTurner72: checks
+Solydz: bets $6
+TinaTurner72: folds
+Uncalled bet ($6) returned to Solydz
+Solydz collected $17.64 from pot
+Solydz: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7h 2c 6c 4s]
+Seat 2: TinaTurner72 (big blind) folded on the Turn
+Seat 6: Solydz (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #154117449611:  Hold'em Limit ($3/$6 USD) - 2016/05/31 18:53:18 ET
+Table 'Euryanthe' 6-max Seat #2 is the button
+Seat 2: TinaTurner72 ($111 in chips)
+Seat 6: Solydz ($83.04 in chips)
+TinaTurner72: posts small blind $1
+Solydz: posts big blind $3
+*** HOLE CARDS ***
+TinaTurner72: raises $3 to $6
+Solydz: calls $3
+*** FLOP *** [2d 7h 9c]
+Solydz: checks
+TinaTurner72: bets $3
+Solydz: calls $3
+*** TURN *** [2d 7h 9c] [4s]
+Solydz: bets $6
+TinaTurner72: calls $6
+*** RIVER *** [2d 7h 9c 4s] [Qc]
+ToDaFelt joins the table at seat #3
+Solydz: checks
+TinaTurner72: bets $6
+Solydz: calls $6
+*** SHOW DOWN ***
+TinaTurner72: shows [7s Kh] (a pair of Sevens)
+Solydz: shows [9d Ts] (a pair of Nines)
+Solydz collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2d 7h 9c 4s Qc]
+Seat 2: TinaTurner72 (button) (small blind) showed [7s Kh] and lost with a pair of Sevens
+Seat 6: Solydz (big blind) showed [9d Ts] and won ($41.50) with a pair of Nines
+
+
+PokerStars Hand #154119527858:  Hold'em Limit ($3/$6 USD) - 2016/05/31 19:51:49 ET
+Table 'Euryanthe' 6-max Seat #5 is the button
+Seat 1: Chessnok ($139.84 in chips)
+Seat 5: ToDaFelt ($211 in chips)
+Solydz leaves the table
+ToDaFelt: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: folds
+Uncalled bet ($2) returned to Chessnok
+Chessnok collected $2 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Chessnok (big blind) collected ($2)
+Seat 5: ToDaFelt (button) (small blind) folded before Flop
+
+
+PokerStars Hand #154119512338:  Hold'em Limit ($3/$6 USD) - 2016/05/31 19:51:20 ET
+Table 'Euryanthe' 6-max Seat #1 is the button
+Seat 1: Chessnok ($119.34 in chips)
+Seat 4: Solydz ($116.74 in chips)
+Chessnok: posts small blind $1
+Solydz: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+Solydz: calls $3
+*** FLOP *** [Qs 3h Kh]
+Solydz: checks
+Chessnok: bets $3
+Solydz: calls $3
+*** TURN *** [Qs 3h Kh] [8s]
+Solydz: checks
+ToDaFelt joins the table at seat #5
+Chessnok: bets $6
+Solydz: calls $6
+*** RIVER *** [Qs 3h Kh 8s] [8h]
+Solydz: bets $6
+Chessnok: calls $6
+*** SHOW DOWN ***
+Solydz: shows [Th 3s] (two pair, Eights and Threes)
+Chessnok: shows [2h Qd] (two pair, Queens and Eights)
+Chessnok collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Qs 3h Kh 8s 8h]
+Seat 1: Chessnok (button) (small blind) showed [2h Qd] and won ($41.50) with two pair, Queens and Eights
+Seat 4: Solydz (big blind) showed [Th 3s] and lost with two pair, Eights and Threes
+
+

@@ -1,0 +1,34 @@
+PokerStars Hand #171867662336:  Hold'em Limit ($3/$6 USD) - 2017/06/16 19:42:02 ET
+Table 'Pleione' 6-max Seat #5 is the button
+Seat 5: perten ($120.26 in chips)
+Seat 6: scorpio04 ($150 in chips)
+perten: posts small blind $1
+scorpio04: posts big blind $3
+*** HOLE CARDS ***
+perten: raises $3 to $6
+scorpio04: raises $3 to $9
+perten: raises $3 to $12
+Betting is capped
+scorpio04: calls $3
+*** FLOP *** [2h 4c 3d]
+scorpio04: checks
+perten: bets $3
+scorpio04: raises $3 to $6
+perten: calls $3
+*** TURN *** [2h 4c 3d] [Js]
+scorpio04: bets $6
+perten: calls $6
+*** RIVER *** [2h 4c 3d Js] [8c]
+scorpio04: bets $6
+perten: calls $6
+*** SHOW DOWN ***
+scorpio04: shows [4s 2s] (two pair, Fours and Deuces)
+perten: mucks hand
+scorpio04 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [2h 4c 3d Js 8c]
+Seat 5: perten (button) (small blind) mucked
+Seat 6: scorpio04 (big blind) showed [4s 2s] and won ($59.50) with two pair, Fours and Deuces
+
+

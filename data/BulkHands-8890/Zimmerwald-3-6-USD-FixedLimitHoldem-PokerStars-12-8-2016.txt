@@ -1,0 +1,68 @@
+PokerStars Hand #162635959050:  Hold'em Limit ($3/$6 USD) - 2016/12/08 18:08:15 ET
+Table 'Zimmerwald' 10-max Seat #7 is the button
+Seat 7: Actionni13 ($150 in chips)
+Seat 8: Oreip ($35 in chips)
+Actionni13: posts small blind $1
+Oreip: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+GRAILKO joins the table at seat #9
+Oreip: calls $3
+*** FLOP *** [Ah 7d Qd]
+Oreip: checks
+Actionni13: bets $3
+Oreip: calls $3
+*** TURN *** [Ah 7d Qd] [7s]
+Oreip: checks
+Actionni13: checks
+*** RIVER *** [Ah 7d Qd 7s] [Th]
+Oreip: bets $6
+Actionni13: calls $6
+*** SHOW DOWN ***
+Oreip: shows [4s Ac] (two pair, Aces and Sevens)
+Actionni13: mucks hand
+Oreip collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ah 7d Qd 7s Th]
+Seat 7: Actionni13 (button) (small blind) mucked
+Seat 8: Oreip (big blind) showed [4s Ac] and won ($29.50) with two pair, Aces and Sevens
+
+
+PokerStars Hand #162636380218:  Hold'em Limit ($3/$6 USD) - 2016/12/08 18:16:43 ET
+Table 'Zimmerwald' 10-max Seat #6 is the button
+Seat 1: ToDaFelt ($147.98 in chips)
+Seat 6: Zubasa07 ($513.52 in chips)
+GRAILKO will be allowed to play after the button
+Zubasa07: posts small blind $1
+FooJaws: is sitting out
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+mylifeluvsol leaves the table
+Zubasa07: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [4h 2h As]
+ToDaFelt: checks
+Zubasa07: bets $3
+ToDaFelt: raises $3 to $6
+Zubasa07: calls $3
+*** TURN *** [4h 2h As] [3s]
+ToDaFelt: bets $6
+Zubasa07: raises $6 to $12
+ToDaFelt: calls $6
+*** RIVER *** [4h 2h As 3s] [Jd]
+ToDaFelt: checks
+Zubasa07: bets $6
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+Zubasa07: shows [4c 5d] (a straight, Ace to Five)
+ToDaFelt: shows [7s 5h] (a straight, Ace to Five)
+ToDaFelt collected $29.75 from pot
+Zubasa07 collected $29.75 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [4h 2h As 3s Jd]
+Seat 1: ToDaFelt (big blind) showed [7s 5h] and won ($29.75) with a straight, Ace to Five
+Seat 6: Zubasa07 (button) (small blind) showed [4c 5d] and won ($29.75) with a straight, Ace to Five
+
+

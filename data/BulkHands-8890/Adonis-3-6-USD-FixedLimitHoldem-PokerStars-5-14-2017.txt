@@ -1,0 +1,33 @@
+PokerStars Hand #170388593534:  Hold'em Limit ($3/$6 USD) - 2017/05/13 22:24:06 ET
+Table 'Adonis' 6-max Seat #1 is the button
+Seat 1: Velbor107 ($300 in chips)
+Seat 3: bmfu649 ($30 in chips)
+Velbor107: posts small blind $1
+bmfu649: posts big blind $3
+*** HOLE CARDS ***
+Velbor107: raises $3 to $6
+bmfu649: calls $3
+*** FLOP *** [7s 3h Ks]
+bmfu649: checks
+Velbor107: bets $3
+bmfu649: calls $3
+*** TURN *** [7s 3h Ks] [6s]
+bmfu649: checks
+Velbor107: bets $6
+bmfu649: raises $6 to $12
+Velbor107: raises $6 to $18
+bmfu649: raises $3 to $21 and is all-in
+Betting is capped
+Velbor107: calls $3
+*** RIVER *** [7s 3h Ks 6s] [9h]
+*** SHOW DOWN ***
+bmfu649: shows [7d 6c] (two pair, Sevens and Sixes)
+Velbor107: shows [Ts 2s] (a flush, King high)
+Velbor107 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [7s 3h Ks 6s 9h]
+Seat 1: Velbor107 (button) (small blind) showed [Ts 2s] and won ($59.50) with a flush, King high
+Seat 3: bmfu649 (big blind) showed [7d 6c] and lost with two pair, Sevens and Sixes
+
+

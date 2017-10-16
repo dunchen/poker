@@ -1,0 +1,100 @@
+PokerStars Hand #146194449560:  Hold'em Limit ($3/$6 USD) - 2015/12/30 17:02:40 ET
+Table 'Bodea III' 10-max Seat #8 is the button
+Seat 5: tomalino1 ($36 in chips)
+Seat 8: Pandakey ($143.50 in chips)
+Pandakey: posts small blind $1
+tomalino1: posts big blind $3
+*** HOLE CARDS ***
+Pandakey: folds
+Uncalled bet ($2) returned to tomalino1
+tomalino1 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: tomalino1 (big blind) collected ($2)
+Seat 8: Pandakey (button) (small blind) folded before Flop
+
+
+PokerStars Hand #146194406427:  Hold'em Limit ($3/$6 USD) - 2015/12/30 17:01:58 ET
+Table 'Bodea III' 10-max Seat #5 is the button
+Seat 5: tomalino1 ($60 in chips)
+Seat 8: Pandakey ($120 in chips)
+tomalino1: posts small blind $1
+Pandakey: posts big blind $3
+*** HOLE CARDS ***
+tomalino1: raises $3 to $6
+Pandakey: raises $3 to $9
+tomalino1: calls $3
+*** FLOP *** [7s 4c 8s]
+Pandakey: bets $3
+tomalino1: calls $3
+*** TURN *** [7s 4c 8s] [Ac]
+Pandakey: bets $6
+tomalino1: calls $6
+*** RIVER *** [7s 4c 8s Ac] [7h]
+Pandakey: bets $6
+tomalino1: calls $6
+*** SHOW DOWN ***
+Pandakey: shows [7c 7d] (four of a kind, Sevens)
+tomalino1: mucks hand
+Pandakey collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7s 4c 8s Ac 7h]
+Seat 5: tomalino1 (button) (small blind) mucked
+Seat 8: Pandakey (big blind) showed [7c 7d] and won ($47.50) with four of a kind, Sevens
+
+
+PokerStars Hand #146194495094:  Hold'em Limit ($3/$6 USD) - 2015/12/30 17:03:24 ET
+Table 'Bodea III' 10-max Seat #8 is the button
+Seat 5: tomalino1 ($48.52 in chips)
+Seat 8: Pandakey ($130.50 in chips)
+Pandakey: posts small blind $1
+tomalino1: posts big blind $3
+*** HOLE CARDS ***
+Pandakey: raises $3 to $6
+tomalino1: calls $3
+*** FLOP *** [3d Kc 8h]
+tomalino1: checks
+Pandakey: bets $3
+tomalino1: folds
+Uncalled bet ($3) returned to Pandakey
+Pandakey collected $11.76 from pot
+Pandakey: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3d Kc 8h]
+Seat 5: tomalino1 (big blind) folded on the Flop
+Seat 8: Pandakey (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #146194464937:  Hold'em Limit ($3/$6 USD) - 2015/12/30 17:02:54 ET
+Table 'Bodea III' 10-max Seat #5 is the button
+Seat 5: tomalino1 ($37 in chips)
+Seat 8: Pandakey ($142.50 in chips)
+tomalino1: posts small blind $1
+Pandakey: posts big blind $3
+*** HOLE CARDS ***
+tomalino1: calls $2
+Pandakey: checks
+*** FLOP *** [4s Jh 2d]
+Pandakey: checks
+Chessnok joins the table at seat #6
+tomalino1: bets $3
+Pandakey: calls $3
+*** TURN *** [4s Jh 2d] [8d]
+Pandakey: checks
+tomalino1: checks
+*** RIVER *** [4s Jh 2d 8d] [6c]
+Pandakey: bets $6
+tomalino1: calls $6
+*** SHOW DOWN ***
+Pandakey: shows [2h 3c] (a pair of Deuces)
+tomalino1: shows [4c 9c] (a pair of Fours)
+tomalino1 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [4s Jh 2d 8d 6c]
+Seat 5: tomalino1 (button) (small blind) showed [4c 9c] and won ($23.52) with a pair of Fours
+Seat 8: Pandakey (big blind) showed [2h 3c] and lost with a pair of Deuces
+
+

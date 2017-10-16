@@ -1,0 +1,110 @@
+PokerStars Hand #175285980267:  Hold'em Limit ($3/$6 USD) - 2017/09/06 12:12:56 ET
+Table 'Dike' 6-max Seat #1 is the button
+Seat 1: Ale4o ($120 in chips)
+Seat 5: igorkabmw ($31 in chips)
+Agrotait: is sitting out
+Ale4o: posts small blind $1
+igorkabmw: posts big blind $3
+*** HOLE CARDS ***
+Ale4o: raises $3 to $6
+igorkabmw: calls $3
+*** FLOP *** [2c 4s 2d]
+igorkabmw: bets $3
+Ale4o: calls $3
+*** TURN *** [2c 4s 2d] [5s]
+igorkabmw: bets $6
+Ale4o: calls $6
+*** RIVER *** [2c 4s 2d 5s] [Tc]
+AmosLeM joins the table at seat #3
+igorkabmw: checks
+Ale4o: checks
+*** SHOW DOWN ***
+igorkabmw: shows [5c Jh] (two pair, Fives and Deuces)
+Ale4o: mucks hand
+igorkabmw collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2c 4s 2d 5s Tc]
+Seat 1: Ale4o (button) (small blind) mucked
+Seat 5: igorkabmw (big blind) showed [5c Jh] and won ($29.50) with two pair, Fives and Deuces
+
+
+PokerStars Hand #175286002590:  Hold'em Limit ($3/$6 USD) - 2017/09/06 12:13:27 ET
+Table 'Dike' 6-max Seat #5 is the button
+Seat 1: Ale4o ($105 in chips)
+Seat 5: igorkabmw ($45.50 in chips)
+igorkabmw: posts small blind $1
+Ale4o: posts big blind $3
+*** HOLE CARDS ***
+igorkabmw: folds
+Uncalled bet ($2) returned to Ale4o
+Ale4o collected $2 from pot
+Ale4o: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Ale4o (big blind) collected ($2)
+Seat 5: igorkabmw (button) (small blind) folded before Flop
+
+
+PokerStars Hand #175286286600:  Hold'em Limit ($3/$6 USD) - 2017/09/06 12:20:09 ET
+Table 'Dike' 6-max Seat #3 is the button
+Seat 3: igorkabmw ($30 in chips)
+Seat 4: Agrotait ($132.45 in chips)
+igorkabmw: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+igorkabmw: calls $2
+Agrotait: checks
+*** FLOP *** [6s 5s 6c]
+Agrotait: checks
+igorkabmw: checks
+*** TURN *** [6s 5s 6c] [2d]
+Agrotait: checks
+igorkabmw: checks
+*** RIVER *** [6s 5s 6c 2d] [9s]
+belik555 joins the table at seat #5
+Agrotait: checks
+igorkabmw: checks
+*** SHOW DOWN ***
+Agrotait: shows [Jd 3c] (a pair of Sixes)
+igorkabmw: shows [3h Ks] (a pair of Sixes - King kicker)
+igorkabmw collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [6s 5s 6c 2d 9s]
+Seat 3: igorkabmw (button) (small blind) showed [3h Ks] and won ($5.88) with a pair of Sixes
+Seat 4: Agrotait (big blind) showed [Jd 3c] and lost with a pair of Sixes
+
+
+PokerStars Hand #175286360844:  Hold'em Limit ($3/$6 USD) - 2017/09/06 12:21:56 ET
+Table 'Dike' 6-max Seat #5 is the button
+Seat 4: Agrotait ($134.95 in chips)
+Seat 5: belik555 ($115.35 in chips)
+belik555: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+belik555: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [Jc 6c Ah]
+Agrotait: checks
+belik555: bets $3
+Agrotait: calls $3
+*** TURN *** [Jc 6c Ah] [As]
+Agrotait: checks
+belik555: bets $6
+Agrotait: calls $6
+*** RIVER *** [Jc 6c Ah As] [Qd]
+Agrotait: checks
+belik555: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+belik555: shows [3c 3s] (two pair, Aces and Threes)
+Agrotait: shows [Jd 9s] (two pair, Aces and Jacks)
+Agrotait collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Jc 6c Ah As Qd]
+Seat 4: Agrotait (big blind) showed [Jd 9s] and won ($41.50) with two pair, Aces and Jacks
+Seat 5: belik555 (button) (small blind) showed [3c 3s] and lost with two pair, Aces and Threes
+
+

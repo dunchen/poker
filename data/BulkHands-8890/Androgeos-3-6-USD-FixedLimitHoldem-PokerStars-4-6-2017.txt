@@ -1,0 +1,132 @@
+PokerStars Hand #168680632922:  Hold'em Limit ($3/$6 USD) - 2017/04/06 19:01:40 ET
+Table 'Androgeos' 6-max Seat #1 is the button
+Seat 1: vavosik ($274.02 in chips)
+Seat 6: ToDaFelt ($154.76 in chips)
+vavosik: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+vavosik: calls $2
+ToDaFelt: checks
+*** FLOP *** [Kc 3h 6c]
+ToDaFelt: checks
+vavosik: bets $3
+ToDaFelt: raises $3 to $6
+vavosik: calls $3
+*** TURN *** [Kc 3h 6c] [7s]
+ToDaFelt: bets $6
+vavosik: calls $6
+*** RIVER *** [Kc 3h 6c 7s] [Ah]
+ToDaFelt: bets $6
+vavosik: folds
+Uncalled bet ($6) returned to ToDaFelt
+ToDaFelt collected $29.50 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kc 3h 6c 7s Ah]
+Seat 1: vavosik (button) (small blind) folded on the River
+Seat 6: ToDaFelt (big blind) collected ($29.50)
+
+
+PokerStars Hand #168680674121:  Hold'em Limit ($3/$6 USD) - 2017/04/06 19:02:44 ET
+Table 'Androgeos' 6-max Seat #6 is the button
+Seat 1: vavosik ($255.78 in chips)
+Seat 6: ToDaFelt ($171.90 in chips)
+ToDaFelt: posts small blind $1
+vavosik: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+vavosik: calls $3
+*** FLOP *** [7s 9s 2s]
+vavosik: checks
+ToDaFelt: bets $3
+vavosik: calls $3
+*** TURN *** [7s 9s 2s] [Jc]
+vavosik: checks
+ToDaFelt: bets $6
+vavosik: calls $6
+*** RIVER *** [7s 9s 2s Jc] [8s]
+vavosik: checks
+ToDaFelt: bets $6
+vavosik: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [3s Ad] (a flush, Nine high)
+vavosik: shows [Ts 2d] (a flush, Ten high)
+vavosik collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [7s 9s 2s Jc 8s]
+Seat 1: vavosik (big blind) showed [Ts 2d] and won ($41.50) with a flush, Ten high
+Seat 6: ToDaFelt (button) (small blind) showed [3s Ad] and lost with a flush, Nine high
+
+
+PokerStars Hand #168680659083:  Hold'em Limit ($3/$6 USD) - 2017/04/06 19:02:20 ET
+Table 'Androgeos' 6-max Seat #1 is the button
+Seat 1: vavosik ($250.02 in chips)
+Seat 6: ToDaFelt ($177.90 in chips)
+vavosik: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+vavosik: raises $3 to $6
+B_loJkl joins the table at seat #2
+ToDaFelt: calls $3
+*** FLOP *** [4h 4s Ac]
+ToDaFelt: checks
+vavosik: bets $3
+ToDaFelt: folds
+Uncalled bet ($3) returned to vavosik
+vavosik collected $11.76 from pot
+vavosik: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4h 4s Ac]
+Seat 1: vavosik (button) (small blind) collected ($11.76)
+Seat 6: ToDaFelt (big blind) folded on the Flop
+
+
+PokerStars Hand #168680647709:  Hold'em Limit ($3/$6 USD) - 2017/04/06 19:02:02 ET
+Table 'Androgeos' 6-max Seat #6 is the button
+Seat 1: vavosik ($259.02 in chips)
+Seat 6: ToDaFelt ($169.26 in chips)
+ToDaFelt: posts small blind $1
+vavosik: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+vavosik: calls $3
+*** FLOP *** [Ad 4h Jc]
+vavosik: checks
+ToDaFelt: bets $3
+vavosik: calls $3
+*** TURN *** [Ad 4h Jc] [6s]
+vavosik: checks
+ToDaFelt: bets $6
+vavosik: folds
+Uncalled bet ($6) returned to ToDaFelt
+ToDaFelt collected $17.64 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ad 4h Jc 6s]
+Seat 1: vavosik (big blind) folded on the Turn
+Seat 6: ToDaFelt (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #168682131759:  Hold'em Limit ($3/$6 USD) - 2017/04/06 19:41:57 ET
+Table 'Androgeos' 6-max Seat #6 is the button
+Seat 3: ABATAPP ($97.60 in chips)
+Seat 6: ToDaFelt ($216.77 in chips)
+ToDaFelt: posts small blind $1
+B_loJkl: is sitting out
+ABATAPP: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl leaves the table
+ToDaFelt: folds
+Uncalled bet ($2) returned to ABATAPP
+ABATAPP collected $2 from pot
+ABATAPP: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: ABATAPP (big blind) collected ($2)
+Seat 6: ToDaFelt (button) (small blind) folded before Flop
+
+

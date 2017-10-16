@@ -1,0 +1,118 @@
+PokerStars Hand #157404331941:  Hold'em Limit ($3/$6 USD) - 2016/08/17 16:43:28 ET
+Table 'Hale-Bopp' 6-max Seat #6 is the button
+Seat 4: perten ($59.62 in chips)
+Seat 6: degal76 ($120 in chips)
+degal76: posts small blind $1
+perten: posts big blind $3
+*** HOLE CARDS ***
+degal76: calls $2
+perten: checks
+*** FLOP *** [7s Jd 9c]
+perten: checks
+degal76: bets $3
+perten: folds
+Uncalled bet ($3) returned to degal76
+degal76 collected $5.88 from pot
+degal76: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [7s Jd 9c]
+Seat 4: perten (big blind) folded on the Flop
+Seat 6: degal76 (button) (small blind) collected ($5.88)
+
+
+PokerStars Hand #157404344114:  Hold'em Limit ($3/$6 USD) - 2016/08/17 16:43:43 ET
+Table 'Hale-Bopp' 6-max Seat #4 is the button
+Seat 4: perten ($56.62 in chips)
+Seat 6: degal76 ($122.88 in chips)
+perten: posts small blind $1
+degal76: posts big blind $3
+*** HOLE CARDS ***
+perten: raises $3 to $6
+degal76: calls $3
+*** FLOP *** [2d 7h 7s]
+degal76: checks
+perten: bets $3
+degal76: calls $3
+*** TURN *** [2d 7h 7s] [Tc]
+degal76: checks
+perten: checks
+*** RIVER *** [2d 7h 7s Tc] [Ad]
+degal76: bets $6
+perten: calls $6
+*** SHOW DOWN ***
+degal76: shows [6s As] (two pair, Aces and Sevens)
+perten: shows [Ks Ac] (two pair, Aces and Sevens - King kicker)
+perten collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2d 7h 7s Tc Ad]
+Seat 4: perten (button) (small blind) showed [Ks Ac] and won ($29.50) with two pair, Aces and Sevens
+Seat 6: degal76 (big blind) showed [6s As] and lost with two pair, Aces and Sevens
+
+
+PokerStars Hand #157404705421:  Hold'em Limit ($3/$6 USD) - 2016/08/17 16:50:36 ET
+Table 'Hale-Bopp' 6-max Seat #3 is the button
+Seat 3: simper11 ($120 in chips)
+Seat 6: degal76 ($166.19 in chips)
+simper11: posts small blind $1
+perten: is sitting out
+degal76: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+degal76: raises $3 to $9
+simper11: calls $3
+*** FLOP *** [2s Qh Ah]
+degal76: bets $3
+simper11: calls $3
+*** TURN *** [2s Qh Ah] [3s]
+degal76: bets $6
+simper11: raises $6 to $12
+degal76: calls $6
+*** RIVER *** [2s Qh Ah 3s] [2h]
+degal76: checks
+simper11: bets $6
+degal76: calls $6
+*** SHOW DOWN ***
+simper11: shows [4s Ac] (two pair, Aces and Deuces)
+degal76: mucks hand
+simper11 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [2s Qh Ah 3s 2h]
+Seat 3: simper11 (button) (small blind) showed [4s Ac] and won ($59.50) with two pair, Aces and Deuces
+Seat 6: degal76 (big blind) mucked
+
+
+PokerStars Hand #157404728110:  Hold'em Limit ($3/$6 USD) - 2016/08/17 16:50:59 ET
+Table 'Hale-Bopp' 6-max Seat #6 is the button
+Seat 3: simper11 ($149.50 in chips)
+Seat 6: degal76 ($136.19 in chips)
+degal76: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+degal76: raises $3 to $6
+simper11: calls $3
+*** FLOP *** [6c 2d Kh]
+simper11: checks
+degal76: bets $3
+simper11: calls $3
+*** TURN *** [6c 2d Kh] [Ah]
+simper11: checks
+degal76: bets $6
+simper11: raises $6 to $12
+degal76: calls $6
+*** RIVER *** [6c 2d Kh Ah] [4s]
+simper11: bets $6
+degal76: calls $6
+*** SHOW DOWN ***
+simper11: shows [8c Ad] (a pair of Aces)
+degal76: mucks hand
+simper11 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [6c 2d Kh Ah 4s]
+Seat 3: simper11 (big blind) showed [8c Ad] and won ($53.50) with a pair of Aces
+Seat 6: degal76 (button) (small blind) mucked
+
+

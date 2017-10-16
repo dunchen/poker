@@ -1,0 +1,87 @@
+PokerStars Hand #162469255718:  Hold'em Limit ($3/$6 USD) - 2016/12/05 15:40:48 ET
+Table 'Phad II' 6-max Seat #2 is the button
+Seat 2: Mastjox ($63.93 in chips)
+Seat 3: kolaz03 ($95.53 in chips)
+Mastjox: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+Mastjox: raises $3 to $6
+kolaz03: calls $3
+*** FLOP *** [As 8c Qc]
+kolaz03: checks
+Mastjox: bets $3
+kolaz03: folds
+Uncalled bet ($3) returned to Mastjox
+Mastjox collected $11.76 from pot
+Mastjox: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [As 8c Qc]
+Seat 2: Mastjox (button) (small blind) collected ($11.76)
+Seat 3: kolaz03 (big blind) folded on the Flop
+
+
+PokerStars Hand #162469273198:  Hold'em Limit ($3/$6 USD) - 2016/12/05 15:41:04 ET
+Table 'Phad II' 6-max Seat #3 is the button
+Seat 2: Mastjox ($69.69 in chips)
+Seat 3: kolaz03 ($89.53 in chips)
+kolaz03: posts small blind $1
+Mastjox: posts big blind $3
+*** HOLE CARDS ***
+kolaz03: raises $3 to $6
+Mastjox: raises $3 to $9
+kolaz03: calls $3
+*** FLOP *** [9d Jh 5s]
+Mastjox: bets $3
+kolaz03: calls $3
+*** TURN *** [9d Jh 5s] [4s]
+Mastjox: bets $6
+BuzovaPro joins the table at seat #4
+kolaz03: raises $6 to $12
+Mastjox: raises $6 to $18
+kolaz03: calls $6
+*** RIVER *** [9d Jh 5s 4s] [Td]
+Mastjox: bets $6
+kolaz03: calls $6
+*** SHOW DOWN ***
+Mastjox: shows [Js Ts] (two pair, Jacks and Tens)
+kolaz03: mucks hand
+Mastjox collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [9d Jh 5s 4s Td]
+Seat 2: Mastjox (big blind) showed [Js Ts] and won ($71.50) with two pair, Jacks and Tens
+Seat 3: kolaz03 (button) (small blind) mucked
+
+
+PokerStars Hand #162469289792:  Hold'em Limit ($3/$6 USD) - 2016/12/05 15:41:20 ET
+Table 'Phad II' 6-max Seat #2 is the button
+Seat 2: Mastjox ($105.19 in chips)
+Seat 3: kolaz03 ($72 in chips)
+Mastjox: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+Mastjox: raises $3 to $6
+kolaz03: calls $3
+*** FLOP *** [As 3s 4h]
+kolaz03: checks
+Mastjox: bets $3
+kolaz03: calls $3
+*** TURN *** [As 3s 4h] [Ah]
+kolaz03: checks
+Mastjox: checks
+*** RIVER *** [As 3s 4h Ah] [Kc]
+kolaz03: checks
+Mastjox: bets $6
+kolaz03: calls $6
+*** SHOW DOWN ***
+Mastjox: shows [Js Kh] (two pair, Aces and Kings)
+kolaz03: mucks hand
+Mastjox collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [As 3s 4h Ah Kc]
+Seat 2: Mastjox (button) (small blind) showed [Js Kh] and won ($29.50) with two pair, Aces and Kings
+Seat 3: kolaz03 (big blind) mucked
+
+

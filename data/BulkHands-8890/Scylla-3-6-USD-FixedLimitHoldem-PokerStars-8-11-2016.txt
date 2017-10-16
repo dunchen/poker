@@ -1,0 +1,124 @@
+PokerStars Hand #157154520575:  Hold'em Limit ($3/$6 USD) - 2016/08/11 15:48:08 ET
+Table 'Scylla' 6-max Seat #3 is the button
+Seat 3: simper11 ($140.50 in chips)
+Seat 6: Kaukadiginte ($99 in chips)
+simper11: posts small blind $1
+Kaukadiginte: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+Kaukadiginte: calls $3
+*** FLOP *** [6c 9h 5d]
+Kaukadiginte: bets $3
+simper11: calls $3
+*** TURN *** [6c 9h 5d] [6s]
+Kaukadiginte: bets $6
+simper11: raises $6 to $12
+Kaukadiginte: calls $6
+*** RIVER *** [6c 9h 5d 6s] [9s]
+Kaukadiginte: bets $6
+simper11: calls $6
+*** SHOW DOWN ***
+Kaukadiginte: shows [6h 7s] (a full house, Sixes full of Nines)
+simper11: shows [7d 6d] (a full house, Sixes full of Nines)
+Kaukadiginte collected $26.75 from pot
+simper11 collected $26.75 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [6c 9h 5d 6s 9s]
+Seat 3: simper11 (button) (small blind) showed [7d 6d] and won ($26.75) with a full house, Sixes full of Nines
+Seat 6: Kaukadiginte (big blind) showed [6h 7s] and won ($26.75) with a full house, Sixes full of Nines
+
+
+PokerStars Hand #157154533964:  Hold'em Limit ($3/$6 USD) - 2016/08/11 15:48:25 ET
+Table 'Scylla' 6-max Seat #6 is the button
+Seat 3: simper11 ($140.25 in chips)
+Seat 6: Kaukadiginte ($98.75 in chips)
+Kaukadiginte: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+Kaukadiginte: calls $2
+simper11: raises $3 to $6
+Kaukadiginte: calls $3
+*** FLOP *** [8s Ac 3c]
+simper11: bets $3
+Kaukadiginte: calls $3
+*** TURN *** [8s Ac 3c] [Kd]
+simper11: bets $6
+Kaukadiginte: calls $6
+*** RIVER *** [8s Ac 3c Kd] [2d]
+simper11: bets $6
+Kaukadiginte: calls $6
+*** SHOW DOWN ***
+simper11: shows [Qd Js] (high card Ace)
+Kaukadiginte: shows [4c 8c] (a pair of Eights)
+Kaukadiginte collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [8s Ac 3c Kd 2d]
+Seat 3: simper11 (big blind) showed [Qd Js] and lost with high card Ace
+Seat 6: Kaukadiginte (button) (small blind) showed [4c 8c] and won ($41.50) with a pair of Eights
+
+
+PokerStars Hand #157154546178:  Hold'em Limit ($3/$6 USD) - 2016/08/11 15:48:40 ET
+Table 'Scylla' 6-max Seat #3 is the button
+Seat 3: simper11 ($120 in chips)
+Seat 6: Kaukadiginte ($119.25 in chips)
+simper11: posts small blind $1
+Kaukadiginte: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+Kaukadiginte: calls $3
+*** FLOP *** [6d 8h 8d]
+Kaukadiginte: checks
+simper11: bets $3
+Kaukadiginte: calls $3
+*** TURN *** [6d 8h 8d] [5h]
+kismespit joins the table at seat #2
+Kaukadiginte: checks
+simper11: bets $6
+Kaukadiginte: calls $6
+*** RIVER *** [6d 8h 8d 5h] [Qd]
+Kaukadiginte: bets $6
+simper11: raises $6 to $12
+Kaukadiginte: calls $6
+*** SHOW DOWN ***
+simper11: shows [4c 8c] (three of a kind, Eights)
+Kaukadiginte: shows [Jd 3d] (a flush, Queen high)
+Kaukadiginte collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [6d 8h 8d 5h Qd]
+Seat 3: simper11 (button) (small blind) showed [4c 8c] and lost with three of a kind, Eights
+Seat 6: Kaukadiginte (big blind) showed [Jd 3d] and won ($53.50) with a flush, Queen high
+
+
+PokerStars Hand #157154500246:  Hold'em Limit ($3/$6 USD) - 2016/08/11 15:47:42 ET
+Table 'Scylla' 6-max Seat #6 is the button
+Seat 3: simper11 ($120 in chips)
+Seat 6: Kaukadiginte ($120 in chips)
+Kaukadiginte: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+Kaukadiginte: calls $2
+simper11: raises $3 to $6
+Kaukadiginte: calls $3
+*** FLOP *** [Tc Js 9h]
+simper11: bets $3
+Kaukadiginte: calls $3
+*** TURN *** [Tc Js 9h] [6c]
+simper11: bets $6
+Kaukadiginte: calls $6
+*** RIVER *** [Tc Js 9h 6c] [Qd]
+simper11: bets $6
+Kaukadiginte: calls $6
+*** SHOW DOWN ***
+simper11: shows [8s 8c] (a straight, Eight to Queen)
+Kaukadiginte: mucks hand
+simper11 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Tc Js 9h 6c Qd]
+Seat 3: simper11 (big blind) showed [8s 8c] and won ($41.50) with a straight, Eight to Queen
+Seat 6: Kaukadiginte (button) (small blind) mucked
+
+

@@ -1,0 +1,111 @@
+PokerStars Hand #161148665669:  Hold'em Limit ($3/$6 USD) - 2016/11/09 13:19:46 ET
+Table 'Lilofee III' 6-max Seat #3 is the button
+Seat 3: juliteus ($65.63 in chips)
+Seat 4: assitoni ($72 in chips)
+juliteus: posts small blind $1
+assitoni: posts big blind $3
+*** HOLE CARDS ***
+Hi Im Alexey joins the table at seat #6
+juliteus: folds
+Uncalled bet ($2) returned to assitoni
+assitoni collected $2 from pot
+assitoni: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: juliteus (button) (small blind) folded before Flop
+Seat 4: assitoni (big blind) collected ($2)
+
+
+PokerStars Hand #161148680098:  Hold'em Limit ($3/$6 USD) - 2016/11/09 13:20:03 ET
+Table 'Lilofee III' 6-max Seat #6 is the button
+Seat 4: assitoni ($72 in chips)
+Seat 6: Hi Im Alexey ($73 in chips)
+Hi Im Alexey: posts small blind $1
+assitoni: posts big blind $3
+*** HOLE CARDS ***
+Hi Im Alexey: raises $3 to $6
+assitoni: raises $3 to $9
+juliteus joins the table at seat #2
+Hi Im Alexey: calls $3
+*** FLOP *** [As 8d 5c]
+assitoni: bets $3
+Hi Im Alexey: calls $3
+*** TURN *** [As 8d 5c] [7d]
+assitoni: bets $6
+Hi Im Alexey: calls $6
+*** RIVER *** [As 8d 5c 7d] [8h]
+assitoni: bets $6
+Hi Im Alexey: calls $6
+*** SHOW DOWN ***
+assitoni: shows [2s 2h] (two pair, Eights and Deuces)
+Hi Im Alexey: shows [5d Ks] (two pair, Eights and Fives)
+Hi Im Alexey collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [As 8d 5c 7d 8h]
+Seat 4: assitoni (big blind) showed [2s 2h] and lost with two pair, Eights and Deuces
+Seat 6: Hi Im Alexey (button) (small blind) showed [5d Ks] and won ($47.50) with two pair, Eights and Fives
+
+
+PokerStars Hand #161148749438:  Hold'em Limit ($3/$6 USD) - 2016/11/09 13:21:21 ET
+Table 'Lilofee III' 6-max Seat #2 is the button
+Seat 2: juliteus ($64.63 in chips)
+Seat 6: Hi Im Alexey ($96.50 in chips)
+juliteus: posts small blind $1
+assitoni: is sitting out
+Hi Im Alexey: posts big blind $3
+*** HOLE CARDS ***
+juliteus: raises $3 to $6
+Hi Im Alexey: calls $3
+*** FLOP *** [5c 7c 8c]
+Hi Im Alexey: checks
+juliteus: bets $3
+Hi Im Alexey: calls $3
+*** TURN *** [5c 7c 8c] [Kh]
+Hi Im Alexey: checks
+juliteus: bets $6
+Hi Im Alexey: calls $6
+*** RIVER *** [5c 7c 8c Kh] [4c]
+Hi Im Alexey: checks
+juliteus: bets $6
+Hi Im Alexey: calls $6
+*** SHOW DOWN ***
+juliteus: shows [Jc 9s] (a flush, Jack high)
+kolaz03 joins the table at seat #3
+Hi Im Alexey: mucks hand
+juliteus collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [5c 7c 8c Kh 4c]
+Seat 2: juliteus (button) (small blind) showed [Jc 9s] and won ($41.50) with a flush, Jack high
+Seat 6: Hi Im Alexey (big blind) mucked
+
+
+PokerStars Hand #161148801556:  Hold'em Limit ($3/$6 USD) - 2016/11/09 13:22:20 ET
+Table 'Lilofee III' 6-max Seat #6 is the button
+Seat 2: juliteus ($85.13 in chips)
+Seat 6: Hi Im Alexey ($75.50 in chips)
+Hi Im Alexey: posts small blind $1
+juliteus: posts big blind $3
+*** HOLE CARDS ***
+Hi Im Alexey: raises $3 to $6
+juliteus: calls $3
+*** FLOP *** [Qh Ac Tc]
+juliteus: checks
+Hi Im Alexey: bets $3
+juliteus: calls $3
+*** TURN *** [Qh Ac Tc] [As]
+juliteus: checks
+Hi Im Alexey: checks
+*** RIVER *** [Qh Ac Tc As] [3s]
+juliteus: bets $6
+Hi Im Alexey: folds
+Uncalled bet ($6) returned to juliteus
+juliteus collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qh Ac Tc As 3s]
+Seat 2: juliteus (big blind) collected ($17.64)
+Seat 6: Hi Im Alexey (button) (small blind) folded on the River
+
+

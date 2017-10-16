@@ -1,0 +1,63 @@
+PokerStars Hand #174365883241:  Hold'em Limit ($3/$6 USD) - 2017/08/15 11:27:01 ET
+Table 'Volga' 6-max Seat #1 is the button
+Seat 1: Zubasa07 ($300 in chips)
+Seat 2: apx0surry9 ($120 in chips)
+Zubasa07: posts small blind $1
+apx0surry9: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+apx0surry9: raises $3 to $9
+Zubasa07: calls $3
+*** FLOP *** [2s 4c Kc]
+apx0surry9: bets $3
+Zubasa07: calls $3
+*** TURN *** [2s 4c Kc] [Qd]
+apx0surry9: bets $6
+Zubasa07: calls $6
+*** RIVER *** [2s 4c Kc Qd] [8c]
+apx0surry9: bets $6
+B_loJkl joins the table at seat #3
+Zubasa07: calls $6
+*** SHOW DOWN ***
+apx0surry9: shows [8d Ac] (a pair of Eights)
+Zubasa07: shows [Js Jh] (a pair of Jacks)
+Zubasa07 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2s 4c Kc Qd 8c]
+Seat 1: Zubasa07 (button) (small blind) showed [Js Jh] and won ($47.50) with a pair of Jacks
+Seat 2: apx0surry9 (big blind) showed [8d Ac] and lost with a pair of Eights
+
+
+PokerStars Hand #174366659943:  Hold'em Limit ($3/$6 USD) - 2017/08/15 11:48:56 ET
+Table 'Volga' 6-max Seat #4 is the button
+Seat 3: B_loJkl ($137.46 in chips)
+Seat 4: Zazi ($164.39 in chips)
+Zazi: posts small blind $1
+krytalex: is sitting out
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Zazi: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Kh 7h 9d]
+B_loJkl: checks
+Zazi: bets $3
+B_loJkl: calls $3
+*** TURN *** [Kh 7h 9d] [Js]
+B_loJkl: checks
+Zazi: bets $6
+B_loJkl: calls $6
+*** RIVER *** [Kh 7h 9d Js] [7s]
+B_loJkl: checks
+Zazi: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to Zazi
+Zazi collected $29.50 from pot
+Zazi: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kh 7h 9d Js 7s]
+Seat 3: B_loJkl (big blind) folded on the River
+Seat 4: Zazi (button) (small blind) collected ($29.50)
+
+

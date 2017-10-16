@@ -1,0 +1,124 @@
+PokerStars Hand #163489906237:  Hold'em Limit ($3/$6 USD) - 2016/12/25 8:21:07 ET
+Table 'Tureis' 10-max Seat #1 is the button
+Seat 1: VolkovDmitri ($121 in chips)
+Seat 10: LifeisagameX ($84 in chips)
+VolkovDmitri: posts small blind $1
+LifeisagameX: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+LifeisagameX: calls $3
+*** FLOP *** [Ts 2s Qd]
+LifeisagameX: checks
+VolkovDmitri: bets $3
+LifeisagameX: calls $3
+*** TURN *** [Ts 2s Qd] [5s]
+LifeisagameX: checks
+VolkovDmitri: bets $6
+LifeisagameX: calls $6
+*** RIVER *** [Ts 2s Qd 5s] [7h]
+LifeisagameX: checks
+VolkovDmitri: bets $6
+LifeisagameX: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [3d 6s] (high card Queen)
+LifeisagameX: shows [8c Td] (a pair of Tens)
+LifeisagameX collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ts 2s Qd 5s 7h]
+Seat 1: VolkovDmitri (button) (small blind) showed [3d 6s] and lost with high card Queen
+Seat 10: LifeisagameX (big blind) showed [8c Td] and won ($41.50) with a pair of Tens
+
+
+PokerStars Hand #163489948958:  Hold'em Limit ($3/$6 USD) - 2016/12/25 8:22:20 ET
+Table 'Tureis' 10-max Seat #10 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 10: LifeisagameX ($104.50 in chips)
+LifeisagameX: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [8d 6h 6d]
+VolkovDmitri: checks
+LifeisagameX: checks
+*** TURN *** [8d 6h 6d] [Js]
+VolkovDmitri: bets $6
+LifeisagameX: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8d 6h 6d Js]
+Seat 1: VolkovDmitri (big blind) collected ($11.76)
+Seat 10: LifeisagameX (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #163489996828:  Hold'em Limit ($3/$6 USD) - 2016/12/25 8:23:41 ET
+Table 'Tureis' 10-max Seat #1 is the button
+Seat 1: VolkovDmitri ($125.76 in chips)
+Seat 10: LifeisagameX ($98.50 in chips)
+VolkovDmitri: posts small blind $1
+LifeisagameX: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+LifeisagameX: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [3h 9s 2h]
+LifeisagameX: bets $3
+VolkovDmitri: raises $3 to $6
+LifeisagameX: calls $3
+*** TURN *** [3h 9s 2h] [Kc]
+LifeisagameX: checks
+VolkovDmitri: bets $6
+LifeisagameX: calls $6
+*** RIVER *** [3h 9s 2h Kc] [4s]
+XJZD joins the table at seat #6
+LifeisagameX: checks
+VolkovDmitri: bets $6
+LifeisagameX: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $41.50 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [3h 9s 2h Kc 4s]
+Seat 1: VolkovDmitri (button) (small blind) collected ($41.50)
+Seat 10: LifeisagameX (big blind) folded on the River
+
+
+PokerStars Hand #163490063146:  Hold'em Limit ($3/$6 USD) - 2016/12/25 8:25:36 ET
+Table 'Tureis' 10-max Seat #10 is the button
+Seat 6: XJZD ($120 in chips)
+Seat 10: LifeisagameX ($84 in chips)
+LifeisagameX: posts small blind $1
+XJZD: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri leaves the table
+VolkovDmitri joins the table at seat #7
+LifeisagameX: raises $3 to $6
+XJZD: raises $3 to $9
+LifeisagameX: calls $3
+*** FLOP *** [2d 8d Th]
+XJZD: bets $3
+LifeisagameX: calls $3
+*** TURN *** [2d 8d Th] [5d]
+XJZD: checks
+LifeisagameX: bets $6
+XJZD: calls $6
+*** RIVER *** [2d 8d Th 5d] [3d]
+XJZD: checks
+LifeisagameX: bets $6
+XJZD: calls $6
+*** SHOW DOWN ***
+LifeisagameX: shows [Kd Jd] (a flush, King high)
+XJZD: mucks hand
+LifeisagameX collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2d 8d Th 5d 3d]
+Seat 6: XJZD (big blind) mucked
+Seat 10: LifeisagameX (button) (small blind) showed [Kd Jd] and won ($47.50) with a flush, King high
+
+

@@ -1,0 +1,85 @@
+PokerStars Hand #145502908626:  Hold'em Limit ($3/$6 USD) - 2015/12/17 17:09:16 ET
+Table 'Janacek II' 2-max Seat #1 is the button
+Seat 1: elifnur2008 ($128.64 in chips)
+Seat 2: LV1994570 ($32.30 in chips)
+elifnur2008: posts small blind $1
+LV1994570: posts big blind $3
+*** HOLE CARDS ***
+elifnur2008: raises $3 to $6
+LV1994570: raises $3 to $9
+elifnur2008: raises $3 to $12
+Betting is capped
+LV1994570: calls $3
+*** FLOP *** [Js 6h 6c]
+LV1994570: bets $3
+elifnur2008: raises $3 to $6
+LV1994570: calls $3
+*** TURN *** [Js 6h 6c] [Kh]
+LV1994570: checks
+elifnur2008: bets $6
+LV1994570: calls $6
+*** RIVER *** [Js 6h 6c Kh] [Qh]
+LV1994570: checks
+elifnur2008: bets $6
+LV1994570: folds
+Uncalled bet ($6) returned to elifnur2008
+elifnur2008 collected $47.50 from pot
+elifnur2008: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Js 6h 6c Kh Qh]
+Seat 1: elifnur2008 (button) (small blind) collected ($47.50)
+Seat 2: LV1994570 (big blind) folded on the River
+
+
+PokerStars Hand #145502875421:  Hold'em Limit ($3/$6 USD) - 2015/12/17 17:08:39 ET
+Table 'Janacek II' 2-max Seat #2 is the button
+Seat 1: elifnur2008 ($120 in chips)
+Seat 2: LV1994570 ($41.30 in chips)
+LV1994570: posts small blind $1
+elifnur2008: posts big blind $3
+*** HOLE CARDS ***
+LV1994570: raises $3 to $6
+elifnur2008: calls $3
+*** FLOP *** [2h 8h Kh]
+elifnur2008: checks
+LV1994570: bets $3
+elifnur2008: calls $3
+*** TURN *** [2h 8h Kh] [4s]
+elifnur2008: bets $6
+LV1994570: folds
+Uncalled bet ($6) returned to elifnur2008
+elifnur2008 collected $17.64 from pot
+elifnur2008: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2h 8h Kh 4s]
+Seat 1: elifnur2008 (big blind) collected ($17.64)
+Seat 2: LV1994570 (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #145502927531:  Hold'em Limit ($3/$6 USD) - 2015/12/17 17:09:38 ET
+Table 'Janacek II' 2-max Seat #2 is the button
+Seat 1: elifnur2008 ($152.14 in chips)
+Seat 2: LV1994570 ($8.30 in chips)
+LV1994570: posts small blind $1
+elifnur2008: posts big blind $3
+*** HOLE CARDS ***
+LV1994570: raises $3 to $6
+elifnur2008: raises $3 to $9
+LV1994570: calls $2.30 and is all-in
+Uncalled bet ($0.70) returned to elifnur2008
+*** FLOP *** [Qd 4h Qc]
+*** TURN *** [Qd 4h Qc] [9h]
+*** RIVER *** [Qd 4h Qc 9h] [8d]
+*** SHOW DOWN ***
+elifnur2008: shows [As 5d] (a pair of Queens)
+LV1994570: shows [6c Js] (a pair of Queens - lower kicker)
+elifnur2008 collected $16.27 from pot
+*** SUMMARY ***
+Total pot $16.60 | Rake $0.33
+Board [Qd 4h Qc 9h 8d]
+Seat 1: elifnur2008 (big blind) showed [As 5d] and won ($16.27) with a pair of Queens
+Seat 2: LV1994570 (button) (small blind) showed [6c Js] and lost with a pair of Queens
+
+

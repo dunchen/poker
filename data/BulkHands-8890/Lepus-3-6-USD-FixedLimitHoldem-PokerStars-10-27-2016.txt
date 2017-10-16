@@ -1,0 +1,87 @@
+PokerStars Hand #160495827374:  Hold'em Limit ($3/$6 USD) - 2016/10/27 1:37:27 ET
+Table 'Lepus' 6-max Seat #4 is the button
+Seat 3: wingskid666 ($252.01 in chips)
+Seat 4: Nyalya ($259.59 in chips)
+Nyalya: posts small blind $1
+vad_hor: is sitting out
+wingskid666: posts big blind $3
+*** HOLE CARDS ***
+Nyalya: raises $3 to $6
+wingskid666: calls $3
+*** FLOP *** [2c 9s Jh]
+vad_hor leaves the table
+wingskid666: checks
+Nyalya: bets $3
+wingskid666: folds
+Uncalled bet ($3) returned to Nyalya
+Nyalya collected $11.76 from pot
+Nyalya: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2c 9s Jh]
+Seat 3: wingskid666 (big blind) folded on the Flop
+Seat 4: Nyalya (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #160495833626:  Hold'em Limit ($3/$6 USD) - 2016/10/27 1:37:54 ET
+Table 'Lepus' 6-max Seat #4 is the button
+Seat 3: wingskid666 ($231.01 in chips)
+Seat 4: Nyalya ($279.85 in chips)
+Nyalya: posts small blind $1
+wingskid666: posts big blind $3
+*** HOLE CARDS ***
+Nyalya: raises $3 to $6
+wingskid666: calls $3
+*** FLOP *** [9c Kh 5s]
+wingskid666: checks
+Nyalya: bets $3
+wingskid666: calls $3
+*** TURN *** [9c Kh 5s] [4c]
+wingskid666: checks
+Nyalya: bets $6
+wingskid666: calls $6
+*** RIVER *** [9c Kh 5s 4c] [7s]
+wingskid666: checks
+Nyalya: bets $6
+wingskid666: calls $6
+*** SHOW DOWN ***
+Nyalya: shows [3h Kd] (a pair of Kings)
+wingskid666: mucks hand
+Nyalya collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9c Kh 5s 4c 7s]
+Seat 3: wingskid666 (big blind) mucked
+Seat 4: Nyalya (button) (small blind) showed [3h Kd] and won ($41.50) with a pair of Kings
+
+
+PokerStars Hand #160495829710:  Hold'em Limit ($3/$6 USD) - 2016/10/27 1:37:37 ET
+Table 'Lepus' 6-max Seat #3 is the button
+Seat 3: wingskid666 ($246.01 in chips)
+Seat 4: Nyalya ($265.35 in chips)
+wingskid666: posts small blind $1
+Nyalya: posts big blind $3
+*** HOLE CARDS ***
+wingskid666: raises $3 to $6
+Nyalya: calls $3
+*** FLOP *** [Kd 9h Kc]
+Nyalya: checks
+wingskid666: bets $3
+Nyalya: calls $3
+*** TURN *** [Kd 9h Kc] [Qc]
+Nyalya: checks
+wingskid666: checks
+*** RIVER *** [Kd 9h Kc Qc] [5s]
+Nyalya: bets $6
+wingskid666: calls $6
+*** SHOW DOWN ***
+Nyalya: shows [7c Qs] (two pair, Kings and Queens)
+wingskid666: mucks hand
+Nyalya collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kd 9h Kc Qc 5s]
+Seat 3: wingskid666 (button) (small blind) mucked
+Seat 4: Nyalya (big blind) showed [7c Qs] and won ($29.50) with two pair, Kings and Queens
+
+

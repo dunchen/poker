@@ -1,0 +1,64 @@
+PokerStars Hand #161730333407:  Hold'em Limit ($3/$6 USD) - 2016/11/21 4:39:42 ET
+Table 'Agamemnon' 10-max Seat #6 is the button
+Seat 1: sinsadir ($120 in chips)
+Seat 6: Ale4o ($134.10 in chips)
+Ale4o: posts small blind $1
+varonye leaves the table
+sinsadir: posts big blind $3
+*** HOLE CARDS ***
+Ale4o: raises $3 to $6
+sinsadir: raises $3 to $9
+Ale4o: calls $3
+*** FLOP *** [Ad 2c 5d]
+sinsadir: bets $3
+Ale4o: raises $3 to $6
+sinsadir: calls $3
+*** TURN *** [Ad 2c 5d] [Ts]
+sinsadir: checks
+Ale4o: bets $6
+sinsadir: calls $6
+*** RIVER *** [Ad 2c 5d Ts] [Qc]
+sinsadir: checks
+Ale4o: checks
+*** SHOW DOWN ***
+sinsadir: shows [Jh Js] (a pair of Jacks)
+Ale4o: mucks hand
+sinsadir collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ad 2c 5d Ts Qc]
+Seat 1: sinsadir (big blind) showed [Jh Js] and won ($41.50) with a pair of Jacks
+Seat 6: Ale4o (button) (small blind) mucked
+
+
+PokerStars Hand #161730344536:  Hold'em Limit ($3/$6 USD) - 2016/11/21 4:40:13 ET
+Table 'Agamemnon' 10-max Seat #1 is the button
+Seat 1: sinsadir ($140.50 in chips)
+Seat 6: Ale4o ($113.10 in chips)
+sinsadir: posts small blind $1
+Ale4o: posts big blind $3
+*** HOLE CARDS ***
+sinsadir: raises $3 to $6
+Ale4o: calls $3
+*** FLOP *** [Td 8d 3h]
+Ale4o: checks
+sinsadir: bets $3
+Ale4o: calls $3
+*** TURN *** [Td 8d 3h] [Tc]
+Ale4o: checks
+sinsadir: bets $6
+Ale4o: calls $6
+*** RIVER *** [Td 8d 3h Tc] [8h]
+Ale4o: checks
+sinsadir: bets $6
+Ale4o: folds
+Uncalled bet ($6) returned to sinsadir
+sinsadir collected $29.50 from pot
+sinsadir: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Td 8d 3h Tc 8h]
+Seat 1: sinsadir (button) (small blind) collected ($29.50)
+Seat 6: Ale4o (big blind) folded on the River
+
+

@@ -1,0 +1,33 @@
+PokerStars Hand #145217001526:  Hold'em Limit ($3/$6 USD) - 2015/12/12 6:05:22 ET
+Table 'Adelinda II' 6-max Seat #1 is the button
+Seat 1: voloda boris ($39.92 in chips)
+Seat 2: BuzovaPro ($92.50 in chips)
+voloda boris: posts small blind $1
+BuzovaPro: posts big blind $3
+*** HOLE CARDS ***
+voloda boris: calls $2
+BuzovaPro: raises $3 to $6
+voloda boris: calls $3
+*** FLOP *** [4s Qc Qd]
+BuzovaPro: bets $3
+voloda boris: raises $3 to $6
+BuzovaPro: calls $3
+*** TURN *** [4s Qc Qd] [3h]
+BuzovaPro: checks
+voloda boris: bets $6
+BuzovaPro: calls $6
+*** RIVER *** [4s Qc Qd 3h] [6h]
+BuzovaPro: checks
+voloda boris: bets $6
+BuzovaPro: calls $6
+*** SHOW DOWN ***
+voloda boris: shows [Ad 8s] (a pair of Queens)
+BuzovaPro: shows [Tc Ts] (two pair, Queens and Tens)
+BuzovaPro collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4s Qc Qd 3h 6h]
+Seat 1: voloda boris (button) (small blind) showed [Ad 8s] and lost with a pair of Queens
+Seat 2: BuzovaPro (big blind) showed [Tc Ts] and won ($47.50) with two pair, Queens and Tens
+
+

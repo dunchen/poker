@@ -1,0 +1,36 @@
+PokerStars Hand #174837333781:  Hold'em Limit ($3/$6 USD) - 2017/08/26 19:37:41 ET
+Table 'Amaryllis' 6-max Seat #2 is the button
+Seat 1: Chessnok ($164.93 in chips)
+Seat 2: favete lin ($94.56 in chips)
+favete lin: posts small blind $1
+Great_Kang: is sitting out
+ToDaFelt: is sitting out
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+favete lin: raises $3 to $6
+ToDaFelt leaves the table
+Great_Kang leaves the table
+Chessnok: calls $3
+*** FLOP *** [7c As 9h]
+Chessnok: checks
+favete lin: bets $3
+Chessnok: raises $3 to $6
+favete lin: calls $3
+*** TURN *** [7c As 9h] [3s]
+Chessnok: bets $6
+favete lin: calls $6
+*** RIVER *** [7c As 9h 3s] [9d]
+Chessnok: checks
+favete lin: bets $6
+Chessnok: calls $6
+*** SHOW DOWN ***
+favete lin: shows [2s Ac] (two pair, Aces and Nines)
+Chessnok: mucks hand
+favete lin collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7c As 9h 3s 9d]
+Seat 1: Chessnok (big blind) mucked
+Seat 2: favete lin (button) (small blind) showed [2s Ac] and won ($47.50) with two pair, Aces and Nines
+
+

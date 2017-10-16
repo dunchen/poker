@@ -1,0 +1,93 @@
+PokerStars Hand #166982619425:  Hold'em Limit ($3/$6 USD) - 2017/03/01 22:21:57 ET
+Table 'Aiguillon' 6-max Seat #1 is the button
+Seat 1: LifeisagameX ($84 in chips)
+Seat 3: Brama Br ($120 in chips)
+LifeisagameX: posts small blind $1
+Brama Br: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+Brama Br: calls $3
+*** FLOP *** [5d 6d Kd]
+Brama Br: checks
+LifeisagameX: bets $3
+Brama Br: calls $3
+*** TURN *** [5d 6d Kd] [3h]
+Brama Br: checks
+LifeisagameX: checks
+*** RIVER *** [5d 6d Kd 3h] [Ac]
+Brama Br: bets $6
+alpha2777 joins the table at seat #4
+LifeisagameX: calls $6
+*** SHOW DOWN ***
+Brama Br: shows [8s 6s] (a pair of Sixes)
+LifeisagameX: mucks hand
+Brama Br collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5d 6d Kd 3h Ac]
+Seat 1: LifeisagameX (button) (small blind) mucked
+Seat 3: Brama Br (big blind) showed [8s 6s] and won ($29.50) with a pair of Sixes
+
+
+PokerStars Hand #166982708599:  Hold'em Limit ($3/$6 USD) - 2017/03/01 22:26:00 ET
+Table 'Aiguillon' 6-max Seat #4 is the button
+Seat 3: Brama Br ($116 in chips)
+Seat 4: alpha2777 ($110.28 in chips)
+alpha2777: posts small blind $1
+Brama Br: posts big blind $3
+*** HOLE CARDS ***
+alpha2777: raises $3 to $6
+Brama Br: calls $3
+*** FLOP *** [3d Js 6d]
+Brama Br: checks
+alpha2777: bets $3
+Brama Br: calls $3
+*** TURN *** [3d Js 6d] [3h]
+LifeisagameX leaves the table
+Brama Br: checks
+alpha2777: bets $6
+Brama Br: folds
+Uncalled bet ($6) returned to alpha2777
+alpha2777 collected $17.64 from pot
+alpha2777: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3d Js 6d 3h]
+Seat 3: Brama Br (big blind) folded on the Turn
+Seat 4: alpha2777 (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #166982698690:  Hold'em Limit ($3/$6 USD) - 2017/03/01 22:25:32 ET
+Table 'Aiguillon' 6-max Seat #3 is the button
+Seat 3: Brama Br ($95.50 in chips)
+Seat 4: alpha2777 ($131.28 in chips)
+Brama Br: posts small blind $1
+alpha2777: posts big blind $3
+*** HOLE CARDS ***
+Brama Br: raises $3 to $6
+alpha2777: raises $3 to $9
+Brama Br: raises $3 to $12
+Betting is capped
+alpha2777: calls $3
+*** FLOP *** [Qc 3h Tc]
+alpha2777: checks
+Brama Br: bets $3
+alpha2777: calls $3
+*** TURN *** [Qc 3h Tc] [6c]
+alpha2777: checks
+Brama Br: bets $6
+alpha2777: calls $6
+*** RIVER *** [Qc 3h Tc 6c] [9s]
+alpha2777: checks
+Brama Br: checks
+*** SHOW DOWN ***
+alpha2777: shows [Ah Kh] (high card Ace)
+Brama Br: shows [8s Th] (a pair of Tens)
+Brama Br collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Qc 3h Tc 6c 9s]
+Seat 3: Brama Br (button) (small blind) showed [8s Th] and won ($41.50) with a pair of Tens
+Seat 4: alpha2777 (big blind) showed [Ah Kh] and lost with high card Ace
+
+

@@ -1,0 +1,35 @@
+PokerStars Hand #149225647432:  Hold'em Limit ($3/$6 USD) - 2016/02/22 5:27:49 ET
+Table 'Chlosinde II' 6-max Seat #2 is the button
+Seat 2: morwenna ($30 in chips)
+Seat 3: DismasX ($78 in chips)
+morwenna: posts small blind $1
+DismasX: posts big blind $3
+*** HOLE CARDS ***
+morwenna: raises $3 to $6
+DismasX: calls $3
+*** FLOP *** [4h 2d 2s]
+DismasX: checks
+morwenna: bets $3
+DismasX: calls $3
+*** TURN *** [4h 2d 2s] [6s]
+DismasX: checks
+morwenna: bets $6
+DismasX: raises $6 to $12
+morwenna: raises $6 to $18
+shawnm20 joins the table at seat #6
+DismasX: raises $6 to $24
+Betting is capped
+morwenna: calls $3 and is all-in
+Uncalled bet ($3) returned to DismasX
+*** RIVER *** [4h 2d 2s 6s] [5s]
+*** SHOW DOWN ***
+DismasX: shows [Ks 4s] (a flush, King high)
+morwenna: mucks hand
+DismasX collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [4h 2d 2s 6s 5s]
+Seat 2: morwenna (button) (small blind) mucked
+Seat 3: DismasX (big blind) showed [Ks 4s] and won ($59.50) with a flush, King high
+
+

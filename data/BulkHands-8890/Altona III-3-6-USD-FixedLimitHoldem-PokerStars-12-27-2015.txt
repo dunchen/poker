@@ -1,0 +1,34 @@
+PokerStars Hand #146027346176:  Hold'em Limit ($3/$6 USD) - 2015/12/27 17:12:36 ET
+Table 'Altona III' 6-max Seat #3 is the button
+Seat 1: korrnel ($145.08 in chips)
+Seat 3: McHaddock ($101.83 in chips)
+McHaddock: posts small blind $1
+Pandakey: is sitting out
+korrnel: posts big blind $3
+*** HOLE CARDS ***
+Pandakey leaves the table
+McHaddock: raises $3 to $6
+korrnel: calls $3
+*** FLOP *** [Tc Ks 5d]
+korrnel: checks
+McHaddock: bets $3
+korrnel: calls $3
+*** TURN *** [Tc Ks 5d] [7h]
+korrnel: checks
+McHaddock: bets $6
+korrnel: raises $6 to $12
+McHaddock: calls $6
+*** RIVER *** [Tc Ks 5d 7h] [3d]
+korrnel: bets $6
+McHaddock: calls $6
+*** SHOW DOWN ***
+korrnel: shows [Jc 9c] (high card King)
+McHaddock: shows [Kh 2c] (a pair of Kings)
+McHaddock collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Tc Ks 5d 7h 3d]
+Seat 1: korrnel (big blind) showed [Jc 9c] and lost with high card King
+Seat 3: McHaddock (button) (small blind) showed [Kh 2c] and won ($53.50) with a pair of Kings
+
+

@@ -1,0 +1,71 @@
+PokerStars Hand #174533456825:  Hold'em Limit ($3/$6 USD) - 2017/08/19 13:09:34 ET
+Table 'Kale' 6-max Seat #5 is the button
+Seat 3: largopass ($55.22 in chips)
+Seat 5: krytalex ($121 in chips)
+krytalex: posts small blind $1
+largopass: posts big blind $3
+*** HOLE CARDS ***
+krytalex: raises $3 to $6
+largopass: calls $3
+*** FLOP *** [4h 9s 8d]
+largopass: checks
+krytalex: checks
+*** TURN *** [4h 9s 8d] [5c]
+largopass: bets $6
+krytalex: folds
+Uncalled bet ($6) returned to largopass
+largopass collected $11.76 from pot
+largopass: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4h 9s 8d 5c]
+Seat 3: largopass (big blind) collected ($11.76)
+Seat 5: krytalex (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #174533497119:  Hold'em Limit ($3/$6 USD) - 2017/08/19 13:10:37 ET
+Table 'Kale' 6-max Seat #5 is the button
+Seat 3: largopass ($48.98 in chips)
+Seat 5: krytalex ($126.52 in chips)
+krytalex: posts small blind $1
+largopass: posts big blind $3
+*** HOLE CARDS ***
+krytalex: folds
+Uncalled bet ($2) returned to largopass
+largopass collected $2 from pot
+largopass: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: largopass (big blind) collected ($2)
+Seat 5: krytalex (button) (small blind) folded before Flop
+
+
+PokerStars Hand #174533468872:  Hold'em Limit ($3/$6 USD) - 2017/08/19 13:09:53 ET
+Table 'Kale' 6-max Seat #3 is the button
+Seat 3: largopass ($60.98 in chips)
+Seat 5: krytalex ($115 in chips)
+largopass: posts small blind $1
+krytalex: posts big blind $3
+*** HOLE CARDS ***
+largopass: calls $2
+krytalex: raises $3 to $6
+largopass: calls $3
+*** FLOP *** [9h 2s 3s]
+B_loJkl joins the table at seat #4
+krytalex: checks
+largopass: checks
+*** TURN *** [9h 2s 3s] [Qd]
+krytalex: bets $6
+largopass: calls $6
+*** RIVER *** [9h 2s 3s Qd] [Kd]
+krytalex: bets $6
+largopass: folds
+Uncalled bet ($6) returned to krytalex
+krytalex collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [9h 2s 3s Qd Kd]
+Seat 3: largopass (button) (small blind) folded on the River
+Seat 5: krytalex (big blind) collected ($23.52)
+
+

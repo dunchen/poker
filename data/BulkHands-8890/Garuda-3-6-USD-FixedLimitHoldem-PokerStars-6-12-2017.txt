@@ -1,0 +1,32 @@
+PokerStars Hand #171684492543:  Hold'em Limit ($3/$6 USD) - 2017/06/12 13:00:32 ET
+Table 'Garuda' 6-max Seat #1 is the button
+Seat 1: igorkabmw ($48.45 in chips)
+Seat 3: vestimokrec ($106.14 in chips)
+igorkabmw: posts small blind $1
+kolaz03: is sitting out
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+igorkabmw: calls $2
+Labolina77 joins the table at seat #6
+vestimokrec: checks
+*** FLOP *** [Qc 9h 5h]
+vestimokrec: checks
+igorkabmw: checks
+*** TURN *** [Qc 9h 5h] [Kh]
+vestimokrec: bets $6
+igorkabmw: calls $6
+*** RIVER *** [Qc 9h 5h Kh] [9c]
+vestimokrec: checks
+igorkabmw: checks
+*** SHOW DOWN ***
+vestimokrec: shows [Kd 7d] (two pair, Kings and Nines)
+igorkabmw: shows [3d Ks] (two pair, Kings and Nines)
+vestimokrec collected $8.82 from pot
+igorkabmw collected $8.82 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qc 9h 5h Kh 9c]
+Seat 1: igorkabmw (button) (small blind) showed [3d Ks] and won ($8.82) with two pair, Kings and Nines
+Seat 3: vestimokrec (big blind) showed [Kd 7d] and won ($8.82) with two pair, Kings and Nines
+
+

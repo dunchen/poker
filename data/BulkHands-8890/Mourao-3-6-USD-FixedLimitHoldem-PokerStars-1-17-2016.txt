@@ -1,0 +1,54 @@
+PokerStars Hand #147186062414:  Hold'em Limit ($3/$6 USD) - 2016/01/17 7:08:26 ET
+Table 'Mourao' 10-max Seat #1 is the button
+Seat 1: VolkovDmitri ($124 in chips)
+Seat 8: perten ($56.37 in chips)
+VolkovDmitri: posts small blind $1
+perten: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+perten: calls $3
+*** FLOP *** [9h 9d 4h]
+perten: checks
+VolkovDmitri: bets $3
+perten: calls $3
+*** TURN *** [9h 9d 4h] [7s]
+perten: checks
+VolkovDmitri: bets $6
+perten: calls $6
+*** RIVER *** [9h 9d 4h 7s] [6h]
+perten: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+perten: shows [Ks 7h] (two pair, Nines and Sevens)
+VolkovDmitri: mucks hand
+perten collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9h 9d 4h 7s 6h]
+Seat 1: VolkovDmitri (button) (small blind) mucked
+Seat 8: perten (big blind) showed [Ks 7h] and won ($29.50) with two pair, Nines and Sevens
+
+
+PokerStars Hand #147186077978:  Hold'em Limit ($3/$6 USD) - 2016/01/17 7:08:50 ET
+Table 'Mourao' 10-max Seat #8 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 8: perten ($70.87 in chips)
+perten: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+perten: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [3h Qd Th]
+VolkovDmitri: checks
+perten: bets $3
+VolkovDmitri: folds
+Uncalled bet ($3) returned to perten
+perten collected $11.76 from pot
+perten: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3h Qd Th]
+Seat 1: VolkovDmitri (big blind) folded on the Flop
+Seat 8: perten (button) (small blind) collected ($11.76)
+
+

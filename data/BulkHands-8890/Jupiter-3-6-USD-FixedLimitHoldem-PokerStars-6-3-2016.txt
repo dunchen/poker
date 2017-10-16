@@ -1,0 +1,637 @@
+PokerStars Hand #154240566266:  Hold'em Limit ($3/$6 USD) - 2016/06/03 14:44:38 ET
+Table 'Jupiter' 6-max Seat #1 is the button
+Seat 1: Velbor107 ($285 in chips)
+Seat 3: Alan The For ($79.10 in chips)
+Velbor107: posts small blind $1
+Alan The For: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean joins the table at seat #4
+Velbor107: raises $3 to $6
+Alan The For: folds
+Uncalled bet ($3) returned to Velbor107
+Velbor107 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: Velbor107 (button) (small blind) collected ($6)
+Seat 3: Alan The For (big blind) folded before Flop
+
+
+PokerStars Hand #154240529126:  Hold'em Limit ($3/$6 USD) - 2016/06/03 14:43:51 ET
+Table 'Jupiter' 6-max Seat #3 is the button
+Seat 1: Velbor107 ($303 in chips)
+Seat 3: Alan The For ($61.60 in chips)
+Alan The For: posts small blind $1
+Velbor107: posts big blind $3
+*** HOLE CARDS ***
+Alan The For: raises $3 to $6
+Velbor107: calls $3
+*** FLOP *** [4d Ac Kd]
+Velbor107: checks
+Alan The For: bets $3
+Velbor107: raises $3 to $6
+Alan The For: calls $3
+*** TURN *** [4d Ac Kd] [Qs]
+Velbor107: bets $6
+Alan The For: raises $6 to $12
+Velbor107: folds
+Uncalled bet ($6) returned to Alan The For
+Alan The For collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [4d Ac Kd Qs]
+Seat 1: Velbor107 (big blind) folded on the Turn
+Seat 3: Alan The For (button) (small blind) collected ($35.50)
+
+
+PokerStars Hand #154240659508:  Hold'em Limit ($3/$6 USD) - 2016/06/03 14:46:32 ET
+Table 'Jupiter' 6-max Seat #3 is the button
+Seat 3: Alan The For ($83.56 in chips)
+Seat 4: Tryptamean ($124 in chips)
+Alan The For: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+Alan The For: folds
+Uncalled bet ($2) returned to Tryptamean
+Tryptamean collected $2 from pot
+Tryptamean: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: Alan The For (button) (small blind) folded before Flop
+Seat 4: Tryptamean (big blind) collected ($2)
+
+
+PokerStars Hand #154240651570:  Hold'em Limit ($3/$6 USD) - 2016/06/03 14:46:22 ET
+Table 'Jupiter' 6-max Seat #4 is the button
+Seat 3: Alan The For ($86.56 in chips)
+Seat 4: Tryptamean ($121 in chips)
+Tryptamean: posts small blind $1
+Velbor107: is sitting out
+Alan The For: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+Alan The For: folds
+Uncalled bet ($3) returned to Tryptamean
+Tryptamean collected $6 from pot
+Tryptamean: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: Alan The For (big blind) folded before Flop
+Seat 4: Tryptamean (button) (small blind) collected ($6)
+
+
+PokerStars Hand #154240719832:  Hold'em Limit ($3/$6 USD) - 2016/06/03 14:47:49 ET
+Table 'Jupiter' 6-max Seat #4 is the button
+Seat 2: anebodil ($74.30 in chips)
+Seat 4: Tryptamean ($125 in chips)
+Tryptamean: posts small blind $1
+anebodil: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+anebodil: calls $3
+*** FLOP *** [6c 8c 7d]
+anebodil: checks
+Tryptamean: bets $3
+anebodil: calls $3
+*** TURN *** [6c 8c 7d] [Jh]
+anebodil: bets $6
+Tryptamean: calls $6
+*** RIVER *** [6c 8c 7d Jh] [2c]
+anebodil: bets $6
+Tryptamean: calls $6
+*** SHOW DOWN ***
+anebodil: shows [Qc Kd] (high card King)
+Tryptamean: shows [7c 5h] (a pair of Sevens)
+Tryptamean collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [6c 8c 7d Jh 2c]
+Seat 2: anebodil (big blind) showed [Qc Kd] and lost with high card King
+Seat 4: Tryptamean (button) (small blind) showed [7c 5h] and won ($41.50) with a pair of Sevens
+
+
+PokerStars Hand #154240773669:  Hold'em Limit ($3/$6 USD) - 2016/06/03 14:48:58 ET
+Table 'Jupiter' 6-max Seat #4 is the button
+Seat 2: anebodil ($32.30 in chips)
+Seat 4: Tryptamean ($166 in chips)
+Tryptamean: posts small blind $1
+anebodil: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+anebodil: calls $3
+*** FLOP *** [Td Jd 8c]
+anebodil: checks
+Tryptamean: bets $3
+anebodil: calls $3
+*** TURN *** [Td Jd 8c] [Ad]
+anebodil: bets $6
+Tryptamean: calls $6
+*** RIVER *** [Td Jd 8c Ad] [8d]
+anebodil: bets $6
+Tryptamean: calls $6
+*** SHOW DOWN ***
+anebodil: shows [9s Qh] (a straight, Eight to Queen)
+Tryptamean: shows [7d Ts] (a flush, Ace high)
+Tryptamean collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Td Jd 8c Ad 8d]
+Seat 2: anebodil (big blind) showed [9s Qh] and lost with a straight, Eight to Queen
+Seat 4: Tryptamean (button) (small blind) showed [7d Ts] and won ($41.50) with a flush, Ace high
+
+
+PokerStars Hand #154240749536:  Hold'em Limit ($3/$6 USD) - 2016/06/03 14:48:27 ET
+Table 'Jupiter' 6-max Seat #2 is the button
+Seat 2: anebodil ($53.30 in chips)
+Seat 4: Tryptamean ($145.50 in chips)
+anebodil: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+anebodil: calls $2
+kolaz03 joins the table at seat #3
+Tryptamean: raises $3 to $6
+anebodil: calls $3
+*** FLOP *** [7d 8s Kc]
+Tryptamean: bets $3
+anebodil: calls $3
+*** TURN *** [7d 8s Kc] [8h]
+Tryptamean: bets $6
+anebodil: calls $6
+*** RIVER *** [7d 8s Kc 8h] [Th]
+Tryptamean: bets $6
+anebodil: calls $6
+*** SHOW DOWN ***
+Tryptamean: shows [Qc 8d] (three of a kind, Eights)
+anebodil: mucks hand
+Tryptamean collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [7d 8s Kc 8h Th]
+Seat 2: anebodil (button) (small blind) mucked
+Seat 4: Tryptamean (big blind) showed [Qc 8d] and won ($41.50) with three of a kind, Eights
+
+
+PokerStars Hand #154241405805:  Hold'em Limit ($3/$6 USD) - 2016/06/03 15:03:32 ET
+Table 'Jupiter' 6-max Seat #4 is the button
+Seat 4: Tryptamean ($186.70 in chips)
+Seat 6: manly70 ($42.96 in chips)
+Tryptamean: posts small blind $1
+manly70: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: folds
+Uncalled bet ($2) returned to manly70
+manly70 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: Tryptamean (button) (small blind) folded before Flop
+Seat 6: manly70 (big blind) collected ($2)
+
+
+PokerStars Hand #154241374661:  Hold'em Limit ($3/$6 USD) - 2016/06/03 15:02:53 ET
+Table 'Jupiter' 6-max Seat #6 is the button
+Seat 4: Tryptamean ($169.20 in chips)
+Seat 6: manly70 ($60.96 in chips)
+manly70: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+Velbor107 joins the table at seat #1
+manly70: raises $3 to $6
+Tryptamean: raises $3 to $9
+manly70: calls $3
+*** FLOP *** [9d 4c Td]
+Tryptamean: bets $3
+manly70: calls $3
+*** TURN *** [9d 4c Td] [Kh]
+Tryptamean: bets $6
+manly70: calls $6
+*** RIVER *** [9d 4c Td Kh] [Jc]
+Tryptamean: bets $6
+manly70: folds
+Uncalled bet ($6) returned to Tryptamean
+Tryptamean collected $35.50 from pot
+Tryptamean: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [9d 4c Td Kh Jc]
+Seat 4: Tryptamean (big blind) collected ($35.50)
+Seat 6: manly70 (button) (small blind) folded on the River
+
+
+PokerStars Hand #154253818902:  Hold'em Limit ($3/$6 USD) - 2016/06/03 19:20:03 ET
+Table 'Jupiter' 6-max Seat #3 is the button
+Seat 3: RaisemyNut$ ($137.70 in chips)
+Seat 4: LCM27 ($44.92 in chips)
+RaisemyNut$: posts small blind $1
+LCM27: posts big blind $3
+*** HOLE CARDS ***
+RaisemyNut$: raises $3 to $6
+LCM27: calls $3
+*** FLOP *** [2d 7d 6d]
+LCM27: checks
+RaisemyNut$: bets $3
+LCM27: calls $3
+*** TURN *** [2d 7d 6d] [3c]
+LCM27: checks
+RaisemyNut$: bets $6
+LCM27: calls $6
+*** RIVER *** [2d 7d 6d 3c] [5d]
+LCM27: checks
+RaisemyNut$: bets $6
+LCM27: calls $6
+*** SHOW DOWN ***
+RaisemyNut$: shows [Ac 4d] (a flush, Seven high)
+LCM27: shows [7c Kd] (a flush, King high)
+LCM27 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2d 7d 6d 3c 5d]
+Seat 3: RaisemyNut$ (button) (small blind) showed [Ac 4d] and lost with a flush, Seven high
+Seat 4: LCM27 (big blind) showed [7c Kd] and won ($41.50) with a flush, King high
+
+
+PokerStars Hand #154253847909:  Hold'em Limit ($3/$6 USD) - 2016/06/03 19:20:47 ET
+Table 'Jupiter' 6-max Seat #4 is the button
+Seat 3: RaisemyNut$ ($116.70 in chips)
+Seat 4: LCM27 ($65.42 in chips)
+LCM27: posts small blind $1
+RaisemyNut$: posts big blind $3
+*** HOLE CARDS ***
+LCM27: calls $2
+LolDnkaments joins the table at seat #5
+RaisemyNut$: raises $3 to $6
+LCM27: calls $3
+*** FLOP *** [8h 4s Ah]
+RaisemyNut$: bets $3
+LCM27: calls $3
+*** TURN *** [8h 4s Ah] [Kd]
+RaisemyNut$: bets $6
+LCM27: calls $6
+*** RIVER *** [8h 4s Ah Kd] [8s]
+RaisemyNut$: checks
+LCM27: checks
+*** SHOW DOWN ***
+RaisemyNut$: shows [Qh Tc] (a pair of Eights)
+LCM27: shows [Jh 4h] (two pair, Eights and Fours)
+LCM27 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8h 4s Ah Kd 8s]
+Seat 3: RaisemyNut$ (big blind) showed [Qh Tc] and lost with a pair of Eights
+Seat 4: LCM27 (button) (small blind) showed [Jh 4h] and won ($29.50) with two pair, Eights and Fours
+
+
+PokerStars Hand #154253892091:  Hold'em Limit ($3/$6 USD) - 2016/06/03 19:21:56 ET
+Table 'Jupiter' 6-max Seat #3 is the button
+Seat 3: RaisemyNut$ ($101.70 in chips)
+Seat 4: LCM27 ($79.92 in chips)
+RaisemyNut$: posts small blind $1
+LCM27: posts big blind $3
+*** HOLE CARDS ***
+RaisemyNut$: raises $3 to $6
+LCM27: calls $3
+*** FLOP *** [Js 7c 2s]
+LCM27: checks
+RaisemyNut$: bets $3
+ABATAPP joins the table at seat #6
+LCM27: calls $3
+*** TURN *** [Js 7c 2s] [5s]
+LCM27: folds
+RaisemyNut$ collected $17.64 from pot
+RaisemyNut$: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Js 7c 2s 5s]
+Seat 3: RaisemyNut$ (button) (small blind) collected ($17.64)
+Seat 4: LCM27 (big blind) folded on the Turn
+
+
+PokerStars Hand #154254315962:  Hold'em Limit ($3/$6 USD) - 2016/06/03 19:32:59 ET
+Table 'Jupiter' 6-max Seat #3 is the button
+Seat 3: RaisemyNut$ ($122.55 in chips)
+Seat 6: ABATAPP ($119.38 in chips)
+RaisemyNut$: posts small blind $1
+ABATAPP: posts big blind $3
+*** HOLE CARDS ***
+RaisemyNut$: raises $3 to $6
+ABATAPP: folds
+Uncalled bet ($3) returned to RaisemyNut$
+RaisemyNut$ collected $6 from pot
+RaisemyNut$: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: RaisemyNut$ (button) (small blind) collected ($6)
+Seat 6: ABATAPP (big blind) folded before Flop
+
+
+PokerStars Hand #154254477937:  Hold'em Limit ($3/$6 USD) - 2016/06/03 19:37:29 ET
+Table 'Jupiter' 6-max Seat #3 is the button
+Seat 3: RaisemyNut$ ($104.55 in chips)
+Seat 4: LCM27 ($39.64 in chips)
+RaisemyNut$: posts small blind $1
+LCM27: posts big blind $3
+*** HOLE CARDS ***
+RaisemyNut$: raises $3 to $6
+LCM27: calls $3
+*** FLOP *** [Jh Td 8h]
+LCM27: checks
+RaisemyNut$: bets $3
+LCM27: folds
+Uncalled bet ($3) returned to RaisemyNut$
+RaisemyNut$ collected $11.76 from pot
+RaisemyNut$: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jh Td 8h]
+Seat 3: RaisemyNut$ (button) (small blind) collected ($11.76)
+Seat 4: LCM27 (big blind) folded on the Flop
+
+
+PokerStars Hand #154254496661:  Hold'em Limit ($3/$6 USD) - 2016/06/03 19:38:00 ET
+Table 'Jupiter' 6-max Seat #4 is the button
+Seat 3: RaisemyNut$ ($110.31 in chips)
+Seat 4: LCM27 ($33.64 in chips)
+LCM27: posts small blind $1
+RaisemyNut$: posts big blind $3
+*** HOLE CARDS ***
+LCM27: calls $2
+RaisemyNut$: checks
+*** FLOP *** [2d 3c 6h]
+RaisemyNut$: checks
+LCM27: checks
+*** TURN *** [2d 3c 6h] [4d]
+RaisemyNut$: bets $6
+LCM27: calls $6
+*** RIVER *** [2d 3c 6h 4d] [3d]
+RaisemyNut$: checks
+LCM27: bets $6
+RaisemyNut$: folds
+Uncalled bet ($6) returned to LCM27
+LCM27 collected $17.64 from pot
+LCM27: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2d 3c 6h 4d 3d]
+Seat 3: RaisemyNut$ (big blind) folded on the River
+Seat 4: LCM27 (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #154254554814:  Hold'em Limit ($3/$6 USD) - 2016/06/03 19:39:38 ET
+Table 'Jupiter' 6-max Seat #4 is the button
+Seat 3: RaisemyNut$ ($107.07 in chips)
+Seat 4: LCM27 ($36.28 in chips)
+LCM27: posts small blind $1
+RaisemyNut$: posts big blind $3
+*** HOLE CARDS ***
+LCM27: calls $2
+RaisemyNut$: raises $3 to $6
+LCM27: calls $3
+*** FLOP *** [Qs 3h Ac]
+RaisemyNut$: bets $3
+LCM27: folds
+Uncalled bet ($3) returned to RaisemyNut$
+RaisemyNut$ collected $11.76 from pot
+RaisemyNut$: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qs 3h Ac]
+Seat 3: RaisemyNut$ (big blind) collected ($11.76)
+Seat 4: LCM27 (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #154254530751:  Hold'em Limit ($3/$6 USD) - 2016/06/03 19:38:58 ET
+Table 'Jupiter' 6-max Seat #3 is the button
+Seat 3: RaisemyNut$ ($101.31 in chips)
+Seat 4: LCM27 ($42.28 in chips)
+RaisemyNut$: posts small blind $1
+LCM27: posts big blind $3
+*** HOLE CARDS ***
+RaisemyNut$: raises $3 to $6
+LCM27: calls $3
+*** FLOP *** [Js Ah Kc]
+LCM27: checks
+RaisemyNut$: bets $3
+LCM27: folds
+Uncalled bet ($3) returned to RaisemyNut$
+RaisemyNut$ collected $11.76 from pot
+RaisemyNut$: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Js Ah Kc]
+Seat 3: RaisemyNut$ (button) (small blind) collected ($11.76)
+Seat 4: LCM27 (big blind) folded on the Flop
+
+
+PokerStars Hand #154254569454:  Hold'em Limit ($3/$6 USD) - 2016/06/03 19:40:03 ET
+Table 'Jupiter' 6-max Seat #3 is the button
+Seat 3: RaisemyNut$ ($112.83 in chips)
+Seat 4: LCM27 ($30.28 in chips)
+RaisemyNut$: posts small blind $1
+LCM27: posts big blind $3
+*** HOLE CARDS ***
+RaisemyNut$: raises $3 to $6
+LCM27: calls $3
+*** FLOP *** [8c 3c Jh]
+LCM27: checks
+RaisemyNut$: bets $3
+LCM27: calls $3
+*** TURN *** [8c 3c Jh] [4d]
+LCM27: checks
+RaisemyNut$: bets $6
+LCM27: folds
+Uncalled bet ($6) returned to RaisemyNut$
+RaisemyNut$ collected $17.64 from pot
+RaisemyNut$: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8c 3c Jh 4d]
+Seat 3: RaisemyNut$ (button) (small blind) collected ($17.64)
+Seat 4: LCM27 (big blind) folded on the Turn
+
+
+PokerStars Hand #154254602409:  Hold'em Limit ($3/$6 USD) - 2016/06/03 19:40:50 ET
+Table 'Jupiter' 6-max Seat #4 is the button
+Seat 3: RaisemyNut$ ($121.47 in chips)
+Seat 4: LCM27 ($21.28 in chips)
+LCM27: posts small blind $1
+RaisemyNut$: posts big blind $3
+*** HOLE CARDS ***
+LCM27: calls $2
+RaisemyNut$: raises $3 to $6
+LCM27: calls $3
+*** FLOP *** [7h Qd Ks]
+RaisemyNut$: bets $3
+LCM27: calls $3
+*** TURN *** [7h Qd Ks] [As]
+RaisemyNut$: bets $6
+LCM27: calls $6
+*** RIVER *** [7h Qd Ks As] [5c]
+RaisemyNut$: checks
+LCM27: checks
+*** SHOW DOWN ***
+RaisemyNut$: shows [Js 9d] (high card Ace)
+LCM27: shows [Qc 3d] (a pair of Queens)
+LCM27 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7h Qd Ks As 5c]
+Seat 3: RaisemyNut$ (big blind) showed [Js 9d] and lost with high card Ace
+Seat 4: LCM27 (button) (small blind) showed [Qc 3d] and won ($29.50) with a pair of Queens
+
+
+PokerStars Hand #154254633871:  Hold'em Limit ($3/$6 USD) - 2016/06/03 19:41:44 ET
+Table 'Jupiter' 6-max Seat #3 is the button
+Seat 3: RaisemyNut$ ($106.47 in chips)
+Seat 4: LCM27 ($35.78 in chips)
+RaisemyNut$: posts small blind $1
+LCM27: posts big blind $3
+*** HOLE CARDS ***
+RaisemyNut$: raises $3 to $6
+LCM27: calls $3
+*** FLOP *** [6c 2c 4h]
+LCM27: checks
+RaisemyNut$: bets $3
+LCM27: calls $3
+*** TURN *** [6c 2c 4h] [8s]
+LCM27: checks
+RaisemyNut$: bets $6
+LCM27: calls $6
+*** RIVER *** [6c 2c 4h 8s] [6s]
+LCM27: bets $6
+RaisemyNut$: folds
+Uncalled bet ($6) returned to LCM27
+LCM27 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6c 2c 4h 8s 6s]
+Seat 3: RaisemyNut$ (button) (small blind) folded on the River
+Seat 4: LCM27 (big blind) collected ($29.50)
+
+
+PokerStars Hand #154254653500:  Hold'em Limit ($3/$6 USD) - 2016/06/03 19:42:17 ET
+Table 'Jupiter' 6-max Seat #4 is the button
+Seat 3: RaisemyNut$ ($91.47 in chips)
+Seat 4: LCM27 ($50.28 in chips)
+LCM27: posts small blind $1
+RaisemyNut$: posts big blind $3
+*** HOLE CARDS ***
+LCM27: calls $2
+RaisemyNut$: raises $3 to $6
+LCM27: calls $3
+*** FLOP *** [9h 2h Jc]
+RaisemyNut$: checks
+LCM27: checks
+*** TURN *** [9h 2h Jc] [Ts]
+RaisemyNut$: checks
+LCM27: checks
+*** RIVER *** [9h 2h Jc Ts] [9s]
+RaisemyNut$: checks
+LCM27: checks
+*** SHOW DOWN ***
+RaisemyNut$: shows [5s 6s] (a pair of Nines)
+LCM27: shows [3h Ad] (a pair of Nines - Ace kicker)
+LCM27 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9h 2h Jc Ts 9s]
+Seat 3: RaisemyNut$ (big blind) showed [5s 6s] and lost with a pair of Nines
+Seat 4: LCM27 (button) (small blind) showed [3h Ad] and won ($11.76) with a pair of Nines
+
+
+PokerStars Hand #154254704739:  Hold'em Limit ($3/$6 USD) - 2016/06/03 19:43:45 ET
+Table 'Jupiter' 6-max Seat #3 is the button
+Seat 3: RaisemyNut$ ($85.47 in chips)
+Seat 4: LCM27 ($56.04 in chips)
+RaisemyNut$: posts small blind $1
+LCM27: posts big blind $3
+*** HOLE CARDS ***
+RaisemyNut$: raises $3 to $6
+LCM27: calls $3
+*** FLOP *** [Ad 3c 8c]
+LCM27: checks
+RaisemyNut$: bets $3
+LCM27: calls $3
+*** TURN *** [Ad 3c 8c] [2s]
+LCM27: checks
+RaisemyNut$: bets $6
+LCM27: folds
+Uncalled bet ($6) returned to RaisemyNut$
+RaisemyNut$ collected $17.64 from pot
+RaisemyNut$: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ad 3c 8c 2s]
+Seat 3: RaisemyNut$ (button) (small blind) collected ($17.64)
+Seat 4: LCM27 (big blind) folded on the Turn
+
+
+PokerStars Hand #154254744233:  Hold'em Limit ($3/$6 USD) - 2016/06/03 19:44:54 ET
+Table 'Jupiter' 6-max Seat #4 is the button
+Seat 3: RaisemyNut$ ($94.11 in chips)
+Seat 4: LCM27 ($47.04 in chips)
+LCM27: posts small blind $1
+RaisemyNut$: posts big blind $3
+*** HOLE CARDS ***
+LCM27: calls $2
+RaisemyNut$: raises $3 to $6
+LCM27: calls $3
+*** FLOP *** [7h 2c 8c]
+RaisemyNut$: bets $3
+LCM27: calls $3
+*** TURN *** [7h 2c 8c] [6h]
+RaisemyNut$: bets $6
+LCM27: calls $6
+*** RIVER *** [7h 2c 8c 6h] [9h]
+RaisemyNut$: bets $6
+LCM27: calls $6
+*** SHOW DOWN ***
+RaisemyNut$: shows [8h Kc] (a pair of Eights)
+LCM27: shows [5h 2s] (a straight, Five to Nine)
+LCM27 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [7h 2c 8c 6h 9h]
+Seat 3: RaisemyNut$ (big blind) showed [8h Kc] and lost with a pair of Eights
+Seat 4: LCM27 (button) (small blind) showed [5h 2s] and won ($41.50) with a straight, Five to Nine
+
+
+PokerStars Hand #154254881489:  Hold'em Limit ($3/$6 USD) - 2016/06/03 19:48:52 ET
+Table 'Jupiter' 6-max Seat #3 is the button
+Seat 2: guinness5860 ($36.66 in chips)
+Seat 3: RaisemyNut$ ($73.11 in chips)
+RaisemyNut$: posts small blind $1
+guinness5860: posts big blind $3
+*** HOLE CARDS ***
+RaisemyNut$: raises $3 to $6
+guinness5860: folds
+Uncalled bet ($3) returned to RaisemyNut$
+RaisemyNut$ collected $6 from pot
+RaisemyNut$: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: guinness5860 (big blind) folded before Flop
+Seat 3: RaisemyNut$ (button) (small blind) collected ($6)
+
+
+PokerStars Hand #154254893820:  Hold'em Limit ($3/$6 USD) - 2016/06/03 19:49:14 ET
+Table 'Jupiter' 6-max Seat #2 is the button
+Seat 2: guinness5860 ($33.66 in chips)
+Seat 3: RaisemyNut$ ($76.11 in chips)
+guinness5860: posts small blind $1
+RaisemyNut$: posts big blind $3
+*** HOLE CARDS ***
+guinness5860: calls $2
+mareshkin joins the table at seat #5
+RaisemyNut$: checks
+*** FLOP *** [6h Ks Jd]
+RaisemyNut$: checks
+guinness5860: bets $3
+RaisemyNut$: folds
+Uncalled bet ($3) returned to guinness5860
+guinness5860 collected $5.88 from pot
+guinness5860: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [6h Ks Jd]
+Seat 2: guinness5860 (button) (small blind) collected ($5.88)
+Seat 3: RaisemyNut$ (big blind) folded on the Flop
+
+

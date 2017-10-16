@@ -1,0 +1,28 @@
+PokerStars Hand #153992401116:  Hold'em Limit ($3/$6 USD) - 2016/05/29 6:21:34 ET
+Table 'Hartmut' 6-max Seat #4 is the button
+Seat 3: VolkovDmitri ($127.83 in chips)
+Seat 4: gorcea_vs ($9.21 in chips)
+gorcea_vs: posts small blind $1
+Kajind: is sitting out
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+gorcea_vs: raises $3 to $6
+Kajind leaves the table
+VolkovDmitri: calls $3
+*** FLOP *** [4s Ks 8h]
+VolkovDmitri: bets $3
+gorcea_vs: raises $0.21 to $3.21 and is all-in
+VolkovDmitri: calls $0.21
+*** TURN *** [4s Ks 8h] [5c]
+*** RIVER *** [4s Ks 8h 5c] [Ts]
+*** SHOW DOWN ***
+VolkovDmitri: shows [5h 7d] (a pair of Fives)
+gorcea_vs: shows [Ad 6s] (high card Ace)
+VolkovDmitri collected $18.05 from pot
+*** SUMMARY ***
+Total pot $18.42 | Rake $0.37
+Board [4s Ks 8h 5c Ts]
+Seat 3: VolkovDmitri (big blind) showed [5h 7d] and won ($18.05) with a pair of Fives
+Seat 4: gorcea_vs (button) (small blind) showed [Ad 6s] and lost with high card Ace
+
+

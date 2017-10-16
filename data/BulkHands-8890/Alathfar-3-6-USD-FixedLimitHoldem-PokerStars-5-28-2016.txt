@@ -1,0 +1,68 @@
+PokerStars Hand #153936212380:  Hold'em Limit ($3/$6 USD) - 2016/05/27 20:20:17 ET
+Table 'Alathfar' 6-max Seat #4 is the button
+Seat 1: Jefrey-AA ($139.95 in chips)
+Seat 4: xKartx ($207.88 in chips)
+xKartx: posts small blind $1
+vestimokrec: is sitting out
+ynwaom: is sitting out
+Jefrey-AA: posts big blind $3
+*** HOLE CARDS ***
+xKartx: raises $3 to $6
+vestimokrec leaves the table
+ynwaom leaves the table
+MrMagicCard8 joins the table at seat #3
+Jefrey-AA: calls $3
+*** FLOP *** [7h 9c 6h]
+Jefrey-AA: bets $3
+xKartx: raises $3 to $6
+Jefrey-AA: calls $3
+*** TURN *** [7h 9c 6h] [4c]
+Jefrey-AA: checks
+xKartx: bets $6
+Jefrey-AA: calls $6
+*** RIVER *** [7h 9c 6h 4c] [Tc]
+Jefrey-AA: bets $6
+xKartx: calls $6
+*** SHOW DOWN ***
+Jefrey-AA: shows [8s Ad] (a straight, Six to Ten)
+xKartx: mucks hand
+Jefrey-AA collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7h 9c 6h 4c Tc]
+Seat 1: Jefrey-AA (big blind) showed [8s Ad] and won ($47.50) with a straight, Six to Ten
+Seat 4: xKartx (button) (small blind) mucked
+
+
+PokerStars Hand #153936239895:  Hold'em Limit ($3/$6 USD) - 2016/05/27 20:21:10 ET
+Table 'Alathfar' 6-max Seat #1 is the button
+Seat 1: Jefrey-AA ($163.45 in chips)
+Seat 3: MrMagicCard8 ($81.66 in chips)
+Jefrey-AA: posts small blind $1
+MrMagicCard8: posts big blind $3
+*** HOLE CARDS ***
+Jefrey-AA: calls $2
+MrMagicCard8: checks
+*** FLOP *** [Jd Qh 3d]
+xKartx joins the table at seat #4
+MrMagicCard8: bets $3
+Jefrey-AA: calls $3
+*** TURN *** [Jd Qh 3d] [2d]
+MrMagicCard8: bets $6
+Jefrey-AA: raises $6 to $12
+MrMagicCard8: calls $6
+*** RIVER *** [Jd Qh 3d 2d] [Ks]
+MrMagicCard8: bets $6
+Jefrey-AA: raises $6 to $12
+MrMagicCard8: calls $6
+*** SHOW DOWN ***
+Jefrey-AA: shows [7d 9d] (a flush, Jack high)
+MrMagicCard8: mucks hand
+Jefrey-AA collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Jd Qh 3d 2d Ks]
+Seat 1: Jefrey-AA (button) (small blind) showed [7d 9d] and won ($59.50) with a flush, Jack high
+Seat 3: MrMagicCard8 (big blind) mucked
+
+

@@ -1,0 +1,83 @@
+PokerStars Hand #144415420697:  Hold'em Limit ($3/$6 USD) - 2015/11/26 12:17:19 ET
+Table 'Lorcia II' 2-max Seat #1 is the button
+Seat 1: botkimp ($106.05 in chips)
+Seat 2: banxarat ($25.50 in chips)
+botkimp: posts small blind $1
+banxarat: posts big blind $3
+*** HOLE CARDS ***
+botkimp: raises $3 to $6
+banxarat: raises $3 to $9
+botkimp: raises $3 to $12
+Betting is capped
+banxarat: calls $3
+*** FLOP *** [Kh 3d Qc]
+banxarat: bets $3
+botkimp: raises $3 to $6
+banxarat: folds
+Uncalled bet ($3) returned to botkimp
+botkimp collected $29.50 from pot
+botkimp: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kh 3d Qc]
+Seat 1: botkimp (button) (small blind) collected ($29.50)
+Seat 2: banxarat (big blind) folded on the Flop
+
+
+PokerStars Hand #144415429323:  Hold'em Limit ($3/$6 USD) - 2015/11/26 12:17:30 ET
+Table 'Lorcia II' 2-max Seat #2 is the button
+Seat 1: botkimp ($120.55 in chips)
+Seat 2: banxarat ($10.50 in chips)
+banxarat: posts small blind $1
+botkimp: posts big blind $3
+*** HOLE CARDS ***
+banxarat: calls $2
+botkimp: checks
+*** FLOP *** [2c 5s Jh]
+botkimp: checks
+banxarat: checks
+*** TURN *** [2c 5s Jh] [3h]
+botkimp: checks
+banxarat: checks
+*** RIVER *** [2c 5s Jh 3h] [6s]
+botkimp: checks
+banxarat: checks
+*** SHOW DOWN ***
+botkimp: shows [Th 2h] (a pair of Deuces)
+banxarat: shows [8h 8d] (a pair of Eights)
+banxarat collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [2c 5s Jh 3h 6s]
+Seat 1: botkimp (big blind) showed [Th 2h] and lost with a pair of Deuces
+Seat 2: banxarat (button) (small blind) showed [8h 8d] and won ($5.88) with a pair of Eights
+
+
+PokerStars Hand #144415443794:  Hold'em Limit ($3/$6 USD) - 2015/11/26 12:17:48 ET
+Table 'Lorcia II' 2-max Seat #1 is the button
+Seat 1: botkimp ($117.55 in chips)
+Seat 2: banxarat ($13.38 in chips)
+botkimp: posts small blind $1
+banxarat: posts big blind $3
+*** HOLE CARDS ***
+botkimp: raises $3 to $6
+banxarat: raises $3 to $9
+botkimp: raises $3 to $12
+Betting is capped
+banxarat: calls $3
+*** FLOP *** [As Jh 8d]
+banxarat: bets $1.38 and is all-in
+botkimp: calls $1.38
+*** TURN *** [As Jh 8d] [Ah]
+*** RIVER *** [As Jh 8d Ah] [3c]
+*** SHOW DOWN ***
+banxarat: shows [3s 4d] (two pair, Aces and Threes)
+botkimp: shows [7s Ad] (three of a kind, Aces)
+botkimp collected $26.26 from pot
+*** SUMMARY ***
+Total pot $26.76 | Rake $0.50
+Board [As Jh 8d Ah 3c]
+Seat 1: botkimp (button) (small blind) showed [7s Ad] and won ($26.26) with three of a kind, Aces
+Seat 2: banxarat (big blind) showed [3s 4d] and lost with two pair, Aces and Threes
+
+

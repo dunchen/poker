@@ -1,0 +1,56 @@
+PokerStars Hand #147589398152:  Hold'em Limit ($3/$6 USD) - 2016/01/24 8:22:18 ET
+Table 'Makhaon III' 2-max Seat #2 is the button
+Seat 1: jl45259071 ($157.62 in chips)
+Seat 2: dragon1893 ($150 in chips)
+dragon1893: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+dragon1893: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [6c 8d 2d]
+jl45259071: checks
+dragon1893: bets $3
+jl45259071: calls $3
+*** TURN *** [6c 8d 2d] [Th]
+jl45259071: checks
+dragon1893: checks
+*** RIVER *** [6c 8d 2d Th] [8c]
+jl45259071: bets $6
+dragon1893: calls $6
+*** SHOW DOWN ***
+jl45259071: shows [2c 5h] (two pair, Eights and Deuces)
+dragon1893: mucks hand
+jl45259071 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6c 8d 2d Th 8c]
+Seat 1: jl45259071 (big blind) showed [2c 5h] and won ($29.50) with two pair, Eights and Deuces
+Seat 2: dragon1893 (button) (small blind) mucked
+
+
+PokerStars Hand #147589408949:  Hold'em Limit ($3/$6 USD) - 2016/01/24 8:22:33 ET
+Table 'Makhaon III' 2-max Seat #1 is the button
+Seat 1: jl45259071 ($172.12 in chips)
+Seat 2: dragon1893 ($150 in chips)
+jl45259071: posts small blind $1
+dragon1893: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+dragon1893: checks
+*** FLOP *** [Jh Ah 9s]
+dragon1893: checks
+jl45259071: checks
+*** TURN *** [Jh Ah 9s] [8h]
+dragon1893: checks
+jl45259071: bets $6
+dragon1893: folds
+Uncalled bet ($6) returned to jl45259071
+jl45259071 collected $5.88 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Jh Ah 9s 8h]
+Seat 1: jl45259071 (button) (small blind) collected ($5.88)
+Seat 2: dragon1893 (big blind) folded on the Turn
+
+

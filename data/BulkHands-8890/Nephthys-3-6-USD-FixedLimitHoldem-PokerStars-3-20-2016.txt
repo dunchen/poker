@@ -1,0 +1,36 @@
+PokerStars Hand #150638244266:  Hold'em Limit ($3/$6 USD) - 2016/03/20 6:57:22 ET
+Table 'Nephthys' 6-max Seat #4 is the button
+Seat 2: bentinck113 ($134.07 in chips)
+Seat 4: Agrotait ($103.14 in chips)
+Agrotait: posts small blind $1
+Ale4o: is sitting out
+HAL9QQQ: is sitting out
+bentinck113: posts big blind $3
+*** HOLE CARDS ***
+Ale4o leaves the table
+Agrotait: raises $3 to $6
+bentinck113: raises $3 to $9
+Agrotait: calls $3
+*** FLOP *** [9s 8c 2s]
+bentinck113: bets $3
+Agrotait: calls $3
+*** TURN *** [9s 8c 2s] [Tc]
+bentinck113: checks
+Agrotait: bets $6
+bentinck113: calls $6
+*** RIVER *** [9s 8c 2s Tc] [Qd]
+bentinck113: bets $6
+Agrotait: raises $6 to $12
+bentinck113: raises $6 to $18
+Agrotait: calls $6
+*** SHOW DOWN ***
+bentinck113: shows [Kh Jh] (a straight, Nine to King)
+Agrotait: mucks hand
+bentinck113 collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [9s 8c 2s Tc Qd]
+Seat 2: bentinck113 (big blind) showed [Kh Jh] and won ($71.50) with a straight, Nine to King
+Seat 4: Agrotait (button) (small blind) mucked
+
+

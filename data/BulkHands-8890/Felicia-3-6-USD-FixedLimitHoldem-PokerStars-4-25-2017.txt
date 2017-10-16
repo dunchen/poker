@@ -1,0 +1,89 @@
+PokerStars Hand #169521344259:  Hold'em Limit ($3/$6 USD) - 2017/04/24 22:13:50 ET
+Table 'Felicia' 6-max Seat #2 is the button
+Seat 1: Velbor107 ($323.50 in chips)
+Seat 2: whu1688 ($96 in chips)
+whu1688: posts small blind $1
+Velbor107: posts big blind $3
+*** HOLE CARDS ***
+whu1688: raises $3 to $6
+Velbor107: calls $3
+*** FLOP *** [4h 5h 7d]
+Velbor107: checks
+whu1688: bets $3
+Velbor107: calls $3
+*** TURN *** [4h 5h 7d] [3c]
+Velbor107: checks
+whu1688: bets $6
+Velbor107: folds
+Uncalled bet ($6) returned to whu1688
+whu1688 collected $17.64 from pot
+whu1688: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4h 5h 7d 3c]
+Seat 1: Velbor107 (big blind) folded on the Turn
+Seat 2: whu1688 (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #169521333654:  Hold'em Limit ($3/$6 USD) - 2017/04/24 22:13:22 ET
+Table 'Felicia' 6-max Seat #1 is the button
+Seat 1: Velbor107 ($300 in chips)
+Seat 2: whu1688 ($120 in chips)
+Velbor107: posts small blind $1
+whu1688: posts big blind $3
+*** HOLE CARDS ***
+Velbor107: raises $3 to $6
+whu1688: calls $3
+*** FLOP *** [9h Qh 3h]
+whu1688: checks
+Velbor107: bets $3
+whu1688: raises $3 to $6
+Velbor107: calls $3
+*** TURN *** [9h Qh 3h] [Ks]
+whu1688: bets $6
+Velbor107: calls $6
+*** RIVER *** [9h Qh 3h Ks] [As]
+whu1688: checks
+Velbor107: bets $6
+whu1688: calls $6
+*** SHOW DOWN ***
+Velbor107: shows [Kh Jd] (a pair of Kings)
+whu1688: mucks hand
+Velbor107 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9h Qh 3h Ks As]
+Seat 1: Velbor107 (button) (small blind) showed [Kh Jd] and won ($47.50) with a pair of Kings
+Seat 2: whu1688 (big blind) mucked
+
+
+PokerStars Hand #169521351587:  Hold'em Limit ($3/$6 USD) - 2017/04/24 22:14:10 ET
+Table 'Felicia' 6-max Seat #1 is the button
+Seat 1: Velbor107 ($314.50 in chips)
+Seat 2: whu1688 ($104.64 in chips)
+Velbor107: posts small blind $1
+whu1688: posts big blind $3
+*** HOLE CARDS ***
+Velbor107: raises $3 to $6
+whu1688: raises $3 to $9
+Velbor107: calls $3
+*** FLOP *** [Kc Js 6s]
+whu1688: bets $3
+Velbor107: calls $3
+*** TURN *** [Kc Js 6s] [Td]
+whu1688: bets $6
+Velbor107: calls $6
+*** RIVER *** [Kc Js 6s Td] [4c]
+whu1688: bets $6
+Velbor107: raises $6 to $12
+whu1688: folds
+Uncalled bet ($6) returned to Velbor107
+whu1688 leaves the table
+Velbor107 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Kc Js 6s Td 4c]
+Seat 1: Velbor107 (button) (small blind) collected ($47.50)
+Seat 2: whu1688 (big blind) folded on the River
+
+

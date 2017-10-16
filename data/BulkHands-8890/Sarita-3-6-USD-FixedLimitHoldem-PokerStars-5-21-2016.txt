@@ -1,0 +1,934 @@
+PokerStars Hand #153632100724:  Hold'em Limit ($3/$6 USD) - 2016/05/21 10:19:43 ET
+Table 'Sarita' 6-max Seat #3 is the button
+Seat 3: Tryptamean ($120 in chips)
+Seat 4: gorcea_vs ($72.53 in chips)
+Tryptamean: posts small blind $1
+gorcea_vs: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+gorcea_vs: calls $3
+*** FLOP *** [Ad Js 5c]
+gorcea_vs: checks
+TbIP-TbIP 88 leaves the table
+Tryptamean: bets $3
+gorcea_vs: raises $3 to $6
+Tryptamean: calls $3
+*** TURN *** [Ad Js 5c] [4c]
+gorcea_vs: bets $6
+Tryptamean: raises $6 to $12
+gorcea_vs: folds
+Uncalled bet ($6) returned to Tryptamean
+Tryptamean collected $35.50 from pot
+Tryptamean: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Ad Js 5c 4c]
+Seat 3: Tryptamean (button) (small blind) collected ($35.50)
+Seat 4: gorcea_vs (big blind) folded on the Turn
+
+
+PokerStars Hand #153632117634:  Hold'em Limit ($3/$6 USD) - 2016/05/21 10:20:10 ET
+Table 'Sarita' 6-max Seat #4 is the button
+Seat 3: Tryptamean ($137.50 in chips)
+Seat 4: gorcea_vs ($54.53 in chips)
+gorcea_vs: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+gorcea_vs: folds
+Uncalled bet ($2) returned to Tryptamean
+Tryptamean collected $2 from pot
+Tryptamean: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: Tryptamean (big blind) collected ($2)
+Seat 4: gorcea_vs (button) (small blind) folded before Flop
+
+
+PokerStars Hand #153632120857:  Hold'em Limit ($3/$6 USD) - 2016/05/21 10:20:15 ET
+Table 'Sarita' 6-max Seat #3 is the button
+Seat 3: Tryptamean ($138.50 in chips)
+Seat 4: gorcea_vs ($53.53 in chips)
+Tryptamean: posts small blind $1
+gorcea_vs: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+gorcea_vs: calls $3
+*** FLOP *** [8s Qd 6s]
+gorcea_vs: checks
+Tryptamean: checks
+*** TURN *** [8s Qd 6s] [As]
+gorcea_vs: checks
+Tryptamean: checks
+*** RIVER *** [8s Qd 6s As] [Ks]
+gorcea_vs: bets $6
+Tryptamean: calls $6
+*** SHOW DOWN ***
+gorcea_vs: shows [4h 9c] (high card Ace)
+Tryptamean: shows [Kh 5d] (a pair of Kings)
+Tryptamean collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [8s Qd 6s As Ks]
+Seat 3: Tryptamean (button) (small blind) showed [Kh 5d] and won ($23.52) with a pair of Kings
+Seat 4: gorcea_vs (big blind) showed [4h 9c] and lost with high card Ace
+
+
+PokerStars Hand #153632152054:  Hold'em Limit ($3/$6 USD) - 2016/05/21 10:21:04 ET
+Table 'Sarita' 6-max Seat #3 is the button
+Seat 3: Tryptamean ($141.02 in chips)
+Seat 4: gorcea_vs ($50.17 in chips)
+Tryptamean: posts small blind $1
+gorcea_vs: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+gorcea_vs: calls $3
+*** FLOP *** [5c Qh 9c]
+gorcea_vs: checks
+Tryptamean: bets $3
+gorcea_vs: calls $3
+*** TURN *** [5c Qh 9c] [3d]
+gorcea_vs: checks
+Tryptamean: bets $6
+gorcea_vs: calls $6
+*** RIVER *** [5c Qh 9c 3d] [9h]
+gorcea_vs: checks
+Tryptamean: bets $6
+gorcea_vs: calls $6
+*** SHOW DOWN ***
+Tryptamean: shows [2h 4h] (a pair of Nines)
+gorcea_vs: shows [5h Js] (two pair, Nines and Fives)
+gorcea_vs collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [5c Qh 9c 3d 9h]
+Seat 3: Tryptamean (button) (small blind) showed [2h 4h] and lost with a pair of Nines
+Seat 4: gorcea_vs (big blind) showed [5h Js] and won ($41.50) with two pair, Nines and Fives
+
+
+PokerStars Hand #153632169840:  Hold'em Limit ($3/$6 USD) - 2016/05/21 10:21:33 ET
+Table 'Sarita' 6-max Seat #4 is the button
+Seat 3: Tryptamean ($120.02 in chips)
+Seat 4: gorcea_vs ($70.67 in chips)
+gorcea_vs: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+gorcea_vs: calls $2
+Tryptamean: checks
+*** FLOP *** [6h 4s Td]
+Tryptamean: checks
+gorcea_vs: bets $3
+Tryptamean: calls $3
+*** TURN *** [6h 4s Td] [Jh]
+Tryptamean: checks
+gorcea_vs: checks
+*** RIVER *** [6h 4s Td Jh] [Kc]
+Tryptamean: checks
+gorcea_vs: bets $6
+Tryptamean: calls $6
+*** SHOW DOWN ***
+gorcea_vs: shows [8c Kh] (a pair of Kings)
+Tryptamean: mucks hand
+gorcea_vs collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [6h 4s Td Jh Kc]
+Seat 3: Tryptamean (big blind) mucked
+Seat 4: gorcea_vs (button) (small blind) showed [8c Kh] and won ($23.52) with a pair of Kings
+
+
+PokerStars Hand #153632191210:  Hold'em Limit ($3/$6 USD) - 2016/05/21 10:22:07 ET
+Table 'Sarita' 6-max Seat #3 is the button
+Seat 3: Tryptamean ($108.02 in chips)
+Seat 4: gorcea_vs ($82.19 in chips)
+Tryptamean: posts small blind $1
+gorcea_vs: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+gorcea_vs: calls $3
+*** FLOP *** [3s Js Ad]
+gorcea_vs: checks
+Tryptamean: bets $3
+gorcea_vs: folds
+Uncalled bet ($3) returned to Tryptamean
+Tryptamean collected $11.76 from pot
+Tryptamean: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3s Js Ad]
+Seat 3: Tryptamean (button) (small blind) collected ($11.76)
+Seat 4: gorcea_vs (big blind) folded on the Flop
+
+
+PokerStars Hand #153632201649:  Hold'em Limit ($3/$6 USD) - 2016/05/21 10:22:23 ET
+Table 'Sarita' 6-max Seat #4 is the button
+Seat 3: Tryptamean ($113.78 in chips)
+Seat 4: gorcea_vs ($76.19 in chips)
+gorcea_vs: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+gorcea_vs: raises $3 to $6
+Tryptamean: raises $3 to $9
+gorcea_vs: calls $3
+*** FLOP *** [6d Ac 7h]
+Tryptamean: bets $3
+gorcea_vs: calls $3
+*** TURN *** [6d Ac 7h] [2s]
+Tryptamean: bets $6
+gorcea_vs: folds
+Uncalled bet ($6) returned to Tryptamean
+Tryptamean collected $23.52 from pot
+Tryptamean: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [6d Ac 7h 2s]
+Seat 3: Tryptamean (big blind) collected ($23.52)
+Seat 4: gorcea_vs (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #153632215433:  Hold'em Limit ($3/$6 USD) - 2016/05/21 10:22:45 ET
+Table 'Sarita' 6-max Seat #3 is the button
+Seat 3: Tryptamean ($125.30 in chips)
+Seat 4: gorcea_vs ($64.19 in chips)
+Tryptamean: posts small blind $1
+gorcea_vs: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+gorcea_vs: calls $3
+*** FLOP *** [8s 4c Qc]
+gorcea_vs: checks
+Tryptamean: bets $3
+gorcea_vs: calls $3
+*** TURN *** [8s 4c Qc] [Qd]
+gorcea_vs: checks
+Tryptamean: bets $6
+gorcea_vs: raises $6 to $12
+Tryptamean: folds
+Uncalled bet ($6) returned to gorcea_vs
+gorcea_vs collected $29.50 from pot
+gorcea_vs: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8s 4c Qc Qd]
+Seat 3: Tryptamean (button) (small blind) folded on the Turn
+Seat 4: gorcea_vs (big blind) collected ($29.50)
+
+
+PokerStars Hand #153632226718:  Hold'em Limit ($3/$6 USD) - 2016/05/21 10:23:03 ET
+Table 'Sarita' 6-max Seat #4 is the button
+Seat 3: Tryptamean ($110.30 in chips)
+Seat 4: gorcea_vs ($78.69 in chips)
+gorcea_vs: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+gorcea_vs: calls $2
+Tryptamean: raises $3 to $6
+gorcea_vs: calls $3
+*** FLOP *** [Jh 5d 2d]
+RockKillerTY joins the table at seat #5
+Tryptamean: bets $3
+gorcea_vs: calls $3
+*** TURN *** [Jh 5d 2d] [7d]
+Tryptamean: bets $6
+gorcea_vs: raises $6 to $12
+Tryptamean: calls $6
+*** RIVER *** [Jh 5d 2d 7d] [8d]
+Tryptamean: checks
+gorcea_vs: bets $6
+Tryptamean: folds
+Uncalled bet ($6) returned to gorcea_vs
+gorcea_vs collected $41.50 from pot
+gorcea_vs: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Jh 5d 2d 7d 8d]
+Seat 3: Tryptamean (big blind) folded on the River
+Seat 4: gorcea_vs (button) (small blind) collected ($41.50)
+
+
+PokerStars Hand #153632243536:  Hold'em Limit ($3/$6 USD) - 2016/05/21 10:23:29 ET
+Table 'Sarita' 6-max Seat #3 is the button
+Seat 3: Tryptamean ($89.30 in chips)
+Seat 4: gorcea_vs ($99.19 in chips)
+Tryptamean: posts small blind $1
+gorcea_vs: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+gorcea_vs: raises $3 to $9
+Tryptamean: calls $3
+*** FLOP *** [Ac 5s 7c]
+kouchan1214 joins the table at seat #2
+gorcea_vs: bets $3
+Tryptamean: calls $3
+*** TURN *** [Ac 5s 7c] [Qd]
+gorcea_vs: bets $6
+Tryptamean: calls $6
+*** RIVER *** [Ac 5s 7c Qd] [Kh]
+gorcea_vs: checks
+Tryptamean: bets $6
+gorcea_vs: calls $6
+*** SHOW DOWN ***
+Tryptamean: shows [8h 9c] (high card Ace)
+gorcea_vs: shows [Qh Td] (a pair of Queens)
+gorcea_vs collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Ac 5s 7c Qd Kh]
+Seat 3: Tryptamean (button) (small blind) showed [8h 9c] and lost with high card Ace
+Seat 4: gorcea_vs (big blind) showed [Qh Td] and won ($47.50) with a pair of Queens
+
+
+PokerStars Hand #153635016451:  Hold'em Limit ($3/$6 USD) - 2016/05/21 11:33:27 ET
+Table 'Sarita' 6-max Seat #3 is the button
+Seat 2: kouchan1214 ($424.73 in chips)
+Seat 3: Tryptamean ($281.98 in chips)
+Tryptamean: posts small blind $1
+Pelurile: is sitting out
+kouchan1214: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+kouchan1214: calls $3
+*** FLOP *** [4s 7h 2s]
+kouchan1214: bets $3
+Tryptamean: calls $3
+*** TURN *** [4s 7h 2s] [Ac]
+kouchan1214: bets $6
+Tryptamean: calls $6
+*** RIVER *** [4s 7h 2s Ac] [Jh]
+kouchan1214: bets $6
+Tryptamean: folds
+Uncalled bet ($6) returned to kouchan1214
+kouchan1214 collected $29.50 from pot
+kouchan1214: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4s 7h 2s Ac Jh]
+Seat 2: kouchan1214 (big blind) collected ($29.50)
+Seat 3: Tryptamean (button) (small blind) folded on the River
+
+
+PokerStars Hand #153635060667:  Hold'em Limit ($3/$6 USD) - 2016/05/21 11:34:30 ET
+Table 'Sarita' 6-max Seat #2 is the button
+Seat 2: kouchan1214 ($424.23 in chips)
+Seat 3: Tryptamean ($281.48 in chips)
+kouchan1214: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+kouchan1214: calls $2
+Tryptamean: checks
+*** FLOP *** [Qc Kd 3h]
+Tryptamean: checks
+kouchan1214: checks
+*** TURN *** [Qc Kd 3h] [8h]
+Tryptamean: checks
+kouchan1214: bets $6
+Tryptamean: folds
+Uncalled bet ($6) returned to kouchan1214
+kouchan1214 collected $5.88 from pot
+kouchan1214: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Qc Kd 3h 8h]
+Seat 2: kouchan1214 (button) (small blind) collected ($5.88)
+Seat 3: Tryptamean (big blind) folded on the Turn
+
+
+PokerStars Hand #153635040837:  Hold'em Limit ($3/$6 USD) - 2016/05/21 11:34:02 ET
+Table 'Sarita' 6-max Seat #3 is the button
+Seat 2: kouchan1214 ($442.23 in chips)
+Seat 3: Tryptamean ($263.98 in chips)
+Tryptamean: posts small blind $1
+kouchan1214: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+kouchan1214: calls $3
+*** FLOP *** [Ah 7c 4h]
+kouchan1214: checks
+Pelurile leaves the table
+Tryptamean: bets $3
+kouchan1214: raises $3 to $6
+Tryptamean: calls $3
+*** TURN *** [Ah 7c 4h] [Jc]
+kouchan1214: bets $6
+Tryptamean: calls $6
+*** RIVER *** [Ah 7c 4h Jc] [6h]
+kouchan1214: checks
+Tryptamean: bets $6
+kouchan1214: folds
+Uncalled bet ($6) returned to Tryptamean
+Tryptamean collected $35.50 from pot
+Tryptamean: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Ah 7c 4h Jc 6h]
+Seat 2: kouchan1214 (big blind) folded on the River
+Seat 3: Tryptamean (button) (small blind) collected ($35.50)
+
+
+PokerStars Hand #153635036080:  Hold'em Limit ($3/$6 USD) - 2016/05/21 11:33:55 ET
+Table 'Sarita' 6-max Seat #2 is the button
+Seat 2: kouchan1214 ($439.23 in chips)
+Seat 3: Tryptamean ($266.98 in chips)
+kouchan1214: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+kouchan1214: raises $3 to $6
+Tryptamean: folds
+Uncalled bet ($3) returned to kouchan1214
+kouchan1214 collected $6 from pot
+kouchan1214: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: kouchan1214 (button) (small blind) collected ($6)
+Seat 3: Tryptamean (big blind) folded before Flop
+
+
+PokerStars Hand #153635083233:  Hold'em Limit ($3/$6 USD) - 2016/05/21 11:35:02 ET
+Table 'Sarita' 6-max Seat #2 is the button
+Seat 2: kouchan1214 ($428.11 in chips)
+Seat 3: Tryptamean ($277.48 in chips)
+kouchan1214: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+kouchan1214: calls $2
+Tryptamean: checks
+*** FLOP *** [Tc 3h Jc]
+Tryptamean: checks
+kouchan1214: checks
+*** TURN *** [Tc 3h Jc] [Kd]
+Tryptamean: checks
+kouchan1214: checks
+*** RIVER *** [Tc 3h Jc Kd] [3s]
+Tryptamean: bets $6
+kouchan1214: calls $6
+*** SHOW DOWN ***
+Tryptamean: shows [4c 7h] (a pair of Threes)
+kouchan1214: shows [As 8d] (a pair of Threes - Ace kicker)
+kouchan1214 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Tc 3h Jc Kd 3s]
+Seat 2: kouchan1214 (button) (small blind) showed [As 8d] and won ($17.64) with a pair of Threes
+Seat 3: Tryptamean (big blind) showed [4c 7h] and lost with a pair of Threes
+
+
+PokerStars Hand #153635078000:  Hold'em Limit ($3/$6 USD) - 2016/05/21 11:34:55 ET
+Table 'Sarita' 6-max Seat #3 is the button
+Seat 2: kouchan1214 ($427.11 in chips)
+Seat 3: Tryptamean ($278.48 in chips)
+Tryptamean: posts small blind $1
+kouchan1214: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: folds
+Uncalled bet ($2) returned to kouchan1214
+kouchan1214 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: kouchan1214 (big blind) collected ($2)
+Seat 3: Tryptamean (button) (small blind) folded before Flop
+
+
+PokerStars Hand #153635142803:  Hold'em Limit ($3/$6 USD) - 2016/05/21 11:36:27 ET
+Table 'Sarita' 6-max Seat #3 is the button
+Seat 2: kouchan1214 ($427.51 in chips)
+Seat 3: Tryptamean ($276.98 in chips)
+Tryptamean: posts small blind $1
+kouchan1214: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+kouchan1214: calls $3
+*** FLOP *** [9c 6c 2d]
+kouchan1214: checks
+Tryptamean: bets $3
+kouchan1214: calls $3
+*** TURN *** [9c 6c 2d] [3h]
+kouchan1214: checks
+Tryptamean: checks
+*** RIVER *** [9c 6c 2d 3h] [Ks]
+kouchan1214: checks
+Tryptamean: checks
+*** SHOW DOWN ***
+kouchan1214: shows [8s 8h] (a pair of Eights)
+Tryptamean: mucks hand
+kouchan1214 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9c 6c 2d 3h Ks]
+Seat 2: kouchan1214 (big blind) showed [8s 8h] and won ($17.64) with a pair of Eights
+Seat 3: Tryptamean (button) (small blind) mucked
+
+
+PokerStars Hand #153635128449:  Hold'em Limit ($3/$6 USD) - 2016/05/21 11:36:07 ET
+Table 'Sarita' 6-max Seat #2 is the button
+Seat 2: kouchan1214 ($421.75 in chips)
+Seat 3: Tryptamean ($282.98 in chips)
+kouchan1214: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+kouchan1214: raises $3 to $6
+Tryptamean: calls $3
+*** FLOP *** [Ad 5d Jd]
+Tryptamean: checks
+kouchan1214: bets $3
+Tryptamean: folds
+Uncalled bet ($3) returned to kouchan1214
+kouchan1214 collected $11.76 from pot
+kouchan1214: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ad 5d Jd]
+Seat 2: kouchan1214 (button) (small blind) collected ($11.76)
+Seat 3: Tryptamean (big blind) folded on the Flop
+
+
+PokerStars Hand #153635103171:  Hold'em Limit ($3/$6 USD) - 2016/05/21 11:35:31 ET
+Table 'Sarita' 6-max Seat #3 is the button
+Seat 2: kouchan1214 ($436.75 in chips)
+Seat 3: Tryptamean ($268.48 in chips)
+Tryptamean: posts small blind $1
+kouchan1214: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+kouchan1214: calls $3
+*** FLOP *** [5h 2s 9s]
+kouchan1214: checks
+Tryptamean: bets $3
+kouchan1214: calls $3
+*** TURN *** [5h 2s 9s] [Tc]
+kouchan1214: checks
+Tryptamean: checks
+*** RIVER *** [5h 2s 9s Tc] [6h]
+kouchan1214: checks
+Tryptamean: bets $6
+kouchan1214: calls $6
+*** SHOW DOWN ***
+Tryptamean: shows [Qs 2h] (a pair of Deuces)
+kouchan1214: mucks hand
+Tryptamean collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5h 2s 9s Tc 6h]
+Seat 2: kouchan1214 (big blind) mucked
+Seat 3: Tryptamean (button) (small blind) showed [Qs 2h] and won ($29.50) with a pair of Deuces
+
+
+PokerStars Hand #153635202099:  Hold'em Limit ($3/$6 USD) - 2016/05/21 11:37:51 ET
+Table 'Sarita' 6-max Seat #2 is the button
+Seat 2: kouchan1214 ($415.15 in chips)
+Seat 3: Tryptamean ($288.24 in chips)
+kouchan1214: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+kouchan1214: folds
+Uncalled bet ($2) returned to Tryptamean
+Tryptamean collected $2 from pot
+Tryptamean: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: kouchan1214 (button) (small blind) folded before Flop
+Seat 3: Tryptamean (big blind) collected ($2)
+
+
+PokerStars Hand #153635190229:  Hold'em Limit ($3/$6 USD) - 2016/05/21 11:37:34 ET
+Table 'Sarita' 6-max Seat #3 is the button
+Seat 2: kouchan1214 ($421.15 in chips)
+Seat 3: Tryptamean ($282.48 in chips)
+Tryptamean: posts small blind $1
+kouchan1214: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+kouchan1214: calls $3
+*** FLOP *** [8c 3h 8d]
+kouchan1214: checks
+Tryptamean: bets $3
+kouchan1214: folds
+Uncalled bet ($3) returned to Tryptamean
+Tryptamean collected $11.76 from pot
+Tryptamean: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8c 3h 8d]
+Seat 2: kouchan1214 (big blind) folded on the Flop
+Seat 3: Tryptamean (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #153635166918:  Hold'em Limit ($3/$6 USD) - 2016/05/21 11:37:01 ET
+Table 'Sarita' 6-max Seat #2 is the button
+Seat 2: kouchan1214 ($436.15 in chips)
+Seat 3: Tryptamean ($267.98 in chips)
+kouchan1214: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+kouchan1214: calls $2
+Tryptamean: raises $3 to $6
+kouchan1214: calls $3
+*** FLOP *** [4h 5c Qd]
+Tryptamean: bets $3
+kouchan1214: calls $3
+*** TURN *** [4h 5c Qd] [Qc]
+Tryptamean: bets $6
+kouchan1214: calls $6
+*** RIVER *** [4h 5c Qd Qc] [3h]
+Tryptamean: checks
+kouchan1214: checks
+*** SHOW DOWN ***
+Tryptamean: shows [Jd Ad] (a pair of Queens)
+kouchan1214: mucks hand
+Tryptamean collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4h 5c Qd Qc 3h]
+Seat 2: kouchan1214 (button) (small blind) mucked
+Seat 3: Tryptamean (big blind) showed [Jd Ad] and won ($29.50) with a pair of Queens
+
+
+PokerStars Hand #153635211397:  Hold'em Limit ($3/$6 USD) - 2016/05/21 11:38:04 ET
+Table 'Sarita' 6-max Seat #2 is the button
+Seat 2: kouchan1214 ($415.15 in chips)
+Seat 3: Tryptamean ($288.24 in chips)
+kouchan1214: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+kouchan1214: calls $2
+Tryptamean: raises $3 to $6
+kouchan1214: calls $3
+*** FLOP *** [5s 6h Jd]
+Tryptamean: bets $3
+kouchan1214: calls $3
+*** TURN *** [5s 6h Jd] [5d]
+Tryptamean: bets $6
+kouchan1214: calls $6
+*** RIVER *** [5s 6h Jd 5d] [Ts]
+Tryptamean: bets $6
+kouchan1214: folds
+Uncalled bet ($6) returned to Tryptamean
+Tryptamean collected $29.50 from pot
+Tryptamean: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5s 6h Jd 5d Ts]
+Seat 2: kouchan1214 (button) (small blind) folded on the River
+Seat 3: Tryptamean (big blind) collected ($29.50)
+
+
+PokerStars Hand #153635206456:  Hold'em Limit ($3/$6 USD) - 2016/05/21 11:37:57 ET
+Table 'Sarita' 6-max Seat #3 is the button
+Seat 2: kouchan1214 ($414.15 in chips)
+Seat 3: Tryptamean ($289.24 in chips)
+Tryptamean: posts small blind $1
+kouchan1214: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: folds
+Uncalled bet ($2) returned to kouchan1214
+kouchan1214 collected $2 from pot
+kouchan1214: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: kouchan1214 (big blind) collected ($2)
+Seat 3: Tryptamean (button) (small blind) folded before Flop
+
+
+PokerStars Hand #153635267314:  Hold'em Limit ($3/$6 USD) - 2016/05/21 11:39:25 ET
+Table 'Sarita' 6-max Seat #3 is the button
+Seat 2: kouchan1214 ($408.65 in chips)
+Seat 3: Tryptamean ($293.24 in chips)
+Tryptamean: posts small blind $1
+kouchan1214: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+kouchan1214: calls $3
+*** FLOP *** [4s 2d Jh]
+kouchan1214: checks
+Tryptamean: bets $3
+kouchan1214: calls $3
+*** TURN *** [4s 2d Jh] [9s]
+kouchan1214: checks
+Tryptamean: bets $6
+kouchan1214: folds
+Uncalled bet ($6) returned to Tryptamean
+Tryptamean collected $17.64 from pot
+Tryptamean: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4s 2d Jh 9s]
+Seat 2: kouchan1214 (big blind) folded on the Turn
+Seat 3: Tryptamean (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #153635253445:  Hold'em Limit ($3/$6 USD) - 2016/05/21 11:39:05 ET
+Table 'Sarita' 6-max Seat #2 is the button
+Seat 2: kouchan1214 ($385.15 in chips)
+Seat 3: Tryptamean ($317.24 in chips)
+kouchan1214: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+kouchan1214: raises $3 to $6
+Tryptamean: raises $3 to $9
+kouchan1214: calls $3
+*** FLOP *** [Qs Jd 4s]
+Tryptamean: bets $3
+kouchan1214: calls $3
+*** TURN *** [Qs Jd 4s] [Qc]
+Tryptamean: bets $6
+kouchan1214: calls $6
+*** RIVER *** [Qs Jd 4s Qc] [8c]
+Tryptamean: bets $6
+kouchan1214: calls $6
+*** SHOW DOWN ***
+Tryptamean: shows [6d 6s] (two pair, Queens and Sixes)
+kouchan1214: shows [8s 3s] (two pair, Queens and Eights)
+kouchan1214 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Qs Jd 4s Qc 8c]
+Seat 2: kouchan1214 (button) (small blind) showed [8s 3s] and won ($47.50) with two pair, Queens and Eights
+Seat 3: Tryptamean (big blind) showed [6d 6s] and lost with two pair, Queens and Sixes
+
+
+PokerStars Hand #153635231193:  Hold'em Limit ($3/$6 USD) - 2016/05/21 11:38:33 ET
+Table 'Sarita' 6-max Seat #3 is the button
+Seat 2: kouchan1214 ($400.15 in chips)
+Seat 3: Tryptamean ($302.74 in chips)
+Tryptamean: posts small blind $1
+kouchan1214: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+kouchan1214: calls $3
+*** FLOP *** [9c 5c Qs]
+kouchan1214: bets $3
+Tryptamean: calls $3
+*** TURN *** [9c 5c Qs] [Ad]
+kouchan1214: checks
+Tryptamean: bets $6
+kouchan1214: calls $6
+*** RIVER *** [9c 5c Qs Ad] [5d]
+kouchan1214: checks
+Tryptamean: bets $6
+kouchan1214: folds
+Uncalled bet ($6) returned to Tryptamean
+Tryptamean collected $29.50 from pot
+Tryptamean: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9c 5c Qs Ad 5d]
+Seat 2: kouchan1214 (big blind) folded on the River
+Seat 3: Tryptamean (button) (small blind) collected ($29.50)
+
+
+PokerStars Hand #153635281259:  Hold'em Limit ($3/$6 USD) - 2016/05/21 11:39:46 ET
+Table 'Sarita' 6-max Seat #2 is the button
+Seat 2: kouchan1214 ($399.65 in chips)
+Seat 3: Tryptamean ($301.88 in chips)
+kouchan1214: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+kouchan1214: raises $3 to $6
+Tryptamean: calls $3
+*** FLOP *** [5s 2s Qh]
+Tryptamean: checks
+kouchan1214: bets $3
+Tryptamean: folds
+Uncalled bet ($3) returned to kouchan1214
+kouchan1214 collected $11.76 from pot
+kouchan1214: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5s 2s Qh]
+Seat 2: kouchan1214 (button) (small blind) collected ($11.76)
+Seat 3: Tryptamean (big blind) folded on the Flop
+
+
+PokerStars Hand #153635295874:  Hold'em Limit ($3/$6 USD) - 2016/05/21 11:40:06 ET
+Table 'Sarita' 6-max Seat #3 is the button
+Seat 2: kouchan1214 ($405.41 in chips)
+Seat 3: Tryptamean ($295.88 in chips)
+Tryptamean: posts small blind $1
+kouchan1214: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+kouchan1214: raises $3 to $9
+Tryptamean: calls $3
+*** FLOP *** [Ac 3h 2c]
+kouchan1214: bets $3
+Tryptamean: folds
+Uncalled bet ($3) returned to kouchan1214
+kouchan1214 collected $17.64 from pot
+kouchan1214: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ac 3h 2c]
+Seat 2: kouchan1214 (big blind) collected ($17.64)
+Seat 3: Tryptamean (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #153635336789:  Hold'em Limit ($3/$6 USD) - 2016/05/21 11:41:05 ET
+Table 'Sarita' 6-max Seat #3 is the button
+Seat 2: kouchan1214 ($411.05 in chips)
+Seat 3: Tryptamean ($289.76 in chips)
+Tryptamean: posts small blind $1
+kouchan1214: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+kouchan1214: calls $3
+*** FLOP *** [Qh 4d 6d]
+kouchan1214: checks
+Tryptamean: bets $3
+kouchan1214: calls $3
+*** TURN *** [Qh 4d 6d] [Td]
+kouchan1214: checks
+Tryptamean: checks
+*** RIVER *** [Qh 4d 6d Td] [8s]
+kouchan1214: bets $6
+Tryptamean: folds
+Uncalled bet ($6) returned to kouchan1214
+kouchan1214 collected $17.64 from pot
+kouchan1214: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qh 4d 6d Td 8s]
+Seat 2: kouchan1214 (big blind) collected ($17.64)
+Seat 3: Tryptamean (button) (small blind) folded on the River
+
+
+PokerStars Hand #153635319849:  Hold'em Limit ($3/$6 USD) - 2016/05/21 11:40:41 ET
+Table 'Sarita' 6-max Seat #2 is the button
+Seat 2: kouchan1214 ($414.05 in chips)
+Seat 3: Tryptamean ($286.88 in chips)
+kouchan1214: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+kouchan1214: calls $2
+Tryptamean: checks
+*** FLOP *** [4h 3d 6c]
+Tryptamean: checks
+kouchan1214: checks
+*** TURN *** [4h 3d 6c] [9d]
+Tryptamean: checks
+kouchan1214: checks
+*** RIVER *** [4h 3d 6c 9d] [7d]
+Tryptamean: checks
+kouchan1214: checks
+*** SHOW DOWN ***
+Tryptamean: shows [3c Jh] (a pair of Threes)
+kouchan1214: mucks hand
+Tryptamean collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [4h 3d 6c 9d 7d]
+Seat 2: kouchan1214 (button) (small blind) mucked
+Seat 3: Tryptamean (big blind) showed [3c Jh] and won ($5.88) with a pair of Threes
+
+
+PokerStars Hand #153635382342:  Hold'em Limit ($3/$6 USD) - 2016/05/21 11:42:10 ET
+Table 'Sarita' 6-max Seat #3 is the button
+Seat 2: kouchan1214 ($434.19 in chips)
+Seat 3: Tryptamean ($265.76 in chips)
+Tryptamean: posts small blind $1
+kouchan1214: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+kouchan1214: calls $3
+*** FLOP *** [4h Th 2d]
+kouchan1214: bets $3
+Tryptamean: raises $3 to $6
+kouchan1214: calls $3
+*** TURN *** [4h Th 2d] [6c]
+kouchan1214: checks
+Tryptamean: bets $6
+kouchan1214: raises $6 to $12
+RockKillerTY joins the table at seat #4
+Tryptamean: calls $6
+*** RIVER *** [4h Th 2d 6c] [Jc]
+kouchan1214: bets $6
+Tryptamean: raises $6 to $12
+kouchan1214: calls $6
+*** SHOW DOWN ***
+Tryptamean: shows [2h Ts] (two pair, Tens and Deuces)
+kouchan1214: mucks hand
+Tryptamean collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [4h Th 2d 6c Jc]
+Seat 2: kouchan1214 (big blind) mucked
+Seat 3: Tryptamean (button) (small blind) showed [2h Ts] and won ($71.50) with two pair, Tens and Deuces
+
+
+PokerStars Hand #153635360774:  Hold'em Limit ($3/$6 USD) - 2016/05/21 11:41:40 ET
+Table 'Sarita' 6-max Seat #2 is the button
+Seat 2: kouchan1214 ($419.69 in chips)
+Seat 3: Tryptamean ($280.76 in chips)
+kouchan1214: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+kouchan1214: calls $2
+Tryptamean: raises $3 to $6
+kouchan1214: calls $3
+*** FLOP *** [6h 3c 9d]
+Tryptamean: bets $3
+kouchan1214: calls $3
+*** TURN *** [6h 3c 9d] [5c]
+Tryptamean: bets $6
+kouchan1214: calls $6
+*** RIVER *** [6h 3c 9d 5c] [9s]
+Tryptamean: checks
+kouchan1214: bets $6
+Tryptamean: folds
+Uncalled bet ($6) returned to kouchan1214
+kouchan1214 collected $29.50 from pot
+kouchan1214: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6h 3c 9d 5c 9s]
+Seat 2: kouchan1214 (button) (small blind) collected ($29.50)
+Seat 3: Tryptamean (big blind) folded on the River
+
+
+PokerStars Hand #153635419299:  Hold'em Limit ($3/$6 USD) - 2016/05/21 11:43:02 ET
+Table 'Sarita' 6-max Seat #2 is the button
+Seat 2: kouchan1214 ($398.19 in chips)
+Seat 3: Tryptamean ($301.26 in chips)
+kouchan1214: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+kouchan1214: calls $2
+Tryptamean: raises $3 to $6
+kouchan1214: raises $3 to $9
+Tryptamean: calls $3
+*** FLOP *** [9c 4d 7c]
+Tryptamean: checks
+kouchan1214: bets $3
+Tryptamean: calls $3
+*** TURN *** [9c 4d 7c] [Kh]
+Tryptamean: checks
+kouchan1214: checks
+*** RIVER *** [9c 4d 7c Kh] [Qs]
+Tryptamean: bets $6
+kouchan1214: raises $6 to $12
+Tryptamean: folds
+Uncalled bet ($6) returned to kouchan1214
+kouchan1214 collected $35.50 from pot
+kouchan1214: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [9c 4d 7c Kh Qs]
+Seat 2: kouchan1214 (button) (small blind) collected ($35.50)
+Seat 3: Tryptamean (big blind) folded on the River
+
+
+PokerStars Hand #153635481256:  Hold'em Limit ($3/$6 USD) - 2016/05/21 11:44:30 ET
+Table 'Sarita' 6-max Seat #4 is the button
+Seat 3: Tryptamean ($297.36 in chips)
+Seat 4: RockKillerTY ($105 in chips)
+RockKillerTY: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+RockKillerTY: raises $3 to $6
+Tryptamean: folds
+Uncalled bet ($3) returned to RockKillerTY
+RockKillerTY collected $6 from pot
+RockKillerTY: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: Tryptamean (big blind) folded before Flop
+Seat 4: RockKillerTY (button) (small blind) collected ($6)
+
+

@@ -1,0 +1,166 @@
+PokerStars Hand #154625281139:  Hold'em Limit ($3/$6 USD) - 2016/06/12 5:30:04 ET
+Table 'Paaliaq II' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($120 in chips)
+Seat 5: shalomrum ($30 in chips)
+VolkovDmitri: posts small blind $1
+shalomrum: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+shalomrum: calls $3
+*** FLOP *** [4h Ks 3s]
+shalomrum: checks
+VolkovDmitri: bets $3
+shalomrum: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [4h Ks 3s] [6s]
+shalomrum: checks
+Ag3r0n joins the table at seat #6
+VolkovDmitri: bets $6
+shalomrum: raises $6 to $12
+VolkovDmitri: calls $6
+*** RIVER *** [4h Ks 3s 6s] [3d]
+shalomrum: bets $6 and is all-in
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+shalomrum: shows [2s 9s] (a flush, King high)
+VolkovDmitri: shows [Kc 9c] (two pair, Kings and Threes)
+shalomrum collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [4h Ks 3s 6s 3d]
+Seat 4: VolkovDmitri (button) (small blind) showed [Kc 9c] and lost with two pair, Kings and Threes
+Seat 5: shalomrum (big blind) showed [2s 9s] and won ($59.50) with a flush, King high
+
+
+PokerStars Hand #154625315447:  Hold'em Limit ($3/$6 USD) - 2016/06/12 5:31:24 ET
+Table 'Paaliaq II' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($143.50 in chips)
+Seat 5: shalomrum ($35.50 in chips)
+VolkovDmitri: posts small blind $1
+shalomrum: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+shalomrum: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 4: VolkovDmitri (button) (small blind) collected ($6)
+Seat 5: shalomrum (big blind) folded before Flop
+
+
+PokerStars Hand #154625297904:  Hold'em Limit ($3/$6 USD) - 2016/06/12 5:30:43 ET
+Table 'Paaliaq II' 6-max Seat #5 is the button
+Seat 4: VolkovDmitri ($120 in chips)
+Seat 5: shalomrum ($59.50 in chips)
+shalomrum: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+shalomrum: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+shalomrum: calls $3
+*** FLOP *** [4c Jh Qc]
+VolkovDmitri: bets $3
+shalomrum: calls $3
+*** TURN *** [4c Jh Qc] [5h]
+Leko joins the table at seat #3
+VolkovDmitri: bets $6
+Tryptamean joins the table at seat #2
+shalomrum: calls $6
+*** RIVER *** [4c Jh Qc 5h] [Kc]
+VolkovDmitri: bets $6
+shalomrum: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Jd Kd] (two pair, Kings and Jacks)
+shalomrum: mucks hand
+VolkovDmitri collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4c Jh Qc 5h Kc]
+Seat 4: VolkovDmitri (big blind) showed [Jd Kd] and won ($47.50) with two pair, Kings and Jacks
+Seat 5: shalomrum (button) (small blind) mucked
+
+
+PokerStars Hand #154637549052:  Hold'em Limit ($3/$6 USD) - 2016/06/12 11:29:58 ET
+Table 'Paaliaq II' 6-max Seat #5 is the button
+Seat 2: jackRizzar ($372.22 in chips)
+Seat 5: Garuda Black ($127.01 in chips)
+Garuda Black: posts small blind $1
+jackRizzar: posts big blind $3
+*** HOLE CARDS ***
+Garuda Black: folds
+Uncalled bet ($2) returned to jackRizzar
+jackRizzar collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: jackRizzar (big blind) collected ($2)
+Seat 5: Garuda Black (button) (small blind) folded before Flop
+
+
+PokerStars Hand #154637529875:  Hold'em Limit ($3/$6 USD) - 2016/06/12 11:29:33 ET
+Table 'Paaliaq II' 6-max Seat #2 is the button
+Seat 2: jackRizzar ($393.22 in chips)
+Seat 5: Garuda Black ($106.51 in chips)
+jackRizzar: posts small blind $1
+Garuda Black: posts big blind $3
+*** HOLE CARDS ***
+jackRizzar: raises $3 to $6
+Garuda Black: calls $3
+*** FLOP *** [Js Tc Jh]
+Garuda Black: checks
+jackRizzar: bets $3
+Garuda Black: calls $3
+*** TURN *** [Js Tc Jh] [7s]
+Garuda Black: checks
+jackRizzar: bets $6
+Garuda Black: raises $6 to $12
+jackRizzar: calls $6
+*** RIVER *** [Js Tc Jh 7s] [7c]
+Garuda Black: bets $6
+jackRizzar: folds
+Uncalled bet ($6) returned to Garuda Black
+Garuda Black collected $41.50 from pot
+Garuda Black: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Js Tc Jh 7s 7c]
+Seat 2: jackRizzar (button) (small blind) folded on the River
+Seat 5: Garuda Black (big blind) collected ($41.50)
+
+
+PokerStars Hand #154637504545:  Hold'em Limit ($3/$6 USD) - 2016/06/12 11:29:01 ET
+Table 'Paaliaq II' 6-max Seat #5 is the button
+Seat 2: jackRizzar ($363.72 in chips)
+Seat 5: Garuda Black ($136.51 in chips)
+Garuda Black: posts small blind $1
+jackRizzar: posts big blind $3
+*** HOLE CARDS ***
+Garuda Black: raises $3 to $6
+tamnt10549 leaves the table
+jackRizzar: raises $3 to $9
+Garuda Black: raises $3 to $12
+Betting is capped
+jackRizzar: calls $3
+*** FLOP *** [Td 6d 4c]
+jackRizzar: checks
+Garuda Black: bets $3
+jackRizzar: raises $3 to $6
+Garuda Black: calls $3
+*** TURN *** [Td 6d 4c] [Th]
+jackRizzar: bets $6
+Garuda Black: calls $6
+*** RIVER *** [Td 6d 4c Th] [Jc]
+jackRizzar: bets $6
+Garuda Black: calls $6
+*** SHOW DOWN ***
+jackRizzar: shows [Qd Jd] (two pair, Jacks and Tens)
+Garuda Black: mucks hand
+jackRizzar collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Td 6d 4c Th Jc]
+Seat 2: jackRizzar (big blind) showed [Qd Jd] and won ($59.50) with two pair, Jacks and Tens
+Seat 5: Garuda Black (button) (small blind) mucked
+
+

@@ -1,0 +1,30 @@
+PokerStars Hand #148555658583:  Hold'em Limit ($3/$6 USD) - 2016/02/10 8:33:16 ET
+Table 'Echepolos' 6-max Seat #1 is the button
+Seat 1: _fayzulllo_ ($72 in chips)
+Seat 2: LolDnkaments ($72 in chips)
+_fayzulllo_: posts small blind $1
+LolDnkaments: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper joins the table at seat #3
+_fayzulllo_: raises $3 to $6
+LolDnkaments: calls $3
+*** FLOP *** [8h 4h 4s]
+LolDnkaments: checks
+_fayzulllo_: checks
+*** TURN *** [8h 4h 4s] [Js]
+LolDnkaments: bets $6
+_fayzulllo_: calls $6
+*** RIVER *** [8h 4h 4s Js] [7s]
+LolDnkaments: checks
+_fayzulllo_: checks
+*** SHOW DOWN ***
+LolDnkaments: shows [Ad 2h] (a pair of Fours)
+_fayzulllo_: mucks hand
+LolDnkaments collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [8h 4h 4s Js 7s]
+Seat 1: _fayzulllo_ (button) (small blind) mucked
+Seat 2: LolDnkaments (big blind) showed [Ad 2h] and won ($23.52) with a pair of Fours
+
+

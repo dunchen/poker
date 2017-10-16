@@ -1,0 +1,73 @@
+PokerStars Hand #163950711320:  Hold'em Limit ($3/$6 USD) - 2017/01/03 0:20:59 ET
+Table 'Amphitrite' 6-max Seat #2 is the button
+Seat 2: RaisemyNut$ ($407.45 in chips)
+Seat 4: DirtyDouble2 ($168.74 in chips)
+koldshot will be allowed to play after the button
+sugarnom13 will be allowed to play after the button
+RaisemyNut$: posts small blind $1
+zizonmusang: is sitting out
+DirtyDouble2: posts big blind $3
+*** HOLE CARDS ***
+RaisemyNut$: raises $3 to $6
+DirtyDouble2: calls $3
+*** FLOP *** [8s 3s Qc]
+DirtyDouble2: checks
+RaisemyNut$: bets $3
+DirtyDouble2: raises $3 to $6
+RaisemyNut$: calls $3
+*** TURN *** [8s 3s Qc] [4d]
+DirtyDouble2: bets $6
+RaisemyNut$: raises $6 to $12
+DirtyDouble2: calls $6
+*** RIVER *** [8s 3s Qc 4d] [Tc]
+DirtyDouble2: checks
+RaisemyNut$: bets $6
+DirtyDouble2: raises $6 to $12
+RaisemyNut$: calls $6
+*** SHOW DOWN ***
+DirtyDouble2: shows [Td 3d] (two pair, Tens and Threes)
+RaisemyNut$: mucks hand
+DirtyDouble2 collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [8s 3s Qc 4d Tc]
+Seat 2: RaisemyNut$ (button) (small blind) mucked
+Seat 4: DirtyDouble2 (big blind) showed [Td 3d] and won ($71.50) with two pair, Tens and Threes
+
+
+PokerStars Hand #163952613101:  Hold'em Limit ($3/$6 USD) - 2017/01/03 2:22:04 ET
+Table 'Amphitrite' 6-max Seat #2 is the button
+Seat 1: sugarnom13 ($204.13 in chips)
+Seat 2: RaisemyNut$ ($332.57 in chips)
+RaisemyNut$: posts small blind $1
+StrayMoth72: is sitting out
+sugarnom13: posts big blind $3
+*** HOLE CARDS ***
+RaisemyNut$: raises $3 to $6
+sugarnom13: raises $3 to $9
+kungsbjörn leaves the table
+RaisemyNut$: calls $3
+*** FLOP *** [7h 4c Qd]
+sugarnom13: bets $3
+RaisemyNut$: calls $3
+*** TURN *** [7h 4c Qd] [3h]
+sugarnom13: checks
+RaisemyNut$: bets $6
+sugarnom13: raises $6 to $12
+RaisemyNut$: raises $6 to $18
+sugarnom13: calls $6
+*** RIVER *** [7h 4c Qd 3h] [Kc]
+sugarnom13: bets $6
+RaisemyNut$: raises $6 to $12
+sugarnom13: calls $6
+*** SHOW DOWN ***
+RaisemyNut$: shows [7s Qh] (two pair, Queens and Sevens)
+sugarnom13: mucks hand
+RaisemyNut$ collected $83.50 from pot
+*** SUMMARY ***
+Total pot $84 | Rake $0.50
+Board [7h 4c Qd 3h Kc]
+Seat 1: sugarnom13 (big blind) mucked
+Seat 2: RaisemyNut$ (button) (small blind) showed [7s Qh] and won ($83.50) with two pair, Queens and Sevens
+
+

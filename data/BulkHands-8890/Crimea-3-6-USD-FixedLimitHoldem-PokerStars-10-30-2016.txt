@@ -1,0 +1,61 @@
+PokerStars Hand #160660486008:  Hold'em Limit ($3/$6 USD) - 2016/10/30 15:58:25 ET
+Table 'Crimea' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($121 in chips)
+Seat 6: TineJ2650 ($62.52 in chips)
+VolkovDmitri: posts small blind $1
+TineJ2650: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+TineJ2650: calls $3
+*** FLOP *** [Tc 8c Qc]
+TineJ2650: checks
+smellyrat777 joins the table at seat #2
+VolkovDmitri: bets $3
+TineJ2650: calls $3
+*** TURN *** [Tc 8c Qc] [Jc]
+TineJ2650: checks
+VolkovDmitri: checks
+*** RIVER *** [Tc 8c Qc Jc] [7s]
+TineJ2650: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+TineJ2650: shows [Kd As] (a straight, Ten to Ace)
+VolkovDmitri: mucks hand
+TineJ2650 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Tc 8c Qc Jc 7s]
+Seat 4: VolkovDmitri (button) (small blind) mucked
+Seat 6: TineJ2650 (big blind) showed [Kd As] and won ($17.64) with a straight, Ten to Ace
+
+
+PokerStars Hand #160660762576:  Hold'em Limit ($3/$6 USD) - 2016/10/30 16:03:54 ET
+Table 'Crimea' 6-max Seat #2 is the button
+Seat 2: smellyrat777 ($100.93 in chips)
+Seat 4: VolkovDmitri ($163.38 in chips)
+smellyrat777: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+smellyrat777: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Ts Th Ah]
+VolkovDmitri: checks
+smellyrat777: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [Ts Th Ah] [3h]
+VolkovDmitri: checks
+smellyrat777: checks
+*** RIVER *** [Ts Th Ah 3h] [2d]
+VolkovDmitri: checks
+smellyrat777: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [Qd 9c] (a pair of Tens)
+smellyrat777: shows [8c 8d] (two pair, Tens and Eights)
+smellyrat777 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ts Th Ah 3h 2d]
+Seat 2: smellyrat777 (button) (small blind) showed [8c 8d] and won ($17.64) with two pair, Tens and Eights
+Seat 4: VolkovDmitri (big blind) showed [Qd 9c] and lost with a pair of Tens
+
+

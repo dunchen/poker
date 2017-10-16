@@ -1,0 +1,122 @@
+PokerStars Hand #168800752714:  Hold'em Limit ($3/$6 USD) - 2017/04/09 12:36:42 ET
+Table 'Cottrell' 6-max Seat #4 is the button
+Seat 1: apx0surry9 ($117 in chips)
+Seat 4: AzureCaper ($72 in chips)
+AzureCaper: posts small blind $1
+apx0surry9: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: folds
+Uncalled bet ($2) returned to apx0surry9
+apx0surry9 collected $2 from pot
+apx0surry9: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: apx0surry9 (big blind) collected ($2)
+Seat 4: AzureCaper (button) (small blind) folded before Flop
+
+
+PokerStars Hand #168800742659:  Hold'em Limit ($3/$6 USD) - 2017/04/09 12:36:30 ET
+Table 'Cottrell' 6-max Seat #1 is the button
+Seat 1: apx0surry9 ($114 in chips)
+Seat 4: AzureCaper ($72 in chips)
+apx0surry9: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+yamaxerm joins the table at seat #2
+apx0surry9: raises $3 to $6
+AzureCaper: folds
+Uncalled bet ($3) returned to apx0surry9
+apx0surry9 collected $6 from pot
+apx0surry9: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: apx0surry9 (button) (small blind) collected ($6)
+Seat 4: AzureCaper (big blind) folded before Flop
+
+
+PokerStars Hand #168811789852:  Hold'em Limit ($3/$6 USD) - 2017/04/09 15:58:05 ET
+Table 'Cottrell' 6-max Seat #1 is the button
+Seat 1: pdsnr ($313.84 in chips)
+Seat 3: Norbert-04 ($15.41 in chips)
+vestimokrec will be allowed to play after the button
+pdsnr: posts small blind $1
+Norbert-04: posts big blind $3
+*** HOLE CARDS ***
+pdsnr: raises $3 to $6
+Norbert-04: calls $3
+*** FLOP *** [Ts 7d 5d]
+Norbert-04: bets $3
+humlefar is disconnected
+pdsnr: calls $3
+*** TURN *** [Ts 7d 5d] [6d]
+Norbert-04: bets $6
+pdsnr: raises $6 to $12
+Norbert-04: calls $0.41 and is all-in
+Uncalled bet ($5.59) returned to pdsnr
+*** RIVER *** [Ts 7d 5d 6d] [4h]
+*** SHOW DOWN ***
+Norbert-04: shows [5s Jd] (a pair of Fives)
+pdsnr: shows [7s Kd] (a pair of Sevens)
+pdsnr collected $30.32 from pot
+*** SUMMARY ***
+Total pot $30.82 | Rake $0.50
+Board [Ts 7d 5d 6d 4h]
+Seat 1: pdsnr (button) (small blind) showed [7s Kd] and won ($30.32) with a pair of Sevens
+Seat 3: Norbert-04 (big blind) showed [5s Jd] and lost with a pair of Fives
+
+
+PokerStars Hand #168818380776:  Hold'em Limit ($3/$6 USD) - 2017/04/09 17:59:56 ET
+Table 'Cottrell' 6-max Seat #4 is the button
+Seat 3: Wizard in me ($275 in chips)
+Seat 4: vestimokrec ($114 in chips)
+vestimokrec: posts small blind $1
+Jack_Wu1985: is sitting out
+Wizard in me: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+Wizard in me: calls $3
+*** FLOP *** [Kh 8h 2h]
+Wizard in me: checks
+vestimokrec: bets $3
+Wizard in me: folds
+Uncalled bet ($3) returned to vestimokrec
+vestimokrec collected $11.76 from pot
+vestimokrec: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kh 8h 2h]
+Seat 3: Wizard in me (big blind) folded on the Flop
+Seat 4: vestimokrec (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #168818351863:  Hold'em Limit ($3/$6 USD) - 2017/04/09 17:59:08 ET
+Table 'Cottrell' 6-max Seat #6 is the button
+Seat 3: Wizard in me ($300 in chips)
+Seat 6: Jack_Wu1985 ($60 in chips)
+Jack_Wu1985: posts small blind $1
+Wizard in me: posts big blind $3
+vestimokrec joins the table at seat #4
+*** HOLE CARDS ***
+Jack_Wu1985: raises $3 to $6
+Wizard in me: raises $3 to $9
+Jack_Wu1985: calls $3
+*** FLOP *** [Kc Kh Jc]
+Wizard in me: bets $3
+Jack_Wu1985: calls $3
+*** TURN *** [Kc Kh Jc] [Ts]
+Wizard in me: bets $6
+Jack_Wu1985: calls $6
+*** RIVER *** [Kc Kh Jc Ts] [Th]
+Wizard in me: bets $6
+Jack_Wu1985: calls $6
+*** SHOW DOWN ***
+Wizard in me: shows [Jd 7d] (two pair, Kings and Jacks)
+Jack_Wu1985: shows [Js Qd] (two pair, Kings and Jacks - Queen kicker)
+Jack_Wu1985 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Kc Kh Jc Ts Th]
+Seat 3: Wizard in me (big blind) showed [Jd 7d] and lost with two pair, Kings and Jacks
+Seat 6: Jack_Wu1985 (button) (small blind) showed [Js Qd] and won ($47.50) with two pair, Kings and Jacks
+
+

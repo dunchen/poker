@@ -1,0 +1,32 @@
+PokerStars Hand #148946499046:  Hold'em Limit ($3/$6 USD) - 2016/02/17 6:07:30 ET
+Table 'Andraimon II' 6-max Seat #6 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 6: Andredias950 ($30 in chips)
+Andredias950: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Andredias950: calls $2
+VolkovDmitri: raises $3 to $6
+Andredias950: calls $3
+*** FLOP *** [8s 4c 3s]
+VolkovDmitri: bets $3
+Andredias950: calls $3
+*** TURN *** [8s 4c 3s] [2c]
+VolkovDmitri: checks
+Andredias950: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [8s 4c 3s 2c] [Qd]
+VolkovDmitri: checks
+Andredias950: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+Andredias950: shows [3h 2h] (two pair, Threes and Deuces)
+VolkovDmitri: mucks hand
+Andredias950 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [8s 4c 3s 2c Qd]
+Seat 1: VolkovDmitri (big blind) mucked
+Seat 6: Andredias950 (button) (small blind) showed [3h 2h] and won ($41.50) with two pair, Threes and Deuces
+
+

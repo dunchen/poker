@@ -1,0 +1,32 @@
+PokerStars Hand #155895820103:  Hold'em Limit ($3/$6 USD) - 2016/07/12 17:52:54 ET
+Table 'Papagena' 6-max Seat #4 is the button
+Seat 4: BuzovaPro ($145.44 in chips)
+Seat 5: AzureCaper ($75 in chips)
+BuzovaPro: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+sammybeyo leaves the table
+BuzovaPro: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [Qc Th 6c]
+AzureCaper: checks
+BuzovaPro: bets $3
+AzureCaper: raises $3 to $6
+BuzovaPro: calls $3
+*** TURN *** [Qc Th 6c] [8h]
+AzureCaper: bets $6
+BuzovaPro: calls $6
+*** RIVER *** [Qc Th 6c 8h] [As]
+AzureCaper: checks
+BuzovaPro: checks
+*** SHOW DOWN ***
+AzureCaper: shows [Qd 9c] (a pair of Queens)
+BuzovaPro: mucks hand
+AzureCaper collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Qc Th 6c 8h As]
+Seat 4: BuzovaPro (button) (small blind) mucked
+Seat 5: AzureCaper (big blind) showed [Qd 9c] and won ($35.50) with a pair of Queens
+
+

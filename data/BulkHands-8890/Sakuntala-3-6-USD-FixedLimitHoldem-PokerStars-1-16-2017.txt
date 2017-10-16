@@ -1,0 +1,55 @@
+PokerStars Hand #164677014926:  Hold'em Limit ($3/$6 USD) - 2017/01/16 13:03:35 ET
+Table 'Sakuntala' 6-max Seat #4 is the button
+Seat 1: nicmct ($377.88 in chips)
+Seat 4: Chessnok ($107.28 in chips)
+Chessnok: posts small blind $1
+LouisB: is sitting out
+nicmct: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+nicmct: calls $3
+*** FLOP *** [Ts 8s 7d]
+nicmct: checks
+Chessnok: bets $3
+nicmct: folds
+Uncalled bet ($3) returned to Chessnok
+Chessnok collected $11.76 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ts 8s 7d]
+Seat 1: nicmct (big blind) folded on the Flop
+Seat 4: Chessnok (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #164677032518:  Hold'em Limit ($3/$6 USD) - 2017/01/16 13:03:54 ET
+Table 'Sakuntala' 6-max Seat #1 is the button
+Seat 1: nicmct ($371.88 in chips)
+Seat 4: Chessnok ($113.04 in chips)
+nicmct: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+nicmct: raises $3 to $6
+Chessnok: raises $3 to $9
+nicmct: calls $3
+*** FLOP *** [Ks Qc 5s]
+Chessnok: bets $3
+nicmct: calls $3
+*** TURN *** [Ks Qc 5s] [Kh]
+Chessnok: bets $6
+nicmct: calls $6
+*** RIVER *** [Ks Qc 5s Kh] [Jd]
+Chessnok: checks
+nicmct: bets $6
+Chessnok: calls $6
+*** SHOW DOWN ***
+nicmct: shows [Kd 5c] (a full house, Kings full of Fives)
+Chessnok: mucks hand
+nicmct collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Ks Qc 5s Kh Jd]
+Seat 1: nicmct (button) (small blind) showed [Kd 5c] and won ($47.50) with a full house, Kings full of Fives
+Seat 4: Chessnok (big blind) mucked
+
+

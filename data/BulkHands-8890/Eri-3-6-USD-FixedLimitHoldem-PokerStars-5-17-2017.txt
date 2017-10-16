@@ -1,0 +1,80 @@
+PokerStars Hand #170533791679:  Hold'em Limit ($3/$6 USD) - 2017/05/17 7:53:10 ET
+Table 'Eri' 6-max Seat #4 is the button
+Seat 3: Yaha222 ($75.97 in chips)
+Seat 4: Anchig ($121 in chips)
+Anchig: posts small blind $1
+Yaha222: posts big blind $3
+*** HOLE CARDS ***
+Anchig: raises $3 to $6
+RockKillerTY joins the table at seat #5
+Yaha222: calls $3
+*** FLOP *** [9h 2c 3s]
+Yaha222: checks
+Anchig: bets $3
+Yaha222: calls $3
+*** TURN *** [9h 2c 3s] [Th]
+Yaha222: checks
+Anchig: bets $6
+Yaha222: calls $6
+*** RIVER *** [9h 2c 3s Th] [8h]
+Yaha222: bets $6
+Anchig: calls $6
+*** SHOW DOWN ***
+Yaha222: shows [9d 8s] (two pair, Nines and Eights)
+Anchig: mucks hand
+Yaha222 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9h 2c 3s Th 8h]
+Seat 3: Yaha222 (big blind) showed [9d 8s] and won ($41.50) with two pair, Nines and Eights
+Seat 4: Anchig (button) (small blind) mucked
+
+
+PokerStars Hand #170533805713:  Hold'em Limit ($3/$6 USD) - 2017/05/17 7:53:42 ET
+Table 'Eri' 6-max Seat #3 is the button
+Seat 3: Yaha222 ($96.47 in chips)
+Seat 4: Anchig ($100 in chips)
+Yaha222: posts small blind $1
+Anchig: posts big blind $3
+*** HOLE CARDS ***
+Yaha222: folds
+Uncalled bet ($2) returned to Anchig
+Anchig collected $2 from pot
+Anchig: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: Yaha222 (button) (small blind) folded before Flop
+Seat 4: Anchig (big blind) collected ($2)
+
+
+PokerStars Hand #170533942765:  Hold'em Limit ($3/$6 USD) - 2017/05/17 7:59:20 ET
+Table 'Eri' 6-max Seat #5 is the button
+Seat 4: Anchig ($115.85 in chips)
+Seat 5: RockKillerTY ($190.83 in chips)
+RockKillerTY: posts small blind $1
+Anchig: posts big blind $3
+*** HOLE CARDS ***
+RockKillerTY: raises $3 to $6
+Anchig: calls $3
+*** FLOP *** [Td 3c 8c]
+Anchig: checks
+RockKillerTY: bets $3
+Anchig: raises $3 to $6
+RockKillerTY: calls $3
+*** TURN *** [Td 3c 8c] [Th]
+Anchig: bets $6
+RockKillerTY: calls $6
+*** RIVER *** [Td 3c 8c Th] [Kd]
+Anchig: bets $6
+RockKillerTY: calls $6
+*** SHOW DOWN ***
+Anchig: shows [5d Tc] (three of a kind, Tens)
+RockKillerTY: mucks hand
+Anchig collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Td 3c 8c Th Kd]
+Seat 4: Anchig (big blind) showed [5d Tc] and won ($47.50) with three of a kind, Tens
+Seat 5: RockKillerTY (button) (small blind) mucked
+
+

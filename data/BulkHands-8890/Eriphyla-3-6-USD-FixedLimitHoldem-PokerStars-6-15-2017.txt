@@ -1,0 +1,75 @@
+PokerStars Hand #171809126118:  Hold'em Limit ($3/$6 USD) - 2017/06/15 13:03:37 ET
+Table 'Eriphyla' 6-max Seat #4 is the button
+Seat 4: Agrotait ($73 in chips)
+Seat 6: popesxxx ($31 in chips)
+Agrotait: posts small blind $1
+popesxxx: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+popesxxx: raises $3 to $9
+Agrotait: calls $3
+*** FLOP *** [9d 6h Ah]
+popesxxx: checks
+DismasX joins the table at seat #2
+Agrotait: bets $3
+popesxxx: calls $3
+*** TURN *** [9d 6h Ah] [7s]
+popesxxx: checks
+Agrotait: checks
+*** RIVER *** [9d 6h Ah 7s] [8c]
+popesxxx: bets $6
+Agrotait: raises $6 to $12
+popesxxx: calls $6
+*** SHOW DOWN ***
+Agrotait: shows [Ts 9s] (a straight, Six to Ten)
+popesxxx: mucks hand
+Agrotait collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9d 6h Ah 7s 8c]
+Seat 4: Agrotait (button) (small blind) showed [Ts 9s] and won ($47.50) with a straight, Six to Ten
+Seat 6: popesxxx (big blind) mucked
+
+
+PokerStars Hand #171809160780:  Hold'em Limit ($3/$6 USD) - 2017/06/15 13:04:29 ET
+Table 'Eriphyla' 6-max Seat #6 is the button
+Seat 1: vestimokrec ($120 in chips)
+Seat 6: popesxxx ($7 in chips)
+popesxxx: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+popesxxx: folds
+Uncalled bet ($2) returned to vestimokrec
+vestimokrec collected $2 from pot
+vestimokrec: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: vestimokrec (big blind) collected ($2)
+Seat 6: popesxxx (button) (small blind) folded before Flop
+
+
+PokerStars Hand #171809164431:  Hold'em Limit ($3/$6 USD) - 2017/06/15 13:04:34 ET
+Table 'Eriphyla' 6-max Seat #1 is the button
+Seat 1: vestimokrec ($121 in chips)
+Seat 6: popesxxx ($6 in chips)
+vestimokrec: posts small blind $1
+popesxxx: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+popesxxx: calls $3 and is all-in
+Agrotait leaves the table
+*** FLOP *** [9d 4c 7c]
+*** TURN *** [9d 4c 7c] [Tc]
+*** RIVER *** [9d 4c 7c Tc] [8s]
+*** SHOW DOWN ***
+popesxxx: shows [5d 5s] (a pair of Fives)
+vestimokrec: shows [Ad 7h] (a pair of Sevens)
+zqwsx joins the table at seat #5
+vestimokrec collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9d 4c 7c Tc 8s]
+Seat 1: vestimokrec (button) (small blind) showed [Ad 7h] and won ($11.76) with a pair of Sevens
+Seat 6: popesxxx (big blind) showed [5d 5s] and lost with a pair of Fives
+
+

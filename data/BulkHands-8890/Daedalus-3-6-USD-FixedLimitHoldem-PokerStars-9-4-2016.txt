@@ -1,0 +1,31 @@
+PokerStars Hand #158173525810:  Hold'em Limit ($3/$6 USD) - 2016/09/04 19:39:03 ET
+Table 'Daedalus' 10-max Seat #5 is the button
+Seat 5: phrantsuz ($89.26 in chips)
+Seat 6: BuzovaPro ($72 in chips)
+phrantsuz: posts small blind $1
+BuzovaPro: posts big blind $3
+*** HOLE CARDS ***
+phrantsuz: calls $2
+BuzovaPro: checks
+*** FLOP *** [6c Js Th]
+vestimokrec joins the table at seat #7
+BuzovaPro: bets $3
+phrantsuz: calls $3
+*** TURN *** [6c Js Th] [5s]
+BuzovaPro: bets $6
+phrantsuz: raises $6 to $12
+BuzovaPro: calls $6
+*** RIVER *** [6c Js Th 5s] [Jh]
+BuzovaPro: checks
+phrantsuz: checks
+*** SHOW DOWN ***
+BuzovaPro: shows [Tc 7h] (two pair, Jacks and Tens)
+phrantsuz: mucks hand
+BuzovaPro collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6c Js Th 5s Jh]
+Seat 5: phrantsuz (button) (small blind) mucked
+Seat 6: BuzovaPro (big blind) showed [Tc 7h] and won ($35.50) with two pair, Jacks and Tens
+
+

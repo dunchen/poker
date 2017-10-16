@@ -1,0 +1,495 @@
+PokerStars Hand #170852696727:  Hold'em Limit ($3/$6 USD) - 2017/05/24 10:22:48 ET
+Table 'Vladimir II' 6-max Seat #1 is the button
+Seat 1: nedo1414 ($120 in chips)
+Seat 2: B_loJkl ($150 in chips)
+nedo1414: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+nedo1414: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [4c 6s 6d]
+B_loJkl: bets $3
+nedo1414: calls $3
+*** TURN *** [4c 6s 6d] [Ad]
+B_loJkl: bets $6
+nedo1414: raises $6 to $12
+B_loJkl: folds
+Uncalled bet ($6) returned to nedo1414
+nedo1414 collected $29.50 from pot
+nedo1414: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4c 6s 6d Ad]
+Seat 1: nedo1414 (button) (small blind) collected ($29.50)
+Seat 2: B_loJkl (big blind) folded on the Turn
+
+
+PokerStars Hand #170852712769:  Hold'em Limit ($3/$6 USD) - 2017/05/24 10:23:17 ET
+Table 'Vladimir II' 6-max Seat #1 is the button
+Seat 1: nedo1414 ($128.50 in chips)
+Seat 2: B_loJkl ($140.76 in chips)
+nedo1414: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+nedo1414: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [6s 2c 9h]
+B_loJkl: checks
+nedo1414: bets $3
+B_loJkl: calls $3
+*** TURN *** [6s 2c 9h] [4s]
+B_loJkl: checks
+nedo1414: checks
+*** RIVER *** [6s 2c 9h 4s] [Jc]
+B_loJkl: checks
+nedo1414: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to nedo1414
+nedo1414 collected $17.64 from pot
+nedo1414: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6s 2c 9h 4s Jc]
+Seat 1: nedo1414 (button) (small blind) collected ($17.64)
+Seat 2: B_loJkl (big blind) folded on the River
+
+
+PokerStars Hand #170852706776:  Hold'em Limit ($3/$6 USD) - 2017/05/24 10:23:06 ET
+Table 'Vladimir II' 6-max Seat #2 is the button
+Seat 1: nedo1414 ($134.50 in chips)
+Seat 2: B_loJkl ($135 in chips)
+B_loJkl: posts small blind $1
+nedo1414: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+nedo1414: calls $3
+*** FLOP *** [6c Ah 4c]
+nedo1414: checks
+B_loJkl: bets $3
+nedo1414: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6c Ah 4c]
+Seat 1: nedo1414 (big blind) folded on the Flop
+Seat 2: B_loJkl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #170852746846:  Hold'em Limit ($3/$6 USD) - 2017/05/24 10:24:19 ET
+Table 'Vladimir II' 6-max Seat #1 is the button
+Seat 1: nedo1414 ($178.14 in chips)
+Seat 2: B_loJkl ($89.76 in chips)
+nedo1414: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+nedo1414: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Kc Qd Th]
+B_loJkl: checks
+nedo1414: bets $3
+B_loJkl: calls $3
+*** TURN *** [Kc Qd Th] [Kd]
+B_loJkl: checks
+nedo1414: checks
+*** RIVER *** [Kc Qd Th Kd] [6d]
+B_loJkl: bets $6
+nedo1414: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [3d Ad] (a flush, Ace high)
+nedo1414: mucks hand
+B_loJkl collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kc Qd Th Kd 6d]
+Seat 1: nedo1414 (button) (small blind) mucked
+Seat 2: B_loJkl (big blind) showed [3d Ad] and won ($29.50) with a flush, Ace high
+
+
+PokerStars Hand #170852729356:  Hold'em Limit ($3/$6 USD) - 2017/05/24 10:23:47 ET
+Table 'Vladimir II' 6-max Seat #1 is the button
+Seat 1: nedo1414 ($157.64 in chips)
+Seat 2: B_loJkl ($110.76 in chips)
+nedo1414: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+nedo1414: raises $3 to $6
+B_loJkl: raises $3 to $9
+nedo1414: calls $3
+*** FLOP *** [2s 7h 6d]
+B_loJkl: bets $3
+nedo1414: calls $3
+*** TURN *** [2s 7h 6d] [2h]
+B_loJkl: bets $6
+nedo1414: calls $6
+*** RIVER *** [2s 7h 6d 2h] [3d]
+B_loJkl: bets $6
+nedo1414: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [Ad Jh] (a pair of Deuces)
+nedo1414: shows [5h 5s] (two pair, Fives and Deuces)
+nedo1414 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2s 7h 6d 2h 3d]
+Seat 1: nedo1414 (button) (small blind) showed [5h 5s] and won ($47.50) with two pair, Fives and Deuces
+Seat 2: B_loJkl (big blind) showed [Ad Jh] and lost with a pair of Deuces
+
+
+PokerStars Hand #170852740844:  Hold'em Limit ($3/$6 USD) - 2017/05/24 10:24:08 ET
+Table 'Vladimir II' 6-max Seat #2 is the button
+Seat 1: nedo1414 ($181.14 in chips)
+Seat 2: B_loJkl ($86.76 in chips)
+B_loJkl: posts small blind $1
+nedo1414: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+nedo1414: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $6 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: nedo1414 (big blind) folded before Flop
+Seat 2: B_loJkl (button) (small blind) collected ($6)
+
+
+PokerStars Hand #170852770801:  Hold'em Limit ($3/$6 USD) - 2017/05/24 10:25:03 ET
+Table 'Vladimir II' 6-max Seat #1 is the button
+Seat 1: nedo1414 ($180.64 in chips)
+Seat 2: B_loJkl ($86.26 in chips)
+nedo1414: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+nedo1414: raises $3 to $6
+B_loJkl: folds
+Uncalled bet ($3) returned to nedo1414
+nedo1414 collected $6 from pot
+nedo1414: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: nedo1414 (button) (small blind) collected ($6)
+Seat 2: B_loJkl (big blind) folded before Flop
+
+
+PokerStars Hand #170852777574:  Hold'em Limit ($3/$6 USD) - 2017/05/24 10:25:15 ET
+Table 'Vladimir II' 6-max Seat #2 is the button
+Seat 1: nedo1414 ($183.64 in chips)
+Seat 2: B_loJkl ($83.26 in chips)
+B_loJkl: posts small blind $1
+nedo1414: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+nedo1414: calls $3
+*** FLOP *** [5c Qh Ac]
+nedo1414: checks
+B_loJkl: bets $3
+nedo1414: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5c Qh Ac]
+Seat 1: nedo1414 (big blind) folded on the Flop
+Seat 2: B_loJkl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #170852756500:  Hold'em Limit ($3/$6 USD) - 2017/05/24 10:24:37 ET
+Table 'Vladimir II' 6-max Seat #2 is the button
+Seat 1: nedo1414 ($163.14 in chips)
+Seat 2: B_loJkl ($104.26 in chips)
+B_loJkl: posts small blind $1
+nedo1414: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+nedo1414: calls $3
+*** FLOP *** [9s Ts Jd]
+nedo1414: checks
+B_loJkl: bets $3
+nedo1414: raises $3 to $6
+B_loJkl: calls $3
+*** TURN *** [9s Ts Jd] [5c]
+nedo1414: bets $6
+B_loJkl: calls $6
+*** RIVER *** [9s Ts Jd 5c] [Ah]
+nedo1414: checks
+B_loJkl: checks
+*** SHOW DOWN ***
+nedo1414: shows [Qd Jh] (a pair of Jacks)
+B_loJkl: mucks hand
+nedo1414 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [9s Ts Jd 5c Ah]
+Seat 1: nedo1414 (big blind) showed [Qd Jh] and won ($35.50) with a pair of Jacks
+Seat 2: B_loJkl (button) (small blind) mucked
+
+
+PokerStars Hand #170852783872:  Hold'em Limit ($3/$6 USD) - 2017/05/24 10:25:26 ET
+Table 'Vladimir II' 6-max Seat #1 is the button
+Seat 1: nedo1414 ($177.64 in chips)
+Seat 2: B_loJkl ($89.02 in chips)
+nedo1414: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+nedo1414: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [7h 4s 8c]
+B_loJkl: checks
+nedo1414: bets $3
+B_loJkl: calls $3
+*** TURN *** [7h 4s 8c] [2d]
+B_loJkl: checks
+nedo1414: bets $6
+B_loJkl: calls $6
+*** RIVER *** [7h 4s 8c 2d] [Qs]
+B_loJkl: checks
+nedo1414: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+nedo1414: shows [4c 6h] (a pair of Fours)
+B_loJkl: mucks hand
+nedo1414 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [7h 4s 8c 2d Qs]
+Seat 1: nedo1414 (button) (small blind) showed [4c 6h] and won ($41.50) with a pair of Fours
+Seat 2: B_loJkl (big blind) mucked
+
+
+PokerStars Hand #170852798120:  Hold'em Limit ($3/$6 USD) - 2017/05/24 10:25:52 ET
+Table 'Vladimir II' 6-max Seat #2 is the button
+Seat 1: nedo1414 ($198.14 in chips)
+Seat 2: B_loJkl ($68.02 in chips)
+B_loJkl: posts small blind $1
+nedo1414: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+nedo1414: calls $3
+*** FLOP *** [8d 7d 6d]
+nedo1414: checks
+B_loJkl: bets $3
+nedo1414: raises $3 to $6
+B_loJkl: calls $3
+*** TURN *** [8d 7d 6d] [6c]
+nedo1414: bets $6
+B_loJkl: calls $6
+*** RIVER *** [8d 7d 6d 6c] [Kc]
+nedo1414: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to nedo1414
+nedo1414 collected $35.50 from pot
+nedo1414: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [8d 7d 6d 6c Kc]
+Seat 1: nedo1414 (big blind) collected ($35.50)
+Seat 2: B_loJkl (button) (small blind) folded on the River
+
+
+PokerStars Hand #170852810853:  Hold'em Limit ($3/$6 USD) - 2017/05/24 10:26:15 ET
+Table 'Vladimir II' 6-max Seat #1 is the button
+Seat 1: nedo1414 ($215.64 in chips)
+Seat 2: B_loJkl ($50.02 in chips)
+nedo1414: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+nedo1414: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Jc 5d 8s]
+B_loJkl: checks
+nedo1414: bets $3
+B_loJkl: raises $3 to $6
+nedo1414: calls $3
+*** TURN *** [Jc 5d 8s] [9h]
+B_loJkl: bets $6
+nedo1414: calls $6
+*** RIVER *** [Jc 5d 8s 9h] [8d]
+B_loJkl: bets $6
+nedo1414: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [6c 7d] (a straight, Five to Nine)
+nedo1414: mucks hand
+B_loJkl collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Jc 5d 8s 9h 8d]
+Seat 1: nedo1414 (button) (small blind) mucked
+Seat 2: B_loJkl (big blind) showed [6c 7d] and won ($47.50) with a straight, Five to Nine
+
+
+PokerStars Hand #170852826760:  Hold'em Limit ($3/$6 USD) - 2017/05/24 10:26:43 ET
+Table 'Vladimir II' 6-max Seat #1 is the button
+Seat 1: nedo1414 ($209.14 in chips)
+Seat 2: B_loJkl ($55.52 in chips)
+nedo1414: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+nedo1414: raises $3 to $6
+B_loJkl: raises $3 to $9
+nedo1414: raises $3 to $12
+Betting is capped
+B_loJkl: calls $3
+*** FLOP *** [7s Ad 9h]
+B_loJkl: bets $3
+nedo1414: calls $3
+*** TURN *** [7s Ad 9h] [4d]
+B_loJkl: bets $6
+nedo1414: calls $6
+*** RIVER *** [7s Ad 9h 4d] [9c]
+B_loJkl: checks
+nedo1414: checks
+*** SHOW DOWN ***
+B_loJkl: shows [5s 5h] (two pair, Nines and Fives)
+nedo1414: shows [Kd Kh] (two pair, Kings and Nines)
+nedo1414 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [7s Ad 9h 4d 9c]
+Seat 1: nedo1414 (button) (small blind) showed [Kd Kh] and won ($41.50) with two pair, Kings and Nines
+Seat 2: B_loJkl (big blind) showed [5s 5h] and lost with two pair, Nines and Fives
+
+
+PokerStars Hand #170852843181:  Hold'em Limit ($3/$6 USD) - 2017/05/24 10:27:13 ET
+Table 'Vladimir II' 6-max Seat #1 is the button
+Seat 1: nedo1414 ($230.64 in chips)
+Seat 2: B_loJkl ($33.52 in chips)
+nedo1414: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+nedo1414: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Jc Th 3d]
+B_loJkl: checks
+nedo1414: bets $3
+B_loJkl: calls $3
+*** TURN *** [Jc Th 3d] [Kh]
+B_loJkl: checks
+nedo1414: bets $6
+B_loJkl: calls $6
+*** RIVER *** [Jc Th 3d Kh] [Ac]
+B_loJkl: checks
+nedo1414: checks
+*** SHOW DOWN ***
+B_loJkl: shows [2c Ah] (a pair of Aces)
+nedo1414: mucks hand
+B_loJkl collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Jc Th 3d Kh Ac]
+Seat 1: nedo1414 (button) (small blind) mucked
+Seat 2: B_loJkl (big blind) showed [2c Ah] and won ($29.50) with a pair of Aces
+
+
+PokerStars Hand #170852817649:  Hold'em Limit ($3/$6 USD) - 2017/05/24 10:26:27 ET
+Table 'Vladimir II' 6-max Seat #2 is the button
+Seat 1: nedo1414 ($191.64 in chips)
+Seat 2: B_loJkl ($73.52 in chips)
+B_loJkl: posts small blind $1
+nedo1414: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+nedo1414: calls $3
+*** FLOP *** [2h Tc 5h]
+nedo1414: checks
+B_loJkl: bets $3
+nedo1414: raises $3 to $6
+B_loJkl: calls $3
+*** TURN *** [2h Tc 5h] [2d]
+nedo1414: bets $6
+B_loJkl: calls $6
+*** RIVER *** [2h Tc 5h 2d] [9c]
+nedo1414: checks
+B_loJkl: checks
+*** SHOW DOWN ***
+nedo1414: shows [Ah 3c] (a pair of Deuces)
+B_loJkl: mucks hand
+nedo1414 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [2h Tc 5h 2d 9c]
+Seat 1: nedo1414 (big blind) showed [Ah 3c] and won ($35.50) with a pair of Deuces
+Seat 2: B_loJkl (button) (small blind) mucked
+
+
+PokerStars Hand #170852840268:  Hold'em Limit ($3/$6 USD) - 2017/05/24 10:27:08 ET
+Table 'Vladimir II' 6-max Seat #2 is the button
+Seat 1: nedo1414 ($229.64 in chips)
+Seat 2: B_loJkl ($34.52 in chips)
+B_loJkl: posts small blind $1
+nedo1414: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: folds
+Uncalled bet ($2) returned to nedo1414
+nedo1414 collected $2 from pot
+nedo1414: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: nedo1414 (big blind) collected ($2)
+Seat 2: B_loJkl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #170852858147:  Hold'em Limit ($3/$6 USD) - 2017/05/24 10:27:40 ET
+Table 'Vladimir II' 6-max Seat #1 is the button
+Seat 1: nedo1414 ($233.14 in chips)
+Seat 2: B_loJkl ($30.02 in chips)
+nedo1414: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+nedo1414: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Ac Qs Tc]
+B_loJkl: checks
+nedo1414: checks
+*** TURN *** [Ac Qs Tc] [2h]
+B_loJkl: bets $6
+nedo1414: raises $6 to $12
+B_loJkl: raises $6 to $18
+nedo1414: raises $6 to $24
+Betting is capped
+B_loJkl: calls $6
+*** RIVER *** [Ac Qs Tc 2h] [As]
+B_loJkl: bets $0.02 and is all-in
+nedo1414: calls $0.02
+*** SHOW DOWN ***
+B_loJkl: shows [Js Kd] (a straight, Ten to Ace)
+nedo1414: shows [Qd Qh] (a full house, Queens full of Aces)
+nedo1414 collected $59.54 from pot
+*** SUMMARY ***
+Total pot $60.04 | Rake $0.50
+Board [Ac Qs Tc 2h As]
+Seat 1: nedo1414 (button) (small blind) showed [Qd Qh] and won ($59.54) with a full house, Queens full of Aces
+Seat 2: B_loJkl (big blind) showed [Js Kd] and lost with a straight, Ten to Ace
+
+
+PokerStars Hand #170852851029:  Hold'em Limit ($3/$6 USD) - 2017/05/24 10:27:27 ET
+Table 'Vladimir II' 6-max Seat #2 is the button
+Seat 1: nedo1414 ($215.64 in chips)
+Seat 2: B_loJkl ($48.02 in chips)
+B_loJkl: posts small blind $1
+nedo1414: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+nedo1414: calls $3
+*** FLOP *** [Td 9h 5c]
+nedo1414: checks
+B_loJkl: checks
+*** TURN *** [Td 9h 5c] [7d]
+nedo1414: bets $6
+B_loJkl: calls $6
+*** RIVER *** [Td 9h 5c 7d] [Qs]
+nedo1414: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+nedo1414: shows [9c 8d] (a pair of Nines)
+B_loJkl: mucks hand
+nedo1414 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Td 9h 5c 7d Qs]
+Seat 1: nedo1414 (big blind) showed [9c 8d] and won ($35.50) with a pair of Nines
+Seat 2: B_loJkl (button) (small blind) mucked
+
+

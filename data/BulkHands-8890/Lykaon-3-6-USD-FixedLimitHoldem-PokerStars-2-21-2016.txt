@@ -1,0 +1,48 @@
+PokerStars Hand #149166011462:  Hold'em Limit ($3/$6 USD) - 2016/02/21 5:57:57 ET
+Table 'Lykaon' 6-max Seat #6 is the button
+Seat 1: Agrotait ($72 in chips)
+Seat 6: lokendo ($200 in chips)
+lokendo: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+lokendo: raises $3 to $6
+Agrotait: folds
+Uncalled bet ($3) returned to lokendo
+lokendo collected $6 from pot
+lokendo: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: Agrotait (big blind) folded before Flop
+Seat 6: lokendo (button) (small blind) collected ($6)
+
+
+PokerStars Hand #149166020439:  Hold'em Limit ($3/$6 USD) - 2016/02/21 5:58:07 ET
+Table 'Lykaon' 6-max Seat #1 is the button
+Seat 1: Agrotait ($69 in chips)
+Seat 6: lokendo ($203 in chips)
+Agrotait: posts small blind $1
+lokendo: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+lokendo: calls $3
+*** FLOP *** [Ad 3d Qs]
+lokendo: checks
+Agrotait: bets $3
+lokendo: calls $3
+*** TURN *** [Ad 3d Qs] [As]
+lokendo: checks
+Agrotait: checks
+*** RIVER *** [Ad 3d Qs As] [Kh]
+lokendo: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+lokendo: shows [Ks Ts] (two pair, Aces and Kings)
+Agrotait: mucks hand
+lokendo collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ad 3d Qs As Kh]
+Seat 1: Agrotait (button) (small blind) mucked
+Seat 6: lokendo (big blind) showed [Ks Ts] and won ($29.50) with two pair, Aces and Kings
+
+

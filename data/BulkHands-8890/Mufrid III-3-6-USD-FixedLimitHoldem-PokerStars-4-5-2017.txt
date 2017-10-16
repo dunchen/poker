@@ -1,0 +1,59 @@
+PokerStars Hand #168616151380:  Hold'em Limit ($3/$6 USD) - 2017/04/05 12:45:10 ET
+Table 'Mufrid III' 6-max Seat #5 is the button
+Seat 3: Jangoax ($43 in chips)
+Seat 5: GoliafUa ($117 in chips)
+GoliafUa: posts small blind $1
+Jangoax: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa: raises $3 to $6
+Jangoax: calls $3
+*** FLOP *** [Td 4c 2h]
+Jangoax: checks
+GoliafUa: bets $3
+Jangoax: raises $3 to $6
+GoliafUa: calls $3
+*** TURN *** [Td 4c 2h] [4s]
+Jangoax: bets $6
+GoliafUa: raises $6 to $12
+Jangoax: folds
+Uncalled bet ($6) returned to GoliafUa
+GoliafUa collected $35.50 from pot
+GoliafUa: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Td 4c 2h 4s]
+Seat 3: Jangoax (big blind) folded on the Turn
+Seat 5: GoliafUa (button) (small blind) collected ($35.50)
+
+
+PokerStars Hand #168623403237:  Hold'em Limit ($3/$6 USD) - 2017/04/05 15:16:38 ET
+Table 'Mufrid III' 6-max Seat #4 is the button
+Seat 1: Chessnok ($60 in chips)
+Seat 4: zxkz ($121.92 in chips)
+zxkz: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+zxkz: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [Ts Ks Qd]
+Chessnok: checks
+zxkz: bets $3
+Chessnok: calls $3
+*** TURN *** [Ts Ks Qd] [5c]
+Chessnok: checks
+zxkz: bets $6
+Chessnok: calls $6
+*** RIVER *** [Ts Ks Qd 5c] [5s]
+Chessnok: checks
+zxkz: checks
+*** SHOW DOWN ***
+Chessnok: shows [Qs 2h] (two pair, Queens and Fives)
+zxkz: mucks hand
+Chessnok collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ts Ks Qd 5c 5s]
+Seat 1: Chessnok (big blind) showed [Qs 2h] and won ($29.50) with two pair, Queens and Fives
+Seat 4: zxkz (button) (small blind) mucked
+
+

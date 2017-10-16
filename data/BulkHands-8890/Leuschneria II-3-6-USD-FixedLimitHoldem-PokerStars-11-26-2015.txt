@@ -1,0 +1,63 @@
+PokerStars Hand #144405744993:  Hold'em Limit ($3/$6 USD) - 2015/11/26 8:12:40 ET
+Table 'Leuschneria II' 6-max Seat #3 is the button
+Seat 1: schnizm ($149.35 in chips)
+Seat 3: korrnel ($153.84 in chips)
+korrnel: posts small blind $1
+HappyHb95: is sitting out
+schnizm: posts big blind $3
+*** HOLE CARDS ***
+korrnel: raises $3 to $6
+schnizm: calls $3
+*** FLOP *** [4s 8h Qh]
+schnizm: checks
+korrnel: bets $3
+HappyHb95 leaves the table
+schnizm: calls $3
+*** TURN *** [4s 8h Qh] [8c]
+schnizm: checks
+MAGER911 leaves the table
+korrnel: bets $6
+schnizm: folds
+Uncalled bet ($6) returned to korrnel
+korrnel collected $17.64 from pot
+korrnel: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4s 8h Qh 8c]
+Seat 1: schnizm (big blind) folded on the Turn
+Seat 3: korrnel (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #144405788019:  Hold'em Limit ($3/$6 USD) - 2015/11/26 8:13:59 ET
+Table 'Leuschneria II' 6-max Seat #1 is the button
+Seat 1: schnizm ($140.35 in chips)
+Seat 3: korrnel ($162.48 in chips)
+schnizm: posts small blind $1
+korrnel: posts big blind $3
+*** HOLE CARDS ***
+schnizm: raises $3 to $6
+korrnel: calls $3
+*** FLOP *** [9d 2h 2s]
+korrnel: checks
+schnizm: bets $3
+korrnel: raises $3 to $6
+schnizm: raises $3 to $9
+korrnel: calls $3
+*** TURN *** [9d 2h 2s] [6d]
+korrnel: checks
+schnizm: bets $6
+korrnel: calls $6
+*** RIVER *** [9d 2h 2s 6d] [Tc]
+korrnel: checks
+schnizm: checks
+*** SHOW DOWN ***
+korrnel: shows [Kd 9h] (two pair, Nines and Deuces)
+schnizm: mucks hand
+korrnel collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9d 2h 2s 6d Tc]
+Seat 1: schnizm (button) (small blind) mucked
+Seat 3: korrnel (big blind) showed [Kd 9h] and won ($41.50) with two pair, Nines and Deuces
+
+

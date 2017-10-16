@@ -1,0 +1,102 @@
+PokerStars Hand #156972530311:  Hold'em Limit ($3/$6 USD) - 2016/08/07 8:22:22 ET
+Table 'Padua' 6-max Seat #3 is the button
+Seat 3: hudecam ($30 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+hudecam: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+hudecam: calls $2
+VolkovDmitri: checks
+*** FLOP *** [4c Jc Kd]
+VolkovDmitri: checks
+hudecam: checks
+*** TURN *** [4c Jc Kd] [6d]
+VolkovDmitri: checks
+hudecam: checks
+*** RIVER *** [4c Jc Kd 6d] [2h]
+VolkovDmitri: checks
+hudecam: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to hudecam
+hudecam collected $5.88 from pot
+hudecam: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [4c Jc Kd 6d 2h]
+Seat 3: hudecam (button) (small blind) collected ($5.88)
+Seat 4: VolkovDmitri (big blind) folded on the River
+
+
+PokerStars Hand #156972561849:  Hold'em Limit ($3/$6 USD) - 2016/08/07 8:23:24 ET
+Table 'Padua' 6-max Seat #3 is the button
+Seat 3: hudecam ($29.88 in chips)
+Seat 4: VolkovDmitri ($123 in chips)
+hudecam: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+hudecam: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [6d 2s 3c]
+VolkovDmitri: checks
+hudecam: checks
+*** TURN *** [6d 2s 3c] [Jc]
+VolkovDmitri: bets $6
+hudecam: calls $6
+*** RIVER *** [6d 2s 3c Jc] [4h]
+VolkovDmitri: bets $6
+hudecam: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $23.52 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [6d 2s 3c Jc 4h]
+Seat 3: hudecam (button) (small blind) folded on the River
+Seat 4: VolkovDmitri (big blind) collected ($23.52)
+
+
+PokerStars Hand #156972548876:  Hold'em Limit ($3/$6 USD) - 2016/08/07 8:22:58 ET
+Table 'Padua' 6-max Seat #3 is the button
+Seat 3: hudecam ($29.88 in chips)
+Seat 4: VolkovDmitri ($123 in chips)
+hudecam: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+hudecam: raises $3 to $6
+VolkovDmitri: folds
+Uncalled bet ($3) returned to hudecam
+hudecam collected $6 from pot
+hudecam: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: hudecam (button) (small blind) collected ($6)
+Seat 4: VolkovDmitri (big blind) folded before Flop
+
+
+PokerStars Hand #156972578474:  Hold'em Limit ($3/$6 USD) - 2016/08/07 8:23:56 ET
+Table 'Padua' 6-max Seat #3 is the button
+Seat 3: hudecam ($11.88 in chips)
+Seat 4: VolkovDmitri ($140.28 in chips)
+hudecam: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+hudecam: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Kh 8h 5h]
+VolkovDmitri: bets $3
+hudecam: raises $2.88 to $5.88 and is all-in
+VolkovDmitri: calls $2.88
+*** TURN *** [Kh 8h 5h] [2s]
+*** RIVER *** [Kh 8h 5h 2s] [Qd]
+*** SHOW DOWN ***
+VolkovDmitri: shows [Qs 6s] (a pair of Queens)
+hudecam: shows [4d 5c] (a pair of Fives)
+hudecam leaves the table
+VolkovDmitri collected $23.28 from pot
+*** SUMMARY ***
+Total pot $23.76 | Rake $0.48
+Board [Kh 8h 5h 2s Qd]
+Seat 3: hudecam (button) (small blind) showed [4d 5c] and lost with a pair of Fives
+Seat 4: VolkovDmitri (big blind) showed [Qs 6s] and won ($23.28) with a pair of Queens
+
+

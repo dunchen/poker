@@ -1,0 +1,95 @@
+PokerStars Hand #169378122018:  Hold'em Limit ($3/$6 USD) - 2017/04/21 20:53:02 ET
+Table 'Magaclite' 10-max Seat #4 is the button
+Seat 4: leungting684 ($77.57 in chips)
+Seat 9: GoliafUa ($146.14 in chips)
+leungting684: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+leungting684: raises $3 to $6
+GoliafUa: calls $3
+*** FLOP *** [5c 2h 4c]
+GoliafUa: checks
+leungting684: checks
+*** TURN *** [5c 2h 4c] [8d]
+GoliafUa: checks
+leungting684: checks
+*** RIVER *** [5c 2h 4c 8d] [7h]
+GoliafUa: checks
+leungting684: checks
+*** SHOW DOWN ***
+GoliafUa: shows [7d Qd] (a pair of Sevens)
+leungting684: mucks hand
+GoliafUa collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5c 2h 4c 8d 7h]
+Seat 4: leungting684 (button) (small blind) mucked
+Seat 9: GoliafUa (big blind) showed [7d Qd] and won ($11.76) with a pair of Sevens
+
+
+PokerStars Hand #169378141152:  Hold'em Limit ($3/$6 USD) - 2017/04/21 20:53:43 ET
+Table 'Magaclite' 10-max Seat #4 is the button
+Seat 4: leungting684 ($8.57 in chips)
+Seat 9: GoliafUa ($214.40 in chips)
+leungting684: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+leungting684: raises $3 to $6
+GoliafUa: calls $3
+*** FLOP *** [8h 2h 7c]
+GoliafUa: checks
+leungting684: bets $2.57 and is all-in
+GoliafUa: calls $2.57
+*** TURN *** [8h 2h 7c] [9c]
+*** RIVER *** [8h 2h 7c 9c] [8c]
+*** SHOW DOWN ***
+GoliafUa: shows [Qd 2c] (two pair, Eights and Deuces)
+leungting684: shows [5h As] (a pair of Eights)
+GoliafUa collected $16.80 from pot
+*** SUMMARY ***
+Total pot $17.14 | Rake $0.34
+Board [8h 2h 7c 9c 8c]
+Seat 4: leungting684 (button) (small blind) showed [5h As] and lost with a pair of Eights
+Seat 9: GoliafUa (big blind) showed [Qd 2c] and won ($16.80) with two pair, Eights and Deuces
+
+
+PokerStars Hand #169378129620:  Hold'em Limit ($3/$6 USD) - 2017/04/21 20:53:18 ET
+Table 'Magaclite' 10-max Seat #9 is the button
+Seat 4: leungting684 ($71.57 in chips)
+Seat 9: GoliafUa ($151.90 in chips)
+GoliafUa: posts small blind $1
+leungting684: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa: raises $3 to $6
+leungting684: raises $3 to $9
+GoliafUa: raises $3 to $12
+Betting is capped
+leungting684: calls $3
+*** FLOP *** [Kh 4c 4h]
+leungting684: bets $3
+GoliafUa: calls $3
+*** TURN *** [Kh 4c 4h] [Js]
+leungting684: bets $6
+GoliafUa: raises $6 to $12
+leungting684: raises $6 to $18
+GoliafUa: raises $6 to $24
+Betting is capped
+leungting684: calls $6
+*** RIVER *** [Kh 4c 4h Js] [4s]
+leungting684: bets $6
+GoliafUa: raises $6 to $12
+leungting684: raises $6 to $18
+GoliafUa: raises $6 to $24
+Betting is capped
+leungting684: calls $6
+*** SHOW DOWN ***
+GoliafUa: shows [Jd Jc] (a full house, Jacks full of Fours)
+leungting684: mucks hand
+GoliafUa collected $125.50 from pot
+*** SUMMARY ***
+Total pot $126 | Rake $0.50
+Board [Kh 4c 4h Js 4s]
+Seat 4: leungting684 (big blind) mucked
+Seat 9: GoliafUa (button) (small blind) showed [Jd Jc] and won ($125.50) with a full house, Jacks full of Fours
+
+

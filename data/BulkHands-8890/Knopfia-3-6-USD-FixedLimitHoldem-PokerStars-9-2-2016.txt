@@ -1,0 +1,31 @@
+PokerStars Hand #158072362574:  Hold'em Limit ($3/$6 USD) - 2016/09/02 15:46:20 ET
+Table 'Knopfia' 6-max Seat #6 is the button
+Seat 3: belik555 ($72 in chips)
+Seat 6: ToDaFelt ($255.81 in chips)
+ToDaFelt: posts small blind $1
+belik555: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+belik555: calls $3
+*** FLOP *** [3h 2s Ad]
+belik555: checks
+ToDaFelt: bets $3
+belik555: calls $3
+*** TURN *** [3h 2s Ad] [Jd]
+belik555: checks
+ToDaFelt: bets $6
+belik555: calls $6
+*** RIVER *** [3h 2s Ad Jd] [2c]
+belik555: checks
+ToDaFelt: checks
+*** SHOW DOWN ***
+belik555: shows [Js 8s] (two pair, Jacks and Deuces)
+ToDaFelt: mucks hand
+belik555 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3h 2s Ad Jd 2c]
+Seat 3: belik555 (big blind) showed [Js 8s] and won ($29.50) with two pair, Jacks and Deuces
+Seat 6: ToDaFelt (button) (small blind) mucked
+
+

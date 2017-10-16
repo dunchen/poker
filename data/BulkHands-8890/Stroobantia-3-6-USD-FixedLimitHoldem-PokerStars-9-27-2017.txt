@@ -1,0 +1,108 @@
+PokerStars Hand #176191204125:  Hold'em Limit ($3/$6 USD) - 2017/09/27 12:45:40 ET
+Table 'Stroobantia' 6-max Seat #1 is the button
+Seat 1: AA_ILI ($83 in chips)
+Seat 5: mytuter ($44.64 in chips)
+AA_ILI: posts small blind $1
+Actionni13: is sitting out
+mytuter: posts big blind $3
+*** HOLE CARDS ***
+AA_ILI: raises $3 to $6
+Actionni13 leaves the table
+mytuter: calls $3
+*** FLOP *** [6c Ad 9h]
+mytuter: checks
+AA_ILI: bets $3
+mytuter: calls $3
+*** TURN *** [6c Ad 9h] [4s]
+mytuter: checks
+AA_ILI: bets $6
+mytuter: folds
+Uncalled bet ($6) returned to AA_ILI
+AA_ILI collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6c Ad 9h 4s]
+Seat 1: AA_ILI (button) (small blind) collected ($17.64)
+Seat 5: mytuter (big blind) folded on the Turn
+
+
+PokerStars Hand #176191240387:  Hold'em Limit ($3/$6 USD) - 2017/09/27 12:46:35 ET
+Table 'Stroobantia' 6-max Seat #1 is the button
+Seat 1: AA_ILI ($70.64 in chips)
+Seat 5: mytuter ($56.14 in chips)
+AA_ILI: posts small blind $1
+mytuter: posts big blind $3
+*** HOLE CARDS ***
+AA_ILI: folds
+Uncalled bet ($2) returned to mytuter
+mytuter collected $2 from pot
+mytuter: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: AA_ILI (button) (small blind) folded before Flop
+Seat 5: mytuter (big blind) collected ($2)
+
+
+PokerStars Hand #176191217470:  Hold'em Limit ($3/$6 USD) - 2017/09/27 12:46:00 ET
+Table 'Stroobantia' 6-max Seat #5 is the button
+Seat 1: AA_ILI ($91.64 in chips)
+Seat 5: mytuter ($35.64 in chips)
+mytuter: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+mytuter: raises $3 to $6
+AA_ILI: calls $3
+*** FLOP *** [9s 2h 6d]
+AA_ILI: checks
+mytuter: bets $3
+AA_ILI: calls $3
+*** TURN *** [9s 2h 6d] [4h]
+AA_ILI: checks
+mytuter: bets $6
+AA_ILI: calls $6
+*** RIVER *** [9s 2h 6d 4h] [9d]
+AA_ILI: bets $6
+mytuter: calls $6
+*** SHOW DOWN ***
+AA_ILI: shows [7h As] (a pair of Nines)
+mytuter: shows [2d Kc] (two pair, Nines and Deuces)
+mytuter collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9s 2h 6d 4h 9d]
+Seat 1: AA_ILI (big blind) showed [7h As] and lost with a pair of Nines
+Seat 5: mytuter (button) (small blind) showed [2d Kc] and won ($41.50) with two pair, Nines and Deuces
+
+
+PokerStars Hand #176192102730:  Hold'em Limit ($3/$6 USD) - 2017/09/27 13:08:58 ET
+Table 'Stroobantia' 6-max Seat #1 is the button
+Seat 1: ToDaFelt ($122.25 in chips)
+Seat 3: AA_ILI ($211.81 in chips)
+ToDaFelt: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+Pete81 leaves the table
+ToDaFelt: raises $3 to $6
+AA_ILI: calls $3
+*** FLOP *** [6s 3d 8d]
+AA_ILI: checks
+ToDaFelt: bets $3
+AA_ILI: calls $3
+*** TURN *** [6s 3d 8d] [Kc]
+AA_ILI: checks
+ToDaFelt: bets $6
+AA_ILI: calls $6
+*** RIVER *** [6s 3d 8d Kc] [Js]
+AA_ILI: checks
+ToDaFelt: checks
+*** SHOW DOWN ***
+AA_ILI: shows [Jh Ah] (a pair of Jacks)
+ToDaFelt: mucks hand
+AA_ILI collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6s 3d 8d Kc Js]
+Seat 1: ToDaFelt (button) (small blind) mucked
+Seat 3: AA_ILI (big blind) showed [Jh Ah] and won ($29.50) with a pair of Jacks
+
+

@@ -1,0 +1,79 @@
+PokerStars Hand #169004947927:  Hold'em Limit ($3/$6 USD) - 2017/04/13 20:32:37 ET
+Table 'Anius' 6-max Seat #1 is the button
+Seat 1: Chessnok ($60 in chips)
+Seat 6: SALZHERZ ($164.63 in chips)
+Chessnok: posts small blind $1
+B_loJkl: is sitting out
+SALZHERZ: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: folds
+Uncalled bet ($2) returned to SALZHERZ
+SALZHERZ collected $2 from pot
+SALZHERZ: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Chessnok (button) (small blind) folded before Flop
+Seat 6: SALZHERZ (big blind) collected ($2)
+
+
+PokerStars Hand #169004949994:  Hold'em Limit ($3/$6 USD) - 2017/04/13 20:32:41 ET
+Table 'Anius' 6-max Seat #6 is the button
+Seat 1: Chessnok ($60 in chips)
+Seat 6: SALZHERZ ($165.63 in chips)
+SALZHERZ: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+SALZHERZ: raises $3 to $6
+Chessnok: raises $3 to $9
+SALZHERZ: calls $3
+*** FLOP *** [6d 5d Qh]
+Chessnok: bets $3
+SALZHERZ: calls $3
+*** TURN *** [6d 5d Qh] [Qs]
+Chessnok: bets $6
+B_loJkl leaves the table
+SALZHERZ: calls $6
+*** RIVER *** [6d 5d Qh Qs] [8d]
+B_loJkl joins the table at seat #2
+Chessnok: bets $6
+SALZHERZ: calls $6
+*** SHOW DOWN ***
+Chessnok: shows [6c As] (two pair, Queens and Sixes)
+SALZHERZ: mucks hand
+Chessnok collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [6d 5d Qh Qs 8d]
+Seat 1: Chessnok (big blind) showed [6c As] and won ($47.50) with two pair, Queens and Sixes
+Seat 6: SALZHERZ (button) (small blind) mucked
+
+
+PokerStars Hand #169006140008:  Hold'em Limit ($3/$6 USD) - 2017/04/13 21:15:24 ET
+Table 'Anius' 6-max Seat #1 is the button
+Seat 1: Chessnok ($199.25 in chips)
+Seat 5: B_loJkl ($156.36 in chips)
+Chessnok: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [5s 3c 5c]
+B_loJkl: checks
+Chessnok: bets $3
+B_loJkl: calls $3
+*** TURN *** [5s 3c 5c] [Qd]
+B_loJkl: checks
+Chessnok: checks
+*** RIVER *** [5s 3c 5c Qd] [6c]
+B_loJkl: bets $6
+Chessnok: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $17.64 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5s 3c 5c Qd 6c]
+Seat 1: Chessnok (button) (small blind) folded on the River
+Seat 5: B_loJkl (big blind) collected ($17.64)
+
+

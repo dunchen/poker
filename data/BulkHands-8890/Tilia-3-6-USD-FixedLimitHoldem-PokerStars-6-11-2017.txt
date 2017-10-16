@@ -1,0 +1,82 @@
+PokerStars Hand #171637214373:  Hold'em Limit ($3/$6 USD) - 2017/06/11 11:23:56 ET
+Table 'Tilia' 6-max Seat #5 is the button
+Seat 4: TbIP-TbIP 88 ($86.50 in chips)
+Seat 5: MForce007 ($35 in chips)
+MForce007: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+MForce007: calls $2
+TbIP-TbIP 88: raises $3 to $6
+MForce007: calls $3
+*** FLOP *** [Qd Qh 7c]
+TbIP-TbIP 88: bets $3
+MForce007: calls $3
+*** TURN *** [Qd Qh 7c] [6c]
+TbIP-TbIP 88: checks
+MForce007: checks
+*** RIVER *** [Qd Qh 7c 6c] [9h]
+TbIP-TbIP 88: bets $6
+MForce007: calls $6
+*** SHOW DOWN ***
+TbIP-TbIP 88: shows [Tc 9d] (two pair, Queens and Nines)
+MForce007: mucks hand
+TbIP-TbIP 88 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qd Qh 7c 6c 9h]
+Seat 4: TbIP-TbIP 88 (big blind) showed [Tc 9d] and won ($29.50) with two pair, Queens and Nines
+Seat 5: MForce007 (button) (small blind) mucked
+
+
+PokerStars Hand #171637197733:  Hold'em Limit ($3/$6 USD) - 2017/06/11 11:23:31 ET
+Table 'Tilia' 6-max Seat #4 is the button
+Seat 4: TbIP-TbIP 88 ($72 in chips)
+Seat 5: MForce007 ($50 in chips)
+TbIP-TbIP 88: posts small blind $1
+MForce007: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88: raises $3 to $6
+MForce007: calls $3
+*** FLOP *** [Qs Ks 3c]
+MForce007: checks
+TbIP-TbIP 88: bets $3
+MForce007: calls $3
+*** TURN *** [Qs Ks 3c] [4c]
+MForce007: checks
+TbIP-TbIP 88: checks
+*** RIVER *** [Qs Ks 3c 4c] [4h]
+MForce007: bets $6
+TbIP-TbIP 88: calls $6
+*** SHOW DOWN ***
+MForce007: shows [9d Td] (a pair of Fours)
+TbIP-TbIP 88: shows [As 5d] (a pair of Fours - Ace kicker)
+TbIP-TbIP 88 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qs Ks 3c 4c 4h]
+Seat 4: TbIP-TbIP 88 (button) (small blind) showed [As 5d] and won ($29.50) with a pair of Fours
+Seat 5: MForce007 (big blind) showed [9d Td] and lost with a pair of Fours
+
+
+PokerStars Hand #171637233974:  Hold'em Limit ($3/$6 USD) - 2017/06/11 11:24:25 ET
+Table 'Tilia' 6-max Seat #4 is the button
+Seat 4: TbIP-TbIP 88 ($101 in chips)
+Seat 5: MForce007 ($20 in chips)
+TbIP-TbIP 88: posts small blind $1
+MForce007: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88: raises $3 to $6
+MForce007: calls $3
+*** FLOP *** [Qh 5s Qd]
+MForce007: bets $3
+TbIP-TbIP 88: folds
+Uncalled bet ($3) returned to MForce007
+MForce007 collected $11.76 from pot
+MForce007: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qh 5s Qd]
+Seat 4: TbIP-TbIP 88 (button) (small blind) folded on the Flop
+Seat 5: MForce007 (big blind) collected ($11.76)
+
+

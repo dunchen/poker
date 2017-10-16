@@ -1,0 +1,106 @@
+PokerStars Hand #175543468867:  Hold'em Limit ($3/$6 USD) - 2017/09/12 8:40:54 ET
+Table 'Cruithne II' 6-max Seat #1 is the button
+Seat 1: Chrisgalo33 ($15.68 in chips)
+Seat 4: Agrotait ($81.50 in chips)
+Chrisgalo33: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+Chrisgalo33: calls $2
+Agrotait: checks
+*** FLOP *** [9h 9c 6h]
+Agrotait: bets $3
+Chrisgalo33: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $5.88 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [9h 9c 6h]
+Seat 1: Chrisgalo33 (button) (small blind) folded on the Flop
+Seat 4: Agrotait (big blind) collected ($5.88)
+
+
+PokerStars Hand #175543432565:  Hold'em Limit ($3/$6 USD) - 2017/09/12 8:39:39 ET
+Table 'Cruithne II' 6-max Seat #1 is the button
+Seat 1: Chrisgalo33 ($32 in chips)
+Seat 4: Agrotait ($66 in chips)
+Chrisgalo33: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+Chrisgalo33: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [Qc 8s Ad]
+Agrotait: checks
+Chrisgalo33: bets $3
+Agrotait: raises $3 to $6
+Chrisgalo33: calls $3
+*** TURN *** [Qc 8s Ad] [3s]
+Agrotait: bets $6
+Chrisgalo33: calls $6
+*** RIVER *** [Qc 8s Ad 3s] [6c]
+Agrotait: bets $6
+Chrisgalo33: calls $6
+*** SHOW DOWN ***
+Agrotait: shows [8d As] (two pair, Aces and Eights)
+Chrisgalo33: mucks hand
+Agrotait collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Qc 8s Ad 3s 6c]
+Seat 1: Chrisgalo33 (button) (small blind) mucked
+Seat 4: Agrotait (big blind) showed [8d As] and won ($47.50) with two pair, Aces and Eights
+
+
+PokerStars Hand #175543460745:  Hold'em Limit ($3/$6 USD) - 2017/09/12 8:40:37 ET
+Table 'Cruithne II' 6-max Seat #4 is the button
+Seat 1: Chrisgalo33 ($8 in chips)
+Seat 4: Agrotait ($89.50 in chips)
+Agrotait: posts small blind $1
+Chrisgalo33: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+Chrisgalo33: raises $2 to $8 and is all-in
+Agrotait: calls $2
+*** FLOP *** [4c 7d Tc]
+*** TURN *** [4c 7d Tc] [6d]
+*** RIVER *** [4c 7d Tc 6d] [Js]
+*** SHOW DOWN ***
+Chrisgalo33: shows [4s Qd] (a pair of Fours)
+Agrotait: shows [Ad 9c] (high card Ace)
+Chrisgalo33 collected $15.68 from pot
+*** SUMMARY ***
+Total pot $16 | Rake $0.32
+Board [4c 7d Tc 6d Js]
+Seat 1: Chrisgalo33 (big blind) showed [4s Qd] and won ($15.68) with a pair of Fours
+Seat 4: Agrotait (button) (small blind) showed [Ad 9c] and lost with high card Ace
+
+
+PokerStars Hand #175543483365:  Hold'em Limit ($3/$6 USD) - 2017/09/12 8:41:23 ET
+Table 'Cruithne II' 6-max Seat #4 is the button
+Seat 1: Chrisgalo33 ($12.68 in chips)
+Seat 4: Agrotait ($84.38 in chips)
+Agrotait: posts small blind $1
+Chrisgalo33: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+Chrisgalo33: calls $3
+*** FLOP *** [4c 5s 7s]
+Chrisgalo33: checks
+Agrotait: checks
+*** TURN *** [4c 5s 7s] [5c]
+Chrisgalo33: bets $6
+Agrotait: calls $6
+*** RIVER *** [4c 5s 7s 5c] [8d]
+Chrisgalo33: bets $0.68 and is all-in
+Agrotait: calls $0.68
+*** SHOW DOWN ***
+Chrisgalo33: shows [3c 2s] (a pair of Fives)
+Agrotait: shows [Kd Qh] (a pair of Fives - King kicker)
+Agrotait collected $24.86 from pot
+*** SUMMARY ***
+Total pot $25.36 | Rake $0.50
+Board [4c 5s 7s 5c 8d]
+Seat 1: Chrisgalo33 (big blind) showed [3c 2s] and lost with a pair of Fives
+Seat 4: Agrotait (button) (small blind) showed [Kd Qh] and won ($24.86) with a pair of Fives
+
+

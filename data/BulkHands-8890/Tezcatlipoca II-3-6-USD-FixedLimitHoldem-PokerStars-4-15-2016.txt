@@ -1,0 +1,110 @@
+PokerStars Hand #151947156769:  Hold'em Limit ($3/$6 USD) - 2016/04/15 9:47:59 ET
+Table 'Tezcatlipoca II' 6-max Seat #3 is the button
+Seat 3: $hadyen ($62.30 in chips)
+Seat 4: BuzovaPro ($72 in chips)
+$hadyen: posts small blind $1
+BuzovaPro: posts big blind $3
+*** HOLE CARDS ***
+$hadyen: raises $3 to $6
+BuzovaPro: calls $3
+*** FLOP *** [5h 8d Ts]
+BuzovaPro: checks
+$hadyen: bets $3
+BuzovaPro: raises $3 to $6
+$hadyen: calls $3
+*** TURN *** [5h 8d Ts] [Ad]
+BuzovaPro: bets $6
+$hadyen: calls $6
+*** RIVER *** [5h 8d Ts Ad] [3s]
+BuzovaPro: bets $6
+$hadyen: folds
+Uncalled bet ($6) returned to BuzovaPro
+BuzovaPro collected $35.50 from pot
+BuzovaPro: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5h 8d Ts Ad 3s]
+Seat 3: $hadyen (button) (small blind) folded on the River
+Seat 4: BuzovaPro (big blind) collected ($35.50)
+
+
+PokerStars Hand #151947175185:  Hold'em Limit ($3/$6 USD) - 2016/04/15 9:48:30 ET
+Table 'Tezcatlipoca II' 6-max Seat #4 is the button
+Seat 3: $hadyen ($44.30 in chips)
+Seat 4: BuzovaPro ($89.50 in chips)
+BuzovaPro: posts small blind $1
+$hadyen: posts big blind $3
+*** HOLE CARDS ***
+BuzovaPro: raises $3 to $6
+$hadyen: calls $3
+*** FLOP *** [3s Jc 2s]
+$hadyen: checks
+BuzovaPro: checks
+*** TURN *** [3s Jc 2s] [7s]
+$hadyen: checks
+BuzovaPro: checks
+*** RIVER *** [3s Jc 2s 7s] [9c]
+$hadyen: bets $6
+BuzovaPro: calls $6
+*** SHOW DOWN ***
+$hadyen: shows [Qd 5d] (high card Queen)
+BuzovaPro: shows [Qc 2c] (a pair of Deuces)
+BuzovaPro collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [3s Jc 2s 7s 9c]
+Seat 3: $hadyen (big blind) showed [Qd 5d] and lost with high card Queen
+Seat 4: BuzovaPro (button) (small blind) showed [Qc 2c] and won ($23.52) with a pair of Deuces
+
+
+PokerStars Hand #151947185928:  Hold'em Limit ($3/$6 USD) - 2016/04/15 9:48:48 ET
+Table 'Tezcatlipoca II' 6-max Seat #3 is the button
+Seat 3: $hadyen ($32.30 in chips)
+Seat 4: BuzovaPro ($101.02 in chips)
+$hadyen: posts small blind $1
+BuzovaPro: posts big blind $3
+*** HOLE CARDS ***
+$hadyen: raises $3 to $6
+BuzovaPro: folds
+Uncalled bet ($3) returned to $hadyen
+$hadyen collected $6 from pot
+$hadyen: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: $hadyen (button) (small blind) collected ($6)
+Seat 4: BuzovaPro (big blind) folded before Flop
+
+
+PokerStars Hand #151947191596:  Hold'em Limit ($3/$6 USD) - 2016/04/15 9:48:57 ET
+Table 'Tezcatlipoca II' 6-max Seat #4 is the button
+Seat 3: $hadyen ($35.30 in chips)
+Seat 4: BuzovaPro ($98.02 in chips)
+BuzovaPro: posts small blind $1
+$hadyen: posts big blind $3
+*** HOLE CARDS ***
+BuzovaPro: raises $3 to $6
+$hadyen: raises $3 to $9
+BuzovaPro: calls $3
+*** FLOP *** [9c Qs 2h]
+$hadyen: bets $3
+BuzovaPro: calls $3
+*** TURN *** [9c Qs 2h] [Tc]
+$hadyen: bets $6
+BuzovaPro: raises $6 to $12
+$hadyen: raises $6 to $18
+BuzovaPro: raises $6 to $24
+Betting is capped
+$hadyen: calls $5.30 and is all-in
+Uncalled bet ($0.70) returned to BuzovaPro
+*** RIVER *** [9c Qs 2h Tc] [8s]
+*** SHOW DOWN ***
+$hadyen: shows [Qh Kd] (a pair of Queens)
+BuzovaPro: shows [2d Qd] (two pair, Queens and Deuces)
+BuzovaPro collected $70.10 from pot
+*** SUMMARY ***
+Total pot $70.60 | Rake $0.50
+Board [9c Qs 2h Tc 8s]
+Seat 3: $hadyen (big blind) showed [Qh Kd] and lost with a pair of Queens
+Seat 4: BuzovaPro (button) (small blind) showed [2d Qd] and won ($70.10) with two pair, Queens and Deuces
+
+

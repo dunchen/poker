@@ -1,0 +1,54 @@
+PokerStars Hand #164569158600:  Hold'em Limit ($3/$6 USD) - 2017/01/14 13:23:14 ET
+Table 'Pippa II' 6-max Seat #5 is the button
+Seat 1: TinaTurner72 ($86.50 in chips)
+Seat 5: RabbitNrAS ($21 in chips)
+RabbitNrAS: posts small blind $1
+TinaTurner72: posts big blind $3
+*** HOLE CARDS ***
+RabbitNrAS: raises $3 to $6
+TinaTurner72: calls $3
+*** FLOP *** [5s 8c Td]
+TinaTurner72: checks
+RabbitNrAS: bets $3
+TinaTurner72: folds
+Uncalled bet ($3) returned to RabbitNrAS
+RabbitNrAS collected $11.76 from pot
+RabbitNrAS: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5s 8c Td]
+Seat 1: TinaTurner72 (big blind) folded on the Flop
+Seat 5: RabbitNrAS (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #164569131291:  Hold'em Limit ($3/$6 USD) - 2017/01/14 13:22:47 ET
+Table 'Pippa II' 6-max Seat #1 is the button
+Seat 1: TinaTurner72 ($72 in chips)
+Seat 5: RabbitNrAS ($36 in chips)
+TinaTurner72: posts small blind $1
+RabbitNrAS: posts big blind $3
+*** HOLE CARDS ***
+MalishR joins the table at seat #2
+TinaTurner72: raises $3 to $6
+RabbitNrAS: calls $3
+*** FLOP *** [6h Ad 8s]
+RabbitNrAS: checks
+TinaTurner72: bets $3
+RabbitNrAS: calls $3
+*** TURN *** [6h Ad 8s] [Tc]
+RabbitNrAS: checks
+TinaTurner72: checks
+*** RIVER *** [6h Ad 8s Tc] [Qs]
+RabbitNrAS: bets $6
+TinaTurner72: calls $6
+*** SHOW DOWN ***
+RabbitNrAS: shows [Js 5s] (high card Ace)
+TinaTurner72: shows [9c Qh] (a pair of Queens)
+TinaTurner72 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6h Ad 8s Tc Qs]
+Seat 1: TinaTurner72 (button) (small blind) showed [9c Qh] and won ($29.50) with a pair of Queens
+Seat 5: RabbitNrAS (big blind) showed [Js 5s] and lost with high card Ace
+
+

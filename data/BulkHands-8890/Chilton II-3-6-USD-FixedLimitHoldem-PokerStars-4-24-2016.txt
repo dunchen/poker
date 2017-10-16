@@ -1,0 +1,897 @@
+PokerStars Hand #152361628240:  Hold'em Limit ($3/$6 USD) - 2016/04/24 3:12:52 ET
+Table 'Chilton II' 6-max Seat #6 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 6: trapDK ($65.24 in chips)
+trapDK: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+trapDK: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [2h Jh 3s]
+VolkovDmitri: checks
+trapDK: checks
+*** TURN *** [2h Jh 3s] [Js]
+VolkovDmitri: bets $6
+trapDK: calls $6
+*** RIVER *** [2h Jh 3s Js] [8c]
+VolkovDmitri: checks
+trapDK: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [6s 5c] (a pair of Jacks)
+trapDK: shows [5d Ah] (a pair of Jacks - Ace kicker)
+trapDK collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [2h Jh 3s Js 8c]
+Seat 1: VolkovDmitri (big blind) showed [6s 5c] and lost with a pair of Jacks
+Seat 6: trapDK (button) (small blind) showed [5d Ah] and won ($23.52) with a pair of Jacks
+
+
+PokerStars Hand #152361640749:  Hold'em Limit ($3/$6 USD) - 2016/04/24 3:13:32 ET
+Table 'Chilton II' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 6: trapDK ($76.76 in chips)
+VolkovDmitri: posts small blind $1
+trapDK: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+trapDK: calls $3
+*** FLOP *** [9s 4c Ah]
+trapDK: checks
+VolkovDmitri: bets $3
+trapDK: calls $3
+*** TURN *** [9s 4c Ah] [4h]
+trapDK: checks
+VolkovDmitri: checks
+*** RIVER *** [9s 4c Ah 4h] [9d]
+trapDK: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+trapDK: shows [9c 3h] (a full house, Nines full of Fours)
+VolkovDmitri: mucks hand
+trapDK collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9s 4c Ah 4h 9d]
+Seat 1: VolkovDmitri (button) (small blind) mucked
+Seat 6: trapDK (big blind) showed [9c 3h] and won ($29.50) with a full house, Nines full of Fours
+
+
+PokerStars Hand #152361660637:  Hold'em Limit ($3/$6 USD) - 2016/04/24 3:14:36 ET
+Table 'Chilton II' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 6: trapDK ($91.01 in chips)
+VolkovDmitri: posts small blind $1
+trapDK: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+trapDK: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [4h Tc Qh]
+trapDK: bets $3
+VolkovDmitri: folds
+Uncalled bet ($3) returned to trapDK
+trapDK collected $17.64 from pot
+trapDK: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4h Tc Qh]
+Seat 1: VolkovDmitri (button) (small blind) folded on the Flop
+Seat 6: trapDK (big blind) collected ($17.64)
+
+
+PokerStars Hand #152361667205:  Hold'em Limit ($3/$6 USD) - 2016/04/24 3:14:57 ET
+Table 'Chilton II' 6-max Seat #6 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 6: trapDK ($99.65 in chips)
+trapDK: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+trapDK: calls $2
+VolkovDmitri: raises $3 to $6
+trapDK: calls $3
+*** FLOP *** [3h 9d Ad]
+VolkovDmitri: bets $3
+trapDK: calls $3
+*** TURN *** [3h 9d Ad] [Kh]
+VolkovDmitri: bets $6
+trapDK: calls $6
+*** RIVER *** [3h 9d Ad Kh] [Ts]
+VolkovDmitri: bets $6
+trapDK: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Qs Ac] (a pair of Aces)
+trapDK: mucks hand
+VolkovDmitri collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [3h 9d Ad Kh Ts]
+Seat 1: VolkovDmitri (big blind) showed [Qs Ac] and won ($41.50) with a pair of Aces
+Seat 6: trapDK (button) (small blind) mucked
+
+
+PokerStars Hand #152361650315:  Hold'em Limit ($3/$6 USD) - 2016/04/24 3:14:03 ET
+Table 'Chilton II' 6-max Seat #6 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 6: trapDK ($91.26 in chips)
+trapDK: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+trapDK: calls $2
+VolkovDmitri: raises $3 to $6
+trapDK: calls $3
+*** FLOP *** [Kd 6d Qc]
+VolkovDmitri: bets $3
+trapDK: calls $3
+*** TURN *** [Kd 6d Qc] [Ks]
+VolkovDmitri: bets $6
+trapDK: calls $6
+*** RIVER *** [Kd 6d Qc Ks] [Td]
+VolkovDmitri: checks
+trapDK: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [9s Ac] (a pair of Kings)
+trapDK: shows [2h Ah] (a pair of Kings)
+VolkovDmitri collected $14.75 from pot
+trapDK collected $14.75 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kd 6d Qc Ks Td]
+Seat 1: VolkovDmitri (big blind) showed [9s Ac] and won ($14.75) with a pair of Kings
+Seat 6: trapDK (button) (small blind) showed [2h Ah] and won ($14.75) with a pair of Kings
+
+
+PokerStars Hand #152361672914:  Hold'em Limit ($3/$6 USD) - 2016/04/24 3:15:15 ET
+Table 'Chilton II' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($140.50 in chips)
+Seat 6: trapDK ($78.65 in chips)
+VolkovDmitri: posts small blind $1
+trapDK: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+trapDK: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [2s Ts Qs]
+trapDK: checks
+VolkovDmitri: bets $3
+trapDK: calls $3
+*** TURN *** [2s Ts Qs] [2h]
+trapDK: checks
+VolkovDmitri: checks
+*** RIVER *** [2s Ts Qs 2h] [7d]
+trapDK: checks
+VolkovDmitri: bets $6
+trapDK: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [4s Tc] (two pair, Tens and Deuces)
+trapDK: mucks hand
+VolkovDmitri collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [2s Ts Qs 2h 7d]
+Seat 1: VolkovDmitri (button) (small blind) showed [4s Tc] and won ($35.50) with two pair, Tens and Deuces
+Seat 6: trapDK (big blind) mucked
+
+
+PokerStars Hand #152361680710:  Hold'em Limit ($3/$6 USD) - 2016/04/24 3:15:40 ET
+Table 'Chilton II' 6-max Seat #6 is the button
+Seat 1: VolkovDmitri ($158 in chips)
+Seat 6: trapDK ($60.65 in chips)
+trapDK: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+trapDK: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Kd 7c Qh]
+VolkovDmitri: checks
+trapDK: checks
+*** TURN *** [Kd 7c Qh] [6c]
+VolkovDmitri: bets $6
+trapDK: raises $6 to $12
+VolkovDmitri: folds
+Uncalled bet ($6) returned to trapDK
+trapDK collected $23.52 from pot
+trapDK: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Kd 7c Qh 6c]
+Seat 1: VolkovDmitri (big blind) folded on the Turn
+Seat 6: trapDK (button) (small blind) collected ($23.52)
+
+
+PokerStars Hand #152361706412:  Hold'em Limit ($3/$6 USD) - 2016/04/24 3:17:00 ET
+Table 'Chilton II' 6-max Seat #6 is the button
+Seat 1: VolkovDmitri ($170.50 in chips)
+Seat 6: trapDK ($47.17 in chips)
+trapDK: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+trapDK: raises $3 to $6
+VolkovDmitri: folds
+Uncalled bet ($3) returned to trapDK
+trapDK collected $6 from pot
+trapDK: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: VolkovDmitri (big blind) folded before Flop
+Seat 6: trapDK (button) (small blind) collected ($6)
+
+
+PokerStars Hand #152361703183:  Hold'em Limit ($3/$6 USD) - 2016/04/24 3:16:50 ET
+Table 'Chilton II' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($167.50 in chips)
+Seat 6: trapDK ($50.17 in chips)
+VolkovDmitri: posts small blind $1
+trapDK: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+trapDK: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: VolkovDmitri (button) (small blind) collected ($6)
+Seat 6: trapDK (big blind) folded before Flop
+
+
+PokerStars Hand #152361688100:  Hold'em Limit ($3/$6 USD) - 2016/04/24 3:16:03 ET
+Table 'Chilton II' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($146 in chips)
+Seat 6: trapDK ($72.17 in chips)
+VolkovDmitri: posts small blind $1
+trapDK: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+trapDK: calls $3
+*** FLOP *** [Ad 5h 8h]
+trapDK: checks
+VolkovDmitri: bets $3
+trapDK: calls $3
+*** TURN *** [Ad 5h 8h] [Qd]
+trapDK: checks
+VolkovDmitri: bets $6
+trapDK: calls $6
+*** RIVER *** [Ad 5h 8h Qd] [3s]
+trapDK: checks
+VolkovDmitri: bets $6
+trapDK: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Kd Ks] (a pair of Kings)
+trapDK: mucks hand
+VolkovDmitri collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ad 5h 8h Qd 3s]
+Seat 1: VolkovDmitri (button) (small blind) showed [Kd Ks] and won ($41.50) with a pair of Kings
+Seat 6: trapDK (big blind) mucked
+
+
+PokerStars Hand #152361701286:  Hold'em Limit ($3/$6 USD) - 2016/04/24 3:16:44 ET
+Table 'Chilton II' 6-max Seat #6 is the button
+Seat 1: VolkovDmitri ($166.50 in chips)
+Seat 6: trapDK ($51.17 in chips)
+trapDK: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+trapDK: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: VolkovDmitri (big blind) collected ($2)
+Seat 6: trapDK (button) (small blind) folded before Flop
+
+
+PokerStars Hand #152361723414:  Hold'em Limit ($3/$6 USD) - 2016/04/24 3:17:54 ET
+Table 'Chilton II' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($146.50 in chips)
+Seat 6: trapDK ($70.67 in chips)
+VolkovDmitri: posts small blind $1
+trapDK: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: folds
+Uncalled bet ($2) returned to trapDK
+trapDK collected $2 from pot
+trapDK: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: VolkovDmitri (button) (small blind) folded before Flop
+Seat 6: trapDK (big blind) collected ($2)
+
+
+PokerStars Hand #152361721126:  Hold'em Limit ($3/$6 USD) - 2016/04/24 3:17:47 ET
+Table 'Chilton II' 6-max Seat #6 is the button
+Seat 1: VolkovDmitri ($149.50 in chips)
+Seat 6: trapDK ($67.67 in chips)
+trapDK: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+trapDK: raises $3 to $6
+VolkovDmitri: folds
+Uncalled bet ($3) returned to trapDK
+trapDK collected $6 from pot
+trapDK: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: VolkovDmitri (big blind) folded before Flop
+Seat 6: trapDK (button) (small blind) collected ($6)
+
+
+PokerStars Hand #152361708984:  Hold'em Limit ($3/$6 USD) - 2016/04/24 3:17:09 ET
+Table 'Chilton II' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($167.50 in chips)
+Seat 6: trapDK ($50.17 in chips)
+VolkovDmitri: posts small blind $1
+trapDK: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+trapDK: calls $3
+*** FLOP *** [5s Ac 6c]
+trapDK: checks
+VolkovDmitri: bets $3
+trapDK: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [5s Ac 6c] [3s]
+trapDK: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [5s Ac 6c 3s] [9d]
+trapDK: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to trapDK
+trapDK collected $35.50 from pot
+trapDK: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5s Ac 6c 3s 9d]
+Seat 1: VolkovDmitri (button) (small blind) folded on the River
+Seat 6: trapDK (big blind) collected ($35.50)
+
+
+PokerStars Hand #152361727042:  Hold'em Limit ($3/$6 USD) - 2016/04/24 3:18:05 ET
+Table 'Chilton II' 6-max Seat #6 is the button
+Seat 1: VolkovDmitri ($145.50 in chips)
+Seat 6: trapDK ($71.67 in chips)
+trapDK: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+trapDK: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: VolkovDmitri (big blind) collected ($2)
+Seat 6: trapDK (button) (small blind) folded before Flop
+
+
+PokerStars Hand #152361744950:  Hold'em Limit ($3/$6 USD) - 2016/04/24 3:19:00 ET
+Table 'Chilton II' 6-max Seat #6 is the button
+Seat 1: VolkovDmitri ($136.50 in chips)
+Seat 6: trapDK ($80.19 in chips)
+trapDK: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+trapDK: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: VolkovDmitri (big blind) collected ($2)
+Seat 6: trapDK (button) (small blind) folded before Flop
+
+
+PokerStars Hand #152361741445:  Hold'em Limit ($3/$6 USD) - 2016/04/24 3:18:50 ET
+Table 'Chilton II' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($133.50 in chips)
+Seat 6: trapDK ($83.19 in chips)
+VolkovDmitri: posts small blind $1
+trapDK: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+trapDK: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: VolkovDmitri (button) (small blind) collected ($6)
+Seat 6: trapDK (big blind) folded before Flop
+
+
+PokerStars Hand #152361728769:  Hold'em Limit ($3/$6 USD) - 2016/04/24 3:18:11 ET
+Table 'Chilton II' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($146.50 in chips)
+Seat 6: trapDK ($70.67 in chips)
+VolkovDmitri: posts small blind $1
+trapDK: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: folds
+Uncalled bet ($2) returned to trapDK
+trapDK collected $2 from pot
+trapDK: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: VolkovDmitri (button) (small blind) folded before Flop
+Seat 6: trapDK (big blind) collected ($2)
+
+
+PokerStars Hand #152361731058:  Hold'em Limit ($3/$6 USD) - 2016/04/24 3:18:18 ET
+Table 'Chilton II' 6-max Seat #6 is the button
+Seat 1: VolkovDmitri ($145.50 in chips)
+Seat 6: trapDK ($71.67 in chips)
+trapDK: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+trapDK: calls $2
+VolkovDmitri: raises $3 to $6
+trapDK: calls $3
+*** FLOP *** [Tc 3d Th]
+VolkovDmitri: bets $3
+trapDK: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [Tc 3d Th] [4h]
+VolkovDmitri: checks
+trapDK: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to trapDK
+trapDK collected $23.52 from pot
+trapDK: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Tc 3d Th 4h]
+Seat 1: VolkovDmitri (big blind) folded on the Turn
+Seat 6: trapDK (button) (small blind) collected ($23.52)
+
+
+PokerStars Hand #152361755705:  Hold'em Limit ($3/$6 USD) - 2016/04/24 3:19:34 ET
+Table 'Chilton II' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($123.50 in chips)
+Seat 6: trapDK ($92.69 in chips)
+VolkovDmitri: posts small blind $1
+trapDK: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+trapDK: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: VolkovDmitri (button) (small blind) collected ($6)
+Seat 6: trapDK (big blind) folded before Flop
+
+
+PokerStars Hand #152361753946:  Hold'em Limit ($3/$6 USD) - 2016/04/24 3:19:28 ET
+Table 'Chilton II' 6-max Seat #6 is the button
+Seat 1: VolkovDmitri ($122.50 in chips)
+Seat 6: trapDK ($93.69 in chips)
+trapDK: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+trapDK: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: VolkovDmitri (big blind) collected ($2)
+Seat 6: trapDK (button) (small blind) folded before Flop
+
+
+PokerStars Hand #152361746752:  Hold'em Limit ($3/$6 USD) - 2016/04/24 3:19:06 ET
+Table 'Chilton II' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($137.50 in chips)
+Seat 6: trapDK ($79.19 in chips)
+VolkovDmitri: posts small blind $1
+trapDK: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+trapDK: calls $3
+*** FLOP *** [2c Kd Js]
+trapDK: checks
+VolkovDmitri: bets $3
+trapDK: calls $3
+*** TURN *** [2c Kd Js] [4h]
+trapDK: checks
+VolkovDmitri: checks
+*** RIVER *** [2c Kd Js 4h] [3c]
+trapDK: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+trapDK: shows [7d Jc] (a pair of Jacks)
+VolkovDmitri: mucks hand
+trapDK collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2c Kd Js 4h 3c]
+Seat 1: VolkovDmitri (button) (small blind) mucked
+Seat 6: trapDK (big blind) showed [7d Jc] and won ($29.50) with a pair of Jacks
+
+
+PokerStars Hand #152361758745:  Hold'em Limit ($3/$6 USD) - 2016/04/24 3:19:43 ET
+Table 'Chilton II' 6-max Seat #6 is the button
+Seat 1: VolkovDmitri ($126.50 in chips)
+Seat 6: trapDK ($89.69 in chips)
+trapDK: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+trapDK: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+trapDK: calls $3
+*** FLOP *** [Kd 6s 5h]
+VolkovDmitri: bets $3
+trapDK: calls $3
+*** TURN *** [Kd 6s 5h] [Js]
+VolkovDmitri: checks
+trapDK: checks
+*** RIVER *** [Kd 6s 5h Js] [8h]
+VolkovDmitri: checks
+trapDK: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to trapDK
+trapDK collected $23.52 from pot
+trapDK: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Kd 6s 5h Js 8h]
+Seat 1: VolkovDmitri (big blind) folded on the River
+Seat 6: trapDK (button) (small blind) collected ($23.52)
+
+
+PokerStars Hand #152361780975:  Hold'em Limit ($3/$6 USD) - 2016/04/24 3:20:52 ET
+Table 'Chilton II' 6-max Seat #6 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 6: trapDK ($112.73 in chips)
+trapDK: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+trapDK: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: VolkovDmitri (big blind) collected ($2)
+Seat 6: trapDK (button) (small blind) folded before Flop
+
+
+PokerStars Hand #152361766179:  Hold'em Limit ($3/$6 USD) - 2016/04/24 3:20:06 ET
+Table 'Chilton II' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 6: trapDK ($101.21 in chips)
+VolkovDmitri: posts small blind $1
+trapDK: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+trapDK: calls $3
+*** FLOP *** [4d 3s Jh]
+trapDK: checks
+VolkovDmitri: checks
+*** TURN *** [4d 3s Jh] [Ad]
+trapDK: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [4d 3s Jh Ad] [6h]
+trapDK: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+trapDK: shows [Ah Jd] (two pair, Aces and Jacks)
+VolkovDmitri: mucks hand
+trapDK collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [4d 3s Jh Ad 6h]
+Seat 1: VolkovDmitri (button) (small blind) mucked
+Seat 6: trapDK (big blind) showed [Ah Jd] and won ($23.52) with two pair, Aces and Jacks
+
+
+PokerStars Hand #152361791241:  Hold'em Limit ($3/$6 USD) - 2016/04/24 3:21:23 ET
+Table 'Chilton II' 6-max Seat #6 is the button
+Seat 1: VolkovDmitri ($144.50 in chips)
+Seat 6: trapDK ($87.73 in chips)
+trapDK: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+trapDK: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Ah 5s 7s]
+VolkovDmitri: bets $3
+trapDK: calls $3
+*** TURN *** [Ah 5s 7s] [6s]
+VolkovDmitri: checks
+trapDK: checks
+*** RIVER *** [Ah 5s 7s 6s] [Kh]
+VolkovDmitri: checks
+trapDK: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [7h Qc] (a pair of Sevens)
+trapDK: mucks hand
+VolkovDmitri collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ah 5s 7s 6s Kh]
+Seat 1: VolkovDmitri (big blind) showed [7h Qc] and won ($17.64) with a pair of Sevens
+Seat 6: trapDK (button) (small blind) mucked
+
+
+PokerStars Hand #152361782732:  Hold'em Limit ($3/$6 USD) - 2016/04/24 3:20:57 ET
+Table 'Chilton II' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($121 in chips)
+Seat 6: trapDK ($111.73 in chips)
+VolkovDmitri: posts small blind $1
+trapDK: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+trapDK: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [2h 3h 8d]
+trapDK: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [2h 3h 8d] [Ac]
+trapDK: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [2h 3h 8d Ac] [2s]
+trapDK: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+trapDK: shows [4c 4d] (two pair, Fours and Deuces)
+VolkovDmitri: shows [As 9c] (two pair, Aces and Deuces)
+VolkovDmitri collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2h 3h 8d Ac 2s]
+Seat 1: VolkovDmitri (button) (small blind) showed [As 9c] and won ($47.50) with two pair, Aces and Deuces
+Seat 6: trapDK (big blind) showed [4c 4d] and lost with two pair, Fours and Deuces
+
+
+PokerStars Hand #152361799089:  Hold'em Limit ($3/$6 USD) - 2016/04/24 3:21:47 ET
+Table 'Chilton II' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($153.14 in chips)
+Seat 6: trapDK ($78.73 in chips)
+VolkovDmitri: posts small blind $1
+trapDK: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+trapDK: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [Jh 6c 7c]
+trapDK: bets $3
+VolkovDmitri: raises $3 to $6
+trapDK: calls $3
+*** TURN *** [Jh 6c 7c] [3s]
+trapDK: checks
+VolkovDmitri: bets $6
+trapDK: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $29.50 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Jh 6c 7c 3s]
+Seat 1: VolkovDmitri (button) (small blind) collected ($29.50)
+Seat 6: trapDK (big blind) folded on the Turn
+
+
+PokerStars Hand #152361807445:  Hold'em Limit ($3/$6 USD) - 2016/04/24 3:22:13 ET
+Table 'Chilton II' 6-max Seat #6 is the button
+Seat 1: VolkovDmitri ($167.64 in chips)
+Seat 6: trapDK ($63.73 in chips)
+trapDK: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+trapDK: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: VolkovDmitri (big blind) collected ($2)
+Seat 6: trapDK (button) (small blind) folded before Flop
+
+
+PokerStars Hand #152361809433:  Hold'em Limit ($3/$6 USD) - 2016/04/24 3:22:19 ET
+Table 'Chilton II' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($168.64 in chips)
+Seat 6: trapDK ($62.73 in chips)
+VolkovDmitri: posts small blind $1
+trapDK: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+trapDK: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [4h 7d 8c]
+trapDK: bets $3
+VolkovDmitri: folds
+Uncalled bet ($3) returned to trapDK
+trapDK collected $17.64 from pot
+trapDK: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4h 7d 8c]
+Seat 1: VolkovDmitri (button) (small blind) folded on the Flop
+Seat 6: trapDK (big blind) collected ($17.64)
+
+
+PokerStars Hand #152361815925:  Hold'em Limit ($3/$6 USD) - 2016/04/24 3:22:39 ET
+Table 'Chilton II' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($160.64 in chips)
+Seat 6: trapDK ($70.37 in chips)
+VolkovDmitri: posts small blind $1
+trapDK: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+trapDK: calls $3
+*** FLOP *** [2s 8d 8h]
+trapDK: checks
+VolkovDmitri: bets $3
+trapDK: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2s 8d 8h]
+Seat 1: VolkovDmitri (button) (small blind) collected ($11.76)
+Seat 6: trapDK (big blind) folded on the Flop
+
+
+PokerStars Hand #152361814163:  Hold'em Limit ($3/$6 USD) - 2016/04/24 3:22:33 ET
+Table 'Chilton II' 6-max Seat #6 is the button
+Seat 1: VolkovDmitri ($159.64 in chips)
+Seat 6: trapDK ($71.37 in chips)
+trapDK: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+trapDK: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: VolkovDmitri (big blind) collected ($2)
+Seat 6: trapDK (button) (small blind) folded before Flop
+
+
+PokerStars Hand #152361821901:  Hold'em Limit ($3/$6 USD) - 2016/04/24 3:22:57 ET
+Table 'Chilton II' 6-max Seat #6 is the button
+Seat 1: VolkovDmitri ($166.40 in chips)
+Seat 6: trapDK ($64.37 in chips)
+trapDK: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+trapDK: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+trapDK: calls $3
+*** FLOP *** [Qs Ah 8h]
+VolkovDmitri: bets $3
+trapDK: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $17.64 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qs Ah 8h]
+Seat 1: VolkovDmitri (big blind) collected ($17.64)
+Seat 6: trapDK (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #152361830351:  Hold'em Limit ($3/$6 USD) - 2016/04/24 3:23:23 ET
+Table 'Chilton II' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($175.04 in chips)
+Seat 6: trapDK ($55.37 in chips)
+VolkovDmitri: posts small blind $1
+trapDK: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+trapDK: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [7s 5h Qc]
+trapDK: checks
+VolkovDmitri: bets $3
+trapDK: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [7s 5h Qc] [Kd]
+trapDK: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [7s 5h Qc Kd] [Ac]
+trapDK: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to trapDK
+trapDK collected $41.50 from pot
+trapDK: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [7s 5h Qc Kd Ac]
+Seat 1: VolkovDmitri (button) (small blind) folded on the River
+Seat 6: trapDK (big blind) collected ($41.50)
+
+
+PokerStars Hand #152361864847:  Hold'em Limit ($3/$6 USD) - 2016/04/24 3:25:10 ET
+Table 'Chilton II' 6-max Seat #6 is the button
+Seat 1: VolkovDmitri ($141.80 in chips)
+Seat 6: trapDK ($87.27 in chips)
+trapDK: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+trapDK: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: VolkovDmitri (big blind) collected ($2)
+Seat 6: trapDK (button) (small blind) folded before Flop
+
+
+PokerStars Hand #152361859767:  Hold'em Limit ($3/$6 USD) - 2016/04/24 3:24:54 ET
+Table 'Chilton II' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($136.04 in chips)
+Seat 6: trapDK ($93.27 in chips)
+VolkovDmitri: posts small blind $1
+trapDK: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+trapDK: calls $3
+*** FLOP *** [Jh 9s 3d]
+trapDK: checks
+VolkovDmitri: bets $3
+trapDK: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jh 9s 3d]
+Seat 1: VolkovDmitri (button) (small blind) collected ($11.76)
+Seat 6: trapDK (big blind) folded on the Flop
+
+
+PokerStars Hand #152361857175:  Hold'em Limit ($3/$6 USD) - 2016/04/24 3:24:46 ET
+Table 'Chilton II' 6-max Seat #6 is the button
+Seat 1: VolkovDmitri ($139.04 in chips)
+Seat 6: trapDK ($90.27 in chips)
+trapDK: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+trapDK: raises $3 to $6
+VolkovDmitri: folds
+Uncalled bet ($3) returned to trapDK
+trapDK collected $6 from pot
+trapDK: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: VolkovDmitri (big blind) folded before Flop
+Seat 6: trapDK (button) (small blind) collected ($6)
+
+
+PokerStars Hand #152361843860:  Hold'em Limit ($3/$6 USD) - 2016/04/24 3:24:05 ET
+Table 'Chilton II' 6-max Seat #6 is the button
+Seat 1: VolkovDmitri ($154.04 in chips)
+Seat 6: trapDK ($75.87 in chips)
+trapDK: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+trapDK: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [5d 6s 2h]
+VolkovDmitri: checks
+trapDK: checks
+*** TURN *** [5d 6s 2h] [Td]
+VolkovDmitri: checks
+trapDK: checks
+*** RIVER *** [5d 6s 2h Td] [8s]
+VolkovDmitri: bets $6
+trapDK: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [9s Jd] (high card Jack)
+trapDK: shows [Ts Jh] (a pair of Tens)
+trapDK collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [5d 6s 2h Td 8s]
+Seat 1: VolkovDmitri (big blind) showed [9s Jd] and lost with high card Jack
+Seat 6: trapDK (button) (small blind) showed [Ts Jh] and won ($23.52) with a pair of Tens
+
+

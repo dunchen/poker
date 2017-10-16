@@ -1,0 +1,65 @@
+PokerStars Hand #144831525860:  Hold'em Limit ($3/$6 USD) - 2015/12/04 17:59:14 ET
+Table 'Begonia' 10-max Seat #7 is the button
+Seat 4: gussi5 ($99 in chips)
+Seat 7: Pandakey ($140.50 in chips)
+Pandakey: posts small blind $1
+gussi5: posts big blind $3
+*** HOLE CARDS ***
+Pandakey: raises $3 to $6
+gussi5: calls $3
+*** FLOP *** [4d 4s 6s]
+gussi5: checks
+mr.dockuda joins the table at seat #2
+Pandakey: bets $3
+gussi5: calls $3
+*** TURN *** [4d 4s 6s] [2d]
+gussi5: checks
+Pandakey: checks
+*** RIVER *** [4d 4s 6s 2d] [Kd]
+gussi5: bets $6
+korrnel joins the table at seat #6
+Pandakey: folds
+Uncalled bet ($6) returned to gussi5
+gussi5 collected $17.64 from pot
+gussi5: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4d 4s 6s 2d Kd]
+Seat 4: gussi5 (big blind) collected ($17.64)
+Seat 7: Pandakey (button) (small blind) folded on the River
+
+
+PokerStars Hand #144831774129:  Hold'em Limit ($3/$6 USD) - 2015/12/04 18:04:18 ET
+Table 'Begonia' 10-max Seat #9 is the button
+Seat 6: korrnel ($94 in chips)
+Seat 9: MAGER911 ($86.65 in chips)
+MAGER911: posts small blind $1
+SashaYuvelir: is sitting out
+korrnel: posts big blind $3
+*** HOLE CARDS ***
+MAGER911: raises $3 to $6
+korrnel: calls $3
+*** FLOP *** [9s 4h 4c]
+korrnel: checks
+SashaYuvelir leaves the table
+MAGER911: bets $3
+FeiteFrank joins the table at seat #1
+korrnel: calls $3
+*** TURN *** [9s 4h 4c] [7d]
+korrnel: checks
+MAGER911: checks
+*** RIVER *** [9s 4h 4c 7d] [4d]
+alexslep leaves the table
+korrnel: checks
+MAGER911: checks
+*** SHOW DOWN ***
+korrnel: shows [2d As] (three of a kind, Fours)
+MAGER911: mucks hand
+korrnel collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9s 4h 4c 7d 4d]
+Seat 6: korrnel (big blind) showed [2d As] and won ($17.64) with three of a kind, Fours
+Seat 9: MAGER911 (button) (small blind) mucked
+
+

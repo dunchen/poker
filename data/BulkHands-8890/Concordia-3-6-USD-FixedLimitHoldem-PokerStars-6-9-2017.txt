@@ -1,0 +1,53 @@
+PokerStars Hand #171536855490:  Hold'em Limit ($3/$6 USD) - 2017/06/09 1:12:15 ET
+Table 'Concordia' 6-max Seat #1 is the button
+Seat 1: cosmicfred ($120 in chips)
+Seat 4: Agrotait ($72 in chips)
+cosmicfred: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+cosmicfred: calls $2
+Agrotait: checks
+*** FLOP *** [4d Ac Td]
+Agrotait: bets $3
+cosmicfred: raises $3 to $6
+Agrotait: calls $3
+*** TURN *** [4d Ac Td] [Jc]
+Agrotait: checks
+cosmicfred: checks
+*** RIVER *** [4d Ac Td Jc] [5d]
+Agrotait: checks
+cosmicfred: checks
+*** SHOW DOWN ***
+Agrotait: shows [3c 4s] (a pair of Fours)
+cosmicfred: mucks hand
+Agrotait collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4d Ac Td Jc 5d]
+Seat 1: cosmicfred (button) (small blind) mucked
+Seat 4: Agrotait (big blind) showed [3c 4s] and won ($17.64) with a pair of Fours
+
+
+PokerStars Hand #171536861516:  Hold'em Limit ($3/$6 USD) - 2017/06/09 1:12:38 ET
+Table 'Concordia' 6-max Seat #4 is the button
+Seat 1: cosmicfred ($111 in chips)
+Seat 4: Agrotait ($80.64 in chips)
+Agrotait: posts small blind $1
+cosmicfred: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+cosmicfred: calls $3
+*** FLOP *** [Jh Qc 6h]
+cosmicfred: checks
+Agrotait: bets $3
+cosmicfred: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $11.76 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jh Qc 6h]
+Seat 1: cosmicfred (big blind) folded on the Flop
+Seat 4: Agrotait (button) (small blind) collected ($11.76)
+
+

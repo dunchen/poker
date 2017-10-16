@@ -1,0 +1,50 @@
+PokerStars Hand #144373421036:  Hold'em Limit ($3/$6 USD) - 2015/11/25 14:19:39 ET
+Table 'Fides III' 2-max Seat #1 is the button
+Seat 1: ravpomk ($71.71 in chips)
+Seat 2: motakinx ($8.82 in chips)
+ravpomk: posts small blind $1
+motakinx: posts big blind $3
+*** HOLE CARDS ***
+ravpomk: calls $2
+motakinx: checks
+*** FLOP *** [Js 9h Td]
+motakinx: checks
+ravpomk: bets $3
+motakinx: raises $2.82 to $5.82 and is all-in
+ravpomk: calls $2.82
+*** TURN *** [Js 9h Td] [Ac]
+*** RIVER *** [Js 9h Td Ac] [6h]
+*** SHOW DOWN ***
+motakinx: shows [6d Ks] (a pair of Sixes)
+ravpomk: shows [9s 2s] (a pair of Nines)
+ravpomk collected $17.29 from pot
+*** SUMMARY ***
+Total pot $17.64 | Rake $0.35
+Board [Js 9h Td Ac 6h]
+Seat 1: ravpomk (button) (small blind) showed [9s 2s] and won ($17.29) with a pair of Nines
+Seat 2: motakinx (big blind) showed [6d Ks] and lost with a pair of Sixes
+
+
+PokerStars Hand #144373406195:  Hold'em Limit ($3/$6 USD) - 2015/11/25 14:19:24 ET
+Table 'Fides III' 2-max Seat #2 is the button
+Seat 1: ravpomk ($76.21 in chips)
+Seat 2: motakinx ($4.50 in chips)
+motakinx: posts small blind $1
+ravpomk: posts big blind $3
+*** HOLE CARDS ***
+motakinx: raises $1.50 to $4.50 and is all-in
+ravpomk: calls $1.50
+*** FLOP *** [5s 5h 6d]
+*** TURN *** [5s 5h 6d] [5d]
+*** RIVER *** [5s 5h 6d 5d] [7h]
+*** SHOW DOWN ***
+ravpomk: shows [9s 8d] (a straight, Five to Nine)
+motakinx: shows [6c Qh] (a full house, Fives full of Sixes)
+motakinx collected $8.82 from pot
+*** SUMMARY ***
+Total pot $9 | Rake $0.18
+Board [5s 5h 6d 5d 7h]
+Seat 1: ravpomk (big blind) showed [9s 8d] and lost with a straight, Five to Nine
+Seat 2: motakinx (button) (small blind) showed [6c Qh] and won ($8.82) with a full house, Fives full of Sixes
+
+

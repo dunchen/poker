@@ -1,0 +1,33 @@
+PokerStars Hand #159861831682:  Hold'em Limit ($3/$6 USD) - 2016/10/13 1:51:10 ET
+Table 'Sarpedon' 6-max Seat #2 is the button
+Seat 2: Thrash370 ($134.39 in chips)
+Seat 4: CharginWapos ($94.76 in chips)
+Thrash370: posts small blind $1
+CharginWapos: posts big blind $3
+*** HOLE CARDS ***
+Thrash370: raises $3 to $6
+CharginWapos: calls $3
+*** FLOP *** [Jc 9d 5h]
+RedRelli leaves the table
+CharginWapos: checks
+Thrash370: bets $3
+CharginWapos: calls $3
+*** TURN *** [Jc 9d 5h] [6d]
+CharginWapos: checks
+Thrash370: bets $6
+CharginWapos: raises $6 to $12
+Thrash370: calls $6
+*** RIVER *** [Jc 9d 5h 6d] [3s]
+CharginWapos: bets $6
+Thrash370: calls $6
+*** SHOW DOWN ***
+CharginWapos: shows [9c 7c] (a pair of Nines)
+Thrash370: mucks hand
+CharginWapos collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Jc 9d 5h 6d 3s]
+Seat 2: Thrash370 (button) (small blind) mucked
+Seat 4: CharginWapos (big blind) showed [9c 7c] and won ($53.50) with a pair of Nines
+
+

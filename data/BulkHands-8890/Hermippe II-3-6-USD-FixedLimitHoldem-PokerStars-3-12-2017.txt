@@ -1,0 +1,92 @@
+PokerStars Hand #167477053770:  Hold'em Limit ($3/$6 USD) - 2017/03/12 9:42:36 ET
+Table 'Hermippe II' 6-max Seat #3 is the button
+Seat 3: chebob ($122.02 in chips)
+Seat 4: Bedard ($21.66 in chips)
+chebob: posts small blind $1
+Bedard: posts big blind $3
+*** HOLE CARDS ***
+chebob: raises $3 to $6
+Bedard: calls $3
+*** FLOP *** [7h 8d Kd]
+Bedard: checks
+chebob: checks
+*** TURN *** [7h 8d Kd] [Kc]
+Bedard: bets $6
+chebob: folds
+Uncalled bet ($6) returned to Bedard
+Bedard collected $11.76 from pot
+Bedard: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7h 8d Kd Kc]
+Seat 3: chebob (button) (small blind) folded on the Turn
+Seat 4: Bedard (big blind) collected ($11.76)
+
+
+PokerStars Hand #167477042636:  Hold'em Limit ($3/$6 USD) - 2017/03/12 9:42:18 ET
+Table 'Hermippe II' 6-max Seat #4 is the button
+Seat 3: chebob ($101.52 in chips)
+Seat 4: Bedard ($42.66 in chips)
+Bedard: posts small blind $1
+chebob: posts big blind $3
+*** HOLE CARDS ***
+Bedard: raises $3 to $6
+chebob: calls $3
+*** FLOP *** [8h Qs 5h]
+chebob: checks
+Bedard: bets $3
+chebob: calls $3
+*** TURN *** [8h Qs 5h] [3h]
+chebob: checks
+Bedard: bets $6
+chebob: calls $6
+*** RIVER *** [8h Qs 5h 3h] [Js]
+chebob: checks
+Bedard: bets $6
+chebob: calls $6
+*** SHOW DOWN ***
+Bedard: shows [6s Qh] (a pair of Queens)
+chebob: shows [Td Qd] (a pair of Queens - Jack+Ten kicker)
+chebob collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [8h Qs 5h 3h Js]
+Seat 3: chebob (big blind) showed [Td Qd] and won ($41.50) with a pair of Queens
+Seat 4: Bedard (button) (small blind) showed [6s Qh] and lost with a pair of Queens
+
+
+PokerStars Hand #167477061104:  Hold'em Limit ($3/$6 USD) - 2017/03/12 9:42:48 ET
+Table 'Hermippe II' 6-max Seat #4 is the button
+Seat 3: chebob ($116.02 in chips)
+Seat 4: Bedard ($27.42 in chips)
+Bedard: posts small blind $1
+chebob: posts big blind $3
+*** HOLE CARDS ***
+Bedard: raises $3 to $6
+chebob: calls $3
+*** FLOP *** [7s Jd 7c]
+chebob: checks
+Bedard: bets $3
+chebob: calls $3
+*** TURN *** [7s Jd 7c] [Ts]
+chebob: checks
+Bedard: bets $6
+chebob: raises $6 to $12
+Bedard: raises $6 to $18
+chebob: raises $6 to $24
+Betting is capped
+Bedard: calls $0.42 and is all-in
+Uncalled bet ($5.58) returned to chebob
+*** RIVER *** [7s Jd 7c Ts] [3c]
+*** SHOW DOWN ***
+chebob: shows [7h Ad] (three of a kind, Sevens)
+Bedard: shows [Kd Ks] (two pair, Kings and Sevens)
+chebob collected $54.34 from pot
+Bedard leaves the table
+*** SUMMARY ***
+Total pot $54.84 | Rake $0.50
+Board [7s Jd 7c Ts 3c]
+Seat 3: chebob (big blind) showed [7h Ad] and won ($54.34) with three of a kind, Sevens
+Seat 4: Bedard (button) (small blind) showed [Kd Ks] and lost with two pair, Kings and Sevens
+
+

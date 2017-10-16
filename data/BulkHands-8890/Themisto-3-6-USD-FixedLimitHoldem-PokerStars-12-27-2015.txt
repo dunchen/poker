@@ -1,0 +1,65 @@
+PokerStars Hand #145977319391:  Hold'em Limit ($3/$6 USD) - 2015/12/26 20:10:52 ET
+Table 'Themisto' 6-max Seat #3 is the button
+Seat 3: chacky-royal ($140.47 in chips)
+Seat 5: FaStBluff ($483.67 in chips)
+chacky-royal: posts small blind $1
+Chessnok: is sitting out
+FaStBluff: posts big blind $3
+*** HOLE CARDS ***
+chacky-royal: raises $3 to $6
+Chessnok leaves the table
+FaStBluff: calls $3
+*** FLOP *** [2d 9h 5c]
+FaStBluff: checks
+chacky-royal: bets $3
+FaStBluff: raises $3 to $6
+chacky-royal: calls $3
+*** TURN *** [2d 9h 5c] [7d]
+FaStBluff: bets $6
+chacky-royal: calls $6
+*** RIVER *** [2d 9h 5c 7d] [Ac]
+FaStBluff: checks
+chacky-royal: checks
+*** SHOW DOWN ***
+FaStBluff: shows [9s 6d] (a pair of Nines)
+chacky-royal: mucks hand
+FaStBluff collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [2d 9h 5c 7d Ac]
+Seat 3: chacky-royal (button) (small blind) mucked
+Seat 5: FaStBluff (big blind) showed [9s 6d] and won ($35.50) with a pair of Nines
+
+
+PokerStars Hand #145977340201:  Hold'em Limit ($3/$6 USD) - 2015/12/26 20:11:26 ET
+Table 'Themisto' 6-max Seat #5 is the button
+Seat 3: chacky-royal ($122.47 in chips)
+Seat 5: FaStBluff ($501.17 in chips)
+FaStBluff: posts small blind $1
+chacky-royal: posts big blind $3
+*** HOLE CARDS ***
+FaStBluff: raises $3 to $6
+chacky-royal: calls $3
+*** FLOP *** [4c Td 5s]
+chacky-royal: checks
+FaStBluff: bets $3
+chacky-royal: raises $3 to $6
+FaStBluff: calls $3
+*** TURN *** [4c Td 5s] [Jd]
+chacky-royal: bets $6
+FaStBluff: calls $6
+*** RIVER *** [4c Td 5s Jd] [9s]
+chacky-royal: checks
+FaStBluff: bets $6
+chacky-royal: calls $6
+*** SHOW DOWN ***
+FaStBluff: shows [Qd 8d] (a straight, Eight to Queen)
+chacky-royal: mucks hand
+FaStBluff collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4c Td 5s Jd 9s]
+Seat 3: chacky-royal (big blind) mucked
+Seat 5: FaStBluff (button) (small blind) showed [Qd 8d] and won ($47.50) with a straight, Eight to Queen
+
+

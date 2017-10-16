@@ -1,0 +1,95 @@
+PokerStars Hand #145092407879:  Hold'em Limit ($3/$6 USD) - 2015/12/09 16:35:07 ET
+Table 'Epimetheus' 6-max Seat #1 is the button
+Seat 1: karambakilla ($121 in chips)
+Seat 6: wxcvnb ($94.39 in chips)
+karambakilla: posts small blind $1
+Karpik09: is sitting out
+vestimokrec: is sitting out
+wxcvnb: posts big blind $3
+*** HOLE CARDS ***
+Karpik09 leaves the table
+vestimokrec leaves the table
+karambakilla: raises $3 to $6
+wxcvnb: calls $3
+*** FLOP *** [3d 8c 7c]
+wxcvnb: checks
+karambakilla: checks
+*** TURN *** [3d 8c 7c] [6h]
+wxcvnb: checks
+karambakilla: bets $6
+wxcvnb: calls $6
+*** RIVER *** [3d 8c 7c 6h] [8h]
+wxcvnb: checks
+karambakilla: bets $6
+wxcvnb: folds
+Uncalled bet ($6) returned to karambakilla
+karambakilla collected $23.52 from pot
+karambakilla: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [3d 8c 7c 6h 8h]
+Seat 1: karambakilla (button) (small blind) collected ($23.52)
+Seat 6: wxcvnb (big blind) folded on the River
+
+
+PokerStars Hand #145092575056:  Hold'em Limit ($3/$6 USD) - 2015/12/09 16:38:11 ET
+Table 'Epimetheus' 6-max Seat #4 is the button
+Seat 1: karambakilla ($132.52 in chips)
+Seat 4: Jokkez 85 ($120 in chips)
+Jokkez 85: posts small blind $1
+karambakilla: posts big blind $3
+*** HOLE CARDS ***
+Jokkez 85: raises $3 to $6
+karambakilla: calls $3
+*** FLOP *** [9c 3h 5h]
+karambakilla: checks
+Jokkez 85: bets $3
+karambakilla: calls $3
+*** TURN *** [9c 3h 5h] [4h]
+Fess7791 joins the table at seat #5
+karambakilla: checks
+Jokkez 85: checks
+*** RIVER *** [9c 3h 5h 4h] [Js]
+karambakilla: bets $6
+Jokkez 85: calls $6
+*** SHOW DOWN ***
+karambakilla: shows [5c 8c] (a pair of Fives)
+Jokkez 85: mucks hand
+karambakilla collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9c 3h 5h 4h Js]
+Seat 1: karambakilla (big blind) showed [5c 8c] and won ($29.50) with a pair of Fives
+Seat 4: Jokkez 85 (button) (small blind) mucked
+
+
+PokerStars Hand #145092594603:  Hold'em Limit ($3/$6 USD) - 2015/12/09 16:38:33 ET
+Table 'Epimetheus' 6-max Seat #1 is the button
+Seat 1: karambakilla ($147.02 in chips)
+Seat 4: Jokkez 85 ($105 in chips)
+karambakilla: posts small blind $1
+Jokkez 85: posts big blind $3
+*** HOLE CARDS ***
+karambakilla: raises $3 to $6
+Jokkez 85: raises $3 to $9
+karambakilla: calls $3
+*** FLOP *** [3h Kc 7c]
+Jokkez 85: bets $3
+karambakilla: calls $3
+*** TURN *** [3h Kc 7c] [Ac]
+Jokkez 85: bets $6
+karambakilla: calls $6
+*** RIVER *** [3h Kc 7c Ac] [9c]
+Jokkez 85: bets $6
+karambakilla: calls $6
+*** SHOW DOWN ***
+Jokkez 85: shows [Th Td] (a pair of Tens)
+karambakilla: shows [4c Kh] (a flush, Ace high)
+karambakilla collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3h Kc 7c Ac 9c]
+Seat 1: karambakilla (button) (small blind) showed [4c Kh] and won ($47.50) with a flush, Ace high
+Seat 4: Jokkez 85 (big blind) showed [Th Td] and lost with a pair of Tens
+
+

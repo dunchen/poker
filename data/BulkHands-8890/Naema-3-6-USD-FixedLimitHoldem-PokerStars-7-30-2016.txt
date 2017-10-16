@@ -1,0 +1,91 @@
+PokerStars Hand #156655588787:  Hold'em Limit ($3/$6 USD) - 2016/07/30 19:08:40 ET
+Table 'Naema' 6-max Seat #2 is the button
+Seat 2: netokop ($34.25 in chips)
+Seat 4: kawsaer ($30.70 in chips)
+netokop: posts small blind $1
+kawsaer: posts big blind $3
+*** HOLE CARDS ***
+netokop: raises $3 to $6
+kawsaer: raises $3 to $9
+netokop: raises $3 to $12
+Betting is capped
+kawsaer: calls $3
+*** FLOP *** [Qs Ah 9h]
+kawsaer: bets $3
+netokop: raises $3 to $6
+kawsaer: raises $3 to $9
+netokop: raises $3 to $12
+Betting is capped
+kawsaer: calls $3
+*** TURN *** [Qs Ah 9h] [8c]
+kawsaer: bets $6
+netokop: raises $4.25 to $10.25 and is all-in
+kawsaer: folds
+Uncalled bet ($4.25) returned to netokop
+netokop collected $59.50 from pot
+netokop: doesn't show hand
+netokop leaves the table
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Qs Ah 9h 8c]
+Seat 2: netokop (button) (small blind) collected ($59.50)
+Seat 4: kawsaer (big blind) folded on the Turn
+
+
+PokerStars Hand #156656612522:  Hold'em Limit ($3/$6 USD) - 2016/07/30 19:39:33 ET
+Table 'Naema' 6-max Seat #2 is the button
+Seat 2: RaisemyNut$ ($121 in chips)
+Seat 6: The_Flute ($186.21 in chips)
+RaisemyNut$: posts small blind $1
+ABATAPP: is sitting out
+The_Flute: posts big blind $3
+*** HOLE CARDS ***
+ABATAPP leaves the table
+ValeryRon leaves the table
+RaisemyNut$: raises $3 to $6
+The_Flute: calls $3
+*** FLOP *** [7h Ad 5d]
+The_Flute: checks
+RaisemyNut$: bets $3
+The_Flute: folds
+Uncalled bet ($3) returned to RaisemyNut$
+RaisemyNut$ collected $11.76 from pot
+RaisemyNut$: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7h Ad 5d]
+Seat 2: RaisemyNut$ (button) (small blind) collected ($11.76)
+Seat 6: The_Flute (big blind) folded on the Flop
+
+
+PokerStars Hand #156656907962:  Hold'em Limit ($3/$6 USD) - 2016/07/30 19:48:57 ET
+Table 'Naema' 6-max Seat #2 is the button
+Seat 2: RaisemyNut$ ($120.76 in chips)
+Seat 3: 7 Huligan 7 ($35.76 in chips)
+RaisemyNut$: posts small blind $1
+7 Huligan 7: posts big blind $3
+*** HOLE CARDS ***
+RaisemyNut$: raises $3 to $6
+7 Huligan 7: calls $3
+*** FLOP *** [4h Ts 2c]
+7 Huligan 7: checks
+RaisemyNut$: bets $3
+7 Huligan 7: calls $3
+*** TURN *** [4h Ts 2c] [Tc]
+7 Huligan 7: checks
+RaisemyNut$: bets $6
+7 Huligan 7: calls $6
+*** RIVER *** [4h Ts 2c Tc] [Qc]
+7 Huligan 7: checks
+RaisemyNut$: checks
+*** SHOW DOWN ***
+7 Huligan 7: shows [Ac Td] (three of a kind, Tens)
+RaisemyNut$: mucks hand
+7 Huligan 7 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4h Ts 2c Tc Qc]
+Seat 2: RaisemyNut$ (button) (small blind) mucked
+Seat 3: 7 Huligan 7 (big blind) showed [Ac Td] and won ($29.50) with three of a kind, Tens
+
+

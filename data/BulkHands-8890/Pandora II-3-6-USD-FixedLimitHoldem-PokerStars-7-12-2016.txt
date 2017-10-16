@@ -1,0 +1,75 @@
+PokerStars Hand #155892319601:  Hold'em Limit ($3/$6 USD) - 2016/07/12 16:39:46 ET
+Table 'Pandora II' 6-max Seat #1 is the button
+Seat 1: mareshkin ($8.88 in chips)
+Seat 4: AzureCaper ($95.50 in chips)
+mareshkin: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+mareshkin: folds
+Uncalled bet ($2) returned to AzureCaper
+AzureCaper collected $2 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: mareshkin (button) (small blind) folded before Flop
+Seat 4: AzureCaper (big blind) collected ($2)
+
+
+PokerStars Hand #155892304063:  Hold'em Limit ($3/$6 USD) - 2016/07/12 16:39:27 ET
+Table 'Pandora II' 6-max Seat #4 is the button
+Seat 1: mareshkin ($32.88 in chips)
+Seat 4: AzureCaper ($72 in chips)
+AzureCaper: posts small blind $1
+mareshkin: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+mareshkin: raises $3 to $9
+AzureCaper: calls $3
+*** FLOP *** [9d 7h Ks]
+mareshkin: bets $3
+AzureCaper: calls $3
+*** TURN *** [9d 7h Ks] [Jc]
+mareshkin: bets $6
+AzureCaper: calls $6
+*** RIVER *** [9d 7h Ks Jc] [3s]
+mareshkin: bets $6
+AzureCaper: calls $6
+*** SHOW DOWN ***
+mareshkin: shows [8s 8h] (a pair of Eights)
+AzureCaper: shows [Ac 9c] (a pair of Nines)
+AzureCaper collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9d 7h Ks Jc 3s]
+Seat 1: mareshkin (big blind) showed [8s 8h] and lost with a pair of Eights
+Seat 4: AzureCaper (button) (small blind) showed [Ac 9c] and won ($47.50) with a pair of Nines
+
+
+PokerStars Hand #155892323406:  Hold'em Limit ($3/$6 USD) - 2016/07/12 16:39:51 ET
+Table 'Pandora II' 6-max Seat #4 is the button
+Seat 1: mareshkin ($7.88 in chips)
+Seat 4: AzureCaper ($96.50 in chips)
+AzureCaper: posts small blind $1
+mareshkin: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec joins the table at seat #2
+AzureCaper: raises $3 to $6
+mareshkin: calls $3
+*** FLOP *** [4h Ac 8d]
+mareshkin: checks
+AzureCaper: bets $3
+mareshkin: calls $1.88 and is all-in
+Uncalled bet ($1.12) returned to AzureCaper
+*** TURN *** [4h Ac 8d] [9s]
+*** RIVER *** [4h Ac 8d 9s] [9d]
+*** SHOW DOWN ***
+mareshkin: shows [5d Jh] (a pair of Nines)
+AzureCaper: shows [3d Kd] (a pair of Nines - Ace+King kicker)
+AzureCaper collected $15.44 from pot
+*** SUMMARY ***
+Total pot $15.76 | Rake $0.32
+Board [4h Ac 8d 9s 9d]
+Seat 1: mareshkin (big blind) showed [5d Jh] and lost with a pair of Nines
+Seat 4: AzureCaper (button) (small blind) showed [3d Kd] and won ($15.44) with a pair of Nines
+
+

@@ -1,0 +1,73 @@
+PokerStars Hand #174119235393:  Hold'em Limit ($3/$6 USD) - 2017/08/09 12:13:08 ET
+Table 'Ebella' 6-max Seat #6 is the button
+Seat 4: jdan31 ($114.54 in chips)
+Seat 6: aleks_4ym ($90 in chips)
+aleks_4ym: posts small blind $1
+jdan31: posts big blind $3
+*** HOLE CARDS ***
+aleks_4ym: raises $3 to $6
+jdan31: calls $3
+*** FLOP *** [9d Ad 2s]
+jdan31: bets $3
+aleks_4ym: calls $3
+*** TURN *** [9d Ad 2s] [Qs]
+ToDaFelt joins the table at seat #1
+jdan31: bets $6
+aleks_4ym: raises $6 to $12
+jdan31: calls $6
+*** RIVER *** [9d Ad 2s Qs] [4h]
+jdan31: checks
+aleks_4ym: checks
+*** SHOW DOWN ***
+jdan31: shows [6c 9c] (a pair of Nines)
+aleks_4ym: mucks hand
+jdan31 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9d Ad 2s Qs 4h]
+Seat 4: jdan31 (big blind) showed [6c 9c] and won ($41.50) with a pair of Nines
+Seat 6: aleks_4ym (button) (small blind) mucked
+
+
+PokerStars Hand #174119259402:  Hold'em Limit ($3/$6 USD) - 2017/08/09 12:13:47 ET
+Table 'Ebella' 6-max Seat #4 is the button
+Seat 4: jdan31 ($135.04 in chips)
+Seat 6: aleks_4ym ($90 in chips)
+jdan31: posts small blind $1
+aleks_4ym: posts big blind $3
+*** HOLE CARDS ***
+jdan31: folds
+Uncalled bet ($2) returned to aleks_4ym
+aleks_4ym collected $2 from pot
+aleks_4ym: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: jdan31 (button) (small blind) folded before Flop
+Seat 6: aleks_4ym (big blind) collected ($2)
+
+
+PokerStars Hand #174133244263:  Hold'em Limit ($3/$6 USD) - 2017/08/09 17:45:43 ET
+Table 'Ebella' 6-max Seat #6 is the button
+Seat 5: krytalex ($98.75 in chips)
+Seat 6: aleks_4ym ($338.65 in chips)
+aleks_4ym: posts small blind $1
+ToDaFelt: is sitting out
+krytalex: posts big blind $3
+*** HOLE CARDS ***
+aleks_4ym: raises $3 to $6
+ToDaFelt leaves the table
+krytalex: calls $3
+*** FLOP *** [7d As 7h]
+krytalex: checks
+aleks_4ym: bets $3
+krytalex: folds
+Uncalled bet ($3) returned to aleks_4ym
+aleks_4ym collected $11.76 from pot
+aleks_4ym: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7d As 7h]
+Seat 5: krytalex (big blind) folded on the Flop
+Seat 6: aleks_4ym (button) (small blind) collected ($11.76)
+
+

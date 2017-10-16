@@ -1,0 +1,33 @@
+PokerStars Hand #154361283595:  Hold'em Limit ($3/$6 USD) - 2016/06/06 5:22:25 ET
+Table 'Scheherezade' 6-max Seat #4 is the button
+Seat 2: krytalex ($84.25 in chips)
+Seat 4: tomte999 ($91.14 in chips)
+tomte999: posts small blind $1
+HAL9QQQ was removed from the table for failing to post
+krytalex: posts big blind $3
+*** HOLE CARDS ***
+tomte999: raises $3 to $6
+krytalex: calls $3
+*** FLOP *** [7h 5s As]
+krytalex: checks
+tomte999: bets $3
+krytalex: calls $3
+*** TURN *** [7h 5s As] [Ks]
+krytalex: checks
+tomte999: bets $6
+krytalex: raises $6 to $12
+tomte999: calls $6
+*** RIVER *** [7h 5s As Ks] [Ad]
+krytalex: checks
+tomte999: checks
+*** SHOW DOWN ***
+krytalex: shows [5c Kd] (two pair, Aces and Kings)
+tomte999: shows [Qc Kc] (two pair, Aces and Kings - Queen kicker)
+tomte999 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [7h 5s As Ks Ad]
+Seat 2: krytalex (big blind) showed [5c Kd] and lost with two pair, Aces and Kings
+Seat 4: tomte999 (button) (small blind) showed [Qc Kc] and won ($41.50) with two pair, Aces and Kings
+
+

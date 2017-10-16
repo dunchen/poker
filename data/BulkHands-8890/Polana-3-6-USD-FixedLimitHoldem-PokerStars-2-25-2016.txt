@@ -1,0 +1,57 @@
+PokerStars Hand #149391453353:  Hold'em Limit ($3/$6 USD) - 2016/02/25 10:27:38 ET
+Table 'Polana' 6-max Seat #4 is the button
+Seat 1: Michello2 ($126.73 in chips)
+Seat 4: MTails ($96 in chips)
+MTails: posts small blind $1
+Michello2: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+Michello2: calls $3
+*** FLOP *** [Kh 9c Kd]
+Michello2: checks
+MTails: bets $3
+Michello2: folds
+Uncalled bet ($3) returned to MTails
+MTails collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kh 9c Kd]
+Seat 1: Michello2 (big blind) folded on the Flop
+Seat 4: MTails (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #149391433382:  Hold'em Limit ($3/$6 USD) - 2016/02/25 10:27:11 ET
+Table 'Polana' 6-max Seat #1 is the button
+Seat 1: Michello2 ($103.23 in chips)
+Seat 4: MTails ($120 in chips)
+Michello2: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+Michello2: calls $2
+MTails: raises $3 to $6
+Ale4o joins the table at seat #2
+Michello2: calls $3
+*** FLOP *** [6c Kh 4c]
+B_loJkl joins the table at seat #3
+MTails: bets $3
+Michello2: raises $3 to $6
+MTails: calls $3
+*** TURN *** [6c Kh 4c] [8h]
+MTails: checks
+Michello2: bets $6
+MTails: calls $6
+*** RIVER *** [6c Kh 4c 8h] [Tc]
+MTails: checks
+Michello2: bets $6
+MTails: calls $6
+*** SHOW DOWN ***
+Michello2: shows [Kc 3h] (a pair of Kings)
+MTails: mucks hand
+Michello2 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [6c Kh 4c 8h Tc]
+Seat 1: Michello2 (button) (small blind) showed [Kc 3h] and won ($47.50) with a pair of Kings
+Seat 4: MTails (big blind) mucked
+
+

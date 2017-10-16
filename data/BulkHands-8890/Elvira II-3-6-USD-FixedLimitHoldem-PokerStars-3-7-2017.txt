@@ -1,0 +1,164 @@
+PokerStars Hand #167235426652:  Hold'em Limit ($3/$6 USD) - 2017/03/07 4:06:09 ET
+Table 'Elvira II' 10-max Seat #10 is the button
+Seat 1: megabaitt ($120 in chips)
+Seat 10: MTails ($120 in chips)
+MTails: posts small blind $1
+megabaitt: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+megabaitt: calls $3
+*** FLOP *** [Kd Qc 8h]
+megabaitt: checks
+MTails: bets $3
+megabaitt: calls $3
+*** TURN *** [Kd Qc 8h] [Kh]
+megabaitt: checks
+MTails: checks
+*** RIVER *** [Kd Qc 8h Kh] [3h]
+megabaitt: checks
+MTails: bets $6
+megabaitt: calls $6
+*** SHOW DOWN ***
+MTails: shows [Qh Td] (two pair, Kings and Queens)
+megabaitt: mucks hand
+MTails collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kd Qc 8h Kh 3h]
+Seat 1: megabaitt (big blind) mucked
+Seat 10: MTails (button) (small blind) showed [Qh Td] and won ($29.50) with two pair, Kings and Queens
+
+
+PokerStars Hand #167235435164:  Hold'em Limit ($3/$6 USD) - 2017/03/07 4:06:35 ET
+Table 'Elvira II' 10-max Seat #1 is the button
+Seat 1: megabaitt ($105 in chips)
+Seat 10: MTails ($134.50 in chips)
+megabaitt: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+megabaitt: raises $3 to $6
+MTails: raises $3 to $9
+megabaitt: raises $3 to $12
+Betting is capped
+MTails: calls $3
+*** FLOP *** [Kc Ks 5h]
+MTails: checks
+megabaitt: bets $3
+MTails: calls $3
+*** TURN *** [Kc Ks 5h] [2s]
+MTails: checks
+megabaitt: bets $6
+MTails: calls $6
+*** RIVER *** [Kc Ks 5h 2s] [6h]
+MTails: checks
+megabaitt: bets $6
+MTails: calls $6
+*** SHOW DOWN ***
+megabaitt: shows [5d As] (two pair, Kings and Fives)
+MTails: mucks hand
+megabaitt collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Kc Ks 5h 2s 6h]
+Seat 1: megabaitt (button) (small blind) showed [5d As] and won ($53.50) with two pair, Kings and Fives
+Seat 10: MTails (big blind) mucked
+
+
+PokerStars Hand #167235444218:  Hold'em Limit ($3/$6 USD) - 2017/03/07 4:07:03 ET
+Table 'Elvira II' 10-max Seat #10 is the button
+Seat 1: megabaitt ($131.50 in chips)
+Seat 10: MTails ($107.50 in chips)
+MTails: posts small blind $1
+megabaitt: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+megabaitt: calls $3
+*** FLOP *** [Th Ad Kd]
+megabaitt: checks
+tilion22 joins the table at seat #2
+MTails: bets $3
+megabaitt: raises $3 to $6
+MTails: calls $3
+*** TURN *** [Th Ad Kd] [5s]
+megabaitt: bets $6
+MTails: raises $6 to $12
+megabaitt: raises $6 to $18
+MTails: calls $6
+*** RIVER *** [Th Ad Kd 5s] [Js]
+megabaitt: bets $6
+MTails: calls $6
+*** SHOW DOWN ***
+megabaitt: shows [Jh Qh] (a straight, Ten to Ace)
+MTails: mucks hand
+megabaitt collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [Th Ad Kd 5s Js]
+Seat 1: megabaitt (big blind) showed [Jh Qh] and won ($71.50) with a straight, Ten to Ace
+Seat 10: MTails (button) (small blind) mucked
+
+
+PokerStars Hand #167235461489:  Hold'em Limit ($3/$6 USD) - 2017/03/07 4:07:55 ET
+Table 'Elvira II' 10-max Seat #10 is the button
+Seat 2: tilion22 ($114 in chips)
+Seat 10: MTails ($78.11 in chips)
+sokol-max-PS will be allowed to play after the button
+MTails: posts small blind $1
+tilion22: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+tilion22: raises $3 to $9
+MTails: calls $3
+*** FLOP *** [4d 5h 7s]
+tilion22: bets $3
+MTails: calls $3
+*** TURN *** [4d 5h 7s] [8s]
+tilion22: bets $6
+MTails: calls $6
+*** RIVER *** [4d 5h 7s 8s] [Js]
+tilion22: bets $6
+MTails: calls $6
+*** SHOW DOWN ***
+tilion22: shows [Ah Ts] (high card Ace)
+MTails: shows [4h 2h] (a pair of Fours)
+MTails collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4d 5h 7s 8s Js]
+Seat 2: tilion22 (big blind) showed [Ah Ts] and lost with high card Ace
+Seat 10: MTails (button) (small blind) showed [4h 2h] and won ($47.50) with a pair of Fours
+
+
+PokerStars Hand #167235475194:  Hold'em Limit ($3/$6 USD) - 2017/03/07 4:08:36 ET
+Table 'Elvira II' 10-max Seat #3 is the button
+Seat 2: tilion22 ($89 in chips)
+Seat 3: sokol-max-PS ($117 in chips)
+sokol-max-PS: posts small blind $1
+MTails: is sitting out
+tilion22: posts big blind $3
+*** HOLE CARDS ***
+sokol-max-PS: raises $3 to $6
+tilion22: calls $3
+*** FLOP *** [Js Ts 3d]
+tilion22: checks
+sokol-max-PS: bets $3
+tilion22: calls $3
+*** TURN *** [Js Ts 3d] [9s]
+tilion22: checks
+sokol-max-PS: bets $6
+tilion22: raises $6 to $12
+sokol-max-PS: calls $6
+*** RIVER *** [Js Ts 3d 9s] [Qd]
+tilion22: bets $6
+sokol-max-PS: calls $6
+*** SHOW DOWN ***
+tilion22: shows [8c Qc] (a straight, Eight to Queen)
+sokol-max-PS: mucks hand
+tilion22 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Js Ts 3d 9s Qd]
+Seat 2: tilion22 (big blind) showed [8c Qc] and won ($53.50) with a straight, Eight to Queen
+Seat 3: sokol-max-PS (button) (small blind) mucked
+
+

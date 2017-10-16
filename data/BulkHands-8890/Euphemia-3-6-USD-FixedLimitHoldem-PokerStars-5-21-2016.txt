@@ -1,0 +1,98 @@
+PokerStars Hand #153626020063:  Hold'em Limit ($3/$6 USD) - 2016/05/21 7:18:06 ET
+Table 'Euphemia' 6-max Seat #2 is the button
+Seat 1: gorcea_vs ($128.63 in chips)
+Seat 2: Tryptamean ($120 in chips)
+Tryptamean: posts small blind $1
+TbIP-TbIP 88: is sitting out
+TbIP-TbIP 88 leaves the table
+gorcea_vs: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88 joins the table at seat #3
+Tryptamean: raises $3 to $6
+gorcea_vs: calls $3
+*** FLOP *** [Ad 5d Jh]
+gorcea_vs: checks
+Actionni13 joins the table at seat #6
+Tryptamean: bets $3
+gorcea_vs: calls $3
+*** TURN *** [Ad 5d Jh] [3d]
+gorcea_vs: checks
+Tryptamean: bets $6
+gorcea_vs: raises $6 to $12
+Tryptamean: folds
+Uncalled bet ($6) returned to gorcea_vs
+gorcea_vs collected $29.50 from pot
+gorcea_vs: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ad 5d Jh 3d]
+Seat 1: gorcea_vs (big blind) collected ($29.50)
+Seat 2: Tryptamean (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #153626038293:  Hold'em Limit ($3/$6 USD) - 2016/05/21 7:18:45 ET
+Table 'Euphemia' 6-max Seat #1 is the button
+Seat 1: gorcea_vs ($143.13 in chips)
+Seat 2: Tryptamean ($105 in chips)
+gorcea_vs: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+gorcea_vs: calls $2
+Tryptamean: raises $3 to $6
+gorcea_vs: calls $3
+*** FLOP *** [8d 3h 2c]
+Tryptamean: bets $3
+gorcea_vs: calls $3
+*** TURN *** [8d 3h 2c] [Kd]
+Tryptamean: bets $6
+gorcea_vs: calls $6
+*** RIVER *** [8d 3h 2c Kd] [2h]
+Tryptamean: bets $6
+gorcea_vs: raises $6 to $12
+Tryptamean: calls $6
+*** SHOW DOWN ***
+gorcea_vs: shows [Js 2d] (three of a kind, Deuces)
+Tryptamean: mucks hand
+gorcea_vs collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [8d 3h 2c Kd 2h]
+Seat 1: gorcea_vs (button) (small blind) showed [Js 2d] and won ($53.50) with three of a kind, Deuces
+Seat 2: Tryptamean (big blind) mucked
+
+
+PokerStars Hand #153627635952:  Hold'em Limit ($3/$6 USD) - 2016/05/21 8:12:32 ET
+Table 'Euphemia' 6-max Seat #3 is the button
+Seat 2: Tryptamean ($274.07 in chips)
+Seat 3: Mordnilap ($72 in chips)
+Mordnilap: posts small blind $1
+Ag3r0n: is sitting out
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+Mordnilap: raises $3 to $6
+Tryptamean: raises $3 to $9
+Ag3r0n leaves the table
+Mordnilap: calls $3
+*** FLOP *** [7s 9c 9h]
+Tryptamean: bets $3
+Mordnilap: raises $3 to $6
+Tryptamean: calls $3
+*** TURN *** [7s 9c 9h] [3c]
+Tryptamean: checks
+Mordnilap: bets $6
+Tryptamean: raises $6 to $12
+Mordnilap: calls $6
+*** RIVER *** [7s 9c 9h 3c] [3h]
+Tryptamean: bets $6
+Mordnilap: calls $6
+*** SHOW DOWN ***
+Tryptamean: shows [Kd Kc] (two pair, Kings and Nines)
+Mordnilap: mucks hand
+Tryptamean collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [7s 9c 9h 3c 3h]
+Seat 2: Tryptamean (big blind) showed [Kd Kc] and won ($65.50) with two pair, Kings and Nines
+Seat 3: Mordnilap (button) (small blind) mucked
+
+

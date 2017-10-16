@@ -1,0 +1,120 @@
+PokerStars Hand #162240262012:  Hold'em Limit ($3/$6 USD) - 2016/12/01 11:09:13 ET
+Table 'Herodias II' 6-max Seat #6 is the button
+Seat 3: anubis.o ($80 in chips)
+Seat 6: TinaTurner72 ($120 in chips)
+TinaTurner72: posts small blind $1
+anubis.o: posts big blind $3
+B_loJkl joins the table at seat #4
+*** HOLE CARDS ***
+TinaTurner72: raises $3 to $6
+anubis.o: calls $3
+*** FLOP *** [Tc Kh 2h]
+anubis.o: checks
+TinaTurner72: bets $3
+anubis.o: calls $3
+*** TURN *** [Tc Kh 2h] [Kc]
+anubis.o: checks
+TinaTurner72: bets $6
+anubis.o: calls $6
+*** RIVER *** [Tc Kh 2h Kc] [Ah]
+anubis.o: bets $6
+TinaTurner72: raises $6 to $12
+anubis.o: calls $6
+*** SHOW DOWN ***
+TinaTurner72: shows [2d 2s] (a full house, Deuces full of Kings)
+anubis.o: mucks hand
+TinaTurner72 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Tc Kh 2h Kc Ah]
+Seat 3: anubis.o (big blind) mucked
+Seat 6: TinaTurner72 (button) (small blind) showed [2d 2s] and won ($53.50) with a full house, Deuces full of Kings
+
+
+PokerStars Hand #162245744029:  Hold'em Limit ($3/$6 USD) - 2016/12/01 13:05:23 ET
+Table 'Herodias II' 6-max Seat #2 is the button
+Seat 1: AdanaZZ ($110.43 in chips)
+Seat 2: baur017017 ($32.77 in chips)
+baur017017: posts small blind $1
+B_loJkl: is sitting out
+TinaTurner72: is sitting out
+AdanaZZ: posts big blind $3
+*** HOLE CARDS ***
+baur017017: raises $3 to $6
+AdanaZZ: folds
+Uncalled bet ($3) returned to baur017017
+baur017017 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: AdanaZZ (big blind) folded before Flop
+Seat 2: baur017017 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #162245763941:  Hold'em Limit ($3/$6 USD) - 2016/12/01 13:05:44 ET
+Table 'Herodias II' 6-max Seat #1 is the button
+Seat 1: AdanaZZ ($115.07 in chips)
+Seat 2: baur017017 ($27.77 in chips)
+AdanaZZ: posts small blind $1
+baur017017: posts big blind $3
+*** HOLE CARDS ***
+AdanaZZ: raises $3 to $6
+baur017017: calls $3
+*** FLOP *** [7c 4d Js]
+baur017017: checks
+AdanaZZ: bets $3
+baur017017: calls $3
+*** TURN *** [7c 4d Js] [Kc]
+baur017017: checks
+AdanaZZ: bets $6
+baur017017: folds
+Uncalled bet ($6) returned to AdanaZZ
+AdanaZZ collected $17.64 from pot
+AdanaZZ: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7c 4d Js Kc]
+Seat 1: AdanaZZ (button) (small blind) collected ($17.64)
+Seat 2: baur017017 (big blind) folded on the Turn
+
+
+PokerStars Hand #162245749245:  Hold'em Limit ($3/$6 USD) - 2016/12/01 13:05:28 ET
+Table 'Herodias II' 6-max Seat #1 is the button
+Seat 1: AdanaZZ ($107.43 in chips)
+Seat 2: baur017017 ($35.77 in chips)
+AdanaZZ: posts small blind $1
+baur017017: posts big blind $3
+*** HOLE CARDS ***
+AdanaZZ: folds
+Uncalled bet ($2) returned to baur017017
+baur017017 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: AdanaZZ (button) (small blind) folded before Flop
+Seat 2: baur017017 (big blind) collected ($2)
+
+
+PokerStars Hand #162245753511:  Hold'em Limit ($3/$6 USD) - 2016/12/01 13:05:33 ET
+Table 'Herodias II' 6-max Seat #2 is the button
+Seat 1: AdanaZZ ($106.43 in chips)
+Seat 2: baur017017 ($36.77 in chips)
+baur017017: posts small blind $1
+AdanaZZ: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl leaves the table
+baur017017: raises $3 to $6
+AdanaZZ: calls $3
+*** FLOP *** [5h 5s Ts]
+AdanaZZ: checks
+baur017017: bets $3
+AdanaZZ: raises $3 to $6
+baur017017: folds
+Uncalled bet ($3) returned to AdanaZZ
+AdanaZZ collected $17.64 from pot
+AdanaZZ: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5h 5s Ts]
+Seat 1: AdanaZZ (big blind) collected ($17.64)
+Seat 2: baur017017 (button) (small blind) folded on the Flop
+
+

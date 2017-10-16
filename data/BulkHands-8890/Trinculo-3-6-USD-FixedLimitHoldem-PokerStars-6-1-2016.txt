@@ -1,0 +1,74 @@
+PokerStars Hand #154151810068:  Hold'em Limit ($3/$6 USD) - 2016/06/01 15:25:33 ET
+Table 'Trinculo' 6-max Seat #4 is the button
+Seat 3: Tryptamean ($123 in chips)
+Seat 4: Soccer09399 ($588.74 in chips)
+Soccer09399: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+Soccer09399: raises $3 to $6
+Tryptamean: folds
+Uncalled bet ($3) returned to Soccer09399
+Soccer09399 collected $6 from pot
+Soccer09399: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: Tryptamean (big blind) folded before Flop
+Seat 4: Soccer09399 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #154151820060:  Hold'em Limit ($3/$6 USD) - 2016/06/01 15:25:44 ET
+Table 'Trinculo' 6-max Seat #3 is the button
+Seat 3: Tryptamean ($120 in chips)
+Seat 4: Soccer09399 ($591.74 in chips)
+Tryptamean: posts small blind $1
+Soccer09399: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+Soccer09399: calls $3
+*** FLOP *** [As 6s Qd]
+Soccer09399: checks
+Tryptamean: bets $3
+Soccer09399: raises $3 to $6
+Tryptamean: folds
+Uncalled bet ($3) returned to Soccer09399
+Soccer09399 collected $17.64 from pot
+Soccer09399: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [As 6s Qd]
+Seat 3: Tryptamean (button) (small blind) folded on the Flop
+Seat 4: Soccer09399 (big blind) collected ($17.64)
+
+
+PokerStars Hand #154151887940:  Hold'em Limit ($3/$6 USD) - 2016/06/01 15:26:59 ET
+Table 'Trinculo' 6-max Seat #3 is the button
+Seat 3: Tryptamean ($96 in chips)
+Seat 5: rivgold ($100 in chips)
+Tryptamean: posts small blind $1
+rivgold: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+rivgold: calls $3
+*** FLOP *** [9d Td 3c]
+rivgold: checks
+Tryptamean: bets $3
+rivgold: calls $3
+*** TURN *** [9d Td 3c] [8d]
+rivgold: checks
+Tryptamean: checks
+*** RIVER *** [9d Td 3c 8d] [Ts]
+rivgold: checks
+Soccer09399 leaves the table
+Tryptamean: bets $6
+rivgold: calls $6
+*** SHOW DOWN ***
+Tryptamean: shows [8c 7d] (two pair, Tens and Eights)
+rivgold: shows [9c Ac] (two pair, Tens and Nines)
+rivgold collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9d Td 3c 8d Ts]
+Seat 3: Tryptamean (button) (small blind) showed [8c 7d] and lost with two pair, Tens and Eights
+Seat 5: rivgold (big blind) showed [9c Ac] and won ($29.50) with two pair, Tens and Nines
+
+

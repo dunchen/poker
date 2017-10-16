@@ -1,0 +1,76 @@
+PokerStars Hand #147258647655:  Hold'em Limit ($3/$6 USD) - 2016/01/18 12:05:28 ET
+Table 'Boda' 2-max Seat #2 is the button
+Seat 1: Mudager ($121.88 in chips)
+Seat 2: jl45259071 ($74.49 in chips)
+jl45259071: posts small blind $1
+Mudager: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+Mudager: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [4h 8h 9d]
+Mudager: bets $3
+jl45259071: calls $3
+*** TURN *** [4h 8h 9d] [Jc]
+Mudager: checks
+jl45259071: checks
+*** RIVER *** [4h 8h 9d Jc] [7s]
+Mudager: checks
+jl45259071: checks
+*** SHOW DOWN ***
+Mudager: shows [2c 2d] (a pair of Deuces)
+jl45259071: shows [Kd 4d] (a pair of Fours)
+jl45259071 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4h 8h 9d Jc 7s]
+Seat 1: Mudager (big blind) showed [2c 2d] and lost with a pair of Deuces
+Seat 2: jl45259071 (button) (small blind) showed [Kd 4d] and won ($17.64) with a pair of Fours
+
+
+PokerStars Hand #147258637078:  Hold'em Limit ($3/$6 USD) - 2016/01/18 12:05:16 ET
+Table 'Boda' 2-max Seat #1 is the button
+Seat 1: Mudager ($122.88 in chips)
+Seat 2: jl45259071 ($73.49 in chips)
+Mudager: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Mudager: folds
+Uncalled bet ($2) returned to jl45259071
+jl45259071 collected $2 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Mudager (button) (small blind) folded before Flop
+Seat 2: jl45259071 (big blind) collected ($2)
+
+
+PokerStars Hand #147258672156:  Hold'em Limit ($3/$6 USD) - 2016/01/18 12:05:55 ET
+Table 'Boda' 2-max Seat #1 is the button
+Seat 1: Mudager ($120 in chips)
+Seat 2: jl45259071 ($83.13 in chips)
+Mudager: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Mudager: calls $2
+jl45259071: checks
+*** FLOP *** [3h 5d Jc]
+jl45259071: checks
+Mudager: checks
+*** TURN *** [3h 5d Jc] [Kc]
+jl45259071: checks
+Mudager: checks
+*** RIVER *** [3h 5d Jc Kc] [Qs]
+jl45259071: checks
+Mudager: bets $6
+jl45259071: folds
+Uncalled bet ($6) returned to Mudager
+Mudager collected $5.88 from pot
+Mudager: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [3h 5d Jc Kc Qs]
+Seat 1: Mudager (button) (small blind) collected ($5.88)
+Seat 2: jl45259071 (big blind) folded on the River
+
+

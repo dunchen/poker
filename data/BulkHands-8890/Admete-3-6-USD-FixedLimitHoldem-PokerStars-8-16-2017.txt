@@ -1,0 +1,77 @@
+PokerStars Hand #174393649066:  Hold'em Limit ($3/$6 USD) - 2017/08/16 1:59:53 ET
+Table 'Admete' 6-max Seat #5 is the button
+Seat 4: 0verd0se ($210.11 in chips)
+Seat 5: B_loJkl ($168.70 in chips)
+B_loJkl: posts small blind $1
+0verd0se: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+0verd0se: raises $3 to $9
+B_loJkl: calls $3
+*** FLOP *** [9c Qs 9h]
+0verd0se: bets $3
+B_loJkl: calls $3
+*** TURN *** [9c Qs 9h] [Qd]
+0verd0se: checks
+B_loJkl: checks
+*** RIVER *** [9c Qs 9h Qd] [8s]
+0verd0se: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+0verd0se: shows [Kd Ac] (two pair, Queens and Nines)
+B_loJkl: shows [7d As] (two pair, Queens and Nines)
+0verd0se collected $17.75 from pot
+B_loJkl collected $17.75 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [9c Qs 9h Qd 8s]
+Seat 4: 0verd0se (big blind) showed [Kd Ac] and won ($17.75) with two pair, Queens and Nines
+Seat 5: B_loJkl (button) (small blind) showed [7d As] and won ($17.75) with two pair, Queens and Nines
+
+
+PokerStars Hand #174393639268:  Hold'em Limit ($3/$6 USD) - 2017/08/16 1:59:06 ET
+Table 'Admete' 6-max Seat #5 is the button
+Seat 4: 0verd0se ($193.61 in chips)
+Seat 5: B_loJkl ($185.70 in chips)
+B_loJkl: posts small blind $1
+0verd0se: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+0verd0se: raises $3 to $9
+B_loJkl: calls $3
+*** FLOP *** [Js 3c Jd]
+0verd0se: bets $3
+B_loJkl: calls $3
+*** TURN *** [Js 3c Jd] [Ts]
+0verd0se: bets $6
+B_loJkl: calls $6
+*** RIVER *** [Js 3c Jd Ts] [6h]
+0verd0se: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to 0verd0se
+0verd0se collected $35.50 from pot
+0verd0se: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Js 3c Jd Ts 6h]
+Seat 4: 0verd0se (big blind) collected ($35.50)
+Seat 5: B_loJkl (button) (small blind) folded on the River
+
+
+PokerStars Hand #174393648026:  Hold'em Limit ($3/$6 USD) - 2017/08/16 1:59:48 ET
+Table 'Admete' 6-max Seat #4 is the button
+Seat 4: 0verd0se ($211.11 in chips)
+Seat 5: B_loJkl ($167.70 in chips)
+0verd0se: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+0verd0se: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: 0verd0se (button) (small blind) folded before Flop
+Seat 5: B_loJkl (big blind) collected ($2)
+
+

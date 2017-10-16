@@ -1,0 +1,81 @@
+PokerStars Hand #176902110196:  Hold'em Limit ($3/$6 USD) - 2017/10/14 10:17:57 ET
+Table 'Sylvia II' 6-max Seat #4 is the button
+Seat 3: Hats007 ($78 in chips)
+Seat 4: laapin ($116 in chips)
+laapin: posts small blind $1
+vestimokrec: is sitting out
+Hats007: posts big blind $3
+*** HOLE CARDS ***
+laapin: folds
+Uncalled bet ($2) returned to Hats007
+Hats007 collected $2 from pot
+Hats007: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: Hats007 (big blind) collected ($2)
+Seat 4: laapin (button) (small blind) folded before Flop
+
+
+PokerStars Hand #176902114037:  Hold'em Limit ($3/$6 USD) - 2017/10/14 10:18:04 ET
+Table 'Sylvia II' 6-max Seat #3 is the button
+Seat 3: Hats007 ($79 in chips)
+Seat 4: laapin ($115 in chips)
+Hats007: posts small blind $1
+laapin: posts big blind $3
+*** HOLE CARDS ***
+Hats007: raises $3 to $6
+laapin: calls $3
+*** FLOP *** [Td Qd Qc]
+laapin: checks
+Hats007: bets $3
+laapin: calls $3
+*** TURN *** [Td Qd Qc] [6h]
+laapin: checks
+Hats007: checks
+*** RIVER *** [Td Qd Qc 6h] [2h]
+laapin: checks
+Hats007: checks
+*** SHOW DOWN ***
+laapin: shows [Kh 8c] (a pair of Queens)
+Hats007: shows [As 4d] (a pair of Queens - Ace kicker)
+Hats007 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Td Qd Qc 6h 2h]
+Seat 3: Hats007 (button) (small blind) showed [As 4d] and won ($17.64) with a pair of Queens
+Seat 4: laapin (big blind) showed [Kh 8c] and lost with a pair of Queens
+
+
+PokerStars Hand #176904181286:  Hold'em Limit ($3/$6 USD) - 2017/10/14 11:16:03 ET
+Table 'Sylvia II' 6-max Seat #5 is the button
+Seat 2: uglyghost101 ($250.85 in chips)
+Seat 5: vestimokrec ($134.61 in chips)
+vestimokrec: posts small blind $1
+uglyghost101: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+uglyghost101: raises $3 to $9
+vestimokrec: calls $3
+*** FLOP *** [7h 5c 4h]
+laapin leaves the table
+uglyghost101: bets $3
+vestimokrec: calls $3
+*** TURN *** [7h 5c 4h] [9d]
+uglyghost101: bets $6
+vestimokrec: raises $6 to $12
+uglyghost101: calls $6
+*** RIVER *** [7h 5c 4h 9d] [6d]
+uglyghost101: checks
+vestimokrec: bets $6
+uglyghost101: calls $6
+*** SHOW DOWN ***
+vestimokrec: shows [4d 5s] (two pair, Fives and Fours)
+uglyghost101: shows [6c 6h] (three of a kind, Sixes)
+uglyghost101 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [7h 5c 4h 9d 6d]
+Seat 2: uglyghost101 (big blind) showed [6c 6h] and won ($59.50) with three of a kind, Sixes
+Seat 5: vestimokrec (button) (small blind) showed [4d 5s] and lost with two pair, Fives and Fours
+
+

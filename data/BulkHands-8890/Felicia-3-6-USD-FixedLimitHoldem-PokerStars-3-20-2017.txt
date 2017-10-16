@@ -1,0 +1,485 @@
+PokerStars Hand #167843304326:  Hold'em Limit ($3/$6 USD) - 2017/03/20 4:02:43 ET
+Table 'Felicia' 6-max Seat #4 is the button
+Seat 1: ``MULAT``86 ($105.57 in chips)
+Seat 4: boogi ($71.38 in chips)
+boogi: posts small blind $1
+``MULAT``86: posts big blind $3
+*** HOLE CARDS ***
+boogi: raises $3 to $6
+``MULAT``86: raises $3 to $9
+boogi: calls $3
+*** FLOP *** [9h 9s 7c]
+``MULAT``86: bets $3
+boogi: raises $3 to $6
+``MULAT``86: calls $3
+*** TURN *** [9h 9s 7c] [Kh]
+``MULAT``86: checks
+boogi: checks
+*** RIVER *** [9h 9s 7c Kh] [6h]
+``MULAT``86: bets $6
+boogi: raises $6 to $12
+``MULAT``86: calls $6
+*** SHOW DOWN ***
+boogi: shows [8h 5c] (a straight, Five to Nine)
+``MULAT``86: mucks hand
+boogi collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [9h 9s 7c Kh 6h]
+Seat 1: ``MULAT``86 (big blind) mucked
+Seat 4: boogi (button) (small blind) showed [8h 5c] and won ($53.50) with a straight, Five to Nine
+
+
+PokerStars Hand #167843302978:  Hold'em Limit ($3/$6 USD) - 2017/03/20 4:02:38 ET
+Table 'Felicia' 6-max Seat #1 is the button
+Seat 1: ``MULAT``86 ($106.57 in chips)
+Seat 4: boogi ($70.38 in chips)
+``MULAT``86: posts small blind $1
+AzureCaper: is sitting out
+boogi: posts big blind $3
+*** HOLE CARDS ***
+``MULAT``86: folds
+Uncalled bet ($2) returned to boogi
+boogi collected $2 from pot
+boogi: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: ``MULAT``86 (button) (small blind) folded before Flop
+Seat 4: boogi (big blind) collected ($2)
+
+
+PokerStars Hand #167843309899:  Hold'em Limit ($3/$6 USD) - 2017/03/20 4:03:04 ET
+Table 'Felicia' 6-max Seat #1 is the button
+Seat 1: ``MULAT``86 ($78.57 in chips)
+Seat 4: boogi ($97.88 in chips)
+``MULAT``86: posts small blind $1
+boogi: posts big blind $3
+AzureCaper leaves the table
+*** HOLE CARDS ***
+``MULAT``86: folds
+Uncalled bet ($2) returned to boogi
+boogi collected $2 from pot
+boogi: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: ``MULAT``86 (button) (small blind) folded before Flop
+Seat 4: boogi (big blind) collected ($2)
+
+
+PokerStars Hand #167848676303:  Hold'em Limit ($3/$6 USD) - 2017/03/20 8:07:28 ET
+Table 'Felicia' 6-max Seat #5 is the button
+Seat 4: Agrotait ($92.50 in chips)
+Seat 5: jullebulle6996 ($8.76 in chips)
+jullebulle6996: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+jullebulle6996: raises $3 to $6
+Agrotait: raises $3 to $9
+jullebulle6996: calls $2.76 and is all-in
+Uncalled bet ($0.24) returned to Agrotait
+*** FLOP *** [Js Qh 9c]
+*** TURN *** [Js Qh 9c] [8s]
+*** RIVER *** [Js Qh 9c 8s] [2c]
+*** SHOW DOWN ***
+Agrotait: shows [As 6d] (high card Ace)
+jullebulle6996: shows [Qs 5h] (a pair of Queens)
+jullebulle6996 collected $17.17 from pot
+*** SUMMARY ***
+Total pot $17.52 | Rake $0.35
+Board [Js Qh 9c 8s 2c]
+Seat 4: Agrotait (big blind) showed [As 6d] and lost with high card Ace
+Seat 5: jullebulle6996 (button) (small blind) showed [Qs 5h] and won ($17.17) with a pair of Queens
+
+
+PokerStars Hand #167848672052:  Hold'em Limit ($3/$6 USD) - 2017/03/20 8:07:19 ET
+Table 'Felicia' 6-max Seat #4 is the button
+Seat 4: Agrotait ($89.50 in chips)
+Seat 5: jullebulle6996 ($11.76 in chips)
+Agrotait: posts small blind $1
+jullebulle6996: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+jullebulle6996: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $6 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 4: Agrotait (button) (small blind) collected ($6)
+Seat 5: jullebulle6996 (big blind) folded before Flop
+
+
+PokerStars Hand #167848666325:  Hold'em Limit ($3/$6 USD) - 2017/03/20 8:07:07 ET
+Table 'Felicia' 6-max Seat #5 is the button
+Seat 4: Agrotait ($95.50 in chips)
+Seat 5: jullebulle6996 ($6 in chips)
+jullebulle6996: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+jullebulle6996: raises $3 to $6 and is all-in
+Agrotait: calls $3
+*** FLOP *** [Ts Td 4d]
+*** TURN *** [Ts Td 4d] [Ah]
+*** RIVER *** [Ts Td 4d Ah] [2s]
+*** SHOW DOWN ***
+Agrotait: shows [3h Jc] (a pair of Tens)
+jullebulle6996: shows [Jh Ks] (a pair of Tens - Ace+King kicker)
+jullebulle6996 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ts Td 4d Ah 2s]
+Seat 4: Agrotait (big blind) showed [3h Jc] and lost with a pair of Tens
+Seat 5: jullebulle6996 (button) (small blind) showed [Jh Ks] and won ($11.76) with a pair of Tens
+
+
+PokerStars Hand #167848646432:  Hold'em Limit ($3/$6 USD) - 2017/03/20 8:06:25 ET
+Table 'Felicia' 6-max Seat #4 is the button
+Seat 4: Agrotait ($72 in chips)
+Seat 5: jullebulle6996 ($30 in chips)
+Agrotait: posts small blind $1
+jullebulle6996: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+jullebulle6996: raises $3 to $9
+Agrotait: calls $3
+*** FLOP *** [Jd As Td]
+jullebulle6996: bets $3
+Agrotait: calls $3
+*** TURN *** [Jd As Td] [2h]
+jullebulle6996: bets $6
+Agrotait: calls $6
+*** RIVER *** [Jd As Td 2h] [Ts]
+jullebulle6996: bets $6
+Agrotait: raises $6 to $12
+jullebulle6996: folds
+Uncalled bet ($6) returned to Agrotait
+Agrotait collected $47.50 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Jd As Td 2h Ts]
+Seat 4: Agrotait (button) (small blind) collected ($47.50)
+Seat 5: jullebulle6996 (big blind) folded on the River
+
+
+PokerStars Hand #167848698359:  Hold'em Limit ($3/$6 USD) - 2017/03/20 8:08:14 ET
+Table 'Felicia' 6-max Seat #4 is the button
+Seat 4: Agrotait ($78.33 in chips)
+Seat 5: jullebulle6996 ($21.89 in chips)
+Agrotait: posts small blind $1
+jullebulle6996: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+jullebulle6996: raises $3 to $9
+Agrotait: calls $3
+*** FLOP *** [Td 5h 4c]
+jullebulle6996: bets $3
+Agrotait: raises $3 to $6
+jullebulle6996: calls $3
+*** TURN *** [Td 5h 4c] [Qh]
+jullebulle6996: checks
+Agrotait: bets $6
+jullebulle6996: calls $6
+*** RIVER *** [Td 5h 4c Qh] [6c]
+jullebulle6996: checks
+Agrotait: bets $6
+jullebulle6996: calls $0.89 and is all-in
+Uncalled bet ($5.11) returned to Agrotait
+*** SHOW DOWN ***
+Agrotait: shows [8d 5d] (a pair of Fives)
+jullebulle6996: shows [8c Kh] (high card King)
+Agrotait collected $43.28 from pot
+*** SUMMARY ***
+Total pot $43.78 | Rake $0.50
+Board [Td 5h 4c Qh 6c]
+Seat 4: Agrotait (button) (small blind) showed [8d 5d] and won ($43.28) with a pair of Fives
+Seat 5: jullebulle6996 (big blind) showed [8c Kh] and lost with high card King
+
+
+PokerStars Hand #167848689858:  Hold'em Limit ($3/$6 USD) - 2017/03/20 8:07:56 ET
+Table 'Felicia' 6-max Seat #5 is the button
+Seat 4: Agrotait ($89.50 in chips)
+Seat 5: jullebulle6996 ($11.17 in chips)
+jullebulle6996: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+jullebulle6996: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [7c As 3s]
+Agrotait: checks
+jullebulle6996: bets $3
+Agrotait: calls $3
+*** TURN *** [7c As 3s] [Td]
+Agrotait: checks
+jullebulle6996: bets $2.17 and is all-in
+Agrotait: calls $2.17
+*** RIVER *** [7c As 3s Td] [3d]
+*** SHOW DOWN ***
+Agrotait: shows [6h Qh] (a pair of Threes)
+jullebulle6996: shows [Ad 7d] (two pair, Aces and Sevens)
+jullebulle6996 collected $21.89 from pot
+*** SUMMARY ***
+Total pot $22.34 | Rake $0.45
+Board [7c As 3s Td 3d]
+Seat 4: Agrotait (big blind) showed [6h Qh] and lost with a pair of Threes
+Seat 5: jullebulle6996 (button) (small blind) showed [Ad 7d] and won ($21.89) with two pair, Aces and Sevens
+
+
+PokerStars Hand #167848682709:  Hold'em Limit ($3/$6 USD) - 2017/03/20 8:07:41 ET
+Table 'Felicia' 6-max Seat #4 is the button
+Seat 4: Agrotait ($83.74 in chips)
+Seat 5: jullebulle6996 ($17.17 in chips)
+Agrotait: posts small blind $1
+jullebulle6996: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+jullebulle6996: calls $3
+*** FLOP *** [Qc Js Ah]
+jullebulle6996: checks
+Agrotait: bets $3
+jullebulle6996: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $11.76 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qc Js Ah]
+Seat 4: Agrotait (button) (small blind) collected ($11.76)
+Seat 5: jullebulle6996 (big blind) folded on the Flop
+
+
+PokerStars Hand #167848738810:  Hold'em Limit ($3/$6 USD) - 2017/03/20 8:09:40 ET
+Table 'Felicia' 6-max Seat #6 is the button
+Seat 5: jullebulle6996 ($109.76 in chips)
+Seat 6: Hi Im Alexey ($72 in chips)
+Hi Im Alexey: posts small blind $1
+jullebulle6996: posts big blind $3
+*** HOLE CARDS ***
+Hi Im Alexey: folds
+Uncalled bet ($2) returned to jullebulle6996
+jullebulle6996 collected $2 from pot
+jullebulle6996: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: jullebulle6996 (big blind) collected ($2)
+Seat 6: Hi Im Alexey (button) (small blind) folded before Flop
+
+
+PokerStars Hand #167848735760:  Hold'em Limit ($3/$6 USD) - 2017/03/20 8:09:33 ET
+Table 'Felicia' 6-max Seat #5 is the button
+Seat 5: jullebulle6996 ($106.76 in chips)
+Seat 6: Hi Im Alexey ($72 in chips)
+jullebulle6996: posts small blind $1
+Hi Im Alexey: posts big blind $3
+*** HOLE CARDS ***
+jullebulle6996: raises $3 to $6
+Hi Im Alexey: folds
+Uncalled bet ($3) returned to jullebulle6996
+jullebulle6996 collected $6 from pot
+jullebulle6996: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 5: jullebulle6996 (button) (small blind) collected ($6)
+Seat 6: Hi Im Alexey (big blind) folded before Flop
+
+
+PokerStars Hand #167848731638:  Hold'em Limit ($3/$6 USD) - 2017/03/20 8:09:25 ET
+Table 'Felicia' 6-max Seat #6 is the button
+Seat 5: jullebulle6996 ($105.76 in chips)
+Seat 6: Hi Im Alexey ($72 in chips)
+Hi Im Alexey: posts small blind $1
+jullebulle6996: posts big blind $3
+*** HOLE CARDS ***
+Hi Im Alexey: folds
+Uncalled bet ($2) returned to jullebulle6996
+jullebulle6996 collected $2 from pot
+jullebulle6996: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: jullebulle6996 (big blind) collected ($2)
+Seat 6: Hi Im Alexey (button) (small blind) folded before Flop
+
+
+PokerStars Hand #167848720756:  Hold'em Limit ($3/$6 USD) - 2017/03/20 8:09:02 ET
+Table 'Felicia' 6-max Seat #5 is the button
+Seat 5: jullebulle6996 ($100 in chips)
+Seat 6: Hi Im Alexey ($72 in chips)
+jullebulle6996: posts small blind $1
+Hi Im Alexey: posts big blind $3
+*** HOLE CARDS ***
+jullebulle6996: raises $3 to $6
+Hi Im Alexey: calls $3
+*** FLOP *** [Ac 6c 3s]
+Hi Im Alexey: checks
+jullebulle6996: bets $3
+Hi Im Alexey: folds
+Uncalled bet ($3) returned to jullebulle6996
+jullebulle6996 collected $11.76 from pot
+jullebulle6996: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ac 6c 3s]
+Seat 5: jullebulle6996 (button) (small blind) collected ($11.76)
+Seat 6: Hi Im Alexey (big blind) folded on the Flop
+
+
+PokerStars Hand #167848744040:  Hold'em Limit ($3/$6 USD) - 2017/03/20 8:09:51 ET
+Table 'Felicia' 6-max Seat #6 is the button
+Seat 5: jullebulle6996 ($109.76 in chips)
+Seat 6: Hi Im Alexey ($73 in chips)
+Hi Im Alexey: posts small blind $1
+jullebulle6996: posts big blind $3
+*** HOLE CARDS ***
+Hi Im Alexey: raises $3 to $6
+jullebulle6996: calls $3
+*** FLOP *** [4s Ks 6h]
+jullebulle6996: checks
+Hi Im Alexey: bets $3
+jullebulle6996: calls $3
+*** TURN *** [4s Ks 6h] [8d]
+jullebulle6996: bets $6
+Hi Im Alexey: raises $6 to $12
+jullebulle6996: calls $6
+*** RIVER *** [4s Ks 6h 8d] [3d]
+jullebulle6996: checks
+Hi Im Alexey: bets $6
+jullebulle6996: calls $6
+*** SHOW DOWN ***
+Hi Im Alexey: shows [5c 8c] (a pair of Eights)
+jullebulle6996: shows [8h 9s] (a pair of Eights - King+Nine kicker)
+jullebulle6996 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [4s Ks 6h 8d 3d]
+Seat 5: jullebulle6996 (big blind) showed [8h 9s] and won ($53.50) with a pair of Eights
+Seat 6: Hi Im Alexey (button) (small blind) showed [5c 8c] and lost with a pair of Eights
+
+
+PokerStars Hand #167848741687:  Hold'em Limit ($3/$6 USD) - 2017/03/20 8:09:46 ET
+Table 'Felicia' 6-max Seat #5 is the button
+Seat 5: jullebulle6996 ($110.76 in chips)
+Seat 6: Hi Im Alexey ($72 in chips)
+jullebulle6996: posts small blind $1
+Hi Im Alexey: posts big blind $3
+*** HOLE CARDS ***
+jullebulle6996: folds
+Uncalled bet ($2) returned to Hi Im Alexey
+Hi Im Alexey collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: jullebulle6996 (button) (small blind) folded before Flop
+Seat 6: Hi Im Alexey (big blind) collected ($2)
+
+
+PokerStars Hand #167848779716:  Hold'em Limit ($3/$6 USD) - 2017/03/20 8:11:05 ET
+Table 'Felicia' 6-max Seat #5 is the button
+Seat 5: jullebulle6996 ($122.26 in chips)
+Seat 6: Hi Im Alexey ($85.50 in chips)
+jullebulle6996: posts small blind $1
+Hi Im Alexey: posts big blind $3
+*** HOLE CARDS ***
+jullebulle6996: raises $3 to $6
+Jack_Wu1985 joins the table at seat #3
+Hi Im Alexey: calls $3
+*** FLOP *** [2s 5c 7d]
+Hi Im Alexey: checks
+jullebulle6996: bets $3
+Hi Im Alexey: calls $3
+*** TURN *** [2s 5c 7d] [2h]
+Hi Im Alexey: checks
+jullebulle6996: bets $6
+Hi Im Alexey: calls $6
+*** RIVER *** [2s 5c 7d 2h] [Qc]
+Hi Im Alexey: checks
+jullebulle6996: bets $6
+Hi Im Alexey: calls $6
+*** SHOW DOWN ***
+jullebulle6996: shows [6c 6d] (two pair, Sixes and Deuces)
+Hi Im Alexey: mucks hand
+jullebulle6996 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2s 5c 7d 2h Qc]
+Seat 5: jullebulle6996 (button) (small blind) showed [6c 6d] and won ($41.50) with two pair, Sixes and Deuces
+Seat 6: Hi Im Alexey (big blind) mucked
+
+
+PokerStars Hand #167848777374:  Hold'em Limit ($3/$6 USD) - 2017/03/20 8:11:01 ET
+Table 'Felicia' 6-max Seat #6 is the button
+Seat 5: jullebulle6996 ($121.26 in chips)
+Seat 6: Hi Im Alexey ($86.50 in chips)
+Hi Im Alexey: posts small blind $1
+jullebulle6996: posts big blind $3
+*** HOLE CARDS ***
+Hi Im Alexey: folds
+Uncalled bet ($2) returned to jullebulle6996
+jullebulle6996 collected $2 from pot
+jullebulle6996: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: jullebulle6996 (big blind) collected ($2)
+Seat 6: Hi Im Alexey (button) (small blind) folded before Flop
+
+
+PokerStars Hand #167848767278:  Hold'em Limit ($3/$6 USD) - 2017/03/20 8:10:39 ET
+Table 'Felicia' 6-max Seat #5 is the button
+Seat 5: jullebulle6996 ($136.26 in chips)
+Seat 6: Hi Im Alexey ($72 in chips)
+jullebulle6996: posts small blind $1
+Hi Im Alexey: posts big blind $3
+*** HOLE CARDS ***
+jullebulle6996: raises $3 to $6
+Hi Im Alexey: calls $3
+*** FLOP *** [7c Jh 8s]
+Hi Im Alexey: checks
+jullebulle6996: bets $3
+Hi Im Alexey: calls $3
+*** TURN *** [7c Jh 8s] [3h]
+Hi Im Alexey: checks
+jullebulle6996: checks
+*** RIVER *** [7c Jh 8s 3h] [Ts]
+Hi Im Alexey: checks
+jullebulle6996: bets $6
+Hi Im Alexey: calls $6
+*** SHOW DOWN ***
+jullebulle6996: shows [Kc 6d] (high card King)
+Hi Im Alexey: shows [7d Kd] (a pair of Sevens)
+Hi Im Alexey collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7c Jh 8s 3h Ts]
+Seat 5: jullebulle6996 (button) (small blind) showed [Kc 6d] and lost with high card King
+Seat 6: Hi Im Alexey (big blind) showed [7d Kd] and won ($29.50) with a pair of Sevens
+
+
+PokerStars Hand #167849990145:  Hold'em Limit ($3/$6 USD) - 2017/03/20 8:51:45 ET
+Table 'Felicia' 6-max Seat #5 is the button
+Seat 3: pulvris ($67.87 in chips)
+Seat 5: AzureCaper ($72 in chips)
+Hi Im Alexey will be allowed to play after the button
+AzureCaper: posts small blind $1
+LouisB: is sitting out
+pulvris: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+pulvris: calls $3
+*** FLOP *** [Kd Ks Th]
+pulvris: checks
+AzureCaper: bets $3
+pulvris: calls $3
+*** TURN *** [Kd Ks Th] [Js]
+pulvris: checks
+AzureCaper: checks
+*** RIVER *** [Kd Ks Th Js] [4d]
+pulvris: bets $6
+jullebulle6996 joins the table at seat #6
+AzureCaper: folds
+Uncalled bet ($6) returned to pulvris
+pulvris collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kd Ks Th Js 4d]
+Seat 3: pulvris (big blind) collected ($17.64)
+Seat 5: AzureCaper (button) (small blind) folded on the River
+
+

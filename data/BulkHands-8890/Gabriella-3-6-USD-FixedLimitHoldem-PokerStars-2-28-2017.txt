@@ -1,0 +1,62 @@
+PokerStars Hand #166915730780:  Hold'em Limit ($3/$6 USD) - 2017/02/28 15:02:50 ET
+Table 'Gabriella' 6-max Seat #2 is the button
+Seat 1: Brando Jr ($197 in chips)
+Seat 2: clickmehot ($52.37 in chips)
+clickmehot: posts small blind $1
+Brando Jr: posts big blind $3
+*** HOLE CARDS ***
+clickmehot: calls $2
+Brando Jr: raises $3 to $6
+clickmehot: calls $3
+*** FLOP *** [2h 7c 8c]
+Brando Jr: bets $3
+clickmehot: calls $3
+*** TURN *** [2h 7c 8c] [Kh]
+zxkz joins the table at seat #3
+Brando Jr: bets $6
+clickmehot: calls $6
+*** RIVER *** [2h 7c 8c Kh] [Ad]
+Brando Jr: bets $6
+clickmehot: folds
+Uncalled bet ($6) returned to Brando Jr
+Brando Jr collected $29.50 from pot
+Brando Jr: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2h 7c 8c Kh Ad]
+Seat 1: Brando Jr (big blind) collected ($29.50)
+Seat 2: clickmehot (button) (small blind) folded on the River
+
+
+PokerStars Hand #166915746703:  Hold'em Limit ($3/$6 USD) - 2017/02/28 15:03:07 ET
+Table 'Gabriella' 6-max Seat #1 is the button
+Seat 1: Brando Jr ($211.50 in chips)
+Seat 2: clickmehot ($37.37 in chips)
+Brando Jr: posts small blind $1
+clickmehot: posts big blind $3
+*** HOLE CARDS ***
+Brando Jr: raises $3 to $6
+clickmehot: calls $3
+*** FLOP *** [3h 2c 6c]
+clickmehot: checks
+Brando Jr: bets $3
+clickmehot: calls $3
+*** TURN *** [3h 2c 6c] [5c]
+clickmehot: checks
+Brando Jr: checks
+*** RIVER *** [3h 2c 6c 5c] [3s]
+clickmehot: checks
+vestimokrec joins the table at seat #4
+Brando Jr: bets $6
+clickmehot: calls $6
+*** SHOW DOWN ***
+Brando Jr: shows [5d 7d] (two pair, Fives and Threes)
+clickmehot: shows [Qh 6d] (two pair, Sixes and Threes)
+clickmehot collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3h 2c 6c 5c 3s]
+Seat 1: Brando Jr (button) (small blind) showed [5d 7d] and lost with two pair, Fives and Threes
+Seat 2: clickmehot (big blind) showed [Qh 6d] and won ($29.50) with two pair, Sixes and Threes
+
+

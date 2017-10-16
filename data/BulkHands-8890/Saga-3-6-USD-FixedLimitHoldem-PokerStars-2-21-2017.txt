@@ -1,0 +1,79 @@
+PokerStars Hand #166565785573:  Hold'em Limit ($3/$6 USD) - 2017/02/21 14:51:09 ET
+Table 'Saga' 10-max Seat #4 is the button
+Seat 4: suxakrw ($21.21 in chips)
+Seat 5: NoNutsCall ($143.04 in chips)
+suxakrw: posts small blind $1
+NoNutsCall: posts big blind $3
+*** HOLE CARDS ***
+suxakrw: calls $2
+NoNutsCall: checks
+*** FLOP *** [Th 5d 9h]
+NoNutsCall: checks
+suxakrw: checks
+*** TURN *** [Th 5d 9h] [6h]
+NoNutsCall: bets $6
+suxakrw: folds
+Uncalled bet ($6) returned to NoNutsCall
+NoNutsCall collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Th 5d 9h 6h]
+Seat 4: suxakrw (button) (small blind) folded on the Turn
+Seat 5: NoNutsCall (big blind) collected ($5.88)
+
+
+PokerStars Hand #166565773932:  Hold'em Limit ($3/$6 USD) - 2017/02/21 14:50:56 ET
+Table 'Saga' 10-max Seat #5 is the button
+Seat 4: suxakrw ($33.21 in chips)
+Seat 5: NoNutsCall ($131.52 in chips)
+NoNutsCall: posts small blind $1
+suxakrw: posts big blind $3
+*** HOLE CARDS ***
+NoNutsCall: raises $3 to $6
+suxakrw: raises $3 to $9
+NoNutsCall: raises $3 to $12
+Betting is capped
+suxakrw: calls $3
+*** FLOP *** [4c 9d 5c]
+suxakrw: checks
+NoNutsCall: bets $3
+suxakrw: folds
+Uncalled bet ($3) returned to NoNutsCall
+NoNutsCall collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [4c 9d 5c]
+Seat 4: suxakrw (big blind) folded on the Flop
+Seat 5: NoNutsCall (button) (small blind) collected ($23.52)
+
+
+PokerStars Hand #166565803708:  Hold'em Limit ($3/$6 USD) - 2017/02/21 14:51:28 ET
+Table 'Saga' 10-max Seat #5 is the button
+Seat 4: suxakrw ($18.21 in chips)
+Seat 5: NoNutsCall ($145.92 in chips)
+NoNutsCall: posts small blind $1
+suxakrw: posts big blind $3
+*** HOLE CARDS ***
+NoNutsCall: raises $3 to $6
+suxakrw: raises $3 to $9
+NoNutsCall: raises $3 to $12
+Betting is capped
+suxakrw: calls $3
+*** FLOP *** [7c 9c 5h]
+suxakrw: bets $3
+NoNutsCall: raises $3 to $6
+suxakrw: raises $0.21 to $6.21 and is all-in
+NoNutsCall: calls $0.21
+*** TURN *** [7c 9c 5h] [3c]
+*** RIVER *** [7c 9c 5h 3c] [7h]
+*** SHOW DOWN ***
+suxakrw: shows [Jd 2d] (a pair of Sevens)
+NoNutsCall: shows [8c Qd] (a pair of Sevens - Queen kicker)
+NoNutsCall collected $35.92 from pot
+*** SUMMARY ***
+Total pot $36.42 | Rake $0.50
+Board [7c 9c 5h 3c 7h]
+Seat 4: suxakrw (big blind) showed [Jd 2d] and lost with a pair of Sevens
+Seat 5: NoNutsCall (button) (small blind) showed [8c Qd] and won ($35.92) with a pair of Sevens
+
+

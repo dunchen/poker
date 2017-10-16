@@ -1,0 +1,910 @@
+PokerStars Hand #151797291589:  Hold'em Limit ($3/$6 USD) - 2016/04/12 1:55:05 ET
+Table 'Fringilla' 6-max Seat #1 is the button
+Seat 1: stressed31 ($120 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+stressed31: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+stressed31: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [2c Td Kc]
+VolkovDmitri: bets $3
+stressed31: calls $3
+*** TURN *** [2c Td Kc] [As]
+VolkovDmitri: checks
+stressed31: checks
+*** RIVER *** [2c Td Kc As] [8c]
+VolkovDmitri: checks
+stressed31: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to stressed31
+stressed31 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2c Td Kc As 8c]
+Seat 1: stressed31 (button) (small blind) collected ($17.64)
+Seat 4: VolkovDmitri (big blind) folded on the River
+
+
+PokerStars Hand #151797300985:  Hold'em Limit ($3/$6 USD) - 2016/04/12 1:55:45 ET
+Table 'Fringilla' 6-max Seat #4 is the button
+Seat 1: stressed31 ($128.64 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+stressed31: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+stressed31: calls $3
+*** FLOP *** [9c Tc Ac]
+stressed31: checks
+VolkovDmitri: bets $3
+stressed31: calls $3
+*** TURN *** [9c Tc Ac] [Th]
+stressed31: checks
+VolkovDmitri: checks
+*** RIVER *** [9c Tc Ac Th] [Ts]
+stressed31: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+stressed31: shows [Ad 4h] (a full house, Tens full of Aces)
+VolkovDmitri: mucks hand
+stressed31 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9c Tc Ac Th Ts]
+Seat 1: stressed31 (big blind) showed [Ad 4h] and won ($17.64) with a full house, Tens full of Aces
+Seat 4: VolkovDmitri (button) (small blind) mucked
+
+
+PokerStars Hand #151797309384:  Hold'em Limit ($3/$6 USD) - 2016/04/12 1:56:22 ET
+Table 'Fringilla' 6-max Seat #1 is the button
+Seat 1: stressed31 ($137.28 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+stressed31: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+stressed31: calls $2
+VolkovDmitri: checks
+*** FLOP *** [9s Kc 4d]
+VolkovDmitri: checks
+stressed31: bets $3
+HAL9QQQ joins the table at seat #6
+VolkovDmitri: folds
+Uncalled bet ($3) returned to stressed31
+stressed31 collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [9s Kc 4d]
+Seat 1: stressed31 (button) (small blind) collected ($5.88)
+Seat 4: VolkovDmitri (big blind) folded on the Flop
+
+
+PokerStars Hand #151797357757:  Hold'em Limit ($3/$6 USD) - 2016/04/12 1:59:54 ET
+Table 'Fringilla' 6-max Seat #6 is the button
+Seat 1: stressed31 ($138.59 in chips)
+Seat 6: HAL9QQQ ($147.97 in chips)
+HAL9QQQ: posts small blind $1
+stressed31: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri leaves the table
+HAL9QQQ: raises $3 to $6
+stressed31: folds
+Uncalled bet ($3) returned to HAL9QQQ
+HAL9QQQ collected $6 from pot
+HAL9QQQ: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: stressed31 (big blind) folded before Flop
+Seat 6: HAL9QQQ (button) (small blind) collected ($6)
+
+
+PokerStars Hand #151797364868:  Hold'em Limit ($3/$6 USD) - 2016/04/12 2:00:24 ET
+Table 'Fringilla' 6-max Seat #6 is the button
+Seat 1: stressed31 ($123.59 in chips)
+Seat 6: HAL9QQQ ($162.49 in chips)
+HAL9QQQ: posts small blind $1
+stressed31: posts big blind $3
+*** HOLE CARDS ***
+HAL9QQQ: raises $3 to $6
+dokaten joins the table at seat #2
+stressed31: raises $3 to $9
+HAL9QQQ: calls $3
+*** FLOP *** [9c 7h 2d]
+stressed31: bets $3
+HAL9QQQ: calls $3
+*** TURN *** [9c 7h 2d] [Kh]
+stressed31: bets $6
+HAL9QQQ: folds
+Uncalled bet ($6) returned to stressed31
+stressed31 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [9c 7h 2d Kh]
+Seat 1: stressed31 (big blind) collected ($23.52)
+Seat 6: HAL9QQQ (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #151797359486:  Hold'em Limit ($3/$6 USD) - 2016/04/12 2:00:01 ET
+Table 'Fringilla' 6-max Seat #1 is the button
+Seat 1: stressed31 ($135.59 in chips)
+Seat 6: HAL9QQQ ($150.97 in chips)
+stressed31: posts small blind $1
+HAL9QQQ: posts big blind $3
+*** HOLE CARDS ***
+stressed31: raises $3 to $6
+HAL9QQQ: calls $3
+*** FLOP *** [2s Ks Td]
+HAL9QQQ: bets $3
+stressed31: raises $3 to $6
+HAL9QQQ: calls $3
+*** TURN *** [2s Ks Td] [Ts]
+HAL9QQQ: checks
+stressed31: checks
+*** RIVER *** [2s Ks Td Ts] [6c]
+HAL9QQQ: bets $6
+stressed31: folds
+Uncalled bet ($6) returned to HAL9QQQ
+HAL9QQQ collected $23.52 from pot
+HAL9QQQ: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [2s Ks Td Ts 6c]
+Seat 1: stressed31 (button) (small blind) folded on the River
+Seat 6: HAL9QQQ (big blind) collected ($23.52)
+
+
+PokerStars Hand #151797520835:  Hold'em Limit ($3/$6 USD) - 2016/04/12 2:10:20 ET
+Table 'Fringilla' 6-max Seat #4 is the button
+Seat 2: dokaten ($67.11 in chips)
+Seat 4: boarcastle ($119.61 in chips)
+boarcastle: posts small blind $1
+HAL9QQQ: is sitting out
+dokaten: posts big blind $3
+*** HOLE CARDS ***
+boarcastle: raises $3 to $6
+dokaten: calls $3
+*** FLOP *** [Ah 4c 8c]
+dokaten: checks
+boarcastle: bets $3
+dokaten: calls $3
+*** TURN *** [Ah 4c 8c] [7h]
+dokaten: checks
+boarcastle: bets $6
+dokaten: raises $6 to $12
+boarcastle: calls $6
+*** RIVER *** [Ah 4c 8c 7h] [6d]
+HAL9QQQ leaves the table
+dokaten: bets $6
+boarcastle: calls $6
+*** SHOW DOWN ***
+dokaten: shows [8s Jh] (a pair of Eights)
+boarcastle: mucks hand
+dokaten collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Ah 4c 8c 7h 6d]
+Seat 2: dokaten (big blind) showed [8s Jh] and won ($53.50) with a pair of Eights
+Seat 4: boarcastle (button) (small blind) mucked
+
+
+PokerStars Hand #151797530200:  Hold'em Limit ($3/$6 USD) - 2016/04/12 2:10:55 ET
+Table 'Fringilla' 6-max Seat #2 is the button
+Seat 2: dokaten ($93.61 in chips)
+Seat 4: boarcastle ($92.61 in chips)
+dokaten: posts small blind $1
+boarcastle: posts big blind $3
+*** HOLE CARDS ***
+dokaten: folds
+Uncalled bet ($2) returned to boarcastle
+boarcastle collected $2 from pot
+boarcastle: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: dokaten (button) (small blind) folded before Flop
+Seat 4: boarcastle (big blind) collected ($2)
+
+
+PokerStars Hand #151797539638:  Hold'em Limit ($3/$6 USD) - 2016/04/12 2:11:30 ET
+Table 'Fringilla' 6-max Seat #4 is the button
+Seat 2: dokaten ($92.37 in chips)
+Seat 4: boarcastle ($93.37 in chips)
+boarcastle: posts small blind $1
+dokaten: posts big blind $3
+*** HOLE CARDS ***
+boarcastle: folds
+Uncalled bet ($2) returned to dokaten
+dokaten collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: dokaten (big blind) collected ($2)
+Seat 4: boarcastle (button) (small blind) folded before Flop
+
+
+PokerStars Hand #151797541109:  Hold'em Limit ($3/$6 USD) - 2016/04/12 2:11:36 ET
+Table 'Fringilla' 6-max Seat #2 is the button
+Seat 2: dokaten ($93.37 in chips)
+Seat 4: boarcastle ($92.37 in chips)
+dokaten: posts small blind $1
+boarcastle: posts big blind $3
+*** HOLE CARDS ***
+dokaten: raises $3 to $6
+boarcastle: folds
+Uncalled bet ($3) returned to dokaten
+dokaten collected $6 from pot
+dokaten: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: dokaten (button) (small blind) collected ($6)
+Seat 4: boarcastle (big blind) folded before Flop
+
+
+PokerStars Hand #151797531743:  Hold'em Limit ($3/$6 USD) - 2016/04/12 2:11:01 ET
+Table 'Fringilla' 6-max Seat #4 is the button
+Seat 2: dokaten ($92.61 in chips)
+Seat 4: boarcastle ($93.61 in chips)
+boarcastle: posts small blind $1
+dokaten: posts big blind $3
+*** HOLE CARDS ***
+boarcastle: raises $3 to $6
+dokaten: calls $3
+*** FLOP *** [3d Ad 3c]
+dokaten: checks
+boarcastle: bets $3
+dokaten: folds
+Uncalled bet ($3) returned to boarcastle
+boarcastle collected $11.76 from pot
+boarcastle: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3d Ad 3c]
+Seat 2: dokaten (big blind) folded on the Flop
+Seat 4: boarcastle (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #151797536314:  Hold'em Limit ($3/$6 USD) - 2016/04/12 2:11:18 ET
+Table 'Fringilla' 6-max Seat #2 is the button
+Seat 2: dokaten ($86.61 in chips)
+Seat 4: boarcastle ($99.37 in chips)
+dokaten: posts small blind $1
+boarcastle: posts big blind $3
+*** HOLE CARDS ***
+dokaten: raises $3 to $6
+boarcastle: calls $3
+*** FLOP *** [2c Ac 9d]
+boarcastle: checks
+dokaten: bets $3
+boarcastle: folds
+Uncalled bet ($3) returned to dokaten
+dokaten collected $11.76 from pot
+dokaten: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2c Ac 9d]
+Seat 2: dokaten (button) (small blind) collected ($11.76)
+Seat 4: boarcastle (big blind) folded on the Flop
+
+
+PokerStars Hand #151797551815:  Hold'em Limit ($3/$6 USD) - 2016/04/12 2:12:17 ET
+Table 'Fringilla' 6-max Seat #2 is the button
+Seat 2: dokaten ($90.37 in chips)
+Seat 4: boarcastle ($95.13 in chips)
+dokaten: posts small blind $1
+boarcastle: posts big blind $3
+*** HOLE CARDS ***
+dokaten: raises $3 to $6
+boarcastle: calls $3
+*** FLOP *** [2h 7h 8h]
+boarcastle: bets $3
+dokaten: calls $3
+*** TURN *** [2h 7h 8h] [Kd]
+boarcastle: bets $6
+dokaten: calls $6
+*** RIVER *** [2h 7h 8h Kd] [Ad]
+boarcastle: checks
+dokaten: bets $6
+boarcastle: folds
+Uncalled bet ($6) returned to dokaten
+dokaten collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2h 7h 8h Kd Ad]
+Seat 2: dokaten (button) (small blind) collected ($29.50)
+Seat 4: boarcastle (big blind) folded on the River
+
+
+PokerStars Hand #151797544641:  Hold'em Limit ($3/$6 USD) - 2016/04/12 2:11:49 ET
+Table 'Fringilla' 6-max Seat #4 is the button
+Seat 2: dokaten ($96.37 in chips)
+Seat 4: boarcastle ($89.37 in chips)
+boarcastle: posts small blind $1
+dokaten: posts big blind $3
+*** HOLE CARDS ***
+boarcastle: raises $3 to $6
+dokaten: calls $3
+*** FLOP *** [Th 7d 9c]
+dokaten: checks
+boarcastle: bets $3
+dokaten: folds
+Uncalled bet ($3) returned to boarcastle
+boarcastle collected $11.76 from pot
+boarcastle: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Th 7d 9c]
+Seat 2: dokaten (big blind) folded on the Flop
+Seat 4: boarcastle (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #151797559722:  Hold'em Limit ($3/$6 USD) - 2016/04/12 2:12:46 ET
+Table 'Fringilla' 6-max Seat #4 is the button
+Seat 2: dokaten ($104.87 in chips)
+Seat 4: boarcastle ($80.13 in chips)
+boarcastle: posts small blind $1
+dokaten: posts big blind $3
+*** HOLE CARDS ***
+boarcastle: raises $3 to $6
+dokaten: calls $3
+*** FLOP *** [Jh 5c Tc]
+dokaten: checks
+boarcastle: bets $3
+dokaten: folds
+Uncalled bet ($3) returned to boarcastle
+boarcastle collected $11.76 from pot
+boarcastle: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jh 5c Tc]
+Seat 2: dokaten (big blind) folded on the Flop
+Seat 4: boarcastle (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #151797574189:  Hold'em Limit ($3/$6 USD) - 2016/04/12 2:13:41 ET
+Table 'Fringilla' 6-max Seat #2 is the button
+Seat 2: dokaten ($74.51 in chips)
+Seat 4: boarcastle ($109.39 in chips)
+dokaten: posts small blind $1
+boarcastle: posts big blind $3
+*** HOLE CARDS ***
+dokaten: raises $3 to $6
+boarcastle: folds
+Uncalled bet ($3) returned to dokaten
+dokaten collected $6 from pot
+dokaten: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: dokaten (button) (small blind) collected ($6)
+Seat 4: boarcastle (big blind) folded before Flop
+
+
+PokerStars Hand #151797575734:  Hold'em Limit ($3/$6 USD) - 2016/04/12 2:13:46 ET
+Table 'Fringilla' 6-max Seat #4 is the button
+Seat 2: dokaten ($77.51 in chips)
+Seat 4: boarcastle ($106.39 in chips)
+boarcastle: posts small blind $1
+dokaten: posts big blind $3
+*** HOLE CARDS ***
+boarcastle: raises $3 to $6
+dokaten: calls $3
+*** FLOP *** [Qh Ac Kd]
+dokaten: bets $3
+boarcastle: raises $3 to $6
+dokaten: calls $3
+*** TURN *** [Qh Ac Kd] [Ks]
+dokaten: checks
+boarcastle: checks
+*** RIVER *** [Qh Ac Kd Ks] [3c]
+dokaten: bets $6
+boarcastle: calls $6
+*** SHOW DOWN ***
+dokaten: shows [7c Kh] (three of a kind, Kings)
+boarcastle: mucks hand
+dokaten collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Qh Ac Kd Ks 3c]
+Seat 2: dokaten (big blind) showed [7c Kh] and won ($35.50) with three of a kind, Kings
+Seat 4: boarcastle (button) (small blind) mucked
+
+
+PokerStars Hand #151797563325:  Hold'em Limit ($3/$6 USD) - 2016/04/12 2:13:00 ET
+Table 'Fringilla' 6-max Seat #2 is the button
+Seat 2: dokaten ($98.87 in chips)
+Seat 4: boarcastle ($85.89 in chips)
+dokaten: posts small blind $1
+boarcastle: posts big blind $3
+*** HOLE CARDS ***
+dokaten: raises $3 to $6
+boarcastle: raises $3 to $9
+dokaten: raises $3 to $12
+Betting is capped
+boarcastle: calls $3
+*** FLOP *** [5c Jd 7h]
+boarcastle: bets $3
+dokaten: calls $3
+*** TURN *** [5c Jd 7h] [Ts]
+boarcastle: bets $6
+dokaten: raises $6 to $12
+boarcastle: calls $6
+*** RIVER *** [5c Jd 7h Ts] [8c]
+boarcastle: bets $6
+dokaten: calls $6
+*** SHOW DOWN ***
+boarcastle: shows [9c Jc] (a straight, Seven to Jack)
+dokaten: mucks hand
+boarcastle collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [5c Jd 7h Ts 8c]
+Seat 2: dokaten (button) (small blind) mucked
+Seat 4: boarcastle (big blind) showed [9c Jc] and won ($65.50) with a straight, Seven to Jack
+
+
+PokerStars Hand #151797586606:  Hold'em Limit ($3/$6 USD) - 2016/04/12 2:14:28 ET
+Table 'Fringilla' 6-max Seat #4 is the button
+Seat 2: dokaten ($100.77 in chips)
+Seat 4: boarcastle ($82.39 in chips)
+boarcastle: posts small blind $1
+dokaten: posts big blind $3
+*** HOLE CARDS ***
+boarcastle: raises $3 to $6
+dokaten: calls $3
+*** FLOP *** [Qc 2h 6h]
+dokaten: checks
+boarcastle: bets $3
+dokaten: raises $3 to $6
+boarcastle: folds
+Uncalled bet ($3) returned to dokaten
+dokaten collected $17.64 from pot
+dokaten: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qc 2h 6h]
+Seat 2: dokaten (big blind) collected ($17.64)
+Seat 4: boarcastle (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #151797581676:  Hold'em Limit ($3/$6 USD) - 2016/04/12 2:14:09 ET
+Table 'Fringilla' 6-max Seat #2 is the button
+Seat 2: dokaten ($95.01 in chips)
+Seat 4: boarcastle ($88.39 in chips)
+dokaten: posts small blind $1
+boarcastle: posts big blind $3
+*** HOLE CARDS ***
+dokaten: raises $3 to $6
+boarcastle: calls $3
+*** FLOP *** [5h Th Qs]
+boarcastle: checks
+dokaten: bets $3
+boarcastle: folds
+Uncalled bet ($3) returned to dokaten
+dokaten collected $11.76 from pot
+dokaten: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5h Th Qs]
+Seat 2: dokaten (button) (small blind) collected ($11.76)
+Seat 4: boarcastle (big blind) folded on the Flop
+
+
+PokerStars Hand #151797591267:  Hold'em Limit ($3/$6 USD) - 2016/04/12 2:14:45 ET
+Table 'Fringilla' 6-max Seat #2 is the button
+Seat 2: dokaten ($109.41 in chips)
+Seat 4: boarcastle ($73.39 in chips)
+dokaten: posts small blind $1
+boarcastle: posts big blind $3
+*** HOLE CARDS ***
+dokaten: folds
+Uncalled bet ($2) returned to boarcastle
+boarcastle collected $2 from pot
+boarcastle: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: dokaten (button) (small blind) folded before Flop
+Seat 4: boarcastle (big blind) collected ($2)
+
+
+PokerStars Hand #151797599662:  Hold'em Limit ($3/$6 USD) - 2016/04/12 2:15:16 ET
+Table 'Fringilla' 6-max Seat #2 is the button
+Seat 2: dokaten ($99.41 in chips)
+Seat 4: boarcastle ($83.03 in chips)
+dokaten: posts small blind $1
+boarcastle: posts big blind $3
+*** HOLE CARDS ***
+dokaten: folds
+Uncalled bet ($2) returned to boarcastle
+boarcastle collected $2 from pot
+boarcastle: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: dokaten (button) (small blind) folded before Flop
+Seat 4: boarcastle (big blind) collected ($2)
+
+
+PokerStars Hand #151807932236:  Hold'em Limit ($3/$6 USD) - 2016/04/12 9:20:01 ET
+Table 'Fringilla' 6-max Seat #3 is the button
+Seat 1: B_loJkl ($325.96 in chips)
+Seat 3: dokaten ($114.95 in chips)
+dokaten: posts small blind $1
+bentinck113: is sitting out
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+dokaten: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: B_loJkl (big blind) collected ($2)
+Seat 3: dokaten (button) (small blind) folded before Flop
+
+
+PokerStars Hand #151807962087:  Hold'em Limit ($3/$6 USD) - 2016/04/12 9:20:51 ET
+Table 'Fringilla' 6-max Seat #3 is the button
+Seat 2: dakid88 ($160 in chips)
+Seat 3: dokaten ($122.59 in chips)
+dokaten: posts small blind $1
+dakid88: posts big blind $3
+*** HOLE CARDS ***
+dokaten: folds
+Uncalled bet ($2) returned to dakid88
+dakid88 collected $2 from pot
+dakid88: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: dakid88 (big blind) collected ($2)
+Seat 3: dokaten (button) (small blind) folded before Flop
+
+
+PokerStars Hand #151807936108:  Hold'em Limit ($3/$6 USD) - 2016/04/12 9:20:07 ET
+Table 'Fringilla' 6-max Seat #1 is the button
+Seat 1: B_loJkl ($326.96 in chips)
+Seat 3: dokaten ($113.95 in chips)
+B_loJkl: posts small blind $1
+dokaten: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+bentinck113 leaves the table
+dokaten: calls $3
+*** FLOP *** [2h 8s 8c]
+dokaten: bets $3
+dakid88 joins the table at seat #2
+B_loJkl: calls $3
+*** TURN *** [2h 8s 8c] [9s]
+dokaten: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to dokaten
+dokaten collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2h 8s 8c 9s]
+Seat 1: B_loJkl (button) (small blind) folded on the Turn
+Seat 3: dokaten (big blind) collected ($17.64)
+
+
+PokerStars Hand #151807990729:  Hold'em Limit ($3/$6 USD) - 2016/04/12 9:21:40 ET
+Table 'Fringilla' 6-max Seat #4 is the button
+Seat 2: dakid88 ($166.76 in chips)
+Seat 4: B_loJkl ($144 in chips)
+B_loJkl: posts small blind $1
+dakid88: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+dakid88: calls $3
+*** FLOP *** [9c 3h Kd]
+dakid88: checks
+B_loJkl: bets $3
+dakid88: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9c 3h Kd]
+Seat 2: dakid88 (big blind) folded on the Flop
+Seat 4: B_loJkl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #151807981502:  Hold'em Limit ($3/$6 USD) - 2016/04/12 9:21:24 ET
+Table 'Fringilla' 6-max Seat #2 is the button
+Seat 2: dakid88 ($161 in chips)
+Seat 4: B_loJkl ($150 in chips)
+dakid88: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+dakid88: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Jc Jd 9c]
+B_loJkl: checks
+dakid88: bets $3
+B_loJkl: folds
+Uncalled bet ($3) returned to dakid88
+dakid88 collected $11.76 from pot
+dakid88: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jc Jd 9c]
+Seat 2: dakid88 (button) (small blind) collected ($11.76)
+Seat 4: B_loJkl (big blind) folded on the Flop
+
+
+PokerStars Hand #151808196328:  Hold'em Limit ($3/$6 USD) - 2016/04/12 9:27:31 ET
+Table 'Fringilla' 6-max Seat #2 is the button
+Seat 2: dakid88 ($207.56 in chips)
+Seat 4: B_loJkl ($99.47 in chips)
+dakid88: posts small blind $1
+dokaten is disconnected
+dokaten has timed out while disconnected
+dokaten: is sitting out
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+dakid88: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Ah 4c 9s]
+B_loJkl: checks
+dakid88: bets $3
+Yell0wBack joins the table at seat #5
+B_loJkl: folds
+Uncalled bet ($3) returned to dakid88
+dakid88 collected $11.76 from pot
+dakid88: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ah 4c 9s]
+Seat 2: dakid88 (button) (small blind) collected ($11.76)
+Seat 4: B_loJkl (big blind) folded on the Flop
+
+
+PokerStars Hand #151811197859:  Hold'em Limit ($3/$6 USD) - 2016/04/12 10:49:24 ET
+Table 'Fringilla' 6-max Seat #6 is the button
+Seat 5: Yell0wBack ($911.67 in chips)
+Seat 6: bentinck113 ($133.33 in chips)
+bentinck113: posts small blind $1
+B_loJkl: is sitting out
+Yell0wBack: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl leaves the table
+B_loJkl joins the table at seat #2
+bentinck113 has timed out
+bentinck113: folds
+Uncalled bet ($2) returned to Yell0wBack
+Yell0wBack collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: Yell0wBack (big blind) collected ($2)
+Seat 6: bentinck113 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #151811230410:  Hold'em Limit ($3/$6 USD) - 2016/04/12 10:50:14 ET
+Table 'Fringilla' 6-max Seat #5 is the button
+Seat 2: B_loJkl ($150 in chips)
+Seat 5: Yell0wBack ($912.67 in chips)
+Yell0wBack: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Yell0wBack: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: B_loJkl (big blind) collected ($2)
+Seat 5: Yell0wBack (button) (small blind) folded before Flop
+
+
+PokerStars Hand #151811246865:  Hold'em Limit ($3/$6 USD) - 2016/04/12 10:50:40 ET
+Table 'Fringilla' 6-max Seat #5 is the button
+Seat 2: B_loJkl ($154 in chips)
+Seat 5: Yell0wBack ($908.67 in chips)
+Yell0wBack: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Yell0wBack: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [6h 3h 2h]
+B_loJkl: checks
+Yell0wBack: bets $3
+B_loJkl: folds
+Uncalled bet ($3) returned to Yell0wBack
+Yell0wBack collected $11.76 from pot
+Yell0wBack: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6h 3h 2h]
+Seat 2: B_loJkl (big blind) folded on the Flop
+Seat 5: Yell0wBack (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #151811234058:  Hold'em Limit ($3/$6 USD) - 2016/04/12 10:50:20 ET
+Table 'Fringilla' 6-max Seat #2 is the button
+Seat 2: B_loJkl ($151 in chips)
+Seat 5: Yell0wBack ($911.67 in chips)
+B_loJkl: posts small blind $1
+Yell0wBack: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+Yell0wBack: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $6 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: B_loJkl (button) (small blind) collected ($6)
+Seat 5: Yell0wBack (big blind) folded before Flop
+
+
+PokerStars Hand #151811290869:  Hold'em Limit ($3/$6 USD) - 2016/04/12 10:51:48 ET
+Table 'Fringilla' 6-max Seat #2 is the button
+Seat 2: B_loJkl ($130 in chips)
+Seat 5: Yell0wBack ($931.93 in chips)
+B_loJkl: posts small blind $1
+Yell0wBack: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+Yell0wBack: calls $3
+*** FLOP *** [7d 5h 7s]
+Yell0wBack: bets $3
+B_loJkl: calls $3
+*** TURN *** [7d 5h 7s] [2h]
+Yell0wBack: bets $6
+B_loJkl: calls $6
+*** RIVER *** [7d 5h 7s 2h] [4s]
+Yell0wBack: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+Yell0wBack: shows [4c Jd] (two pair, Sevens and Fours)
+B_loJkl: mucks hand
+Yell0wBack collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [7d 5h 7s 2h 4s]
+Seat 2: B_loJkl (button) (small blind) mucked
+Seat 5: Yell0wBack (big blind) showed [4c Jd] and won ($41.50) with two pair, Sevens and Fours
+
+
+PokerStars Hand #151811284894:  Hold'em Limit ($3/$6 USD) - 2016/04/12 10:51:38 ET
+Table 'Fringilla' 6-max Seat #5 is the button
+Seat 2: B_loJkl ($133 in chips)
+Seat 5: Yell0wBack ($928.93 in chips)
+Yell0wBack: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Yell0wBack: raises $3 to $6
+B_loJkl: folds
+Uncalled bet ($3) returned to Yell0wBack
+Yell0wBack collected $6 from pot
+Yell0wBack: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: B_loJkl (big blind) folded before Flop
+Seat 5: Yell0wBack (button) (small blind) collected ($6)
+
+
+PokerStars Hand #151811257779:  Hold'em Limit ($3/$6 USD) - 2016/04/12 10:50:56 ET
+Table 'Fringilla' 6-max Seat #2 is the button
+Seat 2: B_loJkl ($148 in chips)
+Seat 5: Yell0wBack ($914.43 in chips)
+B_loJkl: posts small blind $1
+Yell0wBack: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+Yell0wBack: calls $3
+*** FLOP *** [6h 2s 5h]
+Yell0wBack: checks
+Zeeon leaves the table
+B_loJkl: bets $3
+Yell0wBack: calls $3
+*** TURN *** [6h 2s 5h] [Th]
+Yell0wBack: checks
+B_loJkl: checks
+*** RIVER *** [6h 2s 5h Th] [Js]
+Yell0wBack: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+Yell0wBack: shows [Jd 9h] (a pair of Jacks)
+B_loJkl: mucks hand
+Yell0wBack collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6h 2s 5h Th Js]
+Seat 2: B_loJkl (button) (small blind) mucked
+Seat 5: Yell0wBack (big blind) showed [Jd 9h] and won ($29.50) with a pair of Jacks
+
+
+PokerStars Hand #151811334128:  Hold'em Limit ($3/$6 USD) - 2016/04/12 10:52:55 ET
+Table 'Fringilla' 6-max Seat #2 is the button
+Seat 2: B_loJkl ($136.26 in chips)
+Seat 5: Yell0wBack ($924.43 in chips)
+B_loJkl: posts small blind $1
+Yell0wBack: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+Yell0wBack: raises $3 to $9
+B_loJkl: calls $3
+*** FLOP *** [3s 6d Qs]
+Yell0wBack: bets $3
+B_loJkl: calls $3
+*** TURN *** [3s 6d Qs] [9s]
+Yell0wBack: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to Yell0wBack
+Yell0wBack collected $23.52 from pot
+Yell0wBack: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [3s 6d Qs 9s]
+Seat 2: B_loJkl (button) (small blind) folded on the Turn
+Seat 5: Yell0wBack (big blind) collected ($23.52)
+
+
+PokerStars Hand #151811330172:  Hold'em Limit ($3/$6 USD) - 2016/04/12 10:52:48 ET
+Table 'Fringilla' 6-max Seat #5 is the button
+Seat 2: B_loJkl ($135.26 in chips)
+Seat 5: Yell0wBack ($925.43 in chips)
+Yell0wBack: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Yell0wBack: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: B_loJkl (big blind) collected ($2)
+Seat 5: Yell0wBack (button) (small blind) folded before Flop
+
+
+PokerStars Hand #151811320936:  Hold'em Limit ($3/$6 USD) - 2016/04/12 10:52:34 ET
+Table 'Fringilla' 6-max Seat #2 is the button
+Seat 2: B_loJkl ($129.50 in chips)
+Seat 5: Yell0wBack ($931.43 in chips)
+B_loJkl: posts small blind $1
+Yell0wBack: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+Yell0wBack: calls $3
+*** FLOP *** [Jh 2d 2h]
+Yell0wBack: checks
+B_loJkl: bets $3
+Yell0wBack: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jh 2d 2h]
+Seat 2: B_loJkl (button) (small blind) collected ($11.76)
+Seat 5: Yell0wBack (big blind) folded on the Flop
+
+
+PokerStars Hand #151811304463:  Hold'em Limit ($3/$6 USD) - 2016/04/12 10:52:08 ET
+Table 'Fringilla' 6-max Seat #5 is the button
+Seat 2: B_loJkl ($109 in chips)
+Seat 5: Yell0wBack ($952.43 in chips)
+Yell0wBack: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Yell0wBack: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Ah 3c 8s]
+B_loJkl: checks
+Yell0wBack: bets $3
+B_loJkl: calls $3
+*** TURN *** [Ah 3c 8s] [Tc]
+B_loJkl: checks
+Yell0wBack: bets $6
+B_loJkl: calls $6
+*** RIVER *** [Ah 3c 8s Tc] [8d]
+B_loJkl: checks
+Yell0wBack: bets $6
+B_loJkl: raises $6 to $12
+Yell0wBack: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $41.50 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ah 3c 8s Tc 8d]
+Seat 2: B_loJkl (big blind) collected ($41.50)
+Seat 5: Yell0wBack (button) (small blind) folded on the River
+
+

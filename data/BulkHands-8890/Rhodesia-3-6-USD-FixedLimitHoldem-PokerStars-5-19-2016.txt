@@ -1,0 +1,83 @@
+PokerStars Hand #153527226398:  Hold'em Limit ($3/$6 USD) - 2016/05/19 3:52:33 ET
+Table 'Rhodesia' 6-max Seat #5 is the button
+Seat 4: VolkovDmitri ($120 in chips)
+Seat 5: sumsisumsum ($65 in chips)
+sumsisumsum: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Ag3r0n joins the table at seat #6
+sumsisumsum: calls $2
+VolkovDmitri: raises $3 to $6
+sumsisumsum: calls $3
+*** FLOP *** [6h 9c Ts]
+PaulAudra joins the table at seat #1
+VolkovDmitri: bets $3
+sumsisumsum: calls $3
+*** TURN *** [6h 9c Ts] [8s]
+VolkovDmitri: checks
+sumsisumsum: checks
+*** RIVER *** [6h 9c Ts 8s] [Jc]
+VolkovDmitri: bets $6
+sumsisumsum: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Td Qh] (a straight, Eight to Queen)
+sumsisumsum: mucks hand
+VolkovDmitri collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6h 9c Ts 8s Jc]
+Seat 4: VolkovDmitri (big blind) showed [Td Qh] and won ($29.50) with a straight, Eight to Queen
+Seat 5: sumsisumsum (button) (small blind) mucked
+
+
+PokerStars Hand #153527247281:  Hold'em Limit ($3/$6 USD) - 2016/05/19 3:53:44 ET
+Table 'Rhodesia' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($134.50 in chips)
+Seat 5: sumsisumsum ($50 in chips)
+VolkovDmitri: posts small blind $1
+sumsisumsum: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+sumsisumsum: calls $3
+*** FLOP *** [9h 3d 2s]
+sumsisumsum: checks
+VolkovDmitri: bets $3
+sumsisumsum: calls $3
+*** TURN *** [9h 3d 2s] [Th]
+sumsisumsum: checks
+VolkovDmitri: bets $6
+sumsisumsum: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $17.64 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9h 3d 2s Th]
+Seat 4: VolkovDmitri (button) (small blind) collected ($17.64)
+Seat 5: sumsisumsum (big blind) folded on the Turn
+
+
+PokerStars Hand #153530068327:  Hold'em Limit ($3/$6 USD) - 2016/05/19 6:09:19 ET
+Table 'Rhodesia' 6-max Seat #2 is the button
+Seat 2: Actionni13 ($195.40 in chips)
+Seat 5: B_loJkl ($261.77 in chips)
+Actionni13: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [2d 9c 5d]
+4506003 leaves the table
+B_loJkl: checks
+Actionni13: bets $3
+B_loJkl: folds
+Uncalled bet ($3) returned to Actionni13
+Actionni13 collected $11.76 from pot
+Actionni13: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2d 9c 5d]
+Seat 2: Actionni13 (button) (small blind) collected ($11.76)
+Seat 5: B_loJkl (big blind) folded on the Flop
+
+

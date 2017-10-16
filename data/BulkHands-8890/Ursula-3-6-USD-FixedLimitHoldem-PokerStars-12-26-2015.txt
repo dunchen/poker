@@ -1,0 +1,30 @@
+PokerStars Hand #145944040539:  Hold'em Limit ($3/$6 USD) - 2015/12/26 9:33:20 ET
+Table 'Ursula' 2-max Seat #2 is the button
+Seat 1: dmitokv ($89.15 in chips)
+Seat 2: mtoalen ($10 in chips)
+mtoalen: posts small blind $1
+dmitokv: posts big blind $3
+*** HOLE CARDS ***
+mtoalen: raises $3 to $6
+dmitokv: raises $3 to $9
+mtoalen: calls $3
+*** FLOP *** [As Td 3c]
+dmitokv: checks
+mtoalen: checks
+*** TURN *** [As Td 3c] [5h]
+dmitokv: checks
+mtoalen: checks
+*** RIVER *** [As Td 3c 5h] [Jd]
+dmitokv: checks
+mtoalen: checks
+*** SHOW DOWN ***
+dmitokv: shows [Ad 7h] (a pair of Aces)
+mtoalen: mucks hand
+dmitokv collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [As Td 3c 5h Jd]
+Seat 1: dmitokv (big blind) showed [Ad 7h] and won ($17.64) with a pair of Aces
+Seat 2: mtoalen (button) (small blind) mucked
+
+

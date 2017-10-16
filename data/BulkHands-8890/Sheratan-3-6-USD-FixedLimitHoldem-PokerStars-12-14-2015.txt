@@ -1,0 +1,36 @@
+PokerStars Hand #145343221475:  Hold'em Limit ($3/$6 USD) - 2015/12/14 14:33:26 ET
+Table 'Sheratan' 6-max Seat #2 is the button
+Seat 1: julenchu ($241.42 in chips)
+Seat 2: PelonCabelao ($135.34 in chips)
+PelonCabelao: posts small blind $1
+BuzovaPro: is sitting out
+SashaYuvelir: is sitting out
+vestimokrec: is sitting out
+julenchu: posts big blind $3
+*** HOLE CARDS ***
+PelonCabelao: raises $3 to $6
+SashaYuvelir leaves the table
+julenchu: calls $3
+*** FLOP *** [Tc 9h 2c]
+julenchu: checks
+PelonCabelao: bets $3
+vestimokrec leaves the table
+julenchu: raises $3 to $6
+PelonCabelao: calls $3
+*** TURN *** [Tc 9h 2c] [5s]
+julenchu: bets $6
+PelonCabelao: calls $6
+*** RIVER *** [Tc 9h 2c 5s] [8s]
+julenchu: bets $6
+PelonCabelao: calls $6
+*** SHOW DOWN ***
+julenchu: shows [9s Td] (two pair, Tens and Nines)
+PelonCabelao: mucks hand
+julenchu collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Tc 9h 2c 5s 8s]
+Seat 1: julenchu (big blind) showed [9s Td] and won ($47.50) with two pair, Tens and Nines
+Seat 2: PelonCabelao (button) (small blind) mucked
+
+

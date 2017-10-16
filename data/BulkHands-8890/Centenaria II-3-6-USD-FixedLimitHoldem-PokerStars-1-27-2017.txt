@@ -1,0 +1,56 @@
+PokerStars Hand #165264501081:  Hold'em Limit ($3/$6 USD) - 2017/01/27 16:34:07 ET
+Table 'Centenaria II' 6-max Seat #5 is the button
+Seat 5: GoliafUa ($173.50 in chips)
+Seat 6: tmpPoker ($4.29 in chips)
+GoliafUa: posts small blind $1
+tmpPoker: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa: raises $3 to $6
+tmpPoker: folds
+Uncalled bet ($3) returned to GoliafUa
+tmpPoker leaves the table
+GoliafUa collected $6 from pot
+GoliafUa: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 5: GoliafUa (button) (small blind) collected ($6)
+Seat 6: tmpPoker (big blind) folded before Flop
+
+
+PokerStars Hand #165264465329:  Hold'em Limit ($3/$6 USD) - 2017/01/27 16:33:28 ET
+Table 'Centenaria II' 6-max Seat #6 is the button
+Seat 5: GoliafUa ($120 in chips)
+Seat 6: tmpPoker ($58.29 in chips)
+tmpPoker: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+tmpPoker: raises $3 to $6
+GoliafUa: calls $3
+*** FLOP *** [6h 7c 9s]
+GoliafUa: checks
+tmpPoker: checks
+*** TURN *** [6h 7c 9s] [2d]
+GoliafUa: bets $6
+tmpPoker: raises $6 to $12
+GoliafUa: raises $6 to $18
+tmpPoker: raises $6 to $24
+Betting is capped
+GoliafUa: calls $6
+*** RIVER *** [6h 7c 9s 2d] [Jd]
+GoliafUa: bets $6
+tmpPoker: raises $6 to $12
+GoliafUa: raises $6 to $18
+tmpPoker: raises $6 to $24
+Betting is capped
+GoliafUa: calls $6
+*** SHOW DOWN ***
+tmpPoker: shows [Js Jh] (three of a kind, Jacks)
+GoliafUa: shows [Ts 8c] (a straight, Seven to Jack)
+GoliafUa collected $107.50 from pot
+*** SUMMARY ***
+Total pot $108 | Rake $0.50
+Board [6h 7c 9s 2d Jd]
+Seat 5: GoliafUa (big blind) showed [Ts 8c] and won ($107.50) with a straight, Seven to Jack
+Seat 6: tmpPoker (button) (small blind) showed [Js Jh] and lost with three of a kind, Jacks
+
+

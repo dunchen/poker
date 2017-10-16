@@ -1,0 +1,200 @@
+PokerStars Hand #155619521360:  Hold'em Limit ($3/$6 USD) - 2016/07/05 22:34:22 ET
+Table 'Erato' 6-max Seat #4 is the button
+Seat 1: _fayzulllo_ ($59.76 in chips)
+Seat 4: AzureCaper ($89.50 in chips)
+AzureCaper: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+Masqb joins the table at seat #2
+AzureCaper: raises $3 to $6
+_fayzulllo_: calls $3
+*** FLOP *** [9d 5h 3c]
+_fayzulllo_: checks
+AzureCaper: bets $3
+_fayzulllo_: calls $3
+*** TURN *** [9d 5h 3c] [As]
+_fayzulllo_: checks
+AzureCaper: bets $6
+_fayzulllo_: raises $6 to $12
+AzureCaper: folds
+Uncalled bet ($6) returned to _fayzulllo_
+_fayzulllo_ collected $29.50 from pot
+_fayzulllo_: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9d 5h 3c As]
+Seat 1: _fayzulllo_ (big blind) collected ($29.50)
+Seat 4: AzureCaper (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #155619501995:  Hold'em Limit ($3/$6 USD) - 2016/07/05 22:33:08 ET
+Table 'Erato' 6-max Seat #1 is the button
+Seat 1: _fayzulllo_ ($72 in chips)
+Seat 4: AzureCaper ($72 in chips)
+_fayzulllo_: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [3d 7d 7h]
+AzureCaper: checks
+_fayzulllo_: bets $3
+AzureCaper is disconnected
+AzureCaper has timed out while disconnected
+AzureCaper: folds
+Uncalled bet ($3) returned to _fayzulllo_
+_fayzulllo_ collected $11.76 from pot
+_fayzulllo_: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3d 7d 7h]
+Seat 1: _fayzulllo_ (button) (small blind) collected ($11.76)
+Seat 4: AzureCaper (big blind) folded on the Flop
+
+
+PokerStars Hand #155619618180:  Hold'em Limit ($3/$6 USD) - 2016/07/05 22:39:32 ET
+Table 'Erato' 6-max Seat #2 is the button
+Seat 1: _fayzulllo_ ($19.26 in chips)
+Seat 2: Masqb ($114.30 in chips)
+Masqb: posts small blind $1
+AzureCaper: is sitting out
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+Masqb: raises $3 to $6
+_fayzulllo_: calls $3
+*** FLOP *** [Kd Kh Ac]
+_fayzulllo_: checks
+Masqb: bets $3
+_fayzulllo_: folds
+Uncalled bet ($3) returned to Masqb
+Masqb collected $11.76 from pot
+Masqb: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kd Kh Ac]
+Seat 1: _fayzulllo_ (big blind) folded on the Flop
+Seat 2: Masqb (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #155619631404:  Hold'em Limit ($3/$6 USD) - 2016/07/05 22:40:12 ET
+Table 'Erato' 6-max Seat #1 is the button
+Seat 1: _fayzulllo_ ($13.26 in chips)
+Seat 2: Masqb ($120.06 in chips)
+_fayzulllo_: posts small blind $1
+Masqb: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: raises $3 to $6
+Masqb: raises $3 to $9
+_fayzulllo_: raises $3 to $12
+Betting is capped
+Masqb: calls $3
+*** FLOP *** [2d 2h 2c]
+Masqb: bets $3
+_fayzulllo_: calls $1.26 and is all-in
+Uncalled bet ($1.74) returned to Masqb
+*** TURN *** [2d 2h 2c] [Jd]
+*** RIVER *** [2d 2h 2c Jd] [2s]
+*** SHOW DOWN ***
+Masqb: shows [Ts Ks] (four of a kind, Deuces)
+_fayzulllo_: shows [6c Kd] (four of a kind, Deuces)
+Masqb collected $13.01 from pot
+_fayzulllo_ collected $13.01 from pot
+*** SUMMARY ***
+Total pot $26.52 | Rake $0.50
+Board [2d 2h 2c Jd 2s]
+Seat 1: _fayzulllo_ (button) (small blind) showed [6c Kd] and won ($13.01) with four of a kind, Deuces
+Seat 2: Masqb (big blind) showed [Ts Ks] and won ($13.01) with four of a kind, Deuces
+
+
+PokerStars Hand #155619656756:  Hold'em Limit ($3/$6 USD) - 2016/07/05 22:41:07 ET
+Table 'Erato' 6-max Seat #2 is the button
+Seat 1: _fayzulllo_ ($13.01 in chips)
+Seat 2: Masqb ($119.81 in chips)
+Masqb: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+Masqb: raises $3 to $6
+_fayzulllo_: raises $3 to $9
+Masqb: calls $3
+*** FLOP *** [Ah Kc 8s]
+_fayzulllo_: bets $3
+Masqb: calls $3
+*** TURN *** [Ah Kc 8s] [4s]
+_fayzulllo_: bets $1.01 and is all-in
+Masqb: calls $1.01
+*** RIVER *** [Ah Kc 8s 4s] [Kd]
+*** SHOW DOWN ***
+_fayzulllo_: shows [Qh Ac] (two pair, Aces and Kings)
+Masqb: shows [Ts 8c] (two pair, Kings and Eights)
+_fayzulllo_ collected $25.52 from pot
+*** SUMMARY ***
+Total pot $26.02 | Rake $0.50
+Board [Ah Kc 8s 4s Kd]
+Seat 1: _fayzulllo_ (big blind) showed [Qh Ac] and won ($25.52) with two pair, Aces and Kings
+Seat 2: Masqb (button) (small blind) showed [Ts 8c] and lost with two pair, Kings and Eights
+
+
+PokerStars Hand #155619666220:  Hold'em Limit ($3/$6 USD) - 2016/07/05 22:41:36 ET
+Table 'Erato' 6-max Seat #1 is the button
+Seat 1: _fayzulllo_ ($64.62 in chips)
+Seat 2: Masqb ($106.80 in chips)
+_fayzulllo_: posts small blind $1
+Masqb: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: folds
+Uncalled bet ($2) returned to Masqb
+Masqb collected $2 from pot
+Masqb: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: _fayzulllo_ (button) (small blind) folded before Flop
+Seat 2: Masqb (big blind) collected ($2)
+
+
+PokerStars Hand #155619679805:  Hold'em Limit ($3/$6 USD) - 2016/07/05 22:42:18 ET
+Table 'Erato' 6-max Seat #1 is the button
+Seat 1: _fayzulllo_ ($45.62 in chips)
+Seat 2: Masqb ($125.30 in chips)
+_fayzulllo_: posts small blind $1
+Masqb: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: folds
+Uncalled bet ($2) returned to Masqb
+Masqb collected $2 from pot
+Masqb: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: _fayzulllo_ (button) (small blind) folded before Flop
+Seat 2: Masqb (big blind) collected ($2)
+
+
+PokerStars Hand #155619668056:  Hold'em Limit ($3/$6 USD) - 2016/07/05 22:41:42 ET
+Table 'Erato' 6-max Seat #2 is the button
+Seat 1: _fayzulllo_ ($63.62 in chips)
+Seat 2: Masqb ($107.80 in chips)
+Masqb: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+Masqb: raises $3 to $6
+_fayzulllo_: raises $3 to $9
+Masqb: calls $3
+*** FLOP *** [7c 3s 4h]
+_fayzulllo_: bets $3
+Masqb: calls $3
+*** TURN *** [7c 3s 4h] [5s]
+_fayzulllo_: checks
+Masqb: checks
+*** RIVER *** [7c 3s 4h 5s] [Ks]
+_fayzulllo_: bets $6
+Masqb: calls $6
+*** SHOW DOWN ***
+_fayzulllo_: shows [Qd Jd] (high card King)
+Masqb: shows [5c Jc] (a pair of Fives)
+Masqb collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [7c 3s 4h 5s Ks]
+Seat 1: _fayzulllo_ (big blind) showed [Qd Jd] and lost with high card King
+Seat 2: Masqb (button) (small blind) showed [5c Jc] and won ($35.50) with a pair of Fives
+
+

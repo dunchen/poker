@@ -1,0 +1,31 @@
+PokerStars Hand #157016868916:  Hold'em Limit ($3/$6 USD) - 2016/08/08 9:22:10 ET
+Table 'Lina' 6-max Seat #5 is the button
+Seat 5: Pandakey ($120 in chips)
+Seat 6: hooverr ($76.05 in chips)
+Pandakey: posts small blind $1
+hooverr: posts big blind $3
+*** HOLE CARDS ***
+Pandakey: raises $3 to $6
+hooverr: calls $3
+*** FLOP *** [9d Ts Qs]
+hooverr: checks
+Pandakey: bets $3
+hooverr: calls $3
+*** TURN *** [9d Ts Qs] [6c]
+B_loJkl joins the table at seat #1
+hooverr: checks
+Pandakey: checks
+*** RIVER *** [9d Ts Qs 6c] [4d]
+hooverr: bets $6
+Pandakey: calls $6
+*** SHOW DOWN ***
+hooverr: shows [6s 4s] (two pair, Sixes and Fours)
+Pandakey: mucks hand
+hooverr collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9d Ts Qs 6c 4d]
+Seat 5: Pandakey (button) (small blind) mucked
+Seat 6: hooverr (big blind) showed [6s 4s] and won ($29.50) with two pair, Sixes and Fours
+
+

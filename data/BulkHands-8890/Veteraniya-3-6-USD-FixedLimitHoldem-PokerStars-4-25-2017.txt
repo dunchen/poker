@@ -1,0 +1,61 @@
+PokerStars Hand #169556189317:  Hold'em Limit ($3/$6 USD) - 2017/04/25 17:06:42 ET
+Table 'Veteraniya' 6-max Seat #1 is the button
+Seat 1: TinaTurner72 ($120 in chips)
+Seat 3: Auge72 ($120 in chips)
+TinaTurner72: posts small blind $1
+Auge72: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec joins the table at seat #4
+TinaTurner72: raises $3 to $6
+Auge72: calls $3
+*** FLOP *** [2s 3h 9c]
+Auge72: bets $3
+TinaTurner72: calls $3
+*** TURN *** [2s 3h 9c] [Jh]
+Auge72: bets $6
+TinaTurner72: calls $6
+*** RIVER *** [2s 3h 9c Jh] [8h]
+Auge72: bets $6
+TinaTurner72: calls $6
+*** SHOW DOWN ***
+Auge72: shows [2c As] (a pair of Deuces)
+TinaTurner72: mucks hand
+Auge72 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2s 3h 9c Jh 8h]
+Seat 1: TinaTurner72 (button) (small blind) mucked
+Seat 3: Auge72 (big blind) showed [2c As] and won ($41.50) with a pair of Deuces
+
+
+PokerStars Hand #169560766131:  Hold'em Limit ($3/$6 USD) - 2017/04/25 18:47:35 ET
+Table 'Veteraniya' 6-max Seat #2 is the button
+Seat 2: Rookie ($29.08 in chips)
+Seat 3: B_loJkl ($231.43 in chips)
+Rookie: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Rookie: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Qc Ad Jc]
+B_loJkl: checks
+Rookie: bets $3
+B_loJkl: calls $3
+*** TURN *** [Qc Ad Jc] [6c]
+B_loJkl: checks
+Rookie: checks
+*** RIVER *** [Qc Ad Jc 6c] [2c]
+B_loJkl: checks
+Rookie: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+Rookie: shows [8c 2d] (a flush, Queen high)
+B_loJkl: mucks hand
+Rookie collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qc Ad Jc 6c 2c]
+Seat 2: Rookie (button) (small blind) showed [8c 2d] and won ($29.50) with a flush, Queen high
+Seat 3: B_loJkl (big blind) mucked
+
+

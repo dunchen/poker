@@ -1,0 +1,30 @@
+PokerStars Hand #144268971769:  Hold'em Limit ($3/$6 USD) - 2015/11/23 12:23:11 ET
+Table 'Aeternitas II' 2-max Seat #1 is the button
+Seat 1: balrog25 ($218 in chips)
+Seat 2: permafrost07 ($18.77 in chips)
+balrog25: posts small blind $1
+permafrost07: posts big blind $3
+*** HOLE CARDS ***
+balrog25: raises $3 to $6
+permafrost07: raises $3 to $9
+balrog25: calls $3
+*** FLOP *** [9d 4d 3h]
+permafrost07: bets $3
+balrog25: calls $3
+*** TURN *** [9d 4d 3h] [2c]
+permafrost07: bets $6
+balrog25: raises $6 to $12
+permafrost07: calls $0.77 and is all-in
+Uncalled bet ($5.23) returned to balrog25
+*** RIVER *** [9d 4d 3h 2c] [2d]
+*** SHOW DOWN ***
+permafrost07: shows [Ac As] (two pair, Aces and Deuces)
+balrog25: shows [Td Qd] (a flush, Queen high)
+balrog25 collected $37.04 from pot
+*** SUMMARY ***
+Total pot $37.54 | Rake $0.50
+Board [9d 4d 3h 2c 2d]
+Seat 1: balrog25 (button) (small blind) showed [Td Qd] and won ($37.04) with a flush, Queen high
+Seat 2: permafrost07 (big blind) showed [Ac As] and lost with two pair, Aces and Deuces
+
+

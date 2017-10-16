@@ -1,0 +1,78 @@
+PokerStars Hand #150221729561:  Hold'em Limit ($3/$6 USD) - 2016/03/12 3:20:26 ET
+Table 'Chloris' 6-max Seat #4 is the button
+Seat 2: kulinichvm ($28.94 in chips)
+Seat 4: Agrotait ($74.88 in chips)
+Agrotait: posts small blind $1
+kulinichvm: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+kulinichvm: calls $3
+*** FLOP *** [8c Ks Kh]
+kulinichvm: bets $3
+Agrotait: raises $3 to $6
+kulinichvm: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $17.64 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8c Ks Kh]
+Seat 2: kulinichvm (big blind) folded on the Flop
+Seat 4: Agrotait (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #150221717670:  Hold'em Limit ($3/$6 USD) - 2016/03/12 3:19:53 ET
+Table 'Chloris' 6-max Seat #2 is the button
+Seat 2: kulinichvm ($31.94 in chips)
+Seat 4: Agrotait ($72 in chips)
+kulinichvm: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+kulinichvm: calls $2
+Agrotait: checks
+*** FLOP *** [2c 8h Th]
+Agrotait: bets $3
+Chessnok joins the table at seat #3
+kulinichvm: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $5.88 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [2c 8h Th]
+Seat 2: kulinichvm (button) (small blind) folded on the Flop
+Seat 4: Agrotait (big blind) collected ($5.88)
+
+
+PokerStars Hand #150221784619:  Hold'em Limit ($3/$6 USD) - 2016/03/12 3:23:02 ET
+Table 'Chloris' 6-max Seat #2 is the button
+Seat 2: kulinichvm ($13.37 in chips)
+Seat 4: Agrotait ($65.52 in chips)
+kulinichvm: posts small blind $1
+Chessnok: is sitting out
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+kulinichvm: calls $2
+Agrotait: checks
+*** FLOP *** [5c 2h Ks]
+Agrotait: checks
+kulinichvm: bets $3
+Agrotait: calls $3
+*** TURN *** [5c 2h Ks] [6h]
+Agrotait: checks
+kulinichvm: bets $6
+Agrotait: raises $6 to $12
+kulinichvm: calls $1.37 and is all-in
+Uncalled bet ($4.63) returned to Agrotait
+*** RIVER *** [5c 2h Ks 6h] [Jd]
+*** SHOW DOWN ***
+Agrotait: shows [Tc Kd] (a pair of Kings)
+kulinichvm: shows [7h 6d] (a pair of Sixes)
+Agrotait collected $26.24 from pot
+*** SUMMARY ***
+Total pot $26.74 | Rake $0.50
+Board [5c 2h Ks 6h Jd]
+Seat 2: kulinichvm (button) (small blind) showed [7h 6d] and lost with a pair of Sixes
+Seat 4: Agrotait (big blind) showed [Tc Kd] and won ($26.24) with a pair of Kings
+
+

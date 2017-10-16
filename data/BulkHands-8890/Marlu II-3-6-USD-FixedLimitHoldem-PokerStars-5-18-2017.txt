@@ -1,0 +1,32 @@
+PokerStars Hand #170596411089:  Hold'em Limit ($3/$6 USD) - 2017/05/18 16:01:51 ET
+Table 'Marlu II' 6-max Seat #2 is the button
+Seat 2: SashaYuvelir ($165.55 in chips)
+Seat 6: RaisemyNut$ ($64.04 in chips)
+SashaYuvelir: posts small blind $1
+RaisemyNut$: posts big blind $3
+*** HOLE CARDS ***
+SashaYuvelir: raises $3 to $6
+RaisemyNut$: calls $3
+*** FLOP *** [Jc Ac Qs]
+rascal_319 is disconnected
+RaisemyNut$: checks
+SashaYuvelir: bets $3
+RaisemyNut$: calls $3
+*** TURN *** [Jc Ac Qs] [Js]
+RaisemyNut$: checks
+SashaYuvelir: checks
+*** RIVER *** [Jc Ac Qs Js] [Ts]
+RaisemyNut$: checks
+SashaYuvelir: bets $6
+RaisemyNut$: calls $6
+*** SHOW DOWN ***
+SashaYuvelir: shows [Th Tc] (a full house, Tens full of Jacks)
+RaisemyNut$: mucks hand
+SashaYuvelir collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Jc Ac Qs Js Ts]
+Seat 2: SashaYuvelir (button) (small blind) showed [Th Tc] and won ($29.50) with a full house, Tens full of Jacks
+Seat 6: RaisemyNut$ (big blind) mucked
+
+

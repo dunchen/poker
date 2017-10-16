@@ -1,0 +1,75 @@
+PokerStars Hand #172902633191:  Hold'em Limit ($3/$6 USD) - 2017/07/11 14:44:26 ET
+Table 'Puck' 6-max Seat #1 is the button
+Seat 1: Auge72 ($72 in chips)
+Seat 3: sim5sim5 ($72 in chips)
+Auge72: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+Auge72: calls $2
+sim5sim5: raises $3 to $6
+Auge72: raises $3 to $9
+sim5sim5: calls $3
+*** FLOP *** [As 7h Kh]
+sim5sim5: checks
+Auge72: checks
+*** TURN *** [As 7h Kh] [3d]
+sim5sim5: bets $6
+Auge72: raises $6 to $12
+sim5sim5: calls $6
+*** RIVER *** [As 7h Kh 3d] [Qs]
+sim5sim5: checks
+B_loJkl joins the table at seat #2
+Auge72: bets $6
+sim5sim5: calls $6
+*** SHOW DOWN ***
+Auge72: shows [7s 7d] (three of a kind, Sevens)
+sim5sim5: mucks hand
+Auge72 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [As 7h Kh 3d Qs]
+Seat 1: Auge72 (button) (small blind) showed [7s 7d] and won ($53.50) with three of a kind, Sevens
+Seat 3: sim5sim5 (big blind) mucked
+
+
+PokerStars Hand #172902678225:  Hold'em Limit ($3/$6 USD) - 2017/07/11 14:45:23 ET
+Table 'Puck' 6-max Seat #3 is the button
+Seat 1: Auge72 ($98.50 in chips)
+Seat 3: sim5sim5 ($72 in chips)
+sim5sim5: posts small blind $1
+Auge72: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+Auge72: calls $3
+*** FLOP *** [Js Kh Jh]
+Auge72: checks
+sim5sim5: bets $3
+Auge72: folds
+Uncalled bet ($3) returned to sim5sim5
+sim5sim5 collected $11.76 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Js Kh Jh]
+Seat 1: Auge72 (big blind) folded on the Flop
+Seat 3: sim5sim5 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #172902714041:  Hold'em Limit ($3/$6 USD) - 2017/07/11 14:46:08 ET
+Table 'Puck' 6-max Seat #2 is the button
+Seat 2: B_loJkl ($162.25 in chips)
+Seat 3: sim5sim5 ($72 in chips)
+B_loJkl: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+sim5sim5: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $6 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: B_loJkl (button) (small blind) collected ($6)
+Seat 3: sim5sim5 (big blind) folded before Flop
+
+

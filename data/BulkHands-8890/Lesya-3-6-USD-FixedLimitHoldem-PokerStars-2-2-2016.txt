@@ -1,0 +1,446 @@
+PokerStars Hand #148116482499:  Hold'em Limit ($3/$6 USD) - 2016/02/02 12:35:06 ET
+Table 'Lesya' 10-max Seat #6 is the button
+Seat 6: Luarvik888 ($122.52 in chips)
+Seat 7: Azrarn ($116.64 in chips)
+Luarvik888: posts small blind $1
+Azrarn: posts big blind $3
+*** HOLE CARDS ***
+Luarvik888: raises $3 to $6
+Azrarn: raises $3 to $9
+Luarvik888: raises $3 to $12
+Betting is capped
+Azrarn: calls $3
+*** FLOP *** [6d 7d 7s]
+Azrarn: checks
+Luarvik888: bets $3
+Azrarn: calls $3
+*** TURN *** [6d 7d 7s] [5c]
+Azrarn: checks
+Luarvik888: bets $6
+Azrarn: calls $6
+*** RIVER *** [6d 7d 7s 5c] [5s]
+Azrarn: checks
+Luarvik888: checks
+*** SHOW DOWN ***
+Azrarn: shows [Jc 9c] (two pair, Sevens and Fives)
+Luarvik888: mucks hand
+Azrarn collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [6d 7d 7s 5c 5s]
+Seat 6: Luarvik888 (button) (small blind) mucked
+Seat 7: Azrarn (big blind) showed [Jc 9c] and won ($41.50) with two pair, Sevens and Fives
+
+
+PokerStars Hand #148116456176:  Hold'em Limit ($3/$6 USD) - 2016/02/02 12:34:38 ET
+Table 'Lesya' 10-max Seat #7 is the button
+Seat 6: Luarvik888 ($131.52 in chips)
+Seat 7: Azrarn ($108 in chips)
+Azrarn: posts small blind $1
+Luarvik888: posts big blind $3
+*** HOLE CARDS ***
+Azrarn: raises $3 to $6
+Luarvik888: raises $3 to $9
+Azrarn: calls $3
+*** FLOP *** [4s 9d Kh]
+belik555 joins the table at seat #8
+Luarvik888: checks
+Azrarn: bets $3
+Luarvik888: folds
+Uncalled bet ($3) returned to Azrarn
+Azrarn collected $17.64 from pot
+Azrarn: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4s 9d Kh]
+Seat 6: Luarvik888 (big blind) folded on the Flop
+Seat 7: Azrarn (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #148116733533:  Hold'em Limit ($3/$6 USD) - 2016/02/02 12:39:30 ET
+Table 'Lesya' 10-max Seat #8 is the button
+Seat 6: Luarvik888 ($43.27 in chips)
+Seat 8: belik555 ($72 in chips)
+belik555: posts small blind $1
+Luarvik888: posts big blind $3
+*** HOLE CARDS ***
+belik555: raises $3 to $6
+Luarvik888: raises $3 to $9
+belik555: calls $3
+*** FLOP *** [3s 5h 3d]
+Luarvik888: bets $3
+belik555: calls $3
+*** TURN *** [3s 5h 3d] [Jd]
+Luarvik888: bets $6
+belik555: folds
+Uncalled bet ($6) returned to Luarvik888
+Luarvik888 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [3s 5h 3d Jd]
+Seat 6: Luarvik888 (big blind) collected ($23.52)
+Seat 8: belik555 (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #148116702101:  Hold'em Limit ($3/$6 USD) - 2016/02/02 12:38:57 ET
+Table 'Lesya' 10-max Seat #6 is the button
+Seat 6: Luarvik888 ($43.52 in chips)
+Seat 8: belik555 ($72 in chips)
+Luarvik888: posts small blind $1
+Azrarn: is sitting out
+belik555: posts big blind $3
+*** HOLE CARDS ***
+Azrarn leaves the table
+Luarvik888: raises $3 to $6
+belik555: raises $3 to $9
+Luarvik888: raises $3 to $12
+Betting is capped
+belik555: calls $3
+*** FLOP *** [3h 5s 6d]
+belik555: checks
+Luarvik888: bets $3
+belik555: calls $3
+*** TURN *** [3h 5s 6d] [4h]
+belik555: checks
+Luarvik888: checks
+*** RIVER *** [3h 5s 6d 4h] [2h]
+belik555: checks
+Luarvik888: checks
+*** SHOW DOWN ***
+belik555: shows [Ad Qc] (a straight, Deuce to Six)
+Luarvik888: shows [6s 9s] (a straight, Deuce to Six)
+belik555 collected $14.75 from pot
+Luarvik888 collected $14.75 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3h 5s 6d 4h 2h]
+Seat 6: Luarvik888 (button) (small blind) showed [6s 9s] and won ($14.75) with a straight, Deuce to Six
+Seat 8: belik555 (big blind) showed [Ad Qc] and won ($14.75) with a straight, Deuce to Six
+
+
+PokerStars Hand #148116776431:  Hold'em Limit ($3/$6 USD) - 2016/02/02 12:40:15 ET
+Table 'Lesya' 10-max Seat #8 is the button
+Seat 6: Luarvik888 ($57.67 in chips)
+Seat 8: belik555 ($72 in chips)
+belik555: posts small blind $1
+Luarvik888: posts big blind $3
+*** HOLE CARDS ***
+belik555: raises $3 to $6
+Luarvik888: raises $3 to $9
+belik555: calls $3
+*** FLOP *** [7s 3h 6c]
+Luarvik888: checks
+belik555: bets $3
+Luarvik888: calls $3
+*** TURN *** [7s 3h 6c] [3s]
+Luarvik888: checks
+belik555: bets $6
+Luarvik888: folds
+Uncalled bet ($6) returned to belik555
+belik555 collected $23.52 from pot
+belik555: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [7s 3h 6c 3s]
+Seat 6: Luarvik888 (big blind) folded on the Turn
+Seat 8: belik555 (button) (small blind) collected ($23.52)
+
+
+PokerStars Hand #148116752041:  Hold'em Limit ($3/$6 USD) - 2016/02/02 12:39:49 ET
+Table 'Lesya' 10-max Seat #6 is the button
+Seat 6: Luarvik888 ($54.79 in chips)
+Seat 8: belik555 ($72 in chips)
+Luarvik888: posts small blind $1
+belik555: posts big blind $3
+*** HOLE CARDS ***
+Luarvik888: calls $2
+belik555: checks
+*** FLOP *** [6s 4c As]
+belik555: checks
+Luarvik888: checks
+*** TURN *** [6s 4c As] [Tc]
+belik555: checks
+Luarvik888: checks
+*** RIVER *** [6s 4c As Tc] [Jd]
+belik555: checks
+Luarvik888: checks
+*** SHOW DOWN ***
+belik555: shows [4d 7s] (a pair of Fours)
+Luarvik888: shows [8s Th] (a pair of Tens)
+Luarvik888 collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [6s 4c As Tc Jd]
+Seat 6: Luarvik888 (button) (small blind) showed [8s Th] and won ($5.88) with a pair of Tens
+Seat 8: belik555 (big blind) showed [4d 7s] and lost with a pair of Fours
+
+
+PokerStars Hand #148116854782:  Hold'em Limit ($3/$6 USD) - 2016/02/02 12:41:37 ET
+Table 'Lesya' 10-max Seat #6 is the button
+Seat 6: Luarvik888 ($30.31 in chips)
+Seat 8: belik555 ($98.02 in chips)
+Luarvik888: posts small blind $1
+belik555: posts big blind $3
+*** HOLE CARDS ***
+Luarvik888: folds
+Uncalled bet ($2) returned to belik555
+belik555 collected $2 from pot
+belik555: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 6: Luarvik888 (button) (small blind) folded before Flop
+Seat 8: belik555 (big blind) collected ($2)
+
+
+PokerStars Hand #148116837398:  Hold'em Limit ($3/$6 USD) - 2016/02/02 12:41:19 ET
+Table 'Lesya' 10-max Seat #8 is the button
+Seat 6: Luarvik888 ($21.67 in chips)
+Seat 8: belik555 ($107.02 in chips)
+belik555: posts small blind $1
+Luarvik888: posts big blind $3
+*** HOLE CARDS ***
+belik555: raises $3 to $6
+Luarvik888: raises $3 to $9
+belik555: calls $3
+*** FLOP *** [Ac Ks 3c]
+Luarvik888: checks
+belik555: checks
+*** TURN *** [Ac Ks 3c] [Qs]
+Luarvik888: bets $6
+belik555: folds
+Uncalled bet ($6) returned to Luarvik888
+Luarvik888 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ac Ks 3c Qs]
+Seat 6: Luarvik888 (big blind) collected ($17.64)
+Seat 8: belik555 (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #148116812956:  Hold'em Limit ($3/$6 USD) - 2016/02/02 12:40:53 ET
+Table 'Lesya' 10-max Seat #6 is the button
+Seat 6: Luarvik888 ($45.67 in chips)
+Seat 8: belik555 ($83.52 in chips)
+Luarvik888: posts small blind $1
+belik555: posts big blind $3
+*** HOLE CARDS ***
+Luarvik888: raises $3 to $6
+belik555: calls $3
+*** FLOP *** [7s 5d 9h]
+belik555: bets $3
+Luarvik888: raises $3 to $6
+belik555: raises $3 to $9
+Luarvik888: raises $3 to $12
+Betting is capped
+belik555: calls $3
+*** TURN *** [7s 5d 9h] [8c]
+belik555: checks
+Luarvik888: checks
+*** RIVER *** [7s 5d 9h 8c] [Ad]
+belik555: bets $6
+Luarvik888: calls $6
+*** SHOW DOWN ***
+belik555: shows [9c 5h] (two pair, Nines and Fives)
+Luarvik888: mucks hand
+belik555 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7s 5d 9h 8c Ad]
+Seat 6: Luarvik888 (button) (small blind) mucked
+Seat 8: belik555 (big blind) showed [9c 5h] and won ($47.50) with two pair, Nines and Fives
+
+
+PokerStars Hand #148116886496:  Hold'em Limit ($3/$6 USD) - 2016/02/02 12:42:09 ET
+Table 'Lesya' 10-max Seat #8 is the button
+Seat 6: Luarvik888 ($19.31 in chips)
+Seat 8: belik555 ($108.66 in chips)
+belik555: posts small blind $1
+Luarvik888: posts big blind $3
+*** HOLE CARDS ***
+belik555: raises $3 to $6
+Luarvik888: calls $3
+*** FLOP *** [6h 2c Ts]
+Luarvik888: checks
+belik555: bets $3
+Luarvik888: calls $3
+*** TURN *** [6h 2c Ts] [9d]
+Luarvik888: checks
+belik555: checks
+*** RIVER *** [6h 2c Ts 9d] [Tc]
+Luarvik888: bets $6
+belik555: folds
+Uncalled bet ($6) returned to Luarvik888
+Luarvik888 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6h 2c Ts 9d Tc]
+Seat 6: Luarvik888 (big blind) collected ($17.64)
+Seat 8: belik555 (button) (small blind) folded on the River
+
+
+PokerStars Hand #148116882224:  Hold'em Limit ($3/$6 USD) - 2016/02/02 12:42:04 ET
+Table 'Lesya' 10-max Seat #6 is the button
+Seat 6: Luarvik888 ($20.31 in chips)
+Seat 8: belik555 ($107.66 in chips)
+Luarvik888: posts small blind $1
+belik555: posts big blind $3
+*** HOLE CARDS ***
+Luarvik888: folds
+Uncalled bet ($2) returned to belik555
+belik555 collected $2 from pot
+belik555: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 6: Luarvik888 (button) (small blind) folded before Flop
+Seat 8: belik555 (big blind) collected ($2)
+
+
+PokerStars Hand #148116858895:  Hold'em Limit ($3/$6 USD) - 2016/02/02 12:41:42 ET
+Table 'Lesya' 10-max Seat #8 is the button
+Seat 6: Luarvik888 ($29.31 in chips)
+Seat 8: belik555 ($99.02 in chips)
+belik555: posts small blind $1
+Luarvik888: posts big blind $3
+*** HOLE CARDS ***
+belik555: raises $3 to $6
+Luarvik888: calls $3
+*** FLOP *** [Jc 6d Qd]
+Luarvik888: checks
+belik555: bets $3
+Luarvik888: calls $3
+*** TURN *** [Jc 6d Qd] [9s]
+Luarvik888: checks
+belik555: checks
+*** RIVER *** [Jc 6d Qd 9s] [5c]
+Luarvik888: checks
+belik555: checks
+*** SHOW DOWN ***
+Luarvik888: shows [Ac 2c] (high card Ace)
+belik555: shows [As Th] (high card Ace - Queen+Jack+Ten kicker)
+belik555 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Jc 6d Qd 9s 5c]
+Seat 6: Luarvik888 (big blind) showed [Ac 2c] and lost with high card Ace
+Seat 8: belik555 (button) (small blind) showed [As Th] and won ($17.64) with high card Ace
+
+
+PokerStars Hand #148116914603:  Hold'em Limit ($3/$6 USD) - 2016/02/02 12:42:38 ET
+Table 'Lesya' 10-max Seat #6 is the button
+Seat 6: Luarvik888 ($46.88 in chips)
+Seat 8: belik555 ($99.66 in chips)
+Luarvik888: posts small blind $1
+belik555: posts big blind $3
+*** HOLE CARDS ***
+Luarvik888: raises $3 to $6
+belik555: calls $3
+*** FLOP *** [Jh 6c 8h]
+belik555: checks
+Luarvik888: bets $3
+belik555: calls $3
+*** TURN *** [Jh 6c 8h] [Qs]
+raccoon444 joins the table at seat #7
+belik555: checks
+Luarvik888: bets $6
+belik555: calls $6
+*** RIVER *** [Jh 6c 8h Qs] [6s]
+belik555: checks
+Luarvik888: bets $6
+belik555: calls $6
+*** SHOW DOWN ***
+Luarvik888: shows [9c Ts] (a straight, Eight to Queen)
+rfdwa joins the table at seat #9
+belik555: mucks hand
+Luarvik888 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Jh 6c 8h Qs 6s]
+Seat 6: Luarvik888 (button) (small blind) showed [9c Ts] and won ($41.50) with a straight, Eight to Queen
+Seat 8: belik555 (big blind) mucked
+
+
+PokerStars Hand #148134099755:  Hold'em Limit ($3/$6 USD) - 2016/02/02 17:11:13 ET
+Table 'Lesya' 10-max Seat #4 is the button
+Seat 4: ccashark ($164.44 in chips)
+Seat 9: Chefred ($149.57 in chips)
+ccashark: posts small blind $1
+Chefred: posts big blind $3
+*** HOLE CARDS ***
+ccashark: folds
+Uncalled bet ($2) returned to Chefred
+Chefred collected $2 from pot
+Chefred: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: ccashark (button) (small blind) folded before Flop
+Seat 9: Chefred (big blind) collected ($2)
+
+
+PokerStars Hand #148134073144:  Hold'em Limit ($3/$6 USD) - 2016/02/02 17:10:48 ET
+Table 'Lesya' 10-max Seat #9 is the button
+Seat 4: ccashark ($179.44 in chips)
+Seat 9: Chefred ($135.07 in chips)
+Chefred: posts small blind $1
+vad_hor: is sitting out
+ccashark: posts big blind $3
+*** HOLE CARDS ***
+Chefred: raises $3 to $6
+vad_hor leaves the table
+ccashark: calls $3
+*** FLOP *** [3c Jd Kc]
+ccashark: checks
+Chefred: bets $3
+ccashark: calls $3
+*** TURN *** [3c Jd Kc] [Ad]
+ccashark: checks
+Chefred: checks
+*** RIVER *** [3c Jd Kc Ad] [3d]
+ccashark: checks
+Chefred: bets $6
+ccashark: calls $6
+*** SHOW DOWN ***
+Chefred: shows [Kh 2c] (two pair, Kings and Threes)
+ccashark: mucks hand
+Chefred collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3c Jd Kc Ad 3d]
+Seat 4: ccashark (big blind) mucked
+Seat 9: Chefred (button) (small blind) showed [Kh 2c] and won ($29.50) with two pair, Kings and Threes
+
+
+PokerStars Hand #148134117526:  Hold'em Limit ($3/$6 USD) - 2016/02/02 17:11:30 ET
+Table 'Lesya' 10-max Seat #4 is the button
+Seat 4: ccashark ($160.44 in chips)
+Seat 9: Chefred ($153.57 in chips)
+ccashark: posts small blind $1
+Chefred: posts big blind $3
+*** HOLE CARDS ***
+ccashark: folds
+Uncalled bet ($2) returned to Chefred
+Chefred collected $2 from pot
+Chefred: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: ccashark (button) (small blind) folded before Flop
+Seat 9: Chefred (big blind) collected ($2)
+
+
+PokerStars Hand #148134105218:  Hold'em Limit ($3/$6 USD) - 2016/02/02 17:11:18 ET
+Table 'Lesya' 10-max Seat #9 is the button
+Seat 4: ccashark ($163.44 in chips)
+Seat 9: Chefred ($150.57 in chips)
+Chefred: posts small blind $1
+ccashark: posts big blind $3
+*** HOLE CARDS ***
+Chefred: raises $3 to $6
+ccashark: folds
+Uncalled bet ($3) returned to Chefred
+Chefred collected $6 from pot
+Chefred: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 4: ccashark (big blind) folded before Flop
+Seat 9: Chefred (button) (small blind) collected ($6)
+
+

@@ -1,0 +1,100 @@
+PokerStars Hand #158340089690:  Hold'em Limit ($3/$6 USD) - 2016/09/08 15:35:37 ET
+Table 'Nephele' 6-max Seat #1 is the button
+Seat 1: GolD247 ($120 in chips)
+Seat 3: CatPuppy1999 ($48 in chips)
+GolD247: posts small blind $1
+CatPuppy1999: posts big blind $3
+*** HOLE CARDS ***
+GolD247: raises $3 to $6
+CatPuppy1999: calls $3
+*** FLOP *** [3s 8s 3d]
+CatPuppy1999: checks
+GolD247: bets $3
+CatPuppy1999: calls $3
+*** TURN *** [3s 8s 3d] [7h]
+CatPuppy1999: checks
+GolD247: bets $6
+CatPuppy1999: calls $6
+*** RIVER *** [3s 8s 3d 7h] [4h]
+CatPuppy1999: checks
+GolD247: bets $6
+CatPuppy1999: calls $6
+*** SHOW DOWN ***
+GolD247: shows [8c Jh] (two pair, Eights and Threes)
+CatPuppy1999: mucks hand
+GolD247 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [3s 8s 3d 7h 4h]
+Seat 1: GolD247 (button) (small blind) showed [8c Jh] and won ($41.50) with two pair, Eights and Threes
+Seat 3: CatPuppy1999 (big blind) mucked
+
+
+PokerStars Hand #158340127832:  Hold'em Limit ($3/$6 USD) - 2016/09/08 15:36:19 ET
+Table 'Nephele' 6-max Seat #3 is the button
+Seat 1: GolD247 ($140.50 in chips)
+Seat 3: CatPuppy1999 ($72 in chips)
+CatPuppy1999: posts small blind $1
+GolD247: posts big blind $3
+*** HOLE CARDS ***
+CatPuppy1999: raises $3 to $6
+GolD247: calls $3
+*** FLOP *** [7d As Ah]
+GolD247: checks
+CatPuppy1999: checks
+*** TURN *** [7d As Ah] [2h]
+GolD247: checks
+CatPuppy1999: checks
+*** RIVER *** [7d As Ah 2h] [Ac]
+GolD247: checks
+CatPuppy1999: bets $6
+vestimokrec joins the table at seat #2
+GolD247: folds
+Uncalled bet ($6) returned to CatPuppy1999
+CatPuppy1999 collected $11.76 from pot
+CatPuppy1999: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7d As Ah 2h Ac]
+Seat 1: GolD247 (big blind) folded on the River
+Seat 3: CatPuppy1999 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #158344234530:  Hold'em Limit ($3/$6 USD) - 2016/09/08 16:55:07 ET
+Table 'Nephele' 6-max Seat #6 is the button
+Seat 4: Chessnok ($141.34 in chips)
+Seat 6: Velbor107 ($291 in chips)
+Velbor107: posts small blind $1
+ValeryRon: is sitting out
+Longstaaf: is sitting out
+vestimokrec: is sitting out
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+Velbor107: raises $3 to $6
+ValeryRon leaves the table
+vestimokrec leaves the table
+Longstaaf leaves the table
+Chessnok: raises $3 to $9
+Velbor107: calls $3
+*** FLOP *** [Qh 8c Ts]
+Chessnok: bets $3
+Velbor107: calls $3
+*** TURN *** [Qh 8c Ts] [7d]
+Chessnok: checks
+Velbor107: bets $6
+Chessnok: calls $6
+*** RIVER *** [Qh 8c Ts 7d] [Tc]
+Chessnok: checks
+Velbor107: bets $6
+Chessnok: calls $6
+*** SHOW DOWN ***
+Velbor107: shows [7s Ks] (two pair, Tens and Sevens)
+Chessnok: mucks hand
+Velbor107 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Qh 8c Ts 7d Tc]
+Seat 4: Chessnok (big blind) mucked
+Seat 6: Velbor107 (button) (small blind) showed [7s Ks] and won ($47.50) with two pair, Tens and Sevens
+
+

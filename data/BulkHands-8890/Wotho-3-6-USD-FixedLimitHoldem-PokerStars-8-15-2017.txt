@@ -1,0 +1,34 @@
+PokerStars Hand #174377340900:  Hold'em Limit ($3/$6 USD) - 2017/08/15 16:07:22 ET
+Table 'Wotho' 6-max Seat #1 is the button
+Seat 1: ToDaFelt ($140.37 in chips)
+Seat 6: joseffe ($100 in chips)
+ToDaFelt: posts small blind $1
+vestimokrec: is sitting out
+Luanto 14: is sitting out
+joseffe: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec leaves the table
+Luanto 14 leaves the table
+ToDaFelt: raises $3 to $6
+joseffe: raises $3 to $9
+ToDaFelt: calls $3
+*** FLOP *** [6s 3c 8s]
+joseffe: bets $3
+ToDaFelt: calls $3
+*** TURN *** [6s 3c 8s] [9h]
+joseffe: bets $6
+ToDaFelt: calls $6
+*** RIVER *** [6s 3c 8s 9h] [3h]
+joseffe: bets $6
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+joseffe: shows [Th Ts] (two pair, Tens and Threes)
+ToDaFelt: mucks hand
+joseffe collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [6s 3c 8s 9h 3h]
+Seat 1: ToDaFelt (button) (small blind) mucked
+Seat 6: joseffe (big blind) showed [Th Ts] and won ($47.50) with two pair, Tens and Threes
+
+

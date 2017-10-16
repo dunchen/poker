@@ -1,0 +1,31 @@
+PokerStars Hand #146015052486:  Hold'em Limit ($3/$6 USD) - 2015/12/27 14:07:21 ET
+Table 'Hirayama' 6-max Seat #1 is the button
+Seat 1: oj_pimpson ($87 in chips)
+Seat 5: korrnel ($112 in chips)
+oj_pimpson: posts small blind $1
+PelonCabelao: is sitting out
+Zubasa07: is sitting out
+Great_Kang: is sitting out
+korrnel: posts big blind $3
+*** HOLE CARDS ***
+oj_pimpson: raises $3 to $6
+Great_Kang leaves the table
+korrnel: calls $3
+*** FLOP *** [8s 8d 9d]
+korrnel: checks
+oj_pimpson: bets $3
+korrnel: calls $3
+*** TURN *** [8s 8d 9d] [Ad]
+Zubasa07 leaves the table
+korrnel: checks
+oj_pimpson: bets $6
+korrnel: folds
+Uncalled bet ($6) returned to oj_pimpson
+oj_pimpson collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8s 8d 9d Ad]
+Seat 1: oj_pimpson (button) (small blind) collected ($17.64)
+Seat 5: korrnel (big blind) folded on the Turn
+
+

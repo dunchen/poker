@@ -1,0 +1,801 @@
+PokerStars Hand #163461174276:  Hold'em Limit ($3/$6 USD) - 2016/12/24 15:15:11 ET
+Table 'Desagneauxa II' 10-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 5: longo132 ($77.13 in chips)
+VolkovDmitri: posts small blind $1
+longo132: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+longo132: calls $3
+*** FLOP *** [7s 9h 5c]
+longo132: checks
+VolkovDmitri: bets $3
+longo132: calls $3
+*** TURN *** [7s 9h 5c] [4c]
+longo132: checks
+VolkovDmitri: bets $6
+longo132: calls $6
+*** RIVER *** [7s 9h 5c 4c] [7c]
+longo132: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+longo132: shows [Jh Kd] (a pair of Sevens)
+VolkovDmitri: shows [9s Ac] (two pair, Nines and Sevens)
+VolkovDmitri collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [7s 9h 5c 4c 7c]
+Seat 1: VolkovDmitri (button) (small blind) showed [9s Ac] and won ($41.50) with two pair, Nines and Sevens
+Seat 5: longo132 (big blind) showed [Jh Kd] and lost with a pair of Sevens
+
+
+PokerStars Hand #163461194300:  Hold'em Limit ($3/$6 USD) - 2016/12/24 15:15:37 ET
+Table 'Desagneauxa II' 10-max Seat #5 is the button
+Seat 1: VolkovDmitri ($140.50 in chips)
+Seat 5: longo132 ($56.13 in chips)
+longo132: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+longo132: raises $3 to $6
+Apanage joins the table at seat #6
+VolkovDmitri: calls $3
+*** FLOP *** [Qd Td 9d]
+VolkovDmitri: checks
+longo132: bets $3
+VolkovDmitri: raises $3 to $6
+longo132: calls $3
+*** TURN *** [Qd Td 9d] [9s]
+VolkovDmitri: bets $6
+longo132: calls $6
+*** RIVER *** [Qd Td 9d 9s] [8s]
+VolkovDmitri: checks
+longo132: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [Qh 7c] (two pair, Queens and Nines)
+longo132: shows [Kd Qs] (two pair, Queens and Nines - King kicker)
+longo132 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Qd Td 9d 9s 8s]
+Seat 1: VolkovDmitri (big blind) showed [Qh 7c] and lost with two pair, Queens and Nines
+Seat 5: longo132 (button) (small blind) showed [Kd Qs] and won ($35.50) with two pair, Queens and Nines
+
+
+PokerStars Hand #163461226583:  Hold'em Limit ($3/$6 USD) - 2016/12/24 15:16:18 ET
+Table 'Desagneauxa II' 10-max Seat #6 is the button
+Seat 5: longo132 ($73.63 in chips)
+Seat 6: Apanage ($80 in chips)
+Apanage: posts small blind $1
+longo132: posts big blind $3
+*** HOLE CARDS ***
+Apanage: raises $3 to $6
+longo132: calls $3
+*** FLOP *** [7h 5d 9d]
+longo132: checks
+Apanage: bets $3
+longo132: calls $3
+*** TURN *** [7h 5d 9d] [Td]
+longo132: checks
+Apanage: bets $6
+longo132: calls $6
+*** RIVER *** [7h 5d 9d Td] [4h]
+longo132: checks
+Apanage: bets $6
+longo132: calls $6
+*** SHOW DOWN ***
+Apanage: shows [8d 6s] (a straight, Six to Ten)
+longo132: mucks hand
+Apanage collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [7h 5d 9d Td 4h]
+Seat 5: longo132 (big blind) mucked
+Seat 6: Apanage (button) (small blind) showed [8d 6s] and won ($41.50) with a straight, Six to Ten
+
+
+PokerStars Hand #163461272037:  Hold'em Limit ($3/$6 USD) - 2016/12/24 15:17:18 ET
+Table 'Desagneauxa II' 10-max Seat #5 is the button
+Seat 5: longo132 ($55.13 in chips)
+Seat 6: Apanage ($97 in chips)
+longo132: posts small blind $1
+Apanage: posts big blind $3
+*** HOLE CARDS ***
+longo132: folds
+Uncalled bet ($2) returned to Apanage
+Apanage collected $2 from pot
+Apanage: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: longo132 (button) (small blind) folded before Flop
+Seat 6: Apanage (big blind) collected ($2)
+
+
+PokerStars Hand #163461255789:  Hold'em Limit ($3/$6 USD) - 2016/12/24 15:16:57 ET
+Table 'Desagneauxa II' 10-max Seat #6 is the button
+Seat 5: longo132 ($70.13 in chips)
+Seat 6: Apanage ($82.50 in chips)
+Apanage: posts small blind $1
+longo132: posts big blind $3
+*** HOLE CARDS ***
+Apanage: raises $3 to $6
+longo132: calls $3
+*** FLOP *** [4s 4h Kd]
+longo132: checks
+Apanage: bets $3
+longo132: calls $3
+*** TURN *** [4s 4h Kd] [2c]
+longo132: checks
+Apanage: checks
+*** RIVER *** [4s 4h Kd 2c] [As]
+longo132: bets $6
+Apanage: calls $6
+*** SHOW DOWN ***
+longo132: shows [8h 7h] (a pair of Fours)
+Apanage: shows [2d Ad] (two pair, Aces and Fours)
+Apanage collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4s 4h Kd 2c As]
+Seat 5: longo132 (big blind) showed [8h 7h] and lost with a pair of Fours
+Seat 6: Apanage (button) (small blind) showed [2d Ad] and won ($29.50) with two pair, Aces and Fours
+
+
+PokerStars Hand #163461240178:  Hold'em Limit ($3/$6 USD) - 2016/12/24 15:16:36 ET
+Table 'Desagneauxa II' 10-max Seat #5 is the button
+Seat 5: longo132 ($52.63 in chips)
+Seat 6: Apanage ($100.50 in chips)
+longo132: posts small blind $1
+Apanage: posts big blind $3
+*** HOLE CARDS ***
+longo132: raises $3 to $6
+Apanage: calls $3
+*** FLOP *** [Kh Ts Js]
+Apanage: checks
+longo132: checks
+*** TURN *** [Kh Ts Js] [3s]
+Apanage: bets $6
+longo132: raises $6 to $12
+Apanage: calls $6
+*** RIVER *** [Kh Ts Js 3s] [Kc]
+Apanage: checks
+longo132: bets $6
+Apanage: folds
+Uncalled bet ($6) returned to longo132
+longo132 collected $35.50 from pot
+longo132: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Kh Ts Js 3s Kc]
+Seat 5: longo132 (button) (small blind) collected ($35.50)
+Seat 6: Apanage (big blind) folded on the River
+
+
+PokerStars Hand #163461306213:  Hold'em Limit ($3/$6 USD) - 2016/12/24 15:18:02 ET
+Table 'Desagneauxa II' 10-max Seat #5 is the button
+Seat 5: longo132 ($77.63 in chips)
+Seat 6: Apanage ($74 in chips)
+longo132: posts small blind $1
+Apanage: posts big blind $3
+*** HOLE CARDS ***
+longo132: raises $3 to $6
+Apanage: calls $3
+*** FLOP *** [Qc 5c 7s]
+Apanage: checks
+longo132: checks
+*** TURN *** [Qc 5c 7s] [Ac]
+Apanage: checks
+longo132: checks
+*** RIVER *** [Qc 5c 7s Ac] [Ts]
+Apanage: bets $6
+longo132: folds
+Uncalled bet ($6) returned to Apanage
+Apanage collected $11.76 from pot
+Apanage: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qc 5c 7s Ac Ts]
+Seat 5: longo132 (button) (small blind) folded on the River
+Seat 6: Apanage (big blind) collected ($11.76)
+
+
+PokerStars Hand #163461317342:  Hold'em Limit ($3/$6 USD) - 2016/12/24 15:18:17 ET
+Table 'Desagneauxa II' 10-max Seat #6 is the button
+Seat 5: longo132 ($71.63 in chips)
+Seat 6: Apanage ($79.76 in chips)
+Apanage: posts small blind $1
+longo132: posts big blind $3
+*** HOLE CARDS ***
+Apanage: raises $3 to $6
+longo132: calls $3
+*** FLOP *** [2h Ks Jd]
+longo132: checks
+Apanage: bets $3
+longo132: calls $3
+*** TURN *** [2h Ks Jd] [9h]
+longo132: checks
+Apanage: bets $6
+longo132: calls $6
+*** RIVER *** [2h Ks Jd 9h] [9d]
+longo132: checks
+Apanage: bets $6
+longo132: folds
+Uncalled bet ($6) returned to Apanage
+Apanage collected $29.50 from pot
+Apanage: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2h Ks Jd 9h 9d]
+Seat 5: longo132 (big blind) folded on the River
+Seat 6: Apanage (button) (small blind) collected ($29.50)
+
+
+PokerStars Hand #163461338961:  Hold'em Limit ($3/$6 USD) - 2016/12/24 15:18:44 ET
+Table 'Desagneauxa II' 10-max Seat #5 is the button
+Seat 5: longo132 ($56.63 in chips)
+Seat 6: Apanage ($94.26 in chips)
+longo132: posts small blind $1
+Apanage: posts big blind $3
+*** HOLE CARDS ***
+longo132: raises $3 to $6
+Apanage: folds
+Uncalled bet ($3) returned to longo132
+longo132 collected $6 from pot
+longo132: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 5: longo132 (button) (small blind) collected ($6)
+Seat 6: Apanage (big blind) folded before Flop
+
+
+PokerStars Hand #163461275529:  Hold'em Limit ($3/$6 USD) - 2016/12/24 15:17:22 ET
+Table 'Desagneauxa II' 10-max Seat #6 is the button
+Seat 5: longo132 ($54.13 in chips)
+Seat 6: Apanage ($98 in chips)
+Apanage: posts small blind $1
+longo132: posts big blind $3
+*** HOLE CARDS ***
+Apanage: raises $3 to $6
+longo132: raises $3 to $9
+Apanage: calls $3
+*** FLOP *** [4d Ks 9d]
+longo132: bets $3
+Apanage: calls $3
+*** TURN *** [4d Ks 9d] [Kc]
+longo132: checks
+Apanage: bets $6
+longo132: calls $6
+*** RIVER *** [4d Ks 9d Kc] [Tc]
+longo132: bets $6
+Apanage: calls $6
+*** SHOW DOWN ***
+longo132: shows [Th Ac] (two pair, Kings and Tens)
+Apanage: mucks hand
+longo132 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4d Ks 9d Kc Tc]
+Seat 5: longo132 (big blind) showed [Th Ac] and won ($47.50) with two pair, Kings and Tens
+Seat 6: Apanage (button) (small blind) mucked
+
+
+PokerStars Hand #163461359422:  Hold'em Limit ($3/$6 USD) - 2016/12/24 15:19:11 ET
+Table 'Desagneauxa II' 10-max Seat #5 is the button
+Seat 5: longo132 ($38.63 in chips)
+Seat 6: Apanage ($111.76 in chips)
+longo132: posts small blind $1
+Apanage: posts big blind $3
+*** HOLE CARDS ***
+longo132: raises $3 to $6
+Apanage: calls $3
+*** FLOP *** [8d Qc 4s]
+Apanage: checks
+longo132: bets $3
+Apanage: folds
+Uncalled bet ($3) returned to longo132
+longo132 collected $11.76 from pot
+longo132: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8d Qc 4s]
+Seat 5: longo132 (button) (small blind) collected ($11.76)
+Seat 6: Apanage (big blind) folded on the Flop
+
+
+PokerStars Hand #163461374476:  Hold'em Limit ($3/$6 USD) - 2016/12/24 15:19:30 ET
+Table 'Desagneauxa II' 10-max Seat #5 is the button
+Seat 5: longo132 ($45.39 in chips)
+Seat 6: Apanage ($104.76 in chips)
+longo132: posts small blind $1
+Apanage: posts big blind $3
+*** HOLE CARDS ***
+longo132: folds
+Uncalled bet ($2) returned to Apanage
+Apanage collected $2 from pot
+Apanage: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: longo132 (button) (small blind) folded before Flop
+Seat 6: Apanage (big blind) collected ($2)
+
+
+PokerStars Hand #163461367168:  Hold'em Limit ($3/$6 USD) - 2016/12/24 15:19:21 ET
+Table 'Desagneauxa II' 10-max Seat #6 is the button
+Seat 5: longo132 ($44.39 in chips)
+Seat 6: Apanage ($105.76 in chips)
+Apanage: posts small blind $1
+longo132: posts big blind $3
+*** HOLE CARDS ***
+Apanage: folds
+Uncalled bet ($2) returned to longo132
+longo132 collected $2 from pot
+longo132: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: longo132 (big blind) collected ($2)
+Seat 6: Apanage (button) (small blind) folded before Flop
+
+
+PokerStars Hand #163461381966:  Hold'em Limit ($3/$6 USD) - 2016/12/24 15:19:40 ET
+Table 'Desagneauxa II' 10-max Seat #5 is the button
+Seat 5: longo132 ($45.39 in chips)
+Seat 6: Apanage ($104.76 in chips)
+longo132: posts small blind $1
+Apanage: posts big blind $3
+*** HOLE CARDS ***
+longo132: folds
+Uncalled bet ($2) returned to Apanage
+Apanage collected $2 from pot
+Apanage: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: longo132 (button) (small blind) folded before Flop
+Seat 6: Apanage (big blind) collected ($2)
+
+
+PokerStars Hand #163461378276:  Hold'em Limit ($3/$6 USD) - 2016/12/24 15:19:35 ET
+Table 'Desagneauxa II' 10-max Seat #6 is the button
+Seat 5: longo132 ($44.39 in chips)
+Seat 6: Apanage ($105.76 in chips)
+Apanage: posts small blind $1
+longo132: posts big blind $3
+*** HOLE CARDS ***
+Apanage: folds
+Uncalled bet ($2) returned to longo132
+longo132 collected $2 from pot
+longo132: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: longo132 (big blind) collected ($2)
+Seat 6: Apanage (button) (small blind) folded before Flop
+
+
+PokerStars Hand #163461344254:  Hold'em Limit ($3/$6 USD) - 2016/12/24 15:18:51 ET
+Table 'Desagneauxa II' 10-max Seat #6 is the button
+Seat 5: longo132 ($59.63 in chips)
+Seat 6: Apanage ($91.26 in chips)
+Apanage: posts small blind $1
+longo132: posts big blind $3
+*** HOLE CARDS ***
+Apanage: raises $3 to $6
+longo132: calls $3
+*** FLOP *** [5d 8d 2c]
+longo132: checks
+Apanage: bets $3
+longo132: calls $3
+*** TURN *** [5d 8d 2c] [4d]
+longo132: bets $6
+Apanage: calls $6
+*** RIVER *** [5d 8d 2c 4d] [Kh]
+longo132: bets $6
+Apanage: calls $6
+*** SHOW DOWN ***
+longo132: shows [6c Ad] (high card Ace)
+Apanage: shows [9d 5h] (a pair of Fives)
+Apanage collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [5d 8d 2c 4d Kh]
+Seat 5: longo132 (big blind) showed [6c Ad] and lost with high card Ace
+Seat 6: Apanage (button) (small blind) showed [9d 5h] and won ($41.50) with a pair of Fives
+
+
+PokerStars Hand #163461386273:  Hold'em Limit ($3/$6 USD) - 2016/12/24 15:19:46 ET
+Table 'Desagneauxa II' 10-max Seat #6 is the button
+Seat 5: longo132 ($44.39 in chips)
+Seat 6: Apanage ($105.76 in chips)
+Apanage: posts small blind $1
+longo132: posts big blind $3
+*** HOLE CARDS ***
+Apanage: raises $3 to $6
+longo132: calls $3
+*** FLOP *** [Kh 9h 3d]
+longo132: checks
+Apanage: bets $3
+longo132: calls $3
+*** TURN *** [Kh 9h 3d] [8h]
+longo132: checks
+Apanage: checks
+*** RIVER *** [Kh 9h 3d 8h] [7c]
+longo132: bets $6
+Apanage: calls $6
+*** SHOW DOWN ***
+longo132: shows [Jh 4s] (high card King)
+Apanage: shows [Ad Js] (high card Ace)
+Apanage collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kh 9h 3d 8h 7c]
+Seat 5: longo132 (big blind) showed [Jh 4s] and lost with high card King
+Seat 6: Apanage (button) (small blind) showed [Ad Js] and won ($29.50) with high card Ace
+
+
+PokerStars Hand #163461409546:  Hold'em Limit ($3/$6 USD) - 2016/12/24 15:20:16 ET
+Table 'Desagneauxa II' 10-max Seat #6 is the button
+Seat 5: longo132 ($17.39 in chips)
+Seat 6: Apanage ($131.78 in chips)
+Apanage: posts small blind $1
+longo132: posts big blind $3
+*** HOLE CARDS ***
+Apanage: folds
+Uncalled bet ($2) returned to longo132
+longo132 collected $2 from pot
+longo132: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: longo132 (big blind) collected ($2)
+Seat 6: Apanage (button) (small blind) folded before Flop
+
+
+PokerStars Hand #163461398169:  Hold'em Limit ($3/$6 USD) - 2016/12/24 15:20:01 ET
+Table 'Desagneauxa II' 10-max Seat #5 is the button
+Seat 5: longo132 ($29.39 in chips)
+Seat 6: Apanage ($120.26 in chips)
+longo132: posts small blind $1
+Apanage: posts big blind $3
+*** HOLE CARDS ***
+longo132: raises $3 to $6
+Apanage: calls $3
+*** FLOP *** [5c 9h Js]
+Apanage: checks
+longo132: checks
+*** TURN *** [5c 9h Js] [4c]
+Apanage: checks
+longo132: checks
+*** RIVER *** [5c 9h Js 4c] [Ad]
+Apanage: checks
+longo132: bets $6
+Apanage: calls $6
+*** SHOW DOWN ***
+longo132: shows [Qs 6s] (high card Ace)
+Apanage: shows [Ac 6c] (a pair of Aces)
+Apanage collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [5c 9h Js 4c Ad]
+Seat 5: longo132 (button) (small blind) showed [Qs 6s] and lost with high card Ace
+Seat 6: Apanage (big blind) showed [Ac 6c] and won ($23.52) with a pair of Aces
+
+
+PokerStars Hand #163461413207:  Hold'em Limit ($3/$6 USD) - 2016/12/24 15:20:21 ET
+Table 'Desagneauxa II' 10-max Seat #5 is the button
+Seat 5: longo132 ($18.39 in chips)
+Seat 6: Apanage ($130.78 in chips)
+longo132: posts small blind $1
+Apanage: posts big blind $3
+*** HOLE CARDS ***
+longo132: folds
+Uncalled bet ($2) returned to Apanage
+Apanage collected $2 from pot
+Apanage: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: longo132 (button) (small blind) folded before Flop
+Seat 6: Apanage (big blind) collected ($2)
+
+
+PokerStars Hand #163461417354:  Hold'em Limit ($3/$6 USD) - 2016/12/24 15:20:26 ET
+Table 'Desagneauxa II' 10-max Seat #6 is the button
+Seat 5: longo132 ($17.39 in chips)
+Seat 6: Apanage ($131.78 in chips)
+Apanage: posts small blind $1
+longo132: posts big blind $3
+*** HOLE CARDS ***
+Apanage: raises $3 to $6
+longo132: calls $3
+*** FLOP *** [8c 5s 6h]
+longo132: checks
+Apanage: bets $3
+longo132: calls $3
+*** TURN *** [8c 5s 6h] [9c]
+longo132: checks
+Apanage: checks
+*** RIVER *** [8c 5s 6h 9c] [6d]
+longo132: bets $6
+Apanage: calls $6
+*** SHOW DOWN ***
+longo132: shows [9h 2h] (two pair, Nines and Sixes)
+Apanage: mucks hand
+longo132 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8c 5s 6h 9c 6d]
+Seat 5: longo132 (big blind) showed [9h 2h] and won ($29.50) with two pair, Nines and Sixes
+Seat 6: Apanage (button) (small blind) mucked
+
+
+PokerStars Hand #163461430075:  Hold'em Limit ($3/$6 USD) - 2016/12/24 15:20:43 ET
+Table 'Desagneauxa II' 10-max Seat #5 is the button
+Seat 5: longo132 ($31.89 in chips)
+Seat 6: Apanage ($116.78 in chips)
+longo132: posts small blind $1
+Apanage: posts big blind $3
+*** HOLE CARDS ***
+longo132: folds
+Uncalled bet ($2) returned to Apanage
+Apanage collected $2 from pot
+Apanage: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: longo132 (button) (small blind) folded before Flop
+Seat 6: Apanage (big blind) collected ($2)
+
+
+PokerStars Hand #163461445157:  Hold'em Limit ($3/$6 USD) - 2016/12/24 15:21:03 ET
+Table 'Desagneauxa II' 10-max Seat #5 is the button
+Seat 5: longo132 ($45.39 in chips)
+Seat 6: Apanage ($102.78 in chips)
+longo132: posts small blind $1
+Apanage: posts big blind $3
+*** HOLE CARDS ***
+longo132: raises $3 to $6
+Apanage: folds
+Uncalled bet ($3) returned to longo132
+longo132 collected $6 from pot
+longo132: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 5: longo132 (button) (small blind) collected ($6)
+Seat 6: Apanage (big blind) folded before Flop
+
+
+PokerStars Hand #163461449803:  Hold'em Limit ($3/$6 USD) - 2016/12/24 15:21:09 ET
+Table 'Desagneauxa II' 10-max Seat #6 is the button
+Seat 5: longo132 ($48.39 in chips)
+Seat 6: Apanage ($99.78 in chips)
+Apanage: posts small blind $1
+longo132: posts big blind $3
+*** HOLE CARDS ***
+Apanage: raises $3 to $6
+longo132: calls $3
+*** FLOP *** [3h Qd 5c]
+longo132: checks
+Apanage: bets $3
+longo132: calls $3
+*** TURN *** [3h Qd 5c] [Ts]
+longo132: checks
+Apanage: bets $6
+longo132: calls $6
+*** RIVER *** [3h Qd 5c Ts] [3c]
+longo132: checks
+Apanage: checks
+*** SHOW DOWN ***
+longo132: shows [6h Tc] (two pair, Tens and Threes)
+Apanage: mucks hand
+longo132 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3h Qd 5c Ts 3c]
+Seat 5: longo132 (big blind) showed [6h Tc] and won ($29.50) with two pair, Tens and Threes
+Seat 6: Apanage (button) (small blind) mucked
+
+
+PokerStars Hand #163461480915:  Hold'em Limit ($3/$6 USD) - 2016/12/24 15:21:50 ET
+Table 'Desagneauxa II' 10-max Seat #6 is the button
+Seat 5: longo132 ($44.89 in chips)
+Seat 6: Apanage ($102.28 in chips)
+Apanage: posts small blind $1
+longo132: posts big blind $3
+*** HOLE CARDS ***
+Apanage: raises $3 to $6
+longo132: folds
+Uncalled bet ($3) returned to Apanage
+Apanage collected $6 from pot
+Apanage: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 5: longo132 (big blind) folded before Flop
+Seat 6: Apanage (button) (small blind) collected ($6)
+
+
+PokerStars Hand #163461465032:  Hold'em Limit ($3/$6 USD) - 2016/12/24 15:21:29 ET
+Table 'Desagneauxa II' 10-max Seat #5 is the button
+Seat 5: longo132 ($62.89 in chips)
+Seat 6: Apanage ($84.78 in chips)
+longo132: posts small blind $1
+Apanage: posts big blind $3
+*** HOLE CARDS ***
+longo132: raises $3 to $6
+Apanage: calls $3
+*** FLOP *** [Qd Td 5d]
+Apanage: checks
+longo132: bets $3
+Apanage: raises $3 to $6
+longo132: calls $3
+*** TURN *** [Qd Td 5d] [2s]
+Apanage: bets $6
+longo132: calls $6
+*** RIVER *** [Qd Td 5d 2s] [Qc]
+Apanage: bets $6
+longo132: folds
+Uncalled bet ($6) returned to Apanage
+Apanage collected $35.50 from pot
+Apanage: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Qd Td 5d 2s Qc]
+Seat 5: longo132 (button) (small blind) folded on the River
+Seat 6: Apanage (big blind) collected ($35.50)
+
+
+PokerStars Hand #163461433523:  Hold'em Limit ($3/$6 USD) - 2016/12/24 15:20:48 ET
+Table 'Desagneauxa II' 10-max Seat #6 is the button
+Seat 5: longo132 ($30.89 in chips)
+Seat 6: Apanage ($117.78 in chips)
+Apanage: posts small blind $1
+longo132: posts big blind $3
+*** HOLE CARDS ***
+Apanage: raises $3 to $6
+longo132: calls $3
+*** FLOP *** [4d 7d Qs]
+longo132: checks
+Apanage: bets $3
+longo132: calls $3
+*** TURN *** [4d 7d Qs] [Th]
+longo132: checks
+Apanage: bets $6
+longo132: calls $6
+*** RIVER *** [4d 7d Qs Th] [3d]
+longo132: checks
+Apanage: checks
+*** SHOW DOWN ***
+longo132: shows [9h 4s] (a pair of Fours)
+Apanage: mucks hand
+longo132 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4d 7d Qs Th 3d]
+Seat 5: longo132 (big blind) showed [9h 4s] and won ($29.50) with a pair of Fours
+Seat 6: Apanage (button) (small blind) mucked
+
+
+PokerStars Hand #163461511826:  Hold'em Limit ($3/$6 USD) - 2016/12/24 15:22:30 ET
+Table 'Desagneauxa II' 10-max Seat #5 is the button
+Seat 5: longo132 ($35.41 in chips)
+Seat 6: Apanage ($110.78 in chips)
+longo132: posts small blind $1
+Apanage: posts big blind $3
+*** HOLE CARDS ***
+longo132: folds
+Uncalled bet ($2) returned to Apanage
+Apanage collected $2 from pot
+Apanage: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: longo132 (button) (small blind) folded before Flop
+Seat 6: Apanage (big blind) collected ($2)
+
+
+PokerStars Hand #163461498333:  Hold'em Limit ($3/$6 USD) - 2016/12/24 15:22:13 ET
+Table 'Desagneauxa II' 10-max Seat #6 is the button
+Seat 5: longo132 ($23.89 in chips)
+Seat 6: Apanage ($122.78 in chips)
+Apanage: posts small blind $1
+longo132: posts big blind $3
+*** HOLE CARDS ***
+Apanage: raises $3 to $6
+longo132: raises $3 to $9
+Apanage: calls $3
+*** FLOP *** [4c Qh 7c]
+longo132: bets $3
+Apanage: calls $3
+*** TURN *** [4c Qh 7c] [Ad]
+longo132: bets $6
+Apanage: folds
+Uncalled bet ($6) returned to longo132
+longo132 collected $23.52 from pot
+longo132: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [4c Qh 7c Ad]
+Seat 5: longo132 (big blind) collected ($23.52)
+Seat 6: Apanage (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #163461515631:  Hold'em Limit ($3/$6 USD) - 2016/12/24 15:22:35 ET
+Table 'Desagneauxa II' 10-max Seat #6 is the button
+Seat 5: longo132 ($34.41 in chips)
+Seat 6: Apanage ($111.78 in chips)
+Apanage: posts small blind $1
+longo132: posts big blind $3
+*** HOLE CARDS ***
+Apanage: raises $3 to $6
+longo132: raises $3 to $9
+Apanage: raises $3 to $12
+Betting is capped
+longo132: calls $3
+*** FLOP *** [6c 4d 2d]
+longo132: checks
+Apanage: bets $3
+longo132: calls $3
+*** TURN *** [6c 4d 2d] [8h]
+longo132: checks
+Apanage: bets $6
+longo132: calls $6
+*** RIVER *** [6c 4d 2d 8h] [5d]
+longo132: bets $6
+Apanage: calls $6
+*** SHOW DOWN ***
+longo132: shows [Ad Jh] (high card Ace)
+Apanage: shows [Ac Ks] (high card Ace - King kicker)
+Apanage collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [6c 4d 2d 8h 5d]
+Seat 5: longo132 (big blind) showed [Ad Jh] and lost with high card Ace
+Seat 6: Apanage (button) (small blind) showed [Ac Ks] and won ($53.50) with high card Ace
+
+
+PokerStars Hand #163461484952:  Hold'em Limit ($3/$6 USD) - 2016/12/24 15:21:55 ET
+Table 'Desagneauxa II' 10-max Seat #5 is the button
+Seat 5: longo132 ($41.89 in chips)
+Seat 6: Apanage ($105.28 in chips)
+longo132: posts small blind $1
+Apanage: posts big blind $3
+*** HOLE CARDS ***
+longo132: raises $3 to $6
+Apanage: raises $3 to $9
+longo132: calls $3
+*** FLOP *** [As 4c 6h]
+Apanage: bets $3
+longo132: calls $3
+*** TURN *** [As 4c 6h] [Qs]
+Apanage: bets $6
+longo132: calls $6
+*** RIVER *** [As 4c 6h Qs] [Jd]
+Apanage: bets $6
+longo132: folds
+Uncalled bet ($6) returned to Apanage
+Apanage collected $35.50 from pot
+Apanage: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [As 4c 6h Qs Jd]
+Seat 5: longo132 (button) (small blind) folded on the River
+Seat 6: Apanage (big blind) collected ($35.50)
+
+
+PokerStars Hand #163461530804:  Hold'em Limit ($3/$6 USD) - 2016/12/24 15:22:55 ET
+Table 'Desagneauxa II' 10-max Seat #5 is the button
+Seat 5: longo132 ($7.41 in chips)
+Seat 6: Apanage ($138.28 in chips)
+longo132: posts small blind $1
+Apanage: posts big blind $3
+*** HOLE CARDS ***
+longo132: raises $3 to $6
+Apanage: raises $3 to $9
+longo132: calls $1.41 and is all-in
+Uncalled bet ($1.59) returned to Apanage
+*** FLOP *** [7h 3c 8h]
+*** TURN *** [7h 3c 8h] [3s]
+*** RIVER *** [7h 3c 8h 3s] [Td]
+*** SHOW DOWN ***
+Apanage: shows [Jh Tc] (two pair, Tens and Threes)
+longo132: shows [Jc 6d] (a pair of Threes)
+Apanage collected $14.52 from pot
+*** SUMMARY ***
+Total pot $14.82 | Rake $0.30
+Board [7h 3c 8h 3s Td]
+Seat 5: longo132 (button) (small blind) showed [Jc 6d] and lost with a pair of Threes
+Seat 6: Apanage (big blind) showed [Jh Tc] and won ($14.52) with two pair, Tens and Threes
+
+

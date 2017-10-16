@@ -1,0 +1,57 @@
+PokerStars Hand #165935466240:  Hold'em Limit ($3/$6 USD) - 2017/02/09 10:45:48 ET
+Table 'Galatea' 6-max Seat #1 is the button
+Seat 1: tamnt10549 ($3 in chips)
+Seat 2: belik555 ($119.50 in chips)
+tamnt10549: posts small blind $1
+belik555: posts big blind $3
+*** HOLE CARDS ***
+tamnt10549: calls $2 and is all-in
+*** FLOP *** [Ks 9s 6d]
+*** TURN *** [Ks 9s 6d] [3h]
+*** RIVER *** [Ks 9s 6d 3h] [9c]
+*** SHOW DOWN ***
+belik555: shows [9h 3d] (a full house, Nines full of Threes)
+tamnt10549: shows [7s 8d] (a pair of Nines)
+belik555 collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Ks 9s 6d 3h 9c]
+Seat 1: tamnt10549 (button) (small blind) showed [7s 8d] and lost with a pair of Nines
+Seat 2: belik555 (big blind) showed [9h 3d] and won ($5.88) with a full house, Nines full of Threes
+
+
+PokerStars Hand #165935411944:  Hold'em Limit ($3/$6 USD) - 2017/02/09 10:44:44 ET
+Table 'Galatea' 6-max Seat #2 is the button
+Seat 1: tamnt10549 ($33 in chips)
+Seat 2: belik555 ($90 in chips)
+belik555: posts small blind $1
+TbIP-TbIP 88 has timed out
+TbIP-TbIP 88: is sitting out
+tamnt10549: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88 leaves the table
+belik555: raises $3 to $6
+tamnt10549: calls $3
+*** FLOP *** [Ac Td 2c]
+tamnt10549: checks
+belik555: checks
+*** TURN *** [Ac Td 2c] [3d]
+tamnt10549: checks
+belik555: bets $6
+tamnt10549: raises $6 to $12
+belik555: calls $6
+*** RIVER *** [Ac Td 2c 3d] [6c]
+tamnt10549: bets $6
+belik555: raises $6 to $12
+tamnt10549: calls $6
+*** SHOW DOWN ***
+belik555: shows [As 6d] (two pair, Aces and Sixes)
+tamnt10549: mucks hand
+belik555 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Ac Td 2c 3d 6c]
+Seat 1: tamnt10549 (big blind) mucked
+Seat 2: belik555 (button) (small blind) showed [As 6d] and won ($59.50) with two pair, Aces and Sixes
+
+

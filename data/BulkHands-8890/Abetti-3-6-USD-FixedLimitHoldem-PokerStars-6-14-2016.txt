@@ -1,0 +1,32 @@
+PokerStars Hand #154704519686:  Hold'em Limit ($3/$6 USD) - 2016/06/13 20:13:16 ET
+Table 'Abetti' 6-max Seat #5 is the button
+Seat 3: yergood ($113.37 in chips)
+Seat 5: Chessnok ($60 in chips)
+Chessnok: posts small blind $1
+anetkaapro: is sitting out
+yergood: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+yergood: calls $3
+*** FLOP *** [9h 8c Jd]
+yergood: checks
+Chessnok: bets $3
+yergood: raises $3 to $6
+Chessnok: calls $3
+*** TURN *** [9h 8c Jd] [Ah]
+yergood: bets $6
+Chessnok: calls $6
+*** RIVER *** [9h 8c Jd Ah] [Kh]
+yergood: bets $6
+Chessnok: calls $6
+*** SHOW DOWN ***
+yergood: shows [8d 9d] (two pair, Nines and Eights)
+Chessnok: mucks hand
+yergood collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9h 8c Jd Ah Kh]
+Seat 3: yergood (big blind) showed [8d 9d] and won ($47.50) with two pair, Nines and Eights
+Seat 5: Chessnok (button) (small blind) mucked
+
+

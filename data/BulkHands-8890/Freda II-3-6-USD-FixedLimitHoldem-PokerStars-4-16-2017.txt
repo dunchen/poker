@@ -1,0 +1,85 @@
+PokerStars Hand #169138467931:  Hold'em Limit ($3/$6 USD) - 2017/04/16 16:54:50 ET
+Table 'Freda II' 6-max Seat #3 is the button
+Seat 3: AMA2347 ($51.71 in chips)
+Seat 5: GoliafUa ($120 in chips)
+AMA2347: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+AMA2347: calls $2
+GoliafUa: checks
+*** FLOP *** [4c 8s 6d]
+GoliafUa: checks
+AMA2347: bets $3
+GoliafUa: folds
+Uncalled bet ($3) returned to AMA2347
+AMA2347 collected $5.88 from pot
+AMA2347: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [4c 8s 6d]
+Seat 3: AMA2347 (button) (small blind) collected ($5.88)
+Seat 5: GoliafUa (big blind) folded on the Flop
+
+
+PokerStars Hand #169138522949:  Hold'em Limit ($3/$6 USD) - 2017/04/16 16:56:05 ET
+Table 'Freda II' 6-max Seat #3 is the button
+Seat 3: AMA2347 ($6.59 in chips)
+Seat 5: GoliafUa ($164.50 in chips)
+AMA2347: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+AMA2347: raises $3 to $6
+GoliafUa: calls $3
+*** FLOP *** [5d 6h 9c]
+GoliafUa: bets $3
+AMA2347: calls $0.59 and is all-in
+Uncalled bet ($2.41) returned to GoliafUa
+*** TURN *** [5d 6h 9c] [4d]
+*** RIVER *** [5d 6h 9c 4d] [3d]
+*** SHOW DOWN ***
+GoliafUa: shows [7d Kd] (a flush, King high)
+AMA2347: shows [Js 8c] (high card Jack)
+GoliafUa collected $12.92 from pot
+*** SUMMARY ***
+Total pot $13.18 | Rake $0.26
+Board [5d 6h 9c 4d 3d]
+Seat 3: AMA2347 (button) (small blind) showed [Js 8c] and lost with high card Jack
+Seat 5: GoliafUa (big blind) showed [7d Kd] and won ($12.92) with a flush, King high
+
+
+PokerStars Hand #169138498763:  Hold'em Limit ($3/$6 USD) - 2017/04/16 16:55:28 ET
+Table 'Freda II' 6-max Seat #5 is the button
+Seat 3: AMA2347 ($54.59 in chips)
+Seat 5: GoliafUa ($117 in chips)
+GoliafUa: posts small blind $1
+AMA2347: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa: raises $3 to $6
+AMA2347: calls $3
+*** FLOP *** [8h Qs Qc]
+AMA2347: checks
+GoliafUa: bets $3
+AMA2347: raises $3 to $6
+GoliafUa: calls $3
+*** TURN *** [8h Qs Qc] [7d]
+AMA2347: bets $6
+GoliafUa: raises $6 to $12
+AMA2347: calls $6
+*** RIVER *** [8h Qs Qc 7d] [6d]
+AMA2347: bets $6
+GoliafUa: raises $6 to $12
+AMA2347: raises $6 to $18
+GoliafUa: raises $6 to $24
+Betting is capped
+AMA2347: calls $6
+*** SHOW DOWN ***
+GoliafUa: shows [7h Qd] (a full house, Queens full of Sevens)
+AMA2347: mucks hand
+GoliafUa collected $95.50 from pot
+*** SUMMARY ***
+Total pot $96 | Rake $0.50
+Board [8h Qs Qc 7d 6d]
+Seat 3: AMA2347 (big blind) mucked
+Seat 5: GoliafUa (button) (small blind) showed [7h Qd] and won ($95.50) with a full house, Queens full of Sevens
+
+

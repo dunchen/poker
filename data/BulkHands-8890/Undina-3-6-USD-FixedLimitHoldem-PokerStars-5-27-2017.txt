@@ -1,0 +1,45 @@
+PokerStars Hand #170965721747:  Hold'em Limit ($3/$6 USD) - 2017/05/26 22:34:33 ET
+Table 'Undina' 10-max Seat #6 is the button
+Seat 5: TheLastErrr ($11.64 in chips)
+Seat 6: B_loJkl ($144 in chips)
+B_loJkl: posts small blind $1
+TheLastErrr: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: folds
+Uncalled bet ($2) returned to TheLastErrr
+TheLastErrr collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: TheLastErrr (big blind) collected ($2)
+Seat 6: B_loJkl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #170965726359:  Hold'em Limit ($3/$6 USD) - 2017/05/26 22:34:46 ET
+Table 'Undina' 10-max Seat #5 is the button
+Seat 5: TheLastErrr ($12.64 in chips)
+Seat 6: B_loJkl ($143 in chips)
+TheLastErrr: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+TheLastErrr: calls $2
+B_loJkl: raises $3 to $6
+TheLastErrr: calls $3
+*** FLOP *** [9h 6h 2d]
+B_loJkl: bets $3
+TheLastErrr: calls $3
+*** TURN *** [9h 6h 2d] [9d]
+B_loJkl: bets $6
+TheLastErrr: calls $3.64 and is all-in
+Uncalled bet ($2.36) returned to B_loJkl
+*** RIVER *** [9h 6h 2d 9d] [7c]
+*** SHOW DOWN ***
+B_loJkl: shows [Kd 9c] (three of a kind, Nines)
+TheLastErrr: shows [8h 7s] (two pair, Nines and Sevens)
+B_loJkl collected $24.78 from pot
+*** SUMMARY ***
+Total pot $25.28 | Rake $0.50
+Board [9h 6h 2d 9d 7c]
+Seat 5: TheLastErrr (button) (small blind) showed [8h 7s] and lost with two pair, Nines and Sevens
+Seat 6: B_loJkl (big blind) showed [Kd 9c] and won ($24.78) with three of a kind, Nines
+
+

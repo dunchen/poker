@@ -1,0 +1,57 @@
+PokerStars Hand #161912572636:  Hold'em Limit ($3/$6 USD) - 2016/11/24 18:20:26 ET
+Table 'Hertzsprung' 6-max Seat #6 is the button
+Seat 1: assitoni ($72 in chips)
+Seat 6: stiflerkk ($31.80 in chips)
+stiflerkk: posts small blind $1
+assitoni: posts big blind $3
+*** HOLE CARDS ***
+stiflerkk: calls $2
+assitoni: raises $3 to $6
+stiflerkk: calls $3
+*** FLOP *** [2d 4h 4d]
+assitoni: bets $3
+stiflerkk: calls $3
+*** TURN *** [2d 4h 4d] [Js]
+assitoni: bets $6
+stiflerkk: folds
+Uncalled bet ($6) returned to assitoni
+assitoni collected $17.64 from pot
+assitoni: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2d 4h 4d Js]
+Seat 1: assitoni (big blind) collected ($17.64)
+Seat 6: stiflerkk (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #161912599958:  Hold'em Limit ($3/$6 USD) - 2016/11/24 18:21:02 ET
+Table 'Hertzsprung' 6-max Seat #1 is the button
+Seat 1: assitoni ($80.64 in chips)
+Seat 6: stiflerkk ($22.80 in chips)
+assitoni: posts small blind $1
+stiflerkk: posts big blind $3
+*** HOLE CARDS ***
+assitoni: raises $3 to $6
+stiflerkk: calls $3
+*** FLOP *** [4s As 5d]
+stiflerkk: checks
+assitoni: bets $3
+stiflerkk: raises $3 to $6
+assitoni: calls $3
+*** TURN *** [4s As 5d] [Qs]
+stiflerkk: bets $6
+assitoni: raises $6 to $12
+stiflerkk: calls $4.80 and is all-in
+Uncalled bet ($1.20) returned to assitoni
+*** RIVER *** [4s As 5d Qs] [9c]
+*** SHOW DOWN ***
+stiflerkk: shows [Ts 5c] (a pair of Fives)
+assitoni: shows [Ac Kd] (a pair of Aces)
+assitoni collected $45.10 from pot
+*** SUMMARY ***
+Total pot $45.60 | Rake $0.50
+Board [4s As 5d Qs 9c]
+Seat 1: assitoni (button) (small blind) showed [Ac Kd] and won ($45.10) with a pair of Aces
+Seat 6: stiflerkk (big blind) showed [Ts 5c] and lost with a pair of Fives
+
+

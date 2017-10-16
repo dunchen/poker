@@ -1,0 +1,93 @@
+PokerStars Hand #173830144009:  Hold'em Limit ($3/$6 USD) - 2017/08/02 11:05:52 ET
+Table 'Elnath II' 6-max Seat #4 is the button
+Seat 1: aremom4e ($110.50 in chips)
+Seat 4: VolkovDmitri ($128.26 in chips)
+VolkovDmitri: posts small blind $1
+aremom4e: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+aremom4e: calls $3
+*** FLOP *** [6d 9d 8d]
+aremom4e: checks
+VolkovDmitri: bets $3
+aremom4e: calls $3
+*** TURN *** [6d 9d 8d] [Qc]
+aremom4e: checks
+VolkovDmitri: checks
+*** RIVER *** [6d 9d 8d Qc] [Th]
+aremom4e: bets $6
+Anchig joins the table at seat #2
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+aremom4e: shows [7c 8s] (a straight, Six to Ten)
+VolkovDmitri: mucks hand
+aremom4e collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6d 9d 8d Qc Th]
+Seat 1: aremom4e (big blind) showed [7c 8s] and won ($29.50) with a straight, Six to Ten
+Seat 4: VolkovDmitri (button) (small blind) mucked
+
+
+PokerStars Hand #173830117251:  Hold'em Limit ($3/$6 USD) - 2017/08/02 11:05:04 ET
+Table 'Elnath II' 6-max Seat #4 is the button
+Seat 1: aremom4e ($114 in chips)
+Seat 4: VolkovDmitri ($125.76 in chips)
+VolkovDmitri: posts small blind $1
+aremom4e: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+aremom4e: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [4c 5s 9c]
+aremom4e: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [4c 5s 9c] [2s]
+aremom4e: checks
+VolkovDmitri: bets $6
+aremom4e: calls $6
+*** RIVER *** [4c 5s 9c 2s] [8d]
+aremom4e: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+aremom4e: shows [Js Qc] (high card Queen)
+VolkovDmitri: shows [6c 2c] (a pair of Deuces)
+VolkovDmitri collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [4c 5s 9c 2s 8d]
+Seat 1: aremom4e (big blind) showed [Js Qc] and lost with high card Queen
+Seat 4: VolkovDmitri (button) (small blind) showed [6c 2c] and won ($35.50) with a pair of Deuces
+
+
+PokerStars Hand #173830130511:  Hold'em Limit ($3/$6 USD) - 2017/08/02 11:05:28 ET
+Table 'Elnath II' 6-max Seat #1 is the button
+Seat 1: aremom4e ($96 in chips)
+Seat 4: VolkovDmitri ($143.26 in chips)
+aremom4e: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+aremom4e: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Kh Kc 3s]
+VolkovDmitri: checks
+aremom4e: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [Kh Kc 3s] [Jh]
+VolkovDmitri: checks
+aremom4e: checks
+*** RIVER *** [Kh Kc 3s Jh] [3c]
+VolkovDmitri: checks
+aremom4e: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+aremom4e: shows [Ks 9h] (a full house, Kings full of Threes)
+VolkovDmitri: mucks hand
+aremom4e collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kh Kc 3s Jh 3c]
+Seat 1: aremom4e (button) (small blind) showed [Ks 9h] and won ($29.50) with a full house, Kings full of Threes
+Seat 4: VolkovDmitri (big blind) mucked
+
+

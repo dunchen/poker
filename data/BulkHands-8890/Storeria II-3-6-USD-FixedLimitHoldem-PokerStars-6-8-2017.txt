@@ -1,0 +1,30 @@
+PokerStars Hand #171528103388:  Hold'em Limit ($3/$6 USD) - 2017/06/08 18:54:41 ET
+Table 'Storeria II' 6-max Seat #1 is the button
+Seat 1: ZOGI ($324.44 in chips)
+Seat 2: belik555 ($90 in chips)
+ZOGI: posts small blind $1
+belik555: posts big blind $3
+*** HOLE CARDS ***
+ZOGI: raises $3 to $6
+belik555: calls $3
+*** FLOP *** [4h 4c 2d]
+Great_Kang joins the table at seat #3
+belik555: bets $3
+ZOGI: calls $3
+*** TURN *** [4h 4c 2d] [8s]
+belik555: bets $6
+ZOGI: calls $6
+*** RIVER *** [4h 4c 2d 8s] [5c]
+belik555: bets $6
+ZOGI: calls $6
+*** SHOW DOWN ***
+belik555: shows [2c 6c] (two pair, Fours and Deuces)
+ZOGI: mucks hand
+belik555 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [4h 4c 2d 8s 5c]
+Seat 1: ZOGI (button) (small blind) mucked
+Seat 2: belik555 (big blind) showed [2c 6c] and won ($41.50) with two pair, Fours and Deuces
+
+

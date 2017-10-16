@@ -1,0 +1,34 @@
+PokerStars Hand #145576971041:  Hold'em Limit ($3/$6 USD) - 2015/12/19 7:57:24 ET
+Table 'Mathilde III' 2-max Seat #1 is the button
+Seat 1: enkb ($94.50 in chips)
+Seat 2: TinaTurner72 ($35 in chips)
+enkb: posts small blind $1
+TinaTurner72: posts big blind $3
+*** HOLE CARDS ***
+enkb: raises $3 to $6
+TinaTurner72: calls $3
+*** FLOP *** [5s 2c 6h]
+TinaTurner72: checks
+enkb: bets $3
+TinaTurner72: raises $3 to $6
+enkb: raises $3 to $9
+TinaTurner72: calls $3
+*** TURN *** [5s 2c 6h] [Kh]
+TinaTurner72: checks
+enkb: bets $6
+TinaTurner72: calls $6
+*** RIVER *** [5s 2c 6h Kh] [Qh]
+TinaTurner72: checks
+enkb: bets $6
+TinaTurner72: calls $6
+*** SHOW DOWN ***
+enkb: shows [8s 8h] (a pair of Eights)
+TinaTurner72: mucks hand
+enkb collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [5s 2c 6h Kh Qh]
+Seat 1: enkb (button) (small blind) showed [8s 8h] and won ($53.50) with a pair of Eights
+Seat 2: TinaTurner72 (big blind) mucked
+
+

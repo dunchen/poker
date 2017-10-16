@@ -1,0 +1,36 @@
+PokerStars Hand #156797784814:  Hold'em Limit ($3/$6 USD) - 2016/08/03 1:03:13 ET
+Table 'Notburga' 6-max Seat #6 is the button
+Seat 2: Agrotait ($109.64 in chips)
+Seat 6: degal76 ($202.38 in chips)
+degal76: posts small blind $1
+AzureCaper: is sitting out
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper leaves the table
+degal76: raises $3 to $6
+Agrotait: raises $3 to $9
+degal76: raises $3 to $12
+Betting is capped
+Agrotait: calls $3
+*** FLOP *** [8d 2h 2d]
+Agrotait: checks
+degal76: bets $3
+Agrotait: calls $3
+*** TURN *** [8d 2h 2d] [8h]
+Agrotait: checks
+degal76: bets $6
+Agrotait: calls $6
+*** RIVER *** [8d 2h 2d 8h] [3h]
+Agrotait: checks
+degal76: checks
+*** SHOW DOWN ***
+Agrotait: shows [Kd Js] (two pair, Eights and Deuces)
+degal76: shows [5s As] (two pair, Eights and Deuces - Ace kicker)
+degal76 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [8d 2h 2d 8h 3h]
+Seat 2: Agrotait (big blind) showed [Kd Js] and lost with two pair, Eights and Deuces
+Seat 6: degal76 (button) (small blind) showed [5s As] and won ($41.50) with two pair, Eights and Deuces
+
+

@@ -1,0 +1,118 @@
+PokerStars Hand #145248105728:  Hold'em Limit ($3/$6 USD) - 2015/12/12 17:19:41 ET
+Table 'Philia' 6-max Seat #5 is the button
+Seat 4: Carl1891 ($216.71 in chips)
+Seat 5: alexslep ($150 in chips)
+alexslep: posts small blind $1
+vestimokrec: is sitting out
+SashaYuvelir: is sitting out
+ValeryRon: is sitting out
+Carl1891: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec leaves the table
+alexslep: raises $3 to $6
+Carl1891: folds
+Uncalled bet ($3) returned to alexslep
+ValeryRon leaves the table
+alexslep collected $6 from pot
+alexslep: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 4: Carl1891 (big blind) folded before Flop
+Seat 5: alexslep (button) (small blind) collected ($6)
+
+
+PokerStars Hand #145248113470:  Hold'em Limit ($3/$6 USD) - 2015/12/12 17:19:50 ET
+Table 'Philia' 6-max Seat #4 is the button
+Seat 4: Carl1891 ($213.71 in chips)
+Seat 5: alexslep ($153 in chips)
+Carl1891: posts small blind $1
+alexslep: posts big blind $3
+*** HOLE CARDS ***
+SashaYuvelir leaves the table
+Carl1891: raises $3 to $6
+alexslep: calls $3
+*** FLOP *** [Ah Jh 3c]
+alexslep: checks
+Carl1891: bets $3
+alexslep: raises $3 to $6
+Carl1891: calls $3
+*** TURN *** [Ah Jh 3c] [9c]
+alexslep: bets $6
+Carl1891: folds
+Uncalled bet ($6) returned to alexslep
+alexslep collected $23.52 from pot
+alexslep: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Ah Jh 3c 9c]
+Seat 4: Carl1891 (button) (small blind) folded on the Turn
+Seat 5: alexslep (big blind) collected ($23.52)
+
+
+PokerStars Hand #145248128405:  Hold'em Limit ($3/$6 USD) - 2015/12/12 17:20:07 ET
+Table 'Philia' 6-max Seat #5 is the button
+Seat 4: Carl1891 ($201.71 in chips)
+Seat 5: alexslep ($164.52 in chips)
+alexslep: posts small blind $1
+Carl1891: posts big blind $3
+*** HOLE CARDS ***
+alexslep: raises $3 to $6
+Carl1891: calls $3
+*** FLOP *** [6h 3h 4h]
+Carl1891: checks
+alexslep: bets $3
+Carl1891: calls $3
+*** TURN *** [6h 3h 4h] [5d]
+Carl1891: checks
+alexslep: bets $6
+Carl1891: raises $6 to $12
+alexslep: calls $6
+*** RIVER *** [6h 3h 4h 5d] [Ah]
+Carl1891: checks
+alexslep: checks
+*** SHOW DOWN ***
+Carl1891: shows [8d 7s] (a straight, Four to Eight)
+alexslep: mucks hand
+Carl1891 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [6h 3h 4h 5d Ah]
+Seat 4: Carl1891 (big blind) showed [8d 7s] and won ($41.50) with a straight, Four to Eight
+Seat 5: alexslep (button) (small blind) mucked
+
+
+PokerStars Hand #145249434991:  Hold'em Limit ($3/$6 USD) - 2015/12/12 17:45:21 ET
+Table 'Philia' 6-max Seat #5 is the button
+Seat 1: Carl1891 ($128.43 in chips)
+Seat 5: chezlaw ($156.43 in chips)
+chezlaw: posts small blind $1
+SashaYuvelir: is sitting out
+Carl1891: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper leaves the table
+SashaYuvelir leaves the table
+chezlaw: raises $3 to $6
+Carl1891: calls $3
+*** FLOP *** [8h 9s 8d]
+Carl1891: checks
+chezlaw: bets $3
+Carl1891: raises $3 to $6
+chezlaw: calls $3
+*** TURN *** [8h 9s 8d] [As]
+Carl1891: checks
+chezlaw: bets $6
+Carl1891: calls $6
+*** RIVER *** [8h 9s 8d As] [5h]
+Carl1891: checks
+chezlaw: checks
+*** SHOW DOWN ***
+Carl1891: shows [Js 9h] (two pair, Nines and Eights)
+chezlaw: shows [Tc Ts] (two pair, Tens and Eights)
+chezlaw collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [8h 9s 8d As 5h]
+Seat 1: Carl1891 (big blind) showed [Js 9h] and lost with two pair, Nines and Eights
+Seat 5: chezlaw (button) (small blind) showed [Tc Ts] and won ($35.50) with two pair, Tens and Eights
+
+

@@ -1,0 +1,101 @@
+PokerStars Hand #144938751464:  Hold'em Limit ($3/$6 USD) - 2015/12/06 17:57:02 ET
+Table 'Spica II' 10-max Seat #9 is the button
+Seat 9: BeniAA ($37 in chips)
+Seat 10: MTails ($123 in chips)
+BeniAA: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+BeniAA: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [5d 6c Js]
+MTails: checks
+BeniAA: checks
+*** TURN *** [5d 6c Js] [As]
+MTails: checks
+BeniAA: bets $6
+MTails: raises $6 to $12
+BeniAA: raises $6 to $18
+artiZzt joins the table at seat #1
+MTails: calls $6
+*** RIVER *** [5d 6c Js As] [4h]
+MTails: checks
+BeniAA: bets $6
+MTails: raises $6 to $12
+BeniAA: calls $6
+*** SHOW DOWN ***
+MTails: shows [8h 7d] (a straight, Four to Eight)
+BeniAA: mucks hand
+MTails collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [5d 6c Js As 4h]
+Seat 9: BeniAA (button) (small blind) mucked
+Seat 10: MTails (big blind) showed [8h 7d] and won ($71.50) with a straight, Four to Eight
+
+
+PokerStars Hand #144938766948:  Hold'em Limit ($3/$6 USD) - 2015/12/06 17:57:25 ET
+Table 'Spica II' 10-max Seat #10 is the button
+Seat 1: artiZzt ($72 in chips)
+Seat 10: MTails ($158.50 in chips)
+MTails: posts small blind $1
+artiZzt: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+artiZzt: raises $3 to $9
+SashaYuvelir joins the table at seat #2
+MTails: calls $3
+*** FLOP *** [Td 6c 7c]
+artiZzt: bets $3
+MTails: raises $3 to $6
+artiZzt: calls $3
+*** TURN *** [Td 6c 7c] [Jd]
+artiZzt: checks
+MTails: bets $6
+artiZzt: raises $6 to $12
+MTails: raises $6 to $18
+artiZzt: calls $6
+*** RIVER *** [Td 6c 7c Jd] [Ac]
+artiZzt: checks
+MTails: bets $6
+artiZzt: calls $6
+*** SHOW DOWN ***
+MTails: shows [6h Tc] (two pair, Tens and Sixes)
+artiZzt: shows [Th Jh] (two pair, Jacks and Tens)
+artiZzt collected $77.50 from pot
+*** SUMMARY ***
+Total pot $78 | Rake $0.50
+Board [Td 6c 7c Jd Ac]
+Seat 1: artiZzt (big blind) showed [Th Jh] and won ($77.50) with two pair, Jacks and Tens
+Seat 10: MTails (button) (small blind) showed [6h Tc] and lost with two pair, Tens and Sixes
+
+
+PokerStars Hand #144939042440:  Hold'em Limit ($3/$6 USD) - 2015/12/06 18:03:26 ET
+Table 'Spica II' 10-max Seat #1 is the button
+Seat 1: artiZzt ($125.77 in chips)
+Seat 9: BeniAA ($57.59 in chips)
+SashaYuvelir will be allowed to play after the button
+artiZzt: posts small blind $1
+alexslep: is sitting out
+BeniAA: posts big blind $3
+*** HOLE CARDS ***
+artiZzt: raises $3 to $6
+BeniAA: calls $3
+*** FLOP *** [Js Qs 9c]
+BeniAA: checks
+artiZzt: bets $3
+BeniAA: calls $3
+*** TURN *** [Js Qs 9c] [8d]
+BeniAA: checks
+artiZzt: checks
+*** RIVER *** [Js Qs 9c 8d] [9d]
+BeniAA: bets $6
+artiZzt: folds
+Uncalled bet ($6) returned to BeniAA
+BeniAA collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Js Qs 9c 8d 9d]
+Seat 1: artiZzt (button) (small blind) folded on the River
+Seat 9: BeniAA (big blind) collected ($17.64)
+
+

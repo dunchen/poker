@@ -1,0 +1,77 @@
+PokerStars Hand #175255881962:  Hold'em Limit ($3/$6 USD) - 2017/09/05 16:48:21 ET
+Table 'Nymphe' 6-max Seat #4 is the button
+Seat 4: Actionni13 ($150 in chips)
+Seat 5: Blikon ($120 in chips)
+Actionni13: posts small blind $1
+Blikon: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+Blikon: calls $3
+*** FLOP *** [2h 2s 3s]
+Blikon: checks
+Actionni13: checks
+*** TURN *** [2h 2s 3s] [3d]
+Blikon: checks
+Actionni13: checks
+*** RIVER *** [2h 2s 3s 3d] [9c]
+Blikon: checks
+Actionni13: checks
+*** SHOW DOWN ***
+Blikon: shows [8d 4s] (two pair, Threes and Deuces)
+Actionni13: shows [7s Qd] (two pair, Threes and Deuces - Queen kicker)
+Actionni13 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2h 2s 3s 3d 9c]
+Seat 4: Actionni13 (button) (small blind) showed [7s Qd] and won ($11.76) with two pair, Threes and Deuces
+Seat 5: Blikon (big blind) showed [8d 4s] and lost with two pair, Threes and Deuces
+
+
+PokerStars Hand #175255919431:  Hold'em Limit ($3/$6 USD) - 2017/09/05 16:49:07 ET
+Table 'Nymphe' 6-max Seat #4 is the button
+Seat 4: Actionni13 ($150 in chips)
+Seat 5: Blikon ($131.50 in chips)
+Actionni13: posts small blind $1
+Blikon: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: folds
+Uncalled bet ($2) returned to Blikon
+Blikon collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: Actionni13 (button) (small blind) folded before Flop
+Seat 5: Blikon (big blind) collected ($2)
+
+
+PokerStars Hand #175255899302:  Hold'em Limit ($3/$6 USD) - 2017/09/05 16:48:42 ET
+Table 'Nymphe' 6-max Seat #5 is the button
+Seat 4: Actionni13 ($155.76 in chips)
+Seat 5: Blikon ($114 in chips)
+Blikon: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+Blikon: raises $3 to $6
+Actionni13: calls $3
+*** FLOP *** [Ks 8c 3c]
+MATEKATA2 joins the table at seat #1
+Actionni13: checks
+Blikon: bets $3
+Actionni13: raises $3 to $6
+Blikon: calls $3
+*** TURN *** [Ks 8c 3c] [7d]
+Actionni13: bets $6
+Blikon: calls $6
+*** RIVER *** [Ks 8c 3c 7d] [4h]
+Actionni13: checks
+Blikon: checks
+*** SHOW DOWN ***
+Actionni13: shows [4s 5d] (a pair of Fours)
+Blikon: shows [5h 8h] (a pair of Eights)
+Blikon collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Ks 8c 3c 7d 4h]
+Seat 4: Actionni13 (big blind) showed [4s 5d] and lost with a pair of Fours
+Seat 5: Blikon (button) (small blind) showed [5h 8h] and won ($35.50) with a pair of Eights
+
+

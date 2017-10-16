@@ -1,0 +1,134 @@
+PokerStars Hand #163419526530:  Hold'em Limit ($3/$6 USD) - 2016/12/23 18:29:43 ET
+Table 'Chaka' 6-max Seat #1 is the button
+Seat 1: stiflerkk ($32.58 in chips)
+Seat 4: Actionni13 ($150 in chips)
+stiflerkk: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+stiflerkk: calls $2
+Actionni13: checks
+*** FLOP *** [Qc 3h 5d]
+Actionni13: checks
+stiflerkk: checks
+*** TURN *** [Qc 3h 5d] [3s]
+Actionni13: checks
+stiflerkk: checks
+*** RIVER *** [Qc 3h 5d 3s] [3d]
+Actionni13: bets $6
+stiflerkk: folds
+Uncalled bet ($6) returned to Actionni13
+Actionni13 collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Qc 3h 5d 3s 3d]
+Seat 1: stiflerkk (button) (small blind) folded on the River
+Seat 4: Actionni13 (big blind) collected ($5.88)
+
+
+PokerStars Hand #163419555406:  Hold'em Limit ($3/$6 USD) - 2016/12/23 18:30:18 ET
+Table 'Chaka' 6-max Seat #4 is the button
+Seat 1: stiflerkk ($29.58 in chips)
+Seat 4: Actionni13 ($152.88 in chips)
+Actionni13: posts small blind $1
+stiflerkk: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+stiflerkk: calls $3
+*** FLOP *** [Tc 5d 2s]
+stiflerkk: checks
+Actionni13: bets $3
+stiflerkk: calls $3
+*** TURN *** [Tc 5d 2s] [4s]
+stiflerkk: checks
+Actionni13: bets $6
+stiflerkk: raises $6 to $12
+ToDaFelt joins the table at seat #2
+Actionni13: calls $6
+*** RIVER *** [Tc 5d 2s 4s] [3h]
+stiflerkk: bets $6
+Actionni13: folds
+Uncalled bet ($6) returned to stiflerkk
+stiflerkk collected $41.50 from pot
+stiflerkk: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Tc 5d 2s 4s 3h]
+Seat 1: stiflerkk (big blind) collected ($41.50)
+Seat 4: Actionni13 (button) (small blind) folded on the River
+
+
+PokerStars Hand #163419754938:  Hold'em Limit ($3/$6 USD) - 2016/12/23 18:34:18 ET
+Table 'Chaka' 6-max Seat #2 is the button
+Seat 1: stiflerkk ($60.82 in chips)
+Seat 2: ToDaFelt ($99.25 in chips)
+ToDaFelt: posts small blind $1
+Actionni13: is sitting out
+markusfriebe: is sitting out
+stiflerkk: posts big blind $3
+*** HOLE CARDS ***
+markusfriebe leaves the table
+ToDaFelt: raises $3 to $6
+stiflerkk: calls $3
+*** FLOP *** [Qs Jd Jc]
+stiflerkk: checks
+ToDaFelt: bets $3
+stiflerkk: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $11.76 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qs Jd Jc]
+Seat 1: stiflerkk (big blind) folded on the Flop
+Seat 2: ToDaFelt (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #163419791193:  Hold'em Limit ($3/$6 USD) - 2016/12/23 18:35:01 ET
+Table 'Chaka' 6-max Seat #1 is the button
+Seat 1: stiflerkk ($54.82 in chips)
+Seat 2: ToDaFelt ($105.01 in chips)
+stiflerkk: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+stiflerkk: folds
+Uncalled bet ($2) returned to ToDaFelt
+ToDaFelt collected $2 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: stiflerkk (button) (small blind) folded before Flop
+Seat 2: ToDaFelt (big blind) collected ($2)
+
+
+PokerStars Hand #163419939821:  Hold'em Limit ($3/$6 USD) - 2016/12/23 18:38:03 ET
+Table 'Chaka' 6-max Seat #4 is the button
+Seat 2: ToDaFelt ($126.95 in chips)
+Seat 4: Actionni13 ($155.64 in chips)
+Actionni13: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+stiflerkk leaves the table
+ToDaFelt: calls $3
+*** FLOP *** [4s 4h Jh]
+ToDaFelt: checks
+Actionni13: bets $3
+ToDaFelt: calls $3
+*** TURN *** [4s 4h Jh] [As]
+ToDaFelt: checks
+Actionni13: bets $6
+ToDaFelt: calls $6
+*** RIVER *** [4s 4h Jh As] [6s]
+ToDaFelt: checks
+Actionni13: checks
+*** SHOW DOWN ***
+ToDaFelt: shows [Kh 7d] (a pair of Fours)
+Actionni13: mucks hand
+ToDaFelt collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4s 4h Jh As 6s]
+Seat 2: ToDaFelt (big blind) showed [Kh 7d] and won ($29.50) with a pair of Fours
+Seat 4: Actionni13 (button) (small blind) mucked
+
+

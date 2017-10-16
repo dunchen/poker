@@ -1,0 +1,122 @@
+PokerStars Hand #145116961118:  Hold'em Limit ($3/$6 USD) - 2015/12/10 7:30:13 ET
+Table 'Palatia II' 2-max Seat #2 is the button
+Seat 1: las59 ($78.76 in chips)
+Seat 2: Bastenok ($233 in chips)
+Bastenok: posts small blind $1
+las59: posts big blind $3
+*** HOLE CARDS ***
+Bastenok: raises $3 to $6
+las59: calls $3
+*** FLOP *** [8s 7s 5d]
+las59: checks
+Bastenok: bets $3
+las59: raises $3 to $6
+Bastenok: calls $3
+*** TURN *** [8s 7s 5d] [Kh]
+las59: checks
+Bastenok: bets $6
+las59: calls $6
+*** RIVER *** [8s 7s 5d Kh] [Js]
+las59: checks
+Bastenok: bets $6
+las59: calls $6
+*** SHOW DOWN ***
+Bastenok: shows [Ks 8h] (two pair, Kings and Eights)
+las59: mucks hand
+Bastenok collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8s 7s 5d Kh Js]
+Seat 1: las59 (big blind) mucked
+Seat 2: Bastenok (button) (small blind) showed [Ks 8h] and won ($47.50) with two pair, Kings and Eights
+
+
+PokerStars Hand #145116956536:  Hold'em Limit ($3/$6 USD) - 2015/12/10 7:30:04 ET
+Table 'Palatia II' 2-max Seat #1 is the button
+Seat 1: las59 ($73 in chips)
+Seat 2: Bastenok ($239 in chips)
+las59: posts small blind $1
+Bastenok: posts big blind $3
+*** HOLE CARDS ***
+las59: raises $3 to $6
+Bastenok: calls $3
+*** FLOP *** [9d Ac Ks]
+Bastenok: checks
+las59: bets $3
+Bastenok: folds
+Uncalled bet ($3) returned to las59
+las59 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9d Ac Ks]
+Seat 1: las59 (button) (small blind) collected ($11.76)
+Seat 2: Bastenok (big blind) folded on the Flop
+
+
+PokerStars Hand #145116971019:  Hold'em Limit ($3/$6 USD) - 2015/12/10 7:30:31 ET
+Table 'Palatia II' 2-max Seat #1 is the button
+Seat 1: las59 ($54.76 in chips)
+Seat 2: Bastenok ($256.50 in chips)
+las59: posts small blind $1
+Bastenok: posts big blind $3
+*** HOLE CARDS ***
+las59: raises $3 to $6
+Bastenok: calls $3
+*** FLOP *** [5h Ah Qh]
+Bastenok: checks
+las59: bets $3
+Bastenok: calls $3
+*** TURN *** [5h Ah Qh] [2s]
+Bastenok: checks
+las59: bets $6
+Bastenok: calls $6
+*** RIVER *** [5h Ah Qh 2s] [3d]
+Bastenok: checks
+las59: bets $6
+Bastenok: raises $6 to $12
+las59: calls $6
+*** SHOW DOWN ***
+Bastenok: shows [5s 4c] (a straight, Ace to Five)
+las59: mucks hand
+Bastenok collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [5h Ah Qh 2s 3d]
+Seat 1: las59 (button) (small blind) mucked
+Seat 2: Bastenok (big blind) showed [5s 4c] and won ($53.50) with a straight, Ace to Five
+
+
+PokerStars Hand #145116979810:  Hold'em Limit ($3/$6 USD) - 2015/12/10 7:30:47 ET
+Table 'Palatia II' 2-max Seat #2 is the button
+Seat 1: las59 ($27.76 in chips)
+Seat 2: Bastenok ($283 in chips)
+Bastenok: posts small blind $1
+las59: posts big blind $3
+*** HOLE CARDS ***
+Bastenok: raises $3 to $6
+las59: calls $3
+*** FLOP *** [6c 4d 2d]
+las59: checks
+Bastenok: bets $3
+las59: raises $3 to $6
+Bastenok: calls $3
+*** TURN *** [6c 4d 2d] [7c]
+las59: bets $6
+Bastenok: raises $6 to $12
+las59: calls $6
+*** RIVER *** [6c 4d 2d 7c] [3d]
+las59: checks
+Bastenok: bets $6
+las59: calls $3.76 and is all-in
+Uncalled bet ($2.24) returned to Bastenok
+*** SHOW DOWN ***
+Bastenok: shows [9h 7s] (a pair of Sevens)
+las59: mucks hand
+Bastenok collected $55.02 from pot
+*** SUMMARY ***
+Total pot $55.52 | Rake $0.50
+Board [6c 4d 2d 7c 3d]
+Seat 1: las59 (big blind) mucked
+Seat 2: Bastenok (button) (small blind) showed [9h 7s] and won ($55.02) with a pair of Sevens
+
+

@@ -1,0 +1,61 @@
+PokerStars Hand #175459796322:  Hold'em Limit ($3/$6 USD) - 2017/09/10 11:15:55 ET
+Table 'Lilium' 6-max Seat #3 is the button
+Seat 3: Puzanchik 11 ($62.20 in chips)
+Seat 4: Anchig ($120 in chips)
+Puzanchik 11: posts small blind $1
+Anchig: posts big blind $3
+*** HOLE CARDS ***
+Puzanchik 11: raises $3 to $6
+Kasperla joins the table at seat #5
+Anchig: calls $3
+*** FLOP *** [7d 5d 6s]
+vestimokrec joins the table at seat #6
+Anchig: checks
+Puzanchik 11: bets $3
+Anchig: calls $3
+*** TURN *** [7d 5d 6s] [Kh]
+Anchig: checks
+Puzanchik 11: bets $6
+Anchig: raises $6 to $12
+Puzanchik 11: raises $6 to $18
+Anchig: calls $6
+*** RIVER *** [7d 5d 6s Kh] [7c]
+Anchig: checks
+Puzanchik 11: bets $6
+Anchig: calls $6
+*** SHOW DOWN ***
+Puzanchik 11: shows [6d 6c] (a full house, Sixes full of Sevens)
+Anchig: mucks hand
+Puzanchik 11 collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [7d 5d 6s Kh 7c]
+Seat 3: Puzanchik 11 (button) (small blind) showed [6d 6c] and won ($65.50) with a full house, Sixes full of Sevens
+Seat 4: Anchig (big blind) mucked
+
+
+PokerStars Hand #175459932246:  Hold'em Limit ($3/$6 USD) - 2017/09/10 11:19:01 ET
+Table 'Lilium' 6-max Seat #6 is the button
+Seat 5: Kasperla ($103.71 in chips)
+Seat 6: vestimokrec ($95.64 in chips)
+vestimokrec: posts small blind $1
+Kasperla: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+Kasperla: calls $3
+*** FLOP *** [7h 9s 8h]
+Kasperla: checks
+vestimokrec: checks
+*** TURN *** [7h 9s 8h] [Td]
+Kasperla: bets $6
+vestimokrec: folds
+Uncalled bet ($6) returned to Kasperla
+Kasperla collected $11.76 from pot
+Kasperla: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7h 9s 8h Td]
+Seat 5: Kasperla (big blind) collected ($11.76)
+Seat 6: vestimokrec (button) (small blind) folded on the Turn
+
+

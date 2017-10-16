@@ -1,0 +1,102 @@
+PokerStars Hand #146611901682:  Hold'em Limit ($3/$6 USD) - 2016/01/07 5:10:05 ET
+Table 'Gallia' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($144.50 in chips)
+Seat 3: plummgg ($7.82 in chips)
+VolkovDmitri: posts small blind $1
+plummgg: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+plummgg: raises $1.82 to $7.82 and is all-in
+VolkovDmitri: calls $1.82
+*** FLOP *** [2c 7s Kh]
+*** TURN *** [2c 7s Kh] [6c]
+*** RIVER *** [2c 7s Kh 6c] [Ts]
+*** SHOW DOWN ***
+plummgg: shows [8s Ah] (high card Ace)
+VolkovDmitri: shows [9s 5s] (high card King)
+plummgg collected $15.33 from pot
+*** SUMMARY ***
+Total pot $15.64 | Rake $0.31
+Board [2c 7s Kh 6c Ts]
+Seat 1: VolkovDmitri (button) (small blind) showed [9s 5s] and lost with high card King
+Seat 3: plummgg (big blind) showed [8s Ah] and won ($15.33) with high card Ace
+
+
+PokerStars Hand #146611898694:  Hold'em Limit ($3/$6 USD) - 2016/01/07 5:09:58 ET
+Table 'Gallia' 6-max Seat #3 is the button
+Seat 1: VolkovDmitri ($143.50 in chips)
+Seat 3: plummgg ($8.82 in chips)
+plummgg: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+plummgg: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: VolkovDmitri (big blind) collected ($2)
+Seat 3: plummgg (button) (small blind) folded before Flop
+
+
+PokerStars Hand #146611878839:  Hold'em Limit ($3/$6 USD) - 2016/01/07 5:09:17 ET
+Table 'Gallia' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 3: plummgg ($32.82 in chips)
+VolkovDmitri: posts small blind $1
+plummgg: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+plummgg: calls $3
+*** FLOP *** [7d 3h Qh]
+plummgg: bets $3
+VolkovDmitri: raises $3 to $6
+plummgg: calls $3
+*** TURN *** [7d 3h Qh] [Ks]
+plummgg: checks
+VolkovDmitri: bets $6
+plummgg: calls $6
+*** RIVER *** [7d 3h Qh Ks] [9c]
+plummgg: checks
+VolkovDmitri: bets $6
+plummgg: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Qs Js] (a pair of Queens)
+plummgg: mucks hand
+VolkovDmitri collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7d 3h Qh Ks 9c]
+Seat 1: VolkovDmitri (button) (small blind) showed [Qs Js] and won ($47.50) with a pair of Queens
+Seat 3: plummgg (big blind) mucked
+
+
+PokerStars Hand #146611910940:  Hold'em Limit ($3/$6 USD) - 2016/01/07 5:10:24 ET
+Table 'Gallia' 6-max Seat #3 is the button
+Seat 1: VolkovDmitri ($136.68 in chips)
+Seat 3: plummgg ($15.33 in chips)
+plummgg: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+plummgg: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+plummgg: calls $3
+*** FLOP *** [7d 6h 3d]
+VolkovDmitri: bets $3
+plummgg: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+plummgg: calls $0.33 and is all-in
+Uncalled bet ($2.67) returned to VolkovDmitri
+*** TURN *** [7d 6h 3d] [4c]
+*** RIVER *** [7d 6h 3d 4c] [6d]
+*** SHOW DOWN ***
+VolkovDmitri: shows [Th Td] (two pair, Tens and Sixes)
+plummgg: shows [8h 7h] (two pair, Sevens and Sixes)
+VolkovDmitri collected $30.16 from pot
+*** SUMMARY ***
+Total pot $30.66 | Rake $0.50
+Board [7d 6h 3d 4c 6d]
+Seat 1: VolkovDmitri (big blind) showed [Th Td] and won ($30.16) with two pair, Tens and Sixes
+Seat 3: plummgg (button) (small blind) showed [8h 7h] and lost with two pair, Sevens and Sixes
+
+

@@ -1,0 +1,408 @@
+PokerStars Hand #165119093991:  Hold'em Limit ($3/$6 USD) - 2017/01/24 18:26:25 ET
+Table 'Skat' 6-max Seat #3 is the button
+Seat 3: Pasalapaka ($65.82 in chips)
+Seat 4: Actionni13 ($150 in chips)
+Pasalapaka: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+Pasalapaka: raises $3 to $6
+Actionni13: calls $3
+*** FLOP *** [2c 4c Ac]
+Actionni13: checks
+Pasalapaka: bets $3
+Actionni13: raises $3 to $6
+Pasalapaka: calls $3
+*** TURN *** [2c 4c Ac] [Jc]
+Actionni13: bets $6
+Pasalapaka: calls $6
+*** RIVER *** [2c 4c Ac Jc] [Jd]
+Actionni13: bets $6
+Pasalapaka: calls $6
+*** SHOW DOWN ***
+Actionni13: shows [3d As] (two pair, Aces and Jacks)
+Pasalapaka: mucks hand
+Actionni13 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2c 4c Ac Jc Jd]
+Seat 3: Pasalapaka (button) (small blind) mucked
+Seat 4: Actionni13 (big blind) showed [3d As] and won ($47.50) with two pair, Aces and Jacks
+
+
+PokerStars Hand #165119109849:  Hold'em Limit ($3/$6 USD) - 2017/01/24 18:26:45 ET
+Table 'Skat' 6-max Seat #4 is the button
+Seat 3: Pasalapaka ($41.82 in chips)
+Seat 4: Actionni13 ($173.50 in chips)
+Actionni13: posts small blind $1
+Pasalapaka: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+Pasalapaka: raises $3 to $9
+Actionni13: calls $3
+*** FLOP *** [7h 6h Qc]
+Pasalapaka: bets $3
+Actionni13: calls $3
+*** TURN *** [7h 6h Qc] [4d]
+Pasalapaka: bets $6
+Actionni13: calls $6
+*** RIVER *** [7h 6h Qc 4d] [3s]
+Pasalapaka: bets $6
+Actionni13: calls $6
+*** SHOW DOWN ***
+Pasalapaka: shows [As 9c] (high card Ace)
+Actionni13: shows [Tc Qd] (a pair of Queens)
+Actionni13 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7h 6h Qc 4d 3s]
+Seat 3: Pasalapaka (big blind) showed [As 9c] and lost with high card Ace
+Seat 4: Actionni13 (button) (small blind) showed [Tc Qd] and won ($47.50) with a pair of Queens
+
+
+PokerStars Hand #165119150631:  Hold'em Limit ($3/$6 USD) - 2017/01/24 18:27:37 ET
+Table 'Skat' 6-max Seat #4 is the button
+Seat 3: Pasalapaka ($35.14 in chips)
+Seat 4: Actionni13 ($179.18 in chips)
+Actionni13: posts small blind $1
+Pasalapaka: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+Pasalapaka: folds
+Uncalled bet ($3) returned to Actionni13
+Actionni13 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: Pasalapaka (big blind) folded before Flop
+Seat 4: Actionni13 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #165119134528:  Hold'em Limit ($3/$6 USD) - 2017/01/24 18:27:17 ET
+Table 'Skat' 6-max Seat #3 is the button
+Seat 3: Pasalapaka ($17.82 in chips)
+Seat 4: Actionni13 ($197 in chips)
+Pasalapaka: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+Pasalapaka: raises $3 to $6
+Actionni13: raises $3 to $9
+Pasalapaka: raises $3 to $12
+Betting is capped
+Actionni13: calls $3
+*** FLOP *** [4s 6s 8s]
+Actionni13: checks
+Pasalapaka: bets $3
+Actionni13: calls $3
+*** TURN *** [4s 6s 8s] [4d]
+Actionni13: checks
+Pasalapaka: bets $2.82 and is all-in
+Actionni13: calls $2.82
+*** RIVER *** [4s 6s 8s 4d] [Ks]
+*** SHOW DOWN ***
+Actionni13: shows [Qd Kd] (two pair, Kings and Fours)
+Pasalapaka: shows [4h 7h] (three of a kind, Fours)
+Pasalapaka collected $35.14 from pot
+*** SUMMARY ***
+Total pot $35.64 | Rake $0.50
+Board [4s 6s 8s 4d Ks]
+Seat 3: Pasalapaka (button) (small blind) showed [4h 7h] and won ($35.14) with three of a kind, Fours
+Seat 4: Actionni13 (big blind) showed [Qd Kd] and lost with two pair, Kings and Fours
+
+
+PokerStars Hand #165119155916:  Hold'em Limit ($3/$6 USD) - 2017/01/24 18:27:43 ET
+Table 'Skat' 6-max Seat #3 is the button
+Seat 3: Pasalapaka ($32.14 in chips)
+Seat 4: Actionni13 ($182.18 in chips)
+Pasalapaka: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+Pasalapaka: raises $3 to $6
+Actionni13: calls $3
+*** FLOP *** [6d 5c 9h]
+Actionni13: checks
+Pasalapaka: bets $3
+Actionni13: calls $3
+*** TURN *** [6d 5c 9h] [7c]
+Actionni13: checks
+Pasalapaka: checks
+*** RIVER *** [6d 5c 9h 7c] [2d]
+Actionni13: bets $6
+Pasalapaka: calls $6
+*** SHOW DOWN ***
+Actionni13: shows [Js 5s] (a pair of Fives)
+Pasalapaka: mucks hand
+Actionni13 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6d 5c 9h 7c 2d]
+Seat 3: Pasalapaka (button) (small blind) mucked
+Seat 4: Actionni13 (big blind) showed [Js 5s] and won ($29.50) with a pair of Fives
+
+
+PokerStars Hand #165119183192:  Hold'em Limit ($3/$6 USD) - 2017/01/24 18:28:18 ET
+Table 'Skat' 6-max Seat #4 is the button
+Seat 3: Pasalapaka ($17.14 in chips)
+Seat 4: Actionni13 ($196.68 in chips)
+Actionni13: posts small blind $1
+Pasalapaka: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: folds
+Uncalled bet ($2) returned to Pasalapaka
+Pasalapaka collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: Pasalapaka (big blind) collected ($2)
+Seat 4: Actionni13 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #165119196524:  Hold'em Limit ($3/$6 USD) - 2017/01/24 18:28:35 ET
+Table 'Skat' 6-max Seat #3 is the button
+Seat 3: Pasalapaka ($18.14 in chips)
+Seat 4: Actionni13 ($195.68 in chips)
+Pasalapaka: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+Pasalapaka: raises $3 to $6
+Actionni13: calls $3
+*** FLOP *** [Ac 7c 3d]
+Actionni13: checks
+Pasalapaka: bets $3
+Actionni13: calls $3
+*** TURN *** [Ac 7c 3d] [Ts]
+Actionni13: checks
+Pasalapaka: bets $6
+Actionni13: folds
+Uncalled bet ($6) returned to Pasalapaka
+Pasalapaka collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ac 7c 3d Ts]
+Seat 3: Pasalapaka (button) (small blind) collected ($17.64)
+Seat 4: Actionni13 (big blind) folded on the Turn
+
+
+PokerStars Hand #165119210304:  Hold'em Limit ($3/$6 USD) - 2017/01/24 18:28:53 ET
+Table 'Skat' 6-max Seat #4 is the button
+Seat 3: Pasalapaka ($26.78 in chips)
+Seat 4: Actionni13 ($186.68 in chips)
+Actionni13: posts small blind $1
+Pasalapaka: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+Pasalapaka: calls $3
+*** FLOP *** [Kh 3d 6c]
+Pasalapaka: checks
+Actionni13: bets $3
+Pasalapaka: calls $3
+*** TURN *** [Kh 3d 6c] [Qd]
+Pasalapaka: checks
+Actionni13: bets $6
+Pasalapaka: folds
+Uncalled bet ($6) returned to Actionni13
+Actionni13 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kh 3d 6c Qd]
+Seat 3: Pasalapaka (big blind) folded on the Turn
+Seat 4: Actionni13 (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #165119224461:  Hold'em Limit ($3/$6 USD) - 2017/01/24 18:29:11 ET
+Table 'Skat' 6-max Seat #3 is the button
+Seat 3: Pasalapaka ($17.78 in chips)
+Seat 4: Actionni13 ($195.32 in chips)
+Pasalapaka: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+Pasalapaka: raises $3 to $6
+Actionni13: calls $3
+*** FLOP *** [7h 3s Ah]
+Actionni13: checks
+Pasalapaka: bets $3
+Actionni13: calls $3
+*** TURN *** [7h 3s Ah] [2d]
+Actionni13: checks
+Pasalapaka: bets $6
+Actionni13: folds
+Uncalled bet ($6) returned to Pasalapaka
+Pasalapaka collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7h 3s Ah 2d]
+Seat 3: Pasalapaka (button) (small blind) collected ($17.64)
+Seat 4: Actionni13 (big blind) folded on the Turn
+
+
+PokerStars Hand #165119241598:  Hold'em Limit ($3/$6 USD) - 2017/01/24 18:29:32 ET
+Table 'Skat' 6-max Seat #4 is the button
+Seat 3: Pasalapaka ($26.42 in chips)
+Seat 4: Actionni13 ($186.32 in chips)
+Actionni13: posts small blind $1
+Pasalapaka: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: folds
+Uncalled bet ($2) returned to Pasalapaka
+Pasalapaka collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: Pasalapaka (big blind) collected ($2)
+Seat 4: Actionni13 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #165119262712:  Hold'em Limit ($3/$6 USD) - 2017/01/24 18:29:59 ET
+Table 'Skat' 6-max Seat #4 is the button
+Seat 3: Pasalapaka ($38.94 in chips)
+Seat 4: Actionni13 ($173.32 in chips)
+Actionni13: posts small blind $1
+Pasalapaka: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: folds
+Uncalled bet ($2) returned to Pasalapaka
+Pasalapaka collected $2 from pot
+Pasalapaka: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: Pasalapaka (big blind) collected ($2)
+Seat 4: Actionni13 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #165119245208:  Hold'em Limit ($3/$6 USD) - 2017/01/24 18:29:37 ET
+Table 'Skat' 6-max Seat #3 is the button
+Seat 3: Pasalapaka ($27.42 in chips)
+Seat 4: Actionni13 ($185.32 in chips)
+Pasalapaka: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+Pasalapaka: raises $3 to $6
+Actionni13: raises $3 to $9
+Pasalapaka: calls $3
+*** FLOP *** [Td Tc 9d]
+Actionni13: bets $3
+Pasalapaka: raises $3 to $6
+Actionni13: folds
+Uncalled bet ($3) returned to Pasalapaka
+Pasalapaka collected $23.52 from pot
+Pasalapaka: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Td Tc 9d]
+Seat 3: Pasalapaka (button) (small blind) collected ($23.52)
+Seat 4: Actionni13 (big blind) folded on the Flop
+
+
+PokerStars Hand #165119266382:  Hold'em Limit ($3/$6 USD) - 2017/01/24 18:30:04 ET
+Table 'Skat' 6-max Seat #3 is the button
+Seat 3: Pasalapaka ($39.94 in chips)
+Seat 4: Actionni13 ($172.32 in chips)
+Pasalapaka: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+Pasalapaka: folds
+Uncalled bet ($2) returned to Actionni13
+Actionni13 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: Pasalapaka (button) (small blind) folded before Flop
+Seat 4: Actionni13 (big blind) collected ($2)
+
+
+PokerStars Hand #165119270150:  Hold'em Limit ($3/$6 USD) - 2017/01/24 18:30:09 ET
+Table 'Skat' 6-max Seat #4 is the button
+Seat 3: Pasalapaka ($38.94 in chips)
+Seat 4: Actionni13 ($173.32 in chips)
+Actionni13: posts small blind $1
+Pasalapaka: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+Pasalapaka: folds
+Uncalled bet ($3) returned to Actionni13
+Actionni13 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: Pasalapaka (big blind) folded before Flop
+Seat 4: Actionni13 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #165119275474:  Hold'em Limit ($3/$6 USD) - 2017/01/24 18:30:15 ET
+Table 'Skat' 6-max Seat #3 is the button
+Seat 3: Pasalapaka ($35.94 in chips)
+Seat 4: Actionni13 ($176.32 in chips)
+Pasalapaka: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+Pasalapaka: raises $3 to $6
+Actionni13: calls $3
+*** FLOP *** [4d 9h 8c]
+Actionni13: checks
+Pasalapaka: bets $3
+Actionni13: calls $3
+*** TURN *** [4d 9h 8c] [Tc]
+Actionni13: checks
+Pasalapaka: checks
+*** RIVER *** [4d 9h 8c Tc] [7s]
+Actionni13: bets $6
+Pasalapaka: folds
+Uncalled bet ($6) returned to Actionni13
+Actionni13 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4d 9h 8c Tc 7s]
+Seat 3: Pasalapaka (button) (small blind) folded on the River
+Seat 4: Actionni13 (big blind) collected ($17.64)
+
+
+PokerStars Hand #165119288798:  Hold'em Limit ($3/$6 USD) - 2017/01/24 18:30:32 ET
+Table 'Skat' 6-max Seat #4 is the button
+Seat 3: Pasalapaka ($26.94 in chips)
+Seat 4: Actionni13 ($184.96 in chips)
+Actionni13: posts small blind $1
+Pasalapaka: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+Pasalapaka: calls $3
+*** FLOP *** [7h 7s 5d]
+Pasalapaka: checks
+Actionni13: bets $3
+Pasalapaka: raises $3 to $6
+Actionni13: calls $3
+*** TURN *** [7h 7s 5d] [Jh]
+Pasalapaka: bets $6
+Actionni13: calls $6
+*** RIVER *** [7h 7s 5d Jh] [8c]
+Pasalapaka: bets $6
+Actionni13: raises $6 to $12
+Pasalapaka: calls $2.94 and is all-in
+Uncalled bet ($3.06) returned to Actionni13
+*** SHOW DOWN ***
+Actionni13: shows [Qc Qh] (two pair, Queens and Sevens)
+Pasalapaka: shows [Jd Th] (two pair, Jacks and Sevens)
+Actionni13 collected $53.38 from pot
+*** SUMMARY ***
+Total pot $53.88 | Rake $0.50
+Board [7h 7s 5d Jh 8c]
+Seat 3: Pasalapaka (big blind) showed [Jd Th] and lost with two pair, Jacks and Sevens
+Seat 4: Actionni13 (button) (small blind) showed [Qc Qh] and won ($53.38) with two pair, Queens and Sevens
+
+
+PokerStars Hand #165120313564:  Hold'em Limit ($3/$6 USD) - 2017/01/24 18:53:00 ET
+Table 'Skat' 6-max Seat #6 is the button
+Seat 4: Actionni13 ($211.40 in chips)
+Seat 6: Kleeblatt180 ($30 in chips)
+Kleeblatt180: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+Kleeblatt180: calls $2
+Actionni13: raises $3 to $6
+Kleeblatt180: calls $3
+*** FLOP *** [4s Tc 2c]
+Actionni13: bets $3
+Kleeblatt180: folds
+Uncalled bet ($3) returned to Actionni13
+Actionni13 collected $11.76 from pot
+Kleeblatt180 leaves the table
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4s Tc 2c]
+Seat 4: Actionni13 (big blind) collected ($11.76)
+Seat 6: Kleeblatt180 (button) (small blind) folded on the Flop
+
+

@@ -1,0 +1,94 @@
+PokerStars Hand #146676275948:  Hold'em Limit ($3/$6 USD) - 2016/01/08 8:42:34 ET
+Table 'Palisana' 6-max Seat #1 is the button
+Seat 1: hhughes369 ($199.92 in chips)
+Seat 4: Agrotait ($78.76 in chips)
+hhughes369: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+hhughes369: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [Qc 8d Th]
+Agrotait: checks
+hhughes369: bets $3
+Agrotait: calls $3
+*** TURN *** [Qc 8d Th] [Td]
+Agrotait: checks
+hhughes369: bets $6
+Agrotait: calls $6
+*** RIVER *** [Qc 8d Th Td] [6d]
+Agrotait: checks
+hhughes369: checks
+*** SHOW DOWN ***
+Agrotait: shows [Ad 3d] (a flush, Ace high)
+hhughes369: mucks hand
+Agrotait collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qc 8d Th Td 6d]
+Seat 1: hhughes369 (button) (small blind) mucked
+Seat 4: Agrotait (big blind) showed [Ad 3d] and won ($29.50) with a flush, Ace high
+
+
+PokerStars Hand #146676321519:  Hold'em Limit ($3/$6 USD) - 2016/01/08 8:43:36 ET
+Table 'Palisana' 6-max Seat #1 is the button
+Seat 1: hhughes369 ($163.92 in chips)
+Seat 4: Agrotait ($113.76 in chips)
+hhughes369: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+hhughes369: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [9c 6s Qh]
+Agrotait: checks
+hhughes369: checks
+*** TURN *** [9c 6s Qh] [Ts]
+Agrotait: checks
+hhughes369: bets $6
+Agrotait: calls $6
+*** RIVER *** [9c 6s Qh Ts] [9h]
+Agrotait: checks
+hhughes369: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+hhughes369: shows [Ah Tc] (two pair, Tens and Nines)
+Agrotait: mucks hand
+hhughes369 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [9c 6s Qh Ts 9h]
+Seat 1: hhughes369 (button) (small blind) showed [Ah Tc] and won ($35.50) with two pair, Tens and Nines
+Seat 4: Agrotait (big blind) mucked
+
+
+PokerStars Hand #146676302992:  Hold'em Limit ($3/$6 USD) - 2016/01/08 8:43:11 ET
+Table 'Palisana' 6-max Seat #4 is the button
+Seat 1: hhughes369 ($184.92 in chips)
+Seat 4: Agrotait ($93.26 in chips)
+Agrotait: posts small blind $1
+hhughes369: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+hhughes369: calls $3
+*** FLOP *** [2s 4d Tc]
+hhughes369: checks
+Agrotait: bets $3
+hhughes369: calls $3
+*** TURN *** [2s 4d Tc] [Td]
+hhughes369: checks
+Agrotait: bets $6
+hhughes369: calls $6
+*** RIVER *** [2s 4d Tc Td] [Jh]
+hhughes369: checks
+Agrotait: bets $6
+hhughes369: calls $6
+*** SHOW DOWN ***
+Agrotait: shows [8h 4s] (two pair, Tens and Fours)
+hhughes369: mucks hand
+Agrotait collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2s 4d Tc Td Jh]
+Seat 1: hhughes369 (big blind) mucked
+Seat 4: Agrotait (button) (small blind) showed [8h 4s] and won ($41.50) with two pair, Tens and Fours
+
+

@@ -1,0 +1,66 @@
+PokerStars Hand #151708633841:  Hold'em Limit ($3/$6 USD) - 2016/04/10 9:14:57 ET
+Table 'Kalm' 6-max Seat #4 is the button
+Seat 3: SACHAVT ($33 in chips)
+Seat 4: Agrotait ($69 in chips)
+Agrotait: posts small blind $1
+SACHAVT: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+SACHAVT: calls $3
+*** FLOP *** [4s 4c 7h]
+SACHAVT: checks
+Agrotait: bets $3
+SACHAVT: calls $3
+*** TURN *** [4s 4c 7h] [9c]
+SACHAVT: checks
+Agrotait: bets $6
+SACHAVT: raises $6 to $12
+Agrotait: calls $6
+*** RIVER *** [4s 4c 7h 9c] [Ac]
+SACHAVT: checks
+Agrotait: checks
+*** SHOW DOWN ***
+SACHAVT: shows [Kd 7d] (two pair, Sevens and Fours)
+Agrotait: mucks hand
+SACHAVT collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [4s 4c 7h 9c Ac]
+Seat 3: SACHAVT (big blind) showed [Kd 7d] and won ($41.50) with two pair, Sevens and Fours
+Seat 4: Agrotait (button) (small blind) mucked
+
+
+PokerStars Hand #151708662514:  Hold'em Limit ($3/$6 USD) - 2016/04/10 9:15:40 ET
+Table 'Kalm' 6-max Seat #3 is the button
+Seat 3: SACHAVT ($53.50 in chips)
+Seat 4: Agrotait ($72 in chips)
+SACHAVT: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+SACHAVT: raises $3 to $6
+liolilove joins the table at seat #5
+Agrotait: calls $3
+*** FLOP *** [3d 4d 7h]
+Agrotait: checks
+SACHAVT: bets $3
+Agrotait: raises $3 to $6
+SACHAVT: calls $3
+*** TURN *** [3d 4d 7h] [Qs]
+Agrotait: bets $6
+SACHAVT: raises $6 to $12
+Agrotait: calls $6
+*** RIVER *** [3d 4d 7h Qs] [5h]
+Agrotait: checks
+SACHAVT: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+SACHAVT: shows [8c 8d] (a pair of Eights)
+Agrotait: mucks hand
+SACHAVT collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [3d 4d 7h Qs 5h]
+Seat 3: SACHAVT (button) (small blind) showed [8c 8d] and won ($59.50) with a pair of Eights
+Seat 4: Agrotait (big blind) mucked
+
+

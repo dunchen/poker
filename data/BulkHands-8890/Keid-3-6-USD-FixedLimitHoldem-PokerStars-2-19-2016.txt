@@ -1,0 +1,79 @@
+PokerStars Hand #149078822373:  Hold'em Limit ($3/$6 USD) - 2016/02/19 15:10:20 ET
+Table 'Keid' 10-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 10: msanyi ($44.50 in chips)
+VolkovDmitri: posts small blind $1
+msanyi: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+msanyi: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [4h Td 9c]
+msanyi: checks
+VolkovDmitri: checks
+*** TURN *** [4h Td 9c] [Qd]
+msanyi: bets $6
+SmellyToes4u joins the table at seat #2
+VolkovDmitri: folds
+Uncalled bet ($6) returned to msanyi
+msanyi collected $17.64 from pot
+msanyi: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4h Td 9c Qd]
+Seat 1: VolkovDmitri (button) (small blind) folded on the Turn
+Seat 10: msanyi (big blind) collected ($17.64)
+
+
+PokerStars Hand #149078845000:  Hold'em Limit ($3/$6 USD) - 2016/02/19 15:10:43 ET
+Table 'Keid' 10-max Seat #10 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 10: msanyi ($53.14 in chips)
+msanyi: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+msanyi: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: VolkovDmitri (big blind) collected ($2)
+Seat 10: msanyi (button) (small blind) folded before Flop
+
+
+PokerStars Hand #149079024313:  Hold'em Limit ($3/$6 USD) - 2016/02/19 15:13:45 ET
+Table 'Keid' 10-max Seat #2 is the button
+Seat 2: SmellyToes4u ($66.28 in chips)
+Seat 3: SirRomanov ($92.74 in chips)
+SmellyToes4u: posts small blind $1
+SirRomanov: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri leaves the table
+msanyi leaves the table
+SmellyToes4u: raises $3 to $6
+SirRomanov: raises $3 to $9
+hauilen joins the table at seat #6
+SmellyToes4u: calls $3
+*** FLOP *** [9d Qd 3d]
+SirRomanov: bets $3
+SmellyToes4u: calls $3
+*** TURN *** [9d Qd 3d] [Qs]
+SirRomanov: bets $6
+SmellyToes4u: raises $6 to $12
+SirRomanov: calls $6
+*** RIVER *** [9d Qd 3d Qs] [3h]
+SirRomanov: checks
+ZinZar joins the table at seat #7
+SmellyToes4u: checks
+*** SHOW DOWN ***
+SirRomanov: shows [7c 7d] (two pair, Queens and Sevens)
+SmellyToes4u: mucks hand
+SirRomanov collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9d Qd 3d Qs 3h]
+Seat 2: SmellyToes4u (button) (small blind) mucked
+Seat 3: SirRomanov (big blind) showed [7c 7d] and won ($47.50) with two pair, Queens and Sevens
+
+

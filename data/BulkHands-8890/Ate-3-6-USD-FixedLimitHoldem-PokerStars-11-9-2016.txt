@@ -1,0 +1,31 @@
+PokerStars Hand #161121996919:  Hold'em Limit ($3/$6 USD) - 2016/11/08 20:57:35 ET
+Table 'Ate' 6-max Seat #2 is the button
+Seat 1: RaisemyNut$ ($405.64 in chips)
+Seat 2: ToDaFelt ($322.41 in chips)
+ToDaFelt: posts small blind $1
+sgerrard4: is sitting out
+RaisemyNut$: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+sgerrard4 leaves the table
+RaisemyNut$: calls $3
+*** FLOP *** [Jh 2c Ah]
+RaisemyNut$: checks
+ToDaFelt: checks
+*** TURN *** [Jh 2c Ah] [8c]
+RaisemyNut$: checks
+ToDaFelt: checks
+*** RIVER *** [Jh 2c Ah 8c] [Ad]
+RaisemyNut$: checks
+ToDaFelt: checks
+*** SHOW DOWN ***
+RaisemyNut$: shows [Ks 3c] (a pair of Aces)
+ToDaFelt: mucks hand
+RaisemyNut$ collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jh 2c Ah 8c Ad]
+Seat 1: RaisemyNut$ (big blind) showed [Ks 3c] and won ($11.76) with a pair of Aces
+Seat 2: ToDaFelt (button) (small blind) mucked
+
+

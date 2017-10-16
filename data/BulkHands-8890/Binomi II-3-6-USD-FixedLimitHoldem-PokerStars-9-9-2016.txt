@@ -1,0 +1,31 @@
+PokerStars Hand #158388269371:  Hold'em Limit ($3/$6 USD) - 2016/09/09 17:01:01 ET
+Table 'Binomi II' 10-max Seat #9 is the button
+Seat 5: Nicramus ($43.95 in chips)
+Seat 9: GoliafUa ($117 in chips)
+GoliafUa: posts small blind $1
+Nicramus: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa: raises $3 to $6
+BuzovaPro joins the table at seat #6
+Nicramus: calls $3
+*** FLOP *** [2h 8h 8c]
+Nicramus: checks
+GoliafUa: bets $3
+Nicramus: calls $3
+*** TURN *** [2h 8h 8c] [5s]
+Nicramus: bets $6
+GoliafUa: calls $6
+*** RIVER *** [2h 8h 8c 5s] [Js]
+Nicramus: bets $6
+GoliafUa: calls $6
+*** SHOW DOWN ***
+Nicramus: shows [Jc 5h] (two pair, Jacks and Eights)
+GoliafUa: mucks hand
+Nicramus collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2h 8h 8c 5s Js]
+Seat 5: Nicramus (big blind) showed [Jc 5h] and won ($41.50) with two pair, Jacks and Eights
+Seat 9: GoliafUa (button) (small blind) mucked
+
+

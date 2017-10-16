@@ -1,0 +1,65 @@
+PokerStars Hand #165281003195:  Hold'em Limit ($3/$6 USD) - 2017/01/28 0:20:07 ET
+Table 'Salvia' 6-max Seat #2 is the button
+Seat 2: Ramosh1974 ($120 in chips)
+Seat 4: Agrotait ($72 in chips)
+Ramosh1974: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+Ramosh1974: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [6h 2c 2d]
+Agrotait: checks
+MissEKAmouse joins the table at seat #3
+Ramosh1974: checks
+*** TURN *** [6h 2c 2d] [6d]
+TheCRIdol joins the table at seat #1
+Agrotait: bets $6
+Ramosh1974: calls $6
+*** RIVER *** [6h 2c 2d 6d] [7c]
+Agrotait: checks
+Ramosh1974: checks
+*** SHOW DOWN ***
+Agrotait: shows [9s Th] (two pair, Sixes and Deuces)
+Ramosh1974: shows [8c Qh] (two pair, Sixes and Deuces - Queen kicker)
+Ramosh1974 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [6h 2c 2d 6d 7c]
+Seat 2: Ramosh1974 (button) (small blind) showed [8c Qh] and won ($23.52) with two pair, Sixes and Deuces
+Seat 4: Agrotait (big blind) showed [9s Th] and lost with two pair, Sixes and Deuces
+
+
+PokerStars Hand #165281161188:  Hold'em Limit ($3/$6 USD) - 2017/01/28 0:28:53 ET
+Table 'Salvia' 6-max Seat #6 is the button
+Seat 3: MissEKAmouse ($142.60 in chips)
+Seat 6: Petersnr ($36 in chips)
+Petersnr: posts small blind $1
+TheCRIdol: is sitting out
+MissEKAmouse: posts big blind $3
+*** HOLE CARDS ***
+Petersnr: calls $2
+MissEKAmouse: raises $3 to $6
+Petersnr: calls $3
+*** FLOP *** [7h 2s 3h]
+TheCRIdol leaves the table
+MissEKAmouse: bets $3
+Petersnr: calls $3
+*** TURN *** [7h 2s 3h] [4h]
+MissEKAmouse: bets $6
+Petersnr: raises $6 to $12
+MissEKAmouse: raises $6 to $18
+Petersnr: calls $6
+*** RIVER *** [7h 2s 3h 4h] [7c]
+MissEKAmouse: bets $6
+Petersnr: calls $6
+*** SHOW DOWN ***
+MissEKAmouse: shows [As 5h] (a straight, Ace to Five)
+Petersnr: mucks hand
+MissEKAmouse collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [7h 2s 3h 4h 7c]
+Seat 3: MissEKAmouse (big blind) showed [As 5h] and won ($65.50) with a straight, Ace to Five
+Seat 6: Petersnr (button) (small blind) mucked
+
+

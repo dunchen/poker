@@ -1,0 +1,85 @@
+PokerStars Hand #150992804677:  Hold'em Limit ($3/$6 USD) - 2016/03/27 0:15:57 ET
+Table 'Armisticia' 10-max Seat #5 is the button
+Seat 5: REP-venlo ($55.27 in chips)
+Seat 7: Mudager ($120 in chips)
+REP-venlo: posts small blind $1
+Mudager: posts big blind $3
+*** HOLE CARDS ***
+REP-venlo: calls $2
+Mudager: raises $3 to $6
+REP-venlo: calls $3
+*** FLOP *** [5s 7h 2s]
+Mudager: bets $3
+REP-venlo: raises $3 to $6
+Mudager: raises $3 to $9
+REP-venlo: raises $3 to $12
+Betting is capped
+Mudager: calls $3
+*** TURN *** [5s 7h 2s] [2h]
+Mudager: checks
+REP-venlo: bets $6
+Mudager: raises $6 to $12
+REP-venlo: calls $6
+*** RIVER *** [5s 7h 2s 2h] [6d]
+Mudager: bets $6
+Tnz204 joins the table at seat #8
+REP-venlo: calls $6
+*** SHOW DOWN ***
+Mudager: shows [Tc Th] (two pair, Tens and Deuces)
+REP-venlo: mucks hand
+Mudager collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [5s 7h 2s 2h 6d]
+Seat 5: REP-venlo (button) (small blind) mucked
+Seat 7: Mudager (big blind) showed [Tc Th] and won ($71.50) with two pair, Tens and Deuces
+
+
+PokerStars Hand #150992841863:  Hold'em Limit ($3/$6 USD) - 2016/03/27 0:18:00 ET
+Table 'Armisticia' 10-max Seat #8 is the button
+Seat 7: Mudager ($163.16 in chips)
+Seat 8: Tnz204 ($141.81 in chips)
+Tnz204: posts small blind $1
+Mudager: posts big blind $3
+*** HOLE CARDS ***
+Tnz204: raises $3 to $6
+Mudager: calls $3
+*** FLOP *** [7d 4c Qs]
+Mudager: checks
+Tnz204: checks
+*** TURN *** [7d 4c Qs] [4h]
+Mudager: bets $6
+Tnz204: folds
+Uncalled bet ($6) returned to Mudager
+Mudager collected $11.76 from pot
+Mudager: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7d 4c Qs 4h]
+Seat 7: Mudager (big blind) collected ($11.76)
+Seat 8: Tnz204 (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #150992846001:  Hold'em Limit ($3/$6 USD) - 2016/03/27 0:18:14 ET
+Table 'Armisticia' 10-max Seat #7 is the button
+Seat 7: Mudager ($168.92 in chips)
+Seat 8: Tnz204 ($135.81 in chips)
+Mudager: posts small blind $1
+Tnz204: posts big blind $3
+*** HOLE CARDS ***
+Mudager: raises $3 to $6
+Tnz204: calls $3
+*** FLOP *** [Jd As 5h]
+Tnz204: checks
+Mudager: bets $3
+Tnz204: folds
+Uncalled bet ($3) returned to Mudager
+Mudager collected $11.76 from pot
+Mudager: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jd As 5h]
+Seat 7: Mudager (button) (small blind) collected ($11.76)
+Seat 8: Tnz204 (big blind) folded on the Flop
+
+

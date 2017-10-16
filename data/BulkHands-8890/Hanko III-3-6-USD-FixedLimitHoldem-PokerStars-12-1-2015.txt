@@ -1,0 +1,79 @@
+PokerStars Hand #144675052697:  Hold'em Limit ($3/$6 USD) - 2015/12/01 15:11:45 ET
+Table 'Hanko III' 2-max Seat #2 is the button
+Seat 1: kolaz03 ($86.38 in chips)
+Seat 2: parconxxx ($17.28 in chips)
+parconxxx: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+parconxxx: calls $2
+kolaz03: checks
+*** FLOP *** [3c 6c Ac]
+kolaz03: bets $3
+parconxxx: calls $3
+*** TURN *** [3c 6c Ac] [8d]
+kolaz03: bets $6
+parconxxx: calls $6
+*** RIVER *** [3c 6c Ac 8d] [5c]
+kolaz03: bets $6
+parconxxx: calls $5.28 and is all-in
+Uncalled bet ($0.72) returned to kolaz03
+*** SHOW DOWN ***
+kolaz03: shows [5s 6d] (two pair, Sixes and Fives)
+parconxxx: shows [6h 7s] (a pair of Sixes)
+kolaz03 collected $34.06 from pot
+*** SUMMARY ***
+Total pot $34.56 | Rake $0.50
+Board [3c 6c Ac 8d 5c]
+Seat 1: kolaz03 (big blind) showed [5s 6d] and won ($34.06) with two pair, Sixes and Fives
+Seat 2: parconxxx (button) (small blind) showed [6h 7s] and lost with a pair of Sixes
+
+
+PokerStars Hand #144675038004:  Hold'em Limit ($3/$6 USD) - 2015/12/01 15:11:31 ET
+Table 'Hanko III' 2-max Seat #1 is the button
+Seat 1: kolaz03 ($80.62 in chips)
+Seat 2: parconxxx ($23.28 in chips)
+kolaz03: posts small blind $1
+parconxxx: posts big blind $3
+*** HOLE CARDS ***
+kolaz03: raises $3 to $6
+parconxxx: calls $3
+*** FLOP *** [Qs 3h Td]
+parconxxx: checks
+kolaz03: bets $3
+parconxxx: folds
+Uncalled bet ($3) returned to kolaz03
+kolaz03 collected $11.76 from pot
+kolaz03: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qs 3h Td]
+Seat 1: kolaz03 (button) (small blind) collected ($11.76)
+Seat 2: parconxxx (big blind) folded on the Flop
+
+
+PokerStars Hand #144675014194:  Hold'em Limit ($3/$6 USD) - 2015/12/01 15:11:07 ET
+Table 'Hanko III' 2-max Seat #2 is the button
+Seat 1: kolaz03 ($92.50 in chips)
+Seat 2: parconxxx ($11.88 in chips)
+parconxxx: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+parconxxx: raises $3 to $6
+kolaz03: raises $3 to $9
+parconxxx: raises $2.88 to $11.88 and is all-in
+Betting is capped
+kolaz03: calls $2.88
+*** FLOP *** [Jh 3s Qs]
+*** TURN *** [Jh 3s Qs] [Jc]
+*** RIVER *** [Jh 3s Qs Jc] [Kd]
+*** SHOW DOWN ***
+kolaz03: shows [2h Qc] (two pair, Queens and Jacks)
+parconxxx: shows [9s Td] (a straight, Nine to King)
+parconxxx collected $23.28 from pot
+*** SUMMARY ***
+Total pot $23.76 | Rake $0.48
+Board [Jh 3s Qs Jc Kd]
+Seat 1: kolaz03 (big blind) showed [2h Qc] and lost with two pair, Queens and Jacks
+Seat 2: parconxxx (button) (small blind) showed [9s Td] and won ($23.28) with a straight, Nine to King
+
+

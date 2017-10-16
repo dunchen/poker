@@ -1,0 +1,86 @@
+PokerStars Hand #160016212477:  Hold'em Limit ($3/$6 USD) - 2016/10/16 12:45:33 ET
+Table 'Kalevala' 10-max Seat #6 is the button
+Seat 5: ChicagoBull4 ($78.27 in chips)
+Seat 6: FHstyles ($90 in chips)
+FHstyles: posts small blind $1
+ChicagoBull4: posts big blind $3
+*** HOLE CARDS ***
+FHstyles: raises $3 to $6
+ChicagoBull4: calls $3
+*** FLOP *** [Js Ad 5h]
+ChicagoBull4: checks
+FHstyles: bets $3
+ChicagoBull4: folds
+Uncalled bet ($3) returned to FHstyles
+FHstyles collected $11.76 from pot
+FHstyles: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Js Ad 5h]
+Seat 5: ChicagoBull4 (big blind) folded on the Flop
+Seat 6: FHstyles (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #160016225627:  Hold'em Limit ($3/$6 USD) - 2016/10/16 12:45:48 ET
+Table 'Kalevala' 10-max Seat #5 is the button
+Seat 5: ChicagoBull4 ($72.27 in chips)
+Seat 6: FHstyles ($95.76 in chips)
+ChicagoBull4: posts small blind $1
+FHstyles: posts big blind $3
+*** HOLE CARDS ***
+ChicagoBull4: raises $3 to $6
+FHstyles: raises $3 to $9
+ChicagoBull4: calls $3
+*** FLOP *** [Tc Ac Ad]
+FHstyles: bets $3
+ChicagoBull4: calls $3
+*** TURN *** [Tc Ac Ad] [Jc]
+FHstyles: bets $6
+ChicagoBull4: calls $6
+*** RIVER *** [Tc Ac Ad Jc] [2d]
+FHstyles: checks
+ChicagoBull4: checks
+*** SHOW DOWN ***
+FHstyles: shows [4d 4c] (two pair, Aces and Fours)
+ChicagoBull4: mucks hand
+FHstyles collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Tc Ac Ad Jc 2d]
+Seat 5: ChicagoBull4 (button) (small blind) mucked
+Seat 6: FHstyles (big blind) showed [4d 4c] and won ($35.50) with two pair, Aces and Fours
+
+
+PokerStars Hand #160016186949:  Hold'em Limit ($3/$6 USD) - 2016/10/16 12:45:04 ET
+Table 'Kalevala' 10-max Seat #5 is the button
+Seat 5: ChicagoBull4 ($48.77 in chips)
+Seat 6: FHstyles ($60 in chips)
+ChicagoBull4: posts small blind $1
+FHstyles: posts big blind $3
+*** HOLE CARDS ***
+ChicagoBull4: raises $3 to $6
+FHstyles: calls $3
+*** FLOP *** [Qc Td 9c]
+FHstyles: checks
+ChicagoBull4: bets $3
+FHstyles: raises $3 to $6
+ChicagoBull4: calls $3
+*** TURN *** [Qc Td 9c] [9s]
+FHstyles: bets $6
+ChicagoBull4: raises $6 to $12
+FHstyles: calls $6
+*** RIVER *** [Qc Td 9c 9s] [2c]
+FHstyles: checks
+ChicagoBull4: bets $6
+FHstyles: calls $6
+*** SHOW DOWN ***
+ChicagoBull4: shows [Jh 9d] (three of a kind, Nines)
+FHstyles: mucks hand
+ChicagoBull4 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Qc Td 9c 9s 2c]
+Seat 5: ChicagoBull4 (button) (small blind) showed [Jh 9d] and won ($59.50) with three of a kind, Nines
+Seat 6: FHstyles (big blind) mucked
+
+

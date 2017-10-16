@@ -1,0 +1,61 @@
+PokerStars Hand #156382828664:  Hold'em Limit ($3/$6 USD) - 2016/07/24 11:24:30 ET
+Table 'Belisana' 6-max Seat #3 is the button
+Seat 1: xxXguardXxx ($29 in chips)
+Seat 3: Ag3r0n ($92.50 in chips)
+Ag3r0n: posts small blind $1
+xxXguardXxx: posts big blind $3
+*** HOLE CARDS ***
+Ag3r0n: raises $3 to $6
+xxXguardXxx: calls $3
+*** FLOP *** [Th 8h Qs]
+xxXguardXxx: bets $3
+Ag3r0n: calls $3
+*** TURN *** [Th 8h Qs] [Js]
+xxXguardXxx: bets $6
+Ag3r0n: calls $6
+*** RIVER *** [Th 8h Qs Js] [9s]
+xxXguardXxx: bets $6
+Ag3r0n: raises $6 to $12
+xxXguardXxx: calls $6
+*** SHOW DOWN ***
+Ag3r0n: shows [Kh 7c] (a straight, Nine to King)
+xxXguardXxx: mucks hand
+Ag3r0n collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Th 8h Qs Js 9s]
+Seat 1: xxXguardXxx (big blind) mucked
+Seat 3: Ag3r0n (button) (small blind) showed [Kh 7c] and won ($53.50) with a straight, Nine to King
+
+
+PokerStars Hand #156382808849:  Hold'em Limit ($3/$6 USD) - 2016/07/24 11:24:02 ET
+Table 'Belisana' 6-max Seat #1 is the button
+Seat 1: xxXguardXxx ($50 in chips)
+Seat 3: Ag3r0n ($72 in chips)
+xxXguardXxx: posts small blind $1
+Ag3r0n: posts big blind $3
+*** HOLE CARDS ***
+xxXguardXxx: calls $2
+Ag3r0n: raises $3 to $6
+xxXguardXxx: calls $3
+*** FLOP *** [9d Th Jh]
+Ag3r0n: bets $3
+xxXguardXxx: calls $3
+*** TURN *** [9d Th Jh] [4s]
+Ag3r0n: bets $6
+xxXguardXxx: calls $6
+*** RIVER *** [9d Th Jh 4s] [Td]
+Mordnilap joins the table at seat #2
+Ag3r0n: bets $6
+xxXguardXxx: calls $6
+*** SHOW DOWN ***
+Ag3r0n: shows [Qd Jd] (two pair, Jacks and Tens)
+xxXguardXxx: mucks hand
+Ag3r0n collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9d Th Jh 4s Td]
+Seat 1: xxXguardXxx (button) (small blind) mucked
+Seat 3: Ag3r0n (big blind) showed [Qd Jd] and won ($41.50) with two pair, Jacks and Tens
+
+

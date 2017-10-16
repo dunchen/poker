@@ -1,0 +1,90 @@
+PokerStars Hand #154832201665:  Hold'em Limit ($3/$6 USD) - 2016/06/16 20:45:12 ET
+Table 'Garumna' 6-max Seat #2 is the button
+Seat 2: lin1rabbit ($270.26 in chips)
+Seat 6: charlys65 ($95.92 in chips)
+lin1rabbit: posts small blind $1
+charlys65: posts big blind $3
+*** HOLE CARDS ***
+lin1rabbit: raises $3 to $6
+charlys65: calls $3
+*** FLOP *** [Ah 6c 8d]
+charlys65: checks
+lin1rabbit: bets $3
+charlys65: raises $3 to $6
+lin1rabbit: calls $3
+*** TURN *** [Ah 6c 8d] [4s]
+charlys65: bets $6
+lin1rabbit: raises $6 to $12
+charlys65: calls $6
+*** RIVER *** [Ah 6c 8d 4s] [8s]
+charlys65: bets $6
+lin1rabbit: raises $6 to $12
+charlys65: raises $6 to $18
+lin1rabbit: raises $6 to $24
+Betting is capped
+charlys65: calls $6
+*** SHOW DOWN ***
+lin1rabbit: shows [Ts 8c] (three of a kind, Eights)
+charlys65: mucks hand
+lin1rabbit collected $95.50 from pot
+*** SUMMARY ***
+Total pot $96 | Rake $0.50
+Board [Ah 6c 8d 4s 8s]
+Seat 2: lin1rabbit (button) (small blind) showed [Ts 8c] and won ($95.50) with three of a kind, Eights
+Seat 6: charlys65 (big blind) mucked
+
+
+PokerStars Hand #154832212776:  Hold'em Limit ($3/$6 USD) - 2016/06/16 20:45:38 ET
+Table 'Garumna' 6-max Seat #6 is the button
+Seat 2: lin1rabbit ($317.76 in chips)
+Seat 6: charlys65 ($47.92 in chips)
+charlys65: posts small blind $1
+lin1rabbit: posts big blind $3
+*** HOLE CARDS ***
+charlys65: raises $3 to $6
+lin1rabbit: calls $3
+*** FLOP *** [Kd Ks 2s]
+lin1rabbit: checks
+charlys65: bets $3
+lin1rabbit: calls $3
+*** TURN *** [Kd Ks 2s] [Jc]
+lin1rabbit: bets $6
+charlys65: raises $6 to $12
+lin1rabbit: raises $6 to $18
+charlys65: raises $6 to $24
+Betting is capped
+lin1rabbit: calls $6
+*** RIVER *** [Kd Ks 2s Jc] [8s]
+lin1rabbit: checks
+charlys65: bets $6
+lin1rabbit: calls $6
+*** SHOW DOWN ***
+charlys65: shows [Ah Ts] (a pair of Kings)
+lin1rabbit: shows [Js 6h] (two pair, Kings and Jacks)
+lin1rabbit collected $77.50 from pot
+*** SUMMARY ***
+Total pot $78 | Rake $0.50
+Board [Kd Ks 2s Jc 8s]
+Seat 2: lin1rabbit (big blind) showed [Js 6h] and won ($77.50) with two pair, Kings and Jacks
+Seat 6: charlys65 (button) (small blind) showed [Ah Ts] and lost with a pair of Kings
+
+
+PokerStars Hand #154832229761:  Hold'em Limit ($3/$6 USD) - 2016/06/16 20:46:19 ET
+Table 'Garumna' 6-max Seat #2 is the button
+Seat 2: lin1rabbit ($356.26 in chips)
+Seat 6: charlys65 ($8.92 in chips)
+lin1rabbit: posts small blind $1
+charlys65: posts big blind $3
+*** HOLE CARDS ***
+lin1rabbit: raises $3 to $6
+charlys65: folds
+Uncalled bet ($3) returned to lin1rabbit
+charlys65 leaves the table
+lin1rabbit collected $6 from pot
+lin1rabbit: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: lin1rabbit (button) (small blind) collected ($6)
+Seat 6: charlys65 (big blind) folded before Flop
+
+

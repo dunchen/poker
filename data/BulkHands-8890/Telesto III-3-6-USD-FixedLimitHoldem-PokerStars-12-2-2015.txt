@@ -1,0 +1,32 @@
+PokerStars Hand #144732472357:  Hold'em Limit ($3/$6 USD) - 2015/12/02 17:27:18 ET
+Table 'Telesto III' 2-max Seat #1 is the button
+Seat 1: elifnur2008 ($62.27 in chips)
+Seat 2: ben1997977 ($13.63 in chips)
+elifnur2008: posts small blind $1
+ben1997977: posts big blind $3
+*** HOLE CARDS ***
+elifnur2008: raises $3 to $6
+ben1997977: calls $3
+*** FLOP *** [Jd 6c 5d]
+ben1997977: checks
+elifnur2008: checks
+*** TURN *** [Jd 6c 5d] [Ks]
+ben1997977: checks
+elifnur2008: bets $6
+ben1997977: calls $6
+*** RIVER *** [Jd 6c 5d Ks] [Ad]
+ben1997977: checks
+elifnur2008: bets $6
+ben1997977: calls $1.63 and is all-in
+Uncalled bet ($4.37) returned to elifnur2008
+*** SHOW DOWN ***
+elifnur2008: shows [Tc Kc] (a pair of Kings)
+ben1997977: shows [Ts Td] (a pair of Tens)
+elifnur2008 collected $26.76 from pot
+*** SUMMARY ***
+Total pot $27.26 | Rake $0.50
+Board [Jd 6c 5d Ks Ad]
+Seat 1: elifnur2008 (button) (small blind) showed [Tc Kc] and won ($26.76) with a pair of Kings
+Seat 2: ben1997977 (big blind) showed [Ts Td] and lost with a pair of Tens
+
+

@@ -1,0 +1,445 @@
+PokerStars Hand #174942725027:  Hold'em Limit ($3/$6 USD) - 2017/08/29 11:43:39 ET
+Table 'Wallenquist II' 6-max Seat #1 is the button
+Seat 1: nedo1414 ($137.28 in chips)
+Seat 2: sebneu ($102 in chips)
+nedo1414: posts small blind $1
+sebneu: posts big blind $3
+*** HOLE CARDS ***
+nedo1414: raises $3 to $6
+sebneu: calls $3
+*** FLOP *** [6d 6c 7h]
+sebneu: checks
+nedo1414: bets $3
+sebneu: raises $3 to $6
+nedo1414: calls $3
+*** TURN *** [6d 6c 7h] [7c]
+sebneu: bets $6
+nedo1414: calls $6
+*** RIVER *** [6d 6c 7h 7c] [4d]
+sebneu: bets $6
+nedo1414: calls $6
+*** SHOW DOWN ***
+sebneu: shows [6h Ks] (a full house, Sixes full of Sevens)
+nedo1414: shows [8h 6s] (a full house, Sixes full of Sevens)
+sebneu collected $23.75 from pot
+nedo1414 collected $23.75 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [6d 6c 7h 7c 4d]
+Seat 1: nedo1414 (button) (small blind) showed [8h 6s] and won ($23.75) with a full house, Sixes full of Sevens
+Seat 2: sebneu (big blind) showed [6h Ks] and won ($23.75) with a full house, Sixes full of Sevens
+
+
+PokerStars Hand #174942710742:  Hold'em Limit ($3/$6 USD) - 2017/08/29 11:43:15 ET
+Table 'Wallenquist II' 6-max Seat #2 is the button
+Seat 1: nedo1414 ($125.76 in chips)
+Seat 2: sebneu ($114 in chips)
+sebneu: posts small blind $1
+nedo1414: posts big blind $3
+*** HOLE CARDS ***
+sebneu: raises $3 to $6
+nedo1414: raises $3 to $9
+sebneu: calls $3
+*** FLOP *** [Qc 3h Qs]
+nedo1414: bets $3
+sebneu: calls $3
+*** TURN *** [Qc 3h Qs] [Ks]
+nedo1414: checks
+sebneu: checks
+*** RIVER *** [Qc 3h Qs Ks] [7h]
+nedo1414: checks
+sebneu: checks
+*** SHOW DOWN ***
+nedo1414: shows [Ac Ts] (a pair of Queens)
+sebneu: mucks hand
+nedo1414 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Qc 3h Qs Ks 7h]
+Seat 1: nedo1414 (big blind) showed [Ac Ts] and won ($23.52) with a pair of Queens
+Seat 2: sebneu (button) (small blind) mucked
+
+
+PokerStars Hand #174942704291:  Hold'em Limit ($3/$6 USD) - 2017/08/29 11:43:04 ET
+Table 'Wallenquist II' 6-max Seat #1 is the button
+Seat 1: nedo1414 ($120 in chips)
+Seat 2: sebneu ($120 in chips)
+nedo1414: posts small blind $1
+sebneu: posts big blind $3
+*** HOLE CARDS ***
+nedo1414: raises $3 to $6
+sebneu: calls $3
+*** FLOP *** [Td 2c 6c]
+sebneu: checks
+nedo1414: bets $3
+sebneu: folds
+Uncalled bet ($3) returned to nedo1414
+nedo1414 collected $11.76 from pot
+nedo1414: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Td 2c 6c]
+Seat 1: nedo1414 (button) (small blind) collected ($11.76)
+Seat 2: sebneu (big blind) folded on the Flop
+
+
+PokerStars Hand #174942737196:  Hold'em Limit ($3/$6 USD) - 2017/08/29 11:43:59 ET
+Table 'Wallenquist II' 6-max Seat #2 is the button
+Seat 1: nedo1414 ($137.03 in chips)
+Seat 2: sebneu ($101.75 in chips)
+sebneu: posts small blind $1
+nedo1414: posts big blind $3
+*** HOLE CARDS ***
+sebneu: raises $3 to $6
+nedo1414: calls $3
+*** FLOP *** [9c Th Qs]
+nedo1414: checks
+sebneu: bets $3
+nedo1414: calls $3
+*** TURN *** [9c Th Qs] [Jc]
+nedo1414: checks
+sebneu: bets $6
+nedo1414: calls $6
+*** RIVER *** [9c Th Qs Jc] [As]
+nedo1414: checks
+sebneu: checks
+*** SHOW DOWN ***
+nedo1414: shows [Jd Ts] (two pair, Jacks and Tens)
+sebneu: mucks hand
+nedo1414 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9c Th Qs Jc As]
+Seat 1: nedo1414 (big blind) showed [Jd Ts] and won ($29.50) with two pair, Jacks and Tens
+Seat 2: sebneu (button) (small blind) mucked
+
+
+PokerStars Hand #174942748758:  Hold'em Limit ($3/$6 USD) - 2017/08/29 11:44:18 ET
+Table 'Wallenquist II' 6-max Seat #1 is the button
+Seat 1: nedo1414 ($151.53 in chips)
+Seat 2: sebneu ($86.75 in chips)
+nedo1414: posts small blind $1
+sebneu: posts big blind $3
+*** HOLE CARDS ***
+nedo1414: raises $3 to $6
+sebneu: calls $3
+*** FLOP *** [5c Ah Jh]
+sebneu: checks
+nedo1414: bets $3
+sebneu: folds
+Uncalled bet ($3) returned to nedo1414
+nedo1414 collected $11.76 from pot
+nedo1414: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5c Ah Jh]
+Seat 1: nedo1414 (button) (small blind) collected ($11.76)
+Seat 2: sebneu (big blind) folded on the Flop
+
+
+PokerStars Hand #174942758260:  Hold'em Limit ($3/$6 USD) - 2017/08/29 11:44:34 ET
+Table 'Wallenquist II' 6-max Seat #2 is the button
+Seat 1: nedo1414 ($157.29 in chips)
+Seat 2: sebneu ($80.75 in chips)
+sebneu: posts small blind $1
+nedo1414: posts big blind $3
+*** HOLE CARDS ***
+sebneu: raises $3 to $6
+nedo1414: calls $3
+*** FLOP *** [Qc 5d Qs]
+nedo1414: checks
+sebneu: bets $3
+nedo1414: calls $3
+*** TURN *** [Qc 5d Qs] [Qh]
+nedo1414: checks
+sebneu: checks
+*** RIVER *** [Qc 5d Qs Qh] [Js]
+nedo1414: bets $6
+sebneu: calls $6
+*** SHOW DOWN ***
+nedo1414: shows [Jc Qd] (four of a kind, Queens)
+sebneu: mucks hand
+nedo1414 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qc 5d Qs Qh Js]
+Seat 1: nedo1414 (big blind) showed [Jc Qd] and won ($29.50) with four of a kind, Queens
+Seat 2: sebneu (button) (small blind) mucked
+
+
+PokerStars Hand #174942801031:  Hold'em Limit ($3/$6 USD) - 2017/08/29 11:45:43 ET
+Table 'Wallenquist II' 6-max Seat #2 is the button
+Seat 1: nedo1414 ($160.55 in chips)
+Seat 2: sebneu ($76.25 in chips)
+sebneu: posts small blind $1
+nedo1414: posts big blind $3
+*** HOLE CARDS ***
+sebneu: raises $3 to $6
+nedo1414: raises $3 to $9
+sebneu: calls $3
+*** FLOP *** [Tc Ac Kd]
+nedo1414: bets $3
+sebneu: folds
+Uncalled bet ($3) returned to nedo1414
+nedo1414 collected $17.64 from pot
+nedo1414: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Tc Ac Kd]
+Seat 1: nedo1414 (big blind) collected ($17.64)
+Seat 2: sebneu (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #174942809949:  Hold'em Limit ($3/$6 USD) - 2017/08/29 11:45:58 ET
+Table 'Wallenquist II' 6-max Seat #1 is the button
+Seat 1: nedo1414 ($169.19 in chips)
+Seat 2: sebneu ($67.25 in chips)
+nedo1414: posts small blind $1
+sebneu: posts big blind $3
+*** HOLE CARDS ***
+nedo1414: folds
+Uncalled bet ($2) returned to sebneu
+sebneu collected $2 from pot
+sebneu: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: nedo1414 (button) (small blind) folded before Flop
+Seat 2: sebneu (big blind) collected ($2)
+
+
+PokerStars Hand #174942786796:  Hold'em Limit ($3/$6 USD) - 2017/08/29 11:45:20 ET
+Table 'Wallenquist II' 6-max Seat #1 is the button
+Seat 1: nedo1414 ($178.55 in chips)
+Seat 2: sebneu ($58.75 in chips)
+nedo1414: posts small blind $1
+sebneu: posts big blind $3
+*** HOLE CARDS ***
+nedo1414: raises $3 to $6
+sebneu: raises $3 to $9
+nedo1414: calls $3
+*** FLOP *** [6d Td 3s]
+sebneu: bets $3
+nedo1414: calls $3
+*** TURN *** [6d Td 3s] [7s]
+sebneu: bets $6
+nedo1414: calls $6
+*** RIVER *** [6d Td 3s 7s] [Jh]
+sebneu: bets $6
+nedo1414: folds
+Uncalled bet ($6) returned to sebneu
+sebneu collected $35.50 from pot
+sebneu: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6d Td 3s 7s Jh]
+Seat 1: nedo1414 (button) (small blind) folded on the River
+Seat 2: sebneu (big blind) collected ($35.50)
+
+
+PokerStars Hand #174942773693:  Hold'em Limit ($3/$6 USD) - 2017/08/29 11:44:59 ET
+Table 'Wallenquist II' 6-max Seat #1 is the button
+Seat 1: nedo1414 ($171.79 in chips)
+Seat 2: sebneu ($65.75 in chips)
+nedo1414: posts small blind $1
+sebneu: posts big blind $3
+*** HOLE CARDS ***
+nedo1414: raises $3 to $6
+sebneu: calls $3
+*** FLOP *** [8c Qc Jd]
+sebneu: checks
+nedo1414: bets $3
+sebneu: folds
+Uncalled bet ($3) returned to nedo1414
+nedo1414 collected $11.76 from pot
+nedo1414: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8c Qc Jd]
+Seat 1: nedo1414 (button) (small blind) collected ($11.76)
+Seat 2: sebneu (big blind) folded on the Flop
+
+
+PokerStars Hand #174942812673:  Hold'em Limit ($3/$6 USD) - 2017/08/29 11:46:02 ET
+Table 'Wallenquist II' 6-max Seat #2 is the button
+Seat 1: nedo1414 ($168.19 in chips)
+Seat 2: sebneu ($68.25 in chips)
+sebneu: posts small blind $1
+nedo1414: posts big blind $3
+*** HOLE CARDS ***
+sebneu: raises $3 to $6
+nedo1414: raises $3 to $9
+sebneu: raises $3 to $12
+Betting is capped
+nedo1414: calls $3
+*** FLOP *** [Qd 7d 3d]
+nedo1414: checks
+sebneu: bets $3
+nedo1414: calls $3
+*** TURN *** [Qd 7d 3d] [As]
+nedo1414: checks
+sebneu: bets $6
+nedo1414: calls $6
+*** RIVER *** [Qd 7d 3d As] [Js]
+nedo1414: checks
+sebneu: bets $6
+nedo1414: folds
+Uncalled bet ($6) returned to sebneu
+sebneu collected $41.50 from pot
+sebneu: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Qd 7d 3d As Js]
+Seat 1: nedo1414 (big blind) folded on the River
+Seat 2: sebneu (button) (small blind) collected ($41.50)
+
+
+PokerStars Hand #174942828606:  Hold'em Limit ($3/$6 USD) - 2017/08/29 11:46:29 ET
+Table 'Wallenquist II' 6-max Seat #1 is the button
+Seat 1: nedo1414 ($147.19 in chips)
+Seat 2: sebneu ($88.75 in chips)
+nedo1414: posts small blind $1
+sebneu: posts big blind $3
+*** HOLE CARDS ***
+nedo1414: raises $3 to $6
+sebneu: raises $3 to $9
+nedo1414: calls $3
+*** FLOP *** [3h 4d Jd]
+sebneu: bets $3
+nedo1414: calls $3
+*** TURN *** [3h 4d Jd] [8d]
+sebneu: bets $6
+nedo1414: raises $6 to $12
+sebneu: raises $6 to $18
+nedo1414: calls $6
+*** RIVER *** [3h 4d Jd 8d] [3c]
+sebneu: bets $6
+nedo1414: folds
+Uncalled bet ($6) returned to sebneu
+sebneu collected $59.50 from pot
+sebneu: doesn't show hand
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [3h 4d Jd 8d 3c]
+Seat 1: nedo1414 (button) (small blind) folded on the River
+Seat 2: sebneu (big blind) collected ($59.50)
+
+
+PokerStars Hand #174942859686:  Hold'em Limit ($3/$6 USD) - 2017/08/29 11:47:20 ET
+Table 'Wallenquist II' 6-max Seat #1 is the button
+Seat 1: nedo1414 ($155.69 in chips)
+Seat 2: sebneu ($79.25 in chips)
+nedo1414: posts small blind $1
+sebneu: posts big blind $3
+*** HOLE CARDS ***
+nedo1414: raises $3 to $6
+sebneu: calls $3
+*** FLOP *** [7h Ad 6h]
+sebneu: checks
+nedo1414: bets $3
+sebneu: folds
+Uncalled bet ($3) returned to nedo1414
+Psynto joins the table at seat #3
+nedo1414 collected $11.76 from pot
+nedo1414: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7h Ad 6h]
+Seat 1: nedo1414 (button) (small blind) collected ($11.76)
+Seat 2: sebneu (big blind) folded on the Flop
+
+
+PokerStars Hand #174942841864:  Hold'em Limit ($3/$6 USD) - 2017/08/29 11:46:51 ET
+Table 'Wallenquist II' 6-max Seat #2 is the button
+Seat 1: nedo1414 ($117.19 in chips)
+Seat 2: sebneu ($118.25 in chips)
+sebneu: posts small blind $1
+nedo1414: posts big blind $3
+*** HOLE CARDS ***
+sebneu: raises $3 to $6
+nedo1414: raises $3 to $9
+sebneu: raises $3 to $12
+Betting is capped
+nedo1414: calls $3
+*** FLOP *** [4c 2d 3s]
+nedo1414: bets $3
+sebneu: calls $3
+*** TURN *** [4c 2d 3s] [8c]
+nedo1414: checks
+sebneu: bets $6
+nedo1414: raises $6 to $12
+sebneu: calls $6
+*** RIVER *** [4c 2d 3s 8c] [As]
+nedo1414: bets $6
+sebneu: raises $6 to $12
+nedo1414: calls $6
+*** SHOW DOWN ***
+sebneu: shows [8d Ad] (two pair, Aces and Eights)
+nedo1414: shows [5d Ah] (a straight, Ace to Five)
+nedo1414 collected $77.50 from pot
+*** SUMMARY ***
+Total pot $78 | Rake $0.50
+Board [4c 2d 3s 8c As]
+Seat 1: nedo1414 (big blind) showed [5d Ah] and won ($77.50) with a straight, Ace to Five
+Seat 2: sebneu (button) (small blind) showed [8d Ad] and lost with two pair, Aces and Eights
+
+
+PokerStars Hand #174942937495:  Hold'em Limit ($3/$6 USD) - 2017/08/29 11:49:28 ET
+Table 'Wallenquist II' 6-max Seat #3 is the button
+Seat 1: nedo1414 ($143.45 in chips)
+Seat 3: Psynto ($134.22 in chips)
+Psynto: posts small blind $1
+nedo1414: posts big blind $3
+*** HOLE CARDS ***
+Psynto: raises $3 to $6
+nedo1414: calls $3
+*** FLOP *** [Kc 2c 5s]
+nedo1414: checks
+Psynto: bets $3
+nedo1414: calls $3
+*** TURN *** [Kc 2c 5s] [5d]
+nedo1414: checks
+Psynto: checks
+*** RIVER *** [Kc 2c 5s 5d] [Ts]
+nedo1414: checks
+Psynto: bets $6
+nedo1414: folds
+Uncalled bet ($6) returned to Psynto
+Psynto collected $17.64 from pot
+Psynto: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kc 2c 5s 5d Ts]
+Seat 1: nedo1414 (big blind) folded on the River
+Seat 3: Psynto (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #174942929197:  Hold'em Limit ($3/$6 USD) - 2017/08/29 11:49:14 ET
+Table 'Wallenquist II' 6-max Seat #1 is the button
+Seat 1: nedo1414 ($152.45 in chips)
+Seat 3: Psynto ($125.58 in chips)
+nedo1414: posts small blind $1
+Psynto: posts big blind $3
+*** HOLE CARDS ***
+nedo1414: raises $3 to $6
+Psynto: calls $3
+*** FLOP *** [8h Jd Ac]
+Psynto: checks
+nedo1414: bets $3
+Psynto: calls $3
+*** TURN *** [8h Jd Ac] [Ah]
+Psynto: checks
+nedo1414: checks
+*** RIVER *** [8h Jd Ac Ah] [Qh]
+Psynto: checks
+nedo1414: checks
+*** SHOW DOWN ***
+Psynto: shows [9d Jc] (two pair, Aces and Jacks)
+nedo1414: mucks hand
+Psynto collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8h Jd Ac Ah Qh]
+Seat 1: nedo1414 (button) (small blind) mucked
+Seat 3: Psynto (big blind) showed [9d Jc] and won ($17.64) with two pair, Aces and Jacks
+
+

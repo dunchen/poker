@@ -1,0 +1,120 @@
+PokerStars Hand #158535793388:  Hold'em Limit ($3/$6 USD) - 2016/09/13 0:32:13 ET
+Table 'Sumava' 6-max Seat #1 is the button
+Seat 1: Velbor107 ($300 in chips)
+Seat 3: piravlos93 ($60 in chips)
+Velbor107: posts small blind $1
+piravlos93: posts big blind $3
+*** HOLE CARDS ***
+Velbor107: raises $3 to $6
+piravlos93: calls $3
+*** FLOP *** [2s 9d 8s]
+piravlos93: checks
+Velbor107: bets $3
+piravlos93: calls $3
+*** TURN *** [2s 9d 8s] [Th]
+piravlos93: checks
+Velbor107: bets $6
+piravlos93: raises $6 to $12
+Velbor107: raises $6 to $18
+piravlos93: calls $6
+*** RIVER *** [2s 9d 8s Th] [Qh]
+piravlos93: checks
+Velbor107: bets $6
+piravlos93: calls $6
+*** SHOW DOWN ***
+Velbor107: shows [Jc 7h] (a straight, Eight to Queen)
+piravlos93: mucks hand
+Velbor107 collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [2s 9d 8s Th Qh]
+Seat 1: Velbor107 (button) (small blind) showed [Jc 7h] and won ($65.50) with a straight, Eight to Queen
+Seat 3: piravlos93 (big blind) mucked
+
+
+PokerStars Hand #158535812487:  Hold'em Limit ($3/$6 USD) - 2016/09/13 0:33:32 ET
+Table 'Sumava' 6-max Seat #1 is the button
+Seat 1: Velbor107 ($323.50 in chips)
+Seat 3: piravlos93 ($35.64 in chips)
+Velbor107: posts small blind $1
+piravlos93: posts big blind $3
+*** HOLE CARDS ***
+Velbor107: raises $3 to $6
+piravlos93: calls $3
+*** FLOP *** [Qs 4c Jd]
+piravlos93: checks
+Velbor107: bets $3
+piravlos93: calls $3
+*** TURN *** [Qs 4c Jd] [7d]
+piravlos93: checks
+Chessnok joins the table at seat #4
+Velbor107: bets $6
+piravlos93: calls $6
+*** RIVER *** [Qs 4c Jd 7d] [Ad]
+piravlos93: bets $6
+Velbor107: calls $6
+*** SHOW DOWN ***
+piravlos93: shows [Kc 6c] (high card Ace)
+Velbor107: shows [Qh Td] (a pair of Queens)
+Velbor107 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Qs 4c Jd 7d Ad]
+Seat 1: Velbor107 (button) (small blind) showed [Qh Td] and won ($41.50) with a pair of Queens
+Seat 3: piravlos93 (big blind) showed [Kc 6c] and lost with high card Ace
+
+
+PokerStars Hand #158535805137:  Hold'em Limit ($3/$6 USD) - 2016/09/13 0:33:02 ET
+Table 'Sumava' 6-max Seat #3 is the button
+Seat 1: Velbor107 ($332.50 in chips)
+Seat 3: piravlos93 ($27 in chips)
+piravlos93: posts small blind $1
+Velbor107: posts big blind $3
+*** HOLE CARDS ***
+piravlos93: calls $2
+Velbor107: raises $3 to $6
+piravlos93: calls $3
+*** FLOP *** [Jc Ks 6c]
+Velbor107: bets $3
+piravlos93: raises $3 to $6
+Velbor107: folds
+Uncalled bet ($3) returned to piravlos93
+piravlos93 collected $17.64 from pot
+piravlos93: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Jc Ks 6c]
+Seat 1: Velbor107 (big blind) folded on the Flop
+Seat 3: piravlos93 (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #158535847547:  Hold'em Limit ($3/$6 USD) - 2016/09/13 0:35:57 ET
+Table 'Sumava' 6-max Seat #1 is the button
+Seat 1: Velbor107 ($333.79 in chips)
+Seat 4: Chessnok ($142.53 in chips)
+Velbor107: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+Velbor107: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [2h Jh Tc]
+Chessnok: checks
+Velbor107: checks
+*** TURN *** [2h Jh Tc] [9c]
+Chessnok: bets $6
+Velbor107: calls $6
+*** RIVER *** [2h Jh Tc 9c] [7c]
+Chessnok: bets $6
+Velbor107: calls $6
+*** SHOW DOWN ***
+Chessnok: shows [Th 4s] (a pair of Tens)
+piravlos93 leaves the table
+Velbor107: mucks hand
+Chessnok collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [2h Jh Tc 9c 7c]
+Seat 1: Velbor107 (button) (small blind) mucked
+Seat 4: Chessnok (big blind) showed [Th 4s] and won ($35.50) with a pair of Tens
+
+

@@ -1,0 +1,57 @@
+PokerStars Hand #158685450600:  Hold'em Limit ($3/$6 USD) - 2016/09/16 14:04:38 ET
+Table 'Tanete' 10-max Seat #5 is the button
+Seat 5: simper11 ($137.50 in chips)
+Seat 6: foksas111 ($143.27 in chips)
+simper11: posts small blind $1
+foksas111: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+foksas111: calls $3
+*** FLOP *** [Qs Kc 9d]
+foksas111: checks
+simper11: bets $3
+foksas111: raises $3 to $6
+simper11: folds
+Uncalled bet ($3) returned to foksas111
+foksas111 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qs Kc 9d]
+Seat 5: simper11 (button) (small blind) folded on the Flop
+Seat 6: foksas111 (big blind) collected ($17.64)
+
+
+PokerStars Hand #158687903375:  Hold'em Limit ($3/$6 USD) - 2016/09/16 15:00:26 ET
+Table 'Tanete' 10-max Seat #3 is the button
+Seat 3: RockKillerTY ($103.33 in chips)
+Seat 7: Bonkman05 ($83.65 in chips)
+RockKillerTY: posts small blind $1
+Bonkman05: posts big blind $3
+*** HOLE CARDS ***
+RockKillerTY: raises $3 to $6
+Bonkman05: raises $3 to $9
+RockKillerTY: raises $3 to $12
+Betting is capped
+Bonkman05: calls $3
+*** FLOP *** [9s 4s 4h]
+Bonkman05: checks
+RockKillerTY: bets $3
+Bonkman05: calls $3
+*** TURN *** [9s 4s 4h] [5h]
+Bonkman05: checks
+RockKillerTY: bets $6
+Bonkman05: calls $6
+*** RIVER *** [9s 4s 4h 5h] [6d]
+Bonkman05: checks
+RockKillerTY: checks
+*** SHOW DOWN ***
+Bonkman05: shows [Td Ah] (a pair of Fours)
+RockKillerTY: shows [Ac Qc] (a pair of Fours - Ace+Queen kicker)
+RockKillerTY collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9s 4s 4h 5h 6d]
+Seat 3: RockKillerTY (button) (small blind) showed [Ac Qc] and won ($41.50) with a pair of Fours
+Seat 7: Bonkman05 (big blind) showed [Td Ah] and lost with a pair of Fours
+
+

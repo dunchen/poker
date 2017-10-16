@@ -1,0 +1,93 @@
+PokerStars Hand #145491808555:  Hold'em Limit ($3/$6 USD) - 2015/12/17 13:39:50 ET
+Table 'Perrotin' 6-max Seat #4 is the button
+Seat 4: al38811 ($48.13 in chips)
+Seat 5: Velbor107 ($285 in chips)
+al38811: posts small blind $1
+Velbor107: posts big blind $3
+*** HOLE CARDS ***
+al38811: raises $3 to $6
+Velbor107: calls $3
+*** FLOP *** [9s 7h Kc]
+Velbor107: checks
+al38811: checks
+*** TURN *** [9s 7h Kc] [4c]
+Velbor107: checks
+al38811: checks
+*** RIVER *** [9s 7h Kc 4c] [Qs]
+SashaYuvelir joins the table at seat #1
+Velbor107: checks
+al38811: checks
+*** SHOW DOWN ***
+Velbor107: shows [As 3c] (high card Ace)
+al38811: shows [Ac 6h] (high card Ace)
+Velbor107 collected $5.88 from pot
+al38811 collected $5.88 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9s 7h Kc 4c Qs]
+Seat 4: al38811 (button) (small blind) showed [Ac 6h] and won ($5.88) with high card Ace
+Seat 5: Velbor107 (big blind) showed [As 3c] and won ($5.88) with high card Ace
+
+
+PokerStars Hand #145491782959:  Hold'em Limit ($3/$6 USD) - 2015/12/17 13:39:22 ET
+Table 'Perrotin' 6-max Seat #5 is the button
+Seat 4: al38811 ($36.61 in chips)
+Seat 5: Velbor107 ($297 in chips)
+Velbor107: posts small blind $1
+al38811: posts big blind $3
+*** HOLE CARDS ***
+Velbor107: raises $3 to $6
+al38811: calls $3
+*** FLOP *** [5c 8d 9c]
+al38811: checks
+Velbor107: checks
+*** TURN *** [5c 8d 9c] [Jh]
+al38811: bets $6
+Great_Kang joins the table at seat #6
+Velbor107: calls $6
+*** RIVER *** [5c 8d 9c Jh] [6s]
+al38811: checks
+Velbor107: checks
+*** SHOW DOWN ***
+al38811: shows [Th 9s] (a pair of Nines)
+Velbor107: mucks hand
+al38811 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [5c 8d 9c Jh 6s]
+Seat 4: al38811 (big blind) showed [Th 9s] and won ($23.52) with a pair of Nines
+Seat 5: Velbor107 (button) (small blind) mucked
+
+
+PokerStars Hand #145494614580:  Hold'em Limit ($3/$6 USD) - 2015/12/17 14:33:35 ET
+Table 'Perrotin' 6-max Seat #2 is the button
+Seat 1: ct-650 ($113.22 in chips)
+Seat 2: PelonCabelao ($123.12 in chips)
+PelonCabelao: posts small blind $1
+ct-650: posts big blind $3
+*** HOLE CARDS ***
+Kajind leaves the table
+PelonCabelao: raises $3 to $6
+ct-650: calls $3
+*** FLOP *** [9s Js 5c]
+ct-650: checks
+PelonCabelao: bets $3
+ct-650: raises $3 to $6
+PelonCabelao: calls $3
+*** TURN *** [9s Js 5c] [Jc]
+ct-650: bets $6
+PelonCabelao: calls $6
+*** RIVER *** [9s Js 5c Jc] [Td]
+ct-650: bets $6
+PelonCabelao: calls $6
+*** SHOW DOWN ***
+ct-650: shows [8h Jd] (three of a kind, Jacks)
+PelonCabelao: mucks hand
+ct-650 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9s Js 5c Jc Td]
+Seat 1: ct-650 (big blind) showed [8h Jd] and won ($47.50) with three of a kind, Jacks
+Seat 2: PelonCabelao (button) (small blind) mucked
+
+

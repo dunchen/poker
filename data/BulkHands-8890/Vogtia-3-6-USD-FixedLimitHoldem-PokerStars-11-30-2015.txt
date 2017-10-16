@@ -1,0 +1,88 @@
+PokerStars Hand #144600200302:  Hold'em Limit ($3/$6 USD) - 2015/11/30 4:46:41 ET
+Table 'Vogtia' 2-max Seat #1 is the button
+Seat 1: qynmota ($93.33 in chips)
+Seat 2: azatraz ($35.22 in chips)
+qynmota: posts small blind $1
+azatraz: posts big blind $3
+*** HOLE CARDS ***
+qynmota: raises $3 to $6
+azatraz: calls $3
+*** FLOP *** [9h 3d 7h]
+azatraz: bets $3
+qynmota: raises $3 to $6
+azatraz: raises $3 to $9
+qynmota: raises $3 to $12
+Betting is capped
+azatraz: calls $3
+*** TURN *** [9h 3d 7h] [Ad]
+azatraz: bets $6
+qynmota: raises $6 to $12
+azatraz: folds
+Uncalled bet ($6) returned to qynmota
+qynmota collected $47.50 from pot
+qynmota: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9h 3d 7h Ad]
+Seat 1: qynmota (button) (small blind) collected ($47.50)
+Seat 2: azatraz (big blind) folded on the Turn
+
+
+PokerStars Hand #144600204283:  Hold'em Limit ($3/$6 USD) - 2015/11/30 4:46:52 ET
+Table 'Vogtia' 2-max Seat #2 is the button
+Seat 1: qynmota ($116.83 in chips)
+Seat 2: azatraz ($11.22 in chips)
+azatraz: posts small blind $1
+qynmota: posts big blind $3
+*** HOLE CARDS ***
+azatraz: raises $3 to $6
+qynmota: raises $3 to $9
+azatraz: raises $2.22 to $11.22 and is all-in
+Betting is capped
+qynmota: calls $2.22
+*** FLOP *** [Ts 8d 6c]
+*** TURN *** [Ts 8d 6c] [Qc]
+*** RIVER *** [Ts 8d 6c Qc] [Jc]
+*** SHOW DOWN ***
+qynmota: shows [As Th] (a pair of Tens)
+azatraz: shows [5h 6d] (a pair of Sixes)
+qynmota collected $21.99 from pot
+*** SUMMARY ***
+Total pot $22.44 | Rake $0.45
+Board [Ts 8d 6c Qc Jc]
+Seat 1: qynmota (big blind) showed [As Th] and won ($21.99) with a pair of Tens
+Seat 2: azatraz (button) (small blind) showed [5h 6d] and lost with a pair of Sixes
+
+
+PokerStars Hand #144600195189:  Hold'em Limit ($3/$6 USD) - 2015/11/30 4:46:27 ET
+Table 'Vogtia' 2-max Seat #2 is the button
+Seat 1: qynmota ($69.83 in chips)
+Seat 2: azatraz ($59.22 in chips)
+azatraz: posts small blind $1
+qynmota: posts big blind $3
+*** HOLE CARDS ***
+azatraz: raises $3 to $6
+qynmota: raises $3 to $9
+azatraz: raises $3 to $12
+Betting is capped
+qynmota: calls $3
+*** FLOP *** [7c 2s 7s]
+qynmota: bets $3
+azatraz: raises $3 to $6
+qynmota: raises $3 to $9
+azatraz: raises $3 to $12
+Betting is capped
+qynmota: calls $3
+*** TURN *** [7c 2s 7s] [3h]
+qynmota: bets $6
+azatraz: folds
+Uncalled bet ($6) returned to qynmota
+qynmota collected $47.50 from pot
+qynmota: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7c 2s 7s 3h]
+Seat 1: qynmota (big blind) collected ($47.50)
+Seat 2: azatraz (button) (small blind) folded on the Turn
+
+

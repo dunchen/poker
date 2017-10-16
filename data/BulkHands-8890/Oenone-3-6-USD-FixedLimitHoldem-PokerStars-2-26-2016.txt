@@ -1,0 +1,57 @@
+PokerStars Hand #149444491651:  Hold'em Limit ($3/$6 USD) - 2016/02/26 10:45:38 ET
+Table 'Oenone' 6-max Seat #3 is the button
+Seat 3: saut731 ($7 in chips)
+Seat 5: RockKillerTY ($137.83 in chips)
+saut731: posts small blind $1
+BuzovaPro: is sitting out
+RockKillerTY: posts big blind $3
+*** HOLE CARDS ***
+saut731: raises $3 to $6
+RockKillerTY: calls $3
+*** FLOP *** [7h 3d 3s]
+RockKillerTY: checks
+saut731: bets $1 and is all-in
+RockKillerTY: calls $1
+*** TURN *** [7h 3d 3s] [Kc]
+*** RIVER *** [7h 3d 3s Kc] [4d]
+*** SHOW DOWN ***
+RockKillerTY: shows [5h Qc] (a pair of Threes)
+saut731: shows [Qs Tc] (a pair of Threes - King+Queen+Ten kicker)
+saut731 collected $13.72 from pot
+*** SUMMARY ***
+Total pot $14 | Rake $0.28
+Board [7h 3d 3s Kc 4d]
+Seat 3: saut731 (button) (small blind) showed [Qs Tc] and won ($13.72) with a pair of Threes
+Seat 5: RockKillerTY (big blind) showed [5h Qc] and lost with a pair of Threes
+
+
+PokerStars Hand #149444502811:  Hold'em Limit ($3/$6 USD) - 2016/02/26 10:45:52 ET
+Table 'Oenone' 6-max Seat #5 is the button
+Seat 3: saut731 ($13.72 in chips)
+Seat 5: RockKillerTY ($130.83 in chips)
+RockKillerTY: posts small blind $1
+saut731: posts big blind $3
+*** HOLE CARDS ***
+RockKillerTY: raises $3 to $6
+saut731: calls $3
+*** FLOP *** [4s 9h 4c]
+saut731: checks
+RockKillerTY: bets $3
+saut731: calls $3
+*** TURN *** [4s 9h 4c] [Jh]
+saut731: checks
+RockKillerTY: bets $6
+saut731: calls $4.72 and is all-in
+Uncalled bet ($1.28) returned to RockKillerTY
+*** RIVER *** [4s 9h 4c Jh] [5s]
+*** SHOW DOWN ***
+saut731: shows [7s Qs] (a pair of Fours)
+RockKillerTY: shows [Tc Kh] (a pair of Fours - King kicker)
+RockKillerTY collected $26.94 from pot
+*** SUMMARY ***
+Total pot $27.44 | Rake $0.50
+Board [4s 9h 4c Jh 5s]
+Seat 3: saut731 (big blind) showed [7s Qs] and lost with a pair of Fours
+Seat 5: RockKillerTY (button) (small blind) showed [Tc Kh] and won ($26.94) with a pair of Fours
+
+

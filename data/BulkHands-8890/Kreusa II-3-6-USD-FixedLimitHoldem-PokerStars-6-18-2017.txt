@@ -1,0 +1,33 @@
+PokerStars Hand #171947617504:  Hold'em Limit ($3/$6 USD) - 2017/06/18 16:31:13 ET
+Table 'Kreusa II' 6-max Seat #6 is the button
+Seat 3: bekooi ($75.16 in chips)
+Seat 6: scorpio04 ($150 in chips)
+scorpio04: posts small blind $1
+bekooi: posts big blind $3
+*** HOLE CARDS ***
+scorpio04: raises $3 to $6
+bekooi: raises $3 to $9
+scorpio04: calls $3
+*** FLOP *** [8c 6s Kd]
+bekooi: bets $3
+AzureCaper joins the table at seat #4
+scorpio04: calls $3
+*** TURN *** [8c 6s Kd] [5h]
+bekooi: checks
+scorpio04: bets $6
+bekooi: calls $6
+*** RIVER *** [8c 6s Kd 5h] [Ts]
+bekooi: checks
+scorpio04: bets $6
+bekooi: calls $6
+*** SHOW DOWN ***
+scorpio04: shows [3h 6h] (a pair of Sixes)
+bekooi: mucks hand
+scorpio04 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8c 6s Kd 5h Ts]
+Seat 3: bekooi (big blind) mucked
+Seat 6: scorpio04 (button) (small blind) showed [3h 6h] and won ($47.50) with a pair of Sixes
+
+

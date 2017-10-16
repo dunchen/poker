@@ -1,0 +1,36 @@
+PokerStars Hand #169096563319:  Hold'em Limit ($3/$6 USD) - 2017/04/15 18:56:12 ET
+Table 'Theotes' 6-max Seat #6 is the button
+Seat 5: EVBET ($100.50 in chips)
+Seat 6: Chessnok ($115.17 in chips)
+Chessnok: posts small blind $1
+Donald: is sitting out
+EVBET: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+EVBET: calls $3
+*** FLOP *** [Jh 2c 3d]
+EVBET: checks
+Chessnok: bets $3
+EVBET: raises $3 to $6
+Chessnok: calls $3
+*** TURN *** [Jh 2c 3d] [8d]
+EVBET: bets $6
+Chessnok: calls $6
+*** RIVER *** [Jh 2c 3d 8d] [2d]
+EVBET: bets $6
+Chessnok: raises $6 to $12
+EVBET: raises $6 to $18
+Chessnok: raises $6 to $24
+Betting is capped
+EVBET: calls $6
+*** SHOW DOWN ***
+Chessnok: shows [9d Kd] (a flush, King high)
+EVBET: mucks hand
+Chessnok collected $83.50 from pot
+*** SUMMARY ***
+Total pot $84 | Rake $0.50
+Board [Jh 2c 3d 8d 2d]
+Seat 5: EVBET (big blind) mucked
+Seat 6: Chessnok (button) (small blind) showed [9d Kd] and won ($83.50) with a flush, King high
+
+

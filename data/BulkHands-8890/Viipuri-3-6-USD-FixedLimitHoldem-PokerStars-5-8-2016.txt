@@ -1,0 +1,62 @@
+PokerStars Hand #153021128874:  Hold'em Limit ($3/$6 USD) - 2016/05/08 10:44:16 ET
+Table 'Viipuri' 10-max Seat #2 is the button
+Seat 2: LifeisagameX ($60 in chips)
+Seat 7: xitrec321 ($158.34 in chips)
+LifeisagameX: posts small blind $1
+xitrec321: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+xitrec321: calls $3
+*** FLOP *** [Jh 3d Td]
+xitrec321: bets $3
+LifeisagameX: calls $3
+*** TURN *** [Jh 3d Td] [Jd]
+xitrec321: bets $6
+LifeisagameX: calls $6
+*** RIVER *** [Jh 3d Td Jd] [5c]
+xitrec321: bets $6
+LifeisagameX: calls $6
+*** SHOW DOWN ***
+xitrec321: shows [8c 5d] (two pair, Jacks and Fives)
+LifeisagameX: mucks hand
+xitrec321 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Jh 3d Td Jd 5c]
+Seat 2: LifeisagameX (button) (small blind) mucked
+Seat 7: xitrec321 (big blind) showed [8c 5d] and won ($41.50) with two pair, Jacks and Fives
+
+
+PokerStars Hand #153021166555:  Hold'em Limit ($3/$6 USD) - 2016/05/08 10:45:09 ET
+Table 'Viipuri' 10-max Seat #7 is the button
+Seat 2: LifeisagameX ($39 in chips)
+Seat 7: xitrec321 ($178.84 in chips)
+xitrec321: posts small blind $1
+LifeisagameX: posts big blind $3
+*** HOLE CARDS ***
+xitrec321: calls $2
+LifeisagameX: raises $3 to $6
+xitrec321: calls $3
+*** FLOP *** [3d 9c 9s]
+LifeisagameX: checks
+xitrec321: bets $3
+LifeisagameX: calls $3
+*** TURN *** [3d 9c 9s] [8c]
+LifeisagameX: checks
+xitrec321: bets $6
+LifeisagameX: calls $6
+*** RIVER *** [3d 9c 9s 8c] [Ad]
+LifeisagameX: checks
+xitrec321: bets $6
+LifeisagameX: calls $6
+*** SHOW DOWN ***
+xitrec321: shows [6h 4c] (a pair of Nines)
+LifeisagameX: shows [4d As] (two pair, Aces and Nines)
+LifeisagameX collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [3d 9c 9s 8c Ad]
+Seat 2: LifeisagameX (big blind) showed [4d As] and won ($41.50) with two pair, Aces and Nines
+Seat 7: xitrec321 (button) (small blind) showed [6h 4c] and lost with a pair of Nines
+
+

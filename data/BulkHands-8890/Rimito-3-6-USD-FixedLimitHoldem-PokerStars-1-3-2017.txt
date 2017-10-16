@@ -1,0 +1,56 @@
+PokerStars Hand #163962427097:  Hold'em Limit ($3/$6 USD) - 2017/01/03 8:41:24 ET
+Table 'Rimito' 10-max Seat #10 is the button
+Seat 1: Ale4o ($121.85 in chips)
+Seat 10: Lucylove12 ($93.38 in chips)
+Lucylove12: posts small blind $1
+Ale4o: posts big blind $3
+*** HOLE CARDS ***
+Lucylove12: calls $2
+Ale4o: raises $3 to $6
+Lucylove12: calls $3
+*** FLOP *** [7d 7s Ks]
+Ale4o: bets $3
+Lucylove12: raises $3 to $6
+Ale4o: calls $3
+*** TURN *** [7d 7s Ks] [Ac]
+BelSv joins the table at seat #2
+Ale4o: checks
+Lucylove12: bets $6
+Ale4o: raises $6 to $12
+Lucylove12: calls $6
+*** RIVER *** [7d 7s Ks Ac] [As]
+Ale4o: bets $6
+Lucylove12: calls $6
+*** SHOW DOWN ***
+Ale4o: shows [Ad 9d] (a full house, Aces full of Sevens)
+Lucylove12: mucks hand
+Ale4o collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [7d 7s Ks Ac As]
+Seat 1: Ale4o (big blind) showed [Ad 9d] and won ($59.50) with a full house, Aces full of Sevens
+Seat 10: Lucylove12 (button) (small blind) mucked
+
+
+PokerStars Hand #163962499798:  Hold'em Limit ($3/$6 USD) - 2017/01/03 8:43:17 ET
+Table 'Rimito' 10-max Seat #1 is the button
+Seat 1: Ale4o ($203.63 in chips)
+Seat 2: BelSv ($85.46 in chips)
+Ale4o: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+Ale4o: raises $3 to $6
+BelSv: calls $3
+*** FLOP *** [Ts Tc 5h]
+BelSv: bets $3
+Ale4o: folds
+Uncalled bet ($3) returned to BelSv
+BelSv collected $11.76 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ts Tc 5h]
+Seat 1: Ale4o (button) (small blind) folded on the Flop
+Seat 2: BelSv (big blind) collected ($11.76)
+
+

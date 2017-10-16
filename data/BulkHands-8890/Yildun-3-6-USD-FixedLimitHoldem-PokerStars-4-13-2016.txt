@@ -1,0 +1,101 @@
+PokerStars Hand #151846653762:  Hold'em Limit ($3/$6 USD) - 2016/04/13 4:41:38 ET
+Table 'Yildun' 10-max Seat #10 is the button
+Seat 1: kolaz03 ($75 in chips)
+Seat 10: Mind90 ($117 in chips)
+Mind90: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+Mind90: raises $3 to $6
+kolaz03: calls $3
+*** FLOP *** [6h 9s 7h]
+kolaz03: checks
+Mind90: bets $3
+kolaz03: raises $3 to $6
+Mind90: calls $3
+*** TURN *** [6h 9s 7h] [As]
+kolaz03: bets $6
+Mind90: calls $6
+*** RIVER *** [6h 9s 7h As] [3s]
+kolaz03: checks
+Mind90: bets $6
+kolaz03: calls $6
+*** SHOW DOWN ***
+Mind90: shows [Ad 3c] (two pair, Aces and Threes)
+kolaz03: mucks hand
+Mind90 collected $47.50 from pot
+fire852181 joins the table at seat #8
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [6h 9s 7h As 3s]
+Seat 1: kolaz03 (big blind) mucked
+Seat 10: Mind90 (button) (small blind) showed [Ad 3c] and won ($47.50) with two pair, Aces and Threes
+
+
+PokerStars Hand #151846646516:  Hold'em Limit ($3/$6 USD) - 2016/04/13 4:41:17 ET
+Table 'Yildun' 10-max Seat #1 is the button
+Seat 1: kolaz03 ($72 in chips)
+Seat 10: Mind90 ($120 in chips)
+B_loJkl joins the table at seat #2
+Agrotait: is sitting out
+kolaz03: posts small blind $1
+Mind90: posts big blind $3
+*** HOLE CARDS ***
+Agrotait leaves the table
+kolaz03: raises $3 to $6
+Mind90: folds
+Uncalled bet ($3) returned to kolaz03
+kolaz03 collected $6 from pot
+kolaz03: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: kolaz03 (button) (small blind) collected ($6)
+Seat 10: Mind90 (big blind) folded before Flop
+
+
+PokerStars Hand #151846851521:  Hold'em Limit ($3/$6 USD) - 2016/04/13 4:51:04 ET
+Table 'Yildun' 10-max Seat #5 is the button
+Seat 5: Bonsey_1 ($61.12 in chips)
+Seat 6: B_loJkl ($171.54 in chips)
+Bonsey_1: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Bonsey_1: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: Bonsey_1 (button) (small blind) folded before Flop
+Seat 6: B_loJkl (big blind) collected ($2)
+
+
+PokerStars Hand #151846842599:  Hold'em Limit ($3/$6 USD) - 2016/04/13 4:50:39 ET
+Table 'Yildun' 10-max Seat #6 is the button
+Seat 5: Bonsey_1 ($43.62 in chips)
+Seat 6: B_loJkl ($189.54 in chips)
+B_loJkl: posts small blind $1
+Bonsey_1: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+Bonsey_1: raises $3 to $9
+B_loJkl: calls $3
+*** FLOP *** [6c 3s 7c]
+Bonsey_1: bets $3
+B_loJkl: calls $3
+*** TURN *** [6c 3s 7c] [Js]
+Bonsey_1: checks
+B_loJkl: checks
+*** RIVER *** [6c 3s 7c Js] [Tc]
+Bonsey_1: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+Bonsey_1: shows [9d Ts] (a pair of Tens)
+B_loJkl: mucks hand
+Bonsey_1 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6c 3s 7c Js Tc]
+Seat 5: Bonsey_1 (big blind) showed [9d Ts] and won ($35.50) with a pair of Tens
+Seat 6: B_loJkl (button) (small blind) mucked
+
+

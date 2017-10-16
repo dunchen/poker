@@ -1,0 +1,77 @@
+PokerStars Hand #171457393601:  Hold'em Limit ($3/$6 USD) - 2017/06/07 7:10:36 ET
+Table 'Ceraskia II' 6-max Seat #3 is the button
+Seat 3: popesxxx ($16.98 in chips)
+Seat 5: MTails ($141.50 in chips)
+popesxxx: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+popesxxx: raises $3 to $6
+MTails: raises $3 to $9
+popesxxx: raises $3 to $12
+Betting is capped
+MTails: calls $3
+*** FLOP *** [3s 2c 6h]
+MTails: bets $3
+popesxxx: raises $1.98 to $4.98 and is all-in
+MTails: calls $1.98
+*** TURN *** [3s 2c 6h] [9s]
+*** RIVER *** [3s 2c 6h 9s] [9d]
+*** SHOW DOWN ***
+MTails: shows [2s 2d] (a full house, Deuces full of Nines)
+popesxxx: shows [Qh Th] (a pair of Nines)
+MTails collected $33.46 from pot
+*** SUMMARY ***
+Total pot $33.96 | Rake $0.50
+Board [3s 2c 6h 9s 9d]
+Seat 3: popesxxx (button) (small blind) showed [Qh Th] and lost with a pair of Nines
+Seat 5: MTails (big blind) showed [2s 2d] and won ($33.46) with a full house, Deuces full of Nines
+
+
+PokerStars Hand #171457379129:  Hold'em Limit ($3/$6 USD) - 2017/06/07 7:10:02 ET
+Table 'Ceraskia II' 6-max Seat #3 is the button
+Seat 3: popesxxx ($38.98 in chips)
+Seat 5: MTails ($120 in chips)
+popesxxx: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+popesxxx: folds
+Uncalled bet ($2) returned to MTails
+MTails collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: popesxxx (button) (small blind) folded before Flop
+Seat 5: MTails (big blind) collected ($2)
+
+
+PokerStars Hand #171457382476:  Hold'em Limit ($3/$6 USD) - 2017/06/07 7:10:10 ET
+Table 'Ceraskia II' 6-max Seat #5 is the button
+Seat 3: popesxxx ($37.98 in chips)
+Seat 5: MTails ($121 in chips)
+MTails: posts small blind $1
+popesxxx: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+popesxxx: calls $3
+*** FLOP *** [Js Qs As]
+popesxxx: checks
+MTails: bets $3
+popesxxx: calls $3
+*** TURN *** [Js Qs As] [Kd]
+popesxxx: checks
+MTails: bets $6
+popesxxx: calls $6
+*** RIVER *** [Js Qs As Kd] [Ah]
+popesxxx: checks
+MTails: bets $6
+popesxxx: calls $6
+*** SHOW DOWN ***
+MTails: shows [6d Kc] (two pair, Aces and Kings)
+popesxxx: mucks hand
+MTails collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Js Qs As Kd Ah]
+Seat 3: popesxxx (big blind) mucked
+Seat 5: MTails (button) (small blind) showed [6d Kc] and won ($41.50) with two pair, Aces and Kings
+
+

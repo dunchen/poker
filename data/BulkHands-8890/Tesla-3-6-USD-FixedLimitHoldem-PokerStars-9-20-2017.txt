@@ -1,0 +1,29 @@
+PokerStars Hand #175886762185:  Hold'em Limit ($3/$6 USD) - 2017/09/20 8:44:53 ET
+Table 'Tesla' 6-max Seat #5 is the button
+Seat 4: nizogor77 ($70.54 in chips)
+Seat 5: love_mmm ($78.32 in chips)
+love_mmm: posts small blind $1
+nizogor77: posts big blind $3
+*** HOLE CARDS ***
+love_mmm: calls $2
+nizogor77: checks
+*** FLOP *** [5d 2s Qc]
+nizogor77: bets $3
+love_mmm: calls $3
+*** TURN *** [5d 2s Qc] [Qh]
+nizogor77: bets $6
+love_mmm: calls $6
+*** RIVER *** [5d 2s Qc Qh] [Ad]
+nizogor77: checks
+love_mmm: checks
+*** SHOW DOWN ***
+nizogor77: shows [3c 8s] (a pair of Queens)
+love_mmm: shows [5h 8d] (two pair, Queens and Fives)
+love_mmm collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [5d 2s Qc Qh Ad]
+Seat 4: nizogor77 (big blind) showed [3c 8s] and lost with a pair of Queens
+Seat 5: love_mmm (button) (small blind) showed [5h 8d] and won ($23.52) with two pair, Queens and Fives
+
+

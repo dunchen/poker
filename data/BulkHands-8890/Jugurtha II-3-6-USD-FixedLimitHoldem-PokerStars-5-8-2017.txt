@@ -1,0 +1,117 @@
+PokerStars Hand #170131875851:  Hold'em Limit ($3/$6 USD) - 2017/05/08 12:19:53 ET
+Table 'Jugurtha II' 10-max Seat #5 is the button
+Seat 1: lara725 ($111 in chips)
+Seat 5: simper11 ($128.64 in chips)
+simper11: posts small blind $1
+lara725: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+lara725: calls $3
+*** FLOP *** [6d 5h 8s]
+lara725: checks
+simper11: bets $3
+lara725: raises $3 to $6
+simper11: calls $3
+*** TURN *** [6d 5h 8s] [Jc]
+lara725: bets $6
+simper11: calls $6
+*** RIVER *** [6d 5h 8s Jc] [Qc]
+lara725: bets $6
+simper11: calls $6
+*** SHOW DOWN ***
+lara725: shows [8c Qd] (two pair, Queens and Eights)
+simper11: mucks hand
+lara725 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [6d 5h 8s Jc Qc]
+Seat 1: lara725 (big blind) showed [8c Qd] and won ($47.50) with two pair, Queens and Eights
+Seat 5: simper11 (button) (small blind) mucked
+
+
+PokerStars Hand #170131852196:  Hold'em Limit ($3/$6 USD) - 2017/05/08 12:19:21 ET
+Table 'Jugurtha II' 10-max Seat #1 is the button
+Seat 1: lara725 ($120 in chips)
+Seat 5: simper11 ($120 in chips)
+lara725: posts small blind $1
+B_loJkl joins the table at seat #2
+simper11: posts big blind $3
+*** HOLE CARDS ***
+lara725: raises $3 to $6
+simper11: calls $3
+*** FLOP *** [As Kd 4d]
+simper11: checks
+lara725: bets $3
+simper11: raises $3 to $6
+lara725: folds
+Uncalled bet ($3) returned to simper11
+simper11 collected $17.64 from pot
+simper11: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [As Kd 4d]
+Seat 1: lara725 (button) (small blind) folded on the Flop
+Seat 5: simper11 (big blind) collected ($17.64)
+
+
+PokerStars Hand #170132281744:  Hold'em Limit ($3/$6 USD) - 2017/05/08 12:28:58 ET
+Table 'Jugurtha II' 10-max Seat #5 is the button
+Seat 2: B_loJkl ($119.31 in chips)
+Seat 5: simper11 ($122.84 in chips)
+simper11: posts small blind $1
+lara725: is sitting out
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [6h Qc 7c]
+lara725 leaves the table
+B_loJkl: checks
+simper11: bets $3
+B_loJkl: calls $3
+*** TURN *** [6h Qc 7c] [9h]
+B_loJkl: checks
+simper11: checks
+*** RIVER *** [6h Qc 7c 9h] [Qh]
+B_loJkl: bets $6
+simper11: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $17.64 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6h Qc 7c 9h Qh]
+Seat 2: B_loJkl (big blind) collected ($17.64)
+Seat 5: simper11 (button) (small blind) folded on the River
+
+
+PokerStars Hand #170132301965:  Hold'em Limit ($3/$6 USD) - 2017/05/08 12:29:26 ET
+Table 'Jugurtha II' 10-max Seat #2 is the button
+Seat 2: B_loJkl ($127.95 in chips)
+Seat 5: simper11 ($120 in chips)
+B_loJkl: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+simper11: raises $3 to $9
+B_loJkl: calls $3
+*** FLOP *** [9h Qs 4c]
+simper11: bets $3
+B_loJkl: calls $3
+*** TURN *** [9h Qs 4c] [3s]
+simper11: bets $6
+B_loJkl: calls $6
+*** RIVER *** [9h Qs 4c 3s] [6d]
+simper11: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+simper11: shows [As Th] (high card Ace)
+B_loJkl: shows [5s 9c] (a pair of Nines)
+B_loJkl collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9h Qs 4c 3s 6d]
+Seat 2: B_loJkl (button) (small blind) showed [5s 9c] and won ($47.50) with a pair of Nines
+Seat 5: simper11 (big blind) showed [As Th] and lost with high card Ace
+
+

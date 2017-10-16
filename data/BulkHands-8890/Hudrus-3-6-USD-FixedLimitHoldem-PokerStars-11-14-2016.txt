@@ -1,0 +1,27 @@
+PokerStars Hand #161375017449:  Hold'em Limit ($3/$6 USD) - 2016/11/14 1:23:11 ET
+Table 'Hudrus' 6-max Seat #4 is the button
+Seat 3: habari786 ($11 in chips)
+Seat 4: Agrotait ($119.78 in chips)
+Agrotait: posts small blind $1
+habari786: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+habari786: calls $3
+*** FLOP *** [5s Qd Td]
+habari786: bets $3
+Agrotait: raises $3 to $6
+habari786: calls $2 and is all-in
+Uncalled bet ($1) returned to Agrotait
+*** TURN *** [5s Qd Td] [2h]
+*** RIVER *** [5s Qd Td 2h] [Kc]
+*** SHOW DOWN ***
+habari786: shows [5c 4s] (a pair of Fives)
+Agrotait: shows [Qh 4d] (a pair of Queens)
+Agrotait collected $21.56 from pot
+*** SUMMARY ***
+Total pot $22 | Rake $0.44
+Board [5s Qd Td 2h Kc]
+Seat 3: habari786 (big blind) showed [5c 4s] and lost with a pair of Fives
+Seat 4: Agrotait (button) (small blind) showed [Qh 4d] and won ($21.56) with a pair of Queens
+
+

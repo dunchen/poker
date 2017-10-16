@@ -1,0 +1,31 @@
+PokerStars Hand #172636204877:  Hold'em Limit ($3/$6 USD) - 2017/07/05 10:41:50 ET
+Table 'Mathesis' 10-max Seat #6 is the button
+Seat 6: sim5sim5 ($72 in chips)
+Seat 7: BAD-Chri$$y ($75 in chips)
+sim5sim5: posts small blind $1
+BAD-Chri$$y: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+BAD-Chri$$y: calls $3
+*** FLOP *** [5h 4h 7h]
+BAD-Chri$$y: checks
+sim5sim5: bets $3
+BAD-Chri$$y: calls $3
+*** TURN *** [5h 4h 7h] [Tc]
+BAD-Chri$$y: checks
+sim5sim5: bets $6
+BAD-Chri$$y: calls $6
+*** RIVER *** [5h 4h 7h Tc] [9h]
+BAD-Chri$$y: checks
+sim5sim5: checks
+*** SHOW DOWN ***
+BAD-Chri$$y: shows [6s Ks] (high card King)
+sim5sim5: shows [Qc 6h] (a flush, Nine high)
+sim5sim5 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5h 4h 7h Tc 9h]
+Seat 6: sim5sim5 (button) (small blind) showed [Qc 6h] and won ($29.50) with a flush, Nine high
+Seat 7: BAD-Chri$$y (big blind) showed [6s Ks] and lost with high card King
+
+

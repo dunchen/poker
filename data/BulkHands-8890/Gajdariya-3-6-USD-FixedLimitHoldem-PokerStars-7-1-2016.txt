@@ -1,0 +1,87 @@
+PokerStars Hand #155408165553:  Hold'em Limit ($3/$6 USD) - 2016/06/30 20:37:02 ET
+Table 'Gajdariya' 6-max Seat #6 is the button
+Seat 3: Masqb ($290.24 in chips)
+Seat 6: BrownieSpy ($188.49 in chips)
+BrownieSpy: posts small blind $1
+Masqb: posts big blind $3
+*** HOLE CARDS ***
+BrownieSpy: raises $3 to $6
+Masqb: calls $3
+*** FLOP *** [7d 9c 4c]
+Masqb: checks
+BrownieSpy: bets $3
+Masqb: raises $3 to $6
+BrownieSpy: calls $3
+*** TURN *** [7d 9c 4c] [Jc]
+Masqb: bets $6
+BrownieSpy: raises $6 to $12
+Masqb: calls $6
+*** RIVER *** [7d 9c 4c Jc] [Jh]
+Masqb: checks
+BrownieSpy: bets $6
+Masqb: calls $6
+*** SHOW DOWN ***
+BrownieSpy: shows [6c Ac] (a flush, Ace high)
+Masqb: mucks hand
+BrownieSpy collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [7d 9c 4c Jc Jh]
+Seat 3: Masqb (big blind) mucked
+Seat 6: BrownieSpy (button) (small blind) showed [6c Ac] and won ($59.50) with a flush, Ace high
+
+
+PokerStars Hand #155408190642:  Hold'em Limit ($3/$6 USD) - 2016/06/30 20:37:59 ET
+Table 'Gajdariya' 6-max Seat #3 is the button
+Seat 3: Masqb ($260.24 in chips)
+Seat 6: BrownieSpy ($217.99 in chips)
+Masqb: posts small blind $1
+BrownieSpy: posts big blind $3
+*** HOLE CARDS ***
+Masqb: raises $3 to $6
+BrownieSpy: calls $3
+*** FLOP *** [5h Ks 4h]
+BrownieSpy: checks
+Masqb: bets $3
+BrownieSpy: calls $3
+*** TURN *** [5h Ks 4h] [Kd]
+BrownieSpy: checks
+Masqb: checks
+*** RIVER *** [5h Ks 4h Kd] [Ac]
+BrownieSpy: checks
+Masqb: bets $6
+BrownieSpy: calls $6
+*** SHOW DOWN ***
+Masqb: shows [9h Tc] (a pair of Kings)
+BrownieSpy: shows [5c 7s] (two pair, Kings and Fives)
+BrownieSpy collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5h Ks 4h Kd Ac]
+Seat 3: Masqb (button) (small blind) showed [9h Tc] and lost with a pair of Kings
+Seat 6: BrownieSpy (big blind) showed [5c 7s] and won ($29.50) with two pair, Kings and Fives
+
+
+PokerStars Hand #155408614171:  Hold'em Limit ($3/$6 USD) - 2016/06/30 20:54:28 ET
+Table 'Gajdariya' 6-max Seat #6 is the button
+Seat 3: Masqb ($208.93 in chips)
+Seat 6: BrownieSpy ($197.17 in chips)
+BrownieSpy: posts small blind $1
+Masqb: posts big blind $3
+*** HOLE CARDS ***
+BrownieSpy: raises $3 to $6
+Masqb: calls $3
+*** FLOP *** [3s Qd 5s]
+Masqb: checks
+BrownieSpy: bets $3
+Masqb: folds
+Uncalled bet ($3) returned to BrownieSpy
+BrownieSpy collected $11.76 from pot
+BrownieSpy: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3s Qd 5s]
+Seat 3: Masqb (big blind) folded on the Flop
+Seat 6: BrownieSpy (button) (small blind) collected ($11.76)
+
+

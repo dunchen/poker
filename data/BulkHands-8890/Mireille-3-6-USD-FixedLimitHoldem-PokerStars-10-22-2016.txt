@@ -1,0 +1,30 @@
+PokerStars Hand #160274100050:  Hold'em Limit ($3/$6 USD) - 2016/10/22 7:51:23 ET
+Table 'Mireille' 10-max Seat #10 is the button
+Seat 6: FHstyles ($60 in chips)
+Seat 10: prallimall ($40.38 in chips)
+prallimall: posts small blind $1
+FHstyles: posts big blind $3
+*** HOLE CARDS ***
+prallimall: raises $3 to $6
+FHstyles: raises $3 to $9
+prallimall: calls $3
+*** FLOP *** [Tc 3d 9h]
+FHstyles: bets $3
+prallimall: calls $3
+*** TURN *** [Tc 3d 9h] [Qd]
+FHstyles: bets $6
+prallimall: calls $6
+*** RIVER *** [Tc 3d 9h Qd] [6s]
+FHstyles: bets $6
+prallimall: calls $6
+*** SHOW DOWN ***
+FHstyles: shows [Qc Kd] (a pair of Queens)
+prallimall: mucks hand
+FHstyles collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Tc 3d 9h Qd 6s]
+Seat 6: FHstyles (big blind) showed [Qc Kd] and won ($47.50) with a pair of Queens
+Seat 10: prallimall (button) (small blind) mucked
+
+

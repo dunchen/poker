@@ -1,0 +1,93 @@
+PokerStars Hand #154421298602:  Hold'em Limit ($3/$6 USD) - 2016/06/07 13:10:39 ET
+Table 'Mathilda III' 6-max Seat #4 is the button
+Seat 1: Ag3r0n ($268.30 in chips)
+Seat 4: @yder9 ($178.77 in chips)
+@yder9: posts small blind $1
+RockKillerTY: is sitting out
+Ag3r0n: posts big blind $3
+*** HOLE CARDS ***
+@yder9: raises $3 to $6
+Ag3r0n: calls $3
+*** FLOP *** [8d 3d Kd]
+RockKillerTY leaves the table
+Ag3r0n: checks
+@yder9: bets $3
+dborys joins the table at seat #3
+Ag3r0n: raises $3 to $6
+@yder9: calls $3
+*** TURN *** [8d 3d Kd] [8h]
+Ag3r0n: bets $6
+@yder9: raises $6 to $12
+Ag3r0n: folds
+Uncalled bet ($6) returned to @yder9
+@yder9 collected $35.50 from pot
+@yder9: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [8d 3d Kd 8h]
+Seat 1: Ag3r0n (big blind) folded on the Turn
+Seat 4: @yder9 (button) (small blind) collected ($35.50)
+
+
+PokerStars Hand #154421324039:  Hold'em Limit ($3/$6 USD) - 2016/06/07 13:11:12 ET
+Table 'Mathilda III' 6-max Seat #1 is the button
+Seat 1: Ag3r0n ($250.30 in chips)
+Seat 3: dborys ($150 in chips)
+Ag3r0n: posts small blind $1
+dborys: posts big blind $3
+*** HOLE CARDS ***
+Ag3r0n: raises $3 to $6
+dborys: calls $3
+*** FLOP *** [6s Kh 4s]
+dborys: checks
+Ag3r0n: bets $3
+dborys: calls $3
+*** TURN *** [6s Kh 4s] [2d]
+dborys: checks
+Ag3r0n: bets $6
+dborys: raises $6 to $12
+Ag3r0n: calls $6
+*** RIVER *** [6s Kh 4s 2d] [3s]
+dborys: bets $6
+Ag3r0n: calls $6
+*** SHOW DOWN ***
+dborys: shows [8s 7h] (high card King)
+Ag3r0n: shows [Ad Ac] (a pair of Aces)
+Ag3r0n collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [6s Kh 4s 2d 3s]
+Seat 1: Ag3r0n (button) (small blind) showed [Ad Ac] and won ($53.50) with a pair of Aces
+Seat 3: dborys (big blind) showed [8s 7h] and lost with high card King
+
+
+PokerStars Hand #154421602512:  Hold'em Limit ($3/$6 USD) - 2016/06/07 13:17:00 ET
+Table 'Mathilda III' 6-max Seat #3 is the button
+Seat 1: Ag3r0n ($278.89 in chips)
+Seat 3: dborys ($226.11 in chips)
+dborys: posts small blind $1
+Ag3r0n: posts big blind $3
+*** HOLE CARDS ***
+dborys: raises $3 to $6
+Ag3r0n: calls $3
+*** FLOP *** [Qc 7s 5d]
+Ag3r0n: bets $3
+dborys: calls $3
+*** TURN *** [Qc 7s 5d] [Ah]
+Ag3r0n: bets $6
+dborys: raises $6 to $12
+Ag3r0n: calls $6
+*** RIVER *** [Qc 7s 5d Ah] [Kd]
+Ag3r0n: checks
+dborys: bets $6
+Ag3r0n: raises $6 to $12
+dborys: folds
+Uncalled bet ($6) returned to Ag3r0n
+Ag3r0n collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Qc 7s 5d Ah Kd]
+Seat 1: Ag3r0n (big blind) collected ($53.50)
+Seat 3: dborys (button) (small blind) folded on the River
+
+

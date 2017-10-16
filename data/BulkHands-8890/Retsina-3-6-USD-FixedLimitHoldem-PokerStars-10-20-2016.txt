@@ -1,0 +1,81 @@
+PokerStars Hand #160212939235:  Hold'em Limit ($3/$6 USD) - 2016/10/20 19:07:41 ET
+Table 'Retsina' 6-max Seat #1 is the button
+Seat 1: DirtyDouble2 ($120 in chips)
+Seat 4: Actionni13 ($150 in chips)
+DirtyDouble2: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+DirtyDouble2: raises $3 to $6
+Actionni13: calls $3
+*** FLOP *** [Qs 2s Ad]
+Actionni13: checks
+DirtyDouble2: bets $3
+Actionni13: calls $3
+*** TURN *** [Qs 2s Ad] [8c]
+Actionni13: checks
+DirtyDouble2: bets $6
+Actionni13: calls $6
+*** RIVER *** [Qs 2s Ad 8c] [Qd]
+Actionni13: checks
+DirtyDouble2: checks
+*** SHOW DOWN ***
+Actionni13: shows [Jc Th] (a pair of Queens)
+DirtyDouble2: shows [Js Kc] (a pair of Queens - Ace+King kicker)
+DirtyDouble2 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qs 2s Ad 8c Qd]
+Seat 1: DirtyDouble2 (button) (small blind) showed [Js Kc] and won ($29.50) with a pair of Queens
+Seat 4: Actionni13 (big blind) showed [Jc Th] and lost with a pair of Queens
+
+
+PokerStars Hand #160212954662:  Hold'em Limit ($3/$6 USD) - 2016/10/20 19:08:06 ET
+Table 'Retsina' 6-max Seat #4 is the button
+Seat 1: DirtyDouble2 ($134.50 in chips)
+Seat 4: Actionni13 ($150 in chips)
+Actionni13: posts small blind $1
+RaisemyNut$ joins the table at seat #2
+DirtyDouble2: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+DirtyDouble2: folds
+Uncalled bet ($3) returned to Actionni13
+Actionni13 collected $6 from pot
+Actionni13: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: DirtyDouble2 (big blind) folded before Flop
+Seat 4: Actionni13 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #160214279475:  Hold'em Limit ($3/$6 USD) - 2016/10/20 19:46:29 ET
+Table 'Retsina' 6-max Seat #3 is the button
+Seat 2: RaisemyNut$ ($147.84 in chips)
+Seat 3: ToDaFelt ($217.75 in chips)
+ToDaFelt: posts small blind $1
+RaisemyNut$: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+RaisemyNut$: calls $3
+*** FLOP *** [Jd 8d 2c]
+RaisemyNut$: checks
+ToDaFelt: checks
+*** TURN *** [Jd 8d 2c] [Qc]
+RaisemyNut$: bets $6
+ToDaFelt: raises $6 to $12
+RaisemyNut$: raises $6 to $18
+ToDaFelt: calls $6
+*** RIVER *** [Jd 8d 2c Qc] [4c]
+RaisemyNut$: bets $6
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+RaisemyNut$: shows [Qd 8c] (two pair, Queens and Eights)
+ToDaFelt: mucks hand
+RaisemyNut$ collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Jd 8d 2c Qc 4c]
+Seat 2: RaisemyNut$ (big blind) showed [Qd 8c] and won ($59.50) with two pair, Queens and Eights
+Seat 3: ToDaFelt (button) (small blind) mucked
+
+

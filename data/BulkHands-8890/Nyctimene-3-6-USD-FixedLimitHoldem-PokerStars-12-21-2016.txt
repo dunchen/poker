@@ -1,0 +1,162 @@
+PokerStars Hand #163306348955:  Hold'em Limit ($3/$6 USD) - 2016/12/21 15:12:23 ET
+Table 'Nyctimene' 6-max Seat #2 is the button
+Seat 1: kingj1978 ($83 in chips)
+Seat 2: vestimokrec ($117 in chips)
+vestimokrec: posts small blind $1
+kingj1978: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+kingj1978: calls $3
+*** FLOP *** [8s 5d 3c]
+fsreibnitz joins the table at seat #3
+kingj1978: checks
+vestimokrec: bets $3
+kingj1978: calls $3
+*** TURN *** [8s 5d 3c] [9h]
+kingj1978: checks
+vestimokrec: bets $6
+kingj1978: calls $6
+*** RIVER *** [8s 5d 3c 9h] [Kc]
+kingj1978: bets $6
+vestimokrec: calls $6
+*** SHOW DOWN ***
+kingj1978: shows [Kd Th] (a pair of Kings)
+vestimokrec: mucks hand
+kingj1978 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [8s 5d 3c 9h Kc]
+Seat 1: kingj1978 (big blind) showed [Kd Th] and won ($41.50) with a pair of Kings
+Seat 2: vestimokrec (button) (small blind) mucked
+
+
+PokerStars Hand #163306376514:  Hold'em Limit ($3/$6 USD) - 2016/12/21 15:12:51 ET
+Table 'Nyctimene' 6-max Seat #1 is the button
+Seat 1: kingj1978 ($103.50 in chips)
+Seat 2: vestimokrec ($96 in chips)
+kingj1978: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+kingj1978: raises $3 to $6
+vestimokrec: calls $3
+*** FLOP *** [Kd Qh 2c]
+vestimokrec: checks
+kingj1978: bets $3
+vestimokrec: raises $3 to $6
+GoliafUa leaves the table
+kingj1978: calls $3
+*** TURN *** [Kd Qh 2c] [Jd]
+vestimokrec: checks
+kingj1978: bets $6
+vestimokrec: calls $6
+*** RIVER *** [Kd Qh 2c Jd] [7s]
+vestimokrec: checks
+kingj1978: bets $6
+vestimokrec: calls $6
+*** SHOW DOWN ***
+kingj1978: shows [Kh As] (a pair of Kings)
+vestimokrec: shows [7c Jc] (two pair, Jacks and Sevens)
+vestimokrec collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Kd Qh 2c Jd 7s]
+Seat 1: kingj1978 (button) (small blind) showed [Kh As] and lost with a pair of Kings
+Seat 2: vestimokrec (big blind) showed [7c Jc] and won ($47.50) with two pair, Jacks and Sevens
+
+
+PokerStars Hand #163308194221:  Hold'em Limit ($3/$6 USD) - 2016/12/21 15:43:42 ET
+Table 'Nyctimene' 6-max Seat #1 is the button
+Seat 1: ToDaFelt ($148.34 in chips)
+Seat 5: O>_Fu_<O ($40.63 in chips)
+ToDaFelt: posts small blind $1
+liamOS: is sitting out
+O>_Fu_<O: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+O>_Fu_<O: calls $3
+*** FLOP *** [9c Qd 4s]
+O>_Fu_<O: checks
+liamOS leaves the table
+ToDaFelt: checks
+*** TURN *** [9c Qd 4s] [As]
+O>_Fu_<O: bets $6
+ToDaFelt: raises $6 to $12
+O>_Fu_<O: calls $6
+*** RIVER *** [9c Qd 4s As] [6c]
+O>_Fu_<O: checks
+ToDaFelt: bets $6
+O>_Fu_<O: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [3h Ah] (a pair of Aces)
+O>_Fu_<O: mucks hand
+ToDaFelt collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9c Qd 4s As 6c]
+Seat 1: ToDaFelt (button) (small blind) showed [3h Ah] and won ($47.50) with a pair of Aces
+Seat 5: O>_Fu_<O (big blind) mucked
+
+
+PokerStars Hand #163308218552:  Hold'em Limit ($3/$6 USD) - 2016/12/21 15:44:06 ET
+Table 'Nyctimene' 6-max Seat #5 is the button
+Seat 1: ToDaFelt ($171.84 in chips)
+Seat 5: O>_Fu_<O ($16.63 in chips)
+O>_Fu_<O: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+O>_Fu_<O: folds
+Uncalled bet ($2) returned to ToDaFelt
+ToDaFelt collected $2 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: ToDaFelt (big blind) collected ($2)
+Seat 5: O>_Fu_<O (button) (small blind) folded before Flop
+
+
+PokerStars Hand #163308235382:  Hold'em Limit ($3/$6 USD) - 2016/12/21 15:44:23 ET
+Table 'Nyctimene' 6-max Seat #5 is the button
+Seat 1: ToDaFelt ($175.84 in chips)
+Seat 5: O>_Fu_<O ($12.63 in chips)
+O>_Fu_<O: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+O>_Fu_<O: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [4d Ah Ad]
+ToDaFelt: checks
+O>_Fu_<O: bets $3
+ToDaFelt: raises $3 to $6
+O>_Fu_<O: raises $0.63 to $6.63 and is all-in
+ToDaFelt: calls $0.63
+*** TURN *** [4d Ah Ad] [Th]
+*** RIVER *** [4d Ah Ad Th] [5h]
+*** SHOW DOWN ***
+ToDaFelt: shows [Jh 3h] (a flush, Ace high)
+O>_Fu_<O: shows [6h 5c] (two pair, Aces and Fives)
+ToDaFelt collected $24.76 from pot
+*** SUMMARY ***
+Total pot $25.26 | Rake $0.50
+Board [4d Ah Ad Th 5h]
+Seat 1: ToDaFelt (big blind) showed [Jh 3h] and won ($24.76) with a flush, Ace high
+Seat 5: O>_Fu_<O (button) (small blind) showed [6h 5c] and lost with two pair, Aces and Fives
+
+
+PokerStars Hand #163308224138:  Hold'em Limit ($3/$6 USD) - 2016/12/21 15:44:12 ET
+Table 'Nyctimene' 6-max Seat #1 is the button
+Seat 1: ToDaFelt ($172.84 in chips)
+Seat 5: O>_Fu_<O ($15.63 in chips)
+ToDaFelt: posts small blind $1
+O>_Fu_<O: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+O>_Fu_<O: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $6 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: ToDaFelt (button) (small blind) collected ($6)
+Seat 5: O>_Fu_<O (big blind) folded before Flop
+
+

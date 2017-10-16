@@ -1,0 +1,88 @@
+PokerStars Hand #159410490130:  Hold'em Limit ($3/$6 USD) - 2016/10/03 5:26:14 ET
+Table 'Ra-Shalom' 6-max Seat #5 is the button
+Seat 1: Velbor107 ($291 in chips)
+Seat 5: Icecold ($39.29 in chips)
+Icecold: posts small blind $1
+Velbor107: posts big blind $3
+*** HOLE CARDS ***
+Icecold: raises $3 to $6
+Velbor107: calls $3
+*** FLOP *** [6c 5d 2s]
+Velbor107: checks
+Icecold: checks
+*** TURN *** [6c 5d 2s] [8d]
+Velbor107: bets $6
+Icecold: calls $6
+*** RIVER *** [6c 5d 2s 8d] [Qd]
+Velbor107: bets $6
+Icecold: calls $6
+*** SHOW DOWN ***
+Velbor107: shows [9c Qh] (a pair of Queens)
+Icecold: mucks hand
+Velbor107 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6c 5d 2s 8d Qd]
+Seat 1: Velbor107 (big blind) showed [9c Qh] and won ($35.50) with a pair of Queens
+Seat 5: Icecold (button) (small blind) mucked
+
+
+PokerStars Hand #159410482236:  Hold'em Limit ($3/$6 USD) - 2016/10/03 5:25:52 ET
+Table 'Ra-Shalom' 6-max Seat #1 is the button
+Seat 1: Velbor107 ($300 in chips)
+Seat 5: Icecold ($30.65 in chips)
+Velbor107: posts small blind $1
+Icecold: posts big blind $3
+*** HOLE CARDS ***
+Velbor107: raises $3 to $6
+Icecold: calls $3
+*** FLOP *** [Ah Ad Qc]
+Icecold: checks
+Velbor107: bets $3
+Icecold: calls $3
+*** TURN *** [Ah Ad Qc] [Jd]
+Icecold: checks
+Velbor107: checks
+*** RIVER *** [Ah Ad Qc Jd] [9d]
+Icecold: bets $6
+Velbor107: folds
+Uncalled bet ($6) returned to Icecold
+Icecold collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ah Ad Qc Jd 9d]
+Seat 1: Velbor107 (button) (small blind) folded on the River
+Seat 5: Icecold (big blind) collected ($17.64)
+
+
+PokerStars Hand #159410496886:  Hold'em Limit ($3/$6 USD) - 2016/10/03 5:26:32 ET
+Table 'Ra-Shalom' 6-max Seat #1 is the button
+Seat 1: Velbor107 ($308.50 in chips)
+Seat 5: Icecold ($21.29 in chips)
+Velbor107: posts small blind $1
+Icecold: posts big blind $3
+*** HOLE CARDS ***
+Velbor107: raises $3 to $6
+Icecold: calls $3
+*** FLOP *** [Qd Td 6h]
+Icecold: checks
+Velbor107: bets $3
+Icecold: calls $3
+*** TURN *** [Qd Td 6h] [Ks]
+Icecold: bets $6
+Velbor107: raises $6 to $12
+Icecold: calls $6
+*** RIVER *** [Qd Td 6h Ks] [Kh]
+Icecold: bets $0.29 and is all-in
+Velbor107: calls $0.29
+*** SHOW DOWN ***
+Icecold: shows [5d Kc] (three of a kind, Kings)
+Velbor107: shows [Qc Qs] (a full house, Queens full of Kings)
+Velbor107 collected $42.08 from pot
+*** SUMMARY ***
+Total pot $42.58 | Rake $0.50
+Board [Qd Td 6h Ks Kh]
+Seat 1: Velbor107 (button) (small blind) showed [Qc Qs] and won ($42.08) with a full house, Queens full of Kings
+Seat 5: Icecold (big blind) showed [5d Kc] and lost with three of a kind, Kings
+
+

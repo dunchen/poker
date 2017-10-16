@@ -1,0 +1,96 @@
+PokerStars Hand #175799586857:  Hold'em Limit ($3/$6 USD) - 2017/09/18 7:17:13 ET
+Table 'Hilaritas' 10-max Seat #5 is the button
+Seat 5: zelenin775 ($107.98 in chips)
+Seat 7: GoliafUa ($120 in chips)
+zelenin775: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+zelenin775: calls $2
+GoliafUa: checks
+*** FLOP *** [Kc 9d 8s]
+GoliafUa: checks
+zelenin775: checks
+*** TURN *** [Kc 9d 8s] [Ah]
+GoliafUa: checks
+Psynto joins the table at seat #8
+zelenin775: checks
+*** RIVER *** [Kc 9d 8s Ah] [5c]
+GoliafUa: checks
+zelenin775: checks
+*** SHOW DOWN ***
+GoliafUa: shows [3h 4h] (high card Ace)
+zelenin775: shows [6s Qd] (high card Ace - King+Queen kicker)
+zelenin775 collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Kc 9d 8s Ah 5c]
+Seat 5: zelenin775 (button) (small blind) showed [6s Qd] and won ($5.88) with high card Ace
+Seat 7: GoliafUa (big blind) showed [3h 4h] and lost with high card Ace
+
+
+PokerStars Hand #175799584973:  Hold'em Limit ($3/$6 USD) - 2017/09/18 7:17:08 ET
+Table 'Hilaritas' 10-max Seat #7 is the button
+Seat 5: zelenin775 ($106.98 in chips)
+Seat 7: GoliafUa ($121 in chips)
+GoliafUa: posts small blind $1
+zelenin775: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa: folds
+Uncalled bet ($2) returned to zelenin775
+zelenin775 collected $2 from pot
+zelenin775: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: zelenin775 (big blind) collected ($2)
+Seat 7: GoliafUa (button) (small blind) folded before Flop
+
+
+PokerStars Hand #175799580794:  Hold'em Limit ($3/$6 USD) - 2017/09/18 7:16:58 ET
+Table 'Hilaritas' 10-max Seat #5 is the button
+Seat 5: zelenin775 ($107.98 in chips)
+Seat 7: GoliafUa ($120 in chips)
+Anchig: is sitting out
+zelenin775: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+zelenin775: folds
+Uncalled bet ($2) returned to GoliafUa
+GoliafUa collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: zelenin775 (button) (small blind) folded before Flop
+Seat 7: GoliafUa (big blind) collected ($2)
+
+
+PokerStars Hand #175800104772:  Hold'em Limit ($3/$6 USD) - 2017/09/18 7:38:25 ET
+Table 'Hilaritas' 10-max Seat #8 is the button
+Seat 7: GoliafUa ($276.17 in chips)
+Seat 8: Psynto ($95.86 in chips)
+Psynto: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+Psynto: raises $3 to $6
+GoliafUa: raises $3 to $9
+Psynto: calls $3
+*** FLOP *** [7h 3c 9d]
+zelenin775 leaves the table
+GoliafUa: bets $3
+Psynto: calls $3
+*** TURN *** [7h 3c 9d] [6d]
+GoliafUa: bets $6
+Psynto: raises $6 to $12
+GoliafUa: calls $6
+*** RIVER *** [7h 3c 9d 6d] [5s]
+GoliafUa: checks
+Psynto: checks
+*** SHOW DOWN ***
+GoliafUa: shows [7d As] (a pair of Sevens)
+Psynto: mucks hand
+GoliafUa collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7h 3c 9d 6d 5s]
+Seat 7: GoliafUa (big blind) showed [7d As] and won ($47.50) with a pair of Sevens
+Seat 8: Psynto (button) (small blind) mucked
+
+

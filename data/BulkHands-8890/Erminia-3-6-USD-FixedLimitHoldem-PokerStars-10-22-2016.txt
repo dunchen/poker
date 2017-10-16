@@ -1,0 +1,110 @@
+PokerStars Hand #160262797362:  Hold'em Limit ($3/$6 USD) - 2016/10/21 22:25:52 ET
+Table 'Erminia' 10-max Seat #10 is the button
+Seat 4: TinaTurner72 ($122.77 in chips)
+Seat 10: CharginWapos ($74.66 in chips)
+CharginWapos: posts small blind $1
+TinaTurner72: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa leaves the table
+CharginWapos: calls $2
+TinaTurner72: raises $3 to $6
+CharginWapos: calls $3
+*** FLOP *** [Tc 8s 2c]
+TinaTurner72: bets $3
+CharginWapos: calls $3
+*** TURN *** [Tc 8s 2c] [Kh]
+ghj_n joins the table at seat #6
+TinaTurner72: bets $6
+CharginWapos: calls $6
+*** RIVER *** [Tc 8s 2c Kh] [As]
+TinaTurner72: bets $6
+CharginWapos: raises $6 to $12
+TinaTurner72: calls $6
+*** SHOW DOWN ***
+CharginWapos: shows [Qs Jh] (a straight, Ten to Ace)
+TinaTurner72: mucks hand
+CharginWapos collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Tc 8s 2c Kh As]
+Seat 4: TinaTurner72 (big blind) mucked
+Seat 10: CharginWapos (button) (small blind) showed [Qs Jh] and won ($53.50) with a straight, Ten to Ace
+
+
+PokerStars Hand #160262835386:  Hold'em Limit ($3/$6 USD) - 2016/10/21 22:27:35 ET
+Table 'Erminia' 10-max Seat #6 is the button
+Seat 4: TinaTurner72 ($101.41 in chips)
+Seat 6: ghj_n ($43.52 in chips)
+ghj_n: posts small blind $1
+CharginWapos: is sitting out
+TinaTurner72: posts big blind $3
+*** HOLE CARDS ***
+ghj_n: folds
+Uncalled bet ($2) returned to TinaTurner72
+TinaTurner72 collected $2 from pot
+TinaTurner72: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: TinaTurner72 (big blind) collected ($2)
+Seat 6: ghj_n (button) (small blind) folded before Flop
+
+
+PokerStars Hand #160262837647:  Hold'em Limit ($3/$6 USD) - 2016/10/21 22:27:41 ET
+Table 'Erminia' 10-max Seat #4 is the button
+Seat 4: TinaTurner72 ($102.41 in chips)
+Seat 6: ghj_n ($42.52 in chips)
+TinaTurner72: posts small blind $1
+ghj_n: posts big blind $3
+*** HOLE CARDS ***
+TinaTurner72: raises $3 to $6
+ghj_n: raises $3 to $9
+TinaTurner72: calls $3
+*** FLOP *** [3c 8s 9c]
+ghj_n: bets $3
+TinaTurner72: calls $3
+*** TURN *** [3c 8s 9c] [Ac]
+ghj_n: bets $6
+TinaTurner72: calls $6
+*** RIVER *** [3c 8s 9c Ac] [7s]
+ghj_n: bets $6
+TinaTurner72: raises $6 to $12
+ghj_n: raises $6 to $18
+TinaTurner72: calls $6
+*** SHOW DOWN ***
+ghj_n: shows [Tc 7c] (a flush, Ace high)
+TinaTurner72: mucks hand
+ghj_n collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [3c 8s 9c Ac 7s]
+Seat 4: TinaTurner72 (button) (small blind) mucked
+Seat 6: ghj_n (big blind) showed [Tc 7c] and won ($71.50) with a flush, Ace high
+
+
+PokerStars Hand #160263031458:  Hold'em Limit ($3/$6 USD) - 2016/10/21 22:36:10 ET
+Table 'Erminia' 10-max Seat #10 is the button
+Seat 6: ghj_n ($77.70 in chips)
+Seat 10: CharginWapos ($81.18 in chips)
+CharginWapos: posts small blind $1
+TinaTurner72: is sitting out
+ghj_n: posts big blind $3
+*** HOLE CARDS ***
+TinaTurner72 leaves the table
+CharginWapos: raises $3 to $6
+ghj_n: calls $3
+*** FLOP *** [Js 9c 8c]
+ghj_n: checks
+CharginWapos: checks
+*** TURN *** [Js 9c 8c] [7c]
+ghj_n: bets $6
+CharginWapos: folds
+Uncalled bet ($6) returned to ghj_n
+ghj_n collected $11.76 from pot
+ghj_n: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Js 9c 8c 7c]
+Seat 6: ghj_n (big blind) collected ($11.76)
+Seat 10: CharginWapos (button) (small blind) folded on the Turn
+
+

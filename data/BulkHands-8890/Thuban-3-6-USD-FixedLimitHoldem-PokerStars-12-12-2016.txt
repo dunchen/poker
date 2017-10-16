@@ -1,0 +1,793 @@
+PokerStars Hand #162822644116:  Hold'em Limit ($3/$6 USD) - 2016/12/12 8:31:28 ET
+Table 'Thuban' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 2: fender676 ($120 in chips)
+VolkovDmitri: posts small blind $1
+fender676: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+fender676: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [5s 4d 6h]
+fender676: bets $3
+VolkovDmitri: raises $3 to $6
+fender676: calls $3
+*** TURN *** [5s 4d 6h] [2h]
+fender676: checks
+VolkovDmitri: checks
+*** RIVER *** [5s 4d 6h 2h] [6c]
+fender676: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to fender676
+fender676 collected $29.50 from pot
+fender676: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5s 4d 6h 2h 6c]
+Seat 1: VolkovDmitri (button) (small blind) folded on the River
+Seat 2: fender676 (big blind) collected ($29.50)
+
+
+PokerStars Hand #162822662744:  Hold'em Limit ($3/$6 USD) - 2016/12/12 8:32:00 ET
+Table 'Thuban' 6-max Seat #2 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 2: fender676 ($134.50 in chips)
+fender676: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+fender676: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [3s Qh 2c]
+VolkovDmitri: checks
+fender676: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [3s Qh 2c] [As]
+Alexsandr.NT joins the table at seat #6
+VolkovDmitri: checks
+fender676: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [3s Qh 2c As] [3c]
+VolkovDmitri: checks
+fender676: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [Jd 5s] (a pair of Threes)
+fender676: shows [9h Qs] (two pair, Queens and Threes)
+fender676 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3s Qh 2c As 3c]
+Seat 1: VolkovDmitri (big blind) showed [Jd 5s] and lost with a pair of Threes
+Seat 2: fender676 (button) (small blind) showed [9h Qs] and won ($29.50) with two pair, Queens and Threes
+
+
+PokerStars Hand #162823996196:  Hold'em Limit ($3/$6 USD) - 2016/12/12 9:09:45 ET
+Table 'Thuban' 6-max Seat #4 is the button
+Seat 3: MMM 22666 ($57 in chips)
+Seat 4: Great_Kang ($131.52 in chips)
+Great_Kang: posts small blind $1
+MMM 22666: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+MMM 22666: calls $3
+*** FLOP *** [9s 3s Jh]
+MMM 22666: checks
+Great_Kang: bets $3
+MMM 22666: folds
+Uncalled bet ($3) returned to Great_Kang
+Great_Kang collected $11.76 from pot
+Great_Kang: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9s 3s Jh]
+Seat 3: MMM 22666 (big blind) folded on the Flop
+Seat 4: Great_Kang (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #162824053317:  Hold'em Limit ($3/$6 USD) - 2016/12/12 9:11:17 ET
+Table 'Thuban' 6-max Seat #4 is the button
+Seat 3: MMM 22666 ($51.50 in chips)
+Seat 4: Great_Kang ($137.50 in chips)
+Great_Kang: posts small blind $1
+MMM 22666: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+MMM 22666: raises $3 to $9
+Great_Kang: calls $3
+*** FLOP *** [9d 8h 2s]
+MMM 22666: bets $3
+Great_Kang: calls $3
+*** TURN *** [9d 8h 2s] [Jd]
+MMM 22666: bets $6
+Great_Kang: calls $6
+*** RIVER *** [9d 8h 2s Jd] [Th]
+MMM 22666: bets $6
+Great_Kang: calls $6
+*** SHOW DOWN ***
+MMM 22666: shows [As 7h] (a straight, Seven to Jack)
+Great_Kang: mucks hand
+MMM 22666 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9d 8h 2s Jd Th]
+Seat 3: MMM 22666 (big blind) showed [As 7h] and won ($47.50) with a straight, Seven to Jack
+Seat 4: Great_Kang (button) (small blind) mucked
+
+
+PokerStars Hand #162824043872:  Hold'em Limit ($3/$6 USD) - 2016/12/12 9:11:02 ET
+Table 'Thuban' 6-max Seat #3 is the button
+Seat 3: MMM 22666 ($69.50 in chips)
+Seat 4: Great_Kang ($120 in chips)
+MMM 22666: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+MMM 22666: raises $3 to $6
+Great_Kang: raises $3 to $9
+MMM 22666: calls $3
+*** FLOP *** [9d 3s 5c]
+Great_Kang: bets $3
+MMM 22666: calls $3
+*** TURN *** [9d 3s 5c] [Js]
+Great_Kang: bets $6
+MMM 22666: calls $6
+*** RIVER *** [9d 3s 5c Js] [Tc]
+Great_Kang: checks
+MMM 22666: checks
+*** SHOW DOWN ***
+Great_Kang: shows [8h 8c] (a pair of Eights)
+MMM 22666: mucks hand
+Great_Kang collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [9d 3s 5c Js Tc]
+Seat 3: MMM 22666 (button) (small blind) mucked
+Seat 4: Great_Kang (big blind) showed [8h 8c] and won ($35.50) with a pair of Eights
+
+
+PokerStars Hand #162824040519:  Hold'em Limit ($3/$6 USD) - 2016/12/12 9:10:56 ET
+Table 'Thuban' 6-max Seat #4 is the button
+Seat 3: MMM 22666 ($68.50 in chips)
+Seat 4: Great_Kang ($120 in chips)
+Great_Kang: posts small blind $1
+MMM 22666: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: folds
+Uncalled bet ($2) returned to MMM 22666
+MMM 22666 collected $2 from pot
+MMM 22666: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: MMM 22666 (big blind) collected ($2)
+Seat 4: Great_Kang (button) (small blind) folded before Flop
+
+
+PokerStars Hand #162824022450:  Hold'em Limit ($3/$6 USD) - 2016/12/12 9:10:27 ET
+Table 'Thuban' 6-max Seat #3 is the button
+Seat 3: MMM 22666 ($51 in chips)
+Seat 4: Great_Kang ($137.28 in chips)
+MMM 22666: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+MMM 22666: raises $3 to $6
+Great_Kang: calls $3
+*** FLOP *** [3c 3s 5d]
+Great_Kang: checks
+MMM 22666: bets $3
+Great_Kang: raises $3 to $6
+MMM 22666: calls $3
+*** TURN *** [3c 3s 5d] [5s]
+Great_Kang: bets $6
+MMM 22666: calls $6
+*** RIVER *** [3c 3s 5d 5s] [Jh]
+Great_Kang: checks
+MMM 22666: bets $6
+Great_Kang: folds
+Uncalled bet ($6) returned to MMM 22666
+MMM 22666 collected $35.50 from pot
+MMM 22666: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [3c 3s 5d 5s Jh]
+Seat 3: MMM 22666 (button) (small blind) collected ($35.50)
+Seat 4: Great_Kang (big blind) folded on the River
+
+
+PokerStars Hand #162824093799:  Hold'em Limit ($3/$6 USD) - 2016/12/12 9:12:22 ET
+Table 'Thuban' 6-max Seat #4 is the button
+Seat 3: MMM 22666 ($92.50 in chips)
+Seat 4: Great_Kang ($121 in chips)
+Great_Kang: posts small blind $1
+MMM 22666: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+MMM 22666: calls $3
+*** FLOP *** [5h Ac 3d]
+MMM 22666: checks
+Great_Kang: checks
+*** TURN *** [5h Ac 3d] [8s]
+MMM 22666: bets $6
+Great_Kang: folds
+Uncalled bet ($6) returned to MMM 22666
+MMM 22666 collected $11.76 from pot
+MMM 22666: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5h Ac 3d 8s]
+Seat 3: MMM 22666 (big blind) collected ($11.76)
+Seat 4: Great_Kang (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #162824090530:  Hold'em Limit ($3/$6 USD) - 2016/12/12 9:12:17 ET
+Table 'Thuban' 6-max Seat #3 is the button
+Seat 3: MMM 22666 ($93.50 in chips)
+Seat 4: Great_Kang ($120 in chips)
+MMM 22666: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+MMM 22666: folds
+Uncalled bet ($2) returned to Great_Kang
+Great_Kang collected $2 from pot
+Great_Kang: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: MMM 22666 (button) (small blind) folded before Flop
+Seat 4: Great_Kang (big blind) collected ($2)
+
+
+PokerStars Hand #162824087366:  Hold'em Limit ($3/$6 USD) - 2016/12/12 9:12:12 ET
+Table 'Thuban' 6-max Seat #4 is the button
+Seat 3: MMM 22666 ($92.50 in chips)
+Seat 4: Great_Kang ($120 in chips)
+Great_Kang: posts small blind $1
+MMM 22666: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: folds
+Uncalled bet ($2) returned to MMM 22666
+MMM 22666 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: MMM 22666 (big blind) collected ($2)
+Seat 4: Great_Kang (button) (small blind) folded before Flop
+
+
+PokerStars Hand #162824068965:  Hold'em Limit ($3/$6 USD) - 2016/12/12 9:11:42 ET
+Table 'Thuban' 6-max Seat #3 is the button
+Seat 3: MMM 22666 ($75 in chips)
+Seat 4: Great_Kang ($120 in chips)
+MMM 22666: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+MMM 22666: raises $3 to $6
+Great_Kang: raises $3 to $9
+MMM 22666: calls $3
+*** FLOP *** [5d 5s Qc]
+Great_Kang: bets $3
+MMM 22666: calls $3
+*** TURN *** [5d 5s Qc] [2h]
+Great_Kang: checks
+MMM 22666: bets $6
+Great_Kang: calls $6
+*** RIVER *** [5d 5s Qc 2h] [Kd]
+Great_Kang: checks
+MMM 22666: bets $6
+Great_Kang: folds
+Uncalled bet ($6) returned to MMM 22666
+MMM 22666 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5d 5s Qc 2h Kd]
+Seat 3: MMM 22666 (button) (small blind) collected ($35.50)
+Seat 4: Great_Kang (big blind) folded on the River
+
+
+PokerStars Hand #162824100930:  Hold'em Limit ($3/$6 USD) - 2016/12/12 9:12:33 ET
+Table 'Thuban' 6-max Seat #3 is the button
+Seat 3: MMM 22666 ($98.26 in chips)
+Seat 4: Great_Kang ($120 in chips)
+MMM 22666: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+MMM 22666: calls $2
+Great_Kang: raises $3 to $6
+MMM 22666: calls $3
+*** FLOP *** [5s 7d Qs]
+Great_Kang: bets $3
+MMM 22666: calls $3
+*** TURN *** [5s 7d Qs] [6c]
+Great_Kang: bets $6
+MMM 22666: calls $6
+*** RIVER *** [5s 7d Qs 6c] [4c]
+Great_Kang: checks
+MMM 22666: checks
+*** SHOW DOWN ***
+Great_Kang: shows [Ad 9d] (high card Ace)
+MMM 22666: shows [Ts 7h] (a pair of Sevens)
+MMM 22666 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5s 7d Qs 6c 4c]
+Seat 3: MMM 22666 (button) (small blind) showed [Ts 7h] and won ($29.50) with a pair of Sevens
+Seat 4: Great_Kang (big blind) showed [Ad 9d] and lost with high card Ace
+
+
+PokerStars Hand #162824121419:  Hold'em Limit ($3/$6 USD) - 2016/12/12 9:13:06 ET
+Table 'Thuban' 6-max Seat #3 is the button
+Seat 3: MMM 22666 ($91.76 in chips)
+Seat 4: Great_Kang ($140.50 in chips)
+MMM 22666: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+MMM 22666: calls $2
+Great_Kang: raises $3 to $6
+MMM 22666: calls $3
+*** FLOP *** [Td 5c As]
+Great_Kang: bets $3
+MMM 22666: calls $3
+*** TURN *** [Td 5c As] [Ts]
+Great_Kang: bets $6
+MMM 22666: raises $6 to $12
+Great_Kang: calls $6
+*** RIVER *** [Td 5c As Ts] [Ks]
+Great_Kang: checks
+MMM 22666: checks
+*** SHOW DOWN ***
+Great_Kang: shows [Ac Qc] (two pair, Aces and Tens)
+MMM 22666: mucks hand
+Great_Kang collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Td 5c As Ts Ks]
+Seat 3: MMM 22666 (button) (small blind) mucked
+Seat 4: Great_Kang (big blind) showed [Ac Qc] and won ($41.50) with two pair, Aces and Tens
+
+
+PokerStars Hand #162824109751:  Hold'em Limit ($3/$6 USD) - 2016/12/12 9:12:47 ET
+Table 'Thuban' 6-max Seat #4 is the button
+Seat 3: MMM 22666 ($112.76 in chips)
+Seat 4: Great_Kang ($120 in chips)
+Great_Kang: posts small blind $1
+MMM 22666: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+MMM 22666: calls $3
+*** FLOP *** [Qh Kc 7c]
+MMM 22666: checks
+Great_Kang: bets $3
+MMM 22666: calls $3
+*** TURN *** [Qh Kc 7c] [Ah]
+MMM 22666: checks
+Great_Kang: checks
+*** RIVER *** [Qh Kc 7c Ah] [8h]
+MMM 22666: bets $6
+Great_Kang: raises $6 to $12
+MMM 22666: calls $6
+*** SHOW DOWN ***
+Great_Kang: shows [7h Th] (a flush, Ace high)
+MMM 22666: mucks hand
+Great_Kang collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Qh Kc 7c Ah 8h]
+Seat 3: MMM 22666 (big blind) mucked
+Seat 4: Great_Kang (button) (small blind) showed [7h Th] and won ($41.50) with a flush, Ace high
+
+
+PokerStars Hand #162824133082:  Hold'em Limit ($3/$6 USD) - 2016/12/12 9:13:25 ET
+Table 'Thuban' 6-max Seat #4 is the button
+Seat 3: MMM 22666 ($70.76 in chips)
+Seat 4: Great_Kang ($161 in chips)
+Great_Kang: posts small blind $1
+MMM 22666: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+MMM 22666: calls $3
+*** FLOP *** [Ad 8h Kh]
+MMM 22666: checks
+Great_Kang: bets $3
+MMM 22666: calls $3
+*** TURN *** [Ad 8h Kh] [6c]
+MMM 22666: checks
+Great_Kang: bets $6
+MMM 22666: raises $6 to $12
+Great_Kang: calls $6
+*** RIVER *** [Ad 8h Kh 6c] [As]
+MMM 22666: bets $6
+Great_Kang: calls $6
+*** SHOW DOWN ***
+MMM 22666: shows [Kc 8d] (two pair, Aces and Kings)
+Great_Kang: shows [Ac 4c] (three of a kind, Aces)
+Great_Kang collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Ad 8h Kh 6c As]
+Seat 3: MMM 22666 (big blind) showed [Kc 8d] and lost with two pair, Aces and Kings
+Seat 4: Great_Kang (button) (small blind) showed [Ac 4c] and won ($53.50) with three of a kind, Aces
+
+
+PokerStars Hand #162824148273:  Hold'em Limit ($3/$6 USD) - 2016/12/12 9:13:49 ET
+Table 'Thuban' 6-max Seat #3 is the button
+Seat 3: MMM 22666 ($43.76 in chips)
+Seat 4: Great_Kang ($187.50 in chips)
+MMM 22666: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+MMM 22666: raises $3 to $6
+Great_Kang: calls $3
+*** FLOP *** [Js 7s 3h]
+Great_Kang: checks
+MMM 22666: bets $3
+Great_Kang: calls $3
+*** TURN *** [Js 7s 3h] [4h]
+Great_Kang: checks
+MMM 22666: bets $6
+Great_Kang: calls $6
+*** RIVER *** [Js 7s 3h 4h] [4c]
+Great_Kang: checks
+MMM 22666: bets $6
+Great_Kang: calls $6
+*** SHOW DOWN ***
+MMM 22666: shows [7c 6h] (two pair, Sevens and Fours)
+Great_Kang: mucks hand
+MMM 22666 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Js 7s 3h 4h 4c]
+Seat 3: MMM 22666 (button) (small blind) showed [7c 6h] and won ($41.50) with two pair, Sevens and Fours
+Seat 4: Great_Kang (big blind) mucked
+
+
+PokerStars Hand #162824160441:  Hold'em Limit ($3/$6 USD) - 2016/12/12 9:14:09 ET
+Table 'Thuban' 6-max Seat #4 is the button
+Seat 3: MMM 22666 ($64.26 in chips)
+Seat 4: Great_Kang ($166.50 in chips)
+Great_Kang: posts small blind $1
+MMM 22666: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+MMM 22666: calls $3
+*** FLOP *** [9s Jh Jd]
+MMM 22666: checks
+Great_Kang: checks
+*** TURN *** [9s Jh Jd] [Qh]
+MMM 22666: bets $6
+Great_Kang: calls $6
+*** RIVER *** [9s Jh Jd Qh] [Ah]
+MMM 22666: bets $6
+Great_Kang: calls $6
+*** SHOW DOWN ***
+MMM 22666: shows [6d Jc] (three of a kind, Jacks)
+Great_Kang: mucks hand
+MMM 22666 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [9s Jh Jd Qh Ah]
+Seat 3: MMM 22666 (big blind) showed [6d Jc] and won ($35.50) with three of a kind, Jacks
+Seat 4: Great_Kang (button) (small blind) mucked
+
+
+PokerStars Hand #162824173014:  Hold'em Limit ($3/$6 USD) - 2016/12/12 9:14:29 ET
+Table 'Thuban' 6-max Seat #3 is the button
+Seat 3: MMM 22666 ($81.76 in chips)
+Seat 4: Great_Kang ($148.50 in chips)
+MMM 22666: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+MMM 22666: raises $3 to $6
+Great_Kang: calls $3
+*** FLOP *** [Kd 8d Qh]
+Great_Kang: checks
+MMM 22666: checks
+*** TURN *** [Kd 8d Qh] [5s]
+Great_Kang: checks
+MMM 22666: bets $6
+Great_Kang: folds
+Uncalled bet ($6) returned to MMM 22666
+MMM 22666 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kd 8d Qh 5s]
+Seat 3: MMM 22666 (button) (small blind) collected ($11.76)
+Seat 4: Great_Kang (big blind) folded on the Turn
+
+
+PokerStars Hand #162824183026:  Hold'em Limit ($3/$6 USD) - 2016/12/12 9:14:45 ET
+Table 'Thuban' 6-max Seat #4 is the button
+Seat 3: MMM 22666 ($87.52 in chips)
+Seat 4: Great_Kang ($142.50 in chips)
+Great_Kang: posts small blind $1
+MMM 22666: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+MMM 22666: calls $3
+*** FLOP *** [As 2h Jc]
+MMM 22666: checks
+Great_Kang: bets $3
+MMM 22666: raises $3 to $6
+Great_Kang: calls $3
+*** TURN *** [As 2h Jc] [Js]
+MMM 22666: bets $6
+Great_Kang: calls $6
+*** RIVER *** [As 2h Jc Js] [Ah]
+MMM 22666: checks
+Great_Kang: checks
+*** SHOW DOWN ***
+MMM 22666: shows [Ks 9c] (two pair, Aces and Jacks)
+Great_Kang: mucks hand
+MMM 22666 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [As 2h Jc Js Ah]
+Seat 3: MMM 22666 (big blind) showed [Ks 9c] and won ($35.50) with two pair, Aces and Jacks
+Seat 4: Great_Kang (button) (small blind) mucked
+
+
+PokerStars Hand #162824210703:  Hold'em Limit ($3/$6 USD) - 2016/12/12 9:15:29 ET
+Table 'Thuban' 6-max Seat #3 is the button
+Seat 3: MMM 22666 ($101.02 in chips)
+Seat 4: Great_Kang ($128.50 in chips)
+MMM 22666: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+MMM 22666: calls $2
+Great_Kang: raises $3 to $6
+MMM 22666: calls $3
+*** FLOP *** [5c 2h Ah]
+Great_Kang: bets $3
+MMM 22666: folds
+Uncalled bet ($3) returned to Great_Kang
+Great_Kang collected $11.76 from pot
+Great_Kang: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5c 2h Ah]
+Seat 3: MMM 22666 (button) (small blind) folded on the Flop
+Seat 4: Great_Kang (big blind) collected ($11.76)
+
+
+PokerStars Hand #162824207051:  Hold'em Limit ($3/$6 USD) - 2016/12/12 9:15:23 ET
+Table 'Thuban' 6-max Seat #4 is the button
+Seat 3: MMM 22666 ($104.02 in chips)
+Seat 4: Great_Kang ($125.50 in chips)
+Great_Kang: posts small blind $1
+MMM 22666: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+MMM 22666: folds
+Uncalled bet ($3) returned to Great_Kang
+Great_Kang collected $6 from pot
+Great_Kang: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: MMM 22666 (big blind) folded before Flop
+Seat 4: Great_Kang (button) (small blind) collected ($6)
+
+
+PokerStars Hand #162824200664:  Hold'em Limit ($3/$6 USD) - 2016/12/12 9:15:13 ET
+Table 'Thuban' 6-max Seat #3 is the button
+Seat 3: MMM 22666 ($105.02 in chips)
+Seat 4: Great_Kang ($124.50 in chips)
+MMM 22666: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+MMM 22666: folds
+Uncalled bet ($2) returned to Great_Kang
+Great_Kang collected $2 from pot
+Great_Kang: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: MMM 22666 (button) (small blind) folded before Flop
+Seat 4: Great_Kang (big blind) collected ($2)
+
+
+PokerStars Hand #162824216850:  Hold'em Limit ($3/$6 USD) - 2016/12/12 9:15:39 ET
+Table 'Thuban' 6-max Seat #4 is the button
+Seat 3: MMM 22666 ($95.02 in chips)
+Seat 4: Great_Kang ($134.26 in chips)
+Great_Kang: posts small blind $1
+MMM 22666: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+MMM 22666: calls $3
+*** FLOP *** [4d Ks 6s]
+MMM 22666: checks
+Great_Kang: bets $3
+MMM 22666: calls $3
+*** TURN *** [4d Ks 6s] [9s]
+MMM 22666: checks
+Great_Kang: checks
+*** RIVER *** [4d Ks 6s 9s] [7s]
+MMM 22666: bets $6
+Great_Kang: folds
+Uncalled bet ($6) returned to MMM 22666
+MMM 22666 collected $17.64 from pot
+MMM 22666: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4d Ks 6s 9s 7s]
+Seat 3: MMM 22666 (big blind) collected ($17.64)
+Seat 4: Great_Kang (button) (small blind) folded on the River
+
+
+PokerStars Hand #162824229547:  Hold'em Limit ($3/$6 USD) - 2016/12/12 9:15:59 ET
+Table 'Thuban' 6-max Seat #3 is the button
+Seat 3: MMM 22666 ($103.66 in chips)
+Seat 4: Great_Kang ($125.26 in chips)
+MMM 22666: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+MMM 22666: calls $2
+Great_Kang: checks
+*** FLOP *** [Jd 6d As]
+Great_Kang: checks
+MMM 22666: checks
+*** TURN *** [Jd 6d As] [5d]
+Great_Kang: checks
+MMM 22666: bets $6
+Great_Kang: folds
+Uncalled bet ($6) returned to MMM 22666
+MMM 22666 collected $5.88 from pot
+MMM 22666: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Jd 6d As 5d]
+Seat 3: MMM 22666 (button) (small blind) collected ($5.88)
+Seat 4: Great_Kang (big blind) folded on the Turn
+
+
+PokerStars Hand #162824237300:  Hold'em Limit ($3/$6 USD) - 2016/12/12 9:16:12 ET
+Table 'Thuban' 6-max Seat #4 is the button
+Seat 3: MMM 22666 ($106.54 in chips)
+Seat 4: Great_Kang ($122.26 in chips)
+Great_Kang: posts small blind $1
+MMM 22666: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+MMM 22666: folds
+Uncalled bet ($3) returned to Great_Kang
+Great_Kang collected $6 from pot
+Great_Kang: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: MMM 22666 (big blind) folded before Flop
+Seat 4: Great_Kang (button) (small blind) collected ($6)
+
+
+PokerStars Hand #162824241483:  Hold'em Limit ($3/$6 USD) - 2016/12/12 9:16:18 ET
+Table 'Thuban' 6-max Seat #3 is the button
+Seat 3: MMM 22666 ($103.54 in chips)
+Seat 4: Great_Kang ($125.26 in chips)
+MMM 22666: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+MMM 22666: raises $3 to $6
+Great_Kang: raises $3 to $9
+MMM 22666: calls $3
+*** FLOP *** [Tc 4d 5c]
+Great_Kang: bets $3
+MMM 22666: calls $3
+*** TURN *** [Tc 4d 5c] [6s]
+Great_Kang: bets $6
+MMM 22666: calls $6
+*** RIVER *** [Tc 4d 5c 6s] [3d]
+Great_Kang: checks
+MMM 22666: bets $6
+kusznak joins the table at seat #5
+Great_Kang: calls $6
+*** SHOW DOWN ***
+MMM 22666: shows [Ah 7s] (a straight, Three to Seven)
+Great_Kang: mucks hand
+MMM 22666 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Tc 4d 5c 6s 3d]
+Seat 3: MMM 22666 (button) (small blind) showed [Ah 7s] and won ($47.50) with a straight, Three to Seven
+Seat 4: Great_Kang (big blind) mucked
+
+
+PokerStars Hand #162824350558:  Hold'em Limit ($3/$6 USD) - 2016/12/12 9:19:11 ET
+Table 'Thuban' 6-max Seat #3 is the button
+Seat 3: MMM 22666 ($173.26 in chips)
+Seat 4: Great_Kang ($135.31 in chips)
+MMM 22666: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+MMM 22666: folds
+Uncalled bet ($2) returned to Great_Kang
+Great_Kang collected $2 from pot
+Great_Kang: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: MMM 22666 (button) (small blind) folded before Flop
+Seat 4: Great_Kang (big blind) collected ($2)
+
+
+PokerStars Hand #162824343297:  Hold'em Limit ($3/$6 USD) - 2016/12/12 9:19:00 ET
+Table 'Thuban' 6-max Seat #4 is the button
+Seat 3: MMM 22666 ($179.26 in chips)
+Seat 4: Great_Kang ($129.55 in chips)
+Great_Kang: posts small blind $1
+kusznak: is sitting out
+MMM 22666: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+MMM 22666: calls $3
+*** FLOP *** [Qh 8d 7d]
+MMM 22666: checks
+Great_Kang: bets $3
+MMM 22666: folds
+Uncalled bet ($3) returned to Great_Kang
+Great_Kang collected $11.76 from pot
+Great_Kang: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qh 8d 7d]
+Seat 3: MMM 22666 (big blind) folded on the Flop
+Seat 4: Great_Kang (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #162824673736:  Hold'em Limit ($3/$6 USD) - 2016/12/12 9:27:39 ET
+Table 'Thuban' 6-max Seat #1 is the button
+Seat 1: fender676 ($141.09 in chips)
+Seat 4: Great_Kang ($210.43 in chips)
+fender676: posts small blind $1
+RockKillerTY: is sitting out
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+fender676: raises $3 to $6
+Great_Kang: raises $3 to $9
+fender676: calls $3
+*** FLOP *** [6h Td 9d]
+Great_Kang: bets $3
+fender676: calls $3
+*** TURN *** [6h Td 9d] [8h]
+Great_Kang: bets $6
+fender676: calls $6
+*** RIVER *** [6h Td 9d 8h] [Ad]
+Great_Kang: bets $6
+fender676: raises $6 to $12
+Great_Kang: calls $6
+*** SHOW DOWN ***
+fender676: shows [Ac 9c] (two pair, Aces and Nines)
+Great_Kang: mucks hand
+fender676 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [6h Td 9d 8h Ad]
+Seat 1: fender676 (button) (small blind) showed [Ac 9c] and won ($59.50) with two pair, Aces and Nines
+Seat 4: Great_Kang (big blind) mucked
+
+
+PokerStars Hand #162824697896:  Hold'em Limit ($3/$6 USD) - 2016/12/12 9:28:17 ET
+Table 'Thuban' 6-max Seat #1 is the button
+Seat 1: fender676 ($167.59 in chips)
+Seat 4: Great_Kang ($183.43 in chips)
+fender676: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+fender676: folds
+Uncalled bet ($2) returned to Great_Kang
+Great_Kang collected $2 from pot
+Great_Kang: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: fender676 (button) (small blind) folded before Flop
+Seat 4: Great_Kang (big blind) collected ($2)
+
+
+PokerStars Hand #162824685713:  Hold'em Limit ($3/$6 USD) - 2016/12/12 9:27:58 ET
+Table 'Thuban' 6-max Seat #4 is the button
+Seat 1: fender676 ($170.59 in chips)
+Seat 4: Great_Kang ($180.43 in chips)
+Great_Kang: posts small blind $1
+fender676: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+fender676: folds
+Uncalled bet ($3) returned to Great_Kang
+Great_Kang collected $6 from pot
+Great_Kang: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: fender676 (big blind) folded before Flop
+Seat 4: Great_Kang (button) (small blind) collected ($6)
+
+

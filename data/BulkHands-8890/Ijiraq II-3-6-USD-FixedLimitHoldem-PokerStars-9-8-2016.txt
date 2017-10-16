@@ -1,0 +1,33 @@
+PokerStars Hand #158320677025:  Hold'em Limit ($3/$6 USD) - 2016/09/08 7:03:09 ET
+Table 'Ijiraq II' 6-max Seat #2 is the button
+Seat 1: Auge72 ($290.21 in chips)
+Seat 2: Ale4o ($199.31 in chips)
+Ale4o: posts small blind $1
+Auge72: posts big blind $3
+*** HOLE CARDS ***
+Ale4o: raises $3 to $6
+Auge72: raises $3 to $9
+Ale4o: calls $3
+*** FLOP *** [4h Qd 8d]
+Auge72: checks
+Ale4o: bets $3
+Auge72: calls $3
+*** TURN *** [4h Qd 8d] [4d]
+Auge72: checks
+Ale4o: bets $6
+Auge72: calls $6
+*** RIVER *** [4h Qd 8d 4d] [Qs]
+Auge72: checks
+Ale4o: bets $6
+Auge72: calls $6
+*** SHOW DOWN ***
+Ale4o: shows [Jh 8h] (two pair, Queens and Eights)
+Auge72: mucks hand
+Ale4o collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4h Qd 8d 4d Qs]
+Seat 1: Auge72 (big blind) mucked
+Seat 2: Ale4o (button) (small blind) showed [Jh 8h] and won ($47.50) with two pair, Queens and Eights
+
+

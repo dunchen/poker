@@ -1,0 +1,27 @@
+PokerStars Hand #175570655682:  Hold'em Limit ($3/$6 USD) - 2017/09/12 19:58:23 ET
+Table 'Skat' 6-max Seat #4 is the button
+Seat 4: barranqueiro ($153.42 in chips)
+Seat 6: Vampo U ($10.98 in chips)
+barranqueiro: posts small blind $1
+Vampo U: posts big blind $3
+*** HOLE CARDS ***
+barranqueiro: raises $3 to $6
+Vampo U: calls $3
+*** FLOP *** [5d 8d 3h]
+Vampo U: checks
+barranqueiro: bets $3
+Vampo U: raises $1.98 to $4.98 and is all-in
+barranqueiro: calls $1.98
+*** TURN *** [5d 8d 3h] [6h]
+*** RIVER *** [5d 8d 3h 6h] [Qh]
+*** SHOW DOWN ***
+Vampo U: shows [Jc 9d] (high card Queen)
+barranqueiro: shows [4s As] (high card Ace)
+barranqueiro collected $21.52 from pot
+*** SUMMARY ***
+Total pot $21.96 | Rake $0.44
+Board [5d 8d 3h 6h Qh]
+Seat 4: barranqueiro (button) (small blind) showed [4s As] and won ($21.52) with high card Ace
+Seat 6: Vampo U (big blind) showed [Jc 9d] and lost with high card Queen
+
+

@@ -1,0 +1,136 @@
+PokerStars Hand #168951577939:  Hold'em Limit ($3/$6 USD) - 2017/04/12 17:20:17 ET
+Table 'Prieska' 6-max Seat #6 is the button
+Seat 1: Yordan34b20 ($80 in chips)
+Seat 6: ToDaFelt ($120 in chips)
+vestimokrec joins the table at seat #2
+ToDaFelt: posts small blind $1
+Yordan34b20: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: folds
+Uncalled bet ($2) returned to Yordan34b20
+Yordan34b20 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Yordan34b20 (big blind) collected ($2)
+Seat 6: ToDaFelt (button) (small blind) folded before Flop
+
+
+PokerStars Hand #168951641859:  Hold'em Limit ($3/$6 USD) - 2017/04/12 17:21:33 ET
+Table 'Prieska' 6-max Seat #6 is the button
+Seat 2: vestimokrec ($113 in chips)
+Seat 6: ToDaFelt ($92 in chips)
+ToDaFelt: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+Yordan34b20 leaves the table
+ToDaFelt: raises $3 to $6
+vestimokrec: calls $3
+*** FLOP *** [7c 9d 3c]
+vestimokrec: checks
+ToDaFelt: bets $3
+vestimokrec: calls $3
+*** TURN *** [7c 9d 3c] [Td]
+vestimokrec: checks
+ToDaFelt: bets $6
+vestimokrec: calls $6
+*** RIVER *** [7c 9d 3c Td] [8d]
+vestimokrec: checks
+ToDaFelt: bets $6
+vestimokrec: raises $6 to $12
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+vestimokrec: shows [Jc Ah] (a straight, Seven to Jack)
+ToDaFelt: mucks hand
+vestimokrec collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [7c 9d 3c Td 8d]
+Seat 2: vestimokrec (big blind) showed [Jc Ah] and won ($53.50) with a straight, Seven to Jack
+Seat 6: ToDaFelt (button) (small blind) mucked
+
+
+PokerStars Hand #168951882637:  Hold'em Limit ($3/$6 USD) - 2017/04/12 17:26:22 ET
+Table 'Prieska' 6-max Seat #1 is the button
+Seat 1: Chessnok ($140.50 in chips)
+Seat 3: jarizar ($99 in chips)
+Chessnok: posts small blind $1
+jarizar: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+jarizar: calls $3
+*** FLOP *** [9d Ac Jc]
+jarizar: checks
+Chessnok: bets $3
+jarizar: raises $3 to $6
+Chessnok: folds
+Uncalled bet ($3) returned to jarizar
+jarizar collected $17.64 from pot
+jarizar: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9d Ac Jc]
+Seat 1: Chessnok (button) (small blind) folded on the Flop
+Seat 3: jarizar (big blind) collected ($17.64)
+
+
+PokerStars Hand #168951867328:  Hold'em Limit ($3/$6 USD) - 2017/04/12 17:26:04 ET
+Table 'Prieska' 6-max Seat #3 is the button
+Seat 1: Chessnok ($120 in chips)
+Seat 3: jarizar ($120 in chips)
+jarizar: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+jarizar: calls $2
+Chessnok: raises $3 to $6
+jarizar: calls $3
+*** FLOP *** [Jc Td 8s]
+Chessnok: bets $3
+jarizar: calls $3
+*** TURN *** [Jc Td 8s] [Jd]
+Chessnok: bets $6
+ToDaFelt joins the table at seat #4
+jarizar: calls $6
+*** RIVER *** [Jc Td 8s Jd] [Kh]
+Chessnok: bets $6
+jarizar: calls $6
+*** SHOW DOWN ***
+Chessnok: shows [8d Kc] (two pair, Kings and Jacks)
+jarizar: mucks hand
+Chessnok collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Jc Td 8s Jd Kh]
+Seat 1: Chessnok (big blind) showed [8d Kc] and won ($41.50) with two pair, Kings and Jacks
+Seat 3: jarizar (button) (small blind) mucked
+
+
+PokerStars Hand #168953148627:  Hold'em Limit ($3/$6 USD) - 2017/04/12 17:52:44 ET
+Table 'Prieska' 6-max Seat #4 is the button
+Seat 1: Chessnok ($60 in chips)
+Seat 4: ToDaFelt ($239.11 in chips)
+ToDaFelt: posts small blind $1
+suitedthrash: is sitting out
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+suitedthrash leaves the table
+ToDaFelt: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [4h 5c Ad]
+Chessnok: checks
+ToDaFelt: bets $3
+Chessnok: raises $3 to $6
+Jack_Wu1985 leaves the table
+ToDaFelt: calls $3
+*** TURN *** [4h 5c Ad] [Qh]
+Chessnok: bets $6
+ToDaFelt: folds
+Uncalled bet ($6) returned to Chessnok
+Chessnok collected $23.52 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [4h 5c Ad Qh]
+Seat 1: Chessnok (big blind) collected ($23.52)
+Seat 4: ToDaFelt (button) (small blind) folded on the Turn
+
+

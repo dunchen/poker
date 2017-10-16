@@ -1,0 +1,75 @@
+PokerStars Hand #146724537913:  Hold'em Limit ($3/$6 USD) - 2016/01/09 3:55:15 ET
+Table 'Cassiopea II' 10-max Seat #1 is the button
+Seat 1: rumrun1 ($120 in chips)
+Seat 6: Agrotait ($72 in chips)
+rumrun1: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+rumrun1: raises $3 to $6
+GoliafUa joins the table at seat #2
+Agrotait: calls $3
+*** FLOP *** [8d 3c 4h]
+Agrotait: checks
+rumrun1: bets $3
+Agrotait: calls $3
+*** TURN *** [8d 3c 4h] [As]
+Agrotait: checks
+rumrun1: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to rumrun1
+rumrun1 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8d 3c 4h As]
+Seat 1: rumrun1 (button) (small blind) collected ($17.64)
+Seat 6: Agrotait (big blind) folded on the Turn
+
+
+PokerStars Hand #146724552878:  Hold'em Limit ($3/$6 USD) - 2016/01/09 3:55:59 ET
+Table 'Cassiopea II' 10-max Seat #6 is the button
+Seat 1: rumrun1 ($128.64 in chips)
+Seat 6: Agrotait ($63 in chips)
+Agrotait: posts small blind $1
+rumrun1: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+rumrun1: calls $3
+*** FLOP *** [4h 6s 9h]
+rumrun1: bets $3
+Agrotait: calls $3
+*** TURN *** [4h 6s 9h] [3h]
+rumrun1: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to rumrun1
+rumrun1 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4h 6s 9h 3h]
+Seat 1: rumrun1 (big blind) collected ($17.64)
+Seat 6: Agrotait (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #146724567113:  Hold'em Limit ($3/$6 USD) - 2016/01/09 3:56:41 ET
+Table 'Cassiopea II' 10-max Seat #6 is the button
+Seat 2: GoliafUa ($116 in chips)
+Seat 6: Agrotait ($73 in chips)
+Agrotait: posts small blind $1
+rumrun1: is sitting out
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+GoliafUa: raises $3 to $9
+Agrotait: calls $3
+*** FLOP *** [6h 9s Qs]
+GoliafUa: bets $3
+Agrotait: folds
+Uncalled bet ($3) returned to GoliafUa
+GoliafUa collected $17.64 from pot
+GoliafUa: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6h 9s Qs]
+Seat 2: GoliafUa (big blind) collected ($17.64)
+Seat 6: Agrotait (button) (small blind) folded on the Flop
+
+

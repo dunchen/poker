@@ -1,0 +1,84 @@
+PokerStars Hand #166549469742:  Hold'em Limit ($3/$6 USD) - 2017/02/21 9:00:38 ET
+Table 'Caia' 6-max Seat #4 is the button
+Seat 3: Twi5teR51 ($29.50 in chips)
+Seat 4: Agrotait ($72.50 in chips)
+Agrotait: posts small blind $1
+Twi5teR51: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+Twi5teR51: calls $3
+*** FLOP *** [5d 7s Th]
+Twi5teR51: checks
+Agrotait: bets $3
+Twi5teR51: calls $3
+*** TURN *** [5d 7s Th] [Jd]
+Twi5teR51: checks
+Agrotait: bets $6
+Twi5teR51: calls $6
+*** RIVER *** [5d 7s Th Jd] [Ah]
+Twi5teR51: checks
+Agrotait: bets $6
+Twi5teR51: calls $6
+*** SHOW DOWN ***
+Agrotait: shows [Jc 5h] (two pair, Jacks and Fives)
+Twi5teR51: mucks hand
+Agrotait collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [5d 7s Th Jd Ah]
+Seat 3: Twi5teR51 (big blind) mucked
+Seat 4: Agrotait (button) (small blind) showed [Jc 5h] and won ($41.50) with two pair, Jacks and Fives
+
+
+PokerStars Hand #166549483532:  Hold'em Limit ($3/$6 USD) - 2017/02/21 9:01:03 ET
+Table 'Caia' 6-max Seat #3 is the button
+Seat 3: Twi5teR51 ($8.50 in chips)
+Seat 4: Agrotait ($93 in chips)
+Twi5teR51: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+Twi5teR51: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [3c Ah 8c]
+Agrotait: checks
+Twi5teR51: bets $2.50 and is all-in
+Agrotait: folds
+Uncalled bet ($2.50) returned to Twi5teR51
+Twi5teR51 collected $11.76 from pot
+Twi5teR51: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3c Ah 8c]
+Seat 3: Twi5teR51 (button) (small blind) collected ($11.76)
+Seat 4: Agrotait (big blind) folded on the Flop
+
+
+PokerStars Hand #166549506677:  Hold'em Limit ($3/$6 USD) - 2017/02/21 9:01:42 ET
+Table 'Caia' 6-max Seat #4 is the button
+Seat 3: Twi5teR51 ($14.26 in chips)
+Seat 4: Agrotait ($87 in chips)
+Agrotait: posts small blind $1
+Twi5teR51: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+Twi5teR51: calls $3
+*** FLOP *** [Jh 6c 7h]
+Twi5teR51: checks
+Agrotait: bets $3
+Twi5teR51: raises $3 to $6
+Agrotait: raises $3 to $9
+Twi5teR51: calls $2.26 and is all-in
+Uncalled bet ($0.74) returned to Agrotait
+*** TURN *** [Jh 6c 7h] [5s]
+*** RIVER *** [Jh 6c 7h 5s] [9c]
+*** SHOW DOWN ***
+Twi5teR51: shows [As 4d] (high card Ace)
+Agrotait: shows [7c 7d] (three of a kind, Sevens)
+Agrotait collected $28.02 from pot
+*** SUMMARY ***
+Total pot $28.52 | Rake $0.50
+Board [Jh 6c 7h 5s 9c]
+Seat 3: Twi5teR51 (big blind) showed [As 4d] and lost with high card Ace
+Seat 4: Agrotait (button) (small blind) showed [7c 7d] and won ($28.02) with three of a kind, Sevens
+
+

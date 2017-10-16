@@ -1,0 +1,89 @@
+PokerStars Hand #169376430112:  Hold'em Limit ($3/$6 USD) - 2017/04/21 19:58:04 ET
+Table 'Liguria III' 10-max Seat #6 is the button
+Seat 6: leungting684 ($35 in chips)
+Seat 9: GoliafUa ($146 in chips)
+leungting684: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+leungting684: raises $3 to $6
+GoliafUa: raises $3 to $9
+leungting684: calls $3
+*** FLOP *** [3d 8h 9h]
+GoliafUa: bets $3
+leungting684: raises $3 to $6
+GoliafUa: calls $3
+*** TURN *** [3d 8h 9h] [4d]
+GoliafUa: checks
+leungting684: bets $6
+GoliafUa: calls $6
+*** RIVER *** [3d 8h 9h 4d] [Qh]
+GoliafUa: checks
+leungting684: bets $6
+GoliafUa: raises $6 to $12
+leungting684: raises $2 to $14 and is all-in
+GoliafUa: calls $2
+*** SHOW DOWN ***
+leungting684: shows [9d 6c] (a pair of Nines)
+GoliafUa: shows [Qs Jh] (a pair of Queens)
+GoliafUa collected $69.50 from pot
+*** SUMMARY ***
+Total pot $70 | Rake $0.50
+Board [3d 8h 9h 4d Qh]
+Seat 6: leungting684 (button) (small blind) showed [9d 6c] and lost with a pair of Nines
+Seat 9: GoliafUa (big blind) showed [Qs Jh] and won ($69.50) with a pair of Queens
+
+
+PokerStars Hand #169376425137:  Hold'em Limit ($3/$6 USD) - 2017/04/21 19:57:54 ET
+Table 'Liguria III' 10-max Seat #9 is the button
+Seat 6: leungting684 ($29.24 in chips)
+Seat 9: GoliafUa ($152 in chips)
+GoliafUa: posts small blind $1
+leungting684: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa: raises $3 to $6
+leungting684: calls $3
+*** FLOP *** [Js 2d 6h]
+leungting684: bets $3
+GoliafUa: folds
+Uncalled bet ($3) returned to leungting684
+leungting684 collected $11.76 from pot
+leungting684: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Js 2d 6h]
+Seat 6: leungting684 (big blind) collected ($11.76)
+Seat 9: GoliafUa (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #169376412698:  Hold'em Limit ($3/$6 USD) - 2017/04/21 19:57:27 ET
+Table 'Liguria III' 10-max Seat #6 is the button
+Seat 6: leungting684 ($56.24 in chips)
+Seat 9: GoliafUa ($125.50 in chips)
+leungting684: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+leungting684: raises $3 to $6
+GoliafUa: raises $3 to $9
+leungting684: raises $3 to $12
+Betting is capped
+GoliafUa: calls $3
+*** FLOP *** [6s Kd Th]
+GoliafUa: bets $3
+leungting684: calls $3
+*** TURN *** [6s Kd Th] [Js]
+GoliafUa: bets $6
+leungting684: calls $6
+*** RIVER *** [6s Kd Th Js] [Jc]
+GoliafUa: bets $6
+leungting684: calls $6
+*** SHOW DOWN ***
+GoliafUa: shows [Tc Ac] (two pair, Jacks and Tens)
+leungting684: mucks hand
+GoliafUa collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [6s Kd Th Js Jc]
+Seat 6: leungting684 (button) (small blind) mucked
+Seat 9: GoliafUa (big blind) showed [Tc Ac] and won ($53.50) with two pair, Jacks and Tens
+
+

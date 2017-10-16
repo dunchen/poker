@@ -1,0 +1,35 @@
+PokerStars Hand #173968754606:  Hold'em Limit ($3/$6 USD) - 2017/08/05 18:39:41 ET
+Table 'Tomyris' 6-max Seat #6 is the button
+Seat 5: Knudiebaby ($189.10 in chips)
+Seat 6: Isenvaden ($222.14 in chips)
+Isenvaden: posts small blind $1
+ToDaFelt: is sitting out
+ToDaFelt leaves the table
+loukis0902 joins the table at seat #4
+MilPopov has timed out while being disconnected
+MilPopov: is sitting out
+Knudiebaby: posts big blind $3
+*** HOLE CARDS ***
+Isenvaden: raises $3 to $6
+Knudiebaby: calls $3
+*** FLOP *** [Ts 2h 5h]
+Knudiebaby: checks
+Isenvaden: bets $3
+Knudiebaby: calls $3
+*** TURN *** [Ts 2h 5h] [5d]
+Knudiebaby: checks
+Isenvaden: checks
+*** RIVER *** [Ts 2h 5h 5d] [4d]
+Knudiebaby: checks
+Isenvaden: checks
+*** SHOW DOWN ***
+Knudiebaby: shows [Ah 9s] (a pair of Fives)
+Isenvaden: shows [4c Kh] (two pair, Fives and Fours)
+Isenvaden collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ts 2h 5h 5d 4d]
+Seat 5: Knudiebaby (big blind) showed [Ah 9s] and lost with a pair of Fives
+Seat 6: Isenvaden (button) (small blind) showed [4c Kh] and won ($17.64) with two pair, Fives and Fours
+
+

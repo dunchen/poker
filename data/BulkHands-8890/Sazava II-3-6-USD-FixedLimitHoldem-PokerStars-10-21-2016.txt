@@ -1,0 +1,29 @@
+PokerStars Hand #160248352474:  Hold'em Limit ($3/$6 USD) - 2016/10/21 16:01:12 ET
+Table 'Sazava II' 6-max Seat #1 is the button
+Seat 1: Brama Br ($113.52 in chips)
+Seat 3: _pokergot177 ($53.53 in chips)
+Brama Br: posts small blind $1
+_pokergot177: posts big blind $3
+*** HOLE CARDS ***
+Brama Br: raises $3 to $6
+_pokergot177: calls $3
+*** FLOP *** [9c 7d 8s]
+_pokergot177: bets $3
+Brama Br: calls $3
+*** TURN *** [9c 7d 8s] [7c]
+_pokergot177: checks
+Brama Br: checks
+*** RIVER *** [9c 7d 8s 7c] [Tc]
+_pokergot177: bets $6
+Brama Br: calls $6
+*** SHOW DOWN ***
+_pokergot177: shows [5d 3d] (a pair of Sevens)
+Brama Br: shows [Ac Td] (two pair, Tens and Sevens)
+Brama Br collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9c 7d 8s 7c Tc]
+Seat 1: Brama Br (button) (small blind) showed [Ac Td] and won ($29.50) with two pair, Tens and Sevens
+Seat 3: _pokergot177 (big blind) showed [5d 3d] and lost with a pair of Sevens
+
+

@@ -1,0 +1,33 @@
+PokerStars Hand #175612099899:  Hold'em Limit ($3/$6 USD) - 2017/09/13 19:41:19 ET
+Table 'Saiph' 6-max Seat #3 is the button
+Seat 3: winythekid ($120 in chips)
+Seat 4: Actionni13 ($150 in chips)
+winythekid: posts small blind $1
+B_loJkl joins the table at seat #5
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+winythekid: raises $3 to $6
+Actionni13: calls $3
+*** FLOP *** [Qc 4h 6h]
+Actionni13: checks
+winythekid: checks
+*** TURN *** [Qc 4h 6h] [4d]
+Actionni13: checks
+winythekid: checks
+*** RIVER *** [Qc 4h 6h 4d] [Kh]
+Actionni13: bets $6
+winythekid: raises $6 to $12
+Actionni13: calls $6
+*** SHOW DOWN ***
+winythekid: shows [5h Ks] (two pair, Kings and Fours)
+Actionni13: shows [Kc 3c] (two pair, Kings and Fours)
+Actionni13 collected $17.75 from pot
+winythekid collected $17.75 from pot
+Zooshark joins the table at seat #6
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Qc 4h 6h 4d Kh]
+Seat 3: winythekid (button) (small blind) showed [5h Ks] and won ($17.75) with two pair, Kings and Fours
+Seat 4: Actionni13 (big blind) showed [Kc 3c] and won ($17.75) with two pair, Kings and Fours
+
+

@@ -1,0 +1,31 @@
+PokerStars Hand #161385262000:  Hold'em Limit ($3/$6 USD) - 2016/11/14 8:54:17 ET
+Table 'Komppa' 6-max Seat #2 is the button
+Seat 2: SLK500 ($120 in chips)
+Seat 4: Agrotait ($72 in chips)
+SLK500: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+ToRe345 joins the table at seat #6
+SLK500: raises $3 to $6
+Agrotait: raises $3 to $9
+SLK500: calls $3
+*** FLOP *** [9s 3d 6c]
+Agrotait: checks
+SLK500: checks
+*** TURN *** [9s 3d 6c] [9h]
+Agrotait: checks
+SLK500: checks
+*** RIVER *** [9s 3d 6c 9h] [8c]
+Agrotait: checks
+SLK500: checks
+*** SHOW DOWN ***
+Agrotait: shows [Th Qh] (a pair of Nines)
+SLK500: shows [Ks 5h] (a pair of Nines - King kicker)
+SLK500 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9s 3d 6c 9h 8c]
+Seat 2: SLK500 (button) (small blind) showed [Ks 5h] and won ($17.64) with a pair of Nines
+Seat 4: Agrotait (big blind) showed [Th Qh] and lost with a pair of Nines
+
+

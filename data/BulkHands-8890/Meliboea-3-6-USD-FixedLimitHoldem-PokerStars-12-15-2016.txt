@@ -1,0 +1,86 @@
+PokerStars Hand #162982914581:  Hold'em Limit ($3/$6 USD) - 2016/12/15 10:56:49 ET
+Table 'Meliboea' 6-max Seat #5 is the button
+Seat 4: Great_Kang ($189.01 in chips)
+Seat 5: oddinec ($3.85 in chips)
+oddinec: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+oddinec: raises $0.85 to $3.85 and is all-in
+Great_Kang: calls $0.85
+*** FLOP *** [6c 3h Ac]
+*** TURN *** [6c 3h Ac] [Th]
+*** RIVER *** [6c 3h Ac Th] [8c]
+*** SHOW DOWN ***
+Great_Kang: shows [4h Ad] (a pair of Aces)
+oddinec: shows [4s Js] (high card Ace)
+Great_Kang collected $7.55 from pot
+*** SUMMARY ***
+Total pot $7.70 | Rake $0.15
+Board [6c 3h Ac Th 8c]
+Seat 4: Great_Kang (big blind) showed [4h Ad] and won ($7.55) with a pair of Aces
+Seat 5: oddinec (button) (small blind) showed [4s Js] and lost with high card Ace
+
+
+PokerStars Hand #162982898723:  Hold'em Limit ($3/$6 USD) - 2016/12/15 10:56:23 ET
+Table 'Meliboea' 6-max Seat #4 is the button
+Seat 4: Great_Kang ($162.51 in chips)
+Seat 5: oddinec ($30.85 in chips)
+Great_Kang: posts small blind $1
+oddinec: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+oddinec: raises $3 to $9
+Great_Kang: raises $3 to $12
+Betting is capped
+oddinec: calls $3
+*** FLOP *** [9h Th 5s]
+oddinec: checks
+Great_Kang: bets $3
+oddinec: calls $3
+*** TURN *** [9h Th 5s] [Jd]
+oddinec: checks
+Great_Kang: bets $6
+oddinec: calls $6
+*** RIVER *** [9h Th 5s Jd] [4d]
+oddinec: checks
+Great_Kang: bets $6
+oddinec: calls $6
+*** SHOW DOWN ***
+Great_Kang: shows [Qd Kc] (a straight, Nine to King)
+oddinec: mucks hand
+Great_Kang collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [9h Th 5s Jd 4d]
+Seat 4: Great_Kang (button) (small blind) showed [Qd Kc] and won ($53.50) with a straight, Nine to King
+Seat 5: oddinec (big blind) mucked
+
+
+PokerStars Hand #162982872212:  Hold'em Limit ($3/$6 USD) - 2016/12/15 10:55:40 ET
+Table 'Meliboea' 6-max Seat #5 is the button
+Seat 4: Great_Kang ($171.51 in chips)
+Seat 5: oddinec ($22.21 in chips)
+oddinec: posts small blind $1
+Sirocko: is sitting out
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+oddinec: raises $3 to $6
+Sirocko leaves the table
+Great_Kang: calls $3
+*** FLOP *** [4s 9c 6c]
+Great_Kang: checks
+oddinec: bets $3
+Great_Kang: calls $3
+*** TURN *** [4s 9c 6c] [4c]
+Great_Kang: checks
+oddinec: bets $6
+Great_Kang: folds
+Uncalled bet ($6) returned to oddinec
+oddinec collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4s 9c 6c 4c]
+Seat 4: Great_Kang (big blind) folded on the Turn
+Seat 5: oddinec (button) (small blind) collected ($17.64)
+
+

@@ -1,0 +1,66 @@
+PokerStars Hand #145077223664:  Hold'em Limit ($3/$6 USD) - 2015/12/09 11:53:17 ET
+Table 'Dnoces' 6-max Seat #4 is the button
+Seat 1: An-j92 ($63.75 in chips)
+Seat 4: MTails ($117 in chips)
+MTails: posts small blind $1
+An-j92: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+An-j92: calls $3
+*** FLOP *** [8s 9c 6h]
+SashaYuvelir joins the table at seat #3
+An-j92: checks
+MTails: bets $3
+An-j92: calls $3
+*** TURN *** [8s 9c 6h] [7h]
+An-j92: checks
+Great_Kang joins the table at seat #5
+MTails: bets $6
+An-j92: calls $6
+*** RIVER *** [8s 9c 6h 7h] [3c]
+An-j92: checks
+MTails: bets $6
+An-j92: folds
+Uncalled bet ($6) returned to MTails
+MTails collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8s 9c 6h 7h 3c]
+Seat 1: An-j92 (big blind) folded on the River
+Seat 4: MTails (button) (small blind) collected ($29.50)
+
+
+PokerStars Hand #145077758252:  Hold'em Limit ($3/$6 USD) - 2015/12/09 12:05:25 ET
+Table 'Dnoces' 6-max Seat #5 is the button
+Seat 3: xxWITTExx ($148.13 in chips)
+Seat 5: Great_Kang ($224.10 in chips)
+Great_Kang: posts small blind $1
+PelonCabelao: is sitting out
+xxWITTExx: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+xxWITTExx: calls $3
+*** FLOP *** [4s Ah 2h]
+xxWITTExx: checks
+Great_Kang: bets $3
+xxWITTExx: calls $3
+*** TURN *** [4s Ah 2h] [9d]
+xxWITTExx: checks
+Great_Kang: bets $6
+xxWITTExx: raises $6 to $12
+PelonCabelao leaves the table
+Great_Kang: calls $6
+*** RIVER *** [4s Ah 2h 9d] [Qs]
+xxWITTExx: bets $6
+Great_Kang: calls $6
+*** SHOW DOWN ***
+xxWITTExx: shows [Js As] (a pair of Aces)
+Great_Kang: mucks hand
+xxWITTExx collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [4s Ah 2h 9d Qs]
+Seat 3: xxWITTExx (big blind) showed [Js As] and won ($53.50) with a pair of Aces
+Seat 5: Great_Kang (button) (small blind) mucked
+
+

@@ -1,0 +1,65 @@
+PokerStars Hand #155588447804:  Hold'em Limit ($3/$6 USD) - 2016/07/05 8:27:45 ET
+Table 'Beograd' 10-max Seat #1 is the button
+Seat 1: vitahaa222 ($43.68 in chips)
+Seat 7: VolkovDmitri ($120 in chips)
+vitahaa222: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+vitahaa222: calls $2
+VolkovDmitri: raises $3 to $6
+vitahaa222: calls $3
+*** FLOP *** [Ac Ts 3h]
+VolkovDmitri: bets $3
+vitahaa222: calls $3
+*** TURN *** [Ac Ts 3h] [3s]
+VolkovDmitri: checks
+vitahaa222: checks
+*** RIVER *** [Ac Ts 3h 3s] [5d]
+VolkovDmitri: checks
+vitahaa222: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to vitahaa222
+vitahaa222 collected $17.64 from pot
+vitahaa222: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ac Ts 3h 3s 5d]
+Seat 1: vitahaa222 (button) (small blind) collected ($17.64)
+Seat 7: VolkovDmitri (big blind) folded on the River
+
+
+PokerStars Hand #155588466865:  Hold'em Limit ($3/$6 USD) - 2016/07/05 8:28:26 ET
+Table 'Beograd' 10-max Seat #7 is the button
+Seat 1: vitahaa222 ($52.32 in chips)
+Seat 7: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+vitahaa222: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+vitahaa222: raises $3 to $9
+VolkovDmitri: raises $3 to $12
+Betting is capped
+vitahaa222: calls $3
+*** FLOP *** [9d 7h 8h]
+vitahaa222: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [9d 7h 8h] [5h]
+vitahaa222: bets $6
+REZOLUTION84 joins the table at seat #2
+VolkovDmitri: calls $6
+*** RIVER *** [9d 7h 8h 5h] [As]
+vitahaa222: bets $6
+VolkovDmitri: raises $6 to $12
+vitahaa222: raises $6 to $18
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+vitahaa222: shows [Qh Kh] (a flush, King high)
+VolkovDmitri: mucks hand
+vitahaa222 collected $77.50 from pot
+*** SUMMARY ***
+Total pot $78 | Rake $0.50
+Board [9d 7h 8h 5h As]
+Seat 1: vitahaa222 (big blind) showed [Qh Kh] and won ($77.50) with a flush, King high
+Seat 7: VolkovDmitri (button) (small blind) mucked
+
+

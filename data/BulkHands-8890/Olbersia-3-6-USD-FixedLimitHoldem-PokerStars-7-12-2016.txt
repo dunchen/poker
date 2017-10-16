@@ -1,0 +1,256 @@
+PokerStars Hand #155872395571:  Hold'em Limit ($3/$6 USD) - 2016/07/12 8:00:12 ET
+Table 'Olbersia' 6-max Seat #3 is the button
+Seat 3: jl45259071 ($50 in chips)
+Seat 4: Agrotait ($72 in chips)
+jl45259071: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+Agrotait: checks
+*** FLOP *** [Js 7d Th]
+Agrotait: checks
+jl45259071: bets $3
+Agrotait: calls $3
+*** TURN *** [Js 7d Th] [Ks]
+Agrotait: checks
+jl45259071: checks
+*** RIVER *** [Js 7d Th Ks] [Kh]
+Agrotait: checks
+jl45259071: checks
+*** SHOW DOWN ***
+Agrotait: shows [6h 8s] (a pair of Kings)
+jl45259071: shows [Jc 3h] (two pair, Kings and Jacks)
+jl45259071 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Js 7d Th Ks Kh]
+Seat 3: jl45259071 (button) (small blind) showed [Jc 3h] and won ($11.76) with two pair, Kings and Jacks
+Seat 4: Agrotait (big blind) showed [6h 8s] and lost with a pair of Kings
+
+
+PokerStars Hand #155872446916:  Hold'em Limit ($3/$6 USD) - 2016/07/12 8:02:14 ET
+Table 'Olbersia' 6-max Seat #3 is the button
+Seat 3: jl45259071 ($37.76 in chips)
+Seat 4: Agrotait ($83.50 in chips)
+jl45259071: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: raises $3 to $6
+Agrotait: raises $3 to $9
+jl45259071: calls $3
+*** FLOP *** [Kc 8d 2h]
+Agrotait: bets $3
+jl45259071: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $17.64 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kc 8d 2h]
+Seat 3: jl45259071 (button) (small blind) folded on the Flop
+Seat 4: Agrotait (big blind) collected ($17.64)
+
+
+PokerStars Hand #155872426401:  Hold'em Limit ($3/$6 USD) - 2016/07/12 8:01:27 ET
+Table 'Olbersia' 6-max Seat #4 is the button
+Seat 3: jl45259071 ($55.76 in chips)
+Seat 4: Agrotait ($66 in chips)
+Agrotait: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+B_loJkl joins the table at seat #5
+jl45259071: raises $3 to $9
+Agrotait: calls $3
+*** FLOP *** [Qs 6s 2h]
+bugsbubble joins the table at seat #6
+jl45259071: bets $3
+Agrotait: calls $3
+*** TURN *** [Qs 6s 2h] [3d]
+jl45259071: checks
+Agrotait: bets $6
+jl45259071: calls $6
+*** RIVER *** [Qs 6s 2h 3d] [4h]
+jl45259071: checks
+Agrotait: checks
+*** SHOW DOWN ***
+jl45259071: shows [As Kh] (high card Ace)
+Agrotait: shows [9d 6h] (a pair of Sixes)
+Agrotait collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Qs 6s 2h 3d 4h]
+Seat 3: jl45259071 (big blind) showed [As Kh] and lost with high card Ace
+Seat 4: Agrotait (button) (small blind) showed [9d 6h] and won ($35.50) with a pair of Sixes
+
+
+PokerStars Hand #155872871299:  Hold'em Limit ($3/$6 USD) - 2016/07/12 8:17:48 ET
+Table 'Olbersia' 6-max Seat #3 is the button
+Seat 2: thekiing80 ($181.29 in chips)
+Seat 3: B_loJkl ($144 in chips)
+B_loJkl: posts small blind $1
+bugsbubble: is sitting out
+thekiing80: posts big blind $3
+*** HOLE CARDS ***
+bugsbubble leaves the table
+B_loJkl: folds
+Uncalled bet ($2) returned to thekiing80
+thekiing80 collected $2 from pot
+thekiing80: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: thekiing80 (big blind) collected ($2)
+Seat 3: B_loJkl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #155872877843:  Hold'em Limit ($3/$6 USD) - 2016/07/12 8:18:02 ET
+Table 'Olbersia' 6-max Seat #2 is the button
+Seat 2: thekiing80 ($182.29 in chips)
+Seat 3: B_loJkl ($143 in chips)
+thekiing80: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+thekiing80: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [5d Qd 2d]
+B_loJkl: bets $3
+thekiing80: calls $3
+*** TURN *** [5d Qd 2d] [Qc]
+B_loJkl: bets $6
+thekiing80: calls $6
+*** RIVER *** [5d Qd 2d Qc] [6s]
+B_loJkl: bets $6
+thekiing80: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [Ac 5s] (two pair, Queens and Fives)
+thekiing80: shows [9h 9c] (two pair, Queens and Nines)
+thekiing80 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [5d Qd 2d Qc 6s]
+Seat 2: thekiing80 (button) (small blind) showed [9h 9c] and won ($41.50) with two pair, Queens and Nines
+Seat 3: B_loJkl (big blind) showed [Ac 5s] and lost with two pair, Queens and Fives
+
+
+PokerStars Hand #155872896503:  Hold'em Limit ($3/$6 USD) - 2016/07/12 8:18:42 ET
+Table 'Olbersia' 6-max Seat #3 is the button
+Seat 2: thekiing80 ($202.79 in chips)
+Seat 3: B_loJkl ($122 in chips)
+B_loJkl: posts small blind $1
+thekiing80: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+thekiing80: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $6 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: thekiing80 (big blind) folded before Flop
+Seat 3: B_loJkl (button) (small blind) collected ($6)
+
+
+PokerStars Hand #155872930693:  Hold'em Limit ($3/$6 USD) - 2016/07/12 8:19:57 ET
+Table 'Olbersia' 6-max Seat #3 is the button
+Seat 2: thekiing80 ($199.54 in chips)
+Seat 3: B_loJkl ($124.75 in chips)
+B_loJkl: posts small blind $1
+thekiing80: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+thekiing80: calls $3
+*** FLOP *** [5h Jd 4c]
+thekiing80: checks
+B_loJkl: bets $3
+thekiing80: calls $3
+*** TURN *** [5h Jd 4c] [2d]
+thekiing80: checks
+B_loJkl: checks
+*** RIVER *** [5h Jd 4c 2d] [6d]
+thekiing80: checks
+B_loJkl: checks
+*** SHOW DOWN ***
+thekiing80: shows [7h Ac] (high card Ace)
+B_loJkl: mucks hand
+thekiing80 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5h Jd 4c 2d 6d]
+Seat 2: thekiing80 (big blind) showed [7h Ac] and won ($17.64) with high card Ace
+Seat 3: B_loJkl (button) (small blind) mucked
+
+
+PokerStars Hand #155872899013:  Hold'em Limit ($3/$6 USD) - 2016/07/12 8:18:48 ET
+Table 'Olbersia' 6-max Seat #2 is the button
+Seat 2: thekiing80 ($199.79 in chips)
+Seat 3: B_loJkl ($125 in chips)
+thekiing80: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+thekiing80: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [6h 3d Ah]
+B_loJkl: checks
+thekiing80: bets $3
+B_loJkl: calls $3
+*** TURN *** [6h 3d Ah] [2s]
+B_loJkl: checks
+thekiing80: bets $6
+B_loJkl: calls $6
+*** RIVER *** [6h 3d Ah 2s] [2d]
+B_loJkl: checks
+thekiing80: checks
+*** SHOW DOWN ***
+B_loJkl: shows [5s Jh] (a pair of Deuces)
+thekiing80: shows [Jc 5h] (a pair of Deuces)
+B_loJkl collected $14.75 from pot
+thekiing80 collected $14.75 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6h 3d Ah 2s 2d]
+Seat 2: thekiing80 (button) (small blind) showed [Jc 5h] and won ($14.75) with a pair of Deuces
+Seat 3: B_loJkl (big blind) showed [5s Jh] and won ($14.75) with a pair of Deuces
+
+
+PokerStars Hand #155872957759:  Hold'em Limit ($3/$6 USD) - 2016/07/12 8:20:56 ET
+Table 'Olbersia' 6-max Seat #3 is the button
+Seat 2: thekiing80 ($202.18 in chips)
+Seat 3: B_loJkl ($121.51 in chips)
+B_loJkl: posts small blind $1
+thekiing80: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: folds
+Uncalled bet ($2) returned to thekiing80
+thekiing80 collected $2 from pot
+thekiing80: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: thekiing80 (big blind) collected ($2)
+Seat 3: B_loJkl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #155872948450:  Hold'em Limit ($3/$6 USD) - 2016/07/12 8:20:36 ET
+Table 'Olbersia' 6-max Seat #2 is the button
+Seat 2: thekiing80 ($208.18 in chips)
+Seat 3: B_loJkl ($115.75 in chips)
+thekiing80: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+thekiing80: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [2s 6c 7s]
+B_loJkl: checks
+thekiing80: checks
+*** TURN *** [2s 6c 7s] [3d]
+B_loJkl: bets $6
+thekiing80: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2s 6c 7s 3d]
+Seat 2: thekiing80 (button) (small blind) folded on the Turn
+Seat 3: B_loJkl (big blind) collected ($11.76)
+
+

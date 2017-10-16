@@ -1,0 +1,35 @@
+PokerStars Hand #163522508804:  Hold'em Limit ($3/$6 USD) - 2016/12/25 19:00:14 ET
+Table 'Wallia' 6-max Seat #3 is the button
+Seat 3: ToDaFelt ($236.18 in chips)
+Seat 5: Actionni13 ($189.48 in chips)
+ToDaFelt: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri leaves the table
+ToDaFelt: raises $3 to $6
+Actionni13: calls $3
+*** FLOP *** [9s Qh 7s]
+Actionni13: checks
+ToDaFelt: bets $3
+Actionni13: raises $3 to $6
+ToDaFelt: calls $3
+*** TURN *** [9s Qh 7s] [2d]
+Actionni13: bets $6
+UNABELIEVE leaves the table
+ToDaFelt: raises $6 to $12
+Actionni13: raises $6 to $18
+ToDaFelt: calls $6
+*** RIVER *** [9s Qh 7s 2d] [7h]
+Actionni13: bets $6
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+Actionni13: shows [Jh Ts] (a pair of Sevens)
+ToDaFelt: shows [Kh Kc] (two pair, Kings and Sevens)
+ToDaFelt collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [9s Qh 7s 2d 7h]
+Seat 3: ToDaFelt (button) (small blind) showed [Kh Kc] and won ($71.50) with two pair, Kings and Sevens
+Seat 5: Actionni13 (big blind) showed [Jh Ts] and lost with a pair of Sevens
+
+

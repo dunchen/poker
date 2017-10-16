@@ -1,0 +1,30 @@
+PokerStars Hand #150295016006:  Hold'em Limit ($3/$6 USD) - 2016/03/13 13:35:03 ET
+Table 'Fomalhaut II' 10-max Seat #6 is the button
+Seat 5: Eklund_1891 ($96.36 in chips)
+Seat 6: Agrotait ($66.55 in chips)
+Agrotait: posts small blind $1
+Eklund_1891: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+Eklund_1891: raises $3 to $9
+Agrotait: calls $3
+*** FLOP *** [6d Qc 8h]
+Eklund_1891: bets $3
+Agrotait: calls $3
+*** TURN *** [6d Qc 8h] [5s]
+Eklund_1891: checks
+Agrotait: checks
+*** RIVER *** [6d Qc 8h 5s] [8c]
+Eklund_1891: checks
+Agrotait: checks
+*** SHOW DOWN ***
+Eklund_1891: shows [Ks Td] (a pair of Eights)
+Agrotait: shows [6c Kc] (two pair, Eights and Sixes)
+Agrotait collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [6d Qc 8h 5s 8c]
+Seat 5: Eklund_1891 (big blind) showed [Ks Td] and lost with a pair of Eights
+Seat 6: Agrotait (button) (small blind) showed [6c Kc] and won ($23.52) with two pair, Eights and Sixes
+
+

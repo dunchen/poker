@@ -1,0 +1,591 @@
+PokerStars Hand #174765256615:  Hold'em Limit ($3/$6 USD) - 2017/08/25 4:05:53 ET
+Table 'Hencke' 6-max Seat #1 is the button
+Seat 1: aremom4e ($120 in chips)
+Seat 2: krossguard ($120 in chips)
+aremom4e: posts small blind $1
+krossguard: posts big blind $3
+*** HOLE CARDS ***
+aremom4e: raises $3 to $6
+krossguard: calls $3
+*** FLOP *** [8h Qs Th]
+krossguard: checks
+aremom4e: bets $3
+krossguard: calls $3
+*** TURN *** [8h Qs Th] [Qd]
+krossguard: checks
+aremom4e: bets $6
+krossguard: calls $6
+*** RIVER *** [8h Qs Th Qd] [Jc]
+krossguard: checks
+aremom4e: checks
+*** SHOW DOWN ***
+krossguard: shows [Ah 5d] (a pair of Queens)
+aremom4e: shows [4c Qc] (three of a kind, Queens)
+aremom4e collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8h Qs Th Qd Jc]
+Seat 1: aremom4e (button) (small blind) showed [4c Qc] and won ($29.50) with three of a kind, Queens
+Seat 2: krossguard (big blind) showed [Ah 5d] and lost with a pair of Queens
+
+
+PokerStars Hand #174765263244:  Hold'em Limit ($3/$6 USD) - 2017/08/25 4:06:17 ET
+Table 'Hencke' 6-max Seat #2 is the button
+Seat 1: aremom4e ($134.50 in chips)
+Seat 2: krossguard ($105 in chips)
+krossguard: posts small blind $1
+aremom4e: posts big blind $3
+*** HOLE CARDS ***
+krossguard: raises $3 to $6
+aremom4e: calls $3
+*** FLOP *** [Qs Th 8c]
+aremom4e: checks
+krossguard: bets $3
+aremom4e: folds
+Uncalled bet ($3) returned to krossguard
+krossguard collected $11.76 from pot
+krossguard: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qs Th 8c]
+Seat 1: aremom4e (big blind) folded on the Flop
+Seat 2: krossguard (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #174765266776:  Hold'em Limit ($3/$6 USD) - 2017/08/25 4:06:30 ET
+Table 'Hencke' 6-max Seat #1 is the button
+Seat 1: aremom4e ($128.50 in chips)
+Seat 2: krossguard ($110.76 in chips)
+aremom4e: posts small blind $1
+krossguard: posts big blind $3
+*** HOLE CARDS ***
+aremom4e: raises $3 to $6
+krossguard: calls $3
+*** FLOP *** [9d 2c 4d]
+krossguard: bets $3
+aremom4e: calls $3
+*** TURN *** [9d 2c 4d] [Qs]
+krossguard: checks
+aremom4e: checks
+*** RIVER *** [9d 2c 4d Qs] [4s]
+krossguard: checks
+aremom4e: checks
+*** SHOW DOWN ***
+krossguard: shows [5h 2h] (two pair, Fours and Deuces)
+aremom4e: mucks hand
+krossguard collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9d 2c 4d Qs 4s]
+Seat 1: aremom4e (button) (small blind) mucked
+Seat 2: krossguard (big blind) showed [5h 2h] and won ($17.64) with two pair, Fours and Deuces
+
+
+PokerStars Hand #174765290137:  Hold'em Limit ($3/$6 USD) - 2017/08/25 4:07:54 ET
+Table 'Hencke' 6-max Seat #2 is the button
+Seat 1: aremom4e ($137 in chips)
+Seat 2: krossguard ($101.04 in chips)
+krossguard: posts small blind $1
+aremom4e: posts big blind $3
+*** HOLE CARDS ***
+krossguard: raises $3 to $6
+aremom4e: calls $3
+*** FLOP *** [4d Tc Qc]
+aremom4e: checks
+krossguard: bets $3
+aremom4e: calls $3
+*** TURN *** [4d Tc Qc] [Th]
+aremom4e: checks
+krossguard: bets $6
+aremom4e: folds
+Uncalled bet ($6) returned to krossguard
+krossguard collected $17.64 from pot
+krossguard: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4d Tc Qc Th]
+Seat 1: aremom4e (big blind) folded on the Turn
+Seat 2: krossguard (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #174765282074:  Hold'em Limit ($3/$6 USD) - 2017/08/25 4:07:25 ET
+Table 'Hencke' 6-max Seat #1 is the button
+Seat 1: aremom4e ($110.50 in chips)
+Seat 2: krossguard ($128.04 in chips)
+aremom4e: posts small blind $1
+krossguard: posts big blind $3
+*** HOLE CARDS ***
+aremom4e: calls $2
+krossguard: raises $3 to $6
+aremom4e: calls $3
+*** FLOP *** [6s Ac 7s]
+krossguard: bets $3
+aremom4e: raises $3 to $6
+krossguard: raises $3 to $9
+aremom4e: calls $3
+*** TURN *** [6s Ac 7s] [Js]
+krossguard: bets $6
+aremom4e: calls $6
+*** RIVER *** [6s Ac 7s Js] [3d]
+krossguard: checks
+aremom4e: bets $6
+krossguard: calls $6
+*** SHOW DOWN ***
+aremom4e: shows [4s 5d] (a straight, Three to Seven)
+krossguard: mucks hand
+aremom4e collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [6s Ac 7s Js 3d]
+Seat 1: aremom4e (button) (small blind) showed [4s 5d] and won ($53.50) with a straight, Three to Seven
+Seat 2: krossguard (big blind) mucked
+
+
+PokerStars Hand #174765293840:  Hold'em Limit ($3/$6 USD) - 2017/08/25 4:08:07 ET
+Table 'Hencke' 6-max Seat #1 is the button
+Seat 1: aremom4e ($128 in chips)
+Seat 2: krossguard ($109.68 in chips)
+aremom4e: posts small blind $1
+krossguard: posts big blind $3
+*** HOLE CARDS ***
+aremom4e: raises $3 to $6
+krossguard: calls $3
+*** FLOP *** [4d 6s Jh]
+krossguard: checks
+aremom4e: bets $3
+krossguard: raises $3 to $6
+aremom4e: calls $3
+*** TURN *** [4d 6s Jh] [6d]
+krossguard: bets $6
+aremom4e: raises $6 to $12
+krossguard: raises $6 to $18
+aremom4e: calls $6
+*** RIVER *** [4d 6s Jh 6d] [5h]
+krossguard: bets $6
+aremom4e: calls $6
+*** SHOW DOWN ***
+krossguard: shows [7s 5c] (two pair, Sixes and Fives)
+aremom4e: shows [Jc 9h] (two pair, Jacks and Sixes)
+aremom4e collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [4d 6s Jh 6d 5h]
+Seat 1: aremom4e (button) (small blind) showed [Jc 9h] and won ($71.50) with two pair, Jacks and Sixes
+Seat 2: krossguard (big blind) showed [7s 5c] and lost with two pair, Sixes and Fives
+
+
+PokerStars Hand #174765276076:  Hold'em Limit ($3/$6 USD) - 2017/08/25 4:07:03 ET
+Table 'Hencke' 6-max Seat #2 is the button
+Seat 1: aremom4e ($119.50 in chips)
+Seat 2: krossguard ($119.40 in chips)
+krossguard: posts small blind $1
+aremom4e: posts big blind $3
+*** HOLE CARDS ***
+krossguard: raises $3 to $6
+aremom4e: calls $3
+*** FLOP *** [4d 6s 3h]
+aremom4e: checks
+krossguard: bets $3
+aremom4e: calls $3
+*** TURN *** [4d 6s 3h] [6h]
+aremom4e: checks
+krossguard: bets $6
+aremom4e: folds
+Uncalled bet ($6) returned to krossguard
+krossguard collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4d 6s 3h 6h]
+Seat 1: aremom4e (big blind) folded on the Turn
+Seat 2: krossguard (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #174765304244:  Hold'em Limit ($3/$6 USD) - 2017/08/25 4:08:44 ET
+Table 'Hencke' 6-max Seat #2 is the button
+Seat 1: aremom4e ($147.50 in chips)
+Seat 2: krossguard ($89.18 in chips)
+krossguard: posts small blind $1
+aremom4e: posts big blind $3
+*** HOLE CARDS ***
+krossguard: raises $3 to $6
+aremom4e: calls $3
+*** FLOP *** [Jd 7c 3c]
+aremom4e: checks
+krossguard: bets $3
+aremom4e: raises $3 to $6
+krossguard: calls $3
+*** TURN *** [Jd 7c 3c] [5d]
+aremom4e: bets $6
+krossguard: calls $6
+*** RIVER *** [Jd 7c 3c 5d] [8s]
+aremom4e: checks
+krossguard: bets $6
+aremom4e: calls $6
+*** SHOW DOWN ***
+krossguard: shows [9d 6d] (a straight, Five to Nine)
+aremom4e: mucks hand
+krossguard collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Jd 7c 3c 5d 8s]
+Seat 1: aremom4e (big blind) mucked
+Seat 2: krossguard (button) (small blind) showed [9d 6d] and won ($47.50) with a straight, Five to Nine
+
+
+PokerStars Hand #174765302792:  Hold'em Limit ($3/$6 USD) - 2017/08/25 4:08:39 ET
+Table 'Hencke' 6-max Seat #1 is the button
+Seat 1: aremom4e ($148.50 in chips)
+Seat 2: krossguard ($88.18 in chips)
+aremom4e: posts small blind $1
+krossguard: posts big blind $3
+*** HOLE CARDS ***
+aremom4e: folds
+Uncalled bet ($2) returned to krossguard
+krossguard collected $2 from pot
+krossguard: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: aremom4e (button) (small blind) folded before Flop
+Seat 2: krossguard (big blind) collected ($2)
+
+
+PokerStars Hand #174765298282:  Hold'em Limit ($3/$6 USD) - 2017/08/25 4:08:23 ET
+Table 'Hencke' 6-max Seat #2 is the button
+Seat 1: aremom4e ($163.50 in chips)
+Seat 2: krossguard ($73.68 in chips)
+krossguard: posts small blind $1
+aremom4e: posts big blind $3
+*** HOLE CARDS ***
+krossguard: raises $3 to $6
+aremom4e: calls $3
+*** FLOP *** [2s 5c 6d]
+aremom4e: checks
+krossguard: bets $3
+aremom4e: calls $3
+*** TURN *** [2s 5c 6d] [6h]
+aremom4e: checks
+krossguard: bets $6
+aremom4e: calls $6
+*** RIVER *** [2s 5c 6d 6h] [7c]
+aremom4e: checks
+krossguard: checks
+*** SHOW DOWN ***
+aremom4e: shows [3h Qh] (a pair of Sixes)
+krossguard: shows [2c Kd] (two pair, Sixes and Deuces)
+krossguard collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2s 5c 6d 6h 7c]
+Seat 1: aremom4e (big blind) showed [3h Qh] and lost with a pair of Sixes
+Seat 2: krossguard (button) (small blind) showed [2c Kd] and won ($29.50) with two pair, Sixes and Deuces
+
+
+PokerStars Hand #174765315526:  Hold'em Limit ($3/$6 USD) - 2017/08/25 4:09:24 ET
+Table 'Hencke' 6-max Seat #1 is the button
+Seat 1: aremom4e ($138.02 in chips)
+Seat 2: krossguard ($97.68 in chips)
+aremom4e: posts small blind $1
+krossguard: posts big blind $3
+*** HOLE CARDS ***
+aremom4e: raises $3 to $6
+krossguard: folds
+Uncalled bet ($3) returned to aremom4e
+aremom4e collected $6 from pot
+aremom4e: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: aremom4e (button) (small blind) collected ($6)
+Seat 2: krossguard (big blind) folded before Flop
+
+
+PokerStars Hand #174765975469:  Hold'em Limit ($3/$6 USD) - 2017/08/25 4:47:04 ET
+Table 'Hencke' 6-max Seat #1 is the button
+Seat 1: AAAbeta ($66 in chips)
+Seat 6: 0verd0se ($295.73 in chips)
+AAAbeta: posts small blind $1
+krossguard: is sitting out
+HAL9QQQ: is sitting out
+0verd0se: posts big blind $3
+*** HOLE CARDS ***
+krossguard leaves the table
+AAAbeta: raises $3 to $6
+0verd0se: calls $3
+*** FLOP *** [Ts 4c 6c]
+0verd0se: checks
+AAAbeta: bets $3
+0verd0se: calls $3
+*** TURN *** [Ts 4c 6c] [5c]
+0verd0se: checks
+AAAbeta: bets $6
+0verd0se: raises $6 to $12
+AAAbeta: calls $6
+*** RIVER *** [Ts 4c 6c 5c] [5d]
+0verd0se: bets $6
+AAAbeta: calls $6
+*** SHOW DOWN ***
+0verd0se: shows [Jh Th] (two pair, Tens and Fives)
+AAAbeta: mucks hand
+0verd0se collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Ts 4c 6c 5c 5d]
+Seat 1: AAAbeta (button) (small blind) mucked
+Seat 6: 0verd0se (big blind) showed [Jh Th] and won ($53.50) with two pair, Tens and Fives
+
+
+PokerStars Hand #174765984618:  Hold'em Limit ($3/$6 USD) - 2017/08/25 4:47:34 ET
+Table 'Hencke' 6-max Seat #6 is the button
+Seat 1: AAAbeta ($39 in chips)
+Seat 6: 0verd0se ($322.23 in chips)
+0verd0se: posts small blind $1
+AAAbeta: posts big blind $3
+*** HOLE CARDS ***
+0verd0se: folds
+Uncalled bet ($2) returned to AAAbeta
+AAAbeta collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: AAAbeta (big blind) collected ($2)
+Seat 6: 0verd0se (button) (small blind) folded before Flop
+
+
+PokerStars Hand #174765987732:  Hold'em Limit ($3/$6 USD) - 2017/08/25 4:47:44 ET
+Table 'Hencke' 6-max Seat #1 is the button
+Seat 1: AAAbeta ($40 in chips)
+Seat 6: 0verd0se ($321.23 in chips)
+AAAbeta: posts small blind $1
+0verd0se: posts big blind $3
+*** HOLE CARDS ***
+AAAbeta: raises $3 to $6
+0verd0se: calls $3
+*** FLOP *** [Kd Jh 2s]
+0verd0se: checks
+AAAbeta: bets $3
+0verd0se: calls $3
+*** TURN *** [Kd Jh 2s] [3d]
+0verd0se: checks
+AAAbeta: bets $6
+0verd0se: raises $6 to $12
+AAAbeta: calls $6
+*** RIVER *** [Kd Jh 2s 3d] [7d]
+0verd0se: bets $6
+AAAbeta: calls $6
+*** SHOW DOWN ***
+0verd0se: shows [Kc 4d] (a pair of Kings)
+AAAbeta: mucks hand
+0verd0se collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Kd Jh 2s 3d 7d]
+Seat 1: AAAbeta (button) (small blind) mucked
+Seat 6: 0verd0se (big blind) showed [Kc 4d] and won ($53.50) with a pair of Kings
+
+
+PokerStars Hand #174766007535:  Hold'em Limit ($3/$6 USD) - 2017/08/25 4:48:50 ET
+Table 'Hencke' 6-max Seat #1 is the button
+Seat 1: AAAbeta ($42 in chips)
+Seat 6: 0verd0se ($360.23 in chips)
+AAAbeta: posts small blind $1
+0verd0se: posts big blind $3
+*** HOLE CARDS ***
+AAAbeta: raises $3 to $6
+0verd0se: calls $3
+*** FLOP *** [Tc 4d Jc]
+0verd0se: checks
+AAAbeta: bets $3
+0verd0se: folds
+Uncalled bet ($3) returned to AAAbeta
+AAAbeta collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Tc 4d Jc]
+Seat 1: AAAbeta (button) (small blind) collected ($11.76)
+Seat 6: 0verd0se (big blind) folded on the Flop
+
+
+PokerStars Hand #174765998706:  Hold'em Limit ($3/$6 USD) - 2017/08/25 4:48:20 ET
+Table 'Hencke' 6-max Seat #6 is the button
+Seat 1: AAAbeta ($13 in chips)
+Seat 6: 0verd0se ($347.73 in chips)
+0verd0se: posts small blind $1
+AAAbeta: posts big blind $3
+*** HOLE CARDS ***
+0verd0se: calls $2
+AAAbeta: checks
+*** FLOP *** [5d Tc Ah]
+AAAbeta: checks
+0verd0se: bets $3
+AAAbeta: calls $3
+*** TURN *** [5d Tc Ah] [Ad]
+AAAbeta: bets $6
+0verd0se: raises $6 to $12
+AAAbeta: calls $1 and is all-in
+Uncalled bet ($5) returned to 0verd0se
+*** RIVER *** [5d Tc Ah Ad] [Kd]
+*** SHOW DOWN ***
+AAAbeta: shows [Qh 5s] (two pair, Aces and Fives)
+0verd0se: shows [9c 9h] (two pair, Aces and Nines)
+0verd0se collected $25.50 from pot
+*** SUMMARY ***
+Total pot $26 | Rake $0.50
+Board [5d Tc Ah Ad Kd]
+Seat 1: AAAbeta (big blind) showed [Qh 5s] and lost with two pair, Aces and Fives
+Seat 6: 0verd0se (button) (small blind) showed [9c 9h] and won ($25.50) with two pair, Aces and Nines
+
+
+PokerStars Hand #174766018230:  Hold'em Limit ($3/$6 USD) - 2017/08/25 4:49:25 ET
+Table 'Hencke' 6-max Seat #1 is the button
+Seat 1: AAAbeta ($53.52 in chips)
+Seat 6: 0verd0se ($348.23 in chips)
+AAAbeta: posts small blind $1
+0verd0se: posts big blind $3
+*** HOLE CARDS ***
+AAAbeta: calls $2
+0verd0se: checks
+*** FLOP *** [Js 7s Tc]
+0verd0se: checks
+AAAbeta: bets $3
+0verd0se: calls $3
+*** TURN *** [Js 7s Tc] [4h]
+0verd0se: checks
+AAAbeta: bets $6
+0verd0se: raises $6 to $12
+AAAbeta: calls $6
+*** RIVER *** [Js 7s Tc 4h] [8h]
+0verd0se: checks
+AAAbeta: bets $6
+0verd0se: calls $6
+*** SHOW DOWN ***
+AAAbeta: shows [9c 7c] (a straight, Seven to Jack)
+0verd0se: mucks hand
+AAAbeta collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Js 7s Tc 4h 8h]
+Seat 1: AAAbeta (button) (small blind) showed [9c 7c] and won ($47.50) with a straight, Seven to Jack
+Seat 6: 0verd0se (big blind) mucked
+
+
+PokerStars Hand #174766031617:  Hold'em Limit ($3/$6 USD) - 2017/08/25 4:50:09 ET
+Table 'Hencke' 6-max Seat #6 is the button
+Seat 1: AAAbeta ($77.02 in chips)
+Seat 6: 0verd0se ($324.23 in chips)
+0verd0se: posts small blind $1
+AAAbeta: posts big blind $3
+*** HOLE CARDS ***
+artecris joins the table at seat #3
+0verd0se: raises $3 to $6
+AAAbeta: folds
+Uncalled bet ($3) returned to 0verd0se
+0verd0se collected $6 from pot
+0verd0se: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: AAAbeta (big blind) folded before Flop
+Seat 6: 0verd0se (button) (small blind) collected ($6)
+
+
+PokerStars Hand #174766061897:  Hold'em Limit ($3/$6 USD) - 2017/08/25 4:51:49 ET
+Table 'Hencke' 6-max Seat #1 is the button
+Seat 1: AAAbeta ($53.02 in chips)
+Seat 3: artecris ($302.74 in chips)
+AAAbeta: posts small blind $1
+artecris: posts big blind $3
+*** HOLE CARDS ***
+Pelurile joins the table at seat #4
+AAAbeta: calls $2
+artecris: checks
+*** FLOP *** [Qd 5d Th]
+artecris: bets $3
+AAAbeta: folds
+Uncalled bet ($3) returned to artecris
+artecris collected $5.88 from pot
+artecris: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Qd 5d Th]
+Seat 1: AAAbeta (button) (small blind) folded on the Flop
+Seat 3: artecris (big blind) collected ($5.88)
+
+
+PokerStars Hand #174766060337:  Hold'em Limit ($3/$6 USD) - 2017/08/25 4:51:45 ET
+Table 'Hencke' 6-max Seat #3 is the button
+Seat 1: AAAbeta ($52.02 in chips)
+Seat 3: artecris ($303.74 in chips)
+artecris: posts small blind $1
+AAAbeta: posts big blind $3
+*** HOLE CARDS ***
+artecris: folds
+Uncalled bet ($2) returned to AAAbeta
+AAAbeta collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: AAAbeta (big blind) collected ($2)
+Seat 3: artecris (button) (small blind) folded before Flop
+
+
+PokerStars Hand #174766053079:  Hold'em Limit ($3/$6 USD) - 2017/08/25 4:51:20 ET
+Table 'Hencke' 6-max Seat #1 is the button
+Seat 1: AAAbeta ($70.02 in chips)
+Seat 3: artecris ($286.24 in chips)
+AAAbeta: posts small blind $1
+artecris: posts big blind $3
+*** HOLE CARDS ***
+AAAbeta: raises $3 to $6
+artecris: calls $3
+*** FLOP *** [7h 6s Qd]
+artecris: bets $3
+AAAbeta: raises $3 to $6
+artecris: calls $3
+*** TURN *** [7h 6s Qd] [5d]
+artecris: checks
+AAAbeta: checks
+*** RIVER *** [7h 6s Qd 5d] [3s]
+artecris: bets $6
+AAAbeta: calls $6
+*** SHOW DOWN ***
+artecris: shows [4d Qh] (a straight, Three to Seven)
+AAAbeta: mucks hand
+artecris collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [7h 6s Qd 5d 3s]
+Seat 1: AAAbeta (button) (small blind) mucked
+Seat 3: artecris (big blind) showed [4d Qh] and won ($35.50) with a straight, Three to Seven
+
+
+PokerStars Hand #174766302285:  Hold'em Limit ($3/$6 USD) - 2017/08/25 5:05:19 ET
+Table 'Hencke' 6-max Seat #1 is the button
+Seat 1: AAAbeta ($86.82 in chips)
+Seat 2: labeo2222 ($104.61 in chips)
+AAAbeta: posts small blind $1
+labeo2222: posts big blind $3
+*** HOLE CARDS ***
+AAAbeta: raises $3 to $6
+labeo2222: folds
+Uncalled bet ($3) returned to AAAbeta
+AAAbeta collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: AAAbeta (button) (small blind) collected ($6)
+Seat 2: labeo2222 (big blind) folded before Flop
+
+
+PokerStars Hand #174766299700:  Hold'em Limit ($3/$6 USD) - 2017/08/25 5:05:11 ET
+Table 'Hencke' 6-max Seat #2 is the button
+Seat 1: AAAbeta ($85.82 in chips)
+Seat 2: labeo2222 ($105.61 in chips)
+labeo2222: posts small blind $1
+HAL9QQQ: is sitting out
+AAAbeta: posts big blind $3
+*** HOLE CARDS ***
+HAL9QQQ leaves the table
+labeo2222: folds
+Uncalled bet ($2) returned to AAAbeta
+AAAbeta collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: AAAbeta (big blind) collected ($2)
+Seat 2: labeo2222 (button) (small blind) folded before Flop
+
+

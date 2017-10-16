@@ -1,0 +1,34 @@
+PokerStars Hand #145718111122:  Hold'em Limit ($3/$6 USD) - 2015/12/21 20:26:02 ET
+Table 'Despina II' 2-max Seat #2 is the button
+Seat 1: PbIbak ($120 in chips)
+Seat 2: cepzorr ($30 in chips)
+cepzorr: posts small blind $1
+PbIbak: posts big blind $3
+*** HOLE CARDS ***
+cepzorr: raises $3 to $6
+PbIbak: calls $3
+*** FLOP *** [6c 8c Td]
+PbIbak: checks
+cepzorr: bets $3
+PbIbak: calls $3
+*** TURN *** [6c 8c Td] [Jc]
+PbIbak: checks
+cepzorr: bets $6
+PbIbak: raises $6 to $12
+cepzorr: raises $6 to $18
+PbIbak: raises $6 to $24
+Betting is capped
+cepzorr: calls $3 and is all-in
+Uncalled bet ($3) returned to PbIbak
+*** RIVER *** [6c 8c Td Jc] [Ad]
+*** SHOW DOWN ***
+PbIbak: shows [Qc 9s] (a straight, Eight to Queen)
+cepzorr: shows [Jd 5s] (a pair of Jacks)
+PbIbak collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [6c 8c Td Jc Ad]
+Seat 1: PbIbak (big blind) showed [Qc 9s] and won ($59.50) with a straight, Eight to Queen
+Seat 2: cepzorr (button) (small blind) showed [Jd 5s] and lost with a pair of Jacks
+
+

@@ -1,0 +1,64 @@
+PokerStars Hand #161026403856:  Hold'em Limit ($3/$6 USD) - 2016/11/06 23:39:52 ET
+Table 'Kuma' 6-max Seat #4 is the button
+Seat 3: hairy1961 ($17 in chips)
+Seat 4: VolkovDmitri ($152.50 in chips)
+VolkovDmitri: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+hairy1961: raises $3 to $9
+VolkovDmitri: raises $3 to $12
+Betting is capped
+hairy1961: calls $3
+*** FLOP *** [Ad 8s Kc]
+hairy1961: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [Ad 8s Kc] [4s]
+hairy1961: bets $2 and is all-in
+VolkovDmitri: calls $2
+*** RIVER *** [Ad 8s Kc 4s] [9d]
+*** SHOW DOWN ***
+hairy1961: shows [5s 5c] (a pair of Fives)
+VolkovDmitri: shows [Jc Ah] (a pair of Aces)
+VolkovDmitri collected $33.50 from pot
+*** SUMMARY ***
+Total pot $34 | Rake $0.50
+Board [Ad 8s Kc 4s 9d]
+Seat 3: hairy1961 (big blind) showed [5s 5c] and lost with a pair of Fives
+Seat 4: VolkovDmitri (button) (small blind) showed [Jc Ah] and won ($33.50) with a pair of Aces
+
+
+PokerStars Hand #161026393154:  Hold'em Limit ($3/$6 USD) - 2016/11/06 23:39:12 ET
+Table 'Kuma' 6-max Seat #3 is the button
+Seat 3: hairy1961 ($50 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+hairy1961: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+hairy1961: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [3h 6d 8h]
+VolkovDmitri: checks
+hairy1961: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [3h 6d 8h] [2h]
+VolkovDmitri: checks
+hairy1961: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [3h 6d 8h 2h] [2c]
+VolkovDmitri: checks
+hairy1961: bets $6
+VolkovDmitri: raises $6 to $12
+hairy1961: raises $6 to $18
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+hairy1961: shows [Ah 8c] (two pair, Eights and Deuces)
+VolkovDmitri: shows [2s Th] (three of a kind, Deuces)
+VolkovDmitri collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [3h 6d 8h 2h 2c]
+Seat 3: hairy1961 (button) (small blind) showed [Ah 8c] and lost with two pair, Eights and Deuces
+Seat 4: VolkovDmitri (big blind) showed [2s Th] and won ($65.50) with three of a kind, Deuces
+
+

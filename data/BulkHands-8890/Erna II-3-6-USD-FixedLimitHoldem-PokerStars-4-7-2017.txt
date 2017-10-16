@@ -1,0 +1,121 @@
+PokerStars Hand #168693786521:  Hold'em Limit ($3/$6 USD) - 2017/04/07 5:11:21 ET
+Table 'Erna II' 6-max Seat #3 is the button
+Seat 3: hairy1961 ($50 in chips)
+Seat 4: Rus29APX ($120 in chips)
+hairy1961: posts small blind $1
+Rus29APX: posts big blind $3
+*** HOLE CARDS ***
+hairy1961: raises $3 to $6
+Rus29APX: calls $3
+*** FLOP *** [7s 8s Jh]
+Rus29APX: checks
+hairy1961: bets $3
+Rus29APX: raises $3 to $6
+hairy1961: calls $3
+*** TURN *** [7s 8s Jh] [Ts]
+Rus29APX: bets $6
+hairy1961: raises $6 to $12
+Rus29APX: raises $6 to $18
+hairy1961: calls $6
+*** RIVER *** [7s 8s Jh Ts] [4s]
+Rus29APX: bets $6
+hairy1961: calls $6
+*** SHOW DOWN ***
+Rus29APX: shows [8h 9s] (a flush, Ten high)
+hairy1961: mucks hand
+Rus29APX collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [7s 8s Jh Ts 4s]
+Seat 3: hairy1961 (button) (small blind) mucked
+Seat 4: Rus29APX (big blind) showed [8h 9s] and won ($71.50) with a flush, Ten high
+
+
+PokerStars Hand #168693821676:  Hold'em Limit ($3/$6 USD) - 2017/04/07 5:12:56 ET
+Table 'Erna II' 6-max Seat #4 is the button
+Seat 3: hairy1961 ($9.50 in chips)
+Seat 4: Rus29APX ($159 in chips)
+Rus29APX: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+Rus29APX: raises $3 to $6
+hairy1961: raises $3 to $9
+Rus29APX: raises $3 to $12
+Betting is capped
+hairy1961: calls $0.50 and is all-in
+Uncalled bet ($2.50) returned to Rus29APX
+*** FLOP *** [Js Ts Th]
+*** TURN *** [Js Ts Th] [Qs]
+*** RIVER *** [Js Ts Th Qs] [Jd]
+*** SHOW DOWN ***
+hairy1961: shows [2d 3d] (two pair, Jacks and Tens)
+Rus29APX: shows [Td Kc] (a full house, Tens full of Jacks)
+Rus29APX collected $18.62 from pot
+*** SUMMARY ***
+Total pot $19 | Rake $0.38
+Board [Js Ts Th Qs Jd]
+Seat 3: hairy1961 (big blind) showed [2d 3d] and lost with two pair, Jacks and Tens
+Seat 4: Rus29APX (button) (small blind) showed [Td Kc] and won ($18.62) with a full house, Tens full of Jacks
+
+
+PokerStars Hand #168693802159:  Hold'em Limit ($3/$6 USD) - 2017/04/07 5:12:03 ET
+Table 'Erna II' 6-max Seat #4 is the button
+Seat 3: hairy1961 ($14 in chips)
+Seat 4: Rus29APX ($155.50 in chips)
+Rus29APX: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+Rus29APX: calls $2
+hairy1961: checks
+*** FLOP *** [Ah 9s 8h]
+hairy1961: checks
+Rus29APX: bets $3
+hairy1961: raises $3 to $6
+Rus29APX: raises $3 to $9
+hairy1961: raises $2 to $11 and is all-in
+Betting is capped
+Rus29APX: calls $2
+*** TURN *** [Ah 9s 8h] [5d]
+*** RIVER *** [Ah 9s 8h 5d] [Js]
+*** SHOW DOWN ***
+hairy1961: shows [5h 7h] (a pair of Fives)
+Rus29APX: shows [4h 6h] (high card Ace)
+hairy1961 collected $27.50 from pot
+*** SUMMARY ***
+Total pot $28 | Rake $0.50
+Board [Ah 9s 8h 5d Js]
+Seat 3: hairy1961 (big blind) showed [5h 7h] and won ($27.50) with a pair of Fives
+Seat 4: Rus29APX (button) (small blind) showed [4h 6h] and lost with high card Ace
+
+
+PokerStars Hand #168693812707:  Hold'em Limit ($3/$6 USD) - 2017/04/07 5:12:32 ET
+Table 'Erna II' 6-max Seat #3 is the button
+Seat 3: hairy1961 ($27.50 in chips)
+Seat 4: Rus29APX ($141.50 in chips)
+hairy1961: posts small blind $1
+Rus29APX: posts big blind $3
+*** HOLE CARDS ***
+hairy1961: raises $3 to $6
+Rus29APX: raises $3 to $9
+hairy1961: calls $3
+*** FLOP *** [Jh 7s 6h]
+Rus29APX: bets $3
+hairy1961: calls $3
+*** TURN *** [Jh 7s 6h] [Qc]
+Rus29APX: checks
+hairy1961: checks
+*** RIVER *** [Jh 7s 6h Qc] [2h]
+Rus29APX: checks
+hairy1961: bets $6
+Rus29APX: calls $6
+*** SHOW DOWN ***
+hairy1961: shows [5h Ac] (high card Ace)
+Rus29APX: shows [Th As] (high card Ace - Queen+Jack+Ten kicker)
+Rus29APX collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Jh 7s 6h Qc 2h]
+Seat 3: hairy1961 (button) (small blind) showed [5h Ac] and lost with high card Ace
+Seat 4: Rus29APX (big blind) showed [Th As] and won ($35.50) with high card Ace
+
+

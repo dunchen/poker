@@ -1,0 +1,90 @@
+PokerStars Hand #174326287767:  Hold'em Limit ($3/$6 USD) - 2017/08/14 12:12:07 ET
+Table 'Lysithea' 10-max Seat #2 is the button
+Seat 2: blessmyplay ($120 in chips)
+Seat 3: vestimokrec ($120 in chips)
+blessmyplay: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+blessmyplay: calls $2
+vestimokrec: checks
+*** FLOP *** [3d Tc Js]
+vestimokrec: checks
+blessmyplay: checks
+*** TURN *** [3d Tc Js] [8s]
+vestimokrec: checks
+blessmyplay: bets $6
+vestimokrec: calls $6
+*** RIVER *** [3d Tc Js 8s] [5h]
+vestimokrec: checks
+blessmyplay: checks
+*** SHOW DOWN ***
+vestimokrec: shows [3c 6c] (a pair of Threes)
+blessmyplay: mucks hand
+vestimokrec collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3d Tc Js 8s 5h]
+Seat 2: blessmyplay (button) (small blind) mucked
+Seat 3: vestimokrec (big blind) showed [3c 6c] and won ($17.64) with a pair of Threes
+
+
+PokerStars Hand #174326314483:  Hold'em Limit ($3/$6 USD) - 2017/08/14 12:12:52 ET
+Table 'Lysithea' 10-max Seat #3 is the button
+Seat 2: blessmyplay ($111 in chips)
+Seat 3: vestimokrec ($128.64 in chips)
+vestimokrec: posts small blind $1
+blessmyplay: posts big blind $3
+*** HOLE CARDS ***
+Luanto 14 joins the table at seat #4
+vestimokrec: raises $3 to $6
+blessmyplay: calls $3
+*** FLOP *** [8h Js 2s]
+blessmyplay: checks
+vestimokrec: bets $3
+blessmyplay: calls $3
+*** TURN *** [8h Js 2s] [5c]
+blessmyplay: checks
+vestimokrec: bets $6
+blessmyplay: folds
+Uncalled bet ($6) returned to vestimokrec
+vestimokrec collected $17.64 from pot
+vestimokrec: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8h Js 2s 5c]
+Seat 2: blessmyplay (big blind) folded on the Turn
+Seat 3: vestimokrec (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #174326330012:  Hold'em Limit ($3/$6 USD) - 2017/08/14 12:13:18 ET
+Table 'Lysithea' 10-max Seat #2 is the button
+Seat 2: blessmyplay ($102 in chips)
+Seat 3: vestimokrec ($137.28 in chips)
+blessmyplay: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+blessmyplay: raises $3 to $6
+vestimokrec: calls $3
+*** FLOP *** [7s 5d 4c]
+vestimokrec: checks
+blessmyplay: bets $3
+vestimokrec: raises $3 to $6
+blessmyplay: calls $3
+*** TURN *** [7s 5d 4c] [5c]
+vestimokrec: bets $6
+blessmyplay: raises $6 to $12
+vestimokrec: calls $6
+*** RIVER *** [7s 5d 4c 5c] [Th]
+vestimokrec: checks
+blessmyplay: checks
+*** SHOW DOWN ***
+vestimokrec: shows [7d 6c] (two pair, Sevens and Fives)
+blessmyplay: shows [7c Jc] (two pair, Sevens and Fives - Jack kicker)
+blessmyplay collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7s 5d 4c 5c Th]
+Seat 2: blessmyplay (button) (small blind) showed [7c Jc] and won ($47.50) with two pair, Sevens and Fives
+Seat 3: vestimokrec (big blind) showed [7d 6c] and lost with two pair, Sevens and Fives
+
+

@@ -1,0 +1,87 @@
+PokerStars Hand #147006578678:  Hold'em Limit ($3/$6 USD) - 2016/01/13 23:59:28 ET
+Table 'Ostanina' 6-max Seat #1 is the button
+Seat 1: LolDnkaments ($72 in chips)
+Seat 2: _fayzulllo_ ($62.94 in chips)
+LolDnkaments: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+LolDnkaments: raises $3 to $6
+_fayzulllo_: raises $3 to $9
+LolDnkaments: calls $3
+*** FLOP *** [As Qd Qh]
+_fayzulllo_: bets $3
+LolDnkaments: folds
+Uncalled bet ($3) returned to _fayzulllo_
+_fayzulllo_ collected $17.64 from pot
+_fayzulllo_: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [As Qd Qh]
+Seat 1: LolDnkaments (button) (small blind) folded on the Flop
+Seat 2: _fayzulllo_ (big blind) collected ($17.64)
+
+
+PokerStars Hand #147006586829:  Hold'em Limit ($3/$6 USD) - 2016/01/14 0:00:00 ET
+Table 'Ostanina' 6-max Seat #1 is the button
+Seat 1: LolDnkaments ($72 in chips)
+Seat 2: _fayzulllo_ ($74.46 in chips)
+LolDnkaments: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+LolDnkaments: raises $3 to $6
+_fayzulllo_: calls $3
+*** FLOP *** [Kd 4d 6d]
+_fayzulllo_: checks
+LolDnkaments: bets $3
+_fayzulllo_: calls $3
+*** TURN *** [Kd 4d 6d] [5h]
+_fayzulllo_: checks
+LolDnkaments: bets $6
+_fayzulllo_: calls $6
+*** RIVER *** [Kd 4d 6d 5h] [6h]
+Chessnok joins the table at seat #4
+_fayzulllo_: checks
+LolDnkaments: bets $6
+_fayzulllo_: raises $6 to $12
+LolDnkaments: calls $6
+*** SHOW DOWN ***
+_fayzulllo_: shows [5s 6c] (a full house, Sixes full of Fives)
+LolDnkaments: mucks hand
+_fayzulllo_ collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Kd 4d 6d 5h 6h]
+Seat 1: LolDnkaments (button) (small blind) mucked
+Seat 2: _fayzulllo_ (big blind) showed [5s 6c] and won ($53.50) with a full house, Sixes full of Fives
+
+
+PokerStars Hand #147006582305:  Hold'em Limit ($3/$6 USD) - 2016/01/13 23:59:42 ET
+Table 'Ostanina' 6-max Seat #2 is the button
+Seat 1: LolDnkaments ($72 in chips)
+Seat 2: _fayzulllo_ ($71.58 in chips)
+_fayzulllo_: posts small blind $1
+LolDnkaments: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: calls $2
+LolDnkaments: checks
+*** FLOP *** [Jc 7c Kc]
+bryan00nl joins the table at seat #3
+LolDnkaments: checks
+_fayzulllo_: checks
+*** TURN *** [Jc 7c Kc] [Tc]
+LolDnkaments: checks
+_fayzulllo_: checks
+*** RIVER *** [Jc 7c Kc Tc] [3d]
+LolDnkaments: checks
+_fayzulllo_: checks
+*** SHOW DOWN ***
+LolDnkaments: shows [Qd 6d] (high card King)
+_fayzulllo_: shows [8d Ah] (high card Ace)
+_fayzulllo_ collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Jc 7c Kc Tc 3d]
+Seat 1: LolDnkaments (big blind) showed [Qd 6d] and lost with high card King
+Seat 2: _fayzulllo_ (button) (small blind) showed [8d Ah] and won ($5.88) with high card Ace
+
+

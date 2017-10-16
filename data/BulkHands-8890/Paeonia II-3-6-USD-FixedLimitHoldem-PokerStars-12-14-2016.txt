@@ -1,0 +1,700 @@
+PokerStars Hand #162951900739:  Hold'em Limit ($3/$6 USD) - 2016/12/14 17:00:46 ET
+Table 'Paeonia II' 6-max Seat #4 is the button
+Seat 3: cegaomega ($34.09 in chips)
+Seat 4: MTails ($131.50 in chips)
+MTails: posts small blind $1
+cegaomega: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+cegaomega: raises $3 to $9
+MTails: calls $3
+*** FLOP *** [6s Qs 7h]
+cegaomega: bets $3
+MTails: calls $3
+*** TURN *** [6s Qs 7h] [6d]
+cegaomega: bets $6
+MTails: folds
+Uncalled bet ($6) returned to cegaomega
+cegaomega collected $23.52 from pot
+cegaomega: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [6s Qs 7h 6d]
+Seat 3: cegaomega (big blind) collected ($23.52)
+Seat 4: MTails (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #162951886551:  Hold'em Limit ($3/$6 USD) - 2016/12/14 17:00:28 ET
+Table 'Paeonia II' 6-max Seat #3 is the button
+Seat 3: cegaomega ($58.09 in chips)
+Seat 4: MTails ($108 in chips)
+cegaomega: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+cegaomega: raises $3 to $6
+MTails: raises $3 to $9
+cegaomega: calls $3
+*** FLOP *** [9c Qd 8h]
+MTails: bets $3
+cegaomega: calls $3
+*** TURN *** [9c Qd 8h] [2c]
+MTails: checks
+cegaomega: checks
+*** RIVER *** [9c Qd 8h 2c] [6h]
+MTails: checks
+cegaomega: bets $6
+MTails: raises $6 to $12
+cegaomega: calls $6
+*** SHOW DOWN ***
+MTails: shows [Tc Qc] (a pair of Queens)
+cegaomega: mucks hand
+MTails collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9c Qd 8h 2c 6h]
+Seat 3: cegaomega (button) (small blind) mucked
+Seat 4: MTails (big blind) showed [Tc Qc] and won ($47.50) with a pair of Queens
+
+
+PokerStars Hand #162951952274:  Hold'em Limit ($3/$6 USD) - 2016/12/14 17:01:46 ET
+Table 'Paeonia II' 6-max Seat #4 is the button
+Seat 3: cegaomega ($18.11 in chips)
+Seat 4: MTails ($145.50 in chips)
+MTails: posts small blind $1
+cegaomega: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+cegaomega: raises $3 to $9
+MTails: raises $3 to $12
+Betting is capped
+cegaomega: calls $3
+*** FLOP *** [9d Td Qs]
+cegaomega: bets $3
+MTails: raises $3 to $6
+kusznak joins the table at seat #2
+cegaomega: raises $0.11 to $6.11 and is all-in
+MTails: calls $0.11
+*** TURN *** [9d Td Qs] [3h]
+*** RIVER *** [9d Td Qs 3h] [9c]
+*** SHOW DOWN ***
+cegaomega: shows [8d Jh] (a straight, Eight to Queen)
+MTails: shows [7d Jd] (a pair of Nines)
+cegaomega collected $35.72 from pot
+*** SUMMARY ***
+Total pot $36.22 | Rake $0.50
+Board [9d Td Qs 3h 9c]
+Seat 3: cegaomega (big blind) showed [8d Jh] and won ($35.72) with a straight, Eight to Queen
+Seat 4: MTails (button) (small blind) showed [7d Jd] and lost with a pair of Nines
+
+
+PokerStars Hand #162951938925:  Hold'em Limit ($3/$6 USD) - 2016/12/14 17:01:31 ET
+Table 'Paeonia II' 6-max Seat #3 is the button
+Seat 3: cegaomega ($45.11 in chips)
+Seat 4: MTails ($119 in chips)
+cegaomega: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+cegaomega: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [9d 3s 4s]
+MTails: checks
+cegaomega: bets $3
+MTails: calls $3
+*** TURN *** [9d 3s 4s] [Ah]
+MTails: checks
+cegaomega: bets $6
+MTails: raises $6 to $12
+cegaomega: calls $6
+*** RIVER *** [9d 3s 4s Ah] [Js]
+MTails: bets $6
+cegaomega: calls $6
+*** SHOW DOWN ***
+MTails: shows [Ts 2s] (a flush, Jack high)
+cegaomega: mucks hand
+MTails collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [9d 3s 4s Ah Js]
+Seat 3: cegaomega (button) (small blind) mucked
+Seat 4: MTails (big blind) showed [Ts 2s] and won ($53.50) with a flush, Jack high
+
+
+PokerStars Hand #162951923285:  Hold'em Limit ($3/$6 USD) - 2016/12/14 17:01:13 ET
+Table 'Paeonia II' 6-max Seat #4 is the button
+Seat 3: cegaomega ($66.11 in chips)
+Seat 4: MTails ($98.50 in chips)
+MTails: posts small blind $1
+cegaomega: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+cegaomega: calls $3
+*** FLOP *** [Td 9d 3s]
+cegaomega: checks
+MTails: bets $3
+cegaomega: calls $3
+*** TURN *** [Td 9d 3s] [5h]
+cegaomega: checks
+MTails: bets $6
+cegaomega: calls $6
+*** RIVER *** [Td 9d 3s 5h] [7h]
+cegaomega: checks
+MTails: bets $6
+cegaomega: calls $6
+*** SHOW DOWN ***
+MTails: shows [9c 5d] (two pair, Nines and Fives)
+cegaomega: mucks hand
+MTails collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Td 9d 3s 5h 7h]
+Seat 3: cegaomega (big blind) mucked
+Seat 4: MTails (button) (small blind) showed [9c 5d] and won ($41.50) with two pair, Nines and Fives
+
+
+PokerStars Hand #162951910092:  Hold'em Limit ($3/$6 USD) - 2016/12/14 17:00:57 ET
+Table 'Paeonia II' 6-max Seat #3 is the button
+Seat 3: cegaomega ($45.61 in chips)
+Seat 4: MTails ($119.50 in chips)
+cegaomega: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+cegaomega: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [8h 4h 7h]
+MTails: checks
+cegaomega: bets $3
+MTails: calls $3
+*** TURN *** [8h 4h 7h] [Tc]
+MTails: checks
+cegaomega: bets $6
+MTails: calls $6
+*** RIVER *** [8h 4h 7h Tc] [4s]
+MTails: checks
+cegaomega: bets $6
+MTails: calls $6
+*** SHOW DOWN ***
+cegaomega: shows [6c 5d] (a straight, Four to Eight)
+MTails: mucks hand
+cegaomega collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [8h 4h 7h Tc 4s]
+Seat 3: cegaomega (button) (small blind) showed [6c 5d] and won ($41.50) with a straight, Four to Eight
+Seat 4: MTails (big blind) mucked
+
+
+PokerStars Hand #162951965668:  Hold'em Limit ($3/$6 USD) - 2016/12/14 17:02:01 ET
+Table 'Paeonia II' 6-max Seat #3 is the button
+Seat 3: cegaomega ($35.72 in chips)
+Seat 4: MTails ($127.39 in chips)
+cegaomega: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+cegaomega: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [Kd 8c Tc]
+MTails: checks
+cegaomega: bets $3
+MTails: calls $3
+*** TURN *** [Kd 8c Tc] [8d]
+MTails: checks
+cegaomega: bets $6
+MTails: folds
+Uncalled bet ($6) returned to cegaomega
+Chessnok joins the table at seat #5
+cegaomega collected $17.64 from pot
+cegaomega: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kd 8c Tc 8d]
+Seat 3: cegaomega (button) (small blind) collected ($17.64)
+Seat 4: MTails (big blind) folded on the Turn
+
+
+PokerStars Hand #162952517888:  Hold'em Limit ($3/$6 USD) - 2016/12/14 17:11:46 ET
+Table 'Paeonia II' 6-max Seat #5 is the button
+Seat 2: kusznak ($79.11 in chips)
+Seat 5: Chessnok ($110 in chips)
+Chessnok: posts small blind $1
+kusznak: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+kusznak: calls $3
+*** FLOP *** [Jd 6h Kd]
+kusznak: checks
+Chessnok: bets $3
+kusznak: folds
+Uncalled bet ($3) returned to Chessnok
+Chessnok collected $11.76 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jd 6h Kd]
+Seat 2: kusznak (big blind) folded on the Flop
+Seat 5: Chessnok (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #162952583264:  Hold'em Limit ($3/$6 USD) - 2016/12/14 17:12:57 ET
+Table 'Paeonia II' 6-max Seat #5 is the button
+Seat 2: kusznak ($46.11 in chips)
+Seat 5: Chessnok ($142.02 in chips)
+Chessnok: posts small blind $1
+kusznak: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: folds
+Uncalled bet ($2) returned to kusznak
+kusznak collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: kusznak (big blind) collected ($2)
+Seat 5: Chessnok (button) (small blind) folded before Flop
+
+
+PokerStars Hand #162952577604:  Hold'em Limit ($3/$6 USD) - 2016/12/14 17:12:51 ET
+Table 'Paeonia II' 6-max Seat #2 is the button
+Seat 2: kusznak ($43.11 in chips)
+Seat 5: Chessnok ($145.02 in chips)
+kusznak: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+kusznak: raises $3 to $6
+Chessnok: folds
+Uncalled bet ($3) returned to kusznak
+kusznak collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: kusznak (button) (small blind) collected ($6)
+Seat 5: Chessnok (big blind) folded before Flop
+
+
+PokerStars Hand #162952564085:  Hold'em Limit ($3/$6 USD) - 2016/12/14 17:12:36 ET
+Table 'Paeonia II' 6-max Seat #5 is the button
+Seat 2: kusznak ($49.11 in chips)
+Seat 5: Chessnok ($139.26 in chips)
+Chessnok: posts small blind $1
+kusznak: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+kusznak: calls $3
+*** FLOP *** [9s 6s 8s]
+kusznak: checks
+Chessnok: checks
+*** TURN *** [9s 6s 8s] [6c]
+kusznak: checks
+Chessnok: bets $6
+kusznak: folds
+Uncalled bet ($6) returned to Chessnok
+Chessnok collected $11.76 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9s 6s 8s 6c]
+Seat 2: kusznak (big blind) folded on the Turn
+Seat 5: Chessnok (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #162952531813:  Hold'em Limit ($3/$6 USD) - 2016/12/14 17:12:01 ET
+Table 'Paeonia II' 6-max Seat #2 is the button
+Seat 2: kusznak ($73.11 in chips)
+Seat 5: Chessnok ($115.76 in chips)
+kusznak: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+kusznak: raises $3 to $6
+Chessnok: raises $3 to $9
+kusznak: calls $3
+*** FLOP *** [Js Ks Tc]
+Chessnok: bets $3
+kusznak: calls $3
+*** TURN *** [Js Ks Tc] [Qh]
+Chessnok: bets $6
+kusznak: calls $6
+*** RIVER *** [Js Ks Tc Qh] [9c]
+Chessnok: bets $6
+kusznak: calls $6
+*** SHOW DOWN ***
+Chessnok: shows [Ah 2d] (a straight, Ten to Ace)
+kusznak: mucks hand
+Chessnok collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Js Ks Tc Qh 9c]
+Seat 2: kusznak (button) (small blind) mucked
+Seat 5: Chessnok (big blind) showed [Ah 2d] and won ($47.50) with a straight, Ten to Ace
+
+
+PokerStars Hand #162952617488:  Hold'em Limit ($3/$6 USD) - 2016/12/14 17:13:34 ET
+Table 'Paeonia II' 6-max Seat #2 is the button
+Seat 2: kusznak ($46.87 in chips)
+Seat 5: Chessnok ($140.78 in chips)
+kusznak: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+kusznak: raises $3 to $6
+Chessnok: raises $3 to $9
+kusznak: calls $3
+*** FLOP *** [2h 3d Ac]
+Chessnok: bets $3
+kusznak: calls $3
+*** TURN *** [2h 3d Ac] [5h]
+Chessnok: bets $6
+kusznak: folds
+Uncalled bet ($6) returned to Chessnok
+Chessnok collected $23.52 from pot
+Chessnok: doesn't show hand
+poker111141 joins the table at seat #1
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [2h 3d Ac 5h]
+Seat 2: kusznak (button) (small blind) folded on the Turn
+Seat 5: Chessnok (big blind) collected ($23.52)
+
+
+PokerStars Hand #162952598072:  Hold'em Limit ($3/$6 USD) - 2016/12/14 17:13:13 ET
+Table 'Paeonia II' 6-max Seat #5 is the button
+Seat 2: kusznak ($52.87 in chips)
+Seat 5: Chessnok ($135.02 in chips)
+Chessnok: posts small blind $1
+kusznak: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+kusznak: calls $3
+*** FLOP *** [4s 6c 6s]
+kusznak: checks
+otto joins the table at seat #6
+Chessnok: bets $3
+kusznak: folds
+Uncalled bet ($3) returned to Chessnok
+Chessnok collected $11.76 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4s 6c 6s]
+Seat 2: kusznak (big blind) folded on the Flop
+Seat 5: Chessnok (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #162952587316:  Hold'em Limit ($3/$6 USD) - 2016/12/14 17:13:01 ET
+Table 'Paeonia II' 6-max Seat #2 is the button
+Seat 2: kusznak ($47.11 in chips)
+Seat 5: Chessnok ($141.02 in chips)
+kusznak: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+kusznak: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [Js 4d Jd]
+Chessnok: checks
+kusznak: bets $3
+Chessnok: folds
+Uncalled bet ($3) returned to kusznak
+kusznak collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Js 4d Jd]
+Seat 2: kusznak (button) (small blind) collected ($11.76)
+Seat 5: Chessnok (big blind) folded on the Flop
+
+
+PokerStars Hand #162953638881:  Hold'em Limit ($3/$6 USD) - 2016/12/14 17:31:05 ET
+Table 'Paeonia II' 6-max Seat #2 is the button
+Seat 2: kusznak ($219.32 in chips)
+Seat 5: Chessnok ($142.82 in chips)
+otto will be allowed to play after the button
+kusznak: posts small blind $1
+vestimokrec: is sitting out
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+poker111141 leaves the table
+vestimokrec leaves the table
+kusznak: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [Ac Ks Ts]
+Chessnok: checks
+kusznak: bets $3
+Chessnok: raises $3 to $6
+kusznak: folds
+Uncalled bet ($3) returned to Chessnok
+Chessnok collected $17.64 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ac Ks Ts]
+Seat 2: kusznak (button) (small blind) folded on the Flop
+Seat 5: Chessnok (big blind) collected ($17.64)
+
+
+PokerStars Hand #162956931994:  Hold'em Limit ($3/$6 USD) - 2016/12/14 18:36:35 ET
+Table 'Paeonia II' 6-max Seat #5 is the button
+Seat 2: kusznak ($381.65 in chips)
+Seat 5: Chessnok ($313 in chips)
+Chessnok: posts small blind $1
+kusznak: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+kusznak: calls $3
+*** FLOP *** [3d Kc 3h]
+kusznak: checks
+Chessnok: bets $3
+kusznak: raises $3 to $6
+Chessnok: calls $3
+*** TURN *** [3d Kc 3h] [9d]
+kusznak: bets $6
+Chessnok: calls $6
+*** RIVER *** [3d Kc 3h 9d] [3s]
+kusznak: bets $6
+Chessnok: raises $6 to $12
+kusznak: calls $6
+*** SHOW DOWN ***
+Chessnok: shows [8s Kh] (a full house, Threes full of Kings)
+kusznak: shows [Kd 7d] (a full house, Threes full of Kings)
+kusznak collected $29.75 from pot
+Chessnok collected $29.75 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [3d Kc 3h 9d 3s]
+Seat 2: kusznak (big blind) showed [Kd 7d] and won ($29.75) with a full house, Threes full of Kings
+Seat 5: Chessnok (button) (small blind) showed [8s Kh] and won ($29.75) with a full house, Threes full of Kings
+
+
+PokerStars Hand #162956950157:  Hold'em Limit ($3/$6 USD) - 2016/12/14 18:36:59 ET
+Table 'Paeonia II' 6-max Seat #2 is the button
+Seat 2: kusznak ($381.40 in chips)
+Seat 5: Chessnok ($312.75 in chips)
+kusznak: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+kusznak: raises $3 to $6
+Chessnok: raises $3 to $9
+kusznak: calls $3
+*** FLOP *** [7c 2s Js]
+Chessnok: bets $3
+kusznak: folds
+Uncalled bet ($3) returned to Chessnok
+Chessnok collected $17.64 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7c 2s Js]
+Seat 2: kusznak (button) (small blind) folded on the Flop
+Seat 5: Chessnok (big blind) collected ($17.64)
+
+
+PokerStars Hand #162956957391:  Hold'em Limit ($3/$6 USD) - 2016/12/14 18:37:08 ET
+Table 'Paeonia II' 6-max Seat #5 is the button
+Seat 2: kusznak ($372.40 in chips)
+Seat 5: Chessnok ($321.39 in chips)
+Chessnok: posts small blind $1
+kusznak: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+kusznak: raises $3 to $9
+Chessnok: calls $3
+*** FLOP *** [6d 6h 5d]
+kusznak: bets $3
+Chessnok: calls $3
+*** TURN *** [6d 6h 5d] [6s]
+kusznak: checks
+Chessnok: bets $6
+kusznak: folds
+Uncalled bet ($6) returned to Chessnok
+Chessnok collected $23.52 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [6d 6h 5d 6s]
+Seat 2: kusznak (big blind) folded on the Turn
+Seat 5: Chessnok (button) (small blind) collected ($23.52)
+
+
+PokerStars Hand #162956970094:  Hold'em Limit ($3/$6 USD) - 2016/12/14 18:37:25 ET
+Table 'Paeonia II' 6-max Seat #2 is the button
+Seat 2: kusznak ($360.40 in chips)
+Seat 5: Chessnok ($332.91 in chips)
+kusznak: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+kusznak: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [Td 3h 6c]
+Chessnok: checks
+kusznak: checks
+*** TURN *** [Td 3h 6c] [3d]
+Chessnok: checks
+kusznak: bets $6
+Chessnok: folds
+Uncalled bet ($6) returned to kusznak
+kusznak collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Td 3h 6c 3d]
+Seat 2: kusznak (button) (small blind) collected ($11.76)
+Seat 5: Chessnok (big blind) folded on the Turn
+
+
+PokerStars Hand #162956989240:  Hold'em Limit ($3/$6 USD) - 2016/12/14 18:37:50 ET
+Table 'Paeonia II' 6-max Seat #5 is the button
+Seat 2: kusznak ($366.16 in chips)
+Seat 5: Chessnok ($326.91 in chips)
+Chessnok: posts small blind $1
+kusznak: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+kusznak: calls $3
+*** FLOP *** [Jc 4s Kc]
+kusznak: checks
+Chessnok: bets $3
+kusznak: raises $3 to $6
+Chessnok: calls $3
+*** TURN *** [Jc 4s Kc] [6s]
+kusznak: bets $6
+Chessnok: raises $6 to $12
+kusznak: calls $6
+*** RIVER *** [Jc 4s Kc 6s] [7c]
+kusznak: checks
+Chessnok: bets $6
+kusznak: calls $6
+*** SHOW DOWN ***
+Chessnok: shows [4d Js] (two pair, Jacks and Fours)
+kusznak: mucks hand
+Chessnok collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Jc 4s Kc 6s 7c]
+Seat 2: kusznak (big blind) mucked
+Seat 5: Chessnok (button) (small blind) showed [4d Js] and won ($59.50) with two pair, Jacks and Fours
+
+
+PokerStars Hand #162957023040:  Hold'em Limit ($3/$6 USD) - 2016/12/14 18:38:34 ET
+Table 'Paeonia II' 6-max Seat #5 is the button
+Seat 2: kusznak ($312.16 in chips)
+Seat 5: Chessnok ($379.91 in chips)
+Chessnok: posts small blind $1
+kusznak: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+kusznak: calls $3
+*** FLOP *** [4h 9h 4s]
+kusznak: checks
+Chessnok: bets $3
+kusznak: folds
+Uncalled bet ($3) returned to Chessnok
+Chessnok collected $11.76 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4h 9h 4s]
+Seat 2: kusznak (big blind) folded on the Flop
+Seat 5: Chessnok (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #162957009988:  Hold'em Limit ($3/$6 USD) - 2016/12/14 18:38:17 ET
+Table 'Paeonia II' 6-max Seat #2 is the button
+Seat 2: kusznak ($336.16 in chips)
+Seat 5: Chessnok ($356.41 in chips)
+kusznak: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+kusznak: raises $3 to $6
+Chessnok: raises $3 to $9
+kusznak: calls $3
+*** FLOP *** [Ac 9s 5d]
+Chessnok: bets $3
+kusznak: calls $3
+*** TURN *** [Ac 9s 5d] [6h]
+Chessnok: bets $6
+kusznak: raises $6 to $12
+Chessnok: calls $6
+*** RIVER *** [Ac 9s 5d 6h] [7h]
+Chessnok: checks
+kusznak: checks
+*** SHOW DOWN ***
+Chessnok: shows [7s 6s] (two pair, Sevens and Sixes)
+kusznak: mucks hand
+Chessnok collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Ac 9s 5d 6h 7h]
+Seat 2: kusznak (button) (small blind) mucked
+Seat 5: Chessnok (big blind) showed [7s 6s] and won ($47.50) with two pair, Sevens and Sixes
+
+
+PokerStars Hand #162957029165:  Hold'em Limit ($3/$6 USD) - 2016/12/14 18:38:43 ET
+Table 'Paeonia II' 6-max Seat #2 is the button
+Seat 2: kusznak ($306.16 in chips)
+Seat 5: Chessnok ($385.67 in chips)
+kusznak: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+kusznak: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [Td 3d 8d]
+Chessnok: checks
+kusznak: bets $3
+Chessnok: raises $3 to $6
+kusznak: calls $3
+*** TURN *** [Td 3d 8d] [5s]
+Chessnok: bets $6
+kusznak: calls $6
+*** RIVER *** [Td 3d 8d 5s] [Qc]
+Chessnok: bets $6
+kusznak: calls $6
+*** SHOW DOWN ***
+Chessnok: shows [Ts Jd] (a pair of Tens)
+kusznak: mucks hand
+Chessnok collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Td 3d 8d 5s Qc]
+Seat 2: kusznak (button) (small blind) mucked
+Seat 5: Chessnok (big blind) showed [Ts Jd] and won ($47.50) with a pair of Tens
+
+
+PokerStars Hand #162957042795:  Hold'em Limit ($3/$6 USD) - 2016/12/14 18:39:01 ET
+Table 'Paeonia II' 6-max Seat #5 is the button
+Seat 2: kusznak ($282.16 in chips)
+Seat 5: Chessnok ($409.17 in chips)
+Chessnok: posts small blind $1
+kusznak: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+kusznak: calls $3
+*** FLOP *** [5s 7d 8c]
+kusznak: checks
+Chessnok: bets $3
+kusznak: raises $3 to $6
+Chessnok: calls $3
+*** TURN *** [5s 7d 8c] [Js]
+kusznak: bets $6
+Chessnok: calls $6
+*** RIVER *** [5s 7d 8c Js] [2h]
+kusznak: bets $6
+Chessnok: calls $6
+*** SHOW DOWN ***
+kusznak: shows [4h 8s] (a pair of Eights)
+Chessnok: mucks hand
+kusznak collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [5s 7d 8c Js 2h]
+Seat 2: kusznak (big blind) showed [4h 8s] and won ($47.50) with a pair of Eights
+Seat 5: Chessnok (button) (small blind) mucked
+
+
+PokerStars Hand #162957056919:  Hold'em Limit ($3/$6 USD) - 2016/12/14 18:39:19 ET
+Table 'Paeonia II' 6-max Seat #2 is the button
+Seat 2: kusznak ($305.66 in chips)
+Seat 5: Chessnok ($385.17 in chips)
+kusznak: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+kusznak: folds
+Uncalled bet ($2) returned to Chessnok
+Chessnok collected $2 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: kusznak (button) (small blind) folded before Flop
+Seat 5: Chessnok (big blind) collected ($2)
+
+

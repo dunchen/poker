@@ -1,0 +1,33 @@
+PokerStars Hand #176862992907:  Hold'em Limit ($3/$6 USD) - 2017/10/13 12:12:00 ET
+Table 'Michela II' 6-max Seat #1 is the button
+Seat 1: Zubasa07 ($287 in chips)
+Seat 5: martavv ($89.85 in chips)
+Zubasa07: posts small blind $1
+vestimokrec: is sitting out
+martavv: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec leaves the table
+Zubasa07: raises $3 to $6
+martavv: calls $3
+*** FLOP *** [Tc 7h 9h]
+vestimokrec joins the table at seat #6
+martavv: checks
+Zubasa07: checks
+*** TURN *** [Tc 7h 9h] [2s]
+martavv: checks
+Zubasa07: bets $6
+martavv: calls $6
+*** RIVER *** [Tc 7h 9h 2s] [8h]
+martavv: checks
+Zubasa07: checks
+*** SHOW DOWN ***
+martavv: shows [Ks Jd] (a straight, Seven to Jack)
+Zubasa07: mucks hand
+martavv collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Tc 7h 9h 2s 8h]
+Seat 1: Zubasa07 (button) (small blind) mucked
+Seat 5: martavv (big blind) showed [Ks Jd] and won ($23.52) with a straight, Seven to Jack
+
+

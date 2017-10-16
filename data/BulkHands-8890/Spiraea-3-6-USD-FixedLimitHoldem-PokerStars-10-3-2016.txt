@@ -1,0 +1,934 @@
+PokerStars Hand #159402394109:  Hold'em Limit ($3/$6 USD) - 2016/10/02 21:13:07 ET
+Table 'Spiraea' 10-max Seat #4 is the button
+Seat 4: nordego ($64 in chips)
+Seat 5: smiloak ($33.66 in chips)
+nordego: posts small blind $1
+smiloak: posts big blind $3
+*** HOLE CARDS ***
+nordego: raises $3 to $6
+smiloak: raises $3 to $9
+nordego: calls $3
+*** FLOP *** [2d 2c 3s]
+smiloak: bets $3
+nordego: calls $3
+*** TURN *** [2d 2c 3s] [Th]
+smiloak: bets $6
+nordego: raises $6 to $12
+smiloak: raises $6 to $18
+nordego: calls $6
+*** RIVER *** [2d 2c 3s Th] [7h]
+smiloak: bets $3.66 and is all-in
+nordego: folds
+Uncalled bet ($3.66) returned to smiloak
+smiloak collected $59.50 from pot
+smiloak: doesn't show hand
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [2d 2c 3s Th 7h]
+Seat 4: nordego (button) (small blind) folded on the River
+Seat 5: smiloak (big blind) collected ($59.50)
+
+
+PokerStars Hand #159402399290:  Hold'em Limit ($3/$6 USD) - 2016/10/02 21:13:20 ET
+Table 'Spiraea' 10-max Seat #5 is the button
+Seat 4: nordego ($34 in chips)
+Seat 5: smiloak ($63.16 in chips)
+smiloak: posts small blind $1
+nordego: posts big blind $3
+*** HOLE CARDS ***
+smiloak: raises $3 to $6
+nordego: raises $3 to $9
+smiloak: calls $3
+*** FLOP *** [8s 6h 3d]
+nordego: bets $3
+smiloak: calls $3
+*** TURN *** [8s 6h 3d] [5d]
+nordego: bets $6
+smiloak: calls $6
+*** RIVER *** [8s 6h 3d 5d] [8h]
+nordego: checks
+smiloak: bets $6
+ToDaFelt joins the table at seat #6
+nordego: folds
+Uncalled bet ($6) returned to smiloak
+smiloak collected $35.50 from pot
+smiloak: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [8s 6h 3d 5d 8h]
+Seat 4: nordego (big blind) folded on the River
+Seat 5: smiloak (button) (small blind) collected ($35.50)
+
+
+PokerStars Hand #159402404125:  Hold'em Limit ($3/$6 USD) - 2016/10/02 21:13:33 ET
+Table 'Spiraea' 10-max Seat #4 is the button
+Seat 4: nordego ($16 in chips)
+Seat 5: smiloak ($80.66 in chips)
+nordego: posts small blind $1
+smiloak: posts big blind $3
+*** HOLE CARDS ***
+nordego: raises $3 to $6
+smiloak: raises $3 to $9
+nordego: calls $3
+*** FLOP *** [Kc 8d Qs]
+smiloak: bets $3
+nordego: calls $3
+*** TURN *** [Kc 8d Qs] [3s]
+smiloak: bets $6
+nordego: calls $4 and is all-in
+Uncalled bet ($2) returned to smiloak
+*** RIVER *** [Kc 8d Qs 3s] [Kd]
+*** SHOW DOWN ***
+smiloak: shows [As Ac] (two pair, Aces and Kings)
+nordego: shows [Js 3d] (two pair, Kings and Threes)
+smiloak collected $31.50 from pot
+*** SUMMARY ***
+Total pot $32 | Rake $0.50
+Board [Kc 8d Qs 3s Kd]
+Seat 4: nordego (button) (small blind) showed [Js 3d] and lost with two pair, Kings and Threes
+Seat 5: smiloak (big blind) showed [As Ac] and won ($31.50) with two pair, Aces and Kings
+
+
+PokerStars Hand #159402409539:  Hold'em Limit ($3/$6 USD) - 2016/10/02 21:13:47 ET
+Table 'Spiraea' 10-max Seat #5 is the button
+Seat 5: smiloak ($96.16 in chips)
+Seat 6: ToDaFelt ($120 in chips)
+smiloak: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+smiloak: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [3h 2d 4s]
+nordego leaves the table
+ToDaFelt: checks
+smiloak: bets $3
+ToDaFelt: calls $3
+*** TURN *** [3h 2d 4s] [4c]
+ToDaFelt: checks
+smiloak: bets $6
+ToDaFelt: folds
+Uncalled bet ($6) returned to smiloak
+smiloak collected $17.64 from pot
+smiloak: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3h 2d 4s 4c]
+Seat 5: smiloak (button) (small blind) collected ($17.64)
+Seat 6: ToDaFelt (big blind) folded on the Turn
+
+
+PokerStars Hand #159402431877:  Hold'em Limit ($3/$6 USD) - 2016/10/02 21:14:45 ET
+Table 'Spiraea' 10-max Seat #5 is the button
+Seat 5: smiloak ($119.30 in chips)
+Seat 6: ToDaFelt ($96 in chips)
+smiloak: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+smiloak: folds
+Uncalled bet ($2) returned to ToDaFelt
+ToDaFelt collected $2 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: smiloak (button) (small blind) folded before Flop
+Seat 6: ToDaFelt (big blind) collected ($2)
+
+
+PokerStars Hand #159402423157:  Hold'em Limit ($3/$6 USD) - 2016/10/02 21:14:22 ET
+Table 'Spiraea' 10-max Seat #6 is the button
+Seat 5: smiloak ($104.80 in chips)
+Seat 6: ToDaFelt ($111 in chips)
+ToDaFelt: posts small blind $1
+smiloak: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+smiloak: calls $3
+*** FLOP *** [3h 9s 4d]
+smiloak: checks
+ToDaFelt: bets $3
+smiloak: calls $3
+*** TURN *** [3h 9s 4d] [Ac]
+smiloak: checks
+ToDaFelt: bets $6
+smiloak: raises $6 to $12
+ToDaFelt: folds
+Uncalled bet ($6) returned to smiloak
+smiloak collected $29.50 from pot
+smiloak: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3h 9s 4d Ac]
+Seat 5: smiloak (big blind) collected ($29.50)
+Seat 6: ToDaFelt (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #159402433703:  Hold'em Limit ($3/$6 USD) - 2016/10/02 21:14:50 ET
+Table 'Spiraea' 10-max Seat #6 is the button
+Seat 5: smiloak ($118.30 in chips)
+Seat 6: ToDaFelt ($97 in chips)
+ToDaFelt: posts small blind $1
+smiloak: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+smiloak: raises $3 to $9
+ToDaFelt: calls $3
+*** FLOP *** [Kc As 8h]
+smiloak: bets $3
+ToDaFelt: folds
+Uncalled bet ($3) returned to smiloak
+smiloak collected $17.64 from pot
+smiloak: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kc As 8h]
+Seat 5: smiloak (big blind) collected ($17.64)
+Seat 6: ToDaFelt (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #159402441651:  Hold'em Limit ($3/$6 USD) - 2016/10/02 21:15:11 ET
+Table 'Spiraea' 10-max Seat #5 is the button
+Seat 5: smiloak ($126.94 in chips)
+Seat 6: ToDaFelt ($88 in chips)
+smiloak: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+smiloak: folds
+Uncalled bet ($2) returned to ToDaFelt
+ToDaFelt collected $2 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: smiloak (button) (small blind) folded before Flop
+Seat 6: ToDaFelt (big blind) collected ($2)
+
+
+PokerStars Hand #159402443754:  Hold'em Limit ($3/$6 USD) - 2016/10/02 21:15:16 ET
+Table 'Spiraea' 10-max Seat #6 is the button
+Seat 5: smiloak ($125.94 in chips)
+Seat 6: ToDaFelt ($89 in chips)
+ToDaFelt: posts small blind $1
+smiloak: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+smiloak: raises $3 to $9
+ToDaFelt: calls $3
+*** FLOP *** [7d 4c Qd]
+smiloak: bets $3
+ToDaFelt: folds
+Uncalled bet ($3) returned to smiloak
+smiloak collected $17.64 from pot
+smiloak: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7d 4c Qd]
+Seat 5: smiloak (big blind) collected ($17.64)
+Seat 6: ToDaFelt (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #159412035600:  Hold'em Limit ($3/$6 USD) - 2016/10/03 6:33:59 ET
+Table 'Spiraea' 10-max Seat #6 is the button
+Seat 5: @92gara42@ ($109.67 in chips)
+Seat 6: Agrotait ($72 in chips)
+Agrotait: posts small blind $1
+@92gara42@: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+@92gara42@: calls $3
+*** FLOP *** [5h 5c 4d]
+@92gara42@: checks
+Agrotait: checks
+*** TURN *** [5h 5c 4d] [6c]
+@92gara42@: checks
+Agrotait: bets $6
+@92gara42@: calls $6
+*** RIVER *** [5h 5c 4d 6c] [8s]
+@92gara42@: bets $6
+Agrotait: raises $6 to $12
+@92gara42@: calls $6
+*** SHOW DOWN ***
+Agrotait: shows [Jd 7h] (a straight, Four to Eight)
+@92gara42@: shows [7s Tc] (a straight, Four to Eight)
+@92gara42@ collected $23.75 from pot
+Agrotait collected $23.75 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [5h 5c 4d 6c 8s]
+Seat 5: @92gara42@ (big blind) showed [7s Tc] and won ($23.75) with a straight, Four to Eight
+Seat 6: Agrotait (button) (small blind) showed [Jd 7h] and won ($23.75) with a straight, Four to Eight
+
+
+PokerStars Hand #159412050141:  Hold'em Limit ($3/$6 USD) - 2016/10/03 6:34:36 ET
+Table 'Spiraea' 10-max Seat #6 is the button
+Seat 5: @92gara42@ ($108.42 in chips)
+Seat 6: Agrotait ($72.75 in chips)
+Agrotait: posts small blind $1
+@92gara42@: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+@92gara42@: raises $3 to $9
+Agrotait: calls $3
+*** FLOP *** [7d Ts 2d]
+@92gara42@: bets $3
+Agrotait: calls $3
+*** TURN *** [7d Ts 2d] [6h]
+@92gara42@: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to @92gara42@
+@92gara42@ collected $23.52 from pot
+@92gara42@: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [7d Ts 2d 6h]
+Seat 5: @92gara42@ (big blind) collected ($23.52)
+Seat 6: Agrotait (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #159412047920:  Hold'em Limit ($3/$6 USD) - 2016/10/03 6:34:30 ET
+Table 'Spiraea' 10-max Seat #5 is the button
+Seat 5: @92gara42@ ($109.42 in chips)
+Seat 6: Agrotait ($71.75 in chips)
+@92gara42@: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+@92gara42@: folds
+Uncalled bet ($2) returned to Agrotait
+Agrotait collected $2 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: @92gara42@ (button) (small blind) folded before Flop
+Seat 6: Agrotait (big blind) collected ($2)
+
+
+PokerStars Hand #159412069325:  Hold'em Limit ($3/$6 USD) - 2016/10/03 6:35:23 ET
+Table 'Spiraea' 10-max Seat #6 is the button
+Seat 5: @92gara42@ ($113.94 in chips)
+Seat 6: Agrotait ($66.51 in chips)
+Agrotait: posts small blind $1
+@92gara42@: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+@92gara42@: calls $3
+*** FLOP *** [5s Qs 5d]
+@92gara42@: bets $3
+Agrotait: calls $3
+*** TURN *** [5s Qs 5d] [6d]
+@92gara42@: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to @92gara42@
+@92gara42@ collected $17.64 from pot
+@92gara42@: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5s Qs 5d 6d]
+Seat 5: @92gara42@ (big blind) collected ($17.64)
+Seat 6: Agrotait (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #159412062086:  Hold'em Limit ($3/$6 USD) - 2016/10/03 6:35:05 ET
+Table 'Spiraea' 10-max Seat #5 is the button
+Seat 5: @92gara42@ ($119.94 in chips)
+Seat 6: Agrotait ($60.75 in chips)
+@92gara42@: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+@92gara42@: calls $2
+Agrotait: raises $3 to $6
+@92gara42@: calls $3
+*** FLOP *** [7h 9h Td]
+Agrotait: bets $3
+@92gara42@: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $11.76 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7h 9h Td]
+Seat 5: @92gara42@ (button) (small blind) folded on the Flop
+Seat 6: Agrotait (big blind) collected ($11.76)
+
+
+PokerStars Hand #159412101871:  Hold'em Limit ($3/$6 USD) - 2016/10/03 6:36:42 ET
+Table 'Spiraea' 10-max Seat #6 is the button
+Seat 5: @92gara42@ ($107.58 in chips)
+Seat 6: Agrotait ($86.50 in chips)
+Agrotait: posts small blind $1
+@92gara42@: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+@92gara42@: calls $3
+*** FLOP *** [7c Ts Qc]
+@92gara42@: checks
+Agrotait: bets $3
+@92gara42@: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $11.76 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7c Ts Qc]
+Seat 5: @92gara42@ (big blind) folded on the Flop
+Seat 6: Agrotait (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #159412078331:  Hold'em Limit ($3/$6 USD) - 2016/10/03 6:35:45 ET
+Table 'Spiraea' 10-max Seat #5 is the button
+Seat 5: @92gara42@ ($122.58 in chips)
+Seat 6: Agrotait ($72 in chips)
+@92gara42@: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+@92gara42@: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [4c 5h Ah]
+Agrotait: checks
+@92gara42@: bets $3
+Agrotait: calls $3
+*** TURN *** [4c 5h Ah] [5c]
+Agrotait: checks
+@92gara42@: bets $6
+Agrotait: raises $6 to $12
+@92gara42@: folds
+Uncalled bet ($6) returned to Agrotait
+Agrotait collected $29.50 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4c 5h Ah 5c]
+Seat 5: @92gara42@ (button) (small blind) folded on the Turn
+Seat 6: Agrotait (big blind) collected ($29.50)
+
+
+PokerStars Hand #159412114767:  Hold'em Limit ($3/$6 USD) - 2016/10/03 6:37:14 ET
+Table 'Spiraea' 10-max Seat #5 is the button
+Seat 5: @92gara42@ ($101.58 in chips)
+Seat 6: Agrotait ($92.26 in chips)
+@92gara42@: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+@92gara42@: calls $2
+Agrotait: checks
+*** FLOP *** [8c 4s Kd]
+Agrotait: bets $3
+@92gara42@: calls $3
+*** TURN *** [8c 4s Kd] [Ad]
+Agrotait: checks
+@92gara42@: checks
+*** RIVER *** [8c 4s Kd Ad] [Tc]
+Agrotait: checks
+@92gara42@: checks
+*** SHOW DOWN ***
+Agrotait: shows [8d Jc] (a pair of Eights)
+@92gara42@: mucks hand
+Agrotait collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8c 4s Kd Ad Tc]
+Seat 5: @92gara42@ (button) (small blind) mucked
+Seat 6: Agrotait (big blind) showed [8d Jc] and won ($11.76) with a pair of Eights
+
+
+PokerStars Hand #159412129694:  Hold'em Limit ($3/$6 USD) - 2016/10/03 6:37:50 ET
+Table 'Spiraea' 10-max Seat #6 is the button
+Seat 5: @92gara42@ ($95.58 in chips)
+Seat 6: Agrotait ($98.02 in chips)
+Agrotait: posts small blind $1
+@92gara42@: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+@92gara42@: calls $3
+*** FLOP *** [Jh Kc Qd]
+@92gara42@: checks
+Agrotait: bets $3
+@92gara42@: calls $3
+*** TURN *** [Jh Kc Qd] [4d]
+@92gara42@: checks
+Agrotait: bets $6
+@92gara42@: calls $6
+*** RIVER *** [Jh Kc Qd 4d] [Qh]
+@92gara42@: checks
+Agrotait: bets $6
+@92gara42@: calls $6
+*** SHOW DOWN ***
+Agrotait: shows [Kd 9h] (two pair, Kings and Queens)
+@92gara42@: mucks hand
+Agrotait collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Jh Kc Qd 4d Qh]
+Seat 5: @92gara42@ (big blind) mucked
+Seat 6: Agrotait (button) (small blind) showed [Kd 9h] and won ($41.50) with two pair, Kings and Queens
+
+
+PokerStars Hand #159412143654:  Hold'em Limit ($3/$6 USD) - 2016/10/03 6:38:24 ET
+Table 'Spiraea' 10-max Seat #5 is the button
+Seat 5: @92gara42@ ($74.58 in chips)
+Seat 6: Agrotait ($118.52 in chips)
+@92gara42@: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+@92gara42@: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [9h 3c 3h]
+Agrotait: checks
+@92gara42@: bets $3
+Agrotait: calls $3
+*** TURN *** [9h 3c 3h] [Ah]
+Agrotait: checks
+@92gara42@: bets $6
+Agrotait: calls $6
+*** RIVER *** [9h 3c 3h Ah] [6h]
+Agrotait: checks
+@92gara42@: checks
+*** SHOW DOWN ***
+Agrotait: shows [Ac 7c] (two pair, Aces and Threes)
+@92gara42@: shows [As 2s] (two pair, Aces and Threes)
+Agrotait collected $14.75 from pot
+@92gara42@ collected $14.75 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9h 3c 3h Ah 6h]
+Seat 5: @92gara42@ (button) (small blind) showed [As 2s] and won ($14.75) with two pair, Aces and Threes
+Seat 6: Agrotait (big blind) showed [Ac 7c] and won ($14.75) with two pair, Aces and Threes
+
+
+PokerStars Hand #159412159858:  Hold'em Limit ($3/$6 USD) - 2016/10/03 6:39:03 ET
+Table 'Spiraea' 10-max Seat #6 is the button
+Seat 5: @92gara42@ ($74.33 in chips)
+Seat 6: Agrotait ($118.27 in chips)
+Agrotait: posts small blind $1
+@92gara42@: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+@92gara42@: calls $3
+*** FLOP *** [3c 7s 5s]
+@92gara42@: checks
+Agrotait: bets $3
+@92gara42@: calls $3
+*** TURN *** [3c 7s 5s] [4s]
+@92gara42@: checks
+Agrotait: bets $6
+@92gara42@: folds
+Uncalled bet ($6) returned to Agrotait
+Agrotait collected $17.64 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3c 7s 5s 4s]
+Seat 5: @92gara42@ (big blind) folded on the Turn
+Seat 6: Agrotait (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #159412170828:  Hold'em Limit ($3/$6 USD) - 2016/10/03 6:39:30 ET
+Table 'Spiraea' 10-max Seat #5 is the button
+Seat 5: @92gara42@ ($65.33 in chips)
+Seat 6: Agrotait ($126.91 in chips)
+@92gara42@: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+@92gara42@: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [7c 2c 9s]
+Agrotait: checks
+@92gara42@: bets $3
+Agrotait: calls $3
+*** TURN *** [7c 2c 9s] [4h]
+Agrotait: checks
+@92gara42@: bets $6
+Agrotait: calls $6
+*** RIVER *** [7c 2c 9s 4h] [4s]
+Agrotait: checks
+@92gara42@: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to @92gara42@
+@92gara42@ collected $29.50 from pot
+@92gara42@: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7c 2c 9s 4h 4s]
+Seat 5: @92gara42@ (button) (small blind) collected ($29.50)
+Seat 6: Agrotait (big blind) folded on the River
+
+
+PokerStars Hand #159412182004:  Hold'em Limit ($3/$6 USD) - 2016/10/03 6:39:57 ET
+Table 'Spiraea' 10-max Seat #6 is the button
+Seat 5: @92gara42@ ($79.83 in chips)
+Seat 6: Agrotait ($111.91 in chips)
+Agrotait: posts small blind $1
+@92gara42@: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+@92gara42@: calls $3
+*** FLOP *** [4c Ad Jd]
+@92gara42@: checks
+Agrotait: bets $3
+@92gara42@: calls $3
+*** TURN *** [4c Ad Jd] [6d]
+@92gara42@: checks
+Agrotait: bets $6
+@92gara42@: calls $6
+*** RIVER *** [4c Ad Jd 6d] [Qh]
+@92gara42@: checks
+Agrotait: bets $6
+@92gara42@: folds
+Uncalled bet ($6) returned to Agrotait
+Agrotait collected $29.50 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4c Ad Jd 6d Qh]
+Seat 5: @92gara42@ (big blind) folded on the River
+Seat 6: Agrotait (button) (small blind) collected ($29.50)
+
+
+PokerStars Hand #159412201580:  Hold'em Limit ($3/$6 USD) - 2016/10/03 6:40:44 ET
+Table 'Spiraea' 10-max Seat #6 is the button
+Seat 5: @92gara42@ ($46.83 in chips)
+Seat 6: Agrotait ($143.91 in chips)
+Agrotait: posts small blind $1
+@92gara42@: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+@92gara42@: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $6 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 5: @92gara42@ (big blind) folded before Flop
+Seat 6: Agrotait (button) (small blind) collected ($6)
+
+
+PokerStars Hand #159412191502:  Hold'em Limit ($3/$6 USD) - 2016/10/03 6:40:19 ET
+Table 'Spiraea' 10-max Seat #5 is the button
+Seat 5: @92gara42@ ($64.83 in chips)
+Seat 6: Agrotait ($126.41 in chips)
+@92gara42@: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+@92gara42@: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [Tc 2h Th]
+Agrotait: checks
+@92gara42@: bets $3
+Agrotait: raises $3 to $6
+@92gara42@: calls $3
+*** TURN *** [Tc 2h Th] [9d]
+Agrotait: bets $6
+@92gara42@: calls $6
+*** RIVER *** [Tc 2h Th 9d] [Ac]
+Agrotait: bets $6
+@92gara42@: folds
+Uncalled bet ($6) returned to Agrotait
+Agrotait collected $35.50 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Tc 2h Th 9d Ac]
+Seat 5: @92gara42@ (button) (small blind) folded on the River
+Seat 6: Agrotait (big blind) collected ($35.50)
+
+
+PokerStars Hand #159412204626:  Hold'em Limit ($3/$6 USD) - 2016/10/03 6:40:51 ET
+Table 'Spiraea' 10-max Seat #5 is the button
+Seat 5: @92gara42@ ($43.83 in chips)
+Seat 6: Agrotait ($146.91 in chips)
+@92gara42@: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+@92gara42@: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [Ts 9h 6h]
+Agrotait: checks
+@92gara42@: bets $3
+Agrotait: calls $3
+*** TURN *** [Ts 9h 6h] [Ks]
+Agrotait: checks
+@92gara42@: checks
+*** RIVER *** [Ts 9h 6h Ks] [7h]
+Agrotait: checks
+@92gara42@: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to @92gara42@
+@92gara42@ collected $17.64 from pot
+@92gara42@: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ts 9h 6h Ks 7h]
+Seat 5: @92gara42@ (button) (small blind) collected ($17.64)
+Seat 6: Agrotait (big blind) folded on the River
+
+
+PokerStars Hand #159412221466:  Hold'em Limit ($3/$6 USD) - 2016/10/03 6:41:32 ET
+Table 'Spiraea' 10-max Seat #6 is the button
+Seat 5: @92gara42@ ($52.47 in chips)
+Seat 6: Agrotait ($137.91 in chips)
+Agrotait: posts small blind $1
+@92gara42@: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+@92gara42@: calls $3
+*** FLOP *** [3h 2d 2s]
+@92gara42@: checks
+Agrotait: checks
+*** TURN *** [3h 2d 2s] [Kc]
+@92gara42@: bets $6
+Agrotait: calls $6
+*** RIVER *** [3h 2d 2s Kc] [Tc]
+@92gara42@: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+@92gara42@: shows [Ac 7s] (a pair of Deuces)
+Agrotait: mucks hand
+@92gara42@ collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [3h 2d 2s Kc Tc]
+Seat 5: @92gara42@ (big blind) showed [Ac 7s] and won ($35.50) with a pair of Deuces
+Seat 6: Agrotait (button) (small blind) mucked
+
+
+PokerStars Hand #159412236142:  Hold'em Limit ($3/$6 USD) - 2016/10/03 6:42:07 ET
+Table 'Spiraea' 10-max Seat #5 is the button
+Seat 5: @92gara42@ ($69.97 in chips)
+Seat 6: Agrotait ($119.91 in chips)
+@92gara42@: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+@92gara42@: calls $2
+Agrotait: checks
+*** FLOP *** [3s 9d 7c]
+Agrotait: checks
+@92gara42@: bets $3
+Agrotait: folds
+Uncalled bet ($3) returned to @92gara42@
+@92gara42@ collected $5.88 from pot
+@92gara42@: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [3s 9d 7c]
+Seat 5: @92gara42@ (button) (small blind) collected ($5.88)
+Seat 6: Agrotait (big blind) folded on the Flop
+
+
+PokerStars Hand #159412247240:  Hold'em Limit ($3/$6 USD) - 2016/10/03 6:42:34 ET
+Table 'Spiraea' 10-max Seat #6 is the button
+Seat 5: @92gara42@ ($72.85 in chips)
+Seat 6: Agrotait ($116.91 in chips)
+Agrotait: posts small blind $1
+@92gara42@: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+@92gara42@: calls $3
+*** FLOP *** [7d 8s 3s]
+@92gara42@: checks
+Agrotait: bets $3
+@92gara42@: calls $3
+*** TURN *** [7d 8s 3s] [8d]
+@92gara42@: checks
+Agrotait: bets $6
+@92gara42@: folds
+Uncalled bet ($6) returned to Agrotait
+Agrotait collected $17.64 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7d 8s 3s 8d]
+Seat 5: @92gara42@ (big blind) folded on the Turn
+Seat 6: Agrotait (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #159412255471:  Hold'em Limit ($3/$6 USD) - 2016/10/03 6:42:54 ET
+Table 'Spiraea' 10-max Seat #5 is the button
+Seat 5: @92gara42@ ($63.85 in chips)
+Seat 6: Agrotait ($125.55 in chips)
+@92gara42@: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+@92gara42@: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [Kc 3h 8s]
+michi99999 joins the table at seat #8
+Agrotait: checks
+michi99999 leaves the table
+@92gara42@: bets $3
+Agrotait: folds
+Uncalled bet ($3) returned to @92gara42@
+@92gara42@ collected $11.76 from pot
+@92gara42@: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kc 3h 8s]
+Seat 5: @92gara42@ (button) (small blind) collected ($11.76)
+Seat 6: Agrotait (big blind) folded on the Flop
+
+
+PokerStars Hand #159412272267:  Hold'em Limit ($3/$6 USD) - 2016/10/03 6:43:34 ET
+Table 'Spiraea' 10-max Seat #6 is the button
+Seat 5: @92gara42@ ($69.61 in chips)
+Seat 6: Agrotait ($119.55 in chips)
+Agrotait: posts small blind $1
+@92gara42@: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+@92gara42@: raises $3 to $9
+Agrotait: calls $3
+*** FLOP *** [Kh Tc Jd]
+@92gara42@: bets $3
+Agrotait: calls $3
+*** TURN *** [Kh Tc Jd] [Th]
+@92gara42@: checks
+Agrotait: checks
+*** RIVER *** [Kh Tc Jd Th] [7h]
+@92gara42@: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to @92gara42@
+@92gara42@ collected $23.52 from pot
+@92gara42@: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Kh Tc Jd Th 7h]
+Seat 5: @92gara42@ (big blind) collected ($23.52)
+Seat 6: Agrotait (button) (small blind) folded on the River
+
+
+PokerStars Hand #159412292606:  Hold'em Limit ($3/$6 USD) - 2016/10/03 6:44:22 ET
+Table 'Spiraea' 10-max Seat #6 is the button
+Seat 5: @92gara42@ ($95.63 in chips)
+Seat 6: Agrotait ($92.55 in chips)
+Agrotait: posts small blind $1
+@92gara42@: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+@92gara42@: calls $3
+*** FLOP *** [2s 4d Th]
+@92gara42@: checks
+Agrotait: bets $3
+@92gara42@: calls $3
+*** TURN *** [2s 4d Th] [8s]
+@92gara42@: checks
+Agrotait: checks
+*** RIVER *** [2s 4d Th 8s] [3c]
+@92gara42@: checks
+Agrotait: checks
+*** SHOW DOWN ***
+@92gara42@: shows [Kh 7s] (high card King)
+Agrotait: shows [Kc Jd] (high card King - Jack kicker)
+Agrotait collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2s 4d Th 8s 3c]
+Seat 5: @92gara42@ (big blind) showed [Kh 7s] and lost with high card King
+Seat 6: Agrotait (button) (small blind) showed [Kc Jd] and won ($17.64) with high card King
+
+
+PokerStars Hand #159412300756:  Hold'em Limit ($3/$6 USD) - 2016/10/03 6:44:42 ET
+Table 'Spiraea' 10-max Seat #5 is the button
+Seat 5: @92gara42@ ($86.63 in chips)
+Seat 6: Agrotait ($101.19 in chips)
+@92gara42@: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+@92gara42@: calls $2
+Agrotait: checks
+*** FLOP *** [Ks 5h 7c]
+Agrotait: bets $3
+@92gara42@: raises $3 to $6
+Agrotait: calls $3
+*** TURN *** [Ks 5h 7c] [Kh]
+Agrotait: checks
+@92gara42@: checks
+*** RIVER *** [Ks 5h 7c Kh] [8h]
+Agrotait: bets $6
+@92gara42@: calls $6
+*** SHOW DOWN ***
+Agrotait: shows [Qc 7d] (two pair, Kings and Sevens)
+@92gara42@: shows [Qd 7h] (two pair, Kings and Sevens)
+Agrotait collected $14.75 from pot
+@92gara42@ collected $14.75 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ks 5h 7c Kh 8h]
+Seat 5: @92gara42@ (button) (small blind) showed [Qd 7h] and won ($14.75) with two pair, Kings and Sevens
+Seat 6: Agrotait (big blind) showed [Qc 7d] and won ($14.75) with two pair, Kings and Sevens
+
+
+PokerStars Hand #159412319805:  Hold'em Limit ($3/$6 USD) - 2016/10/03 6:45:27 ET
+Table 'Spiraea' 10-max Seat #5 is the button
+Seat 5: @92gara42@ ($100.88 in chips)
+Seat 6: Agrotait ($85.94 in chips)
+@92gara42@: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+@92gara42@: folds
+Uncalled bet ($2) returned to Agrotait
+Agrotait collected $2 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: @92gara42@ (button) (small blind) folded before Flop
+Seat 6: Agrotait (big blind) collected ($2)
+
+
+PokerStars Hand #159412311077:  Hold'em Limit ($3/$6 USD) - 2016/10/03 6:45:06 ET
+Table 'Spiraea' 10-max Seat #6 is the button
+Seat 5: @92gara42@ ($86.38 in chips)
+Seat 6: Agrotait ($100.94 in chips)
+Agrotait: posts small blind $1
+@92gara42@: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+@92gara42@: calls $3
+*** FLOP *** [Kc 7s 9c]
+@92gara42@: checks
+Agrotait: bets $3
+@92gara42@: calls $3
+*** TURN *** [Kc 7s 9c] [Kh]
+@92gara42@: checks
+pattaya515 joins the table at seat #7
+Agrotait: bets $6
+@92gara42@: calls $6
+*** RIVER *** [Kc 7s 9c Kh] [4d]
+@92gara42@: checks
+Agrotait: checks
+*** SHOW DOWN ***
+@92gara42@: shows [Ah 7c] (two pair, Kings and Sevens)
+Agrotait: mucks hand
+@92gara42@ collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kc 7s 9c Kh 4d]
+Seat 5: @92gara42@ (big blind) showed [Ah 7c] and won ($29.50) with two pair, Kings and Sevens
+Seat 6: Agrotait (button) (small blind) mucked
+
+
+PokerStars Hand #159415785172:  Hold'em Limit ($3/$6 USD) - 2016/10/03 8:49:14 ET
+Table 'Spiraea' 10-max Seat #8 is the button
+Seat 4: Actionni13 ($150 in chips)
+Seat 8: Krazy90 ($222.62 in chips)
+Krazy90: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+Krazy90: raises $3 to $6
+Actionni13: raises $3 to $9
+Krazy90: calls $3
+*** FLOP *** [8d 4s 4c]
+Actionni13: bets $3
+Krazy90: calls $3
+*** TURN *** [8d 4s 4c] [9s]
+Actionni13: bets $6
+Krazy90: calls $6
+*** RIVER *** [8d 4s 4c 9s] [6h]
+Actionni13: bets $6
+Krazy90: calls $6
+*** SHOW DOWN ***
+Actionni13: shows [As 9d] (two pair, Nines and Fours)
+Krazy90: mucks hand
+Actionni13 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8d 4s 4c 9s 6h]
+Seat 4: Actionni13 (big blind) showed [As 9d] and won ($47.50) with two pair, Nines and Fours
+Seat 8: Krazy90 (button) (small blind) mucked
+
+

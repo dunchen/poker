@@ -1,0 +1,89 @@
+PokerStars Hand #146070311155:  Hold'em Limit ($3/$6 USD) - 2015/12/28 13:57:30 ET
+Table 'Suttung II' 2-max Seat #1 is the button
+Seat 1: sensation711 ($38.40 in chips)
+Seat 2: elifnur2008 ($110.35 in chips)
+sensation711: posts small blind $1
+elifnur2008: posts big blind $3
+*** HOLE CARDS ***
+sensation711: raises $3 to $6
+elifnur2008: raises $3 to $9
+sensation711: raises $3 to $12
+Betting is capped
+elifnur2008: calls $3
+*** FLOP *** [4d Ac 5s]
+elifnur2008: checks
+sensation711: bets $3
+elifnur2008: calls $3
+*** TURN *** [4d Ac 5s] [Jd]
+elifnur2008: checks
+sensation711: bets $6
+elifnur2008: calls $6
+*** RIVER *** [4d Ac 5s Jd] [7d]
+elifnur2008: checks
+sensation711: bets $6
+elifnur2008: raises $6 to $12
+sensation711: folds
+Uncalled bet ($6) returned to elifnur2008
+elifnur2008 collected $53.50 from pot
+elifnur2008: doesn't show hand
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [4d Ac 5s Jd 7d]
+Seat 1: sensation711 (button) (small blind) folded on the River
+Seat 2: elifnur2008 (big blind) collected ($53.50)
+
+
+PokerStars Hand #146070336541:  Hold'em Limit ($3/$6 USD) - 2015/12/28 13:58:03 ET
+Table 'Suttung II' 2-max Seat #2 is the button
+Seat 1: sensation711 ($11.40 in chips)
+Seat 2: elifnur2008 ($136.85 in chips)
+elifnur2008: posts small blind $1
+sensation711: posts big blind $3
+*** HOLE CARDS ***
+elifnur2008: raises $3 to $6
+sensation711: raises $3 to $9
+elifnur2008: raises $3 to $12
+Betting is capped
+sensation711: calls $2.40 and is all-in
+Uncalled bet ($0.60) returned to elifnur2008
+*** FLOP *** [Qd Ks 4s]
+*** TURN *** [Qd Ks 4s] [8c]
+*** RIVER *** [Qd Ks 4s 8c] [Ac]
+*** SHOW DOWN ***
+sensation711: shows [9s Ad] (a pair of Aces)
+elifnur2008: shows [Ts As] (a pair of Aces - King+Queen+Ten kicker)
+elifnur2008 collected $22.34 from pot
+*** SUMMARY ***
+Total pot $22.80 | Rake $0.46
+Board [Qd Ks 4s 8c Ac]
+Seat 1: sensation711 (big blind) showed [9s Ad] and lost with a pair of Aces
+Seat 2: elifnur2008 (button) (small blind) showed [Ts As] and won ($22.34) with a pair of Aces
+
+
+PokerStars Hand #146070992936:  Hold'em Limit ($3/$6 USD) - 2015/12/28 14:09:58 ET
+Table 'Suttung II' 2-max Seat #2 is the button
+Seat 1: elifnur2008 ($146.50 in chips)
+Seat 2: hagi466 ($14.40 in chips)
+hagi466: posts small blind $1
+elifnur2008: posts big blind $3
+*** HOLE CARDS ***
+hagi466: raises $3 to $6
+elifnur2008: raises $3 to $9
+hagi466: calls $3
+*** FLOP *** [As 8h Td]
+elifnur2008: bets $3
+hagi466: raises $2.40 to $5.40 and is all-in
+elifnur2008: calls $2.40
+*** TURN *** [As 8h Td] [4d]
+*** RIVER *** [As 8h Td 4d] [Ac]
+*** SHOW DOWN ***
+elifnur2008: shows [8c 8d] (a full house, Eights full of Aces)
+hagi466: shows [9s 5c] (a pair of Aces)
+elifnur2008 collected $28.30 from pot
+*** SUMMARY ***
+Total pot $28.80 | Rake $0.50
+Board [As 8h Td 4d Ac]
+Seat 1: elifnur2008 (big blind) showed [8c 8d] and won ($28.30) with a full house, Eights full of Aces
+Seat 2: hagi466 (button) (small blind) showed [9s 5c] and lost with a pair of Aces
+
+

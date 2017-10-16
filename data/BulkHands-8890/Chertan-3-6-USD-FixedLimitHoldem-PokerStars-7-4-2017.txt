@@ -1,0 +1,50 @@
+PokerStars Hand #172594865882:  Hold'em Limit ($3/$6 USD) - 2017/07/04 10:37:46 ET
+Table 'Chertan' 6-max Seat #4 is the button
+Seat 4: Carl1891 ($93.07 in chips)
+Seat 5: AzureCaper ($130.08 in chips)
+Carl1891: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+Carl1891: folds
+Uncalled bet ($2) returned to AzureCaper
+AzureCaper collected $2 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: Carl1891 (button) (small blind) folded before Flop
+Seat 5: AzureCaper (big blind) collected ($2)
+
+
+PokerStars Hand #172594849340:  Hold'em Limit ($3/$6 USD) - 2017/07/04 10:37:16 ET
+Table 'Chertan' 6-max Seat #5 is the button
+Seat 4: Carl1891 ($111.07 in chips)
+Seat 5: AzureCaper ($112.58 in chips)
+AzureCaper: posts small blind $1
+Carl1891: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+Carl1891: calls $3
+*** FLOP *** [Tc 9s 6d]
+Carl1891: checks
+AzureCaper: bets $3
+Carl1891: raises $3 to $6
+fire852181 leaves the table
+AzureCaper: calls $3
+*** TURN *** [Tc 9s 6d] [Ah]
+Carl1891: checks
+AzureCaper: bets $6
+Carl1891: calls $6
+*** RIVER *** [Tc 9s 6d Ah] [9d]
+Carl1891: checks
+AzureCaper: checks
+*** SHOW DOWN ***
+Carl1891: shows [Jc Th] (two pair, Tens and Nines)
+AzureCaper: shows [Ac 6s] (two pair, Aces and Nines)
+AzureCaper collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Tc 9s 6d Ah 9d]
+Seat 4: Carl1891 (big blind) showed [Jc Th] and lost with two pair, Tens and Nines
+Seat 5: AzureCaper (button) (small blind) showed [Ac 6s] and won ($35.50) with two pair, Aces and Nines
+
+

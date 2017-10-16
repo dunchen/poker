@@ -1,0 +1,83 @@
+PokerStars Hand #168415928124:  Hold'em Limit ($3/$6 USD) - 2017/04/01 9:18:03 ET
+Table 'Blarney' 6-max Seat #3 is the button
+Seat 3: majekk ($48.83 in chips)
+Seat 4: Agrotait ($72 in chips)
+majekk: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+majekk: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [7d Ks 8h]
+Agrotait: checks
+majekk: bets $3
+Agrotait: calls $3
+*** TURN *** [7d Ks 8h] [Kd]
+Agrotait: checks
+majekk: checks
+*** RIVER *** [7d Ks 8h Kd] [4c]
+Agrotait: bets $6
+majekk: raises $6 to $12
+Agrotait: calls $6
+*** SHOW DOWN ***
+majekk: shows [Qs 4d] (two pair, Kings and Fours)
+Agrotait: shows [Jh 7h] (two pair, Kings and Sevens)
+Agrotait collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [7d Ks 8h Kd 4c]
+Seat 3: majekk (button) (small blind) showed [Qs 4d] and lost with two pair, Kings and Fours
+Seat 4: Agrotait (big blind) showed [Jh 7h] and won ($41.50) with two pair, Kings and Sevens
+
+
+PokerStars Hand #168415960141:  Hold'em Limit ($3/$6 USD) - 2017/04/01 9:18:57 ET
+Table 'Blarney' 6-max Seat #4 is the button
+Seat 3: majekk ($27.83 in chips)
+Seat 4: Agrotait ($92.50 in chips)
+Agrotait: posts small blind $1
+majekk: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+majekk: calls $3
+*** FLOP *** [Qh Qs Ad]
+majekk: checks
+AzureCaper joins the table at seat #5
+Agrotait: checks
+*** TURN *** [Qh Qs Ad] [6s]
+majekk: bets $6
+Agrotait: calls $6
+*** RIVER *** [Qh Qs Ad 6s] [Ah]
+majekk: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to majekk
+majekk collected $23.52 from pot
+majekk: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Qh Qs Ad 6s Ah]
+Seat 3: majekk (big blind) collected ($23.52)
+Seat 4: Agrotait (button) (small blind) folded on the River
+
+
+PokerStars Hand #168415995060:  Hold'em Limit ($3/$6 USD) - 2017/04/01 9:19:55 ET
+Table 'Blarney' 6-max Seat #3 is the button
+Seat 3: majekk ($39.35 in chips)
+Seat 4: Agrotait ($80.50 in chips)
+majekk: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+majekk: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [6h Js 5d]
+Agrotait: checks
+majekk: bets $3
+Agrotait: folds
+Uncalled bet ($3) returned to majekk
+majekk collected $11.76 from pot
+majekk: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6h Js 5d]
+Seat 3: majekk (button) (small blind) collected ($11.76)
+Seat 4: Agrotait (big blind) folded on the Flop
+
+

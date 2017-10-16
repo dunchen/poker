@@ -1,0 +1,103 @@
+PokerStars Hand #161919824538:  Hold'em Limit ($3/$6 USD) - 2016/11/24 22:16:40 ET
+Table 'Edasich' 6-max Seat #5 is the button
+Seat 1: DirtyDouble2 ($155.16 in chips)
+Seat 5: sandeep ($152.52 in chips)
+sandeep: posts small blind $1
+DirtyDouble2: posts big blind $3
+*** HOLE CARDS ***
+sandeep: raises $3 to $6
+DirtyDouble2: calls $3
+*** FLOP *** [Qd Jc Ad]
+DirtyDouble2: checks
+sandeep: bets $3
+DirtyDouble2: folds
+Uncalled bet ($3) returned to sandeep
+sandeep collected $11.76 from pot
+sandeep: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qd Jc Ad]
+Seat 1: DirtyDouble2 (big blind) folded on the Flop
+Seat 5: sandeep (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #161919817968:  Hold'em Limit ($3/$6 USD) - 2016/11/24 22:16:22 ET
+Table 'Edasich' 6-max Seat #1 is the button
+Seat 1: DirtyDouble2 ($128.66 in chips)
+Seat 5: sandeep ($179.52 in chips)
+DirtyDouble2: posts small blind $1
+sandeep: posts big blind $3
+*** HOLE CARDS ***
+DirtyDouble2: raises $3 to $6
+sandeep: raises $3 to $9
+DirtyDouble2: raises $3 to $12
+Betting is capped
+sandeep: calls $3
+*** FLOP *** [7h 5h 3d]
+sandeep: bets $3
+DirtyDouble2: calls $3
+*** TURN *** [7h 5h 3d] [As]
+sandeep: bets $6
+DirtyDouble2: calls $6
+*** RIVER *** [7h 5h 3d As] [9h]
+sandeep: bets $6
+DirtyDouble2: calls $6
+*** SHOW DOWN ***
+sandeep: shows [Jc Ks] (high card Ace)
+DirtyDouble2: shows [Kc Qh] (high card Ace - King+Queen kicker)
+DirtyDouble2 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [7h 5h 3d As 9h]
+Seat 1: DirtyDouble2 (button) (small blind) showed [Kc Qh] and won ($53.50) with high card Ace
+Seat 5: sandeep (big blind) showed [Jc Ks] and lost with high card Ace
+
+
+PokerStars Hand #161919815801:  Hold'em Limit ($3/$6 USD) - 2016/11/24 22:16:16 ET
+Table 'Edasich' 6-max Seat #5 is the button
+Seat 1: DirtyDouble2 ($131.66 in chips)
+Seat 5: sandeep ($176.52 in chips)
+sandeep: posts small blind $1
+DirtyDouble2: posts big blind $3
+*** HOLE CARDS ***
+sandeep: raises $3 to $6
+DirtyDouble2: folds
+Uncalled bet ($3) returned to sandeep
+sandeep collected $6 from pot
+sandeep: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: DirtyDouble2 (big blind) folded before Flop
+Seat 5: sandeep (button) (small blind) collected ($6)
+
+
+PokerStars Hand #161919808811:  Hold'em Limit ($3/$6 USD) - 2016/11/24 22:15:56 ET
+Table 'Edasich' 6-max Seat #1 is the button
+Seat 1: DirtyDouble2 ($143.66 in chips)
+Seat 5: sandeep ($165 in chips)
+DirtyDouble2: posts small blind $1
+RaisemyNut$: is sitting out
+sandeep: posts big blind $3
+*** HOLE CARDS ***
+DirtyDouble2: raises $3 to $6
+sandeep: calls $3
+*** FLOP *** [2c Jc 4d]
+sandeep: checks
+DirtyDouble2: checks
+*** TURN *** [2c Jc 4d] [3c]
+sandeep: bets $6
+RaisemyNut$ leaves the table
+DirtyDouble2: calls $6
+*** RIVER *** [2c Jc 4d 3c] [8h]
+sandeep: bets $6
+DirtyDouble2: folds
+Uncalled bet ($6) returned to sandeep
+sandeep collected $23.52 from pot
+sandeep: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [2c Jc 4d 3c 8h]
+Seat 1: DirtyDouble2 (button) (small blind) folded on the River
+Seat 5: sandeep (big blind) collected ($23.52)
+
+

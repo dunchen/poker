@@ -1,0 +1,33 @@
+PokerStars Hand #145046493403:  Hold'em Limit ($3/$6 USD) - 2015/12/08 17:52:26 ET
+Table 'Cevenola' 2-max Seat #1 is the button
+Seat 1: elifnur2008 ($125.76 in chips)
+Seat 2: abraka447 ($35.12 in chips)
+elifnur2008: posts small blind $1
+abraka447: posts big blind $3
+*** HOLE CARDS ***
+elifnur2008: raises $3 to $6
+abraka447: raises $3 to $9
+elifnur2008: calls $3
+*** FLOP *** [Tc 3d Qc]
+abraka447: bets $3
+elifnur2008: calls $3
+*** TURN *** [Tc 3d Qc] [7c]
+abraka447: bets $6
+elifnur2008: raises $6 to $12
+abraka447: calls $6
+*** RIVER *** [Tc 3d Qc 7c] [4d]
+abraka447: bets $6
+elifnur2008: raises $6 to $12
+abraka447: calls $5.12 and is all-in
+Uncalled bet ($0.88) returned to elifnur2008
+*** SHOW DOWN ***
+elifnur2008: shows [Th Td] (three of a kind, Tens)
+abraka447: shows [2h Qh] (a pair of Queens)
+elifnur2008 collected $69.74 from pot
+*** SUMMARY ***
+Total pot $70.24 | Rake $0.50
+Board [Tc 3d Qc 7c 4d]
+Seat 1: elifnur2008 (button) (small blind) showed [Th Td] and won ($69.74) with three of a kind, Tens
+Seat 2: abraka447 (big blind) showed [2h Qh] and lost with a pair of Queens
+
+

@@ -1,0 +1,35 @@
+PokerStars Hand #173097614138:  Hold'em Limit ($3/$6 USD) - 2017/07/16 6:42:34 ET
+Table 'Gotho' 10-max Seat #5 is the button
+Seat 1: Carl1891 ($224.36 in chips)
+Seat 5: protriin ($36.94 in chips)
+protriin: posts small blind $1
+AzureCaper leaves the table
+troy-fish: is sitting out
+Carl1891: posts big blind $3
+*** HOLE CARDS ***
+protriin: raises $3 to $6
+Carl1891: calls $3
+*** FLOP *** [Qh Ks Kh]
+Carl1891: checks
+troy-fish leaves the table
+protriin: bets $3
+Carl1891: calls $3
+*** TURN *** [Qh Ks Kh] [4h]
+Carl1891: checks
+protriin: bets $6
+Carl1891: calls $6
+*** RIVER *** [Qh Ks Kh 4h] [4s]
+Carl1891: checks
+protriin: bets $6
+Carl1891: calls $6
+*** SHOW DOWN ***
+protriin: shows [Js Qs] (two pair, Kings and Queens)
+Carl1891: mucks hand
+protriin collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Qh Ks Kh 4h 4s]
+Seat 1: Carl1891 (big blind) mucked
+Seat 5: protriin (button) (small blind) showed [Js Qs] and won ($41.50) with two pair, Kings and Queens
+
+

@@ -1,0 +1,117 @@
+PokerStars Hand #147538247997:  Hold'em Limit ($3/$6 USD) - 2016/01/23 10:46:06 ET
+Table 'Friederike' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 2: missbleuf ($75.32 in chips)
+VolkovDmitri: posts small blind $1
+missbleuf: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+missbleuf: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [Tc 9h 3s]
+missbleuf: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [Tc 9h 3s] [Jh]
+FinDeSiecle joins the table at seat #3
+missbleuf: checks
+VolkovDmitri: bets $6
+missbleuf: calls $6
+*** RIVER *** [Tc 9h 3s Jh] [9s]
+missbleuf: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+missbleuf: shows [3c 6c] (two pair, Nines and Threes)
+VolkovDmitri: mucks hand
+missbleuf collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Tc 9h 3s Jh 9s]
+Seat 1: VolkovDmitri (button) (small blind) mucked
+Seat 2: missbleuf (big blind) showed [3c 6c] and won ($35.50) with two pair, Nines and Threes
+
+
+PokerStars Hand #147542315760:  Hold'em Limit ($3/$6 USD) - 2016/01/23 11:59:43 ET
+Table 'Friederike' 6-max Seat #4 is the button
+Seat 1: scorpio04 ($93.58 in chips)
+Seat 4: Johnliu ($222.85 in chips)
+Johnliu: posts small blind $1
+Tibidear: is sitting out
+scorpio04: posts big blind $3
+*** HOLE CARDS ***
+Tibidear leaves the table
+Johnliu: raises $3 to $6
+scorpio04: calls $3
+*** FLOP *** [8c Tc 5c]
+scorpio04: checks
+Emin koc joins the table at seat #2
+Johnliu: checks
+*** TURN *** [8c Tc 5c] [6c]
+scorpio04: checks
+Johnliu: checks
+*** RIVER *** [8c Tc 5c 6c] [9s]
+scorpio04: checks
+Johnliu: checks
+*** SHOW DOWN ***
+scorpio04: shows [5h 3d] (a pair of Fives)
+Johnliu: mucks hand
+scorpio04 collected $11.76 from pot
+ice0034 joins the table at seat #3
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8c Tc 5c 6c 9s]
+Seat 1: scorpio04 (big blind) showed [5h 3d] and won ($11.76) with a pair of Fives
+Seat 4: Johnliu (button) (small blind) mucked
+
+
+PokerStars Hand #147542385022:  Hold'em Limit ($3/$6 USD) - 2016/01/23 12:01:09 ET
+Table 'Friederike' 6-max Seat #1 is the button
+Seat 1: scorpio04 ($99.34 in chips)
+Seat 4: Johnliu ($231.92 in chips)
+scorpio04: posts small blind $1
+Johnliu: posts big blind $3
+*** HOLE CARDS ***
+scorpio04: raises $3 to $6
+Johnliu: folds
+Uncalled bet ($3) returned to scorpio04
+scorpio04 collected $6 from pot
+scorpio04: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: scorpio04 (button) (small blind) collected ($6)
+Seat 4: Johnliu (big blind) folded before Flop
+
+
+PokerStars Hand #147542394437:  Hold'em Limit ($3/$6 USD) - 2016/01/23 12:01:20 ET
+Table 'Friederike' 6-max Seat #4 is the button
+Seat 1: scorpio04 ($102.34 in chips)
+Seat 4: Johnliu ($228.92 in chips)
+Johnliu: posts small blind $1
+scorpio04: posts big blind $3
+*** HOLE CARDS ***
+Johnliu: raises $3 to $6
+scorpio04: calls $3
+*** FLOP *** [Tc 3d 4d]
+scorpio04: checks
+Johnliu: bets $3
+scorpio04: calls $3
+*** TURN *** [Tc 3d 4d] [5s]
+scorpio04: checks
+Johnliu: bets $6
+scorpio04: raises $6 to $12
+Brama Br joins the table at seat #6
+Johnliu: raises $6 to $18
+scorpio04: calls $6
+*** RIVER *** [Tc 3d 4d 5s] [7h]
+scorpio04: checks
+Johnliu: checks
+*** SHOW DOWN ***
+scorpio04: shows [2d Qd] (high card Queen)
+Johnliu: shows [3c 4c] (two pair, Fours and Threes)
+Johnliu collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Tc 3d 4d 5s 7h]
+Seat 1: scorpio04 (big blind) showed [2d Qd] and lost with high card Queen
+Seat 4: Johnliu (button) (small blind) showed [3c 4c] and won ($53.50) with two pair, Fours and Threes
+
+

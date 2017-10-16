@@ -1,0 +1,57 @@
+PokerStars Hand #171262647530:  Hold'em Limit ($3/$6 USD) - 2017/06/02 18:19:23 ET
+Table 'Zahringia' 10-max Seat #1 is the button
+Seat 1: Chessnok ($125.76 in chips)
+Seat 10: Icecold ($25.89 in chips)
+Chessnok: posts small blind $1
+Icecold: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+Icecold: calls $3
+*** FLOP *** [8d 5h 3s]
+Icecold: bets $3
+Chessnok: calls $3
+*** TURN *** [8d 5h 3s] [Qd]
+Icecold: bets $6
+Chessnok: raises $6 to $12
+Icecold: folds
+Uncalled bet ($6) returned to Chessnok
+Chessnok collected $29.50 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8d 5h 3s Qd]
+Seat 1: Chessnok (button) (small blind) collected ($29.50)
+Seat 10: Icecold (big blind) folded on the Turn
+
+
+PokerStars Hand #171262661658:  Hold'em Limit ($3/$6 USD) - 2017/06/02 18:19:43 ET
+Table 'Zahringia' 10-max Seat #10 is the button
+Seat 1: Chessnok ($140.26 in chips)
+Seat 10: Icecold ($10.89 in chips)
+Icecold: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+Icecold: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [Jc Tc 6c]
+Chessnok: checks
+Icecold: bets $3
+Chessnok: calls $3
+*** TURN *** [Jc Tc 6c] [7s]
+Chessnok: checks
+Icecold: checks
+*** RIVER *** [Jc Tc 6c 7s] [6s]
+Chessnok: bets $6
+Icecold: calls $1.89 and is all-in
+Uncalled bet ($4.11) returned to Chessnok
+*** SHOW DOWN ***
+Chessnok: shows [Qd 7c] (two pair, Sevens and Sixes)
+Icecold: shows [9c 3d] (a pair of Sixes)
+Chessnok collected $21.34 from pot
+*** SUMMARY ***
+Total pot $21.78 | Rake $0.44
+Board [Jc Tc 6c 7s 6s]
+Seat 1: Chessnok (big blind) showed [Qd 7c] and won ($21.34) with two pair, Sevens and Sixes
+Seat 10: Icecold (button) (small blind) showed [9c 3d] and lost with a pair of Sixes
+
+

@@ -1,0 +1,145 @@
+PokerStars Hand #172791138697:  Hold'em Limit ($3/$6 USD) - 2017/07/09 1:18:25 ET
+Table 'Ophelia' 6-max Seat #4 is the button
+Seat 3: Auge72 ($71 in chips)
+Seat 4: MTails ($121 in chips)
+MTails: posts small blind $1
+Auge72: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+Auge72: raises $3 to $9
+MTails: calls $3
+*** FLOP *** [Qh Kc 4h]
+Auge72: bets $3
+MTails: calls $3
+*** TURN *** [Qh Kc 4h] [4d]
+Auge72: bets $6
+MTails: calls $6
+*** RIVER *** [Qh Kc 4h 4d] [6h]
+Auge72: bets $6
+MTails: calls $6
+*** SHOW DOWN ***
+Auge72: shows [9h Th] (a flush, Queen high)
+MTails: mucks hand
+Auge72 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Qh Kc 4h 4d 6h]
+Seat 3: Auge72 (big blind) showed [9h Th] and won ($47.50) with a flush, Queen high
+Seat 4: MTails (button) (small blind) mucked
+
+
+PokerStars Hand #172791144781:  Hold'em Limit ($3/$6 USD) - 2017/07/09 1:18:48 ET
+Table 'Ophelia' 6-max Seat #3 is the button
+Seat 3: Auge72 ($94.50 in chips)
+Seat 4: MTails ($97 in chips)
+Auge72: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+Auge72: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [6s 8s 6h]
+MTails: checks
+Auge72: checks
+*** TURN *** [6s 8s 6h] [As]
+MTails: bets $6
+Auge72: folds
+Uncalled bet ($6) returned to MTails
+MTails collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6s 8s 6h As]
+Seat 3: Auge72 (button) (small blind) folded on the Turn
+Seat 4: MTails (big blind) collected ($11.76)
+
+
+PokerStars Hand #172791157070:  Hold'em Limit ($3/$6 USD) - 2017/07/09 1:19:35 ET
+Table 'Ophelia' 6-max Seat #4 is the button
+Seat 3: Auge72 ($67.50 in chips)
+Seat 4: MTails ($123.02 in chips)
+MTails: posts small blind $1
+Auge72: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+Auge72: calls $3
+*** FLOP *** [As Kd 4h]
+Auge72: checks
+MTails: bets $3
+Auge72: calls $3
+*** TURN *** [As Kd 4h] [Qc]
+Auge72: checks
+MTails: checks
+*** RIVER *** [As Kd 4h Qc] [6h]
+Auge72: bets $6
+MTails: folds
+Uncalled bet ($6) returned to Auge72
+Auge72 collected $17.64 from pot
+Auge72: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [As Kd 4h Qc 6h]
+Seat 3: Auge72 (big blind) collected ($17.64)
+Seat 4: MTails (button) (small blind) folded on the River
+
+
+PokerStars Hand #172791148621:  Hold'em Limit ($3/$6 USD) - 2017/07/09 1:19:02 ET
+Table 'Ophelia' 6-max Seat #4 is the button
+Seat 3: Auge72 ($88.50 in chips)
+Seat 4: MTails ($102.76 in chips)
+MTails: posts small blind $1
+Auge72: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+Auge72: calls $3
+*** FLOP *** [5s 3s 6s]
+Auge72: checks
+MTails: bets $3
+Auge72: calls $3
+*** TURN *** [5s 3s 6s] [5h]
+Auge72: checks
+MTails: bets $6
+Auge72: calls $6
+*** RIVER *** [5s 3s 6s 5h] [3c]
+Auge72: checks
+MTails: bets $6
+Auge72: folds
+Uncalled bet ($6) returned to MTails
+MTails collected $29.50 from pot
+MTails: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5s 3s 6s 5h 3c]
+Seat 3: Auge72 (big blind) folded on the River
+Seat 4: MTails (button) (small blind) collected ($29.50)
+
+
+PokerStars Hand #172791162007:  Hold'em Limit ($3/$6 USD) - 2017/07/09 1:19:54 ET
+Table 'Ophelia' 6-max Seat #3 is the button
+Seat 3: Auge72 ($76.14 in chips)
+Seat 4: MTails ($114.02 in chips)
+Auge72: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+Auge72: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [9h 5d Jc]
+MTails: checks
+Auge72: bets $3
+MTails: calls $3
+*** TURN *** [9h 5d Jc] [6h]
+MTails: checks
+Auge72: checks
+*** RIVER *** [9h 5d Jc 6h] [9c]
+MTails: bets $6
+Auge72: calls $6
+*** SHOW DOWN ***
+MTails: shows [7h 6c] (two pair, Nines and Sixes)
+SLK500 joins the table at seat #6
+Auge72: mucks hand
+MTails collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9h 5d Jc 6h 9c]
+Seat 3: Auge72 (button) (small blind) mucked
+Seat 4: MTails (big blind) showed [7h 6c] and won ($29.50) with two pair, Nines and Sixes
+
+

@@ -1,0 +1,26 @@
+PokerStars Hand #148717473300:  Hold'em Limit ($3/$6 USD) - 2016/02/13 5:07:28 ET
+Table 'Britta II' 6-max Seat #5 is the button
+Seat 4: Grandiozniy ($8.70 in chips)
+Seat 5: Ale4o ($191.30 in chips)
+Ale4o: posts small blind $1
+VolkovDmitri: is sitting out
+Grandiozniy: posts big blind $3
+*** HOLE CARDS ***
+Ale4o: raises $3 to $6
+Grandiozniy: raises $2.70 to $8.70 and is all-in
+Ale4o: calls $2.70
+*** FLOP *** [7h Td 3s]
+VolkovDmitri leaves the table
+*** TURN *** [7h Td 3s] [Ts]
+*** RIVER *** [7h Td 3s Ts] [Qs]
+*** SHOW DOWN ***
+Grandiozniy: shows [5c 4c] (a pair of Tens)
+Ale4o: shows [Qd 5s] (two pair, Queens and Tens)
+Ale4o collected $17.05 from pot
+*** SUMMARY ***
+Total pot $17.40 | Rake $0.35
+Board [7h Td 3s Ts Qs]
+Seat 4: Grandiozniy (big blind) showed [5c 4c] and lost with a pair of Tens
+Seat 5: Ale4o (button) (small blind) showed [Qd 5s] and won ($17.05) with two pair, Queens and Tens
+
+

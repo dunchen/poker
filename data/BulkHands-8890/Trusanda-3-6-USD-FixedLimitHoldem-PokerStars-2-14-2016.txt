@@ -1,0 +1,61 @@
+PokerStars Hand #148800451888:  Hold'em Limit ($3/$6 USD) - 2016/02/14 14:00:30 ET
+Table 'Trusanda' 6-max Seat #2 is the button
+Seat 2: Telepuzt ($120 in chips)
+Seat 3: Mudager ($120 in chips)
+Telepuzt: posts small blind $1
+Mudager: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa joins the table at seat #5
+Telepuzt: calls $2
+Mudager: raises $3 to $6
+Telepuzt: calls $3
+*** FLOP *** [8h Js 6h]
+Mudager: bets $3
+Telepuzt: calls $3
+*** TURN *** [8h Js 6h] [9d]
+Mudager: bets $6
+Telepuzt: calls $6
+*** RIVER *** [8h Js 6h 9d] [3d]
+Mudager: bets $6
+Telepuzt: calls $6
+*** SHOW DOWN ***
+Mudager: shows [5d Ad] (high card Ace)
+Telepuzt: shows [4c 8c] (a pair of Eights)
+Telepuzt collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [8h Js 6h 9d 3d]
+Seat 2: Telepuzt (button) (small blind) showed [4c 8c] and won ($41.50) with a pair of Eights
+Seat 3: Mudager (big blind) showed [5d Ad] and lost with high card Ace
+
+
+PokerStars Hand #148800482520:  Hold'em Limit ($3/$6 USD) - 2016/02/14 14:01:03 ET
+Table 'Trusanda' 6-max Seat #3 is the button
+Seat 2: Telepuzt ($140.50 in chips)
+Seat 3: Mudager ($120 in chips)
+Mudager: posts small blind $1
+Telepuzt: posts big blind $3
+*** HOLE CARDS ***
+Mudager: raises $3 to $6
+Telepuzt: calls $3
+*** FLOP *** [4s 6c Ac]
+Telepuzt: checks
+Mudager: bets $3
+Telepuzt: calls $3
+*** TURN *** [4s 6c Ac] [7c]
+Telepuzt: checks
+Mudager: checks
+*** RIVER *** [4s 6c Ac 7c] [Ah]
+Telepuzt: bets $6
+Mudager: calls $6
+*** SHOW DOWN ***
+Telepuzt: shows [5h 4c] (two pair, Aces and Fours)
+Mudager: mucks hand
+Telepuzt collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4s 6c Ac 7c Ah]
+Seat 2: Telepuzt (big blind) showed [5h 4c] and won ($29.50) with two pair, Aces and Fours
+Seat 3: Mudager (button) (small blind) mucked
+
+

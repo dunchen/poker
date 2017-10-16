@@ -1,0 +1,85 @@
+PokerStars Hand #157088546775:  Hold'em Limit ($3/$6 USD) - 2016/08/10 1:04:14 ET
+Table 'Mrkos' 6-max Seat #4 is the button
+Seat 3: neastrum ($111.95 in chips)
+Seat 4: Agrotait ($87.40 in chips)
+Agrotait: posts small blind $1
+neastrum: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+neastrum: calls $3
+*** FLOP *** [Qd Qc 8s]
+neastrum: checks
+Agrotait: bets $3
+neastrum: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qd Qc 8s]
+Seat 3: neastrum (big blind) folded on the Flop
+Seat 4: Agrotait (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #157088571282:  Hold'em Limit ($3/$6 USD) - 2016/08/10 1:06:01 ET
+Table 'Mrkos' 6-max Seat #4 is the button
+Seat 3: neastrum ($140.95 in chips)
+Seat 4: Agrotait ($72 in chips)
+Agrotait: posts small blind $1
+neastrum: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+neastrum: calls $3
+*** FLOP *** [3h 6h 8s]
+neastrum: checks
+Agrotait: bets $3
+neastrum: calls $3
+*** TURN *** [3h 6h 8s] [Ah]
+neastrum: checks
+Agrotait: bets $6
+neastrum: calls $6
+*** RIVER *** [3h 6h 8s Ah] [3d]
+neastrum: checks
+Agrotait: bets $6
+neastrum: calls $6
+*** SHOW DOWN ***
+Agrotait: shows [8h Kh] (a flush, Ace high)
+neastrum: mucks hand
+Agrotait collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [3h 6h 8s Ah 3d]
+Seat 3: neastrum (big blind) mucked
+Seat 4: Agrotait (button) (small blind) showed [8h Kh] and won ($41.50) with a flush, Ace high
+
+
+PokerStars Hand #157088564796:  Hold'em Limit ($3/$6 USD) - 2016/08/10 1:05:32 ET
+Table 'Mrkos' 6-max Seat #3 is the button
+Seat 3: neastrum ($120.45 in chips)
+Seat 4: Agrotait ($77.92 in chips)
+neastrum: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+neastrum: calls $2
+Agrotait: raises $3 to $6
+neastrum: calls $3
+*** FLOP *** [Js 8s Qh]
+Agrotait: bets $3
+neastrum: calls $3
+*** TURN *** [Js 8s Qh] [Ad]
+Agrotait: bets $6
+neastrum: calls $6
+*** RIVER *** [Js 8s Qh Ad] [6d]
+Agrotait: checks
+neastrum: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+neastrum: shows [Ac 8d] (two pair, Aces and Eights)
+Agrotait: mucks hand
+neastrum collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Js 8s Qh Ad 6d]
+Seat 3: neastrum (button) (small blind) showed [Ac 8d] and won ($41.50) with two pair, Aces and Eights
+Seat 4: Agrotait (big blind) mucked
+
+

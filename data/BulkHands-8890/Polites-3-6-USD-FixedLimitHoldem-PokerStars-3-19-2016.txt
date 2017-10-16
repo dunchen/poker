@@ -1,0 +1,177 @@
+PokerStars Hand #150613770402:  Hold'em Limit ($3/$6 USD) - 2016/03/19 17:23:51 ET
+Table 'Polites' 6-max Seat #3 is the button
+Seat 3: xuiloman ($30 in chips)
+Seat 4: FHstyles ($60 in chips)
+xuiloman: posts small blind $1
+FHstyles: posts big blind $3
+*** HOLE CARDS ***
+xuiloman: calls $2
+FHstyles: raises $3 to $6
+xuiloman: calls $3
+*** FLOP *** [6d Ts Kc]
+FHstyles: bets $3
+xuiloman: calls $3
+*** TURN *** [6d Ts Kc] [Th]
+FHstyles: bets $6
+xuiloman: calls $6
+*** RIVER *** [6d Ts Kc Th] [Js]
+FHstyles: bets $6
+xuiloman: raises $6 to $12
+FHstyles: raises $6 to $18
+xuiloman: calls $3 and is all-in
+Uncalled bet ($3) returned to FHstyles
+*** SHOW DOWN ***
+FHstyles: shows [Td Jc] (a full house, Tens full of Jacks)
+xuiloman: mucks hand
+FHstyles collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [6d Ts Kc Th Js]
+Seat 3: xuiloman (button) (small blind) mucked
+Seat 4: FHstyles (big blind) showed [Td Jc] and won ($59.50) with a full house, Tens full of Jacks
+
+
+PokerStars Hand #150613833744:  Hold'em Limit ($3/$6 USD) - 2016/03/19 17:24:52 ET
+Table 'Polites' 6-max Seat #3 is the button
+Seat 3: xuiloman ($44.50 in chips)
+Seat 4: FHstyles ($74.50 in chips)
+xuiloman: posts small blind $1
+FHstyles: posts big blind $3
+*** HOLE CARDS ***
+xuiloman: calls $2
+FHstyles: checks
+*** FLOP *** [3s 4c 3h]
+FHstyles: checks
+xuiloman: checks
+*** TURN *** [3s 4c 3h] [Ad]
+FHstyles: checks
+xuiloman: bets $6
+FHstyles: folds
+Uncalled bet ($6) returned to xuiloman
+xuiloman collected $5.88 from pot
+xuiloman: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [3s 4c 3h Ad]
+Seat 3: xuiloman (button) (small blind) collected ($5.88)
+Seat 4: FHstyles (big blind) folded on the Turn
+
+
+PokerStars Hand #150613812577:  Hold'em Limit ($3/$6 USD) - 2016/03/19 17:24:33 ET
+Table 'Polites' 6-max Seat #4 is the button
+Seat 3: xuiloman ($30 in chips)
+Seat 4: FHstyles ($89.50 in chips)
+FHstyles: posts small blind $1
+xuiloman: posts big blind $3
+*** HOLE CARDS ***
+FHstyles: raises $3 to $6
+xuiloman: calls $3
+*** FLOP *** [3c 2h Jc]
+xuiloman: checks
+FHstyles: bets $3
+xuiloman: calls $3
+*** TURN *** [3c 2h Jc] [Ad]
+xuiloman: checks
+FHstyles: checks
+*** RIVER *** [3c 2h Jc Ad] [As]
+xuiloman: bets $6
+FHstyles: calls $6
+*** SHOW DOWN ***
+xuiloman: shows [4d Jd] (two pair, Aces and Jacks)
+FHstyles: mucks hand
+xuiloman collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3c 2h Jc Ad As]
+Seat 3: xuiloman (big blind) showed [4d Jd] and won ($29.50) with two pair, Aces and Jacks
+Seat 4: FHstyles (button) (small blind) mucked
+
+
+PokerStars Hand #150613848471:  Hold'em Limit ($3/$6 USD) - 2016/03/19 17:25:05 ET
+Table 'Polites' 6-max Seat #4 is the button
+Seat 3: xuiloman ($47.38 in chips)
+Seat 4: FHstyles ($71.50 in chips)
+FHstyles: posts small blind $1
+xuiloman: posts big blind $3
+*** HOLE CARDS ***
+FHstyles: raises $3 to $6
+xuiloman: calls $3
+*** FLOP *** [Jh 3s Tc]
+xuiloman: checks
+FHstyles: bets $3
+xuiloman: calls $3
+*** TURN *** [Jh 3s Tc] [5h]
+xuiloman: checks
+FHstyles: bets $6
+xuiloman: calls $6
+*** RIVER *** [Jh 3s Tc 5h] [Qd]
+xuiloman: checks
+FHstyles: bets $6
+xuiloman: calls $6
+*** SHOW DOWN ***
+FHstyles: shows [5c Ts] (two pair, Tens and Fives)
+xuiloman: mucks hand
+FHstyles collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Jh 3s Tc 5h Qd]
+Seat 3: xuiloman (big blind) mucked
+Seat 4: FHstyles (button) (small blind) showed [5c Ts] and won ($41.50) with two pair, Tens and Fives
+
+
+PokerStars Hand #150613891514:  Hold'em Limit ($3/$6 USD) - 2016/03/19 17:25:42 ET
+Table 'Polites' 6-max Seat #4 is the button
+Seat 3: xuiloman ($5.38 in chips)
+Seat 4: FHstyles ($112.50 in chips)
+FHstyles: posts small blind $1
+xuiloman: posts big blind $3
+*** HOLE CARDS ***
+FHstyles: raises $3 to $6
+xuiloman: calls $2.38 and is all-in
+Uncalled bet ($0.62) returned to FHstyles
+*** FLOP *** [Ah 2d 3s]
+*** TURN *** [Ah 2d 3s] [7s]
+*** RIVER *** [Ah 2d 3s 7s] [Ts]
+*** SHOW DOWN ***
+xuiloman: shows [Qc 6h] (high card Ace)
+FHstyles: shows [4h Ad] (a pair of Aces)
+FHstyles collected $10.54 from pot
+*** SUMMARY ***
+Total pot $10.76 | Rake $0.22
+Board [Ah 2d 3s 7s Ts]
+Seat 3: xuiloman (big blind) showed [Qc 6h] and lost with high card Ace
+Seat 4: FHstyles (button) (small blind) showed [4h Ad] and won ($10.54) with a pair of Aces
+
+
+PokerStars Hand #150613868672:  Hold'em Limit ($3/$6 USD) - 2016/03/19 17:25:23 ET
+Table 'Polites' 6-max Seat #3 is the button
+Seat 3: xuiloman ($26.38 in chips)
+Seat 4: FHstyles ($92 in chips)
+xuiloman: posts small blind $1
+FHstyles: posts big blind $3
+*** HOLE CARDS ***
+xuiloman: calls $2
+FHstyles: checks
+*** FLOP *** [6c 2d 4d]
+FHstyles: checks
+xuiloman: bets $3
+FHstyles: raises $3 to $6
+xuiloman: calls $3
+*** TURN *** [6c 2d 4d] [Qh]
+GoliafUa joins the table at seat #5
+FHstyles: bets $6
+xuiloman: calls $6
+*** RIVER *** [6c 2d 4d Qh] [5c]
+FHstyles: bets $6
+xuiloman: calls $6
+*** SHOW DOWN ***
+FHstyles: shows [6s 2h] (two pair, Sixes and Deuces)
+xuiloman: mucks hand
+FHstyles collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [6c 2d 4d Qh 5c]
+Seat 3: xuiloman (button) (small blind) mucked
+Seat 4: FHstyles (big blind) showed [6s 2h] and won ($41.50) with two pair, Sixes and Deuces
+
+

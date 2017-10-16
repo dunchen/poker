@@ -1,0 +1,89 @@
+PokerStars Hand #162767000577:  Hold'em Limit ($3/$6 USD) - 2016/12/11 9:03:47 ET
+Table 'Schedios III' 6-max Seat #1 is the button
+Seat 1: feilinho ($98.94 in chips)
+Seat 2: jl45259071 ($96.04 in chips)
+feilinho: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+feilinho: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [6s As 7s]
+jl45259071: checks
+feilinho: bets $3
+jl45259071: calls $3
+*** TURN *** [6s As 7s] [Ks]
+Hannibal2211 joins the table at seat #3
+jl45259071: bets $6
+feilinho: folds
+Uncalled bet ($6) returned to jl45259071
+jl45259071 collected $17.64 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6s As 7s Ks]
+Seat 1: feilinho (button) (small blind) folded on the Turn
+Seat 2: jl45259071 (big blind) collected ($17.64)
+
+
+PokerStars Hand #162766987649:  Hold'em Limit ($3/$6 USD) - 2016/12/11 9:03:30 ET
+Table 'Schedios III' 6-max Seat #2 is the button
+Seat 1: feilinho ($99 in chips)
+Seat 2: jl45259071 ($96.10 in chips)
+jl45259071: posts small blind $1
+feilinho: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+feilinho: checks
+*** FLOP *** [4d 6h 3c]
+feilinho: checks
+jl45259071: checks
+*** TURN *** [4d 6h 3c] [2s]
+feilinho: checks
+jl45259071: checks
+*** RIVER *** [4d 6h 3c 2s] [5d]
+feilinho: checks
+jl45259071: checks
+*** SHOW DOWN ***
+feilinho: shows [9d Js] (a straight, Deuce to Six)
+jl45259071: shows [9c 8d] (a straight, Deuce to Six)
+feilinho collected $2.94 from pot
+jl45259071 collected $2.94 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [4d 6h 3c 2s 5d]
+Seat 1: feilinho (big blind) showed [9d Js] and won ($2.94) with a straight, Deuce to Six
+Seat 2: jl45259071 (button) (small blind) showed [9c 8d] and won ($2.94) with a straight, Deuce to Six
+
+
+PokerStars Hand #162766961618:  Hold'em Limit ($3/$6 USD) - 2016/12/11 9:02:55 ET
+Table 'Schedios III' 6-max Seat #1 is the button
+Seat 1: feilinho ($120 in chips)
+Seat 2: jl45259071 ($75.60 in chips)
+feilinho: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+feilinho: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [8s Ah Qd]
+jl45259071: checks
+feilinho: bets $3
+jl45259071: calls $3
+*** TURN *** [8s Ah Qd] [9c]
+jl45259071: checks
+feilinho: bets $6
+jl45259071: calls $6
+*** RIVER *** [8s Ah Qd 9c] [3d]
+jl45259071: checks
+feilinho: bets $6
+jl45259071: calls $6
+*** SHOW DOWN ***
+feilinho: shows [5h 7s] (high card Ace)
+jl45259071: shows [6h 8d] (a pair of Eights)
+jl45259071 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [8s Ah Qd 9c 3d]
+Seat 1: feilinho (button) (small blind) showed [5h 7s] and lost with high card Ace
+Seat 2: jl45259071 (big blind) showed [6h 8d] and won ($41.50) with a pair of Eights
+
+

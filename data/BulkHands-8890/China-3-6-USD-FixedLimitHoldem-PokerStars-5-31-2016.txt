@@ -1,0 +1,79 @@
+PokerStars Hand #154089579972:  Hold'em Limit ($3/$6 USD) - 2016/05/31 8:13:04 ET
+Table 'China' 6-max Seat #2 is the button
+Seat 2: Nordq ($62.58 in chips)
+Seat 3: oregordog ($120 in chips)
+Nordq: posts small blind $1
+oregordog: posts big blind $3
+*** HOLE CARDS ***
+Nordq: raises $3 to $6
+oregordog: raises $3 to $9
+Nordq: calls $3
+*** FLOP *** [6c 6s 4h]
+oregordog: bets $3
+Nordq: raises $3 to $6
+oregordog: calls $3
+*** TURN *** [6c 6s 4h] [7s]
+oregordog: checks
+Nordq: bets $6
+oregordog: calls $6
+*** RIVER *** [6c 6s 4h 7s] [Kc]
+oregordog: checks
+Nordq: bets $6
+oregordog: folds
+Uncalled bet ($6) returned to Nordq
+Nordq collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [6c 6s 4h 7s Kc]
+Seat 2: Nordq (button) (small blind) collected ($41.50)
+Seat 3: oregordog (big blind) folded on the River
+
+
+PokerStars Hand #154090354898:  Hold'em Limit ($3/$6 USD) - 2016/05/31 8:38:33 ET
+Table 'China' 6-max Seat #5 is the button
+Seat 3: Matholi ($94.39 in chips)
+Seat 5: ABATAPP ($80.46 in chips)
+ABATAPP: posts small blind $1
+Nordq: is sitting out
+Matholi: posts big blind $3
+*** HOLE CARDS ***
+ABATAPP: raises $3 to $6
+Matholi: calls $3
+*** FLOP *** [6d 7h Qd]
+Matholi: checks
+ABATAPP: checks
+*** TURN *** [6d 7h Qd] [Th]
+Matholi: bets $6
+ABATAPP: folds
+Uncalled bet ($6) returned to Matholi
+Matholi collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6d 7h Qd Th]
+Seat 3: Matholi (big blind) collected ($11.76)
+Seat 5: ABATAPP (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #154090361329:  Hold'em Limit ($3/$6 USD) - 2016/05/31 8:38:46 ET
+Table 'China' 6-max Seat #3 is the button
+Seat 3: Matholi ($100.15 in chips)
+Seat 5: ABATAPP ($74.46 in chips)
+Matholi: posts small blind $1
+ABATAPP: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl leaves the table
+Matholi: raises $3 to $6
+ABATAPP: calls $3
+*** FLOP *** [2d Ah Qh]
+ABATAPP: checks
+Matholi: bets $3
+ABATAPP: folds
+Uncalled bet ($3) returned to Matholi
+Matholi collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2d Ah Qh]
+Seat 3: Matholi (button) (small blind) collected ($11.76)
+Seat 5: ABATAPP (big blind) folded on the Flop
+
+

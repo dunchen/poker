@@ -1,0 +1,63 @@
+PokerStars Hand #151501836403:  Hold'em Limit ($3/$6 USD) - 2016/04/06 1:00:35 ET
+Table 'Sirius' 6-max Seat #6 is the button
+Seat 4: VolkovDmitri ($120 in chips)
+Seat 6: IR0NIC ($120 in chips)
+IR0NIC: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+IR0NIC: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Qs 3s Qh]
+VolkovDmitri: checks
+IR0NIC: bets $3
+VolkovDmitri: raises $3 to $6
+IR0NIC: raises $3 to $9
+VolkovDmitri: calls $3
+*** TURN *** [Qs 3s Qh] [4d]
+VolkovDmitri: checks
+IR0NIC: checks
+*** RIVER *** [Qs 3s Qh 4d] [8d]
+VolkovDmitri: checks
+IR0NIC: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to IR0NIC
+IR0NIC collected $29.50 from pot
+IR0NIC: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qs 3s Qh 4d 8d]
+Seat 4: VolkovDmitri (big blind) folded on the River
+Seat 6: IR0NIC (button) (small blind) collected ($29.50)
+
+
+PokerStars Hand #151501847928:  Hold'em Limit ($3/$6 USD) - 2016/04/06 1:01:22 ET
+Table 'Sirius' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($120 in chips)
+Seat 6: IR0NIC ($134.50 in chips)
+VolkovDmitri: posts small blind $1
+IR0NIC: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+IR0NIC: calls $3
+*** FLOP *** [Ad 9d Ah]
+IR0NIC: checks
+MissEKAmouse joins the table at seat #2
+VolkovDmitri: bets $3
+IR0NIC: calls $3
+*** TURN *** [Ad 9d Ah] [7h]
+IR0NIC: checks
+VolkovDmitri: checks
+*** RIVER *** [Ad 9d Ah 7h] [Js]
+IR0NIC: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+IR0NIC: shows [Qc 9c] (two pair, Aces and Nines)
+VolkovDmitri: shows [8h Jd] (two pair, Aces and Jacks)
+VolkovDmitri collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ad 9d Ah 7h Js]
+Seat 4: VolkovDmitri (button) (small blind) showed [8h Jd] and won ($29.50) with two pair, Aces and Jacks
+Seat 6: IR0NIC (big blind) showed [Qc 9c] and lost with two pair, Aces and Nines
+
+

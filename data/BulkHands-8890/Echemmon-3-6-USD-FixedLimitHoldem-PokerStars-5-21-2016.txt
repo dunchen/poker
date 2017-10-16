@@ -1,0 +1,51 @@
+PokerStars Hand #153628157420:  Hold'em Limit ($3/$6 USD) - 2016/05/21 8:28:40 ET
+Table 'Echemmon' 10-max Seat #10 is the button
+Seat 7: SirRomanov ($72 in chips)
+Seat 10: Tryptamean ($116.64 in chips)
+Tryptamean: posts small blind $1
+tranduc: is sitting out
+SirRomanov: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+SirRomanov: calls $3
+*** FLOP *** [Kd 2s 9s]
+SirRomanov: checks
+Tryptamean: bets $3
+tranduc leaves the table
+SirRomanov: calls $3
+*** TURN *** [Kd 2s 9s] [8c]
+SirRomanov: checks
+Tryptamean: bets $6
+SirRomanov: calls $6
+*** RIVER *** [Kd 2s 9s 8c] [Td]
+SirRomanov: checks
+Tryptamean: bets $6
+SirRomanov: folds
+Uncalled bet ($6) returned to Tryptamean
+Tryptamean collected $29.50 from pot
+Tryptamean: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kd 2s 9s 8c Td]
+Seat 7: SirRomanov (big blind) folded on the River
+Seat 10: Tryptamean (button) (small blind) collected ($29.50)
+
+
+PokerStars Hand #153628178632:  Hold'em Limit ($3/$6 USD) - 2016/05/21 8:29:19 ET
+Table 'Echemmon' 10-max Seat #7 is the button
+Seat 7: SirRomanov ($72 in chips)
+Seat 10: Tryptamean ($131.14 in chips)
+SirRomanov: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+SirRomanov: raises $3 to $6
+Tryptamean: folds
+Uncalled bet ($3) returned to SirRomanov
+SirRomanov collected $6 from pot
+SirRomanov: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 7: SirRomanov (button) (small blind) collected ($6)
+Seat 10: Tryptamean (big blind) folded before Flop
+
+

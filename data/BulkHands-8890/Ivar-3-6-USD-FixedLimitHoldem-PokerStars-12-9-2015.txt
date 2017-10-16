@@ -1,0 +1,62 @@
+PokerStars Hand #145081099615:  Hold'em Limit ($3/$6 USD) - 2015/12/09 13:11:52 ET
+Table 'Ivar' 6-max Seat #3 is the button
+Seat 3: Puzanchik 11 ($61.23 in chips)
+Seat 4: Karpik09 ($82 in chips)
+Puzanchik 11: posts small blind $1
+Karpik09: posts big blind $3
+*** HOLE CARDS ***
+Puzanchik 11: raises $3 to $6
+Karpik09: calls $3
+*** FLOP *** [Qd 2s 2h]
+Karpik09: checks
+Puzanchik 11: bets $3
+Karpik09: calls $3
+*** TURN *** [Qd 2s 2h] [2d]
+Karpik09: checks
+Puzanchik 11: checks
+*** RIVER *** [Qd 2s 2h 2d] [Kd]
+Karpik09: checks
+Puzanchik 11: checks
+*** SHOW DOWN ***
+Karpik09: shows [7h As] (three of a kind, Deuces)
+Puzanchik 11: mucks hand
+Karpik09 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qd 2s 2h 2d Kd]
+Seat 3: Puzanchik 11 (button) (small blind) mucked
+Seat 4: Karpik09 (big blind) showed [7h As] and won ($17.64) with three of a kind, Deuces
+
+
+PokerStars Hand #145081226815:  Hold'em Limit ($3/$6 USD) - 2015/12/09 13:14:12 ET
+Table 'Ivar' 6-max Seat #5 is the button
+Seat 4: Karpik09 ($89.64 in chips)
+Seat 5: Great_Kang ($120 in chips)
+Great_Kang: posts small blind $1
+Karpik09: posts big blind $3
+*** HOLE CARDS ***
+Puzanchik 11 leaves the table
+Great_Kang: raises $3 to $6
+Karpik09: calls $3
+*** FLOP *** [4s Js As]
+Karpik09: checks
+Great_Kang: bets $3
+Karpik09: raises $3 to $6
+Great_Kang: calls $3
+*** TURN *** [4s Js As] [2c]
+Karpik09: bets $6
+Great_Kang: calls $6
+*** RIVER *** [4s Js As 2c] [8d]
+Karpik09: bets $6
+Great_Kang: calls $6
+*** SHOW DOWN ***
+Karpik09: shows [Ah 6h] (a pair of Aces)
+Great_Kang: mucks hand
+Karpik09 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4s Js As 2c 8d]
+Seat 4: Karpik09 (big blind) showed [Ah 6h] and won ($47.50) with a pair of Aces
+Seat 5: Great_Kang (button) (small blind) mucked
+
+

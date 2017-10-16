@@ -1,0 +1,33 @@
+PokerStars Hand #152917049390:  Hold'em Limit ($3/$6 USD) - 2016/05/06 0:27:55 ET
+Table 'Dolios' 6-max Seat #3 is the button
+Seat 3: carmello774 ($120 in chips)
+Seat 4: Mudager ($120 in chips)
+carmello774: posts small blind $1
+Mudager: posts big blind $3
+*** HOLE CARDS ***
+carmello774: raises $3 to $6
+Mudager: calls $3
+*** FLOP *** [4c 5s Js]
+Mudager: checks
+carmello774: bets $3
+Mudager: raises $3 to $6
+carmello774: raises $3 to $9
+Mudager: calls $3
+*** TURN *** [4c 5s Js] [6d]
+Mudager: checks
+carmello774: checks
+*** RIVER *** [4c 5s Js 6d] [7h]
+Mudager: bets $6
+carmello774: raises $6 to $12
+Mudager: calls $6
+*** SHOW DOWN ***
+carmello774: shows [4h 8h] (a straight, Four to Eight)
+Mudager: mucks hand
+carmello774 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [4c 5s Js 6d 7h]
+Seat 3: carmello774 (button) (small blind) showed [4h 8h] and won ($53.50) with a straight, Four to Eight
+Seat 4: Mudager (big blind) mucked
+
+

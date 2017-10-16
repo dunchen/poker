@@ -1,0 +1,31 @@
+PokerStars Hand #159945135228:  Hold'em Limit ($3/$6 USD) - 2016/10/14 21:15:01 ET
+Table 'Frigga' 6-max Seat #1 is the button
+Seat 1: RGSmith1 ($44.71 in chips)
+Seat 4: FHstyles ($60 in chips)
+RGSmith1: posts small blind $1
+FHstyles: posts big blind $3
+*** HOLE CARDS ***
+RGSmith1: raises $3 to $6
+FHstyles: calls $3
+*** FLOP *** [9s 5h 6c]
+FHstyles: checks
+RGSmith1: bets $3
+FHstyles: raises $3 to $6
+RGSmith1: calls $3
+*** TURN *** [9s 5h 6c] [9h]
+FHstyles: bets $6
+RGSmith1: calls $6
+*** RIVER *** [9s 5h 6c 9h] [8d]
+FHstyles: bets $6
+RGSmith1: calls $6
+*** SHOW DOWN ***
+FHstyles: shows [Qs 8h] (two pair, Nines and Eights)
+RGSmith1: mucks hand
+FHstyles collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9s 5h 6c 9h 8d]
+Seat 1: RGSmith1 (button) (small blind) mucked
+Seat 4: FHstyles (big blind) showed [Qs 8h] and won ($47.50) with two pair, Nines and Eights
+
+

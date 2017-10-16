@@ -1,0 +1,52 @@
+PokerStars Hand #144275988724:  Hold'em Limit ($3/$6 USD) - 2015/11/23 14:33:45 ET
+Table 'Graffias II' 2-max Seat #1 is the button
+Seat 1: echsecution ($100.14 in chips)
+Seat 2: jl45259071 ($17.94 in chips)
+echsecution: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+echsecution: raises $3 to $6
+jl45259071: raises $3 to $9
+echsecution: calls $3
+*** FLOP *** [Ts Ah 9h]
+jl45259071: bets $3
+echsecution: calls $3
+*** TURN *** [Ts Ah 9h] [Ks]
+jl45259071: bets $5.94 and is all-in
+echsecution: calls $5.94
+*** RIVER *** [Ts Ah 9h Ks] [8d]
+*** SHOW DOWN ***
+jl45259071: shows [Ac 6c] (a pair of Aces)
+echsecution: shows [Tc 9d] (two pair, Tens and Nines)
+echsecution collected $35.38 from pot
+*** SUMMARY ***
+Total pot $35.88 | Rake $0.50
+Board [Ts Ah 9h Ks 8d]
+Seat 1: echsecution (button) (small blind) showed [Tc 9d] and won ($35.38) with two pair, Tens and Nines
+Seat 2: jl45259071 (big blind) showed [Ac 6c] and lost with a pair of Aces
+
+
+PokerStars Hand #144275976748:  Hold'em Limit ($3/$6 USD) - 2015/11/23 14:33:33 ET
+Table 'Graffias II' 2-max Seat #2 is the button
+Seat 1: echsecution ($94.38 in chips)
+Seat 2: jl45259071 ($23.94 in chips)
+jl45259071: posts small blind $1
+echsecution: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+echsecution: checks
+*** FLOP *** [6d Kd Qd]
+echsecution: checks
+jl45259071: bets $3
+echsecution: raises $3 to $6
+jl45259071: folds
+Uncalled bet ($3) returned to echsecution
+echsecution collected $11.76 from pot
+echsecution: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6d Kd Qd]
+Seat 1: echsecution (big blind) collected ($11.76)
+Seat 2: jl45259071 (button) (small blind) folded on the Flop
+
+

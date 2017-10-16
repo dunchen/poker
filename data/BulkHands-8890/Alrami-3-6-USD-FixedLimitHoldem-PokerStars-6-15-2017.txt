@@ -1,0 +1,60 @@
+PokerStars Hand #171814906649:  Hold'em Limit ($3/$6 USD) - 2017/06/15 15:14:24 ET
+Table 'Alrami' 6-max Seat #4 is the button
+Seat 2: popesxxx ($61.52 in chips)
+Seat 4: Jack_Wu1985 ($108.03 in chips)
+Jack_Wu1985: posts small blind $1
+popesxxx: posts big blind $3
+*** HOLE CARDS ***
+Jack_Wu1985: raises $3 to $6
+popesxxx: calls $3
+*** FLOP *** [2c Ad 3s]
+popesxxx: checks
+Jack_Wu1985: checks
+*** TURN *** [2c Ad 3s] [3c]
+popesxxx: checks
+Jack_Wu1985: bets $6
+popesxxx: calls $6
+*** RIVER *** [2c Ad 3s 3c] [4c]
+popesxxx: checks
+Jack_Wu1985: checks
+*** SHOW DOWN ***
+popesxxx: shows [As 2s] (two pair, Aces and Threes)
+Jack_Wu1985: mucks hand
+popesxxx collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [2c Ad 3s 3c 4c]
+Seat 2: popesxxx (big blind) showed [As 2s] and won ($23.52) with two pair, Aces and Threes
+Seat 4: Jack_Wu1985 (button) (small blind) mucked
+
+
+PokerStars Hand #171814875496:  Hold'em Limit ($3/$6 USD) - 2017/06/15 15:13:44 ET
+Table 'Alrami' 6-max Seat #2 is the button
+Seat 2: popesxxx ($50 in chips)
+Seat 4: Jack_Wu1985 ($67.03 in chips)
+popesxxx: posts small blind $1
+Jack_Wu1985: posts big blind $3
+*** HOLE CARDS ***
+popesxxx: calls $2
+Jack_Wu1985: checks
+*** FLOP *** [7h 5h Qc]
+Jack_Wu1985: bets $3
+popesxxx: calls $3
+*** TURN *** [7h 5h Qc] [Ah]
+Jack_Wu1985: bets $6
+popesxxx: calls $6
+*** RIVER *** [7h 5h Qc Ah] [4c]
+vestimokrec joins the table at seat #3
+GoliafUa leaves the table
+Jack_Wu1985: checks
+popesxxx: bets $6
+Jack_Wu1985: folds
+Uncalled bet ($6) returned to popesxxx
+popesxxx collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [7h 5h Qc Ah 4c]
+Seat 2: popesxxx (button) (small blind) collected ($23.52)
+Seat 4: Jack_Wu1985 (big blind) folded on the River
+
+

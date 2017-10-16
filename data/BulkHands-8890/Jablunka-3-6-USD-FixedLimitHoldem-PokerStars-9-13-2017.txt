@@ -1,0 +1,52 @@
+PokerStars Hand #175596896282:  Hold'em Limit ($3/$6 USD) - 2017/09/13 13:50:39 ET
+Table 'Jablunka' 6-max Seat #4 is the button
+Seat 1: Kraelius ($143.50 in chips)
+Seat 4: Agrotait ($42 in chips)
+Agrotait: posts small blind $1
+Kraelius: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+Kraelius: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $6 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: Kraelius (big blind) folded before Flop
+Seat 4: Agrotait (button) (small blind) collected ($6)
+
+
+PokerStars Hand #175596874102:  Hold'em Limit ($3/$6 USD) - 2017/09/13 13:50:09 ET
+Table 'Jablunka' 6-max Seat #1 is the button
+Seat 1: Kraelius ($120 in chips)
+Seat 4: Agrotait ($66 in chips)
+Kraelius: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec joins the table at seat #2
+Kraelius: calls $2
+Agrotait: raises $3 to $6
+Kraelius: calls $3
+*** FLOP *** [2s 6s Ks]
+Agrotait: bets $3
+Kraelius: raises $3 to $6
+Agrotait: calls $3
+*** TURN *** [2s 6s Ks] [7s]
+Agrotait: checks
+Kraelius: bets $6
+Agrotait: calls $6
+*** RIVER *** [2s 6s Ks 7s] [Ts]
+Agrotait: checks
+Kraelius: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+Kraelius: shows [5c Qs] (a flush, King high)
+Agrotait: mucks hand
+Kraelius collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2s 6s Ks 7s Ts]
+Seat 1: Kraelius (button) (small blind) showed [5c Qs] and won ($47.50) with a flush, King high
+Seat 4: Agrotait (big blind) mucked
+
+

@@ -1,0 +1,31 @@
+PokerStars Hand #149402164428:  Hold'em Limit ($3/$6 USD) - 2016/02/25 14:00:25 ET
+Table 'Philia II' 6-max Seat #6 is the button
+Seat 5: AzureCaper ($72 in chips)
+Seat 6: vestimokrec ($145.38 in chips)
+vestimokrec: posts small blind $1
+LukaSteel: is sitting out
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [5d 8h 9h]
+AzureCaper: checks
+vestimokrec: checks
+*** TURN *** [5d 8h 9h] [Jc]
+AzureCaper: checks
+LukaSteel leaves the table
+vestimokrec: checks
+*** RIVER *** [5d 8h 9h Jc] [4d]
+AzureCaper: checks
+vestimokrec: checks
+*** SHOW DOWN ***
+AzureCaper: shows [Ks 3s] (high card King)
+vestimokrec: shows [6d Ah] (high card Ace)
+vestimokrec collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5d 8h 9h Jc 4d]
+Seat 5: AzureCaper (big blind) showed [Ks 3s] and lost with high card King
+Seat 6: vestimokrec (button) (small blind) showed [6d Ah] and won ($11.76) with high card Ace
+
+

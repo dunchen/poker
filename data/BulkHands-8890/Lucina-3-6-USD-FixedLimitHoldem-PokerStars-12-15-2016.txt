@@ -1,0 +1,63 @@
+PokerStars Hand #162974366576:  Hold'em Limit ($3/$6 USD) - 2016/12/15 6:48:48 ET
+Table 'Lucina' 6-max Seat #2 is the button
+Seat 1: davyyyyyyy ($109.83 in chips)
+Seat 2: ToDaFelt ($93 in chips)
+ToDaFelt: posts small blind $1
+Agrotait: is sitting out
+B_loJkl: is sitting out
+davyyyyyyy: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+B_loJkl leaves the table
+davyyyyyyy: calls $3
+*** FLOP *** [Qs 2c Jc]
+B_loJkl joins the table at seat #3
+davyyyyyyy: checks
+Agrotait leaves the table
+ToDaFelt: bets $3
+davyyyyyyy: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $11.76 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qs 2c Jc]
+Seat 1: davyyyyyyy (big blind) folded on the Flop
+Seat 2: ToDaFelt (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #162974373292:  Hold'em Limit ($3/$6 USD) - 2016/12/15 6:49:02 ET
+Table 'Lucina' 6-max Seat #1 is the button
+Seat 1: davyyyyyyy ($103.83 in chips)
+Seat 2: ToDaFelt ($98.76 in chips)
+davyyyyyyy: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+davyyyyyyy: raises $3 to $6
+Alexsandr.NT joins the table at seat #6
+ToDaFelt: raises $3 to $9
+davyyyyyyy: raises $3 to $12
+Betting is capped
+ToDaFelt: calls $3
+*** FLOP *** [Ts Jd 5c]
+ToDaFelt: checks
+davyyyyyyy: bets $3
+ToDaFelt: calls $3
+*** TURN *** [Ts Jd 5c] [6c]
+ToDaFelt: checks
+davyyyyyyy: checks
+*** RIVER *** [Ts Jd 5c 6c] [8s]
+ToDaFelt: bets $6
+davyyyyyyy: raises $6 to $12
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+davyyyyyyy: shows [9c 7s] (a straight, Seven to Jack)
+ToDaFelt: mucks hand
+davyyyyyyy collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Ts Jd 5c 6c 8s]
+Seat 1: davyyyyyyy (button) (small blind) showed [9c 7s] and won ($53.50) with a straight, Seven to Jack
+Seat 2: ToDaFelt (big blind) mucked
+
+

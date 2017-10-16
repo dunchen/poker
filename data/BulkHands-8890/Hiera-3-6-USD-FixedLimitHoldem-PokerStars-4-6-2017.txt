@@ -1,0 +1,50 @@
+PokerStars Hand #168644565486:  Hold'em Limit ($3/$6 USD) - 2017/04/06 2:34:23 ET
+Table 'Hiera' 6-max Seat #6 is the button
+Seat 2: kudongo ($139.58 in chips)
+Seat 6: CharginWapos ($268.33 in chips)
+CharginWapos: posts small blind $1
+kudongo: posts big blind $3
+*** HOLE CARDS ***
+CharginWapos: raises $3 to $6
+kudongo: calls $3
+*** FLOP *** [Jh 4d Kh]
+Macan leaves the table
+kudongo: checks
+CharginWapos: checks
+*** TURN *** [Jh 4d Kh] [Ts]
+kudongo: checks
+CharginWapos: bets $6
+kudongo: calls $6
+*** RIVER *** [Jh 4d Kh Ts] [8c]
+kudongo: checks
+CharginWapos: checks
+*** SHOW DOWN ***
+kudongo: shows [As 6s] (high card Ace)
+CharginWapos: shows [8h Qs] (a pair of Eights)
+CharginWapos collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Jh 4d Kh Ts 8c]
+Seat 2: kudongo (big blind) showed [As 6s] and lost with high card Ace
+Seat 6: CharginWapos (button) (small blind) showed [8h Qs] and won ($23.52) with a pair of Eights
+
+
+PokerStars Hand #168644563572:  Hold'em Limit ($3/$6 USD) - 2017/04/06 2:34:15 ET
+Table 'Hiera' 6-max Seat #2 is the button
+Seat 2: kudongo ($140.58 in chips)
+Seat 6: CharginWapos ($267.33 in chips)
+kudongo: posts small blind $1
+Agrotait: is sitting out
+CharginWapos: posts big blind $3
+*** HOLE CARDS ***
+Agrotait leaves the table
+kudongo: folds
+Uncalled bet ($2) returned to CharginWapos
+CharginWapos collected $2 from pot
+CharginWapos: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: kudongo (button) (small blind) folded before Flop
+Seat 6: CharginWapos (big blind) collected ($2)
+
+

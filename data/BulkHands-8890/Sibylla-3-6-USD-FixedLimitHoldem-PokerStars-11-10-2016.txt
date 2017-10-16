@@ -1,0 +1,80 @@
+PokerStars Hand #161199666316:  Hold'em Limit ($3/$6 USD) - 2016/11/10 14:16:31 ET
+Table 'Sibylla' 10-max Seat #2 is the button
+Seat 1: perten ($52.55 in chips)
+Seat 2: B_loJkl ($125.08 in chips)
+B_loJkl: posts small blind $1
+perten: posts big blind $3
+*** HOLE CARDS ***
+Icecold leaves the table
+B_loJkl: raises $3 to $6
+perten: calls $3
+*** FLOP *** [Qd 4s Ac]
+perten: checks
+B_loJkl: checks
+*** TURN *** [Qd 4s Ac] [Ks]
+perten: checks
+B_loJkl: checks
+*** RIVER *** [Qd 4s Ac Ks] [6s]
+perten: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+perten: shows [6h 8d] (a pair of Sixes)
+B_loJkl: shows [3c Qh] (a pair of Queens)
+B_loJkl collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Qd 4s Ac Ks 6s]
+Seat 1: perten (big blind) showed [6h 8d] and lost with a pair of Sixes
+Seat 2: B_loJkl (button) (small blind) showed [3c Qh] and won ($23.52) with a pair of Queens
+
+
+PokerStars Hand #161199683470:  Hold'em Limit ($3/$6 USD) - 2016/11/10 14:16:50 ET
+Table 'Sibylla' 10-max Seat #1 is the button
+Seat 1: perten ($40.55 in chips)
+Seat 2: B_loJkl ($136.60 in chips)
+perten: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+perten: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: perten (button) (small blind) folded before Flop
+Seat 2: B_loJkl (big blind) collected ($2)
+
+
+PokerStars Hand #161199688616:  Hold'em Limit ($3/$6 USD) - 2016/11/10 14:16:56 ET
+Table 'Sibylla' 10-max Seat #2 is the button
+Seat 1: perten ($39.55 in chips)
+Seat 2: B_loJkl ($137.60 in chips)
+B_loJkl: posts small blind $1
+perten: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+perten: raises $3 to $9
+B_loJkl: calls $3
+*** FLOP *** [Kh Th 7s]
+perten: bets $3
+B_loJkl: raises $3 to $6
+perten: calls $3
+*** TURN *** [Kh Th 7s] [Ad]
+perten: checks
+B_loJkl: bets $6
+perten: calls $6
+*** RIVER *** [Kh Th 7s Ad] [2c]
+perten: checks
+B_loJkl: bets $6
+perten: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [Kd 2s] (two pair, Kings and Deuces)
+perten: mucks hand
+B_loJkl collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Kh Th 7s Ad 2c]
+Seat 1: perten (big blind) mucked
+Seat 2: B_loJkl (button) (small blind) showed [Kd 2s] and won ($53.50) with two pair, Kings and Deuces
+
+

@@ -1,0 +1,87 @@
+PokerStars Hand #171154546770:  Hold'em Limit ($3/$6 USD) - 2017/05/31 9:25:41 ET
+Table 'Ninina' 10-max Seat #6 is the button
+Seat 6: sim5sim5 ($72 in chips)
+Seat 7: harbour ($120 in chips)
+sim5sim5: posts small blind $1
+harbour: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+B_loJkl joins the table at seat #8
+harbour: calls $3
+*** FLOP *** [2h 9d 6c]
+harbour: checks
+sim5sim5: bets $3
+harbour: calls $3
+*** TURN *** [2h 9d 6c] [9s]
+harbour: checks
+sim5sim5: checks
+*** RIVER *** [2h 9d 6c 9s] [Qc]
+harbour: checks
+sim5sim5: checks
+*** SHOW DOWN ***
+harbour: shows [3h Ac] (a pair of Nines)
+sim5sim5: mucks hand
+harbour collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2h 9d 6c 9s Qc]
+Seat 6: sim5sim5 (button) (small blind) mucked
+Seat 7: harbour (big blind) showed [3h Ac] and won ($17.64) with a pair of Nines
+
+
+PokerStars Hand #171154662627:  Hold'em Limit ($3/$6 USD) - 2017/05/31 9:29:26 ET
+Table 'Ninina' 10-max Seat #6 is the button
+Seat 6: sim5sim5 ($73 in chips)
+Seat 8: B_loJkl ($178.14 in chips)
+sim5sim5: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+harbour leaves the table
+sim5sim5: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Jd 3d Th]
+B_loJkl: checks
+sim5sim5: bets $3
+B_loJkl: calls $3
+*** TURN *** [Jd 3d Th] [8s]
+B_loJkl: checks
+sim5sim5: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to sim5sim5
+sim5sim5 collected $17.64 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Jd 3d Th 8s]
+Seat 6: sim5sim5 (button) (small blind) collected ($17.64)
+Seat 8: B_loJkl (big blind) folded on the Turn
+
+
+PokerStars Hand #171154682888:  Hold'em Limit ($3/$6 USD) - 2017/05/31 9:30:05 ET
+Table 'Ninina' 10-max Seat #8 is the button
+Seat 6: sim5sim5 ($81.64 in chips)
+Seat 8: B_loJkl ($169.14 in chips)
+B_loJkl: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+sim5sim5: calls $3
+*** FLOP *** [5d 2c 5h]
+sim5sim5: checks
+B_loJkl: checks
+*** TURN *** [5d 2c 5h] [Tc]
+sim5sim5: bets $6
+B_loJkl: calls $6
+*** RIVER *** [5d 2c 5h Tc] [4h]
+sim5sim5: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to sim5sim5
+sim5sim5 collected $23.52 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [5d 2c 5h Tc 4h]
+Seat 6: sim5sim5 (big blind) collected ($23.52)
+Seat 8: B_loJkl (button) (small blind) folded on the River
+
+

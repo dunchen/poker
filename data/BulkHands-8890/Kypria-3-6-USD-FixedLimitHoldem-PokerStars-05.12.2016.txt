@@ -1,0 +1,31 @@
+PokerStars Hand #162478292931:  Hold'em Limit ($3/$6 USD) - 2016/12/05 18:14:13 ET
+Table 'Kypria' 6-max Seat #3 is the button
+Seat 3: vestimokrec ($154.72 in chips)
+Seat 6: RaisemyNut$ ($60 in chips)
+vestimokrec: posts small blind $1
+GRAILKO: is sitting out
+RaisemyNut$: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+GRAILKO leaves the table
+RaisemyNut$: calls $3
+*** FLOP *** [3s 9c Ac]
+RaisemyNut$: checks
+vestimokrec: checks
+*** TURN *** [3s 9c Ac] [Qd]
+RaisemyNut$: checks
+vestimokrec: checks
+*** RIVER *** [3s 9c Ac Qd] [8h]
+RaisemyNut$: checks
+vestimokrec: checks
+*** SHOW DOWN ***
+RaisemyNut$: shows [5d 6h] (high card Ace)
+vestimokrec: shows [Ks 6d] (high card Ace - King kicker)
+vestimokrec collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3s 9c Ac Qd 8h]
+Seat 3: vestimokrec (button) (small blind) showed [Ks 6d] and won ($11.76) with high card Ace
+Seat 6: RaisemyNut$ (big blind) showed [5d 6h] and lost with high card Ace
+
+

@@ -1,0 +1,83 @@
+PokerStars Hand #165001065334:  Hold'em Limit ($3/$6 USD) - 2017/01/22 14:19:42 ET
+Table 'Aletta' 6-max Seat #6 is the button
+Seat 5: supersjakie ($58.13 in chips)
+Seat 6: volkovsky ($142 in chips)
+volkovsky: posts small blind $1
+supersjakie: posts big blind $3
+*** HOLE CARDS ***
+volkovsky: raises $3 to $6
+Luanto 14 joins the table at seat #1
+supersjakie: calls $3
+*** FLOP *** [Th Jh 8h]
+supersjakie: checks
+volkovsky: checks
+*** TURN *** [Th Jh 8h] [4h]
+supersjakie: bets $6
+volkovsky: folds
+Uncalled bet ($6) returned to supersjakie
+supersjakie collected $11.76 from pot
+supersjakie: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Th Jh 8h 4h]
+Seat 5: supersjakie (big blind) collected ($11.76)
+Seat 6: volkovsky (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #165001093340:  Hold'em Limit ($3/$6 USD) - 2017/01/22 14:20:08 ET
+Table 'Aletta' 6-max Seat #5 is the button
+Seat 5: supersjakie ($63.89 in chips)
+Seat 6: volkovsky ($136 in chips)
+supersjakie: posts small blind $1
+volkovsky: posts big blind $3
+*** HOLE CARDS ***
+supersjakie: raises $3 to $6
+volkovsky: raises $3 to $9
+supersjakie: calls $3
+*** FLOP *** [8h Qs 5h]
+volkovsky: bets $3
+supersjakie: calls $3
+*** TURN *** [8h Qs 5h] [3c]
+volkovsky: bets $6
+supersjakie: calls $6
+*** RIVER *** [8h Qs 5h 3c] [5s]
+volkovsky: bets $6
+supersjakie: calls $6
+*** SHOW DOWN ***
+volkovsky: shows [Td Tc] (two pair, Tens and Fives)
+supersjakie: mucks hand
+volkovsky collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8h Qs 5h 3c 5s]
+Seat 5: supersjakie (button) (small blind) mucked
+Seat 6: volkovsky (big blind) showed [Td Tc] and won ($47.50) with two pair, Tens and Fives
+
+
+PokerStars Hand #165001042559:  Hold'em Limit ($3/$6 USD) - 2017/01/22 14:19:22 ET
+Table 'Aletta' 6-max Seat #6 is the button
+Seat 5: supersjakie ($53.37 in chips)
+Seat 6: volkovsky ($147 in chips)
+volkovsky: posts small blind $1
+AzureCaper: is sitting out
+supersjakie: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper leaves the table
+volkovsky: raises $3 to $6
+supersjakie: calls $3
+*** FLOP *** [Td 7d 5s]
+supersjakie: checks
+volkovsky: checks
+*** TURN *** [Td 7d 5s] [Kd]
+supersjakie: bets $6
+volkovsky: folds
+Uncalled bet ($6) returned to supersjakie
+supersjakie collected $11.76 from pot
+supersjakie: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Td 7d 5s Kd]
+Seat 5: supersjakie (big blind) collected ($11.76)
+Seat 6: volkovsky (button) (small blind) folded on the Turn
+
+

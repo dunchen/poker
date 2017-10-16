@@ -1,0 +1,32 @@
+PokerStars Hand #161630843056:  Hold'em Limit ($3/$6 USD) - 2016/11/19 6:48:51 ET
+Table 'Telesto II' 6-max Seat #1 is the button
+Seat 1: grabaz ($240 in chips)
+Seat 3: MadFox666 ($120 in chips)
+grabaz: posts small blind $1
+MadFox666: posts big blind $3
+*** HOLE CARDS ***
+kolaz03 joins the table at seat #4
+grabaz: raises $3 to $6
+MadFox666: raises $3 to $9
+grabaz: calls $3
+*** FLOP *** [4s 5h 3d]
+MadFox666: bets $3
+grabaz: calls $3
+*** TURN *** [4s 5h 3d] [8c]
+MadFox666: bets $6
+ZinZar joins the table at seat #5
+grabaz: calls $6
+*** RIVER *** [4s 5h 3d 8c] [3h]
+MadFox666: bets $6
+grabaz: calls $6
+*** SHOW DOWN ***
+MadFox666: shows [As 2c] (a straight, Ace to Five)
+grabaz: mucks hand
+MadFox666 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4s 5h 3d 8c 3h]
+Seat 1: grabaz (button) (small blind) mucked
+Seat 3: MadFox666 (big blind) showed [As 2c] and won ($47.50) with a straight, Ace to Five
+
+

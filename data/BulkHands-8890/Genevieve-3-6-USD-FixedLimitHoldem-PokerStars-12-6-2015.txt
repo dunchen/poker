@@ -1,0 +1,52 @@
+PokerStars Hand #144901014556:  Hold'em Limit ($3/$6 USD) - 2015/12/06 5:33:52 ET
+Table 'Genevieve' 6-max Seat #4 is the button
+Seat 3: PycV ($141.09 in chips)
+Seat 4: siliciom ($104.96 in chips)
+siliciom: posts small blind $1
+MTails: is sitting out
+PycV: posts big blind $3
+*** HOLE CARDS ***
+MTails leaves the table
+siliciom: folds
+Uncalled bet ($2) returned to PycV
+PycV collected $2 from pot
+PycV: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: PycV (big blind) collected ($2)
+Seat 4: siliciom (button) (small blind) folded before Flop
+
+
+PokerStars Hand #144901018045:  Hold'em Limit ($3/$6 USD) - 2015/12/06 5:33:59 ET
+Table 'Genevieve' 6-max Seat #3 is the button
+Seat 3: PycV ($142.09 in chips)
+Seat 4: siliciom ($103.96 in chips)
+PycV: posts small blind $1
+siliciom: posts big blind $3
+*** HOLE CARDS ***
+PycV: raises $3 to $6
+siliciom: calls $3
+*** FLOP *** [9c 4d 5h]
+siliciom: checks
+PycV: bets $3
+siliciom: calls $3
+*** TURN *** [9c 4d 5h] [Qs]
+siliciom: checks
+PycV: bets $6
+siliciom: raises $6 to $12
+TbIP-TbIP 88 leaves the table
+PycV: calls $6
+*** RIVER *** [9c 4d 5h Qs] [6s]
+siliciom: bets $6
+PycV: calls $6
+*** SHOW DOWN ***
+siliciom: shows [Qh Jc] (a pair of Queens)
+PycV: mucks hand
+siliciom collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [9c 4d 5h Qs 6s]
+Seat 3: PycV (button) (small blind) mucked
+Seat 4: siliciom (big blind) showed [Qh Jc] and won ($53.50) with a pair of Queens
+
+

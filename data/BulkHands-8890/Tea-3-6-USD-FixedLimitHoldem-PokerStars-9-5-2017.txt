@@ -1,0 +1,107 @@
+PokerStars Hand #175233056074:  Hold'em Limit ($3/$6 USD) - 2017/09/05 6:53:35 ET
+Table 'Tea' 6-max Seat #2 is the button
+Seat 2: Korish9506 ($72 in chips)
+Seat 4: Agrotait ($60 in chips)
+Korish9506: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+Korish9506: calls $2
+Agrotait: raises $3 to $6
+Korish9506: calls $3
+*** FLOP *** [Qs 4c Qh]
+Agrotait: bets $3
+Korish9506: folds
+Uncalled bet ($3) returned to Agrotait
+Psynto joins the table at seat #3
+Agrotait collected $11.76 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qs 4c Qh]
+Seat 2: Korish9506 (button) (small blind) folded on the Flop
+Seat 4: Agrotait (big blind) collected ($11.76)
+
+
+PokerStars Hand #175233066553:  Hold'em Limit ($3/$6 USD) - 2017/09/05 6:54:01 ET
+Table 'Tea' 6-max Seat #4 is the button
+Seat 2: Korish9506 ($66 in chips)
+Seat 4: Agrotait ($65.76 in chips)
+Agrotait: posts small blind $1
+Korish9506: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+Korish9506: calls $3
+*** FLOP *** [Ac As Qd]
+Korish9506: checks
+Agrotait: bets $3
+Korish9506: calls $3
+*** TURN *** [Ac As Qd] [9s]
+Korish9506: checks
+Agrotait: bets $6
+Korish9506: folds
+Uncalled bet ($6) returned to Agrotait
+Agrotait collected $17.64 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ac As Qd 9s]
+Seat 2: Korish9506 (big blind) folded on the Turn
+Seat 4: Agrotait (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #175233207770:  Hold'em Limit ($3/$6 USD) - 2017/09/05 7:00:20 ET
+Table 'Tea' 6-max Seat #3 is the button
+Seat 3: Psynto ($72 in chips)
+Seat 4: Agrotait ($79.83 in chips)
+Bueffel will be allowed to play after the button
+Psynto: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+Psynto: raises $3 to $6
+t9pkin joins the table at seat #1
+Agrotait: calls $3
+*** FLOP *** [3d Ts Jc]
+Agrotait: checks
+Psynto: bets $3
+Agrotait: folds
+Uncalled bet ($3) returned to Psynto
+Psynto collected $11.76 from pot
+Psynto: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3d Ts Jc]
+Seat 3: Psynto (button) (small blind) collected ($11.76)
+Seat 4: Agrotait (big blind) folded on the Flop
+
+
+PokerStars Hand #175233278320:  Hold'em Limit ($3/$6 USD) - 2017/09/05 7:03:16 ET
+Table 'Tea' 6-max Seat #1 is the button
+Seat 1: t9pkin ($104.64 in chips)
+Seat 6: Bueffel ($52.91 in chips)
+t9pkin: posts small blind $1
+Agrotait: is sitting out
+Bueffel: posts big blind $3
+*** HOLE CARDS ***
+t9pkin: raises $3 to $6
+Bueffel: raises $3 to $9
+t9pkin: calls $3
+*** FLOP *** [4d 5s 9d]
+Bueffel: bets $3
+t9pkin: calls $3
+*** TURN *** [4d 5s 9d] [Ts]
+Bueffel: bets $6
+t9pkin: calls $6
+*** RIVER *** [4d 5s 9d Ts] [6h]
+Bueffel: bets $6
+t9pkin: calls $6
+*** SHOW DOWN ***
+Bueffel: shows [Th Td] (three of a kind, Tens)
+t9pkin: mucks hand
+Bueffel collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4d 5s 9d Ts 6h]
+Seat 1: t9pkin (button) (small blind) mucked
+Seat 6: Bueffel (big blind) showed [Th Td] and won ($47.50) with three of a kind, Tens
+
+

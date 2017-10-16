@@ -1,0 +1,33 @@
+PokerStars Hand #161462757127:  Hold'em Limit ($3/$6 USD) - 2016/11/15 17:44:54 ET
+Table 'Oriola' 6-max Seat #4 is the button
+Seat 4: MTails ($120 in chips)
+Seat 5: Brama Br ($120 in chips)
+MTails: posts small blind $1
+Brama Br: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+Brama Br: calls $3
+*** FLOP *** [4s 7d 6h]
+Brama Br: checks
+MTails: bets $3
+Brama Br: raises $3 to $6
+MTails: calls $3
+*** TURN *** [4s 7d 6h] [Jh]
+Brama Br: bets $6
+ToDaFelt joins the table at seat #6
+MTails: calls $6
+*** RIVER *** [4s 7d 6h Jh] [8d]
+Brama Br: checks
+MTails: bets $6
+Brama Br: calls $6
+*** SHOW DOWN ***
+MTails: shows [8c 6s] (two pair, Eights and Sixes)
+Brama Br: mucks hand
+MTails collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4s 7d 6h Jh 8d]
+Seat 4: MTails (button) (small blind) showed [8c 6s] and won ($47.50) with two pair, Eights and Sixes
+Seat 5: Brama Br (big blind) mucked
+
+

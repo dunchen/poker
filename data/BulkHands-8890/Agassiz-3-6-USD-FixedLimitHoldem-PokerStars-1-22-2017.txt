@@ -1,0 +1,81 @@
+PokerStars Hand #165006720413:  Hold'em Limit ($3/$6 USD) - 2017/01/22 15:46:50 ET
+Table 'Agassiz' 6-max Seat #1 is the button
+Seat 1: CardPocketer ($147.12 in chips)
+Seat 4: AzureCaper ($83.07 in chips)
+CardPocketer: posts small blind $1
+234599330: is sitting out
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+CardPocketer: calls $2
+234599330 leaves the table
+AzureCaper: checks
+*** FLOP *** [7d Th Js]
+AzureCaper: bets $3
+CardPocketer: calls $3
+*** TURN *** [7d Th Js] [4h]
+AzureCaper: bets $6
+CardPocketer: raises $6 to $12
+AzureCaper: calls $6
+*** RIVER *** [7d Th Js 4h] [Ah]
+AzureCaper: checks
+CardPocketer: checks
+*** SHOW DOWN ***
+AzureCaper: shows [Jc 3d] (a pair of Jacks)
+CardPocketer: mucks hand
+AzureCaper collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [7d Th Js 4h Ah]
+Seat 1: CardPocketer (button) (small blind) mucked
+Seat 4: AzureCaper (big blind) showed [Jc 3d] and won ($35.50) with a pair of Jacks
+
+
+PokerStars Hand #165006768660:  Hold'em Limit ($3/$6 USD) - 2017/01/22 15:47:34 ET
+Table 'Agassiz' 6-max Seat #1 is the button
+Seat 1: CardPocketer ($102.12 in chips)
+Seat 4: AzureCaper ($127.07 in chips)
+CardPocketer: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+CardPocketer: folds
+Uncalled bet ($2) returned to AzureCaper
+AzureCaper collected $2 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: CardPocketer (button) (small blind) folded before Flop
+Seat 4: AzureCaper (big blind) collected ($2)
+
+
+PokerStars Hand #165006744402:  Hold'em Limit ($3/$6 USD) - 2017/01/22 15:47:12 ET
+Table 'Agassiz' 6-max Seat #4 is the button
+Seat 1: CardPocketer ($129.12 in chips)
+Seat 4: AzureCaper ($100.57 in chips)
+AzureCaper: posts small blind $1
+enessr was removed from the table for failing to post
+CardPocketer: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+CardPocketer: calls $3
+*** FLOP *** [2c 4s 9h]
+CardPocketer: bets $3
+AzureCaper: calls $3
+*** TURN *** [2c 4s 9h] [Qd]
+CardPocketer: bets $6
+AzureCaper: raises $6 to $12
+CardPocketer: calls $6
+*** RIVER *** [2c 4s 9h Qd] [8c]
+CardPocketer: checks
+AzureCaper: bets $6
+CardPocketer: calls $6
+*** SHOW DOWN ***
+AzureCaper: shows [Qc 7d] (a pair of Queens)
+CardPocketer: mucks hand
+AzureCaper collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [2c 4s 9h Qd 8c]
+Seat 1: CardPocketer (big blind) mucked
+Seat 4: AzureCaper (button) (small blind) showed [Qc 7d] and won ($53.50) with a pair of Queens
+
+

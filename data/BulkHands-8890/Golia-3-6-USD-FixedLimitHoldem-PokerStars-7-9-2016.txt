@@ -1,0 +1,89 @@
+PokerStars Hand #155763357206:  Hold'em Limit ($3/$6 USD) - 2016/07/09 15:02:11 ET
+Table 'Golia' 6-max Seat #3 is the button
+Seat 3: Profitables ($95.44 in chips)
+Seat 4: AzureCaper ($101.50 in chips)
+Profitables: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+Profitables: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [Jd 5d 4c]
+AzureCaper: checks
+Profitables: bets $3
+AzureCaper: calls $3
+*** TURN *** [Jd 5d 4c] [6d]
+AzureCaper: checks
+Profitables: bets $6
+AzureCaper: calls $6
+*** RIVER *** [Jd 5d 4c 6d] [3s]
+AzureCaper: bets $6
+Profitables: calls $6
+*** SHOW DOWN ***
+AzureCaper: shows [3d 4h] (two pair, Fours and Threes)
+Profitables: mucks hand
+AzureCaper collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Jd 5d 4c 6d 3s]
+Seat 3: Profitables (button) (small blind) mucked
+Seat 4: AzureCaper (big blind) showed [3d 4h] and won ($41.50) with two pair, Fours and Threes
+
+
+PokerStars Hand #155763380395:  Hold'em Limit ($3/$6 USD) - 2016/07/09 15:02:44 ET
+Table 'Golia' 6-max Seat #3 is the button
+Seat 3: Profitables ($65.44 in chips)
+Seat 4: AzureCaper ($130.64 in chips)
+Profitables: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+Profitables: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [Jd 7s 6c]
+AzureCaper: checks
+Profitables: bets $3
+AzureCaper: calls $3
+*** TURN *** [Jd 7s 6c] [9c]
+AzureCaper: checks
+Profitables: checks
+*** RIVER *** [Jd 7s 6c 9c] [9s]
+AzureCaper: bets $6
+Profitables: calls $6
+*** SHOW DOWN ***
+AzureCaper: shows [Ts 8d] (a straight, Seven to Jack)
+Profitables: mucks hand
+AzureCaper collected $29.50 from pot
+Mordnilap joins the table at seat #5
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Jd 7s 6c 9c 9s]
+Seat 3: Profitables (button) (small blind) mucked
+Seat 4: AzureCaper (big blind) showed [Ts 8d] and won ($29.50) with a straight, Seven to Jack
+
+
+PokerStars Hand #155763366614:  Hold'em Limit ($3/$6 USD) - 2016/07/09 15:02:25 ET
+Table 'Golia' 6-max Seat #4 is the button
+Seat 3: Profitables ($74.44 in chips)
+Seat 4: AzureCaper ($122 in chips)
+AzureCaper: posts small blind $1
+Profitables: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+Profitables: calls $3
+*** FLOP *** [6s 2h 4d]
+Profitables: checks
+AzureCaper: bets $3
+Profitables: calls $3
+*** TURN *** [6s 2h 4d] [Ac]
+Profitables: checks
+AzureCaper: bets $6
+Profitables: folds
+Uncalled bet ($6) returned to AzureCaper
+AzureCaper collected $17.64 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6s 2h 4d Ac]
+Seat 3: Profitables (big blind) folded on the Turn
+Seat 4: AzureCaper (button) (small blind) collected ($17.64)
+
+

@@ -1,0 +1,60 @@
+PokerStars Hand #146062414223:  Hold'em Limit ($3/$6 USD) - 2015/12/28 11:29:04 ET
+Table 'Brambilla II' 2-max Seat #2 is the button
+Seat 1: mehxat ($120.65 in chips)
+Seat 2: hopejam ($11 in chips)
+hopejam: posts small blind $1
+mehxat: posts big blind $3
+*** HOLE CARDS ***
+hopejam: raises $3 to $6
+mehxat: raises $3 to $9
+hopejam: calls $3
+*** FLOP *** [Qh 2d 5c]
+mehxat: bets $3
+hopejam: calls $2 and is all-in
+Uncalled bet ($1) returned to mehxat
+*** TURN *** [Qh 2d 5c] [8c]
+*** RIVER *** [Qh 2d 5c 8c] [Qd]
+*** SHOW DOWN ***
+mehxat: shows [Kh Ac] (a pair of Queens)
+hopejam: shows [4h 7s] (a pair of Queens - lower kicker)
+mehxat collected $21.56 from pot
+*** SUMMARY ***
+Total pot $22 | Rake $0.44
+Board [Qh 2d 5c 8c Qd]
+Seat 1: mehxat (big blind) showed [Kh Ac] and won ($21.56) with a pair of Queens
+Seat 2: hopejam (button) (small blind) showed [4h 7s] and lost with a pair of Queens
+
+
+PokerStars Hand #146062405784:  Hold'em Limit ($3/$6 USD) - 2015/12/28 11:28:54 ET
+Table 'Brambilla II' 2-max Seat #1 is the button
+Seat 1: mehxat ($91.15 in chips)
+Seat 2: hopejam ($41 in chips)
+mehxat: posts small blind $1
+hopejam: posts big blind $3
+*** HOLE CARDS ***
+mehxat: raises $3 to $6
+hopejam: raises $3 to $9
+mehxat: raises $3 to $12
+Betting is capped
+hopejam: calls $3
+*** FLOP *** [6d 7s Qs]
+hopejam: bets $3
+mehxat: raises $3 to $6
+hopejam: raises $3 to $9
+mehxat: raises $3 to $12
+Betting is capped
+hopejam: calls $3
+*** TURN *** [6d 7s Qs] [5s]
+hopejam: bets $6
+mehxat: raises $6 to $12
+hopejam: folds
+Uncalled bet ($6) returned to mehxat
+mehxat collected $59.50 from pot
+mehxat: doesn't show hand
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [6d 7s Qs 5s]
+Seat 1: mehxat (button) (small blind) collected ($59.50)
+Seat 2: hopejam (big blind) folded on the Turn
+
+

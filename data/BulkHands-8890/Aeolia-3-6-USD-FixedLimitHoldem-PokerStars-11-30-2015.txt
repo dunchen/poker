@@ -1,0 +1,80 @@
+PokerStars Hand #144630477091:  Hold'em Limit ($3/$6 USD) - 2015/11/30 16:42:21 ET
+Table 'Aeolia' 2-max Seat #1 is the button
+Seat 1: xotgan ($71.49 in chips)
+Seat 2: alakarez ($21.97 in chips)
+xotgan: posts small blind $1
+alakarez: posts big blind $3
+*** HOLE CARDS ***
+xotgan: raises $3 to $6
+alakarez: raises $3 to $9
+xotgan: calls $3
+*** FLOP *** [Ks 8d Tc]
+alakarez: bets $3
+xotgan: calls $3
+*** TURN *** [Ks 8d Tc] [Qh]
+alakarez: folds
+xotgan collected $23.52 from pot
+xotgan: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Ks 8d Tc Qh]
+Seat 1: xotgan (button) (small blind) collected ($23.52)
+Seat 2: alakarez (big blind) folded on the Turn
+
+
+PokerStars Hand #144630457811:  Hold'em Limit ($3/$6 USD) - 2015/11/30 16:42:01 ET
+Table 'Aeolia' 2-max Seat #2 is the button
+Seat 1: xotgan ($82.70 in chips)
+Seat 2: alakarez ($11.21 in chips)
+alakarez: posts small blind $1
+xotgan: posts big blind $3
+*** HOLE CARDS ***
+alakarez: raises $3 to $6
+xotgan: raises $3 to $9
+alakarez: calls $3
+*** FLOP *** [9d 3d 7d]
+xotgan: bets $3
+alakarez: calls $2.21 and is all-in
+Uncalled bet ($0.79) returned to xotgan
+*** TURN *** [9d 3d 7d] [5c]
+*** RIVER *** [9d 3d 7d 5c] [Jd]
+*** SHOW DOWN ***
+xotgan: shows [7s Ks] (a pair of Sevens)
+alakarez: shows [8d 5s] (a flush, Jack high)
+alakarez collected $21.97 from pot
+*** SUMMARY ***
+Total pot $22.42 | Rake $0.45
+Board [9d 3d 7d 5c Jd]
+Seat 1: xotgan (big blind) showed [7s Ks] and lost with a pair of Sevens
+Seat 2: alakarez (button) (small blind) showed [8d 5s] and won ($21.97) with a flush, Jack high
+
+
+PokerStars Hand #144630494423:  Hold'em Limit ($3/$6 USD) - 2015/11/30 16:42:39 ET
+Table 'Aeolia' 2-max Seat #2 is the button
+Seat 1: xotgan ($83.01 in chips)
+Seat 2: alakarez ($9.97 in chips)
+alakarez: posts small blind $1
+xotgan: posts big blind $3
+*** HOLE CARDS ***
+alakarez: raises $3 to $6
+xotgan: calls $3
+*** FLOP *** [8c Ac 9c]
+xotgan: checks
+alakarez: bets $3
+xotgan: calls $3
+*** TURN *** [8c Ac 9c] [Ad]
+xotgan: bets $6
+alakarez: calls $0.97 and is all-in
+Uncalled bet ($5.03) returned to xotgan
+*** RIVER *** [8c Ac 9c Ad] [3h]
+*** SHOW DOWN ***
+xotgan: shows [4d As] (three of a kind, Aces)
+alakarez: shows [7h 8s] (two pair, Aces and Eights)
+xotgan collected $19.54 from pot
+*** SUMMARY ***
+Total pot $19.94 | Rake $0.40
+Board [8c Ac 9c Ad 3h]
+Seat 1: xotgan (big blind) showed [4d As] and won ($19.54) with three of a kind, Aces
+Seat 2: alakarez (button) (small blind) showed [7h 8s] and lost with two pair, Aces and Eights
+
+

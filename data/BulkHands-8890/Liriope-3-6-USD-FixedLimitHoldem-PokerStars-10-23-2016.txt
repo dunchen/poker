@@ -1,0 +1,82 @@
+PokerStars Hand #160335471066:  Hold'em Limit ($3/$6 USD) - 2016/10/23 13:55:32 ET
+Table 'Liriope' 6-max Seat #4 is the button
+Seat 1: mogoallin ($119 in chips)
+Seat 4: VolkovDmitri ($121 in chips)
+VolkovDmitri: posts small blind $1
+mogoallin: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: folds
+Uncalled bet ($2) returned to mogoallin
+mogoallin collected $2 from pot
+mogoallin: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: mogoallin (big blind) collected ($2)
+Seat 4: VolkovDmitri (button) (small blind) folded before Flop
+
+
+PokerStars Hand #160335497096:  Hold'em Limit ($3/$6 USD) - 2016/10/23 13:56:12 ET
+Table 'Liriope' 6-max Seat #4 is the button
+Seat 1: mogoallin ($146.50 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+mogoallin: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+mogoallin: calls $3
+*** FLOP *** [2c 5d 3h]
+mogoallin: checks
+VolkovDmitri: checks
+*** TURN *** [2c 5d 3h] [3s]
+mogoallin: checks
+cocobär1 joins the table at seat #3
+VolkovDmitri: checks
+*** RIVER *** [2c 5d 3h 3s] [Qh]
+mogoallin: checks
+VolkovDmitri: bets $6
+mogoallin: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Th Qc] (two pair, Queens and Threes)
+mogoallin: mucks hand
+VolkovDmitri collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [2c 5d 3h 3s Qh]
+Seat 1: mogoallin (big blind) mucked
+Seat 4: VolkovDmitri (button) (small blind) showed [Th Qc] and won ($23.52) with two pair, Queens and Threes
+
+
+PokerStars Hand #160335475071:  Hold'em Limit ($3/$6 USD) - 2016/10/23 13:55:38 ET
+Table 'Liriope' 6-max Seat #1 is the button
+Seat 1: mogoallin ($120 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+mogoallin: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+mogoallin: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+xRauIx joins the table at seat #2
+mogoallin: calls $3
+*** FLOP *** [4c 2s 3d]
+VolkovDmitri: bets $3
+mogoallin: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [4c 2s 3d] [7h]
+VolkovDmitri: checks
+mogoallin: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [4c 2s 3d 7h] [2d]
+VolkovDmitri: checks
+mogoallin: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+mogoallin: shows [3s Qs] (two pair, Threes and Deuces)
+VolkovDmitri: mucks hand
+mogoallin collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [4c 2s 3d 7h 2d]
+Seat 1: mogoallin (button) (small blind) showed [3s Qs] and won ($53.50) with two pair, Threes and Deuces
+Seat 4: VolkovDmitri (big blind) mucked
+
+

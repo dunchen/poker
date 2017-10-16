@@ -1,0 +1,78 @@
+PokerStars Hand #169677712517:  Hold'em Limit ($3/$6 USD) - 2017/04/28 13:35:28 ET
+Table 'Thessalia' 6-max Seat #5 is the button
+Seat 3: T.Peterss ($21 in chips)
+Seat 5: GoliafUa ($143.50 in chips)
+GoliafUa: posts small blind $1
+T.Peterss: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa: raises $3 to $6
+T.Peterss: calls $3
+*** FLOP *** [Kh 3h 7d]
+T.Peterss: checks
+GoliafUa: bets $3
+T.Peterss: folds
+Uncalled bet ($3) returned to GoliafUa
+GoliafUa collected $11.76 from pot
+GoliafUa: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kh 3h 7d]
+Seat 3: T.Peterss (big blind) folded on the Flop
+Seat 5: GoliafUa (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #169677693709:  Hold'em Limit ($3/$6 USD) - 2017/04/28 13:35:03 ET
+Table 'Thessalia' 6-max Seat #3 is the button
+Seat 3: T.Peterss ($45 in chips)
+Seat 5: GoliafUa ($120 in chips)
+T.Peterss: posts small blind $1
+vestimokrec joins the table at seat #4
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+T.Peterss: raises $3 to $6
+GoliafUa: calls $3
+*** FLOP *** [Tc 3c 3h]
+GoliafUa: checks
+T.Peterss: bets $3
+GoliafUa: raises $3 to $6
+T.Peterss: calls $3
+*** TURN *** [Tc 3c 3h] [5h]
+GoliafUa: bets $6
+T.Peterss: calls $6
+*** RIVER *** [Tc 3c 3h 5h] [Js]
+GoliafUa: bets $6
+T.Peterss: calls $6
+*** SHOW DOWN ***
+GoliafUa: shows [2s 3s] (three of a kind, Threes)
+T.Peterss: mucks hand
+GoliafUa collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Tc 3c 3h 5h Js]
+Seat 3: T.Peterss (button) (small blind) mucked
+Seat 5: GoliafUa (big blind) showed [2s 3s] and won ($47.50) with three of a kind, Threes
+
+
+PokerStars Hand #169677871915:  Hold'em Limit ($3/$6 USD) - 2017/04/28 13:38:59 ET
+Table 'Thessalia' 6-max Seat #4 is the button
+Seat 4: vestimokrec ($77 in chips)
+Seat 6: pdsnr ($98.61 in chips)
+vestimokrec: posts small blind $1
+pdsnr: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+pdsnr: calls $3
+*** FLOP *** [Th Ks Ad]
+pdsnr: checks
+vestimokrec: bets $3
+pdsnr: raises $3 to $6
+vestimokrec: folds
+Uncalled bet ($3) returned to pdsnr
+pdsnr collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Th Ks Ad]
+Seat 4: vestimokrec (button) (small blind) folded on the Flop
+Seat 6: pdsnr (big blind) collected ($17.64)
+
+

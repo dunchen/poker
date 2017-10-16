@@ -1,0 +1,116 @@
+PokerStars Hand #156681344816:  Hold'em Limit ($3/$6 USD) - 2016/07/31 11:58:58 ET
+Table 'Bernoulli' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($121 in chips)
+Seat 6: frgt\10river ($53 in chips)
+VolkovDmitri: posts small blind $1
+frgt\10river: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+frgt\10river: calls $3
+*** FLOP *** [Kd 4s 8d]
+frgt\10river: bets $3
+VolkovDmitri: raises $3 to $6
+frgt\10river: calls $3
+*** TURN *** [Kd 4s 8d] [Jd]
+frgt\10river: checks
+VolkovDmitri: checks
+*** RIVER *** [Kd 4s 8d Jd] [Tc]
+Murrrr_@T joins the table at seat #1
+frgt\10river: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+frgt\10river: shows [8h 9h] (a pair of Eights)
+VolkovDmitri: mucks hand
+frgt\10river collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Kd 4s 8d Jd Tc]
+Seat 4: VolkovDmitri (button) (small blind) mucked
+Seat 6: frgt\10river (big blind) showed [8h 9h] and won ($35.50) with a pair of Eights
+
+
+PokerStars Hand #156681687693:  Hold'em Limit ($3/$6 USD) - 2016/07/31 12:06:48 ET
+Table 'Bernoulli' 6-max Seat #2 is the button
+Seat 1: Murrrr_@T ($120 in chips)
+Seat 2: doppelff ($120 in chips)
+doppelff: posts small blind $1
+frgt\10river: is sitting out
+Murrrr_@T: posts big blind $3
+*** HOLE CARDS ***
+frgt\10river leaves the table
+doppelff: raises $3 to $6
+Murrrr_@T: raises $3 to $9
+doppelff: calls $3
+*** FLOP *** [2d Js 6h]
+Murrrr_@T: bets $3
+doppelff: calls $3
+*** TURN *** [2d Js 6h] [7h]
+Murrrr_@T: bets $6
+doppelff: calls $6
+*** RIVER *** [2d Js 6h 7h] [6c]
+Murrrr_@T: bets $6
+doppelff: calls $6
+*** SHOW DOWN ***
+Murrrr_@T: shows [8s Ts] (a pair of Sixes)
+doppelff: shows [8c 7c] (two pair, Sevens and Sixes)
+doppelff collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2d Js 6h 7h 6c]
+Seat 1: Murrrr_@T (big blind) showed [8s Ts] and lost with a pair of Sixes
+Seat 2: doppelff (button) (small blind) showed [8c 7c] and won ($47.50) with two pair, Sevens and Sixes
+
+
+PokerStars Hand #156681729549:  Hold'em Limit ($3/$6 USD) - 2016/07/31 12:07:41 ET
+Table 'Bernoulli' 6-max Seat #1 is the button
+Seat 1: Murrrr_@T ($120 in chips)
+Seat 2: doppelff ($143.50 in chips)
+Murrrr_@T: posts small blind $1
+doppelff: posts big blind $3
+*** HOLE CARDS ***
+Murrrr_@T: raises $3 to $6
+doppelff: calls $3
+*** FLOP *** [4h Ks Tc]
+doppelff: checks
+Murrrr_@T: bets $3
+doppelff: raises $3 to $6
+Murrrr_@T: folds
+Uncalled bet ($3) returned to doppelff
+doppelff collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4h Ks Tc]
+Seat 1: Murrrr_@T (button) (small blind) folded on the Flop
+Seat 2: doppelff (big blind) collected ($17.64)
+
+
+PokerStars Hand #156681742345:  Hold'em Limit ($3/$6 USD) - 2016/07/31 12:07:57 ET
+Table 'Bernoulli' 6-max Seat #2 is the button
+Seat 1: Murrrr_@T ($120 in chips)
+Seat 2: doppelff ($152.14 in chips)
+doppelff: posts small blind $1
+Murrrr_@T: posts big blind $3
+*** HOLE CARDS ***
+doppelff: raises $3 to $6
+Murrrr_@T: raises $3 to $9
+doppelff: calls $3
+*** FLOP *** [5d 7h 9h]
+Murrrr_@T: bets $3
+doppelff: calls $3
+*** TURN *** [5d 7h 9h] [Tc]
+Murrrr_@T: checks
+doppelff: checks
+*** RIVER *** [5d 7h 9h Tc] [7d]
+Murrrr_@T: bets $6
+doppelff: calls $6
+*** SHOW DOWN ***
+Murrrr_@T: shows [4c 4s] (two pair, Sevens and Fours)
+doppelff: mucks hand
+Murrrr_@T collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5d 7h 9h Tc 7d]
+Seat 1: Murrrr_@T (big blind) showed [4c 4s] and won ($35.50) with two pair, Sevens and Fours
+Seat 2: doppelff (button) (small blind) mucked
+
+

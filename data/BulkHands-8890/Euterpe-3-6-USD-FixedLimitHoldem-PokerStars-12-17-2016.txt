@@ -1,0 +1,137 @@
+PokerStars Hand #163072402333:  Hold'em Limit ($3/$6 USD) - 2016/12/17 5:02:15 ET
+Table 'Euterpe' 6-max Seat #2 is the button
+Seat 2: jl45259071 ($200.43 in chips)
+Seat 3: kolaz03 ($72 in chips)
+jl45259071: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+kolaz03: checks
+*** FLOP *** [Qd Ks 9s]
+kolaz03: checks
+jl45259071: checks
+*** TURN *** [Qd Ks 9s] [Ts]
+kolaz03: checks
+jl45259071: checks
+*** RIVER *** [Qd Ks 9s Ts] [2c]
+kolaz03: checks
+jl45259071: checks
+*** SHOW DOWN ***
+kolaz03: shows [9h 7s] (a pair of Nines)
+jl45259071: mucks hand
+kolaz03 collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Qd Ks 9s Ts 2c]
+Seat 2: jl45259071 (button) (small blind) mucked
+Seat 3: kolaz03 (big blind) showed [9h 7s] and won ($5.88) with a pair of Nines
+
+
+PokerStars Hand #163072423656:  Hold'em Limit ($3/$6 USD) - 2016/12/17 5:03:03 ET
+Table 'Euterpe' 6-max Seat #2 is the button
+Seat 2: jl45259071 ($206.07 in chips)
+Seat 3: kolaz03 ($72 in chips)
+jl45259071: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+kolaz03: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [6h 2h Ts]
+kolaz03: bets $3
+jl45259071: folds
+Uncalled bet ($3) returned to kolaz03
+kolaz03 collected $11.76 from pot
+kolaz03: doesn't show hand
+jl45259071 leaves the table
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6h 2h Ts]
+Seat 2: jl45259071 (button) (small blind) folded on the Flop
+Seat 3: kolaz03 (big blind) collected ($11.76)
+
+
+PokerStars Hand #163072412655:  Hold'em Limit ($3/$6 USD) - 2016/12/17 5:02:38 ET
+Table 'Euterpe' 6-max Seat #3 is the button
+Seat 2: jl45259071 ($197.43 in chips)
+Seat 3: kolaz03 ($74.88 in chips)
+kolaz03: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+kolaz03: raises $3 to $6
+jl45259071: raises $3 to $9
+kolaz03: calls $3
+*** FLOP *** [Ah Jc 4s]
+jl45259071: bets $3
+kolaz03: folds
+Uncalled bet ($3) returned to jl45259071
+jl45259071 collected $17.64 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ah Jc 4s]
+Seat 2: jl45259071 (big blind) collected ($17.64)
+Seat 3: kolaz03 (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #163073065747:  Hold'em Limit ($3/$6 USD) - 2016/12/17 5:25:47 ET
+Table 'Euterpe' 6-max Seat #3 is the button
+Seat 3: habari786 ($60 in chips)
+Seat 4: AzureCaper ($72 in chips)
+habari786: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+FHstyles joins the table at seat #2
+habari786: raises $3 to $6
+Chessnok joins the table at seat #5
+AzureCaper: raises $3 to $9
+habari786: calls $3
+*** FLOP *** [6s 7d Ks]
+AzureCaper: bets $3
+habari786: folds
+Uncalled bet ($3) returned to AzureCaper
+AzureCaper collected $17.64 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6s 7d Ks]
+Seat 3: habari786 (button) (small blind) folded on the Flop
+Seat 4: AzureCaper (big blind) collected ($17.64)
+
+
+PokerStars Hand #163074208143:  Hold'em Limit ($3/$6 USD) - 2016/12/17 6:05:22 ET
+Table 'Euterpe' 6-max Seat #6 is the button
+Seat 5: Chessnok ($193.58 in chips)
+Seat 6: feilinho ($112.55 in chips)
+feilinho: posts small blind $1
+Drik89: is sitting out
+AzureCaper: is sitting out
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper leaves the table
+feilinho: raises $3 to $6
+Drik89 leaves the table
+Chessnok: raises $3 to $9
+feilinho: calls $3
+*** FLOP *** [6d 9h 2s]
+Chessnok: bets $3
+ZinZar joins the table at seat #1
+zizonmusang is disconnected
+feilinho: calls $3
+*** TURN *** [6d 9h 2s] [2c]
+ZinZar leaves the table
+Chessnok: bets $6
+feilinho: calls $6
+*** RIVER *** [6d 9h 2s 2c] [Ks]
+Chessnok: bets $6
+feilinho: folds
+Uncalled bet ($6) returned to Chessnok
+Chessnok collected $35.50 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6d 9h 2s 2c Ks]
+Seat 5: Chessnok (big blind) collected ($35.50)
+Seat 6: feilinho (button) (small blind) folded on the River
+
+

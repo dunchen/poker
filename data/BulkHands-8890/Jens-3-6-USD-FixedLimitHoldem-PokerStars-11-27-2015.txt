@@ -1,0 +1,107 @@
+PokerStars Hand #144471486999:  Hold'em Limit ($3/$6 USD) - 2015/11/27 14:59:34 ET
+Table 'Jens' 2-max Seat #2 is the button
+Seat 1: ciutkonr ($84.97 in chips)
+Seat 2: vanndaz ($12.87 in chips)
+vanndaz: posts small blind $1
+ciutkonr: posts big blind $3
+*** HOLE CARDS ***
+vanndaz: calls $2
+ciutkonr: checks
+*** FLOP *** [3d As Kc]
+ciutkonr: checks
+vanndaz: checks
+*** TURN *** [3d As Kc] [6s]
+ciutkonr: bets $6
+vanndaz: folds
+Uncalled bet ($6) returned to ciutkonr
+ciutkonr collected $5.88 from pot
+ciutkonr: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [3d As Kc 6s]
+Seat 1: ciutkonr (big blind) collected ($5.88)
+Seat 2: vanndaz (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #144471478418:  Hold'em Limit ($3/$6 USD) - 2015/11/27 14:59:21 ET
+Table 'Jens' 2-max Seat #1 is the button
+Seat 1: ciutkonr ($70.47 in chips)
+Seat 2: vanndaz ($27.87 in chips)
+ciutkonr: posts small blind $1
+vanndaz: posts big blind $3
+*** HOLE CARDS ***
+ciutkonr: raises $3 to $6
+vanndaz: raises $3 to $9
+ciutkonr: raises $3 to $12
+Betting is capped
+vanndaz: calls $3
+*** FLOP *** [3h Jh 2s]
+vanndaz: bets $3
+ciutkonr: raises $3 to $6
+vanndaz: folds
+Uncalled bet ($3) returned to ciutkonr
+ciutkonr collected $29.50 from pot
+ciutkonr: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3h Jh 2s]
+Seat 1: ciutkonr (button) (small blind) collected ($29.50)
+Seat 2: vanndaz (big blind) folded on the Flop
+
+
+PokerStars Hand #144471466776:  Hold'em Limit ($3/$6 USD) - 2015/11/27 14:59:04 ET
+Table 'Jens' 2-max Seat #2 is the button
+Seat 1: ciutkonr ($73.47 in chips)
+Seat 2: vanndaz ($24.99 in chips)
+vanndaz: posts small blind $1
+ciutkonr: posts big blind $3
+*** HOLE CARDS ***
+vanndaz: calls $2
+ciutkonr: checks
+*** FLOP *** [8d 8h 2h]
+ciutkonr: checks
+vanndaz: checks
+*** TURN *** [8d 8h 2h] [3s]
+ciutkonr: checks
+vanndaz: checks
+*** RIVER *** [8d 8h 2h 3s] [Ad]
+ciutkonr: checks
+vanndaz: checks
+*** SHOW DOWN ***
+ciutkonr: shows [Jc 7d] (a pair of Eights)
+vanndaz: shows [Qd 6c] (a pair of Eights - Ace+Queen kicker)
+vanndaz collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [8d 8h 2h 3s Ad]
+Seat 1: ciutkonr (big blind) showed [Jc 7d] and lost with a pair of Eights
+Seat 2: vanndaz (button) (small blind) showed [Qd 6c] and won ($5.88) with a pair of Eights
+
+
+PokerStars Hand #144471498148:  Hold'em Limit ($3/$6 USD) - 2015/11/27 14:59:50 ET
+Table 'Jens' 2-max Seat #1 is the button
+Seat 1: ciutkonr ($87.85 in chips)
+Seat 2: vanndaz ($9.87 in chips)
+ciutkonr: posts small blind $1
+vanndaz: posts big blind $3
+*** HOLE CARDS ***
+ciutkonr: calls $2
+vanndaz: checks
+*** FLOP *** [2d 6s 6c]
+vanndaz: bets $3
+ciutkonr: raises $3 to $6
+vanndaz: raises $0.87 to $6.87 and is all-in
+ciutkonr: calls $0.87
+*** TURN *** [2d 6s 6c] [Ah]
+*** RIVER *** [2d 6s 6c Ah] [Jd]
+*** SHOW DOWN ***
+vanndaz: shows [9h Jc] (two pair, Jacks and Sixes)
+ciutkonr: shows [Tc 6h] (three of a kind, Sixes)
+ciutkonr collected $19.35 from pot
+*** SUMMARY ***
+Total pot $19.74 | Rake $0.39
+Board [2d 6s 6c Ah Jd]
+Seat 1: ciutkonr (button) (small blind) showed [Tc 6h] and won ($19.35) with three of a kind, Sixes
+Seat 2: vanndaz (big blind) showed [9h Jc] and lost with two pair, Jacks and Sixes
+
+

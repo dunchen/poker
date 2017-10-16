@@ -1,0 +1,85 @@
+PokerStars Hand #161749003125:  Hold'em Limit ($3/$6 USD) - 2016/11/21 13:17:48 ET
+Table 'Ilsewa II' 6-max Seat #6 is the button
+Seat 5: B_loJkl ($128.39 in chips)
+Seat 6: popeluha ($35 in chips)
+popeluha: posts small blind $1
+wobetting: is sitting out
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+popeluha: raises $3 to $6
+Agrotait leaves the table
+B_loJkl: calls $3
+*** FLOP *** [Js 5s 4s]
+ToDaFelt joins the table at seat #4
+B_loJkl: checks
+popeluha: bets $3
+B_loJkl: folds
+Uncalled bet ($3) returned to popeluha
+popeluha collected $11.76 from pot
+popeluha: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Js 5s 4s]
+Seat 5: B_loJkl (big blind) folded on the Flop
+Seat 6: popeluha (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #161749039113:  Hold'em Limit ($3/$6 USD) - 2016/11/21 13:18:27 ET
+Table 'Ilsewa II' 6-max Seat #5 is the button
+Seat 5: B_loJkl ($122.39 in chips)
+Seat 6: popeluha ($40.76 in chips)
+B_loJkl: posts small blind $1
+popeluha: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+popeluha: calls $3
+*** FLOP *** [Qd 6h Th]
+popeluha: checks
+B_loJkl: bets $3
+popeluha: calls $3
+*** TURN *** [Qd 6h Th] [Tc]
+popeluha: checks
+B_loJkl: checks
+*** RIVER *** [Qd 6h Th Tc] [4h]
+popeluha: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to popeluha
+popeluha collected $17.64 from pot
+popeluha: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qd 6h Th Tc 4h]
+Seat 5: B_loJkl (button) (small blind) folded on the River
+Seat 6: popeluha (big blind) collected ($17.64)
+
+
+PokerStars Hand #161750028012:  Hold'em Limit ($3/$6 USD) - 2016/11/21 13:36:21 ET
+Table 'Ilsewa II' 6-max Seat #4 is the button
+Seat 1: Maagzmey ($44.35 in chips)
+Seat 4: ToDaFelt ($137.89 in chips)
+ToDaFelt: posts small blind $1
+B_loJkl: is sitting out
+Maagzmey: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl leaves the table
+ToDaFelt: raises $3 to $6
+B_loJkl joins the table at seat #2
+Maagzmey: calls $3
+*** FLOP *** [Ks Qs Ts]
+Maagzmey: checks
+ToDaFelt: bets $3
+Maagzmey: calls $3
+*** TURN *** [Ks Qs Ts] [Td]
+Maagzmey: checks
+ToDaFelt: bets $6
+Maagzmey: folds
+Uncalled bet ($6) returned to ToDaFelt
+ToDaFelt collected $17.64 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ks Qs Ts Td]
+Seat 1: Maagzmey (big blind) folded on the Turn
+Seat 4: ToDaFelt (button) (small blind) collected ($17.64)
+
+

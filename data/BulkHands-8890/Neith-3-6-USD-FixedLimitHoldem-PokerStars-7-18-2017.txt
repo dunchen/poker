@@ -1,0 +1,33 @@
+PokerStars Hand #173212488008:  Hold'em Limit ($3/$6 USD) - 2017/07/18 17:49:51 ET
+Table 'Neith' 6-max Seat #6 is the button
+Seat 3: OCTOBER06 ($16 in chips)
+Seat 6: B_loJkl ($284.18 in chips)
+B_loJkl: posts small blind $1
+neman557 leaves the table
+ToDaFelt: is sitting out
+ToDaFelt leaves the table
+OCTOBER06: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+OCTOBER06: raises $3 to $9
+B_loJkl: raises $3 to $12
+Betting is capped
+OCTOBER06: calls $3
+*** FLOP *** [Tc Jh Qd]
+OCTOBER06: bets $3
+B_loJkl: raises $3 to $6
+OCTOBER06: calls $1 and is all-in
+Uncalled bet ($2) returned to B_loJkl
+*** TURN *** [Tc Jh Qd] [Td]
+*** RIVER *** [Tc Jh Qd Td] [Ts]
+*** SHOW DOWN ***
+OCTOBER06: shows [Kd 3d] (three of a kind, Tens)
+B_loJkl: shows [Ad Kc] (a straight, Ten to Ace)
+B_loJkl collected $31.50 from pot
+*** SUMMARY ***
+Total pot $32 | Rake $0.50
+Board [Tc Jh Qd Td Ts]
+Seat 3: OCTOBER06 (big blind) showed [Kd 3d] and lost with three of a kind, Tens
+Seat 6: B_loJkl (button) (small blind) showed [Ad Kc] and won ($31.50) with a straight, Ten to Ace
+
+

@@ -1,0 +1,110 @@
+PokerStars Hand #162209355603:  Hold'em Limit ($3/$6 USD) - 2016/11/30 17:17:21 ET
+Table 'Dembowska' 6-max Seat #6 is the button
+Seat 1: assitoni ($77.76 in chips)
+Seat 6: stiflerkk ($29.25 in chips)
+stiflerkk: posts small blind $1
+assitoni: posts big blind $3
+*** HOLE CARDS ***
+stiflerkk: raises $3 to $6
+ToDaFelt joins the table at seat #2
+assitoni: calls $3
+*** FLOP *** [8d 9s 6s]
+assitoni: checks
+stiflerkk: checks
+*** TURN *** [8d 9s 6s] [2c]
+assitoni: bets $6
+stiflerkk: calls $6
+*** RIVER *** [8d 9s 6s 2c] [7h]
+assitoni: checks
+stiflerkk: checks
+*** SHOW DOWN ***
+assitoni: shows [6h Qc] (a pair of Sixes)
+stiflerkk: mucks hand
+assitoni collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [8d 9s 6s 2c 7h]
+Seat 1: assitoni (big blind) showed [6h Qc] and won ($23.52) with a pair of Sixes
+Seat 6: stiflerkk (button) (small blind) mucked
+
+
+PokerStars Hand #162209346129:  Hold'em Limit ($3/$6 USD) - 2016/11/30 17:17:10 ET
+Table 'Dembowska' 6-max Seat #1 is the button
+Seat 1: assitoni ($72 in chips)
+Seat 6: stiflerkk ($35.25 in chips)
+assitoni: posts small blind $1
+stiflerkk: posts big blind $3
+*** HOLE CARDS ***
+assitoni: raises $3 to $6
+stiflerkk: calls $3
+*** FLOP *** [8h 2h 9c]
+stiflerkk: checks
+assitoni: bets $3
+stiflerkk: folds
+Uncalled bet ($3) returned to assitoni
+assitoni collected $11.76 from pot
+assitoni: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8h 2h 9c]
+Seat 1: assitoni (button) (small blind) collected ($11.76)
+Seat 6: stiflerkk (big blind) folded on the Flop
+
+
+PokerStars Hand #162209452882:  Hold'em Limit ($3/$6 USD) - 2016/11/30 17:19:10 ET
+Table 'Dembowska' 6-max Seat #6 is the button
+Seat 2: ToDaFelt ($90.14 in chips)
+Seat 6: stiflerkk ($46.29 in chips)
+stiflerkk: posts small blind $1
+assitoni: is sitting out
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+stiflerkk: raises $3 to $6
+AsValete joins the table at seat #4
+ToDaFelt: calls $3
+*** FLOP *** [6s 4d Kc]
+ToDaFelt: checks
+stiflerkk: bets $3
+ToDaFelt: raises $3 to $6
+stiflerkk: calls $3
+*** TURN *** [6s 4d Kc] [Ad]
+ToDaFelt: bets $6
+stiflerkk: calls $6
+*** RIVER *** [6s 4d Kc Ad] [6h]
+ToDaFelt: bets $6
+stiflerkk: folds
+Uncalled bet ($6) returned to ToDaFelt
+ToDaFelt collected $35.50 from pot
+ToDaFelt: doesn't show hand
+Luanto 14 joins the table at seat #5
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6s 4d Kc Ad 6h]
+Seat 2: ToDaFelt (big blind) collected ($35.50)
+Seat 6: stiflerkk (button) (small blind) folded on the River
+
+
+PokerStars Hand #162211606448:  Hold'em Limit ($3/$6 USD) - 2016/11/30 17:59:41 ET
+Table 'Dembowska' 6-max Seat #3 is the button
+Seat 2: ToDaFelt ($205.59 in chips)
+Seat 3: Actionni13 ($198.02 in chips)
+Actionni13: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+MATEKATA2 leaves the table
+ToDaFelt: calls $3
+*** FLOP *** [4d Qd Ad]
+ToDaFelt: checks
+Actionni13: bets $3
+ToDaFelt: folds
+Uncalled bet ($3) returned to Actionni13
+Actionni13 collected $11.76 from pot
+Actionni13: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4d Qd Ad]
+Seat 2: ToDaFelt (big blind) folded on the Flop
+Seat 3: Actionni13 (button) (small blind) collected ($11.76)
+
+

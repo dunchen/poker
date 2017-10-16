@@ -1,0 +1,84 @@
+PokerStars Hand #162605442161:  Hold'em Limit ($3/$6 USD) - 2016/12/08 7:57:25 ET
+Table 'Canopus' 6-max Seat #3 is the button
+Seat 3: stuart1973 ($110.30 in chips)
+Seat 6: _fayzulllo_ ($48.93 in chips)
+TbIP-TbIP 88: is sitting out
+TbIP-TbIP 88 leaves the table
+stuart1973: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+stuart1973: calls $2
+_fayzulllo_: checks
+*** FLOP *** [5h Qh 6h]
+_fayzulllo_: checks
+TbIP-TbIP 88 joins the table at seat #1
+stuart1973: bets $3
+_fayzulllo_: calls $3
+*** TURN *** [5h Qh 6h] [5c]
+_fayzulllo_: checks
+stuart1973: bets $6
+_fayzulllo_: raises $6 to $12
+stuart1973: calls $6
+*** RIVER *** [5h Qh 6h 5c] [3h]
+_fayzulllo_: bets $6
+stuart1973: calls $6
+*** SHOW DOWN ***
+_fayzulllo_: shows [5d 6d] (a full house, Fives full of Sixes)
+stuart1973: mucks hand
+_fayzulllo_ collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [5h Qh 6h 5c 3h]
+Seat 3: stuart1973 (button) (small blind) mucked
+Seat 6: _fayzulllo_ (big blind) showed [5d 6d] and won ($47.50) with a full house, Fives full of Sixes
+
+
+PokerStars Hand #162606132802:  Hold'em Limit ($3/$6 USD) - 2016/12/08 8:17:21 ET
+Table 'Canopus' 6-max Seat #5 is the button
+Seat 3: feilinho ($232.40 in chips)
+Seat 5: linuxhunter ($259.45 in chips)
+linuxhunter: posts small blind $1
+Mastjox: is sitting out
+feilinho: posts big blind $3
+*** HOLE CARDS ***
+linuxhunter: folds
+Uncalled bet ($2) returned to feilinho
+Capone_TS leaves the table
+feilinho collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: feilinho (big blind) collected ($2)
+Seat 5: linuxhunter (button) (small blind) folded before Flop
+
+
+PokerStars Hand #162606136216:  Hold'em Limit ($3/$6 USD) - 2016/12/08 8:17:27 ET
+Table 'Canopus' 6-max Seat #3 is the button
+Seat 3: feilinho ($233.40 in chips)
+Seat 5: linuxhunter ($258.45 in chips)
+feilinho: posts small blind $1
+linuxhunter: posts big blind $3
+*** HOLE CARDS ***
+feilinho: raises $3 to $6
+linuxhunter: calls $3
+*** FLOP *** [5d Js 4d]
+linuxhunter: checks
+feilinho: bets $3
+linuxhunter: calls $3
+*** TURN *** [5d Js 4d] [As]
+linuxhunter: checks
+feilinho: bets $6
+linuxhunter: calls $6
+*** RIVER *** [5d Js 4d As] [2c]
+linuxhunter: checks
+feilinho: checks
+*** SHOW DOWN ***
+linuxhunter: shows [6h 7s] (high card Ace)
+feilinho: shows [9c 5c] (a pair of Fives)
+feilinho collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5d Js 4d As 2c]
+Seat 3: feilinho (button) (small blind) showed [9c 5c] and won ($29.50) with a pair of Fives
+Seat 5: linuxhunter (big blind) showed [6h 7s] and lost with high card Ace
+
+

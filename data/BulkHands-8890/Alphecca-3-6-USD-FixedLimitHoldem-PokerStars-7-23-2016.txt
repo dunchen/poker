@@ -1,0 +1,121 @@
+PokerStars Hand #156334247456:  Hold'em Limit ($3/$6 USD) - 2016/07/23 8:15:26 ET
+Table 'Alphecca' 10-max Seat #7 is the button
+Seat 6: lauriux121 ($111 in chips)
+Seat 7: VolkovDmitri ($128.64 in chips)
+VolkovDmitri: posts small blind $1
+lauriux121: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+lauriux121: raises $3 to $9
+VolkovDmitri: raises $3 to $12
+Betting is capped
+lauriux121: calls $3
+*** FLOP *** [Jd Ad 8s]
+Fantomet joins the table at seat #5
+lauriux121: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [Jd Ad 8s] [Qs]
+lauriux121: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [Jd Ad 8s Qs] [Th]
+lauriux121: checks
+VolkovDmitri: bets $6
+lauriux121: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [9c 9h] (a straight, Eight to Queen)
+lauriux121: mucks hand
+VolkovDmitri collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Jd Ad 8s Qs Th]
+Seat 6: lauriux121 (big blind) mucked
+Seat 7: VolkovDmitri (button) (small blind) showed [9c 9h] and won ($53.50) with a straight, Eight to Queen
+
+
+PokerStars Hand #156334237852:  Hold'em Limit ($3/$6 USD) - 2016/07/23 8:15:06 ET
+Table 'Alphecca' 10-max Seat #6 is the button
+Seat 6: lauriux121 ($120 in chips)
+Seat 7: VolkovDmitri ($120 in chips)
+lauriux121: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+lauriux121: calls $2
+VolkovDmitri: raises $3 to $6
+lauriux121: calls $3
+*** FLOP *** [9h 7s 5c]
+VolkovDmitri: bets $3
+lauriux121: calls $3
+*** TURN *** [9h 7s 5c] [Ah]
+VolkovDmitri: bets $6
+lauriux121: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $17.64 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9h 7s 5c Ah]
+Seat 6: lauriux121 (button) (small blind) folded on the Turn
+Seat 7: VolkovDmitri (big blind) collected ($17.64)
+
+
+PokerStars Hand #156334264129:  Hold'em Limit ($3/$6 USD) - 2016/07/23 8:16:00 ET
+Table 'Alphecca' 10-max Seat #6 is the button
+Seat 6: lauriux121 ($84 in chips)
+Seat 7: VolkovDmitri ($155.14 in chips)
+lauriux121: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+lauriux121: calls $2
+VolkovDmitri: checks
+*** FLOP *** [2c As Qd]
+VolkovDmitri: bets $3
+lauriux121: calls $3
+*** TURN *** [2c As Qd] [7h]
+VolkovDmitri: bets $6
+lauriux121: raises $6 to $12
+VolkovDmitri: raises $6 to $18
+lauriux121: calls $6
+*** RIVER *** [2c As Qd 7h] [Th]
+VolkovDmitri: bets $6
+lauriux121: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Qs 2d] (two pair, Queens and Deuces)
+lauriux121: mucks hand
+VolkovDmitri collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [2c As Qd 7h Th]
+Seat 6: lauriux121 (button) (small blind) mucked
+Seat 7: VolkovDmitri (big blind) showed [Qs 2d] and won ($59.50) with two pair, Queens and Deuces
+
+
+PokerStars Hand #156334604902:  Hold'em Limit ($3/$6 USD) - 2016/07/23 8:27:30 ET
+Table 'Alphecca' 10-max Seat #4 is the button
+Seat 4: HAL9QQQ ($132.25 in chips)
+Seat 7: VolkovDmitri ($137.47 in chips)
+HAL9QQQ: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+HAL9QQQ: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Jc 9c 3h]
+VolkovDmitri: checks
+HAL9QQQ: checks
+*** TURN *** [Jc 9c 3h] [Ad]
+VolkovDmitri: checks
+HAL9QQQ: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [Jc 9c 3h Ad] [Kc]
+VolkovDmitri: checks
+HAL9QQQ: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [2h Ks] (a pair of Kings)
+HAL9QQQ: mucks hand
+VolkovDmitri collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Jc 9c 3h Ad Kc]
+Seat 4: HAL9QQQ (button) (small blind) mucked
+Seat 7: VolkovDmitri (big blind) showed [2h Ks] and won ($23.52) with a pair of Kings
+
+

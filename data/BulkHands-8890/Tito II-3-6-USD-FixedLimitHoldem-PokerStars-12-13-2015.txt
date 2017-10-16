@@ -1,0 +1,90 @@
+PokerStars Hand #145287148734:  Hold'em Limit ($3/$6 USD) - 2015/12/13 13:11:45 ET
+Table 'Tito II' 6-max Seat #4 is the button
+Seat 3: A_Dyachenko ($66.32 in chips)
+Seat 4: Karpik09 ($91 in chips)
+Karpik09: posts small blind $1
+A_Dyachenko: posts big blind $3
+*** HOLE CARDS ***
+Karpik09: raises $3 to $6
+A_Dyachenko: calls $3
+*** FLOP *** [Qc 8d 6c]
+A_Dyachenko: checks
+Karpik09: bets $3
+A_Dyachenko: calls $3
+*** TURN *** [Qc 8d 6c] [Ac]
+A_Dyachenko: bets $6
+Karpik09: calls $6
+*** RIVER *** [Qc 8d 6c Ac] [Js]
+A_Dyachenko: bets $6
+Karpik09: raises $6 to $12
+A_Dyachenko: raises $6 to $18
+Karpik09: raises $6 to $24
+Betting is capped
+A_Dyachenko: calls $6
+*** SHOW DOWN ***
+Karpik09: shows [8c Kc] (a flush, Ace high)
+A_Dyachenko: mucks hand
+Karpik09 collected $77.50 from pot
+*** SUMMARY ***
+Total pot $78 | Rake $0.50
+Board [Qc 8d 6c Ac Js]
+Seat 3: A_Dyachenko (big blind) mucked
+Seat 4: Karpik09 (button) (small blind) showed [8c Kc] and won ($77.50) with a flush, Ace high
+
+
+PokerStars Hand #145287178174:  Hold'em Limit ($3/$6 USD) - 2015/12/13 13:12:15 ET
+Table 'Tito II' 6-max Seat #3 is the button
+Seat 3: A_Dyachenko ($27.32 in chips)
+Seat 4: Karpik09 ($129.50 in chips)
+A_Dyachenko: posts small blind $1
+Karpik09: posts big blind $3
+*** HOLE CARDS ***
+A_Dyachenko: calls $2
+Karpik09: raises $3 to $6
+A_Dyachenko: calls $3
+*** FLOP *** [Tc 7s Ks]
+Karpik09: bets $3
+A_Dyachenko: raises $3 to $6
+Karpik09: calls $3
+*** TURN *** [Tc 7s Ks] [6h]
+Karpik09: checks
+A_Dyachenko: bets $6
+Karpik09: calls $6
+*** RIVER *** [Tc 7s Ks 6h] [9s]
+Karpik09: bets $6
+A_Dyachenko: calls $6
+*** SHOW DOWN ***
+Karpik09: shows [Kd 8d] (a straight, Six to Ten)
+A_Dyachenko: mucks hand
+Karpik09 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Tc 7s Ks 6h 9s]
+Seat 3: A_Dyachenko (button) (small blind) mucked
+Seat 4: Karpik09 (big blind) showed [Kd 8d] and won ($47.50) with a straight, Six to Ten
+
+
+PokerStars Hand #145287218595:  Hold'em Limit ($3/$6 USD) - 2015/12/13 13:12:55 ET
+Table 'Tito II' 6-max Seat #4 is the button
+Seat 3: A_Dyachenko ($3.32 in chips)
+Seat 4: Karpik09 ($153 in chips)
+Karpik09: posts small blind $1
+A_Dyachenko: posts big blind $3
+*** HOLE CARDS ***
+Karpik09: raises $3 to $6
+A_Dyachenko: calls $0.32 and is all-in
+Uncalled bet ($2.68) returned to Karpik09
+*** FLOP *** [Ks Qh 3d]
+*** TURN *** [Ks Qh 3d] [Th]
+*** RIVER *** [Ks Qh 3d Th] [2d]
+*** SHOW DOWN ***
+A_Dyachenko: shows [7s 7h] (a pair of Sevens)
+Karpik09: shows [4d Qc] (a pair of Queens)
+Karpik09 collected $6.51 from pot
+*** SUMMARY ***
+Total pot $6.64 | Rake $0.13
+Board [Ks Qh 3d Th 2d]
+Seat 3: A_Dyachenko (big blind) showed [7s 7h] and lost with a pair of Sevens
+Seat 4: Karpik09 (button) (small blind) showed [4d Qc] and won ($6.51) with a pair of Queens
+
+

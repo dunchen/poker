@@ -1,0 +1,129 @@
+PokerStars Hand #160446689287:  Hold'em Limit ($3/$6 USD) - 2016/10/25 21:46:58 ET
+Table 'Newell' 6-max Seat #6 is the button
+Seat 4: MissEKAmouse ($140.02 in chips)
+Seat 6: DC10011984 ($138.01 in chips)
+DC10011984: posts small blind $1
+MissEKAmouse: posts big blind $3
+*** HOLE CARDS ***
+DC10011984: calls $2
+MissEKAmouse: raises $3 to $6
+DC10011984: calls $3
+*** FLOP *** [Td 9d 7c]
+MissEKAmouse: bets $3
+DC10011984: calls $3
+*** TURN *** [Td 9d 7c] [4c]
+MissEKAmouse: bets $6
+DC10011984: calls $6
+*** RIVER *** [Td 9d 7c 4c] [Ac]
+MissEKAmouse: bets $6
+DC10011984: folds
+Uncalled bet ($6) returned to MissEKAmouse
+MissEKAmouse collected $29.50 from pot
+MissEKAmouse: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Td 9d 7c 4c Ac]
+Seat 4: MissEKAmouse (big blind) collected ($29.50)
+Seat 6: DC10011984 (button) (small blind) folded on the River
+
+
+PokerStars Hand #160446703966:  Hold'em Limit ($3/$6 USD) - 2016/10/25 21:47:36 ET
+Table 'Newell' 6-max Seat #4 is the button
+Seat 4: MissEKAmouse ($154.52 in chips)
+Seat 6: DC10011984 ($123.01 in chips)
+MissEKAmouse: posts small blind $1
+DC10011984: posts big blind $3
+*** HOLE CARDS ***
+MissEKAmouse: raises $3 to $6
+DC10011984: calls $3
+*** FLOP *** [7d 5s 2h]
+DC10011984: checks
+MissEKAmouse: bets $3
+DC10011984: calls $3
+*** TURN *** [7d 5s 2h] [Qd]
+DC10011984: checks
+MissEKAmouse: bets $6
+DC10011984: folds
+Uncalled bet ($6) returned to MissEKAmouse
+MissEKAmouse collected $17.64 from pot
+MissEKAmouse: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7d 5s 2h Qd]
+Seat 4: MissEKAmouse (button) (small blind) collected ($17.64)
+Seat 6: DC10011984 (big blind) folded on the Turn
+
+
+PokerStars Hand #160446712612:  Hold'em Limit ($3/$6 USD) - 2016/10/25 21:47:58 ET
+Table 'Newell' 6-max Seat #6 is the button
+Seat 4: MissEKAmouse ($163.16 in chips)
+Seat 6: DC10011984 ($114.01 in chips)
+DC10011984: posts small blind $1
+MissEKAmouse: posts big blind $3
+*** HOLE CARDS ***
+DC10011984: folds
+Uncalled bet ($2) returned to MissEKAmouse
+MissEKAmouse collected $2 from pot
+MissEKAmouse: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: MissEKAmouse (big blind) collected ($2)
+Seat 6: DC10011984 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #160446721976:  Hold'em Limit ($3/$6 USD) - 2016/10/25 21:48:22 ET
+Table 'Newell' 6-max Seat #6 is the button
+Seat 4: MissEKAmouse ($169.92 in chips)
+Seat 6: DC10011984 ($107.01 in chips)
+DC10011984: posts small blind $1
+MissEKAmouse: posts big blind $3
+*** HOLE CARDS ***
+DC10011984: calls $2
+MissEKAmouse: checks
+*** FLOP *** [8c 6c 7h]
+MissEKAmouse: bets $3
+DC10011984: calls $3
+*** TURN *** [8c 6c 7h] [2d]
+MissEKAmouse: bets $6
+DC10011984: folds
+Uncalled bet ($6) returned to MissEKAmouse
+MissEKAmouse collected $11.76 from pot
+MissEKAmouse: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8c 6c 7h 2d]
+Seat 4: MissEKAmouse (big blind) collected ($11.76)
+Seat 6: DC10011984 (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #160446733612:  Hold'em Limit ($3/$6 USD) - 2016/10/25 21:48:52 ET
+Table 'Newell' 6-max Seat #6 is the button
+Seat 4: MissEKAmouse ($181.44 in chips)
+Seat 6: DC10011984 ($95.01 in chips)
+DC10011984: posts small blind $1
+assitoni was removed from the table for failing to post
+MissEKAmouse: posts big blind $3
+*** HOLE CARDS ***
+DC10011984: calls $2
+MissEKAmouse: checks
+*** FLOP *** [7c Qc Kc]
+MissEKAmouse: checks
+DC10011984: checks
+*** TURN *** [7c Qc Kc] [Ks]
+MissEKAmouse: bets $6
+DC10011984: calls $6
+*** RIVER *** [7c Qc Kc Ks] [4s]
+MissEKAmouse: checks
+DC10011984: bets $6
+MissEKAmouse: calls $6
+*** SHOW DOWN ***
+DC10011984: shows [Tc Jc] (a flush, King high)
+MissEKAmouse: mucks hand
+DC10011984 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7c Qc Kc Ks 4s]
+Seat 4: MissEKAmouse (big blind) mucked
+Seat 6: DC10011984 (button) (small blind) showed [Tc Jc] and won ($29.50) with a flush, King high
+
+

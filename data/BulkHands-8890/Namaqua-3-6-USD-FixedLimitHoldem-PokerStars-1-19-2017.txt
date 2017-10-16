@@ -1,0 +1,138 @@
+PokerStars Hand #164815174302:  Hold'em Limit ($3/$6 USD) - 2017/01/19 2:45:11 ET
+Table 'Namaqua' 6-max Seat #6 is the button
+Seat 3: volkovsky ($150 in chips)
+Seat 6: ksatom ($72.66 in chips)
+ksatom: posts small blind $1
+volkovsky: posts big blind $3
+*** HOLE CARDS ***
+ksatom: raises $3 to $6
+volkovsky: raises $3 to $9
+ksatom: raises $3 to $12
+Betting is capped
+volkovsky: calls $3
+*** FLOP *** [6c 5d 3c]
+volkovsky: checks
+ksatom: checks
+*** TURN *** [6c 5d 3c] [7d]
+volkovsky: bets $6
+ksatom: calls $6
+*** RIVER *** [6c 5d 3c 7d] [Ks]
+volkovsky: checks
+ksatom: checks
+*** SHOW DOWN ***
+volkovsky: shows [7c Ah] (a pair of Sevens)
+ksatom: mucks hand
+volkovsky collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6c 5d 3c 7d Ks]
+Seat 3: volkovsky (big blind) showed [7c Ah] and won ($35.50) with a pair of Sevens
+Seat 6: ksatom (button) (small blind) mucked
+
+
+PokerStars Hand #164815195787:  Hold'em Limit ($3/$6 USD) - 2017/01/19 2:46:26 ET
+Table 'Namaqua' 6-max Seat #6 is the button
+Seat 3: volkovsky ($205.50 in chips)
+Seat 6: ksatom ($15.66 in chips)
+ksatom: posts small blind $1
+volkovsky: posts big blind $3
+*** HOLE CARDS ***
+ksatom: raises $3 to $6
+volkovsky: calls $3
+*** FLOP *** [9h 3h Kh]
+volkovsky: checks
+ksatom: bets $3
+volkovsky: raises $3 to $6
+ksatom: raises $3 to $9
+volkovsky: raises $3 to $12
+Betting is capped
+ksatom: calls $0.66 and is all-in
+Uncalled bet ($2.34) returned to volkovsky
+*** TURN *** [9h 3h Kh] [Ac]
+*** RIVER *** [9h 3h Kh Ac] [7c]
+*** SHOW DOWN ***
+volkovsky: shows [5c Kc] (a pair of Kings)
+ksatom: shows [5h 6d] (high card Ace)
+volkovsky collected $30.82 from pot
+*** SUMMARY ***
+Total pot $31.32 | Rake $0.50
+Board [9h 3h Kh Ac 7c]
+Seat 3: volkovsky (big blind) showed [5c Kc] and won ($30.82) with a pair of Kings
+Seat 6: ksatom (button) (small blind) showed [5h 6d] and lost with high card Ace
+
+
+PokerStars Hand #164815193545:  Hold'em Limit ($3/$6 USD) - 2017/01/19 2:46:18 ET
+Table 'Namaqua' 6-max Seat #3 is the button
+Seat 3: volkovsky ($202.50 in chips)
+Seat 6: ksatom ($18.66 in chips)
+volkovsky: posts small blind $1
+ksatom: posts big blind $3
+*** HOLE CARDS ***
+volkovsky: raises $3 to $6
+ksatom: folds
+Uncalled bet ($3) returned to volkovsky
+volkovsky collected $6 from pot
+volkovsky: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: volkovsky (button) (small blind) collected ($6)
+Seat 6: ksatom (big blind) folded before Flop
+
+
+PokerStars Hand #164815188455:  Hold'em Limit ($3/$6 USD) - 2017/01/19 2:46:00 ET
+Table 'Namaqua' 6-max Seat #6 is the button
+Seat 3: volkovsky ($182 in chips)
+Seat 6: ksatom ($39.66 in chips)
+ksatom: posts small blind $1
+volkovsky: posts big blind $3
+*** HOLE CARDS ***
+ksatom: calls $2
+volkovsky: checks
+*** FLOP *** [Js Tc 5c]
+volkovsky: checks
+ksatom: checks
+*** TURN *** [Js Tc 5c] [5d]
+volkovsky: checks
+ksatom: checks
+*** RIVER *** [Js Tc 5c 5d] [6d]
+volkovsky: bets $6
+ksatom: raises $6 to $12
+volkovsky: raises $6 to $18
+ksatom: calls $6
+*** SHOW DOWN ***
+volkovsky: shows [5s 4h] (three of a kind, Fives)
+ksatom: mucks hand
+volkovsky collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Js Tc 5c 5d 6d]
+Seat 3: volkovsky (big blind) showed [5s 4h] and won ($41.50) with three of a kind, Fives
+Seat 6: ksatom (button) (small blind) mucked
+
+
+PokerStars Hand #164815181591:  Hold'em Limit ($3/$6 USD) - 2017/01/19 2:45:36 ET
+Table 'Namaqua' 6-max Seat #3 is the button
+Seat 3: volkovsky ($167.50 in chips)
+Seat 6: ksatom ($54.66 in chips)
+volkovsky: posts small blind $1
+ksatom: posts big blind $3
+*** HOLE CARDS ***
+volkovsky: raises $3 to $6
+ksatom: calls $3
+*** FLOP *** [Kc 6h Qh]
+ksatom: bets $3
+volkovsky: calls $3
+*** TURN *** [Kc 6h Qh] [As]
+ksatom: bets $6
+volkovsky: raises $6 to $12
+ksatom: folds
+Uncalled bet ($6) returned to volkovsky
+volkovsky collected $29.50 from pot
+volkovsky: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kc 6h Qh As]
+Seat 3: volkovsky (button) (small blind) collected ($29.50)
+Seat 6: ksatom (big blind) folded on the Turn
+
+

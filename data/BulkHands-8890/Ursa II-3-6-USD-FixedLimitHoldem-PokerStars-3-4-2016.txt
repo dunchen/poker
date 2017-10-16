@@ -1,0 +1,31 @@
+PokerStars Hand #149816437495:  Hold'em Limit ($3/$6 USD) - 2016/03/04 7:38:00 ET
+Table 'Ursa II' 6-max Seat #4 is the button
+Seat 1: VolkovDmitri ($177.13 in chips)
+Seat 4: SmellyToes4u ($58.82 in chips)
+SmellyToes4u: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+SmellyToes4u: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [5c 7s Tc]
+VolkovDmitri: checks
+SmellyToes4u: bets $3
+VolkovDmitri: raises $3 to $6
+SmellyToes4u: calls $3
+*** TURN *** [5c 7s Tc] [7d]
+VolkovDmitri: bets $6
+SmellyToes4u: calls $6
+*** RIVER *** [5c 7s Tc 7d] [6d]
+VolkovDmitri: bets $6
+SmellyToes4u: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [4c Qc] (a pair of Sevens)
+SmellyToes4u: shows [9d Kh] (a pair of Sevens - King kicker)
+SmellyToes4u collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [5c 7s Tc 7d 6d]
+Seat 1: VolkovDmitri (big blind) showed [4c Qc] and lost with a pair of Sevens
+Seat 4: SmellyToes4u (button) (small blind) showed [9d Kh] and won ($47.50) with a pair of Sevens
+
+

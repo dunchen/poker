@@ -1,0 +1,90 @@
+PokerStars Hand #160034058483:  Hold'em Limit ($3/$6 USD) - 2016/10/16 18:07:19 ET
+Table 'Laodamia' 6-max Seat #4 is the button
+Seat 1: Coldhandnik ($79 in chips)
+Seat 4: FHstyles ($61 in chips)
+FHstyles: posts small blind $1
+Coldhandnik: posts big blind $3
+*** HOLE CARDS ***
+FHstyles: raises $3 to $6
+Coldhandnik: calls $3
+*** FLOP *** [2h 2d Th]
+Coldhandnik: checks
+FHstyles: bets $3
+Coldhandnik: calls $3
+*** TURN *** [2h 2d Th] [Js]
+Coldhandnik: checks
+FHstyles: checks
+*** RIVER *** [2h 2d Th Js] [Ac]
+Coldhandnik: bets $6
+FHstyles: calls $6
+*** SHOW DOWN ***
+Coldhandnik: shows [4c Qs] (a pair of Deuces)
+FHstyles: shows [Kc 4h] (a pair of Deuces - Ace+King kicker)
+FHstyles collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2h 2d Th Js Ac]
+Seat 1: Coldhandnik (big blind) showed [4c Qs] and lost with a pair of Deuces
+Seat 4: FHstyles (button) (small blind) showed [Kc 4h] and won ($29.50) with a pair of Deuces
+
+
+PokerStars Hand #160034099798:  Hold'em Limit ($3/$6 USD) - 2016/10/16 18:08:08 ET
+Table 'Laodamia' 6-max Seat #4 is the button
+Seat 1: Coldhandnik ($46 in chips)
+Seat 4: FHstyles ($93 in chips)
+FHstyles: posts small blind $1
+Coldhandnik: posts big blind $3
+*** HOLE CARDS ***
+FHstyles: raises $3 to $6
+Coldhandnik: calls $3
+*** FLOP *** [7h Jd Qs]
+Coldhandnik: checks
+FHstyles: bets $3
+Coldhandnik: calls $3
+*** TURN *** [7h Jd Qs] [4s]
+Coldhandnik: checks
+FHstyles: checks
+*** RIVER *** [7h Jd Qs 4s] [9h]
+Coldhandnik: bets $6
+FHstyles: calls $6
+*** SHOW DOWN ***
+Coldhandnik: shows [7d Ts] (a pair of Sevens)
+FHstyles: shows [9d Kc] (a pair of Nines)
+FHstyles collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7h Jd Qs 4s 9h]
+Seat 1: Coldhandnik (big blind) showed [7d Ts] and lost with a pair of Sevens
+Seat 4: FHstyles (button) (small blind) showed [9d Kc] and won ($29.50) with a pair of Nines
+
+
+PokerStars Hand #160034077414:  Hold'em Limit ($3/$6 USD) - 2016/10/16 18:07:41 ET
+Table 'Laodamia' 6-max Seat #1 is the button
+Seat 1: Coldhandnik ($64 in chips)
+Seat 4: FHstyles ($75.50 in chips)
+Coldhandnik: posts small blind $1
+FHstyles: posts big blind $3
+*** HOLE CARDS ***
+Coldhandnik: raises $3 to $6
+FHstyles: calls $3
+*** FLOP *** [7d Th 7s]
+FHstyles: checks
+Coldhandnik: checks
+*** TURN *** [7d Th 7s] [5s]
+FHstyles: bets $6
+Coldhandnik: raises $6 to $12
+FHstyles: calls $6
+*** RIVER *** [7d Th 7s 5s] [6c]
+FHstyles: checks
+Coldhandnik: checks
+*** SHOW DOWN ***
+FHstyles: shows [8h 5d] (two pair, Sevens and Fives)
+Coldhandnik: mucks hand
+FHstyles collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [7d Th 7s 5s 6c]
+Seat 1: Coldhandnik (button) (small blind) mucked
+Seat 4: FHstyles (big blind) showed [8h 5d] and won ($35.50) with two pair, Sevens and Fives
+
+

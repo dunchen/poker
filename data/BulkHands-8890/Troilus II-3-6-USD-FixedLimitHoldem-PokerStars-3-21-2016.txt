@@ -1,0 +1,62 @@
+PokerStars Hand #150699275354:  Hold'em Limit ($3/$6 USD) - 2016/03/21 8:26:21 ET
+Table 'Troilus II' 6-max Seat #4 is the button
+Seat 3: Agniosius ($92.14 in chips)
+Seat 4: Mudager ($121 in chips)
+Mudager: posts small blind $1
+Agniosius: posts big blind $3
+*** HOLE CARDS ***
+Mudager: raises $3 to $6
+Agniosius: calls $3
+*** FLOP *** [3s Ah Ks]
+Agniosius: checks
+Mudager: bets $3
+Agniosius: calls $3
+*** TURN *** [3s Ah Ks] [6c]
+Agniosius: checks
+Mudager: checks
+*** RIVER *** [3s Ah Ks 6c] [2s]
+Agniosius: bets $6
+Mudager: calls $6
+*** SHOW DOWN ***
+Agniosius: shows [2c Qd] (a pair of Deuces)
+Mudager: shows [3c Qc] (a pair of Threes)
+Mudager collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3s Ah Ks 6c 2s]
+Seat 3: Agniosius (big blind) showed [2c Qd] and lost with a pair of Deuces
+Seat 4: Mudager (button) (small blind) showed [3c Qc] and won ($29.50) with a pair of Threes
+
+
+PokerStars Hand #150699287534:  Hold'em Limit ($3/$6 USD) - 2016/03/21 8:26:44 ET
+Table 'Troilus II' 6-max Seat #3 is the button
+Seat 3: Agniosius ($77.14 in chips)
+Seat 4: Mudager ($135.50 in chips)
+Agniosius: posts small blind $1
+Mudager: posts big blind $3
+*** HOLE CARDS ***
+Agniosius: raises $3 to $6
+Mudager: calls $3
+*** FLOP *** [5c Ks 8s]
+PinchMaster joins the table at seat #5
+Mudager: checks
+Agniosius: bets $3
+Mudager: raises $3 to $6
+Agniosius: calls $3
+*** TURN *** [5c Ks 8s] [2d]
+Mudager: bets $6
+Agniosius: calls $6
+*** RIVER *** [5c Ks 8s 2d] [3h]
+Mudager: bets $6
+Agniosius: calls $6
+*** SHOW DOWN ***
+Mudager: shows [Kh 7h] (a pair of Kings)
+Agniosius: mucks hand
+Mudager collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [5c Ks 8s 2d 3h]
+Seat 3: Agniosius (button) (small blind) mucked
+Seat 4: Mudager (big blind) showed [Kh 7h] and won ($47.50) with a pair of Kings
+
+

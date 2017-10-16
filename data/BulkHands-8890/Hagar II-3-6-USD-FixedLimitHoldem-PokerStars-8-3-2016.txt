@@ -1,0 +1,31 @@
+PokerStars Hand #156803066058:  Hold'em Limit ($3/$6 USD) - 2016/08/03 6:05:27 ET
+Table 'Hagar II' 6-max Seat #3 is the button
+Seat 3: Icecold ($365.44 in chips)
+Seat 5: zischepc ($125.22 in chips)
+Icecold: posts small blind $1
+zischepc: posts big blind $3
+*** HOLE CARDS ***
+Icecold: raises $3 to $6
+zischepc: calls $3
+*** FLOP *** [Ts 3d Qd]
+zischepc: bets $3
+Icecold: raises $3 to $6
+zischepc: calls $3
+*** TURN *** [Ts 3d Qd] [5c]
+zischepc: checks
+Icecold: bets $6
+zischepc: calls $6
+*** RIVER *** [Ts 3d Qd 5c] [9s]
+zischepc: checks
+Icecold: checks
+*** SHOW DOWN ***
+zischepc: shows [3h Jh] (a pair of Threes)
+Icecold: shows [Qc 7s] (a pair of Queens)
+Icecold collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Ts 3d Qd 5c 9s]
+Seat 3: Icecold (button) (small blind) showed [Qc 7s] and won ($35.50) with a pair of Queens
+Seat 5: zischepc (big blind) showed [3h Jh] and lost with a pair of Threes
+
+

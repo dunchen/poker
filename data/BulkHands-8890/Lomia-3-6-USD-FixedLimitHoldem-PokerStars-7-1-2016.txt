@@ -1,0 +1,85 @@
+PokerStars Hand #155416447584:  Hold'em Limit ($3/$6 USD) - 2016/07/01 4:24:41 ET
+Table 'Lomia' 6-max Seat #4 is the button
+Seat 3: TmsFerreira ($116.50 in chips)
+Seat 4: VolkovDmitri ($152 in chips)
+VolkovDmitri: posts small blind $1
+TmsFerreira: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+TmsFerreira: calls $3
+*** FLOP *** [9c 3s 9h]
+TmsFerreira: checks
+VolkovDmitri: bets $3
+TmsFerreira: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+TmsFerreira leaves the table
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9c 3s 9h]
+Seat 3: TmsFerreira (big blind) folded on the Flop
+Seat 4: VolkovDmitri (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #155416437995:  Hold'em Limit ($3/$6 USD) - 2016/07/01 4:24:08 ET
+Table 'Lomia' 6-max Seat #3 is the button
+Seat 3: TmsFerreira ($140.50 in chips)
+Seat 4: VolkovDmitri ($128.50 in chips)
+TmsFerreira: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+TmsFerreira: calls $2
+VolkovDmitri: raises $3 to $6
+TmsFerreira: calls $3
+*** FLOP *** [Td 5d 5h]
+VolkovDmitri: bets $3
+TmsFerreira: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [Td 5d 5h] [Kh]
+VolkovDmitri: bets $6
+TmsFerreira: calls $6
+*** RIVER *** [Td 5d 5h Kh] [2s]
+VolkovDmitri: bets $6
+TmsFerreira: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Qh Kd] (two pair, Kings and Fives)
+TmsFerreira: mucks hand
+VolkovDmitri collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Td 5d 5h Kh 2s]
+Seat 3: TmsFerreira (button) (small blind) mucked
+Seat 4: VolkovDmitri (big blind) showed [Qh Kd] and won ($47.50) with two pair, Kings and Fives
+
+
+PokerStars Hand #155416428101:  Hold'em Limit ($3/$6 USD) - 2016/07/01 4:23:35 ET
+Table 'Lomia' 6-max Seat #4 is the button
+Seat 3: TmsFerreira ($123 in chips)
+Seat 4: VolkovDmitri ($146.50 in chips)
+VolkovDmitri: posts small blind $1
+TmsFerreira: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+TmsFerreira: calls $3
+*** FLOP *** [3c 9d Jh]
+TmsFerreira: checks
+VolkovDmitri: bets $3
+TmsFerreira: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [3c 9d Jh] [8s]
+TmsFerreira: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [3c 9d Jh 8s] [5h]
+TmsFerreira: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to TmsFerreira
+TmsFerreira collected $35.50 from pot
+TmsFerreira: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [3c 9d Jh 8s 5h]
+Seat 3: TmsFerreira (big blind) collected ($35.50)
+Seat 4: VolkovDmitri (button) (small blind) folded on the River
+
+

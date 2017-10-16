@@ -1,0 +1,82 @@
+PokerStars Hand #160154063506:  Hold'em Limit ($3/$6 USD) - 2016/10/19 13:33:43 ET
+Table 'Fiducia' 10-max Seat #5 is the button
+Seat 4: TinaTurner72 ($119 in chips)
+Seat 5: denn69 ($73.74 in chips)
+denn69: posts small blind $1
+TinaTurner72: posts big blind $3
+*** HOLE CARDS ***
+Jokkez 85 joins the table at seat #6
+denn69: raises $3 to $6
+TinaTurner72: folds
+Uncalled bet ($3) returned to denn69
+denn69 collected $6 from pot
+denn69: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 4: TinaTurner72 (big blind) folded before Flop
+Seat 5: denn69 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #160154079879:  Hold'em Limit ($3/$6 USD) - 2016/10/19 13:34:04 ET
+Table 'Fiducia' 10-max Seat #4 is the button
+Seat 4: TinaTurner72 ($116 in chips)
+Seat 5: denn69 ($76.74 in chips)
+TinaTurner72: posts small blind $1
+denn69: posts big blind $3
+*** HOLE CARDS ***
+TinaTurner72: raises $3 to $6
+denn69: calls $3
+*** FLOP *** [Tc 3s 7c]
+denn69: checks
+TinaTurner72: bets $3
+denn69: calls $3
+*** TURN *** [Tc 3s 7c] [9d]
+denn69: checks
+TinaTurner72: checks
+*** RIVER *** [Tc 3s 7c 9d] [5d]
+denn69: checks
+TinaTurner72: checks
+*** SHOW DOWN ***
+denn69: shows [6c 5h] (a pair of Fives)
+TinaTurner72: mucks hand
+denn69 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Tc 3s 7c 9d 5d]
+Seat 4: TinaTurner72 (button) (small blind) mucked
+Seat 5: denn69 (big blind) showed [6c 5h] and won ($17.64) with a pair of Fives
+
+
+PokerStars Hand #160169173639:  Hold'em Limit ($3/$6 USD) - 2016/10/19 19:12:03 ET
+Table 'Fiducia' 10-max Seat #7 is the button
+Seat 6: komornik ($53.44 in chips)
+Seat 7: ToDaFelt ($320.82 in chips)
+ToDaFelt: posts small blind $1
+rastyb87: is sitting out
+komornik: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+komornik: calls $3
+*** FLOP *** [9c Jd 9s]
+komornik: checks
+rastyb87 leaves the table
+ToDaFelt: checks
+*** TURN *** [9c Jd 9s] [3c]
+komornik: checks
+ToDaFelt: bets $6
+komornik: raises $6 to $12
+ToDaFelt: calls $6
+*** RIVER *** [9c Jd 9s 3c] [6h]
+komornik: bets $6
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+komornik: shows [3s Ks] (two pair, Nines and Threes)
+ToDaFelt: mucks hand
+komornik collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9c Jd 9s 3c 6h]
+Seat 6: komornik (big blind) showed [3s Ks] and won ($47.50) with two pair, Nines and Threes
+Seat 7: ToDaFelt (button) (small blind) mucked
+
+

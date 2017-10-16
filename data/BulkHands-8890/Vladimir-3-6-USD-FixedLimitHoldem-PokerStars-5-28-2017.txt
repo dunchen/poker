@@ -1,0 +1,325 @@
+PokerStars Hand #171040287646:  Hold'em Limit ($3/$6 USD) - 2017/05/28 16:01:12 ET
+Table 'Vladimir' 6-max Seat #1 is the button
+Seat 1: Chessnok ($125.14 in chips)
+Seat 2: Asselheim ($113.26 in chips)
+Chessnok: posts small blind $1
+Asselheim: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+Asselheim: calls $3
+*** FLOP *** [Jd 9d Ah]
+Asselheim: checks
+Chessnok: bets $3
+Asselheim: folds
+Uncalled bet ($3) returned to Chessnok
+Chessnok collected $11.76 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jd 9d Ah]
+Seat 1: Chessnok (button) (small blind) collected ($11.76)
+Seat 2: Asselheim (big blind) folded on the Flop
+
+
+PokerStars Hand #171040271617:  Hold'em Limit ($3/$6 USD) - 2017/05/28 16:00:51 ET
+Table 'Vladimir' 6-max Seat #2 is the button
+Seat 1: Chessnok ($131.14 in chips)
+Seat 2: Asselheim ($107.50 in chips)
+Asselheim: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+Asselheim: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [Tc Kd 6c]
+Chessnok: checks
+Asselheim: bets $3
+Chessnok: folds
+Uncalled bet ($3) returned to Asselheim
+Asselheim collected $11.76 from pot
+Asselheim: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Tc Kd 6c]
+Seat 1: Chessnok (big blind) folded on the Flop
+Seat 2: Asselheim (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #171040246845:  Hold'em Limit ($3/$6 USD) - 2017/05/28 16:00:16 ET
+Table 'Vladimir' 6-max Seat #1 is the button
+Seat 1: Chessnok ($107.64 in chips)
+Seat 2: Asselheim ($131.50 in chips)
+Chessnok: posts small blind $1
+Asselheim: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+Asselheim: raises $3 to $9
+Chessnok: calls $3
+*** FLOP *** [As Jc Ts]
+Asselheim: bets $3
+Chessnok: calls $3
+*** TURN *** [As Jc Ts] [Kh]
+Asselheim: bets $6
+Chessnok: calls $6
+*** RIVER *** [As Jc Ts Kh] [Qs]
+Asselheim: checks
+Chessnok: bets $6
+Asselheim: calls $6
+*** SHOW DOWN ***
+Chessnok: shows [Js 8s] (a flush, Ace high)
+Asselheim: mucks hand
+Chessnok collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [As Jc Ts Kh Qs]
+Seat 1: Chessnok (button) (small blind) showed [Js 8s] and won ($47.50) with a flush, Ace high
+Seat 2: Asselheim (big blind) mucked
+
+
+PokerStars Hand #171040322959:  Hold'em Limit ($3/$6 USD) - 2017/05/28 16:01:57 ET
+Table 'Vladimir' 6-max Seat #2 is the button
+Seat 1: Chessnok ($149.40 in chips)
+Seat 2: Asselheim ($88.26 in chips)
+Asselheim: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+Asselheim: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [Kh 7s 9s]
+Chessnok: checks
+Asselheim: bets $3
+Chessnok: calls $3
+*** TURN *** [Kh 7s 9s] [Ac]
+Chessnok: checks
+Asselheim: bets $6
+Chessnok: calls $6
+*** RIVER *** [Kh 7s 9s Ac] [2s]
+Chessnok: checks
+Asselheim: bets $6
+Chessnok: calls $6
+*** SHOW DOWN ***
+Asselheim: shows [Ts As] (a flush, Ace high)
+Chessnok: mucks hand
+Asselheim collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Kh 7s 9s Ac 2s]
+Seat 1: Chessnok (big blind) mucked
+Seat 2: Asselheim (button) (small blind) showed [Ts As] and won ($41.50) with a flush, Ace high
+
+
+PokerStars Hand #171040300417:  Hold'em Limit ($3/$6 USD) - 2017/05/28 16:01:29 ET
+Table 'Vladimir' 6-max Seat #1 is the button
+Seat 1: Chessnok ($131.90 in chips)
+Seat 2: Asselheim ($106.26 in chips)
+Chessnok: posts small blind $1
+Asselheim: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+Asselheim: calls $3
+*** FLOP *** [2h Qs 9h]
+Asselheim: checks
+Chessnok: bets $3
+Asselheim: raises $3 to $6
+Chessnok: calls $3
+*** TURN *** [2h Qs 9h] [As]
+Asselheim: bets $6
+Chessnok: calls $6
+*** RIVER *** [2h Qs 9h As] [Ts]
+Asselheim: checks
+Chessnok: checks
+*** SHOW DOWN ***
+Asselheim: shows [9c 4c] (a pair of Nines)
+Chessnok: shows [Qh 5s] (a pair of Queens)
+Chessnok collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [2h Qs 9h As Ts]
+Seat 1: Chessnok (button) (small blind) showed [Qh 5s] and won ($35.50) with a pair of Queens
+Seat 2: Asselheim (big blind) showed [9c 4c] and lost with a pair of Nines
+
+
+PokerStars Hand #171040396211:  Hold'em Limit ($3/$6 USD) - 2017/05/28 16:03:21 ET
+Table 'Vladimir' 6-max Seat #2 is the button
+Seat 1: Chessnok ($96.40 in chips)
+Seat 2: Asselheim ($139.78 in chips)
+Asselheim: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+Asselheim: raises $3 to $6
+Chessnok: folds
+Uncalled bet ($3) returned to Asselheim
+Asselheim collected $6 from pot
+Asselheim: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: Chessnok (big blind) folded before Flop
+Seat 2: Asselheim (button) (small blind) collected ($6)
+
+
+PokerStars Hand #171040375935:  Hold'em Limit ($3/$6 USD) - 2017/05/28 16:02:58 ET
+Table 'Vladimir' 6-max Seat #1 is the button
+Seat 1: Chessnok ($114.40 in chips)
+Seat 2: Asselheim ($122.28 in chips)
+Chessnok: posts small blind $1
+Asselheim: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+Asselheim: calls $3
+*** FLOP *** [9s Ts Ad]
+Asselheim: checks
+Chessnok: bets $3
+Asselheim: raises $3 to $6
+Chessnok: calls $3
+*** TURN *** [9s Ts Ad] [Td]
+Asselheim: bets $6
+Chessnok: calls $6
+*** RIVER *** [9s Ts Ad Td] [Qd]
+Asselheim: checks
+Chessnok: checks
+*** SHOW DOWN ***
+Asselheim: shows [7h 9h] (two pair, Tens and Nines)
+Chessnok: mucks hand
+Asselheim collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [9s Ts Ad Td Qd]
+Seat 1: Chessnok (button) (small blind) mucked
+Seat 2: Asselheim (big blind) showed [7h 9h] and won ($35.50) with two pair, Tens and Nines
+
+
+PokerStars Hand #171040361280:  Hold'em Limit ($3/$6 USD) - 2017/05/28 16:02:43 ET
+Table 'Vladimir' 6-max Seat #2 is the button
+Seat 1: Chessnok ($120.40 in chips)
+Seat 2: Asselheim ($116.52 in chips)
+Asselheim: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+Asselheim: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [Jh Kd 7s]
+Chessnok: checks
+Asselheim: bets $3
+Chessnok: folds
+Uncalled bet ($3) returned to Asselheim
+Asselheim collected $11.76 from pot
+Asselheim: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jh Kd 7s]
+Seat 1: Chessnok (big blind) folded on the Flop
+Seat 2: Asselheim (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #171040357454:  Hold'em Limit ($3/$6 USD) - 2017/05/28 16:02:38 ET
+Table 'Vladimir' 6-max Seat #1 is the button
+Seat 1: Chessnok ($121.40 in chips)
+Seat 2: Asselheim ($115.52 in chips)
+Chessnok: posts small blind $1
+Asselheim: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: folds
+Uncalled bet ($2) returned to Asselheim
+Asselheim collected $2 from pot
+Asselheim: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Chessnok (button) (small blind) folded before Flop
+Seat 2: Asselheim (big blind) collected ($2)
+
+
+PokerStars Hand #171040346856:  Hold'em Limit ($3/$6 USD) - 2017/05/28 16:02:26 ET
+Table 'Vladimir' 6-max Seat #2 is the button
+Seat 1: Chessnok ($127.40 in chips)
+Seat 2: Asselheim ($109.76 in chips)
+Asselheim: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+Asselheim: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [Tc Jh 6d]
+Chessnok: checks
+Asselheim: bets $3
+Chessnok: folds
+Uncalled bet ($3) returned to Asselheim
+Asselheim collected $11.76 from pot
+Asselheim: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Tc Jh 6d]
+Seat 1: Chessnok (big blind) folded on the Flop
+Seat 2: Asselheim (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #171040425825:  Hold'em Limit ($3/$6 USD) - 2017/05/28 16:03:55 ET
+Table 'Vladimir' 6-max Seat #1 is the button
+Seat 1: Chessnok ($104.90 in chips)
+Seat 2: Asselheim ($130.54 in chips)
+Chessnok: posts small blind $1
+Asselheim: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+Asselheim: raises $3 to $9
+Chessnok: calls $3
+*** FLOP *** [2s Qs 8d]
+Asselheim: bets $3
+Chessnok: folds
+Uncalled bet ($3) returned to Asselheim
+Asselheim collected $17.64 from pot
+Asselheim: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2s Qs 8d]
+Seat 1: Chessnok (button) (small blind) folded on the Flop
+Seat 2: Asselheim (big blind) collected ($17.64)
+
+
+PokerStars Hand #171040417689:  Hold'em Limit ($3/$6 USD) - 2017/05/28 16:03:45 ET
+Table 'Vladimir' 6-max Seat #2 is the button
+Seat 1: Chessnok ($110.90 in chips)
+Seat 2: Asselheim ($124.78 in chips)
+Asselheim: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+Asselheim: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [Qc Ah Kc]
+Chessnok: checks
+Asselheim: bets $3
+Chessnok: folds
+Uncalled bet ($3) returned to Asselheim
+Asselheim collected $11.76 from pot
+Asselheim: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qc Ah Kc]
+Seat 1: Chessnok (big blind) folded on the Flop
+Seat 2: Asselheim (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #171040401720:  Hold'em Limit ($3/$6 USD) - 2017/05/28 16:03:27 ET
+Table 'Vladimir' 6-max Seat #1 is the button
+Seat 1: Chessnok ($93.40 in chips)
+Seat 2: Asselheim ($142.78 in chips)
+Chessnok: posts small blind $1
+Asselheim: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+Asselheim: raises $3 to $9
+Chessnok: calls $3
+*** FLOP *** [4c 8c 5d]
+Asselheim: bets $3
+Chessnok: calls $3
+*** TURN *** [4c 8c 5d] [Qc]
+Asselheim: bets $6
+Chessnok: raises $6 to $12
+Asselheim: folds
+Uncalled bet ($6) returned to Chessnok
+Chessnok collected $35.50 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [4c 8c 5d Qc]
+Seat 1: Chessnok (button) (small blind) collected ($35.50)
+Seat 2: Asselheim (big blind) folded on the Turn
+
+

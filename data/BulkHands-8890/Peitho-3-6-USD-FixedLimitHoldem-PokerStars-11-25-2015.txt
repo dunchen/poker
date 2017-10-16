@@ -1,0 +1,80 @@
+PokerStars Hand #144339839003:  Hold'em Limit ($3/$6 USD) - 2015/11/24 19:34:40 ET
+Table 'Peitho' 6-max Seat #1 is the button
+Seat 1: chrissie ($23.79 in chips)
+Seat 3: Chessnok ($194.32 in chips)
+chrissie: posts small blind $1
+Velbor107: is sitting out
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+chrissie: folds
+Uncalled bet ($2) returned to Chessnok
+Chessnok collected $2 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: chrissie (button) (small blind) folded before Flop
+Seat 3: Chessnok (big blind) collected ($2)
+
+
+PokerStars Hand #144339842744:  Hold'em Limit ($3/$6 USD) - 2015/11/24 19:34:47 ET
+Table 'Peitho' 6-max Seat #3 is the button
+Seat 1: chrissie ($22.79 in chips)
+Seat 3: Chessnok ($195.32 in chips)
+Chessnok: posts small blind $1
+chrissie: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+chrissie: raises $3 to $9
+Chessnok: calls $3
+*** FLOP *** [2h 3c Qs]
+chrissie: bets $3
+Chessnok: calls $3
+*** TURN *** [2h 3c Qs] [2d]
+chrissie: bets $6
+Chessnok: raises $6 to $12
+chrissie: calls $4.79 and is all-in
+Uncalled bet ($1.21) returned to Chessnok
+*** RIVER *** [2h 3c Qs 2d] [As]
+*** SHOW DOWN ***
+chrissie: shows [Kc Qh] (two pair, Queens and Deuces)
+Chessnok: shows [Qd Tc] (two pair, Queens and Deuces)
+chrissie collected $22.54 from pot
+Chessnok collected $22.54 from pot
+*** SUMMARY ***
+Total pot $45.58 | Rake $0.50
+Board [2h 3c Qs 2d As]
+Seat 1: chrissie (big blind) showed [Kc Qh] and won ($22.54) with two pair, Queens and Deuces
+Seat 3: Chessnok (button) (small blind) showed [Qd Tc] and won ($22.54) with two pair, Queens and Deuces
+
+
+PokerStars Hand #144339858614:  Hold'em Limit ($3/$6 USD) - 2015/11/24 19:35:13 ET
+Table 'Peitho' 6-max Seat #1 is the button
+Seat 1: chrissie ($22.54 in chips)
+Seat 3: Chessnok ($195.07 in chips)
+chrissie: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+chrissie: raises $3 to $6
+Chessnok: raises $3 to $9
+chrissie: calls $3
+*** FLOP *** [3h Td 7c]
+Chessnok: bets $3
+chrissie: calls $3
+*** TURN *** [3h Td 7c] [6s]
+Chessnok: bets $6
+chrissie: calls $6
+*** RIVER *** [3h Td 7c 6s] [9c]
+Chessnok: bets $6
+chrissie: calls $4.54 and is all-in
+Uncalled bet ($1.46) returned to Chessnok
+*** SHOW DOWN ***
+Chessnok: shows [9s Kh] (a pair of Nines)
+chrissie: shows [Jh Qd] (high card Queen)
+Chessnok collected $44.58 from pot
+*** SUMMARY ***
+Total pot $45.08 | Rake $0.50
+Board [3h Td 7c 6s 9c]
+Seat 1: chrissie (button) (small blind) showed [Jh Qd] and lost with high card Queen
+Seat 3: Chessnok (big blind) showed [9s Kh] and won ($44.58) with a pair of Nines
+
+

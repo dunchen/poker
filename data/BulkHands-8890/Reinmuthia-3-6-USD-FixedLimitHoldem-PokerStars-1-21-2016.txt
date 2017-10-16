@@ -1,0 +1,31 @@
+PokerStars Hand #147426891835:  Hold'em Limit ($3/$6 USD) - 2016/01/21 11:49:44 ET
+Table 'Reinmuthia' 10-max Seat #7 is the button
+Seat 3: Johnliu ($158.37 in chips)
+Seat 7: belik555 ($159.44 in chips)
+belik555: posts small blind $1
+Johnliu: posts big blind $3
+*** HOLE CARDS ***
+belik555: raises $3 to $6
+Johnliu: calls $3
+*** FLOP *** [Jd Qd 8d]
+Johnliu: checks
+belik555: bets $3
+Johnliu: calls $3
+*** TURN *** [Jd Qd 8d] [4h]
+Johnliu: checks
+belik555: checks
+*** RIVER *** [Jd Qd 8d 4h] [2h]
+Johnliu: checks
+belik555: bets $6
+Johnliu: calls $6
+*** SHOW DOWN ***
+belik555: shows [3c 2c] (a pair of Deuces)
+Johnliu: shows [8c 9c] (a pair of Eights)
+Johnliu collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Jd Qd 8d 4h 2h]
+Seat 3: Johnliu (big blind) showed [8c 9c] and won ($29.50) with a pair of Eights
+Seat 7: belik555 (button) (small blind) showed [3c 2c] and lost with a pair of Deuces
+
+

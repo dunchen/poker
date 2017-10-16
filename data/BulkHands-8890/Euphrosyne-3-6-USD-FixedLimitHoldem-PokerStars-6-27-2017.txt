@@ -1,0 +1,426 @@
+PokerStars Hand #172295709072:  Hold'em Limit ($3/$6 USD) - 2017/06/27 5:27:48 ET
+Table 'Euphrosyne' 10-max Seat #1 is the button
+Seat 1: ManuelSikora ($88.15 in chips)
+Seat 7: VolkovDmitri ($120 in chips)
+ManuelSikora: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+ManuelSikora: calls $2
+VolkovDmitri: raises $3 to $6
+ManuelSikora: calls $3
+*** FLOP *** [Qc 9s Qs]
+VolkovDmitri: bets $3
+ManuelSikora: calls $3
+*** TURN *** [Qc 9s Qs] [Tc]
+VolkovDmitri: checks
+ManuelSikora: checks
+*** RIVER *** [Qc 9s Qs Tc] [3d]
+VolkovDmitri: bets $6
+ManuelSikora: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $17.64 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qc 9s Qs Tc 3d]
+Seat 1: ManuelSikora (button) (small blind) folded on the River
+Seat 7: VolkovDmitri (big blind) collected ($17.64)
+
+
+PokerStars Hand #172295727406:  Hold'em Limit ($3/$6 USD) - 2017/06/27 5:28:43 ET
+Table 'Euphrosyne' 10-max Seat #1 is the button
+Seat 1: ManuelSikora ($90.67 in chips)
+Seat 7: VolkovDmitri ($120 in chips)
+ManuelSikora: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+ManuelSikora: calls $2
+VolkovDmitri: raises $3 to $6
+ManuelSikora: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [6s Ac 8s]
+VolkovDmitri: checks
+ManuelSikora: checks
+*** TURN *** [6s Ac 8s] [Kd]
+VolkovDmitri: bets $6
+ManuelSikora: raises $6 to $12
+VolkovDmitri: calls $6
+*** RIVER *** [6s Ac 8s Kd] [6c]
+VolkovDmitri: checks
+ManuelSikora: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+ManuelSikora: shows [Ad Ah] (a full house, Aces full of Sixes)
+VolkovDmitri: mucks hand
+ManuelSikora collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [6s Ac 8s Kd 6c]
+Seat 1: ManuelSikora (button) (small blind) showed [Ad Ah] and won ($53.50) with a full house, Aces full of Sixes
+Seat 7: VolkovDmitri (big blind) mucked
+
+
+PokerStars Hand #172295719057:  Hold'em Limit ($3/$6 USD) - 2017/06/27 5:28:18 ET
+Table 'Euphrosyne' 10-max Seat #7 is the button
+Seat 1: ManuelSikora ($79.15 in chips)
+Seat 7: VolkovDmitri ($128.64 in chips)
+VolkovDmitri: posts small blind $1
+ManuelSikora: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+ManuelSikora: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [5c 3h Qs]
+ManuelSikora: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [5c 3h Qs] [Qh]
+ManuelSikora: checks
+VolkovDmitri: checks
+*** RIVER *** [5c 3h Qs Qh] [Qd]
+ManuelSikora: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+ManuelSikora: shows [Kd Jd] (three of a kind, Queens)
+VolkovDmitri: mucks hand
+ManuelSikora collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [5c 3h Qs Qh Qd]
+Seat 1: ManuelSikora (big blind) showed [Kd Jd] and won ($23.52) with three of a kind, Queens
+Seat 7: VolkovDmitri (button) (small blind) mucked
+
+
+PokerStars Hand #172295750413:  Hold'em Limit ($3/$6 USD) - 2017/06/27 5:29:51 ET
+Table 'Euphrosyne' 10-max Seat #1 is the button
+Seat 1: ManuelSikora ($118.81 in chips)
+Seat 7: VolkovDmitri ($126.76 in chips)
+ManuelSikora: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+ManuelSikora: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+ManuelSikora: calls $3
+*** FLOP *** [9d 5s Jc]
+VolkovDmitri: bets $3
+ManuelSikora: calls $3
+*** TURN *** [9d 5s Jc] [Kd]
+VolkovDmitri: bets $6
+ManuelSikora: calls $6
+*** RIVER *** [9d 5s Jc Kd] [4c]
+VolkovDmitri: checks
+ManuelSikora: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [5h As] (a pair of Fives)
+ManuelSikora: mucks hand
+VolkovDmitri collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [9d 5s Jc Kd 4c]
+Seat 1: ManuelSikora (button) (small blind) mucked
+Seat 7: VolkovDmitri (big blind) showed [5h As] and won ($35.50) with a pair of Fives
+
+
+PokerStars Hand #172295746958:  Hold'em Limit ($3/$6 USD) - 2017/06/27 5:29:41 ET
+Table 'Euphrosyne' 10-max Seat #7 is the button
+Seat 1: ManuelSikora ($124.81 in chips)
+Seat 7: VolkovDmitri ($121 in chips)
+VolkovDmitri: posts small blind $1
+ManuelSikora: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+ManuelSikora: calls $3
+*** FLOP *** [As 5d 9c]
+ManuelSikora: checks
+VolkovDmitri: bets $3
+ManuelSikora: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [As 5d 9c]
+Seat 1: ManuelSikora (big blind) folded on the Flop
+Seat 7: VolkovDmitri (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #172295740583:  Hold'em Limit ($3/$6 USD) - 2017/06/27 5:29:22 ET
+Table 'Euphrosyne' 10-max Seat #7 is the button
+Seat 1: ManuelSikora ($117.17 in chips)
+Seat 7: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+ManuelSikora: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+ManuelSikora: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [Ac 9c 3h]
+ManuelSikora: bets $3
+VolkovDmitri: folds
+Uncalled bet ($3) returned to ManuelSikora
+ManuelSikora collected $17.64 from pot
+ManuelSikora: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ac 9c 3h]
+Seat 1: ManuelSikora (big blind) collected ($17.64)
+Seat 7: VolkovDmitri (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #172295745030:  Hold'em Limit ($3/$6 USD) - 2017/06/27 5:29:35 ET
+Table 'Euphrosyne' 10-max Seat #1 is the button
+Seat 1: ManuelSikora ($125.81 in chips)
+Seat 7: VolkovDmitri ($120 in chips)
+ManuelSikora: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+ManuelSikora: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: ManuelSikora (button) (small blind) folded before Flop
+Seat 7: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #172295780024:  Hold'em Limit ($3/$6 USD) - 2017/06/27 5:31:20 ET
+Table 'Euphrosyne' 10-max Seat #1 is the button
+Seat 1: ManuelSikora ($108.81 in chips)
+Seat 7: VolkovDmitri ($143.50 in chips)
+ManuelSikora: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+ManuelSikora: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: ManuelSikora (button) (small blind) folded before Flop
+Seat 7: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #172295772429:  Hold'em Limit ($3/$6 USD) - 2017/06/27 5:30:57 ET
+Table 'Euphrosyne' 10-max Seat #7 is the button
+Seat 1: ManuelSikora ($132.81 in chips)
+Seat 7: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+ManuelSikora: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+ManuelSikora: raises $3 to $9
+VolkovDmitri: raises $3 to $12
+Betting is capped
+ManuelSikora: calls $3
+*** FLOP *** [Jc 8s Ac]
+ManuelSikora: bets $3
+VolkovDmitri: raises $3 to $6
+ManuelSikora: calls $3
+*** TURN *** [Jc 8s Ac] [4s]
+ManuelSikora: checks
+VolkovDmitri: bets $6
+ManuelSikora: calls $6
+*** RIVER *** [Jc 8s Ac 4s] [6c]
+ManuelSikora: checks
+VolkovDmitri: bets $6
+ManuelSikora: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $47.50 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Jc 8s Ac 4s 6c]
+Seat 1: ManuelSikora (big blind) folded on the River
+Seat 7: VolkovDmitri (button) (small blind) collected ($47.50)
+
+
+PokerStars Hand #172295756259:  Hold'em Limit ($3/$6 USD) - 2017/06/27 5:30:08 ET
+Table 'Euphrosyne' 10-max Seat #7 is the button
+Seat 1: ManuelSikora ($100.81 in chips)
+Seat 7: VolkovDmitri ($144.26 in chips)
+VolkovDmitri: posts small blind $1
+ManuelSikora: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+ManuelSikora: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [Ah 9d Tc]
+ManuelSikora: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [Ah 9d Tc] [9c]
+ManuelSikora: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [Ah 9d Tc 9c] [5c]
+ManuelSikora: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to ManuelSikora
+ManuelSikora collected $35.50 from pot
+ManuelSikora: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Ah 9d Tc 9c 5c]
+Seat 1: ManuelSikora (big blind) collected ($35.50)
+Seat 7: VolkovDmitri (button) (small blind) folded on the River
+
+
+PokerStars Hand #172295765997:  Hold'em Limit ($3/$6 USD) - 2017/06/27 5:30:38 ET
+Table 'Euphrosyne' 10-max Seat #1 is the button
+Seat 1: ManuelSikora ($118.31 in chips)
+Seat 7: VolkovDmitri ($126.26 in chips)
+ManuelSikora: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+ManuelSikora: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Th 8d 3c]
+VolkovDmitri: bets $3
+ManuelSikora: calls $3
+*** TURN *** [Th 8d 3c] [4d]
+VolkovDmitri: bets $6
+ManuelSikora: calls $6
+*** RIVER *** [Th 8d 3c 4d] [Js]
+VolkovDmitri: checks
+ManuelSikora: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [8c 9h] (a pair of Eights)
+ManuelSikora: shows [8h Ks] (a pair of Eights - King kicker)
+ManuelSikora collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Th 8d 3c 4d Js]
+Seat 1: ManuelSikora (button) (small blind) showed [8h Ks] and won ($29.50) with a pair of Eights
+Seat 7: VolkovDmitri (big blind) showed [8c 9h] and lost with a pair of Eights
+
+
+PokerStars Hand #172295781859:  Hold'em Limit ($3/$6 USD) - 2017/06/27 5:31:25 ET
+Table 'Euphrosyne' 10-max Seat #7 is the button
+Seat 1: ManuelSikora ($107.81 in chips)
+Seat 7: VolkovDmitri ($144.50 in chips)
+VolkovDmitri: posts small blind $1
+ManuelSikora: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: folds
+Uncalled bet ($2) returned to ManuelSikora
+ManuelSikora collected $2 from pot
+ManuelSikora: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: ManuelSikora (big blind) collected ($2)
+Seat 7: VolkovDmitri (button) (small blind) folded before Flop
+
+
+PokerStars Hand #172295795182:  Hold'em Limit ($3/$6 USD) - 2017/06/27 5:31:49 ET
+Table 'Euphrosyne' 10-max Seat #7 is the button
+Seat 1: ManuelSikora ($123.31 in chips)
+Seat 7: VolkovDmitri ($128.50 in chips)
+VolkovDmitri: posts small blind $1
+ManuelSikora: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+ManuelSikora: calls $3
+*** FLOP *** [Tc 4h Kd]
+ManuelSikora: bets $3
+VolkovDmitri: raises $3 to $6
+ManuelSikora: raises $3 to $9
+VolkovDmitri: calls $3
+*** TURN *** [Tc 4h Kd] [4c]
+ManuelSikora: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to ManuelSikora
+ManuelSikora collected $29.50 from pot
+ManuelSikora: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Tc 4h Kd 4c]
+Seat 1: ManuelSikora (big blind) collected ($29.50)
+Seat 7: VolkovDmitri (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #172295783748:  Hold'em Limit ($3/$6 USD) - 2017/06/27 5:31:31 ET
+Table 'Euphrosyne' 10-max Seat #1 is the button
+Seat 1: ManuelSikora ($108.81 in chips)
+Seat 7: VolkovDmitri ($143.50 in chips)
+ManuelSikora: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+ManuelSikora: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Td 2c 4c]
+VolkovDmitri: checks
+ManuelSikora: bets $3
+VolkovDmitri: raises $3 to $6
+ManuelSikora: raises $3 to $9
+VolkovDmitri: calls $3
+*** TURN *** [Td 2c 4c] [4s]
+VolkovDmitri: checks
+ManuelSikora: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to ManuelSikora
+ManuelSikora collected $29.50 from pot
+ManuelSikora: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Td 2c 4c 4s]
+Seat 1: ManuelSikora (button) (small blind) collected ($29.50)
+Seat 7: VolkovDmitri (big blind) folded on the Turn
+
+
+PokerStars Hand #172295800992:  Hold'em Limit ($3/$6 USD) - 2017/06/27 5:32:06 ET
+Table 'Euphrosyne' 10-max Seat #1 is the button
+Seat 1: ManuelSikora ($137.81 in chips)
+Seat 7: VolkovDmitri ($120 in chips)
+ManuelSikora: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+ManuelSikora: calls $2
+VolkovDmitri: raises $3 to $6
+ManuelSikora: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [Ad 4h Tc]
+VolkovDmitri: checks
+ManuelSikora: checks
+*** TURN *** [Ad 4h Tc] [4s]
+VolkovDmitri: checks
+ManuelSikora: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to ManuelSikora
+ManuelSikora collected $17.64 from pot
+ManuelSikora: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ad 4h Tc 4s]
+Seat 1: ManuelSikora (button) (small blind) collected ($17.64)
+Seat 7: VolkovDmitri (big blind) folded on the Turn
+
+
+PokerStars Hand #172295812447:  Hold'em Limit ($3/$6 USD) - 2017/06/27 5:32:40 ET
+Table 'Euphrosyne' 10-max Seat #7 is the button
+Seat 1: ManuelSikora ($146.45 in chips)
+Seat 7: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+ManuelSikora: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+ManuelSikora: raises $3 to $9
+AzureCaper joins the table at seat #2
+VolkovDmitri: calls $3
+*** FLOP *** [Ts 9h Jd]
+ManuelSikora: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [Ts 9h Jd] [4s]
+ManuelSikora: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [Ts 9h Jd 4s] [Qh]
+ManuelSikora: bets $6
+VolkovDmitri: raises $6 to $12
+ManuelSikora: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $47.50 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Ts 9h Jd 4s Qh]
+Seat 1: ManuelSikora (big blind) folded on the River
+Seat 7: VolkovDmitri (button) (small blind) collected ($47.50)
+
+

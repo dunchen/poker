@@ -1,0 +1,110 @@
+PokerStars Hand #174305758320:  Hold'em Limit ($3/$6 USD) - 2017/08/13 20:20:59 ET
+Table 'Liriope' 6-max Seat #1 is the button
+Seat 1: Velbor107 ($300 in chips)
+Seat 2: millon ($120 in chips)
+Velbor107: posts small blind $1
+millon: posts big blind $3
+*** HOLE CARDS ***
+Velbor107: raises $3 to $6
+millon: raises $3 to $9
+Velbor107: calls $3
+*** FLOP *** [Ad 2c 6c]
+millon: bets $3
+Velbor107: raises $3 to $6
+millon: calls $3
+*** TURN *** [Ad 2c 6c] [2d]
+millon: checks
+Velbor107: checks
+*** RIVER *** [Ad 2c 6c 2d] [6h]
+millon: bets $6
+belik555 joins the table at seat #3
+Velbor107: folds
+Uncalled bet ($6) returned to millon
+millon collected $29.50 from pot
+millon: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ad 2c 6c 2d 6h]
+Seat 1: Velbor107 (button) (small blind) folded on the River
+Seat 2: millon (big blind) collected ($29.50)
+
+
+PokerStars Hand #174307768855:  Hold'em Limit ($3/$6 USD) - 2017/08/13 21:39:58 ET
+Table 'Liriope' 6-max Seat #3 is the button
+Seat 1: kevhans ($36.26 in chips)
+Seat 3: belik555 ($205.67 in chips)
+belik555: posts small blind $1
+FeelinGuilty: is sitting out
+FeelinGuilty leaves the table
+kevhans: posts big blind $3
+*** HOLE CARDS ***
+belik555: folds
+Uncalled bet ($2) returned to kevhans
+kevhans collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: kevhans (big blind) collected ($2)
+Seat 3: belik555 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #174310642622:  Hold'em Limit ($3/$6 USD) - 2017/08/14 0:18:51 ET
+Table 'Liriope' 6-max Seat #6 is the button
+Seat 3: leclash ($100.45 in chips)
+Seat 6: Jock21 ($237.95 in chips)
+Jock21: posts small blind $1
+leclash: posts big blind $3
+*** HOLE CARDS ***
+Jock21: calls $2
+leclash: checks
+*** FLOP *** [Js 9s 7c]
+leclash: checks
+Jock21: checks
+*** TURN *** [Js 9s 7c] [Ad]
+leclash: bets $6
+Jock21: calls $6
+*** RIVER *** [Js 9s 7c Ad] [3c]
+leclash: bets $6
+Jock21: calls $6
+*** SHOW DOWN ***
+leclash: shows [Qs 4c] (high card Ace)
+Jock21: shows [6s 3s] (a pair of Threes)
+Jock21 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Js 9s 7c Ad 3c]
+Seat 3: leclash (big blind) showed [Qs 4c] and lost with high card Ace
+Seat 6: Jock21 (button) (small blind) showed [6s 3s] and won ($29.50) with a pair of Threes
+
+
+PokerStars Hand #174310636018:  Hold'em Limit ($3/$6 USD) - 2017/08/14 0:18:23 ET
+Table 'Liriope' 6-max Seat #3 is the button
+Seat 3: leclash ($100.70 in chips)
+Seat 6: Jock21 ($238.20 in chips)
+leclash: posts small blind $1
+Jock21: posts big blind $3
+*** HOLE CARDS ***
+leclash: raises $3 to $6
+Jock21: calls $3
+*** FLOP *** [4s 3h 6h]
+fleabaggs leaves the table
+Jock21: checks
+leclash: bets $3
+Jock21: calls $3
+*** TURN *** [4s 3h 6h] [5c]
+Jock21: checks
+leclash: checks
+*** RIVER *** [4s 3h 6h 5c] [2s]
+Jock21: bets $6
+leclash: calls $6
+*** SHOW DOWN ***
+Jock21: shows [Kh Qd] (a straight, Deuce to Six)
+leclash: shows [Qc Kd] (a straight, Deuce to Six)
+Jock21 collected $14.75 from pot
+leclash collected $14.75 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4s 3h 6h 5c 2s]
+Seat 3: leclash (button) (small blind) showed [Qc Kd] and won ($14.75) with a straight, Deuce to Six
+Seat 6: Jock21 (big blind) showed [Kh Qd] and won ($14.75) with a straight, Deuce to Six
+
+

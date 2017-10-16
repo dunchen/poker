@@ -1,0 +1,36 @@
+PokerStars Hand #159495117243:  Hold'em Limit ($3/$6 USD) - 2016/10/05 0:54:10 ET
+Table 'Seginus III' 10-max Seat #5 is the button
+Seat 5: Dron21200 ($30 in chips)
+Seat 6: Agrotait ($72 in chips)
+Dron21200: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+Dron21200: raises $3 to $6
+Agrotait: raises $3 to $9
+Dron21200: raises $3 to $12
+Betting is capped
+Agrotait: calls $3
+*** FLOP *** [3h 8d 2h]
+Agrotait: checks
+Dron21200: bets $3
+Agrotait: calls $3
+*** TURN *** [3h 8d 2h] [Jc]
+Agrotait: checks
+Dron21200: bets $6
+Agrotait: raises $6 to $12
+Dron21200: calls $6
+*** RIVER *** [3h 8d 2h Jc] [5c]
+Agrotait: bets $6
+Dron21200: calls $3 and is all-in
+Uncalled bet ($3) returned to Agrotait
+*** SHOW DOWN ***
+Agrotait: shows [Kc Jd] (a pair of Jacks)
+Dron21200: shows [Ac Qc] (high card Ace)
+Agrotait collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [3h 8d 2h Jc 5c]
+Seat 5: Dron21200 (button) (small blind) showed [Ac Qc] and lost with high card Ace
+Seat 6: Agrotait (big blind) showed [Kc Jd] and won ($59.50) with a pair of Jacks
+
+

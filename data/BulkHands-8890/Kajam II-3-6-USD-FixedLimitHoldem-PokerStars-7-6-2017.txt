@@ -1,0 +1,36 @@
+PokerStars Hand #172681777400:  Hold'em Limit ($3/$6 USD) - 2017/07/06 13:02:10 ET
+Table 'Kajam II' 6-max Seat #1 is the button
+Seat 1: aleks_4ym ($232.16 in chips)
+Seat 5: NewRocker ($123.72 in chips)
+aleks_4ym: posts small blind $1
+Ale4o: is sitting out
+krossguard: is sitting out
+NewRocker: posts big blind $3
+*** HOLE CARDS ***
+Ale4o leaves the table
+aleks_4ym: raises $3 to $6
+NewRocker: calls $3
+*** FLOP *** [2h Ks 4s]
+NewRocker: checks
+aleks_4ym: bets $3
+NewRocker: calls $3
+*** TURN *** [2h Ks 4s] [Ac]
+NewRocker: checks
+aleks_4ym: bets $6
+krossguard leaves the table
+NewRocker: calls $6
+*** RIVER *** [2h Ks 4s Ac] [6s]
+NewRocker: checks
+aleks_4ym: bets $6
+NewRocker: calls $6
+*** SHOW DOWN ***
+aleks_4ym: shows [8h 5h] (high card Ace)
+NewRocker: shows [Kd Ts] (a pair of Kings)
+NewRocker collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2h Ks 4s Ac 6s]
+Seat 1: aleks_4ym (button) (small blind) showed [8h 5h] and lost with high card Ace
+Seat 5: NewRocker (big blind) showed [Kd Ts] and won ($41.50) with a pair of Kings
+
+

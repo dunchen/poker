@@ -1,0 +1,35 @@
+PokerStars Hand #147419532000:  Hold'em Limit ($3/$6 USD) - 2016/01/21 9:16:52 ET
+Table 'Zenobia' 6-max Seat #4 is the button
+Seat 2: belik555 ($95.62 in chips)
+Seat 4: iupeli ($120 in chips)
+iupeli: posts small blind $1
+belik555: posts big blind $3
+*** HOLE CARDS ***
+iupeli: raises $3 to $6
+frazerchi leaves the table
+belik555: calls $3
+*** FLOP *** [6c 2h 8h]
+belik555: checks
+iupeli: bets $3
+belik555: raises $3 to $6
+iupeli: calls $3
+*** TURN *** [6c 2h 8h] [7d]
+belik555: bets $6
+iupeli: raises $6 to $12
+belik555: calls $6
+*** RIVER *** [6c 2h 8h 7d] [3c]
+belik555: checks
+iupeli: bets $6
+Fabulous108 joins the table at seat #6
+belik555: calls $6
+*** SHOW DOWN ***
+iupeli: shows [9c Kh] (high card King)
+belik555: shows [7h 6h] (two pair, Sevens and Sixes)
+belik555 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [6c 2h 8h 7d 3c]
+Seat 2: belik555 (big blind) showed [7h 6h] and won ($59.50) with two pair, Sevens and Sixes
+Seat 4: iupeli (button) (small blind) showed [9c Kh] and lost with high card King
+
+

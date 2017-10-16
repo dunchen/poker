@@ -1,0 +1,31 @@
+PokerStars Hand #150844271178:  Hold'em Limit ($3/$6 USD) - 2016/03/24 7:17:16 ET
+Table 'Goto' 6-max Seat #1 is the button
+Seat 1: dye111 ($120 in chips)
+Seat 2: TbIP-TbIP 88 ($72 in chips)
+dye111: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+dye111: raises $3 to $6
+TbIP-TbIP 88: calls $3
+*** FLOP *** [5c 9d Jh]
+TbIP-TbIP 88: checks
+dye111: bets $3
+B_loJkl joins the table at seat #3
+TbIP-TbIP 88: calls $3
+*** TURN *** [5c 9d Jh] [5s]
+TbIP-TbIP 88: checks
+dye111: checks
+*** RIVER *** [5c 9d Jh 5s] [Qs]
+TbIP-TbIP 88: bets $6
+dye111: calls $6
+*** SHOW DOWN ***
+TbIP-TbIP 88: shows [5d Td] (three of a kind, Fives)
+dye111: mucks hand
+TbIP-TbIP 88 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5c 9d Jh 5s Qs]
+Seat 1: dye111 (button) (small blind) mucked
+Seat 2: TbIP-TbIP 88 (big blind) showed [5d Td] and won ($29.50) with three of a kind, Fives
+
+

@@ -1,0 +1,75 @@
+PokerStars Hand #164555567186:  Hold'em Limit ($3/$6 USD) - 2017/01/14 8:45:43 ET
+Table 'Cassiopea II' 6-max Seat #3 is the button
+Seat 3: sim5sim5 ($72 in chips)
+Seat 4: nordschrott ($60 in chips)
+sim5sim5: posts small blind $1
+nordschrott: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+nordschrott: calls $3
+*** FLOP *** [3c As 8h]
+AzureCaper joins the table at seat #5
+nordschrott: checks
+sim5sim5: bets $3
+nordschrott: folds
+Uncalled bet ($3) returned to sim5sim5
+sim5sim5 collected $11.76 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3c As 8h]
+Seat 3: sim5sim5 (button) (small blind) collected ($11.76)
+Seat 4: nordschrott (big blind) folded on the Flop
+
+
+PokerStars Hand #164555661156:  Hold'em Limit ($3/$6 USD) - 2017/01/14 8:48:00 ET
+Table 'Cassiopea II' 6-max Seat #5 is the button
+Seat 3: sim5sim5 ($72.89 in chips)
+Seat 5: AzureCaper ($127.52 in chips)
+AzureCaper: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+sim5sim5: folds
+Uncalled bet ($3) returned to AzureCaper
+AzureCaper collected $6 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: sim5sim5 (big blind) folded before Flop
+Seat 5: AzureCaper (button) (small blind) collected ($6)
+
+
+PokerStars Hand #164555817666:  Hold'em Limit ($3/$6 USD) - 2017/01/14 8:51:46 ET
+Table 'Cassiopea II' 6-max Seat #6 is the button
+Seat 2: kungsbjörn ($51.72 in chips)
+Seat 6: Psynto ($109.43 in chips)
+Psynto: posts small blind $1
+kungsbjörn: posts big blind $3
+*** HOLE CARDS ***
+Psynto: raises $3 to $6
+kungsbjörn: calls $3
+*** FLOP *** [6h 2s 6s]
+kungsbjörn: checks
+Psynto: bets $3
+kungsbjörn: calls $3
+*** TURN *** [6h 2s 6s] [2h]
+kungsbjörn: checks
+Psynto: bets $6
+kungsbjörn: calls $6
+*** RIVER *** [6h 2s 6s 2h] [8h]
+kungsbjörn: checks
+Koraseg leaves the table
+Psynto: checks
+*** SHOW DOWN ***
+kungsbjörn: shows [Tc Qc] (two pair, Sixes and Deuces)
+Psynto: shows [Qs 3c] (two pair, Sixes and Deuces)
+kungsbjörn collected $14.75 from pot
+Psynto collected $14.75 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6h 2s 6s 2h 8h]
+Seat 2: kungsbjörn (big blind) showed [Tc Qc] and won ($14.75) with two pair, Sixes and Deuces
+Seat 6: Psynto (button) (small blind) showed [Qs 3c] and won ($14.75) with two pair, Sixes and Deuces
+
+

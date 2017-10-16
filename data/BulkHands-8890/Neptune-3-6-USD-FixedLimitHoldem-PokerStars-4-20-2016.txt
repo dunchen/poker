@@ -1,0 +1,52 @@
+PokerStars Hand #152178639560:  Hold'em Limit ($3/$6 USD) - 2016/04/20 4:17:20 ET
+Table 'Neptune' 6-max Seat #4 is the button
+Seat 3: sienvan ($5 in chips)
+Seat 4: Agrotait ($69 in chips)
+Agrotait: posts small blind $1
+AzureCaper: is sitting out
+sienvan: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+AzureCaper leaves the table
+sienvan: calls $2 and is all-in
+Uncalled bet ($1) returned to Agrotait
+*** FLOP *** [2s 3h 8s]
+*** TURN *** [2s 3h 8s] [5s]
+*** RIVER *** [2s 3h 8s 5s] [5h]
+*** SHOW DOWN ***
+sienvan: shows [Ac Ks] (a pair of Fives)
+Agrotait: shows [Qs 4h] (a pair of Fives - lower kicker)
+sienvan collected $9.80 from pot
+*** SUMMARY ***
+Total pot $10 | Rake $0.20
+Board [2s 3h 8s 5s 5h]
+Seat 3: sienvan (big blind) showed [Ac Ks] and won ($9.80) with a pair of Fives
+Seat 4: Agrotait (button) (small blind) showed [Qs 4h] and lost with a pair of Fives
+
+
+PokerStars Hand #152178648065:  Hold'em Limit ($3/$6 USD) - 2016/04/20 4:17:45 ET
+Table 'Neptune' 6-max Seat #3 is the button
+Seat 3: sienvan ($9.80 in chips)
+Seat 4: Agrotait ($64 in chips)
+sienvan: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+sienvan: raises $3 to $6
+Agrotait: raises $3 to $9
+sienvan: raises $0.80 to $9.80 and is all-in
+Betting is capped
+Agrotait: calls $0.80
+*** FLOP *** [9d 9c 7h]
+*** TURN *** [9d 9c 7h] [6h]
+*** RIVER *** [9d 9c 7h 6h] [5h]
+*** SHOW DOWN ***
+Agrotait: shows [Ac 8c] (a straight, Five to Nine)
+sienvan: shows [Tc Ad] (a pair of Nines)
+Agrotait collected $19.21 from pot
+*** SUMMARY ***
+Total pot $19.60 | Rake $0.39
+Board [9d 9c 7h 6h 5h]
+Seat 3: sienvan (button) (small blind) showed [Tc Ad] and lost with a pair of Nines
+Seat 4: Agrotait (big blind) showed [Ac 8c] and won ($19.21) with a straight, Five to Nine
+
+

@@ -1,0 +1,32 @@
+PokerStars Hand #154923504839:  Hold'em Limit ($3/$6 USD) - 2016/06/19 4:32:50 ET
+Table 'Sabine' 6-max Seat #4 is the button
+Seat 2: muzixibei ($273.49 in chips)
+Seat 4: Ag3r0n ($102.65 in chips)
+Ag3r0n: posts small blind $1
+VolkovDmitri: is sitting out
+muzixibei: posts big blind $3
+*** HOLE CARDS ***
+Ag3r0n: raises $3 to $6
+VolkovDmitri leaves the table
+muzixibei: calls $3
+*** FLOP *** [3s 6c 4c]
+muzixibei: checks
+Ag3r0n: checks
+*** TURN *** [3s 6c 4c] [As]
+muzixibei: checks
+Ag3r0n: bets $6
+muzixibei: calls $6
+*** RIVER *** [3s 6c 4c As] [2h]
+muzixibei: checks
+Ag3r0n: checks
+*** SHOW DOWN ***
+muzixibei: shows [Ks Qh] (high card Ace)
+Ag3r0n: mucks hand
+muzixibei collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [3s 6c 4c As 2h]
+Seat 2: muzixibei (big blind) showed [Ks Qh] and won ($23.52) with high card Ace
+Seat 4: Ag3r0n (button) (small blind) mucked
+
+

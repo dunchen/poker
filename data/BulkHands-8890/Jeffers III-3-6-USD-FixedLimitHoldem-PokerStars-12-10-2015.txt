@@ -1,0 +1,64 @@
+PokerStars Hand #145127271530:  Hold'em Limit ($3/$6 USD) - 2015/12/10 11:46:44 ET
+Table 'Jeffers III' 6-max Seat #4 is the button
+Seat 4: PelonCabelao ($72 in chips)
+Seat 6: De_Gaffer ($83.17 in chips)
+PelonCabelao: posts small blind $1
+De_Gaffer: posts big blind $3
+*** HOLE CARDS ***
+PelonCabelao: raises $3 to $6
+De_Gaffer: calls $3
+*** FLOP *** [Qc Ah 9d]
+De_Gaffer: checks
+PelonCabelao: bets $3
+De_Gaffer: calls $3
+*** TURN *** [Qc Ah 9d] [5s]
+De_Gaffer: checks
+PelonCabelao: checks
+*** RIVER *** [Qc Ah 9d 5s] [8s]
+De_Gaffer: bets $6
+PelonCabelao: calls $6
+*** SHOW DOWN ***
+De_Gaffer: shows [Ac 3c] (a pair of Aces)
+PelonCabelao: mucks hand
+De_Gaffer collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qc Ah 9d 5s 8s]
+Seat 4: PelonCabelao (button) (small blind) mucked
+Seat 6: De_Gaffer (big blind) showed [Ac 3c] and won ($29.50) with a pair of Aces
+
+
+PokerStars Hand #145128000300:  Hold'em Limit ($3/$6 USD) - 2015/12/10 12:02:30 ET
+Table 'Jeffers III' 6-max Seat #6 is the button
+Seat 4: Rmk1500 ($78.38 in chips)
+Seat 6: B_loJkl ($149.86 in chips)
+B_loJkl: posts small blind $1
+belik555: is sitting out
+Necromadx: is sitting out
+alexslep: is sitting out
+Rmk1500: posts big blind $3
+*** HOLE CARDS ***
+belik555 leaves the table
+B_loJkl: raises $3 to $6
+Rmk1500: calls $3
+*** FLOP *** [Jc 9c 5c]
+Necromadx leaves the table
+Rmk1500: checks
+alexslep leaves the table
+PycV joins the table at seat #5
+B_loJkl: checks
+*** TURN *** [Jc 9c 5c] [5d]
+Rmk1500: bets $6
+B_loJkl: calls $6
+*** RIVER *** [Jc 9c 5c 5d] [Th]
+Rmk1500: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to Rmk1500
+Rmk1500 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Jc 9c 5c 5d Th]
+Seat 4: Rmk1500 (big blind) collected ($23.52)
+Seat 6: B_loJkl (button) (small blind) folded on the River
+
+

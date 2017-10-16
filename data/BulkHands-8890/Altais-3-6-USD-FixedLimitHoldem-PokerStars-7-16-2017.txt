@@ -1,0 +1,579 @@
+PokerStars Hand #173113994507:  Hold'em Limit ($3/$6 USD) - 2017/07/16 13:58:28 ET
+Table 'Altais' 6-max Seat #3 is the button
+Seat 3: Artachok ($161.52 in chips)
+Seat 4: VolkovDmitri ($137.40 in chips)
+Artachok: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Artachok: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [2s As 9c]
+VolkovDmitri: checks
+Artachok: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [2s As 9c] [Jh]
+VolkovDmitri: checks
+Artachok: checks
+*** RIVER *** [2s As 9c Jh] [Td]
+VolkovDmitri: bets $6
+Artachok: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $17.64 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2s As 9c Jh Td]
+Seat 3: Artachok (button) (small blind) folded on the River
+Seat 4: VolkovDmitri (big blind) collected ($17.64)
+
+
+PokerStars Hand #173113990415:  Hold'em Limit ($3/$6 USD) - 2017/07/16 13:58:21 ET
+Table 'Altais' 6-max Seat #4 is the button
+Seat 3: Artachok ($164.52 in chips)
+Seat 4: VolkovDmitri ($134.40 in chips)
+VolkovDmitri: posts small blind $1
+Artachok: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Artachok: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: Artachok (big blind) folded before Flop
+Seat 4: VolkovDmitri (button) (small blind) collected ($6)
+
+
+PokerStars Hand #173113983884:  Hold'em Limit ($3/$6 USD) - 2017/07/16 13:58:09 ET
+Table 'Altais' 6-max Seat #3 is the button
+Seat 3: Artachok ($173.52 in chips)
+Seat 4: VolkovDmitri ($125.76 in chips)
+Artachok: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Artachok: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [As Qs Ts]
+VolkovDmitri: checks
+Artachok: bets $3
+VolkovDmitri: raises $3 to $6
+Artachok: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [As Qs Ts]
+Seat 3: Artachok (button) (small blind) folded on the Flop
+Seat 4: VolkovDmitri (big blind) collected ($17.64)
+
+
+PokerStars Hand #173114002992:  Hold'em Limit ($3/$6 USD) - 2017/07/16 13:58:43 ET
+Table 'Altais' 6-max Seat #4 is the button
+Seat 3: Artachok ($152.52 in chips)
+Seat 4: VolkovDmitri ($146.04 in chips)
+VolkovDmitri: posts small blind $1
+Artachok: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Artachok: calls $3
+*** FLOP *** [7s Qd Qs]
+Artachok: checks
+VolkovDmitri: bets $3
+Artachok: calls $3
+*** TURN *** [7s Qd Qs] [4d]
+Artachok: checks
+VolkovDmitri: checks
+*** RIVER *** [7s Qd Qs 4d] [7c]
+Artachok: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+Artachok: shows [Ac 2c] (two pair, Queens and Sevens)
+VolkovDmitri: mucks hand
+Artachok collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7s Qd Qs 4d 7c]
+Seat 3: Artachok (big blind) showed [Ac 2c] and won ($29.50) with two pair, Queens and Sevens
+Seat 4: VolkovDmitri (button) (small blind) mucked
+
+
+PokerStars Hand #173114010928:  Hold'em Limit ($3/$6 USD) - 2017/07/16 13:58:56 ET
+Table 'Altais' 6-max Seat #3 is the button
+Seat 3: Artachok ($167.02 in chips)
+Seat 4: VolkovDmitri ($131.04 in chips)
+Artachok: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Artachok: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Qd 9h Qc]
+VolkovDmitri: checks
+Artachok: checks
+*** TURN *** [Qd 9h Qc] [9d]
+VolkovDmitri: checks
+Artachok: checks
+*** RIVER *** [Qd 9h Qc 9d] [Jc]
+VolkovDmitri: checks
+Artachok: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [7s 5c] (two pair, Queens and Nines)
+Artachok: shows [As 5d] (two pair, Queens and Nines - Ace kicker)
+Artachok collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qd 9h Qc 9d Jc]
+Seat 3: Artachok (button) (small blind) showed [As 5d] and won ($11.76) with two pair, Queens and Nines
+Seat 4: VolkovDmitri (big blind) showed [7s 5c] and lost with two pair, Queens and Nines
+
+
+PokerStars Hand #173114030194:  Hold'em Limit ($3/$6 USD) - 2017/07/16 13:59:27 ET
+Table 'Altais' 6-max Seat #3 is the button
+Seat 3: Artachok ($181.42 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+Artachok: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Artachok: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: Artachok (button) (small blind) folded before Flop
+Seat 4: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #173114019247:  Hold'em Limit ($3/$6 USD) - 2017/07/16 13:59:09 ET
+Table 'Altais' 6-max Seat #4 is the button
+Seat 3: Artachok ($172.78 in chips)
+Seat 4: VolkovDmitri ($125.04 in chips)
+VolkovDmitri: posts small blind $1
+Artachok: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Artachok: calls $3
+*** FLOP *** [Td Ac Tc]
+Artachok: checks
+VolkovDmitri: bets $3
+Artachok: calls $3
+*** TURN *** [Td Ac Tc] [2s]
+Artachok: checks
+VolkovDmitri: checks
+*** RIVER *** [Td Ac Tc 2s] [9c]
+Artachok: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+Artachok: shows [Jd 7d] (a pair of Tens)
+VolkovDmitri: mucks hand
+Artachok collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Td Ac Tc 2s 9c]
+Seat 3: Artachok (big blind) showed [Jd 7d] and won ($17.64) with a pair of Tens
+Seat 4: VolkovDmitri (button) (small blind) mucked
+
+
+PokerStars Hand #173114042316:  Hold'em Limit ($3/$6 USD) - 2017/07/16 13:59:48 ET
+Table 'Altais' 6-max Seat #3 is the button
+Seat 3: Artachok ($189.06 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+Artachok: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Artachok: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+Artachok: calls $3
+*** FLOP *** [Kh 2s 8c]
+VolkovDmitri: bets $3
+Artachok: calls $3
+*** TURN *** [Kh 2s 8c] [8h]
+VolkovDmitri: bets $6
+Artachok: calls $6
+*** RIVER *** [Kh 2s 8c 8h] [2d]
+VolkovDmitri: checks
+Artachok: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [6s Ad] (two pair, Eights and Deuces)
+Artachok: shows [3d Ah] (two pair, Eights and Deuces)
+VolkovDmitri collected $17.75 from pot
+Artachok collected $17.75 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Kh 2s 8c 8h 2d]
+Seat 3: Artachok (button) (small blind) showed [3d Ah] and won ($17.75) with two pair, Eights and Deuces
+Seat 4: VolkovDmitri (big blind) showed [6s Ad] and won ($17.75) with two pair, Eights and Deuces
+
+
+PokerStars Hand #173114076528:  Hold'em Limit ($3/$6 USD) - 2017/07/16 14:00:37 ET
+Table 'Altais' 6-max Seat #2 is the button
+Seat 2: kusznak ($121 in chips)
+Seat 3: Artachok ($196.45 in chips)
+kusznak: posts small blind $1
+Artachok: posts big blind $3
+*** HOLE CARDS ***
+kusznak: raises $3 to $6
+Artachok: folds
+Uncalled bet ($3) returned to kusznak
+kusznak collected $6 from pot
+kusznak: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: kusznak (button) (small blind) collected ($6)
+Seat 3: Artachok (big blind) folded before Flop
+
+
+PokerStars Hand #173114072940:  Hold'em Limit ($3/$6 USD) - 2017/07/16 14:00:32 ET
+Table 'Altais' 6-max Seat #3 is the button
+Seat 2: kusznak ($120 in chips)
+Seat 3: Artachok ($197.45 in chips)
+Artachok: posts small blind $1
+kusznak: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri leaves the table
+Artachok: folds
+Uncalled bet ($2) returned to kusznak
+kusznak collected $2 from pot
+kusznak: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: kusznak (big blind) collected ($2)
+Seat 3: Artachok (button) (small blind) folded before Flop
+
+
+PokerStars Hand #173114060060:  Hold'em Limit ($3/$6 USD) - 2017/07/16 14:00:13 ET
+Table 'Altais' 6-max Seat #4 is the button
+Seat 3: Artachok ($188.81 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+Artachok: posts big blind $3
+*** HOLE CARDS ***
+kusznak joins the table at seat #2
+VolkovDmitri: raises $3 to $6
+Artachok: calls $3
+*** FLOP *** [2s 8s 6c]
+Artachok: checks
+VolkovDmitri: bets $3
+Artachok: calls $3
+*** TURN *** [2s 8s 6c] [7s]
+Artachok: checks
+VolkovDmitri: checks
+*** RIVER *** [2s 8s 6c 7s] [8h]
+Artachok: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to Artachok
+Artachok collected $17.64 from pot
+Artachok: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2s 8s 6c 7s 8h]
+Seat 3: Artachok (big blind) collected ($17.64)
+Seat 4: VolkovDmitri (button) (small blind) folded on the River
+
+
+PokerStars Hand #173114033577:  Hold'em Limit ($3/$6 USD) - 2017/07/16 13:59:33 ET
+Table 'Altais' 6-max Seat #4 is the button
+Seat 3: Artachok ($180.42 in chips)
+Seat 4: VolkovDmitri ($121 in chips)
+VolkovDmitri: posts small blind $1
+Artachok: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Artachok: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [6c 6h Jd]
+Artachok: bets $3
+VolkovDmitri: folds
+Uncalled bet ($3) returned to Artachok
+Artachok collected $17.64 from pot
+Artachok: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6c 6h Jd]
+Seat 3: Artachok (big blind) collected ($17.64)
+Seat 4: VolkovDmitri (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #173114084187:  Hold'em Limit ($3/$6 USD) - 2017/07/16 14:00:49 ET
+Table 'Altais' 6-max Seat #2 is the button
+Seat 2: kusznak ($125 in chips)
+Seat 3: Artachok ($192.45 in chips)
+kusznak: posts small blind $1
+Artachok: posts big blind $3
+*** HOLE CARDS ***
+kusznak: raises $3 to $6
+Artachok: calls $3
+*** FLOP *** [Ad 7c Qc]
+Artachok: checks
+kusznak: bets $3
+Artachok: calls $3
+*** TURN *** [Ad 7c Qc] [4h]
+Artachok: checks
+kusznak: bets $6
+Artachok: calls $6
+*** RIVER *** [Ad 7c Qc 4h] [8h]
+Artachok: checks
+kusznak: checks
+*** SHOW DOWN ***
+Artachok: shows [3c Kc] (high card Ace)
+kusznak: shows [6c 8c] (a pair of Eights)
+kusznak collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ad 7c Qc 4h 8h]
+Seat 2: kusznak (button) (small blind) showed [6c 8c] and won ($29.50) with a pair of Eights
+Seat 3: Artachok (big blind) showed [3c Kc] and lost with high card Ace
+
+
+PokerStars Hand #173114105585:  Hold'em Limit ($3/$6 USD) - 2017/07/16 14:01:18 ET
+Table 'Altais' 6-max Seat #2 is the button
+Seat 2: kusznak ($133.50 in chips)
+Seat 3: Artachok ($183.21 in chips)
+kusznak: posts small blind $1
+Artachok: posts big blind $3
+*** HOLE CARDS ***
+kusznak: raises $3 to $6
+Artachok: raises $3 to $9
+kusznak: calls $3
+*** FLOP *** [7d 6c 9s]
+Artachok: bets $3
+kusznak: calls $3
+*** TURN *** [7d 6c 9s] [6d]
+vestimokrec joins the table at seat #5
+Artachok: bets $6
+kusznak: calls $6
+*** RIVER *** [7d 6c 9s 6d] [8c]
+Artachok: bets $6
+kusznak: calls $6
+*** SHOW DOWN ***
+Artachok: shows [Td Qd] (a straight, Six to Ten)
+kusznak: mucks hand
+Artachok collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7d 6c 9s 6d 8c]
+Seat 2: kusznak (button) (small blind) mucked
+Seat 3: Artachok (big blind) showed [Td Qd] and won ($47.50) with a straight, Six to Ten
+
+
+PokerStars Hand #173114095459:  Hold'em Limit ($3/$6 USD) - 2017/07/16 14:01:05 ET
+Table 'Altais' 6-max Seat #3 is the button
+Seat 2: kusznak ($139.50 in chips)
+Seat 3: Artachok ($177.45 in chips)
+Artachok: posts small blind $1
+kusznak: posts big blind $3
+*** HOLE CARDS ***
+Artachok: raises $3 to $6
+kusznak: calls $3
+*** FLOP *** [Th 4h 6s]
+kusznak: checks
+Artachok: checks
+*** TURN *** [Th 4h 6s] [Qd]
+helenaki joins the table at seat #4
+kusznak: checks
+Artachok: checks
+*** RIVER *** [Th 4h 6s Qd] [8c]
+kusznak: checks
+Artachok: bets $6
+kusznak: folds
+Uncalled bet ($6) returned to Artachok
+Artachok collected $11.76 from pot
+Artachok: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Th 4h 6s Qd 8c]
+Seat 2: kusznak (big blind) folded on the River
+Seat 3: Artachok (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #173114081066:  Hold'em Limit ($3/$6 USD) - 2017/07/16 14:00:44 ET
+Table 'Altais' 6-max Seat #3 is the button
+Seat 2: kusznak ($124 in chips)
+Seat 3: Artachok ($193.45 in chips)
+Artachok: posts small blind $1
+kusznak: posts big blind $3
+*** HOLE CARDS ***
+Artachok: folds
+Uncalled bet ($2) returned to kusznak
+kusznak collected $2 from pot
+kusznak: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: kusznak (big blind) collected ($2)
+Seat 3: Artachok (button) (small blind) folded before Flop
+
+
+PokerStars Hand #173114135192:  Hold'em Limit ($3/$6 USD) - 2017/07/16 14:01:56 ET
+Table 'Altais' 6-max Seat #2 is the button
+Seat 2: kusznak ($109.50 in chips)
+Seat 3: Artachok ($240.71 in chips)
+vestimokrec will be allowed to play after the button
+kusznak: posts small blind $1
+Artachok: posts big blind $3
+*** HOLE CARDS ***
+kusznak: raises $3 to $6
+Artachok: calls $3
+*** FLOP *** [Qs 8h Qh]
+Artachok: checks
+kusznak: bets $3
+Artachok: calls $3
+*** TURN *** [Qs 8h Qh] [8s]
+Artachok: checks
+kusznak: checks
+*** RIVER *** [Qs 8h Qh 8s] [8d]
+Artachok: checks
+kusznak: checks
+*** SHOW DOWN ***
+Artachok: shows [Jd Ts] (a full house, Eights full of Queens)
+kusznak: shows [Jc 4d] (a full house, Eights full of Queens)
+Artachok collected $8.82 from pot
+kusznak collected $8.82 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qs 8h Qh 8s 8d]
+Seat 2: kusznak (button) (small blind) showed [Jc 4d] and won ($8.82) with a full house, Eights full of Queens
+Seat 3: Artachok (big blind) showed [Jd Ts] and won ($8.82) with a full house, Eights full of Queens
+
+
+PokerStars Hand #173114567474:  Hold'em Limit ($3/$6 USD) - 2017/07/16 14:09:48 ET
+Table 'Altais' 6-max Seat #3 is the button
+Seat 2: kusznak ($126.66 in chips)
+Seat 3: Artachok ($175.78 in chips)
+Artachok: posts small blind $1
+Hadart: is sitting out
+kusznak: posts big blind $3
+*** HOLE CARDS ***
+Artachok: raises $3 to $6
+Hadart leaves the table
+kusznak: calls $3
+*** FLOP *** [4h Qh 9s]
+kusznak: checks
+Artachok: bets $3
+kusznak: folds
+Uncalled bet ($3) returned to Artachok
+Artachok collected $11.76 from pot
+Artachok: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4h Qh 9s]
+Seat 2: kusznak (big blind) folded on the Flop
+Seat 3: Artachok (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #173114610096:  Hold'em Limit ($3/$6 USD) - 2017/07/16 14:10:34 ET
+Table 'Altais' 6-max Seat #3 is the button
+Seat 2: kusznak ($118.42 in chips)
+Seat 3: Artachok ($183.18 in chips)
+Artachok: posts small blind $1
+kusznak: posts big blind $3
+*** HOLE CARDS ***
+Artachok: raises $3 to $6
+kusznak: raises $3 to $9
+Artachok: calls $3
+*** FLOP *** [Jc 9d Qs]
+kusznak: bets $3
+Artachok: calls $3
+*** TURN *** [Jc 9d Qs] [6c]
+kusznak: bets $6
+Artachok: calls $6
+*** RIVER *** [Jc 9d Qs 6c] [7h]
+kusznak: bets $6
+Artachok: calls $6
+*** SHOW DOWN ***
+kusznak: shows [Qd Js] (two pair, Queens and Jacks)
+Artachok: mucks hand
+kusznak collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Jc 9d Qs 6c 7h]
+Seat 2: kusznak (big blind) showed [Qd Js] and won ($47.50) with two pair, Queens and Jacks
+Seat 3: Artachok (button) (small blind) mucked
+
+
+PokerStars Hand #173114586613:  Hold'em Limit ($3/$6 USD) - 2017/07/16 14:10:09 ET
+Table 'Altais' 6-max Seat #3 is the button
+Seat 2: kusznak ($126.42 in chips)
+Seat 3: Artachok ($175.54 in chips)
+Artachok: posts small blind $1
+kusznak: posts big blind $3
+*** HOLE CARDS ***
+Artachok: folds
+Uncalled bet ($2) returned to kusznak
+kusznak collected $2 from pot
+kusznak: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: kusznak (big blind) collected ($2)
+Seat 3: Artachok (button) (small blind) folded before Flop
+
+
+PokerStars Hand #173114578463:  Hold'em Limit ($3/$6 USD) - 2017/07/16 14:10:00 ET
+Table 'Altais' 6-max Seat #2 is the button
+Seat 2: kusznak ($120.66 in chips)
+Seat 3: Artachok ($181.54 in chips)
+kusznak: posts small blind $1
+Artachok: posts big blind $3
+*** HOLE CARDS ***
+kusznak: raises $3 to $6
+Artachok: calls $3
+*** FLOP *** [6d As Tc]
+Artachok: checks
+kusznak: bets $3
+Artachok: folds
+Uncalled bet ($3) returned to kusznak
+kusznak collected $11.76 from pot
+kusznak: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6d As Tc]
+Seat 2: kusznak (button) (small blind) collected ($11.76)
+Seat 3: Artachok (big blind) folded on the Flop
+
+
+PokerStars Hand #173114591278:  Hold'em Limit ($3/$6 USD) - 2017/07/16 14:10:14 ET
+Table 'Altais' 6-max Seat #2 is the button
+Seat 2: kusznak ($127.42 in chips)
+Seat 3: Artachok ($174.54 in chips)
+kusznak: posts small blind $1
+Artachok: posts big blind $3
+*** HOLE CARDS ***
+kusznak: raises $3 to $6
+Artachok: calls $3
+*** FLOP *** [Td Ks 7c]
+Artachok: checks
+kusznak: bets $3
+Artachok: calls $3
+*** TURN *** [Td Ks 7c] [Ah]
+Artachok: checks
+kusznak: checks
+*** RIVER *** [Td Ks 7c Ah] [4s]
+Artachok: bets $6
+kusznak: folds
+Uncalled bet ($6) returned to Artachok
+Artachok collected $17.64 from pot
+Artachok: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Td Ks 7c Ah 4s]
+Seat 2: kusznak (button) (small blind) folded on the River
+Seat 3: Artachok (big blind) collected ($17.64)
+
+
+PokerStars Hand #173114622125:  Hold'em Limit ($3/$6 USD) - 2017/07/16 14:10:47 ET
+Table 'Altais' 6-max Seat #2 is the button
+Seat 2: kusznak ($141.92 in chips)
+Seat 3: Artachok ($159.18 in chips)
+kusznak: posts small blind $1
+Artachok: posts big blind $3
+*** HOLE CARDS ***
+kusznak: raises $3 to $6
+Artachok: folds
+Uncalled bet ($3) returned to kusznak
+kusznak collected $6 from pot
+kusznak: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: kusznak (button) (small blind) collected ($6)
+Seat 3: Artachok (big blind) folded before Flop
+
+

@@ -1,0 +1,89 @@
+PokerStars Hand #159848162137:  Hold'em Limit ($3/$6 USD) - 2016/10/12 17:14:23 ET
+Table 'Carolina' 6-max Seat #4 is the button
+Seat 1: stefan76175 ($96 in chips)
+Seat 4: Actionni13 ($173.50 in chips)
+Actionni13: posts small blind $1
+stefan76175: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+stefan76175: raises $3 to $9
+Actionni13: calls $3
+*** FLOP *** [Jh Qs 3h]
+stefan76175: checks
+Actionni13: checks
+*** TURN *** [Jh Qs 3h] [Td]
+stefan76175: checks
+Actionni13: checks
+*** RIVER *** [Jh Qs 3h Td] [8s]
+stefan76175: bets $6
+Actionni13: folds
+Uncalled bet ($6) returned to stefan76175
+stefan76175 collected $17.64 from pot
+stefan76175: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Jh Qs 3h Td 8s]
+Seat 1: stefan76175 (big blind) collected ($17.64)
+Seat 4: Actionni13 (button) (small blind) folded on the River
+
+
+PokerStars Hand #159853520170:  Hold'em Limit ($3/$6 USD) - 2016/10/12 19:17:03 ET
+Table 'Carolina' 6-max Seat #2 is the button
+Seat 2: ToDaFelt ($244.49 in chips)
+Seat 5: fugu82 ($275.14 in chips)
+ToDaFelt: posts small blind $1
+CharginWapos: is sitting out
+fugu82: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+fugu82: calls $3
+*** FLOP *** [2s 4h 3d]
+fugu82: checks
+CharginWapos leaves the table
+ToDaFelt: checks
+*** TURN *** [2s 4h 3d] [6d]
+fugu82: bets $6
+ToDaFelt: folds
+Uncalled bet ($6) returned to fugu82
+fugu82 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2s 4h 3d 6d]
+Seat 2: ToDaFelt (button) (small blind) folded on the Turn
+Seat 5: fugu82 (big blind) collected ($11.76)
+
+
+PokerStars Hand #159853534282:  Hold'em Limit ($3/$6 USD) - 2016/10/12 19:17:27 ET
+Table 'Carolina' 6-max Seat #5 is the button
+Seat 2: ToDaFelt ($238.49 in chips)
+Seat 5: fugu82 ($280.90 in chips)
+fugu82: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+fugu82: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [3s Kd 2c]
+ToDaFelt: checks
+fugu82: bets $3
+ToDaFelt: raises $3 to $6
+fugu82: calls $3
+*** TURN *** [3s Kd 2c] [Ad]
+ToDaFelt: checks
+fugu82: bets $6
+ToDaFelt: calls $6
+*** RIVER *** [3s Kd 2c Ad] [8d]
+xxRaizorxx joins the table at seat #3
+ToDaFelt: checks
+fugu82: bets $6
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+fugu82: shows [Ah 7d] (a pair of Aces)
+ToDaFelt: mucks hand
+fugu82 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3s Kd 2c Ad 8d]
+Seat 2: ToDaFelt (big blind) mucked
+Seat 5: fugu82 (button) (small blind) showed [Ah 7d] and won ($47.50) with a pair of Aces
+
+

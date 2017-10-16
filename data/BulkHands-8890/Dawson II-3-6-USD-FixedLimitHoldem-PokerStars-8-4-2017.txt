@@ -1,0 +1,46 @@
+PokerStars Hand #173909398930:  Hold'em Limit ($3/$6 USD) - 2017/08/04 10:42:50 ET
+Table 'Dawson II' 6-max Seat #3 is the button
+Seat 3: NewRocker ($33.22 in chips)
+Seat 4: Anchig ($184.52 in chips)
+NewRocker: posts small blind $1
+Anchig: posts big blind $3
+*** HOLE CARDS ***
+NewRocker: calls $2
+Anchig: checks
+*** FLOP *** [5h Jd 4h]
+Anchig: checks
+NewRocker: checks
+*** TURN *** [5h Jd 4h] [3c]
+Anchig: checks
+NewRocker: checks
+*** RIVER *** [5h Jd 4h 3c] [Th]
+Anchig: checks
+NewRocker: checks
+*** SHOW DOWN ***
+Anchig: shows [2s Ks] (high card King)
+NewRocker: mucks hand
+Anchig collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [5h Jd 4h 3c Th]
+Seat 3: NewRocker (button) (small blind) mucked
+Seat 4: Anchig (big blind) showed [2s Ks] and won ($5.88) with high card King
+
+
+PokerStars Hand #173909511435:  Hold'em Limit ($3/$6 USD) - 2017/08/04 10:46:14 ET
+Table 'Dawson II' 6-max Seat #3 is the button
+Seat 3: NewRocker ($85.30 in chips)
+Seat 4: Anchig ($128.78 in chips)
+NewRocker: posts small blind $1
+Anchig: posts big blind $3
+*** HOLE CARDS ***
+NewRocker: folds
+Uncalled bet ($2) returned to Anchig
+Anchig collected $2 from pot
+Anchig: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: NewRocker (button) (small blind) folded before Flop
+Seat 4: Anchig (big blind) collected ($2)
+
+

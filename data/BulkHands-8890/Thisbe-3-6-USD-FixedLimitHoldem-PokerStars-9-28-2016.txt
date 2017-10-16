@@ -1,0 +1,50 @@
+PokerStars Hand #159225503453:  Hold'em Limit ($3/$6 USD) - 2016/09/28 18:57:29 ET
+Table 'Thisbe' 6-max Seat #1 is the button
+Seat 1: AzureCaper ($72 in chips)
+Seat 6: stiflerkk ($39.73 in chips)
+GoliafUa: is sitting out
+AzureCaper: posts small blind $1
+stiflerkk: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: folds
+Uncalled bet ($2) returned to stiflerkk
+stiflerkk collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: AzureCaper (button) (small blind) folded before Flop
+Seat 6: stiflerkk (big blind) collected ($2)
+
+
+PokerStars Hand #159225508393:  Hold'em Limit ($3/$6 USD) - 2016/09/28 18:57:39 ET
+Table 'Thisbe' 6-max Seat #6 is the button
+Seat 1: AzureCaper ($72 in chips)
+Seat 6: stiflerkk ($40.73 in chips)
+stiflerkk: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+stiflerkk: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [8h 7s Ah]
+AzureCaper: checks
+stiflerkk: bets $3
+AzureCaper: raises $3 to $6
+stiflerkk: raises $3 to $9
+AzureCaper: calls $3
+*** TURN *** [8h 7s Ah] [Jd]
+AzureCaper: checks
+stiflerkk: bets $6
+AzureCaper: calls $6
+*** RIVER *** [8h 7s Ah Jd] [Ts]
+AzureCaper: checks
+stiflerkk: checks
+*** SHOW DOWN ***
+AzureCaper: shows [6s 5s] (high card Ace)
+stiflerkk: shows [8d Qd] (a pair of Eights)
+stiflerkk collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [8h 7s Ah Jd Ts]
+Seat 1: AzureCaper (big blind) showed [6s 5s] and lost with high card Ace
+Seat 6: stiflerkk (button) (small blind) showed [8d Qd] and won ($41.50) with a pair of Eights
+
+

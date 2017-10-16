@@ -1,0 +1,49 @@
+PokerStars Hand #152439877959:  Hold'em Limit ($3/$6 USD) - 2016/04/25 15:51:46 ET
+Table 'Cuffey II' 10-max Seat #7 is the button
+Seat 5: EMALAYS ($97.39 in chips)
+Seat 7: DECAlpha ($106.03 in chips)
+DECAlpha: posts small blind $1
+hairy1961: is sitting out
+EMALAYS: posts big blind $3
+*** HOLE CARDS ***
+hairy1961 leaves the table
+DECAlpha: folds
+Uncalled bet ($2) returned to EMALAYS
+EMALAYS collected $2 from pot
+EMALAYS: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: EMALAYS (big blind) collected ($2)
+Seat 7: DECAlpha (button) (small blind) folded before Flop
+
+
+PokerStars Hand #152439882608:  Hold'em Limit ($3/$6 USD) - 2016/04/25 15:51:51 ET
+Table 'Cuffey II' 10-max Seat #5 is the button
+Seat 5: EMALAYS ($98.39 in chips)
+Seat 7: DECAlpha ($105.03 in chips)
+EMALAYS: posts small blind $1
+DECAlpha: posts big blind $3
+*** HOLE CARDS ***
+EMALAYS: raises $3 to $6
+DECAlpha: calls $3
+*** FLOP *** [5h 2s Th]
+DECAlpha: checks
+EMALAYS: bets $3
+DECAlpha: calls $3
+*** TURN *** [5h 2s Th] [Jc]
+DECAlpha: checks
+EMALAYS: checks
+*** RIVER *** [5h 2s Th Jc] [Jd]
+DECAlpha: checks
+EMALAYS: checks
+*** SHOW DOWN ***
+DECAlpha: shows [6s 3c] (a pair of Jacks)
+EMALAYS: shows [Kh 6h] (a pair of Jacks - King kicker)
+EMALAYS collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5h 2s Th Jc Jd]
+Seat 5: EMALAYS (button) (small blind) showed [Kh 6h] and won ($17.64) with a pair of Jacks
+Seat 7: DECAlpha (big blind) showed [6s 3c] and lost with a pair of Jacks
+
+

@@ -1,0 +1,63 @@
+PokerStars Hand #150209744635:  Hold'em Limit ($3/$6 USD) - 2016/03/11 19:00:08 ET
+Table 'Pia' 6-max Seat #2 is the button
+Seat 1: Yell0wBack ($675.71 in chips)
+Seat 2: Chessnok ($215.25 in chips)
+Chessnok: posts small blind $1
+Yell0wBack: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+Yell0wBack: calls $3
+*** FLOP *** [2h 6h 9h]
+Yell0wBack: checks
+Chessnok: bets $3
+Yell0wBack: raises $3 to $6
+Chessnok: calls $3
+*** TURN *** [2h 6h 9h] [6s]
+Yell0wBack: bets $6
+Chessnok: calls $6
+*** RIVER *** [2h 6h 9h 6s] [4c]
+Yell0wBack: bets $6
+Chessnok: raises $6 to $12
+Yell0wBack: calls $6
+*** SHOW DOWN ***
+Chessnok: shows [Jd 5h] (a pair of Sixes)
+Yell0wBack: shows [Ad 6d] (three of a kind, Sixes)
+Yell0wBack collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [2h 6h 9h 6s 4c]
+Seat 1: Yell0wBack (big blind) showed [Ad 6d] and won ($59.50) with three of a kind, Sixes
+Seat 2: Chessnok (button) (small blind) showed [Jd 5h] and lost with a pair of Sixes
+
+
+PokerStars Hand #150209779001:  Hold'em Limit ($3/$6 USD) - 2016/03/11 19:01:02 ET
+Table 'Pia' 6-max Seat #1 is the button
+Seat 1: Yell0wBack ($705.21 in chips)
+Seat 2: Chessnok ($185.25 in chips)
+Yell0wBack: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+Yell0wBack: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [4h 3h Jd]
+Chessnok: bets $3
+Yell0wBack: raises $3 to $6
+Chessnok: calls $3
+*** TURN *** [4h 3h Jd] [3d]
+Chessnok: checks
+Yell0wBack: checks
+*** RIVER *** [4h 3h Jd 3d] [2d]
+Chessnok: bets $6
+Yell0wBack: calls $6
+*** SHOW DOWN ***
+Chessnok: shows [6h Ks] (a pair of Threes)
+Yell0wBack: shows [Qc Kh] (a pair of Threes - King+Queen kicker)
+Yell0wBack collected $35.50 from pot
+sinner775 joins the table at seat #4
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [4h 3h Jd 3d 2d]
+Seat 1: Yell0wBack (button) (small blind) showed [Qc Kh] and won ($35.50) with a pair of Threes
+Seat 2: Chessnok (big blind) showed [6h Ks] and lost with a pair of Threes
+
+

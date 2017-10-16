@@ -1,0 +1,73 @@
+PokerStars Hand #148172270601:  Hold'em Limit ($3/$6 USD) - 2016/02/03 12:22:18 ET
+Table 'Padua IV' 6-max Seat #4 is the button
+Seat 4: AzureCaper ($99.50 in chips)
+Seat 5: RabbitNrAS ($8 in chips)
+AzureCaper: posts small blind $1
+RabbitNrAS: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+RabbitNrAS: raises $2 to $8 and is all-in
+AzureCaper: calls $2
+*** FLOP *** [6h 3d Jc]
+*** TURN *** [6h 3d Jc] [5s]
+*** RIVER *** [6h 3d Jc 5s] [Ad]
+*** SHOW DOWN ***
+RabbitNrAS: shows [Ks Th] (high card Ace)
+AzureCaper: shows [Kh 6s] (a pair of Sixes)
+AzureCaper collected $15.68 from pot
+*** SUMMARY ***
+Total pot $16 | Rake $0.32
+Board [6h 3d Jc 5s Ad]
+Seat 4: AzureCaper (button) (small blind) showed [Kh 6s] and won ($15.68) with a pair of Sixes
+Seat 5: RabbitNrAS (big blind) showed [Ks Th] and lost with high card Ace
+
+
+PokerStars Hand #148172266525:  Hold'em Limit ($3/$6 USD) - 2016/02/03 12:22:14 ET
+Table 'Padua IV' 6-max Seat #5 is the button
+Seat 4: AzureCaper ($98.50 in chips)
+Seat 5: RabbitNrAS ($9 in chips)
+RabbitNrAS: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+RabbitNrAS: folds
+Uncalled bet ($2) returned to AzureCaper
+AzureCaper collected $2 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: AzureCaper (big blind) collected ($2)
+Seat 5: RabbitNrAS (button) (small blind) folded before Flop
+
+
+PokerStars Hand #148172242389:  Hold'em Limit ($3/$6 USD) - 2016/02/03 12:21:47 ET
+Table 'Padua IV' 6-max Seat #4 is the button
+Seat 4: AzureCaper ($72 in chips)
+Seat 5: RabbitNrAS ($36 in chips)
+AzureCaper: posts small blind $1
+RabbitNrAS: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+RabbitNrAS: calls $3
+*** FLOP *** [6d Ac 3d]
+RabbitNrAS: checks
+AzureCaper: bets $3
+RabbitNrAS: calls $3
+*** TURN *** [6d Ac 3d] [7h]
+RabbitNrAS: checks
+AzureCaper: bets $6
+RabbitNrAS: raises $6 to $12
+AzureCaper: calls $6
+*** RIVER *** [6d Ac 3d 7h] [Ts]
+RabbitNrAS: bets $6
+AzureCaper: raises $6 to $12
+RabbitNrAS: folds
+Uncalled bet ($6) returned to AzureCaper
+AzureCaper collected $53.50 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [6d Ac 3d 7h Ts]
+Seat 4: AzureCaper (button) (small blind) collected ($53.50)
+Seat 5: RabbitNrAS (big blind) folded on the River
+
+

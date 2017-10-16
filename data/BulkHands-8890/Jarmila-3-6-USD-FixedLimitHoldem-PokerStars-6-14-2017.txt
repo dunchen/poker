@@ -1,0 +1,34 @@
+PokerStars Hand #171752500087:  Hold'em Limit ($3/$6 USD) - 2017/06/14 2:03:53 ET
+Table 'Jarmila' 6-max Seat #4 is the button
+Seat 1: B_loJkl ($199.82 in chips)
+Seat 4: bAAchi ($166.15 in chips)
+bAAchi: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+bAAchi: raises $3 to $6
+B_loJkl: raises $3 to $9
+bAAchi: raises $3 to $12
+Betting is capped
+B_loJkl: calls $3
+*** FLOP *** [9s 4d Td]
+B_loJkl: checks
+bAAchi: bets $3
+B_loJkl: calls $3
+*** TURN *** [9s 4d Td] [9d]
+B_loJkl: checks
+bAAchi: bets $6
+B_loJkl: calls $6
+*** RIVER *** [9s 4d Td 9d] [3c]
+B_loJkl: checks
+bAAchi: checks
+*** SHOW DOWN ***
+B_loJkl: shows [6h 8c] (a pair of Nines)
+bAAchi: shows [5c Jc] (a pair of Nines - Jack kicker)
+bAAchi collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9s 4d Td 9d 3c]
+Seat 1: B_loJkl (big blind) showed [6h 8c] and lost with a pair of Nines
+Seat 4: bAAchi (button) (small blind) showed [5c Jc] and won ($41.50) with a pair of Nines
+
+

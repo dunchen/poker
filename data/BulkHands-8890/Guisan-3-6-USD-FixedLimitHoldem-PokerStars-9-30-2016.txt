@@ -1,0 +1,31 @@
+PokerStars Hand #159307852982:  Hold'em Limit ($3/$6 USD) - 2016/09/30 18:51:43 ET
+Table 'Guisan' 10-max Seat #8 is the button
+Seat 7: ToDaFelt ($292.13 in chips)
+Seat 8: Chessnok ($149.89 in chips)
+Chessnok: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [4c Tc 6h]
+ToDaFelt: checks
+Chessnok: bets $3
+ToDaFelt: raises $3 to $6
+Chessnok: calls $3
+*** TURN *** [4c Tc 6h] [4s]
+ToDaFelt: bets $6
+Chessnok: calls $6
+*** RIVER *** [4c Tc 6h 4s] [6s]
+ToDaFelt: bets $6
+Chessnok: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [6c 4h] (a full house, Sixes full of Fours)
+Chessnok: mucks hand
+ToDaFelt collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4c Tc 6h 4s 6s]
+Seat 7: ToDaFelt (big blind) showed [6c 4h] and won ($47.50) with a full house, Sixes full of Fours
+Seat 8: Chessnok (button) (small blind) mucked
+
+

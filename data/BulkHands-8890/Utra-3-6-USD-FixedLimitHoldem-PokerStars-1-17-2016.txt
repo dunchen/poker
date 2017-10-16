@@ -1,0 +1,33 @@
+PokerStars Hand #147188906183:  Hold'em Limit ($3/$6 USD) - 2016/01/17 8:17:05 ET
+Table 'Utra' 6-max Seat #2 is the button
+Seat 2: youneedmeman ($69.48 in chips)
+Seat 4: Agrotait ($72 in chips)
+youneedmeman: posts small blind $1
+beng_51 joins the table at seat #3
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+youneedmeman: calls $2
+grabaz joins the table at seat #5
+Agrotait: raises $3 to $6
+youneedmeman: calls $3
+*** FLOP *** [8h Th 8s]
+Agrotait: bets $3
+youneedmeman: calls $3
+*** TURN *** [8h Th 8s] [6s]
+Agrotait: checks
+youneedmeman: bets $6
+Agrotait: calls $6
+*** RIVER *** [8h Th 8s 6s] [Ah]
+Agrotait: checks
+youneedmeman: checks
+*** SHOW DOWN ***
+Agrotait: shows [4d Ac] (two pair, Aces and Eights)
+youneedmeman: mucks hand
+Agrotait collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8h Th 8s 6s Ah]
+Seat 2: youneedmeman (button) (small blind) mucked
+Seat 4: Agrotait (big blind) showed [4d Ac] and won ($29.50) with two pair, Aces and Eights
+
+

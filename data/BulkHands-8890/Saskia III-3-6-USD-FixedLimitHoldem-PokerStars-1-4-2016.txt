@@ -1,0 +1,84 @@
+PokerStars Hand #146443983624:  Hold'em Limit ($3/$6 USD) - 2016/01/04 7:41:56 ET
+Table 'Saskia III' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($145.52 in chips)
+Seat 2: knysi ($4.53 in chips)
+knysi: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+knysi: raises $1.53 to $4.53 and is all-in
+BigYelloFish: calls $1.53
+*** FLOP *** [Th 2c 3c]
+*** TURN *** [Th 2c 3c] [7s]
+*** RIVER *** [Th 2c 3c 7s] [7c]
+*** SHOW DOWN ***
+BigYelloFish: shows [Jc 9c] (a flush, Jack high)
+knysi: shows [Ks Td] (two pair, Tens and Sevens)
+BigYelloFish collected $8.88 from pot
+*** SUMMARY ***
+Total pot $9.06 | Rake $0.18
+Board [Th 2c 3c 7s 7c]
+Seat 1: BigYelloFish (big blind) showed [Jc 9c] and won ($8.88) with a flush, Jack high
+Seat 2: knysi (button) (small blind) showed [Ks Td] and lost with two pair, Tens and Sevens
+
+
+PokerStars Hand #146443975118:  Hold'em Limit ($3/$6 USD) - 2016/01/04 7:41:43 ET
+Table 'Saskia III' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($122.02 in chips)
+Seat 2: knysi ($28.53 in chips)
+BigYelloFish: posts small blind $1
+knysi: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+knysi: calls $3
+*** FLOP *** [Kc 2h 5h]
+knysi: checks
+BigYelloFish: bets $3
+knysi: raises $3 to $6
+BigYelloFish: calls $3
+*** TURN *** [Kc 2h 5h] [6d]
+knysi: bets $6
+BigYelloFish: calls $6
+*** RIVER *** [Kc 2h 5h 6d] [Ad]
+knysi: bets $6
+BigYelloFish: calls $6
+*** SHOW DOWN ***
+knysi: shows [5s 9s] (a pair of Fives)
+BigYelloFish: shows [Qs Qd] (a pair of Queens)
+BigYelloFish collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Kc 2h 5h 6d Ad]
+Seat 1: BigYelloFish (button) (small blind) showed [Qs Qd] and won ($47.50) with a pair of Queens
+Seat 2: knysi (big blind) showed [5s 9s] and lost with a pair of Fives
+
+
+PokerStars Hand #146443967721:  Hold'em Limit ($3/$6 USD) - 2016/01/04 7:41:31 ET
+Table 'Saskia III' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($98.52 in chips)
+Seat 2: knysi ($52.53 in chips)
+knysi: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+knysi: raises $3 to $6
+BigYelloFish: raises $3 to $9
+knysi: calls $3
+*** FLOP *** [8h Kh 4c]
+BigYelloFish: bets $3
+knysi: calls $3
+*** TURN *** [8h Kh 4c] [8s]
+BigYelloFish: bets $6
+knysi: calls $6
+*** RIVER *** [8h Kh 4c 8s] [Td]
+BigYelloFish: bets $6
+knysi: calls $6
+*** SHOW DOWN ***
+BigYelloFish: shows [9c 8c] (three of a kind, Eights)
+knysi: mucks hand
+BigYelloFish collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8h Kh 4c 8s Td]
+Seat 1: BigYelloFish (big blind) showed [9c 8c] and won ($47.50) with three of a kind, Eights
+Seat 2: knysi (button) (small blind) mucked
+
+

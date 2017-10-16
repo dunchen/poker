@@ -1,0 +1,54 @@
+PokerStars Hand #173137606244:  Hold'em Limit ($3/$6 USD) - 2017/07/17 0:53:26 ET
+Table 'Mathilde' 6-max Seat #4 is the button
+Seat 3: Those_Bros ($114.03 in chips)
+Seat 4: Agrotait ($72 in chips)
+Agrotait: posts small blind $1
+Those_Bros: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+Those_Bros: calls $3
+*** FLOP *** [Ad 6h 6c]
+Those_Bros: checks
+Agrotait: bets $3
+Those_Bros: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $11.76 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ad 6h 6c]
+Seat 3: Those_Bros (big blind) folded on the Flop
+Seat 4: Agrotait (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #173137598742:  Hold'em Limit ($3/$6 USD) - 2017/07/17 0:52:53 ET
+Table 'Mathilde' 6-max Seat #3 is the button
+Seat 3: Those_Bros ($96.53 in chips)
+Seat 4: Agrotait ($72 in chips)
+Those_Bros: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+Those_Bros: raises $3 to $6
+Agrotait: raises $3 to $9
+Those_Bros: calls $3
+*** FLOP *** [8s 8h 4h]
+Agrotait: bets $3
+Those_Bros: calls $3
+*** TURN *** [8s 8h 4h] [2h]
+Agrotait: checks
+Those_Bros: checks
+*** RIVER *** [8s 8h 4h 2h] [5h]
+Agrotait: checks
+Those_Bros: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+Those_Bros: shows [Th 5d] (a flush, Ten high)
+Agrotait: mucks hand
+Those_Bros collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [8s 8h 4h 2h 5h]
+Seat 3: Those_Bros (button) (small blind) showed [Th 5d] and won ($35.50) with a flush, Ten high
+Seat 4: Agrotait (big blind) mucked
+
+

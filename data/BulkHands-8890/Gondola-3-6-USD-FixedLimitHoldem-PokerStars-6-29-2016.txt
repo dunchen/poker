@@ -1,0 +1,529 @@
+PokerStars Hand #155344320488:  Hold'em Limit ($3/$6 USD) - 2016/06/29 10:58:47 ET
+Table 'Gondola' 6-max Seat #3 is the button
+Seat 3: MLSB124 ($34.24 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+MLSB124: posts small blind $1
+B_loJkl joins the table at seat #5
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+MLSB124: calls $2
+VolkovDmitri: raises $3 to $6
+MLSB124: calls $3
+*** FLOP *** [6h 2s 3h]
+VolkovDmitri: bets $3
+MLSB124: calls $3
+*** TURN *** [6h 2s 3h] [Ad]
+VolkovDmitri: bets $6
+MLSB124: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $17.64 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6h 2s 3h Ad]
+Seat 3: MLSB124 (button) (small blind) folded on the Turn
+Seat 4: VolkovDmitri (big blind) collected ($17.64)
+
+
+PokerStars Hand #155348835330:  Hold'em Limit ($3/$6 USD) - 2016/06/29 13:03:54 ET
+Table 'Gondola' 6-max Seat #3 is the button
+Seat 3: tomte999 ($101.50 in chips)
+Seat 4: moveoverover ($105.40 in chips)
+tomte999: posts small blind $1
+moveoverover: posts big blind $3
+*** HOLE CARDS ***
+tomte999: raises $3 to $6
+moveoverover: folds
+Uncalled bet ($3) returned to tomte999
+tomte999 collected $6 from pot
+tomte999: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: tomte999 (button) (small blind) collected ($6)
+Seat 4: moveoverover (big blind) folded before Flop
+
+
+PokerStars Hand #155348817576:  Hold'em Limit ($3/$6 USD) - 2016/06/29 13:03:28 ET
+Table 'Gondola' 6-max Seat #4 is the button
+Seat 3: tomte999 ($72 in chips)
+Seat 4: moveoverover ($135.40 in chips)
+moveoverover: posts small blind $1
+tomte999: posts big blind $3
+*** HOLE CARDS ***
+moveoverover: raises $3 to $6
+tomte999: raises $3 to $9
+moveoverover: calls $3
+*** FLOP *** [Kc 5c 4d]
+tomte999: bets $3
+moveoverover: raises $3 to $6
+tomte999: raises $3 to $9
+moveoverover: calls $3
+*** TURN *** [Kc 5c 4d] [3d]
+tomte999: bets $6
+moveoverover: calls $6
+*** RIVER *** [Kc 5c 4d 3d] [7s]
+tomte999: bets $6
+moveoverover: calls $6
+*** SHOW DOWN ***
+tomte999: shows [Kh Td] (a pair of Kings)
+moveoverover: mucks hand
+tomte999 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Kc 5c 4d 3d 7s]
+Seat 3: tomte999 (big blind) showed [Kh Td] and won ($59.50) with a pair of Kings
+Seat 4: moveoverover (button) (small blind) mucked
+
+
+PokerStars Hand #155348853782:  Hold'em Limit ($3/$6 USD) - 2016/06/29 13:04:22 ET
+Table 'Gondola' 6-max Seat #3 is the button
+Seat 3: tomte999 ($113.14 in chips)
+Seat 4: moveoverover ($93.40 in chips)
+tomte999: posts small blind $1
+moveoverover: posts big blind $3
+*** HOLE CARDS ***
+tomte999: raises $3 to $6
+moveoverover: raises $3 to $9
+tomte999: calls $3
+*** FLOP *** [2h 7c 5s]
+moveoverover: bets $3
+tomte999: calls $3
+*** TURN *** [2h 7c 5s] [Ks]
+moveoverover: bets $6
+tomte999: raises $6 to $12
+moveoverover: raises $6 to $18
+tomte999: raises $6 to $24
+Betting is capped
+moveoverover: calls $6
+*** RIVER *** [2h 7c 5s Ks] [9s]
+moveoverover: checks
+tomte999: bets $6
+moveoverover: raises $6 to $12
+tomte999: calls $6
+*** SHOW DOWN ***
+moveoverover: shows [2s 3s] (a flush, King high)
+tomte999: mucks hand
+moveoverover collected $95.50 from pot
+*** SUMMARY ***
+Total pot $96 | Rake $0.50
+Board [2h 7c 5s Ks 9s]
+Seat 3: tomte999 (button) (small blind) mucked
+Seat 4: moveoverover (big blind) showed [2s 3s] and won ($95.50) with a flush, King high
+
+
+PokerStars Hand #155348839044:  Hold'em Limit ($3/$6 USD) - 2016/06/29 13:04:00 ET
+Table 'Gondola' 6-max Seat #4 is the button
+Seat 3: tomte999 ($104.50 in chips)
+Seat 4: moveoverover ($102.40 in chips)
+moveoverover: posts small blind $1
+tomte999: posts big blind $3
+*** HOLE CARDS ***
+moveoverover: raises $3 to $6
+tomte999: calls $3
+*** FLOP *** [6s Kd 3c]
+tomte999: checks
+moveoverover: bets $3
+tomte999: calls $3
+*** TURN *** [6s Kd 3c] [5s]
+tomte999: checks
+Tryptamean joins the table at seat #5
+moveoverover: checks
+*** RIVER *** [6s Kd 3c 5s] [Jh]
+tomte999: bets $6
+moveoverover: folds
+Uncalled bet ($6) returned to tomte999
+tomte999 collected $17.64 from pot
+tomte999: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6s Kd 3c 5s Jh]
+Seat 3: tomte999 (big blind) collected ($17.64)
+Seat 4: moveoverover (button) (small blind) folded on the River
+
+
+PokerStars Hand #155348943131:  Hold'em Limit ($3/$6 USD) - 2016/06/29 13:06:31 ET
+Table 'Gondola' 6-max Seat #5 is the button
+Seat 4: moveoverover ($95.90 in chips)
+Seat 5: Tryptamean ($140.83 in chips)
+Tryptamean: posts small blind $1
+tomte999: is sitting out
+moveoverover: posts big blind $3
+*** HOLE CARDS ***
+tomte999 leaves the table
+Tryptamean: raises $3 to $6
+moveoverover: raises $3 to $9
+Tryptamean: calls $3
+*** FLOP *** [Ks Kc 6s]
+moveoverover: bets $3
+Tryptamean: calls $3
+*** TURN *** [Ks Kc 6s] [Qd]
+moveoverover: bets $6
+Tryptamean: folds
+Uncalled bet ($6) returned to moveoverover
+moveoverover collected $23.52 from pot
+moveoverover: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Ks Kc 6s Qd]
+Seat 4: moveoverover (big blind) collected ($23.52)
+Seat 5: Tryptamean (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #155349005903:  Hold'em Limit ($3/$6 USD) - 2016/06/29 13:08:01 ET
+Table 'Gondola' 6-max Seat #5 is the button
+Seat 4: moveoverover ($133.92 in chips)
+Seat 5: Tryptamean ($101.83 in chips)
+Tryptamean: posts small blind $1
+moveoverover: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: folds
+Uncalled bet ($2) returned to moveoverover
+moveoverover collected $2 from pot
+moveoverover: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: moveoverover (big blind) collected ($2)
+Seat 5: Tryptamean (button) (small blind) folded before Flop
+
+
+PokerStars Hand #155348957461:  Hold'em Limit ($3/$6 USD) - 2016/06/29 13:06:52 ET
+Table 'Gondola' 6-max Seat #4 is the button
+Seat 4: moveoverover ($107.42 in chips)
+Seat 5: Tryptamean ($128.83 in chips)
+moveoverover: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+moveoverover: raises $3 to $6
+Tryptamean: raises $3 to $9
+moveoverover: raises $3 to $12
+Betting is capped
+Tryptamean: calls $3
+*** FLOP *** [As 5d 4h]
+Tryptamean: checks
+moveoverover: bets $3
+Tryptamean: calls $3
+*** TURN *** [As 5d 4h] [8s]
+Tryptamean: checks
+moveoverover: bets $6
+Tryptamean: raises $6 to $12
+moveoverover: calls $6
+*** RIVER *** [As 5d 4h 8s] [5c]
+Tryptamean: checks
+moveoverover: bets $6
+Tryptamean: folds
+Uncalled bet ($6) returned to moveoverover
+moveoverover collected $53.50 from pot
+moveoverover: doesn't show hand
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [As 5d 4h 8s 5c]
+Seat 4: moveoverover (button) (small blind) collected ($53.50)
+Seat 5: Tryptamean (big blind) folded on the River
+
+
+PokerStars Hand #155349011212:  Hold'em Limit ($3/$6 USD) - 2016/06/29 13:08:09 ET
+Table 'Gondola' 6-max Seat #4 is the button
+Seat 4: moveoverover ($134.92 in chips)
+Seat 5: Tryptamean ($100.83 in chips)
+moveoverover: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+moveoverover: raises $3 to $6
+Tryptamean: calls $3
+*** FLOP *** [Kd Jh 5h]
+Tryptamean: checks
+moveoverover: bets $3
+Tryptamean: calls $3
+*** TURN *** [Kd Jh 5h] [Kh]
+Tryptamean: checks
+moveoverover: bets $6
+Tryptamean: calls $6
+*** RIVER *** [Kd Jh 5h Kh] [Js]
+Tryptamean: checks
+moveoverover: bets $6
+Tryptamean: calls $6
+*** SHOW DOWN ***
+moveoverover: shows [Kc Tc] (a full house, Kings full of Jacks)
+Tryptamean: mucks hand
+moveoverover collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Kd Jh 5h Kh Js]
+Seat 4: moveoverover (button) (small blind) showed [Kc Tc] and won ($41.50) with a full house, Kings full of Jacks
+Seat 5: Tryptamean (big blind) mucked
+
+
+PokerStars Hand #155349049831:  Hold'em Limit ($3/$6 USD) - 2016/06/29 13:09:05 ET
+Table 'Gondola' 6-max Seat #5 is the button
+Seat 4: moveoverover ($155.42 in chips)
+Seat 5: Tryptamean ($79.83 in chips)
+Tryptamean: posts small blind $1
+moveoverover: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+moveoverover: raises $3 to $9
+Tryptamean: calls $3
+*** FLOP *** [Tc Js Qc]
+moveoverover: bets $3
+Tryptamean: calls $3
+*** TURN *** [Tc Js Qc] [9d]
+moveoverover: checks
+Tryptamean: bets $6
+moveoverover: calls $6
+*** RIVER *** [Tc Js Qc 9d] [3h]
+moveoverover: checks
+Tryptamean: bets $6
+moveoverover: calls $6
+*** SHOW DOWN ***
+Tryptamean: shows [8d Th] (a straight, Eight to Queen)
+moveoverover: mucks hand
+Tryptamean collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Tc Js Qc 9d 3h]
+Seat 4: moveoverover (big blind) mucked
+Seat 5: Tryptamean (button) (small blind) showed [8d Th] and won ($47.50) with a straight, Eight to Queen
+
+
+PokerStars Hand #155349114439:  Hold'em Limit ($3/$6 USD) - 2016/06/29 13:10:38 ET
+Table 'Gondola' 6-max Seat #4 is the button
+Seat 4: moveoverover ($145.92 in chips)
+Seat 5: Tryptamean ($88.09 in chips)
+moveoverover: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+moveoverover: raises $3 to $6
+Tryptamean: raises $3 to $9
+moveoverover: calls $3
+*** FLOP *** [7s Ac Qc]
+Tryptamean: bets $3
+moveoverover: folds
+Uncalled bet ($3) returned to Tryptamean
+Tryptamean collected $17.64 from pot
+Tryptamean: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7s Ac Qc]
+Seat 4: moveoverover (button) (small blind) folded on the Flop
+Seat 5: Tryptamean (big blind) collected ($17.64)
+
+
+PokerStars Hand #155349103972:  Hold'em Limit ($3/$6 USD) - 2016/06/29 13:10:23 ET
+Table 'Gondola' 6-max Seat #5 is the button
+Seat 4: moveoverover ($151.92 in chips)
+Seat 5: Tryptamean ($82.33 in chips)
+Tryptamean: posts small blind $1
+moveoverover: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+moveoverover: calls $3
+*** FLOP *** [Kh 5h Kd]
+moveoverover: checks
+Tryptamean: bets $3
+moveoverover: folds
+Uncalled bet ($3) returned to Tryptamean
+BrownieSpy joins the table at seat #3
+Tryptamean collected $11.76 from pot
+Tryptamean: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kh 5h Kd]
+Seat 4: moveoverover (big blind) folded on the Flop
+Seat 5: Tryptamean (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #155349067360:  Hold'em Limit ($3/$6 USD) - 2016/06/29 13:09:30 ET
+Table 'Gondola' 6-max Seat #4 is the button
+Seat 4: moveoverover ($131.42 in chips)
+Seat 5: Tryptamean ($103.33 in chips)
+moveoverover: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+moveoverover: raises $3 to $6
+Tryptamean: calls $3
+*** FLOP *** [5d 3h Kd]
+Tryptamean: checks
+moveoverover: bets $3
+Tryptamean: calls $3
+*** TURN *** [5d 3h Kd] [Qs]
+Tryptamean: checks
+moveoverover: bets $6
+Tryptamean: calls $6
+*** RIVER *** [5d 3h Kd Qs] [3s]
+Tryptamean: checks
+moveoverover: bets $6
+Tryptamean: calls $6
+*** SHOW DOWN ***
+moveoverover: shows [Td 3d] (three of a kind, Threes)
+Tryptamean: mucks hand
+moveoverover collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [5d 3h Kd Qs 3s]
+Seat 4: moveoverover (button) (small blind) showed [Td 3d] and won ($41.50) with three of a kind, Threes
+Seat 5: Tryptamean (big blind) mucked
+
+
+PokerStars Hand #155361929751:  Hold'em Limit ($3/$6 USD) - 2016/06/29 17:52:00 ET
+Table 'Gondola' 6-max Seat #3 is the button
+Seat 2: tomte999 ($75 in chips)
+Seat 3: wuck249 ($111.36 in chips)
+wuck249: posts small blind $1
+wobetting: is sitting out
+tomte999: posts big blind $3
+*** HOLE CARDS ***
+wuck249: raises $3 to $6
+tomte999: calls $3
+*** FLOP *** [Jh 4h Qc]
+tomte999: checks
+wuck249: bets $3
+tomte999: folds
+Uncalled bet ($3) returned to wuck249
+wuck249 collected $11.76 from pot
+wuck249: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jh 4h Qc]
+Seat 2: tomte999 (big blind) folded on the Flop
+Seat 3: wuck249 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #155361964431:  Hold'em Limit ($3/$6 USD) - 2016/06/29 17:52:49 ET
+Table 'Gondola' 6-max Seat #2 is the button
+Seat 2: tomte999 ($74.76 in chips)
+Seat 3: wuck249 ($114.12 in chips)
+tomte999: posts small blind $1
+wuck249: posts big blind $3
+*** HOLE CARDS ***
+tomte999: folds
+Uncalled bet ($2) returned to wuck249
+wuck249 collected $2 from pot
+wuck249: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: tomte999 (button) (small blind) folded before Flop
+Seat 3: wuck249 (big blind) collected ($2)
+
+
+PokerStars Hand #155361959517:  Hold'em Limit ($3/$6 USD) - 2016/06/29 17:52:42 ET
+Table 'Gondola' 6-max Seat #3 is the button
+Seat 2: tomte999 ($77.76 in chips)
+Seat 3: wuck249 ($111.12 in chips)
+wuck249: posts small blind $1
+tomte999: posts big blind $3
+*** HOLE CARDS ***
+wuck249: raises $3 to $6
+tomte999: folds
+Uncalled bet ($3) returned to wuck249
+wuck249 collected $6 from pot
+wuck249: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: tomte999 (big blind) folded before Flop
+Seat 3: wuck249 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #155361969369:  Hold'em Limit ($3/$6 USD) - 2016/06/29 17:52:56 ET
+Table 'Gondola' 6-max Seat #3 is the button
+Seat 2: tomte999 ($73.76 in chips)
+Seat 3: wuck249 ($115.12 in chips)
+wuck249: posts small blind $1
+tomte999: posts big blind $3
+*** HOLE CARDS ***
+wuck249: raises $3 to $6
+tomte999: calls $3
+*** FLOP *** [7h 6s Kh]
+tomte999: checks
+wuck249: bets $3
+tomte999: raises $3 to $6
+wuck249: raises $3 to $9
+tomte999: calls $3
+*** TURN *** [7h 6s Kh] [Ac]
+tomte999: checks
+wuck249: bets $6
+tomte999: calls $6
+*** RIVER *** [7h 6s Kh Ac] [Qd]
+tomte999: checks
+wuck249: bets $6
+tomte999: calls $6
+*** SHOW DOWN ***
+wuck249: shows [2c Ah] (a pair of Aces)
+tomte999: mucks hand
+wuck249 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [7h 6s Kh Ac Qd]
+Seat 2: tomte999 (big blind) mucked
+Seat 3: wuck249 (button) (small blind) showed [2c Ah] and won ($53.50) with a pair of Aces
+
+
+PokerStars Hand #155361940654:  Hold'em Limit ($3/$6 USD) - 2016/06/29 17:52:16 ET
+Table 'Gondola' 6-max Seat #2 is the button
+Seat 2: tomte999 ($72 in chips)
+Seat 3: wuck249 ($117.12 in chips)
+tomte999: posts small blind $1
+wuck249: posts big blind $3
+*** HOLE CARDS ***
+tomte999: raises $3 to $6
+wuck249: calls $3
+*** FLOP *** [9s 4h 2h]
+wuck249: checks
+tomte999: bets $3
+wuck249: folds
+Uncalled bet ($3) returned to tomte999
+tomte999 collected $11.76 from pot
+tomte999: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9s 4h 2h]
+Seat 2: tomte999 (button) (small blind) collected ($11.76)
+Seat 3: wuck249 (big blind) folded on the Flop
+
+
+PokerStars Hand #155361999228:  Hold'em Limit ($3/$6 USD) - 2016/06/29 17:53:38 ET
+Table 'Gondola' 6-max Seat #2 is the button
+Seat 2: tomte999 ($72 in chips)
+Seat 3: wuck249 ($141.62 in chips)
+tomte999: posts small blind $1
+wuck249: posts big blind $3
+*** HOLE CARDS ***
+tomte999: folds
+Uncalled bet ($2) returned to wuck249
+wuck249 collected $2 from pot
+wuck249: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: tomte999 (button) (small blind) folded before Flop
+Seat 3: wuck249 (big blind) collected ($2)
+
+
+PokerStars Hand #155363432846:  Hold'em Limit ($3/$6 USD) - 2016/06/29 18:29:36 ET
+Table 'Gondola' 6-max Seat #1 is the button
+Seat 1: wobetting ($100.09 in chips)
+Seat 6: sokol-max-PS ($126.50 in chips)
+wobetting: posts small blind $1
+sokol-max-PS: posts big blind $3
+*** HOLE CARDS ***
+wobetting: raises $3 to $6
+sokol-max-PS: raises $3 to $9
+wobetting: calls $3
+*** FLOP *** [Ac 5c Qd]
+sokol-max-PS: bets $3
+wobetting: calls $3
+*** TURN *** [Ac 5c Qd] [6h]
+sokol-max-PS: bets $6
+wobetting: calls $6
+*** RIVER *** [Ac 5c Qd 6h] [8s]
+sokol-max-PS: bets $6
+wobetting: calls $6
+*** SHOW DOWN ***
+sokol-max-PS: shows [3s As] (a pair of Aces)
+wobetting: shows [Ad Jc] (a pair of Aces - Queen+Jack kicker)
+wobetting collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Ac 5c Qd 6h 8s]
+Seat 1: wobetting (button) (small blind) showed [Ad Jc] and won ($47.50) with a pair of Aces
+Seat 6: sokol-max-PS (big blind) showed [3s As] and lost with a pair of Aces
+
+

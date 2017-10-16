@@ -1,0 +1,53 @@
+PokerStars Hand #154974350729:  Hold'em Limit ($3/$6 USD) - 2016/06/20 9:09:29 ET
+Table 'Annika' 6-max Seat #3 is the button
+Seat 1: Ag3r0n ($79.80 in chips)
+Seat 3: Nordq ($130.30 in chips)
+Nordq: posts small blind $1
+Ag3r0n: posts big blind $3
+*** HOLE CARDS ***
+Nordq: folds
+Uncalled bet ($2) returned to Ag3r0n
+Ag3r0n collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Ag3r0n (big blind) collected ($2)
+Seat 3: Nordq (button) (small blind) folded before Flop
+
+
+PokerStars Hand #154974341547:  Hold'em Limit ($3/$6 USD) - 2016/06/20 9:09:10 ET
+Table 'Annika' 6-max Seat #1 is the button
+Seat 1: Ag3r0n ($103.80 in chips)
+Seat 3: Nordq ($106.80 in chips)
+Ag3r0n: posts small blind $1
+B_loJkl: is sitting out
+Nordq: posts big blind $3
+*** HOLE CARDS ***
+Ag3r0n: raises $3 to $6
+Nordq: raises $3 to $9
+Ag3r0n: raises $3 to $12
+Betting is capped
+B_loJkl leaves the table
+Nordq: calls $3
+*** FLOP *** [Ks 6h 2c]
+Nordq: bets $3
+Ag3r0n: raises $3 to $6
+Nordq: calls $3
+*** TURN *** [Ks 6h 2c] [Ts]
+Nordq: checks
+Ag3r0n: bets $6
+Nordq: calls $6
+*** RIVER *** [Ks 6h 2c Ts] [9d]
+Nordq: checks
+Ag3r0n: checks
+*** SHOW DOWN ***
+Nordq: shows [Qd Qs] (a pair of Queens)
+Ag3r0n: mucks hand
+Nordq collected $47.50 from pot
+krossguard leaves the table
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Ks 6h 2c Ts 9d]
+Seat 1: Ag3r0n (button) (small blind) mucked
+Seat 3: Nordq (big blind) showed [Qd Qs] and won ($47.50) with a pair of Queens
+
+

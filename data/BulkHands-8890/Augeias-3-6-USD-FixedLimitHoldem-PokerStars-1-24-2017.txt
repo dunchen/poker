@@ -1,0 +1,603 @@
+PokerStars Hand #165085664825:  Hold'em Limit ($3/$6 USD) - 2017/01/24 6:48:48 ET
+Table 'Augeias' 10-max Seat #10 is the button
+Seat 7: VolkovDmitri ($176.44 in chips)
+Seat 10: Great_Kang ($120 in chips)
+nicmct will be allowed to play after the button
+Great_Kang: posts small blind $1
+MellivoraSto: is sitting out
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+nordschrott leaves the table
+Great_Kang: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [3d 3h 4h]
+MellivoraSto leaves the table
+VolkovDmitri: checks
+Great_Kang: bets $3
+VolkovDmitri: raises $3 to $6
+Great_Kang: calls $3
+*** TURN *** [3d 3h 4h] [Qd]
+VolkovDmitri: checks
+Great_Kang: bets $6
+fsreibnitz joins the table at seat #6
+VolkovDmitri: calls $6
+*** RIVER *** [3d 3h 4h Qd] [6h]
+VolkovDmitri: checks
+Great_Kang: bets $6
+LouisB joins the table at seat #8
+VolkovDmitri: folds
+Uncalled bet ($6) returned to Great_Kang
+Great_Kang collected $35.50 from pot
+Great_Kang: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [3d 3h 4h Qd 6h]
+Seat 7: VolkovDmitri (big blind) folded on the River
+Seat 10: Great_Kang (button) (small blind) collected ($35.50)
+
+
+PokerStars Hand #165086246982:  Hold'em Limit ($3/$6 USD) - 2017/01/24 7:08:48 ET
+Table 'Augeias' 10-max Seat #6 is the button
+Seat 6: fsreibnitz ($178.50 in chips)
+Seat 9: nicmct ($112.58 in chips)
+fsreibnitz: posts small blind $1
+LouisB: is sitting out
+nicmct: posts big blind $3
+*** HOLE CARDS ***
+LouisB leaves the table
+fsreibnitz: raises $3 to $6
+nicmct: folds
+Uncalled bet ($3) returned to fsreibnitz
+fsreibnitz collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 6: fsreibnitz (button) (small blind) collected ($6)
+Seat 9: nicmct (big blind) folded before Flop
+
+
+PokerStars Hand #165086251737:  Hold'em Limit ($3/$6 USD) - 2017/01/24 7:08:58 ET
+Table 'Augeias' 10-max Seat #9 is the button
+Seat 6: fsreibnitz ($181.50 in chips)
+Seat 9: nicmct ($109.58 in chips)
+nicmct: posts small blind $1
+fsreibnitz: posts big blind $3
+*** HOLE CARDS ***
+nicmct: raises $3 to $6
+fsreibnitz: calls $3
+*** FLOP *** [8s Ad 7s]
+fsreibnitz: checks
+nicmct: bets $3
+fsreibnitz: calls $3
+*** TURN *** [8s Ad 7s] [Qs]
+fsreibnitz: checks
+nicmct: checks
+*** RIVER *** [8s Ad 7s Qs] [6c]
+fsreibnitz: checks
+nicmct: checks
+*** SHOW DOWN ***
+fsreibnitz: shows [8c Js] (a pair of Eights)
+nicmct: mucks hand
+fsreibnitz collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8s Ad 7s Qs 6c]
+Seat 6: fsreibnitz (big blind) showed [8c Js] and won ($17.64) with a pair of Eights
+Seat 9: nicmct (button) (small blind) mucked
+
+
+PokerStars Hand #165086262318:  Hold'em Limit ($3/$6 USD) - 2017/01/24 7:09:19 ET
+Table 'Augeias' 10-max Seat #6 is the button
+Seat 6: fsreibnitz ($190.14 in chips)
+Seat 9: nicmct ($100.58 in chips)
+fsreibnitz: posts small blind $1
+nicmct: posts big blind $3
+*** HOLE CARDS ***
+fsreibnitz: folds
+Uncalled bet ($2) returned to nicmct
+nicmct collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 6: fsreibnitz (button) (small blind) folded before Flop
+Seat 9: nicmct (big blind) collected ($2)
+
+
+PokerStars Hand #165086267345:  Hold'em Limit ($3/$6 USD) - 2017/01/24 7:09:28 ET
+Table 'Augeias' 10-max Seat #9 is the button
+Seat 6: fsreibnitz ($189.14 in chips)
+Seat 9: nicmct ($101.58 in chips)
+nicmct: posts small blind $1
+fsreibnitz: posts big blind $3
+*** HOLE CARDS ***
+nicmct: raises $3 to $6
+fsreibnitz: calls $3
+*** FLOP *** [Kh Jh Td]
+fsreibnitz: checks
+nicmct: bets $3
+fsreibnitz: calls $3
+*** TURN *** [Kh Jh Td] [Qc]
+fsreibnitz: checks
+nicmct: bets $6
+fsreibnitz: calls $6
+*** RIVER *** [Kh Jh Td Qc] [2s]
+fsreibnitz: checks
+nicmct: bets $6
+fsreibnitz: calls $6
+*** SHOW DOWN ***
+nicmct: shows [5d Ad] (a straight, Ten to Ace)
+fsreibnitz: mucks hand
+nicmct collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Kh Jh Td Qc 2s]
+Seat 6: fsreibnitz (big blind) mucked
+Seat 9: nicmct (button) (small blind) showed [5d Ad] and won ($41.50) with a straight, Ten to Ace
+
+
+PokerStars Hand #165086279981:  Hold'em Limit ($3/$6 USD) - 2017/01/24 7:09:53 ET
+Table 'Augeias' 10-max Seat #6 is the button
+Seat 6: fsreibnitz ($168.14 in chips)
+Seat 9: nicmct ($122.08 in chips)
+fsreibnitz: posts small blind $1
+nicmct: posts big blind $3
+*** HOLE CARDS ***
+fsreibnitz: raises $3 to $6
+reed 2000 joins the table at seat #1
+nicmct: raises $3 to $9
+MellivoraSto joins the table at seat #2
+fsreibnitz is disconnected
+fsreibnitz has timed out while disconnected
+fsreibnitz: folds
+Uncalled bet ($3) returned to nicmct
+nicmct collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0
+Seat 6: fsreibnitz (button) (small blind) folded before Flop
+Seat 9: nicmct (big blind) collected ($12)
+
+
+PokerStars Hand #165086977666:  Hold'em Limit ($3/$6 USD) - 2017/01/24 7:32:13 ET
+Table 'Augeias' 10-max Seat #9 is the button
+Seat 6: fsreibnitz ($56.31 in chips)
+Seat 9: belik555 ($91 in chips)
+belik555: posts small blind $1
+Great_Kang: is sitting out
+Great_Kang leaves the table
+fsreibnitz: posts big blind $3
+*** HOLE CARDS ***
+belik555: raises $3 to $6
+fsreibnitz: folds
+Uncalled bet ($3) returned to belik555
+belik555 collected $6 from pot
+belik555: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 6: fsreibnitz (big blind) folded before Flop
+Seat 9: belik555 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #165086981786:  Hold'em Limit ($3/$6 USD) - 2017/01/24 7:32:21 ET
+Table 'Augeias' 10-max Seat #6 is the button
+Seat 6: fsreibnitz ($53.31 in chips)
+Seat 9: belik555 ($94 in chips)
+fsreibnitz: posts small blind $1
+belik555: posts big blind $3
+*** HOLE CARDS ***
+fsreibnitz: raises $3 to $6
+belik555: calls $3
+*** FLOP *** [Qs 8h 6h]
+belik555: checks
+fsreibnitz: bets $3
+belik555: raises $3 to $6
+fsreibnitz: calls $3
+*** TURN *** [Qs 8h 6h] [4s]
+belik555: bets $6
+fsreibnitz: calls $6
+*** RIVER *** [Qs 8h 6h 4s] [Tc]
+belik555: bets $6
+fsreibnitz: calls $6
+*** SHOW DOWN ***
+belik555: shows [8d 7h] (a pair of Eights)
+fsreibnitz: shows [Ad 8s] (a pair of Eights - Ace kicker)
+fsreibnitz collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Qs 8h 6h 4s Tc]
+Seat 6: fsreibnitz (button) (small blind) showed [Ad 8s] and won ($47.50) with a pair of Eights
+Seat 9: belik555 (big blind) showed [8d 7h] and lost with a pair of Eights
+
+
+PokerStars Hand #165087019781:  Hold'em Limit ($3/$6 USD) - 2017/01/24 7:33:33 ET
+Table 'Augeias' 10-max Seat #9 is the button
+Seat 6: fsreibnitz ($105.81 in chips)
+Seat 9: belik555 ($90 in chips)
+belik555: posts small blind $1
+fsreibnitz: posts big blind $3
+*** HOLE CARDS ***
+belik555: folds
+Uncalled bet ($2) returned to fsreibnitz
+fsreibnitz collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 6: fsreibnitz (big blind) collected ($2)
+Seat 9: belik555 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #165087010701:  Hold'em Limit ($3/$6 USD) - 2017/01/24 7:33:16 ET
+Table 'Augeias' 10-max Seat #6 is the button
+Seat 6: fsreibnitz ($91.31 in chips)
+Seat 9: belik555 ($90 in chips)
+fsreibnitz: posts small blind $1
+belik555: posts big blind $3
+*** HOLE CARDS ***
+fsreibnitz: raises $3 to $6
+belik555: calls $3
+*** FLOP *** [9h 8d 4c]
+belik555: checks
+fsreibnitz: bets $3
+belik555: calls $3
+*** TURN *** [9h 8d 4c] [8h]
+belik555: checks
+fsreibnitz: checks
+*** RIVER *** [9h 8d 4c 8h] [6c]
+belik555: bets $6
+fsreibnitz: calls $6
+*** SHOW DOWN ***
+belik555: shows [Ad 2s] (a pair of Eights)
+fsreibnitz: shows [9c Kc] (two pair, Nines and Eights)
+fsreibnitz collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9h 8d 4c 8h 6c]
+Seat 6: fsreibnitz (button) (small blind) showed [9c Kc] and won ($29.50) with two pair, Nines and Eights
+Seat 9: belik555 (big blind) showed [Ad 2s] and lost with a pair of Eights
+
+
+PokerStars Hand #165086995958:  Hold'em Limit ($3/$6 USD) - 2017/01/24 7:32:48 ET
+Table 'Augeias' 10-max Seat #9 is the button
+Seat 6: fsreibnitz ($76.81 in chips)
+Seat 9: belik555 ($90 in chips)
+belik555: posts small blind $1
+fsreibnitz: posts big blind $3
+*** HOLE CARDS ***
+belik555: raises $3 to $6
+fsreibnitz: calls $3
+*** FLOP *** [Ks Qs 4h]
+fsreibnitz: checks
+belik555: bets $3
+fsreibnitz: calls $3
+*** TURN *** [Ks Qs 4h] [Qc]
+fsreibnitz: checks
+belik555: bets $6
+fsreibnitz: raises $6 to $12
+belik555: folds
+Uncalled bet ($6) returned to fsreibnitz
+fsreibnitz collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ks Qs 4h Qc]
+Seat 6: fsreibnitz (big blind) collected ($29.50)
+Seat 9: belik555 (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #165087023105:  Hold'em Limit ($3/$6 USD) - 2017/01/24 7:33:39 ET
+Table 'Augeias' 10-max Seat #6 is the button
+Seat 6: fsreibnitz ($106.81 in chips)
+Seat 9: belik555 ($90 in chips)
+fsreibnitz: posts small blind $1
+belik555: posts big blind $3
+*** HOLE CARDS ***
+fsreibnitz: raises $3 to $6
+belik555: raises $3 to $9
+fsreibnitz: calls $3
+*** FLOP *** [Jd 7c 9h]
+belik555: bets $3
+fsreibnitz: folds
+Uncalled bet ($3) returned to belik555
+belik555 collected $17.64 from pot
+belik555: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Jd 7c 9h]
+Seat 6: fsreibnitz (button) (small blind) folded on the Flop
+Seat 9: belik555 (big blind) collected ($17.64)
+
+
+PokerStars Hand #165087049256:  Hold'em Limit ($3/$6 USD) - 2017/01/24 7:34:28 ET
+Table 'Augeias' 10-max Seat #9 is the button
+Seat 6: fsreibnitz ($118.31 in chips)
+Seat 9: belik555 ($90 in chips)
+belik555: posts small blind $1
+fsreibnitz: posts big blind $3
+*** HOLE CARDS ***
+belik555: raises $3 to $6
+fsreibnitz: calls $3
+*** FLOP *** [5s Ts Qs]
+fsreibnitz: checks
+belik555: bets $3
+fsreibnitz: calls $3
+*** TURN *** [5s Ts Qs] [4s]
+fsreibnitz: checks
+belik555: checks
+*** RIVER *** [5s Ts Qs 4s] [9h]
+fsreibnitz: bets $6
+belik555: calls $6
+*** SHOW DOWN ***
+fsreibnitz: shows [Qc 8d] (a pair of Queens)
+belik555: shows [Ah Qd] (a pair of Queens - Ace kicker)
+belik555 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5s Ts Qs 4s 9h]
+Seat 6: fsreibnitz (big blind) showed [Qc 8d] and lost with a pair of Queens
+Seat 9: belik555 (button) (small blind) showed [Ah Qd] and won ($29.50) with a pair of Queens
+
+
+PokerStars Hand #165087036555:  Hold'em Limit ($3/$6 USD) - 2017/01/24 7:34:04 ET
+Table 'Augeias' 10-max Seat #6 is the button
+Seat 6: fsreibnitz ($94.81 in chips)
+Seat 9: belik555 ($101.64 in chips)
+fsreibnitz: posts small blind $1
+belik555: posts big blind $3
+*** HOLE CARDS ***
+fsreibnitz: raises $3 to $6
+belik555: calls $3
+*** FLOP *** [Jh 8d 4d]
+belik555: checks
+fsreibnitz: checks
+*** TURN *** [Jh 8d 4d] [6c]
+belik555: bets $6
+fsreibnitz: raises $6 to $12
+belik555: calls $6
+*** RIVER *** [Jh 8d 4d 6c] [Jd]
+belik555: checks
+fsreibnitz: bets $6
+belik555: calls $6
+*** SHOW DOWN ***
+fsreibnitz: shows [9h 9c] (two pair, Jacks and Nines)
+belik555: mucks hand
+fsreibnitz collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Jh 8d 4d 6c Jd]
+Seat 6: fsreibnitz (button) (small blind) showed [9h 9c] and won ($47.50) with two pair, Jacks and Nines
+Seat 9: belik555 (big blind) mucked
+
+
+PokerStars Hand #165087033257:  Hold'em Limit ($3/$6 USD) - 2017/01/24 7:33:58 ET
+Table 'Augeias' 10-max Seat #9 is the button
+Seat 6: fsreibnitz ($97.81 in chips)
+Seat 9: belik555 ($98.64 in chips)
+belik555: posts small blind $1
+fsreibnitz: posts big blind $3
+*** HOLE CARDS ***
+belik555: raises $3 to $6
+fsreibnitz: folds
+Uncalled bet ($3) returned to belik555
+belik555 collected $6 from pot
+belik555: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 6: fsreibnitz (big blind) folded before Flop
+Seat 9: belik555 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #165087071275:  Hold'em Limit ($3/$6 USD) - 2017/01/24 7:35:09 ET
+Table 'Augeias' 10-max Seat #9 is the button
+Seat 6: fsreibnitz ($123.81 in chips)
+Seat 9: belik555 ($90 in chips)
+belik555: posts small blind $1
+fsreibnitz: posts big blind $3
+*** HOLE CARDS ***
+belik555: raises $3 to $6
+fsreibnitz: calls $3
+*** FLOP *** [9c 5s Qh]
+fsreibnitz: checks
+belik555: checks
+*** TURN *** [9c 5s Qh] [Ac]
+fsreibnitz: checks
+belik555: checks
+*** RIVER *** [9c 5s Qh Ac] [Qs]
+fsreibnitz: checks
+belik555: checks
+*** SHOW DOWN ***
+fsreibnitz: shows [6c Jd] (a pair of Queens)
+belik555: shows [6s Jc] (a pair of Queens)
+fsreibnitz collected $5.88 from pot
+belik555 collected $5.88 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9c 5s Qh Ac Qs]
+Seat 6: fsreibnitz (big blind) showed [6c Jd] and won ($5.88) with a pair of Queens
+Seat 9: belik555 (button) (small blind) showed [6s Jc] and won ($5.88) with a pair of Queens
+
+
+PokerStars Hand #165087089339:  Hold'em Limit ($3/$6 USD) - 2017/01/24 7:35:43 ET
+Table 'Augeias' 10-max Seat #6 is the button
+Seat 6: fsreibnitz ($123.69 in chips)
+Seat 9: belik555 ($90 in chips)
+fsreibnitz: posts small blind $1
+belik555: posts big blind $3
+*** HOLE CARDS ***
+fsreibnitz: folds
+Uncalled bet ($2) returned to belik555
+belik555 collected $2 from pot
+belik555: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 6: fsreibnitz (button) (small blind) folded before Flop
+Seat 9: belik555 (big blind) collected ($2)
+
+
+PokerStars Hand #165087060915:  Hold'em Limit ($3/$6 USD) - 2017/01/24 7:34:49 ET
+Table 'Augeias' 10-max Seat #6 is the button
+Seat 6: fsreibnitz ($103.31 in chips)
+Seat 9: belik555 ($104.50 in chips)
+fsreibnitz: posts small blind $1
+belik555: posts big blind $3
+*** HOLE CARDS ***
+fsreibnitz: raises $3 to $6
+belik555: raises $3 to $9
+fsreibnitz: calls $3
+*** FLOP *** [Jd 6h Th]
+belik555: bets $3
+fsreibnitz: raises $3 to $6
+belik555: calls $3
+*** TURN *** [Jd 6h Th] [4d]
+belik555: checks
+fsreibnitz: bets $6
+belik555: calls $6
+*** RIVER *** [Jd 6h Th 4d] [9c]
+belik555: checks
+fsreibnitz: checks
+*** SHOW DOWN ***
+belik555: shows [Ac Qh] (high card Ace)
+fsreibnitz: shows [Kc Td] (a pair of Tens)
+fsreibnitz collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Jd 6h Th 4d 9c]
+Seat 6: fsreibnitz (button) (small blind) showed [Kc Td] and won ($41.50) with a pair of Tens
+Seat 9: belik555 (big blind) showed [Ac Qh] and lost with high card Ace
+
+
+PokerStars Hand #165087094376:  Hold'em Limit ($3/$6 USD) - 2017/01/24 7:35:52 ET
+Table 'Augeias' 10-max Seat #9 is the button
+Seat 6: fsreibnitz ($122.69 in chips)
+Seat 9: belik555 ($91 in chips)
+belik555: posts small blind $1
+fsreibnitz: posts big blind $3
+*** HOLE CARDS ***
+belik555: raises $3 to $6
+fsreibnitz: calls $3
+*** FLOP *** [8h 6h 7s]
+fsreibnitz: checks
+belik555: checks
+*** TURN *** [8h 6h 7s] [3s]
+fsreibnitz: checks
+belik555: checks
+*** RIVER *** [8h 6h 7s 3s] [4d]
+fsreibnitz: bets $6
+belik555: raises $6 to $12
+fsreibnitz: calls $6
+*** SHOW DOWN ***
+belik555: shows [5s Jd] (a straight, Four to Eight)
+fsreibnitz: shows [Qd 5d] (a straight, Four to Eight)
+fsreibnitz collected $17.75 from pot
+belik555 collected $17.75 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [8h 6h 7s 3s 4d]
+Seat 6: fsreibnitz (big blind) showed [Qd 5d] and won ($17.75) with a straight, Four to Eight
+Seat 9: belik555 (button) (small blind) showed [5s Jd] and won ($17.75) with a straight, Four to Eight
+
+
+PokerStars Hand #165087111130:  Hold'em Limit ($3/$6 USD) - 2017/01/24 7:36:23 ET
+Table 'Augeias' 10-max Seat #9 is the button
+Seat 6: fsreibnitz ($121.44 in chips)
+Seat 9: belik555 ($91.75 in chips)
+belik555: posts small blind $1
+fsreibnitz: posts big blind $3
+*** HOLE CARDS ***
+belik555: raises $3 to $6
+fsreibnitz: calls $3
+*** FLOP *** [Td 3h Qc]
+fsreibnitz: checks
+belik555: bets $3
+fsreibnitz: calls $3
+*** TURN *** [Td 3h Qc] [2h]
+fsreibnitz: checks
+belik555: checks
+*** RIVER *** [Td 3h Qc 2h] [Js]
+fsreibnitz: checks
+belik555: bets $6
+fsreibnitz: folds
+Uncalled bet ($6) returned to belik555
+belik555 collected $17.64 from pot
+belik555: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Td 3h Qc 2h Js]
+Seat 6: fsreibnitz (big blind) folded on the River
+Seat 9: belik555 (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #165087107913:  Hold'em Limit ($3/$6 USD) - 2017/01/24 7:36:18 ET
+Table 'Augeias' 10-max Seat #6 is the button
+Seat 6: fsreibnitz ($122.44 in chips)
+Seat 9: belik555 ($90.75 in chips)
+fsreibnitz: posts small blind $1
+belik555: posts big blind $3
+*** HOLE CARDS ***
+fsreibnitz: folds
+Uncalled bet ($2) returned to belik555
+belik555 collected $2 from pot
+belik555: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 6: fsreibnitz (button) (small blind) folded before Flop
+Seat 9: belik555 (big blind) collected ($2)
+
+
+PokerStars Hand #165087142571:  Hold'em Limit ($3/$6 USD) - 2017/01/24 7:37:22 ET
+Table 'Augeias' 10-max Seat #6 is the button
+Seat 6: fsreibnitz ($108.44 in chips)
+Seat 9: belik555 ($104.39 in chips)
+fsreibnitz: posts small blind $1
+belik555: posts big blind $3
+*** HOLE CARDS ***
+fsreibnitz: raises $3 to $6
+belik555: calls $3
+*** FLOP *** [8c Kc 6d]
+belik555: checks
+fsreibnitz: checks
+*** TURN *** [8c Kc 6d] [2s]
+belik555: checks
+fsreibnitz: checks
+*** RIVER *** [8c Kc 6d 2s] [7c]
+belik555: bets $6
+fsreibnitz: folds
+Uncalled bet ($6) returned to belik555
+belik555 collected $11.76 from pot
+belik555: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8c Kc 6d 2s 7c]
+Seat 6: fsreibnitz (button) (small blind) folded on the River
+Seat 9: belik555 (big blind) collected ($11.76)
+
+
+PokerStars Hand #165087132492:  Hold'em Limit ($3/$6 USD) - 2017/01/24 7:37:03 ET
+Table 'Augeias' 10-max Seat #9 is the button
+Seat 6: fsreibnitz ($111.44 in chips)
+Seat 9: belik555 ($101.39 in chips)
+belik555: posts small blind $1
+fsreibnitz: posts big blind $3
+*** HOLE CARDS ***
+belik555: raises $3 to $6
+fsreibnitz: folds
+Uncalled bet ($3) returned to belik555
+belik555 collected $6 from pot
+belik555: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 6: fsreibnitz (big blind) folded before Flop
+Seat 9: belik555 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #165087125948:  Hold'em Limit ($3/$6 USD) - 2017/01/24 7:36:51 ET
+Table 'Augeias' 10-max Seat #6 is the button
+Seat 6: fsreibnitz ($112.44 in chips)
+Seat 9: belik555 ($100.39 in chips)
+fsreibnitz: posts small blind $1
+belik555: posts big blind $3
+*** HOLE CARDS ***
+fsreibnitz: folds
+Uncalled bet ($2) returned to belik555
+belik555 collected $2 from pot
+belik555: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 6: fsreibnitz (button) (small blind) folded before Flop
+Seat 9: belik555 (big blind) collected ($2)
+
+

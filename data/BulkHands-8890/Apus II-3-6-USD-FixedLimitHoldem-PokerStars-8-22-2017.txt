@@ -1,0 +1,82 @@
+PokerStars Hand #174668886635:  Hold'em Limit ($3/$6 USD) - 2017/08/22 17:05:56 ET
+Table 'Apus II' 6-max Seat #4 is the button
+Seat 4: drebeden ($120 in chips)
+Seat 5: GoliafUa ($120 in chips)
+drebeden: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+drebeden: raises $3 to $6
+GoliafUa: calls $3
+*** FLOP *** [2h Jh 2c]
+GoliafUa: checks
+drebeden: bets $3
+GoliafUa: folds
+Uncalled bet ($3) returned to drebeden
+drebeden collected $11.76 from pot
+drebeden: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2h Jh 2c]
+Seat 4: drebeden (button) (small blind) collected ($11.76)
+Seat 5: GoliafUa (big blind) folded on the Flop
+
+
+PokerStars Hand #174668900563:  Hold'em Limit ($3/$6 USD) - 2017/08/22 17:06:14 ET
+Table 'Apus II' 6-max Seat #5 is the button
+Seat 4: drebeden ($125.76 in chips)
+Seat 5: GoliafUa ($120 in chips)
+GoliafUa: posts small blind $1
+drebeden: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa: raises $3 to $6
+drebeden: calls $3
+*** FLOP *** [7h 4c Tc]
+drebeden: bets $3
+GoliafUa: calls $3
+*** TURN *** [7h 4c Tc] [Th]
+drebeden: bets $6
+GoliafUa: calls $6
+*** RIVER *** [7h 4c Tc Th] [Kh]
+drebeden: bets $6
+GoliafUa: calls $6
+*** SHOW DOWN ***
+drebeden: shows [2s As] (a pair of Tens)
+GoliafUa: shows [8c Ad] (a pair of Tens - Ace+King+Eight kicker)
+GoliafUa collected $41.50 from pot
+KARL FABERGE joins the table at seat #1
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [7h 4c Tc Th Kh]
+Seat 4: drebeden (big blind) showed [2s As] and lost with a pair of Tens
+Seat 5: GoliafUa (button) (small blind) showed [8c Ad] and won ($41.50) with a pair of Tens
+
+
+PokerStars Hand #174668911697:  Hold'em Limit ($3/$6 USD) - 2017/08/22 17:06:29 ET
+Table 'Apus II' 6-max Seat #4 is the button
+Seat 4: drebeden ($104.76 in chips)
+Seat 5: GoliafUa ($140.50 in chips)
+drebeden: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+drebeden: calls $2
+GoliafUa: checks
+*** FLOP *** [7h Jd 8s]
+GoliafUa: bets $3
+drebeden: calls $3
+*** TURN *** [7h Jd 8s] [9d]
+GoliafUa: bets $6
+drebeden: calls $6
+*** RIVER *** [7h Jd 8s 9d] [Ah]
+GoliafUa: bets $6
+drebeden: calls $6
+*** SHOW DOWN ***
+GoliafUa: shows [4d Jc] (a pair of Jacks)
+drebeden: mucks hand
+GoliafUa collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [7h Jd 8s 9d Ah]
+Seat 4: drebeden (button) (small blind) mucked
+Seat 5: GoliafUa (big blind) showed [4d Jc] and won ($35.50) with a pair of Jacks
+
+

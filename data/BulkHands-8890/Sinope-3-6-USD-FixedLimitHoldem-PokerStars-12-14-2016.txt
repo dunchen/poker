@@ -1,0 +1,61 @@
+PokerStars Hand #162907488527:  Hold'em Limit ($3/$6 USD) - 2016/12/13 19:11:15 ET
+Table 'Sinope' 6-max Seat #1 is the button
+Seat 1: LifeisagameX ($98.40 in chips)
+Seat 2: SAFtribal ($21 in chips)
+LifeisagameX: posts small blind $1
+SAFtribal: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+SAFtribal: calls $3
+*** FLOP *** [Kc Js 5s]
+SAFtribal: bets $3
+LifeisagameX: raises $3 to $6
+SAFtribal: raises $3 to $9
+LifeisagameX: calls $3
+*** TURN *** [Kc Js 5s] [6s]
+SAFtribal: checks
+LifeisagameX: checks
+*** RIVER *** [Kc Js 5s 6s] [9s]
+SAFtribal: bets $6 and is all-in
+LifeisagameX: calls $6
+*** SHOW DOWN ***
+SAFtribal: shows [Ah Qs] (a flush, Queen high)
+LifeisagameX: shows [5h As] (a flush, Ace high)
+LifeisagameX collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Kc Js 5s 6s 9s]
+Seat 1: LifeisagameX (button) (small blind) showed [5h As] and won ($41.50) with a flush, Ace high
+Seat 2: SAFtribal (big blind) showed [Ah Qs] and lost with a flush, Queen high
+
+
+PokerStars Hand #162907474170:  Hold'em Limit ($3/$6 USD) - 2016/12/13 19:10:54 ET
+Table 'Sinope' 6-max Seat #2 is the button
+Seat 1: LifeisagameX ($89.76 in chips)
+Seat 2: SAFtribal ($30 in chips)
+SAFtribal: posts small blind $1
+LifeisagameX: posts big blind $3
+*** HOLE CARDS ***
+SAFtribal: calls $2
+LifeisagameX: raises $3 to $6
+SAFtribal: calls $3
+*** FLOP *** [Ac 2d 4d]
+LifeisagameX: bets $3
+SAFtribal: calls $3
+*** TURN *** [Ac 2d 4d] [Qs]
+LifeisagameX: checks
+SAFtribal: checks
+*** RIVER *** [Ac 2d 4d Qs] [6c]
+LifeisagameX: checks
+SAFtribal: checks
+*** SHOW DOWN ***
+LifeisagameX: shows [5d Kd] (high card Ace)
+SAFtribal: mucks hand
+LifeisagameX collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ac 2d 4d Qs 6c]
+Seat 1: LifeisagameX (big blind) showed [5d Kd] and won ($17.64) with high card Ace
+Seat 2: SAFtribal (button) (small blind) mucked
+
+

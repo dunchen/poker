@@ -1,0 +1,102 @@
+PokerStars Hand #147347116327:  Hold'em Limit ($3/$6 USD) - 2016/01/19 22:20:01 ET
+Table 'Attica' 2-max Seat #2 is the button
+Seat 1: vitalik1203 ($49.79 in chips)
+Seat 2: ChrisTuff ($120 in chips)
+ChrisTuff: posts small blind $1
+vitalik1203: posts big blind $3
+*** HOLE CARDS ***
+ChrisTuff: folds
+Uncalled bet ($2) returned to vitalik1203
+vitalik1203 collected $2 from pot
+vitalik1203: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: vitalik1203 (big blind) collected ($2)
+Seat 2: ChrisTuff (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147347135341:  Hold'em Limit ($3/$6 USD) - 2016/01/19 22:20:50 ET
+Table 'Attica' 2-max Seat #1 is the button
+Seat 1: vitalik1203 ($32.67 in chips)
+Seat 2: ChrisTuff ($140.50 in chips)
+vitalik1203: posts small blind $1
+ChrisTuff: posts big blind $3
+*** HOLE CARDS ***
+vitalik1203: raises $3 to $6
+ChrisTuff: raises $3 to $9
+vitalik1203: calls $3
+*** FLOP *** [7s 8d 4d]
+ChrisTuff: bets $3
+vitalik1203: raises $3 to $6
+ChrisTuff: raises $3 to $9
+vitalik1203: calls $3
+*** TURN *** [7s 8d 4d] [9d]
+ChrisTuff: bets $6
+vitalik1203: raises $6 to $12
+ChrisTuff: raises $6 to $18
+vitalik1203: calls $2.67 and is all-in
+Uncalled bet ($3.33) returned to ChrisTuff
+*** RIVER *** [7s 8d 4d 9d] [As]
+*** SHOW DOWN ***
+ChrisTuff: shows [Kc Kd] (a pair of Kings)
+vitalik1203: shows [Kh 9c] (a pair of Nines)
+ChrisTuff collected $64.84 from pot
+*** SUMMARY ***
+Total pot $65.34 | Rake $0.50
+Board [7s 8d 4d 9d As]
+Seat 1: vitalik1203 (button) (small blind) showed [Kh 9c] and lost with a pair of Nines
+Seat 2: ChrisTuff (big blind) showed [Kc Kd] and won ($64.84) with a pair of Kings
+
+
+PokerStars Hand #147347121496:  Hold'em Limit ($3/$6 USD) - 2016/01/19 22:20:14 ET
+Table 'Attica' 2-max Seat #1 is the button
+Seat 1: vitalik1203 ($50.79 in chips)
+Seat 2: ChrisTuff ($120 in chips)
+vitalik1203: posts small blind $1
+ChrisTuff: posts big blind $3
+*** HOLE CARDS ***
+vitalik1203: calls $2
+ChrisTuff: checks
+*** FLOP *** [5c 8c Kh]
+ChrisTuff: checks
+vitalik1203: bets $3
+ChrisTuff: folds
+Uncalled bet ($3) returned to vitalik1203
+vitalik1203 collected $5.88 from pot
+vitalik1203: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [5c 8c Kh]
+Seat 1: vitalik1203 (button) (small blind) collected ($5.88)
+Seat 2: ChrisTuff (big blind) folded on the Flop
+
+
+PokerStars Hand #147347129478:  Hold'em Limit ($3/$6 USD) - 2016/01/19 22:20:35 ET
+Table 'Attica' 2-max Seat #2 is the button
+Seat 1: vitalik1203 ($53.67 in chips)
+Seat 2: ChrisTuff ($120 in chips)
+ChrisTuff: posts small blind $1
+vitalik1203: posts big blind $3
+*** HOLE CARDS ***
+ChrisTuff: raises $3 to $6
+vitalik1203: calls $3
+*** FLOP *** [4s Ts 6c]
+vitalik1203: bets $3
+ChrisTuff: calls $3
+*** TURN *** [4s Ts 6c] [5h]
+vitalik1203: bets $6
+ChrisTuff: calls $6
+*** RIVER *** [4s Ts 6c 5h] [3s]
+vitalik1203: bets $6
+ChrisTuff: calls $6
+*** SHOW DOWN ***
+vitalik1203: shows [Js 3d] (a pair of Threes)
+ChrisTuff: shows [8c 6s] (a pair of Sixes)
+ChrisTuff collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [4s Ts 6c 5h 3s]
+Seat 1: vitalik1203 (big blind) showed [Js 3d] and lost with a pair of Threes
+Seat 2: ChrisTuff (button) (small blind) showed [8c 6s] and won ($41.50) with a pair of Sixes
+
+

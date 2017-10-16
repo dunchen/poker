@@ -1,0 +1,60 @@
+PokerStars Hand #147459874631:  Hold'em Limit ($3/$6 USD) - 2016/01/21 22:44:53 ET
+Table 'Konkolya' 2-max Seat #2 is the button
+Seat 1: dodge658 ($120 in chips)
+Seat 2: civilmoose ($120 in chips)
+civilmoose: posts small blind $1
+dodge658: posts big blind $3
+*** HOLE CARDS ***
+civilmoose: raises $3 to $6
+dodge658: calls $3
+*** FLOP *** [8s Qc Kh]
+dodge658: checks
+civilmoose: bets $3
+dodge658: calls $3
+*** TURN *** [8s Qc Kh] [Jc]
+dodge658: bets $6
+civilmoose: calls $6
+*** RIVER *** [8s Qc Kh Jc] [9h]
+dodge658: bets $6
+civilmoose: calls $6
+*** SHOW DOWN ***
+dodge658: shows [9c 3c] (a pair of Nines)
+civilmoose: shows [Jh Ac] (a pair of Jacks)
+civilmoose collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [8s Qc Kh Jc 9h]
+Seat 1: dodge658 (big blind) showed [9c 3c] and lost with a pair of Nines
+Seat 2: civilmoose (button) (small blind) showed [Jh Ac] and won ($41.50) with a pair of Jacks
+
+
+PokerStars Hand #147459886248:  Hold'em Limit ($3/$6 USD) - 2016/01/21 22:45:25 ET
+Table 'Konkolya' 2-max Seat #1 is the button
+Seat 1: dodge658 ($99 in chips)
+Seat 2: civilmoose ($140.50 in chips)
+dodge658: posts small blind $1
+civilmoose: posts big blind $3
+*** HOLE CARDS ***
+dodge658: calls $2
+civilmoose: raises $3 to $6
+dodge658: calls $3
+*** FLOP *** [4d Td Ks]
+civilmoose: checks
+dodge658: checks
+*** TURN *** [4d Td Ks] [4s]
+civilmoose: bets $6
+dodge658: calls $6
+*** RIVER *** [4d Td Ks 4s] [Jh]
+civilmoose: bets $6
+dodge658: calls $6
+*** SHOW DOWN ***
+civilmoose: shows [6s Kd] (two pair, Kings and Fours)
+dodge658: mucks hand
+civilmoose collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [4d Td Ks 4s Jh]
+Seat 1: dodge658 (button) (small blind) mucked
+Seat 2: civilmoose (big blind) showed [6s Kd] and won ($35.50) with two pair, Kings and Fours
+
+

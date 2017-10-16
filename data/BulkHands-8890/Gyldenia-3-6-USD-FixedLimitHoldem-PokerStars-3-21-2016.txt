@@ -1,0 +1,51 @@
+PokerStars Hand #150725202881:  Hold'em Limit ($3/$6 USD) - 2016/03/21 17:20:57 ET
+Table 'Gyldenia' 10-max Seat #10 is the button
+Seat 8: perten ($92.40 in chips)
+Seat 10: MTails ($94 in chips)
+MTails: posts small blind $1
+perten: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+perten: raises $3 to $9
+MTails: calls $3
+*** FLOP *** [Qd Jh 5c]
+perten: bets $3
+MTails: calls $3
+*** TURN *** [Qd Jh 5c] [3d]
+perten: bets $6
+MTails: folds
+Uncalled bet ($6) returned to perten
+perten collected $23.52 from pot
+perten: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Qd Jh 5c 3d]
+Seat 8: perten (big blind) collected ($23.52)
+Seat 10: MTails (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #150725218590:  Hold'em Limit ($3/$6 USD) - 2016/03/21 17:21:13 ET
+Table 'Gyldenia' 10-max Seat #8 is the button
+Seat 8: perten ($103.92 in chips)
+Seat 10: MTails ($82 in chips)
+perten: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+perten: calls $2
+MTails: raises $3 to $6
+perten: calls $3
+*** FLOP *** [3s 6h 8c]
+MTails: bets $3
+perten: calls $3
+*** TURN *** [3s 6h 8c] [8d]
+MTails: bets $6
+perten: folds
+Uncalled bet ($6) returned to MTails
+MTails collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3s 6h 8c 8d]
+Seat 8: perten (button) (small blind) folded on the Turn
+Seat 10: MTails (big blind) collected ($17.64)
+
+

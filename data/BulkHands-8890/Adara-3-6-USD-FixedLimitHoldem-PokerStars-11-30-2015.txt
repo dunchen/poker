@@ -1,0 +1,28 @@
+PokerStars Hand #144631572596:  Hold'em Limit ($3/$6 USD) - 2015/11/30 17:03:05 ET
+Table 'Adara' 6-max Seat #3 is the button
+Seat 3: vestimokrec ($152.43 in chips)
+Seat 6: Leevi ($9.84 in chips)
+vestimokrec: posts small blind $1
+ChrisTuff: is sitting out
+Chessnok: is sitting out
+Leevi: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+Leevi: raises $3 to $9
+vestimokrec: calls $3
+*** FLOP *** [9s Qh Qd]
+Leevi: bets $0.84 and is all-in
+vestimokrec: calls $0.84
+*** TURN *** [9s Qh Qd] [Ah]
+*** RIVER *** [9s Qh Qd Ah] [Qc]
+*** SHOW DOWN ***
+Leevi: shows [3c 3s] (a full house, Queens full of Threes)
+vestimokrec: shows [9d 5c] (a full house, Queens full of Nines)
+vestimokrec collected $19.29 from pot
+*** SUMMARY ***
+Total pot $19.68 | Rake $0.39
+Board [9s Qh Qd Ah Qc]
+Seat 3: vestimokrec (button) (small blind) showed [9d 5c] and won ($19.29) with a full house, Queens full of Nines
+Seat 6: Leevi (big blind) showed [3c 3s] and lost with a full house, Queens full of Threes
+
+

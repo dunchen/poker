@@ -1,0 +1,32 @@
+PokerStars Hand #166520221873:  Hold'em Limit ($3/$6 USD) - 2017/02/20 16:11:59 ET
+Table 'Hamal' 6-max Seat #3 is the button
+Seat 1: Chessnok ($238.90 in chips)
+Seat 3: jackRizzar ($328.42 in chips)
+jackRizzar: posts small blind $1
+Apanage: is sitting out
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+Apanage leaves the table
+jackRizzar: raises $3 to $6
+Chessnok: raises $3 to $9
+jackRizzar: calls $3
+*** FLOP *** [6h 9s Qh]
+Chessnok: bets $3
+jackRizzar: calls $3
+*** TURN *** [6h 9s Qh] [Jh]
+Chessnok: checks
+jackRizzar: checks
+*** RIVER *** [6h 9s Qh Jh] [7d]
+Chessnok: bets $6
+jackRizzar: calls $6
+*** SHOW DOWN ***
+Chessnok: shows [Ad 6c] (a pair of Sixes)
+jackRizzar: mucks hand
+Chessnok collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6h 9s Qh Jh 7d]
+Seat 1: Chessnok (big blind) showed [Ad 6c] and won ($35.50) with a pair of Sixes
+Seat 3: jackRizzar (button) (small blind) mucked
+
+

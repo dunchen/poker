@@ -1,0 +1,33 @@
+PokerStars Hand #167332050997:  Hold'em Limit ($3/$6 USD) - 2017/03/09 7:42:12 ET
+Table 'Mieke' 6-max Seat #1 is the button
+Seat 1: kscfans ($42.68 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+kscfans: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+kscfans: calls $2
+VolkovDmitri: raises $3 to $6
+kscfans: calls $3
+*** FLOP *** [2d 3h 4h]
+GRAILKO joins the table at seat #2
+VolkovDmitri: checks
+kscfans: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [2d 3h 4h] [As]
+VolkovDmitri: checks
+kscfans: checks
+*** RIVER *** [2d 3h 4h As] [Qd]
+Bedard joins the table at seat #6
+VolkovDmitri: checks
+kscfans: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [Th 8s] (high card Ace)
+kscfans: shows [3s Jc] (a pair of Threes)
+kscfans collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2d 3h 4h As Qd]
+Seat 1: kscfans (button) (small blind) showed [3s Jc] and won ($17.64) with a pair of Threes
+Seat 4: VolkovDmitri (big blind) showed [Th 8s] and lost with high card Ace
+
+

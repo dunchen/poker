@@ -1,0 +1,36 @@
+PokerStars Hand #144459137868:  Hold'em Limit ($3/$6 USD) - 2015/11/27 10:37:17 ET
+Table 'Viola II' 6-max Seat #4 is the button
+Seat 4: Actionni13 ($151 in chips)
+Seat 6: hooverr ($71 in chips)
+Actionni13: posts small blind $1
+hooverr: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+PelonCabelao joins the table at seat #1
+hooverr: calls $3
+*** FLOP *** [4c 2c 8d]
+hooverr: checks
+Actionni13: bets $3
+hooverr: calls $3
+*** TURN *** [4c 2c 8d] [9c]
+hooverr: checks
+Actionni13: bets $6
+hooverr: raises $6 to $12
+Tsoy777 joins the table at seat #3
+Actionni13: raises $6 to $18
+hooverr: calls $6
+*** RIVER *** [4c 2c 8d 9c] [6d]
+hooverr: checks
+Actionni13: bets $6
+hooverr: calls $6
+*** SHOW DOWN ***
+Actionni13: shows [9d 8s] (two pair, Nines and Eights)
+hooverr: mucks hand
+Actionni13 collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [4c 2c 8d 9c 6d]
+Seat 4: Actionni13 (button) (small blind) showed [9d 8s] and won ($65.50) with two pair, Nines and Eights
+Seat 6: hooverr (big blind) mucked
+
+

@@ -1,0 +1,50 @@
+PokerStars Hand #161073767917:  Hold'em Limit ($3/$6 USD) - 2016/11/07 21:55:07 ET
+Table 'Ilsebill' 6-max Seat #6 is the button
+Seat 1: Velbor107 ($300 in chips)
+Seat 6: barranqueiro ($165.79 in chips)
+barranqueiro: posts small blind $1
+Velbor107: posts big blind $3
+*** HOLE CARDS ***
+barranqueiro: raises $3 to $6
+ToDaFelt joins the table at seat #2
+Velbor107: raises $3 to $9
+barranqueiro: calls $3
+*** FLOP *** [8h 8s 7h]
+Velbor107: bets $3
+barranqueiro: raises $3 to $6
+Velbor107: calls $3
+*** TURN *** [8h 8s 7h] [9d]
+Velbor107: checks
+barranqueiro: checks
+*** RIVER *** [8h 8s 7h 9d] [Js]
+Velbor107: checks
+barranqueiro: checks
+*** SHOW DOWN ***
+Velbor107: shows [Kc Qs] (a pair of Eights)
+barranqueiro: shows [As 6c] (a pair of Eights - Ace kicker)
+barranqueiro collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8h 8s 7h 9d Js]
+Seat 1: Velbor107 (big blind) showed [Kc Qs] and lost with a pair of Eights
+Seat 6: barranqueiro (button) (small blind) showed [As 6c] and won ($29.50) with a pair of Eights
+
+
+PokerStars Hand #161073857313:  Hold'em Limit ($3/$6 USD) - 2016/11/07 21:59:44 ET
+Table 'Ilsebill' 6-max Seat #1 is the button
+Seat 1: Velbor107 ($288.71 in chips)
+Seat 2: ToDaFelt ($159.12 in chips)
+Velbor107: posts small blind $1
+ToDaFelt: posts big blind $3
+barranqueiro leaves the table
+*** HOLE CARDS ***
+Velbor107: folds
+Uncalled bet ($2) returned to ToDaFelt
+ToDaFelt collected $2 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Velbor107 (button) (small blind) folded before Flop
+Seat 2: ToDaFelt (big blind) collected ($2)
+
+

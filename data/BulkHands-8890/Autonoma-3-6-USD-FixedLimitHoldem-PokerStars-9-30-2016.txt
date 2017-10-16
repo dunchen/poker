@@ -1,0 +1,56 @@
+PokerStars Hand #159287550522:  Hold'em Limit ($3/$6 USD) - 2016/09/30 11:08:37 ET
+Table 'Autonoma' 6-max Seat #2 is the button
+Seat 2: CoachMcA ($107 in chips)
+Seat 6: wobetting ($54 in chips)
+CoachMcA: posts small blind $1
+TbIP-TbIP 88: is sitting out
+AzureCaper: is sitting out
+wobetting: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper leaves the table
+CoachMcA: raises $3 to $6
+wobetting: calls $3
+*** FLOP *** [7d 7s 6d]
+wobetting: checks
+CoachMcA: bets $3
+wobetting: calls $3
+*** TURN *** [7d 7s 6d] [8d]
+wobetting: bets $6
+CoachMcA: calls $6
+*** RIVER *** [7d 7s 6d 8d] [4s]
+wobetting: bets $6
+CoachMcA: calls $6
+*** SHOW DOWN ***
+wobetting: shows [Kc 3d] (a pair of Sevens)
+CoachMcA: shows [8s Qd] (two pair, Eights and Sevens)
+CoachMcA collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [7d 7s 6d 8d 4s]
+Seat 2: CoachMcA (button) (small blind) showed [8s Qd] and won ($41.50) with two pair, Eights and Sevens
+Seat 6: wobetting (big blind) showed [Kc 3d] and lost with a pair of Sevens
+
+
+PokerStars Hand #159287570915:  Hold'em Limit ($3/$6 USD) - 2016/09/30 11:09:10 ET
+Table 'Autonoma' 6-max Seat #6 is the button
+Seat 2: CoachMcA ($127.50 in chips)
+Seat 6: wobetting ($33 in chips)
+wobetting: posts small blind $1
+CoachMcA: posts big blind $3
+*** HOLE CARDS ***
+wobetting: raises $3 to $6
+CoachMcA: calls $3
+*** FLOP *** [2c 5h 8c]
+CoachMcA: checks
+wobetting: bets $3
+CoachMcA: folds
+Uncalled bet ($3) returned to wobetting
+wobetting collected $11.76 from pot
+wobetting: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2c 5h 8c]
+Seat 2: CoachMcA (big blind) folded on the Flop
+Seat 6: wobetting (button) (small blind) collected ($11.76)
+
+

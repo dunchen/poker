@@ -1,0 +1,1559 @@
+PokerStars Hand #149854778573:  Hold'em Limit ($3/$6 USD) - 2016/03/04 21:39:22 ET
+Table 'Gemini II' 6-max Seat #1 is the button
+Seat 1: bubsski ($22.90 in chips)
+Seat 5: exc_stasy ($249.52 in chips)
+bubsski: posts small blind $1
+exc_stasy: posts big blind $3
+*** HOLE CARDS ***
+bubsski: raises $3 to $6
+exc_stasy: calls $3
+*** FLOP *** [8s Jc Ts]
+exc_stasy: checks
+bubsski: bets $3
+exc_stasy: calls $3
+*** TURN *** [8s Jc Ts] [5d]
+exc_stasy: checks
+bubsski: checks
+*** RIVER *** [8s Jc Ts 5d] [8c]
+exc_stasy: checks
+bubsski: checks
+*** SHOW DOWN ***
+exc_stasy: shows [4c 7c] (a pair of Eights)
+bubsski: shows [As 7h] (a pair of Eights - Ace kicker)
+bubsski collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8s Jc Ts 5d 8c]
+Seat 1: bubsski (button) (small blind) showed [As 7h] and won ($17.64) with a pair of Eights
+Seat 5: exc_stasy (big blind) showed [4c 7c] and lost with a pair of Eights
+
+
+PokerStars Hand #149854797485:  Hold'em Limit ($3/$6 USD) - 2016/03/04 21:40:05 ET
+Table 'Gemini II' 6-max Seat #5 is the button
+Seat 1: bubsski ($75.54 in chips)
+Seat 5: exc_stasy ($256.02 in chips)
+exc_stasy: posts small blind $1
+bubsski: posts big blind $3
+*** HOLE CARDS ***
+exc_stasy: raises $3 to $6
+bubsski: calls $3
+*** FLOP *** [Th 8h 8d]
+bubsski: checks
+exc_stasy: bets $3
+bubsski: raises $3 to $6
+exc_stasy: calls $3
+*** TURN *** [Th 8h 8d] [4d]
+bubsski: bets $6
+exc_stasy: calls $6
+*** RIVER *** [Th 8h 8d 4d] [9s]
+bubsski: bets $6
+exc_stasy: calls $6
+*** SHOW DOWN ***
+bubsski: shows [Kh 2h] (a pair of Eights)
+exc_stasy: shows [Ac Qh] (a pair of Eights - Ace kicker)
+exc_stasy collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Th 8h 8d 4d 9s]
+Seat 1: bubsski (big blind) showed [Kh 2h] and lost with a pair of Eights
+Seat 5: exc_stasy (button) (small blind) showed [Ac Qh] and won ($47.50) with a pair of Eights
+
+
+PokerStars Hand #149854795116:  Hold'em Limit ($3/$6 USD) - 2016/03/04 21:39:59 ET
+Table 'Gemini II' 6-max Seat #1 is the button
+Seat 1: bubsski ($76.54 in chips)
+Seat 5: exc_stasy ($255.02 in chips)
+bubsski: posts small blind $1
+exc_stasy: posts big blind $3
+*** HOLE CARDS ***
+bubsski: folds
+Uncalled bet ($2) returned to exc_stasy
+exc_stasy collected $2 from pot
+exc_stasy: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: bubsski (button) (small blind) folded before Flop
+Seat 5: exc_stasy (big blind) collected ($2)
+
+
+PokerStars Hand #149854785334:  Hold'em Limit ($3/$6 USD) - 2016/03/04 21:39:37 ET
+Table 'Gemini II' 6-max Seat #5 is the button
+Seat 1: bubsski ($31.54 in chips)
+Seat 5: exc_stasy ($240.52 in chips)
+exc_stasy: posts small blind $1
+bubsski: posts big blind $3
+*** HOLE CARDS ***
+exc_stasy: raises $3 to $6
+bubsski: calls $3
+*** FLOP *** [7h 9s 2h]
+bubsski: checks
+exc_stasy: bets $3
+bubsski: calls $3
+*** TURN *** [7h 9s 2h] [Kd]
+bubsski: checks
+exc_stasy: bets $6
+bubsski: calls $6
+*** RIVER *** [7h 9s 2h Kd] [2s]
+bubsski: checks
+exc_stasy: bets $6
+bubsski: folds
+Uncalled bet ($6) returned to exc_stasy
+exc_stasy collected $29.50 from pot
+exc_stasy: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7h 9s 2h Kd 2s]
+Seat 1: bubsski (big blind) folded on the River
+Seat 5: exc_stasy (button) (small blind) collected ($29.50)
+
+
+PokerStars Hand #149854812996:  Hold'em Limit ($3/$6 USD) - 2016/03/04 21:40:40 ET
+Table 'Gemini II' 6-max Seat #5 is the button
+Seat 1: bubsski ($27.54 in chips)
+Seat 5: exc_stasy ($303.02 in chips)
+exc_stasy: posts small blind $1
+bubsski: posts big blind $3
+*** HOLE CARDS ***
+exc_stasy: raises $3 to $6
+bubsski: raises $3 to $9
+exc_stasy: calls $3
+*** FLOP *** [As Ts 3c]
+bubsski: bets $3
+exc_stasy: raises $3 to $6
+bubsski: raises $3 to $9
+exc_stasy: raises $3 to $12
+Betting is capped
+bubsski: calls $3
+*** TURN *** [As Ts 3c] [3s]
+bubsski: bets $6
+exc_stasy: raises $6 to $12
+bubsski: calls $0.54 and is all-in
+Uncalled bet ($5.46) returned to exc_stasy
+*** RIVER *** [As Ts 3c 3s] [5s]
+*** SHOW DOWN ***
+bubsski: shows [Ah 9h] (two pair, Aces and Threes)
+exc_stasy: mucks hand
+bubsski collected $54.58 from pot
+*** SUMMARY ***
+Total pot $55.08 | Rake $0.50
+Board [As Ts 3c 3s 5s]
+Seat 1: bubsski (big blind) showed [Ah 9h] and won ($54.58) with two pair, Aces and Threes
+Seat 5: exc_stasy (button) (small blind) mucked
+
+
+PokerStars Hand #149854806070:  Hold'em Limit ($3/$6 USD) - 2016/03/04 21:40:24 ET
+Table 'Gemini II' 6-max Seat #1 is the button
+Seat 1: bubsski ($51.54 in chips)
+Seat 5: exc_stasy ($279.52 in chips)
+bubsski: posts small blind $1
+exc_stasy: posts big blind $3
+*** HOLE CARDS ***
+bubsski: raises $3 to $6
+exc_stasy: raises $3 to $9
+bubsski: calls $3
+*** FLOP *** [4c 5c 2h]
+exc_stasy: bets $3
+bubsski: calls $3
+*** TURN *** [4c 5c 2h] [2d]
+exc_stasy: bets $6
+ChawkDee joins the table at seat #3
+bubsski: calls $6
+*** RIVER *** [4c 5c 2h 2d] [Ts]
+exc_stasy: checks
+bubsski: bets $6
+exc_stasy: calls $6
+*** SHOW DOWN ***
+bubsski: shows [Ks Jh] (a pair of Deuces)
+exc_stasy: shows [9h Ah] (a pair of Deuces - Ace kicker)
+exc_stasy collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4c 5c 2h 2d Ts]
+Seat 1: bubsski (button) (small blind) showed [Ks Jh] and lost with a pair of Deuces
+Seat 5: exc_stasy (big blind) showed [9h Ah] and won ($47.50) with a pair of Deuces
+
+
+PokerStars Hand #149854868304:  Hold'em Limit ($3/$6 USD) - 2016/03/04 21:42:47 ET
+Table 'Gemini II' 6-max Seat #1 is the button
+Seat 1: bubsski ($160.60 in chips)
+Seat 5: exc_stasy ($219.12 in chips)
+bubsski: posts small blind $1
+ChawkDee: is sitting out
+exc_stasy: posts big blind $3
+*** HOLE CARDS ***
+bubsski: raises $3 to $6
+exc_stasy: calls $3
+*** FLOP *** [6s Th 2c]
+ChawkDee leaves the table
+exc_stasy: checks
+bubsski: bets $3
+exc_stasy: calls $3
+*** TURN *** [6s Th 2c] [Ks]
+exc_stasy: checks
+bubsski: bets $6
+exc_stasy: folds
+Uncalled bet ($6) returned to bubsski
+bubsski collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6s Th 2c Ks]
+Seat 1: bubsski (button) (small blind) collected ($17.64)
+Seat 5: exc_stasy (big blind) folded on the Turn
+
+
+PokerStars Hand #149854877910:  Hold'em Limit ($3/$6 USD) - 2016/03/04 21:43:09 ET
+Table 'Gemini II' 6-max Seat #1 is the button
+Seat 1: bubsski ($163.24 in chips)
+Seat 5: exc_stasy ($215.88 in chips)
+bubsski: posts small blind $1
+exc_stasy: posts big blind $3
+*** HOLE CARDS ***
+bubsski: folds
+Uncalled bet ($2) returned to exc_stasy
+exc_stasy collected $2 from pot
+exc_stasy: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: bubsski (button) (small blind) folded before Flop
+Seat 5: exc_stasy (big blind) collected ($2)
+
+
+PokerStars Hand #149854873798:  Hold'em Limit ($3/$6 USD) - 2016/03/04 21:42:59 ET
+Table 'Gemini II' 6-max Seat #5 is the button
+Seat 1: bubsski ($169.24 in chips)
+Seat 5: exc_stasy ($210.12 in chips)
+exc_stasy: posts small blind $1
+bubsski: posts big blind $3
+*** HOLE CARDS ***
+exc_stasy: raises $3 to $6
+bubsski: calls $3
+*** FLOP *** [Qs 9c 3d]
+bubsski: folds
+exc_stasy collected $11.76 from pot
+exc_stasy: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qs 9c 3d]
+Seat 1: bubsski (big blind) folded on the Flop
+Seat 5: exc_stasy (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #149854887048:  Hold'em Limit ($3/$6 USD) - 2016/03/04 21:43:30 ET
+Table 'Gemini II' 6-max Seat #1 is the button
+Seat 1: bubsski ($135.24 in chips)
+Seat 5: exc_stasy ($243.38 in chips)
+bubsski: posts small blind $1
+exc_stasy: posts big blind $3
+*** HOLE CARDS ***
+bubsski: folds
+Uncalled bet ($2) returned to exc_stasy
+exc_stasy collected $2 from pot
+exc_stasy: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: bubsski (button) (small blind) folded before Flop
+Seat 5: exc_stasy (big blind) collected ($2)
+
+
+PokerStars Hand #149854880031:  Hold'em Limit ($3/$6 USD) - 2016/03/04 21:43:14 ET
+Table 'Gemini II' 6-max Seat #5 is the button
+Seat 1: bubsski ($162.24 in chips)
+Seat 5: exc_stasy ($216.88 in chips)
+exc_stasy: posts small blind $1
+bubsski: posts big blind $3
+*** HOLE CARDS ***
+exc_stasy: raises $3 to $6
+bubsski: calls $3
+*** FLOP *** [7s 6c 6h]
+bubsski: checks
+exc_stasy: bets $3
+bubsski: calls $3
+*** TURN *** [7s 6c 6h] [Kd]
+bubsski: checks
+exc_stasy: bets $6
+bubsski: raises $6 to $12
+exc_stasy: calls $6
+*** RIVER *** [7s 6c 6h Kd] [6d]
+bubsski: bets $6
+exc_stasy: calls $6
+*** SHOW DOWN ***
+bubsski: shows [2h 8h] (three of a kind, Sixes)
+exc_stasy: shows [9s Qh] (three of a kind, Sixes - King+Queen kicker)
+exc_stasy collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [7s 6c 6h Kd 6d]
+Seat 1: bubsski (big blind) showed [2h 8h] and lost with three of a kind, Sixes
+Seat 5: exc_stasy (button) (small blind) showed [9s Qh] and won ($53.50) with three of a kind, Sixes
+
+
+PokerStars Hand #149854896113:  Hold'em Limit ($3/$6 USD) - 2016/03/04 21:43:51 ET
+Table 'Gemini II' 6-max Seat #5 is the button
+Seat 1: bubsski ($131.24 in chips)
+Seat 5: exc_stasy ($247.14 in chips)
+exc_stasy: posts small blind $1
+bubsski: posts big blind $3
+*** HOLE CARDS ***
+exc_stasy: raises $3 to $6
+bubsski: calls $3
+*** FLOP *** [8s Qs Jd]
+bubsski: checks
+exc_stasy: bets $3
+bubsski: calls $3
+*** TURN *** [8s Qs Jd] [8c]
+bubsski: checks
+exc_stasy: bets $6
+bubsski: folds
+Uncalled bet ($6) returned to exc_stasy
+exc_stasy collected $17.64 from pot
+exc_stasy: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8s Qs Jd 8c]
+Seat 1: bubsski (big blind) folded on the Turn
+Seat 5: exc_stasy (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #149854908399:  Hold'em Limit ($3/$6 USD) - 2016/03/04 21:44:19 ET
+Table 'Gemini II' 6-max Seat #5 is the button
+Seat 1: bubsski ($148.74 in chips)
+Seat 5: exc_stasy ($228.78 in chips)
+exc_stasy: posts small blind $1
+bubsski: posts big blind $3
+*** HOLE CARDS ***
+exc_stasy: raises $3 to $6
+bubsski: folds
+Uncalled bet ($3) returned to exc_stasy
+exc_stasy collected $6 from pot
+exc_stasy: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: bubsski (big blind) folded before Flop
+Seat 5: exc_stasy (button) (small blind) collected ($6)
+
+
+PokerStars Hand #149854901598:  Hold'em Limit ($3/$6 USD) - 2016/03/04 21:44:03 ET
+Table 'Gemini II' 6-max Seat #1 is the button
+Seat 1: bubsski ($122.24 in chips)
+Seat 5: exc_stasy ($255.78 in chips)
+bubsski: posts small blind $1
+exc_stasy: posts big blind $3
+*** HOLE CARDS ***
+bubsski: raises $3 to $6
+exc_stasy: calls $3
+*** FLOP *** [3s Ac Tc]
+exc_stasy: checks
+bubsski: bets $3
+exc_stasy: calls $3
+*** TURN *** [3s Ac Tc] [As]
+exc_stasy: checks
+bubsski: bets $6
+exc_stasy: raises $6 to $12
+bubsski: calls $6
+*** RIVER *** [3s Ac Tc As] [6h]
+exc_stasy: bets $6
+bubsski: calls $6
+*** SHOW DOWN ***
+exc_stasy: shows [8s Qh] (a pair of Aces)
+bubsski: shows [5h 5s] (two pair, Aces and Fives)
+bubsski collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [3s Ac Tc As 6h]
+Seat 1: bubsski (button) (small blind) showed [5h 5s] and won ($53.50) with two pair, Aces and Fives
+Seat 5: exc_stasy (big blind) showed [8s Qh] and lost with a pair of Aces
+
+
+PokerStars Hand #149854893643:  Hold'em Limit ($3/$6 USD) - 2016/03/04 21:43:45 ET
+Table 'Gemini II' 6-max Seat #1 is the button
+Seat 1: bubsski ($128.24 in chips)
+Seat 5: exc_stasy ($250.14 in chips)
+bubsski: posts small blind $1
+exc_stasy: posts big blind $3
+*** HOLE CARDS ***
+bubsski: raises $3 to $6
+exc_stasy: folds
+Uncalled bet ($3) returned to bubsski
+bubsski collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: bubsski (button) (small blind) collected ($6)
+Seat 5: exc_stasy (big blind) folded before Flop
+
+
+PokerStars Hand #149854911002:  Hold'em Limit ($3/$6 USD) - 2016/03/04 21:44:25 ET
+Table 'Gemini II' 6-max Seat #1 is the button
+Seat 1: bubsski ($145.74 in chips)
+Seat 5: exc_stasy ($231.78 in chips)
+bubsski: posts small blind $1
+exc_stasy: posts big blind $3
+*** HOLE CARDS ***
+bubsski: calls $2
+exc_stasy: checks
+*** FLOP *** [Js 8c Ts]
+exc_stasy: checks
+bubsski: checks
+*** TURN *** [Js 8c Ts] [4c]
+exc_stasy: checks
+bubsski: checks
+*** RIVER *** [Js 8c Ts 4c] [Ac]
+exc_stasy: checks
+bubsski: bets $6
+exc_stasy: calls $6
+*** SHOW DOWN ***
+bubsski: shows [7c 6s] (high card Ace)
+exc_stasy: shows [8d 6h] (a pair of Eights)
+exc_stasy collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Js 8c Ts 4c Ac]
+Seat 1: bubsski (button) (small blind) showed [7c 6s] and lost with high card Ace
+Seat 5: exc_stasy (big blind) showed [8d 6h] and won ($17.64) with a pair of Eights
+
+
+PokerStars Hand #149854916558:  Hold'em Limit ($3/$6 USD) - 2016/03/04 21:44:38 ET
+Table 'Gemini II' 6-max Seat #5 is the button
+Seat 1: bubsski ($136.74 in chips)
+Seat 5: exc_stasy ($240.42 in chips)
+exc_stasy: posts small blind $1
+bubsski: posts big blind $3
+*** HOLE CARDS ***
+exc_stasy: raises $3 to $6
+anetkaapro joins the table at seat #2
+bubsski: calls $3
+*** FLOP *** [4c 8s 6d]
+bubsski: checks
+exc_stasy: bets $3
+bubsski: raises $3 to $6
+exc_stasy: raises $3 to $9
+bubsski: calls $3
+*** TURN *** [4c 8s 6d] [Ts]
+bubsski: checks
+exc_stasy: bets $6
+bubsski: calls $6
+*** RIVER *** [4c 8s 6d Ts] [2h]
+bubsski: checks
+exc_stasy: checks
+*** SHOW DOWN ***
+bubsski: shows [4s 3h] (a pair of Fours)
+exc_stasy: shows [9h 6c] (a pair of Sixes)
+exc_stasy collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [4c 8s 6d Ts 2h]
+Seat 1: bubsski (big blind) showed [4s 3h] and lost with a pair of Fours
+Seat 5: exc_stasy (button) (small blind) showed [9h 6c] and won ($41.50) with a pair of Sixes
+
+
+PokerStars Hand #149855025084:  Hold'em Limit ($3/$6 USD) - 2016/03/04 21:48:47 ET
+Table 'Gemini II' 6-max Seat #5 is the button
+Seat 1: bubsski ($113.18 in chips)
+Seat 5: exc_stasy ($270.14 in chips)
+exc_stasy: posts small blind $1
+bubsski: posts big blind $3
+*** HOLE CARDS ***
+exc_stasy: raises $3 to $6
+bubsski: calls $3
+*** FLOP *** [3d Jc 4h]
+bubsski: checks
+exc_stasy: bets $3
+bubsski: folds
+Uncalled bet ($3) returned to exc_stasy
+exc_stasy collected $11.76 from pot
+exc_stasy: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3d Jc 4h]
+Seat 1: bubsski (big blind) folded on the Flop
+Seat 5: exc_stasy (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #149855028909:  Hold'em Limit ($3/$6 USD) - 2016/03/04 21:48:56 ET
+Table 'Gemini II' 6-max Seat #1 is the button
+Seat 1: bubsski ($107.18 in chips)
+Seat 5: exc_stasy ($275.90 in chips)
+bubsski: posts small blind $1
+exc_stasy: posts big blind $3
+*** HOLE CARDS ***
+bubsski: raises $3 to $6
+exc_stasy: folds
+Uncalled bet ($3) returned to bubsski
+bubsski collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: bubsski (button) (small blind) collected ($6)
+Seat 5: exc_stasy (big blind) folded before Flop
+
+
+PokerStars Hand #149855031182:  Hold'em Limit ($3/$6 USD) - 2016/03/04 21:49:01 ET
+Table 'Gemini II' 6-max Seat #5 is the button
+Seat 1: bubsski ($110.18 in chips)
+Seat 5: exc_stasy ($272.90 in chips)
+exc_stasy: posts small blind $1
+bubsski: posts big blind $3
+*** HOLE CARDS ***
+exc_stasy: raises $3 to $6
+bubsski: calls $3
+*** FLOP *** [6d Ac 5s]
+bubsski: bets $3
+exc_stasy: raises $3 to $6
+bubsski: folds
+Uncalled bet ($3) returned to exc_stasy
+exc_stasy collected $17.64 from pot
+exc_stasy: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6d Ac 5s]
+Seat 1: bubsski (big blind) folded on the Flop
+Seat 5: exc_stasy (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #149855022485:  Hold'em Limit ($3/$6 USD) - 2016/03/04 21:48:41 ET
+Table 'Gemini II' 6-max Seat #1 is the button
+Seat 1: bubsski ($110.18 in chips)
+Seat 5: exc_stasy ($273.14 in chips)
+bubsski: posts small blind $1
+anetkaapro: is sitting out
+exc_stasy: posts big blind $3
+*** HOLE CARDS ***
+bubsski: raises $3 to $6
+exc_stasy: folds
+Uncalled bet ($3) returned to bubsski
+bubsski collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: bubsski (button) (small blind) collected ($6)
+Seat 5: exc_stasy (big blind) folded before Flop
+
+
+PokerStars Hand #149855035208:  Hold'em Limit ($3/$6 USD) - 2016/03/04 21:49:10 ET
+Table 'Gemini II' 6-max Seat #1 is the button
+Seat 1: bubsski ($101.18 in chips)
+Seat 5: exc_stasy ($281.54 in chips)
+bubsski: posts small blind $1
+exc_stasy: posts big blind $3
+*** HOLE CARDS ***
+bubsski: raises $3 to $6
+exc_stasy: raises $3 to $9
+bubsski: calls $3
+*** FLOP *** [Jh 3h Qd]
+exc_stasy: bets $3
+bubsski: calls $3
+*** TURN *** [Jh 3h Qd] [4d]
+exc_stasy: bets $6
+bubsski: calls $6
+*** RIVER *** [Jh 3h Qd 4d] [Qs]
+exc_stasy: bets $6
+bubsski: calls $6
+*** SHOW DOWN ***
+exc_stasy: shows [Ad Jd] (two pair, Queens and Jacks)
+bubsski: mucks hand
+exc_stasy collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Jh 3h Qd 4d Qs]
+Seat 1: bubsski (button) (small blind) mucked
+Seat 5: exc_stasy (big blind) showed [Ad Jd] and won ($47.50) with two pair, Queens and Jacks
+
+
+PokerStars Hand #149855041345:  Hold'em Limit ($3/$6 USD) - 2016/03/04 21:49:24 ET
+Table 'Gemini II' 6-max Seat #5 is the button
+Seat 1: bubsski ($77.18 in chips)
+Seat 5: exc_stasy ($305.04 in chips)
+exc_stasy: posts small blind $1
+bubsski: posts big blind $3
+*** HOLE CARDS ***
+exc_stasy: raises $3 to $6
+bubsski: calls $3
+*** FLOP *** [3s 4h 4c]
+bubsski: checks
+exc_stasy: bets $3
+bubsski: calls $3
+*** TURN *** [3s 4h 4c] [Qd]
+bubsski: checks
+exc_stasy: bets $6
+bubsski: raises $6 to $12
+exc_stasy: calls $6
+*** RIVER *** [3s 4h 4c Qd] [8d]
+bubsski: bets $6
+exc_stasy: calls $6
+*** SHOW DOWN ***
+bubsski: shows [Qs Js] (two pair, Queens and Fours)
+exc_stasy: mucks hand
+bubsski collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [3s 4h 4c Qd 8d]
+Seat 1: bubsski (big blind) showed [Qs Js] and won ($53.50) with two pair, Queens and Fours
+Seat 5: exc_stasy (button) (small blind) mucked
+
+
+PokerStars Hand #149855091571:  Hold'em Limit ($3/$6 USD) - 2016/03/04 21:51:21 ET
+Table 'Gemini II' 6-max Seat #1 is the button
+Seat 1: bubsski ($122.18 in chips)
+Seat 5: exc_stasy ($279.63 in chips)
+bubsski: posts small blind $1
+exc_stasy: posts big blind $3
+*** HOLE CARDS ***
+bubsski: raises $3 to $6
+exc_stasy: raises $3 to $9
+bubsski: calls $3
+*** FLOP *** [2c 8c 4h]
+exc_stasy: bets $3
+bubsski: calls $3
+*** TURN *** [2c 8c 4h] [Qs]
+exc_stasy: bets $6
+bubsski: calls $6
+*** RIVER *** [2c 8c 4h Qs] [3c]
+exc_stasy: bets $6
+bubsski: folds
+Uncalled bet ($6) returned to exc_stasy
+exc_stasy collected $35.50 from pot
+exc_stasy: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [2c 8c 4h Qs 3c]
+Seat 1: bubsski (button) (small blind) folded on the River
+Seat 5: exc_stasy (big blind) collected ($35.50)
+
+
+PokerStars Hand #149855087914:  Hold'em Limit ($3/$6 USD) - 2016/03/04 21:51:13 ET
+Table 'Gemini II' 6-max Seat #5 is the button
+Seat 1: bubsski ($128.18 in chips)
+Seat 5: exc_stasy ($273.87 in chips)
+exc_stasy: posts small blind $1
+bubsski: posts big blind $3
+*** HOLE CARDS ***
+exc_stasy: raises $3 to $6
+bubsski: calls $3
+*** FLOP *** [5c Qh Ks]
+bubsski: checks
+exc_stasy: bets $3
+bubsski: folds
+Uncalled bet ($3) returned to exc_stasy
+exc_stasy collected $11.76 from pot
+exc_stasy: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5c Qh Ks]
+Seat 1: bubsski (big blind) folded on the Flop
+Seat 5: exc_stasy (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #149855079009:  Hold'em Limit ($3/$6 USD) - 2016/03/04 21:50:52 ET
+Table 'Gemini II' 6-max Seat #5 is the button
+Seat 1: bubsski ($102.68 in chips)
+Seat 5: exc_stasy ($299.87 in chips)
+exc_stasy: posts small blind $1
+bubsski: posts big blind $3
+*** HOLE CARDS ***
+exc_stasy: raises $3 to $6
+bubsski: calls $3
+*** FLOP *** [Ts 2d 7h]
+bubsski: checks
+exc_stasy: bets $3
+bubsski: calls $3
+*** TURN *** [Ts 2d 7h] [8h]
+bubsski: checks
+exc_stasy: bets $6
+bubsski: raises $6 to $12
+exc_stasy: calls $6
+*** RIVER *** [Ts 2d 7h 8h] [6c]
+bubsski: bets $6
+exc_stasy: calls $6
+*** SHOW DOWN ***
+bubsski: shows [8d 5c] (a pair of Eights)
+exc_stasy: mucks hand
+bubsski collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Ts 2d 7h 8h 6c]
+Seat 1: bubsski (big blind) showed [8d 5c] and won ($53.50) with a pair of Eights
+Seat 5: exc_stasy (button) (small blind) mucked
+
+
+PokerStars Hand #149855075988:  Hold'em Limit ($3/$6 USD) - 2016/03/04 21:50:45 ET
+Table 'Gemini II' 6-max Seat #1 is the button
+Seat 1: bubsski ($99.68 in chips)
+Seat 5: exc_stasy ($302.87 in chips)
+bubsski: posts small blind $1
+anetkaapro: is sitting out
+exc_stasy: posts big blind $3
+*** HOLE CARDS ***
+bubsski: raises $3 to $6
+exc_stasy: folds
+Uncalled bet ($3) returned to bubsski
+bubsski collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: bubsski (button) (small blind) collected ($6)
+Seat 5: exc_stasy (big blind) folded before Flop
+
+
+PokerStars Hand #149855097173:  Hold'em Limit ($3/$6 USD) - 2016/03/04 21:51:34 ET
+Table 'Gemini II' 6-max Seat #5 is the button
+Seat 1: bubsski ($104.18 in chips)
+Seat 5: exc_stasy ($297.13 in chips)
+exc_stasy: posts small blind $1
+bubsski: posts big blind $3
+*** HOLE CARDS ***
+exc_stasy: raises $3 to $6
+bubsski: calls $3
+*** FLOP *** [Kd 7d 6d]
+bubsski: checks
+exc_stasy: bets $3
+bubsski: folds
+Uncalled bet ($3) returned to exc_stasy
+exc_stasy collected $11.76 from pot
+exc_stasy: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kd 7d 6d]
+Seat 1: bubsski (big blind) folded on the Flop
+Seat 5: exc_stasy (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #149855117478:  Hold'em Limit ($3/$6 USD) - 2016/03/04 21:52:21 ET
+Table 'Gemini II' 6-max Seat #5 is the button
+Seat 1: bubsski ($127.32 in chips)
+Seat 5: exc_stasy ($272.89 in chips)
+exc_stasy: posts small blind $1
+bubsski: posts big blind $3
+*** HOLE CARDS ***
+exc_stasy: raises $3 to $6
+bubsski: calls $3
+*** FLOP *** [Ac 3s Kc]
+bubsski: bets $3
+exc_stasy: raises $3 to $6
+bubsski: folds
+Uncalled bet ($3) returned to exc_stasy
+exc_stasy collected $17.64 from pot
+exc_stasy: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ac 3s Kc]
+Seat 1: bubsski (big blind) folded on the Flop
+Seat 5: exc_stasy (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #149855112949:  Hold'em Limit ($3/$6 USD) - 2016/03/04 21:52:10 ET
+Table 'Gemini II' 6-max Seat #1 is the button
+Seat 1: bubsski ($118.68 in chips)
+Seat 5: exc_stasy ($281.89 in chips)
+bubsski: posts small blind $1
+exc_stasy: posts big blind $3
+*** HOLE CARDS ***
+bubsski: raises $3 to $6
+exc_stasy: calls $3
+*** FLOP *** [3c 6d 9s]
+exc_stasy: checks
+bubsski: bets $3
+exc_stasy: calls $3
+*** TURN *** [3c 6d 9s] [3d]
+exc_stasy: checks
+bubsski: bets $6
+exc_stasy: folds
+Uncalled bet ($6) returned to bubsski
+bubsski collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3c 6d 9s 3d]
+Seat 1: bubsski (button) (small blind) collected ($17.64)
+Seat 5: exc_stasy (big blind) folded on the Turn
+
+
+PokerStars Hand #149855110499:  Hold'em Limit ($3/$6 USD) - 2016/03/04 21:52:04 ET
+Table 'Gemini II' 6-max Seat #5 is the button
+Seat 1: bubsski ($121.68 in chips)
+Seat 5: exc_stasy ($278.89 in chips)
+exc_stasy: posts small blind $1
+bubsski: posts big blind $3
+*** HOLE CARDS ***
+exc_stasy: raises $3 to $6
+bubsski: folds
+Uncalled bet ($3) returned to exc_stasy
+exc_stasy collected $6 from pot
+exc_stasy: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: bubsski (big blind) folded before Flop
+Seat 5: exc_stasy (button) (small blind) collected ($6)
+
+
+PokerStars Hand #149855101281:  Hold'em Limit ($3/$6 USD) - 2016/03/04 21:51:43 ET
+Table 'Gemini II' 6-max Seat #1 is the button
+Seat 1: bubsski ($98.18 in chips)
+Seat 5: exc_stasy ($302.89 in chips)
+bubsski: posts small blind $1
+exc_stasy: posts big blind $3
+*** HOLE CARDS ***
+bubsski: raises $3 to $6
+exc_stasy: calls $3
+*** FLOP *** [3s 6d 4d]
+exc_stasy: checks
+bubsski: bets $3
+exc_stasy: raises $3 to $6
+bubsski: calls $3
+*** TURN *** [3s 6d 4d] [5h]
+exc_stasy: bets $6
+bubsski: calls $6
+*** RIVER *** [3s 6d 4d 5h] [6h]
+exc_stasy: bets $6
+bubsski: calls $6
+*** SHOW DOWN ***
+exc_stasy: shows [Tc 9d] (a pair of Sixes)
+bubsski: shows [Qc Ah] (a pair of Sixes - Ace kicker)
+bubsski collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3s 6d 4d 5h 6h]
+Seat 1: bubsski (button) (small blind) showed [Qc Ah] and won ($47.50) with a pair of Sixes
+Seat 5: exc_stasy (big blind) showed [Tc 9d] and lost with a pair of Sixes
+
+
+PokerStars Hand #149855130931:  Hold'em Limit ($3/$6 USD) - 2016/03/04 21:52:52 ET
+Table 'Gemini II' 6-max Seat #5 is the button
+Seat 1: bubsski ($106.32 in chips)
+Seat 5: exc_stasy ($293.05 in chips)
+exc_stasy: posts small blind $1
+bubsski: posts big blind $3
+*** HOLE CARDS ***
+exc_stasy: raises $3 to $6
+bubsski: calls $3
+*** FLOP *** [5c Kd 3h]
+bubsski: checks
+exc_stasy: bets $3
+bubsski: raises $3 to $6
+exc_stasy: calls $3
+*** TURN *** [5c Kd 3h] [8c]
+bubsski: bets $6
+exc_stasy: calls $6
+*** RIVER *** [5c Kd 3h 8c] [Qs]
+bubsski: bets $6
+exc_stasy: folds
+Uncalled bet ($6) returned to bubsski
+bubsski collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5c Kd 3h 8c Qs]
+Seat 1: bubsski (big blind) collected ($35.50)
+Seat 5: exc_stasy (button) (small blind) folded on the River
+
+
+PokerStars Hand #149855122247:  Hold'em Limit ($3/$6 USD) - 2016/03/04 21:52:32 ET
+Table 'Gemini II' 6-max Seat #1 is the button
+Seat 1: bubsski ($118.32 in chips)
+Seat 5: exc_stasy ($281.53 in chips)
+bubsski: posts small blind $1
+exc_stasy: posts big blind $3
+*** HOLE CARDS ***
+bubsski: raises $3 to $6
+exc_stasy: raises $3 to $9
+bubsski: calls $3
+*** FLOP *** [7d Qh 5d]
+exc_stasy: bets $3
+bubsski: calls $3
+*** TURN *** [7d Qh 5d] [8c]
+exc_stasy: bets $6
+bubsski: folds
+Uncalled bet ($6) returned to exc_stasy
+exc_stasy collected $23.52 from pot
+exc_stasy: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [7d Qh 5d 8c]
+Seat 1: bubsski (button) (small blind) folded on the Turn
+Seat 5: exc_stasy (big blind) collected ($23.52)
+
+
+PokerStars Hand #149855183982:  Hold'em Limit ($3/$6 USD) - 2016/03/04 21:54:55 ET
+Table 'Gemini II' 6-max Seat #1 is the button
+Seat 1: bubsski ($97.53 in chips)
+Seat 5: exc_stasy ($276.96 in chips)
+bubsski: posts small blind $1
+anetkaapro: is sitting out
+exc_stasy: posts big blind $3
+*** HOLE CARDS ***
+bubsski: folds
+Uncalled bet ($2) returned to exc_stasy
+exc_stasy collected $2 from pot
+exc_stasy: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: bubsski (button) (small blind) folded before Flop
+Seat 5: exc_stasy (big blind) collected ($2)
+
+
+PokerStars Hand #149855186182:  Hold'em Limit ($3/$6 USD) - 2016/03/04 21:55:00 ET
+Table 'Gemini II' 6-max Seat #5 is the button
+Seat 1: bubsski ($96.53 in chips)
+Seat 5: exc_stasy ($277.96 in chips)
+exc_stasy: posts small blind $1
+bubsski: posts big blind $3
+*** HOLE CARDS ***
+exc_stasy: raises $3 to $6
+bubsski: calls $3
+*** FLOP *** [Th 6d 3d]
+bubsski: checks
+exc_stasy: bets $3
+bubsski: calls $3
+*** TURN *** [Th 6d 3d] [Qs]
+bubsski: checks
+exc_stasy: bets $6
+bubsski: calls $6
+*** RIVER *** [Th 6d 3d Qs] [5h]
+bubsski: checks
+exc_stasy: bets $6
+bubsski: calls $6
+*** SHOW DOWN ***
+exc_stasy: shows [Jc Jd] (a pair of Jacks)
+bubsski: mucks hand
+exc_stasy collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Th 6d 3d Qs 5h]
+Seat 1: bubsski (big blind) mucked
+Seat 5: exc_stasy (button) (small blind) showed [Jc Jd] and won ($41.50) with a pair of Jacks
+
+
+PokerStars Hand #149855261490:  Hold'em Limit ($3/$6 USD) - 2016/03/04 21:58:24 ET
+Table 'Gemini II' 6-max Seat #5 is the button
+Seat 1: bubsski ($85.19 in chips)
+Seat 5: exc_stasy ($286.03 in chips)
+exc_stasy: posts small blind $1
+bubsski: posts big blind $3
+*** HOLE CARDS ***
+exc_stasy: folds
+Uncalled bet ($2) returned to bubsski
+bubsski collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: bubsski (big blind) collected ($2)
+Seat 5: exc_stasy (button) (small blind) folded before Flop
+
+
+PokerStars Hand #149855258817:  Hold'em Limit ($3/$6 USD) - 2016/03/04 21:58:17 ET
+Table 'Gemini II' 6-max Seat #1 is the button
+Seat 1: bubsski ($82.19 in chips)
+Seat 5: exc_stasy ($289.03 in chips)
+bubsski: posts small blind $1
+anetkaapro: is sitting out
+exc_stasy: posts big blind $3
+*** HOLE CARDS ***
+bubsski: raises $3 to $6
+exc_stasy: folds
+Uncalled bet ($3) returned to bubsski
+bubsski collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: bubsski (button) (small blind) collected ($6)
+Seat 5: exc_stasy (big blind) folded before Flop
+
+
+PokerStars Hand #149855271219:  Hold'em Limit ($3/$6 USD) - 2016/03/04 21:58:51 ET
+Table 'Gemini II' 6-max Seat #5 is the button
+Seat 1: bubsski ($109.69 in chips)
+Seat 5: exc_stasy ($261.03 in chips)
+exc_stasy: posts small blind $1
+bubsski: posts big blind $3
+*** HOLE CARDS ***
+exc_stasy: raises $3 to $6
+bubsski: calls $3
+*** FLOP *** [Qs 6d 9d]
+bubsski: checks
+exc_stasy: bets $3
+bubsski: calls $3
+*** TURN *** [Qs 6d 9d] [4c]
+bubsski: checks
+exc_stasy: bets $6
+bubsski: raises $6 to $12
+exc_stasy: calls $6
+*** RIVER *** [Qs 6d 9d 4c] [7c]
+bubsski: bets $6
+exc_stasy: calls $6
+*** SHOW DOWN ***
+bubsski: shows [Qh Th] (a pair of Queens)
+exc_stasy: mucks hand
+bubsski collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Qs 6d 9d 4c 7c]
+Seat 1: bubsski (big blind) showed [Qh Th] and won ($53.50) with a pair of Queens
+Seat 5: exc_stasy (button) (small blind) mucked
+
+
+PokerStars Hand #149855278401:  Hold'em Limit ($3/$6 USD) - 2016/03/04 21:59:10 ET
+Table 'Gemini II' 6-max Seat #5 is the button
+Seat 1: bubsski ($135.19 in chips)
+Seat 5: exc_stasy ($235.03 in chips)
+exc_stasy: posts small blind $1
+bubsski: posts big blind $3
+*** HOLE CARDS ***
+exc_stasy: raises $3 to $6
+bubsski: raises $3 to $9
+exc_stasy: calls $3
+*** FLOP *** [6c Qh 2d]
+bubsski: bets $3
+exc_stasy: raises $3 to $6
+bubsski: calls $3
+*** TURN *** [6c Qh 2d] [6s]
+bubsski: checks
+exc_stasy: bets $6
+bubsski: calls $6
+*** RIVER *** [6c Qh 2d 6s] [Kc]
+bubsski: checks
+exc_stasy: bets $6
+bubsski: calls $6
+*** SHOW DOWN ***
+exc_stasy: shows [8d 6d] (three of a kind, Sixes)
+bubsski: mucks hand
+exc_stasy collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [6c Qh 2d 6s Kc]
+Seat 1: bubsski (big blind) mucked
+Seat 5: exc_stasy (button) (small blind) showed [8d 6d] and won ($53.50) with three of a kind, Sixes
+
+
+PokerStars Hand #149855263126:  Hold'em Limit ($3/$6 USD) - 2016/03/04 21:58:29 ET
+Table 'Gemini II' 6-max Seat #1 is the button
+Seat 1: bubsski ($86.19 in chips)
+Seat 5: exc_stasy ($285.03 in chips)
+bubsski: posts small blind $1
+exc_stasy: posts big blind $3
+*** HOLE CARDS ***
+bubsski: raises $3 to $6
+exc_stasy: raises $3 to $9
+bubsski: raises $3 to $12
+Betting is capped
+exc_stasy: calls $3
+*** FLOP *** [Tc Js Th]
+exc_stasy: bets $3
+bubsski: raises $3 to $6
+exc_stasy: calls $3
+*** TURN *** [Tc Js Th] [Ad]
+exc_stasy: checks
+bubsski: bets $6
+exc_stasy: calls $6
+*** RIVER *** [Tc Js Th Ad] [6c]
+exc_stasy: checks
+bubsski: bets $6
+exc_stasy: folds
+Uncalled bet ($6) returned to bubsski
+bubsski collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Tc Js Th Ad 6c]
+Seat 1: bubsski (button) (small blind) collected ($47.50)
+Seat 5: exc_stasy (big blind) folded on the River
+
+
+PokerStars Hand #149855291367:  Hold'em Limit ($3/$6 USD) - 2016/03/04 21:59:46 ET
+Table 'Gemini II' 6-max Seat #5 is the button
+Seat 1: bubsski ($137.69 in chips)
+Seat 5: exc_stasy ($231.53 in chips)
+exc_stasy: posts small blind $1
+bubsski: posts big blind $3
+*** HOLE CARDS ***
+exc_stasy: folds
+Uncalled bet ($2) returned to bubsski
+bubsski collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: bubsski (big blind) collected ($2)
+Seat 5: exc_stasy (button) (small blind) folded before Flop
+
+
+PokerStars Hand #149855303733:  Hold'em Limit ($3/$6 USD) - 2016/03/04 22:00:19 ET
+Table 'Gemini II' 6-max Seat #5 is the button
+Seat 1: bubsski ($140.69 in chips)
+Seat 5: exc_stasy ($256.70 in chips)
+exc_stasy: posts small blind $1
+bubsski: posts big blind $3
+*** HOLE CARDS ***
+exc_stasy: raises $3 to $6
+bubsski: folds
+Uncalled bet ($3) returned to exc_stasy
+exc_stasy collected $6 from pot
+exc_stasy: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: bubsski (big blind) folded before Flop
+Seat 5: exc_stasy (button) (small blind) collected ($6)
+
+
+PokerStars Hand #149855285709:  Hold'em Limit ($3/$6 USD) - 2016/03/04 21:59:30 ET
+Table 'Gemini II' 6-max Seat #1 is the button
+Seat 1: bubsski ($108.19 in chips)
+Seat 5: exc_stasy ($261.53 in chips)
+bubsski: posts small blind $1
+exc_stasy: posts big blind $3
+*** HOLE CARDS ***
+bubsski: raises $3 to $6
+exc_stasy: raises $3 to $9
+bubsski: calls $3
+*** FLOP *** [Td 4s 2h]
+exc_stasy: bets $3
+bubsski: calls $3
+*** TURN *** [Td 4s 2h] [8c]
+exc_stasy: bets $6
+bubsski: calls $6
+*** RIVER *** [Td 4s 2h 8c] [Jh]
+exc_stasy: bets $6
+bubsski: raises $6 to $12
+SolbetHD joins the table at seat #3
+exc_stasy: calls $6
+*** SHOW DOWN ***
+bubsski: shows [8s Js] (two pair, Jacks and Eights)
+exc_stasy: mucks hand
+bubsski collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Td 4s 2h 8c Jh]
+Seat 1: bubsski (button) (small blind) showed [8s Js] and won ($59.50) with two pair, Jacks and Eights
+Seat 5: exc_stasy (big blind) mucked
+
+
+PokerStars Hand #149855320541:  Hold'em Limit ($3/$6 USD) - 2016/03/04 22:01:03 ET
+Table 'Gemini II' 6-max Seat #5 is the button
+Seat 1: bubsski ($142.25 in chips)
+Seat 5: exc_stasy ($282.44 in chips)
+exc_stasy: posts small blind $1
+bubsski: posts big blind $3
+*** HOLE CARDS ***
+exc_stasy: raises $3 to $6
+bubsski: calls $3
+*** FLOP *** [6c 3d 5s]
+bubsski: checks
+exc_stasy: bets $3
+bubsski: calls $3
+*** TURN *** [6c 3d 5s] [2s]
+bubsski: checks
+exc_stasy: checks
+*** RIVER *** [6c 3d 5s 2s] [7h]
+bubsski: checks
+exc_stasy: checks
+*** SHOW DOWN ***
+bubsski: shows [2d Kh] (a pair of Deuces)
+exc_stasy: mucks hand
+bubsski collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6c 3d 5s 2s 7h]
+Seat 1: bubsski (big blind) showed [2d Kh] and won ($17.64) with a pair of Deuces
+Seat 5: exc_stasy (button) (small blind) mucked
+
+
+PokerStars Hand #149855342037:  Hold'em Limit ($3/$6 USD) - 2016/03/04 22:01:56 ET
+Table 'Gemini II' 6-max Seat #5 is the button
+Seat 1: bubsski ($178.09 in chips)
+Seat 5: exc_stasy ($274.44 in chips)
+exc_stasy: posts small blind $1
+bubsski: posts big blind $3
+*** HOLE CARDS ***
+exc_stasy: raises $3 to $6
+bubsski: calls $3
+*** FLOP *** [7s 6d Qc]
+bubsski: checks
+exc_stasy: bets $3
+SolbetHD leaves the table
+bubsski: folds
+Uncalled bet ($3) returned to exc_stasy
+exc_stasy collected $11.76 from pot
+exc_stasy: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7s 6d Qc]
+Seat 1: bubsski (big blind) folded on the Flop
+Seat 5: exc_stasy (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #149855347332:  Hold'em Limit ($3/$6 USD) - 2016/03/04 22:02:09 ET
+Table 'Gemini II' 6-max Seat #1 is the button
+Seat 1: bubsski ($172.09 in chips)
+Seat 5: exc_stasy ($280.20 in chips)
+bubsski: posts small blind $1
+exc_stasy: posts big blind $3
+*** HOLE CARDS ***
+bubsski: raises $3 to $6
+exc_stasy: calls $3
+*** FLOP *** [9s Qs 7c]
+exc_stasy: checks
+bubsski: bets $3
+exc_stasy: raises $3 to $6
+bubsski: calls $3
+*** TURN *** [9s Qs 7c] [As]
+exc_stasy: bets $6
+bubsski: raises $6 to $12
+exc_stasy: calls $6
+*** RIVER *** [9s Qs 7c As] [9h]
+exc_stasy: checks
+bubsski: bets $6
+exc_stasy: calls $6
+*** SHOW DOWN ***
+bubsski: shows [Qh Ac] (two pair, Aces and Queens)
+exc_stasy: mucks hand
+bubsski collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [9s Qs 7c As 9h]
+Seat 1: bubsski (button) (small blind) showed [Qh Ac] and won ($59.50) with two pair, Aces and Queens
+Seat 5: exc_stasy (big blind) mucked
+
+
+PokerStars Hand #149855356355:  Hold'em Limit ($3/$6 USD) - 2016/03/04 22:02:31 ET
+Table 'Gemini II' 6-max Seat #1 is the button
+Seat 1: bubsski ($198.59 in chips)
+Seat 5: exc_stasy ($253.20 in chips)
+bubsski: posts small blind $1
+exc_stasy: posts big blind $3
+*** HOLE CARDS ***
+bubsski: raises $3 to $6
+exc_stasy: folds
+Uncalled bet ($3) returned to bubsski
+bubsski collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: bubsski (button) (small blind) collected ($6)
+Seat 5: exc_stasy (big blind) folded before Flop
+
+
+PokerStars Hand #149855354169:  Hold'em Limit ($3/$6 USD) - 2016/03/04 22:02:25 ET
+Table 'Gemini II' 6-max Seat #5 is the button
+Seat 1: bubsski ($201.59 in chips)
+Seat 5: exc_stasy ($250.20 in chips)
+exc_stasy: posts small blind $1
+bubsski: posts big blind $3
+*** HOLE CARDS ***
+exc_stasy: raises $3 to $6
+bubsski: folds
+Uncalled bet ($3) returned to exc_stasy
+exc_stasy collected $6 from pot
+exc_stasy: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: bubsski (big blind) folded before Flop
+Seat 5: exc_stasy (button) (small blind) collected ($6)
+
+
+PokerStars Hand #149855362783:  Hold'em Limit ($3/$6 USD) - 2016/03/04 22:02:46 ET
+Table 'Gemini II' 6-max Seat #1 is the button
+Seat 1: bubsski ($195.59 in chips)
+Seat 5: exc_stasy ($255.96 in chips)
+bubsski: posts small blind $1
+exc_stasy: posts big blind $3
+*** HOLE CARDS ***
+bubsski: raises $3 to $6
+exc_stasy: raises $3 to $9
+bubsski: calls $3
+*** FLOP *** [4s Kd 2d]
+exc_stasy: bets $3
+bubsski: calls $3
+*** TURN *** [4s Kd 2d] [3c]
+exc_stasy: bets $6
+bubsski: calls $6
+*** RIVER *** [4s Kd 2d 3c] [Qh]
+exc_stasy: bets $6
+bubsski: raises $6 to $12
+exc_stasy: calls $6
+*** SHOW DOWN ***
+bubsski: shows [As Js] (high card Ace)
+exc_stasy: shows [9d Ks] (a pair of Kings)
+exc_stasy collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [4s Kd 2d 3c Qh]
+Seat 1: bubsski (button) (small blind) showed [As Js] and lost with high card Ace
+Seat 5: exc_stasy (big blind) showed [9d Ks] and won ($59.50) with a pair of Kings
+
+
+PokerStars Hand #149855368898:  Hold'em Limit ($3/$6 USD) - 2016/03/04 22:03:01 ET
+Table 'Gemini II' 6-max Seat #5 is the button
+Seat 1: bubsski ($165.59 in chips)
+Seat 5: exc_stasy ($285.46 in chips)
+exc_stasy: posts small blind $1
+bubsski: posts big blind $3
+*** HOLE CARDS ***
+exc_stasy: raises $3 to $6
+bubsski: calls $3
+*** FLOP *** [Qc 4c 5c]
+bubsski: checks
+exc_stasy: bets $3
+bubsski: raises $3 to $6
+exc_stasy: raises $3 to $9
+SolbetHD joins the table at seat #6
+bubsski: calls $3
+*** TURN *** [Qc 4c 5c] [Qs]
+bubsski: checks
+exc_stasy: checks
+*** RIVER *** [Qc 4c 5c Qs] [4h]
+SolbetHD leaves the table
+bubsski: bets $6
+exc_stasy: calls $6
+*** SHOW DOWN ***
+bubsski: shows [7d Qh] (a full house, Queens full of Fours)
+exc_stasy: mucks hand
+bubsski collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Qc 4c 5c Qs 4h]
+Seat 1: bubsski (big blind) showed [7d Qh] and won ($41.50) with a full house, Queens full of Fours
+Seat 5: exc_stasy (button) (small blind) mucked
+
+
+PokerStars Hand #149855375403:  Hold'em Limit ($3/$6 USD) - 2016/03/04 22:03:17 ET
+Table 'Gemini II' 6-max Seat #1 is the button
+Seat 1: bubsski ($186.09 in chips)
+Seat 5: exc_stasy ($264.46 in chips)
+bubsski: posts small blind $1
+exc_stasy: posts big blind $3
+*** HOLE CARDS ***
+bubsski: calls $2
+exc_stasy: checks
+*** FLOP *** [Tc 6d 6s]
+exc_stasy: checks
+bubsski: bets $3
+exc_stasy: calls $3
+*** TURN *** [Tc 6d 6s] [4s]
+exc_stasy: checks
+bubsski: checks
+*** RIVER *** [Tc 6d 6s 4s] [4h]
+exc_stasy: bets $6
+bubsski: folds
+Uncalled bet ($6) returned to exc_stasy
+exc_stasy collected $11.76 from pot
+exc_stasy: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Tc 6d 6s 4s 4h]
+Seat 1: bubsski (button) (small blind) folded on the River
+Seat 5: exc_stasy (big blind) collected ($11.76)
+
+
+PokerStars Hand #149855358955:  Hold'em Limit ($3/$6 USD) - 2016/03/04 22:02:37 ET
+Table 'Gemini II' 6-max Seat #5 is the button
+Seat 1: bubsski ($201.59 in chips)
+Seat 5: exc_stasy ($250.20 in chips)
+exc_stasy: posts small blind $1
+bubsski: posts big blind $3
+*** HOLE CARDS ***
+exc_stasy: raises $3 to $6
+bubsski: calls $3
+*** FLOP *** [9h 6h Js]
+bubsski: folds
+exc_stasy collected $11.76 from pot
+exc_stasy: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9h 6h Js]
+Seat 1: bubsski (big blind) folded on the Flop
+Seat 5: exc_stasy (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #149855398304:  Hold'em Limit ($3/$6 USD) - 2016/03/04 22:04:11 ET
+Table 'Gemini II' 6-max Seat #5 is the button
+Seat 1: bubsski ($170.97 in chips)
+Seat 5: exc_stasy ($278.62 in chips)
+exc_stasy: posts small blind $1
+bubsski: posts big blind $3
+*** HOLE CARDS ***
+exc_stasy: raises $3 to $6
+bubsski: raises $3 to $9
+exc_stasy: calls $3
+*** FLOP *** [Kh 2d Jh]
+bubsski: bets $3
+exc_stasy: calls $3
+*** TURN *** [Kh 2d Jh] [8s]
+bubsski: bets $6
+exc_stasy: calls $6
+*** RIVER *** [Kh 2d Jh 8s] [Jd]
+bubsski: bets $6
+exc_stasy: calls $6
+*** SHOW DOWN ***
+bubsski: shows [9c 9h] (two pair, Jacks and Nines)
+exc_stasy: mucks hand
+bubsski collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Kh 2d Jh 8s Jd]
+Seat 1: bubsski (big blind) showed [9c 9h] and won ($47.50) with two pair, Jacks and Nines
+Seat 5: exc_stasy (button) (small blind) mucked
+
+
+PokerStars Hand #149855393095:  Hold'em Limit ($3/$6 USD) - 2016/03/04 22:03:59 ET
+Table 'Gemini II' 6-max Seat #1 is the button
+Seat 1: bubsski ($168.09 in chips)
+Seat 5: exc_stasy ($281.62 in chips)
+bubsski: posts small blind $1
+exc_stasy: posts big blind $3
+*** HOLE CARDS ***
+bubsski: calls $2
+exc_stasy: checks
+*** FLOP *** [Kc 5s 7s]
+exc_stasy: checks
+bubsski: checks
+*** TURN *** [Kc 5s 7s] [Tc]
+exc_stasy: checks
+bubsski: checks
+*** RIVER *** [Kc 5s 7s Tc] [2c]
+exc_stasy: checks
+bubsski: checks
+*** SHOW DOWN ***
+exc_stasy: shows [8d 4d] (high card King)
+bubsski: shows [3d Qd] (high card King - Queen kicker)
+bubsski collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Kc 5s 7s Tc 2c]
+Seat 1: bubsski (button) (small blind) showed [3d Qd] and won ($5.88) with high card King
+Seat 5: exc_stasy (big blind) showed [8d 4d] and lost with high card King
+
+
+PokerStars Hand #149855403832:  Hold'em Limit ($3/$6 USD) - 2016/03/04 22:04:25 ET
+Table 'Gemini II' 6-max Seat #1 is the button
+Seat 1: bubsski ($194.47 in chips)
+Seat 5: exc_stasy ($254.62 in chips)
+bubsski: posts small blind $1
+exc_stasy: posts big blind $3
+*** HOLE CARDS ***
+bubsski: raises $3 to $6
+exc_stasy: calls $3
+*** FLOP *** [4d 7s Ad]
+exc_stasy: checks
+bubsski: bets $3
+exc_stasy: raises $3 to $6
+bubsski: calls $3
+*** TURN *** [4d 7s Ad] [6s]
+exc_stasy: bets $6
+bubsski: calls $6
+*** RIVER *** [4d 7s Ad 6s] [6d]
+exc_stasy: bets $6
+bubsski: calls $6
+*** SHOW DOWN ***
+exc_stasy: shows [5h 3h] (a straight, Three to Seven)
+bubsski: mucks hand
+exc_stasy collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4d 7s Ad 6s 6d]
+Seat 1: bubsski (button) (small blind) mucked
+Seat 5: exc_stasy (big blind) showed [5h 3h] and won ($47.50) with a straight, Three to Seven
+
+
+PokerStars Hand #149855385948:  Hold'em Limit ($3/$6 USD) - 2016/03/04 22:03:42 ET
+Table 'Gemini II' 6-max Seat #1 is the button
+Seat 1: bubsski ($174.09 in chips)
+Seat 5: exc_stasy ($275.98 in chips)
+bubsski: posts small blind $1
+exc_stasy: posts big blind $3
+*** HOLE CARDS ***
+bubsski: raises $3 to $6
+exc_stasy: folds
+Uncalled bet ($3) returned to bubsski
+bubsski collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: bubsski (button) (small blind) collected ($6)
+Seat 5: exc_stasy (big blind) folded before Flop
+
+
+PokerStars Hand #149855381061:  Hold'em Limit ($3/$6 USD) - 2016/03/04 22:03:30 ET
+Table 'Gemini II' 6-max Seat #5 is the button
+Seat 1: bubsski ($180.09 in chips)
+Seat 5: exc_stasy ($270.22 in chips)
+exc_stasy: posts small blind $1
+bubsski: posts big blind $3
+*** HOLE CARDS ***
+exc_stasy: raises $3 to $6
+bubsski: calls $3
+*** FLOP *** [Kh 3d Ad]
+bubsski: checks
+exc_stasy: bets $3
+bubsski: folds
+Uncalled bet ($3) returned to exc_stasy
+exc_stasy collected $11.76 from pot
+exc_stasy: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kh 3d Ad]
+Seat 1: bubsski (big blind) folded on the Flop
+Seat 5: exc_stasy (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #149855388112:  Hold'em Limit ($3/$6 USD) - 2016/03/04 22:03:47 ET
+Table 'Gemini II' 6-max Seat #5 is the button
+Seat 1: bubsski ($177.09 in chips)
+Seat 5: exc_stasy ($272.98 in chips)
+exc_stasy: posts small blind $1
+bubsski: posts big blind $3
+*** HOLE CARDS ***
+exc_stasy: raises $3 to $6
+bubsski: calls $3
+*** FLOP *** [8c Qd 9s]
+bubsski: checks
+exc_stasy: bets $3
+bubsski: calls $3
+*** TURN *** [8c Qd 9s] [Td]
+bubsski: checks
+exc_stasy: bets $6
+bubsski: folds
+Uncalled bet ($6) returned to exc_stasy
+exc_stasy collected $17.64 from pot
+exc_stasy: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8c Qd 9s Td]
+Seat 1: bubsski (big blind) folded on the Turn
+Seat 5: exc_stasy (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #149855410384:  Hold'em Limit ($3/$6 USD) - 2016/03/04 22:04:40 ET
+Table 'Gemini II' 6-max Seat #5 is the button
+Seat 1: bubsski ($170.47 in chips)
+Seat 5: exc_stasy ($278.12 in chips)
+exc_stasy: posts small blind $1
+bubsski: posts big blind $3
+*** HOLE CARDS ***
+exc_stasy: raises $3 to $6
+bubsski: calls $3
+*** FLOP *** [Qs 6s 5d]
+bubsski: checks
+exc_stasy: bets $3
+bubsski: calls $3
+*** TURN *** [Qs 6s 5d] [Tc]
+bubsski: checks
+exc_stasy: bets $6
+bubsski: calls $6
+*** RIVER *** [Qs 6s 5d Tc] [2c]
+bubsski: checks
+exc_stasy: bets $6
+bubsski: calls $6
+*** SHOW DOWN ***
+exc_stasy: shows [Js 5s] (a pair of Fives)
+bubsski: mucks hand
+exc_stasy collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Qs 6s 5d Tc 2c]
+Seat 1: bubsski (big blind) mucked
+Seat 5: exc_stasy (button) (small blind) showed [Js 5s] and won ($41.50) with a pair of Fives
+
+
+PokerStars Hand #149855418060:  Hold'em Limit ($3/$6 USD) - 2016/03/04 22:04:59 ET
+Table 'Gemini II' 6-max Seat #1 is the button
+Seat 1: bubsski ($149.47 in chips)
+Seat 5: exc_stasy ($298.62 in chips)
+bubsski: posts small blind $1
+exc_stasy: posts big blind $3
+*** HOLE CARDS ***
+bubsski: raises $3 to $6
+exc_stasy: folds
+Uncalled bet ($3) returned to bubsski
+bubsski collected $6 from pot
+degal76 joins the table at seat #6
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: bubsski (button) (small blind) collected ($6)
+Seat 5: exc_stasy (big blind) folded before Flop
+
+

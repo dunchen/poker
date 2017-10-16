@@ -1,0 +1,109 @@
+PokerStars Hand #176613688641:  Hold'em Limit ($3/$6 USD) - 2017/10/07 13:58:05 ET
+Table 'Mirzam' 6-max Seat #2 is the button
+Seat 1: JSaaristo ($44.39 in chips)
+Seat 2: vestimokrec ($120 in chips)
+vestimokrec: posts small blind $1
+Agrotait: is sitting out
+JSaaristo: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+JSaaristo: calls $3
+*** FLOP *** [Ts 6c Ac]
+JSaaristo: checks
+Agrotait leaves the table
+vestimokrec: bets $3
+JSaaristo: folds
+Uncalled bet ($3) returned to vestimokrec
+vestimokrec collected $11.76 from pot
+vestimokrec: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ts 6c Ac]
+Seat 1: JSaaristo (big blind) folded on the Flop
+Seat 2: vestimokrec (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #176613713636:  Hold'em Limit ($3/$6 USD) - 2017/10/07 13:58:48 ET
+Table 'Mirzam' 6-max Seat #2 is the button
+Seat 1: JSaaristo ($17.39 in chips)
+Seat 2: vestimokrec ($146.26 in chips)
+vestimokrec: posts small blind $1
+JSaaristo: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+JSaaristo: calls $3
+*** FLOP *** [8s As Ad]
+JSaaristo: checks
+vestimokrec: bets $3
+JSaaristo: folds
+Uncalled bet ($3) returned to vestimokrec
+vestimokrec collected $11.76 from pot
+vestimokrec: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8s As Ad]
+Seat 1: JSaaristo (big blind) folded on the Flop
+Seat 2: vestimokrec (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #176613721603:  Hold'em Limit ($3/$6 USD) - 2017/10/07 13:59:02 ET
+Table 'Mirzam' 6-max Seat #1 is the button
+Seat 1: JSaaristo ($11.39 in chips)
+Seat 2: vestimokrec ($152.02 in chips)
+JSaaristo: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+JSaaristo: raises $3 to $6
+vestimokrec: calls $3
+*** FLOP *** [9s 8s 7d]
+vestimokrec: checks
+JSaaristo: bets $3
+vestimokrec: raises $3 to $6
+JSaaristo: calls $2.39 and is all-in
+Uncalled bet ($0.61) returned to vestimokrec
+*** TURN *** [9s 8s 7d] [6c]
+*** RIVER *** [9s 8s 7d 6c] [6h]
+*** SHOW DOWN ***
+vestimokrec: shows [Ts 8h] (a straight, Six to Ten)
+JSaaristo: shows [As 9d] (two pair, Nines and Sixes)
+vestimokrec collected $22.32 from pot
+*** SUMMARY ***
+Total pot $22.78 | Rake $0.46
+Board [9s 8s 7d 6c 6h]
+Seat 1: JSaaristo (button) (small blind) showed [As 9d] and lost with two pair, Nines and Sixes
+Seat 2: vestimokrec (big blind) showed [Ts 8h] and won ($22.32) with a straight, Six to Ten
+
+
+PokerStars Hand #176613698604:  Hold'em Limit ($3/$6 USD) - 2017/10/07 13:58:22 ET
+Table 'Mirzam' 6-max Seat #1 is the button
+Seat 1: JSaaristo ($38.39 in chips)
+Seat 2: vestimokrec ($125.76 in chips)
+JSaaristo: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+JSaaristo: raises $3 to $6
+vestimokrec: raises $3 to $9
+JSaaristo: raises $3 to $12
+Betting is capped
+vestimokrec: calls $3
+*** FLOP *** [8h 8c Ts]
+vestimokrec: checks
+JSaaristo: bets $3
+vestimokrec: calls $3
+*** TURN *** [8h 8c Ts] [Jc]
+vestimokrec: checks
+JSaaristo: checks
+*** RIVER *** [8h 8c Ts Jc] [2s]
+vestimokrec: bets $6
+JSaaristo: calls $6
+*** SHOW DOWN ***
+vestimokrec: shows [Kd Ac] (a pair of Eights)
+JSaaristo: mucks hand
+vestimokrec collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [8h 8c Ts Jc 2s]
+Seat 1: JSaaristo (button) (small blind) mucked
+Seat 2: vestimokrec (big blind) showed [Kd Ac] and won ($41.50) with a pair of Eights
+
+

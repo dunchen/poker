@@ -1,0 +1,111 @@
+PokerStars Hand #147993660858:  Hold'em Limit ($3/$6 USD) - 2016/01/31 10:25:38 ET
+Table 'Genua III' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($117.50 in chips)
+Seat 2: Scheubi88 ($121.26 in chips)
+BigYelloFish: posts small blind $1
+Scheubi88: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+Scheubi88: raises $3 to $9
+BigYelloFish: calls $3
+*** FLOP *** [6s Kd 4h]
+Scheubi88: bets $3
+BigYelloFish: calls $3
+*** TURN *** [6s Kd 4h] [4s]
+Scheubi88: bets $6
+BigYelloFish: calls $6
+*** RIVER *** [6s Kd 4h 4s] [Ks]
+Scheubi88: bets $6
+BigYelloFish: raises $6 to $12
+Scheubi88: folds
+Uncalled bet ($6) returned to BigYelloFish
+BigYelloFish collected $47.50 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [6s Kd 4h 4s Ks]
+Seat 1: BigYelloFish (button) (small blind) collected ($47.50)
+Seat 2: Scheubi88 (big blind) folded on the River
+
+
+PokerStars Hand #147993656087:  Hold'em Limit ($3/$6 USD) - 2016/01/31 10:25:33 ET
+Table 'Genua III' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($116.50 in chips)
+Seat 2: Scheubi88 ($122.26 in chips)
+Scheubi88: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+Scheubi88: folds
+Uncalled bet ($2) returned to BigYelloFish
+BigYelloFish collected $2 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (big blind) collected ($2)
+Seat 2: Scheubi88 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147993642702:  Hold'em Limit ($3/$6 USD) - 2016/01/31 10:25:19 ET
+Table 'Genua III' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($137.50 in chips)
+Seat 2: Scheubi88 ($101.76 in chips)
+BigYelloFish: posts small blind $1
+Scheubi88: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: calls $2
+Scheubi88: checks
+*** FLOP *** [8d As 2h]
+Scheubi88: checks
+BigYelloFish: bets $3
+Scheubi88: raises $3 to $6
+BigYelloFish: calls $3
+*** TURN *** [8d As 2h] [Kc]
+Scheubi88: bets $6
+BigYelloFish: calls $6
+*** RIVER *** [8d As 2h Kc] [9h]
+Scheubi88: bets $6
+BigYelloFish: calls $6
+*** SHOW DOWN ***
+Scheubi88: shows [7s 9d] (a pair of Nines)
+BigYelloFish: mucks hand
+Scheubi88 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [8d As 2h Kc 9h]
+Seat 1: BigYelloFish (button) (small blind) mucked
+Seat 2: Scheubi88 (big blind) showed [7s 9d] and won ($41.50) with a pair of Nines
+
+
+PokerStars Hand #147993628297:  Hold'em Limit ($3/$6 USD) - 2016/01/31 10:25:04 ET
+Table 'Genua III' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($111 in chips)
+Seat 2: Scheubi88 ($128.76 in chips)
+Scheubi88: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+Scheubi88: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [9s 6c 7d]
+BigYelloFish: checks
+Scheubi88: bets $3
+BigYelloFish: calls $3
+*** TURN *** [9s 6c 7d] [3d]
+BigYelloFish: checks
+Scheubi88: bets $6
+BigYelloFish: calls $6
+*** RIVER *** [9s 6c 7d 3d] [4c]
+BigYelloFish: checks
+Scheubi88: bets $6
+BigYelloFish: raises $6 to $12
+Scheubi88: calls $6
+*** SHOW DOWN ***
+BigYelloFish: shows [4d 6s] (two pair, Sixes and Fours)
+Scheubi88: mucks hand
+BigYelloFish collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [9s 6c 7d 3d 4c]
+Seat 1: BigYelloFish (big blind) showed [4d 6s] and won ($53.50) with two pair, Sixes and Fours
+Seat 2: Scheubi88 (button) (small blind) mucked
+
+

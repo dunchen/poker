@@ -1,0 +1,32 @@
+PokerStars Hand #154839165324:  Hold'em Limit ($3/$6 USD) - 2016/06/17 3:28:50 ET
+Table 'Hebei' 6-max Seat #2 is the button
+Seat 2: tomte999 ($79.02 in chips)
+Seat 3: lin1rabbit ($127.02 in chips)
+beng_51 will be allowed to play after the button
+tomte999: posts small blind $1
+lin1rabbit: posts big blind $3
+*** HOLE CARDS ***
+tomte999: raises $3 to $6
+VolkovDmitri leaves the table
+lin1rabbit: raises $3 to $9
+tomte999: calls $3
+*** FLOP *** [2h As 3d]
+lin1rabbit: bets $3
+tomte999: calls $3
+*** TURN *** [2h As 3d] [Jh]
+lin1rabbit: checks
+tomte999: checks
+*** RIVER *** [2h As 3d Jh] [9d]
+lin1rabbit: bets $6
+tomte999: calls $6
+*** SHOW DOWN ***
+lin1rabbit: shows [Ah 5c] (a pair of Aces)
+tomte999: mucks hand
+lin1rabbit collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [2h As 3d Jh 9d]
+Seat 2: tomte999 (button) (small blind) mucked
+Seat 3: lin1rabbit (big blind) showed [Ah 5c] and won ($35.50) with a pair of Aces
+
+

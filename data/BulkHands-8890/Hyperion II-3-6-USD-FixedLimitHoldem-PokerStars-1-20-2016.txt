@@ -1,0 +1,58 @@
+PokerStars Hand #147354054147:  Hold'em Limit ($3/$6 USD) - 2016/01/20 4:27:42 ET
+Table 'Hyperion II' 6-max Seat #2 is the button
+Seat 1: _fayzulllo_ ($72 in chips)
+Seat 2: Agrotait ($72 in chips)
+Agrotait: posts small blind $1
+TbIP-TbIP 88: is sitting out
+TbIP-TbIP 88 leaves the table
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+_fayzulllo_: calls $3
+*** FLOP *** [Ks Kd 3c]
+_fayzulllo_: checks
+Agrotait: bets $3
+_fayzulllo_: calls $3
+*** TURN *** [Ks Kd 3c] [Kc]
+RockKillerTY joins the table at seat #3
+_fayzulllo_: checks
+Agrotait: bets $6
+_fayzulllo_: calls $6
+*** RIVER *** [Ks Kd 3c Kc] [9s]
+_fayzulllo_: checks
+Agrotait: bets $6
+_fayzulllo_: calls $6
+*** SHOW DOWN ***
+Agrotait: shows [5d 5h] (a full house, Kings full of Fives)
+_fayzulllo_: mucks hand
+Agrotait collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ks Kd 3c Kc 9s]
+Seat 1: _fayzulllo_ (big blind) mucked
+Seat 2: Agrotait (button) (small blind) showed [5d 5h] and won ($41.50) with a full house, Kings full of Fives
+
+
+PokerStars Hand #147354066626:  Hold'em Limit ($3/$6 USD) - 2016/01/20 4:28:13 ET
+Table 'Hyperion II' 6-max Seat #1 is the button
+Seat 1: _fayzulllo_ ($51 in chips)
+Seat 2: Agrotait ($92.50 in chips)
+_fayzulllo_: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [8s 5s Kh]
+Agrotait: checks
+_fayzulllo_: bets $3
+Agrotait: folds
+Uncalled bet ($3) returned to _fayzulllo_
+_fayzulllo_ collected $11.76 from pot
+_fayzulllo_: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8s 5s Kh]
+Seat 1: _fayzulllo_ (button) (small blind) collected ($11.76)
+Seat 2: Agrotait (big blind) folded on the Flop
+
+

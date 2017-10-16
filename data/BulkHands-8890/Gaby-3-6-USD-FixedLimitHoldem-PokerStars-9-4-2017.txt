@@ -1,0 +1,130 @@
+PokerStars Hand #175182038160:  Hold'em Limit ($3/$6 USD) - 2017/09/04 0:09:42 ET
+Table 'Gaby' 6-max Seat #4 is the button
+Seat 3: Naribangs78 ($114.90 in chips)
+Seat 4: harrydonkey ($141.48 in chips)
+harrydonkey: posts small blind $1
+zimin10: is sitting out
+Naribangs78: posts big blind $3
+*** HOLE CARDS ***
+harrydonkey: raises $3 to $6
+Naribangs78: raises $3 to $9
+harrydonkey: calls $3
+*** FLOP *** [Ks Td 4s]
+Naribangs78: checks
+harrydonkey: bets $3
+Naribangs78: folds
+Uncalled bet ($3) returned to harrydonkey
+harrydonkey collected $17.64 from pot
+harrydonkey: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ks Td 4s]
+Seat 3: Naribangs78 (big blind) folded on the Flop
+Seat 4: harrydonkey (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #175182048463:  Hold'em Limit ($3/$6 USD) - 2017/09/04 0:10:22 ET
+Table 'Gaby' 6-max Seat #3 is the button
+Seat 3: Naribangs78 ($105.90 in chips)
+Seat 6: zimin10 ($72 in chips)
+Naribangs78: posts small blind $1
+zimin10: posts big blind $3
+*** HOLE CARDS ***
+Naribangs78: raises $3 to $6
+zimin10: folds
+Uncalled bet ($3) returned to Naribangs78
+Naribangs78 collected $6 from pot
+Naribangs78: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: Naribangs78 (button) (small blind) collected ($6)
+Seat 6: zimin10 (big blind) folded before Flop
+
+
+PokerStars Hand #175182053596:  Hold'em Limit ($3/$6 USD) - 2017/09/04 0:10:43 ET
+Table 'Gaby' 6-max Seat #6 is the button
+Seat 3: Naribangs78 ($108.90 in chips)
+Seat 6: zimin10 ($72 in chips)
+zimin10: posts small blind $1
+Naribangs78: posts big blind $3
+*** HOLE CARDS ***
+zimin10: raises $3 to $6
+Naribangs78: calls $3
+*** FLOP *** [7h Jc 6d]
+Naribangs78: checks
+zimin10: bets $3
+Naribangs78: calls $3
+*** TURN *** [7h Jc 6d] [Js]
+Naribangs78: checks
+zimin10: bets $6
+Naribangs78: raises $6 to $12
+zimin10: folds
+Uncalled bet ($6) returned to Naribangs78
+Naribangs78 collected $29.50 from pot
+Naribangs78: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7h Jc 6d Js]
+Seat 3: Naribangs78 (big blind) collected ($29.50)
+Seat 6: zimin10 (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #175182064151:  Hold'em Limit ($3/$6 USD) - 2017/09/04 0:11:24 ET
+Table 'Gaby' 6-max Seat #3 is the button
+Seat 3: Naribangs78 ($123.40 in chips)
+Seat 6: zimin10 ($72 in chips)
+Naribangs78: posts small blind $1
+zimin10: posts big blind $3
+*** HOLE CARDS ***
+Naribangs78: raises $3 to $6
+zimin10: calls $3
+*** FLOP *** [Ad 6c Ts]
+zimin10: checks
+Naribangs78: checks
+*** TURN *** [Ad 6c Ts] [7c]
+zimin10: checks
+yayaya joins the table at seat #1
+Naribangs78: bets $6
+zimin10: folds
+Uncalled bet ($6) returned to Naribangs78
+Naribangs78 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ad 6c Ts 7c]
+Seat 3: Naribangs78 (button) (small blind) collected ($11.76)
+Seat 6: zimin10 (big blind) folded on the Turn
+
+
+PokerStars Hand #175182467415:  Hold'em Limit ($3/$6 USD) - 2017/09/04 0:38:37 ET
+Table 'Gaby' 6-max Seat #1 is the button
+Seat 1: yayaya ($190.02 in chips)
+Seat 6: zimin10 ($203.28 in chips)
+yayaya: posts small blind $1
+Naribangs78: is sitting out
+zimin10: posts big blind $3
+*** HOLE CARDS ***
+yayaya: raises $3 to $6
+zimin10: raises $3 to $9
+Naribangs78 leaves the table
+yayaya: calls $3
+*** FLOP *** [3c 6s 7h]
+zimin10: bets $3
+yayaya: calls $3
+*** TURN *** [3c 6s 7h] [Th]
+zimin10: bets $6
+yayaya: calls $6
+*** RIVER *** [3c 6s 7h Th] [3h]
+zimin10: bets $6
+yayaya: raises $6 to $12
+zimin10: calls $6
+*** SHOW DOWN ***
+yayaya: shows [3d Kh] (three of a kind, Threes)
+zimin10: shows [9c 8c] (a straight, Six to Ten)
+zimin10 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [3c 6s 7h Th 3h]
+Seat 1: yayaya (button) (small blind) showed [3d Kh] and lost with three of a kind, Threes
+Seat 6: zimin10 (big blind) showed [9c 8c] and won ($59.50) with a straight, Six to Ten
+
+

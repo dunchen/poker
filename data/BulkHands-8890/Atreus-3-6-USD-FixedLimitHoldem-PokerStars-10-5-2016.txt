@@ -1,0 +1,64 @@
+PokerStars Hand #159495647121:  Hold'em Limit ($3/$6 USD) - 2016/10/05 1:31:05 ET
+Table 'Atreus' 6-max Seat #4 is the button
+Seat 4: Agrotait ($72 in chips)
+Seat 5: Scheubi88 ($120 in chips)
+Agrotait: posts small blind $1
+Scheubi88: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+Scheubi88: calls $3
+*** FLOP *** [9h 7h 9c]
+Scheubi88: checks
+Agrotait: bets $3
+Scheubi88: raises $3 to $6
+Agrotait: calls $3
+*** TURN *** [9h 7h 9c] [Ks]
+Scheubi88: bets $6
+Agrotait: raises $6 to $12
+Scheubi88: calls $6
+*** RIVER *** [9h 7h 9c Ks] [Th]
+Scheubi88: checks
+Agrotait: bets $6
+Scheubi88: raises $6 to $12
+Agrotait: folds
+Uncalled bet ($6) returned to Scheubi88
+Scheubi88 collected $59.50 from pot
+Scheubi88: doesn't show hand
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [9h 7h 9c Ks Th]
+Seat 4: Agrotait (button) (small blind) folded on the River
+Seat 5: Scheubi88 (big blind) collected ($59.50)
+
+
+PokerStars Hand #159495667181:  Hold'em Limit ($3/$6 USD) - 2016/10/05 1:32:28 ET
+Table 'Atreus' 6-max Seat #5 is the button
+Seat 4: Agrotait ($72 in chips)
+Seat 5: Scheubi88 ($149.50 in chips)
+Scheubi88: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+Scheubi88: raises $3 to $6
+Agrotait: raises $3 to $9
+Scheubi88: calls $3
+*** FLOP *** [5d 2h Qs]
+Agrotait: bets $3
+Scheubi88: calls $3
+*** TURN *** [5d 2h Qs] [3h]
+Agrotait: bets $6
+Scheubi88: calls $6
+*** RIVER *** [5d 2h Qs 3h] [Qc]
+Agrotait: bets $6
+Scheubi88: raises $6 to $12
+Agrotait: calls $6
+*** SHOW DOWN ***
+Scheubi88: shows [Th Tc] (two pair, Queens and Tens)
+Agrotait: mucks hand
+Scheubi88 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [5d 2h Qs 3h Qc]
+Seat 4: Agrotait (big blind) mucked
+Seat 5: Scheubi88 (button) (small blind) showed [Th Tc] and won ($59.50) with two pair, Queens and Tens
+
+

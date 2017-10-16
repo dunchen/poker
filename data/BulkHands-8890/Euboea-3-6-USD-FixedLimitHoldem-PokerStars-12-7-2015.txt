@@ -1,0 +1,30 @@
+PokerStars Hand #144995057758:  Hold'em Limit ($3/$6 USD) - 2015/12/07 18:21:38 ET
+Table 'Euboea' 6-max Seat #3 is the button
+Seat 3: ManuelSikora ($41.62 in chips)
+Seat 4: Karpik09 ($90 in chips)
+ManuelSikora: posts small blind $1
+Karpik09: posts big blind $3
+*** HOLE CARDS ***
+SashaYuvelir joins the table at seat #5
+ManuelSikora: calls $2
+Karpik09: checks
+*** FLOP *** [Jc 3c 7d]
+Karpik09: checks
+ManuelSikora: checks
+*** TURN *** [Jc 3c 7d] [Td]
+Karpik09: bets $6
+ManuelSikora: calls $6
+*** RIVER *** [Jc 3c 7d Td] [Qd]
+Karpik09: checks
+ManuelSikora: checks
+*** SHOW DOWN ***
+Karpik09: shows [3s 9d] (a pair of Threes)
+ManuelSikora: shows [Kc 3d] (a pair of Threes - King kicker)
+ManuelSikora collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Jc 3c 7d Td Qd]
+Seat 3: ManuelSikora (button) (small blind) showed [Kc 3d] and won ($17.64) with a pair of Threes
+Seat 4: Karpik09 (big blind) showed [3s 9d] and lost with a pair of Threes
+
+

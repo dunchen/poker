@@ -1,0 +1,65 @@
+PokerStars Hand #152128759363:  Hold'em Limit ($3/$6 USD) - 2016/04/19 1:19:54 ET
+Table 'Nauheima II' 6-max Seat #1 is the button
+Seat 1: MissEKAmouse ($221.50 in chips)
+Seat 4: health_bar ($87.55 in chips)
+MissEKAmouse: posts small blind $1
+health_bar: posts big blind $3
+*** HOLE CARDS ***
+MissEKAmouse: raises $3 to $6
+health_bar: calls $3
+*** FLOP *** [9h 4s 7c]
+health_bar: checks
+MissEKAmouse: bets $3
+health_bar: calls $3
+*** TURN *** [9h 4s 7c] [Jh]
+health_bar: checks
+MissEKAmouse: bets $6
+health_bar: calls $6
+*** RIVER *** [9h 4s 7c Jh] [3c]
+health_bar: checks
+MissEKAmouse: checks
+*** SHOW DOWN ***
+health_bar: shows [9s Ks] (a pair of Nines)
+MissEKAmouse: mucks hand
+health_bar collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9h 4s 7c Jh 3c]
+Seat 1: MissEKAmouse (button) (small blind) mucked
+Seat 4: health_bar (big blind) showed [9s Ks] and won ($29.50) with a pair of Nines
+
+
+PokerStars Hand #152128758143:  Hold'em Limit ($3/$6 USD) - 2016/04/19 1:19:49 ET
+Table 'Nauheima II' 6-max Seat #4 is the button
+Seat 1: MissEKAmouse ($220.50 in chips)
+Seat 4: health_bar ($88.55 in chips)
+health_bar: posts small blind $1
+MissEKAmouse: posts big blind $3
+*** HOLE CARDS ***
+health_bar: folds
+Uncalled bet ($2) returned to MissEKAmouse
+MissEKAmouse collected $2 from pot
+MissEKAmouse: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: MissEKAmouse (big blind) collected ($2)
+Seat 4: health_bar (button) (small blind) folded before Flop
+
+
+PokerStars Hand #152128765384:  Hold'em Limit ($3/$6 USD) - 2016/04/19 1:20:18 ET
+Table 'Nauheima II' 6-max Seat #4 is the button
+Seat 1: MissEKAmouse ($206.50 in chips)
+Seat 4: health_bar ($102.05 in chips)
+health_bar: posts small blind $1
+MissEKAmouse: posts big blind $3
+*** HOLE CARDS ***
+health_bar: folds
+Uncalled bet ($2) returned to MissEKAmouse
+MissEKAmouse collected $2 from pot
+MissEKAmouse: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: MissEKAmouse (big blind) collected ($2)
+Seat 4: health_bar (button) (small blind) folded before Flop
+
+

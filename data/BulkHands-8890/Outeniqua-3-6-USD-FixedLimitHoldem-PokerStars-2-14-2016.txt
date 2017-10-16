@@ -1,0 +1,82 @@
+PokerStars Hand #148818854203:  Hold'em Limit ($3/$6 USD) - 2016/02/14 18:49:17 ET
+Table 'Outeniqua' 6-max Seat #4 is the button
+Seat 4: Zubasa07 ($502.76 in chips)
+Seat 6: zugswang64 ($37 in chips)
+Zubasa07: posts small blind $1
+zugswang64: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+zugswang64: raises $3 to $9
+Zubasa07: calls $3
+*** FLOP *** [9s 2h 6d]
+zugswang64: bets $3
+Zubasa07: calls $3
+*** TURN *** [9s 2h 6d] [2c]
+zugswang64: bets $6
+Zubasa07: calls $6
+*** RIVER *** [9s 2h 6d 2c] [Qs]
+zugswang64: checks
+Zubasa07: bets $6
+zugswang64: calls $6
+*** SHOW DOWN ***
+Zubasa07: shows [4s 4c] (two pair, Fours and Deuces)
+zugswang64: mucks hand
+Zubasa07 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9s 2h 6d 2c Qs]
+Seat 4: Zubasa07 (button) (small blind) showed [4s 4c] and won ($47.50) with two pair, Fours and Deuces
+Seat 6: zugswang64 (big blind) mucked
+
+
+PokerStars Hand #148818888777:  Hold'em Limit ($3/$6 USD) - 2016/02/14 18:50:01 ET
+Table 'Outeniqua' 6-max Seat #6 is the button
+Seat 4: Zubasa07 ($526.26 in chips)
+Seat 6: zugswang64 ($13 in chips)
+zugswang64: posts small blind $1
+Zubasa07: posts big blind $3
+*** HOLE CARDS ***
+zugswang64: raises $3 to $6
+Zubasa07: calls $3
+*** FLOP *** [2h 7d 5s]
+Zubasa07: checks
+zugswang64: bets $3
+Zubasa07: folds
+Uncalled bet ($3) returned to zugswang64
+permafrost07 joins the table at seat #3
+zugswang64 collected $11.76 from pot
+zugswang64: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2h 7d 5s]
+Seat 4: Zubasa07 (big blind) folded on the Flop
+Seat 6: zugswang64 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #148818923068:  Hold'em Limit ($3/$6 USD) - 2016/02/14 18:50:45 ET
+Table 'Outeniqua' 6-max Seat #4 is the button
+Seat 4: Zubasa07 ($520.26 in chips)
+Seat 6: zugswang64 ($18.76 in chips)
+Zubasa07: posts small blind $1
+zugswang64: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+zugswang64: raises $3 to $9
+gracetime joins the table at seat #5
+Zubasa07: calls $3
+*** FLOP *** [Ah 2c 4h]
+zugswang64: bets $3
+Zubasa07: calls $3
+*** TURN *** [Ah 2c 4h] [5c]
+zugswang64: bets $6
+Zubasa07: folds
+Uncalled bet ($6) returned to zugswang64
+zugswang64 collected $23.52 from pot
+zugswang64: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Ah 2c 4h 5c]
+Seat 4: Zubasa07 (button) (small blind) folded on the Turn
+Seat 6: zugswang64 (big blind) collected ($23.52)
+
+

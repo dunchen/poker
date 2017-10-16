@@ -1,0 +1,130 @@
+PokerStars Hand #176218677651:  Hold'em Limit ($3/$6 USD) - 2017/09/28 5:21:46 ET
+Table 'Leonce' 6-max Seat #1 is the button
+Seat 1: BugerDV ($72 in chips)
+Seat 3: NinJahris ($42 in chips)
+BugerDV: posts small blind $1
+NinJahris: posts big blind $3
+*** HOLE CARDS ***
+BugerDV: raises $3 to $6
+NinJahris: raises $3 to $9
+BugerDV: calls $3
+*** FLOP *** [7c 7d Jh]
+NinJahris: bets $3
+BugerDV: folds
+Uncalled bet ($3) returned to NinJahris
+NinJahris collected $17.64 from pot
+NinJahris: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7c 7d Jh]
+Seat 1: BugerDV (button) (small blind) folded on the Flop
+Seat 3: NinJahris (big blind) collected ($17.64)
+
+
+PokerStars Hand #176218690902:  Hold'em Limit ($3/$6 USD) - 2017/09/28 5:22:26 ET
+Table 'Leonce' 6-max Seat #3 is the button
+Seat 1: BugerDV ($42 in chips)
+Seat 3: NinJahris ($71.14 in chips)
+NinJahris: posts small blind $1
+BugerDV: posts big blind $3
+*** HOLE CARDS ***
+NinJahris: raises $3 to $6
+BugerDV: raises $3 to $9
+NinJahris: calls $3
+*** FLOP *** [3d 3c 6s]
+BugerDV: bets $3
+NinJahris: raises $3 to $6
+BugerDV: calls $3
+*** TURN *** [3d 3c 6s] [Td]
+BugerDV: checks
+NinJahris: bets $6
+BugerDV: calls $6
+*** RIVER *** [3d 3c 6s Td] [Kd]
+BugerDV: bets $6
+NinJahris: raises $6 to $12
+BugerDV: calls $6
+*** SHOW DOWN ***
+NinJahris: shows [6d 8d] (a flush, King high)
+BugerDV: mucks hand
+NinJahris collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [3d 3c 6s Td Kd]
+Seat 1: BugerDV (big blind) mucked
+Seat 3: NinJahris (button) (small blind) showed [6d 8d] and won ($65.50) with a flush, King high
+
+
+PokerStars Hand #176218684698:  Hold'em Limit ($3/$6 USD) - 2017/09/28 5:22:08 ET
+Table 'Leonce' 6-max Seat #1 is the button
+Seat 1: BugerDV ($60 in chips)
+Seat 3: NinJahris ($53.64 in chips)
+BugerDV: posts small blind $1
+NinJahris: posts big blind $3
+*** HOLE CARDS ***
+BugerDV: raises $3 to $6
+NinJahris: calls $3
+*** FLOP *** [3d 6h 6s]
+NinJahris: checks
+BugerDV: bets $3
+NinJahris: raises $3 to $6
+BugerDV: calls $3
+*** TURN *** [3d 6h 6s] [Ac]
+NinJahris: bets $6
+BugerDV: calls $6
+*** RIVER *** [3d 6h 6s Ac] [4h]
+NinJahris: bets $6
+BugerDV: folds
+Uncalled bet ($6) returned to NinJahris
+NinJahris collected $35.50 from pot
+NinJahris: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [3d 6h 6s Ac 4h]
+Seat 1: BugerDV (button) (small blind) folded on the River
+Seat 3: NinJahris (big blind) collected ($35.50)
+
+
+PokerStars Hand #176218682590:  Hold'em Limit ($3/$6 USD) - 2017/09/28 5:22:01 ET
+Table 'Leonce' 6-max Seat #3 is the button
+Seat 1: BugerDV ($63 in chips)
+Seat 3: NinJahris ($50.64 in chips)
+NinJahris: posts small blind $1
+BugerDV: posts big blind $3
+*** HOLE CARDS ***
+NinJahris: raises $3 to $6
+BugerDV: folds
+Uncalled bet ($3) returned to NinJahris
+NinJahris collected $6 from pot
+NinJahris: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: BugerDV (big blind) folded before Flop
+Seat 3: NinJahris (button) (small blind) collected ($6)
+
+
+PokerStars Hand #176218698926:  Hold'em Limit ($3/$6 USD) - 2017/09/28 5:22:50 ET
+Table 'Leonce' 6-max Seat #1 is the button
+Seat 1: BugerDV ($9 in chips)
+Seat 3: NinJahris ($103.64 in chips)
+BugerDV: posts small blind $1
+NinJahris: posts big blind $3
+*** HOLE CARDS ***
+BugerDV: raises $3 to $6
+NinJahris: calls $3
+*** FLOP *** [Qd Th Kc]
+NinJahris: bets $3
+BugerDV: calls $3 and is all-in
+*** TURN *** [Qd Th Kc] [3s]
+*** RIVER *** [Qd Th Kc 3s] [6s]
+*** SHOW DOWN ***
+NinJahris: shows [Td 6h] (two pair, Tens and Sixes)
+BugerDV: shows [4c 7s] (high card King)
+NinJahris collected $17.64 from pot
+NinJahris leaves the table
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qd Th Kc 3s 6s]
+Seat 1: BugerDV (button) (small blind) showed [4c 7s] and lost with high card King
+Seat 3: NinJahris (big blind) showed [Td 6h] and won ($17.64) with two pair, Tens and Sixes
+
+

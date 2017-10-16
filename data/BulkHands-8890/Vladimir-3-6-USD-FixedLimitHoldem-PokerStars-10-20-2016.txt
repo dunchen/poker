@@ -1,0 +1,82 @@
+PokerStars Hand #160208709201:  Hold'em Limit ($3/$6 USD) - 2016/10/20 17:28:48 ET
+Table 'Vladimir' 6-max Seat #1 is the button
+Seat 1: Vezunchik_61 ($30 in chips)
+Seat 4: assitoni ($72 in chips)
+Vezunchik_61: posts small blind $1
+assitoni: posts big blind $3
+*** HOLE CARDS ***
+Vezunchik_61: calls $2
+assitoni: checks
+*** FLOP *** [Ac As 8d]
+assitoni: checks
+Vezunchik_61: bets $3
+krytalex joins the table at seat #2
+assitoni: calls $3
+*** TURN *** [Ac As 8d] [Qs]
+assitoni: checks
+Vezunchik_61: checks
+*** RIVER *** [Ac As 8d Qs] [Td]
+assitoni: checks
+Vezunchik_61: checks
+*** SHOW DOWN ***
+assitoni: shows [4d Ks] (a pair of Aces)
+Vezunchik_61: mucks hand
+assitoni collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ac As 8d Qs Td]
+Seat 1: Vezunchik_61 (button) (small blind) mucked
+Seat 4: assitoni (big blind) showed [4d Ks] and won ($11.76) with a pair of Aces
+
+
+PokerStars Hand #160208755785:  Hold'em Limit ($3/$6 USD) - 2016/10/20 17:29:36 ET
+Table 'Vladimir' 6-max Seat #2 is the button
+Seat 1: Vezunchik_61 ($28 in chips)
+Seat 2: krytalex ($117 in chips)
+krytalex: posts small blind $1
+assitoni: is sitting out
+Vezunchik_61: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt joins the table at seat #3
+krytalex: raises $3 to $6
+Vezunchik_61: raises $3 to $9
+assitoni leaves the table
+krytalex: calls $3
+*** FLOP *** [4d 3c Qc]
+Vezunchik_61: checks
+krytalex: checks
+*** TURN *** [4d 3c Qc] [Td]
+Vezunchik_61: bets $6
+krytalex: calls $6
+*** RIVER *** [4d 3c Qc Td] [9d]
+Vezunchik_61: bets $6
+krytalex: raises $6 to $12
+Vezunchik_61: calls $6
+*** SHOW DOWN ***
+krytalex: shows [7d 8d] (a flush, Ten high)
+Vezunchik_61: mucks hand
+krytalex collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [4d 3c Qc Td 9d]
+Seat 1: Vezunchik_61 (big blind) mucked
+Seat 2: krytalex (button) (small blind) showed [7d 8d] and won ($53.50) with a flush, Ten high
+
+
+PokerStars Hand #160208743195:  Hold'em Limit ($3/$6 USD) - 2016/10/20 17:29:23 ET
+Table 'Vladimir' 6-max Seat #4 is the button
+Seat 1: Vezunchik_61 ($24 in chips)
+Seat 4: assitoni ($77.76 in chips)
+assitoni: posts small blind $1
+Vezunchik_61: posts big blind $3
+*** HOLE CARDS ***
+assitoni: folds
+Uncalled bet ($2) returned to Vezunchik_61
+Vezunchik_61 collected $2 from pot
+Vezunchik_61: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Vezunchik_61 (big blind) collected ($2)
+Seat 4: assitoni (button) (small blind) folded before Flop
+
+

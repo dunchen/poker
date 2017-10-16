@@ -1,0 +1,33 @@
+PokerStars Hand #175950392257:  Hold'em Limit ($3/$6 USD) - 2017/09/21 18:01:00 ET
+Table 'Atami' 6-max Seat #3 is the button
+Seat 1: ToDaFelt ($99 in chips)
+Seat 3: sadamilli ($140.50 in chips)
+sadamilli: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+sadamilli: calls $2
+ToDaFelt: checks
+*** FLOP *** [6c 8d 5s]
+sadamilli said, "<3"
+ToDaFelt: bets $3
+sadamilli: raises $3 to $6
+ToDaFelt: calls $3
+*** TURN *** [6c 8d 5s] [6s]
+ToDaFelt: checks
+sadamilli: bets $6
+ToDaFelt: calls $6
+*** RIVER *** [6c 8d 5s 6s] [Tc]
+ToDaFelt: checks
+sadamilli: bets $6
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+sadamilli: shows [Qs 8c] (two pair, Eights and Sixes)
+ToDaFelt: mucks hand
+sadamilli collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [6c 8d 5s 6s Tc]
+Seat 1: ToDaFelt (big blind) mucked
+Seat 3: sadamilli (button) (small blind) showed [Qs 8c] and won ($41.50) with two pair, Eights and Sixes
+
+

@@ -1,0 +1,63 @@
+PokerStars Hand #147308566760:  Hold'em Limit ($3/$6 USD) - 2016/01/19 9:45:38 ET
+Table 'Aludra II' 2-max Seat #1 is the button
+Seat 1: Vaboss63 ($31 in chips)
+Seat 2: NIGHTyxa ($72 in chips)
+Vaboss63: posts small blind $1
+NIGHTyxa: posts big blind $3
+*** HOLE CARDS ***
+Vaboss63: calls $2
+NIGHTyxa: checks
+*** FLOP *** [8h 6d 5d]
+NIGHTyxa: bets $3
+Vaboss63: raises $3 to $6
+NIGHTyxa: calls $3
+*** TURN *** [8h 6d 5d] [2d]
+NIGHTyxa: checks
+Vaboss63: checks
+*** RIVER *** [8h 6d 5d 2d] [5c]
+NIGHTyxa: checks
+Vaboss63: checks
+*** SHOW DOWN ***
+NIGHTyxa: shows [4c 8s] (two pair, Eights and Fives)
+Vaboss63: mucks hand
+NIGHTyxa collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8h 6d 5d 2d 5c]
+Seat 1: Vaboss63 (button) (small blind) mucked
+Seat 2: NIGHTyxa (big blind) showed [4c 8s] and won ($17.64) with two pair, Eights and Fives
+
+
+PokerStars Hand #147308578889:  Hold'em Limit ($3/$6 USD) - 2016/01/19 9:45:54 ET
+Table 'Aludra II' 2-max Seat #2 is the button
+Seat 1: Vaboss63 ($22 in chips)
+Seat 2: NIGHTyxa ($80.64 in chips)
+NIGHTyxa: posts small blind $1
+Vaboss63: posts big blind $3
+*** HOLE CARDS ***
+NIGHTyxa: raises $3 to $6
+Vaboss63: calls $3
+*** FLOP *** [4s Ks Td]
+Vaboss63: checks
+NIGHTyxa: bets $3
+Vaboss63: calls $3
+*** TURN *** [4s Ks Td] [2d]
+Vaboss63: checks
+NIGHTyxa: bets $6
+Vaboss63: calls $6
+*** RIVER *** [4s Ks Td 2d] [Ac]
+Vaboss63: bets $6
+NIGHTyxa: raises $6 to $12
+Vaboss63: calls $1 and is all-in
+Uncalled bet ($5) returned to NIGHTyxa
+*** SHOW DOWN ***
+NIGHTyxa: shows [Kh Ah] (two pair, Aces and Kings)
+Vaboss63: shows [3c As] (a pair of Aces)
+NIGHTyxa collected $43.50 from pot
+*** SUMMARY ***
+Total pot $44 | Rake $0.50
+Board [4s Ks Td 2d Ac]
+Seat 1: Vaboss63 (big blind) showed [3c As] and lost with a pair of Aces
+Seat 2: NIGHTyxa (button) (small blind) showed [Kh Ah] and won ($43.50) with two pair, Aces and Kings
+
+

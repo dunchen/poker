@@ -1,0 +1,84 @@
+PokerStars Hand #149163445192:  Hold'em Limit ($3/$6 USD) - 2016/02/21 4:42:30 ET
+Table 'Ilsebill II' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 3: kulinichvm ($30 in chips)
+VolkovDmitri: posts small blind $1
+kulinichvm: posts big blind $3
+*** HOLE CARDS ***
+Hadart joins the table at seat #5
+VolkovDmitri: raises $3 to $6
+kulinichvm: calls $3
+*** FLOP *** [3h 3s 3d]
+kulinichvm: checks
+VolkovDmitri: bets $3
+kulinichvm: calls $3
+*** TURN *** [3h 3s 3d] [9s]
+kulinichvm: checks
+VolkovDmitri: bets $6
+kulinichvm: raises $6 to $12
+VolkovDmitri: calls $6
+*** RIVER *** [3h 3s 3d 9s] [6d]
+kulinichvm: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+kulinichvm: shows [Js 9d] (a full house, Threes full of Nines)
+VolkovDmitri: mucks hand
+kulinichvm collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [3h 3s 3d 9s 6d]
+Seat 1: VolkovDmitri (button) (small blind) mucked
+Seat 3: kulinichvm (big blind) showed [Js 9d] and won ($53.50) with a full house, Threes full of Nines
+
+
+PokerStars Hand #149163588254:  Hold'em Limit ($3/$6 USD) - 2016/02/21 4:47:07 ET
+Table 'Ilsebill II' 6-max Seat #4 is the button
+Seat 4: RockKillerTY ($120 in chips)
+Seat 5: Hadart ($146.24 in chips)
+kulinichvm will be allowed to play after the button
+RockKillerTY: posts small blind $1
+Hadart: posts big blind $3
+*** HOLE CARDS ***
+RockKillerTY: folds
+Uncalled bet ($2) returned to Hadart
+Hadart collected $2 from pot
+Hadart: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: RockKillerTY (button) (small blind) folded before Flop
+Seat 5: Hadart (big blind) collected ($2)
+
+
+PokerStars Hand #149163647738:  Hold'em Limit ($3/$6 USD) - 2016/02/21 4:49:01 ET
+Table 'Ilsebill II' 6-max Seat #3 is the button
+Seat 3: kulinichvm ($23.46 in chips)
+Seat 5: Hadart ($136.85 in chips)
+kulinichvm: posts small blind $1
+RockKillerTY: is sitting out
+Hadart: posts big blind $3
+*** HOLE CARDS ***
+kulinichvm: raises $3 to $6
+Hadart: calls $3
+*** FLOP *** [2s 6c 8c]
+Hadart: checks
+kulinichvm: bets $3
+Hadart: raises $3 to $6
+kulinichvm: calls $3
+*** TURN *** [2s 6c 8c] [3c]
+Hadart: bets $6
+kulinichvm: calls $6
+*** RIVER *** [2s 6c 8c 3c] [4c]
+Hadart: checks
+kulinichvm: bets $5.46 and is all-in
+Hadart: calls $5.46
+*** SHOW DOWN ***
+kulinichvm: shows [7s As] (high card Ace)
+Hadart: shows [Kh 6h] (a pair of Sixes)
+Hadart collected $46.42 from pot
+*** SUMMARY ***
+Total pot $46.92 | Rake $0.50
+Board [2s 6c 8c 3c 4c]
+Seat 3: kulinichvm (button) (small blind) showed [7s As] and lost with high card Ace
+Seat 5: Hadart (big blind) showed [Kh 6h] and won ($46.42) with a pair of Sixes
+
+

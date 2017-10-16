@@ -1,0 +1,84 @@
+PokerStars Hand #172983377471:  Hold'em Limit ($3/$6 USD) - 2017/07/13 13:17:41 ET
+Table 'Elephenor II' 6-max Seat #3 is the button
+Seat 3: sim5sim5 ($72 in chips)
+Seat 4: Auge72 ($131.52 in chips)
+sim5sim5: posts small blind $1
+Auge72: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+Auge72: calls $3
+*** FLOP *** [9h Qs 4s]
+Auge72: checks
+sim5sim5: bets $3
+Auge72: calls $3
+*** TURN *** [9h Qs 4s] [Jc]
+Auge72: checks
+sim5sim5: bets $6
+Auge72: calls $6
+*** RIVER *** [9h Qs 4s Jc] [Qd]
+Auge72: checks
+sim5sim5: bets $6
+Auge72: calls $6
+*** SHOW DOWN ***
+sim5sim5: shows [7d Js] (two pair, Queens and Jacks)
+Auge72: shows [2c Qc] (three of a kind, Queens)
+Auge72 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9h Qs 4s Jc Qd]
+Seat 3: sim5sim5 (button) (small blind) showed [7d Js] and lost with two pair, Queens and Jacks
+Seat 4: Auge72 (big blind) showed [2c Qc] and won ($41.50) with three of a kind, Queens
+
+
+PokerStars Hand #172983365624:  Hold'em Limit ($3/$6 USD) - 2017/07/13 13:17:25 ET
+Table 'Elephenor II' 6-max Seat #4 is the button
+Seat 3: sim5sim5 ($72 in chips)
+Seat 4: Auge72 ($125.76 in chips)
+Auge72: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+Auge72: raises $3 to $6
+sim5sim5: calls $3
+*** FLOP *** [9c 2d Jh]
+sim5sim5: checks
+vestimokrec joins the table at seat #5
+Auge72: checks
+*** TURN *** [9c 2d Jh] [4h]
+sim5sim5: checks
+Auge72: checks
+*** RIVER *** [9c 2d Jh 4h] [2s]
+sim5sim5: checks
+Auge72: checks
+*** SHOW DOWN ***
+sim5sim5: shows [8s Qs] (a pair of Deuces)
+Auge72: shows [Ad Qh] (a pair of Deuces - Ace kicker)
+Auge72 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9c 2d Jh 4h 2s]
+Seat 3: sim5sim5 (big blind) showed [8s Qs] and lost with a pair of Deuces
+Seat 4: Auge72 (button) (small blind) showed [Ad Qh] and won ($11.76) with a pair of Deuces
+
+
+PokerStars Hand #172983354977:  Hold'em Limit ($3/$6 USD) - 2017/07/13 13:17:10 ET
+Table 'Elephenor II' 6-max Seat #3 is the button
+Seat 3: sim5sim5 ($72 in chips)
+Seat 4: Auge72 ($120 in chips)
+sim5sim5: posts small blind $1
+Auge72: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+Auge72: calls $3
+*** FLOP *** [Kd 8d 9c]
+Auge72: bets $3
+sim5sim5: folds
+Uncalled bet ($3) returned to Auge72
+Auge72 collected $11.76 from pot
+Auge72: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kd 8d 9c]
+Seat 3: sim5sim5 (button) (small blind) folded on the Flop
+Seat 4: Auge72 (big blind) collected ($11.76)
+
+

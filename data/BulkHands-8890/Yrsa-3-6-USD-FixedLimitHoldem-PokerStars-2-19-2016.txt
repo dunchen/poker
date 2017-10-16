@@ -1,0 +1,63 @@
+PokerStars Hand #149088512769:  Hold'em Limit ($3/$6 USD) - 2016/02/19 17:54:10 ET
+Table 'Yrsa' 10-max Seat #9 is the button
+Seat 8: Chessnok ($142.20 in chips)
+Seat 9: MissEKAmouse ($92.08 in chips)
+MissEKAmouse: posts small blind $1
+SirRomanov: is sitting out
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+SirRomanov leaves the table
+MissEKAmouse: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [8h Kc 3s]
+Chessnok: checks
+MissEKAmouse: checks
+*** TURN *** [8h Kc 3s] [Ks]
+Chessnok: bets $6
+MissEKAmouse: calls $6
+*** RIVER *** [8h Kc 3s Ks] [3d]
+Chessnok: checks
+MissEKAmouse: checks
+*** SHOW DOWN ***
+Chessnok: shows [9d 7s] (two pair, Kings and Threes)
+MissEKAmouse: shows [As Ts] (two pair, Kings and Threes - Ace kicker)
+MissEKAmouse collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [8h Kc 3s Ks 3d]
+Seat 8: Chessnok (big blind) showed [9d 7s] and lost with two pair, Kings and Threes
+Seat 9: MissEKAmouse (button) (small blind) showed [As Ts] and won ($23.52) with two pair, Kings and Threes
+
+
+PokerStars Hand #149088533895:  Hold'em Limit ($3/$6 USD) - 2016/02/19 17:54:34 ET
+Table 'Yrsa' 10-max Seat #8 is the button
+Seat 8: Chessnok ($130.20 in chips)
+Seat 9: MissEKAmouse ($120 in chips)
+Chessnok: posts small blind $1
+MissEKAmouse: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+MissEKAmouse: calls $3
+*** FLOP *** [3h Ac Qd]
+MissEKAmouse: checks
+Chessnok: bets $3
+MissEKAmouse: calls $3
+*** TURN *** [3h Ac Qd] [Kh]
+MissEKAmouse: checks
+Chessnok: bets $6
+MissEKAmouse: calls $6
+*** RIVER *** [3h Ac Qd Kh] [6d]
+MissEKAmouse: bets $6
+Chessnok: raises $6 to $12
+MissEKAmouse: calls $6
+*** SHOW DOWN ***
+Chessnok: shows [Ah Th] (a pair of Aces)
+MissEKAmouse: shows [6c Kc] (two pair, Kings and Sixes)
+MissEKAmouse collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [3h Ac Qd Kh 6d]
+Seat 8: Chessnok (button) (small blind) showed [Ah Th] and lost with a pair of Aces
+Seat 9: MissEKAmouse (big blind) showed [6c Kc] and won ($53.50) with two pair, Kings and Sixes
+
+

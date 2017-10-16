@@ -1,0 +1,424 @@
+PokerStars Hand #161222140447:  Hold'em Limit ($3/$6 USD) - 2016/11/11 0:39:30 ET
+Table 'Orion' 6-max Seat #4 is the button
+Seat 2: Zooshark ($114 in chips)
+Seat 4: VolkovDmitri ($125.76 in chips)
+VolkovDmitri: posts small blind $1
+Zooshark: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Zooshark: raises $3 to $9
+jackRizzar joins the table at seat #3
+VolkovDmitri: calls $3
+*** FLOP *** [4c 4h 8h]
+Zooshark: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [4c 4h 8h] [5h]
+Zooshark: bets $6
+VolkovDmitri: raises $6 to $12
+Zooshark: calls $6
+*** RIVER *** [4c 4h 8h 5h] [6c]
+Zooshark: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to Zooshark
+Zooshark collected $47.50 from pot
+Zooshark: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4c 4h 8h 5h 6c]
+Seat 2: Zooshark (big blind) collected ($47.50)
+Seat 4: VolkovDmitri (button) (small blind) folded on the River
+
+
+PokerStars Hand #161222942919:  Hold'em Limit ($3/$6 USD) - 2016/11/11 1:29:43 ET
+Table 'Orion' 6-max Seat #3 is the button
+Seat 3: jackRizzar ($223.27 in chips)
+Seat 4: VolkovDmitri ($172.87 in chips)
+jackRizzar: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+jackRizzar: raises $3 to $6
+VolkovDmitri: folds
+Uncalled bet ($3) returned to jackRizzar
+jackRizzar collected $6 from pot
+jackRizzar: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: jackRizzar (button) (small blind) collected ($6)
+Seat 4: VolkovDmitri (big blind) folded before Flop
+
+
+PokerStars Hand #161223771198:  Hold'em Limit ($3/$6 USD) - 2016/11/11 2:20:57 ET
+Table 'Orion' 6-max Seat #2 is the button
+Seat 2: Zooshark ($120 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+Zooshark: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Zooshark: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [4s Jh Ks]
+VolkovDmitri: checks
+Zooshark: checks
+*** TURN *** [4s Jh Ks] [9c]
+VolkovDmitri: bets $6
+Zooshark: raises $6 to $12
+VolkovDmitri: calls $6
+*** RIVER *** [4s Jh Ks 9c] [Tc]
+VolkovDmitri: checks
+Zooshark: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+Zooshark: shows [Td 2d] (a pair of Tens)
+VolkovDmitri: shows [9s Kd] (two pair, Kings and Nines)
+VolkovDmitri collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4s Jh Ks 9c Tc]
+Seat 2: Zooshark (button) (small blind) showed [Td 2d] and lost with a pair of Tens
+Seat 4: VolkovDmitri (big blind) showed [9s Kd] and won ($47.50) with two pair, Kings and Nines
+
+
+PokerStars Hand #161223784799:  Hold'em Limit ($3/$6 USD) - 2016/11/11 2:21:45 ET
+Table 'Orion' 6-max Seat #4 is the button
+Seat 2: Zooshark ($96 in chips)
+Seat 4: VolkovDmitri ($143.50 in chips)
+VolkovDmitri: posts small blind $1
+Zooshark: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Zooshark: calls $3
+*** FLOP *** [Qs 5s 2c]
+Zooshark: checks
+VolkovDmitri: bets $3
+Zooshark: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+Zooshark: calls $3
+*** TURN *** [Qs 5s 2c] [6d]
+Zooshark: checks
+VolkovDmitri: bets $6
+Zooshark: calls $6
+*** RIVER *** [Qs 5s 2c 6d] [Ac]
+Zooshark: checks
+VolkovDmitri: bets $6
+Zooshark: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Qd 5d] (two pair, Queens and Fives)
+Zooshark: mucks hand
+VolkovDmitri collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Qs 5s 2c 6d Ac]
+Seat 2: Zooshark (big blind) mucked
+Seat 4: VolkovDmitri (button) (small blind) showed [Qd 5d] and won ($53.50) with two pair, Queens and Fives
+
+
+PokerStars Hand #161223808169:  Hold'em Limit ($3/$6 USD) - 2016/11/11 2:23:09 ET
+Table 'Orion' 6-max Seat #4 is the button
+Seat 2: Zooshark ($60 in chips)
+Seat 4: VolkovDmitri ($178.64 in chips)
+VolkovDmitri: posts small blind $1
+Zooshark: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Zooshark: calls $3
+*** FLOP *** [2c 6h 6c]
+Zooshark: bets $3
+MMM 22666 joins the table at seat #5
+VolkovDmitri: calls $3
+*** TURN *** [2c 6h 6c] [Qs]
+Zooshark: checks
+VolkovDmitri: checks
+*** RIVER *** [2c 6h 6c Qs] [4s]
+Zooshark: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+Zooshark: shows [8c 4c] (two pair, Sixes and Fours)
+VolkovDmitri: shows [4h Kd] (two pair, Sixes and Fours - King kicker)
+VolkovDmitri collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2c 6h 6c Qs 4s]
+Seat 2: Zooshark (big blind) showed [8c 4c] and lost with two pair, Sixes and Fours
+Seat 4: VolkovDmitri (button) (small blind) showed [4h Kd] and won ($29.50) with two pair, Sixes and Fours
+
+
+PokerStars Hand #161223816484:  Hold'em Limit ($3/$6 USD) - 2016/11/11 2:23:38 ET
+Table 'Orion' 6-max Seat #2 is the button
+Seat 2: Zooshark ($45 in chips)
+Seat 4: VolkovDmitri ($193.14 in chips)
+Zooshark: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Zooshark: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: Zooshark (button) (small blind) folded before Flop
+Seat 4: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #161223802452:  Hold'em Limit ($3/$6 USD) - 2016/11/11 2:22:48 ET
+Table 'Orion' 6-max Seat #2 is the button
+Seat 2: Zooshark ($69 in chips)
+Seat 4: VolkovDmitri ($170 in chips)
+Zooshark: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Zooshark: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [4d 6d 7c]
+VolkovDmitri: bets $3
+Zooshark: calls $3
+*** TURN *** [4d 6d 7c] [6h]
+VolkovDmitri: bets $6
+Zooshark: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $17.64 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4d 6d 7c 6h]
+Seat 2: Zooshark (button) (small blind) folded on the Turn
+Seat 4: VolkovDmitri (big blind) collected ($17.64)
+
+
+PokerStars Hand #161223871063:  Hold'em Limit ($3/$6 USD) - 2016/11/11 2:26:55 ET
+Table 'Orion' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($169.87 in chips)
+Seat 5: MMM 22666 ($102.87 in chips)
+VolkovDmitri: posts small blind $1
+MMM 22666: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+MMM 22666: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 4: VolkovDmitri (button) (small blind) collected ($6)
+Seat 5: MMM 22666 (big blind) folded before Flop
+
+
+PokerStars Hand #161223861591:  Hold'em Limit ($3/$6 USD) - 2016/11/11 2:26:21 ET
+Table 'Orion' 6-max Seat #5 is the button
+Seat 4: VolkovDmitri ($175.87 in chips)
+Seat 5: MMM 22666 ($97.11 in chips)
+MMM 22666: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+MMM 22666: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Ad Td 9d]
+VolkovDmitri: checks
+MMM 22666: bets $3
+VolkovDmitri: folds
+Uncalled bet ($3) returned to MMM 22666
+MMM 22666 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ad Td 9d]
+Seat 4: VolkovDmitri (big blind) folded on the Flop
+Seat 5: MMM 22666 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #161223872868:  Hold'em Limit ($3/$6 USD) - 2016/11/11 2:27:02 ET
+Table 'Orion' 6-max Seat #5 is the button
+Seat 4: VolkovDmitri ($172.87 in chips)
+Seat 5: MMM 22666 ($99.87 in chips)
+MMM 22666: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+MMM 22666: calls $2
+VolkovDmitri: checks
+*** FLOP *** [As 9s Kh]
+VolkovDmitri: checks
+MMM 22666: bets $3
+VolkovDmitri: folds
+Uncalled bet ($3) returned to MMM 22666
+MMM 22666 collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [As 9s Kh]
+Seat 4: VolkovDmitri (big blind) folded on the Flop
+Seat 5: MMM 22666 (button) (small blind) collected ($5.88)
+
+
+PokerStars Hand #161224237769:  Hold'em Limit ($3/$6 USD) - 2016/11/11 2:48:21 ET
+Table 'Orion' 6-max Seat #3 is the button
+Seat 3: gashkag ($28 in chips)
+Seat 4: VolkovDmitri ($123 in chips)
+gashkag: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+gashkag: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: gashkag (button) (small blind) folded before Flop
+Seat 4: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #161224232900:  Hold'em Limit ($3/$6 USD) - 2016/11/11 2:48:05 ET
+Table 'Orion' 6-max Seat #4 is the button
+Seat 3: gashkag ($31 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+gashkag: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+gashkag: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: gashkag (big blind) folded before Flop
+Seat 4: VolkovDmitri (button) (small blind) collected ($6)
+
+
+PokerStars Hand #161224239660:  Hold'em Limit ($3/$6 USD) - 2016/11/11 2:48:28 ET
+Table 'Orion' 6-max Seat #4 is the button
+Seat 3: gashkag ($27 in chips)
+Seat 4: VolkovDmitri ($124 in chips)
+VolkovDmitri: posts small blind $1
+gashkag: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+gashkag: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [3s Jc 7s]
+gashkag: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [3s Jc 7s] [5d]
+gashkag: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [3s Jc 7s 5d] [Jd]
+gashkag: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+gashkag: shows [Ad 8s] (a pair of Jacks)
+VolkovDmitri: shows [4h 3c] (two pair, Jacks and Threes)
+VolkovDmitri collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3s Jc 7s 5d Jd]
+Seat 3: gashkag (big blind) showed [Ad 8s] and lost with a pair of Jacks
+Seat 4: VolkovDmitri (button) (small blind) showed [4h 3c] and won ($47.50) with two pair, Jacks and Threes
+
+
+PokerStars Hand #161224251102:  Hold'em Limit ($3/$6 USD) - 2016/11/11 2:49:08 ET
+Table 'Orion' 6-max Seat #3 is the button
+Seat 3: gashkag ($3 in chips)
+Seat 4: VolkovDmitri ($147.50 in chips)
+gashkag: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+manly70 joins the table at seat #6
+gashkag: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: gashkag (button) (small blind) folded before Flop
+Seat 4: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #161228937499:  Hold'em Limit ($3/$6 USD) - 2016/11/11 6:21:38 ET
+Table 'Orion' 6-max Seat #6 is the button
+Seat 4: jackRizzar ($239 in chips)
+Seat 6: manly70 ($83.85 in chips)
+manly70: posts small blind $1
+kolaz03: is sitting out
+Zeeon: is sitting out
+jackRizzar: posts big blind $3
+*** HOLE CARDS ***
+manly70: folds
+Uncalled bet ($2) returned to jackRizzar
+kolaz03 leaves the table
+jackRizzar collected $2 from pot
+jackRizzar: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: jackRizzar (big blind) collected ($2)
+Seat 6: manly70 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #161228959536:  Hold'em Limit ($3/$6 USD) - 2016/11/11 6:22:26 ET
+Table 'Orion' 6-max Seat #6 is the button
+Seat 2: Zeeon ($546.12 in chips)
+Seat 6: manly70 ($91.49 in chips)
+manly70: posts small blind $1
+Zeeon: posts big blind $3
+*** HOLE CARDS ***
+manly70: folds
+Uncalled bet ($2) returned to Zeeon
+Zeeon collected $2 from pot
+Zeeon: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: Zeeon (big blind) collected ($2)
+Seat 6: manly70 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #161228941051:  Hold'em Limit ($3/$6 USD) - 2016/11/11 6:21:46 ET
+Table 'Orion' 6-max Seat #4 is the button
+Seat 4: jackRizzar ($240 in chips)
+Seat 6: manly70 ($82.85 in chips)
+jackRizzar: posts small blind $1
+manly70: posts big blind $3
+*** HOLE CARDS ***
+jackRizzar: raises $3 to $6
+manly70: calls $3
+*** FLOP *** [Kc 7c Ts]
+manly70: checks
+jackRizzar: bets $3
+manly70: calls $3
+*** TURN *** [Kc 7c Ts] [9h]
+manly70: checks
+jackRizzar: checks
+*** RIVER *** [Kc 7c Ts 9h] [6d]
+manly70: bets $6
+jackRizzar: folds
+Uncalled bet ($6) returned to manly70
+manly70 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kc 7c Ts 9h 6d]
+Seat 4: jackRizzar (button) (small blind) folded on the River
+Seat 6: manly70 (big blind) collected ($17.64)
+
+
+PokerStars Hand #161229141256:  Hold'em Limit ($3/$6 USD) - 2016/11/11 6:29:01 ET
+Table 'Orion' 6-max Seat #4 is the button
+Seat 4: jackRizzar ($197.99 in chips)
+Seat 6: manly70 ($98.33 in chips)
+jackRizzar: posts small blind $1
+manly70: posts big blind $3
+*** HOLE CARDS ***
+jackRizzar: raises $3 to $6
+manly70: calls $3
+*** FLOP *** [8d 7s Kd]
+manly70: checks
+jackRizzar: bets $3
+manly70: calls $3
+*** TURN *** [8d 7s Kd] [8h]
+manly70: checks
+jackRizzar: checks
+*** RIVER *** [8d 7s Kd 8h] [6h]
+manly70: bets $6
+jackRizzar: folds
+Uncalled bet ($6) returned to manly70
+manly70 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8d 7s Kd 8h 6h]
+Seat 4: jackRizzar (button) (small blind) folded on the River
+Seat 6: manly70 (big blind) collected ($17.64)
+
+

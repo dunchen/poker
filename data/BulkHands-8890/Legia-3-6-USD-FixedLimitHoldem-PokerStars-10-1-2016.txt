@@ -1,0 +1,65 @@
+PokerStars Hand #159343387039:  Hold'em Limit ($3/$6 USD) - 2016/10/01 15:45:10 ET
+Table 'Legia' 6-max Seat #1 is the button
+Seat 1: AzureCaper ($72 in chips)
+Seat 6: 19woody58 ($101.18 in chips)
+GoliafUa: is sitting out
+MilPopov joins the table at seat #2
+AzureCaper: posts small blind $1
+19woody58: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+19woody58: calls $3
+*** FLOP *** [3c 2d 7d]
+19woody58: checks
+AzureCaper: bets $3
+19woody58: calls $3
+*** TURN *** [3c 2d 7d] [Ad]
+19woody58: checks
+AzureCaper: bets $6
+19woody58: calls $6
+*** RIVER *** [3c 2d 7d Ad] [Qs]
+19woody58: checks
+AzureCaper: checks
+*** SHOW DOWN ***
+19woody58: shows [Kh Td] (high card Ace)
+AzureCaper: shows [5d Ac] (a pair of Aces)
+AzureCaper collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3c 2d 7d Ad Qs]
+Seat 1: AzureCaper (button) (small blind) showed [5d Ac] and won ($29.50) with a pair of Aces
+Seat 6: 19woody58 (big blind) showed [Kh Td] and lost with high card Ace
+
+
+PokerStars Hand #159343409515:  Hold'em Limit ($3/$6 USD) - 2016/10/01 15:45:39 ET
+Table 'Legia' 6-max Seat #6 is the button
+Seat 1: AzureCaper ($86.50 in chips)
+Seat 6: 19woody58 ($86.18 in chips)
+19woody58: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+19woody58: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [Ad Jh As]
+AzureCaper: checks
+19woody58: bets $3
+AzureCaper: calls $3
+*** TURN *** [Ad Jh As] [Qc]
+AzureCaper: checks
+19woody58: bets $6
+AzureCaper: calls $6
+*** RIVER *** [Ad Jh As Qc] [4d]
+AzureCaper: checks
+19woody58: bets $6
+AzureCaper: calls $6
+*** SHOW DOWN ***
+19woody58: shows [Th Jc] (two pair, Aces and Jacks)
+AzureCaper: shows [Jd Ks] (two pair, Aces and Jacks - King kicker)
+AzureCaper collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ad Jh As Qc 4d]
+Seat 1: AzureCaper (big blind) showed [Jd Ks] and won ($41.50) with two pair, Aces and Jacks
+Seat 6: 19woody58 (button) (small blind) showed [Th Jc] and lost with two pair, Aces and Jacks
+
+

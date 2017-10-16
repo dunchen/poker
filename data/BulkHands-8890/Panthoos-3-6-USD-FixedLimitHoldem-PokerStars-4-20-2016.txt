@@ -1,0 +1,34 @@
+PokerStars Hand #152186323018:  Hold'em Limit ($3/$6 USD) - 2016/04/20 9:08:44 ET
+Table 'Panthoos' 10-max Seat #1 is the button
+Seat 1: jguidera17 ($28.64 in chips)
+Seat 5: GoliafUa ($134.93 in chips)
+jguidera17: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+jguidera17: raises $3 to $6
+GoliafUa: calls $3
+*** FLOP *** [9s Ah Tc]
+GoliafUa: checks
+jguidera17: bets $3
+GoliafUa: raises $3 to $6
+jguidera17: raises $3 to $9
+GoliafUa: raises $3 to $12
+Betting is capped
+jguidera17: calls $3
+*** TURN *** [9s Ah Tc] [6d]
+GoliafUa: bets $6
+jguidera17: raises $4.64 to $10.64 and is all-in
+GoliafUa: calls $4.64
+*** RIVER *** [9s Ah Tc 6d] [Qs]
+*** SHOW DOWN ***
+GoliafUa: shows [Th 9h] (two pair, Tens and Nines)
+jguidera17: shows [7h Ac] (a pair of Aces)
+jguidera17 leaves the table
+GoliafUa collected $56.78 from pot
+*** SUMMARY ***
+Total pot $57.28 | Rake $0.50
+Board [9s Ah Tc 6d Qs]
+Seat 1: jguidera17 (button) (small blind) showed [7h Ac] and lost with a pair of Aces
+Seat 5: GoliafUa (big blind) showed [Th 9h] and won ($56.78) with two pair, Tens and Nines
+
+

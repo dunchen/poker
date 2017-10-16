@@ -1,0 +1,62 @@
+PokerStars Hand #147921047794:  Hold'em Limit ($3/$6 USD) - 2016/01/30 5:05:34 ET
+Table 'Haltia II' 2-max Seat #2 is the button
+Seat 1: RockKillerTY ($117.52 in chips)
+Seat 2: kairobs ($121.50 in chips)
+kairobs: posts small blind $1
+RockKillerTY: posts big blind $3
+*** HOLE CARDS ***
+kairobs: raises $3 to $6
+RockKillerTY: calls $3
+*** FLOP *** [Ts 4d Jc]
+RockKillerTY: checks
+kairobs: checks
+*** TURN *** [Ts 4d Jc] [Qs]
+RockKillerTY: checks
+kairobs: bets $6
+RockKillerTY: calls $6
+*** RIVER *** [Ts 4d Jc Qs] [Qd]
+RockKillerTY: bets $6
+kairobs: calls $6
+*** SHOW DOWN ***
+RockKillerTY: shows [Qc 3d] (three of a kind, Queens)
+kairobs: mucks hand
+RockKillerTY collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Ts 4d Jc Qs Qd]
+Seat 1: RockKillerTY (big blind) showed [Qc 3d] and won ($35.50) with three of a kind, Queens
+Seat 2: kairobs (button) (small blind) mucked
+
+
+PokerStars Hand #147921055398:  Hold'em Limit ($3/$6 USD) - 2016/01/30 5:05:49 ET
+Table 'Haltia II' 2-max Seat #1 is the button
+Seat 1: RockKillerTY ($135.02 in chips)
+Seat 2: kairobs ($103.50 in chips)
+RockKillerTY: posts small blind $1
+kairobs: posts big blind $3
+*** HOLE CARDS ***
+RockKillerTY: raises $3 to $6
+kairobs: calls $3
+*** FLOP *** [Th 2s Kc]
+kairobs: checks
+RockKillerTY: bets $3
+kairobs: calls $3
+*** TURN *** [Th 2s Kc] [3d]
+kairobs: checks
+RockKillerTY: bets $6
+kairobs: calls $6
+*** RIVER *** [Th 2s Kc 3d] [4c]
+kairobs: checks
+RockKillerTY: bets $6
+kairobs: calls $6
+*** SHOW DOWN ***
+RockKillerTY: shows [Kh 5h] (a pair of Kings)
+kairobs: mucks hand
+RockKillerTY collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Th 2s Kc 3d 4c]
+Seat 1: RockKillerTY (button) (small blind) showed [Kh 5h] and won ($41.50) with a pair of Kings
+Seat 2: kairobs (big blind) mucked
+
+

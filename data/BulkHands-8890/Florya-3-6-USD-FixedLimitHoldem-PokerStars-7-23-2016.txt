@@ -1,0 +1,91 @@
+PokerStars Hand #156351989195:  Hold'em Limit ($3/$6 USD) - 2016/07/23 16:08:01 ET
+Table 'Florya' 6-max Seat #4 is the button
+Seat 4: cipok ($30 in chips)
+Seat 5: GoliafUa ($120 in chips)
+cipok: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+cipok: raises $3 to $6
+GoliafUa: calls $3
+*** FLOP *** [7c Qc Kc]
+GoliafUa: checks
+cipok: bets $3
+GoliafUa: raises $3 to $6
+cipok: folds
+Uncalled bet ($3) returned to GoliafUa
+GoliafUa collected $17.64 from pot
+GoliafUa: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7c Qc Kc]
+Seat 4: cipok (button) (small blind) folded on the Flop
+Seat 5: GoliafUa (big blind) collected ($17.64)
+
+
+PokerStars Hand #156352003542:  Hold'em Limit ($3/$6 USD) - 2016/07/23 16:08:21 ET
+Table 'Florya' 6-max Seat #5 is the button
+Seat 4: cipok ($21 in chips)
+Seat 5: GoliafUa ($128.64 in chips)
+GoliafUa: posts small blind $1
+cipok: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa: raises $3 to $6
+cipok: calls $3
+*** FLOP *** [7d Kd 7s]
+cipok: checks
+GoliafUa: bets $3
+cipok: folds
+Uncalled bet ($3) returned to GoliafUa
+GoliafUa collected $11.76 from pot
+GoliafUa: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7d Kd 7s]
+Seat 4: cipok (big blind) folded on the Flop
+Seat 5: GoliafUa (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #156352012299:  Hold'em Limit ($3/$6 USD) - 2016/07/23 16:08:33 ET
+Table 'Florya' 6-max Seat #4 is the button
+Seat 4: cipok ($15 in chips)
+Seat 5: GoliafUa ($134.40 in chips)
+cipok: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+cipok: folds
+Uncalled bet ($2) returned to GoliafUa
+GoliafUa collected $2 from pot
+GoliafUa: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: cipok (button) (small blind) folded before Flop
+Seat 5: GoliafUa (big blind) collected ($2)
+
+
+PokerStars Hand #156352016418:  Hold'em Limit ($3/$6 USD) - 2016/07/23 16:08:39 ET
+Table 'Florya' 6-max Seat #5 is the button
+Seat 4: cipok ($14 in chips)
+Seat 5: GoliafUa ($135.40 in chips)
+GoliafUa: posts small blind $1
+cipok: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa: raises $3 to $6
+cipok: calls $3
+*** FLOP *** [Tc As 3s]
+cipok: bets $3
+GoliafUa: calls $3
+*** TURN *** [Tc As 3s] [7d]
+cipok: bets $5 and is all-in
+GoliafUa: calls $5
+*** RIVER *** [Tc As 3s 7d] [9c]
+*** SHOW DOWN ***
+cipok: shows [4c Jc] (high card Ace)
+GoliafUa: shows [Th 6c] (a pair of Tens)
+GoliafUa collected $27.50 from pot
+*** SUMMARY ***
+Total pot $28 | Rake $0.50
+Board [Tc As 3s 7d 9c]
+Seat 4: cipok (big blind) showed [4c Jc] and lost with high card Ace
+Seat 5: GoliafUa (button) (small blind) showed [Th 6c] and won ($27.50) with a pair of Tens
+
+

@@ -1,0 +1,33 @@
+PokerStars Hand #144870082521:  Hold'em Limit ($3/$6 USD) - 2015/12/05 13:51:52 ET
+Table 'Eurysaces' 10-max Seat #7 is the button
+Seat 6: vestimokrec ($135.38 in chips)
+Seat 7: korrnel ($143.53 in chips)
+korrnel: posts small blind $1
+MTails: is sitting out
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+korrnel: raises $3 to $6
+MTails leaves the table
+vestimokrec: calls $3
+*** FLOP *** [6c 2s Js]
+vestimokrec: checks
+korrnel: bets $3
+vestimokrec: raises $3 to $6
+korrnel: calls $3
+*** TURN *** [6c 2s Js] [Ac]
+vestimokrec: bets $6
+korrnel: calls $6
+*** RIVER *** [6c 2s Js Ac] [4d]
+vestimokrec: checks
+korrnel: checks
+*** SHOW DOWN ***
+vestimokrec: shows [7d 5d] (high card Ace)
+korrnel: shows [Ks 5c] (high card Ace - King kicker)
+korrnel collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6c 2s Js Ac 4d]
+Seat 6: vestimokrec (big blind) showed [7d 5d] and lost with high card Ace
+Seat 7: korrnel (button) (small blind) showed [Ks 5c] and won ($35.50) with high card Ace
+
+

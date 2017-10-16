@@ -1,0 +1,37 @@
+PokerStars Hand #162490884204:  Hold'em Limit ($3/$6 USD) - 2016/12/06 1:39:22 ET
+Table 'Spicer' 6-max Seat #6 is the button
+Seat 5: ToDaFelt ($103.07 in chips)
+Seat 6: RaisemyNut$ ($117 in chips)
+RaisemyNut$: posts small blind $1
+Krazy90: is sitting out
+B_loJkl: is sitting out
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+Krazy90 leaves the table
+RaisemyNut$: raises $3 to $6
+ToDaFelt: raises $3 to $9
+B_loJkl leaves the table
+RaisemyNut$: calls $3
+*** FLOP *** [3d 4d Tc]
+ToDaFelt: bets $3
+RaisemyNut$: raises $3 to $6
+ToDaFelt: calls $3
+*** TURN *** [3d 4d Tc] [9h]
+ToDaFelt: checks
+RaisemyNut$: bets $6
+ToDaFelt: calls $6
+*** RIVER *** [3d 4d Tc 9h] [4h]
+ToDaFelt: checks
+RaisemyNut$: bets $6
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+RaisemyNut$: shows [Ad 4s] (three of a kind, Fours)
+ToDaFelt: mucks hand
+RaisemyNut$ collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [3d 4d Tc 9h 4h]
+Seat 5: ToDaFelt (big blind) mucked
+Seat 6: RaisemyNut$ (button) (small blind) showed [Ad 4s] and won ($53.50) with three of a kind, Fours
+
+

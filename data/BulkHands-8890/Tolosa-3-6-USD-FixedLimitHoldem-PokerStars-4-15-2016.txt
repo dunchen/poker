@@ -1,0 +1,77 @@
+PokerStars Hand #151936007461:  Hold'em Limit ($3/$6 USD) - 2016/04/15 2:23:15 ET
+Table 'Tolosa' 6-max Seat #3 is the button
+Seat 3: indyrgent93 ($30 in chips)
+Seat 4: Agrotait ($72 in chips)
+indyrgent93: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+indyrgent93: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [4h 2d 6s]
+Agrotait: checks
+indyrgent93: bets $3
+Agrotait: calls $3
+*** TURN *** [4h 2d 6s] [Tc]
+Agrotait: checks
+indyrgent93: bets $6
+Agrotait: calls $6
+*** RIVER *** [4h 2d 6s Tc] [Kd]
+Agrotait: checks
+indyrgent93: checks
+*** SHOW DOWN ***
+Agrotait: shows [5s Qd] (high card King)
+indyrgent93: shows [Ac 7d] (high card Ace)
+indyrgent93 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4h 2d 6s Tc Kd]
+Seat 3: indyrgent93 (button) (small blind) showed [Ac 7d] and won ($29.50) with high card Ace
+Seat 4: Agrotait (big blind) showed [5s Qd] and lost with high card King
+
+
+PokerStars Hand #151936023415:  Hold'em Limit ($3/$6 USD) - 2016/04/15 2:24:14 ET
+Table 'Tolosa' 6-max Seat #3 is the button
+Seat 3: indyrgent93 ($53.14 in chips)
+Seat 4: Agrotait ($63 in chips)
+indyrgent93: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+indyrgent93: folds
+Uncalled bet ($2) returned to Agrotait
+indyrgent93 leaves the table
+Agrotait collected $2 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: indyrgent93 (button) (small blind) folded before Flop
+Seat 4: Agrotait (big blind) collected ($2)
+
+
+PokerStars Hand #151936017511:  Hold'em Limit ($3/$6 USD) - 2016/04/15 2:23:52 ET
+Table 'Tolosa' 6-max Seat #4 is the button
+Seat 3: indyrgent93 ($44.50 in chips)
+Seat 4: Agrotait ($72 in chips)
+Agrotait: posts small blind $1
+indyrgent93: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+indyrgent93: calls $3
+*** FLOP *** [Qs 6h 3s]
+indyrgent93: checks
+Agrotait: bets $3
+indyrgent93: calls $3
+*** TURN *** [Qs 6h 3s] [9c]
+indyrgent93: checks
+Agrotait: checks
+*** RIVER *** [Qs 6h 3s 9c] [Td]
+indyrgent93: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to indyrgent93
+indyrgent93 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qs 6h 3s 9c Td]
+Seat 3: indyrgent93 (big blind) collected ($17.64)
+Seat 4: Agrotait (button) (small blind) folded on the River
+
+

@@ -1,0 +1,27 @@
+PokerStars Hand #161276568563:  Hold'em Limit ($3/$6 USD) - 2016/11/12 5:36:38 ET
+Table 'Carolina' 6-max Seat #4 is the button
+Seat 1: Pipimoni ($111 in chips)
+Seat 4: MTails ($128.64 in chips)
+MTails: posts small blind $1
+Pipimoni: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+Pipimoni: calls $3
+*** FLOP *** [Th 4h 4d]
+Pipimoni: bets $3
+MTails: calls $3
+*** TURN *** [Th 4h 4d] [7h]
+Pipimoni: bets $6
+MTails: calls $6
+*** RIVER *** [Th 4h 4d 7h] [2d]
+Pipimoni: bets $6
+MTails: folds
+Uncalled bet ($6) returned to Pipimoni
+Pipimoni collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Th 4h 4d 7h 2d]
+Seat 1: Pipimoni (big blind) collected ($29.50)
+Seat 4: MTails (button) (small blind) folded on the River
+
+

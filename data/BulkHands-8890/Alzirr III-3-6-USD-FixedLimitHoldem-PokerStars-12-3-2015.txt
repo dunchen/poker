@@ -1,0 +1,35 @@
+PokerStars Hand #144759403618:  Hold'em Limit ($3/$6 USD) - 2015/12/03 11:05:49 ET
+Table 'Alzirr III' 6-max Seat #1 is the button
+Seat 1: cornetc ($29.50 in chips)
+Seat 2: TinaTurner72 ($97.14 in chips)
+cornetc: posts small blind $1
+TinaTurner72: posts big blind $3
+*** HOLE CARDS ***
+cornetc: raises $3 to $6
+TinaTurner72: calls $3
+*** FLOP *** [4c Ac Qc]
+TinaTurner72: checks
+cornetc: bets $3
+TinaTurner72: raises $3 to $6
+cornetc: raises $3 to $9
+TinaTurner72: calls $3
+*** TURN *** [4c Ac Qc] [Th]
+Deichgnorf joins the table at seat #4
+TinaTurner72: checks
+cornetc: bets $6
+TinaTurner72: calls $6
+*** RIVER *** [4c Ac Qc Th] [Qs]
+TinaTurner72: checks
+cornetc: bets $6
+TinaTurner72: calls $6
+*** SHOW DOWN ***
+cornetc: shows [Tc 6c] (a flush, Ace high)
+TinaTurner72: mucks hand
+cornetc collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [4c Ac Qc Th Qs]
+Seat 1: cornetc (button) (small blind) showed [Tc 6c] and won ($53.50) with a flush, Ace high
+Seat 2: TinaTurner72 (big blind) mucked
+
+

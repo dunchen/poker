@@ -1,0 +1,120 @@
+PokerStars Hand #162275505158:  Hold'em Limit ($3/$6 USD) - 2016/12/02 0:36:32 ET
+Table 'Marcelle' 6-max Seat #2 is the button
+Seat 2: Bilgics ($111 in chips)
+Seat 4: Agrotait ($80.64 in chips)
+Bilgics: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+Bilgics: calls $2
+Agrotait: checks
+*** FLOP *** [8d 2s 8s]
+Agrotait: checks
+Bilgics: checks
+*** TURN *** [8d 2s 8s] [2h]
+Agrotait: checks
+Bilgics: checks
+*** RIVER *** [8d 2s 8s 2h] [Jh]
+Agrotait: checks
+Bilgics: checks
+*** SHOW DOWN ***
+Agrotait: shows [9h 5h] (two pair, Eights and Deuces)
+Bilgics: shows [6d Qh] (two pair, Eights and Deuces - Queen kicker)
+Bilgics collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [8d 2s 8s 2h Jh]
+Seat 2: Bilgics (button) (small blind) showed [6d Qh] and won ($5.88) with two pair, Eights and Deuces
+Seat 4: Agrotait (big blind) showed [9h 5h] and lost with two pair, Eights and Deuces
+
+
+PokerStars Hand #162275514520:  Hold'em Limit ($3/$6 USD) - 2016/12/02 0:37:05 ET
+Table 'Marcelle' 6-max Seat #4 is the button
+Seat 2: Bilgics ($113.88 in chips)
+Seat 4: Agrotait ($77.64 in chips)
+Agrotait: posts small blind $1
+Bilgics: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+Bilgics: calls $3
+*** FLOP *** [Ad 5d 6h]
+Bilgics: checks
+Agrotait: bets $3
+Bilgics: calls $3
+*** TURN *** [Ad 5d 6h] [Kh]
+Bilgics: checks
+Agrotait: bets $6
+Bilgics: raises $6 to $12
+Agrotait: folds
+Uncalled bet ($6) returned to Bilgics
+Bilgics collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ad 5d 6h Kh]
+Seat 2: Bilgics (big blind) collected ($29.50)
+Seat 4: Agrotait (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #162275527801:  Hold'em Limit ($3/$6 USD) - 2016/12/02 0:37:50 ET
+Table 'Marcelle' 6-max Seat #2 is the button
+Seat 2: Bilgics ($128.38 in chips)
+Seat 4: Agrotait ($62.64 in chips)
+Bilgics: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+Bilgics: calls $2
+Agrotait: checks
+*** FLOP *** [7h 3h 5h]
+Agrotait: checks
+Bilgics: bets $3
+Agrotait: calls $3
+*** TURN *** [7h 3h 5h] [6s]
+Agrotait: checks
+Bilgics: bets $6
+Agrotait: calls $6
+*** RIVER *** [7h 3h 5h 6s] [Js]
+Agrotait: checks
+Bilgics: checks
+*** SHOW DOWN ***
+Agrotait: shows [2h 8s] (high card Jack)
+Bilgics: shows [5c 8d] (a pair of Fives)
+Bilgics collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [7h 3h 5h 6s Js]
+Seat 2: Bilgics (button) (small blind) showed [5c 8d] and won ($23.52) with a pair of Fives
+Seat 4: Agrotait (big blind) showed [2h 8s] and lost with high card Jack
+
+
+PokerStars Hand #162275543955:  Hold'em Limit ($3/$6 USD) - 2016/12/02 0:38:47 ET
+Table 'Marcelle' 6-max Seat #4 is the button
+Seat 2: Bilgics ($139.90 in chips)
+Seat 4: Agrotait ($72 in chips)
+Agrotait: posts small blind $1
+Bilgics: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+Bilgics: calls $3
+*** FLOP *** [7c 3c Th]
+Bilgics: checks
+Agrotait: bets $3
+Bilgics: calls $3
+*** TURN *** [7c 3c Th] [3h]
+Bilgics: checks
+Agrotait: bets $6
+Bilgics: calls $6
+*** RIVER *** [7c 3c Th 3h] [Ks]
+Bilgics: checks
+B_loJkl joins the table at seat #3
+Agrotait: bets $6
+Bilgics: calls $6
+*** SHOW DOWN ***
+Agrotait: shows [Kd Ah] (two pair, Kings and Threes)
+Bilgics: mucks hand
+Agrotait collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [7c 3c Th 3h Ks]
+Seat 2: Bilgics (big blind) mucked
+Seat 4: Agrotait (button) (small blind) showed [Kd Ah] and won ($41.50) with two pair, Kings and Threes
+
+

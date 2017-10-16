@@ -1,0 +1,33 @@
+PokerStars Hand #158069739238:  Hold'em Limit ($3/$6 USD) - 2016/09/02 14:49:02 ET
+Table 'Crux II' 6-max Seat #4 is the button
+Seat 2: vestimokrec ($117.62 in chips)
+Seat 4: belik555 ($88.57 in chips)
+belik555: posts small blind $1
+ToDaFelt: is sitting out
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+belik555: raises $3 to $6
+vestimokrec: calls $3
+*** FLOP *** [Ac Td 6c]
+ToDaFelt leaves the table
+vestimokrec: checks
+belik555: bets $3
+vestimokrec: calls $3
+*** TURN *** [Ac Td 6c] [Qs]
+vestimokrec: checks
+belik555: checks
+*** RIVER *** [Ac Td 6c Qs] [Jh]
+vestimokrec: checks
+belik555: bets $6
+vestimokrec: calls $6
+*** SHOW DOWN ***
+belik555: shows [3s 9s] (high card Ace)
+vestimokrec: shows [Qh Ts] (two pair, Queens and Tens)
+vestimokrec collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ac Td 6c Qs Jh]
+Seat 2: vestimokrec (big blind) showed [Qh Ts] and won ($29.50) with two pair, Queens and Tens
+Seat 4: belik555 (button) (small blind) showed [3s 9s] and lost with high card Ace
+
+

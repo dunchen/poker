@@ -1,0 +1,84 @@
+PokerStars Hand #147518745375:  Hold'em Limit ($3/$6 USD) - 2016/01/23 0:57:39 ET
+Table 'Amalia II' 2-max Seat #1 is the button
+Seat 1: drunkJ83 ($56.64 in chips)
+Seat 2: ChOfW ($66 in chips)
+drunkJ83: posts small blind $1
+ChOfW: posts big blind $3
+*** HOLE CARDS ***
+drunkJ83: raises $3 to $6
+ChOfW: calls $3
+*** FLOP *** [9d Kd Qs]
+ChOfW: checks
+drunkJ83: bets $3
+ChOfW: folds
+Uncalled bet ($3) returned to drunkJ83
+drunkJ83 collected $11.76 from pot
+drunkJ83: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9d Kd Qs]
+Seat 1: drunkJ83 (button) (small blind) collected ($11.76)
+Seat 2: ChOfW (big blind) folded on the Flop
+
+
+PokerStars Hand #147518758806:  Hold'em Limit ($3/$6 USD) - 2016/01/23 0:58:13 ET
+Table 'Amalia II' 2-max Seat #1 is the button
+Seat 1: drunkJ83 ($41.40 in chips)
+Seat 2: ChOfW ($86.50 in chips)
+drunkJ83: posts small blind $1
+ChOfW: posts big blind $3
+*** HOLE CARDS ***
+drunkJ83: raises $3 to $6
+ChOfW: calls $3
+*** FLOP *** [2d Qd Td]
+ChOfW: checks
+drunkJ83: bets $3
+ChOfW: calls $3
+*** TURN *** [2d Qd Td] [Kh]
+ChOfW: checks
+drunkJ83: checks
+*** RIVER *** [2d Qd Td Kh] [Th]
+ChOfW: bets $6
+drunkJ83: calls $6
+*** SHOW DOWN ***
+ChOfW: shows [Ac Js] (a straight, Ten to Ace)
+drunkJ83: mucks hand
+ChOfW collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2d Qd Td Kh Th]
+Seat 1: drunkJ83 (button) (small blind) mucked
+Seat 2: ChOfW (big blind) showed [Ac Js] and won ($29.50) with a straight, Ten to Ace
+
+
+PokerStars Hand #147518748495:  Hold'em Limit ($3/$6 USD) - 2016/01/23 0:57:51 ET
+Table 'Amalia II' 2-max Seat #2 is the button
+Seat 1: drunkJ83 ($62.40 in chips)
+Seat 2: ChOfW ($66 in chips)
+ChOfW: posts small blind $1
+drunkJ83: posts big blind $3
+*** HOLE CARDS ***
+ChOfW: raises $3 to $6
+drunkJ83: calls $3
+*** FLOP *** [Qh 6c 4c]
+drunkJ83: checks
+ChOfW: bets $3
+drunkJ83: calls $3
+*** TURN *** [Qh 6c 4c] [2s]
+drunkJ83: checks
+ChOfW: bets $6
+drunkJ83: calls $6
+*** RIVER *** [Qh 6c 4c 2s] [Tc]
+drunkJ83: bets $6
+ChOfW: calls $6
+*** SHOW DOWN ***
+drunkJ83: shows [Kh 9d] (high card King)
+ChOfW: shows [Qc Kd] (a pair of Queens)
+ChOfW collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Qh 6c 4c 2s Tc]
+Seat 1: drunkJ83 (big blind) showed [Kh 9d] and lost with high card King
+Seat 2: ChOfW (button) (small blind) showed [Qc Kd] and won ($41.50) with a pair of Queens
+
+

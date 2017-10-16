@@ -1,0 +1,170 @@
+PokerStars Hand #147608307360:  Hold'em Limit ($3/$6 USD) - 2016/01/24 13:56:37 ET
+Table 'Alleghenia' 6-max Seat #3 is the button
+Seat 3: julenchu ($112.10 in chips)
+Seat 4: Actionni13 ($150 in chips)
+julenchu: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+julenchu: raises $3 to $6
+Actionni13: folds
+Uncalled bet ($3) returned to julenchu
+julenchu collected $6 from pot
+julenchu: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: julenchu (button) (small blind) collected ($6)
+Seat 4: Actionni13 (big blind) folded before Flop
+
+
+PokerStars Hand #147608346264:  Hold'em Limit ($3/$6 USD) - 2016/01/24 13:57:25 ET
+Table 'Alleghenia' 6-max Seat #3 is the button
+Seat 3: julenchu ($126.62 in chips)
+Seat 4: Actionni13 ($150 in chips)
+julenchu: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+julenchu: raises $3 to $6
+Actionni13: calls $3
+*** FLOP *** [7h Td 5s]
+Actionni13: checks
+julenchu: checks
+*** TURN *** [7h Td 5s] [4d]
+Actionni13: bets $6
+julenchu: calls $6
+*** RIVER *** [7h Td 5s 4d] [4s]
+Actionni13: checks
+julenchu: checks
+*** SHOW DOWN ***
+Actionni13: shows [Kd 2d] (a pair of Fours)
+julenchu: shows [Ah Jd] (a pair of Fours - Ace kicker)
+julenchu collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [7h Td 5s 4d 4s]
+Seat 3: julenchu (button) (small blind) showed [Ah Jd] and won ($23.52) with a pair of Fours
+Seat 4: Actionni13 (big blind) showed [Kd 2d] and lost with a pair of Fours
+
+
+PokerStars Hand #147608328325:  Hold'em Limit ($3/$6 USD) - 2016/01/24 13:57:03 ET
+Table 'Alleghenia' 6-max Seat #4 is the button
+Seat 3: julenchu ($115.10 in chips)
+Seat 4: Actionni13 ($150 in chips)
+Actionni13: posts small blind $1
+julenchu: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+julenchu: raises $3 to $9
+Actionni13: calls $3
+*** FLOP *** [4c 2c Jh]
+julenchu: bets $3
+Actionni13: calls $3
+*** TURN *** [4c 2c Jh] [As]
+julenchu: bets $6
+Actionni13: folds
+Uncalled bet ($6) returned to julenchu
+julenchu collected $23.52 from pot
+julenchu: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [4c 2c Jh As]
+Seat 3: julenchu (big blind) collected ($23.52)
+Seat 4: Actionni13 (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #147608371836:  Hold'em Limit ($3/$6 USD) - 2016/01/24 13:57:55 ET
+Table 'Alleghenia' 6-max Seat #4 is the button
+Seat 3: julenchu ($138.14 in chips)
+Seat 4: Actionni13 ($150 in chips)
+Actionni13: posts small blind $1
+julenchu: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+julenchu: calls $3
+*** FLOP *** [2s 4s 8h]
+julenchu: checks
+Actionni13: bets $3
+julenchu: calls $3
+*** TURN *** [2s 4s 8h] [9d]
+julenchu: checks
+Actionni13: checks
+*** RIVER *** [2s 4s 8h 9d] [6c]
+julenchu: checks
+Actionni13: checks
+*** SHOW DOWN ***
+julenchu: shows [Jh Ks] (high card King)
+Actionni13: mucks hand
+julenchu collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2s 4s 8h 9d 6c]
+Seat 3: julenchu (big blind) showed [Jh Ks] and won ($17.64) with high card King
+Seat 4: Actionni13 (button) (small blind) mucked
+
+
+PokerStars Hand #147614407302:  Hold'em Limit ($3/$6 USD) - 2016/01/24 15:24:29 ET
+Table 'Alleghenia' 6-max Seat #6 is the button
+Seat 4: krytalex ($80.92 in chips)
+Seat 6: AcesHigh66 ($180.91 in chips)
+AcesHigh66: posts small blind $1
+krytalex: posts big blind $3
+*** HOLE CARDS ***
+AcesHigh66: raises $3 to $6
+krytalex: calls $3
+*** FLOP *** [Td Qs As]
+krytalex: checks
+AcesHigh66: bets $3
+krytalex: calls $3
+*** TURN *** [Td Qs As] [2s]
+krytalex: checks
+AcesHigh66: bets $6
+krytalex: raises $6 to $12
+AcesHigh66: raises $6 to $18
+krytalex: raises $6 to $24
+Betting is capped
+AcesHigh66: calls $6
+*** RIVER *** [Td Qs As 2s] [Jh]
+krytalex: bets $6
+AcesHigh66: raises $6 to $12
+krytalex: calls $6
+*** SHOW DOWN ***
+AcesHigh66: shows [6s Ks] (a flush, Ace high)
+krytalex: mucks hand
+AcesHigh66 collected $89.50 from pot
+*** SUMMARY ***
+Total pot $90 | Rake $0.50
+Board [Td Qs As 2s Jh]
+Seat 4: krytalex (big blind) mucked
+Seat 6: AcesHigh66 (button) (small blind) showed [6s Ks] and won ($89.50) with a flush, Ace high
+
+
+PokerStars Hand #147614500453:  Hold'em Limit ($3/$6 USD) - 2016/01/24 15:25:48 ET
+Table 'Alleghenia' 6-max Seat #4 is the button
+Seat 4: krytalex ($72 in chips)
+Seat 6: AcesHigh66 ($225.41 in chips)
+krytalex: posts small blind $1
+AcesHigh66: posts big blind $3
+*** HOLE CARDS ***
+krytalex: raises $3 to $6
+AcesHigh66: calls $3
+*** FLOP *** [7d 6d 4s]
+AcesHigh66: bets $3
+krytalex: calls $3
+*** TURN *** [7d 6d 4s] [Kh]
+AcesHigh66: bets $6
+krytalex: calls $6
+*** RIVER *** [7d 6d 4s Kh] [Jh]
+AcesHigh66: bets $6
+krytalex: raises $6 to $12
+julenchu joins the table at seat #2
+AcesHigh66: calls $6
+*** SHOW DOWN ***
+krytalex: shows [Qh 5s] (high card King)
+AcesHigh66: shows [4c 6c] (two pair, Sixes and Fours)
+AcesHigh66 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [7d 6d 4s Kh Jh]
+Seat 4: krytalex (button) (small blind) showed [Qh 5s] and lost with high card King
+Seat 6: AcesHigh66 (big blind) showed [4c 6c] and won ($53.50) with two pair, Sixes and Fours
+
+

@@ -1,0 +1,33 @@
+PokerStars Hand #161086481906:  Hold'em Limit ($3/$6 USD) - 2016/11/08 7:56:01 ET
+Table 'Brangane' 6-max Seat #6 is the button
+Seat 1: gorcea_vs ($37.16 in chips)
+Seat 6: Pandakey ($120 in chips)
+Pandakey: posts small blind $1
+gorcea_vs: posts big blind $3
+*** HOLE CARDS ***
+Pandakey: raises $3 to $6
+gorcea_vs: calls $3
+*** FLOP *** [5s Kc 9h]
+gorcea_vs: checks
+Pandakey: bets $3
+gorcea_vs: raises $3 to $6
+Pandakey: calls $3
+*** TURN *** [5s Kc 9h] [Ac]
+dorina888 joins the table at seat #2
+gorcea_vs: checks
+Pandakey: checks
+*** RIVER *** [5s Kc 9h Ac] [3d]
+gorcea_vs: bets $6
+vestimokrec joins the table at seat #3
+Pandakey: calls $6
+*** SHOW DOWN ***
+gorcea_vs: shows [Ad 6c] (a pair of Aces)
+Pandakey: mucks hand
+gorcea_vs collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5s Kc 9h Ac 3d]
+Seat 1: gorcea_vs (big blind) showed [Ad 6c] and won ($35.50) with a pair of Aces
+Seat 6: Pandakey (button) (small blind) mucked
+
+

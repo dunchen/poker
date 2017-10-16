@@ -1,0 +1,105 @@
+PokerStars Hand #169889097540:  Hold'em Limit ($3/$6 USD) - 2017/05/03 5:41:07 ET
+Table 'Agenor II' 6-max Seat #1 is the button
+Seat 1: Hadart ($216.19 in chips)
+Seat 6: Qvidde ($145.39 in chips)
+Hadart: posts small blind $1
+AA_ILI: is sitting out
+Qvidde: posts big blind $3
+*** HOLE CARDS ***
+AA_ILI leaves the table
+Hadart: folds
+Uncalled bet ($2) returned to Qvidde
+Qvidde collected $2 from pot
+Qvidde: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Hadart (button) (small blind) folded before Flop
+Seat 6: Qvidde (big blind) collected ($2)
+
+
+PokerStars Hand #169889100258:  Hold'em Limit ($3/$6 USD) - 2017/05/03 5:41:14 ET
+Table 'Agenor II' 6-max Seat #6 is the button
+Seat 1: Hadart ($215.19 in chips)
+Seat 6: Qvidde ($146.39 in chips)
+Qvidde: posts small blind $1
+Hadart: posts big blind $3
+*** HOLE CARDS ***
+Qvidde: raises $3 to $6
+Hadart: calls $3
+*** FLOP *** [4h 6h Ts]
+Hadart: checks
+Qvidde: checks
+*** TURN *** [4h 6h Ts] [8h]
+Hadart: bets $6
+Qvidde: calls $6
+*** RIVER *** [4h 6h Ts 8h] [Ad]
+Hadart: bets $6
+Qvidde: folds
+Uncalled bet ($6) returned to Hadart
+Hadart collected $23.52 from pot
+Hadart: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [4h 6h Ts 8h Ad]
+Seat 1: Hadart (big blind) collected ($23.52)
+Seat 6: Qvidde (button) (small blind) folded on the River
+
+
+PokerStars Hand #169889134705:  Hold'em Limit ($3/$6 USD) - 2017/05/03 5:42:47 ET
+Table 'Agenor II' 6-max Seat #6 is the button
+Seat 1: Hadart ($247.21 in chips)
+Seat 6: Qvidde ($113.39 in chips)
+Qvidde: posts small blind $1
+Hadart: posts big blind $3
+*** HOLE CARDS ***
+Qvidde: raises $3 to $6
+Hadart: calls $3
+*** FLOP *** [7d 4s 8d]
+Hadart: checks
+Qvidde: checks
+*** TURN *** [7d 4s 8d] [8c]
+Hadart: bets $6
+Qvidde: folds
+Uncalled bet ($6) returned to Hadart
+Hadart collected $11.76 from pot
+Hadart: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7d 4s 8d 8c]
+Seat 1: Hadart (big blind) collected ($11.76)
+Seat 6: Qvidde (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #169889118247:  Hold'em Limit ($3/$6 USD) - 2017/05/03 5:42:03 ET
+Table 'Agenor II' 6-max Seat #1 is the button
+Seat 1: Hadart ($226.71 in chips)
+Seat 6: Qvidde ($134.39 in chips)
+Hadart: posts small blind $1
+Qvidde: posts big blind $3
+*** HOLE CARDS ***
+Hadart: raises $3 to $6
+Qvidde: calls $3
+*** FLOP *** [9c 8d 9s]
+ruslik1005 joins the table at seat #2
+Qvidde: checks
+Hadart: bets $3
+Qvidde: calls $3
+*** TURN *** [9c 8d 9s] [5h]
+Qvidde: checks
+Hadart: bets $6
+Qvidde: calls $6
+*** RIVER *** [9c 8d 9s 5h] [Qc]
+ZOGI joins the table at seat #3
+Qvidde: bets $6
+Hadart: calls $6
+*** SHOW DOWN ***
+Qvidde: shows [Kc 7h] (a pair of Nines)
+Hadart: shows [8h Js] (two pair, Nines and Eights)
+Hadart collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9c 8d 9s 5h Qc]
+Seat 1: Hadart (button) (small blind) showed [8h Js] and won ($41.50) with two pair, Nines and Eights
+Seat 6: Qvidde (big blind) showed [Kc 7h] and lost with a pair of Nines
+
+

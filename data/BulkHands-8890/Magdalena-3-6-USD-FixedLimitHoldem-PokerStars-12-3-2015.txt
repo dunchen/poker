@@ -1,0 +1,58 @@
+PokerStars Hand #144777568599:  Hold'em Limit ($3/$6 USD) - 2015/12/03 16:44:45 ET
+Table 'Magdalena' 6-max Seat #1 is the button
+Seat 1: mdif ($120 in chips)
+Seat 2: fluit83 ($66 in chips)
+BelSv joins the table at seat #3
+mdif: posts small blind $1
+fluit83: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+fluit83: calls $3
+*** FLOP *** [5h Ts 6d]
+fluit83: checks
+mdif: bets $3
+fluit83: folds
+Uncalled bet ($3) returned to mdif
+mdif collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5h Ts 6d]
+Seat 1: mdif (button) (small blind) collected ($11.76)
+Seat 2: fluit83 (big blind) folded on the Flop
+
+
+PokerStars Hand #144780485388:  Hold'em Limit ($3/$6 USD) - 2015/12/03 17:39:37 ET
+Table 'Magdalena' 6-max Seat #4 is the button
+Seat 2: B_loJkl ($217 in chips)
+Seat 4: alexslep ($150 in chips)
+alexslep: posts small blind $1
+Masqb: is sitting out
+Masqb leaves the table
+SashaYuvelir: is sitting out
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+alexslep: raises $3 to $6
+B_loJkl: raises $3 to $9
+alexslep: calls $3
+*** FLOP *** [Kc 7h 2c]
+B_loJkl: bets $3
+alexslep: raises $3 to $6
+B_loJkl: calls $3
+*** TURN *** [Kc 7h 2c] [9s]
+B_loJkl: checks
+alexslep: bets $6
+B_loJkl: calls $6
+*** RIVER *** [Kc 7h 2c 9s] [7s]
+B_loJkl: checks
+alexslep: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to alexslep
+alexslep collected $41.50 from pot
+alexslep: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Kc 7h 2c 9s 7s]
+Seat 2: B_loJkl (big blind) folded on the River
+Seat 4: alexslep (button) (small blind) collected ($41.50)
+
+

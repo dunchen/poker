@@ -1,0 +1,32 @@
+PokerStars Hand #158097637711:  Hold'em Limit ($3/$6 USD) - 2016/09/03 7:48:07 ET
+Table 'Frigga' 6-max Seat #3 is the button
+Seat 3: Co$@no$tr@ ($30 in chips)
+Seat 4: Agrotait ($72 in chips)
+Co$@no$tr@: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+Co$@no$tr@: calls $2
+Agrotait: checks
+*** FLOP *** [3d 6c Kh]
+Agrotait: checks
+Co$@no$tr@: bets $3
+Agrotait: calls $3
+*** TURN *** [3d 6c Kh] [8c]
+Agrotait: checks
+Co$@no$tr@: bets $6
+Agrotait: calls $6
+*** RIVER *** [3d 6c Kh 8c] [Jc]
+Agrotait: checks
+Co$@no$tr@: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+Co$@no$tr@: shows [8s 6h] (two pair, Eights and Sixes)
+Agrotait: mucks hand
+Co$@no$tr@ collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [3d 6c Kh 8c Jc]
+Seat 3: Co$@no$tr@ (button) (small blind) showed [8s 6h] and won ($35.50) with two pair, Eights and Sixes
+Seat 4: Agrotait (big blind) mucked
+
+

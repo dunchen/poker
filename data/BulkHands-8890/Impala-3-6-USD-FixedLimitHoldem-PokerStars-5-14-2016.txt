@@ -1,0 +1,54 @@
+PokerStars Hand #153286307194:  Hold'em Limit ($3/$6 USD) - 2016/05/14 2:44:51 ET
+Table 'Impala' 6-max Seat #1 is the button
+Seat 1: Ag3r0n ($72 in chips)
+Seat 2: kdcl ($34.21 in chips)
+belik555 joins the table at seat #3
+Ag3r0n: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+Ag3r0n: raises $3 to $6
+kdcl: raises $3 to $9
+Ag3r0n: calls $3
+*** FLOP *** [Ks 6c 2h]
+kdcl: bets $3
+Ag3r0n: folds
+Uncalled bet ($3) returned to kdcl
+kdcl collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ks 6c 2h]
+Seat 1: Ag3r0n (button) (small blind) folded on the Flop
+Seat 2: kdcl (big blind) collected ($17.64)
+
+
+PokerStars Hand #153286498111:  Hold'em Limit ($3/$6 USD) - 2016/05/14 2:56:08 ET
+Table 'Impala' 6-max Seat #3 is the button
+Seat 3: belik555 ($124.25 in chips)
+Seat 5: Agrotait ($100.85 in chips)
+belik555: posts small blind $1
+Moby Teefe: is sitting out
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+belik555: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [Ac Ks 4c]
+Agrotait: checks
+belik555: bets $3
+Agrotait: calls $3
+*** TURN *** [Ac Ks 4c] [Qs]
+Agrotait: checks
+belik555: checks
+*** RIVER *** [Ac Ks 4c Qs] [Th]
+Agrotait: checks
+belik555: checks
+*** SHOW DOWN ***
+Agrotait: shows [7h Qc] (a pair of Queens)
+belik555: mucks hand
+Agrotait collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ac Ks 4c Qs Th]
+Seat 3: belik555 (button) (small blind) mucked
+Seat 5: Agrotait (big blind) showed [7h Qc] and won ($17.64) with a pair of Queens
+
+

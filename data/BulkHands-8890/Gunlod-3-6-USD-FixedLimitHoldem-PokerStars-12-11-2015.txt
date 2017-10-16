@@ -1,0 +1,39 @@
+PokerStars Hand #145155541684:  Hold'em Limit ($3/$6 USD) - 2015/12/10 21:38:42 ET
+Table 'Gunlod' 10-max Seat #10 is the button
+Seat 7: Pandakey ($120 in chips)
+Seat 10: daniel123776 ($43.66 in chips)
+daniel123776: posts small blind $1
+Pandakey: posts big blind $3
+*** HOLE CARDS ***
+daniel123776: raises $3 to $6
+GoliafUa joins the table at seat #1
+Pandakey: calls $3
+*** FLOP *** [2c Js 3c]
+Pandakey: checks
+daniel123776: checks
+*** TURN *** [2c Js 3c] [Qh]
+Pandakey: checks
+daniel123776: bets $6
+Pandakey: raises $6 to $12
+daniel123776: raises $6 to $18
+Pandakey: calls $6
+*** RIVER *** [2c Js 3c Qh] [7c]
+Pandakey: checks
+daniel123776: bets $6
+Pandakey: raises $6 to $12
+daniel123776: raises $6 to $18
+Pandakey: raises $6 to $24
+Betting is capped
+daniel123776: calls $1.66 and is all-in
+Uncalled bet ($4.34) returned to Pandakey
+*** SHOW DOWN ***
+Pandakey: shows [8c Qc] (a flush, Queen high)
+daniel123776: shows [6h Qs] (a pair of Queens)
+Pandakey collected $86.82 from pot
+*** SUMMARY ***
+Total pot $87.32 | Rake $0.50
+Board [2c Js 3c Qh 7c]
+Seat 7: Pandakey (big blind) showed [8c Qc] and won ($86.82) with a flush, Queen high
+Seat 10: daniel123776 (button) (small blind) showed [6h Qs] and lost with a pair of Queens
+
+

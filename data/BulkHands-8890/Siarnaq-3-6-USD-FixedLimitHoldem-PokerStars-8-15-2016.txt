@@ -1,0 +1,110 @@
+PokerStars Hand #157297605854:  Hold'em Limit ($3/$6 USD) - 2016/08/15 5:37:30 ET
+Table 'Siarnaq' 6-max Seat #1 is the button
+Seat 1: jiajia88 ($34.17 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+jiajia88: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+jiajia88: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [5s 4d 9d]
+VolkovDmitri: checks
+jiajia88: bets $3
+VolkovDmitri: raises $3 to $6
+jiajia88: raises $3 to $9
+VolkovDmitri: raises $3 to $12
+Betting is capped
+jiajia88: calls $3
+*** TURN *** [5s 4d 9d] [2d]
+VolkovDmitri: bets $6
+jiajia88: calls $6
+*** RIVER *** [5s 4d 9d 2d] [Ks]
+VolkovDmitri: bets $6
+jiajia88: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Jh 9h] (a pair of Nines)
+jiajia88: mucks hand
+VolkovDmitri collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [5s 4d 9d 2d Ks]
+Seat 1: jiajia88 (button) (small blind) mucked
+Seat 4: VolkovDmitri (big blind) showed [Jh 9h] and won ($59.50) with a pair of Nines
+
+
+PokerStars Hand #157297626629:  Hold'em Limit ($3/$6 USD) - 2016/08/15 5:38:29 ET
+Table 'Siarnaq' 6-max Seat #4 is the button
+Seat 1: jiajia88 ($114.37 in chips)
+Seat 4: VolkovDmitri ($142.33 in chips)
+VolkovDmitri: posts small blind $1
+jiajia88: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+jiajia88: calls $3
+*** FLOP *** [7h Tc Ts]
+jiajia88: checks
+VolkovDmitri: bets $3
+jiajia88: raises $3 to $6
+Airbag999 joins the table at seat #2
+VolkovDmitri: calls $3
+*** TURN *** [7h Tc Ts] [8h]
+jiajia88: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [7h Tc Ts 8h] [8c]
+jiajia88: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to jiajia88
+jiajia88 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [7h Tc Ts 8h 8c]
+Seat 1: jiajia88 (big blind) collected ($35.50)
+Seat 4: VolkovDmitri (button) (small blind) folded on the River
+
+
+PokerStars Hand #157297615115:  Hold'em Limit ($3/$6 USD) - 2016/08/15 5:37:57 ET
+Table 'Siarnaq' 6-max Seat #4 is the button
+Seat 1: jiajia88 ($4.17 in chips)
+Seat 4: VolkovDmitri ($149.50 in chips)
+VolkovDmitri: posts small blind $1
+jiajia88: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+jiajia88: calls $1.17 and is all-in
+Uncalled bet ($1.83) returned to VolkovDmitri
+*** FLOP *** [Js 3h 8c]
+*** TURN *** [Js 3h 8c] [Ac]
+*** RIVER *** [Js 3h 8c Ac] [2h]
+*** SHOW DOWN ***
+jiajia88: shows [2c 5d] (a pair of Deuces)
+VolkovDmitri: shows [Qc Ts] (high card Ace)
+jiajia88 collected $8.17 from pot
+*** SUMMARY ***
+Total pot $8.34 | Rake $0.17
+Board [Js 3h 8c Ac 2h]
+Seat 1: jiajia88 (big blind) showed [2c 5d] and won ($8.17) with a pair of Deuces
+Seat 4: VolkovDmitri (button) (small blind) showed [Qc Ts] and lost with high card Ace
+
+
+PokerStars Hand #157297619364:  Hold'em Limit ($3/$6 USD) - 2016/08/15 5:38:09 ET
+Table 'Siarnaq' 6-max Seat #1 is the button
+Seat 1: jiajia88 ($111.49 in chips)
+Seat 4: VolkovDmitri ($145.33 in chips)
+jiajia88: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+jiajia88: calls $2
+VolkovDmitri: checks
+*** FLOP *** [As 4d 9d]
+VolkovDmitri: checks
+jiajia88: bets $3
+VolkovDmitri: folds
+Uncalled bet ($3) returned to jiajia88
+jiajia88 collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [As 4d 9d]
+Seat 1: jiajia88 (button) (small blind) collected ($5.88)
+Seat 4: VolkovDmitri (big blind) folded on the Flop
+
+

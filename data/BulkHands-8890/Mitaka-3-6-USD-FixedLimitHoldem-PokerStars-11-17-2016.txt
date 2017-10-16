@@ -1,0 +1,64 @@
+PokerStars Hand #161561051539:  Hold'em Limit ($3/$6 USD) - 2016/11/17 17:30:20 ET
+Table 'Mitaka' 6-max Seat #6 is the button
+Seat 1: B_loJkl ($136.77 in chips)
+Seat 6: ToDaFelt ($96 in chips)
+ToDaFelt: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [7h Kc 3d]
+B_loJkl: checks
+ToDaFelt: checks
+*** TURN *** [7h Kc 3d] [4d]
+B_loJkl: bets $6
+ToDaFelt: calls $6
+*** RIVER *** [7h Kc 3d 4d] [Ac]
+B_loJkl: checks
+ToDaFelt: checks
+*** SHOW DOWN ***
+B_loJkl: shows [8d 9d] (high card Ace)
+ToDaFelt: shows [4s Qh] (a pair of Fours)
+ToDaFelt collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [7h Kc 3d 4d Ac]
+Seat 1: B_loJkl (big blind) showed [8d 9d] and lost with high card Ace
+Seat 6: ToDaFelt (button) (small blind) showed [4s Qh] and won ($23.52) with a pair of Fours
+
+
+PokerStars Hand #161561002029:  Hold'em Limit ($3/$6 USD) - 2016/11/17 17:29:20 ET
+Table 'Mitaka' 6-max Seat #1 is the button
+Seat 1: B_loJkl ($113.27 in chips)
+Seat 6: ToDaFelt ($120 in chips)
+B_loJkl: posts small blind $1
+7superpoker: is sitting out
+Velbor107: is sitting out
+ToDaFelt: posts big blind $3
+Velbor107 leaves the table
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+7superpoker leaves the table
+ToDaFelt: calls $3
+*** FLOP *** [5s Jd 6h]
+ToDaFelt: checks
+B_loJkl: bets $3
+ToDaFelt: raises $3 to $6
+B_loJkl: calls $3
+*** TURN *** [5s Jd 6h] [Th]
+ToDaFelt: bets $6
+B_loJkl: calls $6
+*** RIVER *** [5s Jd 6h Th] [Qd]
+ToDaFelt: bets $6
+B_loJkl: raises $6 to $12
+ToDaFelt: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $47.50 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [5s Jd 6h Th Qd]
+Seat 1: B_loJkl (button) (small blind) collected ($47.50)
+Seat 6: ToDaFelt (big blind) folded on the River
+
+

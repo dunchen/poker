@@ -1,0 +1,357 @@
+PokerStars Hand #148944172984:  Hold'em Limit ($3/$6 USD) - 2016/02/17 4:50:11 ET
+Table 'Scorpius II' 6-max Seat #3 is the button
+Seat 1: VolkovDmitri ($123 in chips)
+Seat 3: Bruno_ruben ($57 in chips)
+Bruno_ruben: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Bruno_ruben: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Kc 4c 8h]
+VolkovDmitri: checks
+Bruno_ruben: bets $3
+VolkovDmitri: raises $3 to $6
+Bruno_ruben: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $17.64 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kc 4c 8h]
+Seat 1: VolkovDmitri (big blind) collected ($17.64)
+Seat 3: Bruno_ruben (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #148944167961:  Hold'em Limit ($3/$6 USD) - 2016/02/17 4:50:00 ET
+Table 'Scorpius II' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 3: Bruno_ruben ($60 in chips)
+VolkovDmitri: posts small blind $1
+Bruno_ruben: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Bruno_ruben: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: VolkovDmitri (button) (small blind) collected ($6)
+Seat 3: Bruno_ruben (big blind) folded before Flop
+
+
+PokerStars Hand #148944179515:  Hold'em Limit ($3/$6 USD) - 2016/02/17 4:50:26 ET
+Table 'Scorpius II' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($131.64 in chips)
+Seat 3: Bruno_ruben ($48 in chips)
+VolkovDmitri: posts small blind $1
+Bruno_ruben: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Bruno_ruben: calls $3
+*** FLOP *** [Ac Ts 3s]
+Bruno_ruben: checks
+VolkovDmitri: bets $3
+Bruno_ruben: calls $3
+*** TURN *** [Ac Ts 3s] [4d]
+Bruno_ruben: checks
+VolkovDmitri: bets $6
+Bruno_ruben: calls $6
+*** RIVER *** [Ac Ts 3s 4d] [7c]
+Bruno_ruben: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+Bruno_ruben: shows [9s 5s] (high card Ace)
+VolkovDmitri: shows [Td 5c] (a pair of Tens)
+VolkovDmitri collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ac Ts 3s 4d 7c]
+Seat 1: VolkovDmitri (button) (small blind) showed [Td 5c] and won ($29.50) with a pair of Tens
+Seat 3: Bruno_ruben (big blind) showed [9s 5s] and lost with high card Ace
+
+
+PokerStars Hand #148945814360:  Hold'em Limit ($3/$6 USD) - 2016/02/17 5:45:42 ET
+Table 'Scorpius II' 6-max Seat #2 is the button
+Seat 1: VolkovDmitri ($134.07 in chips)
+Seat 2: supersjakie ($35.61 in chips)
+supersjakie: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+supersjakie: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [5s 4h Th]
+VolkovDmitri: checks
+supersjakie: bets $3
+VolkovDmitri: raises $3 to $6
+supersjakie: calls $3
+*** TURN *** [5s 4h Th] [6d]
+VolkovDmitri: bets $6
+supersjakie: calls $6
+*** RIVER *** [5s 4h Th 6d] [Qc]
+VolkovDmitri: bets $6
+supersjakie: raises $6 to $12
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+supersjakie: shows [Qs 4c] (two pair, Queens and Fours)
+VolkovDmitri: mucks hand
+supersjakie collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [5s 4h Th 6d Qc]
+Seat 1: VolkovDmitri (big blind) mucked
+Seat 2: supersjakie (button) (small blind) showed [Qs 4c] and won ($59.50) with two pair, Queens and Fours
+
+
+PokerStars Hand #148945833498:  Hold'em Limit ($3/$6 USD) - 2016/02/17 5:46:18 ET
+Table 'Scorpius II' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 2: supersjakie ($65.11 in chips)
+VolkovDmitri: posts small blind $1
+supersjakie: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+supersjakie: calls $3
+*** FLOP *** [7h 8s 2h]
+supersjakie: checks
+VolkovDmitri: bets $3
+supersjakie: calls $3
+*** TURN *** [7h 8s 2h] [7c]
+supersjakie: checks
+VolkovDmitri: bets $6
+supersjakie: calls $6
+*** RIVER *** [7h 8s 2h 7c] [Ks]
+supersjakie: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+supersjakie: shows [Js Qs] (a pair of Sevens)
+VolkovDmitri: shows [2c As] (two pair, Sevens and Deuces)
+VolkovDmitri collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7h 8s 2h 7c Ks]
+Seat 1: VolkovDmitri (button) (small blind) showed [2c As] and won ($29.50) with two pair, Sevens and Deuces
+Seat 2: supersjakie (big blind) showed [Js Qs] and lost with a pair of Sevens
+
+
+PokerStars Hand #148945856339:  Hold'em Limit ($3/$6 USD) - 2016/02/17 5:47:02 ET
+Table 'Scorpius II' 6-max Seat #2 is the button
+Seat 1: VolkovDmitri ($134.50 in chips)
+Seat 2: supersjakie ($50.11 in chips)
+supersjakie: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+supersjakie: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+supersjakie: calls $3
+*** FLOP *** [6d 6s 3h]
+VolkovDmitri: bets $3
+supersjakie: calls $3
+*** TURN *** [6d 6s 3h] [Th]
+VolkovDmitri: bets $6
+supersjakie: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $23.52 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [6d 6s 3h Th]
+Seat 1: VolkovDmitri (big blind) collected ($23.52)
+Seat 2: supersjakie (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #148945863450:  Hold'em Limit ($3/$6 USD) - 2016/02/17 5:47:15 ET
+Table 'Scorpius II' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($146.02 in chips)
+Seat 2: supersjakie ($38.11 in chips)
+VolkovDmitri: posts small blind $1
+supersjakie: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+supersjakie: calls $3
+*** FLOP *** [Jd 7h 3h]
+supersjakie: checks
+VolkovDmitri: bets $3
+supersjakie: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jd 7h 3h]
+Seat 1: VolkovDmitri (button) (small blind) collected ($11.76)
+Seat 2: supersjakie (big blind) folded on the Flop
+
+
+PokerStars Hand #148945893240:  Hold'em Limit ($3/$6 USD) - 2016/02/17 5:48:12 ET
+Table 'Scorpius II' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($136.54 in chips)
+Seat 2: supersjakie ($46.37 in chips)
+VolkovDmitri: posts small blind $1
+supersjakie: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+supersjakie: calls $3
+*** FLOP *** [Qd Kd 6s]
+supersjakie: checks
+VolkovDmitri: bets $3
+supersjakie: calls $3
+*** TURN *** [Qd Kd 6s] [4h]
+supersjakie: checks
+VolkovDmitri: checks
+*** RIVER *** [Qd Kd 6s 4h] [3c]
+supersjakie: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+supersjakie: shows [6c 7h] (a pair of Sixes)
+VolkovDmitri: mucks hand
+supersjakie collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qd Kd 6s 4h 3c]
+Seat 1: VolkovDmitri (button) (small blind) mucked
+Seat 2: supersjakie (big blind) showed [6c 7h] and won ($29.50) with a pair of Sixes
+
+
+PokerStars Hand #148945869323:  Hold'em Limit ($3/$6 USD) - 2016/02/17 5:47:26 ET
+Table 'Scorpius II' 6-max Seat #2 is the button
+Seat 1: VolkovDmitri ($151.78 in chips)
+Seat 2: supersjakie ($32.11 in chips)
+supersjakie: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+supersjakie: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [3h Td Qh]
+VolkovDmitri: checks
+supersjakie: bets $3
+VolkovDmitri: folds
+Uncalled bet ($3) returned to supersjakie
+supersjakie collected $11.76 from pot
+supersjakie: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3h Td Qh]
+Seat 1: VolkovDmitri (big blind) folded on the Flop
+Seat 2: supersjakie (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #148945883082:  Hold'em Limit ($3/$6 USD) - 2016/02/17 5:47:53 ET
+Table 'Scorpius II' 6-max Seat #2 is the button
+Seat 1: VolkovDmitri ($151.54 in chips)
+Seat 2: supersjakie ($31.87 in chips)
+supersjakie: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+supersjakie: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Kd 9s 3d]
+VolkovDmitri: checks
+supersjakie: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [Kd 9s 3d] [Th]
+VolkovDmitri: checks
+supersjakie: checks
+*** RIVER *** [Kd 9s 3d Th] [9h]
+VolkovDmitri: bets $6
+supersjakie: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [5s 6s] (a pair of Nines)
+supersjakie: shows [5d 5c] (two pair, Nines and Fives)
+supersjakie collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kd 9s 3d Th 9h]
+Seat 1: VolkovDmitri (big blind) showed [5s 6s] and lost with a pair of Nines
+Seat 2: supersjakie (button) (small blind) showed [5d 5c] and won ($29.50) with two pair, Nines and Fives
+
+
+PokerStars Hand #148945875811:  Hold'em Limit ($3/$6 USD) - 2016/02/17 5:47:39 ET
+Table 'Scorpius II' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($145.78 in chips)
+Seat 2: supersjakie ($37.87 in chips)
+VolkovDmitri: posts small blind $1
+supersjakie: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+supersjakie: calls $3
+*** FLOP *** [5s Ad Qh]
+supersjakie: checks
+VolkovDmitri: bets $3
+supersjakie: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5s Ad Qh]
+Seat 1: VolkovDmitri (button) (small blind) collected ($11.76)
+Seat 2: supersjakie (big blind) folded on the Flop
+
+
+PokerStars Hand #148945910079:  Hold'em Limit ($3/$6 USD) - 2016/02/17 5:48:44 ET
+Table 'Scorpius II' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($122.54 in chips)
+Seat 2: supersjakie ($59.87 in chips)
+VolkovDmitri: posts small blind $1
+supersjakie: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+supersjakie: calls $3
+*** FLOP *** [9s 9c 2s]
+supersjakie: checks
+VolkovDmitri: bets $3
+supersjakie: calls $3
+*** TURN *** [9s 9c 2s] [7h]
+supersjakie: checks
+VolkovDmitri: checks
+*** RIVER *** [9s 9c 2s 7h] [Kc]
+kr.poker8029 joins the table at seat #6
+supersjakie: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+supersjakie: shows [7s 8c] (two pair, Nines and Sevens)
+VolkovDmitri: mucks hand
+supersjakie collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9s 9c 2s 7h Kc]
+Seat 1: VolkovDmitri (button) (small blind) mucked
+Seat 2: supersjakie (big blind) showed [7s 8c] and won ($17.64) with two pair, Nines and Sevens
+
+
+PokerStars Hand #148945905724:  Hold'em Limit ($3/$6 USD) - 2016/02/17 5:48:36 ET
+Table 'Scorpius II' 6-max Seat #2 is the button
+Seat 1: VolkovDmitri ($121.54 in chips)
+Seat 2: supersjakie ($60.87 in chips)
+supersjakie: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+supersjakie: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: VolkovDmitri (big blind) collected ($2)
+Seat 2: supersjakie (button) (small blind) folded before Flop
+
+
+PokerStars Hand #148946009148:  Hold'em Limit ($3/$6 USD) - 2016/02/17 5:51:52 ET
+Table 'Scorpius II' 6-max Seat #2 is the button
+Seat 1: VolkovDmitri ($161.64 in chips)
+Seat 2: supersjakie ($109.51 in chips)
+supersjakie: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+supersjakie: raises $3 to $6
+VolkovDmitri: folds
+Uncalled bet ($3) returned to supersjakie
+supersjakie collected $6 from pot
+supersjakie: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: VolkovDmitri (big blind) folded before Flop
+Seat 2: supersjakie (button) (small blind) collected ($6)
+
+

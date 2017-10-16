@@ -1,0 +1,33 @@
+PokerStars Hand #170365811018:  Hold'em Limit ($3/$6 USD) - 2017/05/13 13:03:09 ET
+Table 'Halleria' 10-max Seat #1 is the button
+Seat 1: hamelsora1 ($103.52 in chips)
+Seat 2: TinaTurner72 ($115.76 in chips)
+hamelsora1: posts small blind $1
+TinaTurner72: posts big blind $3
+*** HOLE CARDS ***
+hamelsora1: raises $3 to $6
+TinaTurner72: raises $3 to $9
+hamelsora1: calls $3
+*** FLOP *** [Kd 8h 7s]
+TinaTurner72: bets $3
+hamelsora1: calls $3
+*** TURN *** [Kd 8h 7s] [6h]
+TinaTurner72: checks
+hamelsora1: bets $6
+Jack_Wu1985 joins the table at seat #6
+TinaTurner72: calls $6
+*** RIVER *** [Kd 8h 7s 6h] [3h]
+TinaTurner72: checks
+hamelsora1: bets $6
+TinaTurner72: calls $6
+*** SHOW DOWN ***
+hamelsora1: shows [9h Jd] (high card King)
+TinaTurner72: shows [9d As] (high card Ace)
+TinaTurner72 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Kd 8h 7s 6h 3h]
+Seat 1: hamelsora1 (button) (small blind) showed [9h Jd] and lost with high card King
+Seat 2: TinaTurner72 (big blind) showed [9d As] and won ($47.50) with high card Ace
+
+

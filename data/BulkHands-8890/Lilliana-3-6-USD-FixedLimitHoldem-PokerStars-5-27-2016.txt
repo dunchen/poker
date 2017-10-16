@@ -1,0 +1,63 @@
+PokerStars Hand #153932411158:  Hold'em Limit ($3/$6 USD) - 2016/05/27 18:36:39 ET
+Table 'Lilliana' 6-max Seat #3 is the button
+Seat 3: elmani111 ($106 in chips)
+Seat 4: BuzovaPro ($85.50 in chips)
+elmani111: posts small blind $1
+BuzovaPro: posts big blind $3
+*** HOLE CARDS ***
+elmani111: raises $3 to $6
+ToDaFelt joins the table at seat #5
+BuzovaPro: calls $3
+*** FLOP *** [4s 3h Qh]
+BuzovaPro: checks
+elmani111: bets $3
+BuzovaPro: raises $3 to $6
+elmani111: calls $3
+*** TURN *** [4s 3h Qh] [5c]
+BuzovaPro: checks
+elmani111: checks
+*** RIVER *** [4s 3h Qh 5c] [Kd]
+BuzovaPro: checks
+elmani111: checks
+*** SHOW DOWN ***
+BuzovaPro: shows [Ah 7h] (high card Ace)
+elmani111: shows [9h 4d] (a pair of Fours)
+elmani111 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [4s 3h Qh 5c Kd]
+Seat 3: elmani111 (button) (small blind) showed [9h 4d] and won ($23.52) with a pair of Fours
+Seat 4: BuzovaPro (big blind) showed [Ah 7h] and lost with high card Ace
+
+
+PokerStars Hand #153934089340:  Hold'em Limit ($3/$6 USD) - 2016/05/27 19:18:22 ET
+Table 'Lilliana' 6-max Seat #6 is the button
+Seat 4: vestimokrec ($160.06 in chips)
+Seat 6: 10GC070 ($17.42 in chips)
+10GC070: posts small blind $1
+Chessnok: is sitting out
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+10GC070: calls $2
+vestimokrec: raises $3 to $6
+10GC070: calls $3
+*** FLOP *** [8h 4s 6d]
+vestimokrec: bets $3
+10GC070: raises $3 to $6
+vestimokrec: calls $3
+*** TURN *** [8h 4s 6d] [6s]
+vestimokrec: bets $6
+10GC070: calls $5.42 and is all-in
+Uncalled bet ($0.58) returned to vestimokrec
+*** RIVER *** [8h 4s 6d 6s] [4d]
+*** SHOW DOWN ***
+vestimokrec: shows [9s As] (two pair, Sixes and Fours)
+10GC070: shows [7c Ts] (two pair, Sixes and Fours - lower kicker)
+vestimokrec collected $34.34 from pot
+*** SUMMARY ***
+Total pot $34.84 | Rake $0.50
+Board [8h 4s 6d 6s 4d]
+Seat 4: vestimokrec (big blind) showed [9s As] and won ($34.34) with two pair, Sixes and Fours
+Seat 6: 10GC070 (button) (small blind) showed [7c Ts] and lost with two pair, Sixes and Fours
+
+

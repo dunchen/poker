@@ -1,0 +1,130 @@
+PokerStars Hand #146229892618:  Hold'em Limit ($3/$6 USD) - 2015/12/31 10:24:16 ET
+Table 'Celestia' 2-max Seat #1 is the button
+Seat 1: kotnaml ($130.97 in chips)
+Seat 2: bitgamp ($7.21 in chips)
+kotnaml: posts small blind $1
+bitgamp: posts big blind $3
+*** HOLE CARDS ***
+kotnaml: calls $2
+bitgamp: checks
+*** FLOP *** [2c Js 8d]
+bitgamp: checks
+kotnaml: checks
+*** TURN *** [2c Js 8d] [5h]
+bitgamp: checks
+kotnaml: bets $6
+bitgamp: folds
+Uncalled bet ($6) returned to kotnaml
+kotnaml collected $5.88 from pot
+kotnaml: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [2c Js 8d 5h]
+Seat 1: kotnaml (button) (small blind) collected ($5.88)
+Seat 2: bitgamp (big blind) folded on the Turn
+
+
+PokerStars Hand #146229881641:  Hold'em Limit ($3/$6 USD) - 2015/12/31 10:24:02 ET
+Table 'Celestia' 2-max Seat #2 is the button
+Seat 1: kotnaml ($119.45 in chips)
+Seat 2: bitgamp ($19.21 in chips)
+bitgamp: posts small blind $1
+kotnaml: posts big blind $3
+*** HOLE CARDS ***
+bitgamp: raises $3 to $6
+kotnaml: raises $3 to $9
+bitgamp: calls $3
+*** FLOP *** [Ah 3h 3d]
+kotnaml: bets $3
+bitgamp: calls $3
+*** TURN *** [Ah 3h 3d] [Js]
+kotnaml: bets $6
+bitgamp: folds
+Uncalled bet ($6) returned to kotnaml
+kotnaml collected $23.52 from pot
+kotnaml: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Ah 3h 3d Js]
+Seat 1: kotnaml (big blind) collected ($23.52)
+Seat 2: bitgamp (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #146229861834:  Hold'em Limit ($3/$6 USD) - 2015/12/31 10:23:38 ET
+Table 'Celestia' 2-max Seat #1 is the button
+Seat 1: kotnaml ($129.25 in chips)
+Seat 2: bitgamp ($9.80 in chips)
+kotnaml: posts small blind $1
+bitgamp: posts big blind $3
+*** HOLE CARDS ***
+kotnaml: raises $3 to $6
+bitgamp: calls $3
+*** FLOP *** [6d Ts 7h]
+bitgamp: checks
+kotnaml: checks
+*** TURN *** [6d Ts 7h] [2s]
+bitgamp: bets $3.80 and is all-in
+kotnaml: calls $3.80
+*** RIVER *** [6d Ts 7h 2s] [9c]
+*** SHOW DOWN ***
+bitgamp: shows [9d 4s] (a pair of Nines)
+kotnaml: shows [Ks 3d] (high card King)
+bitgamp collected $19.21 from pot
+*** SUMMARY ***
+Total pot $19.60 | Rake $0.39
+Board [6d Ts 7h 2s 9c]
+Seat 1: kotnaml (button) (small blind) showed [Ks 3d] and lost with high card King
+Seat 2: bitgamp (big blind) showed [9d 4s] and won ($19.21) with a pair of Nines
+
+
+PokerStars Hand #146229845491:  Hold'em Limit ($3/$6 USD) - 2015/12/31 10:23:18 ET
+Table 'Celestia' 2-max Seat #2 is the button
+Seat 1: kotnaml ($134.25 in chips)
+Seat 2: bitgamp ($5 in chips)
+bitgamp: posts small blind $1
+kotnaml: posts big blind $3
+*** HOLE CARDS ***
+bitgamp: calls $2
+kotnaml: checks
+*** FLOP *** [5s Ts 5c]
+kotnaml: checks
+bitgamp: checks
+*** TURN *** [5s Ts 5c] [Qh]
+kotnaml: bets $6
+bitgamp: calls $2 and is all-in
+Uncalled bet ($4) returned to kotnaml
+*** RIVER *** [5s Ts 5c Qh] [5d]
+*** SHOW DOWN ***
+kotnaml: shows [3c Jc] (three of a kind, Fives)
+bitgamp: shows [Kd 6c] (three of a kind, Fives - King kicker)
+bitgamp collected $9.80 from pot
+*** SUMMARY ***
+Total pot $10 | Rake $0.20
+Board [5s Ts 5c Qh 5d]
+Seat 1: kotnaml (big blind) showed [3c Jc] and lost with three of a kind, Fives
+Seat 2: bitgamp (button) (small blind) showed [Kd 6c] and won ($9.80) with three of a kind, Fives
+
+
+PokerStars Hand #146229905896:  Hold'em Limit ($3/$6 USD) - 2015/12/31 10:24:32 ET
+Table 'Celestia' 2-max Seat #2 is the button
+Seat 1: kotnaml ($133.85 in chips)
+Seat 2: bitgamp ($4.21 in chips)
+bitgamp: posts small blind $1
+kotnaml: posts big blind $3
+*** HOLE CARDS ***
+bitgamp: raises $1.21 to $4.21 and is all-in
+kotnaml: calls $1.21
+*** FLOP *** [8d Td 2s]
+*** TURN *** [8d Td 2s] [3d]
+*** RIVER *** [8d Td 2s 3d] [As]
+*** SHOW DOWN ***
+kotnaml: shows [Jd Jh] (a pair of Jacks)
+bitgamp: shows [7c 5c] (high card Ace)
+kotnaml collected $8.25 from pot
+*** SUMMARY ***
+Total pot $8.42 | Rake $0.17
+Board [8d Td 2s 3d As]
+Seat 1: kotnaml (big blind) showed [Jd Jh] and won ($8.25) with a pair of Jacks
+Seat 2: bitgamp (button) (small blind) showed [7c 5c] and lost with high card Ace
+
+

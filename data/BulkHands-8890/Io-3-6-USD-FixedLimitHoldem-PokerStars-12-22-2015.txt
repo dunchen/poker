@@ -1,0 +1,61 @@
+PokerStars Hand #145727939200:  Hold'em Limit ($3/$6 USD) - 2015/12/22 4:18:31 ET
+Table 'Io' 6-max Seat #4 is the button
+Seat 2: zarazzzza ($48.02 in chips)
+Seat 4: MTails ($121 in chips)
+MTails: posts small blind $1
+zarazzzza: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+zarazzzza: calls $3
+*** FLOP *** [7d 3s 4h]
+chezlaw joins the table at seat #3
+zarazzzza: checks
+MTails: bets $3
+zarazzzza: calls $3
+*** TURN *** [7d 3s 4h] [7h]
+zarazzzza: checks
+MTails: bets $6
+zarazzzza: calls $6
+*** RIVER *** [7d 3s 4h 7h] [2s]
+zarazzzza: checks
+MTails: bets $6
+zarazzzza: folds
+Uncalled bet ($6) returned to MTails
+MTails collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7d 3s 4h 7h 2s]
+Seat 2: zarazzzza (big blind) folded on the River
+Seat 4: MTails (button) (small blind) collected ($29.50)
+
+
+PokerStars Hand #145727997631:  Hold'em Limit ($3/$6 USD) - 2015/12/22 4:21:01 ET
+Table 'Io' 6-max Seat #4 is the button
+Seat 3: chezlaw ($116 in chips)
+Seat 4: MTails ($169.87 in chips)
+MTails: posts small blind $1
+chezlaw: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+zarazzzza leaves the table
+chezlaw: calls $3
+*** FLOP *** [7s 9c 5h]
+chezlaw: checks
+MTails: checks
+*** TURN *** [7s 9c 5h] [5d]
+chezlaw: checks
+MTails: checks
+*** RIVER *** [7s 9c 5h 5d] [Th]
+chezlaw: checks
+MTails: checks
+*** SHOW DOWN ***
+chezlaw: shows [Jd Kh] (a pair of Fives)
+MTails: mucks hand
+chezlaw collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7s 9c 5h 5d Th]
+Seat 3: chezlaw (big blind) showed [Jd Kh] and won ($11.76) with a pair of Fives
+Seat 4: MTails (button) (small blind) mucked
+
+

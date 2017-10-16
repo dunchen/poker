@@ -1,0 +1,343 @@
+PokerStars Hand #155417415087:  Hold'em Limit ($3/$6 USD) - 2016/07/01 5:16:18 ET
+Table 'Mineura' 6-max Seat #1 is the button
+Seat 1: x0ticer ($120 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+x0ticer: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+x0ticer: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+x0ticer: raises $3 to $12
+Betting is capped
+VolkovDmitri: calls $3
+*** FLOP *** [7s 9d Qd]
+VolkovDmitri: bets $3
+x0ticer: calls $3
+*** TURN *** [7s 9d Qd] [6c]
+VolkovDmitri: bets $6
+x0ticer: calls $6
+*** RIVER *** [7s 9d Qd 6c] [Ks]
+VolkovDmitri: bets $6
+x0ticer: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Td Ts] (a pair of Tens)
+x0ticer: mucks hand
+VolkovDmitri collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [7s 9d Qd 6c Ks]
+Seat 1: x0ticer (button) (small blind) mucked
+Seat 4: VolkovDmitri (big blind) showed [Td Ts] and won ($53.50) with a pair of Tens
+
+
+PokerStars Hand #155417432109:  Hold'em Limit ($3/$6 USD) - 2016/07/01 5:17:09 ET
+Table 'Mineura' 6-max Seat #4 is the button
+Seat 1: x0ticer ($93 in chips)
+Seat 4: VolkovDmitri ($146.50 in chips)
+VolkovDmitri: posts small blind $1
+x0ticer: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+x0ticer: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: x0ticer (big blind) folded before Flop
+Seat 4: VolkovDmitri (button) (small blind) collected ($6)
+
+
+PokerStars Hand #155417454736:  Hold'em Limit ($3/$6 USD) - 2016/07/01 5:18:17 ET
+Table 'Mineura' 6-max Seat #4 is the button
+Seat 1: x0ticer ($89.75 in chips)
+Seat 4: VolkovDmitri ($149.25 in chips)
+VolkovDmitri: posts small blind $1
+x0ticer: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+x0ticer: calls $3
+*** FLOP *** [Js Ts Ac]
+x0ticer: checks
+VolkovDmitri: bets $3
+x0ticer: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Js Ts Ac]
+Seat 1: x0ticer (big blind) folded on the Flop
+Seat 4: VolkovDmitri (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #155417438295:  Hold'em Limit ($3/$6 USD) - 2016/07/01 5:17:28 ET
+Table 'Mineura' 6-max Seat #1 is the button
+Seat 1: x0ticer ($90 in chips)
+Seat 4: VolkovDmitri ($149.50 in chips)
+x0ticer: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+x0ticer: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+x0ticer: calls $3
+*** FLOP *** [6s Ad Th]
+VolkovDmitri: checks
+x0ticer: checks
+*** TURN *** [6s Ad Th] [Td]
+Fused2Orium joins the table at seat #2
+VolkovDmitri: checks
+x0ticer: checks
+*** RIVER *** [6s Ad Th Td] [6h]
+VolkovDmitri: bets $6
+x0ticer: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [3c Kc] (two pair, Tens and Sixes)
+x0ticer: shows [Qd 9s] (two pair, Tens and Sixes)
+VolkovDmitri collected $14.75 from pot
+x0ticer collected $14.75 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6s Ad Th Td 6h]
+Seat 1: x0ticer (button) (small blind) showed [Qd 9s] and won ($14.75) with two pair, Tens and Sixes
+Seat 4: VolkovDmitri (big blind) showed [3c Kc] and won ($14.75) with two pair, Tens and Sixes
+
+
+PokerStars Hand #155420361426:  Hold'em Limit ($3/$6 USD) - 2016/07/01 7:29:25 ET
+Table 'Mineura' 6-max Seat #1 is the button
+Seat 1: x0ticer ($199.58 in chips)
+Seat 2: B_loJkl ($150 in chips)
+x0ticer: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+x0ticer: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Jc 9c 3s]
+B_loJkl: checks
+x0ticer: checks
+*** TURN *** [Jc 9c 3s] [Tc]
+B_loJkl: bets $6
+x0ticer: calls $6
+*** RIVER *** [Jc 9c 3s Tc] [Ah]
+B_loJkl: checks
+x0ticer: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+x0ticer: shows [Ad 6h] (a pair of Aces)
+B_loJkl: mucks hand
+x0ticer collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Jc 9c 3s Tc Ah]
+Seat 1: x0ticer (button) (small blind) showed [Ad 6h] and won ($35.50) with a pair of Aces
+Seat 2: B_loJkl (big blind) mucked
+
+
+PokerStars Hand #155420372532:  Hold'em Limit ($3/$6 USD) - 2016/07/01 7:29:52 ET
+Table 'Mineura' 6-max Seat #2 is the button
+Seat 1: x0ticer ($217.08 in chips)
+Seat 2: B_loJkl ($132 in chips)
+B_loJkl: posts small blind $1
+x0ticer: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+x0ticer: calls $3
+*** FLOP *** [3s 4h 4d]
+x0ticer: checks
+B_loJkl: bets $3
+x0ticer: raises $3 to $6
+B_loJkl: calls $3
+*** TURN *** [3s 4h 4d] [9h]
+x0ticer: checks
+B_loJkl: checks
+*** RIVER *** [3s 4h 4d 9h] [As]
+x0ticer: checks
+B_loJkl: checks
+*** SHOW DOWN ***
+x0ticer: shows [4s 8c] (three of a kind, Fours)
+B_loJkl: mucks hand
+x0ticer collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [3s 4h 4d 9h As]
+Seat 1: x0ticer (big blind) showed [4s 8c] and won ($23.52) with three of a kind, Fours
+Seat 2: B_loJkl (button) (small blind) mucked
+
+
+PokerStars Hand #155420385535:  Hold'em Limit ($3/$6 USD) - 2016/07/01 7:30:21 ET
+Table 'Mineura' 6-max Seat #1 is the button
+Seat 1: x0ticer ($228.60 in chips)
+Seat 2: B_loJkl ($120 in chips)
+x0ticer: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+x0ticer: calls $2
+B_loJkl: checks
+*** FLOP *** [Qd 8h Jc]
+B_loJkl: bets $3
+x0ticer: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $5.88 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Qd 8h Jc]
+Seat 1: x0ticer (button) (small blind) folded on the Flop
+Seat 2: B_loJkl (big blind) collected ($5.88)
+
+
+PokerStars Hand #155420403359:  Hold'em Limit ($3/$6 USD) - 2016/07/01 7:31:02 ET
+Table 'Mineura' 6-max Seat #1 is the button
+Seat 1: x0ticer ($234.24 in chips)
+Seat 2: B_loJkl ($113.88 in chips)
+x0ticer: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+x0ticer: raises $3 to $6
+B_loJkl: folds
+Uncalled bet ($3) returned to x0ticer
+x0ticer collected $6 from pot
+x0ticer: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: x0ticer (button) (small blind) collected ($6)
+Seat 2: B_loJkl (big blind) folded before Flop
+
+
+PokerStars Hand #155420410111:  Hold'em Limit ($3/$6 USD) - 2016/07/01 7:31:18 ET
+Table 'Mineura' 6-max Seat #1 is the button
+Seat 1: x0ticer ($234.24 in chips)
+Seat 2: B_loJkl ($113.88 in chips)
+x0ticer: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+x0ticer: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: x0ticer (button) (small blind) folded before Flop
+Seat 2: B_loJkl (big blind) collected ($2)
+
+
+PokerStars Hand #155420406910:  Hold'em Limit ($3/$6 USD) - 2016/07/01 7:31:10 ET
+Table 'Mineura' 6-max Seat #2 is the button
+Seat 1: x0ticer ($237.24 in chips)
+Seat 2: B_loJkl ($110.88 in chips)
+B_loJkl: posts small blind $1
+x0ticer: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+x0ticer: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $6 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: x0ticer (big blind) folded before Flop
+Seat 2: B_loJkl (button) (small blind) collected ($6)
+
+
+PokerStars Hand #155420391008:  Hold'em Limit ($3/$6 USD) - 2016/07/01 7:30:34 ET
+Table 'Mineura' 6-max Seat #2 is the button
+Seat 1: x0ticer ($225.60 in chips)
+Seat 2: B_loJkl ($122.88 in chips)
+B_loJkl: posts small blind $1
+x0ticer: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+x0ticer: calls $3
+*** FLOP *** [2h 4h 3c]
+x0ticer: checks
+B_loJkl: bets $3
+x0ticer: calls $3
+*** TURN *** [2h 4h 3c] [4s]
+x0ticer: checks
+B_loJkl: checks
+*** RIVER *** [2h 4h 3c 4s] [7s]
+x0ticer: checks
+B_loJkl: checks
+*** SHOW DOWN ***
+x0ticer: shows [Qd Js] (a pair of Fours)
+B_loJkl: mucks hand
+x0ticer collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2h 4h 3c 4s 7s]
+Seat 1: x0ticer (big blind) showed [Qd Js] and won ($17.64) with a pair of Fours
+Seat 2: B_loJkl (button) (small blind) mucked
+
+
+PokerStars Hand #155420417143:  Hold'em Limit ($3/$6 USD) - 2016/07/01 7:31:34 ET
+Table 'Mineura' 6-max Seat #1 is the button
+Seat 1: x0ticer ($230.24 in chips)
+Seat 2: B_loJkl ($117.88 in chips)
+x0ticer: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+x0ticer: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+Murrrr_@T joins the table at seat #6
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: x0ticer (button) (small blind) folded before Flop
+Seat 2: B_loJkl (big blind) collected ($2)
+
+
+PokerStars Hand #155420412218:  Hold'em Limit ($3/$6 USD) - 2016/07/01 7:31:23 ET
+Table 'Mineura' 6-max Seat #2 is the button
+Seat 1: x0ticer ($233.24 in chips)
+Seat 2: B_loJkl ($114.88 in chips)
+B_loJkl: posts small blind $1
+x0ticer: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+x0ticer: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $6 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: x0ticer (big blind) folded before Flop
+Seat 2: B_loJkl (button) (small blind) collected ($6)
+
+
+PokerStars Hand #155424223413:  Hold'em Limit ($3/$6 USD) - 2016/07/01 9:46:10 ET
+Table 'Mineura' 6-max Seat #4 is the button
+Seat 4: dannysalami ($304.04 in chips)
+Seat 5: ABATAPP ($226.28 in chips)
+dannysalami: posts small blind $1
+ABATAPP: posts big blind $3
+*** HOLE CARDS ***
+dannysalami: folds
+Uncalled bet ($2) returned to ABATAPP
+ABATAPP collected $2 from pot
+ABATAPP: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: dannysalami (button) (small blind) folded before Flop
+Seat 5: ABATAPP (big blind) collected ($2)
+
+
+PokerStars Hand #155424219833:  Hold'em Limit ($3/$6 USD) - 2016/07/01 9:46:03 ET
+Table 'Mineura' 6-max Seat #5 is the button
+Seat 4: dannysalami ($307.04 in chips)
+Seat 5: ABATAPP ($223.28 in chips)
+ABATAPP: posts small blind $1
+Makomar: is sitting out
+dannysalami: posts big blind $3
+*** HOLE CARDS ***
+ABATAPP: raises $3 to $6
+dannysalami: folds
+Uncalled bet ($3) returned to ABATAPP
+ABATAPP collected $6 from pot
+ABATAPP: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 4: dannysalami (big blind) folded before Flop
+Seat 5: ABATAPP (button) (small blind) collected ($6)
+
+

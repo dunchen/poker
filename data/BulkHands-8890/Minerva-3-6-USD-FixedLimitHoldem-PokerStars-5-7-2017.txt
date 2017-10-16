@@ -1,0 +1,58 @@
+PokerStars Hand #170082439427:  Hold'em Limit ($3/$6 USD) - 2017/05/07 11:41:30 ET
+Table 'Minerva' 10-max Seat #6 is the button
+Seat 6: sim5sim5 ($72 in chips)
+Seat 7: TinaTurner72 ($120 in chips)
+sim5sim5: posts small blind $1
+TinaTurner72: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+TinaTurner72: raises $3 to $9
+sim5sim5: calls $3
+*** FLOP *** [Kh 6s 9h]
+TinaTurner72: bets $3
+sim5sim5: raises $3 to $6
+TinaTurner72: calls $3
+*** TURN *** [Kh 6s 9h] [3c]
+TinaTurner72: checks
+sim5sim5: bets $6
+TinaTurner72: folds
+Uncalled bet ($6) returned to sim5sim5
+sim5sim5 collected $29.50 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kh 6s 9h 3c]
+Seat 6: sim5sim5 (button) (small blind) collected ($29.50)
+Seat 7: TinaTurner72 (big blind) folded on the Turn
+
+
+PokerStars Hand #170082475259:  Hold'em Limit ($3/$6 USD) - 2017/05/07 11:42:15 ET
+Table 'Minerva' 10-max Seat #7 is the button
+Seat 6: sim5sim5 ($86.50 in chips)
+Seat 7: TinaTurner72 ($105 in chips)
+TinaTurner72: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+TinaTurner72: raises $3 to $6
+sim5sim5: calls $3
+*** FLOP *** [Tc 4c 7h]
+sim5sim5: checks
+TinaTurner72: bets $3
+sim5sim5: calls $3
+*** TURN *** [Tc 4c 7h] [8s]
+sim5sim5: checks
+TinaTurner72: checks
+*** RIVER *** [Tc 4c 7h 8s] [7d]
+sim5sim5: bets $6
+TinaTurner72: calls $6
+*** SHOW DOWN ***
+sim5sim5: shows [Jh 9c] (a straight, Seven to Jack)
+TinaTurner72: mucks hand
+sim5sim5 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Tc 4c 7h 8s 7d]
+Seat 6: sim5sim5 (big blind) showed [Jh 9c] and won ($29.50) with a straight, Seven to Jack
+Seat 7: TinaTurner72 (button) (small blind) mucked
+
+

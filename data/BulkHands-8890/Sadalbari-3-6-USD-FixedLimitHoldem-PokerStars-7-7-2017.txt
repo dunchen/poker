@@ -1,0 +1,32 @@
+PokerStars Hand #172710694443:  Hold'em Limit ($3/$6 USD) - 2017/07/07 5:25:02 ET
+Table 'Sadalbari' 6-max Seat #3 is the button
+Seat 3: BranzanM ($62.87 in chips)
+Seat 4: Agrotait ($72 in chips)
+BranzanM: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+BranzanM: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [6c 7c 7d]
+Agrotait: checks
+BranzanM: bets $3
+Agrotait: raises $3 to $6
+BranzanM: calls $3
+*** TURN *** [6c 7c 7d] [5d]
+Agrotait: bets $6
+BranzanM: calls $6
+*** RIVER *** [6c 7c 7d 5d] [8d]
+Agrotait: checks
+BranzanM: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+BranzanM: shows [Ad 9d] (a flush, Ace high)
+Agrotait: mucks hand
+BranzanM collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [6c 7c 7d 5d 8d]
+Seat 3: BranzanM (button) (small blind) showed [Ad 9d] and won ($47.50) with a flush, Ace high
+Seat 4: Agrotait (big blind) mucked
+
+

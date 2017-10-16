@@ -1,0 +1,65 @@
+PokerStars Hand #172087408710:  Hold'em Limit ($3/$6 USD) - 2017/06/22 4:07:43 ET
+Table 'Amneris' 6-max Seat #4 is the button
+Seat 2: JessLuxor ($112.84 in chips)
+Seat 4: VolkovDmitri ($134.50 in chips)
+VolkovDmitri: posts small blind $1
+JessLuxor: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+JessLuxor: calls $3
+*** FLOP *** [9s Tc 6h]
+JessLuxor: checks
+VolkovDmitri: bets $3
+JessLuxor: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+JessLuxor: calls $3
+*** TURN *** [9s Tc 6h] [7h]
+JessLuxor: checks
+VolkovDmitri: bets $6
+JessLuxor: calls $6
+*** RIVER *** [9s Tc 6h 7h] [8d]
+JessLuxor: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+JessLuxor: shows [Qc 6d] (a straight, Six to Ten)
+VolkovDmitri: shows [6c 8c] (a straight, Six to Ten)
+JessLuxor collected $20.75 from pot
+VolkovDmitri collected $20.75 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9s Tc 6h 7h 8d]
+Seat 2: JessLuxor (big blind) showed [Qc 6d] and won ($20.75) with a straight, Six to Ten
+Seat 4: VolkovDmitri (button) (small blind) showed [6c 8c] and won ($20.75) with a straight, Six to Ten
+
+
+PokerStars Hand #172087417784:  Hold'em Limit ($3/$6 USD) - 2017/06/22 4:08:15 ET
+Table 'Amneris' 6-max Seat #2 is the button
+Seat 2: JessLuxor ($112.59 in chips)
+Seat 4: VolkovDmitri ($134.25 in chips)
+JessLuxor: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+JessLuxor: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [3d Th Js]
+VolkovDmitri: checks
+JessLuxor: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [3d Th Js] [3h]
+VolkovDmitri: checks
+JessLuxor: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [3d Th Js 3h] [2h]
+VolkovDmitri: checks
+JessLuxor: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to JessLuxor
+JessLuxor collected $29.50 from pot
+JessLuxor: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3d Th Js 3h 2h]
+Seat 2: JessLuxor (button) (small blind) collected ($29.50)
+Seat 4: VolkovDmitri (big blind) folded on the River
+
+

@@ -1,0 +1,63 @@
+PokerStars Hand #168668475011:  Hold'em Limit ($3/$6 USD) - 2017/04/06 14:56:16 ET
+Table 'Nemesis II' 10-max Seat #7 is the button
+Seat 7: happyshine88 ($83.34 in chips)
+Seat 8: MTails ($120 in chips)
+happyshine88: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+happyshine88: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [9s 7h 9c]
+MTails: checks
+happyshine88: bets $3
+MTails: calls $3
+*** TURN *** [9s 7h 9c] [5h]
+MTails: checks
+happyshine88: checks
+*** RIVER *** [9s 7h 9c 5h] [6d]
+MTails: checks
+happyshine88: bets $6
+MTails: calls $6
+*** SHOW DOWN ***
+happyshine88: shows [8h 7d] (a straight, Five to Nine)
+MTails: mucks hand
+happyshine88 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9s 7h 9c 5h 6d]
+Seat 7: happyshine88 (button) (small blind) showed [8h 7d] and won ($29.50) with a straight, Five to Nine
+Seat 8: MTails (big blind) mucked
+
+
+PokerStars Hand #168668526094:  Hold'em Limit ($3/$6 USD) - 2017/04/06 14:57:31 ET
+Table 'Nemesis II' 10-max Seat #7 is the button
+Seat 7: happyshine88 ($91.84 in chips)
+Seat 8: MTails ($110.76 in chips)
+happyshine88: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+happyshine88: raises $3 to $6
+MTails: raises $3 to $9
+happyshine88: calls $3
+*** FLOP *** [Ts 6h 2s]
+MTails: bets $3
+happyshine88: calls $3
+*** TURN *** [Ts 6h 2s] [Jc]
+barranqueiro joins the table at seat #1
+MTails: checks
+happyshine88: bets $6
+MTails: calls $6
+*** RIVER *** [Ts 6h 2s Jc] [As]
+MTails: bets $6
+happyshine88: calls $6
+*** SHOW DOWN ***
+MTails: shows [7h 9d] (high card Ace)
+happyshine88: shows [Jh 8c] (a pair of Jacks)
+happyshine88 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Ts 6h 2s Jc As]
+Seat 7: happyshine88 (button) (small blind) showed [Jh 8c] and won ($47.50) with a pair of Jacks
+Seat 8: MTails (big blind) showed [7h 9d] and lost with high card Ace
+
+

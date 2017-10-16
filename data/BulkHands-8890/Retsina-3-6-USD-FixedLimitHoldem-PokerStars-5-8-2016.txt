@@ -1,0 +1,527 @@
+PokerStars Hand #153046352146:  Hold'em Limit ($3/$6 USD) - 2016/05/08 19:00:58 ET
+Table 'Retsina' 6-max Seat #4 is the button
+Seat 3: GoliafUa ($87 in chips)
+Seat 4: chip_diddler ($84.02 in chips)
+chip_diddler: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+chip_diddler: calls $2
+GoliafUa: checks
+*** FLOP *** [2s 2d 2h]
+GoliafUa: checks
+chip_diddler: checks
+*** TURN *** [2s 2d 2h] [9c]
+GoliafUa: checks
+chip_diddler: checks
+*** RIVER *** [2s 2d 2h 9c] [9d]
+GoliafUa: checks
+chip_diddler: bets $6
+GoliafUa: calls $6
+*** SHOW DOWN ***
+chip_diddler: shows [6d 5s] (a full house, Deuces full of Nines)
+GoliafUa: shows [3d 6h] (a full house, Deuces full of Nines)
+GoliafUa collected $8.82 from pot
+chip_diddler collected $8.82 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2s 2d 2h 9c 9d]
+Seat 3: GoliafUa (big blind) showed [3d 6h] and won ($8.82) with a full house, Deuces full of Nines
+Seat 4: chip_diddler (button) (small blind) showed [6d 5s] and won ($8.82) with a full house, Deuces full of Nines
+
+
+PokerStars Hand #153046343001:  Hold'em Limit ($3/$6 USD) - 2016/05/08 19:00:41 ET
+Table 'Retsina' 6-max Seat #3 is the button
+Seat 3: GoliafUa ($111 in chips)
+Seat 4: chip_diddler ($60.52 in chips)
+GoliafUa: posts small blind $1
+chip_diddler: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa: raises $3 to $6
+chip_diddler: raises $3 to $9
+GoliafUa: calls $3
+*** FLOP *** [4s 3s Jc]
+chip_diddler: bets $3
+GoliafUa: calls $3
+*** TURN *** [4s 3s Jc] [Qd]
+chip_diddler: checks
+GoliafUa: bets $6
+chip_diddler: calls $6
+*** RIVER *** [4s 3s Jc Qd] [Tc]
+chip_diddler: checks
+GoliafUa: bets $6
+chip_diddler: raises $6 to $12
+GoliafUa: folds
+Uncalled bet ($6) returned to chip_diddler
+chip_diddler collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4s 3s Jc Qd Tc]
+Seat 3: GoliafUa (button) (small blind) folded on the River
+Seat 4: chip_diddler (big blind) collected ($47.50)
+
+
+PokerStars Hand #153046391287:  Hold'em Limit ($3/$6 USD) - 2016/05/08 19:02:04 ET
+Table 'Retsina' 6-max Seat #4 is the button
+Seat 3: GoliafUa ($93.09 in chips)
+Seat 4: chip_diddler ($76.35 in chips)
+chip_diddler: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+chip_diddler: raises $3 to $6
+GoliafUa: raises $3 to $9
+chip_diddler: calls $3
+*** FLOP *** [Jc 3c Qs]
+GoliafUa: bets $3
+chip_diddler: raises $3 to $6
+GoliafUa: folds
+Uncalled bet ($3) returned to chip_diddler
+chip_diddler collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Jc 3c Qs]
+Seat 3: GoliafUa (big blind) folded on the Flop
+Seat 4: chip_diddler (button) (small blind) collected ($23.52)
+
+
+PokerStars Hand #153046385075:  Hold'em Limit ($3/$6 USD) - 2016/05/08 19:01:54 ET
+Table 'Retsina' 6-max Seat #3 is the button
+Seat 3: GoliafUa ($87.33 in chips)
+Seat 4: chip_diddler ($82.35 in chips)
+GoliafUa: posts small blind $1
+chip_diddler: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa: raises $3 to $6
+chip_diddler: calls $3
+*** FLOP *** [6c As Js]
+chip_diddler: checks
+GoliafUa: bets $3
+chip_diddler: folds
+Uncalled bet ($3) returned to GoliafUa
+GoliafUa collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6c As Js]
+Seat 3: GoliafUa (button) (small blind) collected ($11.76)
+Seat 4: chip_diddler (big blind) folded on the Flop
+
+
+PokerStars Hand #153046377338:  Hold'em Limit ($3/$6 USD) - 2016/05/08 19:01:41 ET
+Table 'Retsina' 6-max Seat #4 is the button
+Seat 3: GoliafUa ($93.33 in chips)
+Seat 4: chip_diddler ($76.59 in chips)
+chip_diddler: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+chip_diddler: raises $3 to $6
+GoliafUa: calls $3
+*** FLOP *** [7s 8c 2s]
+GoliafUa: checks
+chip_diddler: checks
+*** TURN *** [7s 8c 2s] [Js]
+GoliafUa: checks
+chip_diddler: checks
+*** RIVER *** [7s 8c 2s Js] [9d]
+GoliafUa: checks
+chip_diddler: checks
+*** SHOW DOWN ***
+GoliafUa: shows [Qd 5h] (high card Queen)
+chip_diddler: shows [Ah 5s] (high card Ace)
+chip_diddler collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7s 8c 2s Js 9d]
+Seat 3: GoliafUa (big blind) showed [Qd 5h] and lost with high card Queen
+Seat 4: chip_diddler (button) (small blind) showed [Ah 5s] and won ($11.76) with high card Ace
+
+
+PokerStars Hand #153046367901:  Hold'em Limit ($3/$6 USD) - 2016/05/08 19:01:26 ET
+Table 'Retsina' 6-max Seat #3 is the button
+Seat 3: GoliafUa ($93.58 in chips)
+Seat 4: chip_diddler ($76.84 in chips)
+GoliafUa: posts small blind $1
+chip_diddler: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa: raises $3 to $6
+chip_diddler: calls $3
+*** FLOP *** [Js 5d Jd]
+chip_diddler: checks
+GoliafUa: bets $3
+chip_diddler: raises $3 to $6
+GoliafUa: calls $3
+*** TURN *** [Js 5d Jd] [8d]
+chip_diddler: bets $6
+GoliafUa: calls $6
+*** RIVER *** [Js 5d Jd 8d] [9h]
+chip_diddler: checks
+GoliafUa: checks
+*** SHOW DOWN ***
+chip_diddler: shows [5s 6c] (two pair, Jacks and Fives)
+GoliafUa: shows [3d 5c] (two pair, Jacks and Fives)
+chip_diddler collected $17.75 from pot
+GoliafUa collected $17.75 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Js 5d Jd 8d 9h]
+Seat 3: GoliafUa (button) (small blind) showed [3d 5c] and won ($17.75) with two pair, Jacks and Fives
+Seat 4: chip_diddler (big blind) showed [5s 6c] and won ($17.75) with two pair, Jacks and Fives
+
+
+PokerStars Hand #153046365033:  Hold'em Limit ($3/$6 USD) - 2016/05/08 19:01:21 ET
+Table 'Retsina' 6-max Seat #4 is the button
+Seat 3: GoliafUa ($92.58 in chips)
+Seat 4: chip_diddler ($77.84 in chips)
+chip_diddler: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+chip_diddler: folds
+Uncalled bet ($2) returned to GoliafUa
+GoliafUa collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: GoliafUa (big blind) collected ($2)
+Seat 4: chip_diddler (button) (small blind) folded before Flop
+
+
+PokerStars Hand #153046360157:  Hold'em Limit ($3/$6 USD) - 2016/05/08 19:01:13 ET
+Table 'Retsina' 6-max Seat #3 is the button
+Seat 3: GoliafUa ($86.82 in chips)
+Seat 4: chip_diddler ($83.84 in chips)
+GoliafUa: posts small blind $1
+chip_diddler: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa: raises $3 to $6
+chip_diddler: calls $3
+*** FLOP *** [As 4h 9h]
+chip_diddler: checks
+GoliafUa: bets $3
+chip_diddler: folds
+Uncalled bet ($3) returned to GoliafUa
+GoliafUa collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [As 4h 9h]
+Seat 3: GoliafUa (button) (small blind) collected ($11.76)
+Seat 4: chip_diddler (big blind) folded on the Flop
+
+
+PokerStars Hand #153046425962:  Hold'em Limit ($3/$6 USD) - 2016/05/08 19:02:57 ET
+Table 'Retsina' 6-max Seat #4 is the button
+Seat 3: GoliafUa ($110.85 in chips)
+Seat 4: chip_diddler ($116.87 in chips)
+chip_diddler: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+chip_diddler: raises $3 to $6
+GoliafUa: folds
+Uncalled bet ($3) returned to chip_diddler
+chip_diddler collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: GoliafUa (big blind) folded before Flop
+Seat 4: chip_diddler (button) (small blind) collected ($6)
+
+
+PokerStars Hand #153046419128:  Hold'em Limit ($3/$6 USD) - 2016/05/08 19:02:47 ET
+Table 'Retsina' 6-max Seat #3 is the button
+Seat 3: GoliafUa ($105.09 in chips)
+Seat 4: chip_diddler ($122.87 in chips)
+GoliafUa: posts small blind $1
+chip_diddler: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa: raises $3 to $6
+chip_diddler: calls $3
+*** FLOP *** [8h Qh 8s]
+chip_diddler: checks
+GoliafUa: bets $3
+chip_diddler: folds
+Uncalled bet ($3) returned to GoliafUa
+GoliafUa collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8h Qh 8s]
+Seat 3: GoliafUa (button) (small blind) collected ($11.76)
+Seat 4: chip_diddler (big blind) folded on the Flop
+
+
+PokerStars Hand #153046408781:  Hold'em Limit ($3/$6 USD) - 2016/05/08 19:02:31 ET
+Table 'Retsina' 6-max Seat #4 is the button
+Seat 3: GoliafUa ($66.09 in chips)
+Seat 4: chip_diddler ($102.37 in chips)
+chip_diddler: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+chip_diddler: raises $3 to $6
+GoliafUa: calls $3
+*** FLOP *** [5c 8s Jh]
+GoliafUa: checks
+chip_diddler: bets $3
+GoliafUa: raises $3 to $6
+chip_diddler: raises $3 to $9
+GoliafUa: calls $3
+*** TURN *** [5c 8s Jh] [3h]
+GoliafUa: checks
+chip_diddler: bets $6
+GoliafUa: calls $6
+*** RIVER *** [5c 8s Jh 3h] [Kd]
+GoliafUa: checks
+chip_diddler: bets $6
+GoliafUa: folds
+Uncalled bet ($6) returned to chip_diddler
+chip_diddler collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [5c 8s Jh 3h Kd]
+Seat 3: GoliafUa (big blind) folded on the River
+Seat 4: chip_diddler (button) (small blind) collected ($41.50)
+
+
+PokerStars Hand #153046398250:  Hold'em Limit ($3/$6 USD) - 2016/05/08 19:02:14 ET
+Table 'Retsina' 6-max Seat #3 is the button
+Seat 3: GoliafUa ($81.09 in chips)
+Seat 4: chip_diddler ($87.87 in chips)
+GoliafUa: posts small blind $1
+chip_diddler: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa: raises $3 to $6
+chip_diddler: calls $3
+*** FLOP *** [Tc Kh 4h]
+chip_diddler: bets $3
+GoliafUa: calls $3
+*** TURN *** [Tc Kh 4h] [Ad]
+chip_diddler: checks
+GoliafUa: bets $6
+chip_diddler: calls $6
+*** RIVER *** [Tc Kh 4h Ad] [3d]
+chip_diddler: checks
+GoliafUa: checks
+*** SHOW DOWN ***
+chip_diddler: shows [Qc 4d] (a pair of Fours)
+GoliafUa: mucks hand
+chip_diddler collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Tc Kh 4h Ad 3d]
+Seat 3: GoliafUa (button) (small blind) mucked
+Seat 4: chip_diddler (big blind) showed [Qc 4d] and won ($29.50) with a pair of Fours
+
+
+PokerStars Hand #153046443860:  Hold'em Limit ($3/$6 USD) - 2016/05/08 19:03:23 ET
+Table 'Retsina' 6-max Seat #3 is the button
+Seat 3: GoliafUa ($126.35 in chips)
+Seat 4: chip_diddler ($100.87 in chips)
+GoliafUa: posts small blind $1
+chip_diddler: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa: raises $3 to $6
+chip_diddler: calls $3
+*** FLOP *** [6h 3c Ah]
+chip_diddler: checks
+GoliafUa: bets $3
+chip_diddler: calls $3
+*** TURN *** [6h 3c Ah] [3s]
+chip_diddler: checks
+GoliafUa: checks
+*** RIVER *** [6h 3c Ah 3s] [7d]
+chip_diddler: bets $6
+GoliafUa: folds
+Uncalled bet ($6) returned to chip_diddler
+chip_diddler collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6h 3c Ah 3s 7d]
+Seat 3: GoliafUa (button) (small blind) folded on the River
+Seat 4: chip_diddler (big blind) collected ($17.64)
+
+
+PokerStars Hand #153046440708:  Hold'em Limit ($3/$6 USD) - 2016/05/08 19:03:19 ET
+Table 'Retsina' 6-max Seat #4 is the button
+Seat 3: GoliafUa ($125.35 in chips)
+Seat 4: chip_diddler ($101.87 in chips)
+chip_diddler: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+ABATAPP joins the table at seat #5
+chip_diddler: folds
+Uncalled bet ($2) returned to GoliafUa
+GoliafUa collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: GoliafUa (big blind) collected ($2)
+Seat 4: chip_diddler (button) (small blind) folded before Flop
+
+
+PokerStars Hand #153046429644:  Hold'em Limit ($3/$6 USD) - 2016/05/08 19:03:02 ET
+Table 'Retsina' 6-max Seat #3 is the button
+Seat 3: GoliafUa ($107.85 in chips)
+Seat 4: chip_diddler ($119.87 in chips)
+GoliafUa: posts small blind $1
+chip_diddler: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa: raises $3 to $6
+chip_diddler: calls $3
+*** FLOP *** [Ts 4c 6s]
+chip_diddler: checks
+GoliafUa: bets $3
+chip_diddler: raises $3 to $6
+GoliafUa: calls $3
+*** TURN *** [Ts 4c 6s] [9h]
+chip_diddler: checks
+GoliafUa: checks
+*** RIVER *** [Ts 4c 6s 9h] [Td]
+chip_diddler: bets $6
+GoliafUa: calls $6
+*** SHOW DOWN ***
+chip_diddler: shows [Ac 5s] (a pair of Tens)
+GoliafUa: shows [4h Ks] (two pair, Tens and Fours)
+GoliafUa collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Ts 4c 6s 9h Td]
+Seat 3: GoliafUa (button) (small blind) showed [4h Ks] and won ($35.50) with two pair, Tens and Fours
+Seat 4: chip_diddler (big blind) showed [Ac 5s] and lost with a pair of Tens
+
+
+PokerStars Hand #153047273768:  Hold'em Limit ($3/$6 USD) - 2016/05/08 19:24:39 ET
+Table 'Retsina' 6-max Seat #6 is the button
+Seat 5: ABATAPP ($148.12 in chips)
+Seat 6: noda_ace ($26.43 in chips)
+noda_ace: posts small blind $1
+GRAILKO: is sitting out
+vestimokrec: is sitting out
+ABATAPP: posts big blind $3
+*** HOLE CARDS ***
+noda_ace: raises $3 to $6
+GRAILKO leaves the table
+ABATAPP: calls $3
+*** FLOP *** [3d 2d 6c]
+ABATAPP: checks
+vestimokrec leaves the table
+noda_ace: bets $3
+ABATAPP: calls $3
+*** TURN *** [3d 2d 6c] [Qh]
+ABATAPP: checks
+noda_ace: bets $6
+ABATAPP: folds
+Uncalled bet ($6) returned to noda_ace
+noda_ace collected $17.64 from pot
+noda_ace: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3d 2d 6c Qh]
+Seat 5: ABATAPP (big blind) folded on the Turn
+Seat 6: noda_ace (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #153047289066:  Hold'em Limit ($3/$6 USD) - 2016/05/08 19:25:04 ET
+Table 'Retsina' 6-max Seat #6 is the button
+Seat 5: ABATAPP ($142.12 in chips)
+Seat 6: noda_ace ($32.07 in chips)
+noda_ace: posts small blind $1
+ABATAPP: posts big blind $3
+*** HOLE CARDS ***
+noda_ace: raises $3 to $6
+ABATAPP: folds
+Uncalled bet ($3) returned to noda_ace
+noda_ace collected $6 from pot
+noda_ace: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 5: ABATAPP (big blind) folded before Flop
+Seat 6: noda_ace (button) (small blind) collected ($6)
+
+
+PokerStars Hand #153047285209:  Hold'em Limit ($3/$6 USD) - 2016/05/08 19:24:58 ET
+Table 'Retsina' 6-max Seat #5 is the button
+Seat 5: ABATAPP ($139.12 in chips)
+Seat 6: noda_ace ($35.07 in chips)
+ABATAPP: posts small blind $1
+noda_ace: posts big blind $3
+*** HOLE CARDS ***
+ABATAPP: raises $3 to $6
+noda_ace: folds
+Uncalled bet ($3) returned to ABATAPP
+ABATAPP collected $6 from pot
+ABATAPP: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 5: ABATAPP (button) (small blind) collected ($6)
+Seat 6: noda_ace (big blind) folded before Flop
+
+
+PokerStars Hand #153047293999:  Hold'em Limit ($3/$6 USD) - 2016/05/08 19:25:12 ET
+Table 'Retsina' 6-max Seat #5 is the button
+Seat 5: ABATAPP ($139.12 in chips)
+Seat 6: noda_ace ($35.07 in chips)
+ABATAPP: posts small blind $1
+noda_ace: posts big blind $3
+*** HOLE CARDS ***
+ABATAPP: raises $3 to $6
+noda_ace: folds
+Uncalled bet ($3) returned to ABATAPP
+ABATAPP collected $6 from pot
+ABATAPP: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 5: ABATAPP (button) (small blind) collected ($6)
+Seat 6: noda_ace (big blind) folded before Flop
+
+
+PokerStars Hand #153047297903:  Hold'em Limit ($3/$6 USD) - 2016/05/08 19:25:18 ET
+Table 'Retsina' 6-max Seat #6 is the button
+Seat 5: ABATAPP ($142.12 in chips)
+Seat 6: noda_ace ($32.07 in chips)
+noda_ace: posts small blind $1
+ABATAPP: posts big blind $3
+*** HOLE CARDS ***
+noda_ace: raises $3 to $6
+ABATAPP: calls $3
+*** FLOP *** [Qh 7c 2s]
+ABATAPP: checks
+noda_ace: bets $3
+ABATAPP: calls $3
+*** TURN *** [Qh 7c 2s] [3s]
+anetkaapro joins the table at seat #1
+ABATAPP: checks
+noda_ace: bets $6
+ABATAPP: calls $6
+*** RIVER *** [Qh 7c 2s 3s] [4h]
+ABATAPP: bets $6
+noda_ace: calls $6
+*** SHOW DOWN ***
+ABATAPP: shows [Qd 8h] (a pair of Queens)
+noda_ace: mucks hand
+ABATAPP collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Qh 7c 2s 3s 4h]
+Seat 5: ABATAPP (big blind) showed [Qd 8h] and won ($41.50) with a pair of Queens
+Seat 6: noda_ace (button) (small blind) mucked
+
+
+PokerStars Hand #153047312161:  Hold'em Limit ($3/$6 USD) - 2016/05/08 19:25:42 ET
+Table 'Retsina' 6-max Seat #5 is the button
+Seat 5: ABATAPP ($162.62 in chips)
+Seat 6: noda_ace ($11.07 in chips)
+ABATAPP: posts small blind $1
+noda_ace: posts big blind $3
+*** HOLE CARDS ***
+ABATAPP: raises $3 to $6
+noda_ace: raises $3 to $9
+ABATAPP: raises $3 to $12
+Betting is capped
+noda_ace: calls $2.07 and is all-in
+Uncalled bet ($0.93) returned to ABATAPP
+*** FLOP *** [9s 5s 7c]
+*** TURN *** [9s 5s 7c] [2c]
+*** RIVER *** [9s 5s 7c 2c] [9c]
+*** SHOW DOWN ***
+noda_ace: shows [Ad 2d] (two pair, Nines and Deuces)
+ABATAPP: shows [8s 8h] (two pair, Nines and Eights)
+ABATAPP collected $21.70 from pot
+*** SUMMARY ***
+Total pot $22.14 | Rake $0.44
+Board [9s 5s 7c 2c 9c]
+Seat 5: ABATAPP (button) (small blind) showed [8s 8h] and won ($21.70) with two pair, Nines and Eights
+Seat 6: noda_ace (big blind) showed [Ad 2d] and lost with two pair, Nines and Deuces
+
+

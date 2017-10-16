@@ -1,0 +1,35 @@
+PokerStars Hand #160663214423:  Hold'em Limit ($3/$6 USD) - 2016/10/30 16:45:14 ET
+Table 'Atreus III' 6-max Seat #1 is the button
+Seat 1: jackRizzar ($171 in chips)
+Seat 5: Psynto ($364.66 in chips)
+jackRizzar: posts small blind $1
+Kursor: is sitting out
+Psynto: posts big blind $3
+*** HOLE CARDS ***
+jackRizzar: raises $3 to $6
+Psynto: calls $3
+*** FLOP *** [2c Tc 8d]
+Rohirrim leaves the table
+Psynto: checks
+Kursor leaves the table
+jackRizzar: bets $3
+Psynto: raises $3 to $6
+jackRizzar: calls $3
+*** TURN *** [2c Tc 8d] [4c]
+Psynto: bets $6
+jackRizzar: calls $6
+*** RIVER *** [2c Tc 8d 4c] [8c]
+Psynto: checks
+jackRizzar: bets $6
+Psynto: calls $6
+*** SHOW DOWN ***
+jackRizzar: shows [6h 7s] (a pair of Eights)
+Psynto: shows [9d 8h] (three of a kind, Eights)
+Psynto collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2c Tc 8d 4c 8c]
+Seat 1: jackRizzar (button) (small blind) showed [6h 7s] and lost with a pair of Eights
+Seat 5: Psynto (big blind) showed [9d 8h] and won ($47.50) with three of a kind, Eights
+
+

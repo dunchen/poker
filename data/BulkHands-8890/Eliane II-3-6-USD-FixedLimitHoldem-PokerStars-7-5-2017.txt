@@ -1,0 +1,51 @@
+PokerStars Hand #172639084918:  Hold'em Limit ($3/$6 USD) - 2017/07/05 12:08:45 ET
+Table 'Eliane II' 6-max Seat #3 is the button
+Seat 1: anebodil ($110.26 in chips)
+Seat 3: sim5sim5 ($74.88 in chips)
+sim5sim5: posts small blind $1
+anebodil: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+anebodil: calls $3
+*** FLOP *** [Tc Qd 2d]
+B_loJkl joins the table at seat #2
+anebodil: checks
+sim5sim5: bets $3
+anebodil: calls $3
+*** TURN *** [Tc Qd 2d] [5s]
+anebodil: checks
+sim5sim5: bets $6
+anebodil: calls $6
+*** RIVER *** [Tc Qd 2d 5s] [Ah]
+anebodil: bets $6
+sim5sim5: folds
+Uncalled bet ($6) returned to anebodil
+anebodil collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Tc Qd 2d 5s Ah]
+Seat 1: anebodil (big blind) collected ($29.50)
+Seat 3: sim5sim5 (button) (small blind) folded on the River
+
+
+PokerStars Hand #172639077022:  Hold'em Limit ($3/$6 USD) - 2017/07/05 12:08:32 ET
+Table 'Eliane II' 6-max Seat #1 is the button
+Seat 1: anebodil ($113.26 in chips)
+Seat 3: sim5sim5 ($72 in chips)
+anebodil: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+anebodil: calls $2
+sim5sim5: checks
+*** FLOP *** [Ks 2s Kh]
+sim5sim5: bets $3
+anebodil: folds
+Uncalled bet ($3) returned to sim5sim5
+sim5sim5 collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Ks 2s Kh]
+Seat 1: anebodil (button) (small blind) folded on the Flop
+Seat 3: sim5sim5 (big blind) collected ($5.88)
+
+

@@ -1,0 +1,85 @@
+PokerStars Hand #152318123378:  Hold'em Limit ($3/$6 USD) - 2016/04/23 5:55:49 ET
+Table 'Gaspra II' 6-max Seat #6 is the button
+Seat 5: Pheno_kat ($42.93 in chips)
+Seat 6: GoliafUa ($120 in chips)
+GoliafUa: posts small blind $1
+Pheno_kat: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa: raises $3 to $6
+Pheno_kat: calls $3
+*** FLOP *** [Jh 9h 7c]
+Pheno_kat: checks
+GoliafUa: bets $3
+Pheno_kat: folds
+Uncalled bet ($3) returned to GoliafUa
+GoliafUa collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jh 9h 7c]
+Seat 5: Pheno_kat (big blind) folded on the Flop
+Seat 6: GoliafUa (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #152318128306:  Hold'em Limit ($3/$6 USD) - 2016/04/23 5:56:02 ET
+Table 'Gaspra II' 6-max Seat #5 is the button
+Seat 5: Pheno_kat ($36.93 in chips)
+Seat 6: GoliafUa ($125.76 in chips)
+Pheno_kat: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+Pheno_kat: raises $3 to $6
+GoliafUa: calls $3
+*** FLOP *** [5d 6h 7c]
+GoliafUa: checks
+Pheno_kat: bets $3
+GoliafUa: raises $3 to $6
+Pheno_kat: raises $3 to $9
+GoliafUa: raises $3 to $12
+Betting is capped
+Pheno_kat: calls $3
+*** TURN *** [5d 6h 7c] [3d]
+GoliafUa: checks
+Pheno_kat: bets $6
+GoliafUa: calls $6
+*** RIVER *** [5d 6h 7c 3d] [8d]
+GoliafUa: checks
+Pheno_kat: checks
+*** SHOW DOWN ***
+GoliafUa: shows [Jd 7s] (a pair of Sevens)
+Pheno_kat: mucks hand
+GoliafUa collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [5d 6h 7c 3d 8d]
+Seat 5: Pheno_kat (button) (small blind) mucked
+Seat 6: GoliafUa (big blind) showed [Jd 7s] and won ($47.50) with a pair of Sevens
+
+
+PokerStars Hand #152318135894:  Hold'em Limit ($3/$6 USD) - 2016/04/23 5:56:21 ET
+Table 'Gaspra II' 6-max Seat #6 is the button
+Seat 5: Pheno_kat ($12.93 in chips)
+Seat 6: GoliafUa ($149.26 in chips)
+GoliafUa: posts small blind $1
+Pheno_kat: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa: raises $3 to $6
+Pheno_kat: raises $3 to $9
+GoliafUa: raises $3 to $12
+Betting is capped
+Pheno_kat: calls $3
+*** FLOP *** [Qc 3c 3d]
+Pheno_kat: bets $0.93 and is all-in
+GoliafUa: calls $0.93
+*** TURN *** [Qc 3c 3d] [Ah]
+*** RIVER *** [Qc 3c 3d Ah] [8c]
+*** SHOW DOWN ***
+Pheno_kat: shows [9c Th] (a pair of Threes)
+GoliafUa: shows [Ac Td] (two pair, Aces and Threes)
+GoliafUa collected $25.36 from pot
+*** SUMMARY ***
+Total pot $25.86 | Rake $0.50
+Board [Qc 3c 3d Ah 8c]
+Seat 5: Pheno_kat (big blind) showed [9c Th] and lost with a pair of Threes
+Seat 6: GoliafUa (button) (small blind) showed [Ac Td] and won ($25.36) with two pair, Aces and Threes
+
+

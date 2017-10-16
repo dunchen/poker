@@ -1,0 +1,56 @@
+PokerStars Hand #151644401831:  Hold'em Limit ($3/$6 USD) - 2016/04/08 22:46:00 ET
+Table 'Vincentina' 6-max Seat #5 is the button
+Seat 5: zkarpis ($5.49 in chips)
+Seat 6: VolkovDmitri ($146.50 in chips)
+zkarpis: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+zkarpis: raises $2.49 to $5.49 and is all-in
+VolkovDmitri: calls $2.49
+*** FLOP *** [9s Kh 4s]
+*** TURN *** [9s Kh 4s] [5c]
+*** RIVER *** [9s Kh 4s 5c] [2s]
+*** SHOW DOWN ***
+VolkovDmitri: shows [Qc 9c] (a pair of Nines)
+zkarpis: shows [Qh 6c] (high card King)
+VolkovDmitri collected $10.76 from pot
+*** SUMMARY ***
+Total pot $10.98 | Rake $0.22
+Board [9s Kh 4s 5c 2s]
+Seat 5: zkarpis (button) (small blind) showed [Qh 6c] and lost with high card King
+Seat 6: VolkovDmitri (big blind) showed [Qc 9c] and won ($10.76) with a pair of Nines
+
+
+PokerStars Hand #151644389716:  Hold'em Limit ($3/$6 USD) - 2016/04/08 22:45:27 ET
+Table 'Vincentina' 6-max Seat #6 is the button
+Seat 5: zkarpis ($32.49 in chips)
+Seat 6: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+zkarpis: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+zkarpis: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [9s Kc Qc]
+zkarpis: checks
+Mordnilap joins the table at seat #1
+VolkovDmitri: bets $3
+zkarpis: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [9s Kc Qc] [3d]
+zkarpis: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [9s Kc Qc 3d] [4s]
+zkarpis: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+zkarpis: shows [Jc Ac] (high card Ace)
+VolkovDmitri: shows [Qs Th] (a pair of Queens)
+VolkovDmitri collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [9s Kc Qc 3d 4s]
+Seat 5: zkarpis (big blind) showed [Jc Ac] and lost with high card Ace
+Seat 6: VolkovDmitri (button) (small blind) showed [Qs Th] and won ($53.50) with a pair of Queens
+
+

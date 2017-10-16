@@ -1,0 +1,32 @@
+PokerStars Hand #153392566661:  Hold'em Limit ($3/$6 USD) - 2016/05/16 8:17:57 ET
+Table 'Georgia' 6-max Seat #1 is the button
+Seat 1: YseRussia ($49 in chips)
+Seat 3: chefgeezt ($100 in chips)
+YseRussia: posts small blind $1
+chefgeezt: posts big blind $3
+*** HOLE CARDS ***
+YseRussia: raises $3 to $6
+chefgeezt: calls $3
+*** FLOP *** [4s 9c 3d]
+chefgeezt: bets $3
+YseRussia: raises $3 to $6
+chefgeezt: calls $3
+*** TURN *** [4s 9c 3d] [5d]
+chefgeezt: checks
+YseRussia: bets $6
+chefgeezt: calls $6
+*** RIVER *** [4s 9c 3d 5d] [8s]
+chefgeezt: checks
+YseRussia: bets $6
+chefgeezt: calls $6
+*** SHOW DOWN ***
+YseRussia: shows [Js Jd] (a pair of Jacks)
+chefgeezt: mucks hand
+YseRussia collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4s 9c 3d 5d 8s]
+Seat 1: YseRussia (button) (small blind) showed [Js Jd] and won ($47.50) with a pair of Jacks
+Seat 3: chefgeezt (big blind) mucked
+
+

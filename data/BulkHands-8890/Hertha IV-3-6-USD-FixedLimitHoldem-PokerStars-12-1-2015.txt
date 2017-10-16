@@ -1,0 +1,29 @@
+PokerStars Hand #144663426314:  Hold'em Limit ($3/$6 USD) - 2015/12/01 11:31:47 ET
+Table 'Hertha IV' 2-max Seat #1 is the button
+Seat 1: scriopk ($122.50 in chips)
+Seat 2: zeertaz ($8.29 in chips)
+scriopk: posts small blind $1
+zeertaz: posts big blind $3
+*** HOLE CARDS ***
+scriopk: calls $2
+zeertaz: checks
+*** FLOP *** [Qs 3h 4s]
+zeertaz: checks
+scriopk: checks
+*** TURN *** [Qs 3h 4s] [3d]
+zeertaz: checks
+scriopk: checks
+*** RIVER *** [Qs 3h 4s 3d] [5c]
+zeertaz: bets $5.29 and is all-in
+scriopk: calls $5.29
+*** SHOW DOWN ***
+zeertaz: shows [8h 9s] (a pair of Threes)
+scriopk: shows [9h 5h] (two pair, Fives and Threes)
+scriopk collected $16.25 from pot
+*** SUMMARY ***
+Total pot $16.58 | Rake $0.33
+Board [Qs 3h 4s 3d 5c]
+Seat 1: scriopk (button) (small blind) showed [9h 5h] and won ($16.25) with two pair, Fives and Threes
+Seat 2: zeertaz (big blind) showed [8h 9s] and lost with a pair of Threes
+
+

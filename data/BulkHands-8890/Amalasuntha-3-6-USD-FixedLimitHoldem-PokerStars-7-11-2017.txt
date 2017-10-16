@@ -1,0 +1,32 @@
+PokerStars Hand #172907844031:  Hold'em Limit ($3/$6 USD) - 2017/07/11 16:30:29 ET
+Table 'Amalasuntha' 6-max Seat #6 is the button
+Seat 3: B_loJkl ($256.01 in chips)
+Seat 6: Hannibal2211 ($79.46 in chips)
+Hannibal2211: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+ionellu leaves the table
+Hannibal2211: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Js 6s 5d]
+B_loJkl: checks
+Hannibal2211: bets $3
+B_loJkl: calls $3
+*** TURN *** [Js 6s 5d] [2c]
+B_loJkl: checks
+Hannibal2211: checks
+*** RIVER *** [Js 6s 5d 2c] [Qh]
+B_loJkl: checks
+Hannibal2211: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+Hannibal2211: shows [Td 7d] (high card Queen)
+B_loJkl: shows [9h Kd] (high card King)
+B_loJkl collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Js 6s 5d 2c Qh]
+Seat 3: B_loJkl (big blind) showed [9h Kd] and won ($29.50) with high card King
+Seat 6: Hannibal2211 (button) (small blind) showed [Td 7d] and lost with high card Queen
+
+

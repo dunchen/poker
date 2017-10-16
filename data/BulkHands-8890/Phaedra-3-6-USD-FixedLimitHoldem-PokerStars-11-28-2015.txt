@@ -1,0 +1,54 @@
+PokerStars Hand #144515509021:  Hold'em Limit ($3/$6 USD) - 2015/11/28 12:53:26 ET
+Table 'Phaedra' 2-max Seat #2 is the button
+Seat 1: wakeup18 ($152 in chips)
+Seat 2: parconxxx ($6.20 in chips)
+parconxxx: posts small blind $1
+wakeup18: posts big blind $3
+*** HOLE CARDS ***
+parconxxx: raises $3 to $6
+wakeup18: raises $3 to $9
+parconxxx: calls $0.20 and is all-in
+Uncalled bet ($2.80) returned to wakeup18
+*** FLOP *** [7d 3h Ah]
+*** TURN *** [7d 3h Ah] [3s]
+*** RIVER *** [7d 3h Ah 3s] [Jh]
+*** SHOW DOWN ***
+wakeup18: shows [Ts 7h] (two pair, Sevens and Threes)
+parconxxx: shows [6h 6s] (two pair, Sixes and Threes)
+wakeup18 collected $12.15 from pot
+*** SUMMARY ***
+Total pot $12.40 | Rake $0.25
+Board [7d 3h Ah 3s Jh]
+Seat 1: wakeup18 (big blind) showed [Ts 7h] and won ($12.15) with two pair, Sevens and Threes
+Seat 2: parconxxx (button) (small blind) showed [6h 6s] and lost with two pair, Sixes and Threes
+
+
+PokerStars Hand #144515475999:  Hold'em Limit ($3/$6 USD) - 2015/11/28 12:52:45 ET
+Table 'Phaedra' 2-max Seat #1 is the button
+Seat 1: wakeup18 ($137.50 in chips)
+Seat 2: parconxxx ($21.20 in chips)
+wakeup18: posts small blind $1
+parconxxx: posts big blind $3
+*** HOLE CARDS ***
+wakeup18: raises $3 to $6
+parconxxx: calls $3
+*** FLOP *** [2s Td Tc]
+parconxxx: bets $3
+wakeup18: calls $3
+*** TURN *** [2s Td Tc] [Jd]
+parconxxx: bets $6
+wakeup18: calls $6
+*** RIVER *** [2s Td Tc Jd] [Js]
+parconxxx: checks
+wakeup18: bets $6
+parconxxx: folds
+Uncalled bet ($6) returned to wakeup18
+wakeup18 collected $29.50 from pot
+wakeup18: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2s Td Tc Jd Js]
+Seat 1: wakeup18 (button) (small blind) collected ($29.50)
+Seat 2: parconxxx (big blind) folded on the River
+
+

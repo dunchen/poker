@@ -1,0 +1,33 @@
+PokerStars Hand #173947475637:  Hold'em Limit ($3/$6 USD) - 2017/08/05 9:15:40 ET
+Table 'Fama' 6-max Seat #6 is the button
+Seat 3: fluit83 ($66.10 in chips)
+Seat 6: rascal_319 ($116.16 in chips)
+rascal_319: posts small blind $1
+Velbor107: is sitting out
+fluit83: posts big blind $3
+*** HOLE CARDS ***
+Velbor107 leaves the table
+rascal_319: raises $3 to $6
+fluit83: calls $3
+*** FLOP *** [Jd 9c 4d]
+fluit83: checks
+rascal_319: bets $3
+fluit83: calls $3
+*** TURN *** [Jd 9c 4d] [4h]
+fluit83: checks
+rascal_319: bets $6
+fluit83: calls $6
+*** RIVER *** [Jd 9c 4d 4h] [Td]
+fluit83: checks
+rascal_319: checks
+*** SHOW DOWN ***
+fluit83: shows [Ac 5d] (a pair of Fours)
+rascal_319: shows [3h 3c] (two pair, Fours and Threes)
+rascal_319 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Jd 9c 4d 4h Td]
+Seat 3: fluit83 (big blind) showed [Ac 5d] and lost with a pair of Fours
+Seat 6: rascal_319 (button) (small blind) showed [3h 3c] and won ($29.50) with two pair, Fours and Threes
+
+

@@ -1,0 +1,82 @@
+PokerStars Hand #174524153491:  Hold'em Limit ($3/$6 USD) - 2017/08/19 8:39:59 ET
+Table 'Felicitas' 6-max Seat #3 is the button
+Seat 3: zimin10 ($124.89 in chips)
+Seat 4: zizonmusang ($104.61 in chips)
+zimin10: posts small blind $1
+zizonmusang: posts big blind $3
+*** HOLE CARDS ***
+zimin10: folds
+Uncalled bet ($2) returned to zizonmusang
+zizonmusang collected $2 from pot
+zizonmusang: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: zimin10 (button) (small blind) folded before Flop
+Seat 4: zizonmusang (big blind) collected ($2)
+
+
+PokerStars Hand #174524135196:  Hold'em Limit ($3/$6 USD) - 2017/08/19 8:39:22 ET
+Table 'Felicitas' 6-max Seat #4 is the button
+Seat 3: zimin10 ($145.89 in chips)
+Seat 4: zizonmusang ($84.11 in chips)
+zizonmusang: posts small blind $1
+zimin10: posts big blind $3
+*** HOLE CARDS ***
+zizonmusang: raises $3 to $6
+zimin10: calls $3
+*** FLOP *** [9c Ks 4h]
+zimin10: bets $3
+zizonmusang: calls $3
+*** TURN *** [9c Ks 4h] [8c]
+zimin10: checks
+zizonmusang: bets $6
+zimin10: calls $6
+*** RIVER *** [9c Ks 4h 8c] [Qs]
+zimin10: checks
+zizonmusang: bets $6
+zimin10: calls $6
+*** SHOW DOWN ***
+zizonmusang: shows [2d Kd] (a pair of Kings)
+zimin10: mucks hand
+zizonmusang collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9c Ks 4h 8c Qs]
+Seat 3: zimin10 (big blind) mucked
+Seat 4: zizonmusang (button) (small blind) showed [2d Kd] and won ($41.50) with a pair of Kings
+
+
+PokerStars Hand #174524156208:  Hold'em Limit ($3/$6 USD) - 2017/08/19 8:40:04 ET
+Table 'Felicitas' 6-max Seat #4 is the button
+Seat 3: zimin10 ($123.89 in chips)
+Seat 4: zizonmusang ($105.61 in chips)
+zizonmusang: posts small blind $1
+zimin10: posts big blind $3
+*** HOLE CARDS ***
+zizonmusang: raises $3 to $6
+zimin10: calls $3
+*** FLOP *** [3h 4s Tc]
+zimin10: checks
+zizonmusang: bets $3
+zimin10: raises $3 to $6
+zizonmusang: raises $3 to $9
+zimin10: calls $3
+*** TURN *** [3h 4s Tc] [3s]
+zimin10: checks
+zizonmusang: bets $6
+zimin10: calls $6
+*** RIVER *** [3h 4s Tc 3s] [Qh]
+zimin10: checks
+zizonmusang: bets $6
+zimin10: calls $6
+*** SHOW DOWN ***
+zizonmusang: shows [Th Jh] (two pair, Tens and Threes)
+zimin10: mucks hand
+zizonmusang collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [3h 4s Tc 3s Qh]
+Seat 3: zimin10 (big blind) mucked
+Seat 4: zizonmusang (button) (small blind) showed [Th Jh] and won ($53.50) with two pair, Tens and Threes
+
+

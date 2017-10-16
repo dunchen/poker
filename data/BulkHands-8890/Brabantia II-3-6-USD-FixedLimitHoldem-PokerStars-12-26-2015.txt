@@ -1,0 +1,56 @@
+PokerStars Hand #145950497552:  Hold'em Limit ($3/$6 USD) - 2015/12/26 11:47:58 ET
+Table 'Brabantia II' 2-max Seat #2 is the button
+Seat 1: surmixk ($102.36 in chips)
+Seat 2: tipokaz ($7 in chips)
+tipokaz: posts small blind $1
+surmixk: posts big blind $3
+*** HOLE CARDS ***
+tipokaz: calls $2
+surmixk: checks
+*** FLOP *** [8h 9h Ad]
+surmixk: bets $3
+tipokaz: raises $1 to $4 and is all-in
+surmixk: calls $1
+*** TURN *** [8h 9h Ad] [9s]
+*** RIVER *** [8h 9h Ad 9s] [3h]
+*** SHOW DOWN ***
+surmixk: shows [Ac 5h] (two pair, Aces and Nines)
+tipokaz: shows [3d Td] (two pair, Nines and Threes)
+surmixk collected $13.72 from pot
+*** SUMMARY ***
+Total pot $14 | Rake $0.28
+Board [8h 9h Ad 9s 3h]
+Seat 1: surmixk (big blind) showed [Ac 5h] and won ($13.72) with two pair, Aces and Nines
+Seat 2: tipokaz (button) (small blind) showed [3d Td] and lost with two pair, Nines and Threes
+
+
+PokerStars Hand #145950480497:  Hold'em Limit ($3/$6 USD) - 2015/12/26 11:47:37 ET
+Table 'Brabantia II' 2-max Seat #1 is the button
+Seat 1: surmixk ($84.86 in chips)
+Seat 2: tipokaz ($25 in chips)
+surmixk: posts small blind $1
+tipokaz: posts big blind $3
+*** HOLE CARDS ***
+surmixk: raises $3 to $6
+tipokaz: raises $3 to $9
+surmixk: raises $3 to $12
+Betting is capped
+tipokaz: calls $3
+*** FLOP *** [3c Ac Jd]
+tipokaz: bets $3
+surmixk: raises $3 to $6
+tipokaz: calls $3
+*** TURN *** [3c Ac Jd] [Qc]
+tipokaz: checks
+surmixk: bets $6
+tipokaz: folds
+Uncalled bet ($6) returned to surmixk
+surmixk collected $35.50 from pot
+surmixk: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [3c Ac Jd Qc]
+Seat 1: surmixk (button) (small blind) collected ($35.50)
+Seat 2: tipokaz (big blind) folded on the Turn
+
+

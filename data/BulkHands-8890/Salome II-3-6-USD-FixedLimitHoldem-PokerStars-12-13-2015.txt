@@ -1,0 +1,32 @@
+PokerStars Hand #145260573182:  Hold'em Limit ($3/$6 USD) - 2015/12/12 23:35:36 ET
+Table 'Salome II' 6-max Seat #3 is the button
+Seat 3: DirtyDouble2 ($136.29 in chips)
+Seat 5: Masqb ($181.73 in chips)
+DirtyDouble2: posts small blind $1
+Masqb: posts big blind $3
+*** HOLE CARDS ***
+DirtyDouble2: raises $3 to $6
+Masqb: raises $3 to $9
+DirtyDouble2: calls $3
+*** FLOP *** [Qd Qh Ts]
+Masqb: bets $3
+DirtyDouble2: calls $3
+*** TURN *** [Qd Qh Ts] [2s]
+Masqb: checks
+DirtyDouble2: bets $6
+Masqb: calls $6
+*** RIVER *** [Qd Qh Ts 2s] [6h]
+Masqb: checks
+DirtyDouble2: bets $6
+Masqb: calls $6
+*** SHOW DOWN ***
+DirtyDouble2: shows [2c Jh] (two pair, Queens and Deuces)
+Masqb: mucks hand
+DirtyDouble2 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Qd Qh Ts 2s 6h]
+Seat 3: DirtyDouble2 (button) (small blind) showed [2c Jh] and won ($47.50) with two pair, Queens and Deuces
+Seat 5: Masqb (big blind) mucked
+
+

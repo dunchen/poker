@@ -1,0 +1,73 @@
+PokerStars Hand #159366417900:  Hold'em Limit ($3/$6 USD) - 2016/10/02 6:38:30 ET
+Table 'Thomsen' 6-max Seat #6 is the button
+Seat 4: Agrotait ($72 in chips)
+Seat 6: TomTrooper ($600 in chips)
+TomTrooper: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+TomTrooper: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [Ks 6d 9h]
+Agrotait: bets $3
+TomTrooper: raises $3 to $6
+Agrotait: calls $3
+*** TURN *** [Ks 6d 9h] [Js]
+Agrotait: checks
+TomTrooper: bets $6
+Agrotait: calls $6
+*** RIVER *** [Ks 6d 9h Js] [8c]
+Agrotait: checks
+TomTrooper: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+TomTrooper: shows [Jd 2d] (a pair of Jacks)
+Agrotait: mucks hand
+TomTrooper collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Ks 6d 9h Js 8c]
+Seat 4: Agrotait (big blind) mucked
+Seat 6: TomTrooper (button) (small blind) showed [Jd 2d] and won ($47.50) with a pair of Jacks
+
+
+PokerStars Hand #159366440256:  Hold'em Limit ($3/$6 USD) - 2016/10/02 6:39:21 ET
+Table 'Thomsen' 6-max Seat #6 is the button
+Seat 4: Agrotait ($75 in chips)
+Seat 6: TomTrooper ($620.50 in chips)
+TomTrooper: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+TomTrooper: raises $3 to $6
+Agrotait: raises $3 to $9
+TomTrooper: calls $3
+*** FLOP *** [Ad 3d 4s]
+Agrotait: bets $3
+TomTrooper: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $17.64 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ad 3d 4s]
+Seat 4: Agrotait (big blind) collected ($17.64)
+Seat 6: TomTrooper (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #159366436776:  Hold'em Limit ($3/$6 USD) - 2016/10/02 6:39:13 ET
+Table 'Thomsen' 6-max Seat #4 is the button
+Seat 4: Agrotait ($72 in chips)
+Seat 6: TomTrooper ($623.50 in chips)
+Agrotait: posts small blind $1
+TomTrooper: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+TomTrooper: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $6 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 4: Agrotait (button) (small blind) collected ($6)
+Seat 6: TomTrooper (big blind) folded before Flop
+
+

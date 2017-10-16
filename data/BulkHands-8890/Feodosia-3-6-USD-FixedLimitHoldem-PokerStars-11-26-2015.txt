@@ -1,0 +1,80 @@
+PokerStars Hand #144393355316:  Hold'em Limit ($3/$6 USD) - 2015/11/25 22:16:15 ET
+Table 'Feodosia' 6-max Seat #4 is the button
+Seat 4: AzureCaper ($72 in chips)
+Seat 6: hooverr ($60.37 in chips)
+AzureCaper: posts small blind $1
+hooverr: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa joins the table at seat #1
+AzureCaper: raises $3 to $6
+hooverr: calls $3
+*** FLOP *** [Ad Qh 5h]
+hooverr: checks
+AzureCaper: bets $3
+Shapizzzy joins the table at seat #5
+hooverr: folds
+Uncalled bet ($3) returned to AzureCaper
+AzureCaper collected $11.76 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ad Qh 5h]
+Seat 4: AzureCaper (button) (small blind) collected ($11.76)
+Seat 6: hooverr (big blind) folded on the Flop
+
+
+PokerStars Hand #144393343630:  Hold'em Limit ($3/$6 USD) - 2015/11/25 22:15:43 ET
+Table 'Feodosia' 6-max Seat #6 is the button
+Seat 4: AzureCaper ($72 in chips)
+Seat 6: hooverr ($54.61 in chips)
+hooverr: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+hooverr: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [2c 6h 8h]
+AzureCaper: checks
+hooverr: bets $3
+AzureCaper: folds
+Uncalled bet ($3) returned to hooverr
+hooverr collected $11.76 from pot
+hooverr: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2c 6h 8h]
+Seat 4: AzureCaper (big blind) folded on the Flop
+Seat 6: hooverr (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #144393365470:  Hold'em Limit ($3/$6 USD) - 2015/11/25 22:16:43 ET
+Table 'Feodosia' 6-max Seat #6 is the button
+Seat 4: AzureCaper ($77.76 in chips)
+Seat 6: hooverr ($54.37 in chips)
+hooverr: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+hooverr: raises $3 to $6
+AzureCaper: raises $3 to $9
+hooverr: calls $3
+*** FLOP *** [Qd Kc 2h]
+AzureCaper: bets $3
+hooverr: calls $3
+*** TURN *** [Qd Kc 2h] [9c]
+AzureCaper: checks
+hooverr: bets $6
+AzureCaper: calls $6
+*** RIVER *** [Qd Kc 2h 9c] [8h]
+AzureCaper: checks
+hooverr: bets $6
+AzureCaper: calls $6
+*** SHOW DOWN ***
+hooverr: shows [Kd 6d] (a pair of Kings)
+AzureCaper: mucks hand
+hooverr collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Qd Kc 2h 9c 8h]
+Seat 4: AzureCaper (big blind) mucked
+Seat 6: hooverr (button) (small blind) showed [Kd 6d] and won ($47.50) with a pair of Kings
+
+

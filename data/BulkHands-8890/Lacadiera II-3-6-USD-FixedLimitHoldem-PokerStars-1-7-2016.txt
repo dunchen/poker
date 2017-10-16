@@ -1,0 +1,24 @@
+PokerStars Hand #146618144641:  Hold'em Limit ($3/$6 USD) - 2016/01/07 8:13:45 ET
+Table 'Lacadiera II' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($164 in chips)
+Seat 4: Dennis410 ($7.93 in chips)
+VolkovDmitri: posts small blind $1
+Dennis410: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Dennis410: raises $1.93 to $7.93 and is all-in
+VolkovDmitri: calls $1.93
+*** FLOP *** [Kc 3d Kh]
+*** TURN *** [Kc 3d Kh] [8h]
+*** RIVER *** [Kc 3d Kh 8h] [5s]
+*** SHOW DOWN ***
+Dennis410: shows [7h 4c] (a pair of Kings)
+VolkovDmitri: shows [6h 9h] (a pair of Kings - Nine kicker)
+VolkovDmitri collected $15.54 from pot
+*** SUMMARY ***
+Total pot $15.86 | Rake $0.32
+Board [Kc 3d Kh 8h 5s]
+Seat 1: VolkovDmitri (button) (small blind) showed [6h 9h] and won ($15.54) with a pair of Kings
+Seat 4: Dennis410 (big blind) showed [7h 4c] and lost with a pair of Kings
+
+

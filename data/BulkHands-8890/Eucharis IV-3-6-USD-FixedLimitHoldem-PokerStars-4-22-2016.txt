@@ -1,0 +1,65 @@
+PokerStars Hand #152284129525:  Hold'em Limit ($3/$6 USD) - 2016/04/22 12:21:17 ET
+Table 'Eucharis IV' 6-max Seat #4 is the button
+Seat 1: Norbert-04 ($37.53 in chips)
+Seat 4: Airbag999 ($121 in chips)
+Airbag999: posts small blind $1
+Norbert-04: posts big blind $3
+*** HOLE CARDS ***
+Airbag999: raises $3 to $6
+Norbert-04: calls $3
+*** FLOP *** [8d 9c 2s]
+Norbert-04: checks
+RockKillerTY joins the table at seat #2
+Airbag999: bets $3
+Norbert-04: calls $3
+*** TURN *** [8d 9c 2s] [Jd]
+Norbert-04: checks
+Airbag999: checks
+*** RIVER *** [8d 9c 2s Jd] [3h]
+Norbert-04: checks
+Airbag999: checks
+*** SHOW DOWN ***
+Norbert-04: shows [5c 6d] (high card Jack)
+Airbag999: shows [4s Kd] (high card King)
+Airbag999 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8d 9c 2s Jd 3h]
+Seat 1: Norbert-04 (big blind) showed [5c 6d] and lost with high card Jack
+Seat 4: Airbag999 (button) (small blind) showed [4s Kd] and won ($17.64) with high card King
+
+
+PokerStars Hand #152285012126:  Hold'em Limit ($3/$6 USD) - 2016/04/22 12:42:13 ET
+Table 'Eucharis IV' 6-max Seat #6 is the button
+Seat 4: Chessnok ($107.10 in chips)
+Seat 6: tangxueke ($19.57 in chips)
+tangxueke: posts small blind $1
+Airbag999: is sitting out
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+tangxueke: raises $3 to $6
+Chessnok: raises $3 to $9
+Airbag999 leaves the table
+tangxueke: raises $3 to $12
+Betting is capped
+Chessnok: calls $3
+*** FLOP *** [Tc 4s 6h]
+Chessnok: checks
+tangxueke: bets $3
+Chessnok: calls $3
+*** TURN *** [Tc 4s 6h] [Jd]
+Chessnok: checks
+tangxueke: bets $4.57 and is all-in
+Chessnok: calls $4.57
+*** RIVER *** [Tc 4s 6h Jd] [Jc]
+*** SHOW DOWN ***
+Chessnok: shows [3h 3c] (two pair, Jacks and Threes)
+tangxueke: shows [Ks 8d] (a pair of Jacks)
+Chessnok collected $38.64 from pot
+*** SUMMARY ***
+Total pot $39.14 | Rake $0.50
+Board [Tc 4s 6h Jd Jc]
+Seat 4: Chessnok (big blind) showed [3h 3c] and won ($38.64) with two pair, Jacks and Threes
+Seat 6: tangxueke (button) (small blind) showed [Ks 8d] and lost with a pair of Jacks
+
+

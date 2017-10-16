@@ -1,0 +1,104 @@
+PokerStars Hand #155848680481:  Hold'em Limit ($3/$6 USD) - 2016/07/11 16:05:29 ET
+Table 'Dejanira' 6-max Seat #4 is the button
+Seat 4: ShippingWar ($10.10 in chips)
+Seat 5: kolaz03 ($92.16 in chips)
+ShippingWar: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+ShippingWar: folds
+Uncalled bet ($2) returned to kolaz03
+kolaz03 collected $2 from pot
+kolaz03: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: ShippingWar (button) (small blind) folded before Flop
+Seat 5: kolaz03 (big blind) collected ($2)
+
+
+PokerStars Hand #155848662185:  Hold'em Limit ($3/$6 USD) - 2016/07/11 16:05:07 ET
+Table 'Dejanira' 6-max Seat #5 is the button
+Seat 4: ShippingWar ($19.10 in chips)
+Seat 5: kolaz03 ($83.52 in chips)
+kolaz03: posts small blind $1
+ShippingWar: posts big blind $3
+*** HOLE CARDS ***
+kolaz03: raises $3 to $6
+ShippingWar: calls $3
+*** FLOP *** [2h Jc 4s]
+ShippingWar: checks
+kolaz03: bets $3
+ShippingWar: calls $3
+*** TURN *** [2h Jc 4s] [9d]
+ShippingWar: checks
+kolaz03: checks
+*** RIVER *** [2h Jc 4s 9d] [4c]
+ShippingWar: checks
+kolaz03: checks
+*** SHOW DOWN ***
+ShippingWar: shows [3d 6d] (a pair of Fours)
+kolaz03: shows [Th 6h] (a pair of Fours - Jack+Ten kicker)
+kolaz03 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2h Jc 4s 9d 4c]
+Seat 4: ShippingWar (big blind) showed [3d 6d] and lost with a pair of Fours
+Seat 5: kolaz03 (button) (small blind) showed [Th 6h] and won ($17.64) with a pair of Fours
+
+
+PokerStars Hand #155848630396:  Hold'em Limit ($3/$6 USD) - 2016/07/11 16:04:30 ET
+Table 'Dejanira' 6-max Seat #4 is the button
+Seat 4: ShippingWar ($31.10 in chips)
+Seat 5: kolaz03 ($72 in chips)
+ShippingWar: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+ShippingWar: raises $3 to $6
+kolaz03: calls $3
+*** FLOP *** [Jd 5s 8h]
+kolaz03: checks
+ShippingWar: checks
+*** TURN *** [Jd 5s 8h] [3h]
+kolaz03: checks
+ShippingWar: bets $6
+kolaz03: calls $6
+*** RIVER *** [Jd 5s 8h 3h] [8s]
+kolaz03: checks
+ShippingWar: checks
+*** SHOW DOWN ***
+kolaz03: shows [4c As] (a pair of Eights)
+ShippingWar: mucks hand
+kolaz03 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Jd 5s 8h 3h 8s]
+Seat 4: ShippingWar (button) (small blind) mucked
+Seat 5: kolaz03 (big blind) showed [4c As] and won ($23.52) with a pair of Eights
+
+
+PokerStars Hand #155848684524:  Hold'em Limit ($3/$6 USD) - 2016/07/11 16:05:34 ET
+Table 'Dejanira' 6-max Seat #5 is the button
+Seat 4: ShippingWar ($9.10 in chips)
+Seat 5: kolaz03 ($93.16 in chips)
+kolaz03: posts small blind $1
+ShippingWar: posts big blind $3
+*** HOLE CARDS ***
+kolaz03: raises $3 to $6
+ShippingWar: raises $3 to $9
+kolaz03: raises $3 to $12
+Betting is capped
+ShippingWar: calls $0.10 and is all-in
+Uncalled bet ($2.90) returned to kolaz03
+*** FLOP *** [7h 2s Ks]
+*** TURN *** [7h 2s Ks] [Ad]
+*** RIVER *** [7h 2s Ks Ad] [Jd]
+*** SHOW DOWN ***
+ShippingWar: shows [5c Kc] (a pair of Kings)
+kolaz03: shows [2d Ah] (two pair, Aces and Deuces)
+kolaz03 collected $17.84 from pot
+*** SUMMARY ***
+Total pot $18.20 | Rake $0.36
+Board [7h 2s Ks Ad Jd]
+Seat 4: ShippingWar (big blind) showed [5c Kc] and lost with a pair of Kings
+Seat 5: kolaz03 (button) (small blind) showed [2d Ah] and won ($17.84) with two pair, Aces and Deuces
+
+

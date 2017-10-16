@@ -1,0 +1,83 @@
+PokerStars Hand #151644505465:  Hold'em Limit ($3/$6 USD) - 2016/04/08 22:50:50 ET
+Table 'Edmee' 6-max Seat #5 is the button
+Seat 4: VolkovDmitri ($120 in chips)
+Seat 5: owenheadch ($134.50 in chips)
+owenheadch: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+owenheadch: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [2c 3h Jd]
+VolkovDmitri: checks
+owenheadch: bets $3
+VolkovDmitri: folds
+Uncalled bet ($3) returned to owenheadch
+owenheadch collected $11.76 from pot
+owenheadch: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2c 3h Jd]
+Seat 4: VolkovDmitri (big blind) folded on the Flop
+Seat 5: owenheadch (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #151644490862:  Hold'em Limit ($3/$6 USD) - 2016/04/08 22:50:09 ET
+Table 'Edmee' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($120 in chips)
+Seat 5: owenheadch ($120 in chips)
+VolkovDmitri: posts small blind $1
+owenheadch: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+owenheadch: calls $3
+*** FLOP *** [Kc Kh 6s]
+owenheadch: checks
+VolkovDmitri: bets $3
+owenheadch: calls $3
+*** TURN *** [Kc Kh 6s] [3s]
+owenheadch: checks
+VolkovDmitri: bets $6
+owenheadch: raises $6 to $12
+VolkovDmitri: folds
+Uncalled bet ($6) returned to owenheadch
+owenheadch collected $29.50 from pot
+owenheadch: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kc Kh 6s 3s]
+Seat 4: VolkovDmitri (button) (small blind) folded on the Turn
+Seat 5: owenheadch (big blind) collected ($29.50)
+
+
+PokerStars Hand #151644510749:  Hold'em Limit ($3/$6 USD) - 2016/04/08 22:51:05 ET
+Table 'Edmee' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($120 in chips)
+Seat 5: owenheadch ($140.26 in chips)
+VolkovDmitri: posts small blind $1
+owenheadch: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+owenheadch: calls $3
+*** FLOP *** [6h 4c 5s]
+owenheadch: checks
+VolkovDmitri: bets $3
+owenheadch: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [6h 4c 5s] [Jc]
+owenheadch: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [6h 4c 5s Jc] [Qh]
+owenheadch: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+owenheadch: shows [7c 4d] (a pair of Fours)
+VolkovDmitri: mucks hand
+owenheadch collected $35.50 from pot
+owenheadch leaves the table
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6h 4c 5s Jc Qh]
+Seat 4: VolkovDmitri (button) (small blind) mucked
+Seat 5: owenheadch (big blind) showed [7c 4d] and won ($35.50) with a pair of Fours
+
+

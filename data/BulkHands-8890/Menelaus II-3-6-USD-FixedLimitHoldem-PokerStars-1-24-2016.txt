@@ -1,0 +1,34 @@
+PokerStars Hand #147570051004:  Hold'em Limit ($3/$6 USD) - 2016/01/23 20:20:21 ET
+Table 'Menelaus II' 6-max Seat #1 is the button
+Seat 1: carmello774 ($93.43 in chips)
+Seat 6: Johnliu ($259.13 in chips)
+carmello774: posts small blind $1
+BuzovaPro: is sitting out
+SashaYuvelir: is sitting out
+Johnliu: posts big blind $3
+*** HOLE CARDS ***
+SashaYuvelir leaves the table
+carmello774: raises $3 to $6
+Johnliu: calls $3
+*** FLOP *** [2c Ac Td]
+Johnliu: checks
+carmello774: bets $3
+Johnliu: calls $3
+*** TURN *** [2c Ac Td] [2h]
+BuzovaPro leaves the table
+Johnliu: checks
+carmello774: checks
+*** RIVER *** [2c Ac Td 2h] [3h]
+Johnliu: bets $6
+carmello774: calls $6
+*** SHOW DOWN ***
+Johnliu: shows [Qd 7c] (a pair of Deuces)
+carmello774: shows [Jc Ks] (a pair of Deuces - Ace+King kicker)
+carmello774 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2c Ac Td 2h 3h]
+Seat 1: carmello774 (button) (small blind) showed [Jc Ks] and won ($29.50) with a pair of Deuces
+Seat 6: Johnliu (big blind) showed [Qd 7c] and lost with a pair of Deuces
+
+

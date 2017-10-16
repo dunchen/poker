@@ -1,0 +1,130 @@
+PokerStars Hand #151304248387:  Hold'em Limit ($3/$6 USD) - 2016/04/02 4:04:26 ET
+Table 'Otero II' 6-max Seat #5 is the button
+Seat 1: Zeeon ($178.60 in chips)
+Seat 5: Scheubi88 ($63 in chips)
+Scheubi88: posts small blind $1
+Zeeon: posts big blind $3
+*** HOLE CARDS ***
+Scheubi88: raises $3 to $6
+Zeeon: folds
+Uncalled bet ($3) returned to Scheubi88
+Scheubi88 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: Zeeon (big blind) folded before Flop
+Seat 5: Scheubi88 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #151304240795:  Hold'em Limit ($3/$6 USD) - 2016/04/02 4:04:05 ET
+Table 'Otero II' 6-max Seat #1 is the button
+Seat 1: Zeeon ($152.10 in chips)
+Seat 5: Scheubi88 ($90 in chips)
+Zeeon: posts small blind $1
+Scheubi88: posts big blind $3
+*** HOLE CARDS ***
+Zeeon: raises $3 to $6
+Mudager joins the table at seat #2
+Scheubi88: raises $3 to $9
+Zeeon: calls $3
+*** FLOP *** [Ks 8c Js]
+Scheubi88: bets $3
+Zeeon: raises $3 to $6
+Scheubi88: calls $3
+*** TURN *** [Ks 8c Js] [Qc]
+Scheubi88: checks
+Zeeon: bets $6
+Scheubi88: calls $6
+*** RIVER *** [Ks 8c Js Qc] [2d]
+Scheubi88: checks
+Zeeon: bets $6
+Scheubi88: calls $6
+*** SHOW DOWN ***
+Zeeon: shows [Ts Kd] (a pair of Kings)
+Scheubi88: mucks hand
+Zeeon collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Ks 8c Js Qc 2d]
+Seat 1: Zeeon (button) (small blind) showed [Ts Kd] and won ($53.50) with a pair of Kings
+Seat 5: Scheubi88 (big blind) mucked
+
+
+PokerStars Hand #151305207599:  Hold'em Limit ($3/$6 USD) - 2016/04/02 4:46:20 ET
+Table 'Otero II' 6-max Seat #6 is the button
+Seat 5: Scheubi88 ($154.09 in chips)
+Seat 6: lin1rabbit ($142.44 in chips)
+lin1rabbit: posts small blind $1
+Scheubi88: posts big blind $3
+*** HOLE CARDS ***
+lin1rabbit: folds
+Uncalled bet ($2) returned to Scheubi88
+Scheubi88 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: Scheubi88 (big blind) collected ($2)
+Seat 6: lin1rabbit (button) (small blind) folded before Flop
+
+
+PokerStars Hand #151305222900:  Hold'em Limit ($3/$6 USD) - 2016/04/02 4:46:58 ET
+Table 'Otero II' 6-max Seat #6 is the button
+Seat 5: Scheubi88 ($172.59 in chips)
+Seat 6: lin1rabbit ($123.44 in chips)
+lin1rabbit: posts small blind $1
+Scheubi88: posts big blind $3
+*** HOLE CARDS ***
+lin1rabbit: raises $3 to $6
+Scheubi88: calls $3
+*** FLOP *** [Ah Ac Ad]
+Scheubi88: checks
+lin1rabbit: bets $3
+Scheubi88: raises $3 to $6
+lin1rabbit: calls $3
+*** TURN *** [Ah Ac Ad] [Qh]
+Scheubi88: bets $6
+lin1rabbit: calls $6
+*** RIVER *** [Ah Ac Ad Qh] [8d]
+Scheubi88: bets $6
+lin1rabbit: calls $6
+*** SHOW DOWN ***
+Scheubi88: shows [7d Js] (three of a kind, Aces)
+lin1rabbit: shows [2d Kc] (three of a kind, Aces - King kicker)
+lin1rabbit collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Ah Ac Ad Qh 8d]
+Seat 5: Scheubi88 (big blind) showed [7d Js] and lost with three of a kind, Aces
+Seat 6: lin1rabbit (button) (small blind) showed [2d Kc] and won ($47.50) with three of a kind, Aces
+
+
+PokerStars Hand #151305209902:  Hold'em Limit ($3/$6 USD) - 2016/04/02 4:46:25 ET
+Table 'Otero II' 6-max Seat #5 is the button
+Seat 5: Scheubi88 ($155.09 in chips)
+Seat 6: lin1rabbit ($141.44 in chips)
+Scheubi88: posts small blind $1
+lin1rabbit: posts big blind $3
+*** HOLE CARDS ***
+Scheubi88: raises $3 to $6
+jackdog leaves the table
+lin1rabbit: calls $3
+*** FLOP *** [Td Qd 9c]
+lin1rabbit: checks
+Scheubi88: bets $3
+lin1rabbit: raises $3 to $6
+Scheubi88: calls $3
+*** TURN *** [Td Qd 9c] [6s]
+lin1rabbit: bets $6
+Scheubi88: calls $6
+*** RIVER *** [Td Qd 9c 6s] [Th]
+lin1rabbit: checks
+Scheubi88: checks
+*** SHOW DOWN ***
+lin1rabbit: shows [8s 6h] (two pair, Tens and Sixes)
+Scheubi88: shows [9d Jh] (two pair, Tens and Nines)
+Scheubi88 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Td Qd 9c 6s Th]
+Seat 5: Scheubi88 (button) (small blind) showed [9d Jh] and won ($35.50) with two pair, Tens and Nines
+Seat 6: lin1rabbit (big blind) showed [8s 6h] and lost with two pair, Tens and Sixes
+
+

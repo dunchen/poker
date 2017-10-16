@@ -1,0 +1,52 @@
+PokerStars Hand #170082061211:  Hold'em Limit ($3/$6 USD) - 2017/05/07 11:33:32 ET
+Table 'Almach' 6-max Seat #4 is the button
+Seat 4: sim5sim5 ($72 in chips)
+Seat 5: TinaTurner72 ($120 in chips)
+sim5sim5: posts small blind $1
+TinaTurner72: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+TinaTurner72: calls $3
+*** FLOP *** [6c As 8d]
+TinaTurner72: checks
+sim5sim5: bets $3
+TinaTurner72: raises $3 to $6
+sim5sim5: folds
+Uncalled bet ($3) returned to TinaTurner72
+TinaTurner72 collected $17.64 from pot
+TinaTurner72: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6c As 8d]
+Seat 4: sim5sim5 (button) (small blind) folded on the Flop
+Seat 5: TinaTurner72 (big blind) collected ($17.64)
+
+
+PokerStars Hand #170082090944:  Hold'em Limit ($3/$6 USD) - 2017/05/07 11:34:09 ET
+Table 'Almach' 6-max Seat #5 is the button
+Seat 4: sim5sim5 ($72 in chips)
+Seat 5: TinaTurner72 ($128.64 in chips)
+TinaTurner72: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+TinaTurner72: raises $3 to $6
+sim5sim5: calls $3
+*** FLOP *** [2h Td 6c]
+sim5sim5: checks
+TinaTurner72: bets $3
+sim5sim5: raises $3 to $6
+TinaTurner72: calls $3
+*** TURN *** [2h Td 6c] [3d]
+sim5sim5: bets $6
+TinaTurner72: folds
+Uncalled bet ($6) returned to sim5sim5
+sim5sim5 collected $23.52 from pot
+TinaTurner72 leaves the table
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [2h Td 6c 3d]
+Seat 4: sim5sim5 (big blind) collected ($23.52)
+Seat 5: TinaTurner72 (button) (small blind) folded on the Turn
+
+

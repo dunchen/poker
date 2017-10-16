@@ -1,0 +1,50 @@
+PokerStars Hand #152361351426:  Hold'em Limit ($3/$6 USD) - 2016/04/24 2:57:27 ET
+Table 'Hind' 6-max Seat #1 is the button
+Seat 1: krytalex ($217.06 in chips)
+Seat 3: VolkovDmitri ($302.69 in chips)
+krytalex: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+chefovievo leaves the table
+krytalex: raises $3 to $6
+VolkovDmitri: folds
+Uncalled bet ($3) returned to krytalex
+krytalex collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: krytalex (button) (small blind) collected ($6)
+Seat 3: VolkovDmitri (big blind) folded before Flop
+
+
+PokerStars Hand #152361355049:  Hold'em Limit ($3/$6 USD) - 2016/04/24 2:57:41 ET
+Table 'Hind' 6-max Seat #3 is the button
+Seat 1: krytalex ($220.06 in chips)
+Seat 3: VolkovDmitri ($299.69 in chips)
+VolkovDmitri: posts small blind $1
+krytalex: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+krytalex: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [Jh 7s 7d]
+krytalex: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [Jh 7s 7d] [Ac]
+krytalex: checks
+VolkovDmitri: bets $6
+krytalex: calls $6
+*** RIVER *** [Jh 7s 7d Ac] [3s]
+krytalex: checks
+VolkovDmitri: bets $6
+krytalex: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [4s As] (two pair, Aces and Sevens)
+krytalex: mucks hand
+VolkovDmitri collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Jh 7s 7d Ac 3s]
+Seat 1: krytalex (big blind) mucked
+Seat 3: VolkovDmitri (button) (small blind) showed [4s As] and won ($47.50) with two pair, Aces and Sevens
+
+

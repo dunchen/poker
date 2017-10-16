@@ -1,0 +1,33 @@
+PokerStars Hand #150897489940:  Hold'em Limit ($3/$6 USD) - 2016/03/25 7:48:57 ET
+Table 'Knysna II' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($120 in chips)
+Seat 5: MobyDickDK ($55 in chips)
+VolkovDmitri: posts small blind $1
+MobyDickDK: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+MobyDickDK: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [6h 9s 8s]
+MobyDickDK: bets $3
+VolkovDmitri: raises $3 to $6
+MobyDickDK: raises $3 to $9
+VolkovDmitri: calls $3
+*** TURN *** [6h 9s 8s] [Tc]
+MobyDickDK: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [6h 9s 8s Tc] [8c]
+B_loJkl joins the table at seat #6
+MobyDickDK: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+MobyDickDK: shows [Ks Kh] (two pair, Kings and Eights)
+VolkovDmitri: mucks hand
+MobyDickDK collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [6h 9s 8s Tc 8c]
+Seat 4: VolkovDmitri (button) (small blind) mucked
+Seat 5: MobyDickDK (big blind) showed [Ks Kh] and won ($59.50) with two pair, Kings and Eights
+
+

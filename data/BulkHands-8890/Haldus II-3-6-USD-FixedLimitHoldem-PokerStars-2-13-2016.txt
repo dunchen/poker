@@ -1,0 +1,110 @@
+PokerStars Hand #148746386446:  Hold'em Limit ($3/$6 USD) - 2016/02/13 15:08:49 ET
+Table 'Haldus II' 6-max Seat #2 is the button
+Seat 2: ZinZar ($74.50 in chips)
+Seat 5: chipmover360 ($116.50 in chips)
+ZinZar: posts small blind $1
+chipmover360: posts big blind $3
+*** HOLE CARDS ***
+ZinZar: raises $3 to $6
+chipmover360: calls $3
+*** FLOP *** [As 2h 8s]
+chipmover360: checks
+ZinZar: bets $3
+chipmover360: calls $3
+*** TURN *** [As 2h 8s] [6c]
+chipmover360: checks
+ZinZar: checks
+*** RIVER *** [As 2h 8s 6c] [6s]
+chipmover360: bets $6
+ZinZar: folds
+Uncalled bet ($6) returned to chipmover360
+chipmover360 collected $17.64 from pot
+chipmover360: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [As 2h 8s 6c 6s]
+Seat 2: ZinZar (button) (small blind) folded on the River
+Seat 5: chipmover360 (big blind) collected ($17.64)
+
+
+PokerStars Hand #148746372296:  Hold'em Limit ($3/$6 USD) - 2016/02/13 15:08:35 ET
+Table 'Haldus II' 6-max Seat #5 is the button
+Seat 2: ZinZar ($89.50 in chips)
+Seat 5: chipmover360 ($102 in chips)
+chipmover360: posts small blind $1
+ZinZar: posts big blind $3
+*** HOLE CARDS ***
+chipmover360: raises $3 to $6
+ZinZar: calls $3
+*** FLOP *** [Ts 5c 9d]
+ZinZar: checks
+killerfurbel joins the table at seat #6
+chipmover360: bets $3
+ZinZar: calls $3
+*** TURN *** [Ts 5c 9d] [Td]
+ZinZar: checks
+chipmover360: checks
+*** RIVER *** [Ts 5c 9d Td] [9c]
+ZinZar: bets $6
+chipmover360: calls $6
+*** SHOW DOWN ***
+ZinZar: shows [Js 6s] (two pair, Tens and Nines)
+chipmover360: shows [6h Ah] (two pair, Tens and Nines - Ace kicker)
+chipmover360 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ts 5c 9d Td 9c]
+Seat 2: ZinZar (big blind) showed [Js 6s] and lost with two pair, Tens and Nines
+Seat 5: chipmover360 (button) (small blind) showed [6h Ah] and won ($29.50) with two pair, Tens and Nines
+
+
+PokerStars Hand #148746861430:  Hold'em Limit ($3/$6 USD) - 2016/02/13 15:16:36 ET
+Table 'Haldus II' 6-max Seat #4 is the button
+Seat 4: samurai.ru ($100.50 in chips)
+Seat 6: killerfurbel ($256.65 in chips)
+samurai.ru: posts small blind $1
+killerfurbel: posts big blind $3
+*** HOLE CARDS ***
+samurai.ru: folds
+Uncalled bet ($2) returned to killerfurbel
+killerfurbel collected $2 from pot
+killerfurbel: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: samurai.ru (button) (small blind) folded before Flop
+Seat 6: killerfurbel (big blind) collected ($2)
+
+
+PokerStars Hand #148746840418:  Hold'em Limit ($3/$6 USD) - 2016/02/13 15:16:16 ET
+Table 'Haldus II' 6-max Seat #6 is the button
+Seat 4: samurai.ru ($86 in chips)
+Seat 6: killerfurbel ($271.65 in chips)
+killerfurbel: posts small blind $1
+Chessnok: is sitting out
+ZinZar: is sitting out
+ZinZar leaves the table
+samurai.ru: posts big blind $3
+*** HOLE CARDS ***
+killerfurbel: raises $3 to $6
+samurai.ru: calls $3
+*** FLOP *** [Qd 6c Qc]
+samurai.ru: checks
+killerfurbel: bets $3
+samurai.ru: calls $3
+*** TURN *** [Qd 6c Qc] [Th]
+samurai.ru: checks
+killerfurbel: checks
+*** RIVER *** [Qd 6c Qc Th] [2c]
+samurai.ru: bets $6
+killerfurbel: calls $6
+*** SHOW DOWN ***
+samurai.ru: shows [6d 5d] (two pair, Queens and Sixes)
+killerfurbel: mucks hand
+samurai.ru collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qd 6c Qc Th 2c]
+Seat 4: samurai.ru (big blind) showed [6d 5d] and won ($29.50) with two pair, Queens and Sixes
+Seat 6: killerfurbel (button) (small blind) mucked
+
+

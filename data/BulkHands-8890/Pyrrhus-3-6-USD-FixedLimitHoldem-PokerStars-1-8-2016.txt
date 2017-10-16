@@ -1,0 +1,32 @@
+PokerStars Hand #146669081821:  Hold'em Limit ($3/$6 USD) - 2016/01/08 5:20:10 ET
+Table 'Pyrrhus' 2-max Seat #1 is the button
+Seat 1: RAFAELO_440 ($110.24 in chips)
+Seat 2: josch2001 ($138 in chips)
+RAFAELO_440: posts small blind $1
+josch2001: posts big blind $3
+*** HOLE CARDS ***
+RAFAELO_440: raises $3 to $6
+josch2001: raises $3 to $9
+RAFAELO_440: calls $3
+*** FLOP *** [4h 6s 2h]
+josch2001: bets $3
+RAFAELO_440: calls $3
+*** TURN *** [4h 6s 2h] [7d]
+josch2001: checks
+RAFAELO_440: bets $6
+josch2001: calls $6
+*** RIVER *** [4h 6s 2h 7d] [2c]
+josch2001: checks
+RAFAELO_440: bets $6
+josch2001: calls $6
+*** SHOW DOWN ***
+RAFAELO_440: shows [Qd 6h] (two pair, Sixes and Deuces)
+josch2001: mucks hand
+RAFAELO_440 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4h 6s 2h 7d 2c]
+Seat 1: RAFAELO_440 (button) (small blind) showed [Qd 6h] and won ($47.50) with two pair, Sixes and Deuces
+Seat 2: josch2001 (big blind) mucked
+
+

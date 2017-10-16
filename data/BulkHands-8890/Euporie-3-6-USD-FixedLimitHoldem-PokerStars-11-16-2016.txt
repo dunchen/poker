@@ -1,0 +1,105 @@
+PokerStars Hand #161484656759:  Hold'em Limit ($3/$6 USD) - 2016/11/16 8:24:46 ET
+Table 'Euporie' 6-max Seat #1 is the button
+Seat 1: Tatiana_K63 ($30 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+Tatiana_K63: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Tatiana_K63: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+Tatiana_K63: raises $3 to $12
+Betting is capped
+VolkovDmitri: calls $3
+*** FLOP *** [8d Qc As]
+VolkovDmitri: bets $3
+Tatiana_K63: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+Tatiana_K63: raises $3 to $12
+Betting is capped
+VolkovDmitri: calls $3
+*** TURN *** [8d Qc As] [5c]
+VolkovDmitri: bets $6
+Tatiana_K63: calls $6 and is all-in
+*** RIVER *** [8d Qc As 5c] [3d]
+*** SHOW DOWN ***
+VolkovDmitri: shows [Ad 3h] (two pair, Aces and Threes)
+Tatiana_K63: shows [Ac Kd] (a pair of Aces)
+VolkovDmitri collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [8d Qc As 5c 3d]
+Seat 1: Tatiana_K63 (button) (small blind) showed [Ac Kd] and lost with a pair of Aces
+Seat 4: VolkovDmitri (big blind) showed [Ad 3h] and won ($59.50) with two pair, Aces and Threes
+
+
+PokerStars Hand #161484689063:  Hold'em Limit ($3/$6 USD) - 2016/11/16 8:25:46 ET
+Table 'Euporie' 6-max Seat #1 is the button
+Seat 1: Tatiana_K63 ($24 in chips)
+Seat 4: VolkovDmitri ($155.26 in chips)
+Tatiana_K63: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Tatiana_K63: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Tatiana_K63 (button) (small blind) folded before Flop
+Seat 4: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #161484681871:  Hold'em Limit ($3/$6 USD) - 2016/11/16 8:25:32 ET
+Table 'Euporie' 6-max Seat #4 is the button
+Seat 1: Tatiana_K63 ($30 in chips)
+Seat 4: VolkovDmitri ($149.50 in chips)
+VolkovDmitri: posts small blind $1
+Tatiana_K63: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Tatiana_K63: calls $3
+*** FLOP *** [8s 5h Kd]
+Tatiana_K63: checks
+VolkovDmitri: bets $3
+Tatiana_K63: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8s 5h Kd]
+Seat 1: Tatiana_K63 (big blind) folded on the Flop
+Seat 4: VolkovDmitri (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #161484691517:  Hold'em Limit ($3/$6 USD) - 2016/11/16 8:25:50 ET
+Table 'Euporie' 6-max Seat #4 is the button
+Seat 1: Tatiana_K63 ($23 in chips)
+Seat 4: VolkovDmitri ($156.26 in chips)
+VolkovDmitri: posts small blind $1
+Tatiana_K63: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Tatiana_K63: calls $3
+*** FLOP *** [6c 2s 5h]
+Tatiana_K63: bets $3
+VolkovDmitri: raises $3 to $6
+Tatiana_K63: calls $3
+*** TURN *** [6c 2s 5h] [9h]
+Tatiana_K63: bets $6
+B_loJkl joins the table at seat #2
+VolkovDmitri: raises $6 to $12
+Tatiana_K63: calls $5 and is all-in
+Uncalled bet ($1) returned to VolkovDmitri
+*** RIVER *** [6c 2s 5h 9h] [Qs]
+*** SHOW DOWN ***
+Tatiana_K63: shows [Jd 4h] (high card Queen)
+VolkovDmitri: shows [9c 6d] (two pair, Nines and Sixes)
+VolkovDmitri collected $45.50 from pot
+*** SUMMARY ***
+Total pot $46 | Rake $0.50
+Board [6c 2s 5h 9h Qs]
+Seat 1: Tatiana_K63 (big blind) showed [Jd 4h] and lost with high card Queen
+Seat 4: VolkovDmitri (button) (small blind) showed [9c 6d] and won ($45.50) with two pair, Nines and Sixes
+
+

@@ -1,0 +1,87 @@
+PokerStars Hand #175665544003:  Hold'em Limit ($3/$6 USD) - 2017/09/15 5:40:33 ET
+Table 'Izar' 6-max Seat #1 is the button
+Seat 1: Opal10 ($364.84 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+Opal10: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Ale4o joins the table at seat #3
+Opal10: calls $2
+VolkovDmitri: raises $3 to $6
+Opal10: calls $3
+*** FLOP *** [5d Jc Js]
+VolkovDmitri: bets $3
+Opal10: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [5d Jc Js] [3h]
+VolkovDmitri: checks
+Opal10: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [5d Jc Js 3h] [3d]
+VolkovDmitri: checks
+Opal10: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [6c 3c] (a full house, Threes full of Jacks)
+Opal10: mucks hand
+VolkovDmitri collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5d Jc Js 3h 3d]
+Seat 1: Opal10 (button) (small blind) mucked
+Seat 4: VolkovDmitri (big blind) showed [6c 3c] and won ($35.50) with a full house, Threes full of Jacks
+
+
+PokerStars Hand #175665553659:  Hold'em Limit ($3/$6 USD) - 2017/09/15 5:41:01 ET
+Table 'Izar' 6-max Seat #4 is the button
+Seat 1: Opal10 ($346.84 in chips)
+Seat 4: VolkovDmitri ($137.50 in chips)
+VolkovDmitri: posts small blind $1
+Opal10: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Opal10: calls $3
+*** FLOP *** [9h 2h 4s]
+Opal10: checks
+VolkovDmitri: bets $3
+Opal10: calls $3
+*** TURN *** [9h 2h 4s] [7c]
+Opal10: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to Opal10
+Opal10 collected $17.64 from pot
+Opal10: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9h 2h 4s 7c]
+Seat 1: Opal10 (big blind) collected ($17.64)
+Seat 4: VolkovDmitri (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #175666835957:  Hold'em Limit ($3/$6 USD) - 2017/09/15 6:39:40 ET
+Table 'Izar' 6-max Seat #1 is the button
+Seat 1: Sirocko ($72 in chips)
+Seat 5: bolbess ($96.35 in chips)
+Sirocko: posts small blind $1
+krossguard: is sitting out
+Ale4o: is sitting out
+Psynto: is sitting out
+bolbess: posts big blind $3
+*** HOLE CARDS ***
+Sirocko: raises $3 to $6
+krossguard leaves the table
+bolbess: calls $3
+*** FLOP *** [3h 9d 5c]
+bolbess: checks
+Psynto leaves the table
+Sirocko: bets $3
+bolbess: folds
+Uncalled bet ($3) returned to Sirocko
+Sirocko collected $11.76 from pot
+Sirocko: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3h 9d 5c]
+Seat 1: Sirocko (button) (small blind) collected ($11.76)
+Seat 5: bolbess (big blind) folded on the Flop
+
+

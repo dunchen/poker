@@ -1,0 +1,33 @@
+PokerStars Hand #146125299453:  Hold'em Limit ($3/$6 USD) - 2015/12/29 13:59:38 ET
+Table 'Iclea' 6-max Seat #6 is the button
+Seat 1: Johnliu ($446.73 in chips)
+Seat 6: scorpio04 ($73 in chips)
+scorpio04: posts small blind $1
+Johnliu: posts big blind $3
+*** HOLE CARDS ***
+Dubris144 leaves the table
+scorpio04: raises $3 to $6
+Johnliu: raises $3 to $9
+scorpio04: calls $3
+*** FLOP *** [6c 9h 4s]
+Johnliu: bets $3
+scorpio04: raises $3 to $6
+Johnliu: calls $3
+*** TURN *** [6c 9h 4s] [Ts]
+Johnliu: checks
+scorpio04: bets $6
+Johnliu: calls $6
+*** RIVER *** [6c 9h 4s Ts] [Qs]
+Johnliu: bets $6
+scorpio04: calls $6
+*** SHOW DOWN ***
+Johnliu: shows [Qc As] (a pair of Queens)
+scorpio04: mucks hand
+Johnliu collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [6c 9h 4s Ts Qs]
+Seat 1: Johnliu (big blind) showed [Qc As] and won ($53.50) with a pair of Queens
+Seat 6: scorpio04 (button) (small blind) mucked
+
+

@@ -1,0 +1,32 @@
+PokerStars Hand #162550456078:  Hold'em Limit ($3/$6 USD) - 2016/12/07 6:56:02 ET
+Table 'Cantabia II' 6-max Seat #4 is the button
+Seat 3: hasky156 ($140.62 in chips)
+Seat 4: ABATAPP ($170.46 in chips)
+ABATAPP: posts small blind $1
+sinsadir: is sitting out
+hasky156: posts big blind $3
+*** HOLE CARDS ***
+ABATAPP: raises $3 to $6
+hasky156: calls $3
+*** FLOP *** [3s 3c 8c]
+hasky156: checks
+sinsadir leaves the table
+ABATAPP: bets $3
+hasky156: calls $3
+*** TURN *** [3s 3c 8c] [4c]
+hasky156: checks
+ABATAPP: checks
+*** RIVER *** [3s 3c 8c 4c] [Jh]
+hasky156: checks
+ABATAPP: checks
+*** SHOW DOWN ***
+hasky156: shows [As 6h] (a pair of Threes)
+ABATAPP: mucks hand
+hasky156 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3s 3c 8c 4c Jh]
+Seat 3: hasky156 (big blind) showed [As 6h] and won ($17.64) with a pair of Threes
+Seat 4: ABATAPP (button) (small blind) mucked
+
+

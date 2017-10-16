@@ -1,0 +1,54 @@
+PokerStars Hand #168515280355:  Hold'em Limit ($3/$6 USD) - 2017/04/03 8:55:20 ET
+Table 'Gerlinde' 10-max Seat #10 is the button
+Seat 5: WOL2015 ($100.03 in chips)
+Seat 10: BugerDV ($72 in chips)
+BugerDV: posts small blind $1
+WOL2015: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl joins the table at seat #6
+BugerDV: raises $3 to $6
+WOL2015: calls $3
+*** FLOP *** [Ah Js 9h]
+WOL2015: bets $3
+BugerDV: folds
+Uncalled bet ($3) returned to WOL2015
+WOL2015 collected $11.76 from pot
+WOL2015: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ah Js 9h]
+Seat 5: WOL2015 (big blind) collected ($11.76)
+Seat 10: BugerDV (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #168515428120:  Hold'em Limit ($3/$6 USD) - 2017/04/03 9:00:45 ET
+Table 'Gerlinde' 10-max Seat #10 is the button
+Seat 6: B_loJkl ($68.25 in chips)
+Seat 10: BugerDV ($62.21 in chips)
+BugerDV: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+MikXG leaves the table
+BugerDV: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Jc 5c Qh]
+B_loJkl: checks
+BugerDV: bets $3
+B_loJkl: calls $3
+*** TURN *** [Jc 5c Qh] [9s]
+B_loJkl: checks
+BugerDV: checks
+*** RIVER *** [Jc 5c Qh 9s] [2h]
+B_loJkl: checks
+BugerDV: checks
+*** SHOW DOWN ***
+B_loJkl: shows [4h 5h] (a pair of Fives)
+BugerDV: mucks hand
+B_loJkl collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Jc 5c Qh 9s 2h]
+Seat 6: B_loJkl (big blind) showed [4h 5h] and won ($17.64) with a pair of Fives
+Seat 10: BugerDV (button) (small blind) mucked
+
+

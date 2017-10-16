@@ -1,0 +1,85 @@
+PokerStars Hand #157566171133:  Hold'em Limit ($3/$6 USD) - 2016/08/21 15:23:35 ET
+Table 'Prieska' 6-max Seat #4 is the button
+Seat 2: krytalex ($80.40 in chips)
+Seat 4: jassomaan ($155.15 in chips)
+jassomaan: posts small blind $1
+Zubasa07: is sitting out
+krytalex: posts big blind $3
+*** HOLE CARDS ***
+jassomaan: calls $2
+krytalex: raises $3 to $6
+jassomaan: calls $3
+*** FLOP *** [4h 4s Td]
+krytalex: bets $3
+jassomaan: folds
+Uncalled bet ($3) returned to krytalex
+krytalex collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4h 4s Td]
+Seat 2: krytalex (big blind) collected ($11.76)
+Seat 4: jassomaan (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #157566185120:  Hold'em Limit ($3/$6 USD) - 2016/08/21 15:23:51 ET
+Table 'Prieska' 6-max Seat #2 is the button
+Seat 2: krytalex ($86.16 in chips)
+Seat 4: jassomaan ($149.15 in chips)
+krytalex: posts small blind $1
+jassomaan: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07 leaves the table
+krytalex: raises $3 to $6
+jassomaan: calls $3
+*** FLOP *** [8s 8d 7s]
+jassomaan: bets $3
+krytalex: calls $3
+*** TURN *** [8s 8d 7s] [5h]
+jassomaan: bets $6
+krytalex: calls $6
+*** RIVER *** [8s 8d 7s 5h] [Ah]
+jassomaan: bets $6
+krytalex: raises $6 to $12
+jassomaan: calls $6
+*** SHOW DOWN ***
+krytalex: shows [Ks As] (two pair, Aces and Eights)
+jassomaan: mucks hand
+krytalex collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [8s 8d 7s 5h Ah]
+Seat 2: krytalex (button) (small blind) showed [Ks As] and won ($53.50) with two pair, Aces and Eights
+Seat 4: jassomaan (big blind) mucked
+
+
+PokerStars Hand #157566206057:  Hold'em Limit ($3/$6 USD) - 2016/08/21 15:24:15 ET
+Table 'Prieska' 6-max Seat #4 is the button
+Seat 2: krytalex ($112.66 in chips)
+Seat 4: jassomaan ($122.15 in chips)
+jassomaan: posts small blind $1
+krytalex: posts big blind $3
+*** HOLE CARDS ***
+jassomaan: raises $3 to $6
+krytalex: raises $3 to $9
+jassomaan: calls $3
+*** FLOP *** [6h Ah Ad]
+krytalex: bets $3
+jassomaan: raises $3 to $6
+krytalex: calls $3
+*** TURN *** [6h Ah Ad] [5h]
+krytalex: checks
+jassomaan: checks
+*** RIVER *** [6h Ah Ad 5h] [Qs]
+krytalex: bets $6
+jassomaan: calls $6
+*** SHOW DOWN ***
+krytalex: shows [Qc Kd] (two pair, Aces and Queens)
+jassomaan: mucks hand
+krytalex collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [6h Ah Ad 5h Qs]
+Seat 2: krytalex (big blind) showed [Qc Kd] and won ($41.50) with two pair, Aces and Queens
+Seat 4: jassomaan (button) (small blind) mucked
+
+

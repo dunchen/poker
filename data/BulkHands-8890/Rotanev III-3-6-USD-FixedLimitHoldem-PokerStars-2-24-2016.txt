@@ -1,0 +1,135 @@
+PokerStars Hand #149333385594:  Hold'em Limit ($3/$6 USD) - 2016/02/24 8:15:31 ET
+Table 'Rotanev III' 6-max Seat #1 is the button
+Seat 1: olech1515 ($111 in chips)
+Seat 6: megabaitt ($119 in chips)
+olech1515: posts small blind $1
+megabaitt: posts big blind $3
+*** HOLE CARDS ***
+olech1515: raises $3 to $6
+megabaitt: calls $3
+*** FLOP *** [4d Kh 7h]
+megabaitt: bets $3
+B_loJkl joins the table at seat #2
+olech1515: raises $3 to $6
+megabaitt: calls $3
+*** TURN *** [4d Kh 7h] [As]
+megabaitt: checks
+olech1515: bets $6
+megabaitt: folds
+Uncalled bet ($6) returned to olech1515
+olech1515 collected $23.52 from pot
+olech1515: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [4d Kh 7h As]
+Seat 1: olech1515 (button) (small blind) collected ($23.52)
+Seat 6: megabaitt (big blind) folded on the Turn
+
+
+PokerStars Hand #149333381855:  Hold'em Limit ($3/$6 USD) - 2016/02/24 8:15:25 ET
+Table 'Rotanev III' 6-max Seat #6 is the button
+Seat 1: olech1515 ($110 in chips)
+Seat 6: megabaitt ($120 in chips)
+megabaitt: posts small blind $1
+olech1515: posts big blind $3
+*** HOLE CARDS ***
+megabaitt: folds
+Uncalled bet ($2) returned to olech1515
+olech1515 collected $2 from pot
+olech1515: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: olech1515 (big blind) collected ($2)
+Seat 6: megabaitt (button) (small blind) folded before Flop
+
+
+PokerStars Hand #149333398940:  Hold'em Limit ($3/$6 USD) - 2016/02/24 8:15:52 ET
+Table 'Rotanev III' 6-max Seat #6 is the button
+Seat 1: olech1515 ($122.52 in chips)
+Seat 6: megabaitt ($107 in chips)
+megabaitt: posts small blind $1
+olech1515: posts big blind $3
+*** HOLE CARDS ***
+megabaitt: raises $3 to $6
+olech1515: raises $3 to $9
+megabaitt: calls $3
+*** FLOP *** [7c 2h 8c]
+olech1515: bets $3
+megabaitt: calls $3
+*** TURN *** [7c 2h 8c] [5s]
+olech1515: bets $6
+megabaitt: raises $6 to $12
+olech1515: calls $6
+*** RIVER *** [7c 2h 8c 5s] [8h]
+olech1515: checks
+wuck249 joins the table at seat #3
+megabaitt: bets $6
+olech1515: calls $6
+*** SHOW DOWN ***
+megabaitt: shows [Ah 7h] (two pair, Eights and Sevens)
+olech1515: shows [Th Td] (two pair, Tens and Eights)
+olech1515 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [7c 2h 8c 5s 8h]
+Seat 1: olech1515 (big blind) showed [Th Td] and won ($59.50) with two pair, Tens and Eights
+Seat 6: megabaitt (button) (small blind) showed [Ah 7h] and lost with two pair, Eights and Sevens
+
+
+PokerStars Hand #149333436013:  Hold'em Limit ($3/$6 USD) - 2016/02/24 8:16:52 ET
+Table 'Rotanev III' 6-max Seat #3 is the button
+Seat 2: B_loJkl ($150 in chips)
+Seat 3: wuck249 ($117 in chips)
+wuck249: posts small blind $1
+olech1515: is sitting out
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+wuck249: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [4s Js 4d]
+B_loJkl: checks
+wuck249: bets $3
+B_loJkl: folds
+Uncalled bet ($3) returned to wuck249
+wuck249 collected $11.76 from pot
+wuck249: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4s Js 4d]
+Seat 2: B_loJkl (big blind) folded on the Flop
+Seat 3: wuck249 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #149333446725:  Hold'em Limit ($3/$6 USD) - 2016/02/24 8:17:09 ET
+Table 'Rotanev III' 6-max Seat #2 is the button
+Seat 2: B_loJkl ($144 in chips)
+Seat 3: wuck249 ($122.76 in chips)
+B_loJkl: posts small blind $1
+wuck249: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+wuck249: calls $3
+*** FLOP *** [Js 4d 6d]
+wuck249: checks
+B_loJkl: bets $3
+wuck249: raises $3 to $6
+B_loJkl: calls $3
+*** TURN *** [Js 4d 6d] [Qs]
+wuck249: bets $6
+B_loJkl: calls $6
+*** RIVER *** [Js 4d 6d Qs] [9d]
+olech1515 leaves the table
+wuck249: checks
+B_loJkl: bets $6
+wuck249: folds
+Uncalled bet ($6) returned to B_loJkl
+wuck249 leaves the table
+B_loJkl collected $35.50 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Js 4d 6d Qs 9d]
+Seat 2: B_loJkl (button) (small blind) collected ($35.50)
+Seat 3: wuck249 (big blind) folded on the River
+
+

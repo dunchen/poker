@@ -1,0 +1,69 @@
+PokerStars Hand #147472698714:  Hold'em Limit ($3/$6 USD) - 2016/01/22 7:45:29 ET
+Table 'Aletheia' 2-max Seat #1 is the button
+Seat 1: enkb ($134.50 in chips)
+Seat 2: fifaliga ($120 in chips)
+enkb: posts small blind $1
+fifaliga: posts big blind $3
+*** HOLE CARDS ***
+enkb: raises $3 to $6
+fifaliga: calls $3
+*** FLOP *** [Ah Jc 6c]
+fifaliga: checks
+enkb: bets $3
+fifaliga: folds
+Uncalled bet ($3) returned to enkb
+enkb collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ah Jc 6c]
+Seat 1: enkb (button) (small blind) collected ($11.76)
+Seat 2: fifaliga (big blind) folded on the Flop
+
+
+PokerStars Hand #147472706732:  Hold'em Limit ($3/$6 USD) - 2016/01/22 7:45:42 ET
+Table 'Aletheia' 2-max Seat #2 is the button
+Seat 1: enkb ($140.26 in chips)
+Seat 2: fifaliga ($120 in chips)
+fifaliga: posts small blind $1
+enkb: posts big blind $3
+*** HOLE CARDS ***
+fifaliga: folds
+Uncalled bet ($2) returned to enkb
+enkb collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: enkb (big blind) collected ($2)
+Seat 2: fifaliga (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147472684801:  Hold'em Limit ($3/$6 USD) - 2016/01/22 7:45:07 ET
+Table 'Aletheia' 2-max Seat #2 is the button
+Seat 1: enkb ($120 in chips)
+Seat 2: fifaliga ($36 in chips)
+fifaliga: posts small blind $1
+enkb: posts big blind $3
+*** HOLE CARDS ***
+fifaliga: raises $3 to $6
+enkb: raises $3 to $9
+fifaliga: calls $3
+*** FLOP *** [2d 9c Qs]
+enkb: bets $3
+fifaliga: raises $3 to $6
+enkb: calls $3
+*** TURN *** [2d 9c Qs] [2s]
+enkb: checks
+fifaliga: checks
+*** RIVER *** [2d 9c Qs 2s] [Kd]
+enkb: checks
+fifaliga: checks
+*** SHOW DOWN ***
+enkb: shows [8d Ad] (a pair of Deuces)
+fifaliga: mucks hand
+enkb collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2d 9c Qs 2s Kd]
+Seat 1: enkb (big blind) showed [8d Ad] and won ($29.50) with a pair of Deuces
+Seat 2: fifaliga (button) (small blind) mucked
+
+

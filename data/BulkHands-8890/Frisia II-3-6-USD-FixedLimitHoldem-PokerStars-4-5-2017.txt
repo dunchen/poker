@@ -1,0 +1,139 @@
+PokerStars Hand #168630960850:  Hold'em Limit ($3/$6 USD) - 2017/04/05 17:43:47 ET
+Table 'Frisia II' 6-max Seat #6 is the button
+Seat 5: Grey_fishKa ($120 in chips)
+Seat 6: ToDaFelt ($120 in chips)
+ToDaFelt: posts small blind $1
+Grey_fishKa: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+Grey_fishKa: raises $3 to $9
+ToDaFelt: calls $3
+*** FLOP *** [3c Qc 6s]
+Grey_fishKa: bets $3
+ToDaFelt: calls $3
+*** TURN *** [3c Qc 6s] [Js]
+Grey_fishKa: bets $6
+ToDaFelt: raises $6 to $12
+Grey_fishKa: calls $6
+*** RIVER *** [3c Qc 6s Js] [4d]
+Grey_fishKa: checks
+ToDaFelt: bets $6
+Grey_fishKa: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [Jd 3s] (two pair, Jacks and Threes)
+Grey_fishKa: mucks hand
+ToDaFelt collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [3c Qc 6s Js 4d]
+Seat 5: Grey_fishKa (big blind) mucked
+Seat 6: ToDaFelt (button) (small blind) showed [Jd 3s] and won ($59.50) with two pair, Jacks and Threes
+
+
+PokerStars Hand #168630991094:  Hold'em Limit ($3/$6 USD) - 2017/04/05 17:44:24 ET
+Table 'Frisia II' 6-max Seat #5 is the button
+Seat 5: Grey_fishKa ($90 in chips)
+Seat 6: ToDaFelt ($149.50 in chips)
+Grey_fishKa: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+Grey_fishKa: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [3c 3d Js]
+B_loJkl joins the table at seat #1
+ToDaFelt: checks
+Grey_fishKa: bets $3
+ToDaFelt: calls $3
+*** TURN *** [3c 3d Js] [4h]
+ToDaFelt: checks
+Grey_fishKa: bets $6
+ToDaFelt: calls $6
+*** RIVER *** [3c 3d Js 4h] [4c]
+ToDaFelt: checks
+Grey_fishKa: bets $6
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+Grey_fishKa: shows [4s 5h] (a full house, Fours full of Threes)
+ToDaFelt: mucks hand
+Grey_fishKa collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [3c 3d Js 4h 4c]
+Seat 5: Grey_fishKa (button) (small blind) showed [4s 5h] and won ($41.50) with a full house, Fours full of Threes
+Seat 6: ToDaFelt (big blind) mucked
+
+
+PokerStars Hand #168631528572:  Hold'em Limit ($3/$6 USD) - 2017/04/05 17:55:49 ET
+Table 'Frisia II' 6-max Seat #6 is the button
+Seat 2: mareshkin2 ($167.08 in chips)
+Seat 6: ToDaFelt ($104.99 in chips)
+ToDaFelt: posts small blind $1
+B_loJkl: is sitting out
+mareshkin2: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: folds
+Uncalled bet ($2) returned to mareshkin2
+mareshkin2 collected $2 from pot
+mareshkin2: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: mareshkin2 (big blind) collected ($2)
+Seat 6: ToDaFelt (button) (small blind) folded before Flop
+
+
+PokerStars Hand #168631554422:  Hold'em Limit ($3/$6 USD) - 2017/04/05 17:56:30 ET
+Table 'Frisia II' 6-max Seat #6 is the button
+Seat 2: mareshkin2 ($173.84 in chips)
+Seat 6: ToDaFelt ($97.99 in chips)
+ToDaFelt: posts small blind $1
+mareshkin2: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+mareshkin2: calls $3
+*** FLOP *** [2s Qc Qh]
+mareshkin2: checks
+ToDaFelt: bets $3
+mareshkin2: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $11.76 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2s Qc Qh]
+Seat 2: mareshkin2 (big blind) folded on the Flop
+Seat 6: ToDaFelt (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #168631532525:  Hold'em Limit ($3/$6 USD) - 2017/04/05 17:55:56 ET
+Table 'Frisia II' 6-max Seat #2 is the button
+Seat 2: mareshkin2 ($168.08 in chips)
+Seat 6: ToDaFelt ($103.99 in chips)
+mareshkin2: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+mareshkin2: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [2s 3h 7s]
+ToDaFelt: checks
+B_loJkl leaves the table
+mareshkin2: checks
+*** TURN *** [2s 3h 7s] [Jh]
+ToDaFelt: checks
+B_loJkl joins the table at seat #3
+nimzon joins the table at seat #4
+mareshkin2: checks
+*** RIVER *** [2s 3h 7s Jh] [6s]
+nimzon leaves the table
+ToDaFelt: checks
+mareshkin2: checks
+*** SHOW DOWN ***
+ToDaFelt: shows [Kc 4h] (high card King)
+mareshkin2: shows [Qc Kh] (high card King - Queen kicker)
+mareshkin2 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2s 3h 7s Jh 6s]
+Seat 2: mareshkin2 (button) (small blind) showed [Qc Kh] and won ($11.76) with high card King
+Seat 6: ToDaFelt (big blind) showed [Kc 4h] and lost with high card King
+
+

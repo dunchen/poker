@@ -1,0 +1,60 @@
+PokerStars Hand #145344719816:  Hold'em Limit ($3/$6 USD) - 2015/12/14 14:59:21 ET
+Table 'Hakone' 6-max Seat #4 is the button
+Seat 3: vestimokrec ($120 in chips)
+Seat 4: manly70 ($368.90 in chips)
+manly70: posts small blind $1
+oregordog joins the table at seat #1
+PelonCabelao: is sitting out
+MellivoraSto: is sitting out
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+manly70: raises $3 to $6
+PelonCabelao leaves the table
+vestimokrec: calls $3
+*** FLOP *** [9c 5h 6h]
+vestimokrec: checks
+manly70: bets $3
+vestimokrec: raises $3 to $6
+manly70: calls $3
+*** TURN *** [9c 5h 6h] [Qc]
+vestimokrec: bets $6
+manly70: raises $6 to $12
+vestimokrec: raises $6 to $18
+manly70: calls $6
+*** RIVER *** [9c 5h 6h Qc] [Qs]
+vestimokrec: checks
+manly70: checks
+*** SHOW DOWN ***
+vestimokrec: shows [6d 5c] (two pair, Queens and Sixes)
+manly70: mucks hand
+vestimokrec collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [9c 5h 6h Qc Qs]
+Seat 3: vestimokrec (big blind) showed [6d 5c] and won ($59.50) with two pair, Queens and Sixes
+Seat 4: manly70 (button) (small blind) mucked
+
+
+PokerStars Hand #145344767611:  Hold'em Limit ($3/$6 USD) - 2015/12/14 15:00:17 ET
+Table 'Hakone' 6-max Seat #3 is the button
+Seat 3: vestimokrec ($149.50 in chips)
+Seat 4: manly70 ($338.90 in chips)
+vestimokrec: posts small blind $1
+manly70: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+manly70: calls $3
+*** FLOP *** [7d 3d Kh]
+manly70: checks
+vestimokrec: bets $3
+manly70: folds
+Uncalled bet ($3) returned to vestimokrec
+vestimokrec collected $11.76 from pot
+vestimokrec: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7d 3d Kh]
+Seat 3: vestimokrec (button) (small blind) collected ($11.76)
+Seat 4: manly70 (big blind) folded on the Flop
+
+

@@ -1,0 +1,64 @@
+PokerStars Hand #166525125767:  Hold'em Limit ($3/$6 USD) - 2017/02/20 17:40:18 ET
+Table 'Orestes' 6-max Seat #3 is the button
+Seat 3: Eklund_1891 ($72 in chips)
+Seat 5: Zubasa07 ($300 in chips)
+Eklund_1891: posts small blind $1
+Zubasa07: posts big blind $3
+*** HOLE CARDS ***
+Eklund_1891: raises $3 to $6
+Zubasa07: calls $3
+*** FLOP *** [3d 2s 7s]
+NoVebra joins the table at seat #6
+Zubasa07: bets $3
+Eklund_1891: calls $3
+*** TURN *** [3d 2s 7s] [6h]
+Zubasa07: bets $6
+Eklund_1891: calls $6
+*** RIVER *** [3d 2s 7s 6h] [4h]
+Zubasa07: bets $6
+Eklund_1891: calls $6
+*** SHOW DOWN ***
+Zubasa07: shows [7c Th] (a pair of Sevens)
+Eklund_1891: mucks hand
+Zubasa07 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [3d 2s 7s 6h 4h]
+Seat 3: Eklund_1891 (button) (small blind) mucked
+Seat 5: Zubasa07 (big blind) showed [7c Th] and won ($41.50) with a pair of Sevens
+
+
+PokerStars Hand #166525277961:  Hold'em Limit ($3/$6 USD) - 2017/02/20 17:43:16 ET
+Table 'Orestes' 6-max Seat #6 is the button
+Seat 1: Chessnok ($95 in chips)
+Seat 6: NoVebra ($166.32 in chips)
+NoVebra: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07 leaves the table
+Eklund_1891 said, "lslslsl"
+NoVebra: raises $3 to $6
+Chessnok: raises $3 to $9
+NoVebra: calls $3
+*** FLOP *** [Kh 9h 8s]
+Eklund_1891 is disconnected
+Chessnok: bets $3
+NoVebra: calls $3
+*** TURN *** [Kh 9h 8s] [5h]
+Chessnok: bets $6
+NoVebra: raises $6 to $12
+Chessnok: calls $6
+*** RIVER *** [Kh 9h 8s 5h] [Kc]
+Chessnok: checks
+NoVebra: checks
+*** SHOW DOWN ***
+Chessnok: shows [Ts Jd] (a pair of Kings)
+NoVebra: shows [5d 8c] (two pair, Kings and Eights)
+NoVebra collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Kh 9h 8s 5h Kc]
+Seat 1: Chessnok (big blind) showed [Ts Jd] and lost with a pair of Kings
+Seat 6: NoVebra (button) (small blind) showed [5d 8c] and won ($47.50) with two pair, Kings and Eights
+
+

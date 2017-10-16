@@ -1,0 +1,54 @@
+PokerStars Hand #163022471667:  Hold'em Limit ($3/$6 USD) - 2016/12/16 5:41:17 ET
+Table 'Klytia' 6-max Seat #3 is the button
+Seat 3: Humpy C ($70.13 in chips)
+Seat 4: Agrotait ($72 in chips)
+Humpy C: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+Humpy C: calls $2
+Agrotait: checks
+*** FLOP *** [Ad Ac 2d]
+belik555 joins the table at seat #2
+Agrotait: checks
+Humpy C: bets $3
+Agrotait: folds
+Uncalled bet ($3) returned to Humpy C
+Humpy C collected $5.88 from pot
+Humpy C: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Ad Ac 2d]
+Seat 3: Humpy C (button) (small blind) collected ($5.88)
+Seat 4: Agrotait (big blind) folded on the Flop
+
+
+PokerStars Hand #163022960127:  Hold'em Limit ($3/$6 USD) - 2016/12/16 6:00:44 ET
+Table 'Klytia' 6-max Seat #2 is the button
+Seat 1: ToDaFelt ($115.46 in chips)
+Seat 2: feilinho ($34.46 in chips)
+feilinho: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+feilinho: raises $3 to $6
+ToDaFelt: raises $3 to $9
+feilinho: calls $3
+*** FLOP *** [5h 4s 2s]
+ToDaFelt: bets $3
+feilinho: calls $3
+*** TURN *** [5h 4s 2s] [9s]
+ToDaFelt: bets $6
+feilinho: calls $6
+*** RIVER *** [5h 4s 2s 9s] [Qd]
+ToDaFelt: checks
+feilinho: checks
+*** SHOW DOWN ***
+ToDaFelt: shows [Ts Kd] (high card King)
+feilinho: shows [8s Ac] (high card Ace)
+feilinho collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5h 4s 2s 9s Qd]
+Seat 1: ToDaFelt (big blind) showed [Ts Kd] and lost with high card King
+Seat 2: feilinho (button) (small blind) showed [8s Ac] and won ($35.50) with high card Ace
+
+

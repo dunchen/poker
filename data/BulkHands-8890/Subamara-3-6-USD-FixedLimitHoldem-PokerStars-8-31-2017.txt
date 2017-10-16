@@ -1,0 +1,32 @@
+PokerStars Hand #175013958019:  Hold'em Limit ($3/$6 USD) - 2017/08/31 4:49:10 ET
+Table 'Subamara' 6-max Seat #6 is the button
+Seat 4: Fabulous108 ($249.53 in chips)
+Seat 6: Psynto ($107.14 in chips)
+Psynto: posts small blind $1
+Fabulous108: posts big blind $3
+*** HOLE CARDS ***
+Psynto: raises $3 to $6
+Fabulous108: calls $3
+*** FLOP *** [Ac 3h Jc]
+Fabulous108: checks
+Psynto: bets $3
+Fabulous108: calls $3
+*** TURN *** [Ac 3h Jc] [9d]
+Fabulous108: checks
+Psynto: bets $6
+Fabulous108: calls $6
+*** RIVER *** [Ac 3h Jc 9d] [Qc]
+Fabulous108: checks
+Psynto: bets $6
+Fabulous108: calls $6
+*** SHOW DOWN ***
+Psynto: shows [Ts 5c] (high card Ace)
+Fabulous108: shows [Th Jd] (a pair of Jacks)
+Fabulous108 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ac 3h Jc 9d Qc]
+Seat 4: Fabulous108 (big blind) showed [Th Jd] and won ($41.50) with a pair of Jacks
+Seat 6: Psynto (button) (small blind) showed [Ts 5c] and lost with high card Ace
+
+

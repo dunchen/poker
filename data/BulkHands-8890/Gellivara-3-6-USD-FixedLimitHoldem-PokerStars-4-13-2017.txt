@@ -1,0 +1,60 @@
+PokerStars Hand #168984141285:  Hold'em Limit ($3/$6 USD) - 2017/04/13 12:48:45 ET
+Table 'Gellivara' 6-max Seat #6 is the button
+Seat 3: vestimokrec ($135.89 in chips)
+Seat 6: Qvidde ($98.66 in chips)
+Qvidde: posts small blind $1
+Oddchild: is sitting out
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07 leaves the table
+Qvidde: raises $3 to $6
+Oddchild leaves the table
+vestimokrec: calls $3
+*** FLOP *** [Js Jh 5h]
+vestimokrec: checks
+Qvidde: checks
+*** TURN *** [Js Jh 5h] [4s]
+vestimokrec: bets $6
+Qvidde: folds
+Uncalled bet ($6) returned to vestimokrec
+vestimokrec collected $11.76 from pot
+vestimokrec: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Js Jh 5h 4s]
+Seat 3: vestimokrec (big blind) collected ($11.76)
+Seat 6: Qvidde (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #168984172139:  Hold'em Limit ($3/$6 USD) - 2017/04/13 12:49:27 ET
+Table 'Gellivara' 6-max Seat #3 is the button
+Seat 3: vestimokrec ($141.65 in chips)
+Seat 6: Qvidde ($92.66 in chips)
+vestimokrec: posts small blind $1
+Qvidde: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+Qvidde: calls $3
+*** FLOP *** [8s 3d 9c]
+Qvidde: checks
+vestimokrec: checks
+*** TURN *** [8s 3d 9c] [5s]
+Qvidde: bets $6
+vestimokrec: raises $6 to $12
+Qvidde: calls $6
+*** RIVER *** [8s 3d 9c 5s] [Kc]
+Qvidde: checks
+vestimokrec: bets $6
+Qvidde: raises $6 to $12
+vestimokrec: calls $6
+*** SHOW DOWN ***
+Qvidde: shows [Kh 5c] (two pair, Kings and Fives)
+vestimokrec: mucks hand
+Qvidde collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [8s 3d 9c 5s Kc]
+Seat 3: vestimokrec (button) (small blind) mucked
+Seat 6: Qvidde (big blind) showed [Kh 5c] and won ($59.50) with two pair, Kings and Fives
+
+

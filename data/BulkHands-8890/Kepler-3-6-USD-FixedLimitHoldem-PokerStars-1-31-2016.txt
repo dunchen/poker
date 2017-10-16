@@ -1,0 +1,134 @@
+PokerStars Hand #147980809239:  Hold'em Limit ($3/$6 USD) - 2016/01/31 5:34:13 ET
+Table 'Kepler' 2-max Seat #2 is the button
+Seat 1: TheU10 ($120 in chips)
+Seat 2: hudecam ($30 in chips)
+hudecam: posts small blind $1
+TheU10: posts big blind $3
+*** HOLE CARDS ***
+hudecam: raises $3 to $6
+TheU10: calls $3
+*** FLOP *** [9s Js 6d]
+TheU10: checks
+hudecam: bets $3
+TheU10: calls $3
+*** TURN *** [9s Js 6d] [9c]
+TheU10: checks
+hudecam: bets $6
+TheU10: calls $6
+*** RIVER *** [9s Js 6d 9c] [Ks]
+TheU10: checks
+hudecam: checks
+*** SHOW DOWN ***
+TheU10: shows [5d Jh] (two pair, Jacks and Nines)
+hudecam: mucks hand
+TheU10 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9s Js 6d 9c Ks]
+Seat 1: TheU10 (big blind) showed [5d Jh] and won ($29.50) with two pair, Jacks and Nines
+Seat 2: hudecam (button) (small blind) mucked
+
+
+PokerStars Hand #147980824516:  Hold'em Limit ($3/$6 USD) - 2016/01/31 5:34:39 ET
+Table 'Kepler' 2-max Seat #1 is the button
+Seat 1: TheU10 ($134.50 in chips)
+Seat 2: hudecam ($15 in chips)
+TheU10: posts small blind $1
+hudecam: posts big blind $3
+*** HOLE CARDS ***
+TheU10: raises $3 to $6
+hudecam: raises $3 to $9
+TheU10: calls $3
+*** FLOP *** [Qs Jc 5d]
+hudecam: bets $3
+TheU10: raises $3 to $6
+hudecam: calls $3 and is all-in
+*** TURN *** [Qs Jc 5d] [6c]
+*** RIVER *** [Qs Jc 5d 6c] [2d]
+*** SHOW DOWN ***
+hudecam: shows [8c 6h] (a pair of Sixes)
+TheU10: shows [Js Kc] (a pair of Jacks)
+hudecam leaves the table
+TheU10 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qs Jc 5d 6c 2d]
+Seat 1: TheU10 (button) (small blind) showed [Js Kc] and won ($29.50) with a pair of Jacks
+Seat 2: hudecam (big blind) showed [8c 6h] and lost with a pair of Sixes
+
+
+PokerStars Hand #147980846295:  Hold'em Limit ($3/$6 USD) - 2016/01/31 5:35:17 ET
+Table 'Kepler' 2-max Seat #2 is the button
+Seat 1: TheU10 ($149 in chips)
+Seat 2: hudecam ($30 in chips)
+hudecam: posts small blind $1
+TheU10: posts big blind $3
+*** HOLE CARDS ***
+hudecam: folds
+Uncalled bet ($2) returned to TheU10
+TheU10 collected $2 from pot
+TheU10: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: TheU10 (big blind) collected ($2)
+Seat 2: hudecam (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147980849424:  Hold'em Limit ($3/$6 USD) - 2016/01/31 5:35:23 ET
+Table 'Kepler' 2-max Seat #1 is the button
+Seat 1: TheU10 ($150 in chips)
+Seat 2: hudecam ($29 in chips)
+TheU10: posts small blind $1
+hudecam: posts big blind $3
+*** HOLE CARDS ***
+TheU10: raises $3 to $6
+hudecam: raises $3 to $9
+TheU10: calls $3
+*** FLOP *** [5s 7d 3c]
+hudecam: bets $3
+TheU10: raises $3 to $6
+hudecam: calls $3
+*** TURN *** [5s 7d 3c] [Ac]
+hudecam: checks
+TheU10: bets $6
+hudecam: folds
+Uncalled bet ($6) returned to TheU10
+TheU10 collected $29.50 from pot
+TheU10: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5s 7d 3c Ac]
+Seat 1: TheU10 (button) (small blind) collected ($29.50)
+Seat 2: hudecam (big blind) folded on the Turn
+
+
+PokerStars Hand #147980858740:  Hold'em Limit ($3/$6 USD) - 2016/01/31 5:35:39 ET
+Table 'Kepler' 2-max Seat #2 is the button
+Seat 1: TheU10 ($164.50 in chips)
+Seat 2: hudecam ($14 in chips)
+hudecam: posts small blind $1
+TheU10: posts big blind $3
+*** HOLE CARDS ***
+hudecam: raises $3 to $6
+TheU10: calls $3
+*** FLOP *** [Kd 9s 7d]
+TheU10: checks
+hudecam: bets $3
+TheU10: calls $3
+*** TURN *** [Kd 9s 7d] [2d]
+TheU10: bets $6
+hudecam: calls $5 and is all-in
+Uncalled bet ($1) returned to TheU10
+*** RIVER *** [Kd 9s 7d 2d] [6c]
+*** SHOW DOWN ***
+TheU10: shows [3h Kc] (a pair of Kings)
+hudecam: shows [Th Js] (high card King)
+TheU10 collected $27.50 from pot
+hudecam leaves the table
+*** SUMMARY ***
+Total pot $28 | Rake $0.50
+Board [Kd 9s 7d 2d 6c]
+Seat 1: TheU10 (big blind) showed [3h Kc] and won ($27.50) with a pair of Kings
+Seat 2: hudecam (button) (small blind) showed [Th Js] and lost with high card King
+
+

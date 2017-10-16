@@ -1,0 +1,66 @@
+PokerStars Hand #161767740809:  Hold'em Limit ($3/$6 USD) - 2016/11/21 19:13:45 ET
+Table 'Arctica' 6-max Seat #1 is the button
+Seat 1: RaisemyNut$ ($82.56 in chips)
+Seat 4: B_loJkl ($273.45 in chips)
+RaisemyNut$: posts small blind $1
+Lackys07: is sitting out
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+RaisemyNut$: raises $3 to $6
+Lackys07 leaves the table
+B_loJkl: calls $3
+*** FLOP *** [Jd Qd As]
+B_loJkl: checks
+RaisemyNut$: bets $3
+B_loJkl: calls $3
+*** TURN *** [Jd Qd As] [7d]
+B_loJkl: checks
+RaisemyNut$: bets $6
+B_loJkl: calls $6
+*** RIVER *** [Jd Qd As 7d] [5c]
+B_loJkl: checks
+RaisemyNut$: checks
+*** SHOW DOWN ***
+B_loJkl: shows [Kd 5s] (a pair of Fives)
+RaisemyNut$: shows [Js Th] (a pair of Jacks)
+RaisemyNut$ collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Jd Qd As 7d 5c]
+Seat 1: RaisemyNut$ (button) (small blind) showed [Js Th] and won ($29.50) with a pair of Jacks
+Seat 4: B_loJkl (big blind) showed [Kd 5s] and lost with a pair of Fives
+
+
+PokerStars Hand #161767778301:  Hold'em Limit ($3/$6 USD) - 2016/11/21 19:14:45 ET
+Table 'Arctica' 6-max Seat #4 is the button
+Seat 1: RaisemyNut$ ($97.06 in chips)
+Seat 4: B_loJkl ($258.45 in chips)
+B_loJkl: posts small blind $1
+RaisemyNut$: posts big blind $3
+ToDaFelt leaves the table
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+RaisemyNut$: calls $3
+*** FLOP *** [Td 8s 7c]
+RaisemyNut$: checks
+B_loJkl: bets $3
+RaisemyNut$: raises $3 to $6
+B_loJkl: raises $3 to $9
+RaisemyNut$: calls $3
+*** TURN *** [Td 8s 7c] [Kh]
+RaisemyNut$: checks
+B_loJkl: checks
+*** RIVER *** [Td 8s 7c Kh] [2d]
+RaisemyNut$: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+RaisemyNut$: shows [Tc Kd] (two pair, Kings and Tens)
+B_loJkl: mucks hand
+RaisemyNut$ collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Td 8s 7c Kh 2d]
+Seat 1: RaisemyNut$ (big blind) showed [Tc Kd] and won ($41.50) with two pair, Kings and Tens
+Seat 4: B_loJkl (button) (small blind) mucked
+
+

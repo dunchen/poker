@@ -1,0 +1,31 @@
+PokerStars Hand #158423720069:  Hold'em Limit ($3/$6 USD) - 2016/09/10 13:44:05 ET
+Table 'Helenos' 10-max Seat #6 is the button
+Seat 6: Agrotait ($72 in chips)
+Seat 8: docter_lock ($55.07 in chips)
+Agrotait: posts small blind $1
+docter_lock: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec joins the table at seat #9
+Agrotait: raises $3 to $6
+docter_lock: raises $3 to $9
+Agrotait: raises $3 to $12
+Betting is capped
+docter_lock: calls $3
+*** FLOP *** [8h Qd Js]
+docter_lock: checks
+Agrotait: bets $3
+docter_lock: calls $3
+*** TURN *** [8h Qd Js] [7h]
+docter_lock: checks
+Agrotait: bets $6
+docter_lock: folds
+Uncalled bet ($6) returned to Agrotait
+Agrotait collected $29.50 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8h Qd Js 7h]
+Seat 6: Agrotait (button) (small blind) collected ($29.50)
+Seat 8: docter_lock (big blind) folded on the Turn
+
+

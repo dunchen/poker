@@ -1,0 +1,62 @@
+PokerStars Hand #150361466572:  Hold'em Limit ($3/$6 USD) - 2016/03/14 17:51:34 ET
+Table 'Markab' 10-max Seat #1 is the button
+Seat 1: Zubasa07 ($500 in chips)
+Seat 5: $i1ver ($30 in chips)
+Zubasa07: posts small blind $1
+$i1ver: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec joins the table at seat #6
+Zubasa07: raises $3 to $6
+$i1ver: calls $3
+*** FLOP *** [4s Td 7d]
+$i1ver: checks
+Zubasa07: bets $3
+$i1ver: calls $3
+*** TURN *** [4s Td 7d] [Js]
+$i1ver: checks
+Zubasa07: checks
+*** RIVER *** [4s Td 7d Js] [Ks]
+$i1ver: bets $6
+Zubasa07: raises $6 to $12
+$i1ver: calls $6
+*** SHOW DOWN ***
+Zubasa07: shows [7s 9s] (a flush, King high)
+$i1ver: mucks hand
+Zubasa07 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [4s Td 7d Js Ks]
+Seat 1: Zubasa07 (button) (small blind) showed [7s 9s] and won ($41.50) with a flush, King high
+Seat 5: $i1ver (big blind) mucked
+
+
+PokerStars Hand #150361609253:  Hold'em Limit ($3/$6 USD) - 2016/03/14 17:54:05 ET
+Table 'Markab' 10-max Seat #6 is the button
+Seat 5: $i1ver ($11 in chips)
+Seat 6: vestimokrec ($120 in chips)
+vestimokrec: posts small blind $1
+Zubasa07: is sitting out
+$i1ver: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+Zubasa07 leaves the table
+$i1ver: raises $3 to $9
+vestimokrec: calls $3
+*** FLOP *** [6c Qh Jc]
+$i1ver: checks
+vestimokrec: bets $3
+$i1ver: calls $2 and is all-in
+Uncalled bet ($1) returned to vestimokrec
+*** TURN *** [6c Qh Jc] [Qd]
+*** RIVER *** [6c Qh Jc Qd] [3h]
+*** SHOW DOWN ***
+$i1ver: shows [Td 6h] (two pair, Queens and Sixes)
+vestimokrec: shows [8s 8c] (two pair, Queens and Eights)
+vestimokrec collected $21.56 from pot
+*** SUMMARY ***
+Total pot $22 | Rake $0.44
+Board [6c Qh Jc Qd 3h]
+Seat 5: $i1ver (big blind) showed [Td 6h] and lost with two pair, Queens and Sixes
+Seat 6: vestimokrec (button) (small blind) showed [8s 8c] and won ($21.56) with two pair, Queens and Eights
+
+

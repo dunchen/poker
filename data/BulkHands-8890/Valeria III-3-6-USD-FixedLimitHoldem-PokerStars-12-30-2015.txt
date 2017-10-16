@@ -1,0 +1,92 @@
+PokerStars Hand #146172121370:  Hold'em Limit ($3/$6 USD) - 2015/12/30 10:31:42 ET
+Table 'Valeria III' 6-max Seat #1 is the button
+Seat 1: lordlebedev ($30 in chips)
+Seat 4: PelonCabelao ($60 in chips)
+lordlebedev: posts small blind $1
+kolaz03 joins the table at seat #2
+PelonCabelao: posts big blind $3
+*** HOLE CARDS ***
+lordlebedev: calls $2
+PelonCabelao: raises $3 to $6
+lordlebedev: calls $3
+*** FLOP *** [Qc Th 9c]
+PelonCabelao: bets $3
+lordlebedev: calls $3
+*** TURN *** [Qc Th 9c] [6h]
+PelonCabelao: checks
+lordlebedev: bets $6
+PelonCabelao: calls $6
+*** RIVER *** [Qc Th 9c 6h] [Qh]
+PelonCabelao: checks
+lordlebedev: bets $6
+PelonCabelao: calls $6
+*** SHOW DOWN ***
+lordlebedev: shows [Td 4d] (two pair, Queens and Tens)
+PelonCabelao: mucks hand
+lordlebedev collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Qc Th 9c 6h Qh]
+Seat 1: lordlebedev (button) (small blind) showed [Td 4d] and won ($41.50) with two pair, Queens and Tens
+Seat 4: PelonCabelao (big blind) mucked
+
+
+PokerStars Hand #146172166498:  Hold'em Limit ($3/$6 USD) - 2015/12/30 10:32:36 ET
+Table 'Valeria III' 6-max Seat #4 is the button
+Seat 1: lordlebedev ($50.50 in chips)
+Seat 4: PelonCabelao ($72 in chips)
+PelonCabelao: posts small blind $1
+lordlebedev: posts big blind $3
+*** HOLE CARDS ***
+PelonCabelao: raises $3 to $6
+lordlebedev: calls $3
+*** FLOP *** [5h 6d Kh]
+lordlebedev: checks
+PelonCabelao: bets $3
+lordlebedev: calls $3
+*** TURN *** [5h 6d Kh] [5c]
+lordlebedev: checks
+PelonCabelao: bets $6
+lordlebedev: folds
+Uncalled bet ($6) returned to PelonCabelao
+PelonCabelao collected $17.64 from pot
+PelonCabelao: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5h 6d Kh 5c]
+Seat 1: lordlebedev (big blind) folded on the Turn
+Seat 4: PelonCabelao (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #146174779036:  Hold'em Limit ($3/$6 USD) - 2015/12/30 11:24:46 ET
+Table 'Valeria III' 6-max Seat #5 is the button
+Seat 4: Bonsey_1 ($63.70 in chips)
+Seat 5: LolDnkaments ($115.17 in chips)
+LolDnkaments: posts small blind $1
+guus2007: is sitting out
+Bonsey_1: posts big blind $3
+*** HOLE CARDS ***
+LolDnkaments: raises $3 to $6
+guus2007 leaves the table
+Bonsey_1: calls $3
+*** FLOP *** [Th 6h 3s]
+Bonsey_1: checks
+LolDnkaments: bets $3
+Bonsey_1: calls $3
+*** TURN *** [Th 6h 3s] [6s]
+Bonsey_1: checks
+LolDnkaments: checks
+*** RIVER *** [Th 6h 3s 6s] [Ad]
+Bonsey_1: bets $6
+LolDnkaments: calls $6
+*** SHOW DOWN ***
+Bonsey_1: shows [8s 9s] (a pair of Sixes)
+LolDnkaments: shows [Jd Ah] (two pair, Aces and Sixes)
+LolDnkaments collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Th 6h 3s 6s Ad]
+Seat 4: Bonsey_1 (big blind) showed [8s 9s] and lost with a pair of Sixes
+Seat 5: LolDnkaments (button) (small blind) showed [Jd Ah] and won ($29.50) with two pair, Aces and Sixes
+
+

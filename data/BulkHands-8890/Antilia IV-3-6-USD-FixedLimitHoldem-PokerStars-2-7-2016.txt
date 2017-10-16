@@ -1,0 +1,31 @@
+PokerStars Hand #148415336242:  Hold'em Limit ($3/$6 USD) - 2016/02/07 16:34:46 ET
+Table 'Antilia IV' 2-max Seat #2 is the button
+Seat 1: biber0 ($120 in chips)
+Seat 2: Desktop775 ($120 in chips)
+Desktop775: posts small blind $1
+biber0: posts big blind $3
+*** HOLE CARDS ***
+Desktop775: raises $3 to $6
+biber0: calls $3
+*** FLOP *** [Tc 8c 5d]
+biber0: checks
+Desktop775: bets $3
+biber0: calls $3
+*** TURN *** [Tc 8c 5d] [2h]
+biber0: checks
+Desktop775: bets $6
+biber0: calls $6
+*** RIVER *** [Tc 8c 5d 2h] [5s]
+biber0: checks
+Desktop775: checks
+*** SHOW DOWN ***
+biber0: shows [Kd Kc] (two pair, Kings and Fives)
+Desktop775: mucks hand
+biber0 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Tc 8c 5d 2h 5s]
+Seat 1: biber0 (big blind) showed [Kd Kc] and won ($29.50) with two pair, Kings and Fives
+Seat 2: Desktop775 (button) (small blind) mucked
+
+

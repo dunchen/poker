@@ -1,0 +1,87 @@
+PokerStars Hand #161070351694:  Hold'em Limit ($3/$6 USD) - 2016/11/07 19:51:19 ET
+Table 'Cebriones II' 6-max Seat #4 is the button
+Seat 4: ToDaFelt ($353.27 in chips)
+Seat 6: RH8888 ($29.26 in chips)
+ToDaFelt: posts small blind $1
+RH8888: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+RH8888: calls $3
+*** FLOP *** [8h 4s Jc]
+RH8888: checks
+ToDaFelt: bets $3
+RH8888: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $11.76 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8h 4s Jc]
+Seat 4: ToDaFelt (button) (small blind) collected ($11.76)
+Seat 6: RH8888 (big blind) folded on the Flop
+
+
+PokerStars Hand #161070341383:  Hold'em Limit ($3/$6 USD) - 2016/11/07 19:51:00 ET
+Table 'Cebriones II' 6-max Seat #6 is the button
+Seat 4: ToDaFelt ($368.15 in chips)
+Seat 6: RH8888 ($14.88 in chips)
+RH8888: posts small blind $1
+HAL9QQQ: is sitting out
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+RH8888: raises $3 to $6
+ToDaFelt: raises $3 to $9
+RH8888: raises $3 to $12
+Betting is capped
+ToDaFelt: calls $3
+*** FLOP *** [8s 2s 8d]
+ToDaFelt: bets $3
+RH8888: calls $2.88 and is all-in
+Uncalled bet ($0.12) returned to ToDaFelt
+*** TURN *** [8s 2s 8d] [9d]
+*** RIVER *** [8s 2s 8d 9d] [7d]
+*** SHOW DOWN ***
+ToDaFelt: shows [As Td] (a pair of Eights)
+RH8888: shows [4h 8h] (three of a kind, Eights)
+RH8888 collected $29.26 from pot
+*** SUMMARY ***
+Total pot $29.76 | Rake $0.50
+Board [8s 2s 8d 9d 7d]
+Seat 4: ToDaFelt (big blind) showed [As Td] and lost with a pair of Eights
+Seat 6: RH8888 (button) (small blind) showed [4h 8h] and won ($29.26) with three of a kind, Eights
+
+
+PokerStars Hand #161070367673:  Hold'em Limit ($3/$6 USD) - 2016/11/07 19:51:47 ET
+Table 'Cebriones II' 6-max Seat #6 is the button
+Seat 4: ToDaFelt ($359.03 in chips)
+Seat 6: RH8888 ($23.26 in chips)
+RH8888: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+RH8888: raises $3 to $6
+ToDaFelt: raises $3 to $9
+RH8888: raises $3 to $12
+Betting is capped
+ToDaFelt: calls $3
+*** FLOP *** [5h 4h 9h]
+ToDaFelt: checks
+RH8888: bets $3
+ToDaFelt: raises $3 to $6
+RH8888: raises $3 to $9
+ToDaFelt: raises $3 to $12
+Betting is capped
+RH8888: calls $2.26 and is all-in
+Uncalled bet ($0.74) returned to ToDaFelt
+*** TURN *** [5h 4h 9h] [5s]
+*** RIVER *** [5h 4h 9h 5s] [9c]
+*** SHOW DOWN ***
+ToDaFelt: shows [Tc Th] (two pair, Tens and Nines)
+RH8888: shows [6s Ah] (two pair, Nines and Fives)
+ToDaFelt collected $46.02 from pot
+*** SUMMARY ***
+Total pot $46.52 | Rake $0.50
+Board [5h 4h 9h 5s 9c]
+Seat 4: ToDaFelt (big blind) showed [Tc Th] and won ($46.02) with two pair, Tens and Nines
+Seat 6: RH8888 (button) (small blind) showed [6s Ah] and lost with two pair, Nines and Fives
+
+

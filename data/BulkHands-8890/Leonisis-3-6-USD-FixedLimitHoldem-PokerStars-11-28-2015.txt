@@ -1,0 +1,52 @@
+PokerStars Hand #144518141923:  Hold'em Limit ($3/$6 USD) - 2015/11/28 13:45:20 ET
+Table 'Leonisis' 2-max Seat #2 is the button
+Seat 1: kilinc147 ($4.65 in chips)
+Seat 2: elifnur2008 ($115.70 in chips)
+elifnur2008: posts small blind $1
+kilinc147: posts big blind $3
+*** HOLE CARDS ***
+elifnur2008: raises $3 to $6
+kilinc147: calls $1.65 and is all-in
+Uncalled bet ($1.35) returned to elifnur2008
+*** FLOP *** [4c Js 2s]
+*** TURN *** [4c Js 2s] [Ah]
+*** RIVER *** [4c Js 2s Ah] [6s]
+*** SHOW DOWN ***
+kilinc147: shows [2h Qh] (a pair of Deuces)
+elifnur2008: shows [5s 7h] (high card Ace)
+kilinc147 collected $9.11 from pot
+*** SUMMARY ***
+Total pot $9.30 | Rake $0.19
+Board [4c Js 2s Ah 6s]
+Seat 1: kilinc147 (big blind) showed [2h Qh] and won ($9.11) with a pair of Deuces
+Seat 2: elifnur2008 (button) (small blind) showed [5s 7h] and lost with high card Ace
+
+
+PokerStars Hand #144518153361:  Hold'em Limit ($3/$6 USD) - 2015/11/28 13:45:34 ET
+Table 'Leonisis' 2-max Seat #1 is the button
+Seat 1: kilinc147 ($9.11 in chips)
+Seat 2: elifnur2008 ($111.05 in chips)
+kilinc147: posts small blind $1
+elifnur2008: posts big blind $3
+*** HOLE CARDS ***
+kilinc147: raises $3 to $6
+elifnur2008: calls $3
+*** FLOP *** [5s 6d 7c]
+elifnur2008: checks
+kilinc147: bets $3
+elifnur2008: raises $3 to $6
+kilinc147: calls $0.11 and is all-in
+Uncalled bet ($2.89) returned to elifnur2008
+*** TURN *** [5s 6d 7c] [8h]
+*** RIVER *** [5s 6d 7c 8h] [Jc]
+*** SHOW DOWN ***
+elifnur2008: shows [9s 4d] (a straight, Five to Nine)
+kilinc147: shows [6s Ad] (a pair of Sixes)
+elifnur2008 collected $17.86 from pot
+*** SUMMARY ***
+Total pot $18.22 | Rake $0.36
+Board [5s 6d 7c 8h Jc]
+Seat 1: kilinc147 (button) (small blind) showed [6s Ad] and lost with a pair of Sixes
+Seat 2: elifnur2008 (big blind) showed [9s 4d] and won ($17.86) with a straight, Five to Nine
+
+

@@ -1,0 +1,52 @@
+PokerStars Hand #144372456942:  Hold'em Limit ($3/$6 USD) - 2015/11/25 14:02:31 ET
+Table 'Hektor II' 2-max Seat #1 is the button
+Seat 1: ravpomk ($97.63 in chips)
+Seat 2: xirakn ($25.50 in chips)
+ravpomk: posts small blind $1
+xirakn: posts big blind $3
+*** HOLE CARDS ***
+ravpomk: raises $3 to $6
+xirakn: raises $3 to $9
+ravpomk: raises $3 to $12
+Betting is capped
+xirakn: calls $3
+*** FLOP *** [4c 4s Qd]
+xirakn: bets $3
+ravpomk: raises $3 to $6
+xirakn: folds
+Uncalled bet ($3) returned to ravpomk
+ravpomk collected $29.50 from pot
+ravpomk: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4c 4s Qd]
+Seat 1: ravpomk (button) (small blind) collected ($29.50)
+Seat 2: xirakn (big blind) folded on the Flop
+
+
+PokerStars Hand #144372466175:  Hold'em Limit ($3/$6 USD) - 2015/11/25 14:02:42 ET
+Table 'Hektor II' 2-max Seat #2 is the button
+Seat 1: ravpomk ($112.13 in chips)
+Seat 2: xirakn ($10.50 in chips)
+xirakn: posts small blind $1
+ravpomk: posts big blind $3
+*** HOLE CARDS ***
+xirakn: raises $3 to $6
+ravpomk: raises $3 to $9
+xirakn: raises $1.50 to $10.50 and is all-in
+Betting is capped
+ravpomk: calls $1.50
+*** FLOP *** [4c Kc Ad]
+*** TURN *** [4c Kc Ad] [7c]
+*** RIVER *** [4c Kc Ad 7c] [6s]
+*** SHOW DOWN ***
+ravpomk: shows [8c Ac] (a flush, Ace high)
+xirakn: shows [6d 7d] (two pair, Sevens and Sixes)
+ravpomk collected $20.58 from pot
+*** SUMMARY ***
+Total pot $21 | Rake $0.42
+Board [4c Kc Ad 7c 6s]
+Seat 1: ravpomk (big blind) showed [8c Ac] and won ($20.58) with a flush, Ace high
+Seat 2: xirakn (button) (small blind) showed [6d 7d] and lost with two pair, Sevens and Sixes
+
+

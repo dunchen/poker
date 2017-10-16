@@ -1,0 +1,27 @@
+PokerStars Hand #151707499827:  Hold'em Limit ($3/$6 USD) - 2016/04/10 8:44:51 ET
+Table 'Gyldenia II' 6-max Seat #4 is the button
+Seat 3: msanyi ($15 in chips)
+Seat 4: Agrotait ($86.50 in chips)
+Agrotait: posts small blind $1
+msanyi: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+msanyi: raises $3 to $9
+Agrotait: calls $3
+*** FLOP *** [2d 2c 5d]
+msanyi: bets $3
+Agrotait: raises $3 to $6
+msanyi: calls $3 and is all-in
+*** TURN *** [2d 2c 5d] [7d]
+*** RIVER *** [2d 2c 5d 7d] [2s]
+*** SHOW DOWN ***
+msanyi: shows [Ts Kh] (three of a kind, Deuces)
+Agrotait: shows [Tc 5c] (a full house, Deuces full of Fives)
+Agrotait collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2d 2c 5d 7d 2s]
+Seat 3: msanyi (big blind) showed [Ts Kh] and lost with three of a kind, Deuces
+Seat 4: Agrotait (button) (small blind) showed [Tc 5c] and won ($29.50) with a full house, Deuces full of Fives
+
+

@@ -1,0 +1,81 @@
+PokerStars Hand #168934026315:  Hold'em Limit ($3/$6 USD) - 2017/04/12 10:44:17 ET
+Table 'Una' 6-max Seat #2 is the button
+Seat 1: denn69 ($94.59 in chips)
+Seat 2: Krazy90 ($120 in chips)
+Krazy90: posts small blind $1
+AzureCaper joins the table at seat #3
+MTails has timed out
+MTails: is sitting out
+denn69: posts big blind $3
+*** HOLE CARDS ***
+Krazy90: raises $3 to $6
+MTails leaves the table
+denn69: calls $3
+*** FLOP *** [5c Kc 4h]
+denn69: checks
+Krazy90: bets $3
+denn69: calls $3
+*** TURN *** [5c Kc 4h] [Ts]
+denn69: checks
+Krazy90: bets $6
+denn69: folds
+Uncalled bet ($6) returned to Krazy90
+Krazy90 collected $17.64 from pot
+Krazy90: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5c Kc 4h Ts]
+Seat 1: denn69 (big blind) folded on the Turn
+Seat 2: Krazy90 (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #168934479939:  Hold'em Limit ($3/$6 USD) - 2017/04/12 10:55:58 ET
+Table 'Una' 6-max Seat #4 is the button
+Seat 3: AzureCaper ($72 in chips)
+Seat 4: OniSael ($30 in chips)
+Krazy90 joins the table at seat #5
+OniSael: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+OniSael: raises $3 to $6
+AzureCaper: folds
+Uncalled bet ($3) returned to OniSael
+OniSael collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: AzureCaper (big blind) folded before Flop
+Seat 4: OniSael (button) (small blind) collected ($6)
+
+
+PokerStars Hand #168934597196:  Hold'em Limit ($3/$6 USD) - 2017/04/12 10:59:31 ET
+Table 'Una' 6-max Seat #5 is the button
+Seat 1: OniSael ($30 in chips)
+Seat 5: Krazy90 ($139.92 in chips)
+Krazy90: posts small blind $1
+OniSael: posts big blind $3
+*** HOLE CARDS ***
+Krazy90: raises $3 to $6
+OniSael: raises $3 to $9
+Krazy90: calls $3
+*** FLOP *** [6d 6h Tc]
+OniSael: bets $3
+Krazy90: calls $3
+*** TURN *** [6d 6h Tc] [4c]
+OniSael: bets $6
+Krazy90: calls $6
+*** RIVER *** [6d 6h Tc 4c] [As]
+OniSael: bets $6
+Krazy90: raises $6 to $12
+AzureCaper joins the table at seat #2
+OniSael: calls $6 and is all-in
+*** SHOW DOWN ***
+Krazy90: shows [Ac 7s] (two pair, Aces and Sixes)
+OniSael: shows [Kh Qs] (a pair of Sixes)
+Krazy90 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [6d 6h Tc 4c As]
+Seat 1: OniSael (big blind) showed [Kh Qs] and lost with a pair of Sixes
+Seat 5: Krazy90 (button) (small blind) showed [Ac 7s] and won ($59.50) with two pair, Aces and Sixes
+
+

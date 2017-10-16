@@ -1,0 +1,62 @@
+PokerStars Hand #152716366866:  Hold'em Limit ($3/$6 USD) - 2016/05/01 14:55:41 ET
+Table 'Zaurak' 6-max Seat #2 is the button
+Seat 2: etien116 ($59.72 in chips)
+Seat 3: kolaz03 ($86.50 in chips)
+etien116: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+etien116: raises $3 to $6
+kolaz03: calls $3
+*** FLOP *** [Qd 2h 3d]
+britan_9 joins the table at seat #5
+kolaz03: checks
+etien116: checks
+*** TURN *** [Qd 2h 3d] [8d]
+kolaz03: checks
+etien116: checks
+*** RIVER *** [Qd 2h 3d 8d] [Js]
+kolaz03: checks
+etien116: checks
+*** SHOW DOWN ***
+kolaz03: shows [9h 4h] (high card Queen)
+etien116: shows [Kh 6s] (high card King)
+masterblstr8 joins the table at seat #6
+etien116 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qd 2h 3d 8d Js]
+Seat 2: etien116 (button) (small blind) showed [Kh 6s] and won ($11.76) with high card King
+Seat 3: kolaz03 (big blind) showed [9h 4h] and lost with high card Queen
+
+
+PokerStars Hand #152716344365:  Hold'em Limit ($3/$6 USD) - 2016/05/01 14:55:07 ET
+Table 'Zaurak' 6-max Seat #3 is the button
+Seat 2: etien116 ($74.72 in chips)
+Seat 3: kolaz03 ($72 in chips)
+kolaz03: posts small blind $1
+etien116: posts big blind $3
+*** HOLE CARDS ***
+kolaz03: raises $3 to $6
+etien116: calls $3
+*** FLOP *** [9d 7d 7c]
+etien116: checks
+kolaz03: bets $3
+etien116: calls $3
+*** TURN *** [9d 7d 7c] [As]
+etien116: checks
+kolaz03: bets $6
+etien116: calls $6
+*** RIVER *** [9d 7d 7c As] [2h]
+etien116: checks
+kolaz03: bets $6
+etien116: folds
+Uncalled bet ($6) returned to kolaz03
+kolaz03 collected $29.50 from pot
+kolaz03: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9d 7d 7c As 2h]
+Seat 2: etien116 (big blind) folded on the River
+Seat 3: kolaz03 (button) (small blind) collected ($29.50)
+
+

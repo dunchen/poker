@@ -1,0 +1,6251 @@
+PokerStars Hand #147933692071:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:17:30 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($108 in chips)
+Seat 2: kdcl ($131.52 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: folds
+Uncalled bet ($2) returned to BigYelloFish
+BigYelloFish collected $2 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (big blind) collected ($2)
+Seat 2: kdcl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147933682053:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:17:18 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($111 in chips)
+Seat 2: kdcl ($128.64 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: calls $2
+kdcl: checks
+*** FLOP *** [2s 2c 2d]
+kdcl: checks
+BigYelloFish: checks
+*** TURN *** [2s 2c 2d] [8d]
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [2s 2c 2d 8d]
+Seat 1: BigYelloFish (button) (small blind) folded on the Turn
+Seat 2: kdcl (big blind) collected ($5.88)
+
+
+PokerStars Hand #147933667003:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:17:01 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($120 in chips)
+Seat 2: kdcl ($120 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [3c 6h Ad]
+BigYelloFish: checks
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [3c 6h Ad] [6c]
+BigYelloFish: checks
+kdcl: checks
+*** RIVER *** [3c 6h Ad 6c] [3d]
+BigYelloFish: checks
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3c 6h Ad 6c 3d]
+Seat 1: BigYelloFish (big blind) folded on the River
+Seat 2: kdcl (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #147933696786:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:17:35 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($109 in chips)
+Seat 2: kdcl ($130.52 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [Jh 4s 7c]
+kdcl: checks
+BigYelloFish: checks
+*** TURN *** [Jh 4s 7c] [3h]
+kdcl: checks
+BigYelloFish: bets $6
+kdcl: calls $6
+*** RIVER *** [Jh 4s 7c 3h] [6h]
+kdcl: checks
+BigYelloFish: checks
+*** SHOW DOWN ***
+kdcl: shows [Td Qs] (high card Queen)
+BigYelloFish: shows [Ad 2d] (high card Ace)
+BigYelloFish collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Jh 4s 7c 3h 6h]
+Seat 1: BigYelloFish (button) (small blind) showed [Ad 2d] and won ($23.52) with high card Ace
+Seat 2: kdcl (big blind) showed [Td Qs] and lost with high card Queen
+
+
+PokerStars Hand #147933714644:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:17:56 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($117.52 in chips)
+Seat 2: kdcl ($121.52 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: calls $2
+kdcl: checks
+*** FLOP *** [Kd 8c Jd]
+kdcl: checks
+BigYelloFish: checks
+*** TURN *** [Kd 8c Jd] [9d]
+kdcl: checks
+BigYelloFish: checks
+*** RIVER *** [Kd 8c Jd 9d] [Tc]
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Kd 8c Jd 9d Tc]
+Seat 1: BigYelloFish (button) (small blind) folded on the River
+Seat 2: kdcl (big blind) collected ($5.88)
+
+
+PokerStars Hand #147933727361:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:18:11 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($114.52 in chips)
+Seat 2: kdcl ($124.40 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: calls $2
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [6d 8s Kh]
+BigYelloFish: bets $3
+kdcl: folds
+Uncalled bet ($3) returned to BigYelloFish
+BigYelloFish collected $11.76 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6d 8s Kh]
+Seat 1: BigYelloFish (big blind) collected ($11.76)
+Seat 2: kdcl (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #147933736117:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:18:21 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($120.28 in chips)
+Seat 2: kdcl ($118.40 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: raises $3 to $9
+BigYelloFish: calls $3
+*** FLOP *** [Tc 5h 3c]
+kdcl: bets $3
+BigYelloFish: folds
+Uncalled bet ($3) returned to kdcl
+kdcl collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Tc 5h 3c]
+Seat 1: BigYelloFish (button) (small blind) folded on the Flop
+Seat 2: kdcl (big blind) collected ($17.64)
+
+
+PokerStars Hand #147933743548:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:18:29 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($111.28 in chips)
+Seat 2: kdcl ($127.04 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [9s 2h Kh]
+BigYelloFish: checks
+kdcl: checks
+*** TURN *** [9s 2h Kh] [5h]
+BigYelloFish: checks
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9s 2h Kh 5h]
+Seat 1: BigYelloFish (big blind) folded on the Turn
+Seat 2: kdcl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #147933754672:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:18:42 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($105.28 in chips)
+Seat 2: kdcl ($132.80 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [Ad As 5h]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: raises $3 to $6
+BigYelloFish: folds
+Uncalled bet ($3) returned to kdcl
+kdcl collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ad As 5h]
+Seat 1: BigYelloFish (button) (small blind) folded on the Flop
+Seat 2: kdcl (big blind) collected ($17.64)
+
+
+PokerStars Hand #147933763440:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:18:52 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($96.28 in chips)
+Seat 2: kdcl ($141.44 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [As 8h 9h]
+BigYelloFish: checks
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [As 8h 9h] [2c]
+BigYelloFish: checks
+kdcl: checks
+*** RIVER *** [As 8h 9h 2c] [Ks]
+BigYelloFish: checks
+kdcl: checks
+*** SHOW DOWN ***
+BigYelloFish: shows [5d 6c] (high card Ace)
+kdcl: shows [7d Qc] (high card Ace - King+Queen kicker)
+kdcl collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [As 8h 9h 2c Ks]
+Seat 1: BigYelloFish (big blind) showed [5d 6c] and lost with high card Ace
+Seat 2: kdcl (button) (small blind) showed [7d Qc] and won ($17.64) with high card Ace
+
+
+PokerStars Hand #147933786007:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:19:19 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($78.28 in chips)
+Seat 2: kdcl ($158.72 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: folds
+Uncalled bet ($3) returned to kdcl
+kdcl collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: BigYelloFish (big blind) folded before Flop
+Seat 2: kdcl (button) (small blind) collected ($6)
+
+
+PokerStars Hand #147933773586:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:19:04 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($87.28 in chips)
+Seat 2: kdcl ($150.08 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [Td 4s Ks]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: calls $3
+*** TURN *** [Td 4s Ks] [Th]
+kdcl: checks
+BigYelloFish: checks
+*** RIVER *** [Td 4s Ks Th] [9c]
+kdcl: checks
+BigYelloFish: checks
+*** SHOW DOWN ***
+kdcl: shows [As 3d] (a pair of Tens)
+BigYelloFish: mucks hand
+kdcl collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Td 4s Ks Th 9c]
+Seat 1: BigYelloFish (button) (small blind) mucked
+Seat 2: kdcl (big blind) showed [As 3d] and won ($17.64) with a pair of Tens
+
+
+PokerStars Hand #147933790454:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:19:24 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($75.28 in chips)
+Seat 2: kdcl ($161.72 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [2c Qs 6c]
+kdcl: checks
+BigYelloFish: checks
+*** TURN *** [2c Qs 6c] [6d]
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2c Qs 6c 6d]
+Seat 1: BigYelloFish (button) (small blind) folded on the Turn
+Seat 2: kdcl (big blind) collected ($11.76)
+
+
+PokerStars Hand #147933799718:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:19:35 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($69.28 in chips)
+Seat 2: kdcl ($167.48 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [Qc 7c 5h]
+BigYelloFish: checks
+kdcl: checks
+*** TURN *** [Qc 7c 5h] [As]
+BigYelloFish: checks
+kdcl: checks
+*** RIVER *** [Qc 7c 5h As] [6s]
+BigYelloFish: checks
+kdcl: checks
+*** SHOW DOWN ***
+BigYelloFish: shows [Ts 5s] (a pair of Fives)
+kdcl: mucks hand
+BigYelloFish collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qc 7c 5h As 6s]
+Seat 1: BigYelloFish (big blind) showed [Ts 5s] and won ($11.76) with a pair of Fives
+Seat 2: kdcl (button) (small blind) mucked
+
+
+PokerStars Hand #147933812134:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:19:49 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($75.04 in chips)
+Seat 2: kdcl ($161.48 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: raises $3 to $9
+BigYelloFish: calls $3
+*** FLOP *** [Td Kd 2d]
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [Td Kd 2d] [8c]
+kdcl: bets $6
+BigYelloFish: calls $6
+*** RIVER *** [Td Kd 2d 8c] [Th]
+kdcl: checks
+BigYelloFish: checks
+*** SHOW DOWN ***
+kdcl: shows [Qd Jc] (a pair of Tens)
+BigYelloFish: mucks hand
+kdcl collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Td Kd 2d 8c Th]
+Seat 1: BigYelloFish (button) (small blind) mucked
+Seat 2: kdcl (big blind) showed [Qd Jc] and won ($35.50) with a pair of Tens
+
+
+PokerStars Hand #147933829196:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:20:09 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($58.04 in chips)
+Seat 2: kdcl ($177.98 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: folds
+Uncalled bet ($3) returned to BigYelloFish
+BigYelloFish collected $6 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: BigYelloFish (button) (small blind) collected ($6)
+Seat 2: kdcl (big blind) folded before Flop
+
+
+PokerStars Hand #147933824509:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:20:03 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($57.04 in chips)
+Seat 2: kdcl ($178.98 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: folds
+Uncalled bet ($2) returned to BigYelloFish
+BigYelloFish collected $2 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (big blind) collected ($2)
+Seat 2: kdcl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147933833958:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:20:14 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($61.04 in chips)
+Seat 2: kdcl ($174.98 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [Qs Tc 4c]
+BigYelloFish: checks
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [Qs Tc 4c] [Ac]
+BigYelloFish: checks
+kdcl: checks
+*** RIVER *** [Qs Tc 4c Ac] [4h]
+BigYelloFish: bets $6
+kdcl: calls $6
+*** SHOW DOWN ***
+BigYelloFish: shows [3c 4d] (three of a kind, Fours)
+kdcl: mucks hand
+BigYelloFish collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qs Tc 4c Ac 4h]
+Seat 1: BigYelloFish (big blind) showed [3c 4d] and won ($29.50) with three of a kind, Fours
+Seat 2: kdcl (button) (small blind) mucked
+
+
+PokerStars Hand #147933846115:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:20:28 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($75.54 in chips)
+Seat 2: kdcl ($159.98 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [Kc 2c 8s]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: folds
+Uncalled bet ($3) returned to BigYelloFish
+BigYelloFish collected $11.76 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kc 2c 8s]
+Seat 1: BigYelloFish (button) (small blind) collected ($11.76)
+Seat 2: kdcl (big blind) folded on the Flop
+
+
+PokerStars Hand #147933854095:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:20:38 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($81.30 in chips)
+Seat 2: kdcl ($153.98 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: folds
+Uncalled bet ($2) returned to BigYelloFish
+BigYelloFish collected $2 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (big blind) collected ($2)
+Seat 2: kdcl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147933858566:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:20:43 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($82.30 in chips)
+Seat 2: kdcl ($152.98 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [Kc As Qd]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: folds
+Uncalled bet ($3) returned to BigYelloFish
+BigYelloFish collected $11.76 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kc As Qd]
+Seat 1: BigYelloFish (button) (small blind) collected ($11.76)
+Seat 2: kdcl (big blind) folded on the Flop
+
+
+PokerStars Hand #147933866701:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:20:52 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($88.06 in chips)
+Seat 2: kdcl ($146.98 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [Th 9d 2s]
+BigYelloFish: checks
+kdcl: checks
+*** TURN *** [Th 9d 2s] [Jd]
+BigYelloFish: checks
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Th 9d 2s Jd]
+Seat 1: BigYelloFish (big blind) folded on the Turn
+Seat 2: kdcl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #147933875227:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:21:02 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($82.06 in chips)
+Seat 2: kdcl ($152.74 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: calls $2
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [2c 9s Ah]
+kdcl: bets $3
+BigYelloFish: folds
+Uncalled bet ($3) returned to kdcl
+kdcl collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2c 9s Ah]
+Seat 1: BigYelloFish (button) (small blind) folded on the Flop
+Seat 2: kdcl (big blind) collected ($11.76)
+
+
+PokerStars Hand #147933882873:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:21:12 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($76.06 in chips)
+Seat 2: kdcl ($158.50 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [Jc Qs 3d]
+BigYelloFish: checks
+kdcl: bets $3
+BigYelloFish: folds
+Uncalled bet ($3) returned to kdcl
+kdcl collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jc Qs 3d]
+Seat 1: BigYelloFish (big blind) folded on the Flop
+Seat 2: kdcl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #147933889144:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:21:20 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($70.06 in chips)
+Seat 2: kdcl ($164.26 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: raises $3 to $9
+BigYelloFish: calls $3
+*** FLOP *** [3c 6c 9c]
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [3c 6c 9c] [Kd]
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [3c 6c 9c Kd]
+Seat 1: BigYelloFish (button) (small blind) folded on the Turn
+Seat 2: kdcl (big blind) collected ($23.52)
+
+
+PokerStars Hand #147933897912:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:21:30 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($58.06 in chips)
+Seat 2: kdcl ($175.78 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [Kd 4s Qs]
+BigYelloFish: checks
+kdcl: checks
+*** TURN *** [Kd 4s Qs] [Jd]
+BigYelloFish: bets $6
+kdcl: folds
+Uncalled bet ($6) returned to BigYelloFish
+BigYelloFish collected $11.76 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kd 4s Qs Jd]
+Seat 1: BigYelloFish (big blind) collected ($11.76)
+Seat 2: kdcl (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #147933906687:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:21:40 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($63.82 in chips)
+Seat 2: kdcl ($169.78 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [9d 2c 8c]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: raises $3 to $6
+BigYelloFish: raises $3 to $9
+kdcl: calls $3
+*** TURN *** [9d 2c 8c] [5d]
+kdcl: bets $6
+BigYelloFish: raises $6 to $12
+kdcl: calls $6
+*** RIVER *** [9d 2c 8c 5d] [9c]
+kdcl: bets $6
+BigYelloFish: raises $6 to $12
+kdcl: calls $6
+*** SHOW DOWN ***
+BigYelloFish: shows [9s 8s] (a full house, Nines full of Eights)
+kdcl: mucks hand
+BigYelloFish collected $77.50 from pot
+*** SUMMARY ***
+Total pot $78 | Rake $0.50
+Board [9d 2c 8c 5d 9c]
+Seat 1: BigYelloFish (button) (small blind) showed [9s 8s] and won ($77.50) with a full house, Nines full of Eights
+Seat 2: kdcl (big blind) mucked
+
+
+PokerStars Hand #147933925098:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:22:02 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($102.32 in chips)
+Seat 2: kdcl ($130.78 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [7d 6s 3s]
+BigYelloFish: checks
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [7d 6s 3s] [Qd]
+BigYelloFish: checks
+kdcl: bets $6
+BigYelloFish: raises $6 to $12
+kdcl: calls $6
+*** RIVER *** [7d 6s 3s Qd] [Ts]
+BigYelloFish: bets $6
+kdcl: raises $6 to $12
+BigYelloFish: calls $6
+*** SHOW DOWN ***
+kdcl: shows [4s Ks] (a flush, King high)
+BigYelloFish: mucks hand
+kdcl collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [7d 6s 3s Qd Ts]
+Seat 1: BigYelloFish (big blind) mucked
+Seat 2: kdcl (button) (small blind) showed [4s Ks] and won ($65.50) with a flush, King high
+
+
+PokerStars Hand #147933951451:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:22:32 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($86.82 in chips)
+Seat 2: kdcl ($145.28 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: folds
+Uncalled bet ($2) returned to BigYelloFish
+BigYelloFish collected $2 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (big blind) collected ($2)
+Seat 2: kdcl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147933938986:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:22:18 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($69.32 in chips)
+Seat 2: kdcl ($163.28 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [6d Th 8d]
+kdcl: bets $3
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** TURN *** [6d Th 8d] [Jh]
+kdcl: checks
+BigYelloFish: bets $6
+kdcl: calls $6
+*** RIVER *** [6d Th 8d Jh] [Ts]
+kdcl: checks
+BigYelloFish: checks
+*** SHOW DOWN ***
+kdcl: shows [6h 7d] (two pair, Tens and Sixes)
+BigYelloFish: shows [Jd 5d] (two pair, Jacks and Tens)
+BigYelloFish collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6d Th 8d Jh Ts]
+Seat 1: BigYelloFish (button) (small blind) showed [Jd 5d] and won ($35.50) with two pair, Jacks and Tens
+Seat 2: kdcl (big blind) showed [6h 7d] and lost with two pair, Tens and Sixes
+
+
+PokerStars Hand #147933967777:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:22:51 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($111.32 in chips)
+Seat 2: kdcl ($120.28 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [Kd 9s 5h]
+BigYelloFish: checks
+kdcl: bets $3
+BigYelloFish: folds
+Uncalled bet ($3) returned to kdcl
+kdcl collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kd 9s 5h]
+Seat 1: BigYelloFish (big blind) folded on the Flop
+Seat 2: kdcl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #147933955544:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:22:37 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($87.82 in chips)
+Seat 2: kdcl ($144.28 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [2s 5h Js]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** TURN *** [2s 5h Js] [6s]
+kdcl: bets $6
+BigYelloFish: calls $6
+*** RIVER *** [2s 5h Js 6s] [8h]
+kdcl: bets $6
+BigYelloFish: calls $6
+*** SHOW DOWN ***
+kdcl: shows [3c 5d] (a pair of Fives)
+BigYelloFish: shows [7h 7c] (a pair of Sevens)
+BigYelloFish collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2s 5h Js 6s 8h]
+Seat 1: BigYelloFish (button) (small blind) showed [7h 7c] and won ($47.50) with a pair of Sevens
+Seat 2: kdcl (big blind) showed [3c 5d] and lost with a pair of Fives
+
+
+PokerStars Hand #147933974488:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:22:59 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($105.32 in chips)
+Seat 2: kdcl ($126.04 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: folds
+Uncalled bet ($2) returned to kdcl
+kdcl collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (button) (small blind) folded before Flop
+Seat 2: kdcl (big blind) collected ($2)
+
+
+PokerStars Hand #147933978894:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:23:04 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($104.32 in chips)
+Seat 2: kdcl ($127.04 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: raises $3 to $9
+kdcl: calls $3
+*** FLOP *** [Kd 8h Jc]
+BigYelloFish: bets $3
+kdcl: calls $3
+*** TURN *** [Kd 8h Jc] [3s]
+BigYelloFish: bets $6
+kdcl: calls $6
+*** RIVER *** [Kd 8h Jc 3s] [9c]
+BigYelloFish: bets $6
+kdcl: calls $6
+*** SHOW DOWN ***
+BigYelloFish: shows [As Kc] (a pair of Kings)
+kdcl: mucks hand
+BigYelloFish collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Kd 8h Jc 3s 9c]
+Seat 1: BigYelloFish (big blind) showed [As Kc] and won ($47.50) with a pair of Kings
+Seat 2: kdcl (button) (small blind) mucked
+
+
+PokerStars Hand #147933995538:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:23:24 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($127.82 in chips)
+Seat 2: kdcl ($103.04 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: raises $3 to $9
+BigYelloFish: calls $3
+*** FLOP *** [7c Kc 4c]
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [7c Kc 4c] [Ts]
+kdcl: bets $6
+BigYelloFish: calls $6
+*** RIVER *** [7c Kc 4c Ts] [9c]
+kdcl: checks
+BigYelloFish: bets $6
+kdcl: calls $6
+*** SHOW DOWN ***
+BigYelloFish: shows [9s Ks] (two pair, Kings and Nines)
+kdcl: mucks hand
+BigYelloFish collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7c Kc 4c Ts 9c]
+Seat 1: BigYelloFish (button) (small blind) showed [9s Ks] and won ($47.50) with two pair, Kings and Nines
+Seat 2: kdcl (big blind) mucked
+
+
+PokerStars Hand #147934009658:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:23:40 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($151.32 in chips)
+Seat 2: kdcl ($79.04 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [Kd 6c 5d]
+BigYelloFish: checks
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [Kd 6c 5d] [7c]
+BigYelloFish: checks
+kdcl: bets $6
+BigYelloFish: calls $6
+*** RIVER *** [Kd 6c 5d 7c] [3c]
+BigYelloFish: checks
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kd 6c 5d 7c 3c]
+Seat 1: BigYelloFish (big blind) folded on the River
+Seat 2: kdcl (button) (small blind) collected ($29.50)
+
+
+PokerStars Hand #147934021031:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:23:53 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($136.32 in chips)
+Seat 2: kdcl ($93.54 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: calls $2
+kdcl: checks
+*** FLOP *** [Jc 7s Jh]
+kdcl: checks
+BigYelloFish: checks
+*** TURN *** [Jc 7s Jh] [Kh]
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Jc 7s Jh Kh]
+Seat 1: BigYelloFish (button) (small blind) folded on the Turn
+Seat 2: kdcl (big blind) collected ($5.88)
+
+
+PokerStars Hand #147934030309:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:24:04 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($133.32 in chips)
+Seat 2: kdcl ($96.42 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: folds
+Uncalled bet ($2) returned to BigYelloFish
+BigYelloFish collected $2 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (big blind) collected ($2)
+Seat 2: kdcl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147934034908:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:24:09 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($134.32 in chips)
+Seat 2: kdcl ($95.42 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: calls $2
+kdcl: checks
+*** FLOP *** [4d Kc 9d]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: folds
+Uncalled bet ($3) returned to BigYelloFish
+BigYelloFish collected $5.88 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [4d Kc 9d]
+Seat 1: BigYelloFish (button) (small blind) collected ($5.88)
+Seat 2: kdcl (big blind) folded on the Flop
+
+
+PokerStars Hand #147934047135:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:24:24 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($137.20 in chips)
+Seat 2: kdcl ($92.42 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: raises $3 to $9
+kdcl: calls $3
+*** FLOP *** [4d 7h 9d]
+BigYelloFish: bets $3
+kdcl: calls $3
+*** TURN *** [4d 7h 9d] [9c]
+BigYelloFish: bets $6
+kdcl: folds
+Uncalled bet ($6) returned to BigYelloFish
+BigYelloFish collected $23.52 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [4d 7h 9d 9c]
+Seat 1: BigYelloFish (big blind) collected ($23.52)
+Seat 2: kdcl (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #147934057271:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:24:36 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($148.72 in chips)
+Seat 2: kdcl ($80.42 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: calls $2
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [Js Qh Kd]
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [Js Qh Kd] [6s]
+kdcl: checks
+BigYelloFish: checks
+*** RIVER *** [Js Qh Kd 6s] [2h]
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Js Qh Kd 6s 2h]
+Seat 1: BigYelloFish (button) (small blind) folded on the River
+Seat 2: kdcl (big blind) collected ($17.64)
+
+
+PokerStars Hand #147934086574:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:25:10 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($169.22 in chips)
+Seat 2: kdcl ($59.06 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: folds
+Uncalled bet ($2) returned to BigYelloFish
+BigYelloFish collected $2 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (big blind) collected ($2)
+Seat 2: kdcl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147934073035:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:24:54 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($136.72 in chips)
+Seat 2: kdcl ($92.06 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: raises $3 to $9
+BigYelloFish: calls $3
+*** FLOP *** [Ks 7c 9h]
+kdcl: bets $3
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** TURN *** [Ks 7c 9h] [8c]
+kdcl: checks
+BigYelloFish: bets $6
+kdcl: raises $6 to $12
+BigYelloFish: calls $6
+*** RIVER *** [Ks 7c 9h 8c] [Ts]
+kdcl: bets $6
+BigYelloFish: calls $6
+*** SHOW DOWN ***
+kdcl: shows [Ah Kc] (a pair of Kings)
+BigYelloFish: shows [9c 7s] (two pair, Nines and Sevens)
+BigYelloFish collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [Ks 7c 9h 8c Ts]
+Seat 1: BigYelloFish (button) (small blind) showed [9c 7s] and won ($65.50) with two pair, Nines and Sevens
+Seat 2: kdcl (big blind) showed [Ah Kc] and lost with a pair of Kings
+
+
+PokerStars Hand #147934090822:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:25:14 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($170.22 in chips)
+Seat 2: kdcl ($58.06 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [7h 4d Qc]
+kdcl: checks
+BigYelloFish: checks
+*** TURN *** [7h 4d Qc] [6s]
+kdcl: bets $6
+BigYelloFish: calls $6
+*** RIVER *** [7h 4d Qc 6s] [6c]
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [7h 4d Qc 6s 6c]
+Seat 1: BigYelloFish (button) (small blind) folded on the River
+Seat 2: kdcl (big blind) collected ($23.52)
+
+
+PokerStars Hand #147934106240:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:25:32 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($159.22 in chips)
+Seat 2: kdcl ($68.58 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: folds
+Uncalled bet ($2) returned to kdcl
+kdcl collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (button) (small blind) folded before Flop
+Seat 2: kdcl (big blind) collected ($2)
+
+
+PokerStars Hand #147934101749:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:25:27 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($158.22 in chips)
+Seat 2: kdcl ($69.58 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: folds
+Uncalled bet ($2) returned to BigYelloFish
+BigYelloFish collected $2 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (big blind) collected ($2)
+Seat 2: kdcl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147934110234:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:25:37 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($158.22 in chips)
+Seat 2: kdcl ($69.58 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: folds
+Uncalled bet ($3) returned to kdcl
+kdcl collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: BigYelloFish (big blind) folded before Flop
+Seat 2: kdcl (button) (small blind) collected ($6)
+
+
+PokerStars Hand #147934114628:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:25:42 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($155.22 in chips)
+Seat 2: kdcl ($72.58 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [3c 5c 5h]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: calls $3
+*** TURN *** [3c 5c 5h] [Tc]
+kdcl: checks
+BigYelloFish: bets $6
+kdcl: folds
+Uncalled bet ($6) returned to BigYelloFish
+BigYelloFish collected $17.64 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3c 5c 5h Tc]
+Seat 1: BigYelloFish (button) (small blind) collected ($17.64)
+Seat 2: kdcl (big blind) folded on the Turn
+
+
+PokerStars Hand #147934126652:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:25:56 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($163.86 in chips)
+Seat 2: kdcl ($63.58 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [5c 3s 3h]
+BigYelloFish: checks
+kdcl: bets $3
+BigYelloFish: folds
+Uncalled bet ($3) returned to kdcl
+kdcl collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5c 3s 3h]
+Seat 1: BigYelloFish (big blind) folded on the Flop
+Seat 2: kdcl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #147934132722:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:26:03 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($157.86 in chips)
+Seat 2: kdcl ($69.34 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [Kc 4h 8c]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** TURN *** [Kc 4h 8c] [2h]
+kdcl: checks
+BigYelloFish: bets $6
+kdcl: folds
+Uncalled bet ($6) returned to BigYelloFish
+BigYelloFish collected $23.52 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Kc 4h 8c 2h]
+Seat 1: BigYelloFish (button) (small blind) collected ($23.52)
+Seat 2: kdcl (big blind) folded on the Turn
+
+
+PokerStars Hand #147934144316:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:26:16 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($169.38 in chips)
+Seat 2: kdcl ($57.34 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [As Ah 8d]
+BigYelloFish: checks
+kdcl: bets $3
+BigYelloFish: folds
+Uncalled bet ($3) returned to kdcl
+kdcl collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [As Ah 8d]
+Seat 1: BigYelloFish (big blind) folded on the Flop
+Seat 2: kdcl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #147934150643:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:26:24 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($163.38 in chips)
+Seat 2: kdcl ($63.10 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [Qc 6h 4h]
+kdcl: checks
+BigYelloFish: checks
+*** TURN *** [Qc 6h 4h] [Jd]
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qc 6h 4h Jd]
+Seat 1: BigYelloFish (button) (small blind) folded on the Turn
+Seat 2: kdcl (big blind) collected ($11.76)
+
+
+PokerStars Hand #147934159437:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:26:34 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($157.38 in chips)
+Seat 2: kdcl ($68.86 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: raises $3 to $9
+kdcl: calls $3
+*** FLOP *** [5c 2c 5s]
+BigYelloFish: bets $3
+kdcl: calls $3
+*** TURN *** [5c 2c 5s] [8h]
+BigYelloFish: checks
+kdcl: checks
+*** RIVER *** [5c 2c 5s 8h] [3s]
+BigYelloFish: bets $6
+kdcl: calls $6
+*** SHOW DOWN ***
+BigYelloFish: shows [Qc Ad] (a pair of Fives)
+kdcl: mucks hand
+BigYelloFish collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5c 2c 5s 8h 3s]
+Seat 1: BigYelloFish (big blind) showed [Qc Ad] and won ($35.50) with a pair of Fives
+Seat 2: kdcl (button) (small blind) mucked
+
+
+PokerStars Hand #147934172980:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:26:49 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($174.88 in chips)
+Seat 2: kdcl ($50.86 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: calls $2
+kdcl: checks
+*** FLOP *** [4c Qc Jc]
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [4c Qc Jc] [Td]
+kdcl: checks
+BigYelloFish: checks
+*** RIVER *** [4c Qc Jc Td] [Jd]
+kdcl: checks
+BigYelloFish: bets $6
+kdcl: calls $6
+*** SHOW DOWN ***
+BigYelloFish: shows [Jh 2s] (three of a kind, Jacks)
+kdcl: mucks hand
+BigYelloFish collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [4c Qc Jc Td Jd]
+Seat 1: BigYelloFish (button) (small blind) showed [Jh 2s] and won ($23.52) with three of a kind, Jacks
+Seat 2: kdcl (big blind) mucked
+
+
+PokerStars Hand #147934188371:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:27:07 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($186.40 in chips)
+Seat 2: kdcl ($38.86 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: folds
+Uncalled bet ($2) returned to BigYelloFish
+BigYelloFish collected $2 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (big blind) collected ($2)
+Seat 2: kdcl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147934192760:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:27:13 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($187.40 in chips)
+Seat 2: kdcl ($37.86 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: calls $2
+kdcl: checks
+*** FLOP *** [9c 3c Ts]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: folds
+Uncalled bet ($3) returned to BigYelloFish
+BigYelloFish collected $5.88 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [9c 3c Ts]
+Seat 1: BigYelloFish (button) (small blind) collected ($5.88)
+Seat 2: kdcl (big blind) folded on the Flop
+
+
+PokerStars Hand #147934201610:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:27:23 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($190.28 in chips)
+Seat 2: kdcl ($34.86 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [Jd Kc 7h]
+BigYelloFish: checks
+kdcl: bets $3
+BigYelloFish: folds
+Uncalled bet ($3) returned to kdcl
+kdcl collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jd Kc 7h]
+Seat 1: BigYelloFish (big blind) folded on the Flop
+Seat 2: kdcl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #147934208556:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:27:31 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($184.28 in chips)
+Seat 2: kdcl ($40.62 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: raises $3 to $9
+BigYelloFish: calls $3
+*** FLOP *** [4h Kd 6d]
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [4h Kd 6d] [8h]
+kdcl: bets $6
+BigYelloFish: calls $6
+*** RIVER *** [4h Kd 6d 8h] [Jd]
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [4h Kd 6d 8h Jd]
+Seat 1: BigYelloFish (button) (small blind) folded on the River
+Seat 2: kdcl (big blind) collected ($35.50)
+
+
+PokerStars Hand #147934220729:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:27:45 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($166.28 in chips)
+Seat 2: kdcl ($58.12 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: raises $3 to $9
+kdcl: calls $3
+*** FLOP *** [8h 9c 9d]
+BigYelloFish: bets $3
+kdcl: calls $3
+*** TURN *** [8h 9c 9d] [6c]
+BigYelloFish: bets $6
+kdcl: calls $6
+*** RIVER *** [8h 9c 9d 6c] [7d]
+BigYelloFish: bets $6
+kdcl: raises $6 to $12
+BigYelloFish: calls $6
+*** SHOW DOWN ***
+kdcl: shows [4h 5s] (a straight, Five to Nine)
+BigYelloFish: mucks hand
+kdcl collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [8h 9c 9d 6c 7d]
+Seat 1: BigYelloFish (big blind) mucked
+Seat 2: kdcl (button) (small blind) showed [4h 5s] and won ($59.50) with a straight, Five to Nine
+
+
+PokerStars Hand #147934247745:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:28:16 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($156.78 in chips)
+Seat 2: kdcl ($66.62 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: folds
+Uncalled bet ($3) returned to kdcl
+kdcl collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: BigYelloFish (big blind) folded before Flop
+Seat 2: kdcl (button) (small blind) collected ($6)
+
+
+PokerStars Hand #147934263617:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:28:34 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($129.78 in chips)
+Seat 2: kdcl ($93.12 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: folds
+Uncalled bet ($2) returned to BigYelloFish
+BigYelloFish collected $2 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (big blind) collected ($2)
+Seat 2: kdcl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147934252502:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:28:22 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($153.78 in chips)
+Seat 2: kdcl ($69.62 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: raises $3 to $9
+BigYelloFish: calls $3
+*** FLOP *** [Kh 6s 3s]
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [Kh 6s 3s] [7s]
+kdcl: bets $6
+BigYelloFish: calls $6
+*** RIVER *** [Kh 6s 3s 7s] [8s]
+kdcl: bets $6
+BigYelloFish: calls $6
+*** SHOW DOWN ***
+kdcl: shows [Jh Ts] (a flush, Ten high)
+BigYelloFish: mucks hand
+kdcl collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Kh 6s 3s 7s 8s]
+Seat 1: BigYelloFish (button) (small blind) mucked
+Seat 2: kdcl (big blind) showed [Jh Ts] and won ($47.50) with a flush, Ten high
+
+
+PokerStars Hand #147934279191:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:28:52 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($118.78 in chips)
+Seat 2: kdcl ($103.64 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: folds
+Uncalled bet ($2) returned to BigYelloFish
+BigYelloFish collected $2 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (big blind) collected ($2)
+Seat 2: kdcl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147934268268:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:28:40 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($130.78 in chips)
+Seat 2: kdcl ($92.12 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [7s 5h 2h]
+kdcl: checks
+BigYelloFish: checks
+*** TURN *** [7s 5h 2h] [Qc]
+kdcl: bets $6
+BigYelloFish: calls $6
+*** RIVER *** [7s 5h 2h Qc] [Jh]
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [7s 5h 2h Qc Jh]
+Seat 1: BigYelloFish (button) (small blind) folded on the River
+Seat 2: kdcl (big blind) collected ($23.52)
+
+
+PokerStars Hand #147934295482:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:29:11 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($110.78 in chips)
+Seat 2: kdcl ($111.28 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: folds
+Uncalled bet ($2) returned to BigYelloFish
+BigYelloFish collected $2 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (big blind) collected ($2)
+Seat 2: kdcl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147934283397:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:28:57 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($119.78 in chips)
+Seat 2: kdcl ($102.64 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [4c Kh 7c]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: calls $3
+*** TURN *** [4c Kh 7c] [Kc]
+kdcl: checks
+BigYelloFish: checks
+*** RIVER *** [4c Kh 7c Kc] [Qh]
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4c Kh 7c Kc Qh]
+Seat 1: BigYelloFish (button) (small blind) folded on the River
+Seat 2: kdcl (big blind) collected ($17.64)
+
+
+PokerStars Hand #147934300266:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:29:17 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($111.78 in chips)
+Seat 2: kdcl ($110.28 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [5s Qc 5c]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: folds
+Uncalled bet ($3) returned to BigYelloFish
+BigYelloFish collected $11.76 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5s Qc 5c]
+Seat 1: BigYelloFish (button) (small blind) collected ($11.76)
+Seat 2: kdcl (big blind) folded on the Flop
+
+
+PokerStars Hand #147934308149:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:29:26 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($117.54 in chips)
+Seat 2: kdcl ($104.28 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [Jc 2d 9c]
+BigYelloFish: checks
+kdcl: checks
+*** TURN *** [Jc 2d 9c] [4h]
+BigYelloFish: checks
+kdcl: bets $6
+BigYelloFish: calls $6
+*** RIVER *** [Jc 2d 9c 4h] [9h]
+BigYelloFish: checks
+kdcl: checks
+*** SHOW DOWN ***
+BigYelloFish: shows [3h 3d] (two pair, Nines and Threes)
+kdcl: mucks hand
+BigYelloFish collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Jc 2d 9c 4h 9h]
+Seat 1: BigYelloFish (big blind) showed [3h 3d] and won ($23.52) with two pair, Nines and Threes
+Seat 2: kdcl (button) (small blind) mucked
+
+
+PokerStars Hand #147934320659:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:29:40 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($129.06 in chips)
+Seat 2: kdcl ($92.28 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: calls $2
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [Ad 8s 6c]
+kdcl: bets $3
+BigYelloFish: folds
+Uncalled bet ($3) returned to kdcl
+kdcl collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ad 8s 6c]
+Seat 1: BigYelloFish (button) (small blind) folded on the Flop
+Seat 2: kdcl (big blind) collected ($11.76)
+
+
+PokerStars Hand #147934339135:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:30:02 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($99.06 in chips)
+Seat 2: kdcl ($121.54 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [Qs Th Ac]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: folds
+Uncalled bet ($3) returned to BigYelloFish
+BigYelloFish collected $11.76 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qs Th Ac]
+Seat 1: BigYelloFish (button) (small blind) collected ($11.76)
+Seat 2: kdcl (big blind) folded on the Flop
+
+
+PokerStars Hand #147934347091:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:30:10 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($104.82 in chips)
+Seat 2: kdcl ($115.54 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [Jc Qc Ac]
+BigYelloFish: checks
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [Jc Qc Ac] [8h]
+BigYelloFish: checks
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Jc Qc Ac 8h]
+Seat 1: BigYelloFish (big blind) folded on the Turn
+Seat 2: kdcl (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #147934355942:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:30:21 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($95.82 in chips)
+Seat 2: kdcl ($124.18 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [6h 9c 6s]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: calls $3
+*** TURN *** [6h 9c 6s] [7c]
+kdcl: checks
+BigYelloFish: bets $6
+kdcl: raises $6 to $12
+BigYelloFish: calls $6
+*** RIVER *** [6h 9c 6s 7c] [Kc]
+kdcl: bets $6
+BigYelloFish: raises $6 to $12
+kdcl: calls $6
+*** SHOW DOWN ***
+BigYelloFish: shows [5c 3c] (a flush, King high)
+kdcl: mucks hand
+BigYelloFish collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [6h 9c 6s 7c Kc]
+Seat 1: BigYelloFish (button) (small blind) showed [5c 3c] and won ($65.50) with a flush, King high
+Seat 2: kdcl (big blind) mucked
+
+
+PokerStars Hand #147934371993:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:30:39 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($128.32 in chips)
+Seat 2: kdcl ($91.18 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [2c 6h 6s]
+BigYelloFish: checks
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [2c 6h 6s] [Js]
+BigYelloFish: checks
+kdcl: checks
+*** RIVER *** [2c 6h 6s Js] [4c]
+BigYelloFish: bets $6
+kdcl: calls $6
+*** SHOW DOWN ***
+BigYelloFish: shows [5d 6c] (three of a kind, Sixes)
+kdcl: mucks hand
+BigYelloFish collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2c 6h 6s Js 4c]
+Seat 1: BigYelloFish (big blind) showed [5d 6c] and won ($29.50) with three of a kind, Sixes
+Seat 2: kdcl (button) (small blind) mucked
+
+
+PokerStars Hand #147934385055:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:30:54 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($142.82 in chips)
+Seat 2: kdcl ($76.18 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [3s Qc Ah]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: folds
+Uncalled bet ($3) returned to BigYelloFish
+BigYelloFish collected $11.76 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3s Qc Ah]
+Seat 1: BigYelloFish (button) (small blind) collected ($11.76)
+Seat 2: kdcl (big blind) folded on the Flop
+
+
+PokerStars Hand #147934393798:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:31:04 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($148.58 in chips)
+Seat 2: kdcl ($70.18 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [4c 5d 8d]
+BigYelloFish: checks
+kdcl: checks
+*** TURN *** [4c 5d 8d] [Ac]
+BigYelloFish: checks
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4c 5d 8d Ac]
+Seat 1: BigYelloFish (big blind) folded on the Turn
+Seat 2: kdcl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #147934419638:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:31:34 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($142.34 in chips)
+Seat 2: kdcl ($75.70 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: folds
+Uncalled bet ($2) returned to BigYelloFish
+BigYelloFish collected $2 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (big blind) collected ($2)
+Seat 2: kdcl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147934404228:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:31:17 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($142.58 in chips)
+Seat 2: kdcl ($75.94 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: calls $2
+kdcl: checks
+*** FLOP *** [2d Js 5h]
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [2d Js 5h] [Ah]
+kdcl: checks
+BigYelloFish: bets $6
+kdcl: calls $6
+*** RIVER *** [2d Js 5h Ah] [2h]
+kdcl: checks
+BigYelloFish: checks
+*** SHOW DOWN ***
+kdcl: shows [Tc 5c] (two pair, Fives and Deuces)
+BigYelloFish: shows [5s 9d] (two pair, Fives and Deuces)
+kdcl collected $11.76 from pot
+BigYelloFish collected $11.76 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [2d Js 5h Ah 2h]
+Seat 1: BigYelloFish (button) (small blind) showed [5s 9d] and won ($11.76) with two pair, Fives and Deuces
+Seat 2: kdcl (big blind) showed [Tc 5c] and won ($11.76) with two pair, Fives and Deuces
+
+
+PokerStars Hand #147934431915:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:31:48 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($137.34 in chips)
+Seat 2: kdcl ($80.46 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [Qc Jd Tc]
+BigYelloFish: checks
+kdcl: checks
+*** TURN *** [Qc Jd Tc] [4s]
+BigYelloFish: checks
+kdcl: bets $6
+BigYelloFish: calls $6
+*** RIVER *** [Qc Jd Tc 4s] [3s]
+BigYelloFish: checks
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Qc Jd Tc 4s 3s]
+Seat 1: BigYelloFish (big blind) folded on the River
+Seat 2: kdcl (button) (small blind) collected ($23.52)
+
+
+PokerStars Hand #147934442997:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:32:01 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($125.34 in chips)
+Seat 2: kdcl ($91.98 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [7h Ad 3c]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: calls $3
+*** TURN *** [7h Ad 3c] [3h]
+kdcl: checks
+BigYelloFish: checks
+*** RIVER *** [7h Ad 3c 3h] [9c]
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7h Ad 3c 3h 9c]
+Seat 1: BigYelloFish (button) (small blind) folded on the River
+Seat 2: kdcl (big blind) collected ($17.64)
+
+
+PokerStars Hand #147934454227:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:32:14 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($116.34 in chips)
+Seat 2: kdcl ($100.62 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [Kc 7d Ah]
+BigYelloFish: checks
+kdcl: bets $3
+BigYelloFish: folds
+Uncalled bet ($3) returned to kdcl
+kdcl collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kc 7d Ah]
+Seat 1: BigYelloFish (big blind) folded on the Flop
+Seat 2: kdcl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #147934461956:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:32:23 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($110.34 in chips)
+Seat 2: kdcl ($106.38 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [Ks 2c 9s]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: folds
+Uncalled bet ($3) returned to BigYelloFish
+BigYelloFish collected $11.76 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ks 2c 9s]
+Seat 1: BigYelloFish (button) (small blind) collected ($11.76)
+Seat 2: kdcl (big blind) folded on the Flop
+
+
+PokerStars Hand #147934423912:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:31:39 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($143.34 in chips)
+Seat 2: kdcl ($74.70 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: calls $2
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [Ac 6d 6s]
+kdcl: bets $3
+BigYelloFish: folds
+Uncalled bet ($3) returned to kdcl
+kdcl collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ac 6d 6s]
+Seat 1: BigYelloFish (button) (small blind) folded on the Flop
+Seat 2: kdcl (big blind) collected ($11.76)
+
+
+PokerStars Hand #147934510564:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:33:19 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($109.86 in chips)
+Seat 2: kdcl ($105.90 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [Ks 4d 4c]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: folds
+Uncalled bet ($3) returned to BigYelloFish
+BigYelloFish collected $11.76 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ks 4d 4c]
+Seat 1: BigYelloFish (button) (small blind) collected ($11.76)
+Seat 2: kdcl (big blind) folded on the Flop
+
+
+PokerStars Hand #147934506163:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:33:14 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($108.86 in chips)
+Seat 2: kdcl ($106.90 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: folds
+Uncalled bet ($2) returned to BigYelloFish
+BigYelloFish collected $2 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (big blind) collected ($2)
+Seat 2: kdcl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147934497428:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:33:04 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($114.86 in chips)
+Seat 2: kdcl ($101.14 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: calls $2
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [8d 8s 2d]
+kdcl: bets $3
+BigYelloFish: folds
+Uncalled bet ($3) returned to kdcl
+kdcl collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8d 8s 2d]
+Seat 1: BigYelloFish (button) (small blind) folded on the Flop
+Seat 2: kdcl (big blind) collected ($11.76)
+
+
+PokerStars Hand #147934485195:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:32:50 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($109.10 in chips)
+Seat 2: kdcl ($107.14 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [Ac 3c 7d]
+BigYelloFish: checks
+kdcl: checks
+*** TURN *** [Ac 3c 7d] [Tc]
+BigYelloFish: bets $6
+kdcl: folds
+Uncalled bet ($6) returned to BigYelloFish
+BigYelloFish collected $11.76 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ac 3c 7d Tc]
+Seat 1: BigYelloFish (big blind) collected ($11.76)
+Seat 2: kdcl (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #147934478252:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:32:42 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($110.10 in chips)
+Seat 2: kdcl ($106.14 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: folds
+Uncalled bet ($2) returned to kdcl
+kdcl collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (button) (small blind) folded before Flop
+Seat 2: kdcl (big blind) collected ($2)
+
+
+PokerStars Hand #147934568475:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:34:26 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($138.76 in chips)
+Seat 2: kdcl ($75.54 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [Qs 6s Jc]
+BigYelloFish: checks
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [Qs 6s Jc] [6d]
+BigYelloFish: checks
+kdcl: checks
+*** RIVER *** [Qs 6s Jc 6d] [8c]
+BigYelloFish: bets $6
+kdcl: folds
+Uncalled bet ($6) returned to BigYelloFish
+BigYelloFish collected $17.64 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qs 6s Jc 6d 8c]
+Seat 1: BigYelloFish (big blind) collected ($17.64)
+Seat 2: kdcl (button) (small blind) folded on the River
+
+
+PokerStars Hand #147934558095:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:34:14 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($141.76 in chips)
+Seat 2: kdcl ($72.66 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: calls $2
+kdcl: checks
+*** FLOP *** [Ad 8s Tc]
+kdcl: bets $3
+BigYelloFish: folds
+Uncalled bet ($3) returned to kdcl
+kdcl collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Ad 8s Tc]
+Seat 1: BigYelloFish (button) (small blind) folded on the Flop
+Seat 2: kdcl (big blind) collected ($5.88)
+
+
+PokerStars Hand #147934543519:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:33:57 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($118.26 in chips)
+Seat 2: kdcl ($96.66 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [Qc Jh 9h]
+BigYelloFish: checks
+kdcl: bets $3
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** TURN *** [Qc Jh 9h] [2s]
+BigYelloFish: bets $6
+kdcl: calls $6
+*** RIVER *** [Qc Jh 9h 2s] [7c]
+BigYelloFish: bets $6
+kdcl: calls $6
+*** SHOW DOWN ***
+BigYelloFish: shows [Js Qd] (two pair, Queens and Jacks)
+kdcl: mucks hand
+BigYelloFish collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Qc Jh 9h 2s 7c]
+Seat 1: BigYelloFish (big blind) showed [Js Qd] and won ($47.50) with two pair, Queens and Jacks
+Seat 2: kdcl (button) (small blind) mucked
+
+
+PokerStars Hand #147934530334:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:33:42 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($109.62 in chips)
+Seat 2: kdcl ($105.66 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [6h Qh 9c]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: calls $3
+*** TURN *** [6h Qh 9c] [5h]
+kdcl: checks
+BigYelloFish: bets $6
+kdcl: folds
+Uncalled bet ($6) returned to BigYelloFish
+BigYelloFish collected $17.64 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6h Qh 9c 5h]
+Seat 1: BigYelloFish (button) (small blind) collected ($17.64)
+Seat 2: kdcl (big blind) folded on the Turn
+
+
+PokerStars Hand #147934519478:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:33:29 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($115.62 in chips)
+Seat 2: kdcl ($99.90 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [2h 3d 2c]
+BigYelloFish: checks
+kdcl: checks
+*** TURN *** [2h 3d 2c] [4h]
+BigYelloFish: checks
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2h 3d 2c 4h]
+Seat 1: BigYelloFish (big blind) folded on the Turn
+Seat 2: kdcl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #147934624849:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:35:30 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($149.78 in chips)
+Seat 2: kdcl ($63.06 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: raises $3 to $9
+BigYelloFish: calls $3
+*** FLOP *** [9c Jc Jh]
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [9c Jc Jh] [6d]
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [9c Jc Jh 6d]
+Seat 1: BigYelloFish (button) (small blind) folded on the Turn
+Seat 2: kdcl (big blind) collected ($23.52)
+
+
+PokerStars Hand #147934605741:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:35:08 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($135.28 in chips)
+Seat 2: kdcl ($78.06 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: raises $3 to $9
+kdcl: calls $3
+*** FLOP *** [Th 5s 6s]
+BigYelloFish: checks
+kdcl: checks
+*** TURN *** [Th 5s 6s] [Jc]
+BigYelloFish: checks
+kdcl: checks
+*** RIVER *** [Th 5s 6s Jc] [Ad]
+BigYelloFish: bets $6
+kdcl: calls $6
+*** SHOW DOWN ***
+BigYelloFish: shows [Qd Ah] (a pair of Aces)
+kdcl: mucks hand
+BigYelloFish collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Th 5s 6s Jc Ad]
+Seat 1: BigYelloFish (big blind) showed [Qd Ah] and won ($29.50) with a pair of Aces
+Seat 2: kdcl (button) (small blind) mucked
+
+
+PokerStars Hand #147934596163:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:34:57 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($147.28 in chips)
+Seat 2: kdcl ($66.54 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: raises $3 to $9
+BigYelloFish: calls $3
+*** FLOP *** [As 4d 9s]
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [As 4d 9s] [Ac]
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [As 4d 9s Ac]
+Seat 1: BigYelloFish (button) (small blind) folded on the Turn
+Seat 2: kdcl (big blind) collected ($23.52)
+
+
+PokerStars Hand #147934589354:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:34:49 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($150.28 in chips)
+Seat 2: kdcl ($63.54 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: folds
+Uncalled bet ($3) returned to kdcl
+kdcl collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: BigYelloFish (big blind) folded before Flop
+Seat 2: kdcl (button) (small blind) collected ($6)
+
+
+PokerStars Hand #147934579772:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:34:39 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($147.40 in chips)
+Seat 2: kdcl ($66.54 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: calls $2
+kdcl: checks
+*** FLOP *** [5d Js 3d]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: folds
+Uncalled bet ($3) returned to BigYelloFish
+BigYelloFish collected $5.88 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [5d Js 3d]
+Seat 1: BigYelloFish (button) (small blind) collected ($5.88)
+Seat 2: kdcl (big blind) folded on the Flop
+
+
+PokerStars Hand #147934670060:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:36:21 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($144.30 in chips)
+Seat 2: kdcl ($67.34 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: raises $3 to $9
+kdcl: calls $3
+*** FLOP *** [As 9d 7s]
+BigYelloFish: bets $3
+kdcl: folds
+Uncalled bet ($3) returned to BigYelloFish
+BigYelloFish collected $17.64 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [As 9d 7s]
+Seat 1: BigYelloFish (big blind) collected ($17.64)
+Seat 2: kdcl (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #147934659798:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:36:10 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($138.54 in chips)
+Seat 2: kdcl ($73.34 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [8s 2s 9h]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: folds
+Uncalled bet ($3) returned to BigYelloFish
+BigYelloFish collected $11.76 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8s 2s 9h]
+Seat 1: BigYelloFish (button) (small blind) collected ($11.76)
+Seat 2: kdcl (big blind) folded on the Flop
+
+
+PokerStars Hand #147934655467:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:36:05 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($137.54 in chips)
+Seat 2: kdcl ($74.34 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: folds
+Uncalled bet ($2) returned to BigYelloFish
+BigYelloFish collected $2 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (big blind) collected ($2)
+Seat 2: kdcl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147934643951:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:35:52 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($131.78 in chips)
+Seat 2: kdcl ($80.34 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [Kc As 2c]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: folds
+Uncalled bet ($3) returned to BigYelloFish
+BigYelloFish collected $11.76 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kc As 2c]
+Seat 1: BigYelloFish (button) (small blind) collected ($11.76)
+Seat 2: kdcl (big blind) folded on the Flop
+
+
+PokerStars Hand #147934634382:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:35:41 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($137.78 in chips)
+Seat 2: kdcl ($74.58 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [Qd 5s 4h]
+BigYelloFish: checks
+kdcl: checks
+*** TURN *** [Qd 5s 4h] [6c]
+BigYelloFish: checks
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qd 5s 4h 6c]
+Seat 1: BigYelloFish (big blind) folded on the Turn
+Seat 2: kdcl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #147934733810:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:37:34 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($147.69 in chips)
+Seat 2: kdcl ($62.73 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: folds
+Uncalled bet ($2) returned to BigYelloFish
+BigYelloFish collected $2 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (big blind) collected ($2)
+Seat 2: kdcl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147934717752:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:37:16 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($150.69 in chips)
+Seat 2: kdcl ($59.85 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: calls $2
+kdcl: checks
+*** FLOP *** [Kh 8h Ah]
+kdcl: bets $3
+BigYelloFish: folds
+Uncalled bet ($3) returned to kdcl
+kdcl collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Kh 8h Ah]
+Seat 1: BigYelloFish (button) (small blind) folded on the Flop
+Seat 2: kdcl (big blind) collected ($5.88)
+
+
+PokerStars Hand #147934713900:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:37:11 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($149.69 in chips)
+Seat 2: kdcl ($60.85 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: folds
+Uncalled bet ($2) returned to BigYelloFish
+BigYelloFish collected $2 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (big blind) collected ($2)
+Seat 2: kdcl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147934703333:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:36:59 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($155.69 in chips)
+Seat 2: kdcl ($55.09 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [Jh Th 8d]
+kdcl: checks
+BigYelloFish: checks
+*** TURN *** [Jh Th 8d] [3d]
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jh Th 8d 3d]
+Seat 1: BigYelloFish (button) (small blind) folded on the Turn
+Seat 2: kdcl (big blind) collected ($11.76)
+
+
+PokerStars Hand #147934686275:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:36:40 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($152.94 in chips)
+Seat 2: kdcl ($58.34 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: folds
+Uncalled bet ($3) returned to BigYelloFish
+BigYelloFish collected $6 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: BigYelloFish (button) (small blind) collected ($6)
+Seat 2: kdcl (big blind) folded before Flop
+
+
+PokerStars Hand #147934780298:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:38:27 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($85.69 in chips)
+Seat 2: kdcl ($123.37 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [Qc 3h 9c]
+BigYelloFish: checks
+kdcl: bets $3
+BigYelloFish: folds
+Uncalled bet ($3) returned to kdcl
+kdcl collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qc 3h 9c]
+Seat 1: BigYelloFish (big blind) folded on the Flop
+Seat 2: kdcl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #147934776425:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:38:23 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($86.69 in chips)
+Seat 2: kdcl ($122.37 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: folds
+Uncalled bet ($2) returned to kdcl
+kdcl collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (button) (small blind) folded before Flop
+Seat 2: kdcl (big blind) collected ($2)
+
+
+PokerStars Hand #147934771901:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:38:17 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($85.69 in chips)
+Seat 2: kdcl ($123.37 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: folds
+Uncalled bet ($2) returned to BigYelloFish
+BigYelloFish collected $2 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (big blind) collected ($2)
+Seat 2: kdcl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147934750683:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:37:53 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($127.69 in chips)
+Seat 2: kdcl ($82.23 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [As 8s 9h]
+BigYelloFish: checks
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [As 8s 9h] [8h]
+BigYelloFish: checks
+kdcl: bets $6
+BigYelloFish: raises $6 to $12
+kdcl: calls $6
+*** RIVER *** [As 8s 9h 8h] [Ac]
+BigYelloFish: bets $6
+kdcl: raises $6 to $12
+BigYelloFish: calls $6
+*** SHOW DOWN ***
+kdcl: shows [Ad 4d] (a full house, Aces full of Eights)
+BigYelloFish: mucks hand
+kdcl collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [As 8s 9h 8h Ac]
+Seat 1: BigYelloFish (big blind) mucked
+Seat 2: kdcl (button) (small blind) showed [Ad 4d] and won ($65.50) with a full house, Aces full of Eights
+
+
+PokerStars Hand #147934737974:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:37:39 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($148.69 in chips)
+Seat 2: kdcl ($61.73 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: calls $2
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [3s 2s 5s]
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [3s 2s 5s] [2c]
+kdcl: bets $6
+BigYelloFish: calls $6
+*** RIVER *** [3s 2s 5s 2c] [Td]
+kdcl: bets $6
+BigYelloFish: calls $6
+*** SHOW DOWN ***
+kdcl: shows [Jc Js] (two pair, Jacks and Deuces)
+BigYelloFish: mucks hand
+kdcl collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [3s 2s 5s 2c Td]
+Seat 1: BigYelloFish (button) (small blind) mucked
+Seat 2: kdcl (big blind) showed [Jc Js] and won ($41.50) with two pair, Jacks and Deuces
+
+
+PokerStars Hand #147934831933:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:39:27 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($128.97 in chips)
+Seat 2: kdcl ($78.13 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: calls $2
+kdcl: checks
+*** FLOP *** [Jc 4d 2d]
+kdcl: bets $3
+BigYelloFish: folds
+Uncalled bet ($3) returned to kdcl
+kdcl collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Jc 4d 2d]
+Seat 1: BigYelloFish (button) (small blind) folded on the Flop
+Seat 2: kdcl (big blind) collected ($5.88)
+
+
+PokerStars Hand #147934822185:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:39:15 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($117.45 in chips)
+Seat 2: kdcl ($90.13 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [7h 6c 2d]
+BigYelloFish: checks
+kdcl: checks
+*** TURN *** [7h 6c 2d] [2c]
+BigYelloFish: bets $6
+kdcl: calls $6
+*** RIVER *** [7h 6c 2d 2c] [Ah]
+BigYelloFish: bets $6
+kdcl: folds
+Uncalled bet ($6) returned to BigYelloFish
+BigYelloFish collected $23.52 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [7h 6c 2d 2c Ah]
+Seat 1: BigYelloFish (big blind) collected ($23.52)
+Seat 2: kdcl (button) (small blind) folded on the River
+
+
+PokerStars Hand #147934811446:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:39:02 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($99.95 in chips)
+Seat 2: kdcl ($108.13 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: raises $3 to $9
+BigYelloFish: calls $3
+*** FLOP *** [Td Qc 3s]
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [Td Qc 3s] [3d]
+kdcl: bets $6
+BigYelloFish: raises $6 to $12
+kdcl: folds
+Uncalled bet ($6) returned to BigYelloFish
+BigYelloFish collected $35.50 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Td Qc 3s 3d]
+Seat 1: BigYelloFish (button) (small blind) collected ($35.50)
+Seat 2: kdcl (big blind) folded on the Turn
+
+
+PokerStars Hand #147934801971:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:38:52 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($94.19 in chips)
+Seat 2: kdcl ($114.13 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [5h 3s 2c]
+BigYelloFish: checks
+kdcl: checks
+*** TURN *** [5h 3s 2c] [2s]
+BigYelloFish: bets $6
+kdcl: folds
+Uncalled bet ($6) returned to BigYelloFish
+BigYelloFish collected $11.76 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5h 3s 2c 2s]
+Seat 1: BigYelloFish (big blind) collected ($11.76)
+Seat 2: kdcl (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #147934786889:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:38:35 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($79.69 in chips)
+Seat 2: kdcl ($129.13 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [8c 5s 9s]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: calls $3
+*** TURN *** [8c 5s 9s] [9d]
+kdcl: checks
+BigYelloFish: checks
+*** RIVER *** [8c 5s 9s 9d] [4s]
+kdcl: checks
+BigYelloFish: bets $6
+kdcl: calls $6
+*** SHOW DOWN ***
+BigYelloFish: shows [5d 9h] (a full house, Nines full of Fives)
+kdcl: mucks hand
+BigYelloFish collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8c 5s 9s 9d 4s]
+Seat 1: BigYelloFish (button) (small blind) showed [5d 9h] and won ($29.50) with a full house, Nines full of Fives
+Seat 2: kdcl (big blind) mucked
+
+
+PokerStars Hand #147934882359:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:40:25 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($118.49 in chips)
+Seat 2: kdcl ($87.41 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [3d Ad 4s]
+BigYelloFish: checks
+kdcl: bets $3
+BigYelloFish: folds
+Uncalled bet ($3) returned to kdcl
+kdcl collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3d Ad 4s]
+Seat 1: BigYelloFish (big blind) folded on the Flop
+Seat 2: kdcl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #147934874208:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:40:16 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($124.49 in chips)
+Seat 2: kdcl ($81.65 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [9c Th Jh]
+kdcl: checks
+BigYelloFish: checks
+*** TURN *** [9c Th Jh] [2s]
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9c Th Jh 2s]
+Seat 1: BigYelloFish (button) (small blind) folded on the Turn
+Seat 2: kdcl (big blind) collected ($11.76)
+
+
+PokerStars Hand #147934870120:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:40:11 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($127.49 in chips)
+Seat 2: kdcl ($78.65 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: folds
+Uncalled bet ($3) returned to kdcl
+kdcl collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: BigYelloFish (big blind) folded before Flop
+Seat 2: kdcl (button) (small blind) collected ($6)
+
+
+PokerStars Hand #147934862438:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:40:02 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($133.49 in chips)
+Seat 2: kdcl ($72.89 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: calls $2
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [Js Jc Qd]
+kdcl: bets $3
+BigYelloFish: folds
+Uncalled bet ($3) returned to kdcl
+kdcl collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Js Jc Qd]
+Seat 1: BigYelloFish (button) (small blind) folded on the Flop
+Seat 2: kdcl (big blind) collected ($11.76)
+
+
+PokerStars Hand #147934854144:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:39:52 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($124.85 in chips)
+Seat 2: kdcl ($81.89 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: raises $3 to $9
+kdcl: calls $3
+*** FLOP *** [As 9h 4d]
+BigYelloFish: bets $3
+kdcl: folds
+Uncalled bet ($3) returned to BigYelloFish
+BigYelloFish collected $17.64 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [As 9h 4d]
+Seat 1: BigYelloFish (big blind) collected ($17.64)
+Seat 2: kdcl (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #147934850270:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:39:48 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($125.85 in chips)
+Seat 2: kdcl ($80.89 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: folds
+Uncalled bet ($2) returned to kdcl
+kdcl collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (button) (small blind) folded before Flop
+Seat 2: kdcl (big blind) collected ($2)
+
+
+PokerStars Hand #147934839585:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:39:35 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($125.97 in chips)
+Seat 2: kdcl ($81.01 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [7d 7c Ts]
+BigYelloFish: checks
+kdcl: checks
+*** TURN *** [7d 7c Ts] [9h]
+BigYelloFish: checks
+kdcl: checks
+*** RIVER *** [7d 7c Ts 9h] [3s]
+BigYelloFish: checks
+kdcl: checks
+*** SHOW DOWN ***
+BigYelloFish: shows [5d Qh] (a pair of Sevens)
+kdcl: shows [Qs 2s] (a pair of Sevens)
+BigYelloFish collected $5.88 from pot
+kdcl collected $5.88 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7d 7c Ts 9h 3s]
+Seat 1: BigYelloFish (big blind) showed [5d Qh] and won ($5.88) with a pair of Sevens
+Seat 2: kdcl (button) (small blind) showed [Qs 2s] and won ($5.88) with a pair of Sevens
+
+
+PokerStars Hand #147934936962:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:41:28 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($58.49 in chips)
+Seat 2: kdcl ($145.33 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: folds
+Uncalled bet ($2) returned to BigYelloFish
+BigYelloFish collected $2 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (big blind) collected ($2)
+Seat 2: kdcl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147934923851:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:41:13 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($67.49 in chips)
+Seat 2: kdcl ($136.69 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [8c 6c Jc]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: calls $3
+*** TURN *** [8c 6c Jc] [Ac]
+kdcl: checks
+BigYelloFish: checks
+*** RIVER *** [8c 6c Jc Ac] [3h]
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8c 6c Jc Ac 3h]
+Seat 1: BigYelloFish (button) (small blind) folded on the River
+Seat 2: kdcl (big blind) collected ($17.64)
+
+
+PokerStars Hand #147934912899:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:41:00 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($82.49 in chips)
+Seat 2: kdcl ($122.19 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [Jd Kh 5h]
+BigYelloFish: checks
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [Jd Kh 5h] [3s]
+BigYelloFish: checks
+kdcl: bets $6
+BigYelloFish: calls $6
+*** RIVER *** [Jd Kh 5h 3s] [7h]
+BigYelloFish: checks
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Jd Kh 5h 3s 7h]
+Seat 1: BigYelloFish (big blind) folded on the River
+Seat 2: kdcl (button) (small blind) collected ($29.50)
+
+
+PokerStars Hand #147934899630:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:40:45 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($94.49 in chips)
+Seat 2: kdcl ($110.67 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [Ah Qc As]
+BigYelloFish: checks
+kdcl: bets $3
+BigYelloFish: folds
+Uncalled bet ($3) returned to kdcl
+kdcl collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ah Qc As]
+Seat 1: BigYelloFish (big blind) folded on the Flop
+Seat 2: kdcl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #147934888648:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:40:32 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($112.49 in chips)
+Seat 2: kdcl ($93.17 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: raises $3 to $9
+BigYelloFish: calls $3
+*** FLOP *** [7c 9h Th]
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [7c 9h Th] [Kh]
+kdcl: bets $6
+BigYelloFish: calls $6
+*** RIVER *** [7c 9h Th Kh] [Ac]
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [7c 9h Th Kh Ac]
+Seat 1: BigYelloFish (button) (small blind) folded on the River
+Seat 2: kdcl (big blind) collected ($35.50)
+
+
+PokerStars Hand #147934991764:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:42:28 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($32.13 in chips)
+Seat 2: kdcl ($169.99 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [9s Kc 5c]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: folds
+Uncalled bet ($3) returned to BigYelloFish
+BigYelloFish collected $11.76 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9s Kc 5c]
+Seat 1: BigYelloFish (button) (small blind) collected ($11.76)
+Seat 2: kdcl (big blind) folded on the Flop
+
+
+PokerStars Hand #147934979866:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:42:15 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($41.13 in chips)
+Seat 2: kdcl ($161.35 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [Ad 6c Tc]
+BigYelloFish: checks
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [Ad 6c Tc] [Jh]
+BigYelloFish: checks
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ad 6c Tc Jh]
+Seat 1: BigYelloFish (big blind) folded on the Turn
+Seat 2: kdcl (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #147934965389:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:42:00 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($53.13 in chips)
+Seat 2: kdcl ($149.83 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: calls $2
+kdcl: checks
+*** FLOP *** [8c 5h 2d]
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [8c 5h 2d] [3s]
+kdcl: bets $6
+BigYelloFish: calls $6
+*** RIVER *** [8c 5h 2d 3s] [Kd]
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [8c 5h 2d 3s Kd]
+Seat 1: BigYelloFish (button) (small blind) folded on the River
+Seat 2: kdcl (big blind) collected ($23.52)
+
+
+PokerStars Hand #147934952985:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:41:46 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($44.49 in chips)
+Seat 2: kdcl ($158.83 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [6s 6h Ac]
+BigYelloFish: checks
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [6s 6h Ac] [Tc]
+BigYelloFish: checks
+kdcl: checks
+*** RIVER *** [6s 6h Ac Tc] [9d]
+BigYelloFish: checks
+kdcl: checks
+*** SHOW DOWN ***
+BigYelloFish: shows [Kc 7s] (a pair of Sixes)
+kdcl: mucks hand
+BigYelloFish collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6s 6h Ac Tc 9d]
+Seat 1: BigYelloFish (big blind) showed [Kc 7s] and won ($17.64) with a pair of Sixes
+Seat 2: kdcl (button) (small blind) mucked
+
+
+PokerStars Hand #147934942286:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:41:34 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($59.49 in chips)
+Seat 2: kdcl ($144.33 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [7s 5d 9s]
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [7s 5d 9s] [3h]
+kdcl: bets $6
+BigYelloFish: calls $6
+*** RIVER *** [7s 5d 9s 3h] [Td]
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7s 5d 9s 3h Td]
+Seat 1: BigYelloFish (button) (small blind) folded on the River
+Seat 2: kdcl (big blind) collected ($29.50)
+
+
+PokerStars Hand #147935047726:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:43:29 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($102.93 in chips)
+Seat 2: kdcl ($157.49 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [5h 4h 6h]
+BigYelloFish: checks
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [5h 4h 6h] [8s]
+BigYelloFish: checks
+kdcl: checks
+*** RIVER *** [5h 4h 6h 8s] [Kh]
+BigYelloFish: checks
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5h 4h 6h 8s Kh]
+Seat 1: BigYelloFish (big blind) folded on the River
+Seat 2: kdcl (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #147935034745:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:43:15 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($94.29 in chips)
+Seat 2: kdcl ($166.49 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [9c 4d Kc]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: calls $3
+*** TURN *** [9c 4d Kc] [Qc]
+kdcl: checks
+BigYelloFish: bets $6
+kdcl: folds
+Uncalled bet ($6) returned to BigYelloFish
+BigYelloFish collected $17.64 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9c 4d Kc Qc]
+Seat 1: BigYelloFish (button) (small blind) collected ($17.64)
+Seat 2: kdcl (big blind) folded on the Turn
+
+
+PokerStars Hand #147935000786:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:42:38 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($37.89 in chips)
+Seat 2: kdcl ($163.99 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: raises $3 to $9
+kdcl: calls $3
+*** FLOP *** [5s 3c 7h]
+BigYelloFish: bets $3
+kdcl: calls $3
+*** TURN *** [5s 3c 7h] [Th]
+BigYelloFish: checks
+kdcl: bets $6
+BigYelloFish: calls $6
+*** RIVER *** [5s 3c 7h Th] [4h]
+BigYelloFish: checks
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5s 3c 7h Th 4h]
+Seat 1: BigYelloFish (big blind) folded on the River
+Seat 2: kdcl (button) (small blind) collected ($35.50)
+
+
+PokerStars Hand #147935108906:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:44:35 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($85.69 in chips)
+Seat 2: kdcl ($173.41 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: folds
+Uncalled bet ($2) returned to BigYelloFish
+BigYelloFish collected $2 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (big blind) collected ($2)
+Seat 2: kdcl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147935104686:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:44:31 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($86.69 in chips)
+Seat 2: kdcl ($172.41 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: folds
+Uncalled bet ($2) returned to kdcl
+kdcl collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (button) (small blind) folded before Flop
+Seat 2: kdcl (big blind) collected ($2)
+
+
+PokerStars Hand #147935099924:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:44:25 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($85.69 in chips)
+Seat 2: kdcl ($173.41 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: folds
+Uncalled bet ($2) returned to BigYelloFish
+BigYelloFish collected $2 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (big blind) collected ($2)
+Seat 2: kdcl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147935086885:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:44:11 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($97.69 in chips)
+Seat 2: kdcl ($161.89 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [Th Qh Ah]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** TURN *** [Th Qh Ah] [7s]
+kdcl: checks
+BigYelloFish: checks
+*** RIVER *** [Th Qh Ah 7s] [4s]
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Th Qh Ah 7s 4s]
+Seat 1: BigYelloFish (button) (small blind) folded on the River
+Seat 2: kdcl (big blind) collected ($23.52)
+
+
+PokerStars Hand #147935082776:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:44:07 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($96.69 in chips)
+Seat 2: kdcl ($162.89 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: folds
+Uncalled bet ($2) returned to BigYelloFish
+BigYelloFish collected $2 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (big blind) collected ($2)
+Seat 2: kdcl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147935066520:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:43:49 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($96.93 in chips)
+Seat 2: kdcl ($163.13 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [9s 8h 9c]
+BigYelloFish: checks
+kdcl: bets $3
+BigYelloFish: folds
+Uncalled bet ($3) returned to kdcl
+kdcl collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9s 8h 9c]
+Seat 1: BigYelloFish (big blind) folded on the Flop
+Seat 2: kdcl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #147935060027:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:43:42 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($93.93 in chips)
+Seat 2: kdcl ($166.13 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: folds
+Uncalled bet ($3) returned to BigYelloFish
+BigYelloFish collected $6 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: BigYelloFish (button) (small blind) collected ($6)
+Seat 2: kdcl (big blind) folded before Flop
+
+
+PokerStars Hand #147935113662:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:44:40 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($86.69 in chips)
+Seat 2: kdcl ($172.41 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: folds
+Uncalled bet ($2) returned to kdcl
+kdcl collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (button) (small blind) folded before Flop
+Seat 2: kdcl (big blind) collected ($2)
+
+
+PokerStars Hand #147935151474:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:45:22 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($71.69 in chips)
+Seat 2: kdcl ($186.69 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [Qc 7c 9c]
+BigYelloFish: checks
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [Qc 7c 9c] [Ah]
+BigYelloFish: checks
+kdcl: checks
+*** RIVER *** [Qc 7c 9c Ah] [Kc]
+BigYelloFish: checks
+kdcl: checks
+*** SHOW DOWN ***
+BigYelloFish: shows [4c 6d] (a flush, King high)
+kdcl: mucks hand
+BigYelloFish collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qc 7c 9c Ah Kc]
+Seat 1: BigYelloFish (big blind) showed [4c 6d] and won ($17.64) with a flush, King high
+Seat 2: kdcl (button) (small blind) mucked
+
+
+PokerStars Hand #147935146159:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:45:16 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($68.69 in chips)
+Seat 2: kdcl ($189.69 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: folds
+Uncalled bet ($3) returned to BigYelloFish
+BigYelloFish collected $6 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: BigYelloFish (button) (small blind) collected ($6)
+Seat 2: kdcl (big blind) folded before Flop
+
+
+PokerStars Hand #147935141923:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:45:11 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($67.69 in chips)
+Seat 2: kdcl ($190.69 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: folds
+Uncalled bet ($2) returned to BigYelloFish
+BigYelloFish collected $2 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (big blind) collected ($2)
+Seat 2: kdcl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147935127140:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:44:55 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($76.69 in chips)
+Seat 2: kdcl ($182.05 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [Tc 5s 9s]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: calls $3
+*** TURN *** [Tc 5s 9s] [7s]
+kdcl: checks
+BigYelloFish: checks
+*** RIVER *** [Tc 5s 9s 7s] [6c]
+kdcl: checks
+BigYelloFish: checks
+*** SHOW DOWN ***
+kdcl: shows [Ac 9c] (a pair of Nines)
+BigYelloFish: mucks hand
+kdcl collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Tc 5s 9s 7s 6c]
+Seat 1: BigYelloFish (button) (small blind) mucked
+Seat 2: kdcl (big blind) showed [Ac 9c] and won ($17.64) with a pair of Nines
+
+
+PokerStars Hand #147935117681:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:44:45 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($85.69 in chips)
+Seat 2: kdcl ($173.41 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [7s Kd Jh]
+BigYelloFish: checks
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [7s Kd Jh] [8h]
+BigYelloFish: checks
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7s Kd Jh 8h]
+Seat 1: BigYelloFish (big blind) folded on the Turn
+Seat 2: kdcl (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #147935215918:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:46:32 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($58.33 in chips)
+Seat 2: kdcl ($198.73 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [Ah 7s 7h]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: folds
+Uncalled bet ($3) returned to BigYelloFish
+BigYelloFish collected $11.76 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ah 7s 7h]
+Seat 1: BigYelloFish (button) (small blind) collected ($11.76)
+Seat 2: kdcl (big blind) folded on the Flop
+
+
+PokerStars Hand #147935208796:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:46:24 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($64.33 in chips)
+Seat 2: kdcl ($192.97 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [6d Jd 8c]
+BigYelloFish: checks
+kdcl: bets $3
+BigYelloFish: folds
+Uncalled bet ($3) returned to kdcl
+kdcl collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6d Jd 8c]
+Seat 1: BigYelloFish (big blind) folded on the Flop
+Seat 2: kdcl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #147935198453:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:46:13 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($60.33 in chips)
+Seat 2: kdcl ($196.97 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: folds
+Uncalled bet ($2) returned to BigYelloFish
+BigYelloFish collected $2 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (big blind) collected ($2)
+Seat 2: kdcl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147935194122:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:46:08 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($61.33 in chips)
+Seat 2: kdcl ($195.97 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: folds
+Uncalled bet ($2) returned to kdcl
+kdcl collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (button) (small blind) folded before Flop
+Seat 2: kdcl (big blind) collected ($2)
+
+
+PokerStars Hand #147935187099:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:46:00 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($67.33 in chips)
+Seat 2: kdcl ($190.21 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [Ac 5d 8h]
+BigYelloFish: checks
+kdcl: bets $3
+BigYelloFish: folds
+Uncalled bet ($3) returned to kdcl
+kdcl collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ac 5d 8h]
+Seat 1: BigYelloFish (big blind) folded on the Flop
+Seat 2: kdcl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #147935182933:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:45:56 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($68.33 in chips)
+Seat 2: kdcl ($189.21 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: folds
+Uncalled bet ($2) returned to kdcl
+kdcl collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (button) (small blind) folded before Flop
+Seat 2: kdcl (big blind) collected ($2)
+
+
+PokerStars Hand #147935173196:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:45:45 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($74.33 in chips)
+Seat 2: kdcl ($183.45 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [9c 6d 6s]
+BigYelloFish: checks
+kdcl: checks
+*** TURN *** [9c 6d 6s] [Jh]
+BigYelloFish: checks
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9c 6d 6s Jh]
+Seat 1: BigYelloFish (big blind) folded on the Turn
+Seat 2: kdcl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #147935164936:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:45:36 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($80.33 in chips)
+Seat 2: kdcl ($177.69 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: calls $2
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [9s 2c 2s]
+kdcl: bets $3
+BigYelloFish: folds
+Uncalled bet ($3) returned to kdcl
+kdcl collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9s 2c 2s]
+Seat 1: BigYelloFish (button) (small blind) folded on the Flop
+Seat 2: kdcl (big blind) collected ($11.76)
+
+
+PokerStars Hand #147935273754:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:47:35 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($75.37 in chips)
+Seat 2: kdcl ($180.49 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: folds
+Uncalled bet ($2) returned to BigYelloFish
+BigYelloFish collected $2 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (big blind) collected ($2)
+Seat 2: kdcl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147935265498:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:47:26 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($78.37 in chips)
+Seat 2: kdcl ($177.61 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: calls $2
+kdcl: checks
+*** FLOP *** [Kd Qc 7s]
+kdcl: bets $3
+BigYelloFish: folds
+Uncalled bet ($3) returned to kdcl
+kdcl collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Kd Qc 7s]
+Seat 1: BigYelloFish (button) (small blind) folded on the Flop
+Seat 2: kdcl (big blind) collected ($5.88)
+
+
+PokerStars Hand #147935255984:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:47:16 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($72.61 in chips)
+Seat 2: kdcl ($183.61 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [Ts 4c 5d]
+BigYelloFish: checks
+kdcl: checks
+*** TURN *** [Ts 4c 5d] [3h]
+BigYelloFish: bets $6
+kdcl: folds
+Uncalled bet ($6) returned to BigYelloFish
+BigYelloFish collected $11.76 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ts 4c 5d 3h]
+Seat 1: BigYelloFish (big blind) collected ($11.76)
+Seat 2: kdcl (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #147935250975:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:47:10 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($69.61 in chips)
+Seat 2: kdcl ($186.61 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: folds
+Uncalled bet ($3) returned to BigYelloFish
+BigYelloFish collected $6 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: BigYelloFish (button) (small blind) collected ($6)
+Seat 2: kdcl (big blind) folded before Flop
+
+
+PokerStars Hand #147935246077:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:47:05 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($72.61 in chips)
+Seat 2: kdcl ($183.61 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: folds
+Uncalled bet ($3) returned to kdcl
+kdcl collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: BigYelloFish (big blind) folded before Flop
+Seat 2: kdcl (button) (small blind) collected ($6)
+
+
+PokerStars Hand #147935237291:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:46:55 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($75.61 in chips)
+Seat 2: kdcl ($180.73 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: calls $2
+kdcl: checks
+*** FLOP *** [Th Ac 2c]
+kdcl: bets $3
+BigYelloFish: folds
+Uncalled bet ($3) returned to kdcl
+kdcl collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Th Ac 2c]
+Seat 1: BigYelloFish (button) (small blind) folded on the Flop
+Seat 2: kdcl (big blind) collected ($5.88)
+
+
+PokerStars Hand #147935224987:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:46:42 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($64.09 in chips)
+Seat 2: kdcl ($192.73 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: raises $3 to $9
+kdcl: calls $3
+*** FLOP *** [4c 2c Tc]
+BigYelloFish: bets $3
+kdcl: calls $3
+*** TURN *** [4c 2c Tc] [8h]
+BigYelloFish: bets $6
+kdcl: folds
+Uncalled bet ($6) returned to BigYelloFish
+BigYelloFish collected $23.52 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [4c 2c Tc 8h]
+Seat 1: BigYelloFish (big blind) collected ($23.52)
+Seat 2: kdcl (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #147935278535:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:47:41 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($76.37 in chips)
+Seat 2: kdcl ($179.49 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [5s 9d 7c]
+kdcl: checks
+BigYelloFish: checks
+*** TURN *** [5s 9d 7c] [Qs]
+kdcl: checks
+BigYelloFish: checks
+*** RIVER *** [5s 9d 7c Qs] [2s]
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5s 9d 7c Qs 2s]
+Seat 1: BigYelloFish (button) (small blind) folded on the River
+Seat 2: kdcl (big blind) collected ($11.76)
+
+
+PokerStars Hand #147935296239:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:48:00 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($70.37 in chips)
+Seat 2: kdcl ($185.25 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [2d 6d 8d]
+BigYelloFish: checks
+kdcl: checks
+*** TURN *** [2d 6d 8d] [As]
+BigYelloFish: checks
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2d 6d 8d As]
+Seat 1: BigYelloFish (big blind) folded on the Turn
+Seat 2: kdcl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #147935315568:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:48:22 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($63.37 in chips)
+Seat 2: kdcl ($192.01 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [Jd 6h 4c]
+BigYelloFish: checks
+kdcl: checks
+*** TURN *** [Jd 6h 4c] [7c]
+BigYelloFish: bets $6
+kdcl: folds
+Uncalled bet ($6) returned to BigYelloFish
+BigYelloFish collected $11.76 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jd 6h 4c 7c]
+Seat 1: BigYelloFish (big blind) collected ($11.76)
+Seat 2: kdcl (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #147935342987:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:48:52 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($80.65 in chips)
+Seat 2: kdcl ($174.01 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [7s 9d 5c]
+BigYelloFish: checks
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [7s 9d 5c] [Js]
+BigYelloFish: checks
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7s 9d 5c Js]
+Seat 1: BigYelloFish (big blind) folded on the Turn
+Seat 2: kdcl (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #147935375269:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:49:28 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($71.40 in chips)
+Seat 2: kdcl ($182.40 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [Qc Qs 4h]
+BigYelloFish: checks
+kdcl: bets $3
+BigYelloFish: folds
+Uncalled bet ($3) returned to kdcl
+kdcl collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qc Qs 4h]
+Seat 1: BigYelloFish (big blind) folded on the Flop
+Seat 2: kdcl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #147935359833:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:49:10 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($71.65 in chips)
+Seat 2: kdcl ($182.65 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: calls $2
+kdcl: checks
+*** FLOP *** [As 5s Jc]
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [As 5s Jc] [Kh]
+kdcl: checks
+BigYelloFish: bets $6
+kdcl: calls $6
+*** RIVER *** [As 5s Jc Kh] [7c]
+kdcl: checks
+BigYelloFish: bets $6
+kdcl: calls $6
+*** SHOW DOWN ***
+BigYelloFish: shows [Jd 2h] (a pair of Jacks)
+kdcl: shows [4c Jh] (a pair of Jacks)
+kdcl collected $17.75 from pot
+BigYelloFish collected $17.75 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [As 5s Jc Kh 7c]
+Seat 1: BigYelloFish (button) (small blind) showed [Jd 2h] and won ($17.75) with a pair of Jacks
+Seat 2: kdcl (big blind) showed [4c Jh] and won ($17.75) with a pair of Jacks
+
+
+PokerStars Hand #147935328715:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:48:36 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($69.13 in chips)
+Seat 2: kdcl ($186.01 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: raises $3 to $9
+BigYelloFish: calls $3
+*** FLOP *** [4h 2h Ah]
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [4h 2h Ah] [Th]
+kdcl: checks
+BigYelloFish: bets $6
+kdcl: folds
+Uncalled bet ($6) returned to BigYelloFish
+BigYelloFish collected $23.52 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [4h 2h Ah Th]
+Seat 1: BigYelloFish (button) (small blind) collected ($23.52)
+Seat 2: kdcl (big blind) folded on the Turn
+
+
+PokerStars Hand #147935398558:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:49:53 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($48.40 in chips)
+Seat 2: kdcl ($204.66 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [Js Ts Kc]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: calls $3
+*** TURN *** [Js Ts Kc] [8h]
+kdcl: checks
+BigYelloFish: checks
+*** RIVER *** [Js Ts Kc 8h] [Qc]
+kdcl: checks
+BigYelloFish: bets $6
+kdcl: calls $6
+*** SHOW DOWN ***
+BigYelloFish: shows [9d 3c] (a straight, Nine to King)
+kdcl: mucks hand
+BigYelloFish collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Js Ts Kc 8h Qc]
+Seat 1: BigYelloFish (button) (small blind) showed [9d 3c] and won ($29.50) with a straight, Nine to King
+Seat 2: kdcl (big blind) mucked
+
+
+PokerStars Hand #147935414819:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:50:11 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($62.90 in chips)
+Seat 2: kdcl ($189.66 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [4c Jd 6s]
+BigYelloFish: checks
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [4c Jd 6s] [7c]
+BigYelloFish: checks
+kdcl: checks
+*** RIVER *** [4c Jd 6s 7c] [2h]
+BigYelloFish: bets $6
+kdcl: calls $6
+*** SHOW DOWN ***
+BigYelloFish: shows [4h 8d] (a pair of Fours)
+kdcl: shows [9d 6h] (a pair of Sixes)
+kdcl collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4c Jd 6s 7c 2h]
+Seat 1: BigYelloFish (big blind) showed [4h 8d] and lost with a pair of Fours
+Seat 2: kdcl (button) (small blind) showed [9d 6h] and won ($29.50) with a pair of Sixes
+
+
+PokerStars Hand #147935426519:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:50:24 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($47.90 in chips)
+Seat 2: kdcl ($204.16 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [Qd Js 7s]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: calls $3
+*** TURN *** [Qd Js 7s] [Qc]
+kdcl: checks
+BigYelloFish: checks
+*** RIVER *** [Qd Js 7s Qc] [Qs]
+kdcl: bets $6
+BigYelloFish: calls $6
+*** SHOW DOWN ***
+kdcl: shows [Jc 6h] (a full house, Queens full of Jacks)
+BigYelloFish: mucks hand
+kdcl collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qd Js 7s Qc Qs]
+Seat 1: BigYelloFish (button) (small blind) mucked
+Seat 2: kdcl (big blind) showed [Jc 6h] and won ($29.50) with a full house, Queens full of Jacks
+
+
+PokerStars Hand #147935393867:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:49:48 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($47.40 in chips)
+Seat 2: kdcl ($205.66 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: folds
+Uncalled bet ($2) returned to BigYelloFish
+BigYelloFish collected $2 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (big blind) collected ($2)
+Seat 2: kdcl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147935382343:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:49:35 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($65.40 in chips)
+Seat 2: kdcl ($188.16 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [9d 3s 7s]
+kdcl: checks
+BigYelloFish: checks
+*** TURN *** [9d 3s 7s] [Kh]
+kdcl: bets $6
+BigYelloFish: calls $6
+*** RIVER *** [9d 3s 7s Kh] [3h]
+kdcl: bets $6
+BigYelloFish: calls $6
+*** SHOW DOWN ***
+kdcl: shows [5h Kd] (two pair, Kings and Threes)
+BigYelloFish: mucks hand
+kdcl collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [9d 3s 7s Kh 3h]
+Seat 1: BigYelloFish (button) (small blind) mucked
+Seat 2: kdcl (big blind) showed [5h Kd] and won ($35.50) with two pair, Kings and Threes
+
+
+PokerStars Hand #147935475708:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:51:18 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($96.40 in chips)
+Seat 2: kdcl ($214.16 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [5h 3s 4d]
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [5h 3s 4d] [Qc]
+kdcl: checks
+BigYelloFish: checks
+*** RIVER *** [5h 3s 4d Qc] [Jd]
+kdcl: checks
+BigYelloFish: checks
+*** SHOW DOWN ***
+kdcl: shows [Ah 4c] (a pair of Fours)
+BigYelloFish: mucks hand
+kdcl collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5h 3s 4d Qc Jd]
+Seat 1: BigYelloFish (button) (small blind) mucked
+Seat 2: kdcl (big blind) showed [Ah 4c] and won ($17.64) with a pair of Fours
+
+
+PokerStars Hand #147935539877:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:52:29 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($55.40 in chips)
+Seat 2: kdcl ($253.94 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: calls $2
+kdcl: checks
+*** FLOP *** [4h 5h Qd]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: folds
+Uncalled bet ($3) returned to BigYelloFish
+BigYelloFish collected $5.88 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [4h 5h Qd]
+Seat 1: BigYelloFish (button) (small blind) collected ($5.88)
+Seat 2: kdcl (big blind) folded on the Flop
+
+
+PokerStars Hand #147935535169:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:52:24 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($54.40 in chips)
+Seat 2: kdcl ($254.94 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: folds
+Uncalled bet ($2) returned to BigYelloFish
+BigYelloFish collected $2 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (big blind) collected ($2)
+Seat 2: kdcl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147935506079:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:51:52 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($63.40 in chips)
+Seat 2: kdcl ($246.30 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: calls $2
+kdcl: checks
+*** FLOP *** [7h Jh 6d]
+kdcl: checks
+BigYelloFish: checks
+*** TURN *** [7h Jh 6d] [Kc]
+kdcl: checks
+BigYelloFish: checks
+*** RIVER *** [7h Jh 6d Kc] [2c]
+kdcl: checks
+BigYelloFish: bets $6
+kdcl: calls $6
+*** SHOW DOWN ***
+BigYelloFish: shows [3s 5d] (high card King)
+kdcl: shows [5h Ad] (high card Ace)
+kdcl collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7h Jh 6d Kc 2c]
+Seat 1: BigYelloFish (button) (small blind) showed [3s 5d] and lost with high card King
+Seat 2: kdcl (big blind) showed [5h Ad] and won ($17.64) with high card Ace
+
+
+PokerStars Hand #147935488848:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:51:33 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($87.40 in chips)
+Seat 2: kdcl ($222.80 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: raises $3 to $9
+kdcl: calls $3
+*** FLOP *** [2s 7s 4h]
+BigYelloFish: bets $3
+kdcl: calls $3
+*** TURN *** [2s 7s 4h] [3s]
+BigYelloFish: bets $6
+kdcl: calls $6
+*** RIVER *** [2s 7s 4h 3s] [6d]
+BigYelloFish: checks
+kdcl: bets $6
+BigYelloFish: calls $6
+*** SHOW DOWN ***
+kdcl: shows [6s 8h] (a pair of Sixes)
+BigYelloFish: mucks hand
+kdcl collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2s 7s 4h 3s 6d]
+Seat 1: BigYelloFish (big blind) mucked
+Seat 2: kdcl (button) (small blind) showed [6s 8h] and won ($47.50) with a pair of Sixes
+
+
+PokerStars Hand #147935444418:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:50:44 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($33.90 in chips)
+Seat 2: kdcl ($217.66 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [8d Qs Kc]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: calls $3
+*** TURN *** [8d Qs Kc] [Kh]
+kdcl: checks
+BigYelloFish: checks
+*** RIVER *** [8d Qs Kc Kh] [2h]
+kdcl: bets $6
+BigYelloFish: calls $6
+*** SHOW DOWN ***
+kdcl: shows [2d Qc] (two pair, Kings and Queens)
+BigYelloFish: mucks hand
+kdcl collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8d Qs Kc Kh 2h]
+Seat 1: BigYelloFish (button) (small blind) mucked
+Seat 2: kdcl (big blind) showed [2d Qc] and won ($29.50) with two pair, Kings and Queens
+
+
+PokerStars Hand #147935564683:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:52:56 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($69.80 in chips)
+Seat 2: kdcl ($238.94 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: calls $2
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [2c Td Kh]
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [2c Td Kh] [Js]
+kdcl: checks
+BigYelloFish: bets $6
+kdcl: calls $6
+*** RIVER *** [2c Td Kh Js] [3d]
+kdcl: checks
+BigYelloFish: bets $6
+kdcl: calls $6
+*** SHOW DOWN ***
+BigYelloFish: shows [Jd 5s] (a pair of Jacks)
+kdcl: mucks hand
+BigYelloFish collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2c Td Kh Js 3d]
+Seat 1: BigYelloFish (button) (small blind) showed [Jd 5s] and won ($41.50) with a pair of Jacks
+Seat 2: kdcl (big blind) mucked
+
+
+PokerStars Hand #147935550517:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:52:40 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($58.28 in chips)
+Seat 2: kdcl ($250.94 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [2h 6d 8h]
+BigYelloFish: checks
+kdcl: checks
+*** TURN *** [2h 6d 8h] [6s]
+BigYelloFish: checks
+kdcl: bets $6
+BigYelloFish: calls $6
+*** RIVER *** [2h 6d 8h 6s] [7c]
+BigYelloFish: checks
+kdcl: checks
+*** SHOW DOWN ***
+BigYelloFish: shows [Jd 2d] (two pair, Sixes and Deuces)
+kdcl: mucks hand
+BigYelloFish collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [2h 6d 8h 6s 7c]
+Seat 1: BigYelloFish (big blind) showed [Jd 2d] and won ($23.52) with two pair, Sixes and Deuces
+Seat 2: kdcl (button) (small blind) mucked
+
+
+PokerStars Hand #147935623739:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:54:01 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($101.82 in chips)
+Seat 2: kdcl ($205.94 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [8c 2h Th]
+BigYelloFish: checks
+kdcl: checks
+*** TURN *** [8c 2h Th] [9h]
+BigYelloFish: bets $6
+kdcl: calls $6
+*** RIVER *** [8c 2h Th 9h] [7c]
+BigYelloFish: bets $6
+kdcl: raises $6 to $12
+BigYelloFish: calls $6
+*** SHOW DOWN ***
+kdcl: shows [Jd 4h] (a straight, Seven to Jack)
+BigYelloFish: shows [5s Js] (a straight, Seven to Jack)
+BigYelloFish collected $23.75 from pot
+kdcl collected $23.75 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8c 2h Th 9h 7c]
+Seat 1: BigYelloFish (big blind) showed [5s Js] and won ($23.75) with a straight, Seven to Jack
+Seat 2: kdcl (button) (small blind) showed [Jd 4h] and won ($23.75) with a straight, Seven to Jack
+
+
+PokerStars Hand #147935601104:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:53:36 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($90.30 in chips)
+Seat 2: kdcl ($217.94 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [9c 3c 7d]
+BigYelloFish: checks
+kdcl: bets $3
+BigYelloFish: raises $3 to $6
+kdcl: folds
+Uncalled bet ($3) returned to BigYelloFish
+BigYelloFish collected $17.64 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9c 3c 7d]
+Seat 1: BigYelloFish (big blind) collected ($17.64)
+Seat 2: kdcl (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #147935609419:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:53:46 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($98.94 in chips)
+Seat 2: kdcl ($208.94 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: calls $2
+kdcl: checks
+*** FLOP *** [3c Js Kd]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: folds
+Uncalled bet ($3) returned to BigYelloFish
+BigYelloFish collected $5.88 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [3c Js Kd]
+Seat 1: BigYelloFish (button) (small blind) collected ($5.88)
+Seat 2: kdcl (big blind) folded on the Flop
+
+
+PokerStars Hand #147935690205:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:55:14 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($136.57 in chips)
+Seat 2: kdcl ($169.69 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: folds
+Uncalled bet ($2) returned to kdcl
+kdcl collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (button) (small blind) folded before Flop
+Seat 2: kdcl (big blind) collected ($2)
+
+
+PokerStars Hand #147935662981:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:54:44 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($116.07 in chips)
+Seat 2: kdcl ($190.69 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [5h Ah 4h]
+BigYelloFish: checks
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [5h Ah 4h] [2d]
+BigYelloFish: bets $6
+kdcl: calls $6
+*** RIVER *** [5h Ah 4h 2d] [6d]
+BigYelloFish: bets $6
+kdcl: calls $6
+*** SHOW DOWN ***
+BigYelloFish: shows [Qd 3d] (a straight, Deuce to Six)
+kdcl: mucks hand
+BigYelloFish collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [5h Ah 4h 2d 6d]
+Seat 1: BigYelloFish (big blind) showed [Qd 3d] and won ($41.50) with a straight, Deuce to Six
+Seat 2: kdcl (button) (small blind) mucked
+
+
+PokerStars Hand #147935694028:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:55:19 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($135.57 in chips)
+Seat 2: kdcl ($170.69 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [8c 9s 9h]
+BigYelloFish: checks
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [8c 9s 9h] [Ac]
+BigYelloFish: checks
+kdcl: checks
+*** RIVER *** [8c 9s 9h Ac] [2h]
+BigYelloFish: checks
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8c 9s 9h Ac 2h]
+Seat 1: BigYelloFish (big blind) folded on the River
+Seat 2: kdcl (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #147935642931:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:54:22 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($101.57 in chips)
+Seat 2: kdcl ($205.69 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: raises $3 to $9
+BigYelloFish: raises $3 to $12
+Betting is capped
+kdcl: calls $3
+*** FLOP *** [Ah 6d Td]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: calls $3
+*** TURN *** [Ah 6d Td] [4c]
+kdcl: checks
+BigYelloFish: bets $6
+kdcl: folds
+Uncalled bet ($6) returned to BigYelloFish
+BigYelloFish collected $29.50 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ah 6d Td 4c]
+Seat 1: BigYelloFish (button) (small blind) collected ($29.50)
+Seat 2: kdcl (big blind) folded on the Turn
+
+
+PokerStars Hand #147935729003:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:56:10 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($105.57 in chips)
+Seat 2: kdcl ($199.49 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [4d 2c Ac]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** TURN *** [4d 2c Ac] [Qh]
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [4d 2c Ac Qh]
+Seat 1: BigYelloFish (button) (small blind) folded on the Turn
+Seat 2: kdcl (big blind) collected ($23.52)
+
+
+PokerStars Hand #147935739055:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:56:24 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($93.57 in chips)
+Seat 2: kdcl ($211.01 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: raises $3 to $9
+kdcl: calls $3
+*** FLOP *** [7d 3c 5s]
+BigYelloFish: bets $3
+kdcl: calls $3
+*** TURN *** [7d 3c 5s] [9d]
+BigYelloFish: checks
+kdcl: checks
+*** RIVER *** [7d 3c 5s 9d] [6h]
+BigYelloFish: checks
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [7d 3c 5s 9d 6h]
+Seat 1: BigYelloFish (big blind) folded on the River
+Seat 2: kdcl (button) (small blind) collected ($23.52)
+
+
+PokerStars Hand #147935721054:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:55:58 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($114.57 in chips)
+Seat 2: kdcl ($190.85 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [6c 3d Qc]
+BigYelloFish: checks
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [6c 3d Qc] [8d]
+BigYelloFish: checks
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6c 3d Qc 8d]
+Seat 1: BigYelloFish (big blind) folded on the Turn
+Seat 2: kdcl (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #147935709065:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:55:41 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($126.57 in chips)
+Seat 2: kdcl ($179.33 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [9d Tc Ks]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** TURN *** [9d Tc Ks] [6c]
+kdcl: checks
+BigYelloFish: checks
+*** RIVER *** [9d Tc Ks 6c] [5d]
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [9d Tc Ks 6c 5d]
+Seat 1: BigYelloFish (button) (small blind) folded on the River
+Seat 2: kdcl (big blind) collected ($23.52)
+
+
+PokerStars Hand #147935764673:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:57:00 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($87.33 in chips)
+Seat 2: kdcl ($216.53 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [Jd Js 8h]
+BigYelloFish: checks
+kdcl: checks
+*** TURN *** [Jd Js 8h] [Qs]
+BigYelloFish: checks
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jd Js 8h Qs]
+Seat 1: BigYelloFish (big blind) folded on the Turn
+Seat 2: kdcl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #147935772656:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:57:12 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($81.33 in chips)
+Seat 2: kdcl ($222.29 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: calls $2
+kdcl: checks
+*** FLOP *** [5h Js 5d]
+kdcl: checks
+BigYelloFish: checks
+*** TURN *** [5h Js 5d] [6d]
+kdcl: checks
+BigYelloFish: checks
+*** RIVER *** [5h Js 5d 6d] [5s]
+kdcl: checks
+BigYelloFish: checks
+*** SHOW DOWN ***
+kdcl: shows [7s 2h] (three of a kind, Fives)
+BigYelloFish: shows [Qh 2s] (three of a kind, Fives - Queen kicker)
+BigYelloFish collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [5h Js 5d 6d 5s]
+Seat 1: BigYelloFish (button) (small blind) showed [Qh 2s] and won ($5.88) with three of a kind, Fives
+Seat 2: kdcl (big blind) showed [7s 2h] and lost with three of a kind, Fives
+
+
+PokerStars Hand #147935750741:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:56:41 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($81.57 in chips)
+Seat 2: kdcl ($222.53 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [6s Kh 7d]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: folds
+Uncalled bet ($3) returned to BigYelloFish
+BigYelloFish collected $11.76 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6s Kh 7d]
+Seat 1: BigYelloFish (button) (small blind) collected ($11.76)
+Seat 2: kdcl (big blind) folded on the Flop
+
+
+PokerStars Hand #147935761307:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:56:56 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($88.33 in chips)
+Seat 2: kdcl ($215.53 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: folds
+Uncalled bet ($2) returned to kdcl
+kdcl collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (button) (small blind) folded before Flop
+Seat 2: kdcl (big blind) collected ($2)
+
+
+PokerStars Hand #147935757788:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:56:51 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($87.33 in chips)
+Seat 2: kdcl ($216.53 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: folds
+Uncalled bet ($2) returned to BigYelloFish
+BigYelloFish collected $2 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (big blind) collected ($2)
+Seat 2: kdcl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147935784939:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:57:29 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($84.21 in chips)
+Seat 2: kdcl ($219.29 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [2c 3h 9d]
+BigYelloFish: checks
+kdcl: checks
+*** TURN *** [2c 3h 9d] [2d]
+BigYelloFish: bets $6
+kdcl: calls $6
+*** RIVER *** [2c 3h 9d 2d] [Jd]
+BigYelloFish: checks
+kdcl: checks
+*** SHOW DOWN ***
+BigYelloFish: shows [3s 5c] (two pair, Threes and Deuces)
+kdcl: mucks hand
+BigYelloFish collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [2c 3h 9d 2d Jd]
+Seat 1: BigYelloFish (big blind) showed [3s 5c] and won ($23.52) with two pair, Threes and Deuces
+Seat 2: kdcl (button) (small blind) mucked
+
+
+PokerStars Hand #147935808369:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:58:03 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($113.23 in chips)
+Seat 2: kdcl ($189.29 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: folds
+Uncalled bet ($3) returned to kdcl
+kdcl collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: BigYelloFish (big blind) folded before Flop
+Seat 2: kdcl (button) (small blind) collected ($6)
+
+
+PokerStars Hand #147935816646:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:58:09 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($110.23 in chips)
+Seat 2: kdcl ($192.29 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [8d 2c 9c]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: folds
+Uncalled bet ($3) returned to BigYelloFish
+BigYelloFish collected $11.76 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8d 2c 9c]
+Seat 1: BigYelloFish (button) (small blind) collected ($11.76)
+Seat 2: kdcl (big blind) folded on the Flop
+
+
+PokerStars Hand #147935798706:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:57:49 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($95.73 in chips)
+Seat 2: kdcl ($207.29 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: raises $3 to $9
+BigYelloFish: calls $3
+*** FLOP *** [7h 2c 6c]
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [7h 2c 6c] [5d]
+kdcl: bets $6
+BigYelloFish: calls $6
+*** RIVER *** [7h 2c 6c 5d] [Kd]
+kdcl: checks
+BigYelloFish: checks
+*** SHOW DOWN ***
+kdcl: shows [Tc Jd] (high card King)
+BigYelloFish: shows [8d Ac] (high card Ace)
+BigYelloFish collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [7h 2c 6c 5d Kd]
+Seat 1: BigYelloFish (button) (small blind) showed [8d Ac] and won ($35.50) with high card Ace
+Seat 2: kdcl (big blind) showed [Tc Jd] and lost with high card King
+
+
+PokerStars Hand #147935837235:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:58:30 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($115.99 in chips)
+Seat 2: kdcl ($186.29 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [3d 9h 6d]
+BigYelloFish: checks
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [3d 9h 6d] [Ks]
+BigYelloFish: checks
+kdcl: checks
+*** RIVER *** [3d 9h 6d Ks] [4s]
+BigYelloFish: bets $6
+kdcl: calls $6
+*** SHOW DOWN ***
+BigYelloFish: shows [Kh 6h] (two pair, Kings and Sixes)
+kdcl: mucks hand
+BigYelloFish collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3d 9h 6d Ks 4s]
+Seat 1: BigYelloFish (big blind) showed [Kh 6h] and won ($29.50) with two pair, Kings and Sixes
+Seat 2: kdcl (button) (small blind) mucked
+
+
+PokerStars Hand #147935861142:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:58:58 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($130.49 in chips)
+Seat 2: kdcl ($171.29 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: calls $2
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [7d 6s 3d]
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [7d 6s 3d] [As]
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7d 6s 3d As]
+Seat 1: BigYelloFish (button) (small blind) folded on the Turn
+Seat 2: kdcl (big blind) collected ($17.64)
+
+
+PokerStars Hand #147935870679:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:59:10 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($121.49 in chips)
+Seat 2: kdcl ($179.93 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: folds
+Uncalled bet ($2) returned to BigYelloFish
+BigYelloFish collected $2 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (big blind) collected ($2)
+Seat 2: kdcl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147935896306:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:59:50 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($128.25 in chips)
+Seat 2: kdcl ($172.93 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: raises $3 to $9
+kdcl: calls $3
+*** FLOP *** [Qc 8s Ah]
+BigYelloFish: bets $3
+kdcl: folds
+Uncalled bet ($3) returned to BigYelloFish
+BigYelloFish collected $17.64 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qc 8s Ah]
+Seat 1: BigYelloFish (big blind) collected ($17.64)
+Seat 2: kdcl (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #147935908459:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:00:06 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($136.89 in chips)
+Seat 2: kdcl ($163.93 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: calls $2
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [Ad 8h Kd]
+kdcl: bets $3
+BigYelloFish: folds
+Uncalled bet ($3) returned to kdcl
+kdcl collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ad 8h Kd]
+Seat 1: BigYelloFish (button) (small blind) folded on the Flop
+Seat 2: kdcl (big blind) collected ($11.76)
+
+
+PokerStars Hand #147935874269:  Hold'em Limit ($3/$6 USD) - 2016/01/30 10:59:16 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($122.49 in chips)
+Seat 2: kdcl ($178.93 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [2s Tc 9c]
+kdcl: checks
+BigYelloFish: checks
+*** TURN *** [2s Tc 9c] [7d]
+kdcl: checks
+BigYelloFish: bets $6
+kdcl: folds
+Uncalled bet ($6) returned to BigYelloFish
+BigYelloFish collected $11.76 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2s Tc 9c 7d]
+Seat 1: BigYelloFish (button) (small blind) collected ($11.76)
+Seat 2: kdcl (big blind) folded on the Turn
+
+
+PokerStars Hand #147935918622:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:00:19 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($130.89 in chips)
+Seat 2: kdcl ($169.69 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: raises $3 to $9
+kdcl: calls $3
+*** FLOP *** [Qs 6s 4s]
+BigYelloFish: bets $3
+kdcl: calls $3
+*** TURN *** [Qs 6s 4s] [Ah]
+BigYelloFish: checks
+kdcl: checks
+*** RIVER *** [Qs 6s 4s Ah] [Qd]
+BigYelloFish: checks
+kdcl: checks
+*** SHOW DOWN ***
+BigYelloFish: shows [Jd Kc] (a pair of Queens)
+kdcl: shows [6d 8d] (two pair, Queens and Sixes)
+kdcl collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Qs 6s 4s Ah Qd]
+Seat 1: BigYelloFish (big blind) showed [Jd Kc] and lost with a pair of Queens
+Seat 2: kdcl (button) (small blind) showed [6d 8d] and won ($23.52) with two pair, Queens and Sixes
+
+
+PokerStars Hand #147935962890:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:01:13 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($100.89 in chips)
+Seat 2: kdcl ($198.71 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: raises $3 to $9
+kdcl: calls $3
+*** FLOP *** [3c 5c Tc]
+BigYelloFish: bets $3
+kdcl: calls $3
+*** TURN *** [3c 5c Tc] [Kc]
+BigYelloFish: checks
+kdcl: bets $6
+BigYelloFish: calls $6
+*** RIVER *** [3c 5c Tc Kc] [Ac]
+BigYelloFish: checks
+kdcl: bets $6
+BigYelloFish: raises $6 to $12
+kdcl: calls $6
+*** SHOW DOWN ***
+BigYelloFish: shows [Qc Kd] (a flush, Ace high)
+kdcl: mucks hand
+BigYelloFish collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [3c 5c Tc Kc Ac]
+Seat 1: BigYelloFish (big blind) showed [Qc Kd] and won ($59.50) with a flush, Ace high
+Seat 2: kdcl (button) (small blind) mucked
+
+
+PokerStars Hand #147935940854:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:00:45 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($118.89 in chips)
+Seat 2: kdcl ($181.21 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: raises $3 to $9
+BigYelloFish: calls $3
+*** FLOP *** [Jh Kc 8h]
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [Jh Kc 8h] [5c]
+kdcl: bets $6
+BigYelloFish: calls $6
+*** RIVER *** [Jh Kc 8h 5c] [Ks]
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Jh Kc 8h 5c Ks]
+Seat 1: BigYelloFish (button) (small blind) folded on the River
+Seat 2: kdcl (big blind) collected ($35.50)
+
+
+PokerStars Hand #147935958116:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:01:07 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($97.89 in chips)
+Seat 2: kdcl ($201.71 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: folds
+Uncalled bet ($3) returned to BigYelloFish
+BigYelloFish collected $6 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: BigYelloFish (button) (small blind) collected ($6)
+Seat 2: kdcl (big blind) folded before Flop
+
+
+PokerStars Hand #147935950803:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:00:58 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($100.89 in chips)
+Seat 2: kdcl ($198.71 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: folds
+Uncalled bet ($3) returned to kdcl
+kdcl collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: BigYelloFish (big blind) folded before Flop
+Seat 2: kdcl (button) (small blind) collected ($6)
+
+
+PokerStars Hand #147935996945:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:01:52 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($101.39 in chips)
+Seat 2: kdcl ($197.21 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: raises $3 to $9
+BigYelloFish: calls $3
+*** FLOP *** [Kh Tc 3c]
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [Kh Tc 3c] [9s]
+kdcl: checks
+BigYelloFish: checks
+*** RIVER *** [Kh Tc 3c 9s] [Qh]
+kdcl: checks
+BigYelloFish: bets $6
+kdcl: calls $6
+*** SHOW DOWN ***
+BigYelloFish: shows [7h Qd] (a pair of Queens)
+kdcl: mucks hand
+BigYelloFish collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Kh Tc 3c 9s Qh]
+Seat 1: BigYelloFish (button) (small blind) showed [7h Qd] and won ($35.50) with a pair of Queens
+Seat 2: kdcl (big blind) mucked
+
+
+PokerStars Hand #147936033221:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:02:31 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($94.89 in chips)
+Seat 2: kdcl ($202.71 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [Kc Js As]
+BigYelloFish: checks
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [Kc Js As] [6c]
+BigYelloFish: checks
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kc Js As 6c]
+Seat 1: BigYelloFish (big blind) folded on the Turn
+Seat 2: kdcl (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #147936015537:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:02:12 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($118.89 in chips)
+Seat 2: kdcl ($179.21 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: folds
+Uncalled bet ($3) returned to kdcl
+kdcl collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: BigYelloFish (big blind) folded before Flop
+Seat 2: kdcl (button) (small blind) collected ($6)
+
+
+PokerStars Hand #147936019986:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:02:17 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($115.89 in chips)
+Seat 2: kdcl ($182.21 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [Qc Qh 9h]
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [Qc Qh 9h] [8h]
+kdcl: bets $6
+BigYelloFish: calls $6
+*** RIVER *** [Qc Qh 9h 8h] [Ad]
+kdcl: bets $6
+BigYelloFish: calls $6
+*** SHOW DOWN ***
+kdcl: shows [4h Jh] (a flush, Queen high)
+BigYelloFish: mucks hand
+kdcl collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Qc Qh 9h 8h Ad]
+Seat 1: BigYelloFish (button) (small blind) mucked
+Seat 2: kdcl (big blind) showed [4h Jh] and won ($41.50) with a flush, Queen high
+
+
+PokerStars Hand #147935992345:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:01:47 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($100.39 in chips)
+Seat 2: kdcl ($198.21 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: folds
+Uncalled bet ($2) returned to BigYelloFish
+BigYelloFish collected $2 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (big blind) collected ($2)
+Seat 2: kdcl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147935978974:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:01:32 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($130.39 in chips)
+Seat 2: kdcl ($168.71 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: raises $3 to $9
+BigYelloFish: calls $3
+*** FLOP *** [2s 8h 2c]
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [2s 8h 2c] [7d]
+kdcl: bets $6
+BigYelloFish: calls $6
+*** RIVER *** [2s 8h 2c 7d] [Kh]
+kdcl: bets $6
+BigYelloFish: raises $6 to $12
+kdcl: calls $6
+*** SHOW DOWN ***
+BigYelloFish: shows [Qh Kd] (two pair, Kings and Deuces)
+kdcl: shows [Kc 7c] (two pair, Kings and Sevens)
+kdcl collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [2s 8h 2c 7d Kh]
+Seat 1: BigYelloFish (button) (small blind) showed [Qh Kd] and lost with two pair, Kings and Deuces
+Seat 2: kdcl (big blind) showed [Kc 7c] and won ($59.50) with two pair, Kings and Sevens
+
+
+PokerStars Hand #147936089328:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:03:30 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($89.03 in chips)
+Seat 2: kdcl ($206.85 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: calls $2
+kdcl: checks
+*** FLOP *** [Qh 3h 7d]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: folds
+Uncalled bet ($3) returned to BigYelloFish
+BigYelloFish collected $5.88 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Qh 3h 7d]
+Seat 1: BigYelloFish (button) (small blind) collected ($5.88)
+Seat 2: kdcl (big blind) folded on the Flop
+
+
+PokerStars Hand #147936042764:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:02:42 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($85.89 in chips)
+Seat 2: kdcl ($211.35 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [2d 5d 5c]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: calls $3
+*** TURN *** [2d 5d 5c] [As]
+kdcl: checks
+BigYelloFish: bets $6
+kdcl: folds
+Uncalled bet ($6) returned to BigYelloFish
+BigYelloFish collected $17.64 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2d 5d 5c As]
+Seat 1: BigYelloFish (button) (small blind) collected ($17.64)
+Seat 2: kdcl (big blind) folded on the Turn
+
+
+PokerStars Hand #147936084662:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:03:25 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($88.03 in chips)
+Seat 2: kdcl ($207.85 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: folds
+Uncalled bet ($2) returned to BigYelloFish
+BigYelloFish collected $2 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (big blind) collected ($2)
+Seat 2: kdcl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147936055378:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:02:55 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($94.53 in chips)
+Seat 2: kdcl ($202.35 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: raises $3 to $9
+kdcl: calls $3
+*** FLOP *** [4h Qh 9c]
+BigYelloFish: bets $3
+kdcl: calls $3
+*** TURN *** [4h Qh 9c] [8s]
+BigYelloFish: checks
+kdcl: bets $6
+BigYelloFish: calls $6
+*** RIVER *** [4h Qh 9c 8s] [4s]
+BigYelloFish: checks
+kdcl: bets $6
+BigYelloFish: calls $6
+*** SHOW DOWN ***
+kdcl: shows [Jc Qd] (two pair, Queens and Fours)
+BigYelloFish: mucks hand
+kdcl collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4h Qh 9c 8s 4s]
+Seat 1: BigYelloFish (big blind) mucked
+Seat 2: kdcl (button) (small blind) showed [Jc Qd] and won ($47.50) with two pair, Queens and Fours
+
+
+PokerStars Hand #147936070464:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:03:10 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($70.53 in chips)
+Seat 2: kdcl ($225.85 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [9d Ad 9c]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** TURN *** [9d Ad 9c] [5c]
+kdcl: checks
+BigYelloFish: checks
+*** RIVER *** [9d Ad 9c 5c] [7d]
+kdcl: bets $6
+BigYelloFish: calls $6
+*** SHOW DOWN ***
+kdcl: shows [Qd 7c] (two pair, Nines and Sevens)
+BigYelloFish: shows [As 4c] (two pair, Aces and Nines)
+BigYelloFish collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [9d Ad 9c 5c 7d]
+Seat 1: BigYelloFish (button) (small blind) showed [As 4c] and won ($35.50) with two pair, Aces and Nines
+Seat 2: kdcl (big blind) showed [Qd 7c] and lost with two pair, Nines and Sevens
+
+
+PokerStars Hand #147936100795:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:03:42 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($91.91 in chips)
+Seat 2: kdcl ($203.85 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [8s Ac 4s]
+BigYelloFish: checks
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [8s Ac 4s] [6d]
+BigYelloFish: checks
+kdcl: checks
+*** RIVER *** [8s Ac 4s 6d] [Tc]
+BigYelloFish: bets $6
+kdcl: calls $6
+*** SHOW DOWN ***
+BigYelloFish: shows [7d Js] (high card Ace)
+kdcl: shows [5h 6c] (a pair of Sixes)
+kdcl collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8s Ac 4s 6d Tc]
+Seat 1: BigYelloFish (big blind) showed [7d Js] and lost with high card Ace
+Seat 2: kdcl (button) (small blind) showed [5h 6c] and won ($29.50) with a pair of Sixes
+
+
+PokerStars Hand #147936126221:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:04:07 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($61.91 in chips)
+Seat 2: kdcl ($232.85 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: raises $3 to $9
+kdcl: calls $3
+*** FLOP *** [6d 4s 6s]
+BigYelloFish: bets $3
+kdcl: calls $3
+*** TURN *** [6d 4s 6s] [2h]
+BigYelloFish: checks
+kdcl: checks
+*** RIVER *** [6d 4s 6s 2h] [4c]
+BigYelloFish: checks
+kdcl: checks
+*** SHOW DOWN ***
+BigYelloFish: shows [Kh Qd] (two pair, Sixes and Fours)
+kdcl: mucks hand
+BigYelloFish collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [6d 4s 6s 2h 4c]
+Seat 1: BigYelloFish (big blind) showed [Kh Qd] and won ($23.52) with two pair, Sixes and Fours
+Seat 2: kdcl (button) (small blind) mucked
+
+
+PokerStars Hand #147936113394:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:03:54 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($76.91 in chips)
+Seat 2: kdcl ($218.35 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [6h 5s Ts]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: calls $3
+*** TURN *** [6h 5s Ts] [2c]
+kdcl: checks
+BigYelloFish: checks
+*** RIVER *** [6h 5s Ts 2c] [2d]
+kdcl: bets $6
+BigYelloFish: calls $6
+*** SHOW DOWN ***
+kdcl: shows [3s Td] (two pair, Tens and Deuces)
+BigYelloFish: mucks hand
+kdcl collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6h 5s Ts 2c 2d]
+Seat 1: BigYelloFish (button) (small blind) mucked
+Seat 2: kdcl (big blind) showed [3s Td] and won ($29.50) with two pair, Tens and Deuces
+
+
+PokerStars Hand #147936157996:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:04:39 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($79.19 in chips)
+Seat 2: kdcl ($214.85 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: folds
+Uncalled bet ($2) returned to BigYelloFish
+BigYelloFish collected $2 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (big blind) collected ($2)
+Seat 2: kdcl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147936142558:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:04:24 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($73.43 in chips)
+Seat 2: kdcl ($220.85 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [Ts 6s 9d]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: folds
+Uncalled bet ($3) returned to BigYelloFish
+BigYelloFish collected $11.76 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ts 6s 9d]
+Seat 1: BigYelloFish (button) (small blind) collected ($11.76)
+Seat 2: kdcl (big blind) folded on the Flop
+
+
+PokerStars Hand #147936199163:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:05:21 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($46.19 in chips)
+Seat 2: kdcl ($247.11 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [3h Qd 6d]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: calls $3
+*** TURN *** [3h Qd 6d] [Qc]
+kdcl: checks
+BigYelloFish: checks
+*** RIVER *** [3h Qd 6d Qc] [2d]
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3h Qd 6d Qc 2d]
+Seat 1: BigYelloFish (button) (small blind) folded on the River
+Seat 2: kdcl (big blind) collected ($17.64)
+
+
+PokerStars Hand #147936163003:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:04:44 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($80.19 in chips)
+Seat 2: kdcl ($213.85 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: folds
+Uncalled bet ($2) returned to kdcl
+kdcl collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (button) (small blind) folded before Flop
+Seat 2: kdcl (big blind) collected ($2)
+
+
+PokerStars Hand #147936191584:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:05:13 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($52.19 in chips)
+Seat 2: kdcl ($241.35 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [2c Ac Jh]
+BigYelloFish: checks
+kdcl: bets $3
+BigYelloFish: folds
+Uncalled bet ($3) returned to kdcl
+kdcl collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2c Ac Jh]
+Seat 1: BigYelloFish (big blind) folded on the Flop
+Seat 2: kdcl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #147936167335:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:04:49 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($79.19 in chips)
+Seat 2: kdcl ($214.85 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: raises $3 to $9
+kdcl: calls $3
+*** FLOP *** [8d Kc 3c]
+BigYelloFish: bets $3
+kdcl: calls $3
+*** TURN *** [8d Kc 3c] [Kh]
+BigYelloFish: bets $6
+kdcl: calls $6
+*** RIVER *** [8d Kc 3c Kh] [4h]
+BigYelloFish: bets $6
+kdcl: raises $6 to $12
+BigYelloFish: calls $6
+*** SHOW DOWN ***
+kdcl: shows [Ks 8s] (a full house, Kings full of Eights)
+BigYelloFish: mucks hand
+kdcl collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [8d Kc 3c Kh 4h]
+Seat 1: BigYelloFish (big blind) mucked
+Seat 2: kdcl (button) (small blind) showed [Ks 8s] and won ($59.50) with a full house, Kings full of Eights
+
+
+PokerStars Hand #147936184424:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:05:06 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($49.19 in chips)
+Seat 2: kdcl ($244.35 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: folds
+Uncalled bet ($3) returned to BigYelloFish
+BigYelloFish collected $6 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: BigYelloFish (button) (small blind) collected ($6)
+Seat 2: kdcl (big blind) folded before Flop
+
+
+PokerStars Hand #147936212878:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:05:35 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($37.19 in chips)
+Seat 2: kdcl ($255.75 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [5c 8s As]
+BigYelloFish: checks
+kdcl: checks
+*** TURN *** [5c 8s As] [Jh]
+BigYelloFish: checks
+kdcl: checks
+*** RIVER *** [5c 8s As Jh] [9h]
+BigYelloFish: checks
+kdcl: checks
+*** SHOW DOWN ***
+BigYelloFish: shows [8c 4d] (a pair of Eights)
+kdcl: mucks hand
+BigYelloFish collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5c 8s As Jh 9h]
+Seat 1: BigYelloFish (big blind) showed [8c 4d] and won ($11.76) with a pair of Eights
+Seat 2: kdcl (button) (small blind) mucked
+
+
+PokerStars Hand #147936245678:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:06:09 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($24.95 in chips)
+Seat 2: kdcl ($267.25 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: folds
+Uncalled bet ($2) returned to BigYelloFish
+BigYelloFish collected $2 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (big blind) collected ($2)
+Seat 2: kdcl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147936230100:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:05:52 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($42.95 in chips)
+Seat 2: kdcl ($249.75 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: raises $3 to $9
+BigYelloFish: calls $3
+*** FLOP *** [4h Ac Td]
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [4h Ac Td] [2d]
+kdcl: bets $6
+BigYelloFish: calls $6
+*** RIVER *** [4h Ac Td 2d] [Jc]
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [4h Ac Td 2d Jc]
+Seat 1: BigYelloFish (button) (small blind) folded on the River
+Seat 2: kdcl (big blind) collected ($35.50)
+
+
+PokerStars Hand #147936250995:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:06:14 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($25.95 in chips)
+Seat 2: kdcl ($266.25 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: calls $2
+kdcl: checks
+*** FLOP *** [3c 4s Ah]
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [3c 4s Ah] [6c]
+kdcl: checks
+BigYelloFish: checks
+*** RIVER *** [3c 4s Ah 6c] [3d]
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3c 4s Ah 6c 3d]
+Seat 1: BigYelloFish (button) (small blind) folded on the River
+Seat 2: kdcl (big blind) collected ($11.76)
+
+
+PokerStars Hand #147936331779:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:07:37 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($84.83 in chips)
+Seat 2: kdcl ($267.01 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: folds
+Uncalled bet ($2) returned to kdcl
+kdcl collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (button) (small blind) folded before Flop
+Seat 2: kdcl (big blind) collected ($2)
+
+
+PokerStars Hand #147936326872:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:07:32 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($83.83 in chips)
+Seat 2: kdcl ($268.01 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: folds
+Uncalled bet ($2) returned to BigYelloFish
+BigYelloFish collected $2 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (big blind) collected ($2)
+Seat 2: kdcl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147936306538:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:07:11 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($80.95 in chips)
+Seat 2: kdcl ($271.01 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: calls $2
+kdcl: checks
+*** FLOP *** [9d Qs Th]
+kdcl: checks
+BigYelloFish: checks
+*** TURN *** [9d Qs Th] [6s]
+kdcl: checks
+BigYelloFish: checks
+*** RIVER *** [9d Qs Th 6s] [5c]
+kdcl: checks
+BigYelloFish: checks
+*** SHOW DOWN ***
+kdcl: shows [2s 3c] (high card Queen)
+BigYelloFish: shows [Ad 2c] (high card Ace)
+BigYelloFish collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [9d Qs Th 6s 5c]
+Seat 1: BigYelloFish (button) (small blind) showed [Ad 2c] and won ($5.88) with high card Ace
+Seat 2: kdcl (big blind) showed [2s 3c] and lost with high card Queen
+
+
+PokerStars Hand #147936301622:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:07:06 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($79.95 in chips)
+Seat 2: kdcl ($272.01 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: folds
+Uncalled bet ($2) returned to BigYelloFish
+BigYelloFish collected $2 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (big blind) collected ($2)
+Seat 2: kdcl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147936353309:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:07:58 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($68.83 in chips)
+Seat 2: kdcl ($282.51 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [5d 3s 3c]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: calls $3
+*** TURN *** [5d 3s 3c] [Qc]
+kdcl: checks
+BigYelloFish: bets $6
+kdcl: calls $6
+*** RIVER *** [5d 3s 3c Qc] [Qd]
+kdcl: checks
+BigYelloFish: bets $6
+kdcl: calls $6
+*** SHOW DOWN ***
+BigYelloFish: shows [6d 5c] (two pair, Queens and Fives)
+kdcl: mucks hand
+BigYelloFish collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [5d 3s 3c Qc Qd]
+Seat 1: BigYelloFish (button) (small blind) showed [6d 5c] and won ($41.50) with two pair, Queens and Fives
+Seat 2: kdcl (big blind) mucked
+
+
+PokerStars Hand #147936338006:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:07:43 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($83.83 in chips)
+Seat 2: kdcl ($268.01 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [8h 2s 7h]
+BigYelloFish: checks
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [8h 2s 7h] [Ad]
+BigYelloFish: checks
+kdcl: checks
+*** RIVER *** [8h 2s 7h Ad] [As]
+BigYelloFish: bets $6
+kdcl: calls $6
+*** SHOW DOWN ***
+BigYelloFish: shows [9h 7c] (two pair, Aces and Sevens)
+kdcl: shows [5d 8s] (two pair, Aces and Eights)
+kdcl collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8h 2s 7h Ad As]
+Seat 1: BigYelloFish (big blind) showed [9h 7c] and lost with two pair, Aces and Sevens
+Seat 2: kdcl (button) (small blind) showed [5d 8s] and won ($29.50) with two pair, Aces and Eights
+
+
+PokerStars Hand #147936373134:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:08:18 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($89.33 in chips)
+Seat 2: kdcl ($261.51 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [7d Qd Kc]
+BigYelloFish: checks
+kdcl: checks
+*** TURN *** [7d Qd Kc] [6c]
+BigYelloFish: checks
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7d Qd Kc 6c]
+Seat 1: BigYelloFish (big blind) folded on the Turn
+Seat 2: kdcl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #147936440407:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:09:29 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($97.83 in chips)
+Seat 2: kdcl ($252.27 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [Kh 3d 7c]
+BigYelloFish: checks
+kdcl: checks
+*** TURN *** [Kh 3d 7c] [8c]
+BigYelloFish: bets $6
+kdcl: folds
+Uncalled bet ($6) returned to BigYelloFish
+BigYelloFish collected $11.76 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kh 3d 7c 8c]
+Seat 1: BigYelloFish (big blind) collected ($11.76)
+Seat 2: kdcl (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #147936414933:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:09:02 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($83.33 in chips)
+Seat 2: kdcl ($267.27 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [5c 6d Ad]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: raises $3 to $6
+BigYelloFish: raises $3 to $9
+kdcl: calls $3
+*** TURN *** [5c 6d Ad] [8d]
+kdcl: checks
+BigYelloFish: bets $6
+kdcl: folds
+Uncalled bet ($6) returned to BigYelloFish
+BigYelloFish collected $29.50 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5c 6d Ad 8d]
+Seat 1: BigYelloFish (button) (small blind) collected ($29.50)
+Seat 2: kdcl (big blind) folded on the Turn
+
+
+PokerStars Hand #147936460069:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:09:49 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($106.59 in chips)
+Seat 2: kdcl ($243.27 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: folds
+Uncalled bet ($2) returned to BigYelloFish
+BigYelloFish collected $2 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (big blind) collected ($2)
+Seat 2: kdcl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147936451668:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:09:40 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($103.59 in chips)
+Seat 2: kdcl ($246.27 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: folds
+Uncalled bet ($3) returned to BigYelloFish
+BigYelloFish collected $6 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: BigYelloFish (button) (small blind) collected ($6)
+Seat 2: kdcl (big blind) folded before Flop
+
+
+PokerStars Hand #147936510581:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:10:42 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($95.59 in chips)
+Seat 2: kdcl ($253.79 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: folds
+Uncalled bet ($2) returned to BigYelloFish
+BigYelloFish collected $2 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (big blind) collected ($2)
+Seat 2: kdcl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147936465876:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:09:55 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($107.59 in chips)
+Seat 2: kdcl ($242.27 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [Kc 4d 2h]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** TURN *** [Kc 4d 2h] [6h]
+kdcl: bets $6
+BigYelloFish: folds
+Uncalled bet ($6) returned to kdcl
+kdcl collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Kc 4d 2h 6h]
+Seat 1: BigYelloFish (button) (small blind) folded on the Turn
+Seat 2: kdcl (big blind) collected ($23.52)
+
+
+PokerStars Hand #147936515878:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:10:48 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($96.59 in chips)
+Seat 2: kdcl ($252.79 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [6d Jc 3s]
+kdcl: checks
+BigYelloFish: bets $3
+kdcl: calls $3
+*** TURN *** [6d Jc 3s] [4h]
+kdcl: checks
+BigYelloFish: checks
+*** RIVER *** [6d Jc 3s 4h] [As]
+kdcl: checks
+BigYelloFish: bets $6
+kdcl: calls $6
+*** SHOW DOWN ***
+BigYelloFish: shows [Ad 7h] (a pair of Aces)
+kdcl: mucks hand
+BigYelloFish collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6d Jc 3s 4h As]
+Seat 1: BigYelloFish (button) (small blind) showed [Ad 7h] and won ($29.50) with a pair of Aces
+Seat 2: kdcl (big blind) mucked
+
+
+PokerStars Hand #147936534922:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:11:08 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($111.09 in chips)
+Seat 2: kdcl ($237.79 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [9s Jd 9h]
+BigYelloFish: checks
+kdcl: checks
+*** TURN *** [9s Jd 9h] [5s]
+BigYelloFish: checks
+kdcl: bets $6
+BigYelloFish: calls $6
+*** RIVER *** [9s Jd 9h 5s] [6d]
+BigYelloFish: checks
+kdcl: checks
+*** SHOW DOWN ***
+BigYelloFish: shows [5d Th] (two pair, Nines and Fives)
+kdcl: mucks hand
+BigYelloFish collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [9s Jd 9h 5s 6d]
+Seat 1: BigYelloFish (big blind) showed [5d Th] and won ($23.52) with two pair, Nines and Fives
+Seat 2: kdcl (button) (small blind) mucked
+
+
+PokerStars Hand #147936549124:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:11:23 ET
+Table 'Alshain' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($122.61 in chips)
+Seat 2: kdcl ($225.79 in chips)
+BigYelloFish: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+kdcl: raises $3 to $9
+BigYelloFish: calls $3
+*** FLOP *** [Jd 5c 9h]
+kdcl: bets $3
+BigYelloFish: calls $3
+*** TURN *** [Jd 5c 9h] [7h]
+kdcl: bets $6
+BigYelloFish: calls $6
+*** RIVER *** [Jd 5c 9h 7h] [3h]
+kdcl: bets $6
+BigYelloFish: calls $6
+*** SHOW DOWN ***
+kdcl: shows [Kh Qd] (high card King)
+BigYelloFish: shows [6h 5d] (a pair of Fives)
+BigYelloFish collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Jd 5c 9h 7h 3h]
+Seat 1: BigYelloFish (button) (small blind) showed [6h 5d] and won ($47.50) with a pair of Fives
+Seat 2: kdcl (big blind) showed [Kh Qd] and lost with high card King
+
+
+PokerStars Hand #147936562365:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:11:36 ET
+Table 'Alshain' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($146.11 in chips)
+Seat 2: kdcl ($201.79 in chips)
+kdcl: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+kdcl: folds
+Uncalled bet ($2) returned to BigYelloFish
+BigYelloFish collected $2 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BigYelloFish (big blind) collected ($2)
+Seat 2: kdcl (button) (small blind) folded before Flop
+
+

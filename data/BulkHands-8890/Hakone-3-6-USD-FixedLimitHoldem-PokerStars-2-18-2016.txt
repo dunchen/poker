@@ -1,0 +1,109 @@
+PokerStars Hand #149002963889:  Hold'em Limit ($3/$6 USD) - 2016/02/18 7:48:29 ET
+Table 'Hakone' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 3: wuck249 ($120 in chips)
+VolkovDmitri: posts small blind $1
+wuck249: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+wuck249: calls $3
+*** FLOP *** [6d Qs Jd]
+wuck249: checks
+VolkovDmitri: bets $3
+wuck249: calls $3
+*** TURN *** [6d Qs Jd] [Jh]
+wuck249: checks
+VolkovDmitri: bets $6
+wuck249: folds
+Uncalled bet ($6) returned to VolkovDmitri
+Niaong joins the table at seat #5
+VolkovDmitri collected $17.64 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6d Qs Jd Jh]
+Seat 1: VolkovDmitri (button) (small blind) collected ($17.64)
+Seat 3: wuck249 (big blind) folded on the Turn
+
+
+PokerStars Hand #149009624884:  Hold'em Limit ($3/$6 USD) - 2016/02/18 10:32:58 ET
+Table 'Hakone' 6-max Seat #4 is the button
+Seat 4: Günni1959 ($182.27 in chips)
+Seat 5: GRAILKO ($238.18 in chips)
+Günni1959: posts small blind $1
+GRAILKO: posts big blind $3
+*** HOLE CARDS ***
+Günni1959: folds
+Uncalled bet ($2) returned to GRAILKO
+GRAILKO collected $2 from pot
+GRAILKO: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: Günni1959 (button) (small blind) folded before Flop
+Seat 5: GRAILKO (big blind) collected ($2)
+
+
+PokerStars Hand #149009601745:  Hold'em Limit ($3/$6 USD) - 2016/02/18 10:32:29 ET
+Table 'Hakone' 6-max Seat #5 is the button
+Seat 4: Günni1959 ($173.63 in chips)
+Seat 5: GRAILKO ($247.18 in chips)
+GRAILKO: posts small blind $1
+B_loJkl: is sitting out
+krytalex: is sitting out
+Günni1959: posts big blind $3
+*** HOLE CARDS ***
+GRAILKO: raises $3 to $6
+B_loJkl leaves the table
+Günni1959: calls $3
+*** FLOP *** [Tc As 8c]
+B_loJkl joins the table at seat #6
+Günni1959: checks
+GRAILKO: bets $3
+Günni1959: calls $3
+*** TURN *** [Tc As 8c] [Jc]
+Günni1959: checks
+GRAILKO: checks
+*** RIVER *** [Tc As 8c Jc] [3s]
+Günni1959: bets $6
+GRAILKO: folds
+Uncalled bet ($6) returned to Günni1959
+Günni1959 collected $17.64 from pot
+Günni1959: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Tc As 8c Jc 3s]
+Seat 4: Günni1959 (big blind) collected ($17.64)
+Seat 5: GRAILKO (button) (small blind) folded on the River
+
+
+PokerStars Hand #149011508977:  Hold'em Limit ($3/$6 USD) - 2016/02/18 11:11:15 ET
+Table 'Hakone' 6-max Seat #6 is the button
+Seat 5: GRAILKO ($284.68 in chips)
+Seat 6: B_loJkl ($125.95 in chips)
+B_loJkl: posts small blind $1
+GRAILKO: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+Günni1959 leaves the table
+GRAILKO: calls $3
+*** FLOP *** [4c Jc 4s]
+GRAILKO: checks
+B_loJkl: checks
+*** TURN *** [4c Jc 4s] [Js]
+GRAILKO: checks
+B_loJkl: checks
+*** RIVER *** [4c Jc 4s Js] [As]
+GRAILKO: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+GRAILKO: shows [9h Qc] (two pair, Jacks and Fours)
+B_loJkl: shows [Th 6s] (two pair, Jacks and Fours)
+GRAILKO collected $11.76 from pot
+B_loJkl collected $11.76 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [4c Jc 4s Js As]
+Seat 5: GRAILKO (big blind) showed [9h Qc] and won ($11.76) with two pair, Jacks and Fours
+Seat 6: B_loJkl (button) (small blind) showed [Th 6s] and won ($11.76) with two pair, Jacks and Fours
+
+

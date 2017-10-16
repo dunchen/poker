@@ -1,0 +1,30 @@
+PokerStars Hand #168625675494:  Hold'em Limit ($3/$6 USD) - 2017/04/05 16:00:05 ET
+Table 'Industria' 6-max Seat #4 is the button
+Seat 1: Grey_fishKa ($114 in chips)
+Seat 4: MTails ($125.76 in chips)
+MTails: posts small blind $1
+Grey_fishKa: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+Grey_fishKa: calls $3
+*** FLOP *** [7c Ks 4h]
+Grey_fishKa: checks
+MTails: bets $3
+Grey_fishKa: calls $3
+*** TURN *** [7c Ks 4h] [6h]
+Grey_fishKa: checks
+MTails: checks
+*** RIVER *** [7c Ks 4h 6h] [6c]
+Grey_fishKa: checks
+MTails: checks
+*** SHOW DOWN ***
+Grey_fishKa: shows [7d Ts] (two pair, Sevens and Sixes)
+MTails: mucks hand
+Grey_fishKa collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7c Ks 4h 6h 6c]
+Seat 1: Grey_fishKa (big blind) showed [7d Ts] and won ($17.64) with two pair, Sevens and Sixes
+Seat 4: MTails (button) (small blind) mucked
+
+

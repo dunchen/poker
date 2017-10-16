@@ -1,0 +1,34 @@
+PokerStars Hand #163686156413:  Hold'em Limit ($3/$6 USD) - 2016/12/28 18:07:19 ET
+Table 'Panopaea' 6-max Seat #5 is the button
+Seat 2: RUNNINGMAN70 ($212.91 in chips)
+Seat 5: karambakilla ($341.15 in chips)
+karambakilla: posts small blind $1
+ToDaFelt: is sitting out
+RUNNINGMAN70: posts big blind $3
+*** HOLE CARDS ***
+karambakilla: raises $3 to $6
+ToDaFelt leaves the table
+RUNNINGMAN70: calls $3
+*** FLOP *** [Th 8h 6d]
+RUNNINGMAN70: checks
+karambakilla: bets $3
+RUNNINGMAN70: calls $3
+*** TURN *** [Th 8h 6d] [9d]
+RUNNINGMAN70: checks
+karambakilla: bets $6
+RUNNINGMAN70: calls $6
+*** RIVER *** [Th 8h 6d 9d] [Ah]
+RUNNINGMAN70: checks
+karambakilla: bets $6
+RUNNINGMAN70: calls $6
+*** SHOW DOWN ***
+karambakilla: shows [4h 3h] (a flush, Ace high)
+RUNNINGMAN70: mucks hand
+karambakilla collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Th 8h 6d 9d Ah]
+Seat 2: RUNNINGMAN70 (big blind) mucked
+Seat 5: karambakilla (button) (small blind) showed [4h 3h] and won ($41.50) with a flush, Ace high
+
+

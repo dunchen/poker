@@ -1,0 +1,62 @@
+PokerStars Hand #158341436913:  Hold'em Limit ($3/$6 USD) - 2016/09/08 16:02:06 ET
+Table 'Newell II' 10-max Seat #5 is the button
+Seat 5: simper11 ($120 in chips)
+Seat 10: minigus575 ($134.50 in chips)
+simper11: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+minigus575: raises $3 to $9
+simper11: calls $3
+*** FLOP *** [Ts 9s 6h]
+minigus575: bets $3
+simper11: calls $3
+*** TURN *** [Ts 9s 6h] [5c]
+minigus575: bets $6
+simper11: raises $6 to $12
+minigus575: calls $6
+*** RIVER *** [Ts 9s 6h 5c] [Td]
+minigus575: checks
+simper11: bets $6
+minigus575: calls $6
+*** SHOW DOWN ***
+simper11: shows [Jc 8s] (a pair of Tens)
+minigus575: shows [Kd 9c] (two pair, Tens and Nines)
+minigus575 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Ts 9s 6h 5c Td]
+Seat 5: simper11 (button) (small blind) showed [Jc 8s] and lost with a pair of Tens
+Seat 10: minigus575 (big blind) showed [Kd 9c] and won ($59.50) with two pair, Tens and Nines
+
+
+PokerStars Hand #158341414517:  Hold'em Limit ($3/$6 USD) - 2016/09/08 16:01:40 ET
+Table 'Newell II' 10-max Seat #10 is the button
+Seat 5: simper11 ($120 in chips)
+Seat 10: minigus575 ($120 in chips)
+minigus575: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+simper11: calls $3
+*** FLOP *** [Ts 3s 9s]
+simper11: checks
+minigus575: bets $3
+simper11: calls $3
+*** TURN *** [Ts 3s 9s] [Jc]
+simper11: checks
+minigus575: checks
+*** RIVER *** [Ts 3s 9s Jc] [4s]
+simper11: bets $6
+minigus575: calls $6
+*** SHOW DOWN ***
+simper11: shows [Kc 9c] (a pair of Nines)
+minigus575: shows [6s 5h] (a flush, Ten high)
+minigus575 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ts 3s 9s Jc 4s]
+Seat 5: simper11 (big blind) showed [Kc 9c] and lost with a pair of Nines
+Seat 10: minigus575 (button) (small blind) showed [6s 5h] and won ($29.50) with a flush, Ten high
+
+

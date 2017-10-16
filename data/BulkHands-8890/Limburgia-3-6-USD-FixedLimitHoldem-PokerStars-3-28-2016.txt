@@ -1,0 +1,101 @@
+PokerStars Hand #151082220525:  Hold'em Limit ($3/$6 USD) - 2016/03/28 16:18:20 ET
+Table 'Limburgia' 10-max Seat #1 is the button
+Seat 1: Zubasa07 ($522.26 in chips)
+Seat 2: balletgirls ($7 in chips)
+Zubasa07: posts small blind $1
+balletgirls: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+balletgirls: calls $3
+*** FLOP *** [8s 6s 3h]
+balletgirls: checks
+Zubasa07: bets $3
+balletgirls: calls $1 and is all-in
+Uncalled bet ($2) returned to Zubasa07
+*** TURN *** [8s 6s 3h] [3d]
+*** RIVER *** [8s 6s 3h 3d] [5c]
+*** SHOW DOWN ***
+balletgirls: shows [Jc 7s] (a pair of Threes)
+Zubasa07: shows [Td Js] (a pair of Threes - Jack+Ten kicker)
+Zubasa07 collected $13.72 from pot
+*** SUMMARY ***
+Total pot $14 | Rake $0.28
+Board [8s 6s 3h 3d 5c]
+Seat 1: Zubasa07 (button) (small blind) showed [Td Js] and won ($13.72) with a pair of Threes
+Seat 2: balletgirls (big blind) showed [Jc 7s] and lost with a pair of Threes
+
+
+PokerStars Hand #151082258256:  Hold'em Limit ($3/$6 USD) - 2016/03/28 16:18:56 ET
+Table 'Limburgia' 10-max Seat #1 is the button
+Seat 1: Zubasa07 ($529.98 in chips)
+Seat 2: balletgirls ($29 in chips)
+Zubasa07: posts small blind $1
+balletgirls: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+balletgirls: calls $3
+*** FLOP *** [5d Kd 7s]
+balletgirls: checks
+Zubasa07: bets $3
+balletgirls: calls $3
+*** TURN *** [5d Kd 7s] [4h]
+balletgirls: checks
+Zubasa07: bets $6
+balletgirls: calls $6
+*** RIVER *** [5d Kd 7s 4h] [6c]
+balletgirls: bets $6
+Zubasa07: folds
+Uncalled bet ($6) returned to balletgirls
+balletgirls collected $29.50 from pot
+pdsnr joins the table at seat #3
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5d Kd 7s 4h 6c]
+Seat 1: Zubasa07 (button) (small blind) folded on the River
+Seat 2: balletgirls (big blind) collected ($29.50)
+
+
+PokerStars Hand #151082252048:  Hold'em Limit ($3/$6 USD) - 2016/03/28 16:18:50 ET
+Table 'Limburgia' 10-max Seat #2 is the button
+Seat 1: Zubasa07 ($528.98 in chips)
+Seat 2: balletgirls ($30 in chips)
+balletgirls: posts small blind $1
+Zubasa07: posts big blind $3
+*** HOLE CARDS ***
+balletgirls: folds
+Uncalled bet ($2) returned to Zubasa07
+Zubasa07 collected $2 from pot
+Zubasa07: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Zubasa07 (big blind) collected ($2)
+Seat 2: balletgirls (button) (small blind) folded before Flop
+
+
+PokerStars Hand #151082662084:  Hold'em Limit ($3/$6 USD) - 2016/03/28 16:25:18 ET
+Table 'Limburgia' 10-max Seat #1 is the button
+Seat 1: Zubasa07 ($538.39 in chips)
+Seat 3: pdsnr ($129.21 in chips)
+Zubasa07: posts small blind $1
+pdsnr: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+pdsnr: raises $3 to $9
+balletgirls leaves the table
+Zubasa07: calls $3
+*** FLOP *** [Ks 3c 9d]
+IrRaFirst joins the table at seat #4
+pdsnr: bets $3
+Zubasa07: calls $3
+*** TURN *** [Ks 3c 9d] [5h]
+pdsnr: bets $6
+Zubasa07: folds
+Uncalled bet ($6) returned to pdsnr
+pdsnr collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Ks 3c 9d 5h]
+Seat 1: Zubasa07 (button) (small blind) folded on the Turn
+Seat 3: pdsnr (big blind) collected ($23.52)
+
+

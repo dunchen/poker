@@ -1,0 +1,31 @@
+PokerStars Hand #144518465233:  Hold'em Limit ($3/$6 USD) - 2015/11/28 13:51:35 ET
+Table 'Riviera' 2-max Seat #1 is the button
+Seat 1: elifnur2008 ($110.50 in chips)
+Seat 2: calvin802 ($19.70 in chips)
+elifnur2008: posts small blind $1
+calvin802: posts big blind $3
+*** HOLE CARDS ***
+elifnur2008: raises $3 to $6
+calvin802: calls $3
+*** FLOP *** [9h 7s 9s]
+calvin802: checks
+elifnur2008: bets $3
+calvin802: calls $3
+*** TURN *** [9h 7s 9s] [3s]
+calvin802: checks
+elifnur2008: bets $6
+calvin802: calls $6
+*** RIVER *** [9h 7s 9s 3s] [Th]
+calvin802: bets $4.70 and is all-in
+elifnur2008: calls $4.70
+*** SHOW DOWN ***
+calvin802: shows [Kd 8s] (a pair of Nines)
+elifnur2008: shows [As Ks] (a flush, Ace high)
+elifnur2008 collected $38.90 from pot
+*** SUMMARY ***
+Total pot $39.40 | Rake $0.50
+Board [9h 7s 9s 3s Th]
+Seat 1: elifnur2008 (button) (small blind) showed [As Ks] and won ($38.90) with a flush, Ace high
+Seat 2: calvin802 (big blind) showed [Kd 8s] and lost with a pair of Nines
+
+

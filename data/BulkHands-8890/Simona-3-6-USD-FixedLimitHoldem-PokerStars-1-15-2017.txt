@@ -1,0 +1,52 @@
+PokerStars Hand #164609234934:  Hold'em Limit ($3/$6 USD) - 2017/01/15 8:17:17 ET
+Table 'Simona' 6-max Seat #2 is the button
+Seat 1: rabbit3115 ($34.39 in chips)
+Seat 2: sinsadir ($120 in chips)
+sinsadir: posts small blind $1
+GoliafUa joins the table at seat #3
+Agrotait: is sitting out
+rabbit3115: posts big blind $3
+*** HOLE CARDS ***
+sinsadir: folds
+Uncalled bet ($2) returned to rabbit3115
+rabbit3115 collected $2 from pot
+rabbit3115: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: rabbit3115 (big blind) collected ($2)
+Seat 2: sinsadir (button) (small blind) folded before Flop
+
+
+PokerStars Hand #164609246259:  Hold'em Limit ($3/$6 USD) - 2017/01/15 8:17:33 ET
+Table 'Simona' 6-max Seat #1 is the button
+Seat 1: rabbit3115 ($35.39 in chips)
+Seat 2: sinsadir ($119 in chips)
+rabbit3115: posts small blind $1
+sinsadir: posts big blind $3
+*** HOLE CARDS ***
+rabbit3115: calls $2
+sinsadir: raises $3 to $6
+rabbit3115: calls $3
+*** FLOP *** [Ts 3d 7s]
+sinsadir: bets $3
+rabbit3115: raises $3 to $6
+sinsadir: calls $3
+*** TURN *** [Ts 3d 7s] [8d]
+sinsadir: checks
+rabbit3115: bets $6
+sinsadir: calls $6
+*** RIVER *** [Ts 3d 7s 8d] [6s]
+sinsadir: bets $6
+rabbit3115: raises $6 to $12
+sinsadir: calls $6
+*** SHOW DOWN ***
+rabbit3115: shows [Kd Td] (a pair of Tens)
+sinsadir: shows [Ac 9h] (a straight, Six to Ten)
+sinsadir collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Ts 3d 7s 8d 6s]
+Seat 1: rabbit3115 (button) (small blind) showed [Kd Td] and lost with a pair of Tens
+Seat 2: sinsadir (big blind) showed [Ac 9h] and won ($59.50) with a straight, Six to Ten
+
+

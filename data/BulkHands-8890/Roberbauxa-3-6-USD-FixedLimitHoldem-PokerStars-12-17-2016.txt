@@ -1,0 +1,32 @@
+PokerStars Hand #163095452407:  Hold'em Limit ($3/$6 USD) - 2016/12/17 14:04:44 ET
+Table 'Roberbauxa' 6-max Seat #2 is the button
+Seat 2: Krazy90 ($137.92 in chips)
+Seat 6: ABATAPP ($192.88 in chips)
+Krazy90: posts small blind $1
+undaDISGUISE: is sitting out
+ABATAPP: posts big blind $3
+*** HOLE CARDS ***
+Krazy90: raises $3 to $6
+ABATAPP: calls $3
+*** FLOP *** [4d Kd 8d]
+ABATAPP: checks
+Krazy90: bets $3
+ABATAPP: calls $3
+*** TURN *** [4d Kd 8d] [4s]
+ABATAPP: checks
+Krazy90: bets $6
+ABATAPP: calls $6
+*** RIVER *** [4d Kd 8d 4s] [Qd]
+ABATAPP: checks
+Krazy90: checks
+*** SHOW DOWN ***
+ABATAPP: shows [Jh 8s] (two pair, Eights and Fours)
+Krazy90: shows [2c 2d] (a flush, King high)
+Krazy90 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4d Kd 8d 4s Qd]
+Seat 2: Krazy90 (button) (small blind) showed [2c 2d] and won ($29.50) with a flush, King high
+Seat 6: ABATAPP (big blind) showed [Jh 8s] and lost with two pair, Eights and Fours
+
+

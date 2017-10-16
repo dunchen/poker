@@ -1,0 +1,91 @@
+PokerStars Hand #176455577237:  Hold'em Limit ($3/$6 USD) - 2017/10/03 17:24:51 ET
+Table 'Ilsebill' 6-max Seat #4 is the button
+Seat 3: 007buszek ($33 in chips)
+Seat 4: Zubasa07 ($297 in chips)
+Zubasa07: posts small blind $1
+007buszek: posts big blind $3
+*** HOLE CARDS ***
+Ag3r0n joins the table at seat #5
+Zubasa07: raises $3 to $6
+007buszek: calls $3
+*** FLOP *** [Ah 3c 8d]
+007buszek: checks
+Zubasa07: bets $3
+007buszek: folds
+Uncalled bet ($3) returned to Zubasa07
+Zubasa07 collected $11.76 from pot
+Zubasa07: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ah 3c 8d]
+Seat 3: 007buszek (big blind) folded on the Flop
+Seat 4: Zubasa07 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #176455597530:  Hold'em Limit ($3/$6 USD) - 2017/10/03 17:25:18 ET
+Table 'Ilsebill' 6-max Seat #3 is the button
+Seat 3: 007buszek ($27 in chips)
+Seat 4: Zubasa07 ($302.76 in chips)
+007buszek: posts small blind $1
+Zubasa07: posts big blind $3
+*** HOLE CARDS ***
+007buszek: raises $3 to $6
+Zubasa07: calls $3
+*** FLOP *** [Js 4c Jd]
+Zubasa07: checks
+007buszek: bets $3
+Zubasa07: raises $3 to $6
+007buszek: calls $3
+*** TURN *** [Js 4c Jd] [4s]
+Zubasa07: bets $6
+007buszek: raises $6 to $12
+Zubasa07: raises $6 to $18
+007buszek: calls $3 and is all-in
+Uncalled bet ($3) returned to Zubasa07
+*** RIVER *** [Js 4c Jd 4s] [4h]
+*** SHOW DOWN ***
+Zubasa07: shows [6s Jc] (a full house, Jacks full of Fours)
+007buszek: shows [4d Qc] (four of a kind, Fours)
+007buszek collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Js 4c Jd 4s 4h]
+Seat 3: 007buszek (button) (small blind) showed [4d Qc] and won ($53.50) with four of a kind, Fours
+Seat 4: Zubasa07 (big blind) showed [6s Jc] and lost with a full house, Jacks full of Fours
+
+
+PokerStars Hand #176455837030:  Hold'em Limit ($3/$6 USD) - 2017/10/03 17:30:35 ET
+Table 'Ilsebill' 6-max Seat #2 is the button
+Seat 2: carloshmz ($128.46 in chips)
+Seat 6: astonvilla87 ($283.90 in chips)
+carloshmz: posts small blind $1
+Ag3r0n: is sitting out
+astonvilla87: posts big blind $3
+*** HOLE CARDS ***
+carloshmz: raises $3 to $6
+astonvilla87: raises $3 to $9
+carloshmz: raises $3 to $12
+Betting is capped
+astonvilla87: calls $3
+*** FLOP *** [8s 7h Td]
+astonvilla87: checks
+carloshmz: bets $3
+astonvilla87: calls $3
+*** TURN *** [8s 7h Td] [Qc]
+astonvilla87: checks
+carloshmz: bets $6
+astonvilla87: calls $6
+*** RIVER *** [8s 7h Td Qc] [Kh]
+astonvilla87: bets $6
+carloshmz: calls $6
+*** SHOW DOWN ***
+astonvilla87: shows [Jc As] (a straight, Ten to Ace)
+carloshmz: mucks hand
+astonvilla87 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [8s 7h Td Qc Kh]
+Seat 2: carloshmz (button) (small blind) mucked
+Seat 6: astonvilla87 (big blind) showed [Jc As] and won ($53.50) with a straight, Ten to Ace
+
+

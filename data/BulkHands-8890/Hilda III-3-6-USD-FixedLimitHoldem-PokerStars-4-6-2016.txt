@@ -1,0 +1,36 @@
+PokerStars Hand #151516322844:  Hold'em Limit ($3/$6 USD) - 2016/04/06 10:33:07 ET
+Table 'Hilda III' 6-max Seat #3 is the button
+Seat 3: $hadyen ($41.81 in chips)
+Seat 5: owenheadch ($1034.37 in chips)
+$hadyen: posts small blind $1
+owenheadch: posts big blind $3
+*** HOLE CARDS ***
+$hadyen: raises $3 to $6
+owenheadch: raises $3 to $9
+$hadyen: calls $3
+*** FLOP *** [8d 6h Tc]
+owenheadch: bets $3
+$hadyen: raises $3 to $6
+owenheadch: raises $3 to $9
+$hadyen: raises $3 to $12
+Betting is capped
+owenheadch: calls $3
+*** TURN *** [8d 6h Tc] [Js]
+owenheadch: bets $6
+$hadyen: raises $6 to $12
+owenheadch: raises $6 to $18
+$hadyen: raises $2.81 to $20.81 and is all-in
+Betting is capped
+owenheadch: calls $2.81
+*** RIVER *** [8d 6h Tc Js] [4c]
+*** SHOW DOWN ***
+owenheadch: shows [Td Ah] (a pair of Tens)
+$hadyen: shows [Th 9d] (a pair of Tens - lower kicker)
+owenheadch collected $83.12 from pot
+*** SUMMARY ***
+Total pot $83.62 | Rake $0.50
+Board [8d 6h Tc Js 4c]
+Seat 3: $hadyen (button) (small blind) showed [Th 9d] and lost with a pair of Tens
+Seat 5: owenheadch (big blind) showed [Td Ah] and won ($83.12) with a pair of Tens
+
+

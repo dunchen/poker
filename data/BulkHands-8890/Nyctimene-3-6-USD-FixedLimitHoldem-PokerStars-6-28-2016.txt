@@ -1,0 +1,59 @@
+PokerStars Hand #155318624892:  Hold'em Limit ($3/$6 USD) - 2016/06/28 17:12:31 ET
+Table 'Nyctimene' 6-max Seat #1 is the button
+Seat 1: fluit83 ($42.18 in chips)
+Seat 5: TinaTurner72 ($120 in chips)
+fluit83: posts small blind $1
+TinaTurner72: posts big blind $3
+*** HOLE CARDS ***
+fluit83: raises $3 to $6
+TinaTurner72: calls $3
+*** FLOP *** [4s Js 2c]
+TinaTurner72: checks
+fluit83: bets $3
+TinaTurner72: calls $3
+*** TURN *** [4s Js 2c] [6d]
+TinaTurner72: checks
+fluit83: bets $6
+TinaTurner72: folds
+Uncalled bet ($6) returned to fluit83
+fluit83 collected $17.64 from pot
+fluit83: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4s Js 2c 6d]
+Seat 1: fluit83 (button) (small blind) collected ($17.64)
+Seat 5: TinaTurner72 (big blind) folded on the Turn
+
+
+PokerStars Hand #155318675826:  Hold'em Limit ($3/$6 USD) - 2016/06/28 17:13:36 ET
+Table 'Nyctimene' 6-max Seat #5 is the button
+Seat 1: fluit83 ($50.82 in chips)
+Seat 5: TinaTurner72 ($111 in chips)
+TinaTurner72: posts small blind $1
+fluit83: posts big blind $3
+*** HOLE CARDS ***
+TinaTurner72: raises $3 to $6
+fluit83: calls $3
+*** FLOP *** [5s 5c 4h]
+fluit83: checks
+TinaTurner72: bets $3
+fluit83: calls $3
+*** TURN *** [5s 5c 4h] [Ts]
+fluit83: checks
+TinaTurner72: bets $6
+fluit83: calls $6
+*** RIVER *** [5s 5c 4h Ts] [4d]
+fluit83: checks
+TinaTurner72: bets $6
+fluit83: calls $6
+*** SHOW DOWN ***
+TinaTurner72: shows [Qc 5h] (a full house, Fives full of Fours)
+fluit83: mucks hand
+TinaTurner72 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [5s 5c 4h Ts 4d]
+Seat 1: fluit83 (big blind) mucked
+Seat 5: TinaTurner72 (button) (small blind) showed [Qc 5h] and won ($41.50) with a full house, Fives full of Fours
+
+

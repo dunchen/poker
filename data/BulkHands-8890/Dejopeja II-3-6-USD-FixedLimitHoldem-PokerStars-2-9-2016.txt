@@ -1,0 +1,53 @@
+PokerStars Hand #148527946259:  Hold'em Limit ($3/$6 USD) - 2016/02/09 17:00:46 ET
+Table 'Dejopeja II' 2-max Seat #2 is the button
+Seat 1: elifnur2008 ($143.14 in chips)
+Seat 2: hadoken625 ($15.19 in chips)
+hadoken625: posts small blind $1
+elifnur2008: posts big blind $3
+*** HOLE CARDS ***
+hadoken625: raises $3 to $6
+elifnur2008: calls $3
+*** FLOP *** [5c Ts Qc]
+elifnur2008: checks
+hadoken625: bets $3
+elifnur2008: calls $3
+*** TURN *** [5c Ts Qc] [4h]
+elifnur2008: checks
+hadoken625: checks
+*** RIVER *** [5c Ts Qc 4h] [4s]
+elifnur2008: bets $6
+hadoken625: folds
+Uncalled bet ($6) returned to elifnur2008
+elifnur2008 collected $17.64 from pot
+elifnur2008: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5c Ts Qc 4h 4s]
+Seat 1: elifnur2008 (big blind) collected ($17.64)
+Seat 2: hadoken625 (button) (small blind) folded on the River
+
+
+PokerStars Hand #148527965217:  Hold'em Limit ($3/$6 USD) - 2016/02/09 17:01:06 ET
+Table 'Dejopeja II' 2-max Seat #1 is the button
+Seat 1: elifnur2008 ($151.78 in chips)
+Seat 2: hadoken625 ($6.19 in chips)
+elifnur2008: posts small blind $1
+hadoken625: posts big blind $3
+*** HOLE CARDS ***
+elifnur2008: raises $3 to $6
+hadoken625: raises $0.19 to $6.19 and is all-in
+elifnur2008: calls $0.19
+*** FLOP *** [Jh 9h Js]
+*** TURN *** [Jh 9h Js] [8c]
+*** RIVER *** [Jh 9h Js 8c] [2d]
+*** SHOW DOWN ***
+hadoken625: shows [7s 4s] (a pair of Jacks)
+elifnur2008: shows [Th 4d] (a pair of Jacks - Ten kicker)
+elifnur2008 collected $12.13 from pot
+*** SUMMARY ***
+Total pot $12.38 | Rake $0.25
+Board [Jh 9h Js 8c 2d]
+Seat 1: elifnur2008 (button) (small blind) showed [Th 4d] and won ($12.13) with a pair of Jacks
+Seat 2: hadoken625 (big blind) showed [7s 4s] and lost with a pair of Jacks
+
+

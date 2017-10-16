@@ -1,0 +1,59 @@
+PokerStars Hand #175599014050:  Hold'em Limit ($3/$6 USD) - 2017/09/13 14:37:17 ET
+Table 'Circe' 6-max Seat #4 is the button
+Seat 3: B_loJkl ($158.57 in chips)
+Seat 4: kungsbjörn ($208.72 in chips)
+kungsbjörn: posts small blind $1
+vestimokrec: is sitting out
+favete lin: is sitting out
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+kungsbjörn: raises $3 to $6
+asdfqwer1502 leaves the table
+B_loJkl: raises $3 to $9
+kungsbjörn: calls $3
+*** FLOP *** [Kd Jd Tc]
+vinipooh09 leaves the table
+vestimokrec leaves the table
+B_loJkl: bets $3
+kungsbjörn: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $17.64 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kd Jd Tc]
+Seat 3: B_loJkl (big blind) collected ($17.64)
+Seat 4: kungsbjörn (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #175599064895:  Hold'em Limit ($3/$6 USD) - 2017/09/13 14:38:22 ET
+Table 'Circe' 6-max Seat #3 is the button
+Seat 3: B_loJkl ($167.21 in chips)
+Seat 4: kungsbjörn ($199.72 in chips)
+B_loJkl: posts small blind $1
+kungsbjörn: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+kungsbjörn: calls $3
+*** FLOP *** [9d Ks As]
+kungsbjörn: checks
+B_loJkl: bets $3
+kungsbjörn: calls $3
+*** TURN *** [9d Ks As] [Jh]
+kungsbjörn: checks
+B_loJkl: checks
+*** RIVER *** [9d Ks As Jh] [3c]
+kungsbjörn: checks
+B_loJkl: bets $6
+kungsbjörn: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [Qh Js] (a pair of Jacks)
+kungsbjörn: mucks hand
+B_loJkl collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9d Ks As Jh 3c]
+Seat 3: B_loJkl (button) (small blind) showed [Qh Js] and won ($29.50) with a pair of Jacks
+Seat 4: kungsbjörn (big blind) mucked
+
+

@@ -1,0 +1,34 @@
+PokerStars Hand #171744464944:  Hold'em Limit ($3/$6 USD) - 2017/06/13 19:30:15 ET
+Table 'Himalia' 6-max Seat #6 is the button
+Seat 1: mramsy ($241.12 in chips)
+Seat 6: scorpio04 ($150 in chips)
+scorpio04: posts small blind $1
+mramsy: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl joins the table at seat #2
+belik555 joins the table at seat #3
+scorpio04: raises $3 to $6
+mramsy: raises $3 to $9
+scorpio04: calls $3
+*** FLOP *** [9h Qc 3c]
+mramsy: bets $3
+scorpio04: calls $3
+*** TURN *** [9h Qc 3c] [Ad]
+mramsy: bets $6
+scorpio04: raises $6 to $12
+mramsy: calls $6
+*** RIVER *** [9h Qc 3c Ad] [5d]
+mramsy: checks
+scorpio04: bets $6
+mramsy: calls $6
+*** SHOW DOWN ***
+scorpio04: shows [Qs 3d] (two pair, Queens and Threes)
+mramsy: mucks hand
+scorpio04 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [9h Qc 3c Ad 5d]
+Seat 1: mramsy (big blind) mucked
+Seat 6: scorpio04 (button) (small blind) showed [Qs 3d] and won ($59.50) with two pair, Queens and Threes
+
+

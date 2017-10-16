@@ -1,0 +1,33 @@
+PokerStars Hand #147015925835:  Hold'em Limit ($3/$6 USD) - 2016/01/14 8:11:38 ET
+Table 'Andraimon' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($131.52 in chips)
+Seat 3: sydlaura ($90.86 in chips)
+VolkovDmitri: posts small blind $1
+sydlaura: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+sydlaura: calls $3
+*** FLOP *** [4s 6s 6h]
+sydlaura: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [4s 6s 6h] [2c]
+sydlaura: checks
+bodo1444 joins the table at seat #2
+VolkovDmitri: bets $6
+HAL9QQQ joins the table at seat #6
+sydlaura: calls $6
+*** RIVER *** [4s 6s 6h 2c] [Js]
+sydlaura: checks
+VolkovDmitri: bets $6
+sydlaura: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [3s 9s] (a flush, Jack high)
+sydlaura: mucks hand
+VolkovDmitri collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [4s 6s 6h 2c Js]
+Seat 1: VolkovDmitri (button) (small blind) showed [3s 9s] and won ($41.50) with a flush, Jack high
+Seat 3: sydlaura (big blind) mucked
+
+

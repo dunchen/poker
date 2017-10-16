@@ -1,0 +1,63 @@
+PokerStars Hand #166740589017:  Hold'em Limit ($3/$6 USD) - 2017/02/25 6:03:59 ET
+Table 'Alrisha' 6-max Seat #1 is the button
+Seat 1: AA_ILI ($42.05 in chips)
+Seat 2: japachess ($113.50 in chips)
+AA_ILI: posts small blind $1
+japachess: posts big blind $3
+*** HOLE CARDS ***
+AA_ILI: calls $2
+japachess: raises $3 to $6
+AA_ILI: calls $3
+*** FLOP *** [8s Ad Jd]
+japachess: bets $3
+AA_ILI: calls $3
+*** TURN *** [8s Ad Jd] [Td]
+japachess: bets $6
+AA_ILI: calls $6
+*** RIVER *** [8s Ad Jd Td] [6h]
+japachess: bets $6
+AA_ILI: calls $6
+*** SHOW DOWN ***
+japachess: shows [Ah Kd] (a pair of Aces)
+AA_ILI: mucks hand
+japachess collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [8s Ad Jd Td 6h]
+Seat 1: AA_ILI (button) (small blind) mucked
+Seat 2: japachess (big blind) showed [Ah Kd] and won ($41.50) with a pair of Aces
+
+
+PokerStars Hand #166740573305:  Hold'em Limit ($3/$6 USD) - 2017/02/25 6:03:27 ET
+Table 'Alrisha' 6-max Seat #2 is the button
+Seat 1: AA_ILI ($69.05 in chips)
+Seat 2: japachess ($87 in chips)
+japachess: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+japachess: raises $3 to $6
+AA_ILI: calls $3
+*** FLOP *** [9s Td Ah]
+AA_ILI: checks
+japachess: bets $3
+AA_ILI: calls $3
+*** TURN *** [9s Td Ah] [2c]
+AA_ILI: checks
+japachess: bets $6
+kolaz03 joins the table at seat #3
+AA_ILI: calls $6
+*** RIVER *** [9s Td Ah 2c] [Jh]
+AA_ILI: bets $6
+japachess: raises $6 to $12
+AA_ILI: calls $6
+*** SHOW DOWN ***
+japachess: shows [2s As] (two pair, Aces and Deuces)
+AA_ILI: mucks hand
+japachess collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [9s Td Ah 2c Jh]
+Seat 1: AA_ILI (big blind) mucked
+Seat 2: japachess (button) (small blind) showed [2s As] and won ($53.50) with two pair, Aces and Deuces
+
+

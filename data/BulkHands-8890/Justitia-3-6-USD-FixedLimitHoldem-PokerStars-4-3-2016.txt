@@ -1,0 +1,551 @@
+PokerStars Hand #151358013049:  Hold'em Limit ($3/$6 USD) - 2016/04/03 6:45:49 ET
+Table 'Justitia' 10-max Seat #3 is the button
+Seat 3: shushlo ($72 in chips)
+Seat 8: VolkovDmitri ($120 in chips)
+shushlo: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+shushlo: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+shushlo: calls $3
+*** FLOP *** [4h 6h Kc]
+VolkovDmitri: bets $3
+shushlo: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [4h 6h Kc] [Th]
+VolkovDmitri: checks
+shushlo: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [4h 6h Kc Th] [2d]
+VolkovDmitri: bets $6
+shushlo: raises $6 to $12
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+shushlo: shows [Qh 3h] (a flush, Queen high)
+VolkovDmitri: mucks hand
+shushlo collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [4h 6h Kc Th 2d]
+Seat 3: shushlo (button) (small blind) showed [Qh 3h] and won ($65.50) with a flush, Queen high
+Seat 8: VolkovDmitri (big blind) mucked
+
+
+PokerStars Hand #151358057593:  Hold'em Limit ($3/$6 USD) - 2016/04/03 6:47:16 ET
+Table 'Justitia' 10-max Seat #8 is the button
+Seat 3: shushlo ($104.50 in chips)
+Seat 8: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+shushlo: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+shushlo: calls $3
+*** FLOP *** [8h Qd 7s]
+shushlo: checks
+VolkovDmitri: bets $3
+shushlo: calls $3
+*** TURN *** [8h Qd 7s] [Kd]
+shushlo: checks
+VolkovDmitri: checks
+*** RIVER *** [8h Qd 7s Kd] [5h]
+shushlo: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to shushlo
+shushlo collected $17.64 from pot
+shushlo: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8h Qd 7s Kd 5h]
+Seat 3: shushlo (big blind) collected ($17.64)
+Seat 8: VolkovDmitri (button) (small blind) folded on the River
+
+
+PokerStars Hand #151358100056:  Hold'em Limit ($3/$6 USD) - 2016/04/03 6:48:39 ET
+Table 'Justitia' 10-max Seat #3 is the button
+Seat 3: shushlo ($113.14 in chips)
+Seat 8: VolkovDmitri ($120 in chips)
+shushlo: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+shushlo: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Th Kc 4c]
+VolkovDmitri: checks
+shushlo: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [Th Kc 4c] [9c]
+VolkovDmitri: checks
+shushlo: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [Th Kc 4c 9c] [7d]
+VolkovDmitri: checks
+shushlo: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [6h Qc] (high card King)
+shushlo: shows [4d Ac] (a pair of Fours)
+shushlo collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Th Kc 4c 9c 7d]
+Seat 3: shushlo (button) (small blind) showed [4d Ac] and won ($29.50) with a pair of Fours
+Seat 8: VolkovDmitri (big blind) showed [6h Qc] and lost with high card King
+
+
+PokerStars Hand #151358139760:  Hold'em Limit ($3/$6 USD) - 2016/04/03 6:49:57 ET
+Table 'Justitia' 10-max Seat #8 is the button
+Seat 3: shushlo ($127.64 in chips)
+Seat 8: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+shushlo: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+shushlo: calls $3
+*** FLOP *** [7h Ah 4s]
+shushlo: checks
+VolkovDmitri: bets $3
+shushlo: calls $3
+*** TURN *** [7h Ah 4s] [Ad]
+shushlo: checks
+VolkovDmitri: checks
+*** RIVER *** [7h Ah 4s Ad] [2s]
+shushlo: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+shushlo: shows [Qs 4c] (two pair, Aces and Fours)
+VolkovDmitri: mucks hand
+shushlo collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7h Ah 4s Ad 2s]
+Seat 3: shushlo (big blind) showed [Qs 4c] and won ($17.64) with two pair, Aces and Fours
+Seat 8: VolkovDmitri (button) (small blind) mucked
+
+
+PokerStars Hand #151358178506:  Hold'em Limit ($3/$6 USD) - 2016/04/03 6:51:14 ET
+Table 'Justitia' 10-max Seat #3 is the button
+Seat 3: shushlo ($136.28 in chips)
+Seat 8: VolkovDmitri ($120 in chips)
+shushlo: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+shushlo: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Kd Ts Qd]
+VolkovDmitri: checks
+shushlo: bets $3
+VolkovDmitri: raises $3 to $6
+shushlo: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $17.64 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kd Ts Qd]
+Seat 3: shushlo (button) (small blind) folded on the Flop
+Seat 8: VolkovDmitri (big blind) collected ($17.64)
+
+
+PokerStars Hand #151358197124:  Hold'em Limit ($3/$6 USD) - 2016/04/03 6:51:50 ET
+Table 'Justitia' 10-max Seat #8 is the button
+Seat 3: shushlo ($127.28 in chips)
+Seat 8: VolkovDmitri ($128.64 in chips)
+VolkovDmitri: posts small blind $1
+shushlo: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+shushlo: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [6c 8s 6s]
+shushlo: bets $3
+VolkovDmitri: raises $3 to $6
+shushlo: calls $3
+*** TURN *** [6c 8s 6s] [5d]
+shushlo: checks
+VolkovDmitri: bets $6
+shushlo: calls $6
+*** RIVER *** [6c 8s 6s 5d] [9s]
+shushlo: checks
+VolkovDmitri: bets $6
+shushlo: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $41.50 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [6c 8s 6s 5d 9s]
+Seat 3: shushlo (big blind) folded on the River
+Seat 8: VolkovDmitri (button) (small blind) collected ($41.50)
+
+
+PokerStars Hand #151358242575:  Hold'em Limit ($3/$6 USD) - 2016/04/03 6:53:20 ET
+Table 'Justitia' 10-max Seat #3 is the button
+Seat 3: shushlo ($106.28 in chips)
+Seat 8: VolkovDmitri ($149.14 in chips)
+shushlo: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+shushlo: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [5s 4s 4h]
+VolkovDmitri: checks
+shushlo: checks
+*** TURN *** [5s 4s 4h] [5d]
+VolkovDmitri: bets $6
+shushlo: calls $6
+*** RIVER *** [5s 4s 4h 5d] [Ks]
+VolkovDmitri: checks
+shushlo: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [Ah 2d] (two pair, Fives and Fours)
+shushlo: mucks hand
+VolkovDmitri collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [5s 4s 4h 5d Ks]
+Seat 3: shushlo (button) (small blind) mucked
+Seat 8: VolkovDmitri (big blind) showed [Ah 2d] and won ($23.52) with two pair, Fives and Fours
+
+
+PokerStars Hand #151358310170:  Hold'em Limit ($3/$6 USD) - 2016/04/03 6:55:35 ET
+Table 'Justitia' 10-max Seat #3 is the button
+Seat 3: shushlo ($72 in chips)
+Seat 8: VolkovDmitri ($184.16 in chips)
+shushlo: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+shushlo: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: shushlo (button) (small blind) folded before Flop
+Seat 8: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #151358270406:  Hold'em Limit ($3/$6 USD) - 2016/04/03 6:54:14 ET
+Table 'Justitia' 10-max Seat #8 is the button
+Seat 3: shushlo ($94.28 in chips)
+Seat 8: VolkovDmitri ($160.66 in chips)
+VolkovDmitri: posts small blind $1
+shushlo: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+shushlo: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [Kd Th 4s]
+shushlo: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [Kd Th 4s] [Jc]
+shushlo: bets $6
+VolkovDmitri: raises $6 to $12
+shushlo: calls $6
+*** RIVER *** [Kd Th 4s Jc] [4h]
+shushlo: checks
+VolkovDmitri: bets $6
+shushlo: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $47.50 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Kd Th 4s Jc 4h]
+Seat 3: shushlo (big blind) folded on the River
+Seat 8: VolkovDmitri (button) (small blind) collected ($47.50)
+
+
+PokerStars Hand #151358312292:  Hold'em Limit ($3/$6 USD) - 2016/04/03 6:55:40 ET
+Table 'Justitia' 10-max Seat #8 is the button
+Seat 3: shushlo ($72 in chips)
+Seat 8: VolkovDmitri ($185.16 in chips)
+VolkovDmitri: posts small blind $1
+shushlo: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+shushlo: calls $3
+*** FLOP *** [Qs 7c Qh]
+shushlo: checks
+VolkovDmitri: bets $3
+shushlo: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qs 7c Qh]
+Seat 3: shushlo (big blind) folded on the Flop
+Seat 8: VolkovDmitri (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #151358326409:  Hold'em Limit ($3/$6 USD) - 2016/04/03 6:56:11 ET
+Table 'Justitia' 10-max Seat #3 is the button
+Seat 3: shushlo ($72 in chips)
+Seat 8: VolkovDmitri ($190.92 in chips)
+shushlo: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+shushlo: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+shushlo: calls $3
+*** FLOP *** [5d 6c 3s]
+VolkovDmitri: bets $3
+shushlo: calls $3
+*** TURN *** [5d 6c 3s] [Qs]
+VolkovDmitri: checks
+shushlo: checks
+*** RIVER *** [5d 6c 3s Qs] [Kd]
+VolkovDmitri: checks
+shushlo: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+shushlo: shows [9s 8h] (high card King)
+VolkovDmitri: shows [4c Ac] (high card Ace)
+VolkovDmitri collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5d 6c 3s Qs Kd]
+Seat 3: shushlo (button) (small blind) showed [9s 8h] and lost with high card King
+Seat 8: VolkovDmitri (big blind) showed [4c Ac] and won ($35.50) with high card Ace
+
+
+PokerStars Hand #151358382394:  Hold'em Limit ($3/$6 USD) - 2016/04/03 6:58:16 ET
+Table 'Justitia' 10-max Seat #3 is the button
+Seat 3: shushlo ($72 in chips)
+Seat 8: VolkovDmitri ($231.92 in chips)
+shushlo: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+shushlo: raises $3 to $6
+VolkovDmitri: folds
+Uncalled bet ($3) returned to shushlo
+shushlo collected $6 from pot
+shushlo: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: shushlo (button) (small blind) collected ($6)
+Seat 8: VolkovDmitri (big blind) folded before Flop
+
+
+PokerStars Hand #151358348406:  Hold'em Limit ($3/$6 USD) - 2016/04/03 6:57:00 ET
+Table 'Justitia' 10-max Seat #8 is the button
+Seat 3: shushlo ($72 in chips)
+Seat 8: VolkovDmitri ($208.42 in chips)
+VolkovDmitri: posts small blind $1
+shushlo: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+shushlo: calls $3
+*** FLOP *** [Qc 6c Tc]
+shushlo: checks
+VolkovDmitri: bets $3
+shushlo: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [Qc 6c Tc] [2h]
+shushlo: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [Qc 6c Tc 2h] [9s]
+shushlo: checks
+VolkovDmitri: bets $6
+shushlo: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [8c 7s] (a straight, Six to Ten)
+shushlo: mucks hand
+VolkovDmitri collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Qc 6c Tc 2h 9s]
+Seat 3: shushlo (big blind) mucked
+Seat 8: VolkovDmitri (button) (small blind) showed [8c 7s] and won ($47.50) with a straight, Six to Ten
+
+
+PokerStars Hand #151358387616:  Hold'em Limit ($3/$6 USD) - 2016/04/03 6:58:28 ET
+Table 'Justitia' 10-max Seat #8 is the button
+Seat 3: shushlo ($75 in chips)
+Seat 8: VolkovDmitri ($228.92 in chips)
+VolkovDmitri: posts small blind $1
+shushlo: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+shushlo: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [Qs Kh 5d]
+shushlo: bets $3
+VolkovDmitri: folds
+Uncalled bet ($3) returned to shushlo
+shushlo collected $17.64 from pot
+shushlo: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qs Kh 5d]
+Seat 3: shushlo (big blind) collected ($17.64)
+Seat 8: VolkovDmitri (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #151358406234:  Hold'em Limit ($3/$6 USD) - 2016/04/03 6:59:09 ET
+Table 'Justitia' 10-max Seat #3 is the button
+Seat 3: shushlo ($83.64 in chips)
+Seat 8: VolkovDmitri ($219.92 in chips)
+shushlo: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+shushlo: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Ah 7h 5d]
+VolkovDmitri: checks
+shushlo: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [Ah 7h 5d] [Ts]
+VolkovDmitri: checks
+shushlo: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [Ah 7h 5d Ts] [6c]
+VolkovDmitri: checks
+shushlo: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+shushlo: shows [4c Ad] (a pair of Aces)
+VolkovDmitri: mucks hand
+shushlo collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ah 7h 5d Ts 6c]
+Seat 3: shushlo (button) (small blind) showed [4c Ad] and won ($41.50) with a pair of Aces
+Seat 8: VolkovDmitri (big blind) mucked
+
+
+PokerStars Hand #151358439747:  Hold'em Limit ($3/$6 USD) - 2016/04/03 7:00:22 ET
+Table 'Justitia' 10-max Seat #8 is the button
+Seat 3: shushlo ($104.14 in chips)
+Seat 8: VolkovDmitri ($198.92 in chips)
+VolkovDmitri: posts small blind $1
+shushlo: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+shushlo: calls $3
+*** FLOP *** [Ad 5s 7d]
+shushlo: checks
+VolkovDmitri: bets $3
+shushlo: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [Ad 5s 7d] [6s]
+shushlo: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [Ad 5s 7d 6s] [Ac]
+shushlo: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to shushlo
+shushlo collected $35.50 from pot
+shushlo: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Ad 5s 7d 6s Ac]
+Seat 3: shushlo (big blind) collected ($35.50)
+Seat 8: VolkovDmitri (button) (small blind) folded on the River
+
+
+PokerStars Hand #151358480675:  Hold'em Limit ($3/$6 USD) - 2016/04/03 7:01:45 ET
+Table 'Justitia' 10-max Seat #3 is the button
+Seat 3: shushlo ($121.64 in chips)
+Seat 8: VolkovDmitri ($180.92 in chips)
+shushlo: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+shushlo: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [2s 8d 7c]
+VolkovDmitri: checks
+shushlo: checks
+*** TURN *** [2s 8d 7c] [Qd]
+VolkovDmitri: bets $6
+shushlo: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2s 8d 7c Qd]
+Seat 3: shushlo (button) (small blind) folded on the Turn
+Seat 8: VolkovDmitri (big blind) collected ($11.76)
+
+
+PokerStars Hand #151358509850:  Hold'em Limit ($3/$6 USD) - 2016/04/03 7:02:41 ET
+Table 'Justitia' 10-max Seat #8 is the button
+Seat 3: shushlo ($115.64 in chips)
+Seat 8: VolkovDmitri ($186.68 in chips)
+VolkovDmitri: posts small blind $1
+shushlo: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+shushlo: calls $3
+*** FLOP *** [8c 6s Ac]
+shushlo: checks
+VolkovDmitri: bets $3
+shushlo: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8c 6s Ac]
+Seat 3: shushlo (big blind) folded on the Flop
+Seat 8: VolkovDmitri (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #151358531984:  Hold'em Limit ($3/$6 USD) - 2016/04/03 7:03:23 ET
+Table 'Justitia' 10-max Seat #3 is the button
+Seat 3: shushlo ($109.64 in chips)
+Seat 8: VolkovDmitri ($192.44 in chips)
+shushlo: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+shushlo: raises $3 to $6
+VolkovDmitri: folds
+Uncalled bet ($3) returned to shushlo
+shushlo collected $6 from pot
+shushlo: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: shushlo (button) (small blind) collected ($6)
+Seat 8: VolkovDmitri (big blind) folded before Flop
+
+
+PokerStars Hand #151358538876:  Hold'em Limit ($3/$6 USD) - 2016/04/03 7:03:36 ET
+Table 'Justitia' 10-max Seat #8 is the button
+Seat 3: shushlo ($112.64 in chips)
+Seat 8: VolkovDmitri ($189.44 in chips)
+VolkovDmitri: posts small blind $1
+shushlo: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: folds
+Uncalled bet ($2) returned to shushlo
+shushlo collected $2 from pot
+shushlo: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: shushlo (big blind) collected ($2)
+Seat 8: VolkovDmitri (button) (small blind) folded before Flop
+
+
+PokerStars Hand #151358544098:  Hold'em Limit ($3/$6 USD) - 2016/04/03 7:03:46 ET
+Table 'Justitia' 10-max Seat #3 is the button
+Seat 3: shushlo ($113.64 in chips)
+Seat 8: VolkovDmitri ($188.44 in chips)
+shushlo: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+shushlo: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Ah Kd 6h]
+VolkovDmitri: checks
+shushlo: bets $3
+VolkovDmitri: folds
+Uncalled bet ($3) returned to shushlo
+shushlo collected $11.76 from pot
+shushlo: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ah Kd 6h]
+Seat 3: shushlo (button) (small blind) collected ($11.76)
+Seat 8: VolkovDmitri (big blind) folded on the Flop
+
+

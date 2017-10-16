@@ -1,0 +1,32 @@
+PokerStars Hand #167973365439:  Hold'em Limit ($3/$6 USD) - 2017/03/22 19:48:16 ET
+Table 'Simona' 6-max Seat #5 is the button
+Seat 4: Actionni13 ($170.50 in chips)
+Seat 5: LotsaBalls12 ($29.25 in chips)
+LotsaBalls12: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+LotsaBalls12: raises $3 to $6
+Actionni13: calls $3
+*** FLOP *** [2h Qh 3c]
+Actionni13: checks
+LotsaBalls12: bets $3
+Actionni13: calls $3
+*** TURN *** [2h Qh 3c] [4d]
+Actionni13: checks
+LotsaBalls12: checks
+*** RIVER *** [2h Qh 3c 4d] [4s]
+Actionni13: bets $6
+LotsaBalls12: raises $6 to $12
+Actionni13: raises $6 to $18
+LotsaBalls12: calls $6
+*** SHOW DOWN ***
+Actionni13: shows [6c 5s] (a straight, Deuce to Six)
+LotsaBalls12: mucks hand
+Actionni13 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [2h Qh 3c 4d 4s]
+Seat 4: Actionni13 (big blind) showed [6c 5s] and won ($53.50) with a straight, Deuce to Six
+Seat 5: LotsaBalls12 (button) (small blind) mucked
+
+

@@ -1,0 +1,60 @@
+PokerStars Hand #167086996364:  Hold'em Limit ($3/$6 USD) - 2017/03/04 4:33:15 ET
+Table 'Demophon' 6-max Seat #3 is the button
+Seat 1: kudongo ($173.98 in chips)
+Seat 3: Chessnok ($119.42 in chips)
+Chessnok: posts small blind $1
+Azrarn: is sitting out
+kudongo: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+Azrarn leaves the table
+kudongo: raises $3 to $9
+Chessnok: calls $3
+*** FLOP *** [7d Js 9h]
+kudongo: bets $3
+Chessnok: calls $3
+*** TURN *** [7d Js 9h] [As]
+kudongo: bets $6
+Chessnok: folds
+Uncalled bet ($6) returned to kudongo
+kudongo collected $23.52 from pot
+kudongo: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [7d Js 9h As]
+Seat 1: kudongo (big blind) collected ($23.52)
+Seat 3: Chessnok (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #167087002479:  Hold'em Limit ($3/$6 USD) - 2017/03/04 4:33:31 ET
+Table 'Demophon' 6-max Seat #1 is the button
+Seat 1: kudongo ($185.50 in chips)
+Seat 3: Chessnok ($107.42 in chips)
+kudongo: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+kudongo: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [Td Ks 9d]
+Chessnok: checks
+kudongo: bets $3
+Chessnok: calls $3
+*** TURN *** [Td Ks 9d] [6d]
+Chessnok: checks
+kudongo: bets $6
+Chessnok: calls $6
+*** RIVER *** [Td Ks 9d 6d] [Th]
+Chessnok: checks
+kudongo: bets $6
+Chessnok: calls $6
+*** SHOW DOWN ***
+kudongo: shows [7c 8s] (a straight, Six to Ten)
+Chessnok: mucks hand
+kudongo collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Td Ks 9d 6d Th]
+Seat 1: kudongo (button) (small blind) showed [7c 8s] and won ($41.50) with a straight, Six to Ten
+Seat 3: Chessnok (big blind) mucked
+
+

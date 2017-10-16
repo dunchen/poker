@@ -1,0 +1,32 @@
+PokerStars Hand #145359693411:  Hold'em Limit ($3/$6 USD) - 2015/12/14 19:49:45 ET
+Table 'Hodios' 6-max Seat #3 is the button
+Seat 1: PycV ($141 in chips)
+Seat 3: oj_pimpson ($182.74 in chips)
+oj_pimpson: posts small blind $1
+Bedard: is sitting out
+PycV: posts big blind $3
+*** HOLE CARDS ***
+Bedard leaves the table
+oj_pimpson: raises $3 to $6
+PycV: calls $3
+*** FLOP *** [4h 5c 6d]
+PycV: checks
+oj_pimpson: bets $3
+PycV: raises $3 to $6
+oj_pimpson: calls $3
+*** TURN *** [4h 5c 6d] [8h]
+PycV: bets $6
+oj_pimpson: calls $6
+*** RIVER *** [4h 5c 6d 8h] [5s]
+PycV: checks
+oj_pimpson: bets $6
+PycV: folds
+Uncalled bet ($6) returned to oj_pimpson
+oj_pimpson collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [4h 5c 6d 8h 5s]
+Seat 1: PycV (big blind) folded on the River
+Seat 3: oj_pimpson (button) (small blind) collected ($35.50)
+
+

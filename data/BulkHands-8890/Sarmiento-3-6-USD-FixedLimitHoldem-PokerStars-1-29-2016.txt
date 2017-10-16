@@ -1,0 +1,74 @@
+PokerStars Hand #147856207672:  Hold'em Limit ($3/$6 USD) - 2016/01/28 21:59:23 ET
+Table 'Sarmiento' 6-max Seat #3 is the button
+Seat 3: rttattar ($60 in chips)
+Seat 4: AzureCaper ($72 in chips)
+rttattar: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+rttattar: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [9h Qd Jd]
+AzureCaper: checks
+rttattar: bets $3
+AzureCaper: raises $3 to $6
+rttattar: calls $3
+*** TURN *** [9h Qd Jd] [4c]
+AzureCaper: bets $6
+rttattar: calls $6
+*** RIVER *** [9h Qd Jd 4c] [Kc]
+AzureCaper: bets $6
+rttattar: calls $6
+*** SHOW DOWN ***
+AzureCaper: shows [9s Qc] (two pair, Queens and Nines)
+rttattar: mucks hand
+AzureCaper collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9h Qd Jd 4c Kc]
+Seat 3: rttattar (button) (small blind) mucked
+Seat 4: AzureCaper (big blind) showed [9s Qc] and won ($47.50) with two pair, Queens and Nines
+
+
+PokerStars Hand #147856216630:  Hold'em Limit ($3/$6 USD) - 2016/01/28 21:59:49 ET
+Table 'Sarmiento' 6-max Seat #4 is the button
+Seat 3: rttattar ($36 in chips)
+Seat 4: AzureCaper ($95.50 in chips)
+AzureCaper: posts small blind $1
+rttattar: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: folds
+Uncalled bet ($2) returned to rttattar
+rttattar collected $2 from pot
+rttattar: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: rttattar (big blind) collected ($2)
+Seat 4: AzureCaper (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147856218238:  Hold'em Limit ($3/$6 USD) - 2016/01/28 21:59:53 ET
+Table 'Sarmiento' 6-max Seat #3 is the button
+Seat 3: rttattar ($37 in chips)
+Seat 4: AzureCaper ($94.50 in chips)
+rttattar: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+rttattar: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [2c 3d Ts]
+Ulett_23 joins the table at seat #5
+AzureCaper: bets $3
+rttattar: calls $3
+*** TURN *** [2c 3d Ts] [8s]
+AzureCaper: bets $6
+rttattar: folds
+Uncalled bet ($6) returned to AzureCaper
+AzureCaper collected $17.64 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2c 3d Ts 8s]
+Seat 3: rttattar (button) (small blind) folded on the Turn
+Seat 4: AzureCaper (big blind) collected ($17.64)
+
+

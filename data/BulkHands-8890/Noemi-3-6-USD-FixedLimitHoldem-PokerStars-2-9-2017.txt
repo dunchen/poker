@@ -1,0 +1,299 @@
+PokerStars Hand #165926160370:  Hold'em Limit ($3/$6 USD) - 2017/02/09 6:26:33 ET
+Table 'Noemi' 6-max Seat #5 is the button
+Seat 3: sim5sim5 ($92.50 in chips)
+Seat 5: belik555 ($90 in chips)
+belik555: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+belik555: raises $3 to $6
+sim5sim5: folds
+Uncalled bet ($3) returned to belik555
+belik555 collected $6 from pot
+belik555: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: sim5sim5 (big blind) folded before Flop
+Seat 5: belik555 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #165926198624:  Hold'em Limit ($3/$6 USD) - 2017/02/09 6:27:49 ET
+Table 'Noemi' 6-max Seat #4 is the button
+Seat 3: sim5sim5 ($88.50 in chips)
+Seat 4: nordschrott ($33.43 in chips)
+nordschrott: posts small blind $1
+belik555: is sitting out
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+nordschrott: calls $2
+sim5sim5: checks
+*** FLOP *** [9d Tc 3c]
+sim5sim5: checks
+nordschrott: bets $3
+sim5sim5: calls $3
+*** TURN *** [9d Tc 3c] [8h]
+sim5sim5: checks
+nordschrott: bets $6
+sim5sim5: calls $6
+*** RIVER *** [9d Tc 3c 8h] [7c]
+sim5sim5: checks
+nordschrott: bets $6
+sim5sim5: calls $6
+*** SHOW DOWN ***
+nordschrott: shows [6s 4c] (a straight, Six to Ten)
+sim5sim5: mucks hand
+nordschrott collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [9d Tc 3c 8h 7c]
+Seat 3: sim5sim5 (big blind) mucked
+Seat 4: nordschrott (button) (small blind) showed [6s 4c] and won ($35.50) with a straight, Six to Ten
+
+
+PokerStars Hand #165926235542:  Hold'em Limit ($3/$6 USD) - 2017/02/09 6:29:03 ET
+Table 'Noemi' 6-max Seat #4 is the button
+Seat 3: sim5sim5 ($86.50 in chips)
+Seat 4: nordschrott ($35.93 in chips)
+nordschrott: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+nordschrott: calls $2
+sim5sim5: checks
+*** FLOP *** [6d Kd Jh]
+sim5sim5: bets $3
+nordschrott: calls $3
+*** TURN *** [6d Kd Jh] [Qs]
+sim5sim5: checks
+nordschrott: checks
+*** RIVER *** [6d Kd Jh Qs] [Qh]
+sim5sim5: checks
+nordschrott: checks
+*** SHOW DOWN ***
+sim5sim5: shows [6h 2h] (two pair, Queens and Sixes)
+nordschrott: mucks hand
+sim5sim5 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6d Kd Jh Qs Qh]
+Seat 3: sim5sim5 (big blind) showed [6h 2h] and won ($11.76) with two pair, Queens and Sixes
+Seat 4: nordschrott (button) (small blind) mucked
+
+
+PokerStars Hand #165926225001:  Hold'em Limit ($3/$6 USD) - 2017/02/09 6:28:42 ET
+Table 'Noemi' 6-max Seat #3 is the button
+Seat 3: sim5sim5 ($72 in chips)
+Seat 4: nordschrott ($50.93 in chips)
+sim5sim5: posts small blind $1
+nordschrott: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+nordschrott: calls $3
+*** FLOP *** [5c 3c 2c]
+nordschrott: checks
+sim5sim5: bets $3
+nordschrott: calls $3
+*** TURN *** [5c 3c 2c] [Kc]
+nordschrott: checks
+sim5sim5: checks
+*** RIVER *** [5c 3c 2c Kc] [7s]
+nordschrott: bets $6
+sim5sim5: calls $6
+*** SHOW DOWN ***
+nordschrott: shows [Th Ts] (a pair of Tens)
+sim5sim5: shows [3d Ks] (two pair, Kings and Threes)
+sim5sim5 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5c 3c 2c Kc 7s]
+Seat 3: sim5sim5 (button) (small blind) showed [3d Ks] and won ($29.50) with two pair, Kings and Threes
+Seat 4: nordschrott (big blind) showed [Th Ts] and lost with a pair of Tens
+
+
+PokerStars Hand #165926246142:  Hold'em Limit ($3/$6 USD) - 2017/02/09 6:29:25 ET
+Table 'Noemi' 6-max Seat #3 is the button
+Seat 3: sim5sim5 ($92.26 in chips)
+Seat 4: nordschrott ($29.93 in chips)
+sim5sim5: posts small blind $1
+nordschrott: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+nordschrott: calls $3
+*** FLOP *** [7h 6c Th]
+belik555 leaves the table
+nordschrott: checks
+sim5sim5: bets $3
+nordschrott: calls $3
+*** TURN *** [7h 6c Th] [9c]
+nordschrott: checks
+sim5sim5: bets $6
+nordschrott: calls $6
+*** RIVER *** [7h 6c Th 9c] [9h]
+nordschrott: checks
+sim5sim5: bets $6
+nordschrott: calls $6
+*** SHOW DOWN ***
+sim5sim5: shows [9d 4d] (three of a kind, Nines)
+nordschrott: shows [Qd 9s] (three of a kind, Nines - Queen kicker)
+nordschrott collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [7h 6c Th 9c 9h]
+Seat 3: sim5sim5 (button) (small blind) showed [9d 4d] and lost with three of a kind, Nines
+Seat 4: nordschrott (big blind) showed [Qd 9s] and won ($41.50) with three of a kind, Nines
+
+
+PokerStars Hand #165926278276:  Hold'em Limit ($3/$6 USD) - 2017/02/09 6:30:10 ET
+Table 'Noemi' 6-max Seat #3 is the button
+Seat 3: sim5sim5 ($72 in chips)
+Seat 4: nordschrott ($53.31 in chips)
+sim5sim5: posts small blind $1
+nordschrott: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+nordschrott: calls $3
+*** FLOP *** [5h Kc 4h]
+nordschrott: checks
+sim5sim5: bets $3
+nordschrott: calls $3
+*** TURN *** [5h Kc 4h] [Tc]
+nordschrott: checks
+sim5sim5: bets $6
+nordschrott: calls $6
+*** RIVER *** [5h Kc 4h Tc] [Qc]
+nordschrott: checks
+sim5sim5: checks
+*** SHOW DOWN ***
+nordschrott: shows [Ts 6h] (a pair of Tens)
+sim5sim5: shows [Th Jd] (a pair of Tens - King+Queen+Jack kicker)
+sim5sim5 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5h Kc 4h Tc Qc]
+Seat 3: sim5sim5 (button) (small blind) showed [Th Jd] and won ($29.50) with a pair of Tens
+Seat 4: nordschrott (big blind) showed [Ts 6h] and lost with a pair of Tens
+
+
+PokerStars Hand #165926257079:  Hold'em Limit ($3/$6 USD) - 2017/02/09 6:29:47 ET
+Table 'Noemi' 6-max Seat #4 is the button
+Seat 3: sim5sim5 ($72 in chips)
+Seat 4: nordschrott ($50.43 in chips)
+nordschrott: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+nordschrott: calls $2
+sim5sim5: checks
+*** FLOP *** [3s Ad 2s]
+TbIP-TbIP 88 joins the table at seat #5
+sim5sim5: checks
+nordschrott: bets $3
+sim5sim5: folds
+Uncalled bet ($3) returned to nordschrott
+nordschrott collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [3s Ad 2s]
+Seat 3: sim5sim5 (big blind) folded on the Flop
+Seat 4: nordschrott (button) (small blind) collected ($5.88)
+
+
+PokerStars Hand #165926431338:  Hold'em Limit ($3/$6 USD) - 2017/02/09 6:35:13 ET
+Table 'Noemi' 6-max Seat #5 is the button
+Seat 4: nordschrott ($74.84 in chips)
+Seat 5: TbIP-TbIP 88 ($73 in chips)
+TbIP-TbIP 88: posts small blind $1
+nordschrott: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88: raises $3 to $6
+nordschrott: calls $3
+*** FLOP *** [3c Js 4h]
+nordschrott: checks
+TbIP-TbIP 88: bets $3
+nordschrott: calls $3
+*** TURN *** [3c Js 4h] [Kd]
+nordschrott: checks
+TbIP-TbIP 88: checks
+*** RIVER *** [3c Js 4h Kd] [Td]
+nordschrott: checks
+TbIP-TbIP 88: bets $6
+nordschrott: folds
+Uncalled bet ($6) returned to TbIP-TbIP 88
+TbIP-TbIP 88 collected $17.64 from pot
+TbIP-TbIP 88: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3c Js 4h Kd Td]
+Seat 4: nordschrott (big blind) folded on the River
+Seat 5: TbIP-TbIP 88 (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #165926415950:  Hold'em Limit ($3/$6 USD) - 2017/02/09 6:34:43 ET
+Table 'Noemi' 6-max Seat #5 is the button
+Seat 4: nordschrott ($61.34 in chips)
+Seat 5: TbIP-TbIP 88 ($72 in chips)
+TbIP-TbIP 88: posts small blind $1
+Fabulous108: is sitting out
+nordschrott: posts big blind $3
+*** HOLE CARDS ***
+Fabulous108 leaves the table
+TbIP-TbIP 88: raises $3 to $6
+nordschrott: calls $3
+*** FLOP *** [Qs 7d Jc]
+nordschrott: checks
+TbIP-TbIP 88: bets $3
+nordschrott: calls $3
+*** TURN *** [Qs 7d Jc] [Jd]
+nordschrott: checks
+TbIP-TbIP 88: checks
+*** RIVER *** [Qs 7d Jc Jd] [4c]
+nordschrott: bets $6
+TbIP-TbIP 88: calls $6
+*** SHOW DOWN ***
+nordschrott: shows [Qh Qc] (a full house, Queens full of Jacks)
+TbIP-TbIP 88: mucks hand
+nordschrott collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qs 7d Jc Jd 4c]
+Seat 4: nordschrott (big blind) showed [Qh Qc] and won ($29.50) with a full house, Queens full of Jacks
+Seat 5: TbIP-TbIP 88 (button) (small blind) mucked
+
+
+PokerStars Hand #165926428318:  Hold'em Limit ($3/$6 USD) - 2017/02/09 6:35:07 ET
+Table 'Noemi' 6-max Seat #4 is the button
+Seat 4: nordschrott ($75.84 in chips)
+Seat 5: TbIP-TbIP 88 ($72 in chips)
+nordschrott: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+nordschrott: folds
+Uncalled bet ($2) returned to TbIP-TbIP 88
+TbIP-TbIP 88 collected $2 from pot
+TbIP-TbIP 88: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: nordschrott (button) (small blind) folded before Flop
+Seat 5: TbIP-TbIP 88 (big blind) collected ($2)
+
+
+PokerStars Hand #165926444714:  Hold'em Limit ($3/$6 USD) - 2017/02/09 6:35:39 ET
+Table 'Noemi' 6-max Seat #4 is the button
+Seat 4: nordschrott ($65.84 in chips)
+Seat 5: TbIP-TbIP 88 ($81.64 in chips)
+nordschrott: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5 joins the table at seat #6
+nordschrott: calls $2
+TbIP-TbIP 88: checks
+*** FLOP *** [3d 2s 9h]
+TbIP-TbIP 88: bets $3
+nordschrott: folds
+Uncalled bet ($3) returned to TbIP-TbIP 88
+TbIP-TbIP 88 collected $5.88 from pot
+TbIP-TbIP 88: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [3d 2s 9h]
+Seat 4: nordschrott (button) (small blind) folded on the Flop
+Seat 5: TbIP-TbIP 88 (big blind) collected ($5.88)
+
+

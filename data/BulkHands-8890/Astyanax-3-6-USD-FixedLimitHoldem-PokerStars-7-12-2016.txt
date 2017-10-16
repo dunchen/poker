@@ -1,0 +1,31 @@
+PokerStars Hand #155898668482:  Hold'em Limit ($3/$6 USD) - 2016/07/12 19:05:48 ET
+Table 'Astyanax' 6-max Seat #6 is the button
+Seat 5: Makomar ($76.34 in chips)
+Seat 6: musja_kusja ($86.17 in chips)
+musja_kusja: posts small blind $1
+TinaTurner72: is sitting out
+Makomar: posts big blind $3
+*** HOLE CARDS ***
+musja_kusja: raises $3 to $6
+Makomar: calls $3
+*** FLOP *** [9s Kc 6c]
+Makomar: checks
+musja_kusja: checks
+*** TURN *** [9s Kc 6c] [4c]
+Makomar: checks
+musja_kusja: bets $6
+Makomar: calls $6
+*** RIVER *** [9s Kc 6c 4c] [Jd]
+Makomar: checks
+musja_kusja: checks
+*** SHOW DOWN ***
+Makomar: shows [2c Ad] (high card Ace)
+musja_kusja: shows [4h Th] (a pair of Fours)
+musja_kusja collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [9s Kc 6c 4c Jd]
+Seat 5: Makomar (big blind) showed [2c Ad] and lost with high card Ace
+Seat 6: musja_kusja (button) (small blind) showed [4h Th] and won ($23.52) with a pair of Fours
+
+

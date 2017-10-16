@@ -1,0 +1,34 @@
+PokerStars Hand #165080499846:  Hold'em Limit ($3/$6 USD) - 2017/01/24 3:10:10 ET
+Table 'Virtus' 6-max Seat #2 is the button
+Seat 2: Faqquer ($111.95 in chips)
+Seat 6: Agrotait ($96.67 in chips)
+Faqquer: posts small blind $1
+nicmct: is sitting out
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+Faqquer: raises $3 to $6
+nicmct leaves the table
+Agrotait: raises $3 to $9
+Faqquer: calls $3
+*** FLOP *** [8d Qh 5s]
+Agrotait: bets $3
+Faqquer: calls $3
+*** TURN *** [8d Qh 5s] [4h]
+AzureCaper joins the table at seat #3
+Agrotait: bets $6
+Faqquer: calls $6
+*** RIVER *** [8d Qh 5s 4h] [3s]
+Agrotait: bets $6
+manly70 joins the table at seat #4
+Faqquer: calls $6
+*** SHOW DOWN ***
+Agrotait: shows [7s 9s] (high card Queen)
+Faqquer: shows [5c As] (a pair of Fives)
+Faqquer collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8d Qh 5s 4h 3s]
+Seat 2: Faqquer (button) (small blind) showed [5c As] and won ($47.50) with a pair of Fives
+Seat 6: Agrotait (big blind) showed [7s 9s] and lost with high card Queen
+
+

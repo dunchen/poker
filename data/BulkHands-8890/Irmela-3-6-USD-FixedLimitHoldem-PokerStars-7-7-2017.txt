@@ -1,0 +1,471 @@
+PokerStars Hand #172706822024:  Hold'em Limit ($3/$6 USD) - 2017/07/07 1:34:05 ET
+Table 'Irmela' 6-max Seat #4 is the button
+Seat 1: nicmct ($220.40 in chips)
+Seat 4: B_loJkl ($44.42 in chips)
+B_loJkl: posts small blind $1
+nicmct: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+nicmct: calls $3
+*** FLOP *** [9d 2c 7d]
+nicmct: checks
+B_loJkl: bets $3
+nicmct: calls $3
+*** TURN *** [9d 2c 7d] [5d]
+nicmct: checks
+B_loJkl: bets $6
+nicmct: calls $6
+*** RIVER *** [9d 2c 7d 5d] [Ad]
+nicmct: checks
+B_loJkl: bets $6
+nicmct: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [Td 6d] (a flush, Ace high)
+nicmct: mucks hand
+B_loJkl collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9d 2c 7d 5d Ad]
+Seat 1: nicmct (big blind) mucked
+Seat 4: B_loJkl (button) (small blind) showed [Td 6d] and won ($41.50) with a flush, Ace high
+
+
+PokerStars Hand #172706835224:  Hold'em Limit ($3/$6 USD) - 2017/07/07 1:34:58 ET
+Table 'Irmela' 6-max Seat #4 is the button
+Seat 1: nicmct ($222.90 in chips)
+Seat 4: B_loJkl ($40.92 in chips)
+B_loJkl: posts small blind $1
+nicmct: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+nicmct: calls $3
+*** FLOP *** [4h 5c 9h]
+nicmct: checks
+B_loJkl: bets $3
+nicmct: calls $3
+*** TURN *** [4h 5c 9h] [8d]
+nicmct: checks
+B_loJkl: bets $6
+nicmct: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $17.64 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4h 5c 9h 8d]
+Seat 1: nicmct (big blind) folded on the Turn
+Seat 4: B_loJkl (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #172706827851:  Hold'em Limit ($3/$6 USD) - 2017/07/07 1:34:28 ET
+Table 'Irmela' 6-max Seat #1 is the button
+Seat 1: nicmct ($199.40 in chips)
+Seat 4: B_loJkl ($64.92 in chips)
+nicmct: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+nicmct: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [2d 3h 9c]
+B_loJkl: checks
+nicmct: bets $3
+B_loJkl: raises $3 to $6
+nicmct: calls $3
+*** TURN *** [2d 3h 9c] [Kh]
+B_loJkl: bets $6
+nicmct: calls $6
+*** RIVER *** [2d 3h 9c Kh] [6s]
+B_loJkl: bets $6
+nicmct: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [4c Ts] (high card King)
+nicmct: shows [3d 4h] (a pair of Threes)
+nicmct collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2d 3h 9c Kh 6s]
+Seat 1: nicmct (button) (small blind) showed [3d 4h] and won ($47.50) with a pair of Threes
+Seat 4: B_loJkl (big blind) showed [4c Ts] and lost with high card King
+
+
+PokerStars Hand #172706850930:  Hold'em Limit ($3/$6 USD) - 2017/07/07 1:36:00 ET
+Table 'Irmela' 6-max Seat #1 is the button
+Seat 1: nicmct ($242.16 in chips)
+Seat 4: B_loJkl ($80.56 in chips)
+nicmct: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+nicmct: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: nicmct (button) (small blind) folded before Flop
+Seat 4: B_loJkl (big blind) collected ($2)
+
+
+PokerStars Hand #172706849772:  Hold'em Limit ($3/$6 USD) - 2017/07/07 1:35:56 ET
+Table 'Irmela' 6-max Seat #4 is the button
+Seat 1: nicmct ($241.16 in chips)
+Seat 4: B_loJkl ($81.56 in chips)
+B_loJkl: posts small blind $1
+nicmct: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: folds
+Uncalled bet ($2) returned to nicmct
+nicmct collected $2 from pot
+nicmct: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: nicmct (big blind) collected ($2)
+Seat 4: B_loJkl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #172706846634:  Hold'em Limit ($3/$6 USD) - 2017/07/07 1:35:43 ET
+Table 'Irmela' 6-max Seat #1 is the button
+Seat 1: nicmct ($235.40 in chips)
+Seat 4: B_loJkl ($87.56 in chips)
+nicmct: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+nicmct: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Qh 7c Qd]
+B_loJkl: checks
+nicmct: bets $3
+B_loJkl: folds
+Uncalled bet ($3) returned to nicmct
+nicmct collected $11.76 from pot
+nicmct: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qh 7c Qd]
+Seat 1: nicmct (button) (small blind) collected ($11.76)
+Seat 4: B_loJkl (big blind) folded on the Flop
+
+
+PokerStars Hand #172706852471:  Hold'em Limit ($3/$6 USD) - 2017/07/07 1:36:07 ET
+Table 'Irmela' 6-max Seat #4 is the button
+Seat 1: nicmct ($241.16 in chips)
+Seat 4: B_loJkl ($81.56 in chips)
+B_loJkl: posts small blind $1
+nicmct: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+nicmct: calls $3
+*** FLOP *** [6c 3h Qs]
+nicmct: checks
+B_loJkl: bets $3
+nicmct: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6c 3h Qs]
+Seat 1: nicmct (big blind) folded on the Flop
+Seat 4: B_loJkl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #172706844581:  Hold'em Limit ($3/$6 USD) - 2017/07/07 1:35:35 ET
+Table 'Irmela' 6-max Seat #4 is the button
+Seat 1: nicmct ($234.40 in chips)
+Seat 4: B_loJkl ($28.56 in chips)
+B_loJkl: posts small blind $1
+nicmct: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: folds
+Uncalled bet ($2) returned to nicmct
+nicmct collected $2 from pot
+nicmct: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: nicmct (big blind) collected ($2)
+Seat 4: B_loJkl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #172706839150:  Hold'em Limit ($3/$6 USD) - 2017/07/07 1:35:14 ET
+Table 'Irmela' 6-max Seat #1 is the button
+Seat 1: nicmct ($213.90 in chips)
+Seat 4: B_loJkl ($49.56 in chips)
+nicmct: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+nicmct: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [5d 8d Ac]
+B_loJkl: checks
+nicmct: bets $3
+B_loJkl: calls $3
+*** TURN *** [5d 8d Ac] [Ah]
+B_loJkl: checks
+nicmct: bets $6
+B_loJkl: calls $6
+*** RIVER *** [5d 8d Ac Ah] [8s]
+B_loJkl: checks
+nicmct: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+nicmct: shows [6d Kd] (two pair, Aces and Eights)
+B_loJkl: mucks hand
+nicmct collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [5d 8d Ac Ah 8s]
+Seat 1: nicmct (button) (small blind) showed [6d Kd] and won ($41.50) with two pair, Aces and Eights
+Seat 4: B_loJkl (big blind) mucked
+
+
+PokerStars Hand #172706859963:  Hold'em Limit ($3/$6 USD) - 2017/07/07 1:36:36 ET
+Table 'Irmela' 6-max Seat #4 is the button
+Seat 1: nicmct ($258.66 in chips)
+Seat 4: B_loJkl ($63.32 in chips)
+B_loJkl: posts small blind $1
+nicmct: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+nicmct: calls $3
+*** FLOP *** [9h 8s 3h]
+nicmct: checks
+B_loJkl: bets $3
+nicmct: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9h 8s 3h]
+Seat 1: nicmct (big blind) folded on the Flop
+Seat 4: B_loJkl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #172706855134:  Hold'em Limit ($3/$6 USD) - 2017/07/07 1:36:17 ET
+Table 'Irmela' 6-max Seat #1 is the button
+Seat 1: nicmct ($235.16 in chips)
+Seat 4: B_loJkl ($87.32 in chips)
+nicmct: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+nicmct: raises $3 to $6
+B_loJkl: raises $3 to $9
+nicmct: calls $3
+*** FLOP *** [7c Kc Tc]
+B_loJkl: bets $3
+nicmct: calls $3
+*** TURN *** [7c Kc Tc] [7s]
+B_loJkl: bets $6
+nicmct: raises $6 to $12
+B_loJkl: calls $6
+*** RIVER *** [7c Kc Tc 7s] [Kd]
+B_loJkl: checks
+nicmct: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to nicmct
+nicmct collected $47.50 from pot
+nicmct: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7c Kc Tc 7s Kd]
+Seat 1: nicmct (button) (small blind) collected ($47.50)
+Seat 4: B_loJkl (big blind) folded on the River
+
+
+PokerStars Hand #172706867451:  Hold'em Limit ($3/$6 USD) - 2017/07/07 1:37:06 ET
+Table 'Irmela' 6-max Seat #1 is the button
+Seat 1: nicmct ($237.66 in chips)
+Seat 4: B_loJkl ($83.60 in chips)
+nicmct: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+nicmct: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [9d 5h Qh]
+B_loJkl: checks
+nicmct: bets $3
+B_loJkl: raises $3 to $6
+nicmct: calls $3
+*** TURN *** [9d 5h Qh] [Ad]
+B_loJkl: bets $6
+nicmct: raises $6 to $12
+B_loJkl: calls $6
+*** RIVER *** [9d 5h Qh Ad] [5c]
+B_loJkl: checks
+nicmct: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+nicmct: shows [Qd Jc] (two pair, Queens and Fives)
+B_loJkl: shows [4h Ah] (two pair, Aces and Fives)
+B_loJkl collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [9d 5h Qh Ad 5c]
+Seat 1: nicmct (button) (small blind) showed [Qd Jc] and lost with two pair, Queens and Fives
+Seat 4: B_loJkl (big blind) showed [4h Ah] and won ($59.50) with two pair, Aces and Fives
+
+
+PokerStars Hand #172706862397:  Hold'em Limit ($3/$6 USD) - 2017/07/07 1:36:46 ET
+Table 'Irmela' 6-max Seat #1 is the button
+Seat 1: nicmct ($252.66 in chips)
+Seat 4: B_loJkl ($69.08 in chips)
+nicmct: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+nicmct: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [7s 5s 9d]
+B_loJkl: checks
+nicmct: bets $3
+B_loJkl: raises $3 to $6
+nicmct: calls $3
+*** TURN *** [7s 5s 9d] [Qd]
+B_loJkl: bets $6
+nicmct: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $23.52 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [7s 5s 9d Qd]
+Seat 1: nicmct (button) (small blind) folded on the Turn
+Seat 4: B_loJkl (big blind) collected ($23.52)
+
+
+PokerStars Hand #172706866103:  Hold'em Limit ($3/$6 USD) - 2017/07/07 1:37:01 ET
+Table 'Irmela' 6-max Seat #4 is the button
+Seat 1: nicmct ($240.66 in chips)
+Seat 4: B_loJkl ($80.60 in chips)
+B_loJkl: posts small blind $1
+nicmct: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+nicmct: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $6 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: nicmct (big blind) folded before Flop
+Seat 4: B_loJkl (button) (small blind) collected ($6)
+
+
+PokerStars Hand #172706882287:  Hold'em Limit ($3/$6 USD) - 2017/07/07 1:38:04 ET
+Table 'Irmela' 6-max Seat #4 is the button
+Seat 1: nicmct ($198.16 in chips)
+Seat 4: B_loJkl ($121.60 in chips)
+B_loJkl: posts small blind $1
+nicmct: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+nicmct: calls $3
+*** FLOP *** [As Kh Ks]
+nicmct: checks
+B_loJkl: bets $3
+nicmct: calls $3
+*** TURN *** [As Kh Ks] [8h]
+nicmct: checks
+B_loJkl: bets $6
+nicmct: calls $6
+*** RIVER *** [As Kh Ks 8h] [4c]
+nicmct: checks
+B_loJkl: bets $6
+nicmct: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [Kd 2h] (three of a kind, Kings)
+nicmct: mucks hand
+B_loJkl collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [As Kh Ks 8h 4c]
+Seat 1: nicmct (big blind) mucked
+Seat 4: B_loJkl (button) (small blind) showed [Kd 2h] and won ($41.50) with three of a kind, Kings
+
+
+PokerStars Hand #172706876165:  Hold'em Limit ($3/$6 USD) - 2017/07/07 1:37:40 ET
+Table 'Irmela' 6-max Seat #1 is the button
+Seat 1: nicmct ($174.66 in chips)
+Seat 4: B_loJkl ($145.60 in chips)
+nicmct: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+nicmct: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [4h 7h 8h]
+B_loJkl: checks
+nicmct: bets $3
+B_loJkl: raises $3 to $6
+nicmct: calls $3
+*** TURN *** [4h 7h 8h] [9h]
+B_loJkl: bets $6
+nicmct: calls $6
+*** RIVER *** [4h 7h 8h 9h] [Jh]
+B_loJkl: bets $6
+nicmct: raises $6 to $12
+B_loJkl: folds
+Uncalled bet ($6) returned to nicmct
+nicmct collected $47.50 from pot
+nicmct: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4h 7h 8h 9h Jh]
+Seat 1: nicmct (button) (small blind) collected ($47.50)
+Seat 4: B_loJkl (big blind) folded on the River
+
+
+PokerStars Hand #172706886338:  Hold'em Limit ($3/$6 USD) - 2017/07/07 1:38:21 ET
+Table 'Irmela' 6-max Seat #1 is the button
+Seat 1: nicmct ($177.16 in chips)
+Seat 4: B_loJkl ($142.10 in chips)
+nicmct: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+nicmct: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Ks 3c Qc]
+B_loJkl: checks
+nicmct: bets $3
+B_loJkl: raises $3 to $6
+nicmct: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $17.64 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ks 3c Qc]
+Seat 1: nicmct (button) (small blind) folded on the Flop
+Seat 4: B_loJkl (big blind) collected ($17.64)
+
+
+PokerStars Hand #172706871777:  Hold'em Limit ($3/$6 USD) - 2017/07/07 1:37:23 ET
+Table 'Irmela' 6-max Seat #4 is the button
+Seat 1: nicmct ($207.66 in chips)
+Seat 4: B_loJkl ($113.10 in chips)
+B_loJkl: posts small blind $1
+nicmct: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+nicmct: calls $3
+*** FLOP *** [9s 2d Jd]
+nicmct: checks
+B_loJkl: bets $3
+nicmct: calls $3
+*** TURN *** [9s 2d Jd] [9d]
+nicmct: checks
+B_loJkl: bets $6
+nicmct: raises $6 to $12
+B_loJkl: calls $6
+*** RIVER *** [9s 2d Jd 9d] [Jc]
+nicmct: bets $6
+B_loJkl: raises $6 to $12
+nicmct: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [Jh 8d] (a full house, Jacks full of Nines)
+nicmct: mucks hand
+B_loJkl collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [9s 2d Jd 9d Jc]
+Seat 1: nicmct (big blind) mucked
+Seat 4: B_loJkl (button) (small blind) showed [Jh 8d] and won ($65.50) with a full house, Jacks full of Nines
+
+

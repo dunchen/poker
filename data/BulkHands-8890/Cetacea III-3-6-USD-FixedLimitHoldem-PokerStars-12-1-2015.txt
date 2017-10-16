@@ -1,0 +1,36 @@
+PokerStars Hand #144663899642:  Hold'em Limit ($3/$6 USD) - 2015/12/01 11:41:58 ET
+Table 'Cetacea III' 2-max Seat #1 is the button
+Seat 1: scriopk ($57.96 in chips)
+Seat 2: booparaz ($41.50 in chips)
+scriopk: posts small blind $1
+booparaz: posts big blind $3
+*** HOLE CARDS ***
+scriopk: raises $3 to $6
+booparaz: raises $3 to $9
+scriopk: raises $3 to $12
+Betting is capped
+booparaz: calls $3
+*** FLOP *** [Ts Jc 7s]
+booparaz: bets $3
+scriopk: raises $3 to $6
+booparaz: raises $3 to $9
+scriopk: raises $3 to $12
+Betting is capped
+booparaz: calls $3
+*** TURN *** [Ts Jc 7s] [Ad]
+booparaz: bets $6
+scriopk: raises $6 to $12
+booparaz: raises $5.50 to $17.50 and is all-in
+scriopk: calls $5.50
+*** RIVER *** [Ts Jc 7s Ad] [5d]
+*** SHOW DOWN ***
+booparaz: shows [4h 2h] (high card Ace)
+scriopk: shows [Kd Js] (a pair of Jacks)
+scriopk collected $82.50 from pot
+*** SUMMARY ***
+Total pot $83 | Rake $0.50
+Board [Ts Jc 7s Ad 5d]
+Seat 1: scriopk (button) (small blind) showed [Kd Js] and won ($82.50) with a pair of Jacks
+Seat 2: booparaz (big blind) showed [4h 2h] and lost with high card Ace
+
+

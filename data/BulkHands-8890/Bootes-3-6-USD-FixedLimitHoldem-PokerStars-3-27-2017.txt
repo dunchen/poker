@@ -1,0 +1,66 @@
+PokerStars Hand #168168850717:  Hold'em Limit ($3/$6 USD) - 2017/03/26 22:28:51 ET
+Table 'Bootes' 6-max Seat #5 is the button
+Seat 3: Maverick-Slo ($460.35 in chips)
+Seat 5: Chessnok ($83.56 in chips)
+Chessnok: posts small blind $1
+Maverick-Slo: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+Maverick-Slo: calls $3
+*** FLOP *** [8d 5s 8s]
+Maverick-Slo: checks
+Chessnok: bets $3
+Maverick-Slo: raises $3 to $6
+Chessnok: calls $3
+*** TURN *** [8d 5s 8s] [8h]
+Maverick-Slo: bets $6
+Chessnok: raises $6 to $12
+Maverick-Slo: calls $6
+*** RIVER *** [8d 5s 8s 8h] [6s]
+Maverick-Slo: checks
+Chessnok: bets $6
+Maverick-Slo: calls $6
+*** SHOW DOWN ***
+Chessnok: shows [8c Qs] (four of a kind, Eights)
+Maverick-Slo: mucks hand
+Chessnok collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [8d 5s 8s 8h 6s]
+Seat 3: Maverick-Slo (big blind) mucked
+Seat 5: Chessnok (button) (small blind) showed [8c Qs] and won ($59.50) with four of a kind, Eights
+
+
+PokerStars Hand #168168873941:  Hold'em Limit ($3/$6 USD) - 2017/03/26 22:29:42 ET
+Table 'Bootes' 6-max Seat #3 is the button
+Seat 3: Maverick-Slo ($430.35 in chips)
+Seat 5: Chessnok ($113.06 in chips)
+Maverick-Slo: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+Maverick-Slo: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [Js Th 3h]
+Chessnok: checks
+Maverick-Slo: bets $3
+Chessnok: raises $3 to $6
+Maverick-Slo: calls $3
+*** TURN *** [Js Th 3h] [5s]
+Chessnok: bets $6
+Maverick-Slo: raises $6 to $12
+Chessnok: raises $6 to $18
+Maverick-Slo: calls $6
+*** RIVER *** [Js Th 3h 5s] [2h]
+Chessnok: bets $6
+Maverick-Slo: calls $6
+*** SHOW DOWN ***
+Chessnok: shows [Jd 9h] (a pair of Jacks)
+Maverick-Slo: shows [Qs Qc] (a pair of Queens)
+Maverick-Slo collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [Js Th 3h 5s 2h]
+Seat 3: Maverick-Slo (button) (small blind) showed [Qs Qc] and won ($71.50) with a pair of Queens
+Seat 5: Chessnok (big blind) showed [Jd 9h] and lost with a pair of Jacks
+
+

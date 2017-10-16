@@ -1,0 +1,31 @@
+PokerStars Hand #169485233184:  Hold'em Limit ($3/$6 USD) - 2017/04/24 6:29:13 ET
+Table 'Pyrrha' 10-max Seat #7 is the button
+Seat 6: Agrotait ($75 in chips)
+Seat 7: tilion22 ($137.50 in chips)
+tilion22: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+tilion22: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [Jh Qs Qc]
+Agrotait: checks
+tilion22: bets $3
+Agrotait: raises $3 to $6
+tilion22: calls $3
+*** TURN *** [Jh Qs Qc] [Js]
+Agrotait: bets $6
+tilion22: calls $6
+*** RIVER *** [Jh Qs Qc Js] [8c]
+Agrotait: bets $6
+tilion22: calls $6
+*** SHOW DOWN ***
+Agrotait: shows [2d Jc] (a full house, Jacks full of Queens)
+tilion22: mucks hand
+Agrotait collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Jh Qs Qc Js 8c]
+Seat 6: Agrotait (big blind) showed [2d Jc] and won ($47.50) with a full house, Jacks full of Queens
+Seat 7: tilion22 (button) (small blind) mucked
+
+

@@ -1,0 +1,36 @@
+PokerStars Hand #148166870950:  Hold'em Limit ($3/$6 USD) - 2016/02/03 10:35:58 ET
+Table 'Sorga' 2-max Seat #1 is the button
+Seat 1: elifnur2008 ($112.50 in chips)
+Seat 2: hddf435 ($51.18 in chips)
+elifnur2008: posts small blind $1
+hddf435: posts big blind $3
+*** HOLE CARDS ***
+elifnur2008: raises $3 to $6
+hddf435: raises $3 to $9
+elifnur2008: calls $3
+*** FLOP *** [6c 4c 8d]
+hddf435: bets $3
+elifnur2008: calls $3
+*** TURN *** [6c 4c 8d] [Ad]
+hddf435: bets $6
+elifnur2008: raises $6 to $12
+hddf435: raises $6 to $18
+elifnur2008: raises $6 to $24
+Betting is capped
+hddf435: calls $6
+*** RIVER *** [6c 4c 8d Ad] [Kc]
+hddf435: bets $6
+elifnur2008: raises $6 to $12
+hddf435: raises $3.18 to $15.18 and is all-in
+elifnur2008: calls $3.18
+*** SHOW DOWN ***
+hddf435: shows [Ah Js] (a pair of Aces)
+elifnur2008: shows [Ac 6s] (two pair, Aces and Sixes)
+elifnur2008 collected $101.86 from pot
+*** SUMMARY ***
+Total pot $102.36 | Rake $0.50
+Board [6c 4c 8d Ad Kc]
+Seat 1: elifnur2008 (button) (small blind) showed [Ac 6s] and won ($101.86) with two pair, Aces and Sixes
+Seat 2: hddf435 (big blind) showed [Ah Js] and lost with a pair of Aces
+
+

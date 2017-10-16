@@ -1,0 +1,62 @@
+PokerStars Hand #168894052933:  Hold'em Limit ($3/$6 USD) - 2017/04/11 12:50:15 ET
+Table 'Minchir II' 6-max Seat #2 is the button
+Seat 1: Zubasa07 ($300.71 in chips)
+Seat 2: Norbert-04 ($32.28 in chips)
+Norbert-04: posts small blind $1
+Zubasa07: posts big blind $3
+*** HOLE CARDS ***
+Norbert-04: raises $3 to $6
+Zubasa07: calls $3
+*** FLOP *** [Ks 5h 7h]
+Zubasa07: checks
+Norbert-04: bets $3
+Zubasa07: raises $3 to $6
+sokol-max-PS joins the table at seat #4
+Norbert-04: calls $3
+*** TURN *** [Ks 5h 7h] [7s]
+Zubasa07: checks
+Norbert-04: checks
+*** RIVER *** [Ks 5h 7h 7s] [3h]
+Zubasa07: bets $6
+Norbert-04: folds
+Uncalled bet ($6) returned to Zubasa07
+Zubasa07 collected $23.52 from pot
+Zubasa07: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Ks 5h 7h 7s 3h]
+Seat 1: Zubasa07 (big blind) collected ($23.52)
+Seat 2: Norbert-04 (button) (small blind) folded on the River
+
+
+PokerStars Hand #168894102223:  Hold'em Limit ($3/$6 USD) - 2017/04/11 12:51:20 ET
+Table 'Minchir II' 6-max Seat #1 is the button
+Seat 1: Zubasa07 ($312.23 in chips)
+Seat 2: Norbert-04 ($20.28 in chips)
+Zubasa07: posts small blind $1
+Norbert-04: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+Norbert-04: raises $3 to $9
+Zubasa07: calls $3
+*** FLOP *** [8d 2d 7s]
+Norbert-04: bets $3
+Zubasa07: calls $3
+*** TURN *** [8d 2d 7s] [6c]
+sokol-max-PS is disconnected
+Norbert-04: bets $6
+Zubasa07: calls $6
+*** RIVER *** [8d 2d 7s 6c] [3c]
+Norbert-04: bets $2.28 and is all-in
+Zubasa07: calls $2.28
+*** SHOW DOWN ***
+Norbert-04: shows [As Tc] (high card Ace)
+Zubasa07: shows [2h 3h] (two pair, Threes and Deuces)
+Zubasa07 collected $40.06 from pot
+*** SUMMARY ***
+Total pot $40.56 | Rake $0.50
+Board [8d 2d 7s 6c 3c]
+Seat 1: Zubasa07 (button) (small blind) showed [2h 3h] and won ($40.06) with two pair, Threes and Deuces
+Seat 2: Norbert-04 (big blind) showed [As Tc] and lost with high card Ace
+
+

@@ -1,0 +1,56 @@
+PokerStars Hand #155991492290:  Hold'em Limit ($3/$6 USD) - 2016/07/15 5:40:17 ET
+Table 'Zaragoza' 6-max Seat #3 is the button
+Seat 3: Helseløs ($31.34 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+Helseløs: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Helseløs: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+Helseløs: raises $3 to $12
+Betting is capped
+VolkovDmitri: calls $3
+*** FLOP *** [Jh 7s 8s]
+VolkovDmitri: checks
+Helseløs: checks
+*** TURN *** [Jh 7s 8s] [5c]
+VolkovDmitri: bets $6
+Helseløs: calls $6
+*** RIVER *** [Jh 7s 8s 5c] [Jd]
+VolkovDmitri: bets $6
+Helseløs: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [6c 6s] (two pair, Jacks and Sixes)
+Helseløs: mucks hand
+VolkovDmitri collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Jh 7s 8s 5c Jd]
+Seat 3: Helseløs (button) (small blind) mucked
+Seat 4: VolkovDmitri (big blind) showed [6c 6s] and won ($47.50) with two pair, Jacks and Sixes
+
+
+PokerStars Hand #155991500312:  Hold'em Limit ($3/$6 USD) - 2016/07/15 5:40:41 ET
+Table 'Zaragoza' 6-max Seat #4 is the button
+Seat 3: Helseløs ($7.34 in chips)
+Seat 4: VolkovDmitri ($143.50 in chips)
+VolkovDmitri: posts small blind $1
+Helseløs: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Helseløs: raises $1.34 to $7.34 and is all-in
+VolkovDmitri: calls $1.34
+*** FLOP *** [8s Jc 8h]
+*** TURN *** [8s Jc 8h] [9c]
+*** RIVER *** [8s Jc 8h 9c] [2d]
+*** SHOW DOWN ***
+Helseløs: shows [Ks 4h] (a pair of Eights)
+VolkovDmitri: shows [2c 3c] (two pair, Eights and Deuces)
+VolkovDmitri collected $14.39 from pot
+*** SUMMARY ***
+Total pot $14.68 | Rake $0.29
+Board [8s Jc 8h 9c 2d]
+Seat 3: Helseløs (big blind) showed [Ks 4h] and lost with a pair of Eights
+Seat 4: VolkovDmitri (button) (small blind) showed [2c 3c] and won ($14.39) with two pair, Eights and Deuces
+
+

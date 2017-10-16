@@ -1,0 +1,719 @@
+PokerStars Hand #144903895995:  Hold'em Limit ($3/$6 USD) - 2015/12/06 7:04:21 ET
+Table 'Corvus III' 2-max Seat #1 is the button
+Seat 1: 1! dfmb !1 ($107.76 in chips)
+Seat 2: jl45259071 ($150.34 in chips)
+1! dfmb !1: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+1! dfmb !1: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [4d 7s Jh]
+jl45259071: checks
+1! dfmb !1: bets $3
+jl45259071: calls $3
+*** TURN *** [4d 7s Jh] [Tc]
+jl45259071: checks
+1! dfmb !1: bets $6
+jl45259071: folds
+Uncalled bet ($6) returned to 1! dfmb !1
+1! dfmb !1 collected $17.64 from pot
+1! dfmb !1: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4d 7s Jh Tc]
+Seat 1: 1! dfmb !1 (button) (small blind) collected ($17.64)
+Seat 2: jl45259071 (big blind) folded on the Turn
+
+
+PokerStars Hand #144903882803:  Hold'em Limit ($3/$6 USD) - 2015/12/06 7:03:59 ET
+Table 'Corvus III' 2-max Seat #2 is the button
+Seat 1: 1! dfmb !1 ($119.76 in chips)
+Seat 2: jl45259071 ($138.82 in chips)
+jl45259071: posts small blind $1
+1! dfmb !1: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+1! dfmb !1: checks
+*** FLOP *** [7h Js 2d]
+1! dfmb !1: checks
+jl45259071: bets $3
+1! dfmb !1: calls $3
+*** TURN *** [7h Js 2d] [Qh]
+1! dfmb !1: checks
+jl45259071: bets $6
+1! dfmb !1: calls $6
+*** RIVER *** [7h Js 2d Qh] [5d]
+1! dfmb !1: checks
+jl45259071: checks
+*** SHOW DOWN ***
+1! dfmb !1: shows [8s Th] (high card Queen)
+jl45259071: shows [3h 7d] (a pair of Sevens)
+jl45259071 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [7h Js 2d Qh 5d]
+Seat 1: 1! dfmb !1 (big blind) showed [8s Th] and lost with high card Queen
+Seat 2: jl45259071 (button) (small blind) showed [3h 7d] and won ($23.52) with a pair of Sevens
+
+
+PokerStars Hand #144903909137:  Hold'em Limit ($3/$6 USD) - 2015/12/06 7:04:43 ET
+Table 'Corvus III' 2-max Seat #1 is the button
+Seat 1: 1! dfmb !1 ($113.40 in chips)
+Seat 2: jl45259071 ($144.34 in chips)
+1! dfmb !1: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+1! dfmb !1: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [6h 6s 7s]
+jl45259071: checks
+1! dfmb !1: bets $3
+jl45259071: raises $3 to $6
+1! dfmb !1: raises $3 to $9
+jl45259071: calls $3
+*** TURN *** [6h 6s 7s] [7c]
+jl45259071: checks
+1! dfmb !1: bets $6
+jl45259071: folds
+Uncalled bet ($6) returned to 1! dfmb !1
+1! dfmb !1 collected $29.50 from pot
+1! dfmb !1: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6h 6s 7s 7c]
+Seat 1: 1! dfmb !1 (button) (small blind) collected ($29.50)
+Seat 2: jl45259071 (big blind) folded on the Turn
+
+
+PokerStars Hand #144903905168:  Hold'em Limit ($3/$6 USD) - 2015/12/06 7:04:37 ET
+Table 'Corvus III' 2-max Seat #2 is the button
+Seat 1: 1! dfmb !1 ($116.40 in chips)
+Seat 2: jl45259071 ($141.34 in chips)
+jl45259071: posts small blind $1
+1! dfmb !1: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: raises $3 to $6
+1! dfmb !1: folds
+Uncalled bet ($3) returned to jl45259071
+jl45259071 collected $6 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: 1! dfmb !1 (big blind) folded before Flop
+Seat 2: jl45259071 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #144903962666:  Hold'em Limit ($3/$6 USD) - 2015/12/06 7:06:14 ET
+Table 'Corvus III' 2-max Seat #1 is the button
+Seat 1: 1! dfmb !1 ($100.66 in chips)
+Seat 2: jl45259071 ($155.72 in chips)
+1! dfmb !1: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+1! dfmb !1: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [6d 2d Kc]
+jl45259071: checks
+1! dfmb !1: bets $3
+jl45259071: calls $3
+*** TURN *** [6d 2d Kc] [2c]
+jl45259071: checks
+1! dfmb !1: checks
+*** RIVER *** [6d 2d Kc 2c] [5d]
+jl45259071: bets $6
+1! dfmb !1: calls $6
+*** SHOW DOWN ***
+jl45259071: shows [7d 8d] (a flush, Eight high)
+1! dfmb !1: mucks hand
+jl45259071 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6d 2d Kc 2c 5d]
+Seat 1: 1! dfmb !1 (button) (small blind) mucked
+Seat 2: jl45259071 (big blind) showed [7d 8d] and won ($29.50) with a flush, Eight high
+
+
+PokerStars Hand #144903952857:  Hold'em Limit ($3/$6 USD) - 2015/12/06 7:05:58 ET
+Table 'Corvus III' 2-max Seat #2 is the button
+Seat 1: 1! dfmb !1 ($103.66 in chips)
+Seat 2: jl45259071 ($152.84 in chips)
+jl45259071: posts small blind $1
+1! dfmb !1: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+1! dfmb !1: checks
+*** FLOP *** [Th 7d Jh]
+1! dfmb !1: checks
+jl45259071: checks
+*** TURN *** [Th 7d Jh] [2s]
+1! dfmb !1: checks
+jl45259071: checks
+*** RIVER *** [Th 7d Jh 2s] [4s]
+1! dfmb !1: checks
+jl45259071: bets $6
+1! dfmb !1: folds
+Uncalled bet ($6) returned to jl45259071
+jl45259071 collected $5.88 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Th 7d Jh 2s 4s]
+Seat 1: 1! dfmb !1 (big blind) folded on the River
+Seat 2: jl45259071 (button) (small blind) collected ($5.88)
+
+
+PokerStars Hand #144903942730:  Hold'em Limit ($3/$6 USD) - 2015/12/06 7:05:40 ET
+Table 'Corvus III' 2-max Seat #1 is the button
+Seat 1: 1! dfmb !1 ($97.90 in chips)
+Seat 2: jl45259071 ($158.84 in chips)
+1! dfmb !1: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+1! dfmb !1: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [Ad Kc As]
+jl45259071: checks
+1! dfmb !1: bets $3
+jl45259071: folds
+Uncalled bet ($3) returned to 1! dfmb !1
+1! dfmb !1 collected $11.76 from pot
+1! dfmb !1: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ad Kc As]
+Seat 1: 1! dfmb !1 (button) (small blind) collected ($11.76)
+Seat 2: jl45259071 (big blind) folded on the Flop
+
+
+PokerStars Hand #144903925909:  Hold'em Limit ($3/$6 USD) - 2015/12/06 7:05:12 ET
+Table 'Corvus III' 2-max Seat #2 is the button
+Seat 1: 1! dfmb !1 ($127.90 in chips)
+Seat 2: jl45259071 ($129.34 in chips)
+jl45259071: posts small blind $1
+1! dfmb !1: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+1! dfmb !1: checks
+*** FLOP *** [Ts 4d Tc]
+1! dfmb !1: checks
+jl45259071: bets $3
+1! dfmb !1: calls $3
+*** TURN *** [Ts 4d Tc] [2d]
+1! dfmb !1: checks
+jl45259071: bets $6
+1! dfmb !1: calls $6
+*** RIVER *** [Ts 4d Tc 2d] [6c]
+1! dfmb !1: checks
+jl45259071: bets $6
+1! dfmb !1: raises $6 to $12
+jl45259071: raises $6 to $18
+1! dfmb !1: calls $6
+*** SHOW DOWN ***
+jl45259071: shows [5s 3c] (a straight, Deuce to Six)
+1! dfmb !1: mucks hand
+jl45259071 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Ts 4d Tc 2d 6c]
+Seat 1: 1! dfmb !1 (big blind) mucked
+Seat 2: jl45259071 (button) (small blind) showed [5s 3c] and won ($59.50) with a straight, Deuce to Six
+
+
+PokerStars Hand #144903983350:  Hold'em Limit ($3/$6 USD) - 2015/12/06 7:06:50 ET
+Table 'Corvus III' 2-max Seat #1 is the button
+Seat 1: 1! dfmb !1 ($91.42 in chips)
+Seat 2: jl45259071 ($164.22 in chips)
+1! dfmb !1: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+1! dfmb !1: folds
+Uncalled bet ($2) returned to jl45259071
+jl45259071 collected $2 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: 1! dfmb !1 (button) (small blind) folded before Flop
+Seat 2: jl45259071 (big blind) collected ($2)
+
+
+PokerStars Hand #144903974387:  Hold'em Limit ($3/$6 USD) - 2015/12/06 7:06:35 ET
+Table 'Corvus III' 2-max Seat #2 is the button
+Seat 1: 1! dfmb !1 ($85.66 in chips)
+Seat 2: jl45259071 ($170.22 in chips)
+jl45259071: posts small blind $1
+1! dfmb !1: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+1! dfmb !1: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [Kh 2s Tc]
+1! dfmb !1: bets $3
+jl45259071: folds
+Uncalled bet ($3) returned to 1! dfmb !1
+1! dfmb !1 collected $11.76 from pot
+1! dfmb !1: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kh 2s Tc]
+Seat 1: 1! dfmb !1 (big blind) collected ($11.76)
+Seat 2: jl45259071 (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #144904023526:  Hold'em Limit ($3/$6 USD) - 2015/12/06 7:07:57 ET
+Table 'Corvus III' 2-max Seat #1 is the button
+Seat 1: 1! dfmb !1 ($96.18 in chips)
+Seat 2: jl45259071 ($159.22 in chips)
+1! dfmb !1: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+1! dfmb !1: raises $3 to $6
+jl45259071: raises $3 to $9
+1! dfmb !1: calls $3
+*** FLOP *** [8h Jh 4d]
+jl45259071: bets $3
+1! dfmb !1: raises $3 to $6
+jl45259071: calls $3
+*** TURN *** [8h Jh 4d] [7s]
+jl45259071: checks
+1! dfmb !1: bets $6
+jl45259071: raises $6 to $12
+1! dfmb !1: calls $6
+*** RIVER *** [8h Jh 4d 7s] [Kd]
+jl45259071: bets $6
+1! dfmb !1: calls $6
+*** SHOW DOWN ***
+jl45259071: shows [7c 7d] (three of a kind, Sevens)
+1! dfmb !1: mucks hand
+jl45259071 collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [8h Jh 4d 7s Kd]
+Seat 1: 1! dfmb !1 (button) (small blind) mucked
+Seat 2: jl45259071 (big blind) showed [7c 7d] and won ($65.50) with three of a kind, Sevens
+
+
+PokerStars Hand #144903986280:  Hold'em Limit ($3/$6 USD) - 2015/12/06 7:06:54 ET
+Table 'Corvus III' 2-max Seat #2 is the button
+Seat 1: 1! dfmb !1 ($90.42 in chips)
+Seat 2: jl45259071 ($165.22 in chips)
+jl45259071: posts small blind $1
+1! dfmb !1: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+1! dfmb !1: checks
+*** FLOP *** [6d 3s 3c]
+1! dfmb !1: checks
+jl45259071: bets $3
+1! dfmb !1: calls $3
+*** TURN *** [6d 3s 3c] [Td]
+1! dfmb !1: checks
+jl45259071: checks
+*** RIVER *** [6d 3s 3c Td] [5h]
+1! dfmb !1: checks
+jl45259071: checks
+*** SHOW DOWN ***
+1! dfmb !1: shows [8c Ks] (a pair of Threes)
+jl45259071: mucks hand
+1! dfmb !1 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6d 3s 3c Td 5h]
+Seat 1: 1! dfmb !1 (big blind) showed [8c Ks] and won ($11.76) with a pair of Threes
+Seat 2: jl45259071 (button) (small blind) mucked
+
+
+PokerStars Hand #144904069986:  Hold'em Limit ($3/$6 USD) - 2015/12/06 7:09:16 ET
+Table 'Corvus III' 2-max Seat #2 is the button
+Seat 1: 1! dfmb !1 ($63.68 in chips)
+Seat 2: jl45259071 ($190.22 in chips)
+jl45259071: posts small blind $1
+1! dfmb !1: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+1! dfmb !1: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [8s Qd Qs]
+1! dfmb !1: bets $3
+jl45259071: calls $3
+*** TURN *** [8s Qd Qs] [6c]
+1! dfmb !1: bets $6
+jl45259071: folds
+Uncalled bet ($6) returned to 1! dfmb !1
+1! dfmb !1 collected $17.64 from pot
+1! dfmb !1: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8s Qd Qs 6c]
+Seat 1: 1! dfmb !1 (big blind) collected ($17.64)
+Seat 2: jl45259071 (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #144904067322:  Hold'em Limit ($3/$6 USD) - 2015/12/06 7:09:11 ET
+Table 'Corvus III' 2-max Seat #1 is the button
+Seat 1: 1! dfmb !1 ($64.68 in chips)
+Seat 2: jl45259071 ($189.22 in chips)
+1! dfmb !1: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+1! dfmb !1: folds
+Uncalled bet ($2) returned to jl45259071
+jl45259071 collected $2 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: 1! dfmb !1 (button) (small blind) folded before Flop
+Seat 2: jl45259071 (big blind) collected ($2)
+
+
+PokerStars Hand #144904060786:  Hold'em Limit ($3/$6 USD) - 2015/12/06 7:09:00 ET
+Table 'Corvus III' 2-max Seat #2 is the button
+Seat 1: 1! dfmb !1 ($79.68 in chips)
+Seat 2: jl45259071 ($174.72 in chips)
+jl45259071: posts small blind $1
+1! dfmb !1: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+1! dfmb !1: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [9h 6s Td]
+1! dfmb !1: bets $3
+jl45259071: calls $3
+*** TURN *** [9h 6s Td] [5h]
+1! dfmb !1: bets $6
+jl45259071: raises $6 to $12
+1! dfmb !1: folds
+Uncalled bet ($6) returned to jl45259071
+jl45259071 collected $29.50 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9h 6s Td 5h]
+Seat 1: 1! dfmb !1 (big blind) folded on the Turn
+Seat 2: jl45259071 (button) (small blind) collected ($29.50)
+
+
+PokerStars Hand #144904058184:  Hold'em Limit ($3/$6 USD) - 2015/12/06 7:08:56 ET
+Table 'Corvus III' 2-max Seat #1 is the button
+Seat 1: 1! dfmb !1 ($80.68 in chips)
+Seat 2: jl45259071 ($173.72 in chips)
+1! dfmb !1: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+1! dfmb !1: folds
+Uncalled bet ($2) returned to jl45259071
+jl45259071 collected $2 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: 1! dfmb !1 (button) (small blind) folded before Flop
+Seat 2: jl45259071 (big blind) collected ($2)
+
+
+PokerStars Hand #144904047961:  Hold'em Limit ($3/$6 USD) - 2015/12/06 7:08:39 ET
+Table 'Corvus III' 2-max Seat #2 is the button
+Seat 1: 1! dfmb !1 ($63.18 in chips)
+Seat 2: jl45259071 ($191.72 in chips)
+jl45259071: posts small blind $1
+1! dfmb !1: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: raises $3 to $6
+1! dfmb !1: raises $3 to $9
+jl45259071: raises $3 to $12
+Betting is capped
+1! dfmb !1: calls $3
+*** FLOP *** [9h 8c 8s]
+1! dfmb !1: bets $3
+jl45259071: raises $3 to $6
+1! dfmb !1: calls $3
+*** TURN *** [9h 8c 8s] [2s]
+1! dfmb !1: checks
+jl45259071: checks
+*** RIVER *** [9h 8c 8s 2s] [8h]
+1! dfmb !1: checks
+jl45259071: checks
+*** SHOW DOWN ***
+1! dfmb !1: shows [9s Ac] (a full house, Eights full of Nines)
+jl45259071: mucks hand
+1! dfmb !1 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [9h 8c 8s 2s 8h]
+Seat 1: 1! dfmb !1 (big blind) showed [9s Ac] and won ($35.50) with a full house, Eights full of Nines
+Seat 2: jl45259071 (button) (small blind) mucked
+
+
+PokerStars Hand #144904080437:  Hold'em Limit ($3/$6 USD) - 2015/12/06 7:09:34 ET
+Table 'Corvus III' 2-max Seat #1 is the button
+Seat 1: 1! dfmb !1 ($72.32 in chips)
+Seat 2: jl45259071 ($181.22 in chips)
+1! dfmb !1: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+1! dfmb !1: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [7d Ac Ah]
+jl45259071: checks
+1! dfmb !1: bets $3
+jl45259071: calls $3
+*** TURN *** [7d Ac Ah] [5d]
+jl45259071: checks
+1! dfmb !1: checks
+*** RIVER *** [7d Ac Ah 5d] [6h]
+jl45259071: bets $6
+1! dfmb !1: folds
+Uncalled bet ($6) returned to jl45259071
+jl45259071 collected $17.64 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7d Ac Ah 5d 6h]
+Seat 1: 1! dfmb !1 (button) (small blind) folded on the River
+Seat 2: jl45259071 (big blind) collected ($17.64)
+
+
+PokerStars Hand #144904134623:  Hold'em Limit ($3/$6 USD) - 2015/12/06 7:11:06 ET
+Table 'Corvus III' 2-max Seat #2 is the button
+Seat 1: 1! dfmb !1 ($74.82 in chips)
+Seat 2: jl45259071 ($177.50 in chips)
+jl45259071: posts small blind $1
+1! dfmb !1: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+1! dfmb !1: checks
+*** FLOP *** [3h 3d Ts]
+1! dfmb !1: checks
+jl45259071: bets $3
+1! dfmb !1: folds
+Uncalled bet ($3) returned to jl45259071
+jl45259071 collected $5.88 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [3h 3d Ts]
+Seat 1: 1! dfmb !1 (big blind) folded on the Flop
+Seat 2: jl45259071 (button) (small blind) collected ($5.88)
+
+
+PokerStars Hand #144904120905:  Hold'em Limit ($3/$6 USD) - 2015/12/06 7:10:43 ET
+Table 'Corvus III' 2-max Seat #1 is the button
+Seat 1: 1! dfmb !1 ($83.82 in chips)
+Seat 2: jl45259071 ($168.86 in chips)
+1! dfmb !1: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+1! dfmb !1: raises $3 to $6
+jl45259071: raises $3 to $9
+1! dfmb !1: calls $3
+*** FLOP *** [Kh Ac 6c]
+jl45259071: bets $3
+1! dfmb !1: folds
+Uncalled bet ($3) returned to jl45259071
+jl45259071 collected $17.64 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kh Ac 6c]
+Seat 1: 1! dfmb !1 (button) (small blind) folded on the Flop
+Seat 2: jl45259071 (big blind) collected ($17.64)
+
+
+PokerStars Hand #144904091148:  Hold'em Limit ($3/$6 USD) - 2015/12/06 7:09:52 ET
+Table 'Corvus III' 2-max Seat #2 is the button
+Seat 1: 1! dfmb !1 ($63.32 in chips)
+Seat 2: jl45259071 ($189.86 in chips)
+jl45259071: posts small blind $1
+1! dfmb !1: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: raises $3 to $6
+1! dfmb !1: raises $3 to $9
+jl45259071: raises $3 to $12
+Betting is capped
+1! dfmb !1: calls $3
+*** FLOP *** [4c 2s Kc]
+1! dfmb !1: bets $3
+jl45259071: calls $3
+*** TURN *** [4c 2s Kc] [3c]
+1! dfmb !1: bets $6
+jl45259071: calls $6
+*** RIVER *** [4c 2s Kc 3c] [8c]
+1! dfmb !1: checks
+jl45259071: checks
+*** SHOW DOWN ***
+1! dfmb !1: shows [Kd Jd] (a pair of Kings)
+jl45259071: mucks hand
+1! dfmb !1 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [4c 2s Kc 3c 8c]
+Seat 1: 1! dfmb !1 (big blind) showed [Kd Jd] and won ($41.50) with a pair of Kings
+Seat 2: jl45259071 (button) (small blind) mucked
+
+
+PokerStars Hand #144904165773:  Hold'em Limit ($3/$6 USD) - 2015/12/06 7:11:59 ET
+Table 'Corvus III' 2-max Seat #2 is the button
+Seat 1: 1! dfmb !1 ($62.82 in chips)
+Seat 2: jl45259071 ($189.02 in chips)
+jl45259071: posts small blind $1
+1! dfmb !1: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+1! dfmb !1: checks
+*** FLOP *** [4c Kc Qs]
+1! dfmb !1: checks
+jl45259071: checks
+*** TURN *** [4c Kc Qs] [5d]
+1! dfmb !1: checks
+jl45259071: bets $6
+1! dfmb !1: folds
+Uncalled bet ($6) returned to jl45259071
+jl45259071 collected $5.88 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [4c Kc Qs 5d]
+Seat 1: 1! dfmb !1 (big blind) folded on the Turn
+Seat 2: jl45259071 (button) (small blind) collected ($5.88)
+
+
+PokerStars Hand #144904147326:  Hold'em Limit ($3/$6 USD) - 2015/12/06 7:11:27 ET
+Table 'Corvus III' 2-max Seat #1 is the button
+Seat 1: 1! dfmb !1 ($71.82 in chips)
+Seat 2: jl45259071 ($180.38 in chips)
+1! dfmb !1: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+1! dfmb !1: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [9c 3c 6d]
+jl45259071: checks
+1! dfmb !1: bets $3
+jl45259071: calls $3
+*** TURN *** [9c 3c 6d] [Ah]
+jl45259071: checks
+1! dfmb !1: checks
+*** RIVER *** [9c 3c 6d Ah] [Td]
+jl45259071: bets $6
+1! dfmb !1: folds
+Uncalled bet ($6) returned to jl45259071
+jl45259071 collected $17.64 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9c 3c 6d Ah Td]
+Seat 1: 1! dfmb !1 (button) (small blind) folded on the River
+Seat 2: jl45259071 (big blind) collected ($17.64)
+
+
+PokerStars Hand #144904199905:  Hold'em Limit ($3/$6 USD) - 2015/12/06 7:12:57 ET
+Table 'Corvus III' 2-max Seat #2 is the button
+Seat 1: 1! dfmb !1 ($50.82 in chips)
+Seat 2: jl45259071 ($200.54 in chips)
+jl45259071: posts small blind $1
+1! dfmb !1: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+1! dfmb !1: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [2s 4d 2c]
+1! dfmb !1: bets $3
+jl45259071: calls $3
+*** TURN *** [2s 4d 2c] [9s]
+1! dfmb !1: checks
+jl45259071: bets $6
+1! dfmb !1: calls $6
+*** RIVER *** [2s 4d 2c 9s] [Qh]
+1! dfmb !1: checks
+jl45259071: bets $6
+1! dfmb !1: calls $6
+*** SHOW DOWN ***
+jl45259071: shows [7h Jc] (a pair of Deuces)
+1! dfmb !1: shows [Jh Ac] (a pair of Deuces - Ace kicker)
+1! dfmb !1 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2s 4d 2c 9s Qh]
+Seat 1: 1! dfmb !1 (big blind) showed [Jh Ac] and won ($41.50) with a pair of Deuces
+Seat 2: jl45259071 (button) (small blind) showed [7h Jc] and lost with a pair of Deuces
+
+
+PokerStars Hand #144904185265:  Hold'em Limit ($3/$6 USD) - 2015/12/06 7:12:32 ET
+Table 'Corvus III' 2-max Seat #1 is the button
+Seat 1: 1! dfmb !1 ($59.82 in chips)
+Seat 2: jl45259071 ($191.90 in chips)
+1! dfmb !1: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+1! dfmb !1: raises $3 to $6
+jl45259071: raises $3 to $9
+1! dfmb !1: calls $3
+*** FLOP *** [Td 9c 4h]
+jl45259071: bets $3
+1! dfmb !1: folds
+Uncalled bet ($3) returned to jl45259071
+jl45259071 collected $17.64 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Td 9c 4h]
+Seat 1: 1! dfmb !1 (button) (small blind) folded on the Flop
+Seat 2: jl45259071 (big blind) collected ($17.64)
+
+
+PokerStars Hand #144904240504:  Hold'em Limit ($3/$6 USD) - 2015/12/06 7:14:06 ET
+Table 'Corvus III' 2-max Seat #2 is the button
+Seat 1: 1! dfmb !1 ($50.32 in chips)
+Seat 2: jl45259071 ($200.04 in chips)
+jl45259071: posts small blind $1
+1! dfmb !1: posts big blind $3
+*** HOLE CARDS ***
+jl45259071: calls $2
+1! dfmb !1: raises $3 to $6
+jl45259071: calls $3
+*** FLOP *** [Ts 7d 3d]
+1! dfmb !1: bets $3
+jl45259071: calls $3
+*** TURN *** [Ts 7d 3d] [Jd]
+1! dfmb !1: bets $6
+jl45259071: folds
+Uncalled bet ($6) returned to 1! dfmb !1
+1! dfmb !1 collected $17.64 from pot
+1! dfmb !1: doesn't show hand
+jl45259071 leaves the table
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ts 7d 3d Jd]
+Seat 1: 1! dfmb !1 (big blind) collected ($17.64)
+Seat 2: jl45259071 (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #144904222069:  Hold'em Limit ($3/$6 USD) - 2015/12/06 7:13:34 ET
+Table 'Corvus III' 2-max Seat #1 is the button
+Seat 1: 1! dfmb !1 ($71.32 in chips)
+Seat 2: jl45259071 ($179.54 in chips)
+1! dfmb !1: posts small blind $1
+jl45259071: posts big blind $3
+*** HOLE CARDS ***
+1! dfmb !1: raises $3 to $6
+jl45259071: raises $3 to $9
+1! dfmb !1: raises $3 to $12
+Betting is capped
+jl45259071: calls $3
+*** FLOP *** [Ad 7d 2h]
+jl45259071: bets $3
+1! dfmb !1: calls $3
+*** TURN *** [Ad 7d 2h] [Ts]
+jl45259071: bets $6
+1! dfmb !1: calls $6
+*** RIVER *** [Ad 7d 2h Ts] [Td]
+jl45259071: bets $6
+1! dfmb !1: folds
+Uncalled bet ($6) returned to jl45259071
+jl45259071 collected $41.50 from pot
+jl45259071: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ad 7d 2h Ts Td]
+Seat 1: 1! dfmb !1 (button) (small blind) folded on the River
+Seat 2: jl45259071 (big blind) collected ($41.50)
+
+

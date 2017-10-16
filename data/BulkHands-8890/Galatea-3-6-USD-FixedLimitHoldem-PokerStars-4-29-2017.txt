@@ -1,0 +1,31 @@
+PokerStars Hand #169733345137:  Hold'em Limit ($3/$6 USD) - 2017/04/29 17:08:56 ET
+Table 'Galatea' 6-max Seat #3 is the button
+Seat 3: simper11 ($120 in chips)
+Seat 4: anebodil ($90 in chips)
+simper11: posts small blind $1
+anebodil: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+anebodil: calls $3
+*** FLOP *** [Td Kh 8h]
+anebodil: checks
+simper11: bets $3
+anebodil: calls $3
+*** TURN *** [Td Kh 8h] [7h]
+anebodil: checks
+vestimokrec joins the table at seat #5
+simper11: checks
+*** RIVER *** [Td Kh 8h 7h] [8s]
+anebodil: bets $6
+simper11: calls $6
+*** SHOW DOWN ***
+anebodil: shows [4s 4h] (two pair, Eights and Fours)
+simper11: mucks hand
+anebodil collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Td Kh 8h 7h 8s]
+Seat 3: simper11 (button) (small blind) mucked
+Seat 4: anebodil (big blind) showed [4s 4h] and won ($29.50) with two pair, Eights and Fours
+
+

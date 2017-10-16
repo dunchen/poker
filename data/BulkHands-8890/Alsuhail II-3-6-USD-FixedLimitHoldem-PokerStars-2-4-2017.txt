@@ -1,0 +1,117 @@
+PokerStars Hand #165661861295:  Hold'em Limit ($3/$6 USD) - 2017/02/04 8:22:08 ET
+Table 'Alsuhail II' 6-max Seat #5 is the button
+Seat 4: andrey0709 ($30 in chips)
+Seat 5: BelSv ($78 in chips)
+BelSv: posts small blind $1
+Agrotait: is sitting out
+andrey0709: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+andrey0709: calls $3
+*** FLOP *** [8s 9d 2h]
+andrey0709: checks
+BelSv: bets $3
+andrey0709: calls $3
+*** TURN *** [8s 9d 2h] [9s]
+andrey0709: checks
+BelSv: bets $6
+andrey0709: calls $6
+*** RIVER *** [8s 9d 2h 9s] [7c]
+andrey0709: checks
+BelSv: checks
+*** SHOW DOWN ***
+andrey0709: shows [Qc Jc] (a pair of Nines)
+BelSv: shows [4h Ad] (a pair of Nines - Ace kicker)
+BelSv collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8s 9d 2h 9s 7c]
+Seat 4: andrey0709 (big blind) showed [Qc Jc] and lost with a pair of Nines
+Seat 5: BelSv (button) (small blind) showed [4h Ad] and won ($29.50) with a pair of Nines
+
+
+PokerStars Hand #165661901598:  Hold'em Limit ($3/$6 USD) - 2017/02/04 8:23:08 ET
+Table 'Alsuhail II' 6-max Seat #4 is the button
+Seat 4: andrey0709 ($29.40 in chips)
+Seat 5: BelSv ($78 in chips)
+andrey0709: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+andrey0709: calls $2
+BelSv: raises $3 to $6
+andrey0709: calls $3
+*** FLOP *** [Js Qs 2d]
+BelSv: bets $3
+andrey0709: calls $3
+*** TURN *** [Js Qs 2d] [Th]
+BelSv: checks
+andrey0709: checks
+*** RIVER *** [Js Qs 2d Th] [3h]
+BelSv: bets $6
+andrey0709: calls $6
+*** SHOW DOWN ***
+BelSv: shows [4h 8h] (high card Queen)
+andrey0709: shows [Tc 8d] (a pair of Tens)
+andrey0709 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Js Qs 2d Th 3h]
+Seat 4: andrey0709 (button) (small blind) showed [Tc 8d] and won ($29.50) with a pair of Tens
+Seat 5: BelSv (big blind) showed [4h 8h] and lost with high card Queen
+
+
+PokerStars Hand #165661885171:  Hold'em Limit ($3/$6 USD) - 2017/02/04 8:22:44 ET
+Table 'Alsuhail II' 6-max Seat #5 is the button
+Seat 4: andrey0709 ($20.76 in chips)
+Seat 5: BelSv ($86.50 in chips)
+BelSv: posts small blind $1
+andrey0709: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+andrey0709: calls $3
+*** FLOP *** [Jc 7d 3h]
+andrey0709: checks
+Agrotait leaves the table
+BelSv: bets $3
+andrey0709: raises $3 to $6
+BelSv: folds
+Uncalled bet ($3) returned to andrey0709
+andrey0709 collected $17.64 from pot
+andrey0709: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Jc 7d 3h]
+Seat 4: andrey0709 (big blind) collected ($17.64)
+Seat 5: BelSv (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #165661919285:  Hold'em Limit ($3/$6 USD) - 2017/02/04 8:23:35 ET
+Table 'Alsuhail II' 6-max Seat #4 is the button
+Seat 4: andrey0709 ($40.90 in chips)
+Seat 5: BelSv ($81 in chips)
+andrey0709: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+andrey0709: calls $2
+BelSv: raises $3 to $6
+andrey0709: calls $3
+*** FLOP *** [7c Ah Qs]
+BelSv: bets $3
+andrey0709: calls $3
+*** TURN *** [7c Ah Qs] [Ks]
+BelSv: bets $6
+andrey0709: calls $6
+*** RIVER *** [7c Ah Qs Ks] [Jh]
+BelSv: checks
+andrey0709: checks
+*** SHOW DOWN ***
+BelSv: shows [6s Js] (a pair of Jacks)
+andrey0709: shows [Ad 8s] (a pair of Aces)
+andrey0709 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7c Ah Qs Ks Jh]
+Seat 4: andrey0709 (button) (small blind) showed [Ad 8s] and won ($29.50) with a pair of Aces
+Seat 5: BelSv (big blind) showed [6s Js] and lost with a pair of Jacks
+
+

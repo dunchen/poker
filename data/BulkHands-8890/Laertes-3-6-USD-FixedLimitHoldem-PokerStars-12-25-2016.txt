@@ -1,0 +1,92 @@
+PokerStars Hand #163499600948:  Hold'em Limit ($3/$6 USD) - 2016/12/25 12:13:11 ET
+Table 'Laertes' 6-max Seat #1 is the button
+Seat 1: LifeisagameX ($84 in chips)
+Seat 2: paptec ($40 in chips)
+LifeisagameX: posts small blind $1
+paptec: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+paptec: calls $3
+*** FLOP *** [5c 3d Js]
+paptec: checks
+LifeisagameX: bets $3
+paptec: calls $3
+*** TURN *** [5c 3d Js] [8c]
+paptec: checks
+LifeisagameX: checks
+*** RIVER *** [5c 3d Js 8c] [6h]
+paptec: checks
+LifeisagameX: checks
+*** SHOW DOWN ***
+paptec: shows [Kh 4s] (high card King)
+LifeisagameX: shows [2d Ad] (high card Ace)
+LifeisagameX collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5c 3d Js 8c 6h]
+Seat 1: LifeisagameX (button) (small blind) showed [2d Ad] and won ($17.64) with high card Ace
+Seat 2: paptec (big blind) showed [Kh 4s] and lost with high card King
+
+
+PokerStars Hand #163499640607:  Hold'em Limit ($3/$6 USD) - 2016/12/25 12:13:59 ET
+Table 'Laertes' 6-max Seat #2 is the button
+Seat 1: LifeisagameX ($92.64 in chips)
+Seat 2: paptec ($31 in chips)
+paptec: posts small blind $1
+LifeisagameX: posts big blind $3
+*** HOLE CARDS ***
+paptec: raises $3 to $6
+LifeisagameX: calls $3
+*** FLOP *** [4s Qs Kh]
+LifeisagameX: checks
+paptec: bets $3
+LifeisagameX: calls $3
+*** TURN *** [4s Qs Kh] [Qc]
+LifeisagameX: checks
+paptec: bets $6
+LifeisagameX: calls $6
+*** RIVER *** [4s Qs Kh Qc] [Kd]
+LifeisagameX: checks
+paptec: bets $6
+LifeisagameX: calls $6
+*** SHOW DOWN ***
+paptec: shows [8s 7s] (two pair, Kings and Queens)
+LifeisagameX: shows [2d Ah] (two pair, Kings and Queens - Ace kicker)
+LifeisagameX collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [4s Qs Kh Qc Kd]
+Seat 1: LifeisagameX (big blind) showed [2d Ah] and won ($41.50) with two pair, Kings and Queens
+Seat 2: paptec (button) (small blind) showed [8s 7s] and lost with two pair, Kings and Queens
+
+
+PokerStars Hand #163499700970:  Hold'em Limit ($3/$6 USD) - 2016/12/25 12:15:11 ET
+Table 'Laertes' 6-max Seat #1 is the button
+Seat 1: LifeisagameX ($113.14 in chips)
+Seat 2: paptec ($10 in chips)
+LifeisagameX: posts small blind $1
+paptec: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+nikiforosdog joins the table at seat #3
+paptec: calls $3
+*** FLOP *** [Ac 5s 4c]
+paptec: checks
+LifeisagameX: bets $3
+paptec: raises $1 to $4 and is all-in
+GoliafUa joins the table at seat #4
+vestimokrec joins the table at seat #5
+LifeisagameX: calls $1
+*** TURN *** [Ac 5s 4c] [6d]
+*** RIVER *** [Ac 5s 4c 6d] [6h]
+*** SHOW DOWN ***
+paptec: shows [2d 3c] (a straight, Deuce to Six)
+LifeisagameX: shows [5h Tc] (two pair, Sixes and Fives)
+paptec collected $19.60 from pot
+*** SUMMARY ***
+Total pot $20 | Rake $0.40
+Board [Ac 5s 4c 6d 6h]
+Seat 1: LifeisagameX (button) (small blind) showed [5h Tc] and lost with two pair, Sixes and Fives
+Seat 2: paptec (big blind) showed [2d 3c] and won ($19.60) with a straight, Deuce to Six
+
+

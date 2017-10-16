@@ -1,0 +1,55 @@
+PokerStars Hand #157676916289:  Hold'em Limit ($3/$6 USD) - 2016/08/24 9:57:39 ET
+Table 'Dudu' 6-max Seat #6 is the button
+Seat 3: CatPuppy1999 ($48 in chips)
+Seat 6: balrog25 ($180 in chips)
+B_loJkl joins the table at seat #4
+balrog25: posts small blind $1
+CatPuppy1999: posts big blind $3
+*** HOLE CARDS ***
+balrog25: raises $3 to $6
+CatPuppy1999: raises $3 to $9
+balrog25: calls $3
+*** FLOP *** [3h 9d 4h]
+CatPuppy1999: checks
+balrog25: bets $3
+CatPuppy1999: folds
+Uncalled bet ($3) returned to balrog25
+balrog25 collected $17.64 from pot
+balrog25: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3h 9d 4h]
+Seat 3: CatPuppy1999 (big blind) folded on the Flop
+Seat 6: balrog25 (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #157677001774:  Hold'em Limit ($3/$6 USD) - 2016/08/24 10:00:34 ET
+Table 'Dudu' 6-max Seat #6 is the button
+Seat 4: B_loJkl ($154.25 in chips)
+Seat 6: balrog25 ($194.35 in chips)
+balrog25: posts small blind $1
+CatPuppy1999: is sitting out
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+balrog25: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [8c 6s 9h]
+B_loJkl: checks
+balrog25: bets $3
+B_loJkl: calls $3
+*** TURN *** [8c 6s 9h] [6h]
+B_loJkl: checks
+balrog25: checks
+*** RIVER *** [8c 6s 9h 6h] [8d]
+B_loJkl: bets $6
+balrog25: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $17.64 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8c 6s 9h 6h 8d]
+Seat 4: B_loJkl (big blind) collected ($17.64)
+Seat 6: balrog25 (button) (small blind) folded on the River
+
+

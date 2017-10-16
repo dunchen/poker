@@ -1,0 +1,69 @@
+PokerStars Hand #163539324783:  Hold'em Limit ($3/$6 USD) - 2016/12/26 6:30:39 ET
+Table 'Renzia II' 10-max Seat #5 is the button
+Seat 1: VolkovDmitri ($285.23 in chips)
+Seat 5: skogsbarn ($88.35 in chips)
+skogsbarn: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+skogsbarn: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+skogsbarn: raises $3 to $12
+Betting is capped
+VolkovDmitri: calls $3
+*** FLOP *** [2d 4h Kd]
+VolkovDmitri: checks
+skogsbarn: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [2d 4h Kd] [Ks]
+VolkovDmitri: checks
+skogsbarn: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [2d 4h Kd Ks] [9d]
+VolkovDmitri: checks
+skogsbarn: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+skogsbarn: shows [7h 7c] (two pair, Kings and Sevens)
+VolkovDmitri: mucks hand
+skogsbarn collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [2d 4h Kd Ks 9d]
+Seat 1: VolkovDmitri (big blind) mucked
+Seat 5: skogsbarn (button) (small blind) showed [7h 7c] and won ($53.50) with two pair, Kings and Sevens
+
+
+PokerStars Hand #163539298880:  Hold'em Limit ($3/$6 USD) - 2016/12/26 6:29:50 ET
+Table 'Renzia II' 10-max Seat #1 is the button
+Seat 1: VolkovDmitri ($264.73 in chips)
+Seat 5: skogsbarn ($109.35 in chips)
+VolkovDmitri: posts small blind $1
+RockKillerTY: is sitting out
+skogsbarn: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+skogsbarn: calls $3
+*** FLOP *** [Jd Jh 8c]
+skogsbarn: checks
+VolkovDmitri: bets $3
+skogsbarn: calls $3
+*** TURN *** [Jd Jh 8c] [3c]
+skogsbarn: checks
+RockKillerTY leaves the table
+VolkovDmitri: bets $6
+skogsbarn: calls $6
+*** RIVER *** [Jd Jh 8c 3c] [4s]
+skogsbarn: checks
+VolkovDmitri: bets $6
+skogsbarn: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Ah Ac] (two pair, Aces and Jacks)
+skogsbarn: mucks hand
+VolkovDmitri collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Jd Jh 8c 3c 4s]
+Seat 1: VolkovDmitri (button) (small blind) showed [Ah Ac] and won ($41.50) with two pair, Aces and Jacks
+Seat 5: skogsbarn (big blind) mucked
+
+

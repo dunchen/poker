@@ -1,0 +1,114 @@
+PokerStars Hand #166551341177:  Hold'em Limit ($3/$6 USD) - 2017/02/21 9:48:58 ET
+Table 'Golia' 6-max Seat #3 is the button
+Seat 3: anubis.o ($106.12 in chips)
+Seat 4: kolaz03 ($80.64 in chips)
+anubis.o: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+anubis.o: raises $3 to $6
+kolaz03: calls $3
+*** FLOP *** [As Qs 4h]
+kolaz03: checks
+anubis.o: bets $3
+kolaz03: calls $3
+*** TURN *** [As Qs 4h] [2d]
+kolaz03: checks
+anubis.o: bets $6
+kolaz03: calls $6
+*** RIVER *** [As Qs 4h 2d] [Td]
+kolaz03: checks
+anubis.o: bets $6
+kolaz03: calls $6
+*** SHOW DOWN ***
+anubis.o: shows [Tc Kh] (a pair of Tens)
+kolaz03: mucks hand
+anubis.o collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [As Qs 4h 2d Td]
+Seat 3: anubis.o (button) (small blind) showed [Tc Kh] and won ($41.50) with a pair of Tens
+Seat 4: kolaz03 (big blind) mucked
+
+
+PokerStars Hand #166551382484:  Hold'em Limit ($3/$6 USD) - 2017/02/21 9:50:01 ET
+Table 'Golia' 6-max Seat #3 is the button
+Seat 3: anubis.o ($147.12 in chips)
+Seat 4: kolaz03 ($72 in chips)
+anubis.o: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+anubis.o: raises $3 to $6
+kolaz03: calls $3
+*** FLOP *** [9s 6s Jd]
+kolaz03: checks
+anubis.o: bets $3
+kolaz03: calls $3
+*** TURN *** [9s 6s Jd] [As]
+kolaz03: checks
+anubis.o: bets $6
+kolaz03: calls $6
+*** RIVER *** [9s 6s Jd As] [Qs]
+kolaz03: checks
+anubis.o: checks
+*** SHOW DOWN ***
+kolaz03: shows [5c Ad] (a pair of Aces)
+anubis.o: shows [Ts 3s] (a flush, Ace high)
+anubis.o collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9s 6s Jd As Qs]
+Seat 3: anubis.o (button) (small blind) showed [Ts 3s] and won ($29.50) with a flush, Ace high
+Seat 4: kolaz03 (big blind) showed [5c Ad] and lost with a pair of Aces
+
+
+PokerStars Hand #166551367260:  Hold'em Limit ($3/$6 USD) - 2017/02/21 9:49:37 ET
+Table 'Golia' 6-max Seat #4 is the button
+Seat 3: anubis.o ($126.62 in chips)
+Seat 4: kolaz03 ($72 in chips)
+kolaz03: posts small blind $1
+anubis.o: posts big blind $3
+*** HOLE CARDS ***
+kolaz03: raises $3 to $6
+anubis.o: calls $3
+*** FLOP *** [Jd 4s 9h]
+anubis.o: checks
+kolaz03: bets $3
+anubis.o: calls $3
+*** TURN *** [Jd 4s 9h] [Qc]
+anubis.o: checks
+krytalex joins the table at seat #5
+kolaz03: bets $6
+anubis.o: calls $6
+*** RIVER *** [Jd 4s 9h Qc] [Td]
+anubis.o: bets $6
+kolaz03: calls $6
+*** SHOW DOWN ***
+anubis.o: shows [Kc 4h] (a straight, Nine to King)
+kolaz03: mucks hand
+anubis.o collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Jd 4s 9h Qc Td]
+Seat 3: anubis.o (big blind) showed [Kc 4h] and won ($41.50) with a straight, Nine to King
+Seat 4: kolaz03 (button) (small blind) mucked
+
+
+PokerStars Hand #166555083433:  Hold'em Limit ($3/$6 USD) - 2017/02/21 11:19:53 ET
+Table 'Golia' 6-max Seat #3 is the button
+Seat 1: tttzzz ($184.46 in chips)
+Seat 3: jackRizzar ($222.56 in chips)
+jackRizzar: posts small blind $1
+vestimokrec: is sitting out
+tttzzz: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec leaves the table
+jackRizzar: folds
+Uncalled bet ($2) returned to tttzzz
+tttzzz collected $2 from pot
+tttzzz: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: tttzzz (big blind) collected ($2)
+Seat 3: jackRizzar (button) (small blind) folded before Flop
+
+

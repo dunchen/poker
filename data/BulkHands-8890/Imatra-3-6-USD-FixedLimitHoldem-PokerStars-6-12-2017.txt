@@ -1,0 +1,49 @@
+PokerStars Hand #171676465267:  Hold'em Limit ($3/$6 USD) - 2017/06/12 9:13:10 ET
+Table 'Imatra' 6-max Seat #5 is the button
+Seat 3: MTails ($95.85 in chips)
+Seat 5: Bueffel ($39.19 in chips)
+Bueffel: posts small blind $1
+Reyes: is sitting out
+MTails: posts big blind $3
+*** HOLE CARDS ***
+Bueffel: calls $2
+Reyes leaves the table
+MTails: raises $3 to $6
+Bueffel: calls $3
+*** FLOP *** [5c Qc Jh]
+MTails: bets $3
+Bueffel: calls $3
+*** TURN *** [5c Qc Jh] [Js]
+MTails: bets $6
+Bueffel: calls $6
+*** RIVER *** [5c Qc Jh Js] [3s]
+MTails: bets $6
+Bueffel: calls $6
+*** SHOW DOWN ***
+MTails: shows [Tc 6s] (a pair of Jacks)
+Bueffel: shows [5d As] (two pair, Jacks and Fives)
+Bueffel collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [5c Qc Jh Js 3s]
+Seat 3: MTails (big blind) showed [Tc 6s] and lost with a pair of Jacks
+Seat 5: Bueffel (button) (small blind) showed [5d As] and won ($41.50) with two pair, Jacks and Fives
+
+
+PokerStars Hand #171676481540:  Hold'em Limit ($3/$6 USD) - 2017/06/12 9:13:42 ET
+Table 'Imatra' 6-max Seat #3 is the button
+Seat 3: MTails ($74.85 in chips)
+Seat 5: Bueffel ($59.69 in chips)
+MTails: posts small blind $1
+Bueffel: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+Bueffel: folds
+Uncalled bet ($3) returned to MTails
+MTails collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: MTails (button) (small blind) collected ($6)
+Seat 5: Bueffel (big blind) folded before Flop
+
+

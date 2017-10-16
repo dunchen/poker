@@ -1,0 +1,28 @@
+PokerStars Hand #148509668917:  Hold'em Limit ($3/$6 USD) - 2016/02/09 12:12:12 ET
+Table 'Lina' 6-max Seat #6 is the button
+Seat 1: Pokali ($111.42 in chips)
+Seat 6: paptec ($13.34 in chips)
+paptec: posts small blind $1
+Pokali: posts big blind $3
+*** HOLE CARDS ***
+paptec: raises $3 to $6
+Pokali: calls $3
+*** FLOP *** [5c Qd Jd]
+Pokali: checks
+paptec: checks
+*** TURN *** [5c Qd Jd] [9c]
+Pokali: bets $6
+paptec: raises $1.34 to $7.34 and is all-in
+Pokali: calls $1.34
+*** RIVER *** [5c Qd Jd 9c] [Ks]
+*** SHOW DOWN ***
+Pokali: shows [Qs 7c] (a pair of Queens)
+paptec: shows [7h 8s] (high card King)
+Pokali collected $26.18 from pot
+*** SUMMARY ***
+Total pot $26.68 | Rake $0.50
+Board [5c Qd Jd 9c Ks]
+Seat 1: Pokali (big blind) showed [Qs 7c] and won ($26.18) with a pair of Queens
+Seat 6: paptec (button) (small blind) showed [7h 8s] and lost with high card King
+
+

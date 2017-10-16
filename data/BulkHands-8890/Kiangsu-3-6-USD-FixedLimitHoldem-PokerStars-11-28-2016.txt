@@ -1,0 +1,61 @@
+PokerStars Hand #162109136848:  Hold'em Limit ($3/$6 USD) - 2016/11/28 16:33:54 ET
+Table 'Kiangsu' 10-max Seat #2 is the button
+Seat 2: Franky4Four ($72 in chips)
+Seat 3: vestimokrec ($137.50 in chips)
+Franky4Four: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+Franky4Four: calls $2
+vestimokrec: checks
+*** FLOP *** [7d Js 6c]
+vestimokrec: checks
+Franky4Four: checks
+*** TURN *** [7d Js 6c] [8d]
+vestimokrec: checks
+Franky4Four: bets $6
+vestimokrec: calls $6
+*** RIVER *** [7d Js 6c 8d] [Ac]
+vestimokrec: checks
+Franky4Four: bets $6
+vestimokrec: calls $6
+*** SHOW DOWN ***
+Franky4Four: shows [9d 5h] (a straight, Five to Nine)
+vestimokrec: mucks hand
+Franky4Four collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7d Js 6c 8d Ac]
+Seat 2: Franky4Four (button) (small blind) showed [9d 5h] and won ($29.50) with a straight, Five to Nine
+Seat 3: vestimokrec (big blind) mucked
+
+
+PokerStars Hand #162109085355:  Hold'em Limit ($3/$6 USD) - 2016/11/28 16:33:00 ET
+Table 'Kiangsu' 10-max Seat #3 is the button
+Seat 2: Franky4Four ($90 in chips)
+Seat 3: vestimokrec ($120 in chips)
+vestimokrec: posts small blind $1
+assitoni: is sitting out
+Franky4Four: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+Franky4Four: calls $3
+*** FLOP *** [8h Qs Td]
+Franky4Four: checks
+vestimokrec: checks
+*** TURN *** [8h Qs Td] [Ks]
+Franky4Four: bets $6
+vestimokrec: calls $6
+*** RIVER *** [8h Qs Td Ks] [5d]
+Franky4Four: bets $6
+vestimokrec: calls $6
+*** SHOW DOWN ***
+Franky4Four: shows [Js 3d] (high card King)
+vestimokrec: shows [3s 8s] (a pair of Eights)
+vestimokrec collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [8h Qs Td Ks 5d]
+Seat 2: Franky4Four (big blind) showed [Js 3d] and lost with high card King
+Seat 3: vestimokrec (button) (small blind) showed [3s 8s] and won ($35.50) with a pair of Eights
+
+

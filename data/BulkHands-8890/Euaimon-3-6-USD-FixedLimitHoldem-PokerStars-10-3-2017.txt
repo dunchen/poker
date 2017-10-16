@@ -1,0 +1,90 @@
+PokerStars Hand #176427582512:  Hold'em Limit ($3/$6 USD) - 2017/10/03 4:24:04 ET
+Table 'Euaimon' 6-max Seat #1 is the button
+Seat 1: CharginWapos ($42.78 in chips)
+Seat 5: scorpio04 ($405.51 in chips)
+CharginWapos: posts small blind $1
+scorpio04: posts big blind $3
+*** HOLE CARDS ***
+CharginWapos: raises $3 to $6
+scorpio04: calls $3
+*** FLOP *** [5c Ts 3c]
+scorpio04: checks
+CharginWapos: bets $3
+scorpio04: raises $3 to $6
+CharginWapos: calls $3
+*** TURN *** [5c Ts 3c] [9d]
+scorpio04: bets $6
+CharginWapos: raises $6 to $12
+scorpio04: calls $6
+*** RIVER *** [5c Ts 3c 9d] [6c]
+scorpio04: checks
+CharginWapos: bets $6
+scorpio04: calls $6
+*** SHOW DOWN ***
+CharginWapos: shows [Kh Tc] (a pair of Tens)
+scorpio04: mucks hand
+CharginWapos collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [5c Ts 3c 9d 6c]
+Seat 1: CharginWapos (button) (small blind) showed [Kh Tc] and won ($59.50) with a pair of Tens
+Seat 5: scorpio04 (big blind) mucked
+
+
+PokerStars Hand #176427591024:  Hold'em Limit ($3/$6 USD) - 2017/10/03 4:24:32 ET
+Table 'Euaimon' 6-max Seat #1 is the button
+Seat 1: CharginWapos ($69.28 in chips)
+Seat 5: scorpio04 ($378.51 in chips)
+CharginWapos: posts small blind $1
+scorpio04: posts big blind $3
+*** HOLE CARDS ***
+CharginWapos: raises $3 to $6
+andyrr joins the table at seat #6
+scorpio04: calls $3
+*** FLOP *** [Qc Qd Ts]
+scorpio04: checks
+CharginWapos: checks
+*** TURN *** [Qc Qd Ts] [Th]
+scorpio04: bets $6
+CharginWapos: folds
+Uncalled bet ($6) returned to scorpio04
+scorpio04 collected $11.76 from pot
+scorpio04: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qc Qd Ts Th]
+Seat 1: CharginWapos (button) (small blind) folded on the Turn
+Seat 5: scorpio04 (big blind) collected ($11.76)
+
+
+PokerStars Hand #176436967521:  Hold'em Limit ($3/$6 USD) - 2017/10/03 10:26:21 ET
+Table 'Euaimon' 6-max Seat #4 is the button
+Seat 3: B_loJkl ($72 in chips)
+Seat 4: zimin10 ($126 in chips)
+zimin10: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+zimin10: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [5d 6c Jd]
+kungsbjörn leaves the table
+B_loJkl: bets $3
+zimin10: calls $3
+*** TURN *** [5d 6c Jd] [Ks]
+B_loJkl: bets $6
+zimin10: raises $6 to $12
+B_loJkl: calls $6
+*** RIVER *** [5d 6c Jd Ks] [2s]
+B_loJkl: checks
+zimin10: checks
+*** SHOW DOWN ***
+B_loJkl: shows [8d 2d] (a pair of Deuces)
+zimin10: mucks hand
+B_loJkl collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [5d 6c Jd Ks 2s]
+Seat 3: B_loJkl (big blind) showed [8d 2d] and won ($41.50) with a pair of Deuces
+Seat 4: zimin10 (button) (small blind) mucked
+
+

@@ -1,0 +1,460 @@
+PokerStars Hand #146559754346:  Hold'em Limit ($3/$6 USD) - 2016/01/06 7:32:43 ET
+Table 'Gallia' 6-max Seat #5 is the button
+Seat 1: LolDnkaments ($76 in chips)
+Seat 5: ChaseMeIfUC ($50.64 in chips)
+ChaseMeIfUC: posts small blind $1
+LolDnkaments: posts big blind $3
+*** HOLE CARDS ***
+ChaseMeIfUC: raises $3 to $6
+LolDnkaments: calls $3
+*** FLOP *** [Ts 9s 5s]
+LolDnkaments: checks
+ChaseMeIfUC: bets $3
+LolDnkaments: calls $3
+*** TURN *** [Ts 9s 5s] [8h]
+LolDnkaments: checks
+ChaseMeIfUC: checks
+*** RIVER *** [Ts 9s 5s 8h] [Qh]
+LolDnkaments: checks
+ChaseMeIfUC: bets $6
+LolDnkaments: calls $6
+*** SHOW DOWN ***
+ChaseMeIfUC: shows [Kh Qc] (a pair of Queens)
+LolDnkaments: mucks hand
+ChaseMeIfUC collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ts 9s 5s 8h Qh]
+Seat 1: LolDnkaments (big blind) mucked
+Seat 5: ChaseMeIfUC (button) (small blind) showed [Kh Qc] and won ($29.50) with a pair of Queens
+
+
+PokerStars Hand #146559750276:  Hold'em Limit ($3/$6 USD) - 2016/01/06 7:32:37 ET
+Table 'Gallia' 6-max Seat #1 is the button
+Seat 1: LolDnkaments ($73 in chips)
+Seat 5: ChaseMeIfUC ($53.64 in chips)
+LolDnkaments: posts small blind $1
+ChaseMeIfUC: posts big blind $3
+*** HOLE CARDS ***
+LolDnkaments: raises $3 to $6
+ChaseMeIfUC: folds
+Uncalled bet ($3) returned to LolDnkaments
+LolDnkaments collected $6 from pot
+LolDnkaments: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: LolDnkaments (button) (small blind) collected ($6)
+Seat 5: ChaseMeIfUC (big blind) folded before Flop
+
+
+PokerStars Hand #146559746315:  Hold'em Limit ($3/$6 USD) - 2016/01/06 7:32:31 ET
+Table 'Gallia' 6-max Seat #5 is the button
+Seat 1: LolDnkaments ($72 in chips)
+Seat 5: ChaseMeIfUC ($54.64 in chips)
+ChaseMeIfUC: posts small blind $1
+LolDnkaments: posts big blind $3
+*** HOLE CARDS ***
+ChaseMeIfUC: folds
+Uncalled bet ($2) returned to LolDnkaments
+LolDnkaments collected $2 from pot
+LolDnkaments: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: LolDnkaments (big blind) collected ($2)
+Seat 5: ChaseMeIfUC (button) (small blind) folded before Flop
+
+
+PokerStars Hand #146559727468:  Hold'em Limit ($3/$6 USD) - 2016/01/06 7:32:00 ET
+Table 'Gallia' 6-max Seat #5 is the button
+Seat 1: LolDnkaments ($72 in chips)
+Seat 5: ChaseMeIfUC ($55 in chips)
+ChaseMeIfUC: posts small blind $1
+LolDnkaments: posts big blind $3
+*** HOLE CARDS ***
+ChaseMeIfUC: raises $3 to $6
+LolDnkaments: calls $3
+*** FLOP *** [Qh Qc 3d]
+LolDnkaments: checks
+ChaseMeIfUC: bets $3
+LolDnkaments: calls $3
+*** TURN *** [Qh Qc 3d] [5d]
+LolDnkaments: checks
+ChaseMeIfUC: checks
+*** RIVER *** [Qh Qc 3d 5d] [Td]
+LolDnkaments: bets $6
+ChaseMeIfUC: folds
+Uncalled bet ($6) returned to LolDnkaments
+LolDnkaments collected $17.64 from pot
+LolDnkaments: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qh Qc 3d 5d Td]
+Seat 1: LolDnkaments (big blind) collected ($17.64)
+Seat 5: ChaseMeIfUC (button) (small blind) folded on the River
+
+
+PokerStars Hand #146559788251:  Hold'em Limit ($3/$6 USD) - 2016/01/06 7:33:37 ET
+Table 'Gallia' 6-max Seat #1 is the button
+Seat 1: LolDnkaments ($89.50 in chips)
+Seat 5: ChaseMeIfUC ($46.90 in chips)
+LolDnkaments: posts small blind $1
+ChaseMeIfUC: posts big blind $3
+*** HOLE CARDS ***
+LolDnkaments: raises $3 to $6
+ChaseMeIfUC: raises $3 to $9
+LolDnkaments: calls $3
+*** FLOP *** [2c 5s 2s]
+ChaseMeIfUC: bets $3
+LolDnkaments: calls $3
+*** TURN *** [2c 5s 2s] [9s]
+ChaseMeIfUC: checks
+LolDnkaments: bets $6
+ChaseMeIfUC: calls $6
+*** RIVER *** [2c 5s 2s 9s] [8h]
+ChaseMeIfUC: checks
+LolDnkaments: checks
+*** SHOW DOWN ***
+ChaseMeIfUC: shows [Kh Js] (a pair of Deuces)
+LolDnkaments: shows [Ad Tc] (a pair of Deuces - Ace kicker)
+LolDnkaments collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [2c 5s 2s 9s 8h]
+Seat 1: LolDnkaments (button) (small blind) showed [Ad Tc] and won ($35.50) with a pair of Deuces
+Seat 5: ChaseMeIfUC (big blind) showed [Kh Js] and lost with a pair of Deuces
+
+
+PokerStars Hand #146559780072:  Hold'em Limit ($3/$6 USD) - 2016/01/06 7:33:24 ET
+Table 'Gallia' 6-max Seat #5 is the button
+Seat 1: LolDnkaments ($95.50 in chips)
+Seat 5: ChaseMeIfUC ($41.14 in chips)
+ChaseMeIfUC: posts small blind $1
+LolDnkaments: posts big blind $3
+*** HOLE CARDS ***
+ChaseMeIfUC: raises $3 to $6
+LolDnkaments: calls $3
+*** FLOP *** [5s 7d 5d]
+LolDnkaments: checks
+ChaseMeIfUC: bets $3
+LolDnkaments: folds
+Uncalled bet ($3) returned to ChaseMeIfUC
+ChaseMeIfUC collected $11.76 from pot
+ChaseMeIfUC: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5s 7d 5d]
+Seat 1: LolDnkaments (big blind) folded on the Flop
+Seat 5: ChaseMeIfUC (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #146559765377:  Hold'em Limit ($3/$6 USD) - 2016/01/06 7:33:01 ET
+Table 'Gallia' 6-max Seat #1 is the button
+Seat 1: LolDnkaments ($72 in chips)
+Seat 5: ChaseMeIfUC ($65.14 in chips)
+LolDnkaments: posts small blind $1
+ChaseMeIfUC: posts big blind $3
+*** HOLE CARDS ***
+LolDnkaments: raises $3 to $6
+ChaseMeIfUC: calls $3
+*** FLOP *** [Ah 5s Jd]
+ChaseMeIfUC: checks
+LolDnkaments: bets $3
+ChaseMeIfUC: raises $3 to $6
+LolDnkaments: calls $3
+*** TURN *** [Ah 5s Jd] [Qc]
+ChaseMeIfUC: checks
+LolDnkaments: bets $6
+ChaseMeIfUC: calls $6
+*** RIVER *** [Ah 5s Jd Qc] [8h]
+ChaseMeIfUC: checks
+LolDnkaments: bets $6
+ChaseMeIfUC: calls $6
+*** SHOW DOWN ***
+LolDnkaments: shows [Ac Js] (two pair, Aces and Jacks)
+ChaseMeIfUC: mucks hand
+LolDnkaments collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Ah 5s Jd Qc 8h]
+Seat 1: LolDnkaments (button) (small blind) showed [Ac Js] and won ($47.50) with two pair, Aces and Jacks
+Seat 5: ChaseMeIfUC (big blind) mucked
+
+
+PokerStars Hand #146559803001:  Hold'em Limit ($3/$6 USD) - 2016/01/06 7:34:01 ET
+Table 'Gallia' 6-max Seat #5 is the button
+Seat 1: LolDnkaments ($107 in chips)
+Seat 5: ChaseMeIfUC ($28.90 in chips)
+ChaseMeIfUC: posts small blind $1
+LolDnkaments: posts big blind $3
+*** HOLE CARDS ***
+ChaseMeIfUC: raises $3 to $6
+LolDnkaments: raises $3 to $9
+ChaseMeIfUC: calls $3
+*** FLOP *** [2s 8s 6c]
+LolDnkaments: bets $3
+ChaseMeIfUC: calls $3
+*** TURN *** [2s 8s 6c] [3d]
+LolDnkaments: bets $6
+ChaseMeIfUC: calls $6
+*** RIVER *** [2s 8s 6c 3d] [4d]
+LolDnkaments: checks
+ChaseMeIfUC: bets $6
+LolDnkaments: calls $6
+*** SHOW DOWN ***
+ChaseMeIfUC: shows [3c 5c] (a straight, Deuce to Six)
+LolDnkaments: mucks hand
+ChaseMeIfUC collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2s 8s 6c 3d 4d]
+Seat 1: LolDnkaments (big blind) mucked
+Seat 5: ChaseMeIfUC (button) (small blind) showed [3c 5c] and won ($47.50) with a straight, Deuce to Six
+
+
+PokerStars Hand #146559841504:  Hold'em Limit ($3/$6 USD) - 2016/01/06 7:35:02 ET
+Table 'Gallia' 6-max Seat #1 is the button
+Seat 1: LolDnkaments ($72 in chips)
+Seat 5: ChaseMeIfUC ($75.66 in chips)
+LolDnkaments: posts small blind $1
+ChaseMeIfUC: posts big blind $3
+*** HOLE CARDS ***
+LolDnkaments: folds
+Uncalled bet ($2) returned to ChaseMeIfUC
+ChaseMeIfUC collected $2 from pot
+ChaseMeIfUC: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: LolDnkaments (button) (small blind) folded before Flop
+Seat 5: ChaseMeIfUC (big blind) collected ($2)
+
+
+PokerStars Hand #146559833652:  Hold'em Limit ($3/$6 USD) - 2016/01/06 7:34:49 ET
+Table 'Gallia' 6-max Seat #5 is the button
+Seat 1: LolDnkaments ($72 in chips)
+Seat 5: ChaseMeIfUC ($69.90 in chips)
+ChaseMeIfUC: posts small blind $1
+LolDnkaments: posts big blind $3
+*** HOLE CARDS ***
+ChaseMeIfUC: raises $3 to $6
+LolDnkaments: calls $3
+*** FLOP *** [3s 7s As]
+LolDnkaments: checks
+ChaseMeIfUC: bets $3
+LolDnkaments: folds
+Uncalled bet ($3) returned to ChaseMeIfUC
+ChaseMeIfUC collected $11.76 from pot
+ChaseMeIfUC: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3s 7s As]
+Seat 1: LolDnkaments (big blind) folded on the Flop
+Seat 5: ChaseMeIfUC (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #146559820540:  Hold'em Limit ($3/$6 USD) - 2016/01/06 7:34:28 ET
+Table 'Gallia' 6-max Seat #1 is the button
+Seat 1: LolDnkaments ($83 in chips)
+Seat 5: ChaseMeIfUC ($52.40 in chips)
+LolDnkaments: posts small blind $1
+ChaseMeIfUC: posts big blind $3
+*** HOLE CARDS ***
+LolDnkaments: raises $3 to $6
+ChaseMeIfUC: raises $3 to $9
+LolDnkaments: calls $3
+*** FLOP *** [5s Ad 2c]
+ChaseMeIfUC: bets $3
+LolDnkaments: calls $3
+*** TURN *** [5s Ad 2c] [7c]
+ChaseMeIfUC: checks
+LolDnkaments: bets $6
+ChaseMeIfUC: calls $6
+*** RIVER *** [5s Ad 2c 7c] [9s]
+ChaseMeIfUC: checks
+LolDnkaments: checks
+*** SHOW DOWN ***
+ChaseMeIfUC: shows [Kh Ks] (a pair of Kings)
+LolDnkaments: mucks hand
+ChaseMeIfUC collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5s Ad 2c 7c 9s]
+Seat 1: LolDnkaments (button) (small blind) mucked
+Seat 5: ChaseMeIfUC (big blind) showed [Kh Ks] and won ($35.50) with a pair of Kings
+
+
+PokerStars Hand #146559816351:  Hold'em Limit ($3/$6 USD) - 2016/01/06 7:34:22 ET
+Table 'Gallia' 6-max Seat #5 is the button
+Seat 1: LolDnkaments ($82 in chips)
+Seat 5: ChaseMeIfUC ($53.40 in chips)
+ChaseMeIfUC: posts small blind $1
+LolDnkaments: posts big blind $3
+*** HOLE CARDS ***
+ChaseMeIfUC: folds
+Uncalled bet ($2) returned to LolDnkaments
+LolDnkaments collected $2 from pot
+LolDnkaments: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: LolDnkaments (big blind) collected ($2)
+Seat 5: ChaseMeIfUC (button) (small blind) folded before Flop
+
+
+PokerStars Hand #146559813144:  Hold'em Limit ($3/$6 USD) - 2016/01/06 7:34:17 ET
+Table 'Gallia' 6-max Seat #1 is the button
+Seat 1: LolDnkaments ($83 in chips)
+Seat 5: ChaseMeIfUC ($52.40 in chips)
+LolDnkaments: posts small blind $1
+ChaseMeIfUC: posts big blind $3
+*** HOLE CARDS ***
+LolDnkaments: folds
+Uncalled bet ($2) returned to ChaseMeIfUC
+ChaseMeIfUC collected $2 from pot
+ChaseMeIfUC: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: LolDnkaments (button) (small blind) folded before Flop
+Seat 5: ChaseMeIfUC (big blind) collected ($2)
+
+
+PokerStars Hand #146559844710:  Hold'em Limit ($3/$6 USD) - 2016/01/06 7:35:07 ET
+Table 'Gallia' 6-max Seat #5 is the button
+Seat 1: LolDnkaments ($72 in chips)
+Seat 5: ChaseMeIfUC ($76.66 in chips)
+ChaseMeIfUC: posts small blind $1
+LolDnkaments: posts big blind $3
+*** HOLE CARDS ***
+ChaseMeIfUC: folds
+Uncalled bet ($2) returned to LolDnkaments
+LolDnkaments collected $2 from pot
+LolDnkaments: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: LolDnkaments (big blind) collected ($2)
+Seat 5: ChaseMeIfUC (button) (small blind) folded before Flop
+
+
+PokerStars Hand #146559852347:  Hold'em Limit ($3/$6 USD) - 2016/01/06 7:35:19 ET
+Table 'Gallia' 6-max Seat #5 is the button
+Seat 1: LolDnkaments ($76 in chips)
+Seat 5: ChaseMeIfUC ($72.66 in chips)
+ChaseMeIfUC: posts small blind $1
+LolDnkaments: posts big blind $3
+*** HOLE CARDS ***
+ChaseMeIfUC: raises $3 to $6
+LolDnkaments: raises $3 to $9
+ChaseMeIfUC: calls $3
+*** FLOP *** [Qd 8h Ad]
+LolDnkaments: bets $3
+ChaseMeIfUC: raises $3 to $6
+LolDnkaments: raises $3 to $9
+ChaseMeIfUC: calls $3
+*** TURN *** [Qd 8h Ad] [2d]
+LolDnkaments: bets $6
+ChaseMeIfUC: folds
+Uncalled bet ($6) returned to LolDnkaments
+LolDnkaments collected $35.50 from pot
+LolDnkaments: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Qd 8h Ad 2d]
+Seat 1: LolDnkaments (big blind) collected ($35.50)
+Seat 5: ChaseMeIfUC (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #146559848306:  Hold'em Limit ($3/$6 USD) - 2016/01/06 7:35:12 ET
+Table 'Gallia' 6-max Seat #1 is the button
+Seat 1: LolDnkaments ($73 in chips)
+Seat 5: ChaseMeIfUC ($75.66 in chips)
+LolDnkaments: posts small blind $1
+ChaseMeIfUC: posts big blind $3
+*** HOLE CARDS ***
+LolDnkaments: raises $3 to $6
+ChaseMeIfUC: folds
+Uncalled bet ($3) returned to LolDnkaments
+LolDnkaments collected $6 from pot
+LolDnkaments: doesn't show hand
+Andredias950 joins the table at seat #4
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: LolDnkaments (button) (small blind) collected ($6)
+Seat 5: ChaseMeIfUC (big blind) folded before Flop
+
+
+PokerStars Hand #146559954557:  Hold'em Limit ($3/$6 USD) - 2016/01/06 7:38:00 ET
+Table 'Gallia' 6-max Seat #1 is the button
+Seat 1: LolDnkaments ($148.41 in chips)
+Seat 5: ChaseMeIfUC ($21.66 in chips)
+LolDnkaments: posts small blind $1
+ChaseMeIfUC: posts big blind $3
+*** HOLE CARDS ***
+LolDnkaments: raises $3 to $6
+ChaseMeIfUC: calls $3
+*** FLOP *** [5s Kd 4s]
+ChaseMeIfUC: checks
+LolDnkaments: bets $3
+ChaseMeIfUC: calls $3
+*** TURN *** [5s Kd 4s] [Kh]
+ChaseMeIfUC: checks
+LolDnkaments: checks
+*** RIVER *** [5s Kd 4s Kh] [6d]
+ChaseMeIfUC: checks
+LolDnkaments: checks
+*** SHOW DOWN ***
+ChaseMeIfUC: shows [Ah 3s] (a pair of Kings)
+LolDnkaments: shows [9s As] (a pair of Kings - Ace+Nine kicker)
+LolDnkaments collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5s Kd 4s Kh 6d]
+Seat 1: LolDnkaments (button) (small blind) showed [9s As] and won ($17.64) with a pair of Kings
+Seat 5: ChaseMeIfUC (big blind) showed [Ah 3s] and lost with a pair of Kings
+
+
+PokerStars Hand #146559966097:  Hold'em Limit ($3/$6 USD) - 2016/01/06 7:38:19 ET
+Table 'Gallia' 6-max Seat #5 is the button
+Seat 1: LolDnkaments ($157.05 in chips)
+Seat 5: ChaseMeIfUC ($12.66 in chips)
+ChaseMeIfUC: posts small blind $1
+LolDnkaments: posts big blind $3
+*** HOLE CARDS ***
+ChaseMeIfUC: folds
+Uncalled bet ($2) returned to LolDnkaments
+LolDnkaments collected $2 from pot
+LolDnkaments: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: LolDnkaments (big blind) collected ($2)
+Seat 5: ChaseMeIfUC (button) (small blind) folded before Flop
+
+
+PokerStars Hand #146560979176:  Hold'em Limit ($3/$6 USD) - 2016/01/06 8:04:50 ET
+Table 'Gallia' 6-max Seat #1 is the button
+Seat 1: LolDnkaments ($91.18 in chips)
+Seat 3: artiZzt ($93.56 in chips)
+LolDnkaments: posts small blind $1
+artiZzt: posts big blind $3
+*** HOLE CARDS ***
+LolDnkaments: raises $3 to $6
+artiZzt: calls $3
+*** FLOP *** [9c Jh Jc]
+ChaseMeIfUC leaves the table
+artiZzt: checks
+LolDnkaments: bets $3
+artiZzt: calls $3
+*** TURN *** [9c Jh Jc] [5h]
+artiZzt: checks
+LolDnkaments: checks
+*** RIVER *** [9c Jh Jc 5h] [Kh]
+artiZzt: checks
+LolDnkaments: bets $6
+artiZzt: folds
+Uncalled bet ($6) returned to LolDnkaments
+LolDnkaments collected $17.64 from pot
+LolDnkaments: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9c Jh Jc 5h Kh]
+Seat 1: LolDnkaments (button) (small blind) collected ($17.64)
+Seat 3: artiZzt (big blind) folded on the River
+
+

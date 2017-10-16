@@ -1,0 +1,35 @@
+PokerStars Hand #173305265698:  Hold'em Limit ($3/$6 USD) - 2017/07/21 1:12:26 ET
+Table 'Laertes' 6-max Seat #3 is the button
+Seat 3: faxe93 ($34.16 in chips)
+Seat 5: VolkovDmitri ($120 in chips)
+faxe93: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+faxe93: calls $2
+VolkovDmitri: raises $3 to $6
+faxe93: calls $3
+*** FLOP *** [9s Qd 5d]
+VolkovDmitri: bets $3
+faxe93: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [9s Qd 5d] [6d]
+VolkovDmitri: checks
+faxe93: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [9s Qd 5d 6d] [7h]
+VolkovDmitri: bets $6
+faxe93: raises $6 to $12
+VolkovDmitri: raises $6 to $18
+faxe93: calls $4.16 and is all-in
+Uncalled bet ($1.84) returned to VolkovDmitri
+*** SHOW DOWN ***
+VolkovDmitri: shows [8c Jc] (a straight, Five to Nine)
+faxe93: shows [Qc 4c] (a pair of Queens)
+VolkovDmitri collected $67.82 from pot
+*** SUMMARY ***
+Total pot $68.32 | Rake $0.50
+Board [9s Qd 5d 6d 7h]
+Seat 3: faxe93 (button) (small blind) showed [Qc 4c] and lost with a pair of Queens
+Seat 5: VolkovDmitri (big blind) showed [8c Jc] and won ($67.82) with a straight, Five to Nine
+
+

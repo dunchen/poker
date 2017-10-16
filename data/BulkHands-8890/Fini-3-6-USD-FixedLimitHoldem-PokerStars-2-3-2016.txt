@@ -1,0 +1,64 @@
+PokerStars Hand #148144783703:  Hold'em Limit ($3/$6 USD) - 2016/02/02 21:11:55 ET
+Table 'Fini' 6-max Seat #4 is the button
+Seat 4: ToDaFelt ($323.43 in chips)
+Seat 5: Rmk1500 ($68.28 in chips)
+ToDaFelt: posts small blind $1
+Rmk1500: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+Rmk1500: calls $3
+*** FLOP *** [3h 5h 4c]
+Rmk1500: checks
+ToDaFelt: bets $3
+Rmk1500: calls $3
+*** TURN *** [3h 5h 4c] [8d]
+Rmk1500: checks
+ToDaFelt: bets $6
+Rmk1500: calls $6
+*** RIVER *** [3h 5h 4c 8d] [As]
+Rmk1500: checks
+ToDaFelt: checks
+*** SHOW DOWN ***
+Rmk1500: shows [Td 6d] (high card Ace)
+ToDaFelt: shows [5c 7s] (a pair of Fives)
+ToDaFelt collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3h 5h 4c 8d As]
+Seat 4: ToDaFelt (button) (small blind) showed [5c 7s] and won ($29.50) with a pair of Fives
+Seat 5: Rmk1500 (big blind) showed [Td 6d] and lost with high card Ace
+
+
+PokerStars Hand #148144765187:  Hold'em Limit ($3/$6 USD) - 2016/02/02 21:11:16 ET
+Table 'Fini' 6-max Seat #5 is the button
+Seat 4: ToDaFelt ($344.43 in chips)
+Seat 5: Rmk1500 ($47.78 in chips)
+Rmk1500: posts small blind $1
+TinaTurner72: is sitting out
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+Rmk1500: raises $3 to $6
+TinaTurner72 leaves the table
+ToDaFelt: calls $3
+*** FLOP *** [5h 3h 4d]
+ToDaFelt: checks
+Rmk1500: bets $3
+ToDaFelt: calls $3
+*** TURN *** [5h 3h 4d] [Kc]
+ToDaFelt: checks
+Rmk1500: checks
+*** RIVER *** [5h 3h 4d Kc] [2d]
+ToDaFelt: bets $6
+Rmk1500: raises $6 to $12
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+Rmk1500: shows [Ac 6d] (a straight, Deuce to Six)
+ToDaFelt: mucks hand
+Rmk1500 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [5h 3h 4d Kc 2d]
+Seat 4: ToDaFelt (big blind) mucked
+Seat 5: Rmk1500 (button) (small blind) showed [Ac 6d] and won ($41.50) with a straight, Deuce to Six
+
+

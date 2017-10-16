@@ -1,0 +1,31 @@
+PokerStars Hand #175883775510:  Hold'em Limit ($3/$6 USD) - 2017/09/20 6:44:10 ET
+Table 'Adelaide' 6-max Seat #1 is the button
+Seat 1: Psynto ($110.73 in chips)
+Seat 4: picsel37 ($85.29 in chips)
+Psynto: posts small blind $1
+picsel37: posts big blind $3
+*** HOLE CARDS ***
+Psynto: raises $3 to $6
+picsel37: calls $3
+*** FLOP *** [Td 3d 9c]
+picsel37: checks
+Psynto: bets $3
+picsel37: calls $3
+*** TURN *** [Td 3d 9c] [4d]
+picsel37: checks
+Psynto: bets $6
+picsel37: calls $6
+*** RIVER *** [Td 3d 9c 4d] [5d]
+picsel37: bets $6
+Psynto: calls $6
+*** SHOW DOWN ***
+picsel37: shows [8d Ah] (a flush, Ten high)
+Psynto: mucks hand
+picsel37 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Td 3d 9c 4d 5d]
+Seat 1: Psynto (button) (small blind) mucked
+Seat 4: picsel37 (big blind) showed [8d Ah] and won ($41.50) with a flush, Ten high
+
+

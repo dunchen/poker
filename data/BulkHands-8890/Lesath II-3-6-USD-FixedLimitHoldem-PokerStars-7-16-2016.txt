@@ -1,0 +1,755 @@
+PokerStars Hand #156035234860:  Hold'em Limit ($3/$6 USD) - 2016/07/16 7:54:21 ET
+Table 'Lesath II' 10-max Seat #5 is the button
+Seat 5: simper11 ($125.76 in chips)
+Seat 6: xxXguardXxx ($24 in chips)
+simper11: posts small blind $1
+xxXguardXxx: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+xxXguardXxx: calls $3
+*** FLOP *** [2c Th Ts]
+xxXguardXxx: checks
+simper11: bets $3
+xxXguardXxx: raises $3 to $6
+simper11: calls $3
+*** TURN *** [2c Th Ts] [9h]
+xxXguardXxx: bets $6
+simper11: calls $6
+*** RIVER *** [2c Th Ts 9h] [4d]
+xxXguardXxx: bets $6 and is all-in
+simper11: calls $6
+*** SHOW DOWN ***
+xxXguardXxx: shows [7c 3c] (a pair of Tens)
+simper11: shows [Jd Kh] (a pair of Tens - King kicker)
+simper11 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2c Th Ts 9h 4d]
+Seat 5: simper11 (button) (small blind) showed [Jd Kh] and won ($47.50) with a pair of Tens
+Seat 6: xxXguardXxx (big blind) showed [7c 3c] and lost with a pair of Tens
+
+
+PokerStars Hand #156035227598:  Hold'em Limit ($3/$6 USD) - 2016/07/16 7:54:05 ET
+Table 'Lesath II' 10-max Seat #6 is the button
+Seat 5: simper11 ($120 in chips)
+Seat 6: xxXguardXxx ($30 in chips)
+xxXguardXxx: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+xxXguardXxx: calls $2
+simper11: checks
+*** FLOP *** [9h 3c Jh]
+simper11: bets $3
+xxXguardXxx: calls $3
+*** TURN *** [9h 3c Jh] [9d]
+simper11: bets $6
+xxXguardXxx: folds
+Uncalled bet ($6) returned to simper11
+simper11 collected $11.76 from pot
+simper11: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9h 3c Jh 9d]
+Seat 5: simper11 (big blind) collected ($11.76)
+Seat 6: xxXguardXxx (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #156041010769:  Hold'em Limit ($3/$6 USD) - 2016/07/16 10:57:09 ET
+Table 'Lesath II' 10-max Seat #7 is the button
+Seat 6: Scheubi88 ($75 in chips)
+Seat 7: vovojc ($134.50 in chips)
+vovojc: posts small blind $1
+Scheubi88: posts big blind $3
+*** HOLE CARDS ***
+vovojc: raises $3 to $6
+Scheubi88: calls $3
+*** FLOP *** [7h Kd 2d]
+Scheubi88: checks
+vovojc: bets $3
+Scheubi88: calls $3
+*** TURN *** [7h Kd 2d] [5s]
+Scheubi88: checks
+vovojc: bets $6
+Scheubi88: calls $6
+*** RIVER *** [7h Kd 2d 5s] [5d]
+Scheubi88: checks
+vovojc: bets $6
+Scheubi88: calls $6
+*** SHOW DOWN ***
+vovojc: shows [Ks Qc] (two pair, Kings and Fives)
+Scheubi88: mucks hand
+vovojc collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [7h Kd 2d 5s 5d]
+Seat 6: Scheubi88 (big blind) mucked
+Seat 7: vovojc (button) (small blind) showed [Ks Qc] and won ($41.50) with two pair, Kings and Fives
+
+
+PokerStars Hand #156041001166:  Hold'em Limit ($3/$6 USD) - 2016/07/16 10:56:49 ET
+Table 'Lesath II' 10-max Seat #6 is the button
+Seat 6: Scheubi88 ($90 in chips)
+Seat 7: vovojc ($120 in chips)
+Scheubi88: posts small blind $1
+vovojc: posts big blind $3
+*** HOLE CARDS ***
+Scheubi88: raises $3 to $6
+vovojc: calls $3
+*** FLOP *** [6d Jc 8s]
+vovojc: checks
+Scheubi88: bets $3
+vovojc: calls $3
+*** TURN *** [6d Jc 8s] [2s]
+vovojc: checks
+Scheubi88: checks
+*** RIVER *** [6d Jc 8s 2s] [4c]
+vovojc: bets $6
+Scheubi88: calls $6
+*** SHOW DOWN ***
+vovojc: shows [7s 8d] (a pair of Eights)
+Scheubi88: mucks hand
+vovojc collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6d Jc 8s 2s 4c]
+Seat 6: Scheubi88 (button) (small blind) mucked
+Seat 7: vovojc (big blind) showed [7s 8d] and won ($29.50) with a pair of Eights
+
+
+PokerStars Hand #156041038595:  Hold'em Limit ($3/$6 USD) - 2016/07/16 10:58:05 ET
+Table 'Lesath II' 10-max Seat #7 is the button
+Seat 6: Scheubi88 ($54.64 in chips)
+Seat 7: vovojc ($153.64 in chips)
+vovojc: posts small blind $1
+Scheubi88: posts big blind $3
+*** HOLE CARDS ***
+vovojc: raises $3 to $6
+Scheubi88: calls $3
+*** FLOP *** [5s 5h 9h]
+Scheubi88: checks
+vovojc: bets $3
+Scheubi88: calls $3
+*** TURN *** [5s 5h 9h] [8s]
+Scheubi88: checks
+vovojc: checks
+*** RIVER *** [5s 5h 9h 8s] [6s]
+Scheubi88: bets $6
+vovojc: folds
+Uncalled bet ($6) returned to Scheubi88
+Scheubi88 collected $17.64 from pot
+Scheubi88: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5s 5h 9h 8s 6s]
+Seat 6: Scheubi88 (big blind) collected ($17.64)
+Seat 7: vovojc (button) (small blind) folded on the River
+
+
+PokerStars Hand #156041031518:  Hold'em Limit ($3/$6 USD) - 2016/07/16 10:57:51 ET
+Table 'Lesath II' 10-max Seat #6 is the button
+Seat 6: Scheubi88 ($63.64 in chips)
+Seat 7: vovojc ($145 in chips)
+Scheubi88: posts small blind $1
+vovojc: posts big blind $3
+*** HOLE CARDS ***
+Scheubi88: raises $3 to $6
+vovojc: calls $3
+*** FLOP *** [Jh Kd Ac]
+vovojc: checks
+Scheubi88: bets $3
+vovojc: raises $3 to $6
+simper11 leaves the table
+Scheubi88: folds
+Uncalled bet ($3) returned to vovojc
+vovojc collected $17.64 from pot
+vovojc: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Jh Kd Ac]
+Seat 6: Scheubi88 (button) (small blind) folded on the Flop
+Seat 7: vovojc (big blind) collected ($17.64)
+
+
+PokerStars Hand #156041028697:  Hold'em Limit ($3/$6 USD) - 2016/07/16 10:57:45 ET
+Table 'Lesath II' 10-max Seat #7 is the button
+Seat 6: Scheubi88 ($62.64 in chips)
+Seat 7: vovojc ($146 in chips)
+vovojc: posts small blind $1
+Scheubi88: posts big blind $3
+*** HOLE CARDS ***
+vovojc: folds
+Uncalled bet ($2) returned to Scheubi88
+Scheubi88 collected $2 from pot
+Scheubi88: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 6: Scheubi88 (big blind) collected ($2)
+Seat 7: vovojc (button) (small blind) folded before Flop
+
+
+PokerStars Hand #156041018927:  Hold'em Limit ($3/$6 USD) - 2016/07/16 10:57:25 ET
+Table 'Lesath II' 10-max Seat #6 is the button
+Seat 6: Scheubi88 ($54 in chips)
+Seat 7: vovojc ($155 in chips)
+Scheubi88: posts small blind $1
+vovojc: posts big blind $3
+*** HOLE CARDS ***
+Scheubi88: raises $3 to $6
+vovojc: calls $3
+*** FLOP *** [Qc Jc 9c]
+vovojc: checks
+Scheubi88: bets $3
+vovojc: calls $3
+*** TURN *** [Qc Jc 9c] [2h]
+vovojc: checks
+Scheubi88: checks
+*** RIVER *** [Qc Jc 9c 2h] [Ah]
+vovojc: checks
+Scheubi88: checks
+*** SHOW DOWN ***
+vovojc: shows [5c 6h] (high card Ace)
+Scheubi88: shows [8h 9h] (a pair of Nines)
+Scheubi88 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qc Jc 9c 2h Ah]
+Seat 6: Scheubi88 (button) (small blind) showed [8h 9h] and won ($17.64) with a pair of Nines
+Seat 7: vovojc (big blind) showed [5c 6h] and lost with high card Ace
+
+
+PokerStars Hand #156041048722:  Hold'em Limit ($3/$6 USD) - 2016/07/16 10:58:25 ET
+Table 'Lesath II' 10-max Seat #6 is the button
+Seat 6: Scheubi88 ($63.28 in chips)
+Seat 7: vovojc ($144.64 in chips)
+Scheubi88: posts small blind $1
+vovojc: posts big blind $3
+*** HOLE CARDS ***
+Scheubi88: raises $3 to $6
+vovojc: calls $3
+*** FLOP *** [Tc Qh Jc]
+vovojc: checks
+Scheubi88: bets $3
+vovojc: folds
+Uncalled bet ($3) returned to Scheubi88
+Scheubi88 collected $11.76 from pot
+Scheubi88: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Tc Qh Jc]
+Seat 6: Scheubi88 (button) (small blind) collected ($11.76)
+Seat 7: vovojc (big blind) folded on the Flop
+
+
+PokerStars Hand #156046743011:  Hold'em Limit ($3/$6 USD) - 2016/07/16 13:26:02 ET
+Table 'Lesath II' 10-max Seat #10 is the button
+Seat 7: VolkovDmitri ($120 in chips)
+Seat 10: HAOYUN88888 ($121.14 in chips)
+HAOYUN88888: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+HAOYUN88888: raises $3 to $6
+VolkovDmitri: folds
+Uncalled bet ($3) returned to HAOYUN88888
+HAOYUN88888 collected $6 from pot
+HAOYUN88888: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 7: VolkovDmitri (big blind) folded before Flop
+Seat 10: HAOYUN88888 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #156046729718:  Hold'em Limit ($3/$6 USD) - 2016/07/16 13:25:43 ET
+Table 'Lesath II' 10-max Seat #7 is the button
+Seat 7: VolkovDmitri ($120 in chips)
+Seat 10: HAOYUN88888 ($112.50 in chips)
+VolkovDmitri: posts small blind $1
+HAOYUN88888: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+HAOYUN88888: calls $3
+*** FLOP *** [4h Tc 3d]
+HAOYUN88888: checks
+VolkovDmitri: bets $3
+HAOYUN88888: raises $3 to $6
+VolkovDmitri: folds
+Uncalled bet ($3) returned to HAOYUN88888
+HAOYUN88888 collected $17.64 from pot
+HAOYUN88888: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4h Tc 3d]
+Seat 7: VolkovDmitri (button) (small blind) folded on the Flop
+Seat 10: HAOYUN88888 (big blind) collected ($17.64)
+
+
+PokerStars Hand #156046790532:  Hold'em Limit ($3/$6 USD) - 2016/07/16 13:27:11 ET
+Table 'Lesath II' 10-max Seat #10 is the button
+Seat 7: VolkovDmitri ($125.76 in chips)
+Seat 10: HAOYUN88888 ($147.40 in chips)
+HAOYUN88888: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+HAOYUN88888: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 7: VolkovDmitri (big blind) collected ($2)
+Seat 10: HAOYUN88888 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #156046780437:  Hold'em Limit ($3/$6 USD) - 2016/07/16 13:26:56 ET
+Table 'Lesath II' 10-max Seat #7 is the button
+Seat 7: VolkovDmitri ($120 in chips)
+Seat 10: HAOYUN88888 ($153.40 in chips)
+VolkovDmitri: posts small blind $1
+HAOYUN88888: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+HAOYUN88888: calls $3
+*** FLOP *** [3s Kc 6h]
+HAOYUN88888: checks
+VolkovDmitri: bets $3
+HAOYUN88888: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3s Kc 6h]
+Seat 7: VolkovDmitri (button) (small blind) collected ($11.76)
+Seat 10: HAOYUN88888 (big blind) folded on the Flop
+
+
+PokerStars Hand #156046769544:  Hold'em Limit ($3/$6 USD) - 2016/07/16 13:26:40 ET
+Table 'Lesath II' 10-max Seat #10 is the button
+Seat 7: VolkovDmitri ($120 in chips)
+Seat 10: HAOYUN88888 ($147.64 in chips)
+HAOYUN88888: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+HAOYUN88888: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Ks Ah 6s]
+VolkovDmitri: checks
+HAOYUN88888: bets $3
+VolkovDmitri: folds
+Uncalled bet ($3) returned to HAOYUN88888
+HAOYUN88888 collected $11.76 from pot
+HAOYUN88888: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ks Ah 6s]
+Seat 7: VolkovDmitri (big blind) folded on the Flop
+Seat 10: HAOYUN88888 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #156046751961:  Hold'em Limit ($3/$6 USD) - 2016/07/16 13:26:15 ET
+Table 'Lesath II' 10-max Seat #7 is the button
+Seat 7: VolkovDmitri ($120 in chips)
+Seat 10: HAOYUN88888 ($124.14 in chips)
+VolkovDmitri: posts small blind $1
+HAOYUN88888: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+HAOYUN88888: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [9h 6c Jc]
+HAOYUN88888: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [9h 6c Jc] [2d]
+HAOYUN88888: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [9h 6c Jc 2d] [9s]
+HAOYUN88888: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+HAOYUN88888: shows [Ac 9c] (three of a kind, Nines)
+VolkovDmitri: mucks hand
+HAOYUN88888 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9h 6c Jc 2d 9s]
+Seat 7: VolkovDmitri (button) (small blind) mucked
+Seat 10: HAOYUN88888 (big blind) showed [Ac 9c] and won ($47.50) with three of a kind, Nines
+
+
+PokerStars Hand #156046823763:  Hold'em Limit ($3/$6 USD) - 2016/07/16 13:27:59 ET
+Table 'Lesath II' 10-max Seat #10 is the button
+Seat 7: VolkovDmitri ($140.28 in chips)
+Seat 10: HAOYUN88888 ($132.40 in chips)
+HAOYUN88888: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+HAOYUN88888: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 7: VolkovDmitri (big blind) collected ($2)
+Seat 10: HAOYUN88888 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #156046815189:  Hold'em Limit ($3/$6 USD) - 2016/07/16 13:27:47 ET
+Table 'Lesath II' 10-max Seat #7 is the button
+Seat 7: VolkovDmitri ($137.28 in chips)
+Seat 10: HAOYUN88888 ($135.40 in chips)
+VolkovDmitri: posts small blind $1
+HAOYUN88888: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+HAOYUN88888: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 7: VolkovDmitri (button) (small blind) collected ($6)
+Seat 10: HAOYUN88888 (big blind) folded before Flop
+
+
+PokerStars Hand #156046797317:  Hold'em Limit ($3/$6 USD) - 2016/07/16 13:27:21 ET
+Table 'Lesath II' 10-max Seat #10 is the button
+Seat 7: VolkovDmitri ($125.76 in chips)
+Seat 10: HAOYUN88888 ($147.40 in chips)
+HAOYUN88888: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+HAOYUN88888: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+HAOYUN88888: calls $3
+*** FLOP *** [7d 3d 5h]
+VolkovDmitri: bets $3
+HAOYUN88888: calls $3
+*** TURN *** [7d 3d 5h] [Kh]
+VolkovDmitri: bets $6
+HAOYUN88888: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $23.52 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [7d 3d 5h Kh]
+Seat 7: VolkovDmitri (big blind) collected ($23.52)
+Seat 10: HAOYUN88888 (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #156046793604:  Hold'em Limit ($3/$6 USD) - 2016/07/16 13:27:15 ET
+Table 'Lesath II' 10-max Seat #7 is the button
+Seat 7: VolkovDmitri ($126.76 in chips)
+Seat 10: HAOYUN88888 ($146.40 in chips)
+VolkovDmitri: posts small blind $1
+HAOYUN88888: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: folds
+Uncalled bet ($2) returned to HAOYUN88888
+HAOYUN88888 collected $2 from pot
+HAOYUN88888: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 7: VolkovDmitri (button) (small blind) folded before Flop
+Seat 10: HAOYUN88888 (big blind) collected ($2)
+
+
+PokerStars Hand #156046830310:  Hold'em Limit ($3/$6 USD) - 2016/07/16 13:28:09 ET
+Table 'Lesath II' 10-max Seat #10 is the button
+Seat 7: VolkovDmitri ($140.28 in chips)
+Seat 10: HAOYUN88888 ($132.40 in chips)
+HAOYUN88888: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+HAOYUN88888: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 7: VolkovDmitri (big blind) collected ($2)
+Seat 10: HAOYUN88888 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #156046826950:  Hold'em Limit ($3/$6 USD) - 2016/07/16 13:28:04 ET
+Table 'Lesath II' 10-max Seat #7 is the button
+Seat 7: VolkovDmitri ($141.28 in chips)
+Seat 10: HAOYUN88888 ($131.40 in chips)
+VolkovDmitri: posts small blind $1
+HAOYUN88888: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: folds
+Uncalled bet ($2) returned to HAOYUN88888
+HAOYUN88888 collected $2 from pot
+HAOYUN88888: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 7: VolkovDmitri (button) (small blind) folded before Flop
+Seat 10: HAOYUN88888 (big blind) collected ($2)
+
+
+PokerStars Hand #156046833441:  Hold'em Limit ($3/$6 USD) - 2016/07/16 13:28:14 ET
+Table 'Lesath II' 10-max Seat #7 is the button
+Seat 7: VolkovDmitri ($141.28 in chips)
+Seat 10: HAOYUN88888 ($131.40 in chips)
+VolkovDmitri: posts small blind $1
+HAOYUN88888: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+HAOYUN88888: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 7: VolkovDmitri (button) (small blind) collected ($6)
+Seat 10: HAOYUN88888 (big blind) folded before Flop
+
+
+PokerStars Hand #156046837836:  Hold'em Limit ($3/$6 USD) - 2016/07/16 13:28:20 ET
+Table 'Lesath II' 10-max Seat #10 is the button
+Seat 7: VolkovDmitri ($144.28 in chips)
+Seat 10: HAOYUN88888 ($128.40 in chips)
+HAOYUN88888: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+HAOYUN88888: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Qs 5c 4c]
+VolkovDmitri: checks
+HAOYUN88888: bets $3
+VolkovDmitri: raises $3 to $6
+HAOYUN88888: raises $3 to $9
+VolkovDmitri: calls $3
+*** TURN *** [Qs 5c 4c] [6c]
+VolkovDmitri: checks
+HAOYUN88888: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [Qs 5c 4c 6c] [4s]
+VolkovDmitri: bets $6
+HAOYUN88888: raises $6 to $12
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+HAOYUN88888: shows [8c Ac] (a flush, Ace high)
+VolkovDmitri: mucks hand
+HAOYUN88888 collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [Qs 5c 4c 6c 4s]
+Seat 7: VolkovDmitri (big blind) mucked
+Seat 10: HAOYUN88888 (button) (small blind) showed [8c Ac] and won ($65.50) with a flush, Ace high
+
+
+PokerStars Hand #156046901722:  Hold'em Limit ($3/$6 USD) - 2016/07/16 13:29:53 ET
+Table 'Lesath II' 10-max Seat #7 is the button
+Seat 7: VolkovDmitri ($138.50 in chips)
+Seat 10: HAOYUN88888 ($141.90 in chips)
+VolkovDmitri: posts small blind $1
+HAOYUN88888: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+HAOYUN88888: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 7: VolkovDmitri (button) (small blind) collected ($6)
+Seat 10: HAOYUN88888 (big blind) folded before Flop
+
+
+PokerStars Hand #156046898407:  Hold'em Limit ($3/$6 USD) - 2016/07/16 13:29:48 ET
+Table 'Lesath II' 10-max Seat #10 is the button
+Seat 7: VolkovDmitri ($137.50 in chips)
+Seat 10: HAOYUN88888 ($142.90 in chips)
+HAOYUN88888: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+HAOYUN88888: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 7: VolkovDmitri (big blind) collected ($2)
+Seat 10: HAOYUN88888 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #156046873764:  Hold'em Limit ($3/$6 USD) - 2016/07/16 13:29:13 ET
+Table 'Lesath II' 10-max Seat #7 is the button
+Seat 7: VolkovDmitri ($120 in chips)
+Seat 10: HAOYUN88888 ($160.90 in chips)
+VolkovDmitri: posts small blind $1
+HAOYUN88888: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+HAOYUN88888: calls $3
+*** FLOP *** [6s Kc 6h]
+HAOYUN88888: checks
+VolkovDmitri: checks
+*** TURN *** [6s Kc 6h] [Js]
+HAOYUN88888: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [6s Kc 6h Js] [2s]
+HAOYUN88888: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+HAOYUN88888: shows [As 4h] (a pair of Sixes)
+VolkovDmitri: shows [8d Ks] (two pair, Kings and Sixes)
+VolkovDmitri collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6s Kc 6h Js 2s]
+Seat 7: VolkovDmitri (button) (small blind) showed [8d Ks] and won ($35.50) with two pair, Kings and Sixes
+Seat 10: HAOYUN88888 (big blind) showed [As 4h] and lost with a pair of Sixes
+
+
+PokerStars Hand #156046905614:  Hold'em Limit ($3/$6 USD) - 2016/07/16 13:29:59 ET
+Table 'Lesath II' 10-max Seat #10 is the button
+Seat 7: VolkovDmitri ($141.50 in chips)
+Seat 10: HAOYUN88888 ($138.90 in chips)
+HAOYUN88888: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+HAOYUN88888: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [2d 4c Kd]
+VolkovDmitri: checks
+HAOYUN88888: bets $3
+VolkovDmitri: raises $3 to $6
+HAOYUN88888: raises $3 to $9
+VolkovDmitri: calls $3
+*** TURN *** [2d 4c Kd] [7d]
+VolkovDmitri: checks
+HAOYUN88888: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [2d 4c Kd 7d] [9s]
+VolkovDmitri: checks
+HAOYUN88888: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [Jd 3s] (high card King)
+HAOYUN88888: shows [Kc 6h] (a pair of Kings)
+HAOYUN88888 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2d 4c Kd 7d 9s]
+Seat 7: VolkovDmitri (big blind) showed [Jd 3s] and lost with high card King
+Seat 10: HAOYUN88888 (button) (small blind) showed [Kc 6h] and won ($41.50) with a pair of Kings
+
+
+PokerStars Hand #156046938354:  Hold'em Limit ($3/$6 USD) - 2016/07/16 13:30:46 ET
+Table 'Lesath II' 10-max Seat #7 is the button
+Seat 7: VolkovDmitri ($120.50 in chips)
+Seat 10: HAOYUN88888 ($159.40 in chips)
+VolkovDmitri: posts small blind $1
+HAOYUN88888: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+HAOYUN88888: calls $3
+*** FLOP *** [Ah 4s 7c]
+HAOYUN88888: checks
+VolkovDmitri: bets $3
+HAOYUN88888: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ah 4s 7c]
+Seat 7: VolkovDmitri (button) (small blind) collected ($11.76)
+Seat 10: HAOYUN88888 (big blind) folded on the Flop
+
+
+PokerStars Hand #156046960359:  Hold'em Limit ($3/$6 USD) - 2016/07/16 13:31:18 ET
+Table 'Lesath II' 10-max Seat #7 is the button
+Seat 7: VolkovDmitri ($132.02 in chips)
+Seat 10: HAOYUN88888 ($147.40 in chips)
+VolkovDmitri: posts small blind $1
+HAOYUN88888: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+HAOYUN88888: calls $3
+*** FLOP *** [6c 3h Kh]
+HAOYUN88888: checks
+VolkovDmitri: bets $3
+HAOYUN88888: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [6c 3h Kh] [Jc]
+HAOYUN88888: bets $6
+VolkovDmitri: raises $6 to $12
+HAOYUN88888: calls $6
+*** RIVER *** [6c 3h Kh Jc] [5h]
+HAOYUN88888: checks
+VolkovDmitri: bets $6
+HAOYUN88888: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Ks 3d] (two pair, Kings and Threes)
+HAOYUN88888: mucks hand
+VolkovDmitri collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [6c 3h Kh Jc 5h]
+Seat 7: VolkovDmitri (button) (small blind) showed [Ks 3d] and won ($59.50) with two pair, Kings and Threes
+Seat 10: HAOYUN88888 (big blind) mucked
+
+
+PokerStars Hand #156046946877:  Hold'em Limit ($3/$6 USD) - 2016/07/16 13:30:58 ET
+Table 'Lesath II' 10-max Seat #10 is the button
+Seat 7: VolkovDmitri ($126.26 in chips)
+Seat 10: HAOYUN88888 ($153.40 in chips)
+HAOYUN88888: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+HAOYUN88888: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [8h 5d 7s]
+VolkovDmitri: checks
+HAOYUN88888: checks
+*** TURN *** [8h 5d 7s] [Td]
+VolkovDmitri: bets $6
+HAOYUN88888: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8h 5d 7s Td]
+Seat 7: VolkovDmitri (big blind) collected ($11.76)
+Seat 10: HAOYUN88888 (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #156046994582:  Hold'em Limit ($3/$6 USD) - 2016/07/16 13:32:07 ET
+Table 'Lesath II' 10-max Seat #7 is the button
+Seat 7: VolkovDmitri ($162.52 in chips)
+Seat 10: HAOYUN88888 ($116.40 in chips)
+VolkovDmitri: posts small blind $1
+HAOYUN88888: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+kolaz03 joins the table at seat #1
+HAOYUN88888: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 7: VolkovDmitri (button) (small blind) collected ($6)
+Seat 10: HAOYUN88888 (big blind) folded before Flop
+
+
+PokerStars Hand #156046991561:  Hold'em Limit ($3/$6 USD) - 2016/07/16 13:32:03 ET
+Table 'Lesath II' 10-max Seat #10 is the button
+Seat 7: VolkovDmitri ($161.52 in chips)
+Seat 10: HAOYUN88888 ($117.40 in chips)
+HAOYUN88888: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+HAOYUN88888: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 7: VolkovDmitri (big blind) collected ($2)
+Seat 10: HAOYUN88888 (button) (small blind) folded before Flop
+
+

@@ -1,0 +1,74 @@
+PokerStars Hand #160444277701:  Hold'em Limit ($3/$6 USD) - 2016/10/25 20:15:41 ET
+Table 'Procyon' 6-max Seat #4 is the button
+Seat 4: assitoni ($72 in chips)
+Seat 5: gogo3474 ($32.65 in chips)
+assitoni: posts small blind $1
+gogo3474: posts big blind $3
+*** HOLE CARDS ***
+assitoni: folds
+Uncalled bet ($2) returned to gogo3474
+gogo3474 collected $2 from pot
+gogo3474: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: assitoni (button) (small blind) folded before Flop
+Seat 5: gogo3474 (big blind) collected ($2)
+
+
+PokerStars Hand #160444297983:  Hold'em Limit ($3/$6 USD) - 2016/10/25 20:16:22 ET
+Table 'Procyon' 6-max Seat #4 is the button
+Seat 4: assitoni ($95.50 in chips)
+Seat 5: gogo3474 ($9.65 in chips)
+assitoni: posts small blind $1
+gogo3474: posts big blind $3
+*** HOLE CARDS ***
+assitoni: raises $3 to $6
+gogo3474: calls $3
+*** FLOP *** [5s Qs 2d]
+gogo3474: bets $3
+assitoni: raises $3 to $6
+gogo3474: calls $0.65 and is all-in
+Uncalled bet ($2.35) returned to assitoni
+*** TURN *** [5s Qs 2d] [6d]
+*** RIVER *** [5s Qs 2d 6d] [Ac]
+*** SHOW DOWN ***
+gogo3474: shows [5h 9d] (a pair of Fives)
+assitoni: shows [Qh 2h] (two pair, Queens and Deuces)
+assitoni collected $18.91 from pot
+*** SUMMARY ***
+Total pot $19.30 | Rake $0.39
+Board [5s Qs 2d 6d Ac]
+Seat 4: assitoni (button) (small blind) showed [Qh 2h] and won ($18.91) with two pair, Queens and Deuces
+Seat 5: gogo3474 (big blind) showed [5h 9d] and lost with a pair of Fives
+
+
+PokerStars Hand #160444282556:  Hold'em Limit ($3/$6 USD) - 2016/10/25 20:15:50 ET
+Table 'Procyon' 6-max Seat #5 is the button
+Seat 4: assitoni ($72 in chips)
+Seat 5: gogo3474 ($33.65 in chips)
+gogo3474: posts small blind $1
+assitoni: posts big blind $3
+*** HOLE CARDS ***
+gogo3474: raises $3 to $6
+assitoni: raises $3 to $9
+gogo3474: calls $3
+*** FLOP *** [4h 8h Js]
+assitoni: bets $3
+gogo3474: calls $3
+*** TURN *** [4h 8h Js] [9c]
+assitoni: bets $6
+gogo3474: calls $6
+*** RIVER *** [4h 8h Js 9c] [5h]
+assitoni: bets $6
+gogo3474: calls $6
+*** SHOW DOWN ***
+assitoni: shows [Ad Ac] (a pair of Aces)
+gogo3474: mucks hand
+assitoni collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4h 8h Js 9c 5h]
+Seat 4: assitoni (big blind) showed [Ad Ac] and won ($47.50) with a pair of Aces
+Seat 5: gogo3474 (button) (small blind) mucked
+
+

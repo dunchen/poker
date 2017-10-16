@@ -1,0 +1,824 @@
+PokerStars Hand #159361605192:  Hold'em Limit ($3/$6 USD) - 2016/10/02 2:51:35 ET
+Table 'Diadem' 6-max Seat #4 is the button
+Seat 1: byrgyi ($119.64 in chips)
+Seat 4: Agrotait ($71.64 in chips)
+Agrotait: posts small blind $1
+byrgyi: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+byrgyi: calls $3
+*** FLOP *** [Qs 6c 6d]
+byrgyi: checks
+Agrotait: bets $3
+byrgyi: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $11.76 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qs 6c 6d]
+Seat 1: byrgyi (big blind) folded on the Flop
+Seat 4: Agrotait (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #159361592640:  Hold'em Limit ($3/$6 USD) - 2016/10/02 2:50:49 ET
+Table 'Diadem' 6-max Seat #1 is the button
+Seat 1: byrgyi ($113.88 in chips)
+Seat 4: Agrotait ($77.64 in chips)
+byrgyi: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+byrgyi: calls $2
+Agrotait: checks
+*** FLOP *** [5d 5s Ad]
+Agrotait: bets $3
+byrgyi: calls $3
+*** TURN *** [5d 5s Ad] [Td]
+Agrotait: checks
+byrgyi: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to byrgyi
+byrgyi collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5d 5s Ad Td]
+Seat 1: byrgyi (button) (small blind) collected ($11.76)
+Seat 4: Agrotait (big blind) folded on the Turn
+
+
+PokerStars Hand #159361609689:  Hold'em Limit ($3/$6 USD) - 2016/10/02 2:51:52 ET
+Table 'Diadem' 6-max Seat #1 is the button
+Seat 1: byrgyi ($113.64 in chips)
+Seat 4: Agrotait ($77.40 in chips)
+byrgyi: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+byrgyi: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [8h 7d Ks]
+Agrotait: checks
+byrgyi: checks
+*** TURN *** [8h 7d Ks] [6h]
+Agrotait: bets $6
+byrgyi: calls $6
+*** RIVER *** [8h 7d Ks 6h] [Kc]
+Agrotait: bets $6
+byrgyi: folds
+Uncalled bet ($6) returned to Agrotait
+degal76 joins the table at seat #6
+Agrotait collected $23.52 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [8h 7d Ks 6h Kc]
+Seat 1: byrgyi (button) (small blind) folded on the River
+Seat 4: Agrotait (big blind) collected ($23.52)
+
+
+PokerStars Hand #159361623423:  Hold'em Limit ($3/$6 USD) - 2016/10/02 2:52:43 ET
+Table 'Diadem' 6-max Seat #4 is the button
+Seat 4: Agrotait ($88.92 in chips)
+Seat 6: degal76 ($82.36 in chips)
+Agrotait: posts small blind $1
+degal76: posts big blind $3
+*** HOLE CARDS ***
+byrgyi leaves the table
+Agrotait: raises $3 to $6
+degal76: raises $3 to $9
+Agrotait: calls $3
+*** FLOP *** [8c 9c 2s]
+degal76: bets $3
+Agrotait: raises $3 to $6
+degal76: raises $3 to $9
+Agrotait: calls $3
+*** TURN *** [8c 9c 2s] [Js]
+byrgyi joins the table at seat #2
+degal76: bets $6
+Agrotait: calls $6
+*** RIVER *** [8c 9c 2s Js] [8h]
+degal76: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+degal76: shows [Ad 8d] (three of a kind, Eights)
+Agrotait: mucks hand
+degal76 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [8c 9c 2s Js 8h]
+Seat 4: Agrotait (button) (small blind) mucked
+Seat 6: degal76 (big blind) showed [Ad 8d] and won ($59.50) with three of a kind, Eights
+
+
+PokerStars Hand #159364259910:  Hold'em Limit ($3/$6 USD) - 2016/10/02 5:10:57 ET
+Table 'Diadem' 6-max Seat #2 is the button
+Seat 2: byrgyi ($162.92 in chips)
+Seat 3: DieEXE ($88.34 in chips)
+byrgyi: posts small blind $1
+DieEXE: posts big blind $3
+*** HOLE CARDS ***
+byrgyi: calls $2
+DieEXE: checks
+*** FLOP *** [Td 5c Ah]
+DieEXE: checks
+byrgyi: checks
+*** TURN *** [Td 5c Ah] [2d]
+DieEXE: checks
+byrgyi: checks
+*** RIVER *** [Td 5c Ah 2d] [Jh]
+DieEXE: checks
+byrgyi: checks
+*** SHOW DOWN ***
+DieEXE: shows [6c Qc] (high card Ace)
+byrgyi: shows [8c Kh] (high card Ace - King kicker)
+byrgyi collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Td 5c Ah 2d Jh]
+Seat 2: byrgyi (button) (small blind) showed [8c Kh] and won ($5.88) with high card Ace
+Seat 3: DieEXE (big blind) showed [6c Qc] and lost with high card Ace
+
+
+PokerStars Hand #159364264938:  Hold'em Limit ($3/$6 USD) - 2016/10/02 5:11:10 ET
+Table 'Diadem' 6-max Seat #3 is the button
+Seat 2: byrgyi ($165.80 in chips)
+Seat 3: DieEXE ($85.34 in chips)
+DieEXE: posts small blind $1
+byrgyi: posts big blind $3
+*** HOLE CARDS ***
+DieEXE: raises $3 to $6
+byrgyi: calls $3
+*** FLOP *** [Ks 5d Qh]
+byrgyi: checks
+DieEXE: bets $3
+byrgyi: calls $3
+*** TURN *** [Ks 5d Qh] [6h]
+byrgyi: checks
+DieEXE: bets $6
+byrgyi: calls $6
+*** RIVER *** [Ks 5d Qh 6h] [As]
+byrgyi: checks
+DieEXE: bets $6
+byrgyi: calls $6
+*** SHOW DOWN ***
+DieEXE: shows [5h Qd] (two pair, Queens and Fives)
+byrgyi: mucks hand
+DieEXE collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ks 5d Qh 6h As]
+Seat 2: byrgyi (big blind) mucked
+Seat 3: DieEXE (button) (small blind) showed [5h Qd] and won ($41.50) with two pair, Queens and Fives
+
+
+PokerStars Hand #159364258087:  Hold'em Limit ($3/$6 USD) - 2016/10/02 5:10:52 ET
+Table 'Diadem' 6-max Seat #3 is the button
+Seat 2: byrgyi ($161.92 in chips)
+Seat 3: DieEXE ($89.34 in chips)
+DieEXE: posts small blind $1
+masterblstr8: is sitting out
+byrgyi: posts big blind $3
+*** HOLE CARDS ***
+DieEXE: folds
+Uncalled bet ($2) returned to byrgyi
+byrgyi collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: byrgyi (big blind) collected ($2)
+Seat 3: DieEXE (button) (small blind) folded before Flop
+
+
+PokerStars Hand #159364272377:  Hold'em Limit ($3/$6 USD) - 2016/10/02 5:11:30 ET
+Table 'Diadem' 6-max Seat #2 is the button
+Seat 2: byrgyi ($144.80 in chips)
+Seat 3: DieEXE ($105.84 in chips)
+byrgyi: posts small blind $1
+DieEXE: posts big blind $3
+*** HOLE CARDS ***
+byrgyi: calls $2
+DieEXE: checks
+*** FLOP *** [Js 5d Qs]
+DieEXE: checks
+byrgyi: checks
+*** TURN *** [Js 5d Qs] [Kc]
+DieEXE: checks
+byrgyi: checks
+*** RIVER *** [Js 5d Qs Kc] [8s]
+DieEXE: checks
+byrgyi: checks
+*** SHOW DOWN ***
+DieEXE: shows [9h 5h] (a pair of Fives)
+byrgyi: shows [9c 8h] (a pair of Eights)
+byrgyi collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Js 5d Qs Kc 8s]
+Seat 2: byrgyi (button) (small blind) showed [9c 8h] and won ($5.88) with a pair of Eights
+Seat 3: DieEXE (big blind) showed [9h 5h] and lost with a pair of Fives
+
+
+PokerStars Hand #159364291162:  Hold'em Limit ($3/$6 USD) - 2016/10/02 5:12:20 ET
+Table 'Diadem' 6-max Seat #3 is the button
+Seat 2: byrgyi ($105.56 in chips)
+Seat 3: DieEXE ($144.34 in chips)
+DieEXE: posts small blind $1
+Kazyafka was removed from the table for failing to post
+byrgyi: posts big blind $3
+*** HOLE CARDS ***
+DieEXE: raises $3 to $6
+byrgyi: raises $3 to $9
+DieEXE: calls $3
+*** FLOP *** [7s 8d Tc]
+byrgyi: bets $3
+DieEXE: calls $3
+*** TURN *** [7s 8d Tc] [As]
+byrgyi: bets $6
+DieEXE: calls $6
+*** RIVER *** [7s 8d Tc As] [6s]
+byrgyi: bets $6
+DieEXE: calls $6
+*** SHOW DOWN ***
+byrgyi: shows [Jc Jh] (a pair of Jacks)
+DieEXE: mucks hand
+byrgyi collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7s 8d Tc As 6s]
+Seat 2: byrgyi (big blind) showed [Jc Jh] and won ($47.50) with a pair of Jacks
+Seat 3: DieEXE (button) (small blind) mucked
+
+
+PokerStars Hand #159364285618:  Hold'em Limit ($3/$6 USD) - 2016/10/02 5:12:05 ET
+Table 'Diadem' 6-max Seat #2 is the button
+Seat 2: byrgyi ($102.68 in chips)
+Seat 3: DieEXE ($147.34 in chips)
+byrgyi: posts small blind $1
+DieEXE: posts big blind $3
+*** HOLE CARDS ***
+byrgyi: calls $2
+DieEXE: checks
+*** FLOP *** [3h Js Jc]
+DieEXE: checks
+byrgyi: checks
+*** TURN *** [3h Js Jc] [3s]
+DieEXE: checks
+byrgyi: checks
+*** RIVER *** [3h Js Jc 3s] [Ts]
+DieEXE: checks
+byrgyi: bets $6
+DieEXE: folds
+Uncalled bet ($6) returned to byrgyi
+byrgyi collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [3h Js Jc 3s Ts]
+Seat 2: byrgyi (button) (small blind) collected ($5.88)
+Seat 3: DieEXE (big blind) folded on the River
+
+
+PokerStars Hand #159364277770:  Hold'em Limit ($3/$6 USD) - 2016/10/02 5:11:44 ET
+Table 'Diadem' 6-max Seat #3 is the button
+Seat 2: byrgyi ($147.68 in chips)
+Seat 3: DieEXE ($102.84 in chips)
+DieEXE: posts small blind $1
+byrgyi: posts big blind $3
+*** HOLE CARDS ***
+DieEXE: raises $3 to $6
+byrgyi: calls $3
+*** FLOP *** [6d Jh 5c]
+byrgyi: checks
+DieEXE: bets $3
+byrgyi: calls $3
+*** TURN *** [6d Jh 5c] [9c]
+byrgyi: checks
+DieEXE: bets $6
+byrgyi: raises $6 to $12
+DieEXE: raises $6 to $18
+byrgyi: raises $6 to $24
+Betting is capped
+DieEXE: calls $6
+*** RIVER *** [6d Jh 5c 9c] [5h]
+byrgyi: bets $6
+DieEXE: raises $6 to $12
+byrgyi: calls $6
+*** SHOW DOWN ***
+DieEXE: shows [5d 5s] (four of a kind, Fives)
+masterblstr8 leaves the table
+byrgyi: mucks hand
+DieEXE collected $89.50 from pot
+*** SUMMARY ***
+Total pot $90 | Rake $0.50
+Board [6d Jh 5c 9c 5h]
+Seat 2: byrgyi (big blind) mucked
+Seat 3: DieEXE (button) (small blind) showed [5d 5s] and won ($89.50) with four of a kind, Fives
+
+
+PokerStars Hand #159364300414:  Hold'em Limit ($3/$6 USD) - 2016/10/02 5:12:44 ET
+Table 'Diadem' 6-max Seat #2 is the button
+Seat 2: byrgyi ($129.06 in chips)
+Seat 3: DieEXE ($120.34 in chips)
+byrgyi: posts small blind $1
+DieEXE: posts big blind $3
+*** HOLE CARDS ***
+byrgyi: folds
+Uncalled bet ($2) returned to DieEXE
+DieEXE collected $2 from pot
+DieEXE: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: byrgyi (button) (small blind) folded before Flop
+Seat 3: DieEXE (big blind) collected ($2)
+
+
+PokerStars Hand #159364311981:  Hold'em Limit ($3/$6 USD) - 2016/10/02 5:13:14 ET
+Table 'Diadem' 6-max Seat #2 is the button
+Seat 2: byrgyi ($107.06 in chips)
+Seat 3: DieEXE ($140.84 in chips)
+byrgyi: posts small blind $1
+DieEXE: posts big blind $3
+*** HOLE CARDS ***
+byrgyi: folds
+Uncalled bet ($2) returned to DieEXE
+DieEXE collected $2 from pot
+DieEXE: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: byrgyi (button) (small blind) folded before Flop
+Seat 3: DieEXE (big blind) collected ($2)
+
+
+PokerStars Hand #159364298713:  Hold'em Limit ($3/$6 USD) - 2016/10/02 5:12:39 ET
+Table 'Diadem' 6-max Seat #3 is the button
+Seat 2: byrgyi ($128.06 in chips)
+Seat 3: DieEXE ($121.34 in chips)
+DieEXE: posts small blind $1
+byrgyi: posts big blind $3
+*** HOLE CARDS ***
+DieEXE: folds
+Uncalled bet ($2) returned to byrgyi
+byrgyi collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: byrgyi (big blind) collected ($2)
+Seat 3: DieEXE (button) (small blind) folded before Flop
+
+
+PokerStars Hand #159364296795:  Hold'em Limit ($3/$6 USD) - 2016/10/02 5:12:34 ET
+Table 'Diadem' 6-max Seat #2 is the button
+Seat 2: byrgyi ($129.06 in chips)
+Seat 3: DieEXE ($120.34 in chips)
+byrgyi: posts small blind $1
+DieEXE: posts big blind $3
+*** HOLE CARDS ***
+byrgyi: folds
+Uncalled bet ($2) returned to DieEXE
+DieEXE collected $2 from pot
+DieEXE: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: byrgyi (button) (small blind) folded before Flop
+Seat 3: DieEXE (big blind) collected ($2)
+
+
+PokerStars Hand #159364304587:  Hold'em Limit ($3/$6 USD) - 2016/10/02 5:12:55 ET
+Table 'Diadem' 6-max Seat #3 is the button
+Seat 2: byrgyi ($128.06 in chips)
+Seat 3: DieEXE ($120.34 in chips)
+DieEXE: posts small blind $1
+byrgyi: posts big blind $3
+*** HOLE CARDS ***
+shampBTgogo leaves the table
+DieEXE: raises $3 to $6
+byrgyi: calls $3
+*** FLOP *** [2d Tc 9d]
+byrgyi: checks
+DieEXE: bets $3
+byrgyi: calls $3
+*** TURN *** [2d Tc 9d] [Ac]
+byrgyi: checks
+DieEXE: bets $6
+byrgyi: calls $6
+*** RIVER *** [2d Tc 9d Ac] [2h]
+byrgyi: checks
+DieEXE: bets $6
+byrgyi: calls $6
+*** SHOW DOWN ***
+DieEXE: shows [Td Ts] (a full house, Tens full of Deuces)
+byrgyi: mucks hand
+DieEXE collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2d Tc 9d Ac 2h]
+Seat 2: byrgyi (big blind) mucked
+Seat 3: DieEXE (button) (small blind) showed [Td Ts] and won ($41.50) with a full house, Tens full of Deuces
+
+
+PokerStars Hand #159364313825:  Hold'em Limit ($3/$6 USD) - 2016/10/02 5:13:19 ET
+Table 'Diadem' 6-max Seat #3 is the button
+Seat 2: byrgyi ($106.06 in chips)
+Seat 3: DieEXE ($141.84 in chips)
+DieEXE: posts small blind $1
+byrgyi: posts big blind $3
+*** HOLE CARDS ***
+DieEXE: raises $3 to $6
+byrgyi: calls $3
+*** FLOP *** [7c 2s 5c]
+byrgyi: checks
+DieEXE: checks
+*** TURN *** [7c 2s 5c] [9h]
+byrgyi: bets $6
+DieEXE: folds
+Uncalled bet ($6) returned to byrgyi
+byrgyi collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7c 2s 5c 9h]
+Seat 2: byrgyi (big blind) collected ($11.76)
+Seat 3: DieEXE (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #159364330260:  Hold'em Limit ($3/$6 USD) - 2016/10/02 5:14:02 ET
+Table 'Diadem' 6-max Seat #2 is the button
+Seat 2: byrgyi ($141.08 in chips)
+Seat 3: DieEXE ($105.84 in chips)
+byrgyi: posts small blind $1
+DieEXE: posts big blind $3
+*** HOLE CARDS ***
+byrgyi: calls $2
+DieEXE: checks
+*** FLOP *** [Jh 7s 2d]
+DieEXE: checks
+byrgyi: checks
+*** TURN *** [Jh 7s 2d] [Jd]
+DieEXE: checks
+byrgyi: checks
+*** RIVER *** [Jh 7s 2d Jd] [9h]
+DieEXE: checks
+byrgyi: checks
+*** SHOW DOWN ***
+DieEXE: shows [6h Tc] (a pair of Jacks)
+byrgyi: shows [Th Kc] (a pair of Jacks - King kicker)
+byrgyi collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Jh 7s 2d Jd 9h]
+Seat 2: byrgyi (button) (small blind) showed [Th Kc] and won ($5.88) with a pair of Jacks
+Seat 3: DieEXE (big blind) showed [6h Tc] and lost with a pair of Jacks
+
+
+PokerStars Hand #159364324625:  Hold'em Limit ($3/$6 USD) - 2016/10/02 5:13:47 ET
+Table 'Diadem' 6-max Seat #3 is the button
+Seat 2: byrgyi ($117.58 in chips)
+Seat 3: DieEXE ($129.84 in chips)
+DieEXE: posts small blind $1
+byrgyi: posts big blind $3
+*** HOLE CARDS ***
+DieEXE: raises $3 to $6
+byrgyi: raises $3 to $9
+DieEXE: calls $3
+*** FLOP *** [4c 3s Qs]
+byrgyi: bets $3
+DieEXE: calls $3
+*** TURN *** [4c 3s Qs] [Qd]
+byrgyi: bets $6
+DieEXE: calls $6
+*** RIVER *** [4c 3s Qs Qd] [9s]
+byrgyi: bets $6
+DieEXE: calls $6
+*** SHOW DOWN ***
+byrgyi: shows [Qc Ah] (three of a kind, Queens)
+DieEXE: mucks hand
+byrgyi collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4c 3s Qs Qd 9s]
+Seat 2: byrgyi (big blind) showed [Qc Ah] and won ($47.50) with three of a kind, Queens
+Seat 3: DieEXE (button) (small blind) mucked
+
+
+PokerStars Hand #159364334503:  Hold'em Limit ($3/$6 USD) - 2016/10/02 5:14:13 ET
+Table 'Diadem' 6-max Seat #3 is the button
+Seat 2: byrgyi ($143.96 in chips)
+Seat 3: DieEXE ($102.84 in chips)
+DieEXE: posts small blind $1
+byrgyi: posts big blind $3
+*** HOLE CARDS ***
+DieEXE: raises $3 to $6
+byrgyi: calls $3
+*** FLOP *** [Kd 2s 8c]
+byrgyi: checks
+DieEXE: checks
+*** TURN *** [Kd 2s 8c] [Tc]
+byrgyi: checks
+DieEXE: checks
+*** RIVER *** [Kd 2s 8c Tc] [Qc]
+byrgyi: checks
+DieEXE: bets $6
+byrgyi: folds
+Uncalled bet ($6) returned to DieEXE
+DieEXE collected $11.76 from pot
+DieEXE: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kd 2s 8c Tc Qc]
+Seat 2: byrgyi (big blind) folded on the River
+Seat 3: DieEXE (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #159364319870:  Hold'em Limit ($3/$6 USD) - 2016/10/02 5:13:35 ET
+Table 'Diadem' 6-max Seat #2 is the button
+Seat 2: byrgyi ($111.82 in chips)
+Seat 3: DieEXE ($135.84 in chips)
+byrgyi: posts small blind $1
+DieEXE: posts big blind $3
+*** HOLE CARDS ***
+byrgyi: calls $2
+DieEXE: checks
+*** FLOP *** [6h Js 8d]
+DieEXE: checks
+byrgyi: bets $3
+DieEXE: calls $3
+*** TURN *** [6h Js 8d] [Jh]
+DieEXE: checks
+byrgyi: bets $6
+DieEXE: folds
+Uncalled bet ($6) returned to byrgyi
+byrgyi collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6h Js 8d Jh]
+Seat 2: byrgyi (button) (small blind) collected ($11.76)
+Seat 3: DieEXE (big blind) folded on the Turn
+
+
+PokerStars Hand #159364363115:  Hold'em Limit ($3/$6 USD) - 2016/10/02 5:15:28 ET
+Table 'Diadem' 6-max Seat #3 is the button
+Seat 2: byrgyi ($138.84 in chips)
+Seat 3: DieEXE ($107.48 in chips)
+DieEXE: posts small blind $1
+byrgyi: posts big blind $3
+*** HOLE CARDS ***
+DieEXE: folds
+Uncalled bet ($2) returned to byrgyi
+byrgyi collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: byrgyi (big blind) collected ($2)
+Seat 3: DieEXE (button) (small blind) folded before Flop
+
+
+PokerStars Hand #159364359641:  Hold'em Limit ($3/$6 USD) - 2016/10/02 5:15:19 ET
+Table 'Diadem' 6-max Seat #2 is the button
+Seat 2: byrgyi ($135.96 in chips)
+Seat 3: DieEXE ($110.48 in chips)
+byrgyi: posts small blind $1
+DieEXE: posts big blind $3
+*** HOLE CARDS ***
+byrgyi: calls $2
+DieEXE: checks
+*** FLOP *** [Ks Kc 4c]
+DieEXE: checks
+byrgyi: bets $3
+DieEXE: folds
+Uncalled bet ($3) returned to byrgyi
+byrgyi collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Ks Kc 4c]
+Seat 2: byrgyi (button) (small blind) collected ($5.88)
+Seat 3: DieEXE (big blind) folded on the Flop
+
+
+PokerStars Hand #159364356072:  Hold'em Limit ($3/$6 USD) - 2016/10/02 5:15:09 ET
+Table 'Diadem' 6-max Seat #2 is the button
+Seat 2: byrgyi ($135.96 in chips)
+Seat 3: DieEXE ($110.48 in chips)
+byrgyi: posts small blind $1
+DieEXE: posts big blind $3
+*** HOLE CARDS ***
+byrgyi: folds
+Uncalled bet ($2) returned to DieEXE
+DieEXE collected $2 from pot
+DieEXE: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: byrgyi (button) (small blind) folded before Flop
+Seat 3: DieEXE (big blind) collected ($2)
+
+
+PokerStars Hand #159364354402:  Hold'em Limit ($3/$6 USD) - 2016/10/02 5:15:05 ET
+Table 'Diadem' 6-max Seat #3 is the button
+Seat 2: byrgyi ($134.96 in chips)
+Seat 3: DieEXE ($111.48 in chips)
+DieEXE: posts small blind $1
+byrgyi: posts big blind $3
+*** HOLE CARDS ***
+DieEXE: folds
+Uncalled bet ($2) returned to byrgyi
+byrgyi collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: byrgyi (big blind) collected ($2)
+Seat 3: DieEXE (button) (small blind) folded before Flop
+
+
+PokerStars Hand #159364348250:  Hold'em Limit ($3/$6 USD) - 2016/10/02 5:14:49 ET
+Table 'Diadem' 6-max Seat #2 is the button
+Seat 2: byrgyi ($137.96 in chips)
+Seat 3: DieEXE ($108.60 in chips)
+byrgyi: posts small blind $1
+DieEXE: posts big blind $3
+*** HOLE CARDS ***
+byrgyi: calls $2
+DieEXE: checks
+*** FLOP *** [Ac 4d 2c]
+DieEXE: checks
+byrgyi: checks
+*** TURN *** [Ac 4d 2c] [Td]
+DieEXE: checks
+byrgyi: checks
+*** RIVER *** [Ac 4d 2c Td] [Qs]
+DieEXE: checks
+byrgyi: checks
+*** SHOW DOWN ***
+DieEXE: shows [Qc 6c] (a pair of Queens)
+byrgyi: mucks hand
+DieEXE collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Ac 4d 2c Td Qs]
+Seat 2: byrgyi (button) (small blind) mucked
+Seat 3: DieEXE (big blind) showed [Qc 6c] and won ($5.88) with a pair of Queens
+
+
+PokerStars Hand #159364346567:  Hold'em Limit ($3/$6 USD) - 2016/10/02 5:14:45 ET
+Table 'Diadem' 6-max Seat #3 is the button
+Seat 2: byrgyi ($136.96 in chips)
+Seat 3: DieEXE ($109.60 in chips)
+DieEXE: posts small blind $1
+byrgyi: posts big blind $3
+*** HOLE CARDS ***
+DieEXE: folds
+Uncalled bet ($2) returned to byrgyi
+byrgyi collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: byrgyi (big blind) collected ($2)
+Seat 3: DieEXE (button) (small blind) folded before Flop
+
+
+PokerStars Hand #159364344721:  Hold'em Limit ($3/$6 USD) - 2016/10/02 5:14:40 ET
+Table 'Diadem' 6-max Seat #2 is the button
+Seat 2: byrgyi ($137.96 in chips)
+Seat 3: DieEXE ($108.60 in chips)
+byrgyi: posts small blind $1
+DieEXE: posts big blind $3
+*** HOLE CARDS ***
+byrgyi: folds
+Uncalled bet ($2) returned to DieEXE
+DieEXE collected $2 from pot
+DieEXE: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: byrgyi (button) (small blind) folded before Flop
+Seat 3: DieEXE (big blind) collected ($2)
+
+
+PokerStars Hand #159364343082:  Hold'em Limit ($3/$6 USD) - 2016/10/02 5:14:36 ET
+Table 'Diadem' 6-max Seat #3 is the button
+Seat 2: byrgyi ($136.96 in chips)
+Seat 3: DieEXE ($109.60 in chips)
+DieEXE: posts small blind $1
+byrgyi: posts big blind $3
+*** HOLE CARDS ***
+DieEXE: folds
+Uncalled bet ($2) returned to byrgyi
+byrgyi collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: byrgyi (big blind) collected ($2)
+Seat 3: DieEXE (button) (small blind) folded before Flop
+
+
+PokerStars Hand #159364341272:  Hold'em Limit ($3/$6 USD) - 2016/10/02 5:14:31 ET
+Table 'Diadem' 6-max Seat #2 is the button
+Seat 2: byrgyi ($137.96 in chips)
+Seat 3: DieEXE ($108.60 in chips)
+byrgyi: posts small blind $1
+DieEXE: posts big blind $3
+*** HOLE CARDS ***
+byrgyi: folds
+Uncalled bet ($2) returned to DieEXE
+DieEXE collected $2 from pot
+DieEXE: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: byrgyi (button) (small blind) folded before Flop
+Seat 3: DieEXE (big blind) collected ($2)
+
+
+PokerStars Hand #159364357939:  Hold'em Limit ($3/$6 USD) - 2016/10/02 5:15:14 ET
+Table 'Diadem' 6-max Seat #3 is the button
+Seat 2: byrgyi ($134.96 in chips)
+Seat 3: DieEXE ($111.48 in chips)
+DieEXE: posts small blind $1
+byrgyi: posts big blind $3
+*** HOLE CARDS ***
+DieEXE: folds
+Uncalled bet ($2) returned to byrgyi
+byrgyi collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: byrgyi (big blind) collected ($2)
+Seat 3: DieEXE (button) (small blind) folded before Flop
+
+
+PokerStars Hand #159364369467:  Hold'em Limit ($3/$6 USD) - 2016/10/02 5:15:45 ET
+Table 'Diadem' 6-max Seat #2 is the button
+Seat 2: byrgyi ($135.84 in chips)
+Seat 3: DieEXE ($110.48 in chips)
+byrgyi: posts small blind $1
+DieEXE: posts big blind $3
+*** HOLE CARDS ***
+byrgyi: calls $2
+DieEXE: checks
+*** FLOP *** [Th 4c Kd]
+DieEXE: checks
+byrgyi: bets $3
+DieEXE: folds
+Uncalled bet ($3) returned to byrgyi
+byrgyi collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Th 4c Kd]
+Seat 2: byrgyi (button) (small blind) collected ($5.88)
+Seat 3: DieEXE (big blind) folded on the Flop
+
+
+PokerStars Hand #159364375195:  Hold'em Limit ($3/$6 USD) - 2016/10/02 5:15:59 ET
+Table 'Diadem' 6-max Seat #2 is the button
+Seat 2: byrgyi ($139.72 in chips)
+Seat 3: DieEXE ($106.48 in chips)
+byrgyi: posts small blind $1
+DieEXE: posts big blind $3
+*** HOLE CARDS ***
+byrgyi: folds
+Uncalled bet ($2) returned to DieEXE
+DieEXE collected $2 from pot
+DieEXE: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: byrgyi (button) (small blind) folded before Flop
+Seat 3: DieEXE (big blind) collected ($2)
+
+
+PokerStars Hand #159364373464:  Hold'em Limit ($3/$6 USD) - 2016/10/02 5:15:55 ET
+Table 'Diadem' 6-max Seat #3 is the button
+Seat 2: byrgyi ($138.72 in chips)
+Seat 3: DieEXE ($107.48 in chips)
+DieEXE: posts small blind $1
+byrgyi: posts big blind $3
+*** HOLE CARDS ***
+DieEXE: folds
+Uncalled bet ($2) returned to byrgyi
+byrgyi collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: byrgyi (big blind) collected ($2)
+Seat 3: DieEXE (button) (small blind) folded before Flop
+
+
+PokerStars Hand #159364367101:  Hold'em Limit ($3/$6 USD) - 2016/10/02 5:15:38 ET
+Table 'Diadem' 6-max Seat #3 is the button
+Seat 2: byrgyi ($138.84 in chips)
+Seat 3: DieEXE ($107.48 in chips)
+DieEXE: posts small blind $1
+byrgyi: posts big blind $3
+*** HOLE CARDS ***
+DieEXE: raises $3 to $6
+byrgyi: folds
+Uncalled bet ($3) returned to DieEXE
+DieEXE collected $6 from pot
+DieEXE: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: byrgyi (big blind) folded before Flop
+Seat 3: DieEXE (button) (small blind) collected ($6)
+
+
+PokerStars Hand #159364364944:  Hold'em Limit ($3/$6 USD) - 2016/10/02 5:15:33 ET
+Table 'Diadem' 6-max Seat #2 is the button
+Seat 2: byrgyi ($139.84 in chips)
+Seat 3: DieEXE ($106.48 in chips)
+byrgyi: posts small blind $1
+DieEXE: posts big blind $3
+*** HOLE CARDS ***
+byrgyi: folds
+Uncalled bet ($2) returned to DieEXE
+DieEXE collected $2 from pot
+DieEXE: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: byrgyi (button) (small blind) folded before Flop
+Seat 3: DieEXE (big blind) collected ($2)
+
+

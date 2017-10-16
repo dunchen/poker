@@ -1,0 +1,30 @@
+PokerStars Hand #145212908014:  Hold'em Limit ($3/$6 USD) - 2015/12/12 3:15:39 ET
+Table 'Hiera II' 2-max Seat #1 is the button
+Seat 1: HEADEKBAT ($72 in chips)
+Seat 2: permafrost07 ($106.57 in chips)
+HEADEKBAT: posts small blind $1
+permafrost07: posts big blind $3
+*** HOLE CARDS ***
+HEADEKBAT: raises $3 to $6
+permafrost07: raises $3 to $9
+HEADEKBAT: calls $3
+*** FLOP *** [7d Tc 5c]
+permafrost07: bets $3
+HEADEKBAT: calls $3
+*** TURN *** [7d Tc 5c] [6d]
+permafrost07: bets $6
+HEADEKBAT: calls $6
+*** RIVER *** [7d Tc 5c 6d] [3s]
+permafrost07: bets $6
+HEADEKBAT: calls $6
+*** SHOW DOWN ***
+permafrost07: shows [7h 4d] (a straight, Three to Seven)
+HEADEKBAT: mucks hand
+permafrost07 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7d Tc 5c 6d 3s]
+Seat 1: HEADEKBAT (button) (small blind) mucked
+Seat 2: permafrost07 (big blind) showed [7h 4d] and won ($47.50) with a straight, Three to Seven
+
+

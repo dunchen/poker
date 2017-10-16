@@ -1,0 +1,33 @@
+PokerStars Hand #144488048904:  Hold'em Limit ($3/$6 USD) - 2015/11/27 21:04:21 ET
+Table 'Hypsipyle II' 10-max Seat #5 is the button
+Seat 5: Bonsey_1 ($121.08 in chips)
+Seat 8: alexslep ($200.03 in chips)
+Bonsey_1: posts small blind $1
+BuzovaPro: is sitting out
+alexslep: posts big blind $3
+*** HOLE CARDS ***
+BuzovaPro leaves the table
+Bonsey_1: raises $3 to $6
+alexslep: calls $3
+*** FLOP *** [Ac 3c 5c]
+alexslep: checks
+Bonsey_1: bets $3
+alexslep: raises $3 to $6
+Bonsey_1: calls $3
+*** TURN *** [Ac 3c 5c] [Tc]
+alexslep: checks
+Bonsey_1: checks
+*** RIVER *** [Ac 3c 5c Tc] [8s]
+alexslep: bets $6
+Bonsey_1: calls $6
+*** SHOW DOWN ***
+alexslep: shows [6c As] (a flush, Ace high)
+Bonsey_1: mucks hand
+alexslep collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Ac 3c 5c Tc 8s]
+Seat 5: Bonsey_1 (button) (small blind) mucked
+Seat 8: alexslep (big blind) showed [6c As] and won ($35.50) with a flush, Ace high
+
+

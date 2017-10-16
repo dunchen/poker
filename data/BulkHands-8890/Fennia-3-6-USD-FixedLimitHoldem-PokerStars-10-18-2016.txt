@@ -1,0 +1,57 @@
+PokerStars Hand #160108421764:  Hold'em Limit ($3/$6 USD) - 2016/10/18 13:04:51 ET
+Table 'Fennia' 6-max Seat #2 is the button
+Seat 1: Rooman7 ($120 in chips)
+Seat 2: kolaz03 ($72 in chips)
+kolaz03: posts small blind $1
+assitoni: is sitting out
+Rooman7: posts big blind $3
+*** HOLE CARDS ***
+kolaz03: raises $3 to $6
+Rooman7: calls $3
+*** FLOP *** [Kd 4h Js]
+Rooman7: checks
+kolaz03: bets $3
+Rooman7: folds
+Uncalled bet ($3) returned to kolaz03
+kolaz03 collected $11.76 from pot
+kolaz03: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kd 4h Js]
+Seat 1: Rooman7 (big blind) folded on the Flop
+Seat 2: kolaz03 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #160108452947:  Hold'em Limit ($3/$6 USD) - 2016/10/18 13:05:28 ET
+Table 'Fennia' 6-max Seat #1 is the button
+Seat 1: Rooman7 ($114 in chips)
+Seat 2: kolaz03 ($77.76 in chips)
+Rooman7: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+Rooman7: calls $2
+kolaz03: raises $3 to $6
+Rooman7: calls $3
+*** FLOP *** [5d 8d 2h]
+fsreibnitz joins the table at seat #6
+kolaz03: bets $3
+Rooman7: raises $3 to $6
+kolaz03: calls $3
+*** TURN *** [5d 8d 2h] [Ts]
+kolaz03: checks
+Rooman7: checks
+*** RIVER *** [5d 8d 2h Ts] [Th]
+kolaz03: checks
+Rooman7: bets $6
+kolaz03: calls $6
+*** SHOW DOWN ***
+Rooman7: shows [8h 7s] (two pair, Tens and Eights)
+kolaz03: mucks hand
+Rooman7 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5d 8d 2h Ts Th]
+Seat 1: Rooman7 (button) (small blind) showed [8h 7s] and won ($35.50) with two pair, Tens and Eights
+Seat 2: kolaz03 (big blind) mucked
+
+

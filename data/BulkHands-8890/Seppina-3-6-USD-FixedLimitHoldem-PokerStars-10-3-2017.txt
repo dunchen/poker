@@ -1,0 +1,32 @@
+PokerStars Hand #176432490318:  Hold'em Limit ($3/$6 USD) - 2017/10/03 8:01:18 ET
+Table 'Seppina' 6-max Seat #3 is the button
+Seat 2: breich90 ($106.74 in chips)
+Seat 3: masterblstr8 ($152.83 in chips)
+masterblstr8: posts small blind $1
+HAL9QQQ: is sitting out
+breich90: posts big blind $3
+*** HOLE CARDS ***
+masterblstr8: raises $3 to $6
+breich90: calls $3
+*** FLOP *** [Qs 6h 7c]
+breich90: checks
+masterblstr8: bets $3
+breich90: calls $3
+*** TURN *** [Qs 6h 7c] [4h]
+breich90: checks
+masterblstr8: bets $6
+breich90: calls $6
+*** RIVER *** [Qs 6h 7c 4h] [8s]
+breich90: checks
+masterblstr8: checks
+*** SHOW DOWN ***
+breich90: shows [Ts 6d] (a pair of Sixes)
+masterblstr8: shows [7h Ks] (a pair of Sevens)
+masterblstr8 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qs 6h 7c 4h 8s]
+Seat 2: breich90 (big blind) showed [Ts 6d] and lost with a pair of Sixes
+Seat 3: masterblstr8 (button) (small blind) showed [7h Ks] and won ($29.50) with a pair of Sevens
+
+

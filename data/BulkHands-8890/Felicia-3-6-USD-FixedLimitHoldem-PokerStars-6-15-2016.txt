@@ -1,0 +1,433 @@
+PokerStars Hand #154772031369:  Hold'em Limit ($3/$6 USD) - 2016/06/15 13:15:12 ET
+Table 'Felicia' 6-max Seat #2 is the button
+Seat 2: holyone13 ($114 in chips)
+Seat 3: kolaz03 ($77.76 in chips)
+holyone13: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+holyone13: raises $3 to $6
+kolaz03: calls $3
+*** FLOP *** [Ah 3s 7d]
+kolaz03: checks
+holyone13: bets $3
+kolaz03: calls $3
+*** TURN *** [Ah 3s 7d] [7c]
+kolaz03: checks
+holyone13: bets $6
+kolaz03: raises $6 to $12
+holyone13: calls $6
+*** RIVER *** [Ah 3s 7d 7c] [6d]
+kolaz03: bets $6
+holyone13: folds
+Uncalled bet ($6) returned to kolaz03
+kolaz03 collected $41.50 from pot
+kolaz03: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ah 3s 7d 7c 6d]
+Seat 2: holyone13 (button) (small blind) folded on the River
+Seat 3: kolaz03 (big blind) collected ($41.50)
+
+
+PokerStars Hand #154773131048:  Hold'em Limit ($3/$6 USD) - 2016/06/15 13:40:47 ET
+Table 'Felicia' 6-max Seat #6 is the button
+Seat 1: Tryptamean ($139 in chips)
+Seat 6: KHASHIMOV M ($107.16 in chips)
+KHASHIMOV M: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+KHASHIMOV M: folds
+Uncalled bet ($2) returned to Tryptamean
+Tryptamean collected $2 from pot
+Tryptamean: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Tryptamean (big blind) collected ($2)
+Seat 6: KHASHIMOV M (button) (small blind) folded before Flop
+
+
+PokerStars Hand #154773107931:  Hold'em Limit ($3/$6 USD) - 2016/06/15 13:40:15 ET
+Table 'Felicia' 6-max Seat #1 is the button
+Seat 1: Tryptamean ($157 in chips)
+Seat 6: KHASHIMOV M ($89.66 in chips)
+Tryptamean: posts small blind $1
+Zubasa07: is sitting out
+kolaz03: is sitting out
+ValeryRon: is sitting out
+KHASHIMOV M: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+kolaz03 leaves the table
+ValeryRon leaves the table
+KHASHIMOV M: calls $3
+*** FLOP *** [6d 7c 3c]
+KHASHIMOV M: checks
+Zubasa07 leaves the table
+Tryptamean: bets $3
+KHASHIMOV M: raises $3 to $6
+Tryptamean: calls $3
+*** TURN *** [6d 7c 3c] [Js]
+KHASHIMOV M: bets $6
+Tryptamean: calls $6
+*** RIVER *** [6d 7c 3c Js] [Th]
+KHASHIMOV M: bets $6
+Tryptamean: folds
+Uncalled bet ($6) returned to KHASHIMOV M
+KHASHIMOV M collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6d 7c 3c Js Th]
+Seat 1: Tryptamean (button) (small blind) folded on the River
+Seat 6: KHASHIMOV M (big blind) collected ($35.50)
+
+
+PokerStars Hand #154773134892:  Hold'em Limit ($3/$6 USD) - 2016/06/15 13:40:52 ET
+Table 'Felicia' 6-max Seat #1 is the button
+Seat 1: Tryptamean ($140 in chips)
+Seat 6: KHASHIMOV M ($106.16 in chips)
+Tryptamean: posts small blind $1
+KHASHIMOV M: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+KHASHIMOV M: raises $3 to $9
+Tryptamean: calls $3
+*** FLOP *** [Ad 6c 6d]
+KHASHIMOV M: bets $3
+Tryptamean: calls $3
+*** TURN *** [Ad 6c 6d] [8c]
+KHASHIMOV M: bets $6
+Tryptamean: raises $6 to $12
+KHASHIMOV M: calls $6
+*** RIVER *** [Ad 6c 6d 8c] [Qd]
+KHASHIMOV M: checks
+Tryptamean: bets $6
+KHASHIMOV M: calls $6
+*** SHOW DOWN ***
+Tryptamean: shows [Ah 7d] (two pair, Aces and Sixes)
+KHASHIMOV M: mucks hand
+Tryptamean collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Ad 6c 6d 8c Qd]
+Seat 1: Tryptamean (button) (small blind) showed [Ah 7d] and won ($59.50) with two pair, Aces and Sixes
+Seat 6: KHASHIMOV M (big blind) mucked
+
+
+PokerStars Hand #154773160100:  Hold'em Limit ($3/$6 USD) - 2016/06/15 13:41:28 ET
+Table 'Felicia' 6-max Seat #6 is the button
+Seat 1: Tryptamean ($169.50 in chips)
+Seat 6: KHASHIMOV M ($76.16 in chips)
+KHASHIMOV M: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+KHASHIMOV M: raises $3 to $6
+Tryptamean: calls $3
+*** FLOP *** [4h 8h 6s]
+Tryptamean: checks
+KHASHIMOV M: bets $3
+Tryptamean: calls $3
+*** TURN *** [4h 8h 6s] [7s]
+Tryptamean: checks
+KHASHIMOV M: checks
+*** RIVER *** [4h 8h 6s 7s] [Qd]
+Tryptamean: bets $6
+KHASHIMOV M: calls $6
+*** SHOW DOWN ***
+Tryptamean: shows [4c Qh] (two pair, Queens and Fours)
+KHASHIMOV M: mucks hand
+Tryptamean collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4h 8h 6s 7s Qd]
+Seat 1: Tryptamean (big blind) showed [4c Qh] and won ($29.50) with two pair, Queens and Fours
+Seat 6: KHASHIMOV M (button) (small blind) mucked
+
+
+PokerStars Hand #154773191587:  Hold'em Limit ($3/$6 USD) - 2016/06/15 13:42:12 ET
+Table 'Felicia' 6-max Seat #1 is the button
+Seat 1: Tryptamean ($184 in chips)
+Seat 6: KHASHIMOV M ($61.16 in chips)
+Tryptamean: posts small blind $1
+KHASHIMOV M: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+KHASHIMOV M: raises $3 to $9
+Tryptamean: calls $3
+*** FLOP *** [As Jd 4c]
+KHASHIMOV M: bets $3
+Tryptamean: calls $3
+*** TURN *** [As Jd 4c] [2c]
+KHASHIMOV M: bets $6
+Tryptamean: calls $6
+*** RIVER *** [As Jd 4c 2c] [5d]
+KHASHIMOV M: bets $6
+Tryptamean: raises $6 to $12
+KHASHIMOV M: calls $6
+*** SHOW DOWN ***
+Tryptamean: shows [4d 5s] (two pair, Fives and Fours)
+KHASHIMOV M: mucks hand
+Tryptamean collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [As Jd 4c 2c 5d]
+Seat 1: Tryptamean (button) (small blind) showed [4d 5s] and won ($59.50) with two pair, Fives and Fours
+Seat 6: KHASHIMOV M (big blind) mucked
+
+
+PokerStars Hand #154773311261:  Hold'em Limit ($3/$6 USD) - 2016/06/15 13:44:55 ET
+Table 'Felicia' 6-max Seat #1 is the button
+Seat 1: Tryptamean ($262.66 in chips)
+Seat 6: KHASHIMOV M ($11 in chips)
+Tryptamean: posts small blind $1
+KHASHIMOV M: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: folds
+Uncalled bet ($2) returned to KHASHIMOV M
+KHASHIMOV M collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Tryptamean (button) (small blind) folded before Flop
+Seat 6: KHASHIMOV M (big blind) collected ($2)
+
+
+PokerStars Hand #154773304665:  Hold'em Limit ($3/$6 USD) - 2016/06/15 13:44:50 ET
+Table 'Felicia' 6-max Seat #6 is the button
+Seat 1: Tryptamean ($261.66 in chips)
+Seat 6: KHASHIMOV M ($12 in chips)
+KHASHIMOV M: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+KHASHIMOV M: folds
+Uncalled bet ($2) returned to Tryptamean
+Tryptamean collected $2 from pot
+Tryptamean: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Tryptamean (big blind) collected ($2)
+Seat 6: KHASHIMOV M (button) (small blind) folded before Flop
+
+
+PokerStars Hand #154773276540:  Hold'em Limit ($3/$6 USD) - 2016/06/15 13:44:11 ET
+Table 'Felicia' 6-max Seat #1 is the button
+Seat 1: Tryptamean ($244.16 in chips)
+Seat 6: KHASHIMOV M ($30 in chips)
+Tryptamean: posts small blind $1
+KHASHIMOV M: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+KHASHIMOV M: calls $3
+*** FLOP *** [Kc 4s Kh]
+KHASHIMOV M: checks
+Tryptamean: bets $3
+KHASHIMOV M: raises $3 to $6
+Tryptamean: calls $3
+*** TURN *** [Kc 4s Kh] [3d]
+KHASHIMOV M: bets $6
+Tryptamean: calls $6
+*** RIVER *** [Kc 4s Kh 3d] [8d]
+KHASHIMOV M: checks
+Tryptamean: bets $6
+KHASHIMOV M: folds
+Uncalled bet ($6) returned to Tryptamean
+Tryptamean collected $35.50 from pot
+Tryptamean: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Kc 4s Kh 3d 8d]
+Seat 1: Tryptamean (button) (small blind) collected ($35.50)
+Seat 6: KHASHIMOV M (big blind) folded on the River
+
+
+PokerStars Hand #154773218233:  Hold'em Limit ($3/$6 USD) - 2016/06/15 13:42:49 ET
+Table 'Felicia' 6-max Seat #6 is the button
+Seat 1: Tryptamean ($213.50 in chips)
+Seat 6: KHASHIMOV M ($31.16 in chips)
+KHASHIMOV M: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+KHASHIMOV M: raises $3 to $6
+Tryptamean: calls $3
+*** FLOP *** [4h 8c Tc]
+Tryptamean: checks
+KHASHIMOV M: bets $3
+Tryptamean: calls $3
+*** TURN *** [4h 8c Tc] [Ad]
+Tryptamean: checks
+KHASHIMOV M: bets $6
+Tryptamean: raises $6 to $12
+KHASHIMOV M: raises $6 to $18
+Tryptamean: calls $6
+*** RIVER *** [4h 8c Tc Ad] [6h]
+Tryptamean: checks
+KHASHIMOV M: bets $4.16 and is all-in
+Tryptamean: calls $4.16
+*** SHOW DOWN ***
+KHASHIMOV M: shows [Th Jd] (a pair of Tens)
+Tryptamean: shows [As 3d] (a pair of Aces)
+Tryptamean collected $61.82 from pot
+*** SUMMARY ***
+Total pot $62.32 | Rake $0.50
+Board [4h 8c Tc Ad 6h]
+Seat 1: Tryptamean (big blind) showed [As 3d] and won ($61.82) with a pair of Aces
+Seat 6: KHASHIMOV M (button) (small blind) showed [Th Jd] and lost with a pair of Tens
+
+
+PokerStars Hand #154773329038:  Hold'em Limit ($3/$6 USD) - 2016/06/15 13:45:20 ET
+Table 'Felicia' 6-max Seat #1 is the button
+Seat 1: Tryptamean ($255.66 in chips)
+Seat 6: KHASHIMOV M ($17.76 in chips)
+Tryptamean: posts small blind $1
+KHASHIMOV M: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+KHASHIMOV M: raises $3 to $9
+Tryptamean: calls $3
+*** FLOP *** [2h 7d 2d]
+KHASHIMOV M: bets $3
+Tryptamean: raises $3 to $6
+KHASHIMOV M: raises $2.76 to $8.76 and is all-in
+Tryptamean: calls $2.76
+*** TURN *** [2h 7d 2d] [7h]
+*** RIVER *** [2h 7d 2d 7h] [8c]
+*** SHOW DOWN ***
+KHASHIMOV M: shows [Qd Jd] (two pair, Sevens and Deuces)
+Tryptamean: shows [7s Qh] (a full house, Sevens full of Deuces)
+Tryptamean collected $35.02 from pot
+*** SUMMARY ***
+Total pot $35.52 | Rake $0.50
+Board [2h 7d 2d 7h 8c]
+Seat 1: Tryptamean (button) (small blind) showed [7s Qh] and won ($35.02) with a full house, Sevens full of Deuces
+Seat 6: KHASHIMOV M (big blind) showed [Qd Jd] and lost with two pair, Sevens and Deuces
+
+
+PokerStars Hand #154773315909:  Hold'em Limit ($3/$6 USD) - 2016/06/15 13:45:02 ET
+Table 'Felicia' 6-max Seat #6 is the button
+Seat 1: Tryptamean ($261.66 in chips)
+Seat 6: KHASHIMOV M ($12 in chips)
+KHASHIMOV M: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+KHASHIMOV M: raises $3 to $6
+Tryptamean: calls $3
+*** FLOP *** [8h 9d 3d]
+Tryptamean: checks
+KHASHIMOV M: bets $3
+Tryptamean: folds
+Uncalled bet ($3) returned to KHASHIMOV M
+KHASHIMOV M collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8h 9d 3d]
+Seat 1: Tryptamean (big blind) folded on the Flop
+Seat 6: KHASHIMOV M (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #154773346974:  Hold'em Limit ($3/$6 USD) - 2016/06/15 13:45:45 ET
+Table 'Felicia' 6-max Seat #6 is the button
+Seat 1: Tryptamean ($272.92 in chips)
+Seat 6: KHASHIMOV M ($12.65 in chips)
+KHASHIMOV M: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+KHASHIMOV M: calls $2
+Tryptamean: raises $3 to $6
+KHASHIMOV M: raises $3 to $9
+Tryptamean: raises $3 to $12
+Betting is capped
+KHASHIMOV M: calls $3
+*** FLOP *** [3d 6s 7h]
+Tryptamean: bets $3
+KHASHIMOV M: calls $0.65 and is all-in
+Uncalled bet ($2.35) returned to Tryptamean
+*** TURN *** [3d 6s 7h] [8h]
+*** RIVER *** [3d 6s 7h 8h] [8d]
+*** SHOW DOWN ***
+Tryptamean: shows [Ts Qc] (a pair of Eights)
+KHASHIMOV M: shows [3s 9s] (two pair, Eights and Threes)
+KHASHIMOV M collected $24.80 from pot
+*** SUMMARY ***
+Total pot $25.30 | Rake $0.50
+Board [3d 6s 7h 8h 8d]
+Seat 1: Tryptamean (big blind) showed [Ts Qc] and lost with a pair of Eights
+Seat 6: KHASHIMOV M (button) (small blind) showed [3s 9s] and won ($24.80) with two pair, Eights and Threes
+
+
+PokerStars Hand #154773996674:  Hold'em Limit ($3/$6 USD) - 2016/06/15 14:02:03 ET
+Table 'Felicia' 6-max Seat #6 is the button
+Seat 1: Ale4o ($123 in chips)
+Seat 6: 19woody58 ($117 in chips)
+19woody58: posts small blind $1
+Ale4o: posts big blind $3
+*** HOLE CARDS ***
+19woody58: raises $3 to $6
+Ale4o: calls $3
+*** FLOP *** [8h Jd Js]
+Ale4o: checks
+19woody58: bets $3
+Ale4o: calls $3
+*** TURN *** [8h Jd Js] [As]
+Ale4o: checks
+19woody58: checks
+*** RIVER *** [8h Jd Js As] [9c]
+Ale4o: bets $6
+19woody58: calls $6
+*** SHOW DOWN ***
+Ale4o: shows [6h Qh] (a pair of Jacks)
+19woody58: shows [Kh 3h] (a pair of Jacks - Ace+King kicker)
+19woody58 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8h Jd Js As 9c]
+Seat 1: Ale4o (big blind) showed [6h Qh] and lost with a pair of Jacks
+Seat 6: 19woody58 (button) (small blind) showed [Kh 3h] and won ($29.50) with a pair of Jacks
+
+
+PokerStars Hand #154774026399:  Hold'em Limit ($3/$6 USD) - 2016/06/15 14:02:45 ET
+Table 'Felicia' 6-max Seat #6 is the button
+Seat 1: Ale4o ($84 in chips)
+Seat 6: 19woody58 ($155 in chips)
+19woody58: posts small blind $1
+Ale4o: posts big blind $3
+*** HOLE CARDS ***
+19woody58: folds
+Uncalled bet ($2) returned to Ale4o
+Ale4o collected $2 from pot
+Ale4o: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Ale4o (big blind) collected ($2)
+Seat 6: 19woody58 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #154774009730:  Hold'em Limit ($3/$6 USD) - 2016/06/15 14:02:22 ET
+Table 'Felicia' 6-max Seat #1 is the button
+Seat 1: Ale4o ($108 in chips)
+Seat 6: 19woody58 ($131.50 in chips)
+Ale4o: posts small blind $1
+19woody58: posts big blind $3
+*** HOLE CARDS ***
+Ale4o: raises $3 to $6
+19woody58: calls $3
+*** FLOP *** [9s 2c Jc]
+19woody58: checks
+Ale4o: bets $3
+19woody58: raises $3 to $6
+Ale4o: calls $3
+*** TURN *** [9s 2c Jc] [Jh]
+19woody58: bets $6
+Ale4o: calls $6
+*** RIVER *** [9s 2c Jc Jh] [3h]
+19woody58: bets $6
+tomte999 joins the table at seat #2
+Ale4o: calls $6
+*** SHOW DOWN ***
+19woody58: shows [Tc Th] (two pair, Jacks and Tens)
+Ale4o: mucks hand
+19woody58 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9s 2c Jc Jh 3h]
+Seat 1: Ale4o (button) (small blind) mucked
+Seat 6: 19woody58 (big blind) showed [Tc Th] and won ($47.50) with two pair, Jacks and Tens
+
+

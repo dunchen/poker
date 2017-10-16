@@ -1,0 +1,89 @@
+PokerStars Hand #159392376499:  Hold'em Limit ($3/$6 USD) - 2016/10/02 16:47:02 ET
+Table 'Amherstia' 6-max Seat #5 is the button
+Seat 1: papa crepes ($10.42 in chips)
+Seat 5: GoliafUa ($146.50 in chips)
+GoliafUa: posts small blind $1
+papa crepes: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa: raises $3 to $6
+papa crepes: raises $3 to $9
+GoliafUa: calls $3
+*** FLOP *** [3c 9h 4c]
+papa crepes: bets $1.42 and is all-in
+GoliafUa: calls $1.42
+*** TURN *** [3c 9h 4c] [8h]
+*** RIVER *** [3c 9h 4c 8h] [As]
+*** SHOW DOWN ***
+papa crepes: shows [Qc 7d] (high card Ace)
+GoliafUa: shows [2d 5d] (a straight, Ace to Five)
+GoliafUa collected $20.42 from pot
+*** SUMMARY ***
+Total pot $20.84 | Rake $0.42
+Board [3c 9h 4c 8h As]
+Seat 1: papa crepes (big blind) showed [Qc 7d] and lost with high card Ace
+Seat 5: GoliafUa (button) (small blind) showed [2d 5d] and won ($20.42) with a straight, Ace to Five
+
+
+PokerStars Hand #159392356982:  Hold'em Limit ($3/$6 USD) - 2016/10/02 16:46:42 ET
+Table 'Amherstia' 6-max Seat #1 is the button
+Seat 1: papa crepes ($37.42 in chips)
+Seat 5: GoliafUa ($120 in chips)
+papa crepes: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+papa crepes: raises $3 to $6
+GoliafUa: calls $3
+*** FLOP *** [Jh 5s 7h]
+GoliafUa: checks
+papa crepes: bets $3
+GoliafUa: calls $3
+*** TURN *** [Jh 5s 7h] [5d]
+GoliafUa: checks
+papa crepes: checks
+*** RIVER *** [Jh 5s 7h 5d] [8d]
+GoliafUa: bets $6
+papa crepes: raises $6 to $12
+GoliafUa: raises $6 to $18
+humlefar joins the table at seat #3
+papa crepes: calls $6
+*** SHOW DOWN ***
+GoliafUa: shows [5h 8s] (a full house, Fives full of Eights)
+papa crepes: mucks hand
+GoliafUa collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Jh 5s 7h 5d 8d]
+Seat 1: papa crepes (button) (small blind) mucked
+Seat 5: GoliafUa (big blind) showed [5h 8s] and won ($53.50) with a full house, Fives full of Eights
+
+
+PokerStars Hand #159393358862:  Hold'em Limit ($3/$6 USD) - 2016/10/02 17:05:54 ET
+Table 'Amherstia' 6-max Seat #4 is the button
+Seat 2: ToDaFelt ($99 in chips)
+Seat 4: Actionni13 ($150 in chips)
+Actionni13: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+GoliafUa leaves the table
+ToDaFelt: raises $3 to $9
+Actionni13: calls $3
+*** FLOP *** [5d Ad 4h]
+ToDaFelt: bets $3
+Actionni13: calls $3
+*** TURN *** [5d Ad 4h] [2h]
+ToDaFelt: bets $6
+Actionni13: calls $6
+*** RIVER *** [5d Ad 4h 2h] [7h]
+ToDaFelt: bets $6
+Actionni13: folds
+Uncalled bet ($6) returned to ToDaFelt
+ToDaFelt collected $35.50 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5d Ad 4h 2h 7h]
+Seat 2: ToDaFelt (big blind) collected ($35.50)
+Seat 4: Actionni13 (button) (small blind) folded on the River
+
+

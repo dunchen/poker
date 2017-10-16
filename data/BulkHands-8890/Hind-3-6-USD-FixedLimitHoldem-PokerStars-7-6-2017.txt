@@ -1,0 +1,88 @@
+PokerStars Hand #172666503123:  Hold'em Limit ($3/$6 USD) - 2017/07/06 3:14:09 ET
+Table 'Hind' 6-max Seat #1 is the button
+Seat 1: ChicaBeutlin ($317.78 in chips)
+Seat 3: sim5sim5 ($72 in chips)
+ChicaBeutlin: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+ChicaBeutlin: calls $2
+sim5sim5: checks
+*** FLOP *** [8d 5c 9d]
+sim5sim5: bets $3
+ChicaBeutlin: calls $3
+*** TURN *** [8d 5c 9d] [Qh]
+sim5sim5: checks
+ChicaBeutlin: checks
+*** RIVER *** [8d 5c 9d Qh] [2h]
+sim5sim5: bets $6
+ChicaBeutlin: folds
+Uncalled bet ($6) returned to sim5sim5
+sim5sim5 collected $11.76 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8d 5c 9d Qh 2h]
+Seat 1: ChicaBeutlin (button) (small blind) folded on the River
+Seat 3: sim5sim5 (big blind) collected ($11.76)
+
+
+PokerStars Hand #172666497775:  Hold'em Limit ($3/$6 USD) - 2017/07/06 3:13:47 ET
+Table 'Hind' 6-max Seat #3 is the button
+Seat 1: ChicaBeutlin ($309.14 in chips)
+Seat 3: sim5sim5 ($77.04 in chips)
+sim5sim5: posts small blind $1
+ChicaBeutlin: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+ChicaBeutlin: calls $3
+*** FLOP *** [9h Kd Th]
+ChicaBeutlin: checks
+sim5sim5: bets $3
+ChicaBeutlin: calls $3
+*** TURN *** [9h Kd Th] [8h]
+ChicaBeutlin: checks
+sim5sim5: checks
+*** RIVER *** [9h Kd Th 8h] [5c]
+ChicaBeutlin: bets $6
+sim5sim5: folds
+Uncalled bet ($6) returned to ChicaBeutlin
+ChicaBeutlin collected $17.64 from pot
+ChicaBeutlin: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9h Kd Th 8h 5c]
+Seat 1: ChicaBeutlin (big blind) collected ($17.64)
+Seat 3: sim5sim5 (button) (small blind) folded on the River
+
+
+PokerStars Hand #172666487554:  Hold'em Limit ($3/$6 USD) - 2017/07/06 3:13:06 ET
+Table 'Hind' 6-max Seat #1 is the button
+Seat 1: ChicaBeutlin ($291.64 in chips)
+Seat 3: sim5sim5 ($95.04 in chips)
+ChicaBeutlin: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+ChicaBeutlin: raises $3 to $6
+sim5sim5: raises $3 to $9
+ChicaBeutlin: calls $3
+*** FLOP *** [Ks 5h 9s]
+sim5sim5: bets $3
+ChicaBeutlin: calls $3
+*** TURN *** [Ks 5h 9s] [Qd]
+sim5sim5: checks
+ChicaBeutlin: bets $6
+sim5sim5: calls $6
+*** RIVER *** [Ks 5h 9s Qd] [2s]
+sim5sim5: checks
+ChicaBeutlin: bets $6
+sim5sim5: folds
+Uncalled bet ($6) returned to ChicaBeutlin
+ChicaBeutlin collected $35.50 from pot
+ChicaBeutlin: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Ks 5h 9s Qd 2s]
+Seat 1: ChicaBeutlin (button) (small blind) collected ($35.50)
+Seat 3: sim5sim5 (big blind) folded on the River
+
+

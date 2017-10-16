@@ -1,0 +1,75 @@
+PokerStars Hand #151597660285:  Hold'em Limit ($3/$6 USD) - 2016/04/08 0:32:44 ET
+Table 'Nenetta' 6-max Seat #5 is the button
+Seat 4: VolkovDmitri ($125.76 in chips)
+Seat 5: degal76 ($25.04 in chips)
+degal76: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+degal76: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: VolkovDmitri (big blind) collected ($2)
+Seat 5: degal76 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #151597653734:  Hold'em Limit ($3/$6 USD) - 2016/04/08 0:32:19 ET
+Table 'Nenetta' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($120 in chips)
+Seat 5: degal76 ($31.04 in chips)
+VolkovDmitri: posts small blind $1
+degal76: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+degal76: calls $3
+*** FLOP *** [9h 2c Qs]
+degal76: checks
+VolkovDmitri: bets $3
+degal76: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9h 2c Qs]
+Seat 4: VolkovDmitri (button) (small blind) collected ($11.76)
+Seat 5: degal76 (big blind) folded on the Flop
+
+
+PokerStars Hand #151597661638:  Hold'em Limit ($3/$6 USD) - 2016/04/08 0:32:49 ET
+Table 'Nenetta' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($126.76 in chips)
+Seat 5: degal76 ($24.04 in chips)
+VolkovDmitri: posts small blind $1
+degal76: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+degal76: calls $3
+*** FLOP *** [9h 9d Qh]
+degal76: checks
+VolkovDmitri: bets $3
+degal76: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+degal76: raises $3 to $12
+Betting is capped
+VolkovDmitri: calls $3
+*** TURN *** [9h 9d Qh] [Ts]
+degal76: bets $6
+VolkovDmitri: raises $6 to $12
+degal76: calls $0.04 and is all-in
+Uncalled bet ($5.96) returned to VolkovDmitri
+*** RIVER *** [9h 9d Qh Ts] [8h]
+*** SHOW DOWN ***
+degal76: shows [7c Tc] (two pair, Tens and Nines)
+VolkovDmitri: shows [Ah As] (two pair, Aces and Nines)
+VolkovDmitri collected $47.58 from pot
+degal76 leaves the table
+*** SUMMARY ***
+Total pot $48.08 | Rake $0.50
+Board [9h 9d Qh Ts 8h]
+Seat 4: VolkovDmitri (button) (small blind) showed [Ah As] and won ($47.58) with two pair, Aces and Nines
+Seat 5: degal76 (big blind) showed [7c Tc] and lost with two pair, Tens and Nines
+
+

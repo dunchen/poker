@@ -1,0 +1,33 @@
+PokerStars Hand #144794816622:  Hold'em Limit ($3/$6 USD) - 2015/12/04 3:01:28 ET
+Table 'Alrisha' 6-max Seat #4 is the button
+Seat 3: Agrotait ($138.10 in chips)
+Seat 4: krossguard ($204.32 in chips)
+krossguard: posts small blind $1
+VolkovDmitri: is sitting out
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri leaves the table
+kimbuch leaves the table
+krossguard: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [5h 7d 8h]
+Agrotait: checks
+krossguard: bets $3
+Agrotait: calls $3
+*** TURN *** [5h 7d 8h] [9c]
+Agrotait: checks
+krossguard: checks
+*** RIVER *** [5h 7d 8h 9c] [6c]
+Agrotait: bets $6
+krossguard: calls $6
+*** SHOW DOWN ***
+Agrotait: shows [Td Kc] (a straight, Six to Ten)
+krossguard: mucks hand
+Agrotait collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5h 7d 8h 9c 6c]
+Seat 3: Agrotait (big blind) showed [Td Kc] and won ($29.50) with a straight, Six to Ten
+Seat 4: krossguard (button) (small blind) mucked
+
+

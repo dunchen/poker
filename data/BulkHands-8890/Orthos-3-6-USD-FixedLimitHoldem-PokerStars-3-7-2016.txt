@@ -1,0 +1,110 @@
+PokerStars Hand #149962189797:  Hold'em Limit ($3/$6 USD) - 2016/03/06 20:38:29 ET
+Table 'Orthos' 6-max Seat #4 is the button
+Seat 3: markuliana ($35.76 in chips)
+Seat 4: AzureCaper ($72 in chips)
+AzureCaper: posts small blind $1
+markuliana: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+markuliana: calls $3
+*** FLOP *** [As Ts Tc]
+markuliana: bets $3
+AzureCaper: calls $3
+*** TURN *** [As Ts Tc] [3h]
+markuliana: bets $6
+AzureCaper: calls $6
+*** RIVER *** [As Ts Tc 3h] [Kh]
+markuliana: bets $6
+AzureCaper: raises $6 to $12
+markuliana: calls $6
+*** SHOW DOWN ***
+AzureCaper: shows [Td Th] (four of a kind, Tens)
+markuliana: mucks hand
+AzureCaper collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [As Ts Tc 3h Kh]
+Seat 3: markuliana (big blind) mucked
+Seat 4: AzureCaper (button) (small blind) showed [Td Th] and won ($53.50) with four of a kind, Tens
+
+
+PokerStars Hand #149962196564:  Hold'em Limit ($3/$6 USD) - 2016/03/06 20:38:43 ET
+Table 'Orthos' 6-max Seat #3 is the button
+Seat 3: markuliana ($8.76 in chips)
+Seat 4: AzureCaper ($98.50 in chips)
+markuliana: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+markuliana: calls $2
+AzureCaper: checks
+*** FLOP *** [Qh 5d 2d]
+AzureCaper: bets $3
+markuliana: calls $3
+*** TURN *** [Qh 5d 2d] [Jd]
+AzureCaper: bets $6
+markuliana: calls $2.76 and is all-in
+Uncalled bet ($3.24) returned to AzureCaper
+*** RIVER *** [Qh 5d 2d Jd] [Ts]
+*** SHOW DOWN ***
+AzureCaper: shows [3d 6h] (high card Queen)
+markuliana: shows [2h Js] (two pair, Jacks and Deuces)
+markuliana collected $17.17 from pot
+*** SUMMARY ***
+Total pot $17.52 | Rake $0.35
+Board [Qh 5d 2d Jd Ts]
+Seat 3: markuliana (button) (small blind) showed [2h Js] and won ($17.17) with two pair, Jacks and Deuces
+Seat 4: AzureCaper (big blind) showed [3d 6h] and lost with high card Queen
+
+
+PokerStars Hand #149962183139:  Hold'em Limit ($3/$6 USD) - 2016/03/06 20:38:15 ET
+Table 'Orthos' 6-max Seat #3 is the button
+Seat 3: markuliana ($30 in chips)
+Seat 4: AzureCaper ($72 in chips)
+markuliana: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+markuliana: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [8s 8h 3d]
+AzureCaper: checks
+markuliana: bets $3
+AzureCaper: folds
+Uncalled bet ($3) returned to markuliana
+markuliana collected $11.76 from pot
+markuliana: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8s 8h 3d]
+Seat 3: markuliana (button) (small blind) collected ($11.76)
+Seat 4: AzureCaper (big blind) folded on the Flop
+
+
+PokerStars Hand #149962203100:  Hold'em Limit ($3/$6 USD) - 2016/03/06 20:38:57 ET
+Table 'Orthos' 6-max Seat #4 is the button
+Seat 3: markuliana ($17.17 in chips)
+Seat 4: AzureCaper ($89.74 in chips)
+AzureCaper: posts small blind $1
+markuliana: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+markuliana: calls $3
+*** FLOP *** [7c Ad Jh]
+markuliana: bets $3
+AzureCaper: calls $3
+*** TURN *** [7c Ad Jh] [3c]
+markuliana: bets $6
+AzureCaper: raises $6 to $12
+markuliana: calls $2.17 and is all-in
+Uncalled bet ($3.83) returned to AzureCaper
+*** RIVER *** [7c Ad Jh 3c] [Jc]
+*** SHOW DOWN ***
+markuliana: shows [6d Js] (three of a kind, Jacks)
+AzureCaper: shows [7s 7h] (a full house, Sevens full of Jacks)
+AzureCaper collected $33.84 from pot
+*** SUMMARY ***
+Total pot $34.34 | Rake $0.50
+Board [7c Ad Jh 3c Jc]
+Seat 3: markuliana (big blind) showed [6d Js] and lost with three of a kind, Jacks
+Seat 4: AzureCaper (button) (small blind) showed [7s 7h] and won ($33.84) with a full house, Sevens full of Jacks
+
+

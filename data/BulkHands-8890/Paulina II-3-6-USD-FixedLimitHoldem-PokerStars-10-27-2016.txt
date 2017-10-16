@@ -1,0 +1,33 @@
+PokerStars Hand #160513364425:  Hold'em Limit ($3/$6 USD) - 2016/10/27 14:36:20 ET
+Table 'Paulina II' 6-max Seat #1 is the button
+Seat 1: Ag3r0n ($72 in chips)
+Seat 2: edenrose41 ($30 in chips)
+Ag3r0n: posts small blind $1
+edenrose41: posts big blind $3
+*** HOLE CARDS ***
+Ag3r0n: raises $3 to $6
+edenrose41: calls $3
+*** FLOP *** [2h 7c 7h]
+edenrose41: checks
+Ag3r0n: bets $3
+edenrose41: calls $3
+*** TURN *** [2h 7c 7h] [5h]
+edenrose41: bets $6
+Ag3r0n: raises $6 to $12
+edenrose41: raises $6 to $18
+Ag3r0n: raises $6 to $24
+Betting is capped
+edenrose41: calls $3 and is all-in
+Uncalled bet ($3) returned to Ag3r0n
+*** RIVER *** [2h 7c 7h 5h] [2d]
+*** SHOW DOWN ***
+edenrose41: shows [5s 8d] (two pair, Sevens and Fives)
+Ag3r0n: shows [9c 7d] (a full house, Sevens full of Deuces)
+Ag3r0n collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [2h 7c 7h 5h 2d]
+Seat 1: Ag3r0n (button) (small blind) showed [9c 7d] and won ($59.50) with a full house, Sevens full of Deuces
+Seat 2: edenrose41 (big blind) showed [5s 8d] and lost with two pair, Sevens and Fives
+
+

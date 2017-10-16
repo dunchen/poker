@@ -1,0 +1,59 @@
+PokerStars Hand #149107537047:  Hold'em Limit ($3/$6 USD) - 2016/02/20 5:25:25 ET
+Table 'Keid' 10-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 6: PigStyles ($237.68 in chips)
+VolkovDmitri: posts small blind $1
+PigStyles: posts big blind $3
+*** HOLE CARDS ***
+Kajind joins the table at seat #7
+VolkovDmitri: raises $3 to $6
+PigStyles: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [Kh Th Jh]
+PigStyles: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [Kh Th Jh] [7h]
+PigStyles: bets $6
+VolkovDmitri: raises $6 to $12
+PigStyles: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $35.50 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Kh Th Jh 7h]
+Seat 1: VolkovDmitri (button) (small blind) collected ($35.50)
+Seat 6: PigStyles (big blind) folded on the Turn
+
+
+PokerStars Hand #149107560954:  Hold'em Limit ($3/$6 USD) - 2016/02/20 5:26:10 ET
+Table 'Keid' 10-max Seat #7 is the button
+Seat 1: VolkovDmitri ($146.05 in chips)
+Seat 7: Kajind ($117 in chips)
+Kajind: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Kajind: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [9h 7d Qs]
+VolkovDmitri: checks
+Kajind: bets $3
+VolkovDmitri: raises $3 to $6
+Kajind: calls $3
+*** TURN *** [9h 7d Qs] [5c]
+VolkovDmitri: bets $6
+Kajind: calls $6
+*** RIVER *** [9h 7d Qs 5c] [2c]
+VolkovDmitri: bets $6
+Kajind: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Qd 9c] (two pair, Queens and Nines)
+Kajind: mucks hand
+VolkovDmitri collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9h 7d Qs 5c 2c]
+Seat 1: VolkovDmitri (big blind) showed [Qd 9c] and won ($47.50) with two pair, Queens and Nines
+Seat 7: Kajind (button) (small blind) mucked
+
+

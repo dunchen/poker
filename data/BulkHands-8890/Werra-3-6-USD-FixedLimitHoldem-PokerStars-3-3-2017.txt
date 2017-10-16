@@ -1,0 +1,33 @@
+PokerStars Hand #167054737578:  Hold'em Limit ($3/$6 USD) - 2017/03/03 12:46:06 ET
+Table 'Werra' 6-max Seat #5 is the button
+Seat 2: krytalex ($106.90 in chips)
+Seat 5: umbunga ($417.52 in chips)
+umbunga: posts small blind $1
+vestimokrec: is sitting out
+krytalex: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec leaves the table
+umbunga: raises $3 to $6
+krytalex: calls $3
+*** FLOP *** [9d Qh 5d]
+krytalex: checks
+umbunga: bets $3
+krytalex: raises $3 to $6
+umbunga: calls $3
+*** TURN *** [9d Qh 5d] [As]
+krytalex: checks
+umbunga: checks
+*** RIVER *** [9d Qh 5d As] [6d]
+krytalex: bets $6
+umbunga: calls $6
+*** SHOW DOWN ***
+krytalex: shows [6s 9c] (two pair, Nines and Sixes)
+umbunga: mucks hand
+krytalex collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [9d Qh 5d As 6d]
+Seat 2: krytalex (big blind) showed [6s 9c] and won ($35.50) with two pair, Nines and Sixes
+Seat 5: umbunga (button) (small blind) mucked
+
+

@@ -1,0 +1,31 @@
+PokerStars Hand #151662687902:  Hold'em Limit ($3/$6 USD) - 2016/04/09 10:38:48 ET
+Table 'Aeolia II' 6-max Seat #3 is the button
+Seat 3: anetkaapro ($120 in chips)
+Seat 4: Thijsje1200 ($104.38 in chips)
+anetkaapro: posts small blind $1
+Thijsje1200: posts big blind $3
+*** HOLE CARDS ***
+anetkaapro: raises $3 to $6
+TbIP-TbIP 88 joins the table at seat #5
+Thijsje1200: calls $3
+*** FLOP *** [Td 4h Th]
+Thijsje1200: checks
+anetkaapro: bets $3
+Thijsje1200: calls $3
+*** TURN *** [Td 4h Th] [8s]
+Thijsje1200: checks
+anetkaapro: checks
+*** RIVER *** [Td 4h Th 8s] [2d]
+Thijsje1200: bets $6
+anetkaapro: calls $6
+*** SHOW DOWN ***
+Thijsje1200: shows [8h Kd] (two pair, Tens and Eights)
+anetkaapro: mucks hand
+Thijsje1200 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Td 4h Th 8s 2d]
+Seat 3: anetkaapro (button) (small blind) mucked
+Seat 4: Thijsje1200 (big blind) showed [8h Kd] and won ($29.50) with two pair, Tens and Eights
+
+

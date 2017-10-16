@@ -1,0 +1,56 @@
+PokerStars Hand #171742866749:  Hold'em Limit ($3/$6 USD) - 2017/06/13 18:44:10 ET
+Table 'Philoctetes' 6-max Seat #6 is the button
+Seat 3: igorkabmw ($32 in chips)
+Seat 6: scorpio04 ($150 in chips)
+scorpio04: posts small blind $1
+igorkabmw: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl joins the table at seat #4
+scorpio04: raises $3 to $6
+igorkabmw: calls $3
+*** FLOP *** [Kd 7d 5s]
+igorkabmw: checks
+scorpio04: checks
+*** TURN *** [Kd 7d 5s] [Ts]
+igorkabmw: checks
+scorpio04: bets $6
+igorkabmw: calls $6
+*** RIVER *** [Kd 7d 5s Ts] [Td]
+igorkabmw: checks
+scorpio04: bets $6
+igorkabmw: calls $6
+*** SHOW DOWN ***
+scorpio04: shows [6c Js] (a pair of Tens)
+igorkabmw: shows [2h 2s] (two pair, Tens and Deuces)
+igorkabmw collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Kd 7d 5s Ts Td]
+Seat 3: igorkabmw (big blind) showed [2h 2s] and won ($35.50) with two pair, Tens and Deuces
+Seat 6: scorpio04 (button) (small blind) showed [6c Js] and lost with a pair of Tens
+
+
+PokerStars Hand #171743426228:  Hold'em Limit ($3/$6 USD) - 2017/06/13 18:59:57 ET
+Table 'Philoctetes' 6-max Seat #6 is the button
+Seat 4: B_loJkl ($127.80 in chips)
+Seat 6: scorpio04 ($221.92 in chips)
+scorpio04: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+scorpio04: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Js Tc 9s]
+B_loJkl: checks
+scorpio04: bets $3
+igorkabmw leaves the table
+B_loJkl: folds
+Uncalled bet ($3) returned to scorpio04
+scorpio04 collected $11.76 from pot
+scorpio04: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Js Tc 9s]
+Seat 4: B_loJkl (big blind) folded on the Flop
+Seat 6: scorpio04 (button) (small blind) collected ($11.76)
+
+

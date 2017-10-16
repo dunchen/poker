@@ -1,0 +1,108 @@
+PokerStars Hand #158517283771:  Hold'em Limit ($3/$6 USD) - 2016/09/12 15:22:24 ET
+Table 'Herodias II' 6-max Seat #5 is the button
+Seat 3: buddhasway ($38.18 in chips)
+Seat 5: hubschi ($77.45 in chips)
+hubschi: posts small blind $1
+vestimokrec joins the table at seat #6
+buddhasway: posts big blind $3
+*** HOLE CARDS ***
+hubschi: calls $2
+buddhasway: checks
+*** FLOP *** [8h 3h 9c]
+buddhasway: bets $3
+hubschi: calls $3
+*** TURN *** [8h 3h 9c] [4c]
+buddhasway: bets $6
+hubschi: calls $6
+*** RIVER *** [8h 3h 9c 4c] [Ah]
+buddhasway: checks
+hubschi: bets $6
+buddhasway: calls $6
+*** SHOW DOWN ***
+hubschi: shows [Tc Qh] (high card Ace)
+buddhasway: shows [6s 8s] (a pair of Eights)
+buddhasway collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [8h 3h 9c 4c Ah]
+Seat 3: buddhasway (big blind) showed [6s 8s] and won ($35.50) with a pair of Eights
+Seat 5: hubschi (button) (small blind) showed [Tc Qh] and lost with high card Ace
+
+
+PokerStars Hand #158517307749:  Hold'em Limit ($3/$6 USD) - 2016/09/12 15:22:50 ET
+Table 'Herodias II' 6-max Seat #3 is the button
+Seat 3: buddhasway ($55.68 in chips)
+Seat 5: hubschi ($59.45 in chips)
+buddhasway: posts small blind $1
+hubschi: posts big blind $3
+*** HOLE CARDS ***
+buddhasway: raises $3 to $6
+hubschi: raises $3 to $9
+buddhasway: calls $3
+*** FLOP *** [3d Js Jc]
+hubschi: checks
+buddhasway: checks
+*** TURN *** [3d Js Jc] [Ac]
+hubschi: checks
+buddhasway: checks
+*** RIVER *** [3d Js Jc Ac] [6h]
+hubschi: checks
+buddhasway: checks
+*** SHOW DOWN ***
+hubschi: shows [Qh Kc] (a pair of Jacks)
+buddhasway: mucks hand
+hubschi collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3d Js Jc Ac 6h]
+Seat 3: buddhasway (button) (small blind) mucked
+Seat 5: hubschi (big blind) showed [Qh Kc] and won ($17.64) with a pair of Jacks
+
+
+PokerStars Hand #158517943480:  Hold'em Limit ($3/$6 USD) - 2016/09/12 15:34:35 ET
+Table 'Herodias II' 6-max Seat #1 is the button
+Seat 1: beaupaco ($130 in chips)
+Seat 6: vestimokrec ($214.44 in chips)
+beaupaco: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+beaupaco: folds
+Uncalled bet ($2) returned to vestimokrec
+Chessnok joins the table at seat #2
+vestimokrec collected $2 from pot
+vestimokrec: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: beaupaco (button) (small blind) folded before Flop
+Seat 6: vestimokrec (big blind) collected ($2)
+
+
+PokerStars Hand #158517950113:  Hold'em Limit ($3/$6 USD) - 2016/09/12 15:34:41 ET
+Table 'Herodias II' 6-max Seat #6 is the button
+Seat 1: beaupaco ($129 in chips)
+Seat 6: vestimokrec ($215.44 in chips)
+vestimokrec: posts small blind $1
+beaupaco: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+beaupaco: calls $3
+*** FLOP *** [Tc 2c Jd]
+beaupaco: checks
+vestimokrec: bets $3
+beaupaco: calls $3
+*** TURN *** [Tc 2c Jd] [2h]
+beaupaco: checks
+vestimokrec: checks
+*** RIVER *** [Tc 2c Jd 2h] [9d]
+beaupaco: bets $6
+vestimokrec: folds
+Uncalled bet ($6) returned to beaupaco
+beaupaco collected $17.64 from pot
+beaupaco: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Tc 2c Jd 2h 9d]
+Seat 1: beaupaco (big blind) collected ($17.64)
+Seat 6: vestimokrec (button) (small blind) folded on the River
+
+

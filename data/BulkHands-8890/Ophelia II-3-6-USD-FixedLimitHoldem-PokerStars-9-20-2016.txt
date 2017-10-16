@@ -1,0 +1,55 @@
+PokerStars Hand #158845792121:  Hold'em Limit ($3/$6 USD) - 2016/09/20 4:56:33 ET
+Table 'Ophelia II' 6-max Seat #3 is the button
+Seat 3: danholthe ($379.48 in chips)
+Seat 4: VolkovDmitri ($182.42 in chips)
+danholthe: posts small blind $1
+Ag3r0n joins the table at seat #1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+danholthe: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [5d Qd Js]
+VolkovDmitri: checks
+danholthe: bets $3
+VolkovDmitri: folds
+Uncalled bet ($3) returned to danholthe
+danholthe collected $11.76 from pot
+danholthe: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5d Qd Js]
+Seat 3: danholthe (button) (small blind) collected ($11.76)
+Seat 4: VolkovDmitri (big blind) folded on the Flop
+
+
+PokerStars Hand #158845872966:  Hold'em Limit ($3/$6 USD) - 2016/09/20 5:01:05 ET
+Table 'Ophelia II' 6-max Seat #4 is the button
+Seat 1: Ag3r0n ($136.72 in chips)
+Seat 4: VolkovDmitri ($185.66 in chips)
+VolkovDmitri: posts small blind $1
+Ag3r0n: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Ag3r0n: calls $3
+*** FLOP *** [2h Tc 4h]
+Ag3r0n: checks
+VolkovDmitri: bets $3
+Ag3r0n: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [2h Tc 4h] [9d]
+Ag3r0n: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [2h Tc 4h 9d] [Jd]
+Ag3r0n: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+Ag3r0n: shows [Qh 6h] (high card Queen)
+VolkovDmitri: mucks hand
+Ag3r0n collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [2h Tc 4h 9d Jd]
+Seat 1: Ag3r0n (big blind) showed [Qh 6h] and won ($35.50) with high card Queen
+Seat 4: VolkovDmitri (button) (small blind) mucked
+
+

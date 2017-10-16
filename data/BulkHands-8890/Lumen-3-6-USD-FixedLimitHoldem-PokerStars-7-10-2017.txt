@@ -1,0 +1,78 @@
+PokerStars Hand #172856967186:  Hold'em Limit ($3/$6 USD) - 2017/07/10 14:02:11 ET
+Table 'Lumen' 6-max Seat #6 is the button
+Seat 3: robertass84 ($120 in chips)
+Seat 6: dmonr ($30 in chips)
+dmonr: posts small blind $1
+robertass84: posts big blind $3
+*** HOLE CARDS ***
+dmonr: calls $2
+robertass84: checks
+*** FLOP *** [3d 9s 7d]
+robertass84: checks
+dmonr: bets $3
+robertass84: folds
+Uncalled bet ($3) returned to dmonr
+dmonr collected $5.88 from pot
+dmonr: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [3d 9s 7d]
+Seat 3: robertass84 (big blind) folded on the Flop
+Seat 6: dmonr (button) (small blind) collected ($5.88)
+
+
+PokerStars Hand #172856974955:  Hold'em Limit ($3/$6 USD) - 2017/07/10 14:02:22 ET
+Table 'Lumen' 6-max Seat #3 is the button
+Seat 3: robertass84 ($120 in chips)
+Seat 6: dmonr ($32.88 in chips)
+robertass84: posts small blind $1
+dmonr: posts big blind $3
+*** HOLE CARDS ***
+robertass84: raises $3 to $6
+dmonr: calls $3
+*** FLOP *** [5c 4s 7s]
+dmonr: checks
+robertass84: bets $3
+dmonr: calls $3
+*** TURN *** [5c 4s 7s] [7d]
+dmonr: checks
+robertass84: bets $6
+dmonr: calls $6
+*** RIVER *** [5c 4s 7s 7d] [Js]
+dmonr: bets $6
+robertass84: calls $6
+*** SHOW DOWN ***
+dmonr: shows [Kh Jc] (two pair, Jacks and Sevens)
+robertass84: mucks hand
+DismasX joins the table at seat #1
+dmonr collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [5c 4s 7s 7d Js]
+Seat 3: robertass84 (button) (small blind) mucked
+Seat 6: dmonr (big blind) showed [Kh Jc] and won ($41.50) with two pair, Jacks and Sevens
+
+
+PokerStars Hand #172857183179:  Hold'em Limit ($3/$6 USD) - 2017/07/10 14:07:00 ET
+Table 'Lumen' 6-max Seat #1 is the button
+Seat 1: DismasX ($72 in chips)
+Seat 3: robertass84 ($137.56 in chips)
+DismasX: posts small blind $1
+robertass84: posts big blind $3
+*** HOLE CARDS ***
+DismasX: raises $3 to $6
+robertass84: raises $3 to $9
+DismasX: calls $3
+*** FLOP *** [As 2c 5d]
+robertass84: bets $3
+DismasX: folds
+Uncalled bet ($3) returned to robertass84
+robertass84 collected $17.64 from pot
+robertass84: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [As 2c 5d]
+Seat 1: DismasX (button) (small blind) folded on the Flop
+Seat 3: robertass84 (big blind) collected ($17.64)
+
+

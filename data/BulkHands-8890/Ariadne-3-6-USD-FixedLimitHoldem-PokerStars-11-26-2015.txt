@@ -1,0 +1,541 @@
+PokerStars Hand #144399263448:  Hold'em Limit ($3/$6 USD) - 2015/11/26 4:10:44 ET
+Table 'Ariadne' 6-max Seat #6 is the button
+Seat 2: krossguard ($111.43 in chips)
+Seat 6: yu1104 ($233.87 in chips)
+yu1104: posts small blind $1
+krossguard: posts big blind $3
+*** HOLE CARDS ***
+yu1104: raises $3 to $6
+krossguard: calls $3
+*** FLOP *** [Qh 2s 5d]
+krossguard: checks
+yu1104: bets $3
+krossguard: calls $3
+*** TURN *** [Qh 2s 5d] [4d]
+krossguard: checks
+yu1104: bets $6
+krossguard: calls $6
+*** RIVER *** [Qh 2s 5d 4d] [Ad]
+krossguard: checks
+yu1104: bets $6
+krossguard: folds
+Uncalled bet ($6) returned to yu1104
+yu1104 collected $29.50 from pot
+yu1104: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qh 2s 5d 4d Ad]
+Seat 2: krossguard (big blind) folded on the River
+Seat 6: yu1104 (button) (small blind) collected ($29.50)
+
+
+PokerStars Hand #144399281618:  Hold'em Limit ($3/$6 USD) - 2015/11/26 4:11:36 ET
+Table 'Ariadne' 6-max Seat #2 is the button
+Seat 2: krossguard ($98.95 in chips)
+Seat 6: yu1104 ($245.01 in chips)
+krossguard: posts small blind $1
+yu1104: posts big blind $3
+*** HOLE CARDS ***
+krossguard: raises $3 to $6
+yu1104: calls $3
+*** FLOP *** [7d 2s Ad]
+yu1104: checks
+krossguard: bets $3
+yu1104: raises $3 to $6
+krossguard: calls $3
+*** TURN *** [7d 2s Ad] [5d]
+yu1104: bets $6
+krossguard: calls $6
+*** RIVER *** [7d 2s Ad 5d] [7h]
+yu1104: bets $6
+krossguard: calls $6
+*** SHOW DOWN ***
+yu1104: shows [7s 5c] (a full house, Sevens full of Fives)
+krossguard: mucks hand
+yu1104 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7d 2s Ad 5d 7h]
+Seat 2: krossguard (button) (small blind) mucked
+Seat 6: yu1104 (big blind) showed [7s 5c] and won ($47.50) with a full house, Sevens full of Fives
+
+
+PokerStars Hand #144399275700:  Hold'em Limit ($3/$6 USD) - 2015/11/26 4:11:19 ET
+Table 'Ariadne' 6-max Seat #6 is the button
+Seat 2: krossguard ($87.43 in chips)
+Seat 6: yu1104 ($257.01 in chips)
+yu1104: posts small blind $1
+krossguard: posts big blind $3
+*** HOLE CARDS ***
+yu1104: raises $3 to $6
+krossguard: calls $3
+*** FLOP *** [Jh 5d 8s]
+krossguard: checks
+yu1104: bets $3
+krossguard: raises $3 to $6
+yu1104: calls $3
+*** TURN *** [Jh 5d 8s] [3d]
+krossguard: bets $6
+yu1104: folds
+Uncalled bet ($6) returned to krossguard
+krossguard collected $23.52 from pot
+krossguard: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Jh 5d 8s 3d]
+Seat 2: krossguard (big blind) collected ($23.52)
+Seat 6: yu1104 (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #144399269556:  Hold'em Limit ($3/$6 USD) - 2015/11/26 4:11:02 ET
+Table 'Ariadne' 6-max Seat #2 is the button
+Seat 2: krossguard ($96.43 in chips)
+Seat 6: yu1104 ($248.37 in chips)
+krossguard: posts small blind $1
+yu1104: posts big blind $3
+*** HOLE CARDS ***
+krossguard: raises $3 to $6
+yu1104: calls $3
+*** FLOP *** [5s Kd 9s]
+yu1104: checks
+krossguard: bets $3
+yu1104: calls $3
+*** TURN *** [5s Kd 9s] [As]
+yu1104: checks
+krossguard: checks
+*** RIVER *** [5s Kd 9s As] [Jd]
+yu1104: checks
+krossguard: checks
+*** SHOW DOWN ***
+yu1104: shows [5d 4h] (a pair of Fives)
+krossguard: mucks hand
+yu1104 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5s Kd 9s As Jd]
+Seat 2: krossguard (button) (small blind) mucked
+Seat 6: yu1104 (big blind) showed [5d 4h] and won ($17.64) with a pair of Fives
+
+
+PokerStars Hand #144399305231:  Hold'em Limit ($3/$6 USD) - 2015/11/26 4:12:43 ET
+Table 'Ariadne' 6-max Seat #2 is the button
+Seat 2: krossguard ($77.47 in chips)
+Seat 6: yu1104 ($265.27 in chips)
+krossguard: posts small blind $1
+yu1104: posts big blind $3
+*** HOLE CARDS ***
+krossguard: raises $3 to $6
+yu1104: calls $3
+*** FLOP *** [2d Jh 7c]
+yu1104: checks
+krossguard: bets $3
+yu1104: raises $3 to $6
+krossguard: calls $3
+*** TURN *** [2d Jh 7c] [Ts]
+yu1104: bets $6
+krossguard: calls $6
+*** RIVER *** [2d Jh 7c Ts] [Tc]
+yu1104: bets $6
+krossguard: calls $6
+*** SHOW DOWN ***
+yu1104: shows [Kc 7h] (two pair, Tens and Sevens)
+krossguard: mucks hand
+yu1104 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2d Jh 7c Ts Tc]
+Seat 2: krossguard (button) (small blind) mucked
+Seat 6: yu1104 (big blind) showed [Kc 7h] and won ($47.50) with two pair, Tens and Sevens
+
+
+PokerStars Hand #144399312455:  Hold'em Limit ($3/$6 USD) - 2015/11/26 4:13:03 ET
+Table 'Ariadne' 6-max Seat #6 is the button
+Seat 2: krossguard ($120 in chips)
+Seat 6: yu1104 ($288.77 in chips)
+yu1104: posts small blind $1
+krossguard: posts big blind $3
+*** HOLE CARDS ***
+yu1104: raises $3 to $6
+krossguard: calls $3
+*** FLOP *** [9h Kc Th]
+krossguard: checks
+yu1104: bets $3
+krossguard: calls $3
+*** TURN *** [9h Kc Th] [Ad]
+krossguard: checks
+yu1104: bets $6
+krossguard: folds
+Uncalled bet ($6) returned to yu1104
+yu1104 collected $17.64 from pot
+yu1104: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9h Kc Th Ad]
+Seat 2: krossguard (big blind) folded on the Turn
+Seat 6: yu1104 (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #144399302395:  Hold'em Limit ($3/$6 USD) - 2015/11/26 4:12:35 ET
+Table 'Ariadne' 6-max Seat #6 is the button
+Seat 2: krossguard ($80.47 in chips)
+Seat 6: yu1104 ($262.27 in chips)
+yu1104: posts small blind $1
+krossguard: posts big blind $3
+*** HOLE CARDS ***
+yu1104: raises $3 to $6
+krossguard: folds
+Uncalled bet ($3) returned to yu1104
+yu1104 collected $6 from pot
+yu1104: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: krossguard (big blind) folded before Flop
+Seat 6: yu1104 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #144399297468:  Hold'em Limit ($3/$6 USD) - 2015/11/26 4:12:21 ET
+Table 'Ariadne' 6-max Seat #2 is the button
+Seat 2: krossguard ($86.47 in chips)
+Seat 6: yu1104 ($256.51 in chips)
+krossguard: posts small blind $1
+yu1104: posts big blind $3
+*** HOLE CARDS ***
+krossguard: raises $3 to $6
+yu1104: calls $3
+*** FLOP *** [8d 2d 3h]
+yu1104: checks
+krossguard: checks
+*** TURN *** [8d 2d 3h] [5c]
+yu1104: bets $6
+krossguard: folds
+Uncalled bet ($6) returned to yu1104
+yu1104 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8d 2d 3h 5c]
+Seat 2: krossguard (button) (small blind) folded on the Turn
+Seat 6: yu1104 (big blind) collected ($11.76)
+
+
+PokerStars Hand #144399290374:  Hold'em Limit ($3/$6 USD) - 2015/11/26 4:12:01 ET
+Table 'Ariadne' 6-max Seat #6 is the button
+Seat 2: krossguard ($74.95 in chips)
+Seat 6: yu1104 ($268.51 in chips)
+yu1104: posts small blind $1
+krossguard: posts big blind $3
+*** HOLE CARDS ***
+yu1104: raises $3 to $6
+krossguard: calls $3
+*** FLOP *** [Ks 5s 8c]
+krossguard: checks
+yu1104: bets $3
+krossguard: raises $3 to $6
+yu1104: calls $3
+*** TURN *** [Ks 5s 8c] [4h]
+krossguard: bets $6
+yu1104: folds
+Uncalled bet ($6) returned to krossguard
+krossguard collected $23.52 from pot
+krossguard: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Ks 5s 8c 4h]
+Seat 2: krossguard (big blind) collected ($23.52)
+Seat 6: yu1104 (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #144399328236:  Hold'em Limit ($3/$6 USD) - 2015/11/26 4:13:47 ET
+Table 'Ariadne' 6-max Seat #2 is the button
+Seat 2: krossguard ($81 in chips)
+Seat 6: yu1104 ($326.67 in chips)
+krossguard: posts small blind $1
+yu1104: posts big blind $3
+*** HOLE CARDS ***
+krossguard: raises $3 to $6
+yu1104: calls $3
+*** FLOP *** [Jd 4c 9h]
+yu1104: bets $3
+krossguard: calls $3
+*** TURN *** [Jd 4c 9h] [3c]
+yu1104: bets $6
+krossguard: raises $6 to $12
+yu1104: calls $6
+*** RIVER *** [Jd 4c 9h 3c] [9s]
+yu1104: checks
+krossguard: bets $6
+yu1104: calls $6
+*** SHOW DOWN ***
+krossguard: shows [6c Js] (two pair, Jacks and Nines)
+yu1104: mucks hand
+krossguard collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Jd 4c 9h 3c 9s]
+Seat 2: krossguard (button) (small blind) showed [6c Js] and won ($53.50) with two pair, Jacks and Nines
+Seat 6: yu1104 (big blind) mucked
+
+
+PokerStars Hand #144399321125:  Hold'em Limit ($3/$6 USD) - 2015/11/26 4:13:27 ET
+Table 'Ariadne' 6-max Seat #6 is the button
+Seat 2: krossguard ($105 in chips)
+Seat 6: yu1104 ($303.17 in chips)
+yu1104: posts small blind $1
+krossguard: posts big blind $3
+*** HOLE CARDS ***
+yu1104: raises $3 to $6
+krossguard: calls $3
+*** FLOP *** [Qc Ts 6h]
+krossguard: checks
+yu1104: bets $3
+krossguard: raises $3 to $6
+yu1104: calls $3
+*** TURN *** [Qc Ts 6h] [4d]
+krossguard: bets $6
+yu1104: calls $6
+*** RIVER *** [Qc Ts 6h 4d] [5d]
+krossguard: bets $6
+yu1104: calls $6
+*** SHOW DOWN ***
+krossguard: shows [Jh 9s] (high card Queen)
+yu1104: shows [2d 6s] (a pair of Sixes)
+yu1104 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Qc Ts 6h 4d 5d]
+Seat 2: krossguard (big blind) showed [Jh 9s] and lost with high card Queen
+Seat 6: yu1104 (button) (small blind) showed [2d 6s] and won ($47.50) with a pair of Sixes
+
+
+PokerStars Hand #144399316996:  Hold'em Limit ($3/$6 USD) - 2015/11/26 4:13:16 ET
+Table 'Ariadne' 6-max Seat #2 is the button
+Seat 2: krossguard ($111 in chips)
+Seat 6: yu1104 ($297.41 in chips)
+krossguard: posts small blind $1
+yu1104: posts big blind $3
+*** HOLE CARDS ***
+krossguard: raises $3 to $6
+yu1104: calls $3
+*** FLOP *** [Jd 9s 2h]
+yu1104: bets $3
+krossguard: folds
+Uncalled bet ($3) returned to yu1104
+yu1104 collected $11.76 from pot
+yu1104: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jd 9s 2h]
+Seat 2: krossguard (button) (small blind) folded on the Flop
+Seat 6: yu1104 (big blind) collected ($11.76)
+
+
+PokerStars Hand #144399335973:  Hold'em Limit ($3/$6 USD) - 2015/11/26 4:14:09 ET
+Table 'Ariadne' 6-max Seat #6 is the button
+Seat 2: krossguard ($107.50 in chips)
+Seat 6: yu1104 ($299.67 in chips)
+yu1104: posts small blind $1
+krossguard: posts big blind $3
+*** HOLE CARDS ***
+yu1104: raises $3 to $6
+krossguard: calls $3
+*** FLOP *** [2s 2c 8c]
+krossguard: checks
+yu1104: bets $3
+krossguard: calls $3
+*** TURN *** [2s 2c 8c] [Th]
+krossguard: checks
+yu1104: checks
+*** RIVER *** [2s 2c 8c Th] [4s]
+krossguard: checks
+yu1104: bets $6
+krossguard: calls $6
+*** SHOW DOWN ***
+yu1104: shows [Qc 6h] (a pair of Deuces)
+krossguard: mucks hand
+yu1104 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2s 2c 8c Th 4s]
+Seat 2: krossguard (big blind) mucked
+Seat 6: yu1104 (button) (small blind) showed [Qc 6h] and won ($29.50) with a pair of Deuces
+
+
+PokerStars Hand #144399348237:  Hold'em Limit ($3/$6 USD) - 2015/11/26 4:14:44 ET
+Table 'Ariadne' 6-max Seat #2 is the button
+Seat 2: krossguard ($92.50 in chips)
+Seat 6: yu1104 ($314.17 in chips)
+krossguard: posts small blind $1
+yu1104: posts big blind $3
+*** HOLE CARDS ***
+krossguard: raises $3 to $6
+yu1104: calls $3
+*** FLOP *** [8d 4s 6d]
+yu1104: bets $3
+krossguard: calls $3
+*** TURN *** [8d 4s 6d] [3h]
+yu1104: bets $6
+krossguard: calls $6
+*** RIVER *** [8d 4s 6d 3h] [8s]
+yu1104: bets $6
+krossguard: calls $6
+*** SHOW DOWN ***
+yu1104: shows [4c Ad] (two pair, Eights and Fours)
+krossguard: mucks hand
+yu1104 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [8d 4s 6d 3h 8s]
+Seat 2: krossguard (button) (small blind) mucked
+Seat 6: yu1104 (big blind) showed [4c Ad] and won ($41.50) with two pair, Eights and Fours
+
+
+PokerStars Hand #144399355634:  Hold'em Limit ($3/$6 USD) - 2015/11/26 4:15:05 ET
+Table 'Ariadne' 6-max Seat #6 is the button
+Seat 2: krossguard ($71.50 in chips)
+Seat 6: yu1104 ($334.67 in chips)
+yu1104: posts small blind $1
+krossguard: posts big blind $3
+*** HOLE CARDS ***
+yu1104: raises $3 to $6
+krossguard: calls $3
+*** FLOP *** [9c Qs Jh]
+krossguard: checks
+yu1104: bets $3
+krossguard: folds
+Uncalled bet ($3) returned to yu1104
+yu1104 collected $11.76 from pot
+yu1104: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9c Qs Jh]
+Seat 2: krossguard (big blind) folded on the Flop
+Seat 6: yu1104 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #144399360450:  Hold'em Limit ($3/$6 USD) - 2015/11/26 4:15:18 ET
+Table 'Ariadne' 6-max Seat #2 is the button
+Seat 2: krossguard ($65.50 in chips)
+Seat 6: yu1104 ($340.43 in chips)
+krossguard: posts small blind $1
+yu1104: posts big blind $3
+*** HOLE CARDS ***
+krossguard: raises $3 to $6
+yu1104: calls $3
+*** FLOP *** [Kd Js 2d]
+yu1104: bets $3
+krossguard: raises $3 to $6
+yu1104: calls $3
+*** TURN *** [Kd Js 2d] [7s]
+yu1104: checks
+krossguard: bets $6
+yu1104: calls $6
+*** RIVER *** [Kd Js 2d 7s] [5d]
+yu1104: checks
+krossguard: checks
+*** SHOW DOWN ***
+yu1104: shows [2h Ac] (a pair of Deuces)
+krossguard: shows [Tc 5s] (a pair of Fives)
+krossguard collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Kd Js 2d 7s 5d]
+Seat 2: krossguard (button) (small blind) showed [Tc 5s] and won ($35.50) with a pair of Fives
+Seat 6: yu1104 (big blind) showed [2h Ac] and lost with a pair of Deuces
+
+
+PokerStars Hand #144399367238:  Hold'em Limit ($3/$6 USD) - 2015/11/26 4:15:38 ET
+Table 'Ariadne' 6-max Seat #6 is the button
+Seat 2: krossguard ($83 in chips)
+Seat 6: yu1104 ($322.43 in chips)
+yu1104: posts small blind $1
+krossguard: posts big blind $3
+*** HOLE CARDS ***
+yu1104: raises $3 to $6
+krossguard: calls $3
+*** FLOP *** [5h 3h 9h]
+krossguard: checks
+yu1104: bets $3
+krossguard: raises $3 to $6
+yu1104: calls $3
+*** TURN *** [5h 3h 9h] [Js]
+krossguard: checks
+yu1104: checks
+*** RIVER *** [5h 3h 9h Js] [4d]
+krossguard: bets $6
+TinaTurner72 joins the table at seat #1
+yu1104: calls $6
+*** SHOW DOWN ***
+krossguard: shows [8s 5s] (a pair of Fives)
+yu1104: mucks hand
+krossguard collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5h 3h 9h Js 4d]
+Seat 2: krossguard (big blind) showed [8s 5s] and won ($35.50) with a pair of Fives
+Seat 6: yu1104 (button) (small blind) mucked
+
+
+PokerStars Hand #144399379144:  Hold'em Limit ($3/$6 USD) - 2015/11/26 4:16:11 ET
+Table 'Ariadne' 6-max Seat #2 is the button
+Seat 2: krossguard ($100.50 in chips)
+Seat 6: yu1104 ($304.43 in chips)
+krossguard: posts small blind $1
+yu1104: posts big blind $3
+*** HOLE CARDS ***
+krossguard: raises $3 to $6
+yu1104: calls $3
+*** FLOP *** [8s Ac 4h]
+yu1104: checks
+krossguard: bets $3
+yu1104: raises $3 to $6
+krossguard: calls $3
+*** TURN *** [8s Ac 4h] [Tc]
+yu1104: bets $6
+krossguard: raises $6 to $12
+yu1104: calls $6
+*** RIVER *** [8s Ac 4h Tc] [8d]
+yu1104: checks
+krossguard: bets $6
+yu1104: raises $6 to $12
+krossguard: calls $6
+*** SHOW DOWN ***
+yu1104: shows [8h Jc] (three of a kind, Eights)
+krossguard: mucks hand
+yu1104 collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [8s Ac 4h Tc 8d]
+Seat 2: krossguard (button) (small blind) mucked
+Seat 6: yu1104 (big blind) showed [8h Jc] and won ($71.50) with three of a kind, Eights
+
+
+PokerStars Hand #144401294480:  Hold'em Limit ($3/$6 USD) - 2015/11/26 5:37:48 ET
+Table 'Ariadne' 6-max Seat #4 is the button
+Seat 3: Frank2Neue ($118.11 in chips)
+Seat 4: patrikskjold ($55.46 in chips)
+patrikskjold: posts small blind $1
+schnizm: is sitting out
+Frank2Neue: posts big blind $3
+*** HOLE CARDS ***
+patrikskjold: raises $3 to $6
+schnizm leaves the table
+Frank2Neue: calls $3
+*** FLOP *** [8s 5h Ah]
+Frank2Neue: bets $3
+patrikskjold: calls $3
+*** TURN *** [8s 5h Ah] [5d]
+Frank2Neue: bets $6
+patrikskjold: calls $6
+*** RIVER *** [8s 5h Ah 5d] [Jh]
+Frank2Neue: bets $6
+patrikskjold: calls $6
+*** SHOW DOWN ***
+Frank2Neue: shows [6c 7s] (a pair of Fives)
+patrikskjold: shows [8h 7c] (two pair, Eights and Fives)
+patrikskjold collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [8s 5h Ah 5d Jh]
+Seat 3: Frank2Neue (big blind) showed [6c 7s] and lost with a pair of Fives
+Seat 4: patrikskjold (button) (small blind) showed [8h 7c] and won ($41.50) with two pair, Eights and Fives
+
+

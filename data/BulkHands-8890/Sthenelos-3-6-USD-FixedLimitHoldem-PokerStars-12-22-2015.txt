@@ -1,0 +1,66 @@
+PokerStars Hand #145724238904:  Hold'em Limit ($3/$6 USD) - 2015/12/22 1:01:51 ET
+Table 'Sthenelos' 2-max Seat #2 is the button
+Seat 1: kaputnikoff ($64 in chips)
+Seat 2: KevinStars12 ($96.03 in chips)
+KevinStars12: posts small blind $1
+kaputnikoff: posts big blind $3
+*** HOLE CARDS ***
+KevinStars12: raises $3 to $6
+kaputnikoff: calls $3
+*** FLOP *** [8s Ac Kd]
+kaputnikoff: checks
+KevinStars12: bets $3
+kaputnikoff: calls $3
+*** TURN *** [8s Ac Kd] [7s]
+kaputnikoff: checks
+KevinStars12: bets $6
+kaputnikoff: calls $6
+*** RIVER *** [8s Ac Kd 7s] [Td]
+kaputnikoff: checks
+KevinStars12: bets $6
+kaputnikoff: calls $6
+*** SHOW DOWN ***
+KevinStars12: shows [Ad 5s] (a pair of Aces)
+kaputnikoff: mucks hand
+KevinStars12 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [8s Ac Kd 7s Td]
+Seat 1: kaputnikoff (big blind) mucked
+Seat 2: KevinStars12 (button) (small blind) showed [Ad 5s] and won ($41.50) with a pair of Aces
+
+
+PokerStars Hand #145724253919:  Hold'em Limit ($3/$6 USD) - 2015/12/22 1:02:42 ET
+Table 'Sthenelos' 2-max Seat #1 is the button
+Seat 1: kaputnikoff ($60 in chips)
+Seat 2: KevinStars12 ($116.53 in chips)
+kaputnikoff: posts small blind $1
+KevinStars12: posts big blind $3
+*** HOLE CARDS ***
+kaputnikoff: raises $3 to $6
+KevinStars12: calls $3
+*** FLOP *** [2c As Js]
+KevinStars12: checks
+kaputnikoff: bets $3
+KevinStars12: raises $3 to $6
+kaputnikoff: raises $3 to $9
+KevinStars12: calls $3
+*** TURN *** [2c As Js] [4d]
+KevinStars12: checks
+kaputnikoff: bets $6
+KevinStars12: calls $6
+*** RIVER *** [2c As Js 4d] [5c]
+KevinStars12: checks
+kaputnikoff: bets $6
+KevinStars12: calls $6
+*** SHOW DOWN ***
+kaputnikoff: shows [Ad 2d] (two pair, Aces and Deuces)
+KevinStars12: mucks hand
+kaputnikoff collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [2c As Js 4d 5c]
+Seat 1: kaputnikoff (button) (small blind) showed [Ad 2d] and won ($53.50) with two pair, Aces and Deuces
+Seat 2: KevinStars12 (big blind) mucked
+
+

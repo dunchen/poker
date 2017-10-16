@@ -1,0 +1,33 @@
+PokerStars Hand #165830428360:  Hold'em Limit ($3/$6 USD) - 2017/02/07 10:26:58 ET
+Table 'Bahner II' 6-max Seat #2 is the button
+Seat 2: nikosha8 ($186.08 in chips)
+Seat 4: RaisemyNut$ ($60 in chips)
+nikosha8: posts small blind $1
+RaisemyNut$: posts big blind $3
+*** HOLE CARDS ***
+nikosha8: raises $3 to $6
+RaisemyNut$: raises $3 to $9
+grabaz leaves the table
+nikosha8: calls $3
+*** FLOP *** [7h 9h 9c]
+RaisemyNut$: bets $3
+nikosha8: calls $3
+*** TURN *** [7h 9h 9c] [Jh]
+RaisemyNut$: checks
+nikosha8: bets $6
+RaisemyNut$: calls $6
+*** RIVER *** [7h 9h 9c Jh] [Td]
+RaisemyNut$: checks
+nikosha8: bets $6
+RaisemyNut$: calls $6
+*** SHOW DOWN ***
+nikosha8: shows [Jc Js] (a full house, Jacks full of Nines)
+RaisemyNut$: mucks hand
+nikosha8 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7h 9h 9c Jh Td]
+Seat 2: nikosha8 (button) (small blind) showed [Jc Js] and won ($47.50) with a full house, Jacks full of Nines
+Seat 4: RaisemyNut$ (big blind) mucked
+
+

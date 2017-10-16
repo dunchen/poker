@@ -1,0 +1,62 @@
+PokerStars Hand #153821708855:  Hold'em Limit ($3/$6 USD) - 2016/05/25 10:59:19 ET
+Table 'Circinus II' 6-max Seat #2 is the button
+Seat 2: Tryptamean ($112.03 in chips)
+Seat 4: BIZE Terence ($92.43 in chips)
+Tryptamean: posts small blind $1
+Perumov: is sitting out
+BIZE Terence: posts big blind $3
+*** HOLE CARDS ***
+Tryptamean: raises $3 to $6
+Perumov leaves the table
+BIZE Terence: calls $3
+*** FLOP *** [Qc 4s Kh]
+BIZE Terence: checks
+Tryptamean: bets $3
+Ale4o leaves the table
+BIZE Terence: raises $3 to $6
+Tryptamean: calls $3
+*** TURN *** [Qc 4s Kh] [5h]
+BIZE Terence: bets $6
+Tryptamean: raises $6 to $12
+BIZE Terence: calls $6
+*** RIVER *** [Qc 4s Kh 5h] [Qh]
+BIZE Terence: checks
+Tryptamean: checks
+*** SHOW DOWN ***
+BIZE Terence: shows [2h 9h] (a flush, King high)
+Tryptamean: mucks hand
+BIZE Terence collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Qc 4s Kh 5h Qh]
+Seat 2: Tryptamean (button) (small blind) mucked
+Seat 4: BIZE Terence (big blind) showed [2h 9h] and won ($47.50) with a flush, King high
+
+
+PokerStars Hand #153821737745:  Hold'em Limit ($3/$6 USD) - 2016/05/25 11:00:14 ET
+Table 'Circinus II' 6-max Seat #4 is the button
+Seat 2: Tryptamean ($88.03 in chips)
+Seat 4: BIZE Terence ($115.93 in chips)
+BIZE Terence: posts small blind $1
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+BIZE Terence: raises $3 to $6
+Tryptamean: raises $3 to $9
+BIZE Terence: calls $3
+*** FLOP *** [Ks 3s 4h]
+Tryptamean: bets $3
+BIZE Terence: calls $3
+*** TURN *** [Ks 3s 4h] [8c]
+Tryptamean: checks
+BIZE Terence: bets $6
+Tryptamean: folds
+Uncalled bet ($6) returned to BIZE Terence
+BIZE Terence collected $23.52 from pot
+BIZE Terence: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Ks 3s 4h 8c]
+Seat 2: Tryptamean (big blind) folded on the Turn
+Seat 4: BIZE Terence (button) (small blind) collected ($23.52)
+
+

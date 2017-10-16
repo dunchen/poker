@@ -1,0 +1,31 @@
+PokerStars Hand #171070644110:  Hold'em Limit ($3/$6 USD) - 2017/05/29 11:01:30 ET
+Table 'Rotanev III' 10-max Seat #6 is the button
+Seat 6: sim5sim5 ($72 in chips)
+Seat 7: scorpio04 ($150 in chips)
+sim5sim5: posts small blind $1
+scorpio04: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+scorpio04: calls $3
+*** FLOP *** [Js Qh 8h]
+scorpio04: checks
+sim5sim5: bets $3
+scorpio04: calls $3
+*** TURN *** [Js Qh 8h] [3c]
+scorpio04: checks
+sim5sim5: bets $6
+scorpio04: calls $6
+*** RIVER *** [Js Qh 8h 3c] [7d]
+scorpio04: checks
+sim5sim5: checks
+*** SHOW DOWN ***
+scorpio04: shows [Ah 9d] (high card Ace)
+sim5sim5: shows [Ac Tc] (high card Ace - Queen+Jack+Ten kicker)
+sim5sim5 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Js Qh 8h 3c 7d]
+Seat 6: sim5sim5 (button) (small blind) showed [Ac Tc] and won ($29.50) with high card Ace
+Seat 7: scorpio04 (big blind) showed [Ah 9d] and lost with high card Ace
+
+

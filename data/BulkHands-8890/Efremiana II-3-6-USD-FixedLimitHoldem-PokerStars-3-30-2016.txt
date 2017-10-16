@@ -1,0 +1,34 @@
+PokerStars Hand #151161933252:  Hold'em Limit ($3/$6 USD) - 2016/03/30 9:09:24 ET
+Table 'Efremiana II' 6-max Seat #5 is the button
+Seat 4: kingwalrus21 ($244.14 in chips)
+Seat 5: lin1rabbit ($148.33 in chips)
+lin1rabbit: posts small blind $1
+HAL9QQQ: is sitting out
+kingwalrus21: posts big blind $3
+*** HOLE CARDS ***
+lin1rabbit: raises $3 to $6
+kingwalrus21: raises $3 to $9
+lin1rabbit: calls $3
+*** FLOP *** [5h 4c 7h]
+kingwalrus21: checks
+lin1rabbit: bets $3
+kingwalrus21: calls $3
+*** TURN *** [5h 4c 7h] [7d]
+kingwalrus21: checks
+lin1rabbit: checks
+*** RIVER *** [5h 4c 7h 7d] [3c]
+kingwalrus21: checks
+lin1rabbit: bets $6
+HAL9QQQ leaves the table
+kingwalrus21: calls $6
+*** SHOW DOWN ***
+lin1rabbit: shows [Jh 3s] (two pair, Sevens and Threes)
+kingwalrus21: mucks hand
+lin1rabbit collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5h 4c 7h 7d 3c]
+Seat 4: kingwalrus21 (big blind) mucked
+Seat 5: lin1rabbit (button) (small blind) showed [Jh 3s] and won ($35.50) with two pair, Sevens and Threes
+
+

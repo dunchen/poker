@@ -1,0 +1,72 @@
+PokerStars Hand #169349868587:  Hold'em Limit ($3/$6 USD) - 2017/04/21 9:57:00 ET
+Table 'Bahner' 6-max Seat #5 is the button
+Seat 5: HamNEgger100 ($120 in chips)
+Seat 6: BugerDV ($72 in chips)
+HamNEgger100: posts small blind $1
+BugerDV: posts big blind $3
+*** HOLE CARDS ***
+HamNEgger100: calls $2
+BugerDV: checks
+*** FLOP *** [7s 8c 6c]
+BugerDV: bets $3
+HamNEgger100: calls $3
+*** TURN *** [7s 8c 6c] [Jd]
+BugerDV: bets $6
+HamNEgger100: raises $6 to $12
+BugerDV: raises $6 to $18
+HamNEgger100: calls $6
+*** RIVER *** [7s 8c 6c Jd] [Kc]
+BugerDV: bets $6
+HamNEgger100: calls $6
+*** SHOW DOWN ***
+BugerDV: shows [6d 7c] (two pair, Sevens and Sixes)
+HamNEgger100: mucks hand
+BugerDV collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [7s 8c 6c Jd Kc]
+Seat 5: HamNEgger100 (button) (small blind) mucked
+Seat 6: BugerDV (big blind) showed [6d 7c] and won ($59.50) with two pair, Sevens and Sixes
+
+
+PokerStars Hand #169349899178:  Hold'em Limit ($3/$6 USD) - 2017/04/21 9:58:00 ET
+Table 'Bahner' 6-max Seat #5 is the button
+Seat 5: HamNEgger100 ($84 in chips)
+Seat 6: BugerDV ($107.26 in chips)
+HamNEgger100: posts small blind $1
+BugerDV: posts big blind $3
+ss_barber_ss joins the table at seat #1
+*** HOLE CARDS ***
+HamNEgger100: folds
+Uncalled bet ($2) returned to BugerDV
+BugerDV collected $2 from pot
+BugerDV: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: HamNEgger100 (button) (small blind) folded before Flop
+Seat 6: BugerDV (big blind) collected ($2)
+
+
+PokerStars Hand #169349891222:  Hold'em Limit ($3/$6 USD) - 2017/04/21 9:57:44 ET
+Table 'Bahner' 6-max Seat #6 is the button
+Seat 5: HamNEgger100 ($90 in chips)
+Seat 6: BugerDV ($101.50 in chips)
+BugerDV: posts small blind $1
+HamNEgger100: posts big blind $3
+*** HOLE CARDS ***
+BugerDV: raises $3 to $6
+HamNEgger100: calls $3
+*** FLOP *** [Qc 7c Kd]
+HamNEgger100: checks
+BugerDV: bets $3
+HamNEgger100: folds
+Uncalled bet ($3) returned to BugerDV
+BugerDV collected $11.76 from pot
+BugerDV: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qc 7c Kd]
+Seat 5: HamNEgger100 (big blind) folded on the Flop
+Seat 6: BugerDV (button) (small blind) collected ($11.76)
+
+

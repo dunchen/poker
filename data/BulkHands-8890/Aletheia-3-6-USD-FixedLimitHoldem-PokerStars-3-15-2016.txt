@@ -1,0 +1,53 @@
+PokerStars Hand #150412823483:  Hold'em Limit ($3/$6 USD) - 2016/03/15 18:01:43 ET
+Table 'Aletheia' 6-max Seat #5 is the button
+Seat 3: stressed31 ($88 in chips)
+Seat 5: Pandakey ($151.50 in chips)
+Pandakey: posts small blind $1
+stressed31: posts big blind $3
+*** HOLE CARDS ***
+Pandakey: raises $3 to $6
+stressed31: raises $3 to $9
+Pandakey: calls $3
+*** FLOP *** [Qs Tc 2d]
+stressed31: bets $3
+Pandakey: calls $3
+*** TURN *** [Qs Tc 2d] [7d]
+stressed31: bets $6
+Pandakey: raises $6 to $12
+stressed31: raises $6 to $18
+Pandakey: raises $6 to $24
+Betting is capped
+stressed31: calls $6
+*** RIVER *** [Qs Tc 2d 7d] [Ad]
+stressed31: checks
+Pandakey: bets $6
+stressed31: calls $6
+*** SHOW DOWN ***
+Pandakey: shows [Qh 7s] (two pair, Queens and Sevens)
+stressed31: mucks hand
+Pandakey collected $83.50 from pot
+*** SUMMARY ***
+Total pot $84 | Rake $0.50
+Board [Qs Tc 2d 7d Ad]
+Seat 3: stressed31 (big blind) mucked
+Seat 5: Pandakey (button) (small blind) showed [Qh 7s] and won ($83.50) with two pair, Queens and Sevens
+
+
+PokerStars Hand #150412847317:  Hold'em Limit ($3/$6 USD) - 2016/03/15 18:02:10 ET
+Table 'Aletheia' 6-max Seat #3 is the button
+Seat 3: stressed31 ($46 in chips)
+Seat 5: Pandakey ($193 in chips)
+stressed31: posts small blind $1
+Pandakey: posts big blind $3
+*** HOLE CARDS ***
+stressed31: folds
+Uncalled bet ($2) returned to Pandakey
+stressed31 leaves the table
+Pandakey collected $2 from pot
+Pandakey: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: stressed31 (button) (small blind) folded before Flop
+Seat 5: Pandakey (big blind) collected ($2)
+
+

@@ -1,0 +1,57 @@
+PokerStars Hand #170387490508:  Hold'em Limit ($3/$6 USD) - 2017/05/13 21:36:06 ET
+Table 'Chromios' 6-max Seat #3 is the button
+Seat 3: Brama Br ($120 in chips)
+Seat 4: Rednaxela05 ($72 in chips)
+Brama Br: posts small blind $1
+Rednaxela05: posts big blind $3
+*** HOLE CARDS ***
+Brama Br: calls $2
+Rednaxela05: raises $3 to $6
+Brama Br: calls $3
+*** FLOP *** [8c 4d Js]
+Rednaxela05: bets $3
+Brama Br: calls $3
+*** TURN *** [8c 4d Js] [Qd]
+Rednaxela05: checks
+bmfu649 joins the table at seat #2
+Brama Br: bets $6
+Rednaxela05: calls $6
+*** RIVER *** [8c 4d Js Qd] [6d]
+Rednaxela05: checks
+Brama Br: checks
+*** SHOW DOWN ***
+Rednaxela05: shows [Kd 8d] (a flush, King high)
+Brama Br: mucks hand
+Rednaxela05 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8c 4d Js Qd 6d]
+Seat 3: Brama Br (button) (small blind) mucked
+Seat 4: Rednaxela05 (big blind) showed [Kd 8d] and won ($29.50) with a flush, King high
+
+
+PokerStars Hand #170389564209:  Hold'em Limit ($3/$6 USD) - 2017/05/13 23:11:31 ET
+Table 'Chromios' 6-max Seat #4 is the button
+Seat 2: Chessnok ($135.20 in chips)
+Seat 4: Rednaxela05 ($92.79 in chips)
+Rednaxela05: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+Rednaxela05: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [8d 3s 4c]
+Chessnok: checks
+Rednaxela05: checks
+*** TURN *** [8d 3s 4c] [3c]
+Chessnok: bets $6
+Rednaxela05: folds
+Uncalled bet ($6) returned to Chessnok
+Chessnok collected $11.76 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8d 3s 4c 3c]
+Seat 2: Chessnok (big blind) collected ($11.76)
+Seat 4: Rednaxela05 (button) (small blind) folded on the Turn
+
+

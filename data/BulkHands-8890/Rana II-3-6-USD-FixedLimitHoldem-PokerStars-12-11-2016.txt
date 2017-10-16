@@ -1,0 +1,119 @@
+PokerStars Hand #162751969811:  Hold'em Limit ($3/$6 USD) - 2016/12/10 23:27:03 ET
+Table 'Rana II' 6-max Seat #1 is the button
+Seat 1: LifeisagameX ($84 in chips)
+Seat 3: FabronxRJ ($33 in chips)
+LifeisagameX: posts small blind $1
+FabronxRJ: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+ToDaFelt joins the table at seat #4
+FabronxRJ: calls $3
+*** FLOP *** [8c 9d 6c]
+FabronxRJ: checks
+LifeisagameX: checks
+*** TURN *** [8c 9d 6c] [7d]
+FabronxRJ: bets $6
+LifeisagameX: folds
+Uncalled bet ($6) returned to FabronxRJ
+FabronxRJ collected $11.76 from pot
+FabronxRJ: doesn't show hand
+lackmanch joins the table at seat #2
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8c 9d 6c 7d]
+Seat 1: LifeisagameX (button) (small blind) folded on the Turn
+Seat 3: FabronxRJ (big blind) collected ($11.76)
+
+
+PokerStars Hand #162752085737:  Hold'em Limit ($3/$6 USD) - 2016/12/10 23:32:44 ET
+Table 'Rana II' 6-max Seat #2 is the button
+Seat 2: lackmanch ($94.05 in chips)
+Seat 4: ToDaFelt ($120.26 in chips)
+lackmanch: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+lackmanch: calls $2
+ToDaFelt: raises $3 to $6
+lackmanch: calls $3
+*** FLOP *** [2s Td 3c]
+ToDaFelt: bets $3
+lackmanch: calls $3
+*** TURN *** [2s Td 3c] [8s]
+ToDaFelt: bets $6
+lackmanch: calls $6
+*** RIVER *** [2s Td 3c 8s] [3d]
+ToDaFelt: bets $6
+lackmanch: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [5h Th] (two pair, Tens and Threes)
+lackmanch: mucks hand
+ToDaFelt collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2s Td 3c 8s 3d]
+Seat 2: lackmanch (button) (small blind) mucked
+Seat 4: ToDaFelt (big blind) showed [5h Th] and won ($41.50) with two pair, Tens and Threes
+
+
+PokerStars Hand #162752097199:  Hold'em Limit ($3/$6 USD) - 2016/12/10 23:33:19 ET
+Table 'Rana II' 6-max Seat #4 is the button
+Seat 2: lackmanch ($73.05 in chips)
+Seat 4: ToDaFelt ($140.76 in chips)
+ToDaFelt: posts small blind $1
+lackmanch: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+lackmanch: calls $3
+*** FLOP *** [3c Kd 7s]
+lackmanch: checks
+ToDaFelt: bets $3
+lackmanch: calls $3
+*** TURN *** [3c Kd 7s] [6c]
+lackmanch: checks
+ToDaFelt: bets $6
+lackmanch: folds
+Uncalled bet ($6) returned to ToDaFelt
+ToDaFelt collected $17.64 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3c Kd 7s 6c]
+Seat 2: lackmanch (big blind) folded on the Turn
+Seat 4: ToDaFelt (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #162752320330:  Hold'em Limit ($3/$6 USD) - 2016/12/10 23:44:23 ET
+Table 'Rana II' 6-max Seat #4 is the button
+Seat 3: FabronxRJ ($103.31 in chips)
+Seat 4: ToDaFelt ($253.75 in chips)
+ToDaFelt: posts small blind $1
+Mordnilap: is sitting out
+Azrarn: is sitting out
+FabronxRJ: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+Mordnilap leaves the table
+FabronxRJ: calls $3
+*** FLOP *** [Qh 5c 8d]
+FabronxRJ: checks
+ToDaFelt: bets $3
+FabronxRJ: raises $3 to $6
+ToDaFelt: calls $3
+*** TURN *** [Qh 5c 8d] [Th]
+FabronxRJ: bets $6
+ToDaFelt: calls $6
+*** RIVER *** [Qh 5c 8d Th] [6c]
+Azrarn leaves the table
+FabronxRJ: bets $6
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+FabronxRJ: shows [6d Qd] (two pair, Queens and Sixes)
+ToDaFelt: mucks hand
+FabronxRJ collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Qh 5c 8d Th 6c]
+Seat 3: FabronxRJ (big blind) showed [6d Qd] and won ($47.50) with two pair, Queens and Sixes
+Seat 4: ToDaFelt (button) (small blind) mucked
+
+

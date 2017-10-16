@@ -1,0 +1,111 @@
+PokerStars Hand #175935553152:  Hold'em Limit ($3/$6 USD) - 2017/09/21 12:39:47 ET
+Table 'Soyuz-Apollo' 6-max Seat #4 is the button
+Seat 3: Ag3r0n ($89.50 in chips)
+Seat 4: sadamilli ($102 in chips)
+sadamilli: posts small blind $1
+Ag3r0n: posts big blind $3
+*** HOLE CARDS ***
+sadamilli: raises $3 to $6
+Ag3r0n: folds
+Uncalled bet ($3) returned to sadamilli
+sadamilli collected $6 from pot
+sadamilli: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: Ag3r0n (big blind) folded before Flop
+Seat 4: sadamilli (button) (small blind) collected ($6)
+
+
+PokerStars Hand #175935530123:  Hold'em Limit ($3/$6 USD) - 2017/09/21 12:39:13 ET
+Table 'Soyuz-Apollo' 6-max Seat #3 is the button
+Seat 3: Ag3r0n ($72 in chips)
+Seat 4: sadamilli ($120 in chips)
+Ag3r0n: posts small blind $1
+sadamilli: posts big blind $3
+*** HOLE CARDS ***
+Ag3r0n: raises $3 to $6
+sadamilli: raises $3 to $9
+Ag3r0n: calls $3
+*** FLOP *** [8h Ad Ks]
+sadamilli: bets $3
+Ag3r0n: calls $3
+*** TURN *** [8h Ad Ks] [4h]
+sadamilli: checks
+Ag3r0n: checks
+*** RIVER *** [8h Ad Ks 4h] [6d]
+sadamilli: checks
+Ag3r0n: bets $6
+sadamilli: calls $6
+*** SHOW DOWN ***
+Ag3r0n: shows [Kd 9d] (a pair of Kings)
+sadamilli: mucks hand
+Ag3r0n collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [8h Ad Ks 4h 6d]
+Seat 3: Ag3r0n (button) (small blind) showed [Kd 9d] and won ($35.50) with a pair of Kings
+Seat 4: sadamilli (big blind) mucked
+
+
+PokerStars Hand #175935557030:  Hold'em Limit ($3/$6 USD) - 2017/09/21 12:39:53 ET
+Table 'Soyuz-Apollo' 6-max Seat #3 is the button
+Seat 3: Ag3r0n ($86.50 in chips)
+Seat 4: sadamilli ($105 in chips)
+Ag3r0n: posts small blind $1
+sadamilli: posts big blind $3
+*** HOLE CARDS ***
+Ag3r0n: raises $3 to $6
+sadamilli: raises $3 to $9
+Ag3r0n: calls $3
+*** FLOP *** [7s 5h 7h]
+sadamilli: bets $3
+Ag3r0n: calls $3
+*** TURN *** [7s 5h 7h] [Kd]
+sadamilli: checks
+Ag3r0n: checks
+*** RIVER *** [7s 5h 7h Kd] [4h]
+sadamilli: bets $6
+Ag3r0n: folds
+Uncalled bet ($6) returned to sadamilli
+sadamilli collected $23.52 from pot
+sadamilli: doesn't show hand
+sadamilli said, "die cyyka"
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [7s 5h 7h Kd 4h]
+Seat 3: Ag3r0n (button) (small blind) folded on the River
+Seat 4: sadamilli (big blind) collected ($23.52)
+
+
+PokerStars Hand #175935569519:  Hold'em Limit ($3/$6 USD) - 2017/09/21 12:40:11 ET
+Table 'Soyuz-Apollo' 6-max Seat #4 is the button
+Seat 3: Ag3r0n ($74.50 in chips)
+Seat 4: sadamilli ($116.52 in chips)
+sadamilli: posts small blind $1
+Ag3r0n: posts big blind $3
+*** HOLE CARDS ***
+sadamilli: raises $3 to $6
+Ag3r0n: raises $3 to $9
+sadamilli: calls $3
+*** FLOP *** [9h 4c 5s]
+Ag3r0n: bets $3
+sadamilli: calls $3
+*** TURN *** [9h 4c 5s] [Ks]
+Ag3r0n: checks
+sadamilli: bets $6
+Ag3r0n: calls $6
+*** RIVER *** [9h 4c 5s Ks] [Ad]
+Ag3r0n: bets $6
+sadamilli: raises $6 to $12
+Ag3r0n: calls $6
+*** SHOW DOWN ***
+sadamilli: shows [Ah 9d] (two pair, Aces and Nines)
+Ag3r0n: mucks hand
+sadamilli collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [9h 4c 5s Ks Ad]
+Seat 3: Ag3r0n (big blind) mucked
+Seat 4: sadamilli (button) (small blind) showed [Ah 9d] and won ($59.50) with two pair, Aces and Nines
+
+

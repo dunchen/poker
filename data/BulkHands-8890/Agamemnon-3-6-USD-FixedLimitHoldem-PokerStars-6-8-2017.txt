@@ -1,0 +1,87 @@
+PokerStars Hand #171518254265:  Hold'em Limit ($3/$6 USD) - 2017/06/08 15:22:39 ET
+Table 'Agamemnon' 6-max Seat #6 is the button
+Seat 4: MTails ($120 in chips)
+Seat 6: MForce007 ($50 in chips)
+MForce007: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+MForce007: calls $2
+MTails: raises $3 to $6
+MForce007: calls $3
+*** FLOP *** [As 5c Ah]
+MTails: bets $3
+MForce007: calls $3
+*** TURN *** [As 5c Ah] [2d]
+MTails: bets $6
+MForce007: calls $6
+*** RIVER *** [As 5c Ah 2d] [9d]
+DismasX joins the table at seat #1
+MTails: bets $6
+MForce007: calls $6
+*** SHOW DOWN ***
+MTails: shows [9c Qd] (two pair, Aces and Nines)
+MForce007: mucks hand
+EVBET joins the table at seat #2
+MTails collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [As 5c Ah 2d 9d]
+Seat 4: MTails (big blind) showed [9c Qd] and won ($41.50) with two pair, Aces and Nines
+Seat 6: MForce007 (button) (small blind) mucked
+
+
+PokerStars Hand #171518283291:  Hold'em Limit ($3/$6 USD) - 2017/06/08 15:23:14 ET
+Table 'Agamemnon' 6-max Seat #4 is the button
+Seat 4: MTails ($140.50 in chips)
+Seat 6: MForce007 ($29 in chips)
+MTails: posts small blind $1
+MForce007: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+MForce007: calls $3
+*** FLOP *** [5h Kc As]
+MForce007: bets $3
+MTails: raises $3 to $6
+MForce007: calls $3
+*** TURN *** [5h Kc As] [2c]
+MForce007: checks
+MTails: checks
+*** RIVER *** [5h Kc As 2c] [Jc]
+MForce007: bets $6
+MTails: folds
+Uncalled bet ($6) returned to MForce007
+MForce007 collected $23.52 from pot
+MForce007: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [5h Kc As 2c Jc]
+Seat 4: MTails (button) (small blind) folded on the River
+Seat 6: MForce007 (big blind) collected ($23.52)
+
+
+PokerStars Hand #171518704255:  Hold'em Limit ($3/$6 USD) - 2017/06/08 15:31:43 ET
+Table 'Agamemnon' 6-max Seat #5 is the button
+Seat 3: cosmicfred ($124.42 in chips)
+Seat 5: Chessnok ($148.20 in chips)
+Chessnok: posts small blind $1
+EVBET: is sitting out
+cosmicfred: posts big blind $3
+*** HOLE CARDS ***
+EVBET leaves the table
+Chessnok: raises $3 to $6
+cosmicfred: calls $3
+*** FLOP *** [Qd 5c Th]
+cosmicfred: checks
+Chessnok: bets $3
+cosmicfred: folds
+Uncalled bet ($3) returned to Chessnok
+cosmicfred leaves the table
+Chessnok collected $11.76 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qd 5c Th]
+Seat 3: cosmicfred (big blind) folded on the Flop
+Seat 5: Chessnok (button) (small blind) collected ($11.76)
+
+

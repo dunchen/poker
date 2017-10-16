@@ -1,0 +1,49 @@
+PokerStars Hand #155770466073:  Hold'em Limit ($3/$6 USD) - 2016/07/09 17:47:27 ET
+Table 'Kalyke' 6-max Seat #6 is the button
+Seat 4: AzureCaper ($72 in chips)
+Seat 6: Clinteroo ($120 in chips)
+Clinteroo: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+Clinteroo: raises $3 to $6
+AzureCaper: folds
+Uncalled bet ($3) returned to Clinteroo
+Clinteroo collected $6 from pot
+Clinteroo: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 4: AzureCaper (big blind) folded before Flop
+Seat 6: Clinteroo (button) (small blind) collected ($6)
+
+
+PokerStars Hand #155770479617:  Hold'em Limit ($3/$6 USD) - 2016/07/09 17:47:47 ET
+Table 'Kalyke' 6-max Seat #4 is the button
+Seat 4: AzureCaper ($72 in chips)
+Seat 6: Clinteroo ($123 in chips)
+AzureCaper: posts small blind $1
+Clinteroo: posts big blind $3
+*** HOLE CARDS ***
+ogdealer joins the table at seat #3
+AzureCaper: raises $3 to $6
+Clinteroo: raises $3 to $9
+AzureCaper: calls $3
+*** FLOP *** [8h 9d Qc]
+Clinteroo: bets $3
+AzureCaper: calls $3
+*** TURN *** [8h 9d Qc] [5d]
+Clinteroo: bets $6
+AzureCaper: calls $6
+*** RIVER *** [8h 9d Qc 5d] [Ac]
+Clinteroo: checks
+AzureCaper: checks
+*** SHOW DOWN ***
+Clinteroo: shows [7d 7h] (a pair of Sevens)
+AzureCaper: mucks hand
+Clinteroo collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [8h 9d Qc 5d Ac]
+Seat 4: AzureCaper (button) (small blind) mucked
+Seat 6: Clinteroo (big blind) showed [7d 7h] and won ($35.50) with a pair of Sevens
+
+

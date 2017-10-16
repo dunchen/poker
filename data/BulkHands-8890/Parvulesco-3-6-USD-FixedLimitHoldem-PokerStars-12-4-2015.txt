@@ -1,0 +1,31 @@
+PokerStars Hand #144807124280:  Hold'em Limit ($3/$6 USD) - 2015/12/04 9:56:21 ET
+Table 'Parvulesco' 2-max Seat #2 is the button
+Seat 1: cheemingliew ($21.03 in chips)
+Seat 2: NIGHTyxa ($101.14 in chips)
+NIGHTyxa: posts small blind $1
+cheemingliew: posts big blind $3
+*** HOLE CARDS ***
+NIGHTyxa: raises $3 to $6
+cheemingliew: raises $3 to $9
+NIGHTyxa: calls $3
+*** FLOP *** [4h 2h 5d]
+cheemingliew: bets $3
+NIGHTyxa: raises $3 to $6
+cheemingliew: calls $3
+*** TURN *** [4h 2h 5d] [4s]
+cheemingliew: checks
+NIGHTyxa: bets $6
+cheemingliew: raises $0.03 to $6.03 and is all-in
+NIGHTyxa: calls $0.03
+*** RIVER *** [4h 2h 5d 4s] [4d]
+*** SHOW DOWN ***
+cheemingliew: shows [Qd Jc] (three of a kind, Fours)
+NIGHTyxa: shows [8d 5h] (a full house, Fours full of Fives)
+NIGHTyxa collected $41.56 from pot
+*** SUMMARY ***
+Total pot $42.06 | Rake $0.50
+Board [4h 2h 5d 4s 4d]
+Seat 1: cheemingliew (big blind) showed [Qd Jc] and lost with three of a kind, Fours
+Seat 2: NIGHTyxa (button) (small blind) showed [8d 5h] and won ($41.56) with a full house, Fours full of Fives
+
+

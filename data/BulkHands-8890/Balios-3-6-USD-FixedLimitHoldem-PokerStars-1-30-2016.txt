@@ -1,0 +1,50 @@
+PokerStars Hand #147936122884:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:04:04 ET
+Table 'Balios' 2-max Seat #1 is the button
+Seat 1: hudecam ($27 in chips)
+Seat 2: Great_Kang ($123 in chips)
+hudecam: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+hudecam: raises $3 to $6
+Great_Kang: calls $3
+*** FLOP *** [Ah 4h 7h]
+Great_Kang: checks
+hudecam: bets $3
+Great_Kang: calls $3
+*** TURN *** [Ah 4h 7h] [5h]
+Great_Kang: checks
+hudecam: bets $6
+Great_Kang: calls $6
+*** RIVER *** [Ah 4h 7h 5h] [3c]
+Great_Kang: checks
+hudecam: bets $6
+Great_Kang: calls $6
+*** SHOW DOWN ***
+hudecam: shows [Th Jh] (a flush, Ace high)
+Great_Kang: mucks hand
+hudecam collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ah 4h 7h 5h 3c]
+Seat 1: hudecam (button) (small blind) showed [Th Jh] and won ($41.50) with a flush, Ace high
+Seat 2: Great_Kang (big blind) mucked
+
+
+PokerStars Hand #147936147709:  Hold'em Limit ($3/$6 USD) - 2016/01/30 11:04:29 ET
+Table 'Balios' 2-max Seat #2 is the button
+Seat 1: hudecam ($47.50 in chips)
+Seat 2: Great_Kang ($120 in chips)
+Great_Kang: posts small blind $1
+hudecam: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+hudecam: folds
+Uncalled bet ($3) returned to Great_Kang
+Great_Kang collected $6 from pot
+Great_Kang: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: hudecam (big blind) folded before Flop
+Seat 2: Great_Kang (button) (small blind) collected ($6)
+
+

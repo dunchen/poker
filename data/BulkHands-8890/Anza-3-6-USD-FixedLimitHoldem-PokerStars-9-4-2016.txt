@@ -1,0 +1,77 @@
+PokerStars Hand #158173277036:  Hold'em Limit ($3/$6 USD) - 2016/09/04 19:32:01 ET
+Table 'Anza' 6-max Seat #3 is the button
+Seat 3: phrantsuz ($56.25 in chips)
+Seat 4: BuzovaPro ($72 in chips)
+phrantsuz: posts small blind $1
+BuzovaPro: posts big blind $3
+*** HOLE CARDS ***
+phrantsuz: calls $2
+BuzovaPro: checks
+*** FLOP *** [As 5c Ks]
+BuzovaPro: bets $3
+phrantsuz: calls $3
+*** TURN *** [As 5c Ks] [Qs]
+BuzovaPro: bets $6
+phrantsuz: raises $6 to $12
+BuzovaPro: calls $6
+*** RIVER *** [As 5c Ks Qs] [Th]
+BuzovaPro: checks
+phrantsuz: bets $6
+BuzovaPro: folds
+Uncalled bet ($6) returned to phrantsuz
+phrantsuz collected $35.50 from pot
+phrantsuz: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [As 5c Ks Qs Th]
+Seat 3: phrantsuz (button) (small blind) collected ($35.50)
+Seat 4: BuzovaPro (big blind) folded on the River
+
+
+PokerStars Hand #158173288567:  Hold'em Limit ($3/$6 USD) - 2016/09/04 19:32:21 ET
+Table 'Anza' 6-max Seat #4 is the button
+Seat 3: phrantsuz ($73.75 in chips)
+Seat 4: BuzovaPro ($72 in chips)
+BuzovaPro: posts small blind $1
+phrantsuz: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt joins the table at seat #6
+BuzovaPro: folds
+Uncalled bet ($2) returned to phrantsuz
+phrantsuz collected $2 from pot
+phrantsuz: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: phrantsuz (big blind) collected ($2)
+Seat 4: BuzovaPro (button) (small blind) folded before Flop
+
+
+PokerStars Hand #158173291395:  Hold'em Limit ($3/$6 USD) - 2016/09/04 19:32:26 ET
+Table 'Anza' 6-max Seat #3 is the button
+Seat 3: phrantsuz ($74.75 in chips)
+Seat 4: BuzovaPro ($72 in chips)
+phrantsuz: posts small blind $1
+BuzovaPro: posts big blind $3
+*** HOLE CARDS ***
+phrantsuz: calls $2
+BuzovaPro: checks
+*** FLOP *** [5h 5c Ac]
+BuzovaPro: checks
+phrantsuz: checks
+*** TURN *** [5h 5c Ac] [Jd]
+BuzovaPro: checks
+phrantsuz: checks
+*** RIVER *** [5h 5c Ac Jd] [3h]
+BuzovaPro: checks
+phrantsuz: checks
+*** SHOW DOWN ***
+BuzovaPro: shows [Qc 2h] (a pair of Fives)
+phrantsuz: mucks hand
+BuzovaPro collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [5h 5c Ac Jd 3h]
+Seat 3: phrantsuz (button) (small blind) mucked
+Seat 4: BuzovaPro (big blind) showed [Qc 2h] and won ($5.88) with a pair of Fives
+
+

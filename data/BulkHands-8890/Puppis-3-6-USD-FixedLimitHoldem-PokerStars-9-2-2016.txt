@@ -1,0 +1,30 @@
+PokerStars Hand #158075656423:  Hold'em Limit ($3/$6 USD) - 2016/09/02 16:56:27 ET
+Table 'Puppis' 6-max Seat #3 is the button
+Seat 3: simper11 ($126.76 in chips)
+Seat 6: linocarrelli ($126.52 in chips)
+simper11: posts small blind $1
+linocarrelli: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+linocarrelli: raises $3 to $9
+simper11: calls $3
+*** FLOP *** [9c 4h 7d]
+linocarrelli: bets $3
+simper11: calls $3
+*** TURN *** [9c 4h 7d] [2s]
+linocarrelli: bets $6
+simper11: calls $6
+*** RIVER *** [9c 4h 7d 2s] [Qs]
+linocarrelli: bets $6
+simper11: calls $6
+*** SHOW DOWN ***
+linocarrelli: shows [3c Kh] (high card King)
+simper11: shows [5s 5d] (a pair of Fives)
+simper11 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9c 4h 7d 2s Qs]
+Seat 3: simper11 (button) (small blind) showed [5s 5d] and won ($47.50) with a pair of Fives
+Seat 6: linocarrelli (big blind) showed [3c Kh] and lost with high card King
+
+

@@ -1,0 +1,32 @@
+PokerStars Hand #154004207876:  Hold'em Limit ($3/$6 USD) - 2016/05/29 11:53:14 ET
+Table 'Orion' 6-max Seat #6 is the button
+Seat 1: boony444 ($221.50 in chips)
+Seat 6: 19woody58 ($98 in chips)
+19woody58: posts small blind $1
+boony444: posts big blind $3
+*** HOLE CARDS ***
+19woody58: raises $3 to $6
+boony444: calls $3
+*** FLOP *** [Td Ts 4h]
+boony444: checks
+19woody58: bets $3
+boony444: calls $3
+*** TURN *** [Td Ts 4h] [8h]
+boony444: checks
+19woody58: bets $6
+boony444: raises $6 to $12
+19woody58: calls $6
+*** RIVER *** [Td Ts 4h 8h] [7c]
+boony444: bets $6
+19woody58: calls $6
+*** SHOW DOWN ***
+boony444: shows [Js Th] (three of a kind, Tens)
+19woody58: mucks hand
+boony444 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Td Ts 4h 8h 7c]
+Seat 1: boony444 (big blind) showed [Js Th] and won ($53.50) with three of a kind, Tens
+Seat 6: 19woody58 (button) (small blind) mucked
+
+

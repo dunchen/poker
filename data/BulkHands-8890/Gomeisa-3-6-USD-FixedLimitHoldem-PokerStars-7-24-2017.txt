@@ -1,0 +1,31 @@
+PokerStars Hand #173440846066:  Hold'em Limit ($3/$6 USD) - 2017/07/24 7:09:12 ET
+Table 'Gomeisa' 10-max Seat #5 is the button
+Seat 5: Griseglid ($120 in chips)
+Seat 7: VolkovDmitri ($120 in chips)
+Griseglid: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Griseglid: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+Griseglid: calls $3
+*** FLOP *** [4h Th 5d]
+VolkovDmitri: bets $3
+Griseglid: calls $3
+*** TURN *** [4h Th 5d] [Kc]
+VolkovDmitri: checks
+Griseglid: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [4h Th 5d Kc] [3h]
+VolkovDmitri: checks
+Griseglid: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to Griseglid
+Griseglid collected $35.50 from pot
+Griseglid: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [4h Th 5d Kc 3h]
+Seat 5: Griseglid (button) (small blind) collected ($35.50)
+Seat 7: VolkovDmitri (big blind) folded on the River
+
+

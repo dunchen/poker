@@ -1,0 +1,50 @@
+PokerStars Hand #159202330853:  Hold'em Limit ($3/$6 USD) - 2016/09/28 9:51:39 ET
+Table 'Kalchas II' 6-max Seat #1 is the button
+Seat 1: ZOGI ($251.60 in chips)
+Seat 4: AzureCaper ($72 in chips)
+ZOGI: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+ZOGI: calls $2
+AzureCaper: checks
+*** FLOP *** [7s Qh 8c]
+oregordog joins the table at seat #6
+AzureCaper: bets $3
+ZOGI: calls $3
+*** TURN *** [7s Qh 8c] [Qc]
+AzureCaper: bets $6
+ZOGI: calls $6
+*** RIVER *** [7s Qh 8c Qc] [9h]
+AzureCaper: checks
+ZOGI: checks
+*** SHOW DOWN ***
+AzureCaper: shows [7d 6c] (two pair, Queens and Sevens)
+ZOGI: shows [7c 9s] (two pair, Queens and Nines)
+ZOGI collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [7s Qh 8c Qc 9h]
+Seat 1: ZOGI (button) (small blind) showed [7c 9s] and won ($23.52) with two pair, Queens and Nines
+Seat 4: AzureCaper (big blind) showed [7d 6c] and lost with two pair, Queens and Sevens
+
+
+PokerStars Hand #159202853215:  Hold'em Limit ($3/$6 USD) - 2016/09/28 10:08:11 ET
+Table 'Kalchas II' 6-max Seat #5 is the button
+Seat 4: AzureCaper ($72 in chips)
+Seat 5: pecs680 ($90.46 in chips)
+pecs680: posts small blind $1
+ThePlayer_ok: is sitting out
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+pecs680: raises $3 to $6
+AzureCaper: folds
+Uncalled bet ($3) returned to pecs680
+ThePlayer_ok leaves the table
+pecs680 collected $6 from pot
+pecs680: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 4: AzureCaper (big blind) folded before Flop
+Seat 5: pecs680 (button) (small blind) collected ($6)
+
+

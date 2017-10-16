@@ -1,0 +1,111 @@
+PokerStars Hand #151839605419:  Hold'em Limit ($3/$6 USD) - 2016/04/12 21:56:08 ET
+Table 'Leo' 10-max Seat #10 is the button
+Seat 9: JMMROCHA ($30 in chips)
+Seat 10: anetkaapro ($120 in chips)
+anetkaapro: posts small blind $1
+JMMROCHA: posts big blind $3
+*** HOLE CARDS ***
+anetkaapro: raises $3 to $6
+JMMROCHA: calls $3
+*** FLOP *** [5c 3d 7d]
+JMMROCHA: checks
+anetkaapro: bets $3
+JMMROCHA: calls $3
+*** TURN *** [5c 3d 7d] [2d]
+JMMROCHA: checks
+anetkaapro: checks
+*** RIVER *** [5c 3d 7d 2d] [2h]
+JMMROCHA: checks
+anetkaapro: checks
+*** SHOW DOWN ***
+JMMROCHA: shows [Tc 9h] (a pair of Deuces)
+anetkaapro: shows [Th Kd] (a pair of Deuces - King kicker)
+anetkaapro collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5c 3d 7d 2d 2h]
+Seat 9: JMMROCHA (big blind) showed [Tc 9h] and lost with a pair of Deuces
+Seat 10: anetkaapro (button) (small blind) showed [Th Kd] and won ($17.64) with a pair of Deuces
+
+
+PokerStars Hand #151839631321:  Hold'em Limit ($3/$6 USD) - 2016/04/12 21:57:30 ET
+Table 'Leo' 10-max Seat #9 is the button
+Seat 9: JMMROCHA ($23.52 in chips)
+Seat 10: anetkaapro ($125.28 in chips)
+JMMROCHA: posts small blind $1
+anetkaapro: posts big blind $3
+*** HOLE CARDS ***
+JMMROCHA: raises $3 to $6
+anetkaapro: calls $3
+*** FLOP *** [3h 2h 2d]
+anetkaapro: checks
+JMMROCHA: bets $3
+anetkaapro: calls $3
+*** TURN *** [3h 2h 2d] [8s]
+anetkaapro: checks
+JMMROCHA: bets $6
+anetkaapro: folds
+Uncalled bet ($6) returned to JMMROCHA
+JMMROCHA collected $17.64 from pot
+JMMROCHA: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3h 2h 2d 8s]
+Seat 9: JMMROCHA (button) (small blind) collected ($17.64)
+Seat 10: anetkaapro (big blind) folded on the Turn
+
+
+PokerStars Hand #151839614581:  Hold'em Limit ($3/$6 USD) - 2016/04/12 21:56:37 ET
+Table 'Leo' 10-max Seat #9 is the button
+Seat 9: JMMROCHA ($21 in chips)
+Seat 10: anetkaapro ($128.64 in chips)
+JMMROCHA: posts small blind $1
+anetkaapro: posts big blind $3
+*** HOLE CARDS ***
+JMMROCHA: raises $3 to $6
+anetkaapro: calls $3
+*** FLOP *** [Kh 6h Th]
+anetkaapro: checks
+JMMROCHA: bets $3
+anetkaapro: calls $3
+*** TURN *** [Kh 6h Th] [2h]
+anetkaapro: bets $6
+JMMROCHA: folds
+Uncalled bet ($6) returned to anetkaapro
+anetkaapro collected $17.64 from pot
+anetkaapro: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kh 6h Th 2h]
+Seat 9: JMMROCHA (button) (small blind) folded on the Turn
+Seat 10: anetkaapro (big blind) collected ($17.64)
+
+
+PokerStars Hand #151839626406:  Hold'em Limit ($3/$6 USD) - 2016/04/12 21:57:14 ET
+Table 'Leo' 10-max Seat #10 is the button
+Seat 9: JMMROCHA ($12 in chips)
+Seat 10: anetkaapro ($137.28 in chips)
+anetkaapro: posts small blind $1
+JMMROCHA: posts big blind $3
+*** HOLE CARDS ***
+anetkaapro: raises $3 to $6
+JMMROCHA: calls $3
+*** FLOP *** [7c 8c 5d]
+GarryMcCoy joins the table at seat #1
+JMMROCHA: checks
+anetkaapro: bets $3
+JMMROCHA: raises $3 to $6 and is all-in
+anetkaapro: calls $3
+*** TURN *** [7c 8c 5d] [Qd]
+*** RIVER *** [7c 8c 5d Qd] [2h]
+*** SHOW DOWN ***
+JMMROCHA: shows [7d 9h] (a pair of Sevens)
+anetkaapro: shows [5c 9s] (a pair of Fives)
+JMMROCHA collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [7c 8c 5d Qd 2h]
+Seat 9: JMMROCHA (big blind) showed [7d 9h] and won ($23.52) with a pair of Sevens
+Seat 10: anetkaapro (button) (small blind) showed [5c 9s] and lost with a pair of Fives
+
+

@@ -1,0 +1,102 @@
+PokerStars Hand #162134774534:  Hold'em Limit ($3/$6 USD) - 2016/11/29 8:08:58 ET
+Table 'Jiangxi' 6-max Seat #2 is the button
+Seat 1: BC08617 ($35 in chips)
+Seat 2: B_loJkl ($150 in chips)
+B_loJkl: posts small blind $1
+TbIP-TbIP 88: is sitting out
+TbIP-TbIP 88 leaves the table
+BC08617: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+BC08617: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $6 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: BC08617 (big blind) folded before Flop
+Seat 2: B_loJkl (button) (small blind) collected ($6)
+
+
+PokerStars Hand #162134802509:  Hold'em Limit ($3/$6 USD) - 2016/11/29 8:09:51 ET
+Table 'Jiangxi' 6-max Seat #2 is the button
+Seat 1: BC08617 ($17 in chips)
+Seat 2: B_loJkl ($167.50 in chips)
+B_loJkl: posts small blind $1
+BC08617: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+BC08617: calls $3
+*** FLOP *** [7d 7c 2c]
+BC08617: checks
+B_loJkl: bets $3
+BC08617: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7d 7c 2c]
+Seat 1: BC08617 (big blind) folded on the Flop
+Seat 2: B_loJkl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #162134786704:  Hold'em Limit ($3/$6 USD) - 2016/11/29 8:09:21 ET
+Table 'Jiangxi' 6-max Seat #1 is the button
+Seat 1: BC08617 ($32 in chips)
+Seat 2: B_loJkl ($153 in chips)
+BC08617: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+BC08617: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [9c 8d 5c]
+B_loJkl: checks
+BC08617: bets $3
+B_loJkl: calls $3
+*** TURN *** [9c 8d 5c] [6h]
+B_loJkl: checks
+BC08617: bets $6
+B_loJkl: calls $6
+*** RIVER *** [9c 8d 5c 6h] [Ts]
+B_loJkl: checks
+BC08617: checks
+*** SHOW DOWN ***
+B_loJkl: shows [6c 4c] (a pair of Sixes)
+BC08617: mucks hand
+B_loJkl collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9c 8d 5c 6h Ts]
+Seat 1: BC08617 (button) (small blind) mucked
+Seat 2: B_loJkl (big blind) showed [6c 4c] and won ($29.50) with a pair of Sixes
+
+
+PokerStars Hand #162134818722:  Hold'em Limit ($3/$6 USD) - 2016/11/29 8:10:21 ET
+Table 'Jiangxi' 6-max Seat #1 is the button
+Seat 1: BC08617 ($11 in chips)
+Seat 2: B_loJkl ($173.26 in chips)
+BC08617: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+BC08617: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [4h 7s 4c]
+B_loJkl: checks
+BC08617: bets $3
+B_loJkl: raises $3 to $6
+BC08617: calls $2 and is all-in
+Uncalled bet ($1) returned to B_loJkl
+*** TURN *** [4h 7s 4c] [9h]
+*** RIVER *** [4h 7s 4c 9h] [Kh]
+*** SHOW DOWN ***
+B_loJkl: shows [4d Kc] (a full house, Fours full of Kings)
+BC08617: shows [7h 3h] (a flush, King high)
+B_loJkl collected $21.56 from pot
+*** SUMMARY ***
+Total pot $22 | Rake $0.44
+Board [4h 7s 4c 9h Kh]
+Seat 1: BC08617 (button) (small blind) showed [7h 3h] and lost with a flush, King high
+Seat 2: B_loJkl (big blind) showed [4d Kc] and won ($21.56) with a full house, Fours full of Kings
+
+

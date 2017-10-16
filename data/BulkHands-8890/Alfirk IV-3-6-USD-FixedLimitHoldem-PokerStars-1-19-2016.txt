@@ -1,0 +1,63 @@
+PokerStars Hand #147334307866:  Hold'em Limit ($3/$6 USD) - 2016/01/19 17:03:41 ET
+Table 'Alfirk IV' 2-max Seat #2 is the button
+Seat 1: ChicagoBull4 ($120 in chips)
+Seat 2: Crspy Bacon ($120 in chips)
+Crspy Bacon: posts small blind $1
+ChicagoBull4: posts big blind $3
+*** HOLE CARDS ***
+Crspy Bacon: raises $3 to $6
+ChicagoBull4: calls $3
+*** FLOP *** [As 3s 3h]
+ChicagoBull4: checks
+Crspy Bacon: bets $3
+ChicagoBull4: calls $3
+*** TURN *** [As 3s 3h] [7c]
+ChicagoBull4: checks
+Crspy Bacon: bets $6
+ChicagoBull4: calls $6
+*** RIVER *** [As 3s 3h 7c] [Td]
+ChicagoBull4: checks
+Crspy Bacon: bets $6
+ChicagoBull4: calls $6
+*** SHOW DOWN ***
+Crspy Bacon: shows [6s Ad] (two pair, Aces and Threes)
+ChicagoBull4: shows [2d Ac] (two pair, Aces and Threes)
+ChicagoBull4 collected $20.75 from pot
+Crspy Bacon collected $20.75 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [As 3s 3h 7c Td]
+Seat 1: ChicagoBull4 (big blind) showed [2d Ac] and won ($20.75) with two pair, Aces and Threes
+Seat 2: Crspy Bacon (button) (small blind) showed [6s Ad] and won ($20.75) with two pair, Aces and Threes
+
+
+PokerStars Hand #147334343816:  Hold'em Limit ($3/$6 USD) - 2016/01/19 17:04:15 ET
+Table 'Alfirk IV' 2-max Seat #1 is the button
+Seat 1: ChicagoBull4 ($119.75 in chips)
+Seat 2: Crspy Bacon ($119.75 in chips)
+ChicagoBull4: posts small blind $1
+Crspy Bacon: posts big blind $3
+*** HOLE CARDS ***
+ChicagoBull4: raises $3 to $6
+Crspy Bacon: calls $3
+*** FLOP *** [3s 5d 6h]
+Crspy Bacon: checks
+ChicagoBull4: bets $3
+Crspy Bacon: calls $3
+*** TURN *** [3s 5d 6h] [7c]
+Crspy Bacon: checks
+ChicagoBull4: checks
+*** RIVER *** [3s 5d 6h 7c] [Ad]
+Crspy Bacon: bets $6
+ChicagoBull4: calls $6
+*** SHOW DOWN ***
+Crspy Bacon: shows [2s 9s] (high card Ace)
+ChicagoBull4: shows [Qh 5s] (a pair of Fives)
+ChicagoBull4 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3s 5d 6h 7c Ad]
+Seat 1: ChicagoBull4 (button) (small blind) showed [Qh 5s] and won ($29.50) with a pair of Fives
+Seat 2: Crspy Bacon (big blind) showed [2s 9s] and lost with high card Ace
+
+

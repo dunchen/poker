@@ -1,0 +1,30 @@
+PokerStars Hand #145748961428:  Hold'em Limit ($3/$6 USD) - 2015/12/22 13:20:27 ET
+Table 'Antinous' 6-max Seat #5 is the button
+Seat 3: Titanic001 ($160.28 in chips)
+Seat 5: alexslep ($159 in chips)
+alexslep: posts small blind $1
+Titanic001: posts big blind $3
+*** HOLE CARDS ***
+alexslep: raises $3 to $6
+Titanic001: raises $3 to $9
+alexslep: calls $3
+*** FLOP *** [As 2c Qc]
+Titanic001: bets $3
+alexslep: calls $3
+*** TURN *** [As 2c Qc] [2h]
+Titanic001: bets $6
+alexslep: calls $6
+*** RIVER *** [As 2c Qc 2h] [Td]
+Titanic001: bets $6
+alexslep: calls $6
+*** SHOW DOWN ***
+Titanic001: shows [Ac Th] (two pair, Aces and Tens)
+alexslep: mucks hand
+Titanic001 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [As 2c Qc 2h Td]
+Seat 3: Titanic001 (big blind) showed [Ac Th] and won ($47.50) with two pair, Aces and Tens
+Seat 5: alexslep (button) (small blind) mucked
+
+

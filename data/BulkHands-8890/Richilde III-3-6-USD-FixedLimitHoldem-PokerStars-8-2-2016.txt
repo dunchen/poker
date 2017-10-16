@@ -1,0 +1,31 @@
+PokerStars Hand #156780515914:  Hold'em Limit ($3/$6 USD) - 2016/08/02 15:48:18 ET
+Table 'Richilde III' 6-max Seat #1 is the button
+Seat 1: Zubasa07 ($500 in chips)
+Seat 4: 19woody58 ($303.09 in chips)
+Zubasa07: posts small blind $1
+19woody58: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+19woody58: calls $3
+*** FLOP *** [6h 9c 5h]
+19woody58: checks
+Zubasa07: bets $3
+19woody58: calls $3
+*** TURN *** [6h 9c 5h] [2c]
+19woody58: checks
+Zubasa07: checks
+*** RIVER *** [6h 9c 5h 2c] [Kc]
+19woody58: checks
+Zubasa07: checks
+*** SHOW DOWN ***
+19woody58: shows [Jh Ad] (high card Ace)
+Zubasa07: shows [5c Td] (a pair of Fives)
+Zubasa07 collected $17.64 from pot
+krossguard joins the table at seat #5
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6h 9c 5h 2c Kc]
+Seat 1: Zubasa07 (button) (small blind) showed [5c Td] and won ($17.64) with a pair of Fives
+Seat 4: 19woody58 (big blind) showed [Jh Ad] and lost with high card Ace
+
+

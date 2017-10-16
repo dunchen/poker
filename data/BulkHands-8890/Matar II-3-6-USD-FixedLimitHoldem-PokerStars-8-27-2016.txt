@@ -1,0 +1,88 @@
+PokerStars Hand #157799398903:  Hold'em Limit ($3/$6 USD) - 2016/08/27 8:36:21 ET
+Table 'Matar II' 6-max Seat #3 is the button
+Seat 3: libaikang ($173 in chips)
+Seat 4: Agrotait ($72 in chips)
+libaikang: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+libaikang: calls $2
+Agrotait: checks
+*** FLOP *** [Ks 9s 8d]
+Agrotait: bets $3
+libaikang: raises $3 to $6
+Agrotait: calls $3
+*** TURN *** [Ks 9s 8d] [8h]
+Agrotait: checks
+libaikang: bets $6
+Agrotait: calls $6
+*** RIVER *** [Ks 9s 8d 8h] [5d]
+Agrotait: checks
+libaikang: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+libaikang: shows [Jd 8c] (three of a kind, Eights)
+Agrotait: mucks hand
+libaikang collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ks 9s 8d 8h 5d]
+Seat 3: libaikang (button) (small blind) showed [Jd 8c] and won ($41.50) with three of a kind, Eights
+Seat 4: Agrotait (big blind) mucked
+
+
+PokerStars Hand #157799421960:  Hold'em Limit ($3/$6 USD) - 2016/08/27 8:37:01 ET
+Table 'Matar II' 6-max Seat #4 is the button
+Seat 3: libaikang ($193.50 in chips)
+Seat 4: Agrotait ($72 in chips)
+Agrotait: posts small blind $1
+libaikang: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+libaikang: calls $3
+*** FLOP *** [Ts 7h 2h]
+libaikang: checks
+Agrotait: bets $3
+libaikang: raises $3 to $6
+Agrotait: calls $3
+*** TURN *** [Ts 7h 2h] [Js]
+libaikang: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to libaikang
+libaikang collected $23.52 from pot
+libaikang: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Ts 7h 2h Js]
+Seat 3: libaikang (big blind) collected ($23.52)
+Seat 4: Agrotait (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #157799433045:  Hold'em Limit ($3/$6 USD) - 2016/08/27 8:37:24 ET
+Table 'Matar II' 6-max Seat #3 is the button
+Seat 3: libaikang ($205.02 in chips)
+Seat 4: Agrotait ($60 in chips)
+libaikang: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+libaikang: calls $2
+Agrotait: checks
+*** FLOP *** [5c 8s 3s]
+Agrotait: bets $3
+libaikang: calls $3
+*** TURN *** [5c 8s 3s] [9h]
+Agrotait: bets $6
+libaikang: calls $6
+*** RIVER *** [5c 8s 3s 9h] [7d]
+Agrotait: checks
+libaikang: checks
+*** SHOW DOWN ***
+Agrotait: shows [3c Qh] (a pair of Threes)
+libaikang: mucks hand
+Agrotait collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [5c 8s 3s 9h 7d]
+Seat 3: libaikang (button) (small blind) mucked
+Seat 4: Agrotait (big blind) showed [3c Qh] and won ($23.52) with a pair of Threes
+
+

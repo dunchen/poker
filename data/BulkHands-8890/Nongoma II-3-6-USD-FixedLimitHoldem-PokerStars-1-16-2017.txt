@@ -1,0 +1,32 @@
+PokerStars Hand #164689160875:  Hold'em Limit ($3/$6 USD) - 2017/01/16 16:28:56 ET
+Table 'Nongoma II' 6-max Seat #2 is the button
+Seat 2: rumataA ($73.08 in chips)
+Seat 6: Chessnok ($227.76 in chips)
+rumataA: posts small blind $1
+laubes04: is sitting out
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+rumataA: raises $3 to $6
+laubes04 leaves the table
+Chessnok: raises $3 to $9
+rumataA: calls $3
+*** FLOP *** [9c 3d Ts]
+Chessnok: checks
+rumataA: checks
+*** TURN *** [9c 3d Ts] [Kd]
+Chessnok: checks
+rumataA: checks
+*** RIVER *** [9c 3d Ts Kd] [Qh]
+Chessnok: checks
+rumataA: checks
+*** SHOW DOWN ***
+Chessnok: shows [4c Ac] (high card Ace)
+rumataA: shows [Qs 7h] (a pair of Queens)
+rumataA collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9c 3d Ts Kd Qh]
+Seat 2: rumataA (button) (small blind) showed [Qs 7h] and won ($17.64) with a pair of Queens
+Seat 6: Chessnok (big blind) showed [4c Ac] and lost with high card Ace
+
+

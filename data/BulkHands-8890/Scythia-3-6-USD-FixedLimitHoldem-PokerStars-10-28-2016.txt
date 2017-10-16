@@ -1,0 +1,112 @@
+PokerStars Hand #160570800598:  Hold'em Limit ($3/$6 USD) - 2016/10/28 18:34:16 ET
+Table 'Scythia' 6-max Seat #1 is the button
+Seat 1: Zubasa07 ($500 in chips)
+Seat 4: LotsaBalls12 ($47.26 in chips)
+Zubasa07: posts small blind $1
+LotsaBalls12: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+LotsaBalls12: calls $3
+*** FLOP *** [9s 3d 7c]
+LotsaBalls12: checks
+Zubasa07: bets $3
+LotsaBalls12: calls $3
+*** TURN *** [9s 3d 7c] [Qd]
+LotsaBalls12: checks
+Zubasa07: bets $6
+LotsaBalls12: calls $6
+*** RIVER *** [9s 3d 7c Qd] [Kc]
+LotsaBalls12: checks
+Zubasa07: bets $6
+LotsaBalls12: calls $6
+*** SHOW DOWN ***
+Zubasa07: shows [3c 9c] (two pair, Nines and Threes)
+LotsaBalls12: mucks hand
+Zubasa07 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9s 3d 7c Qd Kc]
+Seat 1: Zubasa07 (button) (small blind) showed [3c 9c] and won ($41.50) with two pair, Nines and Threes
+Seat 4: LotsaBalls12 (big blind) mucked
+
+
+PokerStars Hand #160570822455:  Hold'em Limit ($3/$6 USD) - 2016/10/28 18:34:45 ET
+Table 'Scythia' 6-max Seat #4 is the button
+Seat 1: Zubasa07 ($520.50 in chips)
+Seat 4: LotsaBalls12 ($26.26 in chips)
+LotsaBalls12: posts small blind $1
+Zubasa07: posts big blind $3
+*** HOLE CARDS ***
+LotsaBalls12: calls $2
+Zubasa07: raises $3 to $6
+LotsaBalls12: calls $3
+*** FLOP *** [4d 5s 2h]
+Zubasa07: bets $3
+LotsaBalls12: calls $3
+*** TURN *** [4d 5s 2h] [4c]
+Zubasa07: bets $6
+LotsaBalls12: calls $6
+*** RIVER *** [4d 5s 2h 4c] [9d]
+Zubasa07: bets $6
+LotsaBalls12: calls $6
+*** SHOW DOWN ***
+Zubasa07: shows [9h Ac] (two pair, Nines and Fours)
+LotsaBalls12: mucks hand
+Zubasa07 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [4d 5s 2h 4c 9d]
+Seat 1: Zubasa07 (big blind) showed [9h Ac] and won ($41.50) with two pair, Nines and Fours
+Seat 4: LotsaBalls12 (button) (small blind) mucked
+
+
+PokerStars Hand #160570853139:  Hold'em Limit ($3/$6 USD) - 2016/10/28 18:35:26 ET
+Table 'Scythia' 6-max Seat #4 is the button
+Seat 1: Zubasa07 ($535.74 in chips)
+Seat 4: LotsaBalls12 ($10.31 in chips)
+LotsaBalls12: posts small blind $1
+Zubasa07: posts big blind $3
+*** HOLE CARDS ***
+LotsaBalls12: raises $3 to $6
+Zubasa07: raises $3 to $9
+LotsaBalls12: raises $1.31 to $10.31 and is all-in
+Betting is capped
+Zubasa07: calls $1.31
+*** FLOP *** [3h 3s Tc]
+*** TURN *** [3h 3s Tc] [6c]
+*** RIVER *** [3h 3s Tc 6c] [3c]
+*** SHOW DOWN ***
+Zubasa07: shows [Kc Jd] (three of a kind, Threes)
+LotsaBalls12: shows [7h Qh] (three of a kind, Threes - lower kicker)
+Zubasa07 collected $20.21 from pot
+*** SUMMARY ***
+Total pot $20.62 | Rake $0.41
+Board [3h 3s Tc 6c 3c]
+Seat 1: Zubasa07 (big blind) showed [Kc Jd] and won ($20.21) with three of a kind, Threes
+Seat 4: LotsaBalls12 (button) (small blind) showed [7h Qh] and lost with three of a kind, Threes
+
+
+PokerStars Hand #160570843537:  Hold'em Limit ($3/$6 USD) - 2016/10/28 18:35:13 ET
+Table 'Scythia' 6-max Seat #1 is the button
+Seat 1: Zubasa07 ($541 in chips)
+Seat 4: LotsaBalls12 ($5.26 in chips)
+Zubasa07: posts small blind $1
+LotsaBalls12: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+LotsaBalls12: calls $2.26 and is all-in
+Uncalled bet ($0.74) returned to Zubasa07
+*** FLOP *** [5d Kh Qd]
+*** TURN *** [5d Kh Qd] [8d]
+*** RIVER *** [5d Kh Qd 8d] [3s]
+*** SHOW DOWN ***
+LotsaBalls12: shows [8c 7d] (a pair of Eights)
+Zubasa07: shows [Ac Th] (high card Ace)
+LotsaBalls12 collected $10.31 from pot
+*** SUMMARY ***
+Total pot $10.52 | Rake $0.21
+Board [5d Kh Qd 8d 3s]
+Seat 1: Zubasa07 (button) (small blind) showed [Ac Th] and lost with high card Ace
+Seat 4: LotsaBalls12 (big blind) showed [8c 7d] and won ($10.31) with a pair of Eights
+
+

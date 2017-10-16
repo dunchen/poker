@@ -1,0 +1,82 @@
+PokerStars Hand #145190068602:  Hold'em Limit ($3/$6 USD) - 2015/12/11 15:29:07 ET
+Table 'Imprinetta' 2-max Seat #2 is the button
+Seat 1: obtedl ($43.10 in chips)
+Seat 2: ztikad ($87.73 in chips)
+ztikad: posts small blind $1
+obtedl: posts big blind $3
+*** HOLE CARDS ***
+ztikad: raises $3 to $6
+obtedl: raises $3 to $9
+ztikad: raises $3 to $12
+Betting is capped
+obtedl: calls $3
+*** FLOP *** [8h Jh 4c]
+obtedl: bets $3
+ztikad: raises $3 to $6
+obtedl: calls $3
+*** TURN *** [8h Jh 4c] [3s]
+obtedl: bets $6
+ztikad: raises $6 to $12
+obtedl: calls $6
+*** RIVER *** [8h Jh 4c 3s] [Jc]
+obtedl: checks
+ztikad: bets $6
+obtedl: folds
+Uncalled bet ($6) returned to ztikad
+ztikad collected $59.50 from pot
+ztikad: doesn't show hand
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [8h Jh 4c 3s Jc]
+Seat 1: obtedl (big blind) folded on the River
+Seat 2: ztikad (button) (small blind) collected ($59.50)
+
+
+PokerStars Hand #145190086352:  Hold'em Limit ($3/$6 USD) - 2015/12/11 15:29:26 ET
+Table 'Imprinetta' 2-max Seat #1 is the button
+Seat 1: obtedl ($13.10 in chips)
+Seat 2: ztikad ($117.23 in chips)
+obtedl: posts small blind $1
+ztikad: posts big blind $3
+*** HOLE CARDS ***
+obtedl: raises $3 to $6
+ztikad: raises $3 to $9
+obtedl: calls $3
+*** FLOP *** [4d Td 5d]
+ztikad: bets $3
+obtedl: folds
+Uncalled bet ($3) returned to ztikad
+ztikad collected $17.64 from pot
+ztikad: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4d Td 5d]
+Seat 1: obtedl (button) (small blind) folded on the Flop
+Seat 2: ztikad (big blind) collected ($17.64)
+
+
+PokerStars Hand #145190096785:  Hold'em Limit ($3/$6 USD) - 2015/12/11 15:29:37 ET
+Table 'Imprinetta' 2-max Seat #2 is the button
+Seat 1: obtedl ($4.10 in chips)
+Seat 2: ztikad ($125.87 in chips)
+ztikad: posts small blind $1
+obtedl: posts big blind $3
+*** HOLE CARDS ***
+ztikad: raises $3 to $6
+obtedl: calls $1.10 and is all-in
+Uncalled bet ($1.90) returned to ztikad
+*** FLOP *** [3c 2c Qc]
+*** TURN *** [3c 2c Qc] [5c]
+*** RIVER *** [3c 2c Qc 5c] [Qd]
+*** SHOW DOWN ***
+obtedl: shows [9d Td] (a pair of Queens)
+ztikad: shows [6s Kh] (a pair of Queens - King kicker)
+ztikad collected $8.04 from pot
+ztikad leaves the table
+*** SUMMARY ***
+Total pot $8.20 | Rake $0.16
+Board [3c 2c Qc 5c Qd]
+Seat 1: obtedl (big blind) showed [9d Td] and lost with a pair of Queens
+Seat 2: ztikad (button) (small blind) showed [6s Kh] and won ($8.04) with a pair of Queens
+
+

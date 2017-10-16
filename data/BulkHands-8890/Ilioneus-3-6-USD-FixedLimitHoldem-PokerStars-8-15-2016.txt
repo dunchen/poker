@@ -1,0 +1,116 @@
+PokerStars Hand #157298522625:  Hold'em Limit ($3/$6 USD) - 2016/08/15 6:20:38 ET
+Table 'Ilioneus' 6-max Seat #1 is the button
+Seat 1: jiajia88 ($34.17 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+jiajia88: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+jiajia88: calls $2
+VolkovDmitri: raises $3 to $6
+jiajia88: calls $3
+*** FLOP *** [7s 4c 5h]
+VolkovDmitri: bets $3
+jiajia88: calls $3
+*** TURN *** [7s 4c 5h] [Jc]
+VolkovDmitri: bets $6
+jiajia88: raises $6 to $12
+VolkovDmitri: raises $6 to $18
+jiajia88: calls $6
+*** RIVER *** [7s 4c 5h Jc] [Ad]
+VolkovDmitri: bets $6
+jiajia88: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Jh 7h] (two pair, Jacks and Sevens)
+jiajia88: mucks hand
+VolkovDmitri collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [7s 4c 5h Jc Ad]
+Seat 1: jiajia88 (button) (small blind) mucked
+Seat 4: VolkovDmitri (big blind) showed [Jh 7h] and won ($65.50) with two pair, Jacks and Sevens
+
+
+PokerStars Hand #157298537963:  Hold'em Limit ($3/$6 USD) - 2016/08/15 6:21:19 ET
+Table 'Ilioneus' 6-max Seat #4 is the button
+Seat 1: jiajia88 ($144.50 in chips)
+Seat 4: VolkovDmitri ($152.50 in chips)
+VolkovDmitri: posts small blind $1
+jiajia88: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+jiajia88: calls $3
+*** FLOP *** [5h Jh Ts]
+jiajia88: checks
+VolkovDmitri: bets $3
+jiajia88: calls $3
+*** TURN *** [5h Jh Ts] [9d]
+jiajia88: checks
+VolkovDmitri: bets $6
+jiajia88: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $17.64 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5h Jh Ts 9d]
+Seat 1: jiajia88 (big blind) folded on the Turn
+Seat 4: VolkovDmitri (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #157298544850:  Hold'em Limit ($3/$6 USD) - 2016/08/15 6:21:37 ET
+Table 'Ilioneus' 6-max Seat #1 is the button
+Seat 1: jiajia88 ($135.50 in chips)
+Seat 4: VolkovDmitri ($161.14 in chips)
+jiajia88: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+jiajia88: calls $2
+VolkovDmitri: raises $3 to $6
+jiajia88: calls $3
+*** FLOP *** [3c Ts 4d]
+krossguard joins the table at seat #2
+VolkovDmitri: bets $3
+jiajia88: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [3c Ts 4d] [8h]
+VolkovDmitri: checks
+jiajia88: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [3c Ts 4d 8h] [2h]
+VolkovDmitri: checks
+jiajia88: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+jiajia88: shows [5d 3d] (a pair of Threes)
+VolkovDmitri: mucks hand
+jiajia88 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3c Ts 4d 8h 2h]
+Seat 1: jiajia88 (button) (small blind) showed [5d 3d] and won ($47.50) with a pair of Threes
+Seat 4: VolkovDmitri (big blind) mucked
+
+
+PokerStars Hand #157298559417:  Hold'em Limit ($3/$6 USD) - 2016/08/15 6:22:16 ET
+Table 'Ilioneus' 6-max Seat #4 is the button
+Seat 1: jiajia88 ($159 in chips)
+Seat 4: VolkovDmitri ($137.14 in chips)
+VolkovDmitri: posts small blind $1
+jiajia88: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+jiajia88: calls $3
+*** FLOP *** [Qs As 9c]
+jiajia88: checks
+VolkovDmitri: bets $3
+jiajia88: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qs As 9c]
+Seat 1: jiajia88 (big blind) folded on the Flop
+Seat 4: VolkovDmitri (button) (small blind) collected ($11.76)
+
+

@@ -1,0 +1,52 @@
+PokerStars Hand #174424175986:  Hold'em Limit ($3/$6 USD) - 2017/08/16 18:35:43 ET
+Table 'Niels' 6-max Seat #1 is the button
+Seat 1: favete lin ($80.46 in chips)
+Seat 4: ToDaFelt ($108 in chips)
+favete lin: posts small blind $1
+PlayForca: is sitting out
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+favete lin: raises $3 to $6
+PlayForca leaves the table
+ToDaFelt: folds
+Uncalled bet ($3) returned to favete lin
+favete lin collected $6 from pot
+favete lin: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: favete lin (button) (small blind) collected ($6)
+Seat 4: ToDaFelt (big blind) folded before Flop
+
+
+PokerStars Hand #174424181034:  Hold'em Limit ($3/$6 USD) - 2017/08/16 18:35:51 ET
+Table 'Niels' 6-max Seat #4 is the button
+Seat 1: favete lin ($83.46 in chips)
+Seat 4: ToDaFelt ($105 in chips)
+ToDaFelt: posts small blind $1
+favete lin: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+favete lin: calls $3
+*** FLOP *** [Kc As Td]
+favete lin: checks
+ToDaFelt: bets $3
+favete lin: calls $3
+*** TURN *** [Kc As Td] [6d]
+favete lin: checks
+ToDaFelt: bets $6
+favete lin: calls $6
+*** RIVER *** [Kc As Td 6d] [8d]
+favete lin: checks
+ToDaFelt: bets $6
+favete lin: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [7c Ad] (a pair of Aces)
+favete lin: mucks hand
+ToDaFelt collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Kc As Td 6d 8d]
+Seat 1: favete lin (big blind) mucked
+Seat 4: ToDaFelt (button) (small blind) showed [7c Ad] and won ($41.50) with a pair of Aces
+
+

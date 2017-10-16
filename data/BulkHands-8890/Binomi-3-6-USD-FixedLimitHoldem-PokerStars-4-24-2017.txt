@@ -1,0 +1,93 @@
+PokerStars Hand #169502553924:  Hold'em Limit ($3/$6 USD) - 2017/04/24 14:29:03 ET
+Table 'Binomi' 6-max Seat #3 is the button
+Seat 3: FWA111 ($120 in chips)
+Seat 5: Great_Kang ($120 in chips)
+FWA111: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+FWA111: raises $3 to $6
+Great_Kang: calls $3
+*** FLOP *** [Qh 5s 5c]
+TinaTurner72 joins the table at seat #4
+Great_Kang: checks
+FWA111: bets $3
+Great_Kang: calls $3
+*** TURN *** [Qh 5s 5c] [Th]
+Great_Kang: checks
+FWA111: bets $6
+Great_Kang: raises $6 to $12
+FWA111: calls $6
+*** RIVER *** [Qh 5s 5c Th] [3d]
+Great_Kang: bets $6
+FWA111: calls $6
+*** SHOW DOWN ***
+Great_Kang: shows [Qd 7d] (two pair, Queens and Fives)
+FWA111: mucks hand
+Great_Kang collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Qh 5s 5c Th 3d]
+Seat 3: FWA111 (button) (small blind) mucked
+Seat 5: Great_Kang (big blind) showed [Qd 7d] and won ($53.50) with two pair, Queens and Fives
+
+
+PokerStars Hand #169502581767:  Hold'em Limit ($3/$6 USD) - 2017/04/24 14:29:37 ET
+Table 'Binomi' 6-max Seat #5 is the button
+Seat 3: FWA111 ($93 in chips)
+Seat 5: Great_Kang ($146.50 in chips)
+Great_Kang: posts small blind $1
+FWA111: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+FWA111: calls $3
+*** FLOP *** [Qd 7c Js]
+FWA111: checks
+Great_Kang: bets $3
+FWA111: calls $3
+*** TURN *** [Qd 7c Js] [7d]
+FWA111: checks
+Great_Kang: checks
+*** RIVER *** [Qd 7c Js 7d] [3c]
+FWA111: bets $6
+Great_Kang: folds
+Uncalled bet ($6) returned to FWA111
+FWA111 collected $17.64 from pot
+FWA111: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qd 7c Js 7d 3c]
+Seat 3: FWA111 (big blind) collected ($17.64)
+Seat 5: Great_Kang (button) (small blind) folded on the River
+
+
+PokerStars Hand #169503050694:  Hold'em Limit ($3/$6 USD) - 2017/04/24 14:38:58 ET
+Table 'Binomi' 6-max Seat #4 is the button
+Seat 4: TinaTurner72 ($81.75 in chips)
+Seat 5: Great_Kang ($186 in chips)
+TinaTurner72: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+TinaTurner72: raises $3 to $6
+Great_Kang: calls $3
+*** FLOP *** [Jc Kc 8c]
+Great_Kang: checks
+TinaTurner72: bets $3
+Great_Kang: raises $3 to $6
+TinaTurner72: calls $3
+*** TURN *** [Jc Kc 8c] [4d]
+Great_Kang: bets $6
+TinaTurner72: calls $6
+*** RIVER *** [Jc Kc 8c 4d] [5s]
+Great_Kang: bets $6
+TinaTurner72: calls $6
+*** SHOW DOWN ***
+Great_Kang: shows [Kh 2c] (a pair of Kings)
+TinaTurner72: mucks hand
+Great_Kang collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Jc Kc 8c 4d 5s]
+Seat 4: TinaTurner72 (button) (small blind) mucked
+Seat 5: Great_Kang (big blind) showed [Kh 2c] and won ($47.50) with a pair of Kings
+
+

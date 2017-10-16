@@ -1,0 +1,85 @@
+PokerStars Hand #175424435667:  Hold'em Limit ($3/$6 USD) - 2017/09/09 15:10:48 ET
+Table 'Agrius' 6-max Seat #1 is the button
+Seat 1: igorkabmw ($40 in chips)
+Seat 5: GoliafUa ($120 in chips)
+igorkabmw: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+igorkabmw: folds
+Uncalled bet ($2) returned to GoliafUa
+vestimokrec joins the table at seat #2
+GoliafUa collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: igorkabmw (button) (small blind) folded before Flop
+Seat 5: GoliafUa (big blind) collected ($2)
+
+
+PokerStars Hand #175424457632:  Hold'em Limit ($3/$6 USD) - 2017/09/09 15:11:15 ET
+Table 'Agrius' 6-max Seat #1 is the button
+Seat 1: igorkabmw ($3 in chips)
+Seat 5: GoliafUa ($156.50 in chips)
+igorkabmw: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+igorkabmw: calls $2 and is all-in
+*** FLOP *** [2s 5c Jc]
+*** TURN *** [2s 5c Jc] [7d]
+*** RIVER *** [2s 5c Jc 7d] [5d]
+*** SHOW DOWN ***
+GoliafUa: shows [Jh 9c] (two pair, Jacks and Fives)
+igorkabmw: shows [Kc Tc] (a pair of Fives)
+GoliafUa collected $5.88 from pot
+igorkabmw leaves the table
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [2s 5c Jc 7d 5d]
+Seat 1: igorkabmw (button) (small blind) showed [Kc Tc] and lost with a pair of Fives
+Seat 5: GoliafUa (big blind) showed [Jh 9c] and won ($5.88) with two pair, Jacks and Fives
+
+
+PokerStars Hand #175428347393:  Hold'em Limit ($3/$6 USD) - 2017/09/09 16:28:53 ET
+Table 'Agrius' 6-max Seat #5 is the button
+Seat 4: vestimokrec ($122.02 in chips)
+Seat 5: Mempacher ($126.12 in chips)
+Mempacher: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+Mempacher: folds
+Uncalled bet ($2) returned to vestimokrec
+vestimokrec collected $2 from pot
+vestimokrec: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: vestimokrec (big blind) collected ($2)
+Seat 5: Mempacher (button) (small blind) folded before Flop
+
+
+PokerStars Hand #175428353044:  Hold'em Limit ($3/$6 USD) - 2017/09/09 16:29:00 ET
+Table 'Agrius' 6-max Seat #4 is the button
+Seat 4: vestimokrec ($123.02 in chips)
+Seat 5: Mempacher ($125.12 in chips)
+vestimokrec: posts small blind $1
+Mempacher: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+Mempacher: calls $3
+*** FLOP *** [8s Qd 6c]
+Mempacher: checks
+vestimokrec: checks
+*** TURN *** [8s Qd 6c] [2c]
+Mempacher: checks
+vestimokrec: checks
+*** RIVER *** [8s Qd 6c 2c] [3c]
+Mempacher: bets $6
+vestimokrec: folds
+Uncalled bet ($6) returned to Mempacher
+Mempacher collected $11.76 from pot
+Mempacher: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8s Qd 6c 2c 3c]
+Seat 4: vestimokrec (button) (small blind) folded on the River
+Seat 5: Mempacher (big blind) collected ($11.76)
+
+

@@ -1,0 +1,73 @@
+PokerStars Hand #170488456997:  Hold'em Limit ($3/$6 USD) - 2017/05/16 7:46:14 ET
+Table 'Tombaugh II' 6-max Seat #2 is the button
+Seat 2: sim5sim5 ($72 in chips)
+Seat 3: Helseløs ($41.85 in chips)
+Actionni13 joins the table at seat #5
+sim5sim5: posts small blind $1
+Helseløs: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+Helseløs: folds
+Uncalled bet ($3) returned to sim5sim5
+sim5sim5 collected $6 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: sim5sim5 (button) (small blind) collected ($6)
+Seat 3: Helseløs (big blind) folded before Flop
+
+
+PokerStars Hand #170488477748:  Hold'em Limit ($3/$6 USD) - 2017/05/16 7:46:59 ET
+Table 'Tombaugh II' 6-max Seat #5 is the button
+Seat 3: Helseløs ($29.85 in chips)
+Seat 5: Actionni13 ($158.46 in chips)
+Actionni13: posts small blind $1
+sim5sim5: is sitting out
+Helseløs: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+Helseløs: raises $3 to $9
+Actionni13: calls $3
+*** FLOP *** [3h 6h Qh]
+Helseløs: checks
+Actionni13: bets $3
+Helseløs: folds
+Uncalled bet ($3) returned to Actionni13
+Actionni13 collected $17.64 from pot
+Actionni13: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3h 6h Qh]
+Seat 3: Helseløs (big blind) folded on the Flop
+Seat 5: Actionni13 (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #170488483311:  Hold'em Limit ($3/$6 USD) - 2017/05/16 7:47:10 ET
+Table 'Tombaugh II' 6-max Seat #3 is the button
+Seat 3: Helseløs ($20.85 in chips)
+Seat 5: Actionni13 ($167.10 in chips)
+Helseløs: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+Helseløs: raises $3 to $6
+Actionni13: calls $3
+*** FLOP *** [9h 7c Ac]
+Actionni13: checks
+Helseløs: bets $3
+Actionni13: calls $3
+*** TURN *** [9h 7c Ac] [Td]
+Actionni13: bets $6
+Helseløs: raises $5.85 to $11.85 and is all-in
+Actionni13: calls $5.85
+*** RIVER *** [9h 7c Ac Td] [Qs]
+*** SHOW DOWN ***
+Actionni13: shows [9s Kh] (a pair of Nines)
+Helseløs: shows [9d 2d] (a pair of Nines - lower kicker)
+Actionni13 collected $41.20 from pot
+*** SUMMARY ***
+Total pot $41.70 | Rake $0.50
+Board [9h 7c Ac Td Qs]
+Seat 3: Helseløs (button) (small blind) showed [9d 2d] and lost with a pair of Nines
+Seat 5: Actionni13 (big blind) showed [9s Kh] and won ($41.20) with a pair of Nines
+
+

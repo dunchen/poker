@@ -1,0 +1,62 @@
+PokerStars Hand #171553630474:  Hold'em Limit ($3/$6 USD) - 2017/06/09 12:35:42 ET
+Table 'Ljuba' 6-max Seat #4 is the button
+Seat 4: TbIP-TbIP 88 ($72 in chips)
+Seat 5: popesxxx ($31.54 in chips)
+TbIP-TbIP 88: posts small blind $1
+popesxxx: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88: raises $3 to $6
+popesxxx: calls $3
+*** FLOP *** [8h 9h 3h]
+popesxxx: checks
+TbIP-TbIP 88: bets $3
+vestimokrec joins the table at seat #6
+popesxxx: calls $3
+*** TURN *** [8h 9h 3h] [6c]
+popesxxx: checks
+TbIP-TbIP 88: checks
+*** RIVER *** [8h 9h 3h 6c] [9s]
+popesxxx: bets $6
+TbIP-TbIP 88: calls $6
+*** SHOW DOWN ***
+popesxxx: shows [8c 5c] (two pair, Nines and Eights)
+TbIP-TbIP 88: mucks hand
+popesxxx collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8h 9h 3h 6c 9s]
+Seat 4: TbIP-TbIP 88 (button) (small blind) mucked
+Seat 5: popesxxx (big blind) showed [8c 5c] and won ($29.50) with two pair, Nines and Eights
+
+
+PokerStars Hand #171554741517:  Hold'em Limit ($3/$6 USD) - 2017/06/09 13:05:34 ET
+Table 'Ljuba' 6-max Seat #5 is the button
+Seat 3: verde7 ($51.02 in chips)
+Seat 5: vestimokrec ($180.86 in chips)
+vestimokrec: posts small blind $1
+verde7: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+verde7: calls $3
+*** FLOP *** [Ad 2d Qh]
+verde7: checks
+vestimokrec: bets $3
+verde7: calls $3
+*** TURN *** [Ad 2d Qh] [Ts]
+verde7: checks
+vestimokrec: bets $6
+verde7: calls $6
+*** RIVER *** [Ad 2d Qh Ts] [6h]
+verde7: checks
+vestimokrec: checks
+*** SHOW DOWN ***
+verde7: shows [Qc 5s] (a pair of Queens)
+vestimokrec: mucks hand
+verde7 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ad 2d Qh Ts 6h]
+Seat 3: verde7 (big blind) showed [Qc 5s] and won ($29.50) with a pair of Queens
+Seat 5: vestimokrec (button) (small blind) mucked
+
+

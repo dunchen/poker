@@ -1,0 +1,32 @@
+PokerStars Hand #159576382242:  Hold'em Limit ($3/$6 USD) - 2016/10/06 19:12:42 ET
+Table 'Chrysothemis' 6-max Seat #1 is the button
+Seat 1: KHASHIMOV M ($60 in chips)
+Seat 4: Actionni13 ($150 in chips)
+KHASHIMOV M: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+KHASHIMOV M: raises $3 to $6
+Actionni13: calls $3
+*** FLOP *** [Tc 2d 7c]
+ThePredator9 joins the table at seat #6
+Actionni13: checks
+KHASHIMOV M: checks
+*** TURN *** [Tc 2d 7c] [8d]
+Actionni13: bets $6
+KHASHIMOV M: raises $6 to $12
+Actionni13: calls $6
+*** RIVER *** [Tc 2d 7c 8d] [9d]
+Actionni13: bets $6
+KHASHIMOV M: calls $6
+*** SHOW DOWN ***
+Actionni13: shows [6h 2h] (a straight, Six to Ten)
+KHASHIMOV M: mucks hand
+ToDaFelt joins the table at seat #2
+Actionni13 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Tc 2d 7c 8d 9d]
+Seat 1: KHASHIMOV M (button) (small blind) mucked
+Seat 4: Actionni13 (big blind) showed [6h 2h] and won ($47.50) with a straight, Six to Ten
+
+

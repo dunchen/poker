@@ -1,0 +1,32 @@
+PokerStars Hand #149436136849:  Hold'em Limit ($3/$6 USD) - 2016/02/26 7:11:52 ET
+Table 'Hungaria III' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 3: Jatha09 ($120 in chips)
+VolkovDmitri: posts small blind $1
+Jatha09: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl joins the table at seat #4
+VolkovDmitri: raises $3 to $6
+Jatha09: calls $3
+*** FLOP *** [6c 5d 7c]
+Jatha09: checks
+VolkovDmitri: bets $3
+Jatha09: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [6c 5d 7c] [3h]
+Jatha09: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [6c 5d 7c 3h] [Jd]
+Jatha09: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+Jatha09: shows [7h 3c] (two pair, Sevens and Threes)
+VolkovDmitri: mucks hand
+Jatha09 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [6c 5d 7c 3h Jd]
+Seat 1: VolkovDmitri (button) (small blind) mucked
+Seat 3: Jatha09 (big blind) showed [7h 3c] and won ($47.50) with two pair, Sevens and Threes
+
+

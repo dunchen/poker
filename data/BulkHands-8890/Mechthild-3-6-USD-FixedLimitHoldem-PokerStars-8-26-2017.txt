@@ -1,0 +1,76 @@
+PokerStars Hand #174836903390:  Hold'em Limit ($3/$6 USD) - 2017/08/26 19:24:07 ET
+Table 'Mechthild' 6-max Seat #3 is the button
+Seat 3: igmade ($100 in chips)
+Seat 4: Great_Kang ($120 in chips)
+igmade: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+igmade: raises $3 to $6
+Great_Kang: calls $3
+*** FLOP *** [8d 4d 3s]
+Great_Kang: checks
+igmade: checks
+*** TURN *** [8d 4d 3s] [Qd]
+Great_Kang: checks
+igmade: bets $6
+Great_Kang: folds
+Uncalled bet ($6) returned to igmade
+igmade collected $11.76 from pot
+igmade: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8d 4d 3s Qd]
+Seat 3: igmade (button) (small blind) collected ($11.76)
+Seat 4: Great_Kang (big blind) folded on the Turn
+
+
+PokerStars Hand #174836922102:  Hold'em Limit ($3/$6 USD) - 2017/08/26 19:24:42 ET
+Table 'Mechthild' 6-max Seat #3 is the button
+Seat 3: igmade ($132.26 in chips)
+Seat 4: Great_Kang ($120 in chips)
+igmade: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+igmade: folds
+Uncalled bet ($2) returned to Great_Kang
+Great_Kang collected $2 from pot
+Great_Kang: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: igmade (button) (small blind) folded before Flop
+Seat 4: Great_Kang (big blind) collected ($2)
+
+
+PokerStars Hand #174836912254:  Hold'em Limit ($3/$6 USD) - 2017/08/26 19:24:23 ET
+Table 'Mechthild' 6-max Seat #4 is the button
+Seat 3: igmade ($105.76 in chips)
+Seat 4: Great_Kang ($120 in chips)
+SLK500 joins the table at seat #1
+Great_Kang: posts small blind $1
+igmade: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+igmade: calls $3
+*** FLOP *** [3d 9s 3s]
+igmade: checks
+Great_Kang: bets $3
+igmade: calls $3
+*** TURN *** [3d 9s 3s] [8c]
+igmade: checks
+Great_Kang: bets $6
+igmade: raises $6 to $12
+Great_Kang: calls $6
+*** RIVER *** [3d 9s 3s 8c] [7d]
+igmade: bets $6
+Great_Kang: calls $6
+*** SHOW DOWN ***
+igmade: shows [3h Js] (three of a kind, Threes)
+Great_Kang: mucks hand
+igmade collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [3d 9s 3s 8c 7d]
+Seat 3: igmade (big blind) showed [3h Js] and won ($53.50) with three of a kind, Threes
+Seat 4: Great_Kang (button) (small blind) mucked
+
+

@@ -1,0 +1,35 @@
+PokerStars Hand #145019830850:  Hold'em Limit ($3/$6 USD) - 2015/12/08 9:35:47 ET
+Table 'Alcor II' 6-max Seat #5 is the button
+Seat 4: TbIP-TbIP 88 ($72 in chips)
+Seat 5: artiZzt ($72 in chips)
+artiZzt: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+hvegten leaves the table
+artiZzt: raises $3 to $6
+TbIP-TbIP 88: calls $3
+*** FLOP *** [8s Jh 4d]
+TbIP-TbIP 88: checks
+artiZzt: bets $3
+TbIP-TbIP 88: raises $3 to $6
+artiZzt: calls $3
+*** TURN *** [8s Jh 4d] [7c]
+TbIP-TbIP 88: bets $6
+artiZzt: raises $6 to $12
+TbIP-TbIP 88: raises $6 to $18
+artiZzt: calls $6
+*** RIVER *** [8s Jh 4d 7c] [3c]
+TbIP-TbIP 88: bets $6
+artiZzt: raises $6 to $12
+TbIP-TbIP 88: calls $6
+*** SHOW DOWN ***
+artiZzt: shows [9h Th] (a straight, Seven to Jack)
+TbIP-TbIP 88: mucks hand
+artiZzt collected $83.50 from pot
+*** SUMMARY ***
+Total pot $84 | Rake $0.50
+Board [8s Jh 4d 7c 3c]
+Seat 4: TbIP-TbIP 88 (big blind) mucked
+Seat 5: artiZzt (button) (small blind) showed [9h Th] and won ($83.50) with a straight, Seven to Jack
+
+

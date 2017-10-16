@@ -1,0 +1,111 @@
+PokerStars Hand #160429632525:  Hold'em Limit ($3/$6 USD) - 2016/10/25 15:03:19 ET
+Table 'Benetnash' 6-max Seat #1 is the button
+Seat 1: AzureCaper ($72 in chips)
+Seat 6: HAOYUN88888 ($60 in chips)
+liza3008 joins the table at seat #3
+hairy1961 joins the table at seat #2
+xxRGx joins the table at seat #4
+GoliafUa: is sitting out
+AzureCaper: posts small blind $1
+HAOYUN88888: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+HAOYUN88888: calls $3
+*** FLOP *** [8s 2h 4d]
+HAOYUN88888: checks
+AzureCaper: bets $3
+GoliafUa leaves the table
+HAOYUN88888: raises $3 to $6
+kolaz03 joins the table at seat #5
+AzureCaper: calls $3
+*** TURN *** [8s 2h 4d] [5d]
+HAOYUN88888: bets $6
+AzureCaper: calls $6
+*** RIVER *** [8s 2h 4d 5d] [3s]
+HAOYUN88888: checks
+AzureCaper: bets $6
+HAOYUN88888: folds
+Uncalled bet ($6) returned to AzureCaper
+AzureCaper collected $35.50 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [8s 2h 4d 5d 3s]
+Seat 1: AzureCaper (button) (small blind) collected ($35.50)
+Seat 6: HAOYUN88888 (big blind) folded on the River
+
+
+PokerStars Hand #160429674087:  Hold'em Limit ($3/$6 USD) - 2016/10/25 15:04:05 ET
+Table 'Benetnash' 6-max Seat #6 is the button
+Seat 1: AzureCaper ($89.50 in chips)
+Seat 6: HAOYUN88888 ($42 in chips)
+HAOYUN88888: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+HAOYUN88888: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [3d Ad Kc]
+AzureCaper: checks
+HAOYUN88888: bets $3
+AzureCaper: folds
+Uncalled bet ($3) returned to HAOYUN88888
+HAOYUN88888 collected $11.76 from pot
+HAOYUN88888: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3d Ad Kc]
+Seat 1: AzureCaper (big blind) folded on the Flop
+Seat 6: HAOYUN88888 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #160431204330:  Hold'em Limit ($3/$6 USD) - 2016/10/25 15:30:39 ET
+Table 'Benetnash' 6-max Seat #6 is the button
+Seat 5: Longstaaf ($6 in chips)
+Seat 6: Psynto ($125.30 in chips)
+Psynto: posts small blind $1
+Longstaaf: posts big blind $3
+*** HOLE CARDS ***
+Psynto: raises $3 to $6
+Longstaaf: calls $3 and is all-in
+*** FLOP *** [Th 6d 5d]
+*** TURN *** [Th 6d 5d] [4h]
+*** RIVER *** [Th 6d 5d 4h] [2s]
+*** SHOW DOWN ***
+Longstaaf: shows [6c Qd] (a pair of Sixes)
+Psynto: shows [Js 5h] (a pair of Fives)
+Longstaaf collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Th 6d 5d 4h 2s]
+Seat 5: Longstaaf (big blind) showed [6c Qd] and won ($11.76) with a pair of Sixes
+Seat 6: Psynto (button) (small blind) showed [Js 5h] and lost with a pair of Fives
+
+
+PokerStars Hand #160431216732:  Hold'em Limit ($3/$6 USD) - 2016/10/25 15:30:52 ET
+Table 'Benetnash' 6-max Seat #5 is the button
+Seat 5: Longstaaf ($11.76 in chips)
+Seat 6: Psynto ($119.30 in chips)
+Longstaaf: posts small blind $1
+Psynto: posts big blind $3
+*** HOLE CARDS ***
+Longstaaf: calls $2
+Psynto: raises $3 to $6
+TinaTurner72 leaves the table
+Longstaaf: calls $3
+*** FLOP *** [4s Tc Ts]
+Psynto: bets $3
+Longstaaf: raises $2.76 to $5.76 and is all-in
+Psynto: calls $2.76
+*** TURN *** [4s Tc Ts] [2c]
+*** RIVER *** [4s Tc Ts 2c] [Ad]
+*** SHOW DOWN ***
+Psynto: shows [2s 2d] (a full house, Deuces full of Tens)
+Longstaaf: shows [9c Qs] (a pair of Tens)
+Psynto collected $23.05 from pot
+*** SUMMARY ***
+Total pot $23.52 | Rake $0.47
+Board [4s Tc Ts 2c Ad]
+Seat 5: Longstaaf (button) (small blind) showed [9c Qs] and lost with a pair of Tens
+Seat 6: Psynto (big blind) showed [2s 2d] and won ($23.05) with a full house, Deuces full of Tens
+
+

@@ -1,0 +1,31 @@
+PokerStars Hand #164042458459:  Hold'em Limit ($3/$6 USD) - 2017/01/04 16:50:11 ET
+Table 'Requiem' 6-max Seat #5 is the button
+Seat 3: conkeroo ($99 in chips)
+Seat 5: dragon1893 ($170.50 in chips)
+dragon1893: posts small blind $1
+conkeroo: posts big blind $3
+*** HOLE CARDS ***
+dragon1893: raises $3 to $6
+conkeroo: calls $3
+*** FLOP *** [Jh 4d 7s]
+conkeroo: checks
+dragon1893: bets $3
+conkeroo: raises $3 to $6
+dragon1893: calls $3
+*** TURN *** [Jh 4d 7s] [6s]
+conkeroo: bets $6
+dragon1893: calls $6
+*** RIVER *** [Jh 4d 7s 6s] [Ks]
+conkeroo: checks
+dragon1893: checks
+*** SHOW DOWN ***
+conkeroo: shows [4h 9d] (a pair of Fours)
+dragon1893: mucks hand
+conkeroo collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Jh 4d 7s 6s Ks]
+Seat 3: conkeroo (big blind) showed [4h 9d] and won ($35.50) with a pair of Fours
+Seat 5: dragon1893 (button) (small blind) mucked
+
+

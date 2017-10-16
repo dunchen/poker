@@ -1,0 +1,109 @@
+PokerStars Hand #176892666283:  Hold'em Limit ($3/$6 USD) - 2017/10/14 4:17:39 ET
+Table 'Tros' 6-max Seat #1 is the button
+Seat 1: BelSv ($78 in chips)
+Seat 3: breich90 ($175.76 in chips)
+BelSv: posts small blind $1
+breich90: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+igorkabmw leaves the table
+breich90: folds
+Uncalled bet ($3) returned to BelSv
+BelSv collected $6 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: BelSv (button) (small blind) collected ($6)
+Seat 3: breich90 (big blind) folded before Flop
+
+
+PokerStars Hand #176892941283:  Hold'em Limit ($3/$6 USD) - 2017/10/14 4:32:03 ET
+Table 'Tros' 6-max Seat #3 is the button
+Seat 3: vitamin168 ($30 in chips)
+Seat 4: BelSv ($78 in chips)
+vitamin168: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+vitamin168: raises $3 to $6
+BelSv: calls $3
+*** FLOP *** [8c 4c 4d]
+BelSv: checks
+vitamin168: bets $3
+BelSv: calls $3
+*** TURN *** [8c 4c 4d] [Qd]
+BelSv: checks
+vitamin168: bets $6
+BelSv: raises $6 to $12
+vitamin168: raises $6 to $18
+BelSv: raises $6 to $24
+Betting is capped
+vitamin168: calls $3 and is all-in
+Uncalled bet ($3) returned to BelSv
+*** RIVER *** [8c 4c 4d Qd] [3c]
+*** SHOW DOWN ***
+BelSv: shows [2d 4s] (three of a kind, Fours)
+vitamin168: shows [Qs Js] (two pair, Queens and Fours)
+BelSv collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [8c 4c 4d Qd 3c]
+Seat 3: vitamin168 (button) (small blind) showed [Qs Js] and lost with two pair, Queens and Fours
+Seat 4: BelSv (big blind) showed [2d 4s] and won ($59.50) with three of a kind, Fours
+
+
+PokerStars Hand #176892981174:  Hold'em Limit ($3/$6 USD) - 2017/10/14 4:34:07 ET
+Table 'Tros' 6-max Seat #4 is the button
+Seat 3: vitamin168 ($30 in chips)
+Seat 4: BelSv ($107.50 in chips)
+BelSv: posts small blind $1
+vitamin168: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+vitamin168: calls $3
+*** FLOP *** [2h 9s 4s]
+vitamin168: checks
+BelSv: bets $3
+vitamin168: raises $3 to $6
+BelSv: calls $3
+*** TURN *** [2h 9s 4s] [Qc]
+vitamin168: bets $6
+BelSv: raises $6 to $12
+vitamin168: folds
+Uncalled bet ($6) returned to BelSv
+BelSv collected $35.50 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [2h 9s 4s Qc]
+Seat 3: vitamin168 (big blind) folded on the Turn
+Seat 4: BelSv (button) (small blind) collected ($35.50)
+
+
+PokerStars Hand #176892986279:  Hold'em Limit ($3/$6 USD) - 2017/10/14 4:34:24 ET
+Table 'Tros' 6-max Seat #3 is the button
+Seat 3: vitamin168 ($12 in chips)
+Seat 4: BelSv ($125 in chips)
+vitamin168: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+vitamin168: raises $3 to $6
+BelSv: calls $3
+*** FLOP *** [Jc Qh Jd]
+BelSv: checks
+vitamin168: bets $3
+BelSv: raises $3 to $6
+vitamin168: calls $3 and is all-in
+*** TURN *** [Jc Qh Jd] [5d]
+*** RIVER *** [Jc Qh Jd 5d] [Ks]
+*** SHOW DOWN ***
+BelSv: shows [Js 5c] (a full house, Jacks full of Fives)
+vitamin168: shows [8c 9c] (a pair of Jacks)
+vitamin168 leaves the table
+BelSv collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Jc Qh Jd 5d Ks]
+Seat 3: vitamin168 (button) (small blind) showed [8c 9c] and lost with a pair of Jacks
+Seat 4: BelSv (big blind) showed [Js 5c] and won ($23.52) with a full house, Jacks full of Fives
+
+

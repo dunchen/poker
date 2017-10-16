@@ -1,0 +1,68 @@
+PokerStars Hand #146984274681:  Hold'em Limit ($3/$6 USD) - 2016/01/13 15:02:02 ET
+Table 'Pecker II' 6-max Seat #2 is the button
+Seat 2: lelala ($92.71 in chips)
+Seat 3: PelonCabelao ($106.38 in chips)
+lelala: posts small blind $1
+PelonCabelao: posts big blind $3
+*** HOLE CARDS ***
+lelala: raises $3 to $6
+PelonCabelao: calls $3
+*** FLOP *** [7s Kc Qs]
+sussie118 joins the table at seat #1
+PelonCabelao: checks
+lelala: bets $3
+PelonCabelao: raises $3 to $6
+SashaYuvelir joins the table at seat #5
+lelala: raises $3 to $9
+PelonCabelao: raises $3 to $12
+Betting is capped
+lelala: calls $3
+*** TURN *** [7s Kc Qs] [3c]
+PelonCabelao: bets $6
+lelala: calls $6
+*** RIVER *** [7s Kc Qs 3c] [Jc]
+Thidy14 joins the table at seat #6
+PelonCabelao: bets $6
+lelala: folds
+Uncalled bet ($6) returned to PelonCabelao
+PelonCabelao collected $47.50 from pot
+PelonCabelao: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7s Kc Qs 3c Jc]
+Seat 2: lelala (button) (small blind) folded on the River
+Seat 3: PelonCabelao (big blind) collected ($47.50)
+
+
+PokerStars Hand #146984250855:  Hold'em Limit ($3/$6 USD) - 2016/01/13 15:01:38 ET
+Table 'Pecker II' 6-max Seat #3 is the button
+Seat 2: lelala ($101.71 in chips)
+Seat 3: PelonCabelao ($97.74 in chips)
+PelonCabelao: posts small blind $1
+VolkovDmitri: is sitting out
+lelala: posts big blind $3
+*** HOLE CARDS ***
+PelonCabelao: raises $3 to $6
+lelala: calls $3
+*** FLOP *** [4c 8s 2d]
+lelala: checks
+PelonCabelao: bets $3
+lelala: calls $3
+*** TURN *** [4c 8s 2d] [7s]
+lelala: checks
+VolkovDmitri leaves the table
+PelonCabelao: checks
+*** RIVER *** [4c 8s 2d 7s] [Ad]
+lelala: checks
+PelonCabelao: checks
+*** SHOW DOWN ***
+lelala: shows [Js Tc] (high card Ace)
+PelonCabelao: shows [2h Qs] (a pair of Deuces)
+PelonCabelao collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4c 8s 2d 7s Ad]
+Seat 2: lelala (big blind) showed [Js Tc] and lost with high card Ace
+Seat 3: PelonCabelao (button) (small blind) showed [2h Qs] and won ($17.64) with a pair of Deuces
+
+

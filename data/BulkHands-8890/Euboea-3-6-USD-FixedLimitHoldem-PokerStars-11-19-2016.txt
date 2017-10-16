@@ -1,0 +1,35 @@
+PokerStars Hand #161638353168:  Hold'em Limit ($3/$6 USD) - 2016/11/19 10:15:09 ET
+Table 'Euboea' 10-max Seat #1 is the button
+Seat 1: LifeisagameX ($84 in chips)
+Seat 2: old-officer ($39.22 in chips)
+LifeisagameX: posts small blind $1
+old-officer: posts big blind $3
+*** HOLE CARDS ***
+ZinZar joins the table at seat #3
+LifeisagameX: raises $3 to $6
+old-officer: raises $3 to $9
+LifeisagameX: calls $3
+*** FLOP *** [7c Js 7s]
+old-officer: bets $3
+LifeisagameX: calls $3
+*** TURN *** [7c Js 7s] [Ad]
+old-officer: bets $6
+LifeisagameX: raises $6 to $12
+old-officer: raises $6 to $18
+LifeisagameX: calls $6
+*** RIVER *** [7c Js 7s Ad] [Tc]
+old-officer: bets $6
+LifeisagameX: raises $6 to $12
+old-officer: calls $3.22 and is all-in
+Uncalled bet ($2.78) returned to LifeisagameX
+*** SHOW DOWN ***
+LifeisagameX: shows [7h 4h] (three of a kind, Sevens)
+old-officer: shows [2c Kh] (a pair of Sevens)
+LifeisagameX collected $77.94 from pot
+*** SUMMARY ***
+Total pot $78.44 | Rake $0.50
+Board [7c Js 7s Ad Tc]
+Seat 1: LifeisagameX (button) (small blind) showed [7h 4h] and won ($77.94) with three of a kind, Sevens
+Seat 2: old-officer (big blind) showed [2c Kh] and lost with a pair of Sevens
+
+

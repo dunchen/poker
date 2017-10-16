@@ -1,0 +1,53 @@
+PokerStars Hand #167375888086:  Hold'em Limit ($3/$6 USD) - 2017/03/10 6:11:02 ET
+Table 'Admete' 6-max Seat #1 is the button
+Seat 1: deh144 ($32.82 in chips)
+Seat 4: Agrotait ($72 in chips)
+deh144: posts small blind $1
+Ale4o joins the table at seat #2
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+deh144: calls $2
+Agrotait: checks
+*** FLOP *** [Jc Ks 9s]
+Agrotait: checks
+deh144: bets $3
+Agrotait: folds
+Uncalled bet ($3) returned to deh144
+deh144 collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Jc Ks 9s]
+Seat 1: deh144 (button) (small blind) collected ($5.88)
+Seat 4: Agrotait (big blind) folded on the Flop
+
+
+PokerStars Hand #167375895546:  Hold'em Limit ($3/$6 USD) - 2017/03/10 6:11:19 ET
+Table 'Admete' 6-max Seat #4 is the button
+Seat 1: deh144 ($35.70 in chips)
+Seat 4: Agrotait ($69 in chips)
+Agrotait: posts small blind $1
+deh144: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+deh144: calls $3
+*** FLOP *** [5h Jh Ad]
+deh144: checks
+Agrotait: bets $3
+deh144: calls $3
+*** TURN *** [5h Jh Ad] [9s]
+deh144: checks
+Agrotait: checks
+*** RIVER *** [5h Jh Ad 9s] [Th]
+deh144: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+deh144: shows [7d Kd] (high card Ace)
+Agrotait: shows [8s Td] (a pair of Tens)
+Agrotait collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5h Jh Ad 9s Th]
+Seat 1: deh144 (big blind) showed [7d Kd] and lost with high card Ace
+Seat 4: Agrotait (button) (small blind) showed [8s Td] and won ($29.50) with a pair of Tens
+
+

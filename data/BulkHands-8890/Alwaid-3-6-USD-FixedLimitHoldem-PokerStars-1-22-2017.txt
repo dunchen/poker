@@ -1,0 +1,86 @@
+PokerStars Hand #164994794084:  Hold'em Limit ($3/$6 USD) - 2017/01/22 12:39:48 ET
+Table 'Alwaid' 6-max Seat #1 is the button
+Seat 1: downtempo39 ($100 in chips)
+Seat 4: AzureCaper ($72 in chips)
+downtempo39: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+downtempo39: calls $2
+Great_Kang joins the table at seat #2
+AzureCaper: checks
+*** FLOP *** [As 7h 6d]
+AzureCaper: checks
+downtempo39: bets $3
+AzureCaper: calls $3
+*** TURN *** [As 7h 6d] [6c]
+AzureCaper: checks
+downtempo39: checks
+*** RIVER *** [As 7h 6d 6c] [4h]
+AzureCaper: checks
+downtempo39: checks
+*** SHOW DOWN ***
+AzureCaper: shows [Tc 6s] (three of a kind, Sixes)
+downtempo39: mucks hand
+AzureCaper collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [As 7h 6d 6c 4h]
+Seat 1: downtempo39 (button) (small blind) mucked
+Seat 4: AzureCaper (big blind) showed [Tc 6s] and won ($11.76) with three of a kind, Sixes
+
+
+PokerStars Hand #164994819747:  Hold'em Limit ($3/$6 USD) - 2017/01/22 12:40:17 ET
+Table 'Alwaid' 6-max Seat #4 is the button
+Seat 1: downtempo39 ($94 in chips)
+Seat 4: AzureCaper ($77.76 in chips)
+AzureCaper: posts small blind $1
+downtempo39: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+downtempo39: calls $3
+*** FLOP *** [2h 9s 8d]
+downtempo39: checks
+AzureCaper: bets $3
+downtempo39: folds
+Uncalled bet ($3) returned to AzureCaper
+AzureCaper collected $11.76 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2h 9s 8d]
+Seat 1: downtempo39 (big blind) folded on the Flop
+Seat 4: AzureCaper (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #164995581256:  Hold'em Limit ($3/$6 USD) - 2017/01/22 12:52:53 ET
+Table 'Alwaid' 6-max Seat #2 is the button
+Seat 2: Great_Kang ($146.70 in chips)
+Seat 4: AzureCaper ($72 in chips)
+Great_Kang: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+kriso158 leaves the table
+AzureCaper: calls $3
+*** FLOP *** [Jh 5d 8h]
+AzureCaper: checks
+Great_Kang: bets $3
+AzureCaper: calls $3
+*** TURN *** [Jh 5d 8h] [Ks]
+AzureCaper: checks
+Great_Kang: bets $6
+AzureCaper: calls $6
+*** RIVER *** [Jh 5d 8h Ks] [3d]
+AzureCaper: checks
+Great_Kang: bets $6
+AzureCaper: folds
+Uncalled bet ($6) returned to Great_Kang
+Great_Kang collected $29.50 from pot
+Great_Kang: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Jh 5d 8h Ks 3d]
+Seat 2: Great_Kang (button) (small blind) collected ($29.50)
+Seat 4: AzureCaper (big blind) folded on the River
+
+

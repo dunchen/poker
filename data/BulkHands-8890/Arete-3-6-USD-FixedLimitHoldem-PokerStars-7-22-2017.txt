@@ -1,0 +1,87 @@
+PokerStars Hand #173353968723:  Hold'em Limit ($3/$6 USD) - 2017/07/22 7:40:15 ET
+Table 'Arete' 6-max Seat #1 is the button
+Seat 1: vlaprok ($83 in chips)
+Seat 3: bAAchi ($183.98 in chips)
+vlaprok: posts small blind $1
+masterblstr8: is sitting out
+bAAchi: posts big blind $3
+*** HOLE CARDS ***
+vlaprok: raises $3 to $6
+bAAchi: calls $3
+*** FLOP *** [3s 2d 6c]
+bAAchi: checks
+vlaprok: bets $3
+bAAchi: calls $3
+*** TURN *** [3s 2d 6c] [5d]
+bAAchi: checks
+masterblstr8 leaves the table
+vlaprok: checks
+*** RIVER *** [3s 2d 6c 5d] [Jd]
+bAAchi: bets $6
+vlaprok: calls $6
+*** SHOW DOWN ***
+bAAchi: shows [Ks Td] (high card King)
+vlaprok: shows [As Qh] (high card Ace)
+vlaprok collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3s 2d 6c 5d Jd]
+Seat 1: vlaprok (button) (small blind) showed [As Qh] and won ($29.50) with high card Ace
+Seat 3: bAAchi (big blind) showed [Ks Td] and lost with high card King
+
+
+PokerStars Hand #173354464387:  Hold'em Limit ($3/$6 USD) - 2017/07/22 7:58:35 ET
+Table 'Arete' 6-max Seat #3 is the button
+Seat 3: bAAchi ($212.40 in chips)
+Seat 6: KIT426 ($157.41 in chips)
+bAAchi: posts small blind $1
+KIT426: posts big blind $3
+*** HOLE CARDS ***
+bAAchi: raises $3 to $6
+KIT426: calls $3
+*** FLOP *** [9s 8d 6s]
+KIT426: checks
+bAAchi: bets $3
+KIT426: calls $3
+*** TURN *** [9s 8d 6s] [7s]
+KIT426: checks
+bAAchi: checks
+*** RIVER *** [9s 8d 6s 7s] [6h]
+KIT426: checks
+bAAchi: checks
+terrapevt73 joins the table at seat #1
+*** SHOW DOWN ***
+KIT426: shows [5s 6d] (a straight, Five to Nine)
+bAAchi: mucks hand
+KIT426 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9s 8d 6s 7s 6h]
+Seat 3: bAAchi (button) (small blind) mucked
+Seat 6: KIT426 (big blind) showed [5s 6d] and won ($17.64) with a straight, Five to Nine
+
+
+PokerStars Hand #173354454798:  Hold'em Limit ($3/$6 USD) - 2017/07/22 7:58:12 ET
+Table 'Arete' 6-max Seat #6 is the button
+Seat 3: bAAchi ($218.40 in chips)
+Seat 6: KIT426 ($151.65 in chips)
+KIT426: posts small blind $1
+vlaprok: is sitting out
+bAAchi: posts big blind $3
+*** HOLE CARDS ***
+vlaprok leaves the table
+KIT426: raises $3 to $6
+bAAchi: calls $3
+*** FLOP *** [Td 7s Jh]
+bAAchi: checks
+KIT426: bets $3
+bAAchi: folds
+Uncalled bet ($3) returned to KIT426
+KIT426 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Td 7s Jh]
+Seat 3: bAAchi (big blind) folded on the Flop
+Seat 6: KIT426 (button) (small blind) collected ($11.76)
+
+

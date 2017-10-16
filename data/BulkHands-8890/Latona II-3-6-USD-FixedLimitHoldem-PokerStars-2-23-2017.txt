@@ -1,0 +1,88 @@
+PokerStars Hand #166654232026:  Hold'em Limit ($3/$6 USD) - 2017/02/23 11:30:54 ET
+Table 'Latona II' 6-max Seat #6 is the button
+Seat 5: JoeBlack1982 ($258 in chips)
+Seat 6: B_loJkl ($150 in chips)
+B_loJkl: posts small blind $1
+JoeBlack1982: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+JoeBlack1982: raises $3 to $9
+B_loJkl: calls $3
+*** FLOP *** [7c 8s 5h]
+JoeBlack1982: checks
+B_loJkl: bets $3
+JoeBlack1982: calls $3
+*** TURN *** [7c 8s 5h] [Ts]
+JoeBlack1982: checks
+B_loJkl: bets $6
+JoeBlack1982: calls $6
+*** RIVER *** [7c 8s 5h Ts] [Qd]
+JoeBlack1982: checks
+B_loJkl: checks
+*** SHOW DOWN ***
+JoeBlack1982: shows [Kh Ad] (high card Ace)
+B_loJkl: shows [7s Jd] (a pair of Sevens)
+B_loJkl collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [7c 8s 5h Ts Qd]
+Seat 5: JoeBlack1982 (big blind) showed [Kh Ad] and lost with high card Ace
+Seat 6: B_loJkl (button) (small blind) showed [7s Jd] and won ($35.50) with a pair of Sevens
+
+
+PokerStars Hand #166654272542:  Hold'em Limit ($3/$6 USD) - 2017/02/23 11:31:51 ET
+Table 'Latona II' 6-max Seat #6 is the button
+Seat 5: JoeBlack1982 ($245.76 in chips)
+Seat 6: B_loJkl ($161.50 in chips)
+B_loJkl: posts small blind $1
+JoeBlack1982: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+JoeBlack1982: calls $3
+*** FLOP *** [3c 5h 8c]
+JoeBlack1982: checks
+B_loJkl: bets $3
+JoeBlack1982: calls $3
+*** TURN *** [3c 5h 8c] [Tc]
+JoeBlack1982: checks
+B_loJkl: checks
+*** RIVER *** [3c 5h 8c Tc] [8h]
+JoeBlack1982: checks
+B_loJkl: bets $6
+JoeBlack1982: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $17.64 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3c 5h 8c Tc 8h]
+Seat 5: JoeBlack1982 (big blind) folded on the River
+Seat 6: B_loJkl (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #166654251379:  Hold'em Limit ($3/$6 USD) - 2017/02/23 11:31:22 ET
+Table 'Latona II' 6-max Seat #5 is the button
+Seat 5: JoeBlack1982 ($240 in chips)
+Seat 6: B_loJkl ($167.50 in chips)
+JoeBlack1982: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+JoeBlack1982: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [2c Kd Tc]
+B_loJkl: checks
+JoeBlack1982: checks
+*** TURN *** [2c Kd Tc] [Js]
+B_loJkl: checks
+JoeBlack1982: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to JoeBlack1982
+JoeBlack1982 collected $11.76 from pot
+JoeBlack1982: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2c Kd Tc Js]
+Seat 5: JoeBlack1982 (button) (small blind) collected ($11.76)
+Seat 6: B_loJkl (big blind) folded on the Turn
+
+

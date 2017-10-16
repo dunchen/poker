@@ -1,0 +1,83 @@
+PokerStars Hand #171689065664:  Hold'em Limit ($3/$6 USD) - 2017/06/12 14:42:26 ET
+Table 'Concordia' 6-max Seat #3 is the button
+Seat 2: igorkabmw ($47.01 in chips)
+Seat 3: vestimokrec ($136.78 in chips)
+vestimokrec: posts small blind $1
+kolaz03: is sitting out
+igorkabmw: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+kolaz03 leaves the table
+igorkabmw: folds
+Uncalled bet ($3) returned to vestimokrec
+vestimokrec collected $6 from pot
+vestimokrec: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: igorkabmw (big blind) folded before Flop
+Seat 3: vestimokrec (button) (small blind) collected ($6)
+
+
+PokerStars Hand #171689071213:  Hold'em Limit ($3/$6 USD) - 2017/06/12 14:42:33 ET
+Table 'Concordia' 6-max Seat #2 is the button
+Seat 2: igorkabmw ($44.01 in chips)
+Seat 3: vestimokrec ($139.78 in chips)
+igorkabmw: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+igorkabmw: calls $2
+vestimokrec: checks
+*** FLOP *** [Kd Ad 5h]
+vestimokrec: checks
+igorkabmw: checks
+*** TURN *** [Kd Ad 5h] [Th]
+vestimokrec: bets $6
+Ale4o joins the table at seat #4
+igorkabmw: calls $6
+*** RIVER *** [Kd Ad 5h Th] [3s]
+vestimokrec: bets $6
+igorkabmw: calls $6
+*** SHOW DOWN ***
+vestimokrec: shows [5d Ks] (two pair, Kings and Fives)
+igorkabmw: mucks hand
+vestimokrec collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kd Ad 5h Th 3s]
+Seat 2: igorkabmw (button) (small blind) mucked
+Seat 3: vestimokrec (big blind) showed [5d Ks] and won ($29.50) with two pair, Kings and Fives
+
+
+PokerStars Hand #171689136275:  Hold'em Limit ($3/$6 USD) - 2017/06/12 14:43:54 ET
+Table 'Concordia' 6-max Seat #4 is the button
+Seat 2: igorkabmw ($30 in chips)
+Seat 4: Ale4o ($148.24 in chips)
+Ale4o: posts small blind $1
+igorkabmw: posts big blind $3
+*** HOLE CARDS ***
+Ale4o: raises $3 to $6
+igorkabmw: calls $3
+*** FLOP *** [8s 2h 5d]
+igorkabmw: checks
+Ale4o: bets $3
+igorkabmw: calls $3
+*** TURN *** [8s 2h 5d] [Ah]
+igorkabmw: checks
+Ale4o: bets $6
+igorkabmw: calls $6
+*** RIVER *** [8s 2h 5d Ah] [3d]
+igorkabmw: checks
+Ale4o: bets $6
+igorkabmw: raises $6 to $12
+Ale4o: calls $6
+*** SHOW DOWN ***
+igorkabmw: shows [9h 4s] (a straight, Ace to Five)
+Ale4o: mucks hand
+igorkabmw collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [8s 2h 5d Ah 3d]
+Seat 2: igorkabmw (big blind) showed [9h 4s] and won ($53.50) with a straight, Ace to Five
+Seat 4: Ale4o (button) (small blind) mucked
+
+

@@ -1,0 +1,117 @@
+PokerStars Hand #163358938101:  Hold'em Limit ($3/$6 USD) - 2016/12/22 15:57:15 ET
+Table 'Echion' 6-max Seat #6 is the button
+Seat 1: kolaz03 ($72 in chips)
+Seat 6: allexso ($55.64 in chips)
+allexso: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+allexso: calls $2
+kolaz03: raises $3 to $6
+allexso: calls $3
+*** FLOP *** [3s 4s 8d]
+ToDaFelt joins the table at seat #4
+kolaz03: bets $3
+allexso: calls $3
+*** TURN *** [3s 4s 8d] [Jc]
+kolaz03: bets $6
+allexso: calls $6
+*** RIVER *** [3s 4s 8d Jc] [Tc]
+kolaz03: checks
+allexso: bets $6
+Hannibal2211 joins the table at seat #3
+kolaz03: calls $6
+*** SHOW DOWN ***
+allexso: shows [9d As] (high card Ace)
+kolaz03: shows [Kd 4d] (a pair of Fours)
+kolaz03 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [3s 4s 8d Jc Tc]
+Seat 1: kolaz03 (big blind) showed [Kd 4d] and won ($41.50) with a pair of Fours
+Seat 6: allexso (button) (small blind) showed [9d As] and lost with high card Ace
+
+
+PokerStars Hand #163359281712:  Hold'em Limit ($3/$6 USD) - 2016/12/22 16:03:45 ET
+Table 'Echion' 6-max Seat #3 is the button
+Seat 3: Hannibal2211 ($139.53 in chips)
+Seat 4: hairy1961 ($50 in chips)
+Hannibal2211: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa leaves the table
+Hannibal2211: raises $3 to $6
+hairy1961: calls $3
+*** FLOP *** [7c 2h Kd]
+hairy1961: bets $3
+Hannibal2211: calls $3
+*** TURN *** [7c 2h Kd] [4s]
+hairy1961: checks
+kolaz03 joins the table at seat #5
+allexso leaves the table
+Hannibal2211: checks
+*** RIVER *** [7c 2h Kd 4s] [3s]
+hairy1961: bets $6
+Hannibal2211: calls $6
+*** SHOW DOWN ***
+hairy1961: shows [Qh Td] (high card King)
+Hannibal2211: shows [As 8s] (high card Ace)
+Hannibal2211 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7c 2h Kd 4s 3s]
+Seat 3: Hannibal2211 (button) (small blind) showed [As 8s] and won ($29.50) with high card Ace
+Seat 4: hairy1961 (big blind) showed [Qh Td] and lost with high card King
+
+
+PokerStars Hand #163363692647:  Hold'em Limit ($3/$6 USD) - 2016/12/22 17:21:29 ET
+Table 'Echion' 6-max Seat #4 is the button
+Seat 4: RaisemyNut$ ($103.31 in chips)
+Seat 5: grunervelt ($140.55 in chips)
+RaisemyNut$: posts small blind $1
+grunervelt: posts big blind $3
+*** HOLE CARDS ***
+RaisemyNut$: raises $3 to $6
+grunervelt: raises $3 to $9
+RaisemyNut$: calls $3
+*** FLOP *** [7s 9c 4d]
+grunervelt: checks
+RaisemyNut$: bets $3
+grunervelt: calls $3
+*** TURN *** [7s 9c 4d] [2c]
+grunervelt: checks
+RaisemyNut$: bets $6
+grunervelt: calls $6
+*** RIVER *** [7s 9c 4d 2c] [4h]
+grunervelt: checks
+RaisemyNut$: bets $6
+grunervelt: calls $6
+*** SHOW DOWN ***
+RaisemyNut$: shows [Th 9h] (two pair, Nines and Fours)
+grunervelt: mucks hand
+RaisemyNut$ collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7s 9c 4d 2c 4h]
+Seat 4: RaisemyNut$ (button) (small blind) showed [Th 9h] and won ($47.50) with two pair, Nines and Fours
+Seat 5: grunervelt (big blind) mucked
+
+
+PokerStars Hand #163363686221:  Hold'em Limit ($3/$6 USD) - 2016/12/22 17:21:22 ET
+Table 'Echion' 6-max Seat #5 is the button
+Seat 4: RaisemyNut$ ($102.31 in chips)
+Seat 5: grunervelt ($141.55 in chips)
+grunervelt: posts small blind $1
+ToDaFelt: is sitting out
+RaisemyNut$: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt leaves the table
+grunervelt: folds
+Uncalled bet ($2) returned to RaisemyNut$
+RaisemyNut$ collected $2 from pot
+RaisemyNut$: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: RaisemyNut$ (big blind) collected ($2)
+Seat 5: grunervelt (button) (small blind) folded before Flop
+
+

@@ -1,0 +1,33 @@
+PokerStars Hand #145623912343:  Hold'em Limit ($3/$6 USD) - 2015/12/20 5:12:24 ET
+Table 'Tiflis' 6-max Seat #2 is the button
+Seat 2: julenchu ($76.16 in chips)
+Seat 6: TerryBelle ($68.74 in chips)
+julenchu: posts small blind $1
+TbIP-TbIP 88: is sitting out
+TerryBelle: posts big blind $3
+*** HOLE CARDS ***
+julenchu: raises $3 to $6
+TerryBelle: raises $3 to $9
+julenchu: calls $3
+*** FLOP *** [7c 3h Qd]
+TerryBelle: bets $3
+julenchu: calls $3
+*** TURN *** [7c 3h Qd] [Qs]
+TerryBelle: bets $6
+julenchu: raises $6 to $12
+TerryBelle: calls $6
+*** RIVER *** [7c 3h Qd Qs] [9s]
+TerryBelle: checks
+julenchu: bets $6
+TerryBelle: calls $6
+*** SHOW DOWN ***
+julenchu: shows [3d 3s] (a full house, Threes full of Queens)
+TerryBelle: mucks hand
+julenchu collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [7c 3h Qd Qs 9s]
+Seat 2: julenchu (button) (small blind) showed [3d 3s] and won ($59.50) with a full house, Threes full of Queens
+Seat 6: TerryBelle (big blind) mucked
+
+

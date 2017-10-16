@@ -1,0 +1,58 @@
+PokerStars Hand #163990829661:  Hold'em Limit ($3/$6 USD) - 2017/01/03 17:32:04 ET
+Table 'Henyey' 6-max Seat #4 is the button
+Seat 1: davyyyyyyy ($131.52 in chips)
+Seat 4: Actionni13 ($150 in chips)
+Actionni13: posts small blind $1
+davyyyyyyy: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+davyyyyyyy: calls $3
+*** FLOP *** [8h Qc 2c]
+davyyyyyyy: checks
+Actionni13: bets $3
+davyyyyyyy: raises $3 to $6
+Actionni13: calls $3
+*** TURN *** [8h Qc 2c] [2h]
+davyyyyyyy: bets $6
+Actionni13: calls $6
+*** RIVER *** [8h Qc 2c 2h] [Kd]
+davyyyyyyy: bets $6
+Actionni13: calls $6
+*** SHOW DOWN ***
+davyyyyyyy: shows [8s 6c] (two pair, Eights and Deuces)
+Actionni13: mucks hand
+davyyyyyyy collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8h Qc 2c 2h Kd]
+Seat 1: davyyyyyyy (big blind) showed [8s 6c] and won ($47.50) with two pair, Eights and Deuces
+Seat 4: Actionni13 (button) (small blind) mucked
+
+
+PokerStars Hand #163990805068:  Hold'em Limit ($3/$6 USD) - 2017/01/03 17:31:39 ET
+Table 'Henyey' 6-max Seat #1 is the button
+Seat 1: davyyyyyyy ($120 in chips)
+Seat 4: Actionni13 ($150 in chips)
+davyyyyyyy: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl joins the table at seat #2
+davyyyyyyy: raises $3 to $6
+Actionni13: raises $3 to $9
+davyyyyyyy: calls $3
+*** FLOP *** [4c 9h Qh]
+Actionni13: bets $3
+davyyyyyyy: calls $3
+*** TURN *** [4c 9h Qh] [2h]
+Actionni13: checks
+davyyyyyyy: bets $6
+Actionni13: folds
+Uncalled bet ($6) returned to davyyyyyyy
+davyyyyyyy collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [4c 9h Qh 2h]
+Seat 1: davyyyyyyy (button) (small blind) collected ($23.52)
+Seat 4: Actionni13 (big blind) folded on the Turn
+
+

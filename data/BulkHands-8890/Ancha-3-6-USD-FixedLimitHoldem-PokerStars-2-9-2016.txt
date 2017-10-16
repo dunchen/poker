@@ -1,0 +1,73 @@
+PokerStars Hand #148496849207:  Hold'em Limit ($3/$6 USD) - 2016/02/09 7:33:22 ET
+Table 'Ancha' 10-max Seat #10 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 10: NiktheDon ($120 in chips)
+NiktheDon: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+NiktheDon: calls $2
+VolkovDmitri: raises $3 to $6
+NiktheDon: calls $3
+*** FLOP *** [7d 3s 3d]
+VolkovDmitri: bets $3
+NiktheDon: calls $3
+*** TURN *** [7d 3s 3d] [Kd]
+Pokali joins the table at seat #2
+VolkovDmitri: checks
+NiktheDon: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [7d 3s 3d Kd] [9d]
+VolkovDmitri: checks
+NiktheDon: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [Th 7s] (two pair, Sevens and Threes)
+NiktheDon: shows [2d Ac] (a flush, King high)
+NiktheDon collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7d 3s 3d Kd 9d]
+Seat 1: VolkovDmitri (big blind) showed [Th 7s] and lost with two pair, Sevens and Threes
+Seat 10: NiktheDon (button) (small blind) showed [2d Ac] and won ($29.50) with a flush, King high
+
+
+PokerStars Hand #148497634146:  Hold'em Limit ($3/$6 USD) - 2016/02/09 7:54:39 ET
+Table 'Ancha' 10-max Seat #9 is the button
+Seat 3: DePokeraap ($93.25 in chips)
+Seat 9: 72bestcard ($73 in chips)
+72bestcard: posts small blind $1
+DePokeraap: posts big blind $3
+*** HOLE CARDS ***
+72bestcard: raises $3 to $6
+DePokeraap: folds
+Uncalled bet ($3) returned to 72bestcard
+72bestcard collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: DePokeraap (big blind) folded before Flop
+Seat 9: 72bestcard (button) (small blind) collected ($6)
+
+
+PokerStars Hand #148497640319:  Hold'em Limit ($3/$6 USD) - 2016/02/09 7:54:49 ET
+Table 'Ancha' 10-max Seat #3 is the button
+Seat 3: DePokeraap ($90.25 in chips)
+Seat 9: 72bestcard ($76 in chips)
+DePokeraap: posts small blind $1
+72bestcard: posts big blind $3
+*** HOLE CARDS ***
+DePokeraap: raises $3 to $6
+72bestcard: calls $3
+*** FLOP *** [4d Js Ac]
+72bestcard: checks
+DePokeraap: bets $3
+72bestcard: raises $3 to $6
+DePokeraap: folds
+Uncalled bet ($3) returned to 72bestcard
+72bestcard collected $17.64 from pot
+72bestcard: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4d Js Ac]
+Seat 3: DePokeraap (button) (small blind) folded on the Flop
+Seat 9: 72bestcard (big blind) collected ($17.64)
+
+

@@ -1,0 +1,129 @@
+PokerStars Hand #164736456765:  Hold'em Limit ($3/$6 USD) - 2017/01/17 14:39:17 ET
+Table 'Petrina' 6-max Seat #5 is the button
+Seat 4: Great_Kang ($120 in chips)
+Seat 5: B_loJkl ($190 in chips)
+B_loJkl: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+Yoozd79 leaves the table
+Great_Kang: calls $3
+*** FLOP *** [Qd 7s 3h]
+Great_Kang: checks
+B_loJkl: checks
+*** TURN *** [Qd 7s 3h] [6h]
+Great_Kang: checks
+B_loJkl: checks
+*** RIVER *** [Qd 7s 3h 6h] [Qc]
+Great_Kang: checks
+B_loJkl: checks
+*** SHOW DOWN ***
+Great_Kang: shows [2h Kd] (a pair of Queens)
+B_loJkl: shows [Ks 9h] (a pair of Queens - King+Nine kicker)
+B_loJkl collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qd 7s 3h 6h Qc]
+Seat 4: Great_Kang (big blind) showed [2h Kd] and lost with a pair of Queens
+Seat 5: B_loJkl (button) (small blind) showed [Ks 9h] and won ($11.76) with a pair of Queens
+
+
+PokerStars Hand #164736534590:  Hold'em Limit ($3/$6 USD) - 2017/01/17 14:40:34 ET
+Table 'Petrina' 6-max Seat #4 is the button
+Seat 1: Sleeper007 ($120 in chips)
+Seat 4: Great_Kang ($120 in chips)
+Great_Kang: posts small blind $1
+Sleeper007: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+Sleeper007: calls $3
+*** FLOP *** [2c 6s 7d]
+Sleeper007: checks
+Great_Kang: bets $3
+Sleeper007: calls $3
+*** TURN *** [2c 6s 7d] [Kd]
+Sleeper007: checks
+Great_Kang: bets $6
+Sleeper007: calls $6
+*** RIVER *** [2c 6s 7d Kd] [Jd]
+B_loJkl joins the table at seat #2
+Sleeper007: checks
+Great_Kang: bets $6
+Sleeper007: calls $6
+*** SHOW DOWN ***
+Great_Kang: shows [Ts 8s] (high card King)
+Sleeper007: shows [9h As] (high card Ace)
+Sleeper007 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2c 6s 7d Kd Jd]
+Seat 1: Sleeper007 (big blind) showed [9h As] and won ($41.50) with high card Ace
+Seat 4: Great_Kang (button) (small blind) showed [Ts 8s] and lost with high card King
+
+
+PokerStars Hand #164744873430:  Hold'em Limit ($3/$6 USD) - 2017/01/17 16:58:27 ET
+Table 'Petrina' 6-max Seat #2 is the button
+Seat 2: TinaTurner72 ($191.63 in chips)
+Seat 6: laubes04 ($144.77 in chips)
+TinaTurner72: posts small blind $1
+MellivoraSto: is sitting out
+laubes04: posts big blind $3
+*** HOLE CARDS ***
+TinaTurner72: raises $3 to $6
+laubes04: raises $3 to $9
+TinaTurner72: calls $3
+*** FLOP *** [Ts 6s 4d]
+laubes04: bets $3
+TinaTurner72: calls $3
+*** TURN *** [Ts 6s 4d] [3d]
+laubes04: bets $6
+TinaTurner72: raises $6 to $12
+laubes04: calls $6
+*** RIVER *** [Ts 6s 4d 3d] [Jc]
+laubes04: checks
+TinaTurner72: bets $6
+laubes04: calls $6
+*** SHOW DOWN ***
+TinaTurner72: shows [Th 6h] (two pair, Tens and Sixes)
+laubes04: mucks hand
+TinaTurner72 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Ts 6s 4d 3d Jc]
+Seat 2: TinaTurner72 (button) (small blind) showed [Th 6h] and won ($59.50) with two pair, Tens and Sixes
+Seat 6: laubes04 (big blind) mucked
+
+
+PokerStars Hand #164744899725:  Hold'em Limit ($3/$6 USD) - 2017/01/17 16:58:59 ET
+Table 'Petrina' 6-max Seat #6 is the button
+Seat 2: TinaTurner72 ($221.13 in chips)
+Seat 6: laubes04 ($114.77 in chips)
+laubes04: posts small blind $1
+Collector8810 joins the table at seat #1
+TinaTurner72: posts big blind $3
+*** HOLE CARDS ***
+laubes04: raises $3 to $6
+TinaTurner72: calls $3
+*** FLOP *** [8c 3s 2c]
+TinaTurner72: checks
+laubes04: bets $3
+TinaTurner72: raises $3 to $6
+laubes04: calls $3
+*** TURN *** [8c 3s 2c] [7c]
+TinaTurner72: bets $6
+laubes04: calls $6
+*** RIVER *** [8c 3s 2c 7c] [Kc]
+TinaTurner72: checks
+laubes04: bets $6
+TinaTurner72: calls $6
+*** SHOW DOWN ***
+laubes04: shows [Jh Ac] (a flush, Ace high)
+TinaTurner72: mucks hand
+laubes04 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8c 3s 2c 7c Kc]
+Seat 2: TinaTurner72 (big blind) mucked
+Seat 6: laubes04 (button) (small blind) showed [Jh Ac] and won ($47.50) with a flush, Ace high
+
+

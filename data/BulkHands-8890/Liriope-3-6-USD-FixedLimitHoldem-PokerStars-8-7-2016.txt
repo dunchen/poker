@@ -1,0 +1,65 @@
+PokerStars Hand #157000683831:  Hold'em Limit ($3/$6 USD) - 2016/08/07 19:30:45 ET
+Table 'Liriope' 10-max Seat #4 is the button
+Seat 4: xasnor ($120 in chips)
+Seat 5: anosmal ($35.94 in chips)
+xasnor: posts small blind $1
+anosmal: posts big blind $3
+*** HOLE CARDS ***
+xasnor: raises $3 to $6
+anosmal: raises $3 to $9
+xasnor: raises $3 to $12
+Betting is capped
+anosmal: calls $3
+*** FLOP *** [Ad 8d 2h]
+anosmal: bets $3
+xasnor: raises $3 to $6
+anosmal: raises $3 to $9
+xasnor: calls $3
+*** TURN *** [Ad 8d 2h] [5c]
+anosmal: checks
+xasnor: bets $6
+anosmal: raises $6 to $12
+xasnor: folds
+Uncalled bet ($6) returned to anosmal
+anosmal collected $53.50 from pot
+anosmal: doesn't show hand
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Ad 8d 2h 5c]
+Seat 4: xasnor (button) (small blind) folded on the Turn
+Seat 5: anosmal (big blind) collected ($53.50)
+
+
+PokerStars Hand #157000690217:  Hold'em Limit ($3/$6 USD) - 2016/08/07 19:30:57 ET
+Table 'Liriope' 10-max Seat #5 is the button
+Seat 4: xasnor ($93 in chips)
+Seat 5: anosmal ($62.44 in chips)
+anosmal: posts small blind $1
+xasnor: posts big blind $3
+*** HOLE CARDS ***
+anosmal: raises $3 to $6
+xasnor: raises $3 to $9
+anosmal: raises $3 to $12
+Betting is capped
+xasnor: calls $3
+*** FLOP *** [Js 8h Td]
+xasnor: bets $3
+anosmal: calls $3
+*** TURN *** [Js 8h Td] [4s]
+xasnor: bets $6
+anosmal: calls $6
+*** RIVER *** [Js 8h Td 4s] [7d]
+xasnor: bets $6
+anosmal: raises $6 to $12
+xasnor: folds
+Uncalled bet ($6) returned to anosmal
+xasnor leaves the table
+anosmal collected $53.50 from pot
+anosmal: doesn't show hand
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Js 8h Td 4s 7d]
+Seat 4: xasnor (big blind) folded on the River
+Seat 5: anosmal (button) (small blind) collected ($53.50)
+
+

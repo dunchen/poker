@@ -1,0 +1,59 @@
+PokerStars Hand #144248056586:  Hold'em Limit ($3/$6 USD) - 2015/11/22 23:09:47 ET
+Table 'Probitas' 2-max Seat #2 is the button
+Seat 1: war.1612 ($14.50 in chips)
+Seat 2: maria_svs ($134.51 in chips)
+maria_svs: posts small blind $1
+war.1612: posts big blind $3
+*** HOLE CARDS ***
+maria_svs: raises $3 to $6
+war.1612: raises $3 to $9
+maria_svs: calls $3
+*** FLOP *** [6s 7c Tc]
+war.1612: checks
+maria_svs: checks
+*** TURN *** [6s 7c Tc] [Js]
+war.1612: bets $5.50 and is all-in
+maria_svs: calls $5.50
+*** RIVER *** [6s 7c Tc Js] [Qd]
+*** SHOW DOWN ***
+war.1612: shows [Kd 9d] (a straight, Nine to King)
+maria_svs: shows [6c 4h] (a pair of Sixes)
+war.1612 collected $28.50 from pot
+*** SUMMARY ***
+Total pot $29 | Rake $0.50
+Board [6s 7c Tc Js Qd]
+Seat 1: war.1612 (big blind) showed [Kd 9d] and won ($28.50) with a straight, Nine to King
+Seat 2: maria_svs (button) (small blind) showed [6c 4h] and lost with a pair of Sixes
+
+
+PokerStars Hand #144248060852:  Hold'em Limit ($3/$6 USD) - 2015/11/22 23:10:03 ET
+Table 'Probitas' 2-max Seat #1 is the button
+Seat 1: war.1612 ($28.50 in chips)
+Seat 2: maria_svs ($120.01 in chips)
+war.1612: posts small blind $1
+maria_svs: posts big blind $3
+*** HOLE CARDS ***
+war.1612: raises $3 to $6
+maria_svs: raises $3 to $9
+war.1612: raises $3 to $12
+Betting is capped
+maria_svs: calls $3
+*** FLOP *** [Tc 4h Ac]
+maria_svs: bets $3
+war.1612: calls $3
+*** TURN *** [Tc 4h Ac] [Kd]
+maria_svs: bets $6
+war.1612: calls $6
+*** RIVER *** [Tc 4h Ac Kd] [5s]
+maria_svs: bets $6
+war.1612: folds
+Uncalled bet ($6) returned to maria_svs
+maria_svs collected $41.50 from pot
+maria_svs: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Tc 4h Ac Kd 5s]
+Seat 1: war.1612 (button) (small blind) folded on the River
+Seat 2: maria_svs (big blind) collected ($41.50)
+
+

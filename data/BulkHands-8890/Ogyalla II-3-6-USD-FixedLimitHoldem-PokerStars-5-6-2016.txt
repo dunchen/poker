@@ -1,0 +1,88 @@
+PokerStars Hand #152924498356:  Hold'em Limit ($3/$6 USD) - 2016/05/06 7:06:16 ET
+Table 'Ogyalla II' 6-max Seat #4 is the button
+Seat 1: PinkTaxa ($68.43 in chips)
+Seat 4: Agrotait ($72 in chips)
+Agrotait: posts small blind $1
+PinkTaxa: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+PinkTaxa: raises $3 to $9
+Agrotait: raises $3 to $12
+Betting is capped
+PinkTaxa: calls $3
+*** FLOP *** [Qc 2d 7c]
+PinkTaxa: checks
+Agrotait: bets $3
+PinkTaxa: calls $3
+*** TURN *** [Qc 2d 7c] [6h]
+PinkTaxa: checks
+Agrotait: bets $6
+PinkTaxa: calls $6
+*** RIVER *** [Qc 2d 7c 6h] [Jh]
+PinkTaxa: checks
+Agrotait: bets $6
+PinkTaxa: calls $6
+*** SHOW DOWN ***
+Agrotait: shows [Kd Ks] (a pair of Kings)
+PinkTaxa: mucks hand
+Agrotait collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Qc 2d 7c 6h Jh]
+Seat 1: PinkTaxa (big blind) mucked
+Seat 4: Agrotait (button) (small blind) showed [Kd Ks] and won ($53.50) with a pair of Kings
+
+
+PokerStars Hand #152924480718:  Hold'em Limit ($3/$6 USD) - 2016/05/06 7:05:35 ET
+Table 'Ogyalla II' 6-max Seat #1 is the button
+Seat 1: PinkTaxa ($44.93 in chips)
+Seat 4: Agrotait ($72 in chips)
+PinkTaxa: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+PinkTaxa: calls $2
+Agrotait: checks
+*** FLOP *** [Ts As Js]
+Agrotait: checks
+PinkTaxa: bets $3
+Agrotait: calls $3
+*** TURN *** [Ts As Js] [7h]
+Agrotait: checks
+PinkTaxa: bets $6
+Tryptamean joins the table at seat #2
+Agrotait: calls $6
+*** RIVER *** [Ts As Js 7h] [7s]
+Agrotait: bets $6
+PinkTaxa: raises $6 to $12
+Agrotait: calls $6
+*** SHOW DOWN ***
+PinkTaxa: shows [Qc Ks] (a flush, Ace high)
+Agrotait: mucks hand
+PinkTaxa collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Ts As Js 7h 7s]
+Seat 1: PinkTaxa (button) (small blind) showed [Qc Ks] and won ($47.50) with a flush, Ace high
+Seat 4: Agrotait (big blind) mucked
+
+
+PokerStars Hand #152924700519:  Hold'em Limit ($3/$6 USD) - 2016/05/06 7:14:04 ET
+Table 'Ogyalla II' 6-max Seat #3 is the button
+Seat 2: Tryptamean ($111.73 in chips)
+Seat 3: Chessnok ($162.37 in chips)
+Chessnok: posts small blind $1
+Agrotait: is sitting out
+Tryptamean: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+Tryptamean: folds
+Uncalled bet ($3) returned to Chessnok
+Agrotait leaves the table
+Chessnok collected $6 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: Tryptamean (big blind) folded before Flop
+Seat 3: Chessnok (button) (small blind) collected ($6)
+
+

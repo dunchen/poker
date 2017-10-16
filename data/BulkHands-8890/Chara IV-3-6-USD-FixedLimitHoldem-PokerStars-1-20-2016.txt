@@ -1,0 +1,94 @@
+PokerStars Hand #147362197472:  Hold'em Limit ($3/$6 USD) - 2016/01/20 8:40:25 ET
+Table 'Chara IV' 2-max Seat #1 is the button
+Seat 1: Ms Kapriz ($50.64 in chips)
+Seat 2: anetkaapro ($72 in chips)
+Ms Kapriz: posts small blind $1
+anetkaapro: posts big blind $3
+*** HOLE CARDS ***
+Ms Kapriz: raises $3 to $6
+anetkaapro: raises $3 to $9
+Ms Kapriz: calls $3
+*** FLOP *** [2h Tc 2d]
+anetkaapro: bets $3
+Ms Kapriz: calls $3
+*** TURN *** [2h Tc 2d] [Js]
+anetkaapro: checks
+Ms Kapriz: bets $6
+anetkaapro: calls $6
+*** RIVER *** [2h Tc 2d Js] [2s]
+anetkaapro: checks
+Ms Kapriz: bets $6
+anetkaapro: calls $6
+*** SHOW DOWN ***
+Ms Kapriz: shows [Jc Qh] (a full house, Deuces full of Jacks)
+anetkaapro: mucks hand
+Ms Kapriz collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2h Tc 2d Js 2s]
+Seat 1: Ms Kapriz (button) (small blind) showed [Jc Qh] and won ($47.50) with a full house, Deuces full of Jacks
+Seat 2: anetkaapro (big blind) mucked
+
+
+PokerStars Hand #147362187645:  Hold'em Limit ($3/$6 USD) - 2016/01/20 8:40:10 ET
+Table 'Chara IV' 2-max Seat #2 is the button
+Seat 1: Ms Kapriz ($42 in chips)
+Seat 2: anetkaapro ($72 in chips)
+anetkaapro: posts small blind $1
+Ms Kapriz: posts big blind $3
+*** HOLE CARDS ***
+anetkaapro: raises $3 to $6
+Ms Kapriz: calls $3
+*** FLOP *** [3s As Qs]
+Ms Kapriz: checks
+anetkaapro: bets $3
+Ms Kapriz: calls $3
+*** TURN *** [3s As Qs] [9h]
+Ms Kapriz: checks
+anetkaapro: checks
+*** RIVER *** [3s As Qs 9h] [6h]
+Ms Kapriz: bets $6
+anetkaapro: folds
+Uncalled bet ($6) returned to Ms Kapriz
+Ms Kapriz collected $17.64 from pot
+Ms Kapriz: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3s As Qs 9h 6h]
+Seat 1: Ms Kapriz (big blind) collected ($17.64)
+Seat 2: anetkaapro (button) (small blind) folded on the River
+
+
+PokerStars Hand #147362206672:  Hold'em Limit ($3/$6 USD) - 2016/01/20 8:40:38 ET
+Table 'Chara IV' 2-max Seat #2 is the button
+Seat 1: Ms Kapriz ($74.14 in chips)
+Seat 2: anetkaapro ($72 in chips)
+anetkaapro: posts small blind $1
+Ms Kapriz: posts big blind $3
+*** HOLE CARDS ***
+anetkaapro: raises $3 to $6
+Ms Kapriz: calls $3
+*** FLOP *** [Kh 5s 6h]
+Ms Kapriz: checks
+anetkaapro: bets $3
+Ms Kapriz: calls $3
+*** TURN *** [Kh 5s 6h] [6s]
+Ms Kapriz: checks
+anetkaapro: bets $6
+Ms Kapriz: raises $6 to $12
+anetkaapro: calls $6
+*** RIVER *** [Kh 5s 6h 6s] [8s]
+Ms Kapriz: bets $6
+anetkaapro: raises $6 to $12
+Ms Kapriz: calls $6
+*** SHOW DOWN ***
+anetkaapro: shows [7h 9h] (a straight, Five to Nine)
+Ms Kapriz: mucks hand
+anetkaapro collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [Kh 5s 6h 6s 8s]
+Seat 1: Ms Kapriz (big blind) mucked
+Seat 2: anetkaapro (button) (small blind) showed [7h 9h] and won ($65.50) with a straight, Five to Nine
+
+

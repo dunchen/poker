@@ -1,0 +1,63 @@
+PokerStars Hand #145620224680:  Hold'em Limit ($3/$6 USD) - 2015/12/20 2:19:34 ET
+Table 'Penelope' 2-max Seat #2 is the button
+Seat 1: kaputnikoff ($60 in chips)
+Seat 2: cergei735 ($49.44 in chips)
+cergei735: posts small blind $1
+kaputnikoff: posts big blind $3
+*** HOLE CARDS ***
+cergei735: raises $3 to $6
+kaputnikoff: raises $3 to $9
+cergei735: raises $3 to $12
+Betting is capped
+kaputnikoff: calls $3
+*** FLOP *** [3c 5d Ks]
+kaputnikoff: checks
+cergei735: bets $3
+kaputnikoff: calls $3
+*** TURN *** [3c 5d Ks] [3d]
+kaputnikoff: checks
+cergei735: bets $6
+kaputnikoff: raises $6 to $12
+cergei735: raises $6 to $18
+kaputnikoff: calls $6
+*** RIVER *** [3c 5d Ks 3d] [6c]
+kaputnikoff: checks
+cergei735: bets $6
+kaputnikoff: calls $6
+*** SHOW DOWN ***
+cergei735: shows [Ts Td] (two pair, Tens and Threes)
+kaputnikoff: shows [Jh Kh] (two pair, Kings and Threes)
+kaputnikoff collected $77.50 from pot
+*** SUMMARY ***
+Total pot $78 | Rake $0.50
+Board [3c 5d Ks 3d 6c]
+Seat 1: kaputnikoff (big blind) showed [Jh Kh] and won ($77.50) with two pair, Kings and Threes
+Seat 2: cergei735 (button) (small blind) showed [Ts Td] and lost with two pair, Tens and Threes
+
+
+PokerStars Hand #145620238682:  Hold'em Limit ($3/$6 USD) - 2015/12/20 2:20:24 ET
+Table 'Penelope' 2-max Seat #1 is the button
+Seat 1: kaputnikoff ($98.50 in chips)
+Seat 2: cergei735 ($10.44 in chips)
+kaputnikoff: posts small blind $1
+cergei735: posts big blind $3
+*** HOLE CARDS ***
+kaputnikoff: raises $3 to $6
+cergei735: raises $3 to $9
+kaputnikoff: calls $3
+*** FLOP *** [2d 7c 6c]
+cergei735: bets $1.44 and is all-in
+kaputnikoff: calls $1.44
+*** TURN *** [2d 7c 6c] [6d]
+*** RIVER *** [2d 7c 6c 6d] [4s]
+*** SHOW DOWN ***
+cergei735: shows [Ks Qd] (a pair of Sixes)
+kaputnikoff: shows [Jc 6h] (three of a kind, Sixes)
+kaputnikoff collected $20.46 from pot
+*** SUMMARY ***
+Total pot $20.88 | Rake $0.42
+Board [2d 7c 6c 6d 4s]
+Seat 1: kaputnikoff (button) (small blind) showed [Jc 6h] and won ($20.46) with three of a kind, Sixes
+Seat 2: cergei735 (big blind) showed [Ks Qd] and lost with a pair of Sixes
+
+

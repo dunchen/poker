@@ -1,0 +1,34 @@
+PokerStars Hand #153152902693:  Hold'em Limit ($3/$6 USD) - 2016/05/11 6:51:45 ET
+Table 'Geometria' 6-max Seat #1 is the button
+Seat 1: Actionni13 ($200.46 in chips)
+Seat 6: LolDnkaments ($147.36 in chips)
+Actionni13: posts small blind $1
+henrycw: is sitting out
+LolDnkaments: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+LolDnkaments: calls $3
+*** FLOP *** [4c 9s 5h]
+LolDnkaments: checks
+henrycw leaves the table
+Actionni13: bets $3
+LolDnkaments: calls $3
+*** TURN *** [4c 9s 5h] [8s]
+LolDnkaments: checks
+Actionni13: bets $6
+LolDnkaments: raises $6 to $12
+Actionni13: calls $6
+*** RIVER *** [4c 9s 5h 8s] [3d]
+LolDnkaments: bets $6
+Actionni13: calls $6
+*** SHOW DOWN ***
+LolDnkaments: shows [6d Qc] (high card Queen)
+Actionni13: shows [5s Qs] (a pair of Fives)
+Actionni13 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [4c 9s 5h 8s 3d]
+Seat 1: Actionni13 (button) (small blind) showed [5s Qs] and won ($53.50) with a pair of Fives
+Seat 6: LolDnkaments (big blind) showed [6d Qc] and lost with high card Queen
+
+

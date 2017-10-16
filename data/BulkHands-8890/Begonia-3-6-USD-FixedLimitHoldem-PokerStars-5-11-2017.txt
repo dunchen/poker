@@ -1,0 +1,55 @@
+PokerStars Hand #170289879180:  Hold'em Limit ($3/$6 USD) - 2017/05/11 18:52:10 ET
+Table 'Begonia' 6-max Seat #1 is the button
+Seat 1: Jeelsy ($120 in chips)
+Seat 4: Actionni13 ($150 in chips)
+Jeelsy: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+Jeelsy: raises $3 to $6
+Actionni13: calls $3
+*** FLOP *** [5d Ks 7s]
+Actionni13: checks
+Jeelsy: bets $3
+Actionni13: raises $3 to $6
+Jeelsy: calls $3
+*** TURN *** [5d Ks 7s] [3c]
+Actionni13: bets $6
+Jeelsy: calls $6
+*** RIVER *** [5d Ks 7s 3c] [8c]
+Actionni13: bets $6
+Jeelsy: calls $6
+*** SHOW DOWN ***
+Actionni13: shows [Kc 2s] (a pair of Kings)
+Jeelsy: mucks hand
+Actionni13 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [5d Ks 7s 3c 8c]
+Seat 1: Jeelsy (button) (small blind) mucked
+Seat 4: Actionni13 (big blind) showed [Kc 2s] and won ($47.50) with a pair of Kings
+
+
+PokerStars Hand #170289900108:  Hold'em Limit ($3/$6 USD) - 2017/05/11 18:52:41 ET
+Table 'Begonia' 6-max Seat #4 is the button
+Seat 1: Jeelsy ($96 in chips)
+Seat 4: Actionni13 ($173.50 in chips)
+Actionni13: posts small blind $1
+Jeelsy: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+Jeelsy: calls $3
+*** FLOP *** [Td 3c Jh]
+B_loJkl joins the table at seat #2
+Jeelsy: checks
+Actionni13: bets $3
+Jeelsy: folds
+Uncalled bet ($3) returned to Actionni13
+Actionni13 collected $11.76 from pot
+Actionni13: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Td 3c Jh]
+Seat 1: Jeelsy (big blind) folded on the Flop
+Seat 4: Actionni13 (button) (small blind) collected ($11.76)
+
+

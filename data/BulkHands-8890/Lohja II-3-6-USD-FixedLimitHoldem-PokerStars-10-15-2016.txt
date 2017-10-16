@@ -1,0 +1,30 @@
+PokerStars Hand #159983951621:  Hold'em Limit ($3/$6 USD) - 2016/10/15 17:53:02 ET
+Table 'Lohja II' 6-max Seat #3 is the button
+Seat 1: AzureCaper ($119.68 in chips)
+Seat 3: byrgyi ($103.34 in chips)
+byrgyi: posts small blind $1
+GoliafUa: is sitting out
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+byrgyi: calls $2
+AzureCaper: checks
+*** FLOP *** [2d Ah 3d]
+AzureCaper: checks
+byrgyi: checks
+*** TURN *** [2d Ah 3d] [8h]
+AzureCaper: checks
+byrgyi: checks
+*** RIVER *** [2d Ah 3d 8h] [Jd]
+AzureCaper: checks
+byrgyi: checks
+*** SHOW DOWN ***
+AzureCaper: shows [7c 4h] (high card Ace)
+byrgyi: shows [6h 9s] (high card Ace - Jack+Nine kicker)
+byrgyi collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [2d Ah 3d 8h Jd]
+Seat 1: AzureCaper (big blind) showed [7c 4h] and lost with high card Ace
+Seat 3: byrgyi (button) (small blind) showed [6h 9s] and won ($5.88) with high card Ace
+
+

@@ -1,0 +1,63 @@
+PokerStars Hand #161748847426:  Hold'em Limit ($3/$6 USD) - 2016/11/21 13:14:59 ET
+Table 'Severny II' 6-max Seat #3 is the button
+Seat 3: nicmct ($124.64 in chips)
+Seat 5: B_loJkl ($144.76 in chips)
+nicmct: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+nicmct: raises $3 to $6
+B_loJkl: raises $3 to $9
+nicmct: calls $3
+*** FLOP *** [2h 5c 7s]
+B_loJkl: bets $3
+nicmct: calls $3
+*** TURN *** [2h 5c 7s] [6s]
+B_loJkl: bets $6
+nicmct: calls $6
+*** RIVER *** [2h 5c 7s 6s] [7c]
+B_loJkl: bets $6
+nicmct: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $35.50 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [2h 5c 7s 6s 7c]
+Seat 3: nicmct (button) (small blind) folded on the River
+Seat 5: B_loJkl (big blind) collected ($35.50)
+
+
+PokerStars Hand #161748876921:  Hold'em Limit ($3/$6 USD) - 2016/11/21 13:15:30 ET
+Table 'Severny II' 6-max Seat #5 is the button
+Seat 3: nicmct ($106.64 in chips)
+Seat 5: B_loJkl ($162.26 in chips)
+B_loJkl: posts small blind $1
+nicmct: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+nicmct: calls $3
+*** FLOP *** [9h 5c Qh]
+nicmct: checks
+B_loJkl: bets $3
+nicmct: calls $3
+*** TURN *** [9h 5c Qh] [8h]
+nicmct: checks
+Zensor666 joins the table at seat #1
+B_loJkl: bets $6
+nicmct: calls $6
+*** RIVER *** [9h 5c Qh 8h] [Js]
+nicmct: checks
+B_loJkl: checks
+*** SHOW DOWN ***
+nicmct: shows [6s 8s] (a pair of Eights)
+B_loJkl: shows [Qd 6c] (a pair of Queens)
+B_loJkl collected $29.50 from pot
+ToDaFelt joins the table at seat #4
+assitoni joins the table at seat #2
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9h 5c Qh 8h Js]
+Seat 3: nicmct (big blind) showed [6s 8s] and lost with a pair of Eights
+Seat 5: B_loJkl (button) (small blind) showed [Qd 6c] and won ($29.50) with a pair of Queens
+
+

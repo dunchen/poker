@@ -1,0 +1,58 @@
+PokerStars Hand #160502657992:  Hold'em Limit ($3/$6 USD) - 2016/10/27 8:37:48 ET
+Table 'Porphyro' 6-max Seat #4 is the button
+Seat 3: Dron21200 ($32.88 in chips)
+Seat 4: Agrotait ($69 in chips)
+Agrotait: posts small blind $1
+Dron21200: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+Dron21200: raises $3 to $9
+Agrotait: calls $3
+*** FLOP *** [Js 6d 5h]
+Dron21200: bets $3
+Agrotait: calls $3
+*** TURN *** [Js 6d 5h] [Kd]
+Dron21200: checks
+Agrotait: bets $6
+Dron21200: raises $6 to $12
+Agrotait: folds
+Uncalled bet ($6) returned to Dron21200
+Dron21200 collected $35.50 from pot
+Dron21200: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Js 6d 5h Kd]
+Seat 3: Dron21200 (big blind) collected ($35.50)
+Seat 4: Agrotait (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #160502671854:  Hold'em Limit ($3/$6 USD) - 2016/10/27 8:38:14 ET
+Table 'Porphyro' 6-max Seat #3 is the button
+Seat 3: Dron21200 ($50.38 in chips)
+Seat 4: Agrotait ($72 in chips)
+Dron21200: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+Dron21200: calls $2
+Agrotait: raises $3 to $6
+Dron21200: calls $3
+*** FLOP *** [7c 6d Jc]
+Agrotait: bets $3
+Dron21200: calls $3
+*** TURN *** [7c 6d Jc] [4d]
+Agrotait: bets $6
+Dron21200: calls $6
+*** RIVER *** [7c 6d Jc 4d] [Ks]
+Agrotait: checks
+Dron21200: checks
+*** SHOW DOWN ***
+Agrotait: shows [8c 9c] (high card King)
+Dron21200: shows [Ah 4h] (a pair of Fours)
+Dron21200 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7c 6d Jc 4d Ks]
+Seat 3: Dron21200 (button) (small blind) showed [Ah 4h] and won ($29.50) with a pair of Fours
+Seat 4: Agrotait (big blind) showed [8c 9c] and lost with high card King
+
+

@@ -1,0 +1,82 @@
+PokerStars Hand #157754410285:  Hold'em Limit ($3/$6 USD) - 2016/08/26 6:17:35 ET
+Table 'Graffias' 6-max Seat #5 is the button
+Seat 4: VolkovDmitri ($149.50 in chips)
+Seat 5: Kikken ($90 in chips)
+B_loJkl joins the table at seat #6
+Kikken: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Kikken: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: VolkovDmitri (big blind) collected ($2)
+Seat 5: Kikken (button) (small blind) folded before Flop
+
+
+PokerStars Hand #157754400773:  Hold'em Limit ($3/$6 USD) - 2016/08/26 6:17:10 ET
+Table 'Graffias' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($120 in chips)
+Seat 5: Kikken ($120 in chips)
+VolkovDmitri: posts small blind $1
+Kikken: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Kikken: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [3d 7c Th]
+Kikken: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [3d 7c Th] [6c]
+Kikken: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [3d 7c Th 6c] [Qc]
+Kikken: bets $6
+VolkovDmitri: raises $6 to $12
+Kikken: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Qs 9s] (a pair of Queens)
+Kikken: mucks hand
+VolkovDmitri collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [3d 7c Th 6c Qc]
+Seat 4: VolkovDmitri (button) (small blind) showed [Qs 9s] and won ($59.50) with a pair of Queens
+Seat 5: Kikken (big blind) mucked
+
+
+PokerStars Hand #157754412533:  Hold'em Limit ($3/$6 USD) - 2016/08/26 6:17:41 ET
+Table 'Graffias' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($150.50 in chips)
+Seat 5: Kikken ($89 in chips)
+VolkovDmitri: posts small blind $1
+Kikken: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Kikken: raises $3 to $9
+VolkovDmitri: raises $3 to $12
+Betting is capped
+Kikken: calls $3
+*** FLOP *** [7s 8d 2h]
+Kikken: checks
+VolkovDmitri: bets $3
+Kikken: calls $3
+*** TURN *** [7s 8d 2h] [Kc]
+Kikken: checks
+VolkovDmitri: checks
+*** RIVER *** [7s 8d 2h Kc] [3h]
+Kikken: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+Kikken: shows [4s 3d] (a pair of Threes)
+VolkovDmitri: mucks hand
+Kikken collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [7s 8d 2h Kc 3h]
+Seat 4: VolkovDmitri (button) (small blind) mucked
+Seat 5: Kikken (big blind) showed [4s 3d] and won ($41.50) with a pair of Threes
+
+

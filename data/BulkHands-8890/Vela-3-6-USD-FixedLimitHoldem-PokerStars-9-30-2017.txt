@@ -1,0 +1,32 @@
+PokerStars Hand #176309736861:  Hold'em Limit ($3/$6 USD) - 2017/09/30 10:44:59 ET
+Table 'Vela' 6-max Seat #1 is the button
+Seat 1: patrikskjold ($60 in chips)
+Seat 4: hockeynutz99 ($120 in chips)
+patrikskjold: posts small blind $1
+hockeynutz99: posts big blind $3
+*** HOLE CARDS ***
+patrikskjold: raises $3 to $6
+hockeynutz99: raises $3 to $9
+patrikskjold: calls $3
+*** FLOP *** [7h 8c 2d]
+hockeynutz99: bets $3
+patrikskjold: calls $3
+*** TURN *** [7h 8c 2d] [Qd]
+hockeynutz99: bets $6
+patrikskjold: raises $6 to $12
+hockeynutz99: calls $6
+*** RIVER *** [7h 8c 2d Qd] [9d]
+hockeynutz99: checks
+patrikskjold: bets $6
+hockeynutz99: calls $6
+*** SHOW DOWN ***
+patrikskjold: shows [9h 7d] (two pair, Nines and Sevens)
+hockeynutz99: mucks hand
+patrikskjold collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [7h 8c 2d Qd 9d]
+Seat 1: patrikskjold (button) (small blind) showed [9h 7d] and won ($59.50) with two pair, Nines and Sevens
+Seat 4: hockeynutz99 (big blind) mucked
+
+

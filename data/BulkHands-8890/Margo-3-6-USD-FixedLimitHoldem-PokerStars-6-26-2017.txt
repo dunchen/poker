@@ -1,0 +1,80 @@
+PokerStars Hand #172264144070:  Hold'em Limit ($3/$6 USD) - 2017/06/26 11:28:27 ET
+Table 'Margo' 6-max Seat #3 is the button
+Seat 3: sim5sim5 ($72 in chips)
+Seat 4: Actionni13 ($173.50 in chips)
+sim5sim5: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+Actionni13: calls $3
+*** FLOP *** [2d Jh 6s]
+Actionni13: checks
+sim5sim5: bets $3
+Actionni13: calls $3
+*** TURN *** [2d Jh 6s] [6h]
+Actionni13: checks
+sim5sim5: checks
+*** RIVER *** [2d Jh 6s 6h] [Jc]
+Actionni13: checks
+sim5sim5: bets $6
+Actionni13: calls $6
+*** SHOW DOWN ***
+sim5sim5: shows [Ah 7s] (two pair, Jacks and Sixes)
+Actionni13: mucks hand
+sim5sim5 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2d Jh 6s 6h Jc]
+Seat 3: sim5sim5 (button) (small blind) showed [Ah 7s] and won ($29.50) with two pair, Jacks and Sixes
+Seat 4: Actionni13 (big blind) mucked
+
+
+PokerStars Hand #172264191697:  Hold'em Limit ($3/$6 USD) - 2017/06/26 11:29:49 ET
+Table 'Margo' 6-max Seat #3 is the button
+Seat 3: sim5sim5 ($116 in chips)
+Seat 4: Actionni13 ($150 in chips)
+sim5sim5: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: folds
+Uncalled bet ($2) returned to Actionni13
+Actionni13 collected $2 from pot
+Actionni13: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: sim5sim5 (button) (small blind) folded before Flop
+Seat 4: Actionni13 (big blind) collected ($2)
+
+
+PokerStars Hand #172264171083:  Hold'em Limit ($3/$6 USD) - 2017/06/26 11:29:13 ET
+Table 'Margo' 6-max Seat #4 is the button
+Seat 3: sim5sim5 ($86.50 in chips)
+Seat 4: Actionni13 ($158.50 in chips)
+Actionni13: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+sim5sim5: calls $3
+*** FLOP *** [9d 2h 8d]
+sim5sim5: checks
+Actionni13: bets $3
+sim5sim5: raises $3 to $6
+Actionni13: calls $3
+*** TURN *** [9d 2h 8d] [9c]
+sim5sim5: bets $6
+Actionni13: calls $6
+*** RIVER *** [9d 2h 8d 9c] [Qc]
+sim5sim5: bets $6
+Actionni13: raises $6 to $12
+sim5sim5: calls $6
+*** SHOW DOWN ***
+Actionni13: shows [Jc 7d] (a pair of Nines)
+sim5sim5: shows [9s 6d] (three of a kind, Nines)
+sim5sim5 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [9d 2h 8d 9c Qc]
+Seat 3: sim5sim5 (big blind) showed [9s 6d] and won ($59.50) with three of a kind, Nines
+Seat 4: Actionni13 (button) (small blind) showed [Jc 7d] and lost with a pair of Nines
+
+

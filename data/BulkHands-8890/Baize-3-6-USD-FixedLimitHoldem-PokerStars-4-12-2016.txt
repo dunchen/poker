@@ -1,0 +1,78 @@
+PokerStars Hand #151812552622:  Hold'em Limit ($3/$6 USD) - 2016/04/12 11:24:38 ET
+Table 'Baize' 10-max Seat #1 is the button
+Seat 1: zapo1 ($120 in chips)
+Seat 6: Agrotait ($72 in chips)
+zapo1: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+zapo1: folds
+Uncalled bet ($2) returned to Agrotait
+Agrotait collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: zapo1 (button) (small blind) folded before Flop
+Seat 6: Agrotait (big blind) collected ($2)
+
+
+PokerStars Hand #151812605258:  Hold'em Limit ($3/$6 USD) - 2016/04/12 11:25:57 ET
+Table 'Baize' 10-max Seat #1 is the button
+Seat 1: zapo1 ($133.50 in chips)
+Seat 6: Agrotait ($72 in chips)
+zapo1: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+zapo1: calls $2
+Agrotait: checks
+*** FLOP *** [Qc 8d 2c]
+Agrotait: checks
+SirRomanov joins the table at seat #2
+zapo1: checks
+*** TURN *** [Qc 8d 2c] [Jh]
+Agrotait: bets $6
+zapo1: calls $6
+*** RIVER *** [Qc 8d 2c Jh] [6d]
+Agrotait: bets $6
+zapo1: calls $6
+*** SHOW DOWN ***
+Agrotait: shows [3h Jd] (a pair of Jacks)
+zapo1: shows [Js 5s] (a pair of Jacks)
+Agrotait collected $14.75 from pot
+zapo1 collected $14.75 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qc 8d 2c Jh 6d]
+Seat 1: zapo1 (button) (small blind) showed [Js 5s] and won ($14.75) with a pair of Jacks
+Seat 6: Agrotait (big blind) showed [3h Jd] and won ($14.75) with a pair of Jacks
+
+
+PokerStars Hand #151812559021:  Hold'em Limit ($3/$6 USD) - 2016/04/12 11:24:47 ET
+Table 'Baize' 10-max Seat #6 is the button
+Seat 1: zapo1 ($119 in chips)
+Seat 6: Agrotait ($73 in chips)
+Agrotait: posts small blind $1
+zapo1: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+zapo1: calls $3
+*** FLOP *** [Qh 3c 8s]
+zapo1: checks
+Agrotait: bets $3
+zapo1: calls $3
+*** TURN *** [Qh 3c 8s] [5h]
+zapo1: checks
+Agrotait: checks
+*** RIVER *** [Qh 3c 8s 5h] [Ad]
+zapo1: checks
+Agrotait: bets $6
+zapo1: calls $6
+*** SHOW DOWN ***
+Agrotait: shows [7s 6h] (high card Ace)
+zapo1: shows [4h 8d] (a pair of Eights)
+zapo1 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qh 3c 8s 5h Ad]
+Seat 1: zapo1 (big blind) showed [4h 8d] and won ($29.50) with a pair of Eights
+Seat 6: Agrotait (button) (small blind) showed [7s 6h] and lost with high card Ace
+
+

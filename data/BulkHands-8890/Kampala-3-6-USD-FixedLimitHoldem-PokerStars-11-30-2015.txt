@@ -1,0 +1,61 @@
+PokerStars Hand #144596844607:  Hold'em Limit ($3/$6 USD) - 2015/11/30 1:27:09 ET
+Table 'Kampala' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($187.23 in chips)
+Seat 2: _fayzulllo_ ($16.42 in chips)
+VolkovDmitri: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+_fayzulllo_: raises $3 to $9
+VolkovDmitri: raises $3 to $12
+Betting is capped
+_fayzulllo_: calls $3
+*** FLOP *** [7d Js 2h]
+_fayzulllo_: bets $3
+VolkovDmitri: raises $3 to $6
+_fayzulllo_: calls $1.42 and is all-in
+Uncalled bet ($1.58) returned to VolkovDmitri
+*** TURN *** [7d Js 2h] [6c]
+*** RIVER *** [7d Js 2h 6c] [Qc]
+*** SHOW DOWN ***
+_fayzulllo_: shows [5h Ac] (high card Ace)
+VolkovDmitri: shows [Jc 5c] (a pair of Jacks)
+VolkovDmitri collected $32.34 from pot
+*** SUMMARY ***
+Total pot $32.84 | Rake $0.50
+Board [7d Js 2h 6c Qc]
+Seat 1: VolkovDmitri (button) (small blind) showed [Jc 5c] and won ($32.34) with a pair of Jacks
+Seat 2: _fayzulllo_ (big blind) showed [5h Ac] and lost with high card Ace
+
+
+PokerStars Hand #144596840351:  Hold'em Limit ($3/$6 USD) - 2015/11/30 1:26:51 ET
+Table 'Kampala' 6-max Seat #2 is the button
+Seat 1: VolkovDmitri ($178.59 in chips)
+Seat 2: _fayzulllo_ ($25.42 in chips)
+_fayzulllo_: posts small blind $1
+Agrotait: is sitting out
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: calls $2
+VolkovDmitri: raises $3 to $6
+_fayzulllo_: calls $3
+*** FLOP *** [9c Ks 8h]
+VolkovDmitri: bets $3
+_fayzulllo_: calls $3
+*** TURN *** [9c Ks 8h] [5c]
+VolkovDmitri: checks
+_fayzulllo_: checks
+*** RIVER *** [9c Ks 8h 5c] [Jh]
+VolkovDmitri: checks
+_fayzulllo_: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [Qc Ah] (high card Ace)
+_fayzulllo_: mucks hand
+VolkovDmitri collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9c Ks 8h 5c Jh]
+Seat 1: VolkovDmitri (big blind) showed [Qc Ah] and won ($17.64) with high card Ace
+Seat 2: _fayzulllo_ (button) (small blind) mucked
+
+

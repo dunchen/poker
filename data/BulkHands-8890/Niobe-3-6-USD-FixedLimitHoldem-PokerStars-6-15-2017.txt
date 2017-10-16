@@ -1,0 +1,90 @@
+PokerStars Hand #171799209064:  Hold'em Limit ($3/$6 USD) - 2017/06/15 6:49:51 ET
+Table 'Niobe' 6-max Seat #2 is the button
+Seat 1: aremom4e ($52.86 in chips)
+Seat 2: TbIP-TbIP 88 ($72 in chips)
+TbIP-TbIP 88: posts small blind $1
+Agrotait: is sitting out
+aremom4e: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88: raises $3 to $6
+aremom4e: calls $3
+*** FLOP *** [Qs 8h Ad]
+aremom4e: checks
+TbIP-TbIP 88: checks
+*** TURN *** [Qs 8h Ad] [Kc]
+aremom4e: bets $6
+TbIP-TbIP 88: calls $6
+*** RIVER *** [Qs 8h Ad Kc] [Ks]
+aremom4e: checks
+TbIP-TbIP 88: checks
+*** SHOW DOWN ***
+aremom4e: shows [9c 7c] (a pair of Kings)
+TbIP-TbIP 88: shows [8s Qc] (two pair, Kings and Queens)
+TbIP-TbIP 88 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Qs 8h Ad Kc Ks]
+Seat 1: aremom4e (big blind) showed [9c 7c] and lost with a pair of Kings
+Seat 2: TbIP-TbIP 88 (button) (small blind) showed [8s Qc] and won ($23.52) with two pair, Kings and Queens
+
+
+PokerStars Hand #171799217857:  Hold'em Limit ($3/$6 USD) - 2017/06/15 6:50:50 ET
+Table 'Niobe' 6-max Seat #2 is the button
+Seat 1: aremom4e ($22.86 in chips)
+Seat 2: TbIP-TbIP 88 ($101.02 in chips)
+TbIP-TbIP 88: posts small blind $1
+aremom4e: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88: raises $3 to $6
+aremom4e: raises $3 to $9
+TbIP-TbIP 88: calls $3
+*** FLOP *** [8d 7s Tc]
+aremom4e: bets $3
+TbIP-TbIP 88: calls $3
+*** TURN *** [8d 7s Tc] [3h]
+aremom4e: bets $6
+TbIP-TbIP 88: raises $6 to $12
+aremom4e: calls $4.86 and is all-in
+Uncalled bet ($1.14) returned to TbIP-TbIP 88
+*** RIVER *** [8d 7s Tc 3h] [4h]
+*** SHOW DOWN ***
+aremom4e: shows [Jh Ad] (high card Ace)
+TbIP-TbIP 88: shows [8s Ah] (a pair of Eights)
+TbIP-TbIP 88 collected $45.22 from pot
+*** SUMMARY ***
+Total pot $45.72 | Rake $0.50
+Board [8d 7s Tc 3h 4h]
+Seat 1: aremom4e (big blind) showed [Jh Ad] and lost with high card Ace
+Seat 2: TbIP-TbIP 88 (button) (small blind) showed [8s Ah] and won ($45.22) with a pair of Eights
+
+
+PokerStars Hand #171799213115:  Hold'em Limit ($3/$6 USD) - 2017/06/15 6:50:18 ET
+Table 'Niobe' 6-max Seat #1 is the button
+Seat 1: aremom4e ($40.86 in chips)
+Seat 2: TbIP-TbIP 88 ($83.52 in chips)
+aremom4e: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+aremom4e: raises $3 to $6
+Agrotait leaves the table
+TbIP-TbIP 88: calls $3
+*** FLOP *** [3h 7d 2h]
+TbIP-TbIP 88: checks
+aremom4e: checks
+*** TURN *** [3h 7d 2h] [2d]
+TbIP-TbIP 88: bets $6
+aremom4e: calls $6
+*** RIVER *** [3h 7d 2h 2d] [2s]
+TbIP-TbIP 88: bets $6
+aremom4e: calls $6
+*** SHOW DOWN ***
+TbIP-TbIP 88: shows [Td Ad] (three of a kind, Deuces)
+aremom4e: mucks hand
+TbIP-TbIP 88 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [3h 7d 2h 2d 2s]
+Seat 1: aremom4e (button) (small blind) mucked
+Seat 2: TbIP-TbIP 88 (big blind) showed [Td Ad] and won ($35.50) with three of a kind, Deuces
+
+

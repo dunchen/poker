@@ -1,0 +1,90 @@
+PokerStars Hand #152044937174:  Hold'em Limit ($3/$6 USD) - 2016/04/17 10:42:57 ET
+Table 'Antielus III' 6-max Seat #6 is the button
+Seat 1: kolaz03 ($72 in chips)
+Seat 6: JoeBlack1982 ($114 in chips)
+JoeBlack1982: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+JoeBlack1982: raises $3 to $6
+kolaz03: calls $3
+*** FLOP *** [5c 8c 8d]
+kolaz03: checks
+Amin Jensen joins the table at seat #2
+JoeBlack1982: bets $3
+kolaz03: calls $3
+*** TURN *** [5c 8c 8d] [4c]
+kolaz03: checks
+JoeBlack1982: checks
+*** RIVER *** [5c 8c 8d 4c] [9c]
+kolaz03: bets $6
+Agrotait joins the table at seat #3
+JoeBlack1982: folds
+Uncalled bet ($6) returned to kolaz03
+kolaz03 collected $17.64 from pot
+kolaz03: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5c 8c 8d 4c 9c]
+Seat 1: kolaz03 (big blind) collected ($17.64)
+Seat 6: JoeBlack1982 (button) (small blind) folded on the River
+
+
+PokerStars Hand #152045022888:  Hold'em Limit ($3/$6 USD) - 2016/04/17 10:44:50 ET
+Table 'Antielus III' 6-max Seat #1 is the button
+Seat 1: kolaz03 ($138.14 in chips)
+Seat 2: Amin Jensen ($49 in chips)
+kolaz03: posts small blind $1
+Amin Jensen: posts big blind $3
+*** HOLE CARDS ***
+kolaz03: raises $3 to $6
+Amin Jensen: calls $3
+*** FLOP *** [Jh 8s 5d]
+Amin Jensen: checks
+kolaz03: bets $3
+Amin Jensen: calls $3
+*** TURN *** [Jh 8s 5d] [9h]
+Amin Jensen: checks
+kolaz03: bets $6
+Amin Jensen: folds
+Uncalled bet ($6) returned to kolaz03
+kolaz03 collected $17.64 from pot
+kolaz03: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Jh 8s 5d 9h]
+Seat 1: kolaz03 (button) (small blind) collected ($17.64)
+Seat 2: Amin Jensen (big blind) folded on the Turn
+
+
+PokerStars Hand #152045003340:  Hold'em Limit ($3/$6 USD) - 2016/04/17 10:44:24 ET
+Table 'Antielus III' 6-max Seat #2 is the button
+Seat 1: kolaz03 ($117.64 in chips)
+Seat 2: Amin Jensen ($70 in chips)
+Amin Jensen: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+Amin Jensen: raises $3 to $6
+kolaz03: calls $3
+*** FLOP *** [6c 9s Jc]
+kolaz03: checks
+Amin Jensen: bets $3
+kolaz03: calls $3
+*** TURN *** [6c 9s Jc] [2d]
+kolaz03: checks
+Amin Jensen: bets $6
+kolaz03: calls $6
+*** RIVER *** [6c 9s Jc 2d] [Th]
+kolaz03: checks
+Amin Jensen: bets $6
+kolaz03: calls $6
+*** SHOW DOWN ***
+Amin Jensen: shows [Ac 8s] (high card Ace)
+kolaz03: shows [Td 8c] (a pair of Tens)
+kolaz03 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [6c 9s Jc 2d Th]
+Seat 1: kolaz03 (big blind) showed [Td 8c] and won ($41.50) with a pair of Tens
+Seat 2: Amin Jensen (button) (small blind) showed [Ac 8s] and lost with high card Ace
+
+

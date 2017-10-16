@@ -1,0 +1,33 @@
+PokerStars Hand #165201498975:  Hold'em Limit ($3/$6 USD) - 2017/01/26 12:36:39 ET
+Table 'Bernhard II' 6-max Seat #3 is the button
+Seat 2: krytalex ($94.89 in chips)
+Seat 3: belik555 ($156.75 in chips)
+belik555: posts small blind $1
+krytalex: posts big blind $3
+*** HOLE CARDS ***
+Faqquer leaves the table
+belik555: raises $3 to $6
+krytalex: calls $3
+*** FLOP *** [Jh 4s Qc]
+krytalex: checks
+belik555: bets $3
+krytalex: raises $3 to $6
+belik555: calls $3
+*** TURN *** [Jh 4s Qc] [7h]
+krytalex: bets $6
+belik555: calls $6
+*** RIVER *** [Jh 4s Qc 7h] [8h]
+krytalex: bets $6
+belik555: raises $6 to $12
+krytalex: calls $6
+*** SHOW DOWN ***
+belik555: shows [9s Th] (a straight, Eight to Queen)
+krytalex: mucks hand
+belik555 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Jh 4s Qc 7h 8h]
+Seat 2: krytalex (big blind) mucked
+Seat 3: belik555 (button) (small blind) showed [9s Th] and won ($59.50) with a straight, Eight to Queen
+
+

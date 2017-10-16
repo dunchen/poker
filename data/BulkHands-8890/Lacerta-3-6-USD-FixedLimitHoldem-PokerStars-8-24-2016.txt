@@ -1,0 +1,52 @@
+PokerStars Hand #157680815547:  Hold'em Limit ($3/$6 USD) - 2016/08/24 11:38:17 ET
+Table 'Lacerta' 10-max Seat #8 is the button
+Seat 8: LifeisagameX ($60 in chips)
+Seat 9: Pandakey ($120 in chips)
+LifeisagameX: posts small blind $1
+Pandakey: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+Pandakey: calls $3
+*** FLOP *** [7d Ks 2s]
+Pandakey: checks
+LifeisagameX: bets $3
+Pandakey: folds
+Uncalled bet ($3) returned to LifeisagameX
+LifeisagameX collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7d Ks 2s]
+Seat 8: LifeisagameX (button) (small blind) collected ($11.76)
+Seat 9: Pandakey (big blind) folded on the Flop
+
+
+PokerStars Hand #157680837020:  Hold'em Limit ($3/$6 USD) - 2016/08/24 11:38:51 ET
+Table 'Lacerta' 10-max Seat #9 is the button
+Seat 8: LifeisagameX ($65.76 in chips)
+Seat 9: Pandakey ($114 in chips)
+Pandakey: posts small blind $1
+LifeisagameX: posts big blind $3
+*** HOLE CARDS ***
+Pandakey: raises $3 to $6
+LifeisagameX: raises $3 to $9
+Pandakey: calls $3
+*** FLOP *** [4s Jc Qc]
+LifeisagameX: bets $3
+Pandakey: calls $3
+*** TURN *** [4s Jc Qc] [2h]
+LifeisagameX: checks
+Pandakey: checks
+*** RIVER *** [4s Jc Qc 2h] [As]
+LifeisagameX: bets $6
+Pandakey: calls $6
+*** SHOW DOWN ***
+LifeisagameX: shows [7h Js] (a pair of Jacks)
+Pandakey: shows [8s Ac] (a pair of Aces)
+Pandakey collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [4s Jc Qc 2h As]
+Seat 8: LifeisagameX (big blind) showed [7h Js] and lost with a pair of Jacks
+Seat 9: Pandakey (button) (small blind) showed [8s Ac] and won ($35.50) with a pair of Aces
+
+

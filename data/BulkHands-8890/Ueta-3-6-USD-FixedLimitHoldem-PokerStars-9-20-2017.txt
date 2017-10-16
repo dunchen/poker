@@ -1,0 +1,114 @@
+PokerStars Hand #175873130809:  Hold'em Limit ($3/$6 USD) - 2017/09/19 20:44:34 ET
+Table 'Ueta' 6-max Seat #2 is the button
+Seat 2: favete lin ($220.21 in chips)
+Seat 6: helenaki ($26.63 in chips)
+favete lin: posts small blind $1
+BigMoe77: is sitting out
+helenaki: posts big blind $3
+*** HOLE CARDS ***
+favete lin: raises $3 to $6
+helenaki: folds
+Uncalled bet ($3) returned to favete lin
+favete lin collected $6 from pot
+favete lin: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: favete lin (button) (small blind) collected ($6)
+Seat 6: helenaki (big blind) folded before Flop
+
+
+PokerStars Hand #175873134436:  Hold'em Limit ($3/$6 USD) - 2017/09/19 20:44:42 ET
+Table 'Ueta' 6-max Seat #6 is the button
+Seat 2: favete lin ($223.21 in chips)
+Seat 6: helenaki ($23.63 in chips)
+helenaki: posts small blind $1
+BigMoe77 leaves the table
+favete lin: posts big blind $3
+*** HOLE CARDS ***
+helenaki: raises $3 to $6
+favete lin: calls $3
+*** FLOP *** [2d As 7h]
+favete lin: checks
+helenaki: bets $3
+BigMoe77 joins the table at seat #5
+favete lin: calls $3
+*** TURN *** [2d As 7h] [Kc]
+favete lin: checks
+helenaki: bets $6
+favete lin: calls $6
+*** RIVER *** [2d As 7h Kc] [6s]
+favete lin: checks
+helenaki: bets $6
+favete lin: calls $6
+*** SHOW DOWN ***
+helenaki: shows [Ac 2c] (two pair, Aces and Deuces)
+favete lin: mucks hand
+helenaki collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2d As 7h Kc 6s]
+Seat 2: favete lin (big blind) mucked
+Seat 6: helenaki (button) (small blind) showed [Ac 2c] and won ($41.50) with two pair, Aces and Deuces
+
+
+PokerStars Hand #175873160753:  Hold'em Limit ($3/$6 USD) - 2017/09/19 20:45:43 ET
+Table 'Ueta' 6-max Seat #2 is the button
+Seat 2: favete lin ($207.64 in chips)
+Seat 6: helenaki ($38.13 in chips)
+favete lin: posts small blind $1
+BigMoe77: is sitting out
+helenaki: posts big blind $3
+*** HOLE CARDS ***
+favete lin: raises $3 to $6
+BigMoe77 leaves the table
+helenaki: raises $3 to $9
+favete lin: calls $3
+*** FLOP *** [Js Th 9c]
+helenaki: bets $3
+favete lin: calls $3
+*** TURN *** [Js Th 9c] [As]
+helenaki: bets $6
+favete lin: calls $6
+*** RIVER *** [Js Th 9c As] [8d]
+helenaki: bets $6
+favete lin: raises $6 to $12
+helenaki: folds
+Uncalled bet ($6) returned to favete lin
+favete lin collected $47.50 from pot
+favete lin: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Js Th 9c As 8d]
+Seat 2: favete lin (button) (small blind) collected ($47.50)
+Seat 6: helenaki (big blind) folded on the River
+
+
+PokerStars Hand #175873170354:  Hold'em Limit ($3/$6 USD) - 2017/09/19 20:46:05 ET
+Table 'Ueta' 6-max Seat #6 is the button
+Seat 2: favete lin ($231.14 in chips)
+Seat 6: helenaki ($14.13 in chips)
+helenaki: posts small blind $1
+favete lin: posts big blind $3
+*** HOLE CARDS ***
+helenaki: raises $3 to $6
+favete lin: raises $3 to $9
+helenaki: raises $3 to $12
+Betting is capped
+favete lin: calls $3
+*** FLOP *** [6c Js 4d]
+favete lin: bets $3
+helenaki: calls $2.13 and is all-in
+Uncalled bet ($0.87) returned to favete lin
+*** TURN *** [6c Js 4d] [7h]
+*** RIVER *** [6c Js 4d 7h] [8d]
+*** SHOW DOWN ***
+favete lin: shows [Th Ks] (high card King)
+helenaki: shows [Kd 2h] (high card King - lower kicker)
+favete lin collected $27.76 from pot
+*** SUMMARY ***
+Total pot $28.26 | Rake $0.50
+Board [6c Js 4d 7h 8d]
+Seat 2: favete lin (big blind) showed [Th Ks] and won ($27.76) with high card King
+Seat 6: helenaki (button) (small blind) showed [Kd 2h] and lost with high card King
+
+

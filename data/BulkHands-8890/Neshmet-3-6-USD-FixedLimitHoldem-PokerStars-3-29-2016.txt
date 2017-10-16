@@ -1,0 +1,103 @@
+PokerStars Hand #151109641006:  Hold'em Limit ($3/$6 USD) - 2016/03/29 8:10:53 ET
+Table 'Neshmet' 6-max Seat #4 is the button
+Seat 4: MTails ($120 in chips)
+Seat 5: boom65 ($40 in chips)
+MTails: posts small blind $1
+boom65: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+boom65: folds
+Uncalled bet ($3) returned to MTails
+MTails collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 4: MTails (button) (small blind) collected ($6)
+Seat 5: boom65 (big blind) folded before Flop
+
+
+PokerStars Hand #151109658555:  Hold'em Limit ($3/$6 USD) - 2016/03/29 8:11:26 ET
+Table 'Neshmet' 6-max Seat #4 is the button
+Seat 4: MTails ($137.50 in chips)
+Seat 5: boom65 ($22 in chips)
+MTails: posts small blind $1
+boom65: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+boom65: calls $3
+*** FLOP *** [8s 9d 3d]
+boom65: checks
+MTails: bets $3
+boom65: raises $3 to $6
+MTails: folds
+Uncalled bet ($3) returned to boom65
+boom65 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8s 9d 3d]
+Seat 4: MTails (button) (small blind) folded on the Flop
+Seat 5: boom65 (big blind) collected ($17.64)
+
+
+PokerStars Hand #151109667869:  Hold'em Limit ($3/$6 USD) - 2016/03/29 8:11:43 ET
+Table 'Neshmet' 6-max Seat #5 is the button
+Seat 4: MTails ($128.50 in chips)
+Seat 5: boom65 ($30.64 in chips)
+boom65: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+boom65: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [9c Qh 9s]
+MTails: checks
+boom65: bets $3
+MTails: raises $3 to $6
+boom65: raises $3 to $9
+MTails: raises $3 to $12
+Betting is capped
+boom65: calls $3
+*** TURN *** [9c Qh 9s] [Ad]
+MTails: bets $6
+boom65: calls $6
+*** RIVER *** [9c Qh 9s Ad] [3h]
+MTails: bets $6
+boom65: calls $6
+*** SHOW DOWN ***
+MTails: shows [8c 9d] (three of a kind, Nines)
+boom65: mucks hand
+MTails collected $59.50 from pot
+boom65 leaves the table
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [9c Qh 9s Ad 3h]
+Seat 4: MTails (big blind) showed [8c 9d] and won ($59.50) with three of a kind, Nines
+Seat 5: boom65 (button) (small blind) mucked
+
+
+PokerStars Hand #151109645966:  Hold'em Limit ($3/$6 USD) - 2016/03/29 8:11:02 ET
+Table 'Neshmet' 6-max Seat #5 is the button
+Seat 4: MTails ($123 in chips)
+Seat 5: boom65 ($37 in chips)
+boom65: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+boom65: calls $2
+MTails: raises $3 to $6
+boom65: calls $3
+*** FLOP *** [9s 5c 2d]
+MTails: bets $3
+boom65: calls $3
+*** TURN *** [9s 5c 2d] [3d]
+MTails: bets $6
+boom65: calls $6
+*** RIVER *** [9s 5c 2d 3d] [5d]
+MTails: bets $6
+boom65: folds
+Uncalled bet ($6) returned to MTails
+MTails collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9s 5c 2d 3d 5d]
+Seat 4: MTails (big blind) collected ($29.50)
+Seat 5: boom65 (button) (small blind) folded on the River
+
+

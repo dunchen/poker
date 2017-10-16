@@ -1,0 +1,52 @@
+PokerStars Hand #148143966813:  Hold'em Limit ($3/$6 USD) - 2016/02/02 20:43:56 ET
+Table 'Pamela' 6-max Seat #5 is the button
+Seat 3: ToDaFelt ($185.64 in chips)
+Seat 5: korikurti ($207.05 in chips)
+korikurti: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+korikurti: calls $2
+ToDaFelt: checks
+*** FLOP *** [6c 4c 7h]
+ToDaFelt: checks
+korikurti: checks
+*** TURN *** [6c 4c 7h] [Ac]
+ToDaFelt: bets $6
+korikurti: calls $6
+*** RIVER *** [6c 4c 7h Ac] [9d]
+ToDaFelt: checks
+korikurti: checks
+*** SHOW DOWN ***
+ToDaFelt: shows [3d Qh] (high card Ace)
+korikurti: shows [Ts Qc] (high card Ace - Queen+Ten kicker)
+korikurti collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6c 4c 7h Ac 9d]
+Seat 3: ToDaFelt (big blind) showed [3d Qh] and lost with high card Ace
+Seat 5: korikurti (button) (small blind) showed [Ts Qc] and won ($17.64) with high card Ace
+
+
+PokerStars Hand #148143982185:  Hold'em Limit ($3/$6 USD) - 2016/02/02 20:44:26 ET
+Table 'Pamela' 6-max Seat #3 is the button
+Seat 3: ToDaFelt ($180 in chips)
+Seat 5: korikurti ($215.69 in chips)
+ToDaFelt: posts small blind $1
+korikurti: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+korikurti: calls $3
+*** FLOP *** [Jd Ah 5h]
+korikurti: checks
+ToDaFelt: bets $3
+korikurti: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $11.76 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jd Ah 5h]
+Seat 3: ToDaFelt (button) (small blind) collected ($11.76)
+Seat 5: korikurti (big blind) folded on the Flop
+
+

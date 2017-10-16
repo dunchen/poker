@@ -1,0 +1,87 @@
+PokerStars Hand #169940249443:  Hold'em Limit ($3/$6 USD) - 2017/05/04 10:37:24 ET
+Table 'Enterprise' 6-max Seat #3 is the button
+Seat 1: TinaTurner72 ($99 in chips)
+Seat 3: chebob ($97.50 in chips)
+chebob: posts small blind $1
+TinaTurner72: posts big blind $3
+*** HOLE CARDS ***
+chebob: raises $3 to $6
+TinaTurner72: raises $3 to $9
+chebob: calls $3
+*** FLOP *** [2s 7h 6c]
+TinaTurner72: bets $3
+chebob: folds
+Uncalled bet ($3) returned to TinaTurner72
+TinaTurner72 collected $17.64 from pot
+TinaTurner72: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2s 7h 6c]
+Seat 1: TinaTurner72 (big blind) collected ($17.64)
+Seat 3: chebob (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #169940234164:  Hold'em Limit ($3/$6 USD) - 2017/05/04 10:37:01 ET
+Table 'Enterprise' 6-max Seat #1 is the button
+Seat 1: TinaTurner72 ($120 in chips)
+Seat 3: chebob ($77 in chips)
+TinaTurner72: posts small blind $1
+chebob: posts big blind $3
+*** HOLE CARDS ***
+TinaTurner72: raises $3 to $6
+chebob: calls $3
+*** FLOP *** [Qh Tc 9s]
+chebob: checks
+TinaTurner72: bets $3
+chebob: calls $3
+*** TURN *** [Qh Tc 9s] [2s]
+chebob: checks
+TinaTurner72: bets $6
+chebob: calls $6
+*** RIVER *** [Qh Tc 9s 2s] [2c]
+chebob: checks
+TinaTurner72: bets $6
+chebob: calls $6
+*** SHOW DOWN ***
+TinaTurner72: shows [5h 6h] (a pair of Deuces)
+chebob: shows [7d 7c] (two pair, Sevens and Deuces)
+chebob collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Qh Tc 9s 2s 2c]
+Seat 1: TinaTurner72 (button) (small blind) showed [5h 6h] and lost with a pair of Deuces
+Seat 3: chebob (big blind) showed [7d 7c] and won ($41.50) with two pair, Sevens and Deuces
+
+
+PokerStars Hand #169940256182:  Hold'em Limit ($3/$6 USD) - 2017/05/04 10:37:35 ET
+Table 'Enterprise' 6-max Seat #1 is the button
+Seat 1: TinaTurner72 ($107.64 in chips)
+Seat 3: chebob ($88.50 in chips)
+TinaTurner72: posts small blind $1
+chebob: posts big blind $3
+*** HOLE CARDS ***
+TinaTurner72: raises $3 to $6
+chebob: calls $3
+*** FLOP *** [2d 7h Js]
+chebob: checks
+TinaTurner72: bets $3
+chebob: calls $3
+*** TURN *** [2d 7h Js] [5s]
+chebob: checks
+TinaTurner72: bets $6
+chebob: raises $6 to $12
+RockKillerTY joins the table at seat #4
+TinaTurner72: calls $6
+*** RIVER *** [2d 7h Js 5s] [6d]
+chebob: bets $6
+Qvidde joins the table at seat #5
+TinaTurner72: folds
+Uncalled bet ($6) returned to chebob
+chebob collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2d 7h Js 5s 6d]
+Seat 1: TinaTurner72 (button) (small blind) folded on the River
+Seat 3: chebob (big blind) collected ($41.50)
+
+

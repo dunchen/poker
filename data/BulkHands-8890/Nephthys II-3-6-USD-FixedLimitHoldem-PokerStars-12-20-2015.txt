@@ -1,0 +1,31 @@
+PokerStars Hand #145653316274:  Hold'em Limit ($3/$6 USD) - 2015/12/20 15:37:59 ET
+Table 'Nephthys II' 6-max Seat #3 is the button
+Seat 3: margo922 ($90 in chips)
+Seat 4: SashaYuvelir ($72 in chips)
+margo922: posts small blind $1
+SashaYuvelir: posts big blind $3
+*** HOLE CARDS ***
+margo922: calls $2
+SashaYuvelir: raises $3 to $6
+margo922: calls $3
+*** FLOP *** [Kh Qs 4h]
+SashaYuvelir: bets $3
+margo922: calls $3
+*** TURN *** [Kh Qs 4h] [Qh]
+vestimokrec joins the table at seat #2
+SashaYuvelir: bets $6
+margo922: calls $6
+*** RIVER *** [Kh Qs 4h Qh] [Tc]
+SashaYuvelir: checks
+margo922: checks
+*** SHOW DOWN ***
+SashaYuvelir: shows [8h 8c] (two pair, Queens and Eights)
+margo922: shows [Kd 7c] (two pair, Kings and Queens)
+margo922 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kh Qs 4h Qh Tc]
+Seat 3: margo922 (button) (small blind) showed [Kd 7c] and won ($29.50) with two pair, Kings and Queens
+Seat 4: SashaYuvelir (big blind) showed [8h 8c] and lost with two pair, Queens and Eights
+
+

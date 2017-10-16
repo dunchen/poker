@@ -1,0 +1,54 @@
+PokerStars Hand #155050236855:  Hold'em Limit ($3/$6 USD) - 2016/06/22 4:19:53 ET
+Table 'Hagar' 6-max Seat #1 is the button
+Seat 1: Ag3r0n ($72 in chips)
+Seat 2: SeanPeary ($30 in chips)
+Ag3r0n: posts small blind $1
+SeanPeary: posts big blind $3
+*** HOLE CARDS ***
+Ag3r0n: raises $3 to $6
+SeanPeary: raises $3 to $9
+Ag3r0n: calls $3
+*** FLOP *** [7h 2c 4c]
+SeanPeary: bets $3
+Ag3r0n: calls $3
+*** TURN *** [7h 2c 4c] [8h]
+SeanPeary: bets $6
+Ag3r0n: raises $6 to $12
+SeanPeary: calls $6
+*** RIVER *** [7h 2c 4c 8h] [6h]
+SeanPeary: checks
+Ag3r0n: checks
+*** SHOW DOWN ***
+SeanPeary: shows [9d As] (high card Ace)
+Ag3r0n: shows [7c 8d] (two pair, Eights and Sevens)
+Ag3r0n collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7h 2c 4c 8h 6h]
+Seat 1: Ag3r0n (button) (small blind) showed [7c 8d] and won ($47.50) with two pair, Eights and Sevens
+Seat 2: SeanPeary (big blind) showed [9d As] and lost with high card Ace
+
+
+PokerStars Hand #155050244466:  Hold'em Limit ($3/$6 USD) - 2016/06/22 4:20:19 ET
+Table 'Hagar' 6-max Seat #2 is the button
+Seat 1: Ag3r0n ($95.50 in chips)
+Seat 2: SeanPeary ($6 in chips)
+SeanPeary: posts small blind $1
+Ag3r0n: posts big blind $3
+*** HOLE CARDS ***
+SeanPeary: raises $3 to $6 and is all-in
+Ag3r0n: calls $3
+*** FLOP *** [Ah 3c Tc]
+*** TURN *** [Ah 3c Tc] [3h]
+*** RIVER *** [Ah 3c Tc 3h] [5d]
+*** SHOW DOWN ***
+Ag3r0n: shows [Th 5c] (two pair, Tens and Fives)
+SeanPeary: shows [Kd Qh] (a pair of Threes)
+Ag3r0n collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ah 3c Tc 3h 5d]
+Seat 1: Ag3r0n (big blind) showed [Th 5c] and won ($11.76) with two pair, Tens and Fives
+Seat 2: SeanPeary (button) (small blind) showed [Kd Qh] and lost with a pair of Threes
+
+

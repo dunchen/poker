@@ -1,0 +1,106 @@
+PokerStars Hand #172599795029:  Hold'em Limit ($3/$6 USD) - 2017/07/04 12:55:57 ET
+Table 'Hollandia' 6-max Seat #5 is the button
+Seat 1: Velbor107 ($264 in chips)
+Seat 5: perten ($135.59 in chips)
+perten: posts small blind $1
+Velbor107: posts big blind $3
+*** HOLE CARDS ***
+perten: folds
+Uncalled bet ($2) returned to Velbor107
+Velbor107 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Velbor107 (big blind) collected ($2)
+Seat 5: perten (button) (small blind) folded before Flop
+
+
+PokerStars Hand #172599776560:  Hold'em Limit ($3/$6 USD) - 2017/07/04 12:55:23 ET
+Table 'Hollandia' 6-max Seat #1 is the button
+Seat 1: Velbor107 ($300 in chips)
+Seat 5: perten ($100.09 in chips)
+Velbor107: posts small blind $1
+perten: posts big blind $3
+*** HOLE CARDS ***
+Velbor107: raises $3 to $6
+perten: raises $3 to $9
+Velbor107: calls $3
+*** FLOP *** [Kc 9d Tc]
+perten: bets $3
+Velbor107: calls $3
+*** TURN *** [Kc 9d Tc] [9h]
+perten: bets $6
+Velbor107: raises $6 to $12
+perten: raises $6 to $18
+Velbor107: calls $6
+*** RIVER *** [Kc 9d Tc 9h] [3s]
+perten: bets $6
+Velbor107: calls $6
+*** SHOW DOWN ***
+perten: shows [Td Ts] (a full house, Tens full of Nines)
+Velbor107: mucks hand
+perten collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [Kc 9d Tc 9h 3s]
+Seat 1: Velbor107 (button) (small blind) mucked
+Seat 5: perten (big blind) showed [Td Ts] and won ($71.50) with a full house, Tens full of Nines
+
+
+PokerStars Hand #172600402284:  Hold'em Limit ($3/$6 USD) - 2017/07/04 13:11:47 ET
+Table 'Hollandia' 6-max Seat #3 is the button
+Seat 3: 19woody58 ($128.64 in chips)
+Seat 4: Agrotait ($63 in chips)
+19woody58: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+19woody58: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [8c 3c Th]
+Agrotait: checks
+19woody58: bets $3
+Agrotait: calls $3
+*** TURN *** [8c 3c Th] [Jc]
+Agrotait: checks
+19woody58: checks
+*** RIVER *** [8c 3c Th Jc] [Ts]
+Agrotait: checks
+19woody58: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to 19woody58
+19woody58 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8c 3c Th Jc Ts]
+Seat 3: 19woody58 (button) (small blind) collected ($17.64)
+Seat 4: Agrotait (big blind) folded on the River
+
+
+PokerStars Hand #172600385285:  Hold'em Limit ($3/$6 USD) - 2017/07/04 13:11:21 ET
+Table 'Hollandia' 6-max Seat #4 is the button
+Seat 3: 19woody58 ($120 in chips)
+Seat 4: Agrotait ($72 in chips)
+Agrotait: posts small blind $1
+19woody58: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+19woody58: calls $3
+*** FLOP *** [Ac As 6h]
+19woody58: checks
+Agrotait: bets $3
+Krazy90 joins the table at seat #5
+19woody58: calls $3
+*** TURN *** [Ac As 6h] [2d]
+19woody58: checks
+Agrotait: checks
+*** RIVER *** [Ac As 6h 2d] [4h]
+19woody58: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to 19woody58
+19woody58 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ac As 6h 2d 4h]
+Seat 3: 19woody58 (big blind) collected ($17.64)
+Seat 4: Agrotait (button) (small blind) folded on the River
+
+

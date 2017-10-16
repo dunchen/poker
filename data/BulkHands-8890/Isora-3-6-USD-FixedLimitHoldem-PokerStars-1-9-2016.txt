@@ -1,0 +1,61 @@
+PokerStars Hand #146735904056:  Hold'em Limit ($3/$6 USD) - 2016/01/09 9:14:50 ET
+Table 'Isora' 2-max Seat #1 is the button
+Seat 1: Allegro75 ($73 in chips)
+Seat 2: HARDGURU ($197 in chips)
+Allegro75: posts small blind $1
+HARDGURU: posts big blind $3
+*** HOLE CARDS ***
+Allegro75: raises $3 to $6
+HARDGURU: calls $3
+*** FLOP *** [Jc Kc 2h]
+HARDGURU: checks
+Allegro75: bets $3
+HARDGURU: raises $3 to $6
+Allegro75: calls $3
+*** TURN *** [Jc Kc 2h] [5s]
+HARDGURU: checks
+Allegro75: checks
+*** RIVER *** [Jc Kc 2h 5s] [6c]
+HARDGURU: bets $6
+Allegro75: calls $6
+*** SHOW DOWN ***
+HARDGURU: shows [Td Qc] (high card King)
+Allegro75: shows [9c As] (high card Ace)
+Allegro75 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Jc Kc 2h 5s 6c]
+Seat 1: Allegro75 (button) (small blind) showed [9c As] and won ($35.50) with high card Ace
+Seat 2: HARDGURU (big blind) showed [Td Qc] and lost with high card King
+
+
+PokerStars Hand #146735964999:  Hold'em Limit ($3/$6 USD) - 2016/01/09 9:16:04 ET
+Table 'Isora' 2-max Seat #2 is the button
+Seat 1: Allegro75 ($90.50 in chips)
+Seat 2: HARDGURU ($179 in chips)
+HARDGURU: posts small blind $1
+Allegro75: posts big blind $3
+*** HOLE CARDS ***
+HARDGURU: raises $3 to $6
+Allegro75: raises $3 to $9
+HARDGURU: calls $3
+*** FLOP *** [7s 9c 6c]
+Allegro75: bets $3
+HARDGURU: calls $3
+*** TURN *** [7s 9c 6c] [7d]
+Allegro75: bets $6
+HARDGURU: calls $6
+*** RIVER *** [7s 9c 6c 7d] [6d]
+Allegro75: checks
+HARDGURU: checks
+*** SHOW DOWN ***
+Allegro75: shows [Ah Js] (two pair, Sevens and Sixes)
+HARDGURU: shows [Th 9s] (two pair, Nines and Sevens)
+HARDGURU collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [7s 9c 6c 7d 6d]
+Seat 1: Allegro75 (big blind) showed [Ah Js] and lost with two pair, Sevens and Sixes
+Seat 2: HARDGURU (button) (small blind) showed [Th 9s] and won ($35.50) with two pair, Nines and Sevens
+
+

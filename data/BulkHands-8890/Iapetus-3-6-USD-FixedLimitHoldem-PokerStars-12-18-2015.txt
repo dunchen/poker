@@ -1,0 +1,35 @@
+PokerStars Hand #145535198235:  Hold'em Limit ($3/$6 USD) - 2015/12/18 11:46:12 ET
+Table 'Iapetus' 6-max Seat #3 is the button
+Seat 3: pejoba ($45.58 in chips)
+Seat 6: bakks ($202.83 in chips)
+Karpik09 will be allowed to play after the button
+Krazy90 will be allowed to play after the button
+pejoba: posts small blind $1
+belik555: is sitting out
+bakks: posts big blind $3
+*** HOLE CARDS ***
+pejoba: raises $3 to $6
+bakks: raises $3 to $9
+pejoba: calls $3
+*** FLOP *** [7s 4h Ts]
+bakks: bets $3
+pejoba: calls $3
+*** TURN *** [7s 4h Ts] [Kd]
+bakks: bets $6
+belik555 leaves the table
+pejoba: calls $6
+*** RIVER *** [7s 4h Ts Kd] [Kh]
+bakks: checks
+pejoba: bets $6
+bakks: calls $6
+*** SHOW DOWN ***
+pejoba: shows [8s Jd] (a pair of Kings)
+bakks: shows [Ac Qs] (a pair of Kings - Ace kicker)
+bakks collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7s 4h Ts Kd Kh]
+Seat 3: pejoba (button) (small blind) showed [8s Jd] and lost with a pair of Kings
+Seat 6: bakks (big blind) showed [Ac Qs] and won ($47.50) with a pair of Kings
+
+

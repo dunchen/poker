@@ -1,0 +1,66 @@
+PokerStars Hand #151842111638:  Hold'em Limit ($3/$6 USD) - 2016/04/13 0:09:47 ET
+Table 'Gaviola' 6-max Seat #4 is the button
+Seat 1: cim@rron ($84 in chips)
+Seat 4: VolkovDmitri ($121 in chips)
+VolkovDmitri: posts small blind $1
+cim@rron: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+cim@rron: calls $3
+*** FLOP *** [Jd 6d Qs]
+cim@rron: checks
+VolkovDmitri: bets $3
+cim@rron: calls $3
+*** TURN *** [Jd 6d Qs] [5c]
+GarryMcCoy joins the table at seat #2
+cim@rron: checks
+VolkovDmitri: checks
+*** RIVER *** [Jd 6d Qs 5c] [4h]
+cim@rron: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+cim@rron: shows [9s Td] (high card Queen)
+VolkovDmitri: shows [8d 4d] (a pair of Fours)
+VolkovDmitri collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Jd 6d Qs 5c 4h]
+Seat 1: cim@rron (big blind) showed [9s Td] and lost with high card Queen
+Seat 4: VolkovDmitri (button) (small blind) showed [8d 4d] and won ($17.64) with a pair of Fours
+
+
+PokerStars Hand #151842204112:  Hold'em Limit ($3/$6 USD) - 2016/04/13 0:15:23 ET
+Table 'Gaviola' 6-max Seat #2 is the button
+Seat 2: GarryMcCoy ($153.71 in chips)
+Seat 4: VolkovDmitri ($154.20 in chips)
+GarryMcCoy: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+GarryMcCoy: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: GarryMcCoy (button) (small blind) folded before Flop
+Seat 4: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #151842201011:  Hold'em Limit ($3/$6 USD) - 2016/04/13 0:15:12 ET
+Table 'Gaviola' 6-max Seat #4 is the button
+Seat 2: GarryMcCoy ($156.71 in chips)
+Seat 4: VolkovDmitri ($151.20 in chips)
+VolkovDmitri: posts small blind $1
+GarryMcCoy: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+GarryMcCoy: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: GarryMcCoy (big blind) folded before Flop
+Seat 4: VolkovDmitri (button) (small blind) collected ($6)
+
+

@@ -1,0 +1,32 @@
+PokerStars Hand #169307671676:  Hold'em Limit ($3/$6 USD) - 2017/04/20 11:25:55 ET
+Table 'Summa II' 6-max Seat #4 is the button
+Seat 1: LifeisagameX ($103.83 in chips)
+Seat 4: B_loJkl ($147 in chips)
+B_loJkl: posts small blind $1
+LifeisagameX: posts big blind $3
+*** HOLE CARDS ***
+djalx0 leaves the table
+B_loJkl: raises $3 to $6
+LifeisagameX: calls $3
+*** FLOP *** [4d 2h 7c]
+LifeisagameX: checks
+B_loJkl: bets $3
+LifeisagameX: raises $3 to $6
+B_loJkl: calls $3
+*** TURN *** [4d 2h 7c] [Tc]
+LifeisagameX: bets $6
+B_loJkl: calls $6
+*** RIVER *** [4d 2h 7c Tc] [9h]
+LifeisagameX: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+LifeisagameX: shows [6h 5c] (high card Ten)
+B_loJkl: shows [Ah 2d] (a pair of Deuces)
+B_loJkl collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4d 2h 7c Tc 9h]
+Seat 1: LifeisagameX (big blind) showed [6h 5c] and lost with high card Ten
+Seat 4: B_loJkl (button) (small blind) showed [Ah 2d] and won ($47.50) with a pair of Deuces
+
+

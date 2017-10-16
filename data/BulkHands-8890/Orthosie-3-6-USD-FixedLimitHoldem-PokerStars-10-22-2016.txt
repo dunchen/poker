@@ -1,0 +1,73 @@
+PokerStars Hand #160261661116:  Hold'em Limit ($3/$6 USD) - 2016/10/21 21:37:15 ET
+Table 'Orthosie' 6-max Seat #2 is the button
+Seat 2: ToDaFelt ($571.58 in chips)
+Seat 5: krytalex ($128.91 in chips)
+ToDaFelt: posts small blind $1
+skaluah: is sitting out
+krytalex: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+skaluah leaves the table
+krytalex: calls $3
+*** FLOP *** [9c 4c 2c]
+krytalex: checks
+ToDaFelt: bets $3
+krytalex: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $11.76 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9c 4c 2c]
+Seat 2: ToDaFelt (button) (small blind) collected ($11.76)
+Seat 5: krytalex (big blind) folded on the Flop
+
+
+PokerStars Hand #160261692768:  Hold'em Limit ($3/$6 USD) - 2016/10/21 21:38:31 ET
+Table 'Orthosie' 6-max Seat #2 is the button
+Seat 2: ToDaFelt ($547.34 in chips)
+Seat 5: krytalex ($152.41 in chips)
+ToDaFelt: posts small blind $1
+krytalex: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: folds
+Uncalled bet ($2) returned to krytalex
+krytalex collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: ToDaFelt (button) (small blind) folded before Flop
+Seat 5: krytalex (big blind) collected ($2)
+
+
+PokerStars Hand #160261680129:  Hold'em Limit ($3/$6 USD) - 2016/10/21 21:38:00 ET
+Table 'Orthosie' 6-max Seat #5 is the button
+Seat 2: ToDaFelt ($577.34 in chips)
+Seat 5: krytalex ($122.91 in chips)
+krytalex: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+krytalex: raises $3 to $6
+ToDaFelt: raises $3 to $9
+krytalex: calls $3
+*** FLOP *** [Kh Jc 8d]
+ToDaFelt: bets $3
+krytalex: calls $3
+*** TURN *** [Kh Jc 8d] [Qd]
+ToDaFelt: bets $6
+krytalex: raises $6 to $12
+ToDaFelt: calls $6
+*** RIVER *** [Kh Jc 8d Qd] [2h]
+ToDaFelt: checks
+krytalex: bets $6
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+krytalex: shows [As Td] (a straight, Ten to Ace)
+ToDaFelt: mucks hand
+krytalex collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Kh Jc 8d Qd 2h]
+Seat 2: ToDaFelt (big blind) mucked
+Seat 5: krytalex (button) (small blind) showed [As Td] and won ($59.50) with a straight, Ten to Ace
+
+

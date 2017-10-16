@@ -1,0 +1,91 @@
+PokerStars Hand #176353032625:  Hold'em Limit ($3/$6 USD) - 2017/10/01 11:11:35 ET
+Table 'Pawlowia' 6-max Seat #4 is the button
+Seat 1: demaire ($112.09 in chips)
+Seat 4: Agrotait ($62.92 in chips)
+Agrotait: posts small blind $1
+demaire: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+demaire: calls $3
+*** FLOP *** [7d 4c 2h]
+demaire: checks
+Agrotait: checks
+*** TURN *** [7d 4c 2h] [Qd]
+demaire: checks
+Agrotait: bets $6
+demaire: calls $6
+*** RIVER *** [7d 4c 2h Qd] [4d]
+demaire: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+demaire: shows [3d 5d] (a flush, Queen high)
+Agrotait: mucks hand
+demaire collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [7d 4c 2h Qd 4d]
+Seat 1: demaire (big blind) showed [3d 5d] and won ($35.50) with a flush, Queen high
+Seat 4: Agrotait (button) (small blind) mucked
+
+
+PokerStars Hand #176353047623:  Hold'em Limit ($3/$6 USD) - 2017/10/01 11:11:57 ET
+Table 'Pawlowia' 6-max Seat #1 is the button
+Seat 1: demaire ($129.59 in chips)
+Seat 4: Agrotait ($44.92 in chips)
+demaire: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+demaire: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [Qc Td 7c]
+Agrotait: checks
+demaire: checks
+*** TURN *** [Qc Td 7c] [5c]
+Agrotait: bets $6
+demaire: calls $6
+*** RIVER *** [Qc Td 7c 5c] [3d]
+Agrotait: checks
+demaire: checks
+*** SHOW DOWN ***
+Agrotait: shows [Jc 5s] (a pair of Fives)
+demaire: shows [5d Jd] (a pair of Fives)
+Agrotait collected $11.76 from pot
+demaire collected $11.76 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Qc Td 7c 5c 3d]
+Seat 1: demaire (button) (small blind) showed [5d Jd] and won ($11.76) with a pair of Fives
+Seat 4: Agrotait (big blind) showed [Jc 5s] and won ($11.76) with a pair of Fives
+
+
+PokerStars Hand #176353060721:  Hold'em Limit ($3/$6 USD) - 2017/10/01 11:12:17 ET
+Table 'Pawlowia' 6-max Seat #4 is the button
+Seat 1: demaire ($129.35 in chips)
+Seat 4: Agrotait ($44.68 in chips)
+Agrotait: posts small blind $1
+demaire: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+demaire: calls $3
+*** FLOP *** [5s 4d 6s]
+demaire: checks
+Agrotait: bets $3
+demaire: calls $3
+*** TURN *** [5s 4d 6s] [2d]
+demaire: checks
+Tarquilo joins the table at seat #3
+Agrotait: checks
+*** RIVER *** [5s 4d 6s 2d] [9c]
+demaire: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+demaire: shows [2h 5h] (two pair, Fives and Deuces)
+Agrotait: mucks hand
+demaire collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5s 4d 6s 2d 9c]
+Seat 1: demaire (big blind) showed [2h 5h] and won ($29.50) with two pair, Fives and Deuces
+Seat 4: Agrotait (button) (small blind) mucked
+
+

@@ -1,0 +1,119 @@
+PokerStars Hand #168908669436:  Hold'em Limit ($3/$6 USD) - 2017/04/11 17:56:14 ET
+Table 'Flavia' 6-max Seat #6 is the button
+Seat 3: Kristine222 ($120 in chips)
+Seat 6: ToDaFelt ($120 in chips)
+ToDaFelt: posts small blind $1
+Kristine222: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+Kristine222: calls $3
+*** FLOP *** [Th Jh 3d]
+Kristine222: checks
+yamaxerm joins the table at seat #4
+ToDaFelt: bets $3
+Kristine222: calls $3
+*** TURN *** [Th Jh 3d] [8s]
+Kristine222: checks
+ToDaFelt: bets $6
+Kristine222: calls $6
+*** RIVER *** [Th Jh 3d 8s] [3s]
+GoliafUa joins the table at seat #5
+Kristine222: checks
+ToDaFelt: bets $6
+Kristine222: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [6c 9h] (a pair of Threes)
+Kristine222: shows [4s Jc] (two pair, Jacks and Threes)
+Kristine222 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Th Jh 3d 8s 3s]
+Seat 3: Kristine222 (big blind) showed [4s Jc] and won ($41.50) with two pair, Jacks and Threes
+Seat 6: ToDaFelt (button) (small blind) showed [6c 9h] and lost with a pair of Threes
+
+
+PokerStars Hand #168908732695:  Hold'em Limit ($3/$6 USD) - 2017/04/11 17:57:52 ET
+Table 'Flavia' 6-max Seat #6 is the button
+Seat 4: yamaxerm ($114 in chips)
+Seat 6: ToDaFelt ($80.19 in chips)
+ToDaFelt: posts small blind $1
+yamaxerm: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa leaves the table
+ToDaFelt: raises $3 to $6
+yamaxerm: calls $3
+*** FLOP *** [8h Ah 2h]
+yamaxerm: checks
+ToDaFelt: bets $3
+chsergey81 joins the table at seat #5
+yamaxerm: calls $3
+*** TURN *** [8h Ah 2h] [2d]
+yamaxerm: checks
+ToDaFelt: bets $6
+yamaxerm: raises $6 to $12
+ToDaFelt: calls $6
+*** RIVER *** [8h Ah 2h 2d] [Ts]
+yamaxerm: bets $6
+ToDaFelt: folds
+Uncalled bet ($6) returned to yamaxerm
+yamaxerm collected $41.50 from pot
+yamaxerm: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [8h Ah 2h 2d Ts]
+Seat 4: yamaxerm (big blind) collected ($41.50)
+Seat 6: ToDaFelt (button) (small blind) folded on the River
+
+
+PokerStars Hand #168911245079:  Hold'em Limit ($3/$6 USD) - 2017/04/11 18:58:09 ET
+Table 'Flavia' 6-max Seat #1 is the button
+Seat 1: Donald ($65.07 in chips)
+Seat 5: karambakilla ($126.89 in chips)
+Donald: posts small blind $1
+karambakilla: posts big blind $3
+*** HOLE CARDS ***
+Donald: raises $3 to $6
+karambakilla: calls $3
+*** FLOP *** [2c Kc 8s]
+karambakilla: checks
+Donald: bets $3
+karambakilla: folds
+Uncalled bet ($3) returned to Donald
+Donald collected $11.76 from pot
+Donald: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2c Kc 8s]
+Seat 1: Donald (button) (small blind) collected ($11.76)
+Seat 5: karambakilla (big blind) folded on the Flop
+
+
+PokerStars Hand #168911236149:  Hold'em Limit ($3/$6 USD) - 2017/04/11 18:57:53 ET
+Table 'Flavia' 6-max Seat #5 is the button
+Seat 1: Donald ($53.55 in chips)
+Seat 5: karambakilla ($138.89 in chips)
+karambakilla: posts small blind $1
+ToDaFelt: is sitting out
+Donald: posts big blind $3
+*** HOLE CARDS ***
+karambakilla: raises $3 to $6
+Donald: calls $3
+*** FLOP *** [3h Js 7d]
+ToDaFelt leaves the table
+Donald: checks
+karambakilla: bets $3
+Donald: raises $3 to $6
+karambakilla: calls $3
+*** TURN *** [3h Js 7d] [9d]
+Donald: bets $6
+karambakilla: folds
+Uncalled bet ($6) returned to Donald
+Donald collected $23.52 from pot
+Donald: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [3h Js 7d 9d]
+Seat 1: Donald (big blind) collected ($23.52)
+Seat 5: karambakilla (button) (small blind) folded on the Turn
+
+

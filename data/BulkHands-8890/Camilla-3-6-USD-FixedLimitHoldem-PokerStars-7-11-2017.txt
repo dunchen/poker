@@ -1,0 +1,68 @@
+PokerStars Hand #172878065140:  Hold'em Limit ($3/$6 USD) - 2017/07/10 23:18:58 ET
+Table 'Camilla' 6-max Seat #5 is the button
+Seat 1: B_loJkl ($166.12 in chips)
+Seat 5: Tante Hilda ($418.07 in chips)
+Vitalisek will be allowed to play after the button
+Chessnok will be allowed to play after the button
+Tante Hilda: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Tante Hilda: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Ad Kd 7s]
+B_loJkl: checks
+Tante Hilda: bets $3
+B_loJkl: calls $3
+*** TURN *** [Ad Kd 7s] [5d]
+B_loJkl: checks
+Tante Hilda: bets $6
+B_loJkl: calls $6
+*** RIVER *** [Ad Kd 7s 5d] [4c]
+B_loJkl: checks
+Tante Hilda: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+Tante Hilda: shows [8s 8d] (a pair of Eights)
+B_loJkl: mucks hand
+Tante Hilda collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ad Kd 7s 5d 4c]
+Seat 1: B_loJkl (big blind) mucked
+Seat 5: Tante Hilda (button) (small blind) showed [8s 8d] and won ($41.50) with a pair of Eights
+
+
+PokerStars Hand #172879443962:  Hold'em Limit ($3/$6 USD) - 2017/07/11 0:41:00 ET
+Table 'Camilla' 6-max Seat #4 is the button
+Seat 2: UNABELIEVE ($20 in chips)
+Seat 4: Chessnok ($435.52 in chips)
+Chessnok: posts small blind $1
+B_loJkl: is sitting out
+patrikskjold: is sitting out
+UNABELIEVE: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+B_loJkl leaves the table
+B_loJkl joins the table at seat #3
+UNABELIEVE: calls $3
+*** FLOP *** [4s 6h 5s]
+UNABELIEVE: bets $3
+Chessnok: calls $3
+*** TURN *** [4s 6h 5s] [Ah]
+UNABELIEVE: checks
+Chessnok: bets $6
+UNABELIEVE: calls $6
+*** RIVER *** [4s 6h 5s Ah] [9h]
+UNABELIEVE: checks
+Chessnok: checks
+*** SHOW DOWN ***
+UNABELIEVE: shows [8d 4h] (a pair of Fours)
+Chessnok: shows [3c 5c] (a pair of Fives)
+Chessnok collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4s 6h 5s Ah 9h]
+Seat 2: UNABELIEVE (big blind) showed [8d 4h] and lost with a pair of Fours
+Seat 4: Chessnok (button) (small blind) showed [3c 5c] and won ($29.50) with a pair of Fives
+
+

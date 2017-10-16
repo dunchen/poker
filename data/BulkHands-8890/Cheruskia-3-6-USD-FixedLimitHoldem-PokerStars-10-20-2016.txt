@@ -1,0 +1,111 @@
+PokerStars Hand #160205848547:  Hold'em Limit ($3/$6 USD) - 2016/10/20 16:31:21 ET
+Table 'Cheruskia' 10-max Seat #5 is the button
+Seat 5: too2ez ($120 in chips)
+Seat 6: assitoni ($72 in chips)
+too2ez: posts small blind $1
+assitoni: posts big blind $3
+*** HOLE CARDS ***
+too2ez: raises $3 to $6
+Psynto joins the table at seat #7
+assitoni: raises $3 to $9
+too2ez: raises $3 to $12
+Betting is capped
+assitoni: calls $3
+*** FLOP *** [3d 4c 9d]
+assitoni: checks
+too2ez: bets $3
+assitoni: folds
+Uncalled bet ($3) returned to too2ez
+too2ez collected $23.52 from pot
+too2ez: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [3d 4c 9d]
+Seat 5: too2ez (button) (small blind) collected ($23.52)
+Seat 6: assitoni (big blind) folded on the Flop
+
+
+PokerStars Hand #160205944393:  Hold'em Limit ($3/$6 USD) - 2016/10/20 16:33:10 ET
+Table 'Cheruskia' 10-max Seat #5 is the button
+Seat 5: too2ez ($139.98 in chips)
+Seat 7: Psynto ($72 in chips)
+too2ez: posts small blind $1
+assitoni: is sitting out
+Psynto: posts big blind $3
+*** HOLE CARDS ***
+too2ez: folds
+Uncalled bet ($2) returned to Psynto
+Psynto collected $2 from pot
+Psynto: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: too2ez (button) (small blind) folded before Flop
+Seat 7: Psynto (big blind) collected ($2)
+
+
+PokerStars Hand #160208398644:  Hold'em Limit ($3/$6 USD) - 2016/10/20 17:23:40 ET
+Table 'Cheruskia' 10-max Seat #6 is the button
+Seat 6: assitoni ($72 in chips)
+Seat 8: Vezunchik_61 ($29.75 in chips)
+assitoni: posts small blind $1
+Vezunchik_61: posts big blind $3
+*** HOLE CARDS ***
+assitoni: raises $3 to $6
+Vezunchik_61: calls $3
+*** FLOP *** [Qh 9s 7s]
+Vezunchik_61: bets $3
+assitoni: calls $3
+*** TURN *** [Qh 9s 7s] [Ts]
+Vezunchik_61: bets $6
+assitoni: calls $6
+*** RIVER *** [Qh 9s 7s Ts] [Ac]
+Vezunchik_61: checks
+assitoni: bets $6
+Vezunchik_61: calls $6
+*** SHOW DOWN ***
+assitoni: shows [Ah Tc] (two pair, Aces and Tens)
+Vezunchik_61: mucks hand
+Siwy56 joins the table at seat #1
+assitoni collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Qh 9s 7s Ts Ac]
+Seat 6: assitoni (button) (small blind) showed [Ah Tc] and won ($41.50) with two pair, Aces and Tens
+Seat 8: Vezunchik_61 (big blind) mucked
+
+
+PokerStars Hand #160208363448:  Hold'em Limit ($3/$6 USD) - 2016/10/20 17:22:56 ET
+Table 'Cheruskia' 10-max Seat #8 is the button
+Seat 6: assitoni ($72 in chips)
+Seat 8: Vezunchik_61 ($30 in chips)
+Vezunchik_61: posts small blind $1
+Psynto joins the table at seat #9
+assitoni: posts big blind $3
+*** HOLE CARDS ***
+Vezunchik_61: calls $2
+assitoni: checks
+*** FLOP *** [5h As 3s]
+assitoni: checks
+Vezunchik_61: bets $3
+ToDaFelt joins the table at seat #10
+assitoni: raises $3 to $6
+Vezunchik_61: calls $3
+*** TURN *** [5h As 3s] [4h]
+assitoni: bets $6
+Vezunchik_61: calls $6
+*** RIVER *** [5h As 3s 4h] [2c]
+assitoni: bets $6
+Vezunchik_61: raises $6 to $12
+assitoni: calls $6
+*** SHOW DOWN ***
+Vezunchik_61: shows [6d 4c] (a straight, Deuce to Six)
+assitoni: shows [6s 9d] (a straight, Deuce to Six)
+assitoni collected $26.75 from pot
+Vezunchik_61 collected $26.75 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [5h As 3s 4h 2c]
+Seat 6: assitoni (big blind) showed [6s 9d] and won ($26.75) with a straight, Deuce to Six
+Seat 8: Vezunchik_61 (button) (small blind) showed [6d 4c] and won ($26.75) with a straight, Deuce to Six
+
+

@@ -1,0 +1,93 @@
+PokerStars Hand #150981723207:  Hold'em Limit ($3/$6 USD) - 2016/03/26 18:32:38 ET
+Table 'Salli III' 6-max Seat #1 is the button
+Seat 1: elcapi03 ($102.76 in chips)
+Seat 4: AzureCaper ($75 in chips)
+elcapi03: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+elcapi03: calls $2
+AzureCaper: checks
+*** FLOP *** [2d Jc 7d]
+AzureCaper: checks
+elcapi03: checks
+*** TURN *** [2d Jc 7d] [Js]
+AzureCaper: bets $6
+elcapi03: calls $6
+*** RIVER *** [2d Jc 7d Js] [4s]
+AzureCaper: checks
+elcapi03: checks
+*** SHOW DOWN ***
+AzureCaper: shows [6s Ks] (a pair of Jacks)
+elcapi03: shows [9h 2h] (two pair, Jacks and Deuces)
+elcapi03 collected $17.64 from pot
+vestimokrec joins the table at seat #2
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2d Jc 7d Js 4s]
+Seat 1: elcapi03 (button) (small blind) showed [9h 2h] and won ($17.64) with two pair, Jacks and Deuces
+Seat 4: AzureCaper (big blind) showed [6s Ks] and lost with a pair of Jacks
+
+
+PokerStars Hand #150981705665:  Hold'em Limit ($3/$6 USD) - 2016/03/26 18:32:18 ET
+Table 'Salli III' 6-max Seat #4 is the button
+Seat 1: elcapi03 ($105.76 in chips)
+Seat 4: AzureCaper ($72 in chips)
+AzureCaper: posts small blind $1
+elcapi03: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+elcapi03: folds
+Uncalled bet ($3) returned to AzureCaper
+AzureCaper collected $6 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: elcapi03 (big blind) folded before Flop
+Seat 4: AzureCaper (button) (small blind) collected ($6)
+
+
+PokerStars Hand #150981681956:  Hold'em Limit ($3/$6 USD) - 2016/03/26 18:31:52 ET
+Table 'Salli III' 6-max Seat #1 is the button
+Seat 1: elcapi03 ($100 in chips)
+Seat 4: AzureCaper ($72 in chips)
+elcapi03: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+elcapi03: calls $2
+AzureCaper: checks
+*** FLOP *** [6h Kc 2s]
+AzureCaper: bets $3
+elcapi03: calls $3
+*** TURN *** [6h Kc 2s] [Qs]
+AzureCaper: checks
+elcapi03: bets $6
+AzureCaper: folds
+Uncalled bet ($6) returned to elcapi03
+elcapi03 collected $11.76 from pot
+elcapi03: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6h Kc 2s Qs]
+Seat 1: elcapi03 (button) (small blind) collected ($11.76)
+Seat 4: AzureCaper (big blind) folded on the Turn
+
+
+PokerStars Hand #150981743770:  Hold'em Limit ($3/$6 USD) - 2016/03/26 18:33:01 ET
+Table 'Salli III' 6-max Seat #4 is the button
+Seat 1: elcapi03 ($111.40 in chips)
+Seat 4: AzureCaper ($72 in chips)
+AzureCaper: posts small blind $1
+elcapi03: posts big blind $3
+*** HOLE CARDS ***
+minigus575 joins the table at seat #3
+AzureCaper: raises $3 to $6
+elcapi03: folds
+Uncalled bet ($3) returned to AzureCaper
+AzureCaper collected $6 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: elcapi03 (big blind) folded before Flop
+Seat 4: AzureCaper (button) (small blind) collected ($6)
+
+

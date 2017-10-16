@@ -1,0 +1,56 @@
+PokerStars Hand #145403102700:  Hold'em Limit ($3/$6 USD) - 2015/12/15 17:04:11 ET
+Table 'Dubhe II' 2-max Seat #1 is the button
+Seat 1: elifnur2008 ($153.50 in chips)
+Seat 2: sido441 ($7.41 in chips)
+elifnur2008: posts small blind $1
+sido441: posts big blind $3
+*** HOLE CARDS ***
+elifnur2008: raises $3 to $6
+sido441: raises $1.41 to $7.41 and is all-in
+elifnur2008: calls $1.41
+*** FLOP *** [4d Ac Th]
+*** TURN *** [4d Ac Th] [6d]
+*** RIVER *** [4d Ac Th 6d] [6h]
+*** SHOW DOWN ***
+sido441: shows [Jc Qc] (a pair of Sixes)
+elifnur2008: shows [Qs Kc] (a pair of Sixes - Ace+King kicker)
+elifnur2008 collected $14.52 from pot
+*** SUMMARY ***
+Total pot $14.82 | Rake $0.30
+Board [4d Ac Th 6d 6h]
+Seat 1: elifnur2008 (button) (small blind) showed [Qs Kc] and won ($14.52) with a pair of Sixes
+Seat 2: sido441 (big blind) showed [Jc Qc] and lost with a pair of Sixes
+
+
+PokerStars Hand #145403053520:  Hold'em Limit ($3/$6 USD) - 2015/12/15 17:03:19 ET
+Table 'Dubhe II' 2-max Seat #2 is the button
+Seat 1: elifnur2008 ($124 in chips)
+Seat 2: sido441 ($37.41 in chips)
+sido441: posts small blind $1
+elifnur2008: posts big blind $3
+*** HOLE CARDS ***
+sido441: raises $3 to $6
+elifnur2008: raises $3 to $9
+sido441: calls $3
+*** FLOP *** [2c 7s 3s]
+elifnur2008: bets $3
+sido441: calls $3
+*** TURN *** [2c 7s 3s] [5h]
+elifnur2008: bets $6
+sido441: raises $6 to $12
+elifnur2008: calls $6
+*** RIVER *** [2c 7s 3s 5h] [Tc]
+elifnur2008: checks
+sido441: bets $6
+elifnur2008: calls $6
+*** SHOW DOWN ***
+sido441: shows [Qh 4s] (high card Queen)
+elifnur2008: shows [Ad Jh] (high card Ace)
+elifnur2008 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [2c 7s 3s 5h Tc]
+Seat 1: elifnur2008 (big blind) showed [Ad Jh] and won ($59.50) with high card Ace
+Seat 2: sido441 (button) (small blind) showed [Qh 4s] and lost with high card Queen
+
+

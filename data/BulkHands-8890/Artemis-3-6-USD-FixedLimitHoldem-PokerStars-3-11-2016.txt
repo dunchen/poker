@@ -1,0 +1,74 @@
+PokerStars Hand #150167692676:  Hold'em Limit ($3/$6 USD) - 2016/03/11 0:31:11 ET
+Table 'Artemis' 6-max Seat #2 is the button
+Seat 2: Molson848 ($6 in chips)
+Seat 3: Agrotait ($72 in chips)
+Molson848: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+Molson848: raises $3 to $6 and is all-in
+Agrotait: calls $3
+*** FLOP *** [3c 2h 6d]
+*** TURN *** [3c 2h 6d] [Qd]
+*** RIVER *** [3c 2h 6d Qd] [9d]
+*** SHOW DOWN ***
+Agrotait: shows [6s 5c] (a pair of Sixes)
+Molson848: shows [6h 4d] (a pair of Sixes - lower kicker)
+Agrotait collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3c 2h 6d Qd 9d]
+Seat 2: Molson848 (button) (small blind) showed [6h 4d] and lost with a pair of Sixes
+Seat 3: Agrotait (big blind) showed [6s 5c] and won ($11.76) with a pair of Sixes
+
+
+PokerStars Hand #150167685988:  Hold'em Limit ($3/$6 USD) - 2016/03/11 0:30:47 ET
+Table 'Artemis' 6-max Seat #4 is the button
+Seat 2: Molson848 ($24 in chips)
+Seat 4: VolkovDmitri ($125.76 in chips)
+VolkovDmitri: posts small blind $1
+Molson848: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Molson848: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [2d Th Qh]
+Molson848: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [2d Th Qh] [7h]
+Molson848: bets $6
+VolkovDmitri: raises $6 to $12
+Molson848: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $35.50 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [2d Th Qh 7h]
+Seat 2: Molson848 (big blind) folded on the Turn
+Seat 4: VolkovDmitri (button) (small blind) collected ($35.50)
+
+
+PokerStars Hand #150167681235:  Hold'em Limit ($3/$6 USD) - 2016/03/11 0:30:29 ET
+Table 'Artemis' 6-max Seat #2 is the button
+Seat 2: Molson848 ($30 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+Molson848: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Agrotait joins the table at seat #3
+Molson848: calls $2
+VolkovDmitri: raises $3 to $6
+Molson848: calls $3
+*** FLOP *** [7d As 7c]
+VolkovDmitri: bets $3
+Molson848: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7d As 7c]
+Seat 2: Molson848 (button) (small blind) folded on the Flop
+Seat 4: VolkovDmitri (big blind) collected ($11.76)
+
+

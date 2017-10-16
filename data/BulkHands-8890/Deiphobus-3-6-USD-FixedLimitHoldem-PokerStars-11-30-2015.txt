@@ -1,0 +1,29 @@
+PokerStars Hand #144634521184:  Hold'em Limit ($3/$6 USD) - 2015/11/30 17:58:59 ET
+Table 'Deiphobus' 2-max Seat #2 is the button
+Seat 1: pvylam ($129.82 in chips)
+Seat 2: ferdeez ($11.34 in chips)
+ferdeez: posts small blind $1
+pvylam: posts big blind $3
+*** HOLE CARDS ***
+ferdeez: calls $2
+pvylam: checks
+*** FLOP *** [6c 7s Kc]
+pvylam: bets $3
+ferdeez: raises $3 to $6
+pvylam: calls $3
+*** TURN *** [6c 7s Kc] [9d]
+pvylam: checks
+ferdeez: bets $2.34 and is all-in
+pvylam: calls $2.34
+*** RIVER *** [6c 7s Kc 9d] [8s]
+*** SHOW DOWN ***
+pvylam: shows [4s 7c] (a pair of Sevens)
+ferdeez: shows [2h Jh] (high card King)
+pvylam collected $22.23 from pot
+*** SUMMARY ***
+Total pot $22.68 | Rake $0.45
+Board [6c 7s Kc 9d 8s]
+Seat 1: pvylam (big blind) showed [4s 7c] and won ($22.23) with a pair of Sevens
+Seat 2: ferdeez (button) (small blind) showed [2h Jh] and lost with high card King
+
+

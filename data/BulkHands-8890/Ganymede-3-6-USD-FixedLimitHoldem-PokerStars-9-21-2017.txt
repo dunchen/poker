@@ -1,0 +1,62 @@
+PokerStars Hand #175916210621:  Hold'em Limit ($3/$6 USD) - 2017/09/20 22:16:07 ET
+Table 'Ganymede' 6-max Seat #1 is the button
+Seat 1: LifeisagameX ($84 in chips)
+Seat 3: Isaac8515 ($40 in chips)
+LifeisagameX: posts small blind $1
+Isaac8515: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+Isaac8515: calls $3
+*** FLOP *** [Ts 2d 5c]
+Isaac8515: checks
+LifeisagameX: checks
+*** TURN *** [Ts 2d 5c] [9s]
+Isaac8515: checks
+LifeisagameX: bets $6
+Isaac8515: calls $6
+*** RIVER *** [Ts 2d 5c 9s] [4h]
+Isaac8515: checks
+LifeisagameX: bets $6
+Isaac8515: calls $6
+*** SHOW DOWN ***
+LifeisagameX: shows [5h 3h] (a pair of Fives)
+Isaac8515: mucks hand
+LifeisagameX collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Ts 2d 5c 9s 4h]
+Seat 1: LifeisagameX (button) (small blind) showed [5h 3h] and won ($35.50) with a pair of Fives
+Seat 3: Isaac8515 (big blind) mucked
+
+
+PokerStars Hand #175916223327:  Hold'em Limit ($3/$6 USD) - 2017/09/20 22:16:47 ET
+Table 'Ganymede' 6-max Seat #3 is the button
+Seat 1: LifeisagameX ($101.50 in chips)
+Seat 3: Isaac8515 ($22 in chips)
+Isaac8515: posts small blind $1
+LifeisagameX: posts big blind $3
+*** HOLE CARDS ***
+Isaac8515: raises $3 to $6
+LifeisagameX: raises $3 to $9
+Isaac8515: raises $3 to $12
+Betting is capped
+LifeisagameX: calls $3
+*** FLOP *** [Kc 5d Ts]
+LifeisagameX: checks
+Isaac8515: checks
+*** TURN *** [Kc 5d Ts] [Js]
+LifeisagameX: bets $6
+Isaac8515: raises $4 to $10 and is all-in
+LifeisagameX: calls $4
+*** RIVER *** [Kc 5d Ts Js] [2c]
+*** SHOW DOWN ***
+LifeisagameX: shows [As Ad] (a pair of Aces)
+Isaac8515: shows [Kd Ah] (a pair of Kings)
+LifeisagameX collected $43.50 from pot
+*** SUMMARY ***
+Total pot $44 | Rake $0.50
+Board [Kc 5d Ts Js 2c]
+Seat 1: LifeisagameX (big blind) showed [As Ad] and won ($43.50) with a pair of Aces
+Seat 3: Isaac8515 (button) (small blind) showed [Kd Ah] and lost with a pair of Kings
+
+

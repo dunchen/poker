@@ -1,0 +1,31 @@
+PokerStars Hand #170692634899:  Hold'em Limit ($3/$6 USD) - 2017/05/20 18:13:20 ET
+Table 'Hormuthia' 6-max Seat #1 is the button
+Seat 1: Velbor107 ($317.38 in chips)
+Seat 5: DimaZips ($123.90 in chips)
+Velbor107: posts small blind $1
+DimaZips: posts big blind $3
+*** HOLE CARDS ***
+Velbor107: raises $3 to $6
+DimaZips: raises $3 to $9
+Velbor107: calls $3
+*** FLOP *** [3s 3h Js]
+MadFox666 leaves the table
+DimaZips: bets $3
+Velbor107: calls $3
+*** TURN *** [3s 3h Js] [Qd]
+DimaZips: bets $6
+Velbor107: calls $6
+*** RIVER *** [3s 3h Js Qd] [5c]
+DimaZips: bets $6
+Velbor107: calls $6
+*** SHOW DOWN ***
+DimaZips: shows [9c 9s] (two pair, Nines and Threes)
+Velbor107: mucks hand
+DimaZips collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3s 3h Js Qd 5c]
+Seat 1: Velbor107 (button) (small blind) mucked
+Seat 5: DimaZips (big blind) showed [9c 9s] and won ($47.50) with two pair, Nines and Threes
+
+

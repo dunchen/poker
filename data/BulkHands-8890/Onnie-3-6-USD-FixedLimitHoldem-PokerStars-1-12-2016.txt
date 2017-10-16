@@ -1,0 +1,32 @@
+PokerStars Hand #146905747526:  Hold'em Limit ($3/$6 USD) - 2016/01/12 7:21:09 ET
+Table 'Onnie' 6-max Seat #1 is the button
+Seat 1: nicmct ($218.15 in chips)
+Seat 3: FinDeSiecle ($107.28 in chips)
+nicmct: posts small blind $1
+TinaTurner72: is sitting out
+FinDeSiecle: posts big blind $3
+*** HOLE CARDS ***
+nicmct: raises $3 to $6
+FinDeSiecle: calls $3
+*** FLOP *** [Ad As 8c]
+FinDeSiecle: checks
+nicmct: bets $3
+FinDeSiecle: calls $3
+*** TURN *** [Ad As 8c] [4h]
+FinDeSiecle: checks
+nicmct: checks
+*** RIVER *** [Ad As 8c 4h] [5c]
+FinDeSiecle: checks
+nicmct: bets $6
+FinDeSiecle: calls $6
+*** SHOW DOWN ***
+nicmct: shows [9h 7d] (a pair of Aces)
+FinDeSiecle: shows [Kd 3d] (a pair of Aces - King kicker)
+FinDeSiecle collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ad As 8c 4h 5c]
+Seat 1: nicmct (button) (small blind) showed [9h 7d] and lost with a pair of Aces
+Seat 3: FinDeSiecle (big blind) showed [Kd 3d] and won ($29.50) with a pair of Aces
+
+

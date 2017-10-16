@@ -1,0 +1,29 @@
+PokerStars Hand #168318078584:  Hold'em Limit ($3/$6 USD) - 2017/03/30 7:08:19 ET
+Table 'Algorab' 6-max Seat #2 is the button
+Seat 2: B_loJkl ($143 in chips)
+Seat 5: Psynto ($72 in chips)
+B_loJkl: posts small blind $1
+Psynto: posts big blind $3
+*** HOLE CARDS ***
+Wizard in me leaves the table
+B_loJkl: raises $3 to $6
+Psynto: calls $3
+*** FLOP *** [Ts Kd 4d]
+Psynto: checks
+B_loJkl: bets $3
+Psynto: calls $3
+*** TURN *** [Ts Kd 4d] [9d]
+Psynto: checks
+B_loJkl: bets $6
+Psynto: raises $6 to $12
+B_loJkl: folds
+Uncalled bet ($6) returned to Psynto
+Psynto collected $29.50 from pot
+Psynto: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ts Kd 4d 9d]
+Seat 2: B_loJkl (button) (small blind) folded on the Turn
+Seat 5: Psynto (big blind) collected ($29.50)
+
+

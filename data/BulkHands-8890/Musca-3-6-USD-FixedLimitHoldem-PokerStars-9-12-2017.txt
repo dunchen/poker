@@ -1,0 +1,88 @@
+PokerStars Hand #175542124980:  Hold'em Limit ($3/$6 USD) - 2017/09/12 7:52:40 ET
+Table 'Musca' 6-max Seat #3 is the button
+Seat 3: Chrisgalo33 ($30 in chips)
+Seat 4: Agrotait ($66 in chips)
+Chrisgalo33: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+Chrisgalo33: raises $3 to $6
+Agrotait: raises $3 to $9
+Chrisgalo33: calls $3
+*** FLOP *** [2d 2s Jd]
+Agrotait: bets $3
+Chrisgalo33: calls $3
+*** TURN *** [2d 2s Jd] [9h]
+Agrotait: bets $6
+Chrisgalo33: raises $6 to $12
+Agrotait: calls $6
+*** RIVER *** [2d 2s Jd 9h] [7d]
+Agrotait: checks
+Chrisgalo33: bets $6 and is all-in
+Agrotait: calls $6
+*** SHOW DOWN ***
+Chrisgalo33: shows [9c Qd] (two pair, Nines and Deuces)
+Agrotait: shows [7c 7h] (a full house, Sevens full of Deuces)
+Agrotait collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [2d 2s Jd 9h 7d]
+Seat 3: Chrisgalo33 (button) (small blind) showed [9c Qd] and lost with two pair, Nines and Deuces
+Seat 4: Agrotait (big blind) showed [7c 7h] and won ($59.50) with a full house, Sevens full of Deuces
+
+
+PokerStars Hand #175542672492:  Hold'em Limit ($3/$6 USD) - 2017/09/12 8:13:23 ET
+Table 'Musca' 6-max Seat #4 is the button
+Seat 3: Chrisgalo33 ($30 in chips)
+Seat 4: Agrotait ($95.50 in chips)
+Agrotait: posts small blind $1
+Chrisgalo33: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+Chrisgalo33: calls $3
+*** FLOP *** [6d 6s 8h]
+Chrisgalo33: checks
+Agrotait: bets $3
+Chrisgalo33: calls $3
+*** TURN *** [6d 6s 8h] [6c]
+Chrisgalo33: checks
+Agrotait: bets $6
+Chrisgalo33: calls $6
+*** RIVER *** [6d 6s 8h 6c] [6h]
+Chrisgalo33: checks
+Agrotait: bets $6
+Chrisgalo33: calls $6
+*** SHOW DOWN ***
+Agrotait: shows [7s As] (four of a kind, Sixes)
+Chrisgalo33: mucks hand
+Agrotait collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [6d 6s 8h 6c 6h]
+Seat 3: Chrisgalo33 (big blind) mucked
+Seat 4: Agrotait (button) (small blind) showed [7s As] and won ($41.50) with four of a kind, Sixes
+
+
+PokerStars Hand #175542694277:  Hold'em Limit ($3/$6 USD) - 2017/09/12 8:14:09 ET
+Table 'Musca' 6-max Seat #3 is the button
+Seat 3: Chrisgalo33 ($9 in chips)
+Seat 4: Agrotait ($116 in chips)
+Chrisgalo33: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+Chrisgalo33: raises $3 to $6
+Agrotait: raises $3 to $9
+Chrisgalo33: calls $3 and is all-in
+*** FLOP *** [6c Js 2s]
+*** TURN *** [6c Js 2s] [5s]
+*** RIVER *** [6c Js 2s 5s] [3h]
+*** SHOW DOWN ***
+Agrotait: shows [Tc 2c] (a pair of Deuces)
+Chrisgalo33: shows [Td Qh] (high card Queen)
+Agrotait collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6c Js 2s 5s 3h]
+Seat 3: Chrisgalo33 (button) (small blind) showed [Td Qh] and lost with high card Queen
+Seat 4: Agrotait (big blind) showed [Tc 2c] and won ($17.64) with a pair of Deuces
+
+

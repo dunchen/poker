@@ -1,0 +1,54 @@
+PokerStars Hand #166249605744:  Hold'em Limit ($3/$6 USD) - 2017/02/15 12:09:00 ET
+Table 'Giomus' 6-max Seat #5 is the button
+Seat 4: GarryMcCoy ($86.10 in chips)
+Seat 5: pompier40 ($164.75 in chips)
+pompier40: posts small blind $1
+vestimokrec: is sitting out
+B_loJkl: is sitting out
+GarryMcCoy: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec leaves the table
+pompier40: raises $3 to $6
+GarryMcCoy: calls $3
+*** FLOP *** [Td Ts 3d]
+B_loJkl leaves the table
+GarryMcCoy: checks
+pompier40: bets $3
+GarryMcCoy: raises $3 to $6
+pompier40: calls $3
+*** TURN *** [Td Ts 3d] [Qc]
+B_loJkl joins the table at seat #6
+GarryMcCoy: bets $6
+pompier40: calls $6
+*** RIVER *** [Td Ts 3d Qc] [7d]
+GarryMcCoy: bets $6
+pompier40: calls $6
+*** SHOW DOWN ***
+GarryMcCoy: shows [Th Jh] (three of a kind, Tens)
+pompier40: mucks hand
+GarryMcCoy collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Td Ts 3d Qc 7d]
+Seat 4: GarryMcCoy (big blind) showed [Th Jh] and won ($47.50) with three of a kind, Tens
+Seat 5: pompier40 (button) (small blind) mucked
+
+
+PokerStars Hand #166249624479:  Hold'em Limit ($3/$6 USD) - 2017/02/15 12:09:23 ET
+Table 'Giomus' 6-max Seat #4 is the button
+Seat 4: GarryMcCoy ($109.60 in chips)
+Seat 5: pompier40 ($140.75 in chips)
+GarryMcCoy: posts small blind $1
+pompier40: posts big blind $3
+*** HOLE CARDS ***
+GarryMcCoy: raises $3 to $6
+pompier40: folds
+Uncalled bet ($3) returned to GarryMcCoy
+GarryMcCoy collected $6 from pot
+GarryMcCoy: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 4: GarryMcCoy (button) (small blind) collected ($6)
+Seat 5: pompier40 (big blind) folded before Flop
+
+

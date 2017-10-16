@@ -1,0 +1,31 @@
+PokerStars Hand #165969087663:  Hold'em Limit ($3/$6 USD) - 2017/02/09 22:59:52 ET
+Table 'Sharatan' 6-max Seat #6 is the button
+Seat 5: HAL9QQQ ($217.85 in chips)
+Seat 6: beng_51 ($198.67 in chips)
+beng_51: posts small blind $1
+HAL9QQQ: posts big blind $3
+*** HOLE CARDS ***
+beng_51: raises $3 to $6
+HAL9QQQ: calls $3
+*** FLOP *** [Qc 4h 9h]
+HAL9QQQ: checks
+beng_51: bets $3
+HAL9QQQ: raises $3 to $6
+beng_51: calls $3
+*** TURN *** [Qc 4h 9h] [2h]
+HAL9QQQ: bets $6
+beng_51: calls $6
+*** RIVER *** [Qc 4h 9h 2h] [Jh]
+HAL9QQQ: bets $6
+beng_51: calls $6
+*** SHOW DOWN ***
+HAL9QQQ: shows [Ah Qs] (a flush, Ace high)
+beng_51: mucks hand
+HAL9QQQ collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Qc 4h 9h 2h Jh]
+Seat 5: HAL9QQQ (big blind) showed [Ah Qs] and won ($47.50) with a flush, Ace high
+Seat 6: beng_51 (button) (small blind) mucked
+
+

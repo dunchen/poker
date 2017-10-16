@@ -1,0 +1,107 @@
+PokerStars Hand #145057600340:  Hold'em Limit ($3/$6 USD) - 2015/12/09 0:10:38 ET
+Table 'Urda' 6-max Seat #1 is the button
+Seat 1: Velbor107 ($300 in chips)
+Seat 2: _fayzulllo_ ($72 in chips)
+Velbor107: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+Velbor107: folds
+Uncalled bet ($2) returned to _fayzulllo_
+_fayzulllo_ collected $2 from pot
+_fayzulllo_: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Velbor107 (button) (small blind) folded before Flop
+Seat 2: _fayzulllo_ (big blind) collected ($2)
+
+
+PokerStars Hand #145057604855:  Hold'em Limit ($3/$6 USD) - 2015/12/09 0:10:54 ET
+Table 'Urda' 6-max Seat #2 is the button
+Seat 1: Velbor107 ($299 in chips)
+Seat 2: _fayzulllo_ ($73 in chips)
+_fayzulllo_: posts small blind $1
+Velbor107: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: raises $3 to $6
+Velbor107: calls $3
+*** FLOP *** [5s 5c 2s]
+Velbor107: checks
+_fayzulllo_: checks
+*** TURN *** [5s 5c 2s] [Ts]
+Velbor107: checks
+_fayzulllo_: bets $6
+Velbor107: raises $6 to $12
+_fayzulllo_: calls $6
+*** RIVER *** [5s 5c 2s Ts] [3d]
+Velbor107: bets $6
+_fayzulllo_: calls $6
+*** SHOW DOWN ***
+Velbor107: shows [3s 7s] (a flush, Ten high)
+_fayzulllo_: mucks hand
+Velbor107 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [5s 5c 2s Ts 3d]
+Seat 1: Velbor107 (big blind) showed [3s 7s] and won ($47.50) with a flush, Ten high
+Seat 2: _fayzulllo_ (button) (small blind) mucked
+
+
+PokerStars Hand #145057615061:  Hold'em Limit ($3/$6 USD) - 2015/12/09 0:11:33 ET
+Table 'Urda' 6-max Seat #1 is the button
+Seat 1: Velbor107 ($322.50 in chips)
+Seat 2: _fayzulllo_ ($49 in chips)
+Velbor107: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+scorpio04 joins the table at seat #3
+Velbor107: raises $3 to $6
+_fayzulllo_: calls $3
+*** FLOP *** [Ac Kc 6h]
+_fayzulllo_: checks
+VolkovDmitri joins the table at seat #4
+Velbor107: bets $3
+_fayzulllo_: raises $3 to $6
+Velbor107: calls $3
+*** TURN *** [Ac Kc 6h] [8s]
+_fayzulllo_: checks
+Velbor107: checks
+*** RIVER *** [Ac Kc 6h 8s] [As]
+_fayzulllo_: checks
+Velbor107: checks
+*** SHOW DOWN ***
+_fayzulllo_: shows [Th Qd] (a pair of Aces)
+Velbor107: mucks hand
+_fayzulllo_ collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Ac Kc 6h 8s As]
+Seat 1: Velbor107 (button) (small blind) mucked
+Seat 2: _fayzulllo_ (big blind) showed [Th Qd] and won ($23.52) with a pair of Aces
+
+
+PokerStars Hand #145058192823:  Hold'em Limit ($3/$6 USD) - 2015/12/09 0:48:08 ET
+Table 'Urda' 6-max Seat #3 is the button
+Seat 2: apache11155 ($35.70 in chips)
+Seat 3: scorpio04 ($86.81 in chips)
+scorpio04: posts small blind $1
+VolkovDmitri: is sitting out
+Velbor107: is sitting out
+apache11155: posts big blind $3
+*** HOLE CARDS ***
+Velbor107 leaves the table
+scorpio04: raises $3 to $6
+apache11155: calls $3
+*** FLOP *** [6c As Tc]
+apache11155: checks
+scorpio04: bets $3
+apache11155: folds
+Uncalled bet ($3) returned to scorpio04
+scorpio04 collected $11.76 from pot
+scorpio04: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6c As Tc]
+Seat 2: apache11155 (big blind) folded on the Flop
+Seat 3: scorpio04 (button) (small blind) collected ($11.76)
+
+

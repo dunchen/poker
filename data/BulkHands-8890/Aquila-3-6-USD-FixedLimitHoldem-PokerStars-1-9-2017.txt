@@ -1,0 +1,32 @@
+PokerStars Hand #164321785674:  Hold'em Limit ($3/$6 USD) - 2017/01/09 18:19:03 ET
+Table 'Aquila' 6-max Seat #1 is the button
+Seat 1: MellivoraSto ($120 in chips)
+Seat 2: anebodil ($67.36 in chips)
+MellivoraSto: posts small blind $1
+anebodil: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang joins the table at seat #3
+MellivoraSto: raises $3 to $6
+anebodil: calls $3
+*** FLOP *** [Td 8h Ts]
+anebodil: checks
+barranqueiro joins the table at seat #6
+MellivoraSto: bets $3
+anebodil: calls $3
+*** TURN *** [Td 8h Ts] [3d]
+anebodil: bets $6
+MellivoraSto: calls $6
+*** RIVER *** [Td 8h Ts 3d] [Qc]
+anebodil: bets $6
+MellivoraSto: calls $6
+*** SHOW DOWN ***
+anebodil: shows [As Kh] (a pair of Tens)
+MellivoraSto: mucks hand
+anebodil collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Td 8h Ts 3d Qc]
+Seat 1: MellivoraSto (button) (small blind) mucked
+Seat 2: anebodil (big blind) showed [As Kh] and won ($41.50) with a pair of Tens
+
+

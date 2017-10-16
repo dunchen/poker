@@ -1,0 +1,33 @@
+PokerStars Hand #145369787901:  Hold'em Limit ($3/$6 USD) - 2015/12/15 4:02:47 ET
+Table 'Pomona' 6-max Seat #6 is the button
+Seat 5: bentinck113 ($117.41 in chips)
+Seat 6: scorpio04 ($120.44 in chips)
+scorpio04: posts small blind $1
+BuzovaPro: is sitting out
+bentinck113: posts big blind $3
+*** HOLE CARDS ***
+scorpio04: raises $3 to $6
+bentinck113: calls $3
+*** FLOP *** [Jc Td Kc]
+bentinck113: checks
+scorpio04: bets $3
+bentinck113: calls $3
+*** TURN *** [Jc Td Kc] [Qc]
+bentinck113: checks
+scorpio04: bets $6
+bentinck113: calls $6
+*** RIVER *** [Jc Td Kc Qc] [2h]
+bentinck113: checks
+scorpio04: bets $6
+bentinck113: calls $6
+*** SHOW DOWN ***
+scorpio04: shows [Ac 2c] (a flush, Ace high)
+bentinck113: mucks hand
+scorpio04 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Jc Td Kc Qc 2h]
+Seat 5: bentinck113 (big blind) mucked
+Seat 6: scorpio04 (button) (small blind) showed [Ac 2c] and won ($41.50) with a flush, Ace high
+
+

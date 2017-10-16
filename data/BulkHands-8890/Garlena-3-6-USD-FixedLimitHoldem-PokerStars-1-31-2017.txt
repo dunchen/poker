@@ -1,0 +1,53 @@
+PokerStars Hand #165459332259:  Hold'em Limit ($3/$6 USD) - 2017/01/31 11:22:23 ET
+Table 'Garlena' 6-max Seat #2 is the button
+Seat 2: CG_XVI ($43.52 in chips)
+Seat 4: Great_Kang ($176.46 in chips)
+CG_XVI: posts small blind $1
+DePokeraap: is sitting out
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+CG_XVI: raises $3 to $6
+Great_Kang: calls $3
+*** FLOP *** [Qs 6h 3s]
+Great_Kang: checks
+CG_XVI: bets $3
+Great_Kang: raises $3 to $6
+CG_XVI: calls $3
+*** TURN *** [Qs 6h 3s] [3c]
+Great_Kang: bets $6
+CG_XVI: calls $6
+*** RIVER *** [Qs 6h 3s 3c] [As]
+Great_Kang: bets $6
+CG_XVI: raises $6 to $12
+Great_Kang: raises $6 to $18
+CG_XVI: raises $6 to $24
+Betting is capped
+Great_Kang: calls $6
+*** SHOW DOWN ***
+CG_XVI: shows [Kd 3d] (three of a kind, Threes)
+Great_Kang: shows [8s 2s] (a flush, Ace high)
+Great_Kang collected $83.50 from pot
+*** SUMMARY ***
+Total pot $84 | Rake $0.50
+Board [Qs 6h 3s 3c As]
+Seat 2: CG_XVI (button) (small blind) showed [Kd 3d] and lost with three of a kind, Threes
+Seat 4: Great_Kang (big blind) showed [8s 2s] and won ($83.50) with a flush, Ace high
+
+
+PokerStars Hand #165459572804:  Hold'em Limit ($3/$6 USD) - 2017/01/31 11:27:34 ET
+Table 'Garlena' 6-max Seat #3 is the button
+Seat 3: DePokeraap ($87.96 in chips)
+Seat 4: Great_Kang ($208.67 in chips)
+DePokeraap: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+DePokeraap: raises $3 to $6
+Great_Kang: folds
+Uncalled bet ($3) returned to DePokeraap
+DePokeraap collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: DePokeraap (button) (small blind) collected ($6)
+Seat 4: Great_Kang (big blind) folded before Flop
+
+

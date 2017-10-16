@@ -1,0 +1,108 @@
+PokerStars Hand #151454399551:  Hold'em Limit ($3/$6 USD) - 2016/04/05 2:08:03 ET
+Table 'Atalante II' 6-max Seat #5 is the button
+Seat 4: VolkovDmitri ($146.50 in chips)
+Seat 5: Mackeral ($26.02 in chips)
+Mackeral: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Mackeral: raises $3 to $6
+VolkovDmitri: folds
+Uncalled bet ($3) returned to Mackeral
+Mackeral collected $6 from pot
+Mackeral: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 4: VolkovDmitri (big blind) folded before Flop
+Seat 5: Mackeral (button) (small blind) collected ($6)
+
+
+PokerStars Hand #151454392642:  Hold'em Limit ($3/$6 USD) - 2016/04/05 2:07:37 ET
+Table 'Atalante II' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($120 in chips)
+Seat 5: Mackeral ($53.02 in chips)
+VolkovDmitri: posts small blind $1
+Mackeral: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Mackeral: calls $3
+*** FLOP *** [7c 4d Tc]
+Mackeral: checks
+VolkovDmitri: bets $3
+Mackeral: calls $3
+*** TURN *** [7c 4d Tc] [3h]
+Mackeral: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [7c 4d Tc 3h] [6d]
+Mackeral: bets $6
+VolkovDmitri: raises $6 to $12
+Mackeral: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [5s Qs] (a straight, Three to Seven)
+Mackeral: mucks hand
+VolkovDmitri collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [7c 4d Tc 3h 6d]
+Seat 4: VolkovDmitri (button) (small blind) showed [5s Qs] and won ($53.50) with a straight, Three to Seven
+Seat 5: Mackeral (big blind) mucked
+
+
+PokerStars Hand #151454401164:  Hold'em Limit ($3/$6 USD) - 2016/04/05 2:08:09 ET
+Table 'Atalante II' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($143.50 in chips)
+Seat 5: Mackeral ($29.02 in chips)
+VolkovDmitri: posts small blind $1
+Mackeral: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Mackeral: calls $3
+*** FLOP *** [8h 5h 4c]
+Mackeral: checks
+VolkovDmitri: bets $3
+Mackeral: calls $3
+*** TURN *** [8h 5h 4c] [3d]
+Mackeral: checks
+VolkovDmitri: bets $6
+Mackeral: calls $6
+*** RIVER *** [8h 5h 4c 3d] [6s]
+Mackeral: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+Mackeral: shows [3s Kd] (a pair of Threes)
+VolkovDmitri: shows [Qh 4s] (a pair of Fours)
+VolkovDmitri collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8h 5h 4c 3d 6s]
+Seat 4: VolkovDmitri (button) (small blind) showed [Qh 4s] and won ($29.50) with a pair of Fours
+Seat 5: Mackeral (big blind) showed [3s Kd] and lost with a pair of Threes
+
+
+PokerStars Hand #151454406937:  Hold'em Limit ($3/$6 USD) - 2016/04/05 2:08:31 ET
+Table 'Atalante II' 6-max Seat #5 is the button
+Seat 4: VolkovDmitri ($158 in chips)
+Seat 5: Mackeral ($14.02 in chips)
+Mackeral: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Mackeral: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [7d 8s 8h]
+VolkovDmitri: checks
+Mackeral: bets $3
+VolkovDmitri: raises $3 to $6
+Mackeral: raises $2.02 to $8.02 and is all-in
+VolkovDmitri: calls $2.02
+*** TURN *** [7d 8s 8h] [3d]
+*** RIVER *** [7d 8s 8h 3d] [Kd]
+*** SHOW DOWN ***
+VolkovDmitri: shows [5h Ks] (two pair, Kings and Eights)
+Mackeral: shows [6d 6h] (two pair, Eights and Sixes)
+VolkovDmitri collected $27.54 from pot
+*** SUMMARY ***
+Total pot $28.04 | Rake $0.50
+Board [7d 8s 8h 3d Kd]
+Seat 4: VolkovDmitri (big blind) showed [5h Ks] and won ($27.54) with two pair, Kings and Eights
+Seat 5: Mackeral (button) (small blind) showed [6d 6h] and lost with two pair, Eights and Sixes
+
+

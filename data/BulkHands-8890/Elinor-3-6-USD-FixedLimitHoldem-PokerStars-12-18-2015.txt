@@ -1,0 +1,31 @@
+PokerStars Hand #145548318856:  Hold'em Limit ($3/$6 USD) - 2015/12/18 16:08:02 ET
+Table 'Elinor' 6-max Seat #3 is the button
+Seat 3: bianca_AK ($48.65 in chips)
+Seat 5: Karpik09 ($76 in chips)
+bianca_AK: posts small blind $1
+AzureCaper: is sitting out
+Karpik09: posts big blind $3
+*** HOLE CARDS ***
+bianca_AK: raises $3 to $6
+Karpik09: calls $3
+*** FLOP *** [4d 3s 7c]
+Karpik09: checks
+bianca_AK: checks
+*** TURN *** [4d 3s 7c] [7s]
+Karpik09: checks
+bianca_AK: checks
+*** RIVER *** [4d 3s 7c 7s] [Js]
+Karpik09: checks
+bianca_AK: checks
+GoliafUa leaves the table
+*** SHOW DOWN ***
+Karpik09: shows [2h 6h] (a pair of Sevens)
+bianca_AK: shows [Kc Ah] (a pair of Sevens - Ace kicker)
+bianca_AK collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4d 3s 7c 7s Js]
+Seat 3: bianca_AK (button) (small blind) showed [Kc Ah] and won ($11.76) with a pair of Sevens
+Seat 5: Karpik09 (big blind) showed [2h 6h] and lost with a pair of Sevens
+
+

@@ -1,0 +1,64 @@
+PokerStars Hand #163421111194:  Hold'em Limit ($3/$6 USD) - 2016/12/23 19:03:02 ET
+Table 'Antielus II' 6-max Seat #1 is the button
+Seat 1: ToDaFelt ($131.52 in chips)
+Seat 6: barranqueiro ($37 in chips)
+ToDaFelt: posts small blind $1
+barranqueiro: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+barranqueiro: calls $3
+*** FLOP *** [2c Ks 5c]
+barranqueiro: checks
+ToDaFelt: bets $3
+barranqueiro: raises $3 to $6
+ToDaFelt: calls $3
+*** TURN *** [2c Ks 5c] [8c]
+barranqueiro: bets $6
+ToDaFelt: calls $6
+*** RIVER *** [2c Ks 5c 8c] [5s]
+barranqueiro: checks
+ToDaFelt: bets $6
+barranqueiro: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [Kc 9s] (two pair, Kings and Fives)
+barranqueiro: mucks hand
+ToDaFelt collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2c Ks 5c 8c 5s]
+Seat 1: ToDaFelt (button) (small blind) showed [Kc 9s] and won ($47.50) with two pair, Kings and Fives
+Seat 6: barranqueiro (big blind) mucked
+
+
+PokerStars Hand #163422318760:  Hold'em Limit ($3/$6 USD) - 2016/12/23 19:30:38 ET
+Table 'Antielus II' 6-max Seat #1 is the button
+Seat 1: ToDaFelt ($216.84 in chips)
+Seat 4: GRAILKO ($191.67 in chips)
+ToDaFelt: posts small blind $1
+GRAILKO: posts big blind $3
+*** HOLE CARDS ***
+heaththejoke leaves the table
+ToDaFelt: raises $3 to $6
+GRAILKO: calls $3
+*** FLOP *** [7s 4c 8c]
+GRAILKO: checks
+ToDaFelt: bets $3
+GRAILKO: calls $3
+*** TURN *** [7s 4c 8c] [7d]
+GRAILKO: checks
+ToDaFelt: bets $6
+GRAILKO: calls $6
+*** RIVER *** [7s 4c 8c 7d] [6d]
+GRAILKO: checks
+ToDaFelt: checks
+*** SHOW DOWN ***
+GRAILKO: shows [Ac 2d] (a pair of Sevens)
+ToDaFelt: shows [4s Qc] (two pair, Sevens and Fours)
+ToDaFelt collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7s 4c 8c 7d 6d]
+Seat 1: ToDaFelt (button) (small blind) showed [4s Qc] and won ($29.50) with two pair, Sevens and Fours
+Seat 4: GRAILKO (big blind) showed [Ac 2d] and lost with a pair of Sevens
+
+

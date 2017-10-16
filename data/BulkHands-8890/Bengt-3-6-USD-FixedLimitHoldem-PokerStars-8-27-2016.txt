@@ -1,0 +1,77 @@
+PokerStars Hand #157796279566:  Hold'em Limit ($3/$6 USD) - 2016/08/27 6:37:14 ET
+Table 'Bengt' 6-max Seat #4 is the button
+Seat 3: simper11 ($143.14 in chips)
+Seat 4: Vetal949 ($16 in chips)
+Vetal949: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+Vetal949: raises $3 to $6
+simper11: calls $3
+*** FLOP *** [3d 9s 6c]
+simper11: checks
+Vetal949: bets $3
+simper11: raises $3 to $6
+Vetal949: calls $3
+*** TURN *** [3d 9s 6c] [5h]
+simper11: bets $6
+Vetal949: calls $4 and is all-in
+Uncalled bet ($2) returned to simper11
+*** RIVER *** [3d 9s 6c 5h] [2s]
+*** SHOW DOWN ***
+simper11: shows [6d Ad] (a pair of Sixes)
+Vetal949: shows [Jc Td] (high card Jack)
+simper11 collected $31.50 from pot
+*** SUMMARY ***
+Total pot $32 | Rake $0.50
+Board [3d 9s 6c 5h 2s]
+Seat 3: simper11 (big blind) showed [6d Ad] and won ($31.50) with a pair of Sixes
+Seat 4: Vetal949 (button) (small blind) showed [Jc Td] and lost with high card Jack
+
+
+PokerStars Hand #157796270296:  Hold'em Limit ($3/$6 USD) - 2016/08/27 6:36:51 ET
+Table 'Bengt' 6-max Seat #3 is the button
+Seat 3: simper11 ($134.50 in chips)
+Seat 4: Vetal949 ($25 in chips)
+simper11: posts small blind $1
+Vetal949: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+Vetal949: calls $3
+*** FLOP *** [9c 3c Ts]
+Vetal949: checks
+simper11: bets $3
+Vetal949: calls $3
+*** TURN *** [9c 3c Ts] [9d]
+Vetal949: checks
+simper11: checks
+*** RIVER *** [9c 3c Ts 9d] [6d]
+Vetal949: checks
+simper11: checks
+*** SHOW DOWN ***
+Vetal949: shows [Kc 7d] (a pair of Nines)
+simper11: shows [As 8s] (a pair of Nines - Ace kicker)
+simper11 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9c 3c Ts 9d 6d]
+Seat 3: simper11 (button) (small blind) showed [As 8s] and won ($17.64) with a pair of Nines
+Seat 4: Vetal949 (big blind) showed [Kc 7d] and lost with a pair of Nines
+
+
+PokerStars Hand #157796267804:  Hold'em Limit ($3/$6 USD) - 2016/08/27 6:36:45 ET
+Table 'Bengt' 6-max Seat #4 is the button
+Seat 3: simper11 ($137.50 in chips)
+Seat 4: Vetal949 ($22 in chips)
+Vetal949: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+Vetal949: raises $3 to $6
+simper11: folds
+Uncalled bet ($3) returned to Vetal949
+Vetal949 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: simper11 (big blind) folded before Flop
+Seat 4: Vetal949 (button) (small blind) collected ($6)
+
+

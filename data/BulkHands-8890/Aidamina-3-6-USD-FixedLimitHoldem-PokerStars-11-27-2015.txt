@@ -1,0 +1,83 @@
+PokerStars Hand #144473196609:  Hold'em Limit ($3/$6 USD) - 2015/11/27 15:29:56 ET
+Table 'Aidamina' 10-max Seat #5 is the button
+Seat 4: ZinZar ($91.74 in chips)
+Seat 5: Chessnok ($99 in chips)
+Chessnok: posts small blind $1
+ZinZar: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+ZinZar: raises $3 to $9
+Chessnok: calls $3
+*** FLOP *** [3h Tc 8d]
+ZinZar: bets $3
+Chessnok: calls $3
+*** TURN *** [3h Tc 8d] [Kh]
+ZinZar: bets $6
+Chessnok: calls $6
+*** RIVER *** [3h Tc 8d Kh] [Th]
+ZinZar: bets $6
+Chessnok: calls $6
+*** SHOW DOWN ***
+ZinZar: shows [6d 4d] (a pair of Tens)
+Chessnok: shows [4h Ad] (a pair of Tens - Ace kicker)
+Chessnok collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3h Tc 8d Kh Th]
+Seat 4: ZinZar (big blind) showed [6d 4d] and lost with a pair of Tens
+Seat 5: Chessnok (button) (small blind) showed [4h Ad] and won ($47.50) with a pair of Tens
+
+
+PokerStars Hand #144473616596:  Hold'em Limit ($3/$6 USD) - 2015/11/27 15:37:21 ET
+Table 'Aidamina' 10-max Seat #4 is the button
+Seat 4: ZinZar ($84.50 in chips)
+Seat 9: assitoni ($116 in chips)
+SashaYuvelir will be allowed to play after the button
+ZinZar: posts small blind $1
+assitoni: posts big blind $3
+*** HOLE CARDS ***
+ZinZar: raises $3 to $6
+SashaYuvelir leaves the table
+assitoni: folds
+Uncalled bet ($3) returned to ZinZar
+ZinZar collected $6 from pot
+ZinZar: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 4: ZinZar (button) (small blind) collected ($6)
+Seat 9: assitoni (big blind) folded before Flop
+
+
+PokerStars Hand #144473563961:  Hold'em Limit ($3/$6 USD) - 2015/11/27 15:36:25 ET
+Table 'Aidamina' 10-max Seat #4 is the button
+Seat 4: ZinZar ($72 in chips)
+Seat 8: Mite1981 ($948.76 in chips)
+ZinZar: posts small blind $1
+Mite1981: posts big blind $3
+*** HOLE CARDS ***
+ZinZar: raises $3 to $6
+Mite1981: calls $3
+*** FLOP *** [Kh Jd Jc]
+Mite1981: checks
+assitoni joins the table at seat #9
+ZinZar: bets $3
+Mite1981: calls $3
+*** TURN *** [Kh Jd Jc] [4h]
+Mite1981: checks
+ZinZar: checks
+*** RIVER *** [Kh Jd Jc 4h] [2d]
+Mite1981: checks
+ZinZar: bets $6
+Mite1981: raises $6 to $12
+ZinZar: calls $6
+*** SHOW DOWN ***
+Mite1981: shows [8d Qd] (a pair of Jacks)
+ZinZar: shows [9s 4s] (two pair, Jacks and Fours)
+ZinZar collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Kh Jd Jc 4h 2d]
+Seat 4: ZinZar (button) (small blind) showed [9s 4s] and won ($41.50) with two pair, Jacks and Fours
+Seat 8: Mite1981 (big blind) showed [8d Qd] and lost with a pair of Jacks
+
+

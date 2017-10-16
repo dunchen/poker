@@ -1,0 +1,33 @@
+PokerStars Hand #145434529647:  Hold'em Limit ($3/$6 USD) - 2015/12/16 11:07:54 ET
+Table 'Lictoria II' 6-max Seat #2 is the button
+Seat 2: proth ($62 in chips)
+Seat 4: BuzovaPro ($76 in chips)
+proth: posts small blind $1
+BuzovaPro: posts big blind $3
+*** HOLE CARDS ***
+artiZzt joins the table at seat #1
+proth: raises $3 to $6
+BuzovaPro: calls $3
+*** FLOP *** [Jd 3c 4d]
+BuzovaPro: checks
+assitoni joins the table at seat #3
+proth: bets $3
+BuzovaPro: calls $3
+*** TURN *** [Jd 3c 4d] [5d]
+BuzovaPro: checks
+proth: checks
+*** RIVER *** [Jd 3c 4d 5d] [6d]
+BuzovaPro: checks
+tomas666506 joins the table at seat #5
+proth: checks
+*** SHOW DOWN ***
+BuzovaPro: shows [Ts 8c] (high card Jack)
+proth: shows [Qc 4s] (a pair of Fours)
+proth collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Jd 3c 4d 5d 6d]
+Seat 2: proth (button) (small blind) showed [Qc 4s] and won ($17.64) with a pair of Fours
+Seat 4: BuzovaPro (big blind) showed [Ts 8c] and lost with high card Jack
+
+

@@ -1,0 +1,104 @@
+PokerStars Hand #165368330762:  Hold'em Limit ($3/$6 USD) - 2017/01/29 15:10:55 ET
+Table 'Friederike' 6-max Seat #1 is the button
+Seat 1: Zubasa07 ($500 in chips)
+Seat 2: conkris ($120 in chips)
+Zubasa07: posts small blind $1
+conkris: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+conkris: raises $3 to $9
+niplot joins the table at seat #3
+Zubasa07: calls $3
+*** FLOP *** [Ks 6c 7d]
+conkris: bets $3
+Zubasa07: calls $3
+*** TURN *** [Ks 6c 7d] [Kc]
+conkris: bets $6
+Zubasa07: folds
+Uncalled bet ($6) returned to conkris
+conkris collected $23.52 from pot
+conkris: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Ks 6c 7d Kc]
+Seat 1: Zubasa07 (button) (small blind) folded on the Turn
+Seat 2: conkris (big blind) collected ($23.52)
+
+
+PokerStars Hand #165369371197:  Hold'em Limit ($3/$6 USD) - 2017/01/29 15:26:39 ET
+Table 'Friederike' 6-max Seat #6 is the button
+Seat 5: Keparik33 ($26.69 in chips)
+Seat 6: Koraseg ($154.53 in chips)
+Koraseg: posts small blind $1
+Chessnok: is sitting out
+Keparik33: posts big blind $3
+*** HOLE CARDS ***
+Koraseg: folds
+Uncalled bet ($2) returned to Keparik33
+Chessnok leaves the table
+Keparik33 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: Keparik33 (big blind) collected ($2)
+Seat 6: Koraseg (button) (small blind) folded before Flop
+
+
+PokerStars Hand #165369376911:  Hold'em Limit ($3/$6 USD) - 2017/01/29 15:26:44 ET
+Table 'Friederike' 6-max Seat #5 is the button
+Seat 5: Keparik33 ($27.69 in chips)
+Seat 6: Koraseg ($153.53 in chips)
+Keparik33: posts small blind $1
+Koraseg: posts big blind $3
+*** HOLE CARDS ***
+Keparik33: raises $3 to $6
+Koraseg: calls $3
+*** FLOP *** [Qc 7d Td]
+Koraseg: checks
+Keparik33: checks
+*** TURN *** [Qc 7d Td] [8d]
+Koraseg: checks
+Keparik33: checks
+*** RIVER *** [Qc 7d Td 8d] [8h]
+Koraseg: checks
+Keparik33: checks
+*** SHOW DOWN ***
+Koraseg: shows [Ah 4h] (a pair of Eights)
+Keparik33: mucks hand
+Koraseg collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qc 7d Td 8d 8h]
+Seat 5: Keparik33 (button) (small blind) mucked
+Seat 6: Koraseg (big blind) showed [Ah 4h] and won ($11.76) with a pair of Eights
+
+
+PokerStars Hand #165369391315:  Hold'em Limit ($3/$6 USD) - 2017/01/29 15:26:58 ET
+Table 'Friederike' 6-max Seat #6 is the button
+Seat 5: Keparik33 ($21.69 in chips)
+Seat 6: Koraseg ($159.29 in chips)
+Koraseg: posts small blind $1
+Keparik33: posts big blind $3
+*** HOLE CARDS ***
+Koraseg: raises $3 to $6
+Keparik33: raises $3 to $9
+Koraseg: calls $3
+*** FLOP *** [9d 8c Tc]
+Keparik33: bets $3
+Koraseg: calls $3
+*** TURN *** [9d 8c Tc] [7c]
+Keparik33: bets $6
+Koraseg: raises $6 to $12
+Keparik33: calls $3.69 and is all-in
+Uncalled bet ($2.31) returned to Koraseg
+*** RIVER *** [9d 8c Tc 7c] [6s]
+*** SHOW DOWN ***
+Keparik33: shows [Ac Qh] (a straight, Six to Ten)
+Koraseg: shows [Jh Kd] (a straight, Seven to Jack)
+Koraseg collected $42.88 from pot
+*** SUMMARY ***
+Total pot $43.38 | Rake $0.50
+Board [9d 8c Tc 7c 6s]
+Seat 5: Keparik33 (big blind) showed [Ac Qh] and lost with a straight, Six to Ten
+Seat 6: Koraseg (button) (small blind) showed [Jh Kd] and won ($42.88) with a straight, Seven to Jack
+
+

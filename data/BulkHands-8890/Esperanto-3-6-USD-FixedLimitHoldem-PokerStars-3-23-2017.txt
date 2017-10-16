@@ -1,0 +1,61 @@
+PokerStars Hand #168005313156:  Hold'em Limit ($3/$6 USD) - 2017/03/23 15:27:53 ET
+Table 'Esperanto' 6-max Seat #3 is the button
+Seat 3: ezee1 ($113 in chips)
+Seat 4: MTails ($126.76 in chips)
+ezee1: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+ezee1: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [Td 8c 3s]
+MTails: checks
+ezee1: bets $3
+MTails: calls $3
+*** TURN *** [Td 8c 3s] [8d]
+MTails: checks
+ezee1: checks
+*** RIVER *** [Td 8c 3s 8d] [9c]
+MTails: bets $6
+alpha2777 joins the table at seat #5
+ezee1: folds
+Uncalled bet ($6) returned to MTails
+MTails collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Td 8c 3s 8d 9c]
+Seat 3: ezee1 (button) (small blind) folded on the River
+Seat 4: MTails (big blind) collected ($17.64)
+
+
+PokerStars Hand #168006746361:  Hold'em Limit ($3/$6 USD) - 2017/03/23 15:54:25 ET
+Table 'Esperanto' 6-max Seat #6 is the button
+Seat 3: krytalex ($141.38 in chips)
+Seat 6: LuckyScal ($101.82 in chips)
+alpha2777 will be allowed to play after the button
+LuckyScal: posts small blind $1
+Apanage: is sitting out
+krytalex: posts big blind $3
+*** HOLE CARDS ***
+Apanage leaves the table
+LuckyScal: raises $3 to $6
+krytalex: calls $3
+*** FLOP *** [6c Kd Jh]
+alpha2777 leaves the table
+krytalex: checks
+LuckyScal: bets $3
+krytalex: calls $3
+*** TURN *** [6c Kd Jh] [Qs]
+krytalex: checks
+LuckyScal: checks
+*** RIVER *** [6c Kd Jh Qs] [6h]
+krytalex: bets $6
+LuckyScal: folds
+Uncalled bet ($6) returned to krytalex
+krytalex collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6c Kd Jh Qs 6h]
+Seat 3: krytalex (big blind) collected ($17.64)
+Seat 6: LuckyScal (button) (small blind) folded on the River
+
+

@@ -1,0 +1,30 @@
+PokerStars Hand #153200426435:  Hold'em Limit ($3/$6 USD) - 2016/05/12 7:31:07 ET
+Table 'Edburga II' 6-max Seat #5 is the button
+Seat 5: belik555 ($111.31 in chips)
+Seat 6: tamnt10549 ($24.54 in chips)
+belik555: posts small blind $1
+tamnt10549: posts big blind $3
+*** HOLE CARDS ***
+belik555: raises $3 to $6
+tamnt10549: raises $3 to $9
+belik555: calls $3
+*** FLOP *** [6s Ks 3h]
+tamnt10549: bets $3
+belik555: calls $3
+*** TURN *** [6s Ks 3h] [7c]
+tamnt10549: bets $6
+belik555: calls $6
+*** RIVER *** [6s Ks 3h 7c] [8d]
+tamnt10549: bets $6
+belik555: calls $6
+*** SHOW DOWN ***
+tamnt10549: shows [2c As] (high card Ace)
+belik555: shows [6h Tc] (a pair of Sixes)
+belik555 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [6s Ks 3h 7c 8d]
+Seat 5: belik555 (button) (small blind) showed [6h Tc] and won ($47.50) with a pair of Sixes
+Seat 6: tamnt10549 (big blind) showed [2c As] and lost with high card Ace
+
+

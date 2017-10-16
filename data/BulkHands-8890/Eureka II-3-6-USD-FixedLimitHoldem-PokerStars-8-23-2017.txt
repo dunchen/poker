@@ -1,0 +1,48 @@
+PokerStars Hand #174694888268:  Hold'em Limit ($3/$6 USD) - 2017/08/23 11:04:03 ET
+Table 'Eureka II' 6-max Seat #6 is the button
+Seat 4: Anchig ($120 in chips)
+Seat 6: NAV1 ($119.83 in chips)
+NAV1: posts small blind $1
+Anchig: posts big blind $3
+*** HOLE CARDS ***
+NAV1: calls $2
+Anchig: raises $3 to $6
+NAV1: calls $3
+*** FLOP *** [Qh 2h Ac]
+Anchig: bets $3
+Psynto joins the table at seat #1
+NAV1: folds
+Uncalled bet ($3) returned to Anchig
+Anchig collected $11.76 from pot
+Anchig: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qh 2h Ac]
+Seat 4: Anchig (big blind) collected ($11.76)
+Seat 6: NAV1 (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #174694901394:  Hold'em Limit ($3/$6 USD) - 2017/08/23 11:04:27 ET
+Table 'Eureka II' 6-max Seat #4 is the button
+Seat 4: Anchig ($125.76 in chips)
+Seat 6: NAV1 ($113.83 in chips)
+Anchig: posts small blind $1
+NAV1: posts big blind $3
+*** HOLE CARDS ***
+Anchig: raises $3 to $6
+NAV1: calls $3
+*** FLOP *** [4h Qc 2d]
+NAV1: bets $3
+Anchig: calls $3
+*** TURN *** [4h Qc 2d] [6d]
+NAV1: bets $6
+Anchig: folds
+Uncalled bet ($6) returned to NAV1
+NAV1 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4h Qc 2d 6d]
+Seat 4: Anchig (button) (small blind) folded on the Turn
+Seat 6: NAV1 (big blind) collected ($17.64)
+
+

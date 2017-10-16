@@ -1,0 +1,132 @@
+PokerStars Hand #164784576219:  Hold'em Limit ($3/$6 USD) - 2017/01/18 13:12:59 ET
+Table 'Rana II' 6-max Seat #3 is the button
+Seat 3: poker.sta306 ($60.46 in chips)
+Seat 4: kolaz03 ($97.05 in chips)
+poker.sta306: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+poker.sta306: raises $3 to $6
+kolaz03: folds
+Uncalled bet ($3) returned to poker.sta306
+poker.sta306 collected $6 from pot
+poker.sta306: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: poker.sta306 (button) (small blind) collected ($6)
+Seat 4: kolaz03 (big blind) folded before Flop
+
+
+PokerStars Hand #164784625506:  Hold'em Limit ($3/$6 USD) - 2017/01/18 13:13:50 ET
+Table 'Rana II' 6-max Seat #3 is the button
+Seat 3: poker.sta306 ($73.96 in chips)
+Seat 4: kolaz03 ($87.50 in chips)
+poker.sta306: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+poker.sta306: raises $3 to $6
+kolaz03: raises $3 to $9
+poker.sta306: raises $3 to $12
+Betting is capped
+kolaz03: calls $3
+*** FLOP *** [8c Ad 3h]
+kolaz03: checks
+poker.sta306: bets $3
+kolaz03: raises $3 to $6
+poker.sta306: calls $3
+*** TURN *** [8c Ad 3h] [Tc]
+kolaz03: bets $6
+poker.sta306: raises $6 to $12
+kolaz03: calls $6
+*** RIVER *** [8c Ad 3h Tc] [3d]
+kolaz03: checks
+poker.sta306: bets $6
+kolaz03: folds
+Uncalled bet ($6) returned to poker.sta306
+poker.sta306 collected $59.50 from pot
+poker.sta306: doesn't show hand
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [8c Ad 3h Tc 3d]
+Seat 3: poker.sta306 (button) (small blind) collected ($59.50)
+Seat 4: kolaz03 (big blind) folded on the River
+
+
+PokerStars Hand #164784609250:  Hold'em Limit ($3/$6 USD) - 2017/01/18 13:13:33 ET
+Table 'Rana II' 6-max Seat #4 is the button
+Seat 3: poker.sta306 ($88.96 in chips)
+Seat 4: kolaz03 ($73 in chips)
+kolaz03: posts small blind $1
+poker.sta306: posts big blind $3
+*** HOLE CARDS ***
+kolaz03: raises $3 to $6
+poker.sta306: calls $3
+*** FLOP *** [Jc Qs 7h]
+poker.sta306: checks
+kolaz03: bets $3
+poker.sta306: calls $3
+*** TURN *** [Jc Qs 7h] [5c]
+poker.sta306: checks
+kolaz03: checks
+*** RIVER *** [Jc Qs 7h 5c] [3d]
+poker.sta306: bets $6
+kolaz03: calls $6
+*** SHOW DOWN ***
+poker.sta306: shows [Kc 9h] (high card King)
+kolaz03: shows [2c 2s] (a pair of Deuces)
+kolaz03 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Jc Qs 7h 5c 3d]
+Seat 3: poker.sta306 (big blind) showed [Kc 9h] and lost with high card King
+Seat 4: kolaz03 (button) (small blind) showed [2c 2s] and won ($29.50) with a pair of Deuces
+
+
+PokerStars Hand #164784603496:  Hold'em Limit ($3/$6 USD) - 2017/01/18 13:13:27 ET
+Table 'Rana II' 6-max Seat #3 is the button
+Seat 3: poker.sta306 ($89.96 in chips)
+Seat 4: kolaz03 ($72 in chips)
+poker.sta306: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+poker.sta306: folds
+Uncalled bet ($2) returned to kolaz03
+kolaz03 collected $2 from pot
+kolaz03: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: poker.sta306 (button) (small blind) folded before Flop
+Seat 4: kolaz03 (big blind) collected ($2)
+
+
+PokerStars Hand #164784582720:  Hold'em Limit ($3/$6 USD) - 2017/01/18 13:13:05 ET
+Table 'Rana II' 6-max Seat #4 is the button
+Seat 3: poker.sta306 ($63.46 in chips)
+Seat 4: kolaz03 ($94.05 in chips)
+kolaz03: posts small blind $1
+poker.sta306: posts big blind $3
+*** HOLE CARDS ***
+kolaz03: raises $3 to $6
+poker.sta306: calls $3
+*** FLOP *** [3h 3s Td]
+poker.sta306: checks
+kolaz03: bets $3
+poker.sta306: calls $3
+*** TURN *** [3h 3s Td] [7h]
+poker.sta306: checks
+kolaz03: checks
+*** RIVER *** [3h 3s Td 7h] [Jh]
+poker.sta306: bets $6
+kolaz03: raises $6 to $12
+poker.sta306: raises $6 to $18
+kolaz03: calls $6
+*** SHOW DOWN ***
+poker.sta306: shows [3c 6d] (three of a kind, Threes)
+kolaz03: mucks hand
+poker.sta306 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [3h 3s Td 7h Jh]
+Seat 3: poker.sta306 (big blind) showed [3c 6d] and won ($53.50) with three of a kind, Threes
+Seat 4: kolaz03 (button) (small blind) mucked
+
+

@@ -1,0 +1,501 @@
+PokerStars Hand #159326657160:  Hold'em Limit ($3/$6 USD) - 2016/10/01 8:46:04 ET
+Table 'Segin' 6-max Seat #6 is the button
+Seat 2: gorcea_vs ($160.53 in chips)
+Seat 6: michehh5 ($40.79 in chips)
+michehh5: posts small blind $1
+gorcea_vs: posts big blind $3
+*** HOLE CARDS ***
+michehh5: folds
+Uncalled bet ($2) returned to gorcea_vs
+gorcea_vs collected $2 from pot
+gorcea_vs: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: gorcea_vs (big blind) collected ($2)
+Seat 6: michehh5 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #159326659954:  Hold'em Limit ($3/$6 USD) - 2016/10/01 8:46:09 ET
+Table 'Segin' 6-max Seat #2 is the button
+Seat 2: gorcea_vs ($161.53 in chips)
+Seat 6: michehh5 ($39.79 in chips)
+gorcea_vs: posts small blind $1
+michehh5: posts big blind $3
+*** HOLE CARDS ***
+gorcea_vs: raises $3 to $6
+michehh5: raises $3 to $9
+gorcea_vs: calls $3
+*** FLOP *** [8s 9d Qd]
+michehh5: bets $3
+gorcea_vs: calls $3
+*** TURN *** [8s 9d Qd] [3h]
+michehh5: bets $6
+gorcea_vs: calls $6
+*** RIVER *** [8s 9d Qd 3h] [6s]
+B_loJkl joins the table at seat #1
+michehh5: bets $6
+gorcea_vs: raises $6 to $12
+michehh5: calls $6
+*** SHOW DOWN ***
+gorcea_vs: shows [Kd Qs] (a pair of Queens)
+michehh5: shows [Ks Qc] (a pair of Queens)
+michehh5 collected $29.75 from pot
+gorcea_vs collected $29.75 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [8s 9d Qd 3h 6s]
+Seat 2: gorcea_vs (button) (small blind) showed [Kd Qs] and won ($29.75) with a pair of Queens
+Seat 6: michehh5 (big blind) showed [Ks Qc] and won ($29.75) with a pair of Queens
+
+
+PokerStars Hand #159326749279:  Hold'em Limit ($3/$6 USD) - 2016/10/01 8:48:57 ET
+Table 'Segin' 6-max Seat #2 is the button
+Seat 1: B_loJkl ($186.03 in chips)
+Seat 2: gorcea_vs ($160.38 in chips)
+gorcea_vs: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+gorcea_vs: raises $3 to $6
+michehh5 leaves the table
+B_loJkl: calls $3
+*** FLOP *** [As 5d Jh]
+B_loJkl: checks
+gorcea_vs: bets $3
+B_loJkl: calls $3
+*** TURN *** [As 5d Jh] [2s]
+B_loJkl: checks
+gorcea_vs: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to gorcea_vs
+gorcea_vs collected $17.64 from pot
+gorcea_vs: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [As 5d Jh 2s]
+Seat 1: B_loJkl (big blind) folded on the Turn
+Seat 2: gorcea_vs (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #159326764058:  Hold'em Limit ($3/$6 USD) - 2016/10/01 8:49:25 ET
+Table 'Segin' 6-max Seat #1 is the button
+Seat 1: B_loJkl ($177.03 in chips)
+Seat 2: gorcea_vs ($169.02 in chips)
+B_loJkl: posts small blind $1
+gorcea_vs: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+gorcea_vs: calls $3
+*** FLOP *** [9c 8h 7c]
+gorcea_vs: checks
+B_loJkl: bets $3
+gorcea_vs: raises $3 to $6
+B_loJkl: calls $3
+*** TURN *** [9c 8h 7c] [7d]
+gorcea_vs: bets $6
+B_loJkl: calls $6
+*** RIVER *** [9c 8h 7c 7d] [6d]
+gorcea_vs: checks
+B_loJkl: bets $6
+gorcea_vs: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [Tc 5d] (a straight, Six to Ten)
+gorcea_vs: mucks hand
+B_loJkl collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9c 8h 7c 7d 6d]
+Seat 1: B_loJkl (button) (small blind) showed [Tc 5d] and won ($47.50) with a straight, Six to Ten
+Seat 2: gorcea_vs (big blind) mucked
+
+
+PokerStars Hand #159326813740:  Hold'em Limit ($3/$6 USD) - 2016/10/01 8:50:59 ET
+Table 'Segin' 6-max Seat #3 is the button
+Seat 2: gorcea_vs ($124.02 in chips)
+Seat 3: B_loJkl ($170.50 in chips)
+B_loJkl: posts small blind $1
+gorcea_vs: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+gorcea_vs: calls $3
+*** FLOP *** [7h 9c 6h]
+gorcea_vs: checks
+B_loJkl: checks
+*** TURN *** [7h 9c 6h] [8d]
+gorcea_vs: bets $6
+B_loJkl: raises $6 to $12
+gorcea_vs: calls $6
+*** RIVER *** [7h 9c 6h 8d] [3s]
+gorcea_vs: checks
+B_loJkl: bets $6
+gorcea_vs: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [Qs 5d] (a straight, Five to Nine)
+gorcea_vs: shows [5s Ks] (a straight, Five to Nine)
+gorcea_vs collected $23.75 from pot
+B_loJkl collected $23.75 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7h 9c 6h 8d 3s]
+Seat 2: gorcea_vs (big blind) showed [5s Ks] and won ($23.75) with a straight, Five to Nine
+Seat 3: B_loJkl (button) (small blind) showed [Qs 5d] and won ($23.75) with a straight, Five to Nine
+
+
+PokerStars Hand #159326790413:  Hold'em Limit ($3/$6 USD) - 2016/10/01 8:50:15 ET
+Table 'Segin' 6-max Seat #2 is the button
+Seat 2: gorcea_vs ($145.02 in chips)
+Seat 3: B_loJkl ($150 in chips)
+gorcea_vs: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+gorcea_vs: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [7h 4c Kd]
+B_loJkl: bets $3
+gorcea_vs: calls $3
+*** TURN *** [7h 4c Kd] [2d]
+B_loJkl: bets $6
+gorcea_vs: calls $6
+*** RIVER *** [7h 4c Kd 2d] [9d]
+B_loJkl: bets $6
+gorcea_vs: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [Js Kh] (a pair of Kings)
+gorcea_vs: mucks hand
+B_loJkl collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [7h 4c Kd 2d 9d]
+Seat 2: gorcea_vs (button) (small blind) mucked
+Seat 3: B_loJkl (big blind) showed [Js Kh] and won ($41.50) with a pair of Kings
+
+
+PokerStars Hand #159326827705:  Hold'em Limit ($3/$6 USD) - 2016/10/01 8:51:25 ET
+Table 'Segin' 6-max Seat #2 is the button
+Seat 2: gorcea_vs ($123.77 in chips)
+Seat 3: B_loJkl ($170.25 in chips)
+gorcea_vs: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+gorcea_vs: calls $2
+B_loJkl: checks
+*** FLOP *** [8h Qc 5s]
+B_loJkl: bets $3
+gorcea_vs: calls $3
+*** TURN *** [8h Qc 5s] [Qh]
+B_loJkl: checks
+gorcea_vs: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to gorcea_vs
+gorcea_vs collected $11.76 from pot
+gorcea_vs: doesn't show hand
+Rmk1500 joins the table at seat #1
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8h Qc 5s Qh]
+Seat 2: gorcea_vs (button) (small blind) collected ($11.76)
+Seat 3: B_loJkl (big blind) folded on the Turn
+
+
+PokerStars Hand #159328771394:  Hold'em Limit ($3/$6 USD) - 2016/10/01 9:50:15 ET
+Table 'Segin' 6-max Seat #4 is the button
+Seat 2: CrongCrong ($38.64 in chips)
+Seat 4: Psynto ($110.92 in chips)
+Psynto: posts small blind $1
+CrongCrong: posts big blind $3
+*** HOLE CARDS ***
+Psynto: raises $3 to $6
+CrongCrong: calls $3
+*** FLOP *** [Ac Kd Ks]
+CrongCrong: checks
+Psynto: bets $3
+CrongCrong: folds
+Uncalled bet ($3) returned to Psynto
+Psynto collected $11.76 from pot
+Psynto: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ac Kd Ks]
+Seat 2: CrongCrong (big blind) folded on the Flop
+Seat 4: Psynto (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #159328766818:  Hold'em Limit ($3/$6 USD) - 2016/10/01 9:50:07 ET
+Table 'Segin' 6-max Seat #2 is the button
+Seat 2: CrongCrong ($35.64 in chips)
+Seat 4: Psynto ($113.92 in chips)
+CrongCrong: posts small blind $1
+Psynto: posts big blind $3
+*** HOLE CARDS ***
+Hard10510 leaves the table
+CrongCrong: raises $3 to $6
+Psynto: folds
+Uncalled bet ($3) returned to CrongCrong
+CrongCrong collected $6 from pot
+CrongCrong: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: CrongCrong (button) (small blind) collected ($6)
+Seat 4: Psynto (big blind) folded before Flop
+
+
+PokerStars Hand #159328756786:  Hold'em Limit ($3/$6 USD) - 2016/10/01 9:49:50 ET
+Table 'Segin' 6-max Seat #4 is the button
+Seat 2: CrongCrong ($27 in chips)
+Seat 4: Psynto ($122.92 in chips)
+Psynto: posts small blind $1
+B_loJkl: is sitting out
+CrongCrong: posts big blind $3
+*** HOLE CARDS ***
+Psynto: raises $3 to $6
+B_loJkl leaves the table
+CrongCrong: raises $3 to $9
+Psynto: calls $3
+*** FLOP *** [Qh As Td]
+CrongCrong: bets $3
+Psynto: folds
+Uncalled bet ($3) returned to CrongCrong
+CrongCrong collected $17.64 from pot
+CrongCrong: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qh As Td]
+Seat 2: CrongCrong (big blind) collected ($17.64)
+Seat 4: Psynto (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #159328811629:  Hold'em Limit ($3/$6 USD) - 2016/10/01 9:51:26 ET
+Table 'Segin' 6-max Seat #2 is the button
+Seat 2: CrongCrong ($40.14 in chips)
+Seat 4: Psynto ($108.18 in chips)
+CrongCrong: posts small blind $1
+Psynto: posts big blind $3
+*** HOLE CARDS ***
+CrongCrong: folds
+Uncalled bet ($2) returned to Psynto
+Psynto collected $2 from pot
+Psynto: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: CrongCrong (button) (small blind) folded before Flop
+Seat 4: Psynto (big blind) collected ($2)
+
+
+PokerStars Hand #159328803142:  Hold'em Limit ($3/$6 USD) - 2016/10/01 9:51:11 ET
+Table 'Segin' 6-max Seat #4 is the button
+Seat 2: CrongCrong ($58.14 in chips)
+Seat 4: Psynto ($90.68 in chips)
+Psynto: posts small blind $1
+CrongCrong: posts big blind $3
+*** HOLE CARDS ***
+Psynto: raises $3 to $6
+CrongCrong: raises $3 to $9
+Psynto: calls $3
+*** FLOP *** [Jc Ks 8d]
+CrongCrong: bets $3
+Psynto: calls $3
+*** TURN *** [Jc Ks 8d] [5s]
+CrongCrong: bets $6
+Psynto: calls $6
+*** RIVER *** [Jc Ks 8d 5s] [Qc]
+CrongCrong: checks
+Psynto: checks
+*** SHOW DOWN ***
+CrongCrong: shows [5h Ah] (a pair of Fives)
+Psynto: shows [2h 8h] (a pair of Eights)
+Psynto collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Jc Ks 8d 5s Qc]
+Seat 2: CrongCrong (big blind) showed [5h Ah] and lost with a pair of Fives
+Seat 4: Psynto (button) (small blind) showed [2h 8h] and won ($35.50) with a pair of Eights
+
+
+PokerStars Hand #159328800534:  Hold'em Limit ($3/$6 USD) - 2016/10/01 9:51:06 ET
+Table 'Segin' 6-max Seat #2 is the button
+Seat 2: CrongCrong ($59.14 in chips)
+Seat 4: Psynto ($89.68 in chips)
+CrongCrong: posts small blind $1
+Psynto: posts big blind $3
+*** HOLE CARDS ***
+CrongCrong: folds
+Uncalled bet ($2) returned to Psynto
+Psynto collected $2 from pot
+Psynto: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: CrongCrong (button) (small blind) folded before Flop
+Seat 4: Psynto (big blind) collected ($2)
+
+
+PokerStars Hand #159328796522:  Hold'em Limit ($3/$6 USD) - 2016/10/01 9:50:59 ET
+Table 'Segin' 6-max Seat #4 is the button
+Seat 2: CrongCrong ($62.14 in chips)
+Seat 4: Psynto ($86.68 in chips)
+Psynto: posts small blind $1
+CrongCrong: posts big blind $3
+*** HOLE CARDS ***
+Psynto: raises $3 to $6
+CrongCrong: folds
+Uncalled bet ($3) returned to Psynto
+Psynto collected $6 from pot
+Psynto: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: CrongCrong (big blind) folded before Flop
+Seat 4: Psynto (button) (small blind) collected ($6)
+
+
+PokerStars Hand #159328783695:  Hold'em Limit ($3/$6 USD) - 2016/10/01 9:50:37 ET
+Table 'Segin' 6-max Seat #2 is the button
+Seat 2: CrongCrong ($32.64 in chips)
+Seat 4: Psynto ($116.68 in chips)
+CrongCrong: posts small blind $1
+Psynto: posts big blind $3
+*** HOLE CARDS ***
+CrongCrong: raises $3 to $6
+Psynto: raises $3 to $9
+CrongCrong: calls $3
+*** FLOP *** [Td 9c Qd]
+Psynto: bets $3
+CrongCrong: raises $3 to $6
+Psynto: raises $3 to $9
+CrongCrong: calls $3
+*** TURN *** [Td 9c Qd] [8c]
+Psynto: bets $6
+CrongCrong: calls $6
+*** RIVER *** [Td 9c Qd 8c] [Kd]
+Psynto: checks
+CrongCrong: bets $6
+Psynto: calls $6
+*** SHOW DOWN ***
+CrongCrong: shows [9d Js] (a straight, Nine to King)
+Psynto: mucks hand
+CrongCrong collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Td 9c Qd 8c Kd]
+Seat 2: CrongCrong (button) (small blind) showed [9d Js] and won ($59.50) with a straight, Nine to King
+Seat 4: Psynto (big blind) mucked
+
+
+PokerStars Hand #159328780870:  Hold'em Limit ($3/$6 USD) - 2016/10/01 9:50:32 ET
+Table 'Segin' 6-max Seat #4 is the button
+Seat 2: CrongCrong ($31.64 in chips)
+Seat 4: Psynto ($117.68 in chips)
+Psynto: posts small blind $1
+CrongCrong: posts big blind $3
+*** HOLE CARDS ***
+Psynto: folds
+Uncalled bet ($2) returned to CrongCrong
+CrongCrong collected $2 from pot
+CrongCrong: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: CrongCrong (big blind) collected ($2)
+Seat 4: Psynto (button) (small blind) folded before Flop
+
+
+PokerStars Hand #159328778039:  Hold'em Limit ($3/$6 USD) - 2016/10/01 9:50:27 ET
+Table 'Segin' 6-max Seat #2 is the button
+Seat 2: CrongCrong ($32.64 in chips)
+Seat 4: Psynto ($116.68 in chips)
+CrongCrong: posts small blind $1
+Psynto: posts big blind $3
+*** HOLE CARDS ***
+CrongCrong: folds
+Uncalled bet ($2) returned to Psynto
+Psynto collected $2 from pot
+Psynto: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: CrongCrong (button) (small blind) folded before Flop
+Seat 4: Psynto (big blind) collected ($2)
+
+
+PokerStars Hand #159328825319:  Hold'em Limit ($3/$6 USD) - 2016/10/01 9:51:48 ET
+Table 'Segin' 6-max Seat #2 is the button
+Seat 2: CrongCrong ($21.14 in chips)
+Seat 4: Psynto ($126.68 in chips)
+CrongCrong: posts small blind $1
+Psynto: posts big blind $3
+*** HOLE CARDS ***
+CrongCrong: raises $3 to $6
+Psynto: raises $3 to $9
+CrongCrong: calls $3
+*** FLOP *** [Kh 2s Qs]
+Psynto: bets $3
+CrongCrong: folds
+Uncalled bet ($3) returned to Psynto
+Psynto collected $17.64 from pot
+Psynto: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kh 2s Qs]
+Seat 2: CrongCrong (button) (small blind) folded on the Flop
+Seat 4: Psynto (big blind) collected ($17.64)
+
+
+PokerStars Hand #159328814157:  Hold'em Limit ($3/$6 USD) - 2016/10/01 9:51:30 ET
+Table 'Segin' 6-max Seat #4 is the button
+Seat 2: CrongCrong ($39.14 in chips)
+Seat 4: Psynto ($109.18 in chips)
+Psynto: posts small blind $1
+CrongCrong: posts big blind $3
+*** HOLE CARDS ***
+RJF1943 joins the table at seat #6
+Psynto: raises $3 to $6
+CrongCrong: raises $3 to $9
+Psynto: calls $3
+*** FLOP *** [5c 4h 4c]
+CrongCrong: bets $3
+Psynto: calls $3
+*** TURN *** [5c 4h 4c] [8h]
+CrongCrong: bets $6
+Psynto: calls $6
+*** RIVER *** [5c 4h 4c 8h] [4s]
+CrongCrong: checks
+Psynto: checks
+*** SHOW DOWN ***
+CrongCrong: shows [Jd Td] (three of a kind, Fours)
+Psynto: shows [Kd 6c] (three of a kind, Fours - King kicker)
+Psynto collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5c 4h 4c 8h 4s]
+Seat 2: CrongCrong (big blind) showed [Jd Td] and lost with three of a kind, Fours
+Seat 4: Psynto (button) (small blind) showed [Kd 6c] and won ($35.50) with three of a kind, Fours
+
+
+PokerStars Hand #159329500368:  Hold'em Limit ($3/$6 USD) - 2016/10/01 10:11:59 ET
+Table 'Segin' 6-max Seat #2 is the button
+Seat 1: DePokeraap ($108.27 in chips)
+Seat 2: B_loJkl ($177 in chips)
+B_loJkl: posts small blind $1
+Luanto 14: is sitting out
+DePokeraap: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+DePokeraap: calls $3
+*** FLOP *** [Qc 2s 3d]
+DePokeraap: checks
+B_loJkl: bets $3
+DePokeraap: raises $3 to $6
+B_loJkl: calls $3
+*** TURN *** [Qc 2s 3d] [6h]
+DePokeraap: bets $6
+B_loJkl: calls $6
+*** RIVER *** [Qc 2s 3d 6h] [Jh]
+DePokeraap: bets $6
+Luanto 14 leaves the table
+B_loJkl: calls $6
+*** SHOW DOWN ***
+DePokeraap: shows [4c 5s] (a straight, Deuce to Six)
+B_loJkl: mucks hand
+DePokeraap collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Qc 2s 3d 6h Jh]
+Seat 1: DePokeraap (big blind) showed [4c 5s] and won ($47.50) with a straight, Deuce to Six
+Seat 2: B_loJkl (button) (small blind) mucked
+
+

@@ -1,0 +1,82 @@
+PokerStars Hand #162452697656:  Hold'em Limit ($3/$6 USD) - 2016/12/05 10:32:55 ET
+Table 'Phocaea' 6-max Seat #2 is the button
+Seat 2: SUN@@AA168 ($120 in chips)
+Seat 5: GoliafUa ($120 in chips)
+SUN@@AA168: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+SUN@@AA168: raises $3 to $6
+GoliafUa: calls $3
+*** FLOP *** [3s 4s Qc]
+kolaz03 joins the table at seat #3
+GoliafUa: checks
+SUN@@AA168: bets $3
+GoliafUa: raises $3 to $6
+SUN@@AA168: calls $3
+*** TURN *** [3s 4s Qc] [2h]
+GoliafUa: bets $6
+SUN@@AA168: calls $6
+*** RIVER *** [3s 4s Qc 2h] [Ah]
+GoliafUa: bets $6
+SUN@@AA168: calls $6
+*** SHOW DOWN ***
+GoliafUa: shows [6h 5d] (a straight, Deuce to Six)
+SUN@@AA168: mucks hand
+GoliafUa collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3s 4s Qc 2h Ah]
+Seat 2: SUN@@AA168 (button) (small blind) mucked
+Seat 5: GoliafUa (big blind) showed [6h 5d] and won ($47.50) with a straight, Deuce to Six
+
+
+PokerStars Hand #162452721342:  Hold'em Limit ($3/$6 USD) - 2016/12/05 10:33:25 ET
+Table 'Phocaea' 6-max Seat #5 is the button
+Seat 2: SUN@@AA168 ($96 in chips)
+Seat 5: GoliafUa ($143.50 in chips)
+GoliafUa: posts small blind $1
+SUN@@AA168: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa: raises $3 to $6
+SUN@@AA168: calls $3
+*** FLOP *** [5s 9c 9d]
+SUN@@AA168: checks
+GoliafUa: bets $3
+SUN@@AA168: calls $3
+*** TURN *** [5s 9c 9d] [5h]
+SUN@@AA168: checks
+GoliafUa: bets $6
+SUN@@AA168: folds
+Uncalled bet ($6) returned to GoliafUa
+GoliafUa collected $17.64 from pot
+GoliafUa: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5s 9c 9d 5h]
+Seat 2: SUN@@AA168 (big blind) folded on the Turn
+Seat 5: GoliafUa (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #162453015195:  Hold'em Limit ($3/$6 USD) - 2016/12/05 10:40:14 ET
+Table 'Phocaea' 6-max Seat #3 is the button
+Seat 2: SUN@@AA168 ($99.54 in chips)
+Seat 3: kolaz03 ($78.64 in chips)
+kolaz03: posts small blind $1
+SUN@@AA168: posts big blind $3
+*** HOLE CARDS ***
+kolaz03: raises $3 to $6
+SUN@@AA168: calls $3
+*** FLOP *** [Ks 6c 3d]
+SUN@@AA168: checks
+kolaz03: bets $3
+SUN@@AA168: folds
+Uncalled bet ($3) returned to kolaz03
+kolaz03 collected $11.76 from pot
+kolaz03: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ks 6c 3d]
+Seat 2: SUN@@AA168 (big blind) folded on the Flop
+Seat 3: kolaz03 (button) (small blind) collected ($11.76)
+
+

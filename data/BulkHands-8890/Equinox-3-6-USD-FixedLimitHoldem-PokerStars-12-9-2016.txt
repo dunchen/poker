@@ -1,0 +1,147 @@
+PokerStars Hand #162654456238:  Hold'em Limit ($3/$6 USD) - 2016/12/09 6:11:44 ET
+Table 'Equinox' 6-max Seat #2 is the button
+Seat 1: MMM 22666 ($72 in chips)
+Seat 2: kolaz03 ($72 in chips)
+kolaz03: posts small blind $1
+TbIP-TbIP 88: is sitting out
+MMM 22666: posts big blind $3
+*** HOLE CARDS ***
+kolaz03: raises $3 to $6
+MMM 22666: raises $3 to $9
+TbIP-TbIP 88 leaves the table
+kolaz03: calls $3
+*** FLOP *** [4h Qc 4s]
+MMM 22666: bets $3
+kolaz03: calls $3
+*** TURN *** [4h Qc 4s] [Kd]
+MMM 22666: checks
+kolaz03: bets $6
+MMM 22666: calls $6
+*** RIVER *** [4h Qc 4s Kd] [9h]
+MMM 22666: checks
+kolaz03: bets $6
+MMM 22666: calls $6
+*** SHOW DOWN ***
+kolaz03: shows [4d 4c] (four of a kind, Fours)
+MMM 22666: mucks hand
+kolaz03 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4h Qc 4s Kd 9h]
+Seat 1: MMM 22666 (big blind) mucked
+Seat 2: kolaz03 (button) (small blind) showed [4d 4c] and won ($47.50) with four of a kind, Fours
+
+
+PokerStars Hand #162654491561:  Hold'em Limit ($3/$6 USD) - 2016/12/09 6:13:01 ET
+Table 'Equinox' 6-max Seat #1 is the button
+Seat 1: MMM 22666 ($98 in chips)
+Seat 2: kolaz03 ($72 in chips)
+MMM 22666: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+MMM 22666: folds
+Uncalled bet ($2) returned to kolaz03
+kolaz03 collected $2 from pot
+kolaz03: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: MMM 22666 (button) (small blind) folded before Flop
+Seat 2: kolaz03 (big blind) collected ($2)
+
+
+PokerStars Hand #162654480298:  Hold'em Limit ($3/$6 USD) - 2016/12/09 6:12:36 ET
+Table 'Equinox' 6-max Seat #2 is the button
+Seat 1: MMM 22666 ($80.50 in chips)
+Seat 2: kolaz03 ($72 in chips)
+kolaz03: posts small blind $1
+MMM 22666: posts big blind $3
+*** HOLE CARDS ***
+kolaz03: raises $3 to $6
+MMM 22666: calls $3
+*** FLOP *** [3d 4s Ks]
+MMM 22666: checks
+kolaz03: bets $3
+Krazy90 joins the table at seat #3
+MMM 22666: raises $3 to $6
+kolaz03: calls $3
+*** TURN *** [3d 4s Ks] [6s]
+MMM 22666: bets $6
+kolaz03: calls $6
+*** RIVER *** [3d 4s Ks 6s] [4d]
+MMM 22666: bets $6
+kolaz03: folds
+Uncalled bet ($6) returned to MMM 22666
+MMM 22666 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [3d 4s Ks 6s 4d]
+Seat 1: MMM 22666 (big blind) collected ($35.50)
+Seat 2: kolaz03 (button) (small blind) folded on the River
+
+
+PokerStars Hand #162654466786:  Hold'em Limit ($3/$6 USD) - 2016/12/09 6:12:07 ET
+Table 'Equinox' 6-max Seat #1 is the button
+Seat 1: MMM 22666 ($48 in chips)
+Seat 2: kolaz03 ($95.50 in chips)
+MMM 22666: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+MMM 22666: calls $2
+kolaz03: raises $3 to $6
+MMM 22666: calls $3
+*** FLOP *** [5d Kc 4s]
+kolaz03: bets $3
+MMM 22666: calls $3
+*** TURN *** [5d Kc 4s] [9h]
+kolaz03: checks
+MMM 22666: bets $6
+kolaz03: raises $6 to $12
+MMM 22666: raises $6 to $18
+kolaz03: calls $6
+*** RIVER *** [5d Kc 4s 9h] [7d]
+kolaz03: checks
+MMM 22666: bets $6
+kolaz03: calls $6
+*** SHOW DOWN ***
+MMM 22666: shows [Kd 5c] (two pair, Kings and Fives)
+kolaz03: mucks hand
+MMM 22666 collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [5d Kc 4s 9h 7d]
+Seat 1: MMM 22666 (button) (small blind) showed [Kd 5c] and won ($65.50) with two pair, Kings and Fives
+Seat 2: kolaz03 (big blind) mucked
+
+
+PokerStars Hand #162662540823:  Hold'em Limit ($3/$6 USD) - 2016/12/09 10:07:58 ET
+Table 'Equinox' 6-max Seat #3 is the button
+Seat 1: feilinho ($101 in chips)
+Seat 3: krytalex ($95.92 in chips)
+krytalex: posts small blind $1
+komornik: is sitting out
+feilinho: posts big blind $3
+*** HOLE CARDS ***
+komornik leaves the table
+krytalex: raises $3 to $6
+feilinho: raises $3 to $9
+krytalex: calls $3
+*** FLOP *** [Th Kc 2s]
+feilinho: bets $3
+krytalex: calls $3
+*** TURN *** [Th Kc 2s] [2c]
+feilinho: bets $6
+krytalex: calls $6
+*** RIVER *** [Th Kc 2s 2c] [Qs]
+feilinho: checks
+krytalex: checks
+*** SHOW DOWN ***
+feilinho: shows [Ts Jd] (two pair, Tens and Deuces)
+krytalex: mucks hand
+feilinho collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Th Kc 2s 2c Qs]
+Seat 1: feilinho (big blind) showed [Ts Jd] and won ($35.50) with two pair, Tens and Deuces
+Seat 3: krytalex (button) (small blind) mucked
+
+

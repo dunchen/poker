@@ -1,0 +1,32 @@
+PokerStars Hand #175341028159:  Hold'em Limit ($3/$6 USD) - 2017/09/07 16:30:20 ET
+Table 'Makhaon' 6-max Seat #4 is the button
+Seat 1: kote1969 ($71.26 in chips)
+Seat 4: Actionni13 ($150 in chips)
+Actionni13: posts small blind $1
+kote1969: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+kote1969: calls $3
+*** FLOP *** [4d 9d Ac]
+kote1969: checks
+Actionni13: bets $3
+kote1969: calls $3
+*** TURN *** [4d 9d Ac] [Kc]
+kote1969: checks
+Actionni13: bets $6
+kote1969: calls $6
+*** RIVER *** [4d 9d Ac Kc] [Kh]
+kote1969: checks
+Actionni13: bets $6
+kote1969: calls $6
+*** SHOW DOWN ***
+Actionni13: shows [Ad 2c] (two pair, Aces and Kings)
+kote1969: mucks hand
+Actionni13 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [4d 9d Ac Kc Kh]
+Seat 1: kote1969 (big blind) mucked
+Seat 4: Actionni13 (button) (small blind) showed [Ad 2c] and won ($41.50) with two pair, Aces and Kings
+
+

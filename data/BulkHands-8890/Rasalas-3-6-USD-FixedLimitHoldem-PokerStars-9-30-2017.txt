@@ -1,0 +1,31 @@
+PokerStars Hand #176289982974:  Hold'em Limit ($3/$6 USD) - 2017/09/29 20:06:46 ET
+Table 'Rasalas' 6-max Seat #3 is the button
+Seat 2: Chessnok ($215.08 in chips)
+Seat 3: ToDaFelt ($143.79 in chips)
+ToDaFelt: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [8c Ac Jc]
+Chessnok: checks
+ToDaFelt: bets $3
+Chessnok: calls $3
+*** TURN *** [8c Ac Jc] [4s]
+Chessnok: checks
+ToDaFelt: checks
+*** RIVER *** [8c Ac Jc 4s] [9c]
+Chessnok: checks
+ToDaFelt: bets $6
+Chessnok: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [3h Ts] (high card Ace)
+Chessnok: shows [4h 8h] (two pair, Eights and Fours)
+Chessnok collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8c Ac Jc 4s 9c]
+Seat 2: Chessnok (big blind) showed [4h 8h] and won ($29.50) with two pair, Eights and Fours
+Seat 3: ToDaFelt (button) (small blind) showed [3h Ts] and lost with high card Ace
+
+

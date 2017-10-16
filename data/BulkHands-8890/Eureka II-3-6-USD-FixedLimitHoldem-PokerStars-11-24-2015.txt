@@ -1,0 +1,58 @@
+PokerStars Hand #144336992127:  Hold'em Limit ($3/$6 USD) - 2015/11/24 18:23:37 ET
+Table 'Eureka II' 2-max Seat #1 is the button
+Seat 1: kontsevitch ($102.02 in chips)
+Seat 2: Kostetikus ($93.66 in chips)
+kontsevitch: posts small blind $1
+Kostetikus: posts big blind $3
+*** HOLE CARDS ***
+kontsevitch: raises $3 to $6
+Kostetikus: calls $3
+*** FLOP *** [Jd 4c 2c]
+Kostetikus: checks
+kontsevitch: bets $3
+Kostetikus: raises $3 to $6
+kontsevitch: raises $3 to $9
+Kostetikus: calls $3
+*** TURN *** [Jd 4c 2c] [7h]
+Kostetikus: checks
+kontsevitch: bets $6
+Kostetikus: calls $6
+*** RIVER *** [Jd 4c 2c 7h] [3d]
+Kostetikus: checks
+kontsevitch: bets $6
+Kostetikus: calls $6
+*** SHOW DOWN ***
+kontsevitch: shows [5s Ac] (a straight, Ace to Five)
+Kostetikus: mucks hand
+kontsevitch collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Jd 4c 2c 7h 3d]
+Seat 1: kontsevitch (button) (small blind) showed [5s Ac] and won ($53.50) with a straight, Ace to Five
+Seat 2: Kostetikus (big blind) mucked
+
+
+PokerStars Hand #144337013264:  Hold'em Limit ($3/$6 USD) - 2015/11/24 18:24:05 ET
+Table 'Eureka II' 2-max Seat #2 is the button
+Seat 1: kontsevitch ($128.52 in chips)
+Seat 2: Kostetikus ($72 in chips)
+Kostetikus: posts small blind $1
+kontsevitch: posts big blind $3
+*** HOLE CARDS ***
+Kostetikus: raises $3 to $6
+kontsevitch: calls $3
+*** FLOP *** [Kc 8h Ks]
+kontsevitch: checks
+Kostetikus: bets $3
+kontsevitch: raises $3 to $6
+Kostetikus: folds
+Uncalled bet ($3) returned to kontsevitch
+kontsevitch collected $17.64 from pot
+kontsevitch: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kc 8h Ks]
+Seat 1: kontsevitch (big blind) collected ($17.64)
+Seat 2: Kostetikus (button) (small blind) folded on the Flop
+
+

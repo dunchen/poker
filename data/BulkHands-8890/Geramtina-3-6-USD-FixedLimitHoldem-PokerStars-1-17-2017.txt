@@ -1,0 +1,29 @@
+PokerStars Hand #164742945185:  Hold'em Limit ($3/$6 USD) - 2017/01/17 16:25:55 ET
+Table 'Geramtina' 6-max Seat #1 is the button
+Seat 1: dblmystack ($120 in chips)
+Seat 3: Priora158 ($120 in chips)
+dblmystack: posts small blind $1
+Priora158: posts big blind $3
+*** HOLE CARDS ***
+Bueffel joins the table at seat #2
+dblmystack: raises $3 to $6
+Priora158: calls $3
+*** FLOP *** [8d Jd 6s]
+Priora158: checks
+dblmystack: checks
+*** TURN *** [8d Jd 6s] [5d]
+Priora158: bets $6
+ABATAPP joins the table at seat #4
+dblmystack: calls $6
+*** RIVER *** [8d Jd 6s 5d] [3h]
+Priora158: bets $6
+dblmystack: folds
+Uncalled bet ($6) returned to Priora158
+Priora158 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [8d Jd 6s 5d 3h]
+Seat 1: dblmystack (button) (small blind) folded on the River
+Seat 3: Priora158 (big blind) collected ($23.52)
+
+

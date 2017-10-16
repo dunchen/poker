@@ -1,0 +1,62 @@
+PokerStars Hand #146983424016:  Hold'em Limit ($3/$6 USD) - 2016/01/13 14:46:57 ET
+Table 'Leonce II' 10-max Seat #1 is the button
+Seat 1: VolkovDmitri ($129.64 in chips)
+Seat 8: perten ($109.88 in chips)
+VolkovDmitri: posts small blind $1
+perten: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+perten: calls $3
+*** FLOP *** [Kd Ts 7d]
+perten: bets $3
+VolkovDmitri: raises $3 to $6
+perten: calls $3
+*** TURN *** [Kd Ts 7d] [5c]
+perten: checks
+VolkovDmitri: bets $6
+perten: raises $6 to $12
+VolkovDmitri: calls $6
+*** RIVER *** [Kd Ts 7d 5c] [Ad]
+perten: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+perten: shows [7c 5s] (two pair, Sevens and Fives)
+VolkovDmitri: mucks hand
+perten collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Kd Ts 7d 5c Ad]
+Seat 1: VolkovDmitri (button) (small blind) mucked
+Seat 8: perten (big blind) showed [7c 5s] and won ($59.50) with two pair, Sevens and Fives
+
+
+PokerStars Hand #146983474344:  Hold'em Limit ($3/$6 USD) - 2016/01/13 14:47:46 ET
+Table 'Leonce II' 10-max Seat #8 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 8: perten ($139.38 in chips)
+perten: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+perten: calls $2
+VolkovDmitri: raises $3 to $6
+perten: calls $3
+*** FLOP *** [Js Jc 5d]
+VolkovDmitri: bets $3
+perten: calls $3
+*** TURN *** [Js Jc 5d] [2d]
+VolkovDmitri: bets $6
+perten: calls $6
+*** RIVER *** [Js Jc 5d 2d] [2h]
+VolkovDmitri: checks
+perten: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to perten
+perten collected $29.50 from pot
+perten: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Js Jc 5d 2d 2h]
+Seat 1: VolkovDmitri (big blind) folded on the River
+Seat 8: perten (button) (small blind) collected ($29.50)
+
+

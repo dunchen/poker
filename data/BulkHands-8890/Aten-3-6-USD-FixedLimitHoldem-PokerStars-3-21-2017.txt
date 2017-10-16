@@ -1,0 +1,38 @@
+PokerStars Hand #167898549572:  Hold'em Limit ($3/$6 USD) - 2017/03/21 9:41:11 ET
+Table 'Aten' 6-max Seat #3 is the button
+Seat 2: LouisB ($152.08 in chips)
+Seat 3: FinDeSiecle ($67.64 in chips)
+FinDeSiecle: posts small blind $1
+B_loJkl: is sitting out
+kolaz03: is sitting out
+AzureCaper: is sitting out
+LouisB: posts big blind $3
+*** HOLE CARDS ***
+FinDeSiecle: raises $3 to $6
+kolaz03 leaves the table
+LouisB: calls $3
+*** FLOP *** [2d 8c Ks]
+B_loJkl leaves the table
+LouisB: checks
+AzureCaper leaves the table
+FinDeSiecle: bets $3
+LouisB: raises $3 to $6
+FinDeSiecle: calls $3
+*** TURN *** [2d 8c Ks] [3d]
+LouisB: bets $6
+FinDeSiecle: calls $6
+*** RIVER *** [2d 8c Ks 3d] [Ad]
+LouisB: checks
+FinDeSiecle: bets $6
+LouisB: calls $6
+*** SHOW DOWN ***
+FinDeSiecle: shows [Kd Tc] (a pair of Kings)
+LouisB: mucks hand
+FinDeSiecle collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2d 8c Ks 3d Ad]
+Seat 2: LouisB (big blind) mucked
+Seat 3: FinDeSiecle (button) (small blind) showed [Kd Tc] and won ($47.50) with a pair of Kings
+
+

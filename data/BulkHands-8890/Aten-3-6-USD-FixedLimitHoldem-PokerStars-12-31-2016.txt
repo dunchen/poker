@@ -1,0 +1,32 @@
+PokerStars Hand #163813871123:  Hold'em Limit ($3/$6 USD) - 2016/12/31 6:49:55 ET
+Table 'Aten' 6-max Seat #1 is the button
+Seat 1: Chessnok ($120 in chips)
+Seat 3: ragz2riche5 ($251.62 in chips)
+Chessnok: posts small blind $1
+ragz2riche5: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+ragz2riche5: calls $3
+*** FLOP *** [Jh 3s Qc]
+ragz2riche5: checks
+Chessnok: bets $3
+ragz2riche5: calls $3
+*** TURN *** [Jh 3s Qc] [5s]
+ragz2riche5: checks
+Chessnok: bets $6
+ragz2riche5: raises $6 to $12
+Chessnok: calls $6
+*** RIVER *** [Jh 3s Qc 5s] [6c]
+ragz2riche5: bets $6
+Chessnok: calls $6
+*** SHOW DOWN ***
+ragz2riche5: shows [3d Jd] (two pair, Jacks and Threes)
+Chessnok: mucks hand
+ragz2riche5 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Jh 3s Qc 5s 6c]
+Seat 1: Chessnok (button) (small blind) mucked
+Seat 3: ragz2riche5 (big blind) showed [3d Jd] and won ($53.50) with two pair, Jacks and Threes
+
+

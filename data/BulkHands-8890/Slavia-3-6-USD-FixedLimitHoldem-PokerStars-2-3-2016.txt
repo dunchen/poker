@@ -1,0 +1,83 @@
+PokerStars Hand #148140871151:  Hold'em Limit ($3/$6 USD) - 2016/02/02 19:18:33 ET
+Table 'Slavia' 2-max Seat #1 is the button
+Seat 1: elifnur2008 ($108 in chips)
+Seat 2: mundm153 ($48.95 in chips)
+elifnur2008: posts small blind $1
+mundm153: posts big blind $3
+*** HOLE CARDS ***
+elifnur2008: raises $3 to $6
+mundm153: raises $3 to $9
+elifnur2008: raises $3 to $12
+Betting is capped
+mundm153: calls $3
+*** FLOP *** [4c 7s Kh]
+mundm153: bets $3
+elifnur2008: calls $3
+*** TURN *** [4c 7s Kh] [5s]
+mundm153: bets $6
+elifnur2008: raises $6 to $12
+mundm153: raises $6 to $18
+elifnur2008: raises $6 to $24
+Betting is capped
+mundm153: calls $6
+*** RIVER *** [4c 7s Kh 5s] [Ks]
+mundm153: bets $6
+elifnur2008: calls $6
+*** SHOW DOWN ***
+mundm153: shows [6s Jd] (a pair of Kings)
+elifnur2008: shows [7d 6d] (two pair, Kings and Sevens)
+elifnur2008 collected $89.50 from pot
+*** SUMMARY ***
+Total pot $90 | Rake $0.50
+Board [4c 7s Kh 5s Ks]
+Seat 1: elifnur2008 (button) (small blind) showed [7d 6d] and won ($89.50) with two pair, Kings and Sevens
+Seat 2: mundm153 (big blind) showed [6s Jd] and lost with a pair of Kings
+
+
+PokerStars Hand #148140890038:  Hold'em Limit ($3/$6 USD) - 2016/02/02 19:19:00 ET
+Table 'Slavia' 2-max Seat #2 is the button
+Seat 1: elifnur2008 ($152.50 in chips)
+Seat 2: mundm153 ($3.95 in chips)
+mundm153: posts small blind $1
+elifnur2008: posts big blind $3
+*** HOLE CARDS ***
+mundm153: raises $0.95 to $3.95 and is all-in
+elifnur2008: calls $0.95
+*** FLOP *** [9h Qh 4s]
+*** TURN *** [9h Qh 4s] [5c]
+*** RIVER *** [9h Qh 4s 5c] [Kh]
+*** SHOW DOWN ***
+elifnur2008: shows [6s 2h] (high card King)
+mundm153: shows [Ad 4d] (a pair of Fours)
+mundm153 collected $7.74 from pot
+*** SUMMARY ***
+Total pot $7.90 | Rake $0.16
+Board [9h Qh 4s 5c Kh]
+Seat 1: elifnur2008 (big blind) showed [6s 2h] and lost with high card King
+Seat 2: mundm153 (button) (small blind) showed [Ad 4d] and won ($7.74) with a pair of Fours
+
+
+PokerStars Hand #148140898959:  Hold'em Limit ($3/$6 USD) - 2016/02/02 19:19:13 ET
+Table 'Slavia' 2-max Seat #1 is the button
+Seat 1: elifnur2008 ($148.55 in chips)
+Seat 2: mundm153 ($7.74 in chips)
+elifnur2008: posts small blind $1
+mundm153: posts big blind $3
+*** HOLE CARDS ***
+elifnur2008: raises $3 to $6
+mundm153: raises $1.74 to $7.74 and is all-in
+elifnur2008: calls $1.74
+*** FLOP *** [8h 7h 7d]
+*** TURN *** [8h 7h 7d] [3h]
+*** RIVER *** [8h 7h 7d 3h] [Qd]
+*** SHOW DOWN ***
+mundm153: shows [3c Jc] (two pair, Sevens and Threes)
+elifnur2008: shows [7c 9s] (three of a kind, Sevens)
+elifnur2008 collected $15.17 from pot
+*** SUMMARY ***
+Total pot $15.48 | Rake $0.31
+Board [8h 7h 7d 3h Qd]
+Seat 1: elifnur2008 (button) (small blind) showed [7c 9s] and won ($15.17) with three of a kind, Sevens
+Seat 2: mundm153 (big blind) showed [3c Jc] and lost with two pair, Sevens and Threes
+
+

@@ -1,0 +1,60 @@
+PokerStars Hand #154803885443:  Hold'em Limit ($3/$6 USD) - 2016/06/16 8:08:55 ET
+Table 'Nanking' 6-max Seat #3 is the button
+Seat 3: Shara.Vi ($32.88 in chips)
+Seat 4: VolkovDmitri ($161 in chips)
+Shara.Vi: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Shara.Vi: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+Shara.Vi: calls $3
+*** FLOP *** [Jh Qd Jd]
+VolkovDmitri: bets $3
+Shara.Vi: calls $3
+*** TURN *** [Jh Qd Jd] [Kd]
+VolkovDmitri: checks
+Shara.Vi: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to Shara.Vi
+Shara.Vi collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Jh Qd Jd Kd]
+Seat 3: Shara.Vi (button) (small blind) collected ($23.52)
+Seat 4: VolkovDmitri (big blind) folded on the Turn
+
+
+PokerStars Hand #154803861120:  Hold'em Limit ($3/$6 USD) - 2016/06/16 8:08:03 ET
+Table 'Nanking' 6-max Seat #4 is the button
+Seat 3: Shara.Vi ($50.88 in chips)
+Seat 4: VolkovDmitri ($143.50 in chips)
+VolkovDmitri: posts small blind $1
+Shara.Vi: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl joins the table at seat #5
+VolkovDmitri: raises $3 to $6
+Shara.Vi: raises $3 to $9
+VolkovDmitri: raises $3 to $12
+Betting is capped
+Shara.Vi: calls $3
+*** FLOP *** [3h Ac 4h]
+Shara.Vi: checks
+tomte999 joins the table at seat #6
+VolkovDmitri: checks
+*** TURN *** [3h Ac 4h] [8h]
+Shara.Vi: checks
+VolkovDmitri: checks
+*** RIVER *** [3h Ac 4h 8h] [As]
+Shara.Vi: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+Shara.Vi: shows [Qd Td] (a pair of Aces)
+VolkovDmitri: shows [Kh Qs] (a pair of Aces - King kicker)
+VolkovDmitri collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [3h Ac 4h 8h As]
+Seat 3: Shara.Vi (big blind) showed [Qd Td] and lost with a pair of Aces
+Seat 4: VolkovDmitri (button) (small blind) showed [Kh Qs] and won ($35.50) with a pair of Aces
+
+

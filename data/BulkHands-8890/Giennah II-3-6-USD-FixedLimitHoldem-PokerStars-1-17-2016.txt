@@ -1,0 +1,55 @@
+PokerStars Hand #147181236262:  Hold'em Limit ($3/$6 USD) - 2016/01/17 4:47:49 ET
+Table 'Giennah II' 2-max Seat #1 is the button
+Seat 1: yirkape ($8.37 in chips)
+Seat 2: dragon1893 ($173.50 in chips)
+yirkape: posts small blind $1
+dragon1893: posts big blind $3
+*** HOLE CARDS ***
+yirkape: raises $3 to $6
+dragon1893: raises $3 to $9
+yirkape: calls $2.37 and is all-in
+Uncalled bet ($0.63) returned to dragon1893
+*** FLOP *** [Kd Js Jd]
+*** TURN *** [Kd Js Jd] [Ad]
+*** RIVER *** [Kd Js Jd Ad] [5c]
+*** SHOW DOWN ***
+dragon1893: shows [Kh 4h] (two pair, Kings and Jacks)
+yirkape: mucks hand
+dragon1893 collected $16.41 from pot
+*** SUMMARY ***
+Total pot $16.74 | Rake $0.33
+Board [Kd Js Jd Ad 5c]
+Seat 1: yirkape (button) (small blind) mucked
+Seat 2: dragon1893 (big blind) showed [Kh 4h] and won ($16.41) with two pair, Kings and Jacks
+
+
+PokerStars Hand #147181226255:  Hold'em Limit ($3/$6 USD) - 2016/01/17 4:47:28 ET
+Table 'Giennah II' 2-max Seat #2 is the button
+Seat 1: yirkape ($32.37 in chips)
+Seat 2: dragon1893 ($150 in chips)
+dragon1893: posts small blind $1
+yirkape: posts big blind $3
+*** HOLE CARDS ***
+dragon1893: raises $3 to $6
+yirkape: raises $3 to $9
+dragon1893: calls $3
+*** FLOP *** [Qh Ts Ac]
+yirkape: bets $3
+dragon1893: calls $3
+*** TURN *** [Qh Ts Ac] [3s]
+yirkape: bets $6
+dragon1893: calls $6
+*** RIVER *** [Qh Ts Ac 3s] [7d]
+yirkape: bets $6
+dragon1893: calls $6
+*** SHOW DOWN ***
+yirkape: shows [9h 9s] (a pair of Nines)
+dragon1893: shows [Qs 2s] (a pair of Queens)
+dragon1893 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Qh Ts Ac 3s 7d]
+Seat 1: yirkape (big blind) showed [9h 9s] and lost with a pair of Nines
+Seat 2: dragon1893 (button) (small blind) showed [Qs 2s] and won ($47.50) with a pair of Queens
+
+

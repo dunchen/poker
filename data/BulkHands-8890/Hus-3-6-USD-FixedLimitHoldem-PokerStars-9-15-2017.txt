@@ -1,0 +1,32 @@
+PokerStars Hand #175672641000:  Hold'em Limit ($3/$6 USD) - 2017/09/15 10:11:17 ET
+Table 'Hus' 6-max Seat #6 is the button
+Seat 5: apx0surry9 ($294.90 in chips)
+Seat 6: vestimokrec ($220.67 in chips)
+vestimokrec: posts small blind $1
+apx0surry9: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+apx0surry9: calls $3
+*** FLOP *** [2d 2s Jd]
+apx0surry9: checks
+vestimokrec: bets $3
+apx0surry9: calls $3
+*** TURN *** [2d 2s Jd] [Tc]
+apx0surry9: checks
+vestimokrec: bets $6
+apx0surry9: calls $6
+*** RIVER *** [2d 2s Jd Tc] [7s]
+apx0surry9: checks
+vestimokrec: bets $6
+apx0surry9: calls $6
+*** SHOW DOWN ***
+vestimokrec: shows [6h 3c] (a pair of Deuces)
+apx0surry9: shows [Ah 4d] (a pair of Deuces - Ace kicker)
+apx0surry9 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2d 2s Jd Tc 7s]
+Seat 5: apx0surry9 (big blind) showed [Ah 4d] and won ($41.50) with a pair of Deuces
+Seat 6: vestimokrec (button) (small blind) showed [6h 3c] and lost with a pair of Deuces
+
+

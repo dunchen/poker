@@ -1,0 +1,51 @@
+PokerStars Hand #147949574099:  Hold'em Limit ($3/$6 USD) - 2016/01/30 14:50:24 ET
+Table 'Stearns' 2-max Seat #1 is the button
+Seat 1: favete lin ($72 in chips)
+Seat 2: joiso ($149.50 in chips)
+favete lin: posts small blind $1
+joiso: posts big blind $3
+*** HOLE CARDS ***
+favete lin: folds
+Uncalled bet ($2) returned to joiso
+joiso collected $2 from pot
+joiso: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: favete lin (button) (small blind) folded before Flop
+Seat 2: joiso (big blind) collected ($2)
+
+
+PokerStars Hand #147949529424:  Hold'em Limit ($3/$6 USD) - 2016/01/30 14:49:41 ET
+Table 'Stearns' 2-max Seat #2 is the button
+Seat 1: favete lin ($72 in chips)
+Seat 2: joiso ($120 in chips)
+joiso: posts small blind $1
+favete lin: posts big blind $3
+*** HOLE CARDS ***
+joiso: raises $3 to $6
+favete lin: calls $3
+*** FLOP *** [Jd 9c 2h]
+favete lin said, "hmmm what are you doing here"
+favete lin: checks
+joiso: bets $3
+favete lin: raises $3 to $6
+joiso: calls $3
+*** TURN *** [Jd 9c 2h] [7s]
+favete lin: bets $6
+joiso: raises $6 to $12
+favete lin: calls $6
+*** RIVER *** [Jd 9c 2h 7s] [2c]
+favete lin: checks
+joiso: bets $6
+favete lin: calls $6
+*** SHOW DOWN ***
+joiso: shows [Qc Jh] (two pair, Jacks and Deuces)
+favete lin: mucks hand
+joiso collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Jd 9c 2h 7s 2c]
+Seat 1: favete lin (big blind) mucked
+Seat 2: joiso (button) (small blind) showed [Qc Jh] and won ($59.50) with two pair, Jacks and Deuces
+
+

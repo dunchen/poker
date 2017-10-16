@@ -1,0 +1,33 @@
+PokerStars Hand #163419037714:  Hold'em Limit ($3/$6 USD) - 2016/12/23 18:20:14 ET
+Table 'Chilton' 6-max Seat #3 is the button
+Seat 1: krytalex ($114.08 in chips)
+Seat 3: ToDaFelt ($123.99 in chips)
+ToDaFelt: posts small blind $1
+krytalex: posts big blind $3
+*** HOLE CARDS ***
+byrgyi leaves the table
+ToDaFelt: raises $3 to $6
+krytalex: raises $3 to $9
+ToDaFelt: calls $3
+*** FLOP *** [5c Qs 6c]
+krytalex: bets $3
+ToDaFelt: calls $3
+*** TURN *** [5c Qs 6c] [2s]
+krytalex: checks
+ToDaFelt: bets $6
+krytalex: calls $6
+*** RIVER *** [5c Qs 6c 2s] [6d]
+krytalex: checks
+ToDaFelt: bets $6
+krytalex: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [9h 9d] (two pair, Nines and Sixes)
+krytalex: mucks hand
+ToDaFelt collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [5c Qs 6c 2s 6d]
+Seat 1: krytalex (big blind) mucked
+Seat 3: ToDaFelt (button) (small blind) showed [9h 9d] and won ($47.50) with two pair, Nines and Sixes
+
+

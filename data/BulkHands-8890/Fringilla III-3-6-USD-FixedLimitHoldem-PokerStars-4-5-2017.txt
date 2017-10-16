@@ -1,0 +1,104 @@
+PokerStars Hand #168624024661:  Hold'em Limit ($3/$6 USD) - 2017/04/05 15:28:21 ET
+Table 'Fringilla III' 6-max Seat #6 is the button
+Seat 4: MTails ($120 in chips)
+Seat 6: Grey_fishKa ($120 in chips)
+Grey_fishKa: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+Grey_fishKa: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [7c Th 2s]
+MTails: checks
+Grey_fishKa: checks
+*** TURN *** [7c Th 2s] [7h]
+MTails: checks
+Grey_fishKa: checks
+*** RIVER *** [7c Th 2s 7h] [Js]
+MTails: bets $6
+Grey_fishKa: folds
+Uncalled bet ($6) returned to MTails
+MTails collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7c Th 2s 7h Js]
+Seat 4: MTails (big blind) collected ($11.76)
+Seat 6: Grey_fishKa (button) (small blind) folded on the River
+
+
+PokerStars Hand #168624038199:  Hold'em Limit ($3/$6 USD) - 2017/04/05 15:28:36 ET
+Table 'Fringilla III' 6-max Seat #4 is the button
+Seat 4: MTails ($125.76 in chips)
+Seat 6: Grey_fishKa ($114 in chips)
+MTails: posts small blind $1
+Grey_fishKa: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+Grey_fishKa: calls $3
+*** FLOP *** [Ks 6s Td]
+Grey_fishKa: checks
+MTails: bets $3
+Grey_fishKa: calls $3
+*** TURN *** [Ks 6s Td] [5h]
+Grey_fishKa: checks
+MTails: checks
+*** RIVER *** [Ks 6s Td 5h] [3c]
+Grey_fishKa: bets $6
+MTails: folds
+Uncalled bet ($6) returned to Grey_fishKa
+Grey_fishKa collected $17.64 from pot
+Grey_fishKa: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ks 6s Td 5h 3c]
+Seat 4: MTails (button) (small blind) folded on the River
+Seat 6: Grey_fishKa (big blind) collected ($17.64)
+
+
+PokerStars Hand #168624054122:  Hold'em Limit ($3/$6 USD) - 2017/04/05 15:28:54 ET
+Table 'Fringilla III' 6-max Seat #6 is the button
+Seat 4: MTails ($116.76 in chips)
+Seat 6: Grey_fishKa ($122.64 in chips)
+Grey_fishKa: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+Grey_fishKa: folds
+Uncalled bet ($2) returned to MTails
+MTails collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: MTails (big blind) collected ($2)
+Seat 6: Grey_fishKa (button) (small blind) folded before Flop
+
+
+PokerStars Hand #168624058329:  Hold'em Limit ($3/$6 USD) - 2017/04/05 15:28:58 ET
+Table 'Fringilla III' 6-max Seat #4 is the button
+Seat 4: MTails ($117.76 in chips)
+Seat 6: Grey_fishKa ($121.64 in chips)
+MTails: posts small blind $1
+Grey_fishKa: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+Grey_fishKa: raises $3 to $9
+MTails: calls $3
+*** FLOP *** [6s 5h 2d]
+Grey_fishKa: bets $3
+MTails: calls $3
+*** TURN *** [6s 5h 2d] [Td]
+Grey_fishKa: bets $6
+Zubasa07 joins the table at seat #1
+MTails: calls $6
+*** RIVER *** [6s 5h 2d Td] [Qc]
+Auge72 joins the table at seat #2
+Grey_fishKa: bets $6
+MTails: calls $6
+*** SHOW DOWN ***
+Grey_fishKa: shows [Kh Kc] (a pair of Kings)
+MTails: mucks hand
+Grey_fishKa collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [6s 5h 2d Td Qc]
+Seat 4: MTails (button) (small blind) mucked
+Seat 6: Grey_fishKa (big blind) showed [Kh Kc] and won ($47.50) with a pair of Kings
+
+

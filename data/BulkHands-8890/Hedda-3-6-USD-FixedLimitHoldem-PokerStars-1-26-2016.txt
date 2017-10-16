@@ -1,0 +1,40 @@
+PokerStars Hand #147730843290:  Hold'em Limit ($3/$6 USD) - 2016/01/26 16:39:15 ET
+Table 'Hedda' 2-max Seat #1 is the button
+Seat 1: eztuha ($52.39 in chips)
+Seat 2: lermega ($69.72 in chips)
+eztuha: posts small blind $1
+lermega: posts big blind $3
+*** HOLE CARDS ***
+eztuha: raises $3 to $6
+lermega: raises $3 to $9
+eztuha: raises $3 to $12
+Betting is capped
+lermega: calls $3
+*** FLOP *** [4c 9h 2d]
+lermega: bets $3
+eztuha: raises $3 to $6
+lermega: raises $3 to $9
+eztuha: calls $3
+*** TURN *** [4c 9h 2d] [Jd]
+lermega: bets $6
+eztuha: raises $6 to $12
+lermega: raises $6 to $18
+eztuha: raises $6 to $24
+Betting is capped
+lermega: calls $6
+*** RIVER *** [4c 9h 2d Jd] [3s]
+lermega: bets $6
+eztuha: raises $1.39 to $7.39 and is all-in
+lermega: calls $1.39
+*** SHOW DOWN ***
+eztuha: shows [7d Kh] (high card King)
+lermega: shows [3h Ah] (a pair of Threes)
+lermega collected $104.28 from pot
+lermega leaves the table
+*** SUMMARY ***
+Total pot $104.78 | Rake $0.50
+Board [4c 9h 2d Jd 3s]
+Seat 1: eztuha (button) (small blind) showed [7d Kh] and lost with high card King
+Seat 2: lermega (big blind) showed [3h Ah] and won ($104.28) with a pair of Threes
+
+

@@ -1,0 +1,110 @@
+PokerStars Hand #170487055143:  Hold'em Limit ($3/$6 USD) - 2017/05/16 6:53:01 ET
+Table 'Kalyke' 6-max Seat #2 is the button
+Seat 2: reed 2000 ($13.52 in chips)
+Seat 3: Luanto 14 ($184.38 in chips)
+reed 2000: posts small blind $1
+Luanto 14: posts big blind $3
+*** HOLE CARDS ***
+reed 2000: raises $3 to $6
+Luanto 14: calls $3
+*** FLOP *** [9c Tc 2c]
+Luanto 14: checks
+reed 2000: bets $3
+Luanto 14: raises $3 to $6
+reed 2000: raises $1.52 to $7.52 and is all-in
+Luanto 14: calls $1.52
+*** TURN *** [9c Tc 2c] [Jc]
+*** RIVER *** [9c Tc 2c Jc] [9d]
+*** SHOW DOWN ***
+Luanto 14: shows [7h 8h] (a straight, Seven to Jack)
+reed 2000: shows [6c Qc] (a flush, Queen high)
+reed 2000 collected $26.54 from pot
+*** SUMMARY ***
+Total pot $27.04 | Rake $0.50
+Board [9c Tc 2c Jc 9d]
+Seat 2: reed 2000 (button) (small blind) showed [6c Qc] and won ($26.54) with a flush, Queen high
+Seat 3: Luanto 14 (big blind) showed [7h 8h] and lost with a straight, Seven to Jack
+
+
+PokerStars Hand #170487033739:  Hold'em Limit ($3/$6 USD) - 2017/05/16 6:52:12 ET
+Table 'Kalyke' 6-max Seat #3 is the button
+Seat 2: reed 2000 ($31.52 in chips)
+Seat 3: Luanto 14 ($166.88 in chips)
+Luanto 14: posts small blind $1
+reed 2000: posts big blind $3
+*** HOLE CARDS ***
+Luanto 14: raises $3 to $6
+reed 2000: raises $3 to $9
+Luanto 14: calls $3
+*** FLOP *** [Jc Th Kc]
+reed 2000: bets $3
+Luanto 14: calls $3
+*** TURN *** [Jc Th Kc] [4d]
+reed 2000: checks
+Luanto 14: checks
+*** RIVER *** [Jc Th Kc 4d] [8s]
+reed 2000: bets $6
+Luanto 14: raises $6 to $12
+reed 2000: folds
+Uncalled bet ($6) returned to Luanto 14
+Luanto 14 collected $35.50 from pot
+Luanto 14: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Jc Th Kc 4d 8s]
+Seat 2: reed 2000 (big blind) folded on the River
+Seat 3: Luanto 14 (button) (small blind) collected ($35.50)
+
+
+PokerStars Hand #170487080985:  Hold'em Limit ($3/$6 USD) - 2017/05/16 6:54:01 ET
+Table 'Kalyke' 6-max Seat #2 is the button
+Seat 2: reed 2000 ($5.54 in chips)
+Seat 3: Luanto 14 ($191.36 in chips)
+reed 2000: posts small blind $1
+Luanto 14: posts big blind $3
+*** HOLE CARDS ***
+reed 2000: raises $2.54 to $5.54 and is all-in
+Luanto 14: calls $2.54
+*** FLOP *** [5d Tc 2d]
+*** TURN *** [5d Tc 2d] [Kc]
+*** RIVER *** [5d Tc 2d Kc] [5c]
+*** SHOW DOWN ***
+Luanto 14: shows [5s 3h] (three of a kind, Fives)
+reed 2000: shows [Js Ad] (a pair of Fives)
+Luanto 14 collected $10.86 from pot
+*** SUMMARY ***
+Total pot $11.08 | Rake $0.22
+Board [5d Tc 2d Kc 5c]
+Seat 2: reed 2000 (button) (small blind) showed [Js Ad] and lost with a pair of Fives
+Seat 3: Luanto 14 (big blind) showed [5s 3h] and won ($10.86) with three of a kind, Fives
+
+
+PokerStars Hand #170487063638:  Hold'em Limit ($3/$6 USD) - 2017/05/16 6:53:21 ET
+Table 'Kalyke' 6-max Seat #3 is the button
+Seat 2: reed 2000 ($26.54 in chips)
+Seat 3: Luanto 14 ($170.86 in chips)
+Luanto 14: posts small blind $1
+reed 2000: posts big blind $3
+*** HOLE CARDS ***
+Luanto 14: raises $3 to $6
+reed 2000: calls $3
+*** FLOP *** [Td Ac As]
+reed 2000: bets $3
+Luanto 14: calls $3
+*** TURN *** [Td Ac As] [Ah]
+reed 2000: bets $6
+Luanto 14: calls $6
+*** RIVER *** [Td Ac As Ah] [6d]
+reed 2000: bets $6
+Luanto 14: calls $6
+*** SHOW DOWN ***
+reed 2000: shows [Ks Jd] (three of a kind, Aces)
+Luanto 14: shows [Th 3h] (a full house, Aces full of Tens)
+Luanto 14 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Td Ac As Ah 6d]
+Seat 2: reed 2000 (big blind) showed [Ks Jd] and lost with three of a kind, Aces
+Seat 3: Luanto 14 (button) (small blind) showed [Th 3h] and won ($41.50) with a full house, Aces full of Tens
+
+

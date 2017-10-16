@@ -1,0 +1,61 @@
+PokerStars Hand #145432182112:  Hold'em Limit ($3/$6 USD) - 2015/12/16 10:13:23 ET
+Table 'Osiris III' 6-max Seat #4 is the button
+Seat 1: moveoverover ($80.76 in chips)
+Seat 4: Actionni13 ($150 in chips)
+Actionni13: posts small blind $1
+moveoverover: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+moveoverover: calls $3
+*** FLOP *** [4s Jd Qs]
+moveoverover: checks
+Actionni13: bets $3
+moveoverover: calls $3
+*** TURN *** [4s Jd Qs] [Qd]
+moveoverover: checks
+Actionni13: bets $6
+moveoverover: calls $6
+*** RIVER *** [4s Jd Qs Qd] [Ts]
+moveoverover: checks
+Actionni13: bets $6
+moveoverover: folds
+Uncalled bet ($6) returned to Actionni13
+Actionni13 collected $29.50 from pot
+Actionni13: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4s Jd Qs Qd Ts]
+Seat 1: moveoverover (big blind) folded on the River
+Seat 4: Actionni13 (button) (small blind) collected ($29.50)
+
+
+PokerStars Hand #145433705479:  Hold'em Limit ($3/$6 USD) - 2015/12/16 10:48:38 ET
+Table 'Osiris III' 6-max Seat #3 is the button
+Seat 3: BuzovaPro ($103.50 in chips)
+Seat 5: parnishka11 ($18 in chips)
+BuzovaPro: posts small blind $1
+parnishka11: posts big blind $3
+*** HOLE CARDS ***
+BuzovaPro: raises $3 to $6
+parnishka11: calls $3
+*** FLOP *** [Jc Js 6h]
+parnishka11: checks
+BuzovaPro: bets $3
+parnishka11: calls $3
+*** TURN *** [Jc Js 6h] [Kh]
+parnishka11: checks
+BuzovaPro: bets $6
+parnishka11: raises $3 to $9 and is all-in
+BuzovaPro: calls $3
+*** RIVER *** [Jc Js 6h Kh] [Qh]
+*** SHOW DOWN ***
+parnishka11: shows [Ac 4s] (a pair of Jacks)
+BuzovaPro: shows [Tc Ks] (two pair, Kings and Jacks)
+BuzovaPro collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Jc Js 6h Kh Qh]
+Seat 3: BuzovaPro (button) (small blind) showed [Tc Ks] and won ($35.50) with two pair, Kings and Jacks
+Seat 5: parnishka11 (big blind) showed [Ac 4s] and lost with a pair of Jacks
+
+

@@ -1,0 +1,94 @@
+PokerStars Hand #157668946463:  Hold'em Limit ($3/$6 USD) - 2016/08/24 3:08:00 ET
+Table 'Danubia' 6-max Seat #6 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 6: Fantomet ($119.72 in chips)
+Fantomet: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Fantomet: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [9h Th Ah]
+VolkovDmitri: checks
+Fantomet: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [9h Th Ah] [2c]
+VolkovDmitri: checks
+Fantomet: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [9h Th Ah 2c] [Qd]
+VolkovDmitri: checks
+Fantomet: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+Fantomet: shows [Jd Qs] (a pair of Queens)
+VolkovDmitri: mucks hand
+Fantomet collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9h Th Ah 2c Qd]
+Seat 1: VolkovDmitri (big blind) mucked
+Seat 6: Fantomet (button) (small blind) showed [Jd Qs] and won ($41.50) with a pair of Queens
+
+
+PokerStars Hand #157668958032:  Hold'em Limit ($3/$6 USD) - 2016/08/24 3:08:47 ET
+Table 'Danubia' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 6: Fantomet ($140.22 in chips)
+VolkovDmitri: posts small blind $1
+Fantomet: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Fantomet: calls $3
+*** FLOP *** [6h 8h 3c]
+Fantomet: bets $3
+VolkovDmitri: raises $3 to $6
+Fantomet: calls $3
+*** TURN *** [6h 8h 3c] [4s]
+Fantomet: checks
+VolkovDmitri: bets $6
+Fantomet: calls $6
+*** RIVER *** [6h 8h 3c 4s] [9c]
+Fantomet: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+Fantomet: shows [8s Js] (a pair of Eights)
+VolkovDmitri: mucks hand
+Fantomet collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6h 8h 3c 4s 9c]
+Seat 1: VolkovDmitri (button) (small blind) mucked
+Seat 6: Fantomet (big blind) showed [8s Js] and won ($35.50) with a pair of Eights
+
+
+PokerStars Hand #157668971104:  Hold'em Limit ($3/$6 USD) - 2016/08/24 3:09:40 ET
+Table 'Danubia' 6-max Seat #6 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 6: Fantomet ($157.72 in chips)
+Fantomet: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Fantomet: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Qc 6h Qd]
+VolkovDmitri: checks
+Fantomet: checks
+*** TURN *** [Qc 6h Qd] [Td]
+VolkovDmitri: bets $6
+Fantomet: raises $6 to $12
+VolkovDmitri: calls $6
+*** RIVER *** [Qc 6h Qd Td] [2d]
+VolkovDmitri: checks
+Fantomet: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+Fantomet: shows [Qs Js] (three of a kind, Queens)
+VolkovDmitri: mucks hand
+Fantomet collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Qc 6h Qd Td 2d]
+Seat 1: VolkovDmitri (big blind) mucked
+Seat 6: Fantomet (button) (small blind) showed [Qs Js] and won ($47.50) with three of a kind, Queens
+
+

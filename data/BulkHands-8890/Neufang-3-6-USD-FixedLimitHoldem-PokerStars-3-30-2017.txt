@@ -1,0 +1,123 @@
+PokerStars Hand #168323898479:  Hold'em Limit ($3/$6 USD) - 2017/03/30 10:17:47 ET
+Table 'Neufang' 6-max Seat #2 is the button
+Seat 1: edelgold ($31 in chips)
+Seat 2: kolaz03 ($72 in chips)
+kolaz03: posts small blind $1
+GoliafUa: is sitting out
+edelgold: posts big blind $3
+*** HOLE CARDS ***
+kolaz03: raises $3 to $6
+edelgold: raises $3 to $9
+kolaz03: calls $3
+*** FLOP *** [6s Tc 6d]
+edelgold: bets $3
+kolaz03: calls $3
+*** TURN *** [6s Tc 6d] [5d]
+edelgold: bets $6
+kolaz03: calls $6
+*** RIVER *** [6s Tc 6d 5d] [Kh]
+edelgold: bets $6
+kolaz03: folds
+Uncalled bet ($6) returned to edelgold
+edelgold collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6s Tc 6d 5d Kh]
+Seat 1: edelgold (big blind) collected ($35.50)
+Seat 2: kolaz03 (button) (small blind) folded on the River
+
+
+PokerStars Hand #168323913464:  Hold'em Limit ($3/$6 USD) - 2017/03/30 10:18:12 ET
+Table 'Neufang' 6-max Seat #1 is the button
+Seat 1: edelgold ($48.50 in chips)
+Seat 2: kolaz03 ($72 in chips)
+edelgold: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+edelgold: folds
+Uncalled bet ($2) returned to kolaz03
+kolaz03 collected $2 from pot
+kolaz03: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: edelgold (button) (small blind) folded before Flop
+Seat 2: kolaz03 (big blind) collected ($2)
+
+
+PokerStars Hand #168323916378:  Hold'em Limit ($3/$6 USD) - 2017/03/30 10:18:17 ET
+Table 'Neufang' 6-max Seat #2 is the button
+Seat 1: edelgold ($47.50 in chips)
+Seat 2: kolaz03 ($73 in chips)
+kolaz03: posts small blind $1
+edelgold: posts big blind $3
+*** HOLE CARDS ***
+kolaz03: raises $3 to $6
+MilPopov joins the table at seat #3
+edelgold: calls $3
+*** FLOP *** [Ts Qd 2c]
+edelgold: bets $3
+kolaz03: calls $3
+*** TURN *** [Ts Qd 2c] [6s]
+edelgold: bets $6
+kolaz03: calls $6
+*** RIVER *** [Ts Qd 2c 6s] [Kd]
+ezee1 joins the table at seat #4
+edelgold: bets $6
+kolaz03: calls $6
+*** SHOW DOWN ***
+edelgold: shows [6c 9h] (a pair of Sixes)
+kolaz03: shows [7c Tc] (a pair of Tens)
+kolaz03 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ts Qd 2c 6s Kd]
+Seat 1: edelgold (big blind) showed [6c 9h] and lost with a pair of Sixes
+Seat 2: kolaz03 (button) (small blind) showed [7c Tc] and won ($41.50) with a pair of Tens
+
+
+PokerStars Hand #168323936841:  Hold'em Limit ($3/$6 USD) - 2017/03/30 10:18:50 ET
+Table 'Neufang' 6-max Seat #1 is the button
+Seat 1: edelgold ($26.50 in chips)
+Seat 2: kolaz03 ($93.50 in chips)
+edelgold: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+edelgold: folds
+Uncalled bet ($2) returned to kolaz03
+kolaz03 collected $2 from pot
+kolaz03: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: edelgold (button) (small blind) folded before Flop
+Seat 2: kolaz03 (big blind) collected ($2)
+
+
+PokerStars Hand #168324860847:  Hold'em Limit ($3/$6 USD) - 2017/03/30 10:43:57 ET
+Table 'Neufang' 6-max Seat #5 is the button
+Seat 4: ezee1 ($179.25 in chips)
+Seat 5: B_loJkl ($128.17 in chips)
+B_loJkl: posts small blind $1
+kolaz03: is sitting out
+ezee1: posts big blind $3
+*** HOLE CARDS ***
+kolaz03 leaves the table
+B_loJkl: raises $3 to $6
+ezee1: calls $3
+*** FLOP *** [4c 7h 5d]
+ezee1: checks
+B_loJkl: bets $3
+ezee1: calls $3
+*** TURN *** [4c 7h 5d] [Kc]
+ezee1: checks
+B_loJkl: bets $6
+ezee1: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $17.64 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4c 7h 5d Kc]
+Seat 4: ezee1 (big blind) folded on the Turn
+Seat 5: B_loJkl (button) (small blind) collected ($17.64)
+
+

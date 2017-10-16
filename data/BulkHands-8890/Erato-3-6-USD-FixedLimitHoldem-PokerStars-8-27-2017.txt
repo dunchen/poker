@@ -1,0 +1,49 @@
+PokerStars Hand #174840458302:  Hold'em Limit ($3/$6 USD) - 2017/08/26 21:36:04 ET
+Table 'Erato' 6-max Seat #2 is the button
+Seat 2: Chessnok ($77.89 in chips)
+Seat 4: favete lin ($72 in chips)
+Chessnok: posts small blind $1
+favete lin: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+favete lin: calls $3
+*** FLOP *** [5c 2c 3d]
+favete lin: checks
+Chessnok: bets $3
+favete lin: calls $3
+*** TURN *** [5c 2c 3d] [Ah]
+favete lin: checks
+LEG252 leaves the table
+Chessnok: bets $6
+favete lin: calls $6
+*** RIVER *** [5c 2c 3d Ah] [9d]
+favete lin: checks
+Chessnok: checks
+*** SHOW DOWN ***
+favete lin: shows [Ts 3s] (a pair of Threes)
+Chessnok: shows [3h Kd] (a pair of Threes - Ace+King kicker)
+Chessnok collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5c 2c 3d Ah 9d]
+Seat 2: Chessnok (button) (small blind) showed [3h Kd] and won ($29.50) with a pair of Threes
+Seat 4: favete lin (big blind) showed [Ts 3s] and lost with a pair of Threes
+
+
+PokerStars Hand #174840456545:  Hold'em Limit ($3/$6 USD) - 2017/08/26 21:36:00 ET
+Table 'Erato' 6-max Seat #4 is the button
+Seat 2: Chessnok ($76.89 in chips)
+Seat 4: favete lin ($72 in chips)
+favete lin: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+favete lin: folds
+Uncalled bet ($2) returned to Chessnok
+Chessnok collected $2 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: Chessnok (big blind) collected ($2)
+Seat 4: favete lin (button) (small blind) folded before Flop
+
+

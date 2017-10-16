@@ -1,0 +1,92 @@
+PokerStars Hand #144853635040:  Hold'em Limit ($3/$6 USD) - 2015/12/05 7:41:24 ET
+Table 'Ariadne' 10-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 5: frgt\10river ($120 in chips)
+VolkovDmitri: posts small blind $1
+frgt\10river: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+frgt\10river: calls $3
+*** FLOP *** [2d As Jd]
+frgt\10river: bets $3
+VolkovDmitri: raises $3 to $6
+frgt\10river: calls $3
+*** TURN *** [2d As Jd] [7h]
+frgt\10river: checks
+VolkovDmitri: bets $6
+frgt\10river: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $23.52 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [2d As Jd 7h]
+Seat 1: VolkovDmitri (button) (small blind) collected ($23.52)
+Seat 5: frgt\10river (big blind) folded on the Turn
+
+
+PokerStars Hand #144853649913:  Hold'em Limit ($3/$6 USD) - 2015/12/05 7:41:50 ET
+Table 'Ariadne' 10-max Seat #5 is the button
+Seat 1: VolkovDmitri ($131.52 in chips)
+Seat 5: frgt\10river ($157.27 in chips)
+frgt\10river: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+frgt\10river: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+frgt\10river: calls $3
+*** FLOP *** [2s 9c 7c]
+VolkovDmitri: bets $3
+frgt\10river: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+frgt\10river: calls $3
+*** TURN *** [2s 9c 7c] [2h]
+VolkovDmitri: bets $6
+frgt\10river: calls $6
+*** RIVER *** [2s 9c 7c 2h] [Qc]
+VolkovDmitri: bets $6
+frgt\10river: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Kh 9d] (two pair, Nines and Deuces)
+frgt\10river: mucks hand
+VolkovDmitri collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [2s 9c 7c 2h Qc]
+Seat 1: VolkovDmitri (big blind) showed [Kh 9d] and won ($59.50) with two pair, Nines and Deuces
+Seat 5: frgt\10river (button) (small blind) mucked
+
+
+PokerStars Hand #144853676766:  Hold'em Limit ($3/$6 USD) - 2015/12/05 7:42:37 ET
+Table 'Ariadne' 10-max Seat #1 is the button
+Seat 1: VolkovDmitri ($161.02 in chips)
+Seat 5: frgt\10river ($127.27 in chips)
+VolkovDmitri: posts small blind $1
+frgt\10river: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+frgt\10river: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [Kd 7c 4c]
+frgt\10river: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [Kd 7c 4c] [3c]
+frgt\10river: checks
+eurooppa50 joins the table at seat #9
+VolkovDmitri: bets $6
+frgt\10river: raises $6 to $12
+VolkovDmitri: calls $6
+*** RIVER *** [Kd 7c 4c 3c] [6s]
+frgt\10river: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+frgt\10river: shows [Kc 9s] (a pair of Kings)
+VolkovDmitri: mucks hand
+frgt\10river collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Kd 7c 4c 3c 6s]
+Seat 1: VolkovDmitri (button) (small blind) mucked
+Seat 5: frgt\10river (big blind) showed [Kc 9s] and won ($47.50) with a pair of Kings
+
+

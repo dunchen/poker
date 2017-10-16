@@ -1,0 +1,49 @@
+PokerStars Hand #170401813700:  Hold'em Limit ($3/$6 USD) - 2017/05/14 8:35:21 ET
+Table 'Montefiore' 6-max Seat #4 is the button
+Seat 3: sim5sim5 ($89.92 in chips)
+Seat 4: degal76 ($118.81 in chips)
+degal76: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+bmfu649 leaves the table
+degal76: raises $3 to $6
+sim5sim5: folds
+Uncalled bet ($3) returned to degal76
+degal76 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: sim5sim5 (big blind) folded before Flop
+Seat 4: degal76 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #170402066404:  Hold'em Limit ($3/$6 USD) - 2017/05/14 8:42:37 ET
+Table 'Montefiore' 6-max Seat #5 is the button
+Seat 5: funjetje ($189.45 in chips)
+Seat 6: Rus29APX ($116 in chips)
+funjetje: posts small blind $1
+Rus29APX: posts big blind $3
+*** HOLE CARDS ***
+funjetje: calls $2
+Rus29APX: checks
+*** FLOP *** [Kc 8s 8h]
+Rus29APX: checks
+funjetje: bets $3
+Rus29APX: calls $3
+*** TURN *** [Kc 8s 8h] [Jc]
+Rus29APX: checks
+funjetje: checks
+*** RIVER *** [Kc 8s 8h Jc] [As]
+Rus29APX: checks
+funjetje: bets $6
+Rus29APX: calls $6
+*** SHOW DOWN ***
+funjetje: shows [7h 7c] (two pair, Eights and Sevens)
+Rus29APX: shows [Ks 2c] (two pair, Kings and Eights)
+Rus29APX collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Kc 8s 8h Jc As]
+Seat 5: funjetje (button) (small blind) showed [7h 7c] and lost with two pair, Eights and Sevens
+Seat 6: Rus29APX (big blind) showed [Ks 2c] and won ($23.52) with two pair, Kings and Eights
+
+

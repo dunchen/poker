@@ -1,0 +1,409 @@
+PokerStars Hand #149293301391:  Hold'em Limit ($3/$6 USD) - 2016/02/23 11:30:33 ET
+Table 'Atalante II' 10-max Seat #1 is the button
+Seat 1: OGURI ($38.64 in chips)
+Seat 8: Great_Kang ($198.90 in chips)
+OGURI: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+OGURI: raises $3 to $6
+Great_Kang: calls $3
+*** FLOP *** [3d 8h 9s]
+Great_Kang: checks
+OGURI: bets $3
+Great_Kang: raises $3 to $6
+OGURI: calls $3
+*** TURN *** [3d 8h 9s] [Qs]
+Great_Kang: bets $6
+OGURI: calls $6
+*** RIVER *** [3d 8h 9s Qs] [2s]
+Great_Kang: bets $6
+OGURI: calls $6
+*** SHOW DOWN ***
+Great_Kang: shows [9d Tc] (a pair of Nines)
+OGURI: mucks hand
+Great_Kang collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3d 8h 9s Qs 2s]
+Seat 1: OGURI (button) (small blind) mucked
+Seat 8: Great_Kang (big blind) showed [9d Tc] and won ($47.50) with a pair of Nines
+
+
+PokerStars Hand #149293329425:  Hold'em Limit ($3/$6 USD) - 2016/02/23 11:31:08 ET
+Table 'Atalante II' 10-max Seat #8 is the button
+Seat 1: OGURI ($14.64 in chips)
+Seat 8: Great_Kang ($222.40 in chips)
+Great_Kang: posts small blind $1
+OGURI: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+OGURI: calls $3
+*** FLOP *** [7h 3s Qd]
+OGURI: checks
+Great_Kang: bets $3
+OGURI: folds
+Uncalled bet ($3) returned to Great_Kang
+Great_Kang collected $11.76 from pot
+Great_Kang: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7h 3s Qd]
+Seat 1: OGURI (big blind) folded on the Flop
+Seat 8: Great_Kang (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #149293339422:  Hold'em Limit ($3/$6 USD) - 2016/02/23 11:31:20 ET
+Table 'Atalante II' 10-max Seat #1 is the button
+Seat 1: OGURI ($8.64 in chips)
+Seat 8: Great_Kang ($228.16 in chips)
+OGURI: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+OGURI: folds
+Uncalled bet ($2) returned to Great_Kang
+Great_Kang collected $2 from pot
+Great_Kang: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: OGURI (button) (small blind) folded before Flop
+Seat 8: Great_Kang (big blind) collected ($2)
+
+
+PokerStars Hand #149293344135:  Hold'em Limit ($3/$6 USD) - 2016/02/23 11:31:26 ET
+Table 'Atalante II' 10-max Seat #8 is the button
+Seat 1: OGURI ($7.64 in chips)
+Seat 8: Great_Kang ($229.16 in chips)
+Great_Kang: posts small blind $1
+OGURI: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+OGURI: raises $1.64 to $7.64 and is all-in
+Great_Kang: calls $1.64
+*** FLOP *** [9d Ts Qs]
+*** TURN *** [9d Ts Qs] [Jh]
+*** RIVER *** [9d Ts Qs Jh] [8h]
+*** SHOW DOWN ***
+OGURI: shows [3h 8c] (a straight, Eight to Queen)
+Great_Kang: shows [5h Ac] (a straight, Eight to Queen)
+OGURI collected $7.49 from pot
+Great_Kang collected $7.48 from pot
+*** SUMMARY ***
+Total pot $15.28 | Rake $0.31
+Board [9d Ts Qs Jh 8h]
+Seat 1: OGURI (big blind) showed [3h 8c] and won ($7.49) with a straight, Eight to Queen
+Seat 8: Great_Kang (button) (small blind) showed [5h Ac] and won ($7.48) with a straight, Eight to Queen
+
+
+PokerStars Hand #149293356379:  Hold'em Limit ($3/$6 USD) - 2016/02/23 11:31:41 ET
+Table 'Atalante II' 10-max Seat #1 is the button
+Seat 1: OGURI ($7.49 in chips)
+Seat 8: Great_Kang ($229 in chips)
+OGURI: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+OGURI: raises $3 to $6
+Great_Kang: calls $3
+*** FLOP *** [4s Ks 9h]
+Great_Kang: checks
+OGURI: bets $1.49 and is all-in
+Great_Kang: calls $1.49
+*** TURN *** [4s Ks 9h] [7h]
+*** RIVER *** [4s Ks 9h 7h] [5d]
+*** SHOW DOWN ***
+Great_Kang: shows [As 3c] (high card Ace)
+OGURI: shows [Qs Qh] (a pair of Queens)
+OGURI collected $14.68 from pot
+*** SUMMARY ***
+Total pot $14.98 | Rake $0.30
+Board [4s Ks 9h 7h 5d]
+Seat 1: OGURI (button) (small blind) showed [Qs Qh] and won ($14.68) with a pair of Queens
+Seat 8: Great_Kang (big blind) showed [As 3c] and lost with high card Ace
+
+
+PokerStars Hand #149293385789:  Hold'em Limit ($3/$6 USD) - 2016/02/23 11:32:18 ET
+Table 'Atalante II' 10-max Seat #8 is the button
+Seat 1: OGURI ($14.68 in chips)
+Seat 8: Great_Kang ($221.51 in chips)
+Great_Kang: posts small blind $1
+OGURI: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+OGURI: raises $3 to $9
+Great_Kang: calls $3
+*** FLOP *** [7h Td 5h]
+OGURI: bets $3
+Great_Kang: calls $3
+*** TURN *** [7h Td 5h] [8d]
+OGURI: bets $2.68 and is all-in
+Great_Kang: calls $2.68
+*** RIVER *** [7h Td 5h 8d] [9d]
+*** SHOW DOWN ***
+OGURI: shows [As Th] (a pair of Tens)
+Great_Kang: shows [Ts 4s] (a pair of Tens - lower kicker)
+OGURI collected $28.86 from pot
+*** SUMMARY ***
+Total pot $29.36 | Rake $0.50
+Board [7h Td 5h 8d 9d]
+Seat 1: OGURI (big blind) showed [As Th] and won ($28.86) with a pair of Tens
+Seat 8: Great_Kang (button) (small blind) showed [Ts 4s] and lost with a pair of Tens
+
+
+PokerStars Hand #149293400970:  Hold'em Limit ($3/$6 USD) - 2016/02/23 11:32:36 ET
+Table 'Atalante II' 10-max Seat #1 is the button
+Seat 1: OGURI ($28.86 in chips)
+Seat 8: Great_Kang ($206.83 in chips)
+OGURI: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+OGURI: raises $3 to $6
+Great_Kang: calls $3
+*** FLOP *** [Kc 2s 9c]
+Great_Kang: checks
+OGURI: bets $3
+Great_Kang: raises $3 to $6
+OGURI: calls $3
+*** TURN *** [Kc 2s 9c] [Ad]
+Great_Kang: checks
+OGURI: bets $6
+Great_Kang: calls $6
+*** RIVER *** [Kc 2s 9c Ad] [9h]
+Great_Kang: checks
+OGURI: checks
+*** SHOW DOWN ***
+Great_Kang: shows [Jc 8c] (a pair of Nines)
+OGURI: shows [Kh 2c] (two pair, Kings and Nines)
+OGURI collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Kc 2s 9c Ad 9h]
+Seat 1: OGURI (button) (small blind) showed [Kh 2c] and won ($35.50) with two pair, Kings and Nines
+Seat 8: Great_Kang (big blind) showed [Jc 8c] and lost with a pair of Nines
+
+
+PokerStars Hand #149293439017:  Hold'em Limit ($3/$6 USD) - 2016/02/23 11:33:23 ET
+Table 'Atalante II' 10-max Seat #8 is the button
+Seat 1: OGURI ($46.36 in chips)
+Seat 8: Great_Kang ($188.83 in chips)
+Great_Kang: posts small blind $1
+OGURI: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+OGURI: raises $3 to $9
+Great_Kang: calls $3
+*** FLOP *** [3c 6c 9c]
+OGURI: bets $3
+Great_Kang: calls $3
+*** TURN *** [3c 6c 9c] [8d]
+OGURI: bets $6
+Great_Kang: raises $6 to $12
+OGURI: calls $6
+*** RIVER *** [3c 6c 9c 8d] [Js]
+OGURI: checks
+Great_Kang: bets $6
+OGURI: folds
+Uncalled bet ($6) returned to Great_Kang
+Great_Kang collected $47.50 from pot
+Great_Kang: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3c 6c 9c 8d Js]
+Seat 1: OGURI (big blind) folded on the River
+Seat 8: Great_Kang (button) (small blind) collected ($47.50)
+
+
+PokerStars Hand #149293477994:  Hold'em Limit ($3/$6 USD) - 2016/02/23 11:34:11 ET
+Table 'Atalante II' 10-max Seat #1 is the button
+Seat 1: OGURI ($22.36 in chips)
+Seat 8: Great_Kang ($212.33 in chips)
+OGURI: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+OGURI: raises $3 to $6
+Great_Kang: raises $3 to $9
+OGURI: calls $3
+*** FLOP *** [Ks 4c Ac]
+Great_Kang: bets $3
+OGURI: folds
+Uncalled bet ($3) returned to Great_Kang
+OGURI leaves the table
+Great_Kang collected $17.64 from pot
+Great_Kang: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ks 4c Ac]
+Seat 1: OGURI (button) (small blind) folded on the Flop
+Seat 8: Great_Kang (big blind) collected ($17.64)
+
+
+PokerStars Hand #149303420636:  Hold'em Limit ($3/$6 USD) - 2016/02/23 15:15:56 ET
+Table 'Atalante II' 10-max Seat #1 is the button
+Seat 1: SmellyToes4u ($56 in chips)
+Seat 10: ChicagoBull4 ($150.26 in chips)
+SmellyToes4u: posts small blind $1
+ChicagoBull4: posts big blind $3
+*** HOLE CARDS ***
+SmellyToes4u: raises $3 to $6
+ChicagoBull4: calls $3
+*** FLOP *** [8s Kh 8c]
+ChicagoBull4: checks
+SmellyToes4u: bets $3
+ChicagoBull4: folds
+Uncalled bet ($3) returned to SmellyToes4u
+SmellyToes4u collected $11.76 from pot
+SmellyToes4u: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8s Kh 8c]
+Seat 1: SmellyToes4u (button) (small blind) collected ($11.76)
+Seat 10: ChicagoBull4 (big blind) folded on the Flop
+
+
+PokerStars Hand #149303412281:  Hold'em Limit ($3/$6 USD) - 2016/02/23 15:15:44 ET
+Table 'Atalante II' 10-max Seat #10 is the button
+Seat 1: SmellyToes4u ($56 in chips)
+Seat 10: ChicagoBull4 ($144.50 in chips)
+ChicagoBull4: posts small blind $1
+SmellyToes4u: posts big blind $3
+*** HOLE CARDS ***
+ChicagoBull4: raises $3 to $6
+SmellyToes4u: calls $3
+*** FLOP *** [8c Td 7c]
+SmellyToes4u: checks
+ChicagoBull4: bets $3
+SmellyToes4u: folds
+Uncalled bet ($3) returned to ChicagoBull4
+ChicagoBull4 collected $11.76 from pot
+ChicagoBull4: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8c Td 7c]
+Seat 1: SmellyToes4u (big blind) folded on the Flop
+Seat 10: ChicagoBull4 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #149303408294:  Hold'em Limit ($3/$6 USD) - 2016/02/23 15:15:39 ET
+Table 'Atalante II' 10-max Seat #1 is the button
+Seat 1: SmellyToes4u ($56 in chips)
+Seat 10: ChicagoBull4 ($143.50 in chips)
+SmellyToes4u: posts small blind $1
+ChicagoBull4: posts big blind $3
+*** HOLE CARDS ***
+SmellyToes4u: folds
+Uncalled bet ($2) returned to ChicagoBull4
+ChicagoBull4 collected $2 from pot
+ChicagoBull4: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: SmellyToes4u (button) (small blind) folded before Flop
+Seat 10: ChicagoBull4 (big blind) collected ($2)
+
+
+PokerStars Hand #149303394083:  Hold'em Limit ($3/$6 USD) - 2016/02/23 15:15:19 ET
+Table 'Atalante II' 10-max Seat #10 is the button
+Seat 1: SmellyToes4u ($56 in chips)
+Seat 10: ChicagoBull4 ($120 in chips)
+ChicagoBull4: posts small blind $1
+SmellyToes4u: posts big blind $3
+*** HOLE CARDS ***
+ChicagoBull4: raises $3 to $6
+SmellyToes4u: raises $3 to $9
+ChicagoBull4: calls $3
+*** FLOP *** [Jd Ks Jh]
+SmellyToes4u: bets $3
+ChicagoBull4: calls $3
+*** TURN *** [Jd Ks Jh] [2d]
+SmellyToes4u: bets $6
+ChicagoBull4: calls $6
+*** RIVER *** [Jd Ks Jh 2d] [4c]
+SmellyToes4u: bets $6
+ChicagoBull4: calls $6
+*** SHOW DOWN ***
+SmellyToes4u: shows [9c 7s] (a pair of Jacks)
+ChicagoBull4: shows [Kd 5h] (two pair, Kings and Jacks)
+ChicagoBull4 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Jd Ks Jh 2d 4c]
+Seat 1: SmellyToes4u (big blind) showed [9c 7s] and lost with a pair of Jacks
+Seat 10: ChicagoBull4 (button) (small blind) showed [Kd 5h] and won ($47.50) with two pair, Kings and Jacks
+
+
+PokerStars Hand #149303436722:  Hold'em Limit ($3/$6 USD) - 2016/02/23 15:16:18 ET
+Table 'Atalante II' 10-max Seat #1 is the button
+Seat 1: SmellyToes4u ($58.76 in chips)
+Seat 10: ChicagoBull4 ($147.26 in chips)
+SmellyToes4u: posts small blind $1
+ChicagoBull4: posts big blind $3
+*** HOLE CARDS ***
+SmellyToes4u: raises $3 to $6
+ChicagoBull4: calls $3
+*** FLOP *** [Js 5s 2h]
+ChicagoBull4: checks
+SmellyToes4u: bets $3
+ChicagoBull4: calls $3
+*** TURN *** [Js 5s 2h] [Kd]
+ChicagoBull4: checks
+SmellyToes4u: bets $6
+ChicagoBull4: raises $6 to $12
+SmellyToes4u: folds
+Uncalled bet ($6) returned to ChicagoBull4
+ChicagoBull4 collected $29.50 from pot
+ChicagoBull4: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Js 5s 2h Kd]
+Seat 1: SmellyToes4u (button) (small blind) folded on the Turn
+Seat 10: ChicagoBull4 (big blind) collected ($29.50)
+
+
+PokerStars Hand #149303429965:  Hold'em Limit ($3/$6 USD) - 2016/02/23 15:16:08 ET
+Table 'Atalante II' 10-max Seat #10 is the button
+Seat 1: SmellyToes4u ($61.76 in chips)
+Seat 10: ChicagoBull4 ($144.26 in chips)
+ChicagoBull4: posts small blind $1
+SmellyToes4u: posts big blind $3
+*** HOLE CARDS ***
+ChicagoBull4: raises $3 to $6
+SmellyToes4u: folds
+Uncalled bet ($3) returned to ChicagoBull4
+ChicagoBull4 collected $6 from pot
+ChicagoBull4: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: SmellyToes4u (big blind) folded before Flop
+Seat 10: ChicagoBull4 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #149303457907:  Hold'em Limit ($3/$6 USD) - 2016/02/23 15:16:47 ET
+Table 'Atalante II' 10-max Seat #10 is the button
+Seat 1: SmellyToes4u ($56 in chips)
+Seat 10: ChicagoBull4 ($161.76 in chips)
+ChicagoBull4: posts small blind $1
+SmellyToes4u: posts big blind $3
+*** HOLE CARDS ***
+ChicagoBull4: raises $3 to $6
+SmellyToes4u: raises $3 to $9
+Snuffymo joins the table at seat #4
+ChicagoBull4: raises $3 to $12
+Betting is capped
+SmellyToes4u: calls $3
+*** FLOP *** [3d As Ks]
+SmellyToes4u: checks
+ChicagoBull4: checks
+*** TURN *** [3d As Ks] [7d]
+SmellyToes4u: checks
+ChicagoBull4: checks
+*** RIVER *** [3d As Ks 7d] [Ts]
+SmellyToes4u: bets $6
+ChicagoBull4: calls $6
+*** SHOW DOWN ***
+SmellyToes4u: shows [Ad Qs] (a pair of Aces)
+ChicagoBull4: mucks hand
+SmellyToes4u collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [3d As Ks 7d Ts]
+Seat 1: SmellyToes4u (big blind) showed [Ad Qs] and won ($35.50) with a pair of Aces
+Seat 10: ChicagoBull4 (button) (small blind) mucked
+
+

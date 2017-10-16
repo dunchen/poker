@@ -1,0 +1,34 @@
+PokerStars Hand #171287314836:  Hold'em Limit ($3/$6 USD) - 2017/06/03 10:36:35 ET
+Table 'Mombasa II' 10-max Seat #6 is the button
+Seat 1: GoG 0 ($119 in chips)
+Seat 6: FHstyles ($61 in chips)
+FHstyles: posts small blind $1
+GoG 0: posts big blind $3
+*** HOLE CARDS ***
+FHstyles: raises $3 to $6
+GoG 0: calls $3
+*** FLOP *** [8s Qd 6d]
+GoG 0: checks
+FHstyles: bets $3
+GoG 0: raises $3 to $6
+FHstyles: raises $3 to $9
+GoG 0: calls $3
+*** TURN *** [8s Qd 6d] [7h]
+GoG 0: checks
+FHstyles: bets $6
+GoG 0: raises $6 to $12
+FHstyles: calls $6
+*** RIVER *** [8s Qd 6d 7h] [4h]
+GoG 0: bets $6
+FHstyles: calls $6
+*** SHOW DOWN ***
+GoG 0: shows [Th 9h] (a straight, Six to Ten)
+FHstyles: mucks hand
+GoG 0 collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [8s Qd 6d 7h 4h]
+Seat 1: GoG 0 (big blind) showed [Th 9h] and won ($65.50) with a straight, Six to Ten
+Seat 6: FHstyles (button) (small blind) mucked
+
+

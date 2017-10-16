@@ -1,0 +1,690 @@
+PokerStars Hand #153945075209:  Hold'em Limit ($3/$6 USD) - 2016/05/28 3:35:32 ET
+Table 'Anza' 10-max Seat #6 is the button
+Seat 6: storpecka ($120 in chips)
+Seat 7: VolkovDmitri ($120 in chips)
+storpecka: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+storpecka: calls $2
+VolkovDmitri: raises $3 to $6
+storpecka: calls $3
+*** FLOP *** [8d Jc 6d]
+VolkovDmitri: bets $3
+storpecka: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [8d Jc 6d] [7d]
+VolkovDmitri: checks
+storpecka: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to storpecka
+storpecka collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [8d Jc 6d 7d]
+Seat 6: storpecka (button) (small blind) collected ($23.52)
+Seat 7: VolkovDmitri (big blind) folded on the Turn
+
+
+PokerStars Hand #153945097500:  Hold'em Limit ($3/$6 USD) - 2016/05/28 3:36:44 ET
+Table 'Anza' 10-max Seat #7 is the button
+Seat 6: storpecka ($113.52 in chips)
+Seat 7: VolkovDmitri ($137.50 in chips)
+VolkovDmitri: posts small blind $1
+storpecka: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+storpecka: calls $3
+*** FLOP *** [2s Ah 7h]
+storpecka: checks
+VolkovDmitri: bets $3
+storpecka: calls $3
+*** TURN *** [2s Ah 7h] [Ts]
+storpecka: checks
+VolkovDmitri: checks
+*** RIVER *** [2s Ah 7h Ts] [3s]
+storpecka: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to storpecka
+storpecka collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2s Ah 7h Ts 3s]
+Seat 6: storpecka (big blind) collected ($17.64)
+Seat 7: VolkovDmitri (button) (small blind) folded on the River
+
+
+PokerStars Hand #153945094298:  Hold'em Limit ($3/$6 USD) - 2016/05/28 3:36:34 ET
+Table 'Anza' 10-max Seat #6 is the button
+Seat 6: storpecka ($110.52 in chips)
+Seat 7: VolkovDmitri ($140.50 in chips)
+storpecka: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+storpecka: raises $3 to $6
+VolkovDmitri: folds
+Uncalled bet ($3) returned to storpecka
+storpecka collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 6: storpecka (button) (small blind) collected ($6)
+Seat 7: VolkovDmitri (big blind) folded before Flop
+
+
+PokerStars Hand #153945085000:  Hold'em Limit ($3/$6 USD) - 2016/05/28 3:36:04 ET
+Table 'Anza' 10-max Seat #7 is the button
+Seat 6: storpecka ($131.52 in chips)
+Seat 7: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+storpecka: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+storpecka: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [5d 8d Jc]
+storpecka: bets $3
+VolkovDmitri: raises $3 to $6
+storpecka: calls $3
+*** TURN *** [5d 8d Jc] [4d]
+storpecka: checks
+VolkovDmitri: bets $6
+storpecka: calls $6
+*** RIVER *** [5d 8d Jc 4d] [7h]
+storpecka: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+storpecka: shows [Ah Td] (high card Ace)
+VolkovDmitri: shows [Qs 8c] (a pair of Eights)
+VolkovDmitri collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [5d 8d Jc 4d 7h]
+Seat 6: storpecka (big blind) showed [Ah Td] and lost with high card Ace
+Seat 7: VolkovDmitri (button) (small blind) showed [Qs 8c] and won ($41.50) with a pair of Eights
+
+
+PokerStars Hand #153945113458:  Hold'em Limit ($3/$6 USD) - 2016/05/28 3:37:36 ET
+Table 'Anza' 10-max Seat #7 is the button
+Seat 6: storpecka ($123.92 in chips)
+Seat 7: VolkovDmitri ($126.50 in chips)
+VolkovDmitri: posts small blind $1
+storpecka: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+storpecka: calls $3
+*** FLOP *** [5h Th Qs]
+storpecka: checks
+VolkovDmitri: bets $3
+storpecka: calls $3
+*** TURN *** [5h Th Qs] [2d]
+storpecka: checks
+VolkovDmitri: checks
+*** RIVER *** [5h Th Qs 2d] [3h]
+storpecka: checks
+VolkovDmitri: bets $6
+storpecka: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [6h 9h] (a flush, Ten high)
+storpecka: mucks hand
+VolkovDmitri collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5h Th Qs 2d 3h]
+Seat 6: storpecka (big blind) mucked
+Seat 7: VolkovDmitri (button) (small blind) showed [6h 9h] and won ($29.50) with a flush, Ten high
+
+
+PokerStars Hand #153945107807:  Hold'em Limit ($3/$6 USD) - 2016/05/28 3:37:17 ET
+Table 'Anza' 10-max Seat #6 is the button
+Seat 6: storpecka ($118.16 in chips)
+Seat 7: VolkovDmitri ($132.50 in chips)
+storpecka: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+storpecka: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Td 4d 5s]
+VolkovDmitri: checks
+storpecka: bets $3
+VolkovDmitri: folds
+Uncalled bet ($3) returned to storpecka
+storpecka collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Td 4d 5s]
+Seat 6: storpecka (button) (small blind) collected ($11.76)
+Seat 7: VolkovDmitri (big blind) folded on the Flop
+
+
+PokerStars Hand #153945105852:  Hold'em Limit ($3/$6 USD) - 2016/05/28 3:37:11 ET
+Table 'Anza' 10-max Seat #7 is the button
+Seat 6: storpecka ($121.16 in chips)
+Seat 7: VolkovDmitri ($129.50 in chips)
+VolkovDmitri: posts small blind $1
+storpecka: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+storpecka: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 6: storpecka (big blind) folded before Flop
+Seat 7: VolkovDmitri (button) (small blind) collected ($6)
+
+
+PokerStars Hand #153945104407:  Hold'em Limit ($3/$6 USD) - 2016/05/28 3:37:07 ET
+Table 'Anza' 10-max Seat #6 is the button
+Seat 6: storpecka ($122.16 in chips)
+Seat 7: VolkovDmitri ($128.50 in chips)
+storpecka: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+storpecka: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 6: storpecka (button) (small blind) folded before Flop
+Seat 7: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #153945135443:  Hold'em Limit ($3/$6 USD) - 2016/05/28 3:38:47 ET
+Table 'Anza' 10-max Seat #6 is the button
+Seat 6: storpecka ($69.92 in chips)
+Seat 7: VolkovDmitri ($179.02 in chips)
+storpecka: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+storpecka: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [3c 5c 9c]
+VolkovDmitri: checks
+storpecka: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [3c 5c 9c] [2c]
+VolkovDmitri: bets $6
+storpecka: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $17.64 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3c 5c 9c 2c]
+Seat 6: storpecka (button) (small blind) folded on the Turn
+Seat 7: VolkovDmitri (big blind) collected ($17.64)
+
+
+PokerStars Hand #153945127393:  Hold'em Limit ($3/$6 USD) - 2016/05/28 3:38:21 ET
+Table 'Anza' 10-max Seat #7 is the button
+Seat 6: storpecka ($96.92 in chips)
+Seat 7: VolkovDmitri ($152.52 in chips)
+VolkovDmitri: posts small blind $1
+storpecka: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+storpecka: calls $3
+*** FLOP *** [Ts 4h Jh]
+storpecka: bets $3
+VolkovDmitri: raises $3 to $6
+storpecka: raises $3 to $9
+VolkovDmitri: calls $3
+*** TURN *** [Ts 4h Jh] [3s]
+storpecka: bets $6
+VolkovDmitri: raises $6 to $12
+storpecka: calls $6
+*** RIVER *** [Ts 4h Jh 3s] [Ac]
+storpecka: checks
+VolkovDmitri: bets $6
+storpecka: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $53.50 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Ts 4h Jh 3s Ac]
+Seat 6: storpecka (big blind) folded on the River
+Seat 7: VolkovDmitri (button) (small blind) collected ($53.50)
+
+
+PokerStars Hand #153945123119:  Hold'em Limit ($3/$6 USD) - 2016/05/28 3:38:07 ET
+Table 'Anza' 10-max Seat #6 is the button
+Seat 6: storpecka ($108.92 in chips)
+Seat 7: VolkovDmitri ($141 in chips)
+storpecka: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+storpecka: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+storpecka: calls $3
+*** FLOP *** [7h Ks Js]
+VolkovDmitri: bets $3
+storpecka: calls $3
+*** TURN *** [7h Ks Js] [4c]
+VolkovDmitri: bets $6
+storpecka: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $23.52 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [7h Ks Js 4c]
+Seat 6: storpecka (button) (small blind) folded on the Turn
+Seat 7: VolkovDmitri (big blind) collected ($23.52)
+
+
+PokerStars Hand #153945155506:  Hold'em Limit ($3/$6 USD) - 2016/05/28 3:39:51 ET
+Table 'Anza' 10-max Seat #7 is the button
+Seat 6: storpecka ($60.68 in chips)
+Seat 7: VolkovDmitri ($187.42 in chips)
+VolkovDmitri: posts small blind $1
+storpecka: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+storpecka: calls $3
+*** FLOP *** [9s Ac Tc]
+storpecka: checks
+VolkovDmitri: bets $3
+storpecka: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9s Ac Tc]
+Seat 6: storpecka (big blind) folded on the Flop
+Seat 7: VolkovDmitri (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #153945153973:  Hold'em Limit ($3/$6 USD) - 2016/05/28 3:39:46 ET
+Table 'Anza' 10-max Seat #6 is the button
+Seat 6: storpecka ($61.68 in chips)
+Seat 7: VolkovDmitri ($186.42 in chips)
+storpecka: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+storpecka: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 6: storpecka (button) (small blind) folded before Flop
+Seat 7: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #153945147072:  Hold'em Limit ($3/$6 USD) - 2016/05/28 3:39:24 ET
+Table 'Anza' 10-max Seat #7 is the button
+Seat 6: storpecka ($67.68 in chips)
+Seat 7: VolkovDmitri ($180.66 in chips)
+VolkovDmitri: posts small blind $1
+storpecka: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+storpecka: calls $3
+*** FLOP *** [9c Th 3s]
+storpecka: checks
+VolkovDmitri: bets $3
+storpecka: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9c Th 3s]
+Seat 6: storpecka (big blind) folded on the Flop
+Seat 7: VolkovDmitri (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #153945142978:  Hold'em Limit ($3/$6 USD) - 2016/05/28 3:39:10 ET
+Table 'Anza' 10-max Seat #6 is the button
+Seat 6: storpecka ($61.92 in chips)
+Seat 7: VolkovDmitri ($186.66 in chips)
+storpecka: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+storpecka: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [5h Ks 8h]
+VolkovDmitri: checks
+storpecka: bets $3
+VolkovDmitri: folds
+Uncalled bet ($3) returned to storpecka
+storpecka collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5h Ks 8h]
+Seat 6: storpecka (button) (small blind) collected ($11.76)
+Seat 7: VolkovDmitri (big blind) folded on the Flop
+
+
+PokerStars Hand #153945141473:  Hold'em Limit ($3/$6 USD) - 2016/05/28 3:39:06 ET
+Table 'Anza' 10-max Seat #7 is the button
+Seat 6: storpecka ($60.92 in chips)
+Seat 7: VolkovDmitri ($187.66 in chips)
+VolkovDmitri: posts small blind $1
+storpecka: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: folds
+Uncalled bet ($2) returned to storpecka
+storpecka collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 6: storpecka (big blind) collected ($2)
+Seat 7: VolkovDmitri (button) (small blind) folded before Flop
+
+
+PokerStars Hand #153945171188:  Hold'em Limit ($3/$6 USD) - 2016/05/28 3:40:41 ET
+Table 'Anza' 10-max Seat #6 is the button
+Seat 6: storpecka ($21.68 in chips)
+Seat 7: VolkovDmitri ($225.20 in chips)
+storpecka: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+storpecka: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+storpecka: calls $3
+*** FLOP *** [9c 9d Ad]
+VolkovDmitri: checks
+storpecka: checks
+*** TURN *** [9c 9d Ad] [2c]
+VolkovDmitri: checks
+storpecka: checks
+*** RIVER *** [9c 9d Ad 2c] [Qs]
+VolkovDmitri: bets $6
+storpecka: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Ah Jd] (two pair, Aces and Nines)
+storpecka: mucks hand
+VolkovDmitri collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9c 9d Ad 2c Qs]
+Seat 6: storpecka (button) (small blind) mucked
+Seat 7: VolkovDmitri (big blind) showed [Ah Jd] and won ($29.50) with two pair, Aces and Nines
+
+
+PokerStars Hand #153945163605:  Hold'em Limit ($3/$6 USD) - 2016/05/28 3:40:17 ET
+Table 'Anza' 10-max Seat #7 is the button
+Seat 6: storpecka ($42.68 in chips)
+Seat 7: VolkovDmitri ($204.70 in chips)
+VolkovDmitri: posts small blind $1
+storpecka: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+storpecka: calls $3
+*** FLOP *** [Ac 9s Jc]
+storpecka: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [Ac 9s Jc] [6s]
+storpecka: bets $6
+VolkovDmitri: raises $6 to $12
+storpecka: calls $6
+*** RIVER *** [Ac 9s Jc 6s] [7h]
+storpecka: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+storpecka: shows [5c 7c] (a pair of Sevens)
+VolkovDmitri: shows [4s As] (a pair of Aces)
+VolkovDmitri collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ac 9s Jc 6s 7h]
+Seat 6: storpecka (big blind) showed [5c 7c] and lost with a pair of Sevens
+Seat 7: VolkovDmitri (button) (small blind) showed [4s As] and won ($41.50) with a pair of Aces
+
+
+PokerStars Hand #153945158732:  Hold'em Limit ($3/$6 USD) - 2016/05/28 3:40:01 ET
+Table 'Anza' 10-max Seat #6 is the button
+Seat 6: storpecka ($54.68 in chips)
+Seat 7: VolkovDmitri ($193.18 in chips)
+storpecka: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+storpecka: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Qd 8d 4s]
+VolkovDmitri: checks
+storpecka: bets $3
+VolkovDmitri: raises $3 to $6
+storpecka: calls $3
+*** TURN *** [Qd 8d 4s] [Qs]
+VolkovDmitri: bets $6
+storpecka: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $23.52 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Qd 8d 4s Qs]
+Seat 6: storpecka (button) (small blind) folded on the Turn
+Seat 7: VolkovDmitri (big blind) collected ($23.52)
+
+
+PokerStars Hand #153945188111:  Hold'em Limit ($3/$6 USD) - 2016/05/28 3:41:36 ET
+Table 'Anza' 10-max Seat #7 is the button
+Seat 6: storpecka ($25.68 in chips)
+Seat 7: VolkovDmitri ($219.93 in chips)
+VolkovDmitri: posts small blind $1
+storpecka: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+storpecka: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [6d Jd Jh]
+storpecka: bets $3
+VolkovDmitri: folds
+Uncalled bet ($3) returned to storpecka
+storpecka collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6d Jd Jh]
+Seat 6: storpecka (big blind) collected ($17.64)
+Seat 7: VolkovDmitri (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #153945182962:  Hold'em Limit ($3/$6 USD) - 2016/05/28 3:41:19 ET
+Table 'Anza' 10-max Seat #6 is the button
+Seat 6: storpecka ($13.09 in chips)
+Seat 7: VolkovDmitri ($233.02 in chips)
+storpecka: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+storpecka: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+storpecka: raises $3 to $12
+Betting is capped
+VolkovDmitri: calls $3
+*** FLOP *** [6c 4d 4h]
+VolkovDmitri: bets $3
+storpecka: calls $1.09 and is all-in
+Uncalled bet ($1.91) returned to VolkovDmitri
+*** TURN *** [6c 4d 4h] [5h]
+*** RIVER *** [6c 4d 4h 5h] [4s]
+*** SHOW DOWN ***
+VolkovDmitri: shows [Jd Qc] (three of a kind, Fours)
+storpecka: shows [Kd 9s] (three of a kind, Fours - King kicker)
+storpecka collected $25.68 from pot
+*** SUMMARY ***
+Total pot $26.18 | Rake $0.50
+Board [6c 4d 4h 5h 4s]
+Seat 6: storpecka (button) (small blind) showed [Kd 9s] and won ($25.68) with three of a kind, Fours
+Seat 7: VolkovDmitri (big blind) showed [Jd Qc] and lost with three of a kind, Fours
+
+
+PokerStars Hand #153945178000:  Hold'em Limit ($3/$6 USD) - 2016/05/28 3:41:03 ET
+Table 'Anza' 10-max Seat #7 is the button
+Seat 6: storpecka ($6.68 in chips)
+Seat 7: VolkovDmitri ($239.70 in chips)
+VolkovDmitri: posts small blind $1
+storpecka: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+storpecka: raises $0.68 to $6.68 and is all-in
+VolkovDmitri: calls $0.68
+*** FLOP *** [Qd 7c Ks]
+*** TURN *** [Qd 7c Ks] [As]
+*** RIVER *** [Qd 7c Ks As] [2c]
+*** SHOW DOWN ***
+storpecka: shows [3c Th] (high card Ace)
+VolkovDmitri: shows [8c 5h] (high card Ace - lower kicker)
+storpecka collected $13.09 from pot
+*** SUMMARY ***
+Total pot $13.36 | Rake $0.27
+Board [Qd 7c Ks As 2c]
+Seat 6: storpecka (big blind) showed [3c Th] and won ($13.09) with high card Ace
+Seat 7: VolkovDmitri (button) (small blind) showed [8c 5h] and lost with high card Ace
+
+
+PokerStars Hand #153945199701:  Hold'em Limit ($3/$6 USD) - 2016/05/28 3:42:12 ET
+Table 'Anza' 10-max Seat #7 is the button
+Seat 6: storpecka ($68.14 in chips)
+Seat 7: VolkovDmitri ($176.61 in chips)
+VolkovDmitri: posts small blind $1
+storpecka: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+storpecka: calls $3
+*** FLOP *** [Tc 7c 2h]
+storpecka: bets $3
+VolkovDmitri: raises $3 to $6
+storpecka: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $17.64 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Tc 7c 2h]
+Seat 6: storpecka (big blind) folded on the Flop
+Seat 7: VolkovDmitri (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #153945192672:  Hold'em Limit ($3/$6 USD) - 2016/05/28 3:41:50 ET
+Table 'Anza' 10-max Seat #6 is the button
+Seat 6: storpecka ($34.32 in chips)
+Seat 7: VolkovDmitri ($210.93 in chips)
+storpecka: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+storpecka: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+storpecka: raises $3 to $12
+Betting is capped
+VolkovDmitri: calls $3
+*** FLOP *** [9h Ac Td]
+VolkovDmitri: checks
+storpecka: bets $3
+VolkovDmitri: raises $3 to $6
+storpecka: raises $3 to $9
+VolkovDmitri: raises $3 to $12
+Betting is capped
+storpecka: calls $3
+*** TURN *** [9h Ac Td] [9d]
+VolkovDmitri: bets $6
+storpecka: raises $4.32 to $10.32 and is all-in
+VolkovDmitri: calls $4.32
+*** RIVER *** [9h Ac Td 9d] [Jc]
+*** SHOW DOWN ***
+VolkovDmitri: shows [6c As] (two pair, Aces and Nines)
+storpecka: shows [Kc Ah] (two pair, Aces and Nines - King kicker)
+storpecka collected $68.14 from pot
+*** SUMMARY ***
+Total pot $68.64 | Rake $0.50
+Board [9h Ac Td 9d Jc]
+Seat 6: storpecka (button) (small blind) showed [Kc Ah] and won ($68.14) with two pair, Aces and Nines
+Seat 7: VolkovDmitri (big blind) showed [6c As] and lost with two pair, Aces and Nines
+
+
+PokerStars Hand #153945214710:  Hold'em Limit ($3/$6 USD) - 2016/05/28 3:43:01 ET
+Table 'Anza' 10-max Seat #6 is the button
+Seat 6: storpecka ($50.14 in chips)
+Seat 7: VolkovDmitri ($194.01 in chips)
+storpecka: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+storpecka: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 6: storpecka (button) (small blind) folded before Flop
+Seat 7: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #153945212941:  Hold'em Limit ($3/$6 USD) - 2016/05/28 3:42:55 ET
+Table 'Anza' 10-max Seat #7 is the button
+Seat 6: storpecka ($49.14 in chips)
+Seat 7: VolkovDmitri ($195.01 in chips)
+VolkovDmitri: posts small blind $1
+storpecka: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: folds
+Uncalled bet ($2) returned to storpecka
+szwhite joins the table at seat #9
+storpecka collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 6: storpecka (big blind) collected ($2)
+Seat 7: VolkovDmitri (button) (small blind) folded before Flop
+
+
+PokerStars Hand #153945211506:  Hold'em Limit ($3/$6 USD) - 2016/05/28 3:42:50 ET
+Table 'Anza' 10-max Seat #6 is the button
+Seat 6: storpecka ($50.14 in chips)
+Seat 7: VolkovDmitri ($194.01 in chips)
+storpecka: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+storpecka: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 6: storpecka (button) (small blind) folded before Flop
+Seat 7: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #153945209626:  Hold'em Limit ($3/$6 USD) - 2016/05/28 3:42:44 ET
+Table 'Anza' 10-max Seat #7 is the button
+Seat 6: storpecka ($53.14 in chips)
+Seat 7: VolkovDmitri ($191.01 in chips)
+VolkovDmitri: posts small blind $1
+storpecka: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+storpecka: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 6: storpecka (big blind) folded before Flop
+Seat 7: VolkovDmitri (button) (small blind) collected ($6)
+
+
+PokerStars Hand #153945203833:  Hold'em Limit ($3/$6 USD) - 2016/05/28 3:42:26 ET
+Table 'Anza' 10-max Seat #6 is the button
+Seat 6: storpecka ($59.14 in chips)
+Seat 7: VolkovDmitri ($185.25 in chips)
+storpecka: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+storpecka: calls $2
+VolkovDmitri: raises $3 to $6
+storpecka: calls $3
+*** FLOP *** [3c 8d Ts]
+VolkovDmitri: bets $3
+storpecka: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3c 8d Ts]
+Seat 6: storpecka (button) (small blind) folded on the Flop
+Seat 7: VolkovDmitri (big blind) collected ($11.76)
+
+

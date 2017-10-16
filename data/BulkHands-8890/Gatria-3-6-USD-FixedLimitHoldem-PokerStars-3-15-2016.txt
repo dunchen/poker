@@ -1,0 +1,55 @@
+PokerStars Hand #150398088957:  Hold'em Limit ($3/$6 USD) - 2016/03/15 13:42:24 ET
+Table 'Gatria' 6-max Seat #5 is the button
+Seat 5: Great_Kang ($128.64 in chips)
+Seat 6: perten ($56.28 in chips)
+Great_Kang: posts small blind $1
+perten: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+perten: calls $3
+*** FLOP *** [6c 7d Qd]
+perten: checks
+zizonmusang joins the table at seat #3
+Great_Kang: bets $3
+perten: folds
+Uncalled bet ($3) returned to Great_Kang
+Great_Kang collected $11.76 from pot
+Great_Kang: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6c 7d Qd]
+Seat 5: Great_Kang (button) (small blind) collected ($11.76)
+Seat 6: perten (big blind) folded on the Flop
+
+
+PokerStars Hand #150398024549:  Hold'em Limit ($3/$6 USD) - 2016/03/15 13:41:11 ET
+Table 'Gatria' 6-max Seat #6 is the button
+Seat 5: Great_Kang ($120 in chips)
+Seat 6: perten ($65.28 in chips)
+perten: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+JayEm82 joins the table at seat #1
+perten: raises $3 to $6
+Great_Kang: raises $3 to $9
+perten: calls $3
+*** FLOP *** [7d 7c 2c]
+Great_Kang: checks
+perten: checks
+*** TURN *** [7d 7c 2c] [4s]
+Great_Kang: checks
+perten: checks
+*** RIVER *** [7d 7c 2c 4s] [3c]
+Great_Kang: checks
+perten: checks
+*** SHOW DOWN ***
+Great_Kang: shows [Tc Ah] (a pair of Sevens)
+perten: mucks hand
+Great_Kang collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7d 7c 2c 4s 3c]
+Seat 5: Great_Kang (big blind) showed [Tc Ah] and won ($17.64) with a pair of Sevens
+Seat 6: perten (button) (small blind) mucked
+
+

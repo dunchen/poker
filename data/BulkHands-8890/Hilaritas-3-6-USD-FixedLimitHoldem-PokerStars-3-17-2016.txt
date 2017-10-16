@@ -1,0 +1,28 @@
+PokerStars Hand #150494032215:  Hold'em Limit ($3/$6 USD) - 2016/03/17 12:18:59 ET
+Table 'Hilaritas' 6-max Seat #2 is the button
+Seat 1: hubschi ($9.47 in chips)
+Seat 2: Ale4o ($143.50 in chips)
+Ale4o: posts small blind $1
+hubschi: posts big blind $3
+*** HOLE CARDS ***
+Ale4o: raises $3 to $6
+VolkovDmitri leaves the table
+hubschi: raises $3 to $9
+Ale4o: raises $3 to $12
+Betting is capped
+hubschi: calls $0.47 and is all-in
+Uncalled bet ($2.53) returned to Ale4o
+*** FLOP *** [2h Qh 3c]
+*** TURN *** [2h Qh 3c] [Th]
+*** RIVER *** [2h Qh 3c Th] [7h]
+*** SHOW DOWN ***
+hubschi: shows [Ad 9d] (high card Ace)
+Ale4o: shows [Qd 5d] (a pair of Queens)
+Ale4o collected $18.56 from pot
+*** SUMMARY ***
+Total pot $18.94 | Rake $0.38
+Board [2h Qh 3c Th 7h]
+Seat 1: hubschi (big blind) showed [Ad 9d] and lost with high card Ace
+Seat 2: Ale4o (button) (small blind) showed [Qd 5d] and won ($18.56) with a pair of Queens
+
+

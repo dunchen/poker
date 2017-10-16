@@ -1,0 +1,76 @@
+PokerStars Hand #147890096431:  Hold'em Limit ($3/$6 USD) - 2016/01/29 14:39:22 ET
+Table 'Nele' 6-max Seat #2 is the button
+Seat 1: lordlebedev ($30 in chips)
+Seat 2: BelSv ($78 in chips)
+BelSv: posts small blind $1
+TbIP-TbIP 88: is sitting out
+TbIP-TbIP 88 leaves the table
+SashaYuvelir joins the table at seat #3
+lordlebedev: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+lordlebedev: calls $3
+*** FLOP *** [6c Td 6d]
+lordlebedev: checks
+BelSv: bets $3
+lordlebedev: calls $3
+*** TURN *** [6c Td 6d] [Tc]
+lordlebedev: checks
+BelSv: checks
+*** RIVER *** [6c Td 6d Tc] [Js]
+lordlebedev: checks
+BelSv: checks
+*** SHOW DOWN ***
+lordlebedev: shows [5h 2h] (two pair, Tens and Sixes)
+BelSv: shows [5c Qh] (two pair, Tens and Sixes - Queen kicker)
+BelSv collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6c Td 6d Tc Js]
+Seat 1: lordlebedev (big blind) showed [5h 2h] and lost with two pair, Tens and Sixes
+Seat 2: BelSv (button) (small blind) showed [5c Qh] and won ($17.64) with two pair, Tens and Sixes
+
+
+PokerStars Hand #147890155073:  Hold'em Limit ($3/$6 USD) - 2016/01/29 14:40:22 ET
+Table 'Nele' 6-max Seat #1 is the button
+Seat 1: lordlebedev ($21 in chips)
+Seat 2: BelSv ($86.64 in chips)
+lordlebedev: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+lordlebedev: folds
+Uncalled bet ($2) returned to BelSv
+BelSv collected $2 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: lordlebedev (button) (small blind) folded before Flop
+Seat 2: BelSv (big blind) collected ($2)
+
+
+PokerStars Hand #147890278297:  Hold'em Limit ($3/$6 USD) - 2016/01/29 14:42:26 ET
+Table 'Nele' 6-max Seat #3 is the button
+Seat 2: BelSv ($78 in chips)
+Seat 3: SashaYuvelir ($94.02 in chips)
+lordlebedev is disconnected
+lordlebedev has timed out while disconnected
+lordlebedev: is sitting out
+SashaYuvelir: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+SashaYuvelir: raises $3 to $6
+BelSv: raises $3 to $9
+SashaYuvelir: calls $3
+*** FLOP *** [Jd Kh 5d]
+BelSv: bets $3
+SashaYuvelir: folds
+Uncalled bet ($3) returned to BelSv
+BelSv collected $17.64 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Jd Kh 5d]
+Seat 2: BelSv (big blind) collected ($17.64)
+Seat 3: SashaYuvelir (button) (small blind) folded on the Flop
+
+

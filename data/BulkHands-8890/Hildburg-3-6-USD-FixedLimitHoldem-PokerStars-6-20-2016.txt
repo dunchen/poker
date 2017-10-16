@@ -1,0 +1,82 @@
+PokerStars Hand #154978814822:  Hold'em Limit ($3/$6 USD) - 2016/06/20 11:25:30 ET
+Table 'Hildburg' 10-max Seat #1 is the button
+Seat 1: Ag3r0n ($232.65 in chips)
+Seat 6: sokol-max-PS ($308.90 in chips)
+Ag3r0n: posts small blind $1
+sokol-max-PS: posts big blind $3
+*** HOLE CARDS ***
+Ag3r0n: folds
+Uncalled bet ($2) returned to sokol-max-PS
+sokol-max-PS collected $2 from pot
+sokol-max-PS: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Ag3r0n (button) (small blind) folded before Flop
+Seat 6: sokol-max-PS (big blind) collected ($2)
+
+
+PokerStars Hand #154978785579:  Hold'em Limit ($3/$6 USD) - 2016/06/20 11:24:41 ET
+Table 'Hildburg' 10-max Seat #6 is the button
+Seat 1: Ag3r0n ($203.15 in chips)
+Seat 6: sokol-max-PS ($338.90 in chips)
+sokol-max-PS: posts small blind $1
+stronghawk: is sitting out
+Ag3r0n: posts big blind $3
+*** HOLE CARDS ***
+sokol-max-PS: raises $3 to $6
+stronghawk leaves the table
+Ag3r0n: calls $3
+*** FLOP *** [7s Jh Qs]
+Ag3r0n: bets $3
+sokol-max-PS: raises $3 to $6
+Ag3r0n: calls $3
+*** TURN *** [7s Jh Qs] [3c]
+Ag3r0n: checks
+sokol-max-PS: bets $6
+Ag3r0n: calls $6
+*** RIVER *** [7s Jh Qs 3c] [3s]
+Ag3r0n: checks
+sokol-max-PS: bets $6
+Ag3r0n: raises $6 to $12
+sokol-max-PS: calls $6
+*** SHOW DOWN ***
+Ag3r0n: shows [Ah 3h] (three of a kind, Threes)
+sokol-max-PS: mucks hand
+Ag3r0n collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [7s Jh Qs 3c 3s]
+Seat 1: Ag3r0n (big blind) showed [Ah 3h] and won ($59.50) with three of a kind, Threes
+Seat 6: sokol-max-PS (button) (small blind) mucked
+
+
+PokerStars Hand #154978818100:  Hold'em Limit ($3/$6 USD) - 2016/06/20 11:25:35 ET
+Table 'Hildburg' 10-max Seat #6 is the button
+Seat 1: Ag3r0n ($231.65 in chips)
+Seat 6: sokol-max-PS ($309.90 in chips)
+sokol-max-PS: posts small blind $1
+Ag3r0n: posts big blind $3
+*** HOLE CARDS ***
+sokol-max-PS: raises $3 to $6
+Ag3r0n: calls $3
+*** FLOP *** [9d Jh 2c]
+Ag3r0n: checks
+sokol-max-PS: bets $3
+Ag3r0n: calls $3
+*** TURN *** [9d Jh 2c] [6d]
+Ag3r0n: checks
+sokol-max-PS: checks
+*** RIVER *** [9d Jh 2c 6d] [Jc]
+Ag3r0n: checks
+sokol-max-PS: checks
+*** SHOW DOWN ***
+Ag3r0n: shows [5h Ad] (a pair of Jacks)
+sokol-max-PS: mucks hand
+Ag3r0n collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9d Jh 2c 6d Jc]
+Seat 1: Ag3r0n (big blind) showed [5h Ad] and won ($17.64) with a pair of Jacks
+Seat 6: sokol-max-PS (button) (small blind) mucked
+
+

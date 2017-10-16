@@ -1,0 +1,66 @@
+PokerStars Hand #176095043677:  Hold'em Limit ($3/$6 USD) - 2017/09/25 5:07:59 ET
+Table 'Eurykleia' 6-max Seat #4 is the button
+Seat 3: Ale4o ($94.65 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+Anchig: is sitting out
+lvn030178: is sitting out
+Ale4o: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Ale4o: calls $3
+*** FLOP *** [7h Kc Qc]
+lvn030178 leaves the table
+Ale4o: checks
+Anchig leaves the table
+VolkovDmitri: bets $3
+Ale4o: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [7h Kc Qc] [5h]
+Ale4o: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [7h Kc Qc 5h] [4s]
+Ale4o: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+Ale4o: shows [3s Kh] (a pair of Kings)
+VolkovDmitri: mucks hand
+Ale4o collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7h Kc Qc 5h 4s]
+Seat 3: Ale4o (big blind) showed [3s Kh] and won ($47.50) with a pair of Kings
+Seat 4: VolkovDmitri (button) (small blind) mucked
+
+
+PokerStars Hand #176095056147:  Hold'em Limit ($3/$6 USD) - 2017/09/25 5:08:38 ET
+Table 'Eurykleia' 6-max Seat #3 is the button
+Seat 3: Ale4o ($118.15 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+Ale4o: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Ale4o: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [8c Ac 2h]
+VolkovDmitri: checks
+Ale4o: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [8c Ac 2h] [3s]
+VolkovDmitri: checks
+Ale4o: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [8c Ac 2h 3s] [6d]
+VolkovDmitri: checks
+Ale4o: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to Ale4o
+Ale4o collected $29.50 from pot
+Ale4o: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8c Ac 2h 3s 6d]
+Seat 3: Ale4o (button) (small blind) collected ($29.50)
+Seat 4: VolkovDmitri (big blind) folded on the River
+
+

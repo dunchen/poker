@@ -1,0 +1,78 @@
+PokerStars Hand #170120001497:  Hold'em Limit ($3/$6 USD) - 2017/05/08 6:24:24 ET
+Table 'Oskar' 6-max Seat #3 is the button
+Seat 3: hairy1961 ($50 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+hairy1961: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+hairy1961: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: hairy1961 (button) (small blind) folded before Flop
+Seat 4: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #170120007624:  Hold'em Limit ($3/$6 USD) - 2017/05/08 6:24:39 ET
+Table 'Oskar' 6-max Seat #4 is the button
+Seat 3: hairy1961 ($49 in chips)
+Seat 4: VolkovDmitri ($121 in chips)
+VolkovDmitri: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+hairy1961: calls $3
+*** FLOP *** [8h Ac 9d]
+hairy1961: checks
+VolkovDmitri: bets $3
+hairy1961: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [8h Ac 9d] [Td]
+hairy1961: bets $6
+VolkovDmitri: raises $6 to $12
+hairy1961: calls $6
+*** RIVER *** [8h Ac 9d Td] [6s]
+hairy1961: bets $6
+VolkovDmitri: raises $6 to $12
+hairy1961: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Jh 7d] (a straight, Seven to Jack)
+hairy1961: mucks hand
+VolkovDmitri collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [8h Ac 9d Td 6s]
+Seat 3: hairy1961 (big blind) mucked
+Seat 4: VolkovDmitri (button) (small blind) showed [Jh 7d] and won ($71.50) with a straight, Seven to Jack
+
+
+PokerStars Hand #170120035905:  Hold'em Limit ($3/$6 USD) - 2017/05/08 6:25:47 ET
+Table 'Oskar' 6-max Seat #3 is the button
+Seat 3: hairy1961 ($13 in chips)
+Seat 4: VolkovDmitri ($156.50 in chips)
+hairy1961: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+hairy1961: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [5d As Th]
+VolkovDmitri: checks
+hairy1961: bets $3
+VolkovDmitri: raises $3 to $6
+hairy1961: raises $1 to $7 and is all-in
+VolkovDmitri: calls $1
+*** TURN *** [5d As Th] [Ks]
+*** RIVER *** [5d As Th Ks] [Jc]
+*** SHOW DOWN ***
+VolkovDmitri: shows [5s 8d] (a pair of Fives)
+hairy1961: shows [7h 9h] (high card Ace)
+VolkovDmitri collected $25.50 from pot
+*** SUMMARY ***
+Total pot $26 | Rake $0.50
+Board [5d As Th Ks Jc]
+Seat 3: hairy1961 (button) (small blind) showed [7h 9h] and lost with high card Ace
+Seat 4: VolkovDmitri (big blind) showed [5s 8d] and won ($25.50) with a pair of Fives
+
+

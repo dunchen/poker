@@ -1,0 +1,96 @@
+PokerStars Hand #174951532960:  Hold'em Limit ($3/$6 USD) - 2017/08/29 15:15:13 ET
+Table 'Alioth' 6-max Seat #2 is the button
+Seat 1: nedo1414 ($119 in chips)
+Seat 2: vestimokrec ($121 in chips)
+vestimokrec: posts small blind $1
+nedo1414: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+nedo1414: calls $3
+*** FLOP *** [7d 4d 4s]
+nedo1414: checks
+vestimokrec: bets $3
+nedo1414: calls $3
+*** TURN *** [7d 4d 4s] [5d]
+nedo1414: checks
+vestimokrec: bets $6
+nedo1414: raises $6 to $12
+vestimokrec: calls $6
+*** RIVER *** [7d 4d 4s 5d] [9d]
+nedo1414: checks
+vestimokrec: bets $6
+nedo1414: calls $6
+*** SHOW DOWN ***
+vestimokrec: shows [6s 3s] (a straight, Three to Seven)
+nedo1414: mucks hand
+vestimokrec collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [7d 4d 4s 5d 9d]
+Seat 1: nedo1414 (big blind) mucked
+Seat 2: vestimokrec (button) (small blind) showed [6s 3s] and won ($53.50) with a straight, Three to Seven
+
+
+PokerStars Hand #174951575841:  Hold'em Limit ($3/$6 USD) - 2017/08/29 15:16:06 ET
+Table 'Alioth' 6-max Seat #1 is the button
+Seat 1: nedo1414 ($92 in chips)
+Seat 2: vestimokrec ($147.50 in chips)
+nedo1414: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+nedo1414: raises $3 to $6
+vestimokrec: calls $3
+*** FLOP *** [6s Qc 7d]
+vestimokrec: checks
+nedo1414: bets $3
+vestimokrec: raises $3 to $6
+nedo1414: calls $3
+*** TURN *** [6s Qc 7d] [As]
+vestimokrec: bets $6
+nedo1414: calls $6
+*** RIVER *** [6s Qc 7d As] [7c]
+vestimokrec: bets $6
+nedo1414: calls $6
+*** SHOW DOWN ***
+vestimokrec: shows [7h 4d] (three of a kind, Sevens)
+nedo1414: mucks hand
+vestimokrec collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [6s Qc 7d As 7c]
+Seat 1: nedo1414 (button) (small blind) mucked
+Seat 2: vestimokrec (big blind) showed [7h 4d] and won ($47.50) with three of a kind, Sevens
+
+
+PokerStars Hand #174951641631:  Hold'em Limit ($3/$6 USD) - 2017/08/29 15:17:27 ET
+Table 'Alioth' 6-max Seat #2 is the button
+Seat 1: nedo1414 ($263.33 in chips)
+Seat 2: vestimokrec ($171 in chips)
+vestimokrec: posts small blind $1
+nedo1414: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+nedo1414: raises $3 to $9
+vestimokrec: calls $3
+*** FLOP *** [5d 7d 4d]
+nedo1414: bets $3
+vestimokrec: calls $3
+*** TURN *** [5d 7d 4d] [2s]
+nedo1414: checks
+vestimokrec: bets $6
+nedo1414: calls $6
+*** RIVER *** [5d 7d 4d 2s] [Th]
+nedo1414: checks
+vestimokrec: bets $6
+nedo1414: calls $6
+*** SHOW DOWN ***
+vestimokrec: shows [Qs 2d] (a pair of Deuces)
+nedo1414: mucks hand
+vestimokrec collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [5d 7d 4d 2s Th]
+Seat 1: nedo1414 (big blind) mucked
+Seat 2: vestimokrec (button) (small blind) showed [Qs 2d] and won ($47.50) with a pair of Deuces
+
+

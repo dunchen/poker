@@ -1,0 +1,63 @@
+PokerStars Hand #161677369521:  Hold'em Limit ($3/$6 USD) - 2016/11/20 4:47:27 ET
+Table 'Sumida' 6-max Seat #2 is the button
+Seat 2: sinsadir ($167.85 in chips)
+Seat 6: michehh5 ($28.59 in chips)
+sinsadir: posts small blind $1
+michehh5: posts big blind $3
+*** HOLE CARDS ***
+sinsadir: raises $3 to $6
+michehh5: calls $3
+*** FLOP *** [Td 9d Qh]
+michehh5: checks
+Artem111999 joins the table at seat #3
+sinsadir: bets $3
+michehh5: calls $3
+*** TURN *** [Td 9d Qh] [Ac]
+michehh5: checks
+VolkovDmitri leaves the table
+sinsadir: bets $6
+michehh5: calls $6
+*** RIVER *** [Td 9d Qh Ac] [9h]
+michehh5: bets $6
+sinsadir: folds
+Uncalled bet ($6) returned to michehh5
+michehh5 collected $29.50 from pot
+michehh5: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Td 9d Qh Ac 9h]
+Seat 2: sinsadir (button) (small blind) folded on the River
+Seat 6: michehh5 (big blind) collected ($29.50)
+
+
+PokerStars Hand #161677389195:  Hold'em Limit ($3/$6 USD) - 2016/11/20 4:48:13 ET
+Table 'Sumida' 6-max Seat #6 is the button
+Seat 2: sinsadir ($152.85 in chips)
+Seat 6: michehh5 ($43.09 in chips)
+michehh5: posts small blind $1
+sinsadir: posts big blind $3
+*** HOLE CARDS ***
+michehh5: calls $2
+sinsadir: checks
+*** FLOP *** [Ac Ks Jd]
+sinsadir: checks
+michehh5: bets $3
+sinsadir: calls $3
+*** TURN *** [Ac Ks Jd] [Ad]
+sinsadir: checks
+michehh5: checks
+*** RIVER *** [Ac Ks Jd Ad] [Td]
+sinsadir: bets $6
+michehh5: raises $6 to $12
+sinsadir: calls $6
+*** SHOW DOWN ***
+michehh5: shows [9c 7s] (a pair of Aces)
+sinsadir: shows [3s Qs] (a straight, Ten to Ace)
+sinsadir collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Ac Ks Jd Ad Td]
+Seat 2: sinsadir (big blind) showed [3s Qs] and won ($35.50) with a straight, Ten to Ace
+Seat 6: michehh5 (button) (small blind) showed [9c 7s] and lost with a pair of Aces
+
+

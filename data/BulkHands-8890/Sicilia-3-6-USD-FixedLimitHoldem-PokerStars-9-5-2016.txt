@@ -1,0 +1,83 @@
+PokerStars Hand #158183475355:  Hold'em Limit ($3/$6 USD) - 2016/09/05 4:38:35 ET
+Table 'Sicilia' 6-max Seat #4 is the button
+Seat 3: simper11 ($125.76 in chips)
+Seat 4: muzuri ($87.66 in chips)
+muzuri: posts small blind $1
+Agrotait joins the table at seat #5
+simper11: posts big blind $3
+*** HOLE CARDS ***
+muzuri: raises $3 to $6
+simper11: calls $3
+*** FLOP *** [7c 4c 3d]
+simper11: checks
+muzuri: bets $3
+simper11: calls $3
+*** TURN *** [7c 4c 3d] [Ts]
+simper11: checks
+muzuri: bets $6
+simper11: raises $6 to $12
+muzuri: raises $6 to $18
+simper11: raises $6 to $24
+Betting is capped
+muzuri: calls $6
+*** RIVER *** [7c 4c 3d Ts] [7s]
+simper11: bets $6
+muzuri: calls $6
+*** SHOW DOWN ***
+simper11: shows [8d 9h] (a pair of Sevens)
+muzuri: shows [Ad As] (two pair, Aces and Sevens)
+muzuri collected $77.50 from pot
+*** SUMMARY ***
+Total pot $78 | Rake $0.50
+Board [7c 4c 3d Ts 7s]
+Seat 3: simper11 (big blind) showed [8d 9h] and lost with a pair of Sevens
+Seat 4: muzuri (button) (small blind) showed [Ad As] and won ($77.50) with two pair, Aces and Sevens
+
+
+PokerStars Hand #158183469906:  Hold'em Limit ($3/$6 USD) - 2016/09/05 4:38:17 ET
+Table 'Sicilia' 6-max Seat #3 is the button
+Seat 3: simper11 ($120 in chips)
+Seat 4: muzuri ($93.66 in chips)
+simper11: posts small blind $1
+muzuri: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+muzuri: calls $3
+*** FLOP *** [Ad 9h 4c]
+muzuri: checks
+simper11: bets $3
+muzuri: folds
+Uncalled bet ($3) returned to simper11
+simper11 collected $11.76 from pot
+simper11: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ad 9h 4c]
+Seat 3: simper11 (button) (small blind) collected ($11.76)
+Seat 4: muzuri (big blind) folded on the Flop
+
+
+PokerStars Hand #158183483049:  Hold'em Limit ($3/$6 USD) - 2016/09/05 4:38:59 ET
+Table 'Sicilia' 6-max Seat #3 is the button
+Seat 3: simper11 ($120 in chips)
+Seat 4: muzuri ($126.16 in chips)
+simper11: posts small blind $1
+muzuri: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+muzuri: calls $3
+*** FLOP *** [As 6s 3d]
+muzuri: checks
+simper11: bets $3
+muzuri: raises $3 to $6
+simper11: folds
+Uncalled bet ($3) returned to muzuri
+muzuri collected $17.64 from pot
+muzuri: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [As 6s 3d]
+Seat 3: simper11 (button) (small blind) folded on the Flop
+Seat 4: muzuri (big blind) collected ($17.64)
+
+

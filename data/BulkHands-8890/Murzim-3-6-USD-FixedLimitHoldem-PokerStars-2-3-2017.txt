@@ -1,0 +1,53 @@
+PokerStars Hand #165619246090:  Hold'em Limit ($3/$6 USD) - 2017/02/03 12:48:54 ET
+Table 'Murzim' 6-max Seat #6 is the button
+Seat 3: sim5sim5 ($128.19 in chips)
+Seat 6: vestimokrec ($114 in chips)
+vestimokrec: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+sim5sim5: calls $3
+*** FLOP *** [6d 4c 8d]
+sim5sim5: checks
+vestimokrec: checks
+*** TURN *** [6d 4c 8d] [Kh]
+sim5sim5: bets $6
+vestimokrec: calls $6
+*** RIVER *** [6d 4c 8d Kh] [3d]
+sim5sim5: bets $6
+vestimokrec: calls $6
+*** SHOW DOWN ***
+sim5sim5: shows [9d 5d] (a flush, Nine high)
+vestimokrec: mucks hand
+sim5sim5 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6d 4c 8d Kh 3d]
+Seat 3: sim5sim5 (big blind) showed [9d 5d] and won ($35.50) with a flush, Nine high
+Seat 6: vestimokrec (button) (small blind) mucked
+
+
+PokerStars Hand #165619224474:  Hold'em Limit ($3/$6 USD) - 2017/02/03 12:48:29 ET
+Table 'Murzim' 6-max Seat #3 is the button
+Seat 3: sim5sim5 ($122.43 in chips)
+Seat 6: vestimokrec ($120 in chips)
+sim5sim5: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+badfinx leaves the table
+vestimokrec: calls $3
+*** FLOP *** [5s 9c 8h]
+vestimokrec: checks
+sim5sim5: bets $3
+vestimokrec: folds
+Uncalled bet ($3) returned to sim5sim5
+sim5sim5 collected $11.76 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5s 9c 8h]
+Seat 3: sim5sim5 (button) (small blind) collected ($11.76)
+Seat 6: vestimokrec (big blind) folded on the Flop
+
+

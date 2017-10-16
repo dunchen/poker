@@ -1,0 +1,102 @@
+PokerStars Hand #165339580241:  Hold'em Limit ($3/$6 USD) - 2017/01/29 5:02:59 ET
+Table 'Megaira' 6-max Seat #3 is the button
+Seat 3: macca04 ($34.56 in chips)
+Seat 4: Koraseg ($120 in chips)
+macca04: posts small blind $1
+Koraseg: posts big blind $3
+*** HOLE CARDS ***
+macca04: calls $2
+Koraseg: checks
+*** FLOP *** [Ah 4h 6c]
+Koraseg: checks
+macca04: bets $3
+Koraseg: folds
+Uncalled bet ($3) returned to macca04
+macca04 collected $5.88 from pot
+macca04: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Ah 4h 6c]
+Seat 3: macca04 (button) (small blind) collected ($5.88)
+Seat 4: Koraseg (big blind) folded on the Flop
+
+
+PokerStars Hand #165339594629:  Hold'em Limit ($3/$6 USD) - 2017/01/29 5:03:31 ET
+Table 'Megaira' 6-max Seat #3 is the button
+Seat 3: macca04 ($34.44 in chips)
+Seat 4: Koraseg ($120 in chips)
+macca04: posts small blind $1
+Koraseg: posts big blind $3
+*** HOLE CARDS ***
+macca04: calls $2
+Koraseg: checks
+*** FLOP *** [Th 6s 5c]
+Koraseg: checks
+macca04: checks
+*** TURN *** [Th 6s 5c] [4h]
+Koraseg: bets $6
+macca04: raises $6 to $12
+Koraseg: calls $6
+*** RIVER *** [Th 6s 5c 4h] [Kh]
+Koraseg: checks
+macca04: bets $6
+Koraseg: calls $6
+*** SHOW DOWN ***
+macca04: shows [Qh Qs] (a pair of Queens)
+Koraseg: shows [6d 5d] (two pair, Sixes and Fives)
+Koraseg collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Th 6s 5c 4h Kh]
+Seat 3: macca04 (button) (small blind) showed [Qh Qs] and lost with a pair of Queens
+Seat 4: Koraseg (big blind) showed [6d 5d] and won ($41.50) with two pair, Sixes and Fives
+
+
+PokerStars Hand #165339590487:  Hold'em Limit ($3/$6 USD) - 2017/01/29 5:03:22 ET
+Table 'Megaira' 6-max Seat #4 is the button
+Seat 3: macca04 ($37.44 in chips)
+Seat 4: Koraseg ($117 in chips)
+Koraseg: posts small blind $1
+macca04: posts big blind $3
+*** HOLE CARDS ***
+Koraseg: raises $3 to $6
+macca04: folds
+Uncalled bet ($3) returned to Koraseg
+Koraseg collected $6 from pot
+Koraseg: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: macca04 (big blind) folded before Flop
+Seat 4: Koraseg (button) (small blind) collected ($6)
+
+
+PokerStars Hand #165339604071:  Hold'em Limit ($3/$6 USD) - 2017/01/29 5:03:52 ET
+Table 'Megaira' 6-max Seat #4 is the button
+Seat 3: macca04 ($13.44 in chips)
+Seat 4: Koraseg ($140.50 in chips)
+Koraseg: posts small blind $1
+macca04: posts big blind $3
+*** HOLE CARDS ***
+Koraseg: raises $3 to $6
+macca04: calls $3
+*** FLOP *** [Qc 4s 3d]
+macca04: checks
+Koraseg: bets $3
+macca04: raises $3 to $6
+Koraseg: raises $3 to $9
+macca04: calls $1.44 and is all-in
+Uncalled bet ($1.56) returned to Koraseg
+*** TURN *** [Qc 4s 3d] [9s]
+*** RIVER *** [Qc 4s 3d 9s] [Qh]
+*** SHOW DOWN ***
+macca04: shows [Th 3h] (two pair, Queens and Threes)
+Koraseg: shows [6s Qd] (three of a kind, Queens)
+Koraseg collected $26.38 from pot
+Koraseg leaves the table
+*** SUMMARY ***
+Total pot $26.88 | Rake $0.50
+Board [Qc 4s 3d 9s Qh]
+Seat 3: macca04 (big blind) showed [Th 3h] and lost with two pair, Queens and Threes
+Seat 4: Koraseg (button) (small blind) showed [6s Qd] and won ($26.38) with three of a kind, Queens
+
+

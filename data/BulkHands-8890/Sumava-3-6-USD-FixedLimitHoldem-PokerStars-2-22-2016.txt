@@ -1,0 +1,30 @@
+PokerStars Hand #149221263636:  Hold'em Limit ($3/$6 USD) - 2016/02/22 1:58:42 ET
+Table 'Sumava' 6-max Seat #4 is the button
+Seat 3: Bablonaut ($121.33 in chips)
+Seat 4: Agrotait ($72 in chips)
+Agrotait: posts small blind $1
+Bablonaut: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+Bablonaut: calls $3
+*** FLOP *** [2h 7d 8d]
+Bablonaut: checks
+Agrotait: bets $3
+Bablonaut: calls $3
+*** TURN *** [2h 7d 8d] [6s]
+Bablonaut: checks
+Agrotait: checks
+*** RIVER *** [2h 7d 8d 6s] [Jd]
+Bablonaut: checks
+Agrotait: checks
+*** SHOW DOWN ***
+Bablonaut: shows [Kc 9d] (high card King)
+Agrotait: shows [Ac 6c] (a pair of Sixes)
+Agrotait collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2h 7d 8d 6s Jd]
+Seat 3: Bablonaut (big blind) showed [Kc 9d] and lost with high card King
+Seat 4: Agrotait (button) (small blind) showed [Ac 6c] and won ($17.64) with a pair of Sixes
+
+

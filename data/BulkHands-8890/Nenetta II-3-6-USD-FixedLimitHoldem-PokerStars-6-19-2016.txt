@@ -1,0 +1,53 @@
+PokerStars Hand #154951255805:  Hold'em Limit ($3/$6 USD) - 2016/06/19 16:40:27 ET
+Table 'Nenetta II' 6-max Seat #3 is the button
+Seat 3: Azrarn ($147.66 in chips)
+Seat 6: gone2far ($75.69 in chips)
+Azrarn: posts small blind $1
+gone2far: posts big blind $3
+*** HOLE CARDS ***
+GRAILKO joins the table at seat #1
+Azrarn: raises $3 to $6
+tomte999 joins the table at seat #2
+gone2far: calls $3
+*** FLOP *** [5h Td 9h]
+gone2far: checks
+Azrarn: bets $3
+gone2far: calls $3
+*** TURN *** [5h Td 9h] [8d]
+gone2far: checks
+Azrarn: checks
+*** RIVER *** [5h Td 9h 8d] [3c]
+gone2far: bets $6
+Azrarn: folds
+Uncalled bet ($6) returned to gone2far
+gone2far collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5h Td 9h 8d 3c]
+Seat 3: Azrarn (button) (small blind) folded on the River
+Seat 6: gone2far (big blind) collected ($17.64)
+
+
+PokerStars Hand #154951340176:  Hold'em Limit ($3/$6 USD) - 2016/06/19 16:42:12 ET
+Table 'Nenetta II' 6-max Seat #1 is the button
+Seat 1: GRAILKO ($200.04 in chips)
+Seat 2: tomte999 ($72 in chips)
+GRAILKO: posts small blind $1
+tomte999: posts big blind $3
+*** HOLE CARDS ***
+GRAILKO: raises $3 to $6
+tomte999: raises $3 to $9
+GRAILKO: calls $3
+*** FLOP *** [6h Ad 5h]
+tomte999: bets $3
+GRAILKO: folds
+Uncalled bet ($3) returned to tomte999
+tomte999 collected $17.64 from pot
+tomte999: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6h Ad 5h]
+Seat 1: GRAILKO (button) (small blind) folded on the Flop
+Seat 2: tomte999 (big blind) collected ($17.64)
+
+

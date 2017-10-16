@@ -1,0 +1,33 @@
+PokerStars Hand #166563406077:  Hold'em Limit ($3/$6 USD) - 2017/02/21 14:08:28 ET
+Table 'Zita II' 6-max Seat #6 is the button
+Seat 3: kia7YHA ($47.51 in chips)
+Seat 6: komnor4 ($41.88 in chips)
+komnor4: posts small blind $1
+kia7YHA: posts big blind $3
+*** HOLE CARDS ***
+komnor4: raises $3 to $6
+kia7YHA: calls $3
+*** FLOP *** [3d 4c 3s]
+kia7YHA: checks
+komnor4: bets $3
+kia7YHA: calls $3
+*** TURN *** [3d 4c 3s] [7s]
+kia7YHA: checks
+komnor4: bets $6
+kia7YHA: calls $6
+*** RIVER *** [3d 4c 3s 7s] [5h]
+kia7YHA: checks
+komnor4: bets $6
+TheU10 joins the table at seat #1
+kia7YHA: calls $6
+*** SHOW DOWN ***
+komnor4: shows [Ad 7h] (two pair, Sevens and Threes)
+kia7YHA: mucks hand
+komnor4 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [3d 4c 3s 7s 5h]
+Seat 3: kia7YHA (big blind) mucked
+Seat 6: komnor4 (button) (small blind) showed [Ad 7h] and won ($41.50) with two pair, Sevens and Threes
+
+

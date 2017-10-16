@@ -1,0 +1,29 @@
+PokerStars Hand #149361966339:  Hold'em Limit ($3/$6 USD) - 2016/02/24 17:21:09 ET
+Table 'Paris II' 6-max Seat #6 is the button
+Seat 1: VolkovDmitri ($137.50 in chips)
+Seat 6: Humtum81 ($20 in chips)
+Humtum81: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Humtum81: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+Humtum81: calls $3
+*** FLOP *** [7c 8c 3s]
+VolkovDmitri: bets $3
+Humtum81: calls $3
+*** TURN *** [7c 8c 3s] [3d]
+VolkovDmitri: bets $6
+Humtum81: raises $2 to $8 and is all-in
+VolkovDmitri: calls $2
+*** RIVER *** [7c 8c 3s 3d] [As]
+*** SHOW DOWN ***
+VolkovDmitri: shows [Td Tc] (two pair, Tens and Threes)
+Humtum81: shows [Qs 9d] (a pair of Threes)
+VolkovDmitri collected $39.50 from pot
+*** SUMMARY ***
+Total pot $40 | Rake $0.50
+Board [7c 8c 3s 3d As]
+Seat 1: VolkovDmitri (big blind) showed [Td Tc] and won ($39.50) with two pair, Tens and Threes
+Seat 6: Humtum81 (button) (small blind) showed [Qs 9d] and lost with a pair of Threes
+
+

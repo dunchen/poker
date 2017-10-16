@@ -1,0 +1,108 @@
+PokerStars Hand #162905013469:  Hold'em Limit ($3/$6 USD) - 2016/12/13 18:16:45 ET
+Table 'Vesta' 6-max Seat #1 is the button
+Seat 1: LifeisagameX ($84 in chips)
+Seat 6: cbarnes ($212.52 in chips)
+LifeisagameX: posts small blind $1
+cbarnes: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+cbarnes: folds
+Uncalled bet ($3) returned to LifeisagameX
+kusznak joins the table at seat #2
+LifeisagameX collected $6 from pot
+LifeisagameX: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: LifeisagameX (button) (small blind) collected ($6)
+Seat 6: cbarnes (big blind) folded before Flop
+
+
+PokerStars Hand #162905003540:  Hold'em Limit ($3/$6 USD) - 2016/12/13 18:16:33 ET
+Table 'Vesta' 6-max Seat #6 is the button
+Seat 1: LifeisagameX ($87 in chips)
+Seat 6: cbarnes ($206.76 in chips)
+cbarnes: posts small blind $1
+LifeisagameX: posts big blind $3
+*** HOLE CARDS ***
+cbarnes: raises $3 to $6
+LifeisagameX: calls $3
+*** FLOP *** [Ks 4d 7c]
+LifeisagameX: checks
+cbarnes: bets $3
+LifeisagameX: folds
+Uncalled bet ($3) returned to cbarnes
+cbarnes collected $11.76 from pot
+cbarnes: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ks 4d 7c]
+Seat 1: LifeisagameX (big blind) folded on the Flop
+Seat 6: cbarnes (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #162905074975:  Hold'em Limit ($3/$6 USD) - 2016/12/13 18:17:59 ET
+Table 'Vesta' 6-max Seat #2 is the button
+Seat 2: kusznak ($114 in chips)
+Seat 6: cbarnes ($242.63 in chips)
+kusznak: posts small blind $1
+cbarnes: posts big blind $3
+*** HOLE CARDS ***
+kusznak: raises $3 to $6
+cbarnes: calls $3
+*** FLOP *** [4h Jd 9h]
+cbarnes: checks
+kusznak: bets $3
+cbarnes: raises $3 to $6
+kusznak: raises $3 to $9
+cbarnes: calls $3
+*** TURN *** [4h Jd 9h] [9c]
+cbarnes: checks
+kusznak: bets $6
+cbarnes: calls $6
+*** RIVER *** [4h Jd 9h 9c] [6h]
+cbarnes: checks
+kusznak: checks
+*** SHOW DOWN ***
+cbarnes: shows [4d Qs] (two pair, Nines and Fours)
+kusznak: shows [8h Js] (two pair, Jacks and Nines)
+kusznak collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [4h Jd 9h 9c 6h]
+Seat 2: kusznak (button) (small blind) showed [8h Js] and won ($41.50) with two pair, Jacks and Nines
+Seat 6: cbarnes (big blind) showed [4d Qs] and lost with two pair, Nines and Fours
+
+
+PokerStars Hand #162905019644:  Hold'em Limit ($3/$6 USD) - 2016/12/13 18:16:53 ET
+Table 'Vesta' 6-max Seat #6 is the button
+Seat 1: LifeisagameX ($87 in chips)
+Seat 6: cbarnes ($209.52 in chips)
+cbarnes: posts small blind $1
+LifeisagameX: posts big blind $3
+*** HOLE CARDS ***
+cbarnes: raises $3 to $6
+LifeisagameX: calls $3
+*** FLOP *** [5h 9d 4h]
+LifeisagameX: checks
+cbarnes: bets $3
+LifeisagameX: calls $3
+*** TURN *** [5h 9d 4h] [6s]
+LifeisagameX: checks
+cbarnes: bets $6
+LifeisagameX: raises $6 to $12
+cbarnes: raises $6 to $18
+LifeisagameX: calls $6
+*** RIVER *** [5h 9d 4h 6s] [7d]
+LifeisagameX: checks
+cbarnes: bets $6
+LifeisagameX: folds
+Uncalled bet ($6) returned to cbarnes
+cbarnes collected $53.50 from pot
+cbarnes: doesn't show hand
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [5h 9d 4h 6s 7d]
+Seat 1: LifeisagameX (big blind) folded on the River
+Seat 6: cbarnes (button) (small blind) collected ($53.50)
+
+

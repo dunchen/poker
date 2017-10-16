@@ -1,0 +1,31 @@
+PokerStars Hand #168445784993:  Hold'em Limit ($3/$6 USD) - 2017/04/01 20:26:50 ET
+Table 'Misenus' 6-max Seat #2 is the button
+Seat 2: Great_Kang ($181.40 in chips)
+Seat 6: DieEXE ($153.15 in chips)
+Great_Kang: posts small blind $1
+DieEXE: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+DieEXE: calls $3
+*** FLOP *** [Kc 9s 2d]
+DieEXE: checks
+Great_Kang: checks
+*** TURN *** [Kc 9s 2d] [Ad]
+DieEXE: checks
+Great_Kang: bets $6
+DieEXE: calls $6
+*** RIVER *** [Kc 9s 2d Ad] [Qc]
+DieEXE: checks
+Great_Kang: bets $6
+DieEXE: calls $6
+*** SHOW DOWN ***
+Great_Kang: shows [Jc Ah] (a pair of Aces)
+DieEXE: mucks hand
+Great_Kang collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Kc 9s 2d Ad Qc]
+Seat 2: Great_Kang (button) (small blind) showed [Jc Ah] and won ($35.50) with a pair of Aces
+Seat 6: DieEXE (big blind) mucked
+
+

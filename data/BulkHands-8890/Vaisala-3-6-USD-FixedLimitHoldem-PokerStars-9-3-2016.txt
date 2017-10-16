@@ -1,0 +1,397 @@
+PokerStars Hand #158094154023:  Hold'em Limit ($3/$6 USD) - 2016/09/03 5:30:22 ET
+Table 'Vaisala' 6-max Seat #4 is the button
+Seat 2: libaikang ($99 in chips)
+Seat 4: VolkovDmitri ($140.50 in chips)
+VolkovDmitri: posts small blind $1
+libaikang: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: folds
+Uncalled bet ($2) returned to libaikang
+libaikang collected $2 from pot
+libaikang: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: libaikang (big blind) collected ($2)
+Seat 4: VolkovDmitri (button) (small blind) folded before Flop
+
+
+PokerStars Hand #158094142824:  Hold'em Limit ($3/$6 USD) - 2016/09/03 5:29:53 ET
+Table 'Vaisala' 6-max Seat #2 is the button
+Seat 2: libaikang ($120 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+libaikang: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+libaikang: calls $2
+VolkovDmitri: raises $3 to $6
+libaikang: calls $3
+*** FLOP *** [8h 7s 2c]
+VolkovDmitri: bets $3
+libaikang: calls $3
+*** TURN *** [8h 7s 2c] [9d]
+VolkovDmitri: bets $6
+libaikang: raises $6 to $12
+VolkovDmitri: calls $6
+*** RIVER *** [8h 7s 2c 9d] [Js]
+VolkovDmitri: checks
+libaikang: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [9h 5h] (a pair of Nines)
+libaikang: mucks hand
+VolkovDmitri collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [8h 7s 2c 9d Js]
+Seat 2: libaikang (button) (small blind) mucked
+Seat 4: VolkovDmitri (big blind) showed [9h 5h] and won ($41.50) with a pair of Nines
+
+
+PokerStars Hand #158094156951:  Hold'em Limit ($3/$6 USD) - 2016/09/03 5:30:30 ET
+Table 'Vaisala' 6-max Seat #2 is the button
+Seat 2: libaikang ($100 in chips)
+Seat 4: VolkovDmitri ($139.50 in chips)
+libaikang: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+libaikang: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [8c 7s Ac]
+VolkovDmitri: checks
+libaikang: bets $3
+VolkovDmitri: raises $3 to $6
+libaikang: calls $3
+*** TURN *** [8c 7s Ac] [9s]
+VolkovDmitri: bets $6
+libaikang: calls $6
+*** RIVER *** [8c 7s Ac 9s] [5s]
+VolkovDmitri: checks
+libaikang: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to libaikang
+libaikang collected $35.50 from pot
+libaikang: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [8c 7s Ac 9s 5s]
+Seat 2: libaikang (button) (small blind) collected ($35.50)
+Seat 4: VolkovDmitri (big blind) folded on the River
+
+
+PokerStars Hand #158094172596:  Hold'em Limit ($3/$6 USD) - 2016/09/03 5:31:10 ET
+Table 'Vaisala' 6-max Seat #4 is the button
+Seat 2: libaikang ($117.50 in chips)
+Seat 4: VolkovDmitri ($121.50 in chips)
+VolkovDmitri: posts small blind $1
+libaikang: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+libaikang: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [8h 7s 6d]
+libaikang: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [8h 7s 6d] [3s]
+libaikang: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [8h 7s 6d 3s] [Jc]
+libaikang: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+libaikang: shows [Kh 6h] (a pair of Sixes)
+VolkovDmitri: mucks hand
+libaikang collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8h 7s 6d 3s Jc]
+Seat 2: libaikang (big blind) showed [Kh 6h] and won ($47.50) with a pair of Sixes
+Seat 4: VolkovDmitri (button) (small blind) mucked
+
+
+PokerStars Hand #158094186453:  Hold'em Limit ($3/$6 USD) - 2016/09/03 5:31:46 ET
+Table 'Vaisala' 6-max Seat #2 is the button
+Seat 2: libaikang ($141 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+libaikang: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+libaikang: calls $2
+VolkovDmitri: checks
+*** FLOP *** [8s 2c 6c]
+VolkovDmitri: checks
+libaikang: checks
+*** TURN *** [8s 2c 6c] [Td]
+VolkovDmitri: checks
+libaikang: checks
+*** RIVER *** [8s 2c 6c Td] [7d]
+VolkovDmitri: bets $6
+libaikang: raises $6 to $12
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+libaikang: shows [5h 9s] (a straight, Six to Ten)
+VolkovDmitri: shows [4s 9h] (a straight, Six to Ten)
+VolkovDmitri collected $14.75 from pot
+libaikang collected $14.75 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8s 2c 6c Td 7d]
+Seat 2: libaikang (button) (small blind) showed [5h 9s] and won ($14.75) with a straight, Six to Ten
+Seat 4: VolkovDmitri (big blind) showed [4s 9h] and won ($14.75) with a straight, Six to Ten
+
+
+PokerStars Hand #158094205622:  Hold'em Limit ($3/$6 USD) - 2016/09/03 5:32:35 ET
+Table 'Vaisala' 6-max Seat #4 is the button
+Seat 2: libaikang ($140.75 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+libaikang: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+libaikang: calls $3
+*** FLOP *** [Qd 9s Qc]
+libaikang: checks
+VolkovDmitri: bets $3
+libaikang: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [Qd 9s Qc] [Tc]
+libaikang: checks
+VolkovDmitri: checks
+*** RIVER *** [Qd 9s Qc Tc] [4c]
+libaikang: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to libaikang
+libaikang collected $23.52 from pot
+libaikang: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Qd 9s Qc Tc 4c]
+Seat 2: libaikang (big blind) collected ($23.52)
+Seat 4: VolkovDmitri (button) (small blind) folded on the River
+
+
+PokerStars Hand #158094235562:  Hold'em Limit ($3/$6 USD) - 2016/09/03 5:33:53 ET
+Table 'Vaisala' 6-max Seat #4 is the button
+Seat 2: libaikang ($158.03 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+libaikang: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+libaikang: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: libaikang (big blind) folded before Flop
+Seat 4: VolkovDmitri (button) (small blind) collected ($6)
+
+
+PokerStars Hand #158094220620:  Hold'em Limit ($3/$6 USD) - 2016/09/03 5:33:14 ET
+Table 'Vaisala' 6-max Seat #2 is the button
+Seat 2: libaikang ($152.27 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+libaikang: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+libaikang: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [4d Kc 3d]
+VolkovDmitri: checks
+libaikang: checks
+*** TURN *** [4d Kc 3d] [Jh]
+VolkovDmitri: checks
+libaikang: checks
+*** RIVER *** [4d Kc 3d Jh] [Th]
+VolkovDmitri: checks
+libaikang: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [5s Ac] (high card Ace)
+libaikang: shows [As 8d] (high card Ace - King+Jack+Ten+Eight kicker)
+libaikang collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4d Kc 3d Jh Th]
+Seat 2: libaikang (button) (small blind) showed [As 8d] and won ($11.76) with high card Ace
+Seat 4: VolkovDmitri (big blind) showed [5s Ac] and lost with high card Ace
+
+
+PokerStars Hand #158094239169:  Hold'em Limit ($3/$6 USD) - 2016/09/03 5:34:02 ET
+Table 'Vaisala' 6-max Seat #2 is the button
+Seat 2: libaikang ($155.03 in chips)
+Seat 4: VolkovDmitri ($123 in chips)
+libaikang: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+libaikang: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [8d 9d 3d]
+VolkovDmitri: checks
+libaikang: checks
+*** TURN *** [8d 9d 3d] [Kd]
+VolkovDmitri: checks
+libaikang: checks
+*** RIVER *** [8d 9d 3d Kd] [7h]
+VolkovDmitri: checks
+libaikang: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+libaikang: shows [5h Ks] (a pair of Kings)
+VolkovDmitri: shows [6h Kc] (a pair of Kings)
+VolkovDmitri collected $11.76 from pot
+libaikang collected $11.76 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [8d 9d 3d Kd 7h]
+Seat 2: libaikang (button) (small blind) showed [5h Ks] and won ($11.76) with a pair of Kings
+Seat 4: VolkovDmitri (big blind) showed [6h Kc] and won ($11.76) with a pair of Kings
+
+
+PokerStars Hand #158094268157:  Hold'em Limit ($3/$6 USD) - 2016/09/03 5:35:17 ET
+Table 'Vaisala' 6-max Seat #4 is the button
+Seat 2: libaikang ($154.79 in chips)
+Seat 4: VolkovDmitri ($122.76 in chips)
+VolkovDmitri: posts small blind $1
+libaikang: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+libaikang: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: libaikang (big blind) folded before Flop
+Seat 4: VolkovDmitri (button) (small blind) collected ($6)
+
+
+PokerStars Hand #158094274525:  Hold'em Limit ($3/$6 USD) - 2016/09/03 5:35:33 ET
+Table 'Vaisala' 6-max Seat #2 is the button
+Seat 2: libaikang ($151.79 in chips)
+Seat 4: VolkovDmitri ($125.76 in chips)
+libaikang: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+libaikang: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Td 6c Qd]
+VolkovDmitri: checks
+libaikang: bets $3
+VolkovDmitri: folds
+Uncalled bet ($3) returned to libaikang
+libaikang collected $11.76 from pot
+libaikang: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Td 6c Qd]
+Seat 2: libaikang (button) (small blind) collected ($11.76)
+Seat 4: VolkovDmitri (big blind) folded on the Flop
+
+
+PokerStars Hand #158094295959:  Hold'em Limit ($3/$6 USD) - 2016/09/03 5:36:28 ET
+Table 'Vaisala' 6-max Seat #4 is the button
+Seat 2: libaikang ($157.55 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+libaikang: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+libaikang: calls $3
+*** FLOP *** [3s 2h 7d]
+libaikang: checks
+VolkovDmitri: bets $3
+libaikang: calls $3
+*** TURN *** [3s 2h 7d] [9d]
+libaikang: checks
+VolkovDmitri: bets $6
+libaikang: calls $6
+*** RIVER *** [3s 2h 7d 9d] [Js]
+libaikang: checks
+VolkovDmitri: bets $6
+libaikang: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Jh Jc] (three of a kind, Jacks)
+libaikang: mucks hand
+VolkovDmitri collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [3s 2h 7d 9d Js]
+Seat 2: libaikang (big blind) mucked
+Seat 4: VolkovDmitri (button) (small blind) showed [Jh Jc] and won ($41.50) with three of a kind, Jacks
+
+
+PokerStars Hand #158094321984:  Hold'em Limit ($3/$6 USD) - 2016/09/03 5:37:35 ET
+Table 'Vaisala' 6-max Seat #4 is the button
+Seat 2: libaikang ($135.55 in chips)
+Seat 4: VolkovDmitri ($141.50 in chips)
+VolkovDmitri: posts small blind $1
+libaikang: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+libaikang: calls $3
+*** FLOP *** [8c Kd Ad]
+libaikang: checks
+VolkovDmitri: bets $3
+libaikang: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [8c Kd Ad] [Qc]
+libaikang: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to libaikang
+libaikang collected $23.52 from pot
+libaikang: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [8c Kd Ad Qc]
+Seat 2: libaikang (big blind) collected ($23.52)
+Seat 4: VolkovDmitri (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #158094357261:  Hold'em Limit ($3/$6 USD) - 2016/09/03 5:39:05 ET
+Table 'Vaisala' 6-max Seat #4 is the button
+Seat 2: libaikang ($123.07 in chips)
+Seat 4: VolkovDmitri ($153 in chips)
+VolkovDmitri: posts small blind $1
+libaikang: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+libaikang: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: libaikang (big blind) folded before Flop
+Seat 4: VolkovDmitri (button) (small blind) collected ($6)
+
+
+PokerStars Hand #158094343271:  Hold'em Limit ($3/$6 USD) - 2016/09/03 5:38:30 ET
+Table 'Vaisala' 6-max Seat #2 is the button
+Seat 2: libaikang ($147.07 in chips)
+Seat 4: VolkovDmitri ($129.50 in chips)
+libaikang: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+libaikang: calls $2
+VolkovDmitri: checks
+*** FLOP *** [4h 7c 4s]
+VolkovDmitri: bets $3
+libaikang: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+libaikang: calls $3
+*** TURN *** [4h 7c 4s] [3c]
+VolkovDmitri: bets $6
+libaikang: calls $6
+*** RIVER *** [4h 7c 4s 3c] [3d]
+VolkovDmitri: bets $6
+libaikang: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [7s 3s] (a full house, Threes full of Sevens)
+libaikang: mucks hand
+VolkovDmitri collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4h 7c 4s 3c 3d]
+Seat 2: libaikang (button) (small blind) mucked
+Seat 4: VolkovDmitri (big blind) showed [7s 3s] and won ($47.50) with a full house, Threes full of Sevens
+
+

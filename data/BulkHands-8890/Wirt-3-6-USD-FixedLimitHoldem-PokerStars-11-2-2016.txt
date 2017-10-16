@@ -1,0 +1,65 @@
+PokerStars Hand #160806416315:  Hold'em Limit ($3/$6 USD) - 2016/11/02 16:47:08 ET
+Table 'Wirt' 10-max Seat #5 is the button
+Seat 1: Zubasa07 ($505.76 in chips)
+Seat 5: 2DaTango ($112.62 in chips)
+2DaTango: posts small blind $1
+Zubasa07: posts big blind $3
+*** HOLE CARDS ***
+2DaTango: calls $2
+Zubasa07: raises $3 to $6
+2DaTango: calls $3
+*** FLOP *** [9s 2c 8d]
+Zubasa07: bets $3
+2DaTango: raises $3 to $6
+Zubasa07: calls $3
+*** TURN *** [9s 2c 8d] [2s]
+Chessnok joins the table at seat #6
+Zubasa07: checks
+2DaTango: checks
+*** RIVER *** [9s 2c 8d 2s] [Qh]
+Zubasa07: checks
+2DaTango: bets $6
+Zubasa07: calls $6
+*** SHOW DOWN ***
+2DaTango: shows [5s 6s] (a pair of Deuces)
+Zubasa07: shows [Ah 6d] (a pair of Deuces - Ace kicker)
+Zubasa07 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [9s 2c 8d 2s Qh]
+Seat 1: Zubasa07 (big blind) showed [Ah 6d] and won ($35.50) with a pair of Deuces
+Seat 5: 2DaTango (button) (small blind) showed [5s 6s] and lost with a pair of Deuces
+
+
+PokerStars Hand #160806478203:  Hold'em Limit ($3/$6 USD) - 2016/11/02 16:48:04 ET
+Table 'Wirt' 10-max Seat #1 is the button
+Seat 1: Zubasa07 ($523.26 in chips)
+Seat 5: 2DaTango ($94.62 in chips)
+Zubasa07: posts small blind $1
+2DaTango: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+2DaTango: raises $3 to $9
+Zubasa07: calls $3
+*** FLOP *** [Jc 3s 7s]
+2DaTango: bets $3
+Zubasa07: calls $3
+*** TURN *** [Jc 3s 7s] [8s]
+2DaTango: checks
+Zubasa07: bets $6
+2DaTango: calls $6
+*** RIVER *** [Jc 3s 7s 8s] [Kd]
+2DaTango: bets $6
+vestimokrec joins the table at seat #7
+Zubasa07: calls $6
+*** SHOW DOWN ***
+2DaTango: shows [Ks Qd] (a pair of Kings)
+Zubasa07: mucks hand
+2DaTango collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Jc 3s 7s 8s Kd]
+Seat 1: Zubasa07 (button) (small blind) mucked
+Seat 5: 2DaTango (big blind) showed [Ks Qd] and won ($47.50) with a pair of Kings
+
+

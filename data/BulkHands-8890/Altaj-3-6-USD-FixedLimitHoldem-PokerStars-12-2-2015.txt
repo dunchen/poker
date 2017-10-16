@@ -1,0 +1,30 @@
+PokerStars Hand #144687904253:  Hold'em Limit ($3/$6 USD) - 2015/12/01 19:17:02 ET
+Table 'Altaj' 6-max Seat #6 is the button
+Seat 1: mdif ($120 in chips)
+Seat 6: kamalhohoho ($121 in chips)
+kamalhohoho: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+kamalhohoho: raises $3 to $6
+mdif: raises $3 to $9
+kamalhohoho: calls $3
+*** FLOP *** [5s Td Th]
+mdif: bets $3
+kamalhohoho: calls $3
+*** TURN *** [5s Td Th] [Qd]
+mdif: bets $6
+kamalhohoho: calls $6
+*** RIVER *** [5s Td Th Qd] [Kd]
+mdif: bets $6
+kamalhohoho: calls $6
+*** SHOW DOWN ***
+mdif: shows [Tc Kc] (a full house, Tens full of Kings)
+kamalhohoho: mucks hand
+mdif collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [5s Td Th Qd Kd]
+Seat 1: mdif (big blind) showed [Tc Kc] and won ($47.50) with a full house, Tens full of Kings
+Seat 6: kamalhohoho (button) (small blind) mucked
+
+

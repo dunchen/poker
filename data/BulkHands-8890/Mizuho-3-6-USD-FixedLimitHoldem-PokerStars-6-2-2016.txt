@@ -1,0 +1,105 @@
+PokerStars Hand #154184666121:  Hold'em Limit ($3/$6 USD) - 2016/06/02 10:34:31 ET
+Table 'Mizuho' 6-max Seat #6 is the button
+Seat 1: Ale4o ($123 in chips)
+Seat 6: 19woody58 ($117 in chips)
+19woody58: posts small blind $1
+Ale4o: posts big blind $3
+*** HOLE CARDS ***
+19woody58: raises $3 to $6
+Ale4o: folds
+Uncalled bet ($3) returned to 19woody58
+19woody58 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: Ale4o (big blind) folded before Flop
+Seat 6: 19woody58 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #154184659580:  Hold'em Limit ($3/$6 USD) - 2016/06/02 10:34:20 ET
+Table 'Mizuho' 6-max Seat #1 is the button
+Seat 1: Ale4o ($120 in chips)
+Seat 6: 19woody58 ($120 in chips)
+TbIP-TbIP 88: is sitting out
+TbIP-TbIP 88 leaves the table
+Ale4o: posts small blind $1
+19woody58: posts big blind $3
+*** HOLE CARDS ***
+Ale4o: raises $3 to $6
+19woody58: folds
+Uncalled bet ($3) returned to Ale4o
+B_loJkl joins the table at seat #2
+Ale4o collected $6 from pot
+Ale4o: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: Ale4o (button) (small blind) collected ($6)
+Seat 6: 19woody58 (big blind) folded before Flop
+
+
+PokerStars Hand #154184873083:  Hold'em Limit ($3/$6 USD) - 2016/06/02 10:40:06 ET
+Table 'Mizuho' 6-max Seat #3 is the button
+Seat 3: tomte999 ($72 in chips)
+Seat 5: dalton135 ($107.21 in chips)
+tomte999: posts small blind $1
+dalton135: posts big blind $3
+*** HOLE CARDS ***
+tomte999: raises $3 to $6
+dalton135: raises $3 to $9
+tomte999: calls $3
+*** FLOP *** [6d 3d Kh]
+dalton135: checks
+tomte999: checks
+*** TURN *** [6d 3d Kh] [9s]
+dalton135: bets $6
+tomte999: calls $6
+*** RIVER *** [6d 3d Kh 9s] [Js]
+dalton135: bets $6
+tomte999: calls $6
+*** SHOW DOWN ***
+dalton135: shows [Jd As] (a pair of Jacks)
+tomte999: mucks hand
+dalton135 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [6d 3d Kh 9s Js]
+Seat 3: tomte999 (button) (small blind) mucked
+Seat 5: dalton135 (big blind) showed [Jd As] and won ($41.50) with a pair of Jacks
+
+
+PokerStars Hand #154184848544:  Hold'em Limit ($3/$6 USD) - 2016/06/02 10:39:26 ET
+Table 'Mizuho' 6-max Seat #5 is the button
+Seat 3: tomte999 ($72 in chips)
+Seat 5: dalton135 ($86.71 in chips)
+dalton135: posts small blind $1
+Ale4o: is sitting out
+B_loJkl: is sitting out
+tomte999: posts big blind $3
+*** HOLE CARDS ***
+dalton135: raises $3 to $6
+Ale4o leaves the table
+B_loJkl leaves the table
+tomte999: calls $3
+*** FLOP *** [As 5s 3c]
+tomte999: checks
+B_loJkl joins the table at seat #6
+dalton135: bets $3
+tomte999: calls $3
+*** TURN *** [As 5s 3c] [Ac]
+tomte999: checks
+dalton135: bets $6
+tomte999: calls $6
+*** RIVER *** [As 5s 3c Ac] [6s]
+tomte999: checks
+dalton135: bets $6
+tomte999: calls $6
+*** SHOW DOWN ***
+dalton135: shows [Ah 6h] (a full house, Aces full of Sixes)
+tomte999: mucks hand
+dalton135 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [As 5s 3c Ac 6s]
+Seat 3: tomte999 (big blind) mucked
+Seat 5: dalton135 (button) (small blind) showed [Ah 6h] and won ($41.50) with a full house, Aces full of Sixes
+
+

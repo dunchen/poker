@@ -1,0 +1,610 @@
+PokerStars Hand #153762071680:  Hold'em Limit ($3/$6 USD) - 2016/05/24 1:17:39 ET
+Table 'Echepolos' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($120 in chips)
+Seat 5: HappyJiHAD ($30.20 in chips)
+VolkovDmitri: posts small blind $1
+HappyJiHAD: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+HappyJiHAD: calls $3
+*** FLOP *** [Kh 6s 3c]
+HappyJiHAD: checks
+VolkovDmitri: bets $3
+HappyJiHAD: raises $3 to $6
+VolkovDmitri: calls $3
+*** TURN *** [Kh 6s 3c] [2h]
+HappyJiHAD: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [Kh 6s 3c 2h] [Qc]
+HappyJiHAD: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+HappyJiHAD: shows [9c Ad] (high card Ace)
+VolkovDmitri: shows [7h 7d] (a pair of Sevens)
+VolkovDmitri collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Kh 6s 3c 2h Qc]
+Seat 4: VolkovDmitri (button) (small blind) showed [7h 7d] and won ($47.50) with a pair of Sevens
+Seat 5: HappyJiHAD (big blind) showed [9c Ad] and lost with high card Ace
+
+
+PokerStars Hand #153762082548:  Hold'em Limit ($3/$6 USD) - 2016/05/24 1:18:23 ET
+Table 'Echepolos' 6-max Seat #5 is the button
+Seat 4: VolkovDmitri ($143.50 in chips)
+Seat 5: HappyJiHAD ($6.20 in chips)
+HappyJiHAD: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+HappyJiHAD: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Td 5h As]
+VolkovDmitri: checks
+HappyJiHAD: bets $0.20 and is all-in
+VolkovDmitri: calls $0.20
+*** TURN *** [Td 5h As] [5c]
+*** RIVER *** [Td 5h As 5c] [Kc]
+*** SHOW DOWN ***
+VolkovDmitri: shows [Qs Ts] (two pair, Tens and Fives)
+HappyJiHAD: shows [3h 7h] (a pair of Fives)
+HappyJiHAD leaves the table
+VolkovDmitri collected $12.15 from pot
+*** SUMMARY ***
+Total pot $12.40 | Rake $0.25
+Board [Td 5h As 5c Kc]
+Seat 4: VolkovDmitri (big blind) showed [Qs Ts] and won ($12.15) with two pair, Tens and Fives
+Seat 5: HappyJiHAD (button) (small blind) showed [3h 7h] and lost with a pair of Fives
+
+
+PokerStars Hand #153763020633:  Hold'em Limit ($3/$6 USD) - 2016/05/24 2:21:47 ET
+Table 'Echepolos' 6-max Seat #3 is the button
+Seat 3: chip_diddler ($57.21 in chips)
+Seat 4: VolkovDmitri ($129.97 in chips)
+chip_diddler: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+chip_diddler: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [3c Qh 7h]
+VolkovDmitri: checks
+chip_diddler: bets $3
+VolkovDmitri: folds
+Uncalled bet ($3) returned to chip_diddler
+chip_diddler collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3c Qh 7h]
+Seat 3: chip_diddler (button) (small blind) collected ($11.76)
+Seat 4: VolkovDmitri (big blind) folded on the Flop
+
+
+PokerStars Hand #153763030073:  Hold'em Limit ($3/$6 USD) - 2016/05/24 2:22:24 ET
+Table 'Echepolos' 6-max Seat #3 is the button
+Seat 3: chip_diddler ($59.97 in chips)
+Seat 4: VolkovDmitri ($126.97 in chips)
+chip_diddler: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+chip_diddler: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: chip_diddler (button) (small blind) folded before Flop
+Seat 4: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #153763031420:  Hold'em Limit ($3/$6 USD) - 2016/05/24 2:22:30 ET
+Table 'Echepolos' 6-max Seat #4 is the button
+Seat 3: chip_diddler ($58.97 in chips)
+Seat 4: VolkovDmitri ($127.97 in chips)
+VolkovDmitri: posts small blind $1
+chip_diddler: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+chip_diddler: calls $3
+*** FLOP *** [5s 2h 8h]
+chip_diddler: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [5s 2h 8h] [Qc]
+chip_diddler: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to chip_diddler
+chip_diddler collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5s 2h 8h Qc]
+Seat 3: chip_diddler (big blind) collected ($17.64)
+Seat 4: VolkovDmitri (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #153763027706:  Hold'em Limit ($3/$6 USD) - 2016/05/24 2:22:15 ET
+Table 'Echepolos' 6-max Seat #4 is the button
+Seat 3: chip_diddler ($62.97 in chips)
+Seat 4: VolkovDmitri ($123.97 in chips)
+VolkovDmitri: posts small blind $1
+chip_diddler: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+chip_diddler: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: chip_diddler (big blind) folded before Flop
+Seat 4: VolkovDmitri (button) (small blind) collected ($6)
+
+
+PokerStars Hand #153763051436:  Hold'em Limit ($3/$6 USD) - 2016/05/24 2:23:50 ET
+Table 'Echepolos' 6-max Seat #3 is the button
+Seat 3: chip_diddler ($45.61 in chips)
+Seat 4: VolkovDmitri ($141.50 in chips)
+chip_diddler: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+chip_diddler: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: chip_diddler (button) (small blind) folded before Flop
+Seat 4: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #153763040886:  Hold'em Limit ($3/$6 USD) - 2016/05/24 2:23:08 ET
+Table 'Echepolos' 6-max Seat #4 is the button
+Seat 3: chip_diddler ($66.61 in chips)
+Seat 4: VolkovDmitri ($121 in chips)
+VolkovDmitri: posts small blind $1
+chip_diddler: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+chip_diddler: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [6h 8s Tc]
+chip_diddler: bets $3
+VolkovDmitri: raises $3 to $6
+chip_diddler: calls $3
+*** TURN *** [6h 8s Tc] [Qd]
+chip_diddler: checks
+VolkovDmitri: bets $6
+chip_diddler: calls $6
+*** RIVER *** [6h 8s Tc Qd] [2s]
+chip_diddler: checks
+VolkovDmitri: bets $6
+chip_diddler: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $41.50 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [6h 8s Tc Qd 2s]
+Seat 3: chip_diddler (big blind) folded on the River
+Seat 4: VolkovDmitri (button) (small blind) collected ($41.50)
+
+
+PokerStars Hand #153763039103:  Hold'em Limit ($3/$6 USD) - 2016/05/24 2:23:01 ET
+Table 'Echepolos' 6-max Seat #3 is the button
+Seat 3: chip_diddler ($67.61 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+chip_diddler: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+chip_diddler: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: chip_diddler (button) (small blind) folded before Flop
+Seat 4: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #153763052880:  Hold'em Limit ($3/$6 USD) - 2016/05/24 2:23:56 ET
+Table 'Echepolos' 6-max Seat #4 is the button
+Seat 3: chip_diddler ($44.61 in chips)
+Seat 4: VolkovDmitri ($142.50 in chips)
+VolkovDmitri: posts small blind $1
+chip_diddler: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+chip_diddler: calls $3
+*** FLOP *** [Ad 8d Th]
+chip_diddler: checks
+VolkovDmitri: bets $3
+chip_diddler: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ad 8d Th]
+Seat 3: chip_diddler (big blind) folded on the Flop
+Seat 4: VolkovDmitri (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #153763074094:  Hold'em Limit ($3/$6 USD) - 2016/05/24 2:25:21 ET
+Table 'Echepolos' 6-max Seat #4 is the button
+Seat 3: chip_diddler ($28.25 in chips)
+Seat 4: VolkovDmitri ($157.76 in chips)
+VolkovDmitri: posts small blind $1
+chip_diddler: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+chip_diddler: calls $3
+*** FLOP *** [5s 2h 3d]
+chip_diddler: checks
+VolkovDmitri: checks
+*** TURN *** [5s 2h 3d] [Qh]
+chip_diddler: checks
+VolkovDmitri: checks
+*** RIVER *** [5s 2h 3d Qh] [6s]
+chip_diddler: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to chip_diddler
+chip_diddler collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5s 2h 3d Qh 6s]
+Seat 3: chip_diddler (big blind) collected ($11.76)
+Seat 4: VolkovDmitri (button) (small blind) folded on the River
+
+
+PokerStars Hand #153763072845:  Hold'em Limit ($3/$6 USD) - 2016/05/24 2:25:16 ET
+Table 'Echepolos' 6-max Seat #3 is the button
+Seat 3: chip_diddler ($29.25 in chips)
+Seat 4: VolkovDmitri ($156.76 in chips)
+chip_diddler: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+chip_diddler: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: chip_diddler (button) (small blind) folded before Flop
+Seat 4: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #153763067509:  Hold'em Limit ($3/$6 USD) - 2016/05/24 2:24:54 ET
+Table 'Echepolos' 6-max Seat #4 is the button
+Seat 3: chip_diddler ($20.61 in chips)
+Seat 4: VolkovDmitri ($165.76 in chips)
+VolkovDmitri: posts small blind $1
+chip_diddler: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+chip_diddler: calls $3
+*** FLOP *** [Ks 5d 6h]
+chip_diddler: checks
+VolkovDmitri: bets $3
+chip_diddler: calls $3
+*** TURN *** [Ks 5d 6h] [5s]
+chip_diddler: checks
+VolkovDmitri: checks
+*** RIVER *** [Ks 5d 6h 5s] [7d]
+chip_diddler: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to chip_diddler
+chip_diddler collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ks 5d 6h 5s 7d]
+Seat 3: chip_diddler (big blind) collected ($17.64)
+Seat 4: VolkovDmitri (button) (small blind) folded on the River
+
+
+PokerStars Hand #153763082685:  Hold'em Limit ($3/$6 USD) - 2016/05/24 2:25:56 ET
+Table 'Echepolos' 6-max Seat #4 is the button
+Seat 3: chip_diddler ($33.01 in chips)
+Seat 4: VolkovDmitri ($152.76 in chips)
+VolkovDmitri: posts small blind $1
+chip_diddler: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: folds
+Uncalled bet ($2) returned to chip_diddler
+chip_diddler collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: chip_diddler (big blind) collected ($2)
+Seat 4: VolkovDmitri (button) (small blind) folded before Flop
+
+
+PokerStars Hand #153763081434:  Hold'em Limit ($3/$6 USD) - 2016/05/24 2:25:51 ET
+Table 'Echepolos' 6-max Seat #3 is the button
+Seat 3: chip_diddler ($34.01 in chips)
+Seat 4: VolkovDmitri ($151.76 in chips)
+chip_diddler: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+chip_diddler: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: chip_diddler (button) (small blind) folded before Flop
+Seat 4: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #153763093758:  Hold'em Limit ($3/$6 USD) - 2016/05/24 2:26:41 ET
+Table 'Echepolos' 6-max Seat #3 is the button
+Seat 3: chip_diddler ($43.65 in chips)
+Seat 4: VolkovDmitri ($141.76 in chips)
+chip_diddler: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+chip_diddler: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: chip_diddler (button) (small blind) folded before Flop
+Seat 4: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #153763091927:  Hold'em Limit ($3/$6 USD) - 2016/05/24 2:26:33 ET
+Table 'Echepolos' 6-max Seat #4 is the button
+Seat 3: chip_diddler ($42.65 in chips)
+Seat 4: VolkovDmitri ($142.76 in chips)
+VolkovDmitri: posts small blind $1
+chip_diddler: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: folds
+Uncalled bet ($2) returned to chip_diddler
+chip_diddler collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: chip_diddler (big blind) collected ($2)
+Seat 4: VolkovDmitri (button) (small blind) folded before Flop
+
+
+PokerStars Hand #153763084239:  Hold'em Limit ($3/$6 USD) - 2016/05/24 2:26:02 ET
+Table 'Echepolos' 6-max Seat #3 is the button
+Seat 3: chip_diddler ($34.01 in chips)
+Seat 4: VolkovDmitri ($151.76 in chips)
+chip_diddler: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+chip_diddler: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [7c 3h 3d]
+VolkovDmitri: checks
+chip_diddler: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [7c 3h 3d] [9c]
+VolkovDmitri: checks
+chip_diddler: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to chip_diddler
+chip_diddler collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7c 3h 3d 9c]
+Seat 3: chip_diddler (button) (small blind) collected ($17.64)
+Seat 4: VolkovDmitri (big blind) folded on the Turn
+
+
+PokerStars Hand #153763094985:  Hold'em Limit ($3/$6 USD) - 2016/05/24 2:26:46 ET
+Table 'Echepolos' 6-max Seat #4 is the button
+Seat 3: chip_diddler ($42.65 in chips)
+Seat 4: VolkovDmitri ($142.76 in chips)
+VolkovDmitri: posts small blind $1
+chip_diddler: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+chip_diddler: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [Qc 9s 7d]
+chip_diddler: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [Qc 9s 7d] [Qd]
+chip_diddler: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [Qc 9s 7d Qd] [3d]
+chip_diddler: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+chip_diddler: shows [Ac Jh] (a pair of Queens)
+VolkovDmitri: mucks hand
+chip_diddler collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Qc 9s 7d Qd 3d]
+Seat 3: chip_diddler (big blind) showed [Ac Jh] and won ($47.50) with a pair of Queens
+Seat 4: VolkovDmitri (button) (small blind) mucked
+
+
+PokerStars Hand #153763121139:  Hold'em Limit ($3/$6 USD) - 2016/05/24 2:28:30 ET
+Table 'Echepolos' 6-max Seat #4 is the button
+Seat 3: chip_diddler ($55.79 in chips)
+Seat 4: VolkovDmitri ($129.50 in chips)
+VolkovDmitri: posts small blind $1
+chip_diddler: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: folds
+Uncalled bet ($2) returned to chip_diddler
+chip_diddler collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: chip_diddler (big blind) collected ($2)
+Seat 4: VolkovDmitri (button) (small blind) folded before Flop
+
+
+PokerStars Hand #153763119956:  Hold'em Limit ($3/$6 USD) - 2016/05/24 2:28:25 ET
+Table 'Echepolos' 6-max Seat #3 is the button
+Seat 3: chip_diddler ($56.79 in chips)
+Seat 4: VolkovDmitri ($128.50 in chips)
+chip_diddler: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+chip_diddler: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: chip_diddler (button) (small blind) folded before Flop
+Seat 4: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #153763111069:  Hold'em Limit ($3/$6 USD) - 2016/05/24 2:27:50 ET
+Table 'Echepolos' 6-max Seat #4 is the button
+Seat 3: chip_diddler ($48.15 in chips)
+Seat 4: VolkovDmitri ($137.50 in chips)
+VolkovDmitri: posts small blind $1
+chip_diddler: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+chip_diddler: calls $3
+*** FLOP *** [Th 9c 9s]
+chip_diddler: checks
+VolkovDmitri: bets $3
+chip_diddler: calls $3
+*** TURN *** [Th 9c 9s] [Qh]
+chip_diddler: checks
+VolkovDmitri: checks
+*** RIVER *** [Th 9c 9s Qh] [7s]
+chip_diddler: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to chip_diddler
+chip_diddler collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Th 9c 9s Qh 7s]
+Seat 3: chip_diddler (big blind) collected ($17.64)
+Seat 4: VolkovDmitri (button) (small blind) folded on the River
+
+
+PokerStars Hand #153763122693:  Hold'em Limit ($3/$6 USD) - 2016/05/24 2:28:36 ET
+Table 'Echepolos' 6-max Seat #3 is the button
+Seat 3: chip_diddler ($56.79 in chips)
+Seat 4: VolkovDmitri ($128.50 in chips)
+chip_diddler: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+chip_diddler: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Js Kh Ah]
+VolkovDmitri: checks
+chip_diddler: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [Js Kh Ah] [Jh]
+VolkovDmitri: checks
+chip_diddler: checks
+*** RIVER *** [Js Kh Ah Jh] [5s]
+VolkovDmitri: checks
+chip_diddler: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [8h Qs] (a pair of Jacks)
+chip_diddler: shows [Ad 4s] (two pair, Aces and Jacks)
+chip_diddler collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Js Kh Ah Jh 5s]
+Seat 3: chip_diddler (button) (small blind) showed [Ad 4s] and won ($17.64) with two pair, Aces and Jacks
+Seat 4: VolkovDmitri (big blind) showed [8h Qs] and lost with a pair of Jacks
+
+
+PokerStars Hand #153763127389:  Hold'em Limit ($3/$6 USD) - 2016/05/24 2:28:55 ET
+Table 'Echepolos' 6-max Seat #4 is the button
+Seat 3: chip_diddler ($65.43 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+chip_diddler: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+chip_diddler: calls $3
+*** FLOP *** [Ah Qh 3s]
+chip_diddler: checks
+VolkovDmitri: bets $3
+chip_diddler: calls $3
+*** TURN *** [Ah Qh 3s] [5d]
+chip_diddler: checks
+VolkovDmitri: checks
+*** RIVER *** [Ah Qh 3s 5d] [9s]
+chip_diddler: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+chip_diddler: shows [Ad 6s] (a pair of Aces)
+VolkovDmitri: mucks hand
+chip_diddler collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ah Qh 3s 5d 9s]
+Seat 3: chip_diddler (big blind) showed [Ad 6s] and won ($29.50) with a pair of Aces
+Seat 4: VolkovDmitri (button) (small blind) mucked
+
+
+PokerStars Hand #153763137318:  Hold'em Limit ($3/$6 USD) - 2016/05/24 2:29:35 ET
+Table 'Echepolos' 6-max Seat #3 is the button
+Seat 3: chip_diddler ($79.93 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+chip_diddler: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+chip_diddler: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [5s 9d Kh]
+VolkovDmitri: checks
+chip_diddler: checks
+*** TURN *** [5s 9d Kh] [Kd]
+VolkovDmitri: bets $6
+chip_diddler: raises $6 to $12
+VolkovDmitri: calls $6
+*** RIVER *** [5s 9d Kh Kd] [6s]
+VolkovDmitri: checks
+chip_diddler: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+chip_diddler: shows [6d Qd] (two pair, Kings and Sixes)
+VolkovDmitri: shows [5d 9s] (two pair, Kings and Nines)
+VolkovDmitri collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [5s 9d Kh Kd 6s]
+Seat 3: chip_diddler (button) (small blind) showed [6d Qd] and lost with two pair, Kings and Sixes
+Seat 4: VolkovDmitri (big blind) showed [5d 9s] and won ($47.50) with two pair, Kings and Nines
+
+
+PokerStars Hand #153763151752:  Hold'em Limit ($3/$6 USD) - 2016/05/24 2:30:33 ET
+Table 'Echepolos' 6-max Seat #3 is the button
+Seat 3: chip_diddler ($34.93 in chips)
+Seat 4: VolkovDmitri ($164 in chips)
+chip_diddler: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+chip_diddler: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Kh 7c 6h]
+VolkovDmitri: checks
+chip_diddler: bets $3
+VolkovDmitri: raises $3 to $6
+chip_diddler: raises $3 to $9
+VolkovDmitri: raises $3 to $12
+Betting is capped
+chip_diddler: calls $3
+*** TURN *** [Kh 7c 6h] [Js]
+VolkovDmitri: bets $6
+chip_diddler: raises $6 to $12
+VolkovDmitri: raises $6 to $18
+chip_diddler: calls $4.93 and is all-in
+Uncalled bet ($1.07) returned to VolkovDmitri
+*** RIVER *** [Kh 7c 6h Js] [Tc]
+*** SHOW DOWN ***
+VolkovDmitri: shows [Kc 7s] (two pair, Kings and Sevens)
+chip_diddler: shows [Ks 3s] (a pair of Kings)
+VolkovDmitri collected $69.36 from pot
+chip_diddler leaves the table
+*** SUMMARY ***
+Total pot $69.86 | Rake $0.50
+Board [Kh 7c 6h Js Tc]
+Seat 3: chip_diddler (button) (small blind) showed [Ks 3s] and lost with a pair of Kings
+Seat 4: VolkovDmitri (big blind) showed [Kc 7s] and won ($69.36) with two pair, Kings and Sevens
+
+

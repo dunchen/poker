@@ -1,0 +1,818 @@
+PokerStars Hand #168998474891:  Hold'em Limit ($3/$6 USD) - 2017/04/13 17:43:43 ET
+Table 'Kythera' 6-max Seat #6 is the button
+Seat 3: par_de_az ($82.17 in chips)
+Seat 6: ToDaFelt ($100.26 in chips)
+ToDaFelt: posts small blind $1
+par_de_az: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+par_de_az: raises $3 to $9
+ToDaFelt: calls $3
+*** FLOP *** [Qc Ad 5h]
+par_de_az: checks
+ToDaFelt: checks
+*** TURN *** [Qc Ad 5h] [5c]
+par_de_az: bets $6
+ToDaFelt: folds
+Uncalled bet ($6) returned to par_de_az
+par_de_az collected $17.64 from pot
+par_de_az: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qc Ad 5h 5c]
+Seat 3: par_de_az (big blind) collected ($17.64)
+Seat 6: ToDaFelt (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #168998470571:  Hold'em Limit ($3/$6 USD) - 2017/04/13 17:43:37 ET
+Table 'Kythera' 6-max Seat #3 is the button
+Seat 3: par_de_az ($83.17 in chips)
+Seat 6: ToDaFelt ($99.26 in chips)
+par_de_az: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+par_de_az: folds
+Uncalled bet ($2) returned to ToDaFelt
+ToDaFelt collected $2 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: par_de_az (button) (small blind) folded before Flop
+Seat 6: ToDaFelt (big blind) collected ($2)
+
+
+PokerStars Hand #168998537664:  Hold'em Limit ($3/$6 USD) - 2017/04/13 17:45:02 ET
+Table 'Kythera' 6-max Seat #3 is the button
+Seat 3: par_de_az ($54.81 in chips)
+Seat 6: ToDaFelt ($126.26 in chips)
+par_de_az: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+par_de_az: folds
+Uncalled bet ($2) returned to ToDaFelt
+ToDaFelt collected $2 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: par_de_az (button) (small blind) folded before Flop
+Seat 6: ToDaFelt (big blind) collected ($2)
+
+
+PokerStars Hand #168998510138:  Hold'em Limit ($3/$6 USD) - 2017/04/13 17:44:27 ET
+Table 'Kythera' 6-max Seat #6 is the button
+Seat 3: par_de_az ($75.81 in chips)
+Seat 6: ToDaFelt ($105.76 in chips)
+ToDaFelt: posts small blind $1
+par_de_az: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+par_de_az: calls $3
+*** FLOP *** [5d 5s Tc]
+par_de_az: checks
+ToDaFelt: bets $3
+par_de_az: calls $3
+*** TURN *** [5d 5s Tc] [Qc]
+par_de_az: checks
+ToDaFelt: bets $6
+par_de_az: calls $6
+*** RIVER *** [5d 5s Tc Qc] [7h]
+par_de_az: checks
+ToDaFelt: bets $6
+par_de_az: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [Js Jd] (two pair, Jacks and Fives)
+par_de_az: mucks hand
+ToDaFelt collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [5d 5s Tc Qc 7h]
+Seat 3: par_de_az (big blind) mucked
+Seat 6: ToDaFelt (button) (small blind) showed [Js Jd] and won ($41.50) with two pair, Jacks and Fives
+
+
+PokerStars Hand #168998492500:  Hold'em Limit ($3/$6 USD) - 2017/04/13 17:44:05 ET
+Table 'Kythera' 6-max Seat #3 is the button
+Seat 3: par_de_az ($90.81 in chips)
+Seat 6: ToDaFelt ($91.26 in chips)
+par_de_az: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+par_de_az: calls $2
+ToDaFelt: raises $3 to $6
+par_de_az: calls $3
+*** FLOP *** [7d 4d 6d]
+ToDaFelt: bets $3
+par_de_az: calls $3
+*** TURN *** [7d 4d 6d] [Qd]
+ToDaFelt: checks
+par_de_az: checks
+*** RIVER *** [7d 4d 6d Qd] [Ks]
+ToDaFelt: bets $6
+par_de_az: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [Tc 9d] (a flush, Queen high)
+par_de_az: mucks hand
+ToDaFelt collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7d 4d 6d Qd Ks]
+Seat 3: par_de_az (button) (small blind) mucked
+Seat 6: ToDaFelt (big blind) showed [Tc 9d] and won ($29.50) with a flush, Queen high
+
+
+PokerStars Hand #168998541850:  Hold'em Limit ($3/$6 USD) - 2017/04/13 17:45:07 ET
+Table 'Kythera' 6-max Seat #6 is the button
+Seat 3: par_de_az ($53.81 in chips)
+Seat 6: ToDaFelt ($127.26 in chips)
+ToDaFelt: posts small blind $1
+Aaaqqq joins the table at seat #2
+par_de_az: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+par_de_az: raises $3 to $9
+ToDaFelt: calls $3
+*** FLOP *** [Qs 9d 9c]
+par_de_az: bets $3
+ToDaFelt: calls $3
+*** TURN *** [Qs 9d 9c] [6c]
+par_de_az: bets $6
+ToDaFelt: folds
+Uncalled bet ($6) returned to par_de_az
+par_de_az collected $23.52 from pot
+par_de_az: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Qs 9d 9c 6c]
+Seat 3: par_de_az (big blind) collected ($23.52)
+Seat 6: ToDaFelt (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #169000553796:  Hold'em Limit ($3/$6 USD) - 2017/04/13 18:30:11 ET
+Table 'Kythera' 6-max Seat #6 is the button
+Seat 5: manly70 ($367.39 in chips)
+Seat 6: ToDaFelt ($79 in chips)
+ToDaFelt: posts small blind $1
+manly70: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+manly70: calls $3
+*** FLOP *** [Td Kd 8c]
+manly70: checks
+ToDaFelt: bets $3
+manly70: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $11.76 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Td Kd 8c]
+Seat 5: manly70 (big blind) folded on the Flop
+Seat 6: ToDaFelt (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #169000588747:  Hold'em Limit ($3/$6 USD) - 2017/04/13 18:31:00 ET
+Table 'Kythera' 6-max Seat #6 is the button
+Seat 5: manly70 ($384.89 in chips)
+Seat 6: ToDaFelt ($120 in chips)
+ToDaFelt: posts small blind $1
+manly70: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+manly70: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $6 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 5: manly70 (big blind) folded before Flop
+Seat 6: ToDaFelt (button) (small blind) collected ($6)
+
+
+PokerStars Hand #169000567946:  Hold'em Limit ($3/$6 USD) - 2017/04/13 18:30:30 ET
+Table 'Kythera' 6-max Seat #5 is the button
+Seat 5: manly70 ($361.39 in chips)
+Seat 6: ToDaFelt ($84.76 in chips)
+manly70: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+manly70: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [6c 9h Kc]
+ToDaFelt: checks
+manly70: bets $3
+ToDaFelt: raises $3 to $6
+manly70: calls $3
+*** TURN *** [6c 9h Kc] [8h]
+ToDaFelt: bets $6
+manly70: calls $6
+*** RIVER *** [6c 9h Kc 8h] [4d]
+ToDaFelt: checks
+manly70: bets $6
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+manly70: shows [4c Ks] (two pair, Kings and Fours)
+ToDaFelt: mucks hand
+manly70 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [6c 9h Kc 8h 4d]
+Seat 5: manly70 (button) (small blind) showed [4c Ks] and won ($47.50) with two pair, Kings and Fours
+Seat 6: ToDaFelt (big blind) mucked
+
+
+PokerStars Hand #169000593995:  Hold'em Limit ($3/$6 USD) - 2017/04/13 18:31:07 ET
+Table 'Kythera' 6-max Seat #5 is the button
+Seat 5: manly70 ($381.89 in chips)
+Seat 6: ToDaFelt ($123 in chips)
+manly70: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+manly70: folds
+Uncalled bet ($2) returned to ToDaFelt
+ToDaFelt collected $2 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: manly70 (button) (small blind) folded before Flop
+Seat 6: ToDaFelt (big blind) collected ($2)
+
+
+PokerStars Hand #169000642328:  Hold'em Limit ($3/$6 USD) - 2017/04/13 18:32:12 ET
+Table 'Kythera' 6-max Seat #6 is the button
+Seat 5: manly70 ($358.77 in chips)
+Seat 6: ToDaFelt ($145.50 in chips)
+ToDaFelt: posts small blind $1
+manly70: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+manly70: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $6 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 5: manly70 (big blind) folded before Flop
+Seat 6: ToDaFelt (button) (small blind) collected ($6)
+
+
+PokerStars Hand #169000600295:  Hold'em Limit ($3/$6 USD) - 2017/04/13 18:31:13 ET
+Table 'Kythera' 6-max Seat #6 is the button
+Seat 5: manly70 ($380.89 in chips)
+Seat 6: ToDaFelt ($124 in chips)
+ToDaFelt: posts small blind $1
+par_de_az was removed from the table for failing to post
+manly70: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+manly70: calls $3
+*** FLOP *** [7s Kh Qc]
+manly70: checks
+ToDaFelt: bets $3
+manly70: calls $3
+*** TURN *** [7s Kh Qc] [4c]
+manly70: checks
+ToDaFelt: bets $6
+manly70: calls $6
+*** RIVER *** [7s Kh Qc 4c] [8h]
+manly70: checks
+ToDaFelt: bets $6
+manly70: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [Ac As] (a pair of Aces)
+manly70: mucks hand
+ToDaFelt collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [7s Kh Qc 4c 8h]
+Seat 5: manly70 (big blind) mucked
+Seat 6: ToDaFelt (button) (small blind) showed [Ac As] and won ($41.50) with a pair of Aces
+
+
+PokerStars Hand #169000618628:  Hold'em Limit ($3/$6 USD) - 2017/04/13 18:31:38 ET
+Table 'Kythera' 6-max Seat #5 is the button
+Seat 5: manly70 ($359.89 in chips)
+Seat 6: ToDaFelt ($144.50 in chips)
+manly70: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+manly70: calls $2
+ToDaFelt: checks
+*** FLOP *** [7h 4s Th]
+ToDaFelt: checks
+manly70: bets $3
+ToDaFelt: folds
+Uncalled bet ($3) returned to manly70
+manly70 collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [7h 4s Th]
+Seat 5: manly70 (button) (small blind) collected ($5.88)
+Seat 6: ToDaFelt (big blind) folded on the Flop
+
+
+PokerStars Hand #169000630891:  Hold'em Limit ($3/$6 USD) - 2017/04/13 18:31:56 ET
+Table 'Kythera' 6-max Seat #6 is the button
+Seat 5: manly70 ($362.77 in chips)
+Seat 6: ToDaFelt ($141.50 in chips)
+ToDaFelt: posts small blind $1
+manly70: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+manly70: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $6 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 5: manly70 (big blind) folded before Flop
+Seat 6: ToDaFelt (button) (small blind) collected ($6)
+
+
+PokerStars Hand #169000637887:  Hold'em Limit ($3/$6 USD) - 2017/04/13 18:32:05 ET
+Table 'Kythera' 6-max Seat #5 is the button
+Seat 5: manly70 ($359.77 in chips)
+Seat 6: ToDaFelt ($144.50 in chips)
+manly70: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+manly70: folds
+Uncalled bet ($2) returned to ToDaFelt
+ToDaFelt collected $2 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: manly70 (button) (small blind) folded before Flop
+Seat 6: ToDaFelt (big blind) collected ($2)
+
+
+PokerStars Hand #169000672365:  Hold'em Limit ($3/$6 USD) - 2017/04/13 18:32:54 ET
+Table 'Kythera' 6-max Seat #5 is the button
+Seat 5: manly70 ($355.53 in chips)
+Seat 6: ToDaFelt ($148.26 in chips)
+manly70: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+manly70: folds
+Uncalled bet ($2) returned to ToDaFelt
+ToDaFelt collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: manly70 (button) (small blind) folded before Flop
+Seat 6: ToDaFelt (big blind) collected ($2)
+
+
+PokerStars Hand #169000676466:  Hold'em Limit ($3/$6 USD) - 2017/04/13 18:32:59 ET
+Table 'Kythera' 6-max Seat #6 is the button
+Seat 5: manly70 ($354.53 in chips)
+Seat 6: ToDaFelt ($149.26 in chips)
+ToDaFelt: posts small blind $1
+manly70: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+manly70: calls $3
+*** FLOP *** [4h Th 4s]
+manly70: checks
+ToDaFelt: checks
+*** TURN *** [4h Th 4s] [9s]
+manly70: bets $6
+ToDaFelt: folds
+Uncalled bet ($6) returned to manly70
+manly70 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4h Th 4s 9s]
+Seat 5: manly70 (big blind) collected ($11.76)
+Seat 6: ToDaFelt (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #169000691403:  Hold'em Limit ($3/$6 USD) - 2017/04/13 18:33:20 ET
+Table 'Kythera' 6-max Seat #5 is the button
+Seat 5: manly70 ($360.29 in chips)
+Seat 6: ToDaFelt ($143.26 in chips)
+manly70: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+manly70: raises $3 to $6
+ToDaFelt: folds
+Uncalled bet ($3) returned to manly70
+manly70 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 5: manly70 (button) (small blind) collected ($6)
+Seat 6: ToDaFelt (big blind) folded before Flop
+
+
+PokerStars Hand #169000699700:  Hold'em Limit ($3/$6 USD) - 2017/04/13 18:33:32 ET
+Table 'Kythera' 6-max Seat #6 is the button
+Seat 5: manly70 ($363.29 in chips)
+Seat 6: ToDaFelt ($140.26 in chips)
+ToDaFelt: posts small blind $1
+manly70: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+manly70: calls $3
+*** FLOP *** [6d 4c Kc]
+manly70: checks
+ToDaFelt: bets $3
+manly70: raises $3 to $6
+ToDaFelt: calls $3
+*** TURN *** [6d 4c Kc] [Js]
+manly70: bets $6
+ToDaFelt: calls $6
+*** RIVER *** [6d 4c Kc Js] [3s]
+manly70: bets $6
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+manly70: shows [7c 5d] (a straight, Three to Seven)
+ToDaFelt: mucks hand
+manly70 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [6d 4c Kc Js 3s]
+Seat 5: manly70 (big blind) showed [7c 5d] and won ($47.50) with a straight, Three to Seven
+Seat 6: ToDaFelt (button) (small blind) mucked
+
+
+PokerStars Hand #169000719285:  Hold'em Limit ($3/$6 USD) - 2017/04/13 18:33:59 ET
+Table 'Kythera' 6-max Seat #5 is the button
+Seat 5: manly70 ($386.79 in chips)
+Seat 6: ToDaFelt ($116.26 in chips)
+manly70: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+manly70: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [4d Qh Js]
+ToDaFelt: checks
+manly70: checks
+*** TURN *** [4d Qh Js] [7d]
+ToDaFelt: bets $6
+manly70: calls $6
+*** RIVER *** [4d Qh Js 7d] [Ad]
+ToDaFelt: bets $6
+manly70: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [Jh 8h] (a pair of Jacks)
+manly70: mucks hand
+ToDaFelt collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [4d Qh Js 7d Ad]
+Seat 5: manly70 (button) (small blind) mucked
+Seat 6: ToDaFelt (big blind) showed [Jh 8h] and won ($35.50) with a pair of Jacks
+
+
+PokerStars Hand #169000648787:  Hold'em Limit ($3/$6 USD) - 2017/04/13 18:32:21 ET
+Table 'Kythera' 6-max Seat #5 is the button
+Seat 5: manly70 ($355.77 in chips)
+Seat 6: ToDaFelt ($148.50 in chips)
+manly70: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+manly70: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [Jd Kc Th]
+ToDaFelt: checks
+manly70: bets $3
+ToDaFelt: folds
+Uncalled bet ($3) returned to manly70
+manly70 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jd Kc Th]
+Seat 5: manly70 (button) (small blind) collected ($11.76)
+Seat 6: ToDaFelt (big blind) folded on the Flop
+
+
+PokerStars Hand #169000738415:  Hold'em Limit ($3/$6 USD) - 2017/04/13 18:34:26 ET
+Table 'Kythera' 6-max Seat #6 is the button
+Seat 5: manly70 ($368.79 in chips)
+Seat 6: ToDaFelt ($133.76 in chips)
+ToDaFelt: posts small blind $1
+manly70: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: folds
+Uncalled bet ($2) returned to manly70
+manly70 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: manly70 (big blind) collected ($2)
+Seat 6: ToDaFelt (button) (small blind) folded before Flop
+
+
+PokerStars Hand #169000746038:  Hold'em Limit ($3/$6 USD) - 2017/04/13 18:34:37 ET
+Table 'Kythera' 6-max Seat #5 is the button
+Seat 5: manly70 ($369.79 in chips)
+Seat 6: ToDaFelt ($132.76 in chips)
+manly70: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+manly70: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [2d Tc 6s]
+ToDaFelt: checks
+manly70: bets $3
+ToDaFelt: folds
+Uncalled bet ($3) returned to manly70
+manly70 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2d Tc 6s]
+Seat 5: manly70 (button) (small blind) collected ($11.76)
+Seat 6: ToDaFelt (big blind) folded on the Flop
+
+
+PokerStars Hand #169000756010:  Hold'em Limit ($3/$6 USD) - 2017/04/13 18:34:51 ET
+Table 'Kythera' 6-max Seat #6 is the button
+Seat 5: manly70 ($375.55 in chips)
+Seat 6: ToDaFelt ($126.76 in chips)
+ToDaFelt: posts small blind $1
+manly70: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+manly70: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $6 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 5: manly70 (big blind) folded before Flop
+Seat 6: ToDaFelt (button) (small blind) collected ($6)
+
+
+PokerStars Hand #169000804646:  Hold'em Limit ($3/$6 USD) - 2017/04/13 18:36:00 ET
+Table 'Kythera' 6-max Seat #5 is the button
+Seat 5: manly70 ($348.55 in chips)
+Seat 6: ToDaFelt ($152.90 in chips)
+manly70: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+manly70: calls $2
+ToDaFelt: checks
+*** FLOP *** [3d 8c 7s]
+ToDaFelt: bets $3
+manly70: calls $3
+*** TURN *** [3d 8c 7s] [4h]
+ToDaFelt: bets $6
+manly70: calls $6
+*** RIVER *** [3d 8c 7s 4h] [3h]
+ToDaFelt: bets $6
+manly70: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [5s Tc] (a pair of Threes)
+manly70: shows [7h Ts] (two pair, Sevens and Threes)
+manly70 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [3d 8c 7s 4h 3h]
+Seat 5: manly70 (button) (small blind) showed [7h Ts] and won ($35.50) with two pair, Sevens and Threes
+Seat 6: ToDaFelt (big blind) showed [5s Tc] and lost with a pair of Threes
+
+
+PokerStars Hand #169000786483:  Hold'em Limit ($3/$6 USD) - 2017/04/13 18:35:34 ET
+Table 'Kythera' 6-max Seat #6 is the button
+Seat 5: manly70 ($363.55 in chips)
+Seat 6: ToDaFelt ($138.40 in chips)
+ToDaFelt: posts small blind $1
+manly70: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+manly70: calls $3
+*** FLOP *** [2d Ac 3h]
+manly70: checks
+ToDaFelt: bets $3
+manly70: calls $3
+*** TURN *** [2d Ac 3h] [Jh]
+manly70: checks
+ToDaFelt: bets $6
+manly70: calls $6
+*** RIVER *** [2d Ac 3h Jh] [Ad]
+manly70: checks
+ToDaFelt: bets $6
+manly70: folds
+Uncalled bet ($6) returned to ToDaFelt
+ToDaFelt collected $29.50 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2d Ac 3h Jh Ad]
+Seat 5: manly70 (big blind) folded on the River
+Seat 6: ToDaFelt (button) (small blind) collected ($29.50)
+
+
+PokerStars Hand #169000765183:  Hold'em Limit ($3/$6 USD) - 2017/04/13 18:35:04 ET
+Table 'Kythera' 6-max Seat #5 is the button
+Seat 5: manly70 ($372.55 in chips)
+Seat 6: ToDaFelt ($129.76 in chips)
+manly70: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+manly70: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [9c 5d Ah]
+ToDaFelt: checks
+manly70: bets $3
+ToDaFelt: calls $3
+*** TURN *** [9c 5d Ah] [3d]
+ToDaFelt: checks
+manly70: checks
+*** RIVER *** [9c 5d Ah 3d] [4c]
+ToDaFelt: bets $6
+manly70: folds
+Uncalled bet ($6) returned to ToDaFelt
+ToDaFelt collected $17.64 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9c 5d Ah 3d 4c]
+Seat 5: manly70 (button) (small blind) folded on the River
+Seat 6: ToDaFelt (big blind) collected ($17.64)
+
+
+PokerStars Hand #169000839582:  Hold'em Limit ($3/$6 USD) - 2017/04/13 18:36:49 ET
+Table 'Kythera' 6-max Seat #5 is the button
+Seat 5: manly70 ($356.05 in chips)
+Seat 6: ToDaFelt ($144.66 in chips)
+manly70: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+manly70: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [9d Jc 7s]
+ToDaFelt: checks
+manly70: bets $3
+ToDaFelt: calls $3
+*** TURN *** [9d Jc 7s] [8s]
+ToDaFelt: checks
+manly70: bets $6
+ToDaFelt: calls $6
+*** RIVER *** [9d Jc 7s 8s] [Ts]
+ToDaFelt: bets $6
+manly70: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [9h 4c] (a straight, Seven to Jack)
+manly70: shows [Qc Jh] (a straight, Eight to Queen)
+manly70 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9d Jc 7s 8s Ts]
+Seat 5: manly70 (button) (small blind) showed [Qc Jh] and won ($41.50) with a straight, Eight to Queen
+Seat 6: ToDaFelt (big blind) showed [9h 4c] and lost with a straight, Seven to Jack
+
+
+PokerStars Hand #169000833786:  Hold'em Limit ($3/$6 USD) - 2017/04/13 18:36:41 ET
+Table 'Kythera' 6-max Seat #6 is the button
+Seat 5: manly70 ($359.05 in chips)
+Seat 6: ToDaFelt ($141.66 in chips)
+ToDaFelt: posts small blind $1
+manly70: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+manly70: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $6 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 5: manly70 (big blind) folded before Flop
+Seat 6: ToDaFelt (button) (small blind) collected ($6)
+
+
+PokerStars Hand #169000829145:  Hold'em Limit ($3/$6 USD) - 2017/04/13 18:36:35 ET
+Table 'Kythera' 6-max Seat #5 is the button
+Seat 5: manly70 ($360.05 in chips)
+Seat 6: ToDaFelt ($140.66 in chips)
+manly70: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+manly70: folds
+Uncalled bet ($2) returned to ToDaFelt
+ToDaFelt collected $2 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: manly70 (button) (small blind) folded before Flop
+Seat 6: ToDaFelt (big blind) collected ($2)
+
+
+PokerStars Hand #169000820363:  Hold'em Limit ($3/$6 USD) - 2017/04/13 18:36:22 ET
+Table 'Kythera' 6-max Seat #6 is the button
+Seat 5: manly70 ($366.05 in chips)
+Seat 6: ToDaFelt ($134.90 in chips)
+ToDaFelt: posts small blind $1
+manly70: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+manly70: calls $3
+*** FLOP *** [Kc As 6s]
+manly70: checks
+ToDaFelt: bets $3
+manly70: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $11.76 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kc As 6s]
+Seat 5: manly70 (big blind) folded on the Flop
+Seat 6: ToDaFelt (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #169000882921:  Hold'em Limit ($3/$6 USD) - 2017/04/13 18:37:51 ET
+Table 'Kythera' 6-max Seat #5 is the button
+Seat 5: manly70 ($361.55 in chips)
+Seat 6: ToDaFelt ($138.16 in chips)
+manly70: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+manly70: folds
+Uncalled bet ($2) returned to ToDaFelt
+ToDaFelt collected $2 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: manly70 (button) (small blind) folded before Flop
+Seat 6: ToDaFelt (big blind) collected ($2)
+
+
+PokerStars Hand #169000887087:  Hold'em Limit ($3/$6 USD) - 2017/04/13 18:37:57 ET
+Table 'Kythera' 6-max Seat #6 is the button
+Seat 5: manly70 ($360.55 in chips)
+Seat 6: ToDaFelt ($139.16 in chips)
+ToDaFelt: posts small blind $1
+manly70: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+manly70: calls $3
+*** FLOP *** [Ts 9h Ah]
+manly70: checks
+ToDaFelt: bets $3
+manly70: calls $3
+*** TURN *** [Ts 9h Ah] [2d]
+igmade joins the table at seat #4
+manly70: checks
+ToDaFelt: bets $6
+manly70: folds
+Uncalled bet ($6) returned to ToDaFelt
+ToDaFelt collected $17.64 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ts 9h Ah 2d]
+Seat 5: manly70 (big blind) folded on the Turn
+Seat 6: ToDaFelt (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #169000861697:  Hold'em Limit ($3/$6 USD) - 2017/04/13 18:37:21 ET
+Table 'Kythera' 6-max Seat #6 is the button
+Seat 5: manly70 ($376.55 in chips)
+Seat 6: ToDaFelt ($123.66 in chips)
+ToDaFelt: posts small blind $1
+manly70: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+manly70: calls $3
+*** FLOP *** [7d Qh 5s]
+manly70: checks
+ToDaFelt: bets $3
+manly70: calls $3
+*** TURN *** [7d Qh 5s] [9h]
+manly70: checks
+ToDaFelt: bets $6
+manly70: calls $6
+*** RIVER *** [7d Qh 5s 9h] [2s]
+manly70: checks
+ToDaFelt: bets $6
+manly70: folds
+Uncalled bet ($6) returned to ToDaFelt
+ToDaFelt collected $29.50 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7d Qh 5s 9h 2s]
+Seat 5: manly70 (big blind) folded on the River
+Seat 6: ToDaFelt (button) (small blind) collected ($29.50)
+
+
+PokerStars Hand #169000901362:  Hold'em Limit ($3/$6 USD) - 2017/04/13 18:38:17 ET
+Table 'Kythera' 6-max Seat #5 is the button
+Seat 5: manly70 ($351.55 in chips)
+Seat 6: ToDaFelt ($147.80 in chips)
+manly70: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+manly70: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [7s Qs Kd]
+ToDaFelt: checks
+manly70: bets $3
+ToDaFelt: folds
+Uncalled bet ($3) returned to manly70
+manly70 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7s Qs Kd]
+Seat 5: manly70 (button) (small blind) collected ($11.76)
+Seat 6: ToDaFelt (big blind) folded on the Flop
+
+

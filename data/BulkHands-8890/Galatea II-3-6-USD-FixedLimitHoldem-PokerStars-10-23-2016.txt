@@ -1,0 +1,69 @@
+PokerStars Hand #160344318421:  Hold'em Limit ($3/$6 USD) - 2016/10/23 16:31:32 ET
+Table 'Galatea II' 10-max Seat #6 is the button
+Seat 6: too2ez ($120 in chips)
+Seat 7: VolkovDmitri ($120 in chips)
+too2ez: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+too2ez: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [3d 9c 4d]
+VolkovDmitri: checks
+too2ez: bets $3
+VolkovDmitri: raises $3 to $6
+too2ez: calls $3
+*** TURN *** [3d 9c 4d] [7d]
+VolkovDmitri: bets $6
+too2ez: calls $6
+*** RIVER *** [3d 9c 4d 7d] [6d]
+VolkovDmitri: bets $6
+too2ez: raises $6 to $12
+VolkovDmitri: raises $6 to $18
+too2ez: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [5d 8d] (a straight flush, Four to Eight)
+too2ez: mucks hand
+VolkovDmitri collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [3d 9c 4d 7d 6d]
+Seat 6: too2ez (button) (small blind) mucked
+Seat 7: VolkovDmitri (big blind) showed [5d 8d] and won ($71.50) with a straight flush, Four to Eight
+
+
+PokerStars Hand #160344377435:  Hold'em Limit ($3/$6 USD) - 2016/10/23 16:32:37 ET
+Table 'Galatea II' 10-max Seat #7 is the button
+Seat 1: MilkyWay2016 ($38.85 in chips)
+Seat 7: VolkovDmitri ($155.50 in chips)
+VolkovDmitri: posts small blind $1
+MilkyWay2016: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+MilkyWay2016: calls $3
+*** FLOP *** [8c 8s 3c]
+MilkyWay2016: checks
+VolkovDmitri: bets $3
+MilkyWay2016: calls $3
+*** TURN *** [8c 8s 3c] [6c]
+MilkyWay2016: checks
+VolkovDmitri: bets $6
+MilkyWay2016: raises $6 to $12
+Jigorek1989 joins the table at seat #4
+VolkovDmitri: raises $6 to $18
+MilkyWay2016: raises $6 to $24
+Betting is capped
+VolkovDmitri: calls $6
+*** RIVER *** [8c 8s 3c 6c] [5s]
+MilkyWay2016: bets $5.85 and is all-in
+VolkovDmitri: calls $5.85
+*** SHOW DOWN ***
+MilkyWay2016: shows [8h 7c] (three of a kind, Eights)
+VolkovDmitri: shows [8d Th] (three of a kind, Eights - Ten kicker)
+VolkovDmitri collected $77.20 from pot
+*** SUMMARY ***
+Total pot $77.70 | Rake $0.50
+Board [8c 8s 3c 6c 5s]
+Seat 1: MilkyWay2016 (big blind) showed [8h 7c] and lost with three of a kind, Eights
+Seat 7: VolkovDmitri (button) (small blind) showed [8d Th] and won ($77.20) with three of a kind, Eights
+
+

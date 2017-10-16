@@ -1,0 +1,84 @@
+PokerStars Hand #157503296795:  Hold'em Limit ($3/$6 USD) - 2016/08/20 4:52:37 ET
+Table 'Kochab' 10-max Seat #1 is the button
+Seat 1: bd1956@bk.ru ($45.53 in chips)
+Seat 7: VolkovDmitri ($120 in chips)
+bd1956@bk.ru: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+bd1956@bk.ru: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+bd1956@bk.ru: calls $3
+*** FLOP *** [7d Qs 4s]
+VolkovDmitri: bets $3
+bd1956@bk.ru: calls $3
+*** TURN *** [7d Qs 4s] [9s]
+VolkovDmitri: bets $6
+bd1956@bk.ru: calls $6
+*** RIVER *** [7d Qs 4s 9s] [2s]
+VolkovDmitri: bets $6
+bd1956@bk.ru: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Ks Ts] (a flush, King high)
+bd1956@bk.ru: mucks hand
+VolkovDmitri collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7d Qs 4s 9s 2s]
+Seat 1: bd1956@bk.ru (button) (small blind) mucked
+Seat 7: VolkovDmitri (big blind) showed [Ks Ts] and won ($47.50) with a flush, King high
+
+
+PokerStars Hand #157503305711:  Hold'em Limit ($3/$6 USD) - 2016/08/20 4:53:04 ET
+Table 'Kochab' 10-max Seat #7 is the button
+Seat 1: bd1956@bk.ru ($21.53 in chips)
+Seat 7: VolkovDmitri ($143.50 in chips)
+VolkovDmitri: posts small blind $1
+bd1956@bk.ru: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+b.lutsik joins the table at seat #4
+bd1956@bk.ru: calls $3
+*** FLOP *** [6s 9c Qs]
+bd1956@bk.ru: checks
+VolkovDmitri: bets $3
+bd1956@bk.ru: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6s 9c Qs]
+Seat 1: bd1956@bk.ru (big blind) folded on the Flop
+Seat 7: VolkovDmitri (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #157503335662:  Hold'em Limit ($3/$6 USD) - 2016/08/20 4:54:34 ET
+Table 'Kochab' 10-max Seat #7 is the button
+Seat 4: b.lutsik ($77.53 in chips)
+Seat 7: VolkovDmitri ($144.74 in chips)
+VolkovDmitri: posts small blind $1
+b.lutsik: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+b.lutsik: calls $3
+*** FLOP *** [5c 4s 4d]
+b.lutsik: bets $3
+bd1956@bk.ru leaves the table
+VolkovDmitri: calls $3
+*** TURN *** [5c 4s 4d] [Tc]
+b.lutsik: checks
+VolkovDmitri: checks
+*** RIVER *** [5c 4s 4d Tc] [7c]
+b.lutsik: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+b.lutsik: shows [7h Jd] (two pair, Sevens and Fours)
+VolkovDmitri: mucks hand
+b.lutsik collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5c 4s 4d Tc 7c]
+Seat 4: b.lutsik (big blind) showed [7h Jd] and won ($17.64) with two pair, Sevens and Fours
+Seat 7: VolkovDmitri (button) (small blind) mucked
+
+

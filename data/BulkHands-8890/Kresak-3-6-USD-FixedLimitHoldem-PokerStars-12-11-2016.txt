@@ -1,0 +1,30 @@
+PokerStars Hand #162790069985:  Hold'em Limit ($3/$6 USD) - 2016/12/11 15:22:40 ET
+Table 'Kresak' 6-max Seat #2 is the button
+Seat 2: ToDaFelt ($95.67 in chips)
+Seat 5: MATEKATA2 ($259.69 in chips)
+ToDaFelt: posts small blind $1
+MATEKATA2: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+MATEKATA2: calls $3
+*** FLOP *** [Ad 4s 2s]
+MATEKATA2: checks
+ToDaFelt: bets $3
+MATEKATA2: calls $3
+*** TURN *** [Ad 4s 2s] [7c]
+MATEKATA2: checks
+ToDaFelt: checks
+*** RIVER *** [Ad 4s 2s 7c] [3c]
+MATEKATA2: bets $6
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+MATEKATA2: shows [5d Td] (a straight, Ace to Five)
+ToDaFelt: mucks hand
+MATEKATA2 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ad 4s 2s 7c 3c]
+Seat 2: ToDaFelt (button) (small blind) mucked
+Seat 5: MATEKATA2 (big blind) showed [5d Td] and won ($29.50) with a straight, Ace to Five
+
+

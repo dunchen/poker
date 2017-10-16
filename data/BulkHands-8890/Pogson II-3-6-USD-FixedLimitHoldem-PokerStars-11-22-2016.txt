@@ -1,0 +1,324 @@
+PokerStars Hand #161787850318:  Hold'em Limit ($3/$6 USD) - 2016/11/22 9:18:03 ET
+Table 'Pogson II' 6-max Seat #3 is the button
+Seat 3: old_col ($135.38 in chips)
+Seat 4: Actionni13 ($150 in chips)
+old_col: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+old_col: calls $2
+Actionni13: checks
+*** FLOP *** [Qd 6c Jh]
+Actionni13: bets $3
+old_col: folds
+Uncalled bet ($3) returned to Actionni13
+Actionni13 collected $5.88 from pot
+Actionni13: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Qd 6c Jh]
+Seat 3: old_col (button) (small blind) folded on the Flop
+Seat 4: Actionni13 (big blind) collected ($5.88)
+
+
+PokerStars Hand #161787832679:  Hold'em Limit ($3/$6 USD) - 2016/11/22 9:17:35 ET
+Table 'Pogson II' 6-max Seat #4 is the button
+Seat 3: old_col ($117.88 in chips)
+Seat 4: Actionni13 ($155.76 in chips)
+Actionni13: posts small blind $1
+old_col: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+old_col: calls $3
+*** FLOP *** [9h Qs Js]
+old_col: checks
+Actionni13: bets $3
+old_col: raises $3 to $6
+Actionni13: calls $3
+*** TURN *** [9h Qs Js] [4c]
+old_col: bets $6
+Actionni13: calls $6
+*** RIVER *** [9h Qs Js 4c] [Ks]
+old_col: bets $6
+Actionni13: folds
+Uncalled bet ($6) returned to old_col
+old_col collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [9h Qs Js 4c Ks]
+Seat 3: old_col (big blind) collected ($35.50)
+Seat 4: Actionni13 (button) (small blind) folded on the River
+
+
+PokerStars Hand #161787906263:  Hold'em Limit ($3/$6 USD) - 2016/11/22 9:19:25 ET
+Table 'Pogson II' 6-max Seat #3 is the button
+Seat 3: old_col ($140.76 in chips)
+Seat 4: Actionni13 ($158.64 in chips)
+old_col: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+old_col: raises $3 to $6
+Actionni13: folds
+Uncalled bet ($3) returned to old_col
+old_col collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: old_col (button) (small blind) collected ($6)
+Seat 4: Actionni13 (big blind) folded before Flop
+
+
+PokerStars Hand #161787893668:  Hold'em Limit ($3/$6 USD) - 2016/11/22 9:19:04 ET
+Table 'Pogson II' 6-max Seat #4 is the button
+Seat 3: old_col ($149.76 in chips)
+Seat 4: Actionni13 ($150 in chips)
+Actionni13: posts small blind $1
+old_col: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+old_col: calls $3
+*** FLOP *** [Qc 7d 3c]
+old_col: checks
+Actionni13: bets $3
+old_col: calls $3
+*** TURN *** [Qc 7d 3c] [3h]
+old_col: checks
+Actionni13: bets $6
+old_col: folds
+Uncalled bet ($6) returned to Actionni13
+Actionni13 collected $17.64 from pot
+Actionni13: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qc 7d 3c 3h]
+Seat 3: old_col (big blind) folded on the Turn
+Seat 4: Actionni13 (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #161787881552:  Hold'em Limit ($3/$6 USD) - 2016/11/22 9:18:45 ET
+Table 'Pogson II' 6-max Seat #3 is the button
+Seat 3: old_col ($146.88 in chips)
+Seat 4: Actionni13 ($150 in chips)
+old_col: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+old_col: calls $2
+Actionni13: checks
+*** FLOP *** [Js 7d Jc]
+Actionni13: checks
+old_col: checks
+*** TURN *** [Js 7d Jc] [Qs]
+Actionni13: checks
+old_col: checks
+*** RIVER *** [Js 7d Jc Qs] [As]
+Actionni13: checks
+old_col: checks
+*** SHOW DOWN ***
+Actionni13: shows [6d 3h] (a pair of Jacks)
+old_col: shows [Td 3d] (a pair of Jacks - Ace+Queen+Ten kicker)
+old_col collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Js 7d Jc Qs As]
+Seat 3: old_col (button) (small blind) showed [Td 3d] and won ($5.88) with a pair of Jacks
+Seat 4: Actionni13 (big blind) showed [6d 3h] and lost with a pair of Jacks
+
+
+PokerStars Hand #161787865526:  Hold'em Limit ($3/$6 USD) - 2016/11/22 9:18:19 ET
+Table 'Pogson II' 6-max Seat #4 is the button
+Seat 3: old_col ($132.38 in chips)
+Seat 4: Actionni13 ($152.88 in chips)
+Actionni13: posts small blind $1
+old_col: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+old_col: raises $3 to $9
+Actionni13: calls $3
+*** FLOP *** [3c 6h 4s]
+old_col: bets $3
+Actionni13: raises $3 to $6
+old_col: calls $3
+*** TURN *** [3c 6h 4s] [9d]
+old_col: checks
+Actionni13: checks
+*** RIVER *** [3c 6h 4s 9d] [As]
+old_col: checks
+Actionni13: checks
+*** SHOW DOWN ***
+old_col: shows [Js Qh] (high card Ace)
+Actionni13: mucks hand
+old_col collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3c 6h 4s 9d As]
+Seat 3: old_col (big blind) showed [Js Qh] and won ($29.50) with high card Ace
+Seat 4: Actionni13 (button) (small blind) mucked
+
+
+PokerStars Hand #161787935916:  Hold'em Limit ($3/$6 USD) - 2016/11/22 9:20:13 ET
+Table 'Pogson II' 6-max Seat #4 is the button
+Seat 3: old_col ($128.76 in chips)
+Seat 4: Actionni13 ($170.04 in chips)
+Actionni13: posts small blind $1
+old_col: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+old_col: folds
+Uncalled bet ($3) returned to Actionni13
+Actionni13 collected $6 from pot
+Actionni13: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: old_col (big blind) folded before Flop
+Seat 4: Actionni13 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #161787920406:  Hold'em Limit ($3/$6 USD) - 2016/11/22 9:19:48 ET
+Table 'Pogson II' 6-max Seat #3 is the button
+Seat 3: old_col ($137.76 in chips)
+Seat 4: Actionni13 ($161.40 in chips)
+old_col: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+old_col: raises $3 to $6
+Actionni13: calls $3
+*** FLOP *** [3s Td Ts]
+Actionni13: checks
+old_col: bets $3
+Actionni13: calls $3
+*** TURN *** [3s Td Ts] [2d]
+Actionni13: checks
+old_col: checks
+*** RIVER *** [3s Td Ts 2d] [5h]
+Actionni13: checks
+old_col: checks
+*** SHOW DOWN ***
+Actionni13: shows [6h Ad] (a pair of Tens)
+old_col: mucks hand
+Actionni13 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3s Td Ts 2d 5h]
+Seat 3: old_col (button) (small blind) mucked
+Seat 4: Actionni13 (big blind) showed [6h Ad] and won ($17.64) with a pair of Tens
+
+
+PokerStars Hand #161787910740:  Hold'em Limit ($3/$6 USD) - 2016/11/22 9:19:32 ET
+Table 'Pogson II' 6-max Seat #4 is the button
+Seat 3: old_col ($143.76 in chips)
+Seat 4: Actionni13 ($155.64 in chips)
+Actionni13: posts small blind $1
+old_col: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+old_col: calls $3
+*** FLOP *** [8d Ac 6h]
+old_col: checks
+Actionni13: bets $3
+old_col: folds
+Uncalled bet ($3) returned to Actionni13
+Actionni13 collected $11.76 from pot
+Actionni13: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8d Ac 6h]
+Seat 3: old_col (big blind) folded on the Flop
+Seat 4: Actionni13 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #161787972102:  Hold'em Limit ($3/$6 USD) - 2016/11/22 9:21:11 ET
+Table 'Pogson II' 6-max Seat #3 is the button
+Seat 3: old_col ($98.64 in chips)
+Seat 4: Actionni13 ($199.54 in chips)
+old_col: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+old_col: calls $2
+Actionni13: checks
+*** FLOP *** [Ad 8h 5h]
+Actionni13: bets $3
+old_col: folds
+Uncalled bet ($3) returned to Actionni13
+Actionni13 collected $5.88 from pot
+Actionni13: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Ad 8h 5h]
+Seat 3: old_col (button) (small blind) folded on the Flop
+Seat 4: Actionni13 (big blind) collected ($5.88)
+
+
+PokerStars Hand #161787952194:  Hold'em Limit ($3/$6 USD) - 2016/11/22 9:20:39 ET
+Table 'Pogson II' 6-max Seat #4 is the button
+Seat 3: old_col ($128.64 in chips)
+Seat 4: Actionni13 ($170.04 in chips)
+Actionni13: posts small blind $1
+old_col: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+old_col: calls $3
+*** FLOP *** [9c Qs Tc]
+HAL9QQQ joins the table at seat #1
+old_col: checks
+Actionni13: bets $3
+old_col: raises $3 to $6
+Actionni13: calls $3
+*** TURN *** [9c Qs Tc] [Jd]
+italianhero4 joins the table at seat #5
+old_col: bets $6
+Actionni13: raises $6 to $12
+old_col: calls $6
+*** RIVER *** [9c Qs Tc Jd] [7s]
+old_col: checks
+Actionni13: bets $6
+old_col: calls $6
+*** SHOW DOWN ***
+Actionni13: shows [As Kc] (a straight, Ten to Ace)
+old_col: mucks hand
+Actionni13 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [9c Qs Tc Jd 7s]
+Seat 3: old_col (big blind) mucked
+Seat 4: Actionni13 (button) (small blind) showed [As Kc] and won ($59.50) with a straight, Ten to Ace
+
+
+PokerStars Hand #161787940753:  Hold'em Limit ($3/$6 USD) - 2016/11/22 9:20:21 ET
+Table 'Pogson II' 6-max Seat #3 is the button
+Seat 3: old_col ($125.76 in chips)
+Seat 4: Actionni13 ($173.04 in chips)
+old_col: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+old_col: calls $2
+Actionni13: checks
+*** FLOP *** [4c 4d 3s]
+Actionni13: checks
+old_col: bets $3
+Actionni13: folds
+Uncalled bet ($3) returned to old_col
+old_col collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [4c 4d 3s]
+Seat 3: old_col (button) (small blind) collected ($5.88)
+Seat 4: Actionni13 (big blind) folded on the Flop
+
+
+PokerStars Hand #161788203961:  Hold'em Limit ($3/$6 USD) - 2016/11/22 9:27:22 ET
+Table 'Pogson II' 6-max Seat #2 is the button
+Seat 1: HAL9QQQ ($120 in chips)
+Seat 2: yoyoma7777 ($57 in chips)
+yoyoma7777: posts small blind $1
+italianhero4: is sitting out
+HAL9QQQ: posts big blind $3
+*** HOLE CARDS ***
+yoyoma7777: folds
+Uncalled bet ($2) returned to HAL9QQQ
+italianhero4 leaves the table
+HAL9QQQ collected $2 from pot
+HAL9QQQ: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: HAL9QQQ (big blind) collected ($2)
+Seat 2: yoyoma7777 (button) (small blind) folded before Flop
+
+

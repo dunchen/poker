@@ -1,0 +1,60 @@
+PokerStars Hand #147966939803:  Hold'em Limit ($3/$6 USD) - 2016/01/30 20:04:22 ET
+Table 'Stearns' 2-max Seat #2 is the button
+Seat 1: favete lin ($93.50 in chips)
+Seat 2: mbpaalborg ($14.30 in chips)
+mbpaalborg: posts small blind $1
+favete lin: posts big blind $3
+*** HOLE CARDS ***
+mbpaalborg: raises $3 to $6
+favete lin: raises $3 to $9
+mbpaalborg: raises $3 to $12
+Betting is capped
+favete lin: calls $3
+*** FLOP *** [Ah Th Jh]
+favete lin: bets $3
+mbpaalborg: calls $2.30 and is all-in
+Uncalled bet ($0.70) returned to favete lin
+*** TURN *** [Ah Th Jh] [Jd]
+*** RIVER *** [Ah Th Jh Jd] [4h]
+*** SHOW DOWN ***
+favete lin: shows [9h 9s] (a flush, Ace high)
+mbpaalborg: shows [6h 7h] (a flush, Ace high - lower cards)
+favete lin collected $28.10 from pot
+*** SUMMARY ***
+Total pot $28.60 | Rake $0.50
+Board [Ah Th Jh Jd 4h]
+Seat 1: favete lin (big blind) showed [9h 9s] and won ($28.10) with a flush, Ace high
+Seat 2: mbpaalborg (button) (small blind) showed [6h 7h] and lost with a flush, Ace high
+
+
+PokerStars Hand #147966927041:  Hold'em Limit ($3/$6 USD) - 2016/01/30 20:04:02 ET
+Table 'Stearns' 2-max Seat #1 is the button
+Seat 1: favete lin ($73 in chips)
+Seat 2: mbpaalborg ($35.30 in chips)
+favete lin: posts small blind $1
+mbpaalborg: posts big blind $3
+*** HOLE CARDS ***
+favete lin: raises $3 to $6
+mbpaalborg: calls $3
+*** FLOP *** [Td 5d Jc]
+mbpaalborg: checks
+favete lin: bets $3
+mbpaalborg: calls $3
+*** TURN *** [Td 5d Jc] [Qh]
+mbpaalborg: checks
+favete lin: bets $6
+mbpaalborg: calls $6
+*** RIVER *** [Td 5d Jc Qh] [Ah]
+mbpaalborg: bets $6
+favete lin: raises $6 to $12
+mbpaalborg: folds
+Uncalled bet ($6) returned to favete lin
+favete lin collected $41.50 from pot
+favete lin: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Td 5d Jc Qh Ah]
+Seat 1: favete lin (button) (small blind) collected ($41.50)
+Seat 2: mbpaalborg (big blind) folded on the River
+
+

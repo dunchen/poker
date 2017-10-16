@@ -1,0 +1,93 @@
+PokerStars Hand #169809294883:  Hold'em Limit ($3/$6 USD) - 2017/05/01 10:40:10 ET
+Table 'Sarema' 6-max Seat #4 is the button
+Seat 3: artecris ($905.69 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+artecris: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+artecris: calls $3
+*** FLOP *** [4d 5s Qh]
+artecris: checks
+VolkovDmitri: bets $3
+artecris: calls $3
+*** TURN *** [4d 5s Qh] [3d]
+artecris: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [4d 5s Qh 3d] [2c]
+artecris: bets $6
+VolkovDmitri: raises $6 to $12
+artecris: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [7s Ah] (a straight, Ace to Five)
+artecris: shows [Ad 9d] (a straight, Ace to Five)
+artecris collected $26.75 from pot
+VolkovDmitri collected $26.75 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [4d 5s Qh 3d 2c]
+Seat 3: artecris (big blind) showed [Ad 9d] and won ($26.75) with a straight, Ace to Five
+Seat 4: VolkovDmitri (button) (small blind) showed [7s Ah] and won ($26.75) with a straight, Ace to Five
+
+
+PokerStars Hand #169809261579:  Hold'em Limit ($3/$6 USD) - 2017/05/01 10:39:21 ET
+Table 'Sarema' 6-max Seat #4 is the button
+Seat 3: artecris ($879.55 in chips)
+Seat 4: VolkovDmitri ($128.64 in chips)
+VolkovDmitri: posts small blind $1
+artecris: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+artecris: calls $3
+*** FLOP *** [8s 9c Ac]
+artecris: checks
+VolkovDmitri: bets $3
+artecris: calls $3
+*** TURN *** [8s 9c Ac] [Ks]
+artecris: checks
+VolkovDmitri: checks
+*** RIVER *** [8s 9c Ac Ks] [4h]
+artecris: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to artecris
+artecris collected $17.64 from pot
+artecris: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8s 9c Ac Ks 4h]
+Seat 3: artecris (big blind) collected ($17.64)
+Seat 4: VolkovDmitri (button) (small blind) folded on the River
+
+
+PokerStars Hand #169809274344:  Hold'em Limit ($3/$6 USD) - 2017/05/01 10:39:39 ET
+Table 'Sarema' 6-max Seat #3 is the button
+Seat 3: artecris ($888.19 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+artecris: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+artecris: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Ad 2d 7c]
+VolkovDmitri: checks
+artecris: bets $3
+VolkovDmitri: raises $3 to $6
+artecris: calls $3
+*** TURN *** [Ad 2d 7c] [Jc]
+VolkovDmitri: checks
+artecris: checks
+*** RIVER *** [Ad 2d 7c Jc] [Qh]
+VolkovDmitri: checks
+artecris: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+artecris: shows [Kd Ts] (a straight, Ten to Ace)
+VolkovDmitri: mucks hand
+artecris collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Ad 2d 7c Jc Qh]
+Seat 3: artecris (button) (small blind) showed [Kd Ts] and won ($35.50) with a straight, Ten to Ace
+Seat 4: VolkovDmitri (big blind) mucked
+
+

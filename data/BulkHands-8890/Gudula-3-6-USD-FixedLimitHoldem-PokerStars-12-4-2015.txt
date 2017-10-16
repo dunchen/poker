@@ -1,0 +1,61 @@
+PokerStars Hand #144797185112:  Hold'em Limit ($3/$6 USD) - 2015/12/04 4:51:31 ET
+Table 'Gudula' 6-max Seat #1 is the button
+Seat 1: zeelogic666 ($40.92 in chips)
+Seat 4: MTails ($120 in chips)
+zeelogic666: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88 joins the table at seat #2
+zeelogic666: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [5h Td 9s]
+MTails: checks
+zeelogic666: bets $3
+Bubman78 joins the table at seat #3
+MTails: raises $3 to $6
+zeelogic666: calls $3
+*** TURN *** [5h Td 9s] [Tc]
+MTails: bets $6
+zeelogic666: calls $6
+*** RIVER *** [5h Td 9s Tc] [3s]
+MTails: bets $6
+schnizm joins the table at seat #5
+zeelogic666: calls $6
+*** SHOW DOWN ***
+MTails: shows [Ts 3d] (a full house, Tens full of Threes)
+zeelogic666: mucks hand
+MTails collected $47.50 from pot
+oregordog joins the table at seat #6
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [5h Td 9s Tc 3s]
+Seat 1: zeelogic666 (button) (small blind) mucked
+Seat 4: MTails (big blind) showed [Ts 3d] and won ($47.50) with a full house, Tens full of Threes
+
+
+PokerStars Hand #144797715275:  Hold'em Limit ($3/$6 USD) - 2015/12/04 5:12:50 ET
+Table 'Gudula' 6-max Seat #5 is the button
+Seat 3: Bubman78 ($114.12 in chips)
+Seat 5: schnizm ($202.90 in chips)
+schnizm: posts small blind $1
+Bubman78: posts big blind $3
+*** HOLE CARDS ***
+schnizm: raises $3 to $6
+Bubman78: raises $3 to $9
+schnizm: calls $3
+*** FLOP *** [4d 6s 7d]
+Bubman78: bets $3
+schnizm: calls $3
+*** TURN *** [4d 6s 7d] [7h]
+Bubman78: bets $6
+schnizm: folds
+Uncalled bet ($6) returned to Bubman78
+Bubman78 collected $23.52 from pot
+Bubman78: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [4d 6s 7d 7h]
+Seat 3: Bubman78 (big blind) collected ($23.52)
+Seat 5: schnizm (button) (small blind) folded on the Turn
+
+

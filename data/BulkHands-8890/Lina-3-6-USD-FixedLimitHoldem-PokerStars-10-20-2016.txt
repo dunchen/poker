@@ -1,0 +1,99 @@
+PokerStars Hand #160210515653:  Hold'em Limit ($3/$6 USD) - 2016/10/20 18:07:49 ET
+Table 'Lina' 6-max Seat #4 is the button
+Seat 1: Siwy56 ($97 in chips)
+Seat 4: Actionni13 ($152.88 in chips)
+Actionni13: posts small blind $1
+Siwy56: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+Siwy56: raises $3 to $9
+Actionni13: calls $3
+*** FLOP *** [Js 4h 5c]
+Siwy56: bets $3
+Actionni13: calls $3
+*** TURN *** [Js 4h 5c] [3d]
+vestimokrec joins the table at seat #2
+Siwy56: bets $6
+Actionni13: calls $6
+*** RIVER *** [Js 4h 5c 3d] [3c]
+Siwy56: bets $6
+Actionni13: calls $6
+*** SHOW DOWN ***
+Siwy56: shows [8h Th] (a pair of Threes)
+Actionni13: shows [As Kc] (a pair of Threes - Ace kicker)
+Actionni13 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Js 4h 5c 3d 3c]
+Seat 1: Siwy56 (big blind) showed [8h Th] and lost with a pair of Threes
+Seat 4: Actionni13 (button) (small blind) showed [As Kc] and won ($47.50) with a pair of Threes
+
+
+PokerStars Hand #160213419736:  Hold'em Limit ($3/$6 USD) - 2016/10/20 19:20:40 ET
+Table 'Lina' 6-max Seat #6 is the button
+Seat 3: ToDaFelt ($147.78 in chips)
+Seat 6: RaisemyNut$ ($104.89 in chips)
+RaisemyNut$: posts small blind $1
+vestimokrec: is sitting out
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07 leaves the table
+RaisemyNut$: raises $3 to $6
+vestimokrec leaves the table
+ToDaFelt: raises $3 to $9
+RaisemyNut$: calls $3
+*** FLOP *** [9s 6d 2h]
+ToDaFelt: bets $3
+RaisemyNut$: calls $3
+*** TURN *** [9s 6d 2h] [As]
+ToDaFelt: bets $6
+RaisemyNut$: raises $6 to $12
+ToDaFelt: raises $6 to $18
+RaisemyNut$: raises $6 to $24
+Betting is capped
+ToDaFelt: calls $6
+*** RIVER *** [9s 6d 2h As] [4c]
+ToDaFelt: checks
+RaisemyNut$: bets $6
+ToDaFelt: raises $6 to $12
+RaisemyNut$: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [9d 9c] (three of a kind, Nines)
+RaisemyNut$: mucks hand
+ToDaFelt collected $95.50 from pot
+*** SUMMARY ***
+Total pot $96 | Rake $0.50
+Board [9s 6d 2h As 4c]
+Seat 3: ToDaFelt (big blind) showed [9d 9c] and won ($95.50) with three of a kind, Nines
+Seat 6: RaisemyNut$ (button) (small blind) mucked
+
+
+PokerStars Hand #160213439521:  Hold'em Limit ($3/$6 USD) - 2016/10/20 19:21:14 ET
+Table 'Lina' 6-max Seat #3 is the button
+Seat 3: ToDaFelt ($195.28 in chips)
+Seat 6: RaisemyNut$ ($60 in chips)
+ToDaFelt: posts small blind $1
+RaisemyNut$: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+RaisemyNut$: calls $3
+*** FLOP *** [Ts 4s 3c]
+RaisemyNut$: checks
+ToDaFelt: checks
+*** TURN *** [Ts 4s 3c] [3h]
+RaisemyNut$: checks
+ToDaFelt: checks
+*** RIVER *** [Ts 4s 3c 3h] [8c]
+RaisemyNut$: checks
+ToDaFelt: bets $6
+RaisemyNut$: folds
+Uncalled bet ($6) returned to ToDaFelt
+ToDaFelt collected $11.76 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ts 4s 3c 3h 8c]
+Seat 3: ToDaFelt (button) (small blind) collected ($11.76)
+Seat 6: RaisemyNut$ (big blind) folded on the River
+
+

@@ -1,0 +1,32 @@
+PokerStars Hand #152034043959:  Hold'em Limit ($3/$6 USD) - 2016/04/17 5:26:44 ET
+Table 'Forsytia' 6-max Seat #3 is the button
+Seat 3: vladal 888 ($40 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+vladal 888: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+vladal 888: raises $3 to $6
+Chessnok joins the table at seat #5
+VolkovDmitri: raises $3 to $9
+vladal 888: calls $3
+*** FLOP *** [6c 9d 4h]
+VolkovDmitri: bets $3
+vladal 888: calls $3
+*** TURN *** [6c 9d 4h] [6s]
+VolkovDmitri: checks
+vladal 888: checks
+*** RIVER *** [6c 9d 4h 6s] [6d]
+VolkovDmitri: checks
+vladal 888: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [Kc Qs] (three of a kind, Sixes)
+vladal 888: mucks hand
+lityi001 joins the table at seat #2
+VolkovDmitri collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [6c 9d 4h 6s 6d]
+Seat 3: vladal 888 (button) (small blind) mucked
+Seat 4: VolkovDmitri (big blind) showed [Kc Qs] and won ($23.52) with three of a kind, Sixes
+
+

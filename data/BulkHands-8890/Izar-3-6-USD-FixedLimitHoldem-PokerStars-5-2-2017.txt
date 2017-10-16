@@ -1,0 +1,84 @@
+PokerStars Hand #169853970336:  Hold'em Limit ($3/$6 USD) - 2017/05/02 10:48:51 ET
+Table 'Izar' 6-max Seat #3 is the button
+Seat 3: NoVebra ($72 in chips)
+Seat 4: bekooi ($40 in chips)
+NoVebra: posts small blind $1
+bekooi: posts big blind $3
+*** HOLE CARDS ***
+NoVebra: raises $3 to $6
+bekooi: calls $3
+*** FLOP *** [9c 4c Qs]
+bekooi: bets $3
+NoVebra: raises $3 to $6
+bekooi: calls $3
+*** TURN *** [9c 4c Qs] [8c]
+bekooi: checks
+NoVebra: checks
+*** RIVER *** [9c 4c Qs 8c] [Kd]
+bekooi: bets $6
+NoVebra: folds
+Uncalled bet ($6) returned to bekooi
+bekooi collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [9c 4c Qs 8c Kd]
+Seat 3: NoVebra (button) (small blind) folded on the River
+Seat 4: bekooi (big blind) collected ($23.52)
+
+
+PokerStars Hand #169853991548:  Hold'em Limit ($3/$6 USD) - 2017/05/02 10:49:25 ET
+Table 'Izar' 6-max Seat #4 is the button
+Seat 3: NoVebra ($72 in chips)
+Seat 4: bekooi ($51.52 in chips)
+bekooi: posts small blind $1
+NoVebra: posts big blind $3
+*** HOLE CARDS ***
+bekooi: raises $3 to $6
+NoVebra: calls $3
+*** FLOP *** [Tc Ac Th]
+NoVebra: checks
+bekooi: bets $3
+NoVebra: raises $3 to $6
+bekooi: calls $3
+*** TURN *** [Tc Ac Th] [4c]
+NoVebra: bets $6
+MobyDickDK joins the table at seat #5
+bekooi: calls $6
+*** RIVER *** [Tc Ac Th 4c] [2c]
+NoVebra: bets $6
+bekooi: calls $6
+*** SHOW DOWN ***
+NoVebra: shows [4s Td] (a full house, Tens full of Fours)
+bekooi: mucks hand
+NoVebra collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Tc Ac Th 4c 2c]
+Seat 3: NoVebra (big blind) showed [4s Td] and won ($47.50) with a full house, Tens full of Fours
+Seat 4: bekooi (button) (small blind) mucked
+
+
+PokerStars Hand #169854011156:  Hold'em Limit ($3/$6 USD) - 2017/05/02 10:49:57 ET
+Table 'Izar' 6-max Seat #3 is the button
+Seat 3: NoVebra ($95.50 in chips)
+Seat 4: bekooi ($27.52 in chips)
+NoVebra: posts small blind $1
+bekooi: posts big blind $3
+*** HOLE CARDS ***
+NoVebra: raises $3 to $6
+bekooi: calls $3
+*** FLOP *** [5d 7h 9s]
+bekooi: checks
+NoVebra: checks
+*** TURN *** [5d 7h 9s] [Qs]
+bekooi: bets $6
+NoVebra: folds
+Uncalled bet ($6) returned to bekooi
+bekooi collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5d 7h 9s Qs]
+Seat 3: NoVebra (button) (small blind) folded on the Turn
+Seat 4: bekooi (big blind) collected ($11.76)
+
+

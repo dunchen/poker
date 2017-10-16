@@ -1,0 +1,84 @@
+PokerStars Hand #150283820418:  Hold'em Limit ($3/$6 USD) - 2016/03/13 9:49:58 ET
+Table 'Elara' 10-max Seat #1 is the button
+Seat 1: kvernavik ($50 in chips)
+Seat 5: ct-650 ($150 in chips)
+kvernavik: posts small blind $1
+ct-650: posts big blind $3
+*** HOLE CARDS ***
+kvernavik: raises $3 to $6
+ct-650: calls $3
+*** FLOP *** [5s 6d 7h]
+ct-650: checks
+SirRomanov joins the table at seat #2
+Stephan0511 joins the table at seat #9
+kvernavik is disconnected
+kvernavik has timed out while disconnected
+kvernavik: checks
+*** TURN *** [5s 6d 7h] [Ac]
+ct-650: bets $6
+kvernavik is connected
+GoliafUa joins the table at seat #10
+kvernavik: folds
+Uncalled bet ($6) returned to ct-650
+ct-650 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5s 6d 7h Ac]
+Seat 1: kvernavik (button) (small blind) folded on the Turn
+Seat 5: ct-650 (big blind) collected ($11.76)
+
+
+PokerStars Hand #150284432114:  Hold'em Limit ($3/$6 USD) - 2016/03/13 10:05:21 ET
+Table 'Elara' 10-max Seat #5 is the button
+Seat 4: Kriksis66 ($94.70 in chips)
+Seat 5: ct-650 ($86.06 in chips)
+ct-650: posts small blind $1
+Kriksis66: posts big blind $3
+*** HOLE CARDS ***
+ct-650: raises $3 to $6
+Kriksis66: calls $3
+*** FLOP *** [Th As 3c]
+Kriksis66: checks
+ct-650: bets $3
+Kriksis66: calls $3
+*** TURN *** [Th As 3c] [5d]
+Kriksis66: checks
+ct-650: checks
+*** RIVER *** [Th As 3c 5d] [7c]
+Kriksis66: bets $6
+ct-650: folds
+Uncalled bet ($6) returned to Kriksis66
+Kriksis66 collected $17.64 from pot
+Kriksis66: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Th As 3c 5d 7c]
+Seat 4: Kriksis66 (big blind) collected ($17.64)
+Seat 5: ct-650 (button) (small blind) folded on the River
+
+
+PokerStars Hand #150284443892:  Hold'em Limit ($3/$6 USD) - 2016/03/13 10:05:36 ET
+Table 'Elara' 10-max Seat #4 is the button
+Seat 4: Kriksis66 ($103.34 in chips)
+Seat 5: ct-650 ($77.06 in chips)
+Kriksis66: posts small blind $1
+ct-650: posts big blind $3
+*** HOLE CARDS ***
+Kriksis66: calls $2
+ct-650: raises $3 to $6
+Kriksis66: calls $3
+*** FLOP *** [7d 8c 5c]
+ct-650: bets $3
+Kriksis66: calls $3
+*** TURN *** [7d 8c 5c] [6c]
+ct-650: bets $6
+Kriksis66: folds
+Uncalled bet ($6) returned to ct-650
+ct-650 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7d 8c 5c 6c]
+Seat 4: Kriksis66 (button) (small blind) folded on the Turn
+Seat 5: ct-650 (big blind) collected ($17.64)
+
+

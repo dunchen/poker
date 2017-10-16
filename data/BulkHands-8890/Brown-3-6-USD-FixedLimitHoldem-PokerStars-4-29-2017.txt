@@ -1,0 +1,82 @@
+PokerStars Hand #169709728476:  Hold'em Limit ($3/$6 USD) - 2017/04/29 7:23:09 ET
+Table 'Brown' 10-max Seat #5 is the button
+Seat 5: KSteps ($104.76 in chips)
+Seat 6: Agrotait ($75 in chips)
+KSteps: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+KSteps: raises $3 to $6
+Agrotait: raises $3 to $9
+KSteps: calls $3
+*** FLOP *** [2h 4c 4h]
+Agrotait: bets $3
+KSteps: calls $3
+*** TURN *** [2h 4c 4h] [Td]
+Agrotait: bets $6
+gnatakurchpz joins the table at seat #7
+KSteps: raises $6 to $12
+Agrotait: calls $6
+*** RIVER *** [2h 4c 4h Td] [3d]
+Agrotait: checks
+KSteps: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+KSteps: shows [4d Jd] (three of a kind, Fours)
+Agrotait: mucks hand
+KSteps collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [2h 4c 4h Td 3d]
+Seat 5: KSteps (button) (small blind) showed [4d Jd] and won ($59.50) with three of a kind, Fours
+Seat 6: Agrotait (big blind) mucked
+
+
+PokerStars Hand #169709725422:  Hold'em Limit ($3/$6 USD) - 2017/04/29 7:23:02 ET
+Table 'Brown' 10-max Seat #6 is the button
+Seat 5: KSteps ($107.76 in chips)
+Seat 6: Agrotait ($72 in chips)
+Agrotait: posts small blind $1
+KSteps: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+KSteps: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $6 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 5: KSteps (big blind) folded before Flop
+Seat 6: Agrotait (button) (small blind) collected ($6)
+
+
+PokerStars Hand #169709710726:  Hold'em Limit ($3/$6 USD) - 2017/04/29 7:22:30 ET
+Table 'Brown' 10-max Seat #5 is the button
+Seat 5: KSteps ($90.26 in chips)
+Seat 6: Agrotait ($68 in chips)
+KSteps: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+KSteps: raises $3 to $6
+Agrotait: raises $3 to $9
+KSteps: calls $3
+*** FLOP *** [9s 7s 2d]
+Agrotait: bets $3
+KSteps: calls $3
+*** TURN *** [9s 7s 2d] [Js]
+Agrotait: checks
+KSteps: bets $6
+Agrotait: calls $6
+*** RIVER *** [9s 7s 2d Js] [Ts]
+Agrotait: checks
+KSteps: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to KSteps
+KSteps collected $35.50 from pot
+KSteps: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [9s 7s 2d Js Ts]
+Seat 5: KSteps (button) (small blind) collected ($35.50)
+Seat 6: Agrotait (big blind) folded on the River
+
+

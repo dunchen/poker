@@ -1,0 +1,95 @@
+PokerStars Hand #176889423340:  Hold'em Limit ($3/$6 USD) - 2017/10/14 0:56:35 ET
+Table 'Nausikaa' 6-max Seat #6 is the button
+Seat 4: xxPSRxx ($101.89 in chips)
+Seat 6: siamuss ($128.35 in chips)
+siamuss: posts small blind $1
+xxPSRxx: posts big blind $3
+*** HOLE CARDS ***
+ebam_gnasno leaves the table
+siamuss: calls $2
+xxPSRxx: checks
+*** FLOP *** [4d 5c 5s]
+xxPSRxx: checks
+siamuss: checks
+*** TURN *** [4d 5c 5s] [6s]
+xxPSRxx: checks
+siamuss: checks
+*** RIVER *** [4d 5c 5s 6s] [Qh]
+xxPSRxx: checks
+siamuss: checks
+*** SHOW DOWN ***
+xxPSRxx: shows [Js 3s] (a pair of Fives)
+siamuss: shows [Jh 3h] (a pair of Fives)
+xxPSRxx collected $2.94 from pot
+siamuss collected $2.94 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [4d 5c 5s 6s Qh]
+Seat 4: xxPSRxx (big blind) showed [Js 3s] and won ($2.94) with a pair of Fives
+Seat 6: siamuss (button) (small blind) showed [Jh 3h] and won ($2.94) with a pair of Fives
+
+
+PokerStars Hand #176889428000:  Hold'em Limit ($3/$6 USD) - 2017/10/14 0:56:56 ET
+Table 'Nausikaa' 6-max Seat #4 is the button
+Seat 4: xxPSRxx ($101.83 in chips)
+Seat 6: siamuss ($128.29 in chips)
+xxPSRxx: posts small blind $1
+siamuss: posts big blind $3
+*** HOLE CARDS ***
+xxPSRxx: raises $3 to $6
+siamuss: calls $3
+*** FLOP *** [Tc 3d 9s]
+siamuss: checks
+xxPSRxx: bets $3
+siamuss: calls $3
+*** TURN *** [Tc 3d 9s] [4d]
+siamuss: checks
+xxPSRxx: checks
+*** RIVER *** [Tc 3d 9s 4d] [Ah]
+siamuss: checks
+xxPSRxx: bets $6
+siamuss: calls $6
+*** SHOW DOWN ***
+xxPSRxx: shows [As 2s] (a pair of Aces)
+siamuss: mucks hand
+xxPSRxx collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Tc 3d 9s 4d Ah]
+Seat 4: xxPSRxx (button) (small blind) showed [As 2s] and won ($29.50) with a pair of Aces
+Seat 6: siamuss (big blind) mucked
+
+
+PokerStars Hand #176889435235:  Hold'em Limit ($3/$6 USD) - 2017/10/14 0:57:26 ET
+Table 'Nausikaa' 6-max Seat #6 is the button
+Seat 4: xxPSRxx ($116.33 in chips)
+Seat 6: siamuss ($113.29 in chips)
+siamuss: posts small blind $1
+xxPSRxx: posts big blind $3
+*** HOLE CARDS ***
+siamuss: calls $2
+xxPSRxx: checks
+*** FLOP *** [4h 3c 5s]
+xxPSRxx: checks
+siamuss: bets $3
+xxPSRxx: calls $3
+*** TURN *** [4h 3c 5s] [4c]
+xxPSRxx: checks
+siamuss: bets $6
+xxPSRxx: raises $6 to $12
+siamuss: raises $6 to $18
+xxPSRxx: calls $6
+*** RIVER *** [4h 3c 5s 4c] [Kd]
+xxPSRxx: checks
+siamuss: checks
+*** SHOW DOWN ***
+xxPSRxx: shows [Jd 6d] (a pair of Fours)
+siamuss: shows [8c 4d] (three of a kind, Fours)
+siamuss collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4h 3c 5s 4c Kd]
+Seat 4: xxPSRxx (big blind) showed [Jd 6d] and lost with a pair of Fours
+Seat 6: siamuss (button) (small blind) showed [8c 4d] and won ($47.50) with three of a kind, Fours
+
+

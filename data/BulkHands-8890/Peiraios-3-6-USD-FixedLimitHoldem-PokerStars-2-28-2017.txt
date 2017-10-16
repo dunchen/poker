@@ -1,0 +1,718 @@
+PokerStars Hand #166891681877:  Hold'em Limit ($3/$6 USD) - 2017/02/28 5:16:33 ET
+Table 'Peiraios' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 3: KingYang2008 ($90 in chips)
+VolkovDmitri: posts small blind $1
+KingYang2008: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+KingYang2008: calls $3
+*** FLOP *** [4c 9h 7d]
+KingYang2008: checks
+VolkovDmitri: checks
+*** TURN *** [4c 9h 7d] [Jh]
+KingYang2008: checks
+VolkovDmitri: checks
+*** RIVER *** [4c 9h 7d Jh] [Kh]
+KingYang2008: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+KingYang2008: shows [Ah 6h] (a flush, Ace high)
+VolkovDmitri: mucks hand
+KingYang2008 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [4c 9h 7d Jh Kh]
+Seat 1: VolkovDmitri (button) (small blind) mucked
+Seat 3: KingYang2008 (big blind) showed [Ah 6h] and won ($23.52) with a flush, Ace high
+
+
+PokerStars Hand #166891708401:  Hold'em Limit ($3/$6 USD) - 2017/02/28 5:17:35 ET
+Table 'Peiraios' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($137.50 in chips)
+Seat 3: KingYang2008 ($83.52 in chips)
+VolkovDmitri: posts small blind $1
+KingYang2008: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+KingYang2008: calls $3
+*** FLOP *** [Ad Qh 9d]
+KingYang2008: checks
+VolkovDmitri: bets $3
+KingYang2008: calls $3
+*** TURN *** [Ad Qh 9d] [9c]
+KingYang2008: checks
+VolkovDmitri: bets $6
+KingYang2008: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $17.64 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ad Qh 9d 9c]
+Seat 1: VolkovDmitri (button) (small blind) collected ($17.64)
+Seat 3: KingYang2008 (big blind) folded on the Turn
+
+
+PokerStars Hand #166891721868:  Hold'em Limit ($3/$6 USD) - 2017/02/28 5:18:07 ET
+Table 'Peiraios' 6-max Seat #3 is the button
+Seat 1: VolkovDmitri ($146.14 in chips)
+Seat 3: KingYang2008 ($74.52 in chips)
+KingYang2008: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+KingYang2008: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Jd 2c 3c]
+VolkovDmitri: bets $3
+KingYang2008: calls $3
+*** TURN *** [Jd 2c 3c] [6h]
+VolkovDmitri: checks
+KingYang2008: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [Jd 2c 3c 6h] [Js]
+VolkovDmitri: checks
+KingYang2008: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+KingYang2008: shows [6s 5c] (two pair, Jacks and Sixes)
+VolkovDmitri: mucks hand
+KingYang2008 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Jd 2c 3c 6h Js]
+Seat 1: VolkovDmitri (big blind) mucked
+Seat 3: KingYang2008 (button) (small blind) showed [6s 5c] and won ($41.50) with two pair, Jacks and Sixes
+
+
+PokerStars Hand #166891752953:  Hold'em Limit ($3/$6 USD) - 2017/02/28 5:19:20 ET
+Table 'Peiraios' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($125.14 in chips)
+Seat 3: KingYang2008 ($95.02 in chips)
+VolkovDmitri: posts small blind $1
+KingYang2008: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+KingYang2008: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: VolkovDmitri (button) (small blind) collected ($6)
+Seat 3: KingYang2008 (big blind) folded before Flop
+
+
+PokerStars Hand #166891756725:  Hold'em Limit ($3/$6 USD) - 2017/02/28 5:19:28 ET
+Table 'Peiraios' 6-max Seat #3 is the button
+Seat 1: VolkovDmitri ($128.14 in chips)
+Seat 3: KingYang2008 ($92.02 in chips)
+KingYang2008: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+KingYang2008: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [6c 2d 7d]
+VolkovDmitri: checks
+KingYang2008: checks
+*** TURN *** [6c 2d 7d] [9d]
+VolkovDmitri: bets $6
+KingYang2008: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6c 2d 7d 9d]
+Seat 1: VolkovDmitri (big blind) collected ($11.76)
+Seat 3: KingYang2008 (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #166891785540:  Hold'em Limit ($3/$6 USD) - 2017/02/28 5:20:35 ET
+Table 'Peiraios' 6-max Seat #3 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 3: KingYang2008 ($115.52 in chips)
+KingYang2008: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+KingYang2008: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: VolkovDmitri (big blind) collected ($2)
+Seat 3: KingYang2008 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #166891765945:  Hold'em Limit ($3/$6 USD) - 2017/02/28 5:19:50 ET
+Table 'Peiraios' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($133.90 in chips)
+Seat 3: KingYang2008 ($86.02 in chips)
+VolkovDmitri: posts small blind $1
+KingYang2008: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+KingYang2008: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [4c Kd Js]
+KingYang2008: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [4c Kd Js] [7d]
+KingYang2008: bets $6
+VolkovDmitri: raises $6 to $12
+KingYang2008: calls $6
+*** RIVER *** [4c Kd Js 7d] [Ah]
+KingYang2008: checks
+VolkovDmitri: bets $6
+KingYang2008: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Kh 6d] (a pair of Kings)
+KingYang2008: shows [Ks Qh] (a pair of Kings - Ace+Queen kicker)
+KingYang2008 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [4c Kd Js 7d Ah]
+Seat 1: VolkovDmitri (button) (small blind) showed [Kh 6d] and lost with a pair of Kings
+Seat 3: KingYang2008 (big blind) showed [Ks Qh] and won ($59.50) with a pair of Kings
+
+
+PokerStars Hand #166891790264:  Hold'em Limit ($3/$6 USD) - 2017/02/28 5:20:47 ET
+Table 'Peiraios' 6-max Seat #3 is the button
+Seat 1: VolkovDmitri ($124 in chips)
+Seat 3: KingYang2008 ($111.52 in chips)
+KingYang2008: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+KingYang2008: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: VolkovDmitri (big blind) collected ($2)
+Seat 3: KingYang2008 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #166891787695:  Hold'em Limit ($3/$6 USD) - 2017/02/28 5:20:41 ET
+Table 'Peiraios' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($121 in chips)
+Seat 3: KingYang2008 ($114.52 in chips)
+VolkovDmitri: posts small blind $1
+KingYang2008: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+KingYang2008: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: VolkovDmitri (button) (small blind) collected ($6)
+Seat 3: KingYang2008 (big blind) folded before Flop
+
+
+PokerStars Hand #166891816266:  Hold'em Limit ($3/$6 USD) - 2017/02/28 5:21:47 ET
+Table 'Peiraios' 6-max Seat #3 is the button
+Seat 1: VolkovDmitri ($139.50 in chips)
+Seat 3: KingYang2008 ($95.52 in chips)
+KingYang2008: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+KingYang2008: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: VolkovDmitri (big blind) collected ($2)
+Seat 3: KingYang2008 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #166891792664:  Hold'em Limit ($3/$6 USD) - 2017/02/28 5:20:52 ET
+Table 'Peiraios' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($125 in chips)
+Seat 3: KingYang2008 ($110.52 in chips)
+VolkovDmitri: posts small blind $1
+KingYang2008: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+KingYang2008: calls $3
+*** FLOP *** [Ts As 2s]
+KingYang2008: checks
+VolkovDmitri: bets $3
+KingYang2008: calls $3
+*** TURN *** [Ts As 2s] [Tc]
+KingYang2008: checks
+VolkovDmitri: checks
+*** RIVER *** [Ts As 2s Tc] [7h]
+KingYang2008: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+KingYang2008: shows [6d 8s] (a pair of Tens)
+VolkovDmitri: shows [Qc 3d] (a pair of Tens - Ace+Queen kicker)
+VolkovDmitri collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ts As 2s Tc 7h]
+Seat 1: VolkovDmitri (button) (small blind) showed [Qc 3d] and won ($29.50) with a pair of Tens
+Seat 3: KingYang2008 (big blind) showed [6d 8s] and lost with a pair of Tens
+
+
+PokerStars Hand #166891818611:  Hold'em Limit ($3/$6 USD) - 2017/02/28 5:21:52 ET
+Table 'Peiraios' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($140.50 in chips)
+Seat 3: KingYang2008 ($94.52 in chips)
+VolkovDmitri: posts small blind $1
+KingYang2008: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+KingYang2008: calls $3
+*** FLOP *** [3s 3c 7d]
+KingYang2008: checks
+VolkovDmitri: bets $3
+KingYang2008: raises $3 to $6
+VolkovDmitri: folds
+Uncalled bet ($3) returned to KingYang2008
+KingYang2008 collected $17.64 from pot
+KingYang2008: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3s 3c 7d]
+Seat 1: VolkovDmitri (button) (small blind) folded on the Flop
+Seat 3: KingYang2008 (big blind) collected ($17.64)
+
+
+PokerStars Hand #166891854726:  Hold'em Limit ($3/$6 USD) - 2017/02/28 5:23:16 ET
+Table 'Peiraios' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($146 in chips)
+Seat 3: KingYang2008 ($88.16 in chips)
+VolkovDmitri: posts small blind $1
+KingYang2008: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+KingYang2008: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: VolkovDmitri (button) (small blind) collected ($6)
+Seat 3: KingYang2008 (big blind) folded before Flop
+
+
+PokerStars Hand #166891830739:  Hold'em Limit ($3/$6 USD) - 2017/02/28 5:22:21 ET
+Table 'Peiraios' 6-max Seat #3 is the button
+Seat 1: VolkovDmitri ($131.50 in chips)
+Seat 3: KingYang2008 ($103.16 in chips)
+KingYang2008: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+KingYang2008: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [6d Qs 2s]
+VolkovDmitri: checks
+KingYang2008: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [6d Qs 2s] [Td]
+VolkovDmitri: checks
+KingYang2008: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [6d Qs 2s Td] [9h]
+VolkovDmitri: bets $6
+KingYang2008: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $29.50 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6d Qs 2s Td 9h]
+Seat 1: VolkovDmitri (big blind) collected ($29.50)
+Seat 3: KingYang2008 (button) (small blind) folded on the River
+
+
+PokerStars Hand #166891857745:  Hold'em Limit ($3/$6 USD) - 2017/02/28 5:23:23 ET
+Table 'Peiraios' 6-max Seat #3 is the button
+Seat 1: VolkovDmitri ($149 in chips)
+Seat 3: KingYang2008 ($85.16 in chips)
+KingYang2008: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+KingYang2008: raises $3 to $6
+VolkovDmitri: folds
+Uncalled bet ($3) returned to KingYang2008
+KingYang2008 collected $6 from pot
+KingYang2008: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: VolkovDmitri (big blind) folded before Flop
+Seat 3: KingYang2008 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #166891860530:  Hold'em Limit ($3/$6 USD) - 2017/02/28 5:23:30 ET
+Table 'Peiraios' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($146 in chips)
+Seat 3: KingYang2008 ($88.16 in chips)
+VolkovDmitri: posts small blind $1
+KingYang2008: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+KingYang2008: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [5s Ts 7d]
+KingYang2008: bets $3
+VolkovDmitri: folds
+Uncalled bet ($3) returned to KingYang2008
+KingYang2008 collected $17.64 from pot
+KingYang2008: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5s Ts 7d]
+Seat 1: VolkovDmitri (button) (small blind) folded on the Flop
+Seat 3: KingYang2008 (big blind) collected ($17.64)
+
+
+PokerStars Hand #166891867866:  Hold'em Limit ($3/$6 USD) - 2017/02/28 5:23:47 ET
+Table 'Peiraios' 6-max Seat #3 is the button
+Seat 1: VolkovDmitri ($137 in chips)
+Seat 3: KingYang2008 ($96.80 in chips)
+KingYang2008: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+KingYang2008: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+KingYang2008: calls $3
+*** FLOP *** [8d Jh Ac]
+VolkovDmitri: bets $3
+KingYang2008: calls $3
+*** TURN *** [8d Jh Ac] [Th]
+VolkovDmitri: checks
+KingYang2008: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [8d Jh Ac Th] [Qd]
+VolkovDmitri: bets $6
+KingYang2008: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [5h Kh] (a straight, Ten to Ace)
+KingYang2008: mucks hand
+VolkovDmitri collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8d Jh Ac Th Qd]
+Seat 1: VolkovDmitri (big blind) showed [5h Kh] and won ($47.50) with a straight, Ten to Ace
+Seat 3: KingYang2008 (button) (small blind) mucked
+
+
+PokerStars Hand #166891883456:  Hold'em Limit ($3/$6 USD) - 2017/02/28 5:24:22 ET
+Table 'Peiraios' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($160.50 in chips)
+Seat 3: KingYang2008 ($72.80 in chips)
+VolkovDmitri: posts small blind $1
+KingYang2008: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+KingYang2008: calls $3
+*** FLOP *** [Td 2d 2s]
+KingYang2008: checks
+VolkovDmitri: bets $3
+KingYang2008: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Td 2d 2s]
+Seat 1: VolkovDmitri (button) (small blind) collected ($11.76)
+Seat 3: KingYang2008 (big blind) folded on the Flop
+
+
+PokerStars Hand #166891892911:  Hold'em Limit ($3/$6 USD) - 2017/02/28 5:24:43 ET
+Table 'Peiraios' 6-max Seat #3 is the button
+Seat 1: VolkovDmitri ($166.26 in chips)
+Seat 3: KingYang2008 ($66.80 in chips)
+KingYang2008: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+KingYang2008: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Js 4s 8h]
+VolkovDmitri: bets $3
+KingYang2008: calls $3
+*** TURN *** [Js 4s 8h] [Qh]
+VolkovDmitri: checks
+KingYang2008: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [Js 4s 8h Qh] [5h]
+VolkovDmitri: checks
+KingYang2008: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+KingYang2008: shows [Ah As] (a pair of Aces)
+VolkovDmitri: mucks hand
+KingYang2008 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Js 4s 8h Qh 5h]
+Seat 1: VolkovDmitri (big blind) mucked
+Seat 3: KingYang2008 (button) (small blind) showed [Ah As] and won ($41.50) with a pair of Aces
+
+
+PokerStars Hand #166891912931:  Hold'em Limit ($3/$6 USD) - 2017/02/28 5:25:29 ET
+Table 'Peiraios' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($145.26 in chips)
+Seat 3: KingYang2008 ($87.30 in chips)
+VolkovDmitri: posts small blind $1
+KingYang2008: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+KingYang2008: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: VolkovDmitri (button) (small blind) collected ($6)
+Seat 3: KingYang2008 (big blind) folded before Flop
+
+
+PokerStars Hand #166891915843:  Hold'em Limit ($3/$6 USD) - 2017/02/28 5:25:36 ET
+Table 'Peiraios' 6-max Seat #3 is the button
+Seat 1: VolkovDmitri ($148.26 in chips)
+Seat 3: KingYang2008 ($84.30 in chips)
+KingYang2008: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+KingYang2008: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Qs Ac Ks]
+VolkovDmitri: checks
+KingYang2008: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [Qs Ac Ks] [2c]
+VolkovDmitri: checks
+KingYang2008: checks
+*** RIVER *** [Qs Ac Ks 2c] [As]
+VolkovDmitri: bets $6
+KingYang2008: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $17.64 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qs Ac Ks 2c As]
+Seat 1: VolkovDmitri (big blind) collected ($17.64)
+Seat 3: KingYang2008 (button) (small blind) folded on the River
+
+
+PokerStars Hand #166891930509:  Hold'em Limit ($3/$6 USD) - 2017/02/28 5:26:10 ET
+Table 'Peiraios' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($156.90 in chips)
+Seat 3: KingYang2008 ($75.30 in chips)
+VolkovDmitri: posts small blind $1
+KingYang2008: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+KingYang2008: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [Kd 4d Ks]
+KingYang2008: bets $3
+VolkovDmitri: folds
+Uncalled bet ($3) returned to KingYang2008
+KingYang2008 collected $17.64 from pot
+KingYang2008: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kd 4d Ks]
+Seat 1: VolkovDmitri (button) (small blind) folded on the Flop
+Seat 3: KingYang2008 (big blind) collected ($17.64)
+
+
+PokerStars Hand #166891941251:  Hold'em Limit ($3/$6 USD) - 2017/02/28 5:26:35 ET
+Table 'Peiraios' 6-max Seat #3 is the button
+Seat 1: VolkovDmitri ($147.90 in chips)
+Seat 3: KingYang2008 ($83.94 in chips)
+KingYang2008: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+KingYang2008: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [2c Qc 7d]
+VolkovDmitri: checks
+KingYang2008: checks
+*** TURN *** [2c Qc 7d] [Ah]
+VolkovDmitri: checks
+KingYang2008: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to KingYang2008
+KingYang2008 collected $11.76 from pot
+KingYang2008: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2c Qc 7d Ah]
+Seat 1: VolkovDmitri (big blind) folded on the Turn
+Seat 3: KingYang2008 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #166891952199:  Hold'em Limit ($3/$6 USD) - 2017/02/28 5:27:00 ET
+Table 'Peiraios' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($141.90 in chips)
+Seat 3: KingYang2008 ($89.70 in chips)
+VolkovDmitri: posts small blind $1
+KingYang2008: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+KingYang2008: calls $3
+*** FLOP *** [5h 9d 3c]
+KingYang2008: checks
+VolkovDmitri: checks
+*** TURN *** [5h 9d 3c] [5d]
+KingYang2008: checks
+VolkovDmitri: checks
+*** RIVER *** [5h 9d 3c 5d] [As]
+KingYang2008: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+KingYang2008: shows [8d Th] (a pair of Fives)
+VolkovDmitri: shows [Jc 8c] (a pair of Fives - Ace+Jack kicker)
+VolkovDmitri collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5h 9d 3c 5d As]
+Seat 1: VolkovDmitri (button) (small blind) showed [Jc 8c] and won ($11.76) with a pair of Fives
+Seat 3: KingYang2008 (big blind) showed [8d Th] and lost with a pair of Fives
+
+
+PokerStars Hand #166891967668:  Hold'em Limit ($3/$6 USD) - 2017/02/28 5:27:37 ET
+Table 'Peiraios' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($148.66 in chips)
+Seat 3: KingYang2008 ($82.70 in chips)
+VolkovDmitri: posts small blind $1
+KingYang2008: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+KingYang2008: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: VolkovDmitri (button) (small blind) collected ($6)
+Seat 3: KingYang2008 (big blind) folded before Flop
+
+
+PokerStars Hand #166891965497:  Hold'em Limit ($3/$6 USD) - 2017/02/28 5:27:31 ET
+Table 'Peiraios' 6-max Seat #3 is the button
+Seat 1: VolkovDmitri ($147.66 in chips)
+Seat 3: KingYang2008 ($83.70 in chips)
+KingYang2008: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+KingYang2008: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: VolkovDmitri (big blind) collected ($2)
+Seat 3: KingYang2008 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #166891970387:  Hold'em Limit ($3/$6 USD) - 2017/02/28 5:27:43 ET
+Table 'Peiraios' 6-max Seat #3 is the button
+Seat 1: VolkovDmitri ($151.66 in chips)
+Seat 3: KingYang2008 ($79.70 in chips)
+KingYang2008: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+KingYang2008: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Ah 7h 5d]
+VolkovDmitri: checks
+KingYang2008: bets $3
+VolkovDmitri: raises $3 to $6
+KingYang2008: calls $3
+*** TURN *** [Ah 7h 5d] [Js]
+VolkovDmitri: bets $6
+KingYang2008: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $23.52 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Ah 7h 5d Js]
+Seat 1: VolkovDmitri (big blind) collected ($23.52)
+Seat 3: KingYang2008 (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #166891979884:  Hold'em Limit ($3/$6 USD) - 2017/02/28 5:28:06 ET
+Table 'Peiraios' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($163.18 in chips)
+Seat 3: KingYang2008 ($67.70 in chips)
+VolkovDmitri: posts small blind $1
+KingYang2008: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+KingYang2008: calls $3
+*** FLOP *** [5s 3c 8s]
+KingYang2008: checks
+VolkovDmitri: bets $3
+KingYang2008: calls $3
+*** TURN *** [5s 3c 8s] [Tc]
+KingYang2008: checks
+VolkovDmitri: checks
+*** RIVER *** [5s 3c 8s Tc] [2s]
+KingYang2008: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+KingYang2008: shows [6c 9h] (high card Ten)
+VolkovDmitri: shows [2h 7h] (a pair of Deuces)
+VolkovDmitri collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5s 3c 8s Tc 2s]
+Seat 1: VolkovDmitri (button) (small blind) showed [2h 7h] and won ($29.50) with a pair of Deuces
+Seat 3: KingYang2008 (big blind) showed [6c 9h] and lost with high card Ten
+
+
+PokerStars Hand #166891993651:  Hold'em Limit ($3/$6 USD) - 2017/02/28 5:28:41 ET
+Table 'Peiraios' 6-max Seat #3 is the button
+Seat 1: VolkovDmitri ($177.68 in chips)
+Seat 3: KingYang2008 ($52.70 in chips)
+KingYang2008: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+KingYang2008: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: VolkovDmitri (big blind) collected ($2)
+Seat 3: KingYang2008 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #166891995667:  Hold'em Limit ($3/$6 USD) - 2017/02/28 5:28:46 ET
+Table 'Peiraios' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($178.68 in chips)
+Seat 3: KingYang2008 ($51.70 in chips)
+VolkovDmitri: posts small blind $1
+KingYang2008: posts big blind $3
+*** HOLE CARDS ***
+NAR74 joins the table at seat #4
+VolkovDmitri: raises $3 to $6
+KingYang2008: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [9s 6c Js]
+KingYang2008: bets $3
+VolkovDmitri: folds
+Uncalled bet ($3) returned to KingYang2008
+ss_barber_ss joins the table at seat #2
+KingYang2008 collected $17.64 from pot
+KingYang2008: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9s 6c Js]
+Seat 1: VolkovDmitri (button) (small blind) folded on the Flop
+Seat 3: KingYang2008 (big blind) collected ($17.64)
+
+

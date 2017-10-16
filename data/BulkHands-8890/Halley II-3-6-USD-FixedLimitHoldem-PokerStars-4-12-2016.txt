@@ -1,0 +1,84 @@
+PokerStars Hand #151808643780:  Hold'em Limit ($3/$6 USD) - 2016/04/12 9:40:15 ET
+Table 'Halley II' 10-max Seat #10 is the button
+Seat 1: shalomrum ($30 in chips)
+Seat 10: MTails ($120 in chips)
+MTails: posts small blind $1
+shalomrum: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+shalomrum: raises $3 to $9
+MTails: calls $3
+*** FLOP *** [4h Js 9c]
+shalomrum: bets $3
+MTails: calls $3
+*** TURN *** [4h Js 9c] [Th]
+shalomrum: bets $6
+MTails: calls $6
+*** RIVER *** [4h Js 9c Th] [7h]
+shalomrum: bets $6
+MTails: calls $6
+*** SHOW DOWN ***
+shalomrum: shows [Jd Qs] (a pair of Jacks)
+MTails: mucks hand
+shalomrum collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4h Js 9c Th 7h]
+Seat 1: shalomrum (big blind) showed [Jd Qs] and won ($47.50) with a pair of Jacks
+Seat 10: MTails (button) (small blind) mucked
+
+
+PokerStars Hand #151808658079:  Hold'em Limit ($3/$6 USD) - 2016/04/12 9:40:39 ET
+Table 'Halley II' 10-max Seat #1 is the button
+Seat 1: shalomrum ($53.50 in chips)
+Seat 10: MTails ($96 in chips)
+shalomrum: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl joins the table at seat #2
+B_loJkl leaves the table
+shalomrum: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [9h Qh 9c]
+MTails: checks
+shalomrum: bets $3
+MTails: folds
+Uncalled bet ($3) returned to shalomrum
+shalomrum collected $11.76 from pot
+shalomrum: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9h Qh 9c]
+Seat 1: shalomrum (button) (small blind) collected ($11.76)
+Seat 10: MTails (big blind) folded on the Flop
+
+
+PokerStars Hand #151808665568:  Hold'em Limit ($3/$6 USD) - 2016/04/12 9:40:52 ET
+Table 'Halley II' 10-max Seat #10 is the button
+Seat 1: shalomrum ($59.26 in chips)
+Seat 10: MTails ($90 in chips)
+MTails: posts small blind $1
+shalomrum: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+shalomrum: calls $3
+*** FLOP *** [Ah As 8c]
+shalomrum: checks
+MTails: bets $3
+B_loJkl joins the table at seat #2
+shalomrum: calls $3
+*** TURN *** [Ah As 8c] [Ts]
+shalomrum: checks
+MTails: bets $6
+shalomrum: raises $6 to $12
+MTails: folds
+Uncalled bet ($6) returned to shalomrum
+shalomrum collected $29.50 from pot
+shalomrum: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ah As 8c Ts]
+Seat 1: shalomrum (big blind) collected ($29.50)
+Seat 10: MTails (button) (small blind) folded on the Turn
+
+

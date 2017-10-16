@@ -1,0 +1,33 @@
+PokerStars Hand #166547645862:  Hold'em Limit ($3/$6 USD) - 2017/02/21 8:08:10 ET
+Table 'Enceladus' 6-max Seat #2 is the button
+Seat 1: ribban4747 ($32.53 in chips)
+Seat 2: AzureCaper ($72 in chips)
+AzureCaper: posts small blind $1
+ribban4747: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+ribban4747: calls $3
+*** FLOP *** [6d 3d Js]
+ribban4747: bets $3
+AzureCaper: raises $3 to $6
+ribban4747: calls $3
+*** TURN *** [6d 3d Js] [2s]
+ribban4747: bets $6
+AzureCaper: raises $6 to $12
+ribban4747: calls $6
+*** RIVER *** [6d 3d Js 2s] [5s]
+ribban4747: bets $6
+AzureCaper: raises $6 to $12
+ribban4747: calls $2.53 and is all-in
+Uncalled bet ($3.47) returned to AzureCaper
+*** SHOW DOWN ***
+AzureCaper: shows [6s Ks] (a flush, King high)
+ribban4747: shows [8s 3h] (a pair of Threes)
+AzureCaper collected $64.56 from pot
+*** SUMMARY ***
+Total pot $65.06 | Rake $0.50
+Board [6d 3d Js 2s 5s]
+Seat 1: ribban4747 (big blind) showed [8s 3h] and lost with a pair of Threes
+Seat 2: AzureCaper (button) (small blind) showed [6s Ks] and won ($64.56) with a flush, King high
+
+

@@ -1,0 +1,94 @@
+PokerStars Hand #144793651573:  Hold'em Limit ($3/$6 USD) - 2015/12/04 1:53:23 ET
+Table 'Jupiter' 6-max Seat #5 is the button
+Seat 4: _fayzulllo_ ($46.83 in chips)
+Seat 5: BuzovaPro ($72 in chips)
+BuzovaPro: posts small blind $1
+Velbor107: is sitting out
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+BuzovaPro: raises $3 to $6
+Velbor107 leaves the table
+_fayzulllo_: calls $3
+*** FLOP *** [Ah 7c 8d]
+_fayzulllo_: checks
+BuzovaPro: bets $3
+_fayzulllo_: calls $3
+*** TURN *** [Ah 7c 8d] [2c]
+_fayzulllo_: checks
+BuzovaPro: bets $6
+_fayzulllo_: calls $6
+*** RIVER *** [Ah 7c 8d 2c] [Jc]
+_fayzulllo_: checks
+BuzovaPro: checks
+*** SHOW DOWN ***
+_fayzulllo_: shows [6s 7h] (a pair of Sevens)
+BuzovaPro: shows [8c Ts] (a pair of Eights)
+BuzovaPro collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ah 7c 8d 2c Jc]
+Seat 4: _fayzulllo_ (big blind) showed [6s 7h] and lost with a pair of Sevens
+Seat 5: BuzovaPro (button) (small blind) showed [8c Ts] and won ($29.50) with a pair of Eights
+
+
+PokerStars Hand #144793665733:  Hold'em Limit ($3/$6 USD) - 2015/12/04 1:54:14 ET
+Table 'Jupiter' 6-max Seat #5 is the button
+Seat 4: _fayzulllo_ ($16.83 in chips)
+Seat 5: BuzovaPro ($101 in chips)
+BuzovaPro: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+BuzovaPro: raises $3 to $6
+_fayzulllo_: raises $3 to $9
+BuzovaPro: raises $3 to $12
+Betting is capped
+_fayzulllo_: calls $3
+*** FLOP *** [3h As 9s]
+_fayzulllo_: bets $3
+BuzovaPro: raises $3 to $6
+_fayzulllo_: calls $1.83 and is all-in
+Uncalled bet ($1.17) returned to BuzovaPro
+*** TURN *** [3h As 9s] [Js]
+*** RIVER *** [3h As 9s Js] [8s]
+*** SHOW DOWN ***
+_fayzulllo_: shows [7d Qs] (a flush, Ace high)
+BuzovaPro: shows [Ac Ks] (a flush, Ace high - King higher)
+BuzovaPro collected $33.16 from pot
+*** SUMMARY ***
+Total pot $33.66 | Rake $0.50
+Board [3h As 9s Js 8s]
+Seat 4: _fayzulllo_ (big blind) showed [7d Qs] and lost with a flush, Ace high
+Seat 5: BuzovaPro (button) (small blind) showed [Ac Ks] and won ($33.16) with a flush, Ace high
+
+
+PokerStars Hand #144793658768:  Hold'em Limit ($3/$6 USD) - 2015/12/04 1:53:49 ET
+Table 'Jupiter' 6-max Seat #4 is the button
+Seat 4: _fayzulllo_ ($31.83 in chips)
+Seat 5: BuzovaPro ($86.50 in chips)
+_fayzulllo_: posts small blind $1
+BuzovaPro: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: raises $3 to $6
+BuzovaPro: calls $3
+*** FLOP *** [7s Jd Js]
+BuzovaPro: checks
+_fayzulllo_: bets $3
+BuzovaPro: calls $3
+*** TURN *** [7s Jd Js] [Kc]
+BuzovaPro: checks
+_fayzulllo_: checks
+*** RIVER *** [7s Jd Js Kc] [4d]
+BuzovaPro: checks
+_fayzulllo_: bets $6
+BuzovaPro: calls $6
+*** SHOW DOWN ***
+_fayzulllo_: shows [6s 9d] (a pair of Jacks)
+BuzovaPro: shows [Qh 8d] (a pair of Jacks - King+Queen kicker)
+BuzovaPro collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7s Jd Js Kc 4d]
+Seat 4: _fayzulllo_ (button) (small blind) showed [6s 9d] and lost with a pair of Jacks
+Seat 5: BuzovaPro (big blind) showed [Qh 8d] and won ($29.50) with a pair of Jacks
+
+

@@ -1,0 +1,25 @@
+PokerStars Hand #150854689529:  Hold'em Limit ($3/$6 USD) - 2016/03/24 11:59:48 ET
+Table 'Dione II' 6-max Seat #5 is the button
+Seat 4: MTails ($146.50 in chips)
+Seat 5: zizonmusang ($6.21 in chips)
+zizonmusang: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+zizonmusang: raises $3 to $6
+MTails: raises $3 to $9
+zizonmusang: calls $0.21 and is all-in
+Uncalled bet ($2.79) returned to MTails
+*** FLOP *** [5d 4d Qd]
+*** TURN *** [5d 4d Qd] [9d]
+*** RIVER *** [5d 4d Qd 9d] [Js]
+*** SHOW DOWN ***
+MTails: shows [2c Td] (a flush, Queen high)
+zizonmusang: shows [Ah 3h] (high card Ace)
+MTails collected $12.17 from pot
+*** SUMMARY ***
+Total pot $12.42 | Rake $0.25
+Board [5d 4d Qd 9d Js]
+Seat 4: MTails (big blind) showed [2c Td] and won ($12.17) with a flush, Queen high
+Seat 5: zizonmusang (button) (small blind) showed [Ah 3h] and lost with high card Ace
+
+

@@ -1,0 +1,35 @@
+PokerStars Hand #144294523131:  Hold'em Limit ($3/$6 USD) - 2015/11/23 21:24:51 ET
+Table 'Eridanus II' 6-max Seat #5 is the button
+Seat 4: thenuts999 ($90.24 in chips)
+Seat 5: SlickDickey ($171.68 in chips)
+SlickDickey: posts small blind $1
+alexslep: is sitting out
+HAL9QQQ: is sitting out
+thenuts999: posts big blind $3
+*** HOLE CARDS ***
+SlickDickey: raises $3 to $6
+thenuts999: raises $3 to $9
+alexslep leaves the table
+SlickDickey: calls $3
+*** FLOP *** [3c 9d 9c]
+thenuts999: bets $3
+SlickDickey: calls $3
+*** TURN *** [3c 9d 9c] [9h]
+thenuts999: checks
+SlickDickey: bets $6
+thenuts999: calls $6
+*** RIVER *** [3c 9d 9c 9h] [Jh]
+thenuts999: checks
+SlickDickey: bets $6
+thenuts999: calls $6
+*** SHOW DOWN ***
+SlickDickey: shows [Ah Ad] (a full house, Nines full of Aces)
+thenuts999: mucks hand
+SlickDickey collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3c 9d 9c 9h Jh]
+Seat 4: thenuts999 (big blind) mucked
+Seat 5: SlickDickey (button) (small blind) showed [Ah Ad] and won ($47.50) with a full house, Nines full of Aces
+
+

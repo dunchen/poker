@@ -1,0 +1,31 @@
+PokerStars Hand #149586997800:  Hold'em Limit ($3/$6 USD) - 2016/02/28 18:20:03 ET
+Table 'Hilda' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 3: partyalex92 ($120 in chips)
+VolkovDmitri: posts small blind $1
+partyalex92: posts big blind $3
+*** HOLE CARDS ***
+bugsbubble joins the table at seat #4
+VolkovDmitri: raises $3 to $6
+partyalex92: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [2c 4h 9h]
+partyalex92: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [2c 4h 9h] [3c]
+partyalex92: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [2c 4h 9h 3c] [5d]
+partyalex92: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+partyalex92: shows [Kc 9c] (a pair of Nines)
+VolkovDmitri: mucks hand
+partyalex92 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2c 4h 9h 3c 5d]
+Seat 1: VolkovDmitri (button) (small blind) mucked
+Seat 3: partyalex92 (big blind) showed [Kc 9c] and won ($47.50) with a pair of Nines
+
+

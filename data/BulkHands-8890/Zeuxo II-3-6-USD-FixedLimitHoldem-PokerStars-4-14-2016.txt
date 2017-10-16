@@ -1,0 +1,77 @@
+PokerStars Hand #151899392008:  Hold'em Limit ($3/$6 USD) - 2016/04/14 9:07:28 ET
+Table 'Zeuxo II' 6-max Seat #1 is the button
+Seat 1: pubal81 ($33.35 in chips)
+Seat 2: guatejor45 ($120 in chips)
+pubal81: posts small blind $1
+guatejor45: posts big blind $3
+*** HOLE CARDS ***
+pubal81: raises $3 to $6
+guatejor45: raises $3 to $9
+pubal81: raises $3 to $12
+Betting is capped
+guatejor45: calls $3
+*** FLOP *** [Jh 2s 9c]
+guatejor45: bets $3
+pubal81: raises $3 to $6
+guatejor45: raises $3 to $9
+pubal81: calls $3
+*** TURN *** [Jh 2s 9c] [Jd]
+guatejor45: bets $6
+pubal81: raises $6 to $12
+guatejor45: calls $6
+*** RIVER *** [Jh 2s 9c Jd] [9d]
+guatejor45: checks
+pubal81: bets $0.35 and is all-in
+guatejor45: calls $0.35
+*** SHOW DOWN ***
+pubal81: shows [6c 9h] (a full house, Nines full of Jacks)
+guatejor45: shows [Tc 7c] (two pair, Jacks and Nines)
+pubal81 collected $66.20 from pot
+*** SUMMARY ***
+Total pot $66.70 | Rake $0.50
+Board [Jh 2s 9c Jd 9d]
+Seat 1: pubal81 (button) (small blind) showed [6c 9h] and won ($66.20) with a full house, Nines full of Jacks
+Seat 2: guatejor45 (big blind) showed [Tc 7c] and lost with two pair, Jacks and Nines
+
+
+PokerStars Hand #151899410069:  Hold'em Limit ($3/$6 USD) - 2016/04/14 9:08:00 ET
+Table 'Zeuxo II' 6-max Seat #2 is the button
+Seat 1: pubal81 ($66.20 in chips)
+Seat 2: guatejor45 ($86.65 in chips)
+guatejor45: posts small blind $1
+pubal81: posts big blind $3
+*** HOLE CARDS ***
+guatejor45: raises $3 to $6
+pubal81: raises $3 to $9
+guatejor45: raises $3 to $12
+Betting is capped
+pubal81: calls $3
+*** FLOP *** [Kc Td Tc]
+pubal81: bets $3
+guatejor45: raises $3 to $6
+pubal81: raises $3 to $9
+guatejor45: raises $3 to $12
+Betting is capped
+pubal81: calls $3
+*** TURN *** [Kc Td Tc] [Js]
+pubal81: bets $6
+guatejor45: raises $6 to $12
+pubal81: raises $6 to $18
+guatejor45: raises $6 to $24
+Betting is capped
+pubal81: calls $6
+*** RIVER *** [Kc Td Tc Js] [Ad]
+pubal81: bets $6
+guatejor45: raises $6 to $12
+pubal81: raises $6 to $18
+guatejor45: folds
+Uncalled bet ($6) returned to pubal81
+pubal81 collected $119.50 from pot
+pubal81: doesn't show hand
+*** SUMMARY ***
+Total pot $120 | Rake $0.50
+Board [Kc Td Tc Js Ad]
+Seat 1: pubal81 (big blind) collected ($119.50)
+Seat 2: guatejor45 (button) (small blind) folded on the River
+
+

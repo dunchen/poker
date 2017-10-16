@@ -1,0 +1,32 @@
+PokerStars Hand #145268002882:  Hold'em Limit ($3/$6 USD) - 2015/12/13 5:49:57 ET
+Table 'Genua II' 6-max Seat #3 is the button
+Seat 3: LolDnkaments ($89.74 in chips)
+Seat 4: scorpio04 ($76 in chips)
+LolDnkaments: posts small blind $1
+scorpio04: posts big blind $3
+*** HOLE CARDS ***
+LolDnkaments: raises $3 to $6
+scorpio04: calls $3
+*** FLOP *** [7h 8s Jh]
+scorpio04: checks
+LolDnkaments: bets $3
+scorpio04: calls $3
+*** TURN *** [7h 8s Jh] [5s]
+scorpio04: checks
+LolDnkaments: bets $6
+scorpio04: raises $6 to $12
+LolDnkaments: calls $6
+*** RIVER *** [7h 8s Jh 5s] [Jc]
+scorpio04: bets $6
+LolDnkaments: calls $6
+*** SHOW DOWN ***
+scorpio04: shows [Kd 9h] (a pair of Jacks)
+LolDnkaments: shows [7d 8d] (two pair, Jacks and Eights)
+LolDnkaments collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [7h 8s Jh 5s Jc]
+Seat 3: LolDnkaments (button) (small blind) showed [7d 8d] and won ($53.50) with two pair, Jacks and Eights
+Seat 4: scorpio04 (big blind) showed [Kd 9h] and lost with a pair of Jacks
+
+

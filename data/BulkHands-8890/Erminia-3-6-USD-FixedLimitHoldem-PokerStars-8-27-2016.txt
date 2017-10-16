@@ -1,0 +1,88 @@
+PokerStars Hand #157795499583:  Hold'em Limit ($3/$6 USD) - 2016/08/27 6:04:31 ET
+Table 'Erminia' 6-max Seat #6 is the button
+Seat 3: simper11 ($120 in chips)
+Seat 6: libaikang ($157 in chips)
+libaikang: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+libaikang: calls $2
+simper11: checks
+*** FLOP *** [6s 6c Th]
+VolkovDmitri joins the table at seat #1
+simper11: checks
+libaikang: checks
+*** TURN *** [6s 6c Th] [7c]
+simper11: checks
+libaikang: checks
+*** RIVER *** [6s 6c Th 7c] [8c]
+simper11: checks
+libaikang: checks
+*** SHOW DOWN ***
+simper11: shows [5d Jd] (a pair of Sixes)
+libaikang: shows [4d Ac] (a pair of Sixes - Ace kicker)
+libaikang collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [6s 6c Th 7c 8c]
+Seat 3: simper11 (big blind) showed [5d Jd] and lost with a pair of Sixes
+Seat 6: libaikang (button) (small blind) showed [4d Ac] and won ($5.88) with a pair of Sixes
+
+
+PokerStars Hand #157795507191:  Hold'em Limit ($3/$6 USD) - 2016/08/27 6:04:51 ET
+Table 'Erminia' 6-max Seat #3 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 3: simper11 ($120 in chips)
+simper11: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+simper11: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: VolkovDmitri (big blind) collected ($2)
+Seat 3: simper11 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #157795509533:  Hold'em Limit ($3/$6 USD) - 2016/08/27 6:04:58 ET
+Table 'Erminia' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($121 in chips)
+Seat 3: simper11 ($120 in chips)
+VolkovDmitri: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+simper11: calls $3
+*** FLOP *** [3h 6c Td]
+simper11: checks
+VolkovDmitri: checks
+*** TURN *** [3h 6c Td] [3d]
+simper11: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to simper11
+simper11 collected $11.76 from pot
+simper11: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3h 6c Td 3d]
+Seat 1: VolkovDmitri (button) (small blind) folded on the Turn
+Seat 3: simper11 (big blind) collected ($11.76)
+
+
+PokerStars Hand #157796384162:  Hold'em Limit ($3/$6 USD) - 2016/08/27 6:41:24 ET
+Table 'Erminia' 6-max Seat #2 is the button
+Seat 2: VolkovDmitri ($265.61 in chips)
+Seat 3: 7ardis ($55.85 in chips)
+VolkovDmitri: posts small blind $1
+7ardis: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: folds
+Uncalled bet ($2) returned to 7ardis
+7ardis collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: VolkovDmitri (button) (small blind) folded before Flop
+Seat 3: 7ardis (big blind) collected ($2)
+
+

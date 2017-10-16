@@ -1,0 +1,137 @@
+PokerStars Hand #158538507853:  Hold'em Limit ($3/$6 USD) - 2016/09/13 3:36:57 ET
+Table 'Siegena' 6-max Seat #4 is the button
+Seat 3: blake_mr ($114 in chips)
+Seat 4: VolkovDmitri ($125.76 in chips)
+VolkovDmitri: posts small blind $1
+blake_mr: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: folds
+Uncalled bet ($2) returned to blake_mr
+blake_mr collected $2 from pot
+blake_mr: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: blake_mr (big blind) collected ($2)
+Seat 4: VolkovDmitri (button) (small blind) folded before Flop
+
+
+PokerStars Hand #158538500729:  Hold'em Limit ($3/$6 USD) - 2016/09/13 3:36:31 ET
+Table 'Siegena' 6-max Seat #3 is the button
+Seat 3: blake_mr ($120 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+blake_mr: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+blake_mr: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [8s Kh 4h]
+VolkovDmitri: checks
+blake_mr: checks
+*** TURN *** [8s Kh 4h] [Jc]
+VolkovDmitri: bets $6
+blake_mr: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8s Kh 4h Jc]
+Seat 3: blake_mr (button) (small blind) folded on the Turn
+Seat 4: VolkovDmitri (big blind) collected ($11.76)
+
+
+PokerStars Hand #158538509215:  Hold'em Limit ($3/$6 USD) - 2016/09/13 3:37:02 ET
+Table 'Siegena' 6-max Seat #3 is the button
+Seat 3: blake_mr ($115 in chips)
+Seat 4: VolkovDmitri ($124.76 in chips)
+blake_mr: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+blake_mr: calls $2
+VolkovDmitri: raises $3 to $6
+blake_mr: calls $3
+*** FLOP *** [8c 2h 5h]
+VolkovDmitri: bets $3
+blake_mr: calls $3
+*** TURN *** [8c 2h 5h] [6d]
+VolkovDmitri: bets $6
+blake_mr: calls $6
+*** RIVER *** [8c 2h 5h 6d] [Th]
+VolkovDmitri: checks
+blake_mr: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [5c 7h] (a pair of Fives)
+blake_mr: mucks hand
+VolkovDmitri collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8c 2h 5h 6d Th]
+Seat 3: blake_mr (button) (small blind) mucked
+Seat 4: VolkovDmitri (big blind) showed [5c 7h] and won ($29.50) with a pair of Fives
+
+
+PokerStars Hand #158538520263:  Hold'em Limit ($3/$6 USD) - 2016/09/13 3:37:42 ET
+Table 'Siegena' 6-max Seat #4 is the button
+Seat 3: blake_mr ($100 in chips)
+Seat 4: VolkovDmitri ($139.26 in chips)
+VolkovDmitri: posts small blind $1
+blake_mr: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+blake_mr: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [2c 4h 7d]
+blake_mr: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [2c 4h 7d] [7h]
+blake_mr: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [2c 4h 7d 7h] [5s]
+blake_mr: checks
+VolkovDmitri: bets $6
+blake_mr: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [5h Jh] (two pair, Sevens and Fives)
+blake_mr: mucks hand
+VolkovDmitri collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2c 4h 7d 7h 5s]
+Seat 3: blake_mr (big blind) mucked
+Seat 4: VolkovDmitri (button) (small blind) showed [5h Jh] and won ($47.50) with two pair, Sevens and Fives
+
+
+PokerStars Hand #158538531668:  Hold'em Limit ($3/$6 USD) - 2016/09/13 3:38:23 ET
+Table 'Siegena' 6-max Seat #3 is the button
+Seat 3: blake_mr ($76 in chips)
+Seat 4: VolkovDmitri ($162.76 in chips)
+blake_mr: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+blake_mr said, "OMFG!!!"
+blake_mr said, "]what a idiot whooore!!!"
+blake_mr: calls $2
+VolkovDmitri: raises $3 to $6
+blake_mr: calls $3
+*** FLOP *** [6h 5c Qd]
+VolkovDmitri: bets $3
+blake_mr: calls $3
+*** TURN *** [6h 5c Qd] [2h]
+VolkovDmitri: bets $6
+blake_mr: calls $6
+*** RIVER *** [6h 5c Qd 2h] [Qh]
+Franciska_86 joins the table at seat #6
+VolkovDmitri: bets $6
+blake_mr: raises $6 to $12
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+blake_mr: shows [8h 4h] (a flush, Queen high)
+VolkovDmitri: mucks hand
+blake_mr collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [6h 5c Qd 2h Qh]
+Seat 3: blake_mr (button) (small blind) showed [8h 4h] and won ($53.50) with a flush, Queen high
+Seat 4: VolkovDmitri (big blind) mucked
+
+

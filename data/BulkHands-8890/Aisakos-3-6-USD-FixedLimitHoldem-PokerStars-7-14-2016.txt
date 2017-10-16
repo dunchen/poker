@@ -1,0 +1,67 @@
+PokerStars Hand #155959131606:  Hold'em Limit ($3/$6 USD) - 2016/07/14 11:03:00 ET
+Table 'Aisakos' 6-max Seat #3 is the button
+Seat 3: mowinmo ($120 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+mowinmo: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+mowinmo: calls $2
+VolkovDmitri: raises $3 to $6
+mowinmo: calls $3
+*** FLOP *** [Qd 7s As]
+VolkovDmitri: checks
+mowinmo: bets $3
+Murrrr_@T joins the table at seat #5
+VolkovDmitri: calls $3
+*** TURN *** [Qd 7s As] [Ts]
+VolkovDmitri: checks
+mowinmo: checks
+*** RIVER *** [Qd 7s As Ts] [6d]
+VolkovDmitri: bets $6
+mowinmo: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Qh 6s] (two pair, Queens and Sixes)
+mowinmo: mucks hand
+VolkovDmitri collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qd 7s As Ts 6d]
+Seat 3: mowinmo (button) (small blind) mucked
+Seat 4: VolkovDmitri (big blind) showed [Qh 6s] and won ($29.50) with two pair, Queens and Sixes
+
+
+PokerStars Hand #155959858644:  Hold'em Limit ($3/$6 USD) - 2016/07/14 11:24:03 ET
+Table 'Aisakos' 6-max Seat #2 is the button
+Seat 2: zizonmusang ($124.80 in chips)
+Seat 6: chrismat ($42.25 in chips)
+zizonmusang: posts small blind $1
+Fabulous108: is sitting out
+chrismat: posts big blind $3
+*** HOLE CARDS ***
+zizonmusang: raises $3 to $6
+chrismat: raises $3 to $9
+zizonmusang: calls $3
+*** FLOP *** [4h 8s Ts]
+chrismat: bets $3
+zizonmusang: raises $3 to $6
+chrismat: calls $3
+*** TURN *** [4h 8s Ts] [Kc]
+chrismat: checks
+zizonmusang: bets $6
+chrismat: calls $6
+*** RIVER *** [4h 8s Ts Kc] [3c]
+chrismat: checks
+zizonmusang: bets $6
+chrismat: calls $6
+*** SHOW DOWN ***
+zizonmusang: shows [3d Kd] (two pair, Kings and Threes)
+sweetlips6 joins the table at seat #4
+chrismat: mucks hand
+zizonmusang collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [4h 8s Ts Kc 3c]
+Seat 2: zizonmusang (button) (small blind) showed [3d Kd] and won ($53.50) with two pair, Kings and Threes
+Seat 6: chrismat (big blind) mucked
+
+

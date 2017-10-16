@@ -1,0 +1,120 @@
+PokerStars Hand #152729248974:  Hold'em Limit ($3/$6 USD) - 2016/05/01 19:01:35 ET
+Table 'Epeigeus' 6-max Seat #1 is the button
+Seat 1: Zubasa07 ($482 in chips)
+Seat 3: PeteSvensson ($137.50 in chips)
+Zubasa07: posts small blind $1
+PeteSvensson: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+PeteSvensson: calls $3
+*** FLOP *** [Td 2d 3d]
+PeteSvensson: checks
+Zubasa07: bets $3
+PeteSvensson: folds
+Uncalled bet ($3) returned to Zubasa07
+Zubasa07 collected $11.76 from pot
+Zubasa07: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Td 2d 3d]
+Seat 1: Zubasa07 (button) (small blind) collected ($11.76)
+Seat 3: PeteSvensson (big blind) folded on the Flop
+
+
+PokerStars Hand #152729207981:  Hold'em Limit ($3/$6 USD) - 2016/05/01 19:00:25 ET
+Table 'Epeigeus' 6-max Seat #3 is the button
+Seat 1: Zubasa07 ($503 in chips)
+Seat 3: PeteSvensson ($117 in chips)
+PeteSvensson: posts small blind $1
+Zubasa07: posts big blind $3
+*** HOLE CARDS ***
+PeteSvensson: raises $3 to $6
+Zubasa07: calls $3
+*** FLOP *** [2h Qh 5h]
+Zubasa07: checks
+PeteSvensson: bets $3
+Zubasa07: raises $3 to $6
+flinch21 joins the table at seat #4
+PeteSvensson: raises $3 to $9
+Zubasa07: calls $3
+*** TURN *** [2h Qh 5h] [Ad]
+Zubasa07: checks
+PeteSvensson: bets $6
+GoliafUa joins the table at seat #5
+Zubasa07: calls $6
+*** RIVER *** [2h Qh 5h Ad] [Jh]
+Zubasa07: checks
+PeteSvensson: bets $6
+Zubasa07: folds
+Uncalled bet ($6) returned to PeteSvensson
+PeteSvensson collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2h Qh 5h Ad Jh]
+Seat 1: Zubasa07 (big blind) folded on the River
+Seat 3: PeteSvensson (button) (small blind) collected ($41.50)
+
+
+PokerStars Hand #152729328017:  Hold'em Limit ($3/$6 USD) - 2016/05/01 19:03:24 ET
+Table 'Epeigeus' 6-max Seat #3 is the button
+Seat 1: Zubasa07 ($507.47 in chips)
+Seat 3: PeteSvensson ($131.50 in chips)
+PeteSvensson: posts small blind $1
+Zubasa07: posts big blind $3
+*** HOLE CARDS ***
+PeteSvensson: raises $3 to $6
+Zubasa07: calls $3
+*** FLOP *** [Td 6c 6h]
+Zubasa07: checks
+PeteSvensson: bets $3
+Zubasa07: calls $3
+*** TURN *** [Td 6c 6h] [7c]
+Zubasa07: checks
+PeteSvensson: bets $6
+Zubasa07: calls $6
+*** RIVER *** [Td 6c 6h 7c] [7s]
+Zubasa07: checks
+PeteSvensson: bets $6
+Zubasa07: calls $6
+*** SHOW DOWN ***
+PeteSvensson: shows [7d Ad] (a full house, Sevens full of Sixes)
+Zubasa07: mucks hand
+PeteSvensson collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Td 6c 6h 7c 7s]
+Seat 1: Zubasa07 (big blind) mucked
+Seat 3: PeteSvensson (button) (small blind) showed [7d Ad] and won ($41.50) with a full house, Sevens full of Sixes
+
+
+PokerStars Hand #152729347278:  Hold'em Limit ($3/$6 USD) - 2016/05/01 19:03:54 ET
+Table 'Epeigeus' 6-max Seat #1 is the button
+Seat 1: Zubasa07 ($486.47 in chips)
+Seat 3: PeteSvensson ($152 in chips)
+Zubasa07: posts small blind $1
+PeteSvensson: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+PeteSvensson: calls $3
+*** FLOP *** [Kd 7c 7s]
+PeteSvensson: checks
+Zubasa07: bets $3
+PeteSvensson: calls $3
+*** TURN *** [Kd 7c 7s] [2h]
+PeteSvensson: checks
+Zubasa07: bets $6
+PeteSvensson: calls $6
+*** RIVER *** [Kd 7c 7s 2h] [2c]
+PeteSvensson: checks
+Zubasa07: checks
+*** SHOW DOWN ***
+PeteSvensson: shows [Ts Kh] (two pair, Kings and Sevens)
+Zubasa07: mucks hand
+PeteSvensson collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kd 7c 7s 2h 2c]
+Seat 1: Zubasa07 (button) (small blind) mucked
+Seat 3: PeteSvensson (big blind) showed [Ts Kh] and won ($29.50) with two pair, Kings and Sevens
+
+

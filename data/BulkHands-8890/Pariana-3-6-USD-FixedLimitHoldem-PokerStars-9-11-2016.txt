@@ -1,0 +1,52 @@
+PokerStars Hand #158485494792:  Hold'em Limit ($3/$6 USD) - 2016/09/11 19:28:49 ET
+Table 'Pariana' 6-max Seat #3 is the button
+Seat 3: Ship_It_Big ($80 in chips)
+Seat 4: BuzovaPro ($72 in chips)
+Ship_It_Big: posts small blind $1
+BuzovaPro: posts big blind $3
+*** HOLE CARDS ***
+Ship_It_Big: raises $3 to $6
+BuzovaPro: calls $3
+*** FLOP *** [5h Qd Jd]
+BuzovaPro: checks
+Ship_It_Big: bets $3
+BuzovaPro: calls $3
+*** TURN *** [5h Qd Jd] [3c]
+BuzovaPro: checks
+Ship_It_Big: checks
+*** RIVER *** [5h Qd Jd 3c] [8c]
+BuzovaPro: bets $6
+Ship_It_Big: folds
+Uncalled bet ($6) returned to BuzovaPro
+BuzovaPro collected $17.64 from pot
+BuzovaPro: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5h Qd Jd 3c 8c]
+Seat 3: Ship_It_Big (button) (small blind) folded on the River
+Seat 4: BuzovaPro (big blind) collected ($17.64)
+
+
+PokerStars Hand #158485508353:  Hold'em Limit ($3/$6 USD) - 2016/09/11 19:29:13 ET
+Table 'Pariana' 6-max Seat #4 is the button
+Seat 3: Ship_It_Big ($71 in chips)
+Seat 4: BuzovaPro ($80.64 in chips)
+BuzovaPro: posts small blind $1
+Ship_It_Big: posts big blind $3
+*** HOLE CARDS ***
+BuzovaPro: raises $3 to $6
+Ship_It_Big: calls $3
+*** FLOP *** [4d 3d 7d]
+Ship_It_Big: checks
+BuzovaPro: bets $3
+Ship_It_Big: folds
+Uncalled bet ($3) returned to BuzovaPro
+BuzovaPro collected $11.76 from pot
+BuzovaPro: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4d 3d 7d]
+Seat 3: Ship_It_Big (big blind) folded on the Flop
+Seat 4: BuzovaPro (button) (small blind) collected ($11.76)
+
+

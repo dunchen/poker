@@ -1,0 +1,78 @@
+PokerStars Hand #155058752138:  Hold'em Limit ($3/$6 USD) - 2016/06/22 10:09:11 ET
+Table 'Cruithne' 6-max Seat #1 is the button
+Seat 1: millchar ($57 in chips)
+Seat 4: Mordnilap ($133.16 in chips)
+millchar: posts small blind $1
+Mordnilap: posts big blind $3
+*** HOLE CARDS ***
+millchar: raises $3 to $6
+Mordnilap: calls $3
+*** FLOP *** [Tc 3h Th]
+Mordnilap: checks
+millchar: bets $3
+Mordnilap: raises $3 to $6
+millchar: calls $3
+*** TURN *** [Tc 3h Th] [2d]
+Mordnilap: bets $6
+millchar: calls $6
+*** RIVER *** [Tc 3h Th 2d] [Jd]
+Mordnilap: bets $6
+millchar: raises $6 to $12
+Mordnilap: raises $6 to $18
+millchar: calls $6
+*** SHOW DOWN ***
+Mordnilap: shows [Ts Qd] (three of a kind, Tens)
+millchar: mucks hand
+Mordnilap collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [Tc 3h Th 2d Jd]
+Seat 1: millchar (button) (small blind) mucked
+Seat 4: Mordnilap (big blind) showed [Ts Qd] and won ($71.50) with three of a kind, Tens
+
+
+PokerStars Hand #155058796530:  Hold'em Limit ($3/$6 USD) - 2016/06/22 10:10:21 ET
+Table 'Cruithne' 6-max Seat #1 is the button
+Seat 1: millchar ($12 in chips)
+Seat 4: Mordnilap ($177.30 in chips)
+millchar: posts small blind $1
+Mordnilap: posts big blind $3
+*** HOLE CARDS ***
+millchar: folds
+Uncalled bet ($2) returned to Mordnilap
+millchar leaves the table
+Mordnilap collected $2 from pot
+Mordnilap: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: millchar (button) (small blind) folded before Flop
+Seat 4: Mordnilap (big blind) collected ($2)
+
+
+PokerStars Hand #155058771073:  Hold'em Limit ($3/$6 USD) - 2016/06/22 10:09:46 ET
+Table 'Cruithne' 6-max Seat #4 is the button
+Seat 1: millchar ($21 in chips)
+Seat 4: Mordnilap ($168.66 in chips)
+Mordnilap: posts small blind $1
+millchar: posts big blind $3
+*** HOLE CARDS ***
+Mordnilap: raises $3 to $6
+millchar: calls $3
+*** FLOP *** [4s 6h Tc]
+millchar: checks
+Mordnilap: bets $3
+millchar: calls $3
+*** TURN *** [4s 6h Tc] [Ah]
+millchar: checks
+Mordnilap: bets $6
+millchar: folds
+Uncalled bet ($6) returned to Mordnilap
+Mordnilap collected $17.64 from pot
+Mordnilap: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4s 6h Tc Ah]
+Seat 1: millchar (big blind) folded on the Turn
+Seat 4: Mordnilap (button) (small blind) collected ($17.64)
+
+

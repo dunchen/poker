@@ -1,0 +1,29 @@
+PokerStars Hand #176686356774:  Hold'em Limit ($3/$6 USD) - 2017/10/09 6:01:10 ET
+Table 'Boda' 6-max Seat #3 is the button
+Seat 3: XxDamiixX ($120 in chips)
+Seat 4: Anchig ($120 in chips)
+XxDamiixX: posts small blind $1
+Anchig: posts big blind $3
+*** HOLE CARDS ***
+XxDamiixX: raises $3 to $6
+Anchig: calls $3
+*** FLOP *** [Td Ts As]
+Anchig: checks
+XxDamiixX: checks
+*** TURN *** [Td Ts As] [5h]
+Anchig: checks
+XxDamiixX: checks
+*** RIVER *** [Td Ts As 5h] [6d]
+Anchig: checks
+XxDamiixX: checks
+*** SHOW DOWN ***
+Anchig: shows [4c 7c] (a pair of Tens)
+XxDamiixX: shows [Qc Kd] (a pair of Tens - Ace+King kicker)
+XxDamiixX collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Td Ts As 5h 6d]
+Seat 3: XxDamiixX (button) (small blind) showed [Qc Kd] and won ($11.76) with a pair of Tens
+Seat 4: Anchig (big blind) showed [4c 7c] and lost with a pair of Tens
+
+

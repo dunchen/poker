@@ -1,0 +1,63 @@
+PokerStars Hand #172984882718:  Hold'em Limit ($3/$6 USD) - 2017/07/13 13:53:21 ET
+Table 'Auravictrix' 6-max Seat #1 is the button
+Seat 1: Harlaur ($157.18 in chips)
+Seat 2: sim5sim5 ($75.50 in chips)
+Harlaur: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+Harlaur: raises $3 to $6
+sim5sim5: raises $3 to $9
+Harlaur: calls $3
+*** FLOP *** [Ad 4c 7d]
+sim5sim5: bets $3
+Harlaur: calls $3
+*** TURN *** [Ad 4c 7d] [Qs]
+sim5sim5: bets $6
+Harlaur: calls $6
+*** RIVER *** [Ad 4c 7d Qs] [Th]
+sim5sim5: bets $6
+Harlaur: calls $6
+*** SHOW DOWN ***
+sim5sim5: shows [Qd Ac] (two pair, Aces and Queens)
+Harlaur: mucks hand
+sim5sim5 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Ad 4c 7d Qs Th]
+Seat 1: Harlaur (button) (small blind) mucked
+Seat 2: sim5sim5 (big blind) showed [Qd Ac] and won ($47.50) with two pair, Aces and Queens
+
+
+PokerStars Hand #172984897708:  Hold'em Limit ($3/$6 USD) - 2017/07/13 13:53:42 ET
+Table 'Auravictrix' 6-max Seat #2 is the button
+Seat 1: Harlaur ($133.18 in chips)
+Seat 2: sim5sim5 ($99 in chips)
+sim5sim5: posts small blind $1
+Harlaur: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+Harlaur: raises $3 to $9
+sim5sim5: calls $3
+*** FLOP *** [2h 9s Qc]
+Harlaur: bets $3
+sim5sim5: calls $3
+*** TURN *** [2h 9s Qc] [8c]
+Harlaur: bets $6
+sim5sim5: raises $6 to $12
+Harlaur: calls $6
+*** RIVER *** [2h 9s Qc 8c] [Ah]
+Harlaur: checks
+DismasX joins the table at seat #3
+sim5sim5: bets $6
+Harlaur: calls $6
+*** SHOW DOWN ***
+sim5sim5: shows [Qs 9h] (two pair, Queens and Nines)
+Harlaur: mucks hand
+sim5sim5 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [2h 9s Qc 8c Ah]
+Seat 1: Harlaur (big blind) mucked
+Seat 2: sim5sim5 (button) (small blind) showed [Qs 9h] and won ($59.50) with two pair, Queens and Nines
+
+

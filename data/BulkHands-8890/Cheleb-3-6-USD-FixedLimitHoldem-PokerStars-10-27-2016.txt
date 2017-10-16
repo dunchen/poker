@@ -1,0 +1,34 @@
+PokerStars Hand #160512079490:  Hold'em Limit ($3/$6 USD) - 2016/10/27 12:41:19 ET
+Table 'Cheleb' 6-max Seat #5 is the button
+Seat 1: LolDnkaments ($88.93 in chips)
+Seat 5: Ag3r0n ($127.60 in chips)
+Ag3r0n: posts small blind $1
+LolDnkaments: posts big blind $3
+*** HOLE CARDS ***
+Ag3r0n: raises $3 to $6
+LolDnkaments: calls $3
+*** FLOP *** [5h Jh Kc]
+LolDnkaments: checks
+Ag3r0n: bets $3
+LolDnkaments: raises $3 to $6
+Ag3r0n: raises $3 to $9
+LolDnkaments: calls $3
+*** TURN *** [5h Jh Kc] [6d]
+LolDnkaments: checks
+Ag3r0n: bets $6
+LolDnkaments: calls $6
+*** RIVER *** [5h Jh Kc 6d] [4h]
+LolDnkaments: checks
+Ag3r0n: bets $6
+LolDnkaments: calls $6
+*** SHOW DOWN ***
+Ag3r0n: shows [Qd Ks] (a pair of Kings)
+LolDnkaments: mucks hand
+Ag3r0n collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [5h Jh Kc 6d 4h]
+Seat 1: LolDnkaments (big blind) mucked
+Seat 5: Ag3r0n (button) (small blind) showed [Qd Ks] and won ($53.50) with a pair of Kings
+
+

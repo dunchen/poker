@@ -1,0 +1,63 @@
+PokerStars Hand #173868785235:  Hold'em Limit ($3/$6 USD) - 2017/08/03 10:18:02 ET
+Table 'Flammario' 6-max Seat #3 is the button
+Seat 3: NewRocker ($120 in chips)
+Seat 4: Anchig ($120 in chips)
+NewRocker: posts small blind $1
+Anchig: posts big blind $3
+*** HOLE CARDS ***
+NewRocker: raises $3 to $6
+Anchig: calls $3
+*** FLOP *** [4c 5d 8c]
+Anchig: checks
+NewRocker: bets $3
+Anchig: raises $3 to $6
+NewRocker: calls $3
+*** TURN *** [4c 5d 8c] [4d]
+Anchig: bets $6
+NewRocker: calls $6
+*** RIVER *** [4c 5d 8c 4d] [7h]
+Anchig: bets $6
+NewRocker: calls $6
+*** SHOW DOWN ***
+Anchig: shows [5s 4h] (a full house, Fours full of Fives)
+NewRocker: mucks hand
+Anchig collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4c 5d 8c 4d 7h]
+Seat 3: NewRocker (button) (small blind) mucked
+Seat 4: Anchig (big blind) showed [5s 4h] and won ($47.50) with a full house, Fours full of Fives
+
+
+PokerStars Hand #173868804338:  Hold'em Limit ($3/$6 USD) - 2017/08/03 10:18:27 ET
+Table 'Flammario' 6-max Seat #4 is the button
+Seat 3: NewRocker ($96 in chips)
+Seat 4: Anchig ($143.50 in chips)
+Anchig: posts small blind $1
+NewRocker: posts big blind $3
+*** HOLE CARDS ***
+Anchig: raises $3 to $6
+NewRocker said, "call with 45"
+NewRocker said, "lol"
+NewRocker: raises $3 to $9
+Anchig: calls $3
+*** FLOP *** [Kd 5s 6h]
+NewRocker: bets $3
+Anchig: calls $3
+*** TURN *** [Kd 5s 6h] [4h]
+NewRocker: bets $6
+Anchig: calls $6
+*** RIVER *** [Kd 5s 6h 4h] [3c]
+NewRocker: bets $6
+Anchig: calls $6
+*** SHOW DOWN ***
+NewRocker: shows [Qh Ks] (a pair of Kings)
+Anchig: mucks hand
+NewRocker collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Kd 5s 6h 4h 3c]
+Seat 3: NewRocker (big blind) showed [Qh Ks] and won ($47.50) with a pair of Kings
+Seat 4: Anchig (button) (small blind) mucked
+
+

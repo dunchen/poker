@@ -1,0 +1,108 @@
+PokerStars Hand #156017083056:  Hold'em Limit ($3/$6 USD) - 2016/07/15 18:07:12 ET
+Table 'Lesath II' 10-max Seat #5 is the button
+Seat 5: gydferi ($81.85 in chips)
+Seat 6: Murrrr_@T ($100 in chips)
+gydferi: posts small blind $1
+Murrrr_@T: posts big blind $3
+*** HOLE CARDS ***
+gydferi: folds
+Uncalled bet ($2) returned to Murrrr_@T
+gydferi leaves the table
+Murrrr_@T collected $2 from pot
+Murrrr_@T: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: gydferi (button) (small blind) folded before Flop
+Seat 6: Murrrr_@T (big blind) collected ($2)
+
+
+PokerStars Hand #156017073726:  Hold'em Limit ($3/$6 USD) - 2016/07/15 18:06:58 ET
+Table 'Lesath II' 10-max Seat #4 is the button
+Seat 4: mgioa1 ($11.44 in chips)
+Seat 5: gydferi ($70.87 in chips)
+mgioa1: posts small blind $1
+gydferi: posts big blind $3
+*** HOLE CARDS ***
+mgioa1: raises $3 to $6
+gydferi: raises $3 to $9
+mgioa1: calls $3
+*** FLOP *** [9c Qd 5d]
+gydferi: bets $3
+mgioa1: calls $2.44 and is all-in
+Uncalled bet ($0.56) returned to gydferi
+*** TURN *** [9c Qd 5d] [4d]
+*** RIVER *** [9c Qd 5d 4d] [4h]
+*** SHOW DOWN ***
+gydferi: shows [Qc Ah] (two pair, Queens and Fours)
+mgioa1: shows [Jc Td] (a pair of Fours)
+gydferi collected $22.42 from pot
+*** SUMMARY ***
+Total pot $22.88 | Rake $0.46
+Board [9c Qd 5d 4d 4h]
+Seat 4: mgioa1 (button) (small blind) showed [Jc Td] and lost with a pair of Fours
+Seat 5: gydferi (big blind) showed [Qc Ah] and won ($22.42) with two pair, Queens and Fours
+
+
+PokerStars Hand #156017064282:  Hold'em Limit ($3/$6 USD) - 2016/07/15 18:06:45 ET
+Table 'Lesath II' 10-max Seat #5 is the button
+Seat 4: mgioa1 ($20.44 in chips)
+Seat 5: gydferi ($62.23 in chips)
+gydferi: posts small blind $1
+mgioa1: posts big blind $3
+*** HOLE CARDS ***
+gydferi: raises $3 to $6
+mgioa1: calls $3
+*** FLOP *** [Kc 8h 8s]
+mgioa1: checks
+gydferi: bets $3
+mgioa1: calls $3
+*** TURN *** [Kc 8h 8s] [Js]
+mgioa1: checks
+gydferi: checks
+*** RIVER *** [Kc 8h 8s Js] [Qc]
+mgioa1: checks
+Murrrr_@T joins the table at seat #6
+gydferi: bets $6
+mgioa1: folds
+Uncalled bet ($6) returned to gydferi
+gydferi collected $17.64 from pot
+gydferi: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kc 8h 8s Js Qc]
+Seat 4: mgioa1 (big blind) folded on the River
+Seat 5: gydferi (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #156017055161:  Hold'em Limit ($3/$6 USD) - 2016/07/15 18:06:31 ET
+Table 'Lesath II' 10-max Seat #4 is the button
+Seat 4: mgioa1 ($50.44 in chips)
+Seat 5: gydferi ($32.73 in chips)
+mgioa1: posts small blind $1
+gydferi: posts big blind $3
+*** HOLE CARDS ***
+mgioa1: raises $3 to $6
+gydferi: raises $3 to $9
+mgioa1: calls $3
+*** FLOP *** [5h 8c 5c]
+gydferi: bets $3
+mgioa1: calls $3
+*** TURN *** [5h 8c 5c] [6h]
+gydferi: bets $6
+mgioa1: raises $6 to $12
+gydferi: calls $6
+*** RIVER *** [5h 8c 5c 6h] [9s]
+gydferi: checks
+mgioa1: bets $6
+gydferi: calls $6
+*** SHOW DOWN ***
+mgioa1: shows [Kd 4s] (a pair of Fives)
+gydferi: shows [4d 5d] (three of a kind, Fives)
+gydferi collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [5h 8c 5c 6h 9s]
+Seat 4: mgioa1 (button) (small blind) showed [Kd 4s] and lost with a pair of Fives
+Seat 5: gydferi (big blind) showed [4d 5d] and won ($59.50) with three of a kind, Fives
+
+

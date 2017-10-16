@@ -1,0 +1,54 @@
+PokerStars Hand #159356268323:  Hold'em Limit ($3/$6 USD) - 2016/10/01 21:35:23 ET
+Table 'Scania' 6-max Seat #1 is the button
+Seat 1: Great_Kang ($404.91 in chips)
+Seat 5: LolDnkaments ($93.31 in chips)
+Great_Kang: posts small blind $1
+LolDnkaments: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+LolDnkaments: calls $3
+*** FLOP *** [5d Jd Ks]
+LolDnkaments: checks
+Cuxy leaves the table
+Great_Kang: bets $3
+LolDnkaments: folds
+Uncalled bet ($3) returned to Great_Kang
+Great_Kang collected $11.76 from pot
+Great_Kang: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5d Jd Ks]
+Seat 1: Great_Kang (button) (small blind) collected ($11.76)
+Seat 5: LolDnkaments (big blind) folded on the Flop
+
+
+PokerStars Hand #159356272155:  Hold'em Limit ($3/$6 USD) - 2016/10/01 21:35:33 ET
+Table 'Scania' 6-max Seat #5 is the button
+Seat 1: Great_Kang ($410.67 in chips)
+Seat 5: LolDnkaments ($87.31 in chips)
+LolDnkaments: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+LolDnkaments: raises $3 to $6
+Great_Kang: calls $3
+*** FLOP *** [8h 7d As]
+Great_Kang: checks
+LolDnkaments: bets $3
+Great_Kang: calls $3
+*** TURN *** [8h 7d As] [Qh]
+Great_Kang: checks
+LolDnkaments: checks
+*** RIVER *** [8h 7d As Qh] [9s]
+Great_Kang: checks
+LolDnkaments: checks
+*** SHOW DOWN ***
+Great_Kang: shows [7s Kd] (a pair of Sevens)
+LolDnkaments: mucks hand
+Great_Kang collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8h 7d As Qh 9s]
+Seat 1: Great_Kang (big blind) showed [7s Kd] and won ($17.64) with a pair of Sevens
+Seat 5: LolDnkaments (button) (small blind) mucked
+
+

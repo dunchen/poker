@@ -1,0 +1,30 @@
+PokerStars Hand #145255519677:  Hold'em Limit ($3/$6 USD) - 2015/12/12 20:13:11 ET
+Table 'Siarnaq' 2-max Seat #2 is the button
+Seat 1: baur017017 ($30 in chips)
+Seat 2: xRauIx ($120 in chips)
+xRauIx: posts small blind $1
+baur017017: posts big blind $3
+*** HOLE CARDS ***
+xRauIx: raises $3 to $6
+baur017017: raises $3 to $9
+xRauIx: calls $3
+*** FLOP *** [3h 9d 4c]
+baur017017: bets $3
+xRauIx: calls $3
+*** TURN *** [3h 9d 4c] [Ks]
+baur017017: bets $6
+xRauIx: calls $6
+*** RIVER *** [3h 9d 4c Ks] [Qh]
+baur017017: bets $6
+xRauIx: calls $6
+*** SHOW DOWN ***
+baur017017: shows [Kd 5s] (a pair of Kings)
+xRauIx: mucks hand
+baur017017 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3h 9d 4c Ks Qh]
+Seat 1: baur017017 (big blind) showed [Kd 5s] and won ($47.50) with a pair of Kings
+Seat 2: xRauIx (button) (small blind) mucked
+
+

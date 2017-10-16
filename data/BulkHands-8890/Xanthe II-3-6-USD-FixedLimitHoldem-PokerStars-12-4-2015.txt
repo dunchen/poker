@@ -1,0 +1,112 @@
+PokerStars Hand #144810082504:  Hold'em Limit ($3/$6 USD) - 2015/12/04 11:05:19 ET
+Table 'Xanthe II' 6-max Seat #3 is the button
+Seat 3: desso777 ($42 in chips)
+Seat 4: PelonCabelao ($60 in chips)
+desso777: posts small blind $1
+PelonCabelao: posts big blind $3
+*** HOLE CARDS ***
+desso777: raises $3 to $6
+PelonCabelao: raises $3 to $9
+desso777: raises $3 to $12
+Betting is capped
+PelonCabelao: calls $3
+*** FLOP *** [6d Jh 8c]
+PelonCabelao: checks
+desso777: bets $3
+PelonCabelao: calls $3
+*** TURN *** [6d Jh 8c] [5h]
+PelonCabelao: checks
+desso777: bets $6
+PelonCabelao: calls $6
+*** RIVER *** [6d Jh 8c 5h] [3c]
+PelonCabelao: checks
+desso777: bets $6
+PelonCabelao: calls $6
+*** SHOW DOWN ***
+desso777: shows [Tc Ac] (high card Ace)
+PelonCabelao: shows [6c Kc] (a pair of Sixes)
+PelonCabelao collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [6d Jh 8c 5h 3c]
+Seat 3: desso777 (button) (small blind) showed [Tc Ac] and lost with high card Ace
+Seat 4: PelonCabelao (big blind) showed [6c Kc] and won ($53.50) with a pair of Sixes
+
+
+PokerStars Hand #144810126509:  Hold'em Limit ($3/$6 USD) - 2015/12/04 11:06:15 ET
+Table 'Xanthe II' 6-max Seat #3 is the button
+Seat 3: desso777 ($29.50 in chips)
+Seat 4: PelonCabelao ($72 in chips)
+desso777: posts small blind $1
+PelonCabelao: posts big blind $3
+*** HOLE CARDS ***
+desso777: folds
+Uncalled bet ($2) returned to PelonCabelao
+PelonCabelao collected $2 from pot
+PelonCabelao: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: desso777 (button) (small blind) folded before Flop
+Seat 4: PelonCabelao (big blind) collected ($2)
+
+
+PokerStars Hand #144810111072:  Hold'em Limit ($3/$6 USD) - 2015/12/04 11:05:55 ET
+Table 'Xanthe II' 6-max Seat #4 is the button
+Seat 3: desso777 ($15 in chips)
+Seat 4: PelonCabelao ($86.50 in chips)
+PelonCabelao: posts small blind $1
+desso777: posts big blind $3
+*** HOLE CARDS ***
+PelonCabelao: raises $3 to $6
+desso777: raises $3 to $9
+PelonCabelao: calls $3
+*** FLOP *** [2d 2h Jc]
+desso777: bets $3
+PelonCabelao: raises $3 to $6
+desso777: calls $3 and is all-in
+*** TURN *** [2d 2h Jc] [9s]
+*** RIVER *** [2d 2h Jc 9s] [4s]
+SashaYuvelir joins the table at seat #5
+*** SHOW DOWN ***
+desso777: shows [9d 3d] (two pair, Nines and Deuces)
+PelonCabelao: shows [Qd Td] (a pair of Deuces)
+desso777 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2d 2h Jc 9s 4s]
+Seat 3: desso777 (big blind) showed [9d 3d] and won ($29.50) with two pair, Nines and Deuces
+Seat 4: PelonCabelao (button) (small blind) showed [Qd Td] and lost with a pair of Deuces
+
+
+PokerStars Hand #144810150630:  Hold'em Limit ($3/$6 USD) - 2015/12/04 11:06:46 ET
+Table 'Xanthe II' 6-max Seat #5 is the button
+Seat 4: PelonCabelao ($72 in chips)
+Seat 5: SashaYuvelir ($99.76 in chips)
+SashaYuvelir: posts small blind $1
+PelonCabelao: posts big blind $3
+*** HOLE CARDS ***
+SashaYuvelir: raises $3 to $6
+PelonCabelao: raises $3 to $9
+SashaYuvelir: calls $3
+*** FLOP *** [6c 4d 7h]
+PelonCabelao: bets $3
+SashaYuvelir: calls $3
+*** TURN *** [6c 4d 7h] [4c]
+PelonCabelao: bets $6
+SashaYuvelir: raises $6 to $12
+PelonCabelao: calls $6
+*** RIVER *** [6c 4d 7h 4c] [7s]
+PelonCabelao: checks
+SashaYuvelir: bets $6
+PelonCabelao: calls $6
+*** SHOW DOWN ***
+SashaYuvelir: shows [7c 5d] (a full house, Sevens full of Fours)
+PelonCabelao: mucks hand
+SashaYuvelir collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [6c 4d 7h 4c 7s]
+Seat 4: PelonCabelao (big blind) mucked
+Seat 5: SashaYuvelir (button) (small blind) showed [7c 5d] and won ($59.50) with a full house, Sevens full of Fours
+
+

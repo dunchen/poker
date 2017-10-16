@@ -1,0 +1,33 @@
+PokerStars Hand #146019916777:  Hold'em Limit ($3/$6 USD) - 2015/12/27 15:19:12 ET
+Table 'Cosette' 6-max Seat #1 is the button
+Seat 1: Zubasa07 ($500 in chips)
+Seat 2: CoachMcA ($120 in chips)
+Zubasa07: posts small blind $1
+CoachMcA: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+CoachMcA: calls $3
+*** FLOP *** [7s 8s 5s]
+CoachMcA: checks
+Zubasa07: bets $3
+CoachMcA: calls $3
+*** TURN *** [7s 8s 5s] [7d]
+CoachMcA: checks
+Zubasa07: bets $6
+CoachMcA: raises $6 to $12
+12groszy666 joins the table at seat #3
+Zubasa07: calls $6
+*** RIVER *** [7s 8s 5s 7d] [9c]
+CoachMcA: checks
+Zubasa07: checks
+*** SHOW DOWN ***
+CoachMcA: shows [Qc 8c] (two pair, Eights and Sevens)
+Zubasa07: shows [Ac 8d] (two pair, Eights and Sevens - Ace kicker)
+Zubasa07 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [7s 8s 5s 7d 9c]
+Seat 1: Zubasa07 (button) (small blind) showed [Ac 8d] and won ($41.50) with two pair, Eights and Sevens
+Seat 2: CoachMcA (big blind) showed [Qc 8c] and lost with two pair, Eights and Sevens
+
+

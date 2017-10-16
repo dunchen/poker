@@ -1,0 +1,66 @@
+PokerStars Hand #144497333341:  Hold'em Limit ($3/$6 USD) - 2015/11/28 4:53:39 ET
+Table 'Hesperia' 2-max Seat #2 is the button
+Seat 1: toklapim ($64.59 in chips)
+Seat 2: duazal ($49.18 in chips)
+duazal: posts small blind $1
+toklapim: posts big blind $3
+*** HOLE CARDS ***
+duazal: raises $3 to $6
+toklapim: raises $3 to $9
+duazal: raises $3 to $12
+Betting is capped
+toklapim: calls $3
+*** FLOP *** [7h 9h Th]
+toklapim: bets $3
+duazal: raises $3 to $6
+toklapim: raises $3 to $9
+duazal: raises $3 to $12
+Betting is capped
+toklapim: calls $3
+*** TURN *** [7h 9h Th] [Qd]
+toklapim: bets $6
+duazal: folds
+Uncalled bet ($6) returned to toklapim
+toklapim collected $47.50 from pot
+toklapim: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7h 9h Th Qd]
+Seat 1: toklapim (big blind) collected ($47.50)
+Seat 2: duazal (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #144497338863:  Hold'em Limit ($3/$6 USD) - 2015/11/28 4:53:52 ET
+Table 'Hesperia' 2-max Seat #1 is the button
+Seat 1: toklapim ($88.09 in chips)
+Seat 2: duazal ($25.18 in chips)
+toklapim: posts small blind $1
+duazal: posts big blind $3
+*** HOLE CARDS ***
+toklapim: raises $3 to $6
+duazal: raises $3 to $9
+toklapim: raises $3 to $12
+Betting is capped
+duazal: calls $3
+*** FLOP *** [8s 4s 7h]
+duazal: bets $3
+toklapim: raises $3 to $6
+duazal: raises $3 to $9
+toklapim: raises $3 to $12
+Betting is capped
+duazal: calls $3
+*** TURN *** [8s 4s 7h] [Ac]
+duazal: bets $1.18 and is all-in
+toklapim: calls $1.18
+*** RIVER *** [8s 4s 7h Ac] [8c]
+*** SHOW DOWN ***
+duazal: shows [6c Js] (a pair of Eights)
+toklapim: shows [7s Jd] (two pair, Eights and Sevens)
+toklapim collected $49.86 from pot
+*** SUMMARY ***
+Total pot $50.36 | Rake $0.50
+Board [8s 4s 7h Ac 8c]
+Seat 1: toklapim (button) (small blind) showed [7s Jd] and won ($49.86) with two pair, Eights and Sevens
+Seat 2: duazal (big blind) showed [6c Js] and lost with a pair of Eights
+
+

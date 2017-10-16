@@ -1,0 +1,62 @@
+PokerStars Hand #151790378766:  Hold'em Limit ($3/$6 USD) - 2016/04/11 20:15:30 ET
+Table 'Nininger III' 6-max Seat #1 is the button
+Seat 1: S.BLACK 71 ($168.06 in chips)
+Seat 5: Zubasa07 ($517.91 in chips)
+S.BLACK 71: posts small blind $1
+MissEKAmouse: is sitting out
+Zubasa07: posts big blind $3
+*** HOLE CARDS ***
+S.BLACK 71: calls $2
+Zubasa07: raises $3 to $6
+S.BLACK 71: calls $3
+*** FLOP *** [4d 5s 6s]
+Zubasa07: bets $3
+S.BLACK 71: calls $3
+*** TURN *** [4d 5s 6s] [7h]
+Zubasa07: bets $6
+S.BLACK 71: calls $6
+*** RIVER *** [4d 5s 6s 7h] [Ad]
+Zubasa07: bets $6
+S.BLACK 71: raises $6 to $12
+Zubasa07: folds
+Uncalled bet ($6) returned to S.BLACK 71
+S.BLACK 71 collected $41.50 from pot
+S.BLACK 71: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [4d 5s 6s 7h Ad]
+Seat 1: S.BLACK 71 (button) (small blind) collected ($41.50)
+Seat 5: Zubasa07 (big blind) folded on the River
+
+
+PokerStars Hand #151790395035:  Hold'em Limit ($3/$6 USD) - 2016/04/11 20:16:02 ET
+Table 'Nininger III' 6-max Seat #5 is the button
+Seat 1: S.BLACK 71 ($188.56 in chips)
+Seat 5: Zubasa07 ($496.91 in chips)
+Zubasa07: posts small blind $1
+S.BLACK 71: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+S.BLACK 71: raises $3 to $9
+Zubasa07: calls $3
+*** FLOP *** [6h 9c Jc]
+S.BLACK 71: bets $3
+Zubasa07: calls $3
+*** TURN *** [6h 9c Jc] [8s]
+S.BLACK 71: bets $6
+Zubasa07: calls $6
+*** RIVER *** [6h 9c Jc 8s] [5s]
+S.BLACK 71: bets $6
+Zubasa07: raises $6 to $12
+S.BLACK 71: calls $6
+*** SHOW DOWN ***
+Zubasa07: shows [9s 7h] (a straight, Five to Nine)
+S.BLACK 71: mucks hand
+Zubasa07 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [6h 9c Jc 8s 5s]
+Seat 1: S.BLACK 71 (big blind) mucked
+Seat 5: Zubasa07 (button) (small blind) showed [9s 7h] and won ($59.50) with a straight, Five to Nine
+
+

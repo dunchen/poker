@@ -1,0 +1,119 @@
+PokerStars Hand #145731238716:  Hold'em Limit ($3/$6 USD) - 2015/12/22 6:22:25 ET
+Table 'Adonis II' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($125.76 in chips)
+Seat 3: alingi77 ($52.92 in chips)
+VolkovDmitri: posts small blind $1
+alingi77: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+alingi77: calls $3
+*** FLOP *** [Js Qc 7d]
+alingi77: bets $3
+VolkovDmitri: folds
+Uncalled bet ($3) returned to alingi77
+alingi77 collected $11.76 from pot
+alingi77: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Js Qc 7d]
+Seat 1: VolkovDmitri (button) (small blind) folded on the Flop
+Seat 3: alingi77 (big blind) collected ($11.76)
+
+
+PokerStars Hand #145731266153:  Hold'em Limit ($3/$6 USD) - 2015/12/22 6:23:20 ET
+Table 'Adonis II' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($149.50 in chips)
+Seat 3: alingi77 ($28.68 in chips)
+VolkovDmitri: posts small blind $1
+alingi77: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+alingi77: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [5h 3c 8s]
+alingi77: checks
+VolkovDmitri: checks
+*** TURN *** [5h 3c 8s] [9h]
+alingi77: checks
+VolkovDmitri: checks
+*** RIVER *** [5h 3c 8s 9h] [7c]
+alingi77: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+alingi77: shows [Js 4s] (high card Jack)
+VolkovDmitri: shows [7d Kd] (a pair of Sevens)
+VolkovDmitri collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5h 3c 8s 9h 7c]
+Seat 1: VolkovDmitri (button) (small blind) showed [7d Kd] and won ($29.50) with a pair of Sevens
+Seat 3: alingi77 (big blind) showed [Js 4s] and lost with high card Jack
+
+
+PokerStars Hand #145731243995:  Hold'em Limit ($3/$6 USD) - 2015/12/22 6:22:36 ET
+Table 'Adonis II' 6-max Seat #3 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 3: alingi77 ($58.68 in chips)
+alingi77: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+alingi77: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+alingi77: calls $3
+*** FLOP *** [Qs 4d Tc]
+VolkovDmitri: bets $3
+alingi77: calls $3
+*** TURN *** [Qs 4d Tc] [8c]
+VolkovDmitri: checks
+alingi77: bets $6
+chezlaw joins the table at seat #4
+VolkovDmitri: calls $6
+*** RIVER *** [Qs 4d Tc 8c] [As]
+VolkovDmitri: bets $6
+alingi77: raises $6 to $12
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+alingi77: shows [6h 9s] (high card Ace)
+VolkovDmitri: shows [Kc Ah] (a pair of Aces)
+VolkovDmitri collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Qs 4d Tc 8c As]
+Seat 1: VolkovDmitri (big blind) showed [Kc Ah] and won ($59.50) with a pair of Aces
+Seat 3: alingi77 (button) (small blind) showed [6h 9s] and lost with high card Ace
+
+
+PokerStars Hand #145731322977:  Hold'em Limit ($3/$6 USD) - 2015/12/22 6:25:12 ET
+Table 'Adonis II' 6-max Seat #4 is the button
+Seat 2: biemea ($83.32 in chips)
+Seat 4: chezlaw ($136.11 in chips)
+chezlaw: posts small blind $1
+VolkovDmitri: is sitting out
+biemea: posts big blind $3
+*** HOLE CARDS ***
+chezlaw: raises $3 to $6
+VolkovDmitri leaves the table
+biemea: calls $3
+*** FLOP *** [Jh 2d Qc]
+biemea: checks
+chezlaw: bets $3
+biemea: calls $3
+*** TURN *** [Jh 2d Qc] [Jc]
+biemea: checks
+chezlaw: bets $6
+biemea: raises $6 to $12
+chezlaw: calls $6
+*** RIVER *** [Jh 2d Qc Jc] [Kc]
+biemea: bets $6
+chezlaw: calls $6
+*** SHOW DOWN ***
+biemea: shows [Qs Js] (a full house, Jacks full of Queens)
+chezlaw: mucks hand
+biemea collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Jh 2d Qc Jc Kc]
+Seat 2: biemea (big blind) showed [Qs Js] and won ($53.50) with a full house, Jacks full of Queens
+Seat 4: chezlaw (button) (small blind) mucked
+
+

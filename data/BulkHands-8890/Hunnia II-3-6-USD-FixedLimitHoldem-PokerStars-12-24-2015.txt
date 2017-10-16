@@ -1,0 +1,67 @@
+PokerStars Hand #145855992068:  Hold'em Limit ($3/$6 USD) - 2015/12/24 13:22:40 ET
+Table 'Hunnia II' 2-max Seat #1 is the button
+Seat 1: bandakappa ($21.30 in chips)
+Seat 2: faserom1 ($245.70 in chips)
+bandakappa: posts small blind $1
+faserom1: posts big blind $3
+*** HOLE CARDS ***
+bandakappa: raises $3 to $6
+faserom1: raises $3 to $9
+bandakappa: raises $3 to $12
+Betting is capped
+faserom1: calls $3
+*** FLOP *** [2d 9s Qh]
+faserom1: bets $3
+bandakappa: calls $3
+*** TURN *** [2d 9s Qh] [5d]
+faserom1: bets $6
+bandakappa: calls $6
+*** RIVER *** [2d 9s Qh 5d] [2s]
+faserom1: bets $6
+bandakappa: folds
+Uncalled bet ($6) returned to faserom1
+bandakappa leaves the table
+faserom1 collected $41.50 from pot
+faserom1: doesn't show hand
+faserom1 leaves the table
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2d 9s Qh 5d 2s]
+Seat 1: bandakappa (button) (small blind) folded on the River
+Seat 2: faserom1 (big blind) collected ($41.50)
+
+
+PokerStars Hand #145855982543:  Hold'em Limit ($3/$6 USD) - 2015/12/24 13:22:28 ET
+Table 'Hunnia II' 2-max Seat #2 is the button
+Seat 1: bandakappa ($51.30 in chips)
+Seat 2: faserom1 ($216.20 in chips)
+faserom1: posts small blind $1
+bandakappa: posts big blind $3
+*** HOLE CARDS ***
+faserom1: raises $3 to $6
+bandakappa: raises $3 to $9
+faserom1: raises $3 to $12
+Betting is capped
+bandakappa: calls $3
+*** FLOP *** [5s 5h Jh]
+bandakappa: bets $3
+faserom1: raises $3 to $6
+bandakappa: calls $3
+*** TURN *** [5s 5h Jh] [Ks]
+bandakappa: bets $6
+faserom1: raises $6 to $12
+bandakappa: calls $6
+*** RIVER *** [5s 5h Jh Ks] [9d]
+bandakappa: checks
+faserom1: bets $6
+bandakappa: folds
+Uncalled bet ($6) returned to faserom1
+faserom1 collected $59.50 from pot
+faserom1: doesn't show hand
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [5s 5h Jh Ks 9d]
+Seat 1: bandakappa (big blind) folded on the River
+Seat 2: faserom1 (button) (small blind) collected ($59.50)
+
+

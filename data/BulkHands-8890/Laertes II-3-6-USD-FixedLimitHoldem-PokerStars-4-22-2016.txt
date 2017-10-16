@@ -1,0 +1,54 @@
+PokerStars Hand #152276243124:  Hold'em Limit ($3/$6 USD) - 2016/04/22 8:46:53 ET
+Table 'Laertes II' 6-max Seat #4 is the button
+Seat 3: SACHAVT ($6 in chips)
+Seat 4: Agrotait ($95.50 in chips)
+Agrotait: posts small blind $1
+SACHAVT: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+SACHAVT: calls $3 and is all-in
+*** FLOP *** [6h Ah 8s]
+*** TURN *** [6h Ah 8s] [3s]
+*** RIVER *** [6h Ah 8s 3s] [2d]
+*** SHOW DOWN ***
+SACHAVT: shows [5h Qh] (high card Ace)
+Agrotait: shows [6c 9c] (a pair of Sixes)
+Agrotait collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6h Ah 8s 3s 2d]
+Seat 3: SACHAVT (big blind) showed [5h Qh] and lost with high card Ace
+Seat 4: Agrotait (button) (small blind) showed [6c 9c] and won ($11.76) with a pair of Sixes
+
+
+PokerStars Hand #152276224024:  Hold'em Limit ($3/$6 USD) - 2016/04/22 8:46:19 ET
+Table 'Laertes II' 6-max Seat #3 is the button
+Seat 3: SACHAVT ($30 in chips)
+Seat 4: Agrotait ($72 in chips)
+SACHAVT: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+SACHAVT: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [4h Tc 2h]
+Agrotait: checks
+SACHAVT: checks
+*** TURN *** [4h Tc 2h] [Ah]
+Agrotait: bets $6
+SACHAVT: raises $6 to $12
+Agrotait: calls $6
+*** RIVER *** [4h Tc 2h Ah] [4c]
+Agrotait: checks
+SACHAVT: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+SACHAVT: shows [8h 9d] (a pair of Fours)
+Agrotait: shows [Qc Th] (two pair, Tens and Fours)
+Agrotait collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4h Tc 2h Ah 4c]
+Seat 3: SACHAVT (button) (small blind) showed [8h 9d] and lost with a pair of Fours
+Seat 4: Agrotait (big blind) showed [Qc Th] and won ($47.50) with two pair, Tens and Fours
+
+

@@ -1,0 +1,125 @@
+PokerStars Hand #153192160258:  Hold'em Limit ($3/$6 USD) - 2016/05/12 0:12:26 ET
+Table 'Aletheia' 6-max Seat #4 is the button
+Seat 4: Mudager ($193.54 in chips)
+Seat 5: hairy1961 ($60 in chips)
+Mudager: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+Mudager: raises $3 to $6
+hairy1961: calls $3
+*** FLOP *** [Jd Ks Kh]
+hairy1961: checks
+gracetime joins the table at seat #6
+Mudager: bets $3
+hairy1961: calls $3
+*** TURN *** [Jd Ks Kh] [9h]
+hairy1961: checks
+Mudager: bets $6
+hairy1961: calls $6
+*** RIVER *** [Jd Ks Kh 9h] [Ah]
+hairy1961: bets $6
+Mudager: calls $6
+*** SHOW DOWN ***
+hairy1961: shows [Qd 4c] (a pair of Kings)
+Mudager: shows [7c 9c] (two pair, Kings and Nines)
+Mudager collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Jd Ks Kh 9h Ah]
+Seat 4: Mudager (button) (small blind) showed [7c 9c] and won ($41.50) with two pair, Kings and Nines
+Seat 5: hairy1961 (big blind) showed [Qd 4c] and lost with a pair of Kings
+
+
+PokerStars Hand #153192172091:  Hold'em Limit ($3/$6 USD) - 2016/05/12 0:13:13 ET
+Table 'Aletheia' 6-max Seat #5 is the button
+Seat 5: hairy1961 ($35 in chips)
+Seat 6: gracetime ($120 in chips)
+hairy1961: posts small blind $1
+gracetime: posts big blind $3
+*** HOLE CARDS ***
+Mudager joins the table at seat #1
+hairy1961: folds
+Uncalled bet ($2) returned to gracetime
+gracetime collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: hairy1961 (button) (small blind) folded before Flop
+Seat 6: gracetime (big blind) collected ($2)
+
+
+PokerStars Hand #153192170272:  Hold'em Limit ($3/$6 USD) - 2016/05/12 0:13:05 ET
+Table 'Aletheia' 6-max Seat #6 is the button
+Seat 5: hairy1961 ($38 in chips)
+Seat 6: gracetime ($117 in chips)
+gracetime: posts small blind $1
+Mudager: is sitting out
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+Mudager leaves the table
+gracetime: raises $3 to $6
+hairy1961: folds
+Uncalled bet ($3) returned to gracetime
+gracetime collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 5: hairy1961 (big blind) folded before Flop
+Seat 6: gracetime (button) (small blind) collected ($6)
+
+
+PokerStars Hand #153192225290:  Hold'em Limit ($3/$6 USD) - 2016/05/12 0:16:46 ET
+Table 'Aletheia' 6-max Seat #1 is the button
+Seat 1: Mudager ($120 in chips)
+Seat 5: hairy1961 ($20.80 in chips)
+Mudager: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+Mudager: raises $3 to $6
+hairy1961: raises $3 to $9
+Mudager: calls $3
+*** FLOP *** [5h 2c 5s]
+hairy1961: bets $3
+Mudager: raises $3 to $6
+hairy1961: calls $3
+*** TURN *** [5h 2c 5s] [Qs]
+hairy1961: bets $5.80 and is all-in
+Mudager: calls $5.80
+*** RIVER *** [5h 2c 5s Qs] [Kc]
+*** SHOW DOWN ***
+hairy1961: shows [Ad 8d] (a pair of Fives)
+Mudager: shows [2h Qh] (two pair, Queens and Fives)
+Mudager collected $41.10 from pot
+*** SUMMARY ***
+Total pot $41.60 | Rake $0.50
+Board [5h 2c 5s Qs Kc]
+Seat 1: Mudager (button) (small blind) showed [2h Qh] and won ($41.10) with two pair, Queens and Fives
+Seat 5: hairy1961 (big blind) showed [Ad 8d] and lost with a pair of Fives
+
+
+PokerStars Hand #153192219293:  Hold'em Limit ($3/$6 USD) - 2016/05/12 0:16:21 ET
+Table 'Aletheia' 6-max Seat #5 is the button
+Seat 1: Mudager ($120 in chips)
+Seat 5: hairy1961 ($10.61 in chips)
+hairy1961: posts small blind $1
+gracetime: is sitting out
+Mudager: posts big blind $3
+*** HOLE CARDS ***
+hairy1961: raises $3 to $6
+Mudager: raises $3 to $9
+gracetime leaves the table
+hairy1961: raises $1.61 to $10.61 and is all-in
+Betting is capped
+Mudager: calls $1.61
+*** FLOP *** [3h 7d Qs]
+*** TURN *** [3h 7d Qs] [3d]
+*** RIVER *** [3h 7d Qs 3d] [4c]
+*** SHOW DOWN ***
+Mudager: shows [Ks Jd] (a pair of Threes)
+hairy1961: shows [7h Ah] (two pair, Sevens and Threes)
+hairy1961 collected $20.80 from pot
+*** SUMMARY ***
+Total pot $21.22 | Rake $0.42
+Board [3h 7d Qs 3d 4c]
+Seat 1: Mudager (big blind) showed [Ks Jd] and lost with a pair of Threes
+Seat 5: hairy1961 (button) (small blind) showed [7h Ah] and won ($20.80) with two pair, Sevens and Threes
+
+

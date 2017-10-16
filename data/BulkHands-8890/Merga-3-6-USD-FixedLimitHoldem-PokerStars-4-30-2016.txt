@@ -1,0 +1,64 @@
+PokerStars Hand #152648494547:  Hold'em Limit ($3/$6 USD) - 2016/04/30 6:12:28 ET
+Table 'Merga' 6-max Seat #3 is the button
+Seat 3: tomasaris ($232.04 in chips)
+Seat 4: TbIP-TbIP 88 ($72 in chips)
+tomasaris: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+tomasaris: raises $3 to $6
+TbIP-TbIP 88: calls $3
+*** FLOP *** [7d Kc 3s]
+RockKillerTY joins the table at seat #5
+TbIP-TbIP 88: checks
+tomasaris: bets $3
+TbIP-TbIP 88: raises $3 to $6
+tomasaris: raises $3 to $9
+TbIP-TbIP 88: calls $3
+*** TURN *** [7d Kc 3s] [Kh]
+TbIP-TbIP 88: bets $6
+tomasaris: calls $6
+*** RIVER *** [7d Kc 3s Kh] [5c]
+TbIP-TbIP 88: bets $6
+tomasaris: calls $6
+*** SHOW DOWN ***
+TbIP-TbIP 88: shows [Kd 8c] (three of a kind, Kings)
+tomasaris: mucks hand
+TbIP-TbIP 88 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [7d Kc 3s Kh 5c]
+Seat 3: tomasaris (button) (small blind) mucked
+Seat 4: TbIP-TbIP 88 (big blind) showed [Kd 8c] and won ($53.50) with three of a kind, Kings
+
+
+PokerStars Hand #152648599306:  Hold'em Limit ($3/$6 USD) - 2016/04/30 6:16:23 ET
+Table 'Merga' 6-max Seat #5 is the button
+Seat 4: TbIP-TbIP 88 ($133.10 in chips)
+Seat 5: RockKillerTY ($135.38 in chips)
+RockKillerTY: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+RockKillerTY: raises $3 to $6
+TbIP-TbIP 88: calls $3
+*** FLOP *** [9c 4h 4d]
+TbIP-TbIP 88: checks
+RockKillerTY: bets $3
+TbIP-TbIP 88: raises $3 to $6
+RockKillerTY: calls $3
+*** TURN *** [9c 4h 4d] [Jd]
+TbIP-TbIP 88: bets $6
+RockKillerTY: calls $6
+*** RIVER *** [9c 4h 4d Jd] [4s]
+TbIP-TbIP 88: bets $6
+RockKillerTY: raises $6 to $12
+TbIP-TbIP 88: folds
+Uncalled bet ($6) returned to RockKillerTY
+RockKillerTY collected $47.50 from pot
+RockKillerTY: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9c 4h 4d Jd 4s]
+Seat 4: TbIP-TbIP 88 (big blind) folded on the River
+Seat 5: RockKillerTY (button) (small blind) collected ($47.50)
+
+

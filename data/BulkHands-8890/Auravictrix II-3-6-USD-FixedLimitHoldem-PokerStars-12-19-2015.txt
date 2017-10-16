@@ -1,0 +1,950 @@
+PokerStars Hand #145591565315:  Hold'em Limit ($3/$6 USD) - 2015/12/19 13:13:13 ET
+Table 'Auravictrix II' 2-max Seat #2 is the button
+Seat 1: PelonCabelao ($60 in chips)
+Seat 2: bluejohn ($48.32 in chips)
+bluejohn: posts small blind $1
+PelonCabelao: posts big blind $3
+*** HOLE CARDS ***
+bluejohn: raises $3 to $6
+PelonCabelao: raises $3 to $9
+bluejohn: calls $3
+*** FLOP *** [4c 7h 5s]
+PelonCabelao: bets $3
+bluejohn: raises $3 to $6
+PelonCabelao: calls $3
+*** TURN *** [4c 7h 5s] [6d]
+PelonCabelao: checks
+bluejohn: bets $6
+PelonCabelao: calls $6
+*** RIVER *** [4c 7h 5s 6d] [3d]
+PelonCabelao: checks
+bluejohn: bets $6
+PelonCabelao: calls $6
+*** SHOW DOWN ***
+bluejohn: shows [6s Kd] (a straight, Three to Seven)
+PelonCabelao: shows [Js 9h] (a straight, Three to Seven)
+PelonCabelao collected $26.75 from pot
+bluejohn collected $26.75 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [4c 7h 5s 6d 3d]
+Seat 1: PelonCabelao (big blind) showed [Js 9h] and won ($26.75) with a straight, Three to Seven
+Seat 2: bluejohn (button) (small blind) showed [6s Kd] and won ($26.75) with a straight, Three to Seven
+
+
+PokerStars Hand #145591613320:  Hold'em Limit ($3/$6 USD) - 2015/12/19 13:14:06 ET
+Table 'Auravictrix II' 2-max Seat #1 is the button
+Seat 1: PelonCabelao ($72 in chips)
+Seat 2: bluejohn ($48.07 in chips)
+PelonCabelao: posts small blind $1
+bluejohn: posts big blind $3
+*** HOLE CARDS ***
+PelonCabelao: raises $3 to $6
+bluejohn: calls $3
+*** FLOP *** [7s Jh As]
+bluejohn: checks
+PelonCabelao: bets $3
+bluejohn: calls $3
+*** TURN *** [7s Jh As] [Ac]
+bluejohn: checks
+PelonCabelao: bets $6
+bluejohn: calls $6
+*** RIVER *** [7s Jh As Ac] [3c]
+bluejohn: checks
+PelonCabelao: checks
+*** SHOW DOWN ***
+bluejohn: shows [7h 4h] (two pair, Aces and Sevens)
+PelonCabelao: mucks hand
+bluejohn collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7s Jh As Ac 3c]
+Seat 1: PelonCabelao (button) (small blind) mucked
+Seat 2: bluejohn (big blind) showed [7h 4h] and won ($29.50) with two pair, Aces and Sevens
+
+
+PokerStars Hand #145591655678:  Hold'em Limit ($3/$6 USD) - 2015/12/19 13:14:54 ET
+Table 'Auravictrix II' 2-max Seat #2 is the button
+Seat 1: PelonCabelao ($72 in chips)
+Seat 2: bluejohn ($62.57 in chips)
+bluejohn: posts small blind $1
+PelonCabelao: posts big blind $3
+*** HOLE CARDS ***
+bluejohn: raises $3 to $6
+PelonCabelao: folds
+Uncalled bet ($3) returned to bluejohn
+bluejohn collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: PelonCabelao (big blind) folded before Flop
+Seat 2: bluejohn (button) (small blind) collected ($6)
+
+
+PokerStars Hand #145591664238:  Hold'em Limit ($3/$6 USD) - 2015/12/19 13:15:03 ET
+Table 'Auravictrix II' 2-max Seat #1 is the button
+Seat 1: PelonCabelao ($72 in chips)
+Seat 2: bluejohn ($65.57 in chips)
+PelonCabelao: posts small blind $1
+bluejohn: posts big blind $3
+*** HOLE CARDS ***
+PelonCabelao: raises $3 to $6
+bluejohn: raises $3 to $9
+PelonCabelao: calls $3
+*** FLOP *** [8s 9h 2c]
+bluejohn: bets $3
+PelonCabelao: calls $3
+*** TURN *** [8s 9h 2c] [Ts]
+bluejohn: bets $6
+PelonCabelao: folds
+Uncalled bet ($6) returned to bluejohn
+bluejohn collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [8s 9h 2c Ts]
+Seat 1: PelonCabelao (button) (small blind) folded on the Turn
+Seat 2: bluejohn (big blind) collected ($23.52)
+
+
+PokerStars Hand #145591683865:  Hold'em Limit ($3/$6 USD) - 2015/12/19 13:15:25 ET
+Table 'Auravictrix II' 2-max Seat #2 is the button
+Seat 1: PelonCabelao ($72 in chips)
+Seat 2: bluejohn ($77.09 in chips)
+bluejohn: posts small blind $1
+PelonCabelao: posts big blind $3
+*** HOLE CARDS ***
+bluejohn: raises $3 to $6
+PelonCabelao: raises $3 to $9
+bluejohn: calls $3
+*** FLOP *** [9c 4d Ts]
+PelonCabelao: bets $3
+bluejohn: calls $3
+*** TURN *** [9c 4d Ts] [7c]
+PelonCabelao: checks
+bluejohn: bets $6
+PelonCabelao: calls $6
+*** RIVER *** [9c 4d Ts 7c] [Kh]
+PelonCabelao: checks
+bluejohn: checks
+*** SHOW DOWN ***
+PelonCabelao: shows [Qs Ac] (high card Ace)
+bluejohn: shows [6h 7h] (a pair of Sevens)
+bluejohn collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [9c 4d Ts 7c Kh]
+Seat 1: PelonCabelao (big blind) showed [Qs Ac] and lost with high card Ace
+Seat 2: bluejohn (button) (small blind) showed [6h 7h] and won ($35.50) with a pair of Sevens
+
+
+PokerStars Hand #145591722621:  Hold'em Limit ($3/$6 USD) - 2015/12/19 13:16:08 ET
+Table 'Auravictrix II' 2-max Seat #1 is the button
+Seat 1: PelonCabelao ($72 in chips)
+Seat 2: bluejohn ($94.59 in chips)
+PelonCabelao: posts small blind $1
+bluejohn: posts big blind $3
+*** HOLE CARDS ***
+PelonCabelao: folds
+Uncalled bet ($2) returned to bluejohn
+bluejohn collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: PelonCabelao (button) (small blind) folded before Flop
+Seat 2: bluejohn (big blind) collected ($2)
+
+
+PokerStars Hand #145591729603:  Hold'em Limit ($3/$6 USD) - 2015/12/19 13:16:15 ET
+Table 'Auravictrix II' 2-max Seat #2 is the button
+Seat 1: PelonCabelao ($72 in chips)
+Seat 2: bluejohn ($95.59 in chips)
+bluejohn: posts small blind $1
+PelonCabelao: posts big blind $3
+*** HOLE CARDS ***
+bluejohn: raises $3 to $6
+PelonCabelao: raises $3 to $9
+bluejohn: raises $3 to $12
+Betting is capped
+PelonCabelao: calls $3
+*** FLOP *** [6s Kd 4c]
+PelonCabelao: checks
+bluejohn: bets $3
+PelonCabelao: raises $3 to $6
+bluejohn: calls $3
+*** TURN *** [6s Kd 4c] [Td]
+PelonCabelao: bets $6
+bluejohn: calls $6
+*** RIVER *** [6s Kd 4c Td] [9s]
+PelonCabelao: bets $6
+bluejohn: calls $6
+*** SHOW DOWN ***
+PelonCabelao: shows [Ks Kh] (three of a kind, Kings)
+bluejohn: mucks hand
+PelonCabelao collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [6s Kd 4c Td 9s]
+Seat 1: PelonCabelao (big blind) showed [Ks Kh] and won ($59.50) with three of a kind, Kings
+Seat 2: bluejohn (button) (small blind) mucked
+
+
+PokerStars Hand #145591768779:  Hold'em Limit ($3/$6 USD) - 2015/12/19 13:16:58 ET
+Table 'Auravictrix II' 2-max Seat #1 is the button
+Seat 1: PelonCabelao ($101.50 in chips)
+Seat 2: bluejohn ($65.59 in chips)
+PelonCabelao: posts small blind $1
+bluejohn: posts big blind $3
+*** HOLE CARDS ***
+PelonCabelao: raises $3 to $6
+bluejohn: calls $3
+*** FLOP *** [Ah 3s 4s]
+bluejohn: checks
+PelonCabelao: bets $3
+bluejohn: calls $3
+*** TURN *** [Ah 3s 4s] [Qs]
+bluejohn: checks
+PelonCabelao: bets $6
+bluejohn: calls $6
+*** RIVER *** [Ah 3s 4s Qs] [Js]
+bluejohn: bets $6
+PelonCabelao: calls $6
+*** SHOW DOWN ***
+bluejohn: shows [7h Qh] (a pair of Queens)
+PelonCabelao: shows [9s 8s] (a flush, Queen high)
+PelonCabelao collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ah 3s 4s Qs Js]
+Seat 1: PelonCabelao (button) (small blind) showed [9s 8s] and won ($41.50) with a flush, Queen high
+Seat 2: bluejohn (big blind) showed [7h Qh] and lost with a pair of Queens
+
+
+PokerStars Hand #145591845891:  Hold'em Limit ($3/$6 USD) - 2015/12/19 13:18:23 ET
+Table 'Auravictrix II' 2-max Seat #1 is the button
+Seat 1: PelonCabelao ($145.50 in chips)
+Seat 2: bluejohn ($20.59 in chips)
+PelonCabelao: posts small blind $1
+bluejohn: posts big blind $3
+*** HOLE CARDS ***
+PelonCabelao: raises $3 to $6
+bluejohn: folds
+Uncalled bet ($3) returned to PelonCabelao
+PelonCabelao collected $6 from pot
+PelonCabelao: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: PelonCabelao (button) (small blind) collected ($6)
+Seat 2: bluejohn (big blind) folded before Flop
+
+
+PokerStars Hand #145591794350:  Hold'em Limit ($3/$6 USD) - 2015/12/19 13:17:26 ET
+Table 'Auravictrix II' 2-max Seat #2 is the button
+Seat 1: PelonCabelao ($122 in chips)
+Seat 2: bluejohn ($44.59 in chips)
+bluejohn: posts small blind $1
+PelonCabelao: posts big blind $3
+*** HOLE CARDS ***
+bluejohn: raises $3 to $6
+PelonCabelao: calls $3
+*** FLOP *** [8s Qd 8c]
+PelonCabelao: checks
+bluejohn: bets $3
+PelonCabelao: raises $3 to $6
+bluejohn: calls $3
+*** TURN *** [8s Qd 8c] [8d]
+PelonCabelao: bets $6
+bluejohn: calls $6
+*** RIVER *** [8s Qd 8c 8d] [7s]
+PelonCabelao: bets $6
+bluejohn: calls $6
+*** SHOW DOWN ***
+PelonCabelao: shows [6c Qs] (a full house, Eights full of Queens)
+bluejohn: mucks hand
+PelonCabelao collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8s Qd 8c 8d 7s]
+Seat 1: PelonCabelao (big blind) showed [6c Qs] and won ($47.50) with a full house, Eights full of Queens
+Seat 2: bluejohn (button) (small blind) mucked
+
+
+PokerStars Hand #145591853324:  Hold'em Limit ($3/$6 USD) - 2015/12/19 13:18:31 ET
+Table 'Auravictrix II' 2-max Seat #2 is the button
+Seat 1: PelonCabelao ($148.50 in chips)
+Seat 2: bluejohn ($17.59 in chips)
+bluejohn: posts small blind $1
+PelonCabelao: posts big blind $3
+*** HOLE CARDS ***
+bluejohn: raises $3 to $6
+PelonCabelao: calls $3
+*** FLOP *** [7c 4c Qc]
+PelonCabelao: checks
+bluejohn: bets $3
+PelonCabelao: calls $3
+*** TURN *** [7c 4c Qc] [Kh]
+PelonCabelao: bets $6
+bluejohn: folds
+Uncalled bet ($6) returned to PelonCabelao
+PelonCabelao collected $17.64 from pot
+PelonCabelao: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7c 4c Qc Kh]
+Seat 1: PelonCabelao (big blind) collected ($17.64)
+Seat 2: bluejohn (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #145592599037:  Hold'em Limit ($3/$6 USD) - 2015/12/19 13:32:15 ET
+Table 'Auravictrix II' 2-max Seat #1 is the button
+Seat 1: PelonCabelao ($105.15 in chips)
+Seat 2: kirakut ($99.21 in chips)
+PelonCabelao: posts small blind $1
+kirakut: posts big blind $3
+*** HOLE CARDS ***
+PelonCabelao: folds
+Uncalled bet ($2) returned to kirakut
+kirakut collected $2 from pot
+kirakut: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: PelonCabelao (button) (small blind) folded before Flop
+Seat 2: kirakut (big blind) collected ($2)
+
+
+PokerStars Hand #145592564814:  Hold'em Limit ($3/$6 USD) - 2015/12/19 13:31:37 ET
+Table 'Auravictrix II' 2-max Seat #2 is the button
+Seat 1: PelonCabelao ($132.15 in chips)
+Seat 2: kirakut ($72.71 in chips)
+kirakut: posts small blind $1
+PelonCabelao: posts big blind $3
+*** HOLE CARDS ***
+kirakut: raises $3 to $6
+PelonCabelao: calls $3
+*** FLOP *** [Ac Jh Jc]
+PelonCabelao: checks
+kirakut: bets $3
+PelonCabelao: raises $3 to $6
+kirakut: raises $3 to $9
+PelonCabelao: calls $3
+*** TURN *** [Ac Jh Jc] [6h]
+PelonCabelao: checks
+kirakut: bets $6
+PelonCabelao: raises $6 to $12
+kirakut: raises $6 to $18
+PelonCabelao: folds
+Uncalled bet ($6) returned to kirakut
+kirakut collected $53.50 from pot
+kirakut: doesn't show hand
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Ac Jh Jc 6h]
+Seat 1: PelonCabelao (big blind) folded on the Turn
+Seat 2: kirakut (button) (small blind) collected ($53.50)
+
+
+PokerStars Hand #145592634240:  Hold'em Limit ($3/$6 USD) - 2015/12/19 13:32:55 ET
+Table 'Auravictrix II' 2-max Seat #2 is the button
+Seat 1: PelonCabelao ($92.15 in chips)
+Seat 2: kirakut ($111.85 in chips)
+kirakut: posts small blind $1
+PelonCabelao: posts big blind $3
+*** HOLE CARDS ***
+kirakut: folds
+Uncalled bet ($2) returned to PelonCabelao
+PelonCabelao collected $2 from pot
+PelonCabelao: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: PelonCabelao (big blind) collected ($2)
+Seat 2: kirakut (button) (small blind) folded before Flop
+
+
+PokerStars Hand #145592609960:  Hold'em Limit ($3/$6 USD) - 2015/12/19 13:32:27 ET
+Table 'Auravictrix II' 2-max Seat #1 is the button
+Seat 1: PelonCabelao ($101.15 in chips)
+Seat 2: kirakut ($103.21 in chips)
+PelonCabelao: posts small blind $1
+kirakut: posts big blind $3
+*** HOLE CARDS ***
+PelonCabelao: raises $3 to $6
+kirakut: raises $3 to $9
+PelonCabelao: calls $3
+*** FLOP *** [Jd 3c 3h]
+kirakut: checks
+PelonCabelao: checks
+*** TURN *** [Jd 3c 3h] [8h]
+kirakut: bets $6
+PelonCabelao: folds
+Uncalled bet ($6) returned to kirakut
+kirakut collected $17.64 from pot
+kirakut: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Jd 3c 3h 8h]
+Seat 1: PelonCabelao (button) (small blind) folded on the Turn
+Seat 2: kirakut (big blind) collected ($17.64)
+
+
+PokerStars Hand #145592604332:  Hold'em Limit ($3/$6 USD) - 2015/12/19 13:32:21 ET
+Table 'Auravictrix II' 2-max Seat #2 is the button
+Seat 1: PelonCabelao ($104.15 in chips)
+Seat 2: kirakut ($100.21 in chips)
+kirakut: posts small blind $1
+PelonCabelao: posts big blind $3
+*** HOLE CARDS ***
+kirakut: raises $3 to $6
+PelonCabelao: folds
+Uncalled bet ($3) returned to kirakut
+kirakut collected $6 from pot
+kirakut: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: PelonCabelao (big blind) folded before Flop
+Seat 2: kirakut (button) (small blind) collected ($6)
+
+
+PokerStars Hand #145592681592:  Hold'em Limit ($3/$6 USD) - 2015/12/19 13:33:47 ET
+Table 'Auravictrix II' 2-max Seat #1 is the button
+Seat 1: PelonCabelao ($89.91 in chips)
+Seat 2: kirakut ($113.61 in chips)
+PelonCabelao: posts small blind $1
+kirakut: posts big blind $3
+*** HOLE CARDS ***
+PelonCabelao: raises $3 to $6
+kirakut: raises $3 to $9
+PelonCabelao: calls $3
+*** FLOP *** [Ac Ad Qs]
+kirakut: bets $3
+PelonCabelao: calls $3
+*** TURN *** [Ac Ad Qs] [9s]
+kirakut: bets $6
+PelonCabelao: folds
+Uncalled bet ($6) returned to kirakut
+kirakut collected $23.52 from pot
+kirakut: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Ac Ad Qs 9s]
+Seat 1: PelonCabelao (button) (small blind) folded on the Turn
+Seat 2: kirakut (big blind) collected ($23.52)
+
+
+PokerStars Hand #145592671145:  Hold'em Limit ($3/$6 USD) - 2015/12/19 13:33:35 ET
+Table 'Auravictrix II' 2-max Seat #2 is the button
+Seat 1: PelonCabelao ($92.91 in chips)
+Seat 2: kirakut ($110.61 in chips)
+kirakut: posts small blind $1
+PelonCabelao: posts big blind $3
+*** HOLE CARDS ***
+kirakut: raises $3 to $6
+PelonCabelao: folds
+Uncalled bet ($3) returned to kirakut
+kirakut collected $6 from pot
+kirakut: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: PelonCabelao (big blind) folded before Flop
+Seat 2: kirakut (button) (small blind) collected ($6)
+
+
+PokerStars Hand #145592639034:  Hold'em Limit ($3/$6 USD) - 2015/12/19 13:33:00 ET
+Table 'Auravictrix II' 2-max Seat #1 is the button
+Seat 1: PelonCabelao ($93.15 in chips)
+Seat 2: kirakut ($110.85 in chips)
+PelonCabelao: posts small blind $1
+kirakut: posts big blind $3
+*** HOLE CARDS ***
+PelonCabelao: raises $3 to $6
+kirakut: raises $3 to $9
+PelonCabelao: calls $3
+*** FLOP *** [2d 9c 2s]
+kirakut: bets $3
+PelonCabelao: calls $3
+*** TURN *** [2d 9c 2s] [Kc]
+kirakut: checks
+PelonCabelao: checks
+*** RIVER *** [2d 9c 2s Kc] [Js]
+kirakut: checks
+PelonCabelao: checks
+*** SHOW DOWN ***
+kirakut: shows [3h 8h] (a pair of Deuces)
+PelonCabelao: shows [6h 7s] (a pair of Deuces)
+kirakut collected $11.76 from pot
+PelonCabelao collected $11.76 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [2d 9c 2s Kc Js]
+Seat 1: PelonCabelao (button) (small blind) showed [6h 7s] and won ($11.76) with a pair of Deuces
+Seat 2: kirakut (big blind) showed [3h 8h] and won ($11.76) with a pair of Deuces
+
+
+PokerStars Hand #145592727078:  Hold'em Limit ($3/$6 USD) - 2015/12/19 13:34:38 ET
+Table 'Auravictrix II' 2-max Seat #1 is the button
+Seat 1: PelonCabelao ($73 in chips)
+Seat 2: kirakut ($142.63 in chips)
+PelonCabelao: posts small blind $1
+kirakut: posts big blind $3
+*** HOLE CARDS ***
+PelonCabelao: raises $3 to $6
+kirakut: raises $3 to $9
+PelonCabelao: calls $3
+*** FLOP *** [Jd Jh 8d]
+kirakut: bets $3
+PelonCabelao: calls $3
+*** TURN *** [Jd Jh 8d] [Ks]
+kirakut: bets $6
+PelonCabelao: folds
+Uncalled bet ($6) returned to kirakut
+kirakut collected $23.52 from pot
+kirakut: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Jd Jh 8d Ks]
+Seat 1: PelonCabelao (button) (small blind) folded on the Turn
+Seat 2: kirakut (big blind) collected ($23.52)
+
+
+PokerStars Hand #145592722256:  Hold'em Limit ($3/$6 USD) - 2015/12/19 13:34:32 ET
+Table 'Auravictrix II' 2-max Seat #2 is the button
+Seat 1: PelonCabelao ($72 in chips)
+Seat 2: kirakut ($143.63 in chips)
+kirakut: posts small blind $1
+PelonCabelao: posts big blind $3
+*** HOLE CARDS ***
+kirakut: folds
+Uncalled bet ($2) returned to PelonCabelao
+PelonCabelao collected $2 from pot
+PelonCabelao: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: PelonCabelao (big blind) collected ($2)
+Seat 2: kirakut (button) (small blind) folded before Flop
+
+
+PokerStars Hand #145592718211:  Hold'em Limit ($3/$6 USD) - 2015/12/19 13:34:28 ET
+Table 'Auravictrix II' 2-max Seat #1 is the button
+Seat 1: PelonCabelao ($72 in chips)
+Seat 2: kirakut ($142.63 in chips)
+PelonCabelao: posts small blind $1
+kirakut: posts big blind $3
+*** HOLE CARDS ***
+PelonCabelao: folds
+Uncalled bet ($2) returned to kirakut
+kirakut collected $2 from pot
+kirakut: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: PelonCabelao (button) (small blind) folded before Flop
+Seat 2: kirakut (big blind) collected ($2)
+
+
+PokerStars Hand #145592701612:  Hold'em Limit ($3/$6 USD) - 2015/12/19 13:34:09 ET
+Table 'Auravictrix II' 2-max Seat #2 is the button
+Seat 1: PelonCabelao ($77.91 in chips)
+Seat 2: kirakut ($125.13 in chips)
+kirakut: posts small blind $1
+PelonCabelao: posts big blind $3
+*** HOLE CARDS ***
+kirakut: raises $3 to $6
+PelonCabelao: raises $3 to $9
+kirakut: calls $3
+*** FLOP *** [5c 3s 2s]
+PelonCabelao: bets $3
+kirakut: calls $3
+*** TURN *** [5c 3s 2s] [7c]
+PelonCabelao: bets $6
+kirakut: raises $6 to $12
+PelonCabelao: folds
+Uncalled bet ($6) returned to kirakut
+kirakut collected $35.50 from pot
+kirakut: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5c 3s 2s 7c]
+Seat 1: PelonCabelao (big blind) folded on the Turn
+Seat 2: kirakut (button) (small blind) collected ($35.50)
+
+
+PokerStars Hand #145592759396:  Hold'em Limit ($3/$6 USD) - 2015/12/19 13:35:14 ET
+Table 'Auravictrix II' 2-max Seat #2 is the button
+Seat 1: PelonCabelao ($72 in chips)
+Seat 2: kirakut ($154.15 in chips)
+kirakut: posts small blind $1
+PelonCabelao: posts big blind $3
+*** HOLE CARDS ***
+kirakut: raises $3 to $6
+PelonCabelao: calls $3
+*** FLOP *** [Jc 3d Ac]
+PelonCabelao: checks
+kirakut: checks
+*** TURN *** [Jc 3d Ac] [8s]
+PelonCabelao: bets $6
+kirakut: calls $6
+*** RIVER *** [Jc 3d Ac 8s] [7d]
+PelonCabelao: checks
+kirakut: checks
+*** SHOW DOWN ***
+PelonCabelao: shows [6h 3h] (a pair of Threes)
+kirakut: shows [6s 8d] (a pair of Eights)
+kirakut collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Jc 3d Ac 8s 7d]
+Seat 1: PelonCabelao (big blind) showed [6h 3h] and lost with a pair of Threes
+Seat 2: kirakut (button) (small blind) showed [6s 8d] and won ($23.52) with a pair of Eights
+
+
+PokerStars Hand #145592794770:  Hold'em Limit ($3/$6 USD) - 2015/12/19 13:35:54 ET
+Table 'Auravictrix II' 2-max Seat #1 is the button
+Seat 1: PelonCabelao ($83.64 in chips)
+Seat 2: kirakut ($153.67 in chips)
+PelonCabelao: posts small blind $1
+kirakut: posts big blind $3
+*** HOLE CARDS ***
+PelonCabelao: raises $3 to $6
+kirakut: calls $3
+*** FLOP *** [Kd Kc 2c]
+kirakut: checks
+PelonCabelao: bets $3
+kirakut: folds
+Uncalled bet ($3) returned to PelonCabelao
+PelonCabelao collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kd Kc 2c]
+Seat 1: PelonCabelao (button) (small blind) collected ($11.76)
+Seat 2: kirakut (big blind) folded on the Flop
+
+
+PokerStars Hand #145592775222:  Hold'em Limit ($3/$6 USD) - 2015/12/19 13:35:32 ET
+Table 'Auravictrix II' 2-max Seat #1 is the button
+Seat 1: PelonCabelao ($72 in chips)
+Seat 2: kirakut ($165.67 in chips)
+PelonCabelao: posts small blind $1
+kirakut: posts big blind $3
+*** HOLE CARDS ***
+PelonCabelao: raises $3 to $6
+kirakut: folds
+Uncalled bet ($3) returned to PelonCabelao
+PelonCabelao collected $6 from pot
+PelonCabelao: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: PelonCabelao (button) (small blind) collected ($6)
+Seat 2: kirakut (big blind) folded before Flop
+
+
+PokerStars Hand #145592844963:  Hold'em Limit ($3/$6 USD) - 2015/12/19 13:36:49 ET
+Table 'Auravictrix II' 2-max Seat #1 is the button
+Seat 1: PelonCabelao ($103.80 in chips)
+Seat 2: kirakut ($132.67 in chips)
+PelonCabelao: posts small blind $1
+kirakut: posts big blind $3
+*** HOLE CARDS ***
+PelonCabelao: raises $3 to $6
+kirakut: raises $3 to $9
+PelonCabelao: calls $3
+*** FLOP *** [As 6s Th]
+kirakut: bets $3
+PelonCabelao: calls $3
+*** TURN *** [As 6s Th] [5h]
+kirakut: bets $6
+PelonCabelao: calls $6
+*** RIVER *** [As 6s Th 5h] [3d]
+kirakut: bets $6
+PelonCabelao: calls $6
+*** SHOW DOWN ***
+kirakut: shows [Qs Qc] (a pair of Queens)
+PelonCabelao: mucks hand
+kirakut collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [As 6s Th 5h 3d]
+Seat 1: PelonCabelao (button) (small blind) mucked
+Seat 2: kirakut (big blind) showed [Qs Qc] and won ($47.50) with a pair of Queens
+
+
+PokerStars Hand #145592819164:  Hold'em Limit ($3/$6 USD) - 2015/12/19 13:36:21 ET
+Table 'Auravictrix II' 2-max Seat #1 is the button
+Seat 1: PelonCabelao ($95.16 in chips)
+Seat 2: kirakut ($141.67 in chips)
+PelonCabelao: posts small blind $1
+kirakut: posts big blind $3
+*** HOLE CARDS ***
+PelonCabelao: raises $3 to $6
+kirakut: calls $3
+*** FLOP *** [Ks Tc 8s]
+kirakut: checks
+PelonCabelao: bets $3
+kirakut: folds
+Uncalled bet ($3) returned to PelonCabelao
+PelonCabelao collected $11.76 from pot
+PelonCabelao: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ks Tc 8s]
+Seat 1: PelonCabelao (button) (small blind) collected ($11.76)
+Seat 2: kirakut (big blind) folded on the Flop
+
+
+PokerStars Hand #145592872116:  Hold'em Limit ($3/$6 USD) - 2015/12/19 13:37:19 ET
+Table 'Auravictrix II' 2-max Seat #2 is the button
+Seat 1: PelonCabelao ($79.80 in chips)
+Seat 2: kirakut ($156.17 in chips)
+kirakut: posts small blind $1
+PelonCabelao: posts big blind $3
+*** HOLE CARDS ***
+kirakut: raises $3 to $6
+PelonCabelao: calls $3
+*** FLOP *** [Kh Qh Kc]
+PelonCabelao: bets $3
+kirakut: folds
+Uncalled bet ($3) returned to PelonCabelao
+PelonCabelao collected $11.76 from pot
+PelonCabelao: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kh Qh Kc]
+Seat 1: PelonCabelao (big blind) collected ($11.76)
+Seat 2: kirakut (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #145592916247:  Hold'em Limit ($3/$6 USD) - 2015/12/19 13:38:09 ET
+Table 'Auravictrix II' 2-max Seat #1 is the button
+Seat 1: PelonCabelao ($99.96 in chips)
+Seat 2: kirakut ($135.17 in chips)
+PelonCabelao: posts small blind $1
+kirakut: posts big blind $3
+*** HOLE CARDS ***
+PelonCabelao: raises $3 to $6
+kirakut: folds
+Uncalled bet ($3) returned to PelonCabelao
+PelonCabelao collected $6 from pot
+PelonCabelao: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: PelonCabelao (button) (small blind) collected ($6)
+Seat 2: kirakut (big blind) folded before Flop
+
+
+PokerStars Hand #145592895409:  Hold'em Limit ($3/$6 USD) - 2015/12/19 13:37:45 ET
+Table 'Auravictrix II' 2-max Seat #2 is the button
+Seat 1: PelonCabelao ($91.32 in chips)
+Seat 2: kirakut ($144.17 in chips)
+kirakut: posts small blind $1
+PelonCabelao: posts big blind $3
+*** HOLE CARDS ***
+kirakut: raises $3 to $6
+PelonCabelao: calls $3
+*** FLOP *** [9h 6d 2d]
+PelonCabelao: checks
+kirakut: bets $3
+PelonCabelao: raises $3 to $6
+kirakut: folds
+Uncalled bet ($3) returned to PelonCabelao
+PelonCabelao collected $17.64 from pot
+PelonCabelao: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9h 6d 2d]
+Seat 1: PelonCabelao (big blind) collected ($17.64)
+Seat 2: kirakut (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #145592882333:  Hold'em Limit ($3/$6 USD) - 2015/12/19 13:37:31 ET
+Table 'Auravictrix II' 2-max Seat #1 is the button
+Seat 1: PelonCabelao ($85.56 in chips)
+Seat 2: kirakut ($150.17 in chips)
+PelonCabelao: posts small blind $1
+kirakut: posts big blind $3
+*** HOLE CARDS ***
+PelonCabelao: raises $3 to $6
+kirakut: calls $3
+*** FLOP *** [Ad 2s 6s]
+kirakut: checks
+PelonCabelao: bets $3
+kirakut: folds
+Uncalled bet ($3) returned to PelonCabelao
+PelonCabelao collected $11.76 from pot
+PelonCabelao: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ad 2s 6s]
+Seat 1: PelonCabelao (button) (small blind) collected ($11.76)
+Seat 2: kirakut (big blind) folded on the Flop
+
+
+PokerStars Hand #145592976710:  Hold'em Limit ($3/$6 USD) - 2015/12/19 13:39:16 ET
+Table 'Auravictrix II' 2-max Seat #2 is the button
+Seat 1: PelonCabelao ($114.23 in chips)
+Seat 2: kirakut ($119.92 in chips)
+kirakut: posts small blind $1
+PelonCabelao: posts big blind $3
+*** HOLE CARDS ***
+kirakut: folds
+Uncalled bet ($2) returned to PelonCabelao
+PelonCabelao collected $2 from pot
+PelonCabelao: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: PelonCabelao (big blind) collected ($2)
+Seat 2: kirakut (button) (small blind) folded before Flop
+
+
+PokerStars Hand #145592955697:  Hold'em Limit ($3/$6 USD) - 2015/12/19 13:38:52 ET
+Table 'Auravictrix II' 2-max Seat #1 is the button
+Seat 1: PelonCabelao ($102.71 in chips)
+Seat 2: kirakut ($131.92 in chips)
+PelonCabelao: posts small blind $1
+kirakut: posts big blind $3
+*** HOLE CARDS ***
+PelonCabelao: raises $3 to $6
+kirakut: raises $3 to $9
+PelonCabelao: calls $3
+*** FLOP *** [Th 7d 4s]
+kirakut: checks
+PelonCabelao: bets $3
+kirakut: calls $3
+*** TURN *** [Th 7d 4s] [5c]
+kirakut: checks
+PelonCabelao: bets $6
+kirakut: folds
+Uncalled bet ($6) returned to PelonCabelao
+PelonCabelao collected $23.52 from pot
+PelonCabelao: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Th 7d 4s 5c]
+Seat 1: PelonCabelao (button) (small blind) collected ($23.52)
+Seat 2: kirakut (big blind) folded on the Turn
+
+
+PokerStars Hand #145592923379:  Hold'em Limit ($3/$6 USD) - 2015/12/19 13:38:16 ET
+Table 'Auravictrix II' 2-max Seat #2 is the button
+Seat 1: PelonCabelao ($102.96 in chips)
+Seat 2: kirakut ($132.17 in chips)
+kirakut: posts small blind $1
+PelonCabelao: posts big blind $3
+*** HOLE CARDS ***
+kirakut: raises $3 to $6
+PelonCabelao: calls $3
+*** FLOP *** [Ad Jc 8s]
+PelonCabelao: checks
+kirakut: bets $3
+PelonCabelao: calls $3
+*** TURN *** [Ad Jc 8s] [2d]
+PelonCabelao: checks
+kirakut: bets $6
+PelonCabelao: calls $6
+*** RIVER *** [Ad Jc 8s 2d] [Js]
+PelonCabelao: checks
+kirakut: checks
+*** SHOW DOWN ***
+PelonCabelao: shows [3d 8d] (two pair, Jacks and Eights)
+kirakut: shows [Td 8h] (two pair, Jacks and Eights)
+PelonCabelao collected $14.75 from pot
+kirakut collected $14.75 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ad Jc 8s 2d Js]
+Seat 1: PelonCabelao (big blind) showed [3d 8d] and won ($14.75) with two pair, Jacks and Eights
+Seat 2: kirakut (button) (small blind) showed [Td 8h] and won ($14.75) with two pair, Jacks and Eights
+
+
+PokerStars Hand #145593023718:  Hold'em Limit ($3/$6 USD) - 2015/12/19 13:40:08 ET
+Table 'Auravictrix II' 2-max Seat #2 is the button
+Seat 1: PelonCabelao ($78.23 in chips)
+Seat 2: kirakut ($155.06 in chips)
+kirakut: posts small blind $1
+PelonCabelao: posts big blind $3
+*** HOLE CARDS ***
+kirakut: calls $2
+PelonCabelao: raises $3 to $6
+kirakut: calls $3
+*** FLOP *** [Kd Th 8s]
+PelonCabelao: bets $3
+kirakut: folds
+Uncalled bet ($3) returned to PelonCabelao
+kirakut leaves the table
+PelonCabelao collected $11.76 from pot
+PelonCabelao: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kd Th 8s]
+Seat 1: PelonCabelao (big blind) collected ($11.76)
+Seat 2: kirakut (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #145592981317:  Hold'em Limit ($3/$6 USD) - 2015/12/19 13:39:21 ET
+Table 'Auravictrix II' 2-max Seat #1 is the button
+Seat 1: PelonCabelao ($115.23 in chips)
+Seat 2: kirakut ($118.92 in chips)
+PelonCabelao: posts small blind $1
+kirakut: posts big blind $3
+*** HOLE CARDS ***
+PelonCabelao: raises $3 to $6
+kirakut: raises $3 to $9
+PelonCabelao: calls $3
+*** FLOP *** [Jc 8d Ad]
+kirakut: bets $3
+PelonCabelao: folds
+Uncalled bet ($3) returned to kirakut
+kirakut collected $17.64 from pot
+kirakut: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Jc 8d Ad]
+Seat 1: PelonCabelao (button) (small blind) folded on the Flop
+Seat 2: kirakut (big blind) collected ($17.64)
+
+
+PokerStars Hand #145593019493:  Hold'em Limit ($3/$6 USD) - 2015/12/19 13:40:03 ET
+Table 'Auravictrix II' 2-max Seat #1 is the button
+Seat 1: PelonCabelao ($79.23 in chips)
+Seat 2: kirakut ($154.06 in chips)
+PelonCabelao: posts small blind $1
+kirakut: posts big blind $3
+*** HOLE CARDS ***
+PelonCabelao: folds
+Uncalled bet ($2) returned to kirakut
+kirakut collected $2 from pot
+kirakut: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: PelonCabelao (button) (small blind) folded before Flop
+Seat 2: kirakut (big blind) collected ($2)
+
+
+PokerStars Hand #145592992344:  Hold'em Limit ($3/$6 USD) - 2015/12/19 13:39:33 ET
+Table 'Auravictrix II' 2-max Seat #2 is the button
+Seat 1: PelonCabelao ($106.23 in chips)
+Seat 2: kirakut ($127.56 in chips)
+kirakut: posts small blind $1
+PelonCabelao: posts big blind $3
+*** HOLE CARDS ***
+kirakut: raises $3 to $6
+PelonCabelao: raises $3 to $9
+kirakut: raises $3 to $12
+Betting is capped
+PelonCabelao: calls $3
+*** FLOP *** [Qs 8h 5d]
+PelonCabelao: checks
+kirakut: bets $3
+PelonCabelao: calls $3
+*** TURN *** [Qs 8h 5d] [4d]
+PelonCabelao: checks
+kirakut: bets $6
+PelonCabelao: calls $6
+*** RIVER *** [Qs 8h 5d 4d] [4s]
+PelonCabelao: checks
+kirakut: bets $6
+PelonCabelao: calls $6
+*** SHOW DOWN ***
+kirakut: shows [7c 8s] (two pair, Eights and Fours)
+PelonCabelao: mucks hand
+kirakut collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Qs 8h 5d 4d 4s]
+Seat 1: PelonCabelao (big blind) mucked
+Seat 2: kirakut (button) (small blind) showed [7c 8s] and won ($53.50) with two pair, Eights and Fours
+
+

@@ -1,0 +1,909 @@
+PokerStars Hand #158853568163:  Hold'em Limit ($3/$6 USD) - 2016/09/20 9:50:42 ET
+Table 'Eurydike' 6-max Seat #1 is the button
+Seat 1: Icecold ($105.08 in chips)
+Seat 5: Psynto ($76.64 in chips)
+Icecold: posts small blind $1
+Psynto: posts big blind $3
+*** HOLE CARDS ***
+Icecold: raises $3 to $6
+Psynto: calls $3
+*** FLOP *** [Td 7h 5c]
+Psynto: checks
+Icecold: bets $3
+Psynto: folds
+Uncalled bet ($3) returned to Icecold
+Icecold collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Td 7h 5c]
+Seat 1: Icecold (button) (small blind) collected ($11.76)
+Seat 5: Psynto (big blind) folded on the Flop
+
+
+PokerStars Hand #158853574280:  Hold'em Limit ($3/$6 USD) - 2016/09/20 9:50:53 ET
+Table 'Eurydike' 6-max Seat #5 is the button
+Seat 1: Icecold ($110.84 in chips)
+Seat 5: Psynto ($72 in chips)
+Psynto: posts small blind $1
+Icecold: posts big blind $3
+*** HOLE CARDS ***
+Psynto: raises $3 to $6
+Icecold: calls $3
+*** FLOP *** [Ks 8s 6h]
+Icecold: checks
+Psynto: bets $3
+Icecold: calls $3
+*** TURN *** [Ks 8s 6h] [7s]
+Icecold: checks
+Psynto: checks
+*** RIVER *** [Ks 8s 6h 7s] [5c]
+Icecold: bets $6
+Psynto: raises $6 to $12
+Icecold: calls $6
+*** SHOW DOWN ***
+Psynto: shows [9h Jc] (a straight, Five to Nine)
+Icecold: shows [9s 7c] (a straight, Five to Nine)
+Icecold collected $20.75 from pot
+Psynto collected $20.75 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ks 8s 6h 7s 5c]
+Seat 1: Icecold (big blind) showed [9s 7c] and won ($20.75) with a straight, Five to Nine
+Seat 5: Psynto (button) (small blind) showed [9h Jc] and won ($20.75) with a straight, Five to Nine
+
+
+PokerStars Hand #158856903398:  Hold'em Limit ($3/$6 USD) - 2016/09/20 11:24:51 ET
+Table 'Eurydike' 6-max Seat #5 is the button
+Seat 1: Icecold ($11.64 in chips)
+Seat 5: Great_Kang ($122.46 in chips)
+Great_Kang: posts small blind $1
+Icecold: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+Icecold: calls $3
+*** FLOP *** [Ad 9h Qs]
+Icecold: bets $3
+Great_Kang: calls $3
+*** TURN *** [Ad 9h Qs] [3d]
+Icecold: bets $2.64 and is all-in
+Great_Kang: calls $2.64
+*** RIVER *** [Ad 9h Qs 3d] [Ts]
+*** SHOW DOWN ***
+Icecold: shows [Kh 9d] (a pair of Nines)
+Great_Kang: shows [Ac Jd] (a pair of Aces)
+Great_Kang collected $22.81 from pot
+*** SUMMARY ***
+Total pot $23.28 | Rake $0.47
+Board [Ad 9h Qs 3d Ts]
+Seat 1: Icecold (big blind) showed [Kh 9d] and lost with a pair of Nines
+Seat 5: Great_Kang (button) (small blind) showed [Ac Jd] and won ($22.81) with a pair of Aces
+
+
+PokerStars Hand #158856935505:  Hold'em Limit ($3/$6 USD) - 2016/09/20 11:25:42 ET
+Table 'Eurydike' 6-max Seat #5 is the button
+Seat 1: Icecold ($35.76 in chips)
+Seat 5: Great_Kang ($127.63 in chips)
+Great_Kang: posts small blind $1
+Icecold: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: folds
+Uncalled bet ($2) returned to Icecold
+Icecold collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Icecold (big blind) collected ($2)
+Seat 5: Great_Kang (button) (small blind) folded before Flop
+
+
+PokerStars Hand #158856924716:  Hold'em Limit ($3/$6 USD) - 2016/09/20 11:25:25 ET
+Table 'Eurydike' 6-max Seat #1 is the button
+Seat 1: Icecold ($30 in chips)
+Seat 5: Great_Kang ($133.63 in chips)
+Icecold: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+Icecold: raises $3 to $6
+Great_Kang: calls $3
+*** FLOP *** [6s 8s Qh]
+Great_Kang: checks
+Icecold: bets $3
+Great_Kang: folds
+Uncalled bet ($3) returned to Icecold
+Icecold collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6s 8s Qh]
+Seat 1: Icecold (button) (small blind) collected ($11.76)
+Seat 5: Great_Kang (big blind) folded on the Flop
+
+
+PokerStars Hand #158856940461:  Hold'em Limit ($3/$6 USD) - 2016/09/20 11:25:49 ET
+Table 'Eurydike' 6-max Seat #1 is the button
+Seat 1: Icecold ($36.76 in chips)
+Seat 5: Great_Kang ($126.63 in chips)
+Icecold: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+Icecold: raises $3 to $6
+Great_Kang: calls $3
+*** FLOP *** [3c 9d Js]
+Great_Kang: checks
+Icecold: checks
+*** TURN *** [3c 9d Js] [Ks]
+Great_Kang: checks
+Icecold: checks
+*** RIVER *** [3c 9d Js Ks] [4c]
+Great_Kang: checks
+Icecold: checks
+*** SHOW DOWN ***
+Great_Kang: shows [5h Qc] (high card King)
+Icecold: shows [As 7h] (high card Ace)
+Icecold collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3c 9d Js Ks 4c]
+Seat 1: Icecold (button) (small blind) showed [As 7h] and won ($11.76) with high card Ace
+Seat 5: Great_Kang (big blind) showed [5h Qc] and lost with high card King
+
+
+PokerStars Hand #158856971925:  Hold'em Limit ($3/$6 USD) - 2016/09/20 11:26:39 ET
+Table 'Eurydike' 6-max Seat #1 is the button
+Seat 1: Icecold ($51.16 in chips)
+Seat 5: Great_Kang ($120 in chips)
+Icecold: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+Icecold: folds
+Uncalled bet ($2) returned to Great_Kang
+Great_Kang collected $2 from pot
+Great_Kang: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Icecold (button) (small blind) folded before Flop
+Seat 5: Great_Kang (big blind) collected ($2)
+
+
+PokerStars Hand #158856957749:  Hold'em Limit ($3/$6 USD) - 2016/09/20 11:26:16 ET
+Table 'Eurydike' 6-max Seat #5 is the button
+Seat 1: Icecold ($42.52 in chips)
+Seat 5: Great_Kang ($120.63 in chips)
+Great_Kang: posts small blind $1
+Icecold: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+Icecold: calls $3
+*** FLOP *** [Jh Kc Ah]
+Icecold: checks
+Great_Kang: bets $3
+Icecold: calls $3
+*** TURN *** [Jh Kc Ah] [5h]
+Icecold: checks
+Great_Kang: checks
+*** RIVER *** [Jh Kc Ah 5h] [Ad]
+Icecold: bets $6
+Great_Kang: folds
+Uncalled bet ($6) returned to Icecold
+Icecold collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Jh Kc Ah 5h Ad]
+Seat 1: Icecold (big blind) collected ($17.64)
+Seat 5: Great_Kang (button) (small blind) folded on the River
+
+
+PokerStars Hand #158857001070:  Hold'em Limit ($3/$6 USD) - 2016/09/20 11:27:25 ET
+Table 'Eurydike' 6-max Seat #1 is the button
+Seat 1: Icecold ($20.16 in chips)
+Seat 5: Great_Kang ($150.50 in chips)
+Icecold: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+Icecold: raises $3 to $6
+Great_Kang: calls $3
+*** FLOP *** [7c 3d 7s]
+Great_Kang: checks
+Icecold: bets $3
+Great_Kang: folds
+Uncalled bet ($3) returned to Icecold
+Icecold collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7c 3d 7s]
+Seat 1: Icecold (button) (small blind) collected ($11.76)
+Seat 5: Great_Kang (big blind) folded on the Flop
+
+
+PokerStars Hand #158856974950:  Hold'em Limit ($3/$6 USD) - 2016/09/20 11:26:43 ET
+Table 'Eurydike' 6-max Seat #5 is the button
+Seat 1: Icecold ($50.16 in chips)
+Seat 5: Great_Kang ($121 in chips)
+Great_Kang: posts small blind $1
+Icecold: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+Icecold: raises $3 to $9
+Great_Kang: calls $3
+*** FLOP *** [Qc 6d 5s]
+Icecold: bets $3
+Great_Kang: calls $3
+*** TURN *** [Qc 6d 5s] [7d]
+Icecold: bets $6
+Great_Kang: calls $6
+*** RIVER *** [Qc 6d 5s 7d] [Qh]
+Icecold: bets $6
+Great_Kang: raises $6 to $12
+Icecold: calls $6
+*** SHOW DOWN ***
+Great_Kang: shows [Qd Ts] (three of a kind, Queens)
+Icecold: mucks hand
+Great_Kang collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Qc 6d 5s 7d Qh]
+Seat 1: Icecold (big blind) mucked
+Seat 5: Great_Kang (button) (small blind) showed [Qd Ts] and won ($59.50) with three of a kind, Queens
+
+
+PokerStars Hand #158857017290:  Hold'em Limit ($3/$6 USD) - 2016/09/20 11:27:50 ET
+Table 'Eurydike' 6-max Seat #5 is the button
+Seat 1: Icecold ($25.92 in chips)
+Seat 5: Great_Kang ($144.50 in chips)
+Great_Kang: posts small blind $1
+Icecold: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+Icecold: calls $3
+*** FLOP *** [Js 5c 5s]
+Icecold: checks
+Great_Kang: bets $3
+Icecold: calls $3
+*** TURN *** [Js 5c 5s] [3d]
+Icecold: checks
+Great_Kang: bets $6
+Icecold: raises $6 to $12
+Great_Kang: raises $6 to $18
+Icecold: calls $4.92 and is all-in
+Uncalled bet ($1.08) returned to Great_Kang
+*** RIVER *** [Js 5c 5s 3d] [Qh]
+*** SHOW DOWN ***
+Icecold: shows [Ts 5d] (three of a kind, Fives)
+Great_Kang: shows [3h 5h] (a full house, Fives full of Threes)
+Great_Kang collected $51.34 from pot
+*** SUMMARY ***
+Total pot $51.84 | Rake $0.50
+Board [Js 5c 5s 3d Qh]
+Seat 1: Icecold (big blind) showed [Ts 5d] and lost with three of a kind, Fives
+Seat 5: Great_Kang (button) (small blind) showed [3h 5h] and won ($51.34) with a full house, Fives full of Threes
+
+
+PokerStars Hand #158857704520:  Hold'em Limit ($3/$6 USD) - 2016/09/20 11:45:21 ET
+Table 'Eurydike' 6-max Seat #1 is the button
+Seat 1: Icecold ($223.75 in chips)
+Seat 4: Actionni13 ($150 in chips)
+Icecold: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+Icecold: raises $3 to $6
+Actionni13: calls $3
+*** FLOP *** [3c 2c Ad]
+Actionni13: checks
+Icecold: bets $3
+Actionni13: calls $3
+*** TURN *** [3c 2c Ad] [3h]
+Actionni13: checks
+Icecold: bets $6
+biemea joins the table at seat #6
+Actionni13: calls $6
+*** RIVER *** [3c 2c Ad 3h] [7d]
+Actionni13: checks
+Icecold: bets $6
+Actionni13: folds
+Uncalled bet ($6) returned to Icecold
+Icecold collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3c 2c Ad 3h 7d]
+Seat 1: Icecold (button) (small blind) collected ($29.50)
+Seat 4: Actionni13 (big blind) folded on the River
+
+
+PokerStars Hand #158858041775:  Hold'em Limit ($3/$6 USD) - 2016/09/20 11:53:57 ET
+Table 'Eurydike' 6-max Seat #4 is the button
+Seat 1: Icecold ($253.38 in chips)
+Seat 4: Actionni13 ($250.44 in chips)
+Actionni13: posts small blind $1
+Icecold: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+Icecold: calls $3
+*** FLOP *** [7s 7d Ts]
+Icecold: checks
+Actionni13: bets $3
+Icecold: calls $3
+*** TURN *** [7s 7d Ts] [Kc]
+Icecold: checks
+biemea leaves the table
+Actionni13: checks
+*** RIVER *** [7s 7d Ts Kc] [Tc]
+Icecold: bets $6
+Actionni13: folds
+Uncalled bet ($6) returned to Icecold
+Icecold collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7s 7d Ts Kc Tc]
+Seat 1: Icecold (big blind) collected ($17.64)
+Seat 4: Actionni13 (button) (small blind) folded on the River
+
+
+PokerStars Hand #158858064958:  Hold'em Limit ($3/$6 USD) - 2016/09/20 11:54:32 ET
+Table 'Eurydike' 6-max Seat #4 is the button
+Seat 1: Icecold ($247.02 in chips)
+Seat 4: Actionni13 ($255.94 in chips)
+Actionni13: posts small blind $1
+Icecold: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+Icecold: calls $3
+*** FLOP *** [5s Kc 9s]
+Icecold: checks
+Actionni13: bets $3
+Icecold: raises $3 to $6
+Actionni13: calls $3
+*** TURN *** [5s Kc 9s] [Td]
+Icecold: bets $6
+Actionni13: folds
+Uncalled bet ($6) returned to Icecold
+Icecold collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [5s Kc 9s Td]
+Seat 1: Icecold (big blind) collected ($23.52)
+Seat 4: Actionni13 (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #158858051666:  Hold'em Limit ($3/$6 USD) - 2016/09/20 11:54:11 ET
+Table 'Eurydike' 6-max Seat #1 is the button
+Seat 1: Icecold ($262.02 in chips)
+Seat 4: Actionni13 ($241.44 in chips)
+Icecold: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+Icecold: raises $3 to $6
+Actionni13: calls $3
+*** FLOP *** [Ks Qc 7s]
+Actionni13: bets $3
+Icecold: calls $3
+*** TURN *** [Ks Qc 7s] [3d]
+Actionni13: bets $6
+Icecold: calls $6
+*** RIVER *** [Ks Qc 7s 3d] [Jc]
+Actionni13: bets $6
+Icecold: folds
+Uncalled bet ($6) returned to Actionni13
+Actionni13 collected $29.50 from pot
+Actionni13: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ks Qc 7s 3d Jc]
+Seat 1: Icecold (button) (small blind) folded on the River
+Seat 4: Actionni13 (big blind) collected ($29.50)
+
+
+PokerStars Hand #158858077637:  Hold'em Limit ($3/$6 USD) - 2016/09/20 11:54:51 ET
+Table 'Eurydike' 6-max Seat #4 is the button
+Seat 1: Icecold ($261.54 in chips)
+Seat 4: Actionni13 ($240.94 in chips)
+Actionni13: posts small blind $1
+Icecold: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+Icecold: calls $3
+*** FLOP *** [7d Td 5s]
+Icecold: checks
+Actionni13: checks
+*** TURN *** [7d Td 5s] [4c]
+Icecold: checks
+Actionni13: checks
+*** RIVER *** [7d Td 5s 4c] [9c]
+Icecold: checks
+Actionni13: checks
+*** SHOW DOWN ***
+Icecold: shows [Kh 6s] (high card King)
+Actionni13: shows [Qd As] (high card Ace)
+Actionni13 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7d Td 5s 4c 9c]
+Seat 1: Icecold (big blind) showed [Kh 6s] and lost with high card King
+Seat 4: Actionni13 (button) (small blind) showed [Qd As] and won ($11.76) with high card Ace
+
+
+PokerStars Hand #158858087702:  Hold'em Limit ($3/$6 USD) - 2016/09/20 11:55:07 ET
+Table 'Eurydike' 6-max Seat #1 is the button
+Seat 1: Icecold ($255.54 in chips)
+Seat 4: Actionni13 ($246.70 in chips)
+Icecold: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+Icecold: raises $3 to $6
+Actionni13: folds
+Uncalled bet ($3) returned to Icecold
+Icecold collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: Icecold (button) (small blind) collected ($6)
+Seat 4: Actionni13 (big blind) folded before Flop
+
+
+PokerStars Hand #158858073778:  Hold'em Limit ($3/$6 USD) - 2016/09/20 11:54:45 ET
+Table 'Eurydike' 6-max Seat #1 is the button
+Seat 1: Icecold ($258.54 in chips)
+Seat 4: Actionni13 ($243.94 in chips)
+Icecold: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+Icecold: raises $3 to $6
+Actionni13: folds
+Uncalled bet ($3) returned to Icecold
+Icecold collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: Icecold (button) (small blind) collected ($6)
+Seat 4: Actionni13 (big blind) folded before Flop
+
+
+PokerStars Hand #158858099530:  Hold'em Limit ($3/$6 USD) - 2016/09/20 11:55:28 ET
+Table 'Eurydike' 6-max Seat #1 is the button
+Seat 1: Icecold ($237.54 in chips)
+Seat 4: Actionni13 ($264.20 in chips)
+Icecold: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+Icecold: raises $3 to $6
+Actionni13: calls $3
+*** FLOP *** [9c 6d Tc]
+Actionni13: bets $3
+Icecold: raises $3 to $6
+Actionni13: calls $3
+*** TURN *** [9c 6d Tc] [Kh]
+Actionni13: checks
+Icecold: bets $6
+Actionni13: folds
+Uncalled bet ($6) returned to Icecold
+Icecold collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [9c 6d Tc Kh]
+Seat 1: Icecold (button) (small blind) collected ($23.52)
+Seat 4: Actionni13 (big blind) folded on the Turn
+
+
+PokerStars Hand #158858117186:  Hold'em Limit ($3/$6 USD) - 2016/09/20 11:56:00 ET
+Table 'Eurydike' 6-max Seat #1 is the button
+Seat 1: Icecold ($243.06 in chips)
+Seat 4: Actionni13 ($257.96 in chips)
+Icecold: posts small blind $1
+oobara joins the table at seat #3
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+Icecold: raises $3 to $6
+Actionni13: calls $3
+*** FLOP *** [Js 9c Qd]
+Actionni13: checks
+Icecold: bets $3
+Actionni13: folds
+Uncalled bet ($3) returned to Icecold
+Icecold collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Js 9c Qd]
+Seat 1: Icecold (button) (small blind) collected ($11.76)
+Seat 4: Actionni13 (big blind) folded on the Flop
+
+
+PokerStars Hand #158858090623:  Hold'em Limit ($3/$6 USD) - 2016/09/20 11:55:12 ET
+Table 'Eurydike' 6-max Seat #4 is the button
+Seat 1: Icecold ($258.54 in chips)
+Seat 4: Actionni13 ($243.70 in chips)
+Actionni13: posts small blind $1
+Icecold: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+Icecold: calls $3
+*** FLOP *** [Kh 9h 5s]
+Icecold: checks
+Actionni13: bets $3
+Icecold: calls $3
+*** TURN *** [Kh 9h 5s] [Qs]
+Icecold: checks
+Actionni13: bets $6
+Icecold: calls $6
+*** RIVER *** [Kh 9h 5s Qs] [5c]
+Icecold: checks
+Actionni13: bets $6
+Icecold: calls $6
+*** SHOW DOWN ***
+Actionni13: shows [Ah Ks] (two pair, Kings and Fives)
+Icecold: mucks hand
+Actionni13 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Kh 9h 5s Qs 5c]
+Seat 1: Icecold (big blind) mucked
+Seat 4: Actionni13 (button) (small blind) showed [Ah Ks] and won ($41.50) with two pair, Kings and Fives
+
+
+PokerStars Hand #158858111973:  Hold'em Limit ($3/$6 USD) - 2016/09/20 11:55:51 ET
+Table 'Eurydike' 6-max Seat #4 is the button
+Seat 1: Icecold ($249.06 in chips)
+Seat 4: Actionni13 ($252.20 in chips)
+Actionni13: posts small blind $1
+Icecold: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+Icecold: calls $3
+*** FLOP *** [Qc 8h Ad]
+Icecold: checks
+Actionni13: bets $3
+Icecold: folds
+Uncalled bet ($3) returned to Actionni13
+Actionni13 collected $11.76 from pot
+Actionni13: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qc 8h Ad]
+Seat 1: Icecold (big blind) folded on the Flop
+Seat 4: Actionni13 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #158858123744:  Hold'em Limit ($3/$6 USD) - 2016/09/20 11:56:12 ET
+Table 'Eurydike' 6-max Seat #4 is the button
+Seat 1: Icecold ($248.82 in chips)
+Seat 4: Actionni13 ($251.96 in chips)
+Actionni13: posts small blind $1
+Icecold: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+Icecold: calls $3
+*** FLOP *** [2c 9c 8h]
+Icecold: checks
+Actionni13: bets $3
+Icecold: folds
+Uncalled bet ($3) returned to Actionni13
+Actionni13 collected $11.76 from pot
+Actionni13: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2c 9c 8h]
+Seat 1: Icecold (big blind) folded on the Flop
+Seat 4: Actionni13 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #158860247081:  Hold'em Limit ($3/$6 USD) - 2016/09/20 12:47:32 ET
+Table 'Eurydike' 6-max Seat #4 is the button
+Seat 1: RaisemyNut$ ($205.64 in chips)
+Seat 4: Actionni13 ($208.50 in chips)
+Actionni13: posts small blind $1
+RaisemyNut$: posts big blind $3
+*** HOLE CARDS ***
+SUCHAFISH leaves the table
+Actionni13: raises $3 to $6
+RaisemyNut$: folds
+Uncalled bet ($3) returned to Actionni13
+Actionni13 collected $6 from pot
+Actionni13: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: RaisemyNut$ (big blind) folded before Flop
+Seat 4: Actionni13 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #158860254890:  Hold'em Limit ($3/$6 USD) - 2016/09/20 12:47:43 ET
+Table 'Eurydike' 6-max Seat #1 is the button
+Seat 1: RaisemyNut$ ($202.64 in chips)
+Seat 4: Actionni13 ($211.50 in chips)
+RaisemyNut$: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+RaisemyNut$: raises $3 to $6
+Actionni13: folds
+Uncalled bet ($3) returned to RaisemyNut$
+RaisemyNut$ collected $6 from pot
+RaisemyNut$: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: RaisemyNut$ (button) (small blind) collected ($6)
+Seat 4: Actionni13 (big blind) folded before Flop
+
+
+PokerStars Hand #158860489508:  Hold'em Limit ($3/$6 USD) - 2016/09/20 12:52:50 ET
+Table 'Eurydike' 6-max Seat #4 is the button
+Seat 4: Actionni13 ($215.26 in chips)
+Seat 5: diRon1980 ($23 in chips)
+Actionni13: posts small blind $1
+diRon1980: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+diRon1980: folds
+Uncalled bet ($3) returned to Actionni13
+Actionni13 collected $6 from pot
+Actionni13: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 4: Actionni13 (button) (small blind) collected ($6)
+Seat 5: diRon1980 (big blind) folded before Flop
+
+
+PokerStars Hand #158860484778:  Hold'em Limit ($3/$6 USD) - 2016/09/20 12:52:43 ET
+Table 'Eurydike' 6-max Seat #5 is the button
+Seat 4: Actionni13 ($218.26 in chips)
+Seat 5: diRon1980 ($20 in chips)
+diRon1980: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+diRon1980: raises $3 to $6
+Actionni13: folds
+Uncalled bet ($3) returned to diRon1980
+diRon1980 collected $6 from pot
+diRon1980: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 4: Actionni13 (big blind) folded before Flop
+Seat 5: diRon1980 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #158860480757:  Hold'em Limit ($3/$6 USD) - 2016/09/20 12:52:38 ET
+Table 'Eurydike' 6-max Seat #4 is the button
+Seat 4: Actionni13 ($215.26 in chips)
+Seat 5: diRon1980 ($23 in chips)
+Actionni13: posts small blind $1
+diRon1980: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+diRon1980: folds
+Uncalled bet ($3) returned to Actionni13
+Actionni13 collected $6 from pot
+Actionni13: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 4: Actionni13 (button) (small blind) collected ($6)
+Seat 5: diRon1980 (big blind) folded before Flop
+
+
+PokerStars Hand #158860476816:  Hold'em Limit ($3/$6 USD) - 2016/09/20 12:52:33 ET
+Table 'Eurydike' 6-max Seat #5 is the button
+Seat 4: Actionni13 ($214.26 in chips)
+Seat 5: diRon1980 ($24 in chips)
+diRon1980: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+diRon1980: folds
+Uncalled bet ($2) returned to Actionni13
+Actionni13 collected $2 from pot
+Actionni13: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: Actionni13 (big blind) collected ($2)
+Seat 5: diRon1980 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #158860465500:  Hold'em Limit ($3/$6 USD) - 2016/09/20 12:52:18 ET
+Table 'Eurydike' 6-max Seat #4 is the button
+Seat 4: Actionni13 ($208.50 in chips)
+Seat 5: diRon1980 ($30 in chips)
+Actionni13: posts small blind $1
+diRon1980: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+diRon1980: calls $3
+*** FLOP *** [Jc Qh 8d]
+diRon1980: checks
+Actionni13: bets $3
+diRon1980: folds
+Uncalled bet ($3) returned to Actionni13
+Actionni13 collected $11.76 from pot
+Actionni13: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jc Qh 8d]
+Seat 4: Actionni13 (button) (small blind) collected ($11.76)
+Seat 5: diRon1980 (big blind) folded on the Flop
+
+
+PokerStars Hand #158860509473:  Hold'em Limit ($3/$6 USD) - 2016/09/20 12:53:16 ET
+Table 'Eurydike' 6-max Seat #4 is the button
+Seat 4: Actionni13 ($198.26 in chips)
+Seat 5: diRon1980 ($39.50 in chips)
+Actionni13: posts small blind $1
+diRon1980: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+diRon1980: raises $3 to $9
+Actionni13: calls $3
+*** FLOP *** [7h Kd Ah]
+diRon1980: bets $3
+Actionni13: calls $3
+*** TURN *** [7h Kd Ah] [Kh]
+diRon1980: bets $6
+Actionni13: calls $6
+*** RIVER *** [7h Kd Ah Kh] [Jd]
+diRon1980: checks
+Actionni13: bets $6
+diRon1980: calls $6
+*** SHOW DOWN ***
+Actionni13: shows [Ac 3s] (two pair, Aces and Kings)
+diRon1980: mucks hand
+Actionni13 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7h Kd Ah Kh Jd]
+Seat 4: Actionni13 (button) (small blind) showed [Ac 3s] and won ($47.50) with two pair, Aces and Kings
+Seat 5: diRon1980 (big blind) mucked
+
+
+PokerStars Hand #158860493896:  Hold'em Limit ($3/$6 USD) - 2016/09/20 12:52:55 ET
+Table 'Eurydike' 6-max Seat #5 is the button
+Seat 4: Actionni13 ($218.26 in chips)
+Seat 5: diRon1980 ($20 in chips)
+diRon1980: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+diRon1980: raises $3 to $6
+Actionni13: calls $3
+*** FLOP *** [6h Jh 9s]
+Actionni13: checks
+diRon1980: bets $3
+Actionni13: raises $3 to $6
+diRon1980: raises $3 to $9
+Actionni13: raises $3 to $12
+Betting is capped
+diRon1980: calls $3
+*** TURN *** [6h Jh 9s] [Qs]
+Actionni13: bets $6
+diRon1980: calls $2 and is all-in
+Uncalled bet ($4) returned to Actionni13
+*** RIVER *** [6h Jh 9s Qs] [8h]
+*** SHOW DOWN ***
+Actionni13: shows [Js 6s] (two pair, Jacks and Sixes)
+diRon1980: shows [9h 4h] (a flush, Jack high)
+diRon1980 collected $39.50 from pot
+*** SUMMARY ***
+Total pot $40 | Rake $0.50
+Board [6h Jh 9s Qs 8h]
+Seat 4: Actionni13 (big blind) showed [Js 6s] and lost with two pair, Jacks and Sixes
+Seat 5: diRon1980 (button) (small blind) showed [9h 4h] and won ($39.50) with a flush, Jack high
+
+
+PokerStars Hand #158860675405:  Hold'em Limit ($3/$6 USD) - 2016/09/20 12:57:27 ET
+Table 'Eurydike' 6-max Seat #4 is the button
+Seat 2: diRon1980 ($90.21 in chips)
+Seat 4: Actionni13 ($281.91 in chips)
+RaisemyNut$ will be allowed to play after the button
+Actionni13: posts small blind $1
+diRon1980: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: folds
+Uncalled bet ($2) returned to diRon1980
+diRon1980 collected $2 from pot
+diRon1980: doesn't show hand
+Icecold leaves the table
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: diRon1980 (big blind) collected ($2)
+Seat 4: Actionni13 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #158865721422:  Hold'em Limit ($3/$6 USD) - 2016/09/20 14:44:53 ET
+Table 'Eurydike' 6-max Seat #3 is the button
+Seat 2: komornik ($138.32 in chips)
+Seat 3: RaisemyNut$ ($199.87 in chips)
+RaisemyNut$: posts small blind $1
+LordBorzi II: is sitting out
+komornik: posts big blind $3
+*** HOLE CARDS ***
+Kriksis66 said, "otsosi kozel"
+RaisemyNut$: folds
+Uncalled bet ($2) returned to komornik
+komornik collected $2 from pot
+komornik: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: komornik (big blind) collected ($2)
+Seat 3: RaisemyNut$ (button) (small blind) folded before Flop
+
+
+PokerStars Hand #158865762228:  Hold'em Limit ($3/$6 USD) - 2016/09/20 14:45:42 ET
+Table 'Eurydike' 6-max Seat #2 is the button
+Seat 2: komornik ($139.32 in chips)
+Seat 6: LordBorzi II ($115 in chips)
+komornik: posts small blind $1
+LordBorzi II: posts big blind $3
+*** HOLE CARDS ***
+komornik: raises $3 to $6
+LordBorzi II: folds
+Uncalled bet ($3) returned to komornik
+komornik collected $6 from pot
+komornik: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: komornik (button) (small blind) collected ($6)
+Seat 6: LordBorzi II (big blind) folded before Flop
+
+
+PokerStars Hand #158865770215:  Hold'em Limit ($3/$6 USD) - 2016/09/20 14:45:51 ET
+Table 'Eurydike' 6-max Seat #6 is the button
+Seat 2: komornik ($142.32 in chips)
+Seat 6: LordBorzi II ($112 in chips)
+LordBorzi II: posts small blind $1
+komornik: posts big blind $3
+*** HOLE CARDS ***
+LordBorzi II: raises $3 to $6
+komornik: folds
+Uncalled bet ($3) returned to LordBorzi II
+LordBorzi II collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: komornik (big blind) folded before Flop
+Seat 6: LordBorzi II (button) (small blind) collected ($6)
+
+
+PokerStars Hand #158865807949:  Hold'em Limit ($3/$6 USD) - 2016/09/20 14:46:36 ET
+Table 'Eurydike' 6-max Seat #6 is the button
+Seat 3: llmaiconll ($117.70 in chips)
+Seat 6: LordBorzi II ($115 in chips)
+LordBorzi II: posts small blind $1
+komornik: is sitting out
+llmaiconll: posts big blind $3
+*** HOLE CARDS ***
+LordBorzi II: raises $3 to $6
+llmaiconll: calls $3
+*** FLOP *** [2h 8d Kd]
+llmaiconll: checks
+LordBorzi II: bets $3
+llmaiconll: folds
+Uncalled bet ($3) returned to LordBorzi II
+LordBorzi II collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2h 8d Kd]
+Seat 3: llmaiconll (big blind) folded on the Flop
+Seat 6: LordBorzi II (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #158865836895:  Hold'em Limit ($3/$6 USD) - 2016/09/20 14:47:10 ET
+Table 'Eurydike' 6-max Seat #2 is the button
+Seat 2: komornik ($136.32 in chips)
+Seat 3: llmaiconll ($114.70 in chips)
+komornik: posts small blind $1
+llmaiconll: posts big blind $3
+*** HOLE CARDS ***
+komornik: raises $3 to $6
+llmaiconll: folds
+Uncalled bet ($3) returned to komornik
+komornik collected $6 from pot
+komornik: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: komornik (button) (small blind) collected ($6)
+Seat 3: llmaiconll (big blind) folded before Flop
+
+
+PokerStars Hand #158865820236:  Hold'em Limit ($3/$6 USD) - 2016/09/20 14:46:51 ET
+Table 'Eurydike' 6-max Seat #3 is the button
+Seat 2: komornik ($139.32 in chips)
+Seat 3: llmaiconll ($111.70 in chips)
+llmaiconll: posts small blind $1
+komornik: posts big blind $3
+*** HOLE CARDS ***
+llmaiconll: raises $3 to $6
+komornik: folds
+Uncalled bet ($3) returned to llmaiconll
+llmaiconll collected $6 from pot
+llmaiconll: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: komornik (big blind) folded before Flop
+Seat 3: llmaiconll (button) (small blind) collected ($6)
+
+

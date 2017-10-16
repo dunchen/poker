@@ -1,0 +1,65 @@
+PokerStars Hand #154612638837:  Hold'em Limit ($3/$6 USD) - 2016/06/11 19:19:21 ET
+Table 'Velleda II' 6-max Seat #1 is the button
+Seat 1: anetkaapro ($85.33 in chips)
+Seat 6: BIZE Terence ($159.42 in chips)
+anetkaapro: posts small blind $1
+BIZE Terence: posts big blind $3
+*** HOLE CARDS ***
+anetkaapro: raises $3 to $6
+BIZE Terence: raises $3 to $9
+anetkaapro: calls $3
+*** FLOP *** [5d 9h 9c]
+BIZE Terence: bets $3
+anetkaapro: raises $3 to $6
+BIZE Terence: calls $3
+*** TURN *** [5d 9h 9c] [7d]
+BIZE Terence: checks
+anetkaapro: bets $6
+BIZE Terence: calls $6
+*** RIVER *** [5d 9h 9c 7d] [Ad]
+BIZE Terence: checks
+anetkaapro: checks
+*** SHOW DOWN ***
+BIZE Terence: shows [3d 3c] (two pair, Nines and Threes)
+anetkaapro: shows [5s 8d] (two pair, Nines and Fives)
+anetkaapro collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [5d 9h 9c 7d Ad]
+Seat 1: anetkaapro (button) (small blind) showed [5s 8d] and won ($41.50) with two pair, Nines and Fives
+Seat 6: BIZE Terence (big blind) showed [3d 3c] and lost with two pair, Nines and Threes
+
+
+PokerStars Hand #154612697097:  Hold'em Limit ($3/$6 USD) - 2016/06/11 19:21:00 ET
+Table 'Velleda II' 6-max Seat #6 is the button
+Seat 1: anetkaapro ($105.83 in chips)
+Seat 6: BIZE Terence ($138.42 in chips)
+BIZE Terence: posts small blind $1
+anetkaapro: posts big blind $3
+*** HOLE CARDS ***
+BIZE Terence: raises $3 to $6
+anetkaapro: calls $3
+*** FLOP *** [5h Qs 8h]
+anetkaapro: checks
+BIZE Terence: bets $3
+anetkaapro: raises $3 to $6
+BIZE Terence: calls $3
+*** TURN *** [5h Qs 8h] [2c]
+anetkaapro: bets $6
+BIZE Terence: raises $6 to $12
+anetkaapro: calls $6
+*** RIVER *** [5h Qs 8h 2c] [5d]
+anetkaapro: checks
+BIZE Terence: bets $6
+anetkaapro: calls $6
+*** SHOW DOWN ***
+BIZE Terence: shows [2s 2h] (a full house, Deuces full of Fives)
+anetkaapro: mucks hand
+BIZE Terence collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [5h Qs 8h 2c 5d]
+Seat 1: anetkaapro (big blind) mucked
+Seat 6: BIZE Terence (button) (small blind) showed [2s 2h] and won ($59.50) with a full house, Deuces full of Fives
+
+

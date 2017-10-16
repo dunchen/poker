@@ -1,0 +1,120 @@
+PokerStars Hand #158575022791:  Hold'em Limit ($3/$6 USD) - 2016/09/13 20:58:00 ET
+Table 'Halley' 6-max Seat #6 is the button
+Seat 5: Maliance ($72 in chips)
+Seat 6: ToDaFelt ($205.26 in chips)
+ToDaFelt: posts small blind $1
+jack_flasher: is sitting out
+ABATAPP: is sitting out
+Maliance: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+Maliance: raises $3 to $9
+ToDaFelt: calls $3
+*** FLOP *** [3d Td Qs]
+Maliance: bets $3
+ABATAPP leaves the table
+ToDaFelt: calls $3
+*** TURN *** [3d Td Qs] [4d]
+Maliance: bets $6
+llmaiconll joins the table at seat #3
+ToDaFelt: calls $6
+*** RIVER *** [3d Td Qs 4d] [7h]
+ABATAPP joins the table at seat #4
+Maliance: bets $6
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+Maliance: shows [Tc As] (a pair of Tens)
+ToDaFelt: mucks hand
+Maliance collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3d Td Qs 4d 7h]
+Seat 5: Maliance (big blind) showed [Tc As] and won ($47.50) with a pair of Tens
+Seat 6: ToDaFelt (button) (small blind) mucked
+
+
+PokerStars Hand #158575035203:  Hold'em Limit ($3/$6 USD) - 2016/09/13 20:58:36 ET
+Table 'Halley' 6-max Seat #5 is the button
+Seat 5: Maliance ($95.50 in chips)
+Seat 6: ToDaFelt ($181.26 in chips)
+Maliance: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+Maliance: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [Qd 7c Kh]
+ToDaFelt: checks
+Maliance: bets $3
+ToDaFelt: calls $3
+*** TURN *** [Qd 7c Kh] [As]
+ToDaFelt: checks
+Maliance: bets $6
+ToDaFelt: raises $6 to $12
+Maliance: folds
+Uncalled bet ($6) returned to ToDaFelt
+ToDaFelt collected $29.50 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qd 7c Kh As]
+Seat 5: Maliance (button) (small blind) folded on the Turn
+Seat 6: ToDaFelt (big blind) collected ($29.50)
+
+
+PokerStars Hand #158575820323:  Hold'em Limit ($3/$6 USD) - 2016/09/13 21:30:55 ET
+Table 'Halley' 6-max Seat #6 is the button
+Seat 5: Maliance ($245.34 in chips)
+Seat 6: ToDaFelt ($248.11 in chips)
+ToDaFelt: posts small blind $1
+ABATAPP: is sitting out
+Maliance: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+Maliance: calls $3
+*** FLOP *** [9c Ah Js]
+Maliance: checks
+baohip joins the table at seat #1
+ToDaFelt: bets $3
+Maliance: raises $3 to $6
+ToDaFelt: folds
+Uncalled bet ($3) returned to Maliance
+Maliance collected $17.64 from pot
+Maliance: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9c Ah Js]
+Seat 5: Maliance (big blind) collected ($17.64)
+Seat 6: ToDaFelt (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #158575834084:  Hold'em Limit ($3/$6 USD) - 2016/09/13 21:31:31 ET
+Table 'Halley' 6-max Seat #5 is the button
+Seat 5: Maliance ($253.98 in chips)
+Seat 6: ToDaFelt ($239.11 in chips)
+Maliance: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+Maliance: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [8h 6d Ks]
+ToDaFelt: checks
+ABATAPP leaves the table
+Maliance: bets $3
+baohip leaves the table
+ToDaFelt: calls $3
+*** TURN *** [8h 6d Ks] [Kh]
+ToDaFelt: checks
+Maliance: checks
+*** RIVER *** [8h 6d Ks Kh] [3d]
+ToDaFelt: bets $6
+Maliance: folds
+Uncalled bet ($6) returned to ToDaFelt
+ToDaFelt collected $17.64 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8h 6d Ks Kh 3d]
+Seat 5: Maliance (button) (small blind) folded on the River
+Seat 6: ToDaFelt (big blind) collected ($17.64)
+
+

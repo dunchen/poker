@@ -1,0 +1,119 @@
+PokerStars Hand #146736779102:  Hold'em Limit ($3/$6 USD) - 2016/01/09 9:32:33 ET
+Table 'Thoas II' 6-max Seat #1 is the button
+Seat 1: petestastny ($66.50 in chips)
+Seat 2: LolDnkaments ($72 in chips)
+petestastny: posts small blind $1
+LolDnkaments: posts big blind $3
+*** HOLE CARDS ***
+petestastny: raises $3 to $6
+LolDnkaments: calls $3
+*** FLOP *** [8s Ks Kd]
+LolDnkaments: checks
+petestastny: bets $3
+LolDnkaments: raises $3 to $6
+petestastny: calls $3
+*** TURN *** [8s Ks Kd] [6h]
+LolDnkaments: bets $6
+petestastny: calls $6
+*** RIVER *** [8s Ks Kd 6h] [Ad]
+LolDnkaments: bets $6
+petestastny: calls $6
+*** SHOW DOWN ***
+LolDnkaments: shows [8h Js] (two pair, Kings and Eights)
+petestastny: mucks hand
+DismasX joins the table at seat #3
+LolDnkaments collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8s Ks Kd 6h Ad]
+Seat 1: petestastny (button) (small blind) mucked
+Seat 2: LolDnkaments (big blind) showed [8h Js] and won ($47.50) with two pair, Kings and Eights
+
+
+PokerStars Hand #146736763631:  Hold'em Limit ($3/$6 USD) - 2016/01/09 9:32:14 ET
+Table 'Thoas II' 6-max Seat #2 is the button
+Seat 1: petestastny ($43 in chips)
+Seat 2: LolDnkaments ($83.52 in chips)
+LolDnkaments: posts small blind $1
+petestastny: posts big blind $3
+*** HOLE CARDS ***
+LolDnkaments: raises $3 to $6
+petestastny: raises $3 to $9
+LolDnkaments: calls $3
+*** FLOP *** [4h 5s 2c]
+petestastny: bets $3
+LolDnkaments: calls $3
+*** TURN *** [4h 5s 2c] [6c]
+petestastny: bets $6
+LolDnkaments: raises $6 to $12
+petestastny: calls $6
+*** RIVER *** [4h 5s 2c 6c] [7d]
+petestastny: checks
+LolDnkaments: checks
+*** SHOW DOWN ***
+petestastny: shows [4d 4c] (three of a kind, Fours)
+LolDnkaments: mucks hand
+petestastny collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4h 5s 2c 6c 7d]
+Seat 1: petestastny (big blind) showed [4d 4c] and won ($47.50) with three of a kind, Fours
+Seat 2: LolDnkaments (button) (small blind) mucked
+
+
+PokerStars Hand #146737638887:  Hold'em Limit ($3/$6 USD) - 2016/01/09 9:49:14 ET
+Table 'Thoas II' 6-max Seat #4 is the button
+Seat 2: LolDnkaments ($131.70 in chips)
+Seat 4: Chessnok ($195.66 in chips)
+Chessnok: posts small blind $1
+Red revoluti: is sitting out
+LolDnkaments: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+LolDnkaments: calls $3
+*** FLOP *** [9h 3h 7c]
+LolDnkaments: checks
+Chessnok: checks
+*** TURN *** [9h 3h 7c] [6s]
+LolDnkaments: checks
+Chessnok: checks
+*** RIVER *** [9h 3h 7c 6s] [5c]
+LolDnkaments: bets $6
+Chessnok: folds
+Uncalled bet ($6) returned to LolDnkaments
+LolDnkaments collected $11.76 from pot
+LolDnkaments: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9h 3h 7c 6s 5c]
+Seat 2: LolDnkaments (big blind) collected ($11.76)
+Seat 4: Chessnok (button) (small blind) folded on the River
+
+
+PokerStars Hand #146737661559:  Hold'em Limit ($3/$6 USD) - 2016/01/09 9:49:41 ET
+Table 'Thoas II' 6-max Seat #2 is the button
+Seat 2: LolDnkaments ($137.46 in chips)
+Seat 5: Red revoluti ($149.91 in chips)
+LolDnkaments: posts small blind $1
+Red revoluti: posts big blind $3
+*** HOLE CARDS ***
+LolDnkaments: raises $3 to $6
+Red revoluti: calls $3
+*** FLOP *** [Ah Th 9c]
+Red revoluti: checks
+LolDnkaments: bets $3
+Red revoluti: calls $3
+*** TURN *** [Ah Th 9c] [6h]
+Red revoluti: checks
+LolDnkaments: bets $6
+Red revoluti: folds
+Uncalled bet ($6) returned to LolDnkaments
+LolDnkaments collected $17.64 from pot
+LolDnkaments: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ah Th 9c 6h]
+Seat 2: LolDnkaments (button) (small blind) collected ($17.64)
+Seat 5: Red revoluti (big blind) folded on the Turn
+
+

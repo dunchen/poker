@@ -1,0 +1,117 @@
+PokerStars Hand #150567124940:  Hold'em Limit ($3/$6 USD) - 2016/03/18 20:00:08 ET
+Table 'Agelaos' 6-max Seat #2 is the button
+Seat 2: vovojc ($48.93 in chips)
+Seat 6: anetkaapro ($122.81 in chips)
+vovojc: posts small blind $1
+anetkaapro: posts big blind $3
+*** HOLE CARDS ***
+vovojc: folds
+Uncalled bet ($2) returned to anetkaapro
+anetkaapro collected $2 from pot
+anetkaapro: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: vovojc (button) (small blind) folded before Flop
+Seat 6: anetkaapro (big blind) collected ($2)
+
+
+PokerStars Hand #150567128726:  Hold'em Limit ($3/$6 USD) - 2016/03/18 20:00:14 ET
+Table 'Agelaos' 6-max Seat #6 is the button
+Seat 2: vovojc ($47.93 in chips)
+Seat 6: anetkaapro ($123.81 in chips)
+anetkaapro: posts small blind $1
+vovojc: posts big blind $3
+*** HOLE CARDS ***
+anetkaapro: raises $3 to $6
+vovojc: calls $3
+*** FLOP *** [5s Qh 3h]
+vovojc: checks
+anetkaapro: bets $3
+vovojc: calls $3
+*** TURN *** [5s Qh 3h] [As]
+vovojc: checks
+anetkaapro: bets $6
+vovojc: calls $6
+*** RIVER *** [5s Qh 3h As] [Ac]
+vovojc: checks
+anetkaapro: bets $6
+vovojc: calls $6
+*** SHOW DOWN ***
+anetkaapro: shows [Ks Ah] (three of a kind, Aces)
+vovojc: mucks hand
+anetkaapro collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [5s Qh 3h As Ac]
+Seat 2: vovojc (big blind) mucked
+Seat 6: anetkaapro (button) (small blind) showed [Ks Ah] and won ($41.50) with three of a kind, Aces
+
+
+PokerStars Hand #150567181442:  Hold'em Limit ($3/$6 USD) - 2016/03/18 20:01:35 ET
+Table 'Agelaos' 6-max Seat #5 is the button
+Seat 5: sda.80.16 ($127.65 in chips)
+Seat 6: anetkaapro ($144.31 in chips)
+Grieserix joins the table at seat #2
+sda.80.16: posts small blind $1
+anetkaapro: posts big blind $3
+*** HOLE CARDS ***
+sda.80.16: folds
+Uncalled bet ($2) returned to anetkaapro
+anetkaapro collected $2 from pot
+anetkaapro: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: sda.80.16 (button) (small blind) folded before Flop
+Seat 6: anetkaapro (big blind) collected ($2)
+
+
+PokerStars Hand #150569549874:  Hold'em Limit ($3/$6 USD) - 2016/03/18 21:05:02 ET
+Table 'Agelaos' 6-max Seat #4 is the button
+Seat 1: JayEm82 ($165.82 in chips)
+Seat 4: kvachka1 ($189.24 in chips)
+kvachka1: posts small blind $1
+JayEm82: posts big blind $3
+*** HOLE CARDS ***
+kvachka1: raises $3 to $6
+JayEm82: calls $3
+*** FLOP *** [Qh 2s 8d]
+anetkaapro joins the table at seat #5
+JayEm82: checks
+kvachka1: bets $3
+JayEm82: raises $3 to $6
+kvachka1: raises $3 to $9
+JayEm82: calls $3
+*** TURN *** [Qh 2s 8d] [7c]
+JayEm82: checks
+kvachka1: bets $6
+JayEm82: calls $6
+*** RIVER *** [Qh 2s 8d 7c] [Kd]
+JayEm82: checks
+kvachka1: checks
+*** SHOW DOWN ***
+JayEm82: shows [6s 8s] (a pair of Eights)
+kvachka1: shows [Qd Ad] (a pair of Queens)
+kvachka1 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Qh 2s 8d 7c Kd]
+Seat 1: JayEm82 (big blind) showed [6s 8s] and lost with a pair of Eights
+Seat 4: kvachka1 (button) (small blind) showed [Qd Ad] and won ($41.50) with a pair of Queens
+
+
+PokerStars Hand #150569547043:  Hold'em Limit ($3/$6 USD) - 2016/03/18 21:04:57 ET
+Table 'Agelaos' 6-max Seat #1 is the button
+Seat 1: JayEm82 ($166.82 in chips)
+Seat 4: kvachka1 ($188.24 in chips)
+JayEm82: posts small blind $1
+kvachka1: posts big blind $3
+*** HOLE CARDS ***
+JayEm82: folds
+Uncalled bet ($2) returned to kvachka1
+kvachka1 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: JayEm82 (button) (small blind) folded before Flop
+Seat 4: kvachka1 (big blind) collected ($2)
+
+

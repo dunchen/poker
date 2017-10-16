@@ -1,0 +1,450 @@
+PokerStars Hand #167803138069:  Hold'em Limit ($3/$6 USD) - 2017/03/19 10:30:49 ET
+Table 'Ajax' 10-max Seat #2 is the button
+Seat 2: perten ($120 in chips)
+Seat 5: sim5sim5 ($72 in chips)
+perten: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+perten: raises $3 to $6
+sim5sim5: calls $3
+*** FLOP *** [7c 3d 5d]
+sim5sim5: checks
+perten: checks
+*** TURN *** [7c 3d 5d] [3c]
+sim5sim5: checks
+perten: checks
+*** RIVER *** [7c 3d 5d 3c] [3s]
+sim5sim5: checks
+perten: bets $6
+sim5sim5: folds
+Uncalled bet ($6) returned to perten
+perten collected $11.76 from pot
+perten: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7c 3d 5d 3c 3s]
+Seat 2: perten (button) (small blind) collected ($11.76)
+Seat 5: sim5sim5 (big blind) folded on the River
+
+
+PokerStars Hand #167803163409:  Hold'em Limit ($3/$6 USD) - 2017/03/19 10:31:24 ET
+Table 'Ajax' 10-max Seat #5 is the button
+Seat 2: perten ($125.76 in chips)
+Seat 5: sim5sim5 ($72 in chips)
+sim5sim5: posts small blind $1
+perten: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+perten: calls $3
+*** FLOP *** [3s Th Jh]
+perten: checks
+sim5sim5: bets $3
+perten: calls $3
+*** TURN *** [3s Th Jh] [Js]
+perten: checks
+sim5sim5: bets $6
+perten: calls $6
+*** RIVER *** [3s Th Jh Js] [7s]
+perten: checks
+sim5sim5: bets $6
+perten: raises $6 to $12
+sim5sim5: calls $6
+*** SHOW DOWN ***
+perten: shows [Ks Ts] (a flush, King high)
+sim5sim5: mucks hand
+perten collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [3s Th Jh Js 7s]
+Seat 2: perten (big blind) showed [Ks Ts] and won ($53.50) with a flush, King high
+Seat 5: sim5sim5 (button) (small blind) mucked
+
+
+PokerStars Hand #167803198186:  Hold'em Limit ($3/$6 USD) - 2017/03/19 10:32:13 ET
+Table 'Ajax' 10-max Seat #2 is the button
+Seat 2: perten ($152.26 in chips)
+Seat 5: sim5sim5 ($72 in chips)
+perten: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+perten: calls $2
+sim5sim5: raises $3 to $6
+perten: calls $3
+*** FLOP *** [8c 4c 3h]
+sim5sim5: bets $3
+perten: folds
+Uncalled bet ($3) returned to sim5sim5
+sim5sim5 collected $11.76 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8c 4c 3h]
+Seat 2: perten (button) (small blind) folded on the Flop
+Seat 5: sim5sim5 (big blind) collected ($11.76)
+
+
+PokerStars Hand #167803206609:  Hold'em Limit ($3/$6 USD) - 2017/03/19 10:32:24 ET
+Table 'Ajax' 10-max Seat #5 is the button
+Seat 2: perten ($146.26 in chips)
+Seat 5: sim5sim5 ($77.76 in chips)
+sim5sim5: posts small blind $1
+perten: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+perten: folds
+Uncalled bet ($3) returned to sim5sim5
+sim5sim5 collected $6 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: perten (big blind) folded before Flop
+Seat 5: sim5sim5 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #167803212175:  Hold'em Limit ($3/$6 USD) - 2017/03/19 10:32:32 ET
+Table 'Ajax' 10-max Seat #2 is the button
+Seat 2: perten ($143.26 in chips)
+Seat 5: sim5sim5 ($80.76 in chips)
+perten: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+perten: raises $3 to $6
+sim5sim5: raises $3 to $9
+perten: calls $3
+*** FLOP *** [2s 4c 6h]
+sim5sim5: bets $3
+perten: calls $3
+*** TURN *** [2s 4c 6h] [7d]
+sim5sim5: bets $6
+perten: raises $6 to $12
+sim5sim5: calls $6
+*** RIVER *** [2s 4c 6h 7d] [9c]
+sim5sim5: checks
+perten: checks
+*** SHOW DOWN ***
+sim5sim5: shows [Th 9h] (a pair of Nines)
+perten: mucks hand
+sim5sim5 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2s 4c 6h 7d 9c]
+Seat 2: perten (button) (small blind) mucked
+Seat 5: sim5sim5 (big blind) showed [Th 9h] and won ($47.50) with a pair of Nines
+
+
+PokerStars Hand #167803232128:  Hold'em Limit ($3/$6 USD) - 2017/03/19 10:33:00 ET
+Table 'Ajax' 10-max Seat #5 is the button
+Seat 2: perten ($119.26 in chips)
+Seat 5: sim5sim5 ($104.26 in chips)
+sim5sim5: posts small blind $1
+perten: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+perten: calls $3
+*** FLOP *** [2c 3d 5d]
+perten: checks
+sim5sim5: bets $3
+perten: folds
+Uncalled bet ($3) returned to sim5sim5
+sim5sim5 collected $11.76 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2c 3d 5d]
+Seat 2: perten (big blind) folded on the Flop
+Seat 5: sim5sim5 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #167803241974:  Hold'em Limit ($3/$6 USD) - 2017/03/19 10:33:13 ET
+Table 'Ajax' 10-max Seat #2 is the button
+Seat 2: perten ($113.26 in chips)
+Seat 5: sim5sim5 ($110.02 in chips)
+perten: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+perten: raises $3 to $6
+sim5sim5: calls $3
+*** FLOP *** [2h 5s 8d]
+sim5sim5: checks
+perten: checks
+*** TURN *** [2h 5s 8d] [Ts]
+sim5sim5: checks
+perten: checks
+*** RIVER *** [2h 5s 8d Ts] [8s]
+sim5sim5: checks
+perten: checks
+*** SHOW DOWN ***
+sim5sim5: shows [4c Ad] (a pair of Eights)
+perten: mucks hand
+sim5sim5 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2h 5s 8d Ts 8s]
+Seat 2: perten (button) (small blind) mucked
+Seat 5: sim5sim5 (big blind) showed [4c Ad] and won ($11.76) with a pair of Eights
+
+
+PokerStars Hand #167803257855:  Hold'em Limit ($3/$6 USD) - 2017/03/19 10:33:35 ET
+Table 'Ajax' 10-max Seat #5 is the button
+Seat 2: perten ($107.26 in chips)
+Seat 5: sim5sim5 ($115.78 in chips)
+sim5sim5: posts small blind $1
+perten: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+perten: calls $3
+*** FLOP *** [2c 6s Tc]
+perten: checks
+sim5sim5: bets $3
+perten: raises $3 to $6
+sim5sim5: calls $3
+*** TURN *** [2c 6s Tc] [2s]
+perten: bets $6
+sim5sim5: raises $6 to $12
+perten: calls $6
+*** RIVER *** [2c 6s Tc 2s] [6h]
+perten: checks
+sim5sim5: bets $6
+perten: folds
+Uncalled bet ($6) returned to sim5sim5
+sim5sim5 collected $47.50 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2c 6s Tc 2s 6h]
+Seat 2: perten (big blind) folded on the River
+Seat 5: sim5sim5 (button) (small blind) collected ($47.50)
+
+
+PokerStars Hand #167804244463:  Hold'em Limit ($3/$6 USD) - 2017/03/19 10:56:23 ET
+Table 'Ajax' 10-max Seat #2 is the button
+Seat 2: sim5sim5 ($72 in chips)
+Seat 5: Pepperlina ($120 in chips)
+sim5sim5: posts small blind $1
+Pepperlina: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec joins the table at seat #7
+sim5sim5: raises $3 to $6
+Pepperlina: calls $3
+*** FLOP *** [Qs 6h Qh]
+Pepperlina: checks
+sim5sim5: bets $3
+Pepperlina: folds
+Uncalled bet ($3) returned to sim5sim5
+sim5sim5 collected $11.76 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qs 6h Qh]
+Seat 2: sim5sim5 (button) (small blind) collected ($11.76)
+Seat 5: Pepperlina (big blind) folded on the Flop
+
+
+PokerStars Hand #167804275384:  Hold'em Limit ($3/$6 USD) - 2017/03/19 10:57:17 ET
+Table 'Ajax' 10-max Seat #7 is the button
+Seat 5: Pepperlina ($117 in chips)
+Seat 7: vestimokrec ($117 in chips)
+vestimokrec: posts small blind $1
+sim5sim5: is sitting out
+Pepperlina: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+Pepperlina: calls $3
+*** FLOP *** [4h As 8s]
+Pepperlina: checks
+vestimokrec: bets $3
+Pepperlina: folds
+Uncalled bet ($3) returned to vestimokrec
+vestimokrec collected $11.76 from pot
+vestimokrec: doesn't show hand
+sim5sim5 leaves the table
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4h As 8s]
+Seat 5: Pepperlina (big blind) folded on the Flop
+Seat 7: vestimokrec (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #167804284355:  Hold'em Limit ($3/$6 USD) - 2017/03/19 10:57:32 ET
+Table 'Ajax' 10-max Seat #5 is the button
+Seat 5: Pepperlina ($111 in chips)
+Seat 7: vestimokrec ($122.76 in chips)
+Pepperlina: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+yamaxerm leaves the table
+Pepperlina: raises $3 to $6
+vestimokrec: calls $3
+*** FLOP *** [3s 6s 3h]
+vestimokrec: checks
+Pepperlina: bets $3
+vestimokrec: raises $3 to $6
+Pepperlina: calls $3
+*** TURN *** [3s 6s 3h] [8c]
+vestimokrec: bets $6
+Pepperlina: calls $6
+*** RIVER *** [3s 6s 3h 8c] [3d]
+vestimokrec: bets $6
+Pepperlina: calls $6
+*** SHOW DOWN ***
+vestimokrec: shows [8d 6c] (a full house, Threes full of Eights)
+Pepperlina: mucks hand
+vestimokrec collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3s 6s 3h 8c 3d]
+Seat 5: Pepperlina (button) (small blind) mucked
+Seat 7: vestimokrec (big blind) showed [8d 6c] and won ($47.50) with a full house, Threes full of Eights
+
+
+PokerStars Hand #167804295318:  Hold'em Limit ($3/$6 USD) - 2017/03/19 10:57:50 ET
+Table 'Ajax' 10-max Seat #7 is the button
+Seat 5: Pepperlina ($87 in chips)
+Seat 7: vestimokrec ($146.26 in chips)
+vestimokrec: posts small blind $1
+Pepperlina: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+Pepperlina: calls $3
+*** FLOP *** [3s 8d 3h]
+Pepperlina: checks
+vestimokrec: bets $3
+Pepperlina: folds
+Uncalled bet ($3) returned to vestimokrec
+vestimokrec collected $11.76 from pot
+vestimokrec: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3s 8d 3h]
+Seat 5: Pepperlina (big blind) folded on the Flop
+Seat 7: vestimokrec (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #167804304260:  Hold'em Limit ($3/$6 USD) - 2017/03/19 10:58:06 ET
+Table 'Ajax' 10-max Seat #5 is the button
+Seat 5: Pepperlina ($81 in chips)
+Seat 7: vestimokrec ($152.02 in chips)
+Pepperlina: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+Pepperlina: raises $3 to $6
+vestimokrec: calls $3
+*** FLOP *** [6h 4h 4c]
+vestimokrec: checks
+Pepperlina: bets $3
+vestimokrec: calls $3
+*** TURN *** [6h 4h 4c] [Jd]
+vestimokrec: checks
+Rus29APX leaves the table
+Pepperlina: checks
+*** RIVER *** [6h 4h 4c Jd] [Ac]
+vestimokrec: checks
+Pepperlina: checks
+*** SHOW DOWN ***
+vestimokrec: shows [5s Kh] (a pair of Fours)
+Pepperlina: mucks hand
+vestimokrec collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6h 4h 4c Jd Ac]
+Seat 5: Pepperlina (button) (small blind) mucked
+Seat 7: vestimokrec (big blind) showed [5s Kh] and won ($17.64) with a pair of Fours
+
+
+PokerStars Hand #167804330780:  Hold'em Limit ($3/$6 USD) - 2017/03/19 10:58:51 ET
+Table 'Ajax' 10-max Seat #5 is the button
+Seat 5: Pepperlina ($54 in chips)
+Seat 7: vestimokrec ($178.16 in chips)
+Pepperlina: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+Pepperlina: folds
+Uncalled bet ($2) returned to vestimokrec
+vestimokrec collected $2 from pot
+vestimokrec: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: Pepperlina (button) (small blind) folded before Flop
+Seat 7: vestimokrec (big blind) collected ($2)
+
+
+PokerStars Hand #167804315750:  Hold'em Limit ($3/$6 USD) - 2017/03/19 10:58:26 ET
+Table 'Ajax' 10-max Seat #7 is the button
+Seat 5: Pepperlina ($72 in chips)
+Seat 7: vestimokrec ($160.66 in chips)
+vestimokrec: posts small blind $1
+Pepperlina: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+Pepperlina: calls $3
+*** FLOP *** [5d 9h 3d]
+Pepperlina: checks
+vestimokrec: checks
+*** TURN *** [5d 9h 3d] [2s]
+Pepperlina: bets $6
+vestimokrec: calls $6
+*** RIVER *** [5d 9h 3d 2s] [5s]
+Pepperlina: bets $6
+vestimokrec: calls $6
+*** SHOW DOWN ***
+Pepperlina: shows [6c Js] (a pair of Fives)
+vestimokrec: shows [Jh 3h] (two pair, Fives and Threes)
+vestimokrec collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5d 9h 3d 2s 5s]
+Seat 5: Pepperlina (big blind) showed [6c Js] and lost with a pair of Fives
+Seat 7: vestimokrec (button) (small blind) showed [Jh 3h] and won ($35.50) with two pair, Fives and Threes
+
+
+PokerStars Hand #167804333508:  Hold'em Limit ($3/$6 USD) - 2017/03/19 10:58:56 ET
+Table 'Ajax' 10-max Seat #7 is the button
+Seat 5: Pepperlina ($53 in chips)
+Seat 7: vestimokrec ($179.16 in chips)
+vestimokrec: posts small blind $1
+Pepperlina: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+Pepperlina: calls $3
+*** FLOP *** [Jh Ts 2d]
+Pepperlina: checks
+vestimokrec: bets $3
+Pepperlina: folds
+Uncalled bet ($3) returned to vestimokrec
+vestimokrec collected $11.76 from pot
+vestimokrec: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jh Ts 2d]
+Seat 5: Pepperlina (big blind) folded on the Flop
+Seat 7: vestimokrec (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #167804342994:  Hold'em Limit ($3/$6 USD) - 2017/03/19 10:59:12 ET
+Table 'Ajax' 10-max Seat #5 is the button
+Seat 5: Pepperlina ($47 in chips)
+Seat 7: vestimokrec ($184.92 in chips)
+Pepperlina: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+Pepperlina: calls $2
+vestimokrec: checks
+*** FLOP *** [4s 7d Ts]
+vestimokrec: checks
+yamaxerm joins the table at seat #6
+Pepperlina: bets $3
+vestimokrec: calls $3
+*** TURN *** [4s 7d Ts] [Qh]
+vestimokrec: checks
+Pepperlina: bets $6
+vestimokrec: folds
+Uncalled bet ($6) returned to Pepperlina
+Pepperlina collected $11.76 from pot
+Pepperlina: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4s 7d Ts Qh]
+Seat 5: Pepperlina (button) (small blind) collected ($11.76)
+Seat 7: vestimokrec (big blind) folded on the Turn
+
+

@@ -1,0 +1,57 @@
+PokerStars Hand #158032160346:  Hold'em Limit ($3/$6 USD) - 2016/09/01 16:20:02 ET
+Table 'Arnica II' 6-max Seat #4 is the button
+Seat 3: WesleyBeatsu ($119 in chips)
+Seat 4: Actionni13 ($151 in chips)
+Actionni13: posts small blind $1
+WesleyBeatsu: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+WesleyBeatsu: calls $3
+*** FLOP *** [6d 9c Qd]
+WesleyBeatsu: checks
+Actionni13: bets $3
+WesleyBeatsu: raises $3 to $6
+Actionni13: raises $3 to $9
+WesleyBeatsu: calls $3
+*** TURN *** [6d 9c Qd] [Js]
+WesleyBeatsu: checks
+Actionni13: checks
+*** RIVER *** [6d 9c Qd Js] [Kh]
+WesleyBeatsu: bets $6
+Actionni13: raises $6 to $12
+WesleyBeatsu: calls $6
+*** SHOW DOWN ***
+Actionni13: shows [5d 7d] (high card King)
+WesleyBeatsu: shows [Th Ks] (a straight, Nine to King)
+WesleyBeatsu collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [6d 9c Qd Js Kh]
+Seat 3: WesleyBeatsu (big blind) showed [Th Ks] and won ($53.50) with a straight, Nine to King
+Seat 4: Actionni13 (button) (small blind) showed [5d 7d] and lost with high card King
+
+
+PokerStars Hand #158032191152:  Hold'em Limit ($3/$6 USD) - 2016/09/01 16:20:38 ET
+Table 'Arnica II' 6-max Seat #3 is the button
+Seat 3: WesleyBeatsu ($145.50 in chips)
+Seat 4: Actionni13 ($150 in chips)
+WesleyBeatsu: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+WesleyBeatsu: raises $3 to $6
+Actionni13: calls $3
+*** FLOP *** [Ah 8s 6d]
+Actionni13: checks
+WesleyBeatsu: bets $3
+Actionni13: raises $3 to $6
+WesleyBeatsu: folds
+Uncalled bet ($3) returned to Actionni13
+Actionni13 collected $17.64 from pot
+Actionni13: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ah 8s 6d]
+Seat 3: WesleyBeatsu (button) (small blind) folded on the Flop
+Seat 4: Actionni13 (big blind) collected ($17.64)
+
+

@@ -1,0 +1,64 @@
+PokerStars Hand #162187993132:  Hold'em Limit ($3/$6 USD) - 2016/11/30 10:30:05 ET
+Table 'Celuta' 6-max Seat #3 is the button
+Seat 2: Franky4Four ($71 in chips)
+Seat 3: kolaz03 ($72 in chips)
+kolaz03: posts small blind $1
+assitoni: is sitting out
+Franky4Four: posts big blind $3
+*** HOLE CARDS ***
+assitoni leaves the table
+kolaz03: raises $3 to $6
+Franky4Four: calls $3
+*** FLOP *** [6h Tc 6d]
+Franky4Four: checks
+kolaz03: bets $3
+Franky4Four: calls $3
+*** TURN *** [6h Tc 6d] [Qc]
+Franky4Four: checks
+kolaz03: bets $6
+Franky4Four: folds
+Uncalled bet ($6) returned to kolaz03
+kolaz03 collected $17.64 from pot
+kolaz03: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6h Tc 6d Qc]
+Seat 2: Franky4Four (big blind) folded on the Turn
+Seat 3: kolaz03 (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #162188013907:  Hold'em Limit ($3/$6 USD) - 2016/11/30 10:30:34 ET
+Table 'Celuta' 6-max Seat #2 is the button
+Seat 2: Franky4Four ($62 in chips)
+Seat 3: kolaz03 ($80.64 in chips)
+Franky4Four: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+Franky4Four: calls $2
+RockKillerTY joins the table at seat #4
+kolaz03: raises $3 to $6
+Franky4Four: raises $3 to $9
+kolaz03: raises $3 to $12
+Betting is capped
+Franky4Four: calls $3
+*** FLOP *** [6s 2s 3s]
+kolaz03: bets $3
+Franky4Four: calls $3
+*** TURN *** [6s 2s 3s] [4c]
+kolaz03: bets $6
+Franky4Four: calls $6
+*** RIVER *** [6s 2s 3s 4c] [7c]
+kolaz03: bets $6
+Franky4Four: raises $6 to $12
+kolaz03: calls $6
+*** SHOW DOWN ***
+Franky4Four: shows [Ah 7h] (a pair of Sevens)
+kolaz03: shows [4d 5d] (a straight, Three to Seven)
+kolaz03 collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [6s 2s 3s 4c 7c]
+Seat 2: Franky4Four (button) (small blind) showed [Ah 7h] and lost with a pair of Sevens
+Seat 3: kolaz03 (big blind) showed [4d 5d] and won ($65.50) with a straight, Three to Seven
+
+

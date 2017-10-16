@@ -1,0 +1,523 @@
+PokerStars Hand #144786965258:  Hold'em Limit ($3/$6 USD) - 2015/12/03 20:21:01 ET
+Table 'Maritima II' 6-max Seat #3 is the button
+Seat 1: LukaSteel ($173.90 in chips)
+Seat 3: boogi ($38.58 in chips)
+boogi: posts small blind $1
+artiZzt: is sitting out
+LukaSteel: posts big blind $3
+*** HOLE CARDS ***
+boogi: raises $3 to $6
+artiZzt leaves the table
+LukaSteel: calls $3
+*** FLOP *** [5h Js 7c]
+LukaSteel: checks
+boogi: checks
+*** TURN *** [5h Js 7c] [Jc]
+LukaSteel: bets $6
+boogi: calls $6
+*** RIVER *** [5h Js 7c Jc] [Qc]
+LukaSteel: bets $6
+boogi has timed out
+boogi: folds
+Uncalled bet ($6) returned to LukaSteel
+LukaSteel collected $23.52 from pot
+LukaSteel: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [5h Js 7c Jc Qc]
+Seat 1: LukaSteel (big blind) collected ($23.52)
+Seat 3: boogi (button) (small blind) folded on the River
+
+
+PokerStars Hand #144788375504:  Hold'em Limit ($3/$6 USD) - 2015/12/03 21:11:17 ET
+Table 'Maritima II' 6-max Seat #1 is the button
+Seat 1: mdif ($120 in chips)
+Seat 4: hairy1961 ($60 in chips)
+mdif: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+hairy1961: calls $3
+*** FLOP *** [Ah 3s Qd]
+hairy1961: checks
+mdif: bets $3
+hairy1961: raises $3 to $6
+mdif: folds
+Uncalled bet ($3) returned to hairy1961
+hairy1961 collected $17.64 from pot
+hairy1961: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ah 3s Qd]
+Seat 1: mdif (button) (small blind) folded on the Flop
+Seat 4: hairy1961 (big blind) collected ($17.64)
+
+
+PokerStars Hand #144788384474:  Hold'em Limit ($3/$6 USD) - 2015/12/03 21:11:37 ET
+Table 'Maritima II' 6-max Seat #4 is the button
+Seat 1: mdif ($120 in chips)
+Seat 4: hairy1961 ($68.64 in chips)
+hairy1961: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+hairy1961: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [6d Kh 4d]
+mdif: checks
+hairy1961: bets $3
+mdif: calls $3
+*** TURN *** [6d Kh 4d] [2s]
+mdif: checks
+hairy1961: bets $6
+mdif: calls $6
+*** RIVER *** [6d Kh 4d 2s] [3s]
+mdif: checks
+hairy1961: bets $6
+mdif: raises $6 to $12
+hairy1961: calls $6
+*** SHOW DOWN ***
+mdif: shows [2h 3h] (two pair, Threes and Deuces)
+hairy1961: mucks hand
+mdif collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [6d Kh 4d 2s 3s]
+Seat 1: mdif (big blind) showed [2h 3h] and won ($53.50) with two pair, Threes and Deuces
+Seat 4: hairy1961 (button) (small blind) mucked
+
+
+PokerStars Hand #144788397781:  Hold'em Limit ($3/$6 USD) - 2015/12/03 21:12:07 ET
+Table 'Maritima II' 6-max Seat #4 is the button
+Seat 1: mdif ($145.50 in chips)
+Seat 4: hairy1961 ($42.64 in chips)
+hairy1961: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+hairy1961: folds
+Uncalled bet ($2) returned to mdif
+mdif collected $2 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: mdif (big blind) collected ($2)
+Seat 4: hairy1961 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #144788395328:  Hold'em Limit ($3/$6 USD) - 2015/12/03 21:12:02 ET
+Table 'Maritima II' 6-max Seat #1 is the button
+Seat 1: mdif ($146.50 in chips)
+Seat 4: hairy1961 ($41.64 in chips)
+mdif: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+mdif: folds
+Uncalled bet ($2) returned to hairy1961
+hairy1961 collected $2 from pot
+hairy1961: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: mdif (button) (small blind) folded before Flop
+Seat 4: hairy1961 (big blind) collected ($2)
+
+
+PokerStars Hand #144788400536:  Hold'em Limit ($3/$6 USD) - 2015/12/03 21:12:13 ET
+Table 'Maritima II' 6-max Seat #1 is the button
+Seat 1: mdif ($146.50 in chips)
+Seat 4: hairy1961 ($41.64 in chips)
+mdif: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+hairy1961: raises $3 to $9
+mdif: calls $3
+*** FLOP *** [2s 9s As]
+hairy1961: bets $3
+mdif: calls $3
+*** TURN *** [2s 9s As] [8h]
+hairy1961: bets $6
+mdif: calls $6
+*** RIVER *** [2s 9s As 8h] [Qc]
+hairy1961: checks
+mdif: checks
+*** SHOW DOWN ***
+hairy1961: shows [Kh Jh] (high card Ace)
+mdif: shows [Js 9d] (a pair of Nines)
+mdif collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [2s 9s As 8h Qc]
+Seat 1: mdif (button) (small blind) showed [Js 9d] and won ($35.50) with a pair of Nines
+Seat 4: hairy1961 (big blind) showed [Kh Jh] and lost with high card Ace
+
+
+PokerStars Hand #144788413439:  Hold'em Limit ($3/$6 USD) - 2015/12/03 21:12:43 ET
+Table 'Maritima II' 6-max Seat #1 is the button
+Seat 1: mdif ($161 in chips)
+Seat 4: hairy1961 ($26.64 in chips)
+mdif: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+hairy1961: folds
+Uncalled bet ($3) returned to mdif
+mdif collected $6 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: mdif (button) (small blind) collected ($6)
+Seat 4: hairy1961 (big blind) folded before Flop
+
+
+PokerStars Hand #144788410466:  Hold'em Limit ($3/$6 USD) - 2015/12/03 21:12:36 ET
+Table 'Maritima II' 6-max Seat #4 is the button
+Seat 1: mdif ($164 in chips)
+Seat 4: hairy1961 ($23.64 in chips)
+hairy1961: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+hairy1961: raises $3 to $6
+mdif: folds
+Uncalled bet ($3) returned to hairy1961
+hairy1961 collected $6 from pot
+hairy1961: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: mdif (big blind) folded before Flop
+Seat 4: hairy1961 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #144788416003:  Hold'em Limit ($3/$6 USD) - 2015/12/03 21:12:49 ET
+Table 'Maritima II' 6-max Seat #4 is the button
+Seat 1: mdif ($164 in chips)
+Seat 4: hairy1961 ($23.64 in chips)
+hairy1961: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+hairy1961: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [3d Ts 7s]
+mdif: checks
+hairy1961: bets $3
+mdif: calls $3
+*** TURN *** [3d Ts 7s] [Jc]
+mdif: checks
+hairy1961: bets $6
+mdif: raises $6 to $12
+hairy1961: calls $6
+*** RIVER *** [3d Ts 7s Jc] [4s]
+mdif: bets $6
+hairy1961: calls $2.64 and is all-in
+Uncalled bet ($3.36) returned to mdif
+*** SHOW DOWN ***
+mdif: shows [Td 9h] (a pair of Tens)
+hairy1961: shows [4h Th] (two pair, Tens and Fours)
+hairy1961 collected $46.78 from pot
+*** SUMMARY ***
+Total pot $47.28 | Rake $0.50
+Board [3d Ts 7s Jc 4s]
+Seat 1: mdif (big blind) showed [Td 9h] and lost with a pair of Tens
+Seat 4: hairy1961 (button) (small blind) showed [4h Th] and won ($46.78) with two pair, Tens and Fours
+
+
+PokerStars Hand #144788429093:  Hold'em Limit ($3/$6 USD) - 2015/12/03 21:13:19 ET
+Table 'Maritima II' 6-max Seat #4 is the button
+Seat 1: mdif ($143.36 in chips)
+Seat 4: hairy1961 ($43.78 in chips)
+hairy1961: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+hairy1961: folds
+Uncalled bet ($2) returned to mdif
+mdif collected $2 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: mdif (big blind) collected ($2)
+Seat 4: hairy1961 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #144788426370:  Hold'em Limit ($3/$6 USD) - 2015/12/03 21:13:13 ET
+Table 'Maritima II' 6-max Seat #1 is the button
+Seat 1: mdif ($140.36 in chips)
+Seat 4: hairy1961 ($46.78 in chips)
+mdif: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+hairy1961: folds
+Uncalled bet ($3) returned to mdif
+mdif collected $6 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: mdif (button) (small blind) collected ($6)
+Seat 4: hairy1961 (big blind) folded before Flop
+
+
+PokerStars Hand #144788431840:  Hold'em Limit ($3/$6 USD) - 2015/12/03 21:13:25 ET
+Table 'Maritima II' 6-max Seat #1 is the button
+Seat 1: mdif ($144.36 in chips)
+Seat 4: hairy1961 ($42.78 in chips)
+mdif: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+hairy1961: calls $3
+*** FLOP *** [9s Ad 2h]
+hairy1961: checks
+mdif: bets $3
+hairy1961: calls $3
+*** TURN *** [9s Ad 2h] [Jc]
+hairy1961: checks
+mdif: checks
+*** RIVER *** [9s Ad 2h Jc] [7d]
+hairy1961: bets $6
+mdif: raises $6 to $12
+hairy1961: calls $6
+*** SHOW DOWN ***
+mdif: shows [7h 7s] (three of a kind, Sevens)
+hairy1961: mucks hand
+mdif collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9s Ad 2h Jc 7d]
+Seat 1: mdif (button) (small blind) showed [7h 7s] and won ($41.50) with three of a kind, Sevens
+Seat 4: hairy1961 (big blind) mucked
+
+
+PokerStars Hand #144788442192:  Hold'em Limit ($3/$6 USD) - 2015/12/03 21:13:49 ET
+Table 'Maritima II' 6-max Seat #4 is the button
+Seat 1: mdif ($164.86 in chips)
+Seat 4: hairy1961 ($21.78 in chips)
+hairy1961: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+hairy1961: calls $2
+mdif: raises $3 to $6
+hairy1961: raises $3 to $9
+mdif: calls $3
+*** FLOP *** [Jc Td 7s]
+mdif: checks
+hairy1961: bets $3
+mdif: calls $3
+*** TURN *** [Jc Td 7s] [Qd]
+mdif: checks
+hairy1961: bets $6
+mdif: folds
+Uncalled bet ($6) returned to hairy1961
+hairy1961 collected $23.52 from pot
+hairy1961: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Jc Td 7s Qd]
+Seat 1: mdif (big blind) folded on the Turn
+Seat 4: hairy1961 (button) (small blind) collected ($23.52)
+
+
+PokerStars Hand #144788460099:  Hold'em Limit ($3/$6 USD) - 2015/12/03 21:14:30 ET
+Table 'Maritima II' 6-max Seat #4 is the button
+Seat 1: mdif ($140.86 in chips)
+Seat 4: hairy1961 ($44.82 in chips)
+hairy1961: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+hairy1961: folds
+Uncalled bet ($2) returned to mdif
+mdif collected $2 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: mdif (big blind) collected ($2)
+Seat 4: hairy1961 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #144788452042:  Hold'em Limit ($3/$6 USD) - 2015/12/03 21:14:11 ET
+Table 'Maritima II' 6-max Seat #1 is the button
+Seat 1: mdif ($152.86 in chips)
+Seat 4: hairy1961 ($33.30 in chips)
+mdif: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+hairy1961: raises $3 to $9
+mdif: calls $3
+*** FLOP *** [Jh 5d 3c]
+hairy1961: bets $3
+mdif: calls $3
+*** TURN *** [Jh 5d 3c] [2d]
+hairy1961: bets $6
+mdif: folds
+Uncalled bet ($6) returned to hairy1961
+hairy1961 collected $23.52 from pot
+hairy1961: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Jh 5d 3c 2d]
+Seat 1: mdif (button) (small blind) folded on the Turn
+Seat 4: hairy1961 (big blind) collected ($23.52)
+
+
+PokerStars Hand #144788462699:  Hold'em Limit ($3/$6 USD) - 2015/12/03 21:14:35 ET
+Table 'Maritima II' 6-max Seat #1 is the button
+Seat 1: mdif ($141.86 in chips)
+Seat 4: hairy1961 ($43.82 in chips)
+mdif: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+mdif: folds
+Uncalled bet ($2) returned to hairy1961
+hairy1961 collected $2 from pot
+hairy1961: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: mdif (button) (small blind) folded before Flop
+Seat 4: hairy1961 (big blind) collected ($2)
+
+
+PokerStars Hand #144788464899:  Hold'em Limit ($3/$6 USD) - 2015/12/03 21:14:40 ET
+Table 'Maritima II' 6-max Seat #4 is the button
+Seat 1: mdif ($140.86 in chips)
+Seat 4: hairy1961 ($44.82 in chips)
+hairy1961: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+hairy1961: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [8h Tc 9d]
+mdif: checks
+hairy1961: checks
+*** TURN *** [8h Tc 9d] [Kh]
+mdif: checks
+hairy1961: bets $6
+mdif: calls $6
+*** RIVER *** [8h Tc 9d Kh] [6s]
+mdif: checks
+hairy1961: bets $6
+mdif: calls $6
+*** SHOW DOWN ***
+hairy1961: shows [Ac 2h] (high card Ace)
+mdif: shows [Qc 9h] (a pair of Nines)
+mdif collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [8h Tc 9d Kh 6s]
+Seat 1: mdif (big blind) showed [Qc 9h] and won ($35.50) with a pair of Nines
+Seat 4: hairy1961 (button) (small blind) showed [Ac 2h] and lost with high card Ace
+
+
+PokerStars Hand #144788474528:  Hold'em Limit ($3/$6 USD) - 2015/12/03 21:15:02 ET
+Table 'Maritima II' 6-max Seat #1 is the button
+Seat 1: mdif ($158.36 in chips)
+Seat 4: hairy1961 ($26.82 in chips)
+mdif: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+hairy1961: calls $3
+*** FLOP *** [7d 2h Js]
+hairy1961: checks
+mdif: bets $3
+hairy1961: folds
+Uncalled bet ($3) returned to mdif
+mdif collected $11.76 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7d 2h Js]
+Seat 1: mdif (button) (small blind) collected ($11.76)
+Seat 4: hairy1961 (big blind) folded on the Flop
+
+
+PokerStars Hand #144788480184:  Hold'em Limit ($3/$6 USD) - 2015/12/03 21:15:16 ET
+Table 'Maritima II' 6-max Seat #4 is the button
+Seat 1: mdif ($164.12 in chips)
+Seat 4: hairy1961 ($20.82 in chips)
+hairy1961: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+hairy1961: raises $3 to $6
+mdif: folds
+Uncalled bet ($3) returned to hairy1961
+hairy1961 collected $6 from pot
+hairy1961: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: mdif (big blind) folded before Flop
+Seat 4: hairy1961 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #144788483431:  Hold'em Limit ($3/$6 USD) - 2015/12/03 21:15:23 ET
+Table 'Maritima II' 6-max Seat #1 is the button
+Seat 1: mdif ($161.12 in chips)
+Seat 4: hairy1961 ($23.82 in chips)
+mdif: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+hairy1961: folds
+Uncalled bet ($3) returned to mdif
+mdif collected $6 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: mdif (button) (small blind) collected ($6)
+Seat 4: hairy1961 (big blind) folded before Flop
+
+
+PokerStars Hand #144788486205:  Hold'em Limit ($3/$6 USD) - 2015/12/03 21:15:29 ET
+Table 'Maritima II' 6-max Seat #4 is the button
+Seat 1: mdif ($164.12 in chips)
+Seat 4: hairy1961 ($20.82 in chips)
+hairy1961: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+hairy1961: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [2d Qs 4c]
+mdif: checks
+hairy1961: checks
+*** TURN *** [2d Qs 4c] [As]
+mdif: checks
+hairy1961: checks
+*** RIVER *** [2d Qs 4c As] [7c]
+mdif: bets $6
+hairy1961: folds
+Uncalled bet ($6) returned to mdif
+mdif collected $11.76 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2d Qs 4c As 7c]
+Seat 1: mdif (big blind) collected ($11.76)
+Seat 4: hairy1961 (button) (small blind) folded on the River
+
+
+PokerStars Hand #144788495777:  Hold'em Limit ($3/$6 USD) - 2015/12/03 21:15:51 ET
+Table 'Maritima II' 6-max Seat #1 is the button
+Seat 1: mdif ($169.88 in chips)
+Seat 4: hairy1961 ($14.82 in chips)
+mdif: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+hairy1961: calls $3
+*** FLOP *** [3s Jh 9c]
+hairy1961: checks
+mdif: bets $3
+hairy1961: raises $3 to $6
+mdif: raises $3 to $9
+hairy1961: calls $2.82 and is all-in
+Uncalled bet ($0.18) returned to mdif
+*** TURN *** [3s Jh 9c] [8h]
+*** RIVER *** [3s Jh 9c 8h] [2c]
+*** SHOW DOWN ***
+hairy1961: shows [7c 9d] (a pair of Nines)
+mdif: shows [Qd 9s] (a pair of Nines - Queen kicker)
+mdif collected $29.14 from pot
+*** SUMMARY ***
+Total pot $29.64 | Rake $0.50
+Board [3s Jh 9c 8h 2c]
+Seat 1: mdif (button) (small blind) showed [Qd 9s] and won ($29.14) with a pair of Nines
+Seat 4: hairy1961 (big blind) showed [7c 9d] and lost with a pair of Nines
+
+

@@ -1,0 +1,66 @@
+PokerStars Hand #154543297850:  Hold'em Limit ($3/$6 USD) - 2016/06/10 8:38:38 ET
+Table 'Denebola' 6-max Seat #5 is the button
+Seat 4: Airbag999 ($182.87 in chips)
+Seat 5: Mordnilap ($77.61 in chips)
+Mordnilap: posts small blind $1
+happyyak: is sitting out
+Airbag999: posts big blind $3
+*** HOLE CARDS ***
+Mordnilap: raises $3 to $6
+Abbe77 leaves the table
+Airbag999: calls $3
+*** FLOP *** [Qc Ks 5s]
+Airbag999: checks
+Mordnilap: bets $3
+Airbag999: raises $3 to $6
+Mordnilap: calls $3
+*** TURN *** [Qc Ks 5s] [6c]
+Airbag999: bets $6
+Mordnilap: calls $6
+*** RIVER *** [Qc Ks 5s 6c] [2h]
+Airbag999: bets $6
+Mordnilap: calls $6
+*** SHOW DOWN ***
+Airbag999: shows [Js 7s] (high card King)
+Mordnilap: shows [3d 5d] (a pair of Fives)
+Mordnilap collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Qc Ks 5s 6c 2h]
+Seat 4: Airbag999 (big blind) showed [Js 7s] and lost with high card King
+Seat 5: Mordnilap (button) (small blind) showed [3d 5d] and won ($47.50) with a pair of Fives
+
+
+PokerStars Hand #154544079335:  Hold'em Limit ($3/$6 USD) - 2016/06/10 9:04:29 ET
+Table 'Denebola' 6-max Seat #2 is the button
+Seat 1: Airbag999 ($261.34 in chips)
+Seat 2: SharkPro100 ($26.04 in chips)
+SharkPro100: posts small blind $1
+Airbag999: posts big blind $3
+*** HOLE CARDS ***
+SharkPro100: raises $3 to $6
+Airbag999: calls $3
+*** FLOP *** [4c 4s 5c]
+Airbag999: checks
+SharkPro100: bets $3
+Airbag999: raises $3 to $6
+SharkPro100: calls $3
+*** TURN *** [4c 4s 5c] [Qc]
+Airbag999: bets $6
+SharkPro100: raises $6 to $12
+Airbag999: calls $6
+*** RIVER *** [4c 4s 5c Qc] [6h]
+Airbag999: checks
+SharkPro100: bets $2.04 and is all-in
+Airbag999: calls $2.04
+*** SHOW DOWN ***
+SharkPro100: shows [Ad Qs] (two pair, Queens and Fours)
+Airbag999: shows [5s 7s] (two pair, Fives and Fours)
+SharkPro100 collected $51.58 from pot
+*** SUMMARY ***
+Total pot $52.08 | Rake $0.50
+Board [4c 4s 5c Qc 6h]
+Seat 1: Airbag999 (big blind) showed [5s 7s] and lost with two pair, Fives and Fours
+Seat 2: SharkPro100 (button) (small blind) showed [Ad Qs] and won ($51.58) with two pair, Queens and Fours
+
+

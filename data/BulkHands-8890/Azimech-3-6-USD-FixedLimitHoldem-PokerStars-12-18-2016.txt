@@ -1,0 +1,102 @@
+PokerStars Hand #163115423048:  Hold'em Limit ($3/$6 USD) - 2016/12/17 20:58:43 ET
+Table 'Azimech' 6-max Seat #3 is the button
+Seat 2: kusznak ($88.50 in chips)
+Seat 3: ToDaFelt ($154.23 in chips)
+ToDaFelt: posts small blind $1
+rascal_319: is sitting out
+kusznak: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+kusznak: calls $3
+*** FLOP *** [Ad Kh 8s]
+kusznak: checks
+ToDaFelt: bets $3
+kusznak: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $11.76 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ad Kh 8s]
+Seat 2: kusznak (big blind) folded on the Flop
+Seat 3: ToDaFelt (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #163115431417:  Hold'em Limit ($3/$6 USD) - 2016/12/17 20:59:01 ET
+Table 'Azimech' 6-max Seat #2 is the button
+Seat 2: kusznak ($82.50 in chips)
+Seat 3: ToDaFelt ($159.99 in chips)
+kusznak: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+kusznak: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [2s Ts 7d]
+ToDaFelt: checks
+kusznak: bets $3
+ToDaFelt: raises $3 to $6
+kusznak: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $17.64 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2s Ts 7d]
+Seat 2: kusznak (button) (small blind) folded on the Flop
+Seat 3: ToDaFelt (big blind) collected ($17.64)
+
+
+PokerStars Hand #163115441985:  Hold'em Limit ($3/$6 USD) - 2016/12/17 20:59:25 ET
+Table 'Azimech' 6-max Seat #3 is the button
+Seat 2: kusznak ($73.50 in chips)
+Seat 3: ToDaFelt ($168.63 in chips)
+ToDaFelt: posts small blind $1
+kusznak: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+kusznak: calls $3
+*** FLOP *** [4h 4d 9d]
+kusznak: checks
+ToDaFelt: bets $3
+kusznak: raises $3 to $6
+ToDaFelt: folds
+Uncalled bet ($3) returned to kusznak
+kusznak collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4h 4d 9d]
+Seat 2: kusznak (big blind) collected ($17.64)
+Seat 3: ToDaFelt (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #163115458113:  Hold'em Limit ($3/$6 USD) - 2016/12/17 21:00:02 ET
+Table 'Azimech' 6-max Seat #2 is the button
+Seat 2: kusznak ($82.14 in chips)
+Seat 3: ToDaFelt ($159.63 in chips)
+kusznak: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+kusznak: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [6s Td 4h]
+ToDaFelt: checks
+kusznak: bets $3
+ToDaFelt: raises $3 to $6
+kusznak: calls $3
+*** TURN *** [6s Td 4h] [Ac]
+ToDaFelt: checks
+kusznak: checks
+*** RIVER *** [6s Td 4h Ac] [Jh]
+ToDaFelt: bets $6
+kusznak: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [2s 7s] (high card Ace)
+kusznak: shows [9c Jd] (a pair of Jacks)
+kusznak collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6s Td 4h Ac Jh]
+Seat 2: kusznak (button) (small blind) showed [9c Jd] and won ($35.50) with a pair of Jacks
+Seat 3: ToDaFelt (big blind) showed [2s 7s] and lost with high card Ace
+
+

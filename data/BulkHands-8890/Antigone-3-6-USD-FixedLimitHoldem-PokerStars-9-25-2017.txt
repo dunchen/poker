@@ -1,0 +1,64 @@
+PokerStars Hand #176095538110:  Hold'em Limit ($3/$6 USD) - 2017/09/25 5:33:32 ET
+Table 'Antigone' 6-max Seat #4 is the button
+Seat 4: Anchig ($120 in chips)
+Seat 5: nordschrott ($40.53 in chips)
+Anchig: posts small blind $1
+nordschrott: posts big blind $3
+*** HOLE CARDS ***
+Anchig: raises $3 to $6
+nordschrott: calls $3
+*** FLOP *** [3s 3d As]
+nordschrott: checks
+Anchig: bets $3
+nordschrott: calls $3
+*** TURN *** [3s 3d As] [Ac]
+nordschrott: checks
+Anchig: bets $6
+nordschrott: calls $6
+*** RIVER *** [3s 3d As Ac] [9h]
+nordschrott: checks
+Anchig: bets $6
+nordschrott: calls $6
+*** SHOW DOWN ***
+Anchig: shows [6h 9s] (two pair, Aces and Nines)
+nordschrott: mucks hand
+Anchig collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [3s 3d As Ac 9h]
+Seat 4: Anchig (button) (small blind) showed [6h 9s] and won ($41.50) with two pair, Aces and Nines
+Seat 5: nordschrott (big blind) mucked
+
+
+PokerStars Hand #176095544160:  Hold'em Limit ($3/$6 USD) - 2017/09/25 5:33:50 ET
+Table 'Antigone' 6-max Seat #5 is the button
+Seat 4: Anchig ($140.50 in chips)
+Seat 5: nordschrott ($19.53 in chips)
+nordschrott: posts small blind $1
+Anchig: posts big blind $3
+*** HOLE CARDS ***
+nordschrott: calls $2
+Anchig: checks
+*** FLOP *** [4d Jd 9d]
+Anchig: bets $3
+nordschrott: raises $3 to $6
+Anchig: raises $3 to $9
+nordschrott: raises $3 to $12
+Betting is capped
+Anchig: calls $3
+*** TURN *** [4d Jd 9d] [As]
+Anchig: bets $6
+nordschrott: calls $4.53 and is all-in
+Uncalled bet ($1.47) returned to Anchig
+*** RIVER *** [4d Jd 9d As] [Tc]
+*** SHOW DOWN ***
+Anchig: shows [7d 2d] (a flush, Jack high)
+nordschrott: shows [Ad 6c] (a pair of Aces)
+Anchig collected $38.56 from pot
+*** SUMMARY ***
+Total pot $39.06 | Rake $0.50
+Board [4d Jd 9d As Tc]
+Seat 4: Anchig (big blind) showed [7d 2d] and won ($38.56) with a flush, Jack high
+Seat 5: nordschrott (button) (small blind) showed [Ad 6c] and lost with a pair of Aces
+
+

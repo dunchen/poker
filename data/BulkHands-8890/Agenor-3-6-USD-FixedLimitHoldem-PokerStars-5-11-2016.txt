@@ -1,0 +1,59 @@
+PokerStars Hand #153182617261:  Hold'em Limit ($3/$6 USD) - 2016/05/11 18:16:52 ET
+Table 'Agenor' 6-max Seat #6 is the button
+Seat 3: basetang ($186 in chips)
+Seat 6: SmellyToes4u ($56 in chips)
+SmellyToes4u: posts small blind $1
+basetang: posts big blind $3
+*** HOLE CARDS ***
+SmellyToes4u: raises $3 to $6
+basetang: calls $3
+*** FLOP *** [6s 8s Kc]
+basetang: checks
+SmellyToes4u: bets $3
+basetang: calls $3
+*** TURN *** [6s 8s Kc] [3s]
+basetang: checks
+SmellyToes4u: bets $6
+basetang: folds
+Uncalled bet ($6) returned to SmellyToes4u
+SmellyToes4u collected $17.64 from pot
+SmellyToes4u: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6s 8s Kc 3s]
+Seat 3: basetang (big blind) folded on the Turn
+Seat 6: SmellyToes4u (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #153182634068:  Hold'em Limit ($3/$6 USD) - 2016/05/11 18:17:14 ET
+Table 'Agenor' 6-max Seat #3 is the button
+Seat 3: basetang ($177 in chips)
+Seat 6: SmellyToes4u ($64.64 in chips)
+basetang: posts small blind $1
+SmellyToes4u: posts big blind $3
+*** HOLE CARDS ***
+basetang: raises $3 to $6
+SmellyToes4u: calls $3
+*** FLOP *** [5h 6h 3d]
+SmellyToes4u: checks
+basetang: bets $3
+SmellyToes4u: raises $3 to $6
+basetang: calls $3
+*** TURN *** [5h 6h 3d] [2c]
+Muhamed999 joins the table at seat #2
+SmellyToes4u: bets $6
+basetang: calls $6
+*** RIVER *** [5h 6h 3d 2c] [2s]
+SmellyToes4u: checks
+basetang: checks
+*** SHOW DOWN ***
+SmellyToes4u: shows [Qd Kd] (a pair of Deuces)
+basetang: shows [Ts 5s] (two pair, Fives and Deuces)
+basetang collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5h 6h 3d 2c 2s]
+Seat 3: basetang (button) (small blind) showed [Ts 5s] and won ($35.50) with two pair, Fives and Deuces
+Seat 6: SmellyToes4u (big blind) showed [Qd Kd] and lost with a pair of Deuces
+
+

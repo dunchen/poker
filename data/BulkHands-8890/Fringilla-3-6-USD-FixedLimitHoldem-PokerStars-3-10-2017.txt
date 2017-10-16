@@ -1,0 +1,63 @@
+PokerStars Hand #167378545547:  Hold'em Limit ($3/$6 USD) - 2017/03/10 7:46:05 ET
+Table 'Fringilla' 6-max Seat #2 is the button
+Seat 1: Agrotait ($75 in chips)
+Seat 2: parnishka11 ($36.19 in chips)
+parnishka11: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+parnishka11: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [8c 7c 9d]
+Agrotait: bets $3
+parnishka11: raises $3 to $6
+Agrotait: calls $3
+*** TURN *** [8c 7c 9d] [Kd]
+Agrotait: checks
+parnishka11: bets $6
+Agrotait: calls $6
+*** RIVER *** [8c 7c 9d Kd] [5h]
+Agrotait: checks
+parnishka11: checks
+*** SHOW DOWN ***
+Agrotait: shows [4s 8d] (a pair of Eights)
+parnishka11: shows [Kc 4d] (a pair of Kings)
+parnishka11 collected $35.50 from pot
+ionellu joins the table at seat #6
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [8c 7c 9d Kd 5h]
+Seat 1: Agrotait (big blind) showed [4s 8d] and lost with a pair of Eights
+Seat 2: parnishka11 (button) (small blind) showed [Kc 4d] and won ($35.50) with a pair of Kings
+
+
+PokerStars Hand #167378555800:  Hold'em Limit ($3/$6 USD) - 2017/03/10 7:46:26 ET
+Table 'Fringilla' 6-max Seat #1 is the button
+Seat 1: Agrotait ($72 in chips)
+Seat 2: parnishka11 ($53.69 in chips)
+Agrotait: posts small blind $1
+parnishka11: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+parnishka11: calls $3
+*** FLOP *** [2c Kd 9s]
+parnishka11: checks
+Agrotait: bets $3
+parnishka11: calls $3
+*** TURN *** [2c Kd 9s] [3d]
+parnishka11: checks
+Agrotait: bets $6
+parnishka11: calls $6
+*** RIVER *** [2c Kd 9s 3d] [Ah]
+parnishka11: checks
+Agrotait: checks
+*** SHOW DOWN ***
+parnishka11: shows [2s 4s] (a pair of Deuces)
+Agrotait: mucks hand
+parnishka11 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2c Kd 9s 3d Ah]
+Seat 1: Agrotait (button) (small blind) mucked
+Seat 2: parnishka11 (big blind) showed [2s 4s] and won ($29.50) with a pair of Deuces
+
+

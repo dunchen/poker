@@ -1,0 +1,54 @@
+PokerStars Hand #144365770859:  Hold'em Limit ($3/$6 USD) - 2015/11/25 11:46:27 ET
+Table 'Pompeja' 2-max Seat #2 is the button
+Seat 1: s83s ($120 in chips)
+Seat 2: Pandakey ($120 in chips)
+Pandakey: posts small blind $1
+s83s: posts big blind $3
+*** HOLE CARDS ***
+Pandakey: raises $3 to $6
+s83s: calls $3
+*** FLOP *** [4d 7c 7s]
+s83s: checks
+Pandakey: bets $3
+s83s: calls $3
+*** TURN *** [4d 7c 7s] [Kc]
+s83s: bets $6
+Pandakey: calls $6
+*** RIVER *** [4d 7c 7s Kc] [Kh]
+s83s: bets $6
+Pandakey: raises $6 to $12
+s83s: calls $6
+*** SHOW DOWN ***
+Pandakey: shows [Tc Kd] (a full house, Kings full of Sevens)
+s83s: mucks hand
+Pandakey collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [4d 7c 7s Kc Kh]
+Seat 1: s83s (big blind) mucked
+Seat 2: Pandakey (button) (small blind) showed [Tc Kd] and won ($53.50) with a full house, Kings full of Sevens
+
+
+PokerStars Hand #144365805215:  Hold'em Limit ($3/$6 USD) - 2015/11/25 11:47:11 ET
+Table 'Pompeja' 2-max Seat #1 is the button
+Seat 1: s83s ($93 in chips)
+Seat 2: Pandakey ($146.50 in chips)
+s83s: posts small blind $1
+Pandakey: posts big blind $3
+*** HOLE CARDS ***
+s83s: raises $3 to $6
+Pandakey: calls $3
+*** FLOP *** [3c Ts Ks]
+Pandakey: checks
+s83s: bets $3
+Pandakey: folds
+Uncalled bet ($3) returned to s83s
+s83s collected $11.76 from pot
+s83s: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3c Ts Ks]
+Seat 1: s83s (button) (small blind) collected ($11.76)
+Seat 2: Pandakey (big blind) folded on the Flop
+
+

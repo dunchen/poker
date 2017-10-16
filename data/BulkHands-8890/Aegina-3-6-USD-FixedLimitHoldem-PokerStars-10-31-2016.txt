@@ -1,0 +1,90 @@
+PokerStars Hand #160705718908:  Hold'em Limit ($3/$6 USD) - 2016/10/31 15:22:12 ET
+Table 'Aegina' 6-max Seat #1 is the button
+Seat 1: Zubasa07 ($500 in chips)
+Seat 3: Moneyfold'n ($120 in chips)
+Zubasa07: posts small blind $1
+Moneyfold'n: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec joins the table at seat #4
+Zubasa07: raises $3 to $6
+Moneyfold'n: raises $3 to $9
+Zubasa07: calls $3
+*** FLOP *** [Tc 6s 7c]
+Moneyfold'n: bets $3
+Zubasa07: calls $3
+*** TURN *** [Tc 6s 7c] [3c]
+Moneyfold'n: bets $6
+olech1515 joins the table at seat #2
+Zubasa07: calls $6
+*** RIVER *** [Tc 6s 7c 3c] [5d]
+Moneyfold'n: bets $6
+Zubasa07: calls $6
+*** SHOW DOWN ***
+Moneyfold'n: shows [Ad Th] (a pair of Tens)
+Zubasa07: mucks hand
+Moneyfold'n collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Tc 6s 7c 3c 5d]
+Seat 1: Zubasa07 (button) (small blind) mucked
+Seat 3: Moneyfold'n (big blind) showed [Ad Th] and won ($47.50) with a pair of Tens
+
+
+PokerStars Hand #160707212731:  Hold'em Limit ($3/$6 USD) - 2016/10/31 15:52:10 ET
+Table 'Aegina' 6-max Seat #6 is the button
+Seat 2: Ceminac8 ($57.54 in chips)
+Seat 6: ABATAPP ($141.58 in chips)
+ABATAPP: posts small blind $1
+Ceminac8: posts big blind $3
+*** HOLE CARDS ***
+ABATAPP: raises $3 to $6
+Ceminac8: calls $3
+*** FLOP *** [Ks Th Js]
+Ceminac8: checks
+ABATAPP: checks
+*** TURN *** [Ks Th Js] [4c]
+Ceminac8: bets $6
+ABATAPP: folds
+Uncalled bet ($6) returned to Ceminac8
+Ceminac8 collected $11.76 from pot
+Ceminac8: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ks Th Js 4c]
+Seat 2: Ceminac8 (big blind) collected ($11.76)
+Seat 6: ABATAPP (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #160707224193:  Hold'em Limit ($3/$6 USD) - 2016/10/31 15:52:24 ET
+Table 'Aegina' 6-max Seat #2 is the button
+Seat 2: Ceminac8 ($63.30 in chips)
+Seat 6: ABATAPP ($135.58 in chips)
+Ceminac8: posts small blind $1
+ABATAPP: posts big blind $3
+*** HOLE CARDS ***
+Ceminac8: calls $2
+ABATAPP: raises $3 to $6
+Ceminac8: calls $3
+*** FLOP *** [5d 7d 8s]
+ABATAPP: bets $3
+Ceminac8: raises $3 to $6
+ABATAPP: calls $3
+*** TURN *** [5d 7d 8s] [Qc]
+ABATAPP: checks
+Ceminac8: bets $6
+ABATAPP: calls $6
+*** RIVER *** [5d 7d 8s Qc] [4s]
+ABATAPP: checks
+Ceminac8: bets $6
+ABATAPP: calls $6
+*** SHOW DOWN ***
+Ceminac8: shows [8c Ts] (a pair of Eights)
+ABATAPP: shows [Kc Kd] (a pair of Kings)
+ABATAPP collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [5d 7d 8s Qc 4s]
+Seat 2: Ceminac8 (button) (small blind) showed [8c Ts] and lost with a pair of Eights
+Seat 6: ABATAPP (big blind) showed [Kc Kd] and won ($47.50) with a pair of Kings
+
+

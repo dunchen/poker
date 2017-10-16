@@ -1,0 +1,61 @@
+PokerStars Hand #160829151653:  Hold'em Limit ($3/$6 USD) - 2016/11/03 6:43:15 ET
+Table 'Nuki' 6-max Seat #1 is the button
+Seat 1: vitim848 ($60 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+vitim848: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+vitim848: calls $2
+VolkovDmitri: raises $3 to $6
+vitim848: calls $3
+*** FLOP *** [Qh 3h As]
+TbIP-TbIP 88 joins the table at seat #2
+VolkovDmitri: bets $3
+vitim848: calls $3
+*** TURN *** [Qh 3h As] [Ac]
+VolkovDmitri: bets $6
+vitim848: calls $6
+*** RIVER *** [Qh 3h As Ac] [2c]
+VolkovDmitri: checks
+vitim848: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to vitim848
+vitim848 collected $29.50 from pot
+vitim848: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qh 3h As Ac 2c]
+Seat 1: vitim848 (button) (small blind) collected ($29.50)
+Seat 4: VolkovDmitri (big blind) folded on the River
+
+
+PokerStars Hand #160829172492:  Hold'em Limit ($3/$6 USD) - 2016/11/03 6:44:04 ET
+Table 'Nuki' 6-max Seat #4 is the button
+Seat 1: vitim848 ($74.50 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+vitim848: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+vitim848: calls $3
+*** FLOP *** [Js 7c 3c]
+vitim848: checks
+VolkovDmitri: bets $3
+vitim848: calls $3
+*** TURN *** [Js 7c 3c] [9c]
+vitim848: checks
+VolkovDmitri: checks
+*** RIVER *** [Js 7c 3c 9c] [5s]
+vitim848: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+vitim848: shows [As 5c] (a pair of Fives)
+VolkovDmitri: mucks hand
+vitim848 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Js 7c 3c 9c 5s]
+Seat 1: vitim848 (big blind) showed [As 5c] and won ($17.64) with a pair of Fives
+Seat 4: VolkovDmitri (button) (small blind) mucked
+
+

@@ -1,0 +1,469 @@
+PokerStars Hand #160306623966:  Hold'em Limit ($3/$6 USD) - 2016/10/22 21:13:40 ET
+Table 'Horus' 6-max Seat #4 is the button
+Seat 3: MsBjorn ($222 in chips)
+Seat 4: assitoni ($89.50 in chips)
+assitoni: posts small blind $1
+MsBjorn: posts big blind $3
+*** HOLE CARDS ***
+assitoni: raises $3 to $6
+MsBjorn: calls $3
+*** FLOP *** [Kd Jc Ts]
+MsBjorn: checks
+assitoni: bets $3
+MsBjorn: calls $3
+*** TURN *** [Kd Jc Ts] [6c]
+MsBjorn: checks
+assitoni: bets $6
+MsBjorn: calls $6
+*** RIVER *** [Kd Jc Ts 6c] [Tc]
+MsBjorn: checks
+assitoni: bets $6
+MsBjorn: folds
+Uncalled bet ($6) returned to assitoni
+assitoni collected $29.50 from pot
+assitoni: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kd Jc Ts 6c Tc]
+Seat 3: MsBjorn (big blind) folded on the River
+Seat 4: assitoni (button) (small blind) collected ($29.50)
+
+
+PokerStars Hand #160306608687:  Hold'em Limit ($3/$6 USD) - 2016/10/22 21:13:04 ET
+Table 'Horus' 6-max Seat #3 is the button
+Seat 3: MsBjorn ($240 in chips)
+Seat 4: assitoni ($72 in chips)
+MsBjorn: posts small blind $1
+assitoni: posts big blind $3
+*** HOLE CARDS ***
+MsBjorn: raises $3 to $6
+assitoni: raises $3 to $9
+MsBjorn: calls $3
+*** FLOP *** [4h 6c Ah]
+assitoni: bets $3
+MsBjorn: calls $3
+*** TURN *** [4h 6c Ah] [Th]
+assitoni: checks
+MsBjorn: bets $6
+assitoni: calls $6
+*** RIVER *** [4h 6c Ah Th] [Ks]
+assitoni: checks
+MsBjorn: checks
+*** SHOW DOWN ***
+assitoni: shows [7s Kd] (a pair of Kings)
+MsBjorn: mucks hand
+assitoni collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [4h 6c Ah Th Ks]
+Seat 3: MsBjorn (button) (small blind) mucked
+Seat 4: assitoni (big blind) showed [7s Kd] and won ($35.50) with a pair of Kings
+
+
+PokerStars Hand #160306645122:  Hold'em Limit ($3/$6 USD) - 2016/10/22 21:14:30 ET
+Table 'Horus' 6-max Seat #4 is the button
+Seat 3: MsBjorn ($206 in chips)
+Seat 4: assitoni ($105 in chips)
+assitoni: posts small blind $1
+MsBjorn: posts big blind $3
+*** HOLE CARDS ***
+assitoni: raises $3 to $6
+MsBjorn: calls $3
+*** FLOP *** [Td 2s Js]
+MsBjorn: checks
+assitoni: bets $3
+MsBjorn: calls $3
+*** TURN *** [Td 2s Js] [8c]
+MsBjorn: checks
+assitoni: checks
+*** RIVER *** [Td 2s Js 8c] [Ks]
+MsBjorn: checks
+assitoni: bets $6
+MsBjorn: calls $6
+*** SHOW DOWN ***
+assitoni: shows [8h Kd] (two pair, Kings and Eights)
+MsBjorn: mucks hand
+assitoni collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Td 2s Js 8c Ks]
+Seat 3: MsBjorn (big blind) mucked
+Seat 4: assitoni (button) (small blind) showed [8h Kd] and won ($29.50) with two pair, Kings and Eights
+
+
+PokerStars Hand #160306642949:  Hold'em Limit ($3/$6 USD) - 2016/10/22 21:14:25 ET
+Table 'Horus' 6-max Seat #3 is the button
+Seat 3: MsBjorn ($207 in chips)
+Seat 4: assitoni ($104 in chips)
+MsBjorn: posts small blind $1
+assitoni: posts big blind $3
+*** HOLE CARDS ***
+MsBjorn: folds
+Uncalled bet ($2) returned to assitoni
+assitoni collected $2 from pot
+assitoni: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: MsBjorn (button) (small blind) folded before Flop
+Seat 4: assitoni (big blind) collected ($2)
+
+
+PokerStars Hand #160306661170:  Hold'em Limit ($3/$6 USD) - 2016/10/22 21:15:08 ET
+Table 'Horus' 6-max Seat #3 is the button
+Seat 3: MsBjorn ($191 in chips)
+Seat 4: assitoni ($119.50 in chips)
+MsBjorn: posts small blind $1
+assitoni: posts big blind $3
+*** HOLE CARDS ***
+MsBjorn: raises $3 to $6
+assitoni: calls $3
+*** FLOP *** [As 3d 9s]
+assitoni: checks
+MsBjorn: bets $3
+assitoni: calls $3
+*** TURN *** [As 3d 9s] [2h]
+assitoni: checks
+MsBjorn: checks
+*** RIVER *** [As 3d 9s 2h] [Ah]
+assitoni: bets $6
+MsBjorn: calls $6
+*** SHOW DOWN ***
+assitoni: shows [Ks 4c] (a pair of Aces)
+MsBjorn: shows [Kc 8c] (a pair of Aces - King+Nine+Eight kicker)
+MsBjorn collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [As 3d 9s 2h Ah]
+Seat 3: MsBjorn (button) (small blind) showed [Kc 8c] and won ($29.50) with a pair of Aces
+Seat 4: assitoni (big blind) showed [Ks 4c] and lost with a pair of Aces
+
+
+PokerStars Hand #160306683352:  Hold'em Limit ($3/$6 USD) - 2016/10/22 21:16:01 ET
+Table 'Horus' 6-max Seat #4 is the button
+Seat 3: MsBjorn ($205.50 in chips)
+Seat 4: assitoni ($104.50 in chips)
+assitoni: posts small blind $1
+MsBjorn: posts big blind $3
+*** HOLE CARDS ***
+assitoni: folds
+Uncalled bet ($2) returned to MsBjorn
+MsBjorn collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: MsBjorn (big blind) collected ($2)
+Seat 4: assitoni (button) (small blind) folded before Flop
+
+
+PokerStars Hand #160306687703:  Hold'em Limit ($3/$6 USD) - 2016/10/22 21:16:11 ET
+Table 'Horus' 6-max Seat #3 is the button
+Seat 3: MsBjorn ($206.50 in chips)
+Seat 4: assitoni ($103.50 in chips)
+MsBjorn: posts small blind $1
+assitoni: posts big blind $3
+*** HOLE CARDS ***
+MsBjorn: raises $3 to $6
+assitoni: folds
+Uncalled bet ($3) returned to MsBjorn
+MsBjorn collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: MsBjorn (button) (small blind) collected ($6)
+Seat 4: assitoni (big blind) folded before Flop
+
+
+PokerStars Hand #160306691174:  Hold'em Limit ($3/$6 USD) - 2016/10/22 21:16:19 ET
+Table 'Horus' 6-max Seat #4 is the button
+Seat 3: MsBjorn ($209.50 in chips)
+Seat 4: assitoni ($100.50 in chips)
+assitoni: posts small blind $1
+MsBjorn: posts big blind $3
+*** HOLE CARDS ***
+assitoni: raises $3 to $6
+MsBjorn: calls $3
+*** FLOP *** [2h 3c 5h]
+MsBjorn: checks
+assitoni: bets $3
+MsBjorn: calls $3
+*** TURN *** [2h 3c 5h] [6d]
+MsBjorn: checks
+assitoni: checks
+*** RIVER *** [2h 3c 5h 6d] [7c]
+MsBjorn: bets $6
+assitoni: calls $6
+*** SHOW DOWN ***
+MsBjorn: shows [6s 9c] (a pair of Sixes)
+assitoni: mucks hand
+MsBjorn collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2h 3c 5h 6d 7c]
+Seat 3: MsBjorn (big blind) showed [6s 9c] and won ($29.50) with a pair of Sixes
+Seat 4: assitoni (button) (small blind) mucked
+
+
+PokerStars Hand #160306714405:  Hold'em Limit ($3/$6 USD) - 2016/10/22 21:17:14 ET
+Table 'Horus' 6-max Seat #3 is the button
+Seat 3: MsBjorn ($224 in chips)
+Seat 4: assitoni ($85.50 in chips)
+MsBjorn: posts small blind $1
+assitoni: posts big blind $3
+*** HOLE CARDS ***
+MsBjorn: folds
+Uncalled bet ($2) returned to assitoni
+assitoni collected $2 from pot
+assitoni: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: MsBjorn (button) (small blind) folded before Flop
+Seat 4: assitoni (big blind) collected ($2)
+
+
+PokerStars Hand #160306716562:  Hold'em Limit ($3/$6 USD) - 2016/10/22 21:17:19 ET
+Table 'Horus' 6-max Seat #4 is the button
+Seat 3: MsBjorn ($223 in chips)
+Seat 4: assitoni ($86.50 in chips)
+assitoni: posts small blind $1
+MsBjorn: posts big blind $3
+*** HOLE CARDS ***
+assitoni: raises $3 to $6
+MsBjorn: calls $3
+*** FLOP *** [Ks 5s Jc]
+MsBjorn: checks
+assitoni: bets $3
+MsBjorn: calls $3
+*** TURN *** [Ks 5s Jc] [Ah]
+MsBjorn: checks
+assitoni: bets $6
+MsBjorn: calls $6
+*** RIVER *** [Ks 5s Jc Ah] [8c]
+MsBjorn: checks
+assitoni: bets $6
+MsBjorn: calls $6
+*** SHOW DOWN ***
+assitoni: shows [3d Ad] (a pair of Aces)
+MsBjorn: mucks hand
+assitoni collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ks 5s Jc Ah 8c]
+Seat 3: MsBjorn (big blind) mucked
+Seat 4: assitoni (button) (small blind) showed [3d Ad] and won ($41.50) with a pair of Aces
+
+
+PokerStars Hand #160306734531:  Hold'em Limit ($3/$6 USD) - 2016/10/22 21:18:02 ET
+Table 'Horus' 6-max Seat #3 is the button
+Seat 3: MsBjorn ($202 in chips)
+Seat 4: assitoni ($107 in chips)
+MsBjorn: posts small blind $1
+assitoni: posts big blind $3
+*** HOLE CARDS ***
+MsBjorn: raises $3 to $6
+assitoni: raises $3 to $9
+MsBjorn: calls $3
+*** FLOP *** [Ac 8h 8s]
+assitoni: bets $3
+MsBjorn: calls $3
+*** TURN *** [Ac 8h 8s] [3s]
+assitoni: bets $6
+MsBjorn: folds
+Uncalled bet ($6) returned to assitoni
+assitoni collected $23.52 from pot
+assitoni: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Ac 8h 8s 3s]
+Seat 3: MsBjorn (button) (small blind) folded on the Turn
+Seat 4: assitoni (big blind) collected ($23.52)
+
+
+PokerStars Hand #160306754191:  Hold'em Limit ($3/$6 USD) - 2016/10/22 21:18:49 ET
+Table 'Horus' 6-max Seat #3 is the button
+Seat 3: MsBjorn ($191 in chips)
+Seat 4: assitoni ($117.52 in chips)
+MsBjorn: posts small blind $1
+assitoni: posts big blind $3
+*** HOLE CARDS ***
+MsBjorn: raises $3 to $6
+assitoni: raises $3 to $9
+MsBjorn: calls $3
+*** FLOP *** [8h 6c 7c]
+assitoni: bets $3
+MsBjorn: calls $3
+*** TURN *** [8h 6c 7c] [As]
+assitoni: bets $6
+MsBjorn: calls $6
+*** RIVER *** [8h 6c 7c As] [Tc]
+assitoni: bets $6
+MsBjorn: folds
+Uncalled bet ($6) returned to assitoni
+assitoni collected $35.50 from pot
+assitoni: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [8h 6c 7c As Tc]
+Seat 3: MsBjorn (button) (small blind) folded on the River
+Seat 4: assitoni (big blind) collected ($35.50)
+
+
+PokerStars Hand #160306751978:  Hold'em Limit ($3/$6 USD) - 2016/10/22 21:18:44 ET
+Table 'Horus' 6-max Seat #4 is the button
+Seat 3: MsBjorn ($190 in chips)
+Seat 4: assitoni ($118.52 in chips)
+assitoni: posts small blind $1
+MsBjorn: posts big blind $3
+*** HOLE CARDS ***
+assitoni: folds
+Uncalled bet ($2) returned to MsBjorn
+MsBjorn collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: MsBjorn (big blind) collected ($2)
+Seat 4: assitoni (button) (small blind) folded before Flop
+
+
+PokerStars Hand #160306768963:  Hold'em Limit ($3/$6 USD) - 2016/10/22 21:19:24 ET
+Table 'Horus' 6-max Seat #4 is the button
+Seat 3: MsBjorn ($173 in chips)
+Seat 4: assitoni ($135.02 in chips)
+assitoni: posts small blind $1
+MsBjorn: posts big blind $3
+*** HOLE CARDS ***
+assitoni: folds
+Uncalled bet ($2) returned to MsBjorn
+MsBjorn collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: MsBjorn (big blind) collected ($2)
+Seat 4: assitoni (button) (small blind) folded before Flop
+
+
+PokerStars Hand #160306773179:  Hold'em Limit ($3/$6 USD) - 2016/10/22 21:19:34 ET
+Table 'Horus' 6-max Seat #3 is the button
+Seat 3: MsBjorn ($174 in chips)
+Seat 4: assitoni ($134.02 in chips)
+MsBjorn: posts small blind $1
+assitoni: posts big blind $3
+*** HOLE CARDS ***
+MsBjorn: raises $3 to $6
+assitoni: folds
+Uncalled bet ($3) returned to MsBjorn
+MsBjorn collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: MsBjorn (button) (small blind) collected ($6)
+Seat 4: assitoni (big blind) folded before Flop
+
+
+PokerStars Hand #160306794901:  Hold'em Limit ($3/$6 USD) - 2016/10/22 21:20:27 ET
+Table 'Horus' 6-max Seat #3 is the button
+Seat 3: MsBjorn ($185.64 in chips)
+Seat 4: assitoni ($122.02 in chips)
+MsBjorn: posts small blind $1
+MASTA MA 23 joins the table at seat #1
+assitoni: posts big blind $3
+*** HOLE CARDS ***
+MsBjorn: raises $3 to $6
+assitoni: calls $3
+*** FLOP *** [4s 2s 7s]
+assitoni: checks
+MsBjorn: bets $3
+assitoni: folds
+Uncalled bet ($3) returned to MsBjorn
+MsBjorn collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4s 2s 7s]
+Seat 3: MsBjorn (button) (small blind) collected ($11.76)
+Seat 4: assitoni (big blind) folded on the Flop
+
+
+PokerStars Hand #160306780859:  Hold'em Limit ($3/$6 USD) - 2016/10/22 21:19:53 ET
+Table 'Horus' 6-max Seat #4 is the button
+Seat 3: MsBjorn ($177 in chips)
+Seat 4: assitoni ($131.02 in chips)
+assitoni: posts small blind $1
+MsBjorn: posts big blind $3
+*** HOLE CARDS ***
+assitoni: raises $3 to $6
+MsBjorn: calls $3
+*** FLOP *** [Td 2h 9h]
+MsBjorn: checks
+assitoni: bets $3
+MsBjorn: calls $3
+*** TURN *** [Td 2h 9h] [Ad]
+LWNS joins the table at seat #5
+MsBjorn: checks
+assitoni: checks
+*** RIVER *** [Td 2h 9h Ad] [Kc]
+MsBjorn: checks
+assitoni: checks
+*** SHOW DOWN ***
+MsBjorn: shows [Qs 2c] (a pair of Deuces)
+assitoni: mucks hand
+MsBjorn collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Td 2h 9h Ad Kc]
+Seat 3: MsBjorn (big blind) showed [Qs 2c] and won ($17.64) with a pair of Deuces
+Seat 4: assitoni (button) (small blind) mucked
+
+
+PokerStars Hand #160306822477:  Hold'em Limit ($3/$6 USD) - 2016/10/22 21:21:33 ET
+Table 'Horus' 6-max Seat #1 is the button
+Seat 1: MASTA MA 23 ($101 in chips)
+Seat 5: LWNS ($67 in chips)
+MASTA MA 23: posts small blind $1
+assitoni: is sitting out
+LWNS: posts big blind $3
+*** HOLE CARDS ***
+MASTA MA 23: calls $2
+MsBjorn leaves the table
+LWNS: raises $3 to $6
+MASTA MA 23: calls $3
+*** FLOP *** [6h 5c Ah]
+LWNS: bets $3
+MASTA MA 23: calls $3
+*** TURN *** [6h 5c Ah] [4d]
+LWNS: bets $6
+MASTA MA 23: calls $6
+*** RIVER *** [6h 5c Ah 4d] [7h]
+LWNS: checks
+MASTA MA 23: checks
+*** SHOW DOWN ***
+LWNS: shows [As Tc] (a pair of Aces)
+MASTA MA 23: mucks hand
+LWNS collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6h 5c Ah 4d 7h]
+Seat 1: MASTA MA 23 (button) (small blind) mucked
+Seat 5: LWNS (big blind) showed [As Tc] and won ($29.50) with a pair of Aces
+
+
+PokerStars Hand #160306834819:  Hold'em Limit ($3/$6 USD) - 2016/10/22 21:22:02 ET
+Table 'Horus' 6-max Seat #5 is the button
+Seat 1: MASTA MA 23 ($86 in chips)
+Seat 5: LWNS ($81.50 in chips)
+LWNS: posts small blind $1
+MASTA MA 23: posts big blind $3
+*** HOLE CARDS ***
+LWNS: raises $3 to $6
+MASTA MA 23: calls $3
+*** FLOP *** [Kc 3d 2s]
+MASTA MA 23: checks
+LWNS: bets $3
+MASTA MA 23: calls $3
+*** TURN *** [Kc 3d 2s] [Ad]
+MASTA MA 23: checks
+LWNS: bets $6
+MASTA MA 23: folds
+Uncalled bet ($6) returned to LWNS
+LWNS collected $17.64 from pot
+LWNS: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kc 3d 2s Ad]
+Seat 1: MASTA MA 23 (big blind) folded on the Turn
+Seat 5: LWNS (button) (small blind) collected ($17.64)
+
+

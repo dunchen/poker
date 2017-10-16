@@ -1,0 +1,82 @@
+PokerStars Hand #172705836389:  Hold'em Limit ($3/$6 USD) - 2017/07/07 0:29:34 ET
+Table 'Gabriella' 6-max Seat #3 is the button
+Seat 3: ogdealer ($32 in chips)
+Seat 4: B_loJkl ($247.45 in chips)
+ogdealer: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+ogdealer: calls $2
+B_loJkl: raises $3 to $6
+ogdealer: raises $3 to $9
+B_loJkl: calls $3
+*** FLOP *** [Td 4d 9s]
+B_loJkl: checks
+ogdealer: bets $3
+B_loJkl: calls $3
+*** TURN *** [Td 4d 9s] [4c]
+B_loJkl: checks
+ogdealer: bets $6
+B_loJkl: raises $6 to $12
+ogdealer: calls $6
+*** RIVER *** [Td 4d 9s 4c] [Jc]
+B_loJkl: bets $6
+ogdealer: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [4h Ad] (three of a kind, Fours)
+ogdealer: mucks hand
+B_loJkl collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Td 4d 9s 4c Jc]
+Seat 3: ogdealer (button) (small blind) mucked
+Seat 4: B_loJkl (big blind) showed [4h Ad] and won ($59.50) with three of a kind, Fours
+
+
+PokerStars Hand #172707521978:  Hold'em Limit ($3/$6 USD) - 2017/07/07 2:21:08 ET
+Table 'Gabriella' 6-max Seat #3 is the button
+Seat 3: krytalex ($206.69 in chips)
+Seat 4: B_loJkl ($221.98 in chips)
+krytalex: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+krytalex: raises $3 to $6
+B_loJkl: folds
+Uncalled bet ($3) returned to krytalex
+krytalex collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: krytalex (button) (small blind) collected ($6)
+Seat 4: B_loJkl (big blind) folded before Flop
+
+
+PokerStars Hand #172707513950:  Hold'em Limit ($3/$6 USD) - 2017/07/07 2:20:36 ET
+Table 'Gabriella' 6-max Seat #4 is the button
+Seat 3: krytalex ($189.19 in chips)
+Seat 4: B_loJkl ($239.98 in chips)
+B_loJkl: posts small blind $1
+hookonhook: is sitting out
+SLK500: is sitting out
+krytalex: posts big blind $3
+*** HOLE CARDS ***
+hookonhook leaves the table
+B_loJkl: raises $3 to $6
+krytalex: raises $3 to $9
+B_loJkl: calls $3
+*** FLOP *** [7s 7h 3c]
+krytalex: bets $3
+B_loJkl: calls $3
+*** TURN *** [7s 7h 3c] [Js]
+krytalex: bets $6
+B_loJkl: calls $6
+*** RIVER *** [7s 7h 3c Js] [Kh]
+krytalex: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to krytalex
+krytalex collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [7s 7h 3c Js Kh]
+Seat 3: krytalex (big blind) collected ($35.50)
+Seat 4: B_loJkl (button) (small blind) folded on the River
+
+

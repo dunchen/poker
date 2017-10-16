@@ -1,0 +1,47 @@
+PokerStars Hand #174704542664:  Hold'em Limit ($3/$6 USD) - 2017/08/23 15:14:32 ET
+Table 'Oenone II' 6-max Seat #4 is the button
+Seat 1: ToDaFelt ($111 in chips)
+Seat 4: Hadart ($128.64 in chips)
+Hadart: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+Hadart: folds
+Uncalled bet ($2) returned to ToDaFelt
+ToDaFelt collected $2 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: ToDaFelt (big blind) collected ($2)
+Seat 4: Hadart (button) (small blind) folded before Flop
+
+
+PokerStars Hand #174704523405:  Hold'em Limit ($3/$6 USD) - 2017/08/23 15:14:05 ET
+Table 'Oenone II' 6-max Seat #1 is the button
+Seat 1: ToDaFelt ($120 in chips)
+Seat 4: Hadart ($120 in chips)
+ToDaFelt: posts small blind $1
+Hadart: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+Hadart: calls $3
+*** FLOP *** [Jh 4d 7c]
+Hadart: checks
+ToDaFelt: bets $3
+Hadart: calls $3
+*** TURN *** [Jh 4d 7c] [Tc]
+Hadart: checks
+ToDaFelt: checks
+*** RIVER *** [Jh 4d 7c Tc] [Qd]
+Hadart: checks
+ToDaFelt: checks
+*** SHOW DOWN ***
+Hadart: shows [8s 7d] (a pair of Sevens)
+ToDaFelt: mucks hand
+Hadart collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Jh 4d 7c Tc Qd]
+Seat 1: ToDaFelt (button) (small blind) mucked
+Seat 4: Hadart (big blind) showed [8s 7d] and won ($17.64) with a pair of Sevens
+
+

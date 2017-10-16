@@ -1,0 +1,33 @@
+PokerStars Hand #147513425573:  Hold'em Limit ($3/$6 USD) - 2016/01/22 21:04:08 ET
+Table 'Pasithee' 6-max Seat #3 is the button
+Seat 1: SmellyToes4u ($54.24 in chips)
+Seat 3: scorpio04 ($94.83 in chips)
+scorpio04: posts small blind $1
+SmellyToes4u: posts big blind $3
+*** HOLE CARDS ***
+scorpio04: raises $3 to $6
+SmellyToes4u: calls $3
+*** FLOP *** [Js Jc Kd]
+SmellyToes4u: checks
+scorpio04: bets $3
+SmellyToes4u: raises $3 to $6
+scorpio04: calls $3
+*** TURN *** [Js Jc Kd] [Th]
+SmellyToes4u: bets $6
+scorpio04: calls $6
+*** RIVER *** [Js Jc Kd Th] [3h]
+SmellyToes4u: checks
+scorpio04: bets $6
+SmellyToes4u: raises $6 to $12
+scorpio04: calls $6
+*** SHOW DOWN ***
+SmellyToes4u: shows [Qc Ah] (a straight, Ten to Ace)
+scorpio04: mucks hand
+SmellyToes4u collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Js Jc Kd Th 3h]
+Seat 1: SmellyToes4u (big blind) showed [Qc Ah] and won ($59.50) with a straight, Ten to Ace
+Seat 3: scorpio04 (button) (small blind) mucked
+
+

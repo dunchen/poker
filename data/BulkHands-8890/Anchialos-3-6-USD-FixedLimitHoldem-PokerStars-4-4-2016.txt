@@ -1,0 +1,64 @@
+PokerStars Hand #151408560011:  Hold'em Limit ($3/$6 USD) - 2016/04/04 5:22:28 ET
+Table 'Anchialos' 6-max Seat #2 is the button
+Seat 2: nedo1414 ($120 in chips)
+Seat 3: Kurganski ($72 in chips)
+nedo1414: posts small blind $1
+Kurganski: posts big blind $3
+*** HOLE CARDS ***
+nedo1414: raises $3 to $6
+Kurganski: calls $3
+*** FLOP *** [2h Ad 5h]
+Kurganski: checks
+nedo1414: bets $3
+Kurganski: raises $3 to $6
+liolilove joins the table at seat #4
+nedo1414: calls $3
+*** TURN *** [2h Ad 5h] [8d]
+Kurganski: bets $6
+nedo1414: calls $6
+*** RIVER *** [2h Ad 5h 8d] [5c]
+Kurganski: bets $6
+nedo1414: calls $6
+*** SHOW DOWN ***
+Kurganski: shows [Ah 6h] (two pair, Aces and Fives)
+nedo1414: mucks hand
+Kurganski collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2h Ad 5h 8d 5c]
+Seat 2: nedo1414 (button) (small blind) mucked
+Seat 3: Kurganski (big blind) showed [Ah 6h] and won ($47.50) with two pair, Aces and Fives
+
+
+PokerStars Hand #151408731209:  Hold'em Limit ($3/$6 USD) - 2016/04/04 5:29:47 ET
+Table 'Anchialos' 6-max Seat #4 is the button
+Seat 3: Kurganski ($90.45 in chips)
+Seat 4: liolilove ($87.25 in chips)
+liolilove: posts small blind $1
+Kurganski: posts big blind $3
+*** HOLE CARDS ***
+liolilove: raises $3 to $6
+Kurganski: raises $3 to $9
+liolilove: calls $3
+*** FLOP *** [9h 3s 7s]
+Kurganski: bets $3
+liolilove: calls $3
+*** TURN *** [9h 3s 7s] [Jd]
+Kurganski: bets $6
+liolilove: raises $6 to $12
+Kurganski: calls $6
+*** RIVER *** [9h 3s 7s Jd] [7c]
+Kurganski: checks
+liolilove: bets $6
+Kurganski: calls $6
+*** SHOW DOWN ***
+liolilove: shows [3d Jc] (two pair, Jacks and Sevens)
+Kurganski: mucks hand
+liolilove collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [9h 3s 7s Jd 7c]
+Seat 3: Kurganski (big blind) mucked
+Seat 4: liolilove (button) (small blind) showed [3d Jc] and won ($59.50) with two pair, Jacks and Sevens
+
+

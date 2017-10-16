@@ -1,0 +1,33 @@
+PokerStars Hand #163581441190:  Hold'em Limit ($3/$6 USD) - 2016/12/26 19:52:17 ET
+Table 'Ilona' 6-max Seat #1 is the button
+Seat 1: ToDaFelt ($120 in chips)
+Seat 3: RICVASCO777 ($120 in chips)
+vestimokrec joins the table at seat #4
+ToDaFelt: posts small blind $1
+RICVASCO777: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+RICVASCO777: raises $3 to $9
+ToDaFelt: calls $3
+*** FLOP *** [6c 4s Jc]
+RICVASCO777: bets $3
+ToDaFelt: calls $3
+*** TURN *** [6c 4s Jc] [4h]
+RICVASCO777: bets $6
+ToDaFelt: raises $6 to $12
+RICVASCO777: calls $6
+*** RIVER *** [6c 4s Jc 4h] [6s]
+RICVASCO777: checks
+ToDaFelt: bets $6
+RICVASCO777: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [3c 5s] (two pair, Sixes and Fours)
+RICVASCO777: shows [Ac Kh] (two pair, Sixes and Fours - Ace kicker)
+RICVASCO777 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [6c 4s Jc 4h 6s]
+Seat 1: ToDaFelt (button) (small blind) showed [3c 5s] and lost with two pair, Sixes and Fours
+Seat 3: RICVASCO777 (big blind) showed [Ac Kh] and won ($59.50) with two pair, Sixes and Fours
+
+

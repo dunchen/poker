@@ -1,0 +1,56 @@
+PokerStars Hand #160794322604:  Hold'em Limit ($3/$6 USD) - 2016/11/02 12:58:33 ET
+Table 'Outeniqua' 6-max Seat #4 is the button
+Seat 1: NLXXX1980 ($119.75 in chips)
+Seat 4: Agrotait ($71.75 in chips)
+Agrotait: posts small blind $1
+NLXXX1980: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+NLXXX1980: calls $3
+*** FLOP *** [Tc 7h 8c]
+NLXXX1980: checks
+Agrotait: checks
+*** TURN *** [Tc 7h 8c] [8s]
+NLXXX1980: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to NLXXX1980
+NLXXX1980 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Tc 7h 8c 8s]
+Seat 1: NLXXX1980 (big blind) collected ($11.76)
+Seat 4: Agrotait (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #160795738037:  Hold'em Limit ($3/$6 USD) - 2016/11/02 13:27:39 ET
+Table 'Outeniqua' 6-max Seat #3 is the button
+Seat 3: ValeryRon ($72 in chips)
+Seat 6: krytalex ($172.44 in chips)
+ValeryRon: posts small blind $1
+krytalex: posts big blind $3
+*** HOLE CARDS ***
+ValeryRon: raises $3 to $6
+krytalex: calls $3
+*** FLOP *** [Ks 7c 5s]
+krytalex: checks
+ValeryRon: bets $3
+krytalex: calls $3
+*** TURN *** [Ks 7c 5s] [2h]
+krytalex: checks
+ValeryRon: bets $6
+krytalex: calls $6
+*** RIVER *** [Ks 7c 5s 2h] [As]
+krytalex: checks
+ValeryRon: bets $6
+krytalex: calls $6
+*** SHOW DOWN ***
+ValeryRon: shows [Ah 4d] (a pair of Aces)
+krytalex: mucks hand
+ValeryRon collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ks 7c 5s 2h As]
+Seat 3: ValeryRon (button) (small blind) showed [Ah 4d] and won ($41.50) with a pair of Aces
+Seat 6: krytalex (big blind) mucked
+
+

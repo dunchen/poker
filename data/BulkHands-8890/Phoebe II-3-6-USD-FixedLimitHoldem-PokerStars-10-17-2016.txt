@@ -1,0 +1,115 @@
+PokerStars Hand #160054029881:  Hold'em Limit ($3/$6 USD) - 2016/10/17 8:58:45 ET
+Table 'Phoebe II' 6-max Seat #6 is the button
+Seat 3: Pelurile ($165.80 in chips)
+Seat 6: DieEXE ($140.49 in chips)
+DieEXE: posts small blind $1
+VolkovDmitri: is sitting out
+Pelurile: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri leaves the table
+DieEXE: raises $3 to $6
+Pelurile: raises $3 to $9
+DieEXE: calls $3
+*** FLOP *** [Ts 5d 6c]
+skaluah joins the table at seat #2
+Pelurile: bets $3
+DieEXE: calls $3
+*** TURN *** [Ts 5d 6c] [6h]
+cjdcns85 leaves the table
+Pelurile: bets $6
+DieEXE: raises $6 to $12
+Pelurile: calls $6
+*** RIVER *** [Ts 5d 6c 6h] [Qh]
+Pelurile: checks
+DieEXE: checks
+*** SHOW DOWN ***
+Pelurile: shows [As 5s] (two pair, Sixes and Fives)
+DieEXE: shows [8h Th] (two pair, Tens and Sixes)
+DieEXE collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Ts 5d 6c 6h Qh]
+Seat 3: Pelurile (big blind) showed [As 5s] and lost with two pair, Sixes and Fives
+Seat 6: DieEXE (button) (small blind) showed [8h Th] and won ($47.50) with two pair, Tens and Sixes
+
+
+PokerStars Hand #160054079703:  Hold'em Limit ($3/$6 USD) - 2016/10/17 9:00:33 ET
+Table 'Phoebe II' 6-max Seat #4 is the button
+Seat 4: ABATAPP ($139.13 in chips)
+Seat 5: DieEXE ($120 in chips)
+ABATAPP: posts small blind $1
+DieEXE: posts big blind $3
+*** HOLE CARDS ***
+ABATAPP: folds
+Uncalled bet ($2) returned to DieEXE
+DieEXE collected $2 from pot
+DieEXE: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: ABATAPP (button) (small blind) folded before Flop
+Seat 5: DieEXE (big blind) collected ($2)
+
+
+PokerStars Hand #160054089942:  Hold'em Limit ($3/$6 USD) - 2016/10/17 9:00:54 ET
+Table 'Phoebe II' 6-max Seat #5 is the button
+Seat 4: ABATAPP ($138.13 in chips)
+Seat 5: DieEXE ($121 in chips)
+DieEXE: posts small blind $1
+ABATAPP: posts big blind $3
+*** HOLE CARDS ***
+DieEXE: raises $3 to $6
+ABATAPP: calls $3
+*** FLOP *** [2h 3s 7h]
+ABATAPP: checks
+DieEXE: bets $3
+ABATAPP: calls $3
+*** TURN *** [2h 3s 7h] [Ts]
+ABATAPP: checks
+DieEXE: bets $6
+ABATAPP: calls $6
+*** RIVER *** [2h 3s 7h Ts] [Jh]
+ABATAPP: checks
+DieEXE: checks
+*** SHOW DOWN ***
+ABATAPP: shows [Ad Js] (a pair of Jacks)
+DieEXE: mucks hand
+ABATAPP collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2h 3s 7h Ts Jh]
+Seat 4: ABATAPP (big blind) showed [Ad Js] and won ($29.50) with a pair of Jacks
+Seat 5: DieEXE (button) (small blind) mucked
+
+
+PokerStars Hand #160054101454:  Hold'em Limit ($3/$6 USD) - 2016/10/17 9:01:17 ET
+Table 'Phoebe II' 6-max Seat #4 is the button
+Seat 4: ABATAPP ($152.63 in chips)
+Seat 5: DieEXE ($106 in chips)
+ABATAPP: posts small blind $1
+DieEXE: posts big blind $3
+*** HOLE CARDS ***
+ABATAPP: raises $3 to $6
+DieEXE: calls $3
+*** FLOP *** [2d 2s 4s]
+DieEXE: checks
+ABATAPP: bets $3
+DieEXE: calls $3
+*** TURN *** [2d 2s 4s] [6s]
+DieEXE: checks
+ABATAPP: bets $6
+DieEXE: calls $6
+*** RIVER *** [2d 2s 4s 6s] [5s]
+DieEXE: checks
+ABATAPP: bets $6
+DieEXE: calls $6
+*** SHOW DOWN ***
+ABATAPP: shows [As Ac] (a flush, Ace high)
+DieEXE: mucks hand
+ABATAPP collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2d 2s 4s 6s 5s]
+Seat 4: ABATAPP (button) (small blind) showed [As Ac] and won ($41.50) with a flush, Ace high
+Seat 5: DieEXE (big blind) mucked
+
+

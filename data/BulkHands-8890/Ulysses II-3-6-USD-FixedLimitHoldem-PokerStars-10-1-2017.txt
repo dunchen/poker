@@ -1,0 +1,113 @@
+PokerStars Hand #176360337250:  Hold'em Limit ($3/$6 USD) - 2017/10/01 13:48:31 ET
+Table 'Ulysses II' 6-max Seat #1 is the button
+Seat 1: vestimokrec ($120 in chips)
+Seat 6: wubadl ($120 in chips)
+vestimokrec: posts small blind $1
+PycV: is sitting out
+wubadl: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+wubadl: raises $3 to $9
+vestimokrec: calls $3
+*** FLOP *** [Js 4h Kh]
+wubadl: bets $3
+vestimokrec: calls $3
+*** TURN *** [Js 4h Kh] [Th]
+wubadl: bets $6
+vestimokrec: calls $6
+*** RIVER *** [Js 4h Kh Th] [Ts]
+wubadl: bets $6
+vestimokrec: raises $6 to $12
+wubadl: raises $6 to $18
+vestimokrec: calls $6
+*** SHOW DOWN ***
+wubadl: shows [2h 6h] (a flush, King high)
+vestimokrec: mucks hand
+wubadl collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [Js 4h Kh Th Ts]
+Seat 1: vestimokrec (button) (small blind) mucked
+Seat 6: wubadl (big blind) showed [2h 6h] and won ($71.50) with a flush, King high
+
+
+PokerStars Hand #176360380892:  Hold'em Limit ($3/$6 USD) - 2017/10/01 13:49:22 ET
+Table 'Ulysses II' 6-max Seat #6 is the button
+Seat 1: vestimokrec ($84 in chips)
+Seat 6: wubadl ($155.50 in chips)
+wubadl: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+wubadl: raises $3 to $6
+vestimokrec: calls $3
+*** FLOP *** [8d 8h 9c]
+vestimokrec: checks
+wubadl: bets $3
+vestimokrec: raises $3 to $6
+wubadl: folds
+Uncalled bet ($3) returned to vestimokrec
+vestimokrec collected $17.64 from pot
+vestimokrec: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8d 8h 9c]
+Seat 1: vestimokrec (big blind) collected ($17.64)
+Seat 6: wubadl (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #176361028555:  Hold'em Limit ($3/$6 USD) - 2017/10/01 14:03:56 ET
+Table 'Ulysses II' 6-max Seat #2 is the button
+Seat 2: PycV ($230.45 in chips)
+Seat 5: hookonhook ($117.64 in chips)
+PycV: posts small blind $1
+masterblstr8: is sitting out
+hookonhook: posts big blind $3
+*** HOLE CARDS ***
+PycV: folds
+Uncalled bet ($2) returned to hookonhook
+vestimokrec leaves the table
+hookonhook collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: PycV (button) (small blind) folded before Flop
+Seat 5: hookonhook (big blind) collected ($2)
+
+
+PokerStars Hand #176361050589:  Hold'em Limit ($3/$6 USD) - 2017/10/01 14:04:21 ET
+Table 'Ulysses II' 6-max Seat #2 is the button
+Seat 2: PycV ($223.45 in chips)
+Seat 5: hookonhook ($124.40 in chips)
+PycV: posts small blind $1
+hookonhook: posts big blind $3
+*** HOLE CARDS ***
+PycV: folds
+Uncalled bet ($2) returned to hookonhook
+hookonhook collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: PycV (button) (small blind) folded before Flop
+Seat 5: hookonhook (big blind) collected ($2)
+
+
+PokerStars Hand #176361034553:  Hold'em Limit ($3/$6 USD) - 2017/10/01 14:04:03 ET
+Table 'Ulysses II' 6-max Seat #5 is the button
+Seat 2: PycV ($229.45 in chips)
+Seat 5: hookonhook ($118.64 in chips)
+hookonhook: posts small blind $1
+PycV: posts big blind $3
+*** HOLE CARDS ***
+hookonhook: raises $3 to $6
+PycV: calls $3
+*** FLOP *** [Tc 5h Th]
+PycV: checks
+hookonhook: bets $3
+PycV: folds
+Uncalled bet ($3) returned to hookonhook
+hookonhook collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Tc 5h Th]
+Seat 2: PycV (big blind) folded on the Flop
+Seat 5: hookonhook (button) (small blind) collected ($11.76)
+
+

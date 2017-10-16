@@ -1,0 +1,82 @@
+PokerStars Hand #145059372811:  Hold'em Limit ($3/$6 USD) - 2015/12/09 2:04:10 ET
+Table 'Postrema' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 4: Agrotait ($72 in chips)
+VolkovDmitri: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [Kd 6h 4d]
+Agrotait: checks
+VolkovDmitri: bets $3
+Agrotait: calls $3
+*** TURN *** [Kd 6h 4d] [Ac]
+Agrotait: checks
+VolkovDmitri: checks
+*** RIVER *** [Kd 6h 4d Ac] [5c]
+Agrotait: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to Agrotait
+Agrotait collected $17.64 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kd 6h 4d Ac 5c]
+Seat 1: VolkovDmitri (button) (small blind) folded on the River
+Seat 4: Agrotait (big blind) collected ($17.64)
+
+
+PokerStars Hand #145059385184:  Hold'em Limit ($3/$6 USD) - 2015/12/09 2:04:58 ET
+Table 'Postrema' 6-max Seat #4 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 4: Agrotait ($80.64 in chips)
+Agrotait: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Qh Qs 8h]
+VolkovDmitri: checks
+Agrotait: bets $3
+VolkovDmitri: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $11.76 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qh Qs 8h]
+Seat 1: VolkovDmitri (big blind) folded on the Flop
+Seat 4: Agrotait (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #145059504254:  Hold'em Limit ($3/$6 USD) - 2015/12/09 2:12:27 ET
+Table 'Postrema' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 2: _fayzulllo_ ($72 in chips)
+assitoni joins the table at seat #3
+VolkovDmitri: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+_fayzulllo_: calls $3
+*** FLOP *** [3h 8s 6h]
+_fayzulllo_: checks
+VolkovDmitri: checks
+*** TURN *** [3h 8s 6h] [Qc]
+_fayzulllo_: checks
+VolkovDmitri: checks
+*** RIVER *** [3h 8s 6h Qc] [2s]
+_fayzulllo_: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+_fayzulllo_: shows [9s Ts] (high card Queen)
+VolkovDmitri: shows [Kh 5d] (high card King)
+VolkovDmitri collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3h 8s 6h Qc 2s]
+Seat 1: VolkovDmitri (button) (small blind) showed [Kh 5d] and won ($11.76) with high card King
+Seat 2: _fayzulllo_ (big blind) showed [9s Ts] and lost with high card Queen
+
+

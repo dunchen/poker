@@ -1,0 +1,109 @@
+PokerStars Hand #146899873987:  Hold'em Limit ($3/$6 USD) - 2016/01/12 3:55:59 ET
+Table 'Lederle' 2-max Seat #2 is the button
+Seat 1: XJZD ($120 in chips)
+Seat 2: fifaliga ($36 in chips)
+fifaliga: posts small blind $1
+XJZD: posts big blind $3
+*** HOLE CARDS ***
+fifaliga: raises $3 to $6
+XJZD: calls $3
+*** FLOP *** [Qd Js Ad]
+XJZD: checks
+fifaliga: bets $3
+XJZD: folds
+Uncalled bet ($3) returned to fifaliga
+fifaliga collected $11.76 from pot
+fifaliga: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qd Js Ad]
+Seat 1: XJZD (big blind) folded on the Flop
+Seat 2: fifaliga (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #146899896659:  Hold'em Limit ($3/$6 USD) - 2016/01/12 3:57:10 ET
+Table 'Lederle' 2-max Seat #2 is the button
+Seat 1: XJZD ($96 in chips)
+Seat 2: fifaliga ($137.50 in chips)
+fifaliga: posts small blind $1
+XJZD: posts big blind $3
+*** HOLE CARDS ***
+fifaliga: raises $3 to $6
+XJZD: raises $3 to $9
+fifaliga: calls $3
+*** FLOP *** [6c 2c Ah]
+XJZD: bets $3
+fifaliga: folds
+Uncalled bet ($3) returned to XJZD
+XJZD collected $17.64 from pot
+XJZD: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6c 2c Ah]
+Seat 1: XJZD (big blind) collected ($17.64)
+Seat 2: fifaliga (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #146899879400:  Hold'em Limit ($3/$6 USD) - 2016/01/12 3:56:16 ET
+Table 'Lederle' 2-max Seat #1 is the button
+Seat 1: XJZD ($114 in chips)
+Seat 2: fifaliga ($120 in chips)
+XJZD: posts small blind $1
+fifaliga: posts big blind $3
+*** HOLE CARDS ***
+XJZD: raises $3 to $6
+fifaliga: calls $3
+*** FLOP *** [Jd Th 2d]
+fifaliga: checks
+XJZD: bets $3
+fifaliga: raises $3 to $6
+XJZD: calls $3
+*** TURN *** [Jd Th 2d] [As]
+fifaliga: bets $6
+XJZD: calls $6
+*** RIVER *** [Jd Th 2d As] [8h]
+fifaliga: checks
+XJZD: checks
+*** SHOW DOWN ***
+fifaliga: shows [8s Qd] (a pair of Eights)
+XJZD: mucks hand
+fifaliga collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Jd Th 2d As 8h]
+Seat 1: XJZD (button) (small blind) mucked
+Seat 2: fifaliga (big blind) showed [8s Qd] and won ($35.50) with a pair of Eights
+
+
+PokerStars Hand #146899901522:  Hold'em Limit ($3/$6 USD) - 2016/01/12 3:57:25 ET
+Table 'Lederle' 2-max Seat #1 is the button
+Seat 1: XJZD ($104.64 in chips)
+Seat 2: fifaliga ($128.50 in chips)
+XJZD: posts small blind $1
+fifaliga: posts big blind $3
+*** HOLE CARDS ***
+XJZD: raises $3 to $6
+fifaliga: calls $3
+*** FLOP *** [2d 3c 7h]
+fifaliga: checks
+XJZD: bets $3
+fifaliga: calls $3
+*** TURN *** [2d 3c 7h] [8d]
+fifaliga: checks
+XJZD: bets $6
+fifaliga: calls $6
+*** RIVER *** [2d 3c 7h 8d] [9h]
+fifaliga: checks
+XJZD: bets $6
+fifaliga: calls $6
+*** SHOW DOWN ***
+XJZD: shows [Th Tc] (a pair of Tens)
+fifaliga: mucks hand
+XJZD collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2d 3c 7h 8d 9h]
+Seat 1: XJZD (button) (small blind) showed [Th Tc] and won ($41.50) with a pair of Tens
+Seat 2: fifaliga (big blind) mucked
+
+

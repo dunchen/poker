@@ -1,0 +1,82 @@
+PokerStars Hand #165032459800:  Hold'em Limit ($3/$6 USD) - 2017/01/23 6:12:07 ET
+Table 'Pyrrhus' 6-max Seat #4 is the button
+Seat 4: Actionni13 ($150 in chips)
+Seat 5: sim5sim5 ($72 in chips)
+Actionni13: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+sim5sim5: calls $3
+*** FLOP *** [5s 2d 8c]
+sim5sim5: checks
+Actionni13: bets $3
+sim5sim5: raises $3 to $6
+Actionni13: calls $3
+*** TURN *** [5s 2d 8c] [9d]
+sim5sim5: bets $6
+Actionni13: folds
+Uncalled bet ($6) returned to sim5sim5
+sim5sim5 collected $23.52 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [5s 2d 8c 9d]
+Seat 4: Actionni13 (button) (small blind) folded on the Turn
+Seat 5: sim5sim5 (big blind) collected ($23.52)
+
+
+PokerStars Hand #165032472077:  Hold'em Limit ($3/$6 USD) - 2017/01/23 6:12:33 ET
+Table 'Pyrrhus' 6-max Seat #5 is the button
+Seat 4: Actionni13 ($150 in chips)
+Seat 5: sim5sim5 ($83.52 in chips)
+sim5sim5: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+Actionni13: calls $3
+*** FLOP *** [Kh Js Ad]
+Actionni13: checks
+sim5sim5: bets $3
+Actionni13: folds
+Uncalled bet ($3) returned to sim5sim5
+sim5sim5 collected $11.76 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kh Js Ad]
+Seat 4: Actionni13 (big blind) folded on the Flop
+Seat 5: sim5sim5 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #165033108449:  Hold'em Limit ($3/$6 USD) - 2017/01/23 6:34:54 ET
+Table 'Pyrrhus' 6-max Seat #2 is the button
+Seat 2: Speed2008 ($54 in chips)
+Seat 6: avraam888 ($51.81 in chips)
+Speed2008: posts small blind $1
+TbIP-TbIP 88: is sitting out
+avraam888: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88 leaves the table
+Speed2008: raises $3 to $6
+avraam888: calls $3
+*** FLOP *** [6c As 4h]
+avraam888: checks
+Speed2008: bets $3
+avraam888: calls $3
+*** TURN *** [6c As 4h] [Th]
+avraam888: checks
+Speed2008: bets $6
+avraam888: calls $6
+*** RIVER *** [6c As 4h Th] [Ts]
+avraam888: checks
+Speed2008: bets $6
+avraam888: folds
+Uncalled bet ($6) returned to Speed2008
+Speed2008 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6c As 4h Th Ts]
+Seat 2: Speed2008 (button) (small blind) collected ($29.50)
+Seat 6: avraam888 (big blind) folded on the River
+
+

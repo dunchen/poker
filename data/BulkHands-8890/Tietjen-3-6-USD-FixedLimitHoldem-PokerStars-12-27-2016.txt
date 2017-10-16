@@ -1,0 +1,56 @@
+PokerStars Hand #163585342684:  Hold'em Limit ($3/$6 USD) - 2016/12/26 21:47:26 ET
+Table 'Tietjen' 6-max Seat #1 is the button
+Seat 1: aceduffy5 ($28.47 in chips)
+Seat 4: aless284 ($210.38 in chips)
+aceduffy5: posts small blind $1
+aless284: posts big blind $3
+*** HOLE CARDS ***
+aceduffy5: calls $2
+aless284: checks
+*** FLOP *** [Tc 6s 2d]
+aless284: bets $3
+ABATAPP leaves the table
+aceduffy5: calls $3
+*** TURN *** [Tc 6s 2d] [5s]
+aless284: bets $6
+aceduffy5: calls $6
+*** RIVER *** [Tc 6s 2d 5s] [3s]
+aless284: bets $6
+aceduffy5: calls $6
+*** SHOW DOWN ***
+aless284: shows [9d 7h] (high card Ten)
+aceduffy5: mucks hand
+aless284 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Tc 6s 2d 5s 3s]
+Seat 1: aceduffy5 (button) (small blind) mucked
+Seat 4: aless284 (big blind) showed [9d 7h] and won ($35.50) with high card Ten
+
+
+PokerStars Hand #163585352368:  Hold'em Limit ($3/$6 USD) - 2016/12/26 21:47:47 ET
+Table 'Tietjen' 6-max Seat #4 is the button
+Seat 1: aceduffy5 ($10.47 in chips)
+Seat 4: aless284 ($227.88 in chips)
+aless284: posts small blind $1
+aceduffy5: posts big blind $3
+*** HOLE CARDS ***
+aless284: raises $3 to $6
+aceduffy5: raises $3 to $9
+aless284: calls $3
+*** FLOP *** [3c 7d 9h]
+aceduffy5: bets $1.47 and is all-in
+aless284: calls $1.47
+*** TURN *** [3c 7d 9h] [Qh]
+*** RIVER *** [3c 7d 9h Qh] [Qs]
+*** SHOW DOWN ***
+aceduffy5: shows [Js 6c] (a pair of Queens)
+aless284: shows [8d 7s] (two pair, Queens and Sevens)
+aless284 collected $20.52 from pot
+*** SUMMARY ***
+Total pot $20.94 | Rake $0.42
+Board [3c 7d 9h Qh Qs]
+Seat 1: aceduffy5 (big blind) showed [Js 6c] and lost with a pair of Queens
+Seat 4: aless284 (button) (small blind) showed [8d 7s] and won ($20.52) with two pair, Queens and Sevens
+
+

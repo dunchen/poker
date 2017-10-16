@@ -1,0 +1,53 @@
+PokerStars Hand #155413298051:  Hold'em Limit ($3/$6 USD) - 2016/07/01 1:00:00 ET
+Table 'Echemmon' 6-max Seat #4 is the button
+Seat 4: AzureCaper ($104.50 in chips)
+Seat 6: shanti321 ($5 in chips)
+AzureCaper: posts small blind $1
+shanti321: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: folds
+Uncalled bet ($2) returned to shanti321
+AzureCaper leaves the table
+shanti321 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: AzureCaper (button) (small blind) folded before Flop
+Seat 6: shanti321 (big blind) collected ($2)
+
+
+PokerStars Hand #155413290663:  Hold'em Limit ($3/$6 USD) - 2016/07/01 0:59:27 ET
+Table 'Echemmon' 6-max Seat #6 is the button
+Seat 4: AzureCaper ($72 in chips)
+Seat 6: shanti321 ($38 in chips)
+shanti321: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+shanti321: calls $2
+AzureCaper: raises $3 to $6
+shanti321: raises $3 to $9
+AzureCaper: calls $3
+*** FLOP *** [Ts 7h 6d]
+AzureCaper: checks
+shanti321: bets $3
+AzureCaper: raises $3 to $6
+shanti321: raises $3 to $9
+AzureCaper: raises $3 to $12
+Betting is capped
+shanti321: calls $3
+*** TURN *** [Ts 7h 6d] [9s]
+AzureCaper: bets $6
+shanti321: calls $6
+*** RIVER *** [Ts 7h 6d 9s] [Kc]
+AzureCaper: bets $6
+shanti321: calls $6
+*** SHOW DOWN ***
+AzureCaper: shows [8d 8c] (a straight, Six to Ten)
+shanti321: mucks hand
+AzureCaper collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [Ts 7h 6d 9s Kc]
+Seat 4: AzureCaper (big blind) showed [8d 8c] and won ($65.50) with a straight, Six to Ten
+Seat 6: shanti321 (button) (small blind) mucked
+
+

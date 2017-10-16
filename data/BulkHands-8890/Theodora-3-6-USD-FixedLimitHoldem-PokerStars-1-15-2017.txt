@@ -1,0 +1,129 @@
+PokerStars Hand #164608838325:  Hold'em Limit ($3/$6 USD) - 2017/01/15 8:07:30 ET
+Table 'Theodora' 6-max Seat #1 is the button
+Seat 1: parnishka11 ($38.29 in chips)
+Seat 4: Agrotait ($72.76 in chips)
+parnishka11: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+parnishka11: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [Jd 8s Kd]
+Agrotait: checks
+parnishka11: bets $3
+Agrotait: folds
+Uncalled bet ($3) returned to parnishka11
+parnishka11 collected $11.76 from pot
+parnishka11: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jd 8s Kd]
+Seat 1: parnishka11 (button) (small blind) collected ($11.76)
+Seat 4: Agrotait (big blind) folded on the Flop
+
+
+PokerStars Hand #164608872662:  Hold'em Limit ($3/$6 USD) - 2017/01/15 8:08:21 ET
+Table 'Theodora' 6-max Seat #4 is the button
+Seat 1: parnishka11 ($44.05 in chips)
+Seat 4: Agrotait ($66.76 in chips)
+Agrotait: posts small blind $1
+parnishka11: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+parnishka11: calls $3
+*** FLOP *** [5h Qs 3s]
+parnishka11: checks
+Agrotait: bets $3
+parnishka11: calls $3
+*** TURN *** [5h Qs 3s] [3c]
+parnishka11: checks
+Agrotait: checks
+*** RIVER *** [5h Qs 3s 3c] [Jd]
+parnishka11: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+parnishka11: shows [6d 7c] (a pair of Threes)
+Agrotait: shows [Kh 8d] (a pair of Threes - King kicker)
+Agrotait collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5h Qs 3s 3c Jd]
+Seat 1: parnishka11 (big blind) showed [6d 7c] and lost with a pair of Threes
+Seat 4: Agrotait (button) (small blind) showed [Kh 8d] and won ($29.50) with a pair of Threes
+
+
+PokerStars Hand #164608891958:  Hold'em Limit ($3/$6 USD) - 2017/01/15 8:08:50 ET
+Table 'Theodora' 6-max Seat #1 is the button
+Seat 1: parnishka11 ($29.05 in chips)
+Seat 4: Agrotait ($81.26 in chips)
+parnishka11: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+parnishka11: raises $3 to $6
+Agrotait: raises $3 to $9
+parnishka11: calls $3
+*** FLOP *** [2s As 6h]
+kusznak joins the table at seat #3
+Agrotait: bets $3
+parnishka11: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $17.64 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2s As 6h]
+Seat 1: parnishka11 (button) (small blind) folded on the Flop
+Seat 4: Agrotait (big blind) collected ($17.64)
+
+
+PokerStars Hand #164608904899:  Hold'em Limit ($3/$6 USD) - 2017/01/15 8:09:09 ET
+Table 'Theodora' 6-max Seat #4 is the button
+Seat 1: parnishka11 ($20.05 in chips)
+Seat 4: Agrotait ($89.90 in chips)
+Agrotait: posts small blind $1
+parnishka11: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: folds
+Uncalled bet ($2) returned to parnishka11
+parnishka11 collected $2 from pot
+parnishka11: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: parnishka11 (big blind) collected ($2)
+Seat 4: Agrotait (button) (small blind) folded before Flop
+
+
+PokerStars Hand #164610095649:  Hold'em Limit ($3/$6 USD) - 2017/01/15 8:37:42 ET
+Table 'Theodora' 6-max Seat #4 is the button
+Seat 3: kusznak ($59.20 in chips)
+Seat 4: sinsadir ($108.42 in chips)
+sinsadir: posts small blind $1
+Johnliu: is sitting out
+MellivoraSto: is sitting out
+kusznak: posts big blind $3
+*** HOLE CARDS ***
+sinsadir: raises $3 to $6
+kusznak: calls $3
+*** FLOP *** [Td 7d 2s]
+kusznak: checks
+sinsadir: checks
+*** TURN *** [Td 7d 2s] [6s]
+kusznak: bets $6
+sinsadir: raises $6 to $12
+Johnliu leaves the table
+kusznak: calls $6
+*** RIVER *** [Td 7d 2s 6s] [Tc]
+kusznak: checks
+MellivoraSto leaves the table
+sinsadir: bets $6
+kusznak: calls $6
+*** SHOW DOWN ***
+sinsadir: shows [6h 6d] (a full house, Sixes full of Tens)
+kusznak: mucks hand
+sinsadir collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Td 7d 2s 6s Tc]
+Seat 3: kusznak (big blind) mucked
+Seat 4: sinsadir (button) (small blind) showed [6h 6d] and won ($47.50) with a full house, Sixes full of Tens
+
+

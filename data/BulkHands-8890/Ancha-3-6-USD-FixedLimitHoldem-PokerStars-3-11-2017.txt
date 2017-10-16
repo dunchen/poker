@@ -1,0 +1,82 @@
+PokerStars Hand #167451019336:  Hold'em Limit ($3/$6 USD) - 2017/03/11 16:52:23 ET
+Table 'Ancha' 6-max Seat #4 is the button
+Seat 4: MTails ($85 in chips)
+Seat 5: megabaitt ($154.14 in chips)
+MTails: posts small blind $1
+megabaitt: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+megabaitt: folds
+Uncalled bet ($3) returned to MTails
+megabaitt leaves the table
+MTails collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 4: MTails (button) (small blind) collected ($6)
+Seat 5: megabaitt (big blind) folded before Flop
+
+
+PokerStars Hand #167450997812:  Hold'em Limit ($3/$6 USD) - 2017/03/11 16:51:58 ET
+Table 'Ancha' 6-max Seat #5 is the button
+Seat 4: MTails ($115 in chips)
+Seat 5: megabaitt ($124.64 in chips)
+megabaitt: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+megabaitt: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [Qc 7s 3d]
+MTails: checks
+megabaitt: bets $3
+MTails: raises $3 to $6
+megabaitt: raises $3 to $9
+MTails: raises $3 to $12
+Betting is capped
+megabaitt: calls $3
+*** TURN *** [Qc 7s 3d] [9h]
+MTails: bets $6
+megabaitt: calls $6
+*** RIVER *** [Qc 7s 3d 9h] [Ks]
+MTails: checks
+megabaitt: bets $6
+MTails: calls $6
+*** SHOW DOWN ***
+megabaitt: shows [Qh 7h] (two pair, Queens and Sevens)
+MTails: mucks hand
+megabaitt collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Qc 7s 3d 9h Ks]
+Seat 4: MTails (big blind) mucked
+Seat 5: megabaitt (button) (small blind) showed [Qh 7h] and won ($59.50) with two pair, Queens and Sevens
+
+
+PokerStars Hand #167450983514:  Hold'em Limit ($3/$6 USD) - 2017/03/11 16:51:41 ET
+Table 'Ancha' 6-max Seat #4 is the button
+Seat 4: MTails ($124 in chips)
+Seat 5: megabaitt ($116 in chips)
+MTails: posts small blind $1
+megabaitt: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+megabaitt: calls $3
+*** FLOP *** [5s 3d 9h]
+megabaitt: checks
+MTails: bets $3
+megabaitt: calls $3
+*** TURN *** [5s 3d 9h] [Jd]
+megabaitt: checks
+MTails: checks
+*** RIVER *** [5s 3d 9h Jd] [Kh]
+megabaitt: bets $6
+MTails: folds
+Uncalled bet ($6) returned to megabaitt
+megabaitt collected $17.64 from pot
+megabaitt: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5s 3d 9h Jd Kh]
+Seat 4: MTails (button) (small blind) folded on the River
+Seat 5: megabaitt (big blind) collected ($17.64)
+
+

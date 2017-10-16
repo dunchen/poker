@@ -1,0 +1,114 @@
+PokerStars Hand #146048920246:  Hold'em Limit ($3/$6 USD) - 2015/12/28 5:33:22 ET
+Table 'Troilus II' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($102.50 in chips)
+Seat 2: melyh82 ($75.78 in chips)
+BigYelloFish: posts small blind $1
+melyh82: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+melyh82: raises $3 to $9
+BigYelloFish: calls $3
+*** FLOP *** [4c Td 8h]
+melyh82: bets $3
+BigYelloFish: calls $3
+*** TURN *** [4c Td 8h] [As]
+melyh82: bets $6
+BigYelloFish: raises $6 to $12
+melyh82: calls $6
+*** RIVER *** [4c Td 8h As] [6s]
+melyh82: checks
+BigYelloFish: bets $6
+melyh82: folds
+Uncalled bet ($6) returned to BigYelloFish
+BigYelloFish collected $47.50 from pot
+BigYelloFish: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4c Td 8h As 6s]
+Seat 1: BigYelloFish (button) (small blind) collected ($47.50)
+Seat 2: melyh82 (big blind) folded on the River
+
+
+PokerStars Hand #146048912650:  Hold'em Limit ($3/$6 USD) - 2015/12/28 5:33:05 ET
+Table 'Troilus II' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($114.50 in chips)
+Seat 2: melyh82 ($64.26 in chips)
+melyh82: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+melyh82: raises $3 to $6
+BigYelloFish: raises $3 to $9
+melyh82: calls $3
+*** FLOP *** [Ks Ac Qh]
+BigYelloFish: bets $3
+melyh82: calls $3
+*** TURN *** [Ks Ac Qh] [5h]
+BigYelloFish: checks
+melyh82: checks
+*** RIVER *** [Ks Ac Qh 5h] [Ts]
+BigYelloFish: checks
+melyh82: checks
+*** SHOW DOWN ***
+BigYelloFish: shows [8h 8s] (a pair of Eights)
+melyh82: shows [4h Tc] (a pair of Tens)
+melyh82 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Ks Ac Qh 5h Ts]
+Seat 1: BigYelloFish (big blind) showed [8h 8s] and lost with a pair of Eights
+Seat 2: melyh82 (button) (small blind) showed [4h Tc] and won ($23.52) with a pair of Tens
+
+
+PokerStars Hand #146048902001:  Hold'em Limit ($3/$6 USD) - 2015/12/28 5:32:42 ET
+Table 'Troilus II' 2-max Seat #2 is the button
+Seat 1: BigYelloFish ($135.50 in chips)
+Seat 2: melyh82 ($44 in chips)
+melyh82: posts small blind $1
+BigYelloFish: posts big blind $3
+*** HOLE CARDS ***
+melyh82: raises $3 to $6
+BigYelloFish: calls $3
+*** FLOP *** [8c 9h Qs]
+BigYelloFish: checks
+melyh82: bets $3
+BigYelloFish: folds
+Uncalled bet ($3) returned to melyh82
+melyh82 collected $11.76 from pot
+melyh82: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8c 9h Qs]
+Seat 1: BigYelloFish (big blind) folded on the Flop
+Seat 2: melyh82 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #146048894145:  Hold'em Limit ($3/$6 USD) - 2015/12/28 5:32:25 ET
+Table 'Troilus II' 2-max Seat #1 is the button
+Seat 1: BigYelloFish ($121 in chips)
+Seat 2: melyh82 ($59 in chips)
+BigYelloFish: posts small blind $1
+melyh82: posts big blind $3
+*** HOLE CARDS ***
+BigYelloFish: raises $3 to $6
+melyh82: calls $3
+*** FLOP *** [4d Qh 9s]
+melyh82: checks
+BigYelloFish: bets $3
+melyh82: calls $3
+*** TURN *** [4d Qh 9s] [Jh]
+melyh82: checks
+BigYelloFish: checks
+*** RIVER *** [4d Qh 9s Jh] [5c]
+melyh82: bets $6
+BigYelloFish: calls $6
+*** SHOW DOWN ***
+melyh82: shows [Kc As] (high card Ace)
+BigYelloFish: shows [7c 5d] (a pair of Fives)
+BigYelloFish collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4d Qh 9s Jh 5c]
+Seat 1: BigYelloFish (button) (small blind) showed [7c 5d] and won ($29.50) with a pair of Fives
+Seat 2: melyh82 (big blind) showed [Kc As] and lost with high card Ace
+
+

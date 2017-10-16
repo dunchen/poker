@@ -1,0 +1,32 @@
+PokerStars Hand #167536177566:  Hold'em Limit ($3/$6 USD) - 2017/03/13 14:04:33 ET
+Table 'Liaoning' 6-max Seat #3 is the button
+Seat 3: sim5sim5 ($72 in chips)
+Seat 4: **Geka**555 ($30.19 in chips)
+sim5sim5: posts small blind $1
+**Geka**555: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+**Geka**555: calls $3
+*** FLOP *** [Qh 4s 3d]
+**Geka**555: checks
+sim5sim5: bets $3
+**Geka**555: calls $3
+*** TURN *** [Qh 4s 3d] [9s]
+Great_Kang joins the table at seat #5
+**Geka**555: checks
+sim5sim5: bets $6
+**Geka**555: calls $6
+*** RIVER *** [Qh 4s 3d 9s] [Kc]
+**Geka**555: checks
+sim5sim5: checks
+*** SHOW DOWN ***
+**Geka**555: shows [3h Ad] (a pair of Threes)
+sim5sim5: shows [6c 6h] (a pair of Sixes)
+sim5sim5 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qh 4s 3d 9s Kc]
+Seat 3: sim5sim5 (button) (small blind) showed [6c 6h] and won ($29.50) with a pair of Sixes
+Seat 4: **Geka**555 (big blind) showed [3h Ad] and lost with a pair of Threes
+
+

@@ -1,0 +1,34 @@
+PokerStars Hand #169932068123:  Hold'em Limit ($3/$6 USD) - 2017/05/04 4:28:50 ET
+Table 'Mette' 6-max Seat #5 is the button
+Seat 2: Icecold ($202.55 in chips)
+Seat 5: VitAmIn744 ($200.63 in chips)
+VitAmIn744: posts small blind $1
+krossguard: is sitting out
+Icecold: posts big blind $3
+*** HOLE CARDS ***
+VitAmIn744: raises $3 to $6
+krossguard leaves the table
+Icecold: calls $3
+*** FLOP *** [Ah Ks Qc]
+Icecold: checks
+VitAmIn744: bets $3
+Icecold: calls $3
+*** TURN *** [Ah Ks Qc] [9d]
+Icecold: checks
+VitAmIn744: bets $6
+Icecold: calls $6
+*** RIVER *** [Ah Ks Qc 9d] [2h]
+Icecold: checks
+VitAmIn744: bets $6
+Icecold: calls $6
+*** SHOW DOWN ***
+VitAmIn744: shows [3d Ac] (a pair of Aces)
+Icecold: shows [Kd 2s] (two pair, Kings and Deuces)
+Icecold collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ah Ks Qc 9d 2h]
+Seat 2: Icecold (big blind) showed [Kd 2s] and won ($41.50) with two pair, Kings and Deuces
+Seat 5: VitAmIn744 (button) (small blind) showed [3d Ac] and lost with a pair of Aces
+
+

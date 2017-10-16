@@ -1,0 +1,50 @@
+PokerStars Hand #148553262139:  Hold'em Limit ($3/$6 USD) - 2016/02/10 7:29:57 ET
+Table 'Seillier II' 2-max Seat #1 is the button
+Seat 1: Rus29APX ($161.16 in chips)
+Seat 2: Psychic_90 ($6.81 in chips)
+Rus29APX: posts small blind $1
+Psychic_90: posts big blind $3
+*** HOLE CARDS ***
+Rus29APX: raises $3 to $6
+Psychic_90: raises $0.81 to $6.81 and is all-in
+Rus29APX: calls $0.81
+*** FLOP *** [5d Qs Jh]
+*** TURN *** [5d Qs Jh] [Ad]
+*** RIVER *** [5d Qs Jh Ad] [2c]
+*** SHOW DOWN ***
+Psychic_90: shows [5h 9s] (a pair of Fives)
+Rus29APX: shows [3c Qc] (a pair of Queens)
+Rus29APX collected $13.35 from pot
+*** SUMMARY ***
+Total pot $13.62 | Rake $0.27
+Board [5d Qs Jh Ad 2c]
+Seat 1: Rus29APX (button) (small blind) showed [3c Qc] and won ($13.35) with a pair of Queens
+Seat 2: Psychic_90 (big blind) showed [5h 9s] and lost with a pair of Fives
+
+
+PokerStars Hand #148553251406:  Hold'em Limit ($3/$6 USD) - 2016/02/10 7:29:39 ET
+Table 'Seillier II' 2-max Seat #2 is the button
+Seat 1: Rus29APX ($161.30 in chips)
+Seat 2: Psychic_90 ($6.95 in chips)
+Psychic_90: posts small blind $1
+Rus29APX: posts big blind $3
+*** HOLE CARDS ***
+Psychic_90: raises $3 to $6
+Rus29APX: raises $3 to $9
+Psychic_90: calls $0.95 and is all-in
+Uncalled bet ($2.05) returned to Rus29APX
+*** FLOP *** [3h 3s Ah]
+*** TURN *** [3h 3s Ah] [9d]
+*** RIVER *** [3h 3s Ah 9d] [3c]
+*** SHOW DOWN ***
+Rus29APX: shows [8s 4h] (three of a kind, Threes)
+Psychic_90: shows [5h 2s] (three of a kind, Threes)
+Rus29APX collected $6.81 from pot
+Psychic_90 collected $6.81 from pot
+*** SUMMARY ***
+Total pot $13.90 | Rake $0.28
+Board [3h 3s Ah 9d 3c]
+Seat 1: Rus29APX (big blind) showed [8s 4h] and won ($6.81) with three of a kind, Threes
+Seat 2: Psychic_90 (button) (small blind) showed [5h 2s] and won ($6.81) with three of a kind, Threes
+
+

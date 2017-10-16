@@ -1,0 +1,98 @@
+PokerStars Hand #147042064876:  Hold'em Limit ($3/$6 USD) - 2016/01/14 16:09:57 ET
+Table 'Alya IV' 6-max Seat #1 is the button
+Seat 1: Brama Br ($135.50 in chips)
+Seat 5: Zubasa07 ($484 in chips)
+Brama Br: posts small blind $1
+Zubasa07: posts big blind $3
+*** HOLE CARDS ***
+Brama Br: raises $3 to $6
+Zubasa07: calls $3
+*** FLOP *** [6h 7c 2s]
+Zubasa07: checks
+Brama Br: bets $3
+Zubasa07: raises $3 to $6
+Brama Br: raises $3 to $9
+Zubasa07: calls $3
+*** TURN *** [6h 7c 2s] [8s]
+Zubasa07: checks
+Brama Br: bets $6
+Zubasa07: calls $6
+*** RIVER *** [6h 7c 2s 8s] [4s]
+Zubasa07: checks
+Brama Br: checks
+*** SHOW DOWN ***
+Zubasa07: shows [9d 7h] (a pair of Sevens)
+Brama Br: shows [6c 7s] (two pair, Sevens and Sixes)
+Brama Br collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [6h 7c 2s 8s 4s]
+Seat 1: Brama Br (button) (small blind) showed [6c 7s] and won ($41.50) with two pair, Sevens and Sixes
+Seat 5: Zubasa07 (big blind) showed [9d 7h] and lost with a pair of Sevens
+
+
+PokerStars Hand #147042574855:  Hold'em Limit ($3/$6 USD) - 2016/01/14 16:17:30 ET
+Table 'Alya IV' 6-max Seat #3 is the button
+Seat 2: SashaYuvelir ($55.49 in chips)
+Seat 3: LolDnkaments ($72 in chips)
+LolDnkaments: posts small blind $1
+Zubasa07: is sitting out
+SashaYuvelir: posts big blind $3
+*** HOLE CARDS ***
+LolDnkaments: raises $3 to $6
+SashaYuvelir: calls $3
+*** FLOP *** [7h Qs Tc]
+SashaYuvelir: checks
+LolDnkaments: bets $3
+SashaYuvelir: raises $3 to $6
+LolDnkaments: calls $3
+*** TURN *** [7h Qs Tc] [9h]
+SashaYuvelir: bets $6
+LolDnkaments: calls $6
+*** RIVER *** [7h Qs Tc 9h] [3d]
+SashaYuvelir: bets $6
+LolDnkaments: calls $6
+*** SHOW DOWN ***
+SashaYuvelir: shows [8c 9s] (a pair of Nines)
+LolDnkaments: mucks hand
+SashaYuvelir collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7h Qs Tc 9h 3d]
+Seat 2: SashaYuvelir (big blind) showed [8c 9s] and won ($47.50) with a pair of Nines
+Seat 3: LolDnkaments (button) (small blind) mucked
+
+
+PokerStars Hand #147042751238:  Hold'em Limit ($3/$6 USD) - 2016/01/14 16:20:07 ET
+Table 'Alya IV' 6-max Seat #2 is the button
+Seat 1: Brama Br ($140.51 in chips)
+Seat 2: SashaYuvelir ($78.99 in chips)
+SashaYuvelir: posts small blind $1
+Brama Br: posts big blind $3
+*** HOLE CARDS ***
+SashaYuvelir: raises $3 to $6
+Brama Br: calls $3
+*** FLOP *** [4h 2d Tc]
+Brama Br: checks
+SashaYuvelir: bets $3
+LolDnkaments joins the table at seat #3
+Brama Br: calls $3
+*** TURN *** [4h 2d Tc] [8d]
+Brama Br: checks
+SashaYuvelir: bets $6
+Zubasa07 leaves the table
+Brama Br: calls $6
+*** RIVER *** [4h 2d Tc 8d] [7d]
+Brama Br: checks
+SashaYuvelir: checks
+*** SHOW DOWN ***
+Brama Br: shows [As 3d] (high card Ace)
+SashaYuvelir: shows [Qd 4c] (a pair of Fours)
+SashaYuvelir collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4h 2d Tc 8d 7d]
+Seat 1: Brama Br (big blind) showed [As 3d] and lost with high card Ace
+Seat 2: SashaYuvelir (button) (small blind) showed [Qd 4c] and won ($29.50) with a pair of Fours
+
+

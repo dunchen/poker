@@ -1,0 +1,32 @@
+PokerStars Hand #167489904555:  Hold'em Limit ($3/$6 USD) - 2017/03/12 14:15:43 ET
+Table 'Yarilo' 6-max Seat #4 is the button
+Seat 1: Norbert-04 ($35.56 in chips)
+Seat 4: Agrotait ($73 in chips)
+Agrotait: posts small blind $1
+Norbert-04: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+Norbert-04: calls $3
+*** FLOP *** [8h 5s 2d]
+Norbert-04: checks
+Agrotait: bets $3
+Norbert-04: calls $3
+*** TURN *** [8h 5s 2d] [Jd]
+Norbert-04: checks
+Agrotait: bets $6
+Norbert-04: calls $6
+*** RIVER *** [8h 5s 2d Jd] [Ac]
+Norbert-04: checks
+jreilly joins the table at seat #3
+Agrotait: checks
+*** SHOW DOWN ***
+Norbert-04: shows [2s Ts] (a pair of Deuces)
+Agrotait: shows [8s 4d] (a pair of Eights)
+Agrotait collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8h 5s 2d Jd Ac]
+Seat 1: Norbert-04 (big blind) showed [2s Ts] and lost with a pair of Deuces
+Seat 4: Agrotait (button) (small blind) showed [8s 4d] and won ($29.50) with a pair of Eights
+
+

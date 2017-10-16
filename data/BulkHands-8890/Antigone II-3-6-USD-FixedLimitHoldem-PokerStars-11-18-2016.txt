@@ -1,0 +1,36 @@
+PokerStars Hand #161588217071:  Hold'em Limit ($3/$6 USD) - 2016/11/18 10:18:42 ET
+Table 'Antigone II' 6-max Seat #2 is the button
+Seat 1: beng_51 ($158.14 in chips)
+Seat 2: grabaz ($222.65 in chips)
+grabaz: posts small blind $1
+kolaz03: is sitting out
+B_loJkl: is sitting out
+beng_51: posts big blind $3
+*** HOLE CARDS ***
+Dron21200 leaves the table
+kolaz03 leaves the table
+grabaz: raises $3 to $6
+beng_51: calls $3
+*** FLOP *** [Ac 2h 5c]
+beng_51: checks
+grabaz: bets $3
+beng_51: calls $3
+*** TURN *** [Ac 2h 5c] [6h]
+beng_51: checks
+grabaz: bets $6
+beng_51: calls $6
+*** RIVER *** [Ac 2h 5c 6h] [3c]
+B_loJkl leaves the table
+beng_51: checks
+grabaz: checks
+*** SHOW DOWN ***
+beng_51: shows [6c 7d] (a pair of Sixes)
+grabaz: mucks hand
+beng_51 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ac 2h 5c 6h 3c]
+Seat 1: beng_51 (big blind) showed [6c 7d] and won ($29.50) with a pair of Sixes
+Seat 2: grabaz (button) (small blind) mucked
+
+

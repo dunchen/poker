@@ -1,0 +1,33 @@
+PokerStars Hand #154686860667:  Hold'em Limit ($3/$6 USD) - 2016/06/13 13:28:31 ET
+Table 'Morrison' 6-max Seat #4 is the button
+Seat 4: mmk334 ($166.69 in chips)
+Seat 6: Murrrr_@T ($94 in chips)
+mmk334: posts small blind $1
+Murrrr_@T: posts big blind $3
+*** HOLE CARDS ***
+mmk334: raises $3 to $6
+Murrrr_@T: calls $3
+*** FLOP *** [6s 9s 6h]
+Murrrr_@T: checks
+mmk334: bets $3
+Murrrr_@T: calls $3
+*** TURN *** [6s 9s 6h] [2c]
+Murrrr_@T: checks
+mmk334: bets $6
+dirtygame93 joins the table at seat #3
+Murrrr_@T: calls $6
+*** RIVER *** [6s 9s 6h 2c] [Th]
+Murrrr_@T: checks
+mmk334: checks
+*** SHOW DOWN ***
+Murrrr_@T: shows [7c 5d] (a pair of Sixes)
+mmk334: shows [9d 3s] (two pair, Nines and Sixes)
+mmk334 collected $29.50 from pot
+GoliafUa leaves the table
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6s 9s 6h 2c Th]
+Seat 4: mmk334 (button) (small blind) showed [9d 3s] and won ($29.50) with two pair, Nines and Sixes
+Seat 6: Murrrr_@T (big blind) showed [7c 5d] and lost with a pair of Sixes
+
+

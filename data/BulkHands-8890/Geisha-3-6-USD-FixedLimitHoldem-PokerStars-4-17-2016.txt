@@ -1,0 +1,33 @@
+PokerStars Hand #152045149218:  Hold'em Limit ($3/$6 USD) - 2016/04/17 10:47:35 ET
+Table 'Geisha' 6-max Seat #2 is the button
+Seat 1: Warner13 ($30 in chips)
+Seat 2: kolaz03 ($72 in chips)
+kolaz03: posts small blind $1
+TbIP-TbIP 88: is sitting out
+TbIP-TbIP 88 leaves the table
+Warner13: posts big blind $3
+*** HOLE CARDS ***
+kolaz03: raises $3 to $6
+Warner13: calls $3
+*** FLOP *** [7d 8d Jd]
+Warner13: checks
+kolaz03: bets $3
+Warner13: raises $3 to $6
+kolaz03: calls $3
+*** TURN *** [7d 8d Jd] [Jc]
+Warner13: bets $6
+kolaz03: raises $6 to $12
+Warner13: raises $6 to $18 and is all-in
+kolaz03: calls $6
+*** RIVER *** [7d 8d Jd Jc] [Kh]
+*** SHOW DOWN ***
+Warner13: shows [Ad 2h] (a pair of Jacks)
+kolaz03: shows [Ah 9h] (a pair of Jacks - Ace+King+Nine kicker)
+kolaz03 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [7d 8d Jd Jc Kh]
+Seat 1: Warner13 (big blind) showed [Ad 2h] and lost with a pair of Jacks
+Seat 2: kolaz03 (button) (small blind) showed [Ah 9h] and won ($59.50) with a pair of Jacks
+
+

@@ -1,0 +1,107 @@
+PokerStars Hand #175977510938:  Hold'em Limit ($3/$6 USD) - 2017/09/22 12:44:07 ET
+Table 'Chrysothemis' 6-max Seat #3 is the button
+Seat 1: zimin10 ($72 in chips)
+Seat 3: Artachok ($66 in chips)
+Artachok: posts small blind $1
+vestimokrec: is sitting out
+zimin10: posts big blind $3
+*** HOLE CARDS ***
+Artachok: raises $3 to $6
+zimin10: calls $3
+*** FLOP *** [Ac 3s 3h]
+zimin10: checks
+Artachok: bets $3
+zimin10: folds
+Uncalled bet ($3) returned to Artachok
+Artachok collected $11.76 from pot
+Artachok: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ac 3s 3h]
+Seat 1: zimin10 (big blind) folded on the Flop
+Seat 3: Artachok (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #175977542571:  Hold'em Limit ($3/$6 USD) - 2017/09/22 12:44:55 ET
+Table 'Chrysothemis' 6-max Seat #1 is the button
+Seat 1: zimin10 ($72 in chips)
+Seat 3: Artachok ($71.76 in chips)
+zimin10: posts small blind $1
+Artachok: posts big blind $3
+*** HOLE CARDS ***
+zimin10: raises $3 to $6
+Artachok: calls $3
+*** FLOP *** [Qs 7c 3c]
+Artachok: checks
+zimin10: bets $3
+Artachok: calls $3
+*** TURN *** [Qs 7c 3c] [4s]
+Artachok: checks
+zimin10: checks
+*** RIVER *** [Qs 7c 3c 4s] [Td]
+Artachok: checks
+Noah21 joins the table at seat #6
+zimin10: checks
+*** SHOW DOWN ***
+Artachok: shows [3h Kh] (a pair of Threes)
+zimin10: mucks hand
+favete lin joins the table at seat #2
+Artachok collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qs 7c 3c 4s Td]
+Seat 1: zimin10 (button) (small blind) mucked
+Seat 3: Artachok (big blind) showed [3h Kh] and won ($17.64) with a pair of Threes
+
+
+PokerStars Hand #175978942927:  Hold'em Limit ($3/$6 USD) - 2017/09/22 13:20:02 ET
+Table 'Chrysothemis' 6-max Seat #3 is the button
+Seat 2: ToDaFelt ($118.36 in chips)
+Seat 3: Artachok ($65.85 in chips)
+Artachok: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+Artachok: folds
+Uncalled bet ($2) returned to ToDaFelt
+ToDaFelt collected $2 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: ToDaFelt (big blind) collected ($2)
+Seat 3: Artachok (button) (small blind) folded before Flop
+
+
+PokerStars Hand #175978946839:  Hold'em Limit ($3/$6 USD) - 2017/09/22 13:20:08 ET
+Table 'Chrysothemis' 6-max Seat #2 is the button
+Seat 2: ToDaFelt ($119.36 in chips)
+Seat 3: Artachok ($64.85 in chips)
+ToDaFelt: posts small blind $1
+Artachok: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+Artachok: raises $3 to $9
+ToDaFelt: calls $3
+*** FLOP *** [3s Tc 3c]
+Artachok: bets $3
+ToDaFelt: raises $3 to $6
+Artachok: calls $3
+*** TURN *** [3s Tc 3c] [7s]
+Artachok: checks
+ToDaFelt: bets $6
+Artachok: calls $6
+*** RIVER *** [3s Tc 3c 7s] [9d]
+Artachok: checks
+ToDaFelt: bets $6
+Artachok: raises $6 to $12
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+Artachok: shows [Jd 8d] (a straight, Seven to Jack)
+ToDaFelt: mucks hand
+Artachok collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [3s Tc 3c 7s 9d]
+Seat 2: ToDaFelt (button) (small blind) mucked
+Seat 3: Artachok (big blind) showed [Jd 8d] and won ($65.50) with a straight, Seven to Jack
+
+

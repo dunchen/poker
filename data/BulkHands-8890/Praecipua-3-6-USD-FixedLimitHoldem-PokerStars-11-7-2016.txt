@@ -1,0 +1,57 @@
+PokerStars Hand #161037967273:  Hold'em Limit ($3/$6 USD) - 2016/11/07 8:39:59 ET
+Table 'Praecipua' 10-max Seat #6 is the button
+Seat 6: assitoni ($72 in chips)
+Seat 9: Chrisgalo33 ($30 in chips)
+assitoni: posts small blind $1
+Chrisgalo33: posts big blind $3
+*** HOLE CARDS ***
+assitoni: raises $3 to $6
+Chrisgalo33: calls $3
+*** FLOP *** [Th 4c Tc]
+Chrisgalo33: checks
+assitoni: bets $3
+Chrisgalo33: calls $3
+*** TURN *** [Th 4c Tc] [Ad]
+Chrisgalo33: checks
+assitoni: bets $6
+Chrisgalo33: calls $6
+*** RIVER *** [Th 4c Tc Ad] [3s]
+Chrisgalo33: checks
+assitoni: bets $6
+Chrisgalo33: calls $6
+*** SHOW DOWN ***
+assitoni: shows [7c Td] (three of a kind, Tens)
+Chrisgalo33: mucks hand
+assitoni collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Th 4c Tc Ad 3s]
+Seat 6: assitoni (button) (small blind) showed [7c Td] and won ($41.50) with three of a kind, Tens
+Seat 9: Chrisgalo33 (big blind) mucked
+
+
+PokerStars Hand #161037987748:  Hold'em Limit ($3/$6 USD) - 2016/11/07 8:40:34 ET
+Table 'Praecipua' 10-max Seat #9 is the button
+Seat 6: assitoni ($92.50 in chips)
+Seat 9: Chrisgalo33 ($9 in chips)
+Chrisgalo33: posts small blind $1
+assitoni: posts big blind $3
+*** HOLE CARDS ***
+Chrisgalo33: raises $3 to $6
+assitoni: raises $3 to $9
+Chrisgalo33: calls $3 and is all-in
+*** FLOP *** [3h 4d 9c]
+*** TURN *** [3h 4d 9c] [Ac]
+*** RIVER *** [3h 4d 9c Ac] [3c]
+*** SHOW DOWN ***
+assitoni: shows [Ah Kc] (two pair, Aces and Threes)
+Chrisgalo33: shows [Tc Jh] (a pair of Threes)
+assitoni collected $17.64 from pot
+Chrisgalo33 leaves the table
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3h 4d 9c Ac 3c]
+Seat 6: assitoni (big blind) showed [Ah Kc] and won ($17.64) with two pair, Aces and Threes
+Seat 9: Chrisgalo33 (button) (small blind) showed [Tc Jh] and lost with a pair of Threes
+
+

@@ -1,0 +1,48 @@
+PokerStars Hand #162040932247:  Hold'em Limit ($3/$6 USD) - 2016/11/27 11:10:06 ET
+Table 'Wotho' 6-max Seat #3 is the button
+Seat 3: KChond0 ($149 in chips)
+Seat 4: MTails ($90 in chips)
+KChond0: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+KChond0: folds
+Uncalled bet ($2) returned to MTails
+MTails collected $2 from pot
+MTails: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: KChond0 (button) (small blind) folded before Flop
+Seat 4: MTails (big blind) collected ($2)
+
+
+PokerStars Hand #162040920267:  Hold'em Limit ($3/$6 USD) - 2016/11/27 11:09:50 ET
+Table 'Wotho' 6-max Seat #4 is the button
+Seat 3: KChond0 ($134.50 in chips)
+Seat 4: MTails ($105 in chips)
+MTails: posts small blind $1
+KChond0: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+KChond0: calls $3
+*** FLOP *** [Ad 5d 8h]
+KChond0: checks
+MTails: bets $3
+KChond0: calls $3
+*** TURN *** [Ad 5d 8h] [6c]
+KChond0: checks
+MTails: bets $6
+KChond0: calls $6
+*** RIVER *** [Ad 5d 8h 6c] [Ah]
+KChond0: checks
+MTails: checks
+*** SHOW DOWN ***
+KChond0: shows [4h 5h] (two pair, Aces and Fives)
+MTails: mucks hand
+KChond0 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ad 5d 8h 6c Ah]
+Seat 3: KChond0 (big blind) showed [4h 5h] and won ($29.50) with two pair, Aces and Fives
+Seat 4: MTails (button) (small blind) mucked
+
+

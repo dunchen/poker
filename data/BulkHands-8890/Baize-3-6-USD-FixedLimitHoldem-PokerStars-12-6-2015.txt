@@ -1,0 +1,31 @@
+PokerStars Hand #144901966879:  Hold'em Limit ($3/$6 USD) - 2015/12/06 6:05:43 ET
+Table 'Baize' 6-max Seat #1 is the button
+Seat 1: matteonorth ($55 in chips)
+Seat 2: BelSv ($78 in chips)
+matteonorth: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+matteonorth: calls $2
+BelSv: raises $3 to $6
+matteonorth: calls $3
+*** FLOP *** [9c Ts Kc]
+Agrotait leaves the table
+BelSv: bets $3
+matteonorth: calls $3
+*** TURN *** [9c Ts Kc] [8c]
+BelSv: checks
+matteonorth: bets $6
+BelSv: calls $6
+*** RIVER *** [9c Ts Kc 8c] [2h]
+BelSv: checks
+matteonorth: bets $6
+BelSv: folds
+Uncalled bet ($6) returned to matteonorth
+matteonorth collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9c Ts Kc 8c 2h]
+Seat 1: matteonorth (button) (small blind) collected ($29.50)
+Seat 2: BelSv (big blind) folded on the River
+
+

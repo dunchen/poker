@@ -1,0 +1,31 @@
+PokerStars Hand #163633534968:  Hold'em Limit ($3/$6 USD) - 2016/12/27 18:43:53 ET
+Table 'Dione' 6-max Seat #4 is the button
+Seat 4: Actionni13 ($150 in chips)
+Seat 6: 35Front9 ($119.94 in chips)
+Actionni13: posts small blind $1
+35Front9: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+35Front9: calls $3
+*** FLOP *** [8s 7s 4d]
+35Front9: bets $3
+Actionni13: calls $3
+*** TURN *** [8s 7s 4d] [5c]
+35Front9: bets $6
+Actionni13: raises $6 to $12
+35Front9: calls $6
+*** RIVER *** [8s 7s 4d 5c] [Jd]
+35Front9: checks
+Actionni13: bets $6
+35Front9: calls $6
+*** SHOW DOWN ***
+Actionni13: shows [4c 4h] (three of a kind, Fours)
+35Front9: mucks hand
+Actionni13 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [8s 7s 4d 5c Jd]
+Seat 4: Actionni13 (button) (small blind) showed [4c 4h] and won ($53.50) with three of a kind, Fours
+Seat 6: 35Front9 (big blind) mucked
+
+

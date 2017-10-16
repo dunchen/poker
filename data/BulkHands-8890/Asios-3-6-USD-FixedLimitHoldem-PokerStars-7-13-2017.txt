@@ -1,0 +1,90 @@
+PokerStars Hand #172965307002:  Hold'em Limit ($3/$6 USD) - 2017/07/13 1:14:11 ET
+Table 'Asios' 6-max Seat #5 is the button
+Seat 4: B_loJkl ($149 in chips)
+Seat 5: pro_gosy ($37 in chips)
+pro_gosy: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+pro_gosy: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [6h 5h Ah]
+B_loJkl: checks
+pro_gosy: bets $3
+B_loJkl: calls $3
+*** TURN *** [6h 5h Ah] [9h]
+B_loJkl: checks
+pro_gosy: checks
+*** RIVER *** [6h 5h Ah 9h] [9c]
+B_loJkl: bets $6
+pro_gosy: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $17.64 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6h 5h Ah 9h 9c]
+Seat 4: B_loJkl (big blind) collected ($17.64)
+Seat 5: pro_gosy (button) (small blind) folded on the River
+
+
+PokerStars Hand #172965311977:  Hold'em Limit ($3/$6 USD) - 2017/07/13 1:14:31 ET
+Table 'Asios' 6-max Seat #4 is the button
+Seat 4: B_loJkl ($157.64 in chips)
+Seat 5: pro_gosy ($28 in chips)
+B_loJkl: posts small blind $1
+pro_gosy: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+pro_gosy: raises $3 to $9
+B_loJkl: calls $3
+*** FLOP *** [Js 3s 5s]
+pro_gosy: checks
+B_loJkl: checks
+*** TURN *** [Js 3s 5s] [Qs]
+pro_gosy: bets $6
+B_loJkl: calls $6
+*** RIVER *** [Js 3s 5s Qs] [4d]
+pro_gosy: checks
+B_loJkl: checks
+*** SHOW DOWN ***
+pro_gosy: shows [Ah 7d] (high card Ace)
+B_loJkl: shows [5c 6s] (a flush, Queen high)
+B_loJkl collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Js 3s 5s Qs 4d]
+Seat 4: B_loJkl (button) (small blind) showed [5c 6s] and won ($29.50) with a flush, Queen high
+Seat 5: pro_gosy (big blind) showed [Ah 7d] and lost with high card Ace
+
+
+PokerStars Hand #172965317623:  Hold'em Limit ($3/$6 USD) - 2017/07/13 1:14:53 ET
+Table 'Asios' 6-max Seat #5 is the button
+Seat 4: B_loJkl ($172.14 in chips)
+Seat 5: pro_gosy ($13 in chips)
+pro_gosy: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+pro_gosy said, "idiot donk"
+pro_gosy said, "die from cancer"
+pro_gosy said, "f u c k ing idiot"
+pro_gosy: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [2s 9d 9h]
+B_loJkl: checks
+pro_gosy: bets $3
+B_loJkl: raises $3 to $6
+pro_gosy: raises $1 to $7 and is all-in
+B_loJkl: calls $1
+*** TURN *** [2s 9d 9h] [Ad]
+*** RIVER *** [2s 9d 9h Ad] [Js]
+*** SHOW DOWN ***
+B_loJkl: shows [6s Ah] (two pair, Aces and Nines)
+pro_gosy: shows [Ks 3c] (a pair of Nines)
+B_loJkl collected $25.50 from pot
+*** SUMMARY ***
+Total pot $26 | Rake $0.50
+Board [2s 9d 9h Ad Js]
+Seat 4: B_loJkl (big blind) showed [6s Ah] and won ($25.50) with two pair, Aces and Nines
+Seat 5: pro_gosy (button) (small blind) showed [Ks 3c] and lost with a pair of Nines
+
+

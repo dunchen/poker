@@ -1,0 +1,72 @@
+PokerStars Hand #175570075947:  Hold'em Limit ($3/$6 USD) - 2017/09/12 19:39:43 ET
+Table 'Sappho II' 10-max Seat #5 is the button
+Seat 4: 8bnopo ($37.55 in chips)
+Seat 5: miirina111 ($71.11 in chips)
+miirina111: posts small blind $1
+8bnopo: posts big blind $3
+*** HOLE CARDS ***
+miirina111: raises $3 to $6
+8bnopo: raises $3 to $9
+miirina111: raises $3 to $12
+Betting is capped
+8bnopo: calls $3
+*** FLOP *** [8c Js Jh]
+8bnopo: bets $3
+miirina111: raises $3 to $6
+8bnopo: raises $3 to $9
+miirina111: raises $3 to $12
+Betting is capped
+8bnopo: calls $3
+*** TURN *** [8c Js Jh] [Qc]
+8bnopo: bets $6
+miirina111: calls $6
+*** RIVER *** [8c Js Jh Qc] [5h]
+8bnopo: bets $6
+miirina111: raises $6 to $12
+8bnopo: calls $1.55 and is all-in
+Uncalled bet ($4.45) returned to miirina111
+*** SHOW DOWN ***
+miirina111: shows [Tc 2s] (a pair of Jacks)
+8bnopo: shows [9s 6d] (a pair of Jacks - lower kicker)
+miirina111 collected $74.60 from pot
+*** SUMMARY ***
+Total pot $75.10 | Rake $0.50
+Board [8c Js Jh Qc 5h]
+Seat 4: 8bnopo (big blind) showed [9s 6d] and lost with a pair of Jacks
+Seat 5: miirina111 (button) (small blind) showed [Tc 2s] and won ($74.60) with a pair of Jacks
+
+
+PokerStars Hand #175570063804:  Hold'em Limit ($3/$6 USD) - 2017/09/12 19:39:20 ET
+Table 'Sappho II' 10-max Seat #4 is the button
+Seat 4: 8bnopo ($70.55 in chips)
+Seat 5: miirina111 ($38.61 in chips)
+8bnopo: posts small blind $1
+miirina111: posts big blind $3
+*** HOLE CARDS ***
+8bnopo: raises $3 to $6
+miirina111: raises $3 to $9
+8bnopo: raises $3 to $12
+Betting is capped
+miirina111: calls $3
+*** FLOP *** [5c 7d 4c]
+miirina111: bets $3
+8bnopo: raises $3 to $6
+miirina111: raises $3 to $9
+8bnopo: calls $3
+*** TURN *** [5c 7d 4c] [8s]
+miirina111: bets $6
+8bnopo: raises $6 to $12
+miirina111: calls $6
+*** RIVER *** [5c 7d 4c 8s] [Ad]
+miirina111: bets $5.61 and is all-in
+8bnopo: folds
+Uncalled bet ($5.61) returned to miirina111
+miirina111 collected $65.50 from pot
+miirina111: doesn't show hand
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [5c 7d 4c 8s Ad]
+Seat 4: 8bnopo (button) (small blind) folded on the River
+Seat 5: miirina111 (big blind) collected ($65.50)
+
+

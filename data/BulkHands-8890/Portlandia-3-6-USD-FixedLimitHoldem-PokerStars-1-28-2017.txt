@@ -1,0 +1,35 @@
+PokerStars Hand #165272533043:  Hold'em Limit ($3/$6 USD) - 2017/01/27 19:14:43 ET
+Table 'Portlandia' 6-max Seat #6 is the button
+Seat 4: xxPSRxx ($287.36 in chips)
+Seat 6: Chessnok ($74.53 in chips)
+Chessnok: posts small blind $1
+markusfriebe: is sitting out
+xxPSRxx: posts big blind $3
+*** HOLE CARDS ***
+markusfriebe leaves the table
+Chessnok: raises $3 to $6
+xxPSRxx: calls $3
+*** FLOP *** [2c Kc 8d]
+xxPSRxx: checks
+Chessnok: bets $3
+xxPSRxx: raises $3 to $6
+Chessnok: calls $3
+*** TURN *** [2c Kc 8d] [Ah]
+xxPSRxx: checks
+Chessnok: bets $6
+xxPSRxx: calls $6
+*** RIVER *** [2c Kc 8d Ah] [4h]
+xxPSRxx: checks
+Chessnok: bets $6
+xxPSRxx: calls $6
+*** SHOW DOWN ***
+Chessnok: shows [6s Kh] (a pair of Kings)
+xxPSRxx: mucks hand
+Chessnok collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2c Kc 8d Ah 4h]
+Seat 4: xxPSRxx (big blind) mucked
+Seat 6: Chessnok (button) (small blind) showed [6s Kh] and won ($47.50) with a pair of Kings
+
+

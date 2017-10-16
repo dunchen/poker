@@ -1,0 +1,61 @@
+PokerStars Hand #173879285037:  Hold'em Limit ($3/$6 USD) - 2017/08/03 15:10:38 ET
+Table 'Kolga' 6-max Seat #1 is the button
+Seat 1: igorkabmw ($40 in chips)
+Seat 5: GoliafUa ($120 in chips)
+igorkabmw: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+igorkabmw: calls $2
+GoliafUa: checks
+*** FLOP *** [9h Qc Qd]
+ToDaFelt joins the table at seat #2
+GoliafUa: checks
+igorkabmw: checks
+*** TURN *** [9h Qc Qd] [6s]
+GoliafUa: checks
+igorkabmw: checks
+*** RIVER *** [9h Qc Qd 6s] [Jh]
+Zubasa07 joins the table at seat #3
+GoliafUa: checks
+igorkabmw: checks
+*** SHOW DOWN ***
+GoliafUa: shows [2h Js] (two pair, Queens and Jacks)
+igorkabmw: mucks hand
+GoliafUa collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [9h Qc Qd 6s Jh]
+Seat 1: igorkabmw (button) (small blind) mucked
+Seat 5: GoliafUa (big blind) showed [2h Js] and won ($5.88) with two pair, Queens and Jacks
+
+
+PokerStars Hand #173879311607:  Hold'em Limit ($3/$6 USD) - 2017/08/03 15:11:15 ET
+Table 'Kolga' 6-max Seat #5 is the button
+Seat 1: igorkabmw ($37 in chips)
+Seat 5: GoliafUa ($122.88 in chips)
+GoliafUa: posts small blind $1
+igorkabmw: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa: raises $3 to $6
+igorkabmw: calls $3
+*** FLOP *** [4d Td 7c]
+igorkabmw: bets $3
+GoliafUa: calls $3
+*** TURN *** [4d Td 7c] [Jc]
+igorkabmw: checks
+GoliafUa: bets $6
+igorkabmw: calls $6
+*** RIVER *** [4d Td 7c Jc] [7s]
+igorkabmw: checks
+GoliafUa: checks
+*** SHOW DOWN ***
+igorkabmw: shows [6c 7h] (three of a kind, Sevens)
+GoliafUa: mucks hand
+igorkabmw collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4d Td 7c Jc 7s]
+Seat 1: igorkabmw (big blind) showed [6c 7h] and won ($29.50) with three of a kind, Sevens
+Seat 5: GoliafUa (button) (small blind) mucked
+
+

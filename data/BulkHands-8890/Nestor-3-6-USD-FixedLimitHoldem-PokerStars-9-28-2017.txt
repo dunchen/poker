@@ -1,0 +1,83 @@
+PokerStars Hand #176248393485:  Hold'em Limit ($3/$6 USD) - 2017/09/28 19:33:02 ET
+Table 'Nestor' 6-max Seat #1 is the button
+Seat 1: HARNESSBOY ($65.57 in chips)
+Seat 3: Ag3r0n ($72 in chips)
+HARNESSBOY: posts small blind $1
+Ag3r0n: posts big blind $3
+*** HOLE CARDS ***
+HARNESSBOY: raises $3 to $6
+Ag3r0n: raises $3 to $9
+HARNESSBOY: raises $3 to $12
+Betting is capped
+Ag3r0n: calls $3
+*** FLOP *** [3s 2d 3c]
+Ag3r0n: checks
+HARNESSBOY: bets $3
+Ag3r0n: calls $3
+*** TURN *** [3s 2d 3c] [5c]
+Ag3r0n: checks
+HARNESSBOY: bets $6
+Ag3r0n: calls $6
+*** RIVER *** [3s 2d 3c 5c] [8h]
+Ag3r0n: checks
+HARNESSBOY: bets $6
+Ag3r0n: calls $6
+*** SHOW DOWN ***
+HARNESSBOY: shows [Ts Qh] (a pair of Threes)
+Ag3r0n: shows [8s Ah] (two pair, Eights and Threes)
+Ag3r0n collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [3s 2d 3c 5c 8h]
+Seat 1: HARNESSBOY (button) (small blind) showed [Ts Qh] and lost with a pair of Threes
+Seat 3: Ag3r0n (big blind) showed [8s Ah] and won ($53.50) with two pair, Eights and Threes
+
+
+PokerStars Hand #176248422712:  Hold'em Limit ($3/$6 USD) - 2017/09/28 19:33:59 ET
+Table 'Nestor' 6-max Seat #1 is the button
+Seat 1: HARNESSBOY ($39.57 in chips)
+Seat 3: Ag3r0n ($97.50 in chips)
+HARNESSBOY: posts small blind $1
+Ag3r0n: posts big blind $3
+*** HOLE CARDS ***
+HARNESSBOY: raises $3 to $6
+Ag3r0n: folds
+Uncalled bet ($3) returned to HARNESSBOY
+HARNESSBOY collected $6 from pot
+HARNESSBOY: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: HARNESSBOY (button) (small blind) collected ($6)
+Seat 3: Ag3r0n (big blind) folded before Flop
+
+
+PokerStars Hand #176248431234:  Hold'em Limit ($3/$6 USD) - 2017/09/28 19:34:16 ET
+Table 'Nestor' 6-max Seat #3 is the button
+Seat 1: HARNESSBOY ($42.57 in chips)
+Seat 3: Ag3r0n ($94.50 in chips)
+Ag3r0n: posts small blind $1
+HARNESSBOY: posts big blind $3
+*** HOLE CARDS ***
+Ag3r0n: raises $3 to $6
+HARNESSBOY: calls $3
+*** FLOP *** [5d 7d Ts]
+HARNESSBOY: checks
+Ag3r0n: checks
+*** TURN *** [5d 7d Ts] [2c]
+HARNESSBOY: bets $6
+B_loJkl joins the table at seat #2
+Ag3r0n: calls $6
+*** RIVER *** [5d 7d Ts 2c] [Kh]
+HARNESSBOY: bets $6
+Ag3r0n: calls $6
+*** SHOW DOWN ***
+HARNESSBOY: shows [2d Qd] (a pair of Deuces)
+Ag3r0n: mucks hand
+HARNESSBOY collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5d 7d Ts 2c Kh]
+Seat 1: HARNESSBOY (big blind) showed [2d Qd] and won ($35.50) with a pair of Deuces
+Seat 3: Ag3r0n (button) (small blind) mucked
+
+

@@ -1,0 +1,66 @@
+PokerStars Hand #151403771628:  Hold'em Limit ($3/$6 USD) - 2016/04/04 0:42:36 ET
+Table 'Enif II' 6-max Seat #4 is the button
+Seat 2: factor725 ($88.89 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+factor725: posts big blind $3
+*** HOLE CARDS ***
+italianhero4 leaves the table
+VolkovDmitri: raises $3 to $6
+factor725: raises $3 to $9
+VolkovDmitri: raises $3 to $12
+Betting is capped
+factor725: calls $3
+*** FLOP *** [Qh 8d 5d]
+factor725: checks
+VolkovDmitri: bets $3
+factor725: calls $3
+*** TURN *** [Qh 8d 5d] [5s]
+factor725: checks
+VolkovDmitri: bets $6
+factor725: calls $6
+*** RIVER *** [Qh 8d 5d 5s] [3d]
+factor725: checks
+VolkovDmitri: bets $6
+factor725: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [8h 8s] (a full house, Eights full of Fives)
+factor725: mucks hand
+VolkovDmitri collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Qh 8d 5d 5s 3d]
+Seat 2: factor725 (big blind) mucked
+Seat 4: VolkovDmitri (button) (small blind) showed [8h 8s] and won ($53.50) with a full house, Eights full of Fives
+
+
+PokerStars Hand #151403782093:  Hold'em Limit ($3/$6 USD) - 2016/04/04 0:43:18 ET
+Table 'Enif II' 6-max Seat #2 is the button
+Seat 2: factor725 ($61.89 in chips)
+Seat 4: VolkovDmitri ($146.50 in chips)
+factor725: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+factor725 said, "shalava"
+factor725: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+factor725: calls $3
+*** FLOP *** [Qh 4s Js]
+VolkovDmitri: bets $3
+factor725: calls $3
+*** TURN *** [Qh 4s Js] [Qs]
+VolkovDmitri: bets $6
+factor725: calls $6
+*** RIVER *** [Qh 4s Js Qs] [Kh]
+VolkovDmitri: bets $6
+factor725: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $35.50 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Qh 4s Js Qs Kh]
+Seat 2: factor725 (button) (small blind) folded on the River
+Seat 4: VolkovDmitri (big blind) collected ($35.50)
+
+

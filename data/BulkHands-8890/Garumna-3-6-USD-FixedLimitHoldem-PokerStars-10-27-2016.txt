@@ -1,0 +1,31 @@
+PokerStars Hand #160519793673:  Hold'em Limit ($3/$6 USD) - 2016/10/27 17:07:22 ET
+Table 'Garumna' 10-max Seat #5 is the button
+Seat 2: komornik ($66.96 in chips)
+Seat 5: boniekk ($186.91 in chips)
+boniekk: posts small blind $1
+komornik: posts big blind $3
+*** HOLE CARDS ***
+boniekk: calls $2
+komornik: raises $3 to $6
+boniekk: calls $3
+*** FLOP *** [Qh Ah Jh]
+komornik: bets $3
+boniekk: calls $3
+*** TURN *** [Qh Ah Jh] [5d]
+komornik: bets $6
+boniekk: calls $6
+*** RIVER *** [Qh Ah Jh 5d] [3d]
+komornik: checks
+boniekk: bets $6
+komornik: calls $6
+*** SHOW DOWN ***
+boniekk: shows [9s Ad] (a pair of Aces)
+komornik: mucks hand
+boniekk collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Qh Ah Jh 5d 3d]
+Seat 2: komornik (big blind) mucked
+Seat 5: boniekk (button) (small blind) showed [9s Ad] and won ($41.50) with a pair of Aces
+
+

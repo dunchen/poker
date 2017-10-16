@@ -1,0 +1,63 @@
+PokerStars Hand #154205565967:  Hold'em Limit ($3/$6 USD) - 2016/06/02 17:54:29 ET
+Table 'Aldebaran' 6-max Seat #1 is the button
+Seat 1: Velbor107 ($300 in chips)
+Seat 3: NiktheDon ($74.11 in chips)
+Velbor107: posts small blind $1
+NiktheDon: posts big blind $3
+*** HOLE CARDS ***
+Velbor107: raises $3 to $6
+NiktheDon: calls $3
+*** FLOP *** [Qd 9s 7d]
+NiktheDon: checks
+Velbor107: bets $3
+NiktheDon: raises $3 to $6
+Velbor107: calls $3
+*** TURN *** [Qd 9s 7d] [Jh]
+vestimokrec joins the table at seat #4
+NiktheDon: bets $6
+Velbor107: calls $6
+*** RIVER *** [Qd 9s 7d Jh] [2d]
+NiktheDon: checks
+Velbor107: bets $6
+NiktheDon: calls $6
+*** SHOW DOWN ***
+Velbor107: shows [Jd 6d] (a flush, Queen high)
+NiktheDon: mucks hand
+Velbor107 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Qd 9s 7d Jh 2d]
+Seat 1: Velbor107 (button) (small blind) showed [Jd 6d] and won ($47.50) with a flush, Queen high
+Seat 3: NiktheDon (big blind) mucked
+
+
+PokerStars Hand #154205778884:  Hold'em Limit ($3/$6 USD) - 2016/06/02 17:59:47 ET
+Table 'Aldebaran' 6-max Seat #4 is the button
+Seat 1: Velbor107 ($293.89 in chips)
+Seat 4: vestimokrec ($192 in chips)
+vestimokrec: posts small blind $1
+Velbor107: posts big blind $3
+*** HOLE CARDS ***
+NiktheDon leaves the table
+vestimokrec: raises $3 to $6
+Velbor107: calls $3
+*** FLOP *** [Kd 2s 8d]
+Velbor107: checks
+vestimokrec: checks
+*** TURN *** [Kd 2s 8d] [Jh]
+Velbor107: checks
+vestimokrec: checks
+*** RIVER *** [Kd 2s 8d Jh] [Ac]
+Velbor107: checks
+vestimokrec: checks
+*** SHOW DOWN ***
+Velbor107: shows [7h Tc] (high card Ace)
+vestimokrec: shows [4d 4s] (a pair of Fours)
+vestimokrec collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kd 2s 8d Jh Ac]
+Seat 1: Velbor107 (big blind) showed [7h Tc] and lost with high card Ace
+Seat 4: vestimokrec (button) (small blind) showed [4d 4s] and won ($11.76) with a pair of Fours
+
+

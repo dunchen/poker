@@ -1,0 +1,345 @@
+PokerStars Hand #163290116002:  Hold'em Limit ($3/$6 USD) - 2016/12/21 9:31:03 ET
+Table 'Aoluta' 10-max Seat #6 is the button
+Seat 5: Icecold ($71.04 in chips)
+Seat 6: belik555 ($128.28 in chips)
+belik555: posts small blind $1
+SirRomanov: is sitting out
+Icecold: posts big blind $3
+SirRomanov leaves the table
+*** HOLE CARDS ***
+belik555: raises $3 to $6
+Icecold: raises $3 to $9
+belik555: raises $3 to $12
+Betting is capped
+Icecold: calls $3
+*** FLOP *** [3d 2d 6s]
+Icecold: bets $3
+belik555: raises $3 to $6
+Icecold: raises $3 to $9
+belik555: calls $3
+*** TURN *** [3d 2d 6s] [Kh]
+Icecold: bets $6
+belik555: raises $6 to $12
+Icecold: calls $6
+*** RIVER *** [3d 2d 6s Kh] [3h]
+Icecold: checks
+belik555: bets $6
+Icecold: calls $6
+*** SHOW DOWN ***
+belik555: shows [Ah Ad] (two pair, Aces and Threes)
+Icecold: mucks hand
+belik555 collected $77.50 from pot
+*** SUMMARY ***
+Total pot $78 | Rake $0.50
+Board [3d 2d 6s Kh 3h]
+Seat 5: Icecold (big blind) mucked
+Seat 6: belik555 (button) (small blind) showed [Ah Ad] and won ($77.50) with two pair, Aces and Threes
+
+
+PokerStars Hand #163290149816:  Hold'em Limit ($3/$6 USD) - 2016/12/21 9:31:57 ET
+Table 'Aoluta' 10-max Seat #5 is the button
+Seat 5: Icecold ($32.04 in chips)
+Seat 6: belik555 ($166.78 in chips)
+Icecold: posts small blind $1
+belik555: posts big blind $3
+*** HOLE CARDS ***
+Icecold: raises $3 to $6
+belik555: calls $3
+*** FLOP *** [Ks Kh 2c]
+belik555: checks
+Icecold: bets $3
+belik555: raises $3 to $6
+Icecold: calls $3
+*** TURN *** [Ks Kh 2c] [4c]
+belik555: bets $6
+Icecold: folds
+Uncalled bet ($6) returned to belik555
+belik555 collected $23.52 from pot
+belik555: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Ks Kh 2c 4c]
+Seat 5: Icecold (button) (small blind) folded on the Turn
+Seat 6: belik555 (big blind) collected ($23.52)
+
+
+PokerStars Hand #163290203191:  Hold'em Limit ($3/$6 USD) - 2016/12/21 9:33:20 ET
+Table 'Aoluta' 10-max Seat #5 is the button
+Seat 5: Icecold ($39.58 in chips)
+Seat 6: belik555 ($158.26 in chips)
+Icecold: posts small blind $1
+belik555: posts big blind $3
+*** HOLE CARDS ***
+Icecold: folds
+Uncalled bet ($2) returned to belik555
+belik555 collected $2 from pot
+belik555: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: Icecold (button) (small blind) folded before Flop
+Seat 6: belik555 (big blind) collected ($2)
+
+
+PokerStars Hand #163290168071:  Hold'em Limit ($3/$6 USD) - 2016/12/21 9:32:25 ET
+Table 'Aoluta' 10-max Seat #6 is the button
+Seat 5: Icecold ($20.04 in chips)
+Seat 6: belik555 ($178.30 in chips)
+belik555: posts small blind $1
+Icecold: posts big blind $3
+*** HOLE CARDS ***
+belik555: raises $3 to $6
+Icecold: calls $3
+*** FLOP *** [4h Kd Jh]
+Icecold: checks
+belik555: checks
+*** TURN *** [4h Kd Jh] [Ah]
+Icecold: bets $6
+belik555: raises $6 to $12
+Icecold: raises $2.04 to $14.04 and is all-in
+belik555: calls $2.04
+*** RIVER *** [4h Kd Jh Ah] [6d]
+*** SHOW DOWN ***
+Icecold: shows [2h 9h] (a flush, Ace high)
+belik555: shows [Ad As] (three of a kind, Aces)
+Icecold collected $39.58 from pot
+*** SUMMARY ***
+Total pot $40.08 | Rake $0.50
+Board [4h Kd Jh Ah 6d]
+Seat 5: Icecold (big blind) showed [2h 9h] and won ($39.58) with a flush, Ace high
+Seat 6: belik555 (button) (small blind) showed [Ad As] and lost with three of a kind, Aces
+
+
+PokerStars Hand #163290206359:  Hold'em Limit ($3/$6 USD) - 2016/12/21 9:33:25 ET
+Table 'Aoluta' 10-max Seat #6 is the button
+Seat 5: Icecold ($38.58 in chips)
+Seat 6: belik555 ($159.26 in chips)
+belik555: posts small blind $1
+Icecold: posts big blind $3
+*** HOLE CARDS ***
+belik555: raises $3 to $6
+Icecold: calls $3
+*** FLOP *** [4d 3d Ad]
+Icecold: checks
+belik555: bets $3
+Icecold: calls $3
+*** TURN *** [4d 3d Ad] [Tc]
+Icecold: checks
+belik555: bets $6
+Icecold: calls $6
+*** RIVER *** [4d 3d Ad Tc] [8s]
+Icecold: checks
+belik555: checks
+*** SHOW DOWN ***
+Icecold: shows [Qd 2c] (high card Ace)
+belik555: shows [5c 3c] (a pair of Threes)
+belik555 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4d 3d Ad Tc 8s]
+Seat 5: Icecold (big blind) showed [Qd 2c] and lost with high card Ace
+Seat 6: belik555 (button) (small blind) showed [5c 3c] and won ($29.50) with a pair of Threes
+
+
+PokerStars Hand #163290222819:  Hold'em Limit ($3/$6 USD) - 2016/12/21 9:33:51 ET
+Table 'Aoluta' 10-max Seat #5 is the button
+Seat 5: Icecold ($23.58 in chips)
+Seat 6: belik555 ($173.76 in chips)
+Icecold: posts small blind $1
+belik555: posts big blind $3
+*** HOLE CARDS ***
+Icecold: raises $3 to $6
+belik555: calls $3
+*** FLOP *** [7c 9s 8s]
+belik555: bets $3
+Icecold: folds
+Uncalled bet ($3) returned to belik555
+belik555 collected $11.76 from pot
+belik555: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7c 9s 8s]
+Seat 5: Icecold (button) (small blind) folded on the Flop
+Seat 6: belik555 (big blind) collected ($11.76)
+
+
+PokerStars Hand #163290280737:  Hold'em Limit ($3/$6 USD) - 2016/12/21 9:35:22 ET
+Table 'Aoluta' 10-max Seat #5 is the button
+Seat 5: Icecold ($33.41 in chips)
+Seat 6: belik555 ($162.69 in chips)
+Icecold: posts small blind $1
+belik555: posts big blind $3
+*** HOLE CARDS ***
+Icecold: folds
+Uncalled bet ($2) returned to belik555
+belik555 collected $2 from pot
+belik555: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: Icecold (button) (small blind) folded before Flop
+Seat 6: belik555 (big blind) collected ($2)
+
+
+PokerStars Hand #163290236899:  Hold'em Limit ($3/$6 USD) - 2016/12/21 9:34:13 ET
+Table 'Aoluta' 10-max Seat #6 is the button
+Seat 5: Icecold ($17.58 in chips)
+Seat 6: belik555 ($179.52 in chips)
+belik555: posts small blind $1
+Icecold: posts big blind $3
+*** HOLE CARDS ***
+belik555: raises $3 to $6
+Icecold: raises $3 to $9
+belik555: calls $3
+*** FLOP *** [5s Ac Qs]
+Icecold: bets $3
+belik555: calls $3
+*** TURN *** [5s Ac Qs] [Kh]
+Icecold: bets $5.58 and is all-in
+belik555: calls $5.58
+*** RIVER *** [5s Ac Qs Kh] [5h]
+*** SHOW DOWN ***
+Icecold: shows [9c Ad] (two pair, Aces and Fives)
+belik555: shows [4d Qc] (two pair, Queens and Fives)
+Icecold collected $34.66 from pot
+*** SUMMARY ***
+Total pot $35.16 | Rake $0.50
+Board [5s Ac Qs Kh 5h]
+Seat 5: Icecold (big blind) showed [9c Ad] and won ($34.66) with two pair, Aces and Fives
+Seat 6: belik555 (button) (small blind) showed [4d Qc] and lost with two pair, Queens and Fives
+
+
+PokerStars Hand #163290258212:  Hold'em Limit ($3/$6 USD) - 2016/12/21 9:34:46 ET
+Table 'Aoluta' 10-max Seat #6 is the button
+Seat 5: Icecold ($33.66 in chips)
+Seat 6: belik555 ($162.94 in chips)
+belik555: posts small blind $1
+Icecold: posts big blind $3
+*** HOLE CARDS ***
+belik555: raises $3 to $6
+Icecold: calls $3
+*** FLOP *** [Th 4s Kc]
+Icecold: checks
+belik555: bets $3
+Icecold: calls $3
+*** TURN *** [Th 4s Kc] [9c]
+Icecold: checks
+belik555: bets $6
+Icecold: calls $6
+*** RIVER *** [Th 4s Kc 9c] [8s]
+Icecold: checks
+belik555: bets $6
+Icecold: calls $6
+*** SHOW DOWN ***
+belik555: shows [Kh 6h] (a pair of Kings)
+Icecold: shows [6d Ks] (a pair of Kings)
+Icecold collected $20.75 from pot
+belik555 collected $20.75 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Th 4s Kc 9c 8s]
+Seat 5: Icecold (big blind) showed [6d Ks] and won ($20.75) with a pair of Kings
+Seat 6: belik555 (button) (small blind) showed [Kh 6h] and won ($20.75) with a pair of Kings
+
+
+PokerStars Hand #163290255049:  Hold'em Limit ($3/$6 USD) - 2016/12/21 9:34:41 ET
+Table 'Aoluta' 10-max Seat #5 is the button
+Seat 5: Icecold ($34.66 in chips)
+Seat 6: belik555 ($161.94 in chips)
+Icecold: posts small blind $1
+belik555: posts big blind $3
+*** HOLE CARDS ***
+Icecold: folds
+Uncalled bet ($2) returned to belik555
+belik555 collected $2 from pot
+belik555: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: Icecold (button) (small blind) folded before Flop
+Seat 6: belik555 (big blind) collected ($2)
+
+
+PokerStars Hand #163290284075:  Hold'em Limit ($3/$6 USD) - 2016/12/21 9:35:27 ET
+Table 'Aoluta' 10-max Seat #6 is the button
+Seat 5: Icecold ($32.41 in chips)
+Seat 6: belik555 ($163.69 in chips)
+belik555: posts small blind $1
+Icecold: posts big blind $3
+*** HOLE CARDS ***
+belik555: raises $3 to $6
+Icecold: raises $3 to $9
+belik555: calls $3
+*** FLOP *** [8h Qd 2s]
+Icecold: bets $3
+belik555: calls $3
+*** TURN *** [8h Qd 2s] [7c]
+Icecold: bets $6
+belik555: calls $6
+*** RIVER *** [8h Qd 2s 7c] [9c]
+Icecold: checks
+belik555: bets $6
+Icecold: calls $6
+*** SHOW DOWN ***
+belik555: shows [8s As] (a pair of Eights)
+Icecold: mucks hand
+belik555 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8h Qd 2s 7c 9c]
+Seat 5: Icecold (big blind) mucked
+Seat 6: belik555 (button) (small blind) showed [8s As] and won ($47.50) with a pair of Eights
+
+
+PokerStars Hand #163290303555:  Hold'em Limit ($3/$6 USD) - 2016/12/21 9:35:58 ET
+Table 'Aoluta' 10-max Seat #5 is the button
+Seat 5: Icecold ($8.41 in chips)
+Seat 6: belik555 ($187.19 in chips)
+Icecold: posts small blind $1
+belik555: posts big blind $3
+*** HOLE CARDS ***
+Icecold: raises $3 to $6
+belik555: calls $3
+*** FLOP *** [2c 8d Jc]
+belik555: checks
+Icecold: bets $2.41 and is all-in
+belik555: calls $2.41
+*** TURN *** [2c 8d Jc] [Js]
+*** RIVER *** [2c 8d Jc Js] [4s]
+*** SHOW DOWN ***
+belik555: shows [Ad 5d] (a pair of Jacks)
+Icecold: shows [9h 8h] (two pair, Jacks and Eights)
+Icecold collected $16.48 from pot
+*** SUMMARY ***
+Total pot $16.82 | Rake $0.34
+Board [2c 8d Jc Js 4s]
+Seat 5: Icecold (button) (small blind) showed [9h 8h] and won ($16.48) with two pair, Jacks and Eights
+Seat 6: belik555 (big blind) showed [Ad 5d] and lost with a pair of Jacks
+
+
+PokerStars Hand #163290321058:  Hold'em Limit ($3/$6 USD) - 2016/12/21 9:36:25 ET
+Table 'Aoluta' 10-max Seat #6 is the button
+Seat 5: Icecold ($16.48 in chips)
+Seat 6: belik555 ($178.78 in chips)
+belik555: posts small blind $1
+Icecold: posts big blind $3
+*** HOLE CARDS ***
+belik555: raises $3 to $6
+Icecold: calls $3
+*** FLOP *** [6d Jd 2h]
+Icecold: bets $3
+belik555: calls $3
+*** TURN *** [6d Jd 2h] [Ad]
+Icecold: bets $6
+belik555: calls $6
+*** RIVER *** [6d Jd 2h Ad] [4h]
+Icecold: bets $1.48 and is all-in
+belik555: calls $1.48
+*** SHOW DOWN ***
+Icecold: shows [2s Td] (a pair of Deuces)
+belik555: shows [Ac 8d] (a pair of Aces)
+belik555 collected $32.46 from pot
+*** SUMMARY ***
+Total pot $32.96 | Rake $0.50
+Board [6d Jd 2h Ad 4h]
+Seat 5: Icecold (big blind) showed [2s Td] and lost with a pair of Deuces
+Seat 6: belik555 (button) (small blind) showed [Ac 8d] and won ($32.46) with a pair of Aces
+
+

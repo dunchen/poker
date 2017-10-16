@@ -1,0 +1,54 @@
+PokerStars Hand #146375201250:  Hold'em Limit ($3/$6 USD) - 2016/01/03 4:00:44 ET
+Table 'Repsolda' 10-max Seat #5 is the button
+Seat 1: VolkovDmitri ($132.52 in chips)
+Seat 5: smilybara ($17.95 in chips)
+smilybara: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+smilybara: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [6s 6c 7h]
+VolkovDmitri: checks
+smilybara: bets $3
+VolkovDmitri: raises $3 to $6
+smilybara: raises $3 to $9
+VolkovDmitri: raises $3 to $12
+Betting is capped
+smilybara: calls $2.95 and is all-in
+Uncalled bet ($0.05) returned to VolkovDmitri
+*** TURN *** [6s 6c 7h] [Jd]
+*** RIVER *** [6s 6c 7h Jd] [5h]
+*** SHOW DOWN ***
+VolkovDmitri: shows [Td Js] (two pair, Jacks and Sixes)
+smilybara: shows [Ah Qc] (a pair of Sixes)
+VolkovDmitri collected $35.40 from pot
+*** SUMMARY ***
+Total pot $35.90 | Rake $0.50
+Board [6s 6c 7h Jd 5h]
+Seat 1: VolkovDmitri (big blind) showed [Td Js] and won ($35.40) with two pair, Jacks and Sixes
+Seat 5: smilybara (button) (small blind) showed [Ah Qc] and lost with a pair of Sixes
+
+
+PokerStars Hand #146375196574:  Hold'em Limit ($3/$6 USD) - 2016/01/03 4:00:32 ET
+Table 'Repsolda' 10-max Seat #1 is the button
+Seat 1: VolkovDmitri ($126.76 in chips)
+Seat 5: smilybara ($23.95 in chips)
+VolkovDmitri: posts small blind $1
+smilybara: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+smilybara: calls $3
+*** FLOP *** [2d 7c 4d]
+smilybara: checks
+VolkovDmitri: bets $3
+smilybara: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2d 7c 4d]
+Seat 1: VolkovDmitri (button) (small blind) collected ($11.76)
+Seat 5: smilybara (big blind) folded on the Flop
+
+

@@ -1,0 +1,64 @@
+PokerStars Hand #145396168861:  Hold'em Limit ($3/$6 USD) - 2015/12/15 15:05:12 ET
+Table 'Ceres' 6-max Seat #5 is the button
+Seat 3: Karpik09 ($88.46 in chips)
+Seat 5: MTails ($137.50 in chips)
+MTails: posts small blind $1
+GuusGeluk: is sitting out
+Karpik09: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+Karpik09: calls $3
+*** FLOP *** [8c 7c 4c]
+Karpik09: checks
+MTails: checks
+*** TURN *** [8c 7c 4c] [Qh]
+Karpik09: bets $6
+MTails: raises $6 to $12
+Karpik09: calls $6
+*** RIVER *** [8c 7c 4c Qh] [9h]
+Karpik09: checks
+MTails: bets $6
+GuusGeluk leaves the table
+Karpik09: folds
+Uncalled bet ($6) returned to MTails
+MTails collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [8c 7c 4c Qh 9h]
+Seat 3: Karpik09 (big blind) folded on the River
+Seat 5: MTails (button) (small blind) collected ($35.50)
+
+
+PokerStars Hand #145397347163:  Hold'em Limit ($3/$6 USD) - 2015/12/15 15:24:21 ET
+Table 'Ceres' 6-max Seat #3 is the button
+Seat 3: Harlaur ($80 in chips)
+Seat 4: AzureCaper ($72 in chips)
+Harlaur: posts small blind $1
+parnishka11 joins the table at seat #6
+PelonCabelao joins the table at seat #1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+ValeryRon joins the table at seat #5
+Harlaur: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [Th Jd Qc]
+AzureCaper: checks
+Harlaur: bets $3
+AzureCaper: calls $3
+*** TURN *** [Th Jd Qc] [2d]
+AzureCaper: checks
+Harlaur: checks
+*** RIVER *** [Th Jd Qc 2d] [2h]
+charlys65 joins the table at seat #2
+AzureCaper: bets $6
+Harlaur: folds
+Uncalled bet ($6) returned to AzureCaper
+AzureCaper collected $17.64 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Th Jd Qc 2d 2h]
+Seat 3: Harlaur (button) (small blind) folded on the River
+Seat 4: AzureCaper (big blind) collected ($17.64)
+
+

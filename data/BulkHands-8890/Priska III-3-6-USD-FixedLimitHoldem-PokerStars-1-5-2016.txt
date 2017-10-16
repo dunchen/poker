@@ -1,0 +1,32 @@
+PokerStars Hand #146500851993:  Hold'em Limit ($3/$6 USD) - 2016/01/05 7:15:50 ET
+Table 'Priska III' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 2: _fayzulllo_ ($72 in chips)
+VolkovDmitri: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+_fayzulllo_: calls $3
+*** FLOP *** [Td 5h 2s]
+_fayzulllo_: checks
+VolkovDmitri: bets $3
+_fayzulllo_: calls $3
+*** TURN *** [Td 5h 2s] [2c]
+_fayzulllo_: checks
+VolkovDmitri: checks
+*** RIVER *** [Td 5h 2s 2c] [Ad]
+_fayzulllo_: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+_fayzulllo_: shows [7c 6c] (a pair of Deuces)
+VolkovDmitri: shows [7d 6s] (a pair of Deuces)
+_fayzulllo_ collected $8.82 from pot
+VolkovDmitri collected $8.82 from pot
+boony444 joins the table at seat #3
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Td 5h 2s 2c Ad]
+Seat 1: VolkovDmitri (button) (small blind) showed [7d 6s] and won ($8.82) with a pair of Deuces
+Seat 2: _fayzulllo_ (big blind) showed [7c 6c] and won ($8.82) with a pair of Deuces
+
+

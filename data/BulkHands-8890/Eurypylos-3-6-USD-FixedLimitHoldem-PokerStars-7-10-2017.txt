@@ -1,0 +1,74 @@
+PokerStars Hand #172872232122:  Hold'em Limit ($3/$6 USD) - 2017/07/10 19:31:03 ET
+Table 'Eurypylos' 6-max Seat #2 is the button
+Seat 2: B_loJkl ($90.20 in chips)
+Seat 3: Vitalisek ($151.91 in chips)
+B_loJkl: posts small blind $1
+Vitalisek: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+Vitalisek: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $6 from pot
+B_loJkl: doesn't show hand
+helenaki joins the table at seat #5
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: B_loJkl (button) (small blind) collected ($6)
+Seat 3: Vitalisek (big blind) folded before Flop
+
+
+PokerStars Hand #172872246338:  Hold'em Limit ($3/$6 USD) - 2017/07/10 19:31:28 ET
+Table 'Eurypylos' 6-max Seat #5 is the button
+Seat 2: B_loJkl ($93.20 in chips)
+Seat 5: helenaki ($36 in chips)
+helenaki: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+helenaki: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [9c Qs 6d]
+B_loJkl: checks
+helenaki: bets $3
+B_loJkl: folds
+Uncalled bet ($3) returned to helenaki
+helenaki collected $11.76 from pot
+helenaki: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9c Qs 6d]
+Seat 2: B_loJkl (big blind) folded on the Flop
+Seat 5: helenaki (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #172872281027:  Hold'em Limit ($3/$6 USD) - 2017/07/10 19:32:27 ET
+Table 'Eurypylos' 6-max Seat #2 is the button
+Seat 2: B_loJkl ($87.20 in chips)
+Seat 5: helenaki ($41.76 in chips)
+B_loJkl: posts small blind $1
+helenaki: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+helenaki: calls $3
+*** FLOP *** [3h 8d 7h]
+helenaki: checks
+B_loJkl: bets $3
+helenaki: raises $3 to $6
+B_loJkl: calls $3
+*** TURN *** [3h 8d 7h] [Js]
+helenaki: bets $6
+B_loJkl: calls $6
+*** RIVER *** [3h 8d 7h Js] [3c]
+rascal_319 joins the table at seat #3
+helenaki: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+helenaki: shows [8c 4s] (two pair, Eights and Threes)
+B_loJkl: shows [8h Ks] (two pair, Eights and Threes - King kicker)
+B_loJkl collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3h 8d 7h Js 3c]
+Seat 2: B_loJkl (button) (small blind) showed [8h Ks] and won ($47.50) with two pair, Eights and Threes
+Seat 5: helenaki (big blind) showed [8c 4s] and lost with two pair, Eights and Threes
+
+

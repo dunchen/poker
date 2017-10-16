@@ -1,0 +1,30 @@
+PokerStars Hand #176727062374:  Hold'em Limit ($3/$6 USD) - 2017/10/10 4:39:58 ET
+Table 'Adria' 6-max Seat #2 is the button
+Seat 2: CharginWapos ($107.28 in chips)
+Seat 3: pokertriss ($151.05 in chips)
+CharginWapos: posts small blind $1
+pokertriss: posts big blind $3
+*** HOLE CARDS ***
+CharginWapos: calls $2
+pokertriss: checks
+*** FLOP *** [4c Ad 3c]
+pokertriss: checks
+CharginWapos: checks
+*** TURN *** [4c Ad 3c] [Ah]
+pokertriss: checks
+CharginWapos: bets $6
+pokertriss: calls $6
+*** RIVER *** [4c Ad 3c Ah] [8s]
+pokertriss: checks
+CharginWapos: checks
+*** SHOW DOWN ***
+pokertriss: shows [Kd 2c] (a pair of Aces)
+CharginWapos: shows [2s 2h] (two pair, Aces and Deuces)
+CharginWapos collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4c Ad 3c Ah 8s]
+Seat 2: CharginWapos (button) (small blind) showed [2s 2h] and won ($17.64) with two pair, Aces and Deuces
+Seat 3: pokertriss (big blind) showed [Kd 2c] and lost with a pair of Aces
+
+

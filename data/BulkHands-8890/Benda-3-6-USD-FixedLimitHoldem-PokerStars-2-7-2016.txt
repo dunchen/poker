@@ -1,0 +1,121 @@
+PokerStars Hand #148382139123:  Hold'em Limit ($3/$6 USD) - 2016/02/07 6:51:20 ET
+Table 'Benda' 6-max Seat #6 is the button
+Seat 5: RabbitNrAS ($60.01 in chips)
+Seat 6: BelSv ($78 in chips)
+BelSv: posts small blind $1
+RabbitNrAS: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+RabbitNrAS: calls $3
+*** FLOP *** [9h Qh Jh]
+RabbitNrAS: checks
+BelSv: bets $3
+RabbitNrAS: folds
+Uncalled bet ($3) returned to BelSv
+BelSv collected $11.76 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9h Qh Jh]
+Seat 5: RabbitNrAS (big blind) folded on the Flop
+Seat 6: BelSv (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #148382128774:  Hold'em Limit ($3/$6 USD) - 2016/02/07 6:51:04 ET
+Table 'Benda' 6-max Seat #5 is the button
+Seat 5: RabbitNrAS ($36.51 in chips)
+Seat 6: BelSv ($97.62 in chips)
+RabbitNrAS: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+RabbitNrAS: raises $3 to $6
+Agrotait leaves the table
+BelSv: raises $3 to $9
+RabbitNrAS: calls $3
+*** FLOP *** [2d Qs 3s]
+BelSv: bets $3
+RabbitNrAS: calls $3
+*** TURN *** [2d Qs 3s] [Jd]
+BelSv: checks
+RabbitNrAS: bets $6
+BelSv: calls $6
+*** RIVER *** [2d Qs 3s Jd] [Jc]
+BelSv: checks
+RabbitNrAS: bets $6
+BelSv: calls $6
+*** SHOW DOWN ***
+RabbitNrAS: shows [6s Js] (three of a kind, Jacks)
+BelSv: mucks hand
+RabbitNrAS collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2d Qs 3s Jd Jc]
+Seat 5: RabbitNrAS (button) (small blind) showed [6s Js] and won ($47.50) with three of a kind, Jacks
+Seat 6: BelSv (big blind) mucked
+
+
+PokerStars Hand #148382125666:  Hold'em Limit ($3/$6 USD) - 2016/02/07 6:50:59 ET
+Table 'Benda' 6-max Seat #6 is the button
+Seat 5: RabbitNrAS ($35.51 in chips)
+Seat 6: BelSv ($98.62 in chips)
+BelSv: posts small blind $1
+RabbitNrAS: posts big blind $3
+*** HOLE CARDS ***
+BelSv: folds
+Uncalled bet ($2) returned to RabbitNrAS
+RabbitNrAS collected $2 from pot
+RabbitNrAS: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: RabbitNrAS (big blind) collected ($2)
+Seat 6: BelSv (button) (small blind) folded before Flop
+
+
+PokerStars Hand #148382123028:  Hold'em Limit ($3/$6 USD) - 2016/02/07 6:50:55 ET
+Table 'Benda' 6-max Seat #5 is the button
+Seat 5: RabbitNrAS ($36.51 in chips)
+Seat 6: BelSv ($97.62 in chips)
+RabbitNrAS: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+RabbitNrAS: folds
+Uncalled bet ($2) returned to BelSv
+BelSv collected $2 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: RabbitNrAS (button) (small blind) folded before Flop
+Seat 6: BelSv (big blind) collected ($2)
+
+
+PokerStars Hand #148382113825:  Hold'em Limit ($3/$6 USD) - 2016/02/07 6:50:40 ET
+Table 'Benda' 6-max Seat #6 is the button
+Seat 5: RabbitNrAS ($36.63 in chips)
+Seat 6: BelSv ($97.74 in chips)
+BelSv: posts small blind $1
+Agrotait: is sitting out
+RabbitNrAS: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+RabbitNrAS: calls $3
+*** FLOP *** [7c 2h 9c]
+RabbitNrAS: checks
+BelSv: checks
+*** TURN *** [7c 2h 9c] [Js]
+RabbitNrAS: checks
+BelSv: checks
+*** RIVER *** [7c 2h 9c Js] [5c]
+RabbitNrAS: checks
+BelSv: checks
+*** SHOW DOWN ***
+RabbitNrAS: shows [Qh Kd] (high card King)
+BelSv: shows [Qd Kh] (high card King)
+RabbitNrAS collected $5.88 from pot
+BelSv collected $5.88 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7c 2h 9c Js 5c]
+Seat 5: RabbitNrAS (big blind) showed [Qh Kd] and won ($5.88) with high card King
+Seat 6: BelSv (button) (small blind) showed [Qd Kh] and won ($5.88) with high card King
+
+

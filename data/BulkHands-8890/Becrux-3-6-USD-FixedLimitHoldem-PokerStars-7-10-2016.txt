@@ -1,0 +1,126 @@
+PokerStars Hand #155784868555:  Hold'em Limit ($3/$6 USD) - 2016/07/10 4:40:52 ET
+Table 'Becrux' 6-max Seat #4 is the button
+Seat 3: ogdealer ($23 in chips)
+Seat 4: Agrotait ($92.28 in chips)
+Agrotait: posts small blind $1
+ogdealer: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+ogdealer: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $6 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: ogdealer (big blind) folded before Flop
+Seat 4: Agrotait (button) (small blind) collected ($6)
+
+
+PokerStars Hand #155784870727:  Hold'em Limit ($3/$6 USD) - 2016/07/10 4:40:59 ET
+Table 'Becrux' 6-max Seat #3 is the button
+Seat 3: ogdealer ($20 in chips)
+Seat 4: Agrotait ($95.28 in chips)
+ogdealer: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+ogdealer: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [8s Jc 7c]
+Agrotait: checks
+ogdealer: bets $3
+Agrotait: calls $3
+*** TURN *** [8s Jc 7c] [Qs]
+Agrotait: checks
+ogdealer: checks
+*** RIVER *** [8s Jc 7c Qs] [3c]
+Agrotait: bets $6
+ogdealer: folds
+Uncalled bet ($6) returned to Agrotait
+Agrotait collected $17.64 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8s Jc 7c Qs 3c]
+Seat 3: ogdealer (button) (small blind) folded on the River
+Seat 4: Agrotait (big blind) collected ($17.64)
+
+
+PokerStars Hand #155784880196:  Hold'em Limit ($3/$6 USD) - 2016/07/10 4:41:27 ET
+Table 'Becrux' 6-max Seat #4 is the button
+Seat 3: ogdealer ($11 in chips)
+Seat 4: Agrotait ($103.92 in chips)
+Agrotait: posts small blind $1
+ogdealer: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+ogdealer: calls $3
+*** FLOP *** [Ah 6h Ad]
+ogdealer: checks
+Agrotait: bets $3
+ogdealer: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $11.76 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ah 6h Ad]
+Seat 3: ogdealer (big blind) folded on the Flop
+Seat 4: Agrotait (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #155784861565:  Hold'em Limit ($3/$6 USD) - 2016/07/10 4:40:31 ET
+Table 'Becrux' 6-max Seat #3 is the button
+Seat 3: ogdealer ($35 in chips)
+Seat 4: Agrotait ($80.76 in chips)
+ogdealer: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+ogdealer: calls $2
+Agrotait: checks
+*** FLOP *** [Td 5d 4c]
+Agrotait: bets $3
+ogdealer: calls $3
+*** TURN *** [Td 5d 4c] [3h]
+Agrotait: checks
+ogdealer: bets $6
+Agrotait: calls $6
+*** RIVER *** [Td 5d 4c 3h] [Jh]
+Agrotait: checks
+ogdealer: checks
+*** SHOW DOWN ***
+Agrotait: shows [Qs 5c] (a pair of Fives)
+ogdealer: mucks hand
+Agrotait collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Td 5d 4c 3h Jh]
+Seat 3: ogdealer (button) (small blind) mucked
+Seat 4: Agrotait (big blind) showed [Qs 5c] and won ($23.52) with a pair of Fives
+
+
+PokerStars Hand #155784883684:  Hold'em Limit ($3/$6 USD) - 2016/07/10 4:41:37 ET
+Table 'Becrux' 6-max Seat #3 is the button
+Seat 3: ogdealer ($5 in chips)
+Seat 4: Agrotait ($109.68 in chips)
+ogdealer: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+ogdealer: calls $2
+Agrotait: checks
+*** FLOP *** [Qh 9d 4h]
+Agrotait: bets $3
+ogdealer: calls $2 and is all-in
+Uncalled bet ($1) returned to Agrotait
+*** TURN *** [Qh 9d 4h] [Qd]
+*** RIVER *** [Qh 9d 4h Qd] [7c]
+*** SHOW DOWN ***
+Agrotait: shows [6d 4c] (two pair, Queens and Fours)
+ogdealer: shows [Ts 5s] (a pair of Queens)
+Agrotait collected $9.80 from pot
+*** SUMMARY ***
+Total pot $10 | Rake $0.20
+Board [Qh 9d 4h Qd 7c]
+Seat 3: ogdealer (button) (small blind) showed [Ts 5s] and lost with a pair of Queens
+Seat 4: Agrotait (big blind) showed [6d 4c] and won ($9.80) with two pair, Queens and Fours
+
+

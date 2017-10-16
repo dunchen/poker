@@ -1,0 +1,71 @@
+PokerStars Hand #171934566283:  Hold'em Limit ($3/$6 USD) - 2017/06/18 12:07:45 ET
+Table 'Capricorn' 10-max Seat #6 is the button
+Seat 5: vladal 888 ($71 in chips)
+Seat 6: Agrotait ($73 in chips)
+Agrotait: posts small blind $1
+vladal 888: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+vladal 888: calls $3
+*** FLOP *** [Kc Qc 8h]
+vestimokrec joins the table at seat #7
+vladal 888: checks
+Agrotait: bets $3
+vladal 888: calls $3
+*** TURN *** [Kc Qc 8h] [Th]
+vladal 888: checks
+Agrotait: checks
+*** RIVER *** [Kc Qc 8h Th] [3s]
+vladal 888: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+vladal 888: shows [8d 4d] (a pair of Eights)
+Agrotait: mucks hand
+vladal 888 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kc Qc 8h Th 3s]
+Seat 5: vladal 888 (big blind) showed [8d 4d] and won ($29.50) with a pair of Eights
+Seat 6: Agrotait (button) (small blind) mucked
+
+
+PokerStars Hand #171934601137:  Hold'em Limit ($3/$6 USD) - 2017/06/18 12:08:34 ET
+Table 'Capricorn' 10-max Seat #5 is the button
+Seat 5: vladal 888 ($85.50 in chips)
+Seat 6: Agrotait ($72 in chips)
+vladal 888: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+vladal 888: folds
+Uncalled bet ($2) returned to Agrotait
+Agrotait collected $2 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: vladal 888 (button) (small blind) folded before Flop
+Seat 6: Agrotait (big blind) collected ($2)
+
+
+PokerStars Hand #171948845594:  Hold'em Limit ($3/$6 USD) - 2017/06/18 16:54:52 ET
+Table 'Capricorn' 10-max Seat #10 is the button
+Seat 4: bAAchi ($110.62 in chips)
+Seat 10: MADEin ($221.54 in chips)
+MADEin: posts small blind $1
+bAAchi: posts big blind $3
+*** HOLE CARDS ***
+MADEin: raises $3 to $6
+bAAchi: calls $3
+*** FLOP *** [7h Ah 6d]
+bAAchi: checks
+MADEin: bets $3
+bAAchi: folds
+Uncalled bet ($3) returned to MADEin
+MADEin collected $11.76 from pot
+MADEin: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7h Ah 6d]
+Seat 4: bAAchi (big blind) folded on the Flop
+Seat 10: MADEin (button) (small blind) collected ($11.76)
+
+

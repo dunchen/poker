@@ -1,0 +1,35 @@
+PokerStars Hand #149839629897:  Hold'em Limit ($3/$6 USD) - 2016/03/04 15:55:35 ET
+Table 'Sham' 6-max Seat #4 is the button
+Seat 1: bentinck113 ($142.63 in chips)
+Seat 4: exc_stasy ($18.13 in chips)
+exc_stasy: posts small blind $1
+Zubasa07: is sitting out
+ValeryRon: is sitting out
+bentinck113: posts big blind $3
+*** HOLE CARDS ***
+exc_stasy: raises $3 to $6
+ValeryRon leaves the table
+Zubasa07 leaves the table
+bentinck113: calls $3
+*** FLOP *** [Ks 2c As]
+bentinck113: checks
+exc_stasy: checks
+*** TURN *** [Ks 2c As] [Jc]
+bentinck113: checks
+exc_stasy: bets $6
+bentinck113: calls $6
+*** RIVER *** [Ks 2c As Jc] [9s]
+bentinck113: bets $6
+exc_stasy: raises $0.13 to $6.13 and is all-in
+bentinck113: calls $0.13
+*** SHOW DOWN ***
+exc_stasy: shows [Ah 5h] (a pair of Aces)
+bentinck113: shows [6s 5s] (a flush, Ace high)
+bentinck113 collected $35.76 from pot
+*** SUMMARY ***
+Total pot $36.26 | Rake $0.50
+Board [Ks 2c As Jc 9s]
+Seat 1: bentinck113 (big blind) showed [6s 5s] and won ($35.76) with a flush, Ace high
+Seat 4: exc_stasy (button) (small blind) showed [Ah 5h] and lost with a pair of Aces
+
+

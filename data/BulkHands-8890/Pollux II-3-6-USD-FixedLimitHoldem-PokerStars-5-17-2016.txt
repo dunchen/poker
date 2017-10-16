@@ -1,0 +1,123 @@
+PokerStars Hand #153433754003:  Hold'em Limit ($3/$6 USD) - 2016/05/17 4:04:58 ET
+Table 'Pollux II' 10-max Seat #8 is the button
+Seat 7: griffeur 94 ($71.76 in chips)
+Seat 8: Ag3r0n ($89.26 in chips)
+Ag3r0n: posts small blind $1
+griffeur 94: posts big blind $3
+*** HOLE CARDS ***
+Ag3r0n: raises $3 to $6
+griffeur 94: folds
+Uncalled bet ($3) returned to Ag3r0n
+Ag3r0n collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 7: griffeur 94 (big blind) folded before Flop
+Seat 8: Ag3r0n (button) (small blind) collected ($6)
+
+
+PokerStars Hand #153433749697:  Hold'em Limit ($3/$6 USD) - 2016/05/17 4:04:43 ET
+Table 'Pollux II' 10-max Seat #7 is the button
+Seat 7: griffeur 94 ($66 in chips)
+Seat 8: Ag3r0n ($95.26 in chips)
+griffeur 94: posts small blind $1
+Ag3r0n: posts big blind $3
+*** HOLE CARDS ***
+griffeur 94: raises $3 to $6
+Ag3r0n: calls $3
+*** FLOP *** [9h 5h 2s]
+Ag3r0n: checks
+griffeur 94: bets $3
+Ag3r0n: folds
+Uncalled bet ($3) returned to griffeur 94
+griffeur 94 collected $11.76 from pot
+griffeur 94: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9h 5h 2s]
+Seat 7: griffeur 94 (button) (small blind) collected ($11.76)
+Seat 8: Ag3r0n (big blind) folded on the Flop
+
+
+PokerStars Hand #153433756014:  Hold'em Limit ($3/$6 USD) - 2016/05/17 4:05:05 ET
+Table 'Pollux II' 10-max Seat #7 is the button
+Seat 7: griffeur 94 ($68.76 in chips)
+Seat 8: Ag3r0n ($92.26 in chips)
+griffeur 94: posts small blind $1
+Ag3r0n: posts big blind $3
+*** HOLE CARDS ***
+griffeur 94: calls $2
+Ag3r0n: checks
+*** FLOP *** [As 2c 9d]
+Ag3r0n: bets $3
+griffeur 94: raises $3 to $6
+Ag3r0n: calls $3
+*** TURN *** [As 2c 9d] [Jd]
+Ag3r0n: checks
+griffeur 94: bets $6
+Ag3r0n: calls $6
+*** RIVER *** [As 2c 9d Jd] [4h]
+Ag3r0n: checks
+griffeur 94: bets $6
+Ag3r0n: calls $6
+*** SHOW DOWN ***
+griffeur 94: shows [3h 8d] (high card Ace)
+Ag3r0n: shows [6h 9h] (a pair of Nines)
+Ag3r0n collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [As 2c 9d Jd 4h]
+Seat 7: griffeur 94 (button) (small blind) showed [3h 8d] and lost with high card Ace
+Seat 8: Ag3r0n (big blind) showed [6h 9h] and won ($41.50) with a pair of Nines
+
+
+PokerStars Hand #153433850356:  Hold'em Limit ($3/$6 USD) - 2016/05/17 4:10:28 ET
+Table 'Pollux II' 10-max Seat #6 is the button
+Seat 1: Punkyfee ($119.37 in chips)
+Seat 6: Agrotait ($75.61 in chips)
+Agrotait: posts small blind $1
+Ag3r0n: is sitting out
+Punkyfee: posts big blind $3
+*** HOLE CARDS ***
+Ag3r0n leaves the table
+Agrotait: raises $3 to $6
+Punkyfee: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $6 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: Punkyfee (big blind) folded before Flop
+Seat 6: Agrotait (button) (small blind) collected ($6)
+
+
+PokerStars Hand #153433853709:  Hold'em Limit ($3/$6 USD) - 2016/05/17 4:10:39 ET
+Table 'Pollux II' 10-max Seat #1 is the button
+Seat 1: Punkyfee ($116.37 in chips)
+Seat 6: Agrotait ($78.61 in chips)
+Punkyfee: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+Punkyfee: calls $2
+Agrotait: raises $3 to $6
+Punkyfee: calls $3
+*** FLOP *** [9d 4c 3d]
+Agrotait: bets $3
+Punkyfee: calls $3
+*** TURN *** [9d 4c 3d] [Ah]
+Agrotait: checks
+Punkyfee: bets $6
+Agrotait: calls $6
+*** RIVER *** [9d 4c 3d Ah] [Tc]
+Agrotait: checks
+Punkyfee: checks
+*** SHOW DOWN ***
+Agrotait: shows [Jc Qs] (high card Ace)
+Punkyfee: shows [7c 9h] (a pair of Nines)
+Punkyfee collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9d 4c 3d Ah Tc]
+Seat 1: Punkyfee (button) (small blind) showed [7c 9h] and won ($29.50) with a pair of Nines
+Seat 6: Agrotait (big blind) showed [Jc Qs] and lost with high card Ace
+
+

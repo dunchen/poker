@@ -1,0 +1,46 @@
+PokerStars Hand #149234998796:  Hold'em Limit ($3/$6 USD) - 2016/02/22 9:55:20 ET
+Table 'Armor II' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 2: tomhradil112 ($89.75 in chips)
+VolkovDmitri: posts small blind $1
+tomhradil112: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+tomhradil112: calls $3
+*** FLOP *** [9d 3d 5h]
+tomhradil112: checks
+VolkovDmitri: bets $3
+tomhradil112: calls $3
+*** TURN *** [9d 3d 5h] [9h]
+tomhradil112: checks
+VolkovDmitri: checks
+*** RIVER *** [9d 3d 5h 9h] [Js]
+tomhradil112: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+tomhradil112: shows [9c Qs] (three of a kind, Nines)
+VolkovDmitri: mucks hand
+tomhradil112 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9d 3d 5h 9h Js]
+Seat 1: VolkovDmitri (button) (small blind) mucked
+Seat 2: tomhradil112 (big blind) showed [9c Qs] and won ($29.50) with three of a kind, Nines
+
+
+PokerStars Hand #149235015179:  Hold'em Limit ($3/$6 USD) - 2016/02/22 9:55:47 ET
+Table 'Armor II' 6-max Seat #2 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 2: tomhradil112 ($104.25 in chips)
+tomhradil112: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+tomhradil112: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: VolkovDmitri (big blind) collected ($2)
+Seat 2: tomhradil112 (button) (small blind) folded before Flop
+
+

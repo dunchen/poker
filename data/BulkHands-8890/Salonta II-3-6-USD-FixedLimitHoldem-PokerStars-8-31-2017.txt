@@ -1,0 +1,109 @@
+PokerStars Hand #175027800660:  Hold'em Limit ($3/$6 USD) - 2017/08/31 12:50:59 ET
+Table 'Salonta II' 6-max Seat #3 is the button
+Seat 3: belik555 ($90 in chips)
+Seat 4: RabbitNrAS ($36 in chips)
+belik555: posts small blind $1
+RabbitNrAS: posts big blind $3
+*** HOLE CARDS ***
+belik555: raises $3 to $6
+RabbitNrAS: folds
+Uncalled bet ($3) returned to belik555
+belik555 collected $6 from pot
+belik555: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: belik555 (button) (small blind) collected ($6)
+Seat 4: RabbitNrAS (big blind) folded before Flop
+
+
+PokerStars Hand #175027804875:  Hold'em Limit ($3/$6 USD) - 2017/08/31 12:51:06 ET
+Table 'Salonta II' 6-max Seat #4 is the button
+Seat 3: belik555 ($93 in chips)
+Seat 4: RabbitNrAS ($33 in chips)
+RabbitNrAS: posts small blind $1
+belik555: posts big blind $3
+*** HOLE CARDS ***
+RabbitNrAS: raises $3 to $6
+belik555: raises $3 to $9
+RabbitNrAS: calls $3
+*** FLOP *** [6c 6s 7c]
+B_loJkl joins the table at seat #5
+belik555: bets $3
+RabbitNrAS: calls $3
+*** TURN *** [6c 6s 7c] [Tc]
+belik555: checks
+RabbitNrAS: bets $6
+belik555: calls $6
+*** RIVER *** [6c 6s 7c Tc] [2s]
+belik555: checks
+RabbitNrAS: bets $6
+belik555: calls $6
+*** SHOW DOWN ***
+RabbitNrAS: shows [Jh 7s] (two pair, Sevens and Sixes)
+belik555: shows [8c 8s] (two pair, Eights and Sixes)
+belik555 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [6c 6s 7c Tc 2s]
+Seat 3: belik555 (big blind) showed [8c 8s] and won ($47.50) with two pair, Eights and Sixes
+Seat 4: RabbitNrAS (button) (small blind) showed [Jh 7s] and lost with two pair, Sevens and Sixes
+
+
+PokerStars Hand #175027822816:  Hold'em Limit ($3/$6 USD) - 2017/08/31 12:51:34 ET
+Table 'Salonta II' 6-max Seat #3 is the button
+Seat 3: belik555 ($116.50 in chips)
+Seat 4: RabbitNrAS ($9 in chips)
+belik555: posts small blind $1
+RabbitNrAS: posts big blind $3
+*** HOLE CARDS ***
+belik555: raises $3 to $6
+RabbitNrAS: raises $3 to $9 and is all-in
+belik555: calls $3
+*** FLOP *** [Td 4s Ah]
+*** TURN *** [Td 4s Ah] [Qc]
+*** RIVER *** [Td 4s Ah Qc] [Ks]
+*** SHOW DOWN ***
+RabbitNrAS: shows [Kc 8s] (a pair of Kings)
+belik555: shows [Jd 7c] (a straight, Ten to Ace)
+belik555 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Td 4s Ah Qc Ks]
+Seat 3: belik555 (button) (small blind) showed [Jd 7c] and won ($17.64) with a straight, Ten to Ace
+Seat 4: RabbitNrAS (big blind) showed [Kc 8s] and lost with a pair of Kings
+
+
+PokerStars Hand #175033696066:  Hold'em Limit ($3/$6 USD) - 2017/08/31 15:11:54 ET
+Table 'Salonta II' 6-max Seat #5 is the button
+Seat 3: pompier40 ($191.70 in chips)
+Seat 5: belik555 ($116.30 in chips)
+belik555: posts small blind $1
+vestimokrec: is sitting out
+AA_ILI: is sitting out
+pompier40: posts big blind $3
+*** HOLE CARDS ***
+belik555: raises $3 to $6
+AA_ILI leaves the table
+pompier40: calls $3
+*** FLOP *** [7c 3h Js]
+pompier40: checks
+belik555: checks
+*** TURN *** [7c 3h Js] [6h]
+pompier40: checks
+belik555: checks
+*** RIVER *** [7c 3h Js 6h] [Kd]
+pompier40: checks
+vestimokrec leaves the table
+belik555: bets $6
+pompier40: calls $6
+*** SHOW DOWN ***
+belik555: shows [Qs Ks] (a pair of Kings)
+pompier40: mucks hand
+belik555 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [7c 3h Js 6h Kd]
+Seat 3: pompier40 (big blind) mucked
+Seat 5: belik555 (button) (small blind) showed [Qs Ks] and won ($23.52) with a pair of Kings
+
+

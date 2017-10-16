@@ -1,0 +1,108 @@
+PokerStars Hand #154842577896:  Hold'em Limit ($3/$6 USD) - 2016/06/17 6:23:46 ET
+Table 'Lorbach' 10-max Seat #1 is the button
+Seat 1: SALZHERZ ($120 in chips)
+Seat 7: BuzovaPro ($72 in chips)
+SALZHERZ: posts small blind $1
+BuzovaPro: posts big blind $3
+*** HOLE CARDS ***
+SALZHERZ: raises $3 to $6
+BuzovaPro: calls $3
+*** FLOP *** [2h Qc Qs]
+BuzovaPro: checks
+SALZHERZ: checks
+*** TURN *** [2h Qc Qs] [Ts]
+BuzovaPro: checks
+SALZHERZ: bets $6
+BuzovaPro: folds
+Uncalled bet ($6) returned to SALZHERZ
+SALZHERZ collected $11.76 from pot
+SALZHERZ: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2h Qc Qs Ts]
+Seat 1: SALZHERZ (button) (small blind) collected ($11.76)
+Seat 7: BuzovaPro (big blind) folded on the Turn
+
+
+PokerStars Hand #154842584811:  Hold'em Limit ($3/$6 USD) - 2016/06/17 6:24:03 ET
+Table 'Lorbach' 10-max Seat #7 is the button
+Seat 1: SALZHERZ ($125.76 in chips)
+Seat 7: BuzovaPro ($72 in chips)
+BuzovaPro: posts small blind $1
+SALZHERZ: posts big blind $3
+*** HOLE CARDS ***
+BuzovaPro: raises $3 to $6
+SALZHERZ: calls $3
+*** FLOP *** [Js Kc 9c]
+hairy1961 joins the table at seat #3
+SALZHERZ: checks
+BuzovaPro: bets $3
+SALZHERZ: calls $3
+*** TURN *** [Js Kc 9c] [7h]
+SALZHERZ: checks
+BuzovaPro: checks
+*** RIVER *** [Js Kc 9c 7h] [2d]
+SALZHERZ: bets $6
+BuzovaPro: calls $6
+*** SHOW DOWN ***
+SALZHERZ: shows [7d Jd] (two pair, Jacks and Sevens)
+BuzovaPro: mucks hand
+SALZHERZ collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Js Kc 9c 7h 2d]
+Seat 1: SALZHERZ (big blind) showed [7d Jd] and won ($29.50) with two pair, Jacks and Sevens
+Seat 7: BuzovaPro (button) (small blind) mucked
+
+
+PokerStars Hand #154842747027:  Hold'em Limit ($3/$6 USD) - 2016/06/17 6:31:02 ET
+Table 'Lorbach' 10-max Seat #6 is the button
+Seat 4: jackRizzar ($287.98 in chips)
+Seat 6: ben456 ($113.91 in chips)
+ben456: posts small blind $1
+jackRizzar: posts big blind $3
+*** HOLE CARDS ***
+ben456: raises $3 to $6
+jackRizzar: calls $3
+*** FLOP *** [Qh 2s Jd]
+jackRizzar: checks
+ben456: bets $3
+jackRizzar: folds
+Uncalled bet ($3) returned to ben456
+ben456 collected $11.76 from pot
+ben456: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qh 2s Jd]
+Seat 4: jackRizzar (big blind) folded on the Flop
+Seat 6: ben456 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #154842752068:  Hold'em Limit ($3/$6 USD) - 2016/06/17 6:31:14 ET
+Table 'Lorbach' 10-max Seat #4 is the button
+Seat 4: jackRizzar ($281.98 in chips)
+Seat 6: ben456 ($119.67 in chips)
+jackRizzar: posts small blind $1
+ben456: posts big blind $3
+*** HOLE CARDS ***
+jackRizzar: raises $3 to $6
+ben456: calls $3
+*** FLOP *** [8c 5h Qc]
+ben456: checks
+jackRizzar: bets $3
+ben456: calls $3
+*** TURN *** [8c 5h Qc] [4s]
+ben456: checks
+jackRizzar: checks
+*** RIVER *** [8c 5h Qc 4s] [Td]
+ben456: bets $6
+jackRizzar: folds
+Uncalled bet ($6) returned to ben456
+ben456 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8c 5h Qc 4s Td]
+Seat 4: jackRizzar (button) (small blind) folded on the River
+Seat 6: ben456 (big blind) collected ($17.64)
+
+

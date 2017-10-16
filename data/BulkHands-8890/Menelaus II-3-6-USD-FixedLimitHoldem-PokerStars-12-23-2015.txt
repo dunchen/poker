@@ -1,0 +1,60 @@
+PokerStars Hand #145798976758:  Hold'em Limit ($3/$6 USD) - 2015/12/23 12:17:12 ET
+Table 'Menelaus II' 10-max Seat #8 is the button
+Seat 7: PelonCabelao ($90.50 in chips)
+Seat 8: perten ($33.81 in chips)
+perten: posts small blind $1
+PelonCabelao: posts big blind $3
+*** HOLE CARDS ***
+perten: raises $3 to $6
+PelonCabelao: raises $3 to $9
+perten: calls $3
+*** FLOP *** [Jc 7h 4c]
+PelonCabelao: bets $3
+perten: calls $3
+*** TURN *** [Jc 7h 4c] [2h]
+PelonCabelao: bets $6
+perten: calls $6
+*** RIVER *** [Jc 7h 4c 2h] [7d]
+PelonCabelao: bets $6
+perten: calls $6
+*** SHOW DOWN ***
+PelonCabelao: shows [8c 8h] (two pair, Eights and Sevens)
+perten: mucks hand
+PelonCabelao collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Jc 7h 4c 2h 7d]
+Seat 7: PelonCabelao (big blind) showed [8c 8h] and won ($47.50) with two pair, Eights and Sevens
+Seat 8: perten (button) (small blind) mucked
+
+
+PokerStars Hand #145798938924:  Hold'em Limit ($3/$6 USD) - 2015/12/23 12:16:27 ET
+Table 'Menelaus II' 10-max Seat #7 is the button
+Seat 7: PelonCabelao ($73 in chips)
+Seat 8: perten ($51.81 in chips)
+PelonCabelao: posts small blind $1
+perten: posts big blind $3
+*** HOLE CARDS ***
+PelonCabelao: raises $3 to $6
+perten: raises $3 to $9
+PelonCabelao: calls $3
+*** FLOP *** [4s 4c Ac]
+perten: bets $3
+PelonCabelao: calls $3
+*** TURN *** [4s 4c Ac] [5c]
+perten: checks
+PelonCabelao: checks
+*** RIVER *** [4s 4c Ac 5c] [6d]
+perten: bets $6
+PelonCabelao: calls $6
+*** SHOW DOWN ***
+perten: shows [Td Qh] (a pair of Fours)
+PelonCabelao: shows [8c Ks] (a pair of Fours - Ace+King kicker)
+PelonCabelao collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [4s 4c Ac 5c 6d]
+Seat 7: PelonCabelao (button) (small blind) showed [8c Ks] and won ($35.50) with a pair of Fours
+Seat 8: perten (big blind) showed [Td Qh] and lost with a pair of Fours
+
+

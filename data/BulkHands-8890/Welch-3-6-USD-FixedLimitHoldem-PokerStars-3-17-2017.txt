@@ -1,0 +1,32 @@
+PokerStars Hand #167711968424:  Hold'em Limit ($3/$6 USD) - 2017/03/17 12:19:33 ET
+Table 'Welch' 10-max Seat #7 is the button
+Seat 7: GRAILKO ($201 in chips)
+Seat 8: Ale4o ($119 in chips)
+GRAILKO: posts small blind $1
+Ale4o: posts big blind $3
+*** HOLE CARDS ***
+GRAILKO: raises $3 to $6
+Ale4o: calls $3
+*** FLOP *** [Kh 7s 3h]
+Ale4o: checks
+GRAILKO: bets $3
+Ale4o: raises $3 to $6
+GRAILKO: calls $3
+*** TURN *** [Kh 7s 3h] [Td]
+Ale4o: bets $6
+GRAILKO: calls $6
+*** RIVER *** [Kh 7s 3h Td] [5d]
+Ale4o: bets $6
+GRAILKO: raises $6 to $12
+Ale4o: calls $6
+*** SHOW DOWN ***
+GRAILKO: shows [5s 5h] (three of a kind, Fives)
+Ale4o: mucks hand
+GRAILKO collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Kh 7s 3h Td 5d]
+Seat 7: GRAILKO (button) (small blind) showed [5s 5h] and won ($59.50) with three of a kind, Fives
+Seat 8: Ale4o (big blind) mucked
+
+

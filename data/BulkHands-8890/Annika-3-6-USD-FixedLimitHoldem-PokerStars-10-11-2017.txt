@@ -1,0 +1,85 @@
+PokerStars Hand #176762143157:  Hold'em Limit ($3/$6 USD) - 2017/10/10 22:08:25 ET
+Table 'Annika' 10-max Seat #1 is the button
+Seat 1: Chessnok ($120 in chips)
+Seat 10: ManuelSikora ($120 in chips)
+GoliafUa: is sitting out
+Chessnok: posts small blind $1
+ManuelSikora: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+ManuelSikora: raises $3 to $9
+GoliafUa leaves the table
+Chessnok: calls $3
+*** FLOP *** [8h 6d Jh]
+ManuelSikora: bets $3
+Chessnok: calls $3
+*** TURN *** [8h 6d Jh] [Qd]
+LouisB joins the table at seat #2
+ManuelSikora: checks
+Chessnok: checks
+*** RIVER *** [8h 6d Jh Qd] [8d]
+ManuelSikora: bets $6
+Chessnok: calls $6
+*** SHOW DOWN ***
+ManuelSikora: shows [8s 3s] (three of a kind, Eights)
+Chessnok: mucks hand
+ManuelSikora collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [8h 6d Jh Qd 8d]
+Seat 1: Chessnok (button) (small blind) mucked
+Seat 10: ManuelSikora (big blind) showed [8s 3s] and won ($35.50) with three of a kind, Eights
+
+
+PokerStars Hand #176762157521:  Hold'em Limit ($3/$6 USD) - 2017/10/10 22:09:07 ET
+Table 'Annika' 10-max Seat #10 is the button
+Seat 1: Chessnok ($102 in chips)
+Seat 10: ManuelSikora ($137.50 in chips)
+ManuelSikora: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+ManuelSikora: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [6c 8h 3h]
+Chessnok: checks
+ManuelSikora: bets $3
+Chessnok: raises $3 to $6
+ManuelSikora: raises $3 to $9
+Chessnok: raises $3 to $12
+Betting is capped
+ManuelSikora: calls $3
+*** TURN *** [6c 8h 3h] [7s]
+Chessnok: bets $6
+ManuelSikora: raises $6 to $12
+Chessnok: calls $6
+*** RIVER *** [6c 8h 3h 7s] [7d]
+Chessnok: checks
+ManuelSikora: checks
+*** SHOW DOWN ***
+Chessnok: shows [Ks 8c] (two pair, Eights and Sevens)
+ManuelSikora: mucks hand
+Chessnok collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [6c 8h 3h 7s 7d]
+Seat 1: Chessnok (big blind) showed [Ks 8c] and won ($59.50) with two pair, Eights and Sevens
+Seat 10: ManuelSikora (button) (small blind) mucked
+
+
+PokerStars Hand #176762325668:  Hold'em Limit ($3/$6 USD) - 2017/10/10 22:17:22 ET
+Table 'Annika' 10-max Seat #2 is the button
+Seat 1: Chessnok ($135.98 in chips)
+Seat 2: LouisB ($64.59 in chips)
+LouisB: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+LouisB: folds
+Uncalled bet ($2) returned to Chessnok
+Chessnok collected $2 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Chessnok (big blind) collected ($2)
+Seat 2: LouisB (button) (small blind) folded before Flop
+
+

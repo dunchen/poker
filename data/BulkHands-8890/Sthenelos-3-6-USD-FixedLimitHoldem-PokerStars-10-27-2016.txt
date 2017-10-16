@@ -1,0 +1,56 @@
+PokerStars Hand #160497105941:  Hold'em Limit ($3/$6 USD) - 2016/10/27 3:05:48 ET
+Table 'Sthenelos' 6-max Seat #6 is the button
+Seat 4: Agrotait ($72 in chips)
+Seat 6: MTails ($120 in chips)
+MTails: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [6s Th 3s]
+Agrotait: checks
+MTails: bets $3
+Agrotait: calls $3
+*** TURN *** [6s Th 3s] [Js]
+Agrotait: checks
+MTails: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to MTails
+MTails collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6s Th 3s Js]
+Seat 4: Agrotait (big blind) folded on the Turn
+Seat 6: MTails (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #160497116298:  Hold'em Limit ($3/$6 USD) - 2016/10/27 3:06:27 ET
+Table 'Sthenelos' 6-max Seat #4 is the button
+Seat 4: Agrotait ($63 in chips)
+Seat 6: MTails ($128.64 in chips)
+Agrotait: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [5s 8d Qh]
+MTails: checks
+Agrotait: bets $3
+MTails: calls $3
+*** TURN *** [5s 8d Qh] [3h]
+MTails: checks
+Agrotait: checks
+*** RIVER *** [5s 8d Qh 3h] [Ah]
+MTails: checks
+Agrotait: checks
+*** SHOW DOWN ***
+MTails: shows [Kd 2c] (high card Ace)
+Agrotait: shows [3d Ks] (a pair of Threes)
+Agrotait collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5s 8d Qh 3h Ah]
+Seat 4: Agrotait (button) (small blind) showed [3d Ks] and won ($17.64) with a pair of Threes
+Seat 6: MTails (big blind) showed [Kd 2c] and lost with high card Ace
+
+

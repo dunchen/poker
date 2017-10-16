@@ -1,0 +1,232 @@
+PokerStars Hand #169756904658:  Hold'em Limit ($3/$6 USD) - 2017/04/30 8:32:44 ET
+Table 'Loreley II' 6-max Seat #3 is the button
+Seat 3: chebob ($60 in chips)
+Seat 4: Agrotait ($72 in chips)
+chebob: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+chebob: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [3c 7h 9h]
+RockKillerTY joins the table at seat #5
+Agrotait: bets $3
+chebob: calls $3
+*** TURN *** [3c 7h 9h] [5c]
+Agrotait: bets $6
+chebob: calls $6
+*** RIVER *** [3c 7h 9h 5c] [8h]
+Agrotait: checks
+chebob: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to chebob
+chebob collected $29.50 from pot
+chebob: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3c 7h 9h 5c 8h]
+Seat 3: chebob (button) (small blind) collected ($29.50)
+Seat 4: Agrotait (big blind) folded on the River
+
+
+PokerStars Hand #169757581635:  Hold'em Limit ($3/$6 USD) - 2017/04/30 8:53:36 ET
+Table 'Loreley II' 6-max Seat #5 is the button
+Seat 2: Eklund_1891 ($65.11 in chips)
+Seat 5: RockKillerTY ($217.69 in chips)
+RockKillerTY: posts small blind $1
+kolaz03: is sitting out
+Eklund_1891: posts big blind $3
+*** HOLE CARDS ***
+RockKillerTY: raises $3 to $6
+kolaz03 leaves the table
+Eklund_1891: calls $3
+*** FLOP *** [5d 4c Js]
+Eklund_1891: checks
+kolaz03 joins the table at seat #4
+RockKillerTY: bets $3
+Eklund_1891: calls $3
+*** TURN *** [5d 4c Js] [Tc]
+Eklund_1891: checks
+RockKillerTY: bets $6
+Eklund_1891: folds
+Uncalled bet ($6) returned to RockKillerTY
+RockKillerTY collected $17.64 from pot
+RockKillerTY: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5d 4c Js Tc]
+Seat 2: Eklund_1891 (big blind) folded on the Turn
+Seat 5: RockKillerTY (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #169757621459:  Hold'em Limit ($3/$6 USD) - 2017/04/30 8:54:50 ET
+Table 'Loreley II' 6-max Seat #4 is the button
+Seat 2: Eklund_1891 ($29.11 in chips)
+Seat 4: kolaz03 ($72 in chips)
+kolaz03: posts small blind $1
+RockKillerTY: is sitting out
+Eklund_1891: posts big blind $3
+*** HOLE CARDS ***
+RockKillerTY leaves the table
+kolaz03: raises $3 to $6
+Eklund_1891: raises $3 to $9
+kolaz03: calls $3
+*** FLOP *** [9d 8d 2s]
+Eklund_1891: bets $3
+kolaz03: calls $3
+*** TURN *** [9d 8d 2s] [Ts]
+Eklund_1891: bets $6
+kolaz03: calls $6
+*** RIVER *** [9d 8d 2s Ts] [5s]
+Eklund_1891: bets $6
+kolaz03: folds
+Uncalled bet ($6) returned to Eklund_1891
+Eklund_1891 collected $35.50 from pot
+Eklund_1891: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [9d 8d 2s Ts 5s]
+Seat 2: Eklund_1891 (big blind) collected ($35.50)
+Seat 4: kolaz03 (button) (small blind) folded on the River
+
+
+PokerStars Hand #169757638655:  Hold'em Limit ($3/$6 USD) - 2017/04/30 8:55:25 ET
+Table 'Loreley II' 6-max Seat #2 is the button
+Seat 2: Eklund_1891 ($46.61 in chips)
+Seat 4: kolaz03 ($72 in chips)
+Eklund_1891: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+Eklund_1891: folds
+Uncalled bet ($2) returned to kolaz03
+kolaz03 collected $2 from pot
+kolaz03: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: Eklund_1891 (button) (small blind) folded before Flop
+Seat 4: kolaz03 (big blind) collected ($2)
+
+
+PokerStars Hand #169757657087:  Hold'em Limit ($3/$6 USD) - 2017/04/30 8:56:06 ET
+Table 'Loreley II' 6-max Seat #2 is the button
+Seat 2: Eklund_1891 ($6.61 in chips)
+Seat 4: kolaz03 ($111.50 in chips)
+Eklund_1891: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+Eklund_1891: raises $3 to $6
+kolaz03: raises $3 to $9
+Eklund_1891: calls $0.61 and is all-in
+Uncalled bet ($2.39) returned to kolaz03
+*** FLOP *** [4c 5s Jc]
+*** TURN *** [4c 5s Jc] [6d]
+*** RIVER *** [4c 5s Jc 6d] [9d]
+*** SHOW DOWN ***
+kolaz03: shows [Qs Tc] (high card Queen)
+Eklund_1891: shows [Qh 7c] (high card Queen - lower kicker)
+kolaz03 collected $12.96 from pot
+*** SUMMARY ***
+Total pot $13.22 | Rake $0.26
+Board [4c 5s Jc 6d 9d]
+Seat 2: Eklund_1891 (button) (small blind) showed [Qh 7c] and lost with high card Queen
+Seat 4: kolaz03 (big blind) showed [Qs Tc] and won ($12.96) with high card Queen
+
+
+PokerStars Hand #169757642277:  Hold'em Limit ($3/$6 USD) - 2017/04/30 8:55:33 ET
+Table 'Loreley II' 6-max Seat #4 is the button
+Seat 2: Eklund_1891 ($45.61 in chips)
+Seat 4: kolaz03 ($73 in chips)
+kolaz03: posts small blind $1
+Eklund_1891: posts big blind $3
+*** HOLE CARDS ***
+kolaz03: raises $3 to $6
+Eklund_1891: raises $3 to $9
+kolaz03: raises $3 to $12
+Betting is capped
+Eklund_1891: calls $3
+*** FLOP *** [3c 3h Kc]
+Eklund_1891: checks
+kolaz03: bets $3
+Eklund_1891: calls $3
+*** TURN *** [3c 3h Kc] [2d]
+Eklund_1891: checks
+kolaz03: bets $6
+Eklund_1891: raises $6 to $12
+kolaz03: raises $6 to $18
+Eklund_1891: calls $6
+*** RIVER *** [3c 3h Kc 2d] [5s]
+Eklund_1891: checks
+kolaz03: bets $6
+Eklund_1891: calls $6
+*** SHOW DOWN ***
+kolaz03: shows [Ah As] (two pair, Aces and Threes)
+Eklund_1891: mucks hand
+kolaz03 collected $77.50 from pot
+*** SUMMARY ***
+Total pot $78 | Rake $0.50
+Board [3c 3h Kc 2d 5s]
+Seat 2: Eklund_1891 (big blind) mucked
+Seat 4: kolaz03 (button) (small blind) showed [Ah As] and won ($77.50) with two pair, Aces and Threes
+
+
+PokerStars Hand #169757676039:  Hold'em Limit ($3/$6 USD) - 2017/04/30 8:56:48 ET
+Table 'Loreley II' 6-max Seat #4 is the button
+Seat 2: Eklund_1891 ($41 in chips)
+Seat 4: kolaz03 ($117.85 in chips)
+kolaz03: posts small blind $1
+Eklund_1891: posts big blind $3
+*** HOLE CARDS ***
+kolaz03: raises $3 to $6
+Eklund_1891: calls $3
+*** FLOP *** [Kd 8d 6s]
+Eklund_1891: bets $3
+kolaz03: raises $3 to $6
+Eklund_1891: calls $3
+*** TURN *** [Kd 8d 6s] [Qs]
+Eklund_1891: checks
+kolaz03: bets $6
+Eklund_1891: calls $6
+*** RIVER *** [Kd 8d 6s Qs] [6h]
+Eklund_1891: checks
+kolaz03: bets $6
+Eklund_1891: calls $6
+*** SHOW DOWN ***
+kolaz03: shows [Ks As] (two pair, Kings and Sixes)
+Eklund_1891: mucks hand
+kolaz03 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Kd 8d 6s Qs 6h]
+Seat 2: Eklund_1891 (big blind) mucked
+Seat 4: kolaz03 (button) (small blind) showed [Ks As] and won ($47.50) with two pair, Kings and Sixes
+
+
+PokerStars Hand #169757689505:  Hold'em Limit ($3/$6 USD) - 2017/04/30 8:57:18 ET
+Table 'Loreley II' 6-max Seat #2 is the button
+Seat 2: Eklund_1891 ($17 in chips)
+Seat 4: kolaz03 ($141.35 in chips)
+Eklund_1891: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+Eklund_1891 said, "haha"
+Eklund_1891: raises $3 to $6
+kolaz03: raises $3 to $9
+Eklund_1891: calls $3
+*** FLOP *** [4h 6h Js]
+kolaz03: bets $3
+Eklund_1891: calls $3
+*** TURN *** [4h 6h Js] [8d]
+kolaz03: bets $6
+Eklund_1891: calls $5 and is all-in
+Uncalled bet ($1) returned to kolaz03
+*** RIVER *** [4h 6h Js 8d] [Qd]
+*** SHOW DOWN ***
+kolaz03: shows [Jc Qs] (two pair, Queens and Jacks)
+Eklund_1891: shows [5s Ts] (high card Queen)
+kolaz03 collected $33.50 from pot
+*** SUMMARY ***
+Total pot $34 | Rake $0.50
+Board [4h 6h Js 8d Qd]
+Seat 2: Eklund_1891 (button) (small blind) showed [5s Ts] and lost with high card Queen
+Seat 4: kolaz03 (big blind) showed [Jc Qs] and won ($33.50) with two pair, Queens and Jacks
+
+

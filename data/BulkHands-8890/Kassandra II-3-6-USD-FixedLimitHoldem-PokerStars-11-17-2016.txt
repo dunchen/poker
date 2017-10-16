@@ -1,0 +1,31 @@
+PokerStars Hand #161537694316:  Hold'em Limit ($3/$6 USD) - 2016/11/17 9:47:49 ET
+Table 'Kassandra II' 6-max Seat #3 is the button
+Seat 3: robertass84 ($120 in chips)
+Seat 5: newhouse ($120 in chips)
+robertass84: posts small blind $1
+newhouse: posts big blind $3
+*** HOLE CARDS ***
+robertass84: raises $3 to $6
+newhouse: calls $3
+*** FLOP *** [Qd 3d 2h]
+newhouse: checks
+robertass84: bets $3
+newhouse: raises $3 to $6
+robertass84: calls $3
+*** TURN *** [Qd 3d 2h] [8d]
+newhouse: bets $6
+robertass84: calls $6
+*** RIVER *** [Qd 3d 2h 8d] [9c]
+newhouse: checks
+robertass84: bets $6
+newhouse: folds
+Uncalled bet ($6) returned to robertass84
+robertass84 collected $35.50 from pot
+robertass84: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Qd 3d 2h 8d 9c]
+Seat 3: robertass84 (button) (small blind) collected ($35.50)
+Seat 5: newhouse (big blind) folded on the River
+
+

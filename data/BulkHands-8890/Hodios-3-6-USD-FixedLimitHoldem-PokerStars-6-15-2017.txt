@@ -1,0 +1,50 @@
+PokerStars Hand #171798538773:  Hold'em Limit ($3/$6 USD) - 2017/06/15 6:14:57 ET
+Table 'Hodios' 6-max Seat #4 is the button
+Seat 4: MTails ($120 in chips)
+Seat 5: igorkabmw ($31 in chips)
+Ale4o joins the table at seat #1
+MTails: posts small blind $1
+igorkabmw: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+igorkabmw: calls $3
+*** FLOP *** [Ad 9c 6c]
+igorkabmw: checks
+MTails: bets $3
+igorkabmw: calls $3
+*** TURN *** [Ad 9c 6c] [4d]
+igorkabmw: checks
+MTails: checks
+*** RIVER *** [Ad 9c 6c 4d] [Ah]
+igorkabmw: checks
+MTails: bets $6
+igorkabmw: raises $6 to $12
+MTails: calls $6
+*** SHOW DOWN ***
+igorkabmw: shows [Jc 8h] (a pair of Aces)
+MTails: shows [Td 4h] (two pair, Aces and Fours)
+MTails collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ad 9c 6c 4d Ah]
+Seat 4: MTails (button) (small blind) showed [Td 4h] and won ($41.50) with two pair, Aces and Fours
+Seat 5: igorkabmw (big blind) showed [Jc 8h] and lost with a pair of Aces
+
+
+PokerStars Hand #171798567094:  Hold'em Limit ($3/$6 USD) - 2017/06/15 6:16:14 ET
+Table 'Hodios' 6-max Seat #4 is the button
+Seat 1: Ale4o ($116 in chips)
+Seat 4: MTails ($151.21 in chips)
+MTails: posts small blind $1
+Ale4o: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+Ale4o: folds
+Uncalled bet ($3) returned to MTails
+MTails collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: Ale4o (big blind) folded before Flop
+Seat 4: MTails (button) (small blind) collected ($6)
+
+

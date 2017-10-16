@@ -1,0 +1,86 @@
+PokerStars Hand #164452991612:  Hold'em Limit ($3/$6 USD) - 2017/01/12 10:41:14 ET
+Table 'Inna' 6-max Seat #1 is the button
+Seat 1: Feodor460 ($101.14 in chips)
+Seat 2: TbIP-TbIP 88 ($72 in chips)
+Feodor460: posts small blind $1
+LouisB joins the table at seat #3
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+Feodor460: calls $2
+TbIP-TbIP 88: raises $3 to $6
+Feodor460: calls $3
+*** FLOP *** [3h Ac 6c]
+TbIP-TbIP 88: bets $3
+Great_Kang joins the table at seat #4
+Feodor460: calls $3
+*** TURN *** [3h Ac 6c] [Kd]
+TbIP-TbIP 88: bets $6
+Feodor460: folds
+Uncalled bet ($6) returned to TbIP-TbIP 88
+TbIP-TbIP 88 collected $17.64 from pot
+TbIP-TbIP 88: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3h Ac 6c Kd]
+Seat 1: Feodor460 (button) (small blind) folded on the Turn
+Seat 2: TbIP-TbIP 88 (big blind) collected ($17.64)
+
+
+PokerStars Hand #164453983655:  Hold'em Limit ($3/$6 USD) - 2017/01/12 11:03:21 ET
+Table 'Inna' 6-max Seat #3 is the button
+Seat 3: LouisB ($145.98 in chips)
+Seat 6: B_loJkl ($99.21 in chips)
+LouisB: posts small blind $1
+Great_Kang: is sitting out
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+LouisB: raises $3 to $6
+Great_Kang leaves the table
+B_loJkl: calls $3
+*** FLOP *** [Kc 4d 3h]
+B_loJkl: checks
+LouisB: bets $3
+TbIP-TbIP 88 leaves the table
+B_loJkl: raises $3 to $6
+LouisB: calls $3
+*** TURN *** [Kc 4d 3h] [Ac]
+B_loJkl: checks
+LouisB: bets $6
+B_loJkl: calls $6
+*** RIVER *** [Kc 4d 3h Ac] [Ks]
+B_loJkl: checks
+LouisB: checks
+*** SHOW DOWN ***
+B_loJkl: shows [Ah 7h] (two pair, Aces and Kings)
+LouisB: mucks hand
+B_loJkl collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Kc 4d 3h Ac Ks]
+Seat 3: LouisB (button) (small blind) mucked
+Seat 6: B_loJkl (big blind) showed [Ah 7h] and won ($35.50) with two pair, Aces and Kings
+
+
+PokerStars Hand #164454023858:  Hold'em Limit ($3/$6 USD) - 2017/01/12 11:04:13 ET
+Table 'Inna' 6-max Seat #6 is the button
+Seat 3: LouisB ($127.98 in chips)
+Seat 6: B_loJkl ($116.71 in chips)
+B_loJkl: posts small blind $1
+LouisB: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+LouisB: calls $3
+*** FLOP *** [4s 6d Kd]
+LouisB: checks
+B_loJkl: bets $3
+LouisB: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4s 6d Kd]
+Seat 3: LouisB (big blind) folded on the Flop
+Seat 6: B_loJkl (button) (small blind) collected ($11.76)
+
+

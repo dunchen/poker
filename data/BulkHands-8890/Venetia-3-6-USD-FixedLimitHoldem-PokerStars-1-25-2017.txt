@@ -1,0 +1,90 @@
+PokerStars Hand #165135271628:  Hold'em Limit ($3/$6 USD) - 2017/01/25 5:42:34 ET
+Table 'Venetia' 6-max Seat #4 is the button
+Seat 4: Actionni13 ($150 in chips)
+Seat 5: nordschrott ($30 in chips)
+Actionni13: posts small blind $1
+nordschrott: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+nordschrott: calls $3
+*** FLOP *** [5d 7h 8d]
+nordschrott: checks
+Actionni13: bets $3
+nordschrott: calls $3
+*** TURN *** [5d 7h 8d] [5s]
+nordschrott: checks
+Ale4o joins the table at seat #6
+Actionni13: bets $6
+nordschrott: calls $6
+*** RIVER *** [5d 7h 8d 5s] [4c]
+nordschrott: checks
+Actionni13: bets $6
+nordschrott: raises $6 to $12
+Actionni13: raises $6 to $18
+nordschrott: calls $3 and is all-in
+Uncalled bet ($3) returned to Actionni13
+*** SHOW DOWN ***
+Actionni13: shows [4h 4s] (a full house, Fours full of Fives)
+nordschrott: shows [2d 6c] (a straight, Four to Eight)
+Actionni13 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [5d 7h 8d 5s 4c]
+Seat 4: Actionni13 (button) (small blind) showed [4h 4s] and won ($59.50) with a full house, Fours full of Fives
+Seat 5: nordschrott (big blind) showed [2d 6c] and lost with a straight, Four to Eight
+
+
+PokerStars Hand #165135334532:  Hold'em Limit ($3/$6 USD) - 2017/01/25 5:44:56 ET
+Table 'Venetia' 6-max Seat #1 is the button
+Seat 1: SilaSoNi ($72 in chips)
+Seat 4: Actionni13 ($179.50 in chips)
+SilaSoNi: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+SilaSoNi: raises $3 to $6
+Actionni13: raises $3 to $9
+SilaSoNi: calls $3
+*** FLOP *** [Ah 7s Js]
+Actionni13: bets $3
+SilaSoNi: calls $3
+*** TURN *** [Ah 7s Js] [9d]
+Actionni13: bets $6
+volkovsky joins the table at seat #2
+SilaSoNi: calls $6
+*** RIVER *** [Ah 7s Js 9d] [2d]
+Actionni13: bets $6
+SilaSoNi: folds
+Uncalled bet ($6) returned to Actionni13
+Actionni13 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Ah 7s Js 9d 2d]
+Seat 1: SilaSoNi (button) (small blind) folded on the River
+Seat 4: Actionni13 (big blind) collected ($35.50)
+
+
+PokerStars Hand #165135347590:  Hold'em Limit ($3/$6 USD) - 2017/01/25 5:45:25 ET
+Table 'Venetia' 6-max Seat #4 is the button
+Seat 1: SilaSoNi ($54 in chips)
+Seat 4: Actionni13 ($197 in chips)
+Actionni13: posts small blind $1
+SilaSoNi: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+SilaSoNi: calls $3
+*** FLOP *** [9d 4c 2d]
+SilaSoNi: checks
+Actionni13: checks
+*** TURN *** [9d 4c 2d] [Qc]
+SilaSoNi: bets $6
+Actionni13: folds
+Uncalled bet ($6) returned to SilaSoNi
+SilaSoNi collected $11.76 from pot
+SilaSoNi: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9d 4c 2d Qc]
+Seat 1: SilaSoNi (big blind) collected ($11.76)
+Seat 4: Actionni13 (button) (small blind) folded on the Turn
+
+

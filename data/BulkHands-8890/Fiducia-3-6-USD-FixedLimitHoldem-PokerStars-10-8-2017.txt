@@ -1,0 +1,78 @@
+PokerStars Hand #176664274069:  Hold'em Limit ($3/$6 USD) - 2017/10/08 15:35:43 ET
+Table 'Fiducia' 6-max Seat #2 is the button
+Seat 1: Zubasa07 ($303 in chips)
+Seat 2: igorkabmw ($37.95 in chips)
+igorkabmw: posts small blind $1
+Zubasa07: posts big blind $3
+*** HOLE CARDS ***
+igorkabmw: raises $3 to $6
+Zubasa07: raises $3 to $9
+vestimokrec joins the table at seat #3
+igorkabmw: raises $3 to $12
+Betting is capped
+Zubasa07: calls $3
+*** FLOP *** [Kd Kc Tc]
+Zubasa07: checks
+igorkabmw: bets $3
+Zubasa07: raises $3 to $6
+igorkabmw: calls $3
+*** TURN *** [Kd Kc Tc] [6d]
+Zubasa07: bets $6
+igorkabmw: calls $6
+*** RIVER *** [Kd Kc Tc 6d] [2d]
+Zubasa07: bets $6
+igorkabmw: calls $6
+*** SHOW DOWN ***
+Zubasa07: shows [Ks 5s] (three of a kind, Kings)
+igorkabmw: mucks hand
+Zubasa07 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Kd Kc Tc 6d 2d]
+Seat 1: Zubasa07 (big blind) showed [Ks 5s] and won ($59.50) with three of a kind, Kings
+Seat 2: igorkabmw (button) (small blind) mucked
+
+
+PokerStars Hand #176664264158:  Hold'em Limit ($3/$6 USD) - 2017/10/08 15:35:33 ET
+Table 'Fiducia' 6-max Seat #1 is the button
+Seat 1: Zubasa07 ($300 in chips)
+Seat 2: igorkabmw ($40.95 in chips)
+Zubasa07: posts small blind $1
+igorkabmw: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+igorkabmw: folds
+Uncalled bet ($3) returned to Zubasa07
+Zubasa07 collected $6 from pot
+Zubasa07: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: Zubasa07 (button) (small blind) collected ($6)
+Seat 2: igorkabmw (big blind) folded before Flop
+
+
+PokerStars Hand #176664322901:  Hold'em Limit ($3/$6 USD) - 2017/10/08 15:36:34 ET
+Table 'Fiducia' 6-max Seat #1 is the button
+Seat 1: Zubasa07 ($332.50 in chips)
+Seat 2: igorkabmw ($7.95 in chips)
+Zubasa07: posts small blind $1
+igorkabmw: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+igorkabmw: calls $3
+*** FLOP *** [Jh 3h Ac]
+igorkabmw: bets $1.95 and is all-in
+Zubasa07: calls $1.95
+*** TURN *** [Jh 3h Ac] [2d]
+*** RIVER *** [Jh 3h Ac 2d] [9d]
+*** SHOW DOWN ***
+igorkabmw: shows [7h 8h] (high card Ace)
+Zubasa07: shows [Qh Jc] (a pair of Jacks)
+Zubasa07 collected $15.58 from pot
+*** SUMMARY ***
+Total pot $15.90 | Rake $0.32
+Board [Jh 3h Ac 2d 9d]
+Seat 1: Zubasa07 (button) (small blind) showed [Qh Jc] and won ($15.58) with a pair of Jacks
+Seat 2: igorkabmw (big blind) showed [7h 8h] and lost with high card Ace
+
+

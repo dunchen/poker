@@ -1,0 +1,33 @@
+PokerStars Hand #144337295073:  Hold'em Limit ($3/$6 USD) - 2015/11/24 18:30:17 ET
+Table 'Misa' 6-max Seat #2 is the button
+Seat 2: Velbor107 ($321.50 in chips)
+Seat 3: Philly0813 ($98 in chips)
+Velbor107: posts small blind $1
+Philly0813: posts big blind $3
+*** HOLE CARDS ***
+Velbor107: raises $3 to $6
+Philly0813: raises $3 to $9
+Chessnok joins the table at seat #4
+Velbor107: calls $3
+*** FLOP *** [Td Tc 7h]
+Philly0813: bets $3
+Velbor107: calls $3
+*** TURN *** [Td Tc 7h] [Qh]
+Philly0813: checks
+Velbor107: bets $6
+Philly0813: calls $6
+*** RIVER *** [Td Tc 7h Qh] [3c]
+Philly0813: checks
+Velbor107: bets $6
+Philly0813: calls $6
+*** SHOW DOWN ***
+Velbor107: shows [Qs Kd] (two pair, Queens and Tens)
+Philly0813: mucks hand
+Velbor107 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Td Tc 7h Qh 3c]
+Seat 2: Velbor107 (button) (small blind) showed [Qs Kd] and won ($47.50) with two pair, Queens and Tens
+Seat 3: Philly0813 (big blind) mucked
+
+

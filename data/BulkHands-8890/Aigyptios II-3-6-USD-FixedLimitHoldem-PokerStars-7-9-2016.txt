@@ -1,0 +1,642 @@
+PokerStars Hand #155749388742:  Hold'em Limit ($3/$6 USD) - 2016/07/09 8:36:02 ET
+Table 'Aigyptios II' 6-max Seat #1 is the button
+Seat 1: _fayzulllo_ ($72 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+_fayzulllo_: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: _fayzulllo_ (button) (small blind) folded before Flop
+Seat 4: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #155749405664:  Hold'em Limit ($3/$6 USD) - 2016/07/09 8:36:36 ET
+Table 'Aigyptios II' 6-max Seat #1 is the button
+Seat 1: _fayzulllo_ ($62 in chips)
+Seat 4: VolkovDmitri ($129.64 in chips)
+_fayzulllo_: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Ad 3c Qc]
+VolkovDmitri: checks
+_fayzulllo_: bets $3
+VolkovDmitri: folds
+Uncalled bet ($3) returned to _fayzulllo_
+_fayzulllo_ collected $11.76 from pot
+_fayzulllo_: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ad 3c Qc]
+Seat 1: _fayzulllo_ (button) (small blind) collected ($11.76)
+Seat 4: VolkovDmitri (big blind) folded on the Flop
+
+
+PokerStars Hand #155749392856:  Hold'em Limit ($3/$6 USD) - 2016/07/09 8:36:11 ET
+Table 'Aigyptios II' 6-max Seat #4 is the button
+Seat 1: _fayzulllo_ ($71 in chips)
+Seat 4: VolkovDmitri ($121 in chips)
+VolkovDmitri: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+_fayzulllo_: calls $3
+*** FLOP *** [9c 2c 4s]
+_fayzulllo_: checks
+VolkovDmitri: bets $3
+_fayzulllo_: calls $3
+*** TURN *** [9c 2c 4s] [Qs]
+_fayzulllo_: checks
+VolkovDmitri: bets $6
+_fayzulllo_: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $17.64 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9c 2c 4s Qs]
+Seat 1: _fayzulllo_ (big blind) folded on the Turn
+Seat 4: VolkovDmitri (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #155749414345:  Hold'em Limit ($3/$6 USD) - 2016/07/09 8:36:54 ET
+Table 'Aigyptios II' 6-max Seat #4 is the button
+Seat 1: _fayzulllo_ ($67.76 in chips)
+Seat 4: VolkovDmitri ($123.64 in chips)
+VolkovDmitri: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+_fayzulllo_: calls $3
+*** FLOP *** [8h 3c 5c]
+_fayzulllo_: checks
+VolkovDmitri: bets $3
+_fayzulllo_: calls $3
+*** TURN *** [8h 3c 5c] [2s]
+_fayzulllo_: checks
+VolkovDmitri: bets $6
+_fayzulllo_: calls $6
+*** RIVER *** [8h 3c 5c 2s] [3s]
+_fayzulllo_: checks
+VolkovDmitri: bets $6
+_fayzulllo_: raises $6 to $12
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+_fayzulllo_: shows [Ts 4s] (a pair of Threes)
+VolkovDmitri: shows [8s As] (two pair, Eights and Threes)
+VolkovDmitri collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [8h 3c 5c 2s 3s]
+Seat 1: _fayzulllo_ (big blind) showed [Ts 4s] and lost with a pair of Threes
+Seat 4: VolkovDmitri (button) (small blind) showed [8s As] and won ($53.50) with two pair, Eights and Threes
+
+
+PokerStars Hand #155749462454:  Hold'em Limit ($3/$6 USD) - 2016/07/09 8:38:31 ET
+Table 'Aigyptios II' 6-max Seat #4 is the button
+Seat 1: _fayzulllo_ ($46.52 in chips)
+Seat 4: VolkovDmitri ($144.14 in chips)
+VolkovDmitri: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+_fayzulllo_: calls $3
+*** FLOP *** [3s Tc Kc]
+_fayzulllo_: checks
+VolkovDmitri: bets $3
+_fayzulllo_: calls $3
+*** TURN *** [3s Tc Kc] [Js]
+_fayzulllo_: checks
+VolkovDmitri: checks
+*** RIVER *** [3s Tc Kc Js] [4d]
+_fayzulllo_: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+_fayzulllo_: shows [Ah 4c] (a pair of Fours)
+VolkovDmitri: shows [Ts 6h] (a pair of Tens)
+VolkovDmitri collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3s Tc Kc Js 4d]
+Seat 1: _fayzulllo_ (big blind) showed [Ah 4c] and lost with a pair of Fours
+Seat 4: VolkovDmitri (button) (small blind) showed [Ts 6h] and won ($29.50) with a pair of Tens
+
+
+PokerStars Hand #155749439212:  Hold'em Limit ($3/$6 USD) - 2016/07/09 8:37:44 ET
+Table 'Aigyptios II' 6-max Seat #1 is the button
+Seat 1: _fayzulllo_ ($40.76 in chips)
+Seat 4: VolkovDmitri ($150.14 in chips)
+_fayzulllo_: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [4c 4d Qh]
+VolkovDmitri: checks
+_fayzulllo_: checks
+*** TURN *** [4c 4d Qh] [7h]
+VolkovDmitri: checks
+_fayzulllo_: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to _fayzulllo_
+_fayzulllo_ collected $11.76 from pot
+_fayzulllo_: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4c 4d Qh 7h]
+Seat 1: _fayzulllo_ (button) (small blind) collected ($11.76)
+Seat 4: VolkovDmitri (big blind) folded on the Turn
+
+
+PokerStars Hand #155749496733:  Hold'em Limit ($3/$6 USD) - 2016/07/09 8:39:38 ET
+Table 'Aigyptios II' 6-max Seat #4 is the button
+Seat 1: _fayzulllo_ ($43.04 in chips)
+Seat 4: VolkovDmitri ($146.64 in chips)
+VolkovDmitri: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+_fayzulllo_: calls $3
+*** FLOP *** [8c 6c 7s]
+_fayzulllo_: checks
+VolkovDmitri: bets $3
+_fayzulllo_: calls $3
+*** TURN *** [8c 6c 7s] [5d]
+_fayzulllo_: checks
+VolkovDmitri: bets $6
+_fayzulllo_: raises $6 to $12
+VolkovDmitri: raises $6 to $18
+_fayzulllo_: raises $6 to $24
+Betting is capped
+VolkovDmitri: calls $6
+*** RIVER *** [8c 6c 7s 5d] [6h]
+_fayzulllo_: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+_fayzulllo_: shows [Js 9c] (a straight, Five to Nine)
+VolkovDmitri: shows [9s Ac] (a straight, Five to Nine)
+_fayzulllo_ collected $38.75 from pot
+VolkovDmitri collected $38.75 from pot
+*** SUMMARY ***
+Total pot $78 | Rake $0.50
+Board [8c 6c 7s 5d 6h]
+Seat 1: _fayzulllo_ (big blind) showed [Js 9c] and won ($38.75) with a straight, Five to Nine
+Seat 4: VolkovDmitri (button) (small blind) showed [9s Ac] and won ($38.75) with a straight, Five to Nine
+
+
+PokerStars Hand #155749484117:  Hold'em Limit ($3/$6 USD) - 2016/07/09 8:39:13 ET
+Table 'Aigyptios II' 6-max Seat #1 is the button
+Seat 1: _fayzulllo_ ($31.52 in chips)
+Seat 4: VolkovDmitri ($158.64 in chips)
+_fayzulllo_: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [4s 5s Td]
+VolkovDmitri: checks
+_fayzulllo_: checks
+*** TURN *** [4s 5s Td] [Ac]
+VolkovDmitri: checks
+_fayzulllo_: checks
+*** RIVER *** [4s 5s Td Ac] [Ks]
+VolkovDmitri: bets $6
+_fayzulllo_: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [6h Js] (high card Ace)
+_fayzulllo_: shows [3s 3c] (a pair of Threes)
+_fayzulllo_ collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [4s 5s Td Ac Ks]
+Seat 1: _fayzulllo_ (button) (small blind) showed [3s 3c] and won ($23.52) with a pair of Threes
+Seat 4: VolkovDmitri (big blind) showed [6h Js] and lost with high card Ace
+
+
+PokerStars Hand #155749527713:  Hold'em Limit ($3/$6 USD) - 2016/07/09 8:40:41 ET
+Table 'Aigyptios II' 6-max Seat #1 is the button
+Seat 1: _fayzulllo_ ($57.29 in chips)
+Seat 4: VolkovDmitri ($131.39 in chips)
+_fayzulllo_: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: calls $2
+VolkovDmitri: raises $3 to $6
+_fayzulllo_: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [2s 5s 6h]
+VolkovDmitri: bets $3
+_fayzulllo_: calls $3
+*** TURN *** [2s 5s 6h] [Td]
+VolkovDmitri: bets $6
+_fayzulllo_: calls $6
+*** RIVER *** [2s 5s 6h Td] [As]
+VolkovDmitri: checks
+_fayzulllo_: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [2c 3c] (a pair of Deuces)
+_fayzulllo_: mucks hand
+VolkovDmitri collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [2s 5s 6h Td As]
+Seat 1: _fayzulllo_ (button) (small blind) mucked
+Seat 4: VolkovDmitri (big blind) showed [2c 3c] and won ($35.50) with a pair of Deuces
+
+
+PokerStars Hand #155749524442:  Hold'em Limit ($3/$6 USD) - 2016/07/09 8:40:34 ET
+Table 'Aigyptios II' 6-max Seat #4 is the button
+Seat 1: _fayzulllo_ ($60.29 in chips)
+Seat 4: VolkovDmitri ($128.39 in chips)
+VolkovDmitri: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+_fayzulllo_: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: _fayzulllo_ (big blind) folded before Flop
+Seat 4: VolkovDmitri (button) (small blind) collected ($6)
+
+
+PokerStars Hand #155749512923:  Hold'em Limit ($3/$6 USD) - 2016/07/09 8:40:11 ET
+Table 'Aigyptios II' 6-max Seat #1 is the button
+Seat 1: _fayzulllo_ ($42.79 in chips)
+Seat 4: VolkovDmitri ($146.39 in chips)
+_fayzulllo_: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+_fayzulllo_: calls $3
+*** FLOP *** [Ts 9d 2h]
+VolkovDmitri: bets $3
+_fayzulllo_: calls $3
+*** TURN *** [Ts 9d 2h] [Qc]
+VolkovDmitri: checks
+_fayzulllo_: checks
+*** RIVER *** [Ts 9d 2h Qc] [Qh]
+VolkovDmitri: checks
+_fayzulllo_: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+_fayzulllo_: shows [7c 7h] (two pair, Queens and Sevens)
+VolkovDmitri: mucks hand
+_fayzulllo_ collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Ts 9d 2h Qc Qh]
+Seat 1: _fayzulllo_ (button) (small blind) showed [7c 7h] and won ($35.50) with two pair, Queens and Sevens
+Seat 4: VolkovDmitri (big blind) mucked
+
+
+PokerStars Hand #155749559812:  Hold'em Limit ($3/$6 USD) - 2016/07/09 8:41:45 ET
+Table 'Aigyptios II' 6-max Seat #1 is the button
+Seat 1: _fayzulllo_ ($30.29 in chips)
+Seat 4: VolkovDmitri ($157.53 in chips)
+_fayzulllo_: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: calls $2
+VolkovDmitri: raises $3 to $6
+_fayzulllo_: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [Tc 7h 9s]
+VolkovDmitri: checks
+_fayzulllo_: bets $3
+VolkovDmitri: folds
+Uncalled bet ($3) returned to _fayzulllo_
+_fayzulllo_ collected $17.64 from pot
+_fayzulllo_: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Tc 7h 9s]
+Seat 1: _fayzulllo_ (button) (small blind) collected ($17.64)
+Seat 4: VolkovDmitri (big blind) folded on the Flop
+
+
+PokerStars Hand #155749544252:  Hold'em Limit ($3/$6 USD) - 2016/07/09 8:41:14 ET
+Table 'Aigyptios II' 6-max Seat #4 is the button
+Seat 1: _fayzulllo_ ($39.29 in chips)
+Seat 4: VolkovDmitri ($148.89 in chips)
+VolkovDmitri: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+_fayzulllo_: calls $3
+*** FLOP *** [5h Ah Ad]
+_fayzulllo_: checks
+VolkovDmitri: bets $3
+_fayzulllo_: calls $3
+*** TURN *** [5h Ah Ad] [Td]
+_fayzulllo_: checks
+VolkovDmitri: checks
+*** RIVER *** [5h Ah Ad Td] [Qd]
+_fayzulllo_: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+_fayzulllo_: shows [9d 6c] (a pair of Aces)
+VolkovDmitri: shows [Js 3s] (a pair of Aces - Queen+Jack kicker)
+VolkovDmitri collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5h Ah Ad Td Qd]
+Seat 1: _fayzulllo_ (big blind) showed [9d 6c] and lost with a pair of Aces
+Seat 4: VolkovDmitri (button) (small blind) showed [Js 3s] and won ($17.64) with a pair of Aces
+
+
+PokerStars Hand #155749579511:  Hold'em Limit ($3/$6 USD) - 2016/07/09 8:42:25 ET
+Table 'Aigyptios II' 6-max Seat #1 is the button
+Seat 1: _fayzulllo_ ($47.57 in chips)
+Seat 4: VolkovDmitri ($139.53 in chips)
+_fayzulllo_: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: calls $2
+jackRizzar joins the table at seat #2
+VolkovDmitri: raises $3 to $6
+_fayzulllo_: calls $3
+*** FLOP *** [Kh 9c 8s]
+VolkovDmitri: bets $3
+_fayzulllo_: calls $3
+*** TURN *** [Kh 9c 8s] [Ac]
+VolkovDmitri: bets $6
+_fayzulllo_: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $17.64 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kh 9c 8s Ac]
+Seat 1: _fayzulllo_ (button) (small blind) folded on the Turn
+Seat 4: VolkovDmitri (big blind) collected ($17.64)
+
+
+PokerStars Hand #155749569035:  Hold'em Limit ($3/$6 USD) - 2016/07/09 8:42:04 ET
+Table 'Aigyptios II' 6-max Seat #4 is the button
+Seat 1: _fayzulllo_ ($38.93 in chips)
+Seat 4: VolkovDmitri ($148.53 in chips)
+VolkovDmitri: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+_fayzulllo_: calls $3
+*** FLOP *** [Tc 5c Qd]
+_fayzulllo_: checks
+VolkovDmitri: bets $3
+_fayzulllo_: raises $3 to $6
+VolkovDmitri: folds
+Uncalled bet ($3) returned to _fayzulllo_
+_fayzulllo_ collected $17.64 from pot
+_fayzulllo_: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Tc 5c Qd]
+Seat 1: _fayzulllo_ (big blind) collected ($17.64)
+Seat 4: VolkovDmitri (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #155749603789:  Hold'em Limit ($3/$6 USD) - 2016/07/09 8:43:07 ET
+Table 'Aigyptios II' 6-max Seat #4 is the button
+Seat 1: _fayzulllo_ ($38.57 in chips)
+Seat 4: VolkovDmitri ($148.17 in chips)
+VolkovDmitri: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+_fayzulllo_: calls $3
+*** FLOP *** [9c 6c 7d]
+_fayzulllo_: checks
+VolkovDmitri: checks
+*** TURN *** [9c 6c 7d] [5h]
+_fayzulllo_: checks
+VolkovDmitri: checks
+*** RIVER *** [9c 6c 7d 5h] [2d]
+_fayzulllo_: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to _fayzulllo_
+_fayzulllo_ collected $11.76 from pot
+_fayzulllo_: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9c 6c 7d 5h 2d]
+Seat 1: _fayzulllo_ (big blind) collected ($11.76)
+Seat 4: VolkovDmitri (button) (small blind) folded on the River
+
+
+PokerStars Hand #155749979940:  Hold'em Limit ($3/$6 USD) - 2016/07/09 8:55:26 ET
+Table 'Aigyptios II' 6-max Seat #1 is the button
+Seat 1: shuggie2 ($35.64 in chips)
+Seat 4: VolkovDmitri ($149.23 in chips)
+shuggie2: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+RockKillerTY joins the table at seat #2
+shuggie2: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: shuggie2 (button) (small blind) folded before Flop
+Seat 4: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #155749961252:  Hold'em Limit ($3/$6 USD) - 2016/07/09 8:54:46 ET
+Table 'Aigyptios II' 6-max Seat #4 is the button
+Seat 1: shuggie2 ($27 in chips)
+Seat 4: VolkovDmitri ($158.23 in chips)
+jackRizzar leaves the table
+VolkovDmitri: posts small blind $1
+shuggie2: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+shuggie2: calls $3
+*** FLOP *** [Ac 9h 6c]
+shuggie2: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [Ac 9h 6c] [Ah]
+RockKillerTY leaves the table
+shuggie2: checks
+VolkovDmitri: checks
+*** RIVER *** [Ac 9h 6c Ah] [Ts]
+shuggie2: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to shuggie2
+shuggie2 collected $17.64 from pot
+shuggie2: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ac 9h 6c Ah Ts]
+Seat 1: shuggie2 (big blind) collected ($17.64)
+Seat 4: VolkovDmitri (button) (small blind) folded on the River
+
+
+PokerStars Hand #155749982461:  Hold'em Limit ($3/$6 USD) - 2016/07/09 8:55:32 ET
+Table 'Aigyptios II' 6-max Seat #4 is the button
+Seat 1: shuggie2 ($34.64 in chips)
+Seat 4: VolkovDmitri ($150.23 in chips)
+VolkovDmitri: posts small blind $1
+shuggie2: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+shuggie2: calls $3
+*** FLOP *** [Ad Jc 2c]
+shuggie2: checks
+VolkovDmitri: bets $3
+shuggie2: calls $3
+*** TURN *** [Ad Jc 2c] [Jh]
+shuggie2: checks
+VolkovDmitri: checks
+*** RIVER *** [Ad Jc 2c Jh] [2d]
+shuggie2: checks
+VolkovDmitri: bets $6
+shuggie2: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $17.64 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ad Jc 2c Jh 2d]
+Seat 1: shuggie2 (big blind) folded on the River
+Seat 4: VolkovDmitri (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #155750018039:  Hold'em Limit ($3/$6 USD) - 2016/07/09 8:56:55 ET
+Table 'Aigyptios II' 6-max Seat #2 is the button
+Seat 1: shuggie2 ($8.64 in chips)
+Seat 2: RockKillerTY ($117 in chips)
+RockKillerTY: posts small blind $1
+shuggie2: posts big blind $3
+*** HOLE CARDS ***
+RockKillerTY: folds
+Uncalled bet ($2) returned to shuggie2
+shuggie2 collected $2 from pot
+shuggie2: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: shuggie2 (big blind) collected ($2)
+Seat 2: RockKillerTY (button) (small blind) folded before Flop
+
+
+PokerStars Hand #155750015861:  Hold'em Limit ($3/$6 USD) - 2016/07/09 8:56:50 ET
+Table 'Aigyptios II' 6-max Seat #1 is the button
+Seat 1: shuggie2 ($9.64 in chips)
+Seat 2: RockKillerTY ($116 in chips)
+shuggie2: posts small blind $1
+RockKillerTY: posts big blind $3
+*** HOLE CARDS ***
+shuggie2: folds
+Uncalled bet ($2) returned to RockKillerTY
+RockKillerTY collected $2 from pot
+RockKillerTY: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: shuggie2 (button) (small blind) folded before Flop
+Seat 2: RockKillerTY (big blind) collected ($2)
+
+
+PokerStars Hand #155750022331:  Hold'em Limit ($3/$6 USD) - 2016/07/09 8:57:05 ET
+Table 'Aigyptios II' 6-max Seat #2 is the button
+Seat 1: shuggie2 ($8.64 in chips)
+Seat 2: RockKillerTY ($117 in chips)
+RockKillerTY: posts small blind $1
+shuggie2: posts big blind $3
+*** HOLE CARDS ***
+RockKillerTY: folds
+Uncalled bet ($2) returned to shuggie2
+shuggie2 collected $2 from pot
+shuggie2: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: shuggie2 (big blind) collected ($2)
+Seat 2: RockKillerTY (button) (small blind) folded before Flop
+
+
+PokerStars Hand #155750019976:  Hold'em Limit ($3/$6 USD) - 2016/07/09 8:57:00 ET
+Table 'Aigyptios II' 6-max Seat #1 is the button
+Seat 1: shuggie2 ($9.64 in chips)
+Seat 2: RockKillerTY ($116 in chips)
+shuggie2: posts small blind $1
+RockKillerTY: posts big blind $3
+*** HOLE CARDS ***
+shuggie2: folds
+Uncalled bet ($2) returned to RockKillerTY
+RockKillerTY collected $2 from pot
+RockKillerTY: doesn't show hand
+VolkovDmitri leaves the table
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: shuggie2 (button) (small blind) folded before Flop
+Seat 2: RockKillerTY (big blind) collected ($2)
+
+
+PokerStars Hand #155750024401:  Hold'em Limit ($3/$6 USD) - 2016/07/09 8:57:10 ET
+Table 'Aigyptios II' 6-max Seat #1 is the button
+Seat 1: shuggie2 ($9.64 in chips)
+Seat 2: RockKillerTY ($116 in chips)
+shuggie2: posts small blind $1
+RockKillerTY: posts big blind $3
+*** HOLE CARDS ***
+shuggie2: folds
+Uncalled bet ($2) returned to RockKillerTY
+RockKillerTY collected $2 from pot
+RockKillerTY: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: shuggie2 (button) (small blind) folded before Flop
+Seat 2: RockKillerTY (big blind) collected ($2)
+
+
+PokerStars Hand #155750026721:  Hold'em Limit ($3/$6 USD) - 2016/07/09 8:57:15 ET
+Table 'Aigyptios II' 6-max Seat #2 is the button
+Seat 1: shuggie2 ($8.64 in chips)
+Seat 2: RockKillerTY ($117 in chips)
+RockKillerTY: posts small blind $1
+shuggie2: posts big blind $3
+*** HOLE CARDS ***
+RockKillerTY: raises $3 to $6
+shuggie2: raises $2.64 to $8.64 and is all-in
+RockKillerTY: calls $2.64
+*** FLOP *** [Tc Qc Jd]
+*** TURN *** [Tc Qc Jd] [Js]
+*** RIVER *** [Tc Qc Jd Js] [2d]
+*** SHOW DOWN ***
+shuggie2: shows [Ah Th] (two pair, Jacks and Tens)
+RockKillerTY: shows [8c 6s] (a pair of Jacks)
+Profitables joins the table at seat #3
+shuggie2 collected $16.93 from pot
+*** SUMMARY ***
+Total pot $17.28 | Rake $0.35
+Board [Tc Qc Jd Js 2d]
+Seat 1: shuggie2 (big blind) showed [Ah Th] and won ($16.93) with two pair, Jacks and Tens
+Seat 2: RockKillerTY (button) (small blind) showed [8c 6s] and lost with a pair of Jacks
+
+
+PokerStars Hand #155750034303:  Hold'em Limit ($3/$6 USD) - 2016/07/09 8:57:33 ET
+Table 'Aigyptios II' 6-max Seat #1 is the button
+Seat 1: shuggie2 ($16.93 in chips)
+Seat 2: RockKillerTY ($108.36 in chips)
+shuggie2: posts small blind $1
+RockKillerTY: posts big blind $3
+*** HOLE CARDS ***
+BuzovaPro joins the table at seat #4
+shuggie2: folds
+Uncalled bet ($2) returned to RockKillerTY
+RockKillerTY collected $2 from pot
+RockKillerTY: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: shuggie2 (button) (small blind) folded before Flop
+Seat 2: RockKillerTY (big blind) collected ($2)
+
+

@@ -1,0 +1,134 @@
+PokerStars Hand #168024190018:  Hold'em Limit ($3/$6 USD) - 2017/03/23 23:23:46 ET
+Table 'Ankaios' 6-max Seat #4 is the button
+Seat 3: Janeros ($146.50 in chips)
+Seat 4: Mordnilap ($72 in chips)
+Mordnilap: posts small blind $1
+Janeros: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper joins the table at seat #5
+Mordnilap: raises $3 to $6
+Janeros: calls $3
+*** FLOP *** [7s 9s 8c]
+Janeros: checks
+Mordnilap: bets $3
+Janeros: folds
+Uncalled bet ($3) returned to Mordnilap
+Mordnilap collected $11.76 from pot
+Mordnilap: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7s 9s 8c]
+Seat 3: Janeros (big blind) folded on the Flop
+Seat 4: Mordnilap (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #168024177745:  Hold'em Limit ($3/$6 USD) - 2017/03/23 23:23:09 ET
+Table 'Ankaios' 6-max Seat #3 is the button
+Seat 3: Janeros ($120 in chips)
+Seat 4: Mordnilap ($72 in chips)
+Janeros: posts small blind $1
+Mordnilap: posts big blind $3
+*** HOLE CARDS ***
+Janeros: calls $2
+Mordnilap: raises $3 to $6
+Janeros: calls $3
+*** FLOP *** [7h 3c Ac]
+Mordnilap: bets $3
+Janeros: calls $3
+*** TURN *** [7h 3c Ac] [2d]
+Mordnilap: bets $6
+Janeros: calls $6
+*** RIVER *** [7h 3c Ac 2d] [5h]
+Mordnilap: bets $6
+Janeros: raises $6 to $12
+Mordnilap: calls $6
+*** SHOW DOWN ***
+Janeros: shows [4c 8c] (a straight, Ace to Five)
+Mordnilap: mucks hand
+Janeros collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [7h 3c Ac 2d 5h]
+Seat 3: Janeros (button) (small blind) showed [4c 8c] and won ($53.50) with a straight, Ace to Five
+Seat 4: Mordnilap (big blind) mucked
+
+
+PokerStars Hand #168024196485:  Hold'em Limit ($3/$6 USD) - 2017/03/23 23:24:05 ET
+Table 'Ankaios' 6-max Seat #3 is the button
+Seat 3: Janeros ($140.50 in chips)
+Seat 4: Mordnilap ($77.76 in chips)
+Janeros: posts small blind $1
+Mordnilap: posts big blind $3
+*** HOLE CARDS ***
+Janeros: calls $2
+Mordnilap: raises $3 to $6
+Janeros: calls $3
+*** FLOP *** [Tc 8c 4s]
+Mordnilap: bets $3
+Janeros: folds
+Uncalled bet ($3) returned to Mordnilap
+Mordnilap collected $11.76 from pot
+Mordnilap: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Tc 8c 4s]
+Seat 3: Janeros (button) (small blind) folded on the Flop
+Seat 4: Mordnilap (big blind) collected ($11.76)
+
+
+PokerStars Hand #168025311118:  Hold'em Limit ($3/$6 USD) - 2017/03/24 0:23:48 ET
+Table 'Ankaios' 6-max Seat #3 is the button
+Seat 3: alpha2777 ($161.93 in chips)
+Seat 6: love_mmm ($429.83 in chips)
+alpha2777: posts small blind $1
+Homasapien: is sitting out
+AzureCaper: is sitting out
+love_mmm: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper leaves the table
+alpha2777: calls $2
+love_mmm: checks
+*** FLOP *** [8c 3c 6d]
+love_mmm: bets $3
+alpha2777: folds
+Uncalled bet ($3) returned to love_mmm
+love_mmm collected $5.88 from pot
+love_mmm: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [8c 3c 6d]
+Seat 3: alpha2777 (button) (small blind) folded on the Flop
+Seat 6: love_mmm (big blind) collected ($5.88)
+
+
+PokerStars Hand #168025316571:  Hold'em Limit ($3/$6 USD) - 2017/03/24 0:24:07 ET
+Table 'Ankaios' 6-max Seat #6 is the button
+Seat 3: alpha2777 ($158.93 in chips)
+Seat 6: love_mmm ($432.71 in chips)
+love_mmm: posts small blind $1
+alpha2777: posts big blind $3
+*** HOLE CARDS ***
+love_mmm: raises $3 to $6
+alpha2777: calls $3
+*** FLOP *** [2h Qs 5s]
+alpha2777: checks
+love_mmm: bets $3
+alpha2777: raises $3 to $6
+love_mmm: calls $3
+*** TURN *** [2h Qs 5s] [4c]
+alpha2777: bets $6
+love_mmm: calls $6
+*** RIVER *** [2h Qs 5s 4c] [8h]
+alpha2777: bets $6
+love_mmm: calls $6
+*** SHOW DOWN ***
+alpha2777: shows [Jd Td] (high card Queen)
+love_mmm: shows [Kd Ts] (high card King)
+love_mmm collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2h Qs 5s 4c 8h]
+Seat 3: alpha2777 (big blind) showed [Jd Td] and lost with high card Queen
+Seat 6: love_mmm (button) (small blind) showed [Kd Ts] and won ($47.50) with high card King
+
+

@@ -1,0 +1,127 @@
+PokerStars Hand #159001916596:  Hold'em Limit ($3/$6 USD) - 2016/09/23 17:27:28 ET
+Table 'Aaltje' 6-max Seat #2 is the button
+Seat 2: simper11 ($120 in chips)
+Seat 3: miezemuis ($423.50 in chips)
+simper11: posts small blind $1
+miezemuis: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+miezemuis: calls $3
+*** FLOP *** [2s 9s 8s]
+miezemuis: checks
+simper11: bets $3
+miezemuis: calls $3
+*** TURN *** [2s 9s 8s] [4c]
+miezemuis: checks
+simper11: bets $6
+miezemuis: calls $6
+*** RIVER *** [2s 9s 8s 4c] [7d]
+miezemuis: checks
+simper11: bets $6
+miezemuis: calls $6
+*** SHOW DOWN ***
+simper11: shows [3c Qc] (high card Queen)
+miezemuis: shows [Ah 5s] (high card Ace)
+miezemuis collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2s 9s 8s 4c 7d]
+Seat 2: simper11 (button) (small blind) showed [3c Qc] and lost with high card Queen
+Seat 3: miezemuis (big blind) showed [Ah 5s] and won ($41.50) with high card Ace
+
+
+PokerStars Hand #159001896715:  Hold'em Limit ($3/$6 USD) - 2016/09/23 17:27:02 ET
+Table 'Aaltje' 6-max Seat #3 is the button
+Seat 2: simper11 ($123 in chips)
+Seat 3: miezemuis ($400 in chips)
+miezemuis: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+miezemuis: raises $3 to $6
+simper11: raises $3 to $9
+miezemuis: calls $3
+*** FLOP *** [2s 9d 5c]
+simper11: checks
+miezemuis: bets $3
+simper11: calls $3
+*** TURN *** [2s 9d 5c] [9s]
+simper11: checks
+miezemuis: bets $6
+simper11: calls $6
+*** RIVER *** [2s 9d 5c 9s] [Td]
+simper11: checks
+miezemuis: bets $6
+simper11: calls $6
+*** SHOW DOWN ***
+miezemuis: shows [5d 5h] (a full house, Fives full of Nines)
+simper11: mucks hand
+miezemuis collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2s 9d 5c 9s Td]
+Seat 2: simper11 (big blind) mucked
+Seat 3: miezemuis (button) (small blind) showed [5d 5h] and won ($47.50) with a full house, Fives full of Nines
+
+
+PokerStars Hand #159001947188:  Hold'em Limit ($3/$6 USD) - 2016/09/23 17:28:08 ET
+Table 'Aaltje' 6-max Seat #2 is the button
+Seat 2: simper11 ($120 in chips)
+Seat 3: miezemuis ($452.64 in chips)
+simper11: posts small blind $1
+miezemuis: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+miezemuis: raises $3 to $9
+simper11: calls $3
+*** FLOP *** [9s 2s 7c]
+GoliafUa leaves the table
+miezemuis: bets $3
+simper11: raises $3 to $6
+miezemuis: calls $3
+*** TURN *** [9s 2s 7c] [4s]
+miezemuis: checks
+simper11: bets $6
+miezemuis: raises $6 to $12
+simper11: calls $6
+*** RIVER *** [9s 2s 7c 4s] [2h]
+miezemuis: bets $6
+simper11: calls $6
+*** SHOW DOWN ***
+miezemuis: shows [As 7s] (a flush, Ace high)
+simper11: mucks hand
+miezemuis collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [9s 2s 7c 4s 2h]
+Seat 2: simper11 (button) (small blind) mucked
+Seat 3: miezemuis (big blind) showed [As 7s] and won ($65.50) with a flush, Ace high
+
+
+PokerStars Hand #159001930907:  Hold'em Limit ($3/$6 USD) - 2016/09/23 17:27:47 ET
+Table 'Aaltje' 6-max Seat #3 is the button
+Seat 2: simper11 ($120 in chips)
+Seat 3: miezemuis ($444 in chips)
+miezemuis: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+miezemuis: raises $3 to $6
+simper11: calls $3
+*** FLOP *** [6s 5s 4s]
+ToDaFelt joins the table at seat #4
+simper11: checks
+miezemuis: bets $3
+simper11: calls $3
+*** TURN *** [6s 5s 4s] [As]
+simper11: checks
+miezemuis: bets $6
+simper11: folds
+Uncalled bet ($6) returned to miezemuis
+miezemuis collected $17.64 from pot
+miezemuis: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6s 5s 4s As]
+Seat 2: simper11 (big blind) folded on the Turn
+Seat 3: miezemuis (button) (small blind) collected ($17.64)
+
+

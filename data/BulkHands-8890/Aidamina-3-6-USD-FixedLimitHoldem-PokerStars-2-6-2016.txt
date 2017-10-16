@@ -1,0 +1,48 @@
+PokerStars Hand #148319978537:  Hold'em Limit ($3/$6 USD) - 2016/02/06 3:36:26 ET
+Table 'Aidamina' 6-max Seat #5 is the button
+Seat 5: olavike ($53.69 in chips)
+Seat 6: BelSv ($134.95 in chips)
+olavike: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+olavike: folds
+Uncalled bet ($2) returned to BelSv
+BelSv collected $2 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: olavike (button) (small blind) folded before Flop
+Seat 6: BelSv (big blind) collected ($2)
+
+
+PokerStars Hand #148319971586:  Hold'em Limit ($3/$6 USD) - 2016/02/06 3:36:08 ET
+Table 'Aidamina' 6-max Seat #6 is the button
+Seat 5: olavike ($71.69 in chips)
+Seat 6: BelSv ($117.45 in chips)
+BelSv: posts small blind $1
+Agrotait: is sitting out
+olavike: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+Agrotait leaves the table
+olavike: calls $3
+*** FLOP *** [Jh Jd 2s]
+olavike: checks
+BelSv: checks
+*** TURN *** [Jh Jd 2s] [Qs]
+olavike: bets $6
+BelSv: calls $6
+*** RIVER *** [Jh Jd 2s Qs] [Th]
+olavike: bets $6
+BelSv: calls $6
+*** SHOW DOWN ***
+olavike: shows [7s Ts] (two pair, Jacks and Tens)
+BelSv: shows [7d Qd] (two pair, Queens and Jacks)
+BelSv collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Jh Jd 2s Qs Th]
+Seat 5: olavike (big blind) showed [7s Ts] and lost with two pair, Jacks and Tens
+Seat 6: BelSv (button) (small blind) showed [7d Qd] and won ($35.50) with two pair, Queens and Jacks
+
+

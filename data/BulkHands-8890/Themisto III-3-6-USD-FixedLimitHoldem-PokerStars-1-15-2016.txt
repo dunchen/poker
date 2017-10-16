@@ -1,0 +1,123 @@
+PokerStars Hand #147106793279:  Hold'em Limit ($3/$6 USD) - 2016/01/15 18:36:36 ET
+Table 'Themisto III' 2-max Seat #1 is the button
+Seat 1: Kostetikus ($92.50 in chips)
+Seat 2: ovidius2009 ($21.16 in chips)
+Kostetikus: posts small blind $1
+ovidius2009: posts big blind $3
+*** HOLE CARDS ***
+Kostetikus: raises $3 to $6
+ovidius2009: calls $3
+*** FLOP *** [9s 5h 3s]
+ovidius2009: checks
+Kostetikus: bets $3
+ovidius2009: calls $3
+*** TURN *** [9s 5h 3s] [7d]
+ovidius2009: checks
+Kostetikus: bets $6
+ovidius2009: calls $6
+*** RIVER *** [9s 5h 3s 7d] [3h]
+ovidius2009: checks
+Kostetikus: bets $6
+ovidius2009: calls $6
+*** SHOW DOWN ***
+Kostetikus: shows [As Ac] (two pair, Aces and Threes)
+ovidius2009: mucks hand
+Kostetikus collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9s 5h 3s 7d 3h]
+Seat 1: Kostetikus (button) (small blind) showed [As Ac] and won ($41.50) with two pair, Aces and Threes
+Seat 2: ovidius2009 (big blind) mucked
+
+
+PokerStars Hand #147106849744:  Hold'em Limit ($3/$6 USD) - 2016/01/15 18:37:40 ET
+Table 'Themisto III' 2-max Seat #1 is the button
+Seat 1: Kostetikus ($118.76 in chips)
+Seat 2: ovidius2009 ($30.16 in chips)
+Kostetikus: posts small blind $1
+ovidius2009: posts big blind $3
+*** HOLE CARDS ***
+Kostetikus: raises $3 to $6
+ovidius2009: calls $3
+*** FLOP *** [Qh 2h 2d]
+ovidius2009: checks
+Kostetikus: bets $3
+ovidius2009: calls $3
+*** TURN *** [Qh 2h 2d] [6h]
+ovidius2009: checks
+Kostetikus: bets $6
+ovidius2009: calls $6
+*** RIVER *** [Qh 2h 2d 6h] [7h]
+ovidius2009: checks
+Kostetikus: checks
+*** SHOW DOWN ***
+ovidius2009: shows [As Kc] (a pair of Deuces)
+Kostetikus: shows [6d 8d] (two pair, Sixes and Deuces)
+Kostetikus collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qh 2h 2d 6h 7h]
+Seat 1: Kostetikus (button) (small blind) showed [6d 8d] and won ($29.50) with two pair, Sixes and Deuces
+Seat 2: ovidius2009 (big blind) showed [As Kc] and lost with a pair of Deuces
+
+
+PokerStars Hand #147106829318:  Hold'em Limit ($3/$6 USD) - 2016/01/15 18:37:17 ET
+Table 'Themisto III' 2-max Seat #2 is the button
+Seat 1: Kostetikus ($113 in chips)
+Seat 2: ovidius2009 ($36.16 in chips)
+ovidius2009: posts small blind $1
+Kostetikus: posts big blind $3
+*** HOLE CARDS ***
+ovidius2009: calls $2
+Kostetikus: checks
+*** FLOP *** [9h 4d 4s]
+Kostetikus: bets $3
+ovidius2009: calls $3
+*** TURN *** [9h 4d 4s] [5s]
+Kostetikus: checks
+ovidius2009: checks
+*** RIVER *** [9h 4d 4s 5s] [Qh]
+Kostetikus: checks
+ovidius2009: checks
+*** SHOW DOWN ***
+Kostetikus: shows [6h Js] (a pair of Fours)
+ovidius2009: mucks hand
+Kostetikus collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9h 4d 4s 5s Qh]
+Seat 1: Kostetikus (big blind) showed [6h Js] and won ($11.76) with a pair of Fours
+Seat 2: ovidius2009 (button) (small blind) mucked
+
+
+PokerStars Hand #147106872633:  Hold'em Limit ($3/$6 USD) - 2016/01/15 18:38:06 ET
+Table 'Themisto III' 2-max Seat #2 is the button
+Seat 1: Kostetikus ($133.26 in chips)
+Seat 2: ovidius2009 ($15.16 in chips)
+ovidius2009: posts small blind $1
+Kostetikus: posts big blind $3
+*** HOLE CARDS ***
+ovidius2009: calls $2
+Kostetikus: raises $3 to $6
+ovidius2009: calls $3
+*** FLOP *** [4c 8s 7c]
+Kostetikus: bets $3
+ovidius2009: calls $3
+*** TURN *** [4c 8s 7c] [Ad]
+Kostetikus: bets $6
+ovidius2009: calls $6
+*** RIVER *** [4c 8s 7c Ad] [3c]
+Kostetikus: bets $6
+ovidius2009: calls $0.16 and is all-in
+Uncalled bet ($5.84) returned to Kostetikus
+*** SHOW DOWN ***
+Kostetikus: shows [2s As] (a pair of Aces)
+ovidius2009: shows [9c Jh] (high card Ace)
+Kostetikus collected $29.82 from pot
+*** SUMMARY ***
+Total pot $30.32 | Rake $0.50
+Board [4c 8s 7c Ad 3c]
+Seat 1: Kostetikus (big blind) showed [2s As] and won ($29.82) with a pair of Aces
+Seat 2: ovidius2009 (button) (small blind) showed [9c Jh] and lost with high card Ace
+
+

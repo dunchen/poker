@@ -1,0 +1,63 @@
+PokerStars Hand #168937537337:  Hold'em Limit ($3/$6 USD) - 2017/04/12 12:14:55 ET
+Table 'Castor II' 6-max Seat #3 is the button
+Seat 3: manly70 ($71.05 in chips)
+Seat 4: AzureCaper ($111 in chips)
+manly70: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+manly70: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [Kh Js As]
+AzureCaper: checks
+manly70: bets $3
+AzureCaper: calls $3
+*** TURN *** [Kh Js As] [4d]
+AzureCaper: checks
+manly70: checks
+*** RIVER *** [Kh Js As 4d] [7c]
+AzureCaper: bets $6
+manly70: folds
+Uncalled bet ($6) returned to AzureCaper
+AzureCaper collected $17.64 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kh Js As 4d 7c]
+Seat 3: manly70 (button) (small blind) folded on the River
+Seat 4: AzureCaper (big blind) collected ($17.64)
+
+
+PokerStars Hand #168954337186:  Hold'em Limit ($3/$6 USD) - 2017/04/12 18:19:59 ET
+Table 'Castor II' 6-max Seat #4 is the button
+Seat 4: ToDaFelt ($412.97 in chips)
+Seat 5: krossguard ($74.11 in chips)
+ToDaFelt: posts small blind $1
+krossguard: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+krossguard: raises $3 to $9
+ToDaFelt: calls $3
+*** FLOP *** [2d 7s 8d]
+krossguard: bets $3
+ToDaFelt: calls $3
+*** TURN *** [2d 7s 8d] [Kd]
+krossguard: checks
+ToDaFelt: bets $6
+krossguard: raises $6 to $12
+ToDaFelt: raises $6 to $18
+krossguard: calls $6
+*** RIVER *** [2d 7s 8d Kd] [5h]
+krossguard: checks
+ToDaFelt: bets $6
+krossguard: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [8c Kc] (two pair, Kings and Eights)
+krossguard: mucks hand
+ToDaFelt collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [2d 7s 8d Kd 5h]
+Seat 4: ToDaFelt (button) (small blind) showed [8c Kc] and won ($71.50) with two pair, Kings and Eights
+Seat 5: krossguard (big blind) mucked
+
+

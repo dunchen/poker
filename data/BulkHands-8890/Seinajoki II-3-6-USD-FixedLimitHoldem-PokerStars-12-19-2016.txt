@@ -1,0 +1,30 @@
+PokerStars Hand #163195378360:  Hold'em Limit ($3/$6 USD) - 2016/12/19 12:15:06 ET
+Table 'Seinajoki II' 6-max Seat #6 is the button
+Seat 5: richi1515 ($15.58 in chips)
+Seat 6: kolaz03 ($161.57 in chips)
+kolaz03: posts small blind $1
+richi1515: posts big blind $3
+*** HOLE CARDS ***
+kolaz03: raises $3 to $6
+richi1515: calls $3
+*** FLOP *** [2d Ts 5c]
+richi1515: checks
+kolaz03: bets $3
+richi1515: raises $3 to $6
+kolaz03: raises $3 to $9
+richi1515: raises $0.58 to $9.58 and is all-in
+Betting is capped
+kolaz03: calls $0.58
+*** TURN *** [2d Ts 5c] [5h]
+*** RIVER *** [2d Ts 5c 5h] [Qd]
+*** SHOW DOWN ***
+richi1515: shows [2s 8s] (two pair, Fives and Deuces)
+kolaz03: shows [4c 4s] (two pair, Fives and Fours)
+kolaz03 collected $30.66 from pot
+*** SUMMARY ***
+Total pot $31.16 | Rake $0.50
+Board [2d Ts 5c 5h Qd]
+Seat 5: richi1515 (big blind) showed [2s 8s] and lost with two pair, Fives and Deuces
+Seat 6: kolaz03 (button) (small blind) showed [4c 4s] and won ($30.66) with two pair, Fives and Fours
+
+

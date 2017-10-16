@@ -1,0 +1,23 @@
+PokerStars Hand #173886393978:  Hold'em Limit ($3/$6 USD) - 2017/08/03 17:53:10 ET
+Table 'Salome' 6-max Seat #1 is the button
+Seat 1: DJTQ ($4.71 in chips)
+Seat 4: ToDaFelt ($185.76 in chips)
+DJTQ: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+DJTQ: raises $1.71 to $4.71 and is all-in
+ToDaFelt: calls $1.71
+*** FLOP *** [Th 5h 7d]
+*** TURN *** [Th 5h 7d] [4h]
+*** RIVER *** [Th 5h 7d 4h] [Qd]
+*** SHOW DOWN ***
+ToDaFelt: shows [5d Qs] (two pair, Queens and Fives)
+DJTQ: shows [5c 7c] (two pair, Sevens and Fives)
+ToDaFelt collected $9.23 from pot
+*** SUMMARY ***
+Total pot $9.42 | Rake $0.19
+Board [Th 5h 7d 4h Qd]
+Seat 1: DJTQ (button) (small blind) showed [5c 7c] and lost with two pair, Sevens and Fives
+Seat 4: ToDaFelt (big blind) showed [5d Qs] and won ($9.23) with two pair, Queens and Fives
+
+

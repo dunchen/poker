@@ -1,0 +1,55 @@
+PokerStars Hand #170383372463:  Hold'em Limit ($3/$6 USD) - 2017/05/13 19:19:16 ET
+Table 'Helina' 6-max Seat #1 is the button
+Seat 1: krytalex ($72 in chips)
+Seat 6: Chessnok ($172.39 in chips)
+krytalex: posts small blind $1
+UltraNine: is sitting out
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+UltraNine leaves the table
+krytalex: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [5s Kd 9s]
+Chessnok: checks
+krytalex: bets $3
+Chessnok: folds
+Uncalled bet ($3) returned to krytalex
+krytalex collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5s Kd 9s]
+Seat 1: krytalex (button) (small blind) collected ($11.76)
+Seat 6: Chessnok (big blind) folded on the Flop
+
+
+PokerStars Hand #170383384376:  Hold'em Limit ($3/$6 USD) - 2017/05/13 19:19:36 ET
+Table 'Helina' 6-max Seat #6 is the button
+Seat 1: krytalex ($77.76 in chips)
+Seat 6: Chessnok ($166.39 in chips)
+Chessnok: posts small blind $1
+krytalex: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+krytalex: calls $3
+*** FLOP *** [6d Td Kh]
+krytalex: checks
+Chessnok: bets $3
+krytalex: calls $3
+*** TURN *** [6d Td Kh] [3s]
+krytalex: checks
+Chessnok: bets $6
+krytalex: calls $6
+*** RIVER *** [6d Td Kh 3s] [Jc]
+krytalex: checks
+Chessnok: checks
+*** SHOW DOWN ***
+krytalex: shows [6h Qh] (a pair of Sixes)
+Chessnok: shows [Ah 6s] (a pair of Sixes - Ace kicker)
+Chessnok collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6d Td Kh 3s Jc]
+Seat 1: krytalex (big blind) showed [6h Qh] and lost with a pair of Sixes
+Seat 6: Chessnok (button) (small blind) showed [Ah 6s] and won ($29.50) with a pair of Sixes
+
+

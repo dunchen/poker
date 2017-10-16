@@ -1,0 +1,78 @@
+PokerStars Hand #147483225974:  Hold'em Limit ($3/$6 USD) - 2016/01/22 11:37:46 ET
+Table 'Thora II' 2-max Seat #1 is the button
+Seat 1: michalych124 ($93 in chips)
+Seat 2: NIGHTyxa ($98.50 in chips)
+michalych124: posts small blind $1
+NIGHTyxa: posts big blind $3
+*** HOLE CARDS ***
+michalych124: calls $2
+NIGHTyxa: checks
+*** FLOP *** [3h 7h Ks]
+NIGHTyxa: checks
+michalych124: checks
+*** TURN *** [3h 7h Ks] [2d]
+NIGHTyxa: bets $6
+michalych124: calls $6
+*** RIVER *** [3h 7h Ks 2d] [4h]
+NIGHTyxa: bets $6
+michalych124: calls $6
+*** SHOW DOWN ***
+NIGHTyxa: shows [9s 4s] (a pair of Fours)
+michalych124: mucks hand
+NIGHTyxa collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3h 7h Ks 2d 4h]
+Seat 1: michalych124 (button) (small blind) mucked
+Seat 2: NIGHTyxa (big blind) showed [9s 4s] and won ($29.50) with a pair of Fours
+
+
+PokerStars Hand #147483205457:  Hold'em Limit ($3/$6 USD) - 2016/01/22 11:37:22 ET
+Table 'Thora II' 2-max Seat #2 is the button
+Seat 1: michalych124 ($120 in chips)
+Seat 2: NIGHTyxa ($72 in chips)
+NIGHTyxa: posts small blind $1
+michalych124: posts big blind $3
+*** HOLE CARDS ***
+NIGHTyxa: raises $3 to $6
+michalych124: calls $3
+*** FLOP *** [2c 3s 2d]
+michalych124: checks
+NIGHTyxa: bets $3
+michalych124: calls $3
+*** TURN *** [2c 3s 2d] [5s]
+michalych124: checks
+NIGHTyxa: bets $6
+michalych124: raises $6 to $12
+NIGHTyxa: calls $6
+*** RIVER *** [2c 3s 2d 5s] [Jd]
+michalych124: bets $6
+NIGHTyxa: calls $6
+*** SHOW DOWN ***
+michalych124: shows [9h 4c] (a pair of Deuces)
+NIGHTyxa: shows [7c Ac] (a pair of Deuces - Ace kicker)
+NIGHTyxa collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [2c 3s 2d 5s Jd]
+Seat 1: michalych124 (big blind) showed [9h 4c] and lost with a pair of Deuces
+Seat 2: NIGHTyxa (button) (small blind) showed [7c Ac] and won ($53.50) with a pair of Deuces
+
+
+PokerStars Hand #147483243266:  Hold'em Limit ($3/$6 USD) - 2016/01/22 11:38:06 ET
+Table 'Thora II' 2-max Seat #2 is the button
+Seat 1: michalych124 ($78 in chips)
+Seat 2: NIGHTyxa ($113 in chips)
+NIGHTyxa: posts small blind $1
+michalych124: posts big blind $3
+*** HOLE CARDS ***
+NIGHTyxa: folds
+Uncalled bet ($2) returned to michalych124
+michalych124 collected $2 from pot
+michalych124: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: michalych124 (big blind) collected ($2)
+Seat 2: NIGHTyxa (button) (small blind) folded before Flop
+
+

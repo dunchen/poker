@@ -1,0 +1,108 @@
+PokerStars Hand #166109090562:  Hold'em Limit ($3/$6 USD) - 2017/02/12 14:33:11 ET
+Table 'Olshaniya' 6-max Seat #6 is the button
+Seat 4: MTails ($120 in chips)
+Seat 6: ChaseMeIfUC ($60 in chips)
+ChaseMeIfUC: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+ChaseMeIfUC: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [5d 9s 7c]
+MTails: checks
+ChaseMeIfUC: bets $3
+MTails: calls $3
+*** TURN *** [5d 9s 7c] [6h]
+MTails: checks
+ChaseMeIfUC: checks
+*** RIVER *** [5d 9s 7c 6h] [Tc]
+MTails: bets $6
+ChaseMeIfUC: folds
+Uncalled bet ($6) returned to MTails
+MTails collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5d 9s 7c 6h Tc]
+Seat 4: MTails (big blind) collected ($17.64)
+Seat 6: ChaseMeIfUC (button) (small blind) folded on the River
+
+
+PokerStars Hand #166109111913:  Hold'em Limit ($3/$6 USD) - 2017/02/12 14:33:29 ET
+Table 'Olshaniya' 6-max Seat #4 is the button
+Seat 4: MTails ($128.64 in chips)
+Seat 6: ChaseMeIfUC ($51 in chips)
+MTails: posts small blind $1
+ChaseMeIfUC: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+ChaseMeIfUC: raises $3 to $9
+MTails: calls $3
+*** FLOP *** [5h 4s 3c]
+kolaz03 joins the table at seat #1
+ChaseMeIfUC: bets $3
+MTails: raises $3 to $6
+ChaseMeIfUC: calls $3
+*** TURN *** [5h 4s 3c] [2s]
+ChaseMeIfUC: bets $6
+MTails: calls $6
+*** RIVER *** [5h 4s 3c 2s] [Kc]
+ChaseMeIfUC: bets $6
+MTails: folds
+Uncalled bet ($6) returned to ChaseMeIfUC
+ChaseMeIfUC collected $41.50 from pot
+ChaseMeIfUC: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [5h 4s 3c 2s Kc]
+Seat 4: MTails (button) (small blind) folded on the River
+Seat 6: ChaseMeIfUC (big blind) collected ($41.50)
+
+
+PokerStars Hand #166109733680:  Hold'em Limit ($3/$6 USD) - 2017/02/12 14:42:39 ET
+Table 'Olshaniya' 6-max Seat #4 is the button
+Seat 1: kolaz03 ($132.83 in chips)
+Seat 4: MTails ($166.12 in chips)
+MTails: posts small blind $1
+ChaseMeIfUC: is sitting out
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+kolaz03: folds
+Uncalled bet ($3) returned to MTails
+MTails collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: kolaz03 (big blind) folded before Flop
+Seat 4: MTails (button) (small blind) collected ($6)
+
+
+PokerStars Hand #166109761614:  Hold'em Limit ($3/$6 USD) - 2017/02/12 14:43:04 ET
+Table 'Olshaniya' 6-max Seat #4 is the button
+Seat 4: MTails ($169.12 in chips)
+Seat 6: ChaseMeIfUC ($22.35 in chips)
+MTails: posts small blind $1
+ChaseMeIfUC: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+ChaseMeIfUC: calls $3
+*** FLOP *** [Qh 9s Jd]
+ChaseMeIfUC: checks
+MTails: bets $3
+ChaseMeIfUC: raises $3 to $6
+MTails: calls $3
+*** TURN *** [Qh 9s Jd] [2d]
+ChaseMeIfUC: bets $6
+MTails: raises $6 to $12
+ChaseMeIfUC: calls $4.35 and is all-in
+Uncalled bet ($1.65) returned to MTails
+*** RIVER *** [Qh 9s Jd 2d] [6h]
+*** SHOW DOWN ***
+ChaseMeIfUC: shows [Qs 4s] (a pair of Queens)
+MTails: shows [Jh Qc] (two pair, Queens and Jacks)
+MTails collected $44.20 from pot
+*** SUMMARY ***
+Total pot $44.70 | Rake $0.50
+Board [Qh 9s Jd 2d 6h]
+Seat 4: MTails (button) (small blind) showed [Jh Qc] and won ($44.20) with two pair, Queens and Jacks
+Seat 6: ChaseMeIfUC (big blind) showed [Qs 4s] and lost with a pair of Queens
+
+

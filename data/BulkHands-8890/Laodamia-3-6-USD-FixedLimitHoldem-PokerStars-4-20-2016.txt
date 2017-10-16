@@ -1,0 +1,87 @@
+PokerStars Hand #152214318724:  Hold'em Limit ($3/$6 USD) - 2016/04/20 19:58:28 ET
+Table 'Laodamia' 6-max Seat #1 is the button
+Seat 1: Scheubi88 ($111 in chips)
+Seat 6: anetkaapro ($128.64 in chips)
+Scheubi88: posts small blind $1
+anetkaapro: posts big blind $3
+*** HOLE CARDS ***
+Scheubi88: raises $3 to $6
+anetkaapro: calls $3
+*** FLOP *** [2h 4c 2s]
+anetkaapro: checks
+Scheubi88: bets $3
+anetkaapro: calls $3
+*** TURN *** [2h 4c 2s] [6s]
+anetkaapro: checks
+Scheubi88: bets $6
+anetkaapro: calls $6
+*** RIVER *** [2h 4c 2s 6s] [8d]
+anetkaapro: checks
+Scheubi88: bets $6
+anetkaapro: calls $6
+*** SHOW DOWN ***
+Scheubi88: shows [2c 2d] (four of a kind, Deuces)
+anetkaapro: mucks hand
+Scheubi88 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2h 4c 2s 6s 8d]
+Seat 1: Scheubi88 (button) (small blind) showed [2c 2d] and won ($41.50) with four of a kind, Deuces
+Seat 6: anetkaapro (big blind) mucked
+
+
+PokerStars Hand #152214324640:  Hold'em Limit ($3/$6 USD) - 2016/04/20 19:58:42 ET
+Table 'Laodamia' 6-max Seat #6 is the button
+Seat 1: Scheubi88 ($131.50 in chips)
+Seat 6: anetkaapro ($107.64 in chips)
+anetkaapro: posts small blind $1
+Scheubi88: posts big blind $3
+*** HOLE CARDS ***
+anetkaapro: raises $3 to $6
+Scheubi88: calls $3
+*** FLOP *** [5d Qs 7h]
+Scheubi88: checks
+anetkaapro: bets $3
+Scheubi88: folds
+Uncalled bet ($3) returned to anetkaapro
+anetkaapro collected $11.76 from pot
+anetkaapro: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5d Qs 7h]
+Seat 1: Scheubi88 (big blind) folded on the Flop
+Seat 6: anetkaapro (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #152214328163:  Hold'em Limit ($3/$6 USD) - 2016/04/20 19:58:50 ET
+Table 'Laodamia' 6-max Seat #1 is the button
+Seat 1: Scheubi88 ($125.50 in chips)
+Seat 6: anetkaapro ($113.40 in chips)
+Scheubi88: posts small blind $1
+anetkaapro: posts big blind $3
+*** HOLE CARDS ***
+Scheubi88: raises $3 to $6
+anetkaapro: raises $3 to $9
+Scheubi88: calls $3
+*** FLOP *** [Ks Qh 6s]
+anetkaapro: bets $3
+Scheubi88: calls $3
+*** TURN *** [Ks Qh 6s] [As]
+anetkaapro: checks
+Scheubi88: bets $6
+anetkaapro: calls $6
+*** RIVER *** [Ks Qh 6s As] [6c]
+anetkaapro: checks
+Scheubi88: bets $6
+anetkaapro: calls $6
+*** SHOW DOWN ***
+Scheubi88: shows [9h Ac] (two pair, Aces and Sixes)
+anetkaapro: mucks hand
+Scheubi88 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Ks Qh 6s As 6c]
+Seat 1: Scheubi88 (button) (small blind) showed [9h Ac] and won ($47.50) with two pair, Aces and Sixes
+Seat 6: anetkaapro (big blind) mucked
+
+

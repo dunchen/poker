@@ -1,0 +1,58 @@
+PokerStars Hand #171584233853:  Hold'em Limit ($3/$6 USD) - 2017/06/10 5:51:46 ET
+Table 'Regulus' 10-max Seat #5 is the button
+Seat 5: shushlo ($72 in chips)
+Seat 6: sim5sim5 ($72 in chips)
+shushlo: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+shushlo: raises $3 to $6
+sim5sim5: raises $3 to $9
+shushlo: calls $3
+*** FLOP *** [Kh 2s As]
+sim5sim5: bets $3
+shushlo: calls $3
+*** TURN *** [Kh 2s As] [7h]
+sim5sim5: checks
+shushlo: bets $6
+sim5sim5: folds
+Uncalled bet ($6) returned to shushlo
+shushlo collected $23.52 from pot
+shushlo: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Kh 2s As 7h]
+Seat 5: shushlo (button) (small blind) collected ($23.52)
+Seat 6: sim5sim5 (big blind) folded on the Turn
+
+
+PokerStars Hand #171584244092:  Hold'em Limit ($3/$6 USD) - 2017/06/10 5:52:12 ET
+Table 'Regulus' 10-max Seat #6 is the button
+Seat 5: shushlo ($83.52 in chips)
+Seat 6: sim5sim5 ($72 in chips)
+sim5sim5: posts small blind $1
+shushlo: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+shushlo: calls $3
+*** FLOP *** [Tc 9c As]
+shushlo: checks
+sim5sim5: checks
+*** TURN *** [Tc 9c As] [3d]
+shushlo: checks
+sim5sim5: bets $6
+shushlo: calls $6
+*** RIVER *** [Tc 9c As 3d] [3c]
+shushlo: bets $6
+sim5sim5: raises $6 to $12
+shushlo: calls $6
+*** SHOW DOWN ***
+sim5sim5: shows [Qc 3h] (three of a kind, Threes)
+shushlo: mucks hand
+sim5sim5 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Tc 9c As 3d 3c]
+Seat 5: shushlo (big blind) mucked
+Seat 6: sim5sim5 (button) (small blind) showed [Qc 3h] and won ($47.50) with three of a kind, Threes
+
+

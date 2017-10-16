@@ -1,0 +1,101 @@
+PokerStars Hand #152240940513:  Hold'em Limit ($3/$6 USD) - 2016/04/21 13:16:11 ET
+Table 'Holda' 6-max Seat #4 is the button
+Seat 3: belik555 ($93.63 in chips)
+Seat 4: dokaten ($52.31 in chips)
+dokaten: posts small blind $1
+belik555: posts big blind $3
+*** HOLE CARDS ***
+dokaten: raises $3 to $6
+LukaSteel leaves the table
+belik555: calls $3
+*** FLOP *** [3c 5s Qc]
+belik555: checks
+WSpieler joins the table at seat #5
+dokaten: checks
+*** TURN *** [3c 5s Qc] [Ad]
+belik555: checks
+dokaten: bets $6
+tangxueke joins the table at seat #1
+belik555: calls $6
+*** RIVER *** [3c 5s Qc Ad] [8s]
+belik555: checks
+dokaten: bets $6
+belik555: calls $6
+*** SHOW DOWN ***
+dokaten: shows [7h Ac] (a pair of Aces)
+belik555: mucks hand
+dokaten collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [3c 5s Qc Ad 8s]
+Seat 3: belik555 (big blind) mucked
+Seat 4: dokaten (button) (small blind) showed [7h Ac] and won ($35.50) with a pair of Aces
+
+
+PokerStars Hand #152240963880:  Hold'em Limit ($3/$6 USD) - 2016/04/21 13:16:40 ET
+Table 'Holda' 6-max Seat #3 is the button
+Seat 3: belik555 ($75.63 in chips)
+Seat 4: dokaten ($69.81 in chips)
+belik555: posts small blind $1
+dokaten: posts big blind $3
+*** HOLE CARDS ***
+belik555: folds
+Uncalled bet ($2) returned to dokaten
+dokaten collected $2 from pot
+dokaten: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: belik555 (button) (small blind) folded before Flop
+Seat 4: dokaten (big blind) collected ($2)
+
+
+PokerStars Hand #152247357681:  Hold'em Limit ($3/$6 USD) - 2016/04/21 15:25:22 ET
+Table 'Holda' 6-max Seat #2 is the button
+Seat 2: Makomar ($199.92 in chips)
+Seat 5: Chessnok ($121.02 in chips)
+Makomar: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+Makomar: raises $3 to $6
+Chessnok: folds
+Uncalled bet ($3) returned to Makomar
+Makomar collected $6 from pot
+Makomar: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: Makomar (button) (small blind) collected ($6)
+Seat 5: Chessnok (big blind) folded before Flop
+
+
+PokerStars Hand #152247325365:  Hold'em Limit ($3/$6 USD) - 2016/04/21 15:24:46 ET
+Table 'Holda' 6-max Seat #5 is the button
+Seat 2: Makomar ($208.92 in chips)
+Seat 5: Chessnok ($112.38 in chips)
+Chessnok: posts small blind $1
+HKH77: is sitting out
+Makomar: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+dokaten leaves the table
+Makomar: calls $3
+*** FLOP *** [6c 9c 4s]
+Makomar: checks
+Chessnok: bets $3
+Makomar: calls $3
+*** TURN *** [6c 9c 4s] [Jd]
+Makomar: checks
+Chessnok: checks
+*** RIVER *** [6c 9c 4s Jd] [Kd]
+Makomar: checks
+Chessnok: bets $6
+Makomar: folds
+Uncalled bet ($6) returned to Chessnok
+Chessnok collected $17.64 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6c 9c 4s Jd Kd]
+Seat 2: Makomar (big blind) folded on the River
+Seat 5: Chessnok (button) (small blind) collected ($17.64)
+
+

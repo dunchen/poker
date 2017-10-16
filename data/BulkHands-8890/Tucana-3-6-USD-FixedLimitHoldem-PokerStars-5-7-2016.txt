@@ -1,0 +1,36 @@
+PokerStars Hand #152957201112:  Hold'em Limit ($3/$6 USD) - 2016/05/06 21:12:50 ET
+Table 'Tucana' 6-max Seat #2 is the button
+Seat 2: lin1rabbit ($164.74 in chips)
+Seat 6: anetkaapro ($205.35 in chips)
+lin1rabbit: posts small blind $1
+anetkaapro: posts big blind $3
+*** HOLE CARDS ***
+lin1rabbit: raises $3 to $6
+anetkaapro: calls $3
+*** FLOP *** [6c Jc 8d]
+anetkaapro: checks
+lin1rabbit: bets $3
+anetkaapro: raises $3 to $6
+lin1rabbit: raises $3 to $9
+anetkaapro: raises $3 to $12
+Betting is capped
+lin1rabbit: calls $3
+*** TURN *** [6c Jc 8d] [7s]
+anetkaapro: bets $6
+lin1rabbit: raises $6 to $12
+anetkaapro: calls $6
+*** RIVER *** [6c Jc 8d 7s] [Ad]
+anetkaapro: checks
+lin1rabbit: bets $6
+anetkaapro: calls $6
+*** SHOW DOWN ***
+lin1rabbit: shows [8s 6h] (two pair, Eights and Sixes)
+anetkaapro: shows [7d Jd] (two pair, Jacks and Sevens)
+anetkaapro collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [6c Jc 8d 7s Ad]
+Seat 2: lin1rabbit (button) (small blind) showed [8s 6h] and lost with two pair, Eights and Sixes
+Seat 6: anetkaapro (big blind) showed [7d Jd] and won ($71.50) with two pair, Jacks and Sevens
+
+

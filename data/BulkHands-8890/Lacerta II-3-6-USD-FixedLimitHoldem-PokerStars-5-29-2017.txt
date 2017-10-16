@@ -1,0 +1,76 @@
+PokerStars Hand #171070130102:  Hold'em Limit ($3/$6 USD) - 2017/05/29 10:46:19 ET
+Table 'Lacerta II' 10-max Seat #7 is the button
+Seat 7: MTails ($120 in chips)
+Seat 9: Chrisgalo33 ($32.41 in chips)
+MTails: posts small blind $1
+Chrisgalo33: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+Chrisgalo33: calls $3
+*** FLOP *** [2d Tc 9s]
+Chrisgalo33: checks
+MTails: bets $3
+Chrisgalo33: calls $3
+*** TURN *** [2d Tc 9s] [Jd]
+Chrisgalo33: checks
+MTails: bets $6
+Chrisgalo33: calls $6
+*** RIVER *** [2d Tc 9s Jd] [3h]
+Chrisgalo33: checks
+MTails: bets $6
+Chrisgalo33: folds
+Uncalled bet ($6) returned to MTails
+MTails collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2d Tc 9s Jd 3h]
+Seat 7: MTails (button) (small blind) collected ($29.50)
+Seat 9: Chrisgalo33 (big blind) folded on the River
+
+
+PokerStars Hand #171070159046:  Hold'em Limit ($3/$6 USD) - 2017/05/29 10:47:09 ET
+Table 'Lacerta II' 10-max Seat #9 is the button
+Seat 7: MTails ($134.50 in chips)
+Seat 9: Chrisgalo33 ($17.41 in chips)
+Chrisgalo33: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+Chrisgalo33: folds
+Uncalled bet ($2) returned to MTails
+MTails collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 7: MTails (big blind) collected ($2)
+Seat 9: Chrisgalo33 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #171070162843:  Hold'em Limit ($3/$6 USD) - 2017/05/29 10:47:15 ET
+Table 'Lacerta II' 10-max Seat #7 is the button
+Seat 7: MTails ($135.50 in chips)
+Seat 9: Chrisgalo33 ($16.41 in chips)
+MTails: posts small blind $1
+Chrisgalo33: posts big blind $3
+*** HOLE CARDS ***
+scorpio04 joins the table at seat #10
+MTails: raises $3 to $6
+Chrisgalo33: calls $3
+*** FLOP *** [Th Tc 8c]
+Chrisgalo33: checks
+MTails: bets $3
+Chrisgalo33: raises $3 to $6
+MTails: calls $3
+*** TURN *** [Th Tc 8c] [Kh]
+Chrisgalo33: bets $4.41 and is all-in
+MTails: calls $4.41
+*** RIVER *** [Th Tc 8c Kh] [Qd]
+*** SHOW DOWN ***
+Chrisgalo33: shows [Jc 8d] (two pair, Tens and Eights)
+MTails: shows [Qh Jh] (two pair, Queens and Tens)
+MTails collected $32.32 from pot
+*** SUMMARY ***
+Total pot $32.82 | Rake $0.50
+Board [Th Tc 8c Kh Qd]
+Seat 7: MTails (button) (small blind) showed [Qh Jh] and won ($32.32) with two pair, Queens and Tens
+Seat 9: Chrisgalo33 (big blind) showed [Jc 8d] and lost with two pair, Tens and Eights
+
+

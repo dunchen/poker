@@ -1,0 +1,32 @@
+PokerStars Hand #162024420355:  Hold'em Limit ($3/$6 USD) - 2016/11/27 1:28:39 ET
+Table 'Klumpkea' 6-max Seat #3 is the button
+Seat 2: ExtraResistance ($300 in chips)
+Seat 3: sim5sim5 ($72 in chips)
+sim5sim5: posts small blind $1
+Agrotait: is sitting out
+ExtraResistance: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+ExtraResistance: calls $3
+*** FLOP *** [Ts 5c Tc]
+ExtraResistance: checks
+sim5sim5: bets $3
+ExtraResistance: raises $3 to $6
+sim5sim5: calls $3
+*** TURN *** [Ts 5c Tc] [8d]
+ExtraResistance: bets $6
+sim5sim5: calls $6
+*** RIVER *** [Ts 5c Tc 8d] [8s]
+ExtraResistance: bets $6
+sim5sim5: calls $6
+*** SHOW DOWN ***
+ExtraResistance: shows [8c Ac] (a full house, Eights full of Tens)
+sim5sim5: mucks hand
+ExtraResistance collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Ts 5c Tc 8d 8s]
+Seat 2: ExtraResistance (big blind) showed [8c Ac] and won ($47.50) with a full house, Eights full of Tens
+Seat 3: sim5sim5 (button) (small blind) mucked
+
+

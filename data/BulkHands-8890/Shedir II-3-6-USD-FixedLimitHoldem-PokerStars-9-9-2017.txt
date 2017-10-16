@@ -1,0 +1,53 @@
+PokerStars Hand #175392265787:  Hold'em Limit ($3/$6 USD) - 2017/09/08 19:58:32 ET
+Table 'Shedir II' 6-max Seat #2 is the button
+Seat 2: kiwi/mike ($121.05 in chips)
+Seat 4: Actionni13 ($313.06 in chips)
+kiwi/mike: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+kiwi/mike: raises $3 to $6
+Actionni13: calls $3
+*** FLOP *** [8d 3c Ac]
+Actionni13: checks
+kiwi/mike: bets $3
+Actionni13: calls $3
+*** TURN *** [8d 3c Ac] [Qs]
+Actionni13: checks
+kiwi/mike: bets $6
+Actionni13: calls $6
+*** RIVER *** [8d 3c Ac Qs] [Kc]
+Actionni13: checks
+kiwi/mike: checks
+*** SHOW DOWN ***
+Actionni13: shows [8s Th] (a pair of Eights)
+kiwi/mike: shows [Jh As] (a pair of Aces)
+kiwi/mike collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8d 3c Ac Qs Kc]
+Seat 2: kiwi/mike (button) (small blind) showed [Jh As] and won ($29.50) with a pair of Aces
+Seat 4: Actionni13 (big blind) showed [8s Th] and lost with a pair of Eights
+
+
+PokerStars Hand #175395544428:  Hold'em Limit ($3/$6 USD) - 2017/09/08 21:57:18 ET
+Table 'Shedir II' 6-max Seat #3 is the button
+Seat 2: fleabaggs ($82.14 in chips)
+Seat 3: Scheubi88 ($148.84 in chips)
+Scheubi88: posts small blind $1
+fleabaggs: posts big blind $3
+*** HOLE CARDS ***
+Scheubi88: raises $3 to $6
+fleabaggs: calls $3
+*** FLOP *** [6s Kc 2s]
+fleabaggs: checks
+Scheubi88: bets $3
+fleabaggs: folds
+Uncalled bet ($3) returned to Scheubi88
+Scheubi88 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6s Kc 2s]
+Seat 2: fleabaggs (big blind) folded on the Flop
+Seat 3: Scheubi88 (button) (small blind) collected ($11.76)
+
+

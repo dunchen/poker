@@ -1,0 +1,99 @@
+PokerStars Hand #161552142352:  Hold'em Limit ($3/$6 USD) - 2016/11/17 14:49:29 ET
+Table 'Tucapel II' 6-max Seat #4 is the button
+Seat 3: tandrew31 ($177.75 in chips)
+Seat 4: kolaz03 ($72 in chips)
+kolaz03: posts small blind $1
+tandrew31: posts big blind $3
+*** HOLE CARDS ***
+kolaz03: raises $3 to $6
+ToDaFelt joins the table at seat #5
+tandrew31: calls $3
+*** FLOP *** [9d 5h Ts]
+xcgxcg2005 joins the table at seat #6
+tandrew31: checks
+kiskarlis joins the table at seat #2
+kolaz03: bets $3
+tandrew31: calls $3
+*** TURN *** [9d 5h Ts] [2d]
+vestimokrec joins the table at seat #1
+tandrew31: checks
+kolaz03: bets $6
+tandrew31: calls $6
+*** RIVER *** [9d 5h Ts 2d] [Kc]
+tandrew31: checks
+kolaz03: checks
+*** SHOW DOWN ***
+tandrew31: shows [5d 4c] (a pair of Fives)
+kolaz03: shows [8d 8c] (a pair of Eights)
+kolaz03 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9d 5h Ts 2d Kc]
+Seat 3: tandrew31 (big blind) showed [5d 4c] and lost with a pair of Fives
+Seat 4: kolaz03 (button) (small blind) showed [8d 8c] and won ($29.50) with a pair of Eights
+
+
+PokerStars Hand #161552184433:  Hold'em Limit ($3/$6 USD) - 2016/11/17 14:50:13 ET
+Table 'Tucapel II' 6-max Seat #3 is the button
+Seat 3: tandrew31 ($162.75 in chips)
+Seat 4: kolaz03 ($86.50 in chips)
+tandrew31: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+tandrew31: calls $2
+kolaz03: checks
+*** FLOP *** [Qc 9s 9d]
+kolaz03: bets $3
+tandrew31: calls $3
+*** TURN *** [Qc 9s 9d] [3h]
+kolaz03: bets $6
+tandrew31: calls $6
+*** RIVER *** [Qc 9s 9d 3h] [4h]
+kolaz03: bets $6
+tandrew31: raises $6 to $12
+kolaz03: folds
+Uncalled bet ($6) returned to tandrew31
+tandrew31 collected $35.50 from pot
+tandrew31: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Qc 9s 9d 3h 4h]
+Seat 3: tandrew31 (button) (small blind) collected ($35.50)
+Seat 4: kolaz03 (big blind) folded on the River
+
+
+PokerStars Hand #161557932099:  Hold'em Limit ($3/$6 USD) - 2016/11/17 16:32:32 ET
+Table 'Tucapel II' 6-max Seat #5 is the button
+Seat 3: RaisemyNut$ ($60 in chips)
+Seat 5: ToDaFelt ($114.71 in chips)
+ToDaFelt: posts small blind $1
+pompier40: is sitting out
+RaisemyNut$: posts big blind $3
+*** HOLE CARDS ***
+pompier40 leaves the table
+ToDaFelt: raises $3 to $6
+RaisemyNut$: raises $3 to $9
+ToDaFelt: calls $3
+*** FLOP *** [4h 6d 9d]
+RaisemyNut$: bets $3
+ToDaFelt: raises $3 to $6
+RaisemyNut$: calls $3
+*** TURN *** [4h 6d 9d] [Th]
+RaisemyNut$: checks
+ToDaFelt: bets $6
+RaisemyNut$: raises $6 to $12
+ToDaFelt: calls $6
+*** RIVER *** [4h 6d 9d Th] [Td]
+RaisemyNut$: bets $6
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+RaisemyNut$: shows [Qh Qs] (two pair, Queens and Tens)
+ToDaFelt: mucks hand
+RaisemyNut$ collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [4h 6d 9d Th Td]
+Seat 3: RaisemyNut$ (big blind) showed [Qh Qs] and won ($65.50) with two pair, Queens and Tens
+Seat 5: ToDaFelt (button) (small blind) mucked
+
+

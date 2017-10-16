@@ -1,0 +1,62 @@
+PokerStars Hand #160425296256:  Hold'em Limit ($3/$6 USD) - 2016/10/25 13:36:24 ET
+Table 'Dardanos' 6-max Seat #4 is the button
+Seat 2: ChaseMeIfUC ($44.82 in chips)
+Seat 4: AzureCaper ($73 in chips)
+AzureCaper: posts small blind $1
+ChaseMeIfUC: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+ChaseMeIfUC: calls $3
+*** FLOP *** [9s Td 4c]
+ChaseMeIfUC: checks
+AzureCaper: bets $3
+ChaseMeIfUC: folds
+Uncalled bet ($3) returned to AzureCaper
+AzureCaper collected $11.76 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9s Td 4c]
+Seat 2: ChaseMeIfUC (big blind) folded on the Flop
+Seat 4: AzureCaper (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #160426400595:  Hold'em Limit ($3/$6 USD) - 2016/10/25 13:59:30 ET
+Table 'Dardanos' 6-max Seat #5 is the button
+Seat 4: AzureCaper ($141.41 in chips)
+Seat 5: wobetting ($65.43 in chips)
+wobetting: posts small blind $1
+vestimokrec: is sitting out
+zimin10: is sitting out
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec leaves the table
+wobetting: raises $3 to $6
+AzureCaper: raises $3 to $9
+zimin10 leaves the table
+wobetting: calls $3
+*** FLOP *** [Js 4h 2c]
+AzureCaper: bets $3
+wobetting: raises $3 to $6
+AzureCaper: raises $3 to $9
+Perumov joins the table at seat #3
+wobetting: calls $3
+*** TURN *** [Js 4h 2c] [6s]
+AzureCaper: bets $6
+wobetting: raises $6 to $12
+AzureCaper: calls $6
+*** RIVER *** [Js 4h 2c 6s] [2h]
+AzureCaper: checks
+wobetting: bets $6
+AzureCaper: calls $6
+*** SHOW DOWN ***
+wobetting: shows [5d 3d] (a straight, Deuce to Six)
+AzureCaper: mucks hand
+wobetting collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [Js 4h 2c 6s 2h]
+Seat 4: AzureCaper (big blind) mucked
+Seat 5: wobetting (button) (small blind) showed [5d 3d] and won ($71.50) with a straight, Deuce to Six
+
+

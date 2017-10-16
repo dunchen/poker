@@ -1,0 +1,109 @@
+PokerStars Hand #151158904570:  Hold'em Limit ($3/$6 USD) - 2016/03/30 7:36:58 ET
+Table 'Bowell II' 10-max Seat #6 is the button
+Seat 6: beas7m0de ($121.93 in chips)
+Seat 7: VolkovDmitri ($125.76 in chips)
+beas7m0de: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+beas7m0de: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 6: beas7m0de (button) (small blind) folded before Flop
+Seat 7: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #151158887364:  Hold'em Limit ($3/$6 USD) - 2016/03/30 7:36:25 ET
+Table 'Bowell II' 10-max Seat #7 is the button
+Seat 6: beas7m0de ($127.93 in chips)
+Seat 7: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+beas7m0de: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+beas7m0de: calls $3
+*** FLOP *** [Th 4d 2c]
+beas7m0de: checks
+Pheno_kat joins the table at seat #5
+VolkovDmitri: bets $3
+beas7m0de: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Th 4d 2c]
+Seat 6: beas7m0de (big blind) folded on the Flop
+Seat 7: VolkovDmitri (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #151158989822:  Hold'em Limit ($3/$6 USD) - 2016/03/30 7:39:42 ET
+Table 'Bowell II' 10-max Seat #7 is the button
+Seat 7: VolkovDmitri ($257.47 in chips)
+Seat 8: __P0o_P0o__ ($99 in chips)
+VolkovDmitri: posts small blind $1
+__P0o_P0o__: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+beas7m0de leaves the table
+__P0o_P0o__: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [4d 3c 3s]
+__P0o_P0o__: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [4d 3c 3s] [2h]
+__P0o_P0o__: bets $6
+VolkovDmitri: raises $6 to $12
+__P0o_P0o__: calls $6
+*** RIVER *** [4d 3c 3s 2h] [Kh]
+__P0o_P0o__: checks
+VolkovDmitri: bets $6
+__P0o_P0o__: raises $6 to $12
+VolkovDmitri: raises $6 to $18
+__P0o_P0o__: raises $6 to $24
+Betting is capped
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+__P0o_P0o__: shows [Ah 5c] (a straight, Ace to Five)
+VolkovDmitri: mucks hand
+__P0o_P0o__ collected $95.50 from pot
+*** SUMMARY ***
+Total pot $96 | Rake $0.50
+Board [4d 3c 3s 2h Kh]
+Seat 7: VolkovDmitri (button) (small blind) mucked
+Seat 8: __P0o_P0o__ (big blind) showed [Ah 5c] and won ($95.50) with a straight, Ace to Five
+
+
+PokerStars Hand #151159009008:  Hold'em Limit ($3/$6 USD) - 2016/03/30 7:40:20 ET
+Table 'Bowell II' 10-max Seat #8 is the button
+Seat 7: VolkovDmitri ($209.47 in chips)
+Seat 8: __P0o_P0o__ ($146.50 in chips)
+__P0o_P0o__: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+__P0o_P0o__: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [6h 4h 2d]
+VolkovDmitri: checks
+__P0o_P0o__: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [6h 4h 2d] [Tc]
+VolkovDmitri: checks
+__P0o_P0o__: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [6h 4h 2d Tc] [Kh]
+VolkovDmitri: bets $6
+__P0o_P0o__: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Ks 7c] (a pair of Kings)
+__P0o_P0o__: mucks hand
+VolkovDmitri collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [6h 4h 2d Tc Kh]
+Seat 7: VolkovDmitri (big blind) showed [Ks 7c] and won ($41.50) with a pair of Kings
+Seat 8: __P0o_P0o__ (button) (small blind) mucked
+
+

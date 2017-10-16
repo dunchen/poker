@@ -1,0 +1,31 @@
+PokerStars Hand #145340660842:  Hold'em Limit ($3/$6 USD) - 2015/12/14 13:49:23 ET
+Table 'Veronika II' 10-max Seat #1 is the button
+Seat 1: punkbabe1980 ($48.11 in chips)
+Seat 6: neatsuN ($132 in chips)
+punkbabe1980: posts small blind $1
+neatsuN: posts big blind $3
+*** HOLE CARDS ***
+punkbabe1980: raises $3 to $6
+neatsuN: calls $3
+*** FLOP *** [3h Ts 6h]
+neatsuN: checks
+punkbabe1980: bets $3
+neatsuN: calls $3
+*** TURN *** [3h Ts 6h] [Kc]
+neatsuN: checks
+punkbabe1980: bets $6
+neatsuN: calls $6
+*** RIVER *** [3h Ts 6h Kc] [Th]
+neatsuN: checks
+punkbabe1980: checks
+*** SHOW DOWN ***
+neatsuN: shows [Jc Ah] (a pair of Tens)
+punkbabe1980: shows [7h 7s] (two pair, Tens and Sevens)
+punkbabe1980 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3h Ts 6h Kc Th]
+Seat 1: punkbabe1980 (button) (small blind) showed [7h 7s] and won ($29.50) with two pair, Tens and Sevens
+Seat 6: neatsuN (big blind) showed [Jc Ah] and lost with a pair of Tens
+
+

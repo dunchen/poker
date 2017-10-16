@@ -1,0 +1,63 @@
+PokerStars Hand #149432197910:  Hold'em Limit ($3/$6 USD) - 2016/02/26 4:57:49 ET
+Table 'Mirphak II' 6-max Seat #3 is the button
+Seat 3: Starrcrusher ($120 in chips)
+Seat 4: TbIP-TbIP 88 ($72 in chips)
+Starrcrusher: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+Agrotait joins the table at seat #2
+Starrcrusher: raises $3 to $6
+TbIP-TbIP 88: raises $3 to $9
+Starrcrusher: raises $3 to $12
+Betting is capped
+TbIP-TbIP 88: calls $3
+*** FLOP *** [3h 9c 6h]
+TbIP-TbIP 88: checks
+Starrcrusher: bets $3
+TbIP-TbIP 88: calls $3
+*** TURN *** [3h 9c 6h] [Th]
+TbIP-TbIP 88: checks
+Starrcrusher: bets $6
+TbIP-TbIP 88: calls $6
+*** RIVER *** [3h 9c 6h Th] [5d]
+manisped joins the table at seat #6
+TbIP-TbIP 88: checks
+Starrcrusher: bets $6
+TbIP-TbIP 88: calls $6
+*** SHOW DOWN ***
+Starrcrusher: shows [Kh 6c] (a pair of Sixes)
+TbIP-TbIP 88: mucks hand
+Starrcrusher collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [3h 9c 6h Th 5d]
+Seat 3: Starrcrusher (button) (small blind) showed [Kh 6c] and won ($53.50) with a pair of Sixes
+Seat 4: TbIP-TbIP 88 (big blind) mucked
+
+
+PokerStars Hand #149435584753:  Hold'em Limit ($3/$6 USD) - 2016/02/26 6:54:12 ET
+Table 'Mirphak II' 6-max Seat #6 is the button
+Seat 3: B_loJkl ($170.66 in chips)
+Seat 6: PycV ($236.12 in chips)
+PycV: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+PycV: raises $3 to $6
+B_loJkl: raises $3 to $9
+PycV: calls $3
+*** FLOP *** [6c 6h 9d]
+B_loJkl: bets $3
+PycV: calls $3
+*** TURN *** [6c 6h 9d] [Js]
+B_loJkl: bets $6
+PycV: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $23.52 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [6c 6h 9d Js]
+Seat 3: B_loJkl (big blind) collected ($23.52)
+Seat 6: PycV (button) (small blind) folded on the Turn
+
+

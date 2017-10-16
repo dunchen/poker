@@ -1,0 +1,264 @@
+PokerStars Hand #165872454926:  Hold'em Limit ($3/$6 USD) - 2017/02/08 5:21:33 ET
+Table 'Ivar' 6-max Seat #1 is the button
+Seat 1: BugerDV ($72 in chips)
+Seat 2: yirkape ($32.61 in chips)
+BugerDV: posts small blind $1
+yirkape: posts big blind $3
+*** HOLE CARDS ***
+BugerDV: raises $3 to $6
+yirkape: raises $3 to $9
+BugerDV: calls $3
+*** FLOP *** [Qd Kd Th]
+yirkape: bets $3
+BugerDV: raises $3 to $6
+yirkape: folds
+Uncalled bet ($3) returned to BugerDV
+BugerDV collected $23.52 from pot
+BugerDV: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Qd Kd Th]
+Seat 1: BugerDV (button) (small blind) collected ($23.52)
+Seat 2: yirkape (big blind) folded on the Flop
+
+
+PokerStars Hand #165872452901:  Hold'em Limit ($3/$6 USD) - 2017/02/08 5:21:28 ET
+Table 'Ivar' 6-max Seat #2 is the button
+Seat 1: BugerDV ($71 in chips)
+Seat 2: yirkape ($33.61 in chips)
+yirkape: posts small blind $1
+BugerDV: posts big blind $3
+*** HOLE CARDS ***
+yirkape: folds
+Uncalled bet ($2) returned to BugerDV
+BugerDV collected $2 from pot
+BugerDV: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BugerDV (big blind) collected ($2)
+Seat 2: yirkape (button) (small blind) folded before Flop
+
+
+PokerStars Hand #165872449532:  Hold'em Limit ($3/$6 USD) - 2017/02/08 5:21:21 ET
+Table 'Ivar' 6-max Seat #1 is the button
+Seat 1: BugerDV ($72 in chips)
+Seat 2: yirkape ($32.61 in chips)
+BugerDV: posts small blind $1
+yirkape: posts big blind $3
+*** HOLE CARDS ***
+BugerDV: folds
+Uncalled bet ($2) returned to yirkape
+yirkape collected $2 from pot
+yirkape: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BugerDV (button) (small blind) folded before Flop
+Seat 2: yirkape (big blind) collected ($2)
+
+
+PokerStars Hand #165872462008:  Hold'em Limit ($3/$6 USD) - 2017/02/08 5:21:49 ET
+Table 'Ivar' 6-max Seat #2 is the button
+Seat 1: BugerDV ($83.52 in chips)
+Seat 2: yirkape ($20.61 in chips)
+yirkape: posts small blind $1
+BugerDV: posts big blind $3
+*** HOLE CARDS ***
+yirkape: raises $3 to $6
+BugerDV: calls $3
+*** FLOP *** [8h 5d 7h]
+BugerDV: bets $3
+yirkape: calls $3
+*** TURN *** [8h 5d 7h] [2h]
+BugerDV: bets $6
+yirkape: calls $6
+*** RIVER *** [8h 5d 7h 2h] [8d]
+BugerDV: bets $6
+yirkape: folds
+Uncalled bet ($6) returned to BugerDV
+BugerDV collected $29.50 from pot
+BugerDV: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8h 5d 7h 2h 8d]
+Seat 1: BugerDV (big blind) collected ($29.50)
+Seat 2: yirkape (button) (small blind) folded on the River
+
+
+PokerStars Hand #165872471387:  Hold'em Limit ($3/$6 USD) - 2017/02/08 5:22:09 ET
+Table 'Ivar' 6-max Seat #1 is the button
+Seat 1: BugerDV ($98.02 in chips)
+Seat 2: yirkape ($5.61 in chips)
+BugerDV: posts small blind $1
+yirkape: posts big blind $3
+*** HOLE CARDS ***
+BugerDV: raises $3 to $6
+yirkape: calls $2.61 and is all-in
+Uncalled bet ($0.39) returned to BugerDV
+*** FLOP *** [Jd 4h Js]
+*** TURN *** [Jd 4h Js] [9h]
+*** RIVER *** [Jd 4h Js 9h] [Ac]
+*** SHOW DOWN ***
+yirkape: shows [9s 3h] (two pair, Jacks and Nines)
+BugerDV: shows [7d Ah] (two pair, Aces and Jacks)
+BugerDV collected $11 from pot
+*** SUMMARY ***
+Total pot $11.22 | Rake $0.22
+Board [Jd 4h Js 9h Ac]
+Seat 1: BugerDV (button) (small blind) showed [7d Ah] and won ($11) with two pair, Aces and Jacks
+Seat 2: yirkape (big blind) showed [9s 3h] and lost with two pair, Jacks and Nines
+
+
+PokerStars Hand #165872513357:  Hold'em Limit ($3/$6 USD) - 2017/02/08 5:23:41 ET
+Table 'Ivar' 6-max Seat #1 is the button
+Seat 1: BugerDV ($91.41 in chips)
+Seat 2: yirkape ($44.13 in chips)
+BugerDV: posts small blind $1
+yirkape: posts big blind $3
+*** HOLE CARDS ***
+BugerDV: raises $3 to $6
+yirkape: calls $3
+*** FLOP *** [Kh 9s 5d]
+yirkape: checks
+BugerDV: bets $3
+yirkape: calls $3
+*** TURN *** [Kh 9s 5d] [6h]
+yirkape: checks
+BugerDV: bets $6
+yirkape: calls $6
+*** RIVER *** [Kh 9s 5d 6h] [4d]
+yirkape: checks
+BugerDV: bets $6
+yirkape: calls $6
+*** SHOW DOWN ***
+BugerDV: shows [9d Kd] (two pair, Kings and Nines)
+yirkape: mucks hand
+BugerDV collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Kh 9s 5d 6h 4d]
+Seat 1: BugerDV (button) (small blind) showed [9d Kd] and won ($41.50) with two pair, Kings and Nines
+Seat 2: yirkape (big blind) mucked
+
+
+PokerStars Hand #165872501338:  Hold'em Limit ($3/$6 USD) - 2017/02/08 5:23:14 ET
+Table 'Ivar' 6-max Seat #2 is the button
+Seat 1: BugerDV ($103.41 in chips)
+Seat 2: yirkape ($32.61 in chips)
+yirkape: posts small blind $1
+BugerDV: posts big blind $3
+*** HOLE CARDS ***
+yirkape: raises $3 to $6
+BugerDV: calls $3
+*** FLOP *** [Qs 5d Jc]
+BugerDV: checks
+yirkape: checks
+*** TURN *** [Qs 5d Jc] [8h]
+BugerDV: checks
+yirkape: bets $6
+BugerDV: calls $6
+*** RIVER *** [Qs 5d Jc 8h] [2d]
+BugerDV: checks
+yirkape: checks
+*** SHOW DOWN ***
+BugerDV: shows [5s 4h] (a pair of Fives)
+yirkape: shows [8s 6c] (a pair of Eights)
+yirkape collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Qs 5d Jc 8h 2d]
+Seat 1: BugerDV (big blind) showed [5s 4h] and lost with a pair of Fives
+Seat 2: yirkape (button) (small blind) showed [8s 6c] and won ($23.52) with a pair of Eights
+
+
+PokerStars Hand #165872543009:  Hold'em Limit ($3/$6 USD) - 2017/02/08 5:24:45 ET
+Table 'Ivar' 6-max Seat #2 is the button
+Seat 1: BugerDV ($114.43 in chips)
+Seat 2: yirkape ($19.77 in chips)
+yirkape: posts small blind $1
+BugerDV: posts big blind $3
+*** HOLE CARDS ***
+yirkape: raises $3 to $6
+BugerDV: raises $3 to $9
+yirkape: calls $3
+*** FLOP *** [Kd Td Ts]
+BugerDV: bets $3
+yirkape: calls $3
+*** TURN *** [Kd Td Ts] [9d]
+BugerDV: bets $6
+yirkape: calls $6
+*** RIVER *** [Kd Td Ts 9d] [Th]
+BugerDV: bets $6
+yirkape: calls $1.77 and is all-in
+Uncalled bet ($4.23) returned to BugerDV
+*** SHOW DOWN ***
+BugerDV: shows [Jh Jd] (a full house, Tens full of Jacks)
+yirkape: shows [9h Ac] (a full house, Tens full of Nines)
+BugerDV collected $39.04 from pot
+*** SUMMARY ***
+Total pot $39.54 | Rake $0.50
+Board [Kd Td Ts 9d Th]
+Seat 1: BugerDV (big blind) showed [Jh Jd] and won ($39.04) with a full house, Tens full of Jacks
+Seat 2: yirkape (button) (small blind) showed [9h Ac] and lost with a full house, Tens full of Nines
+
+
+PokerStars Hand #165872530456:  Hold'em Limit ($3/$6 USD) - 2017/02/08 5:24:17 ET
+Table 'Ivar' 6-max Seat #1 is the button
+Seat 1: BugerDV ($102.91 in chips)
+Seat 2: yirkape ($31.77 in chips)
+BugerDV: posts small blind $1
+yirkape: posts big blind $3
+*** HOLE CARDS ***
+BugerDV: raises $3 to $6
+yirkape: calls $3
+*** FLOP *** [6h Ad 9s]
+yirkape: checks
+BugerDV: bets $3
+yirkape: raises $3 to $6
+BugerDV: calls $3
+*** TURN *** [6h Ad 9s] [Ts]
+yirkape: checks
+BugerDV: checks
+*** RIVER *** [6h Ad 9s Ts] [Ah]
+yirkape: checks
+BugerDV: checks
+*** SHOW DOWN ***
+yirkape: shows [Jh 5d] (a pair of Aces)
+BugerDV: shows [2d Qd] (a pair of Aces - Queen kicker)
+BugerDV collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [6h Ad 9s Ts Ah]
+Seat 1: BugerDV (button) (small blind) showed [2d Qd] and won ($23.52) with a pair of Aces
+Seat 2: yirkape (big blind) showed [Jh 5d] and lost with a pair of Aces
+
+
+PokerStars Hand #165872522003:  Hold'em Limit ($3/$6 USD) - 2017/02/08 5:23:59 ET
+Table 'Ivar' 6-max Seat #2 is the button
+Seat 1: BugerDV ($111.91 in chips)
+Seat 2: yirkape ($23.13 in chips)
+yirkape: posts small blind $1
+BugerDV: posts big blind $3
+*** HOLE CARDS ***
+yirkape: raises $3 to $6
+BugerDV: calls $3
+*** FLOP *** [8s 4c Qs]
+BugerDV: checks
+yirkape: bets $3
+BugerDV: calls $3
+*** TURN *** [8s 4c Qs] [Td]
+BugerDV: checks
+yirkape: checks
+*** RIVER *** [8s 4c Qs Td] [6c]
+BugerDV: checks
+yirkape: checks
+*** SHOW DOWN ***
+BugerDV: shows [Kh 2h] (high card King)
+yirkape: shows [5s Ac] (high card Ace)
+yirkape collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8s 4c Qs Td 6c]
+Seat 1: BugerDV (big blind) showed [Kh 2h] and lost with high card King
+Seat 2: yirkape (button) (small blind) showed [5s Ac] and won ($17.64) with high card Ace
+
+

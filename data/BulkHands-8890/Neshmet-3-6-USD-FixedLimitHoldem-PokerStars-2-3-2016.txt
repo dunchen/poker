@@ -1,0 +1,96 @@
+PokerStars Hand #148140019302:  Hold'em Limit ($3/$6 USD) - 2016/02/02 18:59:10 ET
+Table 'Neshmet' 2-max Seat #1 is the button
+Seat 1: elifnur2008 ($144.62 in chips)
+Seat 2: balina150 ($15.16 in chips)
+elifnur2008: posts small blind $1
+balina150: posts big blind $3
+*** HOLE CARDS ***
+elifnur2008: raises $3 to $6
+balina150: raises $3 to $9
+elifnur2008: calls $3
+*** FLOP *** [Qd Ah 4d]
+balina150: bets $3
+elifnur2008: calls $3
+*** TURN *** [Qd Ah 4d] [Kd]
+balina150: bets $3.16 and is all-in
+elifnur2008: calls $3.16
+*** RIVER *** [Qd Ah 4d Kd] [Ks]
+*** SHOW DOWN ***
+balina150: shows [9s 4h] (two pair, Kings and Fours)
+elifnur2008: shows [Qh 3c] (two pair, Kings and Queens)
+elifnur2008 collected $29.82 from pot
+*** SUMMARY ***
+Total pot $30.32 | Rake $0.50
+Board [Qd Ah 4d Kd Ks]
+Seat 1: elifnur2008 (button) (small blind) showed [Qh 3c] and won ($29.82) with two pair, Kings and Queens
+Seat 2: balina150 (big blind) showed [9s 4h] and lost with two pair, Kings and Fours
+
+
+PokerStars Hand #148140174571:  Hold'em Limit ($3/$6 USD) - 2016/02/02 19:02:48 ET
+Table 'Neshmet' 2-max Seat #1 is the button
+Seat 1: elifnur2008 ($132.28 in chips)
+Seat 2: goat991 ($67.62 in chips)
+elifnur2008: posts small blind $1
+goat991: posts big blind $3
+*** HOLE CARDS ***
+elifnur2008: raises $3 to $6
+goat991: raises $3 to $9
+elifnur2008: raises $3 to $12
+Betting is capped
+goat991: calls $3
+*** FLOP *** [9c 3c 4s]
+goat991: bets $3
+elifnur2008: calls $3
+*** TURN *** [9c 3c 4s] [Qc]
+goat991: bets $6
+elifnur2008: raises $6 to $12
+goat991: calls $6
+*** RIVER *** [9c 3c 4s Qc] [4c]
+goat991: bets $6
+elifnur2008: calls $6
+*** SHOW DOWN ***
+goat991: shows [As Ts] (a pair of Fours)
+elifnur2008: shows [Kh Kd] (two pair, Kings and Fours)
+elifnur2008 collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [9c 3c 4s Qc 4c]
+Seat 1: elifnur2008 (button) (small blind) showed [Kh Kd] and won ($65.50) with two pair, Kings and Fours
+Seat 2: goat991 (big blind) showed [As Ts] and lost with a pair of Fours
+
+
+PokerStars Hand #148140192657:  Hold'em Limit ($3/$6 USD) - 2016/02/02 19:03:12 ET
+Table 'Neshmet' 2-max Seat #2 is the button
+Seat 1: elifnur2008 ($164.78 in chips)
+Seat 2: goat991 ($34.62 in chips)
+goat991: posts small blind $1
+elifnur2008: posts big blind $3
+*** HOLE CARDS ***
+goat991: raises $3 to $6
+elifnur2008: raises $3 to $9
+goat991: calls $3
+*** FLOP *** [Tc Ts 5h]
+elifnur2008: bets $3
+goat991: raises $3 to $6
+elifnur2008: raises $3 to $9
+goat991: raises $3 to $12
+Betting is capped
+elifnur2008: calls $3
+*** TURN *** [Tc Ts 5h] [4h]
+elifnur2008: bets $6
+goat991: raises $6 to $12
+elifnur2008: raises $6 to $18
+goat991: calls $1.62 and is all-in
+Uncalled bet ($4.38) returned to elifnur2008
+*** RIVER *** [Tc Ts 5h 4h] [6c]
+*** SHOW DOWN ***
+elifnur2008: shows [Qd 5s] (two pair, Tens and Fives)
+goat991: shows [3c 5d] (two pair, Tens and Fives - lower kicker)
+elifnur2008 collected $68.74 from pot
+*** SUMMARY ***
+Total pot $69.24 | Rake $0.50
+Board [Tc Ts 5h 4h 6c]
+Seat 1: elifnur2008 (big blind) showed [Qd 5s] and won ($68.74) with two pair, Tens and Fives
+Seat 2: goat991 (button) (small blind) showed [3c 5d] and lost with two pair, Tens and Fives
+
+

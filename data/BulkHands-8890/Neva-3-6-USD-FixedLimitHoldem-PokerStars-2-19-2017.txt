@@ -1,0 +1,31 @@
+PokerStars Hand #166429070991:  Hold'em Limit ($3/$6 USD) - 2017/02/18 22:01:02 ET
+Table 'Neva' 6-max Seat #1 is the button
+Seat 1: LifeisagameX ($84 in chips)
+Seat 2: kladde567 ($120 in chips)
+LifeisagameX: posts small blind $1
+kladde567: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+kladde567: raises $3 to $9
+LifeisagameX: calls $3
+*** FLOP *** [2s 6d 4d]
+kladde567: bets $3
+LifeisagameX: calls $3
+*** TURN *** [2s 6d 4d] [4h]
+kladde567: bets $6
+LifeisagameX: calls $6
+*** RIVER *** [2s 6d 4d 4h] [Qs]
+kladde567: bets $6
+LifeisagameX: calls $6
+*** SHOW DOWN ***
+kladde567: shows [Kh As] (a pair of Fours)
+LifeisagameX: shows [Ac Ks] (a pair of Fours)
+kladde567 collected $23.75 from pot
+LifeisagameX collected $23.75 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2s 6d 4d 4h Qs]
+Seat 1: LifeisagameX (button) (small blind) showed [Ac Ks] and won ($23.75) with a pair of Fours
+Seat 2: kladde567 (big blind) showed [Kh As] and won ($23.75) with a pair of Fours
+
+

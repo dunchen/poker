@@ -1,0 +1,34 @@
+PokerStars Hand #168077801752:  Hold'em Limit ($3/$6 USD) - 2017/03/25 5:49:06 ET
+Table 'Wabash' 6-max Seat #6 is the button
+Seat 4: AA_ILI ($263.77 in chips)
+Seat 6: boogi ($163.65 in chips)
+Agrotait will be allowed to play after the button
+boogi: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+Janeros leaves the table
+boogi: calls $2
+Agrotait leaves the table
+AA_ILI: checks
+*** FLOP *** [6c 5d 3c]
+AA_ILI: checks
+boogi: bets $3
+AA_ILI: raises $3 to $6
+boogi: calls $3
+*** TURN *** [6c 5d 3c] [7h]
+AA_ILI: bets $6
+boogi: calls $6
+*** RIVER *** [6c 5d 3c 7h] [Jc]
+AA_ILI: bets $6
+boogi: calls $6
+*** SHOW DOWN ***
+AA_ILI: shows [5c Ac] (a flush, Ace high)
+boogi: mucks hand
+AA_ILI collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [6c 5d 3c 7h Jc]
+Seat 4: AA_ILI (big blind) showed [5c Ac] and won ($41.50) with a flush, Ace high
+Seat 6: boogi (button) (small blind) mucked
+
+

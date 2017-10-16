@@ -1,0 +1,68 @@
+PokerStars Hand #169878718331:  Hold'em Limit ($3/$6 USD) - 2017/05/02 20:28:14 ET
+Table 'Tugela' 6-max Seat #4 is the button
+Seat 3: TinaTurner72 ($134.10 in chips)
+Seat 4: Willijabo ($103.09 in chips)
+Willijabo: posts small blind $1
+NAV_SERGG: is sitting out
+TinaTurner72: posts big blind $3
+NAV_SERGG leaves the table
+*** HOLE CARDS ***
+Willijabo: raises $3 to $6
+TinaTurner72: calls $3
+*** FLOP *** [6d 2s Qd]
+TinaTurner72: checks
+Willijabo: bets $3
+TinaTurner72: raises $3 to $6
+Willijabo: calls $3
+*** TURN *** [6d 2s Qd] [8d]
+TinaTurner72: bets $6
+Willijabo: raises $6 to $12
+TinaTurner72: raises $6 to $18
+Willijabo: calls $6
+*** RIVER *** [6d 2s Qd 8d] [6h]
+TinaTurner72: bets $6
+Willijabo: raises $6 to $12
+TinaTurner72: calls $6
+*** SHOW DOWN ***
+Willijabo: shows [6s Qs] (a full house, Sixes full of Queens)
+TinaTurner72: mucks hand
+Willijabo collected $83.50 from pot
+*** SUMMARY ***
+Total pot $84 | Rake $0.50
+Board [6d 2s Qd 8d 6h]
+Seat 3: TinaTurner72 (big blind) mucked
+Seat 4: Willijabo (button) (small blind) showed [6s Qs] and won ($83.50) with a full house, Sixes full of Queens
+
+
+PokerStars Hand #169878740572:  Hold'em Limit ($3/$6 USD) - 2017/05/02 20:29:02 ET
+Table 'Tugela' 6-max Seat #3 is the button
+Seat 3: TinaTurner72 ($92.10 in chips)
+Seat 4: Willijabo ($144.59 in chips)
+TinaTurner72: posts small blind $1
+Willijabo: posts big blind $3
+*** HOLE CARDS ***
+TinaTurner72: raises $3 to $6
+Willijabo: calls $3
+*** FLOP *** [2d 2s 6c]
+Willijabo: checks
+TinaTurner72: bets $3
+Willijabo: calls $3
+*** TURN *** [2d 2s 6c] [9d]
+Willijabo: checks
+TinaTurner72: bets $6
+Willijabo: calls $6
+*** RIVER *** [2d 2s 6c 9d] [8s]
+Willijabo: checks
+TinaTurner72: bets $6
+Willijabo: calls $6
+*** SHOW DOWN ***
+TinaTurner72: shows [Ks 8c] (two pair, Eights and Deuces)
+Willijabo: mucks hand
+TinaTurner72 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2d 2s 6c 9d 8s]
+Seat 3: TinaTurner72 (button) (small blind) showed [Ks 8c] and won ($41.50) with two pair, Eights and Deuces
+Seat 4: Willijabo (big blind) mucked
+
+

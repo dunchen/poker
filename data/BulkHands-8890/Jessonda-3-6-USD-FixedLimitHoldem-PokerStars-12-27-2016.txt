@@ -1,0 +1,59 @@
+PokerStars Hand #163589805016:  Hold'em Limit ($3/$6 USD) - 2016/12/27 1:21:13 ET
+Table 'Jessonda' 6-max Seat #1 is the button
+Seat 1: ToDaFelt ($120 in chips)
+Seat 2: diva345 ($63.14 in chips)
+ToDaFelt: posts small blind $1
+diva345: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+diva345: calls $3
+*** FLOP *** [9s 8d Ts]
+diva345: checks
+ToDaFelt: checks
+*** TURN *** [9s 8d Ts] [6d]
+diva345: checks
+TbIP-TbIP 88 joins the table at seat #3
+ToDaFelt: bets $6
+diva345: calls $6
+*** RIVER *** [9s 8d Ts 6d] [2c]
+diva345: bets $6
+ToDaFelt: folds
+Uncalled bet ($6) returned to diva345
+diva345 collected $23.52 from pot
+diva345: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [9s 8d Ts 6d 2c]
+Seat 1: ToDaFelt (button) (small blind) folded on the River
+Seat 2: diva345 (big blind) collected ($23.52)
+
+
+PokerStars Hand #163589943634:  Hold'em Limit ($3/$6 USD) - 2016/12/27 1:29:32 ET
+Table 'Jessonda' 6-max Seat #3 is the button
+Seat 1: ToDaFelt ($140.75 in chips)
+Seat 3: TbIP-TbIP 88 ($113.63 in chips)
+TbIP-TbIP 88: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88: raises $3 to $6
+ToDaFelt: raises $3 to $9
+TbIP-TbIP 88: calls $3
+*** FLOP *** [4s 2h Jc]
+ToDaFelt: bets $3
+TbIP-TbIP 88: calls $3
+*** TURN *** [4s 2h Jc] [2s]
+ToDaFelt: bets $6
+TbIP-TbIP 88: calls $6
+*** RIVER *** [4s 2h Jc 2s] [8c]
+ToDaFelt: bets $6
+TbIP-TbIP 88: folds
+Uncalled bet ($6) returned to ToDaFelt
+ToDaFelt collected $35.50 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [4s 2h Jc 2s 8c]
+Seat 1: ToDaFelt (big blind) collected ($35.50)
+Seat 3: TbIP-TbIP 88 (button) (small blind) folded on the River
+
+

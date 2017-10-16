@@ -1,0 +1,56 @@
+PokerStars Hand #167431679820:  Hold'em Limit ($3/$6 USD) - 2017/03/11 10:12:49 ET
+Table 'Gretia' 6-max Seat #2 is the button
+Seat 2: SLK500 ($120 in chips)
+Seat 5: dragon1893 ($150 in chips)
+SLK500: posts small blind $1
+dragon1893: posts big blind $3
+*** HOLE CARDS ***
+SLK500: raises $3 to $6
+dragon1893: calls $3
+*** FLOP *** [Ah 3c Qh]
+dragon1893: checks
+SLK500: bets $3
+dragon1893: calls $3
+*** TURN *** [Ah 3c Qh] [4h]
+dragon1893: checks
+SLK500: checks
+*** RIVER *** [Ah 3c Qh 4h] [3d]
+dragon1893: checks
+lexishake joins the table at seat #3
+SLK500: checks
+*** SHOW DOWN ***
+dragon1893: shows [Kd Td] (a pair of Threes)
+SLK500: shows [Kc 9c] (a pair of Threes)
+dragon1893 collected $8.82 from pot
+SLK500 collected $8.82 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ah 3c Qh 4h 3d]
+Seat 2: SLK500 (button) (small blind) showed [Kc 9c] and won ($8.82) with a pair of Threes
+Seat 5: dragon1893 (big blind) showed [Kd Td] and won ($8.82) with a pair of Threes
+
+
+PokerStars Hand #167431691833:  Hold'em Limit ($3/$6 USD) - 2017/03/11 10:13:07 ET
+Table 'Gretia' 6-max Seat #5 is the button
+Seat 2: SLK500 ($119.82 in chips)
+Seat 5: dragon1893 ($150 in chips)
+dragon1893: posts small blind $1
+SLK500: posts big blind $3
+*** HOLE CARDS ***
+dragon1893: raises $3 to $6
+SLK500: raises $3 to $9
+dragon1893: calls $3
+*** FLOP *** [Ad 5h Qh]
+MellivoraSto joins the table at seat #4
+SLK500: bets $3
+dragon1893: folds
+Uncalled bet ($3) returned to SLK500
+SLK500 collected $17.64 from pot
+SLK500: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ad 5h Qh]
+Seat 2: SLK500 (big blind) collected ($17.64)
+Seat 5: dragon1893 (button) (small blind) folded on the Flop
+
+

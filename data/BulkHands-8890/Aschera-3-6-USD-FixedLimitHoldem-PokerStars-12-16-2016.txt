@@ -1,0 +1,63 @@
+PokerStars Hand #163023281153:  Hold'em Limit ($3/$6 USD) - 2016/12/16 6:12:51 ET
+Table 'Aschera' 6-max Seat #3 is the button
+Seat 3: boom65 ($50.95 in chips)
+Seat 4: Agrotait ($72 in chips)
+boom65: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+boom65: calls $2
+AzureCaper joins the table at seat #5
+Agrotait: checks
+*** FLOP *** [6s Kd 7c]
+parnishka11 joins the table at seat #6
+Agrotait: bets $3
+boom65: calls $3
+*** TURN *** [6s Kd 7c] [Qc]
+Agrotait: bets $6
+boom65: calls $6
+*** RIVER *** [6s Kd 7c Qc] [7h]
+Agrotait: bets $6
+boom65: calls $6
+*** SHOW DOWN ***
+Agrotait: shows [9d Qh] (two pair, Queens and Sevens)
+boom65: shows [2s Kh] (two pair, Kings and Sevens)
+boom65 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6s Kd 7c Qc 7h]
+Seat 3: boom65 (button) (small blind) showed [2s Kh] and won ($35.50) with two pair, Kings and Sevens
+Seat 4: Agrotait (big blind) showed [9d Qh] and lost with two pair, Queens and Sevens
+
+
+PokerStars Hand #163023527406:  Hold'em Limit ($3/$6 USD) - 2016/12/16 6:21:54 ET
+Table 'Aschera' 6-max Seat #4 is the button
+Seat 4: Agrotait ($86.89 in chips)
+Seat 6: parnishka11 ($75.43 in chips)
+Agrotait: posts small blind $1
+AzureCaper: is sitting out
+parnishka11: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper leaves the table
+Agrotait: raises $3 to $6
+parnishka11: raises $3 to $9
+Agrotait: calls $3
+*** FLOP *** [7d 6d 6c]
+parnishka11: bets $3
+Agrotait: calls $3
+*** TURN *** [7d 6d 6c] [Qc]
+parnishka11: checks
+Agrotait: checks
+*** RIVER *** [7d 6d 6c Qc] [Js]
+parnishka11: checks
+Agrotait: checks
+*** SHOW DOWN ***
+parnishka11: shows [Ks Ad] (a pair of Sixes)
+Agrotait: mucks hand
+parnishka11 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [7d 6d 6c Qc Js]
+Seat 4: Agrotait (button) (small blind) mucked
+Seat 6: parnishka11 (big blind) showed [Ks Ad] and won ($23.52) with a pair of Sixes
+
+

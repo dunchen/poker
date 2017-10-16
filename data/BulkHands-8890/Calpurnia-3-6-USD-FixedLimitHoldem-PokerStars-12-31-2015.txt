@@ -1,0 +1,88 @@
+PokerStars Hand #146229044574:  Hold'em Limit ($3/$6 USD) - 2015/12/31 10:06:53 ET
+Table 'Calpurnia' 2-max Seat #2 is the button
+Seat 1: kotnaml ($110.26 in chips)
+Seat 2: fotimap ($5.01 in chips)
+fotimap: posts small blind $1
+kotnaml: posts big blind $3
+*** HOLE CARDS ***
+fotimap: raises $2.01 to $5.01 and is all-in
+kotnaml: calls $2.01
+*** FLOP *** [Ah Qs Td]
+*** TURN *** [Ah Qs Td] [6h]
+*** RIVER *** [Ah Qs Td 6h] [2h]
+*** SHOW DOWN ***
+kotnaml: shows [9s Ac] (a pair of Aces)
+fotimap: shows [3h 6c] (a pair of Sixes)
+kotnaml collected $9.82 from pot
+*** SUMMARY ***
+Total pot $10.02 | Rake $0.20
+Board [Ah Qs Td 6h 2h]
+Seat 1: kotnaml (big blind) showed [9s Ac] and won ($9.82) with a pair of Aces
+Seat 2: fotimap (button) (small blind) showed [3h 6c] and lost with a pair of Sixes
+
+
+PokerStars Hand #146229035605:  Hold'em Limit ($3/$6 USD) - 2015/12/31 10:06:42 ET
+Table 'Calpurnia' 2-max Seat #1 is the button
+Seat 1: kotnaml ($80.76 in chips)
+Seat 2: fotimap ($35.01 in chips)
+kotnaml: posts small blind $1
+fotimap: posts big blind $3
+*** HOLE CARDS ***
+kotnaml: raises $3 to $6
+fotimap: raises $3 to $9
+kotnaml: raises $3 to $12
+Betting is capped
+fotimap: calls $3
+*** FLOP *** [8s Jd Ks]
+fotimap: bets $3
+kotnaml: raises $3 to $6
+fotimap: raises $3 to $9
+kotnaml: raises $3 to $12
+Betting is capped
+fotimap: calls $3
+*** TURN *** [8s Jd Ks] [4s]
+fotimap: bets $6
+kotnaml: raises $6 to $12
+fotimap: folds
+Uncalled bet ($6) returned to kotnaml
+kotnaml collected $59.50 from pot
+kotnaml: doesn't show hand
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [8s Jd Ks 4s]
+Seat 1: kotnaml (button) (small blind) collected ($59.50)
+Seat 2: fotimap (big blind) folded on the Turn
+
+
+PokerStars Hand #146229024683:  Hold'em Limit ($3/$6 USD) - 2015/12/31 10:06:28 ET
+Table 'Calpurnia' 2-max Seat #2 is the button
+Seat 1: kotnaml ($57.26 in chips)
+Seat 2: fotimap ($59.01 in chips)
+fotimap: posts small blind $1
+kotnaml: posts big blind $3
+*** HOLE CARDS ***
+fotimap: raises $3 to $6
+kotnaml: raises $3 to $9
+fotimap: raises $3 to $12
+Betting is capped
+kotnaml: calls $3
+*** FLOP *** [9h Ks 8c]
+kotnaml: bets $3
+fotimap: raises $3 to $6
+kotnaml: raises $3 to $9
+fotimap: raises $3 to $12
+Betting is capped
+kotnaml: calls $3
+*** TURN *** [9h Ks 8c] [Ts]
+kotnaml: bets $6
+fotimap: folds
+Uncalled bet ($6) returned to kotnaml
+kotnaml collected $47.50 from pot
+kotnaml: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9h Ks 8c Ts]
+Seat 1: kotnaml (big blind) collected ($47.50)
+Seat 2: fotimap (button) (small blind) folded on the Turn
+
+

@@ -1,0 +1,80 @@
+PokerStars Hand #173900537920:  Hold'em Limit ($3/$6 USD) - 2017/08/04 4:49:34 ET
+Table 'Erynia' 6-max Seat #1 is the button
+Seat 1: uglyghost101 ($120 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+uglyghost101: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+uglyghost101: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Jc 5s 9s]
+VolkovDmitri: checks
+uglyghost101: bets $3
+VolkovDmitri: raises $3 to $6
+uglyghost101: raises $3 to $9
+VolkovDmitri: calls $3
+*** TURN *** [Jc 5s 9s] [Kd]
+VolkovDmitri: checks
+uglyghost101: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [Jc 5s 9s Kd] [8c]
+VolkovDmitri: checks
+uglyghost101: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to uglyghost101
+uglyghost101 collected $41.50 from pot
+uglyghost101: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Jc 5s 9s Kd 8c]
+Seat 1: uglyghost101 (button) (small blind) collected ($41.50)
+Seat 4: VolkovDmitri (big blind) folded on the River
+
+
+PokerStars Hand #173900560418:  Hold'em Limit ($3/$6 USD) - 2017/08/04 4:50:47 ET
+Table 'Erynia' 6-max Seat #1 is the button
+Seat 1: uglyghost101 ($158 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+uglyghost101: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+uglyghost101: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: uglyghost101 (button) (small blind) folded before Flop
+Seat 4: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #173900548450:  Hold'em Limit ($3/$6 USD) - 2017/08/04 4:50:08 ET
+Table 'Erynia' 6-max Seat #4 is the button
+Seat 1: uglyghost101 ($140.50 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+uglyghost101: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+uglyghost101: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [Tc 9s Td]
+uglyghost101: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [Tc 9s Td] [2c]
+uglyghost101: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [Tc 9s Td 2c] [Qd]
+uglyghost101: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+uglyghost101: shows [Js Jc] (two pair, Jacks and Tens)
+VolkovDmitri: mucks hand
+uglyghost101 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Tc 9s Td 2c Qd]
+Seat 1: uglyghost101 (big blind) showed [Js Jc] and won ($35.50) with two pair, Jacks and Tens
+Seat 4: VolkovDmitri (button) (small blind) mucked
+
+

@@ -1,0 +1,90 @@
+PokerStars Hand #146911549459:  Hold'em Limit ($3/$6 USD) - 2016/01/12 9:46:06 ET
+Table 'Valeria II' 2-max Seat #1 is the button
+Seat 1: PbIbak ($132.16 in chips)
+Seat 2: manu.krüger ($46.64 in chips)
+PbIbak: posts small blind $1
+manu.krüger: posts big blind $3
+*** HOLE CARDS ***
+PbIbak: raises $3 to $6
+manu.krüger: calls $3
+*** FLOP *** [9s 9d 3s]
+manu.krüger: bets $3
+PbIbak: calls $3
+*** TURN *** [9s 9d 3s] [Tc]
+manu.krüger: bets $6
+PbIbak: raises $6 to $12
+manu.krüger: calls $6
+*** RIVER *** [9s 9d 3s Tc] [2s]
+manu.krüger: checks
+PbIbak: bets $6
+manu.krüger: folds
+Uncalled bet ($6) returned to PbIbak
+PbIbak collected $41.50 from pot
+PbIbak: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9s 9d 3s Tc 2s]
+Seat 1: PbIbak (button) (small blind) collected ($41.50)
+Seat 2: manu.krüger (big blind) folded on the River
+
+
+PokerStars Hand #146911535642:  Hold'em Limit ($3/$6 USD) - 2016/01/12 9:45:47 ET
+Table 'Valeria II' 2-max Seat #2 is the button
+Seat 1: PbIbak ($123.52 in chips)
+Seat 2: manu.krüger ($55.64 in chips)
+manu.krüger: posts small blind $1
+PbIbak: posts big blind $3
+*** HOLE CARDS ***
+manu.krüger: calls $2
+PbIbak: checks
+*** FLOP *** [Kc 4h Qd]
+PbIbak: checks
+manu.krüger: checks
+*** TURN *** [Kc 4h Qd] [9c]
+PbIbak: bets $6
+manu.krüger: calls $6
+*** RIVER *** [Kc 4h Qd 9c] [2c]
+PbIbak: bets $6
+manu.krüger: folds
+Uncalled bet ($6) returned to PbIbak
+PbIbak collected $17.64 from pot
+PbIbak: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kc 4h Qd 9c 2c]
+Seat 1: PbIbak (big blind) collected ($17.64)
+Seat 2: manu.krüger (button) (small blind) folded on the River
+
+
+PokerStars Hand #146911562204:  Hold'em Limit ($3/$6 USD) - 2016/01/12 9:46:23 ET
+Table 'Valeria II' 2-max Seat #2 is the button
+Seat 1: PbIbak ($152.66 in chips)
+Seat 2: manu.krüger ($25.64 in chips)
+manu.krüger: posts small blind $1
+PbIbak: posts big blind $3
+*** HOLE CARDS ***
+manu.krüger: calls $2
+PbIbak: raises $3 to $6
+manu.krüger: calls $3
+*** FLOP *** [5s 2s 6c]
+PbIbak: bets $3
+manu.krüger: calls $3
+*** TURN *** [5s 2s 6c] [4h]
+PbIbak: bets $6
+manu.krüger: raises $6 to $12
+PbIbak: calls $6
+*** RIVER *** [5s 2s 6c 4h] [7d]
+PbIbak: checks
+manu.krüger: bets $4.64 and is all-in
+PbIbak: calls $4.64
+*** SHOW DOWN ***
+manu.krüger: shows [4d Jh] (a pair of Fours)
+PbIbak: shows [Qc Qh] (a pair of Queens)
+PbIbak collected $50.78 from pot
+*** SUMMARY ***
+Total pot $51.28 | Rake $0.50
+Board [5s 2s 6c 4h 7d]
+Seat 1: PbIbak (big blind) showed [Qc Qh] and won ($50.78) with a pair of Queens
+Seat 2: manu.krüger (button) (small blind) showed [4d Jh] and lost with a pair of Fours
+
+

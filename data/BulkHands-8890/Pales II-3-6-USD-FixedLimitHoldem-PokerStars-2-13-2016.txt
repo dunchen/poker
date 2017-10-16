@@ -1,0 +1,877 @@
+PokerStars Hand #148746923618:  Hold'em Limit ($3/$6 USD) - 2016/02/13 15:17:38 ET
+Table 'Pales II' 10-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 3: calul vochy ($30 in chips)
+VolkovDmitri: posts small blind $1
+calul vochy: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+calul vochy: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [4h 2s 9s]
+calul vochy: bets $3
+VolkovDmitri: raises $3 to $6
+calul vochy: raises $3 to $9
+VolkovDmitri: calls $3
+*** TURN *** [4h 2s 9s] [Ts]
+calul vochy: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [4h 2s 9s Ts] [6c]
+calul vochy: bets $6 and is all-in
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+calul vochy: shows [Js Jc] (a pair of Jacks)
+VolkovDmitri: shows [9h 5h] (a pair of Nines)
+calul vochy collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [4h 2s 9s Ts 6c]
+Seat 1: VolkovDmitri (button) (small blind) showed [9h 5h] and lost with a pair of Nines
+Seat 3: calul vochy (big blind) showed [Js Jc] and won ($59.50) with a pair of Jacks
+
+
+PokerStars Hand #148746999119:  Hold'em Limit ($3/$6 USD) - 2016/02/13 15:18:53 ET
+Table 'Pales II' 10-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 3: calul vochy ($62.38 in chips)
+VolkovDmitri: posts small blind $1
+calul vochy: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+calul vochy: calls $3
+*** FLOP *** [Kc 8c 4c]
+calul vochy: checks
+VolkovDmitri: bets $3
+calul vochy: calls $3
+*** TURN *** [Kc 8c 4c] [2s]
+calul vochy: checks
+Chessnok joins the table at seat #4
+VolkovDmitri: checks
+*** RIVER *** [Kc 8c 4c 2s] [5d]
+calul vochy: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+calul vochy: shows [Jc 7d] (high card King)
+VolkovDmitri: mucks hand
+calul vochy collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kc 8c 4c 2s 5d]
+Seat 1: VolkovDmitri (button) (small blind) mucked
+Seat 3: calul vochy (big blind) showed [Jc 7d] and won ($17.64) with high card King
+
+
+PokerStars Hand #148746956324:  Hold'em Limit ($3/$6 USD) - 2016/02/13 15:18:10 ET
+Table 'Pales II' 10-max Seat #3 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 3: calul vochy ($59.50 in chips)
+calul vochy: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+calul vochy: calls $2
+VolkovDmitri: checks
+*** FLOP *** [Ah Ac 3c]
+VolkovDmitri: checks
+calul vochy: checks
+*** TURN *** [Ah Ac 3c] [2h]
+VolkovDmitri: checks
+calul vochy: checks
+*** RIVER *** [Ah Ac 3c 2h] [8s]
+VolkovDmitri: checks
+calul vochy: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to calul vochy
+calul vochy collected $5.88 from pot
+calul vochy: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Ah Ac 3c 2h 8s]
+Seat 1: VolkovDmitri (big blind) folded on the River
+Seat 3: calul vochy (button) (small blind) collected ($5.88)
+
+
+PokerStars Hand #148747902528:  Hold'em Limit ($3/$6 USD) - 2016/02/13 15:34:05 ET
+Table 'Pales II' 10-max Seat #4 is the button
+Seat 4: Chessnok ($139.95 in chips)
+Seat 5: db49 ($126.57 in chips)
+Chessnok: posts small blind $1
+db49: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: folds
+Uncalled bet ($2) returned to db49
+db49 collected $2 from pot
+db49: doesn't show hand
+VolkovDmitri leaves the table
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: Chessnok (button) (small blind) folded before Flop
+Seat 5: db49 (big blind) collected ($2)
+
+
+PokerStars Hand #148747906409:  Hold'em Limit ($3/$6 USD) - 2016/02/13 15:34:10 ET
+Table 'Pales II' 10-max Seat #5 is the button
+Seat 4: Chessnok ($138.95 in chips)
+Seat 5: db49 ($127.57 in chips)
+db49: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+db49: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [4s 9c Td]
+Chessnok: checks
+db49: bets $3
+Chessnok: raises $3 to $6
+db49: calls $3
+*** TURN *** [4s 9c Td] [4h]
+Chessnok: bets $6
+db49: calls $6
+*** RIVER *** [4s 9c Td 4h] [7d]
+Chessnok: bets $6
+db49: calls $6
+*** SHOW DOWN ***
+Chessnok: shows [9d 6c] (two pair, Nines and Fours)
+db49: mucks hand
+Chessnok collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4s 9c Td 4h 7d]
+Seat 4: Chessnok (big blind) showed [9d 6c] and won ($47.50) with two pair, Nines and Fours
+Seat 5: db49 (button) (small blind) mucked
+
+
+PokerStars Hand #148747997119:  Hold'em Limit ($3/$6 USD) - 2016/02/13 15:35:40 ET
+Table 'Pales II' 10-max Seat #3 is the button
+Seat 3: calul vochy ($59.50 in chips)
+Seat 4: Chessnok ($132.45 in chips)
+calul vochy: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+calul vochy: calls $2
+Chessnok: checks
+*** FLOP *** [Th 3h Ah]
+Chessnok: bets $3
+calul vochy: calls $3
+*** TURN *** [Th 3h Ah] [4c]
+Chessnok: checks
+calul vochy: bets $6
+Chessnok: calls $6
+*** RIVER *** [Th 3h Ah 4c] [Ts]
+Chessnok: checks
+calul vochy: bets $6
+Chessnok: calls $6
+*** SHOW DOWN ***
+calul vochy: shows [2d 5s] (a straight, Ace to Five)
+Chessnok: mucks hand
+calul vochy collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Th 3h Ah 4c Ts]
+Seat 3: calul vochy (button) (small blind) showed [2d 5s] and won ($35.50) with a straight, Ace to Five
+Seat 4: Chessnok (big blind) mucked
+
+
+PokerStars Hand #148748011285:  Hold'em Limit ($3/$6 USD) - 2016/02/13 15:35:55 ET
+Table 'Pales II' 10-max Seat #4 is the button
+Seat 3: calul vochy ($77 in chips)
+Seat 4: Chessnok ($114.45 in chips)
+Chessnok: posts small blind $1
+calul vochy: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+calul vochy: calls $3
+*** FLOP *** [Ac Kd Qs]
+calul vochy: checks
+Chessnok: bets $3
+calul vochy: folds
+Uncalled bet ($3) returned to Chessnok
+Chessnok collected $11.76 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ac Kd Qs]
+Seat 3: calul vochy (big blind) folded on the Flop
+Seat 4: Chessnok (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #148748019708:  Hold'em Limit ($3/$6 USD) - 2016/02/13 15:36:03 ET
+Table 'Pales II' 10-max Seat #3 is the button
+Seat 3: calul vochy ($71 in chips)
+Seat 4: Chessnok ($120.21 in chips)
+calul vochy: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+calul vochy: calls $2
+Chessnok: checks
+*** FLOP *** [Ad Kd 5d]
+Chessnok: checks
+calul vochy: checks
+*** TURN *** [Ad Kd 5d] [Kh]
+Chessnok: checks
+calul vochy: bets $6
+Chessnok: folds
+Uncalled bet ($6) returned to calul vochy
+calul vochy collected $5.88 from pot
+calul vochy: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Ad Kd 5d Kh]
+Seat 3: calul vochy (button) (small blind) collected ($5.88)
+Seat 4: Chessnok (big blind) folded on the Turn
+
+
+PokerStars Hand #148748032448:  Hold'em Limit ($3/$6 USD) - 2016/02/13 15:36:16 ET
+Table 'Pales II' 10-max Seat #4 is the button
+Seat 3: calul vochy ($73.88 in chips)
+Seat 4: Chessnok ($117.21 in chips)
+Chessnok: posts small blind $1
+calul vochy: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+calul vochy: calls $3
+*** FLOP *** [3c Qd 6c]
+db49 joins the table at seat #5
+calul vochy: checks
+Chessnok: bets $3
+calul vochy: calls $3
+*** TURN *** [3c Qd 6c] [Js]
+calul vochy: checks
+Chessnok: bets $6
+calul vochy: calls $6
+*** RIVER *** [3c Qd 6c Js] [7s]
+calul vochy: checks
+Chessnok: bets $6
+calul vochy: calls $6
+*** SHOW DOWN ***
+Chessnok: shows [9d Qc] (a pair of Queens)
+calul vochy: mucks hand
+Chessnok collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [3c Qd 6c Js 7s]
+Seat 3: calul vochy (big blind) mucked
+Seat 4: Chessnok (button) (small blind) showed [9d Qc] and won ($41.50) with a pair of Queens
+
+
+PokerStars Hand #148747978334:  Hold'em Limit ($3/$6 USD) - 2016/02/13 15:35:22 ET
+Table 'Pales II' 10-max Seat #4 is the button
+Seat 3: calul vochy ($30 in chips)
+Seat 4: Chessnok ($162.45 in chips)
+Chessnok: posts small blind $1
+calul vochy: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+calul vochy: raises $3 to $9
+Chessnok: calls $3
+*** FLOP *** [4s 6s Qc]
+calul vochy: bets $3
+Chessnok: calls $3
+*** TURN *** [4s 6s Qc] [5s]
+calul vochy: bets $6
+Chessnok: calls $6
+*** RIVER *** [4s 6s Qc 5s] [5c]
+calul vochy: bets $6
+Chessnok: raises $6 to $12
+calul vochy: calls $6 and is all-in
+*** SHOW DOWN ***
+Chessnok: shows [Ks Qh] (two pair, Queens and Fives)
+calul vochy: shows [6d 6h] (a full house, Sixes full of Fives)
+calul vochy collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [4s 6s Qc 5s 5c]
+Seat 3: calul vochy (big blind) showed [6d 6h] and won ($59.50) with a full house, Sixes full of Fives
+Seat 4: Chessnok (button) (small blind) showed [Ks Qh] and lost with two pair, Queens and Fives
+
+
+PokerStars Hand #148748047409:  Hold'em Limit ($3/$6 USD) - 2016/02/13 15:36:31 ET
+Table 'Pales II' 10-max Seat #3 is the button
+Seat 3: calul vochy ($52.88 in chips)
+Seat 4: Chessnok ($137.71 in chips)
+calul vochy: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+calul vochy: calls $2
+Chessnok: checks
+*** FLOP *** [2d 6c Ah]
+Chessnok: bets $3
+calul vochy: folds
+Uncalled bet ($3) returned to Chessnok
+Chessnok collected $5.88 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [2d 6c Ah]
+Seat 3: calul vochy (button) (small blind) folded on the Flop
+Seat 4: Chessnok (big blind) collected ($5.88)
+
+
+PokerStars Hand #148748209886:  Hold'em Limit ($3/$6 USD) - 2016/02/13 15:39:14 ET
+Table 'Pales II' 10-max Seat #5 is the button
+Seat 3: calul vochy ($49.74 in chips)
+Seat 5: db49 ($99.14 in chips)
+db49: posts small blind $1
+calul vochy: posts big blind $3
+*** HOLE CARDS ***
+db49: raises $3 to $6
+calul vochy: calls $3
+*** FLOP *** [2c 6h 9c]
+calul vochy: checks
+db49: bets $3
+calul vochy: folds
+Uncalled bet ($3) returned to db49
+db49 collected $11.76 from pot
+db49: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2c 6h 9c]
+Seat 3: calul vochy (big blind) folded on the Flop
+Seat 5: db49 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #148748465464:  Hold'em Limit ($3/$6 USD) - 2016/02/13 15:43:26 ET
+Table 'Pales II' 10-max Seat #3 is the button
+Seat 3: calul vochy ($136.45 in chips)
+Seat 4: Chessnok ($217.29 in chips)
+calul vochy: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+calul vochy: calls $2
+Chessnok: checks
+*** FLOP *** [Jc Kc 4s]
+Chessnok: bets $3
+calul vochy: folds
+Uncalled bet ($3) returned to Chessnok
+Chessnok collected $5.88 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Jc Kc 4s]
+Seat 3: calul vochy (button) (small blind) folded on the Flop
+Seat 4: Chessnok (big blind) collected ($5.88)
+
+
+PokerStars Hand #148748461188:  Hold'em Limit ($3/$6 USD) - 2016/02/13 15:43:22 ET
+Table 'Pales II' 10-max Seat #4 is the button
+Seat 3: calul vochy ($135.45 in chips)
+Seat 4: Chessnok ($218.29 in chips)
+Chessnok: posts small blind $1
+calul vochy: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: folds
+Uncalled bet ($2) returned to calul vochy
+calul vochy collected $2 from pot
+calul vochy: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: calul vochy (big blind) collected ($2)
+Seat 4: Chessnok (button) (small blind) folded before Flop
+
+
+PokerStars Hand #148748449460:  Hold'em Limit ($3/$6 USD) - 2016/02/13 15:43:11 ET
+Table 'Pales II' 10-max Seat #3 is the button
+Seat 3: calul vochy ($126.81 in chips)
+Seat 4: Chessnok ($227.29 in chips)
+calul vochy: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+calul vochy: calls $2
+Chessnok: raises $3 to $6
+calul vochy: calls $3
+*** FLOP *** [3s 6d 2d]
+Chessnok: bets $3
+calul vochy: calls $3
+*** TURN *** [3s 6d 2d] [4d]
+Chessnok: checks
+calul vochy: bets $6
+Chessnok: folds
+Uncalled bet ($6) returned to calul vochy
+calul vochy collected $17.64 from pot
+calul vochy: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3s 6d 2d 4d]
+Seat 3: calul vochy (button) (small blind) collected ($17.64)
+Seat 4: Chessnok (big blind) folded on the Turn
+
+
+PokerStars Hand #148748426558:  Hold'em Limit ($3/$6 USD) - 2016/02/13 15:42:49 ET
+Table 'Pales II' 10-max Seat #4 is the button
+Seat 3: calul vochy ($135.81 in chips)
+Seat 4: Chessnok ($218.65 in chips)
+Chessnok: posts small blind $1
+calul vochy: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+calul vochy: calls $3
+*** FLOP *** [4c 8d Jh]
+calul vochy: checks
+Chessnok: bets $3
+calul vochy: calls $3
+*** TURN *** [4c 8d Jh] [Ac]
+calul vochy: checks
+Chessnok: checks
+*** RIVER *** [4c 8d Jh Ac] [2h]
+calul vochy: checks
+Chessnok: checks
+*** SHOW DOWN ***
+calul vochy: shows [Td 9c] (high card Ace)
+Chessnok: shows [Qh Kc] (high card Ace - King kicker)
+Chessnok collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4c 8d Jh Ac 2h]
+Seat 3: calul vochy (big blind) showed [Td 9c] and lost with high card Ace
+Seat 4: Chessnok (button) (small blind) showed [Qh Kc] and won ($17.64) with high card Ace
+
+
+PokerStars Hand #148748533188:  Hold'em Limit ($3/$6 USD) - 2016/02/13 15:44:31 ET
+Table 'Pales II' 10-max Seat #4 is the button
+Seat 3: calul vochy ($119.33 in chips)
+Seat 4: Chessnok ($233.55 in chips)
+Chessnok: posts small blind $1
+calul vochy: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+calul vochy: calls $3
+*** FLOP *** [7d 9h Qd]
+calul vochy: checks
+Chessnok: bets $3
+calul vochy: folds
+Uncalled bet ($3) returned to Chessnok
+Chessnok collected $11.76 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7d 9h Qd]
+Seat 3: calul vochy (big blind) folded on the Flop
+Seat 4: Chessnok (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #148748518575:  Hold'em Limit ($3/$6 USD) - 2016/02/13 15:44:17 ET
+Table 'Pales II' 10-max Seat #3 is the button
+Seat 3: calul vochy ($122.33 in chips)
+Seat 4: Chessnok ($230.67 in chips)
+calul vochy: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+calul vochy: calls $2
+Chessnok: checks
+*** FLOP *** [6d Ks Qh]
+Chessnok: bets $3
+calul vochy: folds
+Uncalled bet ($3) returned to Chessnok
+Chessnok collected $5.88 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [6d Ks Qh]
+Seat 3: calul vochy (button) (small blind) folded on the Flop
+Seat 4: Chessnok (big blind) collected ($5.88)
+
+
+PokerStars Hand #148748493065:  Hold'em Limit ($3/$6 USD) - 2016/02/13 15:43:53 ET
+Table 'Pales II' 10-max Seat #4 is the button
+Seat 3: calul vochy ($137.33 in chips)
+Seat 4: Chessnok ($216.17 in chips)
+Chessnok: posts small blind $1
+calul vochy: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+calul vochy: calls $3
+*** FLOP *** [9h 6d 9d]
+calul vochy: checks
+Chessnok: bets $3
+calul vochy: calls $3
+*** TURN *** [9h 6d 9d] [5s]
+calul vochy: checks
+Chessnok: bets $6
+calul vochy: calls $6
+*** RIVER *** [9h 6d 9d 5s] [Qh]
+calul vochy: checks
+Chessnok: checks
+*** SHOW DOWN ***
+calul vochy: shows [Ts 7d] (a pair of Nines)
+Chessnok: shows [2s 2c] (two pair, Nines and Deuces)
+Chessnok collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9h 6d 9d 5s Qh]
+Seat 3: calul vochy (big blind) showed [Ts 7d] and lost with a pair of Nines
+Seat 4: Chessnok (button) (small blind) showed [2s 2c] and won ($29.50) with two pair, Nines and Deuces
+
+
+PokerStars Hand #148748481693:  Hold'em Limit ($3/$6 USD) - 2016/02/13 15:43:42 ET
+Table 'Pales II' 10-max Seat #3 is the button
+Seat 3: calul vochy ($134.45 in chips)
+Seat 4: Chessnok ($219.17 in chips)
+calul vochy: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+calul vochy: calls $2
+Chessnok: checks
+*** FLOP *** [Qh 4c Ts]
+Chessnok: checks
+calul vochy: checks
+*** TURN *** [Qh 4c Ts] [Kh]
+Chessnok: checks
+calul vochy: bets $6
+Chessnok: folds
+Uncalled bet ($6) returned to calul vochy
+calul vochy collected $5.88 from pot
+calul vochy: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Qh 4c Ts Kh]
+Seat 3: calul vochy (button) (small blind) collected ($5.88)
+Seat 4: Chessnok (big blind) folded on the Turn
+
+
+PokerStars Hand #148748477430:  Hold'em Limit ($3/$6 USD) - 2016/02/13 15:43:38 ET
+Table 'Pales II' 10-max Seat #4 is the button
+Seat 3: calul vochy ($133.45 in chips)
+Seat 4: Chessnok ($220.17 in chips)
+Chessnok: posts small blind $1
+calul vochy: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: folds
+Uncalled bet ($2) returned to calul vochy
+calul vochy collected $2 from pot
+calul vochy: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: calul vochy (big blind) collected ($2)
+Seat 4: Chessnok (button) (small blind) folded before Flop
+
+
+PokerStars Hand #148748585792:  Hold'em Limit ($3/$6 USD) - 2016/02/13 15:45:22 ET
+Table 'Pales II' 10-max Seat #4 is the button
+Seat 3: calul vochy ($71.33 in chips)
+Seat 4: Chessnok ($280.07 in chips)
+Chessnok: posts small blind $1
+calul vochy: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+calul vochy: raises $3 to $9
+Chessnok: calls $3
+*** FLOP *** [As 6s 8h]
+calul vochy: bets $3
+Chessnok: folds
+Uncalled bet ($3) returned to calul vochy
+calul vochy collected $17.64 from pot
+calul vochy: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [As 6s 8h]
+Seat 3: calul vochy (big blind) collected ($17.64)
+Seat 4: Chessnok (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #148748570099:  Hold'em Limit ($3/$6 USD) - 2016/02/13 15:45:07 ET
+Table 'Pales II' 10-max Seat #3 is the button
+Seat 3: calul vochy ($92.33 in chips)
+Seat 4: Chessnok ($259.57 in chips)
+calul vochy: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+calul vochy: calls $2
+Chessnok: raises $3 to $6
+calul vochy: calls $3
+*** FLOP *** [3h 8s Td]
+Chessnok: bets $3
+calul vochy: calls $3
+*** TURN *** [3h 8s Td] [9s]
+Chessnok: bets $6
+calul vochy: calls $6
+*** RIVER *** [3h 8s Td 9s] [Kc]
+Chessnok: bets $6
+calul vochy: calls $6
+*** SHOW DOWN ***
+Chessnok: shows [9c 8h] (two pair, Nines and Eights)
+calul vochy: mucks hand
+Chessnok collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [3h 8s Td 9s Kc]
+Seat 3: calul vochy (button) (small blind) mucked
+Seat 4: Chessnok (big blind) showed [9c 8h] and won ($41.50) with two pair, Nines and Eights
+
+
+PokerStars Hand #148748557196:  Hold'em Limit ($3/$6 USD) - 2016/02/13 15:44:55 ET
+Table 'Pales II' 10-max Seat #4 is the button
+Seat 3: calul vochy ($98.33 in chips)
+Seat 4: Chessnok ($253.81 in chips)
+Chessnok: posts small blind $1
+calul vochy: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+calul vochy: calls $3
+*** FLOP *** [Jh 9c 3d]
+calul vochy: checks
+Chessnok: bets $3
+calul vochy: folds
+Uncalled bet ($3) returned to Chessnok
+db49 leaves the table
+Chessnok collected $11.76 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jh 9c 3d]
+Seat 3: calul vochy (big blind) folded on the Flop
+Seat 4: Chessnok (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #148748541728:  Hold'em Limit ($3/$6 USD) - 2016/02/13 15:44:40 ET
+Table 'Pales II' 10-max Seat #3 is the button
+Seat 3: calul vochy ($113.33 in chips)
+Seat 4: Chessnok ($239.31 in chips)
+calul vochy: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+calul vochy: calls $2
+Chessnok: raises $3 to $6
+calul vochy: calls $3
+*** FLOP *** [Js 3s Ac]
+Chessnok: bets $3
+calul vochy: calls $3
+*** TURN *** [Js 3s Ac] [3c]
+Chessnok: bets $6
+calul vochy: calls $6
+*** RIVER *** [Js 3s Ac 3c] [8c]
+Chessnok: bets $6
+calul vochy: folds
+Uncalled bet ($6) returned to Chessnok
+Chessnok collected $29.50 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Js 3s Ac 3c 8c]
+Seat 3: calul vochy (button) (small blind) folded on the River
+Seat 4: Chessnok (big blind) collected ($29.50)
+
+
+PokerStars Hand #148748642293:  Hold'em Limit ($3/$6 USD) - 2016/02/13 15:46:16 ET
+Table 'Pales II' 10-max Seat #3 is the button
+Seat 3: calul vochy ($46.97 in chips)
+Seat 4: Chessnok ($303.45 in chips)
+calul vochy: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+calul vochy: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [5h 7h Qs]
+Chessnok: checks
+calul vochy: bets $3
+Chessnok: raises $3 to $6
+calul vochy: calls $3
+*** TURN *** [5h 7h Qs] [Jh]
+Chessnok: bets $6
+calul vochy: calls $6
+*** RIVER *** [5h 7h Qs Jh] [3c]
+Chessnok: bets $6
+calul vochy: calls $6
+*** SHOW DOWN ***
+Chessnok: shows [6c 4c] (a straight, Three to Seven)
+calul vochy: mucks hand
+Chessnok collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [5h 7h Qs Jh 3c]
+Seat 3: calul vochy (button) (small blind) mucked
+Seat 4: Chessnok (big blind) showed [6c 4c] and won ($47.50) with a straight, Three to Seven
+
+
+PokerStars Hand #148748620007:  Hold'em Limit ($3/$6 USD) - 2016/02/13 15:45:55 ET
+Table 'Pales II' 10-max Seat #4 is the button
+Seat 3: calul vochy ($76.97 in chips)
+Seat 4: Chessnok ($273.95 in chips)
+Chessnok: posts small blind $1
+calul vochy: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+calul vochy: calls $3
+*** FLOP *** [2h 3c 4h]
+calul vochy: checks
+Chessnok: bets $3
+calul vochy: raises $3 to $6
+Chessnok: calls $3
+*** TURN *** [2h 3c 4h] [8s]
+calul vochy: bets $6
+Chessnok: calls $6
+*** RIVER *** [2h 3c 4h 8s] [6d]
+calul vochy: bets $6
+Chessnok: raises $6 to $12
+calul vochy: calls $6
+*** SHOW DOWN ***
+Chessnok: shows [5c Jc] (a straight, Deuce to Six)
+calul vochy: mucks hand
+Chessnok collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [2h 3c 4h 8s 6d]
+Seat 3: calul vochy (big blind) mucked
+Seat 4: Chessnok (button) (small blind) showed [5c Jc] and won ($59.50) with a straight, Deuce to Six
+
+
+PokerStars Hand #148748606739:  Hold'em Limit ($3/$6 USD) - 2016/02/13 15:45:42 ET
+Table 'Pales II' 10-max Seat #3 is the button
+Seat 3: calul vochy ($79.97 in chips)
+Seat 4: Chessnok ($271.07 in chips)
+calul vochy: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+calul vochy: calls $2
+Chessnok: checks
+*** FLOP *** [2h 7s Ks]
+Chessnok: checks
+calul vochy: checks
+*** TURN *** [2h 7s Ks] [9s]
+Chessnok: checks
+calul vochy: checks
+*** RIVER *** [2h 7s Ks 9s] [3c]
+Chessnok: checks
+calul vochy: checks
+*** SHOW DOWN ***
+Chessnok: shows [2d Tc] (a pair of Deuces)
+calul vochy: mucks hand
+Chessnok collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [2h 7s Ks 9s 3c]
+Seat 3: calul vochy (button) (small blind) mucked
+Seat 4: Chessnok (big blind) showed [2d Tc] and won ($5.88) with a pair of Deuces
+
+
+PokerStars Hand #148748709739:  Hold'em Limit ($3/$6 USD) - 2016/02/13 15:47:21 ET
+Table 'Pales II' 10-max Seat #4 is the button
+Seat 3: calul vochy ($20.56 in chips)
+Seat 4: Chessnok ($327.96 in chips)
+Chessnok: posts small blind $1
+calul vochy: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+calul vochy: raises $3 to $9
+Chessnok: calls $3
+*** FLOP *** [7h 9h 2c]
+calul vochy: bets $3
+Chessnok: calls $3
+*** TURN *** [7h 9h 2c] [Ks]
+calul vochy: bets $6
+Chessnok: calls $6
+*** RIVER *** [7h 9h 2c Ks] [Ad]
+calul vochy: checks
+Chessnok: bets $6
+calul vochy: folds
+Uncalled bet ($6) returned to Chessnok
+Chessnok collected $35.50 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [7h 9h 2c Ks Ad]
+Seat 3: calul vochy (big blind) folded on the River
+Seat 4: Chessnok (button) (small blind) collected ($35.50)
+
+
+PokerStars Hand #148748695971:  Hold'em Limit ($3/$6 USD) - 2016/02/13 15:47:08 ET
+Table 'Pales II' 10-max Seat #3 is the button
+Seat 3: calul vochy ($10.49 in chips)
+Seat 4: Chessnok ($338.45 in chips)
+calul vochy: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+calul vochy: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [9h 3d 6c]
+Chessnok: checks
+calul vochy: bets $3
+Chessnok: calls $3
+*** TURN *** [9h 3d 6c] [2d]
+Chessnok: checks
+calul vochy: bets $1.49 and is all-in
+Chessnok: calls $1.49
+*** RIVER *** [9h 3d 6c 2d] [5d]
+*** SHOW DOWN ***
+Chessnok: shows [4d 4h] (a straight, Deuce to Six)
+calul vochy: shows [Ad 6d] (a flush, Ace high)
+calul vochy collected $20.56 from pot
+*** SUMMARY ***
+Total pot $20.98 | Rake $0.42
+Board [9h 3d 6c 2d 5d]
+Seat 3: calul vochy (button) (small blind) showed [Ad 6d] and won ($20.56) with a flush, Ace high
+Seat 4: Chessnok (big blind) showed [4d 4h] and lost with a straight, Deuce to Six
+
+
+PokerStars Hand #148748688351:  Hold'em Limit ($3/$6 USD) - 2016/02/13 15:47:01 ET
+Table 'Pales II' 10-max Seat #4 is the button
+Seat 3: calul vochy ($13.49 in chips)
+Seat 4: Chessnok ($335.45 in chips)
+Chessnok: posts small blind $1
+calul vochy: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+calul vochy: folds
+Uncalled bet ($3) returned to Chessnok
+Chessnok collected $6 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: calul vochy (big blind) folded before Flop
+Seat 4: Chessnok (button) (small blind) collected ($6)
+
+
+PokerStars Hand #148748672324:  Hold'em Limit ($3/$6 USD) - 2016/02/13 15:46:45 ET
+Table 'Pales II' 10-max Seat #3 is the button
+Seat 3: calul vochy ($34.49 in chips)
+Seat 4: Chessnok ($314.95 in chips)
+calul vochy: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+calul vochy: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [2d 8h 2s]
+Chessnok: checks
+calul vochy: bets $3
+Chessnok: calls $3
+*** TURN *** [2d 8h 2s] [9d]
+Chessnok: checks
+calul vochy: bets $6
+Chessnok: raises $6 to $12
+calul vochy: calls $6
+*** RIVER *** [2d 8h 2s 9d] [4d]
+Chessnok: bets $6
+calul vochy: folds
+Uncalled bet ($6) returned to Chessnok
+Chessnok collected $41.50 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2d 8h 2s 9d 4d]
+Seat 3: calul vochy (button) (small blind) folded on the River
+Seat 4: Chessnok (big blind) collected ($41.50)
+
+
+PokerStars Hand #148748656613:  Hold'em Limit ($3/$6 USD) - 2016/02/13 15:46:30 ET
+Table 'Pales II' 10-max Seat #4 is the button
+Seat 3: calul vochy ($22.97 in chips)
+Seat 4: Chessnok ($326.95 in chips)
+Chessnok: posts small blind $1
+calul vochy: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+calul vochy: raises $3 to $9
+Chessnok: calls $3
+*** FLOP *** [8d Jd 2d]
+calul vochy: bets $3
+Chessnok: calls $3
+*** TURN *** [8d Jd 2d] [Jc]
+calul vochy: bets $6
+Chessnok: folds
+Uncalled bet ($6) returned to calul vochy
+calul vochy collected $23.52 from pot
+calul vochy: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [8d Jd 2d Jc]
+Seat 3: calul vochy (big blind) collected ($23.52)
+Seat 4: Chessnok (button) (small blind) folded on the Turn
+
+

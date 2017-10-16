@@ -1,0 +1,102 @@
+PokerStars Hand #160833642185:  Hold'em Limit ($3/$6 USD) - 2016/11/03 9:20:50 ET
+Table 'Orma' 6-max Seat #1 is the button
+Seat 1: NLXXX1980 ($123.88 in chips)
+Seat 4: Agrotait ($72 in chips)
+NLXXX1980: posts small blind $1
+B_loJkl joins the table at seat #2
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+NLXXX1980: calls $2
+Agrotait: checks
+*** FLOP *** [Jd 2d 9c]
+Agrotait: bets $3
+NLXXX1980: calls $3
+*** TURN *** [Jd 2d 9c] [8d]
+Agrotait: checks
+NLXXX1980: bets $6
+Agrotait: calls $6
+*** RIVER *** [Jd 2d 9c 8d] [Th]
+Agrotait: checks
+NLXXX1980: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+NLXXX1980: shows [Jh 6h] (a pair of Jacks)
+Agrotait: mucks hand
+NLXXX1980 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Jd 2d 9c 8d Th]
+Seat 1: NLXXX1980 (button) (small blind) showed [Jh 6h] and won ($35.50) with a pair of Jacks
+Seat 4: Agrotait (big blind) mucked
+
+
+PokerStars Hand #160833656825:  Hold'em Limit ($3/$6 USD) - 2016/11/03 9:21:16 ET
+Table 'Orma' 6-max Seat #4 is the button
+Seat 1: NLXXX1980 ($141.38 in chips)
+Seat 4: Agrotait ($72 in chips)
+Agrotait: posts small blind $1
+NLXXX1980: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+NLXXX1980: calls $3
+*** FLOP *** [Qc 3s 7h]
+NLXXX1980: checks
+Agrotait: bets $3
+NLXXX1980: calls $3
+*** TURN *** [Qc 3s 7h] [Ts]
+NLXXX1980: checks
+Agrotait: checks
+*** RIVER *** [Qc 3s 7h Ts] [3c]
+NLXXX1980: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to NLXXX1980
+NLXXX1980 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qc 3s 7h Ts 3c]
+Seat 1: NLXXX1980 (big blind) collected ($17.64)
+Seat 4: Agrotait (button) (small blind) folded on the River
+
+
+PokerStars Hand #160833760990:  Hold'em Limit ($3/$6 USD) - 2016/11/03 9:24:07 ET
+Table 'Orma' 6-max Seat #1 is the button
+Seat 1: B_loJkl ($155.76 in chips)
+Seat 4: Agrotait ($65.92 in chips)
+B_loJkl: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: folds
+Uncalled bet ($2) returned to Agrotait
+Agrotait collected $2 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: B_loJkl (button) (small blind) folded before Flop
+Seat 4: Agrotait (big blind) collected ($2)
+
+
+PokerStars Hand #160833736738:  Hold'em Limit ($3/$6 USD) - 2016/11/03 9:23:23 ET
+Table 'Orma' 6-max Seat #4 is the button
+Seat 1: B_loJkl ($150 in chips)
+Seat 4: Agrotait ($71.92 in chips)
+Agrotait: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [9c 8d Th]
+B_loJkl: checks
+Agrotait: checks
+*** TURN *** [9c 8d Th] [Qd]
+B_loJkl: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9c 8d Th Qd]
+Seat 1: B_loJkl (big blind) collected ($11.76)
+Seat 4: Agrotait (button) (small blind) folded on the Turn
+
+

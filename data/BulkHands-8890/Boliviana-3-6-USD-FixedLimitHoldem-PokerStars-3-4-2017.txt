@@ -1,0 +1,35 @@
+PokerStars Hand #167074067282:  Hold'em Limit ($3/$6 USD) - 2017/03/03 19:18:44 ET
+Table 'Boliviana' 6-max Seat #1 is the button
+Seat 1: AzureCaper ($73.98 in chips)
+Seat 6: sokol-max-PS ($157.88 in chips)
+AzureCaper: posts small blind $1
+MegaPega: is sitting out
+sokol-max-PS: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+sokol-max-PS: calls $3
+*** FLOP *** [3d Ts Jc]
+sokol-max-PS: checks
+AzureCaper: bets $3
+sokol-max-PS: calls $3
+*** TURN *** [3d Ts Jc] [7c]
+sokol-max-PS: checks
+AzureCaper: bets $6
+sokol-max-PS: raises $6 to $12
+AzureCaper: calls $6
+*** RIVER *** [3d Ts Jc 7c] [5h]
+MegaPega leaves the table
+sokol-max-PS: bets $6
+AzureCaper: raises $6 to $12
+sokol-max-PS: calls $6
+*** SHOW DOWN ***
+AzureCaper: shows [9s 9d] (a pair of Nines)
+sokol-max-PS: shows [Jh 4h] (a pair of Jacks)
+sokol-max-PS collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [3d Ts Jc 7c 5h]
+Seat 1: AzureCaper (button) (small blind) showed [9s 9d] and lost with a pair of Nines
+Seat 6: sokol-max-PS (big blind) showed [Jh 4h] and won ($65.50) with a pair of Jacks
+
+

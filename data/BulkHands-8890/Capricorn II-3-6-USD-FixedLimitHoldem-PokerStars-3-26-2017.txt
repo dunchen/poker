@@ -1,0 +1,80 @@
+PokerStars Hand #168127882155:  Hold'em Limit ($3/$6 USD) - 2017/03/26 6:52:36 ET
+Table 'Capricorn II' 6-max Seat #2 is the button
+Seat 1: majekk ($96 in chips)
+Seat 2: Agrotait ($95.50 in chips)
+Agrotait: posts small blind $1
+majekk: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+hookonhook joins the table at seat #3
+majekk: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $6 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: majekk (big blind) folded before Flop
+Seat 2: Agrotait (button) (small blind) collected ($6)
+
+
+PokerStars Hand #168127864683:  Hold'em Limit ($3/$6 USD) - 2017/03/26 6:51:59 ET
+Table 'Capricorn II' 6-max Seat #1 is the button
+Seat 1: majekk ($120 in chips)
+Seat 2: Agrotait ($72 in chips)
+majekk: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+majekk: raises $3 to $6
+Agrotait: raises $3 to $9
+majekk: calls $3
+*** FLOP *** [9c 2c Qd]
+Agrotait: bets $3
+majekk: calls $3
+*** TURN *** [9c 2c Qd] [Ks]
+Agrotait: bets $6
+majekk: calls $6
+*** RIVER *** [9c 2c Qd Ks] [As]
+Agrotait: bets $6
+majekk: calls $6
+*** SHOW DOWN ***
+Agrotait: shows [Kc Ac] (two pair, Aces and Kings)
+majekk: mucks hand
+Agrotait collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9c 2c Qd Ks As]
+Seat 1: majekk (button) (small blind) mucked
+Seat 2: Agrotait (big blind) showed [Kc Ac] and won ($47.50) with two pair, Aces and Kings
+
+
+PokerStars Hand #168127887915:  Hold'em Limit ($3/$6 USD) - 2017/03/26 6:52:48 ET
+Table 'Capricorn II' 6-max Seat #1 is the button
+Seat 1: majekk ($93 in chips)
+Seat 2: Agrotait ($98.50 in chips)
+majekk: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+majekk: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [8h 8c Td]
+Agrotait: checks
+majekk: bets $3
+Agrotait: calls $3
+*** TURN *** [8h 8c Td] [9d]
+Agrotait: checks
+majekk: bets $6
+Agrotait: calls $6
+*** RIVER *** [8h 8c Td 9d] [8d]
+Agrotait: checks
+majekk: checks
+*** SHOW DOWN ***
+Agrotait: shows [Ah 6h] (three of a kind, Eights)
+majekk: mucks hand
+Agrotait collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8h 8c Td 9d 8d]
+Seat 1: majekk (button) (small blind) mucked
+Seat 2: Agrotait (big blind) showed [Ah 6h] and won ($29.50) with three of a kind, Eights
+
+

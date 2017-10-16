@@ -1,0 +1,55 @@
+PokerStars Hand #150174151896:  Hold'em Limit ($3/$6 USD) - 2016/03/11 5:52:31 ET
+Table 'Mirphak' 6-max Seat #4 is the button
+Seat 4: Agrotait ($72 in chips)
+Seat 5: perten ($40 in chips)
+Agrotait: posts small blind $1
+perten: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+perten: raises $3 to $9
+Agrotait: calls $3
+*** FLOP *** [9c 3h 4h]
+perten: bets $3
+Agrotait: calls $3
+*** TURN *** [9c 3h 4h] [Th]
+perten: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to perten
+perten collected $23.52 from pot
+perten: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [9c 3h 4h Th]
+Seat 4: Agrotait (button) (small blind) folded on the Turn
+Seat 5: perten (big blind) collected ($23.52)
+
+
+PokerStars Hand #150174165996:  Hold'em Limit ($3/$6 USD) - 2016/03/11 5:53:05 ET
+Table 'Mirphak' 6-max Seat #5 is the button
+Seat 4: Agrotait ($60 in chips)
+Seat 5: perten ($51.52 in chips)
+perten: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+perten: calls $2
+Agrotait: checks
+*** FLOP *** [3d 8s 7s]
+Agrotait: bets $3
+perten: calls $3
+*** TURN *** [3d 8s 7s] [6h]
+Agrotait: checks
+perten: checks
+*** RIVER *** [3d 8s 7s 6h] [8h]
+Agrotait: checks
+perten: checks
+*** SHOW DOWN ***
+Agrotait: shows [Jd 2d] (a pair of Eights)
+perten: shows [2h 3h] (two pair, Eights and Threes)
+perten collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3d 8s 7s 6h 8h]
+Seat 4: Agrotait (big blind) showed [Jd 2d] and lost with a pair of Eights
+Seat 5: perten (button) (small blind) showed [2h 3h] and won ($11.76) with two pair, Eights and Threes
+
+

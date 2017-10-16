@@ -1,0 +1,96 @@
+PokerStars Hand #164425359941:  Hold'em Limit ($3/$6 USD) - 2017/01/11 17:38:26 ET
+Table 'Glarona' 6-max Seat #5 is the button
+Seat 3: jarellmaniac ($119 in chips)
+Seat 5: Great_Kang ($121 in chips)
+Great_Kang: posts small blind $1
+jarellmaniac: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+jarellmaniac: calls $3
+*** FLOP *** [9s 7d Ts]
+jarellmaniac: checks
+Great_Kang: bets $3
+jarellmaniac: raises $3 to $6
+Great_Kang: calls $3
+*** TURN *** [9s 7d Ts] [Ac]
+jarellmaniac: checks
+Great_Kang: bets $6
+jarellmaniac: calls $6
+*** RIVER *** [9s 7d Ts Ac] [Jc]
+jarellmaniac: checks
+Great_Kang: bets $6
+jarellmaniac: calls $6
+*** SHOW DOWN ***
+Great_Kang: shows [8s Jd] (a straight, Seven to Jack)
+jarellmaniac: shows [Js Td] (two pair, Jacks and Tens)
+Great_Kang collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9s 7d Ts Ac Jc]
+Seat 3: jarellmaniac (big blind) showed [Js Td] and lost with two pair, Jacks and Tens
+Seat 5: Great_Kang (button) (small blind) showed [8s Jd] and won ($47.50) with a straight, Seven to Jack
+
+
+PokerStars Hand #164425400478:  Hold'em Limit ($3/$6 USD) - 2017/01/11 17:39:08 ET
+Table 'Glarona' 6-max Seat #3 is the button
+Seat 3: jarellmaniac ($95 in chips)
+Seat 5: Great_Kang ($144.50 in chips)
+jarellmaniac: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+jarellmaniac: raises $3 to $6
+B_loJkl joins the table at seat #4
+Great_Kang: calls $3
+*** FLOP *** [Th 9s 4d]
+Great_Kang: checks
+jarellmaniac: bets $3
+Great_Kang: calls $3
+*** TURN *** [Th 9s 4d] [4s]
+Great_Kang: checks
+jarellmaniac: bets $6
+Great_Kang: raises $6 to $12
+jarellmaniac: calls $6
+*** RIVER *** [Th 9s 4d 4s] [5d]
+Great_Kang: bets $6
+jarellmaniac: calls $6
+*** SHOW DOWN ***
+Great_Kang: shows [8d 4c] (three of a kind, Fours)
+jarellmaniac: shows [8h 8s] (two pair, Eights and Fours)
+Great_Kang collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Th 9s 4d 4s 5d]
+Seat 3: jarellmaniac (button) (small blind) showed [8h 8s] and lost with two pair, Eights and Fours
+Seat 5: Great_Kang (big blind) showed [8d 4c] and won ($53.50) with three of a kind, Fours
+
+
+PokerStars Hand #164425495245:  Hold'em Limit ($3/$6 USD) - 2017/01/11 17:40:48 ET
+Table 'Glarona' 6-max Seat #5 is the button
+Seat 3: jarellmaniac ($68 in chips)
+Seat 5: Great_Kang ($171 in chips)
+Great_Kang: posts small blind $1
+jarellmaniac: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+jarellmaniac: calls $3
+*** FLOP *** [Qs 2h Js]
+jarellmaniac: checks
+Great_Kang: bets $3
+jarellmaniac: calls $3
+*** TURN *** [Qs 2h Js] [Ah]
+jarellmaniac: checks
+Great_Kang: checks
+*** RIVER *** [Qs 2h Js Ah] [9h]
+jarellmaniac: checks
+Great_Kang: checks
+*** SHOW DOWN ***
+jarellmaniac: shows [2c Kh] (a pair of Deuces)
+Great_Kang: shows [6d 9c] (a pair of Nines)
+Great_Kang collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qs 2h Js Ah 9h]
+Seat 3: jarellmaniac (big blind) showed [2c Kh] and lost with a pair of Deuces
+Seat 5: Great_Kang (button) (small blind) showed [6d 9c] and won ($17.64) with a pair of Nines
+
+

@@ -1,0 +1,57 @@
+PokerStars Hand #168062818501:  Hold'em Limit ($3/$6 USD) - 2017/03/24 19:20:48 ET
+Table 'Diadem' 6-max Seat #6 is the button
+Seat 4: FHstyles ($60 in chips)
+Seat 6: ManuelSikora ($37.94 in chips)
+ManuelSikora: posts small blind $1
+FHstyles: posts big blind $3
+*** HOLE CARDS ***
+ManuelSikora: raises $3 to $6
+FHstyles: raises $3 to $9
+ManuelSikora: raises $3 to $12
+Betting is capped
+FHstyles: calls $3
+*** FLOP *** [Ks Td 5c]
+GRAILKO joins the table at seat #1
+FHstyles: checks
+ManuelSikora: bets $3
+FHstyles: calls $3
+*** TURN *** [Ks Td 5c] [9s]
+FHstyles: checks
+ManuelSikora: checks
+*** RIVER *** [Ks Td 5c 9s] [2d]
+FHstyles: checks
+ManuelSikora: checks
+*** SHOW DOWN ***
+FHstyles: shows [7h As] (high card Ace)
+ManuelSikora: shows [3d 3s] (a pair of Threes)
+ManuelSikora collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ks Td 5c 9s 2d]
+Seat 4: FHstyles (big blind) showed [7h As] and lost with high card Ace
+Seat 6: ManuelSikora (button) (small blind) showed [3d 3s] and won ($29.50) with a pair of Threes
+
+
+PokerStars Hand #168062836046:  Hold'em Limit ($3/$6 USD) - 2017/03/24 19:21:12 ET
+Table 'Diadem' 6-max Seat #4 is the button
+Seat 4: FHstyles ($45 in chips)
+Seat 6: ManuelSikora ($52.44 in chips)
+FHstyles: posts small blind $1
+ManuelSikora: posts big blind $3
+*** HOLE CARDS ***
+FHstyles: raises $3 to $6
+ManuelSikora: calls $3
+*** FLOP *** [Ad 7h Ks]
+ManuelSikora: checks
+FHstyles: bets $3
+ManuelSikora: folds
+Uncalled bet ($3) returned to FHstyles
+FHstyles collected $11.76 from pot
+FHstyles: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ad 7h Ks]
+Seat 4: FHstyles (button) (small blind) collected ($11.76)
+Seat 6: ManuelSikora (big blind) folded on the Flop
+
+

@@ -1,0 +1,31 @@
+PokerStars Hand #151466614995:  Hold'em Limit ($3/$6 USD) - 2016/04/05 9:58:24 ET
+Table 'Pythia' 6-max Seat #3 is the button
+Seat 3: owenheadch ($600 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+owenheadch: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+owenheadch: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [6h Td 3h]
+VolkovDmitri: checks
+owenheadch: checks
+*** TURN *** [6h Td 3h] [4h]
+VolkovDmitri: bets $6
+owenheadch: calls $6
+*** RIVER *** [6h Td 3h 4h] [Kc]
+VolkovDmitri: checks
+owenheadch: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+owenheadch: shows [8c 4c] (a pair of Fours)
+VolkovDmitri: mucks hand
+HomerJS 1987 joins the table at seat #6
+owenheadch collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6h Td 3h 4h Kc]
+Seat 3: owenheadch (button) (small blind) showed [8c 4c] and won ($35.50) with a pair of Fours
+Seat 4: VolkovDmitri (big blind) mucked
+
+

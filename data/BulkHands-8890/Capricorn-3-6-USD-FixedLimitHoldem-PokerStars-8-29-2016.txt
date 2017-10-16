@@ -1,0 +1,32 @@
+PokerStars Hand #157904933176:  Hold'em Limit ($3/$6 USD) - 2016/08/29 16:29:58 ET
+Table 'Capricorn' 6-max Seat #5 is the button
+Seat 3: fishbla ($141.56 in chips)
+Seat 5: Actionni13 ($192.66 in chips)
+Actionni13: posts small blind $1
+vestimokrec: is sitting out
+fishbla: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+fishbla: raises $3 to $9
+Actionni13: calls $3
+*** FLOP *** [3s Jh Kc]
+fishbla: bets $3
+Actionni13: calls $3
+*** TURN *** [3s Jh Kc] [6h]
+fishbla: bets $6
+Actionni13: raises $6 to $12
+fishbla: calls $6
+*** RIVER *** [3s Jh Kc 6h] [5h]
+fishbla: checks
+Actionni13: checks
+*** SHOW DOWN ***
+fishbla: shows [Ah 6c] (a pair of Sixes)
+Actionni13: shows [8c 8h] (a pair of Eights)
+Actionni13 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3s Jh Kc 6h 5h]
+Seat 3: fishbla (big blind) showed [Ah 6c] and lost with a pair of Sixes
+Seat 5: Actionni13 (button) (small blind) showed [8c 8h] and won ($47.50) with a pair of Eights
+
+

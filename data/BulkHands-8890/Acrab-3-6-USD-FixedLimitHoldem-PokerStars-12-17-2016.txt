@@ -1,0 +1,87 @@
+PokerStars Hand #163064318472:  Hold'em Limit ($3/$6 USD) - 2016/12/16 22:29:10 ET
+Table 'Acrab' 6-max Seat #1 is the button
+Seat 1: LifeisagameX ($84 in chips)
+Seat 5: HL520 ($31 in chips)
+LifeisagameX: posts small blind $1
+HL520: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+HL520: calls $3
+*** FLOP *** [Kc 4d 7c]
+HL520: checks
+LifeisagameX: checks
+*** TURN *** [Kc 4d 7c] [Kh]
+HL520: bets $6
+LifeisagameX: folds
+Uncalled bet ($6) returned to HL520
+HL520 collected $11.76 from pot
+HL520: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kc 4d 7c Kh]
+Seat 1: LifeisagameX (button) (small blind) folded on the Turn
+Seat 5: HL520 (big blind) collected ($11.76)
+
+
+PokerStars Hand #163064351334:  Hold'em Limit ($3/$6 USD) - 2016/12/16 22:30:12 ET
+Table 'Acrab' 6-max Seat #5 is the button
+Seat 1: LifeisagameX ($84 in chips)
+Seat 5: HL520 ($36.76 in chips)
+HL520: posts small blind $1
+LifeisagameX: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt joins the table at seat #6
+HL520: raises $3 to $6
+LifeisagameX: calls $3
+*** FLOP *** [3d Ks 7s]
+LifeisagameX: checks
+HL520: bets $3
+LifeisagameX: calls $3
+*** TURN *** [3d Ks 7s] [8c]
+LifeisagameX: checks
+HL520: bets $6
+LifeisagameX: raises $6 to $12
+HL520: calls $6
+*** RIVER *** [3d Ks 7s 8c] [6c]
+LifeisagameX: checks
+HL520: checks
+*** SHOW DOWN ***
+LifeisagameX: shows [6d 5h] (a pair of Sixes)
+HL520: mucks hand
+LifeisagameX collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [3d Ks 7s 8c 6c]
+Seat 1: LifeisagameX (big blind) showed [6d 5h] and won ($41.50) with a pair of Sixes
+Seat 5: HL520 (button) (small blind) mucked
+
+
+PokerStars Hand #163064369831:  Hold'em Limit ($3/$6 USD) - 2016/12/16 22:30:59 ET
+Table 'Acrab' 6-max Seat #1 is the button
+Seat 1: LifeisagameX ($104.50 in chips)
+Seat 5: HL520 ($15.76 in chips)
+LifeisagameX: posts small blind $1
+HL520: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+HL520: calls $3
+*** FLOP *** [Qc 3c 5h]
+HL520: checks
+LifeisagameX: checks
+*** TURN *** [Qc 3c 5h] [Ts]
+HL520: checks
+LifeisagameX: checks
+*** RIVER *** [Qc 3c 5h Ts] [7s]
+HL520: checks
+LifeisagameX: checks
+*** SHOW DOWN ***
+HL520: shows [2h 9h] (high card Queen)
+LifeisagameX: shows [Jc 8d] (high card Queen - Jack kicker)
+LifeisagameX collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qc 3c 5h Ts 7s]
+Seat 1: LifeisagameX (button) (small blind) showed [Jc 8d] and won ($11.76) with high card Queen
+Seat 5: HL520 (big blind) showed [2h 9h] and lost with high card Queen
+
+

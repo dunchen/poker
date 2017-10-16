@@ -1,0 +1,738 @@
+PokerStars Hand #162271811201:  Hold'em Limit ($3/$6 USD) - 2016/12/01 21:37:37 ET
+Table 'Rosa' 10-max Seat #6 is the button
+Seat 6: Appendix Z ($61.94 in chips)
+Seat 7: xRauIx ($81 in chips)
+Appendix Z: posts small blind $1
+xRauIx: posts big blind $3
+*** HOLE CARDS ***
+Appendix Z: raises $3 to $6
+xRauIx: calls $3
+*** FLOP *** [4d 4c Ah]
+xRauIx: checks
+Appendix Z: bets $3
+xRauIx: calls $3
+*** TURN *** [4d 4c Ah] [Th]
+xRauIx: checks
+Appendix Z: checks
+*** RIVER *** [4d 4c Ah Th] [5h]
+xRauIx: bets $6
+Appendix Z: calls $6
+*** SHOW DOWN ***
+xRauIx: shows [Ad 4s] (a full house, Fours full of Aces)
+Appendix Z: mucks hand
+xRauIx collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4d 4c Ah Th 5h]
+Seat 6: Appendix Z (button) (small blind) mucked
+Seat 7: xRauIx (big blind) showed [Ad 4s] and won ($29.50) with a full house, Fours full of Aces
+
+
+PokerStars Hand #162272259085:  Hold'em Limit ($3/$6 USD) - 2016/12/01 21:54:55 ET
+Table 'Rosa' 10-max Seat #5 is the button
+Seat 5: mylifeluvsol ($86.89 in chips)
+Seat 8: ToDaFelt ($195.41 in chips)
+mylifeluvsol: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+mylifeluvsol: folds
+Uncalled bet ($2) returned to ToDaFelt
+ToDaFelt collected $2 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: mylifeluvsol (button) (small blind) folded before Flop
+Seat 8: ToDaFelt (big blind) collected ($2)
+
+
+PokerStars Hand #162272243495:  Hold'em Limit ($3/$6 USD) - 2016/12/01 21:54:18 ET
+Table 'Rosa' 10-max Seat #5 is the button
+Seat 5: mylifeluvsol ($75.39 in chips)
+Seat 8: ToDaFelt ($207.41 in chips)
+mylifeluvsol: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+mylifeluvsol: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [9d 6h 2s]
+ToDaFelt: checks
+mylifeluvsol: bets $3
+ToDaFelt: calls $3
+*** TURN *** [9d 6h 2s] [Kh]
+ToDaFelt: checks
+mylifeluvsol: checks
+*** RIVER *** [9d 6h 2s Kh] [2c]
+ToDaFelt: bets $6
+mylifeluvsol: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [4d 5d] (a pair of Deuces)
+mylifeluvsol: shows [4h 4c] (two pair, Fours and Deuces)
+mylifeluvsol collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9d 6h 2s Kh 2c]
+Seat 5: mylifeluvsol (button) (small blind) showed [4h 4c] and won ($29.50) with two pair, Fours and Deuces
+Seat 8: ToDaFelt (big blind) showed [4d 5d] and lost with a pair of Deuces
+
+
+PokerStars Hand #162272256503:  Hold'em Limit ($3/$6 USD) - 2016/12/01 21:54:49 ET
+Table 'Rosa' 10-max Seat #8 is the button
+Seat 5: mylifeluvsol ($89.89 in chips)
+Seat 8: ToDaFelt ($192.41 in chips)
+ToDaFelt: posts small blind $1
+mylifeluvsol: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+mylifeluvsol: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $6 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 5: mylifeluvsol (big blind) folded before Flop
+Seat 8: ToDaFelt (button) (small blind) collected ($6)
+
+
+PokerStars Hand #162272261263:  Hold'em Limit ($3/$6 USD) - 2016/12/01 21:55:00 ET
+Table 'Rosa' 10-max Seat #8 is the button
+Seat 5: mylifeluvsol ($85.89 in chips)
+Seat 8: ToDaFelt ($196.41 in chips)
+ToDaFelt: posts small blind $1
+mylifeluvsol: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+mylifeluvsol: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $6 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 5: mylifeluvsol (big blind) folded before Flop
+Seat 8: ToDaFelt (button) (small blind) collected ($6)
+
+
+PokerStars Hand #162272268534:  Hold'em Limit ($3/$6 USD) - 2016/12/01 21:55:18 ET
+Table 'Rosa' 10-max Seat #5 is the button
+Seat 5: mylifeluvsol ($78.89 in chips)
+Seat 8: ToDaFelt ($203.41 in chips)
+mylifeluvsol: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+mylifeluvsol: calls $2
+ToDaFelt: checks
+*** FLOP *** [Ks 4c 2d]
+ToDaFelt: bets $3
+mylifeluvsol: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $5.88 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Ks 4c 2d]
+Seat 5: mylifeluvsol (button) (small blind) folded on the Flop
+Seat 8: ToDaFelt (big blind) collected ($5.88)
+
+
+PokerStars Hand #162272263665:  Hold'em Limit ($3/$6 USD) - 2016/12/01 21:55:06 ET
+Table 'Rosa' 10-max Seat #5 is the button
+Seat 5: mylifeluvsol ($82.89 in chips)
+Seat 8: ToDaFelt ($199.41 in chips)
+mylifeluvsol: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+mylifeluvsol: folds
+Uncalled bet ($2) returned to ToDaFelt
+ToDaFelt collected $2 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: mylifeluvsol (button) (small blind) folded before Flop
+Seat 8: ToDaFelt (big blind) collected ($2)
+
+
+PokerStars Hand #162272265768:  Hold'em Limit ($3/$6 USD) - 2016/12/01 21:55:11 ET
+Table 'Rosa' 10-max Seat #8 is the button
+Seat 5: mylifeluvsol ($81.89 in chips)
+Seat 8: ToDaFelt ($200.41 in chips)
+ToDaFelt: posts small blind $1
+mylifeluvsol: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+mylifeluvsol: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $6 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 5: mylifeluvsol (big blind) folded before Flop
+Seat 8: ToDaFelt (button) (small blind) collected ($6)
+
+
+PokerStars Hand #162272276820:  Hold'em Limit ($3/$6 USD) - 2016/12/01 21:55:40 ET
+Table 'Rosa' 10-max Seat #8 is the button
+Seat 5: mylifeluvsol ($75.89 in chips)
+Seat 8: ToDaFelt ($206.29 in chips)
+ToDaFelt: posts small blind $1
+mylifeluvsol: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+mylifeluvsol: raises $3 to $9
+ToDaFelt: calls $3
+*** FLOP *** [8h Kd Ad]
+mylifeluvsol: bets $3
+ToDaFelt: folds
+Uncalled bet ($3) returned to mylifeluvsol
+mylifeluvsol collected $17.64 from pot
+mylifeluvsol: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8h Kd Ad]
+Seat 5: mylifeluvsol (big blind) collected ($17.64)
+Seat 8: ToDaFelt (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #162272287718:  Hold'em Limit ($3/$6 USD) - 2016/12/01 21:56:10 ET
+Table 'Rosa' 10-max Seat #8 is the button
+Seat 5: mylifeluvsol ($83.53 in chips)
+Seat 8: ToDaFelt ($198.29 in chips)
+ToDaFelt: posts small blind $1
+mylifeluvsol: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+mylifeluvsol: raises $3 to $9
+ToDaFelt: calls $3
+*** FLOP *** [As 9d 5h]
+mylifeluvsol: bets $3
+ToDaFelt: calls $3
+*** TURN *** [As 9d 5h] [2h]
+mylifeluvsol: bets $6
+ToDaFelt: raises $6 to $12
+mylifeluvsol: folds
+Uncalled bet ($6) returned to ToDaFelt
+ToDaFelt collected $35.50 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [As 9d 5h 2h]
+Seat 5: mylifeluvsol (big blind) folded on the Turn
+Seat 8: ToDaFelt (button) (small blind) collected ($35.50)
+
+
+PokerStars Hand #162272285785:  Hold'em Limit ($3/$6 USD) - 2016/12/01 21:56:04 ET
+Table 'Rosa' 10-max Seat #5 is the button
+Seat 5: mylifeluvsol ($84.53 in chips)
+Seat 8: ToDaFelt ($197.29 in chips)
+mylifeluvsol: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+mylifeluvsol: folds
+Uncalled bet ($2) returned to ToDaFelt
+ToDaFelt collected $2 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: mylifeluvsol (button) (small blind) folded before Flop
+Seat 8: ToDaFelt (big blind) collected ($2)
+
+
+PokerStars Hand #162272298523:  Hold'em Limit ($3/$6 USD) - 2016/12/01 21:56:39 ET
+Table 'Rosa' 10-max Seat #5 is the button
+Seat 5: mylifeluvsol ($65.53 in chips)
+Seat 8: ToDaFelt ($215.79 in chips)
+mylifeluvsol: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+mylifeluvsol: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [5d 6s 8s]
+ToDaFelt: bets $3
+mylifeluvsol: calls $3
+*** TURN *** [5d 6s 8s] [Td]
+ToDaFelt: bets $6
+mylifeluvsol: raises $6 to $12
+ToDaFelt: raises $6 to $18
+mylifeluvsol: calls $6
+*** RIVER *** [5d 6s 8s Td] [Ks]
+ToDaFelt: bets $6
+mylifeluvsol: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [4h 7c] (a straight, Four to Eight)
+mylifeluvsol: mucks hand
+ToDaFelt collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [5d 6s 8s Td Ks]
+Seat 5: mylifeluvsol (button) (small blind) mucked
+Seat 8: ToDaFelt (big blind) showed [4h 7c] and won ($65.50) with a straight, Four to Eight
+
+
+PokerStars Hand #162272310493:  Hold'em Limit ($3/$6 USD) - 2016/12/01 21:57:11 ET
+Table 'Rosa' 10-max Seat #8 is the button
+Seat 5: mylifeluvsol ($32.53 in chips)
+Seat 8: ToDaFelt ($248.29 in chips)
+ToDaFelt: posts small blind $1
+mylifeluvsol: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+mylifeluvsol: calls $3
+*** FLOP *** [8c 2c 2s]
+mylifeluvsol: checks
+ToDaFelt: bets $3
+mylifeluvsol: calls $3
+*** TURN *** [8c 2c 2s] [2h]
+mylifeluvsol: checks
+ToDaFelt: bets $6
+mylifeluvsol: raises $6 to $12
+ToDaFelt: calls $6
+*** RIVER *** [8c 2c 2s 2h] [5h]
+mylifeluvsol: bets $6
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+mylifeluvsol: shows [2d 9s] (four of a kind, Deuces)
+ToDaFelt: mucks hand
+mylifeluvsol collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [8c 2c 2s 2h 5h]
+Seat 5: mylifeluvsol (big blind) showed [2d 9s] and won ($53.50) with four of a kind, Deuces
+Seat 8: ToDaFelt (button) (small blind) mucked
+
+
+PokerStars Hand #162272342227:  Hold'em Limit ($3/$6 USD) - 2016/12/01 21:58:36 ET
+Table 'Rosa' 10-max Seat #8 is the button
+Seat 5: mylifeluvsol ($73.53 in chips)
+Seat 8: ToDaFelt ($206.29 in chips)
+ToDaFelt: posts small blind $1
+mylifeluvsol: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+mylifeluvsol: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $6 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 5: mylifeluvsol (big blind) folded before Flop
+Seat 8: ToDaFelt (button) (small blind) collected ($6)
+
+
+PokerStars Hand #162272344119:  Hold'em Limit ($3/$6 USD) - 2016/12/01 21:58:41 ET
+Table 'Rosa' 10-max Seat #5 is the button
+Seat 5: mylifeluvsol ($70.53 in chips)
+Seat 8: ToDaFelt ($209.29 in chips)
+mylifeluvsol: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+mylifeluvsol: calls $2
+ToDaFelt: raises $3 to $6
+mylifeluvsol: calls $3
+*** FLOP *** [8c 5h Jh]
+ToDaFelt: bets $3
+mylifeluvsol: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $11.76 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8c 5h Jh]
+Seat 5: mylifeluvsol (button) (small blind) folded on the Flop
+Seat 8: ToDaFelt (big blind) collected ($11.76)
+
+
+PokerStars Hand #162272348729:  Hold'em Limit ($3/$6 USD) - 2016/12/01 21:58:54 ET
+Table 'Rosa' 10-max Seat #8 is the button
+Seat 5: mylifeluvsol ($64.53 in chips)
+Seat 8: ToDaFelt ($215.05 in chips)
+ToDaFelt: posts small blind $1
+mylifeluvsol: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: folds
+Uncalled bet ($2) returned to mylifeluvsol
+mylifeluvsol collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: mylifeluvsol (big blind) collected ($2)
+Seat 8: ToDaFelt (button) (small blind) folded before Flop
+
+
+PokerStars Hand #162272320277:  Hold'em Limit ($3/$6 USD) - 2016/12/01 21:57:37 ET
+Table 'Rosa' 10-max Seat #5 is the button
+Seat 5: mylifeluvsol ($59.03 in chips)
+Seat 8: ToDaFelt ($221.29 in chips)
+mylifeluvsol: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+mylifeluvsol: calls $2
+ToDaFelt: raises $3 to $6
+mylifeluvsol: calls $3
+*** FLOP *** [5h 9s Kd]
+ToDaFelt: bets $3
+mylifeluvsol: calls $3
+*** TURN *** [5h 9s Kd] [Qd]
+ToDaFelt: checks
+mylifeluvsol: bets $6
+ToDaFelt: calls $6
+*** RIVER *** [5h 9s Kd Qd] [Qh]
+ToDaFelt: checks
+mylifeluvsol: checks
+*** SHOW DOWN ***
+ToDaFelt: shows [7h Td] (a pair of Queens)
+mylifeluvsol: shows [9d 5d] (two pair, Queens and Nines)
+mylifeluvsol collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5h 9s Kd Qd Qh]
+Seat 5: mylifeluvsol (button) (small blind) showed [9d 5d] and won ($29.50) with two pair, Queens and Nines
+Seat 8: ToDaFelt (big blind) showed [7h Td] and lost with a pair of Queens
+
+
+PokerStars Hand #162272356281:  Hold'em Limit ($3/$6 USD) - 2016/12/01 21:59:14 ET
+Table 'Rosa' 10-max Seat #8 is the button
+Seat 5: mylifeluvsol ($64.53 in chips)
+Seat 8: ToDaFelt ($215.05 in chips)
+ToDaFelt: posts small blind $1
+mylifeluvsol: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+mylifeluvsol: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $6 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 5: mylifeluvsol (big blind) folded before Flop
+Seat 8: ToDaFelt (button) (small blind) collected ($6)
+
+
+PokerStars Hand #162272351357:  Hold'em Limit ($3/$6 USD) - 2016/12/01 21:59:01 ET
+Table 'Rosa' 10-max Seat #5 is the button
+Seat 5: mylifeluvsol ($65.53 in chips)
+Seat 8: ToDaFelt ($214.05 in chips)
+mylifeluvsol: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+mylifeluvsol: folds
+Uncalled bet ($2) returned to ToDaFelt
+ToDaFelt collected $2 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: mylifeluvsol (button) (small blind) folded before Flop
+Seat 8: ToDaFelt (big blind) collected ($2)
+
+
+PokerStars Hand #162272371228:  Hold'em Limit ($3/$6 USD) - 2016/12/01 21:59:54 ET
+Table 'Rosa' 10-max Seat #8 is the button
+Seat 5: mylifeluvsol ($88.03 in chips)
+Seat 8: ToDaFelt ($191.05 in chips)
+ToDaFelt: posts small blind $1
+mylifeluvsol: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+mylifeluvsol: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 5: mylifeluvsol (big blind) folded before Flop
+Seat 8: ToDaFelt (button) (small blind) collected ($6)
+
+
+PokerStars Hand #162272358617:  Hold'em Limit ($3/$6 USD) - 2016/12/01 21:59:21 ET
+Table 'Rosa' 10-max Seat #5 is the button
+Seat 5: mylifeluvsol ($61.53 in chips)
+Seat 8: ToDaFelt ($218.05 in chips)
+mylifeluvsol: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+mylifeluvsol: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [8h Jd 4d]
+ToDaFelt: bets $3
+mylifeluvsol: calls $3
+*** TURN *** [8h Jd 4d] [Tc]
+ToDaFelt: bets $6
+mylifeluvsol: raises $6 to $12
+ToDaFelt: calls $6
+*** RIVER *** [8h Jd 4d Tc] [3c]
+ToDaFelt: checks
+mylifeluvsol: bets $6
+ToDaFelt: calls $6
+*** SHOW DOWN ***
+mylifeluvsol: shows [Ks Jh] (a pair of Jacks)
+ToDaFelt: mucks hand
+mylifeluvsol collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [8h Jd 4d Tc 3c]
+Seat 5: mylifeluvsol (button) (small blind) showed [Ks Jh] and won ($53.50) with a pair of Jacks
+Seat 8: ToDaFelt (big blind) mucked
+
+
+PokerStars Hand #162272389528:  Hold'em Limit ($3/$6 USD) - 2016/12/01 22:00:43 ET
+Table 'Rosa' 10-max Seat #8 is the button
+Seat 5: mylifeluvsol ($60.03 in chips)
+Seat 8: ToDaFelt ($218.55 in chips)
+ToDaFelt: posts small blind $1
+mylifeluvsol: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+mylifeluvsol: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $6 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 5: mylifeluvsol (big blind) folded before Flop
+Seat 8: ToDaFelt (button) (small blind) collected ($6)
+
+
+PokerStars Hand #162272379300:  Hold'em Limit ($3/$6 USD) - 2016/12/01 22:00:16 ET
+Table 'Rosa' 10-max Seat #5 is the button
+Seat 5: mylifeluvsol ($81.03 in chips)
+Seat 8: ToDaFelt ($198.05 in chips)
+mylifeluvsol: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+mylifeluvsol: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [Th Td 4d]
+ToDaFelt: bets $3
+mylifeluvsol: calls $3
+*** TURN *** [Th Td 4d] [5s]
+ToDaFelt: bets $6
+mylifeluvsol: raises $6 to $12
+ToDaFelt: calls $6
+*** RIVER *** [Th Td 4d 5s] [2c]
+ToDaFelt: checks
+mylifeluvsol: checks
+*** SHOW DOWN ***
+ToDaFelt: shows [2d Kd] (two pair, Tens and Deuces)
+mylifeluvsol: mucks hand
+ToDaFelt collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Th Td 4d 5s 2c]
+Seat 5: mylifeluvsol (button) (small blind) mucked
+Seat 8: ToDaFelt (big blind) showed [2d Kd] and won ($41.50) with two pair, Tens and Deuces
+
+
+PokerStars Hand #162272392231:  Hold'em Limit ($3/$6 USD) - 2016/12/01 22:00:50 ET
+Table 'Rosa' 10-max Seat #5 is the button
+Seat 5: mylifeluvsol ($57.03 in chips)
+Seat 8: ToDaFelt ($221.55 in chips)
+mylifeluvsol: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+mylifeluvsol: folds
+Uncalled bet ($2) returned to ToDaFelt
+mylifeluvsol leaves the table
+ToDaFelt collected $2 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: mylifeluvsol (button) (small blind) folded before Flop
+Seat 8: ToDaFelt (big blind) collected ($2)
+
+
+PokerStars Hand #162272373741:  Hold'em Limit ($3/$6 USD) - 2016/12/01 22:00:01 ET
+Table 'Rosa' 10-max Seat #5 is the button
+Seat 5: mylifeluvsol ($85.03 in chips)
+Seat 8: ToDaFelt ($194.05 in chips)
+mylifeluvsol: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+mylifeluvsol: folds
+Uncalled bet ($2) returned to ToDaFelt
+ToDaFelt collected $2 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: mylifeluvsol (button) (small blind) folded before Flop
+Seat 8: ToDaFelt (big blind) collected ($2)
+
+
+PokerStars Hand #162272375748:  Hold'em Limit ($3/$6 USD) - 2016/12/01 22:00:07 ET
+Table 'Rosa' 10-max Seat #8 is the button
+Seat 5: mylifeluvsol ($84.03 in chips)
+Seat 8: ToDaFelt ($195.05 in chips)
+ToDaFelt: posts small blind $1
+mylifeluvsol: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+mylifeluvsol: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $6 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 5: mylifeluvsol (big blind) folded before Flop
+Seat 8: ToDaFelt (button) (small blind) collected ($6)
+
+
+PokerStars Hand #162273845353:  Hold'em Limit ($3/$6 USD) - 2016/12/01 23:05:25 ET
+Table 'Rosa' 10-max Seat #9 is the button
+Seat 9: GoliafUa ($183.04 in chips)
+Seat 10: Floofy ($55 in chips)
+GoliafUa: posts small blind $1
+Floofy: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa: raises $3 to $6
+Floofy: folds
+Uncalled bet ($3) returned to GoliafUa
+GoliafUa collected $6 from pot
+GoliafUa: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 9: GoliafUa (button) (small blind) collected ($6)
+Seat 10: Floofy (big blind) folded before Flop
+
+
+PokerStars Hand #162273840707:  Hold'em Limit ($3/$6 USD) - 2016/12/01 23:05:11 ET
+Table 'Rosa' 10-max Seat #10 is the button
+Seat 9: GoliafUa ($174.40 in chips)
+Seat 10: Floofy ($64 in chips)
+Floofy: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+Floofy: raises $3 to $6
+GoliafUa: calls $3
+*** FLOP *** [8s 7h 5d]
+GoliafUa: checks
+Floofy: bets $3
+GoliafUa: calls $3
+*** TURN *** [8s 7h 5d] [9d]
+GoliafUa: checks
+Floofy: checks
+*** RIVER *** [8s 7h 5d 9d] [Kd]
+GoliafUa: bets $6
+Floofy: folds
+Uncalled bet ($6) returned to GoliafUa
+GoliafUa collected $17.64 from pot
+GoliafUa: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8s 7h 5d 9d Kd]
+Seat 9: GoliafUa (big blind) collected ($17.64)
+Seat 10: Floofy (button) (small blind) folded on the River
+
+
+PokerStars Hand #162273834712:  Hold'em Limit ($3/$6 USD) - 2016/12/01 23:04:54 ET
+Table 'Rosa' 10-max Seat #9 is the button
+Seat 9: GoliafUa ($150.90 in chips)
+Seat 10: Floofy ($88 in chips)
+GoliafUa: posts small blind $1
+Floofy: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa: raises $3 to $6
+Floofy: raises $3 to $9
+GoliafUa: calls $3
+*** FLOP *** [Kh Kc Kd]
+Floofy: bets $3
+GoliafUa: calls $3
+*** TURN *** [Kh Kc Kd] [Ks]
+Floofy: bets $6
+GoliafUa: calls $6
+*** RIVER *** [Kh Kc Kd Ks] [2s]
+Floofy: bets $6
+GoliafUa: raises $6 to $12
+Floofy: folds
+Uncalled bet ($6) returned to GoliafUa
+GoliafUa collected $47.50 from pot
+GoliafUa: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Kh Kc Kd Ks 2s]
+Seat 9: GoliafUa (button) (small blind) collected ($47.50)
+Seat 10: Floofy (big blind) folded on the River
+
+
+PokerStars Hand #162271797072:  Hold'em Limit ($3/$6 USD) - 2016/12/01 21:37:04 ET
+Table 'Rosa' 10-max Seat #7 is the button
+Seat 6: Appendix Z ($38.44 in chips)
+Seat 7: xRauIx ($105 in chips)
+xRauIx: posts small blind $1
+assitoni: is sitting out
+Appendix Z: posts big blind $3
+*** HOLE CARDS ***
+xRauIx: raises $3 to $6
+assitoni leaves the table
+Appendix Z: raises $3 to $9
+xRauIx: calls $3
+*** FLOP *** [8h 8d 7s]
+Appendix Z: bets $3
+xRauIx: calls $3
+*** TURN *** [8h 8d 7s] [9s]
+Appendix Z: bets $6
+xRauIx: raises $6 to $12
+Appendix Z: calls $6
+*** RIVER *** [8h 8d 7s 9s] [3s]
+Appendix Z: bets $6
+xRauIx: folds
+Uncalled bet ($6) returned to Appendix Z
+Appendix Z collected $47.50 from pot
+Appendix Z: shows [Tc 4h] (a pair of Eights)
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8h 8d 7s 9s 3s]
+Seat 6: Appendix Z (big blind) collected ($47.50)
+Seat 7: xRauIx (button) (small blind) folded on the River
+
+
+PokerStars Hand #162271831870:  Hold'em Limit ($3/$6 USD) - 2016/12/01 21:38:24 ET
+Table 'Rosa' 10-max Seat #6 is the button
+Seat 6: Appendix Z ($22.94 in chips)
+Seat 7: xRauIx ($119 in chips)
+Appendix Z: posts small blind $1
+xRauIx: posts big blind $3
+*** HOLE CARDS ***
+Appendix Z: raises $3 to $6
+xRauIx: calls $3
+*** FLOP *** [As 3s 5c]
+xRauIx: checks
+Appendix Z: bets $3
+xRauIx: folds
+Uncalled bet ($3) returned to Appendix Z
+Appendix Z collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [As 3s 5c]
+Seat 6: Appendix Z (button) (small blind) collected ($11.76)
+Seat 7: xRauIx (big blind) folded on the Flop
+
+
+PokerStars Hand #162271822554:  Hold'em Limit ($3/$6 USD) - 2016/12/01 21:38:03 ET
+Table 'Rosa' 10-max Seat #7 is the button
+Seat 6: Appendix Z ($46.94 in chips)
+Seat 7: xRauIx ($95.50 in chips)
+xRauIx: posts small blind $1
+Appendix Z: posts big blind $3
+*** HOLE CARDS ***
+xRauIx: raises $3 to $6
+ToDaFelt joins the table at seat #8
+Appendix Z: raises $3 to $9
+xRauIx: calls $3
+*** FLOP *** [Ks 2h 9h]
+mylifeluvsol joins the table at seat #5
+Appendix Z: checks
+xRauIx: bets $3
+Appendix Z: calls $3
+*** TURN *** [Ks 2h 9h] [Kd]
+Appendix Z: checks
+xRauIx: bets $6
+Appendix Z: calls $6
+*** RIVER *** [Ks 2h 9h Kd] [8s]
+Appendix Z: checks
+xRauIx: bets $6
+Appendix Z: calls $6
+*** SHOW DOWN ***
+xRauIx: shows [9d Th] (two pair, Kings and Nines)
+Appendix Z: mucks hand
+xRauIx collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Ks 2h 9h Kd 8s]
+Seat 6: Appendix Z (big blind) mucked
+Seat 7: xRauIx (button) (small blind) showed [9d Th] and won ($47.50) with two pair, Kings and Nines
+
+

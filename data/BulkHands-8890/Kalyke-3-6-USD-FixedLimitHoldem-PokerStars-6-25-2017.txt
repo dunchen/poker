@@ -1,0 +1,49 @@
+PokerStars Hand #172228147201:  Hold'em Limit ($3/$6 USD) - 2017/06/25 13:53:57 ET
+Table 'Kalyke' 6-max Seat #3 is the button
+Seat 3: x0ticer ($26 in chips)
+Seat 4: Actionni13 ($154 in chips)
+x0ticer: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+x0ticer: calls $2
+Actionni13: raises $3 to $6
+x0ticer: folds
+Uncalled bet ($3) returned to Actionni13
+Actionni13 collected $6 from pot
+Actionni13: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: x0ticer (button) (small blind) folded before Flop
+Seat 4: Actionni13 (big blind) collected ($6)
+
+
+PokerStars Hand #172228161170:  Hold'em Limit ($3/$6 USD) - 2017/06/25 13:54:14 ET
+Table 'Kalyke' 6-max Seat #4 is the button
+Seat 3: x0ticer ($23 in chips)
+Seat 4: Actionni13 ($157 in chips)
+Actionni13: posts small blind $1
+x0ticer: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+x0ticer: calls $3
+*** FLOP *** [Js 9c 9d]
+x0ticer: checks
+Actionni13: bets $3
+x0ticer: calls $3
+*** TURN *** [Js 9c 9d] [Kd]
+x0ticer: checks
+Actionni13: checks
+*** RIVER *** [Js 9c 9d Kd] [Kc]
+x0ticer: checks
+Actionni13: checks
+*** SHOW DOWN ***
+x0ticer: shows [Qh 8h] (two pair, Kings and Nines)
+Actionni13: mucks hand
+x0ticer collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Js 9c 9d Kd Kc]
+Seat 3: x0ticer (big blind) showed [Qh 8h] and won ($17.64) with two pair, Kings and Nines
+Seat 4: Actionni13 (button) (small blind) mucked
+
+

@@ -1,0 +1,33 @@
+PokerStars Hand #144688385946:  Hold'em Limit ($3/$6 USD) - 2015/12/01 19:29:47 ET
+Table 'Mitaka III' 6-max Seat #6 is the button
+Seat 5: karambakilla ($71.94 in chips)
+Seat 6: rascal_319 ($117 in chips)
+rascal_319: posts small blind $1
+GRAILKO: is sitting out
+craaa: is sitting out
+karambakilla: posts big blind $3
+*** HOLE CARDS ***
+GRAILKO leaves the table
+rascal_319: raises $3 to $6
+karambakilla: calls $3
+*** FLOP *** [Ah 7s Td]
+karambakilla: checks
+rascal_319: checks
+*** TURN *** [Ah 7s Td] [Qs]
+karambakilla: bets $6
+rascal_319: calls $6
+*** RIVER *** [Ah 7s Td Qs] [Ks]
+karambakilla: checks
+craaa leaves the table
+rascal_319: checks
+*** SHOW DOWN ***
+karambakilla: shows [Tc 8c] (a pair of Tens)
+rascal_319: shows [6d Qd] (a pair of Queens)
+rascal_319 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Ah 7s Td Qs Ks]
+Seat 5: karambakilla (big blind) showed [Tc 8c] and lost with a pair of Tens
+Seat 6: rascal_319 (button) (small blind) showed [6d Qd] and won ($23.52) with a pair of Queens
+
+

@@ -1,0 +1,48 @@
+PokerStars Hand #173198607672:  Hold'em Limit ($3/$6 USD) - 2017/07/18 12:48:26 ET
+Table 'Ehrsson' 6-max Seat #2 is the button
+Seat 1: oregordog ($120 in chips)
+Seat 2: vestimokrec ($120 in chips)
+vestimokrec: posts small blind $1
+GoliafUa: is sitting out
+oregordog: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+oregordog: calls $3
+*** FLOP *** [3d 4h 2h]
+oregordog: checks
+vestimokrec: checks
+*** TURN *** [3d 4h 2h] [8s]
+oregordog: bets $6
+vestimokrec: calls $6
+*** RIVER *** [3d 4h 2h 8s] [Ts]
+oregordog: checks
+vestimokrec: bets $6
+oregordog: calls $6
+*** SHOW DOWN ***
+vestimokrec: shows [Qd 2d] (a pair of Deuces)
+oregordog: shows [2s Ks] (a pair of Deuces - King kicker)
+oregordog collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [3d 4h 2h 8s Ts]
+Seat 1: oregordog (big blind) showed [2s Ks] and won ($35.50) with a pair of Deuces
+Seat 2: vestimokrec (button) (small blind) showed [Qd 2d] and lost with a pair of Deuces
+
+
+PokerStars Hand #173198654240:  Hold'em Limit ($3/$6 USD) - 2017/07/18 12:49:36 ET
+Table 'Ehrsson' 6-max Seat #1 is the button
+Seat 1: oregordog ($137.50 in chips)
+Seat 2: vestimokrec ($102 in chips)
+oregordog: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+oregordog: folds
+Uncalled bet ($2) returned to vestimokrec
+vestimokrec collected $2 from pot
+vestimokrec: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: oregordog (button) (small blind) folded before Flop
+Seat 2: vestimokrec (big blind) collected ($2)
+
+

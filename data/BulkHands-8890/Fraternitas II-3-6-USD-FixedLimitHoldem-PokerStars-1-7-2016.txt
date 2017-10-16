@@ -1,0 +1,31 @@
+PokerStars Hand #146639869912:  Hold'em Limit ($3/$6 USD) - 2016/01/07 15:11:00 ET
+Table 'Fraternitas II' 6-max Seat #2 is the button
+Seat 2: LolDnkaments ($130.49 in chips)
+Seat 4: AzureCaper ($82.10 in chips)
+LolDnkaments: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+LolDnkaments: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [2d Qs 5s]
+AzureCaper: checks
+LolDnkaments: bets $3
+AzureCaper: raises $3 to $6
+LolDnkaments: calls $3
+*** TURN *** [2d Qs 5s] [3d]
+AzureCaper: bets $6
+LolDnkaments: calls $6
+*** RIVER *** [2d Qs 5s 3d] [Kc]
+AzureCaper: bets $6
+LolDnkaments: calls $6
+*** SHOW DOWN ***
+AzureCaper: shows [5h 4d] (a pair of Fives)
+LolDnkaments: shows [Th Td] (a pair of Tens)
+LolDnkaments collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2d Qs 5s 3d Kc]
+Seat 2: LolDnkaments (button) (small blind) showed [Th Td] and won ($47.50) with a pair of Tens
+Seat 4: AzureCaper (big blind) showed [5h 4d] and lost with a pair of Fives
+
+

@@ -1,0 +1,56 @@
+PokerStars Hand #171581152663:  Hold'em Limit ($3/$6 USD) - 2017/06/10 3:19:30 ET
+Table 'Mette' 10-max Seat #4 is the button
+Seat 4: shushlo ($72 in chips)
+Seat 5: sim5sim5 ($118.64 in chips)
+shushlo: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+shushlo: raises $3 to $6
+sim5sim5: calls $3
+*** FLOP *** [2d 3s Js]
+sim5sim5: checks
+shushlo: checks
+*** TURN *** [2d 3s Js] [7h]
+sim5sim5: bets $6
+shushlo: folds
+Uncalled bet ($6) returned to sim5sim5
+sim5sim5 collected $11.76 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2d 3s Js 7h]
+Seat 4: shushlo (button) (small blind) folded on the Turn
+Seat 5: sim5sim5 (big blind) collected ($11.76)
+
+
+PokerStars Hand #171581140091:  Hold'em Limit ($3/$6 USD) - 2017/06/10 3:18:46 ET
+Table 'Mette' 10-max Seat #5 is the button
+Seat 4: shushlo ($72 in chips)
+Seat 5: sim5sim5 ($104.14 in chips)
+sim5sim5: posts small blind $1
+shushlo: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+shushlo: calls $3
+*** FLOP *** [9h Ks 3d]
+shushlo: checks
+sim5sim5: bets $3
+shushlo: calls $3
+*** TURN *** [9h Ks 3d] [Jc]
+shushlo: checks
+sim5sim5: bets $6
+shushlo: calls $6
+*** RIVER *** [9h Ks 3d Jc] [2h]
+shushlo: checks
+sim5sim5: bets $6
+shushlo: folds
+Uncalled bet ($6) returned to sim5sim5
+sim5sim5 collected $29.50 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9h Ks 3d Jc 2h]
+Seat 4: shushlo (big blind) folded on the River
+Seat 5: sim5sim5 (button) (small blind) collected ($29.50)
+
+

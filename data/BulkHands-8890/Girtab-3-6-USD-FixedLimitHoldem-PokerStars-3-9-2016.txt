@@ -1,0 +1,66 @@
+PokerStars Hand #150060788911:  Hold'em Limit ($3/$6 USD) - 2016/03/08 19:44:27 ET
+Table 'Girtab' 6-max Seat #4 is the button
+Seat 4: AzureCaper ($72 in chips)
+Seat 5: permafrost07 ($116.38 in chips)
+AzureCaper: posts small blind $1
+permafrost07: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+permafrost07: raises $3 to $9
+AzureCaper: calls $3
+*** FLOP *** [Jd 2d 7h]
+permafrost07: bets $3
+ya$minna joins the table at seat #3
+Zubasa07 joins the table at seat #6
+AzureCaper: calls $3
+*** TURN *** [Jd 2d 7h] [Ad]
+permafrost07: bets $6
+AzureCaper: calls $6
+*** RIVER *** [Jd 2d 7h Ad] [8s]
+permafrost07: bets $6
+AzureCaper: calls $6
+*** SHOW DOWN ***
+permafrost07: shows [5s As] (a pair of Aces)
+AzureCaper: mucks hand
+permafrost07 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Jd 2d 7h Ad 8s]
+Seat 4: AzureCaper (button) (small blind) mucked
+Seat 5: permafrost07 (big blind) showed [5s As] and won ($47.50) with a pair of Aces
+
+
+PokerStars Hand #150060844444:  Hold'em Limit ($3/$6 USD) - 2016/03/08 19:46:07 ET
+Table 'Girtab' 6-max Seat #4 is the button
+Seat 4: AzureCaper ($73 in chips)
+Seat 6: Zubasa07 ($493 in chips)
+AzureCaper: posts small blind $1
+Zubasa07: posts big blind $3
+*** HOLE CARDS ***
+permafrost07 leaves the table
+ya$minna leaves the table
+AzureCaper: raises $3 to $6
+Zubasa07: raises $3 to $9
+AzureCaper: calls $3
+*** FLOP *** [3h Js 3c]
+llmaiconll joins the table at seat #3
+Zubasa07: bets $3
+AzureCaper: calls $3
+*** TURN *** [3h Js 3c] [9h]
+Zubasa07: checks
+AzureCaper: bets $6
+Zubasa07: calls $6
+*** RIVER *** [3h Js 3c 9h] [8h]
+Zubasa07: checks
+AzureCaper: bets $6
+Zubasa07: folds
+Uncalled bet ($6) returned to AzureCaper
+AzureCaper collected $35.50 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [3h Js 3c 9h 8h]
+Seat 4: AzureCaper (button) (small blind) collected ($35.50)
+Seat 6: Zubasa07 (big blind) folded on the River
+
+

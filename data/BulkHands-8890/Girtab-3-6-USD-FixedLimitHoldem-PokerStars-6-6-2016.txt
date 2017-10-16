@@ -1,0 +1,94 @@
+PokerStars Hand #154373595582:  Hold'em Limit ($3/$6 USD) - 2016/06/06 12:13:01 ET
+Table 'Girtab' 6-max Seat #3 is the button
+Seat 2: B_loJkl ($99.82 in chips)
+Seat 3: dborys ($246.79 in chips)
+dborys: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+dborys: raises $3 to $6
+SeanPeary leaves the table
+B_loJkl: calls $3
+*** FLOP *** [3c Tc Qs]
+B_loJkl: checks
+dborys: checks
+*** TURN *** [3c Tc Qs] [8d]
+B_loJkl: bets $6
+dborys: calls $6
+*** RIVER *** [3c Tc Qs 8d] [4s]
+B_loJkl: bets $6
+dborys: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [6d 9h] (high card Queen)
+dborys: shows [5h Td] (a pair of Tens)
+dborys collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [3c Tc Qs 8d 4s]
+Seat 2: B_loJkl (big blind) showed [6d 9h] and lost with high card Queen
+Seat 3: dborys (button) (small blind) showed [5h Td] and won ($35.50) with a pair of Tens
+
+
+PokerStars Hand #154373742944:  Hold'em Limit ($3/$6 USD) - 2016/06/06 12:16:40 ET
+Table 'Girtab' 6-max Seat #3 is the button
+Seat 3: dborys ($264.29 in chips)
+Seat 4: chipbaster ($120 in chips)
+B_loJkl joins the table at seat #5
+dborys: posts small blind $1
+chipbaster: posts big blind $3
+*** HOLE CARDS ***
+fire852181 joins the table at seat #6
+dborys: raises $3 to $6
+chipbaster: calls $3
+*** FLOP *** [8c 8s 2h]
+chipbaster: checks
+dborys: bets $3
+chipbaster: calls $3
+*** TURN *** [8c 8s 2h] [4d]
+chipbaster: checks
+dborys: checks
+*** RIVER *** [8c 8s 2h 4d] [Qh]
+chipbaster: bets $6
+dborys: calls $6
+*** SHOW DOWN ***
+chipbaster: shows [9h Th] (a pair of Eights)
+dborys: shows [Jd 9s] (a pair of Eights - Queen+Jack kicker)
+dborys collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8c 8s 2h 4d Qh]
+Seat 3: dborys (button) (small blind) showed [Jd 9s] and won ($29.50) with a pair of Eights
+Seat 4: chipbaster (big blind) showed [9h Th] and lost with a pair of Eights
+
+
+PokerStars Hand #154378176424:  Hold'em Limit ($3/$6 USD) - 2016/06/06 13:56:55 ET
+Table 'Girtab' 6-max Seat #6 is the button
+Seat 5: Lankypants ($187.85 in chips)
+Seat 6: B_loJkl ($155.72 in chips)
+B_loJkl: posts small blind $1
+Lankypants: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+dborys leaves the table
+Lankypants: calls $3
+*** FLOP *** [5c 4c 6s]
+Lankypants: checks
+B_loJkl: bets $3
+Lankypants: calls $3
+*** TURN *** [5c 4c 6s] [5s]
+Lankypants: checks
+B_loJkl: bets $6
+Lankypants: calls $6
+*** RIVER *** [5c 4c 6s 5s] [8c]
+Lankypants: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+Lankypants: shows [7h Js] (a straight, Four to Eight)
+B_loJkl: mucks hand
+Lankypants collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [5c 4c 6s 5s 8c]
+Seat 5: Lankypants (big blind) showed [7h Js] and won ($41.50) with a straight, Four to Eight
+Seat 6: B_loJkl (button) (small blind) mucked
+
+

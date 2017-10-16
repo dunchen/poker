@@ -1,0 +1,98 @@
+PokerStars Hand #163613056547:  Hold'em Limit ($3/$6 USD) - 2016/12/27 12:55:29 ET
+Table 'Primula' 6-max Seat #1 is the button
+Seat 1: diva345 ($36 in chips)
+Seat 2: vestimokrec ($120 in chips)
+diva345: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+diva345: calls $2
+vestimokrec: checks
+*** FLOP *** [Qh 2d 7d]
+vestimokrec: checks
+diva345: checks
+*** TURN *** [Qh 2d 7d] [As]
+GoliafUa leaves the table
+GoliafUa joins the table at seat #3
+vestimokrec: checks
+diva345: bets $6
+vestimokrec: calls $6
+*** RIVER *** [Qh 2d 7d As] [3s]
+vestimokrec: checks
+diva345: checks
+*** SHOW DOWN ***
+vestimokrec: shows [6h 2h] (a pair of Deuces)
+diva345: mucks hand
+vestimokrec collected $17.64 from pot
+Drik89 joins the table at seat #6
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qh 2d 7d As 3s]
+Seat 1: diva345 (button) (small blind) mucked
+Seat 2: vestimokrec (big blind) showed [6h 2h] and won ($17.64) with a pair of Deuces
+
+
+PokerStars Hand #163613313609:  Hold'em Limit ($3/$6 USD) - 2016/12/27 13:00:56 ET
+Table 'Primula' 6-max Seat #1 is the button
+Seat 1: diva345 ($8.39 in chips)
+Seat 3: GoliafUa ($148.81 in chips)
+diva345: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+diva345: calls $2
+GoliafUa: raises $3 to $6
+diva345: calls $3
+*** FLOP *** [6s Jh 3d]
+GoliafUa: bets $3
+diva345: folds
+Uncalled bet ($3) returned to GoliafUa
+GoliafUa collected $11.76 from pot
+GoliafUa: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6s Jh 3d]
+Seat 1: diva345 (button) (small blind) folded on the Flop
+Seat 3: GoliafUa (big blind) collected ($11.76)
+
+
+PokerStars Hand #163613302476:  Hold'em Limit ($3/$6 USD) - 2016/12/27 13:00:42 ET
+Table 'Primula' 6-max Seat #3 is the button
+Seat 1: diva345 ($4.28 in chips)
+Seat 3: GoliafUa ($153.09 in chips)
+GoliafUa: posts small blind $1
+diva345: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa: raises $3 to $6
+diva345: calls $1.28 and is all-in
+Uncalled bet ($1.72) returned to GoliafUa
+*** FLOP *** [Ad Jh Qc]
+*** TURN *** [Ad Jh Qc] [Ah]
+*** RIVER *** [Ad Jh Qc Ah] [7h]
+*** SHOW DOWN ***
+diva345: shows [Ks As] (three of a kind, Aces)
+GoliafUa: shows [4h 4c] (two pair, Aces and Fours)
+diva345 collected $8.39 from pot
+*** SUMMARY ***
+Total pot $8.56 | Rake $0.17
+Board [Ad Jh Qc Ah 7h]
+Seat 1: diva345 (big blind) showed [Ks As] and won ($8.39) with three of a kind, Aces
+Seat 3: GoliafUa (button) (small blind) showed [4h 4c] and lost with two pair, Aces and Fours
+
+
+PokerStars Hand #163613298426:  Hold'em Limit ($3/$6 USD) - 2016/12/27 13:00:37 ET
+Table 'Primula' 6-max Seat #1 is the button
+Seat 1: diva345 ($5.28 in chips)
+Seat 3: GoliafUa ($152.09 in chips)
+diva345: posts small blind $1
+vestimokrec: is sitting out
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+diva345: folds
+Uncalled bet ($2) returned to GoliafUa
+GoliafUa collected $2 from pot
+GoliafUa: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: diva345 (button) (small blind) folded before Flop
+Seat 3: GoliafUa (big blind) collected ($2)
+
+

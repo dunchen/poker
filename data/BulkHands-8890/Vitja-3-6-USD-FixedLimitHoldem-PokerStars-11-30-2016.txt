@@ -1,0 +1,70 @@
+PokerStars Hand #162166444456:  Hold'em Limit ($3/$6 USD) - 2016/11/29 19:04:42 ET
+Table 'Vitja' 6-max Seat #4 is the button
+Seat 3: ToDaFelt ($195.15 in chips)
+Seat 4: Actionni13 ($333.07 in chips)
+Actionni13: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+ToDaFelt: raises $3 to $9
+Actionni13: calls $3
+*** FLOP *** [Qd 5s 7h]
+ToDaFelt: bets $3
+Actionni13: folds
+Uncalled bet ($3) returned to ToDaFelt
+ToDaFelt collected $17.64 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qd 5s 7h]
+Seat 3: ToDaFelt (big blind) collected ($17.64)
+Seat 4: Actionni13 (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #162166455193:  Hold'em Limit ($3/$6 USD) - 2016/11/29 19:04:58 ET
+Table 'Vitja' 6-max Seat #3 is the button
+Seat 3: ToDaFelt ($203.79 in chips)
+Seat 4: Actionni13 ($324.07 in chips)
+ToDaFelt: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: folds
+Uncalled bet ($2) returned to Actionni13
+Actionni13 collected $2 from pot
+Actionni13: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: ToDaFelt (button) (small blind) folded before Flop
+Seat 4: Actionni13 (big blind) collected ($2)
+
+
+PokerStars Hand #162168469664:  Hold'em Limit ($3/$6 USD) - 2016/11/29 19:59:41 ET
+Table 'Vitja' 6-max Seat #5 is the button
+Seat 1: Chessnok ($60 in chips)
+Seat 5: rascal_319 ($108.52 in chips)
+rascal_319: posts small blind $1
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+rascal_319: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [8s Js Qs]
+Chessnok: checks
+rascal_319: checks
+*** TURN *** [8s Js Qs] [4d]
+Chessnok: checks
+rascal_319: checks
+*** RIVER *** [8s Js Qs 4d] [9s]
+Chessnok: checks
+rascal_319: checks
+*** SHOW DOWN ***
+Chessnok: shows [2d Td] (a straight, Eight to Queen)
+rascal_319: shows [Ad Tc] (a straight, Eight to Queen)
+Chessnok collected $5.88 from pot
+rascal_319 collected $5.88 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8s Js Qs 4d 9s]
+Seat 1: Chessnok (big blind) showed [2d Td] and won ($5.88) with a straight, Eight to Queen
+Seat 5: rascal_319 (button) (small blind) showed [Ad Tc] and won ($5.88) with a straight, Eight to Queen
+
+

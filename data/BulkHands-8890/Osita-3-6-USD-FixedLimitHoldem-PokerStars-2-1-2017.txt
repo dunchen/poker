@@ -1,0 +1,96 @@
+PokerStars Hand #165526180256:  Hold'em Limit ($3/$6 USD) - 2017/02/01 16:14:28 ET
+Table 'Osita' 6-max Seat #3 is the button
+Seat 3: lelala ($112.46 in chips)
+Seat 4: TbIP-TbIP 88 ($72 in chips)
+lelala: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+lelala: raises $3 to $6
+TbIP-TbIP 88: calls $3
+*** FLOP *** [Qd Ad Tc]
+TbIP-TbIP 88: checks
+lelala: bets $3
+TbIP-TbIP 88: raises $3 to $6
+lelala: raises $3 to $9
+TbIP-TbIP 88: calls $3
+*** TURN *** [Qd Ad Tc] [9d]
+TbIP-TbIP 88: checks
+lelala: bets $6
+TbIP-TbIP 88: calls $6
+*** RIVER *** [Qd Ad Tc 9d] [4h]
+TbIP-TbIP 88: checks
+lelala: checks
+*** SHOW DOWN ***
+TbIP-TbIP 88: shows [6d Ah] (a pair of Aces)
+lelala: mucks hand
+TbIP-TbIP 88 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Qd Ad Tc 9d 4h]
+Seat 3: lelala (button) (small blind) mucked
+Seat 4: TbIP-TbIP 88 (big blind) showed [6d Ah] and won ($41.50) with a pair of Aces
+
+
+PokerStars Hand #165526210930:  Hold'em Limit ($3/$6 USD) - 2017/02/01 16:15:01 ET
+Table 'Osita' 6-max Seat #4 is the button
+Seat 3: lelala ($91.46 in chips)
+Seat 4: TbIP-TbIP 88 ($92.50 in chips)
+TbIP-TbIP 88: posts small blind $1
+lelala: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88: raises $3 to $6
+lelala: calls $3
+*** FLOP *** [Qs Ts 5h]
+lelala: checks
+TbIP-TbIP 88: checks
+*** TURN *** [Qs Ts 5h] [4s]
+lelala: checks
+TbIP-TbIP 88: checks
+*** RIVER *** [Qs Ts 5h 4s] [6d]
+lelala: checks
+xxPSRxx joins the table at seat #5
+TbIP-TbIP 88: bets $6
+lelala: calls $6
+*** SHOW DOWN ***
+TbIP-TbIP 88: shows [Ah 7d] (high card Ace)
+lelala: mucks hand
+TbIP-TbIP 88 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Qs Ts 5h 4s 6d]
+Seat 3: lelala (big blind) mucked
+Seat 4: TbIP-TbIP 88 (button) (small blind) showed [Ah 7d] and won ($23.52) with high card Ace
+
+
+PokerStars Hand #165526234453:  Hold'em Limit ($3/$6 USD) - 2017/02/01 16:15:25 ET
+Table 'Osita' 6-max Seat #3 is the button
+Seat 3: lelala ($79.46 in chips)
+Seat 4: TbIP-TbIP 88 ($104.02 in chips)
+lelala: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+lelala: raises $3 to $6
+TbIP-TbIP 88: calls $3
+*** FLOP *** [Ks 4c Js]
+TbIP-TbIP 88: checks
+lelala: bets $3
+TbIP-TbIP 88: calls $3
+*** TURN *** [Ks 4c Js] [2s]
+TbIP-TbIP 88: checks
+lelala: bets $6
+TbIP-TbIP 88: raises $6 to $12
+lelala: calls $6
+*** RIVER *** [Ks 4c Js 2s] [Jc]
+TbIP-TbIP 88: bets $6
+lelala: calls $6
+*** SHOW DOWN ***
+TbIP-TbIP 88: shows [4s 6s] (a flush, King high)
+lelala: mucks hand
+TbIP-TbIP 88 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Ks 4c Js 2s Jc]
+Seat 3: lelala (button) (small blind) mucked
+Seat 4: TbIP-TbIP 88 (big blind) showed [4s 6s] and won ($53.50) with a flush, King high
+
+

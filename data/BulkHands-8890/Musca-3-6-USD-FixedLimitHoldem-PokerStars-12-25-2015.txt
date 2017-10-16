@@ -1,0 +1,79 @@
+PokerStars Hand #145873796702:  Hold'em Limit ($3/$6 USD) - 2015/12/24 20:25:58 ET
+Table 'Musca' 6-max Seat #4 is the button
+Seat 3: tango46725 ($15.81 in chips)
+Seat 4: AzureCaper ($232 in chips)
+AzureCaper: posts small blind $1
+tango46725: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+tango46725: calls $3
+*** FLOP *** [Jc Qd 9c]
+tango46725: checks
+AzureCaper: bets $3
+tango46725: folds
+Uncalled bet ($3) returned to AzureCaper
+AzureCaper collected $11.76 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jc Qd 9c]
+Seat 3: tango46725 (big blind) folded on the Flop
+Seat 4: AzureCaper (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #145873803165:  Hold'em Limit ($3/$6 USD) - 2015/12/24 20:26:12 ET
+Table 'Musca' 6-max Seat #3 is the button
+Seat 3: tango46725 ($9.81 in chips)
+Seat 4: AzureCaper ($237.76 in chips)
+tango46725: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+tango46725: raises $3 to $6
+AzureCaper: raises $3 to $9
+tango46725: raises $0.81 to $9.81 and is all-in
+Betting is capped
+AzureCaper: calls $0.81
+*** FLOP *** [5s 6h 9h]
+*** TURN *** [5s 6h 9h] [5c]
+*** RIVER *** [5s 6h 9h 5c] [Jd]
+*** SHOW DOWN ***
+AzureCaper: shows [Ac Qh] (a pair of Fives)
+tango46725: shows [6c Ts] (two pair, Sixes and Fives)
+tango46725 collected $19.23 from pot
+*** SUMMARY ***
+Total pot $19.62 | Rake $0.39
+Board [5s 6h 9h 5c Jd]
+Seat 3: tango46725 (button) (small blind) showed [6c Ts] and won ($19.23) with two pair, Sixes and Fives
+Seat 4: AzureCaper (big blind) showed [Ac Qh] and lost with a pair of Fives
+
+
+PokerStars Hand #145873810147:  Hold'em Limit ($3/$6 USD) - 2015/12/24 20:26:28 ET
+Table 'Musca' 6-max Seat #4 is the button
+Seat 3: tango46725 ($19.23 in chips)
+Seat 4: AzureCaper ($227.95 in chips)
+AzureCaper: posts small blind $1
+tango46725: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+tango46725: raises $3 to $9
+AzureCaper: raises $3 to $12
+Betting is capped
+tango46725: calls $3
+*** FLOP *** [Kc Kd 5h]
+tango46725: bets $3
+AzureCaper: raises $3 to $6
+tango46725: raises $1.23 to $7.23 and is all-in
+AzureCaper: calls $1.23
+*** TURN *** [Kc Kd 5h] [4d]
+*** RIVER *** [Kc Kd 5h 4d] [9h]
+*** SHOW DOWN ***
+tango46725: shows [9d Td] (two pair, Kings and Nines)
+AzureCaper: shows [Ad As] (two pair, Aces and Kings)
+AzureCaper collected $37.96 from pot
+*** SUMMARY ***
+Total pot $38.46 | Rake $0.50
+Board [Kc Kd 5h 4d 9h]
+Seat 3: tango46725 (big blind) showed [9d Td] and lost with two pair, Kings and Nines
+Seat 4: AzureCaper (button) (small blind) showed [Ad As] and won ($37.96) with two pair, Aces and Kings
+
+

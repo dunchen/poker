@@ -1,0 +1,32 @@
+PokerStars Hand #150618462085:  Hold'em Limit ($3/$6 USD) - 2016/03/19 18:47:05 ET
+Table 'Helffrich II' 6-max Seat #3 is the button
+Seat 3: livenuncut ($120 in chips)
+Seat 4: FHstyles ($60 in chips)
+livenuncut: posts small blind $1
+FHstyles: posts big blind $3
+*** HOLE CARDS ***
+livenuncut: raises $3 to $6
+FHstyles: raises $3 to $9
+livenuncut: calls $3
+*** FLOP *** [Th Ac Qc]
+FHstyles: bets $3
+livenuncut: raises $3 to $6
+FHstyles: calls $3
+*** TURN *** [Th Ac Qc] [7d]
+FHstyles: checks
+livenuncut: bets $6
+FHstyles: calls $6
+*** RIVER *** [Th Ac Qc 7d] [Ks]
+FHstyles: checks
+livenuncut: checks
+*** SHOW DOWN ***
+FHstyles: shows [Qs 6s] (a pair of Queens)
+livenuncut: shows [3s Ah] (a pair of Aces)
+livenuncut collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Th Ac Qc 7d Ks]
+Seat 3: livenuncut (button) (small blind) showed [3s Ah] and won ($41.50) with a pair of Aces
+Seat 4: FHstyles (big blind) showed [Qs 6s] and lost with a pair of Queens
+
+

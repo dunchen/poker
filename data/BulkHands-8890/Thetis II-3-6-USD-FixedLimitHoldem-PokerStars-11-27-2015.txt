@@ -1,0 +1,112 @@
+PokerStars Hand #144465259124:  Hold'em Limit ($3/$6 USD) - 2015/11/27 12:55:27 ET
+Table 'Thetis II' 6-max Seat #6 is the button
+Seat 1: BelSv ($79.43 in chips)
+Seat 6: julenchu ($300.63 in chips)
+julenchu: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+julenchu: folds
+Uncalled bet ($2) returned to BelSv
+BelSv collected $2 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BelSv (big blind) collected ($2)
+Seat 6: julenchu (button) (small blind) folded before Flop
+
+
+PokerStars Hand #144465239292:  Hold'em Limit ($3/$6 USD) - 2015/11/27 12:54:57 ET
+Table 'Thetis II' 6-max Seat #1 is the button
+Seat 1: BelSv ($97.43 in chips)
+Seat 6: julenchu ($283.13 in chips)
+BelSv: posts small blind $1
+korrnel: is sitting out
+julenchu: posts big blind $3
+*** HOLE CARDS ***
+BelSv: calls $2
+korrnel leaves the table
+julenchu: checks
+*** FLOP *** [3c 5d 8s]
+julenchu: bets $3
+BelSv: calls $3
+*** TURN *** [3c 5d 8s] [5h]
+PikkuHUMPPA joins the table at seat #2
+julenchu: bets $6
+BelSv: calls $6
+*** RIVER *** [3c 5d 8s 5h] [3d]
+julenchu: bets $6
+BelSv: calls $6
+*** SHOW DOWN ***
+julenchu: shows [9h 5c] (a full house, Fives full of Threes)
+BelSv: mucks hand
+julenchu collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [3c 5d 8s 5h 3d]
+Seat 1: BelSv (button) (small blind) mucked
+Seat 6: julenchu (big blind) showed [9h 5c] and won ($35.50) with a full house, Fives full of Threes
+
+
+PokerStars Hand #144469421299:  Hold'em Limit ($3/$6 USD) - 2015/11/27 14:20:06 ET
+Table 'Thetis II' 6-max Seat #6 is the button
+Seat 5: PelonCabelao ($77.07 in chips)
+Seat 6: Chessnok ($239.46 in chips)
+Chessnok: posts small blind $1
+PelonCabelao: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+PelonCabelao: raises $3 to $9
+Chessnok: calls $3
+*** FLOP *** [2s 9h 3d]
+PelonCabelao: bets $3
+Chessnok: calls $3
+*** TURN *** [2s 9h 3d] [8s]
+PelonCabelao: bets $6
+Chessnok: raises $6 to $12
+PelonCabelao: calls $6
+*** RIVER *** [2s 9h 3d 8s] [4h]
+PelonCabelao: checks
+Chessnok: bets $6
+PelonCabelao: calls $6
+*** SHOW DOWN ***
+Chessnok: shows [8d As] (a pair of Eights)
+PelonCabelao: mucks hand
+Chessnok collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [2s 9h 3d 8s 4h]
+Seat 5: PelonCabelao (big blind) mucked
+Seat 6: Chessnok (button) (small blind) showed [8d As] and won ($59.50) with a pair of Eights
+
+
+PokerStars Hand #144469480279:  Hold'em Limit ($3/$6 USD) - 2015/11/27 14:21:14 ET
+Table 'Thetis II' 6-max Seat #5 is the button
+Seat 3: DenVDV ($88.04 in chips)
+Seat 5: PelonCabelao ($72 in chips)
+PelonCabelao: posts small blind $1
+DenVDV: posts big blind $3
+*** HOLE CARDS ***
+SashaYuvelir joins the table at seat #2
+PelonCabelao: raises $3 to $6
+DenVDV: calls $3
+*** FLOP *** [2c 3c 8c]
+DenVDV: checks
+PelonCabelao: bets $3
+DenVDV: calls $3
+*** TURN *** [2c 3c 8c] [6h]
+DenVDV: checks
+PelonCabelao: checks
+*** RIVER *** [2c 3c 8c 6h] [4c]
+DenVDV: checks
+PelonCabelao: checks
+*** SHOW DOWN ***
+DenVDV: shows [3d Jh] (a pair of Threes)
+PelonCabelao: shows [4s Kd] (a pair of Fours)
+PelonCabelao collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2c 3c 8c 6h 4c]
+Seat 3: DenVDV (big blind) showed [3d Jh] and lost with a pair of Threes
+Seat 5: PelonCabelao (button) (small blind) showed [4s Kd] and won ($17.64) with a pair of Fours
+
+

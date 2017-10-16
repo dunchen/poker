@@ -1,0 +1,79 @@
+PokerStars Hand #147179447033:  Hold'em Limit ($3/$6 USD) - 2016/01/17 3:39:14 ET
+Table 'Setebos II' 6-max Seat #3 is the button
+Seat 1: VolkovDmitri ($140.50 in chips)
+Seat 3: ajbooomX ($56.72 in chips)
+ajbooomX: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+ajbooomX: raises $3 to $6
+VolkovDmitri: folds
+Uncalled bet ($3) returned to ajbooomX
+ajbooomX collected $6 from pot
+ajbooomX: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: VolkovDmitri (big blind) folded before Flop
+Seat 3: ajbooomX (button) (small blind) collected ($6)
+
+
+PokerStars Hand #147179424047:  Hold'em Limit ($3/$6 USD) - 2016/01/17 3:38:13 ET
+Table 'Setebos II' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 3: ajbooomX ($77.72 in chips)
+VolkovDmitri: posts small blind $1
+ajbooomX: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+ajbooomX is disconnected
+ajbooomX is connected
+ajbooomX: calls $3
+*** FLOP *** [5s 6s 8c]
+ajbooomX: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [5s 6s 8c] [3h]
+ajbooomX: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [5s 6s 8c 3h] [Ts]
+ajbooomX: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+ajbooomX: shows [2h 7d] (high card Ten)
+VolkovDmitri: shows [Kc 6h] (a pair of Sixes)
+VolkovDmitri collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [5s 6s 8c 3h Ts]
+Seat 1: VolkovDmitri (button) (small blind) showed [Kc 6h] and won ($41.50) with a pair of Sixes
+Seat 3: ajbooomX (big blind) showed [2h 7d] and lost with high card Ten
+
+
+PokerStars Hand #147179451118:  Hold'em Limit ($3/$6 USD) - 2016/01/17 3:39:24 ET
+Table 'Setebos II' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($137.50 in chips)
+Seat 3: ajbooomX ($59.72 in chips)
+VolkovDmitri: posts small blind $1
+ajbooomX: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+ajbooomX: calls $3
+*** FLOP *** [2d 4c Ac]
+ajbooomX: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [2d 4c Ac] [8s]
+ajbooomX: checks
+VolkovDmitri: checks
+*** RIVER *** [2d 4c Ac 8s] [Jd]
+ajbooomX: checks
+HAL9QQQ joins the table at seat #4
+VolkovDmitri: checks
+*** SHOW DOWN ***
+ajbooomX: shows [2h 5s] (a pair of Deuces)
+VolkovDmitri: mucks hand
+ajbooomX collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2d 4c Ac 8s Jd]
+Seat 1: VolkovDmitri (button) (small blind) mucked
+Seat 3: ajbooomX (big blind) showed [2h 5s] and won ($17.64) with a pair of Deuces
+
+

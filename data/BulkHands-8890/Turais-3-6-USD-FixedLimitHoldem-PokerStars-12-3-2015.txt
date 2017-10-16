@@ -1,0 +1,30 @@
+PokerStars Hand #144703289100:  Hold'em Limit ($3/$6 USD) - 2015/12/02 7:03:44 ET
+Table 'Turais' 6-max Seat #2 is the button
+Seat 2: belik555 ($171.85 in chips)
+Seat 3: DeKirov ($120 in chips)
+belik555: posts small blind $1
+DeKirov: posts big blind $3
+*** HOLE CARDS ***
+belik555: raises $3 to $6
+DeKirov: raises $3 to $9
+belik555: calls $3
+*** FLOP *** [Qd 4h Kh]
+DeKirov: bets $3
+belik555: calls $3
+*** TURN *** [Qd 4h Kh] [Ac]
+DeKirov: bets $6
+belik555: calls $6
+*** RIVER *** [Qd 4h Kh Ac] [Ts]
+DeKirov: bets $6
+belik555: calls $6
+*** SHOW DOWN ***
+DeKirov: shows [Js Kd] (a straight, Ten to Ace)
+belik555: mucks hand
+DeKirov collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Qd 4h Kh Ac Ts]
+Seat 2: belik555 (button) (small blind) mucked
+Seat 3: DeKirov (big blind) showed [Js Kd] and won ($47.50) with a straight, Ten to Ace
+
+

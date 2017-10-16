@@ -1,0 +1,58 @@
+PokerStars Hand #171584074737:  Hold'em Limit ($3/$6 USD) - 2017/06/10 5:44:59 ET
+Table 'Althaea' 10-max Seat #10 is the button
+Seat 2: shushlo ($72 in chips)
+Seat 10: sim5sim5 ($72 in chips)
+sim5sim5: posts small blind $1
+shushlo: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+shushlo: raises $3 to $9
+sim5sim5: calls $3
+*** FLOP *** [Td 3s 2h]
+shushlo: bets $3
+sim5sim5: raises $3 to $6
+shushlo: calls $3
+*** TURN *** [Td 3s 2h] [5h]
+shushlo: checks
+sim5sim5: bets $6
+shushlo: calls $6
+*** RIVER *** [Td 3s 2h 5h] [2c]
+shushlo: checks
+sim5sim5: bets $6
+shushlo: calls $6
+*** SHOW DOWN ***
+sim5sim5: shows [9s 9h] (two pair, Nines and Deuces)
+shushlo: mucks hand
+sim5sim5 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Td 3s 2h 5h 2c]
+Seat 2: shushlo (big blind) mucked
+Seat 10: sim5sim5 (button) (small blind) showed [9s 9h] and won ($53.50) with two pair, Nines and Deuces
+
+
+PokerStars Hand #171584092822:  Hold'em Limit ($3/$6 USD) - 2017/06/10 5:45:45 ET
+Table 'Althaea' 10-max Seat #2 is the button
+Seat 2: shushlo ($72 in chips)
+Seat 10: sim5sim5 ($98.50 in chips)
+shushlo: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+shushlo: raises $3 to $6
+sim5sim5: calls $3
+*** FLOP *** [6d 9d 4h]
+sim5sim5: checks
+shushlo: checks
+*** TURN *** [6d 9d 4h] [8h]
+sim5sim5: bets $6
+shushlo: folds
+Uncalled bet ($6) returned to sim5sim5
+sim5sim5 collected $11.76 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6d 9d 4h 8h]
+Seat 2: shushlo (button) (small blind) folded on the Turn
+Seat 10: sim5sim5 (big blind) collected ($11.76)
+
+

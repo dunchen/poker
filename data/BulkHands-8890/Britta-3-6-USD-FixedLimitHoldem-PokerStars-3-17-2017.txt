@@ -1,0 +1,58 @@
+PokerStars Hand #167722754792:  Hold'em Limit ($3/$6 USD) - 2017/03/17 16:17:50 ET
+Table 'Britta' 10-max Seat #10 is the button
+Seat 6: essam2222 ($134.50 in chips)
+Seat 10: MTails ($105 in chips)
+MTails: posts small blind $1
+essam2222: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+essam2222: calls $3
+*** FLOP *** [Ks As 2h]
+essam2222: checks
+MTails: bets $3
+essam2222: calls $3
+*** TURN *** [Ks As 2h] [Tc]
+essam2222: checks
+MTails: checks
+*** RIVER *** [Ks As 2h Tc] [8c]
+essam2222: bets $6
+MTails: calls $6
+*** SHOW DOWN ***
+essam2222: shows [Jh Qh] (a straight, Ten to Ace)
+MTails: mucks hand
+essam2222 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ks As 2h Tc 8c]
+Seat 6: essam2222 (big blind) showed [Jh Qh] and won ($29.50) with a straight, Ten to Ace
+Seat 10: MTails (button) (small blind) mucked
+
+
+PokerStars Hand #167722731455:  Hold'em Limit ($3/$6 USD) - 2017/03/17 16:17:24 ET
+Table 'Britta' 10-max Seat #6 is the button
+Seat 6: essam2222 ($120 in chips)
+Seat 10: MTails ($120 in chips)
+essam2222: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+essam2222: calls $2
+MTails: raises $3 to $6
+essam2222: calls $3
+*** FLOP *** [8s Jc Js]
+MTails: bets $3
+essam2222: calls $3
+*** TURN *** [8s Jc Js] [8h]
+MTails: bets $6
+essam2222: raises $6 to $12
+GRAILKO joins the table at seat #7
+MTails: folds
+Uncalled bet ($6) returned to essam2222
+essam2222 collected $29.50 from pot
+essam2222: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8s Jc Js 8h]
+Seat 6: essam2222 (button) (small blind) collected ($29.50)
+Seat 10: MTails (big blind) folded on the Turn
+
+

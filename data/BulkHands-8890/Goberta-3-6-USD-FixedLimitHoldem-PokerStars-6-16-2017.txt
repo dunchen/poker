@@ -1,0 +1,80 @@
+PokerStars Hand #171850235823:  Hold'em Limit ($3/$6 USD) - 2017/06/16 12:43:42 ET
+Table 'Goberta' 6-max Seat #6 is the button
+Seat 3: MarcoSilva98 ($50 in chips)
+Seat 6: scorpio04 ($150 in chips)
+scorpio04: posts small blind $1
+MarcoSilva98: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl joins the table at seat #4
+scorpio04: raises $3 to $6
+MarcoSilva98: calls $3
+*** FLOP *** [Tc 7h 9h]
+MarcoSilva98: checks
+scorpio04: checks
+*** TURN *** [Tc 7h 9h] [7c]
+MarcoSilva98: bets $6
+scorpio04: folds
+Uncalled bet ($6) returned to MarcoSilva98
+MarcoSilva98 collected $11.76 from pot
+MarcoSilva98: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Tc 7h 9h 7c]
+Seat 3: MarcoSilva98 (big blind) collected ($11.76)
+Seat 6: scorpio04 (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #171850496489:  Hold'em Limit ($3/$6 USD) - 2017/06/16 12:50:35 ET
+Table 'Goberta' 6-max Seat #4 is the button
+Seat 4: B_loJkl ($112.38 in chips)
+Seat 6: scorpio04 ($242.20 in chips)
+B_loJkl: posts small blind $1
+scorpio04: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+scorpio04: calls $3
+*** FLOP *** [6h Ah 8c]
+scorpio04: checks
+B_loJkl: bets $3
+scorpio04: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6h Ah 8c]
+Seat 4: B_loJkl (button) (small blind) collected ($11.76)
+Seat 6: scorpio04 (big blind) folded on the Flop
+
+
+PokerStars Hand #171850480656:  Hold'em Limit ($3/$6 USD) - 2017/06/16 12:50:10 ET
+Table 'Goberta' 6-max Seat #6 is the button
+Seat 4: B_loJkl ($127.38 in chips)
+Seat 6: scorpio04 ($227.70 in chips)
+scorpio04: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+scorpio04: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Td Ad Th]
+B_loJkl: checks
+scorpio04: bets $3
+B_loJkl: calls $3
+*** TURN *** [Td Ad Th] [Kd]
+B_loJkl: checks
+scorpio04: bets $6
+B_loJkl: calls $6
+*** RIVER *** [Td Ad Th Kd] [4c]
+B_loJkl: checks
+scorpio04: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to scorpio04
+scorpio04 collected $29.50 from pot
+scorpio04: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Td Ad Th Kd 4c]
+Seat 4: B_loJkl (big blind) folded on the River
+Seat 6: scorpio04 (button) (small blind) collected ($29.50)
+
+

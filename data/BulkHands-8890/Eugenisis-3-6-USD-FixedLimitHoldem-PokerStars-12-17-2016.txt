@@ -1,0 +1,81 @@
+PokerStars Hand #163092119286:  Hold'em Limit ($3/$6 USD) - 2016/12/17 13:04:41 ET
+Table 'Eugenisis' 6-max Seat #1 is the button
+Seat 1: hgs_helio ($30 in chips)
+Seat 2: ZinZar ($72 in chips)
+hgs_helio: posts small blind $1
+ZinZar: posts big blind $3
+*** HOLE CARDS ***
+hgs_helio: raises $3 to $6
+ZinZar: calls $3
+*** FLOP *** [9h 6d 7c]
+ZinZar: checks
+hgs_helio: bets $3
+ZinZar: calls $3
+*** TURN *** [9h 6d 7c] [7h]
+ZinZar: checks
+hgs_helio: bets $6
+ZinZar: calls $6
+*** RIVER *** [9h 6d 7c 7h] [8d]
+ZinZar: checks
+hgs_helio: checks
+*** SHOW DOWN ***
+ZinZar: shows [Kc Qh] (a pair of Sevens)
+hgs_helio: shows [8s As] (two pair, Eights and Sevens)
+hgs_helio collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9h 6d 7c 7h 8d]
+Seat 1: hgs_helio (button) (small blind) showed [8s As] and won ($29.50) with two pair, Eights and Sevens
+Seat 2: ZinZar (big blind) showed [Kc Qh] and lost with a pair of Sevens
+
+
+PokerStars Hand #163092187300:  Hold'em Limit ($3/$6 USD) - 2016/12/17 13:05:49 ET
+Table 'Eugenisis' 6-max Seat #1 is the button
+Seat 1: hgs_helio ($62 in chips)
+Seat 2: ZinZar ($72 in chips)
+hgs_helio: posts small blind $1
+ZinZar: posts big blind $3
+*** HOLE CARDS ***
+hgs_helio: folds
+Uncalled bet ($2) returned to ZinZar
+ZinZar collected $2 from pot
+ZinZar: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: hgs_helio (button) (small blind) folded before Flop
+Seat 2: ZinZar (big blind) collected ($2)
+
+
+PokerStars Hand #163092152045:  Hold'em Limit ($3/$6 USD) - 2016/12/17 13:05:13 ET
+Table 'Eugenisis' 6-max Seat #2 is the button
+Seat 1: hgs_helio ($44.50 in chips)
+Seat 2: ZinZar ($72 in chips)
+ZinZar: posts small blind $1
+hgs_helio: posts big blind $3
+*** HOLE CARDS ***
+ZinZar: raises $3 to $6
+hgs_helio: calls $3
+*** FLOP *** [Js Th 9c]
+hgs_helio: checks
+ZinZar: bets $3
+whatsURdeal joins the table at seat #3
+hgs_helio: raises $3 to $6
+ZinZar: calls $3
+*** TURN *** [Js Th 9c] [2c]
+hgs_helio: bets $6
+jugge1975 joins the table at seat #4
+ZinZar: calls $6
+*** RIVER *** [Js Th 9c 2c] [Qd]
+hgs_helio: checks
+ZinZar: checks
+*** SHOW DOWN ***
+hgs_helio: shows [8h 7d] (a straight, Eight to Queen)
+ZinZar: mucks hand
+hgs_helio collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Js Th 9c 2c Qd]
+Seat 1: hgs_helio (big blind) showed [8h 7d] and won ($35.50) with a straight, Eight to Queen
+Seat 2: ZinZar (button) (small blind) mucked
+
+

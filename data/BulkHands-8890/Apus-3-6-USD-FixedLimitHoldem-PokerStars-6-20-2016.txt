@@ -1,0 +1,34 @@
+PokerStars Hand #154967399046:  Hold'em Limit ($3/$6 USD) - 2016/06/20 4:07:03 ET
+Table 'Apus' 10-max Seat #7 is the button
+Seat 5: FabronxRJ ($300 in chips)
+Seat 7: VolkovDmitri ($121 in chips)
+VolkovDmitri: posts small blind $1
+FabronxRJ: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+FabronxRJ: calls $3
+*** FLOP *** [6d Jc 3s]
+FabronxRJ: bets $3
+VolkovDmitri: raises $3 to $6
+liolilove joins the table at seat #6
+FabronxRJ: raises $3 to $9
+VolkovDmitri: calls $3
+*** TURN *** [6d Jc 3s] [5h]
+FabronxRJ: bets $6
+VolkovDmitri: raises $6 to $12
+FabronxRJ: calls $6
+*** RIVER *** [6d Jc 3s 5h] [9h]
+FabronxRJ: checks
+VolkovDmitri: bets $6
+FabronxRJ: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [7h Jd] (a pair of Jacks)
+FabronxRJ: mucks hand
+VolkovDmitri collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [6d Jc 3s 5h 9h]
+Seat 5: FabronxRJ (big blind) mucked
+Seat 7: VolkovDmitri (button) (small blind) showed [7h Jd] and won ($65.50) with a pair of Jacks
+
+

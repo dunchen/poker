@@ -1,0 +1,61 @@
+PokerStars Hand #163397692060:  Hold'em Limit ($3/$6 USD) - 2016/12/23 11:42:35 ET
+Table 'Anitra' 10-max Seat #9 is the button
+Seat 9: GoliafUa ($105 in chips)
+Seat 10: ArnoldTock ($74.51 in chips)
+GoliafUa: posts small blind $1
+ArnoldTock: posts big blind $3
+*** HOLE CARDS ***
+GoliafUa: raises $3 to $6
+ArnoldTock: calls $3
+*** FLOP *** [3c 8s 2h]
+ArnoldTock: bets $3
+GoliafUa: calls $3
+*** TURN *** [3c 8s 2h] [6s]
+ArnoldTock: bets $6
+GoliafUa: raises $6 to $12
+ArnoldTock: calls $6
+*** RIVER *** [3c 8s 2h 6s] [8c]
+ArnoldTock: bets $6
+GoliafUa: raises $6 to $12
+ArnoldTock: folds
+Uncalled bet ($6) returned to GoliafUa
+GoliafUa collected $53.50 from pot
+GoliafUa: doesn't show hand
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [3c 8s 2h 6s 8c]
+Seat 9: GoliafUa (button) (small blind) collected ($53.50)
+Seat 10: ArnoldTock (big blind) folded on the River
+
+
+PokerStars Hand #163397670689:  Hold'em Limit ($3/$6 USD) - 2016/12/23 11:42:07 ET
+Table 'Anitra' 10-max Seat #10 is the button
+Seat 9: GoliafUa ($120 in chips)
+Seat 10: ArnoldTock ($60.01 in chips)
+vestimokrec joins the table at seat #1
+ArnoldTock: posts small blind $1
+GoliafUa: posts big blind $3
+*** HOLE CARDS ***
+ArnoldTock: calls $2
+GoliafUa: raises $3 to $6
+ArnoldTock: calls $3
+*** FLOP *** [6c 7c Qs]
+GoliafUa: bets $3
+ArnoldTock: calls $3
+*** TURN *** [6c 7c Qs] [Js]
+GoliafUa: bets $6
+ArnoldTock: calls $6
+*** RIVER *** [6c 7c Qs Js] [Tc]
+GoliafUa: checks
+ArnoldTock: checks
+*** SHOW DOWN ***
+GoliafUa: shows [Kd 6d] (a pair of Sixes)
+ArnoldTock: shows [9h Td] (a pair of Tens)
+ArnoldTock collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6c 7c Qs Js Tc]
+Seat 9: GoliafUa (big blind) showed [Kd 6d] and lost with a pair of Sixes
+Seat 10: ArnoldTock (button) (small blind) showed [9h Td] and won ($29.50) with a pair of Tens
+
+

@@ -1,0 +1,999 @@
+PokerStars Hand #150710541572:  Hold'em Limit ($3/$6 USD) - 2016/03/21 13:05:53 ET
+Table 'Pherkad III' 6-max Seat #3 is the button
+Seat 3: simba1364 ($89 in chips)
+Seat 4: MTails ($150.50 in chips)
+simba1364: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+simba1364: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [6h 8h Jd]
+MTails: checks
+simba1364: bets $3
+MTails: raises $3 to $6
+simba1364: calls $3
+*** TURN *** [6h 8h Jd] [7h]
+MTails: bets $6
+simba1364: calls $6
+*** RIVER *** [6h 8h Jd 7h] [6c]
+MTails: checks
+simba1364: checks
+*** SHOW DOWN ***
+MTails: shows [8s Qd] (two pair, Eights and Sixes)
+simba1364: shows [Td Jc] (two pair, Jacks and Sixes)
+simba1364 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6h 8h Jd 7h 6c]
+Seat 3: simba1364 (button) (small blind) showed [Td Jc] and won ($35.50) with two pair, Jacks and Sixes
+Seat 4: MTails (big blind) showed [8s Qd] and lost with two pair, Eights and Sixes
+
+
+PokerStars Hand #150710519379:  Hold'em Limit ($3/$6 USD) - 2016/03/21 13:05:28 ET
+Table 'Pherkad III' 6-max Seat #4 is the button
+Seat 3: simba1364 ($119 in chips)
+Seat 4: MTails ($121 in chips)
+MTails: posts small blind $1
+simba1364: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+simba1364: calls $3
+*** FLOP *** [4h 9d 6s]
+simba1364: checks
+MTails: bets $3
+simba1364: raises $3 to $6
+MTails: calls $3
+*** TURN *** [4h 9d 6s] [4s]
+simba1364: bets $6
+MTails: raises $6 to $12
+simba1364: calls $6
+*** RIVER *** [4h 9d 6s 4s] [6c]
+simba1364: checks
+MTails: bets $6
+simba1364: calls $6
+*** SHOW DOWN ***
+MTails: shows [9c 9h] (a full house, Nines full of Sixes)
+simba1364: mucks hand
+MTails collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [4h 9d 6s 4s 6c]
+Seat 3: simba1364 (big blind) mucked
+Seat 4: MTails (button) (small blind) showed [9c 9h] and won ($59.50) with a full house, Nines full of Sixes
+
+
+PokerStars Hand #150710581528:  Hold'em Limit ($3/$6 USD) - 2016/03/21 13:06:38 ET
+Table 'Pherkad III' 6-max Seat #3 is the button
+Seat 3: simba1364 ($124 in chips)
+Seat 4: MTails ($114.50 in chips)
+simba1364: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+simba1364: calls $2
+MTails: raises $3 to $6
+simba1364: calls $3
+*** FLOP *** [8s 4s 3s]
+MTails: bets $3
+simba1364: calls $3
+*** TURN *** [8s 4s 3s] [Th]
+MTails: bets $6
+simba1364: folds
+Uncalled bet ($6) returned to MTails
+MTails collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8s 4s 3s Th]
+Seat 3: simba1364 (button) (small blind) folded on the Turn
+Seat 4: MTails (big blind) collected ($17.64)
+
+
+PokerStars Hand #150710559472:  Hold'em Limit ($3/$6 USD) - 2016/03/21 13:06:14 ET
+Table 'Pherkad III' 6-max Seat #4 is the button
+Seat 3: simba1364 ($106.50 in chips)
+Seat 4: MTails ($132.50 in chips)
+MTails: posts small blind $1
+simba1364: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+simba1364: raises $3 to $9
+MTails: calls $3
+*** FLOP *** [4h 9s Qs]
+simba1364: bets $3
+MTails: calls $3
+*** TURN *** [4h 9s Qs] [3s]
+simba1364: bets $6
+MTails: calls $6
+*** RIVER *** [4h 9s Qs 3s] [Jh]
+B_loJkl joins the table at seat #5
+simba1364: bets $6
+MTails: folds
+Uncalled bet ($6) returned to simba1364
+simba1364 collected $35.50 from pot
+simba1364: shows [Kh As] (high card Ace)
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [4h 9s Qs 3s Jh]
+Seat 3: simba1364 (big blind) collected ($35.50)
+Seat 4: MTails (button) (small blind) folded on the River
+
+
+PokerStars Hand #150711429828:  Hold'em Limit ($3/$6 USD) - 2016/03/21 13:22:38 ET
+Table 'Pherkad III' 6-max Seat #5 is the button
+Seat 3: llmaiconll ($38.51 in chips)
+Seat 5: B_loJkl ($87.58 in chips)
+B_loJkl: posts small blind $1
+llmaiconll: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+llmaiconll: calls $3
+*** FLOP *** [Qh Ad 6d]
+llmaiconll: checks
+B_loJkl: bets $3
+llmaiconll: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qh Ad 6d]
+Seat 3: llmaiconll (big blind) folded on the Flop
+Seat 5: B_loJkl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #150711425378:  Hold'em Limit ($3/$6 USD) - 2016/03/21 13:22:33 ET
+Table 'Pherkad III' 6-max Seat #3 is the button
+Seat 3: llmaiconll ($39.51 in chips)
+Seat 5: B_loJkl ($86.58 in chips)
+llmaiconll: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+llmaiconll: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: llmaiconll (button) (small blind) folded before Flop
+Seat 5: B_loJkl (big blind) collected ($2)
+
+
+PokerStars Hand #150711410912:  Hold'em Limit ($3/$6 USD) - 2016/03/21 13:22:16 ET
+Table 'Pherkad III' 6-max Seat #5 is the button
+Seat 3: llmaiconll ($30.87 in chips)
+Seat 5: B_loJkl ($95.58 in chips)
+B_loJkl: posts small blind $1
+llmaiconll: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+llmaiconll: raises $3 to $9
+B_loJkl: calls $3
+*** FLOP *** [Qd Jh 4h]
+llmaiconll: bets $3
+B_loJkl: folds
+Uncalled bet ($3) returned to llmaiconll
+llmaiconll collected $17.64 from pot
+llmaiconll: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qd Jh 4h]
+Seat 3: llmaiconll (big blind) collected ($17.64)
+Seat 5: B_loJkl (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #150711468937:  Hold'em Limit ($3/$6 USD) - 2016/03/21 13:23:24 ET
+Table 'Pherkad III' 6-max Seat #3 is the button
+Seat 3: llmaiconll ($23.51 in chips)
+Seat 5: B_loJkl ($102.10 in chips)
+llmaiconll: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+llmaiconll: folds
+Uncalled bet ($2) returned to B_loJkl
+llmaiconll leaves the table
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: llmaiconll (button) (small blind) folded before Flop
+Seat 5: B_loJkl (big blind) collected ($2)
+
+
+PokerStars Hand #150711461978:  Hold'em Limit ($3/$6 USD) - 2016/03/21 13:23:16 ET
+Table 'Pherkad III' 6-max Seat #5 is the button
+Seat 3: llmaiconll ($26.51 in chips)
+Seat 5: B_loJkl ($99.10 in chips)
+B_loJkl: posts small blind $1
+llmaiconll: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+llmaiconll: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $6 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: llmaiconll (big blind) folded before Flop
+Seat 5: B_loJkl (button) (small blind) collected ($6)
+
+
+PokerStars Hand #150711444621:  Hold'em Limit ($3/$6 USD) - 2016/03/21 13:22:55 ET
+Table 'Pherkad III' 6-max Seat #3 is the button
+Seat 3: llmaiconll ($32.51 in chips)
+Seat 5: B_loJkl ($93.34 in chips)
+llmaiconll: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+llmaiconll: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Jh 2c 4s]
+B_loJkl: checks
+llmaiconll: checks
+*** TURN *** [Jh 2c 4s] [Kh]
+B_loJkl: bets $6
+llmaiconll: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jh 2c 4s Kh]
+Seat 3: llmaiconll (button) (small blind) folded on the Turn
+Seat 5: B_loJkl (big blind) collected ($11.76)
+
+
+PokerStars Hand #150714006863:  Hold'em Limit ($3/$6 USD) - 2016/03/21 14:11:57 ET
+Table 'Pherkad III' 6-max Seat #3 is the button
+Seat 3: llmaiconll ($78.41 in chips)
+Seat 5: Pandakey ($92.76 in chips)
+llmaiconll: posts small blind $1
+Pandakey: posts big blind $3
+*** HOLE CARDS ***
+llmaiconll: raises $3 to $6
+Pandakey: calls $3
+*** FLOP *** [Jd 4s 9s]
+Pandakey: checks
+llmaiconll: checks
+*** TURN *** [Jd 4s 9s] [Kd]
+Pandakey: bets $6
+llmaiconll: raises $6 to $12
+Pandakey: calls $6
+*** RIVER *** [Jd 4s 9s Kd] [5h]
+Pandakey: checks
+llmaiconll: bets $6
+Pandakey: calls $6
+*** SHOW DOWN ***
+llmaiconll: shows [Ks 8h] (a pair of Kings)
+Pandakey: mucks hand
+llmaiconll collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Jd 4s 9s Kd 5h]
+Seat 3: llmaiconll (button) (small blind) showed [Ks 8h] and won ($47.50) with a pair of Kings
+Seat 5: Pandakey (big blind) mucked
+
+
+PokerStars Hand #150714021084:  Hold'em Limit ($3/$6 USD) - 2016/03/21 14:12:12 ET
+Table 'Pherkad III' 6-max Seat #5 is the button
+Seat 3: llmaiconll ($101.91 in chips)
+Seat 5: Pandakey ($68.76 in chips)
+Pandakey: posts small blind $1
+llmaiconll: posts big blind $3
+*** HOLE CARDS ***
+Pandakey: raises $3 to $6
+llmaiconll: calls $3
+*** FLOP *** [2d 9s 2s]
+llmaiconll: checks
+Pandakey: bets $3
+llmaiconll: calls $3
+*** TURN *** [2d 9s 2s] [Tc]
+llmaiconll: checks
+Pandakey: bets $6
+llmaiconll: calls $6
+*** RIVER *** [2d 9s 2s Tc] [Kd]
+llmaiconll: checks
+B_loJkl joins the table at seat #4
+Pandakey: bets $6
+llmaiconll: folds
+Uncalled bet ($6) returned to Pandakey
+Pandakey collected $29.50 from pot
+Pandakey: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2d 9s 2s Tc Kd]
+Seat 3: llmaiconll (big blind) folded on the River
+Seat 5: Pandakey (button) (small blind) collected ($29.50)
+
+
+PokerStars Hand #150713979472:  Hold'em Limit ($3/$6 USD) - 2016/03/21 14:11:27 ET
+Table 'Pherkad III' 6-max Seat #3 is the button
+Seat 3: llmaiconll ($49.27 in chips)
+Seat 5: Pandakey ($122.76 in chips)
+llmaiconll: posts small blind $1
+Pandakey: posts big blind $3
+*** HOLE CARDS ***
+llmaiconll: raises $3 to $6
+Pandakey: calls $3
+*** FLOP *** [Ad 9c Js]
+Pandakey: checks
+llmaiconll: bets $3
+Pandakey: calls $3
+*** TURN *** [Ad 9c Js] [6c]
+Pandakey: checks
+llmaiconll: bets $6
+Pandakey: calls $6
+*** RIVER *** [Ad 9c Js 6c] [8c]
+Pandakey: checks
+llmaiconll: bets $6
+Pandakey: calls $6
+*** SHOW DOWN ***
+llmaiconll: shows [Qh As] (a pair of Aces)
+Pandakey: mucks hand
+llmaiconll collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ad 9c Js 6c 8c]
+Seat 3: llmaiconll (button) (small blind) showed [Qh As] and won ($41.50) with a pair of Aces
+Seat 5: Pandakey (big blind) mucked
+
+
+PokerStars Hand #150714970861:  Hold'em Limit ($3/$6 USD) - 2016/03/21 14:29:15 ET
+Table 'Pherkad III' 6-max Seat #5 is the button
+Seat 5: Pandakey ($54.93 in chips)
+Seat 6: alexfer999 ($120 in chips)
+Pandakey: posts small blind $1
+alexfer999: posts big blind $3
+*** HOLE CARDS ***
+Pandakey: raises $3 to $6
+alexfer999: raises $3 to $9
+Pandakey: calls $3
+*** FLOP *** [3d 3h 5s]
+alexfer999: bets $3
+Pandakey: calls $3
+*** TURN *** [3d 3h 5s] [Ah]
+alexfer999: bets $6
+B_loJkl joins the table at seat #1
+Pandakey: calls $6
+*** RIVER *** [3d 3h 5s Ah] [6d]
+alexfer999: bets $6
+Pandakey: calls $6
+*** SHOW DOWN ***
+alexfer999: shows [9c 8c] (a pair of Threes)
+Pandakey: shows [Kh 6s] (two pair, Sixes and Threes)
+Pandakey collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3d 3h 5s Ah 6d]
+Seat 5: Pandakey (button) (small blind) showed [Kh 6s] and won ($47.50) with two pair, Sixes and Threes
+Seat 6: alexfer999 (big blind) showed [9c 8c] and lost with a pair of Threes
+
+
+PokerStars Hand #150717476154:  Hold'em Limit ($3/$6 USD) - 2016/03/21 15:14:16 ET
+Table 'Pherkad III' 6-max Seat #1 is the button
+Seat 1: B_loJkl ($141.56 in chips)
+Seat 6: alexfer999 ($74.67 in chips)
+B_loJkl: posts small blind $1
+aless284: is sitting out
+SmellyToes4u: is sitting out
+alexfer999: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+aless284 leaves the table
+alexfer999: raises $3 to $9
+B_loJkl: raises $3 to $12
+Betting is capped
+alexfer999: calls $3
+*** FLOP *** [4h 3d 8s]
+alexfer999: checks
+B_loJkl: bets $3
+alexfer999: calls $3
+*** TURN *** [4h 3d 8s] [2h]
+alexfer999: checks
+B_loJkl: bets $6
+alexfer999: calls $6
+*** RIVER *** [4h 3d 8s 2h] [5c]
+alexfer999: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+alexfer999: shows [Ac Kd] (a straight, Ace to Five)
+B_loJkl: shows [Tc Ad] (a straight, Ace to Five)
+alexfer999 collected $26.75 from pot
+B_loJkl collected $26.75 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [4h 3d 8s 2h 5c]
+Seat 1: B_loJkl (button) (small blind) showed [Tc Ad] and won ($26.75) with a straight, Ace to Five
+Seat 6: alexfer999 (big blind) showed [Ac Kd] and won ($26.75) with a straight, Ace to Five
+
+
+PokerStars Hand #150717502639:  Hold'em Limit ($3/$6 USD) - 2016/03/21 15:14:43 ET
+Table 'Pherkad III' 6-max Seat #6 is the button
+Seat 1: B_loJkl ($141.31 in chips)
+Seat 6: alexfer999 ($74.42 in chips)
+alexfer999: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+alexfer999: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Jd 4c 8d]
+B_loJkl: checks
+alexfer999: bets $3
+B_loJkl: calls $3
+*** TURN *** [Jd 4c 8d] [2c]
+B_loJkl: checks
+alexfer999: checks
+*** RIVER *** [Jd 4c 8d 2c] [5d]
+B_loJkl: checks
+alexfer999: checks
+*** SHOW DOWN ***
+B_loJkl: shows [Kc 7s] (high card King)
+alexfer999: shows [Th Kh] (high card King - Jack+Ten kicker)
+alexfer999 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Jd 4c 8d 2c 5d]
+Seat 1: B_loJkl (big blind) showed [Kc 7s] and lost with high card King
+Seat 6: alexfer999 (button) (small blind) showed [Th Kh] and won ($17.64) with high card King
+
+
+PokerStars Hand #150717569486:  Hold'em Limit ($3/$6 USD) - 2016/03/21 15:15:51 ET
+Table 'Pherkad III' 6-max Seat #1 is the button
+Seat 1: B_loJkl ($132.31 in chips)
+Seat 6: alexfer999 ($83.06 in chips)
+B_loJkl: posts small blind $1
+alexfer999: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: folds
+Uncalled bet ($2) returned to alexfer999
+alexfer999 collected $2 from pot
+alexfer999: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: B_loJkl (button) (small blind) folded before Flop
+Seat 6: alexfer999 (big blind) collected ($2)
+
+
+PokerStars Hand #150717575316:  Hold'em Limit ($3/$6 USD) - 2016/03/21 15:15:57 ET
+Table 'Pherkad III' 6-max Seat #6 is the button
+Seat 1: B_loJkl ($131.31 in chips)
+Seat 6: alexfer999 ($84.06 in chips)
+alexfer999: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+alexfer999: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [5s 9d Kd]
+B_loJkl: checks
+alexfer999: bets $3
+B_loJkl: folds
+Uncalled bet ($3) returned to alexfer999
+alexfer999 collected $11.76 from pot
+alexfer999: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5s 9d Kd]
+Seat 1: B_loJkl (big blind) folded on the Flop
+Seat 6: alexfer999 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #150717602714:  Hold'em Limit ($3/$6 USD) - 2016/03/21 15:16:26 ET
+Table 'Pherkad III' 6-max Seat #1 is the button
+Seat 1: B_loJkl ($125.31 in chips)
+Seat 6: alexfer999 ($89.82 in chips)
+B_loJkl: posts small blind $1
+alexfer999: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+alexfer999: calls $3
+*** FLOP *** [7d Ah 8h]
+alexfer999: checks
+SmellyToes4u leaves the table
+B_loJkl: bets $3
+alexfer999: raises $3 to $6
+B_loJkl: calls $3
+*** TURN *** [7d Ah 8h] [Kd]
+alexfer999: bets $6
+B_loJkl: calls $6
+*** RIVER *** [7d Ah 8h Kd] [Jh]
+alexfer999: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to alexfer999
+alexfer999 collected $35.50 from pot
+alexfer999: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [7d Ah 8h Kd Jh]
+Seat 1: B_loJkl (button) (small blind) folded on the River
+Seat 6: alexfer999 (big blind) collected ($35.50)
+
+
+PokerStars Hand #150717639540:  Hold'em Limit ($3/$6 USD) - 2016/03/21 15:17:03 ET
+Table 'Pherkad III' 6-max Seat #6 is the button
+Seat 1: B_loJkl ($107.31 in chips)
+Seat 6: alexfer999 ($107.32 in chips)
+alexfer999: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+alexfer999: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: B_loJkl (big blind) collected ($2)
+Seat 6: alexfer999 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #150717645201:  Hold'em Limit ($3/$6 USD) - 2016/03/21 15:17:09 ET
+Table 'Pherkad III' 6-max Seat #1 is the button
+Seat 1: B_loJkl ($108.31 in chips)
+Seat 6: alexfer999 ($106.32 in chips)
+B_loJkl: posts small blind $1
+alexfer999: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+alexfer999: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $6 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: B_loJkl (button) (small blind) collected ($6)
+Seat 6: alexfer999 (big blind) folded before Flop
+
+
+PokerStars Hand #150717656392:  Hold'em Limit ($3/$6 USD) - 2016/03/21 15:17:20 ET
+Table 'Pherkad III' 6-max Seat #6 is the button
+Seat 1: B_loJkl ($111.31 in chips)
+Seat 6: alexfer999 ($103.32 in chips)
+alexfer999: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+alexfer999: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [2s 2h 5c]
+B_loJkl: checks
+alexfer999: bets $3
+B_loJkl: calls $3
+*** TURN *** [2s 2h 5c] [Ac]
+B_loJkl: checks
+alexfer999: checks
+*** RIVER *** [2s 2h 5c Ac] [8d]
+B_loJkl: checks
+alexfer999: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to alexfer999
+alexfer999 collected $17.64 from pot
+alexfer999: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2s 2h 5c Ac 8d]
+Seat 1: B_loJkl (big blind) folded on the River
+Seat 6: alexfer999 (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #150717691814:  Hold'em Limit ($3/$6 USD) - 2016/03/21 15:17:56 ET
+Table 'Pherkad III' 6-max Seat #1 is the button
+Seat 1: B_loJkl ($102.31 in chips)
+Seat 6: alexfer999 ($111.96 in chips)
+B_loJkl: posts small blind $1
+alexfer999: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: folds
+Uncalled bet ($2) returned to alexfer999
+alexfer999 collected $2 from pot
+alexfer999: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: B_loJkl (button) (small blind) folded before Flop
+Seat 6: alexfer999 (big blind) collected ($2)
+
+
+PokerStars Hand #150717714485:  Hold'em Limit ($3/$6 USD) - 2016/03/21 15:18:19 ET
+Table 'Pherkad III' 6-max Seat #6 is the button
+Seat 1: B_loJkl ($101.31 in chips)
+Seat 6: alexfer999 ($112.96 in chips)
+alexfer999: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+alexfer999: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: B_loJkl (big blind) collected ($2)
+Seat 6: alexfer999 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #150717720106:  Hold'em Limit ($3/$6 USD) - 2016/03/21 15:18:25 ET
+Table 'Pherkad III' 6-max Seat #1 is the button
+Seat 1: B_loJkl ($102.31 in chips)
+Seat 6: alexfer999 ($111.96 in chips)
+B_loJkl: posts small blind $1
+alexfer999: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+alexfer999: calls $3
+*** FLOP *** [Kc Qh 5h]
+alexfer999: checks
+B_loJkl: bets $3
+alexfer999: calls $3
+*** TURN *** [Kc Qh 5h] [7d]
+alexfer999: checks
+B_loJkl: checks
+*** RIVER *** [Kc Qh 5h 7d] [3h]
+alexfer999: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+alexfer999: shows [9s Kd] (a pair of Kings)
+B_loJkl: mucks hand
+alexfer999 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kc Qh 5h 7d 3h]
+Seat 1: B_loJkl (button) (small blind) mucked
+Seat 6: alexfer999 (big blind) showed [9s Kd] and won ($29.50) with a pair of Kings
+
+
+PokerStars Hand #150717750731:  Hold'em Limit ($3/$6 USD) - 2016/03/21 15:18:56 ET
+Table 'Pherkad III' 6-max Seat #1 is the button
+Seat 1: B_loJkl ($84.31 in chips)
+Seat 6: alexfer999 ($129.46 in chips)
+B_loJkl: posts small blind $1
+alexfer999: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+alexfer999: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $6 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: B_loJkl (button) (small blind) collected ($6)
+Seat 6: alexfer999 (big blind) folded before Flop
+
+
+PokerStars Hand #150717743906:  Hold'em Limit ($3/$6 USD) - 2016/03/21 15:18:49 ET
+Table 'Pherkad III' 6-max Seat #6 is the button
+Seat 1: B_loJkl ($87.31 in chips)
+Seat 6: alexfer999 ($126.46 in chips)
+alexfer999: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+alexfer999: raises $3 to $6
+B_loJkl: folds
+Uncalled bet ($3) returned to alexfer999
+alexfer999 collected $6 from pot
+alexfer999: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: B_loJkl (big blind) folded before Flop
+Seat 6: alexfer999 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #150717757900:  Hold'em Limit ($3/$6 USD) - 2016/03/21 15:19:03 ET
+Table 'Pherkad III' 6-max Seat #6 is the button
+Seat 1: B_loJkl ($87.31 in chips)
+Seat 6: alexfer999 ($126.46 in chips)
+alexfer999: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+alexfer999: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: B_loJkl (big blind) collected ($2)
+Seat 6: alexfer999 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #150717763017:  Hold'em Limit ($3/$6 USD) - 2016/03/21 15:19:09 ET
+Table 'Pherkad III' 6-max Seat #1 is the button
+Seat 1: B_loJkl ($88.31 in chips)
+Seat 6: alexfer999 ($125.46 in chips)
+B_loJkl: posts small blind $1
+alexfer999: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: folds
+Uncalled bet ($2) returned to alexfer999
+alexfer999 collected $2 from pot
+alexfer999: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: B_loJkl (button) (small blind) folded before Flop
+Seat 6: alexfer999 (big blind) collected ($2)
+
+
+PokerStars Hand #150717788265:  Hold'em Limit ($3/$6 USD) - 2016/03/21 15:19:34 ET
+Table 'Pherkad III' 6-max Seat #1 is the button
+Seat 1: B_loJkl ($81.31 in chips)
+Seat 6: alexfer999 ($132.22 in chips)
+B_loJkl: posts small blind $1
+alexfer999: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+alexfer999: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $6 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: B_loJkl (button) (small blind) collected ($6)
+Seat 6: alexfer999 (big blind) folded before Flop
+
+
+PokerStars Hand #150717800399:  Hold'em Limit ($3/$6 USD) - 2016/03/21 15:19:47 ET
+Table 'Pherkad III' 6-max Seat #6 is the button
+Seat 1: B_loJkl ($84.31 in chips)
+Seat 6: alexfer999 ($129.22 in chips)
+alexfer999: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+alexfer999: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [4s 3d 8c]
+B_loJkl: checks
+alexfer999: bets $3
+B_loJkl: raises $3 to $6
+alexfer999: calls $3
+*** TURN *** [4s 3d 8c] [5s]
+B_loJkl: bets $6
+alexfer999: raises $6 to $12
+B_loJkl: calls $6
+*** RIVER *** [4s 3d 8c 5s] [9c]
+B_loJkl: checks
+alexfer999: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to alexfer999
+alexfer999 collected $47.50 from pot
+alexfer999: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4s 3d 8c 5s 9c]
+Seat 1: B_loJkl (big blind) folded on the River
+Seat 6: alexfer999 (button) (small blind) collected ($47.50)
+
+
+PokerStars Hand #150717769218:  Hold'em Limit ($3/$6 USD) - 2016/03/21 15:19:15 ET
+Table 'Pherkad III' 6-max Seat #6 is the button
+Seat 1: B_loJkl ($87.31 in chips)
+Seat 6: alexfer999 ($126.46 in chips)
+alexfer999: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+alexfer999: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [4h Jc 9s]
+B_loJkl: checks
+alexfer999: bets $3
+B_loJkl: folds
+Uncalled bet ($3) returned to alexfer999
+alexfer999 collected $11.76 from pot
+alexfer999: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4h Jc 9s]
+Seat 1: B_loJkl (big blind) folded on the Flop
+Seat 6: alexfer999 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #150717857159:  Hold'em Limit ($3/$6 USD) - 2016/03/21 15:20:45 ET
+Table 'Pherkad III' 6-max Seat #6 is the button
+Seat 1: B_loJkl ($48.31 in chips)
+Seat 6: alexfer999 ($164.24 in chips)
+alexfer999: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+alexfer999: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: B_loJkl (big blind) collected ($2)
+Seat 6: alexfer999 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #150717827270:  Hold'em Limit ($3/$6 USD) - 2016/03/21 15:20:15 ET
+Table 'Pherkad III' 6-max Seat #1 is the button
+Seat 1: B_loJkl ($60.31 in chips)
+Seat 6: alexfer999 ($152.72 in chips)
+B_loJkl: posts small blind $1
+alexfer999: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+alexfer999: calls $3
+*** FLOP *** [Jh 2c 4c]
+alexfer999: checks
+B_loJkl: bets $3
+alexfer999: raises $3 to $6
+B_loJkl: calls $3
+*** TURN *** [Jh 2c 4c] [3d]
+alexfer999: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to alexfer999
+alexfer999 collected $23.52 from pot
+alexfer999: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Jh 2c 4c 3d]
+Seat 1: B_loJkl (button) (small blind) folded on the Turn
+Seat 6: alexfer999 (big blind) collected ($23.52)
+
+
+PokerStars Hand #150717905066:  Hold'em Limit ($3/$6 USD) - 2016/03/21 15:21:34 ET
+Table 'Pherkad III' 6-max Seat #6 is the button
+Seat 1: B_loJkl ($63.81 in chips)
+Seat 6: alexfer999 ($148.24 in chips)
+alexfer999: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+alexfer999: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: B_loJkl (big blind) collected ($2)
+Seat 6: alexfer999 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #150717918044:  Hold'em Limit ($3/$6 USD) - 2016/03/21 15:21:44 ET
+Table 'Pherkad III' 6-max Seat #1 is the button
+Seat 1: B_loJkl ($64.81 in chips)
+Seat 6: alexfer999 ($147.24 in chips)
+B_loJkl: posts small blind $1
+alexfer999: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+alexfer999: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $6 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: B_loJkl (button) (small blind) collected ($6)
+Seat 6: alexfer999 (big blind) folded before Flop
+
+
+PokerStars Hand #150717931341:  Hold'em Limit ($3/$6 USD) - 2016/03/21 15:21:58 ET
+Table 'Pherkad III' 6-max Seat #6 is the button
+Seat 1: B_loJkl ($67.81 in chips)
+Seat 6: alexfer999 ($144.24 in chips)
+alexfer999: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+alexfer999: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Ad 7s 4d]
+B_loJkl: checks
+alexfer999: bets $3
+B_loJkl: folds
+Uncalled bet ($3) returned to alexfer999
+alexfer999 collected $11.76 from pot
+alexfer999: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ad 7s 4d]
+Seat 1: B_loJkl (big blind) folded on the Flop
+Seat 6: alexfer999 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #150717862116:  Hold'em Limit ($3/$6 USD) - 2016/03/21 15:20:50 ET
+Table 'Pherkad III' 6-max Seat #1 is the button
+Seat 1: B_loJkl ($49.31 in chips)
+Seat 6: alexfer999 ($163.24 in chips)
+B_loJkl: posts small blind $1
+alexfer999: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+alexfer999: calls $3
+*** FLOP *** [Qh 9s 6s]
+alexfer999: checks
+B_loJkl: bets $3
+alexfer999: calls $3
+*** TURN *** [Qh 9s 6s] [8h]
+alexfer999: checks
+B_loJkl: bets $6
+alexfer999: calls $6
+*** RIVER *** [Qh 9s 6s 8h] [3s]
+alexfer999: checks
+B_loJkl: bets $6
+alexfer999: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $29.50 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qh 9s 6s 8h 3s]
+Seat 1: B_loJkl (button) (small blind) collected ($29.50)
+Seat 6: alexfer999 (big blind) folded on the River
+
+
+PokerStars Hand #150717952670:  Hold'em Limit ($3/$6 USD) - 2016/03/21 15:22:19 ET
+Table 'Pherkad III' 6-max Seat #1 is the button
+Seat 1: B_loJkl ($61.81 in chips)
+Seat 6: alexfer999 ($150 in chips)
+B_loJkl: posts small blind $1
+alexfer999: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl said, "gg"
+B_loJkl: raises $3 to $6
+alexfer999: calls $3
+*** FLOP *** [3s 2d Kc]
+alexfer999: checks
+B_loJkl: bets $3
+alexfer999: calls $3
+*** TURN *** [3s 2d Kc] [9h]
+alexfer999: checks
+B_loJkl: checks
+*** RIVER *** [3s 2d Kc 9h] [2c]
+alexfer999: checks
+B_loJkl: checks
+*** SHOW DOWN ***
+alexfer999: shows [As 4h] (a pair of Deuces)
+B_loJkl: mucks hand
+alexfer999 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3s 2d Kc 9h 2c]
+Seat 1: B_loJkl (button) (small blind) mucked
+Seat 6: alexfer999 (big blind) showed [As 4h] and won ($17.64) with a pair of Deuces
+
+
+PokerStars Hand #150717980035:  Hold'em Limit ($3/$6 USD) - 2016/03/21 15:22:47 ET
+Table 'Pherkad III' 6-max Seat #6 is the button
+Seat 1: B_loJkl ($52.81 in chips)
+Seat 6: alexfer999 ($158.64 in chips)
+alexfer999: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+alexfer999: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [8d Jc 6d]
+B_loJkl: checks
+alexfer999: checks
+*** TURN *** [8d Jc 6d] [9h]
+B_loJkl: bets $6
+alexfer999: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $11.76 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8d Jc 6d 9h]
+Seat 1: B_loJkl (big blind) collected ($11.76)
+Seat 6: alexfer999 (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #150718002009:  Hold'em Limit ($3/$6 USD) - 2016/03/21 15:23:10 ET
+Table 'Pherkad III' 6-max Seat #1 is the button
+Seat 1: B_loJkl ($58.57 in chips)
+Seat 6: alexfer999 ($152.64 in chips)
+B_loJkl: posts small blind $1
+alexfer999: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+alexfer999: raises $3 to $9
+B_loJkl: calls $3
+*** FLOP *** [7s 6d 8d]
+alexfer999: bets $3
+B_loJkl: calls $3
+*** TURN *** [7s 6d 8d] [2d]
+alexfer999: bets $6
+B_loJkl: calls $6
+*** RIVER *** [7s 6d 8d 2d] [Qd]
+alexfer999: checks
+B_loJkl: bets $6
+alexfer999: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $35.50 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [7s 6d 8d 2d Qd]
+Seat 1: B_loJkl (button) (small blind) collected ($35.50)
+Seat 6: alexfer999 (big blind) folded on the River
+
+

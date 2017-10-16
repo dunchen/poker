@@ -1,0 +1,35 @@
+PokerStars Hand #162267851885:  Hold'em Limit ($3/$6 USD) - 2016/12/01 19:33:11 ET
+Table 'Monachia' 10-max Seat #2 is the button
+Seat 2: ToDaFelt ($188.54 in chips)
+Seat 9: komornik ($47.67 in chips)
+ToDaFelt: posts small blind $1
+Chessnok: is sitting out
+komornik: posts big blind $3
+*** HOLE CARDS ***
+Chessnok leaves the table
+ToDaFelt: raises $3 to $6
+komornik: raises $3 to $9
+ToDaFelt: calls $3
+*** FLOP *** [8h 2d 2h]
+komornik: bets $3
+ToDaFelt: calls $3
+*** TURN *** [8h 2d 2h] [Td]
+komornik: bets $6
+ToDaFelt: raises $6 to $12
+komornik: calls $6
+*** RIVER *** [8h 2d 2h Td] [As]
+komornik: checks
+ToDaFelt: bets $6
+komornik: raises $6 to $12
+ToDaFelt: raises $6 to $18
+komornik: folds
+Uncalled bet ($6) returned to ToDaFelt
+ToDaFelt collected $71.50 from pot
+ToDaFelt: doesn't show hand
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [8h 2d 2h Td As]
+Seat 2: ToDaFelt (button) (small blind) collected ($71.50)
+Seat 9: komornik (big blind) folded on the River
+
+

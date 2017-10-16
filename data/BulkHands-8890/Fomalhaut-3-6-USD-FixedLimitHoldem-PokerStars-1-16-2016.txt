@@ -1,0 +1,107 @@
+PokerStars Hand #147149187110:  Hold'em Limit ($3/$6 USD) - 2016/01/16 14:08:32 ET
+Table 'Fomalhaut' 6-max Seat #3 is the button
+Seat 1: PelonCabelao ($94.76 in chips)
+Seat 3: _fayzulllo_ ($36 in chips)
+ZinZar joins the table at seat #4
+_fayzulllo_: posts small blind $1
+PelonCabelao: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_: raises $3 to $6
+PelonCabelao: calls $3
+*** FLOP *** [9d 5h 4s]
+PelonCabelao: checks
+_fayzulllo_: bets $3
+PelonCabelao: calls $3
+*** TURN *** [9d 5h 4s] [5s]
+PelonCabelao: checks
+_fayzulllo_: bets $6
+PelonCabelao: calls $6
+*** RIVER *** [9d 5h 4s 5s] [9s]
+PelonCabelao: bets $6
+_fayzulllo_: calls $6
+*** SHOW DOWN ***
+PelonCabelao: shows [8d 4d] (two pair, Nines and Fives)
+_fayzulllo_: shows [2s As] (a flush, Ace high)
+_fayzulllo_ collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9d 5h 4s 5s 9s]
+Seat 1: PelonCabelao (big blind) showed [8d 4d] and lost with two pair, Nines and Fives
+Seat 3: _fayzulllo_ (button) (small blind) showed [2s As] and won ($41.50) with a flush, Ace high
+
+
+PokerStars Hand #147149223637:  Hold'em Limit ($3/$6 USD) - 2016/01/16 14:09:09 ET
+Table 'Fomalhaut' 6-max Seat #1 is the button
+Seat 1: PelonCabelao ($73.76 in chips)
+Seat 3: _fayzulllo_ ($56.50 in chips)
+PelonCabelao: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+PelonCabelao: raises $3 to $6
+_fayzulllo_: calls $3
+*** FLOP *** [8h 6c 9s]
+_fayzulllo_: checks
+PelonCabelao: bets $3
+_fayzulllo_: folds
+Uncalled bet ($3) returned to PelonCabelao
+PelonCabelao collected $11.76 from pot
+PelonCabelao: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8h 6c 9s]
+Seat 1: PelonCabelao (button) (small blind) collected ($11.76)
+Seat 3: _fayzulllo_ (big blind) folded on the Flop
+
+
+PokerStars Hand #147149625428:  Hold'em Limit ($3/$6 USD) - 2016/01/16 14:16:00 ET
+Table 'Fomalhaut' 6-max Seat #2 is the button
+Seat 2: RUNNINGMAN70 ($142.30 in chips)
+Seat 4: ZinZar ($108.05 in chips)
+DirtyDouble2 will be allowed to play after the button
+RUNNINGMAN70: posts small blind $1
+ZinZar: posts big blind $3
+*** HOLE CARDS ***
+RUNNINGMAN70: raises $3 to $6
+ZinZar: folds
+Uncalled bet ($3) returned to RUNNINGMAN70
+RUNNINGMAN70 collected $6 from pot
+RUNNINGMAN70: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: RUNNINGMAN70 (button) (small blind) collected ($6)
+Seat 4: ZinZar (big blind) folded before Flop
+
+
+PokerStars Hand #147149630790:  Hold'em Limit ($3/$6 USD) - 2016/01/16 14:16:05 ET
+Table 'Fomalhaut' 6-max Seat #4 is the button
+Seat 2: RUNNINGMAN70 ($145.30 in chips)
+Seat 4: ZinZar ($105.05 in chips)
+ZinZar: posts small blind $1
+RUNNINGMAN70: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_ leaves the table
+ZinZar: raises $3 to $6
+RUNNINGMAN70: calls $3
+*** FLOP *** [2s Jh 8h]
+DirtyDouble2 leaves the table
+RUNNINGMAN70: checks
+ZinZar: bets $3
+RUNNINGMAN70: calls $3
+*** TURN *** [2s Jh 8h] [7s]
+RUNNINGMAN70: checks
+ZinZar: bets $6
+RUNNINGMAN70: calls $6
+*** RIVER *** [2s Jh 8h 7s] [6c]
+RUNNINGMAN70: checks
+ZinZar: bets $6
+RUNNINGMAN70: folds
+Uncalled bet ($6) returned to ZinZar
+ZinZar collected $29.50 from pot
+ZinZar: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2s Jh 8h 7s 6c]
+Seat 2: RUNNINGMAN70 (big blind) folded on the River
+Seat 4: ZinZar (button) (small blind) collected ($29.50)
+
+

@@ -1,0 +1,570 @@
+PokerStars Hand #160678702010:  Hold'em Limit ($3/$6 USD) - 2016/10/30 23:34:12 ET
+Table 'Moira' 6-max Seat #2 is the button
+Seat 1: Masqb ($192.90 in chips)
+Seat 2: hairy1961 ($123.75 in chips)
+hairy1961: posts small blind $1
+Masqb: posts big blind $3
+*** HOLE CARDS ***
+hairy1961: raises $3 to $6
+Masqb: calls $3
+*** FLOP *** [9c 8d 3d]
+Masqb: checks
+hairy1961: checks
+*** TURN *** [9c 8d 3d] [9s]
+Masqb: checks
+hairy1961: checks
+*** RIVER *** [9c 8d 3d 9s] [Qh]
+Masqb: bets $6
+hairy1961: calls $6
+*** SHOW DOWN ***
+Masqb: shows [4d 6h] (a pair of Nines)
+hairy1961: shows [Ac Ks] (a pair of Nines - Ace kicker)
+hairy1961 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [9c 8d 3d 9s Qh]
+Seat 1: Masqb (big blind) showed [4d 6h] and lost with a pair of Nines
+Seat 2: hairy1961 (button) (small blind) showed [Ac Ks] and won ($23.52) with a pair of Nines
+
+
+PokerStars Hand #160683265240:  Hold'em Limit ($3/$6 USD) - 2016/10/31 4:40:04 ET
+Table 'Moira' 6-max Seat #3 is the button
+Seat 3: hairy1961 ($50 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+hairy1961: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+hairy1961: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [8h 2d 3d]
+VolkovDmitri: checks
+hairy1961: bets $3
+VolkovDmitri: raises $3 to $6
+hairy1961: raises $3 to $9
+VolkovDmitri: calls $3
+*** TURN *** [8h 2d 3d] [7c]
+VolkovDmitri: checks
+hairy1961: bets $6
+SLK500 joins the table at seat #2
+VolkovDmitri: calls $6
+*** RIVER *** [8h 2d 3d 7c] [2s]
+VolkovDmitri: checks
+hairy1961: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [7h Qc] (two pair, Sevens and Deuces)
+hairy1961: mucks hand
+VolkovDmitri collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [8h 2d 3d 7c 2s]
+Seat 3: hairy1961 (button) (small blind) mucked
+Seat 4: VolkovDmitri (big blind) showed [7h Qc] and won ($41.50) with two pair, Sevens and Deuces
+
+
+PokerStars Hand #160683321452:  Hold'em Limit ($3/$6 USD) - 2016/10/31 4:42:59 ET
+Table 'Moira' 6-max Seat #3 is the button
+Seat 3: hairy1961 ($31.83 in chips)
+Seat 4: VolkovDmitri ($164.79 in chips)
+hairy1961: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+hairy1961: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: hairy1961 (button) (small blind) folded before Flop
+Seat 4: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #160683306199:  Hold'em Limit ($3/$6 USD) - 2016/10/31 4:42:18 ET
+Table 'Moira' 6-max Seat #4 is the button
+Seat 3: hairy1961 ($26.07 in chips)
+Seat 4: VolkovDmitri ($170.79 in chips)
+VolkovDmitri: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+hairy1961: calls $3
+*** FLOP *** [6s 3h 4c]
+hairy1961: checks
+VolkovDmitri: checks
+*** TURN *** [6s 3h 4c] [Qh]
+hairy1961: checks
+VolkovDmitri: checks
+*** RIVER *** [6s 3h 4c Qh] [Tc]
+hairy1961: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to hairy1961
+hairy1961 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6s 3h 4c Qh Tc]
+Seat 3: hairy1961 (big blind) collected ($11.76)
+Seat 4: VolkovDmitri (button) (small blind) folded on the River
+
+
+PokerStars Hand #160683323467:  Hold'em Limit ($3/$6 USD) - 2016/10/31 4:43:06 ET
+Table 'Moira' 6-max Seat #4 is the button
+Seat 3: hairy1961 ($30.83 in chips)
+Seat 4: VolkovDmitri ($165.79 in chips)
+VolkovDmitri: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+hairy1961: calls $3
+*** FLOP *** [Qd 8h Td]
+hairy1961: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [Qd 8h Td] [As]
+hairy1961: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [Qd 8h Td As] [6d]
+hairy1961: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+hairy1961: shows [Qs 4s] (a pair of Queens)
+VolkovDmitri: mucks hand
+hairy1961 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qd 8h Td As 6d]
+Seat 3: hairy1961 (big blind) showed [Qs 4s] and won ($29.50) with a pair of Queens
+Seat 4: VolkovDmitri (button) (small blind) mucked
+
+
+PokerStars Hand #160683332736:  Hold'em Limit ($3/$6 USD) - 2016/10/31 4:43:36 ET
+Table 'Moira' 6-max Seat #3 is the button
+Seat 3: hairy1961 ($45.33 in chips)
+Seat 4: VolkovDmitri ($150.79 in chips)
+hairy1961: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+hairy1961: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: hairy1961 (button) (small blind) folded before Flop
+Seat 4: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #160683334453:  Hold'em Limit ($3/$6 USD) - 2016/10/31 4:43:42 ET
+Table 'Moira' 6-max Seat #4 is the button
+Seat 3: hairy1961 ($44.33 in chips)
+Seat 4: VolkovDmitri ($151.79 in chips)
+VolkovDmitri: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+hairy1961: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: hairy1961 (big blind) folded before Flop
+Seat 4: VolkovDmitri (button) (small blind) collected ($6)
+
+
+PokerStars Hand #160683338877:  Hold'em Limit ($3/$6 USD) - 2016/10/31 4:43:56 ET
+Table 'Moira' 6-max Seat #3 is the button
+Seat 3: hairy1961 ($41.33 in chips)
+Seat 4: VolkovDmitri ($154.79 in chips)
+hairy1961: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+hairy1961: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Kd 7s 5d]
+VolkovDmitri: checks
+hairy1961: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [Kd 7s 5d] [Ah]
+VolkovDmitri: checks
+hairy1961: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [Kd 7s 5d Ah] [2s]
+VolkovDmitri: checks
+hairy1961: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+hairy1961: shows [Jd 9d] (high card Ace)
+VolkovDmitri: shows [Th Qs] (high card Ace - King+Queen kicker)
+VolkovDmitri collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Kd 7s 5d Ah 2s]
+Seat 3: hairy1961 (button) (small blind) showed [Jd 9d] and lost with high card Ace
+Seat 4: VolkovDmitri (big blind) showed [Th Qs] and won ($41.50) with high card Ace
+
+
+PokerStars Hand #160683355103:  Hold'em Limit ($3/$6 USD) - 2016/10/31 4:44:48 ET
+Table 'Moira' 6-max Seat #4 is the button
+Seat 3: hairy1961 ($20.33 in chips)
+Seat 4: VolkovDmitri ($175.29 in chips)
+VolkovDmitri: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+hairy1961: calls $3
+*** FLOP *** [Td Ac 4d]
+hairy1961: checks
+VolkovDmitri: bets $3
+hairy1961: calls $3
+*** TURN *** [Td Ac 4d] [2s]
+hairy1961: checks
+VolkovDmitri: checks
+*** RIVER *** [Td Ac 4d 2s] [9c]
+hairy1961: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+hairy1961: shows [Th Ks] (a pair of Tens)
+VolkovDmitri: mucks hand
+hairy1961 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Td Ac 4d 2s 9c]
+Seat 3: hairy1961 (big blind) showed [Th Ks] and won ($17.64) with a pair of Tens
+Seat 4: VolkovDmitri (button) (small blind) mucked
+
+
+PokerStars Hand #160683384452:  Hold'em Limit ($3/$6 USD) - 2016/10/31 4:46:22 ET
+Table 'Moira' 6-max Seat #3 is the button
+Seat 3: hairy1961 ($43.37 in chips)
+Seat 4: VolkovDmitri ($151.29 in chips)
+hairy1961: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+hairy1961: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: hairy1961 (button) (small blind) folded before Flop
+Seat 4: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #160683374277:  Hold'em Limit ($3/$6 USD) - 2016/10/31 4:45:49 ET
+Table 'Moira' 6-max Seat #4 is the button
+Seat 3: hairy1961 ($34.73 in chips)
+Seat 4: VolkovDmitri ($160.29 in chips)
+VolkovDmitri: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+hairy1961: calls $3
+*** FLOP *** [3c 8d Jc]
+hairy1961: checks
+VolkovDmitri: bets $3
+hairy1961: calls $3
+*** TURN *** [3c 8d Jc] [Qs]
+hairy1961: checks
+VolkovDmitri: checks
+*** RIVER *** [3c 8d Jc Qs] [7h]
+hairy1961: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+hairy1961: shows [4s Ad] (high card Ace)
+VolkovDmitri: mucks hand
+hairy1961 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3c 8d Jc Qs 7h]
+Seat 3: hairy1961 (big blind) showed [4s Ad] and won ($17.64) with high card Ace
+Seat 4: VolkovDmitri (button) (small blind) mucked
+
+
+PokerStars Hand #160683397996:  Hold'em Limit ($3/$6 USD) - 2016/10/31 4:47:06 ET
+Table 'Moira' 6-max Seat #3 is the button
+Seat 3: hairy1961 ($47.01 in chips)
+Seat 4: VolkovDmitri ($147.29 in chips)
+hairy1961: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+hairy1961: raises $3 to $6
+VolkovDmitri: folds
+Uncalled bet ($3) returned to hairy1961
+hairy1961 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: hairy1961 (button) (small blind) collected ($6)
+Seat 4: VolkovDmitri (big blind) folded before Flop
+
+
+PokerStars Hand #160683393182:  Hold'em Limit ($3/$6 USD) - 2016/10/31 4:46:51 ET
+Table 'Moira' 6-max Seat #3 is the button
+Seat 3: hairy1961 ($51.01 in chips)
+Seat 4: VolkovDmitri ($143.29 in chips)
+hairy1961: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+hairy1961: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: hairy1961 (button) (small blind) folded before Flop
+Seat 4: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #160683386422:  Hold'em Limit ($3/$6 USD) - 2016/10/31 4:46:28 ET
+Table 'Moira' 6-max Seat #4 is the button
+Seat 3: hairy1961 ($42.37 in chips)
+Seat 4: VolkovDmitri ($152.29 in chips)
+VolkovDmitri: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+hairy1961: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [4c Kc 2d]
+hairy1961: bets $3
+VolkovDmitri: folds
+Uncalled bet ($3) returned to hairy1961
+hairy1961 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4c Kc 2d]
+Seat 3: hairy1961 (big blind) collected ($17.64)
+Seat 4: VolkovDmitri (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #160683395162:  Hold'em Limit ($3/$6 USD) - 2016/10/31 4:46:57 ET
+Table 'Moira' 6-max Seat #4 is the button
+Seat 3: hairy1961 ($50.01 in chips)
+Seat 4: VolkovDmitri ($144.29 in chips)
+VolkovDmitri: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+hairy1961: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: hairy1961 (big blind) folded before Flop
+Seat 4: VolkovDmitri (button) (small blind) collected ($6)
+
+
+PokerStars Hand #160683415537:  Hold'em Limit ($3/$6 USD) - 2016/10/31 4:48:02 ET
+Table 'Moira' 6-max Seat #3 is the button
+Seat 3: hairy1961 ($55.77 in chips)
+Seat 4: VolkovDmitri ($138.29 in chips)
+hairy1961: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+hairy1961: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: hairy1961 (button) (small blind) folded before Flop
+Seat 4: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #160683402112:  Hold'em Limit ($3/$6 USD) - 2016/10/31 4:47:19 ET
+Table 'Moira' 6-max Seat #4 is the button
+Seat 3: hairy1961 ($50.01 in chips)
+Seat 4: VolkovDmitri ($144.29 in chips)
+VolkovDmitri: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+hairy1961: calls $3
+*** FLOP *** [9s Qh Tc]
+hairy1961: checks
+VolkovDmitri: checks
+*** TURN *** [9s Qh Tc] [Ah]
+hairy1961: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to hairy1961
+hairy1961 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9s Qh Tc Ah]
+Seat 3: hairy1961 (big blind) collected ($11.76)
+Seat 4: VolkovDmitri (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #160683420964:  Hold'em Limit ($3/$6 USD) - 2016/10/31 4:48:20 ET
+Table 'Moira' 6-max Seat #3 is the button
+Seat 3: hairy1961 ($51.77 in chips)
+Seat 4: VolkovDmitri ($142.29 in chips)
+hairy1961: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+hairy1961: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: hairy1961 (button) (small blind) folded before Flop
+Seat 4: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #160683417412:  Hold'em Limit ($3/$6 USD) - 2016/10/31 4:48:09 ET
+Table 'Moira' 6-max Seat #4 is the button
+Seat 3: hairy1961 ($54.77 in chips)
+Seat 4: VolkovDmitri ($139.29 in chips)
+VolkovDmitri: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+hairy1961: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: hairy1961 (big blind) folded before Flop
+Seat 4: VolkovDmitri (button) (small blind) collected ($6)
+
+
+PokerStars Hand #160683426276:  Hold'em Limit ($3/$6 USD) - 2016/10/31 4:48:37 ET
+Table 'Moira' 6-max Seat #3 is the button
+Seat 3: hairy1961 ($51.77 in chips)
+Seat 4: VolkovDmitri ($142.29 in chips)
+hairy1961: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+hairy1961: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+hairy1961: calls $3
+*** FLOP *** [5c Ks 6c]
+VolkovDmitri: bets $3
+hairy1961: calls $3
+*** TURN *** [5c Ks 6c] [Jh]
+VolkovDmitri: checks
+hairy1961: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [5c Ks 6c Jh] [9h]
+VolkovDmitri: checks
+hairy1961: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to hairy1961
+hairy1961 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5c Ks 6c Jh 9h]
+Seat 3: hairy1961 (button) (small blind) collected ($35.50)
+Seat 4: VolkovDmitri (big blind) folded on the River
+
+
+PokerStars Hand #160683422923:  Hold'em Limit ($3/$6 USD) - 2016/10/31 4:48:26 ET
+Table 'Moira' 6-max Seat #4 is the button
+Seat 3: hairy1961 ($50.77 in chips)
+Seat 4: VolkovDmitri ($143.29 in chips)
+VolkovDmitri: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: folds
+Uncalled bet ($2) returned to hairy1961
+hairy1961 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: hairy1961 (big blind) collected ($2)
+Seat 4: VolkovDmitri (button) (small blind) folded before Flop
+
+
+PokerStars Hand #160683446428:  Hold'em Limit ($3/$6 USD) - 2016/10/31 4:49:42 ET
+Table 'Moira' 6-max Seat #4 is the button
+Seat 3: hairy1961 ($69.27 in chips)
+Seat 4: VolkovDmitri ($124.29 in chips)
+VolkovDmitri: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+hairy1961: calls $3
+*** FLOP *** [3c Tc 5h]
+hairy1961: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [3c Tc 5h] [Qd]
+hairy1961: checks
+VolkovDmitri: bets $6
+hairy1961: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $17.64 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3c Tc 5h Qd]
+Seat 3: hairy1961 (big blind) folded on the Turn
+Seat 4: VolkovDmitri (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #160683442050:  Hold'em Limit ($3/$6 USD) - 2016/10/31 4:49:28 ET
+Table 'Moira' 6-max Seat #4 is the button
+Seat 3: hairy1961 ($69.27 in chips)
+Seat 4: VolkovDmitri ($124.29 in chips)
+VolkovDmitri: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+hairy1961: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: hairy1961 (big blind) folded before Flop
+Seat 4: VolkovDmitri (button) (small blind) collected ($6)
+
+
+PokerStars Hand #160683443839:  Hold'em Limit ($3/$6 USD) - 2016/10/31 4:49:33 ET
+Table 'Moira' 6-max Seat #3 is the button
+Seat 3: hairy1961 ($66.27 in chips)
+Seat 4: VolkovDmitri ($127.29 in chips)
+hairy1961: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+hairy1961: raises $3 to $6
+VolkovDmitri: folds
+Uncalled bet ($3) returned to hairy1961
+hairy1961 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: hairy1961 (button) (small blind) collected ($6)
+Seat 4: VolkovDmitri (big blind) folded before Flop
+
+
+PokerStars Hand #160683470717:  Hold'em Limit ($3/$6 USD) - 2016/10/31 4:50:58 ET
+Table 'Moira' 6-max Seat #5 is the button
+Seat 4: VolkovDmitri ($158.64 in chips)
+Seat 5: SirRomanov ($72 in chips)
+SirRomanov: posts small blind $1
+hairy1961: is sitting out
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+SirRomanov: raises $3 to $6
+hairy1961 leaves the table
+VolkovDmitri: calls $3
+*** FLOP *** [Qd Td 7d]
+VolkovDmitri: checks
+SirRomanov: bets $3
+VolkovDmitri: raises $3 to $6
+SirRomanov: calls $3
+*** TURN *** [Qd Td 7d] [Ks]
+VolkovDmitri: bets $6
+SirRomanov: calls $6
+*** RIVER *** [Qd Td 7d Ks] [5c]
+VolkovDmitri: bets $6
+SirRomanov: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Qh 9c] (a pair of Queens)
+SirRomanov: shows [Js Kh] (a pair of Kings)
+SirRomanov collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Qd Td 7d Ks 5c]
+Seat 4: VolkovDmitri (big blind) showed [Qh 9c] and lost with a pair of Queens
+Seat 5: SirRomanov (button) (small blind) showed [Js Kh] and won ($47.50) with a pair of Kings
+
+

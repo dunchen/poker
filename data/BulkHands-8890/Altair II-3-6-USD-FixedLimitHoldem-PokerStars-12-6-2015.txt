@@ -1,0 +1,353 @@
+PokerStars Hand #144890559163:  Hold'em Limit ($3/$6 USD) - 2015/12/05 21:12:32 ET
+Table 'Altair II' 6-max Seat #6 is the button
+Seat 1: mdif ($120 in chips)
+Seat 6: ZOGI ($262.43 in chips)
+ZOGI: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+ZOGI: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [8s 3c 2d]
+mdif: checks
+ZOGI: checks
+*** TURN *** [8s 3c 2d] [4s]
+mdif: checks
+ZOGI: checks
+*** RIVER *** [8s 3c 2d 4s] [4d]
+Chessnok joins the table at seat #2
+mdif: bets $6
+ZOGI: folds
+Uncalled bet ($6) returned to mdif
+mdif collected $11.76 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8s 3c 2d 4s 4d]
+Seat 1: mdif (big blind) collected ($11.76)
+Seat 6: ZOGI (button) (small blind) folded on the River
+
+
+PokerStars Hand #144890815671:  Hold'em Limit ($3/$6 USD) - 2015/12/05 21:21:40 ET
+Table 'Altair II' 6-max Seat #5 is the button
+Seat 5: Paulllchen ($71 in chips)
+Seat 6: Masqb ($126 in chips)
+Paulllchen: posts small blind $1
+Masqb: posts big blind $3
+*** HOLE CARDS ***
+Paulllchen: folds
+Uncalled bet ($2) returned to Masqb
+Masqb collected $2 from pot
+Masqb: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: Paulllchen (button) (small blind) folded before Flop
+Seat 6: Masqb (big blind) collected ($2)
+
+
+PokerStars Hand #144890819007:  Hold'em Limit ($3/$6 USD) - 2015/12/05 21:21:48 ET
+Table 'Altair II' 6-max Seat #6 is the button
+Seat 5: Paulllchen ($70 in chips)
+Seat 6: Masqb ($127 in chips)
+Masqb: posts small blind $1
+Paulllchen: posts big blind $3
+*** HOLE CARDS ***
+Masqb: raises $3 to $6
+Paulllchen: folds
+Uncalled bet ($3) returned to Masqb
+Masqb collected $6 from pot
+Masqb: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 5: Paulllchen (big blind) folded before Flop
+Seat 6: Masqb (button) (small blind) collected ($6)
+
+
+PokerStars Hand #144890824228:  Hold'em Limit ($3/$6 USD) - 2015/12/05 21:21:59 ET
+Table 'Altair II' 6-max Seat #5 is the button
+Seat 5: Paulllchen ($67 in chips)
+Seat 6: Masqb ($130 in chips)
+Paulllchen: posts small blind $1
+Masqb: posts big blind $3
+*** HOLE CARDS ***
+Paulllchen: raises $3 to $6
+Masqb: calls $3
+*** FLOP *** [4d Ad 3s]
+Masqb: checks
+Paulllchen: bets $3
+Masqb: calls $3
+*** TURN *** [4d Ad 3s] [8d]
+Masqb: checks
+Paulllchen: bets $6
+Masqb: calls $6
+*** RIVER *** [4d Ad 3s 8d] [2s]
+Masqb: bets $6
+Paulllchen: calls $6
+*** SHOW DOWN ***
+Masqb: shows [Ks 5d] (a straight, Ace to Five)
+Paulllchen: mucks hand
+Masqb collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [4d Ad 3s 8d 2s]
+Seat 5: Paulllchen (button) (small blind) mucked
+Seat 6: Masqb (big blind) showed [Ks 5d] and won ($41.50) with a straight, Ace to Five
+
+
+PokerStars Hand #144890849524:  Hold'em Limit ($3/$6 USD) - 2015/12/05 21:22:55 ET
+Table 'Altair II' 6-max Seat #6 is the button
+Seat 5: Paulllchen ($46 in chips)
+Seat 6: Masqb ($150.50 in chips)
+Masqb: posts small blind $1
+Paulllchen: posts big blind $3
+*** HOLE CARDS ***
+Masqb: raises $3 to $6
+Paulllchen: raises $3 to $9
+Masqb: calls $3
+*** FLOP *** [5s Js Th]
+Paulllchen: bets $3
+Masqb: folds
+Uncalled bet ($3) returned to Paulllchen
+Paulllchen collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5s Js Th]
+Seat 5: Paulllchen (big blind) collected ($17.64)
+Seat 6: Masqb (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #144890877874:  Hold'em Limit ($3/$6 USD) - 2015/12/05 21:23:57 ET
+Table 'Altair II' 6-max Seat #6 is the button
+Seat 5: Paulllchen ($69.14 in chips)
+Seat 6: Masqb ($126.50 in chips)
+Masqb: posts small blind $1
+Paulllchen: posts big blind $3
+*** HOLE CARDS ***
+Masqb: raises $3 to $6
+Paulllchen: calls $3
+*** FLOP *** [Ac 5d Td]
+Paulllchen: bets $3
+Masqb: calls $3
+*** TURN *** [Ac 5d Td] [Ks]
+Paulllchen: bets $6
+Masqb: calls $6
+*** RIVER *** [Ac 5d Td Ks] [2s]
+Paulllchen: checks
+Masqb: bets $6
+Paulllchen: calls $6
+*** SHOW DOWN ***
+Masqb: shows [Qs Kc] (a pair of Kings)
+Paulllchen: shows [6d Ah] (a pair of Aces)
+Paulllchen collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ac 5d Td Ks 2s]
+Seat 5: Paulllchen (big blind) showed [6d Ah] and won ($41.50) with a pair of Aces
+Seat 6: Masqb (button) (small blind) showed [Qs Kc] and lost with a pair of Kings
+
+
+PokerStars Hand #144890857719:  Hold'em Limit ($3/$6 USD) - 2015/12/05 21:23:13 ET
+Table 'Altair II' 6-max Seat #5 is the button
+Seat 5: Paulllchen ($54.64 in chips)
+Seat 6: Masqb ($141.50 in chips)
+Paulllchen: posts small blind $1
+Masqb: posts big blind $3
+*** HOLE CARDS ***
+Paulllchen: raises $3 to $6
+Masqb: calls $3
+*** FLOP *** [3d 9c 2h]
+Masqb: checks
+Paulllchen: bets $3
+Masqb: calls $3
+*** TURN *** [3d 9c 2h] [Ad]
+Masqb: checks
+Paulllchen: bets $6
+Masqb: calls $6
+*** RIVER *** [3d 9c 2h Ad] [4c]
+Masqb: checks
+Paulllchen: checks
+*** SHOW DOWN ***
+Masqb: shows [6c Kh] (high card Ace)
+Paulllchen: shows [Qs Qh] (a pair of Queens)
+Paulllchen collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3d 9c 2h Ad 4c]
+Seat 5: Paulllchen (button) (small blind) showed [Qs Qh] and won ($29.50) with a pair of Queens
+Seat 6: Masqb (big blind) showed [6c Kh] and lost with high card Ace
+
+
+PokerStars Hand #144890896278:  Hold'em Limit ($3/$6 USD) - 2015/12/05 21:24:39 ET
+Table 'Altair II' 6-max Seat #5 is the button
+Seat 5: Paulllchen ($89.64 in chips)
+Seat 6: Masqb ($105.50 in chips)
+Paulllchen: posts small blind $1
+Masqb: posts big blind $3
+*** HOLE CARDS ***
+Paulllchen: calls $2
+Masqb: raises $3 to $6
+Paulllchen: calls $3
+*** FLOP *** [2s Kh Js]
+Hsj2012 joins the table at seat #1
+Masqb: bets $3
+Paulllchen: folds
+Uncalled bet ($3) returned to Masqb
+Masqb collected $11.76 from pot
+Masqb: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2s Kh Js]
+Seat 5: Paulllchen (button) (small blind) folded on the Flop
+Seat 6: Masqb (big blind) collected ($11.76)
+
+
+PokerStars Hand #144891078802:  Hold'em Limit ($3/$6 USD) - 2015/12/05 21:31:28 ET
+Table 'Altair II' 6-max Seat #6 is the button
+Seat 5: Paulllchen ($56.83 in chips)
+Seat 6: Masqb ($146.20 in chips)
+Masqb: posts small blind $1
+Chessnok: is sitting out
+Paulllchen: posts big blind $3
+*** HOLE CARDS ***
+Masqb: raises $3 to $6
+Paulllchen: folds
+Uncalled bet ($3) returned to Masqb
+Masqb collected $6 from pot
+Masqb: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 5: Paulllchen (big blind) folded before Flop
+Seat 6: Masqb (button) (small blind) collected ($6)
+
+
+PokerStars Hand #144891085654:  Hold'em Limit ($3/$6 USD) - 2015/12/05 21:31:44 ET
+Table 'Altair II' 6-max Seat #5 is the button
+Seat 5: Paulllchen ($53.83 in chips)
+Seat 6: Masqb ($149.20 in chips)
+Paulllchen: posts small blind $1
+Masqb: posts big blind $3
+*** HOLE CARDS ***
+Paulllchen: raises $3 to $6
+Masqb: folds
+Uncalled bet ($3) returned to Paulllchen
+Paulllchen collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 5: Paulllchen (button) (small blind) collected ($6)
+Seat 6: Masqb (big blind) folded before Flop
+
+
+PokerStars Hand #144891122891:  Hold'em Limit ($3/$6 USD) - 2015/12/05 21:33:09 ET
+Table 'Altair II' 6-max Seat #5 is the button
+Seat 5: Paulllchen ($71.33 in chips)
+Seat 6: Masqb ($131.20 in chips)
+Paulllchen: posts small blind $1
+Masqb: posts big blind $3
+*** HOLE CARDS ***
+Paulllchen: raises $3 to $6
+Masqb: raises $3 to $9
+Paulllchen: calls $3
+*** FLOP *** [8s Jd 8d]
+Masqb: bets $3
+Paulllchen: folds
+Uncalled bet ($3) returned to Masqb
+Masqb collected $17.64 from pot
+Masqb: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8s Jd 8d]
+Seat 5: Paulllchen (button) (small blind) folded on the Flop
+Seat 6: Masqb (big blind) collected ($17.64)
+
+
+PokerStars Hand #144891097211:  Hold'em Limit ($3/$6 USD) - 2015/12/05 21:32:10 ET
+Table 'Altair II' 6-max Seat #6 is the button
+Seat 5: Paulllchen ($56.83 in chips)
+Seat 6: Masqb ($146.20 in chips)
+Masqb: posts small blind $1
+Paulllchen: posts big blind $3
+*** HOLE CARDS ***
+Masqb: raises $3 to $6
+Paulllchen: calls $3
+*** FLOP *** [9s 6d 4d]
+Paulllchen: bets $3
+Masqb: calls $3
+*** TURN *** [9s 6d 4d] [Jh]
+Paulllchen: bets $6
+Masqb: calls $6
+*** RIVER *** [9s 6d 4d Jh] [Qc]
+Paulllchen: checks
+Masqb: checks
+*** SHOW DOWN ***
+Paulllchen: shows [Ts 9d] (a pair of Nines)
+Masqb: mucks hand
+Paulllchen collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9s 6d 4d Jh Qc]
+Seat 5: Paulllchen (big blind) showed [Ts 9d] and won ($29.50) with a pair of Nines
+Seat 6: Masqb (button) (small blind) mucked
+
+
+PokerStars Hand #144891138793:  Hold'em Limit ($3/$6 USD) - 2015/12/05 21:33:45 ET
+Table 'Altair II' 6-max Seat #6 is the button
+Seat 5: Paulllchen ($62.33 in chips)
+Seat 6: Masqb ($139.84 in chips)
+Masqb: posts small blind $1
+Paulllchen: posts big blind $3
+*** HOLE CARDS ***
+Masqb: raises $3 to $6
+Paulllchen: raises $3 to $9
+Masqb: calls $3
+*** FLOP *** [Qc 4h Js]
+Paulllchen: bets $3
+Masqb: calls $3
+*** TURN *** [Qc 4h Js] [Tc]
+Paulllchen: checks
+Masqb: bets $6
+Paulllchen: calls $6
+*** RIVER *** [Qc 4h Js Tc] [2s]
+donjuanmt joins the table at seat #3
+Paulllchen: checks
+Masqb: checks
+*** SHOW DOWN ***
+Paulllchen: shows [5h Ad] (high card Ace)
+Masqb: mucks hand
+Paulllchen collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Qc 4h Js Tc 2s]
+Seat 5: Paulllchen (big blind) showed [5h Ad] and won ($35.50) with high card Ace
+Seat 6: Masqb (button) (small blind) mucked
+
+
+PokerStars Hand #144891159986:  Hold'em Limit ($3/$6 USD) - 2015/12/05 21:34:33 ET
+Table 'Altair II' 6-max Seat #5 is the button
+Seat 5: Paulllchen ($79.83 in chips)
+Seat 6: Masqb ($121.84 in chips)
+Paulllchen: posts small blind $1
+Masqb: posts big blind $3
+*** HOLE CARDS ***
+Paulllchen: calls $2
+Masqb: raises $3 to $6
+Paulllchen: calls $3
+*** FLOP *** [Qh 5h 4c]
+Masqb: bets $3
+Paulllchen: calls $3
+*** TURN *** [Qh 5h 4c] [3d]
+Masqb: checks
+Paulllchen: bets $6
+Masqb: calls $6
+*** RIVER *** [Qh 5h 4c 3d] [Ts]
+Masqb: checks
+Paulllchen: checks
+*** SHOW DOWN ***
+Masqb: shows [As 3c] (a pair of Threes)
+Paulllchen: shows [7s 5s] (a pair of Fives)
+Paulllchen collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qh 5h 4c 3d Ts]
+Seat 5: Paulllchen (button) (small blind) showed [7s 5s] and won ($29.50) with a pair of Fives
+Seat 6: Masqb (big blind) showed [As 3c] and lost with a pair of Threes
+
+

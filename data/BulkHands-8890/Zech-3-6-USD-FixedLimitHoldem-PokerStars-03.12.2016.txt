@@ -1,0 +1,123 @@
+PokerStars Hand #162317325050:  Hold'em Limit ($3/$6 USD) - 2016/12/02 19:00:10 ET
+Table 'Zech' 6-max Seat #1 is the button
+Seat 1: 123ok ($130.80 in chips)
+Seat 4: Actionni13 ($162.14 in chips)
+123ok: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+123ok: folds
+Uncalled bet ($2) returned to Actionni13
+Actionni13 collected $2 from pot
+Actionni13: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: 123ok (button) (small blind) folded before Flop
+Seat 4: Actionni13 (big blind) collected ($2)
+
+
+PokerStars Hand #162317346757:  Hold'em Limit ($3/$6 USD) - 2016/12/02 19:00:42 ET
+Table 'Zech' 6-max Seat #1 is the button
+Seat 1: 123ok ($138.44 in chips)
+Seat 4: Actionni13 ($154.14 in chips)
+123ok: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+123ok: calls $2
+Actionni13: checks
+*** FLOP *** [2d 2c Js]
+Actionni13: bets $3
+123ok: folds
+Uncalled bet ($3) returned to Actionni13
+Actionni13 collected $5.88 from pot
+Actionni13: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [2d 2c Js]
+Seat 1: 123ok (button) (small blind) folded on the Flop
+Seat 4: Actionni13 (big blind) collected ($5.88)
+
+
+PokerStars Hand #162317329093:  Hold'em Limit ($3/$6 USD) - 2016/12/02 19:00:16 ET
+Table 'Zech' 6-max Seat #4 is the button
+Seat 1: 123ok ($129.80 in chips)
+Seat 4: Actionni13 ($163.14 in chips)
+Actionni13: posts small blind $1
+123ok: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+123ok: calls $3
+*** FLOP *** [Qd Qc Kc]
+123ok: checks
+Actionni13: bets $3
+123ok: calls $3
+*** TURN *** [Qd Qc Kc] [8c]
+123ok: checks
+Actionni13: checks
+*** RIVER *** [Qd Qc Kc 8c] [7d]
+123ok: bets $6
+Actionni13: folds
+Uncalled bet ($6) returned to 123ok
+123ok collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qd Qc Kc 8c 7d]
+Seat 1: 123ok (big blind) collected ($17.64)
+Seat 4: Actionni13 (button) (small blind) folded on the River
+
+
+PokerStars Hand #162317356793:  Hold'em Limit ($3/$6 USD) - 2016/12/02 19:00:56 ET
+Table 'Zech' 6-max Seat #4 is the button
+Seat 1: 123ok ($135.44 in chips)
+Seat 4: Actionni13 ($157.02 in chips)
+Actionni13: posts small blind $1
+123ok: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+123ok: calls $3
+*** FLOP *** [4h 3s Qh]
+123ok: checks
+Actionni13: bets $3
+123ok: calls $3
+*** TURN *** [4h 3s Qh] [5d]
+123ok: checks
+Actionni13: bets $6
+123ok: calls $6
+*** RIVER *** [4h 3s Qh 5d] [Jd]
+123ok: checks
+ToDaFelt joins the table at seat #2
+Actionni13: bets $6
+123ok: calls $6
+*** SHOW DOWN ***
+Actionni13: shows [6d 7s] (a straight, Three to Seven)
+123ok: mucks hand
+Actionni13 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [4h 3s Qh 5d Jd]
+Seat 1: 123ok (big blind) mucked
+Seat 4: Actionni13 (button) (small blind) showed [6d 7s] and won ($41.50) with a straight, Three to Seven
+
+
+PokerStars Hand #162318381284:  Hold'em Limit ($3/$6 USD) - 2016/12/02 19:24:07 ET
+Table 'Zech' 6-max Seat #3 is the button
+Seat 2: ToDaFelt ($240.19 in chips)
+Seat 3: Chessnok ($83.65 in chips)
+Chessnok: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [2d Qd Js]
+ToDaFelt: checks
+Chessnok: bets $3
+ToDaFelt: folds
+Uncalled bet ($3) returned to Chessnok
+Chessnok collected $11.76 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2d Qd Js]
+Seat 2: ToDaFelt (big blind) folded on the Flop
+Seat 3: Chessnok (button) (small blind) collected ($11.76)
+
+

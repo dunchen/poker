@@ -1,0 +1,33 @@
+PokerStars Hand #173907832374:  Hold'em Limit ($3/$6 USD) - 2017/08/04 9:52:47 ET
+Table 'Tilia II' 6-max Seat #5 is the button
+Seat 1: Icecold ($147.15 in chips)
+Seat 5: fwilliams007 ($79.36 in chips)
+fwilliams007: posts small blind $1
+Icecold: posts big blind $3
+*** HOLE CARDS ***
+fwilliams007: raises $3 to $6
+Icecold: calls $3
+*** FLOP *** [3c Jh 9h]
+Icecold: checks
+fwilliams007: bets $3
+Icecold: calls $3
+*** TURN *** [3c Jh 9h] [5d]
+Icecold: checks
+fwilliams007: bets $6
+Icecold: raises $6 to $12
+fwilliams007: calls $6
+*** RIVER *** [3c Jh 9h 5d] [3d]
+Icecold: bets $6
+fwilliams007: raises $6 to $12
+Icecold: calls $6
+*** SHOW DOWN ***
+fwilliams007: shows [Td Qh] (a pair of Threes)
+Icecold: shows [Jd Qc] (two pair, Jacks and Threes)
+Icecold collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [3c Jh 9h 5d 3d]
+Seat 1: Icecold (big blind) showed [Jd Qc] and won ($65.50) with two pair, Jacks and Threes
+Seat 5: fwilliams007 (button) (small blind) showed [Td Qh] and lost with a pair of Threes
+
+

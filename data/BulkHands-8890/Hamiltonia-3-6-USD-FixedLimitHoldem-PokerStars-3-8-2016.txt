@@ -1,0 +1,80 @@
+PokerStars Hand #150035100195:  Hold'em Limit ($3/$6 USD) - 2016/03/08 11:03:34 ET
+Table 'Hamiltonia' 6-max Seat #1 is the button
+Seat 1: Donald ($36.79 in chips)
+Seat 3: Great_Kang ($256.79 in chips)
+Donald: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+Donald: raises $3 to $6
+Great_Kang: calls $3
+*** FLOP *** [7s Kd Qs]
+Great_Kang: checks
+Donald: bets $3
+Great_Kang: raises $3 to $6
+Donald: calls $3
+*** TURN *** [7s Kd Qs] [3d]
+Great_Kang: bets $6
+Donald: raises $6 to $12
+Great_Kang: calls $6
+*** RIVER *** [7s Kd Qs 3d] [4h]
+Great_Kang: checks
+Donald: bets $6
+Great_Kang: raises $6 to $12
+Donald: raises $0.79 to $12.79 and is all-in
+Great_Kang: calls $0.79
+*** SHOW DOWN ***
+Donald: shows [Kh Qc] (two pair, Kings and Queens)
+Great_Kang: shows [Ks 4d] (two pair, Kings and Fours)
+Donald collected $73.08 from pot
+*** SUMMARY ***
+Total pot $73.58 | Rake $0.50
+Board [7s Kd Qs 3d 4h]
+Seat 1: Donald (button) (small blind) showed [Kh Qc] and won ($73.08) with two pair, Kings and Queens
+Seat 3: Great_Kang (big blind) showed [Ks 4d] and lost with two pair, Kings and Fours
+
+
+PokerStars Hand #150035079227:  Hold'em Limit ($3/$6 USD) - 2016/03/08 11:03:05 ET
+Table 'Hamiltonia' 6-max Seat #1 is the button
+Seat 1: Donald ($42.79 in chips)
+Seat 3: Great_Kang ($251.15 in chips)
+Donald: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+Donald: raises $3 to $6
+Great_Kang: folds
+Uncalled bet ($3) returned to Donald
+Donald collected $6 from pot
+Donald: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: Donald (button) (small blind) collected ($6)
+Seat 3: Great_Kang (big blind) folded before Flop
+
+
+PokerStars Hand #150035084669:  Hold'em Limit ($3/$6 USD) - 2016/03/08 11:03:12 ET
+Table 'Hamiltonia' 6-max Seat #3 is the button
+Seat 1: Donald ($45.79 in chips)
+Seat 3: Great_Kang ($248.15 in chips)
+Great_Kang: posts small blind $1
+Donald: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang: raises $3 to $6
+Donald: calls $3
+*** FLOP *** [5s 9s 2c]
+Donald: checks
+Great_Kang: bets $3
+Donald: calls $3
+*** TURN *** [5s 9s 2c] [Tc]
+Donald: checks
+Great_Kang: bets $6
+Donald: folds
+Uncalled bet ($6) returned to Great_Kang
+Great_Kang collected $17.64 from pot
+Great_Kang: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5s 9s 2c Tc]
+Seat 1: Donald (big blind) folded on the Turn
+Seat 3: Great_Kang (button) (small blind) collected ($17.64)
+
+

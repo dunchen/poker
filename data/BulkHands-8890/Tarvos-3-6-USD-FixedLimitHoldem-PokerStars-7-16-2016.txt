@@ -1,0 +1,503 @@
+PokerStars Hand #156050008259:  Hold'em Limit ($3/$6 USD) - 2016/07/16 14:47:45 ET
+Table 'Tarvos' 6-max Seat #4 is the button
+Seat 1: Kasinojunge* ($24 in chips)
+Seat 4: VolkovDmitri ($125.76 in chips)
+VolkovDmitri: posts small blind $1
+Kasinojunge*: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Kasinojunge*: calls $3
+*** FLOP *** [9c 5s Qc]
+Kasinojunge*: checks
+VolkovDmitri: bets $3
+Kasinojunge*: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9c 5s Qc]
+Seat 1: Kasinojunge* (big blind) folded on the Flop
+Seat 4: VolkovDmitri (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #156049997213:  Hold'em Limit ($3/$6 USD) - 2016/07/16 14:47:29 ET
+Table 'Tarvos' 6-max Seat #1 is the button
+Seat 1: Kasinojunge* ($30 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+Kasinojunge*: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Kasinojunge*: calls $2
+VolkovDmitri: raises $3 to $6
+Kasinojunge*: calls $3
+*** FLOP *** [Th As 6h]
+ZinZar joins the table at seat #2
+VolkovDmitri: bets $3
+Kasinojunge*: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Th As 6h]
+Seat 1: Kasinojunge* (button) (small blind) folded on the Flop
+Seat 4: VolkovDmitri (big blind) collected ($11.76)
+
+
+PokerStars Hand #156050065406:  Hold'em Limit ($3/$6 USD) - 2016/07/16 14:49:09 ET
+Table 'Tarvos' 6-max Seat #1 is the button
+Seat 1: Kasinojunge* ($56 in chips)
+Seat 2: ZinZar ($72 in chips)
+Kasinojunge*: posts small blind $1
+ZinZar: posts big blind $3
+*** HOLE CARDS ***
+Kasinojunge*: calls $2
+ZinZar: raises $3 to $6
+Kasinojunge*: calls $3
+*** FLOP *** [2h 9h 8h]
+ZinZar: bets $3
+Kasinojunge*: folds
+Uncalled bet ($3) returned to ZinZar
+ZinZar collected $11.76 from pot
+ZinZar: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2h 9h 8h]
+Seat 1: Kasinojunge* (button) (small blind) folded on the Flop
+Seat 2: ZinZar (big blind) collected ($11.76)
+
+
+PokerStars Hand #156050041702:  Hold'em Limit ($3/$6 USD) - 2016/07/16 14:48:34 ET
+Table 'Tarvos' 6-max Seat #2 is the button
+Seat 1: Kasinojunge* ($35.50 in chips)
+Seat 2: ZinZar ($72 in chips)
+ZinZar: posts small blind $1
+Kasinojunge*: posts big blind $3
+*** HOLE CARDS ***
+ZinZar: raises $3 to $6
+Kasinojunge*: calls $3
+*** FLOP *** [Jh 6c 2s]
+Kasinojunge*: checks
+ZinZar: bets $3
+Kasinojunge*: calls $3
+*** TURN *** [Jh 6c 2s] [4d]
+Kasinojunge*: checks
+ZinZar: bets $6
+Kasinojunge*: calls $6
+*** RIVER *** [Jh 6c 2s 4d] [Kc]
+Kasinojunge*: checks
+ZinZar: bets $6
+Kasinojunge*: calls $6
+*** SHOW DOWN ***
+ZinZar: shows [3c Jc] (a pair of Jacks)
+Kasinojunge*: shows [7h Js] (a pair of Jacks - King+Seven kicker)
+Kasinojunge* collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Jh 6c 2s 4d Kc]
+Seat 1: Kasinojunge* (big blind) showed [7h Js] and won ($41.50) with a pair of Jacks
+Seat 2: ZinZar (button) (small blind) showed [3c Jc] and lost with a pair of Jacks
+
+
+PokerStars Hand #156050021433:  Hold'em Limit ($3/$6 USD) - 2016/07/16 14:48:04 ET
+Table 'Tarvos' 6-max Seat #1 is the button
+Seat 1: Kasinojunge* ($18 in chips)
+Seat 2: ZinZar ($72 in chips)
+Kasinojunge*: posts small blind $1
+ZinZar: posts big blind $3
+*** HOLE CARDS ***
+Kasinojunge*: calls $2
+VolkovDmitri leaves the table
+ZinZar: raises $3 to $6
+Kasinojunge*: calls $3
+*** FLOP *** [5d Th 7s]
+ZinZar: bets $3
+Kasinojunge*: calls $3
+*** TURN *** [5d Th 7s] [4c]
+ZinZar: checks
+Kasinojunge*: bets $6
+ZinZar: calls $6
+*** RIVER *** [5d Th 7s 4c] [2d]
+ZinZar: checks
+Kasinojunge*: bets $3 and is all-in
+ZinZar: calls $3
+*** SHOW DOWN ***
+Kasinojunge*: shows [5s 4s] (two pair, Fives and Fours)
+ZinZar: shows [Qs Kd] (high card King)
+Kasinojunge* collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5d Th 7s 4c 2d]
+Seat 1: Kasinojunge* (button) (small blind) showed [5s 4s] and won ($35.50) with two pair, Fives and Fours
+Seat 2: ZinZar (big blind) showed [Qs Kd] and lost with high card King
+
+
+PokerStars Hand #156050085676:  Hold'em Limit ($3/$6 USD) - 2016/07/16 14:49:38 ET
+Table 'Tarvos' 6-max Seat #1 is the button
+Seat 1: Kasinojunge* ($41 in chips)
+Seat 2: ZinZar ($86.40 in chips)
+Kasinojunge*: posts small blind $1
+ZinZar: posts big blind $3
+*** HOLE CARDS ***
+Kasinojunge*: calls $2
+ZinZar: checks
+*** FLOP *** [Qh 5s Ad]
+ZinZar: checks
+Kasinojunge*: bets $3
+ZinZar: folds
+Uncalled bet ($3) returned to Kasinojunge*
+Kasinojunge* collected $5.88 from pot
+Kasinojunge*: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Qh 5s Ad]
+Seat 1: Kasinojunge* (button) (small blind) collected ($5.88)
+Seat 2: ZinZar (big blind) folded on the Flop
+
+
+PokerStars Hand #156050076323:  Hold'em Limit ($3/$6 USD) - 2016/07/16 14:49:24 ET
+Table 'Tarvos' 6-max Seat #2 is the button
+Seat 1: Kasinojunge* ($50 in chips)
+Seat 2: ZinZar ($77.76 in chips)
+ZinZar: posts small blind $1
+Kasinojunge*: posts big blind $3
+*** HOLE CARDS ***
+ZinZar: raises $3 to $6
+Kasinojunge*: calls $3
+*** FLOP *** [9h Qh 4d]
+Kasinojunge*: checks
+ZinZar: bets $3
+Kasinojunge*: calls $3
+*** TURN *** [9h Qh 4d] [Kh]
+Kasinojunge*: checks
+ZinZar: bets $6
+Kasinojunge*: folds
+Uncalled bet ($6) returned to ZinZar
+ZinZar collected $17.64 from pot
+ZinZar: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9h Qh 4d Kh]
+Seat 1: Kasinojunge* (big blind) folded on the Turn
+Seat 2: ZinZar (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #156050110930:  Hold'em Limit ($3/$6 USD) - 2016/07/16 14:50:15 ET
+Table 'Tarvos' 6-max Seat #1 is the button
+Seat 1: Kasinojunge* ($58.38 in chips)
+Seat 2: ZinZar ($72 in chips)
+Kasinojunge*: posts small blind $1
+ZinZar: posts big blind $3
+*** HOLE CARDS ***
+Kasinojunge*: calls $2
+ZinZar: checks
+*** FLOP *** [Ad 6d 3d]
+ZinZar: checks
+Kasinojunge*: bets $3
+ZinZar: calls $3
+*** TURN *** [Ad 6d 3d] [Tc]
+ZinZar: checks
+Kasinojunge*: bets $6
+ZinZar: calls $6
+*** RIVER *** [Ad 6d 3d Tc] [As]
+ZinZar: checks
+Kasinojunge*: bets $6
+ZinZar: calls $6
+*** SHOW DOWN ***
+Kasinojunge*: shows [Kc Ts] (two pair, Aces and Tens)
+ZinZar: mucks hand
+Kasinojunge* collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Ad 6d 3d Tc As]
+Seat 1: Kasinojunge* (button) (small blind) showed [Kc Ts] and won ($35.50) with two pair, Aces and Tens
+Seat 2: ZinZar (big blind) mucked
+
+
+PokerStars Hand #156050153345:  Hold'em Limit ($3/$6 USD) - 2016/07/16 14:51:18 ET
+Table 'Tarvos' 6-max Seat #2 is the button
+Seat 1: Kasinojunge* ($75.88 in chips)
+Seat 2: ZinZar ($72 in chips)
+ZinZar: posts small blind $1
+Kasinojunge*: posts big blind $3
+*** HOLE CARDS ***
+ZinZar: raises $3 to $6
+Kasinojunge*: folds
+Uncalled bet ($3) returned to ZinZar
+ZinZar collected $6 from pot
+ZinZar: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: Kasinojunge* (big blind) folded before Flop
+Seat 2: ZinZar (button) (small blind) collected ($6)
+
+
+PokerStars Hand #156050187339:  Hold'em Limit ($3/$6 USD) - 2016/07/16 14:52:08 ET
+Table 'Tarvos' 6-max Seat #1 is the button
+Seat 1: Kasinojunge* ($84.40 in chips)
+Seat 2: ZinZar ($72 in chips)
+Kasinojunge*: posts small blind $1
+ZinZar: posts big blind $3
+*** HOLE CARDS ***
+Kasinojunge*: calls $2
+ZinZar: raises $3 to $6
+Kasinojunge*: calls $3
+*** FLOP *** [2c Qh 6c]
+ZinZar: bets $3
+Kasinojunge*: calls $3
+*** TURN *** [2c Qh 6c] [Ts]
+ZinZar: bets $6
+Kasinojunge*: folds
+Uncalled bet ($6) returned to ZinZar
+ZinZar collected $17.64 from pot
+ZinZar: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2c Qh 6c Ts]
+Seat 1: Kasinojunge* (button) (small blind) folded on the Turn
+Seat 2: ZinZar (big blind) collected ($17.64)
+
+
+PokerStars Hand #156050161744:  Hold'em Limit ($3/$6 USD) - 2016/07/16 14:51:31 ET
+Table 'Tarvos' 6-max Seat #1 is the button
+Seat 1: Kasinojunge* ($72.88 in chips)
+Seat 2: ZinZar ($75 in chips)
+Kasinojunge*: posts small blind $1
+ZinZar: posts big blind $3
+*** HOLE CARDS ***
+Kasinojunge*: calls $2
+ZinZar: checks
+*** FLOP *** [2s Ad 7c]
+ZinZar: checks
+Kasinojunge*: checks
+*** TURN *** [2s Ad 7c] [8h]
+ZinZar: checks
+Kasinojunge*: bets $6
+ZinZar: folds
+Uncalled bet ($6) returned to Kasinojunge*
+Kasinojunge* collected $5.88 from pot
+Kasinojunge*: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [2s Ad 7c 8h]
+Seat 1: Kasinojunge* (button) (small blind) collected ($5.88)
+Seat 2: ZinZar (big blind) folded on the Turn
+
+
+PokerStars Hand #156050173932:  Hold'em Limit ($3/$6 USD) - 2016/07/16 14:51:49 ET
+Table 'Tarvos' 6-max Seat #2 is the button
+Seat 1: Kasinojunge* ($75.76 in chips)
+Seat 2: ZinZar ($72 in chips)
+ZinZar: posts small blind $1
+Kasinojunge*: posts big blind $3
+*** HOLE CARDS ***
+ZinZar: raises $3 to $6
+Kasinojunge*: calls $3
+*** FLOP *** [5c Qc Ks]
+Kasinojunge*: checks
+ZinZar: bets $3
+Kasinojunge*: calls $3
+*** TURN *** [5c Qc Ks] [6h]
+Kasinojunge*: checks
+ZinZar: checks
+*** RIVER *** [5c Qc Ks 6h] [Ad]
+Kasinojunge*: bets $6
+ZinZar: folds
+Uncalled bet ($6) returned to Kasinojunge*
+Kasinojunge* collected $17.64 from pot
+Kasinojunge*: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5c Qc Ks 6h Ad]
+Seat 1: Kasinojunge* (big blind) collected ($17.64)
+Seat 2: ZinZar (button) (small blind) folded on the River
+
+
+PokerStars Hand #156050226302:  Hold'em Limit ($3/$6 USD) - 2016/07/16 14:53:00 ET
+Table 'Tarvos' 6-max Seat #1 is the button
+Seat 1: Kasinojunge* ($107.40 in chips)
+Seat 2: ZinZar ($75 in chips)
+Kasinojunge*: posts small blind $1
+ZinZar: posts big blind $3
+*** HOLE CARDS ***
+Kasinojunge*: calls $2
+ZinZar: raises $3 to $6
+Kasinojunge*: calls $3
+*** FLOP *** [7s Jh 5s]
+ZinZar: bets $3
+Kasinojunge*: calls $3
+*** TURN *** [7s Jh 5s] [9s]
+ZinZar: bets $6
+Kasinojunge*: calls $6
+*** RIVER *** [7s Jh 5s 9s] [6d]
+ZinZar: bets $6
+Kasinojunge*: raises $6 to $12
+ZinZar: raises $6 to $18
+Kasinojunge*: raises $6 to $24
+Betting is capped
+ZinZar: calls $6
+*** SHOW DOWN ***
+Kasinojunge*: shows [As 2s] (a flush, Ace high)
+ZinZar: mucks hand
+Kasinojunge* collected $77.50 from pot
+*** SUMMARY ***
+Total pot $78 | Rake $0.50
+Board [7s Jh 5s 9s 6d]
+Seat 1: Kasinojunge* (button) (small blind) showed [As 2s] and won ($77.50) with a flush, Ace high
+Seat 2: ZinZar (big blind) mucked
+
+
+PokerStars Hand #156050222814:  Hold'em Limit ($3/$6 USD) - 2016/07/16 14:52:55 ET
+Table 'Tarvos' 6-max Seat #2 is the button
+Seat 1: Kasinojunge* ($110.40 in chips)
+Seat 2: ZinZar ($72 in chips)
+ZinZar: posts small blind $1
+Kasinojunge*: posts big blind $3
+*** HOLE CARDS ***
+ZinZar: raises $3 to $6
+Kasinojunge*: folds
+Uncalled bet ($3) returned to ZinZar
+ZinZar collected $6 from pot
+ZinZar: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: Kasinojunge* (big blind) folded before Flop
+Seat 2: ZinZar (button) (small blind) collected ($6)
+
+
+PokerStars Hand #156050211238:  Hold'em Limit ($3/$6 USD) - 2016/07/16 14:52:44 ET
+Table 'Tarvos' 6-max Seat #1 is the button
+Seat 1: Kasinojunge* ($95.90 in chips)
+Seat 2: ZinZar ($72 in chips)
+Kasinojunge*: posts small blind $1
+ZinZar: posts big blind $3
+*** HOLE CARDS ***
+Kasinojunge*: calls $2
+ZinZar: raises $3 to $6
+Kasinojunge*: calls $3
+*** FLOP *** [6s 8h 7d]
+ZinZar: bets $3
+Kasinojunge*: calls $3
+*** TURN *** [6s 8h 7d] [3s]
+ZinZar: bets $6
+Kasinojunge*: raises $6 to $12
+ZinZar: folds
+Uncalled bet ($6) returned to Kasinojunge*
+Kasinojunge* collected $29.50 from pot
+Kasinojunge*: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6s 8h 7d 3s]
+Seat 1: Kasinojunge* (button) (small blind) collected ($29.50)
+Seat 2: ZinZar (big blind) folded on the Turn
+
+
+PokerStars Hand #156050197227:  Hold'em Limit ($3/$6 USD) - 2016/07/16 14:52:23 ET
+Table 'Tarvos' 6-max Seat #2 is the button
+Seat 1: Kasinojunge* ($75.40 in chips)
+Seat 2: ZinZar ($80.64 in chips)
+ZinZar: posts small blind $1
+Kasinojunge*: posts big blind $3
+*** HOLE CARDS ***
+ZinZar: raises $3 to $6
+Kasinojunge*: calls $3
+*** FLOP *** [Ad Ts 7s]
+Kasinojunge*: checks
+ZinZar: bets $3
+Kasinojunge*: calls $3
+*** TURN *** [Ad Ts 7s] [5s]
+Kasinojunge*: checks
+ZinZar: bets $6
+Kasinojunge*: calls $6
+*** RIVER *** [Ad Ts 7s 5s] [Qc]
+Kasinojunge*: checks
+ZinZar: bets $6
+Kasinojunge*: calls $6
+*** SHOW DOWN ***
+ZinZar: shows [Js 6c] (high card Ace)
+Kasinojunge*: shows [7d Jh] (a pair of Sevens)
+Kasinojunge* collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ad Ts 7s 5s Qc]
+Seat 1: Kasinojunge* (big blind) showed [7d Jh] and won ($41.50) with a pair of Sevens
+Seat 2: ZinZar (button) (small blind) showed [Js 6c] and lost with high card Ace
+
+
+PokerStars Hand #156050239877:  Hold'em Limit ($3/$6 USD) - 2016/07/16 14:53:20 ET
+Table 'Tarvos' 6-max Seat #2 is the button
+Seat 1: Kasinojunge* ($145.90 in chips)
+Seat 2: ZinZar ($72 in chips)
+ZinZar: posts small blind $1
+Kasinojunge*: posts big blind $3
+*** HOLE CARDS ***
+ZinZar: raises $3 to $6
+doowoppy joins the table at seat #3
+Kasinojunge*: calls $3
+*** FLOP *** [Qh 4h 2c]
+Kasinojunge*: checks
+ZinZar: bets $3
+Kasinojunge*: calls $3
+*** TURN *** [Qh 4h 2c] [5s]
+Kasinojunge*: checks
+Velbor107 joins the table at seat #4
+ZinZar: checks
+*** RIVER *** [Qh 4h 2c 5s] [Tc]
+Kasinojunge*: bets $6
+ZinZar: folds
+Uncalled bet ($6) returned to Kasinojunge*
+Kasinojunge* collected $17.64 from pot
+Kasinojunge*: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qh 4h 2c 5s Tc]
+Seat 1: Kasinojunge* (big blind) collected ($17.64)
+Seat 2: ZinZar (button) (small blind) folded on the River
+
+
+PokerStars Hand #156050253205:  Hold'em Limit ($3/$6 USD) - 2016/07/16 14:53:40 ET
+Table 'Tarvos' 6-max Seat #1 is the button
+Seat 1: Kasinojunge* ($154.54 in chips)
+Seat 2: ZinZar ($72 in chips)
+Kasinojunge*: posts small blind $1
+ZinZar: posts big blind $3
+*** HOLE CARDS ***
+Kasinojunge*: calls $2
+ZinZar: checks
+*** FLOP *** [Td Qs 2s]
+ZinZar: bets $3
+Kasinojunge*: calls $3
+*** TURN *** [Td Qs 2s] [Ah]
+ZinZar: bets $6
+Kasinojunge*: calls $6
+*** RIVER *** [Td Qs 2s Ah] [4c]
+ZinZar: checks
+Kasinojunge*: checks
+*** SHOW DOWN ***
+ZinZar: shows [5d Th] (a pair of Tens)
+Kasinojunge*: mucks hand
+ZinZar collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Td Qs 2s Ah 4c]
+Seat 1: Kasinojunge* (button) (small blind) mucked
+Seat 2: ZinZar (big blind) showed [5d Th] and won ($23.52) with a pair of Tens
+
+
+PokerStars Hand #156052415485:  Hold'em Limit ($3/$6 USD) - 2016/07/16 15:45:02 ET
+Table 'Tarvos' 6-max Seat #1 is the button
+Seat 1: Koraseg ($85.73 in chips)
+Seat 4: Velbor107 ($316.06 in chips)
+Koraseg: posts small blind $1
+Velbor107: posts big blind $3
+*** HOLE CARDS ***
+Koraseg: folds
+Uncalled bet ($2) returned to Velbor107
+Velbor107 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Koraseg (button) (small blind) folded before Flop
+Seat 4: Velbor107 (big blind) collected ($2)
+
+

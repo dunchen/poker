@@ -1,0 +1,34 @@
+PokerStars Hand #148477906764:  Hold'em Limit ($3/$6 USD) - 2016/02/08 18:53:55 ET
+Table 'Crocus' 6-max Seat #1 is the button
+Seat 1: LifeisagameX ($60 in chips)
+Seat 3: Deroeppe ($49.27 in chips)
+LifeisagameX: posts small blind $1
+Deroeppe: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+Deroeppe: calls $3
+*** FLOP *** [Js Qc Qd]
+BuyMyLunch joins the table at seat #4
+Deroeppe: checks
+ede56 joins the table at seat #5
+ValeryRon joins the table at seat #6
+LifeisagameX: bets $3
+Deroeppe: calls $3
+*** TURN *** [Js Qc Qd] [7h]
+Deroeppe: checks
+LifeisagameX: checks
+*** RIVER *** [Js Qc Qd 7h] [Th]
+Deroeppe: checks
+LifeisagameX: bets $6
+Deroeppe: calls $6
+*** SHOW DOWN ***
+LifeisagameX: shows [8h 6c] (a pair of Queens)
+Deroeppe: shows [As 6s] (a pair of Queens - Ace kicker)
+Deroeppe collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Js Qc Qd 7h Th]
+Seat 1: LifeisagameX (button) (small blind) showed [8h 6c] and lost with a pair of Queens
+Seat 3: Deroeppe (big blind) showed [As 6s] and won ($29.50) with a pair of Queens
+
+

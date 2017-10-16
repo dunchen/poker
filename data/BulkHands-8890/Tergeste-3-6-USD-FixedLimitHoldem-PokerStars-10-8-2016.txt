@@ -1,0 +1,27 @@
+PokerStars Hand #159641298841:  Hold'em Limit ($3/$6 USD) - 2016/10/08 10:13:48 ET
+Table 'Tergeste' 6-max Seat #3 is the button
+Seat 2: Ag3r0n ($72 in chips)
+Seat 3: Kees123 ($96.11 in chips)
+Kees123: posts small blind $1
+Ag3r0n: posts big blind $3
+*** HOLE CARDS ***
+Kees123: raises $3 to $6
+Ag3r0n: calls $3
+*** FLOP *** [Td 6h 5d]
+Ag3r0n: checks
+Kees123: checks
+*** TURN *** [Td 6h 5d] [4h]
+Ag3r0n: bets $6
+Kees123: calls $6
+*** RIVER *** [Td 6h 5d 4h] [2h]
+Ag3r0n: bets $6
+Kees123: folds
+Uncalled bet ($6) returned to Ag3r0n
+Ag3r0n collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Td 6h 5d 4h 2h]
+Seat 2: Ag3r0n (big blind) collected ($23.52)
+Seat 3: Kees123 (button) (small blind) folded on the River
+
+

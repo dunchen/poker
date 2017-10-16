@@ -1,0 +1,59 @@
+PokerStars Hand #156601397977:  Hold'em Limit ($3/$6 USD) - 2016/07/29 14:43:53 ET
+Table 'Lykaon II' 6-max Seat #1 is the button
+Seat 1: gorcea_vs ($77.50 in chips)
+Seat 2: ZinZar ($72 in chips)
+gorcea_vs: posts small blind $1
+ZinZar: posts big blind $3
+*** HOLE CARDS ***
+gorcea_vs: raises $3 to $6
+ZinZar: calls $3
+*** FLOP *** [8h Ac 2d]
+ZinZar: checks
+gorcea_vs: bets $3
+ZinZar: raises $3 to $6
+gorcea_vs: calls $3
+*** TURN *** [8h Ac 2d] [Kd]
+ZinZar: bets $6
+gorcea_vs: calls $6
+*** RIVER *** [8h Ac 2d Kd] [Qd]
+ZinZar: bets $6
+gorcea_vs: raises $6 to $12
+ZinZar: calls $6
+*** SHOW DOWN ***
+gorcea_vs: shows [Td 6d] (a flush, King high)
+ZinZar: mucks hand
+Hi Im Alexey joins the table at seat #3
+gorcea_vs collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [8h Ac 2d Kd Qd]
+Seat 1: gorcea_vs (button) (small blind) showed [Td 6d] and won ($59.50) with a flush, King high
+Seat 2: ZinZar (big blind) mucked
+
+
+PokerStars Hand #156602736402:  Hold'em Limit ($3/$6 USD) - 2016/07/29 15:15:51 ET
+Table 'Lykaon II' 6-max Seat #2 is the button
+Seat 2: ZinZar ($154.38 in chips)
+Seat 6: Chessnok ($60 in chips)
+ZinZar: posts small blind $1
+LWNS: is sitting out
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+ZinZar: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [3s 8d Tc]
+Chessnok: checks
+ZinZar: bets $3
+Chessnok: raises $3 to $6
+gaensehaut leaves the table
+ZinZar: folds
+Uncalled bet ($3) returned to Chessnok
+Chessnok collected $17.64 from pot
+Chessnok: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3s 8d Tc]
+Seat 2: ZinZar (button) (small blind) folded on the Flop
+Seat 6: Chessnok (big blind) collected ($17.64)
+
+

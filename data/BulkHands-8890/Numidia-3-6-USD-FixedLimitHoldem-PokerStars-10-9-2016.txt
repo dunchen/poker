@@ -1,0 +1,32 @@
+PokerStars Hand #159715167062:  Hold'em Limit ($3/$6 USD) - 2016/10/09 18:39:47 ET
+Table 'Numidia' 6-max Seat #4 is the button
+Seat 1: LolDnkaments ($76.73 in chips)
+Seat 4: AzureCaper ($183.19 in chips)
+AzureCaper: posts small blind $1
+LWNS: is sitting out
+LolDnkaments: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+LolDnkaments: raises $3 to $9
+LWNS leaves the table
+AzureCaper: calls $3
+*** FLOP *** [2c Td 7s]
+LolDnkaments: bets $3
+AzureCaper: calls $3
+*** TURN *** [2c Td 7s] [5s]
+LolDnkaments: bets $6
+AzureCaper: calls $6
+*** RIVER *** [2c Td 7s 5s] [Ks]
+LolDnkaments: bets $6
+AzureCaper: calls $6
+*** SHOW DOWN ***
+LolDnkaments: shows [Jc 9c] (high card King)
+AzureCaper: shows [8h 7h] (a pair of Sevens)
+AzureCaper collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2c Td 7s 5s Ks]
+Seat 1: LolDnkaments (big blind) showed [Jc 9c] and lost with high card King
+Seat 4: AzureCaper (button) (small blind) showed [8h 7h] and won ($47.50) with a pair of Sevens
+
+

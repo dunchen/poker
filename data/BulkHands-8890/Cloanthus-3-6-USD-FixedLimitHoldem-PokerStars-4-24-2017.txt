@@ -1,0 +1,105 @@
+PokerStars Hand #169496082575:  Hold'em Limit ($3/$6 USD) - 2017/04/24 12:07:36 ET
+Table 'Cloanthus' 6-max Seat #3 is the button
+Seat 3: Mind90 ($9.59 in chips)
+Seat 4: MTails ($164 in chips)
+Mind90: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+Mind90: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [3d Kd 5s]
+MTails: checks
+Mind90: bets $3
+MTails: raises $3 to $6
+Mind90: calls $0.59 and is all-in
+Uncalled bet ($2.41) returned to MTails
+*** TURN *** [3d Kd 5s] [Td]
+*** RIVER *** [3d Kd 5s Td] [6d]
+*** SHOW DOWN ***
+MTails: shows [7h 6c] (a pair of Sixes)
+Mind90: shows [5d 9s] (a flush, King high)
+Mind90 collected $18.80 from pot
+*** SUMMARY ***
+Total pot $19.18 | Rake $0.38
+Board [3d Kd 5s Td 6d]
+Seat 3: Mind90 (button) (small blind) showed [5d 9s] and won ($18.80) with a flush, King high
+Seat 4: MTails (big blind) showed [7h 6c] and lost with a pair of Sixes
+
+
+PokerStars Hand #169496101844:  Hold'em Limit ($3/$6 USD) - 2017/04/24 12:08:04 ET
+Table 'Cloanthus' 6-max Seat #4 is the button
+Seat 3: Mind90 ($18.80 in chips)
+Seat 4: MTails ($154.41 in chips)
+MTails: posts small blind $1
+Mind90: posts big blind $3
+*** HOLE CARDS ***
+MTails: folds
+Uncalled bet ($2) returned to Mind90
+Mind90 collected $2 from pot
+Mind90: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: Mind90 (big blind) collected ($2)
+Seat 4: MTails (button) (small blind) folded before Flop
+
+
+PokerStars Hand #169496057677:  Hold'em Limit ($3/$6 USD) - 2017/04/24 12:06:59 ET
+Table 'Cloanthus' 6-max Seat #3 is the button
+Seat 3: Mind90 ($54.59 in chips)
+Seat 4: MTails ($120 in chips)
+Mind90: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+Mind90: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [8c 2s 8h]
+MTails: checks
+Mind90: bets $3
+MTails: raises $3 to $6
+Mind90: calls $3
+*** TURN *** [8c 2s 8h] [8s]
+MTails: bets $6
+Mind90: calls $6
+*** RIVER *** [8c 2s 8h 8s] [Ah]
+MTails: bets $6
+Mind90: calls $6
+*** SHOW DOWN ***
+MTails: shows [Ad 7d] (a full house, Eights full of Aces)
+Mind90: mucks hand
+MTails collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8c 2s 8h 8s Ah]
+Seat 3: Mind90 (button) (small blind) mucked
+Seat 4: MTails (big blind) showed [Ad 7d] and won ($47.50) with a full house, Eights full of Aces
+
+
+PokerStars Hand #169496071946:  Hold'em Limit ($3/$6 USD) - 2017/04/24 12:07:20 ET
+Table 'Cloanthus' 6-max Seat #4 is the button
+Seat 3: Mind90 ($30.59 in chips)
+Seat 4: MTails ($143.50 in chips)
+MTails: posts small blind $1
+Mind90: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+Mind90: calls $3
+*** FLOP *** [3s 8s Jd]
+Mind90: bets $3
+MTails: calls $3
+*** TURN *** [3s 8s Jd] [5s]
+Mind90: bets $6
+MTails: calls $6
+*** RIVER *** [3s 8s Jd 5s] [Jh]
+Mind90: bets $6
+MTails: calls $6
+*** SHOW DOWN ***
+Mind90: shows [5d 2d] (two pair, Jacks and Fives)
+MTails: shows [Qh Jc] (three of a kind, Jacks)
+MTails collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [3s 8s Jd 5s Jh]
+Seat 3: Mind90 (big blind) showed [5d 2d] and lost with two pair, Jacks and Fives
+Seat 4: MTails (button) (small blind) showed [Qh Jc] and won ($41.50) with three of a kind, Jacks
+
+

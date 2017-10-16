@@ -1,0 +1,60 @@
+PokerStars Hand #175883374930:  Hold'em Limit ($3/$6 USD) - 2017/09/20 6:26:12 ET
+Table 'Kochab' 10-max Seat #1 is the button
+Seat 1: BugerDV ($72 in chips)
+Seat 5: partyalex92 ($120 in chips)
+BugerDV: posts small blind $1
+partyalex92: posts big blind $3
+*** HOLE CARDS ***
+BugerDV: raises $3 to $6
+partyalex92: calls $3
+*** FLOP *** [Qh Ah 5h]
+partyalex92: bets $3
+Psynto joins the table at seat #6
+BugerDV: raises $3 to $6
+partyalex92: calls $3
+*** TURN *** [Qh Ah 5h] [2s]
+partyalex92: bets $6
+BugerDV: calls $6
+*** RIVER *** [Qh Ah 5h 2s] [6c]
+partyalex92: bets $6
+BugerDV: calls $6
+*** SHOW DOWN ***
+partyalex92: shows [Jh Ac] (a pair of Aces)
+BugerDV: mucks hand
+partyalex92 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Qh Ah 5h 2s 6c]
+Seat 1: BugerDV (button) (small blind) mucked
+Seat 5: partyalex92 (big blind) showed [Jh Ac] and won ($47.50) with a pair of Aces
+
+
+PokerStars Hand #175883951063:  Hold'em Limit ($3/$6 USD) - 2017/09/20 6:51:53 ET
+Table 'Kochab' 10-max Seat #1 is the button
+Seat 1: BugerDV ($124.02 in chips)
+Seat 5: partyalex92 ($89.50 in chips)
+BugerDV: posts small blind $1
+partyalex92: posts big blind $3
+*** HOLE CARDS ***
+BugerDV: raises $3 to $6
+partyalex92: calls $3
+*** FLOP *** [Kc Tc 7s]
+partyalex92: checks
+BugerDV: bets $3
+partyalex92: raises $3 to $6
+BugerDV: calls $3
+*** TURN *** [Kc Tc 7s] [7c]
+partyalex92: bets $6
+BugerDV: calls $6
+*** RIVER *** [Kc Tc 7s 7c] [Qc]
+partyalex92: bets $6
+BugerDV: folds
+Uncalled bet ($6) returned to partyalex92
+partyalex92 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Kc Tc 7s 7c Qc]
+Seat 1: BugerDV (button) (small blind) folded on the River
+Seat 5: partyalex92 (big blind) collected ($35.50)
+
+

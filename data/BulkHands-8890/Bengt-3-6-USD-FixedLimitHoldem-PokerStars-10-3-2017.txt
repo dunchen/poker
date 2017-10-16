@@ -1,0 +1,30 @@
+PokerStars Hand #176456350249:  Hold'em Limit ($3/$6 USD) - 2017/10/03 17:42:01 ET
+Table 'Bengt' 6-max Seat #1 is the button
+Seat 1: Zubasa07 ($288 in chips)
+Seat 2: NAUTJE1337 ($131.64 in chips)
+Zubasa07: posts small blind $1
+NAUTJE1337: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+NAUTJE1337: raises $3 to $9
+Zubasa07: calls $3
+*** FLOP *** [2d Kd 2h]
+NAUTJE1337: bets $3
+Zubasa07: calls $3
+*** TURN *** [2d Kd 2h] [7c]
+NAUTJE1337: bets $6
+Zubasa07: calls $6
+*** RIVER *** [2d Kd 2h 7c] [9h]
+NAUTJE1337: bets $6
+Zubasa07: calls $6
+*** SHOW DOWN ***
+NAUTJE1337: shows [Jd Jh] (two pair, Jacks and Deuces)
+Zubasa07: mucks hand
+NAUTJE1337 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2d Kd 2h 7c 9h]
+Seat 1: Zubasa07 (button) (small blind) mucked
+Seat 2: NAUTJE1337 (big blind) showed [Jd Jh] and won ($47.50) with two pair, Jacks and Deuces
+
+

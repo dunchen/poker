@@ -1,0 +1,1681 @@
+PokerStars Hand #147910194911:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:06:12 ET
+Table 'Slipher' 6-max Seat #6 is the button
+Seat 2: BelSv ($250.12 in chips)
+Seat 6: JSDM8682 ($18.14 in chips)
+JSDM8682: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+JSDM8682: raises $3 to $6
+BelSv: raises $3 to $9
+JSDM8682: raises $3 to $12
+Betting is capped
+BelSv: calls $3
+*** FLOP *** [Ks 3c 5d]
+BelSv: checks
+JSDM8682: bets $3
+BelSv: calls $3
+*** TURN *** [Ks 3c 5d] [Jd]
+BelSv: checks
+JSDM8682: bets $3.14 and is all-in
+BelSv: calls $3.14
+*** RIVER *** [Ks 3c 5d Jd] [2c]
+*** SHOW DOWN ***
+BelSv: shows [7c Ad] (high card Ace)
+JSDM8682: shows [7s Ah] (high card Ace)
+BelSv collected $17.89 from pot
+JSDM8682 collected $17.89 from pot
+*** SUMMARY ***
+Total pot $36.28 | Rake $0.50
+Board [Ks 3c 5d Jd 2c]
+Seat 2: BelSv (big blind) showed [7c Ad] and won ($17.89) with high card Ace
+Seat 6: JSDM8682 (button) (small blind) showed [7s Ah] and won ($17.89) with high card Ace
+
+
+PokerStars Hand #147910204064:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:06:30 ET
+Table 'Slipher' 6-max Seat #2 is the button
+Seat 2: BelSv ($249.87 in chips)
+Seat 6: JSDM8682 ($17.89 in chips)
+BelSv: posts small blind $1
+JSDM8682: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+JSDM8682: calls $3
+*** FLOP *** [Kh 6h 3s]
+JSDM8682: checks
+BelSv: bets $3
+JSDM8682: calls $3
+*** TURN *** [Kh 6h 3s] [2c]
+JSDM8682: checks
+BelSv: bets $6
+JSDM8682: folds
+Uncalled bet ($6) returned to BelSv
+BelSv collected $17.64 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kh 6h 3s 2c]
+Seat 2: BelSv (button) (small blind) collected ($17.64)
+Seat 6: JSDM8682 (big blind) folded on the Turn
+
+
+PokerStars Hand #147910212208:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:06:45 ET
+Table 'Slipher' 6-max Seat #6 is the button
+Seat 2: BelSv ($258.51 in chips)
+Seat 6: JSDM8682 ($8.89 in chips)
+JSDM8682: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+JSDM8682: raises $3 to $6
+BelSv: raises $3 to $9
+JSDM8682: calls $2.89 and is all-in
+Uncalled bet ($0.11) returned to BelSv
+*** FLOP *** [7s 3d 8s]
+*** TURN *** [7s 3d 8s] [4d]
+*** RIVER *** [7s 3d 8s 4d] [Ks]
+*** SHOW DOWN ***
+BelSv: shows [4s 4h] (three of a kind, Fours)
+JSDM8682: shows [Kc 8h] (two pair, Kings and Eights)
+BelSv collected $17.42 from pot
+*** SUMMARY ***
+Total pot $17.78 | Rake $0.36
+Board [7s 3d 8s 4d Ks]
+Seat 2: BelSv (big blind) showed [4s 4h] and won ($17.42) with three of a kind, Fours
+Seat 6: JSDM8682 (button) (small blind) showed [Kc 8h] and lost with two pair, Kings and Eights
+
+
+PokerStars Hand #147910622862:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:19:51 ET
+Table 'Slipher' 6-max Seat #1 is the button
+Seat 1: gracetime ($119.88 in chips)
+Seat 6: BelSv ($91.59 in chips)
+gracetime: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+gracetime: raises $3 to $6
+BelSv: calls $3
+*** FLOP *** [6d Jd 6c]
+BelSv: checks
+gracetime: bets $3
+BelSv: folds
+Uncalled bet ($3) returned to gracetime
+gracetime collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6d Jd 6c]
+Seat 1: gracetime (button) (small blind) collected ($11.76)
+Seat 6: BelSv (big blind) folded on the Flop
+
+
+PokerStars Hand #147910614548:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:19:35 ET
+Table 'Slipher' 6-max Seat #6 is the button
+Seat 1: gracetime ($120 in chips)
+Seat 6: BelSv ($91.71 in chips)
+BelSv: posts small blind $1
+gracetime: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+gracetime: calls $3
+*** FLOP *** [7h 5d Jc]
+gracetime: checks
+BelSv: checks
+*** TURN *** [7h 5d Jc] [Qs]
+gracetime: checks
+BelSv: checks
+*** RIVER *** [7h 5d Jc Qs] [5h]
+gracetime: checks
+BelSv: checks
+*** SHOW DOWN ***
+gracetime: shows [6d Ks] (a pair of Fives)
+BelSv: shows [Kd 8h] (a pair of Fives)
+gracetime collected $5.88 from pot
+BelSv collected $5.88 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7h 5d Jc Qs 5h]
+Seat 1: gracetime (big blind) showed [6d Ks] and won ($5.88) with a pair of Fives
+Seat 6: BelSv (button) (small blind) showed [Kd 8h] and won ($5.88) with a pair of Fives
+
+
+PokerStars Hand #147910658814:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:21:03 ET
+Table 'Slipher' 6-max Seat #1 is the button
+Seat 1: gracetime ($114.64 in chips)
+Seat 6: BelSv ($96.11 in chips)
+gracetime: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+gracetime: folds
+Uncalled bet ($2) returned to BelSv
+BelSv collected $2 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: gracetime (button) (small blind) folded before Flop
+Seat 6: BelSv (big blind) collected ($2)
+
+
+PokerStars Hand #147910653775:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:20:53 ET
+Table 'Slipher' 6-max Seat #6 is the button
+Seat 1: gracetime ($113.64 in chips)
+Seat 6: BelSv ($97.11 in chips)
+BelSv: posts small blind $1
+gracetime: posts big blind $3
+*** HOLE CARDS ***
+BelSv: folds
+Uncalled bet ($2) returned to gracetime
+gracetime collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: gracetime (big blind) collected ($2)
+Seat 6: BelSv (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147910647391:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:20:40 ET
+Table 'Slipher' 6-max Seat #1 is the button
+Seat 1: gracetime ($119.64 in chips)
+Seat 6: BelSv ($91.35 in chips)
+gracetime: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+gracetime: raises $3 to $6
+BelSv: calls $3
+*** FLOP *** [Ks Js 7s]
+BelSv: checks
+gracetime: checks
+*** TURN *** [Ks Js 7s] [Ts]
+BelSv: bets $6
+gracetime: folds
+Uncalled bet ($6) returned to BelSv
+BelSv collected $11.76 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ks Js 7s Ts]
+Seat 1: gracetime (button) (small blind) folded on the Turn
+Seat 6: BelSv (big blind) collected ($11.76)
+
+
+PokerStars Hand #147910633438:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:20:12 ET
+Table 'Slipher' 6-max Seat #6 is the button
+Seat 1: gracetime ($125.64 in chips)
+Seat 6: BelSv ($85.59 in chips)
+BelSv: posts small blind $1
+gracetime: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+gracetime: calls $3
+*** FLOP *** [7c 7s Ah]
+gracetime: checks
+BelSv: checks
+*** TURN *** [7c 7s Ah] [Td]
+gracetime: checks
+BelSv: checks
+*** RIVER *** [7c 7s Ah Td] [9h]
+gracetime: checks
+BelSv: checks
+*** SHOW DOWN ***
+gracetime: shows [Jh 3h] (a pair of Sevens)
+BelSv: shows [6d Ks] (a pair of Sevens - Ace+King kicker)
+BelSv collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7c 7s Ah Td 9h]
+Seat 1: gracetime (big blind) showed [Jh 3h] and lost with a pair of Sevens
+Seat 6: BelSv (button) (small blind) showed [6d Ks] and won ($11.76) with a pair of Sevens
+
+
+PokerStars Hand #147910672075:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:21:29 ET
+Table 'Slipher' 6-max Seat #1 is the button
+Seat 1: gracetime ($98.64 in chips)
+Seat 6: BelSv ($111.61 in chips)
+gracetime: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+gracetime: raises $3 to $6
+BelSv: calls $3
+*** FLOP *** [3d 9d 2d]
+BelSv: checks
+gracetime: bets $3
+BelSv: folds
+Uncalled bet ($3) returned to gracetime
+gracetime collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3d 9d 2d]
+Seat 1: gracetime (button) (small blind) collected ($11.76)
+Seat 6: BelSv (big blind) folded on the Flop
+
+
+PokerStars Hand #147910661218:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:21:07 ET
+Table 'Slipher' 6-max Seat #6 is the button
+Seat 1: gracetime ($113.64 in chips)
+Seat 6: BelSv ($97.11 in chips)
+BelSv: posts small blind $1
+gracetime: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+gracetime: calls $3
+*** FLOP *** [6d Jd 4h]
+gracetime: checks
+BelSv: bets $3
+gracetime: calls $3
+*** TURN *** [6d Jd 4h] [5c]
+gracetime: checks
+BelSv: bets $6
+gracetime: calls $6
+*** RIVER *** [6d Jd 4h 5c] [Jc]
+gracetime: checks
+BelSv: bets $6
+gracetime: folds
+Uncalled bet ($6) returned to BelSv
+BelSv collected $29.50 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6d Jd 4h 5c Jc]
+Seat 1: gracetime (big blind) folded on the River
+Seat 6: BelSv (button) (small blind) collected ($29.50)
+
+
+PokerStars Hand #147910721717:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:23:06 ET
+Table 'Slipher' 6-max Seat #6 is the button
+Seat 1: gracetime ($102.90 in chips)
+Seat 6: BelSv ($120.26 in chips)
+BelSv: posts small blind $1
+gracetime: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+gracetime: raises $3 to $9
+BelSv: calls $3
+*** FLOP *** [Ad 2s 3d]
+gracetime: bets $3
+BelSv: folds
+Uncalled bet ($3) returned to gracetime
+gracetime collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ad 2s 3d]
+Seat 1: gracetime (big blind) collected ($17.64)
+Seat 6: BelSv (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #147910719021:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:23:01 ET
+Table 'Slipher' 6-max Seat #1 is the button
+Seat 1: gracetime ($103.90 in chips)
+Seat 6: BelSv ($119.26 in chips)
+gracetime: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+gracetime: folds
+Uncalled bet ($2) returned to BelSv
+BelSv collected $2 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: gracetime (button) (small blind) folded before Flop
+Seat 6: BelSv (big blind) collected ($2)
+
+
+PokerStars Hand #147910714299:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:22:52 ET
+Table 'Slipher' 6-max Seat #6 is the button
+Seat 1: gracetime ($109.90 in chips)
+Seat 6: BelSv ($113.50 in chips)
+BelSv: posts small blind $1
+gracetime: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+gracetime: calls $3
+*** FLOP *** [9h 4d 2s]
+gracetime: checks
+BelSv: bets $3
+gracetime: folds
+Uncalled bet ($3) returned to BelSv
+BelSv collected $11.76 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9h 4d 2s]
+Seat 1: gracetime (big blind) folded on the Flop
+Seat 6: BelSv (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #147910698233:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:22:21 ET
+Table 'Slipher' 6-max Seat #1 is the button
+Seat 1: gracetime ($145.90 in chips)
+Seat 6: BelSv ($78 in chips)
+gracetime: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+gracetime: raises $3 to $6
+BelSv: raises $3 to $9
+gracetime: calls $3
+*** FLOP *** [Qh Jc Jh]
+BelSv: bets $3
+gracetime: calls $3
+*** TURN *** [Qh Jc Jh] [Ts]
+BelSv: bets $6
+gracetime: raises $6 to $12
+BelSv: raises $6 to $18
+gracetime: calls $6
+*** RIVER *** [Qh Jc Jh Ts] [8c]
+BelSv: bets $6
+gracetime: calls $6
+*** SHOW DOWN ***
+BelSv: shows [Th Tc] (a full house, Tens full of Jacks)
+gracetime: mucks hand
+BelSv collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [Qh Jc Jh Ts 8c]
+Seat 1: gracetime (button) (small blind) mucked
+Seat 6: BelSv (big blind) showed [Th Tc] and won ($71.50) with a full house, Tens full of Jacks
+
+
+PokerStars Hand #147910678804:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:21:42 ET
+Table 'Slipher' 6-max Seat #6 is the button
+Seat 1: gracetime ($104.40 in chips)
+Seat 6: BelSv ($105.61 in chips)
+BelSv: posts small blind $1
+gracetime: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+gracetime: calls $3
+*** FLOP *** [6c 7h 8c]
+gracetime: checks
+BelSv: bets $3
+gracetime: raises $3 to $6
+BelSv: calls $3
+*** TURN *** [6c 7h 8c] [Td]
+gracetime: bets $6
+BelSv: calls $6
+*** RIVER *** [6c 7h 8c Td] [8h]
+gracetime: checks
+BelSv: bets $6
+gracetime: raises $6 to $12
+BelSv: raises $6 to $18
+gracetime: raises $6 to $24
+Betting is capped
+BelSv: calls $6
+*** SHOW DOWN ***
+gracetime: shows [Th 8d] (a full house, Eights full of Tens)
+BelSv: mucks hand
+gracetime collected $83.50 from pot
+*** SUMMARY ***
+Total pot $84 | Rake $0.50
+Board [6c 7h 8c Td 8h]
+Seat 1: gracetime (big blind) showed [Th 8d] and won ($83.50) with a full house, Eights full of Tens
+Seat 6: BelSv (button) (small blind) mucked
+
+
+PokerStars Hand #147910742046:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:23:46 ET
+Table 'Slipher' 6-max Seat #6 is the button
+Seat 1: gracetime ($87.54 in chips)
+Seat 6: BelSv ($134.76 in chips)
+BelSv: posts small blind $1
+gracetime: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+gracetime: calls $3
+*** FLOP *** [5d Ad 4c]
+gracetime: checks
+BelSv: bets $3
+gracetime: raises $3 to $6
+BelSv: calls $3
+*** TURN *** [5d Ad 4c] [Qc]
+gracetime: checks
+BelSv: checks
+*** RIVER *** [5d Ad 4c Qc] [7h]
+gracetime: checks
+BelSv: bets $6
+gracetime: calls $6
+*** SHOW DOWN ***
+BelSv: shows [7d 7s] (three of a kind, Sevens)
+gracetime: mucks hand
+BelSv collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5d Ad 4c Qc 7h]
+Seat 1: gracetime (big blind) mucked
+Seat 6: BelSv (button) (small blind) showed [7d 7s] and won ($35.50) with three of a kind, Sevens
+
+
+PokerStars Hand #147910731317:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:23:25 ET
+Table 'Slipher' 6-max Seat #1 is the button
+Seat 1: gracetime ($111.54 in chips)
+Seat 6: BelSv ($111.26 in chips)
+gracetime: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+gracetime: raises $3 to $6
+BelSv: calls $3
+*** FLOP *** [2h 3c 5h]
+BelSv: checks
+gracetime: checks
+*** TURN *** [2h 3c 5h] [7d]
+BelSv: checks
+gracetime: bets $6
+BelSv: calls $6
+*** RIVER *** [2h 3c 5h 7d] [Th]
+BelSv: checks
+gracetime: bets $6
+BelSv: raises $6 to $12
+gracetime: calls $6
+*** SHOW DOWN ***
+BelSv: shows [Jh 9h] (a flush, Jack high)
+gracetime: mucks hand
+BelSv collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2h 3c 5h 7d Th]
+Seat 1: gracetime (button) (small blind) mucked
+Seat 6: BelSv (big blind) showed [Jh 9h] and won ($47.50) with a flush, Jack high
+
+
+PokerStars Hand #147910729093:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:23:21 ET
+Table 'Slipher' 6-max Seat #6 is the button
+Seat 1: gracetime ($110.54 in chips)
+Seat 6: BelSv ($112.26 in chips)
+BelSv: posts small blind $1
+gracetime: posts big blind $3
+*** HOLE CARDS ***
+BelSv: folds
+Uncalled bet ($2) returned to gracetime
+gracetime collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: gracetime (big blind) collected ($2)
+Seat 6: BelSv (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147910726574:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:23:16 ET
+Table 'Slipher' 6-max Seat #1 is the button
+Seat 1: gracetime ($111.54 in chips)
+Seat 6: BelSv ($111.26 in chips)
+gracetime: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+gracetime: folds
+Uncalled bet ($2) returned to BelSv
+BelSv collected $2 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: gracetime (button) (small blind) folded before Flop
+Seat 6: BelSv (big blind) collected ($2)
+
+
+PokerStars Hand #147910770557:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:24:43 ET
+Table 'Slipher' 6-max Seat #1 is the button
+Seat 1: gracetime ($70.18 in chips)
+Seat 6: BelSv ($151.02 in chips)
+gracetime: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+gracetime: raises $3 to $6
+BelSv: calls $3
+*** FLOP *** [9h Td 3h]
+BelSv: checks
+gracetime: bets $3
+BelSv: calls $3
+*** TURN *** [9h Td 3h] [8d]
+BelSv: checks
+gracetime: bets $6
+BelSv: calls $6
+*** RIVER *** [9h Td 3h 8d] [Jd]
+BelSv: checks
+gracetime: bets $6
+BelSv: folds
+Uncalled bet ($6) returned to gracetime
+gracetime collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9h Td 3h 8d Jd]
+Seat 1: gracetime (button) (small blind) collected ($29.50)
+Seat 6: BelSv (big blind) folded on the River
+
+
+PokerStars Hand #147910766055:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:24:34 ET
+Table 'Slipher' 6-max Seat #6 is the button
+Seat 1: gracetime ($76.18 in chips)
+Seat 6: BelSv ($145.26 in chips)
+BelSv: posts small blind $1
+gracetime: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+gracetime: calls $3
+*** FLOP *** [Js Ad Kc]
+gracetime: checks
+BelSv: bets $3
+gracetime: folds
+Uncalled bet ($3) returned to BelSv
+BelSv collected $11.76 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Js Ad Kc]
+Seat 1: gracetime (big blind) folded on the Flop
+Seat 6: BelSv (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #147910763680:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:24:29 ET
+Table 'Slipher' 6-max Seat #1 is the button
+Seat 1: gracetime ($77.18 in chips)
+Seat 6: BelSv ($144.26 in chips)
+gracetime: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+gracetime: folds
+Uncalled bet ($2) returned to BelSv
+BelSv collected $2 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: gracetime (button) (small blind) folded before Flop
+Seat 6: BelSv (big blind) collected ($2)
+
+
+PokerStars Hand #147910758110:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:24:18 ET
+Table 'Slipher' 6-max Seat #6 is the button
+Seat 1: gracetime ($68.54 in chips)
+Seat 6: BelSv ($153.26 in chips)
+BelSv: posts small blind $1
+gracetime: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+gracetime: calls $3
+*** FLOP *** [Ks Tc 2c]
+gracetime: checks
+BelSv: bets $3
+gracetime: raises $3 to $6
+BelSv: folds
+Uncalled bet ($3) returned to gracetime
+gracetime collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ks Tc 2c]
+Seat 1: gracetime (big blind) collected ($17.64)
+Seat 6: BelSv (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #147910755560:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:24:13 ET
+Table 'Slipher' 6-max Seat #1 is the button
+Seat 1: gracetime ($69.54 in chips)
+Seat 6: BelSv ($152.26 in chips)
+gracetime: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+gracetime: folds
+Uncalled bet ($2) returned to BelSv
+BelSv collected $2 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: gracetime (button) (small blind) folded before Flop
+Seat 6: BelSv (big blind) collected ($2)
+
+
+PokerStars Hand #147910812159:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:26:06 ET
+Table 'Slipher' 6-max Seat #6 is the button
+Seat 1: gracetime ($74.08 in chips)
+Seat 6: BelSv ($145.28 in chips)
+BelSv: posts small blind $1
+gracetime: posts big blind $3
+*** HOLE CARDS ***
+BelSv: folds
+Uncalled bet ($2) returned to gracetime
+gracetime collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: gracetime (big blind) collected ($2)
+Seat 6: BelSv (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147910809735:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:26:01 ET
+Table 'Slipher' 6-max Seat #1 is the button
+Seat 1: gracetime ($75.08 in chips)
+Seat 6: BelSv ($144.28 in chips)
+gracetime: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+gracetime: folds
+Uncalled bet ($2) returned to BelSv
+BelSv collected $2 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: gracetime (button) (small blind) folded before Flop
+Seat 6: BelSv (big blind) collected ($2)
+
+
+PokerStars Hand #147910804713:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:25:51 ET
+Table 'Slipher' 6-max Seat #6 is the button
+Seat 1: gracetime ($66.44 in chips)
+Seat 6: BelSv ($153.28 in chips)
+BelSv: posts small blind $1
+gracetime: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+gracetime: calls $3
+*** FLOP *** [Qs 2c 4d]
+gracetime: checks
+BelSv: bets $3
+gracetime: raises $3 to $6
+BelSv: folds
+Uncalled bet ($3) returned to gracetime
+gracetime collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qs 2c 4d]
+Seat 1: gracetime (big blind) collected ($17.64)
+Seat 6: BelSv (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #147910802373:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:25:47 ET
+Table 'Slipher' 6-max Seat #1 is the button
+Seat 1: gracetime ($67.44 in chips)
+Seat 6: BelSv ($152.28 in chips)
+gracetime: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+gracetime: folds
+Uncalled bet ($2) returned to BelSv
+BelSv collected $2 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: gracetime (button) (small blind) folded before Flop
+Seat 6: BelSv (big blind) collected ($2)
+
+
+PokerStars Hand #147910799973:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:25:42 ET
+Table 'Slipher' 6-max Seat #6 is the button
+Seat 1: gracetime ($66.44 in chips)
+Seat 6: BelSv ($153.28 in chips)
+BelSv: posts small blind $1
+gracetime: posts big blind $3
+*** HOLE CARDS ***
+BelSv: folds
+Uncalled bet ($2) returned to gracetime
+gracetime collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: gracetime (big blind) collected ($2)
+Seat 6: BelSv (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147910791554:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:25:25 ET
+Table 'Slipher' 6-max Seat #1 is the button
+Seat 1: gracetime ($66.68 in chips)
+Seat 6: BelSv ($153.52 in chips)
+gracetime: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+gracetime: raises $3 to $6
+BelSv: calls $3
+*** FLOP *** [Ts 7s 4h]
+BelSv: checks
+gracetime: checks
+*** TURN *** [Ts 7s 4h] [Ac]
+BelSv: checks
+gracetime: bets $6
+BelSv: calls $6
+*** RIVER *** [Ts 7s 4h Ac] [5s]
+BelSv: checks
+gracetime: checks
+*** SHOW DOWN ***
+BelSv: shows [Kd 3s] (high card Ace)
+gracetime: shows [Kh 3h] (high card Ace)
+BelSv collected $11.76 from pot
+gracetime collected $11.76 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Ts 7s 4h Ac 5s]
+Seat 1: gracetime (button) (small blind) showed [Kh 3h] and won ($11.76) with high card Ace
+Seat 6: BelSv (big blind) showed [Kd 3s] and won ($11.76) with high card Ace
+
+
+PokerStars Hand #147910782858:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:25:07 ET
+Table 'Slipher' 6-max Seat #6 is the button
+Seat 1: gracetime ($84.68 in chips)
+Seat 6: BelSv ($136.02 in chips)
+BelSv: posts small blind $1
+gracetime: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+gracetime: calls $3
+*** FLOP *** [4s Jc As]
+gracetime: checks
+BelSv: bets $3
+gracetime: raises $3 to $6
+BelSv: calls $3
+*** TURN *** [4s Jc As] [9c]
+gracetime: bets $6
+BelSv: calls $6
+*** RIVER *** [4s Jc As 9c] [8d]
+gracetime: checks
+BelSv: checks
+*** SHOW DOWN ***
+gracetime: shows [6s 3s] (high card Ace)
+BelSv: shows [Jh Ts] (a pair of Jacks)
+BelSv collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [4s Jc As 9c 8d]
+Seat 1: gracetime (big blind) showed [6s 3s] and lost with high card Ace
+Seat 6: BelSv (button) (small blind) showed [Jh Ts] and won ($35.50) with a pair of Jacks
+
+
+PokerStars Hand #147910831036:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:26:44 ET
+Table 'Slipher' 6-max Seat #6 is the button
+Seat 1: gracetime ($65.84 in chips)
+Seat 6: BelSv ($152.68 in chips)
+BelSv: posts small blind $1
+gracetime: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+gracetime: calls $3
+*** FLOP *** [Qc 7c Tc]
+gracetime: checks
+BelSv: bets $3
+gracetime: raises $3 to $6
+BelSv: calls $3
+*** TURN *** [Qc 7c Tc] [Ad]
+gracetime: checks
+BelSv: bets $6
+gracetime: raises $6 to $12
+BelSv: calls $6
+*** RIVER *** [Qc 7c Tc Ad] [3c]
+gracetime: bets $6
+BelSv: folds
+Uncalled bet ($6) returned to gracetime
+gracetime collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Qc 7c Tc Ad 3c]
+Seat 1: gracetime (big blind) collected ($47.50)
+Seat 6: BelSv (button) (small blind) folded on the River
+
+
+PokerStars Hand #147910815751:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:26:13 ET
+Table 'Slipher' 6-max Seat #1 is the button
+Seat 1: gracetime ($75.08 in chips)
+Seat 6: BelSv ($144.28 in chips)
+gracetime: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+gracetime: raises $3 to $6
+BelSv: raises $3 to $9
+gracetime: calls $3
+*** FLOP *** [3s Kh Ah]
+BelSv: bets $3
+gracetime: folds
+Uncalled bet ($3) returned to BelSv
+BelSv collected $17.64 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3s Kh Ah]
+Seat 1: gracetime (button) (small blind) folded on the Flop
+Seat 6: BelSv (big blind) collected ($17.64)
+
+
+PokerStars Hand #147910820499:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:26:22 ET
+Table 'Slipher' 6-max Seat #6 is the button
+Seat 1: gracetime ($66.08 in chips)
+Seat 6: BelSv ($152.92 in chips)
+BelSv: posts small blind $1
+gracetime: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+gracetime: calls $3
+*** FLOP *** [2d 3d 4c]
+gracetime: checks
+BelSv: bets $3
+gracetime: folds
+Uncalled bet ($3) returned to BelSv
+BelSv collected $11.76 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2d 3d 4c]
+Seat 1: gracetime (big blind) folded on the Flop
+Seat 6: BelSv (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #147910826237:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:26:34 ET
+Table 'Slipher' 6-max Seat #1 is the button
+Seat 1: gracetime ($60.08 in chips)
+Seat 6: BelSv ($158.68 in chips)
+gracetime: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+gracetime: raises $3 to $6
+BelSv: calls $3
+*** FLOP *** [6c 9s Td]
+BelSv: checks
+gracetime: bets $3
+BelSv: folds
+Uncalled bet ($3) returned to gracetime
+gracetime collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6c 9s Td]
+Seat 1: gracetime (button) (small blind) collected ($11.76)
+Seat 6: BelSv (big blind) folded on the Flop
+
+
+PokerStars Hand #147910844944:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:27:12 ET
+Table 'Slipher' 6-max Seat #1 is the button
+Seat 1: gracetime ($89.34 in chips)
+Seat 6: BelSv ($128.68 in chips)
+gracetime: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+gracetime: raises $3 to $6
+BelSv: calls $3
+*** FLOP *** [7s 2h 3d]
+BelSv: checks
+gracetime: bets $3
+BelSv: folds
+Uncalled bet ($3) returned to gracetime
+gracetime collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7s 2h 3d]
+Seat 1: gracetime (button) (small blind) collected ($11.76)
+Seat 6: BelSv (big blind) folded on the Flop
+
+
+PokerStars Hand #147910852384:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:27:27 ET
+Table 'Slipher' 6-max Seat #6 is the button
+Seat 1: gracetime ($95.10 in chips)
+Seat 6: BelSv ($122.68 in chips)
+BelSv: posts small blind $1
+gracetime: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+gracetime: calls $3
+*** FLOP *** [8h 6c 2d]
+gracetime: checks
+BelSv: bets $3
+gracetime: raises $3 to $6
+BelSv: calls $3
+*** TURN *** [8h 6c 2d] [2c]
+gracetime: bets $6
+BelSv: calls $6
+*** RIVER *** [8h 6c 2d 2c] [Ad]
+gracetime: checks
+BelSv: bets $6
+gracetime: calls $6
+*** SHOW DOWN ***
+BelSv: shows [8s Kh] (two pair, Eights and Deuces)
+gracetime: mucks hand
+BelSv collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8h 6c 2d 2c Ad]
+Seat 1: gracetime (big blind) mucked
+Seat 6: BelSv (button) (small blind) showed [8s Kh] and won ($47.50) with two pair, Eights and Deuces
+
+
+PokerStars Hand #147910864344:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:27:51 ET
+Table 'Slipher' 6-max Seat #1 is the button
+Seat 1: gracetime ($71.10 in chips)
+Seat 6: BelSv ($146.18 in chips)
+gracetime: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+gracetime: raises $3 to $6
+BelSv: raises $3 to $9
+gracetime: calls $3
+*** FLOP *** [6s 4c 7d]
+BelSv: checks
+gracetime: checks
+*** TURN *** [6s 4c 7d] [3c]
+BelSv: checks
+gracetime: bets $6
+BelSv: calls $6
+*** RIVER *** [6s 4c 7d 3c] [Qc]
+BelSv: checks
+gracetime: bets $6
+BelSv: calls $6
+*** SHOW DOWN ***
+gracetime: shows [Ac Jc] (a flush, Ace high)
+BelSv: mucks hand
+gracetime collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [6s 4c 7d 3c Qc]
+Seat 1: gracetime (button) (small blind) showed [Ac Jc] and won ($41.50) with a flush, Ace high
+Seat 6: BelSv (big blind) mucked
+
+
+PokerStars Hand #147910874592:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:28:11 ET
+Table 'Slipher' 6-max Seat #6 is the button
+Seat 1: gracetime ($91.60 in chips)
+Seat 6: BelSv ($125.18 in chips)
+BelSv: posts small blind $1
+gracetime: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+gracetime: folds
+Uncalled bet ($3) returned to BelSv
+BelSv collected $6 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: gracetime (big blind) folded before Flop
+Seat 6: BelSv (button) (small blind) collected ($6)
+
+
+PokerStars Hand #147910878431:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:28:19 ET
+Table 'Slipher' 6-max Seat #1 is the button
+Seat 1: gracetime ($88.60 in chips)
+Seat 6: BelSv ($128.18 in chips)
+gracetime: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+gracetime: raises $3 to $6
+BelSv: raises $3 to $9
+gracetime: calls $3
+*** FLOP *** [Js Qh 8d]
+BelSv: checks
+gracetime: checks
+*** TURN *** [Js Qh 8d] [Qc]
+BelSv: checks
+gracetime: checks
+*** RIVER *** [Js Qh 8d Qc] [6h]
+BelSv: checks
+gracetime: checks
+*** SHOW DOWN ***
+BelSv: shows [Ad Th] (a pair of Queens)
+gracetime: shows [6s 5h] (two pair, Queens and Sixes)
+gracetime collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Js Qh 8d Qc 6h]
+Seat 1: gracetime (button) (small blind) showed [6s 5h] and won ($17.64) with two pair, Queens and Sixes
+Seat 6: BelSv (big blind) showed [Ad Th] and lost with a pair of Queens
+
+
+PokerStars Hand #147910886972:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:28:36 ET
+Table 'Slipher' 6-max Seat #6 is the button
+Seat 1: gracetime ($97.24 in chips)
+Seat 6: BelSv ($119.18 in chips)
+BelSv: posts small blind $1
+gracetime: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+gracetime: raises $3 to $9
+BelSv: calls $3
+*** FLOP *** [2d Jd Kd]
+gracetime: bets $3
+BelSv: calls $3
+*** TURN *** [2d Jd Kd] [6d]
+gracetime: checks
+BelSv: bets $6
+gracetime: folds
+Uncalled bet ($6) returned to BelSv
+BelSv collected $23.52 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [2d Jd Kd 6d]
+Seat 1: gracetime (big blind) folded on the Turn
+Seat 6: BelSv (button) (small blind) collected ($23.52)
+
+
+PokerStars Hand #147910894660:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:28:52 ET
+Table 'Slipher' 6-max Seat #1 is the button
+Seat 1: gracetime ($85.24 in chips)
+Seat 6: BelSv ($130.70 in chips)
+gracetime: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+gracetime: raises $3 to $6
+BelSv: calls $3
+*** FLOP *** [Td 9d 9h]
+BelSv: checks
+gracetime: bets $3
+BelSv: calls $3
+*** TURN *** [Td 9d 9h] [4s]
+BelSv: checks
+gracetime: checks
+*** RIVER *** [Td 9d 9h 4s] [6d]
+BelSv: checks
+gracetime: checks
+*** SHOW DOWN ***
+BelSv: shows [Ks 3c] (a pair of Nines)
+gracetime: mucks hand
+BelSv collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Td 9d 9h 4s 6d]
+Seat 1: gracetime (button) (small blind) mucked
+Seat 6: BelSv (big blind) showed [Ks 3c] and won ($17.64) with a pair of Nines
+
+
+PokerStars Hand #147910902918:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:29:09 ET
+Table 'Slipher' 6-max Seat #6 is the button
+Seat 1: gracetime ($76.24 in chips)
+Seat 6: BelSv ($139.34 in chips)
+BelSv: posts small blind $1
+gracetime: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+gracetime: calls $3
+*** FLOP *** [Td Jh Ad]
+gracetime: checks
+BelSv: bets $3
+gracetime: calls $3
+*** TURN *** [Td Jh Ad] [Ks]
+gracetime: checks
+BelSv: bets $6
+gracetime: calls $6
+*** RIVER *** [Td Jh Ad Ks] [4c]
+gracetime: checks
+BelSv: bets $6
+gracetime: calls $6
+*** SHOW DOWN ***
+BelSv: shows [8h Qd] (a straight, Ten to Ace)
+gracetime: mucks hand
+BelSv collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Td Jh Ad Ks 4c]
+Seat 1: gracetime (big blind) mucked
+Seat 6: BelSv (button) (small blind) showed [8h Qd] and won ($41.50) with a straight, Ten to Ace
+
+
+PokerStars Hand #147910911852:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:29:27 ET
+Table 'Slipher' 6-max Seat #1 is the button
+Seat 1: gracetime ($55.24 in chips)
+Seat 6: BelSv ($159.84 in chips)
+gracetime: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+gracetime: folds
+Uncalled bet ($2) returned to BelSv
+BelSv collected $2 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: gracetime (button) (small blind) folded before Flop
+Seat 6: BelSv (big blind) collected ($2)
+
+
+PokerStars Hand #147910914205:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:29:32 ET
+Table 'Slipher' 6-max Seat #6 is the button
+Seat 1: gracetime ($54.24 in chips)
+Seat 6: BelSv ($160.84 in chips)
+BelSv: posts small blind $1
+gracetime: posts big blind $3
+*** HOLE CARDS ***
+BelSv: folds
+Uncalled bet ($2) returned to gracetime
+gracetime collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: gracetime (big blind) collected ($2)
+Seat 6: BelSv (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147910921366:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:29:46 ET
+Table 'Slipher' 6-max Seat #1 is the button
+Seat 1: gracetime ($55.24 in chips)
+Seat 6: BelSv ($159.84 in chips)
+gracetime: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+gracetime: raises $3 to $6
+BelSv: calls $3
+*** FLOP *** [3s Tc 7c]
+BelSv: checks
+gracetime: bets $3
+BelSv: folds
+Uncalled bet ($3) returned to gracetime
+gracetime collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3s Tc 7c]
+Seat 1: gracetime (button) (small blind) collected ($11.76)
+Seat 6: BelSv (big blind) folded on the Flop
+
+
+PokerStars Hand #147910932263:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:30:09 ET
+Table 'Slipher' 6-max Seat #1 is the button
+Seat 1: gracetime ($52 in chips)
+Seat 6: BelSv ($162.48 in chips)
+gracetime: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+gracetime: folds
+Uncalled bet ($2) returned to BelSv
+BelSv collected $2 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: gracetime (button) (small blind) folded before Flop
+Seat 6: BelSv (big blind) collected ($2)
+
+
+PokerStars Hand #147910926641:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:29:57 ET
+Table 'Slipher' 6-max Seat #6 is the button
+Seat 1: gracetime ($61 in chips)
+Seat 6: BelSv ($153.84 in chips)
+BelSv: posts small blind $1
+gracetime: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+gracetime: calls $3
+*** FLOP *** [8c Kd 2h]
+gracetime: checks
+BelSv: bets $3
+gracetime: calls $3
+*** TURN *** [8c Kd 2h] [Th]
+gracetime: checks
+BelSv: bets $6
+gracetime: folds
+Uncalled bet ($6) returned to BelSv
+BelSv collected $17.64 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8c Kd 2h Th]
+Seat 1: gracetime (big blind) folded on the Turn
+Seat 6: BelSv (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #147910934576:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:30:14 ET
+Table 'Slipher' 6-max Seat #6 is the button
+Seat 1: gracetime ($51 in chips)
+Seat 6: BelSv ($163.48 in chips)
+BelSv: posts small blind $1
+gracetime: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+gracetime: folds
+Uncalled bet ($3) returned to BelSv
+BelSv collected $6 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: gracetime (big blind) folded before Flop
+Seat 6: BelSv (button) (small blind) collected ($6)
+
+
+PokerStars Hand #147910937326:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:30:19 ET
+Table 'Slipher' 6-max Seat #1 is the button
+Seat 1: gracetime ($48 in chips)
+Seat 6: BelSv ($166.48 in chips)
+gracetime: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+gracetime: raises $3 to $6
+BelSv: raises $3 to $9
+gracetime: calls $3
+*** FLOP *** [3h Ac 8h]
+BelSv: bets $3
+gracetime: calls $3
+*** TURN *** [3h Ac 8h] [Qh]
+BelSv: bets $6
+gracetime: calls $6
+*** RIVER *** [3h Ac 8h Qh] [9c]
+BelSv: bets $6
+gracetime: raises $6 to $12
+BelSv: calls $6
+*** SHOW DOWN ***
+gracetime: shows [9s 8s] (two pair, Nines and Eights)
+BelSv: mucks hand
+gracetime collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [3h Ac 8h Qh 9c]
+Seat 1: gracetime (button) (small blind) showed [9s 8s] and won ($59.50) with two pair, Nines and Eights
+Seat 6: BelSv (big blind) mucked
+
+
+PokerStars Hand #147910948685:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:30:42 ET
+Table 'Slipher' 6-max Seat #1 is the button
+Seat 1: gracetime ($78.50 in chips)
+Seat 6: BelSv ($135.48 in chips)
+gracetime: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+gracetime: folds
+Uncalled bet ($2) returned to BelSv
+BelSv collected $2 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: gracetime (button) (small blind) folded before Flop
+Seat 6: BelSv (big blind) collected ($2)
+
+
+PokerStars Hand #147910945237:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:30:35 ET
+Table 'Slipher' 6-max Seat #6 is the button
+Seat 1: gracetime ($77.50 in chips)
+Seat 6: BelSv ($136.48 in chips)
+BelSv: posts small blind $1
+gracetime: posts big blind $3
+*** HOLE CARDS ***
+BelSv: folds
+Uncalled bet ($2) returned to gracetime
+gracetime collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: gracetime (big blind) collected ($2)
+Seat 6: BelSv (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147910951145:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:30:47 ET
+Table 'Slipher' 6-max Seat #6 is the button
+Seat 1: gracetime ($77.50 in chips)
+Seat 6: BelSv ($136.48 in chips)
+BelSv: posts small blind $1
+gracetime: posts big blind $3
+*** HOLE CARDS ***
+BelSv: folds
+Uncalled bet ($2) returned to gracetime
+gracetime collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: gracetime (big blind) collected ($2)
+Seat 6: BelSv (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147910956886:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:30:59 ET
+Table 'Slipher' 6-max Seat #6 is the button
+Seat 1: gracetime ($77.50 in chips)
+Seat 6: BelSv ($136.48 in chips)
+BelSv: posts small blind $1
+gracetime: posts big blind $3
+*** HOLE CARDS ***
+BelSv: folds
+Uncalled bet ($2) returned to gracetime
+gracetime collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: gracetime (big blind) collected ($2)
+Seat 6: BelSv (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147910954583:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:30:54 ET
+Table 'Slipher' 6-max Seat #1 is the button
+Seat 1: gracetime ($78.50 in chips)
+Seat 6: BelSv ($135.48 in chips)
+gracetime: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+gracetime: folds
+Uncalled bet ($2) returned to BelSv
+BelSv collected $2 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: gracetime (button) (small blind) folded before Flop
+Seat 6: BelSv (big blind) collected ($2)
+
+
+PokerStars Hand #147910961387:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:31:08 ET
+Table 'Slipher' 6-max Seat #1 is the button
+Seat 1: gracetime ($78.50 in chips)
+Seat 6: BelSv ($135.48 in chips)
+gracetime: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+gracetime: folds
+Uncalled bet ($2) returned to BelSv
+BelSv collected $2 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: gracetime (button) (small blind) folded before Flop
+Seat 6: BelSv (big blind) collected ($2)
+
+
+PokerStars Hand #147910963987:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:31:13 ET
+Table 'Slipher' 6-max Seat #6 is the button
+Seat 1: gracetime ($77.50 in chips)
+Seat 6: BelSv ($136.48 in chips)
+BelSv: posts small blind $1
+gracetime: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+gracetime: raises $3 to $9
+BelSv: calls $3
+*** FLOP *** [5c 2d Js]
+gracetime: bets $3
+BelSv: calls $3
+*** TURN *** [5c 2d Js] [Kh]
+gracetime: bets $6
+BelSv: calls $6
+*** RIVER *** [5c 2d Js Kh] [4c]
+gracetime: bets $6
+BelSv: calls $6
+*** SHOW DOWN ***
+gracetime: shows [4d 5d] (two pair, Fives and Fours)
+BelSv: mucks hand
+gracetime collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [5c 2d Js Kh 4c]
+Seat 1: gracetime (big blind) showed [4d 5d] and won ($47.50) with two pair, Fives and Fours
+Seat 6: BelSv (button) (small blind) mucked
+
+
+PokerStars Hand #147910971706:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:31:29 ET
+Table 'Slipher' 6-max Seat #1 is the button
+Seat 1: gracetime ($101 in chips)
+Seat 6: BelSv ($112.48 in chips)
+gracetime: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+gracetime: raises $3 to $6
+BelSv: calls $3
+*** FLOP *** [9c 7s 6d]
+BelSv: checks
+gracetime: bets $3
+BelSv: calls $3
+*** TURN *** [9c 7s 6d] [8s]
+BelSv: bets $6
+gracetime: folds
+Uncalled bet ($6) returned to BelSv
+BelSv collected $17.64 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9c 7s 6d 8s]
+Seat 1: gracetime (button) (small blind) folded on the Turn
+Seat 6: BelSv (big blind) collected ($17.64)
+
+
+PokerStars Hand #147910980642:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:31:47 ET
+Table 'Slipher' 6-max Seat #6 is the button
+Seat 1: gracetime ($92 in chips)
+Seat 6: BelSv ($121.12 in chips)
+BelSv: posts small blind $1
+gracetime: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+gracetime: calls $3
+*** FLOP *** [Th 2d Qc]
+gracetime: checks
+BelSv: bets $3
+gracetime: folds
+Uncalled bet ($3) returned to BelSv
+BelSv collected $11.76 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Th 2d Qc]
+Seat 1: gracetime (big blind) folded on the Flop
+Seat 6: BelSv (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #147910987880:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:32:02 ET
+Table 'Slipher' 6-max Seat #6 is the button
+Seat 1: gracetime ($85 in chips)
+Seat 6: BelSv ($127.88 in chips)
+BelSv: posts small blind $1
+gracetime: posts big blind $3
+*** HOLE CARDS ***
+BelSv: folds
+Uncalled bet ($2) returned to gracetime
+gracetime collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: gracetime (big blind) collected ($2)
+Seat 6: BelSv (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147910985838:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:31:58 ET
+Table 'Slipher' 6-max Seat #1 is the button
+Seat 1: gracetime ($86 in chips)
+Seat 6: BelSv ($126.88 in chips)
+gracetime: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+gracetime: folds
+Uncalled bet ($2) returned to BelSv
+BelSv collected $2 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: gracetime (button) (small blind) folded before Flop
+Seat 6: BelSv (big blind) collected ($2)
+
+
+PokerStars Hand #147910990227:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:32:07 ET
+Table 'Slipher' 6-max Seat #1 is the button
+Seat 1: gracetime ($86 in chips)
+Seat 6: BelSv ($126.88 in chips)
+gracetime: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+gracetime: raises $3 to $6
+BelSv: calls $3
+*** FLOP *** [Qh 8s 7d]
+BelSv: checks
+gracetime: checks
+*** TURN *** [Qh 8s 7d] [6c]
+BelSv: checks
+gracetime: checks
+*** RIVER *** [Qh 8s 7d 6c] [5h]
+BelSv: checks
+gracetime: checks
+*** SHOW DOWN ***
+BelSv: shows [Kc 3d] (high card King)
+gracetime: shows [As Jd] (high card Ace)
+gracetime collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qh 8s 7d 6c 5h]
+Seat 1: gracetime (button) (small blind) showed [As Jd] and won ($11.76) with high card Ace
+Seat 6: BelSv (big blind) showed [Kc 3d] and lost with high card King
+
+
+PokerStars Hand #147911007580:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:32:43 ET
+Table 'Slipher' 6-max Seat #1 is the button
+Seat 1: gracetime ($92.76 in chips)
+Seat 6: BelSv ($119.88 in chips)
+gracetime: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+gracetime: folds
+Uncalled bet ($2) returned to BelSv
+BelSv collected $2 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: gracetime (button) (small blind) folded before Flop
+Seat 6: BelSv (big blind) collected ($2)
+
+
+PokerStars Hand #147911005174:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:32:38 ET
+Table 'Slipher' 6-max Seat #6 is the button
+Seat 1: gracetime ($91.76 in chips)
+Seat 6: BelSv ($120.88 in chips)
+BelSv: posts small blind $1
+gracetime: posts big blind $3
+*** HOLE CARDS ***
+BelSv: folds
+Uncalled bet ($2) returned to gracetime
+gracetime collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: gracetime (big blind) collected ($2)
+Seat 6: BelSv (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147911018180:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:33:04 ET
+Table 'Slipher' 6-max Seat #1 is the button
+Seat 1: gracetime ($70.76 in chips)
+Seat 6: BelSv ($141.38 in chips)
+gracetime: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+gracetime: folds
+Uncalled bet ($2) returned to BelSv
+BelSv collected $2 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: gracetime (button) (small blind) folded before Flop
+Seat 6: BelSv (big blind) collected ($2)
+
+
+PokerStars Hand #147911009842:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:32:47 ET
+Table 'Slipher' 6-max Seat #6 is the button
+Seat 1: gracetime ($91.76 in chips)
+Seat 6: BelSv ($120.88 in chips)
+BelSv: posts small blind $1
+gracetime: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+gracetime: calls $3
+*** FLOP *** [As 6h 5c]
+gracetime: checks
+BelSv: bets $3
+gracetime: calls $3
+*** TURN *** [As 6h 5c] [Jc]
+gracetime: checks
+BelSv: bets $6
+gracetime: calls $6
+*** RIVER *** [As 6h 5c Jc] [Js]
+gracetime: checks
+BelSv: bets $6
+gracetime: calls $6
+*** SHOW DOWN ***
+BelSv: shows [Ad 5h] (two pair, Aces and Jacks)
+gracetime: mucks hand
+BelSv collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [As 6h 5c Jc Js]
+Seat 1: gracetime (big blind) mucked
+Seat 6: BelSv (button) (small blind) showed [Ad 5h] and won ($41.50) with two pair, Aces and Jacks
+
+
+PokerStars Hand #147911020508:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:33:09 ET
+Table 'Slipher' 6-max Seat #6 is the button
+Seat 1: gracetime ($69.76 in chips)
+Seat 6: BelSv ($142.38 in chips)
+BelSv: posts small blind $1
+gracetime: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+gracetime: folds
+Uncalled bet ($3) returned to BelSv
+BelSv collected $6 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: gracetime (big blind) folded before Flop
+Seat 6: BelSv (button) (small blind) collected ($6)
+
+
+PokerStars Hand #147911052541:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:34:15 ET
+Table 'Slipher' 6-max Seat #1 is the button
+Seat 1: gracetime ($35.76 in chips)
+Seat 6: BelSv ($175.28 in chips)
+gracetime: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+gracetime: raises $3 to $6
+BelSv: calls $3
+*** FLOP *** [Jc 9c 5s]
+BelSv: checks
+gracetime: bets $3
+BelSv: raises $3 to $6
+gracetime: calls $3
+*** TURN *** [Jc 9c 5s] [2d]
+BelSv: bets $6
+gracetime: calls $6
+*** RIVER *** [Jc 9c 5s 2d] [9h]
+BelSv: bets $6
+gracetime: folds
+Uncalled bet ($6) returned to BelSv
+BelSv collected $35.50 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Jc 9c 5s 2d 9h]
+Seat 1: gracetime (button) (small blind) folded on the River
+Seat 6: BelSv (big blind) collected ($35.50)
+
+
+PokerStars Hand #147911023130:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:33:15 ET
+Table 'Slipher' 6-max Seat #1 is the button
+Seat 1: gracetime ($66.76 in chips)
+Seat 6: BelSv ($145.38 in chips)
+gracetime: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+gracetime: raises $3 to $6
+BelSv: calls $3
+*** FLOP *** [2h 7c 9d]
+BelSv: checks
+gracetime: bets $3
+BelSv: calls $3
+*** TURN *** [2h 7c 9d] [Qd]
+BelSv: checks
+gracetime: checks
+*** RIVER *** [2h 7c 9d Qd] [2s]
+BelSv: bets $6
+gracetime: folds
+Uncalled bet ($6) returned to BelSv
+BelSv collected $17.64 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2h 7c 9d Qd 2s]
+Seat 1: gracetime (button) (small blind) folded on the River
+Seat 6: BelSv (big blind) collected ($17.64)
+
+
+PokerStars Hand #147911042509:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:33:54 ET
+Table 'Slipher' 6-max Seat #1 is the button
+Seat 1: gracetime ($42.76 in chips)
+Seat 6: BelSv ($168.52 in chips)
+gracetime: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+gracetime: folds
+Uncalled bet ($2) returned to BelSv
+BelSv collected $2 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: gracetime (button) (small blind) folded before Flop
+Seat 6: BelSv (big blind) collected ($2)
+
+
+PokerStars Hand #147911033872:  Hold'em Limit ($3/$6 USD) - 2016/01/29 21:33:37 ET
+Table 'Slipher' 6-max Seat #6 is the button
+Seat 1: gracetime ($57.76 in chips)
+Seat 6: BelSv ($154.02 in chips)
+BelSv: posts small blind $1
+gracetime: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+gracetime: calls $3
+*** FLOP *** [3c Td Qh]
+gracetime: checks
+BelSv: bets $3
+gracetime: calls $3
+*** TURN *** [3c Td Qh] [5h]
+gracetime: checks
+BelSv: checks
+*** RIVER *** [3c Td Qh 5h] [7s]
+gracetime: bets $6
+BelSv: calls $6
+*** SHOW DOWN ***
+gracetime: shows [Jc 9d] (high card Queen)
+BelSv: shows [7d 9c] (a pair of Sevens)
+BelSv collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3c Td Qh 5h 7s]
+Seat 1: gracetime (big blind) showed [Jc 9d] and lost with high card Queen
+Seat 6: BelSv (button) (small blind) showed [7d 9c] and won ($29.50) with a pair of Sevens
+
+

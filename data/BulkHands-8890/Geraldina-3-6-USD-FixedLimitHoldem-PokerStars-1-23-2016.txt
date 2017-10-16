@@ -1,0 +1,952 @@
+PokerStars Hand #147558201804:  Hold'em Limit ($3/$6 USD) - 2016/01/23 16:26:32 ET
+Table 'Geraldina' 10-max Seat #1 is the button
+Seat 1: ZinZar ($92.35 in chips)
+Seat 10: ManuelSikora ($19.23 in chips)
+ZinZar: posts small blind $1
+Pandakey: is sitting out
+ManuelSikora: posts big blind $3
+*** HOLE CARDS ***
+ZinZar: raises $3 to $6
+ManuelSikora: raises $3 to $9
+ZinZar: calls $3
+*** FLOP *** [5h Kd As]
+Pandakey leaves the table
+ManuelSikora: bets $3
+ZinZar: folds
+Uncalled bet ($3) returned to ManuelSikora
+ManuelSikora collected $17.64 from pot
+ManuelSikora: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5h Kd As]
+Seat 1: ZinZar (button) (small blind) folded on the Flop
+Seat 10: ManuelSikora (big blind) collected ($17.64)
+
+
+PokerStars Hand #147558210742:  Hold'em Limit ($3/$6 USD) - 2016/01/23 16:26:41 ET
+Table 'Geraldina' 10-max Seat #10 is the button
+Seat 1: ZinZar ($83.35 in chips)
+Seat 10: ManuelSikora ($27.87 in chips)
+ManuelSikora: posts small blind $1
+ZinZar: posts big blind $3
+*** HOLE CARDS ***
+ManuelSikora: raises $3 to $6
+ZinZar: calls $3
+*** FLOP *** [4h Jc Jd]
+ZinZar: checks
+ManuelSikora: bets $3
+ZinZar: calls $3
+*** TURN *** [4h Jc Jd] [7s]
+ZinZar: checks
+ManuelSikora: checks
+*** RIVER *** [4h Jc Jd 7s] [2d]
+ZinZar: bets $6
+ManuelSikora: folds
+Uncalled bet ($6) returned to ZinZar
+ZinZar collected $17.64 from pot
+ZinZar: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4h Jc Jd 7s 2d]
+Seat 1: ZinZar (big blind) collected ($17.64)
+Seat 10: ManuelSikora (button) (small blind) folded on the River
+
+
+PokerStars Hand #147558225415:  Hold'em Limit ($3/$6 USD) - 2016/01/23 16:26:55 ET
+Table 'Geraldina' 10-max Seat #1 is the button
+Seat 1: ZinZar ($91.99 in chips)
+Seat 10: ManuelSikora ($18.87 in chips)
+ZinZar: posts small blind $1
+ManuelSikora: posts big blind $3
+*** HOLE CARDS ***
+ZinZar: raises $3 to $6
+ManuelSikora: calls $3
+*** FLOP *** [2s 5h Qh]
+ManuelSikora: bets $3
+ZinZar: calls $3
+*** TURN *** [2s 5h Qh] [4d]
+ManuelSikora: bets $6
+ZinZar: calls $6
+*** RIVER *** [2s 5h Qh 4d] [6d]
+ManuelSikora: bets $3.87 and is all-in
+ZinZar: calls $3.87
+*** SHOW DOWN ***
+ManuelSikora: shows [3c Kd] (a straight, Deuce to Six)
+ZinZar: mucks hand
+ManuelSikora collected $37.24 from pot
+*** SUMMARY ***
+Total pot $37.74 | Rake $0.50
+Board [2s 5h Qh 4d 6d]
+Seat 1: ZinZar (button) (small blind) mucked
+Seat 10: ManuelSikora (big blind) showed [3c Kd] and won ($37.24) with a straight, Deuce to Six
+
+
+PokerStars Hand #147558241269:  Hold'em Limit ($3/$6 USD) - 2016/01/23 16:27:11 ET
+Table 'Geraldina' 10-max Seat #10 is the button
+Seat 1: ZinZar ($73.12 in chips)
+Seat 10: ManuelSikora ($109.17 in chips)
+ManuelSikora: posts small blind $1
+ZinZar: posts big blind $3
+*** HOLE CARDS ***
+ManuelSikora: raises $3 to $6
+ZinZar: calls $3
+*** FLOP *** [6h 7s 4h]
+ZinZar: checks
+ManuelSikora: bets $3
+ZinZar: folds
+Uncalled bet ($3) returned to ManuelSikora
+ManuelSikora collected $11.76 from pot
+ManuelSikora: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6h 7s 4h]
+Seat 1: ZinZar (big blind) folded on the Flop
+Seat 10: ManuelSikora (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #147558254872:  Hold'em Limit ($3/$6 USD) - 2016/01/23 16:27:24 ET
+Table 'Geraldina' 10-max Seat #1 is the button
+Seat 1: ZinZar ($72 in chips)
+Seat 10: ManuelSikora ($114.93 in chips)
+ZinZar: posts small blind $1
+ManuelSikora: posts big blind $3
+*** HOLE CARDS ***
+ZinZar: raises $3 to $6
+ManuelSikora: calls $3
+*** FLOP *** [3s 5h 9s]
+ManuelSikora: bets $3
+ZinZar: calls $3
+*** TURN *** [3s 5h 9s] [6s]
+ManuelSikora: bets $6
+ZinZar: raises $6 to $12
+ManuelSikora: calls $6
+*** RIVER *** [3s 5h 9s 6s] [9h]
+ManuelSikora: checks
+ZinZar: bets $6
+ManuelSikora: calls $6
+*** SHOW DOWN ***
+ZinZar: shows [6h As] (two pair, Nines and Sixes)
+ManuelSikora: shows [9c 8c] (three of a kind, Nines)
+ManuelSikora collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [3s 5h 9s 6s 9h]
+Seat 1: ZinZar (button) (small blind) showed [6h As] and lost with two pair, Nines and Sixes
+Seat 10: ManuelSikora (big blind) showed [9c 8c] and won ($53.50) with three of a kind, Nines
+
+
+PokerStars Hand #147558290134:  Hold'em Limit ($3/$6 USD) - 2016/01/23 16:27:59 ET
+Table 'Geraldina' 10-max Seat #1 is the button
+Seat 1: ZinZar ($72 in chips)
+Seat 10: ManuelSikora ($141.31 in chips)
+ZinZar: posts small blind $1
+ManuelSikora: posts big blind $3
+*** HOLE CARDS ***
+ZinZar: raises $3 to $6
+ManuelSikora: calls $3
+*** FLOP *** [2s Kd 7c]
+ManuelSikora: bets $3
+ZinZar: folds
+Uncalled bet ($3) returned to ManuelSikora
+ManuelSikora collected $11.76 from pot
+ManuelSikora: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2s Kd 7c]
+Seat 1: ZinZar (button) (small blind) folded on the Flop
+Seat 10: ManuelSikora (big blind) collected ($11.76)
+
+
+PokerStars Hand #147558268573:  Hold'em Limit ($3/$6 USD) - 2016/01/23 16:27:38 ET
+Table 'Geraldina' 10-max Seat #10 is the button
+Seat 1: ZinZar ($72 in chips)
+Seat 10: ManuelSikora ($141.43 in chips)
+ManuelSikora: posts small blind $1
+ZinZar: posts big blind $3
+*** HOLE CARDS ***
+ManuelSikora: raises $3 to $6
+ZinZar: calls $3
+*** FLOP *** [3d Ks 3h]
+ZinZar: checks
+ManuelSikora: checks
+*** TURN *** [3d Ks 3h] [2s]
+ZinZar: checks
+ManuelSikora: checks
+*** RIVER *** [3d Ks 3h 2s] [Ad]
+ZinZar: checks
+ManuelSikora: checks
+*** SHOW DOWN ***
+ZinZar: shows [9c 7h] (a pair of Threes)
+ManuelSikora: shows [5s 9d] (a pair of Threes)
+ZinZar collected $5.88 from pot
+ManuelSikora collected $5.88 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3d Ks 3h 2s Ad]
+Seat 1: ZinZar (big blind) showed [9c 7h] and won ($5.88) with a pair of Threes
+Seat 10: ManuelSikora (button) (small blind) showed [5s 9d] and won ($5.88) with a pair of Threes
+
+
+PokerStars Hand #147558298518:  Hold'em Limit ($3/$6 USD) - 2016/01/23 16:28:07 ET
+Table 'Geraldina' 10-max Seat #10 is the button
+Seat 1: ZinZar ($72 in chips)
+Seat 10: ManuelSikora ($147.07 in chips)
+ManuelSikora: posts small blind $1
+ZinZar: posts big blind $3
+*** HOLE CARDS ***
+ManuelSikora: raises $3 to $6
+ZinZar: calls $3
+*** FLOP *** [Th 5s 8d]
+ZinZar: checks
+ManuelSikora: checks
+*** TURN *** [Th 5s 8d] [9d]
+ZinZar: bets $6
+ManuelSikora: calls $6
+*** RIVER *** [Th 5s 8d 9d] [4h]
+ZinZar: bets $6
+ManuelSikora: calls $6
+*** SHOW DOWN ***
+ZinZar: shows [5h 8c] (two pair, Eights and Fives)
+ManuelSikora: mucks hand
+ZinZar collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Th 5s 8d 9d 4h]
+Seat 1: ZinZar (big blind) showed [5h 8c] and won ($35.50) with two pair, Eights and Fives
+Seat 10: ManuelSikora (button) (small blind) mucked
+
+
+PokerStars Hand #147558314257:  Hold'em Limit ($3/$6 USD) - 2016/01/23 16:28:23 ET
+Table 'Geraldina' 10-max Seat #1 is the button
+Seat 1: ZinZar ($89.50 in chips)
+Seat 10: ManuelSikora ($129.07 in chips)
+ZinZar: posts small blind $1
+ManuelSikora: posts big blind $3
+*** HOLE CARDS ***
+ZinZar: raises $3 to $6
+ManuelSikora: calls $3
+*** FLOP *** [Qd 2c 9d]
+ManuelSikora: checks
+ZinZar: bets $3
+ManuelSikora: folds
+Uncalled bet ($3) returned to ZinZar
+ZinZar collected $11.76 from pot
+ZinZar: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qd 2c 9d]
+Seat 1: ZinZar (button) (small blind) collected ($11.76)
+Seat 10: ManuelSikora (big blind) folded on the Flop
+
+
+PokerStars Hand #147558327531:  Hold'em Limit ($3/$6 USD) - 2016/01/23 16:28:36 ET
+Table 'Geraldina' 10-max Seat #10 is the button
+Seat 1: ZinZar ($95.26 in chips)
+Seat 10: ManuelSikora ($123.07 in chips)
+ManuelSikora: posts small blind $1
+ZinZar: posts big blind $3
+*** HOLE CARDS ***
+ManuelSikora: folds
+Uncalled bet ($2) returned to ZinZar
+ZinZar collected $2 from pot
+ZinZar: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: ZinZar (big blind) collected ($2)
+Seat 10: ManuelSikora (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147558332414:  Hold'em Limit ($3/$6 USD) - 2016/01/23 16:28:41 ET
+Table 'Geraldina' 10-max Seat #1 is the button
+Seat 1: ZinZar ($96.26 in chips)
+Seat 10: ManuelSikora ($122.07 in chips)
+ZinZar: posts small blind $1
+ManuelSikora: posts big blind $3
+*** HOLE CARDS ***
+ZinZar: raises $3 to $6
+ManuelSikora: calls $3
+*** FLOP *** [Ks 7s 4s]
+ManuelSikora: bets $3
+ZinZar: calls $3
+*** TURN *** [Ks 7s 4s] [8s]
+ManuelSikora: checks
+ZinZar: checks
+*** RIVER *** [Ks 7s 4s 8s] [9d]
+ManuelSikora: checks
+ZinZar: checks
+*** SHOW DOWN ***
+ManuelSikora: shows [8c 6h] (a pair of Eights)
+ZinZar: mucks hand
+ManuelSikora collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ks 7s 4s 8s 9d]
+Seat 1: ZinZar (button) (small blind) mucked
+Seat 10: ManuelSikora (big blind) showed [8c 6h] and won ($17.64) with a pair of Eights
+
+
+PokerStars Hand #147558366246:  Hold'em Limit ($3/$6 USD) - 2016/01/23 16:29:14 ET
+Table 'Geraldina' 10-max Seat #1 is the button
+Seat 1: ZinZar ($93.02 in chips)
+Seat 10: ManuelSikora ($124.71 in chips)
+ZinZar: posts small blind $1
+ManuelSikora: posts big blind $3
+*** HOLE CARDS ***
+ZinZar: raises $3 to $6
+ManuelSikora: calls $3
+*** FLOP *** [4s 6d 2h]
+ManuelSikora: bets $3
+ZinZar: raises $3 to $6
+ManuelSikora: calls $3
+*** TURN *** [4s 6d 2h] [8s]
+ManuelSikora: bets $6
+ZinZar: raises $6 to $12
+ManuelSikora: calls $6
+*** RIVER *** [4s 6d 2h 8s] [Jd]
+ManuelSikora: checks
+ZinZar: bets $6
+ManuelSikora: calls $6
+*** SHOW DOWN ***
+ZinZar: shows [5c 3c] (a straight, Deuce to Six)
+ManuelSikora: mucks hand
+ZinZar collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [4s 6d 2h 8s Jd]
+Seat 1: ZinZar (button) (small blind) showed [5c 3c] and won ($59.50) with a straight, Deuce to Six
+Seat 10: ManuelSikora (big blind) mucked
+
+
+PokerStars Hand #147558381613:  Hold'em Limit ($3/$6 USD) - 2016/01/23 16:29:30 ET
+Table 'Geraldina' 10-max Seat #10 is the button
+Seat 1: ZinZar ($122.52 in chips)
+Seat 10: ManuelSikora ($94.71 in chips)
+ManuelSikora: posts small blind $1
+ZinZar: posts big blind $3
+*** HOLE CARDS ***
+ManuelSikora: raises $3 to $6
+ZinZar: calls $3
+*** FLOP *** [8d 7h Qc]
+ZinZar: checks
+ManuelSikora: checks
+*** TURN *** [8d 7h Qc] [Jc]
+ZinZar: bets $6
+ManuelSikora: calls $6
+*** RIVER *** [8d 7h Qc Jc] [8s]
+ZinZar: bets $6
+ManuelSikora: folds
+Uncalled bet ($6) returned to ZinZar
+ZinZar collected $23.52 from pot
+ZinZar: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [8d 7h Qc Jc 8s]
+Seat 1: ZinZar (big blind) collected ($23.52)
+Seat 10: ManuelSikora (button) (small blind) folded on the River
+
+
+PokerStars Hand #147558396441:  Hold'em Limit ($3/$6 USD) - 2016/01/23 16:29:45 ET
+Table 'Geraldina' 10-max Seat #1 is the button
+Seat 1: ZinZar ($134.04 in chips)
+Seat 10: ManuelSikora ($82.71 in chips)
+ZinZar: posts small blind $1
+ManuelSikora: posts big blind $3
+*** HOLE CARDS ***
+ZinZar: raises $3 to $6
+ManuelSikora: raises $3 to $9
+ZinZar: calls $3
+*** FLOP *** [2s 7d Tc]
+ManuelSikora: bets $3
+ZinZar: calls $3
+*** TURN *** [2s 7d Tc] [4d]
+ManuelSikora: bets $6
+ZinZar: calls $6
+*** RIVER *** [2s 7d Tc 4d] [5h]
+ManuelSikora: bets $6
+ZinZar: calls $6
+*** SHOW DOWN ***
+ManuelSikora: shows [Qd Qs] (a pair of Queens)
+ZinZar: mucks hand
+ManuelSikora collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2s 7d Tc 4d 5h]
+Seat 1: ZinZar (button) (small blind) mucked
+Seat 10: ManuelSikora (big blind) showed [Qd Qs] and won ($47.50) with a pair of Queens
+
+
+PokerStars Hand #147558409306:  Hold'em Limit ($3/$6 USD) - 2016/01/23 16:29:57 ET
+Table 'Geraldina' 10-max Seat #10 is the button
+Seat 1: ZinZar ($110.04 in chips)
+Seat 10: ManuelSikora ($106.21 in chips)
+ManuelSikora: posts small blind $1
+ZinZar: posts big blind $3
+*** HOLE CARDS ***
+ManuelSikora: raises $3 to $6
+ZinZar: calls $3
+*** FLOP *** [4c 9s 3s]
+ZinZar: checks
+ManuelSikora: bets $3
+ZinZar: raises $3 to $6
+ManuelSikora: raises $3 to $9
+ZinZar: raises $3 to $12
+Betting is capped
+ManuelSikora: calls $3
+*** TURN *** [4c 9s 3s] [Ah]
+ZinZar: bets $6
+ManuelSikora: calls $6
+*** RIVER *** [4c 9s 3s Ah] [8s]
+ZinZar: bets $6
+ManuelSikora: calls $6
+*** SHOW DOWN ***
+ZinZar: shows [3d 3h] (three of a kind, Threes)
+ManuelSikora: mucks hand
+ZinZar collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [4c 9s 3s Ah 8s]
+Seat 1: ZinZar (big blind) showed [3d 3h] and won ($59.50) with three of a kind, Threes
+Seat 10: ManuelSikora (button) (small blind) mucked
+
+
+PokerStars Hand #147558430534:  Hold'em Limit ($3/$6 USD) - 2016/01/23 16:30:19 ET
+Table 'Geraldina' 10-max Seat #1 is the button
+Seat 1: ZinZar ($139.54 in chips)
+Seat 10: ManuelSikora ($76.21 in chips)
+ZinZar: posts small blind $1
+ManuelSikora: posts big blind $3
+*** HOLE CARDS ***
+ZinZar: raises $3 to $6
+ManuelSikora: raises $3 to $9
+ZinZar: calls $3
+*** FLOP *** [Th 7h 9s]
+ManuelSikora: bets $3
+ZinZar: calls $3
+*** TURN *** [Th 7h 9s] [Kd]
+ManuelSikora: bets $6
+ZinZar: calls $6
+*** RIVER *** [Th 7h 9s Kd] [5s]
+ManuelSikora: bets $6
+ZinZar: calls $6
+*** SHOW DOWN ***
+ManuelSikora: shows [7d Td] (two pair, Tens and Sevens)
+ZinZar: mucks hand
+ManuelSikora collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Th 7h 9s Kd 5s]
+Seat 1: ZinZar (button) (small blind) mucked
+Seat 10: ManuelSikora (big blind) showed [7d Td] and won ($47.50) with two pair, Tens and Sevens
+
+
+PokerStars Hand #147558446617:  Hold'em Limit ($3/$6 USD) - 2016/01/23 16:30:34 ET
+Table 'Geraldina' 10-max Seat #10 is the button
+Seat 1: ZinZar ($115.54 in chips)
+Seat 10: ManuelSikora ($99.71 in chips)
+ManuelSikora: posts small blind $1
+ZinZar: posts big blind $3
+*** HOLE CARDS ***
+ManuelSikora: raises $3 to $6
+ZinZar: raises $3 to $9
+ManuelSikora: calls $3
+*** FLOP *** [Jd 9h 3d]
+ZinZar: bets $3
+ManuelSikora: raises $3 to $6
+ZinZar: raises $3 to $9
+ManuelSikora: calls $3
+*** TURN *** [Jd 9h 3d] [5d]
+ZinZar: bets $6
+ManuelSikora: calls $6
+*** RIVER *** [Jd 9h 3d 5d] [3c]
+ZinZar: bets $6
+ManuelSikora: calls $6
+*** SHOW DOWN ***
+ZinZar: shows [8d Td] (a flush, Jack high)
+ManuelSikora: mucks hand
+ZinZar collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Jd 9h 3d 5d 3c]
+Seat 1: ZinZar (big blind) showed [8d Td] and won ($59.50) with a flush, Jack high
+Seat 10: ManuelSikora (button) (small blind) mucked
+
+
+PokerStars Hand #147558463305:  Hold'em Limit ($3/$6 USD) - 2016/01/23 16:30:51 ET
+Table 'Geraldina' 10-max Seat #1 is the button
+Seat 1: ZinZar ($145.04 in chips)
+Seat 10: ManuelSikora ($69.71 in chips)
+ZinZar: posts small blind $1
+ManuelSikora: posts big blind $3
+*** HOLE CARDS ***
+ZinZar: raises $3 to $6
+ManuelSikora: calls $3
+*** FLOP *** [5h 7c Kh]
+ManuelSikora: bets $3
+ZinZar: raises $3 to $6
+ManuelSikora: calls $3
+*** TURN *** [5h 7c Kh] [Ac]
+ManuelSikora: checks
+ZinZar: bets $6
+ManuelSikora: calls $6
+*** RIVER *** [5h 7c Kh Ac] [6s]
+ManuelSikora: checks
+ZinZar: bets $6
+ManuelSikora: folds
+Uncalled bet ($6) returned to ZinZar
+ZinZar collected $35.50 from pot
+ZinZar: doesn't show hand
+ManuelSikora leaves the table
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5h 7c Kh Ac 6s]
+Seat 1: ZinZar (button) (small blind) collected ($35.50)
+Seat 10: ManuelSikora (big blind) folded on the River
+
+
+PokerStars Hand #147559561503:  Hold'em Limit ($3/$6 USD) - 2016/01/23 16:48:49 ET
+Table 'Geraldina' 10-max Seat #6 is the button
+Seat 6: Simpiwe ($137.50 in chips)
+Seat 7: GRAILKO ($182 in chips)
+Simpiwe: posts small blind $1
+GRAILKO: posts big blind $3
+*** HOLE CARDS ***
+Simpiwe: raises $3 to $6
+GRAILKO: folds
+Uncalled bet ($3) returned to Simpiwe
+Simpiwe collected $6 from pot
+Simpiwe: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 6: Simpiwe (button) (small blind) collected ($6)
+Seat 7: GRAILKO (big blind) folded before Flop
+
+
+PokerStars Hand #147559536214:  Hold'em Limit ($3/$6 USD) - 2016/01/23 16:48:29 ET
+Table 'Geraldina' 10-max Seat #7 is the button
+Seat 6: Simpiwe ($120 in chips)
+Seat 7: GRAILKO ($200 in chips)
+GRAILKO: posts small blind $1
+Simpiwe: posts big blind $3
+*** HOLE CARDS ***
+GRAILKO: raises $3 to $6
+Simpiwe: raises $3 to $9
+GRAILKO: calls $3
+*** FLOP *** [2h As 3d]
+Simpiwe: bets $3
+GRAILKO: calls $3
+*** TURN *** [2h As 3d] [Ah]
+Simpiwe: bets $6
+GRAILKO: calls $6
+*** RIVER *** [2h As 3d Ah] [8h]
+Simpiwe: bets $6
+GRAILKO: folds
+Uncalled bet ($6) returned to Simpiwe
+Simpiwe collected $35.50 from pot
+Simpiwe: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [2h As 3d Ah 8h]
+Seat 6: Simpiwe (big blind) collected ($35.50)
+Seat 7: GRAILKO (button) (small blind) folded on the River
+
+
+PokerStars Hand #147559626541:  Hold'em Limit ($3/$6 USD) - 2016/01/23 16:49:43 ET
+Table 'Geraldina' 10-max Seat #6 is the button
+Seat 6: Simpiwe ($140 in chips)
+Seat 7: GRAILKO ($178.50 in chips)
+Simpiwe: posts small blind $1
+GRAILKO: posts big blind $3
+*** HOLE CARDS ***
+Simpiwe: raises $3 to $6
+GRAILKO: calls $3
+*** FLOP *** [Ac Tc 2h]
+GRAILKO: checks
+Simpiwe: bets $3
+GRAILKO: folds
+Uncalled bet ($3) returned to Simpiwe
+Simpiwe collected $11.76 from pot
+Simpiwe: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ac Tc 2h]
+Seat 6: Simpiwe (button) (small blind) collected ($11.76)
+Seat 7: GRAILKO (big blind) folded on the Flop
+
+
+PokerStars Hand #147559619407:  Hold'em Limit ($3/$6 USD) - 2016/01/23 16:49:37 ET
+Table 'Geraldina' 10-max Seat #7 is the button
+Seat 6: Simpiwe ($143 in chips)
+Seat 7: GRAILKO ($175.50 in chips)
+GRAILKO: posts small blind $1
+Simpiwe: posts big blind $3
+*** HOLE CARDS ***
+GRAILKO: raises $3 to $6
+Simpiwe: folds
+Uncalled bet ($3) returned to GRAILKO
+GRAILKO collected $6 from pot
+GRAILKO: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 6: Simpiwe (big blind) folded before Flop
+Seat 7: GRAILKO (button) (small blind) collected ($6)
+
+
+PokerStars Hand #147559593592:  Hold'em Limit ($3/$6 USD) - 2016/01/23 16:49:16 ET
+Table 'Geraldina' 10-max Seat #6 is the button
+Seat 6: Simpiwe ($122.50 in chips)
+Seat 7: GRAILKO ($196.50 in chips)
+Simpiwe: posts small blind $1
+GRAILKO: posts big blind $3
+*** HOLE CARDS ***
+Simpiwe: raises $3 to $6
+GRAILKO: calls $3
+*** FLOP *** [Ah 3s 5s]
+GRAILKO: checks
+Simpiwe: bets $3
+GRAILKO: raises $3 to $6
+Simpiwe: raises $3 to $9
+GRAILKO: calls $3
+*** TURN *** [Ah 3s 5s] [Th]
+GRAILKO: checks
+Simpiwe: checks
+*** RIVER *** [Ah 3s 5s Th] [8c]
+GRAILKO: bets $6
+Simpiwe: calls $6
+*** SHOW DOWN ***
+GRAILKO: shows [Ks Js] (high card Ace)
+Simpiwe: shows [Kd 8h] (a pair of Eights)
+Simpiwe collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ah 3s 5s Th 8c]
+Seat 6: Simpiwe (button) (small blind) showed [Kd 8h] and won ($41.50) with a pair of Eights
+Seat 7: GRAILKO (big blind) showed [Ks Js] and lost with high card Ace
+
+
+PokerStars Hand #147559568864:  Hold'em Limit ($3/$6 USD) - 2016/01/23 16:48:55 ET
+Table 'Geraldina' 10-max Seat #7 is the button
+Seat 6: Simpiwe ($140.50 in chips)
+Seat 7: GRAILKO ($179 in chips)
+GRAILKO: posts small blind $1
+Simpiwe: posts big blind $3
+*** HOLE CARDS ***
+GRAILKO: raises $3 to $6
+Simpiwe: raises $3 to $9
+GRAILKO: calls $3
+*** FLOP *** [Jc Qh 8d]
+Simpiwe: bets $3
+GRAILKO: calls $3
+*** TURN *** [Jc Qh 8d] [4h]
+Simpiwe: bets $6
+GRAILKO: calls $6
+*** RIVER *** [Jc Qh 8d 4h] [Ts]
+Simpiwe: checks
+GRAILKO: checks
+*** SHOW DOWN ***
+Simpiwe: shows [3c Ad] (high card Ace)
+GRAILKO: shows [Jh 6s] (a pair of Jacks)
+GRAILKO collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Jc Qh 8d 4h Ts]
+Seat 6: Simpiwe (big blind) showed [3c Ad] and lost with high card Ace
+Seat 7: GRAILKO (button) (small blind) showed [Jh 6s] and won ($35.50) with a pair of Jacks
+
+
+PokerStars Hand #147559718999:  Hold'em Limit ($3/$6 USD) - 2016/01/23 16:50:59 ET
+Table 'Geraldina' 10-max Seat #7 is the button
+Seat 6: Simpiwe ($195.52 in chips)
+Seat 7: GRAILKO ($121.26 in chips)
+GRAILKO: posts small blind $1
+Simpiwe: posts big blind $3
+*** HOLE CARDS ***
+GRAILKO: folds
+Uncalled bet ($2) returned to Simpiwe
+Simpiwe collected $2 from pot
+Simpiwe: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 6: Simpiwe (big blind) collected ($2)
+Seat 7: GRAILKO (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147559701345:  Hold'em Limit ($3/$6 USD) - 2016/01/23 16:50:44 ET
+Table 'Geraldina' 10-max Seat #6 is the button
+Seat 6: Simpiwe ($201.52 in chips)
+Seat 7: GRAILKO ($115.50 in chips)
+Simpiwe: posts small blind $1
+GRAILKO: posts big blind $3
+*** HOLE CARDS ***
+Simpiwe: raises $3 to $6
+GRAILKO: calls $3
+*** FLOP *** [2s Js 2d]
+GRAILKO: checks
+Simpiwe: checks
+*** TURN *** [2s Js 2d] [7c]
+GRAILKO: bets $6
+Simpiwe: folds
+Uncalled bet ($6) returned to GRAILKO
+GRAILKO collected $11.76 from pot
+GRAILKO: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2s Js 2d 7c]
+Seat 6: Simpiwe (button) (small blind) folded on the Turn
+Seat 7: GRAILKO (big blind) collected ($11.76)
+
+
+PokerStars Hand #147559673879:  Hold'em Limit ($3/$6 USD) - 2016/01/23 16:50:21 ET
+Table 'Geraldina' 10-max Seat #7 is the button
+Seat 6: Simpiwe ($166.02 in chips)
+Seat 7: GRAILKO ($151.50 in chips)
+GRAILKO: posts small blind $1
+Simpiwe: posts big blind $3
+*** HOLE CARDS ***
+GRAILKO: raises $3 to $6
+Simpiwe: calls $3
+*** FLOP *** [4d 5h 2d]
+Simpiwe: checks
+GRAILKO: bets $3
+Simpiwe: raises $3 to $6
+GRAILKO: calls $3
+*** TURN *** [4d 5h 2d] [Qh]
+Simpiwe: bets $6
+GRAILKO: raises $6 to $12
+Simpiwe: raises $6 to $18
+GRAILKO: calls $6
+*** RIVER *** [4d 5h 2d Qh] [Qc]
+Simpiwe: bets $6
+GRAILKO: calls $6
+*** SHOW DOWN ***
+Simpiwe: shows [3h 6d] (a straight, Deuce to Six)
+GRAILKO: mucks hand
+Simpiwe collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [4d 5h 2d Qh Qc]
+Seat 6: Simpiwe (big blind) showed [3h 6d] and won ($71.50) with a straight, Deuce to Six
+Seat 7: GRAILKO (button) (small blind) mucked
+
+
+PokerStars Hand #147559660433:  Hold'em Limit ($3/$6 USD) - 2016/01/23 16:50:10 ET
+Table 'Geraldina' 10-max Seat #6 is the button
+Seat 6: Simpiwe ($160.26 in chips)
+Seat 7: GRAILKO ($157.50 in chips)
+Simpiwe: posts small blind $1
+GRAILKO: posts big blind $3
+*** HOLE CARDS ***
+Simpiwe: raises $3 to $6
+GRAILKO: calls $3
+*** FLOP *** [9s Ah Qc]
+GRAILKO: checks
+Simpiwe: bets $3
+GRAILKO: folds
+Uncalled bet ($3) returned to Simpiwe
+Simpiwe collected $11.76 from pot
+Simpiwe: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9s Ah Qc]
+Seat 6: Simpiwe (button) (small blind) collected ($11.76)
+Seat 7: GRAILKO (big blind) folded on the Flop
+
+
+PokerStars Hand #147559640338:  Hold'em Limit ($3/$6 USD) - 2016/01/23 16:49:54 ET
+Table 'Geraldina' 10-max Seat #7 is the button
+Seat 6: Simpiwe ($145.76 in chips)
+Seat 7: GRAILKO ($172.50 in chips)
+GRAILKO: posts small blind $1
+Simpiwe: posts big blind $3
+*** HOLE CARDS ***
+GRAILKO: raises $3 to $6
+Simpiwe: calls $3
+*** FLOP *** [Qh 8d As]
+Simpiwe: checks
+GRAILKO: bets $3
+Simpiwe: calls $3
+*** TURN *** [Qh 8d As] [Ah]
+Simpiwe: checks
+GRAILKO: bets $6
+Simpiwe: calls $6
+*** RIVER *** [Qh 8d As Ah] [5s]
+Simpiwe: checks
+GRAILKO: checks
+*** SHOW DOWN ***
+Simpiwe: shows [5c 8h] (two pair, Aces and Eights)
+GRAILKO: mucks hand
+Simpiwe collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qh 8d As Ah 5s]
+Seat 6: Simpiwe (big blind) showed [5c 8h] and won ($29.50) with two pair, Aces and Eights
+Seat 7: GRAILKO (button) (small blind) mucked
+
+
+PokerStars Hand #147559781205:  Hold'em Limit ($3/$6 USD) - 2016/01/23 16:51:51 ET
+Table 'Geraldina' 10-max Seat #6 is the button
+Seat 6: Simpiwe ($186.16 in chips)
+Seat 7: GRAILKO ($129.54 in chips)
+Simpiwe: posts small blind $1
+GRAILKO: posts big blind $3
+*** HOLE CARDS ***
+Simpiwe: raises $3 to $6
+GRAILKO: raises $3 to $9
+Simpiwe: calls $3
+*** FLOP *** [6h 4h Qh]
+GRAILKO: bets $3
+Simpiwe: calls $3
+*** TURN *** [6h 4h Qh] [5c]
+GRAILKO: bets $6
+Simpiwe: raises $6 to $12
+GRAILKO: raises $6 to $18
+Simpiwe: raises $6 to $24
+Betting is capped
+GRAILKO: calls $6
+*** RIVER *** [6h 4h Qh 5c] [2s]
+GRAILKO: bets $6
+Simpiwe: raises $6 to $12
+GRAILKO: calls $6
+*** SHOW DOWN ***
+Simpiwe: shows [8c 7c] (a straight, Four to Eight)
+GRAILKO: shows [9h 8h] (a flush, Queen high)
+GRAILKO collected $95.50 from pot
+*** SUMMARY ***
+Total pot $96 | Rake $0.50
+Board [6h 4h Qh 5c 2s]
+Seat 6: Simpiwe (button) (small blind) showed [8c 7c] and lost with a straight, Four to Eight
+Seat 7: GRAILKO (big blind) showed [9h 8h] and won ($95.50) with a flush, Queen high
+
+
+PokerStars Hand #147559803509:  Hold'em Limit ($3/$6 USD) - 2016/01/23 16:52:10 ET
+Table 'Geraldina' 10-max Seat #7 is the button
+Seat 6: Simpiwe ($138.16 in chips)
+Seat 7: GRAILKO ($177.04 in chips)
+GRAILKO: posts small blind $1
+Simpiwe: posts big blind $3
+*** HOLE CARDS ***
+GRAILKO: raises $3 to $6
+Simpiwe: calls $3
+*** FLOP *** [4h Jd 2d]
+Simpiwe: checks
+GRAILKO: bets $3
+Simpiwe: folds
+Uncalled bet ($3) returned to GRAILKO
+GRAILKO collected $11.76 from pot
+GRAILKO: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4h Jd 2d]
+Seat 6: Simpiwe (big blind) folded on the Flop
+Seat 7: GRAILKO (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #147559869971:  Hold'em Limit ($3/$6 USD) - 2016/01/23 16:53:07 ET
+Table 'Geraldina' 10-max Seat #6 is the button
+Seat 6: Simpiwe ($96.16 in chips)
+Seat 7: GRAILKO ($217.80 in chips)
+Simpiwe: posts small blind $1
+GRAILKO: posts big blind $3
+*** HOLE CARDS ***
+Simpiwe: raises $3 to $6
+GRAILKO: folds
+Uncalled bet ($3) returned to Simpiwe
+Simpiwe collected $6 from pot
+Simpiwe: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 6: Simpiwe (button) (small blind) collected ($6)
+Seat 7: GRAILKO (big blind) folded before Flop
+
+
+PokerStars Hand #147559850005:  Hold'em Limit ($3/$6 USD) - 2016/01/23 16:52:50 ET
+Table 'Geraldina' 10-max Seat #7 is the button
+Seat 6: Simpiwe ($111.16 in chips)
+Seat 7: GRAILKO ($203.30 in chips)
+GRAILKO: posts small blind $1
+Simpiwe: posts big blind $3
+*** HOLE CARDS ***
+GRAILKO: raises $3 to $6
+Simpiwe: calls $3
+*** FLOP *** [4d Th 6d]
+Simpiwe: checks
+GRAILKO: bets $3
+Simpiwe: calls $3
+*** TURN *** [4d Th 6d] [Tc]
+Simpiwe: checks
+GRAILKO: checks
+*** RIVER *** [4d Th 6d Tc] [5h]
+Simpiwe: checks
+GRAILKO: bets $6
+Simpiwe: calls $6
+*** SHOW DOWN ***
+GRAILKO: shows [3c 5c] (two pair, Tens and Fives)
+Simpiwe: mucks hand
+GRAILKO collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4d Th 6d Tc 5h]
+Seat 6: Simpiwe (big blind) mucked
+Seat 7: GRAILKO (button) (small blind) showed [3c 5c] and won ($29.50) with two pair, Tens and Fives
+
+
+PokerStars Hand #147559818301:  Hold'em Limit ($3/$6 USD) - 2016/01/23 16:52:23 ET
+Table 'Geraldina' 10-max Seat #6 is the button
+Seat 6: Simpiwe ($132.16 in chips)
+Seat 7: GRAILKO ($182.80 in chips)
+Simpiwe: posts small blind $1
+GRAILKO: posts big blind $3
+*** HOLE CARDS ***
+Simpiwe: raises $3 to $6
+GRAILKO: raises $3 to $9
+Simpiwe: calls $3
+*** FLOP *** [5s 8s 7h]
+GRAILKO: bets $3
+Simpiwe: raises $3 to $6
+GRAILKO: calls $3
+*** TURN *** [5s 8s 7h] [5h]
+GRAILKO: checks
+Simpiwe: bets $6
+GRAILKO: calls $6
+*** RIVER *** [5s 8s 7h 5h] [6c]
+GRAILKO: checks
+Simpiwe: checks
+*** SHOW DOWN ***
+GRAILKO: shows [9d Td] (a straight, Six to Ten)
+Simpiwe: mucks hand
+GRAILKO collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [5s 8s 7h 5h 6c]
+Seat 6: Simpiwe (button) (small blind) mucked
+Seat 7: GRAILKO (big blind) showed [9d Td] and won ($41.50) with a straight, Six to Ten
+
+
+PokerStars Hand #147559877427:  Hold'em Limit ($3/$6 USD) - 2016/01/23 16:53:13 ET
+Table 'Geraldina' 10-max Seat #7 is the button
+Seat 6: Simpiwe ($99.16 in chips)
+Seat 7: GRAILKO ($214.80 in chips)
+GRAILKO: posts small blind $1
+Simpiwe: posts big blind $3
+*** HOLE CARDS ***
+GRAILKO: raises $3 to $6
+Simpiwe: calls $3
+*** FLOP *** [Ac 2h 3d]
+Simpiwe: checks
+GRAILKO: bets $3
+Simpiwe: calls $3
+*** TURN *** [Ac 2h 3d] [Jh]
+Simpiwe: checks
+GRAILKO: checks
+*** RIVER *** [Ac 2h 3d Jh] [5d]
+Simpiwe: bets $6
+GRAILKO: folds
+Uncalled bet ($6) returned to Simpiwe
+Simpiwe collected $17.64 from pot
+Simpiwe: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ac 2h 3d Jh 5d]
+Seat 6: Simpiwe (big blind) collected ($17.64)
+Seat 7: GRAILKO (button) (small blind) folded on the River
+
+

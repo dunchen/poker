@@ -1,0 +1,61 @@
+PokerStars Hand #173346903469:  Hold'em Limit ($3/$6 USD) - 2017/07/22 1:54:09 ET
+Table 'Eugenia' 6-max Seat #4 is the button
+Seat 4: Agrotait ($72 in chips)
+Seat 5: nordschrott ($42 in chips)
+Agrotait: posts small blind $1
+nordschrott: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+nordschrott: calls $3
+*** FLOP *** [Kh Ks 2s]
+nordschrott: checks
+Agrotait: bets $3
+nordschrott: raises $3 to $6
+Agrotait: calls $3
+*** TURN *** [Kh Ks 2s] [5h]
+nordschrott: bets $6
+Agrotait: calls $6
+*** RIVER *** [Kh Ks 2s 5h] [Ad]
+nordschrott: bets $6
+Agrotait: calls $6
+*** SHOW DOWN ***
+nordschrott: shows [3h 6h] (a pair of Kings)
+Agrotait: shows [4s Ac] (two pair, Aces and Kings)
+Agrotait collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Kh Ks 2s 5h Ad]
+Seat 4: Agrotait (button) (small blind) showed [4s Ac] and won ($47.50) with two pair, Aces and Kings
+Seat 5: nordschrott (big blind) showed [3h 6h] and lost with a pair of Kings
+
+
+PokerStars Hand #173346916780:  Hold'em Limit ($3/$6 USD) - 2017/07/22 1:55:00 ET
+Table 'Eugenia' 6-max Seat #5 is the button
+Seat 4: Agrotait ($95.50 in chips)
+Seat 5: nordschrott ($18 in chips)
+nordschrott: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+nordschrott: calls $2
+Agrotait: raises $3 to $6
+nordschrott: calls $3
+*** FLOP *** [Td 5h Qh]
+Agrotait: bets $3
+nordschrott: raises $3 to $6
+Agrotait: calls $3
+*** TURN *** [Td 5h Qh] [2d]
+Agrotait: checks
+nordschrott: bets $6 and is all-in
+Agrotait: calls $6
+*** RIVER *** [Td 5h Qh 2d] [9h]
+*** SHOW DOWN ***
+Agrotait: shows [9d 9s] (three of a kind, Nines)
+nordschrott: shows [9c Js] (a pair of Nines)
+Agrotait collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Td 5h Qh 2d 9h]
+Seat 4: Agrotait (big blind) showed [9d 9s] and won ($35.50) with three of a kind, Nines
+Seat 5: nordschrott (button) (small blind) showed [9c Js] and lost with a pair of Nines
+
+

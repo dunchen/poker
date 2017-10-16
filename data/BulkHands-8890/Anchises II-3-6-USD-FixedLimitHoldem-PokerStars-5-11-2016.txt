@@ -1,0 +1,76 @@
+PokerStars Hand #153180607693:  Hold'em Limit ($3/$6 USD) - 2016/05/11 17:34:53 ET
+Table 'Anchises II' 6-max Seat #1 is the button
+Seat 1: Zubasa07 ($500 in chips)
+Seat 4: PureRunnings ($8705.08 in chips)
+Zubasa07: posts small blind $1
+PureRunnings: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+PureRunnings: raises $3 to $9
+GoliafUa joins the table at seat #5
+Zubasa07: calls $3
+*** FLOP *** [4h Ad 8h]
+PureRunnings: bets $3
+Zubasa07: calls $3
+*** TURN *** [4h Ad 8h] [9s]
+PureRunnings: bets $6
+Zubasa07: calls $6
+*** RIVER *** [4h Ad 8h 9s] [6h]
+PureRunnings: bets $6
+Zubasa07: calls $6
+*** SHOW DOWN ***
+PureRunnings: shows [Jc Jd] (a pair of Jacks)
+Zubasa07: mucks hand
+PureRunnings collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4h Ad 8h 9s 6h]
+Seat 1: Zubasa07 (button) (small blind) mucked
+Seat 4: PureRunnings (big blind) showed [Jc Jd] and won ($47.50) with a pair of Jacks
+
+
+PokerStars Hand #153181791600:  Hold'em Limit ($3/$6 USD) - 2016/05/11 17:59:29 ET
+Table 'Anchises II' 6-max Seat #6 is the button
+Seat 2: TinaTurner72 ($73.22 in chips)
+Seat 6: cecildk ($90.03 in chips)
+cecildk: posts small blind $1
+TinaTurner72: posts big blind $3
+*** HOLE CARDS ***
+cecildk: folds
+Uncalled bet ($2) returned to TinaTurner72
+TinaTurner72 collected $2 from pot
+TinaTurner72: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: TinaTurner72 (big blind) collected ($2)
+Seat 6: cecildk (button) (small blind) folded before Flop
+
+
+PokerStars Hand #153181795661:  Hold'em Limit ($3/$6 USD) - 2016/05/11 17:59:36 ET
+Table 'Anchises II' 6-max Seat #2 is the button
+Seat 2: TinaTurner72 ($74.22 in chips)
+Seat 6: cecildk ($89.03 in chips)
+TinaTurner72: posts small blind $1
+cecildk: posts big blind $3
+*** HOLE CARDS ***
+TinaTurner72: raises $3 to $6
+Zubasa07 leaves the table
+cecildk: calls $3
+*** FLOP *** [2s 9h 3s]
+cecildk: checks
+TinaTurner72: bets $3
+cecildk: raises $3 to $6
+TinaTurner72: calls $3
+*** TURN *** [2s 9h 3s] [4d]
+cecildk: bets $6
+TinaTurner72: folds
+Uncalled bet ($6) returned to cecildk
+cecildk collected $23.52 from pot
+cecildk: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [2s 9h 3s 4d]
+Seat 2: TinaTurner72 (button) (small blind) folded on the Turn
+Seat 6: cecildk (big blind) collected ($23.52)
+
+

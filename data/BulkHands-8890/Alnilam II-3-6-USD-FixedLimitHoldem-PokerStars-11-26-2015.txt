@@ -1,0 +1,26 @@
+PokerStars Hand #144414936975:  Hold'em Limit ($3/$6 USD) - 2015/11/26 12:07:09 ET
+Table 'Alnilam II' 2-max Seat #2 is the button
+Seat 1: botkimp ($72.47 in chips)
+Seat 2: pynkalm ($10.50 in chips)
+pynkalm: posts small blind $1
+botkimp: posts big blind $3
+*** HOLE CARDS ***
+pynkalm: raises $3 to $6
+botkimp: raises $3 to $9
+pynkalm: raises $1.50 to $10.50 and is all-in
+Betting is capped
+botkimp: calls $1.50
+*** FLOP *** [Qd 5s Kh]
+*** TURN *** [Qd 5s Kh] [4c]
+*** RIVER *** [Qd 5s Kh 4c] [Qs]
+*** SHOW DOWN ***
+botkimp: shows [Qc 4h] (a full house, Queens full of Fours)
+pynkalm: shows [5c Td] (two pair, Queens and Fives)
+botkimp collected $20.58 from pot
+*** SUMMARY ***
+Total pot $21 | Rake $0.42
+Board [Qd 5s Kh 4c Qs]
+Seat 1: botkimp (big blind) showed [Qc 4h] and won ($20.58) with a full house, Queens full of Fours
+Seat 2: pynkalm (button) (small blind) showed [5c Td] and lost with two pair, Queens and Fives
+
+

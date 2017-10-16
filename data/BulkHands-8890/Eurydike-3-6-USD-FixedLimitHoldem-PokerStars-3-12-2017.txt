@@ -1,0 +1,81 @@
+PokerStars Hand #167484090969:  Hold'em Limit ($3/$6 USD) - 2017/03/12 12:26:51 ET
+Table 'Eurydike' 6-max Seat #3 is the button
+Seat 3: TbIP-TbIP 88 ($120.48 in chips)
+Seat 5: vestimokrec ($146.15 in chips)
+TbIP-TbIP 88: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88: folds
+Uncalled bet ($2) returned to vestimokrec
+vestimokrec collected $2 from pot
+vestimokrec: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: TbIP-TbIP 88 (button) (small blind) folded before Flop
+Seat 5: vestimokrec (big blind) collected ($2)
+
+
+PokerStars Hand #167484141875:  Hold'em Limit ($3/$6 USD) - 2017/03/12 12:27:54 ET
+Table 'Eurydike' 6-max Seat #6 is the button
+Seat 5: vestimokrec ($132.15 in chips)
+Seat 6: oldtimers XX ($56.08 in chips)
+oldtimers XX: posts small blind $1
+TbIP-TbIP 88: is sitting out
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+oldtimers XX: calls $2
+vestimokrec: checks
+*** FLOP *** [8h 6h 6d]
+TbIP-TbIP 88 leaves the table
+TbIP-TbIP 88 joins the table at seat #1
+vestimokrec: checks
+oldtimers XX: bets $3
+vestimokrec: calls $3
+*** TURN *** [8h 6h 6d] [Kc]
+vestimokrec: checks
+oldtimers XX: bets $6
+vestimokrec: calls $6
+*** RIVER *** [8h 6h 6d Kc] [8c]
+vestimokrec: checks
+oldtimers XX: checks
+*** SHOW DOWN ***
+vestimokrec: shows [8s Jh] (a full house, Eights full of Sixes)
+oldtimers XX: mucks hand
+vestimokrec collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [8h 6h 6d Kc 8c]
+Seat 5: vestimokrec (big blind) showed [8s Jh] and won ($23.52) with a full house, Eights full of Sixes
+Seat 6: oldtimers XX (button) (small blind) mucked
+
+
+PokerStars Hand #167484174576:  Hold'em Limit ($3/$6 USD) - 2017/03/12 12:28:33 ET
+Table 'Eurydike' 6-max Seat #5 is the button
+Seat 5: vestimokrec ($143.67 in chips)
+Seat 6: oldtimers XX ($44.08 in chips)
+vestimokrec: posts small blind $1
+oldtimers XX: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+oldtimers XX: calls $3
+*** FLOP *** [Tc 3c Ks]
+oldtimers XX: checks
+vestimokrec: bets $3
+oldtimers XX: calls $3
+*** TURN *** [Tc 3c Ks] [Th]
+oldtimers XX: checks
+vestimokrec: checks
+*** RIVER *** [Tc 3c Ks Th] [8c]
+oldtimers XX: checks
+vestimokrec: checks
+*** SHOW DOWN ***
+oldtimers XX: shows [6s Qs] (a pair of Tens)
+vestimokrec: shows [7h Ad] (a pair of Tens - Ace kicker)
+vestimokrec collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Tc 3c Ks Th 8c]
+Seat 5: vestimokrec (button) (small blind) showed [7h Ad] and won ($17.64) with a pair of Tens
+Seat 6: oldtimers XX (big blind) showed [6s Qs] and lost with a pair of Tens
+
+

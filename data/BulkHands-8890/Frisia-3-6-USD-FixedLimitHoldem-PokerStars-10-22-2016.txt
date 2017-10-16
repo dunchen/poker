@@ -1,0 +1,30 @@
+PokerStars Hand #160259796987:  Hold'em Limit ($3/$6 USD) - 2016/10/21 20:28:26 ET
+Table 'Frisia' 6-max Seat #1 is the button
+Seat 1: MASTA MA 23 ($100 in chips)
+Seat 4: FHstyles ($60 in chips)
+MASTA MA 23: posts small blind $1
+FHstyles: posts big blind $3
+*** HOLE CARDS ***
+MASTA MA 23: raises $3 to $6
+FHstyles: raises $3 to $9
+MASTA MA 23: calls $3
+*** FLOP *** [Js 8d 3h]
+FHstyles: bets $3
+MASTA MA 23: calls $3
+*** TURN *** [Js 8d 3h] [Ad]
+FHstyles: bets $6
+MASTA MA 23: calls $6
+*** RIVER *** [Js 8d 3h Ad] [Kd]
+FHstyles: bets $6
+MASTA MA 23: calls $6
+*** SHOW DOWN ***
+FHstyles: shows [8c 8s] (three of a kind, Eights)
+MASTA MA 23: mucks hand
+FHstyles collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Js 8d 3h Ad Kd]
+Seat 1: MASTA MA 23 (button) (small blind) mucked
+Seat 4: FHstyles (big blind) showed [8c 8s] and won ($47.50) with three of a kind, Eights
+
+

@@ -1,0 +1,81 @@
+PokerStars Hand #147183294114:  Hold'em Limit ($3/$6 USD) - 2016/01/17 5:52:10 ET
+Table 'Hermia' 10-max Seat #2 is the button
+Seat 1: VolkovDmitri ($123 in chips)
+Seat 2: perten ($96.82 in chips)
+perten: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+perten: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: VolkovDmitri (big blind) collected ($2)
+Seat 2: perten (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147183296898:  Hold'em Limit ($3/$6 USD) - 2016/01/17 5:52:15 ET
+Table 'Hermia' 10-max Seat #1 is the button
+Seat 1: VolkovDmitri ($124 in chips)
+Seat 2: perten ($95.82 in chips)
+VolkovDmitri: posts small blind $1
+perten: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+perten: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [9c 4d Th]
+perten: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [9c 4d Th] [3c]
+perten: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [9c 4d Th 3c] [6c]
+perten: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+perten: shows [Ks Ad] (high card Ace)
+VolkovDmitri: mucks hand
+perten collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [9c 4d Th 3c 6c]
+Seat 1: VolkovDmitri (button) (small blind) mucked
+Seat 2: perten (big blind) showed [Ks Ad] and won ($35.50) with high card Ace
+
+
+PokerStars Hand #147183319345:  Hold'em Limit ($3/$6 USD) - 2016/01/17 5:52:54 ET
+Table 'Hermia' 10-max Seat #2 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 2: perten ($113.32 in chips)
+perten: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+perten: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [As 4c 3s]
+VolkovDmitri: checks
+perten: bets $3
+VolkovDmitri: raises $3 to $6
+perten: raises $3 to $9
+VolkovDmitri: calls $3
+*** TURN *** [As 4c 3s] [Ts]
+VolkovDmitri: checks
+perten: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [As 4c 3s Ts] [8c]
+VolkovDmitri: checks
+perten: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+perten: shows [Ah Kc] (a pair of Aces)
+VolkovDmitri: mucks hand
+perten collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [As 4c 3s Ts 8c]
+Seat 1: VolkovDmitri (big blind) mucked
+Seat 2: perten (button) (small blind) showed [Ah Kc] and won ($53.50) with a pair of Aces
+
+

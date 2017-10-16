@@ -1,0 +1,94 @@
+PokerStars Hand #151497046226:  Hold'em Limit ($3/$6 USD) - 2016/04/05 21:00:40 ET
+Table 'Laomedon' 6-max Seat #1 is the button
+Seat 1: Zubasa07 ($500 in chips)
+Seat 3: owenheadch ($1123.22 in chips)
+Zubasa07: posts small blind $1
+owenheadch: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+owenheadch: raises $3 to $9
+Zubasa07: calls $3
+*** FLOP *** [6c 9c Qh]
+owenheadch: bets $3
+Zubasa07: calls $3
+*** TURN *** [6c 9c Qh] [8c]
+owenheadch: bets $6
+Zubasa07: calls $6
+*** RIVER *** [6c 9c Qh 8c] [7h]
+owenheadch: bets $6
+Zubasa07: calls $6
+*** SHOW DOWN ***
+owenheadch: shows [Jc Ks] (high card King)
+Zubasa07: shows [Jh 9s] (a pair of Nines)
+Zubasa07 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [6c 9c Qh 8c 7h]
+Seat 1: Zubasa07 (button) (small blind) showed [Jh 9s] and won ($47.50) with a pair of Nines
+Seat 3: owenheadch (big blind) showed [Jc Ks] and lost with high card King
+
+
+PokerStars Hand #151497062699:  Hold'em Limit ($3/$6 USD) - 2016/04/05 21:01:20 ET
+Table 'Laomedon' 6-max Seat #3 is the button
+Seat 1: Zubasa07 ($523.50 in chips)
+Seat 3: owenheadch ($1099.22 in chips)
+owenheadch: posts small blind $1
+Zubasa07: posts big blind $3
+*** HOLE CARDS ***
+owenheadch: raises $3 to $6
+Zubasa07: calls $3
+*** FLOP *** [6s Tc 4s]
+Zubasa07: checks
+owenheadch: bets $3
+Zubasa07: calls $3
+*** TURN *** [6s Tc 4s] [6h]
+Zubasa07: checks
+owenheadch: bets $6
+Zubasa07: calls $6
+*** RIVER *** [6s Tc 4s 6h] [9c]
+Zubasa07: checks
+owenheadch: bets $6
+Zubasa07: folds
+Uncalled bet ($6) returned to owenheadch
+owenheadch collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6s Tc 4s 6h 9c]
+Seat 1: Zubasa07 (big blind) folded on the River
+Seat 3: owenheadch (button) (small blind) collected ($29.50)
+
+
+PokerStars Hand #151497091040:  Hold'em Limit ($3/$6 USD) - 2016/04/05 21:02:25 ET
+Table 'Laomedon' 6-max Seat #1 is the button
+Seat 1: Zubasa07 ($508.50 in chips)
+Seat 3: owenheadch ($1113.72 in chips)
+Zubasa07: posts small blind $1
+owenheadch: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+owenheadch: raises $3 to $9
+Zubasa07: calls $3
+*** FLOP *** [5s 8c Qh]
+owenheadch: bets $3
+Zubasa07: calls $3
+*** TURN *** [5s 8c Qh] [Tc]
+owenheadch: bets $6
+Zubasa07: raises $6 to $12
+owenheadch: raises $6 to $18
+Zubasa07: raises $6 to $24
+Betting is capped
+owenheadch: calls $6
+*** RIVER *** [5s 8c Qh Tc] [7s]
+owenheadch: bets $6
+Zubasa07: calls $6
+*** SHOW DOWN ***
+owenheadch: shows [Th Ts] (three of a kind, Tens)
+Zubasa07: mucks hand
+owenheadch collected $83.50 from pot
+*** SUMMARY ***
+Total pot $84 | Rake $0.50
+Board [5s 8c Qh Tc 7s]
+Seat 1: Zubasa07 (button) (small blind) mucked
+Seat 3: owenheadch (big blind) showed [Th Ts] and won ($83.50) with three of a kind, Tens
+
+

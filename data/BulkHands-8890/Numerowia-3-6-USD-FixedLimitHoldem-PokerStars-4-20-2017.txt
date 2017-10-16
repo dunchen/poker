@@ -1,0 +1,118 @@
+PokerStars Hand #169330359588:  Hold'em Limit ($3/$6 USD) - 2017/04/20 19:45:29 ET
+Table 'Numerowia' 6-max Seat #1 is the button
+Seat 1: krossguard ($350.94 in chips)
+Seat 5: Mr.Buster ($21.05 in chips)
+krossguard: posts small blind $1
+Great_Kang: is sitting out
+Mr.Buster: posts big blind $3
+*** HOLE CARDS ***
+krossguard: raises $3 to $6
+Mr.Buster: calls $3
+*** FLOP *** [4c 2h As]
+Mr.Buster: bets $3
+krossguard: raises $3 to $6
+Mr.Buster: calls $3
+*** TURN *** [4c 2h As] [2c]
+Mr.Buster: checks
+krossguard: bets $6
+Mr.Buster: calls $6
+*** RIVER *** [4c 2h As 2c] [Ah]
+Mr.Buster: checks
+krossguard: checks
+*** SHOW DOWN ***
+Mr.Buster: shows [Th 5s] (two pair, Aces and Deuces)
+krossguard: shows [8s Jh] (two pair, Aces and Deuces - Jack kicker)
+krossguard collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [4c 2h As 2c Ah]
+Seat 1: krossguard (button) (small blind) showed [8s Jh] and won ($35.50) with two pair, Aces and Deuces
+Seat 5: Mr.Buster (big blind) showed [Th 5s] and lost with two pair, Aces and Deuces
+
+
+PokerStars Hand #169330371452:  Hold'em Limit ($3/$6 USD) - 2017/04/20 19:45:52 ET
+Table 'Numerowia' 6-max Seat #5 is the button
+Seat 1: krossguard ($368.44 in chips)
+Seat 5: Mr.Buster ($3.05 in chips)
+Mr.Buster: posts small blind $1
+krossguard: posts big blind $3
+*** HOLE CARDS ***
+Mr.Buster: raises $0.05 to $3.05 and is all-in
+krossguard: calls $0.05
+*** FLOP *** [9s Ts Tc]
+*** TURN *** [9s Ts Tc] [7c]
+*** RIVER *** [9s Ts Tc 7c] [Ah]
+*** SHOW DOWN ***
+krossguard: shows [Kc Kh] (two pair, Kings and Tens)
+Mr.Buster: shows [Ad 3c] (two pair, Aces and Tens)
+Mr.Buster collected $5.98 from pot
+*** SUMMARY ***
+Total pot $6.10 | Rake $0.12
+Board [9s Ts Tc 7c Ah]
+Seat 1: krossguard (big blind) showed [Kc Kh] and lost with two pair, Kings and Tens
+Seat 5: Mr.Buster (button) (small blind) showed [Ad 3c] and won ($5.98) with two pair, Aces and Tens
+
+
+PokerStars Hand #169330406430:  Hold'em Limit ($3/$6 USD) - 2017/04/20 19:46:57 ET
+Table 'Numerowia' 6-max Seat #3 is the button
+Seat 1: krossguard ($385.89 in chips)
+Seat 3: ZOGI ($138.87 in chips)
+ZOGI: posts small blind $1
+krossguard: posts big blind $3
+*** HOLE CARDS ***
+ZOGI: raises $3 to $6
+krossguard: calls $3
+*** FLOP *** [2h 9s 5d]
+krossguard: checks
+ZOGI: bets $3
+krossguard: calls $3
+*** TURN *** [2h 9s 5d] [Qc]
+krossguard: checks
+ZOGI: checks
+*** RIVER *** [2h 9s 5d Qc] [5s]
+krossguard: bets $6
+ZOGI: raises $6 to $12
+krossguard: calls $6
+*** SHOW DOWN ***
+ZOGI: shows [5c Tc] (three of a kind, Fives)
+krossguard: mucks hand
+ZOGI collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2h 9s 5d Qc 5s]
+Seat 1: krossguard (big blind) mucked
+Seat 3: ZOGI (button) (small blind) showed [5c Tc] and won ($41.50) with three of a kind, Fives
+
+
+PokerStars Hand #169330388466:  Hold'em Limit ($3/$6 USD) - 2017/04/20 19:46:23 ET
+Table 'Numerowia' 6-max Seat #1 is the button
+Seat 1: krossguard ($365.39 in chips)
+Seat 3: ZOGI ($159.87 in chips)
+krossguard: posts small blind $1
+krossguard said, "g n"
+ZOGI: posts big blind $3
+*** HOLE CARDS ***
+krossguard: raises $3 to $6
+ZOGI: calls $3
+*** FLOP *** [9d 6s 8s]
+ZOGI: bets $3
+krossguard: calls $3
+*** TURN *** [9d 6s 8s] [8h]
+ZOGI: checks
+krossguard: bets $6
+ZOGI: calls $6
+*** RIVER *** [9d 6s 8s 8h] [5d]
+ZOGI: checks
+krossguard: bets $6
+ZOGI: calls $6
+*** SHOW DOWN ***
+krossguard: shows [Tc 8c] (three of a kind, Eights)
+ZOGI: mucks hand
+krossguard collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9d 6s 8s 8h 5d]
+Seat 1: krossguard (button) (small blind) showed [Tc 8c] and won ($41.50) with three of a kind, Eights
+Seat 3: ZOGI (big blind) mucked
+
+

@@ -1,0 +1,51 @@
+PokerStars Hand #145159186711:  Hold'em Limit ($3/$6 USD) - 2015/12/11 0:51:41 ET
+Table 'Segin' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 2: _fayzulllo_ ($72 in chips)
+VolkovDmitri: posts small blind $1
+_fayzulllo_: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+_fayzulllo_: calls $3
+*** FLOP *** [9d Tc 9s]
+_fayzulllo_: checks
+VolkovDmitri: bets $3
+_fayzulllo_: calls $3
+*** TURN *** [9d Tc 9s] [Ad]
+_fayzulllo_: checks
+VolkovDmitri: checks
+*** RIVER *** [9d Tc 9s Ad] [5d]
+_fayzulllo_: bets $6
+mo-chicky joins the table at seat #3
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+_fayzulllo_: shows [4h As] (two pair, Aces and Nines)
+VolkovDmitri: mucks hand
+_fayzulllo_ collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9d Tc 9s Ad 5d]
+Seat 1: VolkovDmitri (button) (small blind) mucked
+Seat 2: _fayzulllo_ (big blind) showed [4h As] and won ($29.50) with two pair, Aces and Nines
+
+
+PokerStars Hand #145159307348:  Hold'em Limit ($3/$6 USD) - 2015/12/11 0:59:33 ET
+Table 'Segin' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($123.32 in chips)
+Seat 4: alexslep ($195.86 in chips)
+VolkovDmitri: posts small blind $1
+_fayzulllo_: is sitting out
+alexslep: posts big blind $3
+*** HOLE CARDS ***
+_fayzulllo_ leaves the table
+VolkovDmitri: raises $3 to $6
+alexslep: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: VolkovDmitri (button) (small blind) collected ($6)
+Seat 4: alexslep (big blind) folded before Flop
+
+

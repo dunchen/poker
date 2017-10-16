@@ -1,0 +1,33 @@
+PokerStars Hand #152883612858:  Hold'em Limit ($3/$6 USD) - 2016/05/05 9:24:57 ET
+Table 'Bistro II' 6-max Seat #4 is the button
+Seat 4: MTails ($121 in chips)
+Seat 6: JoeBlack1982 ($119 in chips)
+MTails: posts small blind $1
+JoeBlack1982: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+JoeBlack1982: raises $3 to $9
+MTails: calls $3
+*** FLOP *** [9s Ts 3c]
+anetkaapro joins the table at seat #1
+JoeBlack1982: bets $3
+MTails: calls $3
+*** TURN *** [9s Ts 3c] [4s]
+JoeBlack1982: bets $6
+MTails: raises $6 to $12
+JoeBlack1982: calls $6
+*** RIVER *** [9s Ts 3c 4s] [Jd]
+JoeBlack1982: checks
+MTails: bets $6
+JoeBlack1982: calls $6
+*** SHOW DOWN ***
+MTails: shows [7c Qc] (high card Queen)
+JoeBlack1982: shows [Qd Js] (a pair of Jacks)
+JoeBlack1982 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [9s Ts 3c 4s Jd]
+Seat 4: MTails (button) (small blind) showed [7c Qc] and lost with high card Queen
+Seat 6: JoeBlack1982 (big blind) showed [Qd Js] and won ($59.50) with a pair of Jacks
+
+

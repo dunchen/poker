@@ -1,0 +1,31 @@
+PokerStars Hand #148419237573:  Hold'em Limit ($3/$6 USD) - 2016/02/07 17:35:21 ET
+Table 'Moira' 6-max Seat #3 is the button
+Seat 3: BelSv ($101.98 in chips)
+Seat 6: Pokali ($139.08 in chips)
+BelSv: posts small blind $1
+Pokali: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+Pokali: calls $3
+*** FLOP *** [9h 8d 6c]
+Pokali: checks
+BelSv: checks
+*** TURN *** [9h 8d 6c] [3d]
+Pokali: bets $6
+BelSv: calls $6
+*** RIVER *** [9h 8d 6c 3d] [3c]
+Pokali: bets $6
+Jeelsy leaves the table
+BelSv: raises $6 to $12
+Pokali: calls $6
+*** SHOW DOWN ***
+BelSv: shows [Qc 3s] (three of a kind, Threes)
+Pokali: mucks hand
+BelSv collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9h 8d 6c 3d 3c]
+Seat 3: BelSv (button) (small blind) showed [Qc 3s] and won ($47.50) with three of a kind, Threes
+Seat 6: Pokali (big blind) mucked
+
+

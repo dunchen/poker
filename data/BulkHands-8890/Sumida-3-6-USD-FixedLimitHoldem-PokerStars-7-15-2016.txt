@@ -1,0 +1,28 @@
+PokerStars Hand #156010633278:  Hold'em Limit ($3/$6 USD) - 2016/07/15 15:39:39 ET
+Table 'Sumida' 6-max Seat #1 is the button
+Seat 1: manly70 ($9.24 in chips)
+Seat 5: perten ($109.02 in chips)
+manly70: posts small blind $1
+Luanto 14: is sitting out
+perten: posts big blind $3
+*** HOLE CARDS ***
+manly70: raises $3 to $6
+perten: raises $3 to $9
+manly70: calls $3
+*** FLOP *** [3h Ah Kh]
+perten: bets $3
+manly70: calls $0.24 and is all-in
+Uncalled bet ($2.76) returned to perten
+*** TURN *** [3h Ah Kh] [9c]
+*** RIVER *** [3h Ah Kh 9c] [5d]
+*** SHOW DOWN ***
+perten: shows [Tc Js] (high card Ace)
+manly70: shows [7d Jc] (high card Ace - lower kicker)
+perten collected $18.11 from pot
+*** SUMMARY ***
+Total pot $18.48 | Rake $0.37
+Board [3h Ah Kh 9c 5d]
+Seat 1: manly70 (button) (small blind) showed [7d Jc] and lost with high card Ace
+Seat 5: perten (big blind) showed [Tc Js] and won ($18.11) with high card Ace
+
+

@@ -1,0 +1,32 @@
+PokerStars Hand #148129334517:  Hold'em Limit ($3/$6 USD) - 2016/02/02 15:58:24 ET
+Table 'Pollux IV' 6-max Seat #4 is the button
+Seat 3: baksuzzzzzz ($69 in chips)
+Seat 4: AzureCaper ($80.64 in chips)
+AzureCaper: posts small blind $1
+baksuzzzzzz: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+baksuzzzzzz: raises $3 to $9
+AzureCaper: calls $3
+*** FLOP *** [4s 3s 5c]
+baksuzzzzzz: bets $3
+AzureCaper: calls $3
+*** TURN *** [4s 3s 5c] [9c]
+baksuzzzzzz: bets $6
+AzureCaper: raises $6 to $12
+baksuzzzzzz: calls $6
+*** RIVER *** [4s 3s 5c 9c] [Kh]
+baksuzzzzzz: checks
+AzureCaper: bets $6
+baksuzzzzzz: calls $6
+*** SHOW DOWN ***
+AzureCaper: shows [Tc Td] (a pair of Tens)
+baksuzzzzzz: mucks hand
+AzureCaper collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [4s 3s 5c 9c Kh]
+Seat 3: baksuzzzzzz (big blind) mucked
+Seat 4: AzureCaper (button) (small blind) showed [Tc Td] and won ($59.50) with a pair of Tens
+
+

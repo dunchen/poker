@@ -1,0 +1,80 @@
+PokerStars Hand #173047468549:  Hold'em Limit ($3/$6 USD) - 2017/07/14 23:58:38 ET
+Table 'Namaqua' 6-max Seat #2 is the button
+Seat 2: NeilDars ($120 in chips)
+Seat 3: AzureCaper ($72 in chips)
+NeilDars: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+NeilDars: raises $3 to $6
+AzureCaper: raises $3 to $9
+NeilDars: calls $3
+*** FLOP *** [4c Jh 6d]
+AzureCaper: bets $3
+NeilDars: calls $3
+*** TURN *** [4c Jh 6d] [7h]
+AzureCaper: bets $6
+Agrotait joins the table at seat #4
+NeilDars: calls $6
+*** RIVER *** [4c Jh 6d 7h] [Th]
+AzureCaper: checks
+NeilDars: checks
+*** SHOW DOWN ***
+AzureCaper: shows [Ad Qh] (high card Ace)
+NeilDars: mucks hand
+AzureCaper collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [4c Jh 6d 7h Th]
+Seat 2: NeilDars (button) (small blind) mucked
+Seat 3: AzureCaper (big blind) showed [Ad Qh] and won ($35.50) with high card Ace
+
+
+PokerStars Hand #173047466765:  Hold'em Limit ($3/$6 USD) - 2017/07/14 23:58:31 ET
+Table 'Namaqua' 6-max Seat #3 is the button
+Seat 2: NeilDars ($119 in chips)
+Seat 3: AzureCaper ($73 in chips)
+AzureCaper: posts small blind $1
+NeilDars: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: folds
+Uncalled bet ($2) returned to NeilDars
+Agrotait leaves the table
+NeilDars collected $2 from pot
+NeilDars: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: NeilDars (big blind) collected ($2)
+Seat 3: AzureCaper (button) (small blind) folded before Flop
+
+
+PokerStars Hand #173047596736:  Hold'em Limit ($3/$6 USD) - 2017/07/15 0:06:11 ET
+Table 'Namaqua' 6-max Seat #2 is the button
+Seat 2: NeilDars ($767.96 in chips)
+Seat 3: AzureCaper ($110.72 in chips)
+Agrotait will be allowed to play after the button
+NeilDars: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+NeilDars: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [5h Kh Td]
+qDONKEYp joins the table at seat #5
+AzureCaper: checks
+NeilDars: checks
+*** TURN *** [5h Kh Td] [Tc]
+AzureCaper: checks
+NeilDars: checks
+*** RIVER *** [5h Kh Td Tc] [Ah]
+AzureCaper: checks
+NeilDars: bets $6
+AzureCaper: folds
+Uncalled bet ($6) returned to NeilDars
+NeilDars collected $11.76 from pot
+NeilDars: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5h Kh Td Tc Ah]
+Seat 2: NeilDars (button) (small blind) collected ($11.76)
+Seat 3: AzureCaper (big blind) folded on the River
+
+

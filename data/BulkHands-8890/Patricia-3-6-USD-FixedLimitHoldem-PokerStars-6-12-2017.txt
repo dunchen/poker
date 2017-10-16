@@ -1,0 +1,32 @@
+PokerStars Hand #171672717703:  Hold'em Limit ($3/$6 USD) - 2017/06/12 6:53:03 ET
+Table 'Patricia' 6-max Seat #1 is the button
+Seat 1: TbIP-TbIP 88 ($187.10 in chips)
+Seat 6: nizogor77 ($25.07 in chips)
+TbIP-TbIP 88: posts small blind $1
+fire852181: is sitting out
+nizogor77: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88: raises $3 to $6
+nizogor77: calls $3
+*** FLOP *** [Td Qh 6h]
+nizogor77: checks
+TbIP-TbIP 88: bets $3
+nizogor77: calls $3
+*** TURN *** [Td Qh 6h] [9c]
+nizogor77: checks
+TbIP-TbIP 88: bets $6
+nizogor77: calls $6
+*** RIVER *** [Td Qh 6h 9c] [Ts]
+nizogor77: checks
+TbIP-TbIP 88: checks
+*** SHOW DOWN ***
+nizogor77: shows [7h 9s] (two pair, Tens and Nines)
+TbIP-TbIP 88: shows [Qs 8s] (two pair, Queens and Tens)
+TbIP-TbIP 88 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Td Qh 6h 9c Ts]
+Seat 1: TbIP-TbIP 88 (button) (small blind) showed [Qs 8s] and won ($29.50) with two pair, Queens and Tens
+Seat 6: nizogor77 (big blind) showed [7h 9s] and lost with two pair, Tens and Nines
+
+

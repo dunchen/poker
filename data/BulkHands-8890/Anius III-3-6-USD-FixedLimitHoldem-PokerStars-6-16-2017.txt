@@ -1,0 +1,33 @@
+PokerStars Hand #171849775996:  Hold'em Limit ($3/$6 USD) - 2017/06/16 12:31:31 ET
+Table 'Anius III' 10-max Seat #8 is the button
+Seat 7: vestimokrec ($157.42 in chips)
+Seat 8: B_loJkl ($161.04 in chips)
+B_loJkl: posts small blind $1
+filletofish: is sitting out
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+filletofish leaves the table
+B_loJkl: raises $3 to $6
+vestimokrec: calls $3
+*** FLOP *** [As 7h 9d]
+vestimokrec: checks
+B_loJkl: bets $3
+vestimokrec: calls $3
+*** TURN *** [As 7h 9d] [2d]
+vestimokrec: checks
+B_loJkl: checks
+*** RIVER *** [As 7h 9d 2d] [Ah]
+vestimokrec: checks
+B_loJkl: bets $6
+vestimokrec: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [6c 6d] (two pair, Aces and Sixes)
+vestimokrec: mucks hand
+B_loJkl collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [As 7h 9d 2d Ah]
+Seat 7: vestimokrec (big blind) mucked
+Seat 8: B_loJkl (button) (small blind) showed [6c 6d] and won ($29.50) with two pair, Aces and Sixes
+
+

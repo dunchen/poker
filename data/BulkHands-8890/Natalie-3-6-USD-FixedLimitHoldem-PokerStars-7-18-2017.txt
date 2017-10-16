@@ -1,0 +1,105 @@
+PokerStars Hand #173186013095:  Hold'em Limit ($3/$6 USD) - 2017/07/18 5:54:38 ET
+Table 'Natalie' 10-max Seat #6 is the button
+Seat 6: P1DK0 ($45.53 in chips)
+Seat 7: VolkovDmitri ($120 in chips)
+P1DK0: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+P1DK0: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [6s 9h 6h]
+VolkovDmitri: checks
+P1DK0: bets $3
+VolkovDmitri: raises $3 to $6
+P1DK0: raises $3 to $9
+VolkovDmitri: calls $3
+*** TURN *** [6s 9h 6h] [Kh]
+VolkovDmitri: checks
+P1DK0: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [6s 9h 6h Kh] [As]
+VolkovDmitri: checks
+P1DK0: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+P1DK0: shows [8d 6d] (three of a kind, Sixes)
+VolkovDmitri: mucks hand
+P1DK0 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [6s 9h 6h Kh As]
+Seat 6: P1DK0 (button) (small blind) showed [8d 6d] and won ($53.50) with three of a kind, Sixes
+Seat 7: VolkovDmitri (big blind) mucked
+
+
+PokerStars Hand #173202673789:  Hold'em Limit ($3/$6 USD) - 2017/07/18 14:25:07 ET
+Table 'Natalie' 10-max Seat #7 is the button
+Seat 4: largopass ($111.90 in chips)
+Seat 7: Zubasa07 ($300 in chips)
+vestimokrec joins the table at seat #5
+Ale4o joins the table at seat #6
+Zubasa07: posts small blind $1
+largopass: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+largopass: calls $3
+*** FLOP *** [5c Tc 9h]
+largopass: checks
+Zubasa07: bets $3
+largopass: folds
+Uncalled bet ($3) returned to Zubasa07
+Zubasa07 collected $11.76 from pot
+Zubasa07: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5c Tc 9h]
+Seat 4: largopass (big blind) folded on the Flop
+Seat 7: Zubasa07 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #173203583405:  Hold'em Limit ($3/$6 USD) - 2017/07/18 14:44:52 ET
+Table 'Natalie' 10-max Seat #2 is the button
+Seat 1: xxRGx ($138.68 in chips)
+Seat 2: vlaprok ($117 in chips)
+vlaprok: posts small blind $1
+vestimokrec: is sitting out
+Ale4o: is sitting out
+xxRGx: posts big blind $3
+*** HOLE CARDS ***
+vlaprok: raises $3 to $6
+vestimokrec leaves the table
+xxRGx: folds
+Uncalled bet ($3) returned to vlaprok
+vlaprok collected $6 from pot
+vlaprok: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: xxRGx (big blind) folded before Flop
+Seat 2: vlaprok (button) (small blind) collected ($6)
+
+
+PokerStars Hand #173203590145:  Hold'em Limit ($3/$6 USD) - 2017/07/18 14:45:01 ET
+Table 'Natalie' 10-max Seat #1 is the button
+Seat 1: xxRGx ($135.68 in chips)
+Seat 2: vlaprok ($120 in chips)
+xxRGx: posts small blind $1
+vlaprok: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec joins the table at seat #3
+xxRGx: calls $2
+Ale4o leaves the table
+vlaprok: checks
+*** FLOP *** [Th Qs 5c]
+vlaprok: checks
+xxRGx: bets $3
+vlaprok: folds
+Uncalled bet ($3) returned to xxRGx
+xxRGx collected $5.88 from pot
+xxRGx: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Th Qs 5c]
+Seat 1: xxRGx (button) (small blind) collected ($5.88)
+Seat 2: vlaprok (big blind) folded on the Flop
+
+

@@ -1,0 +1,48 @@
+PokerStars Hand #164065880014:  Hold'em Limit ($3/$6 USD) - 2017/01/05 6:21:20 ET
+Table 'Pyxis' 6-max Seat #1 is the button
+Seat 1: MMM 22666 ($72 in chips)
+Seat 2: sokol-max-PS ($49.06 in chips)
+MMM 22666: posts small blind $1
+sokol-max-PS: posts big blind $3
+*** HOLE CARDS ***
+MMM 22666: calls $2
+sokol-max-PS: checks
+*** FLOP *** [2h 2d 7h]
+sokol-max-PS: checks
+MMM 22666: checks
+*** TURN *** [2h 2d 7h] [Qh]
+sokol-max-PS: checks
+MMM 22666: checks
+*** RIVER *** [2h 2d 7h Qh] [Jc]
+sokol-max-PS: checks
+MMM 22666: checks
+*** SHOW DOWN ***
+sokol-max-PS: shows [6c Ts] (a pair of Deuces)
+MMM 22666: mucks hand
+sokol-max-PS collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [2h 2d 7h Qh Jc]
+Seat 1: MMM 22666 (button) (small blind) mucked
+Seat 2: sokol-max-PS (big blind) showed [6c Ts] and won ($5.88) with a pair of Deuces
+
+
+PokerStars Hand #164066066222:  Hold'em Limit ($3/$6 USD) - 2017/01/05 6:27:34 ET
+Table 'Pyxis' 6-max Seat #3 is the button
+Seat 2: sokol-max-PS ($56.47 in chips)
+Seat 3: VolkovDmitri ($152.08 in chips)
+VolkovDmitri: posts small blind $1
+Agrotait: is sitting out
+MMM 22666: is sitting out
+sokol-max-PS: posts big blind $3
+*** HOLE CARDS ***
+MMM 22666 leaves the table
+VolkovDmitri: folds
+Uncalled bet ($2) returned to sokol-max-PS
+sokol-max-PS collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: sokol-max-PS (big blind) collected ($2)
+Seat 3: VolkovDmitri (button) (small blind) folded before Flop
+
+

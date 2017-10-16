@@ -1,0 +1,33 @@
+PokerStars Hand #145573212490:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:06:09 ET
+Table 'Puck II' 2-max Seat #1 is the button
+Seat 1: pokr27 ($29.19 in chips)
+Seat 2: annjne ($125.76 in chips)
+pokr27: posts small blind $1
+annjne: posts big blind $3
+*** HOLE CARDS ***
+pokr27: calls $2
+annjne: checks
+*** FLOP *** [9c Th 3c]
+annjne: checks
+pokr27: checks
+*** TURN *** [9c Th 3c] [7h]
+annjne: bets $6
+pokr27: calls $6
+*** RIVER *** [9c Th 3c 7h] [Ts]
+annjne: bets $6
+pokr27: raises $6 to $12
+annjne: raises $6 to $18
+pokr27: raises $2.19 to $20.19 and is all-in
+Betting is capped
+annjne: calls $2.19
+*** SHOW DOWN ***
+pokr27: shows [6c Td] (three of a kind, Tens)
+annjne: shows [8h Tc] (three of a kind, Tens - Nine+Eight kicker)
+annjne collected $57.88 from pot
+*** SUMMARY ***
+Total pot $58.38 | Rake $0.50
+Board [9c Th 3c 7h Ts]
+Seat 1: pokr27 (button) (small blind) showed [6c Td] and lost with three of a kind, Tens
+Seat 2: annjne (big blind) showed [8h Tc] and won ($57.88) with three of a kind, Tens
+
+

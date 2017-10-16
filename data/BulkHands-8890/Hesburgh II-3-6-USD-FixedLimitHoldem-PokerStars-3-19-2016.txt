@@ -1,0 +1,83 @@
+PokerStars Hand #150607578414:  Hold'em Limit ($3/$6 USD) - 2016/03/19 15:40:38 ET
+Table 'Hesburgh II' 6-max Seat #4 is the button
+Seat 4: AzureCaper ($72 in chips)
+Seat 5: RowntreWilly ($57.38 in chips)
+AzureCaper: posts small blind $1
+RowntreWilly: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+RowntreWilly: folds
+Uncalled bet ($3) returned to AzureCaper
+AzureCaper collected $6 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 4: AzureCaper (button) (small blind) collected ($6)
+Seat 5: RowntreWilly (big blind) folded before Flop
+
+
+PokerStars Hand #150607540750:  Hold'em Limit ($3/$6 USD) - 2016/03/19 15:40:01 ET
+Table 'Hesburgh II' 6-max Seat #5 is the button
+Seat 4: AzureCaper ($75 in chips)
+Seat 5: RowntreWilly ($30.88 in chips)
+RowntreWilly: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+RowntreWilly: calls $2
+AzureCaper: raises $3 to $6
+RowntreWilly: calls $3
+*** FLOP *** [Td Js Qs]
+AzureCaper: bets $3
+RowntreWilly: calls $3
+*** TURN *** [Td Js Qs] [Ah]
+AzureCaper: bets $6
+RowntreWilly: raises $6 to $12
+AzureCaper: calls $6
+*** RIVER *** [Td Js Qs Ah] [9h]
+AzureCaper: checks
+BasilAnochin joins the table at seat #6
+RowntreWilly: bets $6
+poker111141 joins the table at seat #1
+AzureCaper: calls $6
+*** SHOW DOWN ***
+RowntreWilly: shows [Ks Kh] (a straight, Ten to Ace)
+AzureCaper: mucks hand
+RowntreWilly collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Td Js Qs Ah 9h]
+Seat 4: AzureCaper (big blind) mucked
+Seat 5: RowntreWilly (button) (small blind) showed [Ks Kh] and won ($53.50) with a straight, Ten to Ace
+
+
+PokerStars Hand #150617638660:  Hold'em Limit ($3/$6 USD) - 2016/03/19 18:31:21 ET
+Table 'Hesburgh II' 6-max Seat #3 is the button
+Seat 3: Chessnok ($120.62 in chips)
+Seat 5: AzureCaper ($75 in chips)
+Chessnok: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+Chessnok: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [5s 6h 3d]
+AzureCaper: checks
+Chessnok: bets $3
+AzureCaper: raises $3 to $6
+Chessnok: calls $3
+*** TURN *** [5s 6h 3d] [Kc]
+AzureCaper: bets $6
+Chessnok: calls $6
+*** RIVER *** [5s 6h 3d Kc] [9c]
+AzureCaper: bets $6
+Chessnok: calls $6
+*** SHOW DOWN ***
+AzureCaper: shows [6c Ah] (a pair of Sixes)
+Chessnok: mucks hand
+AzureCaper collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [5s 6h 3d Kc 9c]
+Seat 3: Chessnok (button) (small blind) mucked
+Seat 5: AzureCaper (big blind) showed [6c Ah] and won ($47.50) with a pair of Sixes
+
+

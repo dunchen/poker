@@ -1,0 +1,95 @@
+PokerStars Hand #165047452447:  Hold'em Limit ($3/$6 USD) - 2017/01/23 12:34:27 ET
+Table 'Gehrels II' 6-max Seat #6 is the button
+Seat 3: selak823 ($52.92 in chips)
+Seat 6: reals82 ($56.38 in chips)
+reals82: posts small blind $1
+selak823: posts big blind $3
+*** HOLE CARDS ***
+reals82: raises $3 to $6
+selak823: calls $3
+*** FLOP *** [6s Qh 9c]
+selak823: checks
+reals82: bets $3
+selak823: calls $3
+*** TURN *** [6s Qh 9c] [4c]
+selak823: checks
+reals82: bets $6
+selak823: calls $6
+*** RIVER *** [6s Qh 9c 4c] [2d]
+selak823: checks
+reals82: checks
+*** SHOW DOWN ***
+selak823: shows [Ks 6d] (a pair of Sixes)
+reals82: mucks hand
+selak823 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6s Qh 9c 4c 2d]
+Seat 3: selak823 (big blind) showed [Ks 6d] and won ($29.50) with a pair of Sixes
+Seat 6: reals82 (button) (small blind) mucked
+
+
+PokerStars Hand #165047467302:  Hold'em Limit ($3/$6 USD) - 2017/01/23 12:34:44 ET
+Table 'Gehrels II' 6-max Seat #3 is the button
+Seat 3: selak823 ($67.42 in chips)
+Seat 6: reals82 ($41.38 in chips)
+selak823: posts small blind $1
+reals82: posts big blind $3
+*** HOLE CARDS ***
+xcgxcg2005 joins the table at seat #2
+selak823: calls $2
+volkovsky joins the table at seat #4
+reals82: raises $3 to $6
+selak823: raises $3 to $9
+reals82: raises $3 to $12
+Betting is capped
+selak823: calls $3
+*** FLOP *** [6h 4h 9d]
+HAOYUN88888 joins the table at seat #5
+reals82: bets $3
+selak823: calls $3
+*** TURN *** [6h 4h 9d] [Th]
+reals82: bets $6
+selak823: folds
+Uncalled bet ($6) returned to reals82
+234599330 joins the table at seat #1
+reals82 collected $29.50 from pot
+reals82: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6h 4h 9d Th]
+Seat 3: selak823 (button) (small blind) folded on the Turn
+Seat 6: reals82 (big blind) collected ($29.50)
+
+
+PokerStars Hand #165047718133:  Hold'em Limit ($3/$6 USD) - 2017/01/23 12:39:27 ET
+Table 'Gehrels II' 6-max Seat #1 is the button
+Seat 1: 234599330 ($122.18 in chips)
+Seat 4: volkovsky ($188.63 in chips)
+234599330: posts small blind $1
+volkovsky: posts big blind $3
+*** HOLE CARDS ***
+234599330: raises $3 to $6
+volkovsky: raises $3 to $9
+234599330: calls $3
+*** FLOP *** [Tc 2d 3h]
+volkovsky: bets $3
+234599330: calls $3
+*** TURN *** [Tc 2d 3h] [9c]
+volkovsky: bets $6
+234599330: calls $6
+*** RIVER *** [Tc 2d 3h 9c] [8h]
+volkovsky: checks
+234599330: checks
+*** SHOW DOWN ***
+volkovsky: shows [Ah Qs] (high card Ace)
+234599330: shows [As Qd] (high card Ace)
+volkovsky collected $17.75 from pot
+234599330 collected $17.75 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Tc 2d 3h 9c 8h]
+Seat 1: 234599330 (button) (small blind) showed [As Qd] and won ($17.75) with high card Ace
+Seat 4: volkovsky (big blind) showed [Ah Qs] and won ($17.75) with high card Ace
+
+

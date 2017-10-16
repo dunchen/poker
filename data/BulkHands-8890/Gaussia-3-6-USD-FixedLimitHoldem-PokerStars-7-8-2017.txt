@@ -1,0 +1,32 @@
+PokerStars Hand #172755613234:  Hold'em Limit ($3/$6 USD) - 2017/07/08 7:14:30 ET
+Table 'Gaussia' 6-max Seat #5 is the button
+Seat 4: MTails ($115.94 in chips)
+Seat 5: Mccormick213 ($207.23 in chips)
+Mccormick213: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+Mccormick213: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [7d 9c Jd]
+MTails: checks
+Mccormick213: bets $3
+MTails: raises $3 to $6
+Mccormick213: calls $3
+*** TURN *** [7d 9c Jd] [Qs]
+MTails: bets $6
+Mccormick213: calls $6
+*** RIVER *** [7d 9c Jd Qs] [9s]
+MTails: bets $6
+Mccormick213: calls $6
+*** SHOW DOWN ***
+MTails: shows [5c Jh] (two pair, Jacks and Nines)
+Mccormick213: shows [4s Jc] (two pair, Jacks and Nines)
+MTails collected $23.75 from pot
+Mccormick213 collected $23.75 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7d 9c Jd Qs 9s]
+Seat 4: MTails (big blind) showed [5c Jh] and won ($23.75) with two pair, Jacks and Nines
+Seat 5: Mccormick213 (button) (small blind) showed [4s Jc] and won ($23.75) with two pair, Jacks and Nines
+
+

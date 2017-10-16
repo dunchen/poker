@@ -1,0 +1,60 @@
+PokerStars Hand #173828610268:  Hold'em Limit ($3/$6 USD) - 2017/08/02 10:18:32 ET
+Table 'Alkes II' 6-max Seat #6 is the button
+Seat 4: VolkovDmitri ($120 in chips)
+Seat 6: nordschrott ($34.27 in chips)
+nordschrott: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+nordschrott: calls $2
+VolkovDmitri: raises $3 to $6
+nordschrott: calls $3
+*** FLOP *** [Kd 2c 4d]
+VolkovDmitri: bets $3
+nordschrott: calls $3
+*** TURN *** [Kd 2c 4d] [7h]
+VolkovDmitri: bets $6
+nordschrott: calls $6
+*** RIVER *** [Kd 2c 4d 7h] [7c]
+VolkovDmitri: bets $6
+nordschrott: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Kc 6s] (two pair, Kings and Sevens)
+nordschrott: mucks hand
+VolkovDmitri collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Kd 2c 4d 7h 7c]
+Seat 4: VolkovDmitri (big blind) showed [Kc 6s] and won ($41.50) with two pair, Kings and Sevens
+Seat 6: nordschrott (button) (small blind) mucked
+
+
+PokerStars Hand #173828626407:  Hold'em Limit ($3/$6 USD) - 2017/08/02 10:19:03 ET
+Table 'Alkes II' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($140.50 in chips)
+Seat 6: nordschrott ($13.27 in chips)
+VolkovDmitri: posts small blind $1
+nordschrott: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+nordschrott: calls $3
+*** FLOP *** [Tc 5h 2d]
+nordschrott: checks
+VolkovDmitri: bets $3
+nordschrott: raises $3 to $6
+swics1202 joins the table at seat #1
+VolkovDmitri: raises $3 to $9
+nordschrott: calls $1.27 and is all-in
+Uncalled bet ($1.73) returned to VolkovDmitri
+*** TURN *** [Tc 5h 2d] [Kh]
+*** RIVER *** [Tc 5h 2d Kh] [As]
+*** SHOW DOWN ***
+nordschrott: shows [4d 2s] (a pair of Deuces)
+VolkovDmitri: shows [Kc 9c] (a pair of Kings)
+VolkovDmitri collected $26.04 from pot
+*** SUMMARY ***
+Total pot $26.54 | Rake $0.50
+Board [Tc 5h 2d Kh As]
+Seat 4: VolkovDmitri (button) (small blind) showed [Kc 9c] and won ($26.04) with a pair of Kings
+Seat 6: nordschrott (big blind) showed [4d 2s] and lost with a pair of Deuces
+
+

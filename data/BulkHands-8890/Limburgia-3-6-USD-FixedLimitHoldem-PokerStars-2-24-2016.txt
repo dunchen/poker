@@ -1,0 +1,59 @@
+PokerStars Hand #149328888009:  Hold'em Limit ($3/$6 USD) - 2016/02/24 6:00:19 ET
+Table 'Limburgia' 6-max Seat #4 is the button
+Seat 1: megabaitt ($111 in chips)
+Seat 4: Agrotait ($80.64 in chips)
+Agrotait: posts small blind $1
+megabaitt: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+megabaitt: calls $3
+*** FLOP *** [6d 2s Jc]
+megabaitt: checks
+Agrotait: bets $3
+megabaitt: calls $3
+*** TURN *** [6d 2s Jc] [Js]
+megabaitt: checks
+Agrotait: bets $6
+megabaitt: raises $6 to $12
+Agrotait: folds
+Uncalled bet ($6) returned to megabaitt
+megabaitt collected $29.50 from pot
+megabaitt: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6d 2s Jc Js]
+Seat 1: megabaitt (big blind) collected ($29.50)
+Seat 4: Agrotait (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #149329468477:  Hold'em Limit ($3/$6 USD) - 2016/02/24 6:19:32 ET
+Table 'Limburgia' 6-max Seat #2 is the button
+Seat 2: VolkovDmitri ($189.08 in chips)
+Seat 4: Agrotait ($116.69 in chips)
+VolkovDmitri: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Agrotait: raises $3 to $9
+megabaitt leaves the table
+VolkovDmitri: calls $3
+*** FLOP *** [8s Qs Qc]
+Agrotait: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [8s Qs Qc] [6c]
+Agrotait: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [8s Qs Qc 6c] [2d]
+Agrotait: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+Agrotait: shows [Kh Qh] (three of a kind, Queens)
+VolkovDmitri: mucks hand
+Agrotait collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8s Qs Qc 6c 2d]
+Seat 2: VolkovDmitri (button) (small blind) mucked
+Seat 4: Agrotait (big blind) showed [Kh Qh] and won ($47.50) with three of a kind, Queens
+
+

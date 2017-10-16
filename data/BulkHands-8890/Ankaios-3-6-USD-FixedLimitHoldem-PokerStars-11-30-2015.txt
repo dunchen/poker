@@ -1,0 +1,28 @@
+PokerStars Hand #144633787572:  Hold'em Limit ($3/$6 USD) - 2015/11/30 17:43:51 ET
+Table 'Ankaios' 2-max Seat #2 is the button
+Seat 1: pvylam ($102.74 in chips)
+Seat 2: jazalad ($14.21 in chips)
+jazalad: posts small blind $1
+pvylam: posts big blind $3
+*** HOLE CARDS ***
+jazalad: calls $2
+pvylam: checks
+*** FLOP *** [2c Th Kc]
+pvylam: checks
+jazalad: checks
+*** TURN *** [2c Th Kc] [3h]
+pvylam: bets $6
+jazalad: raises $5.21 to $11.21 and is all-in
+pvylam: calls $5.21
+*** RIVER *** [2c Th Kc 3h] [Kh]
+*** SHOW DOWN ***
+pvylam: shows [3s 6c] (two pair, Kings and Threes)
+jazalad: shows [5d Qs] (a pair of Kings)
+pvylam collected $27.92 from pot
+*** SUMMARY ***
+Total pot $28.42 | Rake $0.50
+Board [2c Th Kc 3h Kh]
+Seat 1: pvylam (big blind) showed [3s 6c] and won ($27.92) with two pair, Kings and Threes
+Seat 2: jazalad (button) (small blind) showed [5d Qs] and lost with a pair of Kings
+
+

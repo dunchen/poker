@@ -1,0 +1,42 @@
+PokerStars Hand #146145707438:  Hold'em Limit ($3/$6 USD) - 2015/12/29 19:50:10 ET
+Table 'Lesath' 6-max Seat #3 is the button
+Seat 3: PocketQ ($66.07 in chips)
+Seat 4: AzureCaper ($72 in chips)
+PocketQ: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec joins the table at seat #5
+PocketQ: raises $3 to $6
+AzureCaper: raises $3 to $9
+PocketQ: raises $3 to $12
+Betting is capped
+perten joins the table at seat #6
+AzureCaper: calls $3
+*** FLOP *** [8d 9d Ah]
+AzureCaper: checks
+PocketQ: bets $3
+AzureCaper: raises $3 to $6
+PocketQ: raises $3 to $9
+AzureCaper: raises $3 to $12
+Betting is capped
+PocketQ: calls $3
+*** TURN *** [8d 9d Ah] [Qd]
+AzureCaper: bets $6
+PocketQ: raises $6 to $12
+AzureCaper: calls $6
+*** RIVER *** [8d 9d Ah Qd] [Ts]
+AzureCaper: bets $6
+PocketQ: raises $6 to $12
+AzureCaper: calls $6
+*** SHOW DOWN ***
+PocketQ: shows [Th Jc] (a straight, Eight to Queen)
+AzureCaper: shows [Js Ac] (a straight, Eight to Queen)
+AzureCaper collected $47.75 from pot
+PocketQ collected $47.75 from pot
+*** SUMMARY ***
+Total pot $96 | Rake $0.50
+Board [8d 9d Ah Qd Ts]
+Seat 3: PocketQ (button) (small blind) showed [Th Jc] and won ($47.75) with a straight, Eight to Queen
+Seat 4: AzureCaper (big blind) showed [Js Ac] and won ($47.75) with a straight, Eight to Queen
+
+

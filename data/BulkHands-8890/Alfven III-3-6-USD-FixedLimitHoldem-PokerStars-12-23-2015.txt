@@ -1,0 +1,90 @@
+PokerStars Hand #145790792288:  Hold'em Limit ($3/$6 USD) - 2015/12/23 9:12:32 ET
+Table 'Alfven III' 2-max Seat #1 is the button
+Seat 1: elifnur2008 ($51 in chips)
+Seat 2: melli850 ($49.91 in chips)
+elifnur2008: posts small blind $1
+melli850: posts big blind $3
+*** HOLE CARDS ***
+elifnur2008: raises $3 to $6
+melli850: raises $3 to $9
+elifnur2008: calls $3
+*** FLOP *** [7d 7s Th]
+melli850: bets $3
+elifnur2008: calls $3
+*** TURN *** [7d 7s Th] [8h]
+melli850: bets $6
+elifnur2008: raises $6 to $12
+melli850: calls $6
+*** RIVER *** [7d 7s Th 8h] [Jc]
+melli850: checks
+elifnur2008: bets $6
+melli850: calls $6
+*** SHOW DOWN ***
+elifnur2008: shows [9d Kh] (a straight, Seven to Jack)
+melli850: mucks hand
+elifnur2008 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [7d 7s Th 8h Jc]
+Seat 1: elifnur2008 (button) (small blind) showed [9d Kh] and won ($59.50) with a straight, Seven to Jack
+Seat 2: melli850 (big blind) mucked
+
+
+PokerStars Hand #145790782864:  Hold'em Limit ($3/$6 USD) - 2015/12/23 9:12:18 ET
+Table 'Alfven III' 2-max Seat #2 is the button
+Seat 1: elifnur2008 ($60 in chips)
+Seat 2: melli850 ($41.27 in chips)
+melli850: posts small blind $1
+elifnur2008: posts big blind $3
+*** HOLE CARDS ***
+melli850: raises $3 to $6
+elifnur2008: calls $3
+*** FLOP *** [7c 5h 3s]
+elifnur2008: checks
+melli850: bets $3
+elifnur2008: calls $3
+*** TURN *** [7c 5h 3s] [5s]
+elifnur2008: checks
+melli850: bets $6
+elifnur2008: folds
+Uncalled bet ($6) returned to melli850
+melli850 collected $17.64 from pot
+melli850: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7c 5h 3s 5s]
+Seat 1: elifnur2008 (big blind) folded on the Turn
+Seat 2: melli850 (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #145790808928:  Hold'em Limit ($3/$6 USD) - 2015/12/23 9:12:56 ET
+Table 'Alfven III' 2-max Seat #2 is the button
+Seat 1: elifnur2008 ($80.50 in chips)
+Seat 2: melli850 ($19.91 in chips)
+melli850: posts small blind $1
+elifnur2008: posts big blind $3
+*** HOLE CARDS ***
+melli850: raises $3 to $6
+elifnur2008: calls $3
+*** FLOP *** [Td 5s 6s]
+elifnur2008: checks
+melli850: bets $3
+elifnur2008: calls $3
+*** TURN *** [Td 5s 6s] [Jh]
+elifnur2008: checks
+melli850: bets $6
+elifnur2008: raises $6 to $12
+melli850: calls $4.91 and is all-in
+Uncalled bet ($1.09) returned to elifnur2008
+*** RIVER *** [Td 5s 6s Jh] [4h]
+*** SHOW DOWN ***
+elifnur2008: shows [3c Ts] (a pair of Tens)
+melli850: shows [Ad 8h] (high card Ace)
+elifnur2008 collected $39.32 from pot
+*** SUMMARY ***
+Total pot $39.82 | Rake $0.50
+Board [Td 5s 6s Jh 4h]
+Seat 1: elifnur2008 (big blind) showed [3c Ts] and won ($39.32) with a pair of Tens
+Seat 2: melli850 (button) (small blind) showed [Ad 8h] and lost with high card Ace
+
+

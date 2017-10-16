@@ -1,0 +1,83 @@
+PokerStars Hand #148142198242:  Hold'em Limit ($3/$6 USD) - 2016/02/02 19:51:47 ET
+Table 'Astarte' 10-max Seat #1 is the button
+Seat 1: NIGHTyxa ($72 in chips)
+Seat 2: kdcl ($30.60 in chips)
+NIGHTyxa: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+NIGHTyxa: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [2d Td Qh]
+kdcl: checks
+NIGHTyxa: bets $3
+kdcl: calls $3
+*** TURN *** [2d Td Qh] [4s]
+kdcl: checks
+NIGHTyxa: bets $6
+kdcl: calls $6
+*** RIVER *** [2d Td Qh 4s] [Qc]
+kdcl: checks
+NIGHTyxa: bets $6
+kdcl: calls $6
+*** SHOW DOWN ***
+NIGHTyxa: shows [Qd 5d] (three of a kind, Queens)
+kdcl: mucks hand
+NIGHTyxa collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2d Td Qh 4s Qc]
+Seat 1: NIGHTyxa (button) (small blind) showed [Qd 5d] and won ($41.50) with three of a kind, Queens
+Seat 2: kdcl (big blind) mucked
+
+
+PokerStars Hand #148142233338:  Hold'em Limit ($3/$6 USD) - 2016/02/02 19:52:41 ET
+Table 'Astarte' 10-max Seat #2 is the button
+Seat 1: NIGHTyxa ($92.50 in chips)
+Seat 2: kdcl ($9.60 in chips)
+kdcl: posts small blind $1
+NIGHTyxa: posts big blind $3
+*** HOLE CARDS ***
+kdcl: raises $3 to $6
+NIGHTyxa: calls $3
+*** FLOP *** [Th Td Jc]
+NIGHTyxa: checks
+kdcl: bets $3
+NIGHTyxa: folds
+Uncalled bet ($3) returned to kdcl
+kdcl collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Th Td Jc]
+Seat 1: NIGHTyxa (big blind) folded on the Flop
+Seat 2: kdcl (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #148142266562:  Hold'em Limit ($3/$6 USD) - 2016/02/02 19:53:34 ET
+Table 'Astarte' 10-max Seat #1 is the button
+Seat 1: NIGHTyxa ($86.50 in chips)
+Seat 2: kdcl ($15.36 in chips)
+NIGHTyxa: posts small blind $1
+kdcl: posts big blind $3
+*** HOLE CARDS ***
+NIGHTyxa: raises $3 to $6
+kdcl: calls $3
+*** FLOP *** [9d 5s 2h]
+kdcl: bets $3
+NIGHTyxa: raises $3 to $6
+kdcl: raises $3 to $9
+NIGHTyxa: calls $3
+*** TURN *** [9d 5s 2h] [Kd]
+kdcl: bets $0.36 and is all-in
+NIGHTyxa: calls $0.36
+*** RIVER *** [9d 5s 2h Kd] [As]
+*** SHOW DOWN ***
+kdcl: shows [7h 5d] (a pair of Fives)
+NIGHTyxa: shows [4c Ad] (a pair of Aces)
+NIGHTyxa collected $30.22 from pot
+*** SUMMARY ***
+Total pot $30.72 | Rake $0.50
+Board [9d 5s 2h Kd As]
+Seat 1: NIGHTyxa (button) (small blind) showed [4c Ad] and won ($30.22) with a pair of Aces
+Seat 2: kdcl (big blind) showed [7h 5d] and lost with a pair of Fives
+
+

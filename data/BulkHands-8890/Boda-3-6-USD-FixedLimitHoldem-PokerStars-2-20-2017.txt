@@ -1,0 +1,90 @@
+PokerStars Hand #166498762559:  Hold'em Limit ($3/$6 USD) - 2017/02/20 8:59:22 ET
+Table 'Boda' 6-max Seat #3 is the button
+Seat 3: flush_entry ($78 in chips)
+Seat 4: Agrotait ($72 in chips)
+flush_entry: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+flush_entry: calls $2
+Agrotait: checks
+*** FLOP *** [Kd Ah Td]
+Agrotait: bets $3
+flush_entry: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $5.88 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Kd Ah Td]
+Seat 3: flush_entry (button) (small blind) folded on the Flop
+Seat 4: Agrotait (big blind) collected ($5.88)
+
+
+PokerStars Hand #166498785247:  Hold'em Limit ($3/$6 USD) - 2017/02/20 9:00:03 ET
+Table 'Boda' 6-max Seat #3 is the button
+Seat 3: flush_entry ($123.90 in chips)
+Seat 4: Agrotait ($72 in chips)
+flush_entry: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+flush_entry: folds
+Uncalled bet ($2) returned to Agrotait
+Agrotait collected $2 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: flush_entry (button) (small blind) folded before Flop
+Seat 4: Agrotait (big blind) collected ($2)
+
+
+PokerStars Hand #166498768202:  Hold'em Limit ($3/$6 USD) - 2017/02/20 8:59:33 ET
+Table 'Boda' 6-max Seat #4 is the button
+Seat 3: flush_entry ($78 in chips)
+Seat 4: Agrotait ($74.88 in chips)
+Agrotait: posts small blind $1
+flush_entry: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+flush_entry: raises $3 to $9
+Agrotait: calls $3
+*** FLOP *** [6c Th Td]
+flush_entry: bets $3
+AzureCaper joins the table at seat #6
+Agrotait: calls $3
+*** TURN *** [6c Th Td] [2s]
+flush_entry: bets $6
+Agrotait: calls $6
+*** RIVER *** [6c Th Td 2s] [Js]
+flush_entry: checks
+Agrotait: bets $6
+flush_entry: raises $6 to $12
+Agrotait: calls $6
+*** SHOW DOWN ***
+flush_entry: shows [Jh Jd] (a full house, Jacks full of Tens)
+Agrotait: mucks hand
+flush_entry collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [6c Th Td 2s Js]
+Seat 3: flush_entry (big blind) showed [Jh Jd] and won ($59.50) with a full house, Jacks full of Tens
+Seat 4: Agrotait (button) (small blind) mucked
+
+
+PokerStars Hand #166498877483:  Hold'em Limit ($3/$6 USD) - 2017/02/20 9:02:39 ET
+Table 'Boda' 6-max Seat #6 is the button
+Seat 4: Agrotait ($112.75 in chips)
+Seat 6: AzureCaper ($87.07 in chips)
+AzureCaper: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+flush_entry leaves the table
+AzureCaper: folds
+Uncalled bet ($2) returned to Agrotait
+Agrotait collected $2 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: Agrotait (big blind) collected ($2)
+Seat 6: AzureCaper (button) (small blind) folded before Flop
+
+

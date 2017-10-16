@@ -1,0 +1,110 @@
+PokerStars Hand #159933261156:  Hold'em Limit ($3/$6 USD) - 2016/10/14 16:21:51 ET
+Table 'Mirzam' 6-max Seat #3 is the button
+Seat 3: hairy1961 ($114.55 in chips)
+Seat 4: ToDaFelt ($100.02 in chips)
+hairy1961: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+hairy1961: raises $3 to $6
+ToDaFelt: folds
+Uncalled bet ($3) returned to hairy1961
+hairy1961 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: hairy1961 (button) (small blind) collected ($6)
+Seat 4: ToDaFelt (big blind) folded before Flop
+
+
+PokerStars Hand #159933912127:  Hold'em Limit ($3/$6 USD) - 2016/10/14 16:34:39 ET
+Table 'Mirzam' 6-max Seat #4 is the button
+Seat 3: hairy1961 ($79 in chips)
+Seat 4: ToDaFelt ($102.99 in chips)
+ToDaFelt: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+hairy1961: calls $3
+*** FLOP *** [8h 9c Qd]
+hairy1961: checks
+ToDaFelt: bets $3
+hairy1961: calls $3
+*** TURN *** [8h 9c Qd] [6c]
+hairy1961: checks
+ToDaFelt: checks
+*** RIVER *** [8h 9c Qd 6c] [Ac]
+hairy1961: checks
+ToDaFelt: checks
+*** SHOW DOWN ***
+hairy1961: shows [Ad Jc] (a pair of Aces)
+ToDaFelt: mucks hand
+hairy1961 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8h 9c Qd 6c Ac]
+Seat 3: hairy1961 (big blind) showed [Ad Jc] and won ($17.64) with a pair of Aces
+Seat 4: ToDaFelt (button) (small blind) mucked
+
+
+PokerStars Hand #159933939561:  Hold'em Limit ($3/$6 USD) - 2016/10/14 16:35:12 ET
+Table 'Mirzam' 6-max Seat #3 is the button
+Seat 3: hairy1961 ($87.64 in chips)
+Seat 4: ToDaFelt ($93.99 in chips)
+hairy1961: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+hairy1961: raises $3 to $6
+ToDaFelt: calls $3
+*** FLOP *** [Qd Qh Kh]
+ToDaFelt: checks
+hairy1961: checks
+*** TURN *** [Qd Qh Kh] [7d]
+ToDaFelt: bets $6
+hairy1961: calls $6
+*** RIVER *** [Qd Qh Kh 7d] [Ks]
+frmaroni joins the table at seat #6
+ToDaFelt: bets $6
+hairy1961: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [Td 3d] (two pair, Kings and Queens)
+hairy1961: mucks hand
+ToDaFelt collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Qd Qh Kh 7d Ks]
+Seat 3: hairy1961 (button) (small blind) mucked
+Seat 4: ToDaFelt (big blind) showed [Td 3d] and won ($35.50) with two pair, Kings and Queens
+
+
+PokerStars Hand #159937313589:  Hold'em Limit ($3/$6 USD) - 2016/10/14 17:41:28 ET
+Table 'Mirzam' 6-max Seat #5 is the button
+Seat 4: ToDaFelt ($164.02 in chips)
+Seat 5: tsnguy ($160.37 in chips)
+tsnguy: posts small blind $1
+Velbor107: is sitting out
+GRAILKO: is sitting out
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+Velbor107 leaves the table
+tsnguy: raises $3 to $6
+GRAILKO leaves the table
+ToDaFelt: raises $3 to $9
+tsnguy: raises $3 to $12
+Betting is capped
+ToDaFelt: calls $3
+*** FLOP *** [6s 4h Js]
+ToDaFelt: checks
+tsnguy: bets $3
+ToDaFelt: calls $3
+*** TURN *** [6s 4h Js] [2c]
+ToDaFelt: checks
+tsnguy: bets $6
+ToDaFelt: folds
+Uncalled bet ($6) returned to tsnguy
+tsnguy collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6s 4h Js 2c]
+Seat 4: ToDaFelt (big blind) folded on the Turn
+Seat 5: tsnguy (button) (small blind) collected ($29.50)
+
+

@@ -1,0 +1,559 @@
+PokerStars Hand #176141212404:  Hold'em Limit ($3/$6 USD) - 2017/09/26 7:56:36 ET
+Table 'Nephele' 6-max Seat #1 is the button
+Seat 1: cornetc ($60.17 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+cornetc: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+cornetc: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [6s 5c Kh]
+VolkovDmitri: checks
+cornetc: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [6s 5c Kh] [Qd]
+VolkovDmitri: checks
+cornetc: checks
+*** RIVER *** [6s 5c Kh Qd] [Kc]
+VolkovDmitri: bets $6
+cornetc: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $17.64 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6s 5c Kh Qd Kc]
+Seat 1: cornetc (button) (small blind) folded on the River
+Seat 4: VolkovDmitri (big blind) collected ($17.64)
+
+
+PokerStars Hand #176141233836:  Hold'em Limit ($3/$6 USD) - 2017/09/26 7:57:31 ET
+Table 'Nephele' 6-max Seat #1 is the button
+Seat 1: cornetc ($65.67 in chips)
+Seat 2: Psynto ($72 in chips)
+cornetc: posts small blind $1
+Psynto: posts big blind $3
+*** HOLE CARDS ***
+cornetc: raises $3 to $6
+VolkovDmitri leaves the table
+Psynto: calls $3
+*** FLOP *** [Ks 3h 2h]
+Psynto: checks
+cornetc: bets $3
+Psynto: calls $3
+*** TURN *** [Ks 3h 2h] [Kc]
+Psynto: checks
+cornetc: bets $6
+Psynto: folds
+Uncalled bet ($6) returned to cornetc
+cornetc collected $17.64 from pot
+cornetc: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ks 3h 2h Kc]
+Seat 1: cornetc (button) (small blind) collected ($17.64)
+Seat 2: Psynto (big blind) folded on the Turn
+
+
+PokerStars Hand #176141243159:  Hold'em Limit ($3/$6 USD) - 2017/09/26 7:57:55 ET
+Table 'Nephele' 6-max Seat #2 is the button
+Seat 1: cornetc ($74.31 in chips)
+Seat 2: Psynto ($72 in chips)
+Psynto: posts small blind $1
+cornetc: posts big blind $3
+*** HOLE CARDS ***
+Psynto: raises $3 to $6
+cornetc: raises $3 to $9
+Psynto: calls $3
+*** FLOP *** [6c 3h Jd]
+cornetc: bets $3
+Psynto: calls $3
+*** TURN *** [6c 3h Jd] [4c]
+cornetc: checks
+Psynto: checks
+*** RIVER *** [6c 3h Jd 4c] [Jc]
+cornetc: bets $6
+Psynto: folds
+Uncalled bet ($6) returned to cornetc
+cornetc collected $23.52 from pot
+cornetc: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [6c 3h Jd 4c Jc]
+Seat 1: cornetc (big blind) collected ($23.52)
+Seat 2: Psynto (button) (small blind) folded on the River
+
+
+PokerStars Hand #176141220663:  Hold'em Limit ($3/$6 USD) - 2017/09/26 7:56:58 ET
+Table 'Nephele' 6-max Seat #4 is the button
+Seat 1: cornetc ($51.17 in chips)
+Seat 4: VolkovDmitri ($128.64 in chips)
+VolkovDmitri: posts small blind $1
+cornetc: posts big blind $3
+*** HOLE CARDS ***
+Psynto joins the table at seat #2
+VolkovDmitri: raises $3 to $6
+cornetc: calls $3
+*** FLOP *** [Ah Td 8h]
+cornetc: checks
+VolkovDmitri: bets $3
+cornetc: calls $3
+*** TURN *** [Ah Td 8h] [3s]
+cornetc: checks
+VolkovDmitri: checks
+*** RIVER *** [Ah Td 8h 3s] [5s]
+cornetc: checks
+VolkovDmitri: bets $6
+cornetc: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [7h 9d] (high card Ace)
+cornetc: shows [Js Qd] (high card Ace - Queen kicker)
+cornetc collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ah Td 8h 3s 5s]
+Seat 1: cornetc (big blind) showed [Js Qd] and won ($29.50) with high card Ace
+Seat 4: VolkovDmitri (button) (small blind) showed [7h 9d] and lost with high card Ace
+
+
+PokerStars Hand #176141250843:  Hold'em Limit ($3/$6 USD) - 2017/09/26 7:58:15 ET
+Table 'Nephele' 6-max Seat #1 is the button
+Seat 1: cornetc ($85.83 in chips)
+Seat 2: Psynto ($72 in chips)
+cornetc: posts small blind $1
+Psynto: posts big blind $3
+*** HOLE CARDS ***
+cornetc: raises $3 to $6
+Psynto: calls $3
+*** FLOP *** [3d As Qc]
+Psynto: checks
+cornetc: checks
+*** TURN *** [3d As Qc] [Td]
+Psynto: checks
+cornetc: checks
+*** RIVER *** [3d As Qc Td] [Tc]
+Psynto: checks
+cornetc: checks
+*** SHOW DOWN ***
+Psynto: shows [5s 7d] (a pair of Tens)
+cornetc: shows [6c 8c] (a pair of Tens - Ace+Queen+Eight kicker)
+cornetc collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3d As Qc Td Tc]
+Seat 1: cornetc (button) (small blind) showed [6c 8c] and won ($11.76) with a pair of Tens
+Seat 2: Psynto (big blind) showed [5s 7d] and lost with a pair of Tens
+
+
+PokerStars Hand #176141262526:  Hold'em Limit ($3/$6 USD) - 2017/09/26 7:58:46 ET
+Table 'Nephele' 6-max Seat #1 is the button
+Seat 1: cornetc ($76.59 in chips)
+Seat 2: Psynto ($86.50 in chips)
+cornetc: posts small blind $1
+Psynto: posts big blind $3
+*** HOLE CARDS ***
+cornetc: raises $3 to $6
+Psynto: calls $3
+*** FLOP *** [7c 3s 9c]
+Psynto: checks
+cornetc: checks
+*** TURN *** [7c 3s 9c] [Kc]
+Psynto: bets $6
+cornetc: calls $6
+*** RIVER *** [7c 3s 9c Kc] [Ks]
+Psynto: bets $6
+cornetc: folds
+Uncalled bet ($6) returned to Psynto
+Psynto collected $23.52 from pot
+Psynto: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [7c 3s 9c Kc Ks]
+Seat 1: cornetc (button) (small blind) folded on the River
+Seat 2: Psynto (big blind) collected ($23.52)
+
+
+PokerStars Hand #176141255449:  Hold'em Limit ($3/$6 USD) - 2017/09/26 7:58:27 ET
+Table 'Nephele' 6-max Seat #2 is the button
+Seat 1: cornetc ($91.59 in chips)
+Seat 2: Psynto ($72 in chips)
+Psynto: posts small blind $1
+cornetc: posts big blind $3
+*** HOLE CARDS ***
+Psynto: raises $3 to $6
+cornetc: calls $3
+*** FLOP *** [Js 9s Jh]
+cornetc: checks
+Psynto: bets $3
+cornetc: calls $3
+*** TURN *** [Js 9s Jh] [Qc]
+cornetc: checks
+Psynto: bets $6
+cornetc: calls $6
+*** RIVER *** [Js 9s Jh Qc] [Tc]
+cornetc: checks
+Psynto: bets $6
+cornetc: folds
+Uncalled bet ($6) returned to Psynto
+Psynto collected $29.50 from pot
+Psynto: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Js 9s Jh Qc Tc]
+Seat 1: cornetc (big blind) folded on the River
+Seat 2: Psynto (button) (small blind) collected ($29.50)
+
+
+PokerStars Hand #176141267813:  Hold'em Limit ($3/$6 USD) - 2017/09/26 7:58:59 ET
+Table 'Nephele' 6-max Seat #2 is the button
+Seat 1: cornetc ($64.59 in chips)
+Seat 2: Psynto ($98.02 in chips)
+Psynto: posts small blind $1
+cornetc: posts big blind $3
+*** HOLE CARDS ***
+Psynto: raises $3 to $6
+cornetc: calls $3
+*** FLOP *** [7s 2c 7d]
+cornetc: checks
+Psynto: bets $3
+cornetc: folds
+Uncalled bet ($3) returned to Psynto
+Psynto collected $11.76 from pot
+Psynto: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7s 2c 7d]
+Seat 1: cornetc (big blind) folded on the Flop
+Seat 2: Psynto (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #176141293489:  Hold'em Limit ($3/$6 USD) - 2017/09/26 8:00:06 ET
+Table 'Nephele' 6-max Seat #2 is the button
+Seat 1: cornetc ($20.23 in chips)
+Seat 2: Psynto ($140.92 in chips)
+Psynto: posts small blind $1
+cornetc: posts big blind $3
+*** HOLE CARDS ***
+Psynto: raises $3 to $6
+cornetc: raises $3 to $9
+Psynto: calls $3
+*** FLOP *** [8h Ks Th]
+cornetc: bets $3
+Psynto: calls $3
+*** TURN *** [8h Ks Th] [Qs]
+cornetc: bets $6
+Psynto: calls $6
+*** RIVER *** [8h Ks Th Qs] [4h]
+cornetc: bets $2.23 and is all-in
+Psynto: calls $2.23
+*** SHOW DOWN ***
+cornetc: shows [Jd Kc] (a pair of Kings)
+Psynto: shows [6d Ac] (high card Ace)
+cornetc collected $39.96 from pot
+*** SUMMARY ***
+Total pot $40.46 | Rake $0.50
+Board [8h Ks Th Qs 4h]
+Seat 1: cornetc (big blind) showed [Jd Kc] and won ($39.96) with a pair of Kings
+Seat 2: Psynto (button) (small blind) showed [6d Ac] and lost with high card Ace
+
+
+PokerStars Hand #176141271023:  Hold'em Limit ($3/$6 USD) - 2017/09/26 7:59:07 ET
+Table 'Nephele' 6-max Seat #1 is the button
+Seat 1: cornetc ($58.59 in chips)
+Seat 2: Psynto ($103.78 in chips)
+cornetc: posts small blind $1
+Psynto: posts big blind $3
+*** HOLE CARDS ***
+cornetc: raises $3 to $6
+Psynto: raises $3 to $9
+cornetc: calls $3
+*** FLOP *** [Ac 2c As]
+Psynto: bets $3
+cornetc: calls $3
+*** TURN *** [Ac 2c As] [7c]
+Psynto: bets $6
+cornetc: calls $6
+*** RIVER *** [Ac 2c As 7c] [4c]
+Psynto: bets $6
+cornetc: raises $6 to $12
+Psynto: raises $6 to $18
+cornetc: calls $6
+*** SHOW DOWN ***
+Psynto: shows [Td Kc] (a flush, Ace high)
+cornetc: mucks hand
+Psynto collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [Ac 2c As 7c 4c]
+Seat 1: cornetc (button) (small blind) mucked
+Seat 2: Psynto (big blind) showed [Td Kc] and won ($71.50) with a flush, Ace high
+
+
+PokerStars Hand #176141291648:  Hold'em Limit ($3/$6 USD) - 2017/09/26 8:00:01 ET
+Table 'Nephele' 6-max Seat #1 is the button
+Seat 1: cornetc ($21.23 in chips)
+Seat 2: Psynto ($139.92 in chips)
+cornetc: posts small blind $1
+Psynto: posts big blind $3
+*** HOLE CARDS ***
+cornetc: folds
+Uncalled bet ($2) returned to Psynto
+Psynto collected $2 from pot
+Psynto: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: cornetc (button) (small blind) folded before Flop
+Seat 2: Psynto (big blind) collected ($2)
+
+
+PokerStars Hand #176141284919:  Hold'em Limit ($3/$6 USD) - 2017/09/26 7:59:44 ET
+Table 'Nephele' 6-max Seat #1 is the button
+Seat 1: cornetc ($13.59 in chips)
+Seat 2: Psynto ($147.92 in chips)
+cornetc: posts small blind $1
+Psynto: posts big blind $3
+*** HOLE CARDS ***
+cornetc: folds
+Uncalled bet ($2) returned to Psynto
+Psynto collected $2 from pot
+Psynto: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: cornetc (button) (small blind) folded before Flop
+Seat 2: Psynto (big blind) collected ($2)
+
+
+PokerStars Hand #176141280014:  Hold'em Limit ($3/$6 USD) - 2017/09/26 7:59:31 ET
+Table 'Nephele' 6-max Seat #2 is the button
+Seat 1: cornetc ($22.59 in chips)
+Seat 2: Psynto ($139.28 in chips)
+Psynto: posts small blind $1
+cornetc: posts big blind $3
+*** HOLE CARDS ***
+Psynto: raises $3 to $6
+cornetc: calls $3
+*** FLOP *** [2s 6c 5h]
+cornetc: checks
+Psynto: bets $3
+cornetc: calls $3
+*** TURN *** [2s 6c 5h] [2c]
+cornetc: checks
+Psynto: bets $6
+cornetc: folds
+Uncalled bet ($6) returned to Psynto
+Psynto collected $17.64 from pot
+Psynto: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2s 6c 5h 2c]
+Seat 1: cornetc (big blind) folded on the Turn
+Seat 2: Psynto (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #176141286787:  Hold'em Limit ($3/$6 USD) - 2017/09/26 7:59:48 ET
+Table 'Nephele' 6-max Seat #2 is the button
+Seat 1: cornetc ($12.59 in chips)
+Seat 2: Psynto ($148.92 in chips)
+Psynto: posts small blind $1
+cornetc: posts big blind $3
+*** HOLE CARDS ***
+Psynto: raises $3 to $6
+cornetc: raises $3 to $9
+Psynto: calls $3
+*** FLOP *** [4h Jd 4s]
+cornetc: bets $3
+Psynto: folds
+Uncalled bet ($3) returned to cornetc
+cornetc collected $17.64 from pot
+cornetc: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4h Jd 4s]
+Seat 1: cornetc (big blind) collected ($17.64)
+Seat 2: Psynto (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #176141310996:  Hold'em Limit ($3/$6 USD) - 2017/09/26 8:00:49 ET
+Table 'Nephele' 6-max Seat #2 is the button
+Seat 1: cornetc ($56.46 in chips)
+Seat 2: Psynto ($103.69 in chips)
+Psynto: posts small blind $1
+cornetc: posts big blind $3
+*** HOLE CARDS ***
+Psynto: raises $3 to $6
+cornetc: calls $3
+*** FLOP *** [6s Jc 9h]
+cornetc: checks
+Psynto: bets $3
+cornetc: calls $3
+*** TURN *** [6s Jc 9h] [4c]
+cornetc: checks
+Psynto: checks
+*** RIVER *** [6s Jc 9h 4c] [5s]
+cornetc: checks
+Psynto: checks
+*** SHOW DOWN ***
+cornetc: shows [3s As] (high card Ace)
+Psynto: mucks hand
+cornetc collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6s Jc 9h 4c 5s]
+Seat 1: cornetc (big blind) showed [3s As] and won ($17.64) with high card Ace
+Seat 2: Psynto (button) (small blind) mucked
+
+
+PokerStars Hand #176141300603:  Hold'em Limit ($3/$6 USD) - 2017/09/26 8:00:23 ET
+Table 'Nephele' 6-max Seat #1 is the button
+Seat 1: cornetc ($39.96 in chips)
+Seat 2: Psynto ($120.69 in chips)
+cornetc: posts small blind $1
+Psynto: posts big blind $3
+*** HOLE CARDS ***
+cornetc: raises $3 to $6
+Psynto: folds
+Uncalled bet ($3) returned to cornetc
+cornetc collected $6 from pot
+cornetc: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: cornetc (button) (small blind) collected ($6)
+Seat 2: Psynto (big blind) folded before Flop
+
+
+PokerStars Hand #176141308941:  Hold'em Limit ($3/$6 USD) - 2017/09/26 8:00:44 ET
+Table 'Nephele' 6-max Seat #1 is the button
+Seat 1: cornetc ($57.46 in chips)
+Seat 2: Psynto ($102.69 in chips)
+cornetc: posts small blind $1
+Psynto: posts big blind $3
+*** HOLE CARDS ***
+cornetc: folds
+Uncalled bet ($2) returned to Psynto
+Psynto collected $2 from pot
+Psynto: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: cornetc (button) (small blind) folded before Flop
+Seat 2: Psynto (big blind) collected ($2)
+
+
+PokerStars Hand #176141303026:  Hold'em Limit ($3/$6 USD) - 2017/09/26 8:00:30 ET
+Table 'Nephele' 6-max Seat #2 is the button
+Seat 1: cornetc ($42.96 in chips)
+Seat 2: Psynto ($117.69 in chips)
+Psynto: posts small blind $1
+cornetc: posts big blind $3
+*** HOLE CARDS ***
+Psynto: raises $3 to $6
+cornetc: calls $3
+*** FLOP *** [8d Kd Jd]
+cornetc: checks
+Psynto: bets $3
+cornetc: calls $3
+*** TURN *** [8d Kd Jd] [As]
+cornetc: checks
+Psynto: bets $6
+cornetc: raises $6 to $12
+Psynto: folds
+Uncalled bet ($6) returned to cornetc
+cornetc collected $29.50 from pot
+cornetc: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8d Kd Jd As]
+Seat 1: cornetc (big blind) collected ($29.50)
+Seat 2: Psynto (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #176141317163:  Hold'em Limit ($3/$6 USD) - 2017/09/26 8:01:04 ET
+Table 'Nephele' 6-max Seat #1 is the button
+Seat 1: cornetc ($65.10 in chips)
+Seat 2: Psynto ($94.69 in chips)
+cornetc: posts small blind $1
+Psynto: posts big blind $3
+*** HOLE CARDS ***
+cornetc: raises $3 to $6
+Psynto: raises $3 to $9
+cornetc: calls $3
+*** FLOP *** [2h Jc 2d]
+Psynto: bets $3
+cornetc: calls $3
+*** TURN *** [2h Jc 2d] [8h]
+Psynto: bets $6
+cornetc: folds
+Uncalled bet ($6) returned to Psynto
+Psynto collected $23.52 from pot
+Psynto: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [2h Jc 2d 8h]
+Seat 1: cornetc (button) (small blind) folded on the Turn
+Seat 2: Psynto (big blind) collected ($23.52)
+
+
+PokerStars Hand #176141330965:  Hold'em Limit ($3/$6 USD) - 2017/09/26 8:01:37 ET
+Table 'Nephele' 6-max Seat #1 is the button
+Seat 1: cornetc ($32.10 in chips)
+Seat 2: Psynto ($126.71 in chips)
+cornetc: posts small blind $1
+Psynto: posts big blind $3
+*** HOLE CARDS ***
+cornetc: raises $3 to $6
+Psynto: calls $3
+*** FLOP *** [Th 3c 8d]
+Psynto: checks
+cornetc: bets $3
+Psynto: calls $3
+*** TURN *** [Th 3c 8d] [9s]
+Psynto: checks
+cornetc: bets $6
+Psynto: calls $6
+*** RIVER *** [Th 3c 8d 9s] [Jh]
+Psynto: bets $6
+cornetc: raises $6 to $12
+Psynto: raises $6 to $18
+cornetc: calls $5.10 and is all-in
+Uncalled bet ($0.90) returned to Psynto
+*** SHOW DOWN ***
+Psynto: shows [Qs 7s] (a straight, Eight to Queen)
+cornetc: shows [Js 7c] (a straight, Seven to Jack)
+Psynto collected $63.70 from pot
+*** SUMMARY ***
+Total pot $64.20 | Rake $0.50
+Board [Th 3c 8d 9s Jh]
+Seat 1: cornetc (button) (small blind) showed [Js 7c] and lost with a straight, Seven to Jack
+Seat 2: Psynto (big blind) showed [Qs 7s] and won ($63.70) with a straight, Eight to Queen
+
+
+PokerStars Hand #176141322746:  Hold'em Limit ($3/$6 USD) - 2017/09/26 8:01:17 ET
+Table 'Nephele' 6-max Seat #2 is the button
+Seat 1: cornetc ($53.10 in chips)
+Seat 2: Psynto ($106.21 in chips)
+Psynto: posts small blind $1
+cornetc: posts big blind $3
+*** HOLE CARDS ***
+Psynto: raises $3 to $6
+cornetc: calls $3
+*** FLOP *** [Td Jd Kd]
+cornetc: checks
+Psynto: bets $3
+cornetc: calls $3
+*** TURN *** [Td Jd Kd] [As]
+cornetc: bets $6
+Psynto: calls $6
+*** RIVER *** [Td Jd Kd As] [Kh]
+cornetc: checks
+Psynto: bets $6
+cornetc: calls $6
+*** SHOW DOWN ***
+Psynto: shows [3h Qs] (a straight, Ten to Ace)
+cornetc: mucks hand
+Psynto collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Td Jd Kd As Kh]
+Seat 1: cornetc (big blind) mucked
+Seat 2: Psynto (button) (small blind) showed [3h Qs] and won ($41.50) with a straight, Ten to Ace
+
+

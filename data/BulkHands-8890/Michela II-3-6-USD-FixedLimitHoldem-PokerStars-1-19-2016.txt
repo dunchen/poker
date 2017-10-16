@@ -1,0 +1,66 @@
+PokerStars Hand #147295519256:  Hold'em Limit ($3/$6 USD) - 2016/01/19 3:01:09 ET
+Table 'Michela II' 6-max Seat #2 is the button
+Seat 2: melyh82 ($61.71 in chips)
+Seat 3: artiZzt ($72 in chips)
+melyh82: posts small blind $1
+artiZzt: posts big blind $3
+*** HOLE CARDS ***
+melyh82: raises $3 to $6
+artiZzt: calls $3
+*** FLOP *** [Ad 4c 9c]
+artiZzt: checks
+melyh82: bets $3
+B_loJkl joins the table at seat #4
+artiZzt: calls $3
+*** TURN *** [Ad 4c 9c] [6c]
+artiZzt: checks
+melyh82: bets $6
+artiZzt: calls $6
+*** RIVER *** [Ad 4c 9c 6c] [4h]
+artiZzt: checks
+melyh82: bets $6
+artiZzt: raises $6 to $12
+melyh82: raises $6 to $18
+artiZzt: calls $6
+*** SHOW DOWN ***
+melyh82: shows [6d 6s] (a full house, Sixes full of Fours)
+artiZzt: mucks hand
+melyh82 collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [Ad 4c 9c 6c 4h]
+Seat 2: melyh82 (button) (small blind) showed [6d 6s] and won ($65.50) with a full house, Sixes full of Fours
+Seat 3: artiZzt (big blind) mucked
+
+
+PokerStars Hand #147295612405:  Hold'em Limit ($3/$6 USD) - 2016/01/19 3:05:46 ET
+Table 'Michela II' 6-max Seat #4 is the button
+Seat 3: artiZzt ($120.91 in chips)
+Seat 4: B_loJkl ($90.64 in chips)
+B_loJkl: posts small blind $1
+artiZzt: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+artiZzt: calls $3
+*** FLOP *** [2c Jc Td]
+artiZzt: checks
+B_loJkl: bets $3
+artiZzt: raises $3 to $6
+B_loJkl: calls $3
+*** TURN *** [2c Jc Td] [7c]
+artiZzt: bets $6
+B_loJkl: calls $6
+*** RIVER *** [2c Jc Td 7c] [Qs]
+artiZzt: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+artiZzt: shows [Qc 3d] (a pair of Queens)
+B_loJkl: mucks hand
+artiZzt collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2c Jc Td 7c Qs]
+Seat 3: artiZzt (big blind) showed [Qc 3d] and won ($47.50) with a pair of Queens
+Seat 4: B_loJkl (button) (small blind) mucked
+
+

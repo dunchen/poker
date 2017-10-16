@@ -1,0 +1,61 @@
+PokerStars Hand #145245815909:  Hold'em Limit ($3/$6 USD) - 2015/12/12 16:36:12 ET
+Table 'Laurentia III' 2-max Seat #2 is the button
+Seat 1: yirkape ($330.16 in chips)
+Seat 2: BuzovaPro ($72 in chips)
+BuzovaPro: posts small blind $1
+yirkape: posts big blind $3
+*** HOLE CARDS ***
+BuzovaPro: raises $3 to $6
+yirkape: calls $3
+*** FLOP *** [9d 9c 8h]
+yirkape: checks
+BuzovaPro: bets $3
+yirkape: calls $3
+*** TURN *** [9d 9c 8h] [Tc]
+yirkape: bets $6
+BuzovaPro: calls $6
+*** RIVER *** [9d 9c 8h Tc] [7d]
+yirkape: bets $6
+BuzovaPro: calls $6
+*** SHOW DOWN ***
+yirkape: shows [Jc 9s] (a straight, Seven to Jack)
+BuzovaPro: mucks hand
+yirkape collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9d 9c 8h Tc 7d]
+Seat 1: yirkape (big blind) showed [Jc 9s] and won ($41.50) with a straight, Seven to Jack
+Seat 2: BuzovaPro (button) (small blind) mucked
+
+
+PokerStars Hand #145245847289:  Hold'em Limit ($3/$6 USD) - 2015/12/12 16:36:45 ET
+Table 'Laurentia III' 2-max Seat #1 is the button
+Seat 1: yirkape ($350.66 in chips)
+Seat 2: BuzovaPro ($72 in chips)
+yirkape: posts small blind $1
+BuzovaPro: posts big blind $3
+*** HOLE CARDS ***
+yirkape: raises $3 to $6
+BuzovaPro: calls $3
+*** FLOP *** [4d Ad Th]
+BuzovaPro: checks
+yirkape: bets $3
+BuzovaPro: calls $3
+*** TURN *** [4d Ad Th] [Td]
+BuzovaPro: checks
+yirkape: bets $6
+BuzovaPro: calls $6
+*** RIVER *** [4d Ad Th Td] [8c]
+BuzovaPro: checks
+yirkape: checks
+*** SHOW DOWN ***
+BuzovaPro: shows [Kd 6s] (a pair of Tens)
+yirkape: shows [Ah 3d] (two pair, Aces and Tens)
+yirkape collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4d Ad Th Td 8c]
+Seat 1: yirkape (button) (small blind) showed [Ah 3d] and won ($29.50) with two pair, Aces and Tens
+Seat 2: BuzovaPro (big blind) showed [Kd 6s] and lost with a pair of Tens
+
+

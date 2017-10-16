@@ -1,0 +1,68 @@
+PokerStars Hand #172585213202:  Hold'em Limit ($3/$6 USD) - 2017/07/04 3:55:25 ET
+Table 'Cindijon' 6-max Seat #6 is the button
+Seat 1: anebodil ($74.49 in chips)
+Seat 6: sim5sim5 ($72 in chips)
+sim5sim5: posts small blind $1
+anebodil: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+anebodil: calls $3
+*** FLOP *** [8h 9s 7c]
+anebodil: bets $3
+AzureCaper joins the table at seat #2
+sim5sim5: folds
+Uncalled bet ($3) returned to anebodil
+anebodil collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8h 9s 7c]
+Seat 1: anebodil (big blind) collected ($11.76)
+Seat 6: sim5sim5 (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #172585379061:  Hold'em Limit ($3/$6 USD) - 2017/07/04 4:06:02 ET
+Table 'Cindijon' 6-max Seat #2 is the button
+Seat 1: anebodil ($17.73 in chips)
+Seat 2: AzureCaper ($72.22 in chips)
+AzureCaper: posts small blind $1
+krossguard: is sitting out
+anebodil: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: folds
+Uncalled bet ($2) returned to anebodil
+anebodil collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: anebodil (big blind) collected ($2)
+Seat 2: AzureCaper (button) (small blind) folded before Flop
+
+
+PokerStars Hand #172585380396:  Hold'em Limit ($3/$6 USD) - 2017/07/04 4:06:07 ET
+Table 'Cindijon' 6-max Seat #1 is the button
+Seat 1: anebodil ($18.73 in chips)
+Seat 2: AzureCaper ($72 in chips)
+anebodil: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+anebodil: calls $2
+AzureCaper: raises $3 to $6
+anebodil: calls $3
+*** FLOP *** [5c 9d 6s]
+AzureCaper: bets $3
+anebodil: calls $3
+*** TURN *** [5c 9d 6s] [3d]
+AzureCaper: bets $6
+anebodil: calls $6
+*** RIVER *** [5c 9d 6s 3d] [Ac]
+AzureCaper: bets $6
+anebodil: folds
+Uncalled bet ($6) returned to AzureCaper
+AzureCaper collected $29.50 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5c 9d 6s 3d Ac]
+Seat 1: anebodil (button) (small blind) folded on the River
+Seat 2: AzureCaper (big blind) collected ($29.50)
+
+

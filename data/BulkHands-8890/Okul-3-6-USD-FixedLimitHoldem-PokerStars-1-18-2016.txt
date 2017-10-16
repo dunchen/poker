@@ -1,0 +1,30 @@
+PokerStars Hand #147280938886:  Hold'em Limit ($3/$6 USD) - 2016/01/18 17:58:45 ET
+Table 'Okul' 2-max Seat #1 is the button
+Seat 1: elifnur2008 ($140.46 in chips)
+Seat 2: hi/loplay ($18.70 in chips)
+elifnur2008: posts small blind $1
+hi/loplay: posts big blind $3
+*** HOLE CARDS ***
+elifnur2008: raises $3 to $6
+hi/loplay: calls $3
+*** FLOP *** [2d 4d Jh]
+hi/loplay: checks
+elifnur2008: bets $3
+hi/loplay: calls $3
+*** TURN *** [2d 4d Jh] [Kh]
+hi/loplay: checks
+elifnur2008: bets $6
+hi/loplay: raises $3.70 to $9.70 and is all-in
+elifnur2008: calls $3.70
+*** RIVER *** [2d 4d Jh Kh] [6s]
+*** SHOW DOWN ***
+hi/loplay: shows [2c 8s] (a pair of Deuces)
+elifnur2008: shows [Jd 9s] (a pair of Jacks)
+elifnur2008 collected $36.90 from pot
+*** SUMMARY ***
+Total pot $37.40 | Rake $0.50
+Board [2d 4d Jh Kh 6s]
+Seat 1: elifnur2008 (button) (small blind) showed [Jd 9s] and won ($36.90) with a pair of Jacks
+Seat 2: hi/loplay (big blind) showed [2c 8s] and lost with a pair of Deuces
+
+

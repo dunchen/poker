@@ -1,0 +1,328 @@
+PokerStars Hand #171622837252:  Hold'em Limit ($3/$6 USD) - 2017/06/11 2:40:21 ET
+Table 'Alhena' 6-max Seat #3 is the button
+Seat 3: sim5sim5 ($72 in chips)
+Seat 4: Eu sou K ($120 in chips)
+sim5sim5: posts small blind $1
+Eu sou K: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+Eu sou K: calls $3
+*** FLOP *** [6s Th 3h]
+Eu sou K: checks
+sim5sim5: bets $3
+Eu sou K: raises $3 to $6
+sim5sim5: raises $3 to $9
+Eu sou K: calls $3
+*** TURN *** [6s Th 3h] [As]
+Eu sou K: checks
+sim5sim5: bets $6
+Eu sou K: calls $6
+*** RIVER *** [6s Th 3h As] [4c]
+Eu sou K: checks
+sim5sim5: bets $6
+Eu sou K: calls $6
+*** SHOW DOWN ***
+sim5sim5: shows [9h Jh] (high card Ace)
+Eu sou K: shows [7d 3c] (a pair of Threes)
+Eu sou K collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [6s Th 3h As 4c]
+Seat 3: sim5sim5 (button) (small blind) showed [9h Jh] and lost with high card Ace
+Seat 4: Eu sou K (big blind) showed [7d 3c] and won ($53.50) with a pair of Threes
+
+
+PokerStars Hand #171622850564:  Hold'em Limit ($3/$6 USD) - 2017/06/11 2:41:09 ET
+Table 'Alhena' 6-max Seat #3 is the button
+Seat 3: sim5sim5 ($72 in chips)
+Seat 4: Eu sou K ($161 in chips)
+sim5sim5: posts small blind $1
+Eu sou K: posts big blind $3
+*** HOLE CARDS ***
+sim5sim5: raises $3 to $6
+VolkovDmitri joins the table at seat #5
+Eu sou K: calls $3
+*** FLOP *** [Kh 9s 9c]
+Eu sou K: checks
+sim5sim5: bets $3
+Eu sou K: folds
+Uncalled bet ($3) returned to sim5sim5
+sim5sim5 collected $11.76 from pot
+sim5sim5: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kh 9s 9c]
+Seat 3: sim5sim5 (button) (small blind) collected ($11.76)
+Seat 4: Eu sou K (big blind) folded on the Flop
+
+
+PokerStars Hand #171622843087:  Hold'em Limit ($3/$6 USD) - 2017/06/11 2:40:42 ET
+Table 'Alhena' 6-max Seat #4 is the button
+Seat 3: sim5sim5 ($72 in chips)
+Seat 4: Eu sou K ($146.50 in chips)
+Eu sou K: posts small blind $1
+sim5sim5: posts big blind $3
+*** HOLE CARDS ***
+Eu sou K: calls $2
+sim5sim5: raises $3 to $6
+Eu sou K: calls $3
+*** FLOP *** [3c 9d Qs]
+sim5sim5: bets $3
+Eu sou K: calls $3
+*** TURN *** [3c 9d Qs] [Ts]
+sim5sim5: checks
+Eu sou K: bets $6
+sim5sim5: calls $6
+*** RIVER *** [3c 9d Qs Ts] [2c]
+sim5sim5: checks
+Eu sou K: checks
+*** SHOW DOWN ***
+sim5sim5: shows [5d 5h] (a pair of Fives)
+Eu sou K: shows [9c Kh] (a pair of Nines)
+Eu sou K collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3c 9d Qs Ts 2c]
+Seat 3: sim5sim5 (big blind) showed [5d 5h] and lost with a pair of Fives
+Seat 4: Eu sou K (button) (small blind) showed [9c Kh] and won ($29.50) with a pair of Nines
+
+
+PokerStars Hand #171636868513:  Hold'em Limit ($3/$6 USD) - 2017/06/11 11:15:23 ET
+Table 'Alhena' 10-max Seat #4 is the button
+Seat 4: isaliv ($1040.39 in chips)
+Seat 5: simper11 ($127.64 in chips)
+isaliv: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+isaliv: calls $2
+simper11: checks
+*** FLOP *** [Jc 4c 9h]
+simper11: checks
+isaliv: checks
+*** TURN *** [Jc 4c 9h] [Kd]
+simper11: checks
+isaliv: bets $6
+simper11: folds
+Uncalled bet ($6) returned to isaliv
+isaliv collected $5.88 from pot
+isaliv: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Jc 4c 9h Kd]
+Seat 4: isaliv (button) (small blind) collected ($5.88)
+Seat 5: simper11 (big blind) folded on the Turn
+
+
+PokerStars Hand #171636875934:  Hold'em Limit ($3/$6 USD) - 2017/06/11 11:15:34 ET
+Table 'Alhena' 10-max Seat #5 is the button
+Seat 4: isaliv ($1043.27 in chips)
+Seat 5: simper11 ($124.64 in chips)
+simper11: posts small blind $1
+isaliv: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+isaliv: calls $3
+*** FLOP *** [3d 2h 5d]
+isaliv: checks
+simper11: bets $3
+isaliv: calls $3
+*** TURN *** [3d 2h 5d] [7c]
+isaliv: checks
+simper11: bets $6
+isaliv: calls $6
+*** RIVER *** [3d 2h 5d 7c] [3s]
+isaliv: checks
+simper11: bets $6
+isaliv: folds
+Uncalled bet ($6) returned to simper11
+simper11 collected $29.50 from pot
+simper11: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3d 2h 5d 7c 3s]
+Seat 4: isaliv (big blind) folded on the River
+Seat 5: simper11 (button) (small blind) collected ($29.50)
+
+
+PokerStars Hand #171636888467:  Hold'em Limit ($3/$6 USD) - 2017/06/11 11:15:52 ET
+Table 'Alhena' 10-max Seat #4 is the button
+Seat 4: isaliv ($1028.27 in chips)
+Seat 5: simper11 ($139.14 in chips)
+isaliv: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+isaliv: raises $3 to $6
+simper11: calls $3
+*** FLOP *** [9s 3h Ad]
+simper11: checks
+isaliv: bets $3
+simper11: folds
+Uncalled bet ($3) returned to isaliv
+isaliv collected $11.76 from pot
+isaliv: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9s 3h Ad]
+Seat 4: isaliv (button) (small blind) collected ($11.76)
+Seat 5: simper11 (big blind) folded on the Flop
+
+
+PokerStars Hand #171636864788:  Hold'em Limit ($3/$6 USD) - 2017/06/11 11:15:18 ET
+Table 'Alhena' 10-max Seat #5 is the button
+Seat 4: isaliv ($1039.39 in chips)
+Seat 5: simper11 ($128.64 in chips)
+simper11: posts small blind $1
+isaliv: posts big blind $3
+*** HOLE CARDS ***
+simper11: folds
+Uncalled bet ($2) returned to isaliv
+isaliv collected $2 from pot
+isaliv: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: isaliv (big blind) collected ($2)
+Seat 5: simper11 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #171636905504:  Hold'em Limit ($3/$6 USD) - 2017/06/11 11:16:18 ET
+Table 'Alhena' 10-max Seat #4 is the button
+Seat 4: isaliv ($1057.53 in chips)
+Seat 5: simper11 ($120 in chips)
+isaliv: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+isaliv: calls $2
+simper11: checks
+*** FLOP *** [9c Kd As]
+simper11: checks
+isaliv: checks
+*** TURN *** [9c Kd As] [9d]
+simper11: bets $6
+isaliv: calls $6
+*** RIVER *** [9c Kd As 9d] [4h]
+simper11: checks
+isaliv: bets $6
+simper11: folds
+Uncalled bet ($6) returned to isaliv
+isaliv collected $17.64 from pot
+isaliv: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9c Kd As 9d 4h]
+Seat 4: isaliv (button) (small blind) collected ($17.64)
+Seat 5: simper11 (big blind) folded on the River
+
+
+PokerStars Hand #171636894411:  Hold'em Limit ($3/$6 USD) - 2017/06/11 11:16:01 ET
+Table 'Alhena' 10-max Seat #5 is the button
+Seat 4: isaliv ($1034.03 in chips)
+Seat 5: simper11 ($133.14 in chips)
+simper11: posts small blind $1
+isaliv: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+isaliv: raises $3 to $9
+simper11: calls $3
+*** FLOP *** [Jd 9s 8d]
+isaliv: bets $3
+simper11: calls $3
+*** TURN *** [Jd 9s 8d] [6h]
+isaliv: bets $6
+simper11: calls $6
+*** RIVER *** [Jd 9s 8d 6h] [Ad]
+isaliv: bets $6
+masterblstr8 joins the table at seat #6
+simper11: calls $6
+*** SHOW DOWN ***
+isaliv: shows [Qh As] (a pair of Aces)
+simper11: mucks hand
+isaliv collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Jd 9s 8d 6h Ad]
+Seat 4: isaliv (big blind) showed [Qh As] and won ($47.50) with a pair of Aces
+Seat 5: simper11 (button) (small blind) mucked
+
+
+PokerStars Hand #171637042007:  Hold'em Limit ($3/$6 USD) - 2017/06/11 11:19:40 ET
+Table 'Alhena' 10-max Seat #5 is the button
+Seat 5: simper11 ($203 in chips)
+Seat 7: parnishka11 ($111.57 in chips)
+simper11: posts small blind $1
+masterblstr8: is sitting out
+parnishka11: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+parnishka11: calls $3
+*** FLOP *** [6s 2h 7c]
+parnishka11: checks
+simper11: bets $3
+parnishka11: calls $3
+*** TURN *** [6s 2h 7c] [5s]
+parnishka11: checks
+simper11: bets $6
+parnishka11: calls $6
+*** RIVER *** [6s 2h 7c 5s] [Qs]
+parnishka11: checks
+simper11: bets $6
+parnishka11: calls $6
+*** SHOW DOWN ***
+simper11: shows [Jc Js] (a pair of Jacks)
+parnishka11: mucks hand
+simper11 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [6s 2h 7c 5s Qs]
+Seat 5: simper11 (button) (small blind) showed [Jc Js] and won ($41.50) with a pair of Jacks
+Seat 7: parnishka11 (big blind) mucked
+
+
+PokerStars Hand #171637052625:  Hold'em Limit ($3/$6 USD) - 2017/06/11 11:19:55 ET
+Table 'Alhena' 10-max Seat #7 is the button
+Seat 5: simper11 ($223.50 in chips)
+Seat 7: parnishka11 ($90.57 in chips)
+parnishka11: posts small blind $1
+simper11: posts big blind $3
+*** HOLE CARDS ***
+parnishka11: raises $3 to $6
+simper11: calls $3
+*** FLOP *** [Ks 5d 8d]
+simper11: checks
+parnishka11: bets $3
+simper11: calls $3
+*** TURN *** [Ks 5d 8d] [8h]
+simper11: checks
+parnishka11: bets $6
+simper11: calls $6
+*** RIVER *** [Ks 5d 8d 8h] [Ah]
+simper11: checks
+parnishka11: checks
+*** SHOW DOWN ***
+simper11: shows [Kc 4h] (two pair, Kings and Eights)
+parnishka11: shows [Th Kd] (two pair, Kings and Eights)
+simper11 collected $14.75 from pot
+parnishka11 collected $14.75 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ks 5d 8d 8h Ah]
+Seat 5: simper11 (big blind) showed [Kc 4h] and won ($14.75) with two pair, Kings and Eights
+Seat 7: parnishka11 (button) (small blind) showed [Th Kd] and won ($14.75) with two pair, Kings and Eights
+
+
+PokerStars Hand #171637472056:  Hold'em Limit ($3/$6 USD) - 2017/06/11 11:30:24 ET
+Table 'Alhena' 6-max Seat #5 is the button
+Seat 5: MForce007 ($77.72 in chips)
+Seat 6: Apanage ($84.62 in chips)
+MForce007: posts small blind $1
+Apanage: posts big blind $3
+*** HOLE CARDS ***
+MForce007: folds
+Uncalled bet ($2) returned to Apanage
+Apanage collected $2 from pot
+Apanage: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: MForce007 (button) (small blind) folded before Flop
+Seat 6: Apanage (big blind) collected ($2)
+
+

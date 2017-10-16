@@ -1,0 +1,34 @@
+PokerStars Hand #175604571096:  Hold'em Limit ($3/$6 USD) - 2017/09/13 16:36:57 ET
+Table 'Isonoe III' 6-max Seat #5 is the button
+Seat 1: B_loJkl ($146.29 in chips)
+Seat 5: bolbess ($85.85 in chips)
+bolbess: posts small blind $1
+vestimokrec: is sitting out
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+bolbess: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [5c 2c 6d]
+B_loJkl: checks
+bolbess: bets $3
+B_loJkl: raises $3 to $6
+bolbess: calls $3
+*** TURN *** [5c 2c 6d] [9s]
+B_loJkl: bets $6
+bolbess: calls $6
+*** RIVER *** [5c 2c 6d 9s] [As]
+dmonr joins the table at seat #3
+B_loJkl: checks
+bolbess: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+bolbess: shows [Qd 7d] (high card Ace)
+B_loJkl: shows [8s 6h] (a pair of Sixes)
+B_loJkl collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [5c 2c 6d 9s As]
+Seat 1: B_loJkl (big blind) showed [8s 6h] and won ($47.50) with a pair of Sixes
+Seat 5: bolbess (button) (small blind) showed [Qd 7d] and lost with high card Ace
+
+

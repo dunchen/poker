@@ -1,0 +1,82 @@
+PokerStars Hand #175812703522:  Hold'em Limit ($3/$6 USD) - 2017/09/18 13:41:59 ET
+Table 'Whipple' 10-max Seat #5 is the button
+Seat 5: Ag3r0n ($83.52 in chips)
+Seat 10: Touran2006 ($29.56 in chips)
+Ag3r0n: posts small blind $1
+Touran2006: posts big blind $3
+*** HOLE CARDS ***
+Ag3r0n: raises $3 to $6
+Touran2006: calls $3
+*** FLOP *** [3s Ac 7d]
+Touran2006: checks
+Ag3r0n: bets $3
+Touran2006: folds
+Uncalled bet ($3) returned to Ag3r0n
+Ag3r0n collected $11.76 from pot
+Ag3r0n: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3s Ac 7d]
+Seat 5: Ag3r0n (button) (small blind) collected ($11.76)
+Seat 10: Touran2006 (big blind) folded on the Flop
+
+
+PokerStars Hand #175812677835:  Hold'em Limit ($3/$6 USD) - 2017/09/18 13:41:27 ET
+Table 'Whipple' 10-max Seat #10 is the button
+Seat 5: Ag3r0n ($72 in chips)
+Seat 10: Touran2006 ($41.56 in chips)
+Touran2006: posts small blind $1
+Ag3r0n: posts big blind $3
+*** HOLE CARDS ***
+Touran2006: calls $2
+Ag3r0n: checks
+*** FLOP *** [6d 2h 7c]
+Ag3r0n: bets $3
+Touran2006: calls $3
+*** TURN *** [6d 2h 7c] [3s]
+Ag3r0n: bets $6
+Touran2006: calls $6
+*** RIVER *** [6d 2h 7c 3s] [Jc]
+vestimokrec joins the table at seat #1
+Ag3r0n: checks
+Touran2006: checks
+*** SHOW DOWN ***
+Ag3r0n: shows [4c 6s] (a pair of Sixes)
+Touran2006: mucks hand
+Ag3r0n collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [6d 2h 7c 3s Jc]
+Seat 5: Ag3r0n (big blind) showed [4c 6s] and won ($23.52) with a pair of Sixes
+Seat 10: Touran2006 (button) (small blind) mucked
+
+
+PokerStars Hand #175817873163:  Hold'em Limit ($3/$6 USD) - 2017/09/18 15:27:41 ET
+Table 'Whipple' 10-max Seat #7 is the button
+Seat 7: Psynto ($77.34 in chips)
+Seat 9: kachon66 ($120.40 in chips)
+Psynto: posts small blind $1
+kachon66: posts big blind $3
+*** HOLE CARDS ***
+Psynto: raises $3 to $6
+kachon66: calls $3
+*** FLOP *** [Qs 5s Qc]
+kachon66: checks
+Psynto: bets $3
+kachon66: calls $3
+*** TURN *** [Qs 5s Qc] [7d]
+kachon66: checks
+Psynto: checks
+*** RIVER *** [Qs 5s Qc 7d] [5h]
+kachon66: bets $6
+Psynto: folds
+Uncalled bet ($6) returned to kachon66
+kachon66 collected $17.64 from pot
+kachon66: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qs 5s Qc 7d 5h]
+Seat 7: Psynto (button) (small blind) folded on the River
+Seat 9: kachon66 (big blind) collected ($17.64)
+
+

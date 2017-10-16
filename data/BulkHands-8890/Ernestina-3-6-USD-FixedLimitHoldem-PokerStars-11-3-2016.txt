@@ -1,0 +1,30 @@
+PokerStars Hand #160858326584:  Hold'em Limit ($3/$6 USD) - 2016/11/03 18:02:37 ET
+Table 'Ernestina' 10-max Seat #1 is the button
+Seat 1: entucaraweon ($84 in chips)
+Seat 7: VolkovDmitri ($120 in chips)
+entucaraweon: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+entucaraweon: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Ac 4c Js]
+VolkovDmitri: bets $3
+entucaraweon: calls $3
+*** TURN *** [Ac 4c Js] [9c]
+VolkovDmitri: checks
+entucaraweon: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [Ac 4c Js 9c] [4s]
+VolkovDmitri: checks
+entucaraweon: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [9h Qs] (two pair, Nines and Fours)
+entucaraweon: shows [Jh 3d] (two pair, Jacks and Fours)
+entucaraweon collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ac 4c Js 9c 4s]
+Seat 1: entucaraweon (button) (small blind) showed [Jh 3d] and won ($29.50) with two pair, Jacks and Fours
+Seat 7: VolkovDmitri (big blind) showed [9h Qs] and lost with two pair, Nines and Fours
+
+

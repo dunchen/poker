@@ -1,0 +1,124 @@
+PokerStars Hand #153335822230:  Hold'em Limit ($3/$6 USD) - 2016/05/15 4:41:58 ET
+Table 'Thalpius' 10-max Seat #6 is the button
+Seat 6: asjrxxx888 ($9 in chips)
+Seat 10: MTails ($158.26 in chips)
+asjrxxx888: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+asjrxxx888: raises $3 to $6
+MTails: raises $3 to $9
+asjrxxx888: calls $3 and is all-in
+*** FLOP *** [3s Qc 2h]
+*** TURN *** [3s Qc 2h] [7c]
+*** RIVER *** [3s Qc 2h 7c] [As]
+*** SHOW DOWN ***
+MTails: shows [5d 8c] (high card Ace)
+asjrxxx888: shows [Ad Kh] (a pair of Aces)
+asjrxxx888 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3s Qc 2h 7c As]
+Seat 6: asjrxxx888 (button) (small blind) showed [Ad Kh] and won ($17.64) with a pair of Aces
+Seat 10: MTails (big blind) showed [5d 8c] and lost with high card Ace
+
+
+PokerStars Hand #153335813219:  Hold'em Limit ($3/$6 USD) - 2016/05/15 4:41:34 ET
+Table 'Thalpius' 10-max Seat #10 is the button
+Seat 6: asjrxxx888 ($39 in chips)
+Seat 10: MTails ($128.76 in chips)
+MTails: posts small blind $1
+asjrxxx888: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+asjrxxx888: raises $3 to $9
+MTails: calls $3
+*** FLOP *** [Ad 9c 8d]
+asjrxxx888: bets $3
+MTails: calls $3
+*** TURN *** [Ad 9c 8d] [7s]
+asjrxxx888: bets $6
+MTails: raises $6 to $12
+asjrxxx888: calls $6
+*** RIVER *** [Ad 9c 8d 7s] [3d]
+asjrxxx888: checks
+MTails: bets $6
+asjrxxx888: calls $6
+*** SHOW DOWN ***
+MTails: shows [9s As] (two pair, Aces and Nines)
+asjrxxx888: mucks hand
+MTails collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Ad 9c 8d 7s 3d]
+Seat 6: asjrxxx888 (big blind) mucked
+Seat 10: MTails (button) (small blind) showed [9s As] and won ($59.50) with two pair, Aces and Nines
+
+
+PokerStars Hand #153335808548:  Hold'em Limit ($3/$6 USD) - 2016/05/15 4:41:22 ET
+Table 'Thalpius' 10-max Seat #6 is the button
+Seat 6: asjrxxx888 ($45 in chips)
+Seat 10: MTails ($123 in chips)
+asjrxxx888: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+asjrxxx888: calls $2
+MTails: raises $3 to $6
+asjrxxx888: calls $3
+*** FLOP *** [6d 7s Ks]
+MTails: bets $3
+asjrxxx888: folds
+Uncalled bet ($3) returned to MTails
+MTails collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6d 7s Ks]
+Seat 6: asjrxxx888 (button) (small blind) folded on the Flop
+Seat 10: MTails (big blind) collected ($11.76)
+
+
+PokerStars Hand #153335804105:  Hold'em Limit ($3/$6 USD) - 2016/05/15 4:41:10 ET
+Table 'Thalpius' 10-max Seat #10 is the button
+Seat 6: asjrxxx888 ($48 in chips)
+Seat 10: MTails ($120 in chips)
+MTails: posts small blind $1
+asjrxxx888: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+asjrxxx888: folds
+Uncalled bet ($3) returned to MTails
+MTails collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 6: asjrxxx888 (big blind) folded before Flop
+Seat 10: MTails (button) (small blind) collected ($6)
+
+
+PokerStars Hand #153335827840:  Hold'em Limit ($3/$6 USD) - 2016/05/15 4:42:13 ET
+Table 'Thalpius' 10-max Seat #10 is the button
+Seat 6: asjrxxx888 ($17.64 in chips)
+Seat 10: MTails ($149.26 in chips)
+MTails: posts small blind $1
+asjrxxx888: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+asjrxxx888: calls $3
+*** FLOP *** [9c 5s 2h]
+asjrxxx888: bets $3
+MTails: calls $3
+*** TURN *** [9c 5s 2h] [4s]
+asjrxxx888: bets $6
+MTails: calls $6
+*** RIVER *** [9c 5s 2h 4s] [Tc]
+asjrxxx888: bets $2.64 and is all-in
+MTails: calls $2.64
+*** SHOW DOWN ***
+asjrxxx888: shows [8c Qh] (high card Queen)
+MTails: shows [8d Ts] (a pair of Tens)
+MTails collected $34.78 from pot
+*** SUMMARY ***
+Total pot $35.28 | Rake $0.50
+Board [9c 5s 2h 4s Tc]
+Seat 6: asjrxxx888 (big blind) showed [8c Qh] and lost with high card Queen
+Seat 10: MTails (button) (small blind) showed [8d Ts] and won ($34.78) with a pair of Tens
+
+

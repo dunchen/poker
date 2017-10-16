@@ -1,0 +1,53 @@
+PokerStars Hand #151406311567:  Hold'em Limit ($3/$6 USD) - 2016/04/04 3:29:50 ET
+Table 'Hatshepsut II' 6-max Seat #3 is the button
+Seat 3: PssyDuck ($45.45 in chips)
+Seat 4: Agrotait ($72 in chips)
+PssyDuck: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+PssyDuck: raises $3 to $6
+Agrotait: calls $3
+*** FLOP *** [5c 6h 8s]
+VolkovDmitri joins the table at seat #5
+Agrotait: checks
+PssyDuck: bets $3
+Agrotait: raises $3 to $6
+PssyDuck: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $17.64 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5c 6h 8s]
+Seat 3: PssyDuck (button) (small blind) folded on the Flop
+Seat 4: Agrotait (big blind) collected ($17.64)
+
+
+PokerStars Hand #151406385781:  Hold'em Limit ($3/$6 USD) - 2016/04/04 3:34:07 ET
+Table 'Hatshepsut II' 6-max Seat #4 is the button
+Seat 3: PssyDuck ($9.71 in chips)
+Seat 4: Agrotait ($89.71 in chips)
+Agrotait: posts small blind $1
+PssyDuck: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+PssyDuck: raises $3 to $9
+Agrotait: raises $3 to $12
+Betting is capped
+PssyDuck: calls $0.71 and is all-in
+Uncalled bet ($2.29) returned to Agrotait
+*** FLOP *** [3d 8c 4d]
+*** TURN *** [3d 8c 4d] [Tc]
+*** RIVER *** [3d 8c 4d Tc] [2c]
+*** SHOW DOWN ***
+PssyDuck: shows [9d 4s] (a pair of Fours)
+Agrotait: shows [Jh Jc] (a pair of Jacks)
+Agrotait collected $19.03 from pot
+PssyDuck leaves the table
+*** SUMMARY ***
+Total pot $19.42 | Rake $0.39
+Board [3d 8c 4d Tc 2c]
+Seat 3: PssyDuck (big blind) showed [9d 4s] and lost with a pair of Fours
+Seat 4: Agrotait (button) (small blind) showed [Jh Jc] and won ($19.03) with a pair of Jacks
+
+

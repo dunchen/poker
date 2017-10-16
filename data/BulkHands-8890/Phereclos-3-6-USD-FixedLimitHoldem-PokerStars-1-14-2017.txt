@@ -1,0 +1,75 @@
+PokerStars Hand #164556943096:  Hold'em Limit ($3/$6 USD) - 2017/01/14 9:18:56 ET
+Table 'Phereclos' 6-max Seat #4 is the button
+Seat 4: Agrotait ($73 in chips)
+Seat 6: nordschrott ($53 in chips)
+Agrotait: posts small blind $1
+nordschrott: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+nordschrott: calls $3
+*** FLOP *** [3h Qh 6h]
+manly70 joins the table at seat #3
+nordschrott: checks
+Agrotait: bets $3
+nordschrott: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $11.76 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3h Qh 6h]
+Seat 4: Agrotait (button) (small blind) collected ($11.76)
+Seat 6: nordschrott (big blind) folded on the Flop
+
+
+PokerStars Hand #164556932644:  Hold'em Limit ($3/$6 USD) - 2017/01/14 9:18:42 ET
+Table 'Phereclos' 6-max Seat #6 is the button
+Seat 4: Agrotait ($72 in chips)
+Seat 6: nordschrott ($54 in chips)
+nordschrott: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper joins the table at seat #1
+nordschrott: folds
+Uncalled bet ($2) returned to Agrotait
+Agrotait collected $2 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: Agrotait (big blind) collected ($2)
+Seat 6: nordschrott (button) (small blind) folded before Flop
+
+
+PokerStars Hand #164561420474:  Hold'em Limit ($3/$6 USD) - 2017/01/14 10:55:34 ET
+Table 'Phereclos' 6-max Seat #2 is the button
+Seat 1: HAL9QQQ ($124.05 in chips)
+Seat 2: sinsadir ($214.07 in chips)
+sinsadir: posts small blind $1
+HAL9QQQ: posts big blind $3
+*** HOLE CARDS ***
+Agrotait leaves the table
+sinsadir: raises $3 to $6
+HAL9QQQ: calls $3
+*** FLOP *** [4s Js Qs]
+HAL9QQQ: checks
+sinsadir: bets $3
+HAL9QQQ: calls $3
+*** TURN *** [4s Js Qs] [9d]
+HAL9QQQ: checks
+sinsadir: bets $6
+HAL9QQQ: calls $6
+*** RIVER *** [4s Js Qs 9d] [Ts]
+HAL9QQQ: checks
+sinsadir: bets $6
+HAL9QQQ: calls $6
+*** SHOW DOWN ***
+sinsadir: shows [As 4c] (a flush, Ace high)
+HAL9QQQ: mucks hand
+sinsadir collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [4s Js Qs 9d Ts]
+Seat 1: HAL9QQQ (big blind) mucked
+Seat 2: sinsadir (button) (small blind) showed [As 4c] and won ($41.50) with a flush, Ace high
+
+

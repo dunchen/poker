@@ -1,0 +1,84 @@
+PokerStars Hand #150885656165:  Hold'em Limit ($3/$6 USD) - 2016/03/24 23:03:13 ET
+Table 'Irma' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($146.50 in chips)
+Seat 6: vanhetpadje ($5.05 in chips)
+VolkovDmitri: posts small blind $1
+vanhetpadje: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+vanhetpadje: calls $2.05 and is all-in
+Uncalled bet ($0.95) returned to VolkovDmitri
+*** FLOP *** [3c 4h 2h]
+*** TURN *** [3c 4h 2h] [Td]
+*** RIVER *** [3c 4h 2h Td] [5s]
+*** SHOW DOWN ***
+vanhetpadje: shows [Ad Ts] (a straight, Ace to Five)
+VolkovDmitri: shows [8s Qh] (high card Queen)
+vanhetpadje collected $9.90 from pot
+*** SUMMARY ***
+Total pot $10.10 | Rake $0.20
+Board [3c 4h 2h Td 5s]
+Seat 4: VolkovDmitri (button) (small blind) showed [8s Qh] and lost with high card Queen
+Seat 6: vanhetpadje (big blind) showed [Ad Ts] and won ($9.90) with a straight, Ace to Five
+
+
+PokerStars Hand #150885639158:  Hold'em Limit ($3/$6 USD) - 2016/03/24 23:02:29 ET
+Table 'Irma' 6-max Seat #6 is the button
+Seat 4: VolkovDmitri ($120 in chips)
+Seat 6: vanhetpadje ($32.05 in chips)
+vanhetpadje: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+vanhetpadje: raises $3 to $6
+GoliafUa leaves the table
+VolkovDmitri: raises $3 to $9
+vanhetpadje: raises $3 to $12
+Betting is capped
+VolkovDmitri: calls $3
+*** FLOP *** [3d 9h Td]
+VolkovDmitri: bets $3
+vanhetpadje: calls $3
+*** TURN *** [3d 9h Td] [2c]
+VolkovDmitri: bets $6
+vanhetpadje: calls $6
+*** RIVER *** [3d 9h Td 2c] [4d]
+VolkovDmitri: checks
+vanhetpadje: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+vanhetpadje: shows [7h Ad] (high card Ace)
+VolkovDmitri: shows [Qd Ah] (high card Ace - Queen kicker)
+VolkovDmitri collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [3d 9h Td 2c 4d]
+Seat 4: VolkovDmitri (big blind) showed [Qd Ah] and won ($53.50) with high card Ace
+Seat 6: vanhetpadje (button) (small blind) showed [7h Ad] and lost with high card Ace
+
+
+PokerStars Hand #150885666136:  Hold'em Limit ($3/$6 USD) - 2016/03/24 23:03:38 ET
+Table 'Irma' 6-max Seat #6 is the button
+Seat 4: VolkovDmitri ($141.45 in chips)
+Seat 6: vanhetpadje ($9.90 in chips)
+vanhetpadje: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+vanhetpadje: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Kc 5d 8s]
+VolkovDmitri: bets $3
+vanhetpadje: raises $0.90 to $3.90 and is all-in
+VolkovDmitri: calls $0.90
+*** TURN *** [Kc 5d 8s] [6h]
+*** RIVER *** [Kc 5d 8s 6h] [Qc]
+*** SHOW DOWN ***
+VolkovDmitri: shows [4h 7h] (a straight, Four to Eight)
+vanhetpadje: shows [Ah Th] (high card Ace)
+VolkovDmitri collected $19.40 from pot
+*** SUMMARY ***
+Total pot $19.80 | Rake $0.40
+Board [Kc 5d 8s 6h Qc]
+Seat 4: VolkovDmitri (big blind) showed [4h 7h] and won ($19.40) with a straight, Four to Eight
+Seat 6: vanhetpadje (button) (small blind) showed [Ah Th] and lost with high card Ace
+
+

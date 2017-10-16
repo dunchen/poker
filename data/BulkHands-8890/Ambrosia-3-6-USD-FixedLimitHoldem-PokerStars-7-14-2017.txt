@@ -1,0 +1,56 @@
+PokerStars Hand #173008078201:  Hold'em Limit ($3/$6 USD) - 2017/07/14 2:23:44 ET
+Table 'Ambrosia' 6-max Seat #2 is the button
+Seat 1: Azrarn ($117.92 in chips)
+Seat 2: krytalex ($72 in chips)
+krytalex: posts small blind $1
+a.v.kopli: is sitting out
+Azrarn: posts big blind $3
+*** HOLE CARDS ***
+a.v.kopli leaves the table
+krytalex: raises $3 to $6
+Azrarn: calls $3
+*** FLOP *** [5h 3h 2s]
+Azrarn: checks
+krytalex: bets $3
+Azrarn: raises $3 to $6
+krytalex: calls $3
+*** TURN *** [5h 3h 2s] [Qh]
+Azrarn: bets $6
+krytalex: calls $6
+*** RIVER *** [5h 3h 2s Qh] [7s]
+Azrarn: bets $6
+krytalex: folds
+Uncalled bet ($6) returned to Azrarn
+Azrarn collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5h 3h 2s Qh 7s]
+Seat 1: Azrarn (big blind) collected ($35.50)
+Seat 2: krytalex (button) (small blind) folded on the River
+
+
+PokerStars Hand #173008093719:  Hold'em Limit ($3/$6 USD) - 2017/07/14 2:24:47 ET
+Table 'Ambrosia' 6-max Seat #1 is the button
+Seat 1: Azrarn ($135.42 in chips)
+Seat 2: krytalex ($72 in chips)
+Azrarn: posts small blind $1
+krytalex: posts big blind $3
+*** HOLE CARDS ***
+Azrarn: raises $3 to $6
+krytalex: raises $3 to $9
+Azrarn: calls $3
+*** FLOP *** [5h 8c Jh]
+krytalex: bets $3
+Azrarn: calls $3
+*** TURN *** [5h 8c Jh] [Js]
+krytalex: bets $6
+Azrarn: folds
+Uncalled bet ($6) returned to krytalex
+krytalex collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [5h 8c Jh Js]
+Seat 1: Azrarn (button) (small blind) folded on the Turn
+Seat 2: krytalex (big blind) collected ($23.52)
+
+

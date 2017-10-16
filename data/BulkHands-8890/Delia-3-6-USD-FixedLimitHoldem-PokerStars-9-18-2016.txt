@@ -1,0 +1,69 @@
+PokerStars Hand #158755845187:  Hold'em Limit ($3/$6 USD) - 2016/09/18 5:28:17 ET
+Table 'Delia' 10-max Seat #1 is the button
+Seat 1: AllanW ($30 in chips)
+Seat 7: VolkovDmitri ($120 in chips)
+AllanW: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+AllanW: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+AllanW: calls $3
+*** FLOP *** [Ks Js Tc]
+VolkovDmitri: bets $3
+AllanW: calls $3
+*** TURN *** [Ks Js Tc] [Qc]
+VolkovDmitri: bets $6
+AllanW: calls $6
+*** RIVER *** [Ks Js Tc Qc] [8d]
+VolkovDmitri: bets $6
+AllanW: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $35.50 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Ks Js Tc Qc 8d]
+Seat 1: AllanW (button) (small blind) folded on the River
+Seat 7: VolkovDmitri (big blind) collected ($35.50)
+
+
+PokerStars Hand #158755892832:  Hold'em Limit ($3/$6 USD) - 2016/09/18 5:30:11 ET
+Table 'Delia' 10-max Seat #7 is the button
+Seat 1: AllanW ($12 in chips)
+Seat 7: VolkovDmitri ($137.50 in chips)
+VolkovDmitri: posts small blind $1
+AllanW: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: folds
+Uncalled bet ($2) returned to AllanW
+AllanW collected $2 from pot
+AllanW: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: AllanW (big blind) collected ($2)
+Seat 7: VolkovDmitri (button) (small blind) folded before Flop
+
+
+PokerStars Hand #158757908519:  Hold'em Limit ($3/$6 USD) - 2016/09/18 6:47:27 ET
+Table 'Delia' 10-max Seat #7 is the button
+Seat 7: VolkovDmitri ($143.50 in chips)
+Seat 9: AllanW ($6 in chips)
+VolkovDmitri: posts small blind $1
+AllanW: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+AllanW: calls $3 and is all-in
+*** FLOP *** [6h 9c Kd]
+*** TURN *** [6h 9c Kd] [Th]
+*** RIVER *** [6h 9c Kd Th] [5d]
+*** SHOW DOWN ***
+AllanW: shows [3s 6d] (a pair of Sixes)
+VolkovDmitri: shows [Ts 5c] (two pair, Tens and Fives)
+VolkovDmitri collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6h 9c Kd Th 5d]
+Seat 7: VolkovDmitri (button) (small blind) showed [Ts 5c] and won ($11.76) with two pair, Tens and Fives
+Seat 9: AllanW (big blind) showed [3s 6d] and lost with a pair of Sixes
+
+

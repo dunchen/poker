@@ -1,0 +1,62 @@
+PokerStars Hand #164971583999:  Hold'em Limit ($3/$6 USD) - 2017/01/22 2:02:28 ET
+Table 'Trinculo' 6-max Seat #4 is the button
+Seat 2: dakota6767 ($143.50 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+dakota6767: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+dakota6767: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [Jc Qs Ac]
+dakota6767: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [Jc Qs Ac] [Jh]
+dakota6767: checks
+VolkovDmitri: checks
+*** RIVER *** [Jc Qs Ac Jh] [9d]
+dakota6767: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+dakota6767: shows [Qh 8h] (two pair, Queens and Jacks)
+VolkovDmitri: mucks hand
+dakota6767 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Jc Qs Ac Jh 9d]
+Seat 2: dakota6767 (big blind) showed [Qh 8h] and won ($23.52) with two pair, Queens and Jacks
+Seat 4: VolkovDmitri (button) (small blind) mucked
+
+
+PokerStars Hand #164971577117:  Hold'em Limit ($3/$6 USD) - 2017/01/22 2:02:04 ET
+Table 'Trinculo' 6-max Seat #2 is the button
+Seat 2: dakota6767 ($120 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+dakota6767: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+dakota6767: raises $3 to $6
+AzureCaper joins the table at seat #3
+VolkovDmitri: calls $3
+*** FLOP *** [5d 5c 4s]
+VolkovDmitri: checks
+dakota6767: bets $3
+VolkovDmitri: raises $3 to $6
+dakota6767: calls $3
+*** TURN *** [5d 5c 4s] [6s]
+VolkovDmitri: bets $6
+dakota6767: calls $6
+*** RIVER *** [5d 5c 4s 6s] [9s]
+VolkovDmitri: bets $6
+dakota6767: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [8d 9h] (two pair, Nines and Fives)
+dakota6767: shows [9c Jd] (two pair, Nines and Fives - Jack kicker)
+dakota6767 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [5d 5c 4s 6s 9s]
+Seat 2: dakota6767 (button) (small blind) showed [9c Jd] and won ($47.50) with two pair, Nines and Fives
+Seat 4: VolkovDmitri (big blind) showed [8d 9h] and lost with two pair, Nines and Fives
+
+

@@ -1,0 +1,51 @@
+PokerStars Hand #154172735643:  Hold'em Limit ($3/$6 USD) - 2016/06/02 3:00:07 ET
+Table 'Aetolia' 6-max Seat #4 is the button
+Seat 2: abatic ($78.45 in chips)
+Seat 4: iskambil ($70.93 in chips)
+iskambil: posts small blind $1
+anetkaapro: is sitting out
+abatic: posts big blind $3
+*** HOLE CARDS ***
+iskambil: raises $3 to $6
+abatic: calls $3
+*** FLOP *** [2c 7d 9h]
+abatic: checks
+iskambil: bets $3
+abatic: raises $3 to $6
+iskambil: calls $3
+*** TURN *** [2c 7d 9h] [3s]
+abatic: bets $6
+iskambil: folds
+Uncalled bet ($6) returned to abatic
+abatic collected $23.52 from pot
+abatic: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [2c 7d 9h 3s]
+Seat 2: abatic (big blind) collected ($23.52)
+Seat 4: iskambil (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #154172743760:  Hold'em Limit ($3/$6 USD) - 2016/06/02 3:00:39 ET
+Table 'Aetolia' 6-max Seat #2 is the button
+Seat 2: abatic ($89.97 in chips)
+Seat 4: iskambil ($58.93 in chips)
+abatic: posts small blind $1
+iskambil: posts big blind $3
+*** HOLE CARDS ***
+abatic: raises $3 to $6
+iskambil: calls $3
+*** FLOP *** [5s Ad 7s]
+iskambil: checks
+abatic: bets $3
+iskambil: raises $3 to $6
+abatic: folds
+Uncalled bet ($3) returned to iskambil
+iskambil collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5s Ad 7s]
+Seat 2: abatic (button) (small blind) folded on the Flop
+Seat 4: iskambil (big blind) collected ($17.64)
+
+

@@ -1,0 +1,67 @@
+PokerStars Hand #148594319500:  Hold'em Limit ($3/$6 USD) - 2016/02/10 20:41:11 ET
+Table 'Melusina' 2-max Seat #2 is the button
+Seat 1: bterozo ($60 in chips)
+Seat 2: gytaraz ($54.13 in chips)
+gytaraz: posts small blind $1
+bterozo: posts big blind $3
+*** HOLE CARDS ***
+gytaraz: raises $3 to $6
+bterozo: raises $3 to $9
+gytaraz: raises $3 to $12
+Betting is capped
+bterozo: calls $3
+*** FLOP *** [Ts 9d Kh]
+bterozo: bets $3
+gytaraz: raises $3 to $6
+bterozo: calls $3
+*** TURN *** [Ts 9d Kh] [3h]
+bterozo: bets $6
+gytaraz: raises $6 to $12
+bterozo: calls $6
+*** RIVER *** [Ts 9d Kh 3h] [8h]
+bterozo: bets $6
+gytaraz: raises $6 to $12
+bterozo: folds
+Uncalled bet ($6) returned to gytaraz
+gytaraz collected $71.50 from pot
+gytaraz: doesn't show hand
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [Ts 9d Kh 3h 8h]
+Seat 1: bterozo (big blind) folded on the River
+Seat 2: gytaraz (button) (small blind) collected ($71.50)
+
+
+PokerStars Hand #148594330526:  Hold'em Limit ($3/$6 USD) - 2016/02/10 20:41:33 ET
+Table 'Melusina' 2-max Seat #1 is the button
+Seat 1: bterozo ($24 in chips)
+Seat 2: gytaraz ($89.63 in chips)
+bterozo: posts small blind $1
+gytaraz: posts big blind $3
+*** HOLE CARDS ***
+bterozo: raises $3 to $6
+gytaraz: raises $3 to $9
+bterozo: raises $3 to $12
+Betting is capped
+gytaraz: calls $3
+*** FLOP *** [Th 3d 4c]
+gytaraz: bets $3
+bterozo: calls $3
+*** TURN *** [Th 3d 4c] [7d]
+gytaraz: bets $6
+bterozo: calls $6
+*** RIVER *** [Th 3d 4c 7d] [Jd]
+gytaraz: bets $6
+bterozo: calls $3 and is all-in
+Uncalled bet ($3) returned to gytaraz
+*** SHOW DOWN ***
+gytaraz: shows [5c Ah] (high card Ace)
+bterozo: shows [8c Kh] (high card King)
+gytaraz collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Th 3d 4c 7d Jd]
+Seat 1: bterozo (button) (small blind) showed [8c Kh] and lost with high card King
+Seat 2: gytaraz (big blind) showed [5c Ah] and won ($47.50) with high card Ace
+
+

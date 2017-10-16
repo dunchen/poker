@@ -1,0 +1,90 @@
+PokerStars Hand #152855620984:  Hold'em Limit ($3/$6 USD) - 2016/05/04 16:09:37 ET
+Table 'Diomedes' 6-max Seat #3 is the button
+Seat 3: Heinzli007 ($100.69 in chips)
+Seat 5: TinaTurner72 ($120 in chips)
+Heinzli007: posts small blind $1
+TinaTurner72: posts big blind $3
+*** HOLE CARDS ***
+Heinzli007: calls $2
+TinaTurner72: raises $3 to $6
+Heinzli007: calls $3
+*** FLOP *** [Qc Ts 5h]
+TinaTurner72: bets $3
+Heinzli007: raises $3 to $6
+TinaTurner72: raises $3 to $9
+Heinzli007: calls $3
+*** TURN *** [Qc Ts 5h] [Td]
+TinaTurner72: bets $6
+RowntreWilly joins the table at seat #2
+Heinzli007: folds
+Uncalled bet ($6) returned to TinaTurner72
+TinaTurner72 collected $29.50 from pot
+TinaTurner72: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qc Ts 5h Td]
+Seat 3: Heinzli007 (button) (small blind) folded on the Turn
+Seat 5: TinaTurner72 (big blind) collected ($29.50)
+
+
+PokerStars Hand #152858234620:  Hold'em Limit ($3/$6 USD) - 2016/05/04 17:03:11 ET
+Table 'Diomedes' 6-max Seat #6 is the button
+Seat 4: adrian.bigu ($81.50 in chips)
+Seat 6: belik555 ($95.01 in chips)
+belik555: posts small blind $1
+adrian.bigu: posts big blind $3
+*** HOLE CARDS ***
+belik555: raises $3 to $6
+adrian.bigu: raises $3 to $9
+GRAILKO joins the table at seat #5
+belik555: calls $3
+*** FLOP *** [3h Qd 7d]
+adrian.bigu: bets $3
+belik555: calls $3
+*** TURN *** [3h Qd 7d] [Kd]
+adrian.bigu: bets $6
+belik555: folds
+Uncalled bet ($6) returned to adrian.bigu
+adrian.bigu collected $23.52 from pot
+adrian.bigu: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [3h Qd 7d Kd]
+Seat 4: adrian.bigu (big blind) collected ($23.52)
+Seat 6: belik555 (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #152858206839:  Hold'em Limit ($3/$6 USD) - 2016/05/04 17:02:47 ET
+Table 'Diomedes' 6-max Seat #6 is the button
+Seat 4: adrian.bigu ($56 in chips)
+Seat 6: belik555 ($121.01 in chips)
+belik555: posts small blind $1
+GRAILKO: is sitting out
+adrian.bigu: posts big blind $3
+*** HOLE CARDS ***
+belik555: raises $3 to $6
+GRAILKO leaves the table
+adrian.bigu: calls $3
+*** FLOP *** [Kd Jd 2s]
+adrian.bigu: checks
+belik555: bets $3
+adrian.bigu: calls $3
+*** TURN *** [Kd Jd 2s] [6c]
+adrian.bigu: checks
+belik555: bets $6
+adrian.bigu: raises $6 to $12
+belik555: calls $6
+*** RIVER *** [Kd Jd 2s 6c] [Jc]
+adrian.bigu: bets $6
+belik555: calls $6
+*** SHOW DOWN ***
+adrian.bigu: shows [Js 7h] (three of a kind, Jacks)
+belik555: mucks hand
+adrian.bigu collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Kd Jd 2s 6c Jc]
+Seat 4: adrian.bigu (big blind) showed [Js 7h] and won ($53.50) with three of a kind, Jacks
+Seat 6: belik555 (button) (small blind) mucked
+
+

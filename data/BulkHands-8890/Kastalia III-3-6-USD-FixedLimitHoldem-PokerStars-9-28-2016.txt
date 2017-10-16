@@ -1,0 +1,57 @@
+PokerStars Hand #159203854327:  Hold'em Limit ($3/$6 USD) - 2016/09/28 10:37:27 ET
+Table 'Kastalia III' 6-max Seat #3 is the button
+Seat 3: BranzanM ($354.89 in chips)
+Seat 4: AzureCaper ($72 in chips)
+BranzanM: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+BranzanM: calls $2
+AzureCaper: checks
+*** FLOP *** [8c Ac Ah]
+AzureCaper: checks
+BranzanM: bets $3
+AzureCaper: folds
+Uncalled bet ($3) returned to BranzanM
+BranzanM collected $5.88 from pot
+Psynto joins the table at seat #5
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [8c Ac Ah]
+Seat 3: BranzanM (button) (small blind) collected ($5.88)
+Seat 4: AzureCaper (big blind) folded on the Flop
+
+
+PokerStars Hand #159204473703:  Hold'em Limit ($3/$6 USD) - 2016/09/28 10:54:54 ET
+Table 'Kastalia III' 6-max Seat #5 is the button
+Seat 4: AzureCaper ($90.39 in chips)
+Seat 5: Psynto ($182.12 in chips)
+Psynto: posts small blind $1
+BranzanM: is sitting out
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+Psynto: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [Jd 3d 9d]
+BranzanM leaves the table
+AzureCaper: checks
+Psynto: bets $3
+AzureCaper: calls $3
+*** TURN *** [Jd 3d 9d] [8d]
+AzureCaper: checks
+Psynto: bets $6
+AzureCaper: calls $6
+*** RIVER *** [Jd 3d 9d 8d] [Ac]
+AzureCaper: checks
+Psynto: bets $6
+AzureCaper: calls $6
+*** SHOW DOWN ***
+Psynto: shows [Qs 7s] (high card Ace)
+AzureCaper: shows [Kc Td] (a flush, Jack high)
+AzureCaper collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Jd 3d 9d 8d Ac]
+Seat 4: AzureCaper (big blind) showed [Kc Td] and won ($41.50) with a flush, Jack high
+Seat 5: Psynto (button) (small blind) showed [Qs 7s] and lost with high card Ace
+
+

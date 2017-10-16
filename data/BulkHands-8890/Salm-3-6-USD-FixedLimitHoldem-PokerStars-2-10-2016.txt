@@ -1,0 +1,78 @@
+PokerStars Hand #148551750476:  Hold'em Limit ($3/$6 USD) - 2016/02/10 6:45:56 ET
+Table 'Salm' 6-max Seat #2 is the button
+Seat 2: BelSv ($94.14 in chips)
+Seat 5: HAL9QQQ ($152.39 in chips)
+BelSv: posts small blind $1
+HAL9QQQ: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+HAL9QQQ: calls $3
+*** FLOP *** [4c 7d Td]
+HAL9QQQ: checks
+BelSv: checks
+*** TURN *** [4c 7d Td] [9h]
+HAL9QQQ: bets $6
+BelSv: folds
+Uncalled bet ($6) returned to HAL9QQQ
+HAL9QQQ collected $11.76 from pot
+HAL9QQQ: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4c 7d Td 9h]
+Seat 2: BelSv (button) (small blind) folded on the Turn
+Seat 5: HAL9QQQ (big blind) collected ($11.76)
+
+
+PokerStars Hand #148551731660:  Hold'em Limit ($3/$6 USD) - 2016/02/10 6:45:23 ET
+Table 'Salm' 6-max Seat #5 is the button
+Seat 2: BelSv ($79.64 in chips)
+Seat 5: HAL9QQQ ($167.39 in chips)
+HAL9QQQ: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+HAL9QQQ: raises $3 to $6
+BelSv: calls $3
+*** FLOP *** [Kc 7s Qh]
+BelSv: checks
+HAL9QQQ: bets $3
+BelSv: calls $3
+*** TURN *** [Kc 7s Qh] [8c]
+BelSv: checks
+HAL9QQQ: checks
+*** RIVER *** [Kc 7s Qh 8c] [Qc]
+BelSv: bets $6
+HAL9QQQ: calls $6
+*** SHOW DOWN ***
+BelSv: shows [Qs 2s] (three of a kind, Queens)
+HAL9QQQ: mucks hand
+BelSv collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kc 7s Qh 8c Qc]
+Seat 2: BelSv (big blind) showed [Qs 2s] and won ($29.50) with three of a kind, Queens
+Seat 5: HAL9QQQ (button) (small blind) mucked
+
+
+PokerStars Hand #148551785355:  Hold'em Limit ($3/$6 USD) - 2016/02/10 6:46:57 ET
+Table 'Salm' 6-max Seat #5 is the button
+Seat 2: BelSv ($88.14 in chips)
+Seat 5: HAL9QQQ ($192.15 in chips)
+HAL9QQQ: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+HAL9QQQ: raises $3 to $6
+BelSv: calls $3
+*** FLOP *** [5s 2d 8c]
+BelSv: checks
+HAL9QQQ: bets $3
+BelSv: folds
+Uncalled bet ($3) returned to HAL9QQQ
+HAL9QQQ collected $11.76 from pot
+HAL9QQQ: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5s 2d 8c]
+Seat 2: BelSv (big blind) folded on the Flop
+Seat 5: HAL9QQQ (button) (small blind) collected ($11.76)
+
+

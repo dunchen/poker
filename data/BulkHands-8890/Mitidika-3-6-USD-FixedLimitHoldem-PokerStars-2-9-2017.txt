@@ -1,0 +1,32 @@
+PokerStars Hand #165929654848:  Hold'em Limit ($3/$6 USD) - 2017/02/09 8:16:10 ET
+Table 'Mitidika' 6-max Seat #6 is the button
+Seat 5: belik555 ($90 in chips)
+Seat 6: NoVebra ($266.88 in chips)
+NoVebra: posts small blind $1
+belik555: posts big blind $3
+*** HOLE CARDS ***
+NoVebra: raises $3 to $6
+belik555: raises $3 to $9
+NoVebra: calls $3
+*** FLOP *** [Js 2c 9d]
+belik555: bets $3
+NoVebra: raises $3 to $6
+belik555: calls $3
+*** TURN *** [Js 2c 9d] [Td]
+belik555: checks
+NoVebra: bets $6
+belik555: calls $6
+*** RIVER *** [Js 2c 9d Td] [As]
+belik555: bets $6
+NoVebra: calls $6
+*** SHOW DOWN ***
+belik555: shows [Ah Ts] (two pair, Aces and Tens)
+NoVebra: mucks hand
+belik555 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Js 2c 9d Td As]
+Seat 5: belik555 (big blind) showed [Ah Ts] and won ($53.50) with two pair, Aces and Tens
+Seat 6: NoVebra (button) (small blind) mucked
+
+

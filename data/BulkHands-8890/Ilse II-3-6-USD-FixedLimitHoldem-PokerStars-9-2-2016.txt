@@ -1,0 +1,61 @@
+PokerStars Hand #158078298469:  Hold'em Limit ($3/$6 USD) - 2016/09/02 17:53:31 ET
+Table 'Ilse II' 6-max Seat #6 is the button
+Seat 5: Actionni13 ($155.76 in chips)
+Seat 6: anebodil ($84 in chips)
+anebodil: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+anebodil: calls $2
+Actionni13: checks
+*** FLOP *** [9d Qh Qs]
+ToDaFelt joins the table at seat #1
+Actionni13: bets $3
+anebodil: calls $3
+*** TURN *** [9d Qh Qs] [Ad]
+Actionni13: checks
+anebodil: checks
+*** RIVER *** [9d Qh Qs Ad] [9h]
+Actionni13: bets $6
+anebodil: calls $6
+*** SHOW DOWN ***
+Actionni13: shows [9s 7s] (a full house, Nines full of Queens)
+anebodil: mucks hand
+Actionni13 collected $23.52 from pot
+vestimokrec joins the table at seat #2
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [9d Qh Qs Ad 9h]
+Seat 5: Actionni13 (big blind) showed [9s 7s] and won ($23.52) with a full house, Nines full of Queens
+Seat 6: anebodil (button) (small blind) mucked
+
+
+PokerStars Hand #158078314245:  Hold'em Limit ($3/$6 USD) - 2016/09/02 17:53:53 ET
+Table 'Ilse II' 6-max Seat #5 is the button
+Seat 5: Actionni13 ($167.28 in chips)
+Seat 6: anebodil ($72 in chips)
+Actionni13: posts small blind $1
+anebodil: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+anebodil: calls $3
+*** FLOP *** [9s 4s 8c]
+anebodil: bets $3
+Actionni13: calls $3
+*** TURN *** [9s 4s 8c] [8h]
+anebodil: bets $6
+Actionni13: raises $6 to $12
+anebodil: calls $6
+*** RIVER *** [9s 4s 8c 8h] [7h]
+anebodil: checks
+Actionni13: bets $6
+anebodil: folds
+Uncalled bet ($6) returned to Actionni13
+Actionni13 collected $41.50 from pot
+Actionni13: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [9s 4s 8c 8h 7h]
+Seat 5: Actionni13 (button) (small blind) collected ($41.50)
+Seat 6: anebodil (big blind) folded on the River
+
+

@@ -1,0 +1,66 @@
+PokerStars Hand #153445344934:  Hold'em Limit ($3/$6 USD) - 2016/05/17 11:04:31 ET
+Table 'Soyuz-Apollo' 10-max Seat #1 is the button
+Seat 1: belik555 ($88.83 in chips)
+Seat 10: mylifeluvsol ($65.57 in chips)
+belik555: posts small blind $1
+Pandakey: is sitting out
+mylifeluvsol: posts big blind $3
+*** HOLE CARDS ***
+belik555: raises $3 to $6
+Pandakey leaves the table
+mylifeluvsol: calls $3
+*** FLOP *** [7c 8d Jd]
+mylifeluvsol: checks
+belik555: bets $3
+mylifeluvsol: calls $3
+*** TURN *** [7c 8d Jd] [Qc]
+mylifeluvsol: checks
+Tryptamean joins the table at seat #5
+belik555: bets $6
+mylifeluvsol: raises $6 to $12
+belik555: calls $6
+*** RIVER *** [7c 8d Jd Qc] [4s]
+mylifeluvsol: bets $6
+belik555: calls $6
+*** SHOW DOWN ***
+mylifeluvsol: shows [8h Qh] (two pair, Queens and Eights)
+belik555: mucks hand
+mylifeluvsol collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [7c 8d Jd Qc 4s]
+Seat 1: belik555 (button) (small blind) mucked
+Seat 10: mylifeluvsol (big blind) showed [8h Qh] and won ($53.50) with two pair, Queens and Eights
+
+
+PokerStars Hand #153445365360:  Hold'em Limit ($3/$6 USD) - 2016/05/17 11:05:03 ET
+Table 'Soyuz-Apollo' 10-max Seat #10 is the button
+Seat 1: belik555 ($72 in chips)
+Seat 10: mylifeluvsol ($92.07 in chips)
+mylifeluvsol: posts small blind $1
+belik555: posts big blind $3
+*** HOLE CARDS ***
+mylifeluvsol: calls $2
+belik555: raises $3 to $6
+mylifeluvsol: calls $3
+*** FLOP *** [Kh 3s 5s]
+belik555: bets $3
+mylifeluvsol: calls $3
+*** TURN *** [Kh 3s 5s] [4s]
+verde7 joins the table at seat #4
+belik555: checks
+mylifeluvsol: checks
+*** RIVER *** [Kh 3s 5s 4s] [9h]
+belik555: checks
+mylifeluvsol: bets $6
+belik555: folds
+Uncalled bet ($6) returned to mylifeluvsol
+mylifeluvsol collected $17.64 from pot
+mylifeluvsol: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kh 3s 5s 4s 9h]
+Seat 1: belik555 (big blind) folded on the River
+Seat 10: mylifeluvsol (button) (small blind) collected ($17.64)
+
+

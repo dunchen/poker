@@ -1,0 +1,63 @@
+PokerStars Hand #164844821359:  Hold'em Limit ($3/$6 USD) - 2017/01/19 15:30:37 ET
+Table 'Spica' 6-max Seat #2 is the button
+Seat 1: fluit83 ($69.38 in chips)
+Seat 2: kolaz03 ($72 in chips)
+kolaz03: posts small blind $1
+GoliafUa: is sitting out
+fluit83: posts big blind $3
+*** HOLE CARDS ***
+kolaz03: raises $3 to $6
+fluit83: calls $3
+*** FLOP *** [Qc 8h 5d]
+fluit83: checks
+kolaz03: bets $3
+fluit83: calls $3
+*** TURN *** [Qc 8h 5d] [Tc]
+fluit83: checks
+kolaz03: bets $6
+fluit83: calls $6
+*** RIVER *** [Qc 8h 5d Tc] [9c]
+fluit83: checks
+pompier40 joins the table at seat #3
+kolaz03: bets $6
+fluit83: calls $6
+*** SHOW DOWN ***
+kolaz03: shows [Qd 3s] (a pair of Queens)
+fluit83: mucks hand
+kolaz03 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Qc 8h 5d Tc 9c]
+Seat 1: fluit83 (big blind) mucked
+Seat 2: kolaz03 (button) (small blind) showed [Qd 3s] and won ($41.50) with a pair of Queens
+
+
+PokerStars Hand #164844873505:  Hold'em Limit ($3/$6 USD) - 2017/01/19 15:31:32 ET
+Table 'Spica' 6-max Seat #1 is the button
+Seat 1: fluit83 ($48.38 in chips)
+Seat 2: kolaz03 ($92.50 in chips)
+fluit83: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+fluit83: raises $3 to $6
+kolaz03: calls $3
+*** FLOP *** [6h Kc 5s]
+kolaz03: checks
+fluit83: checks
+*** TURN *** [6h Kc 5s] [5c]
+kolaz03: checks
+fluit83: checks
+*** RIVER *** [6h Kc 5s 5c] [Ad]
+kolaz03: checks
+fluit83: bets $6
+kolaz03: folds
+Uncalled bet ($6) returned to fluit83
+fluit83 collected $11.76 from pot
+fluit83: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [6h Kc 5s 5c Ad]
+Seat 1: fluit83 (button) (small blind) collected ($11.76)
+Seat 2: kolaz03 (big blind) folded on the River
+
+

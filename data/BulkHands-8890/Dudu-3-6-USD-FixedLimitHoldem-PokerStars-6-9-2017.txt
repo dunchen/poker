@@ -1,0 +1,85 @@
+PokerStars Hand #171561805991:  Hold'em Limit ($3/$6 USD) - 2017/06/09 15:51:06 ET
+Table 'Dudu' 6-max Seat #2 is the button
+Seat 2: vestimokrec ($246.91 in chips)
+Seat 5: love_mmm ($181.74 in chips)
+vestimokrec: posts small blind $1
+love_mmm: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+love_mmm: calls $3
+*** FLOP *** [6h 6d 9c]
+love_mmm: checks
+vestimokrec: bets $3
+love_mmm: calls $3
+*** TURN *** [6h 6d 9c] [Ks]
+love_mmm: checks
+vestimokrec: bets $6
+love_mmm: calls $6
+*** RIVER *** [6h 6d 9c Ks] [9s]
+love_mmm: checks
+HIGHIQ74 joins the table at seat #3
+vestimokrec: checks
+*** SHOW DOWN ***
+love_mmm: shows [7c Ad] (two pair, Nines and Sixes)
+vestimokrec: mucks hand
+love_mmm collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6h 6d 9c Ks 9s]
+Seat 2: vestimokrec (button) (small blind) mucked
+Seat 5: love_mmm (big blind) showed [7c Ad] and won ($29.50) with two pair, Nines and Sixes
+
+
+PokerStars Hand #171562243590:  Hold'em Limit ($3/$6 USD) - 2017/06/09 16:01:35 ET
+Table 'Dudu' 6-max Seat #1 is the button
+Seat 1: Carl1891 ($270.72 in chips)
+Seat 2: #ah56d# ($160.49 in chips)
+Carl1891: posts small blind $1
+#ah56d#: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec joins the table at seat #3
+Carl1891: raises $3 to $6
+#ah56d#: calls $3
+*** FLOP *** [7h 5d Kc]
+#ah56d#: bets $3
+Carl1891: folds
+Uncalled bet ($3) returned to #ah56d#
+#ah56d# collected $11.76 from pot
+#ah56d#: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7h 5d Kc]
+Seat 1: Carl1891 (button) (small blind) folded on the Flop
+Seat 2: #ah56d# (big blind) collected ($11.76)
+
+
+PokerStars Hand #171562311333:  Hold'em Limit ($3/$6 USD) - 2017/06/09 16:03:03 ET
+Table 'Dudu' 6-max Seat #3 is the button
+Seat 2: #ah56d# ($173.17 in chips)
+Seat 3: vestimokrec ($118.07 in chips)
+vestimokrec: posts small blind $1
+Carl1891: is sitting out
+#ah56d#: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+#ah56d#: calls $3
+*** FLOP *** [Ks 5s 6c]
+Carl1891 leaves the table
+#ah56d#: checks
+vestimokrec: bets $3
+#ah56d#: calls $3
+*** TURN *** [Ks 5s 6c] [4d]
+#ah56d#: checks
+vestimokrec: bets $6
+#ah56d#: folds
+Uncalled bet ($6) returned to vestimokrec
+#ah56d# leaves the table
+vestimokrec collected $17.64 from pot
+vestimokrec: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ks 5s 6c 4d]
+Seat 2: #ah56d# (big blind) folded on the Turn
+Seat 3: vestimokrec (button) (small blind) collected ($17.64)
+
+

@@ -1,0 +1,33 @@
+PokerStars Hand #165869812180:  Hold'em Limit ($3/$6 USD) - 2017/02/08 3:27:36 ET
+Table 'Marmara' 6-max Seat #6 is the button
+Seat 4: Agrotait ($72 in chips)
+Seat 6: nordschrott ($30 in chips)
+nordschrott: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+nordschrott: calls $2
+Agrotait: raises $3 to $6
+nordschrott: calls $3
+*** FLOP *** [Jh 9h 6d]
+Agrotait: bets $3
+nordschrott: raises $3 to $6
+Agrotait: raises $3 to $9
+nordschrott: calls $3
+*** TURN *** [Jh 9h 6d] [3d]
+Agrotait: bets $6
+nordschrott: calls $6
+*** RIVER *** [Jh 9h 6d 3d] [2s]
+Agrotait: bets $6
+nordschrott: raises $3 to $9 and is all-in
+Agrotait: calls $3
+*** SHOW DOWN ***
+nordschrott: shows [9s 8d] (a pair of Nines)
+Agrotait: shows [Jd 9c] (two pair, Jacks and Nines)
+Agrotait collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Jh 9h 6d 3d 2s]
+Seat 4: Agrotait (big blind) showed [Jd 9c] and won ($59.50) with two pair, Jacks and Nines
+Seat 6: nordschrott (button) (small blind) showed [9s 8d] and lost with a pair of Nines
+
+

@@ -1,0 +1,65 @@
+PokerStars Hand #148184050675:  Hold'em Limit ($3/$6 USD) - 2016/02/03 15:35:44 ET
+Table 'Russia II' 6-max Seat #2 is the button
+Seat 2: olavike ($153.54 in chips)
+Seat 3: chezlaw ($130.50 in chips)
+olavike: posts small blind $1
+chezlaw: posts big blind $3
+*** HOLE CARDS ***
+olavike: raises $3 to $6
+chezlaw: calls $3
+*** FLOP *** [9d 8h As]
+chezlaw: bets $3
+olavike: calls $3
+*** TURN *** [9d 8h As] [Js]
+chezlaw: bets $6
+olavike: calls $6
+*** RIVER *** [9d 8h As Js] [8c]
+chezlaw: bets $6
+olavike: folds
+Uncalled bet ($6) returned to chezlaw
+chezlaw collected $29.50 from pot
+chezlaw: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9d 8h As Js 8c]
+Seat 2: olavike (button) (small blind) folded on the River
+Seat 3: chezlaw (big blind) collected ($29.50)
+
+
+PokerStars Hand #148184014044:  Hold'em Limit ($3/$6 USD) - 2016/02/03 15:35:10 ET
+Table 'Russia II' 6-max Seat #3 is the button
+Seat 2: olavike ($168.54 in chips)
+Seat 3: chezlaw ($116 in chips)
+chezlaw: posts small blind $1
+GRAILKO: is sitting out
+SashaYuvelir: is sitting out
+ValeryRon: is sitting out
+olavike: posts big blind $3
+*** HOLE CARDS ***
+chezlaw: raises $3 to $6
+ValeryRon leaves the table
+olavike: calls $3
+*** FLOP *** [Js Td 9d]
+GRAILKO leaves the table
+olavike: checks
+chezlaw: bets $3
+olavike: calls $3
+*** TURN *** [Js Td 9d] [8d]
+SashaYuvelir leaves the table
+olavike: checks
+chezlaw: bets $6
+olavike: calls $6
+*** RIVER *** [Js Td 9d 8d] [Tc]
+olavike: checks
+chezlaw: bets $6
+olavike: folds
+Uncalled bet ($6) returned to chezlaw
+chezlaw collected $29.50 from pot
+chezlaw: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Js Td 9d 8d Tc]
+Seat 2: olavike (big blind) folded on the River
+Seat 3: chezlaw (button) (small blind) collected ($29.50)
+
+

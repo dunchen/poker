@@ -1,0 +1,32 @@
+PokerStars Hand #174633194925:  Hold'em Limit ($3/$6 USD) - 2017/08/21 19:15:59 ET
+Table 'Asporina' 6-max Seat #6 is the button
+Seat 4: favete lin ($257.59 in chips)
+Seat 6: ToDaFelt ($89.80 in chips)
+ToDaFelt: posts small blind $1
+favete lin: posts big blind $3
+*** HOLE CARDS ***
+ToDaFelt: raises $3 to $6
+favete lin: calls $3
+*** FLOP *** [Th 2d 6h]
+favete lin: checks
+KOCTY GREK leaves the table
+ToDaFelt: bets $3
+favete lin: calls $3
+*** TURN *** [Th 2d 6h] [3c]
+favete lin: checks
+ToDaFelt: checks
+*** RIVER *** [Th 2d 6h 3c] [Jh]
+favete lin: checks
+ToDaFelt: bets $6
+favete lin: calls $6
+*** SHOW DOWN ***
+ToDaFelt: shows [Js 9c] (a pair of Jacks)
+favete lin: mucks hand
+ToDaFelt collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Th 2d 6h 3c Jh]
+Seat 4: favete lin (big blind) mucked
+Seat 6: ToDaFelt (button) (small blind) showed [Js 9c] and won ($29.50) with a pair of Jacks
+
+

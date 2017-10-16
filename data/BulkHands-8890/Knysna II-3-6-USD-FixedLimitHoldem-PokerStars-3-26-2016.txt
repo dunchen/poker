@@ -1,0 +1,109 @@
+PokerStars Hand #150969927767:  Hold'em Limit ($3/$6 USD) - 2016/03/26 14:57:46 ET
+Table 'Knysna II' 6-max Seat #4 is the button
+Seat 1: arocar ($101.05 in chips)
+Seat 4: AzureCaper ($83.52 in chips)
+AzureCaper: posts small blind $1
+arocar: posts big blind $3
+*** HOLE CARDS ***
+killerfurbel joins the table at seat #3
+AzureCaper: folds
+Uncalled bet ($2) returned to arocar
+arocar collected $2 from pot
+arocar: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: arocar (big blind) collected ($2)
+Seat 4: AzureCaper (button) (small blind) folded before Flop
+
+
+PokerStars Hand #150969904951:  Hold'em Limit ($3/$6 USD) - 2016/03/26 14:57:13 ET
+Table 'Knysna II' 6-max Seat #1 is the button
+Seat 1: arocar ($113.05 in chips)
+Seat 4: AzureCaper ($72 in chips)
+arocar: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+arocar: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [6s 5h Qc]
+AzureCaper: checks
+arocar: bets $3
+AzureCaper: raises $3 to $6
+arocar: calls $3
+*** TURN *** [6s 5h Qc] [Kc]
+AzureCaper: checks
+arocar: checks
+*** RIVER *** [6s 5h Qc Kc] [4s]
+xRauIx joins the table at seat #2
+AzureCaper: bets $6
+arocar: folds
+Uncalled bet ($6) returned to AzureCaper
+AzureCaper collected $23.52 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [6s 5h Qc Kc 4s]
+Seat 1: arocar (button) (small blind) folded on the River
+Seat 4: AzureCaper (big blind) collected ($23.52)
+
+
+PokerStars Hand #150970568492:  Hold'em Limit ($3/$6 USD) - 2016/03/26 15:10:01 ET
+Table 'Knysna II' 6-max Seat #3 is the button
+Seat 3: killerfurbel ($175.46 in chips)
+Seat 5: JACKan_11 ($135.53 in chips)
+GRAILKO will be allowed to play after the button
+killerfurbel: posts small blind $1
+JACKan_11: posts big blind $3
+*** HOLE CARDS ***
+killerfurbel: raises $3 to $6
+Chessnok joins the table at seat #4
+JACKan_11: calls $3
+*** FLOP *** [Js 7c 5c]
+JACKan_11: checks
+killerfurbel: bets $3
+JACKan_11: calls $3
+*** TURN *** [Js 7c 5c] [3s]
+JACKan_11: checks
+killerfurbel: bets $6
+JACKan_11: raises $6 to $12
+killerfurbel: calls $6
+*** RIVER *** [Js 7c 5c 3s] [Qh]
+JACKan_11: checks
+killerfurbel: checks
+*** SHOW DOWN ***
+JACKan_11: shows [Ks 7d] (a pair of Sevens)
+killerfurbel: mucks hand
+JACKan_11 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Js 7c 5c 3s Qh]
+Seat 3: killerfurbel (button) (small blind) mucked
+Seat 5: JACKan_11 (big blind) showed [Ks 7d] and won ($41.50) with a pair of Sevens
+
+
+PokerStars Hand #150985285568:  Hold'em Limit ($3/$6 USD) - 2016/03/26 19:49:33 ET
+Table 'Knysna II' 6-max Seat #4 is the button
+Seat 2: gazzzzzza ($3 in chips)
+Seat 4: vestimokrec ($184.25 in chips)
+vestimokrec: posts small blind $1
+Chessnok: is sitting out
+Necromadx: is sitting out
+gazzzzzza: posts big blind $3 and is all-in
+*** HOLE CARDS ***
+vestimokrec: calls $2
+*** FLOP *** [9c Th 2c]
+*** TURN *** [9c Th 2c] [Ad]
+Chessnok leaves the table
+*** RIVER *** [9c Th 2c Ad] [8d]
+Necromadx leaves the table
+*** SHOW DOWN ***
+gazzzzzza: shows [7s 7d] (a pair of Sevens)
+vestimokrec: shows [Ts Qh] (a pair of Tens)
+vestimokrec collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [9c Th 2c Ad 8d]
+Seat 2: gazzzzzza (big blind) showed [7s 7d] and lost with a pair of Sevens
+Seat 4: vestimokrec (button) (small blind) showed [Ts Qh] and won ($5.88) with a pair of Tens
+
+

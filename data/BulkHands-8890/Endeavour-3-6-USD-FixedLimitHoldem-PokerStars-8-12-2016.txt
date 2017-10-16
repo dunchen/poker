@@ -1,0 +1,32 @@
+PokerStars Hand #157188793768:  Hold'em Limit ($3/$6 USD) - 2016/08/12 13:16:16 ET
+Table 'Endeavour' 6-max Seat #1 is the button
+Seat 1: 7ardis ($120 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+7ardis: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+7ardis: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [5c 2h 4d]
+VolkovDmitri: checks
+7ardis: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [5c 2h 4d] [Ad]
+VolkovDmitri: checks
+7ardis: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [5c 2h 4d Ad] [4h]
+VolkovDmitri: checks
+7ardis: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+7ardis: shows [Ts As] (two pair, Aces and Fours)
+VolkovDmitri: mucks hand
+7ardis collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [5c 2h 4d Ad 4h]
+Seat 1: 7ardis (button) (small blind) showed [Ts As] and won ($41.50) with two pair, Aces and Fours
+Seat 4: VolkovDmitri (big blind) mucked
+
+

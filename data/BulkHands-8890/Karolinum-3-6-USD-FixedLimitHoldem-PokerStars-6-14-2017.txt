@@ -1,0 +1,62 @@
+PokerStars Hand #171774740612:  Hold'em Limit ($3/$6 USD) - 2017/06/14 15:11:11 ET
+Table 'Karolinum' 6-max Seat #2 is the button
+Seat 1: 19woody58 ($120 in chips)
+Seat 2: vestimokrec ($120 in chips)
+vestimokrec: posts small blind $1
+belik555 joins the table at seat #3
+GoliafUa: is sitting out
+19woody58: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+19woody58: calls $3
+*** FLOP *** [7h As 8c]
+GoliafUa leaves the table
+19woody58: checks
+vestimokrec: bets $3
+19woody58: calls $3
+*** TURN *** [7h As 8c] [2h]
+19woody58: checks
+vestimokrec: checks
+*** RIVER *** [7h As 8c 2h] [Qd]
+19woody58: bets $6
+vestimokrec: folds
+Uncalled bet ($6) returned to 19woody58
+19woody58 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7h As 8c 2h Qd]
+Seat 1: 19woody58 (big blind) collected ($17.64)
+Seat 2: vestimokrec (button) (small blind) folded on the River
+
+
+PokerStars Hand #171774787411:  Hold'em Limit ($3/$6 USD) - 2017/06/14 15:12:10 ET
+Table 'Karolinum' 6-max Seat #1 is the button
+Seat 1: 19woody58 ($128.64 in chips)
+Seat 2: vestimokrec ($111 in chips)
+19woody58: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+19woody58: raises $3 to $6
+vestimokrec: calls $3
+*** FLOP *** [8d As 9s]
+vestimokrec: checks
+19woody58: bets $3
+vestimokrec: raises $3 to $6
+19woody58: calls $3
+*** TURN *** [8d As 9s] [Js]
+vestimokrec: bets $6
+19woody58: calls $6
+*** RIVER *** [8d As 9s Js] [Td]
+vestimokrec: checks
+19woody58: checks
+*** SHOW DOWN ***
+vestimokrec: shows [6s Ah] (a pair of Aces)
+19woody58: shows [Th 9d] (two pair, Tens and Nines)
+19woody58 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [8d As 9s Js Td]
+Seat 1: 19woody58 (button) (small blind) showed [Th 9d] and won ($35.50) with two pair, Tens and Nines
+Seat 2: vestimokrec (big blind) showed [6s Ah] and lost with a pair of Aces
+
+

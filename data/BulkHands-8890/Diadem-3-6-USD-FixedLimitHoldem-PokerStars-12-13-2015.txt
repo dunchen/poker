@@ -1,0 +1,35 @@
+PokerStars Hand #145285042679:  Hold'em Limit ($3/$6 USD) - 2015/12/13 12:34:06 ET
+Table 'Diadem' 6-max Seat #3 is the button
+Seat 3: wiezel0172 ($120 in chips)
+Seat 5: Great_Kang ($120 in chips)
+wiezel0172: posts small blind $1
+Great_Kang: posts big blind $3
+*** HOLE CARDS ***
+wiezel0172: raises $3 to $6
+LolDnkaments joins the table at seat #4
+Great_Kang: raises $3 to $9
+wiezel0172: calls $3
+*** FLOP *** [4c 3c 3d]
+Great_Kang: bets $3
+wiezel0172: calls $3
+*** TURN *** [4c 3c 3d] [Kh]
+Great_Kang: checks
+wiezel0172: checks
+*** RIVER *** [4c 3c 3d Kh] [5h]
+Great_Kang: checks
+wiezel0172: bets $6
+Karpik09 joins the table at seat #1
+GlamDragon joins the table at seat #6
+Great_Kang: calls $6
+*** SHOW DOWN ***
+wiezel0172: shows [5s Kc] (two pair, Kings and Fives)
+Great_Kang: mucks hand
+Karpik09 leaves the table
+wiezel0172 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [4c 3c 3d Kh 5h]
+Seat 3: wiezel0172 (button) (small blind) showed [5s Kc] and won ($35.50) with two pair, Kings and Fives
+Seat 5: Great_Kang (big blind) mucked
+
+

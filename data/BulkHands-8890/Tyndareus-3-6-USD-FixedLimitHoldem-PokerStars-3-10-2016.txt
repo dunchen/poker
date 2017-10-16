@@ -1,0 +1,78 @@
+PokerStars Hand #150144777257:  Hold'em Limit ($3/$6 USD) - 2016/03/10 14:29:53 ET
+Table 'Tyndareus' 6-max Seat #1 is the button
+Seat 1: Harlaur ($116 in chips)
+Seat 2: Krazy90 ($124 in chips)
+Harlaur: posts small blind $1
+Krazy90: posts big blind $3
+*** HOLE CARDS ***
+Harlaur: raises $3 to $6
+Krazy90: calls $3
+*** FLOP *** [Qh 3d 9d]
+Krazy90: checks
+Harlaur: bets $3
+Krazy90: folds
+Uncalled bet ($3) returned to Harlaur
+Harlaur collected $11.76 from pot
+Harlaur: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qh 3d 9d]
+Seat 1: Harlaur (button) (small blind) collected ($11.76)
+Seat 2: Krazy90 (big blind) folded on the Flop
+
+
+PokerStars Hand #150144792592:  Hold'em Limit ($3/$6 USD) - 2016/03/10 14:30:08 ET
+Table 'Tyndareus' 6-max Seat #2 is the button
+Seat 1: Harlaur ($121.76 in chips)
+Seat 2: Krazy90 ($120 in chips)
+Krazy90: posts small blind $1
+Harlaur: posts big blind $3
+*** HOLE CARDS ***
+Krazy90: raises $3 to $6
+Harlaur: calls $3
+*** FLOP *** [5c Jh 3s]
+Harlaur: bets $3
+Krazy90: calls $3
+*** TURN *** [5c Jh 3s] [2h]
+Harlaur: bets $6
+Krazy90: folds
+Uncalled bet ($6) returned to Harlaur
+Harlaur collected $17.64 from pot
+Harlaur: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5c Jh 3s 2h]
+Seat 1: Harlaur (big blind) collected ($17.64)
+Seat 2: Krazy90 (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #150144805888:  Hold'em Limit ($3/$6 USD) - 2016/03/10 14:30:22 ET
+Table 'Tyndareus' 6-max Seat #1 is the button
+Seat 1: Harlaur ($130.40 in chips)
+Seat 2: Krazy90 ($120 in chips)
+Harlaur: posts small blind $1
+Krazy90: posts big blind $3
+*** HOLE CARDS ***
+Harlaur: raises $3 to $6
+Krazy90: calls $3
+*** FLOP *** [7h 5c Kc]
+Krazy90: checks
+Harlaur: bets $3
+Krazy90: calls $3
+*** TURN *** [7h 5c Kc] [7d]
+Krazy90: checks
+Harlaur: checks
+*** RIVER *** [7h 5c Kc 7d] [Ad]
+Krazy90: checks
+Harlaur: checks
+*** SHOW DOWN ***
+Krazy90: shows [3c Ac] (two pair, Aces and Sevens)
+Harlaur: mucks hand
+Krazy90 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [7h 5c Kc 7d Ad]
+Seat 1: Harlaur (button) (small blind) mucked
+Seat 2: Krazy90 (big blind) showed [3c Ac] and won ($17.64) with two pair, Aces and Sevens
+
+

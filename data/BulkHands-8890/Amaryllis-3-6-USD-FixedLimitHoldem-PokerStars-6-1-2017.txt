@@ -1,0 +1,33 @@
+PokerStars Hand #171182373950:  Hold'em Limit ($3/$6 USD) - 2017/05/31 20:51:46 ET
+Table 'Amaryllis' 6-max Seat #2 is the button
+Seat 2: B_loJkl ($102.54 in chips)
+Seat 6: belik555 ($160.20 in chips)
+B_loJkl: posts small blind $1
+cosmicfred: is sitting out
+belik555: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+belik555: calls $3
+*** FLOP *** [5c 8s 6c]
+belik555: checks
+B_loJkl: bets $3
+belik555: raises $3 to $6
+B_loJkl: calls $3
+*** TURN *** [5c 8s 6c] [9s]
+belik555: bets $6
+B_loJkl: calls $6
+*** RIVER *** [5c 8s 6c 9s] [3c]
+belik555: checks
+miss kitty50 was removed from the table for failing to post
+B_loJkl: checks
+*** SHOW DOWN ***
+belik555: shows [Kh 6d] (a pair of Sixes)
+B_loJkl: mucks hand
+belik555 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5c 8s 6c 9s 3c]
+Seat 2: B_loJkl (button) (small blind) mucked
+Seat 6: belik555 (big blind) showed [Kh 6d] and won ($35.50) with a pair of Sixes
+
+

@@ -1,0 +1,389 @@
+PokerStars Hand #172385983073:  Hold'em Limit ($3/$6 USD) - 2017/06/29 11:03:59 ET
+Table 'Crocus' 6-max Seat #2 is the button
+Seat 2: Anchig ($120 in chips)
+Seat 4: 19woody58 ($120 in chips)
+Anchig: posts small blind $1
+19woody58: posts big blind $3
+*** HOLE CARDS ***
+Anchig: raises $3 to $6
+19woody58: calls $3
+*** FLOP *** [Td 2c 7d]
+19woody58: checks
+Anchig: checks
+*** TURN *** [Td 2c 7d] [8d]
+19woody58: checks
+Anchig: checks
+*** RIVER *** [Td 2c 7d 8d] [3s]
+19woody58: bets $6
+Anchig: folds
+Uncalled bet ($6) returned to 19woody58
+19woody58 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Td 2c 7d 8d 3s]
+Seat 2: Anchig (button) (small blind) folded on the River
+Seat 4: 19woody58 (big blind) collected ($11.76)
+
+
+PokerStars Hand #172386006478:  Hold'em Limit ($3/$6 USD) - 2017/06/29 11:04:41 ET
+Table 'Crocus' 6-max Seat #2 is the button
+Seat 2: Anchig ($137.50 in chips)
+Seat 4: 19woody58 ($101.76 in chips)
+Anchig: posts small blind $1
+19woody58: posts big blind $3
+*** HOLE CARDS ***
+Anchig: raises $3 to $6
+19woody58: folds
+Uncalled bet ($3) returned to Anchig
+Anchig collected $6 from pot
+Anchig: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: Anchig (button) (small blind) collected ($6)
+Seat 4: 19woody58 (big blind) folded before Flop
+
+
+PokerStars Hand #172385995371:  Hold'em Limit ($3/$6 USD) - 2017/06/29 11:04:21 ET
+Table 'Crocus' 6-max Seat #4 is the button
+Seat 2: Anchig ($114 in chips)
+Seat 4: 19woody58 ($125.76 in chips)
+19woody58: posts small blind $1
+Anchig: posts big blind $3
+*** HOLE CARDS ***
+19woody58: raises $3 to $6
+Anchig: raises $3 to $9
+19woody58: calls $3
+*** FLOP *** [Qh 5s 6s]
+Anchig: bets $3
+19woody58: calls $3
+*** TURN *** [Qh 5s 6s] [4d]
+Anchig: bets $6
+19woody58: calls $6
+*** RIVER *** [Qh 5s 6s 4d] [8c]
+Anchig: bets $6
+19woody58: calls $6
+*** SHOW DOWN ***
+Anchig: shows [7c 7h] (a straight, Four to Eight)
+B_loJkl joins the table at seat #5
+19woody58: mucks hand
+Anchig collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Qh 5s 6s 4d 8c]
+Seat 2: Anchig (big blind) showed [7c 7h] and won ($47.50) with a straight, Four to Eight
+Seat 4: 19woody58 (button) (small blind) mucked
+
+
+PokerStars Hand #172386755427:  Hold'em Limit ($3/$6 USD) - 2017/06/29 11:26:59 ET
+Table 'Crocus' 6-max Seat #5 is the button
+Seat 3: perten ($103.40 in chips)
+Seat 5: B_loJkl ($197.08 in chips)
+B_loJkl: posts small blind $1
+Krazy90: is sitting out
+perten: posts big blind $3
+*** HOLE CARDS ***
+Krazy90 leaves the table
+B_loJkl: raises $3 to $6
+perten: calls $3
+*** FLOP *** [Jd As 8s]
+perten: checks
+B_loJkl: bets $3
+perten: calls $3
+*** TURN *** [Jd As 8s] [5h]
+perten: checks
+B_loJkl: bets $6
+perten: calls $6
+*** RIVER *** [Jd As 8s 5h] [5c]
+perten: checks
+B_loJkl: checks
+*** SHOW DOWN ***
+perten: shows [8c 6c] (two pair, Eights and Fives)
+B_loJkl: shows [Qs 8h] (two pair, Eights and Fives)
+perten collected $14.75 from pot
+B_loJkl collected $14.75 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Jd As 8s 5h 5c]
+Seat 3: perten (big blind) showed [8c 6c] and won ($14.75) with two pair, Eights and Fives
+Seat 5: B_loJkl (button) (small blind) showed [Qs 8h] and won ($14.75) with two pair, Eights and Fives
+
+
+PokerStars Hand #172386782122:  Hold'em Limit ($3/$6 USD) - 2017/06/29 11:27:47 ET
+Table 'Crocus' 6-max Seat #3 is the button
+Seat 3: perten ($103.15 in chips)
+Seat 5: B_loJkl ($196.83 in chips)
+perten: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+perten: raises $3 to $6
+B_loJkl: raises $3 to $9
+perten: calls $3
+*** FLOP *** [8h 6d Jd]
+B_loJkl: bets $3
+perten: calls $3
+*** TURN *** [8h 6d Jd] [Td]
+B_loJkl: checks
+perten: checks
+*** RIVER *** [8h 6d Jd Td] [Tc]
+B_loJkl: checks
+perten: checks
+*** SHOW DOWN ***
+B_loJkl: shows [Kc Ac] (a pair of Tens)
+perten: mucks hand
+B_loJkl collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [8h 6d Jd Td Tc]
+Seat 3: perten (button) (small blind) mucked
+Seat 5: B_loJkl (big blind) showed [Kc Ac] and won ($23.52) with a pair of Tens
+
+
+PokerStars Hand #172386795419:  Hold'em Limit ($3/$6 USD) - 2017/06/29 11:28:10 ET
+Table 'Crocus' 6-max Seat #5 is the button
+Seat 3: perten ($91.15 in chips)
+Seat 5: B_loJkl ($208.35 in chips)
+B_loJkl: posts small blind $1
+perten: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+perten: calls $3
+*** FLOP *** [9c As Kh]
+perten: checks
+B_loJkl: bets $3
+perten: calls $3
+*** TURN *** [9c As Kh] [9s]
+perten: checks
+B_loJkl: bets $6
+perten: calls $6
+*** RIVER *** [9c As Kh 9s] [8h]
+perten: checks
+B_loJkl: checks
+*** SHOW DOWN ***
+perten: shows [2s Kd] (two pair, Kings and Nines)
+B_loJkl: mucks hand
+perten collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9c As Kh 9s 8h]
+Seat 3: perten (big blind) showed [2s Kd] and won ($29.50) with two pair, Kings and Nines
+Seat 5: B_loJkl (button) (small blind) mucked
+
+
+PokerStars Hand #172386813725:  Hold'em Limit ($3/$6 USD) - 2017/06/29 11:28:43 ET
+Table 'Crocus' 6-max Seat #3 is the button
+Seat 3: perten ($105.65 in chips)
+Seat 5: B_loJkl ($193.35 in chips)
+perten: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+perten: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [8h 3c 8c]
+B_loJkl: checks
+perten: checks
+*** TURN *** [8h 3c 8c] [Ah]
+B_loJkl: checks
+perten: bets $6
+B_loJkl: raises $6 to $12
+perten: raises $6 to $18
+B_loJkl: calls $6
+*** RIVER *** [8h 3c 8c Ah] [Tc]
+B_loJkl: checks
+perten: checks
+*** SHOW DOWN ***
+B_loJkl: shows [5c As] (two pair, Aces and Eights)
+perten: shows [Qc Ad] (two pair, Aces and Eights - Queen kicker)
+perten collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8h 3c 8c Ah Tc]
+Seat 3: perten (button) (small blind) showed [Qc Ad] and won ($47.50) with two pair, Aces and Eights
+Seat 5: B_loJkl (big blind) showed [5c As] and lost with two pair, Aces and Eights
+
+
+PokerStars Hand #172386832840:  Hold'em Limit ($3/$6 USD) - 2017/06/29 11:29:17 ET
+Table 'Crocus' 6-max Seat #5 is the button
+Seat 3: perten ($129.15 in chips)
+Seat 5: B_loJkl ($169.35 in chips)
+B_loJkl: posts small blind $1
+rascal_319 was removed from the table for failing to post
+perten: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+perten: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $6 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: perten (big blind) folded before Flop
+Seat 5: B_loJkl (button) (small blind) collected ($6)
+
+
+PokerStars Hand #172386835903:  Hold'em Limit ($3/$6 USD) - 2017/06/29 11:29:22 ET
+Table 'Crocus' 6-max Seat #3 is the button
+Seat 3: perten ($126.15 in chips)
+Seat 5: B_loJkl ($172.35 in chips)
+perten: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+perten: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [3h Jh 3d]
+B_loJkl: checks
+perten: bets $3
+B_loJkl: calls $3
+*** TURN *** [3h Jh 3d] [4c]
+B_loJkl: checks
+perten: checks
+*** RIVER *** [3h Jh 3d 4c] [6c]
+B_loJkl: bets $6
+perten: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $17.64 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3h Jh 3d 4c 6c]
+Seat 3: perten (button) (small blind) folded on the River
+Seat 5: B_loJkl (big blind) collected ($17.64)
+
+
+PokerStars Hand #172386852327:  Hold'em Limit ($3/$6 USD) - 2017/06/29 11:29:52 ET
+Table 'Crocus' 6-max Seat #5 is the button
+Seat 3: perten ($117.15 in chips)
+Seat 5: B_loJkl ($180.99 in chips)
+B_loJkl: posts small blind $1
+perten: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+perten: raises $3 to $9
+B_loJkl: calls $3
+*** FLOP *** [5d 3h 5c]
+perten: bets $3
+B_loJkl: calls $3
+*** TURN *** [5d 3h 5c] [Js]
+perten: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to perten
+perten collected $23.52 from pot
+perten: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [5d 3h 5c Js]
+Seat 3: perten (big blind) collected ($23.52)
+Seat 5: B_loJkl (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #172386871217:  Hold'em Limit ($3/$6 USD) - 2017/06/29 11:30:25 ET
+Table 'Crocus' 6-max Seat #3 is the button
+Seat 3: perten ($128.67 in chips)
+Seat 5: B_loJkl ($168.99 in chips)
+perten: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+perten: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [5h 3h Qs]
+B_loJkl: checks
+perten: bets $3
+B_loJkl: calls $3
+*** TURN *** [5h 3h Qs] [5c]
+B_loJkl: checks
+perten: bets $6
+B_loJkl: folds
+Uncalled bet ($6) returned to perten
+perten collected $17.64 from pot
+perten: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5h 3h Qs 5c]
+Seat 3: perten (button) (small blind) collected ($17.64)
+Seat 5: B_loJkl (big blind) folded on the Turn
+
+
+PokerStars Hand #172386925784:  Hold'em Limit ($3/$6 USD) - 2017/06/29 11:32:01 ET
+Table 'Crocus' 6-max Seat #3 is the button
+Seat 3: perten ($128.31 in chips)
+Seat 5: B_loJkl ($168.63 in chips)
+perten: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+perten: folds
+Uncalled bet ($2) returned to B_loJkl
+B_loJkl collected $2 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: perten (button) (small blind) folded before Flop
+Seat 5: B_loJkl (big blind) collected ($2)
+
+
+PokerStars Hand #172386888370:  Hold'em Limit ($3/$6 USD) - 2017/06/29 11:30:55 ET
+Table 'Crocus' 6-max Seat #5 is the button
+Seat 3: perten ($137.31 in chips)
+Seat 5: B_loJkl ($159.99 in chips)
+B_loJkl: posts small blind $1
+perten: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+perten: calls $3
+*** FLOP *** [9c 3c 6d]
+yayaya joins the table at seat #1
+perten: bets $3
+B_loJkl: calls $3
+*** TURN *** [9c 3c 6d] [2d]
+perten: checks
+B_loJkl: bets $6
+Krazy90 joins the table at seat #2
+perten: folds
+Uncalled bet ($6) returned to B_loJkl
+B_loJkl collected $17.64 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9c 3c 6d 2d]
+Seat 3: perten (big blind) folded on the Turn
+Seat 5: B_loJkl (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #172387001377:  Hold'em Limit ($3/$6 USD) - 2017/06/29 11:34:13 ET
+Table 'Crocus' 6-max Seat #5 is the button
+Seat 2: Krazy90 ($120 in chips)
+Seat 5: B_loJkl ($193.13 in chips)
+perten will be allowed to play after the button
+B_loJkl: posts small blind $1
+yayaya: is sitting out
+Krazy90: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: folds
+Uncalled bet ($2) returned to Krazy90
+Krazy90 collected $2 from pot
+Krazy90: doesn't show hand
+yayaya leaves the table
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: Krazy90 (big blind) collected ($2)
+Seat 5: B_loJkl (button) (small blind) folded before Flop
+
+
+PokerStars Hand #172387109270:  Hold'em Limit ($3/$6 USD) - 2017/06/29 11:37:23 ET
+Table 'Crocus' 6-max Seat #2 is the button
+Seat 2: Krazy90 ($132.25 in chips)
+Seat 4: B_loJkl ($183.61 in chips)
+Krazy90: posts small blind $1
+perten: is sitting out
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+perten leaves the table
+Krazy90: raises $3 to $6
+B_loJkl: folds
+Uncalled bet ($3) returned to Krazy90
+Krazy90 collected $6 from pot
+Krazy90: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: Krazy90 (button) (small blind) collected ($6)
+Seat 4: B_loJkl (big blind) folded before Flop
+
+

@@ -1,0 +1,107 @@
+PokerStars Hand #153668567382:  Hold'em Limit ($3/$6 USD) - 2016/05/22 4:42:30 ET
+Table 'Hermentaria' 10-max Seat #6 is the button
+Seat 6: asjrxxx888 ($50 in chips)
+Seat 7: VolkovDmitri ($120 in chips)
+asjrxxx888: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+asjrxxx888: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 6: asjrxxx888 (button) (small blind) folded before Flop
+Seat 7: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #153668573414:  Hold'em Limit ($3/$6 USD) - 2016/05/22 4:42:46 ET
+Table 'Hermentaria' 10-max Seat #7 is the button
+Seat 6: asjrxxx888 ($49 in chips)
+Seat 7: VolkovDmitri ($121 in chips)
+VolkovDmitri: posts small blind $1
+asjrxxx888: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+asjrxxx888: calls $3
+*** FLOP *** [2h 7c 6h]
+asjrxxx888: checks
+VolkovDmitri: checks
+*** TURN *** [2h 7c 6h] [6s]
+asjrxxx888: checks
+VolkovDmitri: checks
+*** RIVER *** [2h 7c 6h 6s] [8d]
+asjrxxx888: checks
+VolkovDmitri: checks
+belik555 joins the table at seat #8
+*** SHOW DOWN ***
+asjrxxx888: shows [Jd 9c] (a pair of Sixes)
+VolkovDmitri: shows [5c Qc] (a pair of Sixes - Queen kicker)
+VolkovDmitri collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2h 7c 6h 6s 8d]
+Seat 6: asjrxxx888 (big blind) showed [Jd 9c] and lost with a pair of Sixes
+Seat 7: VolkovDmitri (button) (small blind) showed [5c Qc] and won ($11.76) with a pair of Sixes
+
+
+PokerStars Hand #153668583279:  Hold'em Limit ($3/$6 USD) - 2016/05/22 4:43:13 ET
+Table 'Hermentaria' 10-max Seat #6 is the button
+Seat 6: asjrxxx888 ($43 in chips)
+Seat 7: VolkovDmitri ($126.76 in chips)
+asjrxxx888: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+asjrxxx888: calls $2
+VolkovDmitri: raises $3 to $6
+asjrxxx888: calls $3
+*** FLOP *** [4c 9s 7c]
+VolkovDmitri: bets $3
+asjrxxx888: calls $3
+*** TURN *** [4c 9s 7c] [2d]
+VolkovDmitri: bets $6
+asjrxxx888: calls $6
+*** RIVER *** [4c 9s 7c 2d] [5s]
+VolkovDmitri: bets $6
+asjrxxx888: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $29.50 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4c 9s 7c 2d 5s]
+Seat 6: asjrxxx888 (button) (small blind) folded on the River
+Seat 7: VolkovDmitri (big blind) collected ($29.50)
+
+
+PokerStars Hand #153668704058:  Hold'em Limit ($3/$6 USD) - 2016/05/22 4:48:35 ET
+Table 'Hermentaria' 10-max Seat #8 is the button
+Seat 7: VolkovDmitri ($124 in chips)
+Seat 8: belik555 ($110.57 in chips)
+belik555: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+belik555: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+belik555: calls $3
+*** FLOP *** [8c 9d Ts]
+VolkovDmitri: bets $3
+belik555: calls $3
+*** TURN *** [8c 9d Ts] [8s]
+VolkovDmitri: checks
+belik555: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [8c 9d Ts 8s] [2s]
+VolkovDmitri: checks
+belik555: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to belik555
+belik555 collected $35.50 from pot
+belik555: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [8c 9d Ts 8s 2s]
+Seat 7: VolkovDmitri (big blind) folded on the River
+Seat 8: belik555 (button) (small blind) collected ($35.50)
+
+

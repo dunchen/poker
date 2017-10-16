@@ -1,0 +1,33 @@
+PokerStars Hand #146595116215:  Hold'em Limit ($3/$6 USD) - 2016/01/06 18:26:05 ET
+Table 'Geraldina II' 6-max Seat #2 is the button
+Seat 1: Andredias950 ($91.82 in chips)
+Seat 2: stasschi ($122.64 in chips)
+stasschi: posts small blind $1
+BagweII: is sitting out
+Andredias950: posts big blind $3
+*** HOLE CARDS ***
+stasschi: raises $3 to $6
+BagweII leaves the table
+Andredias950: calls $3
+*** FLOP *** [Ts 6c Td]
+Andredias950: checks
+stasschi: bets $3
+Andredias950: calls $3
+*** TURN *** [Ts 6c Td] [Th]
+Andredias950: checks
+stasschi: bets $6
+Andredias950: calls $6
+*** RIVER *** [Ts 6c Td Th] [Qs]
+Andredias950: checks
+stasschi: checks
+*** SHOW DOWN ***
+Andredias950: shows [Jd 9s] (three of a kind, Tens)
+stasschi: shows [4d 4h] (a full house, Tens full of Fours)
+stasschi collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Ts 6c Td Th Qs]
+Seat 1: Andredias950 (big blind) showed [Jd 9s] and lost with three of a kind, Tens
+Seat 2: stasschi (button) (small blind) showed [4d 4h] and won ($29.50) with a full house, Tens full of Fours
+
+

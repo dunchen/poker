@@ -1,0 +1,97 @@
+PokerStars Hand #167534229155:  Hold'em Limit ($3/$6 USD) - 2017/03/13 13:21:48 ET
+Table 'Datura' 6-max Seat #2 is the button
+Seat 1: Opal10 ($116.17 in chips)
+Seat 2: vestimokrec ($120 in chips)
+vestimokrec: posts small blind $1
+sim5sim5: is sitting out
+sim5sim5 leaves the table
+Opal10: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+SLK500 joins the table at seat #3
+Opal10: calls $3
+*** FLOP *** [9h 8h Qc]
+Opal10: bets $3
+SLK500 leaves the table
+vestimokrec: calls $3
+*** TURN *** [9h 8h Qc] [7h]
+Opal10: checks
+vestimokrec: checks
+*** RIVER *** [9h 8h Qc 7h] [Ah]
+Ale4o joins the table at seat #3
+Opal10: checks
+vestimokrec: checks
+*** SHOW DOWN ***
+Opal10: shows [5c 2c] (high card Ace)
+vestimokrec: shows [9d 4d] (a pair of Nines)
+vestimokrec collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9h 8h Qc 7h Ah]
+Seat 1: Opal10 (big blind) showed [5c 2c] and lost with high card Ace
+Seat 2: vestimokrec (button) (small blind) showed [9d 4d] and won ($17.64) with a pair of Nines
+
+
+PokerStars Hand #167534266189:  Hold'em Limit ($3/$6 USD) - 2017/03/13 13:22:37 ET
+Table 'Datura' 6-max Seat #1 is the button
+Seat 1: Opal10 ($107.17 in chips)
+Seat 2: vestimokrec ($128.64 in chips)
+Opal10: posts small blind $1
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+Opal10: calls $2
+vestimokrec: checks
+*** FLOP *** [Ah Td 8d]
+vestimokrec: checks
+Opal10: checks
+*** TURN *** [Ah Td 8d] [Qc]
+vestimokrec: checks
+Opal10: checks
+*** RIVER *** [Ah Td 8d Qc] [5h]
+vestimokrec: checks
+Opal10: checks
+*** SHOW DOWN ***
+vestimokrec: shows [2d 7s] (high card Ace)
+Opal10: shows [5s 6h] (a pair of Fives)
+Opal10 collected $5.88 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Ah Td 8d Qc 5h]
+Seat 1: Opal10 (button) (small blind) showed [5s 6h] and won ($5.88) with a pair of Fives
+Seat 2: vestimokrec (big blind) showed [2d 7s] and lost with high card Ace
+
+
+PokerStars Hand #167534383674:  Hold'em Limit ($3/$6 USD) - 2017/03/13 13:25:10 ET
+Table 'Datura' 6-max Seat #3 is the button
+Seat 2: vestimokrec ($138.02 in chips)
+Seat 3: Ale4o ($95 in chips)
+Ale4o: posts small blind $1
+Opal10 is disconnected
+Opal10 has timed out while disconnected
+Opal10: is sitting out
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+Ale4o: raises $3 to $6
+vestimokrec: calls $3
+*** FLOP *** [Qs 8s 8d]
+vestimokrec: checks
+Ale4o: bets $3
+vestimokrec: raises $3 to $6
+Ale4o: calls $3
+*** TURN *** [Qs 8s 8d] [4c]
+vestimokrec: bets $6
+Ale4o: calls $6
+*** RIVER *** [Qs 8s 8d 4c] [Kh]
+vestimokrec: bets $6
+Ale4o: calls $6
+*** SHOW DOWN ***
+vestimokrec: shows [5c Tc] (a pair of Eights)
+Ale4o: shows [Kd Qd] (two pair, Kings and Queens)
+Ale4o collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Qs 8s 8d 4c Kh]
+Seat 2: vestimokrec (big blind) showed [5c Tc] and lost with a pair of Eights
+Seat 3: Ale4o (button) (small blind) showed [Kd Qd] and won ($47.50) with two pair, Kings and Queens
+
+

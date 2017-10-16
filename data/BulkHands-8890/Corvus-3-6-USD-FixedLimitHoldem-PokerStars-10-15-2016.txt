@@ -1,0 +1,107 @@
+PokerStars Hand #159977858060:  Hold'em Limit ($3/$6 USD) - 2016/10/15 15:47:24 ET
+Table 'Corvus' 6-max Seat #3 is the button
+Seat 3: lovitoura21 ($36.11 in chips)
+Seat 6: koail32 ($85.61 in chips)
+lovitoura21: posts small blind $1
+koail32: posts big blind $3
+*** HOLE CARDS ***
+lovitoura21: calls $2
+koail32: raises $3 to $6
+lovitoura21: calls $3
+*** FLOP *** [3s 5h Ac]
+koail32: bets $3
+lovitoura21: calls $3
+*** TURN *** [3s 5h Ac] [9h]
+koail32: bets $6
+lovitoura21: calls $6
+*** RIVER *** [3s 5h Ac 9h] [Ks]
+koail32: bets $6
+AzureCaper joins the table at seat #4
+lovitoura21: raises $6 to $12
+koail32: folds
+Uncalled bet ($6) returned to lovitoura21
+lovitoura21 collected $41.50 from pot
+lovitoura21: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [3s 5h Ac 9h Ks]
+Seat 3: lovitoura21 (button) (small blind) collected ($41.50)
+Seat 6: koail32 (big blind) folded on the River
+
+
+PokerStars Hand #159977847155:  Hold'em Limit ($3/$6 USD) - 2016/10/15 15:47:10 ET
+Table 'Corvus' 6-max Seat #6 is the button
+Seat 3: lovitoura21 ($57.11 in chips)
+Seat 6: koail32 ($65.11 in chips)
+koail32: posts small blind $1
+lovitoura21: posts big blind $3
+*** HOLE CARDS ***
+koail32: calls $2
+lovitoura21: raises $3 to $6
+koail32: calls $3
+*** FLOP *** [Ad 6h 5h]
+lovitoura21: bets $3
+koail32: calls $3
+*** TURN *** [Ad 6h 5h] [2s]
+lovitoura21: bets $6
+koail32: calls $6
+*** RIVER *** [Ad 6h 5h 2s] [2c]
+lovitoura21: bets $6
+koail32: calls $6
+*** SHOW DOWN ***
+lovitoura21: shows [4s 6d] (two pair, Sixes and Deuces)
+koail32: shows [9c Ac] (two pair, Aces and Deuces)
+koail32 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ad 6h 5h 2s 2c]
+Seat 3: lovitoura21 (big blind) showed [4s 6d] and lost with two pair, Sixes and Deuces
+Seat 6: koail32 (button) (small blind) showed [9c Ac] and won ($41.50) with two pair, Aces and Deuces
+
+
+PokerStars Hand #159978309032:  Hold'em Limit ($3/$6 USD) - 2016/10/15 15:57:02 ET
+Table 'Corvus' 6-max Seat #1 is the button
+Seat 1: perten ($53.89 in chips)
+Seat 4: AzureCaper ($83.50 in chips)
+perten: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+perten: folds
+Uncalled bet ($2) returned to AzureCaper
+AzureCaper collected $2 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: perten (button) (small blind) folded before Flop
+Seat 4: AzureCaper (big blind) collected ($2)
+
+
+PokerStars Hand #159978292192:  Hold'em Limit ($3/$6 USD) - 2016/10/15 15:56:35 ET
+Table 'Corvus' 6-max Seat #4 is the button
+Seat 1: perten ($45.25 in chips)
+Seat 4: AzureCaper ($92.50 in chips)
+AzureCaper: posts small blind $1
+perten: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+perten: calls $3
+*** FLOP *** [8c Qd Jh]
+perten: checks
+AzureCaper: bets $3
+perten: calls $3
+*** TURN *** [8c Qd Jh] [Ks]
+perten: checks
+AzureCaper: checks
+*** RIVER *** [8c Qd Jh Ks] [5s]
+perten: bets $6
+AzureCaper: folds
+Uncalled bet ($6) returned to perten
+perten collected $17.64 from pot
+perten: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8c Qd Jh Ks 5s]
+Seat 1: perten (big blind) collected ($17.64)
+Seat 4: AzureCaper (button) (small blind) folded on the River
+
+

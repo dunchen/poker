@@ -1,0 +1,32 @@
+PokerStars Hand #161184719730:  Hold'em Limit ($3/$6 USD) - 2016/11/10 8:25:15 ET
+Table 'Coelestina II' 6-max Seat #4 is the button
+Seat 3: ABATAPP ($82 in chips)
+Seat 4: Kees123 ($172.47 in chips)
+Kees123: posts small blind $1
+vestimokrec: is sitting out
+GrumpyGonzo: is sitting out
+ABATAPP: posts big blind $3
+*** HOLE CARDS ***
+Kees123: raises $3 to $6
+ABATAPP: calls $3
+*** FLOP *** [9s 7c Ks]
+ABATAPP: checks
+Kees123: checks
+*** TURN *** [9s 7c Ks] [2h]
+ABATAPP: bets $6
+vestimokrec leaves the table
+Kees123: calls $6
+*** RIVER *** [9s 7c Ks 2h] [Kc]
+ABATAPP: bets $6
+Kees123: calls $6
+*** SHOW DOWN ***
+ABATAPP: shows [Qd 6h] (a pair of Kings)
+Kees123: shows [Ac 7s] (two pair, Kings and Sevens)
+Kees123 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [9s 7c Ks 2h Kc]
+Seat 3: ABATAPP (big blind) showed [Qd 6h] and lost with a pair of Kings
+Seat 4: Kees123 (button) (small blind) showed [Ac 7s] and won ($35.50) with two pair, Kings and Sevens
+
+

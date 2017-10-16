@@ -1,0 +1,31 @@
+PokerStars Hand #171267520023:  Hold'em Limit ($3/$6 USD) - 2017/06/02 20:38:25 ET
+Table 'Portia' 6-max Seat #1 is the button
+Seat 1: love_mmm ($120 in chips)
+Seat 2: boriskloris ($120 in chips)
+love_mmm: posts small blind $1
+boriskloris: posts big blind $3
+*** HOLE CARDS ***
+love_mmm: raises $3 to $6
+boriskloris: calls $3
+*** FLOP *** [3d 4h 6d]
+boriskloris: checks
+polenta33 joins the table at seat #3
+love_mmm: bets $3
+boriskloris: calls $3
+*** TURN *** [3d 4h 6d] [Kh]
+boriskloris: checks
+love_mmm: bets $6
+boriskloris: calls $6
+*** RIVER *** [3d 4h 6d Kh] [As]
+boriskloris: checks
+love_mmm: bets $6
+boriskloris: folds
+Uncalled bet ($6) returned to love_mmm
+love_mmm collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3d 4h 6d Kh As]
+Seat 1: love_mmm (button) (small blind) collected ($29.50)
+Seat 2: boriskloris (big blind) folded on the River
+
+

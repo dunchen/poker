@@ -1,0 +1,30 @@
+PokerStars Hand #168464529276:  Hold'em Limit ($3/$6 USD) - 2017/04/02 9:23:42 ET
+Table 'Meliboea' 6-max Seat #4 is the button
+Seat 4: Rus29APX ($119 in chips)
+Seat 5: HAL9QQQ ($120 in chips)
+Rus29APX: posts small blind $1
+HAL9QQQ: posts big blind $3
+*** HOLE CARDS ***
+Rus29APX: raises $3 to $6
+HAL9QQQ: calls $3
+*** FLOP *** [5s 4c 6h]
+blacklion340 leaves the table
+HAL9QQQ: bets $3
+Rus29APX: calls $3
+*** TURN *** [5s 4c 6h] [As]
+HAL9QQQ: bets $6
+Rus29APX: calls $6
+*** RIVER *** [5s 4c 6h As] [Ac]
+HAL9QQQ: checks
+Rus29APX: checks
+*** SHOW DOWN ***
+HAL9QQQ: shows [8s 7s] (a straight, Four to Eight)
+Rus29APX: mucks hand
+HAL9QQQ collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [5s 4c 6h As Ac]
+Seat 4: Rus29APX (button) (small blind) mucked
+Seat 5: HAL9QQQ (big blind) showed [8s 7s] and won ($29.50) with a straight, Four to Eight
+
+

@@ -1,0 +1,93 @@
+PokerStars Hand #147848679168:  Hold'em Limit ($3/$6 USD) - 2016/01/28 18:24:18 ET
+Table 'Arided' 6-max Seat #1 is the button
+Seat 1: Zubasa07 ($500 in chips)
+Seat 4: oliwan ($150 in chips)
+Zubasa07: posts small blind $1
+oliwan: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+oliwan: calls $3
+*** FLOP *** [2s 6h 5s]
+oliwan: checks
+Zubasa07: checks
+*** TURN *** [2s 6h 5s] [Js]
+oliwan: bets $6
+Zubasa07: calls $6
+*** RIVER *** [2s 6h 5s Js] [Qh]
+oliwan: checks
+Zubasa07: bets $6
+oliwan: folds
+Uncalled bet ($6) returned to Zubasa07
+Zubasa07 collected $23.52 from pot
+Zubasa07: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [2s 6h 5s Js Qh]
+Seat 1: Zubasa07 (button) (small blind) collected ($23.52)
+Seat 4: oliwan (big blind) folded on the River
+
+
+PokerStars Hand #147848720353:  Hold'em Limit ($3/$6 USD) - 2016/01/28 18:25:06 ET
+Table 'Arided' 6-max Seat #4 is the button
+Seat 1: Zubasa07 ($511.52 in chips)
+Seat 4: oliwan ($138 in chips)
+oliwan: posts small blind $1
+Zubasa07: posts big blind $3
+*** HOLE CARDS ***
+oliwan: raises $3 to $6
+Zubasa07: calls $3
+*** FLOP *** [Ad 4d 9s]
+Zubasa07: checks
+oliwan: bets $3
+Zubasa07: calls $3
+*** TURN *** [Ad 4d 9s] [2c]
+Zubasa07: checks
+oliwan: bets $6
+Zubasa07: calls $6
+*** RIVER *** [Ad 4d 9s 2c] [Qd]
+Zubasa07: checks
+oliwan: bets $6
+Zubasa07: calls $6
+*** SHOW DOWN ***
+oliwan: shows [As 5s] (a pair of Aces)
+Zubasa07: mucks hand
+oliwan collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ad 4d 9s 2c Qd]
+Seat 1: Zubasa07 (big blind) mucked
+Seat 4: oliwan (button) (small blind) showed [As 5s] and won ($41.50) with a pair of Aces
+
+
+PokerStars Hand #147848761401:  Hold'em Limit ($3/$6 USD) - 2016/01/28 18:25:55 ET
+Table 'Arided' 6-max Seat #1 is the button
+Seat 1: Zubasa07 ($490.52 in chips)
+Seat 4: oliwan ($158.50 in chips)
+Zubasa07: posts small blind $1
+oliwan: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+oliwan: raises $3 to $9
+Zubasa07: calls $3
+*** FLOP *** [6d 7s 9h]
+oliwan: bets $3
+Zubasa07: calls $3
+*** TURN *** [6d 7s 9h] [5c]
+oliwan: bets $6
+MellivoraSto joins the table at seat #5
+Zubasa07: calls $6
+*** RIVER *** [6d 7s 9h 5c] [Jd]
+oliwan: bets $6
+SmellyToes4u joins the table at seat #6
+Zubasa07: calls $6
+*** SHOW DOWN ***
+oliwan: shows [Kh Qh] (high card King)
+Zubasa07: shows [2d 2s] (a pair of Deuces)
+Zubasa07 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [6d 7s 9h 5c Jd]
+Seat 1: Zubasa07 (button) (small blind) showed [2d 2s] and won ($47.50) with a pair of Deuces
+Seat 4: oliwan (big blind) showed [Kh Qh] and lost with high card King
+
+

@@ -1,0 +1,615 @@
+PokerStars Hand #152362391728:  Hold'em Limit ($3/$6 USD) - 2016/04/24 3:51:03 ET
+Table 'Aralia' 6-max Seat #1 is the button
+Seat 1: Grieserix ($120 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+Grieserix: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Grieserix: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [5s Tc Ks]
+VolkovDmitri: checks
+Grieserix: checks
+*** TURN *** [5s Tc Ks] [8s]
+VolkovDmitri: checks
+Grieserix: checks
+*** RIVER *** [5s Tc Ks 8s] [Qd]
+VolkovDmitri: checks
+Grieserix: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [4s 5d] (a pair of Fives)
+Grieserix: mucks hand
+VolkovDmitri collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5s Tc Ks 8s Qd]
+Seat 1: Grieserix (button) (small blind) mucked
+Seat 4: VolkovDmitri (big blind) showed [4s 5d] and won ($11.76) with a pair of Fives
+
+
+PokerStars Hand #152362432241:  Hold'em Limit ($3/$6 USD) - 2016/04/24 3:52:59 ET
+Table 'Aralia' 6-max Seat #4 is the button
+Seat 1: Grieserix ($135.50 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+VolkovDmitri: posts small blind $1
+Grieserix: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Grieserix: calls $3
+*** FLOP *** [3s 9s 7h]
+Grieserix: checks
+VolkovDmitri: bets $3
+Grieserix: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3s 9s 7h]
+Seat 1: Grieserix (big blind) folded on the Flop
+Seat 4: VolkovDmitri (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #152362408052:  Hold'em Limit ($3/$6 USD) - 2016/04/24 3:51:50 ET
+Table 'Aralia' 6-max Seat #1 is the button
+Seat 1: Grieserix ($115 in chips)
+Seat 4: VolkovDmitri ($124.76 in chips)
+Grieserix: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Grieserix: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Ks 7h Qc]
+VolkovDmitri: bets $3
+Grieserix: calls $3
+*** TURN *** [Ks 7h Qc] [7s]
+VolkovDmitri: checks
+Grieserix: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [Ks 7h Qc 7s] [Jh]
+VolkovDmitri: checks
+Grieserix: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+Grieserix: shows [7c 6c] (three of a kind, Sevens)
+VolkovDmitri: mucks hand
+Grieserix collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ks 7h Qc 7s Jh]
+Seat 1: Grieserix (button) (small blind) showed [7c 6c] and won ($41.50) with three of a kind, Sevens
+Seat 4: VolkovDmitri (big blind) mucked
+
+
+PokerStars Hand #152362437229:  Hold'em Limit ($3/$6 USD) - 2016/04/24 3:53:14 ET
+Table 'Aralia' 6-max Seat #1 is the button
+Seat 1: Grieserix ($129.50 in chips)
+Seat 4: VolkovDmitri ($125.76 in chips)
+Grieserix: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Grieserix: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [2h Jh Tc]
+VolkovDmitri: checks
+Grieserix: bets $3
+.uuum7 joins the table at seat #6
+VolkovDmitri: calls $3
+*** TURN *** [2h Jh Tc] [9h]
+VolkovDmitri: checks
+Grieserix: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [2h Jh Tc 9h] [2s]
+VolkovDmitri: checks
+Grieserix: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to Grieserix
+Grieserix collected $29.50 from pot
+Grieserix: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [2h Jh Tc 9h 2s]
+Seat 1: Grieserix (button) (small blind) collected ($29.50)
+Seat 4: VolkovDmitri (big blind) folded on the River
+
+
+PokerStars Hand #152362455214:  Hold'em Limit ($3/$6 USD) - 2016/04/24 3:54:05 ET
+Table 'Aralia' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($120 in chips)
+Seat 6: .uuum7 ($120 in chips)
+VolkovDmitri: posts small blind $1
+.uuum7: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+.uuum7: calls $3
+*** FLOP *** [9h 3s 2d]
+.uuum7: checks
+HAL9QQQ joins the table at seat #2
+Grieserix leaves the table
+VolkovDmitri: bets $3
+.uuum7: calls $3
+*** TURN *** [9h 3s 2d] [8d]
+.uuum7: checks
+VolkovDmitri: bets $6
+.uuum7: calls $6
+*** RIVER *** [9h 3s 2d 8d] [Ts]
+.uuum7: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to .uuum7
+.uuum7 collected $29.50 from pot
+.uuum7: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9h 3s 2d 8d Ts]
+Seat 4: VolkovDmitri (button) (small blind) folded on the River
+Seat 6: .uuum7 (big blind) collected ($29.50)
+
+
+PokerStars Hand #152363164104:  Hold'em Limit ($3/$6 USD) - 2016/04/24 4:26:22 ET
+Table 'Aralia' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($137.50 in chips)
+Seat 3: Ervelino.V ($32 in chips)
+VolkovDmitri: posts small blind $1
+Ervelino.V: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Ervelino.V: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: VolkovDmitri (button) (small blind) collected ($6)
+Seat 3: Ervelino.V (big blind) folded before Flop
+
+
+PokerStars Hand #152363144525:  Hold'em Limit ($3/$6 USD) - 2016/04/24 4:25:32 ET
+Table 'Aralia' 6-max Seat #3 is the button
+Seat 1: VolkovDmitri ($120 in chips)
+Seat 3: Ervelino.V ($50 in chips)
+Ervelino.V: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Ervelino.V: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [7s 4d 8h]
+VolkovDmitri: checks
+Ervelino.V: bets $3
+VolkovDmitri: raises $3 to $6
+Ervelino.V: calls $3
+*** TURN *** [7s 4d 8h] [Js]
+VolkovDmitri: bets $6
+Ervelino.V: calls $6
+*** RIVER *** [7s 4d 8h Js] [4s]
+VolkovDmitri: checks
+Ervelino.V: checks
+*** SHOW DOWN ***
+VolkovDmitri: shows [Ts 7d] (two pair, Sevens and Fours)
+Ervelino.V: mucks hand
+VolkovDmitri collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [7s 4d 8h Js 4s]
+Seat 1: VolkovDmitri (big blind) showed [Ts 7d] and won ($35.50) with two pair, Sevens and Fours
+Seat 3: Ervelino.V (button) (small blind) mucked
+
+
+PokerStars Hand #152363167712:  Hold'em Limit ($3/$6 USD) - 2016/04/24 4:26:32 ET
+Table 'Aralia' 6-max Seat #3 is the button
+Seat 1: VolkovDmitri ($140.50 in chips)
+Seat 3: Ervelino.V ($29 in chips)
+Ervelino.V: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Ervelino.V: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: VolkovDmitri (big blind) collected ($2)
+Seat 3: Ervelino.V (button) (small blind) folded before Flop
+
+
+PokerStars Hand #152363176878:  Hold'em Limit ($3/$6 USD) - 2016/04/24 4:26:55 ET
+Table 'Aralia' 6-max Seat #3 is the button
+Seat 1: VolkovDmitri ($144.50 in chips)
+Seat 3: Ervelino.V ($25 in chips)
+Ervelino.V: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Ervelino.V: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Qc 2s 5h]
+VolkovDmitri: checks
+Ervelino.V: checks
+*** TURN *** [Qc 2s 5h] [2c]
+VolkovDmitri: bets $6
+Ervelino.V: calls $6
+*** RIVER *** [Qc 2s 5h 2c] [6d]
+VolkovDmitri: bets $6
+Ervelino.V: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $23.52 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Qc 2s 5h 2c 6d]
+Seat 1: VolkovDmitri (big blind) collected ($23.52)
+Seat 3: Ervelino.V (button) (small blind) folded on the River
+
+
+PokerStars Hand #152363171098:  Hold'em Limit ($3/$6 USD) - 2016/04/24 4:26:40 ET
+Table 'Aralia' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($141.50 in chips)
+Seat 3: Ervelino.V ($28 in chips)
+VolkovDmitri: posts small blind $1
+Ervelino.V: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Ervelino.V: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: VolkovDmitri (button) (small blind) collected ($6)
+Seat 3: Ervelino.V (big blind) folded before Flop
+
+
+PokerStars Hand #152363214876:  Hold'em Limit ($3/$6 USD) - 2016/04/24 4:28:31 ET
+Table 'Aralia' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($153.52 in chips)
+Seat 3: Ervelino.V ($114.50 in chips)
+VolkovDmitri: posts small blind $1
+Ervelino.V: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: folds
+Uncalled bet ($2) returned to Ervelino.V
+Ervelino.V collected $2 from pot
+Ervelino.V: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: VolkovDmitri (button) (small blind) folded before Flop
+Seat 3: Ervelino.V (big blind) collected ($2)
+
+
+PokerStars Hand #152363202240:  Hold'em Limit ($3/$6 USD) - 2016/04/24 4:27:59 ET
+Table 'Aralia' 6-max Seat #3 is the button
+Seat 1: VolkovDmitri ($168.52 in chips)
+Seat 3: Ervelino.V ($100 in chips)
+Ervelino.V: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Ervelino.V: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [8h 9h Jc]
+VolkovDmitri: checks
+Ervelino.V: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [8h 9h Jc] [6c]
+VolkovDmitri: checks
+Ervelino.V: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [8h 9h Jc 6c] [As]
+VolkovDmitri: checks
+Ervelino.V: bets $6
+VolkovDmitri: folds
+Uncalled bet ($6) returned to Ervelino.V
+Ervelino.V collected $29.50 from pot
+Ervelino.V: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8h 9h Jc 6c As]
+Seat 1: VolkovDmitri (big blind) folded on the River
+Seat 3: Ervelino.V (button) (small blind) collected ($29.50)
+
+
+PokerStars Hand #152363184976:  Hold'em Limit ($3/$6 USD) - 2016/04/24 4:27:15 ET
+Table 'Aralia' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($156.02 in chips)
+Seat 3: Ervelino.V ($13 in chips)
+VolkovDmitri: posts small blind $1
+Ervelino.V: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Ervelino.V: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [Ah 9d 8c]
+Ervelino.V: bets $3
+VolkovDmitri: raises $3 to $6
+Ervelino.V: calls $1 and is all-in
+Uncalled bet ($2) returned to VolkovDmitri
+*** TURN *** [Ah 9d 8c] [Tc]
+*** RIVER *** [Ah 9d 8c Tc] [6h]
+*** SHOW DOWN ***
+Ervelino.V: shows [Qc Qh] (a pair of Queens)
+VolkovDmitri: shows [Ac 7h] (a straight, Six to Ten)
+VolkovDmitri collected $25.50 from pot
+*** SUMMARY ***
+Total pot $26 | Rake $0.50
+Board [Ah 9d 8c Tc 6h]
+Seat 1: VolkovDmitri (button) (small blind) showed [Ac 7h] and won ($25.50) with a straight, Six to Ten
+Seat 3: Ervelino.V (big blind) showed [Qc Qh] and lost with a pair of Queens
+
+
+PokerStars Hand #152363217196:  Hold'em Limit ($3/$6 USD) - 2016/04/24 4:28:37 ET
+Table 'Aralia' 6-max Seat #3 is the button
+Seat 1: VolkovDmitri ($152.52 in chips)
+Seat 3: Ervelino.V ($115.50 in chips)
+Ervelino.V: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Ervelino.V: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: VolkovDmitri (big blind) collected ($2)
+Seat 3: Ervelino.V (button) (small blind) folded before Flop
+
+
+PokerStars Hand #152363235473:  Hold'em Limit ($3/$6 USD) - 2016/04/24 4:29:24 ET
+Table 'Aralia' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($150.52 in chips)
+Seat 3: Ervelino.V ($117.26 in chips)
+VolkovDmitri: posts small blind $1
+Ervelino.V: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Ervelino.V: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: VolkovDmitri (button) (small blind) collected ($6)
+Seat 3: Ervelino.V (big blind) folded before Flop
+
+
+PokerStars Hand #152363219197:  Hold'em Limit ($3/$6 USD) - 2016/04/24 4:28:42 ET
+Table 'Aralia' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($153.52 in chips)
+Seat 3: Ervelino.V ($114.50 in chips)
+VolkovDmitri: posts small blind $1
+Ervelino.V: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Ervelino.V: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $6 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: VolkovDmitri (button) (small blind) collected ($6)
+Seat 3: Ervelino.V (big blind) folded before Flop
+
+
+PokerStars Hand #152363222124:  Hold'em Limit ($3/$6 USD) - 2016/04/24 4:28:49 ET
+Table 'Aralia' 6-max Seat #3 is the button
+Seat 1: VolkovDmitri ($156.52 in chips)
+Seat 3: Ervelino.V ($111.50 in chips)
+Ervelino.V: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Ervelino.V: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [8c 6h Ks]
+VolkovDmitri: checks
+Ervelino.V: bets $3
+VolkovDmitri: folds
+Uncalled bet ($3) returned to Ervelino.V
+Ervelino.V collected $11.76 from pot
+Ervelino.V: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8c 6h Ks]
+Seat 1: VolkovDmitri (big blind) folded on the Flop
+Seat 3: Ervelino.V (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #152363238234:  Hold'em Limit ($3/$6 USD) - 2016/04/24 4:29:30 ET
+Table 'Aralia' 6-max Seat #3 is the button
+Seat 1: VolkovDmitri ($153.52 in chips)
+Seat 3: Ervelino.V ($114.26 in chips)
+Ervelino.V: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Ervelino.V: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [3s Jd 6d]
+VolkovDmitri: bets $3
+Ervelino.V: raises $3 to $6
+VolkovDmitri: raises $3 to $9
+Ervelino.V: raises $3 to $12
+Betting is capped
+VolkovDmitri: calls $3
+*** TURN *** [3s Jd 6d] [Ah]
+VolkovDmitri: checks
+Ervelino.V: bets $6
+kolaz03 joins the table at seat #4
+VolkovDmitri: calls $6
+*** RIVER *** [3s Jd 6d Ah] [5h]
+VolkovDmitri: bets $6
+Ervelino.V: raises $6 to $12
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+Ervelino.V: shows [Kd 7d] (high card Ace)
+VolkovDmitri: shows [Js 5c] (two pair, Jacks and Fives)
+VolkovDmitri collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [3s Jd 6d Ah 5h]
+Seat 1: VolkovDmitri (big blind) showed [Js 5c] and won ($71.50) with two pair, Jacks and Fives
+Seat 3: Ervelino.V (button) (small blind) showed [Kd 7d] and lost with high card Ace
+
+
+PokerStars Hand #152363282689:  Hold'em Limit ($3/$6 USD) - 2016/04/24 4:31:23 ET
+Table 'Aralia' 6-max Seat #1 is the button
+Seat 1: VolkovDmitri ($189.02 in chips)
+Seat 3: Ervelino.V ($78.26 in chips)
+VolkovDmitri: posts small blind $1
+Ervelino.V: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+Ervelino.V: calls $3
+*** FLOP *** [3h 7d Ad]
+Ervelino.V: checks
+VolkovDmitri: bets $3
+Ervelino.V: calls $3
+*** TURN *** [3h 7d Ad] [Kc]
+Ervelino.V: checks
+VolkovDmitri: checks
+*** RIVER *** [3h 7d Ad Kc] [9d]
+Ervelino.V: checks
+VolkovDmitri: bets $6
+Ervelino.V: calls $6
+*** SHOW DOWN ***
+VolkovDmitri: shows [Kh 8s] (a pair of Kings)
+Ervelino.V: mucks hand
+VolkovDmitri collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3h 7d Ad Kc 9d]
+Seat 1: VolkovDmitri (button) (small blind) showed [Kh 8s] and won ($29.50) with a pair of Kings
+Seat 3: Ervelino.V (big blind) mucked
+
+
+PokerStars Hand #152363512355:  Hold'em Limit ($3/$6 USD) - 2016/04/24 4:40:56 ET
+Table 'Aralia' 6-max Seat #3 is the button
+Seat 3: Ervelino.V ($102.09 in chips)
+Seat 4: kolaz03 ($73.64 in chips)
+Ervelino.V: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+Ervelino.V: folds
+Uncalled bet ($2) returned to kolaz03
+kolaz03 collected $2 from pot
+kolaz03: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: Ervelino.V (button) (small blind) folded before Flop
+Seat 4: kolaz03 (big blind) collected ($2)
+
+
+PokerStars Hand #152363518570:  Hold'em Limit ($3/$6 USD) - 2016/04/24 4:41:12 ET
+Table 'Aralia' 6-max Seat #3 is the button
+Seat 3: Ervelino.V ($98.09 in chips)
+Seat 4: kolaz03 ($77.64 in chips)
+Ervelino.V: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri leaves the table
+Ervelino.V: raises $3 to $6
+kolaz03: raises $3 to $9
+Ervelino.V: raises $3 to $12
+Betting is capped
+kolaz03: calls $3
+*** FLOP *** [2s 7d 2d]
+kolaz03: checks
+Ervelino.V: bets $3
+kolaz03: calls $3
+*** TURN *** [2s 7d 2d] [7s]
+kolaz03: checks
+Ervelino.V: bets $6
+kolaz03: calls $6
+*** RIVER *** [2s 7d 2d 7s] [4s]
+kolaz03: checks
+Ervelino.V: bets $6
+kolaz03: folds
+Uncalled bet ($6) returned to Ervelino.V
+Ervelino.V collected $41.50 from pot
+Ervelino.V: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2s 7d 2d 7s 4s]
+Seat 3: Ervelino.V (button) (small blind) collected ($41.50)
+Seat 4: kolaz03 (big blind) folded on the River
+
+
+PokerStars Hand #152363514429:  Hold'em Limit ($3/$6 USD) - 2016/04/24 4:41:01 ET
+Table 'Aralia' 6-max Seat #4 is the button
+Seat 3: Ervelino.V ($101.09 in chips)
+Seat 4: kolaz03 ($74.64 in chips)
+kolaz03: posts small blind $1
+Ervelino.V: posts big blind $3
+*** HOLE CARDS ***
+kolaz03: raises $3 to $6
+Ervelino.V: folds
+Uncalled bet ($3) returned to kolaz03
+kolaz03 collected $6 from pot
+kolaz03: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: Ervelino.V (big blind) folded before Flop
+Seat 4: kolaz03 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #152363533109:  Hold'em Limit ($3/$6 USD) - 2016/04/24 4:41:47 ET
+Table 'Aralia' 6-max Seat #3 is the button
+Seat 3: Ervelino.V ($115.59 in chips)
+Seat 4: kolaz03 ($75 in chips)
+Ervelino.V: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+Ervelino.V: raises $3 to $6
+kolaz03: calls $3
+*** FLOP *** [4s 8c 6c]
+kolaz03: checks
+Ervelino.V: checks
+*** TURN *** [4s 8c 6c] [4d]
+tangxueke joins the table at seat #6
+kolaz03: bets $6
+Ervelino.V: calls $6
+*** RIVER *** [4s 8c 6c 4d] [8d]
+kolaz03: bets $6
+Ervelino.V: calls $6
+*** SHOW DOWN ***
+kolaz03: shows [5s 6h] (two pair, Eights and Sixes)
+Ervelino.V: mucks hand
+kolaz03 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [4s 8c 6c 4d 8d]
+Seat 3: Ervelino.V (button) (small blind) mucked
+Seat 4: kolaz03 (big blind) showed [5s 6h] and won ($35.50) with two pair, Eights and Sixes
+
+
+PokerStars Hand #152363529316:  Hold'em Limit ($3/$6 USD) - 2016/04/24 4:41:38 ET
+Table 'Aralia' 6-max Seat #4 is the button
+Seat 3: Ervelino.V ($118.59 in chips)
+Seat 4: kolaz03 ($72 in chips)
+kolaz03: posts small blind $1
+Ervelino.V: posts big blind $3
+*** HOLE CARDS ***
+kolaz03: raises $3 to $6
+Ervelino.V: folds
+Uncalled bet ($3) returned to kolaz03
+kolaz03 collected $6 from pot
+kolaz03: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 3: Ervelino.V (big blind) folded before Flop
+Seat 4: kolaz03 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #152365276618:  Hold'em Limit ($3/$6 USD) - 2016/04/24 5:47:32 ET
+Table 'Aralia' 6-max Seat #6 is the button
+Seat 1: bcg4 ($143.98 in chips)
+Seat 6: tangxueke ($172.84 in chips)
+tangxueke: posts small blind $1
+bcg4: posts big blind $3
+*** HOLE CARDS ***
+tangxueke: raises $3 to $6
+bcg4: folds
+Uncalled bet ($3) returned to tangxueke
+bcg4 leaves the table
+tangxueke collected $6 from pot
+tangxueke: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: bcg4 (big blind) folded before Flop
+Seat 6: tangxueke (button) (small blind) collected ($6)
+
+

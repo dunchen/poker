@@ -1,0 +1,117 @@
+PokerStars Hand #159374489886:  Hold'em Limit ($3/$6 USD) - 2016/10/02 10:45:36 ET
+Table 'Kepler' 6-max Seat #2 is the button
+Seat 1: dirk 0001 ($47.78 in chips)
+Seat 2: kolaz03 ($92.57 in chips)
+kolaz03: posts small blind $1
+dirk 0001: posts big blind $3
+*** HOLE CARDS ***
+kolaz03: raises $3 to $6
+dirk 0001: calls $3
+*** FLOP *** [Kc Qh 7d]
+dirk 0001: checks
+kolaz03: bets $3
+dirk 0001: calls $3
+*** TURN *** [Kc Qh 7d] [Qd]
+dirk 0001: checks
+kolaz03: checks
+*** RIVER *** [Kc Qh 7d Qd] [7h]
+dirk 0001: bets $6
+kolaz03: calls $6
+*** SHOW DOWN ***
+dirk 0001: shows [Qc 2d] (a full house, Queens full of Sevens)
+kolaz03: mucks hand
+dirk 0001 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kc Qh 7d Qd 7h]
+Seat 1: dirk 0001 (big blind) showed [Qc 2d] and won ($29.50) with a full house, Queens full of Sevens
+Seat 2: kolaz03 (button) (small blind) mucked
+
+
+PokerStars Hand #159374514249:  Hold'em Limit ($3/$6 USD) - 2016/10/02 10:46:12 ET
+Table 'Kepler' 6-max Seat #1 is the button
+Seat 1: dirk 0001 ($69.04 in chips)
+Seat 2: kolaz03 ($72 in chips)
+dirk 0001: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+dirk 0001: raises $3 to $6
+kolaz03: calls $3
+*** FLOP *** [Td 7d Ts]
+kolaz03: checks
+dirk 0001: bets $3
+kolaz03: raises $3 to $6
+dirk 0001: calls $3
+*** TURN *** [Td 7d Ts] [Kc]
+kolaz03: bets $6
+dirk 0001: calls $6
+*** RIVER *** [Td 7d Ts Kc] [9c]
+kolaz03: bets $6
+dirk 0001: calls $6
+*** SHOW DOWN ***
+kolaz03: shows [7c Ks] (two pair, Kings and Tens)
+dirk 0001: mucks hand
+kolaz03 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Td 7d Ts Kc 9c]
+Seat 1: dirk 0001 (button) (small blind) mucked
+Seat 2: kolaz03 (big blind) showed [7c Ks] and won ($47.50) with two pair, Kings and Tens
+
+
+PokerStars Hand #159374511373:  Hold'em Limit ($3/$6 USD) - 2016/10/02 10:46:08 ET
+Table 'Kepler' 6-max Seat #2 is the button
+Seat 1: dirk 0001 ($68.04 in chips)
+Seat 2: kolaz03 ($72 in chips)
+kolaz03: posts small blind $1
+dirk 0001: posts big blind $3
+*** HOLE CARDS ***
+Great_Kang joins the table at seat #3
+kolaz03: folds
+Uncalled bet ($2) returned to dirk 0001
+dirk 0001 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: dirk 0001 (big blind) collected ($2)
+Seat 2: kolaz03 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #159374503610:  Hold'em Limit ($3/$6 USD) - 2016/10/02 10:45:56 ET
+Table 'Kepler' 6-max Seat #1 is the button
+Seat 1: dirk 0001 ($62.28 in chips)
+Seat 2: kolaz03 ($77.57 in chips)
+dirk 0001: posts small blind $1
+kolaz03: posts big blind $3
+*** HOLE CARDS ***
+dirk 0001: raises $3 to $6
+kolaz03: calls $3
+*** FLOP *** [4d As Qc]
+kolaz03: checks
+dirk 0001: bets $3
+kolaz03: folds
+Uncalled bet ($3) returned to dirk 0001
+dirk 0001 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4d As Qc]
+Seat 1: dirk 0001 (button) (small blind) collected ($11.76)
+Seat 2: kolaz03 (big blind) folded on the Flop
+
+
+PokerStars Hand #159378202104:  Hold'em Limit ($3/$6 USD) - 2016/10/02 12:13:45 ET
+Table 'Kepler' 6-max Seat #4 is the button
+Seat 3: CrongCrong ($133.76 in chips)
+Seat 4: Azrarn ($166.25 in chips)
+Azrarn: posts small blind $1
+CrongCrong: posts big blind $3
+*** HOLE CARDS ***
+Azrarn: folds
+Uncalled bet ($2) returned to CrongCrong
+CrongCrong collected $2 from pot
+CrongCrong: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: CrongCrong (big blind) collected ($2)
+Seat 4: Azrarn (button) (small blind) folded before Flop
+
+

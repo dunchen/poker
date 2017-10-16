@@ -1,0 +1,33 @@
+PokerStars Hand #145115934823:  Hold'em Limit ($3/$6 USD) - 2015/12/10 6:57:14 ET
+Table 'Nortia' 6-max Seat #3 is the button
+Seat 2: donjuanmt ($116.24 in chips)
+Seat 3: HAL9QQQ ($120 in chips)
+HAL9QQQ: posts small blind $1
+MTails: is sitting out
+TbIP-TbIP 88: is sitting out
+donjuanmt: posts big blind $3
+*** HOLE CARDS ***
+HAL9QQQ: raises $3 to $6
+MTails leaves the table
+donjuanmt: calls $3
+*** FLOP *** [4s Jh 3h]
+donjuanmt: checks
+HAL9QQQ: bets $3
+donjuanmt: calls $3
+*** TURN *** [4s Jh 3h] [4d]
+donjuanmt: checks
+HAL9QQQ: checks
+*** RIVER *** [4s Jh 3h 4d] [Jc]
+donjuanmt: checks
+HAL9QQQ: checks
+*** SHOW DOWN ***
+donjuanmt: shows [9c Ad] (two pair, Jacks and Fours)
+HAL9QQQ: mucks hand
+donjuanmt collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4s Jh 3h 4d Jc]
+Seat 2: donjuanmt (big blind) showed [9c Ad] and won ($17.64) with two pair, Jacks and Fours
+Seat 3: HAL9QQQ (button) (small blind) mucked
+
+

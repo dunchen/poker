@@ -1,0 +1,56 @@
+PokerStars Hand #151364928657:  Hold'em Limit ($3/$6 USD) - 2016/04/03 9:57:14 ET
+Table 'Almaak II' 6-max Seat #1 is the button
+Seat 1: mazael ($96 in chips)
+Seat 2: TbIP-TbIP 88 ($95.50 in chips)
+mazael: posts small blind $1
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+mazael: calls $2
+TbIP-TbIP 88: checks
+*** FLOP *** [Qc Ac Tc]
+TbIP-TbIP 88: checks
+mazael: bets $3
+TbIP-TbIP 88: folds
+Uncalled bet ($3) returned to mazael
+alexfer999 joins the table at seat #4
+mazael collected $5.88 from pot
+mazael: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Qc Ac Tc]
+Seat 1: mazael (button) (small blind) collected ($5.88)
+Seat 2: TbIP-TbIP 88 (big blind) folded on the Flop
+
+
+PokerStars Hand #151364913655:  Hold'em Limit ($3/$6 USD) - 2016/04/03 9:56:47 ET
+Table 'Almaak II' 6-max Seat #2 is the button
+Seat 1: mazael ($120 in chips)
+Seat 2: TbIP-TbIP 88 ($72 in chips)
+TbIP-TbIP 88: posts small blind $1
+anetkaapro: is sitting out
+mazael: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88: raises $3 to $6
+vovojc joins the table at seat #3
+mazael: raises $3 to $9
+TbIP-TbIP 88: calls $3
+*** FLOP *** [3c 4s 5s]
+mazael: bets $3
+TbIP-TbIP 88: calls $3
+*** TURN *** [3c 4s 5s] [Ts]
+mazael: bets $6
+TbIP-TbIP 88: calls $6
+*** RIVER *** [3c 4s 5s Ts] [Ad]
+mazael: bets $6
+TbIP-TbIP 88: calls $6
+*** SHOW DOWN ***
+mazael: shows [Kc 4c] (a pair of Fours)
+TbIP-TbIP 88: shows [5d Kh] (a pair of Fives)
+TbIP-TbIP 88 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3c 4s 5s Ts Ad]
+Seat 1: mazael (big blind) showed [Kc 4c] and lost with a pair of Fours
+Seat 2: TbIP-TbIP 88 (button) (small blind) showed [5d Kh] and won ($47.50) with a pair of Fives
+
+

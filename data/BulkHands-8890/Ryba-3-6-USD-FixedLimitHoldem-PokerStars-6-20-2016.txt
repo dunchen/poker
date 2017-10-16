@@ -1,0 +1,52 @@
+PokerStars Hand #154974906372:  Hold'em Limit ($3/$6 USD) - 2016/06/20 9:27:34 ET
+Table 'Ryba' 10-max Seat #6 is the button
+Seat 6: Agniosius ($180.47 in chips)
+Seat 7: B_loJkl ($159.51 in chips)
+Agniosius: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Agniosius: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [6s Ts 9h]
+B_loJkl: checks
+Agniosius: bets $3
+B_loJkl: raises $3 to $6
+Agniosius: calls $3
+*** TURN *** [6s Ts 9h] [Qs]
+B_loJkl: bets $6
+Agniosius: raises $6 to $12
+B_loJkl: calls $6
+*** RIVER *** [6s Ts 9h Qs] [Kc]
+B_loJkl: checks
+Agniosius: bets $6
+2cctv joins the table at seat #5
+B_loJkl: calls $6
+*** SHOW DOWN ***
+Agniosius: shows [6h 6d] (three of a kind, Sixes)
+B_loJkl: mucks hand
+Agniosius collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [6s Ts 9h Qs Kc]
+Seat 6: Agniosius (button) (small blind) showed [6h 6d] and won ($59.50) with three of a kind, Sixes
+Seat 7: B_loJkl (big blind) mucked
+
+
+PokerStars Hand #154974902563:  Hold'em Limit ($3/$6 USD) - 2016/06/20 9:27:26 ET
+Table 'Ryba' 10-max Seat #7 is the button
+Seat 6: Agniosius ($183.47 in chips)
+Seat 7: B_loJkl ($156.51 in chips)
+B_loJkl: posts small blind $1
+Agniosius: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+Agniosius: folds
+Uncalled bet ($3) returned to B_loJkl
+B_loJkl collected $6 from pot
+B_loJkl: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 6: Agniosius (big blind) folded before Flop
+Seat 7: B_loJkl (button) (small blind) collected ($6)
+
+

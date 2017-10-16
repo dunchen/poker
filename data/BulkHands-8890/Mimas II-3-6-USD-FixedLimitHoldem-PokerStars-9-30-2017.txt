@@ -1,0 +1,32 @@
+PokerStars Hand #176291115919:  Hold'em Limit ($3/$6 USD) - 2017/09/29 20:45:36 ET
+Table 'Mimas II' 6-max Seat #2 is the button
+Seat 2: libaikang ($120 in chips)
+Seat 3: Ag3r0n ($72 in chips)
+libaikang: posts small blind $1
+Ag3r0n: posts big blind $3
+*** HOLE CARDS ***
+libaikang: calls $2
+Ag3r0n: raises $3 to $6
+libaikang: calls $3
+*** FLOP *** [Jh 5d 2c]
+Ag3r0n: bets $3
+libaikang: calls $3
+*** TURN *** [Jh 5d 2c] [9c]
+Ag3r0n: checks
+libaikang: bets $6
+Ag3r0n: calls $6
+*** RIVER *** [Jh 5d 2c 9c] [4d]
+Ag3r0n: checks
+libaikang: bets $6
+Ag3r0n: calls $6
+*** SHOW DOWN ***
+libaikang: shows [8d Js] (a pair of Jacks)
+Ag3r0n: mucks hand
+libaikang collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Jh 5d 2c 9c 4d]
+Seat 2: libaikang (button) (small blind) showed [8d Js] and won ($41.50) with a pair of Jacks
+Seat 3: Ag3r0n (big blind) mucked
+
+

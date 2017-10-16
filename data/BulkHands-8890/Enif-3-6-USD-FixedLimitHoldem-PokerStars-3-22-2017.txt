@@ -1,0 +1,83 @@
+PokerStars Hand #167938907199:  Hold'em Limit ($3/$6 USD) - 2017/03/22 5:37:04 ET
+Table 'Enif' 6-max Seat #1 is the button
+Seat 1: Sagen1405 ($120 in chips)
+Seat 4: MTails ($120 in chips)
+Sagen1405: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+Sagen1405: calls $2
+MTails: raises $3 to $6
+andyrr joins the table at seat #6
+kolaz03 joins the table at seat #2
+Sagen1405: calls $3
+*** FLOP *** [Kd Jd 9d]
+MTails: bets $3
+Sagen1405: calls $3
+*** TURN *** [Kd Jd 9d] [Jh]
+MTails: checks
+Ale4o joins the table at seat #3
+Sagen1405: bets $6
+MTails: calls $6
+*** RIVER *** [Kd Jd 9d Jh] [Js]
+MTails: checks
+Sagen1405: checks
+*** SHOW DOWN ***
+MTails: shows [Qd Qc] (a full house, Jacks full of Queens)
+Sagen1405: mucks hand
+MTails collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kd Jd 9d Jh Js]
+Seat 1: Sagen1405 (button) (small blind) mucked
+Seat 4: MTails (big blind) showed [Qd Qc] and won ($29.50) with a full house, Jacks full of Queens
+
+
+PokerStars Hand #167940782881:  Hold'em Limit ($3/$6 USD) - 2017/03/22 6:57:39 ET
+Table 'Enif' 6-max Seat #2 is the button
+Seat 2: ionellu ($237.11 in chips)
+Seat 4: krytalex ($181.44 in chips)
+ionellu: posts small blind $1
+krytalex: posts big blind $3
+*** HOLE CARDS ***
+ionellu: raises $3 to $6
+krytalex: folds
+Uncalled bet ($3) returned to ionellu
+ionellu collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: ionellu (button) (small blind) collected ($6)
+Seat 4: krytalex (big blind) folded before Flop
+
+
+PokerStars Hand #167940771029:  Hold'em Limit ($3/$6 USD) - 2017/03/22 6:57:07 ET
+Table 'Enif' 6-max Seat #4 is the button
+Seat 2: ionellu ($228.47 in chips)
+Seat 4: krytalex ($190.44 in chips)
+krytalex: posts small blind $1
+Sleeper007: is sitting out
+ionellu: posts big blind $3
+*** HOLE CARDS ***
+Sleeper007 leaves the table
+krytalex: raises $3 to $6
+ionellu: calls $3
+*** FLOP *** [Th 4h 3d]
+ionellu: checks
+krytalex: bets $3
+ionellu: calls $3
+*** TURN *** [Th 4h 3d] [Qd]
+ionellu: checks
+krytalex: checks
+*** RIVER *** [Th 4h 3d Qd] [4s]
+ionellu: checks
+krytalex: checks
+*** SHOW DOWN ***
+ionellu: shows [9c Ad] (a pair of Fours)
+krytalex: mucks hand
+ionellu collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Th 4h 3d Qd 4s]
+Seat 2: ionellu (big blind) showed [9c Ad] and won ($17.64) with a pair of Fours
+Seat 4: krytalex (button) (small blind) mucked
+
+

@@ -1,0 +1,87 @@
+PokerStars Hand #175059513414:  Hold'em Limit ($3/$6 USD) - 2017/09/01 8:03:10 ET
+Table 'Zubaida' 6-max Seat #4 is the button
+Seat 1: axnesq777 ($62.85 in chips)
+Seat 4: VolkovDmitri ($146.50 in chips)
+VolkovDmitri: posts small blind $1
+axnesq777: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+axnesq777: calls $3
+*** FLOP *** [8h 3h Ad]
+axnesq777: checks
+VolkovDmitri: bets $3
+axnesq777: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8h 3h Ad]
+Seat 1: axnesq777 (big blind) folded on the Flop
+Seat 4: VolkovDmitri (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #175059497601:  Hold'em Limit ($3/$6 USD) - 2017/09/01 8:02:34 ET
+Table 'Zubaida' 6-max Seat #1 is the button
+Seat 1: axnesq777 ($89.85 in chips)
+Seat 4: VolkovDmitri ($120 in chips)
+axnesq777: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+axnesq777: calls $2
+VolkovDmitri: raises $3 to $6
+axnesq777: calls $3
+*** FLOP *** [2s 5c 6h]
+VolkovDmitri: bets $3
+axnesq777: calls $3
+*** TURN *** [2s 5c 6h] [Th]
+VolkovDmitri: bets $6
+axnesq777: calls $6
+*** RIVER *** [2s 5c 6h Th] [3d]
+VolkovDmitri: bets $6
+axnesq777: raises $6 to $12
+B_loJkl joins the table at seat #2
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+axnesq777: shows [Td 8s] (a pair of Tens)
+VolkovDmitri: shows [2d 2h] (three of a kind, Deuces)
+VolkovDmitri collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [2s 5c 6h Th 3d]
+Seat 1: axnesq777 (button) (small blind) showed [Td 8s] and lost with a pair of Tens
+Seat 4: VolkovDmitri (big blind) showed [2d 2h] and won ($53.50) with three of a kind, Deuces
+
+
+PokerStars Hand #175059651340:  Hold'em Limit ($3/$6 USD) - 2017/09/01 8:08:17 ET
+Table 'Zubaida' 6-max Seat #2 is the button
+Seat 2: B_loJkl ($128.68 in chips)
+Seat 4: VolkovDmitri ($139.26 in chips)
+B_loJkl: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [Th 8c 5c]
+VolkovDmitri: checks
+B_loJkl: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [Th 8c 5c] [3d]
+VolkovDmitri: checks
+B_loJkl: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [Th 8c 5c 3d] [Qh]
+VolkovDmitri: checks
+B_loJkl: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [Qs Ah] (a pair of Queens)
+VolkovDmitri: mucks hand
+B_loJkl collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Th 8c 5c 3d Qh]
+Seat 2: B_loJkl (button) (small blind) showed [Qs Ah] and won ($41.50) with a pair of Queens
+Seat 4: VolkovDmitri (big blind) mucked
+
+

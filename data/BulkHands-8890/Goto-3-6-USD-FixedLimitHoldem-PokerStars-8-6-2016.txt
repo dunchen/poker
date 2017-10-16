@@ -1,0 +1,119 @@
+PokerStars Hand #156921756870:  Hold'em Limit ($3/$6 USD) - 2016/08/05 23:50:42 ET
+Table 'Goto' 6-max Seat #1 is the button
+Seat 1: AzureCaper ($72 in chips)
+Seat 6: sda.80.16 ($120 in chips)
+TbIP-TbIP 88 has timed out
+TbIP-TbIP 88: is sitting out
+TbIP-TbIP 88 leaves the table
+AzureCaper: posts small blind $1
+sda.80.16: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+sda.80.16: calls $3
+*** FLOP *** [3h Ts 6h]
+sda.80.16: checks
+AzureCaper: bets $3
+sda.80.16: calls $3
+*** TURN *** [3h Ts 6h] [9h]
+TbIP-TbIP 88 joins the table at seat #2
+sda.80.16: checks
+AzureCaper: bets $6
+sda.80.16: calls $6
+*** RIVER *** [3h Ts 6h 9h] [3s]
+sda.80.16: checks
+AzureCaper: bets $6
+sda.80.16: calls $6
+*** SHOW DOWN ***
+AzureCaper: shows [6d 9c] (two pair, Nines and Sixes)
+sda.80.16: mucks hand
+AzureCaper collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [3h Ts 6h 9h 3s]
+Seat 1: AzureCaper (button) (small blind) showed [6d 9c] and won ($41.50) with two pair, Nines and Sixes
+Seat 6: sda.80.16 (big blind) mucked
+
+
+PokerStars Hand #156921765578:  Hold'em Limit ($3/$6 USD) - 2016/08/05 23:51:13 ET
+Table 'Goto' 6-max Seat #6 is the button
+Seat 1: AzureCaper ($92.50 in chips)
+Seat 6: sda.80.16 ($99 in chips)
+sda.80.16: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+sda.80.16: raises $3 to $6
+AzureCaper: raises $3 to $9
+sda.80.16: calls $3
+*** FLOP *** [Td 5s Jd]
+AzureCaper: bets $3
+sda.80.16: calls $3
+*** TURN *** [Td 5s Jd] [Jc]
+AzureCaper: bets $6
+sda.80.16: calls $6
+*** RIVER *** [Td 5s Jd Jc] [7c]
+AzureCaper: checks
+sda.80.16: bets $6
+Chessnok joins the table at seat #3
+AzureCaper: calls $6
+*** SHOW DOWN ***
+sda.80.16: shows [9d 7s] (two pair, Jacks and Sevens)
+AzureCaper: mucks hand
+sda.80.16 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Td 5s Jd Jc 7c]
+Seat 1: AzureCaper (big blind) mucked
+Seat 6: sda.80.16 (button) (small blind) showed [9d 7s] and won ($47.50) with two pair, Jacks and Sevens
+
+
+PokerStars Hand #156921891392:  Hold'em Limit ($3/$6 USD) - 2016/08/05 23:59:02 ET
+Table 'Goto' 6-max Seat #4 is the button
+Seat 1: AzureCaper ($115.22 in chips)
+Seat 4: I M GOIN OFF ($123.99 in chips)
+I M GOIN OFF: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+I M GOIN OFF: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [4h 9s 2d]
+AzureCaper: checks
+I M GOIN OFF: bets $3
+AzureCaper: calls $3
+*** TURN *** [4h 9s 2d] [8h]
+AzureCaper: checks
+I M GOIN OFF: bets $6
+AzureCaper: calls $6
+*** RIVER *** [4h 9s 2d 8h] [Kh]
+AzureCaper: checks
+I M GOIN OFF: bets $6
+AzureCaper: calls $6
+*** SHOW DOWN ***
+I M GOIN OFF: shows [4s Kc] (two pair, Kings and Fours)
+AzureCaper: mucks hand
+I M GOIN OFF collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [4h 9s 2d 8h Kh]
+Seat 1: AzureCaper (big blind) mucked
+Seat 4: I M GOIN OFF (button) (small blind) showed [4s Kc] and won ($41.50) with two pair, Kings and Fours
+
+
+PokerStars Hand #156921890260:  Hold'em Limit ($3/$6 USD) - 2016/08/05 23:58:57 ET
+Table 'Goto' 6-max Seat #1 is the button
+Seat 1: AzureCaper ($116.22 in chips)
+Seat 4: I M GOIN OFF ($122.99 in chips)
+AzureCaper: posts small blind $1
+TbIP-TbIP 88: is sitting out
+Chessnok: is sitting out
+I M GOIN OFF: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: folds
+Uncalled bet ($2) returned to I M GOIN OFF
+I M GOIN OFF collected $2 from pot
+I M GOIN OFF: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: AzureCaper (button) (small blind) folded before Flop
+Seat 4: I M GOIN OFF (big blind) collected ($2)
+
+

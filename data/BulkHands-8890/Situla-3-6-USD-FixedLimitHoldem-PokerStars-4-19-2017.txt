@@ -1,0 +1,46 @@
+PokerStars Hand #169242623265:  Hold'em Limit ($3/$6 USD) - 2017/04/18 21:52:38 ET
+Table 'Situla' 6-max Seat #2 is the button
+Seat 2: EVBET ($205.90 in chips)
+Seat 5: Donald ($316.98 in chips)
+EVBET: posts small blind $1
+Donald: posts big blind $3
+*** HOLE CARDS ***
+EVBET: raises $3 to $6
+Donald: calls $3
+*** FLOP *** [8s As Js]
+Donald: checks
+EVBET: bets $3
+Donald: folds
+Uncalled bet ($3) returned to EVBET
+EVBET collected $11.76 from pot
+EVBET: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8s As Js]
+Seat 2: EVBET (button) (small blind) collected ($11.76)
+Seat 5: Donald (big blind) folded on the Flop
+
+
+PokerStars Hand #169242628490:  Hold'em Limit ($3/$6 USD) - 2017/04/18 21:52:52 ET
+Table 'Situla' 6-max Seat #5 is the button
+Seat 2: EVBET ($211.66 in chips)
+Seat 5: Donald ($310.98 in chips)
+Donald: posts small blind $1
+EVBET: posts big blind $3
+*** HOLE CARDS ***
+Donald: raises $3 to $6
+EVBET: calls $3
+*** FLOP *** [3s 9c 9h]
+EVBET: checks
+Donald: bets $3
+EVBET: folds
+Uncalled bet ($3) returned to Donald
+Donald collected $11.76 from pot
+Donald: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3s 9c 9h]
+Seat 2: EVBET (big blind) folded on the Flop
+Seat 5: Donald (button) (small blind) collected ($11.76)
+
+

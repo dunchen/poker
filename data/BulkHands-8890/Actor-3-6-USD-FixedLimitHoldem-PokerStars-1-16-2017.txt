@@ -1,0 +1,83 @@
+PokerStars Hand #164676275432:  Hold'em Limit ($3/$6 USD) - 2017/01/16 12:48:59 ET
+Table 'Actor' 6-max Seat #3 is the button
+Seat 1: LifeisagameX ($84 in chips)
+Seat 3: fugu82 ($121 in chips)
+fugu82: posts small blind $1
+LifeisagameX: posts big blind $3
+*** HOLE CARDS ***
+fugu82: folds
+Uncalled bet ($2) returned to LifeisagameX
+LifeisagameX collected $2 from pot
+LifeisagameX: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: LifeisagameX (big blind) collected ($2)
+Seat 3: fugu82 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #164676287109:  Hold'em Limit ($3/$6 USD) - 2017/01/16 12:49:12 ET
+Table 'Actor' 6-max Seat #1 is the button
+Seat 1: LifeisagameX ($85 in chips)
+Seat 3: fugu82 ($120 in chips)
+LifeisagameX: posts small blind $1
+fugu82: posts big blind $3
+*** HOLE CARDS ***
+LifeisagameX: raises $3 to $6
+fugu82: raises $3 to $9
+LifeisagameX: calls $3
+*** FLOP *** [Ad 4d 6s]
+fugu82: bets $3
+LifeisagameX: calls $3
+*** TURN *** [Ad 4d 6s] [5c]
+fugu82: bets $6
+volkovsky joins the table at seat #4
+LifeisagameX: calls $6
+*** RIVER *** [Ad 4d 6s 5c] [2c]
+fugu82: bets $6
+Velbor107 joins the table at seat #5
+LifeisagameX: calls $6
+*** SHOW DOWN ***
+fugu82: shows [9c Tc] (high card Ace)
+LifeisagameX: shows [As 7c] (a pair of Aces)
+LifeisagameX collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Ad 4d 6s 5c 2c]
+Seat 1: LifeisagameX (button) (small blind) showed [As 7c] and won ($47.50) with a pair of Aces
+Seat 3: fugu82 (big blind) showed [9c Tc] and lost with high card Ace
+
+
+PokerStars Hand #164681845321:  Hold'em Limit ($3/$6 USD) - 2017/01/16 14:28:03 ET
+Table 'Actor' 6-max Seat #1 is the button
+Seat 1: Krazy90 ($120 in chips)
+Seat 6: Chessnok ($131.86 in chips)
+Krazy90: posts small blind $1
+volkovsky: is sitting out
+LuckyScal: is sitting out
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+Krazy90: raises $3 to $6
+LuckyScal leaves the table
+Chessnok: raises $3 to $9
+Krazy90: calls $3
+*** FLOP *** [3c 4h 9c]
+Chessnok: bets $3
+Krazy90: calls $3
+*** TURN *** [3c 4h 9c] [5c]
+Chessnok: bets $6
+Krazy90: calls $6
+*** RIVER *** [3c 4h 9c 5c] [Jc]
+Chessnok: checks
+Krazy90: bets $6
+Chessnok: calls $6
+*** SHOW DOWN ***
+Krazy90: shows [2c 2d] (a flush, Jack high)
+Chessnok: mucks hand
+Krazy90 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3c 4h 9c 5c Jc]
+Seat 1: Krazy90 (button) (small blind) showed [2c 2d] and won ($47.50) with a flush, Jack high
+Seat 6: Chessnok (big blind) mucked
+
+

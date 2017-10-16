@@ -1,0 +1,33 @@
+PokerStars Hand #163401324723:  Hold'em Limit ($3/$6 USD) - 2016/12/23 12:58:30 ET
+Table 'Tunica' 6-max Seat #6 is the button
+Seat 3: kao2q ($35.60 in chips)
+Seat 6: mothears4 ($84.37 in chips)
+mothears4: posts small blind $1
+kao2q: posts big blind $3
+*** HOLE CARDS ***
+mothears4: raises $3 to $6
+kao2q: raises $3 to $9
+mothears4: calls $3
+*** FLOP *** [6d 8c 7d]
+RockKillerTY joins the table at seat #1
+kao2q: bets $3
+mothears4: raises $3 to $6
+kao2q: raises $3 to $9
+mothears4: calls $3
+*** TURN *** [6d 8c 7d] [2s]
+kao2q: bets $6
+mothears4: calls $6
+*** RIVER *** [6d 8c 7d 2s] [5h]
+kao2q: bets $6
+mothears4: calls $6
+*** SHOW DOWN ***
+kao2q: shows [7c Ts] (a pair of Sevens)
+mothears4: mucks hand
+kao2q collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [6d 8c 7d 2s 5h]
+Seat 3: kao2q (big blind) showed [7c Ts] and won ($59.50) with a pair of Sevens
+Seat 6: mothears4 (button) (small blind) mucked
+
+

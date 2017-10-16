@@ -1,0 +1,32 @@
+PokerStars Hand #176617304892:  Hold'em Limit ($3/$6 USD) - 2017/10/07 15:16:25 ET
+Table 'Imprinetta' 6-max Seat #2 is the button
+Seat 1: HAOYUN88888 ($32 in chips)
+Seat 2: Psynto ($89.50 in chips)
+Psynto: posts small blind $1
+HAOYUN88888: posts big blind $3
+*** HOLE CARDS ***
+Psynto: raises $3 to $6
+HAOYUN88888: calls $3
+*** FLOP *** [Jh Jc 4s]
+HAOYUN88888: checks
+Psynto: bets $3
+HAOYUN88888: raises $3 to $6
+Psynto: calls $3
+*** TURN *** [Jh Jc 4s] [Qs]
+HAOYUN88888: bets $6
+Psynto: calls $6
+*** RIVER *** [Jh Jc 4s Qs] [Qd]
+HAOYUN88888: bets $6
+Psynto: raises $6 to $12
+HAOYUN88888: calls $6
+*** SHOW DOWN ***
+Psynto: shows [Js 7h] (a full house, Jacks full of Queens)
+HAOYUN88888: mucks hand
+Psynto collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Jh Jc 4s Qs Qd]
+Seat 1: HAOYUN88888 (big blind) mucked
+Seat 2: Psynto (button) (small blind) showed [Js 7h] and won ($59.50) with a full house, Jacks full of Queens
+
+

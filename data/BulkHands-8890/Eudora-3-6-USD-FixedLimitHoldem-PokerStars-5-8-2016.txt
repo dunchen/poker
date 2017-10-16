@@ -1,0 +1,52 @@
+PokerStars Hand #153021321268:  Hold'em Limit ($3/$6 USD) - 2016/05/08 10:48:47 ET
+Table 'Eudora' 6-max Seat #3 is the button
+Seat 2: xitrec321 ($148.84 in chips)
+Seat 3: dborys ($218.64 in chips)
+dborys: posts small blind $1
+xitrec321: posts big blind $3
+*** HOLE CARDS ***
+dborys: raises $3 to $6
+xitrec321: calls $3
+*** FLOP *** [Ad 4d 6c]
+xitrec321: bets $3
+dborys: raises $3 to $6
+xitrec321: folds
+Uncalled bet ($3) returned to dborys
+dborys collected $17.64 from pot
+dborys: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ad 4d 6c]
+Seat 2: xitrec321 (big blind) folded on the Flop
+Seat 3: dborys (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #153021329275:  Hold'em Limit ($3/$6 USD) - 2016/05/08 10:48:58 ET
+Table 'Eudora' 6-max Seat #2 is the button
+Seat 2: xitrec321 ($139.84 in chips)
+Seat 3: dborys ($227.28 in chips)
+xitrec321: posts small blind $1
+dborys: posts big blind $3
+*** HOLE CARDS ***
+xitrec321: raises $3 to $6
+dborys: calls $3
+*** FLOP *** [Ks 9d Ts]
+dborys: checks
+xitrec321: checks
+*** TURN *** [Ks 9d Ts] [4d]
+dborys: checks
+xitrec321: checks
+*** RIVER *** [Ks 9d Ts 4d] [9h]
+Tryptamean joins the table at seat #5
+dborys: bets $6
+xitrec321: folds
+Uncalled bet ($6) returned to dborys
+dborys collected $11.76 from pot
+dborys: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ks 9d Ts 4d 9h]
+Seat 2: xitrec321 (button) (small blind) folded on the River
+Seat 3: dborys (big blind) collected ($11.76)
+
+

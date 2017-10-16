@@ -1,0 +1,3331 @@
+PokerStars Hand #145573186805:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:05:19 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($124 in chips)
+Seat 2: mdif ($120 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: raises $3 to $9
+mdif: calls $3
+*** FLOP *** [6h 5c 7c]
+minigus575: bets $3
+mdif: calls $3
+*** TURN *** [6h 5c 7c] [Ad]
+minigus575: bets $6
+mdif: calls $6
+*** RIVER *** [6h 5c 7c Ad] [Tc]
+minigus575: checks
+mdif: checks
+*** SHOW DOWN ***
+minigus575: shows [Qc Jh] (high card Ace)
+mdif: shows [Kh 3h] (high card Ace - King kicker)
+mdif collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [6h 5c 7c Ad Tc]
+Seat 1: minigus575 (big blind) showed [Qc Jh] and lost with high card Ace
+Seat 2: mdif (button) (small blind) showed [Kh 3h] and won ($35.50) with high card Ace
+
+
+PokerStars Hand #145573217586:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:06:18 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($126.50 in chips)
+Seat 2: mdif ($120 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: folds
+Uncalled bet ($2) returned to minigus575
+minigus575 collected $2 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: minigus575 (big blind) collected ($2)
+Seat 2: mdif (button) (small blind) folded before Flop
+
+
+PokerStars Hand #145573204306:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:05:53 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($106 in chips)
+Seat 2: mdif ($137.50 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: raises $3 to $9
+minigus575: calls $3
+*** FLOP *** [4c Kh 9d]
+mdif: bets $3
+minigus575: raises $3 to $6
+mdif: calls $3
+*** TURN *** [4c Kh 9d] [3h]
+mdif: checks
+minigus575: checks
+*** RIVER *** [4c Kh 9d 3h] [7s]
+mdif: checks
+minigus575: bets $6
+mdif: calls $6
+*** SHOW DOWN ***
+minigus575: shows [Ts 4d] (a pair of Fours)
+mdif: mucks hand
+minigus575 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [4c Kh 9d 3h 7s]
+Seat 1: minigus575 (button) (small blind) showed [Ts 4d] and won ($41.50) with a pair of Fours
+Seat 2: mdif (big blind) mucked
+
+
+PokerStars Hand #145573220390:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:06:24 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($127.50 in chips)
+Seat 2: mdif ($120 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [Ac 5d 9d]
+mdif: checks
+minigus575: checks
+*** TURN *** [Ac 5d 9d] [3h]
+mdif: bets $6
+minigus575: raises $6 to $12
+mdif: raises $6 to $18
+minigus575: raises $6 to $24
+Betting is capped
+mdif: calls $6
+*** RIVER *** [Ac 5d 9d 3h] [4h]
+mdif: checks
+minigus575: checks
+*** SHOW DOWN ***
+mdif: shows [3c As] (two pair, Aces and Threes)
+minigus575: shows [Ad 9s] (two pair, Aces and Nines)
+minigus575 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Ac 5d 9d 3h 4h]
+Seat 1: minigus575 (button) (small blind) showed [Ad 9s] and won ($59.50) with two pair, Aces and Nines
+Seat 2: mdif (big blind) showed [3c As] and lost with two pair, Aces and Threes
+
+
+PokerStars Hand #145573238199:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:06:58 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($158 in chips)
+Seat 2: mdif ($120 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [8d As 9s]
+mdif: checks
+minigus575: bets $3
+mdif: raises $3 to $6
+minigus575: calls $3
+*** TURN *** [8d As 9s] [2h]
+mdif: bets $6
+minigus575: calls $6
+*** RIVER *** [8d As 9s 2h] [8c]
+mdif: checks
+minigus575: checks
+*** SHOW DOWN ***
+mdif: shows [7d 6s] (a pair of Eights)
+minigus575: shows [9h Td] (two pair, Nines and Eights)
+minigus575 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [8d As 9s 2h 8c]
+Seat 1: minigus575 (button) (small blind) showed [9h Td] and won ($35.50) with two pair, Nines and Eights
+Seat 2: mdif (big blind) showed [7d 6s] and lost with a pair of Eights
+
+
+PokerStars Hand #145573235942:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:06:54 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($157 in chips)
+Seat 2: mdif ($120 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: folds
+Uncalled bet ($2) returned to minigus575
+minigus575 collected $2 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: minigus575 (big blind) collected ($2)
+Seat 2: mdif (button) (small blind) folded before Flop
+
+
+PokerStars Hand #145573251239:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:07:24 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($175.50 in chips)
+Seat 2: mdif ($120 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: calls $3
+*** FLOP *** [5s 2h 4h]
+minigus575: checks
+mdif: bets $3
+minigus575: calls $3
+*** TURN *** [5s 2h 4h] [6c]
+minigus575: checks
+mdif: bets $6
+minigus575: raises $6 to $12
+mdif: calls $6
+*** RIVER *** [5s 2h 4h 6c] [Qd]
+minigus575: bets $6
+mdif: raises $6 to $12
+minigus575: folds
+Uncalled bet ($6) returned to mdif
+mdif collected $53.50 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [5s 2h 4h 6c Qd]
+Seat 1: minigus575 (big blind) folded on the River
+Seat 2: mdif (button) (small blind) collected ($53.50)
+
+
+PokerStars Hand #145573276158:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:08:12 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($163 in chips)
+Seat 2: mdif ($131.50 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: calls $3
+*** FLOP *** [Ah 7d 5s]
+minigus575: checks
+mdif: bets $3
+minigus575: folds
+Uncalled bet ($3) returned to mdif
+mdif collected $11.76 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ah 7d 5s]
+Seat 1: minigus575 (big blind) folded on the Flop
+Seat 2: mdif (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #145573292201:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:08:43 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($139 in chips)
+Seat 2: mdif ($154.76 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: folds
+Uncalled bet ($2) returned to minigus575
+minigus575 collected $2 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: minigus575 (big blind) collected ($2)
+Seat 2: mdif (button) (small blind) folded before Flop
+
+
+PokerStars Hand #145573282295:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:08:24 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($157 in chips)
+Seat 2: mdif ($137.26 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [8s Ad 4h]
+mdif: checks
+minigus575: bets $3
+mdif: raises $3 to $6
+minigus575: calls $3
+*** TURN *** [8s Ad 4h] [3h]
+mdif: bets $6
+minigus575: calls $6
+*** RIVER *** [8s Ad 4h 3h] [Jd]
+mdif: bets $6
+minigus575: folds
+Uncalled bet ($6) returned to mdif
+mdif collected $35.50 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [8s Ad 4h 3h Jd]
+Seat 1: minigus575 (button) (small blind) folded on the River
+Seat 2: mdif (big blind) collected ($35.50)
+
+
+PokerStars Hand #145573266381:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:07:53 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($148.50 in chips)
+Seat 2: mdif ($146.50 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [Td 9h 2s]
+mdif: checks
+minigus575: bets $3
+mdif: calls $3
+*** TURN *** [Td 9h 2s] [5s]
+mdif: checks
+minigus575: bets $6
+mdif: calls $6
+*** RIVER *** [Td 9h 2s 5s] [Th]
+mdif: checks
+minigus575: checks
+*** SHOW DOWN ***
+mdif: shows [8d Qc] (a pair of Tens)
+minigus575: shows [2d 5c] (two pair, Tens and Fives)
+minigus575 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Td 9h 2s 5s Th]
+Seat 1: minigus575 (button) (small blind) showed [2d 5c] and won ($29.50) with two pair, Tens and Fives
+Seat 2: mdif (big blind) showed [8d Qc] and lost with a pair of Tens
+
+
+PokerStars Hand #145573317487:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:09:32 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($140.50 in chips)
+Seat 2: mdif ($152.04 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: raises $3 to $9
+minigus575: calls $3
+*** FLOP *** [2s Td 9c]
+mdif: bets $3
+minigus575: raises $3 to $6
+mdif: calls $3
+*** TURN *** [2s Td 9c] [4s]
+mdif: checks
+minigus575: bets $6
+mdif: calls $6
+*** RIVER *** [2s Td 9c 4s] [6c]
+mdif: checks
+minigus575: checks
+*** SHOW DOWN ***
+mdif: shows [Ac Js] (high card Ace)
+minigus575: shows [2c 5c] (a pair of Deuces)
+minigus575 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2s Td 9c 4s 6c]
+Seat 1: minigus575 (button) (small blind) showed [2c 5c] and won ($41.50) with a pair of Deuces
+Seat 2: mdif (big blind) showed [Ac Js] and lost with high card Ace
+
+
+PokerStars Hand #145573315262:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:09:27 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($139.50 in chips)
+Seat 2: mdif ($153.04 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: folds
+Uncalled bet ($2) returned to minigus575
+minigus575 collected $2 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: minigus575 (big blind) collected ($2)
+Seat 2: mdif (button) (small blind) folded before Flop
+
+
+PokerStars Hand #145573299337:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:08:57 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($131 in chips)
+Seat 2: mdif ($162.40 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: calls $3
+*** FLOP *** [5s 2s 4c]
+minigus575: checks
+mdif: bets $3
+minigus575: raises $3 to $6
+mdif: calls $3
+*** TURN *** [5s 2s 4c] [Kc]
+minigus575: bets $6
+mdif: calls $6
+*** RIVER *** [5s 2s 4c Kc] [4d]
+minigus575: bets $6
+mdif: folds
+Uncalled bet ($6) returned to minigus575
+minigus575 collected $35.50 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5s 2s 4c Kc 4d]
+Seat 1: minigus575 (big blind) collected ($35.50)
+Seat 2: mdif (button) (small blind) folded on the River
+
+
+PokerStars Hand #145573342454:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:10:20 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($184.50 in chips)
+Seat 2: mdif ($120 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: calls $3
+*** FLOP *** [2c Td Ad]
+minigus575: checks
+mdif: bets $3
+minigus575: calls $3
+*** TURN *** [2c Td Ad] [9h]
+minigus575: checks
+mdif: bets $6
+minigus575: calls $6
+*** RIVER *** [2c Td Ad 9h] [4h]
+minigus575: checks
+mdif: bets $6
+minigus575: calls $6
+*** SHOW DOWN ***
+mdif: shows [Ac Kd] (a pair of Aces)
+minigus575: mucks hand
+mdif collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2c Td Ad 9h 4h]
+Seat 1: minigus575 (big blind) mucked
+Seat 2: mdif (button) (small blind) showed [Ac Kd] and won ($41.50) with a pair of Aces
+
+
+PokerStars Hand #145573327678:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:09:52 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($161 in chips)
+Seat 2: mdif ($131.04 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: calls $3
+*** FLOP *** [8c 7c Qd]
+minigus575: checks
+mdif: bets $3
+minigus575: folds
+Uncalled bet ($3) returned to mdif
+mdif collected $11.76 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8c 7c Qd]
+Seat 1: minigus575 (big blind) folded on the Flop
+Seat 2: mdif (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #145573332699:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:10:01 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($155 in chips)
+Seat 2: mdif ($136.80 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [5s Qd 8s]
+mdif: checks
+minigus575: bets $3
+mdif: raises $3 to $6
+minigus575: calls $3
+*** TURN *** [5s Qd 8s] [8d]
+mdif: bets $6
+minigus575: calls $6
+*** RIVER *** [5s Qd 8s 8d] [Qs]
+mdif: bets $6
+minigus575: raises $6 to $12
+mdif: calls $6
+*** SHOW DOWN ***
+minigus575: shows [Qh 2d] (a full house, Queens full of Eights)
+mdif: mucks hand
+minigus575 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [5s Qd 8s 8d Qs]
+Seat 1: minigus575 (button) (small blind) showed [Qh 2d] and won ($59.50) with a full house, Queens full of Eights
+Seat 2: mdif (big blind) mucked
+
+
+PokerStars Hand #145573372063:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:11:17 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($169.14 in chips)
+Seat 2: mdif ($134.50 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: folds
+Uncalled bet ($2) returned to mdif
+mdif collected $2 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: minigus575 (button) (small blind) folded before Flop
+Seat 2: mdif (big blind) collected ($2)
+
+
+PokerStars Hand #145573369754:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:11:13 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($172.14 in chips)
+Seat 2: mdif ($131.50 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: folds
+Uncalled bet ($3) returned to mdif
+mdif collected $6 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: minigus575 (big blind) folded before Flop
+Seat 2: mdif (button) (small blind) collected ($6)
+
+
+PokerStars Hand #145573357612:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:10:50 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($163.50 in chips)
+Seat 2: mdif ($140.50 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [9h 4h Ks]
+mdif: checks
+minigus575: bets $3
+mdif: calls $3
+*** TURN *** [9h 4h Ks] [6d]
+mdif: checks
+minigus575: bets $6
+mdif: folds
+Uncalled bet ($6) returned to minigus575
+minigus575 collected $17.64 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9h 4h Ks 6d]
+Seat 1: minigus575 (button) (small blind) collected ($17.64)
+Seat 2: mdif (big blind) folded on the Turn
+
+
+PokerStars Hand #145573388660:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:11:49 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($164.90 in chips)
+Seat 2: mdif ($138.14 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: folds
+Uncalled bet ($2) returned to minigus575
+minigus575 collected $2 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: minigus575 (big blind) collected ($2)
+Seat 2: mdif (button) (small blind) folded before Flop
+
+
+PokerStars Hand #145573382927:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:11:38 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($159.14 in chips)
+Seat 2: mdif ($144.14 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [3d 3c Qd]
+mdif: checks
+minigus575: bets $3
+mdif: folds
+Uncalled bet ($3) returned to minigus575
+minigus575 collected $11.76 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3d 3c Qd]
+Seat 1: minigus575 (button) (small blind) collected ($11.76)
+Seat 2: mdif (big blind) folded on the Flop
+
+
+PokerStars Hand #145573375093:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:11:23 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($168.14 in chips)
+Seat 2: mdif ($135.50 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: calls $3
+*** FLOP *** [6d 9c Kd]
+minigus575: checks
+mdif: bets $3
+minigus575: calls $3
+*** TURN *** [6d 9c Kd] [Qs]
+minigus575: checks
+mdif: bets $6
+minigus575: folds
+Uncalled bet ($6) returned to mdif
+mdif collected $17.64 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6d 9c Kd Qs]
+Seat 1: minigus575 (big blind) folded on the Turn
+Seat 2: mdif (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #145573405970:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:12:22 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($176.42 in chips)
+Seat 2: mdif ($126.14 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [3s Kd Ad]
+mdif: checks
+minigus575: checks
+*** TURN *** [3s Kd Ad] [8h]
+mdif: checks
+minigus575: bets $6
+mdif: folds
+Uncalled bet ($6) returned to minigus575
+minigus575 collected $11.76 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3s Kd Ad 8h]
+Seat 1: minigus575 (button) (small blind) collected ($11.76)
+Seat 2: mdif (big blind) folded on the Turn
+
+
+PokerStars Hand #145573401304:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:12:13 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($180.42 in chips)
+Seat 2: mdif ($122.14 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: folds
+Uncalled bet ($2) returned to mdif
+mdif collected $2 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: minigus575 (button) (small blind) folded before Flop
+Seat 2: mdif (big blind) collected ($2)
+
+
+PokerStars Hand #145573393948:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:11:59 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($168.90 in chips)
+Seat 2: mdif ($134.14 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: raises $3 to $9
+mdif: calls $3
+*** FLOP *** [6s Td 5d]
+minigus575: bets $3
+mdif: calls $3
+*** TURN *** [6s Td 5d] [Tc]
+minigus575: bets $6
+mdif: folds
+Uncalled bet ($6) returned to minigus575
+minigus575 collected $23.52 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [6s Td 5d Tc]
+Seat 1: minigus575 (big blind) collected ($23.52)
+Seat 2: mdif (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #145573403648:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:12:18 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($179.42 in chips)
+Seat 2: mdif ($123.14 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: folds
+Uncalled bet ($3) returned to mdif
+mdif collected $6 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: minigus575 (big blind) folded before Flop
+Seat 2: mdif (button) (small blind) collected ($6)
+
+
+PokerStars Hand #145573390994:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:11:54 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($165.90 in chips)
+Seat 2: mdif ($137.14 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: folds
+Uncalled bet ($3) returned to minigus575
+minigus575 collected $6 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: minigus575 (button) (small blind) collected ($6)
+Seat 2: mdif (big blind) folded before Flop
+
+
+PokerStars Hand #145573413721:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:12:38 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($182.18 in chips)
+Seat 2: mdif ($120.14 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: folds
+Uncalled bet ($2) returned to minigus575
+minigus575 collected $2 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: minigus575 (big blind) collected ($2)
+Seat 2: mdif (button) (small blind) folded before Flop
+
+
+PokerStars Hand #145573427387:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:13:04 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($147.18 in chips)
+Seat 2: mdif ($155.50 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: calls $3
+*** FLOP *** [Kd 2s 9h]
+minigus575: checks
+mdif: bets $3
+minigus575: raises $3 to $6
+mdif: raises $3 to $9
+minigus575: folds
+Uncalled bet ($3) returned to mdif
+mdif collected $23.52 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Kd 2s 9h]
+Seat 1: minigus575 (big blind) folded on the Flop
+Seat 2: mdif (button) (small blind) collected ($23.52)
+
+
+PokerStars Hand #145573437350:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:13:23 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($135.18 in chips)
+Seat 2: mdif ($167.02 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [Kc Td 9c]
+mdif: checks
+minigus575: bets $3
+mdif: calls $3
+*** TURN *** [Kc Td 9c] [8h]
+mdif: checks
+minigus575: checks
+*** RIVER *** [Kc Td 9c 8h] [2c]
+mdif: checks
+minigus575: bets $6
+mdif: calls $6
+*** SHOW DOWN ***
+minigus575: shows [2d 2h] (three of a kind, Deuces)
+mdif: mucks hand
+minigus575 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kc Td 9c 8h 2c]
+Seat 1: minigus575 (button) (small blind) showed [2d 2h] and won ($29.50) with three of a kind, Deuces
+Seat 2: mdif (big blind) mucked
+
+
+PokerStars Hand #145573416260:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:12:42 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($183.18 in chips)
+Seat 2: mdif ($120 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: raises $3 to $9
+minigus575: calls $3
+*** FLOP *** [6h 2d 4s]
+mdif: bets $3
+minigus575: calls $3
+*** TURN *** [6h 2d 4s] [2h]
+mdif: bets $6
+minigus575: raises $6 to $12
+mdif: calls $6
+*** RIVER *** [6h 2d 4s 2h] [2c]
+mdif: checks
+minigus575: bets $6
+mdif: raises $6 to $12
+minigus575: calls $6
+*** SHOW DOWN ***
+mdif: shows [7h 7d] (a full house, Deuces full of Sevens)
+minigus575: mucks hand
+mdif collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [6h 2d 4s 2h 2c]
+Seat 1: minigus575 (button) (small blind) mucked
+Seat 2: mdif (big blind) showed [7h 7d] and won ($71.50) with a full house, Deuces full of Sevens
+
+
+PokerStars Hand #145573468996:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:14:23 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($181.82 in chips)
+Seat 2: mdif ($120 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: folds
+Uncalled bet ($3) returned to mdif
+mdif collected $6 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: minigus575 (big blind) folded before Flop
+Seat 2: mdif (button) (small blind) collected ($6)
+
+
+PokerStars Hand #145573458443:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:14:03 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($173.18 in chips)
+Seat 2: mdif ($128.02 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [5d 2d 6c]
+mdif: checks
+minigus575: bets $3
+mdif: calls $3
+*** TURN *** [5d 2d 6c] [4c]
+mdif: checks
+minigus575: checks
+*** RIVER *** [5d 2d 6c 4c] [5s]
+mdif: checks
+minigus575: checks
+*** SHOW DOWN ***
+mdif: shows [Jc 8c] (a pair of Fives)
+minigus575: shows [Qc 8h] (a pair of Fives - Queen kicker)
+minigus575 collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5d 2d 6c 4c 5s]
+Seat 1: minigus575 (button) (small blind) showed [Qc 8h] and won ($17.64) with a pair of Fives
+Seat 2: mdif (big blind) showed [Jc 8c] and lost with a pair of Fives
+
+
+PokerStars Hand #145573447907:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:13:43 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($149.68 in chips)
+Seat 2: mdif ($152.02 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: raises $3 to $9
+mdif: calls $3
+*** FLOP *** [3d 2d 8c]
+minigus575: bets $3
+mdif: calls $3
+*** TURN *** [3d 2d 8c] [Th]
+minigus575: bets $6
+mdif: calls $6
+*** RIVER *** [3d 2d 8c Th] [6h]
+minigus575: bets $6
+mdif: calls $6
+*** SHOW DOWN ***
+minigus575: shows [4c 5c] (a straight, Deuce to Six)
+mdif: mucks hand
+minigus575 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3d 2d 8c Th 6h]
+Seat 1: minigus575 (big blind) showed [4c 5c] and won ($47.50) with a straight, Deuce to Six
+Seat 2: mdif (button) (small blind) mucked
+
+
+PokerStars Hand #145573505503:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:15:33 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($128.58 in chips)
+Seat 2: mdif ($175 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [2d 3c 6h]
+mdif: checks
+minigus575: bets $3
+mdif: raises $3 to $6
+minigus575: calls $3
+*** TURN *** [2d 3c 6h] [2h]
+mdif: bets $6
+minigus575: folds
+Uncalled bet ($6) returned to mdif
+mdif collected $23.52 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [2d 3c 6h 2h]
+Seat 1: minigus575 (button) (small blind) folded on the Turn
+Seat 2: mdif (big blind) collected ($23.52)
+
+
+PokerStars Hand #145573502881:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:15:28 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($127.58 in chips)
+Seat 2: mdif ($176 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: folds
+Uncalled bet ($2) returned to minigus575
+minigus575 collected $2 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: minigus575 (big blind) collected ($2)
+Seat 2: mdif (button) (small blind) folded before Flop
+
+
+PokerStars Hand #145573477287:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:14:39 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($184.58 in chips)
+Seat 2: mdif ($120 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: calls $3
+*** FLOP *** [2s 5c 2d]
+minigus575: checks
+mdif: bets $3
+minigus575: calls $3
+*** TURN *** [2s 5c 2d] [Ks]
+minigus575: checks
+mdif: checks
+*** RIVER *** [2s 5c 2d Ks] [8h]
+minigus575: checks
+mdif: bets $6
+minigus575: raises $6 to $12
+mdif: calls $6
+*** SHOW DOWN ***
+minigus575: shows [3d Qh] (a pair of Deuces)
+mdif: shows [9d Kh] (two pair, Kings and Deuces)
+mdif collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [2s 5c 2d Ks 8h]
+Seat 1: minigus575 (big blind) showed [3d Qh] and lost with a pair of Deuces
+Seat 2: mdif (button) (small blind) showed [9d Kh] and won ($41.50) with two pair, Kings and Deuces
+
+
+PokerStars Hand #145573491526:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:15:06 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($163.58 in chips)
+Seat 2: mdif ($140.50 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: raises $3 to $9
+minigus575: calls $3
+*** FLOP *** [Td 6c Kh]
+mdif: bets $3
+minigus575: calls $3
+*** TURN *** [Td 6c Kh] [6d]
+mdif: bets $6
+minigus575: raises $6 to $12
+mdif: raises $6 to $18
+minigus575: calls $6
+*** RIVER *** [Td 6c Kh 6d] [Th]
+mdif: bets $6
+minigus575: calls $6
+*** SHOW DOWN ***
+mdif: shows [Tc Kc] (a full house, Tens full of Kings)
+minigus575: mucks hand
+mdif collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [Td 6c Kh 6d Th]
+Seat 1: minigus575 (button) (small blind) mucked
+Seat 2: mdif (big blind) showed [Tc Kc] and won ($71.50) with a full house, Tens full of Kings
+
+
+PokerStars Hand #145573513006:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:15:47 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($116.58 in chips)
+Seat 2: mdif ($186.52 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: folds
+Uncalled bet ($2) returned to minigus575
+minigus575 collected $2 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: minigus575 (big blind) collected ($2)
+Seat 2: mdif (button) (small blind) folded before Flop
+
+
+PokerStars Hand #145573542063:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:16:42 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($98.92 in chips)
+Seat 2: mdif ($202.84 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: calls $3
+*** FLOP *** [Ac Ah 5s]
+minigus575: checks
+mdif: bets $3
+minigus575: folds
+Uncalled bet ($3) returned to mdif
+mdif collected $11.76 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ac Ah 5s]
+Seat 1: minigus575 (big blind) folded on the Flop
+Seat 2: mdif (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #145573515422:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:15:51 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($117.58 in chips)
+Seat 2: mdif ($185.52 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [8s 6d Ts]
+mdif: checks
+minigus575: bets $3
+mdif: raises $3 to $6
+minigus575: raises $3 to $9
+mdif: raises $3 to $12
+Betting is capped
+minigus575: calls $3
+*** TURN *** [8s 6d Ts] [Jc]
+mdif: bets $6
+minigus575: calls $6
+*** RIVER *** [8s 6d Ts Jc] [3h]
+mdif: bets $6
+minigus575: calls $6
+*** SHOW DOWN ***
+mdif: shows [4h Td] (a pair of Tens)
+minigus575: mucks hand
+mdif collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [8s 6d Ts Jc 3h]
+Seat 1: minigus575 (button) (small blind) mucked
+Seat 2: mdif (big blind) showed [4h Td] and won ($59.50) with a pair of Tens
+
+
+PokerStars Hand #145573525350:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:16:10 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($87.58 in chips)
+Seat 2: mdif ($215.02 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: raises $3 to $9
+mdif: calls $3
+*** FLOP *** [6s 5s 4c]
+minigus575: bets $3
+mdif: calls $3
+*** TURN *** [6s 5s 4c] [9s]
+minigus575: bets $6
+mdif: folds
+Uncalled bet ($6) returned to minigus575
+minigus575 collected $23.52 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [6s 5s 4c 9s]
+Seat 1: minigus575 (big blind) collected ($23.52)
+Seat 2: mdif (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #145573532123:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:16:23 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($99.10 in chips)
+Seat 2: mdif ($203.02 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [Ks Kd Th]
+mdif: checks
+minigus575: bets $3
+mdif: calls $3
+*** TURN *** [Ks Kd Th] [5s]
+mdif: checks
+minigus575: checks
+*** RIVER *** [Ks Kd Th 5s] [Ad]
+mdif: checks
+minigus575: checks
+*** SHOW DOWN ***
+mdif: shows [2c Js] (a pair of Kings)
+minigus575: shows [4h Jh] (a pair of Kings)
+mdif collected $8.82 from pot
+minigus575 collected $8.82 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ks Kd Th 5s Ad]
+Seat 1: minigus575 (button) (small blind) showed [4h Jh] and won ($8.82) with a pair of Kings
+Seat 2: mdif (big blind) showed [2c Js] and won ($8.82) with a pair of Kings
+
+
+PokerStars Hand #145573547159:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:16:51 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($92.92 in chips)
+Seat 2: mdif ($208.60 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [Qd Qc 8d]
+mdif: checks
+minigus575: bets $3
+mdif: folds
+Uncalled bet ($3) returned to minigus575
+minigus575 collected $11.76 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qd Qc 8d]
+Seat 1: minigus575 (button) (small blind) collected ($11.76)
+Seat 2: mdif (big blind) folded on the Flop
+
+
+PokerStars Hand #145573570360:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:17:36 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($90.32 in chips)
+Seat 2: mdif ($210.10 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: folds
+Uncalled bet ($2) returned to mdif
+mdif collected $2 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: minigus575 (button) (small blind) folded before Flop
+Seat 2: mdif (big blind) collected ($2)
+
+
+PokerStars Hand #145573568098:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:17:31 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($89.32 in chips)
+Seat 2: mdif ($211.10 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: folds
+Uncalled bet ($2) returned to minigus575
+minigus575 collected $2 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: minigus575 (big blind) collected ($2)
+Seat 2: mdif (button) (small blind) folded before Flop
+
+
+PokerStars Hand #145573558580:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:17:13 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($107.32 in chips)
+Seat 2: mdif ($193.60 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: raises $3 to $9
+minigus575: calls $3
+*** FLOP *** [Ac 3d 2c]
+mdif: bets $3
+minigus575: raises $3 to $6
+mdif: raises $3 to $9
+minigus575: calls $3
+*** TURN *** [Ac 3d 2c] [Ad]
+mdif: bets $6
+minigus575: folds
+Uncalled bet ($6) returned to mdif
+mdif collected $35.50 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Ac 3d 2c Ad]
+Seat 1: minigus575 (button) (small blind) folded on the Turn
+Seat 2: mdif (big blind) collected ($35.50)
+
+
+PokerStars Hand #145573552860:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:17:02 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($98.68 in chips)
+Seat 2: mdif ($202.60 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: calls $3
+*** FLOP *** [4s Th Js]
+minigus575: checks
+mdif: bets $3
+minigus575: raises $3 to $6
+mdif: folds
+Uncalled bet ($3) returned to minigus575
+minigus575 collected $17.64 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [4s Th Js]
+Seat 1: minigus575 (big blind) collected ($17.64)
+Seat 2: mdif (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #145573585783:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:18:05 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($100.84 in chips)
+Seat 2: mdif ($199.10 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [Qh Jc 3c]
+mdif: checks
+minigus575: bets $3
+mdif: folds
+Uncalled bet ($3) returned to minigus575
+minigus575 collected $11.76 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qh Jc 3c]
+Seat 1: minigus575 (button) (small blind) collected ($11.76)
+Seat 2: mdif (big blind) folded on the Flop
+
+
+PokerStars Hand #145573595177:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:18:22 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($106.60 in chips)
+Seat 2: mdif ($193.10 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: calls $3
+*** FLOP *** [3d 2s 7h]
+minigus575: checks
+mdif: bets $3
+minigus575: calls $3
+*** TURN *** [3d 2s 7h] [3s]
+minigus575: bets $6
+mdif: raises $6 to $12
+minigus575: calls $6
+*** RIVER *** [3d 2s 7h 3s] [Ad]
+minigus575: checks
+mdif: checks
+*** SHOW DOWN ***
+minigus575: shows [2d Kc] (two pair, Threes and Deuces)
+mdif: mucks hand
+minigus575 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [3d 2s 7h 3s Ad]
+Seat 1: minigus575 (big blind) showed [2d Kc] and won ($41.50) with two pair, Threes and Deuces
+Seat 2: mdif (button) (small blind) mucked
+
+
+PokerStars Hand #145573573468:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:17:41 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($89.32 in chips)
+Seat 2: mdif ($211.10 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: raises $3 to $9
+mdif: calls $3
+*** FLOP *** [6c 2d 5h]
+minigus575: bets $3
+mdif: calls $3
+*** TURN *** [6c 2d 5h] [3s]
+minigus575: bets $6
+mdif: folds
+Uncalled bet ($6) returned to minigus575
+minigus575 collected $23.52 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [6c 2d 5h 3s]
+Seat 1: minigus575 (big blind) collected ($23.52)
+Seat 2: mdif (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #145573614921:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:19:00 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($132.86 in chips)
+Seat 2: mdif ($166.10 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: folds
+Uncalled bet ($2) returned to minigus575
+minigus575 collected $2 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: minigus575 (big blind) collected ($2)
+Seat 2: mdif (button) (small blind) folded before Flop
+
+
+PokerStars Hand #145573609113:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:18:49 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($127.10 in chips)
+Seat 2: mdif ($172.10 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [Jc 2c 5d]
+mdif: checks
+minigus575: bets $3
+mdif: folds
+Uncalled bet ($3) returned to minigus575
+minigus575 collected $11.76 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jc 2c 5d]
+Seat 1: minigus575 (button) (small blind) collected ($11.76)
+Seat 2: mdif (big blind) folded on the Flop
+
+
+PokerStars Hand #145573618425:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:19:06 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($133.86 in chips)
+Seat 2: mdif ($165.10 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [2s 3h 4s]
+mdif: checks
+minigus575: bets $3
+mdif: calls $3
+*** TURN *** [2s 3h 4s] [9s]
+mdif: checks
+minigus575: checks
+*** RIVER *** [2s 3h 4s 9s] [2c]
+mdif: bets $6
+minigus575: folds
+Uncalled bet ($6) returned to mdif
+mdif collected $17.64 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2s 3h 4s 9s 2c]
+Seat 1: minigus575 (button) (small blind) folded on the River
+Seat 2: mdif (big blind) collected ($17.64)
+
+
+PokerStars Hand #145573631203:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:19:31 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($121.86 in chips)
+Seat 2: mdif ($176.74 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: folds
+Uncalled bet ($3) returned to minigus575
+minigus575 collected $6 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: minigus575 (button) (small blind) collected ($6)
+Seat 2: mdif (big blind) folded before Flop
+
+
+PokerStars Hand #145573628561:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:19:25 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($124.86 in chips)
+Seat 2: mdif ($173.74 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: folds
+Uncalled bet ($3) returned to mdif
+mdif collected $6 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: minigus575 (big blind) folded before Flop
+Seat 2: mdif (button) (small blind) collected ($6)
+
+
+PokerStars Hand #145573634116:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:19:36 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($124.86 in chips)
+Seat 2: mdif ($173.74 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: calls $3
+*** FLOP *** [Th Ts Jc]
+minigus575: checks
+mdif: bets $3
+minigus575: raises $3 to $6
+mdif: raises $3 to $9
+minigus575: calls $3
+*** TURN *** [Th Ts Jc] [8d]
+minigus575: checks
+mdif: checks
+*** RIVER *** [Th Ts Jc 8d] [9h]
+minigus575: checks
+mdif: bets $6
+minigus575: calls $6
+*** SHOW DOWN ***
+mdif: shows [Qd 5s] (a straight, Eight to Queen)
+minigus575: mucks hand
+mdif collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Th Ts Jc 8d 9h]
+Seat 1: minigus575 (big blind) mucked
+Seat 2: mdif (button) (small blind) showed [Qd 5s] and won ($41.50) with a straight, Eight to Queen
+
+
+PokerStars Hand #145573666743:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:20:37 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($85.86 in chips)
+Seat 2: mdif ($211.74 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: raises $3 to $9
+mdif: calls $3
+*** FLOP *** [4c 4s Qh]
+minigus575: bets $3
+mdif: calls $3
+*** TURN *** [4c 4s Qh] [8c]
+minigus575: bets $6
+mdif: raises $6 to $12
+minigus575: folds
+Uncalled bet ($6) returned to mdif
+mdif collected $35.50 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [4c 4s Qh 8c]
+Seat 1: minigus575 (big blind) folded on the Turn
+Seat 2: mdif (button) (small blind) collected ($35.50)
+
+
+PokerStars Hand #145573650845:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:20:07 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($103.86 in chips)
+Seat 2: mdif ($194.24 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [5s 7d 7h]
+mdif: checks
+minigus575: bets $3
+mdif: raises $3 to $6
+minigus575: calls $3
+*** TURN *** [5s 7d 7h] [8d]
+mdif: bets $6
+minigus575: calls $6
+*** RIVER *** [5s 7d 7h 8d] [Qh]
+mdif: bets $6
+minigus575: folds
+Uncalled bet ($6) returned to mdif
+mdif collected $35.50 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5s 7d 7h 8d Qh]
+Seat 1: minigus575 (button) (small blind) folded on the River
+Seat 2: mdif (big blind) collected ($35.50)
+
+
+PokerStars Hand #145573688778:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:21:18 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($88.36 in chips)
+Seat 2: mdif ($208.24 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: calls $3
+*** FLOP *** [2d 2s Kh]
+minigus575: checks
+mdif: bets $3
+minigus575: calls $3
+*** TURN *** [2d 2s Kh] [Qh]
+minigus575: checks
+mdif: checks
+*** RIVER *** [2d 2s Kh Qh] [5s]
+minigus575: bets $6
+mdif: folds
+Uncalled bet ($6) returned to minigus575
+minigus575 collected $17.64 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2d 2s Kh Qh 5s]
+Seat 1: minigus575 (big blind) collected ($17.64)
+Seat 2: mdif (button) (small blind) folded on the River
+
+
+PokerStars Hand #145573677122:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:20:56 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($67.86 in chips)
+Seat 2: mdif ($229.24 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: raises $3 to $9
+minigus575: calls $3
+*** FLOP *** [Tc Qh 5h]
+mdif: bets $3
+minigus575: raises $3 to $6
+mdif: calls $3
+*** TURN *** [Tc Qh 5h] [Jc]
+mdif: checks
+minigus575: bets $6
+mdif: calls $6
+*** RIVER *** [Tc Qh 5h Jc] [4c]
+mdif: checks
+minigus575: bets $6
+mdif: folds
+Uncalled bet ($6) returned to minigus575
+minigus575 collected $41.50 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Tc Qh 5h Jc 4c]
+Seat 1: minigus575 (button) (small blind) collected ($41.50)
+Seat 2: mdif (big blind) folded on the River
+
+
+PokerStars Hand #145573715806:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:22:09 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($78.76 in chips)
+Seat 2: mdif ($216.74 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [Th Kh Ks]
+mdif: checks
+minigus575: bets $3
+mdif: calls $3
+*** TURN *** [Th Kh Ks] [5c]
+mdif: checks
+minigus575: bets $6
+mdif: calls $6
+*** RIVER *** [Th Kh Ks 5c] [Jh]
+mdif: checks
+minigus575: bets $6
+mdif: folds
+Uncalled bet ($6) returned to minigus575
+minigus575 collected $29.50 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Th Kh Ks 5c Jh]
+Seat 1: minigus575 (button) (small blind) collected ($29.50)
+Seat 2: mdif (big blind) folded on the River
+
+
+PokerStars Hand #145573725417:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:22:27 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($93.26 in chips)
+Seat 2: mdif ($201.74 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: raises $3 to $9
+mdif: calls $3
+*** FLOP *** [Kd 6s Jh]
+minigus575: bets $3
+mdif: calls $3
+*** TURN *** [Kd 6s Jh] [As]
+minigus575: bets $6
+mdif: calls $6
+*** RIVER *** [Kd 6s Jh As] [Qs]
+minigus575: bets $6
+mdif: raises $6 to $12
+minigus575: calls $6
+*** SHOW DOWN ***
+mdif: shows [6c Ts] (a straight, Ten to Ace)
+minigus575: shows [Ad Th] (a straight, Ten to Ace)
+minigus575 collected $29.75 from pot
+mdif collected $29.75 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Kd 6s Jh As Qs]
+Seat 1: minigus575 (big blind) showed [Ad Th] and won ($29.75) with a straight, Ten to Ace
+Seat 2: mdif (button) (small blind) showed [6c Ts] and won ($29.75) with a straight, Ten to Ace
+
+
+PokerStars Hand #145573704878:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:21:48 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($102.76 in chips)
+Seat 2: mdif ($193.24 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: raises $3 to $9
+mdif: calls $3
+*** FLOP *** [2h 3h 5h]
+minigus575: bets $3
+mdif: calls $3
+*** TURN *** [2h 3h 5h] [Kd]
+minigus575: bets $6
+mdif: raises $6 to $12
+minigus575: calls $6
+*** RIVER *** [2h 3h 5h Kd] [5d]
+minigus575: checks
+mdif: bets $6
+minigus575: folds
+Uncalled bet ($6) returned to mdif
+mdif collected $47.50 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2h 3h 5h Kd 5d]
+Seat 1: minigus575 (big blind) folded on the River
+Seat 2: mdif (button) (small blind) collected ($47.50)
+
+
+PokerStars Hand #145573755367:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:23:23 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($105.51 in chips)
+Seat 2: mdif ($188.13 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: raises $3 to $9
+mdif: calls $3
+*** FLOP *** [6d Td Ad]
+minigus575: bets $3
+mdif: raises $3 to $6
+minigus575: calls $3
+*** TURN *** [6d Td Ad] [9s]
+minigus575: checks
+mdif: bets $6
+minigus575: folds
+Uncalled bet ($6) returned to mdif
+mdif collected $29.50 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6d Td Ad 9s]
+Seat 1: minigus575 (big blind) folded on the Turn
+Seat 2: mdif (button) (small blind) collected ($29.50)
+
+
+PokerStars Hand #145573743805:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:23:02 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($84.01 in chips)
+Seat 2: mdif ($210.13 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: folds
+Uncalled bet ($2) returned to minigus575
+minigus575 collected $2 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: minigus575 (big blind) collected ($2)
+Seat 2: mdif (button) (small blind) folded before Flop
+
+
+PokerStars Hand #145573734722:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:22:44 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($93.01 in chips)
+Seat 2: mdif ($201.49 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [Ts 3s 8s]
+mdif: checks
+minigus575: bets $3
+mdif: calls $3
+*** TURN *** [Ts 3s 8s] [Qc]
+mdif: checks
+minigus575: checks
+*** RIVER *** [Ts 3s 8s Qc] [Jh]
+mdif: bets $6
+minigus575: folds
+Uncalled bet ($6) returned to mdif
+mdif collected $17.64 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ts 3s 8s Qc Jh]
+Seat 1: minigus575 (button) (small blind) folded on the River
+Seat 2: mdif (big blind) collected ($17.64)
+
+
+PokerStars Hand #145573746282:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:23:06 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($85.01 in chips)
+Seat 2: mdif ($209.13 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [Qc 3c 3s]
+mdif: checks
+minigus575: bets $3
+mdif: calls $3
+*** TURN *** [Qc 3c 3s] [Js]
+mdif: checks
+minigus575: checks
+*** RIVER *** [Qc 3c 3s Js] [Ks]
+mdif: bets $6
+minigus575: raises $6 to $12
+mdif: calls $6
+*** SHOW DOWN ***
+minigus575: shows [Kd Th] (two pair, Kings and Threes)
+mdif: mucks hand
+minigus575 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Qc 3c 3s Js Ks]
+Seat 1: minigus575 (button) (small blind) showed [Kd Th] and won ($41.50) with two pair, Kings and Threes
+Seat 2: mdif (big blind) mucked
+
+
+PokerStars Hand #145573764912:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:23:41 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($90.51 in chips)
+Seat 2: mdif ($202.63 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [7d Js Kc]
+mdif: checks
+minigus575: bets $3
+mdif: calls $3
+*** TURN *** [7d Js Kc] [7s]
+mdif: checks
+minigus575: bets $6
+mdif: raises $6 to $12
+minigus575: calls $6
+*** RIVER *** [7d Js Kc 7s] [As]
+mdif: bets $6
+minigus575: raises $6 to $12
+mdif: calls $6
+*** SHOW DOWN ***
+minigus575: shows [Qh Ts] (a straight, Ten to Ace)
+mdif: mucks hand
+minigus575 collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [7d Js Kc 7s As]
+Seat 1: minigus575 (button) (small blind) showed [Qh Ts] and won ($65.50) with a straight, Ten to Ace
+Seat 2: mdif (big blind) mucked
+
+
+PokerStars Hand #145573777565:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:24:05 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($124.01 in chips)
+Seat 2: mdif ($168.63 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: folds
+Uncalled bet ($2) returned to mdif
+mdif collected $2 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: minigus575 (button) (small blind) folded before Flop
+Seat 2: mdif (big blind) collected ($2)
+
+
+PokerStars Hand #145573781855:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:24:13 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($123.01 in chips)
+Seat 2: mdif ($169.63 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: calls $3
+*** FLOP *** [Ah 2h 4c]
+minigus575: checks
+mdif: bets $3
+minigus575: raises $3 to $6
+mdif: calls $3
+*** TURN *** [Ah 2h 4c] [Jc]
+minigus575: bets $6
+mdif: raises $6 to $12
+minigus575: calls $6
+*** RIVER *** [Ah 2h 4c Jc] [7h]
+minigus575: checks
+mdif: bets $6
+minigus575: calls $6
+*** SHOW DOWN ***
+mdif: shows [8h 9c] (high card Ace)
+minigus575: shows [2c 7c] (two pair, Sevens and Deuces)
+minigus575 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Ah 2h 4c Jc 7h]
+Seat 1: minigus575 (big blind) showed [2c 7c] and won ($59.50) with two pair, Sevens and Deuces
+Seat 2: mdif (button) (small blind) showed [8h 9c] and lost with high card Ace
+
+
+PokerStars Hand #145573775098:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:24:00 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($123.01 in chips)
+Seat 2: mdif ($169.63 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: folds
+Uncalled bet ($2) returned to minigus575
+minigus575 collected $2 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: minigus575 (big blind) collected ($2)
+Seat 2: mdif (button) (small blind) folded before Flop
+
+
+PokerStars Hand #145573831385:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:25:45 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($184.51 in chips)
+Seat 2: mdif ($120 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [Qd Jh 2d]
+mdif: checks
+minigus575: bets $3
+mdif: folds
+Uncalled bet ($3) returned to minigus575
+minigus575 collected $11.76 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qd Jh 2d]
+Seat 1: minigus575 (button) (small blind) collected ($11.76)
+Seat 2: mdif (big blind) folded on the Flop
+
+
+PokerStars Hand #145573819787:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:25:24 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($158.01 in chips)
+Seat 2: mdif ($133.27 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: calls $3
+*** FLOP *** [Ah Td 7c]
+minigus575: checks
+mdif: bets $3
+minigus575: raises $3 to $6
+mdif: raises $3 to $9
+minigus575: calls $3
+*** TURN *** [Ah Td 7c] [6h]
+minigus575: bets $6
+mdif: calls $6
+*** RIVER *** [Ah Td 7c 6h] [Qh]
+minigus575: bets $6
+mdif: calls $6
+*** SHOW DOWN ***
+minigus575: shows [8s 9h] (a straight, Six to Ten)
+mdif: mucks hand
+minigus575 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [Ah Td 7c 6h Qh]
+Seat 1: minigus575 (big blind) showed [8s 9h] and won ($53.50) with a straight, Six to Ten
+Seat 2: mdif (button) (small blind) mucked
+
+
+PokerStars Hand #145573794198:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:24:36 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($152.51 in chips)
+Seat 2: mdif ($139.63 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: raises $3 to $9
+minigus575: calls $3
+*** FLOP *** [Ks 2c 4h]
+mdif: bets $3
+minigus575: calls $3
+*** TURN *** [Ks 2c 4h] [Kd]
+mdif: checks
+minigus575: bets $6
+mdif: calls $6
+*** RIVER *** [Ks 2c 4h Kd] [Qs]
+mdif: checks
+minigus575: checks
+*** SHOW DOWN ***
+mdif: shows [7c As] (a pair of Kings)
+minigus575: shows [6h 4c] (two pair, Kings and Fours)
+minigus575 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Ks 2c 4h Kd Qs]
+Seat 1: minigus575 (button) (small blind) showed [6h 4c] and won ($35.50) with two pair, Kings and Fours
+Seat 2: mdif (big blind) showed [7c As] and lost with a pair of Kings
+
+
+PokerStars Hand #145573812693:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:25:10 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($167.01 in chips)
+Seat 2: mdif ($124.63 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [3s Th 7d]
+mdif: checks
+minigus575: bets $3
+mdif: raises $3 to $6
+minigus575: folds
+Uncalled bet ($3) returned to mdif
+mdif collected $17.64 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3s Th 7d]
+Seat 1: minigus575 (button) (small blind) folded on the Flop
+Seat 2: mdif (big blind) collected ($17.64)
+
+
+PokerStars Hand #145573839124:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:26:00 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($190.27 in chips)
+Seat 2: mdif ($120 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: calls $3
+*** FLOP *** [Qs As 3c]
+minigus575: checks
+mdif: bets $3
+minigus575: folds
+Uncalled bet ($3) returned to mdif
+mdif collected $11.76 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qs As 3c]
+Seat 1: minigus575 (big blind) folded on the Flop
+Seat 2: mdif (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #145573847561:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:26:15 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($183.27 in chips)
+Seat 2: mdif ($126.76 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: folds
+Uncalled bet ($3) returned to mdif
+mdif collected $6 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: minigus575 (big blind) folded before Flop
+Seat 2: mdif (button) (small blind) collected ($6)
+
+
+PokerStars Hand #145573852531:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:26:24 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($180.27 in chips)
+Seat 2: mdif ($129.76 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [Ks Qd Qs]
+mdif: checks
+minigus575: bets $3
+mdif: raises $3 to $6
+minigus575: calls $3
+*** TURN *** [Ks Qd Qs] [Qc]
+mdif: checks
+minigus575: checks
+*** RIVER *** [Ks Qd Qs Qc] [8c]
+mdif: checks
+minigus575: checks
+*** SHOW DOWN ***
+mdif: shows [Jd 9h] (three of a kind, Queens)
+minigus575: shows [Th Ac] (three of a kind, Queens - Ace kicker)
+minigus575 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Ks Qd Qs Qc 8c]
+Seat 1: minigus575 (button) (small blind) showed [Th Ac] and won ($23.52) with three of a kind, Queens
+Seat 2: mdif (big blind) showed [Jd 9h] and lost with three of a kind, Queens
+
+
+PokerStars Hand #145573845050:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:26:11 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($184.27 in chips)
+Seat 2: mdif ($125.76 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: folds
+Uncalled bet ($2) returned to mdif
+mdif collected $2 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: minigus575 (button) (small blind) folded before Flop
+Seat 2: mdif (big blind) collected ($2)
+
+
+PokerStars Hand #145573889053:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:27:33 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($158.79 in chips)
+Seat 2: mdif ($152.02 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: folds
+Uncalled bet ($2) returned to minigus575
+minigus575 collected $2 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: minigus575 (big blind) collected ($2)
+Seat 2: mdif (button) (small blind) folded before Flop
+
+
+PokerStars Hand #145573881456:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:27:19 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($170.79 in chips)
+Seat 2: mdif ($140.50 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [Qs 7d As]
+mdif: checks
+minigus575: bets $3
+mdif: raises $3 to $6
+minigus575: calls $3
+*** TURN *** [Qs 7d As] [4s]
+mdif: bets $6
+minigus575: folds
+Uncalled bet ($6) returned to mdif
+mdif collected $23.52 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Qs 7d As 4s]
+Seat 1: minigus575 (button) (small blind) folded on the Turn
+Seat 2: mdif (big blind) collected ($23.52)
+
+
+PokerStars Hand #145573899898:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:27:53 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($147.79 in chips)
+Seat 2: mdif ($162.54 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: folds
+Uncalled bet ($2) returned to minigus575
+minigus575 collected $2 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: minigus575 (big blind) collected ($2)
+Seat 2: mdif (button) (small blind) folded before Flop
+
+
+PokerStars Hand #145573891624:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:27:38 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($159.79 in chips)
+Seat 2: mdif ($151.02 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [Kd 3h Ts]
+mdif: checks
+minigus575: bets $3
+mdif: raises $3 to $6
+minigus575: calls $3
+*** TURN *** [Kd 3h Ts] [4c]
+mdif: bets $6
+minigus575: folds
+Uncalled bet ($6) returned to mdif
+mdif collected $23.52 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Kd 3h Ts 4c]
+Seat 1: minigus575 (button) (small blind) folded on the Turn
+Seat 2: mdif (big blind) collected ($23.52)
+
+
+PokerStars Hand #145573866912:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:26:51 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($191.79 in chips)
+Seat 2: mdif ($120 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: calls $3
+*** FLOP *** [8h Jd Ks]
+minigus575: checks
+mdif: bets $3
+minigus575: calls $3
+*** TURN *** [8h Jd Ks] [Js]
+minigus575: bets $6
+mdif: calls $6
+*** RIVER *** [8h Jd Ks Js] [Jh]
+minigus575: bets $6
+mdif: calls $6
+*** SHOW DOWN ***
+minigus575: shows [7s 2s] (three of a kind, Jacks)
+mdif: shows [6s Kh] (a full house, Jacks full of Kings)
+mdif collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [8h Jd Ks Js Jh]
+Seat 1: minigus575 (big blind) showed [7s 2s] and lost with three of a kind, Jacks
+Seat 2: mdif (button) (small blind) showed [6s Kh] and won ($41.50) with a full house, Jacks full of Kings
+
+
+PokerStars Hand #145573902256:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:27:58 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($148.79 in chips)
+Seat 2: mdif ($161.54 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [As 5s Ts]
+mdif: checks
+minigus575: bets $3
+mdif: raises $3 to $6
+minigus575: folds
+Uncalled bet ($3) returned to mdif
+mdif collected $17.64 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [As 5s Ts]
+Seat 1: minigus575 (button) (small blind) folded on the Flop
+Seat 2: mdif (big blind) collected ($17.64)
+
+
+PokerStars Hand #145573907816:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:28:08 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($139.79 in chips)
+Seat 2: mdif ($170.18 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: calls $3
+*** FLOP *** [Ah 4d 3s]
+minigus575: checks
+mdif: bets $3
+minigus575: raises $3 to $6
+mdif: calls $3
+*** TURN *** [Ah 4d 3s] [8d]
+minigus575: bets $6
+mdif: calls $6
+*** RIVER *** [Ah 4d 3s 8d] [Th]
+minigus575: checks
+mdif: bets $6
+minigus575: folds
+Uncalled bet ($6) returned to mdif
+mdif collected $35.50 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Ah 4d 3s 8d Th]
+Seat 1: minigus575 (big blind) folded on the River
+Seat 2: mdif (button) (small blind) collected ($35.50)
+
+
+PokerStars Hand #145573919636:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:28:30 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($121.79 in chips)
+Seat 2: mdif ($187.68 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: raises $3 to $9
+minigus575: calls $3
+*** FLOP *** [Kh 3s 9s]
+mdif: bets $3
+minigus575: calls $3
+*** TURN *** [Kh 3s 9s] [Tc]
+mdif: checks
+minigus575: bets $6
+mdif: raises $6 to $12
+minigus575: calls $6
+*** RIVER *** [Kh 3s 9s Tc] [Ts]
+mdif: bets $6
+minigus575: raises $6 to $12
+mdif: calls $6
+*** SHOW DOWN ***
+minigus575: shows [4s 8s] (a flush, Ten high)
+mdif: mucks hand
+minigus575 collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [Kh 3s 9s Tc Ts]
+Seat 1: minigus575 (button) (small blind) showed [4s 8s] and won ($71.50) with a flush, Ten high
+Seat 2: mdif (big blind) mucked
+
+
+PokerStars Hand #145573933209:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:28:55 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($157.29 in chips)
+Seat 2: mdif ($151.68 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: raises $3 to $9
+mdif: calls $3
+*** FLOP *** [4d Jd Ac]
+minigus575: bets $3
+mdif: calls $3
+*** TURN *** [4d Jd Ac] [9s]
+minigus575: checks
+mdif: bets $6
+minigus575: raises $6 to $12
+mdif: folds
+Uncalled bet ($6) returned to minigus575
+minigus575 collected $35.50 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [4d Jd Ac 9s]
+Seat 1: minigus575 (big blind) collected ($35.50)
+Seat 2: mdif (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #145573955230:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:29:37 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($144.79 in chips)
+Seat 2: mdif ($163.18 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: folds
+Uncalled bet ($2) returned to minigus575
+minigus575 collected $2 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: minigus575 (big blind) collected ($2)
+Seat 2: mdif (button) (small blind) folded before Flop
+
+
+PokerStars Hand #145573944038:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:29:16 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($174.79 in chips)
+Seat 2: mdif ($133.68 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: raises $3 to $9
+minigus575: calls $3
+*** FLOP *** [Td Jd 7d]
+mdif: bets $3
+minigus575: calls $3
+*** TURN *** [Td Jd 7d] [3h]
+mdif: bets $6
+minigus575: calls $6
+*** RIVER *** [Td Jd 7d 3h] [Jh]
+mdif: bets $6
+minigus575: raises $6 to $12
+mdif: calls $6
+*** SHOW DOWN ***
+minigus575: shows [8c Tc] (two pair, Jacks and Tens)
+mdif: shows [Jc 9c] (three of a kind, Jacks)
+mdif collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Td Jd 7d 3h Jh]
+Seat 1: minigus575 (button) (small blind) showed [8c Tc] and lost with two pair, Jacks and Tens
+Seat 2: mdif (big blind) showed [Jc 9c] and won ($59.50) with three of a kind, Jacks
+
+
+PokerStars Hand #145573963937:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:29:53 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($151.55 in chips)
+Seat 2: mdif ($156.18 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: folds
+Uncalled bet ($2) returned to minigus575
+minigus575 collected $2 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: minigus575 (big blind) collected ($2)
+Seat 2: mdif (button) (small blind) folded before Flop
+
+
+PokerStars Hand #145573957676:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:29:41 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($145.79 in chips)
+Seat 2: mdif ($162.18 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [Tc 3s 3c]
+mdif: checks
+minigus575: bets $3
+mdif: folds
+Uncalled bet ($3) returned to minigus575
+minigus575 collected $11.76 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Tc 3s 3c]
+Seat 1: minigus575 (button) (small blind) collected ($11.76)
+Seat 2: mdif (big blind) folded on the Flop
+
+
+PokerStars Hand #145573970544:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:30:04 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($155.55 in chips)
+Seat 2: mdif ($152.18 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: raises $3 to $9
+mdif: calls $3
+*** FLOP *** [5d 2h Js]
+minigus575: bets $3
+mdif: calls $3
+*** TURN *** [5d 2h Js] [6s]
+minigus575: bets $6
+mdif: raises $6 to $12
+minigus575: calls $6
+*** RIVER *** [5d 2h Js 6s] [7h]
+minigus575: bets $6
+mdif: calls $6
+*** SHOW DOWN ***
+minigus575: shows [6h 7c] (two pair, Sevens and Sixes)
+mdif: mucks hand
+minigus575 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [5d 2h Js 6s 7h]
+Seat 1: minigus575 (big blind) showed [6h 7c] and won ($59.50) with two pair, Sevens and Sixes
+Seat 2: mdif (button) (small blind) mucked
+
+
+PokerStars Hand #145573966383:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:29:58 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($152.55 in chips)
+Seat 2: mdif ($155.18 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: folds
+Uncalled bet ($3) returned to minigus575
+minigus575 collected $6 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: minigus575 (button) (small blind) collected ($6)
+Seat 2: mdif (big blind) folded before Flop
+
+
+PokerStars Hand #145573992337:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:30:45 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($173.05 in chips)
+Seat 2: mdif ($133.70 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: folds
+Uncalled bet ($2) returned to minigus575
+minigus575 collected $2 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: minigus575 (big blind) collected ($2)
+Seat 2: mdif (button) (small blind) folded before Flop
+
+
+PokerStars Hand #145573980931:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:30:24 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($185.05 in chips)
+Seat 2: mdif ($122.18 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: raises $3 to $9
+minigus575: calls $3
+*** FLOP *** [4d Jh 8s]
+mdif: bets $3
+minigus575: calls $3
+*** TURN *** [4d Jh 8s] [3d]
+mdif: checks
+minigus575: checks
+*** RIVER *** [4d Jh 8s 3d] [Qs]
+mdif: checks
+minigus575: checks
+*** SHOW DOWN ***
+mdif: shows [Ks Th] (high card King)
+minigus575: mucks hand
+mdif collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [4d Jh 8s 3d Qs]
+Seat 1: minigus575 (button) (small blind) mucked
+Seat 2: mdif (big blind) showed [Ks Th] and won ($23.52) with high card King
+
+
+PokerStars Hand #145573994880:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:30:49 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($174.05 in chips)
+Seat 2: mdif ($132.70 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [Qh 5c Qc]
+mdif: checks
+minigus575: bets $3
+mdif: raises $3 to $6
+minigus575: raises $3 to $9
+mdif: raises $3 to $12
+Betting is capped
+minigus575: calls $3
+*** TURN *** [Qh 5c Qc] [Ts]
+mdif: bets $6
+minigus575: folds
+Uncalled bet ($6) returned to mdif
+mdif collected $35.50 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Qh 5c Qc Ts]
+Seat 1: minigus575 (button) (small blind) folded on the Turn
+Seat 2: mdif (big blind) collected ($35.50)
+
+
+PokerStars Hand #145574029830:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:31:54 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($170.55 in chips)
+Seat 2: mdif ($134.84 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: folds
+Uncalled bet ($2) returned to minigus575
+minigus575 collected $2 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: minigus575 (big blind) collected ($2)
+Seat 2: mdif (button) (small blind) folded before Flop
+
+
+PokerStars Hand #145574018303:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:31:33 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($147.05 in chips)
+Seat 2: mdif ($158.84 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: raises $3 to $9
+minigus575: calls $3
+*** FLOP *** [Qh Th 8h]
+mdif: bets $3
+minigus575: calls $3
+*** TURN *** [Qh Th 8h] [6s]
+mdif: bets $6
+minigus575: raises $6 to $12
+mdif: calls $6
+*** RIVER *** [Qh Th 8h 6s] [Kc]
+mdif: checks
+minigus575: checks
+*** SHOW DOWN ***
+mdif: shows [Jc 8c] (a pair of Eights)
+minigus575: shows [5s Qs] (a pair of Queens)
+minigus575 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Qh Th 8h 6s Kc]
+Seat 1: minigus575 (button) (small blind) showed [5s Qs] and won ($47.50) with a pair of Queens
+Seat 2: mdif (big blind) showed [Jc 8c] and lost with a pair of Eights
+
+
+PokerStars Hand #145574005464:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:31:09 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($156.05 in chips)
+Seat 2: mdif ($150.20 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: calls $3
+*** FLOP *** [2h 5s Kh]
+minigus575: checks
+mdif: bets $3
+minigus575: calls $3
+*** TURN *** [2h 5s Kh] [5c]
+minigus575: checks
+mdif: checks
+*** RIVER *** [2h 5s Kh 5c] [Jh]
+minigus575: checks
+mdif: bets $6
+minigus575: folds
+Uncalled bet ($6) returned to mdif
+mdif collected $17.64 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [2h 5s Kh 5c Jh]
+Seat 1: minigus575 (big blind) folded on the River
+Seat 2: mdif (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #145574040909:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:32:14 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($183.19 in chips)
+Seat 2: mdif ($121.84 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [3d 7c Qc]
+mdif: checks
+minigus575: checks
+*** TURN *** [3d 7c Qc] [Jd]
+mdif: bets $6
+minigus575: calls $6
+*** RIVER *** [3d 7c Qc Jd] [9h]
+mdif: checks
+minigus575: checks
+*** SHOW DOWN ***
+mdif: shows [6c Kh] (high card King)
+minigus575: shows [As 8h] (high card Ace)
+minigus575 collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [3d 7c Qc Jd 9h]
+Seat 1: minigus575 (button) (small blind) showed [As 8h] and won ($23.52) with high card Ace
+Seat 2: mdif (big blind) showed [6c Kh] and lost with high card King
+
+
+PokerStars Hand #145574035434:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:32:04 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($174.55 in chips)
+Seat 2: mdif ($130.84 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: raises $3 to $9
+mdif: calls $3
+*** FLOP *** [8d Td 7c]
+minigus575: bets $3
+mdif: folds
+Uncalled bet ($3) returned to minigus575
+minigus575 collected $17.64 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8d Td 7c]
+Seat 1: minigus575 (big blind) collected ($17.64)
+Seat 2: mdif (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #145574032566:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:31:59 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($171.55 in chips)
+Seat 2: mdif ($133.84 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: folds
+Uncalled bet ($3) returned to minigus575
+minigus575 collected $6 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: minigus575 (button) (small blind) collected ($6)
+Seat 2: mdif (big blind) folded before Flop
+
+
+PokerStars Hand #145574059220:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:32:48 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($203.35 in chips)
+Seat 2: mdif ($120 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: folds
+Uncalled bet ($2) returned to mdif
+mdif collected $2 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: minigus575 (button) (small blind) folded before Flop
+Seat 2: mdif (big blind) collected ($2)
+
+
+PokerStars Hand #145574048671:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:32:28 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($194.71 in chips)
+Seat 2: mdif ($120 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: raises $3 to $9
+mdif: calls $3
+*** FLOP *** [Kc 2s 5c]
+minigus575: bets $3
+mdif: folds
+Uncalled bet ($3) returned to minigus575
+minigus575 collected $17.64 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Kc 2s 5c]
+Seat 1: minigus575 (big blind) collected ($17.64)
+Seat 2: mdif (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #145574056602:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:32:43 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($202.35 in chips)
+Seat 2: mdif ($121 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: folds
+Uncalled bet ($2) returned to minigus575
+minigus575 collected $2 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: minigus575 (big blind) collected ($2)
+Seat 2: mdif (button) (small blind) folded before Flop
+
+
+PokerStars Hand #145574054119:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:32:38 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($203.35 in chips)
+Seat 2: mdif ($120 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: folds
+Uncalled bet ($2) returned to mdif
+mdif collected $2 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: minigus575 (button) (small blind) folded before Flop
+Seat 2: mdif (big blind) collected ($2)
+
+
+PokerStars Hand #145574061956:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:32:53 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($202.35 in chips)
+Seat 2: mdif ($121 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: calls $3
+*** FLOP *** [6d Ks 3h]
+minigus575: checks
+mdif: bets $3
+minigus575: raises $3 to $6
+mdif: folds
+Uncalled bet ($3) returned to minigus575
+minigus575 collected $17.64 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6d Ks 3h]
+Seat 1: minigus575 (big blind) collected ($17.64)
+Seat 2: mdif (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #145574072287:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:33:12 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($210.99 in chips)
+Seat 2: mdif ($120 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [7d 4c 6h]
+mdif: checks
+minigus575: checks
+*** TURN *** [7d 4c 6h] [Td]
+mdif: bets $6
+minigus575: raises $6 to $12
+mdif: raises $6 to $18
+minigus575: calls $6
+*** RIVER *** [7d 4c 6h Td] [6s]
+mdif: bets $6
+minigus575: calls $6
+*** SHOW DOWN ***
+mdif: shows [Tc Qd] (two pair, Tens and Sixes)
+minigus575: mucks hand
+mdif collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [7d 4c 6h Td 6s]
+Seat 1: minigus575 (button) (small blind) mucked
+Seat 2: mdif (big blind) showed [Tc Qd] and won ($59.50) with two pair, Tens and Sixes
+
+
+PokerStars Hand #145574082175:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:33:30 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($180.99 in chips)
+Seat 2: mdif ($149.50 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: calls $3
+*** FLOP *** [Js 3s Jh]
+minigus575: checks
+mdif: bets $3
+minigus575: folds
+Uncalled bet ($3) returned to mdif
+mdif collected $11.76 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Js 3s Jh]
+Seat 1: minigus575 (big blind) folded on the Flop
+Seat 2: mdif (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #145574105925:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:34:13 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($155.99 in chips)
+Seat 2: mdif ($173.54 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: folds
+Uncalled bet ($2) returned to minigus575
+minigus575 collected $2 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: minigus575 (big blind) collected ($2)
+Seat 2: mdif (button) (small blind) folded before Flop
+
+
+PokerStars Hand #145574103430:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:34:08 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($156.99 in chips)
+Seat 2: mdif ($172.54 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: folds
+Uncalled bet ($2) returned to mdif
+mdif collected $2 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: minigus575 (button) (small blind) folded before Flop
+Seat 2: mdif (big blind) collected ($2)
+
+
+PokerStars Hand #145574092323:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:33:48 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($165.99 in chips)
+Seat 2: mdif ($163.90 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: calls $3
+*** FLOP *** [6c 9s 6d]
+minigus575: checks
+mdif: bets $3
+minigus575: calls $3
+*** TURN *** [6c 9s 6d] [3h]
+minigus575: checks
+mdif: checks
+*** RIVER *** [6c 9s 6d 3h] [Kc]
+minigus575: checks
+mdif: bets $6
+minigus575: folds
+Uncalled bet ($6) returned to mdif
+mdif collected $17.64 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6c 9s 6d 3h Kc]
+Seat 1: minigus575 (big blind) folded on the River
+Seat 2: mdif (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #145574087156:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:33:39 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($174.99 in chips)
+Seat 2: mdif ($155.26 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: raises $3 to $9
+minigus575: calls $3
+*** FLOP *** [Ac Jh 7c]
+mdif: bets $3
+minigus575: folds
+Uncalled bet ($3) returned to mdif
+mdif collected $17.64 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ac Jh 7c]
+Seat 1: minigus575 (button) (small blind) folded on the Flop
+Seat 2: mdif (big blind) collected ($17.64)
+
+
+PokerStars Hand #145574128598:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:34:55 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($135.99 in chips)
+Seat 2: mdif ($192.58 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: folds
+Uncalled bet ($2) returned to minigus575
+minigus575 collected $2 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: minigus575 (big blind) collected ($2)
+Seat 2: mdif (button) (small blind) folded before Flop
+
+
+PokerStars Hand #145574124395:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:34:47 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($132.99 in chips)
+Seat 2: mdif ($195.58 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: folds
+Uncalled bet ($3) returned to minigus575
+minigus575 collected $6 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: minigus575 (button) (small blind) collected ($6)
+Seat 2: mdif (big blind) folded before Flop
+
+
+PokerStars Hand #145574118042:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:34:35 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($144.99 in chips)
+Seat 2: mdif ($184.06 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: calls $3
+*** FLOP *** [9s As Ah]
+minigus575: checks
+mdif: bets $3
+minigus575: raises $3 to $6
+mdif: raises $3 to $9
+minigus575: folds
+Uncalled bet ($3) returned to mdif
+mdif collected $23.52 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [9s As Ah]
+Seat 1: minigus575 (big blind) folded on the Flop
+Seat 2: mdif (button) (small blind) collected ($23.52)
+
+
+PokerStars Hand #145574108457:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:34:18 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($156.99 in chips)
+Seat 2: mdif ($172.54 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [Jh 5c 2s]
+mdif: checks
+minigus575: bets $3
+mdif: raises $3 to $6
+minigus575: calls $3
+*** TURN *** [Jh 5c 2s] [2h]
+mdif: bets $6
+minigus575: folds
+Uncalled bet ($6) returned to mdif
+mdif collected $23.52 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Jh 5c 2s 2h]
+Seat 1: minigus575 (button) (small blind) folded on the Turn
+Seat 2: mdif (big blind) collected ($23.52)
+
+
+PokerStars Hand #145574131694:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:35:01 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($136.99 in chips)
+Seat 2: mdif ($191.58 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: raises $3 to $9
+minigus575: raises $3 to $12
+Betting is capped
+mdif: calls $3
+*** FLOP *** [9s Kc 3h]
+mdif: checks
+minigus575: bets $3
+mdif: calls $3
+*** TURN *** [9s Kc 3h] [3d]
+mdif: checks
+minigus575: bets $6
+mdif: folds
+Uncalled bet ($6) returned to minigus575
+minigus575 collected $29.50 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [9s Kc 3h 3d]
+Seat 1: minigus575 (button) (small blind) collected ($29.50)
+Seat 2: mdif (big blind) folded on the Turn
+
+
+PokerStars Hand #145574153090:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:35:40 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($136.49 in chips)
+Seat 2: mdif ($191.08 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [Qc 8h 5d]
+mdif: checks
+minigus575: bets $3
+mdif: raises $3 to $6
+minigus575: calls $3
+*** TURN *** [Qc 8h 5d] [8s]
+mdif: bets $6
+minigus575: calls $6
+*** RIVER *** [Qc 8h 5d 8s] [5h]
+mdif: bets $6
+minigus575: folds
+Uncalled bet ($6) returned to mdif
+mdif collected $35.50 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Qc 8h 5d 8s 5h]
+Seat 1: minigus575 (button) (small blind) folded on the River
+Seat 2: mdif (big blind) collected ($35.50)
+
+
+PokerStars Hand #145574141443:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:35:19 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($151.49 in chips)
+Seat 2: mdif ($176.58 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: calls $3
+*** FLOP *** [4s 6s 5h]
+minigus575: checks
+mdif: bets $3
+minigus575: calls $3
+*** TURN *** [4s 6s 5h] [3h]
+minigus575: checks
+mdif: checks
+*** RIVER *** [4s 6s 5h 3h] [6c]
+minigus575: bets $6
+mdif: calls $6
+*** SHOW DOWN ***
+minigus575: shows [8s Jh] (a pair of Sixes)
+mdif: shows [Kc 6d] (three of a kind, Sixes)
+mdif collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [4s 6s 5h 3h 6c]
+Seat 1: minigus575 (big blind) showed [8s Jh] and lost with a pair of Sixes
+Seat 2: mdif (button) (small blind) showed [Kc 6d] and won ($29.50) with three of a kind, Sixes
+
+
+PokerStars Hand #145574163833:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:36:00 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($118.49 in chips)
+Seat 2: mdif ($208.58 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: calls $3
+*** FLOP *** [Ah 8d Js]
+minigus575: checks
+mdif: bets $3
+minigus575: folds
+Uncalled bet ($3) returned to mdif
+mdif collected $11.76 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ah 8d Js]
+Seat 1: minigus575 (big blind) folded on the Flop
+Seat 2: mdif (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #145574169372:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:36:10 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($112.49 in chips)
+Seat 2: mdif ($214.34 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: raises $3 to $9
+minigus575: calls $3
+*** FLOP *** [Qd 7s 2c]
+mdif: bets $3
+minigus575: calls $3
+*** TURN *** [Qd 7s 2c] [Ks]
+mdif: checks
+minigus575: checks
+*** RIVER *** [Qd 7s 2c Ks] [9s]
+mdif: bets $6
+minigus575: folds
+Uncalled bet ($6) returned to mdif
+mdif collected $23.52 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [Qd 7s 2c Ks 9s]
+Seat 1: minigus575 (button) (small blind) folded on the River
+Seat 2: mdif (big blind) collected ($23.52)
+
+
+PokerStars Hand #145574179720:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:36:28 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($100.49 in chips)
+Seat 2: mdif ($225.86 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: calls $3
+*** FLOP *** [Th Jc Qc]
+minigus575: checks
+mdif: bets $3
+minigus575: folds
+Uncalled bet ($3) returned to mdif
+mdif collected $11.76 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Th Jc Qc]
+Seat 1: minigus575 (big blind) folded on the Flop
+Seat 2: mdif (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #145574185370:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:36:39 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($94.49 in chips)
+Seat 2: mdif ($231.62 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [Js 4d 7c]
+mdif: checks
+minigus575: bets $3
+mdif: calls $3
+*** TURN *** [Js 4d 7c] [7s]
+mdif: checks
+minigus575: bets $6
+mdif: calls $6
+*** RIVER *** [Js 4d 7c 7s] [5h]
+mdif: checks
+minigus575: bets $6
+mdif: calls $6
+*** SHOW DOWN ***
+minigus575: shows [Ts 7d] (three of a kind, Sevens)
+mdif: mucks hand
+minigus575 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Js 4d 7c 7s 5h]
+Seat 1: minigus575 (button) (small blind) showed [Ts 7d] and won ($41.50) with three of a kind, Sevens
+Seat 2: mdif (big blind) mucked
+
+
+PokerStars Hand #145574207193:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:37:19 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($105.99 in chips)
+Seat 2: mdif ($219.26 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: folds
+Uncalled bet ($2) returned to mdif
+mdif collected $2 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: minigus575 (button) (small blind) folded before Flop
+Seat 2: mdif (big blind) collected ($2)
+
+
+PokerStars Hand #145574196836:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:37:00 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($114.99 in chips)
+Seat 2: mdif ($210.62 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: calls $3
+*** FLOP *** [9h Ts 5h]
+minigus575: checks
+mdif: bets $3
+minigus575: calls $3
+*** TURN *** [9h Ts 5h] [8c]
+minigus575: checks
+mdif: bets $6
+minigus575: folds
+Uncalled bet ($6) returned to mdif
+mdif collected $17.64 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9h Ts 5h 8c]
+Seat 1: minigus575 (big blind) folded on the Turn
+Seat 2: mdif (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #145574209603:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:37:23 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($104.99 in chips)
+Seat 2: mdif ($220.26 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: calls $3
+*** FLOP *** [Ac 9h 8s]
+minigus575: checks
+mdif: bets $3
+minigus575: folds
+Uncalled bet ($3) returned to mdif
+mdif collected $11.76 from pot
+mdif: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Ac 9h 8s]
+Seat 1: minigus575 (big blind) folded on the Flop
+Seat 2: mdif (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #145574215110:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:37:33 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($98.99 in chips)
+Seat 2: mdif ($226.02 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [7s 8s 2s]
+mdif: checks
+minigus575: checks
+*** TURN *** [7s 8s 2s] [5d]
+mdif: checks
+minigus575: checks
+*** RIVER *** [7s 8s 2s 5d] [5c]
+mdif: checks
+minigus575: checks
+*** SHOW DOWN ***
+mdif: shows [As 3d] (a pair of Fives)
+minigus575: shows [4h Ac] (a pair of Fives)
+mdif collected $5.88 from pot
+minigus575 collected $5.88 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7s 8s 2s 5d 5c]
+Seat 1: minigus575 (button) (small blind) showed [4h Ac] and won ($5.88) with a pair of Fives
+Seat 2: mdif (big blind) showed [As 3d] and won ($5.88) with a pair of Fives
+
+
+PokerStars Hand #145574228435:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:37:57 ET
+Table 'Concordia' 2-max Seat #2 is the button
+Seat 1: minigus575 ($98.87 in chips)
+Seat 2: mdif ($225.90 in chips)
+mdif: posts small blind $1
+minigus575: posts big blind $3
+*** HOLE CARDS ***
+mdif: raises $3 to $6
+minigus575: calls $3
+*** FLOP *** [9h 5c Ts]
+minigus575: checks
+mdif: checks
+*** TURN *** [9h 5c Ts] [3d]
+minigus575: bets $6
+mdif: folds
+Uncalled bet ($6) returned to minigus575
+minigus575 collected $11.76 from pot
+minigus575: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9h 5c Ts 3d]
+Seat 1: minigus575 (big blind) collected ($11.76)
+Seat 2: mdif (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #145574240751:  Hold'em Limit ($3/$6 USD) - 2015/12/19 6:38:20 ET
+Table 'Concordia' 2-max Seat #1 is the button
+Seat 1: minigus575 ($104.63 in chips)
+Seat 2: mdif ($219.90 in chips)
+minigus575: posts small blind $1
+mdif: posts big blind $3
+*** HOLE CARDS ***
+minigus575: raises $3 to $6
+mdif: calls $3
+*** FLOP *** [3d 8d 6d]
+mdif: checks
+minigus575: bets $3
+mdif: raises $3 to $6
+minigus575: calls $3
+*** TURN *** [3d 8d 6d] [2d]
+mdif: bets $6
+minigus575: calls $6
+*** RIVER *** [3d 8d 6d 2d] [Ks]
+mdif: bets $6
+minigus575: calls $6
+*** SHOW DOWN ***
+mdif: shows [6c 8s] (two pair, Eights and Sixes)
+minigus575: mucks hand
+mdif collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3d 8d 6d 2d Ks]
+Seat 1: minigus575 (button) (small blind) mucked
+Seat 2: mdif (big blind) showed [6c 8s] and won ($47.50) with two pair, Eights and Sixes
+
+

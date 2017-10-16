@@ -1,0 +1,35 @@
+PokerStars Hand #165226127784:  Hold'em Limit ($3/$6 USD) - 2017/01/26 21:05:39 ET
+Table 'Polites' 6-max Seat #4 is the button
+Seat 1: krytalex ($236.34 in chips)
+Seat 4: Actionni13 ($201.99 in chips)
+Actionni13: posts small blind $1
+Krazy90: is sitting out
+krytalex: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+Krazy90 leaves the table
+krytalex: calls $3
+*** FLOP *** [Kc 8d Ts]
+krytalex: checks
+Actionni13: bets $3
+krytalex: raises $3 to $6
+Actionni13: calls $3
+*** TURN *** [Kc 8d Ts] [7d]
+krytalex: bets $6
+Actionni13: calls $6
+*** RIVER *** [Kc 8d Ts 7d] [Ac]
+krytalex: checks
+Actionni13: bets $6
+krytalex: calls $6
+*** SHOW DOWN ***
+Actionni13: shows [Ks 3h] (a pair of Kings)
+krytalex: shows [Kh 5d] (a pair of Kings)
+krytalex collected $23.75 from pot
+Actionni13 collected $23.75 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Kc 8d Ts 7d Ac]
+Seat 1: krytalex (big blind) showed [Kh 5d] and won ($23.75) with a pair of Kings
+Seat 4: Actionni13 (button) (small blind) showed [Ks 3h] and won ($23.75) with a pair of Kings
+
+

@@ -1,0 +1,85 @@
+PokerStars Hand #154719435010:  Hold'em Limit ($3/$6 USD) - 2016/06/14 8:37:46 ET
+Table 'Hilda' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($120 in chips)
+Seat 5: buddhasway ($120 in chips)
+VolkovDmitri: posts small blind $1
+buddhasway: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+buddhasway: calls $3
+*** FLOP *** [Qs Jc Js]
+buddhasway: checks
+VolkovDmitri: bets $3
+buddhasway: calls $3
+*** TURN *** [Qs Jc Js] [5d]
+buddhasway: checks
+VolkovDmitri: bets $6
+buddhasway: calls $6
+*** RIVER *** [Qs Jc Js 5d] [4d]
+buddhasway: checks
+VolkovDmitri: checks
+*** SHOW DOWN ***
+buddhasway: shows [Th 8s] (a pair of Jacks)
+VolkovDmitri: shows [5h 7d] (two pair, Jacks and Fives)
+VolkovDmitri collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Qs Jc Js 5d 4d]
+Seat 4: VolkovDmitri (button) (small blind) showed [5h 7d] and won ($29.50) with two pair, Jacks and Fives
+Seat 5: buddhasway (big blind) showed [Th 8s] and lost with a pair of Jacks
+
+
+PokerStars Hand #154719454297:  Hold'em Limit ($3/$6 USD) - 2016/06/14 8:38:24 ET
+Table 'Hilda' 6-max Seat #5 is the button
+Seat 4: VolkovDmitri ($134.50 in chips)
+Seat 5: buddhasway ($105 in chips)
+buddhasway: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+buddhasway: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [7h 5c 2s]
+VolkovDmitri: checks
+buddhasway: bets $3
+VolkovDmitri: folds
+Uncalled bet ($3) returned to buddhasway
+buddhasway collected $11.76 from pot
+buddhasway: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7h 5c 2s]
+Seat 4: VolkovDmitri (big blind) folded on the Flop
+Seat 5: buddhasway (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #154719460625:  Hold'em Limit ($3/$6 USD) - 2016/06/14 8:38:36 ET
+Table 'Hilda' 6-max Seat #4 is the button
+Seat 4: VolkovDmitri ($128.50 in chips)
+Seat 5: buddhasway ($110.76 in chips)
+VolkovDmitri: posts small blind $1
+buddhasway: posts big blind $3
+*** HOLE CARDS ***
+Chessnok joins the table at seat #6
+VolkovDmitri: raises $3 to $6
+buddhasway: calls $3
+*** FLOP *** [Th 3h 8s]
+buddhasway: checks
+VolkovDmitri: bets $3
+buddhasway: calls $3
+*** TURN *** [Th 3h 8s] [Tc]
+buddhasway: checks
+VolkovDmitri: checks
+*** RIVER *** [Th 3h 8s Tc] [4h]
+buddhasway: checks
+VolkovDmitri: bets $6
+buddhasway: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $17.64 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Th 3h 8s Tc 4h]
+Seat 4: VolkovDmitri (button) (small blind) collected ($17.64)
+Seat 5: buddhasway (big blind) folded on the River
+
+

@@ -1,0 +1,80 @@
+PokerStars Hand #170544224754:  Hold'em Limit ($3/$6 USD) - 2017/05/17 13:02:07 ET
+Table 'Florentina' 6-max Seat #1 is the button
+Seat 1: Opal10 ($31.79 in chips)
+Seat 2: Ale4o ($122.88 in chips)
+Opal10: posts small blind $1
+Ale4o: posts big blind $3
+*** HOLE CARDS ***
+Opal10: calls $2
+Ale4o: checks
+*** FLOP *** [Kd As 6s]
+B_loJkl joins the table at seat #3
+Ale4o: checks
+Opal10: bets $3
+Ale4o: folds
+Uncalled bet ($3) returned to Opal10
+Opal10 collected $5.88 from pot
+Opal10: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Kd As 6s]
+Seat 1: Opal10 (button) (small blind) collected ($5.88)
+Seat 2: Ale4o (big blind) folded on the Flop
+
+
+PokerStars Hand #170544208477:  Hold'em Limit ($3/$6 USD) - 2017/05/17 13:01:43 ET
+Table 'Florentina' 6-max Seat #2 is the button
+Seat 1: Opal10 ($34.79 in chips)
+Seat 2: Ale4o ($120 in chips)
+Ale4o: posts small blind $1
+Agrotait: is sitting out
+Opal10: posts big blind $3
+*** HOLE CARDS ***
+Ale4o: calls $2
+Opal10: checks
+*** FLOP *** [Kd 9c 2d]
+Opal10: checks
+Ale4o: bets $3
+Opal10: folds
+Uncalled bet ($3) returned to Ale4o
+Ale4o collected $5.88 from pot
+Ale4o: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0.12
+Board [Kd 9c 2d]
+Seat 1: Opal10 (big blind) folded on the Flop
+Seat 2: Ale4o (button) (small blind) collected ($5.88)
+
+
+PokerStars Hand #170544489510:  Hold'em Limit ($3/$6 USD) - 2017/05/17 13:08:09 ET
+Table 'Florentina' 6-max Seat #2 is the button
+Seat 2: Ale4o ($109.50 in chips)
+Seat 3: B_loJkl ($182.15 in chips)
+Ale4o: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+Ale4o: raises $3 to $6
+B_loJkl: raises $3 to $9
+Ale4o: calls $3
+*** FLOP *** [Ts 9c 2h]
+Opal10 leaves the table
+B_loJkl: bets $3
+Ale4o: calls $3
+*** TURN *** [Ts 9c 2h] [6s]
+B_loJkl: bets $6
+Ale4o: raises $6 to $12
+B_loJkl: calls $6
+*** RIVER *** [Ts 9c 2h 6s] [2s]
+B_loJkl: checks
+Ale4o: checks
+*** SHOW DOWN ***
+B_loJkl: shows [Kd Jh] (a pair of Deuces)
+Ale4o: shows [Tc 6d] (two pair, Tens and Sixes)
+Ale4o collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Ts 9c 2h 6s 2s]
+Seat 2: Ale4o (button) (small blind) showed [Tc 6d] and won ($47.50) with two pair, Tens and Sixes
+Seat 3: B_loJkl (big blind) showed [Kd Jh] and lost with a pair of Deuces
+
+

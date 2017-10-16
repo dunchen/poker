@@ -1,0 +1,48 @@
+PokerStars Hand #152224228165:  Hold'em Limit ($3/$6 USD) - 2016/04/21 4:38:44 ET
+Table 'Volans' 10-max Seat #1 is the button
+Seat 1: jackdog ($70.83 in chips)
+Seat 7: VolkovDmitri ($120 in chips)
+jackdog: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+jackdog: folds
+Uncalled bet ($2) returned to VolkovDmitri
+VolkovDmitri collected $2 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: jackdog (button) (small blind) folded before Flop
+Seat 7: VolkovDmitri (big blind) collected ($2)
+
+
+PokerStars Hand #152224233893:  Hold'em Limit ($3/$6 USD) - 2016/04/21 4:39:00 ET
+Table 'Volans' 10-max Seat #7 is the button
+Seat 1: jackdog ($69.83 in chips)
+Seat 7: VolkovDmitri ($121 in chips)
+VolkovDmitri: posts small blind $1
+jackdog: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+B_loJkl joins the table at seat #2
+jackdog: raises $3 to $9
+VolkovDmitri: calls $3
+*** FLOP *** [Jd Ks 6c]
+jackdog: bets $3
+VolkovDmitri: calls $3
+*** TURN *** [Jd Ks 6c] [6d]
+jackdog: bets $6
+VolkovDmitri: calls $6
+*** RIVER *** [Jd Ks 6c 6d] [7h]
+jackdog: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+jackdog: shows [9s Kh] (two pair, Kings and Sixes)
+VolkovDmitri: mucks hand
+jackdog collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Jd Ks 6c 6d 7h]
+Seat 1: jackdog (big blind) showed [9s Kh] and won ($47.50) with two pair, Kings and Sixes
+Seat 7: VolkovDmitri (button) (small blind) mucked
+
+

@@ -1,0 +1,48 @@
+PokerStars Hand #161525000329:  Hold'em Limit ($3/$6 USD) - 2016/11/17 1:45:27 ET
+Table 'Circinus' 10-max Seat #10 is the button
+Seat 7: VolkovDmitri ($129.64 in chips)
+Seat 10: AllanW ($20 in chips)
+AllanW: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+AllanW: raises $3 to $6
+VolkovDmitri: calls $3
+*** FLOP *** [8s Qc 5c]
+VolkovDmitri: checks
+AllanW: checks
+*** TURN *** [8s Qc 5c] [8c]
+VolkovDmitri: bets $6
+AllanW: folds
+Uncalled bet ($6) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8s Qc 5c 8c]
+Seat 7: VolkovDmitri (big blind) collected ($11.76)
+Seat 10: AllanW (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #161525017759:  Hold'em Limit ($3/$6 USD) - 2016/11/17 1:46:31 ET
+Table 'Circinus' 10-max Seat #7 is the button
+Seat 7: VolkovDmitri ($135.40 in chips)
+Seat 10: AllanW ($14 in chips)
+VolkovDmitri: posts small blind $1
+AllanW: posts big blind $3
+*** HOLE CARDS ***
+VolkovDmitri: raises $3 to $6
+AllanW: calls $3
+*** FLOP *** [5s Ac As]
+AllanW: checks
+VolkovDmitri: bets $3
+AllanW: folds
+Uncalled bet ($3) returned to VolkovDmitri
+VolkovDmitri collected $11.76 from pot
+VolkovDmitri: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5s Ac As]
+Seat 7: VolkovDmitri (button) (small blind) collected ($11.76)
+Seat 10: AllanW (big blind) folded on the Flop
+
+

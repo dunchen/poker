@@ -1,0 +1,66 @@
+PokerStars Hand #175860369654:  Hold'em Limit ($3/$6 USD) - 2017/09/19 15:28:28 ET
+Table 'Alshain' 6-max Seat #6 is the button
+Seat 1: Puzanchik 11 ($57.32 in chips)
+Seat 6: t9pkin ($120 in chips)
+t9pkin: posts small blind $1
+Puzanchik 11: posts big blind $3
+*** HOLE CARDS ***
+t9pkin: raises $3 to $6
+Puzanchik 11: raises $3 to $9
+denn69 joins the table at seat #4
+t9pkin: calls $3
+*** FLOP *** [Kc 5h 5c]
+Puzanchik 11: bets $3
+t9pkin: calls $3
+*** TURN *** [Kc 5h 5c] [Jd]
+Puzanchik 11: bets $6
+t9pkin: calls $6
+*** RIVER *** [Kc 5h 5c Jd] [2c]
+Puzanchik 11: checks
+t9pkin: bets $6
+Puzanchik 11: calls $6
+*** SHOW DOWN ***
+t9pkin: shows [Jh Ac] (two pair, Jacks and Fives)
+Puzanchik 11: shows [7s 7c] (two pair, Sevens and Fives)
+t9pkin collected $47.50 from pot
+SEQUOIA2012 joins the table at seat #2
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Kc 5h 5c Jd 2c]
+Seat 1: Puzanchik 11 (big blind) showed [7s 7c] and lost with two pair, Sevens and Fives
+Seat 6: t9pkin (button) (small blind) showed [Jh Ac] and won ($47.50) with two pair, Jacks and Fives
+
+
+PokerStars Hand #175862070263:  Hold'em Limit ($3/$6 USD) - 2017/09/19 16:03:11 ET
+Table 'Alshain' 6-max Seat #5 is the button
+Seat 4: jamie2000 ($134.46 in chips)
+Seat 5: alpha2777 ($165.57 in chips)
+alpha2777: posts small blind $1
+t9pkin: is sitting out
+vestimokrec: is sitting out
+jamie2000: posts big blind $3
+*** HOLE CARDS ***
+alpha2777: raises $3 to $6
+jamie2000: raises $3 to $9
+t9pkin leaves the table
+alpha2777: calls $3
+*** FLOP *** [5d 2c 7d]
+jamie2000: bets $3
+alpha2777: calls $3
+*** TURN *** [5d 2c 7d] [6s]
+jamie2000: bets $6
+alpha2777: calls $6
+*** RIVER *** [5d 2c 7d 6s] [Jh]
+jamie2000: checks
+alpha2777: bets $6
+jamie2000: folds
+Uncalled bet ($6) returned to alpha2777
+alpha2777 collected $35.50 from pot
+alpha2777: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [5d 2c 7d 6s Jh]
+Seat 4: jamie2000 (big blind) folded on the River
+Seat 5: alpha2777 (button) (small blind) collected ($35.50)
+
+

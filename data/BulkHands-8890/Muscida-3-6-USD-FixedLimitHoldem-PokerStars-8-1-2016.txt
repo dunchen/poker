@@ -1,0 +1,95 @@
+PokerStars Hand #156739086551:  Hold'em Limit ($3/$6 USD) - 2016/08/01 16:30:36 ET
+Table 'Muscida' 10-max Seat #4 is the button
+Seat 3: anebodil ($75.17 in chips)
+Seat 4: GRAILKO ($200 in chips)
+GRAILKO: posts small blind $1
+simper11: is sitting out
+anebodil: posts big blind $3
+*** HOLE CARDS ***
+GRAILKO: raises $3 to $6
+simper11 leaves the table
+anebodil: calls $3
+*** FLOP *** [Js 4c Kh]
+anebodil: bets $3
+GRAILKO: calls $3
+*** TURN *** [Js 4c Kh] [Ah]
+Zubasa07 joins the table at seat #5
+anebodil: bets $6
+GRAILKO: calls $6
+*** RIVER *** [Js 4c Kh Ah] [8d]
+anebodil: bets $6
+GRAILKO: calls $6
+*** SHOW DOWN ***
+anebodil: shows [8c Jh] (two pair, Jacks and Eights)
+GRAILKO: mucks hand
+anebodil collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Js 4c Kh Ah 8d]
+Seat 3: anebodil (big blind) showed [8c Jh] and won ($41.50) with two pair, Jacks and Eights
+Seat 4: GRAILKO (button) (small blind) mucked
+
+
+PokerStars Hand #156739101806:  Hold'em Limit ($3/$6 USD) - 2016/08/01 16:30:54 ET
+Table 'Muscida' 10-max Seat #3 is the button
+Seat 3: anebodil ($95.67 in chips)
+Seat 4: GRAILKO ($179 in chips)
+anebodil: posts small blind $1
+GRAILKO: posts big blind $3
+*** HOLE CARDS ***
+anebodil: raises $3 to $6
+GRAILKO: calls $3
+*** FLOP *** [Qs 4h 3c]
+GRAILKO: checks
+anebodil: checks
+*** TURN *** [Qs 4h 3c] [4c]
+GRAILKO: checks
+anebodil: checks
+*** RIVER *** [Qs 4h 3c 4c] [Qc]
+GRAILKO: checks
+anebodil: bets $6
+GRAILKO: folds
+Uncalled bet ($6) returned to anebodil
+anebodil collected $11.76 from pot
+anebodil: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qs 4h 3c 4c Qc]
+Seat 3: anebodil (button) (small blind) collected ($11.76)
+Seat 4: GRAILKO (big blind) folded on the River
+
+
+PokerStars Hand #156739845422:  Hold'em Limit ($3/$6 USD) - 2016/08/01 16:45:22 ET
+Table 'Muscida' 10-max Seat #4 is the button
+Seat 2: vestimokrec ($84.75 in chips)
+Seat 4: GRAILKO ($120.14 in chips)
+anebodil will be allowed to play after the button
+GRAILKO: posts small blind $1
+Zubasa07: is sitting out
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+GRAILKO: raises $3 to $6
+vestimokrec: calls $3
+*** FLOP *** [Ad 2h 5s]
+vestimokrec: checks
+GRAILKO: bets $3
+vestimokrec: calls $3
+*** TURN *** [Ad 2h 5s] [As]
+vestimokrec: checks
+GRAILKO: bets $6
+vestimokrec: calls $6
+*** RIVER *** [Ad 2h 5s As] [Qs]
+vestimokrec: checks
+GRAILKO: bets $6
+vestimokrec: calls $6
+*** SHOW DOWN ***
+GRAILKO: shows [4d Ah] (three of a kind, Aces)
+vestimokrec: mucks hand
+GRAILKO collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Ad 2h 5s As Qs]
+Seat 2: vestimokrec (big blind) mucked
+Seat 4: GRAILKO (button) (small blind) showed [4d Ah] and won ($41.50) with three of a kind, Aces
+
+

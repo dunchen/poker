@@ -1,0 +1,65 @@
+PokerStars Hand #166807454345:  Hold'em Limit ($3/$6 USD) - 2017/02/26 12:27:30 ET
+Table 'Hypatia II' 6-max Seat #3 is the button
+Seat 3: AA_ILI ($83.54 in chips)
+Seat 6: vestimokrec ($202.02 in chips)
+AA_ILI: posts small blind $1
+Agrotait: is sitting out
+vestimokrec: posts big blind $3
+*** HOLE CARDS ***
+AA_ILI: raises $3 to $6
+hairy1961 leaves the table
+vestimokrec: calls $3
+*** FLOP *** [3s 4s 2d]
+vestimokrec: checks
+AA_ILI: bets $3
+vestimokrec: raises $3 to $6
+AA_ILI: calls $3
+*** TURN *** [3s 4s 2d] [5s]
+vestimokrec: bets $6
+AA_ILI: calls $6
+*** RIVER *** [3s 4s 2d 5s] [Jh]
+vestimokrec: bets $6
+Agrotait leaves the table
+AA_ILI: calls $6
+*** SHOW DOWN ***
+vestimokrec: shows [Ad Ks] (a straight, Ace to Five)
+AA_ILI: mucks hand
+vestimokrec collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3s 4s 2d 5s Jh]
+Seat 3: AA_ILI (button) (small blind) mucked
+Seat 6: vestimokrec (big blind) showed [Ad Ks] and won ($47.50) with a straight, Ace to Five
+
+
+PokerStars Hand #166807492377:  Hold'em Limit ($3/$6 USD) - 2017/02/26 12:28:10 ET
+Table 'Hypatia II' 6-max Seat #6 is the button
+Seat 3: AA_ILI ($59.54 in chips)
+Seat 6: vestimokrec ($225.52 in chips)
+vestimokrec: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+AA_ILI: raises $3 to $9
+vestimokrec: calls $3
+*** FLOP *** [Qc Kd 6s]
+AA_ILI: bets $3
+vestimokrec: calls $3
+*** TURN *** [Qc Kd 6s] [Ac]
+AA_ILI: bets $6
+vestimokrec: calls $6
+*** RIVER *** [Qc Kd 6s Ac] [2h]
+AA_ILI: bets $6
+vestimokrec: raises $6 to $12
+AA_ILI: calls $6
+*** SHOW DOWN ***
+vestimokrec: shows [2c As] (two pair, Aces and Deuces)
+AA_ILI: mucks hand
+vestimokrec collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Qc Kd 6s Ac 2h]
+Seat 3: AA_ILI (big blind) mucked
+Seat 6: vestimokrec (button) (small blind) showed [2c As] and won ($59.50) with two pair, Aces and Deuces
+
+

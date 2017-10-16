@@ -1,0 +1,65 @@
+PokerStars Hand #161827340614:  Hold'em Limit ($3/$6 USD) - 2016/11/23 3:49:02 ET
+Table 'Bali' 6-max Seat #1 is the button
+Seat 1: Damochka Z ($115.50 in chips)
+Seat 2: Ale4o ($96 in chips)
+Damochka Z: posts small blind $1
+Ale4o: posts big blind $3
+*** HOLE CARDS ***
+Damochka Z: calls $2
+Ale4o: raises $3 to $6
+Damochka Z: calls $3
+*** FLOP *** [9d 7s Ks]
+Ale4o: bets $3
+Damochka Z: calls $3
+*** TURN *** [9d 7s Ks] [5h]
+Ale4o: checks
+GoliafUa joins the table at seat #4
+Damochka Z: checks
+*** RIVER *** [9d 7s Ks 5h] [8h]
+Ale4o: checks
+Damochka Z: checks
+*** SHOW DOWN ***
+Ale4o: shows [3h Js] (high card King)
+Damochka Z: shows [4s 4d] (a pair of Fours)
+Damochka Z collected $17.64 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9d 7s Ks 5h 8h]
+Seat 1: Damochka Z (button) (small blind) showed [4s 4d] and won ($17.64) with a pair of Fours
+Seat 2: Ale4o (big blind) showed [3h Js] and lost with high card King
+
+
+PokerStars Hand #161827330390:  Hold'em Limit ($3/$6 USD) - 2016/11/23 3:48:31 ET
+Table 'Bali' 6-max Seat #2 is the button
+Seat 1: Damochka Z ($92 in chips)
+Seat 2: Ale4o ($120 in chips)
+Ale4o: posts small blind $1
+Agrotait: is sitting out
+Damochka Z: posts big blind $3
+*** HOLE CARDS ***
+Ale4o: raises $3 to $6
+Damochka Z: raises $3 to $9
+Ale4o: calls $3
+*** FLOP *** [7c 2s 9h]
+Damochka Z: bets $3
+Agrotait leaves the table
+Ale4o: calls $3
+*** TURN *** [7c 2s 9h] [6h]
+Damochka Z: bets $6
+Ale4o: calls $6
+*** RIVER *** [7c 2s 9h 6h] [3c]
+Damochka Z: checks
+Ale4o: bets $6
+ToDaFelt joins the table at seat #3
+Damochka Z: calls $6
+*** SHOW DOWN ***
+Ale4o: shows [8h Qc] (high card Queen)
+Damochka Z: shows [Qh Ks] (high card King)
+Damochka Z collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7c 2s 9h 6h 3c]
+Seat 1: Damochka Z (big blind) showed [Qh Ks] and won ($47.50) with high card King
+Seat 2: Ale4o (button) (small blind) showed [8h Qc] and lost with high card Queen
+
+

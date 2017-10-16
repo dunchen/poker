@@ -1,0 +1,102 @@
+PokerStars Hand #156169043205:  Hold'em Limit ($3/$6 USD) - 2016/07/19 9:37:02 ET
+Table 'Kartvelia' 6-max Seat #2 is the button
+Seat 2: vitamin168 ($75.12 in chips)
+Seat 4: B_loJkl ($81.13 in chips)
+lin1rabbit will be allowed to play after the button
+vitamin168: posts small blind $1
+vestimokrec: is sitting out
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+vitamin168: raises $3 to $6
+vestimokrec leaves the table
+B_loJkl: calls $3
+*** FLOP *** [Kh Jc 6c]
+B_loJkl: checks
+vitamin168: checks
+*** TURN *** [Kh Jc 6c] [2s]
+B_loJkl: bets $6
+vitamin168: calls $6
+*** RIVER *** [Kh Jc 6c 2s] [2c]
+B_loJkl: bets $6
+vitamin168: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [Kd 8s] (two pair, Kings and Deuces)
+vitamin168: mucks hand
+B_loJkl collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Kh Jc 6c 2s 2c]
+Seat 2: vitamin168 (button) (small blind) mucked
+Seat 4: B_loJkl (big blind) showed [Kd 8s] and won ($35.50) with two pair, Kings and Deuces
+
+
+PokerStars Hand #156169081689:  Hold'em Limit ($3/$6 USD) - 2016/07/19 9:38:16 ET
+Table 'Kartvelia' 6-max Seat #2 is the button
+Seat 2: vitamin168 ($21.12 in chips)
+Seat 6: lin1rabbit ($124.81 in chips)
+vitamin168: posts small blind $1
+B_loJkl: is sitting out
+lin1rabbit: posts big blind $3
+*** HOLE CARDS ***
+B_loJkl leaves the table
+vitamin168: folds
+Uncalled bet ($2) returned to lin1rabbit
+lin1rabbit collected $2 from pot
+lin1rabbit: doesn't show hand
+B_loJkl joins the table at seat #3
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 2: vitamin168 (button) (small blind) folded before Flop
+Seat 6: lin1rabbit (big blind) collected ($2)
+
+
+PokerStars Hand #156169084977:  Hold'em Limit ($3/$6 USD) - 2016/07/19 9:38:22 ET
+Table 'Kartvelia' 6-max Seat #6 is the button
+Seat 2: vitamin168 ($20.12 in chips)
+Seat 6: lin1rabbit ($125.81 in chips)
+lin1rabbit: posts small blind $1
+vitamin168: posts big blind $3
+*** HOLE CARDS ***
+lin1rabbit: raises $3 to $6
+vitamin168: folds
+Uncalled bet ($3) returned to lin1rabbit
+lin1rabbit collected $6 from pot
+lin1rabbit: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: vitamin168 (big blind) folded before Flop
+Seat 6: lin1rabbit (button) (small blind) collected ($6)
+
+
+PokerStars Hand #156169201484:  Hold'em Limit ($3/$6 USD) - 2016/07/19 9:42:02 ET
+Table 'Kartvelia' 6-max Seat #6 is the button
+Seat 3: B_loJkl ($138.90 in chips)
+Seat 6: lin1rabbit ($150.86 in chips)
+lin1rabbit: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+lin1rabbit: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [6h 5h 9s]
+B_loJkl: checks
+lin1rabbit: bets $3
+B_loJkl: raises $3 to $6
+lin1rabbit: calls $3
+*** TURN *** [6h 5h 9s] [3d]
+B_loJkl: bets $6
+lin1rabbit: calls $6
+*** RIVER *** [6h 5h 9s 3d] [7c]
+B_loJkl: bets $6
+lin1rabbit: raises $6 to $12
+B_loJkl: calls $6
+*** SHOW DOWN ***
+lin1rabbit: shows [3h Th] (a pair of Threes)
+B_loJkl: shows [7h 9c] (two pair, Nines and Sevens)
+B_loJkl collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [6h 5h 9s 3d 7c]
+Seat 3: B_loJkl (big blind) showed [7h 9c] and won ($59.50) with two pair, Nines and Sevens
+Seat 6: lin1rabbit (button) (small blind) showed [3h Th] and lost with a pair of Threes
+
+

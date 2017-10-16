@@ -1,0 +1,56 @@
+PokerStars Hand #166467194903:  Hold'em Limit ($3/$6 USD) - 2017/02/19 15:27:58 ET
+Table 'Elephenor II' 6-max Seat #3 is the button
+Seat 3: Eklund_1891 ($124 in chips)
+Seat 4: AzureCaper ($72 in chips)
+Eklund_1891: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+Eklund_1891: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [2s 8h 3s]
+AzureCaper: checks
+Eklund_1891: checks
+*** TURN *** [2s 8h 3s] [Ac]
+AzureCaper: bets $6
+Eklund_1891: folds
+Uncalled bet ($6) returned to AzureCaper
+AzureCaper collected $11.76 from pot
+AzureCaper: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [2s 8h 3s Ac]
+Seat 3: Eklund_1891 (button) (small blind) folded on the Turn
+Seat 4: AzureCaper (big blind) collected ($11.76)
+
+
+PokerStars Hand #166467283383:  Hold'em Limit ($3/$6 USD) - 2017/02/19 15:29:20 ET
+Table 'Elephenor II' 6-max Seat #5 is the button
+Seat 4: AzureCaper ($72 in chips)
+Seat 5: Zubasa07 ($297 in chips)
+Zubasa07: posts small blind $1
+AzureCaper: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+AzureCaper: calls $3
+*** FLOP *** [8h 7h 8d]
+AzureCaper: checks
+Zubasa07: bets $3
+AzureCaper: raises $3 to $6
+Zubasa07: calls $3
+*** TURN *** [8h 7h 8d] [Ad]
+AzureCaper: bets $6
+Zubasa07: calls $6
+*** RIVER *** [8h 7h 8d Ad] [Ks]
+AzureCaper: bets $6
+Zubasa07: calls $6
+*** SHOW DOWN ***
+AzureCaper: shows [7c Ac] (two pair, Aces and Eights)
+Zubasa07: mucks hand
+AzureCaper collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8h 7h 8d Ad Ks]
+Seat 4: AzureCaper (big blind) showed [7c Ac] and won ($47.50) with two pair, Aces and Eights
+Seat 5: Zubasa07 (button) (small blind) mucked
+
+

@@ -1,0 +1,31 @@
+PokerStars Hand #158197034259:  Hold'em Limit ($3/$6 USD) - 2016/09/05 12:12:22 ET
+Table 'Fringilla' 6-max Seat #3 is the button
+Seat 3: Vetal949 ($60 in chips)
+Seat 4: belik555 ($72 in chips)
+Vetal949: posts small blind $1
+belik555: posts big blind $3
+*** HOLE CARDS ***
+Vetal949: raises $3 to $6
+belik555: calls $3
+*** FLOP *** [3s Ah 6d]
+belik555: bets $3
+Vetal949: calls $3
+*** TURN *** [3s Ah 6d] [4h]
+belik555: checks
+Vetal949: checks
+*** RIVER *** [3s Ah 6d 4h] [5h]
+belik555: checks
+sierra_276 joins the table at seat #6
+Vetal949: bets $6
+belik555: calls $6
+*** SHOW DOWN ***
+Vetal949: shows [2h Kh] (a flush, Ace high)
+belik555: mucks hand
+Vetal949 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [3s Ah 6d 4h 5h]
+Seat 3: Vetal949 (button) (small blind) showed [2h Kh] and won ($29.50) with a flush, Ace high
+Seat 4: belik555 (big blind) mucked
+
+

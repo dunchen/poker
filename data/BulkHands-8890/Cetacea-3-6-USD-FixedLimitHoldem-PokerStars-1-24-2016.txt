@@ -1,0 +1,35 @@
+PokerStars Hand #147623010795:  Hold'em Limit ($3/$6 USD) - 2016/01/24 17:35:09 ET
+Table 'Cetacea' 2-max Seat #1 is the button
+Seat 1: elifnur2008 ($121 in chips)
+Seat 2: ferhato506 ($44.11 in chips)
+elifnur2008: posts small blind $1
+ferhato506: posts big blind $3
+*** HOLE CARDS ***
+elifnur2008: raises $3 to $6
+ferhato506: calls $3
+*** FLOP *** [9d 3d 7h]
+ferhato506: checks
+elifnur2008: bets $3
+ferhato506: calls $3
+*** TURN *** [9d 3d 7h] [7s]
+ferhato506: checks
+elifnur2008: bets $6
+ferhato506: raises $6 to $12
+elifnur2008: raises $6 to $18
+ferhato506: calls $6
+*** RIVER *** [9d 3d 7h 7s] [Jh]
+ferhato506: bets $6
+elifnur2008: raises $6 to $12
+ferhato506: raises $5.11 to $17.11 and is all-in
+elifnur2008: calls $5.11
+*** SHOW DOWN ***
+ferhato506: shows [9s Js] (two pair, Jacks and Nines)
+elifnur2008: shows [Ks Kd] (two pair, Kings and Sevens)
+elifnur2008 collected $87.72 from pot
+*** SUMMARY ***
+Total pot $88.22 | Rake $0.50
+Board [9d 3d 7h 7s Jh]
+Seat 1: elifnur2008 (button) (small blind) showed [Ks Kd] and won ($87.72) with two pair, Kings and Sevens
+Seat 2: ferhato506 (big blind) showed [9s Js] and lost with two pair, Jacks and Nines
+
+

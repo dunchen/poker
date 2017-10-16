@@ -1,0 +1,55 @@
+PokerStars Hand #164999148803:  Hold'em Limit ($3/$6 USD) - 2017/01/22 13:49:13 ET
+Table 'Helio' 6-max Seat #4 is the button
+Seat 4: AzureCaper ($74.88 in chips)
+Seat 6: neganessa756 ($117 in chips)
+AzureCaper: posts small blind $1
+neganessa756: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+neganessa756: calls $3
+*** FLOP *** [6h 8c 4s]
+neganessa756: bets $3
+AzureCaper: calls $3
+*** TURN *** [6h 8c 4s] [6s]
+neganessa756: bets $6
+volkovsky joins the table at seat #2
+AzureCaper: calls $6
+*** RIVER *** [6h 8c 4s 6s] [Jd]
+neganessa756: bets $6
+AzureCaper: calls $6
+*** SHOW DOWN ***
+neganessa756: shows [5h 3d] (a pair of Sixes)
+AzureCaper: shows [Kd Td] (a pair of Sixes - King kicker)
+AzureCaper collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [6h 8c 4s 6s Jd]
+Seat 4: AzureCaper (button) (small blind) showed [Kd Td] and won ($41.50) with a pair of Sixes
+Seat 6: neganessa756 (big blind) showed [5h 3d] and lost with a pair of Sixes
+
+
+PokerStars Hand #165003240036:  Hold'em Limit ($3/$6 USD) - 2017/01/22 14:52:41 ET
+Table 'Helio' 6-max Seat #2 is the button
+Seat 2: volkovsky ($280.69 in chips)
+Seat 3: hairy1961 ($50 in chips)
+volkovsky: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+volkovsky: raises $3 to $6
+hairy1961: calls $3
+*** FLOP *** [7d 8s Ts]
+hairy1961: checks
+volkovsky: checks
+*** TURN *** [7d 8s Ts] [6d]
+hairy1961: bets $6
+volkovsky: folds
+Uncalled bet ($6) returned to hairy1961
+niplot joins the table at seat #4
+hairy1961 collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [7d 8s Ts 6d]
+Seat 2: volkovsky (button) (small blind) folded on the Turn
+Seat 3: hairy1961 (big blind) collected ($11.76)
+
+

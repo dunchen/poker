@@ -1,0 +1,83 @@
+PokerStars Hand #176864968002:  Hold'em Limit ($3/$6 USD) - 2017/10/13 13:03:15 ET
+Table 'Renzia II' 6-max Seat #3 is the button
+Seat 3: leonardo112255 ($90.43 in chips)
+Seat 6: uglyghost101 ($231 in chips)
+leonardo112255: posts small blind $1
+vestimokrec: is sitting out
+uglyghost101: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec leaves the table
+leonardo112255: raises $3 to $6
+nimzon joins the table at seat #5
+uglyghost101: calls $3
+*** FLOP *** [9d 5h Qc]
+vestimokrec joins the table at seat #4
+uglyghost101: bets $3
+nimzon leaves the table
+leonardo112255: calls $3
+*** TURN *** [9d 5h Qc] [6d]
+uglyghost101: bets $6
+leonardo112255: raises $6 to $12
+uglyghost101: calls $6
+*** RIVER *** [9d 5h Qc 6d] [7s]
+uglyghost101: checks
+leonardo112255: bets $6
+uglyghost101: calls $6
+*** SHOW DOWN ***
+leonardo112255: shows [6s 6c] (three of a kind, Sixes)
+uglyghost101: mucks hand
+leonardo112255 collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [9d 5h Qc 6d 7s]
+Seat 3: leonardo112255 (button) (small blind) showed [6s 6c] and won ($53.50) with three of a kind, Sixes
+Seat 6: uglyghost101 (big blind) mucked
+
+
+PokerStars Hand #176864992437:  Hold'em Limit ($3/$6 USD) - 2017/10/13 13:03:52 ET
+Table 'Renzia II' 6-max Seat #6 is the button
+Seat 3: leonardo112255 ($116.93 in chips)
+Seat 6: uglyghost101 ($204 in chips)
+uglyghost101: posts small blind $1
+leonardo112255: posts big blind $3
+*** HOLE CARDS ***
+uglyghost101: folds
+Uncalled bet ($2) returned to leonardo112255
+leonardo112255 collected $2 from pot
+leonardo112255: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: leonardo112255 (big blind) collected ($2)
+Seat 6: uglyghost101 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #176871565400:  Hold'em Limit ($3/$6 USD) - 2017/10/13 15:31:43 ET
+Table 'Renzia II' 6-max Seat #3 is the button
+Seat 1: kusznak ($102.57 in chips)
+Seat 3: vestimokrec ($73.61 in chips)
+vestimokrec: posts small blind $1
+kusznak: posts big blind $3
+*** HOLE CARDS ***
+vestimokrec: raises $3 to $6
+kusznak: calls $3
+*** FLOP *** [2s Qh Js]
+kusznak: checks
+vestimokrec: checks
+*** TURN *** [2s Qh Js] [Kh]
+kusznak: checks
+vestimokrec: bets $6
+kusznak: calls $6
+*** RIVER *** [2s Qh Js Kh] [8h]
+kusznak: checks
+vestimokrec: checks
+*** SHOW DOWN ***
+kusznak: shows [Ah 2c] (a pair of Deuces)
+vestimokrec: mucks hand
+kusznak collected $23.52 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [2s Qh Js Kh 8h]
+Seat 1: kusznak (big blind) showed [Ah 2c] and won ($23.52) with a pair of Deuces
+Seat 3: vestimokrec (button) (small blind) mucked
+
+

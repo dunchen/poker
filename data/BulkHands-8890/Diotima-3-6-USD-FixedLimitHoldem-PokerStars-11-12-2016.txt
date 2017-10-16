@@ -1,0 +1,31 @@
+PokerStars Hand #161264304726:  Hold'em Limit ($3/$6 USD) - 2016/11/11 20:08:12 ET
+Table 'Diotima' 6-max Seat #1 is the button
+Seat 1: TinaTurner72 ($43 in chips)
+Seat 3: ToDaFelt ($150.63 in chips)
+TinaTurner72: posts small blind $1
+ToDaFelt: posts big blind $3
+*** HOLE CARDS ***
+TinaTurner72: raises $3 to $6
+ToDaFelt: raises $3 to $9
+TinaTurner72: calls $3
+*** FLOP *** [2c 3c Jh]
+ToDaFelt: bets $3
+TinaTurner72: calls $3
+*** TURN *** [2c 3c Jh] [9s]
+ToDaFelt: bets $6
+TinaTurner72: raises $6 to $12
+ToDaFelt: calls $6
+*** RIVER *** [2c 3c Jh 9s] [Ks]
+ToDaFelt: checks
+TinaTurner72: checks
+*** SHOW DOWN ***
+ToDaFelt: shows [Ad 7s] (high card Ace)
+TinaTurner72: shows [9c 5d] (a pair of Nines)
+TinaTurner72 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [2c 3c Jh 9s Ks]
+Seat 1: TinaTurner72 (button) (small blind) showed [9c 5d] and won ($47.50) with a pair of Nines
+Seat 3: ToDaFelt (big blind) showed [Ad 7s] and lost with high card Ace
+
+

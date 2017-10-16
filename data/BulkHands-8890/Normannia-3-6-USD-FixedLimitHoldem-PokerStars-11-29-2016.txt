@@ -1,0 +1,30 @@
+PokerStars Hand #162135669575:  Hold'em Limit ($3/$6 USD) - 2016/11/29 8:36:02 ET
+Table 'Normannia' 6-max Seat #3 is the button
+Seat 3: boom65 ($47.51 in chips)
+Seat 4: B_loJkl ($150 in chips)
+boom65: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+boom65: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Js 4s 9h]
+B_loJkl: bets $3
+boom65: calls $3
+*** TURN *** [Js 4s 9h] [Qd]
+B_loJkl: bets $6
+boom65: calls $6
+*** RIVER *** [Js 4s 9h Qd] [Ac]
+B_loJkl: checks
+boom65: bets $6
+B_loJkl: calls $6
+*** SHOW DOWN ***
+boom65: shows [Ah Qh] (two pair, Aces and Queens)
+B_loJkl: mucks hand
+boom65 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Js 4s 9h Qd Ac]
+Seat 3: boom65 (button) (small blind) showed [Ah Qh] and won ($41.50) with two pair, Aces and Queens
+Seat 4: B_loJkl (big blind) mucked
+
+

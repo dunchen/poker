@@ -1,0 +1,995 @@
+PokerStars Hand #147920841683:  Hold'em Limit ($3/$6 USD) - 2016/01/30 4:58:19 ET
+Table 'Jih II' 2-max Seat #1 is the button
+Seat 1: BelSv ($96.50 in chips)
+Seat 2: kairobs ($100.64 in chips)
+BelSv: posts small blind $1
+kairobs: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+kairobs: calls $3
+*** FLOP *** [Jc 2h 3s]
+kairobs: checks
+BelSv: checks
+*** TURN *** [Jc 2h 3s] [8h]
+kairobs: checks
+BelSv: checks
+*** RIVER *** [Jc 2h 3s 8h] [9h]
+kairobs: checks
+BelSv: checks
+*** SHOW DOWN ***
+kairobs: shows [Kd 5c] (high card King)
+BelSv: shows [Ad 4c] (high card Ace)
+BelSv collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jc 2h 3s 8h 9h]
+Seat 1: BelSv (button) (small blind) showed [Ad 4c] and won ($11.76) with high card Ace
+Seat 2: kairobs (big blind) showed [Kd 5c] and lost with high card King
+
+
+PokerStars Hand #147920873954:  Hold'em Limit ($3/$6 USD) - 2016/01/30 4:59:25 ET
+Table 'Jih II' 2-max Seat #2 is the button
+Seat 1: BelSv ($83.76 in chips)
+Seat 2: kairobs ($136.14 in chips)
+kairobs: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+kairobs: raises $3 to $6
+BelSv: raises $3 to $9
+kairobs: raises $3 to $12
+Betting is capped
+BelSv: calls $3
+*** FLOP *** [7s Qh 7h]
+BelSv: checks
+kairobs: bets $3
+BelSv: calls $3
+*** TURN *** [7s Qh 7h] [7d]
+BelSv: checks
+kairobs: bets $6
+BelSv: calls $6
+*** RIVER *** [7s Qh 7h 7d] [5d]
+BelSv: checks
+kairobs: bets $6
+BelSv: calls $6
+*** SHOW DOWN ***
+kairobs: shows [As Qd] (a full house, Sevens full of Queens)
+BelSv: mucks hand
+kairobs collected $53.50 from pot
+*** SUMMARY ***
+Total pot $54 | Rake $0.50
+Board [7s Qh 7h 7d 5d]
+Seat 1: BelSv (big blind) mucked
+Seat 2: kairobs (button) (small blind) showed [As Qd] and won ($53.50) with a full house, Sevens full of Queens
+
+
+PokerStars Hand #147920868307:  Hold'em Limit ($3/$6 USD) - 2016/01/30 4:59:12 ET
+Table 'Jih II' 2-max Seat #1 is the button
+Seat 1: BelSv ($78 in chips)
+Seat 2: kairobs ($142.14 in chips)
+BelSv: posts small blind $1
+kairobs: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+kairobs: calls $3
+*** FLOP *** [Jh 2c 4h]
+kairobs: checks
+BelSv: bets $3
+kairobs: folds
+Uncalled bet ($3) returned to BelSv
+BelSv collected $11.76 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jh 2c 4h]
+Seat 1: BelSv (button) (small blind) collected ($11.76)
+Seat 2: kairobs (big blind) folded on the Flop
+
+
+PokerStars Hand #147920855900:  Hold'em Limit ($3/$6 USD) - 2016/01/30 4:58:45 ET
+Table 'Jih II' 2-max Seat #2 is the button
+Seat 1: BelSv ($102.26 in chips)
+Seat 2: kairobs ($94.64 in chips)
+kairobs: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+kairobs: raises $3 to $6
+BelSv: raises $3 to $9
+kairobs: raises $3 to $12
+Betting is capped
+BelSv: calls $3
+*** FLOP *** [5c 9s Qs]
+BelSv: checks
+kairobs: bets $3
+BelSv: raises $3 to $6
+kairobs: calls $3
+*** TURN *** [5c 9s Qs] [Ts]
+BelSv: bets $6
+kairobs: raises $6 to $12
+BelSv: raises $6 to $18
+kairobs: raises $6 to $24
+Betting is capped
+BelSv: calls $6
+*** RIVER *** [5c 9s Qs Ts] [4h]
+BelSv: checks
+kairobs: bets $6
+BelSv: calls $6
+*** SHOW DOWN ***
+kairobs: shows [Js Ks] (a straight flush, Nine to King)
+BelSv: mucks hand
+kairobs collected $95.50 from pot
+*** SUMMARY ***
+Total pot $96 | Rake $0.50
+Board [5c 9s Qs Ts 4h]
+Seat 1: BelSv (big blind) mucked
+Seat 2: kairobs (button) (small blind) showed [Js Ks] and won ($95.50) with a straight flush, Nine to King
+
+
+PokerStars Hand #147921430202:  Hold'em Limit ($3/$6 USD) - 2016/01/30 5:18:06 ET
+Table 'Jih II' 2-max Seat #1 is the button
+Seat 1: BelSv ($78 in chips)
+Seat 2: hudecam ($30 in chips)
+BelSv: posts small blind $1
+hudecam: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+hudecam: raises $3 to $9
+BelSv: calls $3
+*** FLOP *** [Ks Kh Qs]
+hudecam: bets $3
+BelSv: folds
+Uncalled bet ($3) returned to hudecam
+hudecam collected $17.64 from pot
+hudecam: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ks Kh Qs]
+Seat 1: BelSv (button) (small blind) folded on the Flop
+Seat 2: hudecam (big blind) collected ($17.64)
+
+
+PokerStars Hand #147921435585:  Hold'em Limit ($3/$6 USD) - 2016/01/30 5:18:17 ET
+Table 'Jih II' 2-max Seat #2 is the button
+Seat 1: BelSv ($78 in chips)
+Seat 2: hudecam ($38.64 in chips)
+hudecam: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+hudecam: folds
+Uncalled bet ($2) returned to BelSv
+BelSv collected $2 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BelSv (big blind) collected ($2)
+Seat 2: hudecam (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147921441741:  Hold'em Limit ($3/$6 USD) - 2016/01/30 5:18:29 ET
+Table 'Jih II' 2-max Seat #2 is the button
+Seat 1: BelSv ($78 in chips)
+Seat 2: hudecam ($38.64 in chips)
+hudecam: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+hudecam: folds
+Uncalled bet ($2) returned to BelSv
+BelSv collected $2 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BelSv (big blind) collected ($2)
+Seat 2: hudecam (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147921438024:  Hold'em Limit ($3/$6 USD) - 2016/01/30 5:18:22 ET
+Table 'Jih II' 2-max Seat #1 is the button
+Seat 1: BelSv ($79 in chips)
+Seat 2: hudecam ($37.64 in chips)
+BelSv: posts small blind $1
+hudecam: posts big blind $3
+*** HOLE CARDS ***
+BelSv: folds
+Uncalled bet ($2) returned to hudecam
+hudecam collected $2 from pot
+hudecam: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BelSv (button) (small blind) folded before Flop
+Seat 2: hudecam (big blind) collected ($2)
+
+
+PokerStars Hand #147921451520:  Hold'em Limit ($3/$6 USD) - 2016/01/30 5:18:48 ET
+Table 'Jih II' 2-max Seat #2 is the button
+Seat 1: BelSv ($78 in chips)
+Seat 2: hudecam ($61.14 in chips)
+hudecam: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+hudecam: folds
+Uncalled bet ($2) returned to BelSv
+BelSv collected $2 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BelSv (big blind) collected ($2)
+Seat 2: hudecam (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147921444013:  Hold'em Limit ($3/$6 USD) - 2016/01/30 5:18:34 ET
+Table 'Jih II' 2-max Seat #1 is the button
+Seat 1: BelSv ($79 in chips)
+Seat 2: hudecam ($37.64 in chips)
+BelSv: posts small blind $1
+hudecam: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+hudecam: raises $3 to $9
+BelSv: calls $3
+*** FLOP *** [Th 6h Qd]
+hudecam: bets $3
+BelSv: calls $3
+*** TURN *** [Th 6h Qd] [6s]
+hudecam: bets $6
+BelSv: calls $6
+*** RIVER *** [Th 6h Qd 6s] [Js]
+hudecam: bets $6
+BelSv: calls $6
+*** SHOW DOWN ***
+hudecam: shows [Kc 9h] (a straight, Nine to King)
+BelSv: mucks hand
+hudecam collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Th 6h Qd 6s Js]
+Seat 1: BelSv (button) (small blind) mucked
+Seat 2: hudecam (big blind) showed [Kc 9h] and won ($47.50) with a straight, Nine to King
+
+
+PokerStars Hand #147921453910:  Hold'em Limit ($3/$6 USD) - 2016/01/30 5:18:53 ET
+Table 'Jih II' 2-max Seat #1 is the button
+Seat 1: BelSv ($79 in chips)
+Seat 2: hudecam ($60.14 in chips)
+BelSv: posts small blind $1
+hudecam: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+hudecam: calls $3
+*** FLOP *** [6c Jd 2h]
+hudecam: checks
+BelSv: bets $3
+hudecam: raises $3 to $6
+BelSv: calls $3
+*** TURN *** [6c Jd 2h] [Ks]
+hudecam: bets $6
+BelSv: calls $6
+*** RIVER *** [6c Jd 2h Ks] [7d]
+hudecam: bets $6
+BelSv: calls $6
+*** SHOW DOWN ***
+hudecam: shows [4h Jc] (a pair of Jacks)
+BelSv: shows [4c Jh] (a pair of Jacks)
+hudecam collected $23.75 from pot
+BelSv collected $23.75 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [6c Jd 2h Ks 7d]
+Seat 1: BelSv (button) (small blind) showed [4c Jh] and won ($23.75) with a pair of Jacks
+Seat 2: hudecam (big blind) showed [4h Jc] and won ($23.75) with a pair of Jacks
+
+
+PokerStars Hand #147921464198:  Hold'em Limit ($3/$6 USD) - 2016/01/30 5:19:13 ET
+Table 'Jih II' 2-max Seat #2 is the button
+Seat 1: BelSv ($78.75 in chips)
+Seat 2: hudecam ($59.89 in chips)
+hudecam: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+hudecam: raises $3 to $6
+BelSv: calls $3
+*** FLOP *** [4s 6d 8d]
+BelSv: checks
+hudecam: bets $3
+BelSv: folds
+Uncalled bet ($3) returned to hudecam
+hudecam collected $11.76 from pot
+hudecam: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4s 6d 8d]
+Seat 1: BelSv (big blind) folded on the Flop
+Seat 2: hudecam (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #147921477885:  Hold'em Limit ($3/$6 USD) - 2016/01/30 5:19:39 ET
+Table 'Jih II' 2-max Seat #2 is the button
+Seat 1: BelSv ($92.50 in chips)
+Seat 2: hudecam ($50.65 in chips)
+hudecam: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+hudecam: folds
+Uncalled bet ($2) returned to BelSv
+BelSv collected $2 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BelSv (big blind) collected ($2)
+Seat 2: hudecam (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147921470961:  Hold'em Limit ($3/$6 USD) - 2016/01/30 5:19:26 ET
+Table 'Jih II' 2-max Seat #1 is the button
+Seat 1: BelSv ($78 in chips)
+Seat 2: hudecam ($65.65 in chips)
+BelSv: posts small blind $1
+hudecam: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+hudecam: calls $3
+*** FLOP *** [6d Tc 2s]
+hudecam: checks
+BelSv: bets $3
+hudecam: calls $3
+*** TURN *** [6d Tc 2s] [3s]
+hudecam: checks
+BelSv: bets $6
+hudecam: calls $6
+*** RIVER *** [6d Tc 2s 3s] [3h]
+hudecam: checks
+BelSv: bets $6
+hudecam: folds
+Uncalled bet ($6) returned to BelSv
+BelSv collected $29.50 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6d Tc 2s 3s 3h]
+Seat 1: BelSv (button) (small blind) collected ($29.50)
+Seat 2: hudecam (big blind) folded on the River
+
+
+PokerStars Hand #147921480416:  Hold'em Limit ($3/$6 USD) - 2016/01/30 5:19:44 ET
+Table 'Jih II' 2-max Seat #1 is the button
+Seat 1: BelSv ($93.50 in chips)
+Seat 2: hudecam ($49.65 in chips)
+BelSv: posts small blind $1
+hudecam: posts big blind $3
+*** HOLE CARDS ***
+BelSv: folds
+Uncalled bet ($2) returned to hudecam
+hudecam collected $2 from pot
+hudecam: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BelSv (button) (small blind) folded before Flop
+Seat 2: hudecam (big blind) collected ($2)
+
+
+PokerStars Hand #147921498001:  Hold'em Limit ($3/$6 USD) - 2016/01/30 5:20:18 ET
+Table 'Jih II' 2-max Seat #1 is the button
+Seat 1: BelSv ($94.14 in chips)
+Seat 2: hudecam ($48.41 in chips)
+BelSv: posts small blind $1
+hudecam: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+hudecam: calls $3
+*** FLOP *** [Jd 3s 4h]
+hudecam: checks
+BelSv: bets $3
+hudecam: folds
+Uncalled bet ($3) returned to BelSv
+BelSv collected $11.76 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Jd 3s 4h]
+Seat 1: BelSv (button) (small blind) collected ($11.76)
+Seat 2: hudecam (big blind) folded on the Flop
+
+
+PokerStars Hand #147921490893:  Hold'em Limit ($3/$6 USD) - 2016/01/30 5:20:04 ET
+Table 'Jih II' 2-max Seat #2 is the button
+Seat 1: BelSv ($100.14 in chips)
+Seat 2: hudecam ($42.65 in chips)
+hudecam: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+hudecam: raises $3 to $6
+BelSv: calls $3
+*** FLOP *** [Kd Qh 8s]
+BelSv: checks
+hudecam: checks
+*** TURN *** [Kd Qh 8s] [7s]
+BelSv: checks
+hudecam: bets $6
+BelSv: folds
+Uncalled bet ($6) returned to hudecam
+hudecam collected $11.76 from pot
+hudecam: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kd Qh 8s 7s]
+Seat 1: BelSv (big blind) folded on the Turn
+Seat 2: hudecam (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #147921488267:  Hold'em Limit ($3/$6 USD) - 2016/01/30 5:19:59 ET
+Table 'Jih II' 2-max Seat #1 is the button
+Seat 1: BelSv ($101.14 in chips)
+Seat 2: hudecam ($41.65 in chips)
+BelSv: posts small blind $1
+hudecam: posts big blind $3
+*** HOLE CARDS ***
+BelSv: folds
+Uncalled bet ($2) returned to hudecam
+hudecam collected $2 from pot
+hudecam: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BelSv (button) (small blind) folded before Flop
+Seat 2: hudecam (big blind) collected ($2)
+
+
+PokerStars Hand #147921483205:  Hold'em Limit ($3/$6 USD) - 2016/01/30 5:19:49 ET
+Table 'Jih II' 2-max Seat #2 is the button
+Seat 1: BelSv ($92.50 in chips)
+Seat 2: hudecam ($50.65 in chips)
+hudecam: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+hudecam: raises $3 to $6
+BelSv: raises $3 to $9
+hudecam: calls $3
+*** FLOP *** [Jh Ad 4s]
+BelSv: bets $3
+hudecam: folds
+Uncalled bet ($3) returned to BelSv
+BelSv collected $17.64 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Jh Ad 4s]
+Seat 1: BelSv (big blind) collected ($17.64)
+Seat 2: hudecam (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #147921527658:  Hold'em Limit ($3/$6 USD) - 2016/01/30 5:21:16 ET
+Table 'Jih II' 2-max Seat #1 is the button
+Seat 1: BelSv ($82.54 in chips)
+Seat 2: hudecam ($58.67 in chips)
+BelSv: posts small blind $1
+hudecam: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+hudecam: folds
+Uncalled bet ($3) returned to BelSv
+BelSv collected $6 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: BelSv (button) (small blind) collected ($6)
+Seat 2: hudecam (big blind) folded before Flop
+
+
+PokerStars Hand #147921525265:  Hold'em Limit ($3/$6 USD) - 2016/01/30 5:21:11 ET
+Table 'Jih II' 2-max Seat #2 is the button
+Seat 1: BelSv ($81.54 in chips)
+Seat 2: hudecam ($59.67 in chips)
+hudecam: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+hudecam: folds
+Uncalled bet ($2) returned to BelSv
+BelSv collected $2 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BelSv (big blind) collected ($2)
+Seat 2: hudecam (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147921516176:  Hold'em Limit ($3/$6 USD) - 2016/01/30 5:20:54 ET
+Table 'Jih II' 2-max Seat #1 is the button
+Seat 1: BelSv ($105.54 in chips)
+Seat 2: hudecam ($36.17 in chips)
+BelSv: posts small blind $1
+hudecam: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+hudecam: calls $3
+*** FLOP *** [3d Kc 8c]
+hudecam: checks
+BelSv: bets $3
+hudecam: raises $3 to $6
+BelSv: calls $3
+*** TURN *** [3d Kc 8c] [Qd]
+hudecam: bets $6
+BelSv: calls $6
+*** RIVER *** [3d Kc 8c Qd] [Qc]
+hudecam: bets $6
+BelSv: calls $6
+*** SHOW DOWN ***
+hudecam: shows [Tc 3c] (a flush, King high)
+BelSv: mucks hand
+hudecam collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3d Kc 8c Qd Qc]
+Seat 1: BelSv (button) (small blind) mucked
+Seat 2: hudecam (big blind) showed [Tc 3c] and won ($47.50) with a flush, King high
+
+
+PokerStars Hand #147921510898:  Hold'em Limit ($3/$6 USD) - 2016/01/30 5:20:43 ET
+Table 'Jih II' 2-max Seat #2 is the button
+Seat 1: BelSv ($111.54 in chips)
+Seat 2: hudecam ($30.41 in chips)
+hudecam: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+hudecam: raises $3 to $6
+BelSv: calls $3
+*** FLOP *** [3h 8s Th]
+BelSv: checks
+hudecam: bets $3
+BelSv: folds
+Uncalled bet ($3) returned to hudecam
+hudecam collected $11.76 from pot
+hudecam: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [3h 8s Th]
+Seat 1: BelSv (big blind) folded on the Flop
+Seat 2: hudecam (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #147921508267:  Hold'em Limit ($3/$6 USD) - 2016/01/30 5:20:38 ET
+Table 'Jih II' 2-max Seat #1 is the button
+Seat 1: BelSv ($108.54 in chips)
+Seat 2: hudecam ($33.41 in chips)
+BelSv: posts small blind $1
+hudecam: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+hudecam: folds
+Uncalled bet ($3) returned to BelSv
+BelSv collected $6 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: BelSv (button) (small blind) collected ($6)
+Seat 2: hudecam (big blind) folded before Flop
+
+
+PokerStars Hand #147921502468:  Hold'em Limit ($3/$6 USD) - 2016/01/30 5:20:27 ET
+Table 'Jih II' 2-max Seat #2 is the button
+Seat 1: BelSv ($99.90 in chips)
+Seat 2: hudecam ($42.41 in chips)
+hudecam: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+hudecam: raises $3 to $6
+BelSv: calls $3
+*** FLOP *** [3s Js 7c]
+BelSv: checks
+hudecam: bets $3
+BelSv: calls $3
+*** TURN *** [3s Js 7c] [7d]
+BelSv: checks
+hudecam: checks
+*** RIVER *** [3s Js 7c 7d] [8d]
+BelSv: bets $6
+hudecam: folds
+Uncalled bet ($6) returned to BelSv
+BelSv collected $17.64 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [3s Js 7c 7d 8d]
+Seat 1: BelSv (big blind) collected ($17.64)
+Seat 2: hudecam (button) (small blind) folded on the River
+
+
+PokerStars Hand #147921555282:  Hold'em Limit ($3/$6 USD) - 2016/01/30 5:22:08 ET
+Table 'Jih II' 2-max Seat #2 is the button
+Seat 1: BelSv ($124.54 in chips)
+Seat 2: hudecam ($15.31 in chips)
+hudecam: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+hudecam: raises $3 to $6
+BelSv: raises $3 to $9
+hudecam: raises $3 to $12
+Betting is capped
+BelSv: calls $3
+*** FLOP *** [6c 4h 5d]
+BelSv: checks
+hudecam: bets $3
+BelSv: calls $3
+*** TURN *** [6c 4h 5d] [2s]
+BelSv: checks
+hudecam: bets $0.31 and is all-in
+BelSv: calls $0.31
+*** RIVER *** [6c 4h 5d 2s] [6h]
+*** SHOW DOWN ***
+BelSv: shows [9h Kc] (a pair of Sixes)
+hudecam: shows [7h 2d] (two pair, Sixes and Deuces)
+hudecam collected $30.12 from pot
+*** SUMMARY ***
+Total pot $30.62 | Rake $0.50
+Board [6c 4h 5d 2s 6h]
+Seat 1: BelSv (big blind) showed [9h Kc] and lost with a pair of Sixes
+Seat 2: hudecam (button) (small blind) showed [7h 2d] and won ($30.12) with two pair, Sixes and Deuces
+
+
+PokerStars Hand #147921548488:  Hold'em Limit ($3/$6 USD) - 2016/01/30 5:21:56 ET
+Table 'Jih II' 2-max Seat #1 is the button
+Seat 1: BelSv ($101.04 in chips)
+Seat 2: hudecam ($39.31 in chips)
+BelSv: posts small blind $1
+hudecam: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+hudecam: calls $3
+*** FLOP *** [Qc 9d 9h]
+hudecam: checks
+BelSv: bets $3
+hudecam: raises $3 to $6
+BelSv: calls $3
+*** TURN *** [Qc 9d 9h] [2d]
+hudecam: bets $6
+BelSv: calls $6
+*** RIVER *** [Qc 9d 9h 2d] [2h]
+hudecam: bets $6
+BelSv: calls $6
+*** SHOW DOWN ***
+hudecam: shows [6s Jc] (two pair, Nines and Deuces)
+BelSv: shows [Ac Js] (two pair, Nines and Deuces - Ace kicker)
+BelSv collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Qc 9d 9h 2d 2h]
+Seat 1: BelSv (button) (small blind) showed [Ac Js] and won ($47.50) with two pair, Nines and Deuces
+Seat 2: hudecam (big blind) showed [6s Jc] and lost with two pair, Nines and Deuces
+
+
+PokerStars Hand #147921546117:  Hold'em Limit ($3/$6 USD) - 2016/01/30 5:21:51 ET
+Table 'Jih II' 2-max Seat #2 is the button
+Seat 1: BelSv ($100.04 in chips)
+Seat 2: hudecam ($40.31 in chips)
+hudecam: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+hudecam: folds
+Uncalled bet ($2) returned to BelSv
+BelSv collected $2 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BelSv (big blind) collected ($2)
+Seat 2: hudecam (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147921538548:  Hold'em Limit ($3/$6 USD) - 2016/01/30 5:21:37 ET
+Table 'Jih II' 2-max Seat #1 is the button
+Seat 1: BelSv ($109.04 in chips)
+Seat 2: hudecam ($31.67 in chips)
+BelSv: posts small blind $1
+hudecam: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+hudecam: raises $3 to $9
+BelSv: calls $3
+*** FLOP *** [6c 9h 9c]
+hudecam: bets $3
+BelSv: folds
+Uncalled bet ($3) returned to hudecam
+hudecam collected $17.64 from pot
+hudecam: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [6c 9h 9c]
+Seat 1: BelSv (button) (small blind) folded on the Flop
+Seat 2: hudecam (big blind) collected ($17.64)
+
+
+PokerStars Hand #147921530551:  Hold'em Limit ($3/$6 USD) - 2016/01/30 5:21:21 ET
+Table 'Jih II' 2-max Seat #2 is the button
+Seat 1: BelSv ($85.54 in chips)
+Seat 2: hudecam ($55.67 in chips)
+hudecam: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+hudecam: raises $3 to $6
+BelSv: calls $3
+*** FLOP *** [9s 9h 4d]
+BelSv: checks
+hudecam: bets $3
+BelSv: raises $3 to $6
+hudecam: calls $3
+*** TURN *** [9s 9h 4d] [8h]
+BelSv: bets $6
+hudecam: calls $6
+*** RIVER *** [9s 9h 4d 8h] [Jc]
+BelSv: bets $6
+hudecam: calls $6
+*** SHOW DOWN ***
+BelSv: shows [9c 5d] (three of a kind, Nines)
+hudecam: mucks hand
+BelSv collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [9s 9h 4d 8h Jc]
+Seat 1: BelSv (big blind) showed [9c 5d] and won ($47.50) with three of a kind, Nines
+Seat 2: hudecam (button) (small blind) mucked
+
+
+PokerStars Hand #147921588865:  Hold'em Limit ($3/$6 USD) - 2016/01/30 5:23:12 ET
+Table 'Jih II' 2-max Seat #1 is the button
+Seat 1: BelSv ($79.23 in chips)
+Seat 2: hudecam ($58.90 in chips)
+BelSv: posts small blind $1
+hudecam: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+hudecam: calls $3
+*** FLOP *** [8s 9h Kd]
+hudecam: checks
+BelSv: bets $3
+hudecam: folds
+Uncalled bet ($3) returned to BelSv
+BelSv collected $11.76 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8s 9h Kd]
+Seat 1: BelSv (button) (small blind) collected ($11.76)
+Seat 2: hudecam (big blind) folded on the Flop
+
+
+PokerStars Hand #147921582494:  Hold'em Limit ($3/$6 USD) - 2016/01/30 5:23:00 ET
+Table 'Jih II' 2-max Seat #2 is the button
+Seat 1: BelSv ($94.23 in chips)
+Seat 2: hudecam ($44.40 in chips)
+hudecam: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+hudecam: raises $3 to $6
+BelSv: calls $3
+*** FLOP *** [7d 7s 8c]
+BelSv: checks
+hudecam: bets $3
+BelSv: calls $3
+*** TURN *** [7d 7s 8c] [Ts]
+BelSv: checks
+hudecam: bets $6
+BelSv: calls $6
+*** RIVER *** [7d 7s 8c Ts] [Js]
+BelSv: checks
+hudecam: checks
+*** SHOW DOWN ***
+BelSv: shows [Ks 4h] (a pair of Sevens)
+hudecam: shows [6c Ac] (a pair of Sevens - Ace kicker)
+hudecam collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7d 7s 8c Ts Js]
+Seat 1: BelSv (big blind) showed [Ks 4h] and lost with a pair of Sevens
+Seat 2: hudecam (button) (small blind) showed [6c Ac] and won ($29.50) with a pair of Sevens
+
+
+PokerStars Hand #147921579221:  Hold'em Limit ($3/$6 USD) - 2016/01/30 5:22:54 ET
+Table 'Jih II' 2-max Seat #1 is the button
+Seat 1: BelSv ($91.23 in chips)
+Seat 2: hudecam ($47.40 in chips)
+BelSv: posts small blind $1
+hudecam: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+hudecam: folds
+Uncalled bet ($3) returned to BelSv
+BelSv collected $6 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: BelSv (button) (small blind) collected ($6)
+Seat 2: hudecam (big blind) folded before Flop
+
+
+PokerStars Hand #147921571503:  Hold'em Limit ($3/$6 USD) - 2016/01/30 5:22:39 ET
+Table 'Jih II' 2-max Seat #2 is the button
+Seat 1: BelSv ($97.23 in chips)
+Seat 2: hudecam ($41.64 in chips)
+hudecam: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+hudecam: raises $3 to $6
+BelSv: calls $3
+*** FLOP *** [Kh 2h 9d]
+BelSv: checks
+hudecam: bets $3
+BelSv: folds
+Uncalled bet ($3) returned to hudecam
+hudecam collected $11.76 from pot
+hudecam: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Kh 2h 9d]
+Seat 1: BelSv (big blind) folded on the Flop
+Seat 2: hudecam (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #147921563800:  Hold'em Limit ($3/$6 USD) - 2016/01/30 5:22:25 ET
+Table 'Jih II' 2-max Seat #1 is the button
+Seat 1: BelSv ($109.23 in chips)
+Seat 2: hudecam ($30.12 in chips)
+BelSv: posts small blind $1
+hudecam: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+hudecam: raises $3 to $9
+BelSv: calls $3
+*** FLOP *** [6s 6d Qc]
+hudecam: bets $3
+BelSv: calls $3
+*** TURN *** [6s 6d Qc] [Ah]
+hudecam: bets $6
+BelSv: folds
+Uncalled bet ($6) returned to hudecam
+hudecam collected $23.52 from pot
+hudecam: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [6s 6d Qc Ah]
+Seat 1: BelSv (button) (small blind) folded on the Turn
+Seat 2: hudecam (big blind) collected ($23.52)
+
+
+PokerStars Hand #147921620203:  Hold'em Limit ($3/$6 USD) - 2016/01/30 5:24:12 ET
+Table 'Jih II' 2-max Seat #2 is the button
+Seat 1: BelSv ($78 in chips)
+Seat 2: hudecam ($76.04 in chips)
+hudecam: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+hudecam: folds
+Uncalled bet ($2) returned to BelSv
+BelSv collected $2 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BelSv (big blind) collected ($2)
+Seat 2: hudecam (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147921612769:  Hold'em Limit ($3/$6 USD) - 2016/01/30 5:23:58 ET
+Table 'Jih II' 2-max Seat #1 is the button
+Seat 1: BelSv ($84.51 in chips)
+Seat 2: hudecam ($52.54 in chips)
+BelSv: posts small blind $1
+hudecam: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+hudecam: raises $3 to $9
+BelSv: calls $3
+*** FLOP *** [4s 2h 6c]
+hudecam: bets $3
+BelSv: calls $3
+*** TURN *** [4s 2h 6c] [Js]
+hudecam: bets $6
+BelSv: calls $6
+*** RIVER *** [4s 2h 6c Js] [6h]
+hudecam: bets $6
+BelSv: calls $6
+*** SHOW DOWN ***
+hudecam: shows [Qh Qd] (two pair, Queens and Sixes)
+BelSv: mucks hand
+hudecam collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [4s 2h 6c Js 6h]
+Seat 1: BelSv (button) (small blind) mucked
+Seat 2: hudecam (big blind) showed [Qh Qd] and won ($47.50) with two pair, Queens and Sixes
+
+
+PokerStars Hand #147921609433:  Hold'em Limit ($3/$6 USD) - 2016/01/30 5:23:52 ET
+Table 'Jih II' 2-max Seat #2 is the button
+Seat 1: BelSv ($87.51 in chips)
+Seat 2: hudecam ($49.54 in chips)
+hudecam: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+hudecam: raises $3 to $6
+BelSv: folds
+Uncalled bet ($3) returned to hudecam
+hudecam collected $6 from pot
+hudecam: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: BelSv (big blind) folded before Flop
+Seat 2: hudecam (button) (small blind) collected ($6)
+
+
+PokerStars Hand #147921606986:  Hold'em Limit ($3/$6 USD) - 2016/01/30 5:23:47 ET
+Table 'Jih II' 2-max Seat #1 is the button
+Seat 1: BelSv ($88.51 in chips)
+Seat 2: hudecam ($48.54 in chips)
+BelSv: posts small blind $1
+hudecam: posts big blind $3
+*** HOLE CARDS ***
+BelSv: folds
+Uncalled bet ($2) returned to hudecam
+hudecam collected $2 from pot
+hudecam: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BelSv (button) (small blind) folded before Flop
+Seat 2: hudecam (big blind) collected ($2)
+
+
+PokerStars Hand #147921604309:  Hold'em Limit ($3/$6 USD) - 2016/01/30 5:23:42 ET
+Table 'Jih II' 2-max Seat #2 is the button
+Seat 1: BelSv ($87.51 in chips)
+Seat 2: hudecam ($49.54 in chips)
+hudecam: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+hudecam: folds
+Uncalled bet ($2) returned to BelSv
+BelSv collected $2 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: BelSv (big blind) collected ($2)
+Seat 2: hudecam (button) (small blind) folded before Flop
+
+
+PokerStars Hand #147921600073:  Hold'em Limit ($3/$6 USD) - 2016/01/30 5:23:34 ET
+Table 'Jih II' 2-max Seat #1 is the button
+Seat 1: BelSv ($96.51 in chips)
+Seat 2: hudecam ($40.90 in chips)
+BelSv: posts small blind $1
+hudecam: posts big blind $3
+*** HOLE CARDS ***
+BelSv: raises $3 to $6
+hudecam: raises $3 to $9
+BelSv: calls $3
+*** FLOP *** [9s Qh 2c]
+hudecam: bets $3
+BelSv: folds
+Uncalled bet ($3) returned to hudecam
+hudecam collected $17.64 from pot
+hudecam: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [9s Qh 2c]
+Seat 1: BelSv (button) (small blind) folded on the Flop
+Seat 2: hudecam (big blind) collected ($17.64)
+
+
+PokerStars Hand #147921593543:  Hold'em Limit ($3/$6 USD) - 2016/01/30 5:23:21 ET
+Table 'Jih II' 2-max Seat #2 is the button
+Seat 1: BelSv ($84.99 in chips)
+Seat 2: hudecam ($52.90 in chips)
+hudecam: posts small blind $1
+BelSv: posts big blind $3
+*** HOLE CARDS ***
+hudecam: raises $3 to $6
+BelSv: raises $3 to $9
+hudecam: calls $3
+*** FLOP *** [2d 3c Jh]
+BelSv: bets $3
+hudecam: calls $3
+*** TURN *** [2d 3c Jh] [8c]
+BelSv: bets $6
+hudecam: folds
+Uncalled bet ($6) returned to BelSv
+BelSv collected $23.52 from pot
+BelSv: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [2d 3c Jh 8c]
+Seat 1: BelSv (big blind) collected ($23.52)
+Seat 2: hudecam (button) (small blind) folded on the Turn
+
+

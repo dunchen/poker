@@ -1,0 +1,88 @@
+PokerStars Hand #149367666454:  Hold'em Limit ($3/$6 USD) - 2016/02/24 19:20:38 ET
+Table 'Pannonia' 6-max Seat #5 is the button
+Seat 1: michehh5 ($52.85 in chips)
+Seat 5: Pandakey ($231.05 in chips)
+Pandakey: posts small blind $1
+michehh5: posts big blind $3
+*** HOLE CARDS ***
+Pandakey: raises $3 to $6
+michehh5: calls $3
+*** FLOP *** [4d Jh Tc]
+michehh5: checks
+Pandakey: bets $3
+michehh5: folds
+Uncalled bet ($3) returned to Pandakey
+Pandakey collected $11.76 from pot
+Pandakey: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [4d Jh Tc]
+Seat 1: michehh5 (big blind) folded on the Flop
+Seat 5: Pandakey (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #149367677810:  Hold'em Limit ($3/$6 USD) - 2016/02/24 19:20:56 ET
+Table 'Pannonia' 6-max Seat #1 is the button
+Seat 1: michehh5 ($46.85 in chips)
+Seat 5: Pandakey ($236.81 in chips)
+michehh5: posts small blind $1
+Pandakey: posts big blind $3
+*** HOLE CARDS ***
+michehh5: raises $3 to $6
+Pandakey: calls $3
+*** FLOP *** [Kh 3h 8s]
+127tony joins the table at seat #6
+Pandakey: checks
+michehh5: bets $3
+Pandakey: calls $3
+*** TURN *** [Kh 3h 8s] [Ad]
+Pandakey: checks
+michehh5: bets $6
+Pandakey: calls $6
+*** RIVER *** [Kh 3h 8s Ad] [Ac]
+Pandakey: checks
+michehh5: bets $6
+Pandakey: calls $6
+*** SHOW DOWN ***
+michehh5: shows [As 8c] (a full house, Aces full of Eights)
+Pandakey: mucks hand
+michehh5 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Kh 3h 8s Ad Ac]
+Seat 1: michehh5 (button) (small blind) showed [As 8c] and won ($41.50) with a full house, Aces full of Eights
+Seat 5: Pandakey (big blind) mucked
+
+
+PokerStars Hand #149370319461:  Hold'em Limit ($3/$6 USD) - 2016/02/24 20:40:23 ET
+Table 'Pannonia' 6-max Seat #6 is the button
+Seat 4: Bonsey_1 ($23.32 in chips)
+Seat 6: Maverick-Slo ($85.67 in chips)
+Maverick-Slo: posts small blind $1
+hugostud: is sitting out
+Bonsey_1: posts big blind $3
+*** HOLE CARDS ***
+Maverick-Slo: raises $3 to $6
+Bonsey_1: raises $3 to $9
+hugostud leaves the table
+Maverick-Slo: calls $3
+*** FLOP *** [3s 9s 8c]
+Bonsey_1: bets $3
+Maverick-Slo: raises $3 to $6
+Bonsey_1: raises $3 to $9
+Maverick-Slo: calls $3
+*** TURN *** [3s 9s 8c] [Jd]
+Bonsey_1: bets $5.32 and is all-in
+Maverick-Slo: calls $5.32
+*** RIVER *** [3s 9s 8c Jd] [Ad]
+*** SHOW DOWN ***
+Bonsey_1: shows [Jc Qh] (a pair of Jacks)
+Maverick-Slo: shows [7h 6c] (high card Ace)
+Bonsey_1 collected $46.14 from pot
+*** SUMMARY ***
+Total pot $46.64 | Rake $0.50
+Board [3s 9s 8c Jd Ad]
+Seat 4: Bonsey_1 (big blind) showed [Jc Qh] and won ($46.14) with a pair of Jacks
+Seat 6: Maverick-Slo (button) (small blind) showed [7h 6c] and lost with high card Ace
+
+

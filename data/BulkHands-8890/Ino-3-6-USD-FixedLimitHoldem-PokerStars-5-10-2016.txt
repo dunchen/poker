@@ -1,0 +1,671 @@
+PokerStars Hand #153096443022:  Hold'em Limit ($3/$6 USD) - 2016/05/09 21:46:46 ET
+Table 'Ino' 6-max Seat #2 is the button
+Seat 2: fsreibnitz ($137.29 in chips)
+Seat 6: anetkaapro ($137.65 in chips)
+fsreibnitz: posts small blind $1
+lin1rabbit: is sitting out
+anetkaapro: posts big blind $3
+*** HOLE CARDS ***
+lin1rabbit leaves the table
+fsreibnitz: raises $3 to $6
+anetkaapro: calls $3
+*** FLOP *** [8c 5d Th]
+anetkaapro: checks
+fsreibnitz: bets $3
+anetkaapro: calls $3
+*** TURN *** [8c 5d Th] [5c]
+anetkaapro: checks
+fsreibnitz: checks
+*** RIVER *** [8c 5d Th 5c] [8d]
+anetkaapro: bets $6
+fsreibnitz: folds
+Uncalled bet ($6) returned to anetkaapro
+anetkaapro collected $17.64 from pot
+anetkaapro: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [8c 5d Th 5c 8d]
+Seat 2: fsreibnitz (button) (small blind) folded on the River
+Seat 6: anetkaapro (big blind) collected ($17.64)
+
+
+PokerStars Hand #153096453614:  Hold'em Limit ($3/$6 USD) - 2016/05/09 21:47:14 ET
+Table 'Ino' 6-max Seat #6 is the button
+Seat 2: fsreibnitz ($128.29 in chips)
+Seat 6: anetkaapro ($146.29 in chips)
+anetkaapro: posts small blind $1
+fsreibnitz: posts big blind $3
+*** HOLE CARDS ***
+anetkaapro: raises $3 to $6
+fsreibnitz: folds
+Uncalled bet ($3) returned to anetkaapro
+anetkaapro collected $6 from pot
+anetkaapro: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 2: fsreibnitz (big blind) folded before Flop
+Seat 6: anetkaapro (button) (small blind) collected ($6)
+
+
+PokerStars Hand #153096455836:  Hold'em Limit ($3/$6 USD) - 2016/05/09 21:47:19 ET
+Table 'Ino' 6-max Seat #2 is the button
+Seat 2: fsreibnitz ($125.29 in chips)
+Seat 6: anetkaapro ($149.29 in chips)
+fsreibnitz: posts small blind $1
+anetkaapro: posts big blind $3
+*** HOLE CARDS ***
+fsreibnitz: raises $3 to $6
+anetkaapro: calls $3
+*** FLOP *** [8h Tc 2d]
+anetkaapro: checks
+fsreibnitz: bets $3
+anetkaapro: folds
+Uncalled bet ($3) returned to fsreibnitz
+fsreibnitz collected $11.76 from pot
+fsreibnitz: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [8h Tc 2d]
+Seat 2: fsreibnitz (button) (small blind) collected ($11.76)
+Seat 6: anetkaapro (big blind) folded on the Flop
+
+
+PokerStars Hand #153096461779:  Hold'em Limit ($3/$6 USD) - 2016/05/09 21:47:35 ET
+Table 'Ino' 6-max Seat #6 is the button
+Seat 2: fsreibnitz ($131.05 in chips)
+Seat 6: anetkaapro ($143.29 in chips)
+anetkaapro: posts small blind $1
+fsreibnitz: posts big blind $3
+*** HOLE CARDS ***
+anetkaapro: raises $3 to $6
+fsreibnitz: calls $3
+*** FLOP *** [Qc 8s 2d]
+fsreibnitz: checks
+Iceman1203 joins the table at seat #3
+anetkaapro: bets $3
+fsreibnitz: calls $3
+*** TURN *** [Qc 8s 2d] [Jd]
+fsreibnitz: checks
+anetkaapro: bets $6
+fsreibnitz: folds
+Uncalled bet ($6) returned to anetkaapro
+anetkaapro collected $17.64 from pot
+anetkaapro: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Qc 8s 2d Jd]
+Seat 2: fsreibnitz (big blind) folded on the Turn
+Seat 6: anetkaapro (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #153096806274:  Hold'em Limit ($3/$6 USD) - 2016/05/09 22:03:49 ET
+Table 'Ino' 6-max Seat #3 is the button
+Seat 1: nhalks ($192.30 in chips)
+Seat 3: Iceman1203 ($156.01 in chips)
+Iceman1203: posts small blind $1
+anetkaapro: is sitting out
+nhalks: posts big blind $3
+*** HOLE CARDS ***
+Iceman1203: raises $3 to $6
+nhalks: calls $3
+*** FLOP *** [9c 7s Kd]
+nhalks: checks
+Iceman1203: bets $3
+nhalks: folds
+Uncalled bet ($3) returned to Iceman1203
+Iceman1203 collected $11.76 from pot
+Iceman1203: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [9c 7s Kd]
+Seat 1: nhalks (big blind) folded on the Flop
+Seat 3: Iceman1203 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #153096826416:  Hold'em Limit ($3/$6 USD) - 2016/05/09 22:04:43 ET
+Table 'Ino' 6-max Seat #1 is the button
+Seat 1: nhalks ($186.30 in chips)
+Seat 3: Iceman1203 ($161.77 in chips)
+nhalks: posts small blind $1
+Iceman1203: posts big blind $3
+*** HOLE CARDS ***
+nhalks: folds
+Uncalled bet ($2) returned to Iceman1203
+Iceman1203 collected $2 from pot
+Iceman1203: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: nhalks (button) (small blind) folded before Flop
+Seat 3: Iceman1203 (big blind) collected ($2)
+
+
+PokerStars Hand #153096824660:  Hold'em Limit ($3/$6 USD) - 2016/05/09 22:04:38 ET
+Table 'Ino' 6-max Seat #3 is the button
+Seat 1: nhalks ($185.30 in chips)
+Seat 3: Iceman1203 ($162.77 in chips)
+Iceman1203: posts small blind $1
+nhalks: posts big blind $3
+*** HOLE CARDS ***
+Iceman1203: folds
+Uncalled bet ($2) returned to nhalks
+nhalks collected $2 from pot
+nhalks: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: nhalks (big blind) collected ($2)
+Seat 3: Iceman1203 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #153096821182:  Hold'em Limit ($3/$6 USD) - 2016/05/09 22:04:29 ET
+Table 'Ino' 6-max Seat #1 is the button
+Seat 1: nhalks ($186.30 in chips)
+Seat 3: Iceman1203 ($161.77 in chips)
+nhalks: posts small blind $1
+Iceman1203: posts big blind $3
+*** HOLE CARDS ***
+nhalks: folds
+Uncalled bet ($2) returned to Iceman1203
+Iceman1203 collected $2 from pot
+Iceman1203: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: nhalks (button) (small blind) folded before Flop
+Seat 3: Iceman1203 (big blind) collected ($2)
+
+
+PokerStars Hand #153096828709:  Hold'em Limit ($3/$6 USD) - 2016/05/09 22:04:49 ET
+Table 'Ino' 6-max Seat #3 is the button
+Seat 1: nhalks ($185.30 in chips)
+Seat 3: Iceman1203 ($162.77 in chips)
+Iceman1203: posts small blind $1
+nhalks: posts big blind $3
+*** HOLE CARDS ***
+Iceman1203: raises $3 to $6
+nhalks: calls $3
+*** FLOP *** [5h 6s Kd]
+nhalks: bets $3
+Iceman1203: calls $3
+*** TURN *** [5h 6s Kd] [7d]
+nhalks: checks
+Iceman1203: bets $6
+nhalks: folds
+Uncalled bet ($6) returned to Iceman1203
+Iceman1203 collected $17.64 from pot
+Iceman1203: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [5h 6s Kd 7d]
+Seat 1: nhalks (big blind) folded on the Turn
+Seat 3: Iceman1203 (button) (small blind) collected ($17.64)
+
+
+PokerStars Hand #153096867845:  Hold'em Limit ($3/$6 USD) - 2016/05/09 22:06:12 ET
+Table 'Ino' 6-max Seat #1 is the button
+Seat 1: nhalks ($160.94 in chips)
+Seat 3: Iceman1203 ($185.91 in chips)
+nhalks: posts small blind $1
+Iceman1203: posts big blind $3
+*** HOLE CARDS ***
+nhalks: folds
+Uncalled bet ($2) returned to Iceman1203
+Iceman1203 collected $2 from pot
+Iceman1203: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: nhalks (button) (small blind) folded before Flop
+Seat 3: Iceman1203 (big blind) collected ($2)
+
+
+PokerStars Hand #153096860259:  Hold'em Limit ($3/$6 USD) - 2016/05/09 22:05:53 ET
+Table 'Ino' 6-max Seat #3 is the button
+Seat 1: nhalks ($152.30 in chips)
+Seat 3: Iceman1203 ($194.91 in chips)
+Iceman1203: posts small blind $1
+nhalks: posts big blind $3
+*** HOLE CARDS ***
+Iceman1203: raises $3 to $6
+nhalks: raises $3 to $9
+Iceman1203: calls $3
+*** FLOP *** [Ah 2c 2d]
+nhalks: bets $3
+Iceman1203: folds
+Uncalled bet ($3) returned to nhalks
+nhalks collected $17.64 from pot
+nhalks: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ah 2c 2d]
+Seat 1: nhalks (big blind) collected ($17.64)
+Seat 3: Iceman1203 (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #153096841270:  Hold'em Limit ($3/$6 USD) - 2016/05/09 22:05:24 ET
+Table 'Ino' 6-max Seat #1 is the button
+Seat 1: nhalks ($176.30 in chips)
+Seat 3: Iceman1203 ($171.41 in chips)
+nhalks: posts small blind $1
+Iceman1203: posts big blind $3
+*** HOLE CARDS ***
+nhalks: raises $3 to $6
+Iceman1203: raises $3 to $9
+nhalks: calls $3
+*** FLOP *** [3d 8s 7c]
+Iceman1203: bets $3
+nhalks: calls $3
+*** TURN *** [3d 8s 7c] [Ks]
+Iceman1203: bets $6
+nhalks: calls $6
+*** RIVER *** [3d 8s 7c Ks] [Ts]
+Iceman1203: bets $6
+nhalks: calls $6
+*** SHOW DOWN ***
+Iceman1203: shows [Th Ah] (a pair of Tens)
+nhalks: mucks hand
+Iceman1203 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [3d 8s 7c Ks Ts]
+Seat 1: nhalks (button) (small blind) mucked
+Seat 3: Iceman1203 (big blind) showed [Th Ah] and won ($47.50) with a pair of Tens
+
+
+PokerStars Hand #153096870219:  Hold'em Limit ($3/$6 USD) - 2016/05/09 22:06:18 ET
+Table 'Ino' 6-max Seat #3 is the button
+Seat 1: nhalks ($159.94 in chips)
+Seat 3: Iceman1203 ($186.91 in chips)
+Iceman1203: posts small blind $1
+nhalks: posts big blind $3
+*** HOLE CARDS ***
+Iceman1203: raises $3 to $6
+nhalks: calls $3
+*** FLOP *** [5h 2d Kh]
+nhalks: checks
+Iceman1203: bets $3
+nhalks: folds
+Uncalled bet ($3) returned to Iceman1203
+Iceman1203 collected $11.76 from pot
+Iceman1203: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [5h 2d Kh]
+Seat 1: nhalks (big blind) folded on the Flop
+Seat 3: Iceman1203 (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #153096902208:  Hold'em Limit ($3/$6 USD) - 2016/05/09 22:07:42 ET
+Table 'Ino' 6-max Seat #3 is the button
+Seat 1: nhalks ($113.94 in chips)
+Seat 3: Iceman1203 ($232.17 in chips)
+Iceman1203: posts small blind $1
+nhalks: posts big blind $3
+*** HOLE CARDS ***
+Iceman1203: folds
+Uncalled bet ($2) returned to nhalks
+nhalks collected $2 from pot
+nhalks: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: nhalks (big blind) collected ($2)
+Seat 3: Iceman1203 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #153096899530:  Hold'em Limit ($3/$6 USD) - 2016/05/09 22:07:35 ET
+Table 'Ino' 6-max Seat #1 is the button
+Seat 1: nhalks ($114.94 in chips)
+Seat 3: Iceman1203 ($231.17 in chips)
+nhalks: posts small blind $1
+Iceman1203: posts big blind $3
+*** HOLE CARDS ***
+nhalks: folds
+Uncalled bet ($2) returned to Iceman1203
+Iceman1203 collected $2 from pot
+Iceman1203: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: nhalks (button) (small blind) folded before Flop
+Seat 3: Iceman1203 (big blind) collected ($2)
+
+
+PokerStars Hand #153096894480:  Hold'em Limit ($3/$6 USD) - 2016/05/09 22:07:22 ET
+Table 'Ino' 6-max Seat #3 is the button
+Seat 1: nhalks ($117.94 in chips)
+Seat 3: Iceman1203 ($228.17 in chips)
+Iceman1203: posts small blind $1
+nhalks: posts big blind $3
+*** HOLE CARDS ***
+Iceman1203: raises $3 to $6
+nhalks: folds
+Uncalled bet ($3) returned to Iceman1203
+Iceman1203 collected $6 from pot
+Iceman1203: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: nhalks (big blind) folded before Flop
+Seat 3: Iceman1203 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #153096880035:  Hold'em Limit ($3/$6 USD) - 2016/05/09 22:06:44 ET
+Table 'Ino' 6-max Seat #1 is the button
+Seat 1: nhalks ($153.94 in chips)
+Seat 3: Iceman1203 ($192.67 in chips)
+nhalks: posts small blind $1
+Iceman1203: posts big blind $3
+*** HOLE CARDS ***
+nhalks: raises $3 to $6
+Iceman1203: raises $3 to $9
+nhalks: calls $3
+*** FLOP *** [9h Qh 2s]
+Iceman1203: bets $3
+nhalks: calls $3
+*** TURN *** [9h Qh 2s] [Tc]
+Iceman1203: bets $6
+nhalks: raises $6 to $12
+Iceman1203: raises $6 to $18
+nhalks: calls $6
+*** RIVER *** [9h Qh 2s Tc] [Jh]
+Iceman1203: bets $6
+nhalks: calls $6
+*** SHOW DOWN ***
+Iceman1203: shows [Td Jd] (two pair, Jacks and Tens)
+nhalks: mucks hand
+Iceman1203 collected $71.50 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $0.50
+Board [9h Qh 2s Tc Jh]
+Seat 1: nhalks (button) (small blind) mucked
+Seat 3: Iceman1203 (big blind) showed [Td Jd] and won ($71.50) with two pair, Jacks and Tens
+
+
+PokerStars Hand #153096923442:  Hold'em Limit ($3/$6 USD) - 2016/05/09 22:08:39 ET
+Table 'Ino' 6-max Seat #1 is the button
+Seat 1: nhalks ($130.44 in chips)
+Seat 3: Iceman1203 ($215.17 in chips)
+nhalks: posts small blind $1
+Iceman1203: posts big blind $3
+*** HOLE CARDS ***
+nhalks: folds
+Uncalled bet ($2) returned to Iceman1203
+Iceman1203 collected $2 from pot
+Iceman1203: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: nhalks (button) (small blind) folded before Flop
+Seat 3: Iceman1203 (big blind) collected ($2)
+
+
+PokerStars Hand #153096921654:  Hold'em Limit ($3/$6 USD) - 2016/05/09 22:08:34 ET
+Table 'Ino' 6-max Seat #3 is the button
+Seat 1: nhalks ($129.44 in chips)
+Seat 3: Iceman1203 ($216.17 in chips)
+Iceman1203: posts small blind $1
+nhalks: posts big blind $3
+*** HOLE CARDS ***
+Iceman1203: folds
+Uncalled bet ($2) returned to nhalks
+nhalks collected $2 from pot
+nhalks: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: nhalks (big blind) collected ($2)
+Seat 3: Iceman1203 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #153096904008:  Hold'em Limit ($3/$6 USD) - 2016/05/09 22:07:47 ET
+Table 'Ino' 6-max Seat #1 is the button
+Seat 1: nhalks ($114.94 in chips)
+Seat 3: Iceman1203 ($231.17 in chips)
+nhalks: posts small blind $1
+Iceman1203: posts big blind $3
+*** HOLE CARDS ***
+nhalks: raises $3 to $6
+Iceman1203: calls $3
+*** FLOP *** [8d Ts 7h]
+Iceman1203: checks
+nhalks: bets $3
+Iceman1203: calls $3
+*** TURN *** [8d Ts 7h] [5c]
+Iceman1203: checks
+nhalks: bets $6
+Iceman1203: calls $6
+*** RIVER *** [8d Ts 7h 5c] [Jh]
+Iceman1203: checks
+nhalks: checks
+*** SHOW DOWN ***
+Iceman1203: shows [6h 3s] (high card Jack)
+nhalks: shows [5h 6c] (a pair of Fives)
+nhalks collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [8d Ts 7h 5c Jh]
+Seat 1: nhalks (button) (small blind) showed [5h 6c] and won ($29.50) with a pair of Fives
+Seat 3: Iceman1203 (big blind) showed [6h 3s] and lost with high card Jack
+
+
+PokerStars Hand #153096925699:  Hold'em Limit ($3/$6 USD) - 2016/05/09 22:08:45 ET
+Table 'Ino' 6-max Seat #3 is the button
+Seat 1: nhalks ($129.44 in chips)
+Seat 3: Iceman1203 ($216.17 in chips)
+Iceman1203: posts small blind $1
+nhalks: posts big blind $3
+*** HOLE CARDS ***
+Iceman1203: raises $3 to $6
+nhalks: raises $3 to $9
+Iceman1203: calls $3
+*** FLOP *** [5d 6h 7s]
+nhalks: bets $3
+Iceman1203: raises $3 to $6
+nhalks: calls $3
+*** TURN *** [5d 6h 7s] [2s]
+nhalks: checks
+Iceman1203: bets $6
+nhalks: raises $6 to $12
+Iceman1203: calls $6
+*** RIVER *** [5d 6h 7s 2s] [Kh]
+nhalks: bets $6
+Iceman1203: calls $6
+*** SHOW DOWN ***
+nhalks: shows [Jd Js] (a pair of Jacks)
+Iceman1203: mucks hand
+nhalks collected $65.50 from pot
+*** SUMMARY ***
+Total pot $66 | Rake $0.50
+Board [5d 6h 7s 2s Kh]
+Seat 1: nhalks (big blind) showed [Jd Js] and won ($65.50) with a pair of Jacks
+Seat 3: Iceman1203 (button) (small blind) mucked
+
+
+PokerStars Hand #153096952146:  Hold'em Limit ($3/$6 USD) - 2016/05/09 22:09:55 ET
+Table 'Ino' 6-max Seat #1 is the button
+Seat 1: nhalks ($161.94 in chips)
+Seat 3: Iceman1203 ($183.17 in chips)
+nhalks: posts small blind $1
+Iceman1203: posts big blind $3
+*** HOLE CARDS ***
+nhalks: folds
+Uncalled bet ($2) returned to Iceman1203
+Iceman1203 collected $2 from pot
+Iceman1203: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: nhalks (button) (small blind) folded before Flop
+Seat 3: Iceman1203 (big blind) collected ($2)
+
+
+PokerStars Hand #153096956908:  Hold'em Limit ($3/$6 USD) - 2016/05/09 22:10:08 ET
+Table 'Ino' 6-max Seat #3 is the button
+Seat 1: nhalks ($160.94 in chips)
+Seat 3: Iceman1203 ($184.17 in chips)
+Iceman1203: posts small blind $1
+nhalks: posts big blind $3
+*** HOLE CARDS ***
+Iceman1203: raises $3 to $6
+nhalks: folds
+Uncalled bet ($3) returned to Iceman1203
+Iceman1203 collected $6 from pot
+Iceman1203: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: nhalks (big blind) folded before Flop
+Seat 3: Iceman1203 (button) (small blind) collected ($6)
+
+
+PokerStars Hand #153096970546:  Hold'em Limit ($3/$6 USD) - 2016/05/09 22:10:44 ET
+Table 'Ino' 6-max Seat #3 is the button
+Seat 1: nhalks ($175.44 in chips)
+Seat 3: Iceman1203 ($169.17 in chips)
+Iceman1203: posts small blind $1
+nhalks: posts big blind $3
+*** HOLE CARDS ***
+Iceman1203: folds
+Uncalled bet ($2) returned to nhalks
+nhalks collected $2 from pot
+nhalks: doesn't show hand
+alpha2777 joins the table at seat #4
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: nhalks (big blind) collected ($2)
+Seat 3: Iceman1203 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #153096961253:  Hold'em Limit ($3/$6 USD) - 2016/05/09 22:10:19 ET
+Table 'Ino' 6-max Seat #1 is the button
+Seat 1: nhalks ($157.94 in chips)
+Seat 3: Iceman1203 ($187.17 in chips)
+nhalks: posts small blind $1
+Iceman1203: posts big blind $3
+*** HOLE CARDS ***
+nhalks: raises $3 to $6
+Iceman1203: calls $3
+*** FLOP *** [7s 3h Ts]
+Iceman1203: checks
+nhalks: bets $3
+Iceman1203: raises $3 to $6
+nhalks: calls $3
+*** TURN *** [7s 3h Ts] [9h]
+Iceman1203: bets $6
+nhalks: raises $6 to $12
+Iceman1203: folds
+Uncalled bet ($6) returned to nhalks
+nhalks collected $35.50 from pot
+nhalks: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [7s 3h Ts 9h]
+Seat 1: nhalks (button) (small blind) collected ($35.50)
+Seat 3: Iceman1203 (big blind) folded on the Turn
+
+
+PokerStars Hand #153096972309:  Hold'em Limit ($3/$6 USD) - 2016/05/09 22:10:49 ET
+Table 'Ino' 6-max Seat #1 is the button
+Seat 1: nhalks ($176.44 in chips)
+Seat 3: Iceman1203 ($168.17 in chips)
+nhalks: posts small blind $1
+Iceman1203: posts big blind $3
+*** HOLE CARDS ***
+nhalks: raises $3 to $6
+Iceman1203: raises $3 to $9
+nhalks: raises $3 to $12
+Betting is capped
+Iceman1203: calls $3
+*** FLOP *** [Qs 3h Js]
+Iceman1203: checks
+nhalks: bets $3
+Iceman1203: raises $3 to $6
+nhalks: calls $3
+*** TURN *** [Qs 3h Js] [4c]
+Iceman1203: bets $6
+nhalks: raises $6 to $12
+vitamin168 joins the table at seat #2
+Iceman1203: raises $6 to $18
+nhalks: raises $6 to $24
+Betting is capped
+Iceman1203: calls $6
+*** RIVER *** [Qs 3h Js 4c] [3d]
+Scribe169 joins the table at seat #5
+Iceman1203: bets $6
+nhalks: raises $6 to $12
+Iceman1203: calls $6
+*** SHOW DOWN ***
+nhalks: shows [Ac Qc] (two pair, Queens and Threes)
+Iceman1203: shows [Kh Kd] (two pair, Kings and Threes)
+Iceman1203 collected $107.50 from pot
+*** SUMMARY ***
+Total pot $108 | Rake $0.50
+Board [Qs 3h Js 4c 3d]
+Seat 1: nhalks (button) (small blind) showed [Ac Qc] and lost with two pair, Queens and Threes
+Seat 3: Iceman1203 (big blind) showed [Kh Kd] and won ($107.50) with two pair, Kings and Threes
+
+
+PokerStars Hand #153097531660:  Hold'em Limit ($3/$6 USD) - 2016/05/09 22:36:52 ET
+Table 'Ino' 6-max Seat #6 is the button
+Seat 5: HAL9QQQ ($124 in chips)
+Seat 6: fsreibnitz ($76.91 in chips)
+fsreibnitz: posts small blind $1
+alpha2777: is sitting out
+HAL9QQQ: posts big blind $3
+*** HOLE CARDS ***
+fsreibnitz: folds
+Uncalled bet ($2) returned to HAL9QQQ
+HAL9QQQ collected $2 from pot
+HAL9QQQ: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: HAL9QQQ (big blind) collected ($2)
+Seat 6: fsreibnitz (button) (small blind) folded before Flop
+
+
+PokerStars Hand #153097539212:  Hold'em Limit ($3/$6 USD) - 2016/05/09 22:37:14 ET
+Table 'Ino' 6-max Seat #5 is the button
+Seat 5: HAL9QQQ ($121 in chips)
+Seat 6: fsreibnitz ($79.91 in chips)
+HAL9QQQ: posts small blind $1
+fsreibnitz: posts big blind $3
+*** HOLE CARDS ***
+HAL9QQQ: raises $3 to $6
+fsreibnitz: folds
+Uncalled bet ($3) returned to HAL9QQQ
+HAL9QQQ collected $6 from pot
+HAL9QQQ: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 5: HAL9QQQ (button) (small blind) collected ($6)
+Seat 6: fsreibnitz (big blind) folded before Flop
+
+
+PokerStars Hand #153097536391:  Hold'em Limit ($3/$6 USD) - 2016/05/09 22:37:06 ET
+Table 'Ino' 6-max Seat #6 is the button
+Seat 5: HAL9QQQ ($124 in chips)
+Seat 6: fsreibnitz ($76.91 in chips)
+BJ41 leaves the table
+fsreibnitz: posts small blind $1
+HAL9QQQ: posts big blind $3
+*** HOLE CARDS ***
+fsreibnitz: raises $3 to $6
+HAL9QQQ: folds
+Uncalled bet ($3) returned to fsreibnitz
+fsreibnitz collected $6 from pot
+fsreibnitz: doesn't show hand
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 5: HAL9QQQ (big blind) folded before Flop
+Seat 6: fsreibnitz (button) (small blind) collected ($6)
+
+
+PokerStars Hand #153097533756:  Hold'em Limit ($3/$6 USD) - 2016/05/09 22:36:58 ET
+Table 'Ino' 6-max Seat #5 is the button
+Seat 5: HAL9QQQ ($125 in chips)
+Seat 6: fsreibnitz ($75.91 in chips)
+HAL9QQQ: posts small blind $1
+fsreibnitz: posts big blind $3
+*** HOLE CARDS ***
+HAL9QQQ: folds
+Uncalled bet ($2) returned to fsreibnitz
+fsreibnitz collected $2 from pot
+alpha2777 leaves the table
+fsreibnitz: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 5: HAL9QQQ (button) (small blind) folded before Flop
+Seat 6: fsreibnitz (big blind) collected ($2)
+
+

@@ -1,0 +1,114 @@
+PokerStars Hand #170219544543:  Hold'em Limit ($3/$6 USD) - 2017/05/10 9:47:07 ET
+Table 'Carlova' 6-max Seat #3 is the button
+Seat 3: igorkabmw ($45.05 in chips)
+Seat 4: Agrotait ($72 in chips)
+igorkabmw: posts small blind $1
+Agrotait: posts big blind $3
+*** HOLE CARDS ***
+igorkabmw: calls $2
+Agrotait: raises $3 to $6
+igorkabmw: calls $3
+*** FLOP *** [Kc 2s 9d]
+Agrotait: bets $3
+igorkabmw: raises $3 to $6
+Agrotait: calls $3
+*** TURN *** [Kc 2s 9d] [2c]
+DismasX joins the table at seat #5
+Agrotait: checks
+igorkabmw: bets $6
+Agrotait: calls $6
+*** RIVER *** [Kc 2s 9d 2c] [3s]
+Agrotait: checks
+igorkabmw: bets $6
+Agrotait: folds
+Uncalled bet ($6) returned to igorkabmw
+igorkabmw collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Kc 2s 9d 2c 3s]
+Seat 3: igorkabmw (button) (small blind) collected ($35.50)
+Seat 4: Agrotait (big blind) folded on the River
+
+
+PokerStars Hand #170220118747:  Hold'em Limit ($3/$6 USD) - 2017/05/10 10:04:58 ET
+Table 'Carlova' 6-max Seat #5 is the button
+Seat 4: Whatze Phuck ($120 in chips)
+Seat 5: DismasX ($165.16 in chips)
+DismasX: posts small blind $1
+Whatze Phuck: posts big blind $3
+*** HOLE CARDS ***
+DismasX: folds
+Uncalled bet ($2) returned to Whatze Phuck
+Whatze Phuck collected $2 from pot
+Whatze Phuck: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 4: Whatze Phuck (big blind) collected ($2)
+Seat 5: DismasX (button) (small blind) folded before Flop
+
+
+PokerStars Hand #170220105438:  Hold'em Limit ($3/$6 USD) - 2017/05/10 10:04:35 ET
+Table 'Carlova' 6-max Seat #3 is the button
+Seat 3: igorkabmw ($30 in chips)
+Seat 5: DismasX ($135.66 in chips)
+igorkabmw: posts small blind $1
+DismasX: posts big blind $3
+*** HOLE CARDS ***
+Whatze Phuck joins the table at seat #4
+igorkabmw: raises $3 to $6
+DismasX: calls $3
+*** FLOP *** [8s Ad 9s]
+DismasX: checks
+igorkabmw: checks
+*** TURN *** [8s Ad 9s] [Kh]
+DismasX: checks
+igorkabmw: checks
+*** RIVER *** [8s Ad 9s Kh] [7d]
+DismasX: bets $6
+igorkabmw: raises $6 to $12
+DismasX: raises $6 to $18
+igorkabmw: raises $6 to $24 and is all-in
+Betting is capped
+DismasX: calls $6
+*** SHOW DOWN ***
+igorkabmw: shows [2s Ac] (a pair of Aces)
+DismasX: shows [Td 6h] (a straight, Six to Ten)
+DismasX collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [8s Ad 9s Kh 7d]
+Seat 3: igorkabmw (button) (small blind) showed [2s Ac] and lost with a pair of Aces
+Seat 5: DismasX (big blind) showed [Td 6h] and won ($59.50) with a straight, Six to Ten
+
+
+PokerStars Hand #170220998003:  Hold'em Limit ($3/$6 USD) - 2017/05/10 10:30:01 ET
+Table 'Carlova' 6-max Seat #5 is the button
+Seat 1: B_loJkl ($46 in chips)
+Seat 5: krossguard ($124.16 in chips)
+krossguard: posts small blind $1
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+krossguard: raises $3 to $6
+B_loJkl: calls $3
+*** FLOP *** [Qs 6c Ad]
+B_loJkl: checks
+krossguard: bets $3
+B_loJkl: raises $3 to $6
+krossguard: calls $3
+*** TURN *** [Qs 6c Ad] [Ks]
+B_loJkl: bets $6
+krossguard: calls $6
+*** RIVER *** [Qs 6c Ad Ks] [8d]
+B_loJkl: bets $6
+krossguard: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [Th Qh] (a pair of Queens)
+krossguard: shows [Ac 5d] (a pair of Aces)
+krossguard collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Qs 6c Ad Ks 8d]
+Seat 1: B_loJkl (big blind) showed [Th Qh] and lost with a pair of Queens
+Seat 5: krossguard (button) (small blind) showed [Ac 5d] and won ($47.50) with a pair of Aces
+
+

@@ -1,0 +1,73 @@
+PokerStars Hand #166938999962:  Hold'em Limit ($3/$6 USD) - 2017/03/01 3:20:09 ET
+Table 'Tamara' 6-max Seat #4 is the button
+Seat 3: boogi ($86.33 in chips)
+Seat 4: hairy1961 ($47 in chips)
+hairy1961: posts small blind $1
+Agrotait: is sitting out
+boogi: posts big blind $3
+*** HOLE CARDS ***
+hairy1961: folds
+Uncalled bet ($2) returned to boogi
+boogi collected $2 from pot
+boogi: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: boogi (big blind) collected ($2)
+Seat 4: hairy1961 (button) (small blind) folded before Flop
+
+
+PokerStars Hand #166938984499:  Hold'em Limit ($3/$6 USD) - 2017/03/01 3:19:21 ET
+Table 'Tamara' 6-max Seat #6 is the button
+Seat 3: boogi ($72.50 in chips)
+Seat 6: Agrotait ($290.35 in chips)
+Agrotait: posts small blind $1
+boogi: posts big blind $3
+*** HOLE CARDS ***
+Agrotait: raises $3 to $6
+boogi: calls $3
+*** FLOP *** [Th 4h Kh]
+hairy1961 joins the table at seat #4
+boogi: checks
+Agrotait: bets $3
+boogi: folds
+Uncalled bet ($3) returned to Agrotait
+Agrotait collected $11.76 from pot
+Agrotait: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Th 4h Kh]
+Seat 3: boogi (big blind) folded on the Flop
+Seat 6: Agrotait (button) (small blind) collected ($11.76)
+
+
+PokerStars Hand #166939001935:  Hold'em Limit ($3/$6 USD) - 2017/03/01 3:20:15 ET
+Table 'Tamara' 6-max Seat #3 is the button
+Seat 3: boogi ($87.33 in chips)
+Seat 4: hairy1961 ($46 in chips)
+boogi: posts small blind $1
+hairy1961: posts big blind $3
+*** HOLE CARDS ***
+boogi: raises $3 to $6
+hairy1961: calls $3
+*** FLOP *** [7d 3c 4h]
+hairy1961: checks
+boogi: bets $3
+hairy1961: raises $3 to $6
+boogi: calls $3
+*** TURN *** [7d 3c 4h] [Ts]
+hairy1961: bets $6
+boogi: calls $6
+*** RIVER *** [7d 3c 4h Ts] [4d]
+hairy1961: bets $6
+boogi: calls $6
+*** SHOW DOWN ***
+hairy1961: shows [Qh 4s] (three of a kind, Fours)
+boogi: mucks hand
+hairy1961 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [7d 3c 4h Ts 4d]
+Seat 3: boogi (button) (small blind) mucked
+Seat 4: hairy1961 (big blind) showed [Qh 4s] and won ($47.50) with three of a kind, Fours
+
+

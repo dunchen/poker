@@ -1,0 +1,32 @@
+PokerStars Hand #155956105294:  Hold'em Limit ($3/$6 USD) - 2016/07/14 9:31:25 ET
+Table 'Aidamina' 10-max Seat #6 is the button
+Seat 6: Piparipoker ($37.93 in chips)
+Seat 7: VolkovDmitri ($120 in chips)
+Piparipoker: posts small blind $1
+VolkovDmitri: posts big blind $3
+*** HOLE CARDS ***
+Piparipoker: calls $2
+VolkovDmitri: raises $3 to $6
+Piparipoker: calls $3
+*** FLOP *** [8d 3h 5h]
+VolkovDmitri: checks
+Piparipoker: checks
+*** TURN *** [8d 3h 5h] [Qh]
+VolkovDmitri: bets $6
+Piparipoker: calls $6
+*** RIVER *** [8d 3h 5h Qh] [5c]
+B_loJkl joins the table at seat #8
+VolkovDmitri: checks
+Piparipoker: bets $6
+VolkovDmitri: calls $6
+*** SHOW DOWN ***
+Piparipoker: shows [7d 6s] (a pair of Fives)
+VolkovDmitri: shows [9s Qd] (two pair, Queens and Fives)
+VolkovDmitri collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [8d 3h 5h Qh 5c]
+Seat 6: Piparipoker (button) (small blind) showed [7d 6s] and lost with a pair of Fives
+Seat 7: VolkovDmitri (big blind) showed [9s Qd] and won ($35.50) with two pair, Queens and Fives
+
+

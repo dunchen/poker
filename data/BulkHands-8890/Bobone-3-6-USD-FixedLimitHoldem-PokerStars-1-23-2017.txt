@@ -1,0 +1,50 @@
+PokerStars Hand #165064384483:  Hold'em Limit ($3/$6 USD) - 2017/01/23 17:24:50 ET
+Table 'Bobone' 6-max Seat #3 is the button
+Seat 3: fsreibnitz ($104.79 in chips)
+Seat 4: Actionni13 ($150 in chips)
+fsreibnitz: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+fsreibnitz: raises $3 to $6
+Actionni13: calls $3
+*** FLOP *** [Qh 3h 7c]
+huracan mdp joins the table at seat #5
+Actionni13: checks
+LouisB joins the table at seat #6
+fsreibnitz: checks
+*** TURN *** [Qh 3h 7c] [6s]
+Actionni13: bets $6
+fsreibnitz: calls $6
+*** RIVER *** [Qh 3h 7c 6s] [9s]
+Actionni13: bets $6
+fsreibnitz: calls $6
+*** SHOW DOWN ***
+Actionni13: shows [4d 6h] (a pair of Sixes)
+fsreibnitz: shows [As 6c] (a pair of Sixes - Ace kicker)
+fsreibnitz collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Qh 3h 7c 6s 9s]
+Seat 3: fsreibnitz (button) (small blind) showed [As 6c] and won ($35.50) with a pair of Sixes
+Seat 4: Actionni13 (big blind) showed [4d 6h] and lost with a pair of Sixes
+
+
+PokerStars Hand #165066196812:  Hold'em Limit ($3/$6 USD) - 2017/01/23 17:58:44 ET
+Table 'Bobone' 6-max Seat #5 is the button
+Seat 1: Chessnok ($314.61 in chips)
+Seat 5: pompier40 ($292.96 in chips)
+pompier40: posts small blind $1
+LouisB: is sitting out
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+pompier40: raises $3 to $6
+LouisB leaves the table
+Chessnok: folds
+Uncalled bet ($3) returned to pompier40
+pompier40 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0
+Seat 1: Chessnok (big blind) folded before Flop
+Seat 5: pompier40 (button) (small blind) collected ($6)
+
+

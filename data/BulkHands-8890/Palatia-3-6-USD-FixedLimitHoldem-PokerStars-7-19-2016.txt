@@ -1,0 +1,66 @@
+PokerStars Hand #156186538101:  Hold'em Limit ($3/$6 USD) - 2016/07/19 16:30:19 ET
+Table 'Palatia' 6-max Seat #4 is the button
+Seat 3: xcgxcg2005 ($119 in chips)
+Seat 4: Actionni13 ($151 in chips)
+Actionni13: posts small blind $1
+xcgxcg2005: posts big blind $3
+*** HOLE CARDS ***
+Actionni13: raises $3 to $6
+xcgxcg2005: raises $3 to $9
+Actionni13: calls $3
+*** FLOP *** [5c 4d 6d]
+xcgxcg2005: bets $3
+Actionni13: raises $3 to $6
+xcgxcg2005: raises $3 to $9
+FabronxRJ joins the table at seat #5
+Actionni13: calls $3
+*** TURN *** [5c 4d 6d] [3h]
+xcgxcg2005: bets $6
+Actionni13: raises $6 to $12
+xcgxcg2005: raises $6 to $18
+Actionni13: raises $6 to $24
+Betting is capped
+Koraseg joins the table at seat #6
+xcgxcg2005: calls $6
+*** RIVER *** [5c 4d 6d 3h] [Ad]
+xcgxcg2005: checks
+Actionni13: bets $6
+xcgxcg2005: calls $6
+*** SHOW DOWN ***
+Actionni13: shows [7h 9d] (a straight, Three to Seven)
+xcgxcg2005: mucks hand
+Actionni13 collected $95.50 from pot
+*** SUMMARY ***
+Total pot $96 | Rake $0.50
+Board [5c 4d 6d 3h Ad]
+Seat 3: xcgxcg2005 (big blind) mucked
+Seat 4: Actionni13 (button) (small blind) showed [7h 9d] and won ($95.50) with a straight, Three to Seven
+
+
+PokerStars Hand #156186570810:  Hold'em Limit ($3/$6 USD) - 2016/07/19 16:30:58 ET
+Table 'Palatia' 6-max Seat #3 is the button
+Seat 3: xcgxcg2005 ($71 in chips)
+Seat 4: Actionni13 ($198.50 in chips)
+xcgxcg2005: posts small blind $1
+Actionni13: posts big blind $3
+*** HOLE CARDS ***
+xcgxcg2005: raises $3 to $6
+Actionni13: calls $3
+*** FLOP *** [Ts 8d Qh]
+Actionni13: checks
+xcgxcg2005: bets $3
+Actionni13: calls $3
+*** TURN *** [Ts 8d Qh] [4c]
+Actionni13: checks
+xcgxcg2005: bets $6
+Actionni13: folds
+Uncalled bet ($6) returned to xcgxcg2005
+xcgxcg2005 collected $17.64 from pot
+xcgxcg2005: doesn't show hand
+*** SUMMARY ***
+Total pot $18 | Rake $0.36
+Board [Ts 8d Qh 4c]
+Seat 3: xcgxcg2005 (button) (small blind) collected ($17.64)
+Seat 4: Actionni13 (big blind) folded on the Turn
+
+

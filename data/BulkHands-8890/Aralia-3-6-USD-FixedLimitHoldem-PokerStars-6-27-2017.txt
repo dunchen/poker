@@ -1,0 +1,33 @@
+PokerStars Hand #172304665368:  Hold'em Limit ($3/$6 USD) - 2017/06/27 11:05:28 ET
+Table 'Aralia' 6-max Seat #6 is the button
+Seat 2: B_loJkl ($207.07 in chips)
+Seat 6: AzureCaper ($73 in chips)
+AzureCaper: posts small blind $1
+Ale4o: is sitting out
+B_loJkl: posts big blind $3
+*** HOLE CARDS ***
+AzureCaper: raises $3 to $6
+B_loJkl: raises $3 to $9
+Ale4o leaves the table
+AzureCaper: calls $3
+*** FLOP *** [5d 5c 9c]
+B_loJkl: bets $3
+AzureCaper: calls $3
+*** TURN *** [5d 5c 9c] [7c]
+B_loJkl: bets $6
+AzureCaper: raises $6 to $12
+B_loJkl: calls $6
+*** RIVER *** [5d 5c 9c 7c] [Jc]
+B_loJkl: bets $6
+AzureCaper: calls $6
+*** SHOW DOWN ***
+B_loJkl: shows [Jd Ac] (a flush, Ace high)
+AzureCaper: mucks hand
+B_loJkl collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [5d 5c 9c 7c Jc]
+Seat 2: B_loJkl (big blind) showed [Jd Ac] and won ($59.50) with a flush, Ace high
+Seat 6: AzureCaper (button) (small blind) mucked
+
+

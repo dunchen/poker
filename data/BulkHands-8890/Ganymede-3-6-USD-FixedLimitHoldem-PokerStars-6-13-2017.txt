@@ -1,0 +1,62 @@
+PokerStars Hand #171744864302:  Hold'em Limit ($3/$6 USD) - 2017/06/13 19:42:37 ET
+Table 'Ganymede' 6-max Seat #6 is the button
+Seat 5: igorkabmw ($36 in chips)
+Seat 6: scorpio04 ($150 in chips)
+scorpio04: posts small blind $1
+igorkabmw: posts big blind $3
+*** HOLE CARDS ***
+scorpio04: raises $3 to $6
+igorkabmw: calls $3
+*** FLOP *** [7c Jc 5h]
+igorkabmw: checks
+B_loJkl joins the table at seat #1
+Bonsey_1 joins the table at seat #3
+scorpio04: checks
+*** TURN *** [7c Jc 5h] [3s]
+belik555 joins the table at seat #2
+igorkabmw: checks
+scorpio04: bets $6
+igorkabmw: calls $6
+*** RIVER *** [7c Jc 5h 3s] [8c]
+igorkabmw: checks
+scorpio04: bets $6
+igorkabmw: calls $6
+*** SHOW DOWN ***
+scorpio04: shows [9c 4h] (high card Jack)
+igorkabmw: shows [5s Ac] (a pair of Fives)
+igorkabmw collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [7c Jc 5h 3s 8c]
+Seat 5: igorkabmw (big blind) showed [5s Ac] and won ($35.50) with a pair of Fives
+Seat 6: scorpio04 (button) (small blind) showed [9c 4h] and lost with high card Jack
+
+
+PokerStars Hand #171744887250:  Hold'em Limit ($3/$6 USD) - 2017/06/13 19:43:21 ET
+Table 'Ganymede' 6-max Seat #5 is the button
+Seat 5: igorkabmw ($53.50 in chips)
+Seat 6: scorpio04 ($150 in chips)
+igorkabmw: posts small blind $1
+scorpio04: posts big blind $3
+*** HOLE CARDS ***
+igorkabmw: raises $3 to $6
+scorpio04: calls $3
+*** FLOP *** [Qc 8s Ad]
+scorpio04: checks
+igorkabmw: checks
+*** TURN *** [Qc 8s Ad] [Qs]
+scorpio04: checks
+igorkabmw: checks
+*** RIVER *** [Qc 8s Ad Qs] [Jc]
+scorpio04: checks
+igorkabmw: bets $6
+scorpio04: folds
+Uncalled bet ($6) returned to igorkabmw
+igorkabmw collected $11.76 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.24
+Board [Qc 8s Ad Qs Jc]
+Seat 5: igorkabmw (button) (small blind) collected ($11.76)
+Seat 6: scorpio04 (big blind) folded on the River
+
+

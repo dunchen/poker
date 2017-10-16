@@ -1,0 +1,84 @@
+PokerStars Hand #161354687972:  Hold'em Limit ($3/$6 USD) - 2016/11/13 15:22:18 ET
+Table 'Alsuhail III' 6-max Seat #4 is the button
+Seat 1: Zensor666 ($119 in chips)
+Seat 4: assitoni ($73 in chips)
+assitoni: posts small blind $1
+Zensor666: posts big blind $3
+*** HOLE CARDS ***
+assitoni: raises $3 to $6
+Zensor666: calls $3
+*** FLOP *** [8h 6d Ac]
+Zensor666: checks
+assitoni: bets $3
+Zensor666: raises $3 to $6
+assitoni: raises $3 to $9
+Zensor666: raises $3 to $12
+Betting is capped
+assitoni: calls $3
+*** TURN *** [8h 6d Ac] [9d]
+Zensor666: bets $6
+assitoni: calls $6
+*** RIVER *** [8h 6d Ac 9d] [6s]
+Zensor666: bets $6
+assitoni: calls $6
+*** SHOW DOWN ***
+Zensor666: shows [6c 8s] (a full house, Sixes full of Eights)
+assitoni: mucks hand
+Zensor666 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [8h 6d Ac 9d 6s]
+Seat 1: Zensor666 (big blind) showed [6c 8s] and won ($59.50) with a full house, Sixes full of Eights
+Seat 4: assitoni (button) (small blind) mucked
+
+
+PokerStars Hand #161354675198:  Hold'em Limit ($3/$6 USD) - 2016/11/13 15:22:07 ET
+Table 'Alsuhail III' 6-max Seat #1 is the button
+Seat 1: Zensor666 ($120 in chips)
+Seat 4: assitoni ($72 in chips)
+Zensor666: posts small blind $1
+assitoni: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88 joins the table at seat #2
+Zensor666: folds
+Uncalled bet ($2) returned to assitoni
+assitoni collected $2 from pot
+assitoni: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Zensor666 (button) (small blind) folded before Flop
+Seat 4: assitoni (big blind) collected ($2)
+
+
+PokerStars Hand #161354750658:  Hold'em Limit ($3/$6 USD) - 2016/11/13 15:23:17 ET
+Table 'Alsuhail III' 6-max Seat #2 is the button
+Seat 1: Zensor666 ($154.14 in chips)
+Seat 2: TbIP-TbIP 88 ($72 in chips)
+TbIP-TbIP 88: posts small blind $1
+assitoni: is sitting out
+Zensor666: posts big blind $3
+*** HOLE CARDS ***
+TbIP-TbIP 88: raises $3 to $6
+Zensor666: calls $3
+*** FLOP *** [6d Ad Qh]
+Zensor666: checks
+TbIP-TbIP 88: bets $3
+Zensor666: calls $3
+*** TURN *** [6d Ad Qh] [Qs]
+Zensor666: checks
+TbIP-TbIP 88: checks
+*** RIVER *** [6d Ad Qh Qs] [7d]
+Zensor666: checks
+TbIP-TbIP 88: bets $6
+Zensor666: calls $6
+*** SHOW DOWN ***
+TbIP-TbIP 88: shows [4h As] (two pair, Aces and Queens)
+Zensor666: mucks hand
+TbIP-TbIP 88 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6d Ad Qh Qs 7d]
+Seat 1: Zensor666 (big blind) mucked
+Seat 2: TbIP-TbIP 88 (button) (small blind) showed [4h As] and won ($29.50) with two pair, Aces and Queens
+
+

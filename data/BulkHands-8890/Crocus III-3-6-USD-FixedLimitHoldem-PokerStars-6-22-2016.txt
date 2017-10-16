@@ -1,0 +1,66 @@
+PokerStars Hand #155062976541:  Hold'em Limit ($3/$6 USD) - 2016/06/22 12:17:28 ET
+Table 'Crocus III' 6-max Seat #1 is the button
+Seat 1: geraldju ($161.06 in chips)
+Seat 2: Murrrr_@T ($49.03 in chips)
+geraldju: posts small blind $1
+Murrrr_@T: posts big blind $3
+*** HOLE CARDS ***
+geraldju: calls $2
+Murrrr_@T: checks
+*** FLOP *** [Th 5d Js]
+Murrrr_@T: checks
+geraldju: checks
+*** TURN *** [Th 5d Js] [2d]
+vovojc joins the table at seat #3
+Murrrr_@T: bets $6
+geraldju: raises $6 to $12
+dirtygame93 joins the table at seat #4
+Murrrr_@T: calls $6
+*** RIVER *** [Th 5d Js 2d] [6d]
+Murrrr_@T: checks
+geraldju: bets $6
+Murrrr_@T: calls $6
+*** SHOW DOWN ***
+geraldju: shows [7d 3d] (a flush, Seven high)
+Murrrr_@T: mucks hand
+geraldju collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Th 5d Js 2d 6d]
+Seat 1: geraldju (button) (small blind) showed [7d 3d] and won ($41.50) with a flush, Seven high
+Seat 2: Murrrr_@T (big blind) mucked
+
+
+PokerStars Hand #155066931593:  Hold'em Limit ($3/$6 USD) - 2016/06/22 14:08:13 ET
+Table 'Crocus III' 6-max Seat #4 is the button
+Seat 2: Chessnok ($146.86 in chips)
+Seat 4: dirtygame93 ($192.32 in chips)
+dirtygame93: posts small blind $1
+PayMyAudiR8: is sitting out
+Chessnok: posts big blind $3
+*** HOLE CARDS ***
+dirtygame93: raises $3 to $6
+Chessnok: calls $3
+*** FLOP *** [Tc Qc 9d]
+Chessnok: checks
+PayMyAudiR8 leaves the table
+dirtygame93: bets $3
+Chessnok: raises $3 to $6
+dirtygame93: calls $3
+*** TURN *** [Tc Qc 9d] [5s]
+Chessnok: bets $6
+dirtygame93: calls $6
+*** RIVER *** [Tc Qc 9d 5s] [3h]
+Chessnok: bets $6
+dirtygame93: calls $6
+*** SHOW DOWN ***
+Chessnok: shows [2h Qs] (a pair of Queens)
+dirtygame93: mucks hand
+Chessnok collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [Tc Qc 9d 5s 3h]
+Seat 2: Chessnok (big blind) showed [2h Qs] and won ($47.50) with a pair of Queens
+Seat 4: dirtygame93 (button) (small blind) mucked
+
+

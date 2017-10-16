@@ -1,0 +1,77 @@
+PokerStars Hand #144333225774:  Hold'em Limit ($3/$6 USD) - 2015/11/24 17:07:46 ET
+Table 'Baumeia' 6-max Seat #4 is the button
+Seat 1: mixidix ($38.84 in chips)
+Seat 4: Karpik09 ($106.50 in chips)
+Karpik09: posts small blind $1
+mixidix: posts big blind $3
+*** HOLE CARDS ***
+Karpik09: raises $3 to $6
+mixidix: calls $3
+*** FLOP *** [7s Ks 3h]
+mixidix: checks
+Karpik09: bets $3
+mixidix: raises $3 to $6
+Karpik09: calls $3
+*** TURN *** [7s Ks 3h] [8d]
+fazz420 joins the table at seat #3
+mixidix: bets $6
+steinchen joins the table at seat #2
+Karpik09: folds
+Uncalled bet ($6) returned to mixidix
+mixidix collected $23.52 from pot
+mixidix: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [7s Ks 3h 8d]
+Seat 1: mixidix (big blind) collected ($23.52)
+Seat 4: Karpik09 (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #144333220480:  Hold'em Limit ($3/$6 USD) - 2015/11/24 17:07:40 ET
+Table 'Baumeia' 6-max Seat #1 is the button
+Seat 1: mixidix ($39.84 in chips)
+Seat 4: Karpik09 ($105.50 in chips)
+mixidix: posts small blind $1
+Karpik09: posts big blind $3
+*** HOLE CARDS ***
+mixidix: folds
+Uncalled bet ($2) returned to Karpik09
+Karpik09 collected $2 from pot
+Karpik09: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: mixidix (button) (small blind) folded before Flop
+Seat 4: Karpik09 (big blind) collected ($2)
+
+
+PokerStars Hand #144333196115:  Hold'em Limit ($3/$6 USD) - 2015/11/24 17:07:12 ET
+Table 'Baumeia' 6-max Seat #4 is the button
+Seat 1: mixidix ($54.84 in chips)
+Seat 4: Karpik09 ($91 in chips)
+Karpik09: posts small blind $1
+mixidix: posts big blind $3
+*** HOLE CARDS ***
+Karpik09: raises $3 to $6
+mixidix: calls $3
+*** FLOP *** [7s 7h 9s]
+mixidix: checks
+Karpik09: bets $3
+mixidix: calls $3
+*** TURN *** [7s 7h 9s] [Qd]
+mixidix: checks
+Karpik09: bets $6
+mixidix: calls $6
+*** RIVER *** [7s 7h 9s Qd] [Ac]
+mixidix: checks
+Karpik09: checks
+*** SHOW DOWN ***
+mixidix: shows [8h 6h] (a pair of Sevens)
+Karpik09: shows [Td 4h] (a pair of Sevens - Ace+Queen+Ten kicker)
+Karpik09 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [7s 7h 9s Qd Ac]
+Seat 1: mixidix (big blind) showed [8h 6h] and lost with a pair of Sevens
+Seat 4: Karpik09 (button) (small blind) showed [Td 4h] and won ($29.50) with a pair of Sevens
+
+

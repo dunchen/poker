@@ -1,0 +1,62 @@
+PokerStars Hand #166082345131:  Hold'em Limit ($3/$6 USD) - 2017/02/12 5:17:16 ET
+Table 'Poesia' 6-max Seat #3 is the button
+Seat 3: Kaukadiginte ($75.51 in chips)
+Seat 4: TbIP-TbIP 88 ($72 in chips)
+Kaukadiginte: posts small blind $1
+AzureCaper joins the table at seat #5
+TbIP-TbIP 88: posts big blind $3
+*** HOLE CARDS ***
+Kaukadiginte: raises $3 to $6
+TbIP-TbIP 88: calls $3
+*** FLOP *** [Qh 9h 2c]
+TbIP-TbIP 88: checks
+Kaukadiginte: bets $3
+TbIP-TbIP 88: calls $3
+*** TURN *** [Qh 9h 2c] [Jc]
+TbIP-TbIP 88: checks
+Kaukadiginte: bets $6
+TbIP-TbIP 88: calls $6
+*** RIVER *** [Qh 9h 2c Jc] [7d]
+TbIP-TbIP 88: checks
+Kaukadiginte: bets $6
+TbIP-TbIP 88: calls $6
+*** SHOW DOWN ***
+Kaukadiginte: shows [Qd Kh] (a pair of Queens)
+TbIP-TbIP 88: mucks hand
+Kaukadiginte collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [Qh 9h 2c Jc 7d]
+Seat 3: Kaukadiginte (button) (small blind) showed [Qd Kh] and won ($41.50) with a pair of Queens
+Seat 4: TbIP-TbIP 88 (big blind) mucked
+
+
+PokerStars Hand #166083156844:  Hold'em Limit ($3/$6 USD) - 2017/02/12 5:43:53 ET
+Table 'Poesia' 6-max Seat #2 is the button
+Seat 1: AA_ILI ($86 in chips)
+Seat 2: knas4 ($111.78 in chips)
+knas4: posts small blind $1
+AA_ILI: posts big blind $3
+*** HOLE CARDS ***
+knas4: raises $3 to $6
+AA_ILI: calls $3
+*** FLOP *** [6h 6s 4d]
+AA_ILI: checks
+knas4: bets $3
+AA_ILI: calls $3
+*** TURN *** [6h 6s 4d] [3s]
+AA_ILI: checks
+knas4: checks
+*** RIVER *** [6h 6s 4d 3s] [Qs]
+AA_ILI: bets $6
+knas4: raises $6 to $12
+AA_ILI: folds
+Uncalled bet ($6) returned to knas4
+knas4 collected $29.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [6h 6s 4d 3s Qs]
+Seat 1: AA_ILI (big blind) folded on the River
+Seat 2: knas4 (button) (small blind) collected ($29.50)
+
+

@@ -1,0 +1,67 @@
+PokerStars Hand #154056794822:  Hold'em Limit ($3/$6 USD) - 2016/05/30 13:57:39 ET
+Table 'Hedera' 6-max Seat #1 is the button
+Seat 1: Zubasa07 ($500 in chips)
+Seat 2: lanås ($50.49 in chips)
+ABATAPP joins the table at seat #3
+Zubasa07: posts small blind $1
+lanås: posts big blind $3
+*** HOLE CARDS ***
+Zubasa07: raises $3 to $6
+lanås: raises $3 to $9
+Zubasa07: calls $3
+*** FLOP *** [8d Qd 2c]
+lanås: bets $3
+Zubasa07: calls $3
+*** TURN *** [8d Qd 2c] [Jc]
+lanås: bets $6
+Zubasa07: calls $6
+*** RIVER *** [8d Qd 2c Jc] [Kh]
+lanås: bets $6
+Zubasa07: calls $6
+*** SHOW DOWN ***
+lanås: shows [Kd Tc] (a pair of Kings)
+Zubasa07: mucks hand
+lanås collected $47.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $0.50
+Board [8d Qd 2c Jc Kh]
+Seat 1: Zubasa07 (button) (small blind) mucked
+Seat 2: lanås (big blind) showed [Kd Tc] and won ($47.50) with a pair of Kings
+
+
+PokerStars Hand #154057346314:  Hold'em Limit ($3/$6 USD) - 2016/05/30 14:09:19 ET
+Table 'Hedera' 6-max Seat #5 is the button
+Seat 4: tomte999 ($94.84 in chips)
+Seat 5: yasmins1990 ($87.84 in chips)
+yasmins1990: posts small blind $1
+Zubasa07: is sitting out
+ValeryRon: is sitting out
+ABATAPP: is sitting out
+tomte999: posts big blind $3
+*** HOLE CARDS ***
+ValeryRon leaves the table
+yasmins1990: raises $3 to $6
+tomte999: calls $3
+*** FLOP *** [6d 7c 8h]
+tomte999: checks
+yasmins1990: bets $3
+tomte999: raises $3 to $6
+yasmins1990: raises $3 to $9
+tomte999: calls $3
+*** TURN *** [6d 7c 8h] [As]
+tomte999: checks
+yasmins1990: checks
+*** RIVER *** [6d 7c 8h As] [3h]
+tomte999: bets $6
+yasmins1990: calls $6
+*** SHOW DOWN ***
+tomte999: shows [9h 8d] (a pair of Eights)
+yasmins1990: shows [Qh Qc] (a pair of Queens)
+yasmins1990 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [6d 7c 8h As 3h]
+Seat 4: tomte999 (big blind) showed [9h 8d] and lost with a pair of Eights
+Seat 5: yasmins1990 (button) (small blind) showed [Qh Qc] and won ($41.50) with a pair of Queens
+
+

@@ -1,0 +1,64 @@
+PokerStars Hand #171516178948:  Hold'em Limit ($3/$6 USD) - 2017/06/08 14:38:22 ET
+Table 'Gerarda' 6-max Seat #4 is the button
+Seat 3: NAUTJE1337 ($47 in chips)
+Seat 4: MTails ($121 in chips)
+MTails: posts small blind $1
+NAUTJE1337: posts big blind $3
+*** HOLE CARDS ***
+MTails: raises $3 to $6
+kikiriki joins the table at seat #6
+B_loJkl joins the table at seat #1
+vestimokrec joins the table at seat #5
+NAUTJE1337: calls $3
+*** FLOP *** [Ac 6d 4s]
+chetos1994 joins the table at seat #2
+NAUTJE1337: bets $3
+MTails: raises $3 to $6
+NAUTJE1337: calls $3
+*** TURN *** [Ac 6d 4s] [9c]
+NAUTJE1337: checks
+MTails: bets $6
+NAUTJE1337: raises $6 to $12
+MTails: calls $6
+*** RIVER *** [Ac 6d 4s 9c] [3s]
+NAUTJE1337: bets $6
+MTails: calls $6
+*** SHOW DOWN ***
+NAUTJE1337: shows [6c 4d] (two pair, Sixes and Fours)
+MTails: mucks hand
+NAUTJE1337 collected $59.50 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $0.50
+Board [Ac 6d 4s 9c 3s]
+Seat 3: NAUTJE1337 (big blind) showed [6c 4d] and won ($59.50) with two pair, Sixes and Fours
+Seat 4: MTails (button) (small blind) mucked
+
+
+PokerStars Hand #171516204622:  Hold'em Limit ($3/$6 USD) - 2017/06/08 14:38:55 ET
+Table 'Gerarda' 6-max Seat #3 is the button
+Seat 3: NAUTJE1337 ($76.50 in chips)
+Seat 4: MTails ($91 in chips)
+NAUTJE1337: posts small blind $1
+MTails: posts big blind $3
+*** HOLE CARDS ***
+NAUTJE1337: raises $3 to $6
+MTails: calls $3
+*** FLOP *** [4h 4c 5s]
+MTails: checks
+NAUTJE1337: bets $3
+MTails: calls $3
+*** TURN *** [4h 4c 5s] [Qh]
+MTails: checks
+NAUTJE1337: bets $6
+MTails: raises $6 to $12
+NAUTJE1337: raises $6 to $18
+MTails: folds
+Uncalled bet ($6) returned to NAUTJE1337
+NAUTJE1337 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [4h 4c 5s Qh]
+Seat 3: NAUTJE1337 (button) (small blind) collected ($41.50)
+Seat 4: MTails (big blind) folded on the Turn
+
+

@@ -1,0 +1,60 @@
+PokerStars Hand #169736262743:  Hold'em Limit ($3/$6 USD) - 2017/04/29 18:16:04 ET
+Table 'Philagoria' 6-max Seat #1 is the button
+Seat 1: leungting684 ($120 in chips)
+Seat 3: simper11 ($120 in chips)
+leungting684: posts small blind $1
+GoliafUa joins the table at seat #2
+simper11: posts big blind $3
+*** HOLE CARDS ***
+leungting684: raises $3 to $6
+simper11: calls $3
+*** FLOP *** [Qs Qc 9d]
+simper11: checks
+leungting684: checks
+*** TURN *** [Qs Qc 9d] [8s]
+simper11: checks
+leungting684: checks
+*** RIVER *** [Qs Qc 9d 8s] [2d]
+simper11: bets $6
+leungting684: raises $6 to $12
+simper11: calls $6
+*** SHOW DOWN ***
+leungting684: shows [9h 9s] (a full house, Nines full of Queens)
+simper11: mucks hand
+leungting684 collected $35.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $0.50
+Board [Qs Qc 9d 8s 2d]
+Seat 1: leungting684 (button) (small blind) showed [9h 9s] and won ($35.50) with a full house, Nines full of Queens
+Seat 3: simper11 (big blind) mucked
+
+
+PokerStars Hand #169736277575:  Hold'em Limit ($3/$6 USD) - 2017/04/29 18:16:24 ET
+Table 'Philagoria' 6-max Seat #3 is the button
+Seat 1: leungting684 ($137.50 in chips)
+Seat 3: simper11 ($108.81 in chips)
+simper11: posts small blind $1
+leungting684: posts big blind $3
+*** HOLE CARDS ***
+simper11: raises $3 to $6
+leungting684: raises $3 to $9
+simper11: calls $3
+*** FLOP *** [3s Ts Jc]
+leungting684: bets $3
+simper11: calls $3
+*** TURN *** [3s Ts Jc] [6h]
+leungting684: checks
+simper11: checks
+*** RIVER *** [3s Ts Jc 6h] [Kh]
+leungting684: bets $6
+simper11: folds
+Uncalled bet ($6) returned to leungting684
+leungting684 collected $23.52 from pot
+leungting684: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $0.48
+Board [3s Ts Jc 6h Kh]
+Seat 1: leungting684 (big blind) collected ($23.52)
+Seat 3: simper11 (button) (small blind) folded on the River
+
+

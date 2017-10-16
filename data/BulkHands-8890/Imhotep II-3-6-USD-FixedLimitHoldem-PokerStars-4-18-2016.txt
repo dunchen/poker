@@ -1,0 +1,62 @@
+PokerStars Hand #152096534268:  Hold'em Limit ($3/$6 USD) - 2016/04/18 11:06:24 ET
+Table 'Imhotep II' 6-max Seat #1 is the button
+Seat 1: asf5550 ($120 in chips)
+Seat 4: Ale4o ($120 in chips)
+asf5550: posts small blind $1
+Ale4o: posts big blind $3
+*** HOLE CARDS ***
+asf5550: raises $3 to $6
+Ale4o: calls $3
+*** FLOP *** [4h Th Ah]
+Ale4o: checks
+asf5550: bets $3
+Ale4o: calls $3
+*** TURN *** [4h Th Ah] [Ac]
+Ale4o: checks
+asf5550: bets $6
+Ale4o: calls $6
+*** RIVER *** [4h Th Ah Ac] [Js]
+Ale4o: checks
+asf5550: bets $6
+kolaz03 joins the table at seat #2
+Ale4o: calls $6
+*** SHOW DOWN ***
+asf5550: shows [7d Jd] (two pair, Aces and Jacks)
+Ale4o: mucks hand
+asf5550 collected $41.50 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $0.50
+Board [4h Th Ah Ac Js]
+Seat 1: asf5550 (button) (small blind) showed [7d Jd] and won ($41.50) with two pair, Aces and Jacks
+Seat 4: Ale4o (big blind) mucked
+
+
+PokerStars Hand #152096558594:  Hold'em Limit ($3/$6 USD) - 2016/04/18 11:07:01 ET
+Table 'Imhotep II' 6-max Seat #4 is the button
+Seat 1: asf5550 ($140.50 in chips)
+Seat 4: Ale4o ($99 in chips)
+Ale4o: posts small blind $1
+asf5550: posts big blind $3
+*** HOLE CARDS ***
+Ale4o: raises $3 to $6
+asf5550: calls $3
+*** FLOP *** [Kh 3d 2s]
+asf5550: checks
+Ale4o: bets $3
+asf5550: calls $3
+*** TURN *** [Kh 3d 2s] [Kd]
+asf5550: bets $6
+Ale4o: calls $6
+*** RIVER *** [Kh 3d 2s Kd] [5s]
+asf5550: bets $6
+Ale4o: folds
+Uncalled bet ($6) returned to asf5550
+asf5550 collected $29.50 from pot
+asf5550: doesn't show hand
+*** SUMMARY ***
+Total pot $30 | Rake $0.50
+Board [Kh 3d 2s Kd 5s]
+Seat 1: asf5550 (big blind) collected ($29.50)
+Seat 4: Ale4o (button) (small blind) folded on the River
+
+
