@@ -76,13 +76,13 @@ class Prediction(torch.nn.Module):
 	def __init__(self,wxh,bxh,whz,bhz,wzh,bzh,whx,bhx,wzz,bzz):
 		super(SimpleNN2,self).__init__()
 		self.Wxh= nn2.Parameter(wxh,False)
-        	self.bxh= nn2.Parameter(bxh,False)
+		self.bxh= nn2.Parameter(bxh,False)
 		self.Whz= nn2.Parameter(whz,False)
-        	self.bhz= nn2.Parameter(bhz,False)
+		self.bhz= nn2.Parameter(bhz,False)
 		self.Wzh= nn2.Parameter(wzh,False)
-        	self.bzh= nn2.Parameter(bzh,False)
+		self.bzh= nn2.Parameter(bzh,False)
 		self.Whx= nn2.Parameter(whz,False)
-        	self.bhx= nn2.Parameter(bhx,False)
+		self.bhx= nn2.Parameter(bhx,False)
 		self.Wzz= nn2.Parameter(wzz)
 		self.bzz= nn2.Parameter(bzz)
         
@@ -109,10 +109,10 @@ class SimpleVAE(torch.nn.Module):
                 self.bhx = nn2.Parameter(torch.zeros(X_dim))
 
         def Q(self,X):
-                h = nn.relu(X @ self.Wxh + self.bxh.repeat(X.size(0), 1))
-                z_mu = h @ self.Whz_mu + self.bhz_mu.repeat(h.size(0), 1)
-                z_var = h @ self.Whz_var + self.bhz_var.repeat(h.size(0), 1)
-                return z_mu, z_var
+		h = nn.relu(X @ self.Wxh + self.bxh.repeat(X.size(0), 1))
+		z_mu = h @ self.Whz_mu + self.bhz_mu.repeat(h.size(0), 1)
+		z_var = h @ self.Whz_var + self.bhz_var.repeat(h.size(0), 1)
+		return z_mu, z_var
 
         def P(self,z):
                 h = nn.relu(z @ self.Wzh + self.bzh.repeat(z.size(0), 1))
