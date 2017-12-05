@@ -41,8 +41,8 @@ class VAE(nn.Module):
 	        for i in self.test:
 	                h_t2, c_t2 = self.decoder_lstm(i.unsqueeze(0), (h_t2, c_t2))
 	                output= self.softmax(h_t2 @ self.Whx + self.bhx.repeat(h_t2.size(0), 1))
-	                outputs += [output]
-	        return outputs
+	                outputs += [output]        
+	        return torch.stack(outputs,1).squeeze(2)
 
 		
 	def forward(self,context,test):
@@ -80,7 +80,8 @@ def train():
                 klloss=torch.mean(0.5 * torch.sum(torch.exp(z_var) + z_mu**2 - 1. - z_var, 1))
                 print(outputs)
                 print(target)
-                loss=reconloss(torch.FloatTensor(outputs),target)+klloss
+                loss=reconloss(outputs,target)+klloss
+                print(loss)
                 loss.backward()
                 vae_optimizer.step()
         return
