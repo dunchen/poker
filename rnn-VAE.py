@@ -5,13 +5,15 @@ import torch.optim as optim
 import pandas as pd
 import numpy as np
 
-length=34
+nnum=10000
 info_dim=50+12
 h_dim=12
 z_dim=10
 test_dim=50+6
 testh_dim=10
 action_dim=6
+path='~/Downloads/Final_fo_realz.txt'
+#path='./2'
 
 def xavier_init(size):
     in_dim = size[0]
@@ -41,8 +43,8 @@ class VAE(nn.Module):
                 for i in range(num):
                         h_t2, c_t2 = self.decoder_lstm(self.test[i].unsqueeze(0), (h_t2, c_t2))
                         output= self.softmax(h_t2 @ self.Whx + self.bhx.repeat(h_t2.size(0), 1))
-                        outputs += [output]        
-                return torch.stack(outputs,1).squeeze(2)
+                        outputs += [output]
+                return torch.stack(outputs,1).squeeze()
 
 		
         def forward(self,context,test,num):
@@ -65,7 +67,7 @@ class VAE(nn.Module):
 
 def train():
         vae=VAE()
-        vae_optimizer=optim.Adam(vae.parameters(),lr=1e-3)
+        vae_optimizer=optim.SGD(vae.parameters(),lr=0.5)
         reconloss=nn.MSELoss()
 
 
@@ -74,14 +76,19 @@ def train():
                 context=infodata[i]
                 test=testdata[i][0]
                 target=testdata[i][1]
+                if testnum[i]==0: continue
                 outputs,z_mu,z_var,z=vae(context,test,testnum[i])
                 klloss=torch.mean(0.5 * torch.sum(torch.exp(z_var) + z_mu**2 - 1. - z_var, 1))
-                print(outputs)
-                print(target[0:testnum[i]])
                 loss=reconloss(outputs,target[0:testnum[i]])+klloss
-                print(loss)
+                if i%100==0:
+                        print(loss)
+                        print(reconloss(outputs,target[0:testnum[i]]),klloss)
+                        print(outputs)
+                        print(target[0:testnum[i]])
                 loss.backward()
                 vae_optimizer.step()
+                print(i)
+                if i%1000==0: torch.save(vae.state_dict(),'./'+str(i))
         return
 
 def readinfo(x):
@@ -108,14 +115,14 @@ def add(x,y):
 def checknotendround(x):
     return(pd.isnull(x[40]) and (x[0]!=-1))
 
-fil=pd.read_csv('./2')
+fil=pd.read_csv(path)
 	
 i=0
-testnum=[0 for col in range(10)]
+testnum=[0 for col in range(nnum)]
 infodata=[]
 testdata=[]
 casenum=0
-while fil.ix[i,0]!=-1:
+while (fil.ix[i,0]!=-1) and (casenum<nnum):
         i=i+3
         info=readinfo(fil.ix[i])
         i+=1
@@ -203,10 +210,10 @@ while fil.ix[i,0]!=-1:
 
         infodata=infodata+[Variable(torch.FloatTensor(inputx))]
         testdata=testdata+[[Variable(torch.FloatTensor(inputy))]+[Variable(torch.FloatTensor(target))]]
-        print(numy)
-        print(numx)
+        #print(numy)
+        #print(numx)
         testnum[casenum]=numy
-        print(testnum)
+        #print(testnum)
         casenum=casenum+1
 	
         if (fil.ix[i][0]==-1):
