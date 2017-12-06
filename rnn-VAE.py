@@ -19,50 +19,48 @@ def xavier_init(size):
     return torch.randn(*size) * xavier_stddev
 
 class VAE(nn.Module):
-	def __init__(self):
-		super(VAE, self).__init__()
-		self.encoder_lstm=nn.LSTMCell(info_dim,h_dim)
-		self.Whz_mu = nn.Parameter(xavier_init(size=[h_dim, z_dim]))
-		self.bhz_mu = nn.Parameter(torch.zeros(z_dim))
-		self.Whz_var = nn.Parameter(xavier_init(size=[h_dim, z_dim]))
-		self.bhz_var = nn.Parameter(torch.zeros(z_dim))
-		self.softmax=nn.Softmax()
-		self.decoder_lstm=nn.LSTMCell(test_dim,testh_dim)
-		self.Whx = nn.Parameter(xavier_init(size=[testh_dim, action_dim]))
-		self.bhx = nn.Parameter(torch.zeros(action_dim))
+        def __init__(self):
+                super(VAE, self).__init__()
+                self.encoder_lstm=nn.LSTMCell(info_dim,h_dim)
+                self.Whz_mu = nn.Parameter(xavier_init(size=[h_dim, z_dim]))
+                self.bhz_mu = nn.Parameter(torch.zeros(z_dim))
+                self.Whz_var = nn.Parameter(xavier_init(size=[h_dim, z_dim]))
+                self.bhz_var = nn.Parameter(torch.zeros(z_dim))
+                self.softmax=nn.Softmax()
+                self.decoder_lstm=nn.LSTMCell(test_dim,testh_dim)
+                self.Whx = nn.Parameter(xavier_init(size=[testh_dim, action_dim]))
+                self.bhx = nn.Parameter(torch.zeros(action_dim))
 			
-		self.context=[]
-		self.test=[]
+                self.context=[]
+                self.test=[]
 
-	def decoder(self,z):
-	        outputs=[]
-	        h_t2 = z
-	        c_t2 = Variable(torch.zeros(1,testh_dim), requires_grad=False)
-	        for i in self.test:
-	                h_t2, c_t2 = self.decoder_lstm(i.unsqueeze(0), (h_t2, c_t2))
-	                output= self.softmax(h_t2 @ self.Whx + self.bhx.repeat(h_t2.size(0), 1))
-	                outputs += [output]        
-	        return torch.stack(outputs,1).squeeze(2)
+        def decoder(self,z,num):
+                outputs=[]
+                h_t2 = z
+                c_t2 = Variable(torch.zeros(1,testh_dim), requires_grad=False)
+                for i in range(num):
+                        h_t2, c_t2 = self.decoder_lstm(self.test[i].unsqueeze(0), (h_t2, c_t2))
+                        output= self.softmax(h_t2 @ self.Whx + self.bhx.repeat(h_t2.size(0), 1))
+                        outputs += [output]        
+                return torch.stack(outputs,1).squeeze(2)
 
 		
-	def forward(self,context,test):
+        def forward(self,context,test,num):
 		
                 self.context=context
                 self.test=test
 	
                 h_t = Variable(torch.zeros(1,h_dim), requires_grad=False)
                 c_t = Variable(torch.zeros(1,h_dim), requires_grad=False)
-                for i in self.context:
-                    print(i)
-                    h_t, c_t = self.encoder_lstm(i.unsqueeze(0), (h_t, c_t))
+                for i in range(num):
+                    h_t, c_t = self.encoder_lstm(self.context[i].unsqueeze(0), (h_t, c_t))
 		
                 z_mu=h_t @ self.Whz_mu + self.bhz_mu.repeat(h_t.size(0), 1)
                 z_var = h_t @ self.Whz_var + self.bhz_var.repeat(h_t.size(0), 1)
                 eps = Variable(torch.randn(1, z_dim))
                 z = z_mu + torch.exp(z_var / 2) * eps
                 
-                print(z)
-                pp=self.decoder(z)
+                pp=self.decoder(z,num)
                 return pp,z_mu,z_var,z
 
 def train():
@@ -76,11 +74,11 @@ def train():
                 context=infodata[i]
                 test=testdata[i][0]
                 target=testdata[i][1]
-                outputs,z_mu,z_var,z=vae(context,test)
+                outputs,z_mu,z_var,z=vae(context,test,testnum[i])
                 klloss=torch.mean(0.5 * torch.sum(torch.exp(z_var) + z_mu**2 - 1. - z_var, 1))
                 print(outputs)
-                print(target)
-                loss=reconloss(outputs,target)+klloss
+                print(target[0:testnum[i]])
+                loss=reconloss(outputs,target[0:testnum[i]])+klloss
                 print(loss)
                 loss.backward()
                 vae_optimizer.step()
@@ -113,10 +111,11 @@ def checknotendround(x):
 fil=pd.read_csv('./2')
 	
 i=0
+testnum=[0 for col in range(10)]
 infodata=[]
 testdata=[]
 casenum=0
-while i<length:
+while fil.ix[i,0]!=-1:
         i=i+3
         info=readinfo(fil.ix[i])
         i+=1
@@ -126,21 +125,24 @@ while i<length:
         j=0
         numx=0
         numy=0
-        inputx=[[0 for col in range(info_dim)] for roun in range(10)]
-        inputy=[[0 for col in range(test_dim)] for roun in range(10)]
-        target=[[0 for col in range(action_dim)] for roun in range(10)]
-
+        inputx=[[-1 for col in range(info_dim)] for roun in range(10)]
+        inputy=[[-1 for col in range(test_dim)] for roun in range(10)]
+        target=[[-1 for col in range(action_dim)] for roun in range(10)]
         while checknotendround(fil.ix[i]):
                 if ((j%2)==0):
                         inputy[numy]=info+readaction(fil.ix[i])
                         numy+=1
                 else:
                         target[numy-1]=readaction(fil.ix[i])
+                        #print(i,j,numy)
+                        #print(target[numy-1])
+                        
                         inputx[numx]=inputy[numy-1]+target[numy-1]
                         numx=numx+1
                 j=j+1
                 i=i+2
-
+        if (j%2)!=0:
+            numy=numy-1
         info=add(info,readinfo(fil.ix[i]))
         i+=1
         info=add(info,readinfo(fil.ix[i]))
@@ -160,7 +162,8 @@ while i<length:
 
                 j=j+1
                 i=i+2
-
+        if (j%2)!=0:
+            numy=numy-1
         info=add(info,readinfo(fil.ix[i]))
         i+=1
 	
@@ -177,6 +180,8 @@ while i<length:
                 j=j+1
                 i=i+2
 	
+        if (j%2)!=0:
+            numy=numy-1
         info=add(info,readinfo(fil.ix[i]))
         i+=1
 
@@ -193,9 +198,15 @@ while i<length:
                         
                 j=j+1
                 i=i+2
+        if (j%2)!=0:
+            numy=numy-1
 
         infodata=infodata+[Variable(torch.FloatTensor(inputx))]
         testdata=testdata+[[Variable(torch.FloatTensor(inputy))]+[Variable(torch.FloatTensor(target))]]
+        print(numy)
+        print(numx)
+        testnum[casenum]=numy
+        print(testnum)
         casenum=casenum+1
 	
         if (fil.ix[i][0]==-1):
