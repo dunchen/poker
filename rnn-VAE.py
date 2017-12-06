@@ -5,12 +5,12 @@ import torch.optim as optim
 import pandas as pd
 import numpy as np
 
-nnum=10000
+nnum=1000
 info_dim=50+12
 h_dim=12
-z_dim=10
+z_dim=6
 test_dim=50+6
-testh_dim=10
+testh_dim=6
 action_dim=6
 path='~/Downloads/Final_fo_realz.txt'
 #path='./2'
@@ -76,7 +76,7 @@ def train():
                 context=infodata[i]
                 test=testdata[i][0]
                 target=testdata[i][1]
-                if testnum[i]==0: continue
+                if testnum[i]<3: continue
                 outputs,z_mu,z_var,z=vae(context,test,testnum[i])
                 klloss=torch.mean(0.5 * torch.sum(torch.exp(z_var) + z_mu**2 - 1. - z_var, 1))
                 loss=reconloss(outputs,target[0:testnum[i]])+klloss

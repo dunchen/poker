@@ -5,15 +5,15 @@ import torch.optim as optim
 import pandas as pd
 import numpy as np
 
-nnum=10000
+nnum=2
 info_dim=50+12
 h_dim=12
 z_dim=10
 test_dim=50+6
 testh_dim=10
 action_dim=6
-path='~/Downloads/Final_fo_realz.txt'
-#path='./2'
+#path='~/Downloads/Final_fo_realz.txt'
+path='./3'
 
 def xavier_init(size):
     in_dim = size[0]
@@ -64,3 +64,163 @@ class VAE(nn.Module):
 
                 pp=self.decoder(z,num)
                 return pp,z_mu,z_var,z
+
+vae=VAE()
+vae.load_state_dict(torch.load('./9000'))
+
+def readinfo(x):
+    out=[]
+    for i in range(50):
+        out=out+[float(pd.to_numeric(x[i]))]
+    return out
+
+def readaction(x):
+    out=[]
+    for i in range(6):
+        out=out+[x[i].astype(float)]
+    return out
+
+def add(x,y):
+    out=[0 for col in range(50)]
+    for i in range(50):
+        out[i]=x[i]+y[i]
+    return out
+
+def checknotendround(x):
+    return(pd.isnull(x[40]) and (x[0]!=-1))
+
+fil=pd.read_csv(path)
+	
+i=0
+testnum=[0 for col in range(nnum)]
+infodata=[]
+testdata=[]
+casenum=0
+while (fil.ix[i,0]!=-1) and (casenum<nnum):
+        i=i+3
+        info=readinfo(fil.ix[i])
+        i+=1
+        info=add(info,readinfo(fil.ix[i]))
+        i=i+6
+	
+        j=0
+        numx=0
+        numy=0
+        inputx=[[-1 for col in range(info_dim)] for roun in range(10)]
+        inputy=[[-1 for col in range(test_dim)] for roun in range(10)]
+        target=[[-1 for col in range(action_dim)] for roun in range(10)]
+        while checknotendround(fil.ix[i]):
+                if ((j%2)==0):
+                        inputy[numy]=info+readaction(fil.ix[i])
+                        numy+=1
+                else:
+                        target[numy-1]=readaction(fil.ix[i])
+                        #print(i,j,numy)
+                        #print(target[numy-1])
+                        
+                        inputx[numx]=inputy[numy-1]+target[numy-1]
+                        numx=numx+1
+                j=j+1
+                i=i+2
+        print(i)
+        if (j%2)!=0:
+            numy=numy-1
+        info=add(info,readinfo(fil.ix[i]))
+        i+=1
+        info=add(info,readinfo(fil.ix[i]))
+        i+=1
+        info=add(info,readinfo(fil.ix[i]))
+        i+=1
+        
+        j=0
+        while checknotendround(fil.ix[i]):
+                if ((j%2)==0):
+                        inputy[numy]=info+readaction(fil.ix[i])
+                        numy+=1
+                else:
+                        target[numy-1]=readaction(fil.ix[i])
+                        inputx[numx]=inputy[numy-1]+target[numy-1]
+                        numx=numx+1
+
+                j=j+1
+                i=i+2
+
+        print(fil.ix[i])
+        if (j%2)!=0:
+            numy=numy-1
+        info=add(info,readinfo(fil.ix[i]))
+        i+=1
+	
+        j=0     
+        while checknotendround(fil.ix[i]):
+                if ((j%2)==0):
+                        inputy[numy]=info+readaction(fil.ix[i])
+                        numy+=1
+                else:
+                        target[numy-1]=readaction(fil.ix[i])
+                        inputx[numx]=inputy[numy-1]+target[numy-1]
+                        numx=numx+1
+
+                j=j+1
+                i=i+2
+	
+        if (j%2)!=0:
+            numy=numy-1
+        info=add(info,readinfo(fil.ix[i]))
+        i+=1
+
+        j=0
+        print(i)
+        while checknotendround(fil.ix[i]):
+                if ((j%2)==0):
+                        inputy[numy]=info+readaction(fil.ix[i])
+                        numy+=1
+                else:   
+                        target[numy-1]=readaction(fil.ix[i])
+                        inputx[numx]=inputy[numy-1]+target[numy-1]
+                        numx=numx+1
+
+                        
+                j=j+1
+                i=i+2
+        if (j%2)!=0:
+            numy=numy-1
+
+        infodata=infodata+[Variable(torch.FloatTensor(inputx))]
+        testdata=testdata+[[Variable(torch.FloatTensor(inputy))]+[Variable(torch.FloatTensor(target))]]
+        #print(numy)
+        #print(numx)
+        testnum[casenum]=numy
+        #print(testnum)
+        casenum=casenum+1
+	
+        if (fil.ix[i][0]==-1):
+                i=i+1
+
+        print(i)
+
+'''
+for i in range(casenum):
+                context=infodata[i]
+                test=testdata[i][0]
+                target=testdata[i][1]
+                outputs,z_mu,z_var,z=vae(context,test,testnum[i])
+                klloss=torch.mean(0.5 * torch.sum(torch.exp(z_var) + z_mu**2 - 1. - z_var, 1))
+                loss=reconloss(outputs,target[0:testnum[i]])+klloss
+                print(loss)
+                print(reconloss(outputs,target[0:testnum[i]]),klloss)
+                print(outputs)
+                print(target[0:testnum[i]])
+                print(i)
+'''
+
+context=infodata[0]
+test=testdata[0][0]
+target=testdata[0][1]
+_,_,_,z=vae(context,test,testnum[0])
+vae.test=testdata[1][1]
+out,_,_,_=vae.decoder(z,testnum[1])
+print(out)
+print(target[0:testnum[1]])
+
+
