@@ -5,12 +5,12 @@ import torch.optim as optim
 import pandas as pd
 import numpy as np
 
-nnum=1000
+nnum=3000
 info_dim=50+12
 h_dim=12
-z_dim=6
+z_dim=4
 test_dim=50+6
-testh_dim=6
+testh_dim=4
 action_dim=6
 path='~/Downloads/Final_fo_realz.txt'
 #path='./2'

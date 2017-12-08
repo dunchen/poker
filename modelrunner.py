@@ -5,7 +5,7 @@ import torch.optim as optim
 import pandas as pd
 import numpy as np
 
-nnum=2
+nnum=4
 info_dim=50+12
 h_dim=12
 z_dim=10
@@ -122,7 +122,7 @@ while (fil.ix[i,0]!=-1) and (casenum<nnum):
                         numx=numx+1
                 j=j+1
                 i=i+2
-        print(i)
+        print(i,fil.ix[i])
         if (j%2)!=0:
             numy=numy-1
         info=add(info,readinfo(fil.ix[i]))
@@ -145,7 +145,7 @@ while (fil.ix[i,0]!=-1) and (casenum<nnum):
                 j=j+1
                 i=i+2
 
-        print(fil.ix[i])
+        print(i,fil.ix[i])
         if (j%2)!=0:
             numy=numy-1
         info=add(info,readinfo(fil.ix[i]))
@@ -170,7 +170,7 @@ while (fil.ix[i,0]!=-1) and (casenum<nnum):
         i+=1
 
         j=0
-        print(i)
+        print('****',i,fil.ix[i])
         while checknotendround(fil.ix[i]):
                 if ((j%2)==0):
                         inputy[numy]=info+readaction(fil.ix[i])
@@ -179,7 +179,6 @@ while (fil.ix[i,0]!=-1) and (casenum<nnum):
                         target[numy-1]=readaction(fil.ix[i])
                         inputx[numx]=inputy[numy-1]+target[numy-1]
                         numx=numx+1
-
                         
                 j=j+1
                 i=i+2
@@ -196,8 +195,8 @@ while (fil.ix[i,0]!=-1) and (casenum<nnum):
 	
         if (fil.ix[i][0]==-1):
                 i=i+1
-
-        print(i)
+        print('oooo')
+        
 
 '''
 for i in range(casenum):
@@ -217,10 +216,20 @@ for i in range(casenum):
 context=infodata[0]
 test=testdata[0][0]
 target=testdata[0][1]
-_,_,_,z=vae(context,test,testnum[0])
-vae.test=testdata[1][1]
-out,_,_,_=vae.decoder(z,testnum[1])
-print(out)
-print(target[0:testnum[1]])
-
+l0=0
+l1=0
+l2=0
+l3=0
+for j in range(1000):
+    _,_,_,z0=vae(infodata[0],testdata[0][0],testnum[0])
+    _,_,_,z2=vae(infodata[2],testdata[2][0],testnum[2])
+    _,_,_,z1=vae(infodata[1],testdata[1][0],testnum[1])
+    _,_,_,z3=vae(infodata[3],testdata[3][0],testnum[3])
+    for i in range(10):
+        l0=l0+(z3.data[0][i]-z1.data[0][i])*(z3.data[0][i]-z1.data[0][i])
+    for i in range(10):
+        l1=l1+(z1.data[0][i]-z2.data[0][i])*(z1.data[0][i]-z2.data[0][i])
+    for i in range(10):
+        l2=l2+(z3.data[0][i]-z2.data[0][i])*(z3.data[0][i]-z2.data[0][i])
+print(l0,l1,l2)
 
