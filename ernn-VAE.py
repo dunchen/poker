@@ -80,14 +80,13 @@ def train():
                 if testnum[i]<3: continue
                 outputs,z_mu,z_var,z=vae(context,test,testnum[i])
                 klloss=torch.mean(0.5 * torch.sum(torch.exp(z_var) + z_mu**2 - 1. - z_var, 1))
-                loss=reconloss(outputs,target[0:testnum[i]])+7*klloss
+                loss=reconloss(outputs,target[0:testnum[i]])+10*klloss
                 if i%100==0:
                         print(loss)
                         print(reconloss(outputs,target[0:testnum[i]]),klloss)
                         print(outputs)
                         print(target[0:testnum[i]])
                 loss.backward()
-                torch.nn.utils.clip_grad_norm(vae.parameters(), 0.25)
                 vae_optimizer.step()
                 print(i)
                 if i%1000==0: torch.save(vae.state_dict(),'./'+str(i))

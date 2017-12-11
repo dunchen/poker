@@ -8,9 +8,9 @@ import numpy as np
 nnum=4
 info_dim=50+12
 h_dim=12
-z_dim=10
+z_dim=6
 test_dim=50+6
-testh_dim=10
+testh_dim=6
 action_dim=6
 #path='~/Downloads/Final_fo_realz.txt'
 path='./3'
@@ -38,7 +38,7 @@ class VAE(nn.Module):
 
         def decoder(self,z,num):
                 outputs=[]
-                h_t2 = z
+                h_t2 = torch.tanh(z)
                 c_t2 = Variable(torch.zeros(1,testh_dim), requires_grad=False)
                 for i in range(num):
                         h_t2, c_t2 = self.decoder_lstm(self.test[i].unsqueeze(0), (h_t2, c_t2))
@@ -66,7 +66,7 @@ class VAE(nn.Module):
                 return pp,z_mu,z_var,z
 
 vae=VAE()
-vae.load_state_dict(torch.load('./9000'))
+vae.load_state_dict(torch.load('./3000'))
 
 def readinfo(x):
     out=[]
@@ -225,11 +225,11 @@ for j in range(1000):
     _,_,_,z2=vae(infodata[2],testdata[2][0],testnum[2])
     _,_,_,z1=vae(infodata[1],testdata[1][0],testnum[1])
     _,_,_,z3=vae(infodata[3],testdata[3][0],testnum[3])
-    for i in range(10):
-        l0=l0+(z3.data[0][i]-z1.data[0][i])*(z3.data[0][i]-z1.data[0][i])
-    for i in range(10):
-        l1=l1+(z1.data[0][i]-z2.data[0][i])*(z1.data[0][i]-z2.data[0][i])
-    for i in range(10):
-        l2=l2+(z3.data[0][i]-z2.data[0][i])*(z3.data[0][i]-z2.data[0][i])
+    for i in range(z_dim):
+        l0=l0+(z0.data[0][i]-z3.data[0][i])*(z0.data[0][i]-z3.data[0][i])
+    for i in range(z_dim):
+        l1=l1+(z1.data[0][i]-z3.data[0][i])*(z1.data[0][i]-z3.data[0][i])
+    for i in range(z_dim):
+        l2=l2+(z0.data[0][i]-z3.data[0][i])*(z0.data[0][i]-z3.data[0][i])
 print(l0,l1,l2)
 
